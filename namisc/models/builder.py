@@ -14,7 +14,6 @@ SD = MODELS
 CD = MODELS
 TRANSCEIVER = MODELS
 
-
 def build_se(cfg):
     """Build semantic encoder."""
     return SE.build(cfg)

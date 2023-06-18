@@ -52,69 +52,22 @@ distributed = (num_gpus > 1)
 work_dir = './work_dirs/deepsc/deepsc_#DATANAME#/'
 timestamp = datetime.now().strftime('%d-%b-%H-%M')
 
-# shared params by model and data and ...
-dataset_type = 'llff'
-no_ndc = True  # 源代码中'if args.dataset_type != 'llff' or args.no_ndc:' 就设置no_ndc
-
-white_bkgd = False  # set to render synthetic data on a white bkgd (always use for dvoxels)
-is_perturb = True  # set to 0. for no jitter, 1. for jitter
-use_viewdirs = True  # use full 5D input instead of 3D
-N_rand_per_sampler = 1024  # how many N_rand in get_item() function
-lindisp = False  # sampling linearly in disparity rather than depth
-N_samples = 64  # number of coarse samples per ray
-
 # resume_from = os.path.join(work_dir, 'latest.pth')
 load_from = os.path.join(work_dir, 'latest.pth')
 
 model = dict(
-    type='NerfNetwork',
+    type='DeepSCTranseiver',
     cfg=dict(
         phase='train',  # 'train' or 'test'
-        N_importance=128,  # number of additional fine samples per ray
-        is_perturb=is_perturb,
-        chunk=1024 * 32,  # mainly work for val
-        bs_data='rays_o',  # the data's shape indicates the real batch-size
     ),
     mlp=dict(  # coarse model
         type='NerfMLP',
-        skips=[4],
-        netdepth=8,  # layers in network
-        netwidth=256,  # channels per layer
-        netchunk=1024 * 32,  # number of pts sent through network in parallel;
-        output_ch=5,  # 5 if cfg.N_importance>0 else 4
-        use_viewdirs=use_viewdirs,
-        embedder=dict(
-            type='BaseEmbedder',
-            i_embed=0,  # set 0 for default positional encoding, -1 for none
-            multires=
-            10,  # log2 of max freq for positional encoding (3D location)
-            multires_dirs=
-            4,  # this is 'multires_views' in origin codes, log2 of max freq for positional encoding (2D direction)
-        ),
     ),
     mlp_fine=dict(  # fine model
         type='NerfMLP',
-        skips=[4],
-        netdepth=8,  # layers in fine network
-        netwidth=256,  # channels per layer in fine network
-        netchunk=1024 * 32,
-        output_ch=5,  # 5 if cfg.N_importance>0 else 4
-        use_viewdirs=use_viewdirs,  # same as above
-        embedder=dict(
-            type='BaseEmbedder',
-            i_embed=0,  # set 0 for default positional encoding, -1 for none
-            multires=
-            10,  # log2 of max freq for positional encoding (3D location)
-            multires_dirs=
-            4,  # this is 'multires_views' in origin codes, log2 of max freq for positional encoding (2D direction)
-        ),
     ),
     render=dict(  # render model
         type='NerfRender',
-        white_bkgd=
-        white_bkgd,  # set to render synthetic data on a white bkgd (always use for dvoxels)
-        raw_noise_std=
-        1e0,  # std dev of noise added to regularize sigma_a output, 1e0 recommended
     ),
 )
 
