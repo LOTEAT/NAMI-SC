@@ -4,9 +4,9 @@ Date: 2023-06-18 00:03:49
 '''
 
 from torch import nn
-from ..attention.attention import MultiHeadedAttention
-from ..attention.sublayer import SublayerConnection
-from ..attention.feedforward import PositionwiseFeedForward
+from .attention import MultiHeadedAttention
+from .sublayer import SublayerConnection
+from .feedforward import PositionwiseFeedForward
 
 class TransformerEncoder(nn.Module):
     "Encoder is made up of self-attn and feed forward (defined below)"
