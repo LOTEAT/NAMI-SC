@@ -3,9 +3,9 @@ Author: LOTEAT
 Date: 2023-06-18 00:04:05
 '''
 from torch import nn
-from .attention import MultiHeadedAttention
-from .sublayer import SublayerConnection
-from .feedforward import PositionwiseFeedForward
+from ..attention.attention import MultiHeadedAttention
+from ..attention.sublayer import SublayerConnection
+from ..attention.feedforward import PositionwiseFeedForward
 
 class DecoderLayer(nn.Module):
     """
@@ -34,8 +34,7 @@ class DecoderLayer(nn.Module):
         output1 = self.sublayer1(x, attn1)
         attn2, attn_weights2 = self.attention_layer2(
             output1, enc_output, enc_output, padding_mask
-        )
-        
+        )       
         output2 = self.sublayer2(output1, attn2)
         ffn_output = self.ffn(output2)
         output3 = self.sublayer3(output2, ffn_output)
