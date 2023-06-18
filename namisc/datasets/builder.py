@@ -1,13 +1,11 @@
-import numpy as np
-import torch
-from mmcv.parallel import collate
-from mmcv.runner import get_dist_info
-from mmcv.utils import Registry, build_from_cfg, digit_version
-from torch.utils.data import DataLoader
+'''
+Author: LOTEAT
+Date: 2023-06-18 22:15:43
+'''
+from mmcv.utils import Registry, build_from_cfg
 
 DATASETS = Registry('dataset')
 PIPELINES = Registry('pipeline')
-
 
 def build_dataset(cfg, default_args=None):
     """Build a dataset from config dict.

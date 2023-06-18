@@ -4,10 +4,7 @@ Date: 2023-06-18 20:51:15
 '''
 # Copyright (c) OpenMMLab. All rights reserved.
 from abc import ABCMeta, abstractmethod
-
-import torch
 from torch import nn
-
 from ..builder import CD
 
 
