@@ -7,7 +7,7 @@ from ..attention.attention import MultiHeadedAttention
 from ..attention.sublayer import SublayerConnection
 from ..attention.feedforward import PositionwiseFeedForward
 
-class DecoderLayer(nn.Module):
+class TransformerDecoder(nn.Module):
     """
     This is decoder leayer, which includes three layers,
     1. multihead,
@@ -16,7 +16,7 @@ class DecoderLayer(nn.Module):
     """
 
     def __init__(self, size, d_model, num_heads, dff, drop_pro=0.1):
-        super(DecoderLayer, self).__init__()
+        super(TransformerDecoder, self).__init__()
         
         self.attention_layer1 = MultiHeadedAttention(num_heads, d_model)  # masked
         self.attention_layer2 = MultiHeadedAttention(num_heads, d_model)

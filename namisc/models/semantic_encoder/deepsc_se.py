@@ -4,15 +4,7 @@ from ..builder import SE
 from .base import BaseSE
 from ..transformer.base.encoder import TransformerEncoder
 from ..transformer.attention.position import PositionalEncoding
-
-class Embeddings(nn.Module):
-    def __init__(self, d_model, vocab):
-        super(Embeddings, self).__init__()
-        self.lut = nn.Embedding(vocab, d_model)
-        self.d_model = d_model
-
-    def forward(self, x):
-        return self.lut(x) * math.sqrt(self.d_model)
+from ..transformer.attention.embedding import Embeddings
 
 @SE.register_module()
 class SemanticEncoder(BaseSE):
