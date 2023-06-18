@@ -4,19 +4,19 @@ Date: 2023-06-18 20:19:49
 '''
 
 import torch.nn as nn
-import math
 from ..builder import SD
 from .base import BaseSD
 from ..transformer.base.decoder import TransformerDecoder
 from ..transformer.attention.position import PositionalEncoding
 from ..transformer.attention.embedding import Embeddings
-class SemanticDecoder(BaseSD):
+
+@SD.register_module()
+class DeepSCSemanticDecoder(BaseSD):
     """
     1. Output Embedding
     2. Positional Encoding
     3. N decoder layers
     """
-
     def __init__(
         self,
         num_layers,
@@ -28,7 +28,7 @@ class SemanticDecoder(BaseSD):
         sd_dropout=0.1,
         pos_dropout=0
     ):
-        super(SemanticDecoder, self).__init__()
+        super(DeepSCSemanticDecoder, self).__init__()
 
         self.d_model = d_model
         self.num_layers = num_layers
@@ -59,5 +59,4 @@ class SemanticDecoder(BaseSD):
         attention_weights["decoder_layer{}_block1".format(i + 1)] = block1
         attention_weights["decoder_layer{}_block2".format(i + 1)] = block2
         x = self.final_layer(x)
-
         return x, attention_weights

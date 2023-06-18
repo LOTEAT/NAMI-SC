@@ -7,7 +7,7 @@ from ..transformer.attention.position import PositionalEncoding
 from ..transformer.attention.embedding import Embeddings
 
 @SE.register_module()
-class SemanticEncoder(BaseSE):
+class DeepSCSemanticEncoder(BaseSE):
     def __init__(
         self,
         num_layers,
@@ -19,7 +19,7 @@ class SemanticEncoder(BaseSE):
         se_dropout=0.1,
         pos_dropout=0
     ):
-        super(SemanticEncoder, self).__init__()
+        super(DeepSCSemanticEncoder, self).__init__()
         self.d_model = d_model
         self.dff = dff
         self.num_layers = num_layers
@@ -33,7 +33,6 @@ class SemanticEncoder(BaseSE):
         ])
         
     def forward(self, x, mask):
-        self.pos_encoding = self.pos_encoding.to(x.device)
         # Embedding
         x = self.embedding(x)
         # positional Encoding
