@@ -23,7 +23,7 @@ def train_sc(cfg):
     """
     pass 
     train_loader, trainset = build_dataloader(cfg, mode='train')
-    # val_loader, valset = build_dataloader(cfg, mode='val')
+    val_loader, valset = build_dataloader(cfg, mode='val')
     # dataloaders = [train_loader, val_loader]
 
     # network = build_network(cfg.model)
