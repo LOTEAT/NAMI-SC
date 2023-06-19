@@ -6,12 +6,10 @@ Date: 2023-06-19 11:55:41
 # import warnings
 
 # import torch
-# from mmcv.parallel import MMDataParallel, MMDistributedDataParallel, collate
-# from mmcv.runner import IterBasedRunner, get_dist_info, init_dist
+from mmcv.parallel import MMDataParallel, MMDistributedDataParallel, collate
 
 from namisc.models.builder import build_transceiver
-# from xrnerf.utils import get_root_logger
-
+from namisc.utils import get_root_logger
 from .helper import build_dataloader, get_optimizer, get_runner, register_hooks
 
 
@@ -40,14 +38,14 @@ def train_sc(cfg):
     #         broadcast_buffers=False,
     #         find_unused_parameters=find_unused_parameters)
     # else:
-    #     network = MMDataParallel(network.cuda(), device_ids=[0])
+    network = MMDataParallel(network.cuda(), device_ids=[1])
 
-    # Runner = get_runner(cfg.train_runner)
-    # runner = Runner(network,
-    #                 optimizer=optimizer,
-    #                 work_dir=cfg.work_dir,
-    #                 logger=get_root_logger(log_level=cfg.log_level),
-    #                 meta=None)
+    Runner = get_runner(cfg.train_runner)
+    runner = Runner(network,
+                    optimizer=optimizer,
+                    work_dir=cfg.work_dir,
+                    logger=get_root_logger(log_level=cfg.log_level),
+                    meta=None)
 
     # runner.timestamp = cfg.get('timestamp', None)
 
