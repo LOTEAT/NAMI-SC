@@ -8,6 +8,10 @@ import torch
 from ..builder import PIPELINES
 
 @PIPELINES.register_module()
+
+torch.nn.utils.rnn.pad_sequence([torch.LongTensor(seq) for seq in data], batch_first=True)
+
+
 class CalculateSkelTransf:
     """Calculate skeletal transformation
     Args:
