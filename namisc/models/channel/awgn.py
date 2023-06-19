@@ -10,7 +10,7 @@ from ..builder import CHANNEL
 @CHANNEL.register_module()
 class Awgn(BaseChannel):
     def __init__(self):
-        pass
+        super(Awgn, self).__init__()
 
     def forward(self, data, n_std):
         y = data + torch.randn_like(data) * n_std
