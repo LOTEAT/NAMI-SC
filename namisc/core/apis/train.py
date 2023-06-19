@@ -28,7 +28,7 @@ def train_sc(cfg):
 
     tranceiver = build_transceiver(cfg.model)
 
-    # optimizer = get_optimizer(network, cfg)
+    optimizer = get_optimizer(tranceiver, cfg)
 
     # if cfg.distributed:
     #     print('init_dist...', flush=True)
