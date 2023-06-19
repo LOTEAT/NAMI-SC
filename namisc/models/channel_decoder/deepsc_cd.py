@@ -9,7 +9,7 @@ from ..builder import CD
 
 @CD.register_module()
 class DeepSCChannelDecoder(BaseCD):
-    def __init__(self, d_model):
+    def __init__(self, d_model=128):
         super(DeepSCChannelDecoder, self).__init__()
         self.dense1 = nn.Linear(16, d_model)
         self.ac_fun1 = nn.ReLU()

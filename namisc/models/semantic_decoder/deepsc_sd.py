@@ -42,7 +42,7 @@ class DeepSCSemanticDecoder(BaseSD):
         ])
         self.dropout = nn.Dropout(sd_dropout)
         # prediction layer
-        self.final_layer = nn.Linear(128, vocab_size)
+        self.final_layer = nn.Linear(d_model, vocab_size)
 
     def forward(self, x, enc_output, training, look_ahead_mask, padding_mask):
         attention_weights = {}

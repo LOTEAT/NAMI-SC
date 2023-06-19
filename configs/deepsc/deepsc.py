@@ -56,6 +56,11 @@ model = dict(
     ),
     se=dict(  
         type='DeepSCSemanticEncoder',
+        num_layers=4,
+        num_heads=8,
+        d_model=128,
+        dff=512,
+        vocab_size=22234
     ),
     ce=dict(
         type='DeepSCChannelEncoder'
@@ -68,6 +73,11 @@ model = dict(
     ),
     sd=dict( 
         type='DeepSCSemanticDecoder',
+        num_layers=4,
+        num_heads=8,
+        d_model=128,
+        dff=512,
+        vocab_size=22234
     ),
 )
 
