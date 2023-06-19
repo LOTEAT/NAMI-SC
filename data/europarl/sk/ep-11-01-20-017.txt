@@ -1,6 +1,0 @@
-<CHAPTER ID="017">
-Zaslanie textov prijatých počas rokovania: pozri zápisnicu
-<SPEAKER ID="413" NAME="Robert Sturdy" AFFILIATION="ECR">
-Práve sa konali dve hlasovania podľa mien. Dnes ráno pred obedom sa konali iba dve hlasovania podľa mien. V tomto Parlamente platí pravidlo, že musíte byť prítomní na minimálne 50 % hlasovaní a na 50 % hlasovaní podľa mien, aby ste mali nárok na celodenný plat. Platí to aj v tomto prípade alebo je to inak?
-<SPEAKER ID="414" NAME="Predsedajúci">
-Je to tak. Musíte sa zúčastniť na 50 % hlasovaní.
