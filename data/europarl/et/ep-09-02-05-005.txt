@@ -1,4 +1,0 @@
-<CHAPTER ID="005">
-Hääletustund
-<SPEAKER ID="064" NAME="Juhataja">
-Päevakorra järgmine punkt on hääletustund.

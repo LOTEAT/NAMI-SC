@@ -1,4 +1,0 @@
-<CHAPTER ID="006-07">
-7. Možnosti za razvoj civilnega dialoga v okviru Lizbonske pogodbe (
-<SPEAKER ID="061" NAME="Christopher Beazley" AFFILIATION="PPE-DE">
-Gospa predsednica, kaže, da imamo trenutno kar precej poimenskih glasovanj, kar je malce utrudljivo za ljudi, kot sem jaz, ki jim naprave ne delujejo. Ali lahko zabeležim vse glasove "za" in prosim za tehnično pomoč?

@@ -1,6 +1,0 @@
-<CHAPTER ID="006-33">
-33. Zmena a doplnenie nariadenia (ES) č. 717/2007 (mobilné telefónne siete) a smernice 2002/21/ES (elektronické komunikácie) (
-<P>
-- Pred začiatkom hlasovania:
-<SPEAKER ID="130" NAME="Adina-Ioana Vălean" AFFILIATION="ALDE">
-Vážený pán predsedajúci, toto je malá úprava požadovaná Radou na odstránenie nedôslednosti vo výmenných kurzoch týkajúcich sa limitov a maximálnej ceny za SMS správy. V zmysle dohody s Radou by sa na koniec článku 1 odsek 4 pôvodného nariadenia, ktorým je článok 1 bod 2(b) pozmeňujúceho a doplňujúceho nariadenia, mal pridať nasledovný text: "Na ročné revidovanie hodnoty poplatkov, ktoré upravujú články 4a, 4b a 6a odsek 3, kde tieto poplatky nie sú uvádzané v eurách, sa použijú rovnaké referenčné výmenné kurzy.”

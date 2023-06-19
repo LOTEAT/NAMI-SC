@@ -1,2 +1,0 @@
-<CHAPTER ID="006-11">
-11. Red de información sobre alertas en infraestructuras críticas (

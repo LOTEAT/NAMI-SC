@@ -1,8 +1,0 @@
-<CHAPTER ID="015">
-A bizottságok tagjai: lásd a jegyzőkönyvet
-<SPEAKER ID="272" NAME="Bernd Posselt" AFFILIATION="PPE">
-(DE) Elnök úr, elnézést kérek, de az egész nap folyamán minden egyes napirendi pont kapcsán egy szélsőjobboldali magyar képviselő felszólalalását kell hallgatnom, aki Magyarországról beszél. Kérem, szögezze le, hogy most más kérdések vannak napirenden. Lehet, hogy a képviselőben ez nem tudatosult.
-<P>
-(Taps)
-<SPEAKER ID="273" NAME="Elnök">
-Sajnos az illető képviselő jelenleg nem tartózkodik az ülésteremben. Feltételezem, hogy tudomásul fogja venni az ön észrevételét.

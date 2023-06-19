@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Az ülés megnyitása
-<P>
-(Az ülést 10.00-kor megnyitják.)
-<P>
-
-<SPEAKER ID="005" NAME="Antonio Tajani" AFFILIATION="PPE-DE">
-(IT) Tisztelt elnök úr, hölgyeim és uraim! Európa ma elveszítette egyik legnagyobb művészét. Luciano Pavarotti ma reggel Modenában elhunyt, és úgy gondolom, helyénvaló, hogy kegyelettel adózzunk ennek a művészetet és kultúrát képviselő kiváló embernek, aki az egész világot megismertette az európai zenével. Halála óriási veszteség az Európai Unió egésze számára, és úgy gondolom, hogy a Parlamentben illő megemlékeznünk Luciano Pavarottiról.

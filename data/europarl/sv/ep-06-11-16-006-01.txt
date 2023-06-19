@@ -1,8 +1,0 @@
-<CHAPTER ID="006-01">
-1. Fiskeavtal mellan EU och Mauretanien (omröstning)
-<P>
-- Efter omröstningen:
-<SPEAKER ID="067" NAME="Véronique De Keyser" AFFILIATION="PSE">
-(FR) Herr talman! Eftersom vi på sistone har haft en del problem med omröstningar med namnupprop och handuppräckning, skulle jag vilja veta varför vi i dag har haft en omröstning med namnupprop, som inte ens finns med på omröstningslistan.
-<SPEAKER ID="068" NAME="Talmannen">
-Anledningen är att en politisk grupp krävde det.

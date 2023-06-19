@@ -1,6 +1,0 @@
-<CHAPTER ID="017">
-Předání textů přijatých během zasedání: viz zápis
-<SPEAKER ID="413" NAME="Robert Sturdy" AFFILIATION="ECR">
-Pane předsedající, proběhla jen dvě jmenovitá hlasování. Dnes dopoledne do oběda proběhla jen dvě jmenovitá hlasování. V tomto Parlamentu platí předpis, že musíte hlasovat více než 50 % času a účastnit se 50 % jmenovitých hlasování, abyste měli zajištěno, že obdržíte plat za celý den. Je to v tomto případě tak, nebo jak je to?
-<SPEAKER ID="414" NAME="Předsedající">
-To je správně. Musíte být přítomen 50 % času.

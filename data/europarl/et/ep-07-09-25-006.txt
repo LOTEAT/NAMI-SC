@@ -1,6 +1,0 @@
-<CHAPTER ID="006">
-Hääletamine
-<SPEAKER ID="096" NAME="President">
-Asume nüüd hääletamise juurde.
-<P>
-(Tulemuste ja muude üksikasjadega tutvumiseks vt protokoll)

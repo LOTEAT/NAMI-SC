@@ -1,6 +1,0 @@
-<CHAPTER ID="006">
-Hääletused
-<SPEAKER ID="052" NAME="Juhataja">
-Järgmisena toimub hääletamine.
-<P>
-(Tulemused ja muud hääletamist puudutavad asjaolud (vt protokoll)

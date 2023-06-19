@@ -1,6 +1,0 @@
-<CHAPTER ID="009">
-Afstemningstid
-<SPEAKER ID="085" NAME="Formanden">
-Vi går nu over til afstemning.
-<P>
-(Afstemningsresultat: se protokollen)

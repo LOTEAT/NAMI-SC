@@ -1,6 +1,0 @@
-<CHAPTER ID="009">
-Sēdes pārtraukšana
-<SPEAKER ID="119" NAME="Priekšsēdētājs">
-Es pasludinu Eiropas Parlamenta sēdi par pārtrauktu.
-<P>
-(Sēdi slēdza plkst. 18.00)

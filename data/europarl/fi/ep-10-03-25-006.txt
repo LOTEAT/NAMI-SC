@@ -1,6 +1,0 @@
-<CHAPTER ID="006">
-Äänestykset
-<SPEAKER ID="081" NAME="Puhemies">
-(ES) Siirrymme nyt äänestyksiin.
-<P>
-(Äänestysten tulokset ja niiden kulkua koskevat yksityiskohdat: ks. pöytäkirja)

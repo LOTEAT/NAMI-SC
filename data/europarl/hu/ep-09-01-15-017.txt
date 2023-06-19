@@ -1,6 +1,0 @@
-<CHAPTER ID="017">
-Az ülésszak megszakítása
-<SPEAKER ID="247" NAME="Elnök">
-Az Európai Parlament ülését berekesztem.
-<P>
-(Az ülést 16.10-kor berekesztik.)

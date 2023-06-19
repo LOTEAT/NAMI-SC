@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Osaistungjärgu avamine
-<P>
-(Istung avati kell 9.00.)
-<SPEAKER ID="005" NAME="Carl Schlyter" AFFILIATION="Verts/ALE">
-(SV) Härra president, eile parlamendi koridorides jalutades oleksite märganud põrandal väga palju Euroopa keemiatööstuse lobiorganisatsiooni kleebiseid, mõned neist on tänagi maas. Mind huvitab, kas kvestorid näituse korraldamiseks luba andes volitasid organisatsiooni meie põrandaid kleebistega üle külvama. Kui nii, siis pean seda valeks otsuseks. Kui kvestorid ei andnud sellist luba, siis arvan, et Cefic on lobiorganisatsioonina selgelt oma kohustusi rikkunud ja seetõttu tuleks neilt sissepääsuluba ära võtta või peaksime neile tegema vähemalt range noomituse. Ma loodan, et uurite, mis tegelikult juhtus, ja tagate nimetatud kleebiste viivitamatu eemaldamise.
-<SPEAKER ID="006" NAME="President">
-Hästi, me uurime seda asja, härra Schlyter.

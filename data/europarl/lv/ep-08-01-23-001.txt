@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Sesijas atsākšana
-<SPEAKER ID="999" NAME="Priekšsēdētāja">
-Paziņoju par ceturtdien, 2008. gada 17. janvārī pārtrauktās Eiropas Parlamenta sesijas atsākšanu.
-<P>
-Sēdi nevar sākt pirms plkst. 12.30, jo Komisijas priekšsēdētājam nav iespējams ierasties agrāk. Tādēļ to plānots beigt plkst. 14.00.
-<P>
-(Sēdi pārtrauca plkst. 12.05 un atsāka plkst. 12.30.)

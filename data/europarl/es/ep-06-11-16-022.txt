@@ -1,6 +1,0 @@
-<CHAPTER ID="022">
-Interrupción del periodo de sesiones
-<SPEAKER ID="223" NAME="El Presidente">
-Declaro interrumpido el periodo de sesiones del Parlamento Europeo.
-<P>
-(Se suspende la sesión a las 17.05 horas)

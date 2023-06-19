@@ -1,6 +1,0 @@
-<CHAPTER ID="017">
-Przekazanie tekstów przyjętych w trakcie obecnego posiedzenia: patrz protokół
-<SPEAKER ID="413" NAME="Robert Sturdy" AFFILIATION="ECR">
-Panie Przewodniczący! Wzięliśmy właśnie udział w dwóch głosowaniach imiennych. Dziś rano, przed obiadem, odbyły się jedynie dwa głosowania imienne. W Parlamencie obowiązuje zasada, zgodnie z którą należy wziąć udział w ponad 50 % głosowań oraz w 50 % głosowań imiennych, aby otrzymać wynagrodzenie za cały dzień pracy. Czy ta zasada obowiązuje również w tym przypadku?
-<SPEAKER ID="414" NAME="Przewodniczący">
-To prawda. Należy wziąć udział w 50 % wszystkich głosowań.

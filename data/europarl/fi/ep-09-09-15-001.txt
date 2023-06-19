@@ -1,4 +1,0 @@
-<CHAPTER ID="001">
-Istunnon avaaminen
-<P>
-(Istunto avattiin klo 9.10.)

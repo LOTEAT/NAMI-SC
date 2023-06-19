@@ -1,6 +1,0 @@
-<CHAPTER ID="017">
-Översändande av texter som antagits under sammanträdesperioden: se protokollet
-<SPEAKER ID="413" NAME="Robert Sturdy" AFFILIATION="ECR">
-(EN) Herr talman! Vi har precis haft två omröstningar med namnupprop. Före lunch i dag hade vi bara två omröstningar med namnupprop. Innebär parlamentets arbetsordning att man måste delta i omröstningar mer än halva tiden och delta i hälften av omröstningarna med namnupprop för att garantera att man får sitt heldagsarvode? Stämmer detta i det här fallet eller hur ser läget ut?
-<SPEAKER ID="414" NAME="Talmannen">
-Det stämmer. Man måste vara närvarande halva tiden.

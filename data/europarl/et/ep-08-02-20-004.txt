@@ -1,6 +1,0 @@
-<CHAPTER ID="004">
-Hääletused
-<SPEAKER ID="095" NAME="President">
-Jätkame hääletustega.
-<P>
-(Hääletuse tulemused ja teised üksikasjad: vt protokoll)

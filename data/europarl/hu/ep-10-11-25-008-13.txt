@@ -1,6 +1,0 @@
-<CHAPTER ID="008-13">
-13. Nemzetközi kereskedelempolitika az éghajlatváltozással kapcsolatos követelmények összefüggésében (
-<SPEAKER ID="101" NAME="Yannick Jadot" LANGUAGE="FR">
-Elnök úr, javasoljuk a 22. bekezdés végének módosítását a "megakadályoz” szó "tájékoztat”szóra történő cseréjével, így a mondat végleges formájában a következő lenne:
-<P>
-előadó. - "emlékeztet továbbá arra, hogy a Parlament felkérte a Bizottságot és a tagállamokat, hogy tájékoztassák az Európai Parlamentet az exporthitel-ügynökségek és az Európai Beruházási Bank által az éghajlatra negatív hatást gyakorló projekteknek nyújtott hitelekről”.

@@ -1,2 +1,0 @@
-<CHAPTER ID="005">
-Kehtetud kirjalikud deklaratsioonid (vt protokoll)

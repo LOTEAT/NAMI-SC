@@ -1,6 +1,0 @@
-<CHAPTER ID="017">
-Istungil vastu võetud tekstide edastamine (vt protokoll)
-<SPEAKER ID="413" NAME="Robert Sturdy" AFFILIATION="ECR">
-Austatud juhataja! Meil oli just kaks nimelist hääletust. Täna enne lõunat oli meil ainult kaks nimelist hääletust. Kas parlamendi eeskirjad näevad ette, et täispäevapalga saamiseks tuleb osa võtta üle 50% hääletustest ja 50% nimelistest hääletustest? Kas see peab paika praegusel juhul või milline on seis?
-<SPEAKER ID="414" NAME="Juhataja">
-See peab paika. Te peate kohal viibima 50% ajast.

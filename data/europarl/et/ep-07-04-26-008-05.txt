@@ -1,4 +1,0 @@
-<CHAPTER ID="008-05">
-5. Ostujõu pariteetide alusandmed (arvutamine ja levitamine) (hääletus)
-<P>
-- Bericht: Bowles

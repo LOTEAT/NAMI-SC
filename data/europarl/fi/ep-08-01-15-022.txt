@@ -1,6 +1,0 @@
-<CHAPTER ID="022">
-Seuraavan istunnon esityslista: katso pöytäkirja
-<SPEAKER ID="444" NAME="Zuzana Roithová" AFFILIATION="PPE-DE">
-(CS) Arvoisa puhemies, haluaisin kysyä, toistetaanko tämän päivän erikoinen järjestely vai oliko kyseessä vain tämän päivän erikoisuus. Voitteko ystävällisesti vastata minulle?
-<SPEAKER ID="445" NAME="Puhemies">
-Käsittääkseni kyseessä oli poikkeuksellinen tilanne pyyntöjen määrän osalta. Toivon, että tilanne ei toistu.

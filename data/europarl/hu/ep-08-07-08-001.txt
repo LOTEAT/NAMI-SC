@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Az ülés megnyitása
-<P>
-(Az ülést 9 órakor nyitják meg)
-<SPEAKER ID="005" NAME="Carl Schlyter" AFFILIATION="Verts/ALE">
-(SV) Elnök úr, ha tegnap járt a Parlament folyosóin, láthatta, hogy az európai vegyipar lobbiszervezete rengeteg matricát szórt szét a padlón, néhány ezek közül még ma is ott van. Azon tűnődöm, hogy amikor a quaestor engedélyt adott a kiállításra, vajon arra is engedélyt adott a szervezetnek, hogy a padlóinkat teleszórják a matricákkal? Ha ez így van, úgy vélem, helytelen döntés volt. Ha viszont a quaestorok nem adtak erre engedélyt, akkor véleményem szerint a CEFIC egyértelműen megsértette lobbistaként vállalt kötelezettségeit, és ezért be kell vonni belépési engedélyét, vagy legalább szigorú megrovásban kell részesíteni. Remélem, alaposan ki tudják vizsgálni, mi is történt és gondoskodnak róla, hogy e matricákat azonnal eltávolítsák.
-<SPEAKER ID="006" NAME="Elnök">
-Rendben van, megvizsgáljuk az ügyet, Schlyter úr.

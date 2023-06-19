@@ -1,8 +1,0 @@
-<CHAPTER ID="003">
-Eelmise istungi protokolli kinnitamine: vt protokoll
-<P>
-
-<SPEAKER ID="008" NAME="Philip Claeys" AFFILIATION="ITS">
-(NL) Härra president, vaid üks väike ääremärkus selle nädala osaistungjärgu juurde. Nagu te teate, toimub 2007. aasta Sahharovi auhinna üle hääletamise esimese voor peagi. Oli viis kandidaati. Fraktsioon Identiteet, Traditsioonid ja Suveräänsus nimetas samuti kandidaadi, kelleks on Konstantinoopoli oikumeeniline patriarh. Saime nüüd teada, et patriarhile on avaldatud survet mitte kandideerida. Minu andmetel ei ole midagi sellist juhtunud kogu selle aja jooksul, mil Euroopa Parlament on Sahharovi auhinda välja andnud. Ta oli õnnelik, et meie fraktsioon tema kandidatuuri esitas - härra Binev küsis temalt ning ta oli täiesti nõus. See on midagi täiesti väljakannatamatut. Nii palju, kui mina tean, ei ole kunagi varem juhtunud, et kellelegi on avaldatud survet loobuda oma kandidatuurist lihtsalt sellepärast, et tema kandidatuuri seadis üles fraktsioon, kes on opositsioonis. Protesteerimaks sellise ülekohtu, sellise salaliku poliitilise mahhinatsiooni vastu, võin teile praegu öelda, et ITS fraktsioon ei hääleta saabuvatel valimistel.
-<SPEAKER ID="009" NAME="President">
-(DE) Härra Claeys, olen kuulnud neist sündmustest, millest te räägite, kuid ma ei saa anda teile sisulist arvamust selle kohta, mida te väidate olevat aset leidnud. Praegu ei ole tegelikult õige hetk parlamenti teavitada; seda oleks pidanud tegema teisel kujul, nii et me saaksime seda küsimust arutada.

@@ -1,6 +1,0 @@
-<CHAPTER ID="014">
-Přerušení zasedání
-<SPEAKER ID="228" NAME="Předsedající">
-Tímto prohlašuji zasedání Evropského parlamentu za přerušené.
-<P>
-(Zasedání bylo ukončeno ve 00:50 hod.)

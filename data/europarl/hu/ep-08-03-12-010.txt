@@ -1,8 +1,0 @@
-<CHAPTER ID="010">
-Az elnökség közleménye
-<SPEAKER ID="212" NAME="Elnök">
-Hölgyeim és uraim, fontos bejelentést tennék a ma délutáni szavazással kapcsolatban. Technikai okok miatt a névszerinti szavazásnak a bemutatott és az ülés elnöke által ismertetett eredménye nem egyezik pontosan a szavazási rendszer által regisztrált tényleges adatokkal. Mindez a szavazás végeredményét nem befolyásolta, miután a többség nem változott.
-<P>
-Mindezek fényében a ma déli szavazás nem kérdőjelezhető meg, és jóváhagyottnak tekintendő. Azok az eredmények, amelyek a mai ülés jegyzőkönyvének mellékleteként jelennek majd meg, a tényleges eredményt mutatják.
-<P>
-Tudunk arról, hogy a technikai szolgálatok megtesznek mindent a hibák okainak feltárására, és a rendszert a holnapi szavazásra helyreállítják.

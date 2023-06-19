@@ -1,8 +1,0 @@
-<CHAPTER ID="004">
-Abstimmungsstunde
-<SPEAKER ID="097" NAME="Der Präsident">
-Als nächster Punkt folgt die Abstimmung.
-<P>
-Ich möchte das Plenum darüber in Kenntnis setzen, dass wir während der Abstimmung auf ausdrücklichen Antrag des Verbands der Parlamentsjournalisten bei allen Ergebnissen die Anzahl der Ja- und Nein-Stimmen und der Enthaltungen vorlesen müssen. Wir hätten die Dinge gerne für Sie vereinfacht, aber es ist nicht möglich.
-<P>
-(Einzelheiten zum Ergebnis der Abstimmung: siehe Protokoll)

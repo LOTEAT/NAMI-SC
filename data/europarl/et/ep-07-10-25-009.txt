@@ -1,6 +1,0 @@
-<CHAPTER ID="009">
-Hääletuse parandused ja hääletuskavatsused (vt protokoll)
-<SPEAKER ID="199" NAME="Juhataja">
-Järgmine päevakorrapunkt on hääletuse parandused ja hääletuskavatsused.
-<P>
-(Istung katkestati kell 13.00 ja jätkus kell 15.00)

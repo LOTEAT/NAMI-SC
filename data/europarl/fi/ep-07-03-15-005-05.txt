@@ -1,8 +1,0 @@
-<CHAPTER ID="005-05">
-5. Euro-Välimeri-alueen vapaakauppa-alueen perustaminen (äänestys)
-<P>
-- Ennen 58 kohdasta toimitettua äänestystä:
-<SPEAKER ID="082" NAME="Gianluca Susta" AFFILIATION="ALDE">
-(IT) Arvoisa puhemies, pyydän, että käsiteltävässä tekstissä olevat sanat "by extending" korvataan sanoilla "by considering".
-<P>
-(Parlamentti hyväksyi suullisen tarkistuksen.)

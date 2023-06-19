@@ -1,8 +1,0 @@
-<CHAPTER ID="014-03">
-3. Venecuēla: Manuela Rosalesa lieta
-<SPEAKER ID="303" NAME="Priekšsēdētāja">
-Liels paldies! Šī bija ļoti emocionāla sēde ne tikai cilvēktiesību jautājumu dēļ, bet tāpēc, ka tā bija mūsu pēdējā sēde. Paldies par piedalīšanos!
-<SPEAKER ID="304" NAME="Zdzisław Zbigniew Podkański" AFFILIATION="UEN">
-(PL) Es vēlos visu Eiropas Parlamenta deputātu un arī mūsu Parlamenta dienestu un palīgu vārdā sirsnīgi pateikties jums, priekšsēdētājas kundze, - jums personīgi, Eiropas Parlamenta Prezidijam un visai administrācijai - par tik labu debašu vadīšanu, labu sadarbību un savstarpējo sapratni. Mēs vēlam jums turpmākus panākumus, atkārtotu ievēlēšanu Parlamentā, daudz gandarījuma jūsu sabiedriskajā darbībā un laimi privātajā dzīvē!
-<SPEAKER ID="305" NAME="Priekšsēdētāja">
-Liels paldies! Es arī gribētu izmantot šo iespēju, lai pateiktos visiem Parlamenta dienestos strādājošajiem par viņu vērtīgo darbu.

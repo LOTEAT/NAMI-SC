@@ -1,8 +1,0 @@
-<CHAPTER ID="007-02">
-2. Mittayksiköt (äänestys) 
-<P>
-- Mietintö: McCarthy
-<P>
-- Ennen äänestystä
-<SPEAKER ID="064" NAME="Siim Kallas">
-komission varapuheenjohtaja. - (EN) Arvoisa puhemies, komissio vahvistaa jatkavansa tämän direktiivin ja sen soveltamisen valvomista ja harkitsevansa valvonnan tulosten perusteella seurantatoimenpiteiden käyttöä.

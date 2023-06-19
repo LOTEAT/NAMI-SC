@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Istungjärgu jätkamine
-<SPEAKER ID="999" NAME="President">
-Ma kuulutan Euroopa Parlamendi teisipäeval, 17. jaanuaril 2008 katkestatud istungjärgu taasalanuks.
-<P>
-Istungit ei saa alustada enne kella 12.30, kuna komisjoni president ei saa varem tulla. Seetõttu lõpeb istung ajakava järgi kell 14.00.
-<P>
-(Istung peatati kell 12.05 ja istungit jätkati kell 12.30)

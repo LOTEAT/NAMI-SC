@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Zahájení zasedání
-<P>
-(Zasedání bylo zahájeno v 9:00 hod.)
-<SPEAKER ID="005" NAME="Carl Schlyter" AFFILIATION="Verts/ALE">
-(SV) Vážený pane předsedo, pokud byste se včera procházel po chodbách Parlamentu, uviděl byste na podlaze značné množství nálepek lobbistických organizací evropského chemického průmyslu, přičemž některé tam ještě stále jsou. Zajímalo by mě, zda kvestoři při povolení výstavy udělili organizaci povolení vylepovat nálepky na podlahy. Pokud tomu tak je, myslím si, že to nebylo správné rozhodnutí. Pokud kvestoři takové povolení neudělili, myslím, že Cefic jasně porušil svým počínáním poslání lobbisty, a měl by mu proto být odebrán vstupní průkaz, nebo by měl být aspoň přísně napomenut. Doufám, že přešetříte tuto záležitost a zajistíte okamžité odstranění těchto nálepek.
-<SPEAKER ID="006" NAME="Předseda">
-V pořádku, pane Schlytere, tuto záležitost blíž prošetříme.

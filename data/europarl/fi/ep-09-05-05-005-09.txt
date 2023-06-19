@@ -1,8 +1,0 @@
-<CHAPTER ID="005-09">
-9. Hyljetuotteiden kauppa (
-<P>
-Ennen äänestystä:
-<SPEAKER ID="098" NAME="Hartmut Nassauer" AFFILIATION="PPE-DE">
-(DE) Arvoisa puhemies, haluaisin kiinnittää huomion virheeseen, joka on livahtanut Euroopan kansanpuolueen (kristillisdemokraatit) ja Euroopan demokraattien ryhmän äänestysluetteloon. Sekä tarkistetun ehdotuksen että lainsäädäntöpäätöslauselman lopullisessa äänestyksessä pitäisi lukea "vapaa äänestys". Pyydän teitä - samoin kuin ryhmäämme - ottamaan tämän huomioon.
-<SPEAKER ID="099" NAME="Hans-Peter Martin" AFFILIATION="NI">
-(DE) Arvoisa puhemies, haluaisin kysyä teiltä, mikä työjärjestyksen artikla sallii ryhmien korjailla äänestysluetteloitaan täällä teidän suostumuksellanne? Tämä on yksittäisten jäsenten parlamentaarisen riippumattomuuden väärinkäyttöä!

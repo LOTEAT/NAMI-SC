@@ -1,4 +1,0 @@
-<CHAPTER ID="001">
-Apertura de la sesión
-<P>
-(Se abre la sesión a las 10.05 horas.)

@@ -1,6 +1,0 @@
-<CHAPTER ID="008-12">
-12. ELi loomakasvatussektori kriis
-<SPEAKER ID="146" NAME="Esther Herranz García" AFFILIATION="PPE">
-(ES) Austatud juhataja! Tahaksin vaid ühe vea parandada: põhjenduses J on "70% ELi punasest lihast", aga peaks olema "60% ELi punasest lihast”.
-<SPEAKER ID="147" NAME="Juhataja">
-Sellega on päevakorrapunkti käsitlus lõppenud.

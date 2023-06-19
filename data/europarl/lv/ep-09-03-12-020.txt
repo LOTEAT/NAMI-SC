@@ -1,4 +1,0 @@
-<CHAPTER ID="020">
-Sesijas pārtraukšana
-<P>
-(Sēdi slēdza plkst. 16.20)

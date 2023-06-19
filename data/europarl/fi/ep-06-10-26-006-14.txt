@@ -1,8 +1,0 @@
-<CHAPTER ID="006-14">
-14. Työntekijöiden lähettäminen työhön toiseen jäsenvaltioon (äänestys)
-<P>
-- Ennen tarkistuksesta 7 toimitettua äänestystä:
-<SPEAKER ID="092" NAME="Ria Oomen-Ruijten" AFFILIATION="PPE-DE">
-(NL) Arvoisa puhemies, esittelijän ja varjoesittelijöiden kesken oli sovittu, että teksti kuuluu seuraavasti: "katsoo, että - - direktiivin asianmukaiseksi soveltamiseksi on välttämätöntä...;"
-<P>
-(Parlamentti hyväksyi suullisen tarkistuksen.)

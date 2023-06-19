@@ -1,6 +1,0 @@
-<CHAPTER ID="006">
-Az előző ülés jegyzőkönyvének elfogadása: lásd a jegyzőkönyvet
-<SPEAKER ID="056" NAME="Paul Rübig" AFFILIATION="PPE-DE">
-(DE) Elnök Úr, a tegnapi késő éjszakai ülésen McCarthy asszony fegyvert hozott be a Parlamentbe. Érdeklődni szeretnék, hogy ki adott engedélyt a fegyvernek az ülésterembe történő behozatalára.
-<SPEAKER ID="057" NAME="Elnök">
-Ez egy jó kérdés. Továbbítani fogom az ügyet az illetékesekhez, akik tájékoztatni fogják Önt.

@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Eröffnung der Sitzung
-<P>
-(Die Sitzung wird um 9.00 Uhr eröffnet.)
-<SPEAKER ID="005" NAME="Carl Schlyter" AFFILIATION="Verts/ALE">
-(SV) Herr Präsident! Als man gestern durch die Flure des Parlaments ging, konnte man zahlreiche Aufkleber der Lobbyorganisation der europäischen Chemieindustrie auf dem Fußboden sehen, von denen einige noch heute vorhanden sind. Ich würde gern wissen, ob die für die Genehmigung der Ausstellung zuständigen Quästoren das Anbringen von Aufklebern überall auf unseren Fußböden genehmigt haben. Sollte das der Fall sein, war das eine falsche Entscheidung. Wenn die Quästoren keine Genehmigung dafür erteilt haben, hat meiner Ansicht nach der Europäische Rat der chemischen Industrie (CEFIC) eindeutig seine Pflichten als Lobbyist verletzt. Aus diesem Grund sollte sein Zugangsausweis eingezogen werden oder ihm zumindest ein strenger Verweis erteilt werden. Ich hoffe, Sie können untersuchen, wie die Dinge tatsächlich liegen und alle diese Aufkleber unverzüglich entfernen lassen.
-<SPEAKER ID="006" NAME="Der Präsident">
-In Ordnung, wir werden der Sache nachgehen, Herr Schlyter.

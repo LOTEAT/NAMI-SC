@@ -1,6 +1,0 @@
-<CHAPTER ID="022">
-Dagsorden for næste møde: se protokollen
-<SPEAKER ID="444" NAME="Zuzana Roithová" AFFILIATION="PPE-DE">
-(CS) Hr. formand! Jeg vil gerne vide, om den særlige ordning i dag vil blive gentaget, eller om det bare var en engangsforestilling. Vil De være så venlig at svare på det?
-<SPEAKER ID="445" NAME="Formanden">
-Så vidt jeg forstår, var der tale om en ekstraordinær situation på grund af de mange forslag. Jeg håber ikke, at det sker igen.

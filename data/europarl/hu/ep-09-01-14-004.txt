@@ -1,8 +1,0 @@
-<CHAPTER ID="004">
-Szavazások órája
-<SPEAKER ID="097" NAME="Elnök">
-A következő napirendi pont a szavazás.
-<P>
-Szeretném tájékoztatni a tisztelt Házat, hogy a szavazás alatt a parlamenti újságírók szövetségének kifejezett kérésére minden egyes eredménysor után világosan jeleznünk kell az igen szavazatok, az ellenszavazatok és a tartózkodások számát is. Szerettük volna egyszerűsíteni a dolgokat az Önök számára, de erre most nincs mód.
-<P>
-(A szavazás eredményére vonatkozó adatok tekintetében lásd a jegyzőkönyvet)

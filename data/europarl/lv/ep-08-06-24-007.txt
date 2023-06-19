@@ -1,6 +1,0 @@
-<CHAPTER ID="007">
-Sesijas pārtraukšana
-<SPEAKER ID="068" NAME="Priekšsēdētājs">
-Pasludinu Eiropas Parlamenta sesiju par pārtrauktu.
-<P>
-(Sēde tika slēgta plkst. 11.45.)

@@ -1,6 +1,0 @@
-<CHAPTER ID="017">
-Sēdē pieņemto tekstu nosūtīšana (sk. protokolu)
-<SPEAKER ID="413" NAME="Robert Sturdy" AFFILIATION="ECR">
-Priekšsēdētāja kungs! Mums nupat notika divas balsošanas pēc saraksta. Šorīt pirms pusdienām mums bija tikai divas balsošanas pēc saraksta. Vai Parlamenta noteikumi ir tādi, ka ir jābalso vairāk nekā 50 % no laika un 50 % no balsošanām pēc saraksta, lai nodrošinātu, ka saņemsim pilnas dienas algu? Vai tas šajā gadījumā ir pareizi? Kāda ir situācija?
-<SPEAKER ID="414" NAME="Priekšsēdētājs">
-Tas tā ir. Jums jābūt klāt 50 % no laika.

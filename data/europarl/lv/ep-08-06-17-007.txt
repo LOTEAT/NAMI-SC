@@ -1,6 +1,0 @@
-<CHAPTER ID="007">
-Balsošanas laiks
-<SPEAKER ID="100" NAME="Priekšsēdētājs">
-Tagad mēs turpinām ar balsojumu.
-<P>
-(Par balsojuma rezultātiem un citām detaļām: sk. protokolu)

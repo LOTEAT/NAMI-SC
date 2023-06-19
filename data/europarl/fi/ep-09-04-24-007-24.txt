@@ -1,8 +1,0 @@
-<CHAPTER ID="007-24">
-24. Bosnia ja Hertsegovinan tilanne
-<P>
-- Tarkistuksesta 3 toimitetun äänestyksen jälkeen
-<SPEAKER ID="152" NAME="Doris Pack" AFFILIATION="PPE-DE">
-(DE) Arvoisa puhemies, haluaisin tiedustella, oletteko tietoinen siitä, että 6 kohdassa olevassa sanassa "keskusvalta" keskus-liite olisi poistettava, jotta se olisi yhdenmukainen muiden tekstien kanssa.
-<SPEAKER ID="153" NAME="Puhemies">
-(EN) Kyllä vain, jäsen Pack. Tarkistamme varmasti kaikki kieliversiot.

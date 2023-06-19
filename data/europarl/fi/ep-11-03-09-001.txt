@@ -1,6 +1,0 @@
-<CHAPTER ID="001">
-Istunnon avaaminen
-<SPEAKER ID="004" NAME="Puhemies">
-(EN) Tervetuloa, arvoisa komission varapuheenjohtaja / unionin ulkoasioiden ja turvallisuuspolitiikan korkea edustaja.
-<P>
-(PL) Hyvät kollegat, aloitamme tänään aikaisin, koska meillä on edessä tärkeä keskustelu.

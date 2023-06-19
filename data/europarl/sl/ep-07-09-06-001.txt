@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Otvoritev seje
-<P>
-(Seja se je začela ob 10.00.)
-<P>
-
-<SPEAKER ID="005" NAME="Antonio Tajani" AFFILIATION="PPE-DE">
-(IT) Gospod predsednik, gospe in gospodje, Evropa je danes izgubila enega od svojih največjih umetnikov. Luciano Pavarotti je danes v Modeni preminil in mislim, da je prav, da izrazimo spoštovanje temu velikemu umetniku in kulturniku, ki je evropsko glasbo predstavil celotnemu svetu. Njegova smrt je velika izguba za celotno Evropsko unijo in menim, da je primerno, da se v tem parlamentu spomnimo Luciana Pavarottija.

@@ -1,6 +1,0 @@
-<CHAPTER ID="008-13">
-13. Politiche commerciali internazionali nel quadro degli imperativi dettati dai cambiamenti climatici (
-<SPEAKER ID="101" NAME="Yannick Jadot" LANGUAGE="FR">
-Signor Presidente, proponiamo di modificare il paragrafo 22, sostituendo "impedire" con "informare", in modo che la versione finale della frase sia:
-<P>
-(EN) "ricorda altresì la richiesta del Parlamento europeo alla Commissione e agli Stati membri di informare il Parlamento europeo circa i prestiti concessi dalle agenzie di credito all'esportazione e dalla Banca europea per gli investimenti a favore di progetti che comportano un impatto negativo sul clima".

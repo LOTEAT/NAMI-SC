@@ -1,6 +1,0 @@
-<CHAPTER ID="006">
-Vastuvõetud teksti parandused (vt protokoll)
-<SPEAKER ID="126" NAME="Philip Bradbourn" AFFILIATION="ECR">
-Austatud juhataja! Loodetavasti suudan ma ennast selles müras kuuldavaks teha. Ma tahan teada, kas te saate mulle öelda, millal võetakse Euroopa Parlamendis midagi ette selleks, et parlamendiliikmed ei peaks pidevalt läbima liftide ning nende kabinettide ja siinse istungisaali vahelist kadalippu, kus inimesed - kas lobitöö tegijad, assistendid või kes iganes - neid kõnetavad, püüdes ajal, mil me suundume istungisaali hääletamisele pista meile pihku lõputut hulka dokumente. Lugupeetud juhataja, see koht siin hakkab meenutama pigem tudengite ametiühinguid kui Euroopa Parlamenti ja ma loodan, et te astute samme sellele lõpu tegemiseks.
-<SPEAKER ID="127" NAME="Juhataja">
-Tänan ettepaneku eest, austatud härra Bradbourn. Edastame teie tähelepanekud kvestoritele, et nad saaks võtta vajalikke meetmeid.

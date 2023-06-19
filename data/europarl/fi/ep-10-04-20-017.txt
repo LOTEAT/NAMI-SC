@@ -1,6 +1,0 @@
-<CHAPTER ID="017">
-Istunnon päättäminen
-<SPEAKER ID="425" NAME="Puhemies">
-(ES) Seuraava istunto pidetään huomenna 21. huhtikuuta. Keskustelut käydään klo 9.00-13.00 ja klo 15.00-19.00. En tiedä, ovatko kaikki tietoisia siitä, että huomenna istunto päättyy klo 19.00.
-<P>
-(Istunto päättyi klo 23.25.)

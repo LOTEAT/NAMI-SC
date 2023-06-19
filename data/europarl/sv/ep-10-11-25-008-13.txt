@@ -1,6 +1,0 @@
-<CHAPTER ID="008-13">
-13. Internationell handelspolitik inom ramen för de krav som klimatförändringarna medför (
-<SPEAKER ID="101" NAME="Yannick Jadot" LANGUAGE="FR">
-Herr talman! Vi föreslår en ändring i slutet av punkt 22 genom att ersätta ”förhindra” med ”informera”, så att den sista meningen lyder:
-<P>
-- ”Parlamentet erinrar för övrigt om sin begäran till kommissionen och medlemsstaterna att informera Europaparlamentet om lån som beviljats av exportkreditorganen och Europeiska investeringsbanken för projekt med negativ inverkan på klimatet”.

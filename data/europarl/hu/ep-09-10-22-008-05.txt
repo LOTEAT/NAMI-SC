@@ -1,8 +1,0 @@
-<CHAPTER ID="008-05">
-5. Az 1234/2007/EK rendelet (az egységes közös piacszervezésről szóló rendelet) módosítása (szavazás) 
-<P>
-- A 79. bekezdésről szóló szavazás előtt:
-<SPEAKER ID="101" NAME="Syed Kamall" AFFILIATION="ECR">
-Elnök úr, először is szeretnék elnézést kérni kollégáimtól, amiért közbeszólok, de szeretném, ha valaki megmagyarázná, mit is jelent a "CMO” rövidítés.
-<SPEAKER ID="102" NAME="Elnök">
-"Egységes piacszervezést” jelent bár a különféle nyelveken a megfogalmazás némileg eltérő.

@@ -1,4 +1,0 @@
-<CHAPTER ID="007-06">
-6. Szabályozási környezet egyszerűsítése (szavazás) 
-<P>
-- Jelentés: Giuseppe Gargani

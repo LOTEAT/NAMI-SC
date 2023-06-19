@@ -1,6 +1,0 @@
-<CHAPTER ID="008">
-Äänestykset
-<SPEAKER ID="074" NAME="Puhemies">
-(PL) Esityslistalla on seuraavana äänestykset.
-<P>
-(Äänestysten tulokset ja niiden kulkua koskevat yksityiskohdat: ks. pöytäkirja)

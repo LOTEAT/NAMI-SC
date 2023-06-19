@@ -1,8 +1,0 @@
-<CHAPTER ID="020">
-Přerušení zasedání
-<SPEAKER ID="333" NAME="Předseda">
-Zápis z tohoto zasedání bude předložen Parlamentu ke schválení na začátku příštího dílčího zasedání. Nejsou-li žádné připomínky, zašlu schválená usnesení přímo jejich adresátům.
-<P>
-Prohlašuji zasedání Evropského parlamentu za přerušené.
-<P>
-(Zasedání bylo ukončeno v 16.35)

@@ -1,8 +1,0 @@
-<CHAPTER ID="008-12">
-12. Banaaniala (äänestys)
-<P>
-- Ennen tarkistuksesta 22 toimitettua äänestystä:
-<SPEAKER ID="133" NAME="Emanuel Jardim Fernandes" AFFILIATION="PSE">
-(PT) Arvoisa puhemies, haluan esittää suullisen tarkistuksen tarkistukseen 22. Alkuperäisessä ranskankielisessä tekstissä olevan kohdan "est subordiné" pitäisi kuulua "devrait être subordiné".
-<P>
-(Parlamentti hyväksyi suullisen tarkistuksen.)

@@ -1,4 +1,0 @@
-<CHAPTER ID="031">
-Az ülésnap berekesztése
-<P>
-(Az ülést 23.45-kor berekesztik.)

@@ -1,8 +1,0 @@
-<CHAPTER ID="010">
-Meddelande från talmannen
-<SPEAKER ID="212" NAME="Talmannen">
-Mina damer och herrar! Jag skulle vilja göra ett viktigt tillkännagivande om eftermiddagens omröstning. Av tekniska skäl motsvarar inte resultaten från de omröstningar med namnupprop som visades och tillkännagavs av talmannen under sammanträdet exakt det antal röster som har registrerats av omröstningssystemet. Röstresultaten har inte i något fall påverkats eftersom majoriteten inte har förändrats.
-<P>
-Därför kan resultaten från dagens lunchomröstning inte ifrågasättas och anses följaktligen vara godkända. De resultat som kommer att offentliggöras i form av en bilaga till protokollet från dagens sammanträde kommer att vara de faktiska resultaten.
-<P>
-De tekniska avdelningarna gör allt de kan för att fastställa orsaken till detta fel och alla funktioner kommer förhoppningsvis att fungera igen vid morgondagens omröstning.

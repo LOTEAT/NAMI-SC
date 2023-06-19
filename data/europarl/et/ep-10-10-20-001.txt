@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Osaistungjärgu avamine
-<SPEAKER ID="005" NAME="Edit Herczog" AFFILIATION="S&amp;D">
-Lugupeetud juhataja! Eile toimus meil arutelu eelarve üle. Selle käigus selgus, et asjaomased talitused ei olnud tööstuse, teadusuuringute ja energeetikakomisjoni raportit kätte saanud. Me kontrollisime seda asja. Raport koostati ja saadeti ära nõuetekohaselt, nii et tõenäoliselt tekkisid vead menetluse käigus.
-<P>
-Ent vastutava isiku ja sündmuste täpse käigu väljaselgitamine pole tähtis. Kõige tähtsam on meie soov olla kindlad, et meie raport, mis oli ühtlasi meie kolmepoolse arutelu alus ja mis erineb oluliselt nõukogu tekstist, jõuaks nõukogu ametlikesse dokumentidesse. Seepärast võtsin selle raporti kaasa ning annan selle teile ja ka nõukogule üle. Ehk oleksite nii lahke ja kannaksite hoolt selle eest, et tööstuse, teadusuuringute ja energeetikakomisjoni ühehäälselt vastu võetud ettepanek jõuaks õigel ajal nõukogusse? Suur tänu abi eest selles küsimuses.
-<SPEAKER ID="006" NAME="Juhataja">
-Täidame teie soovi. Suurepärane! Tänase arutelu algus on olnud vaimustav.

@@ -1,8 +1,0 @@
-<CHAPTER ID="004">
-Čas glasovanja
-<SPEAKER ID="097" NAME="Predsednik">
-Naslednja točka je glasovanje.
-<P>
-Parlament obveščam, da bomo med glasovanjem na izrecno željo združenja parlamentarnih novinarjev pri vsakem rezultatu posebej navedli število glasov za, število glasov proti in število vzdržanih glasov. Za vas smo želeli to poenostaviti, a žal ni mogoče.
-<P>
-(Za podrobnosti izidov glasovanja: glej zapisnik)

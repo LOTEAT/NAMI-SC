@@ -1,6 +1,0 @@
-<CHAPTER ID="007-08">
-8.  Regula, ar ko piemēro vispārējo tarifa preferenču sistēmu (balsošana)
-<SPEAKER ID="106" NAME="Yannick Jadot" LANGUAGE="FR">
-Priekšsēdētāja kungs, es gribētu iesniegt mutisku grozījumu šim grozījumam, svītrojot divas šī grozījuma daļas, proti "Kolumbijas armija” un "par Kolumbiju”.
-<P>
-Tādējādi grozījums skan šādi: "uzskata, ka satraucošās ziņas par arodbiedrību locekļu slepkavībām Kolumbijā, kā arī nesen saņemtās un tagad Kolumbijas valsts prokurora apstiprinātās ziņas, ka Lamakarenas reģionā ir atklāti masu kapi, kuros apglabāti simtiem pēdējos gados noslepkavotu cilvēku līķi, ir pietiekami pierādījumi, lai Komisija varētu uzsākt izmeklēšanu saskaņā ar šo regulu.”

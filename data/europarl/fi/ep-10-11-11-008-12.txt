@@ -1,6 +1,0 @@
-<CHAPTER ID="008-12">
-12. EU:n karjankasvatusalan kriisi
-<SPEAKER ID="146" NAME="Esther Herranz García" AFFILIATION="PPE">
-(ES) Arvoisa puhemies, haluaisin vain korjata erään virheen: johdanto-osan J kappaleessa lukee "70 prosenttia EU:n punaisesta lihasta", mutta siinä pitäisi olla "60 prosenttia EU:n punaisesta lihasta".
-<SPEAKER ID="147" NAME="Puhemies">
-(ES) Keskustelu on päättynyt.

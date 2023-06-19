@@ -1,8 +1,0 @@
-<CHAPTER ID="015">
-Sēdes slēgšana
-<SPEAKER ID="180" NAME="Priekšsēdētāja">
-Vēlreiz paldies šodien mūsu tulkiem un tehniskajiem darbiniekiem.
-<P>
-Es pasludinu Eiropas Parlamenta sēdi par pārtrauktu.
-<P>
-(Sēdi beidza plkst. 12.05)

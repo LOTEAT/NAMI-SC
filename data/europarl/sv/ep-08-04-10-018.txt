@@ -1,6 +1,0 @@
-<CHAPTER ID="018">
-Avbrytande av sessionen
-<SPEAKER ID="253" NAME="Talmannen">
-Jag förklarar Europaparlamentets session avbruten.
-<P>
-(Sammanträdet avslutades kl. 12.20.)

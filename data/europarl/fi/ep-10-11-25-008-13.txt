@@ -1,6 +1,0 @@
-<CHAPTER ID="008-13">
-13. Kansainvälinen kauppapolitiikka ja ilmastonmuutoksen haasteet (
-<SPEAKER ID="101" NAME="Yannick Jadot" LANGUAGE="FR">
-Arvoisa puhemies, ehdotamme, että kappaletta 22 muutetaan korvaamalla sana "estää" sanalla "ilmoittaa", jolloin lopullinen lause kuuluu seuraavasti:
-<P>
-(EN) "muistuttaa lisäksi Euroopan parlamentin komissiolle ja jäsenvaltioille esittämästä pyynnöstä ilmoittaa Euroopan parlamentille vientiluottolaitosten ja Euroopan investointipankin myöntämistä lainoista hankkeille, joilla on kielteisiä ilmastovaikutuksia."

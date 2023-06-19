@@ -1,4 +1,0 @@
-<CHAPTER ID="020">
-Istunnon päättäminen
-<P>
-(Istunto päätettiin klo 00.14.)

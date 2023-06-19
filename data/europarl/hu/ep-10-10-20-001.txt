@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Az ülés megnyitása
-<SPEAKER ID="005" NAME="Edit Herczog" AFFILIATION="S&amp;D">
-Elnök úr! Tegnap tartottunk vitát a költségvetésről. A vita alatt világossá vált, hogy az Ipari, Kutatási és Energiaügyi Bizottság (ITRE) által készített jelentést nem kapták kézhez a megfelelő szolgálatok. Ellenőriztük a problémát. A jelentés elkészült, és megfelelően ki is küldték, tehát valami hiba merülhetett fel a folyamatban.
-<P>
-De nem az a fontos, hogy megtaláljuk a felelőst, vagy hogy megtudjuk, pontosan mi is történt. Számunkra az a legfontosabb, hogy biztosak legyünk abban, hogy a jelentésünk, amire részünkről az egész háromoldalú párbeszédet alapoztuk - és ahol a legnagyobb az eltérés a Tanács szövegéhez képest - bekerüljön a Tanács hivatalos dokumentumai közé. Ezért magammal hoztam, és szeretném átadni Önnek és a Tanácsnak is. Kérjük, gondoskodjon arról, hogy az ITRE Bizottság egyhangúan elfogadott javaslata idejében eljusson a Tanácshoz. Nagyon köszönöm támogatását ebben a kérdésben.
-<SPEAKER ID="006" NAME="Elnök">
-Kérését teljesíteni fogjuk. Nagyszerű. A mai megbeszélés fantasztikusan indul!

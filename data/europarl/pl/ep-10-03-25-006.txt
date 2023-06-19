@@ -1,6 +1,0 @@
-<CHAPTER ID="006">
-Głosowanie
-<SPEAKER ID="081" NAME="Przewodniczący">
-Przystępujemy do głosowania.
-<P>
-(Wyniki i inne szczegóły głosowania: patrz protokół)

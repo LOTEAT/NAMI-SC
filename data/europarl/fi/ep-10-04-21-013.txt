@@ -1,6 +1,0 @@
-<CHAPTER ID="013">
-Istuntokauden keskeyttäminen
-<SPEAKER ID="190" NAME="Puhemies">
-(EN) Julistan Euroopan parlamentin istuntokauden keskeytetyksi.
-<P>
-(Istunto päättyi klo 18.30.)

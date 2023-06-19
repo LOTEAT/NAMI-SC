@@ -1,6 +1,0 @@
-<CHAPTER ID="004">
-Votare
-<SPEAKER ID="104" NAME="Preşedinta">
-Punctul următor este votarea.
-<P>
-(Pentru rezultate şi alte detalii cu privire la vot: a se consulta procesul-verbal.)

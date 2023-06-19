@@ -1,4 +1,0 @@
-<CHAPTER ID="010">
-Hääletused (jätkamine)
-<SPEAKER ID="096" NAME="President">
-We now resume the vote.

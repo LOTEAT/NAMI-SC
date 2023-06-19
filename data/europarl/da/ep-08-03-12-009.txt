@@ -1,8 +1,0 @@
-<CHAPTER ID="009">
-Godkendelse af protokollen fra foregående møde: se protokollen
-<SPEAKER ID="210" NAME="Formanden">
-Protokollen fra mødet tirsdag den 11. marts er omdelt.
-<P>
-Hvis ingen gør indsigelse, betragter jeg den som godkendt.
-<P>
-(Protokollen godkendtes)

@@ -1,8 +1,0 @@
-<CHAPTER ID="014-03">
-3. Venezuela: Manuel Rosales'i juhtum
-<SPEAKER ID="303" NAME="Juhataja">
-Tänan teid väga! See oli suure emotsionaalse laenguga istung, mitte ainult inimõiguste teema tõttu, vaid ka sellepärast, et see oli meie viimane istung. Tänan teid osavõtu eest!
-<SPEAKER ID="304" NAME="Zdzisław Zbigniew Podkański" AFFILIATION="UEN">
-(PL) Kas tohin kõigi Euroopa Parlamendi liikmete nimel ja ka meie parlamendi talituste ja assistentide nimel öelda teile, proua president, meie siirad tänusõnad - teile isiklikult, Euroopa Parlamendi büroole ja tervele administratsioonile - selle eest, et te meie arutelusid nii hästi juhatasite, hea koostöö ja vastastikuse mõistmise eest. Soovime teile edu edaspidiseks, tagasivalimist parlamenti, palju rahuldust teie ühiskondlikust tegevusest ning õnne isiklikus elus!
-<SPEAKER ID="305" NAME="Juhataja">
-Tänan teid väga! Tahaksin samuti võimalust kasutada ja tänada kõiki parlamendi teenistuses olijaid nende väärtusliku töö eest!

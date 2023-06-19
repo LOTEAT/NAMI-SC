@@ -1,6 +1,0 @@
-<CHAPTER ID="001">
-Otvoritev seje
-<SPEAKER ID="007" NAME="Daniel Hannan" AFFILIATION="NI">
-Gospod predsednik, od našega zadnjega srečanja so bila objavljena poročila o sestanku voditeljev političnih skupin in predsednika Češke republike, na katerem so nekateri voditelji skupin pokazali nespoštljivost in neolikanost, ki sta po mojem mnenju sramotna za vse nas. Želel bi vedeti, ali bi hoteli to priložnost izkoristiti za to, da kot današnji podpredsednik potrdite, da ta Parlament ceni vsa mnenja bodisi za Lizbonsko pogodbo ali proti njej in da spoštujemo visoki položaj te službe Češke republike.
-<SPEAKER ID="008" NAME="Predsednik">
-Ni moja stvar, gospod Hannan, da karkoli potrdim, opomnil pa bi vas tudi, da Parlament trenutno ne razpravlja o tej temi. Vendar pa sem prepričan, da se boste ob primernem času oglasili in na zagovor glede te zadeve poklicali pristojne organe.

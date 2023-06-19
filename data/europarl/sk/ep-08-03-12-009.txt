@@ -1,8 +1,0 @@
-<CHAPTER ID="009">
-Schválenie zápisnice z predchádzajúceho rokovania: pozri zápisnicu
-<SPEAKER ID="210" NAME="Predsedajúca">
-Bola rozdaná zápisnica zo zasadnutia, ktoré sa konalo v utorok, 11. marca.
-<P>
-Máte k nej nejaké pripomienky?
-<P>
-(Zápisnica bola schválená.)

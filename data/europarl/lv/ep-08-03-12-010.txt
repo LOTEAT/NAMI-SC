@@ -1,8 +1,0 @@
-<CHAPTER ID="010">
-Priekšsēdētājas paziņojums
-<SPEAKER ID="212" NAME="Priekšsēdētāja">
-Dāmas un kungi! Es vēlos sniegt svarīgu paziņojumu attiecībā uz pēcpusdienas balsojumu. Tehnisku iemeslu dēļ balsojuma pēc saraksta rezultāti, kurus parāda un paziņo sēdes priekšsēdētāja, neatbilst precīzi patiesajam balsu skaitam, ko reģistrē balsošanas sistēma.. Nekādā gadījumā tas nav ietekmējis balsošanas rezultātus, jo vairākuma balsojumu tas nav mainījis.
-<P>
-Tāpēc dienas vidus balsojumi nav apstrīdami un tiek uzskatīti par apstiprinātiem. Rezultāti, ko publicēs šodienas sēdes protokola pielikumā, būs pareizie rezultāti.
-<P>
-Tehniskie dienesti, protams, pieliek visas pūles, lai noteiktu šo traucējumu cēloni, un sistēmas funkcijas rītdienas balsojumam būs atjaunotas.

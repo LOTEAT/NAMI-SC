@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Istunnon avaaminen
-<P>
-(Istunto avattiin klo 9.00)
-<SPEAKER ID="005" NAME="Carl Schlyter" AFFILIATION="Verts/ALE">
-(SV) Arvoisa puhemies, jos kuljitte eilen parlamentin käytävillä, havaitsitte varmasti suuren joukon Euroopan kemianteollisuuden lobbausjärjestöjen tarroja, joista osa on edelleen näkyvillä. Antoivatkohan kvestorit näyttelyluvan antaessaan näille järjestöille myös luvan levittää tarroja kaikkialle? Jos näin on, he toimivat mielestäni väärin. Jolleivät kvestorit antaneet tällaista lupaa, CEFIC rikkoi selvästi sitoumustaan lobbaajana, ja sen kulkulupa olisi näin ollen peruttava tai sitä olisi ainakin moitittava voimakkaasti. Toivon, että voisitte tutkia, mitä todella tapahtui ja varmistaa, että nämä kaikki tarrat poistetaan välittömästi.
-<SPEAKER ID="006" NAME="Puhemies">
-(DE) Selvä! Asia tutkitaan.

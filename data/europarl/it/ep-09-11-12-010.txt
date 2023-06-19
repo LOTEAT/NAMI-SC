@@ -1,6 +1,0 @@
-<CHAPTER ID="010">
-Benvenuto
-<SPEAKER ID="100" NAME="Presidente">
-Ho il piacere di porgere il benvenuto ad una delegazione di deputati e di altri visitatori del Parlamento canadese e della missione del Canada presso l'Unione europea, che hanno preso posto nella tribuna d'onore. I membri della delegazione sono a Bruxelles per incontrare le loro controparti nel Parlamento europeo, in occasione del trentaduesimo incontro interparlamentare tra il Parlamento europeo e il Canada.
-<P>
-Lunedì e martedì di questa settimana hanno avuto l'opportunità di discutere con molti dei nostri deputati e ieri hanno visitato la città di Ypres in occasione della commemorazione dell'armistizio. Auguro alla delegazione una buona continuazione della loro permanenza nell'Unione europea.

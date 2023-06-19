@@ -1,6 +1,0 @@
-<CHAPTER ID="005">
-Głosowanie
-<SPEAKER ID="050" NAME="Przewodnicząca">
-Kolejnym punktem jest głosowanie.
-<P>
-(Wyniki głosowania i inne dane: patrz protokół.)

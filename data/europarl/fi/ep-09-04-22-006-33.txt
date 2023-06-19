@@ -1,6 +1,0 @@
-<CHAPTER ID="006-33">
-33. Asetuksen (EY) N:o 717/2007 (matkapuhelimet) ja direktiivin 2002/21/EY (sähköinen viestintä) muuttaminen (
-<P>
-- Ennen äänestystä:
-<SPEAKER ID="130" NAME="Adina-Ioana Vălean" AFFILIATION="ALDE">
-(EN) Arvoisa puhemies, tämän on pieni muutos, jota neuvosto on pyytänyt, jotta voidaan poistaa tekstiviestien ylärajoihin ja katkaisurajoihin sovellettavien vaihtokurssien epäjohdonmukaisuus. Siksi, kuten neuvoston kanssa on sovittu, alkuperäisen asetuksen 1 artiklan 4 kohdan loppuun pitäisi lisätä seuraava teksti, joka on muutosasetuksen 1 artiklan 2 kohdan b alakohta: "Samoja viitekursseja sovelletaan 4 a ja 4 b artiklassa sekä 6 a artiklan 3 kohdassa tarkoitettujen maksujen tarkistamiseen vuosittain, jos nämä maksut on ilmaistu muuna valuuttana kuin euroina."

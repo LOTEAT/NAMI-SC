@@ -1,6 +1,0 @@
-<CHAPTER ID="007">
-Afstemningstid
-<SPEAKER ID="101" NAME="Formanden">
-Næste punkt er afstemningstiden.
-<P>
-(Resultater og andre oplysninger vedrørende afstemningen: se protokollen)

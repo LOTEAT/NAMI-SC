@@ -1,8 +1,0 @@
-<CHAPTER ID="010">
-Komunikat przewodniczącej
-<SPEAKER ID="212" NAME="Przewodnicząca">
-Panie i panowie! W tym miejscu chciałabym przekazać państwu ważne informacje na temat głosowania, które odbędzie się dziś po południu. Z przyczyn technicznych wyniki głosowania imiennego wyświetlone i ogłoszone przez przewodniczącego posiedzenia nie odpowiadają faktycznej liczbie głosów zarejestrowanych przez system do głosowania. W żadnym wypadku nie wpływa to na wynik głosowania, gdyż większość głosów nie ulega zmianie.
-<P>
-Z uwagi na powyższe, nie można poddać w wątpliwość głosowań, które odbędą się dziś po południu, i uznaje się je za zatwierdzone. Wyniki, które zostaną opublikowane w formie załącznika do protokołu z dzisiejszego posiedzenia, będą wynikami faktycznymi.
-<P>
-Oczywistym jest, że służby techniczne dokładają wszelkich starań, aby znaleźć przyczynę tej awarii oraz że wszystkie funkcje zostaną przywrócone na jutrzejsze głosowania.

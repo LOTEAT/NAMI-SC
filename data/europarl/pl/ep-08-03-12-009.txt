@@ -1,8 +1,0 @@
-<CHAPTER ID="009">
-Przyjęcie protokołu poprzedniego posiedzenia: patrz protokół
-<SPEAKER ID="210" NAME="Przewodnicząca">
-Rozdano protokół posiedzenia z wtorku,11 marca.
-<P>
-Czy mają państwo jakieś uwagi?
-<P>
-(Protokół został zatwierdzony)

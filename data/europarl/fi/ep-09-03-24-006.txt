@@ -1,8 +1,0 @@
-<CHAPTER ID="006">
-Äänestyskäyttäytymistä ja äänestysaikeita koskevat ilmoitukset: ks. pöytäkirja
-<SPEAKER ID="327" NAME="Puhemies">
-(IT) Äänestysselitykset ovat päättyneet.
-<P>
-Jatkamme työtämme klo 15.00 julkilausumilla G-20:n huippukokouksen valmisteluista.
-<P>
-(Istunto keskeytettiin klo 13.35 ja sitä jatkettiin klo 15.05.)

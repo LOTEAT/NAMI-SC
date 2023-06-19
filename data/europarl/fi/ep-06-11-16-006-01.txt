@@ -1,8 +1,0 @@
-<CHAPTER ID="006-01">
-1. EY:n ja Mauritanian kalastuskumppanuussopimus (äänestys)
-<P>
-- Äänestyksen jälkeen:
-<SPEAKER ID="067" NAME="Véronique De Keyser" AFFILIATION="PSE">
-(FR) Arvoisa puhemies, kädennostolla tapahtuvan nimenhuutoäänestyksen kanssa oli viimeksi ongelmia. Kysyisinkin, miksi tänään pidettiin nimenhuutoäänestys, jota ei ollut edes merkitty äänestysluettelooni.
-<SPEAKER ID="068" NAME="Puhemies">
-Siksi, että yksi poliittinen ryhmä pyysi sitä.

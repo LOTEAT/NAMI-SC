@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Istunnon avaaminen
-<P>
-(PL)Istunto avattiin klo 10.00)
-<P>
-
-<SPEAKER ID="005" NAME="Antonio Tajani" AFFILIATION="PPE-DE">
-(IT) Arvoisa puhemies, hyvät kollegat, Eurooppa on tänään menettänyt yhden suurimmista taiteilijoistaan. Luciano Pavarotti kuoli tänä aamuna Modenassa, ja mielestäni meidän pitäisi osoittaa kunnioitustamme tälle suurelle taiteen ja kulttuurin lähettiläälle, joka vei eurooppalaista musiikkia kaikkialle maailmaan. Hänen poismenonsa on valtava menetys koko Euroopan unionille, ja toivon, että voimme muistaa Luciano Pavarottia täällä parlamentissa.

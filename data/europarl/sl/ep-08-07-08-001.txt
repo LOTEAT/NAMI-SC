@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Otvoritev seje
-<P>
-(Seja se je začela ob 9.00)
-<SPEAKER ID="005" NAME="Carl Schlyter" AFFILIATION="Verts/ALE">
-(SV) Gospod predsednik, če bi se včeraj sprehodili po hodnikih Parlamenta, bi videli številne nalepke organizacije lobija evropske kemične industrije, nekaj pa jih je ostalo še danes. Zanima me, če so kvestorji, ko so dovolili razstavo, organizaciji dovolili tudi, da lepi nalepke po naših hodnikih. Če so, je bila to po mojem mnenju napačna odločitev. Če kvestorji takega dovoljenja niso dali, je organizacija Cefic po mojem mnenju kršila svoje obveznosti in bi ji bilo treba odvzeti dovolilnico za vstop ali pa jo vsaj strogo kaznovati. Upam, da lahko raziščete zadevo in poskrbite, da bodo vse te nalepke takoj odstranjene.
-<SPEAKER ID="006" NAME="Predsednik">
-V redu, gospod Schlyter, zadevo bom preučil.

@@ -1,6 +1,0 @@
-<CHAPTER ID="006">
-Kļūdas labojums pieņemtajā tekstā (sk. protokolu)
-<SPEAKER ID="126" NAME="Philip Bradbourn" AFFILIATION="ECR">
-Priekšsēdētājas kundze! Es ceru, ka mani šajā troksnī varēs saklausīt. Vai jūs man varētu ieteikt, kā novērst to, ka laikā, kad Parlamentā ir gaidāma kāda darbība un deputāti dodas balsot, viņiem ceļā no liftiem līdz sēžu zālei ir pastāvīgi jāiet cauri uzmācīgu cilvēku drūzmai - vai tie būtu lobiji, asistenti vai tamlīdzīgi cilvēki -, kas viņiem mēģina iespiest rokās neskaitāmas papīra lapiņas. Priekšsēdētājas kundze, šī vieta sāk vairāk līdzināties universitātes studentu apvienībai nekā Parlamentam. Tādēļ es ceru, ka jūs rīkosieties, lai to pārtrauktu.
-<SPEAKER ID="127" NAME="Priekšsēdētāja">
-Paldies par ierosinājumu Bradbourn kungs. Mēs nodosim jūsu vērojumus kvestoriem, lai viņi varētu veikt vajadzīgos pasākumus.

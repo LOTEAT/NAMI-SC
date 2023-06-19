@@ -1,8 +1,0 @@
-<CHAPTER ID="009">
-Approvazione del processo verbale della seduta precedente: vedasi processo verbale
-<SPEAKER ID="210" NAME="Presidente">
-Il processo verbale della seduta di martedì 11 marzo è stato distribuito.
-<P>
-Vi sono osservazioni?
-<P>
-(Il Parlamento approva il processo verbale)

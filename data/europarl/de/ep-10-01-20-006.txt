@@ -1,6 +1,0 @@
-<CHAPTER ID="006">
-Abstimmungsstunde
-<SPEAKER ID="102" NAME="Der Präsident">
-Der nächste Punkt auf der Tagesordnung ist die Abstimmungsrunde.
-<P>
-(Für Einzelheiten zum Abstimmungsergebnis: siehe Protokoll)

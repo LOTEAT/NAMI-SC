@@ -1,8 +1,0 @@
-<CHAPTER ID="004">
-Äänestykset
-<SPEAKER ID="097" NAME="Puhemies">
-- (IT) Esityslistalla on seuraavana äänestykset.
-<P>
-Haluaisin ilmoittaa täysistunnolle, että äänestyksen aikana parlamentin toimittajien erityisestä pyynnöstä meidän on ilmoitettava jokaisesta äänestystuloksesta puolesta ja vastaan annettujen äänten sekä tyhjien äänten määrä. Toivoimme voivamme yksinkertaistaa asioita teitä varten, mutta se ei ollut mahdollista.
-<P>
-(Äänestysten tulokset ja niiden kulkua koskevat yksityiskohdat: ks. pöytäkirja)

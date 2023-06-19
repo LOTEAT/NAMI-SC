@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Otwarcie posiedzenia
-<P>
-(Posiedzenie zostało otwarte o godz. 9.00)
-<SPEAKER ID="005" NAME="Carl Schlyter" AFFILIATION="Verts/ALE">
-(SV) Panie przewodniczący! Gdyby znalazł się pan wczoraj w kuluarach Parlamentu, zobaczyłby pan na podłodze mnóstwo naklejek organizacji lobbujących za europejskim przemysłem chemicznym. Jeszcze dzisiaj widać resztki. Jestem ciekaw, czy kwestorzy, zezwalając na wystawę, pozwolili tym organizacjom na rozrzucanie naklejek po całej podłodze. Jeśli tak, uważam tę decyzję za błędną. Jeśli kwestorzy nie dali takiego pozwolenia, uważam, że Cefic jako lobbysta wyraźnie naruszył swoje zobowiązania i dlatego też powinien zostać pozbawiony przepustki, a przynajmniej powinien zostać surowo upomniany. Liczę, że sprawdzi pan, co zaszło, i zagwarantuje niezwłoczne usunięcie tych naklejek.
-<SPEAKER ID="006" NAME="Przewodniczący">
-Oczywiście, panie pośle, sprawa ta zostanie zbadana.

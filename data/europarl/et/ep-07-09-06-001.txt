@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Istungi algus
-<P>
-(Istung algas kell 10.00)
-<P>
-
-<SPEAKER ID="005" NAME="Antonio Tajani" AFFILIATION="PPE-DE">
-(IT) Austatud juhataja, daamid ja härrad, Euroopa kaotas täna ühe oma suurimatest kunstnikest. Luciano Pavarotti suri täna hommikul Modenas ning ma arvan, et sellele suurele kunstnikule ja kultuuritegelasele, kes tutvustas Euroopa muusikat kogu maailmale, on kohane siinjuures austust avaldada. Tema lahkumine on kogu Euroopa Liidule suur kaotus ja ma arvan, et peaksime meenutama Luciano Pavarottit siin saalis.

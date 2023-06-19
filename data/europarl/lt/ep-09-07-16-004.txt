@@ -1,6 +1,0 @@
-<CHAPTER ID="004">
-Balsuoti skirtas laikas 
-<SPEAKER ID="007" NAME="Pirmininkas">
-Dabar pradėsime balsuoti.
-<P>
-(Balsavimo rezultatus ir kitą informaciją žr. protokole)

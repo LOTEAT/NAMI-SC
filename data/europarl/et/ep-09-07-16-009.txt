@@ -1,6 +1,0 @@
-<CHAPTER ID="009">
-Istungjärgu vaheaeg
-<SPEAKER ID="018" NAME="Juhataja">
-Ma kuulutan välja Euroopa Parlamendi istungjärgu vaheaja.
-<P>
-(Istung lõppes kell 9.15.)

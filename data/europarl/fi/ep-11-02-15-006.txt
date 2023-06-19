@@ -1,6 +1,0 @@
-<CHAPTER ID="006">
-Oikaisu hyväksyttyyn tekstiin: ks. pöytäkirja
-<SPEAKER ID="126" NAME="Philip Bradbourn" AFFILIATION="ECR">
-(EN) Arvoisa puhemies, toivottavasti puheeni kuuluu metelistä huolimatta. Milloin täällä parlamentissa oikein toteutetaan toimia, jotta jäsenten ei tarvitsisi toimistoilta istuntosaliin johtavien hissien ja istuntosalin välillä jatkuvasti kestää ajojahtia, jonka aikana henkilöt - olivatpa he edunvalvojia, avustajia tai mitä tahansa - yrittävät tuputtaa meille lukuisia papereita, kun kuljemme kohti istuntosalia äänestystä varten? Arvoisa puhemies, tämä paikka alkaa vaikuttaa parlamentin sijaan joltakin ylioppilaskunnalta, ja toivon, että ryhdytte toimiin tämän estämiseksi.
-<SPEAKER ID="127" NAME="Puhemies">
-(IT) Kiitos ehdotuksestanne, hyvä Philip Bradbourn. Välitämme havaintonne kvestoreille, jotta he voivat ryhtyä tarvittaviin toimenpiteisiin.

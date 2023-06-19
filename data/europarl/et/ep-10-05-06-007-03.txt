@@ -1,8 +1,0 @@
-<CHAPTER ID="007-03">
-3. Kõrgõzstan (
-<SPEAKER ID="083" NAME="José Ignacio Salafranca Sánchez-Neyra" AFFILIATION="PPE">
-(ES) Lugupeetud juhataja! Kolleeg Elmar Brok, kes kahjuks ei saa täna hommikul siin viibida, on esitanud suulise muudatusettepaneku.
-<P>
-See muudatusettepanek puudutab lõiget 5 ja sellega soovitakse lisada pärast viidet 10. oktoobri valimistele järgmine fraas: "et tugevdada demokraatiat ning poliitilist vastutust”.
-<SPEAKER ID="085" NAME="Paolo Bartolozzi" AFFILIATION="PPE">
-(IT) Lugupeetud juhataja! Tegemist on suulise muudatusettepanekuga lõikes 13, kus kutsutakse komisjoni üles kontrollima käesolevat olukorda ja tegema kindlaks võimaluse anda pärast olukorra kontrollimist humanitaarabi.

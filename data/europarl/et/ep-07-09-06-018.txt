@@ -1,6 +1,0 @@
-<CHAPTER ID="018">
-Istungjärgu vaheaeg
-<SPEAKER ID="181" NAME="Juhataja">
-Kuulutan välja istungjärgu vaheaja.
-<P>
-(Istung lõppes kell 16.20)

@@ -1,8 +1,0 @@
-<CHAPTER ID="009">
-Az előző ülés jegyzőkönyvének elfogadása: lásd a jegyzőkönyvet 
-<SPEAKER ID="210" NAME="Elnök">
-A március 11-i, keddi ülés jegyzőkönyve szétosztásra került.
-<P>
-Van bárkinek megjegyzése?
-<P>
-(A jegyzőkönyv elfogadásra kerül)

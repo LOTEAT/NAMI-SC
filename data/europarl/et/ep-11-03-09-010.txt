@@ -1,4 +1,0 @@
-<CHAPTER ID="010">
-Hääletused (jätkamine)
-<SPEAKER ID="146" NAME="Juhataja">
-Hääletused jätkuvad.

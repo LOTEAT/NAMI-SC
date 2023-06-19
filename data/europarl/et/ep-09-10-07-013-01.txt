@@ -1,8 +1,0 @@
-<CHAPTER ID="013-01">
-1. Otsuse eelnõu (
-<SPEAKER ID="039" NAME="Eva Joly" AFFILIATION="Verts/ALE">
-(FR) Härra president, me soovime punkti A lisada järgmise fraasi:
-<P>
-"samuti arengumaadele”, et moodustuv lause oleks "analüüsida ja hinnata finants-, majandus- ja sotsiaalkriisi ulatust ja mõju ELile ja liikmesriikidele, samuti arengumaadele”.
-<SPEAKER ID="042" NAME="Eva Joly" AFFILIATION="Verts/ALE">
-Härra president, me soovime ka lisada viite "arengukoostööle”, et moodustuv lause oleks järgmine: "analüüsida ja hinnata ühenduse õigusaktide senist rakendamist kõikides asjaomastes valdkondades, sealhulgas arengukoostöös”. Meile tundus, et arengumaade vaatepunkt oli jäänud mandaadis kajastamata.

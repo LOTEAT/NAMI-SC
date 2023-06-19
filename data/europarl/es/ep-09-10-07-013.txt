@@ -1,6 +1,0 @@
-<CHAPTER ID="013">
-Turno de votaciones 
-<SPEAKER ID="036" NAME="Presidente">
-El siguiente punto del orden del día es el turno de votaciones.
-<P>
-(Para los resultados detallados de la votación: véase el acta)

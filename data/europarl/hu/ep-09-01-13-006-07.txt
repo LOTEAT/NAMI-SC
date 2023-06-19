@@ -1,4 +1,0 @@
-<CHAPTER ID="006-07">
-7. A civil párbeszéd fejlesztésének perspektívái a Lisszaboni Szerződés keretében (
-<SPEAKER ID="061" NAME="Christopher Beazley" AFFILIATION="PPE-DE">
-Elnök asszony, meglehetősen sok név szerinti szavazás van jelenleg, ami meglehetősen kellemetlen az olyanok számára, mint én is, akiknek a gépe nem működik. Jegyzőkönyveztethetném az "igen” szavazatot minderre, és kérhetnék egy technikust?

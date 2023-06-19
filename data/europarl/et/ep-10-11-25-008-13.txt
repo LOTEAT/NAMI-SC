@@ -1,6 +1,0 @@
-<CHAPTER ID="008-13">
-13. Rahvusvaheline kaubanduspoliitika kliimamuutusega kaasnevate nõudmiste taustal (
-<SPEAKER ID="101" NAME="Yannick Jadot" LANGUAGE="FR">
-Austatud juhataja! Me teeme ettepaneku muuta punkti 22 lõppu, asendades sõna "ennetama” sõnaga "teavitama”, nii et lõplik lause oleks:
-<P>
-"tuletab muu hulgas meelde Euroopa Parlamendi nõuet komisjonile ja liikmesriikidele teavitada Euroopa Parlamenti ekspordikrediidiasutuste ja Euroopa Investeerimispanga laenuandmisest projektidele, millel on kliimale kahjulik mõju”.

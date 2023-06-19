@@ -1,6 +1,0 @@
-<CHAPTER ID="001">
-Sēdes atklāšana
-<SPEAKER ID="007" NAME="Daniel Hannan" AFFILIATION="NI">
-Priekšsēdētāja kungs, kopš mūsu pēdējās tikšanās reizes ir publicēti ziņojumi par sanāksmi, kurā piedalījās politisko grupu vadītāji un Čehijas Republikas prezidents un kurā daži grupu vadītāji izteicās nelaipni un rupji, kas, manuprāt, mums nedara godu. Interesanti, vai jūs nevēlētos izmantot šo iespēju, lai pateiktu, ka jūs kā šodienas sēdes priekšsēdētāja vietnieks apstiprināt, ka Parlaments ciena visus viedokļus neatkarīgi no tā, vai tie ir par vai pret Lisabonas līgumu, un ka mēs cienām Čehijas Republikas biroju.
-<SPEAKER ID="008" NAME="Priekšsēdētājs">
-Hannan kungs, tas nav manā kompetencē kaut ko apstiprināt, un es arī vēlētos jums atgādināt, ka Parlaments šobrīd nediskutē par šo tematu. Tomēr esmu pārliecināts, ka jūs uzstāsieties ar runu piemērotā brīdī, lai aicinātu kompetentās struktūras atskaitīties par šo jautājumu.

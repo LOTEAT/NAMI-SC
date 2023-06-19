@@ -1,6 +1,0 @@
-<CHAPTER ID="007">
-Balsavimo laikas (Dėl balsavimo rezultatų ir kitos informacijos, žr. protokolą) 
-<SPEAKER ID="059" NAME="Pirmininkas">
-Kitas darbotvarkės klausimas yra balsavimas.
-<P>
-(Rezultatai ir kita išsami balsavimo informacija pateikta protokole)

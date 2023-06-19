@@ -1,6 +1,0 @@
-<CHAPTER ID="011">
-Vapaaehtoinen järjestelmä teollisuustuotteiden pakkausmerkintöjen esittämiseksi pistekirjoituksella (kirjallinen kannanotto) 
-<SPEAKER ID="142" NAME="Puhemies">
-(EN) Konstantinos Poupakisin, Richard Howittin, Ádám Kósan, Eva Lichtenbergerin ja Cecilia Wikströmin toimittaman kirjallisen kannanoton N:o 14/2011 vapaaehtoisesta järjestelmästä pakkausmerkintöjen esittämiseksi pistekirjoituksella on allekirjoittanut parlamentin jäsenten enemmistö, ja työjärjestyksen 123 artiklan perusteella se välitetään kannanotossa mainituille tahoille ja julkaistaan tässä istunnossa hyväksytyssä asiakirjoissa, ja allekirjoittajien nimet kirjataan pöytäkirjaan.
-<SPEAKER ID="143" NAME="Konstantinos Poupakis" AFFILIATION="PPE">
-(EL) Arvoisa puhemies, haluaisin henkilökohtaisesti ja kollegojeni Kósan, Wikströmin, Howittin ja Lichtenbergerin puolesta kiittää kaikkia, jotka tukivat esittämäämme kirjallista kannanottoa. Se esitettiin siinä toivossa, että sokeat ja kuulovammaiset voivat elää itsenäisesti ja osallistua täysimääräisesti yhteiskuntaan. Toivomme, että tällä aloitteella luodaan perusta tämänsuuntaisille täydentäville ja kiireisille toimille. Kiitos kaikille.

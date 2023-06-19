@@ -1,6 +1,0 @@
-<CHAPTER ID="006-33">
-33. Määruse (EÜ) nr 717/2007 (mobiiltelefonid) ning direktiivi 2002/21/EÜ (elektrooniline side) muutmine (
-<P>
-Enne hääletust
-<SPEAKER ID="130" NAME="Adina-Ioana Vălean" AFFILIATION="ALDE">
-Härra president, see on üks väiksem nõukogu soovitud muudatus, millega kõrvaldada vastuolu SMSi piirmäärade jaoks kohaldatavate vahetuskursside ning alanduslimiidi vahel. Sellepärast tuleks nõukogu heakskiidul lisada algteksti artikli 1 lõike 4 lõppu, mis on muudetud määruse artikli 1 punkt 2b, järgmine tekst: "Samu viitekursse kohaldatakse iga aasta, et korrigeerida artiklites 4a ja 4b ning artikli 6a lõikes 3 reguleeritud tasude määra, kui need tasud on antud mõnes muus vääringus kui euro.”

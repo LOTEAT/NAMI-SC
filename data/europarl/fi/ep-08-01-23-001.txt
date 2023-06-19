@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-1 - Istuntokauden uudelleen avaaminen
-<SPEAKER ID="999" NAME="Puhemies">
-(EL) Julistan Euroopan parlamentin torstaina 17. tammikuuta 2008 keskeytetyn istuntokauden uudelleen avatuksi.
-<P>
-Istunto voidaan aloittaa vasta klo 12.30, koska komission puheenjohtaja ei pääse sitä aikaisemmin paikalle. Tästä johtuen istunto päättyy klo 14.00.
-<P>
-(Istunto keskeytettiin klo 12.05 ja sitä jatkettiin klo 12.30.)

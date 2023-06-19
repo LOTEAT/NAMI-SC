@@ -1,6 +1,0 @@
-<CHAPTER ID="006">
-Hääletuse parandused ja hääletuskavatsused (vt protokoll)
-<SPEAKER ID="294" NAME="Juhataja">
-Sellega on selgitused hääletuse kohta lõppenud.
-<P>
-(Istung katkestati kell 13.25 ja jätkus kell 15.00)

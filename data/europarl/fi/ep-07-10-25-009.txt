@@ -1,6 +1,0 @@
-<CHAPTER ID="009">
-Äänestyskäyttäytymistä ja äänestysaikeita koskevat ilmoitukset: ks. pöytäkirja
-<SPEAKER ID="199" NAME="Puhemies">
-(IT) Esityslistalla ovat seuraavana äänestyskäyttäytymistä ja äänestysaikeita koskevat ilmoitukset.
-<P>
-(Istunto keskeytettiin klo 13.00 ja sitä jatkettiin klo 15.00)

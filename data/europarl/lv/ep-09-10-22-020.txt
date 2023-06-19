@@ -1,6 +1,0 @@
-<CHAPTER ID="020">
-Sesijas pārtraukšana
-<SPEAKER ID="279" NAME="Priekšsēdētājs">
-Paziņoju, ka Eiropas Parlamenta sesija tiek pārtraukta.
-<P>
-(Sēdi slēdza plkst. 16.35)

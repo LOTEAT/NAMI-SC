@@ -1,6 +1,0 @@
-<CHAPTER ID="017">
-Posėdžio metu priimtų tekstų perdavimas (žr. protokolą)
-<SPEAKER ID="413" NAME="Robert Sturdy" AFFILIATION="ECR">
-Pone pirmininke, ką tik įvyko du vardiniai balsavimai. Šįryt iki pietų vyko tik du vardiniai balsavimai. Šiame Parlamente nustatyta, kad Parlamento narys turi balsuoti per 50 proc. laiko ir 50 proc. vardinio balsavimo, kad gautų visą dienos užmokestį. Ar taip yra šiuo atveju?
-<SPEAKER ID="414" NAME="Pirmininkas">
-Teisingai. Turite dalyvauti posėdyje 50 proc. viso laiko.

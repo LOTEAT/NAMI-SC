@@ -1,6 +1,0 @@
-<CHAPTER ID="012">
-Datum för sammanträdesperioderna: se protokollet
-<SPEAKER ID="149" NAME="Talmannen">
-Omröstningen är härmed avslutad.
-<P>
-(Sammanträdet avbröts kl. 13.05 och återupptogs kl. 15.00.)

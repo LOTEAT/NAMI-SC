@@ -1,8 +1,0 @@
-<CHAPTER ID="007-05">
-5. Vuosituhannen kehitystavoitteet - Tavoite 5: äitien terveyden parantaminen (äänestys) 
-<P>
-- Kohdasta 6 toimitetun äänestyksen jälkeen
-<SPEAKER ID="094" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
-(PL) Äänestyslaitteeni ei toiminut viidesti nimenhuutoäänestyksen aikana. Huomasin sen ja yritin pyytää puheenvuoroa, mutten saanut sitä. Se ei ollut oikein. Lisäksi tulkkaus puolaan puuttui jonkin aikaa, eikä siitäkään huolehdittu. Pyytäisin, ettei meitä enää kohdeltaisi näin.
-<SPEAKER ID="095" NAME="Puhemies">
-(DE) Hyvä kollega, olen todella pahoillani, etten huomannut puheenvuoropyyntöänne. Toivon, ettei sitä tapahdu toistamiseen. Olkaa hyvä ja antakaa äänenne täällä, niin se kirjataan asianmukaisesti, ja päätöksenne jää näkyviin myös jälkipolville.

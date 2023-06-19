@@ -1,8 +1,0 @@
-<CHAPTER ID="020">
-Avbrytande av sessionen
-<SPEAKER ID="333" NAME="Talmannen">
-Protokollet från detta sammanträde kommer att lämnas till parlamentet för godkännande i början av nästa sammanträdesperiod. Om det inte finns några anmärkningar ska jag omedelbart skicka de antagna resolutionerna till deras mottagare.
-<P>
-Jag förklarar Europaparlamentets session avbruten.
-<P>
-(Sammanträdet avslutades kl. 16.35.)

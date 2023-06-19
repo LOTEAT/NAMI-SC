@@ -1,8 +1,0 @@
-<CHAPTER ID="010">
-Pirmininko pranešimas
-<SPEAKER ID="212" NAME="Pirmininkė">
-Ponios ir ponai, aš norėčiau pateikti svarbų pranešimą dėl popietinio balsavimo. Dėl techninių priežasčių parodyti ir posėdžio pirmininko paskelbti vardinio balsavimo rezultatai tiksliai neatitinka balsavimo sistemos užregistruoto faktinio skaičiaus. Balsavimo rezultatui tai jokios įtakos neturėjo, kadangi dauguma nepasikeitė.
-<P>
-Esant tokiam atvejui šios dienos vidurdienio balsavimo rezultatais negalima abejoti ir jie laikomi patvirtintais. Tikraisiais rezultatais bus laikomi rezultatai, kurie buvo paskelbti kaip šiandieninio posėdžio protokolo priedas.
-<P>
-Savaime suprantama, kad techninės tarnybos deda visas pastangas siekdamos nustatyti šio sutrikimo priežastį ir kad visos funkcijos būtų atstatytos rytojaus balsavimui.

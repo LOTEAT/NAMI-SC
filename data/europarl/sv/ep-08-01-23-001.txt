@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Återupptagande av sessionen
-<SPEAKER ID="999" NAME="Talmannen">
-Jag förklarar Europaparlamentets session återupptagen efter avbrottet torsdagen den 17 januari 2008.
-<P>
-Sammanträdet kan inte inledas förrän kl. 12.30 eftersom kommissionens ordförande inte har möjlighet att närvara förrän då. Det kommer därför att avslutas kl. 14.00.
-<P>
-(Sammanträdet avbröts kl. 12.05 och återupptogs kl. 12.30.)

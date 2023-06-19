@@ -1,6 +1,0 @@
-<CHAPTER ID="005">
-Balsavimui skirtas laikas
-<SPEAKER ID="083" NAME="Pirmininkas">
-kitas punktas yra balsavimas.
-<P>
-(Dėl rezultatų ir kitų balsavimo detalių (žr. protokolą))

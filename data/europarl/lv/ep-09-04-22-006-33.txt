@@ -1,6 +1,0 @@
-<CHAPTER ID="006-33">
-33. Regulas (EK) Nr. 717/2007 (mobilie telefonsakari) un Direktīvas 2002/21/EK (elektroniskie sakari) grozīšana (
-<P>
-- Pirms balsojuma:
-<SPEAKER ID="130" NAME="Adina-Ioana Vălean" AFFILIATION="ALDE">
-Priekšsēdētāja kungs, šis ir neliels grozījums, ko prasa Padome, lai novērstu nekonsekvenci attiecībā uz valūtas maiņas kursiem, kas piemērojami SMS īsziņām un robežvērtībām. Tāpēc saskaņā ar vienošanos ar Padomi pēc sākotnējās regulas 1. panta 4. punkta, kas ir grozītās regulas 1. panta 2. punkta b) apakšpunkts, ir jāpievieno šāds teksts: "To pašu atsauces maiņas kursu piemēro, lai katru gadu pārskatītu 4.a pantā, 4.b pantā un 6.a panta 3. punktā reglamentēto tarifu vērtību, ja šie tarifi ir noteikti valūtās, kas nav euro valūta”.

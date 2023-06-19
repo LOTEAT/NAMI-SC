@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Posėdžio pradžia
-<P>
-(Plenarinis posėdis prasidėjo 10:00 val.)
-<P>
-
-<SPEAKER ID="005" NAME="Antonio Tajani" AFFILIATION="PPE-DE">
-(IT) Pone pirmininke, ponios ir ponai, šiandien Europa neteko vieno iš iškiliausių menininkų. Šį rytą Modenoje mirLučijanas Pavarotis ir, manau, kad teisinga pagerbti šio didžio menui ir kultūrai nusipelniusio žmogaus, kuris visam pasauliui dovanojo Europietišką muziką, atminimą. Jo mirtis visai Europos Sąjungai yra didelis praradimas ir, manau, kad šiuose Parlamento rūmuose būtų tinkama pagerbti jo atminimą.

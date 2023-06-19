@@ -1,8 +1,0 @@
-<CHAPTER ID="007">
-Balsošanas laiks
-<SPEAKER ID="094" NAME="Priekšsēdētājs">
-Tagad pievērsīsimies balsojumam.
-<P>
-(Balsojuma rezultāti un cita informācija: skatīt protokolu)
-<P>
-Šodien mums ir jāveic īpaši nozīmīgs un simbolisks balsojums. Reizi piecos gados Eiropas Parlaments lemj, kas vadīs vēl vienu ES iestādi.

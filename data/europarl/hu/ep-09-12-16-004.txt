@@ -1,6 +1,0 @@
-<CHAPTER ID="004">
-Szavazások órája
-<SPEAKER ID="085" NAME="Elnök">
-A következő napirendi pont a szavazás.
-<P>
-(A szavazás részletes eredménye: lásd a jegyzőkönyvet)
