@@ -1,0 +1,4 @@
+<CHAPTER ID="003-10">
+10. A formatervezési minták oltalma (szavazás) 
+<P>
+- Jelentés: Klaus-Heiner Lehne

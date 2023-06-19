@@ -1,0 +1,4 @@
+<CHAPTER ID="024">
+Istunnon päättäminen
+<SPEAKER ID="219" NAME="Puhemies">
+Istunto päättyi klo 23.45.

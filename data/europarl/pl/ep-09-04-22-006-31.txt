@@ -1,0 +1,16 @@
+<CHAPTER ID="006-31">
+31. Maszyny do stosowania pestycydów (
+<P>
+- Przed głosowaniem nad poprawką 39:
+<SPEAKER ID="125" NAME="Leopold Józef Rutowicz">
+sprawozdawca. - (PL) Komisja w lipcu 2006 roku przedstawiła strategię, której celem jest obniżenie ogólnego zagrożenia i negatywnego wpływu pestycydów na zdrowie ludzkie i środowisko naturalne. Ostatnim elementem tej strategii jest proponowana dyrektywa w sprawie maszyn do stosowania pestycydów zmieniająca dyrektywę 2006/42/WE w sprawie maszyn. Dyrektywa określa wymagania, które powinny spełniać maszyny, urządzenia do aplikacji, by ograniczyć niekorzystny wpływ pestycydów na środowisko, operatora i otoczenie. Ustalenie tych wymagań zmniejszy różnice pomiędzy przepisami i procedurami przyjętymi odnośnie aplikacji pestycydów w niektórych krajach Wspólnoty, zabezpieczy jednolity poziom ochrony środowiska we Wspólnocie, umożliwi swobodny przepływ tych maszyn na rynku Unii, co ma szczególne znaczenie dla małych i średnich przedsiębiorstw, które są najczęściej ich producentami.
+<P>
+Projekt dyrektywy i poprawki były przedmiotem dyskusji w czasie warsztatów, na spotkaniach z przedstawicielami Rady, Komisji, sprawozdawcami-cieniami, zainteresowanymi stronami i podczas rozmów trójstronnych. Ze względu na duże różnice techniczne poszczególnych typów maszyn - od prostych, obsługiwanych ręcznie, do samojezdnych, obsługiwanych przez wykwalifikowanych operatorów - odstąpiono od części poprawek i ustalono, że będą one zawarte w normach przedmiotowych, zleconych przez Komisję Europejskiemu Komitetowi Normalizacyjnemu. Dzięki temu uzyskano consensus, przyjęto poprawkę 39, a stanowisko to potwierdza Rada.
+<P>
+Szczególnie dziękuję za pomoc i współpracę sprawozdawcom-cieniom, przedstawicielom Komisji i Rady, administracji Komisji IMCO oraz zainteresowanym instytucjom. Wnioskuję o przyjęcie dyrektywy, która przyczyni się do zwiększenia ochrony środowiska, operatorów i otoczenia przy aplikacji pestycydów.
+<SPEAKER ID="126" NAME="Charlie McCreevy">
+komisarz. - Panie przewodniczący! Komisja dziękuje sprawozdawcy, panu posłowi Rutowiczowi za jego pracę oraz zaangażowanie w sprawie wniosku.
+<P>
+Komisja z zadowoleniem przyjmuje kompromisową wersję poprawki 39 i liczy na szybkie przyjęcie wniosku w takim kształcie.
+<P>
+Komisja przygotowała oświadczenie o następującej treści: "W zamiarze poparcia zasadniczych wymagań zawartych w załączniku 1, sekcja 2.4, Komisja powierzy CEN (Europejskiemu Komitetowi Normalizacyjnemu) opracowanie zharmonizowanych norm dla każdej kategorii maszyn do stosowania pestycydów, wykorzystujących najlepsze dostępne techniki ochrony środowiska przed niezamierzonym narażeniem na skażenie pestycydami. Mandat obejmie w szczególności normy określające kryteria i specyfikacje techniczne mocowania mechanicznych osłon, systemów rozpylania tunelowego oraz systemów rozpylających wspomaganych powietrzem, aby zapobiec zanieczyszczeniu źródła poboru wody podczas napełniania i opróżniania urządzeń, jak również dokładnych specyfikacji do instrukcji fabrycznych służących zapobieżeniu wyciekom pestycydów, z uwzględnieniem wszystkich odnośnych parametrów, m.in. ciśnienia na dyszy, wysokości belki, prędkości wiatru, temperatury i wilgotności powietrza oraz prędkości jazdy”.

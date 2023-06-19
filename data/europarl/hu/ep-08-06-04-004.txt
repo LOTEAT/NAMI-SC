@@ -1,0 +1,12 @@
+<CHAPTER ID="004">
+Az előző ülés jegyzőkönyvének elfogadása
+<SPEAKER ID="010" NAME="Elnök">
+A 2008. május 22-i, csütörtöki ülés jegyzőkönyve kiosztásra került.
+<P>
+Kíván valaki hozzászólni?
+<SPEAKER ID="011" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Elnök úr! Köszönetet szeretnék mondani a Ház munkatársainak az Energy Globe Díj átadó ünnepségének megszervezéséért, ez ugyanis nagyszerű példaként szolgált az egész világnak, és kiváló képet mutatott Parlamentünkről. Köszönöm minden résztvevőnek.
+<SPEAKER ID="012" NAME="Elnök">
+Lehetőség van a köszönetnyilvánításra. Nem szerepelt ugyan a jegyzőkönyvben, de rendben van.
+<P>
+(Az előző ülés jegyzőkönyvét elfogadták.)

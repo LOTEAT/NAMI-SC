@@ -1,0 +1,68 @@
+<CHAPTER ID="014">
+Kompatibilitet mellan batteriladdare för mobiltelefoner (debatt)
+<SPEAKER ID="465" NAME="Talmannen">
+Nästa punkt är en debatt om en muntlig fråga till kommissionen (B6-0225/2009) av Marco Cappato, för gruppen Alliansen liberaler och demokrater för Europa, om kompabilitet mellan mobilladdare för mobiltelefoner.
+<SPEAKER ID="466" NAME="Marco Cappato">
+frågeställare. - (IT) Fru talman, mina damer och herrar! Ämnet vi diskuterar är tydligt och rakt på sak. Det används ungefär 500 miljoner mobiltelefoner i Europa, och det finns 30 olika sorters laddare. En teknisk förklaring till det existerar inte. Det finns alltså ingen teknisk förklaring. Det är å ena sidan en källa för ojusta spekulationer från tillverkarna. Det orsakar å andra sidan en uppenbar miljöskada när hundratals miljoner mobilladdare sprids i naturen vartannat till vart tredje år, eftersom kunderna är fast i en oundviklig fälla.
+<P>
+Europeiska kommissionen har genom kommissionsledamot Günter Verheugen redan svarat väldigt exakt på vår fråga som uppmanade till att standardisera utrustningen, och därför frågar vi i dag kommissionsledamoten var vi nu står i frågan. En möjlig väg är självreglering, och jag anser att tillverkarna av mobiltelefoner och laddare snabbt kan komma överrens om att införa en standard som sätter stopp för den rent ut sagt löjliga och skadliga situationen.
+<P>
+Därför vill vi nu säga, kommissionsledamot Verheugen, att oavsett vilken garanti för självreglering som tillverkarna vill ge, så måste vi göra det väldigt klart att vi kommer att införa en förordning om deras svar inte är tillräckligt. En sådan förordning skulle inte bara gälla mobiltelefoner och laddare utan även annan digital utrustning för vilken samma problem finns. På så sätt kan Europa också - jag är så gott som klar, fru talman - genomföra standarder som ytterst kan införas även som internationella standarder. Det innebär en stor möjlighet för en teknisk fråga och en viktig sådan för europeiska konsumenter.
+<SPEAKER ID="467" NAME="Günter Verheugen">
+kommissionens vice ordförande. - (DE) Fru talman, mina damer och herrar! Jag är glad över att kunna informera Europaparlamentets ledamöter om att genuina framsteg har gjorts för att harmonisera mobiltelefonladdare i Europa.
+<P>
+Jag vill först tacka Marco Cappato och Toine Manders för deras engagemang i problemet som är en del av vardagen för Europas medborgare.
+<P>
+Jag håller helt med om att vi måste få ett slut på det ständigt ökande antalet laddare och att det i framtiden måste vara möjligt att ladda mobiltelefoner med en standardiserad laddare. De hundratals miljoner oanvändbara laddare och adaptrar som finns i Europa är en löjeväckande börda för miljön och samtidigt ett dyrt irritationsmoment för kunderna. I dag behöver nästan alla som byter mobiltelefon samtidigt en helt annan laddare. Inte ens modeller från samma tillverkare har en standardiserad laddare.
+<P>
+Det är ingenting nytt. Men det är viktigt att förstå att laddningen av en mobiltelefon inte är detsamma som att tanka bilen med bensin; det är tekniskt sett mer komplicerat. För några år sedan hade tekniken ännu inte nått en nivå där fullständig harmonisering var möjlig, framförallt på grund av säkerhetsrisker. Mobiltelefoner kunde överhettas och till och med explodera under laddningen.
+<P>
+Med tiden har svårigheterna övervunnits, och det finns nu inga tekniska hinder för en harmonisering.
+<P>
+Jag har därför vidtagit särskilda åtgärder för att uppmuntra industrin att införa en standardiserad laddare på marknaden.
+<P>
+Jag är övertygad om att industrin kommer att handla snabbt. Men i vår roll som europeisk institution måste vi trycka på. Vi bör under inga omständigheter utesluta möjligheten att införa rättsliga bestämmelser. Som ni kanske redan vet så tillkännagav nätoperatörerna på deras senaste kongress i Barcelona att man från och med 2012 kommer att kunna ladda majoriteten av de nya mobiltelefoner som de säljer med en och samma standardiserade laddare.
+<P>
+Det är bra, men det är inte tillräckligt. Kommissionen skulle vilja se en fullständig harmonisering byggd på en gemensam standard och ett bindande åtagande från industrin att åstadkomma det. Kommissionen förväntar sig att industrin arbetar fram ett bindande avtal i form av ett memorandum till slutet av april. Memorandumet bör undertecknas av de största tillverkarna av mobiltelefoner, och det bör garanteras att varje laddare ska kunna ladda alla mobiltelefoner och att varje mobiltelefon ska kunna laddas av alla laddare.
+<P>
+Kommissionen kommer inte tveka att ta fram ett lagstiftningsförslag om inte industrin frivilligt kommer fram till ett avtal.
+<P>
+Jag förväntar mig att problemet automatiskt kommer att lösa sig för andra elektroniska apparater, såsom digitalkameror och mp3-spelare, så snart vi har fått genombrottet med mobiltelefoner. Om det inte blir så kan det även här bli aktuellt med lagstiftning.
+<P>
+Kommissionen räknar även i fortsättningen med Europaparlamentets värdefulla stöd för att lösa det irriterande problemet en gång för alla.
+<SPEAKER ID="468" NAME="Paul Rübig" LANGUAGE="DE">
+Fru talman, herr kommissionsledamot, mina damer och herrar! I dag kan vi fira den europeiska dagen för mobiltelefoner därför att vi tillsammans med kommissionen och rådet har antagit ”roamingförordning II”. Vi har kommit fram till en bra slutsats som kommer att resultera i en sänkning av kostnaderna för att använda mobiltelefoner. Det är någonting bra i en ekonomisk kris. Vi planerar också program för kostnadsnedskärningar för laddare, något som är väldigt viktigt för Europas medborgare.
+<P>
+Laddare bör ha en märkning som anger deras effektivitetsklass, i likhet med kylskåp, så att man kan se hur mycket elektricitet de använder. Det är även viktigt att vi inför ett rättsligt krav på att laddaren stängs av automatiskt när komponenten är laddad. Vi ska dessutom begära att standardiseringsorganen tar fram förslag till genomförande.
+<P>
+Jag anser att det tidsschema som presenterades här av kommissionen är bra, då det kräver av industrin att komma med ett frivilligt förslag till slutet av april eller bli belagd med teknisk lagstiftning. Det är naturligtvis inte så enkelt som det verkar. Å ena sidan har vi kopplingen mellan laddare och mobiltelefon, och det kommer att bli enkelt att upprätta en teknisk standard för det. Men å andra sidan så utgör vägguttagen ett problem som vi känner till från europeiska standarder. Vi borde även ta fram ett förslag för att finna en lösning på det problemet, som inte bara gäller Europa utan även resten av världen. Vi skulle eventuellt kunna involvera Internationella standardiseringsorganisationen (ISO) för att hitta en världsomspännande lösning.
+<SPEAKER ID="469" NAME="Silvia-Adriana Ţicău" LANGUAGE="RO">
+Ämnet som vi debatterar kommer att påverka ett stort antal konsumenter i Europeiska unionen. Jag måste även nämna att 2009, året för kreativitet och innovation, är ett år då vi kan göra framsteg inom standardiseringen om avtalet undertecknas av mobiltillverkare, om än på frivillig basis i detta skede.
+<P>
+Jag anser att vi framförallt behöver gemensamma tekniska standarder. Jag anser också att det är viktigt att involvera europeiska institutioner som sysslar med standardisering så att lämplig forskning kan tillämpas på marknadsnivå.
+<P>
+Vidare anser jag att det är viktigt med en informationskampanj till konsumenterna. Det räcker inte med endast en märkning av mobiltelefonernas energieffektivitet. Jag anser också att det är viktigt att en informationskampanj om typen av mobiltelefonladdare lanseras till konsumenterna.
+<P>
+År 2012 är inte långt borta. Jag anser att om tillverkarna verkligen investerar i den nya typen av unika laddare, så kommer tiden att räcka för att uppnå målet 2012.
+<P>
+Men jag vill även nämna att forskningen faktiskt redan har lett fram till några tillämpningar som finns på marknaden. Det finns laddare som kan användas för att ladda två eller tre set på nära håll. Även om seten är av olika tillverkare och modeller så kan de laddas samtidigt.
+<P>
+Det är därför vi måste investera mer i forskning, enligt mig särskilt inom forskning som är tillägnad informations- och kommunikationsteknik. Framsteg görs. Inom det sjunde ramprogrammet för forskning finns det stora summor pengar avsatta. Men det verkar som om det inte har gjorts tillräckligt inom det ganska smala område som mobilladdare utgör. Det är därför som jag anser att ett avtal mellan tillverkare är ett steg på vägen, men det måste följas av gemensamma standarder.
+<SPEAKER ID="470" NAME="Toine Manders" LANGUAGE="NL">
+Fru talman! I dag debatterar vi ett ämne som är av särskilt intresse för konsumenterna, nämligen standardanslutningar för mobiltelefonladdare. Som liberal är jag naturligtvis för att låta den inre marknaden arbeta och för att regeringen så lite som möjligt ingriper i marknaden. Samtidigt måste även konsumenter ha alternativ. För närvarande finns det inga alternativ alls för konsumenter som köper en ny telefon. Laddaren måste automatiskt köpas tillsammans med telefonen, och det ger ofta upphov till frustration hos konsumenterna. Forskning visar dessutom att konsumenterna betalar 300 miljoner euro om året för nya laddare eftersom de automatiskt ingår vid köp av nya telefoner. Resultatet blir att även miljön belastas med 300 miljoner euro om året. Vi har då inte ens nämnt att det slösas otroligt med energi. De billiga laddarna lämnas nämligen ofta kvar i uttagen även efter att telefonen har kopplats ur, och de fortsätter att dra energi.
+<P>
+Min kollega Marco Cappato och jag själv har i åratal uppmanat till upprättandet av en europeisk standard. Jag vill gratulera kommissionsledamoten för att han löste det genom att flirta lite med industrin, samtidigt som han hotade den genom att säga ”ni får komma fram till en lösning, annars kommer vi att införa bindande lagstiftning”. Som liberal är jag emot en tvingande förordning om övertalning kan användas i stället, och därför vill jag särskilt gratulera honom till hans tillvägagångssätt. Övertalning innebär att folk föredrar att göra något därför att de ser fördelarna med det, och jag anser att kommissionsledamoten har nått en exceptionell framgång.
+<P>
+Jag har berättat följande lilla skämt några gånger förut. När jag mötte min fru för 35 år sedan övertalade jag henne att gå ut med mig. Om jag hade tvingat henne hade hon kanske inte sett mervärdet vi har i dag, och det hade nog inte varat så här länge. Jag anser att exemplet också gäller för industrin. Om industrin måste lösa problemet på egen hand kommer resultatet att bli bättre än om lösningen läggs fram av politiker.
+<P>
+Jag anser därför att det är en utmärkt lösning. Jag hoppas att ni med tiden kommer att lyckas införa standarder, inte bara för telefonladdare, utan även för annan elektronisk utrustning eftersom samma irritationsmoment finns för andra elektroniska apparater. Om en familj åker bort över en helg kan den ta 30 laddare med sig. Det finns alltid folk, även här i kammaren i dag till exempel, som måste fråga om någon har en laddare att låna ut till dem då de har glömt sin egen. Då måste man hitta en specifik laddare av ett specifikt märke och modell. Herr kommissionsledamot, jag vill återigen gratulera. Jag hoppas att det verkligen sker till 2012, och det är väldigt viktigt att ni kan agera kraftfullt om industrin inte lever upp till sina åtaganden. Ni måste ha er makt i beredskap, men helst nå en lösning genom övertalning och självreglering. Det har ni lyckats med, och jag gratulerar.
+<SPEAKER ID="471" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Fru talman! Jag har ytterligare en fråga till kommissionsledamot Günter Verheugen. USB 2-portar kan inte bara överföra energi utan också data. Skulle det inte kunna vara en alternativ lösning?
+<SPEAKER ID="472" NAME="Günter Verheugen">
+kommissionens vice ordförande. - (DE) Fru talman, mina damer och herrar! Herr Rübig, jag har redan noterat det. Jag ville säga att anledningen till att jag är så avslappnad i frågan är därför att jag inte tror vi gör livet onödigt svårt för industrin. USB-standard finns redan. Alla mina sakkunniga säger att aktuell standard kan användas till all bärbar utrustning. Man kan inte samtidigt använda det för bärbara pc-datorer och mobiltelefoner, men det är en möjlighet för all bärbar utrustning.
+<P>
+Det är också mitt svar till Silvia-Adriana Ţicău. Den standard som ni efterfrågar finns faktiskt redan. Jag vill även berätta för er att ett intensivt arbete om energiförbrukning och effekten av den typen av laddare på miljön redan pågår. Vi kommer att titta närmare på det senast när vi börjar genomföra direktivet om energiförbrukande produkter, som vi har lagt fram ett nytt förslag till.
+<P>
+Min slutliga kommentar riktar sig återigen till Paul Rübig. Jag anser att idén om en automatisk avstängning är väldigt bra, och det gäller inte bara laddare. Jag anser att det är ett ämne som kan vidareutvecklas. Kommissionen arbetar redan på det och kommer att återkomma till er med en rapport om resultaten.
+<SPEAKER ID="473" NAME="Talmannen">
+Debatten är härmed avslutad.

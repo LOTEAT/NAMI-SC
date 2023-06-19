@@ -1,0 +1,244 @@
+<CHAPTER ID="016">
+A használt PCB olajak felhasználása egy írországi élelmiszer újrahasznosító üzemben (vita) 
+<SPEAKER ID="369" NAME="Elnök">
+A következő napirendi pont a Bizottság nyilatkozata a használt PCB olajak felhasználásáról egy írországi élelmiszer újrahasznosító üzemben.
+<SPEAKER ID="370" NAME="Androulla Vassiliou">
+a Bizottság tagja. - Elnök úr! A Bizottság teljes mértékben tisztában van azzal, hogy a poliklórozott bifenilek (PCB-k) nagy veszélyt jelentenek az emberi egészségre és a környezetre.
+<P>
+A Belgiumban 1999-ben és Írországban tavaly történt incidensek újból megmutatták, hogy egy kevés PCB is súlyosan megfertőzi a takarmányt és az élelmiszerláncot.
+<P>
+Az elmúlt három évtized alatt az EU jogszabályokat alkotott annak érdekében, hogy csökkenjen a környezetbe jutó PCB- és dioxin-kibocsátás, azzal a céllal, hogy csökkenjen az emberek ezeknek való kitettsége, valamint hogy védje az emberi egészséget és a környezetet.
+<P>
+Mindazonáltal a PCB-t tartalmazó berendezéseknek általában hosszú a várható élettartama, még a PCB-k 1985-ös betiltása óta is jelentős mennyiség maradt használatban és ez egyik forrása a lehetséges emberi kitettségnek.
+<P>
+Különösen a PCB-k ártalmatlanításáról szóló, 1996. szeptemberi 96/59/EK tanács irányelv nyújt megfelelő eszközöket ahhoz, hogy a lehető leghamarabb ártalmatlanítsák a PCB-t tartalmazó eszközöket és hulladékokat, és 2010 végéig a nagy eszközöket.
+<P>
+A jogszabály teljes végrehajtásában azonban jelentős hézagok maradtak. A Bizottságnak jogsértési eljárásokat kellett indítania a legtöbb tagállam ellen azzal a kötelezettséggel kapcsolatban, hogy fel kell mérniük a PCB-t tartalmazó nagy berendezéseket, és PCB-ártalmatlanítási tervet kell készíteniük.
+<P>
+Ezeknek a jogsértési eljárásoknak az eredményeként az általános helyzet javult. Jelenleg két ügy még nincs lezárva, de már közel van hozzá.
+<P>
+Minden tagállam közölte a nyilvántartásba vett berendezések és az általuk tartalmazott PCB megtisztításáról és/vagy ártalmatlanításáról szóló terveket, valamint azokat a terveket, amelyek az olyan berendezések összegyűjtésére és ezt követő ártalmatlanítására vonatkoznak, amelyekre öt köbdeciméternél kevesebb PCB-t tartalmaznak (az irányelv 11. cikkének követelményei szerint).
+<P>
+Mindazonáltal további erőfeszítésekre van szükség. A PCB ártalmatlanítási tervek hatékonyságának biztosítása érdekében a tagállamoknak tovább kell fejleszteniük a PCB-kkel kapcsolatos jelenlegi jogszabályok és az általánosságban az európai hulladékkezeléssel foglalkozó jogszabályok végrehajtását.
+<P>
+A Bizottság egyre nagyobb fontosságot tulajdonít az EU hulladékkezelési jogszabályainak megfelelő végrehajtására, és aktívan támogatja a tagállamokat a nemzeti hulladékkezelési jogszabályok végrehajtásának fejlesztésében.
+<P>
+A takarmányhigiéniáról szóló 183/2005/EK rendelet megállapítja a minimális takarmányhigiéniai követelményeket, amelyek a takarmány elsődleges termelésétől (mezőgazdasági szinten) a termelésen, feldolgozáson, az értékesítésen át egészen az állatok etetéséig is vonatkoznak.
+<P>
+A takarmányipari vállalkozóknak kötelessége az eljárások hatályba léptetése, végrehajtása és fenntartása a HACCP elvek alapján. Ez a kritikus ellenőrzési pontok és többek között a lehetséges vegyi szennyeződések meghatározását jelenti, amikor közvetlen hevítési eljárást használnak a takarmányok kiszárításához.
+<P>
+E követelmények betartásának felelőssége a takarmányipari vállalkozóké, bár az elvégzett intézkedések megfelelőségét a tagállamok illetékes hatóságainak vizsgálniuk kell. Legtöbb esetben ezt helyszíni látogatással lehet megtenni.
+<P>
+Továbbá a hivatalos ellenőrzések megszervezésének általános elvei, amelyek az élelmiszerek és takarmányok hatósági ellenőrzéséről szóló rendeletben találhatóak, megköveteli a tagállamoktól annak biztosítását, hogy a szükséges ellenőrzéseket rendszeresen elvégezzék kockázatelemzési alapon, megfelelő gyakorisággal. Ezeknek a hivatalos ellenőrzéseknek tartalmazniuk kell a takarmányipari vállalkozók ellenőrzéseit is.
+<P>
+A Bizottság szerepét az élelmiszerek és takarmányok hatósági ellenőrzéséről szóló 882/2004/EK rendelet 45. cikke határozza meg. A Bizottság szakértői ellenőrzéseket folytatnak a tagállamok illetékes hatóságainál annak igazolására, hogy az ellenőrzések a közösségi joggal összhangban történnek.
+<P>
+Írország több iparágra kiterjedő, a fenti cikk szerinti általános vizsgálata 2008-ban zajlott le, és a jelentés hamarosan hozzáférhetővé válik. Az ellenőrzendő létesítményeket az illetékes nemzeti hatóságok és az FVO ellenőrei közösen választották ki.
+<P>
+A kérdésben meghatározott üzem nem tartozott az ellenőrzendő üzemek közé a 2008-as általános ellenőrzés során.
+<P>
+Az ír dioxin-szennyeződéses esetben a szennyeződés forrásának a szennyezett zsemlemorzsa állati takarmányként történő felhasználása bizonyult. A zsemlemorzsát sütödék hulladékából készítették (lejárt szavatosságú kekszből), amelyet közvetlen hevítéses eljárással szárítottak ki. A közvetlen hevítési eljárás során az égési gázok közvetlen kapcsolatba kerültek a kiszárítandó takarmány anyagával. A használt tüzelőanyag nyilvánvalóan szennyeződött PCB transzformátor olajjal. A különböző szereplők felelősségét, a zsemlemorzsa gyártójától a tüzelőanyag-kereskedőig, és így tovább.
+<P>
+Szeretném aláhúzni a kockázatok besorolásánál használt átfogó eljárások nagy fontosságát, amelyekbe nemcsak a bejövő anyag - esetünkben a zsemlemorzsa - természetéhez kapcsolódó potenciális kockázatokat kell vizsgálni, hanem magát a folyamatot is.
+<SPEAKER ID="371" NAME="Mairead McGuinness">
+a PPE-DE képviselőcsoport nevében. - Elnök asszony! Szeretném megköszönni a Bizottságnak ezt a nagyon részletes nyilatkozatot erről a témáról.
+<P>
+Úgy gondolom, azért vitázunk erről ma este, mert szeretnénk megtanulni a leckét, és biztosak akarunk lenni, hogy nem fog még egyszer megtörténni. Az a nehéz benne, hogy még 1999-ben felfedeztünk Belgiumban egy problémát, és akkor azt gondoltuk, hogy annyira megszigorítottuk a szabályokat, hogy még egy hasonló eset nem fog előfordulni. Most azonban ott vagyunk, ahol vagyunk, ismerjük a rendszer hibáinak következményeit, nemcsak pénzben kifejezve - bár ez nagyon sokba került az Európai Uniónak, az ír adóhivatalnak és az adófizetőknek -, hanem bizalmat vesztettünk a fogyasztóknál, és kárt szenvedett az ír élelmiszeripar a piacok szempontjából.
+<P>
+Örülök, hogy mostanra előrehaladást értünk el, és helyreáll a jó hírnevünk a nemzetközi piacokon, de arra is kíváncsi vagyok, hogy az Európai Unió más országának mezőgazdasági szereplői szembetalálkoznak-e ezzel a problémával az ír nehézségek miatt. Ezért azt gondolom, hogy a mai vita nemcsak Írországról szól. Szerintem világosan látszik a nyilatkozatából, hogy az Írországban megtörtént probléma megtörténhetett volna más tagállamban is. Ezért azt gondolom, hogy a vita kiindulópontjának ennek kell lennie.
+<P>
+Tudjuk, hogy ennek az olajnak nem lett volna szabad bejutnia az állatok táplálékláncába. Megpróbáljuk kitalálni, hogyan történt ez, és - amint Ön nagyon helyesen mondta - ez a rendőrségi nyomozás feladata, annak határon átnyúló dimenzióival. Remélem, hogy meg fogjuk ismerni a pontos eseményeket, és így elkerülhetjük a hasonló eseteket.
+<P>
+Ez azonban felvet egy másik kérdést is, amire Ön utalt, mégpedig az élelmiszerhulladék vagy -felesleg kezelésének módját. Most az újrahasznosítás a követendő. Mindenki emellett van, mert környezetbarát és fenntartható gazdaságot akarunk. Tehát itt két probléma merül fel: először is az olaj újrahasznosítása - amire ön utalt - és úgy gondolom, hogy óvatosabbnak kell lennünk ezzel kapcsolatban, nemcsak a PCB-kel, hanem általában az fáradtolaj begyűjtésével, elosztásával és kezelésével, noha nyilvánvalóan különös aggodalmak kísérik a PCB-ket.
+<P>
+Az élelmiszerfelesleget - más néven élelmiszerhulladékot - szerintem a legjobb, ha az álatok táplálékláncában hasznosítjuk, de szeretném nagyon világosan leszögezni, hogy ha nem tudjuk garantálni a biztonságot, a feldolgozás és a kezelés módját, akkor attól tartok, hogy meg kell fontolnunk, hogy tilalmat vezessünk be ezen anyagok táplálékláncban való hasznosításában.
+<P>
+Szeretném, ha ez nem történne meg, de azt sem szeretném, ha megismétlődne az, ami Írországban és annak következményeként történt. Szeretnénk, ha az élelmiszerhulladékot vagy -felesleget azért használnák fel, mert jó minőségű, nem pedig azért, mert az állati tápláléklánc piacot jelent ennek - azt gondolom, ez nagyon fontos szempont.
+<P>
+Nagyon nyíltan kell beszélnünk az állati takarmányok keverésének teljes témaköréről is. A mezőgazdasági termelők az alkotóelemeket külön szeretik megvásárolni, és a saját arányaikban keverni azokat, általában ezt teszik a nagyobb mezőgazdasági termelők. Ez akkor megfelelő, ha szoros ellenőrzés alatt áll. Tudom, hogy rendszeresen végeznek ellenőrzéseket, de ebben az esetben nyilvánvalóan hézagok keletkeztek a piac ellenőrzésében. Valójában azok a mezőgazdasági termelők, akiket elkaptak és a termék használata miatti következményektől szenvednek, ezt kérdezték tőlem: "Miért nem jön valaki, és ellenőrzi azt, hogy mi kerül be a gazdaságunkba?”
+<P>
+A rendelet témájával kapcsolatban remélem, hogy az engedélyezett takarmánykereskedők - az Európai Unió összetett takarmányipara - ellenőrzése nagyon szigorú lesz és a múltbeli gyakorlatok miatt jöttek be, amit szigorítanunk kell.
+<P>
+Az az érzésem, hogy a tagállamokban a betartást szigorúan szabályozzuk, de nem figyelünk a potenciális ellenszegülőkre. Nem látunk az orrunknál tovább. Lehet, hogy az a tendencia, hogy ha papíron minden rendben van, minden rovat ki van pipálva, akkor félretesszük, és nem nézünk a felszín alá.
+<P>
+Azt gondolom, hogy még egyszer meg kell néznünk a rendeletet. A pénzügyi szektorban is átnézzük, akkor át kell néznünk az élelmiszeripari szektor szabályozását is. Úgy gondolom, hogy a mezőgazdasági üzemekben az ellenőrökre úgy tekintenek, mintha az ördög megtestesítője látogatna hozzájuk. Miért nem örülnek a mezőgazdasági termelők az ellenőröknek, és miért nem a gazdaságuk védelmezőjeként tekintenek rájuk?
+<P>
+Azt hiszem, ezt a tapasztalatot alapul véve meg kell változtatnunk a gondolkodásunkat az egész élelmiszerláncról. Különösen üdvözlöm az Irish Farmers' Association (Ír Mezőgazdasági Termelők Egyesülete) nyilatkozatát, amely szerint élelmiszer-munkacsoportot hoznak létre. Itt az ideje, hogy a mezőgazdasági termelők is részt vegyenek az élelmiszerlánc ellenőrzésében, amelynek ők az első láncszemei.
+<P>
+Végül ott van az olcsó összetevők kérdése, amit most nem fejtek ki, de az a nyomás, amellyel a termelőket arra ösztönzik, hogy minél olcsóbban gyártsanak, ehhez a kérdéshez tartozik, és beszélnünk kell róla.
+<SPEAKER ID="372" NAME="Proinsias De Rossa">
+a PSE képviselőcsoport nevében. - Elnök asszony! Több szempontot is szeretnék elmondani az ügyről kapcsolatban, és természetesen nem mindenben értek egyet McGuinness asszonnyal abban, hogy "ez nem Írországról szól”. Természetesen Írországról szól. Ez a legújabb botrány az élelmiszerek kockázataival kapcsolatban.
+<P>
+Az emberi egészség védelmének kell a legfontosabb szempontnak lennie ebben a kérdésben, és amiről most beszélünk, az egy 1996-os irányelv végrehajtása. Sajnos valójában Írország volt az egyik olyan tagállam, amelyet öt évvel később, 2001-ben, jogi fenyegetéssel kellett kényszeríteni, hogy hajtsa végre ezt az irányelvet. Természetesen úgy tűnik, a végrehajtás folyamata még mindig tart, és az ellenőrzésekből az derül ki, hogy annak betartása még mindig nem elég erős. Amit erről olvastam, abból azt szűrtem le, hogy az egyik meglepő dolog az, hogy nincs információ arról, hogy mi történt pontosan ebben az esetben a sertéshús szennyeződésével kapcsolatban. Úgy tűnik, hogy az érintett takarmánygyártót jó ideje senki sem ellenőrizte.
+<P>
+Azt is el kell mondanom - és biztos vagyok benne, hogy a kormányt meglepi, hogy tőlem ezt hallja -, hogy valóban úgy gondolom, hogy jól döntöttek, amikor azonnal beszüntették a sertéshús-kereskedelmet és valóban levették a polcokról a sertéshúst. Természetesen ez sértett sok ártatlan és szabályokat betartó termelőt, hentest stb.: a húsnak legalább 90%-a egyáltalán nem volt fertőzött. Az érintett üzem csak alig 10 boltba szállított ki, tehát ez túl súlyos lépésnek tűnhet, de ez volt a helyes lépés. A legfontosabb, hogy biztosítsuk, hogy a közvélemény és a fogyasztók biztosak legyenek abban, hogy az a hús, amit a szupermarketekben, a sarki boltban vásárolnak, biztonságosan fogyasztható. Ha nem teszünk azonnali és drasztikus lépéseket ennek garantálására, akkor szerintem nem cselekszünk felelősségünknek megfelelően.
+<P>
+Két kérdésem van a biztos asszonyhoz. Az első, mint már mondtam, most az 1996-os irányelv végrehajtásáról beszélünk. Nincsenek az irányelv felülvizsgálata mellett szóló érvek? Az irányelvben meghatározott normák megfelelőek vagy hiányosak? Nem vizsgálhatnánk-e meg komolyabban annak lehetőségét, hogy ezeket a PBC-ket a kitűzöttnél gyorsabban vonjuk ki a forgalomból különösen azért, mert több tagállam késlekedve hajtja végre az irányelvet?
+<P>
+A másik kérdésem arra a kezelési tervre vonatkozik, amelyet az ír Környezetvédelmi Ügynökség 2008-ban, későn fogadott el, amely tárgyalja a gyakorlati kódexet, és ez a terv tartalmazza a PCB és a PCB-vel szennyezett berendezések használatának sajátosságait. Azt szeretném tudni, hogy ez a gyakorlati kódex megfelel-e az irányelvnek. Nem kellene-e a szabályok szigorúbb betartását szorgalmaznunk a PCB-k kezelése során? Nem azt szeretném, hogy mindenkit megbüntessünk, aki valamilyen szabályt nem tart be, de azt gondolom, hogy amennyiben az élelmiszerek biztonsága érintett, büntetőjogi szankciókkal kell sújtanunk azokat, akik gondatlanok saját pozíciójukban.
+<SPEAKER ID="373" NAME="Liam Aylward">
+az UEN képviselőcsoport nevében. - Elnök asszony! Az ír sertéshúsipar létfontosságú szerepet játszik az ír mezőgazdasági-élelmiszeripari szektorban. Az iparág értékét 1 milliárd euróra becsülik, és közvetve vagy közvetlenül 10 000 embert foglalkoztat.
+<P>
+A jelenlegi gazdasági visszaesés és a növekvő élelmiszerárak figyelembevételével életbevágó, hogy a lehető legtöbbet tegyük meg Írországban az ír sertéshúsipar védelmében, amely a legszigorúbb európai és nemzetközi előírások szerint működik.
+<P>
+A sertészsír-mintában észlelt határérték feletti mennyiségű dioxin, amelyet a National Residue Monitoring Programme (Nemzeti Maradványfigyelő Rendszer) keretében észleltek, lehetővé tette, hogy a szennyezés forrását nyomon követve gyorsan megtalálják az érintett takarmányüzemet. Bár az élelem szennyeződése mindig sajnálatos, ez az eset azt mutatja, hogy az ír hatóságoknak nagyon magas szintű élelmiszerbiztonsági ellenőrzés áll rendelkezésükre, amely garantálja az élelmiszerlánc integritását. Más szóval, ezek az ellenőrzések működtek.
+<P>
+Ezért szeretném elismerni az ír kormány és a Mezőgazdasági Minisztérium szakszerű és gyors cselekvését azzal a döntéssel kapcsolatban, amikor visszahívták az összes terméket. Az európai és nemzetközi piac, valamint az Európai Bizottság ezt nagyon jól fogadta. Rámutatott arra, hogy országként milyen komolyan vesszük az élelmiszerbiztonsági kérdéseket, és segítségünkre volt jó hírnevünk fenntartásában otthon és külföldön minőségi élelmiszereket termelő nemzetként.
+<P>
+Az ír fogyasztók továbbra is vásároltak sertéshúst, amint azok visszakerültek a szupermarketek polcaira, és gyorsan újrakezdhettük a kereskedést a legtöbb európai és nemzetközi piacon. Nyilvánvalóan még több munkára van szükség a teljes kereskedelem visszaállításához, például megerősített marketing kampányokra, és így tovább.
+<P>
+Szeretném elismerni az Oireachtas Mezőgazdasági Bizottságának átfogó nyomozását a dioxin-ügyben, amelynek során sok meghallgatásra is sor került, amelyben részt vettek a minisztériumok, állami ügynökségek és a sertés ágazat képviselői. Örülök annak is, hogy a Mezőgazdasági Minisztérium további nyomozást hajtott végre az európai körökben jól ismert Patrick Wall professzor elnöksége alatt.
+<SPEAKER ID="374" NAME="Friedrich-Wilhelm Graefe zu Baringdorf">
+a Verts/ALE képviselőcsoport nevében. - (DE) Elnök asszony, biztos asszony! Az ír eset legalább kiderült, felülvizsgálat útján. Tíz évvel ezelőtt Belgiumban az ügyek csőstül jöttek. Mindkét esetben megtörtént balesetekről hallottunk, de ezeket a baleseteket soha nem bizonyították. Tíz év után Belgiumban az ügyet lezárták. Egy ember kapott másfél éves felfüggesztett börtönbüntetést. Az azonban még mindig nem világos, hogyan jutott be az anyag a termékbe. Ezért még mindig azt kell feltételeznünk, hogy a mérgező anyagokat szándékosan keverték bele, és a takarmányokat a hulladék költségeinek csökkentésére használták. Így az olajat felhígították, és belekeverték a takarmányba. A kérdéses olaj mindkét esetben traszformátorolaj volt.
+<P>
+Amíg ezeket a baleseteket nem rekonstruálják, és amíg nem bizonyított, hogy valóban az égetés játszott szerepet, addig azt kell feltételezni Írországban is, hogy bűncselekmény történt, ami által ezeket a toxikus anyagokat, a PCB-t hozzákeverték. Ez azt jelenti, hogy sűrítenünk kell az ellenőrzés gyakoriságát, hogy a bűncselekmények ne koncentrálódjanak ezekre a takarmányokra, és ne keltsék azt a benyomást, hogy így könnyen lehet költségeket csökkenteni.
+<P>
+Ezért az a nyílt nyilatkozat, amelyet holnap elfogadunk, további lehetőséget jelent annak bemutatására, hogy nem a bűncselekményekre koncentrálunk, hanem az ellenőrzések gyakoriságát fokozzuk. A kockázatokat továbbá nemcsak abban kell néznünk, hogy melyik üzem volt érintett, hanem meg kell néznünk azt is, hogy ki működteti ezt az üzemet, és milyen piszkos forrásból származik az olaj. Nem ismerjük azokat az embereket, akikkel most foglalkozunk, ezért az intézményeknek tudniuk kell az ellenőrzésekkel kapcsolatban, hogy nagyobb kockázatot képviselnek és ezért szigorúbb vizsgálat alá kell azokat vetni.
+<SPEAKER ID="375" NAME="Bairbre de Brún">
+a GUE/NGL képviselőcsoport nevében. - (GA) Az az eset, amikor az ír gyárakban magas dioxinszintet mértek, nagy gazdasági nehézségeket okozott északon és délen a mezőgazdasági termelőknek. Ez rossz hír a jelenlegi nehéz gazdasági helyzetben. Mivel ilyen gyors lépéseket tettek, a piac megbizonyosodhatott arról, hogy az ír sertéshús biztonságos. Bárhogy legyen is, nem várhatjuk el, hogy akiket érintett, azok egyedül birkózzanak meg a következményekkel. Tudom, hogy néhány gazdasági kérdés ezek közül más biztosokra tartozik, de fontos, hogy felvessük a következő pontokat.
+<P>
+Az ír kormány által 2008 decemberében bejelentett sertéshús-visszahívási rendszer célja a szennyezett hús eltávolítása volt a piacról. Bárhogy legyen is, nem úgy tűnik, hogy ez a rendszer gondoskodott arról, hogy 4000 szennyezett sertést küldjenek a Tyrone megyei Cookstownba, választókerületembe, a Vion sertésfeldolgozó üzembe, 2008. szeptember 1-je és december 6-a között.
+<P>
+Szerencsére feltétel nélkül állíthatjuk, hogy az ír sertéshús teljesen biztonságos. Ha ez az üzem nem jogosult kártérítésre az EU támogatási rendszere szerint, akkor nagy a veszélye annak, hogy nem képes folytatni a működését.
+<P>
+Az Európai Uniónak biztosítania kell, hogy a feldolgozóüzemeknek ne önállóan kelljen megoldaniuk a 4000 szennyezett sertés problémáját.
+<P>
+Ha nem lesznek jogosultak kártérítésre a Bizottság és az ír kormány között létrejött sertéshús-visszahívási rendszer alapján, akkor hasonló megállapodásnak kell születnie a Bizottság és a Mezőgazdasági Minisztérium, valamint a Belfasti Parlament Vidékfejlesztési Hivatala között.
+<P>
+A szolidaritás szellemében az Európai Uniónak el kell fogadnia az érintettek szükséges kártalanításának társfinanszírozását. 2009 nehéz év lesz mindenkinek - ne felejtsük el a kivételes körülményeket, amely az élelmiszeriparban sok embert önhibáján kívül nehéz helyzetbe hozott.
+<P>
+A belfasti parlament miniszterei és az ír kormány hamarosan egy, az egész szigetre vonatkozó állategészségügyi stratégiát jelentet meg.
+<P>
+Egész Írországra kiterjedő megközelítésre van szükség, amely tovább megy az állategészségügyön, és egységes szabályozási rendszert vezet be az egész szigeten. Azaz az Európai Unió jogszabályait az egész szigetre kiterjedően kell kezelni és végrehajtani. Minden ír mezőgazdasági termelő élvezheti ennek a helyzetnek az előnyeit, és a kettőződés elkerülése növeli az uniós rendeletek ellenőrzéseinek hatékonyságát.
+<SPEAKER ID="376" NAME="Kathy Sinnott">
+az IND/DEM képviselőcsoport nevében. - Elnök úr! Kollégám említette azokat a piszkos csatornákat, amelyeken keresztül a PCB beszivárgott az ír élelmiszerláncba. Azt hiszem, lehet, hogy rosszabb, ha visszatekintünk a PCB-k történetében. A poliklórozott bifenilek majdnem 100 évesek. Emberek készítették, és a kezdetektől fogva nyilvánvaló volt, hogy nagyon veszélyesek.
+<P>
+Sok éven keresztül kondenzátorokban, hidraulikus üzemanyagokban és fapadlók kezelésére használták: nyilvánvalóan ezt nem szeretnénk látni az élelmiszerláncban. Majdnem az 1900-as évek elejétől 1966-ig, amikor egy svéd tudós megállapította a veszélyességüket, az emberek becsukták a szemüket, és engedélyezték a használatát annak ellenére, hogy számos ipari baleset történt újra meg újra.
+<P>
+De még miután a tudomány a helyére tette ezt a kérdést, és ez csak az 1970-es években következett be - 1972-ben -, amikor a PCB-k nyilvános célú használatát betiltották, még ezután is engedélyezett volt a használatuk, és csak 2000-ben tiltották be teljesen. Tehát nagyon sok PCB van még szabadon, és sokat hagytunk kint közel 100 év alatt azután, hogy tudtuk, hogy problémát okoz.
+<P>
+Így a Bizottság 1996-os irányelve ellenére, amely megkövetelte a PCB-k ártalmatlanítását, úgy látjuk, hogy újra és újra előkerülnek, különösen Belgiumban és a közelmúltban Írországban.
+<P>
+De úgy látom, hogy egy dolog valóban összezavarta az embereket Írországban. Egyszer abban az időben meglátogattam egy hentest, és ő az egészet nem értette. Azt mondta, hogy annyi nyomon követhető jelet alkalmazunk. Pontosan tudjuk, hogy ez a tojás honnan származik, melyik nap tojták, és ha tényleg mélyebbre akarunk menni, megtalálhatjuk, hogy melyik gazdaságban, és így tovább. És mégis, miután már ismertük a PCB forrását, ennek a hentesnek, aki minden sertéshúsának az eredetét feljegyzi, akinél megvolt minden kódszám stb., szintén ki kellett dobnia és meg kellett semmisítenie minden disznóhúst.
+<P>
+Nem értem, hogyan történt ez, mert tényleg nagyon sokat dolgoztunk a Környezetvédelmi Bizottságban, Önök nagyon sokat dolgoztak, hogy megvalósítsák a nyomon követhetőséget, de hiába voltak ott a chipek, ezeket a rendszereket nem használták. Lehet, hogy a gazdaságok megtalálására szolgáltak, de nem használták fel ezeket az ártatlanok hírnevének tisztázására, és ez nagyon sokba került az embereknek, és nagyon sokat fizetett érte az országom is, hogy nemcsak egy bizonyos ellátási láncot, hanem az egész országot befeketítették.
+<P>
+Vannak más zavarba ejtő esetek is. Ma a dioxinokról és a PCB-kről beszélünk, nagyon helyesen, de ismét száz évnek kell eltelnie, hogy felismerjük a kapcsolatot a dioxinok és az égetés között? Ez a másik dolog, amivel állandóan küszködöm, tehát az égetésből származó dioxint távol tartani az élelmiszerlánctól.
+<SPEAKER ID="377" NAME="Jim Allister" AFFILIATION="NI">
+Elnök asszony! Választókerületemben számos mezőgazdasági termelő és feldolgozóüzem sok millió font veszteséggel néz szembe, annak ellenére, hogy ők semmit sem vétettek, mivel a szennyezett takarmányt jóhiszeműen vásárolták egy élelmiszereket előállító malomtól, ahol felelőtlen emberek bukkantak fel, akiket nem érdekeltek a jó gyakorlatok. Nem meglepő, hogy meglehetősen nagy harag van az érintett választókban.
+<P>
+Több kérdésem is van a biztos asszonyhoz. Ha ma este nem sikerül válaszolni mindegyikre, akkor lehetőség szerint írásban várok rájuk választ.
+<P>
+Először is, milyen előélettel rendelkezik a bűnös újrahasznosító takarmánymalom az EU jogszabályainak betartása tekintetében? Magában a törvényben van a hiba, amint ez elhangzott?
+<P>
+Másodszor, volt-e engedélye a kérdéses olaj használatára a Millstreamnek? Ha nem, akkor nem a tagállam felelőssége-e annak biztosítása, hogy feltárja és foglalkozzon a rendeletben szereplő követelmények kihívó figyelmen kívül hagyásával?
+<P>
+Harmadszor, végrehajtott-e a Millstream egy HACCP-alapú kockázatelemzést és egy önellenőrzési tervet, amelyet az élelmiszerhigiéniai rendelet megkövetel?
+<P>
+Negyedszer, elégedett-e a Bizottság a tagállam által ebben az üzemben és az üzem termelésére vonatkozóan végrehajtott ellenőrzések és felülvizsgálatok szintjével és gyakoriságával, figyelembe véve a tagállamnak egy ilyen kockázat-alapú, hivatalos ellenőrzési tervvel kapcsolatos kötelezettségeit? Tapasztalható-e hanyagság az ír hatóságok részéről a takarmányozási és az élelmiszerbiztonsági követelmények szigorú betartatásában?
+<P>
+Ötödször, az én választókerületemben a legálisan működő élelmiszeripari malmoknak meg kell felelniük a szigorú ellenőrzéseknek és standardoknak egy minőségbiztosítási rendszer alapján. Miért nem volt ezzel megegyező alaposság a Millstream újrahasznosító esetén?
+<P>
+Hatodszor, támaszkodtak-e a takarmánymalmok biztonságára vonatkozó saját maguk által összeállított tanúsításra, és ha igen, miért engedték ennek alkalmazását - mivel ez csak kistermelőknek megengedett?
+<P>
+Végül, szeretném megismerni a pontos jogalapját annak a hatalmas kifizetésnek, amelyet a Bizottság beleegyezésével juttattak el az ír államnak, mivel a Bizottság szóvivője kezdetben azt hangoztatta, hogy nincs ilyen jogalap? Lesznek-e a jogsértésnek következményei, ha a tagállam megsérti saját követelményeit?
+<SPEAKER ID="378" NAME="Maria Petre" AFFILIATION="PPE-DE">
+(RO) Nagyon hasznos a ma esti vita arról a nyilatkozatról, amelyet Bizottság és Ön, biztos asszony kiadott az írországi fáradtolajak takarmánykészítésben való felhasználásáról.
+<P>
+Szeretném egy kissé kiterjeszteni a vitát azzal, hogy nagyon sok tagállamot, köztük Romániát is érintette az, amiről most beszélni fogok, azaz pontosabban az eset érintette a húsipart is, de mindenek felett a fogyasztókat. Érintette az ipart, amely hatalmas veszteségeket szenvedett el igen rövid idő alatt, és a fogyasztókat is abban az időben, amikor, legalábbis Romániában, jelentős a sertéshús-fogyasztás a hagyományos karácsonyi ünnepek alkalmával.
+<P>
+Ami kivételesen jól működött, az az állatorvosi hatóságok értesítése az európai gyorsriasztású rendszeren keresztül. Ettől az intézkedéstől eltekintve azonban minden információ eltűnt. Milyen mennyiségű volt a szennyezett hús, hol hozták fogalomba, és arra a kérdésre, hogy hol vannak az élelmiszeripari termékek, részben választ kaptunk, de néhány esetben egyáltalán nem. Milyen hatásai voltak ennek? Pánikreakció a fogyasztók és hatalmas veszteségek a termelők részéről, valamint nagyon gyenge képességek a felelős hatóságok részéről az ilyen események hatékony kezelésében.
+<P>
+Véleményem szerint legalább két problémával nézünk szembe. Az első a dioxinszennyeződés a fáradtolajak felhasználásának eredményeként, figyelembe véve, hogy a dioxin ismereteink szerint nagy veszélyt jelent, mivel még kis mennyiségben is toxikus az emberi szervezetre. Mit tehetünk annak érdekében, hogy ilyen esetek soha többé ne fordulhassanak elő?
+<P>
+A második probléma: hogyan fejleszthetjük a tagállamok felelős hatóságainak azon képességét, hogy reagáljanak és intézkedéseket tegyenek az ilyen veszélyes helyzetekben?
+<P>
+Egy utolsó megjegyzés: remélem, hogy ebben a vitában legalább erre a két kérdésre választ kapunk.
+<SPEAKER ID="379" NAME="Petya Stavreva" AFFILIATION="PPE-DE">
+(BG) Elnök úr, biztos asszony, hölgyeim és uraim! A polikórozott bifenileket tartalmazó olajak élelmiszerhulladékot újrahasznosító üzemekben való felhasználásának problémája újból felveti az élelmiszerbiztonság garantálásának kérdését az Európai Unióban.
+<P>
+Először is alá kell húznunk, hogy a probléma nem valamilyen állati megbetegedésből ered, hanem az uniós takarmányhigiénia és -biztonság területén előírt intézkedések nem megfelelő ellenőrzéséből. Az ellenőrzések ellenére magas dioxinszintet mértek, mire az a sertéshúsba ért. A logikus kérdés a következő: miért nem történt ilyen korábban?
+<P>
+Napjainkban sok európai polgár arra kíváncsi, hogy az Európai Unióban megvan-e a szükséges jogszabály, ami kötelezi a tagállamokat a megfelelő ellenőrzésre az állatok takarmányainak biztonságára vonatkozóan. Sürgősen szükség van az erre a kérdésre adott válaszra, figyelembe véve azt a tényt, hogy ha csak egyetlen élelmiszeripari üzemben nem alkalmazzák a biztonsági előírásokat, annak végzetes következményei lehetnek, és százmillió euróban mérhető veszteségeket okozhat.
+<P>
+Szeretném felhívni az Európai Bizottságot, hogy tegye meg a szükséges intézkedéseket az ellenőrzések fokozására, amely az uniós fogyasztóvédelmi politika elválaszthatatlan része. A magas dioxintartalmú ír sertéshús eljutott Bulgáriába és sok más európai országba. Ilyen esetek azonban nem engedhetők meg a jövőben, mivel az ezt követően megfizetendő pénzügyi és társadalmi ár rendkívül magas.
+<P>
+Végül, szeretném üdvözölni McGuinness asszony azon kezdeményezését, hogy ezt a kérdést a Bizottság elé tárja tüzetes vizsgálat céljából.
+<SPEAKER ID="380" NAME="Elisabeth Jeggle" AFFILIATION="PPE-DE">
+(DE) Elnök asszony, biztos asszony! Ma este egy ír élelmiszer-újrahasznosító üzem PCB-tartalmú fáradtolaj-használatát tárgyaljuk. Holnap a forgalomba hozatalról és az állati takarmányok felhasználásáról vitázunk. Holnap azt figyelhetjük meg, hogy együtt már rengeteg fontos és hasznos intézkedést tettünk ebben a szektorban. Ám még mindig vannak problémák ezen a területen. Ezért tette fel öt kérdését McGuinness asszony szóban, és ezeket komolyan kell venni és megfontolt válaszokat kell rájuk adni.
+<P>
+Biztos asszony, Ön személyesen beszélt azokról a hézagokról, amelyeket számos tagállamban meg kell szüntetni jogszabályaink végrehajtásához. Igaz, hogy a takarmányipar általánosságban alaposan bizonyította megbízhatóságát az elmúlt években, de bizonyos vállalkozások vagy nincsenek tudatában a kockázatoknak, vagy nem akarják látni azokat. Továbbá úgy látszik, hogy sok tagállamnak fejlődnie kell a megfelelő kockázati bázis ellenőrzésében.
+<P>
+Valamennyien - a Parlament, a csökkenő számú mezőgazdasági termelő és a fogyasztók is - elvárják az ilyen értelmű ellenőrzésekre vonatkozó uniós jogszabályok megfelelő alkalmazását. Ezért úgy gondolom, hogy alaposabban meg kell vizsgálnunk az általános élelmiszertörvényt, valamint az élelmiszer-újrahasznosító üzemek élelmiszer- és takarmányhigiéniáját és engedélyezési feltételeiket.
+<P>
+Igen, valóban hasznosítani szeretnénk az élelmiszer-felesleget. Én személyesen legalábbis ezt szeretném látni a kérdéses élelmiszer-feleslegnél, nem pedig annak megsemmisítését. A nyomon követhetőséget azonban biztosítani kell. A nem kívánatos anyagokat és termékeket biztonságos és ellenőrizhető módon ki kell zárni. Amikor a takarmánygyártó társaságok megkapják működési engedélyüket, gondoskodni kell a személyzet szakmai jártasságáról az élelmiszer- és takarmánybiztonság területén.
+<P>
+A takarmányok anyagai alkotják az élelmiszerbiztonság alapjait, és a gazdálkodóknak bizonyosságra van szükségük arról, hogy a fogyasztók számára biztonságos és egészséges élelmiszereket állítanak elő.
+<SPEAKER ID="381" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Elnök asszony! Először is azt szeretném mondani, hogy üdvözlöm ennek a vitának a lehetőségét. Ez ráébresztette a gazdálkodókat, mennyire sebezhetők mások tetteivel szemben.
+<P>
+Ez az eset az Ír Köztársaságban történt, de a fáradtolaj, amely a feltételezések szerint a problémát okozta, Észak-Írországból származott. Mégis az Ír Köztársaságban előállított összetett takarmányban mutatkozott meg.
+<P>
+A felmerült problémát számomra az jelenti, hogy az Ír Köztársaság mezőgazdasági termelői, akár sertéssel, akár szarvasmarhával foglalkoznak, európai kártérítésben, segélyekben és támogatásban részesültek. Ugyanakkor az észak-írországi mezőgazdasági termelőket mindenki cserbenhagyta, semmiféle segítséget vagy támogatást nem kaptak. Sok észak-írországi mezőgazdasági termelő tönkrement, és sokan olyan helyzetbe kerültek, hogy elveszíthetik gazdaságukat és önhibájukon kívül kénytelenek ehetnek abbahagyni a gazdálkodást. Semmi rosszat sem tettek, nem követtek el törvénysértést, és nyíltan ki kell jelentenem ma este a Parlament és a biztos asszony előtt, hogy véleményem szerint az észak-írországi mezőgazdasági termelőket súlyosan becsapták, nemcsak a mi Mezőgazdasági Minisztériumunk, a DARD, ahogyan Észak-Írországban nevezzük, hanem elsősorban a miniszter, aki alkalmatlannak, gyengének és képtelennek tűnik a probléma megoldására.
+<P>
+Az Ír Köztársaság mezőgazdasági minisztere egyértelműen megmutatta, hogy csak önmagával törődik. Ezt jól látom. Hadd tegyek fel egy kérdést a biztos asszonynak: fog-e kapni bármilyen információt annak a vizsgálatnak az alapján, amelyet elvileg a rendőrségnek le kell folytatnia a határ mindkét oldalán? Készen áll-e arra, hogy cselekedjen a kapott információk alapján, és készen áll-e gondoskodni arról, hogy az észak-írországi termelők ugyanolyan támogatást kapjanak, mint az Ír Köztársaság mezőgazdasági termelői, és hogy semmiféleképpen ne fosszák ki őket pénzügyi szempontból? És mindenek felett, és ez az utolsó kérdésem: gondoskodik-e Ön arról, hogy ilyen jellegű probléma soha többé ne fordulhasson elő? Az ilyen esetek nagyon erősen rombolják a fogyasztók bizalmát és mindenek felett tönkreteszik a termelőt.
+<SPEAKER ID="382" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Elnök asszony! A PCB-knek való emberi kitettség egyik forrása az élelmiszerlánc, amint ezt a biztos asszony is elmondta. A nyílt láng és a dohányfüst azonban sokkal nagyobb veszélyforrást jelent sokkal több ember számára. Legyünk arányosak és tartsuk távol a hisztériát ettől a vitától, és inkább fényt vessünk rá, ne hőt!
+<P>
+A takarmányhigiénia minimális követelményei valóban nagyon fontosak, amelyeket szigorúan be kell tartatni, de ezzel együtt kell járnia az összes hústermék teljes azonosíthatóságának és nyomon követhetőségének - nemcsak a marhahús, hanem a baromfi, a sertés és a juhhús esetében is. Már benyújtottam ilyen értelmű módosító javaslataimat a hatályos jogszabályokkal kapcsolatban, amelyeket rövidesen meg fogunk vitatni ebben a Házban.
+<P>
+A kérdéses sertéstakarmányt valóban a kenyérmorzsa szennyezte be, mivel a Millstream Recycling gondatlan módon felhasználta a kenyérmorzsa szárítására azt a tüzelőanyagot, amelyet jóhiszeműen megvásárolt egy társaságtól, amellyel már évek óta üzleti kapcsolatban állt, és amellyel kapcsolatban korábban semmiféle probléma nem merült fel. Folyamatban van a rendőrségi vizsgálat, és az érintett társaság teljes együttműködést tanúsít.
+<P>
+Szeretném teljes mértékben cáfolni Allister úrnak azt az állítását, hogy a társaság hihetetlenül felelőtlen módon járt el. Ennek az ellenkezője fog bebizonyosodni, ezért fogalmazzunk óvatosabban.
+<P>
+A legnagyobb probléma az volt, hogy az összes sertéshús-terméket vissza kellett hívnunk és meg kellett semmisítenünk, hacsak rövid időre is. Sok ír farmer megélhetése, és valójában az ír élelmiszeripari termékek külföldi hírneve veszélybe került, mivel ennyire aránytalanul reagáltunk a helyzetre, miközben a sertéstenyésztő gazdaságoknak alig hat-hét százaléka volt szennyezett, mivel az ír azonosítási és nyomon követési rendszer csődöt mondott a vágóhidaknál. Írországban az összes sertést a fülén címkével meg kell jelölni vagy sütni kell, de a vágóhidak szintjén valamilyen okból nem tudjuk megkülönböztetni a szennyezett sertéseket a sertések túlnyomó részétől, amelyek viszont nem voltak szennyezettek.
+<P>
+Meg kell vizsgálnunk ezt a kérdést. A Bizottságnak meg kell vizsgálnia az azonosíthatóság és a nyomon követhetőség teljes szerepét, és mindenek felett várjuk meg a rendőrségi vizsgálat eredményét, ami szerintem nagyon meglepő lesz.
+<P>
+Az érintett társaságok borzasztóan sajnálják az esetet, és ezt nyilvánosan is elmondták, mert kárt okoztak az élelmiszerláncnak és Írország hírnevének és valójában gazdasági károkat okoztak sok termelőnek, akik mindeddig ezeket a kiváló takarmánytermékeket vásárolták. Most folytatják üzleti tevékenységüket és újból termelik ezeket a - bátran mondhatom - kiváló takarmányokat.
+<P>
+Megdöbbentő volt ez az esemény. Senki sem akarta, hogy megtörténjen.
+<SPEAKER ID="383" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+Elnök asszony! Arra törekszem, hogy ne bíróként vagy esküdtként viszonyuljak ehhez az ír esethez, mivel nem ezért vagyunk itt ma este, de szeretnék feltenni három kérdést a biztos asszonynak: mekkora mennyiségű PCB van továbbra is forgalomban; tudja-e garantálni, hogy ezek nem fogják beszennyezni az élelmiszerláncot a következő 23 hónap során, ameddig az ártalmatlanítási folyamat tart; és benyújt-e a Bizottság jelentést a takarmányhigiéniai rendelet végrehajtásának állapotáról, amit a Parlament szeretne meghallgatni?
+<P>
+Ezenkívül szeretném felhívni Jim Allister figyelmét arra, hogy ez egy határokon átnyúló kérdés. Amint megtudtuk, a szennyezés - amint erre Jim Nicholson nagyon helyesen rámutatott - a határon túlról érkezett. Ezért nem értek egyet Proinsias úrral. Ez európai kérdés, mert határokon átnyúló dimenziója van. Ami Írországban megtörtént, az bármelyik tagállamban megtörténhetett volna, mivel - tudomásom szerint - még sok ezer tonna PCB van forgalomban. Talán a biztos asszony tisztázhatja ezt a szempontot.
+<SPEAKER ID="384" NAME="Friedrich-Wilhelm Graefe zu Baringdorf" AFFILIATION="Verts/ALE">
+(DE) Elnök asszony, biztos asszony! A Bizottság kivizsgálta vagy rekonstruálta a balesethez vezető események folyamatát? Meglehetősen nevetségesnek tartom azt a gondolatot, hogy a fáradtolaj elégetése, majd a kenyérmorzsák között átszivárgó füst ilyen mértékű dioxin-szennyezést okozhat, hogy kétszázszorosra emelkedik a dioxin-szint a sertéshúsban - nem magában a takarmányban, hanem magában a sertéshúsban. Mindaddig, amíg ennek az ellenkezőjét be nem bizonyítják, továbbra is azt kell feltételeznem, hogy itt tudatos hozzákeverésről van szó.
+<P>
+Minden egyes közúti balesetet rekonstruálnak, és kivizsgálják, hogyan következhetett be egy ilyen baleset. Ezt a balesetet is - ha valóban az volt - rekonstruálni kell és ki kell vizsgálni, hogy az ilyen jellegű égetés és a füst, amely áthalad a húson, valóban képes-e előidézni ilyen mértékű dioxin-szennyezést előidézni a húsban. Gyakorló szakemberként azt mondanám, hogy mindaz, ami ezzel kapcsolatban elhangzott, képtelenség. Itt most egy olyan esetről beszélünk, amikor tudatosan kevertek bele valamit a takarmányba, amitől felhalmozódik bennünk ez a méreg, amely magától nem bomlik le, hanem átadódik a következő generációkra.
+<SPEAKER ID="385" NAME="Jan Mulder" AFFILIATION="ALDE">
+- (NL) Rendkívül érdekes ez a vita. Attól tartok, hogy a jövőben is lesznek hasonló eseteink. Soha nem tudjuk kizárni a bűnözői magatartás lehetőségét és azt, hogy egyes emberek előnyt húzzanak a rendszerből.
+<P>
+Az egyik kérdés, amelyet ma este nem vitattunk meg, az egyéni jelölések rendszere. Miért nem bátorítja erősebben a Bizottság az ipart arra, hogy végezzenek saját ellenőrzéseket és dolgozzanak ki egyedi minőségi jelöléseket? A Bizottság mondhatja ezt: "mi végrehajthatunk ellenőrzéseket, de elsősorban Önöknek kell gondoskodniuk saját társaik ellenőrzéséről és arról, hogy ne történhessenek hasonló események. Ha Önök kidolgoznak egy ésszerű rendszert, azt mi támogatjuk és elismerjük.” Számomra úgy tűnik, hogy lentről felfelé kell bátorítást nyújtanunk, hogy a jövőben ne fordulhassanak elő hasonló esetek.
+<SPEAKER ID="386" NAME="Jim Allister" AFFILIATION="NI">
+Elnök asszony! Nincs vita arról a tényről, hogy az olaj a jelek szerint Észak-Írországból származott. Nem ez a kérdés.
+<P>
+Az az igazi kérdés, hogy a Millstream úgy döntött, hogy megvásárolja ezt az olajat tudva, hogy a szárítóban történő használathoz keres olajat - takarmánygyártáshoz, kenyérmorzsa-szárításhoz -, tehát miért vásárolt ilyen jellegű olajat, függetlenül attól, hogy az honnan származott?
+<P>
+Miért nem ellenőrizték az olajat az állami felügyelők és maga a társaság? Tudomásom szerint az olaj ilyen célú felhasználása illegális, az élelmiszerekre és a higiéniára vonatkozó rendeletek megsértése. Tehát nem az a kérdés, hogy honnan származott, hanem az, hogy hogyan jutott be az üzembe és miért használták fel erre a célra?
+<SPEAKER ID="387" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Elnök asszony! Graefe zu Baringdorf úrnak az az állítása, hogy tudatosan keverték bele ezt a szennyezőanyagot a takarmányba, hivatásos politikus részéről megvetendő és méltatlan. Ne avatkozzunk bele az igazságügyi vizsgálat normál folyamatába!
+<P>
+Az érintett társaság, a Millstream Recycling teljes együttműködést tanúsít. Hiánytalan dokumentációval rendelkeznek, amellyel bizonyítani tudják, hogy egy engedéllyel rendelkező, olajszállító dublini társaságtól vásárolták ezt az olajat. Újrahasznosított könnyű tüzelőolajként vásárolták meg, amely megfelelő olaj lett volna az adott szárítási eljárásban történő felhasználásra. Egy engedéllyel rendelkező társaság adta el nekik, és ők úgy tudták, hogy újrahasznosított könnyű tüzelőolajat vásárolnak; elfogadják azonban, hogy transzformátorolajat kaptak, és ez okozta a dioxin-szennyezést.
+<P>
+Jelenleg igazságügyi és rendőrségi vizsgálat is folyamatban van. Várjuk meg ezeknek az eljárásoknak a végeredményét, és ne vagdalkozzunk ilyen állításokkal, mert ez nagyon súlyos kérdés, amelynek megoldását nem segíti elő a hisztéria és a túlreagálás.
+<SPEAKER ID="388" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Elnök asszony! Valamiben mindenki egyetért - senki sem cáfolja -, hogy igen, az olaj Észak-Írországból származik. Ezt nem tagadhatjuk. De miközben vitatkozunk, nyolc mezőgazdasági termelő feladja vállalkozását Észak-Írországban és a Köztársaságban is. Ők is megszenvedték ezt a helyzetet, ezt elfogadom. Ez nem politikai kérdés. Ők egyszerű emberek, akik ezt a helyzetet megszenvedik, és a mi mezőgazdasági termelőink, akik pénzügyi veszteségeket szenvedtek.
+<P>
+Az igazság az - és ezzel szembe kell néznünk, és Önnek, biztos asszony, ezzel szembe kell néznie -, hogy sok tonna sertéshús nem volt nyomon követhető. Senki sem tudta, honnan származik, milyen sertésekből és honnan származik. Biztos asszony, eljött az ideje, már régen elmúlt az ideje, hogy egyértelmű származási címkézési rendszert vezessen be! Ebben az esetben legalább tudnánk, mi a valós helyzet.
+<P>
+Nem akarom politikai síkra terelni ezt az ügyet, mert számomra ez nem politika. Nap mint nap beszélek mezőgazdasági termelőinkkel, akik közül többen valószínűleg el fogják veszíteni gazdaságukat. Ez tehát nagyon súlyos kérdés. Ha meg kell várnunk az igazságügyi vizsgálat végeredményét, nagyon szeretném, ha már itt tartanánk, akkor megvárjuk, de azt is szeretném látni, hogy termelőinket védelemben részesítjük, és nem azt akarom látni, hogy földönfutóvá válnak. Azt akarom látni, hogy megfelelő védelemben részesülnek az Ön részéről, hogy ugyanolyan helyzetben és védelem alatt legyenek, mint az Ír Köztársaság mezőgazdasági termelői.
+<SPEAKER ID="389" NAME="Androulla Vassiliou">
+a Bizottság tagja. - Elnök asszony! Ez a vita valóban nagyon eleven volt, és sok kérdést felvetett. Sok feltételezés is elhangzott, és egyetértek Doyle úrhölggyel abban, hogy türelmeseknek kell lennünk és meg kell várnunk a vizsgálat befejezését. Utána levonhatjuk következtetéseinket és meghozhatjuk a jövőre vonatkozó döntéseinket. Egy valamit el kell mondanom - abban az időben még nem vettem részt ezekben az ügyekben, de hallottam, hogy hasonló esetek történtek Németországban és Belgiumban is, és átfogó tájékoztatást adtak ezekről az eseményekről az összes tagállamban. Tehát azt gondolom, hogy a körültekintő tagállamokban szigorúbb ellenőrzési intézkedéseket alkalmaznak. De még a legszigorúbb ellenőrzések mellett is bekövetkezhetnek ilyen események, csalás, hanyagság vagy más okok miatt. Nekünk az a kötelességünk, hogy gondoskodjunk megfelelő jogszabályokról - amelyek meggyőződésem szerint jelenleg kielégítőek -, és hogy gondoskodjunk arról, hogy a tagállamok betartsák ezeket a jogszabályokat. Bizottságként arról kell gondoskodnunk, hogy legyenek ellenőrzések, és arról, hogy a tagállamok teljesítsék kötelességüket.
+<P>
+Az Élelmiszerügyi és Állat-egészségügyi Hivatalok végrehajtanak ellenőrzéseket, és ezeknek jelentései a nyilvánosság számára hozzáférhetőek, tehát ezekből a jelentésekből megismerhető, hogy milyen mértékben tartják be jogszabályainkat, sőt, ezeket a jelentéseket országonként készítik el.
+<P>
+Sokan felvetették a nyomon követhetőség kérdését, amely valójában az általános élelmiszerjog egyik legfontosabb pillére, valamint az élelmiszeripari gazdasági szereplők felelősségének kérdését, akiknek képeseknek kell lenniük arra, hogy feltüntessék, kitől vásároltak és kinek adnak el. Ám a belső nyomon követhetőségnek az élelmiszeripari gazdasági szereplők által választott részletessége vagy jellegzetességei határozzák meg azt, hogy mekkora végső gazdasági veszteséget kell elviselnie az élelmiszeripari gazdasági szereplőknek visszahívás esetén. Ebben a konkrét esetben Írország nyomon követhetőségi szabályai csak a gyártási dátum nyilvántartását írták elő, a származási gazdaság nyilvántartását nem. Ezért kellett visszahívni az abban a két hónapban előállított összes húst. Ha szigorúbb nyomon követhetőségi szabályokat alkalmaznak (aminek a költségei természetesen magasabbak lettek volna), akkor csak azt a húst kellett volna visszahívni, amelyről megállapítják, hogy az adott gazdaságból származik. Tehát mindenkinek el kell döntenie: vagy többet fizet és jobb nyomon követhetőségi szabályokat alkalmaz, vagy pedig kevesebbet fizet, de végül nagyobb veszteségeket kell elszenvednie.
+<P>
+Az is elhangzott, hogy mint Bizottság támogatást adtunk - bár a kártérítések kifizetése nem az én feladatom, hanem Fischer Boel biztos úr hatáskörébe tartozik -, és azt kell mondanom, hogy amit ebben az esetben kifizettek, azt az Ír Köztársaságban és Észak-Írországban azonos alapon fizették ki. Van itt nálam néhány számadat. A Bizottság bevezetett egy magántárolási segélyezési rendszert Észak-Írországban, és ennek a rendszernek az alapján legfeljebb 15 000 tonna tárolható legfeljebb hat hónapig. Ennek az intézkedésnek a költségvetése 6,9 millió euro. Hasonló magántárolási rendszert fogadtak el az Ír Köztársaságban is. E rendszer alapján legfeljebb 30 000 tonna tárolható legfeljebb hat hónapig, amelynek maximális költségvetése 13,9 millió euro lehet. Az Ír Köztársaságban szintén volt egy ártalmatlanítási program, közösségi társfinanszírozással, amelynek költsége 20,6 millió euro. A Bizottság közvetlenül nem teljesített kifizetéseket a mezőgazdasági termelők számára, sem az Ír Köztársaságban, sem pedig Észak-Írországban, mivel nem létezik jogi alap az ilyen jellegű kártérítésekhez.
+<P>
+Összegezve azt mondanám, hogy jó jogszabályaink vannak, de a jövőben mindig ébereknek kell lennünk. Gondoskodnunk kell arról, hogy ezek a jogszabályok a tagállamok által alkalmazandóak legyenek, és szükségünk van a tagállamok együttműködésére. Ami a Bizottságot illeti, fenn kell tartanunk az ellenőrzéseket és gondoskodnunk kell arról, hogy a tagállamok betartsák rendeleteinket.
+<P>
+Ezenkívül miután megkaptuk a vizsgálatok és a nyomozások végeredményét, akkor majd elgondolkodhatunk a jövőről. Ha úgy véljük, hogy van lehetőség rendeleteink fejlesztésére, akkor ezt tétovázás nélkül meg fogjuk tenni.
+<SPEAKER ID="390" NAME="Elnök">
+A vitát berekesztem.

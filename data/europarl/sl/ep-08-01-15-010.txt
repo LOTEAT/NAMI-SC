@@ -1,0 +1,14 @@
+<CHAPTER ID="010">
+Čas glasovanja (nadaljevanje)
+<SPEAKER ID="110" NAME="Predsednik">
+Naslednja točka je čas glasovanja.
+<P>
+(Za rezultate glasovanja in druge informacije v zvezi z njim glejte zapisnik.)
+<SPEAKER ID="111" NAME="Graham Booth" AFFILIATION="IND/DEM">
+Gospod predsednik, zelo na kratko bi rad opozoril, da pri prejšnjem glasovanju po mojem mnenju niste ravnali v skladu s poslovnikom.
+<P>
+Pozvali ste h glasovanju, vendar pred razglasitvijo konca glasovanja niste vprašali, ali so glasovali vsi poslanci, poleg tega niste razglasili izida glasovanja.
+<P>
+Menim, da niste upoštevali pravil.
+<SPEAKER ID="112" NAME="Predsednik">
+Gospod Booth, rezultat glasovanja je objavljen na zaslonu. V skladu z vašo zahtevo, da se celotno današnje glasovanje izvede poimensko, zdaj glasujemo poimensko, pri tem pa si prizadevam, da bi bila ta oblika glasovanja za Parlament čim manj neprijetna, če se s tem strinjate, gospod Booth.

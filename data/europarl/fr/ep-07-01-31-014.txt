@@ -1,0 +1,6 @@
+<CHAPTER ID="014">
+Souhaits de bienvenue
+<SPEAKER ID="025" NAME="Le Président">
+J'ai le grand plaisir d'accueillir parmi nous le président du comité des affaires étrangères du sénat mexicain, qui vient de prendre place dans la tribune officielle.
+<P>
+Soyez le, Monsieur le Sénateur. Nous vous souhaitons un séjour agréable et fructueux parmi nous.

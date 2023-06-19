@@ -1,0 +1,582 @@
+<CHAPTER ID=1>
+Pöytäkirjan hyväksyminen
+<SPEAKER ID=1 NAME="Puhemies">
+Eilisen istunnon pöytäkirja on jaettu.
+<P>
+Onko huomautettavaa?
+
+<SPEAKER ID=2 LANGUAGE="ES" NAME="Gutiérrez Díaz">
+Arvoisa puhemies, nimeni puuttuu läsnäololistasta. Tähän on varmasti syynä oma unohdukseni, mutta voin vakuuttaa Teille, että osallistuin eiliseen täysistuntoon. Jos haluatte, voin osoittaa sen, koska nimeni esiintyy kaikenlaisissa nimellisissä äänestyksissä. Toivon siten, että virhe korjataan. Virhe on varmasti johtunut omasta unohduksestani.
+
+<SPEAKER ID=3 NAME="Puhemies">
+Voin vahvistaa, että näin teidät useaan otteeseen. Korjaus tullaan viemään pöytäkirjaan.
+
+<SPEAKER ID=4 LANGUAGE="EN" NAME="Hallam">
+Arvoisa puhemies, työjärjestyksen noudattamista koskeva puheenvuoro. Viittaan pöytäkirjan sivulle 30, jossa viitataan eiliseen hävyttömään henkilökohtaiseen hyökkäykseen erästä parlamentin jäsentä kohtaan. Voisittekohan te nyt antaa Sir James Goldsmithille puheenvuoron, jotta hän voi vastata henkilökohtaisesti häneen kohdistamaani hyökkäykseen.
+
+<SPEAKER ID=5 NAME="Puhemies">
+Kiitän teitä tuosta hyödyllisestä kommentista.
+
+<SPEAKER ID=6 LANGUAGE="EN" NAME="Wijsenbeek">
+Arvoisa puhemies, viittaan eilisen pöytäkirjan sivulle 31 - Fontainen mietintöön. Olisin tyytyväinen, jos kertoisitte Whitelle, että tänään on 11. huhtikuuta 1997 ja että vuosi 1977 oli 20 vuotta sitten, jolloin hänellä yhä oli musta parta ja hiuksia päässään.
+<P>
+
+<SPEAKER ID=7 NAME="Puhemies">
+Luulen, että 90 % parlamentista ei ymmärrä, mistä puhutte. Minä kuitenkin ymmärrän, koska toimin eilen puhemiehenä.
+
+<SPEAKER ID=8 LANGUAGE="EN" NAME="Kerr">
+Arvoisa puhemies, haluaisin ensinnäkin onnitella teitä siitä, että johdatte puhetta jo toisena perättäisenä päivänä, mikä on varmaankin ennätys. Viittaan pöytäkirjan sivulle 5 ja onnittelen istuntohenkilöstöä siitä, että se on lisännyt nimeni - tämä on pöytäkirjan miltei ensimmäinen kohta, ja ensi kerralla pyrin saamaan sen ensimmäiseksi - ja huomautan, että kun minun onnistui antaa ääneni Palacio Vallelersundin mietinnölle, tätä erinomaista mietintöä taideteosten tekijöiden jälleenmyyntioikeuksista äänesti - te mukaan lukien - 19 brittiläisen työväenpuolueen jäsentä.
+
+<SPEAKER ID=9 NAME="Puhemies">
+Kiitos, herra Kerr.
+
+<CHAPTER ID=2>
+Äänestys
+<SPEAKER ID=10 NAME="Caudron">
+Henkilöiden vapaa liikkuvuus on yksi neljästä perusvapaudesta, jonka tulisi kuulua jokaiselle Euroopan unionin kansalaiselle. Tämä vapaus ei toimi hyvin käytännössä.
+<P>
+Yksi henkilöiden vapaan liikkuvuuden ominaisuuksista on, että valtiot ja siten myös yksityisyritykset, yliopistot ja ammatilliset järjestöt tunnustavat vastavuoroisesti tutkintonimikkeet ja hyväksyvät kansallisissa koulutusjärjestelmissä suoritetut korkeakoulututkinnot.
+<P>
+Joulukuussa 1988 laadittiin vähintään kolmivuotisesta ammatillisesta korkeammasta koulutuksesta annettujen tutkintotodistusten tunnustamista koskeva yleinen järjestelmä. Tämä tunnustaminen auttaa säilyttämään koulutusohjelmien moninaisuuden jatkossakin.
+<P>
+Komissio on jatkuvasti kannustanut jäsenvaltioita tutustumaan eurooppalaisten naapureidensa koulutusjärjestelmiin: niinpä nyt onkin perustettu korkeakoulututkintojen tunnustamista hoitavia kansallisia tiedotuskeskuksia (NARIC). Komissio on myös rankaissut Kreikkaa ja Belgiaa velvollisuuksiensa laiminlyömisestä näissä asioissa. Jotta komissio voisi tehdä vuonna 1999 kattavan tutkimuksen ammatillisesta koulutuksesta annettujen tutkintotodistusten tunnustamista koskevasta toisesta järjestelmästä vuonna 1992 annetusta direktiivistä, se haluaa esittää tarkistuksia ja esimerkiksi sisällyttää direktiiviin vaatimuksen tutkinnon suorittamisen jälkeen hankitun työkokemuksen huomioon ottamisesta.
+<P>
+Näiden toimenpiteiden lisäksi olisi toivottavaa, että komissio ottaisi perusteellisen tutkimuksensa kohteeksi ne henkilöt, joilla on todellisia ongelmia tutkintojen tunnustamisen kanssa.
+<P>
+Euroopan parlamentti onnittelee komissiota sen erittäin kattavasta kertomuksesta, jossa kerrotaan tutkintojen tunnustamisjärjestelmän tämän hetkiseen soveltamiseen liittyvistä olennaisista ongelmista.
+
+<CHAPTER ID=3>
+Vammaisten yhtäläiset mahdollisuudet
+<SPEAKER ID=11 NAME="Puhemies">
+Esityslistalla on seuraavana Schmidbauerin työllisyys- ja sosiaaliasiain valiokunnan puolesta laatima mietintö (A4-0044/97) komission tiedonannosta vammaisten yhtäläisistä mahdollisuuksista (KOM(96)0406 - C40582/96).
+
+<SPEAKER ID=12 LANGUAGE="SV" NAME="Andersson">
+Herra puhemies! Olin ajatellut kiittää esittelijää erinomaisesta mietinnöstä, mutta saan tehdä sen myöhemmin, kunhan hän on saapunut. Kysymyksestä samanlaisista mahdollisuuksista vammaisille olen sitä mieltä, että aluksi tulisi keskustella siitä määritelmästä, joka on nykyisin kaikkein yleisin vammaisuuden määritelmä, nimittäin ympäristöön suhteutettu vammaisuuskäsite. Se merkitsee, ettei vamma ole mikään pysyvä tila, vaan sitä voidaan pienentää tai ehkä poistaakin eri toimenpitellä, esim. asuntotuotannossa. Jos teemme asunnoista saavutettavia, vähennämme vammaa tai poistamme sen. Jos parannamme liikennevälineitä, pienennämme vammaa tai ehkä jopa poistamme sen. Tämä on yksi lähtökohta.
+<P>
+Toinen lähtökohta on, että kun muotoilemme vammaispolitiikkaa ja kun yritämme luoda yhtäläisiä mahdollisuuksia, asia koskee kaikkia yhteiskunnan alueita. Se, mitä mietinnössä hyvin kuvataan sanalla mainstreaming , koskee asuntopolitiikkaa, liikennepolitiikkaa, työmarkkinapolitiikkaa ja koulutuspolitiikkaa. Vammaispolitiikka ei ole, kuten se perinteisesti on ollut, sosiaalialalle kuuluvaa, vaan se koskee kaikkia yhteiskunnan aloja. En mene asiaan lähemmin, koska aikaa on aivan liian vähän, mutta haluan käsitellä paria asiaa jotka ovat erityisen ajankohtaisia nyt, kun puhutaan yhtäläisistä mahdollisuuksista.
+<P>
+Euroopan nykyinen työmarkkinatilanne korkeine työttömyyksineen on vakava. Meidän työttömyysasteemme on yli 10 prosenttia. Olin mukana eräässä tutkimuskomiteassa Ruotsissa joitakin vuosia sitten. Silloin meillä oli Ruotsissa lähes täystyöllisyys, ts. 2 prosentin työttömyys, koko väestön keskuudessa. Kaikkein vaikeimmin vammaisten työttömyys oli kuitenkin kokonaista 70 prosenttia. Se merkitsee, että kun työmarkkinatilanne vaikeutuu, heidän asemansa huononee entisestään. Se tarkoittaa, että ponnistelut, joita joudumme tekemään, ja mallit, joita joudumme rakentamaan työtilaisuuksien luomiseksi vammaisille, ovat vielä kiireellisempiä tänään. Haluaisin, että tarkastellaan parhaita malleja ja vaihdetaan kokemuksia, sillä meillä on erilaiset järjestelmät eri maissa.
+<P>
+Toinen asia koskee koulutusta. Onhan niin, että vammaiset nuoret ja työntekijät eivät heikon saavutettavuuden vuoksi voi käyttää hyväkseen vapaata liikkuvuutta. Sehän on eurooppalaisen yhteistyön ydin, nimittäin vapaa liikkuvuus, ihmisten mahdollisuus etsiytyä kansallisten rajojen yli opiskelemaan, työskentelemään ym. Se on tärkeä kysymys, joka täytyy ratkaista lähivuosina, niin että kaikki kansalaiset voivat käyttää hyväkseen vapaata liikkuvuutta.
+<P>
+Lopuksi haluan sanoa, että ne vammaisohjelmat, joita meillä on ollut, ovat olleet hyviä. Ne ovat pääasiassa koskeneet kokemusten vaihtoa. Valitettavasti ne ovat juuttuneet neuvostoon. On erityisen tärkeää, että otetaan käyttöön uusia ohjelmia, jotka rakentuvat kokemusten vaihtoon, muun muassa niillä alueilla joita edellä koskettelin. Haluan, kuten sanottua, kiittää esittelijää hyvästä mietinnöstä.
+
+<SPEAKER ID=13 NAME="Schmidbauer">
+Arvoisa puhemies, Euroopan unionissa on 37 miljoonaa vammaista ihmistä. Heidän mahdollisuutensa ottaa osansa Euroopan unionin myönteisistä vaikutuksista, siis kaikkien tavaroiden ja palveluiden vapaasta liikkuvuudesta ja saatavuudesta, on rajallinen. He ovat, kuten vammaisjärjestöt heitä kutsuvat, EU: n näkymättömiä kansalaisia. Koko EU: n alueella tapahtuu yhä ihmisoikeusloukkauksia vammaisia kohtaan. Bannottin mietintö, jonka hyväksyimme täällä joulukuussa, osoitti tämän selvästi.
+<P>
+Siksi tarkistettuun perustamissopimukseen on ehdottomasti lisättävä syrjinnän vastainen lauseke.
+<P>
+Tämän vuoden alkuun asti meillä oli HELIOS II -ohjelma, joka mahdollisti vammaisia ihmisiä koskevan tiedon- ja kokemusten vaihdon. Ohjelman pohjalta syntyi vammaisfoorumi, joka tekee arvokasta työtä eurooppalaisella tasolla asianosaisten kanssa ja asianosaisille. Tähän päivään mennessä tilalle ei ole uutta ohjelmaa. Köyhyysohjelma ja vanhempia ihmisiä koskeva ohjelma hylättiin perustellen sitä toissijaisuudella. Saksan hallitus ei hyväksy 235 artiklaa oikeudelliseksi perustaksi sosiaalisille ohjelmille. Siksi komissio otti takapakkia eikä ole vielä kehittänyt seuraajaa HELIOS II -ohjelmalle. Se haluaa ensin odottaa lopullista arviota HELIOS II -ohjelmasta ennen kuin se ryhtyy toimiin.
+<P>
+Mielestämme on ehdottoman tärkeätä, että kehitetään ja toteutetaan uusi ohjelma, joka perustuu yhtäläisiin mahdollisuuksiin, ihmisoikeuksiin ja YK: n yleisohjeisiin. Tällä välin komissio on päätynyt ikään kuin korvikkeena antamaan väliaikaisena ratkaisuna tiedonannon, josta me täällä keskustelemme. Kannatamme tiedonantoa yhtäläisistä mahdollisuuksista, etenkin siinä olevaa uutta lisäystä, jossa on ihmisoikeuksiin perustuva vammaisia koskeva suunnitelma, joka vastustaa holhouksen periaatetta. Tällä tavoin rikotaan radikaalisti perinteisiä käsityksiä, joiden mukaan vammaisen ihmisen hyvinvointi on riippuvainen hyväntekeväisyydestä ja säälistä. Tiedonanto siirtyy terveysmallista, jossa tavoitteena on korjaaminen, ihmisoikeuksiin perustuvaan sosiaalimalliin.
+<P>
+Vammaispolitiikka alkaa siirtyä nyt kohti yhdentymistä ja yhtäläisiä mahdollisuuksia, siis kohti valtavirtaistamista . Tämän tiedonannon muuten niin hyvä lisäys ei kuitenkaan oikeuta suoranaisiin toimiin. Vain ohjelman avulla poliittisia toimenpiteitä, tietoa ja kokemuksia voidaan välittää jäsenvaltiosta toiseen. HELIOS-ohjelma oli ainoa ohjelma, joka rahoitti suoraan hallitusten ulkopuolisten järjestöjen vammaistyötä ja toimi yhdistävänä elementtinä vammaisiin ihmisiin kaikkialla Euroopan unionissa.
+<P>
+Ohjelmasta oli hyötyä erittäin pienille vammaisryhmille, kuten esimerkiksi kuurosokeille. Näiden ryhmien tarpeiden täyttäminen on ollut riippuvainen todellisesta eurooppalaisesta vaihdosta. Se oli ainoa ohjelma, joka tavoitti useita vammaisryhmiä. Sitä koskevassa väliarvioinnissa todettiin, ettei ongelmaa, jonka HELIOS kohtasi toteuttaessaan solidaarisuutta ja yhteisiä strategioita näin monimuotoisen Euroopan väestönosan keskuudessa, saa aliarvioida.
+<P>
+Kannatan tosin täysin komission asettamaa tavoitetta ottaa vammaiset laajamittaisesti mukaan HORIZON-ohjelman hallintoon ja täytäntöönpanoon, mutta HORIZON ei voi yksin toimia laajapohjaisena yhtäläisiin mahdollisuuksiin perustuvana vammaisohjelmana. Se koskee ainoastaan työllisyys- ja koulutuskysymyksiä ja se pitää rahoittaa. Mitä tulee työllisyyteen, niin voimakkaasti kuin kollegani sitä kuvasikin ja niin huono kuin vammaisten työtilanne onkin, työllisyys on vain yksi osa-alue vammaisten ihmisten päivittäin kohtaamista vaatimuksista, kuten eräs vammainen asian ilmaisi: " Onhan se hyvä, että työpaikkoja ylipäätään on saatavilla, mutta monet vammaiset ihmiset eivät pysty kulkemaan bussilla töihin eikä heillä ole ketään, joka auttaisi heitä valmistautumaan töihin lähtöön." Niin kauan kuin vammaisten integrointia ei ole täysin toteutettu useilla politiikan aloilla, kuten riittävien henkilökohtaisten avustaja- ja tukipalveluiden sekä käyttökelpoisen julkisen liikenteen osalta, työmahdollisuuksien varmistaminen ilman muita toimenpiteitä ei automaattisesti saa aikaan integraatiota.
+<P>
+Lisäksi suuri prosenttiosuus vammaisista on eläkeiässä. Työllisyystoimenpiteet kohdistuvat täten vain rajoitettuun määrään vammaisia.
+<P>
+Olen kuitenkin myös sitä mieltä, että vastuu vammaispolitiikasta pitäisi pääasiallisesti säilyä jäsenvaltioilla. Euroopan unionin tehtävä on luoda lisäarvoa ja tukea jäsenvaltioita parhaiden käytäntöjen vaihdon kautta. Lisäksi Euroopan unionin pitää huolehtia siitä, että vammaiset otetaan huomioon niillä aloilla, joilla lainsäädännöllinen toimivalta tai politiikan tai ohjelmien toteuttamista koskeva toimivalta on jo Euroopan unionilla.
+<P>
+Tämä on valtavirtaistamista , vammaisten yhtäläisiin mahdollisuuksiin pyrkimistä. Vetoan komissioon, jotta se ryhtyisi tähän, eli esittäisi HELIOS-ohjelmalle mahdollisimman pian seuraajan. Lisäksi vetoan jäsenvaltioihin, jotta ne sisällyttäisivät sopimukseen oikeudellisen perustan näille ohjelmille sekä syrjinnän vastaisen lausekkeen.
+<P>
+
+<SPEAKER ID=14 LANGUAGE="DE" NAME="Schiedermeier">
+Arvoisa puhemies, ensinnäkin haluan kiittää esittelijää sydämellisesti. Hänhän kuuluu idealisteihin, jotka käyttävät juuri tähän alaan erittäin paljon ylimääräistä aikaa. On totta, että EU: ssa on 37 miljoonaa vammaista ihmistä. He joutuvat epäilemättä kamppailemaan yhteiskuntamme monien ennakkoluulojen ja vaikeuksien kanssa. Kun heidän kanssaan tai heistä puhuu, pitäisi muistaa, että kuka tahansa voi jo huomenna olla yksi heistä.
+<P>
+Päävastuu vammaispolitiikan uudelleenjärjestelystä on jäsenvaltioilla. EU: n useiden suunnitelmien järkevä koordinointi ja yhdistäminen edistää mielestäni kuitenkin vammaisten integroitumista. Korostan tätä, vaikka arvostankin toissijaisuusperiaatetta erittäin suuresti.
+<P>
+Jotta vakiintuneet rakenteet eivät romahda, tarvitaan uusi toimintaohjelma vastaavine suunnitelmineen, joka suosii vammaisia ja heidän järjestöjään, siten, että sen johdossa on 50 % heitä. Yhtäläisten mahdollisuuksien ja integraation edistäminen sekä yhteistyörakenteiden laajentaminen on tarpeellista.
+<P>
+Komission pitää unohtaa oikeudelliset ongelmat ja ryhtyä koeluontoisiin ja valmisteleviin toimiin vammaisten ihmisten kansalaisjärjestöjen kanssa. Syrjimisen vastaisen ja sellaisen lainsäädännön toteuttaminen, jolla vammaisten osallistuminen kaikkiin yhteisön ohjelmiin taataan, on tärkeätä ja järkevää. Paperilla oleva teoreettinen vaatimus ei missään tapauksessa riitä. Muuten vammaiset ovat kuin pienet ja keskisuuret yritykset: niiden vaatimukset on tosin huomioitu monissa ohjelmissa, mutta niitä ei usein sovelleta käytännössä. Uudelleenjärjestely täytyy toteuttaa energisesti, jotta asianmukaisia tuloksia saavutettaisiin. Vammaisten todellinen pääsy modernien tieto- ja viestintätekniikoiden käyttäjiksi täytyy mahdollistaa. Lyhyen puheajan takia minulla ei valitettavasti ole aikaa esittää muuta.
+<P>
+Ratkaisevaa on mielestäni, että asetetaan pikaisesti vaikutusvaltainen asiantuntijaryhmä tutkimaan vammaisten ihmisten ongelmia. Sen tulee harjoittaa vuoropuhelua jäsenvaltioiden kanssa, joilla, kuten mainittu, on päävastuu, sekä toisaalta Euroopan vammaisfoorumien kanssa, jotta vammaisille ihmisille pystyttäisiin saavuttamaan etuja eurooppalaisella ja laajemmallakin tasolla.
+<P>
+Tätä tavoitetta puolueryhmänikin tukee, ja kiitän tässä kohdin sydämellisesti Bartho Pronkia, joka oli tänään estynyt olemasta paikalla, mutta joka hoiti puolestamme tämän mietinnön valmistelutyön.
+
+<SPEAKER ID=15 LANGUAGE="NL" NAME="Boogerd-Quaak">
+Arvoisa puhemies, kollegat, arvoisa esittelijä, mielestäni käsittelemme tärkeää mietintöä, joka ei ansaitse tulla käsitellyksi perjantai-aamuna, mutta näinhän usein on tällaisten aiheiden kohdalla.
+<P>
+Haluan aloittaa esittelijän viimeisestä huomautuksesta, jossa hän pyysi huomiota syrjinnänvastaisen artiklan ottamiseen perustamissopimukseen. Olemme antaneet erinomaisia lausuntoja harkitun syrjinnänvastaisen artiklan ottamisesta sopimukseen. Olen huolestunut siitä, tuleeko HVK hyväksymään esityksemme sellaisinaan. Syy olla tekemättä sitä, voisi olla se, että tulee liian kalliiksi sisällyttää vammaiset sopimukseen. Mielestäni tämä on häpeällistä. Sillä jos hyväksymme syrjinnänvastaisen artiklan Euroopan laajuisesti, ei voi olla kysymys väärästä kilpailusta. Pyydänkin komissiota tekemään kaikkensa saavuttaakseen tuloksia tässä asiassa, sillä se on tärkeintä, mitä voimme tehdä vammaisille.
+<P>
+Vammaisille on erittäin tärkeää päästä jonnekin: pääsy työhön, pääsy koulutukseen, pääsy liikenteeseen, tämä on kaikkein tärkeintä. Tämä on pääasiassa jäsenvaltioiden vastuulla. Unioni voi antaa vain esimerkin joidenkin ohjelmien avulla ja yritämme sitä ja olemmekin onnistuneet kohtalaisesti tähän mennessä.
+<P>
+Haluan kiinnittää huomionne vielä toiseen tärkeään seikkaan. Esittelijäkin mainitsi siitä ja se on vammaispolitiikan suhde tietoyhteiskunnan mahdollisuuksiin. Juuri vammaiset voivat hyötyä suuresti uudesta tietoteknologiasta. Se voi myös muodostaa ylimääräisen esteen, koska sen käyttö voi olla vaikeaa. Mutta mielestäni uuden tietoteknologian hyvä sovellutus antaa paljon mahdollisuuksia vammaisille, jotta he voivat ottaa paremmin osaa eri yhteiskunnallisiin prosesseihin. Mutta meidän on tehtävä tämä yhdessä mahdolliseksi. Siksi olen sitä mieltä, että tietoteknologiasta ja sen sovellutuksesta on tultava osa ohjelmaa Rolling On Action , jota komissio toteuttaa.
+
+<SPEAKER ID=16 LANGUAGE="DE" NAME="Wolf">
+Arvoisa puhemies, mielestäni vammaisten ihmisten ongelma on todellakin keskeinen asia, kuten täällä on tullut esiin. Schmidbauer on aivan oikeassa: Tarvitsemme asianmukaisen oikeudellisen perustan sosiaaliohjelmille, tarvitsemme syrjinnän vastaisen lausekkeen, tarvitsemme, kuten Schiedermeier vielä kertaalleen korosti, kansallisten kehityspolitiikkojen yhdenmukaistamista ja myös korkea-arvoinen asiantuntijaryhmä olisi erittäin tarpeen.
+<P>
+Tässä on kuitenkin kyse myös pidemmälle ulottuvasta kysymyksestä, ei vain niin kutsutuista ennakkoluuloista ja vaikeuksista, vaan myös yhteiskuntamme kyseenalaistamisesta suoritusyhteiskuntana, jättimäisenä sosiaalidarvinistisena valintakoneistona, jossa yhä enemmän ja yhä uusia ihmisiä seulotaan, ja jossa tämä armoton valinta lisäksi tulee jatkuvasti aatteellisemmaksi. Jotta päästäisiin kerralla yrityksistä muotoilla tästä asiasta aatteita, joiden mukaan terveet suorittajat erotetaan arvottomasta elämästä, meidän pitäisi ainakin talouselämän ulkopuolella todellakin kehittää yhteiskuntaamme niin pitkälle, että jokainen on mukana kykyjensä mukaisesti ja jokaisesta huolehditaan hänen tarpeidensa mukaisesti. Mielestäni olemme tämän velkaa vammaisille ihmisille.
+
+<SPEAKER ID=17 LANGUAGE="DE" NAME="Lukas">
+Arvoisa puhemies ja hyvät kollegat, Schmidbauerin erinomainen mietintö ja tämän teeman käsittely kokonaisuudessaan ovat siksikin erittäin tärkeitä, että on yksinkertaisesti tosiasia, että suuret osat Eurooppaa ovat vammaisten yhtäläisiä mahdollisuuksia koskevissa asioissa jäljessä verrattuna muuhun maailmaan, erityisesti USA: han, Kanadaan ja Australiaan verrattuna.
+<P>
+Haluaisin puuttua vain joihinkin kohtiin. Tätä teemaa on käsitelty äärimmäisen epätyydyttävästi 235 artiklassa. Siksi on todellakin tarpeellista perustaa uusi ohjelma lainsäädännölliselle lisäykselle ja ottaa vammaiset ihmiset ja heidän vanhempansa täysin huomioon. Minäkään en näe ristiriitaa yhdentymiseen sekä yhtäläisiin mahdollisuuksiin perustuvan vammaispolitiikan ja erityisen vammaisohjelman välillä. Päin vastoin, mielestäni vammaisohjelma voi auttaa yhtäläisten mahdollisuuksien tavoitteen saavuttamista.
+<P>
+Mikä ei kuitenkaan tule täysin esiin niin komission tiedoksiannossa kuin valiokunnan mietinnössäkään, on se tosiasia, että vammaisilla ihmisillä on erityisesti myös täysi oikeus onneen, hauskuuteen ja iloon. Siksi tulevaisuudessa tulee olemaan välttämätöntä käsitellä asioita, jotka koskevat vammaisten täysipainoista huomioimista kulttuurin, urheilun, matkailun ja politiikan aloilla. Esimerkiksi suurenmoinen vammaisten olympialaisten -liike, joka on kotoisin USA: sta ja jonka perusti Kennedyn perhe, on liike, joka on täytynyt kokea, jotta pystyisi ymmärtämään, mitä näille vammaisille lapsille ja aikuisille tarkoittaa se, että heillä on mahdollisuus kokea urheilullisen kilpailun elämys, olla onnellisia ja yhteiskunnassamme kokonaisvaltaisesti arvostettuja ihmisiä.
+<P>
+Toisena teemana on kuurojen mahdollisuus osallistua politiikkaan. Tässä talossa käännetään kaikille kielille, mutta kuka ajattelee sitä, että myös kuuroilla pitäisi olla oikeus osallistua poliittisten mielipiteiden ilmaisuun. Poliittisella liikkeellä, jossa minä esimerkiksi toimin, on ollut jo vuosia joissain tilaisuuksissa tulkkaus myös kuuroille. Meidän pitäisi käsitellä tätäkin kysymystä.
+
+<SPEAKER ID=18 LANGUAGE="DA" NAME="Dybkjær">
+Arvoisa puhemies, haluaisin kiittää puheenjohtajaa mietinnöstä ja puheenjohtajan lailla myös iloita komission tiedonannosta ja ennen kaikkea siitä, että mainstreamingin (valtavirtaistamisen) käsite on lyönyt itsensä läpi. Iloitsen siitä sitäkin enemmän siksi, että tilanne on minun käsittääkseni edelleen sellainen, että YK: n vuotuisessa yleiskokouksessa on erityinen valiokunta, jossa käsitellään yhdessä naisia, lapsia ja vammaisia. Kaikki kolme ryhmää ovat erityisen suojattomia ja eristettyjä. Normina on terve mies. Me muut olemme poikkeuksia normista. Mainstreaming tasoittaa tilannetta. Käytännöllisenä ohjenuorana mainstreaming tarkoittaa, että erityistarpeet liitetään tavallisiin, että me toisin sanoen teemme epätavallisesta osan tavallista. Tämä on vastakohta erottelulle ja kaiken vieraan ja toisenlaisen ohjaamiselle erityisille suojelualueille. Mainstreaming vähentää erityisratkaisujen tarvetta, ja tällä tavoin estetään vammaisten eristäminen ja erottaminen. Toisin sanoen: vammaisten tulee liikkua tavallisen kansan joukossa eikä heitä tule ohjata sivukaduille tai umpikujiin.
+<P>
+Haluan painottaa lisäksi kolmea päänäkökohtaa. Ensimmäinen asia on enemmistön vastuu. EU: n kansalaisista on 10 prosentilla jokin vamma. Se on vähemmistö ja vähemmistö ilman valtaa. Tämä 10 prosentin osuus on täysin riippuvainen siitä, mitä 90 prosentin osuus eli enemmistö päättää. Tästä vastuusta meidän tulee olla täysin tietoisia. Myös tämän takia mainstreaming on tärkeää. Silloin ei synny 90/10-tilannetta.
+<P>
+Toiseksi haluaisin painottaa niitä erityisiä ongelmia, jotka liittyvät aikaisin syntyneisiin vammoihin, eli lapsien ja nuorten kohtaamia ongelmia ja näiden vammojen seurauksia työmarkkinoille pääsyn osalta ja korostaa samalla, että EU: n koulutusohjelmien tulee olla myös vammaisia varten.
+<P>
+Kolmanneksi haluaisin painottaa, että jos vapaasta liikkuvuudesta Euroopassa halutaan todellisuutta myös vammaisille, tarvitaan aivan toisenlaista panostamista asiaan kuin tällä hetkellä on havaittavissa.
+
+<SPEAKER ID=19 LANGUAGE="DE" NAME="Raschhofer">
+Arvoisa puhemies, EU: ssa elää 37 miljoonaa vammaista. Se on viisi kertaa niin paljon kuin koko Itävallan väkiluku ja noin 10 % koko Euroopan unionin väkiluvusta. 37 miljoonaa ihmistä, huomattava luku, jotka pitäisi integroida ja jotka on jo määritelty reunaryhmäksi. Sallitteko minun kysyä, kuinka monta aidsiin sairastunutta ihmistä EU: ssa on? Ei varmastikaan 37 miljoonaa, ja kuitenkin väestö on tietoisempi aidsiin sairastuneiden ongelmasta kuin vammaisista. Tiedättekö te syitä tähän?
+<P>
+Kysyn itseltäni, eikö myös ole laiminlyöty sitä, ettei vammaisten ihmisten avointa elämää kohtaan ole herätetty yhtä paljoa kiinnostusta mainoskampanjoiden ja sympatiajulisteiden avulla kuin yhteiskunnan muita reunaryhmiä kohtaan. Eikö kyse ole myös siitä, että ongelmat työnnetään aivan liian helposti syrjään ja niiltä suljetaan silmät? Eikö tämä johda lopulta tietyssä määrin siihen, ettei suurta yleisöä ja rahoittajia enää kiinnosta kaivella taskujensa pohjia? Esimerkiksi aidsin kohdalla näkee kuitenkin, millaisia saavutuksia ja millainen kauaskantoinen vaikutus hyvällä kampanjalla on väestön keskuudessa. Vasta kun suuri yleisö on saatettu tietoiseksi näiden vammaisten päivittäisistä ongelmista, tukiohjelmissa on todella järkeä. Pelkkä vaatimus vammaan perustuvasta syrjimisen vastaisesta lausekkeesta, vaikka tuenkin sitä, herää eloon vasta kun se on sen paperin arvoinen, jolle se on kirjoitettu, siis kun kansalaiset määrittelevät vammaiset osaksi itseään eivätkä reunaryhmäksi.
+
+<SPEAKER ID=20 LANGUAGE="EN" NAME="Hughes">
+Arvoisa puhemies, pidän erittäin tervetulleena komission tiedonantoa ja Barbara Schmidbauerin siitä parlamentin puolesta laatimaa mietintöä.
+<P>
+Vuosien mittaan jäseniä pyydetään usein tarttumaan johonkin aiheeseen, laatimaan siitä kenties vain yksi mietintö tai lausunto ja siirtymään sitten muille aihealueille. Näin ei ole Barbara Schmidbauerin tapauksessa. Hän on koko ikänsä omistautunut vammaiskysymyksille ja työskennellyt vammaisten ihmisten parissa, ja haluaisin kiittää häntä vilpittömästi hänen parlamentin puolesta tekemästään työstä.
+<P>
+Uskon, että yksi yhteiskunnan hyvinvointia hyvin mittaava mittari on se, miten hyvin yhteiskunta kunnioittaa kaikkien kansalaistensa perusoikeuksia. Jos tarkastelemme unionimme eri osia, huomaamme, että emme kunnioita vammaisten oikeuksia. Suurin osa työstä on tehtävä jäsenvaltiotasolla, mutta on selvää, että ponnistusten laajuus vaihtelee jäsenvaltioittain.
+<P>
+Kuten Barbara sanoi, Euroopan unionin tasolla meillä ei tällä hetkellä ole oikeudellista perustaa, joka mahdollistaisi tähän mennessä tehdyn työn jatkamisen. Mielestäni on todella sääli, että komissio on päättänyt, että ensimmäinen ohjelma, josta se luopuu 235 artiklaan liittyvien vaikeuksien vuoksi, on vammaisten asiaa ajava ohjelma. Jos ministerit haluavat estää vammaisohjelman etenemisen, meidän tulisi luovuttaa tuo ohjelma heille ja antaa heidän tuoda julki, että he ovat syypäitä ohjelman jumiutumiseen. Tällä hetkellä komissio sallii sen, että sitä syytetään osallisuudesta tuohon blokkaukseen. Hartaimman toiveemme on siis oltava, että hallitusten välisessä konferenssissa saadaan aikaan uusi ohjelmia koskeva oikeudellinen perusta, joka sallii töiden uudelleenkäynnistämisen tällä alueella.
+<P>
+Johanna Boogerd-Quaak on viitannut tieto- ja tietotekniikkateknologioiden tärkeyteen keinona parantaa vammaisten elämää. Tämäkin on hyvin tärkeää. Jos näillä teknologioilla voidaan poistaa maantieteellinen syrjäytyminen, on vielä tärkeämpää, että niitä käytetään poistamaan vammaisten ihmisten eristyminen ja syrjäytyminen. Jotta tämä saataisiin aikaan, tarvitaan kuitenkin huomattavia investointeja laitteistoon, nykyiseen laitteistoon tehtäviin muutoksiin sekä uusiin ohjelmiin ja koulutukseen, jotta vammaiset voisivat hyötyä näistä teknologioista.
+<P>
+Lopetan puheeni hetki sitten mainitsemaani seikkaan, nimittäin siihen, että meidän on toivottava, että hallitusten välisessä konferenssissa saadaan aikaan uusi ohjelmia koskeva oikeudellinen perusta. Meidän on myös toivottava, että perustamissopimukseen sisällytetään uusi syrjinnän vastainen lauseke. Meillä on oikeus odottaa eikä vain toivoa, että näin tapahtuu. Jos johtajamme eivät saa tätä aikaan, heidän ei pidä yllättyä, jos me parlamentin jäseninä kieltäydymme osallistumasta sellaisten perustamissopimusmuutosten edistämiseen, joissa ei kunnioiteta edustamiemme ihmisten oikeuksia ja huolenaiheita.
+
+<SPEAKER ID=21 LANGUAGE="EN" NAME="Oddy">
+Arvoisa puhemies, Euroopan unionissa on noin 37 miljoonaa vammaista eli noin 10 % EU: n kokonaisväestöstä on vammaisia. Kuitenkin nämä 37 miljoonaa tuntevat itsensä syrjäytyneiksi ja yhdentekeviksi Euroopan unionissa.
+<P>
+Vammaisia ihmisiä ei mainita perustamissopimuksissa. Tähän on tultava muutos, jos Euroopan kansalaisuuteen liittyvien oikeuksien, kuten vapaan liikkuvuuden ja vapauden tarjota ja saada osakseen palveluja, on tarkoitus toteutua vammaistenkin kohdalla " Näkymättömät kansalaiset" -nimisen asiakirjan mukaisesti.
+<P>
+Euroopan unionissa on valtava vammaisten eturyhmä. Vammaiset alkavat suuttua saamansa huomion vähyyteen. Jo sekin, että tämä keskustelu käydään perjantaina, jolloin tiedämme läsnäolijoiden olevan vähissä, osoittaa, kuinka vähän kannamme huolta vammaisista. Parlamentin olisi pitänyt varmistaa, että aihe olisi saanut kaiken asiaankuuluvan huomion keskellä viikkoa.
+<P>
+Haluaisin kiittää komissiota sen erittäin hyvästä asiakirjasta sekä myös Schmidbaueria hänen hyvin hienovaraisesta ja tarkoin harkitusta mietinnöstään. Yhdyn täysin sen kaikkiin johtopäätöksiin, mutta peräänkuulutan erityisesti vammaisten oikeuksia koskevan lausekkeen sisällyttämistä perustamissopimukseen. Komission on siirryttävä sanoista tekoihin ja todellakin rahoitettava joitain järkeviä vammaisohjelmia.
+<P>
+Euroopan unionissa tulisi 48 artiklan nojalla vallita työntekijöiden vapaa liikkuvuus. Kuitenkin vammaisilla on hyvin pienet mahdollisuudet hyödyntää täysin oikeuksiaan, ellei heidän asemaansa ja mahdollisuuksiaan työskennellä Euroopan unionissa jotenkin pyritä parantamaan. Vetoankin siksi komissioon: tehkää jotain myönteistä tämän keskustelun ja tämänpäiväisen äänestyksen seurauksena.
+
+<SPEAKER ID=22 NAME="Liikanen">
+Arvoisa herra puhemies, komissio onnittelee ja kiittää mietinnön laatijaa, edustaja Schmidbaueria, erinomaisesta vammaisten tasavertaisia mahdollisuuksia koskevasta mietinnöstä. On erityisen ilahduttavaa todeta, että kolme yhteisön poliittista toimielintä, parlamentti, neuvosto ja komissio, ovat samaa mieltä mietintönne ja päätöslauselmanne ihmisoikeuksia ja tasa-arvoa koskevasta filosofiasta.
+<P>
+Komission tiedonannon taustalla oli Valkoinen kirja Euroopan sosiaalipolitiikasta. Komissio ilmoitti aikovansa valmistella soveltuvan ehdotuksen, joka ottaisi huomioon YK: n vammaisia koskevat suositukset. Tämä on tärkeää, jotta EUpolitiikka olisi osa kansainvälistä kehitystä. Tarkoituksena on, kuten täällä on tänään pariinkin otteeseen todettu, siirtyä holhoavasta asennoitumisesta keskusteluun vammaisten oikeuksista. Tässä tarkoituksessa komission tiedonanto on kulmakivi uudenlaisen strategian luomisessa.
+<P>
+Mitä tulee rouva Schmidbauerin mietintöön, komissio on samaa mieltä HELIOS-ohjelman myönteisistä tuloksista. Ohjelma on tehnyt mahdolliseksi yhteistyön vammaisten kanssa yhteisötasolla. Se on auttanut ongelmien analysoimisessa ja saavutusten palkitsemisessa. Se on myös edistänyt tiedon levittämistä parhaista kokemuksista. Ohjelman aikana syntyneet kokemukset ovat osoittaneet tarpeen jatkaa myös yhteisötasolla vammaispoliittista strategiaa. Komissio tutkii mahdollisuutta antaa muodollinen lainsäädäntöesitys parlamentille ja neuvostolle. Tämän kannalta on oleellista ensin arvioida HELIOS II -ohjelman tulokset, kuten myös tämän vuoden aikana toteutettavien pilottiprojektien ja valmistelutoimien tulokset. Kuten tiedätte, vuoden 1997 budjetti mahdollistaa nämä valmistelutoimet. Komissio on antanut runsaat kaksi viikkoa sitten tiedonannon, jossa on annettu tarkemmat ohjeet varojen käyttämisestä.
+<P>
+Vammaisten osallistuminen kaikilla EU-politiikan aloilla ei ole aina helppoa ja tyydyttävän tilanteen saavuttamiseksi on tehtävä vielä paljon. Vammaisten todellinen osallistuminen on komission uuden strategian ydinasioita. Komissio on tehnyt tiivistä yhteistyötä Euroopan vammaisfoorumin kanssa ja kaikki asianmukaiset toimet tehdään, jotta vammaisfoorumin tuki jatkuu. Kiitän mietinnön laatijaa, valiokuntaa sekä niitä edustajia, jotka ovat osallistuneet tähän erittäin tärkeään vammaispolitiikkaa koskevaan keskusteluun.
+
+<SPEAKER ID=23 NAME="Puhemies">
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen.
+<P>
+(Parlamentti hyväksyi päätöslauselman.)
+
+<SPEAKER ID=24 NAME="Carlotti">
+Euroopan unionin kansalaisuuden mukaisesti unionin jokaisen kansalaisen on voitava hyötyä samoista kansalais- ja sosiaalioikeuksista ja samoista vapauksista.
+<P>
+Euroopan unionin, jossa lasketaan olevan 37 miljoonaa vammaista, on vielä kehityttävä ennen kuin kaikkien sen kansalaisten voidaan sanoa olevan tasavertaisessa asemassa. Useimmat vammaiset pyrkivät itsenäiseen elämään ja hankkimaan itselleen oman työpaikan.
+<P>
+Komission tiedonantoa vammaisten yhtäläisistä mahdollisuuksista käsittelevä Schmidbauerin mietintö tuo esille tiettyjä puutteita todellisen eurooppalaisen vammaisten oikeuksia ajavan politiikan luomisessa. Vaikka komission tiedonannon ansioksi voidaan lukea, että siinä on päästy eroon aivan liian kauan jatkuneesta holhoavasta lähestymistavasta, siinä ei kuitenkaan ole onnistuttu ratkaisemaan perustamissopimuksen 235 artiklaan liittyviä ongelmia. Komission tiedonannossa ei itse asiassa viitata mitenkään siihen, aikooko se esitellä jatkossa muita ohjelmia, jotka jatkaisivat nykyisen vammaisten oikeuksia ajavan HELIOS II -ohjelman kehitystä. On siis ensisijaisen tärkeää, että hallitusten välisessä konferenssissa vahvistetaan kysymyksen oikeudellinen perusta, jotta neuvosto voi äänestää sosiaaliasioista määräenemmistöllä eikä enää ainoastaan yksimielisesti.
+<P>
+Toisaalta valtavirtaistaminen, joka pyrkii luomaan yhtäläiset mahdollisuudet kaikissa rakenneohjelmissa, ei saa muodostua esteeksi erityisille vammaisohjelmille.
+<P>
+Näiden ohjelmien on yhtäältä keskityttävä siihen, että vammaiset osallistuvat heidän omia asioitaan koskevaan päätöksentekoon, ja toisaalta niiden on kehitettävä uusia tietoteknologioita, jotka voivat helpottaa vammaisten elämää.
+
+<CHAPTER ID=4>
+Kehitysmaiden yhdentyminen
+<SPEAKER ID=25 NAME="Puhemies">
+Esityslistalla on seuraavana Needlen kehitys- ja yhteistyövaliokunnan puolesta laatima mietintö (A40086/97) komission tiedonannosta " Euroopan yhteisön tuki kehitysmaiden alueellista taloudellista yhdentymistä koskeville hankkeille" (KOM(95)0219 - C4-0260/95).
+
+<SPEAKER ID=26 NAME="Needle">
+Arvoisa puhemies, toisin kuin muutamassa edellisessä keskustelussa esitetyssä kommentissa annettiin ymmärtää, mielestäni tämän aamun läsnäolijamäärä on yllättävän hyvä - ainakin tarkkasilmäisimpien jäsenten mielestä.
+<P>
+Koska alueellisia kauppasopimuksia syntyy joka puolella maailmaa kuin sieniä sateella, parlamentin olisi tänä aamuna hyvin helppo käyttää tämä mahdollisuus keskustellakseen maailmankaupan yleisistä suuntauksista. Juuri tällä viikolla Maailman kauppajärjestön johtajat ovat olleet täällä juuri tästä syystä ja selittääkseen, miksi he uskovat kehitysmaiden hyötyvän järjestön vaikutuksesta. Kaikki meistä eivät toki yhdy heidän optimismiinsa. Tänään voimme kuitenkin toivottaa lämpimästi tervetulleeksi komission ponnistelut ensinnäkin sen selvittämiseksi, miten kehitysmaat valitsevat talousrakenteidensa integrointitavat, sekä sen, miten Euroopan unioni voi toteuttaa tuon prosessin hyödylliset piirteet. Näin komissaarit ottivat merkittävän ensimmäisen askeleen näiden tärkeiden kehityskulkujen analysoimiseksi, ja parlamentti näyttää harkitussa vastauksessaan varovaisesti vihreää valoa komissiolle, jotta se edistäisi neuvottelujaan kehitysmaiden kanssa ja selkeyttäisi näkemystään roolistaan yhtenä maailman merkittävimmistä talousmahdeista.
+<P>
+Komission tiedonannossa määritellään alueellinen ja taloudellinen integraatio ensi sijassa korkean tason yhteistyöksi, mikä käytännössä tarkoittaa siirtymistä kohti tavaroiden, palveluiden ja tuotantotekijöiden poliittisten rajojen poistamista, kun taas yhteistyö ponnistuksilla yleensä pyritään vähentämään muita esteitä, muun muassa liikenne- ja viestintäinfrastruktuuriin liittyviä. Asiakirjan yleinen analyysi alueellisista taloussuuntauksista Afrikan, Karibian, Aasian ja Latinalaisen Amerikan eri osissa on ymmärrettävästi lyhykäinen, sillä nämä alueet tietysti muuttuvat nopeasti, mutta asiakirjan sisällöstä saa jonkinlaisen yleiskuvan, ja siksi se on meille hyödyllinen työkalu.
+<P>
+Tämä viimeinen lause on tärkeä, sillä sana " työkalu" korostaa sitä, että parlamentti näkee alueellisen taloudellisen integraation keinona tiettyyn päämäärään pyrkimisessä, ei päämääränä itsessään. Keskustelussa on tullut selväksi, että komissio ymmärtää tämän hyvin, mutta kuultuamme laajaa joukkoa Brysselin ulkopuolista maailmaa edustavia ihmisiä ja järjestöjä meille on selvinnyt, että tarvitaan selkeitä painotuksia. Jos alueellinen integraatio on ponnahduslauta kohti maailmantalouden parempaa integraatiota, jos se käy yksiin yleisen globaalistumisprosessin kanssa, meidän on kiinnitettävä eniten huomiota maiden heikoimmassa asemassa oleviin ryhmiin, sillä ei ole olemassa yleissuunnitelmaa ja yksinkertaista aikataulua, joka soveltuisi hyvin kaikkiin alueellisiin integraatiopyrkimyksiin.
+<P>
+Monet tutkimukset ja tähän kuulemiseen osallistuneet ovat korostaneet, että vähiten kehittyneet maat, joilla ei ole mahdollisuuksia käyttää tietotekniikkaa, viestintää ja yksityisiä investointeja, jotka taistelevat laajaa köyhyyttä vastaan ja ovat mitä suurimmassa määrin avun varassa, hyötyvät todennäköisesti vähiten alueellisesta integraatiosta. Kuten Keski-Amerikasta saadut kokemukset osoittavat, poliittisen ja taloudellisen yhteistyön puute saattaa tällaisissa oloissa olla jopa uhka hauraille demokratioille.
+<P>
+Tämän vuoksi parlamentti korostaa sitä, että maiden luokitteleminen rikkaisiin ja köyhiin saattaa aiheuttaa eripuraisuutta, ja tuo esille, että vaikka alueellinen yhdentyminen voi olla yksi köyhyyttä lievittävä tekijä, se yksin ei voi saada aikaan kestävää taloudellista, sosiaalista ja ympäristökehitystä. Tämän vuoksi parlamentti toteaa hyvin selkeästi, että jonkin maailman osan taloudelliset integraatiomallit - tässä yhteydessä viittaamme Aasian, Pohjois-Amerikan tai jopa omiin integraatiomalleihimme - ovat kaukana niistä, mitkä sopisivat parhaiten Saharan eteläpuolisen Afrikan, Karibian tai muiden alueiden oloihin. Noita alueita koskevien unionin politiikkojen on perustuttava tuon periaatteen perustavaan ymmärtämiseen. Tämä ei tarkoita, ettei meidän tulisi ottaa oppia meidän ja muiden yksittäisistä kokemuksista ja epäonnistumisista; se on tärkeää muun muassa tarpeettoman päällekkäisyyden välttämiseksi. Se ei tarkoita, että EU: n tulisi aina vaatia asianosaisia ihmisiä osallistumaan parantamalla demokraattista integraatiota ja yhteistyötä, joissa meillä itsellämme on vielä selvästi paljon opittavaa ja joiden osalta maailmassa usein huomiotta jätettyjen ihmisten - naisten, lasten ja alkuperäiskansojen - oikeuksien parantamisen tulisi olla täydentävä tavoite.
+<P>
+Parlamentti kiinnittää erityistä huomiota sosiaalisiin ja ympäristönäkökohtiin, joiden täytyy todellisuudessa olla keskeisellä sijalla tärkeimmissä yhteistyöponnistuksissamme mutta joissa tarvitaan konkreettista tukea, jotta saavutetaan aitoa kestävää kehitystä eikä vain perustamissopimuksiin sisällytettyjä sanoja.
+<P>
+Tämän vuoksi parlamentti uskoo kaiken kaikkiaan, että komission asiakirjassa arvostetaan näitä asioita mutta että niille olisi annettava riittävä painoarvo. Siksi olemme käyttäneet tämän mahdollisuuden korostaaksemme uudelleen perustavaa suhdetta, joka vallitsee päämäärien, tavoitteiden ja niiden saavuttamisessa käytettävien keinojen välillä. Jos tämä perusta on kunnossa, EU: n tukea kehitysmaiden eniten apuamme tarvitsevien kansojen taloudelliselle integraatiolle voidaan edistää ja aikanaan meidän ei ehkä tarvitse kantaa niin suurta huolta Maailman kauppajärjestön lämpimistä sanoista ja kylmistä teoista.
+<P>
+
+<SPEAKER ID=27 NAME="Posselt">
+Arvoisa puhemies, taloudellisten ulkosuhteiden valiokunta kannattaa Needlen erinomaista mietintöä. Dimitrakopoulos, jonka puolesta puhun tänään, on tehnyt siitä erinomaisen lausunnon, jonka löydätte papereistanne. Siinä hän näyttää erittäin yksityiskohtaisesti toteen sen, että alueellinen yhdentyminen ei ole ristiriidassa maailmankaupan yhdentymisen kanssa, vaan aivan päinvastoin. Mielestäni tämä on välttämätöntä, sillä globalismin palvojat kyseenalaistavat yhä uudelleen menestyvän alueellisen yhteistyön, jota me olemme Euroopassakin kehittäneet mallina, koska he näkevät siinä ristiriidan suhteessa maailmanlaajuiseen järjestykseen.
+<P>
+Tässä yhteydessä haluaisi muistuttaa siitä, että Euroopan yhdentymisliikkeellä - Paneurooppa-liikkeellä - oli maailmansotien välissä kaksi vastustajaa, nimittäin nationalistit toisella puolella ja toisella kansainliiton äärikannattajat, jotka väittivät silloin, että alueellinen yhdentyminen olisi tarpeetonta ja sen sijaan pitäisi saada saman tien aikaan maailmanlaajuinen järjestys. Tätä keskustelua käymme taas tänään. Mielenkiintoista kyllä, juuri Euroopassa, jossa kannatamme alueellista yhdentymistä, jotkut vaativat, että muualla maailmassa tällaista alueellista yhdentymistä ei tuettaisi. Euroopan unionina meidän ei pitäisi yhtyä tällaisiin virhearviointeihin.
+<P>
+Alueellinen yhteistyö voi korjata paljon sellaista, mitä on tehty myös juuri Euroopan nimissä tai jonka eurooppalaiset ovat tehneet. Afrikkaan on perustettu keinotekoisia valtioita, ja alueellisella yhteistyöllä voidaan ratkaista etniset ongelmat, joita syntyy juuri siitä syystä, että vedetään keinotekoisia rajoja. Pakolaistulvat voidaan vastaanottaa alueellisesti, kuten tehtiin esimerkillisesti Kamputsean sodan aikana Thaimaassa tai kuten esimerkiksi Afganistanin sodassa Pakistanissa, jossa miljoonia ihmisiä otettiin vastaan lähellä heidän kotimaataan - meidän avustuksellamme, mutta kuitenkin siellä - josta heidän oli helpompi sopeutua taas kotimaansa rakenteisiin.
+<P>
+Näin alueellinen yhteistyö on myös rauhaa rakentavaa ja siksi meidän täytyy tukea sitä. Meidän täytyy tukea sitä - ei joidenkin utopistisesti määrättyjen yhdentymisten tai keinotekoisuuksien - vaan kuten mietinnöstäkin käy erittäin hyvin ilmi, luonnollisten kauppateiden, perinteisten yhteyksien takia, mutta myös yhteisen edun nimissä. Yhteiseen politiikkaan ei kuulu vain yhteinen historia, kuten aina nostalgisesti vannotaan, vaan siihen kuuluu myös yhteinen tulevaisuus. Voimme luoda yhteisen tulevaisuuden kehitysalueilla, kun tuemme siellä yhteistyötä tekeviä alueellisia voimia, emme opettaaksemme, vaan auttaaksemme heitä auttamaan itseään.
+<P>
+
+<SPEAKER ID=28 LANGUAGE="IT" NAME="Vecchi">
+Arvoisa puhemies, alueellisen yhdentymisen prosessit ovat keskeisiä ilmiöitä, kun nykyistä maailmaa järjestetään uudelleen.
+<P>
+Mietintö, josta keskustelemme, liittyy ensisijaisesti taloudelliseen yhdentymiseen, vaikka onkin ilmeistä, että kaikenlaisessa yhdentymisessä, jonka pitää olla hallittua ja pyrkiä inhimillisen, tasapainoisen ja kestävän kehityksen tavoitteisiin, yhdentymisen pitää perustua ennen kaikkea selkeisiin poliittisiin valintoihin ja poliittiseen tahtoon.
+<P>
+Vaikutusten ja laajuuden rajana monissa alueellisen taloudellisen yhdentymisen suunnitelmissa on juuri se, että puuttuu poliittista johdonmukaisuutta ja poliittisten ja taloudellisten toimijoiden suoraa sitoutumista.
+<P>
+Samalla kun pyritään toteuttamaan paikallista taloudellista yhdentymistä jollakin alueella, pitää voida luottaa kestäviin taloudellisiin rakenteisiin ja todelliseen valmiuteen yhteismarkkinoiden luomisessa.
+<P>
+Kun on kyse kehitysmaiden välisestä yhdentymisestä, kansainvälisten lahjoittajien rooli ja erityisesti kun on kyse meistä, Euroopan unionin rooli, on aivan keskeinen, jotta voidaan laatia suunnitelma, joka täyttää kansainväliset ehdot ja jossa hyödynnetään resursseja ja osaamista, joita ilman monet hankkeet epäonnistuvat väistämättä.
+<P>
+Suunnitelmana on tietenkin talouden yleismaailmallistaminen ja kansainvälisen kaupan tietoinen vapauttaminen.
+<P>
+Markkinoiden dynamiikka, kuten hyvin tiedämme, ei kuitenkaan yksin ratkaise köyhien ja eristyneiden maiden ongelmia, vaan usein vain vahvistaa maailman rikkaampien ja köyhempien alueiden vastakkaisuutta. Maailmanmarkkinoiden yhdentyminen on mahdollista ja hyödyllisempää, jos se tapahtuu luomalla talous-, kauppa- ja poliittisten suhteiden kehittämiskeskuksia kehitysmaiden välille.
+<P>
+On siis erityisen tärkeää tukea kehitysmaiden laitosten ja inhimillisten kykyjen kehitystä.
+<P>
+Tiedämme kuitenkin hyvin, että kansalliset ja kansainväliset pyrkimykset pitää ensi sijassa suunnata näihin maihin taistelussa köyhyyttä vastaan ja väestön perustarpeiden tyydyttämisen puolesta. Näistä syistä kehityksen ja alueellisen yhdentymisen yhteistyön pitää kulkea rinta rinnan.
+<P>
+Meillä ei tietenkään ole kaikkialle soveltuvia reseptejä, ja esittelijä Needle onkin aivan oikein korostanut tätä. Haluaisin siis kiittää häntä erinomaisesti tehdystä työstä.
+<P>
+Kuitenkin juuri siksi, kuten jo sanoin, ettei ole kaikkialle soveltuvia keinoja, kehitysmaat voivat vain ajatella saavuttavansa omaleimaisen, tärkeän ja autonomisen roolin kansainvälisissä talouden ja politiikan suhteissa vain paikallisen yhdentymisen kautta, ja siksi juuri tämä on yhteistyöpolitiikan ehdoton prioriteetti.
+
+<SPEAKER ID=29 LANGUAGE="NL" NAME="Maij-Weggen">
+Arvoisa puhemies, on hyvä asia, että eri puolilla maailmaa maiden keskinäistä yhteistyötä vahvistetaan. Amerikan mantereella näin tapahtuu Andien sopimuksen ja Mercosurin puitteissa, Afrikassa löydämme hyviä esimerkkejä Länsi-Afrikasta ja Aasian eteläosissa ASEAN-ryhmä vavistuu ja Pacific-foorumi saa lisää sananvaltaa. Voimme todeta, että Euroopan yhteisö, nykyinen Euroopan unioni, on ollut hyvä vientiartikkeli. LänsiEuroopan yhteistyön onnistuminen vaikuttaa muuhun maailmaan. Alueellisten yhteistyösuhteiden muodostuminen on merkki siitä, että niiden maiden riippuvuus Euroopasta ja Yhdysvalloista vähenee ja kehitysalueiden alueellinen itsenäisyys lisääntyy. Ja se on hyvä asia. Sehän on lännen kehitysyhteistyöpolitiikan tärkeä päämäärä.
+<P>
+Nyt on kysyttävä, kuinka me suhtaudumme tähän alueelliseen yhteistyöhön ja kuinka me edistämme sitä. Tähän komission asiakirja antaa hyviä ehdotuksia ja Needle tekee erinomaisessa mietinnössään lisää ehdotuksia. Haluan painottaa muutamaa kohtaa, jotka ryhmäni mielestä ovat erittäin tärkeitä.
+<P>
+Ensimmäinen kohta. Nyt kun monet kehitysmaat tekevät yhä enemmän keskinäistä yhteistyötä, on entistä tärkeämpää, että myös avustajat tekevät enemmän yhteistyötä. Se tarkoittaa sitä, että 15 EU: n jäsenvaltion keskinäistä yhteistyötä on parannettava, sekä Brysselissä että kehitysmaiden suurlähetystöissä. Sitä varten on luotava pysyvät rakenteet ja komission, joka on jo aloittanut useita koehankkeita tällä alalla, pitäisi luoda nämä rakenteet nopeasti.
+<P>
+Toinen kohta. Kyseessä ei ole vain klassinen kehitysapu, kuten Posselt jo sanoi, kyseessä ovat myös unionin ja sen 15 jäsenvaltion kauppasuhteet kehitysmaiden ja niiden yhteistyöjärjestöjen kanssa. Myös nämä kauppasuhteet on suhteutettava alueelliseen tasoon. Muistutan ASEANin kanssa tehdyistä viimeaikaisista sopimuksista. Se on hyvä esimerkki yhteisestä toiminnasta. Muistutan myös ongelmista, joita SADC-alueella on. Etelä-Afrikka on pyytänyt neuvotteluissa uudesta kauppasopimuksesta, että kiinnitettäisiin enemmän huomiota SADC-alueeseen, eli sitä ympäröiviin maihin. Meidän on kunnioitettava tätä. Kyseessä on Etelä-Afrikan ja näiden maiden tärkeä yhdentyminen kaupan alalla, emmekä me voi kiertää sitä.
+<P>
+Kolmas kohta. Kaikkia teemoja ei voida ottaa huomioon alueellisessa lähestymistavassa. Infrastruktuuri, energian lähteet, vesihuolto ja kauppasuhteet ovat tyypillisiä esimerkkejä rajat ylittävistä kysymyksistä. Mutta apu koulutuksessa, sairaaloissa ja muu vastaava apu ovat paikallisesti hoidettavia tehtäviä. Komission on tehtävä valinta yhteisesti hoidettavien ja paikallisesti hoidettavien asioiden välillä.
+<P>
+Viimeinen kohta. On tietenkin tärkeää, että myös kehitysmaissa kehitysohjelmat vahvistetaan alueellisesti, eikä vain kansallisella tasolla. Näin tapahtuu nykyään SADC-alueella ja Pacific-foorumin puitteissa ja meidän on tuettava tätä. Arvoisa puhemies, mainitsin ryhmäni mielestä tärkeitä kohtia, mutta olen sitä mieltä, että komission ja Needlen lähestymistapa on erinomainen ja me tuemme täysin hänen päätöslauselmaansa.
+
+<SPEAKER ID=30 LANGUAGE="DA" NAME="Dybkjær">
+Haluaisin kiittää puheenjohtajaa mietinnöstä ja korostaa kolmea asiaa siitä näkökulmasta, että Tanska kuuluu kehitysavun osalta avustuksien antajien kärkipäähän, mutta on samalla periaatteellisista syistä päättänyt, että 50 prosenttia suunnataan monenväliseen apuun. Ensinnäkin: On ehdottoman tarpeellista saada aikaan vahvempi koordinointi ei pelkästään EU: n ja jäsenvaltioiden välille, vaan myös EU: n ja monenvälisten järjestöjen välille. Toiseksi - olen iloinen siitä, että puheenjohtajakin on korostanut tätä - on välttämätöntä ottaa kestävä ympäristökehitys paljon paremmin huomioon teoissa eikä vain sanoissa. Ja kolmanneksi, että me pyrimme alueellisessa yhteistyössä korkeaan omavaraisuuden asteeseen. Se on nimittäin paras tie kestävään kehitykseen talouden, työllisyyden ja ympäristön osalta. Näin meidän tulee toimia, vaikka siitä voi olla haittaa omille kaupallisille eduillemme.
+
+<SPEAKER ID=31 LANGUAGE="FR" NAME="Taubira-Delannon">
+Arvoisa puhemies, mitä tulee alueelliseen taloudelliseen yhteensovittamiseen, komission tavoitteet pyrkivät toisaalta takaamaan kestävän kehityksen näkymät, toisaalta parantamaan kehitysmaiden liittymistä maailmantalouteen.
+<P>
+Ensimmäiseen tavoitteeseen voimme yhtyä varauksetta, mutta haluamme kuitenkin muistuttaa yhteiskuntien tarpeesta kansanvaltaistua, vaikka kansainväliset tahot kannattavatkin selkeästi vahvoja hallintojärjestelmiä, jotka voivat näennäisesti taata yhteiskunnallisen vakauden. Zairen tilanne muistuttaa meitä kuitenkin siitä, ettei tällainen yhteiskunnallinen vakaus ole koskaan kestävää.
+<P>
+Toisaalta alueellinen talouksien yhteenliittyminen, joka on jo käynnissä tietyillä alueilla, auttaa ensiksikin vahvistamaan eteläisen pallonpuoliskon maiden keskinäistä kauppavaihtoa, toiseksi lievittämään köyhyyttä ja lujittamaan rauhaa sekä viimeiseksi kehittämään uusia solidaarisuuden muotoja.
+<P>
+Kaikki aluevyöhykkeet eivät voi suinkaan vielä tällä hetkellä liittyä yhdentymisprosessiin, mutta niiden keskinäisten yhteistyösuhteiden tiivistäminen on monesta syystä kaikkien etujen mukaista.
+<P>
+Asiaa puoltavat ensinnäkin historialliset syyt. Tiedämme, että alueiden nykyiset rajat on määrätty siirtomaa-ajan jälkeisissä sopimuksissa, eivätkä ne välttämättä vastaa alueiden perinteistä maanjakotapaa. Toiseksi voidaan mainita ekologiset syyt, sillä allaslaskeumat ja muut maantieteelliset kokonaisuudet eivät käy yksiin kartalle piirrettyjen rajojen kanssa. Lopuksi asiaan vaikuttavat vielä taloudelliset syyt, sillä aluevyöhykkeiden järjestelmät täydentävät toisiaan ja yhdessä ne pystyisivät hyötymään suurtuotannon eduista.
+<P>
+Euroopan unionin ja erityisesti komission olisi kiinnitettävä erityistä huomiota kaikkein syrjäisimpien alueiden asemaan, etenkin juuri kyseisellä vyöhykkeellä sijaitseviin merten takaisiin departementteihin, niveltääkseen taloudellisia kehityspolitiikkoja paremmin toisiinsa ja tietysti ohjatakseen varoja tehokkaammin esimerkiksi EAKR: n ja EKR: n avulla.
+<P>
+Mitä tulee toiseen tavoitteeseen kehitysmaiden paremmasta yhdentymisestä maailmantalouteen, olen jo paljon epäilevämmällä kannalla. Se ei johdu pelkästään siitä, etten kannata aktiivisesti ääriliberalismia, joka on tyypillistä kansainvälisille kauppasuhteille, vaan myös koska uskon sillä olevan merkittäviä haittavaikutuksia. Erityisenä vaarana on, että taloudellinen spekulointi lisääntyy kestävän kehityksen kustannuksella ja yhdentymisestä tulee päämäärä itsessään, jolloin se alkaisi palvella ainoastaan taloudellisen edun tavoittelua. En usko, että tällaiset tavoitteet voisivat sisältyä kehityspolitiikkaamme.
+
+<SPEAKER ID=32 LANGUAGE="NL" NAME="Blokland">
+Arvoisa puhemies, esittelijä Needle on laatinut mielenkiintoisen mietinnön alueellisesta taloudellisesta yhdentymisestä komission tiedonannon pohjalta. Tämän alueellisen yhdentymisen päämääränä on poistaa kehitysmaiden väliltä tavaroiden, palvelujen, pääoman ja henkilöiden liikkuvuuden esteet. Se muistuttaa niitä tavoitteita, joita meillä on Euroopan yhteisön sisällä. Kehitysmaat ovat aivan toisenlaisessa vaiheessa taloudellisen kehityksensä suhteen kuin Euroopan yhteisön jäsenvaltiot ja se edellyttää erilaista lähestymistä. Niinpä esimerkiksi sinällään mielenkiintoinen kokeilu Länsi-Afrikan rahayksikön, CFA: n suhteen, jonka tarkoituksena oli rahayksiköiden vakauttaminen, toimi aivan päinvastoin, kun kävi ilmi, että CFA: n arvo oli alentunut. Kaikkein köyhimpien maiden alueellinen yhdentyminen on mielestäni jokseenkin riskialtista. Ehkä näiden maiden olisi parasta rajoittua toistaiseksi yhteistyöhön, jonka puitteissa ne puuttuvat yhteisen edun mukaisiin asioihin. Mikäli jokin kehitysmaa on saavuttanut aseman, joka tarjoaa perspektiivin vahvasta asemasta maailmanmarkkinoilla ja alueella on muita samanlaisia maita, on olemassa syyt yhdentymiseen. Mutta jos se suoritetaan pakolla liian aikaisessa vaiheessa, se voi johtaa molemminpuoliseen vahinkoon. Halusin puuttua tähän, koska asiaan ei mielestäni ole toistaiseksi kiinnitetty tarpeeksi huomiota.
+
+<SPEAKER ID=33 LANGUAGE="DE" NAME="Linser">
+Arvoisa puhemies, siitä tosiasiasta johtuen, että meidän rikkaiden maiden lisäksi on valitettavasti olemassa myös suuri määrä maita, jotka ovat riippuvaisia muiden avusta, meillä läntisillä teollisuusyhteiskunnilla on sosiaalinen vastuu auttaa. Aikoinaan yritettiin hyvin usein antaa tätä apua puhtaasti taloudellisena tukena. Haluaisin tässä kohdin kuitenkin ehdottaa, että kehitysapu toteutettaisiin tulevaisuudessa huomattavasti nykyistä enemmän konkreettisten ohjelmien kehittämisinä ja taloudellisina kytkentöinä antajamaihin, jotta järkevää apua pystyttäisiin antamaan.
+<P>
+Tämä voitaisiin mahdollistaa esimerkiksi huomattavasti vahvistetulla taitotiedonvälittämisellä, jolla avun tarpeessa olevat maat ja alueet saisivat apua itseapuun, joka on käsite, jota Posselt korosti vastaavasti jo aikaisemmin. Emme pääse eroon syyllisyydestä ja vastuusta maailman muita maita kohtaan vain raharuiskeilla. Kyse ei saa olla siitä, kuinka paljon olemme antaneet, vaan pikemminkin siitä, ketä se on konkreettisesti hyödyttänyt ja mitä siitä seurasi.
+<P>
+Liian usein tämä kehitysavun muoto näyttää olevan enemmänkin moraalista vastuusta vapaaksi ostamista kuin sitä, mikä näiden maiden ihmisiä todella auttaa, nimittäin suunnattua, projektikohtaista ja ennen kaikkea tehokasta apua. Oikeaan aikaan ja järkevästi toteutettu kehitysapu hyödyttää niin antaja- kuin vastaanottajamaitakin - myös välttämään suurempia poliittisia ristiriitoja. Köyhyys, hätä ja neuvottomuus ovat varmasti huomattavimmat syyt sotaisiin välien selvittelyihin.
+<P>
+Tästä näkökulmasta tehokas kehitysapu on huomattava osa ennakolta tehtävää rauhan turvaamista ja sen voidaan siksi tulkita olevan itseapua myös antajamaille.
+
+<SPEAKER ID=34 NAME="Paasio">
+Arvoisa herra puhemies, mielestäni mietinnössä kiinnitetään perusteellisemmin kuin komission tiedonannossa huomiota niihin käytännön ongelmiin, joita taloudellinen integraatio etenkin köyhimmissä kehitysmaissa saattaa kohdata. Tässä suhteessa Saharan eteläpuolinen Afrikka muodostaa oman varsin problemaattisen kokonaisuutensa. Organisaatioiden määrä on suuri ja niiden suhde toisiinsa puutteellisesti järjestetty. Organisaatioiden vaikutukseen taloudellisen yhdentymisen ja kehityksen edistäjinä kohdistuu usein varsinkin ajallisesti ylioptimistisia odotuksia. Kyseessä ovat, kuten mietinnössä aivan oikein huomautetaan, laajan köyhyyden kanssa kamppailevat maat, joten köyhyyden vähentämiseen tähtäävillä ohjelmilla on edelleen oltava keskeinen osa niiden tukemisessa. Euroopan unionilla on periaatteessa hyvät mahdollisuudet edistää tervettä taloudellista integraatiota, kunhan vain muistetaan, ettei pelkkä eurooppalaisten teollisuusmaiden yhdentymiskehityksen ulkoisten muotojen seuraaminen voi olla mallina kehitysmaiden yhdentymiskehityksessä.
+<P>
+Mietinnössä korostetaan hyvin perustellusti sitä, ettei huomion kiinnittäminen pelkkään taloudelliseen dimensioon riitä. On otettava huomioon myös ympäristönäkökohdat riittävän kestävällä tavalla. Olen esittelijän kanssa vahvasti samaa mieltä tästä asiasta. Haluan samalla korostaa poliittisten tekijöiden huomioonottamisen välttämättömyyttä. On havaittavissa myös poliittisia vastakkainasetteluja, muun muassa kilpailua poliittisesta johtajuudesta, silloinkin kun on päästy eroon aseellisesta valtataistelusta. Tämä on otettava huomioon, jotta yhdentymiskehitystä voitaisiin järkevällä tavalla tehokkaasti tukea.
+<P>
+Euroopan unionin tärkeimpänä roolina kehitysmaiden taloudellisen integraation tukemisessa ei voi olla laajempien markkinoiden varmistaminen sen omille jäsenmaille, siten että aiheutetaan haittaa kehitysmaiden oman talouden ja tuotannon kehittymiselle. Taloudellisen integraation edistämisessä ei saa antaa kohtuutonta valtaa koville markkinavoimille, joiden avulla kyllä voidaan kenties kaunistaa talouden makrotilastoja, mutta jotka samanaikaisesti saattavat kaikkein vaikeimmassa asemassa olevat ihmiset entistä suurempaan ahdinkoon. Näillä reunaehdoilla tulisi mielestäni jatkaa kehitysmaiden taloudellisen yhdentymisen tukemista.
+
+<SPEAKER ID=35 LANGUAGE="DE" NAME="Von Habsburg">
+Arvoisa puhemies, haluaisin kiittää ennen kaikkea edustaja Needleä sydämellisesti erinomaisesta mietinnöstä, joka antoi taloudellisine suuntautuneisuuksineen meille erittäin paljon. Haluaisin kuitenkin valaista asian poliittista puolta enemmän. Linser sanoi aiemmin aivan oikeutetusti, että tämä projekti, kuten Needle sitä kuvaa, on suuressa määrin Euroopan eduksi. On meidän etumme säilyttää rauha, ja rauhaa ei varmasti ole turvattu, sillä kun tarkastellaan kehitysmaita, täytyy todeta, että siellä tikittää aikapommeja joka puolella. Me emme yksinkertaisesti tiedä Euroopassa riittävästi siitä, että Afrikassa käydään tällä hetkellä 16 sotaa. Ne ovat pienempiä ja suurempia ristiriitoja. Kuitenkin puhutaan vain sodista, joista lehdistö raportoi, mutta niistä, joista se ei raportoi, niistä ei puhuta. Ja mikä vielä pahempaa: Tyynellä valtamerellä käynnissä oleva sota, jossa toisella puolella on Papua-UusiGuinea ja toisella Bougainville, on yksi kauheimmista sodista, mutta kuka puhuu siitä? Kuka tietää siitä, vaikka se on taloudellisesti ratkaisevaa todellisuutta? Meidän pitäisi.
+<P>
+Lisäksi huokaillaan aina, että kehitysapuun ei ole riittävästi rahaa. Mielestäni olisi olemassa riittävästi rahaa, mutta se jaetaan huonosti ja sitä käytetään huonosti. Sanotaan aina vain, että ensin täytyy auttaa kaikista köyhimpiä ja sitten vasta muita. Mielestäni se pitäisi tehdä toisin päin. Ensin pitää auttaa rajatapaukset jaloilleen, sillä mitä leveämmät hartiat ovat, joilla kehitysapu lepää, sitä parempaa kehitysapua kaikki saavat.
+<P>
+Meidänhän täytyy järjestää kehitysapu aina uudelleen järkevästi. Järkevä tarkoittaa, että kehitysapua annetaan ensin kansan tasolla, sillä suuret projektit ovat kyllä hyviä kokoamaan alueita yhteen, mutta pienet projektit ovat niitä, jotka saavat todellista kehitystä aikaan. Sitä paitsi kehitysapu koskee ennen kaikkea myös ihmisten kehitystä, ja siltä osin sitä hoidetaan vielä erittäin huonosti. Ilman ihmisten muodostamaa infrastruktuuria ei päästä eteenpäin.
+
+<SPEAKER ID=36 LANGUAGE="EN" NAME="Smith">
+Arvoisa puhemies, aloittaisin onnittelemalla esittelijää erinomaisesta työstä ja kiittäisin häntä siitä, että hän on ottanut huomioon joitain taloudellisten ulkosuhteiden valiokunnan lausunnon keskeisiä elementtejä.
+<P>
+Haluaisin kiinnittää erityistä huomiota siihen ilmeiseen mutta tärkeään seikkaan, että kehitysmaiden alueelliselle integraatiolle annettavan tuen täytyy perustua kyseisten alueiden kehitysmaiden realiteetteihin. Tämän vuoksi Euroopan unionin alueellista taloudellista integraatiota koskevan lähestymistavan on oltava erittäin monipuolinen ja komission on toteutettava tukitoimia, jotka soveltuvat kyseisten ryhmittymien erityisoloihin. Siksi alueellinen taloudellinen integraatio itsessään tulisi nähdä ainoastaan yhtenä osana prosessia, jossa rakennetaan yhteisiin etuihin pohjautuvaa alueellista yhteisöä, jonka pohjalta voidaan kehittää kiinteämpää alueellista yhteistyötä ja myöhemmin alueellista integraatiota. Tämä tarkoittaa, että huomiota on kiinnitettävä tuen antamiseen muille alueellisen yhteistyön muodoille, joilla voidaan edistää ja kehittää yhteisiin etuihin perustuvaa yhteisöä, kuten esim. liikenne-, viestintä- ja energiayhteistyölle.
+<P>
+Haluaisin tässä yhteydessä korostaa tämä edellyttävän, että komission yksiköt kiinnittävät enemmän huomiota sellaisten tukiohjelmien valvontaan, joilla pyritään toiminnalliseen yhteistyöhön niillä kehitysmaiden alueilla, joissa alueellisen taloudellisen yhteistyön aloittamiselle on suuria käytännön esteitä.
+<P>
+Siirryn nyt mietinnöstä itse komission tiedonantoon. Minusta on aika yllättävää, että komissio väittää alueelliselle taloudelliselle integraatiolle annettavaa tukea koskevassa tiedonannossa, että on painavia perusteita siirtyä yksipuolisesta suosituimmuudesta suurempaan vastavuoroisuuteen teollisten maiden ja kehitysmaiden kesken. Kollegat lienevät tietoisia huolesta, joita eteläisen Afrikan alueella on viime aikoina tunnettu Euroopan unionin ja Etelä-Afrikan vapaakauppa-aluetta koskevasta ehdotuksesta. Komissio on hiljattain myöntänyt, että siirtyminen kohti eteläisen Afrikan vapaakauppa-aluetta vaikuttaa kehitysmaiden tullituloihin - monissa tapauksissa näiden maiden talouden tila on epävarma.
+<P>
+Lopuksi totean, että siirtyminen kohti kaupan vastavuoroista suosituimmuutta voisi joissain maissa hankaloittaa huomattavasti teollistumisprosesseja, jotka ovat päässeet käyntiin vasta melko hiljattain. Tämän vuoksi on ratkaisevan tärkeää, että vapaakauppa-alueen kehitysmaille aiheuttamat erityisseuraukset arvioidaan täysin, ennen kuin harkitaan vakavasti suurempaa vastavuoroisuutta. Poliittisten tavoitteidemme tehokkuus määräytyy suurelta osin siitä, miten ymmärrämme nämä ratkaisevat kysymykset.
+
+<SPEAKER ID=37 LANGUAGE="EN" NAME="Corrie">
+Arvoisa puhemies, Lomén sopimuksen maiden alueellista yhteistyötä käsittelevän AKTsekakomitean esittelijänä toivotan Needlen erinomaisen ja ajankohtaisen mietinnön lämpimästi tervetulleeksi.
+<P>
+Haluan keskittyä Afrikkaan. Minustakin komission tiedonanto on erittäin myönteinen asia siirtyessämme globaaliin talouteen. Se on hyvä perusta keskustelulle, jota toivottavasti tullaan käymään kumppanuuden pohjalta AKT-maiden kanssa. Monien Afrikan valtioiden vahvuuksia voidaan kehittää vain hyvän taloudellisen yhteistyön pohjalta, joka mahdollisesti johtaa myöhemmin poliittiseen integraatioon. Afrikan on hyväksyttävä se tosiasia, että sen on autettava itse itseään: pelastus on kaupassa, ei avussa. Meidän on kuitenkin EU: ssa avustettava tuon uuden taloudellisen voiman luomisessa alueellisten rakenteiden välityksellä.
+<P>
+Globaalissa yhteydessä Afrikan maanosan tulisi sen alueiden vahvuuden vuoksi loogisesti ajateltuna olla seuraava kohde kehittyneiden maiden investoinneille, mutta jos poliittista vakautta ja kunnollista hallintoa ei ole, näin ei yksinkertaisesti tule käymään. Kuten olemme jo nähneet, alueellinen yhteistyö voi auttaa konfliktien ehkäisyssä, ja uskon, että vain Afrikan kansat itse voivat saada aikaan rauhan ja vakauden vaikuttamalla naapureihinsa.
+<P>
+Jos komission uusi etenemistapa on siirtyä kohti Lomén jälkeistä alueellista apua, on esitettävä se perustava kysymys, mitkä nuo alueet ovat ja miten apu on keskitettävä. Afrikka on täynnä alueita ja alueiden sisällä olevia alueita, ja monet kansat asuvat useilla eri alueilla. Tämä ei minun mielestäni voi jatkua, ja toivon, että komissio yhteistyössä Lomémaiden kanssa etsii tosissaan toteuttamiskelpoista rakennetta, joka olisi historialliselta, sosiaaliselta ja institutionaaliselta kannalta sellainen, että se takaisi työskentelylle kunnollisen pohjan. Jos teemme näin, uskon, että kaikki mietinnössä esitetyt yksityiskohdat voidaan toteuttaa.
+
+<SPEAKER ID=38 LANGUAGE="EN" NAME="McGowan">
+Arvoisa puhemies, saanen onnitellessani esittelijää erinomaisesta mietinnöstä todeta, että se on erityisen tärkeä etenkin Euroopan parlamentin kannalta Euroopan unionin historian vuoksi. Haluaisin jatkaa sekä Habsburgin että Corrien väkivaltaa, konflikteja ja sotaa koskevasta huomautuksesta. Jos tarkastelemme yhtä eteläisen Afrikan aluetta, näemme, että eteläisen Afrikan kehitysyhteistyön (SADC) käynnistämisen liikkeellepaneva voima oli se, että etulinjassa olevat valtiot päättivät tehdä yhteistyötä ja osoittaa solidaarisuutta päättäväisessä yrityksessä päästä eroon brutaalista ja väkivaltaisesta apartheid-järjestelmästä. Olen varma, että tätä edesauttoi eri maailman osien myönteinen reaktio, jota johti erityisesti Euroopan parlamentti, joka päätti monien jäsenvaltioiden hallitusten ja läntisen Euroopan kansallisten hallitusten toiveiden vastaisesti tukea Yhdistyneiden kansakuntien päätöstä eristää Etelä-Afrikka ja perustaa erityinen rahasto meidän budjettimäärärahoillamme.
+<P>
+Tämän alueen tuki eteläiselle Afrikalle voisi tulla kyseeseen Nigerian, Länsi-Saharan ja Papua-Uusi-Guinean kohdalla. Meidän on aina muistettava erityiset velvollisuutemme ja mahdollisuutemme. Ei ole kovin kauaa siitä, kun edesmennyt presidentti Mitterrand muistutti meitä siitä, että nationalismi merkitsee sotaa. Tiedämme, että Länsi-Euroopan onnistuneen taloudellisen kehityksen eteenpäin ajava voima oli muutamien kansallisvaltioiden päätös siitä, että väkivallan, joukkohautausmaiden ja keskitysleirien perinne ei saa jatkua ja että voimme tehdä asialle jotain.
+<P>
+Tämän vuoksi olen hyvin iloinen siitä, että Needle mainitsi konfliktien ehkäisyn ja poliittiset tavoitteet, ja hänen laillaan pitäisin hyvin myönteisenä komission seurantaa, jotta tämä koko alueellista integraatiota koskeva kysymys saisi tulevaisuudessa paljon laajemman poliittisen pohjan.
+
+<SPEAKER ID=39 NAME="Liikanen">
+Arvoisa puhemies, aloittaisin tuomalla julki, että arvostan parlamentin laatimaa laadukasta mietintöä, jossa laajalta osin vahvistetaan komission tiedonannon analyysi ja suositukset mutta otetaan myös esille joukko ratkaisevan tärkeitä kysymyksiä. Parlamentin mietintö heijastaa asiaa koskevassa ajattelussa hiljattain tapahtunutta kehitystä. Keskustelu on erityisen tervetullut ajankohtana, jona alueellisten integraatiopyrkimysten menestymismahdollisuudet ovat useista eri syistä aiempaa paremmat.
+<P>
+Ensinnäkin sen jälkeen, kun tiedonanto kesäkuussa 1995 välitettiin parlamentille, regionalismin uskottavuus käyttökelpoisena kehitystyökaluna on kasvanut. WTO ja joukko kehitystoimistoja myöntävät nyt, että regionalismi voi olla hyödyllinen ponnahduslauta kohti maailmantalouden integraatiota olettaen, että alueet säilyttävät avoimen suhtautumistavan muuhun maailmaan. Avun koordinoinnin tehostamisen - jota parlamentti peräänkuulutti - mahdollisuudet ovat siis lisääntyneet, minkä tulisi parantaa tukemme avulla saavutettavia tuloksia.
+<P>
+Samaan aikaan joillain kehitysalueilla menestyksekkään alueellisen integraation edellytykset ovat niin ikään parantuneet. Taloudelliset mukauttamispolitiikat ovat alkaneet kantaa hedelmää monilla alueilla. Monissa osissa maailmaa oikeusvaltioperiaate, kunnollinen hallinto ja yleinen poliittinen tilanne ovat parantuneet, vaikka ongelmia edelleen onkin. Nyt on myös oikea hetki tarkastella uudelleen suosituksiamme aiempien kokemusten valossa etenkin käynnissä olevan toiminnallisen työn osalta.
+<P>
+Tämän sanottuani haluaisin kommentoida lyhyesti kahta parlamentin mietinnössä esille otettua seikkaa. Toinen on integraation etujen oikeudenmukainen jako. Kuten parlamentin mietinnössä aivan oikein huomautetaan, komission suositukset ovat yhdenmukaisia sen tavoitteen kanssa, että köyhimpien maiden kansoille tulisi antaa paremmat mahdollisuudet taistella laajaa köyhyyttä vastaan, joka on edelleen niiden vitsauksena.
+<P>
+Annettavalla taloudellisella ja teknisellä tuella on tarkoitus osaltaan varmistaa, että taloudellinen integraatio koituu kaikkien asianosaisten maiden hyödyksi. Tuen kanavointia yhteiskunnan tarpeessa oleville osille helpottaa yhteys rakennemuutostukeen, joka keskittyy sosiaalialoille. Käytännössä erityishuomion on oltava sidoksissa sen varmistamiseen, että tämä apu tosiaankin saavuttaa yhteiskunnan kaikki osa-alueet.
+<P>
+Toinen seikka, jota haluaisin kommentoida, on ympäristönäkökohtien ja alueellisen taloudellisen integraation välinen yhteys. Tiedonannossa keskitytään alueelliseen taloudelliseen integraatioon, jota ei pidetä päämääränä itsessään vaan osana strategiaa, jolla pyritään saavuttamaan kestävä kehitys. Ympäristönäkökohtien tulisi olla keskeinen osa kokonaisstrategiaa.
+<P>
+Tällä hetkellä nämä näkökohdat otetaan täysin huomioon alueellisen yhteistyön toiminnallisten muotojen yhteydessä, esimerkiksi aavikoitumisen vastaisessa taistelussa ja trooppisten metsien suojelussa.
+<P>
+Lopuksi haluaisin muistuttaa siitä, että vaikka alueellinen taloudellinen integraatio on mielestäni välttämätön askel, jotta pienet kehitysmaat voivat osallistua tehokkaasti globaaliin talouteen, se ei ole helppo prosessi. Siksi on ratkaisevan tärkeää asettaa kohtuullisia tavoitteita kalliiden epäonnistumisten välttämiseksi. Komissio on valmis jatkamaan johtotehtäväänsä jäsenvaltioiden ja muiden asianosaisten kehitystoimistojen yhteistyössä ottaen huomioon Euroopan parlamentin huolet ja suositukset.
+
+<SPEAKER ID=40 NAME="Puhemies">
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen.
+<P>
+(Parlamentti hyväksyi päätöslauselmaesityksen.)
+
+<CHAPTER ID=5>
+Riisisektorin kriisi
+<SPEAKER ID=41 NAME="Puhemies">
+Seuraavana esityslistalla on suullinen kysymys (B4-0020/97-0-0034/97), esittäjinä Fraga Estévez, Colino Salamanca, Fantuzzi, Filippi, Happart, Ebner, Jové Peres, Lambraki, Campos, Arias Cañete, Redondo Jiménez, Rosado Fernandes ja Vallvé, maataloutta ja maaseudun kehittämistä käsittelevän valiokunnan puolesta komissiolle, aihe riisisektorin vakava kriisi.
+
+<SPEAKER ID=42 LANGUAGE="ES" NAME="Fraga Estévez">
+Arvoisa puhemies, keskustelemme tänään riisistä. Syynä tähän on sektorin hyvin vakava tilanne, joka on pahentunut viime kuukausina ja vaikuttaa sekä tuottaja- että jalostajamaihin.
+<P>
+Surullinen totuus on, että 70 prosenttia tuotannosta on vielä myymättä ja tuotantoa annettaneen interventioon. Tämä on hyvin poikkeuksellista tällä sektorilla. Miten olemme päätyneet tähän tilanteeseen? Ensiksi GATTin Uruguayn kierroksen aikana käydyt sektoria koskevat erittäin vaikeat neuvottelut ovat aiheuttaneet tuhoisia ja hankalasti korjattavia seurauksia.
+<P>
+Toiseksi neuvoston merentakaisten maiden ja alueiden assosiointia koskevan päätöksen nro 91/482 voimaantulo on aiheuttanut sen, että tuontivirrat ovat todella kestämättömiä. Tämän kaiken seurauksena viime kampanjassa yhteisöön tuotiin yli 200 000 tonnia jalostettuja perustuotteita ja uuden kampanjan kolmen ensimmäisen kuukauden määrät osoittavat huolestuttavaa asteittaista nousua. Vaikka tilanne on jo näin tuhoisa, arvoisa puhemies, Euroopan komissio on tuottajien ja teollisuuden lausuntojen vastaisesti päättänyt tämän vuoden tammikuussa 32 000 tonnin tullikiintiön asettamista Egyptistä tulevalle riisille 25 prosentin tullialennuksella, joka tulee maalle jo myönnetyn toisen 25 prosentin alennuksen lisäksi.
+<P>
+Ongelmien kasaantumisen takia komissio on Italian ja Espanjan hallitusten pyynnöstä ryhtynyt suojatoimenpiteisiin viime helmikuussa koskien riisin tuontia merentakaisista maista ja alueilta. Suojatoimenpiteitä sovelletaan huhtikuun 30 päivään asti.
+<P>
+Lopuksi on korostettava tässä yhteydessä Amerikan Yhdysvaltojen asennetta. Maa on kiristänyt toistuvasti komissiota - ja tätä ei voida hyväksyä - saavuttaakseen vielä suurempia etuja riisilleen. Arvoisa puhemies, mikä tahansa tämän suuntainen myönnytys vaarantaisi välittömästi yhteisön ja kolmansien maiden väliset kauppavaihdot. Se poistaisi kaikki yhteisön tullietuudet ja asettaisi siten yhteisön tuotannon alttiiksi maailmanlaajuiselle kilpailulle.
+<P>
+Arvoisa komissaari, sallinette minun siten esittävän tiettyjä ehdotuksia yhteisön riisisektorin tilanteen parantamiseksi. Ensiksi on tarpeen lopullisesti asettaa enimmäismäärä tullivapautuksille. Määrän on oltava yhtenevä yhteisön tuotannon tilanteen vaatimusten kanssa.
+<P>
+Toiseksi ei pidä myöntyä Yhdysvaltojen kiristykseen. Tämä ei missään tapauksessa olisi perusteltua, ja lisäksi se ylittää Uruguayn kierroksen neuvottelujen ulottuvuudet. Arvoisa komissaari, tähän liittyen minun on kerrottava Teille saaneeni tiedon siitä, että viimeisessä viljan hallintokomiteassa komissio on hyväksynyt asetusluonnoksen, jonka tavoitteena on perustaa riisisektorille tuontitullien korvausjärjestelmä. Ehtona on, että amerikkalaiset peruuttavat Maailman kauppajärjestölle 13. helmikuuta esittämänsä kanteen yhteisön riisin ja viljan tuontijärjestelmää vastaan.
+<P>
+Arvoisa komissaari, pyydän hartaasti tämän parlamentin puolesta, että tätä luonnosta ei pantaisi täytäntöön. Se on uudestaan yhteisön sektorin etujen vastainen. Pyydämme samoin GATTin määräämän vientituen rajat huomioon ottaen, että tähän kampanjaan lisättäisiin viime kampanjassa käyttämättä jääneet 75 000 tonnia. Tämä saattaisi helpottaa etenkin markkinatilannetta. Toisena ratkaisuvaihtoehtona olisi käyttää tietty riisimäärä elintarvikeapuun, ja siten osa ylijäämästä saataisiin poistettua.
+<P>
+Lopuksi olisi ehkä syytä tarkistaa riisimarkkinoiden yleistä järjestelmää. Kolmen vuoden sijasta olisi asiaa joudutettava vuodella eli siirryttäisiin suoraan enimmäistukeen ja alimpiin interventiohintoihin. Arvoisa komissaari, ehdotamme Teille näitä muutamia ideoita. Toivomme, että komissio toteuttaa ne käytännössä, jos se todella haluaa ratkaista vakavasta kriisistä kärsivän sektorin ongelmat. Sektorin ongelmat johtuvat toisten tekemistä virheistä ja toivomme, että nämä virheet voidaan korjata.
+
+<SPEAKER ID=43 NAME="Liikanen">
+Arvoisa puhemies, arvoisan jäsenen esittämä suullinen kysymys on tosiaankin ajankohtainen, ja siitä on jo käyty useita keskusteluja viimeisten kuukausien aikana. Usean vuoden myönteisen kehityksen jälkeen riisisektorin tila on viime satoihin vaikuttaneesta kuivuudesta huolimatta jälleen kriittinen, koska riisiä on saatavilla runsaasti ja osa tästä riisistä joudutaan ehkä antamaan interventioon. Ongelma johtuu toisaalta Espanjan kuivan kauden jälkeen saadusta erittäin suuresta sadosta ja erittäin hyvistä ilmasto-oloista muissa riisiä tuottavissa jäsenvaltioissa ja toisaalta etuoikeutetun aseman omaavan tuonnin lisääntymisestä ja rajavalvonnan vähentämisestä Uruguayn kierroksen sopimusten seurauksena.
+<P>
+Komissio on siksi pyrkinyt markkinointivuoden ensimmäisinä kuukausina harjoittamaan varovaista vientipolitiikkaa kannustaakseen myyntiä yhteisön sisällä. Maaliskuun loppuun mennessä yli puolet Italian - yhteisön suurimman riisintuottajan - riisisadosta oli saatu myytyä, mutta muissa asianosaisissa jäsenvaltioissa, etenkin Kreikassa, myynti on ollut vähäisempää. Vaikka tuonti lisääntyi 21 %: lla, vienti oli 18. maaliskuuta 88 % edellisen vuoden tasosta, ja 28 % riisiä oli lisäksi toimitettu elintarvikeapuna.
+<P>
+Asetuksen 3072/95 mukainen riisisektorin uudistus astuu voimaan vasta markkinointivuonna 1997-1998, jolloin interventiohintaa leikataan 5 %. Markkinointivuonna 1999-2000 vähennys on 15 %, minkä ansiosta yhteisön riisi pystyy paremmin kilpailemaan tuontiriisin kanssa.
+<P>
+Italian ja Espanjan pyynnöstä komissio on soveltanut merentakaisten maiden ja alueiden tuontiin suojalauseketta. Tämä tuonti on kasvanut suuresti viimeisen viiden vuoden aikana. Suojalauseke, joka on voimassa neljä kuukautta ja rajoittaa tänä aikana verovapaan tuonnin 44728 tonniin, on auttanut kääntämään riisin laskusuhdanteiset markkinahinnat nousuun. Markkinahinnat alittavat kuitenkin yhä interventiohinnan, ja siksi komissio päätti viime keskiviikkona jatkaa suojalausekkeen soveltamista.
+<P>
+Tällä hetkellä, kun interventiojakso alkaa 1. huhtikuuta, Japonica-riisin vienti jatkuu, ja hallintokomitea antoi 27. helmikuuta kaksi tarjouspyyntöä Indica-tyyppisestä riisistä, yhden kuorellisesta riisistä Réunioniin toimitettavaksi ja toisen parboiled-riisin vientiä varten. Nämä toimet auttavat parantamaan yhteisön riisin markkinointia markkinointivuoden toisella puoliskolla ja vähentävät siten määriä, jotka mahdollisesti joudutaan antamaan interventioon.
+
+<SPEAKER ID=44 LANGUAGE="IT" NAME="Fantuzzi">
+Arvoisa puhemies, arvoisa komission jäsen, riisisektori ei ole koskaan aiheuttanut paljoa huolta Euroopan yhteisölle, se on aina hoitanut asiansa ja kasvanut ilman suuria tukia ja seisonut omilla jaloillaan. Aivan viime aikoina on kuitenkin vaikuttanut siltä, että on ilmennyt tietoista halua katkaista nämä jalat ja estää sitä kulkemasta eteenpäin.
+<P>
+Ensin oli tämä tapaus, että merentakaisilta alueilta alkoi tulla tullittomia tuotteita, joiden määrä kasvaa suhteettomasti ja sekoittaa sisämarkkinat, sitten Euroopan unionin laajenemisesta johtuvat uudet tuontikiintiöt, sitten cumulative recovery system -päätökset Yhdysvaltain kanssa, lopulta vielä lisää kiintiöitä uusien liitännäissopimusten vuoksi. Tämä räjähtävä kokonaisuus määrittelee jo nyt Euroopan yhteisön tuotantoon puuttumisen kulkua, joka rasittaa yhteisön kassoja ja johtaa mielestäni valtavaan ja nurinkuriseen noidankehään: tuote, jota saadaan ilman suurta valvontaa, mahdollisia petoksia ja korkeampia kustannuksia, niin että sisämarkkinatuote, jonka on nyt aikaisempaa vaikeampi löytää markkinoita, pysyy jaloillaan. Jos tämä on Euroopan yhteisön uutta maatalouspolitiikkaa, arvoisa komission jäsen, en ole lainkaan tyytyväinen. Markkinat loitontuvat ja hinnan pilaavat päätökset, jotka eivät mitenkään liity markkinoihin. Yhdysvallat pitää sitten hauskaa meidän kustannuksellamme niin kuin kissa hiiren kanssa: se valittaa Maailman kauppajärjestöön viljatuotteista ja riisistä, ja kun komissio aikoo juuri hyväksyä cumulative recovery system -säädökset toteuttaakseen ne melkein kaikessa, se esittää saman valituksen uudelleen vain muutaman päivän kuluttua.
+<P>
+Kun huomaamme, mitä riisisektorilla tapahtuu, voisimme ehkä hallitusten välisen konferenssin aikaan muotoilla uudelleen perustamissopimuksen 39. artiklan, joka koskee Euroopan yhteisön maatalouspolitiikkaa: Euroopan yhteisö sitoutuu alistumaan Amerikan Yhdysvaltain ulkomaankaupan osaston määräyksiin. Onkin varmaa, että Yhdysvaltain valitukset ovat tuhat kertaa tärkeämpiä kuin meidän riisinviljelijöidemme paljastukset ja protestit.
+<P>
+Kuten sanoitte, komissio päätti eilen lykätä suojalauseketta huhtikuun 30. päivän yli, ja olen ottanut sen huomioon; mutta milloin tämä tilanne lopulta tervehtyy ja saadaan aikaan järkevä muutos, niin että neuvosto päättäisi uudelleen merentakaisten maiden ja alueiden yhteyksistä Euroopan unionin kanssa? Onko mahdollista, arvoisa komission jäsen, että yksi ainoa jäsenvaltio voi näin pitkään estää muiden neljäntoista tahdon korjata tilanne, joka selvästikään ei toimi kunnolla, kuten alioikeuskin on myöntänyt, ja joka ei hyödytä edes asianosaisia merentakaisia alueita? Ehkä tässä tapauksessa jos missä olisi neuvoston istuvan puheenjohtajan läsnäolo ollut tarpeen. Totean pahoitellen, ettei hän halunnut olla läsnä tänään ja vastata kysymykseemme. Uskon, hyvät kollegat, että yhteisön solidaarisuus on vakava asia; muuten pitää valitettavasti olla samaa mieltä kuin Agence Europen päätoimittaja, kun hän toteaa äskettäisessä pääkirjoituksessaan, että maatalouden vapaakauppa kätkee usein alleen valikoivaa jalomielisyyttä, joka ilmenee vain silloin kun se itse kullekin sopii.
+
+<SPEAKER ID=45 LANGUAGE="IT" NAME="Filippi">
+Arvoisa puhemies, arvoisa komission jäsen, vasta vähän yli vuosi sitten uudistimme riisikaupan yhteisjärjestön ja löysimme tuottajia tyydyttävän tasapainon eurooppalaisen tuotantotuen ja sektorin vapauttamisen vaatimusten välillä.
+<P>
+Tämän tasapainon, joka löydettiin suurin ponnistuksin joulukuussa 1995, ovat kuitenkin murentaneet monet virheet, joita tehtiin kauppasopimusten määrittelyssä. On jo mainittu Uruguay Round , 25 % vähemmän tullimaksuja Egyptille, 300 000 tonnia merentakaisista maista, USA: n tuonnin etuoikeuksien kasvu ja niin edelleen: helpotukset, jotka kohoavat 63 000 verosta vapautettuun tonniin, nyt kun unioni on laajentunut Itävaltaan, Suomeen ja Ruotsiin. Kun ajattelemme näitä ennakkotapauksia, on kysyttävä, mitä tapahtuu Euroopan maataloudelle, kun päästään toiseen Uruguay Roundiin ja kun EU laajenee KIE-maihin.
+<P>
+Olen useita kertoja tuonut ilmi, miten kaksijakoista on, että toisalta rakennetaan maatalouspolitiikkaa ja toisaalta tuhotaan Euroopan unionin ulko- ja kauppapolitiikkaa. Agence Europen huhtikuun 1. päivän numerosta luin, että maatalouden ministerineuvosto on ilmeisesti huomannut tämän kaksijakoisuuden pyytäessään ja ehdottaessaan toimia, joiden avulla unionin poliittiset ja kaupalliset menettelytavat yhdenmukaistuvat.
+<P>
+Maatalousministerit voivat riisin osalta osoittaa olevansa johdonmukaisia ja uskovansa tehtyihin analyyseihin tosissaan ja edetä sen mukaan kuin on pyydetty päätöslauselmaesityksessä, josta äänestämme tämän keskustelun jälkeen. Samaisessa päätöslauselmassa pyydetään toimeenpanevalta komissiolta analyysia yhteismarkkinajärjestön toiminnasta. Minusta tuntuu oikealta, että on pyydetty tarkistamaan myös arviointien heikkous, jotka toimeenpaneva komissio on aikanaan tehnyt eurooppalaisen riisin laadusta. Silloin sanottiin, että " indica" -tyypillä olisi tulevaisuutta, mutta mitään ei ole tehty, jotta kehitettäisiin eurooppalaisen laatutason täyttävien viljatuotteiden tutkimusta, ja näin on säilynyt altavastaajan asema suhteessa USA: an. Samaan aikaan Egypti, jota Yhdysvallat on tukenut, on kehittänyt eurooppalaistasoisia satoja ja laatua ja parempaakin " japonica" -tyyppisestä riisistä ja tarjonnut sitä Euroopan markkinoille korkealaatuisena tuotteena kilpailukykyiseen hintaan. Näin Italian kaltaiset maat ovat kärsineet kaksin verroin, kun " indican" määrää on rajoitettu ja " japonican" tutkimus on samaan aikaan estetty.
+<P>
+Arvoisa puhemies, hyvät kollegat, meidän pitää luopua poliittisesta alistusasemastamme, johon Euroopan unioni on joutunut kansainvälisessa kaupassa suhteessaan Yhdysvaltoihin, ja puolustaa tuottajien etuja, jotka jäävät liian usein toisarvoisiksi verrattuna Euroopan unionin suurten julkisten ja yksityisten maahantuojien etuihin.
+
+<SPEAKER ID=46 LANGUAGE="IT" NAME="Santini">
+Arvoisa puhemies, puheenvuoron on tähän asti käyttänyt neljä puhujaa, yksi espanjalainen ja kolme italialaista. Tämä on jo selkeä osoitus, arvoisa komission jäsen, siitä mistä johtuu suuri pelko nykyisessä, uskomattomassa, kestämättömässä tilanteessa, joka on syntynyt riisisektorilla. Myöhemmin puhuvat toki vielä myös muut, mutta nimenomaan nämä kaksi maata saavat maksaa tämän dramaattisen tilanteen laskun, ellemme korjaa sitä.
+<P>
+Kolmansille maille annetut suuremmat riisikiintiöt pakottavat pian polvilleen - ehkä peruuttamattomasti - riisinviljelyn erityisesti Italiassa, joka kuten kaikki tiedämme, on tärkeimpiä tuottajia ja jossa on sitä paitsi alueita, joissa tätä viljelymuotoa ei historian ja perinteen vuoksi voida mitenkään korvata jollakin muulla. GATT: n nyttemmin pysyvien heikkouksien joukossa on nykyään myös normit, varsin epäselvät, jotka liittyvät Euroopan unionin kolmen uuden jäsenmaan saamiin kompensaatioihin: 63 000 tonnia tullitonta valkoista riisiä ja 20 000 tonnia, jonka tulli on 88 ecua tonnilta, ovat EUROSTATin tilastojen mukaan yhtä kuin noin 31 % ja 58 % Eurooppaan investoiduista viljelyaloista ottaen huomioon, että on suureksi osaksi kyse " indica" -riisistä.
+<P>
+Tämän kaiken seurauksena, kuten on korostettu, on kriisi Euroopan yhteisön tuotannossa, joka peittyy muualta maailmasta tuotavien riisivuorten alle: 215 000 tonnia viime vuonna, 200 000 tonnia jo tämän vuoden aikana, ja ne jotka osaavat arvioida tulevaisuutta, sanovat että vuoden loppuun mennessä on jo tuotu 396 000 tonnia.
+<P>
+Minäkin uskon, että on tullut oikea hetki keskustella selkeästi ja päättäväisesti Yhdysvaltain kanssa. Emme elä enää aikana, jolloin tällaiset kiistat ratkaistiin sodanjulistuksilla, ja siksi yritämme tarttua ennemmin sopimuksiin kuin tykkeihin, mutta entisinä aikoina olisi kyllä suoraan sanoen turvauduttu jälkimmäisiin. Yhdysvallathan on tottunut, ja tässä se osoittaa sen, hoitamaan suhteitaan röyhkeyden avulla; on tullut aika saadat Yhdysvallat ja sen yhteistyökumppanit, esimerkiksi Alankomaiden merentakaiset alueet, uskomaan, ettei Eurooppa suostu enää pitkään kestämään tällaista painostusta. Näin vältämme myös suuria taloudellisia vahinkoja. Saammehan tänä vuonna vähemmän tulleista kertyviä tuloja, vientimaksuista johtuvat menot kasvavat. Käytämme tänä vuonna 28 miljoonaa ecua, arvoisa puhemies; viime vuonna emme käyttäneet yhtäkään.
+
+<SPEAKER ID=47 LANGUAGE="NL" NAME="Mulder">
+Arvoisa puhemies, esillä olevassa päätöslauselmassa on paljon asioita, jotka ovat mielestäni sympaattisia. Vuonna 1991 sovitun järjestelyn tarkoituksena oli se, että käsitellyn riisin tuonnista ei saa seurata sitä, että tietty ryhmä viljelijöitä maksaa yksinään siitä aiheutuvat kustannukset. Mielestäni komissio onkin oikeassa käyttäessään vapautuslauseketta.
+<P>
+Päätöslauselmassa on myös kohtia, jotka ovat mielestäni hieman ajattelemattomia. Tässä parlamentissa hyväksytään monia päätöslauselmia, jotka koituvat köyhien maiden ja niiden työllisyyden ja muiden vastaavien seikkojen hyväksi. Vuoden 1991 asetus oli muun muassa sitä varten. En ole nähnyt hyvää mietintöä siitä, mikä sen vaikutus on ollut merentakaisten alueiden työllisyydelle. Haluaisin tietään sen, ennen kuin voin tehdä lopullisen päätöksen.
+<P>
+Päätöslauselmassa puhutaan välttämättömyydestä antaa enemmän riisiä ruoka-apuna. Se on hyvin helppoa. On jo kauan sitten todistettu, että jos me viemme ylijäämämme kehitysmaihin, ja tässä tapauksessa riisin, se tapahtuu paikallisten viljelijöiden kustannuksella. Mielestäni ei ole hyvä puoltaa kehitysapua ja samalla viedä ylijäämiämme niihin maihin. Suhtaudun tähän päätöslauselmaan varauksella. Jotkut asiat ovat hyviä, mutta joitakin en voi hyväksyä.
+
+<SPEAKER ID=48 LANGUAGE="PT" NAME="Novo">
+Arvoisa puhemies ja hyvät jäsenet, siitä lähtien, kuin riisin YMJ on hyväksytty ja tavallinen ilmasto saatu takaisin, tätä nykyistä satoa voidaan pitää ensimmäisenä, joka riisin tuotannon näkökohdista katsoen on aika normaali. Kuitenkin normaalius loppuu tähän, koska tällä hetkellä, kutakuinkin kahdeksan kuukautta sadon jälkeen, vielä 70 prosenttia yhteisön riisintuotannosta satokaudelta 1996-1997 on vielä myymättä. Tälle tilanteelle on monta syytä. On tärkeää käsitellä asiaa selkeästi.
+<P>
+Vaikkakin Euroopan riisintuotanto on normalisoitunut, kasvava riisin maahantuonti on jo kyllästänyt markkinat ja aiheuttaen sietämättömän hinnanlaskun eurooppalaisille tuottajille. Heidän on pakko myydä tuotteensa halvemmalla kuin sen tuottaminen maksoi, pakko mennä vararikkoon, tai he menevät vararikkoon, jos he eivät myy riisiä, tai vaihtoehtoisesti, tai pikemminkin pakon edessä, varastoi riisiä.
+<P>
+Minun maassani, antaakseni esimerkin, hinta on laskenut 40 dollaria eli 0, 2 ecua kiloa kohden. Maahan tuodut riisit tulevat eri paikoista. Joistakin niistä on jopa maksettu lakimääräisten säännöksien mukaiset maahantuontimaksut ja maahantuontioikeudet. Toisista, pääasiassa brittien ja irlantilaisten, merentakaisista maista maahantuotu riisi on pääsyyllinen markkinoiden tuhoutumiseen. Sen riisin tuottaminen ei ole palvelus paikallisille vaan riisi on tuotettu mainostamalla noiden alueiden tuotannon vapaata pääsyä yhteisön markkinoille.
+<P>
+Lakisääteisiä maksuja maksamatta Euroopan unionin markkinoille maahantuotu riisi on hyvin epäilyttävällä tavalla laillista. Se vääristää markkinoita ja kilpailua, alentaa hintoja ja vahingoittaa vilpillisesti yhteisön talousarviota maksamattomien tullimaksujen vuoksi. Komission on päättänyt siirtää huhtikuun 30. päivään tuonnin määrien rajoitusta. Päätös, joka tulisi voimaan siitä neljän kuukauden kuluttua, on positiivinen, mutta onko mahdollista, että lykkäystä jatketaan? Tuodaanko Eurooppaan sinä aikana yhtä paljon riisiä kuin edellisinä neljänä kuukautena? Miten maahantuonti kehittyy? Mitä tästä päätöksestä jää jäljelle? Ja mitä parlamentin hollantilaiset puheenjohtajat tekevät asian hyväksi, kun heitä asia kiinnostaa kovasti. Hyväksyvätkö he komission päätöksen? Romuttavatko he lopulta Euroopan unionin mahdollisuuksia kontrolloida maahantuontia merentakaisista maista? Vai jatkavatko he käyttäytymistä niin kuin heillä olisi omia intressejä sallia kilpailun kieroutuminen, suojella hämäriä intressejä ja edistää itse asiassa yhteisön riisintuottajien raunioitumista.
+<P>
+Arvoisat jäsenet, joko rajoitamme riisin maahantuontia ja ryhdymme toimiin rajoituksien aikaansaamiseksi pitäen mielessämme tulevat riisisadot tai riisituotannolla ei mitä ilmeisemmin ole tulevaisuutta Euroopan unionissa.
+<P>
+Toinen asia on kietoutunut tähän ongelmaan. Se koskee riisinviljelyn supistamista 12 prosenttiin, mikä ehdotus sisältyy uuteen maataloustuotteiden hintapakettiin. Tämä 12 prosenttia on tärkeä osa sadosta. Se mahdollistaisi varastoinnin ja takaisi tuotteen saattamisen markkinoille kysynnän mukaan. Komissio perustelee tätä vähennysehdotusta pankkien verotuksen alenemisella. Onko siis pankkien verotuksen merkitys eri maataloustuottajille niin erilainen, että se perustelisi vähennykset, joista suurin osa, satumalta, koskee juuri riisin viljelyä? Tai ehkäpä tällä ehdotuksella on tekemistä amerikkalaisten painostuksen kanssa, jolla pyritään hajottamaan riisin YMJ: n suoja vastaiskuna kanteelle, jonka WTO esitti Yhdysvalloille?
+<P>
+Puhukaamme vastaiskuista, jotta haaste, jonka komissio on hyväksynyt, pyörrettäisiin. Puhutaan ja uutiset kertovat muun muassa viimeaikaisesta päätöksestä antaa lupa 30 tuhannen tonnin ohran maahantuonnille ja tullikustannuksien on alentamisesta 50 prosenttia. Ohran määränpäänä on tuotantoyksikkö, jolla on yksinoikeus panna olutta pyökkitynnyreissä. Sallikaa minun kertoa teille, että toisin kuin eräs tämän ryhmän jäsen kertoi komissiolle, Euroopassa on vain yksi panimo, joka valmistaa tätä olutta: se sijaitsee Englannissa ja sen omistavat Amerikan kansalaiset.
+<P>
+Arvoisa puhemies, tämän tilanteen, näiden esimerkkien ja epäselvyyksien valossa on oikein, että me kysymme komissiolta, suojeleeko se määrätietoisesti euroopan intressejä vai päinvastoin, tekeekö se Euroopan unionin päätöksiä muiden intressien painostamana?
+
+<SPEAKER ID=49 NAME="Puhemies">
+Novo, sallinette minun vielä kertaalleen toistavan, että puhemies ei säätele puheenvuorojen ajankäyttöä vaan vastuu tästä lankeaa teille. Kun olette ylittänyt teille varatun ajan, huomautan teitä siitä ystävällisesti kopauttamalla nuijalla parisen kertaa pöydälle. Luulen, että Te olette kuitenkin ylittänyt huomattavasti vapaan harkintakykynne rajat. Sallinette minun käyttävän tätä esimerkkinä. Myönnän nyt puheenvuoron Aelvoetille Euroopan parlamentin vihreiden ryhmän puolesta. Pyydän, että hän yrittää pysytellä hänelle varatun puolentoista minuutin ajan rajoissa.
+
+<SPEAKER ID=50 LANGUAGE="NL" NAME="Aelvoet">
+Arvoisa puhemies, muutamien vuosien takainen kuivuus aiheutti huonot riisisadot joissakin Euroopan maissa ja tämä kompensoitiin tuomalla suuria määriä riisiä ulkomailta. Suurin osa siitä tuli Yhdysvalloista ja tulee vieläkin sieltä. Tässä on nyt kysymys siitä, että Euroopan unioni pelkää konfliktia Yhdysvaltojen kanssa Maailman kauppajärjestön puitteissa ja siksi se pyrkii saamaan vähemmän mahtavat maat, muun muassa kehitysmaat, vähentämään tuontiaan yhteisön markkinoille Euroopassa, mutta Yhdysvallat saa toimia vapaasti ja tuonti sieltä sallitaan edelleen. Näin tehdään, jotta vältyttäisiin konfliktilta Maailman kauppajärjestössä.
+<P>
+Emme ole antaneet hyväksymistämme yhteiselle päätöslauselmalle, ei siksi, ettemmekö olisi samaa mieltä mistään, mitä siinä sanotaan, vaan siksi, että asiaan liittyy perustavanlaatuisia ongelmia. Olemme periaatteessa samaa mieltä siitä, että on tehtävä vakavasti otettava tutkimus Maailman kauppajärjestön toiminnasta ja tehokkuudesta, mutta me tiedämme, minkälaiset seuraukset sillä olisi. Me vastustamme periaatteesta tuettua tuontia sellaisenaan. Se johtaa ekologiseen ja sosiaaliseen ylijäämien tuotantoon.
+
+<SPEAKER ID=51 LANGUAGE="FR" NAME="Taubira-Delannon">
+Arvoisa puhemies, ne lukuisat syyt, jotka ovat johtaneet tämänhetkiseen sekavaan tilanteeseen - itse asiassa tällaisiksi syiksi tunnustetaan Uruguayn kierroksen neuvottelut, Yhdysvaltain asenne Maailman kauppajärjestössä sekä tietyt suosituimmuussopimukset - osoittavat kiistatta, että useiden neuvotteluiden aikana on erittäin todennäköisesti esiintynyt tarkkaamattomuutta ja niissä on tehty myönnytyksiä.
+<P>
+Omasta puolestani haluaisin pysähtyä tarkastelemaan merentakaisten maiden ja alueiden kautta kulkevan ja siellä edelleen käsiteltävän riisin tilannetta muistuttaen ensiksikin, että näistä riisityypeistä riippuvaiset Alankomaat ja merentakaiset maat sekä alueet ovat allekirjoittaneet Rooman sopimuksen ja ovat siten olleet jäseniä Euroopan yhteisössä ja unionissa jo vuodesta 1957.
+<P>
+Seuraavaksi muistuttaisin, että Euroopan unioni on antanut useita säännöksiä muualla tapahtuvan riisin tuotannon edistämiseksi. Haluaisin ottaa esille edustaja Fantuzzin juuri esittämän huomion, jossa hän muistutti merentakaisista departementeista peräisin olevan riisin aiheuttamasta kilpailusta, sillä tällaisen, erityisesti Guyanassa tapahtuvan, riisintuotannon aloittamisen taustalla on Euroopan unionin nimenomainen päätös. Toisin sanoen yhteisön talous- ja kehityspolitiikan välinen yhteys on muodostunut ongelmaksi. On muistettava, ettei Euroopassa vallitsevan tilapäisen puutteen aikana tule aloittaa tuotantoa muualla ja sitten puutteen lakattua luulla, että tuottavan toiminnan voisi lakkauttaa ilman haittavaikutuksia.
+<P>
+Tällaisten toimintojen purkamisesta joko Euroopan unionin sisällä tai niissä maissa, joiden kanssa Euroopan unioni tekee yhteistyötä, on aina maksettava oma hintansa.
+<P>
+Haluaisin vielä huomauttaa, kuinka vaarallista ja kohtalokasta on käyttää tätä riisiä elintarvikeapuna, koska tiedämme jo, millaisia vaikutuksia rakenteiden purkamisella voi olla kehitysmaiden taloudelle sellaisella elintarvikeavulla, joka ei vastaa kyseisten maiden ihmisten ravintotottumuksia ja joka toisaalta syrjäyttää lopullisesti paikallisen ravinnontuotannon.
+<P>
+Arvoisa puhemies, lopuksi haluaisin korostaa, että käsittelemämme ongelmat ovat eriasteisia, joten myös toimenpiteet vaativat suhteuttamista. On tärkeää, ettei Euroopan unionin ja Yhdysvaltojen välisiä kiistoja sekoiteta vaikeuksiin, joita syntyy kanssamme yhteistyössä olevien köyhempien maiden kanssa.
+<P>
+Meillä päin tavataan sanoa, että kun kaksi kilpikonnaa tappelevat keskenään, ne tietävät mihin päänsä iskevät. On kuitenkin hyvä muistaa, ettei kaikilla mailla ole samanlaista suojakilpeä kuin EU: lla.
+
+<SPEAKER ID=52 LANGUAGE="PT" NAME="Cunha">
+Arvoisa puhemies ja hyvät jäsenet, riisin tuotanto Euroopan unionissa on ollut viime vuosina vakavien paineiden alaisena hyvin kilpailukykyisten kilpailijoiden takia.
+<P>
+Ikävä kyllä ei komissio eikä neuvosto ole estänyt näitä paineita, vaan antanut lukuisia myönnytyksiä GATT: n puitteissa Yhdysvaltojen painostuksesta. Nämä paineet ovat vähentäneet dramaattisesti yhteisön riisin myyntiä. Toisaalta täytyy kiinnittää huomiota etuoikeuksiin, joita vuodesta 1991 lähtien on myönnetty merentakaisille riisintuottajille. Sen vuoksi riisin maahantuonti merentakaisista maista Euroopan unioniin oli kertautunut viidellä; 58 tuhannesta 300 tuhanteen tonniin vuoteen 1996 mennessä.
+<P>
+Tämän tilanteen takia, Euroopan unionin markkinat ovat kärsineet pahasti. Tuotannon hyötysuhde -hinnat ovat romahtaneet pohjaan, ja dramaattisen tilanteen lisäksi yli puolet Euroopan viime riisisadosta on myymättä.
+<P>
+Tämä parlamentti vaatii, että komissio ja neuvosto tulisivat tietoisiksi Euroopan unionin riisintuottajien vaikeasta tilanteesta ja ryhtyisivät vaadittaviin toimenpiteisiin. Niiden täytyy keskittyä kahteen pääkysymykseen. Ensimmäiseksi niiden täytyy pohtia riisintuontia merentakaisista maista, merentakaisilta alueilta ja kehitysmaista ja laatia tälle tuonnille enimmäismäärärajat. Toiseksi niiden täytyy tarkastella ehtoja ja myönnytyksiä, joita on tehty Yhdysvalloille ja muutamille kehitysmaille.
+<P>
+Lopuksi korostan tosiasiaa, että riisiala tarvitsee peruskorjausta markkinoinnin organisointiin. Järjestön täytyisi nimittäin korvata maanviljelijöille hintojenlaskusta aiheutuva toimeentulon heikkeneminen sekä siinä tapauksessa, kun hintoja lasketaan, että siinä tapauksessa, kun se johtuu kaupallisista myönnytyksistä kehitys- tai merentakaisille maille. Jos näin ei käy syrjitään riisiä muiden viljojen ja muiden viljeltävien kasvien kustannuksella.
+
+<SPEAKER ID=53 LANGUAGE="PT" NAME="Rosado Fernandes">
+Arvoisa puhemies ja arvoisa komissaari, jos rohkeutta voisi tuoda maahan merentakaisista maista vaikka kalliiseen hintaan, mitään tällaista ei olisi tapahtunut. Rohkeutta ei kerta kaikkiaan voi tuoda maahan eikä ostaa supermarketista, ja itse asiassa se on juuri sitä, mitä komissiolta ja ministerineuvokselta puuttuu: vähän rohkeutta kohdata jättiläis-Amerikka, joka asevoimillaan pystyy pelottamaan ministereitä ja komissaareja. Ja tätä ei ikinä sanota ääneen pelkuruuden takia.
+<P>
+Ei ole mitään syytä siihen, että WTO: n isoveli vielä päättää, niin kuin se päättää, kaikista merirosvoilun seurauksista. Kaikki me tiedämme, että aikoinaan kuninkaat antoivat aatelisarvoja kaappareille. Merirosvoista tuli kaappareita. Riisin kuljetus, valkaisu, " eurooppalaistaminen" , verojen maksamattomuus, aivan niin kuin käymättömän rypälemehun tuonti, hyökkää maahan ja saattaa meidät niin nöyryyttävään tilanteeseen, että se saa meidät melkein toivomaan kuivuutta ja avustuksia ja melkein toivomaan tukea, koska olemme maanviljelijöitä. Tämä on tilanne, jonka pitäisi saada komissio ja ministerit häpeämään. Mutta myöskään häpeätä ei kertakaikkiaan voi ostaa, ja häpeä on vähäistä yhteiskunnissa, jotka ovat menettäneet kokonaan eettiset arvonsa ja jotka pahaisen kullan himon takia taistelevat toinen toistaan vastaan. Minusta on mahdotonta hyväksyä, että eurooppalaisilla valtioilla ei ole yhteisvastuullisuutta taistellakseen epäreilua mutta laillista kilpailua vastaan. Arvoisa komissaari, ei kaikki laillinen ole eettistä! Tämä on hyvä tietää: kaikki laillinen ei ole eettisesti oikein, koska laki usein suojelee moraalisesti tuomittavia tekoja, ja juuri tällaisessa tilanteessa me nyt olemme! Tämä on taloudellinen asia, ei erikoisasiantuntijoiden tai teknikkojen asia! Hyvien tai huonojen ihmisten on ratkaistava onko meidän määränpäänämme koko ajan rappeutuva Eurooppa.
+
+<SPEAKER ID=54 LANGUAGE="EL" NAME="Ephremidis">
+Arvoisa puhemies, rohkeutta ei näytä puuttuvan komissiolta, ei yhdessä eikä yksityisesti, ja sama pätee myös ministerineuvostoon. Pelkään kuitenkin, että kysymys on jostakin pahemmasta. Yksittäisillä henkilöillä on rohkeutta. Kollektiivisena elimenä he palvelevat kuitenkin muita etuja ja antavat sen vuoksi periksi amerikkalaisten painostuksen edessä. He ovat sitoutuneet muihin asioihin, unionin sisälle pesiytyneiden monikansallisten yhtiöitten etuihin.
+<P>
+Siispä, jotte emme elättelisi harhaluuloja, tarkastelkaamme, mistä tässä on kysymys. Ei ole pelkkä sattuma, että komissio on heittänyt roskakoriin yleisesti hyväksytyn periaatteen yhteisön sisäisen tuotannon suosimisesta tupakan, puuvillan, vihannes- ja hedelmätuotteiden ja ruokaöljyn kohdalla. Nyt on vuorossa riisi. Eräs jäsenvaltio, Hollanti, tuotti Antilleilla viime vuonna 300 000 tonnia riisiä, mutta tuote ei ole peräisin Antilleilta, lukuun ottamatta jotain todella pientä määrää. Se tulee muualta ja vain kulkee Antillien kautta.
+<P>
+Mihin toimiin komissio on ryhtynyt? Missä on suosimisperiaate? Mikä on synnyttänyt tämän kriisin markkinoilla? Miksi on olemassa hintakriisi? Mitä tekee komissio? Kaikki, mitä arvoisa komission jäsen sanoi, jää vain huolien tyynnyttelyksi, kun asioita tarkastellaan pinnallisesti. Arvoisa komission jäsen, miksi te asetatte suosimisen alkavaksi huhtikuussa, kuusi kuukautta sadonkorjuun jälkeen, miksi te ette siirrä sitä lähemmäksi sadonkorjuun ajankohtaa? Miksi te otitte rajoituksia käyttöön vain vuoden 1997 ensimmäisen neljänneksen ajaksi? Mitä loppuvuonna 1997 tapahtuu? Mitä tuottajat sitten tekevät?
+<P>
+Jättäkää jo verukkeet ja teeskentely. Jos haluatte olla yhteisön komissio ja neuvosto, toimikaa yhteisön tuottajien puolesta, niiden puolesta, jotka joutuvat kamppailemaan jokaisen leipäpalan eteen, älkääkä suistako heitä työttömyyteen.
+
+<SPEAKER ID=55 LANGUAGE="NL" NAME="Maij-Weggen">
+Arvoisa puhemies, Ephremidis ei ollut oikeassa. Sanon hänelle, miksei hän ollut oikeassa. Minäkään en ole samaa mieltä kaikista tämän päätöslauselman kohdista. Riisimarkkinoilla on käynnissä kriisi. Se on päivänselvää. Riisimarkkinat ovat kärsineet kuivuudesta ja siksi Euroopan unioni on antanut mahdollisuuden Hollannin Antilleille, Brittien merentakaisille alueille ja Ranskan merentakaisille alueille lisätä tuontiaan. Näin saatiin tasapaino aikaiseksi 1990-luvulla. Ja nyt kun kuivuus on ohi, Espanjassa ja Italiassa jännitys alkaa nousta. Mitä komissio on tehnyt? Sillä hetkellä kun jännitystä alkoi esiintyä se salli Yhdysvaltojen tuoda suuret määrät riisiä ratkaistakseen ongelman GATT: n puitteissa. Riisiä tuotiin myös Egyptistä ja Thaimaasta. Nyt asia ei ole enää hallinnassa. Mitä komissio tekee nyt? Se etsii helpoimman ratkaisun. Se ei keskustele Yhdysvaltojen eikä ASEANin kanssa, sillä siitä seuraisi vain hankaluuksia. Ei, me käymme käsiksi merentakaisiin hallintoalueisiin, Hollannin antilleihin, brittiläisiin merentakaisiin alueisiin ja niin asia on ratkaistu. Se ei ole reilua.
+<P>
+Ymmärrän, että asialle on tehtävä jotain paikan päällä. On tehtävä parempia sopimuksia, mutta Hollannin antilleilla työskentelee 550 ihmistä riisin käsittelyssä. Se on yhtä paljon, kollega Fraga ja yhtä paljon kollega Cunha, kuin 30.000 espanjalaista työntekijää, jos otatte huomioon asukasluvun ja 50.000 italialaista ja ranskalaista työntekijää kun asukkaita on 55 miljoonaa. Sillä Hollannin antilleilla asuu vain 230.000 ihmistä. Kuvitelkaa sitä. Se on kymmenkertainen Vilvoorden draama ja Hollannin hallitus sanoo: näin ei voi tapahtua. Emme voi aiheuttaa tällaista draamaa Hollannin antilleilla. On löydettävä ratkaisu, mutta ei voi olla mahdollista, että tämä kurjuus koituu kokonaan merentakaisten hallintoalueiden niskoille. Mielestäni ranskalaiset kollegat ovat myös oikeassa. On löydettävä kohtuullinen ratkaisu. Ei ole reilua syyttää Hollantia ja Hollannin antilleja, kollega Ephremidis. Komissio on tehnyt virheitä ja sen tulee huolehtia siitä, että asia hoidetaan tasapainoisella ja oikeudenmukaisella tavalla.
+
+<SPEAKER ID=56 LANGUAGE="ES" NAME="Fabra Vallés">
+Arvoisa puhemies, haluan puheenvuoroni aluksi ilmoittaa olevani henkilökohtaisesti kiinnostunut käsiteltävänä olevasta asiasta, koska olen riisintuottaja. En kuitenkaan käytä puheenvuoroa itseni takia, kuten myöhemmin tulette ymmärtämään, koska olen japanilaistyyppisen riisin tuottaja ja tänään keskustelemme intialaiseen lajiin hyvin konkreettisesti liittyvistä aiheista. En usko, että teitä voidaan onnitella yhteisövarojen asianmukaisesta hallinnoinnista.
+<P>
+Ensin te maksatte. Sitten teette päätöksiä, jotka aiheuttavat ongelman niille, jotka saavat yhteisötukea ja jotka te näitte ratkaisuna. Keskustelemme tuotteesta, josta on alijäämää Euroopan unionissa, ja siten tuonti on ymmärrettävää. Mutta miten voitte perustella valvonnan puuttumisen, joka, kuten Cunha totesi, on johtanut tuonnin viisinkertaistumiseen neljässä vuodessa?
+<P>
+On myös vakavaa, että yhteisön etuuslauseketta ei ole otettu huomioon ja kuten todettu, olemme alistumassa Yhdysvaltojen kiristykseen.
+<P>
+Arvoisa komissaari, asun Ebron alajuoksulla Ebro-joen suistossa. Alueen kaikki asukkaat elävät välillisesti tai välittömästi riisistä. Maita on vallattu ja viljelty viimeiset 150 vuotta. Jos näitä maita ei tervehdytetä, ne aavikoituvat uudestaan ja lopuksi seurauksena on väestökato. On paradoksaalista, että sellaisen yhteisömaan edustajat, joka parhaiten tuntee viljelemättömien maiden valtauksen ja viljelyn vaikeudet, ovat tänään kaikkein haluttomimpia löytämään tulevaisuuden ratkaisun.
+<P>
+Arvoisa komissaari, esitän teille lopuksi mittapuun ongelman vakavuudesta - enkä usko, että sillä on mitään tekemistä sääolojen kanssa: riisin viljelyhehtaarin arvo on viimeisen kymmenen vuoden aikana laskenut puoleen hinnasta.
+
+<SPEAKER ID=57 NAME="Liikanen">
+Kun tarkastelemme EU: n riisintuonnin kasvua, huomaamme, että tuonti on peräisin merentakaisista maista ja alueilta ja siihen sovelletaan nollatullia. Vuonna 1992 tuonnin määrä oli 40 000 tonnia ja vuonna 1996 se nousi 252 000 tonniin. Tämä osoittaa selvästi, mikä suurin ongelma on, ja juuri siksi komissio on Espanjan ja Italian pyynnöstä päättänyt soveltaa suojalauseketta. Tämä on tärkein huomio, jonka haluan esittää tässä yhteydessä. Muilta osin kerron kollegalleni komissaari Fischlerille, joka vastaa tästä alasta, tämänpäiväisestä keskustelusta.
+
+<SPEAKER ID=58 NAME="Puhemies">
+Paljon kiitoksia, arvoisa komissaari. Olen vastaanottanut viisi päätöslauselmaesitystä , jotka on esitetty työjärjestyksen 40 artiklan 5 kohdan mukaisesti.
+<P>
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen yhteisestä päätöslauselmaesityksestä 3 koskien riisisektorin kriisiä.
+<P>
+(Liittyen 1 kohdasta esitettyyn suulliseen tarkistukseen)
+
+<SPEAKER ID=59 LANGUAGE="NL" NAME="Maij-Weggen">
+Arvoisa puhemies, pyydän, että 1 artiklaan lisätään seuraava lause: " katsoo ehdottoman välttämättömäksi, että unioni suorittaa toimenpiteet, jotka perustuvat julkiseen ja syvälliseen tutkimukseen tarkoituksenmukaisten toimenpiteiden löytämiseksi." Miksi, arvoisa puhemies? Koska myös tänään on käynyt ilmi keskustelusta, että asian suhteen vallitsee epäselvyyttä, etenkin merentakaisten hallintoalueiden kohdalla. Olen antanut tekstin teille ja pyydän kollegoitani kannattamaan sitä. Julkisen ja tarkoituksenmukaisen tutkimuksen pohjalta.
+
+<SPEAKER ID=60 LANGUAGE="IT" NAME="Fantuzzi">
+Arvoisa puhemies, muistutan kollegoille, että 7 kohdassa on tällainen sitoumus. Siinä lukee: " pyytää siis komissiota analysoimaan yhteismarkkinajärjestön toiminnan tehokkuutta." Uskon, että tutkimuksissa on järkeä, jos ne koskevat koko maailman riisitilannetta. Merentakaisten alueiden ja maiden erityinen ongelma on mielestäni ongelma, jota ei ole, sillä alioikeus on antanut aivan selkeitä lausuntoja jo vuodesta 1995 lähtien - joissa on muun muassa evätty valitusoikeus Euroopan tuomioistuimeen Hollantiin, jonka valituksen motiivina olivat merentakaisia alueita koskevat yleiset intressit - jotka sanovat selkeästi, ettei näitä syitä ole ja jotka ovat antaneet esimerkiksi komissiolle luvan hyväksyä nyt uudelleen esitetyn suojalausekkeen. En siis usko, että näillä alueilla on erityisiä ongelmia; joka tapauksessa 7 kohdassa pyydetään nimenomaisesti tutkimaan riisin kauppatilannetta koko maailmassa.
+<P>
+Haluan vielä muistuttaa, että suojalauseke-ehdotus - komissaari ei sanonut sitä - on hyväksytty niin, että komission jäsenet Fischler ja Pinheiro olivat yksimielisiä; se on siis pääosasto VI: n ja pääosasto VIII: n yhteisehdotus " Yhteistyö kehityksen edistämiseksi" .
+
+<SPEAKER ID=61 NAME="Puhemies">
+Hyvät läsnäolijat, emme avaa keskustelua tästä kysymyksestä. Maij-Weggen on tehnyt ehdotuksen ja perustellut sen ja Fantuzzi on käyttänyt puheenvuoron. Ehdotan, että tarkistamme, vastustaako parlamentti tästä tarkistuksesta äänestämistä.
+<P>
+Onko 12 parlamentin jäsentä vastaan?
+<P>
+(Parlamentti hylkäsi suullisen tarkistuksen käsittelyn.)
+<P>
+(Parlamentti hyväksyi päätöslauselman.)
+
+<SPEAKER ID=62 NAME="Andersson">
+En voi asettua tukemaan päätöslauselmaa riisintuotannon kriisistä. Riisisektori on jo jonkin aikaa sitten avattu kilpailulle Euroopan markkinoilla, mikä on hyvä, sillä elintarvikkeiden kuluttaja on hyötynyt siitä merkittävästi. Riisisektorin parantunut markkinaehtoisuus on kuitenkin luonut ongelmia useille eurooppalaisille riisintuottajille. Syntyneet vaikeudet ovat tietenkin valitettavia, mutta haluan sanoa mielipiteenäni, ettei tiettyjen riisintuottajien vaikeuksia voida ratkaista ottamalla uudelleen käyttöön tuontirajoituksia tai muita kaupan esteitä tai suuntaamalla subventioita riisisektorille, mikä voisi olennaisesti vääristää kilpailusuhteita Euroopan markkinoilla.
+
+<SPEAKER ID=63 NAME="Eriksson ja Sjöstedt">
+Olemme äänestäneet unionin riisipolitiikkaa koskevaa päätöslauselmaa vastaan. Vastustamme sellaista protektionismia riisimarkkinoilla, joka johtaa korkeampiin kuluttajahintoihin ja vaikeuttaa muiden maiden riisintuottajien tuontia.
+<P>
+Vastustamme myös elintarviketukien lisäämistä ja vientitukien käyttöä unionin maatalousongelmien ratkaisuna. Elintarviketuen tulee edistää kotimaista tuotantoa ja paikallisia markkinoita.
+
+<SPEAKER ID=64 NAME="Stenmarck">
+EU: n riisisektori on vaikeuksissa. On kuitenkin tärkeää olla tekemättä vääriä johtopäätöksiä. Kaukonäköinen ratkaisu ei ole tuontikiintiöt tai vientituet, vaan sellaisen politiikan jatkaminen, joka johtaa kasvavaan vapaakauppaan.
+<P>
+Ne neuvottelut, jotka käytiin niin kutsutun Uruguayn kierroksen puitteissa, johtivat merkittäviin askeleisiin tähän suuntaan. Tässä työssä EU: n on tärkeää käydä etujoukoissa ja tehdä välttämättömät aloitteet maailmanlaajuisen vapaakaupan luomiseksi niin pian kuin suinkin.
+
+<SPEAKER ID=65 NAME="Puhemies">
+Hallamilla on puheenvuoro esityslistaa koskevasta kysymyksestä.
+
+<SPEAKER ID=66 LANGUAGE="EN" NAME="Hallam">
+Arvoisa puhemies, tähän teidän johtamaanne " perjantaiaamun klubiin" säännöllisesti osallistuvana jäsenenä pyydän teiltä myötämielisyyttä.
+<P>
+Pöytäkirjassa on " syntilista" ihmisistä, jotka äänestivät Ghilardottin mietintöä vastaan. Valitettavasti siinä on painovirhe eivätkä tällä tavalla äänestäneiden brittikonservatiivien nimet ole yksiselitteisen selvät. Haluaisin, että lista painettaisiin uudelleen, jotta näemme niiden ihmisten nimet, jotka vastustivat äänestyksessä naisten oikeuksien laajentamista sukupuoleen perustuvaa syrjintää koskevissa tapauksissa.
+
+<SPEAKER ID=67 NAME="Puhemies">
+Hallam, tämä ei ole esityslistaa koskeva kysymys. Tämä on pöytäkirjoja koskeva kysymys.
+
+<SPEAKER ID=68 LANGUAGE="DE" NAME="Posselt">
+Arvoisa puhemies, annattehan anteeksi, että puhun samankaltaisesta ongelmasta, mutta minun täytyy mainita se. Äänestin kyllä tänäaamuna pöytäkirjan puolesta, joka on täysin asiallinen, mutta pääsin vasta nyt vertaamaan Bosnia-Hertsegovinaa koskevan päätöksen puheita ja totesin, että ne ovat erilaisia jokaisella kielellä, mutta kaikilla kielillä väärin. Tämä on ainoa asia, joka on teidän kannaltanne ikävää. Tahtoisin huomauttaa siitä, että pöytäkirjassa lukee aivan oikein se, mitä hyväksyttiin, nimittäin, että alkuperäistekstin 1, 2 ja 3 kohdat poistetaan ja korvataan uusilla teksteillä, mutta että alkuperäistekstin kohta 4 jää ennalleen. Se on hyvin tärkeä kohta, ja pyydän täysistunto-osastoa korjaamaan tämän asian.
+
+<SPEAKER ID=69 NAME="Puhemies">
+Kiitos avustanne, Posselt. Merkitsen muistiin, että parlamentin yksiköt tarkistavat tämän kysymyksen ja se laaditaan asianmukaisesti.
+
+<SPEAKER ID=70 LANGUAGE="FR" NAME="Lulling">
+Arvoisa puhemies, haluaisin ainoastaan sanoa edustaja Hallamille, ettei hänen tarvitse olla enää huolissaan, sillä minä ilmoitin jo yli kaksi tuntia sitten sihteereille, että Ghilardottin mietintöä vastaan - minun onnekseniäänestäneiden kollegojeni nimistä ei saa selvää. Asiakirjasta otetaan uusi painos. Olemme siis asiassa yhtä mieltä ja olen varma siitä, että kollegani konservatiivipuolueessa haluavat varmasti kaikkien tietävän heidän äänestäneen tätä mietintöä vastaan.
+
+<SPEAKER ID=71 NAME="Puhemies">
+Hyvät läsnäolijat, olemme kaikki tietoisia siitä, että kaikki tässä parlamentissa toivovat mahdollisimman suurta avoimuutta. Siten jos virheitä esiintyy, ne korjataan.
+
+<SPEAKER ID=72 LANGUAGE="EN" NAME="Oddy">
+Arvoisa puhemies, kun tarkistin lokerikkoni noin tunti sitten, en vieläkään ollut saanut kirjallisia vastauksia kyselytunnille esittämiini kysymyksiin. Tavallisesti ne on saanut jo tähän aikaan viikosta. Voisitteko varmistaa, että kaikki kirjallisiin vastauksiin oikeutetut saavat sellaiset?
+
+<SPEAKER ID=73 NAME="Puhemies">
+Kiitos tiedostanne, Oddy. Otan vastuun tästä asiasta. Tutkin syyn ja varmistan, että vastaukset annetaan ajallaan.
+<P>
+Hyvät läsnäolijat, minun on nyt sanottava teille, että olemme päässeet esityslistan loppuun ja että parlamentti hyväksyy tämän istunnon pöytäkirjan seuraavan istunnon alussa.
+
+<CHAPTER ID=6>
+Istuntokauden keskeyttäminen
+<SPEAKER ID=74 NAME="Puhemies">
+Hyvät läsnäolijat, sallinette, että kuten aina enkä vain muodollisesti, kiitän parlamentin yksiköitä. Ilman heidän apuaan työmme ei olisi ollut mahdollista. Kiitän myös teitä avustanne ja haluaisin samalla kiittää luontoa siitä, että se on suonut meille tämän ihanan keväisen viikon, joka on tehnyt tästä kauniista kaupungista vielä upeamman.
+<P>
+(Istunto päättyi klo 11.30.)
+

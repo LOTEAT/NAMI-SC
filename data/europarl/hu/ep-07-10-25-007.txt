@@ -1,0 +1,4 @@
+<CHAPTER ID="007">
+Szavazások órája
+<SPEAKER ID="049" NAME="Elnök">
+A következő pont a szavazások órája.

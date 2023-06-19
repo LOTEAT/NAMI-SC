@@ -1,0 +1,6 @@
+<CHAPTER ID="003">
+Omröstning
+<SPEAKER ID="010" NAME="Talmannen">
+Nästa punkt är omröstningen.
+<P>
+(För omröstningsresultat: se protokollet)

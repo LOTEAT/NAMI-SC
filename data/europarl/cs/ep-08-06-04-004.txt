@@ -1,0 +1,12 @@
+<CHAPTER ID="004">
+Schválení zápisu z předchozího zasedání
+<SPEAKER ID="010" NAME="Předseda">
+Zápis ze zasedání ze čtvrtka 22. května 2008 byl rozdán.
+<P>
+Jsou k němu připomínky?
+<SPEAKER ID="011" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Pane předsedo, chtěl bych poděkovat Parlamentu za organizaci slavnostního předávání ceny Energy Globe, neboť to byl skvělý příklad pro celý svět a na náš Parlament to udělalo ohromný dojem. Děkuji všem, kteří se této akce zúčastnili.
+<SPEAKER ID="012" NAME="Předseda">
+Tato slova díků jsou samozřejmě vítána, přestože to nebylo součástí zápisu.
+<P>
+(Zápis z předchozího zasedání byl schválen.)

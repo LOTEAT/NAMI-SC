@@ -1,0 +1,206 @@
+<CHAPTER ID="006">
+Mednarodni standardi računovodskega poročanja in vodenje Upravnega odbora za mednarodne računovodske standarde (razprava)
+<SPEAKER ID="044" NAME="Predsednica">
+Naslednja točka je poročilo Alexandra Radwana v imenu odbora za ekonomske in monetarne zadeve o mednarodnih standardih računovodskega poročanja (MSRP) in vodenju Upravnega odbora za mednarodne računovodske standarde (UOMRS).
+<SPEAKER ID="045" NAME="Alexander Radwan" LANGUAGE="DE">
+Gospa predsednica, tema poročila, ki je pred nami, se lahko na prvi pogled zdi zelo tehnična. Zadeva tako imenovane računovodske standarde v Evropski uniji in svetu, zlasti za mala in srednje velika podjetja. Prav lahko se zgodi, da bo preteklo več let, preden bodo učinki današnje razprave postali vidni v gospodarstvu in jih bodo občutili običajni državljani. Takrat se bodo pritoževali, da nihče ne ve, od kod ti standardi prihajajo ali kdo je zanje odgovoren. Prav tako nihče ne bo vedel, zakaj se morajo upoštevati.
+<P>
+Cilj je razvoj enotnih splošnih računovodskih standardov, zlasti za javna podjetja z omejeno odgovornostjo. Ta cilj podpiramo. Podpira ga utemeljitev, da potrebujemo visokokakovostne standarde, pri čemer se ta parlament obravnava kot edini forum, ki je pristojen za določitev teh visokokakovostnih standardov. Vendar je v teh vihravih časih na finančnih trgih presenetljivo poslušati, kako isti ljudje, ki so pred tem podpirali načelo "poštene vrednosti", zdaj dvomijo o tem načelu in sprašujejo, ali je pristop "od trga do trga" še vedno smiseln, če trga ni več. Ravno ljudje, ki so za te razmere odgovorni, zdaj sprašujejo, ali smo na pravi poti.
+<P>
+Za te standarde so odgovorni zgolj ljudje, ki sedijo v pisarnah zasebne organizacije v Londonu, in na oblikovanje standardov nedvomno vpliva njihova želja, da obdržijo službo. Moje poročilo, o katerem danes glasujemo, zato poleg vpliva na mala in srednje velika podjetja obravnava tudi temeljno vprašanje, kdo postavlja pravila za koga ter kdo nadzira izvajanje predpisov.
+<P>
+Prvo vprašanje za obravnavo je vprašanje vodenja: Kako pregledna je ta organizacija? To pomeni, kako pregledno je njeno financiranje? Pri tem zagotovo obstajajo skriti interesi. Člani tega odbora, ki zahtevajo preglednost in trg vedno poskušajo prikazati kot pregleden, se morajo vsaj malo potruditi, da izpolnijo zahteve o preglednosti, ki jih določajo za trg. Do zdaj sem imel vtis, da se organizacija z vsemi razpoložljivimi sredstvi bori proti preglednosti.
+<P>
+Kdo sprejema odločitve o financiranju in izbiri osebja za posamezna delovna mesta? Zakaj se posamezniki imenujejo? Ali je to regionalno ravnovesje? Ali je to medsektorsko ravnovesje? Sedanji projekt zadeva MSRP za mala in srednje velika podjetja, zato je ustrezno vprašati, kdo ta podjetja zastopa. Kdo pozna mala in srednje velika podjetja? In še to: Zakaj so MSRP za mala in srednje velika podjetja dejansko na dnevnem redu zdaj? Kdo določa dnevni red?
+<P>
+Tudi komisarju McCreevyju in siru Davidu Tweedieju je bilo v teh letih vprašanje, zakaj dejansko to počnemo, večkrat zastavljeno. Po več letih zdaj vemo, zakaj razpravljamo o MSRP za mala in srednje velika podjetja v Evropi: ker sta k temu pozvali Južna Afrika in Brazilija. Kako sijajen odgovor. Zelo dobro se zavedamo, da pri tem ne gre za Južno Afriko ali Brazilijo, ampak za evropski trg, na katerem se bo lahko zaslužilo veliko denarja, če bodo morala mala in srednje velika podjetja uvesti nekaj takšnega. To so torej vprašanja v zvezi z vodenjem, pri čemer se je že naredilo nekaj začetnih pozitivnih korakov.
+<P>
+Vendar se bodo vsi organi, ki se bodo ustanovili v prihodnosti, ocenjevali glede na to, ali bodo ljudje, ki pripadajo takšni organizaciji za nadzor in morajo odgovarjati na vprašanja o njej na politični ravni, pri čemer je lahko med njimi tudi komisar, ob tem imeli tudi moč, da bodo določali nove oblike razvoja. Ni dovolj, da bodo le obveščeni o predlogih.
+<P>
+Eden od naših ciljev je konvergenca. Vendar moramo poskrbeti, da evropske razlage konvergence ne bo nadomestila razlaga ameriške Komisije za trg vrednostnih papirjev in borzo (SEC). Danes v Evropi ustrezno poznamo način nadzora borze Združenih držav. Ne smemo biti tako naivni, da bomo izvajanje nadzora prepustili Američanom. Zato želimo to, k čemur smo že pozvali: MSRP, kot jih razume Evropa in ne kot določa ta odbor.
+<P>
+To vpliva na mala in srednje velika podjetja, pri čemer moram odkrito povedati, da so zamisli, o katerih danes razpravljamo, preveč zapletene in težko izvedljive. Prav tako nasprotujem prostovoljnemu pristopu. Danes nosim bavarsko narodno nošo in na misel mi je prišel dobri stari bavarski izraz: in sicer "hinterfotzig", kar pomeni "prikrito". Kljub vsem zanikanjem in privolitvam zelo dobro vemo, da se bodo MSRP za mala in srednje velika podjetja uvedli na evropski trg prikrito prek malo držav članic. Nato bodo isti ljudje pozivali k enotnim standardom in potem bodo svoje standarde vsilili na trg - standarde, ki so preveč zapleteni, ki jih nihče ne razume in ne želi - zgolj zato, ker obstaja tržna priložnost. To je poskus manjšine, da bi na globalni ravni vsilila svojo voljo večini, kar je nesprejemljivo.
+<SPEAKER ID="046" NAME="Charlie McCreevy">
+komisar. - Gospa predsednica, zahvaljujem se odboru za ekonomske in monetarne zadeve ter zlasti poročevalcu, gospodu Radwanu, za obsežno delo, ki ga je opravil za pripravo tega poročila.
+<P>
+To poročilo opozarja na pomembna vprašanja za prihodnji razvoj evropskih in tudi globalnih kapitalskih trgov. V kratkem času, ki mi je na voljo, ne morem obravnavati vseh teh vprašanj. Zato se osredotočam na tri točke: vprašanja glede vodenja; prispevek EU za Upravni odbor za mednarodne računovodske standarde (UOMRS) ter projekt za razvijanje računovodskih standardov za mala in srednje velika podjetja.
+<P>
+V zvezi z vodenjem UOMRS vaše poročilo pravilno poudarja dejstvo, da je naš skupni cilj razvoj visokokakovostnih splošnih računovodskih standardov. Odločitev Evrope, da bo od podjetij, ki kotirajo na borzi, zahtevala uporabo mednarodnih računovodskih standardov, je bil drzen in vizionarski korak k doseganju tega cilja. Enotni splošno sprejeti računovodski standardi bodo našim podjetjem, kapitalskih trgom in našemu gospodarstvu zagotovili veliko koristi.
+<P>
+Nenehno si moramo prizadevati za zagotavljanje ustreznosti mednarodnih računovodskih standardov v spreminjajočih se gospodarskih okoliščinah in da interese vseh zainteresiranih strani predstavljajo na uravnotežen način. Da se zagotovi še nadaljnje izpolnjevanje teh pogojev, mora biti napredek prednostna naloga na treh področjih.
+<P>
+Prvič, okrepiti se morajo pristojnosti Fundacije odbora za mednarodne računovodske standarde (FUOMRS), zlasti v zvezi z javnimi organi. Ti morajo imeti dejavno vlogo pri izbiri in imenovanju skrbnikov. V zvezi s tem je predlog, ki sem ga novembra lani predložil skupaj s kolegi iz ameriške Komisije za trg vrednostnih papirjev in borzo (SEC), japonske agencije za finančne storitve in Mednarodne organizacije komisij za vrednostne papirje, v skladu s smernicami, ki jih zagovarjate v svojem poročilu.
+<P>
+Drugič, preučiti moramo, kako se lahko izboljša proces določanja programa UOMRS. Proces določanja prednostnih nalog mora biti zlasti bolj odprt in pregleden.
+<P>
+Tretjič, UOMRS mora okrepiti svoj predpisani postopek z zagotovitvijo celovite ocene učinka standardov pred njihovim sprejetjem.
+<P>
+V zvezi s temi in podobnimi točkami vaše poročilo vsebuje konstruktivne predloge. Prihodnji pregled statuta FUOMRS omogoča priložnost, da se izvedejo potrebne reforme. Odbor se bo o njih posvetoval s tem parlamentom, državami članicami in našimi mednarodnimi partnerji.
+<P>
+Glede prispevka EU k UOMRS: vaše poročilo navaja, da mora EU okrepiti svojo sposobnost izražanja svojih pogledov na računovodske zadeve na mednarodni ravni. S tem se strinjam. Zlasti moramo poiskati način, da zagotovimo, da lahko evropske zainteresirane strani svoje poglede UOMRS predstavijo pravočasno in bolj usklajeno, predvsem proaktivne prispevke v procesu določanja programa UOMRS.
+<P>
+Menim, da je to bolj razvojen kot revolucionaren proces. Oblikovati moramo Evropsko svetovalno skupino za računovodsko poročanje in pripravljen sem to obravnavati kot nujno, vključno z možnostjo financiranja iz proračuna Skupnosti za podporo takšne strukture.
+<P>
+Vendar vas moram jasno in nedvoumno opozoriti. Ta struktura ne bo nikoli postala glavna evropska določevalka standardov, prav tako ne sme biti nobenega dvoma, da moramo razviti evropske razlage mednarodnih računovodskih standardov. Evropa si mora še naprej prizadevati za enotne splošno sprejete računovodske standarde, kar bo tudi storila. Kar koli drugega bi ogrozilo mednarodno konkurenčnost naših podjetij in našega kapitalskega trga.
+<P>
+V zvezi s projektom UOMRS za razvoj računovodskega standarda za mala in srednje velika podjetja naj naprej povem, da Komisija zdaj nima pravne podlage za odobritev tega standarda. Poleg tega se nismo nikoli zavezali, da bomo prevzeli kakršen koli standard, ki ga predlaga UOMRS. To bi storili le, če bi bili resnično prepričani, da je standard UOMRS v skladu z interesi evropskih uporabnikov.
+<P>
+UOMRS še ni končal svojega projekta. Vendar so na tej stopnji stališča Komisije jasna. Sedanji osnutek za javno obravnavo, ki ga je izdal UOMRS, je še vedno preveč zapleten, da bi zagotovil zadovoljiv računovodski okvir za evropska mala in srednje velika podjetja, zlasti manjša podjetja. Še vedno si prizadevamo zlasti za poenostavitev zakonodajnega okolja za mala in srednje velika podjetja, vključno z računovodskim področjem.
+<SPEAKER ID="047" NAME="Klaus-Heiner Lehne">
+pripravljavec mnenja odbora za pravne zadeve. - (DE) Gospa predsednica, gospe in gospodje, sistem mednarodnih računovodskih standardov je smiseln za velika podjetja, ki kotirajo na borzi in poslujejo po vsem svetu. Zato smo se med zadnjim parlamentarnim mandatom v zvezi s predlogom odbora za pravne zadeve odločili sprejeti uredbo o mednarodnih računovodskih standardih.
+<P>
+Kot je dejal Alexander Radwan, je dejansko končni cilj, da se doseže konvergenca, vsaj z ZDA in po možnosti na svetovni ravni. Ta sistem je za mala in srednje velika podjetja nesmiseln, ker praviloma ne potrebujejo mednarodnih finančnih trgov, Wall Streeta in ostalih. Že zato je zelo vprašljivo, ali je za mala in srednje velika podjetja res treba razviti MSRP.
+<P>
+Povrhu vsega, pri čemer menim, da je imel komisar McCreevy pri tem popolnoma prav, je sedanji predlog le skrajšana različica mednarodnih standardov, ki so v vseh pogledih zelo zapleteni ter v ničemer ne ustrezajo strukturi malih in srednje velikih podjetij v Evropi. Zlasti so neustrezni za družinska podjetja, ki jih že več generacij vodijo njihovi lastniki in so lastnino, ki jim pripada, že odpisali ter v katerih bi izvajanje predpisov poštene vrednosti le spodbudilo pohlep, kar bi lahko na koncu zelo ogrozilo možnosti preživetja podjetja.
+<P>
+Vendar moramo biti realni. Na koncu se bo pri vprašanju računovodskih standardov za mala in srednje velika podjetja v Evropi morala upoštevati tudi nekakšna oblika usklajevanja. Mi zahtevamo primerljivost, vsaj na enotnem trgu. Zato menim, da je pomembno, da resno razmislimo o evropskih nadomestnih možnostih za predloge iz Londona, s katerimi bi dosegli večjo standardizacijo tudi na tem področju, vendar mora biti ta standardizacija smiselna ter ustrezna za mala in srednje velika podjetja ter namesto h kratkoročnemu usmerjena k dolgoročnemu vrednotenju.
+<P>
+V zvezi z organi mednarodnih računovodskih standardov imam še eno pripombo. Kot je opozoril Alexander Radwan, je to resna težava. Obstaja določeno geografsko ravnovesje, vendar ni ravnovesja glede gospodarske teže. Evropa je daleč največja skupina, največja regija za izvajanje predpisov za mednarodne računovodske standarde. Zato se mora naše mnenje primerno upoštevati; medtem ko se z državo, kot je Avstralija, enostavno ne moremo primerjati. Avstralija je enako pomembna kot srednje velika država EU ali velika regija, kot je zvezna dežela Severno Porenje - Vestfalija. V zvezi s tem se mora ravnovesje izboljšati.
+<SPEAKER ID="048" NAME="Cornelis Visser">
+v imenu skupine PPE-DE. - (NL) Gospa predsednica, najprej čestitam gospodu Radwanu za tako izčrpno poročilo. O njem se je razpravljalo do zadnje minute. Njegova končna oblika je jasno poročilo, vendar včasih tudi kritično. Poročevalec je prepričan, da je treba izboljšati demokratično odgovornost UOMRS, in veseli me, da UOMRS to upošteva.
+<P>
+Predsednik skrbnikov, gospod Gerrit Zalm, je nedavno v Evropskem parlamentu dejal, da je odprt za predloge in pripravljen predlagati sprejetje strukture. UOMRS si prizadeva v zvezi s standardi MSRP za mala in srednje velika podjetja. S poročevalcem se strinjam, da so MSRP prezapleteni in predragi za mala in srednje velika podjetja. Prepričan sem tudi, da bi s spodbujanjem malih in srednje velikih podjetij pri prostovoljnem izvajanju MSRP tvegali, da se bodo ta v Evropo uvedla prikrito. Menim, da se morajo upoštevati razlike glede na velikost podjetja. Dobro je, da velike multinacionalke, banke in zavarovalnice, ki poslujejo po vsem svetu, za svoje letne računovodske izkaze uporabljajo enotne standarde. Vendar bi morala mala in srednje velika podjetja v Evropi imeti svoj lastni standard.
+<P>
+UOMRS je veliko dosegel v zvezi z mednarodnimi podjetji, ki kotirajo na borzi, in računovodskimi standardi zanje. Če mala in srednje velika podjetja zdaj menijo, da se lahko stroški in prizadevanje upravljajo tudi z več kot enim standardom, to še ne pomeni, da lahko enotni standard določimo od zgoraj navzdol. Prav tako je zelo pomembno, da se upoštevajo tudi interesi vlagateljev in preglednost. Naloga politike je, da spodbuja ter zagotavlja jasne, pregledne in stroškovno učinkovite informacije o poslovni uspešnosti. Menim, da lahko dokazane koristi MSRP koristijo tudi evropskim kapitalskim trgom, zlasti če Američani svoj sistem splošno sprejetih računovodskih načel Združenih držav nadomestijo z MSRP. Mednarodnim vlagateljem in zainteresiranim stranem lahko primerljivost zelo koristi. Zamisel v zvezi z MSRP si zato zasluži podporo Evropskega parlamenta.
+<SPEAKER ID="049" NAME="Pervenche Berès">
+v imenu skupine PSE. - (FR) Hvala, gospod komisar, da vam je uspelo priti v Strasbourg. Zahvaljujem se tudi poročevalcu v bavarski noši. Skupaj smo zelo dobro sodelovali, kar dokazuje vključitev predlogov sprememb različnih avtorjev v vaše poročilo.
+<P>
+Najprej naj navedem tri točke v zvezi z računovodskimi standardi. Položaj v zvezi z vodenjem in delovanjem organa, pristojnega za določanje teh računovodskih standardov, se mi zdi neobičajen. Oblik standardizacije je veliko. Nima vsaka tako močnega vpliva na finančno stabilnost ali vprašanja glede moči in vodenja, kot ga imajo računovodski standardi. Današnji potek dogodkov je pomemben prehod k zrelosti.
+<P>
+Ko so se ti računovodski standardi oblikovali, kar so verjetno storili revizorji z medsebojnim sodelovanjem, se je ustvarila zelo dobra podlaga. Danes so ti računovodski standardi mednarodni. Uporabljajo in izvajajo jih vsi, zato je vprašanje vodenja ključno.
+<P>
+Kako se lahko organ, pristojen za določanje teh računovodskih standardov, vključi v mednarodno vodenje z demokratičnimi organi, organi, ki legitimno zastopajo državno moč, in zlasti z Evropsko unijo?
+<P>
+Druga točka, ki jo moramo obravnavati v zvezi z vodenjem, je dejansko ravnovesje med temi organi. Kaj je geografsko ravnovesje, kaj je ravnovesje v predstavništvu oblikovalcev teh standardov in tudi njihovih uporabnikov?
+<P>
+Tretja točka je financiranje. Kako se bodo ti organi financirali? Ali je smiselna zamisel o uporabnini za podjetja, ki bi jo določali regulativni organi? Ali bi jih lahko financirala vlada ali Evropska skupnost? Upamo, da bo komisar v zvezi s tem predložil tehtne predloge.
+<P>
+Četrto vprašanje v zvezi s temi organi je program. Ali je prav, da razvijejo koncept poštene vrednosti, če so znane posledice, ki jih lahko to ima za finančno stabilnost? Ali je prav, da ta organ razvije program za mala in srednje velika podjetja, ki ga Evropa ne potrebuje? Ali je glede vprašanja standardov za mala in srednje velika podjetja prav, zgolj zato ker jih bosta po besedah našega poročevalca morda potrebovali Južna Afrika in Avstralija, da Komisija Evropi ni zagotovila soodločanja v teh organih? Evropa mora najprej nujno zagotoviti, da bo zastopala moč vseh držav članic in glas Evropejcev v UOMRS, FUOMRS in Odboru za pojasnjevanje mednarodnih standardov računovodskega poročanja (OPMSRP). Gospod komisar, to je vaša odgovornost. V zvezi s tem pričakujemo od vas tehtne predloge.
+<SPEAKER ID="050" NAME="Sharon Bowles">
+v imenu skupine ALDE. - Gospa predsednica, MSRP sprejema vedno več držav, zato njihova vrednost in pomen rasteta. S tem se pojavlja tudi potreba po krepitvi pristojnosti in preglednosti UOMRS, kar ob njegovi ustanovitvi morda še ni bilo tako jasno. Strinjam se s premiki v to smer, vendar obžalujem, da nekateri deli tega poročila podajajo negativne kritike, namesto priznavanja, da se dogajajo spremembe, in prihodnjih usmeritev. Zato je veliko mojih predlogov sprememb usmerjenih v prihodnost, s poudarkom na prednostih in koristih ter potrebi po dodatni prilagoditvi standardov samih ter tudi UOMRS, ki jih nadzoruje. Vendar se moramo izogniti nepotrebni politizaciji tehničnih vprašanj. MSRP so pomembno orodje za večjo čezmejno primerljivost in zmanjšanje obremenjujočih zahtev za podjetja pod različnimi ureditvami, vendar bi bilo koristno, če bi bili finančni izkazi bolj primerljivi tudi za druge namene. Vendar se prav lahko zgodi, da se bo to razvilo z orodji, kot je označevanje XBRL. Zahvaliti se moram gospe van den Burg za zanimivo predstavitev na to temo prejšnji teden.
+<P>
+Predlogi malih in srednje velikih podjetij povzročajo zaskrbljenost več strani. Meni se zdijo bolj kot orodje za medije, morda si prizadevajo za celostno poročanje javnosti, pri čemer si zagotovijo ločeno lastno obravnavo ali prostovoljno obravnavo. Vendar, kot ste dejali, gospod komisar, so za večino običajnih malih in srednje velikih podjetij za zdaj še preveč zapleteni.
+<SPEAKER ID="051" NAME="Gay Mitchell" AFFILIATION="PPE-DE">
+Gospa predsednica, kolegu gospodu Radwanu čestitam za zelo dobro poročilo. Upam, da bavarska narodna noša, ki jo nosi to jutro, ne napoveduje spremembe politične usmeritve.
+<P>
+Sprejetje MSRP januarja 2005 je bilo za Evropsko unijo zelo koristno, ker je poenostavilo čezmejne računovodske zahteve in olajšalo primerjanje finančnih izkazov med državami, konkurenti in industrijo ter izboljšalo delovanje regulativnega nadzora, bančništva in kapitalskih trgov. Mednarodni standardi računovodskega poročanja se uporabljajo ali sprejemajo v več kot stotih državah, vključno z Avstralijo, Južno Afriko in drugimi.
+<P>
+Podpiram pozive k večji preglednosti, učinkovitosti in pristojnosti UOMRS. Poročilo opozarja na dejstvo, da je preteklo 17 mesecev, preden je UOMRS imenoval novega predsednika. To ni sprejemljivo. UOMRS je zaseben, samoregulativen organ, ki mu je bila dodeljena vloga zakonodajalca, pri čemer je naša zahteva po večji pristojnosti in nadzoru zato popolnoma upravičena. Previdni moramo biti pri pozivanju k uvedbi dodatnih struktur EU za razlago in izvajanje MSRP. Zakaj so potrebne? Kaj bo njihova naloga?
+<P>
+Delo v zvezi s konvergenco EU-ZDA hitro napreduje, prav tako napreduje tudi načrt EU-ZDA na področju računovodstva. Predsednik Združenih držav Amerike, predsedujoči Evropskemu svetu in predsednik Evropske komisije so lani podpisali skupno izjavo EU-ZDA, ki glede računovodskega poročanja vsebuje spodbujanje in zagotavljanje pogojev za priznanje splošno sprejetih računovodskih načel ZDA in mednarodnih standardov računovodskega poročanja v obeh jurisdikcijah. To je zelo dobrodošlo.
+<P>
+Mala in srednje velika podjetja, ki uporabljajo MSRP, so mala in manjša. Menim, da bi moralo biti za zagotavljanje prožnosti njihovo izvajanje prostovoljno, namesto da se takoj prepreči.
+<SPEAKER ID="052" NAME="Ieke van den Burg" AFFILIATION="PSE">
+(NL) Gospa predsednica, pridružujem se čestitkam gospodu Radwanu, saj nam je njegovo poročilo omogočilo, da imamo zelo zanimivo razpravo o sporih med zakonodajnim in samoregulativnim področjem, zlasti na svetovni ravni.
+<P>
+Dobro je, da si pri svojem prizadevanju zastavljamo vprašanja. Te mednarodne standarde, ki bi se izvajali na svetovni ravni, si sicer želimo, vendar vztrajamo pri svoji pristojnosti, da bomo kot sozakonodajalci sodili o vsebini teh standardov, pri čemer bi se odgovorno razrešili svojih obveznosti v vlogi sozakonodajalca. Mislim, da je v zadnjem času Evropski parlament pokazal, da to počne.
+<P>
+Menim, da so ključni pravočasno posvetovanje, uravnoteženo upoštevanje interesov vseh zainteresiranih strani, vključno z interesi zaposlenih tretje strani, lokalnih organov, dobaviteljev in tako naprej (ker je ustrezno računovodsko poročanje koristnejše od zgolj zagotavljanja denarja) ter razumna ocena posledic. Komisija ima pri tem veliko odgovornost. V bližnji prihodnosti se mora navedeno izvesti tudi v imenu malih in srednje velikih podjetij. To bi lahko bil zelo koristen projekt za EU.
+<P>
+Ob koncu imam dve pripombi, ki zadevata tudi drugo poročilo, o katerem bomo glasovali na svojih prihodnjih delnih zasedanjih, in sicer je to poročilo gospoda Lehneja o poenostavljenem poslovnem okolju za podjetja. Tudi pri tem menim, da predpisi niso le za podjetja, financerje in računovodje, ki se z njimi preživljajo, ampak tudi za zaposlene ter druge skupine. Zato se ne smemo vmešavati v kakovost predpisov. Menim, da morajo pravila v vsakem primeru veljati za podjetja, ki ne kotirajo na borzi, in zunajbilančne dejavnosti. Upam, da se strinjate, da mora na tem področju tudi UOMRS še veliko storiti.
+<P>
+Na koncu ponovno izražam iskreno podporo standardu XBRL. Kot veste, bo ameriška Komisija za trg vrednostnih papirjev in borzo kmalu sprejela odločitev o obvezni uporabi tega standarda. Pozivam vas, da premislite, kako naj se Evropa na to odzove, ter vas spodbujam, da za Evropo temu ustrezno oblikujete načrt.
+<SPEAKER ID="053" NAME="John Purvis" AFFILIATION="PPE-DE">
+Gospa predsednica, UOMRS ima nekaj nerešenih vprašanj v zvezi s preglednostjo in vodenjem, vendar se tega zaveda in priznava, da jih je treba rešiti. Nekateri ukrepi so se že izvedli in načrtujejo se novi: izdaja "povratnih izjav", obrazložitev svojih odločitev, spodbujanje analiz stroškov in koristi, širjenja ter dejavnejšega vključevanja odbora skrbnikov. Zelo si je prizadeval za komunikacijo s Parlamentom.
+<P>
+Poročilo gospoda Radwana je zelo izboljšana različica in prepričan sem, da bodo pozitivni predlogi sprememb skupin PPE-DE in ALDE besedilo danes še dodatno izboljšali.
+<P>
+Zahvaljujem se poročevalcu, ker je bil kljub nekaterim različnim mnenjem pripravljen sklepati kompromise na določenih področjih vprašanja glede vodenja. Na žalost se z njim glede vprašanja mednarodnih standardov računovodskega poročanja v malih in srednje velikih podjetjih ne morem strinjati. UOMRS je bil pozvan, naj za mala in srednje velika podjetja oblikuje enostavnejšo različico. Poročilo gospoda Radwana ne priznava, da bi lahko bilo to koristno tudi v Evropski uniji. Predlog se šele pripravlja, medtem ko poročilo dejansko navaja, da to zagotovo ne bo koristilo podjetjem EU.
+<P>
+Vendar so nam večkrat povedali, da bo to izbirno in namenjeno rastočim malim in srednje velikim podjetjem, ki si prizadevajo postati javna podjetja s kotiranjem na borzi. Malim podjetjem, ki nimajo ambicij zunaj svojih lokalnih trgov, tega ni treba upoštevati. Raziskava mnenj septembra lani je pokazala, da so po mnenju velike večine evropskih malih in srednje velikih podjetij koristi večje od pomanjkljivosti ter da se bo računovodsko poročanje izboljšalo.
+<P>
+Prizadevanje UOMRS, da bi razvil visokokakovostne splošne računovodske standarde, je pomemben in dobrodošel prispevek k evropskemu in svetovnemu gospodarstvu, pri čemer odkrito menim, da bi jim morali zaploskati.
+<SPEAKER ID="054" NAME="Antolín Sánchez Presedo" AFFILIATION="PSE">
+(ES) Gospa predsednica, zahteva, da vse javne delniške družbe od začetka leta 2005 za svoje konsolidirane računovodske izkaze uporabljajo MSRP, je zelo obsežna in zelo vplivna politična pobuda.
+<P>
+Standarde uporablja okrog 100 držav, pri čemer je njihova globalizacija zagotovila primerljivost in preglednost, kar je povečalo zaupanje izvajalcev, ustvarilo več enakih konkurenčnih pogojev ter okrepilo tržno disciplino.
+<P>
+Predlog vključuje dva velika izziva v zvezi z vodenjem. Zasebni subjekt, ki je od leta 1973 postavljal svetovne prostovoljne standarde na podjetniški in strokovni podlagi, ima zdaj nenadoma veliko odgovornost, da spremeni svojo naravo, postopke in zgradbo, s čimer bo postal pregledna ustanova, ki jo je mogoče nadzirati ter katere nova vloga se izraža v legitimnosti.
+<P>
+Dejavnosti zadevnih javnih in zasebnih interesov se morajo prepoznati in uskladiti, obenem se morajo za to organizacijo zagotoviti finančna sredstva ter samostojno določanje standardov. Poleg tega se mora ta organizacija vključiti v mednarodno vodenje.
+<P>
+Prav tako se mora evropsko računovodsko vodenje okrepiti s proaktivejšim in bolj celostnim pristopom k pripravi, odobritvi, izvajanju in oceni standardov. Ključno je, da se izboljša konceptualni okvir standardov, pri čemer se mora tudi upoštevati, da niso akademski niti nevtralni ter lahko ustvarijo zmagovalce ter poražence. Pomembno je tudi, da se ocenijo njihovi učinki, zagotovi njihova primerljivost z evropsko strategijo, preučijo finančni preobrati in da se računovodski standardi upravnih koncesij upravljajo uravnoteženo.
+<P>
+Finančne računovodske ureditve za mala in srednje velika podjetja bodo morale biti preproste ter povezane s svojo uporabo notranjega in svetovnega trga. Te točke so zajete v poročilu gospoda Radwana, ki je doseglo široko soglasje in je nastalo v zelo primernem trenutku za naslednji pregled, ki bo konec leta 2009, pri čemer se še letos predvidevata uvedba nadzornega organa in sprememba sestave Svetovalnega sveta za standarde.
+<SPEAKER ID="055" NAME="Othmar Karas" AFFILIATION="PPE-DE">
+(DE) Gospa predsednica, gospod komisar, gospod Radwan, gospe in gospodje, iskreno se strinjam s tem poročilom in razpravo, ker menim, da obravnavamo nekatera zelo občutljiva vprašanja, kar počnemo na resnično medstrankarski način.
+<P>
+Iz govorov izstopa več zelo jasnih točk. Prvič, potrebujemo enotne standarde za javna podjetja z omejeno odgovornostjo, vendar ne želimo enačiti vseh podjetij. Drugič, posebnih predpisov za mala in srednje velika podjetja ne zavračamo, vendar moramo okvir za te predpise določiti v Evropski uniji. Tretjič, sedanji predlagani ukrepi so prezapleteni, predragi ter neuporabni za mala in srednje velika podjetja, zaradi česar jih moramo zavrniti. Četrtič, še vedno nismo prejeli zadovoljivih odgovorov na vprašanja, kdo določa pravila za koga in kdo nadzoruje proces. Ni demokratične legitimnosti, ni razlikovanja v pristopih, upravičene želje malih in srednje velikih podjetij se ne upoštevajo ter sistem demokratičnega nadzora ni ustrezen.
+<P>
+Petič, pri oblikovanju stališča o tem vprašanju ali poskusih odgovarjanja na ta vprašanja se pogosto pozablja, da dve tretjini delovne sile, zaposlene v zasebnem sektorju, delata v družinskih podjetjih ter da je večina teh družinskih podjetij malih in srednje velikih podjetij, ki se za finančna sredstva ne potegujejo na kapitalskih trgih. To moramo upoštevati pri predlogih, ki želijo vsa podjetja obravnavati enako.
+<P>
+Hvala za to koristno razpravo.
+<SPEAKER ID="056" NAME="Richard Howitt" AFFILIATION="PSE">
+Gospa predsednica, v odstavku 30 svojega predloga resolucije poudarjam, da se računovodski izkazi ne pripravljajo le za vlagatelje, ampak tudi za druge zainteresirane strani.
+<P>
+Ker v odstavku 41 opozarjamo na potrebo po spremembah zakonodaje EU, želim komisarja spomniti na izglasovano odločitev Parlamenta, da se mora v spremembe četrte in sedme direktive o pravu družb vključiti tudi zahteva po socialnem in okoljskem poročanju podjetij.
+<P>
+Opozarjam ga na takšne zahteve v Južni Afriki in francoski zakonodaji o novih gospodarskih predpisih ter na priporočila iz projekta waleškega princa o računovodenju za trajnost iz moje države, Združenega kraljestva.
+<P>
+Poleg tega bi komisarja vprašal, ali bi Komisija lahko izdala priporočilo o socialnih vprašanjih v računovodskih izkazih, podobno kot je leta 2001 izdala priporočilo o okoljskih vprašanjih v naših novih računovodskih izkazih. Komisarja tudi pozivam, naj izvede pritisk na UOMRS, da v svojo načrtovano izdajo komentarja o upravljanju vključi socialne in okoljske vidike. Ne glede na to, ali želi Komisija temu reči socialna odgovornost podjetij, se lahko mogoče danes vsi strinjamo, da je to računovodenje za odgovorna podjetja.
+<SPEAKER ID="057" NAME="José Manuel García-Margallo y Marfil" AFFILIATION="PPE-DE">
+(ES) Gospa predsednica, zadnje računovodske krize so pokazale, kako pomembni so visokokakovostni računovodski standardi za pravilno delovanje trgov.
+<P>
+Glede na to se mi zdi, da smo se zaradi krize tudi naučili, da je med navedenim pomenom računovodskih standardov ter naravo in izvajanjem zasebnih subjektov, pristojnih za oblikovanje, uvedbo in razlaganjem teh standardov določena asimetrija.
+<P>
+Poročilo gospoda Radwana je zato pravilno poudarilo, da je treba najprej obravnavati vprašanje vodenja. Predlogi gospoda Radwana, da morajo biti institucije Unije bolj proaktivne v tem procesu določanja standardov, ki se bodo vključili v pravni red Skupnosti, ter tudi predlogi v zvezi z notranjimi operativnimi predpisi zasebnih subjektov, se mi zdijo razumni in realni. Večja preglednost, zaščitni ukrepi za preprečevanje navzkrižja interesov in širše geografsko predstavništvo so nekateri od predlogov gospoda Radwana.
+<P>
+Drugi vidik, ki ga obravnava poročilo, je vprašanje malih in srednje velikih podjetij. V tem parlamentu smo poudarili, da se morata uskladiti dva cilja: poenostavitev in zmanjšani stroški računovodskih postopkov za mala in srednje velika podjetja ter zagotavljanje ustreznih informacij za tržne udeležence.
+<P>
+Nazadnje gospod Radwan izpostavlja potrebo po splošnih standardih v svetovnem okolju, s čimer se strinjam. Zato je zelo pomembno, da se sporazumemo z drugimi glavnimi svetovnimi finančnimi trgi, zlasti z Združenimi državami.
+<P>
+Zato sta potrebni večja dinamičnost in pomembnejša vloga evropskih institucij, vključno s tem parlamentom in vsemi, ki danes poslušajo.
+<SPEAKER ID="058" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Gospa predsednica, v celoti podpiram, kar je ravnokar dejal naš kolega. Temeljna predpostavka, ki jo gospod Radwan tudi določa v svojem poročilu, pri tem je, da mora institucija brez političnega mandata prav tako določiti sorazmerno veliko ukrepov za vpliv na gospodarstvo, med katerimi so nekateri obvezujoči. Ni dovolj le pozivati k izboljšanju vodenja ali boljšim okvirnim pogojem, politični organi morajo biti tudi bolj vključeni v to vprašanje, kot so bili v preteklosti. Tukaj v Parlamentu delamo korak v pravo smer, vendar jih moramo narediti več.
+<P>
+Razmisliti moramo o še enem vidiku. Kar se tukaj dela na ravni regionalne organizacije, v tem primeru v Evropski uniji, se mora kazati tudi na svetovnem področju. Torej ne gre za poskus izvajanja teh predpisov le v naši regiji sveta.
+<SPEAKER ID="059" NAME="Margarita Starkevičiūt" AFFILIATION="ALDE">
+(LT) Gospa predsednica, kot je moj kolega že dejal, to poročilo obravnava, kdo je za kaj pristojen v računovodskem postopku. Vloga Parlamenta je precej pomembna in prepričana sem, da moramo imeti tudi to funkcijo. Vendar imam nekaj pomislekov glede preučevanja vsake tehnične podrobnosti in vzpostavljanja standardov. Opis načina ocenjevanja in vrednotenja unovčljivih in neunovčljivih sredstev se mi ne zdi v celoti sprejemljiv. Zato dvomim, da moramo posredovati glede tega, ali je to dober ali slab način. Počakati moramo na oceno strokovnjakov. Medtem so se pregled standarda neunovčljivih sredstev in posvetovanja o tem vprašanju že začela. Šele takrat se moramo odločiti. Zato predlagam, da ne podpremo predloga v členu 30(e) ali členu 42.
+<SPEAKER ID="060" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Gospa predsednica, ali mi komisar McCreevy lahko zagotovi, da se zaradi enotnih splošnih računovodskih standardov, katerih posledica bo večja težnja po standardizaciji postopkov, ne bo povečala upravičenost do skupne konsolidirane osnove za davek od dobička pravnih oseb ali celo zahteva po njej?
+<SPEAKER ID="061" NAME="Charlie McCreevy">
+komisar. - Gospa predsednica, zahvaljujem se poslancem za pripombe. To je bila zagotovo zelo obsežna razprava z raznolikimi pogledi na veliko vprašanj, ki smo jih upoštevali.
+<P>
+Ponovno poudarjam, da so visokokakovostni mednarodni računovodski standardi ključni za učinkovito delovanje evropskih in svetovnih kapitalskih trgov. Proces, skozi katerega se razvijajo ti standardi, je treba zato strogo voditi. Odlikovati ga mora visoka raven preglednosti in zagotoviti mora uravnoteženo upoštevanje interesov zainteresiranih strani.
+<P>
+FUOMRS in UOMRS sta v zadnjih letih izvedla pomembne reforme svojih notranjih postopkov, vendar dejstva, da so potrebne dodatne izboljšave, ne morem zanikati. Poleg tega se zavedam, da se moramo v Evropi bolje organizirati, da bomo prispevali k procesu določanja standarda UOMRS. Skratka, tudi če bi bila vodenje UOMRS in predpisani postopek popolna, bi mednarodni računovodski standardi izpolnili le potrebe evropskih zainteresiranih strani, če se bodo njihovi pogledi predstavili usklajeno, prepričljivo in pravočasno.
+<P>
+Skoraj vsi govorniki so navajali vprašanje MSRP za mala in srednje velika podjetja, pri čemer ponavljam, da za njihovo odobritev v Evropi zdaj ni pravne podlage. Za to bi potrebovali soodločanje z Evropskim parlamentom. Naj ponovim, kar sem že večkrat dejal o MSRP za mala in srednje velika podjetja: ko si je UOMRS začenjal temi prizadevati za to, sem v več govorih precej jasno povedal, da od EU ne smejo pričakovati samodejne odobritve za ta zadevni projekt. To bi priporočali le, če bi bilo enostavno in učinkovito, ter če bi izpolnjevalo potrebe malih in srednje velikih podjetij.
+<P>
+To smo jim povedali, ko so opravljali svoje delo. Njihov prvi osnutek za javno obravnavo je bil predstavljen. Nato sem jim povedal, da ne izpolnjuje meril ter da v sedanjih razmerah ne morem niti pomisliti, da bi ga priporočal za mala in srednje velika podjetja, ker ni niti preprost niti učinkovit. Moje stališče ostaja takšno, vendar bi bilo glede na besede drugih in zlasti gospoda Purvisa dobro imeti preproste, učinkovite MSRP za mala in srednje velika podjetja, vendar zgolj na tej podlagi.
+<P>
+Zamisel je dobra. Ne želim je kritizirati, vendar ne bom ne zdaj ne v prihodnosti podprl ničesar, kar je za mala in srednje velika podjetja le še bolj zapleteno in česar nihče ne razume. To je nepotrebno. Ob tej priložnosti v tem parlamentu ponavljam, kar sem o tej temi že večkrat dejal.
+<P>
+Gospa van den Burg je navedla vprašanje glede standarda XBRL. Z regulativnim organom s področja vrednostnih papirjev si prizadevamo za sporazum o tehničnih standardih za poslovne podatke, pri čemer bodo lahko rezultat tega dialoga dodatni ukrepi Komisije glede interoperabilnosti regulativnih informacijskih sistemov. Standard XBRL bi lahko vlagateljem omogočil, da bi v celoti izkoristili MSRP. Za vse ukrepe za zahtevano uporabo standarda XBRL v Evropski uniji se mora izvesti natančna analiza vpliva, vključno z gospodarsko oceno stroškov in koristi.
+<P>
+O tej temi sem med svojim obiskom v Združenih državah tudi razpravljal s predsednikom ameriške Komisije za trg vrednostnih papirjev in borzo, gospodom Chrisom Coxom, in podpiram namero, da ta program ostane tema naših regulativnih dialogov z organi Združenih držav v prihodnosti. Ti standardi bodo morali biti mednarodno sprejeti, tehnološko neodvisni in interoperabilni.
+<P>
+To je zelo zanimiv razvoj in vem, da se je gospa van den Burg nedavno podrobneje seznanila z vsem tem. Pred nekaj meseci sem to storil tudi sam, pri čemer so mi strokovnjaki pokazali, kako to dejansko deluje. Menim, da je to nekaj precej revolucionarnega in nekaj, kar je treba pozdraviti, vendar za zdaj ne bomo še ničesar storili, dokler ne opravimo ostalega dela.
+<P>
+Gospod Mitchell je podal zanimivo pripombo. Menim, da je bila pomembna njegova izjava, da ne želimo, da UOMRS reče "organ EU ali kateri koli drugi organ". Želimo biti mednarodno sprejet organ, ker si je za takšen cilj vredno prizadevati, in ta organ mora biti neodvisen. Menim, da mora biti to samoumevno, vendar z ustreznim prispevkom različnih zainteresiranih strani.
+<P>
+Naj vse v Evropski uniji spomnim, da je ravno EU pripisala tako velik pomen UOMRS. Imeli smo največjo jurisdikcijo pri tem, da bi od leta 2005 MSRP postali obvezni za podjetja, ki kotirajo na borzi. Ta odločitev se je sprejela pred nekaj leti, s sodelovanjem Evropskega parlamenta, pri čemer je to samo po sebi dalo UOMRS in zadevnemu postopku večji pomen.
+<P>
+Kot sem že večkrat dejal tudi UOMRS, menim, da se mora takšno preizkušanje, ki mu lahko rečete tudi analiza vpliva, izvesti pred sprejetjem standardov, zlasti s strani UOMRS, ter s prispevki EU in tudi drugih organov. Ne smemo čakati, da bo UOMRS odobril te standarde. Naša dolžnost tukaj je, da se z njimi strinjamo ali jih zavrnemo. Naša vloga ni, da jih spreminjamo. Menim, da se morajo predhodno dovolj preizkusiti, da se pokažejo morebitne težave, ki se ne smejo pokazati šele, ko bo postopek UOMRS v celoti končan. Na to smo UOMRS večkrat opozorili. Upam, da večina med nami ceni nove strukture vodenja.
+<P>
+Priznavam, da se mora na tem področju opraviti več dela, vendar bo tako manj težav v prihodnosti. Upam, da bomo nekega dne dosegli, da bodo te stvari bolj ali manj samodejne in ne bodo nikomur povzročale glavobolov, ker bo vse delo že opravljeno. Potem ne bomo imeli težav.
+<SPEAKER ID="062" NAME="Alexander Radwan" LANGUAGE="DE">
+Gospa predsednica, gospod komisar, gospe in gospodje, najlepša hvala za to razpravo, pri kateri je glavna usmeritev tega poročila zares prejela podporo in so se na različnih področjih predstavile druge možnosti.
+<P>
+Poudarjam dve stvari. Prepričan sem, da se vsi strinjamo v eni točki, ki so jo danes večkrat poudarili govorniki, ki v celoti podpirajo ta splošni razvoj, in sicer da so se glede organizacije MSRP izvedli nekateri ukrepi, na primer v zvezi z vprašanji vodenja, kar je rezultat pritiska, ki sta ga izvedla ta parlament - Evropski parlament - in Evropska unija. Včasih moramo biti precej neposredni, pri čemer se zavedam, da so me zaradi tega nekatere kolegice kritizirale, ker so nekateri posamezniki, ki so se v zadnjih letih pojavili pred tem parlamentom, včasih dali nedvoumen vtis, da jih Evropski parlament bolj malo zanima. Kako malo je bilo napredka, je jasno iz predloga o vodenju, v katerem se predlaga, da lahko prihodnji nadzorni organi upoštevajo le nasvete oseb, ki so jih imenovali. Rečem lahko le, da se mora vsak, ki bo v prihodnosti moral poročati parlamentu o svojem glasovanju glede določene teme, prepričati, da sta sestavni del tudi delitev pristojnosti in soodločanje pri oblikovanju politike. To je prva točka.
+<P>
+Kako majhna je zavezanost v zvezi z ocenjevanjem učinka, je jasno iz sedanjih razprav, v katerih organizacija MSRP še vedno zavrača njihovo izvajanje.
+<P>
+Glede vprašanja standardov za mala in srednje velika podjetja želim nekaj povedati vsem, ki menijo, da jih moramo uvesti na prostovoljni podlagi. John Purvis me je navdihnil, da bom citiral neodvisnega komentatorja - John, to je zate. Peter Holgate, partner v PricewaterhouseCoopers, ki piše za nemški Financial Times, je dejal naslednje:
+<P>
+"Evropskega stališča ne jemljem preveč resno. Tudi če ga na koncu ne bodo odobrili, ga lahko različne države sprejmejo v svojih nacionalnih splošno sprejetih računovodskih načelih. Če to stori nekaj glavnih udeležencev, se je to uvedlo po drugi poti, kljub temu da ES pri tem ne želi sodelovati."
+<P>
+To dejansko pomeni, da se bodo ti standardi po tem, ko jih bo nekaj držav sprejelo, določili kot obvezni v celotni Evropski uniji. Takšna je strategija te organizacije. Podjetje PricewaterhouseCoopers je že navedlo, da to vidi kot poslovni model. Zato potrebujemo svoje lastne evropske standarde za mala in srednje velika podjetja: lahko izhajamo iz MSRP, če je to primerno, vendar bomo v nasprotnem primeru razvili svoje lastne standarde. V pristojnosti Komisije je, da zagotovi, da se nam standardi ne bodo vsilili prikrito, česar nihče noče, ampak bodo potem postali splošno zavezujoči.
+<SPEAKER ID="065" NAME="Predsednica">
+Ta razprava je končana.
+<P>
+Glasovanje bo potekalo danes ob 12.00.
+<P>
+Pisna izjava (člen 142)
+<P>
+(Seja je bila prekinjena ob 11.55 in se je nadaljevala ob 12.00.)

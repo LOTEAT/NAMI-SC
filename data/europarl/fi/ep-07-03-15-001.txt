@@ -1,0 +1,10 @@
+<CHAPTER ID="001">
+Istunnon avaaminen
+<P>
+(Istunto avattiin klo 10.05.)
+<P>
+
+<SPEAKER ID="006" NAME="Carl Schlyter" AFFILIATION="Verts/ALE">
+(SV) Arvoisa puhemies, haluan puhua protokollaan liittyvästä aiheesta. Kun eilen aioin puhua kaupan suojakeinoja koskevasta mietinnöstä ja lainata jäsen Muscardinin lokakuista mietintöä huomasin, että siitä puuttui tärkeä osa tekstiä. En tiedä, mitä tämän johdosta olisi tehtävä. Mietintö on laadittu lokakuussa 2006, mutta sen ruotsinkielisessä toisinnossa on vakava virhe, sillä sen 11 kohdasta puuttuu koko seuraava teksti: "with a view to including non-compliance with global social and environmental agreements or international covenants as forms of dumping or subsidy". Jos sosiaali- ja ympäristöalan dumppausta koskeva osuus puuttuu ruotsinkielisestä toisinnosta kokonaan, ruotsalaiset saavat väärän käsityksen parlamentin pyrkimyksistä.
+<SPEAKER ID="007" NAME="Puhemies">
+Hyvä jäsen Schlyter, huomautuksenne on hyvin tärkeä, ja se otetaan huomioon. Asia tarkistetaan ja tarvittavat toimet toteutetaan.

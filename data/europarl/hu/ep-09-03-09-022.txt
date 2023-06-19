@@ -1,0 +1,54 @@
+<CHAPTER ID="022">
+Az online szerencsejátékok tisztességessége (rövid ismertetés)
+<SPEAKER ID="200" NAME="Elnök">
+A következő napirendi pont a Schaldemose asszony által a Belső Piaci és Fogyasztóvédelmi Bizottság nevében az online szerencsejátékok tisztességességéről készített jelentés rövid ismertetése.
+<SPEAKER ID="201" NAME="Christel Schaldemose">
+előadó. - (DA) Elnök asszony, büszkeséggel és elégedettséggel tölt el, hogy ma este bemutathatom Önöknek az online szerencsejátékok tisztességességéről szóló saját kezdeményezésű jelentést. Mint tudják, a szerencsejátékok kérdése mindig nagyon ellentmondásos téma volt az Európai Parlamentben. A szerencsejátékok kikerültek a szolgáltatási irányelv hatálya alól, akárcsak az elektronikus kereskedelemről szóló irányelv hatálya alól, és a határok nélküli televíziózásról szóló irányelvből is ki lettek véve. Miért kell ennek így lennie? Nos, úgy vélem, a többségünk egyetért azzal, hogy a szerencsejáték igenis pénzügyi szolgáltatás - erről az Európai Bíróság is így döntött -, de teljesen különálló pénzügyi szolgáltatás. Az interneten zajló szerencsejátékot nem hasonlíthatjuk össze azzal, amikor veszünk egy elektromos vízforralót vagy megbízunk egy ácsot, hogy rakja le a parkettát, ezért ezzel külön kell foglalkozni. A tagállamok eddig ezt is tették. Megalkották saját szigorú szabályozásaikat, hogy védjék a fogyasztókat a szerencsejáték-függőséggel szemben, valamint a csalással és a bundázással szemben, illetve hogy megelőzzék a pénzmosást. Céljaik közé tartozott még a közrend fenntartása is. Azonban nem minden szerencsejáték egyforma. Az internetes szerencsejáték valójában számos olyan kihívással jár, amelyek a "szárazföldi” szerencsejátékok esetében nem fordulnak elő, részben a határokon átnyúló jellege, illetve a könnyű elérhetősége miatt.
+<P>
+A jelentést övező tárgyalások olykor hevesebbre sikerültek, mint ahogy szerettem volna. Nagyon megosztottak voltunk például abban a kérdésben, hogy az internetes szerencsejáték nagyobb veszélyt jelent-e a szerencsejáték-függőség kialakulása szempontjából. Ez némileg meglep, mivel a számok önmagukért beszélnek. Egy Svédországban és más országokban végzett tanulmány azt mutatja, hogy a szerencsejáték-függőség kialakulásának veszélye ötször-hétszer nagyobb, ha az adott személy az interneten pókerezik, mint ha egyszerűen a való világban menne el pókerezni. Készségesen elismerem azonban, hogy nem ismerjük az internetes szerencsejáték valamennyi következményét a fogyasztókra nézve. Ez azon területek közé tartozik, ahol ténylegesen meg tudtunk állapodni valamiről, mégpedig arról, hogy több információra van szükségünk a tekintetben, hogy hogyan tudnánk a legjobban megvédeni a fogyasztókat.
+<P>
+A jelentésben mindazonáltal szerepel hat olyan pont, amelyekre itt szeretném felhívni a figyelmet a mai estén:
+<P>
+1. a Belső Piaci és Fogyasztóvédelmi Bizottságban jelentős többség véli úgy, hogy az online szerencsejáték működtetőinek nemcsak a szolgáltatásnyújtás helye szerinti tagállam szerencsejátékra vonatkozó jogszabályait kellene betartaniuk, hanem a fogyasztó lakóhelye szerinti tagállamét is;
+<P>
+2. a bírósági értelmezés előtt politikai szinten kell tisztázni, hogy hogyan kezeljük az európai online szerencsejáték-piac jelentette kihívásokat és problémákat;
+<P>
+3. jelentősen meg kell erősíteni a tagállamok közötti együttműködést;
+<P>
+4. szabályokat kell kidolgoznunk annak érdekében, hogy védjük a fogyasztókat a csalással, a szerencsejáték-függőséggel és más kapcsolódó veszélyekkel szemben;
+<P>
+5. több kutatásra van szükség ezen a területen; és végül
+<P>
+6. az Európai Parlament teljes mértékben támogatja a Tanács által elindított kezdeményezéseket és folyamatot, és szorgalmazzuk, hogy a Bizottság adja hozzá a támogatását.
+<P>
+Összességében úgy vélem, hogy a jelentés hozzá fog segíteni ahhoz, hogy a szerencsejáték-ágazatot visszahozzuk arra a politikai területre, ahová tartozik. Ez egy kiegyensúlyozott jelentés, és a bizottságon belül is jelentős támogatást kapott, annak ellenére, hogy kényes kérdésről van szó. Az elfogadása 32 igen, 10 nem szavazattal történt. A Belső Piaci és Fogyasztóvédelmi Bizottságon belüli kisebbség egy alternatív állásfoglalást terjesztett elő. A nézeteik közül igyekeztem minél többet beépíteni a jelentésbe, de olyan alapvető politikai különbségek vannak, hogy mindegyiket nem lehetett belefoglalni. Kollégáimnak köszönöm a támogatást, és remélem, hogy a jelentésem holnap elnyeri a nagy többség támogatását.
+<SPEAKER ID="202" NAME="Jacques Barrot">
+a Bizottság alelnöke. - (FR) Elnök asszony, Schaldemose asszony, a Bizottság üdvözli az Európai Parlament e saját kezdeményezésű jelentését. Dicséri a Belső Piaci és Fogyasztóvédelmi Bizottság és előadóként az Ön, Schaldemose asszony munkáját, és különösen üdvözli a tisztességesség témájában végzett kutatásokat.
+<P>
+Mint kollégám, McCreevy úr a korábbi beszédeiben hangsúlyozta, a tagállamokban jelenleg alkalmazott megközelítések között túl nagyok a különbségek ahhoz, hogy lehetővé tegyenek egy jogalkotási kezdeményezést. A Versenyképességi Tanácsban folytatott legutóbbi tárgyalások világosan megmutatták, hogy a tagállamok egy ilyen kezdeményezésről nem tudnának megállapodásra jutni.
+<P>
+Emellett a Szerződés is kínál néhány vezérelvet. A Bíróság ítélete, a 2007. márciusban meghozott Placanica-ítélet a közelmúltban megerősítette, hogy a sportfogadási tevékenységek valóban szolgáltatásnak minősülnek a Szerződés 49. cikke értelmében. A tagállamoknak joguk van nemzeti szinten szabályozni a szerencsejátékot. Amennyiben korlátozni kívánják a szerencsejáték-tevékenységeket, nekik kell elvégezniük a kutatásokat e korlátozások indoklására, például a függőséggel vagy a csalással kapcsolatban.
+<P>
+Ha bizonyítást nyer, hogy ezekre az intézkedésekre szükség van, a Szerződés előírásai szerint ezeket úgy kell meghozni, hogy ne alkalmazzanak megkülönböztetést a nemzeti szolgáltatók és a más tagállamokban működő szolgáltatók között.
+<P>
+A Bizottság a hozzá benyújtott panaszok kivizsgálása révén kívánja teljesíteni feladatát, és bármilyen szükséges eljárást be fog vezetni, amennyiben bebizonyosodik, hogy a Szerződést megsértették.
+<P>
+Biztató megfigyelés, hogy a jogsértési eljárások alkalmazását követően néhány tagállam, köztük Franciaország, Magyarország és Olaszország közelebb került a Bizottsághoz, és kötelezettséget vállalt a jogszabályainak módosítására. A Bizottság természetesen dolgozik azon, hogy segítsen a tagállamoknak megoldást találni a jogsértési eljárásokra válaszul.
+<P>
+A Bizottság 2006-ban adta ki a szerencsejáték-piac jogi és gazdasági vonatkozásairól készült kutatásait. E körülmények között a Bizottság úgy érzi, hogy jelenleg nincs szükség arra, hogy nagyobb szerepet játsszon a nemzeti jogszabályokról és a tágabb kérdésekről, például a függőségről, a csalásról vagy más elítélendő tevékenységekről szóló kutatások elkészítésében. Ez a jelentés azonban tartalmaz néhány különösen hasznos magyarázatot.
+<SPEAKER ID="203" NAME="Elnök">
+A napirendi pontot ezzel lezárom. A szavazásra holnap kerül sor.
+<P>
+Írásbeli nyilatkozatok (az eljárási szabályzat 142. cikke)
+<SPEAKER ID="995" NAME="Lasse Lehtinen  " AFFILIATION="PSE">
+írásban. - (FI) Holnap meglátjuk, hogy Európa sok részén még mindig megvan-e a nemzeti akarat a szerencsejátékra vonatkozó, létfontosságú monopóliumuk fenntartására, és ez Finnországra ugyanígy igaz. Fontos az Európai Parlament támogatása a Finn Nemzeti Lottójáték, a Finn Nyerőgép-szövetség és a Fintoto szerencsejáték-szolgáltató számára, mivel a Bizottság által indított jogsértési eljárások még mindig napirenden vannak. Az európai sportmozgalom és a tömegsport szempontjából fontos, hogy a tagállamok megőrizhessék nemzeti szerencsejáték-rendszereiket.
+<P>
+Abban is alapvető szerepük van, ami a finnországi sportélet sajátos jellemvonása, hogy a társadalmi támogatással végzett önkéntes munka a magas szintű sporttevékenységeknek is az egyik alapvető támasza. A szerencsejáték mellékhatásai ellen is könnyebb fellépni az olyan országokban, ahol az államnak monopóliuma van. Az online szerencsejáték a szerencsejátékból származó bevételeknek mindössze kb. 5%-áért felel, de az ágazat növekedése rendkívül gyors. Ezért fontos, hogy a tagállamok jogai változatlanul megmaradjanak, az internet korában is. Nem szabad elfelejtenünk, hogy a Lisszaboni Szerződés elfogadása után az EU hatáskört nyer a sport bizonyos területein. Ez segíteni fogja a professzionális sport mellékhatásai, mint például a rasszizmus, a dopping és a huliganizmus elleni küzdelmet.
+<SPEAKER ID="994" NAME="Zita Pleštinská  " LANGUAGE="SK">
+Az interneten folyó szerencsejátékból származó bruttó bevételek 2004-ben 2-3 milliárd eurót tettek ki. Az előbb említett SICL tanulmány szerint most az EU teljes szerencsejáték-piacának közel 5%-át jelentik. A jövőben elkerülhetetlen a gyors növekedés, ezért világos, átlátható szabályok kellenek.
+<P>
+Schaldemose asszony jelentése más megközelítésben szemléli az európai szerencsejáték-ipart, ezért nem tudom támogatni. Nem tesz különbséget az engedéllyel rendelkező, törvényesen működő szerencsejáték-szolgáltatók és a gyakran engedély nélkül, törvénytelenül működő szolgáltatók között.
+<P>
+Abból a tényből kell kiindulni, hogy a legtöbb európai államnak van szerencsejáték-ipara. Egyetértek azzal, hogy továbbra is az egyes tagállamoknak kell meghatározniuk az internetes szerencsejátékra vonatkozó szabályokat. Amíg nincs használható bizonyíték a játékosokkal szembeni fenyegetésekre, pénzmosásra vagy a sportban előforduló korrupcióra, nem szabad minden vállalkozást bűnözőnek tekintenünk. Vannak komoly cégek is, amelyek a legjobb technológiát használják, és a törvényeknek megfelelően működnek.
+<P>
+Nem támogatom, inkább ellenzem az internetes szerencsejátékot. Véleményem szerint azonban egy általános tilalom csak ezen tevékenységek növekedéséhez és törvénytelenségéhez, továbbá a szabályok teljes hiányához vezetne. Szerintem a kollégáimmal közösen megfogalmazott álláspont tisztességesebb, világosabb alternatívát kínál az előadó jelentéséhez képest.

@@ -1,0 +1,64 @@
+<CHAPTER ID="025">
+Derivatmarknader: förestående initiativ (kortfattad redogörelse)
+<SPEAKER ID="197" NAME="Talmannen">
+Nästa punkt är ett betänkande av Werner Langen, för utskottet för ekonomi och valutafrågor, om derivatmarknader: förestående initiativ -.
+<SPEAKER ID="198" NAME="Werner Langen" LANGUAGE="DE">
+Fru talman! Först av allt vill jag tacka mina kolleger som hjälpt mig att utarbeta ett mycket omfattande betänkande till följd av kommissionens meddelande. Jag tackar dem för deras vilja att kompromissa och för det faktum att vi inte bara lyckats enas om en lösning på miniminivå, utan även hittat fungerande kompromisser.
+<P>
+Jag vill också tacka kommissionsledamot Michel Barnier för att han nu vill göra något praktiskt i denna fråga. Charles McCreevy - er föregångare inom detta ansvarsområde - fick man driva till handling. Jag är säker på att ni snabbt, tillförlitligt och korrekt kommer att lägga fram förslag om reglering av finansmarknaderna och sedan genomföra dem tillsammans med oss. Jag kan bara säga att ni gör rätt i att inte vänta på siste man i ledet eller störande inflytande i rådet. Ni har parlamentet helt på er sida för en tydlig och rättvis reglering av derivatmarknaderna.
+<P>
+Vi antog betänkandet i utskottet med bred majoritet - 43 röster för, 1 emot, 1 nedlagd röst - och några av de professionella observatörerna från andra medlemsstater var förvånade över att vi efter den kontroversiella debatten kunde få fram en resolution med så pass starkt stöd. Alla ansträngde sig för att hitta lämpliga kompromisser, även på de två punkter som dittills hade varit omtvistade, nämligen styrning och villkoren för clearingorganisationer samt formuleringen om tredjeländers reglering, som vi har debatterat intensivt. Kommissionen har i dag inlett ett offentligt samråd med två delområden - handlingarna har funnits tillgängliga sedan i eftermiddags. Dessa områden är dels blankning, dels derivat och marknadens infrastruktur. Jag anser att vi behöver strängare regler i denna förordning, och nu när den första delen av krisen på finansmarknaden delvis har övervunnits och den andra delen ligger framför oss bör vi inte låta denna enorma marknad, som motsvarar tolv gånger bruttovärldsprodukten, förbli oreglerad. Detta omfattar OTC-derivat, men också andra punkter, och som vi alla vet är detta bara en del av regleringen av finansmarknaden, inte hela.
+<P>
+En finansmarknadskris och derivat som inte säljs på börsen har otvivelaktigt förvärrat krisen. USA:s redovisningsregler och nettningen inom interna banktransaktioner har försvårat insynen. I synnerhet har försäkringarna mot kreditförluster på statsobligationer råkat i vanrykte.
+<P>
+När det gäller Grekland finns det heller inga bevis för att handeln med kreditswappar har orsakat krisen. Tvärtom står det helt klart att det inte är spekulanterna utan medlemsstaternas skuldproblem som är den främsta orsaken. Vi kan därför bara lösa problemet om vi först löser skuldproblemen.
+<P>
+Genom de senaste årens erfarenheter har vi identifierat ett annat problem, nämligen att de sex största institutens marknadsinflytande utgör ett problem. Dessa sex stora institut - tre europeiska och tre i Förenta staterna - står för 80 procent av derivatmarknaden. Vi minns erfarenheterna från 1992 då det spekulerades mot det brittiska pundet och pundets anslutning till euron förhindrades på grund av Soros. Vi minns också enskilda förkämpar som vid den tidpunkten lade märke till att vissa centralbanker måste göra slut på alla sina resurser.
+<P>
+Marknaden behöver regler. Det behövs en strikt reglering, och i besluten från utskottet för ekonomi och valutafrågor finns totalt 48 punkter om detta. De handlar om standardisering av derivat, transaktionsregister, inrättande av centrala clearingorganisationer, användning av centrala handelsplatser, förbättring av marknadsintegriteten och marknadstillsynen, om att derivat för företag och slutanvändare måste regleras var för sig och om att vi behöver de tidigare nämnda reglerna för ägande.
+<P>
+Slutligen vill jag försäkra kommissionsledamoten om parlamentets ovillkorliga stöd och breda majoritet. Sitt inte i baksätet och åk med, utan ta täten och vi kommer att stå vid er sida.
+<SPEAKER ID="199" NAME="Kay Swinburne" AFFILIATION="ECR">
+(EN) Fru talman! Jag välkomnar Werner Langens betänkande som ett steg på den svåra vägen mot en effektiv reglering av derivatprodukter. Vi har tydligt sett att bristen på insyn inom detta område kan leda till att okända risker byggs upp i vårt finansiella system. Men Werner Langens betänkande visar också att derivaten kan tjäna det motsatta syftet genom att sprida riskerna för små och stora företag, vilka kommer att bli grunden för EU:s ekonomiska återhämtning.
+<P>
+Det gläder mig att parlamentet nu tydligt har framfört åsikten att många slutanvändare bör undantas inte bara från clearing, utan också från säkring av derivat och kapitalkrav. Jag håller visserligen inte med om allt i Werner Langens slutliga betänkande, särskilt när det gäller förbud mot vissa typer av produkter, eftersom jag menar att detta kräver betydligt mer forskning om vi ska lyckas undvika att ekonomiska innovatörer kringgår överdrivet detaljerade regler genom omprofilering eller genom att ta fram ännu mer komplexa produkter. Men jag är ändå övertygad om att lagstiftningsprocessen fortsätter både i EU och globalt och att vi kommer att hitta genomförbara och effektiva lösningar för derivatinstrumenten.
+<SPEAKER ID="200" NAME="Elena Băsescu" AFFILIATION="PPE">
+(RO) Jag vill för det första tacka Werner Langen för allt hans arbete med detta betänkande. Derivatinstrument anses vara en av de grundläggande faktorer som bidrog till att utlösa finanskrisen. Med syftet att förebygga nya kriser kommer kommissionens förslag om derivatmarknaden att minska den risk som dessa instrument utgör för EU:s ekonomi.
+<P>
+För att återupprätta förtroendet på de finansiella marknaderna krävs en ramlagstiftning som bidrar till att öka öppenheten och gör det lättare för marknadsaktörerna att bedöma riskerna korrekt. På kort sikt är det viktigt att minska motpartsrisken. Detta kan åstadkommas genom att man oftare använder clearing genom centrala motparter. Transaktionerna måste centraliseras genom en central motpart för att insynen ska öka. På så sätt kan centrala motparter bidra till att bevara aktiemarknadens integritet.
+<SPEAKER ID="201" NAME="Michel Barnier">
+ledamot av kommissionen. - (FR) Fru talman, ärade ledamöter! Först vill jag tacka Werner Langen för hans betänkande, liksom utskottet för ekonomi och valutafrågor. Betänkandet kommer lägligt, håller hög kvalitet och tar upp frågor av ekonomisk och politisk vikt. Werner Langen ställer alla de rätta frågorna - vilket inte förvånar mig som känner honom - och han har antagit och föreslagit en ambitiös ståndpunkt. Jag tror att detta verkligen är rätt strategi för denna fråga, med tanke på dess stora finansiella och ekonomiska betydelse.
+<P>
+Vi är alla medvetna om att när vi diskuterar derivatmarknaden talar vi om en marknad värd 600 biljoner dollar och om produkter som används dagligen av banker, men också av företag, för att täcka eventuella fluktuationer i valutakurser och räntesatser, eller oljeprisets volatilitet.
+<P>
+Som Kay Swinburne sade är dessa produkter bra för våra ekonomier, men samtidigt kan de vara en riskkälla och som det är nu faller de utanför alla former av insyn och registrering. Det är det som måste ändras, och det är vad Werner Langen föreslår i sitt betänkande. Det är också den strategi som kommissionen tillkännagav i sitt meddelande om derivatmarknaden i oktober 2009, och som jag personligen bekräftade för parlamentet den 13 januari 2010, som ni kanske minns. Detta visar att jag, som jag sade den 13 januari, mycket riktigt har för avsikt att sitta i förarsätet och inte i passagerarstolen.
+<P>
+Med just detta i sinnet vill jag också bekräfta min avsikt att lägga fram ett lagstiftningsförslag om OTC-derivat i sommar - i början av september för att vara mer exakt. Målen är klara: vi vill öka insynen, fastställa en allmän standardiseringsprocess och stärka marknaderna.
+<P>
+Men vi måste göra allt detta snabbt, effektivt och utan att improvisera. Parlamentets bedömning ligger på bordet, mina enheter har arbetat i flera månader och har fört en ständig dialog med alla berörda parter. Faktum är vi i dag har inlett ett offentligt samråd för att finslipa våra förslag kring vissa specifika aspekter. Jag vill till exempel nämna de kriterier som måste antas för att göra derivatclearing obligatorisk - alla derivat kan inte standardiseras.
+<P>
+En annan fråga är den om typ och nivå för tillsynskrav för riskhantering, som vi måste ha när det gäller clearingorganisationer, en fråga som Elena Băsescu med rätta tog upp. Dessa clearingorganisationer borde göra det möjligt för oss att minska systemrisker, och vi måste vara mycket noga med att se till att de kan lyckas genom att skapa alla de förutsättningar som krävs för att de ska kunna fullgöra den rollen.
+<P>
+En tredje fråga är på vilka villkor clearingorganisationer i tredjeländer ska kunna erbjuda dessa tjänster i EU. Vi har också frågorna om den potentiella samverkan mellan clearingorganisationer och om transaktionsregister. Det är mycket viktiga infrastrukturer, eftersom de kommer att samla alla uppgifter om transaktioner. Hur ska vi reglera dem? Bör vi kräva att de ska vara etablerade i Europeiska unionen? Allt detta är frågor som vi kommer att ägna stor uppmärksamhet, och vi bör vara uppmärksamma på de svar som vi kommer att få. Vi kommer också att ta hänsyn till resultaten av samrådet i vår konsekvensbedömning och i lagförslaget.
+<P>
+Jag vill lyfta fram några fler specifika punkter i Werner Langens betänkande. För det första har jag noterat parlamentets oro kring clearingorganisationernas ägandeförhållanden och risken för att clearingorganisationerna får en alltför stor kontroll över användarnas del. Jag vill liksom Werner Langen att vi ska vara medvetna om eventuella intressekonflikter, men samtidigt måste vi beakta de grundläggande EU-reglerna om investeringsfrihet, och dessa regler rimmar illa med en reglering av clearingorganisationernas ägandeförhållanden. Vi kommer dock att fortsätta att arbeta med denna fråga.
+<P>
+Det är en känslig fråga och jag vill inte undvika den. Jag tog upp frågan i samrådet och hur det än blir behöver vi strikta styrmekanismer för att minimera eventuella intressekonflikter.
+<P>
+Jag har också noterat att ni föredrar att clearingorganisationer och centrala transaktionsregister ska ha sitt säte inom EU. Personligen är jag för det tillvägagångssättet. Det är därför vi i samrådet presenterar tre olika alternativ när det gäller transaktionsregistren.
+<P>
+Om de ska ligga delvis i EU och delvis utanför blir det dock en utmaning att se till att samma regler gäller för alla och att våra behöriga myndigheter har direkt, omedelbar och ovillkorlig tillgång till den information de behöver.
+<P>
+I betänkandet framhålls också att Europeiska värdepappers- och marknadsmyndigheten (Esma) ska ha en stark roll när det gäller att granska clearingorganisationer samt reglera och utöva tillsyn över transaktionsregistren. Det är också en mycket viktig fråga som vi måste fortsätta att arbeta med. Ansvaret för tillsyn och godkännande är kopplat till skattskyldigheten.
+<P>
+Om Esma ska få tillsynsansvaret skulle det i teorin innebära att Esma också måste ta budgetansvar, vilket är svårt att föreställa sig i nuläget. Vi har dock ännu inte fattat något slutligt beslut i frågan.
+<P>
+Jag delar också era farhågor kring volatiliteten på marknaden för råvaruderivat. Jag arbetar just nu just med frågan om volatilitet och, som jag sagt till parlamentet, med hur man ska kunna kontrollera alla risker för spekulation och hyperspekulation och vad jag anser vara skandalösa transaktioner med jordbruksprodukter. Här måste vi också sträva efter en allmän insyn och öppenhet på marknaderna och skapa verktyg för att bekämpa en överdriven volatilitet.
+<P>
+Slutligen vill kommissionen hitta en lösning på de problem som nyligen konstaterats på derivatmarknaden, särskilt när det gäller statsskulder. I dag har jag också inlett ett samråd om blankning, som även omfattar statskreditswappar (CDS). Vi kommer att lägga fram ett lagförslag i september.
+<P>
+Jag anser därför uppriktigt - och gläder mig åt att personligen kunna säga till er - att Langenbetänkandet uppvisar den nivå av engagemang som krävs för dessa mycket allvarliga frågor för att kunna definiera och genomföra en strategi för OTC-derivatmarknaden, så att den kan bli säkrare, öppnare och effektivare. I många avseenden är betänkandet dessutom ett mycket användbart och viktigt incitament för våra regeringar och för kommissionen, vilket jag också tackar för.
+<SPEAKER ID="202" NAME="Talmannen">
+Debatten är härmed avslutad.
+<P>
+Omröstningen kommer att äga rum i morgon (tisdagen den 15 juni 2010).

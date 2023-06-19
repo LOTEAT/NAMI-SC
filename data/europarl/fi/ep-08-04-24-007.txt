@@ -1,0 +1,12 @@
+<CHAPTER ID="007">
+Äänestykset
+<SPEAKER ID="068" NAME="Puhemies">
+(EN) Esityslistalla on seuraavana äänestykset.
+<P>
+(Äänestysten tulokset ja niiden kulkua koskevat yksityiskohdat: ks. pöytäkirja)
+<SPEAKER ID="069" NAME="Véronique De Keyser" AFFILIATION="PSE">
+(FR) Arvoisa puhemies, halusin ilmoittaa teille, ettei äänestyskorttini toimi, sillä laitoin juuri koneeseen kortin, jonka luulin hävittäneeni toimistoon ja joka ei koneen mukaan nyt kelpaa. Olen siis paikalla, haluan äänestää ja minulla on äänestyskortti mukana, mutta kortti ei enää toimi. En tiedä, mitä minun pitäisi tehdä, mutta haluaisin tästä merkinnän pöytäkirjaan.
+<SPEAKER ID="070" NAME="Puhemies">
+(EN) Lähetämme teknikon paikalle, jotta voitte osallistua äänestykseen.
+<P>
+Haluaisin vain huomauttaa ennen kuin aloitamme äänestykset, etten aio lukea ääneen nimenhuutoäänestysten tuloksia numeroina; kerron vain, onko tulos hyväksytty vai hylätty.

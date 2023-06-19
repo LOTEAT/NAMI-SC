@@ -1,0 +1,450 @@
+<CHAPTER ID="012">
+Kérdések órája (a Bizottsághoz intézett kérdések)
+<SPEAKER ID="353" NAME="Elnök">
+A következő napirendi pont a kérdések órája. (B6-0161/2008).
+<P>
+A Bizottsághoz a következő kérdéseket intézték.
+<SPEAKER ID="354" NAME="Miloslav Ransdorf" AFFILIATION="GUE/NGL">
+(CS) A következő kérdést szeretném intézni a Bizottsághoz: milyen mértékben kötelező...
+<P>
+(Az elnök megvonja a szót a felszólalótól.)
+<SPEAKER ID="355" NAME="Elnök">
+Sajnálom, de a kérdések itt vannak kinyomtatva. A szabály szerint sajnos nem tehet fel spontán kérdést.
+<P>
+Első rész
+<P>
+Tárgy: Mobil hívásvégződtetési díj
+<P>
+Április 4-én a belga bíróság (2007/AR/3394 sz. ügy) felfüggesztette a belga országos posta- és távközlési szabályozó hatóság (IBPT) egyik, a mobil hívásvégződtetési díj meghatározásáról szóló határozatát. Az egyik fő érv az volt, hogy a mobil hívásvégződtetési díj meghatározásánál a nagy mobilszolgáltatók méretgazdaságossági szempontjait is figyelembe kell venni.
+<P>
+A Bizottság iránymutatónak tekinti-e a belga bíróság érveit a mobil hívásvégződtetési díjakról a közeljövőben megjelenő közleményében?
+<P>
+A Bizottság osztja-e azt az álláspontot, hogy azoknak távközlési társaságoknak, melyek ma jórészt felelősek a mobiltelefonos szolgáltatások piacán kialakult versenyért - a "kihívóknak” -, a közleményben elegendő időt kellene megszabni ahhoz, hogy az esetleges új szabályozáshoz igazodhassanak?
+<SPEAKER ID="357" NAME="Mariann Fischer Boel">
+a Bizottság tagja. - A tisztelt képviselő által feltett kérdés a Brüsszeli Fellebbviteli Bíróságnak a belgiumi mobil hívásvégződtetési díjakról szóló, a 2007. december 18-i IBPT szabályozási határozat felfüggesztését kimondó, 2008. április 4-i határozatára vonatkozik. A szabályozói határozatról a keret-irányelv 7. cikkének értelmében a Bizottság előzetesen értesítést kapott, és azt értékelte. A Bizottság tud a fellebbviteli bíróságnak erről a határozatáról, és a nemzeti szabályozó hatóság, az IBPT, arról is tájékoztatta, hogy e megsemmisítést követően országos vitát indított egy olyan határozat-tervezetről, amely ugyanolyan aszimmetrikus módon határozná meg a mobil hívásvégződtetési díjtételeket, mint előző, 2006. augusztus 11-i szabályozói határozatában.
+<P>
+A közösségi konzultációs mechanizmus (a "7. cikk szerinti eljárás”) kapcsán a Bizottság számos alkalommal kifejtette azt a nézetét, miszerint a hívásvégződtetési díjtételeket a keletkező költség szintjére kell leszállítani, mégpedig azért, hogy a különböző szolgáltatók között egyenlő versenyfeltételek alakuljanak ki, hogy a szolgáltatókat ösztönözzük a hatékonyságra, és a fogyasztók számára előnyösebb feltételek alakuljanak ki, ideértve az alacsonyabb árakat is. A Bizottság elismerte, hogy a szolgáltatóknak a keletkezett költség szintjének eléréséhez átállási időszakra van szükségük. Mindemellett a magasabb hívásvégződtetési díjtételek fenntartása nem lenne indokolt egy megfelelően hosszú időszak után, melynek folyamán a szolgáltatók alkalmazkodhatnak a piaci feltételekhez, és hatékonnyá tehetik működésüket, hacsak nincsenek olyan objektív költség-különbségek, melyekre az érintett szolgáltatók nincsenek hatással.
+<P>
+A Bizottság nem téveszti szem elől azt, hogy a hívásvégződtetési díjtételek szabályozásának eltérő megközelítései akadályozhatják a belső piac megszilárdítását, valamint a határokon átnyúló versenyből és szolgáltatásokból származó előnyök a fogyasztók számára érezhető jelentkezését. A Bizottság ezért kiemelt feladatként kezeli, hogy a hívásvégződtetési piacok szabályozásában a szolgáltatóknak és a nemzeti szabályozó hatóságoknak iránymutatást, valamint nagyobb jogbiztonságot nyújtson. Ezért a Bizottság jelenleg a mobil és a vezetékes hívásvégződtetési díjak közös szabályozásáról szóló ajánláson dolgozik, melynek célja a nagyobb átláthatóság és következetesség elérése ezen a jelentős, ugyanakkor nagyon összetett területen, amo a fogyasztók számára a megfizethető árak, valamint az innovatív szolgáltatások hatékony fejlesztése területén a lehető legelőnyösebb megoldást biztosítaná. Ez az ajánlás a nemzeti bíróságok számára is iránymutatásként működhet.
+<P>
+A belső piac megszilárdulását az is akadályozhatja, ha a különböző tagállamok bíróságainak határozatai olyan helyzethez vezetnek, melyben a bíróságok eltérően értelmezik azt, hogy hasonló versenyproblémákat miként kell kezelni. A Bizottság mindenesetre - többek között a hívásvégződtetési piacok terén - szorosan figyeli az összes olyan bírósági határozatot és ítéletet, mint például azt a fellebbviteli bírósági határozatot, melyre a tisztelt képviselő kérdésében utal.
+<SPEAKER ID="358" NAME="Lambert van Nistelrooij" AFFILIATION="PPE-DE">
+(NL) Elnök asszony, köszönetemet szeretném kifejezni a biztos asszonynak a válaszáért, melyben nagyon jól elemezte a helyzetet. Reagálásképpen a következőt kérdezem: Ön hol látja az említett különbségeket a tagállamok között? A belgiumi ítélet láthatóan azt jelzi, hogy a nagy szolgáltatók és a piacra újonnan belépők között még mindig nincsenek meg ténylegesen az egyenlő versenyfeltételek. Ez az átmeneti időszak meghosszabbításához is vezethet? Azt jelentené-e ez, hogy Európa-szerte több időt kínálnának az említett alkalmazkodáshoz? Most mindenesetre azt látjuk, hogy ezen a piacon a kis szolgáltatók az áldozatok.
+<SPEAKER ID="359" NAME="Mariann Fischer Boel">
+a Bizottság tagja. - A Bizottság legelejétől fogva elismerte, hogy - miként első felszólalásomban is leszögeztem - a szolgáltatóknak átmeneti időszakra van szükségük ahhoz, hogy elérhessék a megfelelő költséghatékonysági szintet.
+<P>
+Az ideiglenes aszimmetriákat azonban ésszerű határidőn belül fokozatosan meg kell szüntetni. A magasabb hívásvégződtetési díjtételek fenntartása nem lenne indokolt egy megfelelően hosszú időszak után, melynek folyamán a szolgáltatók alkalmazkodhatnak a piaci feltételekhez, és hatékonyabbá tehetik a működésüket, hacsak - miként már előzőleg is mondottam - nincsenek olyan objektív költség-különbségek, melyekre az érintett szolgáltatók nincsenek hatással.
+<P>
+A költséghatékony vagy költségalapú szintet meghaladó árak engedélyezése csökkenti az ösztönzőket, amelyek szolgáltatókat innovációra és az árak minimizálására sarkallják. Ráadásul ez végül olyan helyzetet eredményezhetne, amelyben a fogyasztók magasabb árakat fizetnének annál, mint amilyeneket a költségalapú szimmetrikus hívásvégződtetési díjak esetében. Ennélfogva a hívásvégződtetési díjakat a lehető leghamarabb költséghatékony szintre kell leszorítani anélkül - és ezt is leszögeztem az előbb -, hogy ez a társaságok vagy a fogyasztók helyzetét hátrányosan érintené.
+<P>
+Tárgy: Válságmenedzselési politika a magas piaci árak kezelésére
+<P>
+A kőolajárak emelkedése, napjaink élelmiszer-válsága, valamint a tisztességtelen haszonszerzés és a nem hatékony ellenőrzések következtében kialakult magas piaci árak továbbra is kedvezőtlen hatással vannak az inflációra és a háztartások jövedelmére. Ez a kritikus helyzet összehangolt európai választ kíván.
+<P>
+A Bizottság miként és milyen intézkedésekkel szándékozik kezelni a jelenlegi válságot, amely káros hatással van a nemzeti gazdaságok fejlődésére, csökkenti a háztartások jövedelmét, és ezáltal a közvéleményt arra készteti, hogy megkérdőjelezze az eurónak a kőolaj árképzésére gyakorolt hatását?
+<P>
+Az Európai Unió milyen intézkedéseket szándékozik foganatosítani annak érdekében, hogy feltartóztassa az árucikkekből való tisztességtelen haszonszerzés nemzetközi hullámát? Közösségi és nemzeti szinten létrehoz-e válságmenedzselési mechanizmust? A nemzeti hatóságokat miként és milyen intézkedésekkel fogja segíteni a tisztességtelen haszonszerzés kezelésében, amely elsősorban bizonyos gazdasági társaságok gazdasági erőfölénye miatt következik be?
+<P>
+A Bizottság prioritásai között szerepel-e bizonyos alapvető élelmiszerek fogyasztói árának maximalizálása?
+<P>
+Elfogadható-e, hogy mostanában egyes kormányok az állami bevételeket közvetett adók emelésével kísérlik meg növelni? Helyes lenne-e európai szinten csökkenteni az egyes alapvető élelmiszerekre és árucikkekre kivetett ÁFÁ-t és közvetett adókat?
+<P>
+Tárgy: Áremelkedések az Európai Unióban
+<P>
+A bioüzemanyagok és az élelmiszerek iránti kereslet növekedése az oka többek között annak, hogy ezeknek az alapvető árucikkeknek az ára jelentősen megemelkedett, és ez a kisjövedelmű európai polgárokat különösen keményen sújtja. Ezzel egyidejűleg azok a korlátozások, melyek egy sor árucikk termelésére vonatkoznak, nem adnak lehetőséget a versenyre, amely pedig letörné az áremelkedéseket. Milyen intézkedések történtek az uniós piacon az élelmiszer-áremelkedések visszaszorítására?
+<SPEAKER ID="361" NAME="Mariann Fischer Boel">
+a Bizottság tagja. - Minthogy a két kérdés, ahogy az Elnök ezt helyesen megjegyezte, többé-kevésbé összefügg egymással, szeretném megragadni az alkalmat arra, hogy mindkét kérdésre egyszerre válaszoljak.
+<P>
+Ha az eurozónát nézzük, az 1970-es és '80-as évek 8-10%-os inflációja a '90-es években 3%-ra mérséklődött, és az Európai Monetáris Unió első évtizedében valamivel a 2%-os átlag fölött mozgott.
+<P>
+2007 harmadik negyedévétől azonban az energia és az élelmiszerek területén bekövetkezett világméretű árrobbanások nem csak az Európai Unión belül, hanem az egész világon mindenhol az inflációs nyomás megnövekedéséhez vezettek.
+<P>
+Az erős euró a múltban bizonyos mértékig mérsékelte a növekvő vagy emelkedő üzemanyag- és kőolajárak hatását. Ma azonban azzal kell szembesülnünk, hogy a múlt év augusztusi 1,9%-ról 2008 áprilisára az inflációs ráta valóban 3,6%-ra szökött fel.
+<P>
+A Bizottság a közelmúltban bekövetkezett élelmiszer-árnövekedésről "Az emelkedő élelmiszerárak jelentette kihívás kezelése: Irányvonalak az uniós fellépés számára" című közleményében fogalmazta meg álláspontját. Egy sor más tényező mellett a magasabb kőolaj-árak az Európai Unión belül egyrészt a mezőgazdaságban felhasznált eszközök magasabb ára, másrészt a logisztikai költségek miatt az agrárpiaci árak emelkedését eredményezték.
+<P>
+Jóllehet a mezőgazdasági áruk iránti keresletet a bioüzemanyagok piaca is befolyásolja, a Bizottság által végzett összes elemzés azt mutatja, hogy az élelmiszerek árának világméretű emelkedése mögött különböző okok húzódnak meg. Strukturális és átmeneti tényezőkből egyaránt erednek, és az Európai Unió jelenlegi bioüzemanyag termelése vajmi kevés hatással van az élelmiszerek jelenlegi világpiaci árára, ugyanis a rendelkezésünkre álló legutóbbi becslések szerint az Európai Unión belül a termőföldnek csak mintegy 1%-át hasznosítják bioüzemanyag-előállításra.
+<P>
+Ugyanakkor az is világos, hogy a mezőgazdasági árak közelmúltbeli növekedése csak részben magyarázza a kiskereskedői szinten tapasztalható élelmiszerár-emelkedést, így aztán néha jelentős eltérés van a mezőgazdasági üzem nagybani eladási ára, valamint a szupermarketekben vagy a boltokban látható fogyasztói ár között.
+<P>
+Mivel a jelenlegi válságnak sok különböző vetülete van, a Bizottság által javasolt válasz is ugyanilyen átfogó, és szándéka szerint a magasba szökő élelmiszeráraknak mind a rövidtávú következményeit, mind a hosszútávú okait kezeli. A mezőgazdasági ágazatban tapasztalható árnyomás enyhítésére a közös agrárpolitikán (CAP) belül a piaci orientáció javítására és a termelés fellendítésére már újabb ösztönzőket alakítottunk ki: e termelési évben a kötelező területpihentetést nullára csökkentettük, valamint 2008. áprilisi hatállyal megemeltük a tejkvótákat, azaz tényleg nagyon gyorsan reagáltunk. Ezen túlmenően az Európai Unió úgy döntött, hogy a folyó gazdasági évre a legtöbb gabonafélére felfüggeszti a behozatali vámokat.
+<P>
+E kérdésekkel a közös agrárpolitika állapotfelméréséről szóló közelgő tárgyalások során nyilvánvalóan tovább fogunk foglalkozni.
+<P>
+Annak érdekében, hogy különösen a legrászorultabb uniós polgárok igényeivel foglalkozni tudjunk, tervbe vettük a rendszer korszerűsítését és aktualizálását. Ebben az ügyben még ez év folyamán javaslatot fogunk benyújtani.
+<P>
+Úgy gondolom, az is fontos, hogy továbbra is ösztönözzük és előmozdítsuk a mezőgazdasági ágazat - nemcsak európai, hanem világméretű - fenntartható termelésnövekedését célzó mezőgazdasági kutatásokba történő befektetéseket.
+<P>
+Az agrárpiaci árképzést illetően a Bizottság elkötelezett aziránt, hogy nyomon kövesse a mezőgazdasági árukkal a pénz- és értékpapírpiacokon spekuláló befektetők tevékenységét, valamint az ármozgásokra gyakorolt hatásukat.
+<P>
+Az piaci erőfölény kérdésével kapcsolatban: minden piaci erőfölénnyel való visszaélés a Szerződés 82. cikkének vagy az ezzel egyenértékű nemzeti szabályoknak a hatálya alá esik. A Bizottság és a nemzeti versenyhatóságok éberen őrködnek az Európai Unió versenyjogának bármiféle megsértése fölött.
+<P>
+A Bizottság különös gondot fordít annak szavatolására, hogy a közösségi koncentráció a fogyasztók és a különböző vállalkozások rovására ne gátolja jelentősen a tényleges versenyt. Ebben az összefüggésben a Bizottság a kiskereskedői ágazatnak az egységes piaci felülvizsgálat keretében felállított nyomon követésével párhuzamosan az élelmiszer-ellátási lánc működését is meg fogja vizsgálni.
+<P>
+A Szerződés értelmében a tagállamok és a Közösség által foganatosítandó intézkedéseket a belső piac és a határokon átnyúló verseny elveivel összhangban fogják meghozni. Egyelőre nincs tervbe véve bizonyos alapvető élelmiszerek legmagasabb fogyasztói árának meghatározása.
+<P>
+A Bizottság tud arról, hogy egyes kormányok a közbevételeket a közvetett adók emelésével igyekeznek növelni. A Bizottság osztja továbbá a pénzügyminiszterek által kifejtett nézetet, miszerint a szükséges kiigazításokat megkerülő, torzító hatású fiskális és egyéb politikai intézkedéseket el kell kerülni.
+<P>
+Végezetül a Bizottság úgy véli, hogy adott esetben indokoltak lehetnek azok a rövidtávú, célzott intézkedések, amelyek a magasabb energiaáraknak a lakosság szegényebb rétegeire gyakorolt hatását hivatottak enyhíteni. Ezeknek az intézkedéseknek természetesen nem lehet torzító hatásuk, sem nem hátráltathatják a szükséges szerkezeti kiigazításokat. Azt hiszem, mindannyian egyetérthetünk abban, hogy az általános adó- vagy HÉA-csökkentés természetéből adódóan nem a lakosság szegényebb rétegeit célozza.
+<P>
+A Bizottság fellépését nem csupán Unión belüli érvényesülő hatások motiválják. Úgy gondolom, valamennyiünknek kötelessége egyenlő versenyfeltételeket biztosítani akkor is, amikor a fejlődő országokról beszélünk; a Bizottság eddig több mint 300 millió eurót mozgósított humanitárius élelmiszersegélyek céljára, és jelenleg, a két héttel ezelőtt lezajlott FAO-csúcs (az ENSZ Élelmezési és Mezőgazdasági Szervezete) következtetéseivel összhangban, tevékenyen munkálkodunk a nemzetközi szintű összehangolt válasz előmozdítása érdekében.
+<P>
+Ezért úgy gondolom, hogy megfelelően reagáltunk azokra a kihívásokra, melyekkel az új helyzet következtében mindannyiunknak szembe kell néznünk.
+<SPEAKER ID="362" NAME="Katerina Batzeli" AFFILIATION="PSE">
+(EL) Elnök asszony, mindenekelőtt köszönetemet fejezem ki a biztos asszonynak a kérdésemre adott kimerítő válaszáért. Mégis hadd világítsak rá két kérdésre, melyekkel a Bizottságnak inkább azonnal, mintsem középtávon foglalkoznia kellene.
+<P>
+Az első az árak, és különösen az élelmiszerárak kézben tartása, miként azt Ön nagyon helyesen mondotta. Nem annyira a legmagasabb fogyasztói ár, mint inkább a termelési költségek és a gazdasági társaságok által realizált haszonkulcs meghatározásáról van szó, feltéve, hogy ez a korlát nem jelent akadályt a belső piacon vagy a behozatal tekintetében.
+<P>
+A második megjegyzésem pedig arra vonatkozik, hogy míg a területpihentetés kérdése és a tejkvóták növelése üdvözlendő intézkedés, véleményem szerint az emelkedő olajárak mellett a növényvédő szerek előállítási költségének megemelése nem biztos, hogy kifizetődő intézkedés lesz.
+<SPEAKER ID="363" NAME="Leopold Józef Rutowicz" AFFILIATION="UEN">
+(PL) Felszólalásom elején hadd köszönjem meg a biztos asszonynak a tárgyról adott kimerítő válaszát.
+<P>
+Van néhány probléma, amelyet érdekesnek találok. Az első a cukortermelés kvótáival való kereskedelem. A cukorkereskedelem köztudottan korlátozza különböző országokban bizonyos termelési kapacitások kihasználását, és az aggályok e területen egy meghatározott magatartást kényszerítenek ki. Ha a cukortermelés korlátokba ütközik, a verseny automatikusan eltűnik.
+<P>
+A másik kérdés az, hogy egy sor olyan alapélelmezési cikkre - például a banánra - vetnek ki bizonyos vámokat, amelyekből a legszegényebbeknek származik előnye, Ezeket a vámtételeket meg kell vizsgálni. A banán ugyanis végeredményben a gyermekek tápláléka, a szegény családok gyermekeiéi. A nem szeszes italoknak minősülő alapvető élelmezési cikkekre kivetett illetékeket szintén vizsgálat tárgyává kell tenni. Egyetértek azzal, hogy a piacot felügyelni és ellenőrizni kell, ugyanúgy, ahogy a piaci árakat is ellenőrizni kell, de a Bizottság vajon felhasznál-e importárukat arra a célra, hogy csökkentse bizonyos, olcsóbb árucikkekből származó árucikkek árát a nemzeti piacon, amelynek (...).
+<P>
+(Az elnök megvonja a szót a felszólalótól.)
+<SPEAKER ID="364" NAME="Mariann Fischer Boel">
+a Bizottság tagja. - Batzeli asszony, úgy gondolom, fontos, hogy legyen egy működő ellenőrző rendszerünk, amelynek révén elérhetjük, hogy az árak ne nőjenek az égig, és a nemzeti versenyhatóságoknak pontosan az a feladata, hogy szemmel tartsák ezt a kérdést. Elárulom, hogy a Bizottságon belül is vitát folytattunk a versenyjogi biztossal, és nagyon is tudatában vagyunk ezeknek a problémáknak.
+<P>
+Rutowicz úrnak: nem tudom, hogy Ön a cukorreformra utal-e, amelynek során elhatároztuk, hogy az Európai Unión belül 6 millió tonnával csökkentjük a cukortermelést, és megtaláltuk a lehetőséget arra, hogy a cukortermeléssel önkéntesen felhagyó gazdáknak nagyon korrekt kompenzációs csomagot kínáljunk fel. Ez a döntés azonban néhány évvel ezelőtt született.
+<P>
+Az importtermékek áráról: igen, ez valóban a behozatali vámoktól függ, és a WTO dohai fejlesztéspolitikai fordulójának keretében ezekben a napokban éppen erről folynak a tárgyalások, vagyis arról, hogy megállapodásra juthatunk-e a vámtételek általános csökkentéséről.
+<P>
+Végezetül a gyümölcsfogyasztás előnyeiről: nem mondok ellent Önnek, és a következő ülésen, mely itt, Strasbourg-ban lesz, éppen ezért fogunk előterjeszteni egy, az iskoláskorú gyermekek számára kidolgozott gyümölcs- és zöldségkoncepciót, ami - meggyőződésem szerint - felettébb üdvös módon járul majd hozzá a kisgyermekek helyes szokásainak kialakításához.
+<SPEAKER ID="365" NAME="DanutBudreikait" AFFILIATION="ALDE">
+(LT) Kérdésem a jövedéki adóra vonatkozik. Az alkoholra kivetett jövedéki adóról szóló viták során olyan javaslatok hangzottak el, hogy a jövedéki adó legyen nulla kulcsos. Mi a véleménye az üzemanyagokra kivetett jövedéki adóról, hiszen a jelenlegi helyzet semmilyen hasonló ideiglenes megoldásra nem enged következtetni? Az élelmiszer- és más ágazatokban fenyegető áremelkedés elkerülése érdekében lehetne-e csökkenteni az üzemanyagokra kivetett jövedéki adót, még ha ideiglenesen is?
+<SPEAKER ID="366" NAME="Andreas Mölzer" AFFILIATION="NI">
+(DE) Biztos asszony, a növekvő élelmiszerárak uniós nagyságrendű jelenséget jelentenek, és különösen súlyosan érintik az alacsony jövedelmű családokat és az alacsony bérből- és fizetésből élőket, majdhogynem anyagi romlásba döntve őket. A leginkább nélkülöző társadalmi csoportoknak szánt tervezett európai élelmiszersegély-program milyen mértékben fog előrelépést jelenti annak érdekében, hogy az élelmiszerárak említett növekedésétől, sőt: az éhínségtől fenyegetett emberek gyorssegélyben részesüljenek?
+<SPEAKER ID="367" NAME="Mariann Fischer Boel">
+a Bizottság tagja. - Először is, a HÉA-csökkentést nem tartom lehetséges megoldásnak. Ma az olajárak hordónként 136-137 USD körül mozognak; ha netalán csökkentenénk a HÉÁ-t, mi lenne a következő kérés, ha a kőolaj ára hordónként 160 USD közelébe kúszna - csökkentsük tovább?
+<P>
+A megoldás keresése során sokkal előrelátóbbnak kell lennünk, és ezért vág ide, hogy ösztönöztük az olajfüggőség csökkentését célzó befektetéseket. Ez lehetséges a mezőgazdasági ágazatban, és jelenleg a halászati ágazat esetében is erről folytatunk megbeszéléseket, hiszen a halászati ágazat még jobban függ a kőolaj árától. Következésképpen az új technológiákba való befektetés az egyszerű HÉA-csökkentésnél sokkal előrelátóbb megoldás.
+<P>
+A másik felvetett kérdésre válaszul: még ez évben az Európai Unió legrászorultabb társadalmi csoportjait megcélzó javaslatot fogunk előterjeszteni. Van már létező rendszerünk, de fennmaradása a többletkészletektől - a mezőgazdasági termékek intervenciós készleteitől - függ, márpedig az intervenciós készletek kimerültek. Ezért jogalapra van szükségünk egy új rendszer kialakításához, és remélem, hogy a tisztelt képviselők elégedettek lesznek, amikor meglátják, hogy a rendszer gazdasági alapjának fenntartására, sőt, erősítésére, milyen megoldást mérlegelünk. Teljes mértékben egyetértek azzal, hogy rendes megoldást kell találnuk.
+<SPEAKER ID="368" NAME="Jim Allister" AFFILIATION="NI">
+Biztos asszony, a 27. kérdésre adott válasza során Ön kijelentette, hogy az európai uniós termőföldeknek csak 1%-át hasznosítják bioüzemanyag termelésére. Tekintettel arra, hogy milyen sok gabonafélét hozunk be a tengerentúlról, talán relevánsabb lenne tudni, hogy Észak-Amerikában mennyi ez a százalék, ott ugyanis növekszik ez az arány, és így sokan arra a következtetésre jutunk, hogy a bioüzemanyagok ténylegesen felgyorsítják az állati takarmányok árának emelkedését. Tehát felvilágosítana bennünket erről?
+<P>
+Másodsorban ebben a vonatkozásban egy másik gyorsító tényező az, hogy a Bizottság továbbra is halogató és vonakodó hozzáállást tanúsít a GMO-változatok jóváhagyása kapcsán, melyek sokkal olcsóbbak lennének. Tájékoztatna bennünket arról, hogy jelenleg hol áll ez az ügy, és milyen előrelépés történt? Közelebb kerültünk-e az ellátást biztosító kulcsterületek tekintetében az összehangolt jóváhagyásokhoz?
+<SPEAKER ID="369" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
+(PL) Biztos asszony, szeretném megkérdezni, hogy a Bizottság tervezi-e a gyermekruházatra kivetett HÉA csökkentésének megvizsgálni, ami megkönnyítené a nagycsaládosokra nehezedő adóterheket, de nem a jómódú családokét.
+<SPEAKER ID="370" NAME="Mariann Fischer Boel">
+a Bizottság tagja. - Mindenekelőtt úgy gondolom, hogy amikor az Európai Unión belül a bioüzemanyagok kerülnek terítékre, ne mutogassunk arra, hogy az EU milyen módon kezeli ezt a kérdést. Mégpedig azért, mert ha a bioetanolt és a biodízelt bűnbaknak kiáltjuk ki, olyan helyzet állhat elő, hogy senki sem akar majd befektetni. Ekkor teljesen lemaradnánk, és a bioetanol- és biodízel-importtól fogunk függni, ugyanis ha ezeket az üzemanyagokat nem termeljük meg, nem leszünk képesek 2020-ra elérni az üvegházhatást okozó gázok kibocsátásának 20%-os csökkentését előíró célkitűzését. Ezért megoldást kell találnunk, márpedig ma az egyetlen megoldást az első generációs bioüzemanyagok jelentik.
+<P>
+Ugyanakkor - és azt hiszem, ebben egyetértünk - a lehető legnagyobb mértékben ösztönöznünk kell a mezőgazdasági ágazatban keletkező és jelenleg másra nem használt hulladékból, híg trágyából, szalmából és egyéb anyagokból - például faforgácsból - termelt, második, sőt harmadik generációs bioüzemanyagok kutatását és fejlesztését. Ez a jövő, de a fejlesztésben részt kell vállalnunk, ezért az első generációra mint ugródeszkára szükségünk van.
+<P>
+A GMO-król: tudom, hogy e Házban eltérő nézeteket vallanak, de nyilvánvaló, hogy olyan helyzetre van szükségünk, amelyben állataink, a hústermelés számára megfizethető áron tudjuk behozni a takarmányt. Máskülönben - és ez egyébként többek között a GMO-gabonaféléket, elsősorban a kukoricát is jelenti - ha nem találunk megoldást, meglátják, hogy Európában zuhanni fog a hústermelés. És ekkor Brazíliából leszünk kénytelenek húst behozni - olyan húst vagy állatokat, melyeket az Önök által vagy a fogyasztók által nem kedvelt GMO-kkal etettek, de amelyeket a hátsó ajtón visszacsempészve önök mégiscsak elfogyasztanak majd. És úgy gondolom, ezzel tényleg becsapnánk a fogyasztókat.
+<P>
+Ezért saját jóváhagyási rendszert kell kialakítanunk, és úgy gondolom, hogy jelenleg előrelépés történik annak érdekében, hogy visszavegyük a még nem jóváhagyott kérelmeket, és minőségromlás nélkül felgyorsítsuk az EFSA-n belüli eljárást.
+<P>
+Végül, Elnök asszony, hadd valljam be kerek-perec, hogy nem vagyok a gyermekruházatra kivetett HÉA szakértője, ezért rossz válasz helyett azt javasolnám, inkább foglalják írásba ezt a kérdést.
+<P>
+Második rész
+<P>
+Tárgy: Haltenyésztési stratégia
+<P>
+Az Egyesült Nemzetek Élelmezési és Mezőgazdasági Szervezetének előrejelzése szerint minden jel arra mutat, hogy a haltermékek fogyasztása 2030-ra 50%-kal megnő; a kereslet nagy részét a haltenyésztés fogja kielégíteni, ami azt jelenti, hogy a kibocsátás mintegy 40 millió tonnával megugrik. Tekintettel arra, hogy a halállomány folyamatosan csökken, a hal- és kagylókereslet pedig világméretekben nő, a haltenyésztés fokozódó jelentőségre tesz szert.
+<P>
+Ennek a fényében a haltenyésztéssel kapcsolatos uniós stratégia bizottsági felülvizsgálata tartalmaz-e a haltenyésztési ágazat vonatkozásában a tengeri tervezéssel kapcsolatos iránymutatásokat? A Bizottság milyen intézkedéseket szándékozik hozni annak érdekében, hogy a közösségi termékek versenyképesebbé váljanak harmadik országok termékeihez viszonyítva, ahol a termelési előírások kevésbé szigorúak? Az említett ágazat fejlesztése érdekében a Bizottság tervez-e egyéb reformintézkedéseket?
+<SPEAKER ID="373" NAME="Joe Borg">
+a Bizottság tagja. - Mindenekelőtt szeretnék köszönetet mondani a Gklavakis képviselő úrnak azért, hogy kérdésében kiemeli az akvakultúra fontosságát, és nagyon örülök, hogy a témáról kifejthetem a Bizottság véleményét.
+<P>
+Miként Ön helyesen rámutatott, és miként ezt az Egyesült Nemzetek Élelmezési és Mezőgazdasági Szervezete is kiemelte, az akvakultúra-ágazat a világon egyre nagyobb jelentőségre tesz szert, és - főként a csökkenő vadon élő halállomány miatt - kulcsszerepet játszik a tengeri eredetű élelmiszerek iránti növekvő kereslet, valamint a haltermékek kínálata közötti szakadék áthidalásában.
+<P>
+A Bizottság jelenleg az uniós akvakultúra fenntartható fejlődését célzó stratégiáról szóló közleményt készít elő, amelyet 2008 végéig véglegesítenie kell. A stratégia az akvakultúra fenntartható növekedéséhez legkedvezőbb környezet megteremtését tűzi ki célul, amely egyrészt az Európai Unió polgárai számára biztosítja a tengeri eredetű élelmiszerek megfelelő kínálatát, másrészt szavatolja a szigorú környezetvédelmi és közegészségügyi szabványok betartását.
+<P>
+Az akvakultúra területhez jutását ugyanis fejlődésének egyik alapvető akadályaként azonosították, és a tengeri területhasználat tervezése e kérdés kezelésében fontos szerepet játszhat. A közeljövőben elkészülő akvakultúra-stratégia ki fog terjedni erre a kérdésre.
+<P>
+Az alacsonyabb előálltási szabványokkal rendelkező harmadik országok kérdését olyan piacdifferenciálási konstrukciókkal lehetne megoldani, mint a tanúsítási rendszer. A stratégia kidolgozása során e kérdést megfontolás tárgyává tesszük.
+<P>
+Még általánosabban: a versenyképesség és az innováció a stratégia központi témáit fogják képezni.
+<SPEAKER ID="374" NAME="Ioannis Gklavakis" AFFILIATION="PPE-DE">
+(EL) Elnök asszony, hadd fejezzem ki köszönetemet a biztosnak a válaszáért.
+<P>
+Hadd szóljak még valamiről. Miként Ön is kiemelte, Biztos úr, a fogyasztók egyre inkább a tengeri eredetű élelmiszerek - a hal, a kagylófélék és hasonlók - felé fordulnak. Az elmúlt években ezenfelül a biotermékek népszerűsége is rohamosan nőtt a fogyasztók körében. Tapasztaljuk, hogy az ágazatban dolgozók közül sokan fordulnak az ökológiai haltenyésztés felé, amely nem csak egészségesebb élelmiszerrel látja el a fogyasztókat, hanem környezetbarátabb is, és ez nagyon fontos szempont.
+<P>
+Az Európai Bizottság tervez-e az ökológiai haltenyésztést előmozdító, erősítő és támogató intézkedéseket, és ha igen, el tudná-e mondani, milyen intézkedésekről lehet szó, és miként lehetne ezt az általunk támogatandónak tartott igen fontos ügyet előmozdítani?
+<SPEAKER ID="375" NAME="Joe Borg">
+a Bizottság tagja. - A növekvő keresletre vonatkozó kérdéssel kapcsolatban el kell mondani, hogy az akvakultúra-termékek, a tengeri eredetű élelmiszerek és a tenyésztett halak fogyasztása kétségtelenül növekszik, exponenciálisan nő, ami határozottan üdvözlendő, hiszen köztudomású, hogy a különböző közösségi vizek és a világ más tengereinek halállományai túlhalászottak. Odajutottunk, hogy rövid- és középtávon elképzelhetetlen a fogási tömeg növelése, ezért a növekvő keresletet tenyésztett hal forgalmazásával kell fedezni.
+<P>
+Mindemellett - miként ezt válaszomban is jeleztem - különleges szempontok miatt ez már önmagában is problémát okozhat, és problémát okozhat a halhús-kínálat tekintetében is, mivel a halhús legnagyobbrészt a rosszabb minőségű ipari halfogáson alapul, amely halállományokat szintén jelentős mértékben lehalásszák.
+<P>
+Az ökológiai akvakultúrát illetően: mi magunk is ösztönözzük ennek a fejlesztését. A nyilvános konzultációs eljárás azt mutatta, hogy a biológiai termelési módot tovább kell fejleszteni, és várakozással tekintünk afelé, hogy a közleményben, valamint a később előterjesztendő csomagban milyen úton-módon lehetne biztosítani az ökológiai akvakultúra külön említését; miként járulhatunk hozzá az ökológiai akvakultúra további előmozdításához, és milyen, az ökocímkézési konstrukciókhoz hasonló intézkedéseket lehet foganatosítani annak érdekében, hogy a fogyasztók rájöjjenek: érdemes biotermékeket fogyasztani. Reméljük, hogy ezáltal tovább segíthetjük e fontos termelési ágazat fejlődését.
+<SPEAKER ID="376" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Elnök asszony, Biztos úr, a beszéde végén közvetetten említette az ökocímkézést. A kérdés, amelyet közvetetten én is fel akartam tenni, az, hogy van-e bármi garancia arra, hogy nem csak a hal eredete, hanem előállítási módja és az előállításának a leírása is átlátható lesz a fogyasztók számára, és így a fogyasztók megtudhatják, hogy a hal honnan származik, és hol tenyésztették. Itt nem annyira arról van szó, hogy a folyamatnak vannak-e ökológiai érdemei vagy sem, hanem inkább magáról a származásról. Van-e erre vonatkozóan következetes szabályozás?
+<SPEAKER ID="377" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Biztos úr, ugyanebben a témában rögtön a következőkkel szeretném kiegészíteni az előttem szólót: nemrég több osztrák fogyasztóvédelmi szervezet megkeresett azzal, hogy - különösen az Európai Unióba behozott, így Ausztriába is bekerülő kagylók tekintetében - a jelek szerint gazdasági okokból megnőtt az antibiotikumokkal és más nemkívánatos gyógyszerekkel való kezelés mértéke, talán azért, mert így könnyebb tenyészteni őket. Ezek az anyagok azután az élelmiszerláncon keresztül az emberi szervezetbe jutnak. A Bizottság hoz-e olyan intézkedéseket, amelyek a jövőben ennek a gyakorlatnak a korlátozását vagy megakadályozását célozzák?
+<SPEAKER ID="378" NAME="Joe Borg">
+a Bizottság tagja. - A haláru eredetének kérdésével kapcsolatban két dologra szeretném felhívni a figyelmet. Először is a vadon kifogott halak kapcsán, melyek gyakran kötnek ki a feldolgozó láncban - ezeket a halakat legtöbbször harmadik országokban fogják ki, de gyakran saját halászaink is fognak ilyeneket - most épp egy olyan rendelet elfogadásának folyamatában vagyunk, mely az illegális halászati tevékenység visszaszorítását célozza. Ez már önmagában is jelentősen meg fogja szilárdítani rendszerünket, aminek eredményeképp az illegálisan kifogott hal sem eredeti, sem feldolgozott állapotában nem kerülhet majd be a közösségi piacra. Ez a dolog egyik oldala.
+<P>
+Az akvakultúrával kapcsolatban pedig vizsgáljuk, hogy milyen úton-módon lehetne biztosítani azt, hogy a Közösségbe behozott tenyésztett halból készült termékek megfeleljenek az egészségügyi szabványoknak és követelményeknek, és így a fogyasztók bizonyosak lehessenek afelől, hogy az általuk fogyasztott termékek megfelelnek a saját termékeinkre alkalmazott egészségvédelmi szinteknek. Ezt jelenleg is vizsgálja az Egészség- és Fogyasztóügyi Főigazgatóság, és van tanúsítási rendszer is, amely annak igazolására szolgál, hogy a Közösség piacára behozott termékek megfelelnek az egészségügyi szabványok előírásainak.
+<P>
+Egy ezzel összefüggő kérdéssel kapcsolatban fontos kiemelni, hogy - miként előzőleg is mondottam -tanulmányozzuk az akvakultúrából származó termékek ökocímkézésének lehetőségét. Kezdetben csak a vadon kifogott halak ökocímkézésén gondolkodtunk, mert a paraméterek különbözőek. Itt az ökocímkézés fő célja annak szavatolása, hogy a halállományt fenntartható módon halásszák le, ezért ha a piacon megjelenő haltermékek túlhalászott halállományokból származnak, semmilyen ökocímkézésben nem részesülhetnek.
+<P>
+Az akvakultúrából származó haltermékek ökocímkézése esetében a paraméterek eltérőek, ezért itt más szempontokra kell alapozni, például arra, hogy a halakat a környezeti, humán- és állategészségügyi szabványoknak megfelelő körülmények között tenyésztették. Megvizsgáljuk a paramétereket, és később nyilván javaslatokkal állunk majd a Parlament elé, melyek célja ebben a tekintetben önkéntes ökocímkézési rendszerek minimumkritériumainak bevezetése vagy bevezetésének megkönnyítése, illetve az ezen rendszerek működését szabályozó minimumkritériumok meghatározása lesz.
+<P>
+Tárgy: Biztonsági tonnatartalom iránti kérelem
+<P>
+2006. június 13-án az Elsőfokú Bíróság 20 ír biztonsági tonnatartalom iránti kereset ügyében kedvező ítéletet hozott, amely 20 biztonsági tonnatartalom iránti keresetekre nézve megsemmisíti a 2003. április 4-i 2003/245/EK bizottsági határozatot. A Bíróság úgy ítélte meg, hogy a Bizottság olyan kritériumokat használt, melyekről a szabályok nem rendelkeznek (azaz a hajóknak legalább 5 évesnek kell lenniük ahhoz, hogy biztonsági tonnatartalmat kérvényezhessenek), valamint hogy a Bizottság hatásköri túllépést követett el.
+<P>
+A 97/413/EKtanácsi határozat által előírtaknak megfelelően (lásd a 4. cikk (2) bekezdését) az összes biztonsági tonnatartalom iránti kérelmet 2001. december 31. előtt benyújtották a Bizottsághoz.
+<P>
+A Bíróság úgy ítélte meg, hogy akkor, amikor e személyek esetében a Bizottság megtagadta a biztonsági tonnatartalmat, a Bizottság e cikket nem megfelelően alkalmazta. A Bizottság kifejtené, hogy e határozatot miért nem fellebbezték meg, és a pernyertes felperesek majdnem két év eltelte után miért várnak még mindig választ a Bizottságtól arra, hogy a Bizottság miként szándékozik betartani a Bíróság döntését?
+<SPEAKER ID="380" NAME="Joe Borg">
+a Bizottság tagja. - Szeretnék köszönetet mondani Crowley úrnak a kérdéséért, amely lehetőséget nyújt számomra, hogy felvessem a biztonság erősítése érdekében a halászhajók űrtartalmának növelésére irányuló ír keresetről szóló 2006. június 13-i elsőfokú bírósági ítéletet követő intézkedések kérdését.
+<P>
+A Bizottság úgy döntött, hogy nem fellebbez az Elsőfokú Bíróság 2006. június 13-i ítélete ellen. A Bíróság megállapította, hogy a 2003. április 4-i bizottsági határozatban valamennyi idetartozó ügyet nem megfelelően értékelték. Az ítéletet követően a Bizottság úgy határozott, hogy teljesebb elemzésen alapuló, és az összes kérdéses ügyben világosabb következtetéseket felmutató új határozatokat fogad el.
+<P>
+A felperesek valóban még mindig várnak az új bizottsági határozatokra. Ugyanakkor azt is meg kell jegyezni, hogy a bizottsági szolgálatok felhívták Írországot, hogy az összes tonnatartalom-növelési kérelem esetében küldjön be újabb konkrét szakmai információkat. Az ismételt felszólítások ellenére Írország csak néhány kérelem esetében tette meg ezt.
+<P>
+Az új értékelést a mindenre kiterjedő ír válasz hiánya hátráltatta. A Bizottság jelenleg véglegesíti mindegyik kérelem új és alapos értékelését, és a tervek szerint az eredményekről ez év júliusában tájékoztatja Írországot.
+<SPEAKER ID="381" NAME="Brian Crowley" AFFILIATION="UEN">
+Köszönöm a biztos válaszát. Ugyanakkor némi kétely maradt bennem abban a tekintetben, hogy a biztonsági tonnatartalomra vonatkozó döntés a biztonsági tonnatartalom automatikus megadásából fog-e kiindulni, mégpedig azért, mert a Bizottság eredetileg hibás határozatot hozott, vagy pedig új kérvényeket kell majd beadni. Ezért van némi vita arról, hogy az információnyújtásra megtörténik-e vagy sem.
+<P>
+A Bizottság esetleg tud-e felvilágosítást nyújtani arról, hogy azon kérelmezők új kérelmeit, akik már korábban is beadtak ilyet, és akiknek a Bíróság határozatában igazat adott, milyen valószínűséggel fogják kedvezően elbírálni?
+<SPEAKER ID="382" NAME="Joe Borg">
+a Bizottság tagja. - Az Elsőfokú Bíróság határozata nem azt állapította meg, hogy a felpereseknek érdemben igazuk van, hanem azt, hogy a Bizottság olyan határozatot hozott, amely valamennyi idetartozó ügy nem megfelelő értékelésén alapult. Tekintettel arra, hogy az általunk hozott döntés nem eléggé szilárd alapokon nyugodott, felkértük Írországot, hogy szolgáltasson újabb információkat annak érdekében, hogy döntésünket szilárdabb alapokra helyezhessük.
+<P>
+Minthogy az első határozat valamennyi üzembentartót egységesen kezelte, az egyes üzembentartókra vonatkozóan egyedi információkat kértünk be. A közeljövőben meghozandó határozatunk minden egyes üzembentartóra egyénileg vonatkozik majd.
+<P>
+Amennyiben az egyes szolgáltatók vonatkozásában újabb információnyújtásra nem került sor, nem tartom valószínűnek, hogy a Bizottság álláspontja változna a jövőben. Ahol van újabb információ, ott ezt mérlegelni fogjuk, és amennyiben a mérlegelés során azt látjuk, hogy érdemes támogatni, akkor támogatni fogjuk. Amennyiben viszont úgy látjuk, hogy a kiegészítő információk dacára a kérelem nem érdemes támogatásra, döntésünk mindennek ellenére elutasító lesz.
+<P>
+Tárgy: Az észak-amerikai behozatal hatása az ír kagylóhalászokra
+<P>
+Az ír kagylóhalászokra jelenleg negatív hatást gyakorol az Egyesült Államokból és Kanadából behozott, a gyenge dollár miatt olcsó importáru. A kagylók ára gyorsuló ütemben zuhan lefelé. A Bizottság mit tervez e halászok megsegítésére, akik Írország tengerparti gazdaságában kiemelkedően fontos szerepet játszanak?
+<SPEAKER ID="384" NAME="Joe Borg">
+a Bizottság tagja. - Tisztában vagyok azzal, hogy a közelmúltban bizonyos hal- és kagylótermékek piaci árai Írországban és a Közösségben máshol is jelentősen csökkentek. Tudomásom szerint e kérdés elsősorban a homár árával van összefüggésben, amelynek első eladáskori ára Írországban rendes esetben 15 euro/kilogrammnál magasabb, de jelenleg 10 euro/kilogrammra zuhant vissza.
+<P>
+A homár esetében a kereskedelmi számadatok azt mutatják, hogy 2006-ban és 2007-ben az előző hat évhez viszonyítva a behozatal növekvő tendenciát mutatott. A Kanadából származó összes közösségi behozatal a 2000-2005-ös bázisidőszakhoz képest 2006-ban 12%-kal, 2007-ben pedig 7%-kal nőtt; az Egyesült Államokból származó import ugyanezen bázisidőszakhoz viszonyítva 2006-ban 27%-kal, 2007-ben pedig 26%-kal bővült.
+<P>
+Ezzel együtt az Egyesült Államokból vagy Kanadából nagyon kevés közvetlen behozatal irányul Írországba; az említett két exportőr 2006-ban 2,5 tonnát, illetve 118 tonnát exportált. Ez persze nem azt jelenti, hogy az észak-amerikai homár más tagállamokon keresztül ne került volna be Írországba.
+<P>
+Az elmúlt három év során az euróban kifejezett ár nem csökkent. Az USA esetében a 2005-2007-es időszakban az átlag importár 12,45 EUR/kg volt, sőt 2008 első negyedében ez az ár valamivel 13,6 EUR/kg fölé kúszott.
+<P>
+A kanadai homár közösségi importja esetében az elmúlt három év folyamán az ár valamivel nőtt, és a 2005-2007-es időszakban átlag 12,12 EUR/kg-ot tett ki, 2008 első negyedében pedig az ár az erős kanadai dollár miatt 12,48 EUR/kg-ra kúszott fel.
+<P>
+A fent elmondottak alapján nem úgy tűnik, mintha a homár árának jelenlegi zuhanórepülése szoros összefüggésben lenne az észak-amerikai importtal. Az áresésnek minden valószínűség szerint az egyes tagállamokban az elmúlt hetekben lezajlott tüntetések nyomán előállott piaci bizonytalanság az oka.
+<P>
+A font sterlingnek az euróhoz viszonyított gyengülése miatt az is elképzelhető, hogy az ír termelőknek a hagyományos szárazföldi piacokon az Egyesült Királyságból származó homárimporttal kell versenyezniük.
+<P>
+A homár árának zuhanása esetén a közös piacszervezés keretében nincsenek intézkedések a termelők kompenzálására. A homártermelők azonban piaci helyzetük erősítésére létrehozhatnának termelői szervezeteket. Az Európai Halászati Alap pénzügyileg támogatja az ilyen szervezetek létrehozását, valamint a termékek minőségének javítását célzó tervek végrehajtását. A közép- és hosszú távú további fellépést tekintve a halászati termékek - mint például a homár - kereskedelmének fellendítését célzó kollektív fellépéshez az Európai Halászati Alap segélyt nyújthat, ami hozzájárulhat a keresletnöveléshez és a jobb árak kialakításához.
+<SPEAKER ID="385" NAME="Seán Ó Neachtain" AFFILIATION="UEN">
+(GA) Elnök asszony, köszönöm a biztos úrnak a választ, és még egy kérdést szeretnék feltenni.
+<P>
+Miként ön is tudja, biztos úr, a halászati ágazat a közelmúltban bekövetkezett olajár-robbanás következtében drámai módon átalakult. Kérdésem a következő: a Bizottság szándékozik-e javaslatot benyújtani a tengerparti területek halászainak, például a homár-halászoknak és a fent említett halászoknak a megsegítésére, akiket sújt a kagylók és rákfélék árának csökkenése?
+<SPEAKER ID="386" NAME="Joe Borg">
+a Bizottság tagja. - Az olajár-robbanással és az olajár-emelkedés halászokra gyakorolt hatásával összefüggő probléma nagyon egyedi és különleges - szinte azt mondanám, egyedülálló - akkor, amikor a halászati üzemekről van szó. Ez azért van így, mert több tényező adódik össze, melyek együttes hatása a halászokra nagyon negatív.
+<P>
+Egyrészt a gázolaj bekerülési költsége egy halász összjövedelmének akár 50-60%-ára is rúghat. Ez különösen a nagy távolságokat bejáró vállalkozókra vonatkozik, hiszen nekik hatalmas utakra kell vállalkozniuk, valamint egyes halászati tevékenységekre is, mint például a merevítőrudas vonóhálót használó hajókra, melyek sok gázolajat fogyasztanak.
+<P>
+Másrészt a halászok bizonyos piaci megkötöttségek miatt a növekvő költségeket nem háríthatják át a haltermékek forgalmazásában részt vevő más szereplőkre. Ez lényegében azt jelenti, hogy a megnövekedett költségeket tulajdonképpen maga a halász viseli.
+<P>
+Ehhez járul még az is, hogy a fenntartható halászat visszaállítása érdekében különféle intézkedéseket vezettünk be, minek következtében a halászok nem próbálhatják meg a teljesítménynövelést több fogással elérni, hiszen ha többet fognának ki, ez további nyomást jelentene a halállományra, és ez a gyakorlat hosszú távon a teljesítmény ellenében hatna. A halászok ezért ezzel a hatalmas problémával szembesülnek.
+<P>
+A mai helyzet a következő: a testület elé egy tájékoztató feljegyzést terjesztettem, melyben arról van szó, hogy mi hogyan képzeljük az előrelépést, nagyon rövid távon miként léphetnénk a halászokkal együtt egy olyan útra, ahol az egész ágazat szerkezeti átalakításához és a különböző halászok egyedi problémáinak kezeléséhez segítséget tudnánk nyújtani nekik. A tájékoztatóban egy sor olyan egyedi intézkedést vázoltunk fel, melyekre javaslatot tehetünk. A tagállamok saját halászaikkal együtt eldönthetik, hogy az egyes halászok tényleges helyzetének függvényében az intézkedések közül melyek lennének a legmegfelelőbbek. Hogy ez a homárhalászok számára is rendelkezésre állhatna-e, és ha igen, milyen mértékben, azt meg kell vizsgálni.
+<P>
+A biztosok kollégiuma ugyanakkor felhatalmazott, hogy e témában előrébb lépjek. A részletekről - annak az alapjairól, amit nagyon hamarosan javasolni fogunk - a jövő hét csütörtökén Luxemburgban fogok beszámolni a Tanácsnak. Ezután visszamegyek a testülethez, és beszámolok az Európai Halászati Alap szabályzatában eszközlendő változtatások részleteiről és más, jelenleg tanulmányozás alatt lévő intézkedésekről, például a de minimis-szel kapcsolatos lehetőségről. Majd - remélhetőleg már júliusban - a Bizottság által elfogadott javaslatokkal visszamegyek a Tanácshoz annak érdekében, hogy a szükséges intézkedések - attól függően, hogy a Tanács és a Parlament milyen gyorsan hajlandóak lépni - remélhetőleg néhány hónapon belül elfogadásra kerüljenek.
+<SPEAKER ID="387" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Elnök asszony, biztos úr, a mezőgazdaság kérdése meglehetősen jelentős szerepet kapott az ír "nem”-kampányban. A halászati üzemekkel kapcsolatos imént tárgyalt problémák is szerepet játszottak-e a "nem”-kampányban? Ha igen, ennek enyhítésére a Bizottság tett-e kísérletet valamilyen népszerűsítési kampányra?
+<SPEAKER ID="388" NAME="Joe Borg">
+a Bizottság tagja. - Meglátásom szerint a halászati üzemek igenis szerepet kaptak a "nem”-szavazatban, s főként azért gondolom így, mert ha az egyes ír megyék eredményeit tekintjük, ezek különösen a nyugati tengerparti területeken voltak negatívak, ott, ahol az ír halászati üzemek többsége található.
+<P>
+Tisztában vagyunk azzal, hogy a fenntartható halászat visszaállítására irányuló közösségi intézkedések hátrányosan érintik a halászokat és megélhetésüket. Az olajár pedig határozottan nem a helyzet javítása irányában hatott.
+<P>
+E problémát egy ideje különböző módokon próbáljuk kezelni, ideértve azt is, hogy megkíséreljük hangsúlyozni az Európai Halászati Alap felhasználási lehetőségeit a jelenlegi helyzet nagyobb tudatosítára. Én magam is voltam párszor Írországban, és személyesen beszéltem a halászokkal. Regionális tanácsadó testületeket alakítottunk. Az Írország körüli területeken konkrétan ott van az északnyugati vizek regionális tanácsadó testülete, valamint az északi-tengeri regionális tanácsadó testület, amelyeknek tanácskozásain maguk a halászok is részt vesznek, és ezek eredményeként születnek majd meg a decemberben általunk meghozandó döntések.
+<P>
+Mindennek ellenére és az összes erőfeszítés dacára az az érzésem, hogy a népszavazás során az ír halászok alapvetően és jelentős arányban "nem”-mel szavaztak.
+<P>
+Tárgy: A környezetvédelem vállalkozásokon keresztül történő előmozdítása
+<P>
+A Bizottság hogyan mozdítja elő a környezetvédelmi dimenzió beépítését a kis- és középvállalkozásokat (KKV-kat) célzó szakpolitikákba, és miként segíti elő a KKV-k alkalmazkodását az új európai környezetvédelmi szabályok előírásaihoz?
+<P>
+A KKV-k milyen játékteret kapnak ahhoz, hogy az új környezetvédelmi politika által kínált lehetőségeket tevékenységeik bővítésére kiaknázhassák?
+<SPEAKER ID="390" NAME="Stavros Dimas">
+a Bizottság tagja. - (EL) Elnök asszony, az európai gazdasági társaságok 99%-át a KKV-k teszik ki. Ezért részvételük nélkül a környezetvédelmi politika nyilvánvalóan nem lehet hatékony.
+<P>
+A KKV-k a környezetvédelmi szabályoknak való megfeleléskor, valamint a magasabb környezetvédelmi teljesítmény előnyeinek kiaknázásakor nagyobb nehézségekkel találják magukat szemben. Sok esetben nincsenek meg a környezetvédelmi problémák, kockázatok és hatások kezeléséhez szükséges információik, szakértelmük, emberi vagy pénzügyi erőforrásaik. A Bizottság éppen ebből az okból kifolyólag állította össze a KKV-kat a környezetvédelmi szabályoknak való megfelelésben segítő programját. Azon komplex problémák kezelésére, melyekkel a KKV-knek meg kell birkózniuk, a környezeti megfelelési támogatási program (ECAP) többoldalú cselekvési tervet nyújt:
+<P>
+Először is a szabályozás és a végrehajtás javítása és egyszerűsítésére. A cél az adminisztrációs teher megkönnyítése és pénzeszközök folyósítása annak érdekében, hogy a KKV-k jobban tudjanak összpontosítani a környezetvédelmi szabályoknak való megfelelésre.
+<P>
+Másodsorban kevésbé költséges és a KKV-k igényeihez jobban alkalmazkodó környezetgazdálkodási rendszerekhez - ez azért történik, hogy a környezetvédelmi vonatkozású témákat gazdaságosan be lehessen építeni a fő gazdasági tevékenységekbe.
+<P>
+Harmadsorban pedig a fenntartható termelés érdekében a hatóságok vagy üzleti támogató hálózatok által tett kezdeményezések előmozdítását szolgáló, célzott pénzügyi segítség nyújtásában segít a cselekvési terv.
+<P>
+A cselekvési terv egyéb intézkedéseket is tartalmaz. A Bizottság célja az, hogy ezeket ne csak a KKV-k a termelési szabályozásnak való megfelelésének biztosítására használja, hanem arra is, hogy hozzásegítse őket a jobb környezetvédelmi teljesítmény - például az energiamegtakarítás és a jobb erőforráshatékonyság - pénzügyi előnyeinek kiaknázásához is.
+<SPEAKER ID="391" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Elnök asszony, hadd mondjak köszönetet a biztos úrnak a válaszért. Ez a programnyilatkozat jó előjel a cselekvési tervre nézve, amely konkrét eredményekkel kecsegtet. Egy kérdés azonban még mindig fennmarad: a közhivatalokra milyen kötelezettség hárul a KKV-k környezetbarát infrastruktúrákkal való ellátása tekintetében, és ezt milyen mértékben vették bele a tervükbe?
+<SPEAKER ID="392" NAME="Stavros Dimas" LANGUAGE="EL">
+Elnök asszony, a fellépésre számos lehetséges mód kínálkozik, és ezeket a tagállamoknak kell megvalósítaniuk. Az egyik például az, hogy a vállalati szintű know-how hiányát pótólandó, a KKV-ket segítő helyi szakértői környezetvédelmi bizottságok alakuljanak. Egy ilyen lépést a tagállamok segíthetnek elő. Egy másik lehetőség a kommunikáció javítása és hatákonyabb célba juttatása a konkrét információhiányok áthidalására. Aztán az általunk javasolt különböző típusú szabályozásokban ott vannak a KKV-kat célzó különrendelkezések. Az egyik példa a széndioxid-kereskedelmi rendszer reformjára irányuló, általunk javaslat szakaszában lévő új szabályozás: ebben - az adott szabályozás meghatározása szerint - a KKV-ra különrendelkezéseket javasolunk annak érdekében, hogy a kereskedelmi rendszerbe történő bevonásukkal - ott, ahol ilyen lehetőség létezik egy adott tagállamban - ne háruljon rájuk teher.
+<SPEAKER ID="393" NAME="Georgios Papastamkos" AFFILIATION="PPE-DE">
+(EL) Elnök asszony, biztos úr, önök joggal szögezték le, hogy a KKV-k az európai gazdaság gerincét képezik. Az európai KKV-knak azonban, mint tudjuk, globális versennyel kell szembenézniük. A KKV-k érzékenyek a világ különféle tájain működő és környezeti dömpinget megvalósító más KKV-k részéről fennálló versenyre. Egyetértene-e a nemzetközi környezetvédelmi egyezmény vonatjára potyautasként felugró országokból származó behozatalokra kivetendő zöldadó gondolatával?
+<SPEAKER ID="394" NAME="Stavros Dimas" LANGUAGE="EL">
+Elnök asszony, olyan témáról van szó, amely alapvetően nem csak a KKV-kat, hanem az ilyenfajta versennyel szembenézni kényszerülő valamennyi vállalkozást érinti. Itt nem csupán környezetvédelmi témák merülnek fel, hanem - miként arról a közelmúltban bőven folyt vita - az üvegházhatást okozó gázok kibocsátásának csökkentésével összefüggésben az európai vállalkozásokra kötelezően kirótt megszorítások és az ebből következő terhek kérdése is. Nemrégiben számos vita folyt erről, különféle nézetek láttak napvilágot, és kollégám, Mandelson biztos úr, kifejezetten hangot adott a Bizottság e témára vonatkozó véleményének.
+<P>
+Tárgy: Nemzetközi környezetvédelmi tanácskozások
+<P>
+Mi az oka annak, hogy a Kiotó-utáni időszakban nincsenek az éghajlatváltozásról szóló nemzetközi tanácskozások, és a globális környezetvédelmi kormányzat miért csak részlegesen hatékony?
+<SPEAKER ID="396" NAME="Stavros Dimas" LANGUAGE="EL">
+Elnök asszony, a kérdés lehetőséget nyújt számomra ahhoz, hogy pontosan megvilágítsam, hol is tartunk a tárgyalásokban.
+<P>
+Az éghajlatváltozással foglalkozó kormányközi munkacsoport (IPCC) munkája, a 2007. novemberi jelentések, valamint a világ vezetőinek azon felismerése, hogy az éghajlatváltozás elleni küzdelem érdekében sürgősen közös fellépésre van szükség, a múlt év decemberében Balin megkötött megállapodáshoz vezetett. Az EU vezető szerepet játszott az éghajlatváltozás kezelését szolgáló 2012 utáni fellépés kereteire irányuló tárgyalások megindításáról szóló megállapodás létrejöttében.
+<P>
+Az ENSZ Éghajlatváltozási Keretegyezményének Részes Felei megegyeztek a bali menetrendről. Ez meghatározza a tárgyalások témáit, amelyek négy kulcskérdés körül csoportosulnak majd: az éghajlatváltozás visszaszorítása; az alkalmazkodás kérdése, tekintve, hogy az éghajlatváltozás kisebb vagy nagyobb mértékben már bekövetkezett, és 2050-re elkerülhetetlen lesz; az alkalmazkodás és a CO2 -kibocsátás csökkentésének technológiája, valamint az ezekhez kapcsolódó finanszírozási kérdések.
+<P>
+A Részes Felek abban is megállapodtak, hogy a Felek tervezett koppenhágai konferenciájára tekintettel a tárgyalásoknak 2009 végére be kell fejeződniük. Így elegendő idő marad a jövőbeli éghajlatváltozási egyezmény ratifikálási folyamatára, amelyet ily módon 2012 végéig - amikor a Kiotói Jegyzőkönyv első szakasza lejár - ratifikálni lehet.
+<P>
+A Balin elért megállapodás teljes mértékben figyelembe vette az IPCC-jelentés következtetéseit. Ezenfelül elismeri, hogy a veszélyes világméretű hőmérsékletemelkedés megelőzése érdekében az üvegházhatást okozó gázok kibocsátásának drasztikus visszaszorítására lesz szükség az egész világon. A jelentés szerint a hőmérséklet emelkedése 2050-ben nem haladhatja meg a 2°C-ot.
+<P>
+A munka már megkezdődött, ez évre négy tárgyalási ülésszakot terveztünk, és a Részes Felek poznani konferenciájának előkészítéseként ebből kettőre már sor is került. A Felek idei konferenciája a helyzet értékelése szempontjából különösen fontos lesz. A tényleges tárgyalások a jövő évben ezen értékelés alapján indulhatnak majd meg.
+<P>
+A tárgyalási folyamat különösen nehéz lesz, ha meggondoljuk, hogy nem csak a megtárgyalandó kérdések bonyolultak, hanem a téma sürgető voltából fakadóan az ütemterv is feszített. Múlt péntekig a valamennyi Részes Fél által kiküldött szakértők Bonnban tanácskoztak a napirenden szereplő összes kérdésről. Jóllehet korlátozott előrelépés történt, ez hozzá fog járulni a Részes Felek Koppenhágai Konferenciája sikeres kimeneteléhez.
+<P>
+Önök azt is tudják, hogy a G8-ak keretén, valamint az Egyesült Államok által elindított vezető gazdaságok kezdeményezésén (az ún. vezető gazdaságok folyamatán) belül jelenleg is folynak megbeszélések. Az EU ebben tevékeny szerepet vállal annak érdekében, hogy az ENSZ Éghajlatváltozási Keretegyezményéről szóló tárgyalásokra kedvező befolyást gyakoroljon. Az EU ezzel egyidejűleg világos üzenetet is küld arról, hogy a fejlett országok továbbra is példát kívánnak mutatni. A fejlett országok történelmi felelősségükkel, valamint a közös, de differenciált felelősség és az eltérő képességek elvével összhangban további kibocsátáskorlátozásra kötelezik magukat.
+<P>
+Az éghajlatváltozásról szóló 2012. utáni átfogó és ambiciózus megállapodás elérése a globális környezetvédelmi irányítás szempontjából kétségtelenül az egyik legnagyobb kihívás. De nem nulláról indulunk. Meg kell említenem, hogy néhány nappal ezelőtt a francia környezetvédelmi és a fenntartható fejlődésért felelős miniszter a bolygónk jövőjéről szóló megállapodás legnagyobb lehetőségeként szólt a koppenhágai konferenciáról.
+<P>
+Fel kell használnunk a már rendelkezésünkre álló mechanizmusokat, nevezetesen az ENSZ keretegyezményét és a kapcsolódó Kiotói Jegyzőkönyvet. Az utóbbi értelmében olyan naprakész végrehajtási módszerek kerültek kidolgozásra, mint a két rugalmas mechanizmusból álló tiszta fejlesztési mechanizmus, és az IPCC tudományos szakértői véleményezési rendszerét is tovább fejlesztették.
+<P>
+Még egyszer ismétlem, a tárgyalások nehezek lesznek, de ha megvan a szükséges politikai akarat, és mindenki belátja a sürgető helyzet megoldásának szükségességét, képesek leszünk megállapodni Koppenhágában. A józan ész követeli, hogy megállapodjunk Koppenhágában. Az EU által jelenleg folytatott munka, az európai közvélemény felénk irányuló támogatása, a probléma világszerte növekvő tudatosulása, az Európai Parlament részéről megnyilvánuló támogatás és az EU tárgyalási erejének fokozását célzó, általunk javasolt intézkedés-csomagról szóló, év végére tervezett megállapodás perspektívája - mindez képessé tesz bennünket arra, hogy Koppenhágában megállapodást érjünk el az éghajlatváltozás hatékony kezelése érdekében.
+<SPEAKER ID="397" NAME="Georgios Papastamkos" AFFILIATION="PPE-DE">
+(EL) Elnök asszony, köszönöm Dimas biztos úr alapos, részletes válaszát.
+<P>
+Az Egyesült Államok és Kína együtt fog-e működni? Az éghajlatváltozás olyan helyzetet tükröz, amelyben "az okok az egyik helyen jelentkeznek, a következmények pedig valahol másutt”. Ezért felmerül a kérdés, hogy az EU milyen álláspontot foglal majd el abban a szerencsétlen esetben, ha a Kiotó-utáni időszakra vonatkozó nemzetközi szabályozó megállapodás értelmében nagy környezeti adóssággal bíró országok nem lennének hajlandóak együttműködni. Az elsődleges költség nyilvánvaló. A másodlagos költség - és itt a Verheugen úr által készített értékelésekre utalok - abban nyilvánulna meg, hogy az európai vállalkozások hajlamosak lennének elnéző környezetvédelmi kerettel rendelkező országokba áthelyezni a tevékenységüket. Egyetért-e ezzel az értékeléssel?
+<SPEAKER ID="398" NAME="Stavros Dimas" LANGUAGE="EL">
+Elnök asszony, először is le kell szögeznem, hogy nemcsak Verheugen úr, hanem én is nagyon tartok a szénátszivárogtatástól, éspedig egy nagyon egyszerű okból: ha ugyanis a vállalkozások az EU-ból a CO2 -kibocsátás tekintetében korlátozásokkal nem rendelkező országokba helyezik át tevékenységüket, a kitűzött és általam is kívánt környezetvédelmi eredményt nem fogjuk tudni felmutatni.
+<P>
+Az energiaigényes vállalkozások problémája mindenekelőtt környezetvédelmi jellegű, következésképp nem szabad olyan versenyproblémát teremtenünk a számukra, amely tevékenységük áthelyezésére kényszerítené őket. Ezért minden erőfeszítésünket egy nemzetközi megállapodás tető alá hozására kell összpontosítanunk, mert a megoldás ebben rejlik. Egy nemzetközi megállapodás kulcselemét az képezné, hogy mi történjen az energiaigényes vállalkozásokkal.
+<P>
+Ha egy ilyen megállapodás nem jön létre - és nem hihetem, hogy a nemzetközi közösség ilyen esztelen lépésre ragadtatná magát -, a javasolt szabályozásban megvan az összes rendelkezés a széndioxid-kibocsátáskereskedelmi rendszer megreformálására annak érdekében, hogy a nemzetközi versenynek kitett cégek visszaszerezzék versenyképességüket. Következésképp anélkül, hogy a WTO-elvekkel, vagy az ENSZ által deklarált, az éghajlatváltozással kapcsolatos közös, de differenciált erőfeszítés elvével ellentétes intézkedésekhez folyamodnánk, képesek leszünk biztosítani a szükséges garanciákat ahhoz, hogy ne legyen szénátszivárogtatás, és a vállalkozások ilyenfajta elvándorlása ne következzék be.
+<P>
+Ugyanakkor, ismétlem, cselekvési tervünknek egy megállapodás tető alá hozására kell irányulnia. Úgy hiszem, hogy összefoghatunk az Egyesült Államokkal, különösen a jövőre hatalomra kerülő várva-várt új adminisztrációval, tekintettel arra, hogy mindkét elnökjelölt teljes mértékben elkötelezte magát a széndioxid-kereskedelmi rendszer bevezetése és 2050-ig a kibocsátások 80%-kal történő visszaszorítása mellett, valamint amellett, hogy az EU-val együttműködve határozottan fellépnek az üvegházhatás ellen. Hiszem, hogy együtt - és olyan országokkal együttműködve, mint Kína - képesek leszünk meggyőzni azokat, akik ebben az ügyben esetlegesen más nézeteket vallanak. Miként ön is mondotta, Kína teljesen átlátja, hogy az üvegházhatás milyen problémákat okoz saját lakosságának, és beleegyezett abba, hogy saját részéről is erőfeszítéseket tesz, melyek nem lesznek ugyan azonosak a fejlett országokéival, ám az üvegházhatást okozó gázok kibocsátása növekedési ütemének csökkentését célozzák. Ha mindannyian összefogunk, 2009 végén Koppenhágában megállapodásra juthatunk.
+<P>
+Hiszek ebben a megállapodásban, és hiszem, hogy mi itt mindannyian (és az Európai Parlament hatalmas szerepet játszott ebben) az Önök folyamatos támogatásával tető alá hozzuk ezt a megállapodást.
+<SPEAKER ID="399" NAME="Elnök">
+A 34. kérdést visszavonták, a 33., valamint a 35-44. kérdésre pedig írásos válasz érkezik.
+<SPEAKER ID="400" NAME="Dimitrios Papadimoulis" AFFILIATION="GUE/NGL">
+(EL) Elnök asszony, tudomásom szerint minden biztosnak 20 percnyi idő jár. Mértem felszólalásaik idejét, és Dimas úr kollégáival egyetemben a felét sem használta ki ennek az időnek. Ezért kérem, hogy a 33. kérdésre az általunk elfogadott eljárásnak megfelelően válaszoljanak. Úgy vélem, magának a biztosnak sincs ez ellen kifogása.
+<SPEAKER ID="401" NAME="Elnök">
+Mi itt mérjük az időt, és a biztos 18.32-kor kezdte a felszólalását. Ennélfogva sajnos kimerítettük a 20 percünket, és fair módon kell eljárni azon képviselőtársainkkal, akik Barrot biztoshoz intéztek kérdést. Sajnálom, de ez a helyzet. Állandóan az egyensúly megtalálásán fáradozunk, és ma így kell eljárnunk.
+<P>
+Tárgy: FRONTEX
+<P>
+Az Európai Unió külső határainak igazgatása és a tagállamok közötti operatív együttműködés a FRONTEX tevékenységének részeként létfontosságú az EU biztonsága szempontjából, és bizonyos helyzetek bekövetkeztét is megelőzheti.
+<P>
+Az ügynökségnek hatékonynak kell lennie, és konkrét eredményeket kell felmutatnia.
+<P>
+2008-ban milyen kísérleti projekteket és képzéseket terveznek?
+<P>
+A RABIT-tel kapcsolatban valamelyik tagállam kérvényezte-e gyorsreagálású csoport bevetését? A RABIT-csoportoknak megvan-e a saját felszerelésük a határellenőrzéshez és a határfelügyelethez?
+<SPEAKER ID="403" NAME="Jacques Barrot" LANGUAGE="FR">
+Elnök asszony, szeretnék França úrnak válaszolni. A FRONTEX ügynökség 2008-as munkaprogramja az operatív együttműködés és a kutatás terén több kísérleti projektet és képzést tartalmaz. Tekintve, hogy a külső határok ellenőrzésére vonatkozó kérdés a FRONTEX hatásköreit illeti, a Bizottság részletes választ szerzett be az ügynökségtől, melyet csatolunk.
+<P>
+Ami a képzést illeti, a FRONTEX-nek 2008-ban három célkitűzése van. Az első a közös képzési terv megvalósítása Európai Unió-szerte; a második az operatív igényeknek megfelelő egyedi képzések nyújtása; végül európai hálózat kialakítása a határőrök képzésére.
+<P>
+2008-ra a FRONTEX a külső határokon mintegy 13 kísérleti projekt lebonyolítását tervezi: négy kísérleti projektet a szárazföldi határokon, hármat a tengeri határokon, hármat a légi határokon, és hármat a visszatérési műveletek összefüggésében. E projektek lehetővé teszik, hogy kipróbáljuk a közös műveletek során alkalmazott munkamódszereket, a visszatérési műveletek esetében pedig teszteljük a harmadik országokkal fennálló kapcsolatokat, valamint az útiokmányok beszerzését.
+<P>
+A RABIT - a gyorsreagálású határvédelmi csoportok - tárgyában válaszom az, França úr, hogy ezidáig még egyetlen tagállam sem kérte gyorsreagálású határvédelmi csapat bevetését.
+<P>
+Február 13-i közleményében a Bizottság hangsúlyozta, hogy a FRONTEX szabályzatának 8. cikkével összhangban egy gyorsreagálású határvédelmi csapat bevetését technikai segítségnyújtás kísérheti. Következésképp a Bizottság azt ajánlotta az ügynökségnek, hogy az saját felszerelés beszerzésével vagy lízingelésével tegye ezt a rendelkezést működőképesebbé, valamint azt az ajánlást tette, hogy az ügynökség használhassa a műszaki felszerelések központi leltárában felsorolt felszereléseket.
+<P>
+Végezetül szeretném leszögezni, hogy a FRONTEX-szel egy láthatólag működőképes eszköz birtokába kerültünk. Meg fogjuk vizsgálni, hogy a FRONTEX működését, valamint igény esetén az általa végrehajtott műveleteket miképp lehetne még jobbá tenni.
+<SPEAKER ID="404" NAME="Armando França" AFFILIATION="PSE">
+(PT) Köszönöm Barrot biztos úrnak nem csak a választ, hanem a részletes információkat is.
+<P>
+Két pontról szeretnék felvilágosítást kérni a biztostól. A harmadik országokkal folytatott együttműködés nyilvánvalóan igen fontos, és a mi számunkra is elsőrendű jelentőséggel bír, és tudom, hogy a Bizottság tervezi kísérleti projektek kidolgozását. Észak-Afrikával kapcsolatban szeretnénk tudni, hogy a biztos által említett kísérleti projekttípusokból valamelyik vonatkozik-e észak-afrikai országra? Ezen túlmenően azt is nagyra értékelném, ha a biztos részletesen tájékoztatna bennünket az európai határőrizeti rendszer, az EUROSUR kialakításának jelenlegi állásáról, amellyel kapcsolatban elhangzott, hogy ez a FRONTEX fontos és szükséges kiegészítője.
+<SPEAKER ID="405" NAME="Jacques Barrot" LANGUAGE="FR">
+França úr, ahhoz, hogy a FRONTEX harmadik országban technikai segítségnyújtást végezzen, az ügynökség szabályzatát ilyen értelemben ki kell igazítani. Erre jelenleg nincs jogalap. Azonban azt hiszem, hogy jogos a kérdés, hiszen felkéréseket fogunk kapni olyan harmadik országoktól, melyekkel együtt dolgozunk. Ön bizonyos földközi-tengeri országokra célzott; úgy gondolom, hogy a FRONTEX-et felkérik majd, hogy nyújtson olyan szakmai segítséget, amilyet tud, de itt még nem tartunk.
+<P>
+Ami a többit illeti, miként Ön is tudja, a határőrizet tekintetében ott van a teljes fejlesztés alatt álló Schengeni Információs Rendszer (SIS), amely reméljük, hogy 2009 őszére működőképes lesz. Ezenfelül továbbra is tanulmányozzuk, hogy más tekintetben miként javíthatnánk a határőrizetet.
+<SPEAKER ID="406" NAME="Wiesław Stefan Kuc" AFFILIATION="UEN">
+(PL) Minthogy a FRONTEX székhelye Lengyelországban van, és én lengyel vagyok, a FRONTEX-hez való viszonyulásom meglehetősen személyes. Jelenleg sok kósza hír kering a FRONTEX-ről, melyek szerint az ügynökség időnként működik, időnként meg nem. Hozzátenném még azt is, hogy ez a legnagyobb költségvetéssel bíró ügynökség. Röviden kifejtené, kérem, hogy a FRONTEX működik-e és megfelel-e az elvárásoknak, vagy pedig sok teendője van-e még működési módja javítása terén?
+<SPEAKER ID="407" NAME="Jacques Barrot" LANGUAGE="FR">
+Azt hiszem, elmondhatom, hogy a FRONTEX kezdeti lépései megfelelőeknek tűnnek, jóllehet el kell ismerni, hogy az ügynökség az általa koordinált műveletekhez szükséges technikai felszerelés vonatkozásában a tagállamoktól függ.
+<P>
+Való igaz, hogy ez gyakran nagyon költséges felszereléseket jelent, melyeket az ügynökség a szűkös költségvetéséből nem tud beszerezni. Egy helikopter beszerzése például a FRONTEX egész éves működési költségvetésébe, azaz 40-50 millió euróba kerülne. A FRONTEX ezért a legtöbb tagállammal technikai megállapodásokat kötött a számára rendelkezésre bocsátott felszerelések használatáról.
+<P>
+A Bizottság értékelő jelentésében azt ajánlotta, hogy a FRONTEX legalább egyes kisebb felszerelési tételek esetében legyen képes saját felszerelésének megvásárlására vagy lízingelésére.
+<P>
+Jelenleg ez minden, amit mondhatunk. Köszönöm, hogy emlékeztetett valamennyiünket arra, hogy a FRONTEX székhelye Varsóban van, és hogy ott igen motivált alkalmazottakkal dolgozik. Szeretném megköszönni Önnek, hogy kapcsolatot teremtett a FRONTEX-szel. Úgy gondolom, hogy a FRONTEX jelenleg folyó munkájának fényében az értékelések elkészültével láthatjuk majd, hogy működését miként javíthatnánk.
+<SPEAKER ID="408" NAME="Elnök">
+Mivel a 46. kérdés szerzője nincs jelen, ez a kérdés elévült.
+<P>
+Tárgy: Terrorizmusellenes intézkedések és a magánélethez való alapvető jog
+<P>
+Aggályok merülnek fel abban a vonatkozásban, hogy az EU egyes - különösen az adatmegőrzéssel összefüggő - terrorizmusellenes politikái nincsenek egyensúlyban az uniós polgárok magánélethez való alapvető jogával. A Bizottság kifejtené-e, hogy miként igyekszik megfelelő egyensúlyt kialakítani az alapvető szabadságok tiszteletben tartása, valamint a terrorizmus elleni küzdelmet szolgáló intézkedések között?
+<SPEAKER ID="410" NAME="Jacques Barrot" LANGUAGE="FR">
+Elnök asszony, az Európai Unió és tagállamai által foganatosított minden terrorizmusellenes intézkedésnek nyilvánvalóan figyelembe kell vennie az alapvető jogokat. Az olyan terrorizmusellenes eszközök vagy politikák, melyek nem tartják tiszteletben az alapvető jogokat, nagyon gyakran maguknak a terroristáknak a kezére játszanak.
+<P>
+Az adatmegőrzési irányelv azt követeli meg a tagállamoktól, hogy az elektronikus kommunikációs szolgáltatókat és a nyilvános elektronikus hírközlő hálózati szolgáltatókat kötelezze arra, hogy legalább 6 hónapig és legfeljebb 2 évig őrizzék meg a hírközlésre vonatkozó adatokat. Az irányelv jelentős garanciákat tartalmaz az adatok jogosulatlan felhasználása ellen. Az irányelv kimondja, hogy a hívások tartalmának megőrzése az irányelv hatályán kívül esik. Ezen túlmenően megállapítja, hogy a megőrzött adatokhoz való hozzáférésről minden egyes tagállam belső jogszabályainak kell rendelkezniük, ezeknek a rendelkezéseknek összhangban kell lenniük az emberi jogok és alapvető szabadságok védelméről szóló európai egyezménnyel, és természetesen be kell tartaniuk az arányosság és a szükségesség elvét.
+<P>
+Ez azt jelenti, hogy az irányelv értelmében megőrzött adatokat egy tagállam hatóságai nem használhatják fel egy személy magánéletébe való beavatkozásra, kivéve akkor, ha ezt súlyos bűncselekmény felderítése és büntetőeljárás megindítása indokolja. Az irányelv kimondja, hogy a megőrzött adatokhoz csak az illetékes nemzeti hatóságok férhetnek hozzá. Ez magától értetődően azt jelenti, hogy a megőrzött adatokat gazdasági társaságok vagy magánszemélyek nem használhatják fel. Az, hogy a megőrzött adatokhoz való hozzáférés korlátozott, megint csak azt jelenti, hogy az adatok a polgárok feletti felügyeletre nem használhatók fel.
+<P>
+Ezenfelül az irányelv értelmében megőrzött adatokra természetesen a személyes adatok feldolgozása vonatkozásában az egyének védelméről szóló 95/46/EK irányelv, valamint az elektronikus hírközlési ágazatban a személyes adatok feldolgozásáról és a magánélet védelméről szóló 2002/58/EK irányelv is alkalmazandó.
+<P>
+Összegzésképpen: az adatmegőrzési irányelv alapvető fontosságú a rendőrségi munka hatékonyabbá tétele, valamint a terroristák megfigyelése, felderítése és felkutatása szempontjából, miközben szavatolja az egyének magánélethez való jogának tiszteletben tartását és a személyes adatok védelmét. A Bizottság ellenőrizni és felügyelni fogja, hogy a tagállamok az alapvető jogokkal összhangban hajtják-e végre és alkalmazzák az irányelvet.
+<SPEAKER ID="411" NAME="Gay Mitchell" AFFILIATION="PPE-DE">
+Köszönöm a biztos úr válaszát. Biztos úr bizonyára tud arról, hogy a brit árnyék-belügyminiszter, az európai ügyek volt minisztere, David Davis, a múlt héten lemondott parlamenti tagságáról az ellen tiltakozva, hogy az állam beavatkozik az egyén magánéletébe. Bárhogyan értékeljük is a lemondását, osztozom azokban az aggodalmakban, melyeknek David Davis így adott hangot. Az állam sosem terjesztené egy parlament vagy az Európai Parlament elé egyetlen intézkedésben azokat a szélsőséges dolgokat, amiket az állam vagy az Európai Unió most meg akar lépni, így aztán fokozatosan csepegteti ezeket. Azt akarom, hogy minden terrorista megkapja megérdemelt büntetését.
+<P>
+Olyan országban nőttem fel, amelyben a terroristák 30 évig romboltak, ugyanakkor mindig is jogállamban éltünk, ahol a jog védte a polgárok magánéletét. Szeretném megtudni öntől, Biztos úr, milyen lépéseket kezdeményez annak szavatolására, hogy az egyéneknek a magánélet védelméhez való joga ne sérüljön, és nyugodtan végezhessék a dolgukat.
+<SPEAKER ID="412" NAME="Jacques Barrot" LANGUAGE="FR">
+Elnök asszony, el kell mondanom, hogy az adamegőrzési irányelvvel kapcsolatosan 15 tagállam jelentette be a Bizottságnak az átültetésre szolgáló jogi eszközeit, és a Bizottság bejelentési kötelezettség elmulasztása miatt jogsértési eljárást indított mindazon tagállamok ellen, melyek 2007. november végéig nem értesítették a Bizottságot a megfelelő intézkedésekről.
+<P>
+Az Ön kérdésére válaszolva: a Bizottság szakértői csoportot állított fel, melynek feladata segíteni a Bizottságot az irányelv hatékonyságának és az Ön által kívánt egyensúlynak az elemzésében. A Bizottság 2010 szeptemberében jelentést fog előterjeszteni, melyben megvizsgálja, hogy az irányelv mennyiben járult hozzá a súlyos bűncselekmények felkutatásához, felderítéséhez és az elkövetők büntetőjogi felelősségre vonásához. A Bizottság evégett természetesen megvizsgál majd minden, a tagállamok által vagy az irányelv megfelelő cikke értelmében felállított munkacsoport által hozzá eljuttatott észrevételt.
+<P>
+Megerősíthetem Önöknek, hogy valóban ügyelnünk kell arra, hogy mindez az adatmegőrzési irányelvekkel és az adatvédelmi irányelvvel összhangban történjék. Úgy gondolom tehát, hogy ha az adatvédelem időnként sérül, azonnal le fogjuk vonni a megfelelő következtetéseket.
+<P>
+Meggyőződésem, hogy valóban igyekeztünk megfelelni a terrorizmus elleni küzdelem követelményeinek, és megpróbáltuk ezeket összeegyeztetni az alapvető jogok védelmével. Mindenesetre most erre kell összpontosítanom, és biztosíthatom Önt, Mitchell úr, hogy erre nagyon oda fogok figyelni.
+<SPEAKER ID="413" NAME="Armando França" AFFILIATION="PSE">
+(PT) Köztudomású, hogy itt az alapvető jogok, az alapvető jogok betartása, és a biztonság összeütközhet egymással. Ugyanakkor azt hiszem, hogy olyan terület ez, ahol az együttműködésre felettébb nagy szükség van.
+<P>
+Szeretném megkérdezni a biztostól, hogy az irányelv végrehajtásában az adatmegőrzés tekintetében milyen szintű együttműködés van a nemzeti adatvédelmi hatóságok között? Mindegyik tagállamban van nemzeti szakhatóság, és úgy hiszem, hogy a megfelelő szervek közötti együttműködés beindítása és ösztönzése a Bizottság feladata.
+<P>
+Mit tud erről mondani nekünk, biztos úr?
+<SPEAKER ID="414" NAME="Jacques Barrot" LANGUAGE="FR">
+Elnök asszony, önnek igaza van: ügyelnünk kell az adatvédelem betartására. Az európai adatvédelmi biztosnak egyébként velünk együtt feladata ennek a felügyelete. Önnek igaza van, együttműködésre van szükség: ott van a 29. cikk alapján létrehozott és a különböző tagállamok hatóságait tömörítő munkacsoport, amely pontosan az adatvédelem betartásának javításán dolgozik, amelyre Mitchell úr is felhívta a figyelmemet.
+<P>
+Úgy gondolom, hogy az együttműködés egyre jobb. E munkacsoportot azért hívják "a 29. cikk alapján létrehozott munkacsoport”-nak, mert az irányelv 29. cikke úgy rendelkezik, hogy az egyes tagállamok adatvédelemmel megbízott valamennyi független hatóságának össze kell ülnie. Meglátásom szerint ez egy jó eszköz, melyet használni kell. Ennyit tudok mondani Önnek.
+<P>
+Tárgy: Az európai elfogatóparancs
+<P>
+Az európai elfogatóparancsot (EEP) ma már széles körben alkalmazzák az Európai Unióban a bűncselekmény elkövetésével gyanúsított bűnözők elfogására és átadására, és kulcsszerepet játszik a terrorizmus elleni küzdelemben, valamint a súlyos bűncselekménnyel vádolt személyek bíróság elé állításában. Ugyanakkor - legalábbis kezdetben - időnként úgy tűnt, hogy ezt az eszközt bizonyos fokú jogi bizonytalanság lengi körül. A brit felsőház egy korábbi jelentése arra figyelmeztetett, hogy amíg ez a bizonytalanság nem szűnik meg, az EEP nem biztos, hogy teljes mértékben hatékonyan működhet a tagállamok között.
+<P>
+A Bizottság kifejtené-e, hogy a kezdeti problémákat mennyire sikeresen küzdötték le, és az EEP jelenleg mennyire hatékonyan működik? A Bizottság milyen témákat tekint még mindig problematikusnak - ha vannak egyáltalán ilyenek -, és miként szándékozik megoldani őket?
+<SPEAKER ID="416" NAME="Jacques Barrot" LANGUAGE="FR">
+Köszönöm Moraes úrnak, hogy felvetette ezt a fontos kérdést. Az európai elfogatóparancs valóban jelentős eredményeket könyvelhet el. Az újítás lényege a bírósági határozatok kölcsönös elismerésében rejlik, és 32 súlyos bűncselekmény esetében most már nincs szükség a kettős büntethetőségre. Az eljárások ettől felgyorsultak.
+<P>
+A hosszú kiadatási eljáráshoz viszonyítva, amely általában egy évnél hosszabb ideig tart, az európai elfogatóparancsnak köszönhetően az átadási eljárás csak átlag 43 napot vesz igénybe, ugyanis minden közvetlenül a bíróságok között zajlik.
+<P>
+A tagállamok széles körben alkalmazzák az új eljárást. 2006-ban 6 752 európai elfogatóparancs kiadására került sor. Az európai elfogatóparancs alapján összesen 2 042 személyt vettek őrizetbe, és 1 892 személyt adtak át ténylegesen. Az európai elfogatóparancs értelmében átadott személyeknek több mint egyötöde a végrehajtó tagállam állampolgára volt.
+<P>
+Ha tekintetbe vesszük, hogy 2006-ban ugyanannyi európai elfogatóparancs kiadására került sor, mint amennyi eljárás 10 év alatt volt, ez az európai elfogatóparancs egyértelmű sikerét bizonyítja. Egyes tagállamok kezdeti alkotmányos problémái megoldódtak.
+<P>
+Mindemellett el kell ismernünk, Moraes úr, hogy a hazai állampolgárok átadását illetően néha a régi kiadatási gyakorlat kerekedett felül, ami az egyes tagállamok és egyes büntetőjogi rendszerek régi bizalmatlanságának reziduális továbbélését sugallja - ám úgy gondoljuk, hogy ez a bizalmatlanság el fog tűnni, és a rendszer optimálisan működhet majd.
+<P>
+A kerethatározat tagállami szabályozásokba való átültetésének elemzése alapján a Bizottság 2005-ben és 2007-ben jelentést készített az európai elfogatóparancs működéséről. Ebből az derült ki, hogy a tagállamokban bizonyos kiigazítások történtek.
+<P>
+Jelenleg egy sor szakértői értékelés van folyamatban, melyekben a Bizottság megfigyelőként vesz részt. Ez az értékelési folyamat 2009 elején ér véget, a Bizottság az értékelések alapján ekkor fog újabb jelentést benyújtani az Európai Unióban meglévő különféle gyakorlatokról, hibákról, valamint megvizsgált kérdésekről az európai elfogatóparancs működésének további javítása céljából, amely mindazonáltal, úgy vélem, a kölcsönös elismerés elvének egyik nagy sikereként könyvelhető el.
+<SPEAKER ID="417" NAME="Claude Moraes" AFFILIATION="PSE">
+A biztos úrnak igaza van abban, hogy az EEP az a fajta intézkedés, melyet az Európai Unió polgárai a bel- és igazságügyi portfóliótól várnak. Ideje már kimászni a hosszan elnyúló kiadatási eljárásokból.
+<P>
+Megkérhetem-e azonban arra, hogy személyes ügyének tekintse, és személyesen nézzen utána annak, hogy bizonyos tagállamok hogyan ültették át a kerethatározatot? (A Bizottság kritikát fogalmazott meg ebben a tekintetben.) Megkérhetem-e arra, hogy személyesen nézzen utána annak, hogy egyes tagállamok még mindig ragaszkodnak a régi eljárásokhoz, ezért az EEP nem olyan hatékony, amilyen lehetne?
+<P>
+Voltak ugyan nagyon jelentős sikerek, de sajnos ezeket lerontotta a bel- és igazságügyi terület jövője szempontjából rendkívül fontos irányelv megfelelő átültetésének és végrehajtásának hiánya.
+<SPEAKER ID="418" NAME="Jacques Barrot" LANGUAGE="FR">
+Moraes úr, először is szeretném emlékeztetni önt arra, hogy a jelenlegi Szerződések értelmében a Bizottságnak nincs jogköre egy tagállam ellen jogsértési eljárást indítani abban az esetben, ha - adott esetben - az ellenőrző és értékelő eljárások során a kerethatározat nem megfelelő végrehajtására derülne fény. Ettől függetlenül biztosíthatom önt arról, hogy nagyon oda fogok figyelni az európai elfogatóparancs végrehajtására. Az igazságügyi fórum, amelyet rendszeressé kívánunk tenni, alkalmat nyújt számunkra ahhoz, hogy az Unió valamennyi tagállama bírói és ügyészi karának képviselőit közös munkálkodásra hozzuk össze, és ezt a lehetőséget az európai elfogatóparancs helyes használatának további előmozdítására fogjuk kiaknázni. Köszönöm, hogy feltette ezt a kérdést, és biztosíthatom önt arról, hogy valóban mindent el fogunk követni az ügy érdekében. Hozzátenném még, hogy az Eurojust megerősítése szintén lehetővé fogja tenni számunkra az európai elfogatóparancs jobb kihasználását.
+<SPEAKER ID="419" NAME="Armando França" AFFILIATION="PSE">
+(PT) Elnök asszony, biztos úr, 17 évet töltöttem el ügyvédként bíróságokon, következésképp nagyon jól ismerem az európai igazságszolgáltatás helyzetét, melyet nagy általánosságban lassúság, rendkívüli lassúság jellemez. Mindannyiunk érdeke, hogy ez megszűnjék.
+<P>
+Az európai elfogatóparancs nagyon jelentős - tulajdonképpen a legjelentősebb - eszköz. Rendkívül fontos ezért, hogy a tagállamok megértsék, milyen fontos eszközről is van szó, és ennek megfelelően járjanak el.
+<P>
+Tudjuk, hogy a Bizottságnak nincs szankcionálási jogköre, de lendületbe hozhatja és ösztönözheti a dolgokat. Jóllehet teljes mértékben támogatom a kollégám által elmondottakat, azért mégis van itt egy másik nagy jelentőségű szempont, biztos úr, amely valószínűleg az ön kezében van, mégpedig a rendőri és az igazságszolgáltatási szervek közötti együttműködés fokozása. Alapvetően fontos, hogy elősegítsük a tagállamok rendőri és igazságszolgáltatási szervei, valamint a Bizottság és az európai intézmények közötti együttműködést.
+<SPEAKER ID="420" NAME="Jacques Barrot" LANGUAGE="FR">
+Önnek tökéletesen igaza van - az európai elfogatóparancsnak sikertörténetnek kell lennie, mert ez azt jelenti, hogy belépünk a kölcsönös elismerés rendszerébe, ami annyit tesz, hogy ettől a pillanattól fogva a különböző igazságszolgáltatási hatóságok a bizalom légkörében kezdenek el ténylegesen együtt dolgozni. Az európai elfogatóparancs helyes használatának - amely jelentősen felgyorsította és leegyszerűsítette az eljárásokat - valóban ezért kell a sokkal gyorsabb és gyakorlatában nyilván sokkal egyszerűbb, az Ön által hőn óhajtott új igazságszolgáltatás példájává válnia.
+<P>
+Ennyit mondhatok önnek. Valóban nagyon oda fogunk figyelni az európai elfogatóparancs alkalmazására, amely véleményem szerint a természetesen még sok javításra szoruló rendőri és igazságügyi együttműködés keretében jelenleg rendelkezésünkre álló legjobb eszköz.
+<SPEAKER ID="421" NAME="Elnök">
+Az idő hiányában megválaszolatlanul maradt kérdések írásban kerülnek megválaszolásra (lásd a mellékletet).
+<SPEAKER ID="422" NAME="Elnök">
+A kérdések óráját ezennel berekesztem.
+<P>
+(Az ülést 19.20-kor felfüggesztik, majd 21.00-kor újra megnyitják)

@@ -1,0 +1,2 @@
+<CHAPTER ID="007-15">
+15. Implementarea spaţiului unic de plăţi în euro (SEPA) (vot)

@@ -1,0 +1,62 @@
+<CHAPTER ID="015">
+Evropska agencija za varnost omrežja in informacij (ENISA) (razprava) 
+<SPEAKER ID="768" NAME="Predsednik">
+Naslednja točka dnevnega reda je vprašanje Komisiji za ustni odgovor, ki sta ga v zvezi z Evropsko agencijo za varnost omrežja in informacij (ENISA) zastavila Giles Chichester in Angelika Niebler v imenu skupine Evropske ljudske stranke (krščanski demokrati) in Evropskih demokratov - B6-0159/2008).
+<SPEAKER ID="472" NAME="Angelika Niebler">
+poročevalka. - (DE) Gospod predsednik, gospa komisarka, gospe in gospodje, leta 2004 je bila ustanovljena Evropska agencija za varnost omrežja in informacij, znana pod akronimom ENISA. Njena temeljna naloga je izboljšati varnost omrežja in informacij v Evropski uniji in pospešiti tesnejše sodelovanje med državami članicami.
+<P>
+Pristojnosti ENISE so nedvomno kompleksne. Računalniški virusi, nezaželena elektronska pošta, lažno predstavljanje in trojanski programi so resnična svetu virtualnih podatkov. Vdori predstavljajo nevarnost zasebnim in javnim omrežjem. Škoda, ki jo trpi naša sodobna komunikacijska družba, je ogromna. Varnost je ahilova peta naših računalniških sistemov. To je naša ranljiva in ogrožena točka; to pravim zato, da boste razumeli, kako pomembna je ta agencija za nas.
+<P>
+Po drugi strani agencija nima zadostno količino osebja, medtem ko se sooča z velikansko nalogo, ki jo mora opraviti. S tem se odpira legitimno vprašanje, ali ENISA sploh lahko opravi svoje naloge, glede na to, kako trenutno deluje. Tako v tem Domu kot v drugih njegovih organih smo zelo pogosto razpravljali o tem, kako bi lahko ENISO še bolj razvili. Zadnji predlog Komisije je bil, da bi se ENISA združila z načrtovanim organom za trg evropskih elektronskih komunikacij. Tega predloga nista sprejela ne Parlament ne Svet. Namesto tega sta se Parlament in Svet pred poletnimi počitnicami odločila, da je treba mandat ENISE podaljšati za tri leta.
+<P>
+Skrajnji namen našega vprašanja Komisiji je zagotoviti, da se ta razprava organizira tudi v teku naslednjih treh let. S tem vprašanjem pa smo želeli tudi hitro ukrepati in Komisijo izzvati, da pove, kakšno je njeno stališče o zadevah, ki jih imamo za ključne. Ali v svoji trenutni sestavi ENISA lahko opravi naloge, ki se od nje pričakujejo? Ali Komisija premišljuje o tem, da bi ENISO zamenjala z drugimi organizacijami? ali je res absolutno bistveno, da te naloge opravi agencija EU? O kakšnih splošnih spremembah strukture ENISE bi morali po mnenju Komisije premisliti?
+<P>
+Veselim se odgovora Komisije. Močno si želim ugotoviti, koliko so premisleki v hodnikih Komisije tudi napredovali. V Parlamentu bomo seveda morali oblikovati svoje mnenje o prihodnji obliki ENISE.
+<SPEAKER ID="474" NAME="Viviane Reding">
+članica Komisije. - Gospod predsednik, spoštovani člani bodo vedeli, da se v skladu z Uredbo Evropskega parlamenta in Sveta o ustanovitvi agencije ENISA mandat ENISE avtomatično izteče 13. marca 2009.
+<P>
+Vendar pa Komisija meni, da je zelo pomembno, da zagotovimo kontinuiteto dejavnosti na področju varnosti omrežja in informacij. S tem mnenjem sta se strinjala tudi Parlament in Svet na razpravah o predlogu spremembe uredbe o podaljšanju mandata ENISE.Zato je ukrep za podaljšanje mandata ENISE za nadaljnja tri leta upravičen.
+<P>
+Res je, da je ocena ENISE, ki jo je leta 2006 pričela Komisija, prepoznala številne probleme, vendar je prepoznala tudi pozitivne vidike dosežkov agencije glede na omejena sredstva, s katerimi razpolaga. Komisija se je na ugotovljene težave odzvala s predstavitvijo predloga uredbe o ustanovitvi organa za telekomunikacije.
+<P>
+Danes opažamo, da se Svet in Parlament strinjata, da bi morala ENISA ostati ločena od novega organa, ki bo ustanovljen kot alternativa organu za telekomunikacije, Komisija pa še vedno vidi potrebo po učinkovitem organu, ki bo lahko spremljala vprašanja glede varnosti in celovitosti. Zato je potrebno, da ENISA nadaljuje s svojim delom.
+<P>
+Vendar pa sem tudi trdno prepričana, da bodo izzivi na področju varnosti omrežja, zahtevali močan, usklajen evropski odziv. Nedavni kibernetski napadi v Estoniji pa tudi v Gruziji - resen kibernetski napad v času poletja je tam očitno minil neopaženo - so pokazali, da je ena država sama zase prav res lahko zelo ranljiva.
+<P>
+Zato pozivam Evropski parlament in Svet, da na začetku leta 2009 odpreta intenzivno razpravo o evropskem pristopu k varnosti omrežja in o tem, kako ravnati v primeru kibernetskih napadov ter kako v ta razmišljanja vključiti prihodnost ENISE.
+<P>
+Med razpravo o razširitvi uredbe o ENISI sta tako Parlament kot Svet pozivala k razpravi o ciljih možne, posodobljene politike o omrežju in informacijah ter o najprimernejših sredstvih za njihovo doseganje. Izrecno je bilo navedeno, da razširitev uredbe o ENISI ne sme vplivati na izid navedene razprave. Da bi se takšne razprave pospešile, bo Komisija v drugi polovici leta 2008 sestavila vprašalnik, ki ga bo predložila v spletno javno posvetovanje o možnih ciljih posodobljene politike omrežja in informacijske družbe na ravni EU ter o sredstvih za doseganje teh ciljev. To bo, seveda, storjeno v posvetovanju te ENISO in njenim upravnim odborom.
+<SPEAKER ID="476" NAME="Nikolaos Vakalis" LANGUAGE="EL">
+Gospod predsednik, gospa komisarka, Evropski parlament in Svet sta odobrila podaljšanje delovanja ENISE do konca leta 2012. To triletno podaljšanje bo omogočilo nadaljnje razprave o prihodnosti ENISE in širšem vprašanju povečanje varnosti omrežij in informacij v Evropi.
+<P>
+Po mojem mnenju je treba s postopkom revizije pričeti takoj. Z njim bi se morala začasna ustanovitev organa preoblikovati v trajno; predvsem pa mora to spremljati sočasno povečanje števila zaposlenih in dopolnitev izredno pomembnih členov 2 in 3 v poslovniku agencije. Ta rešitev bo organu omogočila, da se čimprej loti dela v okviru nadgrajenega in izboljšanega mandata.
+<P>
+Dovolite mi, da vas tukaj spomnim - in to je tudi mnenje Komisije - da lahko varnost omrežij in informacij zagotovi samo evropska agencija. Želela bi tudi poudariti, da se danes prevladujoča večina partnerjev strinja, da je ENISA najbolj sposoben in usposobljen organ, ki lahko razvije dinamično evropsko politiko za varnost omrežij in informacij.
+<P>
+V preteklosti je bila ENISA deležna ostrih kritik. Vendar vas moram spomniti, da je ocenjevalno poročilo iz leta 2007 imelo možnost oceniti ENISO samo na podlagi prvega leta njenega delovanja; zaradi tega ta ocena ni več zanesljiva in seveda ni več časovno ustrezna. Nedavne ocenjevalne študije, ki so jih opravili neodvisni organi, so ponovno vzpostavile resnico. Bistveno je, da so na voljo ustrezna sredstva, s pomočjo katerih lahko organ deluje bolj učinkovito.
+<P>
+Na koncu mi dovolite, da vam povem, da tudi grška vlada želi podpreti uresničljivo rešitev: da bi pomagala pri delu in delovanju organa, se je zavezala, da bo krila stroške vzdrževanja prostorov ENISA v Atenah.
+<SPEAKER ID="478" NAME="Anni Podimata" LANGUAGE="EL">
+Gospod predsednik, gospa komisarka, gospe in gospodje, dejstva, na katerih sloni današnja razprava o vprašanju za ustni odgovor Skupine Evropske ljudske stranke (krščanski demokrati) in Evropskih demokratov o ENISI, se zagotovo močno razlikujejo od dejstev, ki so obstajala v času vložitve tega vprašanja. Za začetek naj povem, da sta se Svet in Evropski parlament strinjala, da se uredba o delovanju tega organa podaljša do leta 2012.
+<P>
+Obenem sta predlog Evropske komisije o ustanovitvi organa za nakup elektronskih komunikacij Svet in Parlament obravnavala zelo previdno. Namesto tega Svet in Evropskih parlament dejansko predlagata priporočilo o organu BERT s temeljno odgovornostjo za boljše izvajanje regulativnega okvira za telekomunikacijske storitve, ne da bi se ta vpletal v vprašanja o varnosti in celovitosti omrežja.
+<P>
+Vendar so ta vprašanja prav res izredno pomembna, kot ste tudi vi upravičeno nekaj časa nazaj v današnjih izjavah, gospa komisarka. Poudarili ste, da so nedavni napadi na estonski kibernetski prostor in kibernetski prostor drugih držav pokazali, kako pomembno je, da takoj sestavimo prepričljiv in usklajen evropski odziv.
+<P>
+To pa je natanko tista vloga, ki jo ENISA lahko igra in jo mora igrati, ko deluje v okviru nadgrajenega in izboljšanega mandata z jasno opredeljenimi nalogami in cilji in, seveda, ko dobi potrebna sredstva in človeške vire, ki so ji na voljo.
+<P>
+Upam, da bo Komisija tokrat bistveno in resnično prispevala pri tem, tako da bo pomagala ENISI pri njenem delu in okrepila varnost in celovitost omrežja. To je ključno za okrepitev zaupanja podjetij in, seveda, evropskih državljanov v evropska omrežja.
+<SPEAKER ID="480" NAME="Jorgo Chatzimarkakis">
+v imenu skupine ALDE. - (DE) Gospod predsednik, gospa komisarka, varnost omrežja - to zveni kot posebno področje znanja, vendar pa varnost omrežja vpliva na čedalje več vidikov našega vsakodnevnega življenja: mobilne komunikacije, internet, ki svojo pot iztiska kot hobotnica na čedalje več območij vsakodnevnih dejavnosti, ambientalna inteligenca - računalniška inteligenca, ki se vgrajena v okolja, bodisi zato, da pomaga starejšim, bodisi da nadzoruje zapletene delovne postopke. Vse to nam kaže, da postajamo čedalje bolj odvisni od takšnih naprednih oblik tehnologije. Ta vodijo naša življenja in rast našega gospodarstva.
+<P>
+Kako odvisni smo postali, se je nedavno pokazalo v Estoniji. Gospa komisarka, omenili ste, da je bila prizadeta tudi Gruzija. Ljudje ta primer slabše poznajo, toda če bi potrebovali bolj razvpit primer, kot je Estonija, bi ga dobili tam. Videli smo, kako je sodobno gospodarstvo, ki ga poganja omrežje, postalo odvisno od navedenega dejavnika, od navedene tehnologije, kako je bila napadena in kako je bila njena varnost dejansko v zelo resni nevarnosti. To je tudi razlog, zakaj je Komisija, v kateri je tisti čas funkcijo opravljal komisar Liikaanen, upravičeno prepoznala potrebo po agenciji za varnost omrežja. Zato smo bili presenečeni, da je bila ocena ENISE izdelana komaj po enem letu, še preden je dobila vsa ustrezna sredstva, s čimer je obstoj agencije bil postavljen pod vprašaj. To nas je takrat nedvomno šokiralo, zato sem zelo vesel, da o tem razpravljamo tukaj.
+<P>
+Zakaj smo to agencijo dali pod vprašaj že po enem letu? Kako nameravate, kako nameravamo, oblikovati mandat ENISE, da bo lahko delovala kot agencija pod enakimi pogoji kot agencije v Združenih državah, na Japonskem in Kitajskem?
+<P>
+Želel bi se zahvaliti za vaše priznanje po drugi oceni dosežkov ENISE. Kljub temu se iz dneva v dan člani Parlamenta pogovarjamo o tem kulturnem premiku, tej podnebni spremembi, ki vpliva na naše gospodarstvo, ki nas sili, da se odrečemo gospodarski odvisnosti od fosilnih goriv in ta zamenjamo z drugimi viri energije. Vsak dan si tukaj prizadevamo z dušo in telesom. Vsi vemo, da je sprememba naših sistemov samo možnost. Zaradi tega potrebujemo pametne rešitve in varnost omrežja, saj je varnost na prvem mestu. In zaradi tega sem hvaležen, da to razpravo štejemo kot temeljni kamen pri gradnji ENISE, ki ima na voljo močnejša sredstva, kakor tudi večje varnosti omrežja.
+<SPEAKER ID="482" NAME="Viviane Reding">
+članica Komisije. - Gospod predsednik, v tem zaključku bi želela reči, da je podaljšanje trajanja ENISE za tri leta deležno enoglasne podpore v Svetu in široke podpore v Evropskem parlamentu. Obe zakonodajni roki sta se strinjali, da že na prvem branju čimprej dosežeta sporazum, in sicer še pravi čas pred avtomatičnim iztekom trenutne uredbe.
+<P>
+Kolikor razumem, Svet načrtuje sprejem spremembe uredbe kot točko 'a' na prihodnjem zasedanju Sveta. S tem bi se problem rešil in potem ko bo Komisija predstavila poročilo o temeljnih problemih, ki se nahajajo pod površjem kibernetičnih napadov, bo Parlament lahko prevzel besedo in pričel s pravo razpravo o prihodnosti naših odzivov na tem področju.
+<SPEAKER ID="483" NAME="Predsednik">
+Razprava se je zaključila.

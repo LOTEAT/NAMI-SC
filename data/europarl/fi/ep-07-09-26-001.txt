@@ -1,0 +1,16 @@
+<CHAPTER ID="001">
+Istunnon avaaminen
+<P>
+(Istunto avattiin klo 9.00.)
+<SPEAKER ID="004" NAME="Puhemies">
+(EL) Arvoisat parlamentin jäsenet, hyvää huomenta! Tänään, 26. syyskuuta, on Euroopan kielten päivä. Meillä on velvollisuus täällä Euroopan parlamentissa, kielten temppelissä, muistuttaa ihmisiä päivän merkityksestä Euroopan unionin filosofialle ja olemukselle ja työlle, jota teemme saavuttaaksemme monikulttuurisen Euroopan, jossa erikoispiirteitä, kulttuureja ja kansojemme henkeä kunnioitetaan.
+<SPEAKER ID="005" NAME="Josu Ortuondo Larrea" AFFILIATION="ALDE">
+- (ES) Arvoisa puhemies, paljon kiitoksia puheenvuorosta. Tänään juhlistamme Euroopan kielten päivää, ja toivon toistavani monien Espanjan valtion kansalaisten tuntoja todetessani, etteivät he ymmärrä, miksi Euroopan parlamentin puhemiehistö syrjii heitä, sillä katalonialaisten, galicialaisten ja kaltaisteni baskien, kansalaisten edustajien, ei sallita puhuvan kieliämme parlamentissa.
+<P>
+Toisin kuin komissio, neuvosto ja alueiden komitea, joissa kansalaisten edustajat saavat ilmaista itseään näillä osittain virallisilla kielillä, puhemiehistö kieltäytyy hyväksymästä baskia, katalaania tai galegoa, jotka ovat osittain virallisia kieliä Espanjan valtiossa.
+<P>
+Arvoisa puhemies...
+<P>
+(Puhuja puhui baskia.)
+<SPEAKER ID="006" NAME="Puhemies">
+(EL) Hyvä parlamentin jäsen Josu Ortuondo, puhemiehistö hakee tietoa asiasta, vaikka olemmekin keskustelleet siitä moneen kertaan ja vastaukset ovat hyvin tiedossa.

@@ -1,0 +1,6 @@
+<CHAPTER ID="008">
+Balsuoti skirtas laikas
+<SPEAKER ID="142" NAME="Pirmininkas">
+Toliau darbotvarkėje - balsuoti skirtas laikas.
+<P>
+(Balsavimo rezultatai ir smulkesninformacija: žr. protokolus)

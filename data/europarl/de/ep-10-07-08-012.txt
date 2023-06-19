@@ -1,0 +1,6 @@
+<CHAPTER ID="012">
+Abstimmungsstunde
+<SPEAKER ID="458" NAME="Die Präsidentin">
+Der nächste Punkt auf der Tagesordnung ist die Abstimmung.
+<P>
+(Für die Ergebnisse und andere Einzelheiten zur Abstimmung: siehe das Sitzungsprotokoll.)

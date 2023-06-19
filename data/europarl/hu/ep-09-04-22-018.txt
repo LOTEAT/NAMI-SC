@@ -1,0 +1,188 @@
+<CHAPTER ID="018">
+A városi mobilitásra vonatkozó cselekvési terv (vita)
+<SPEAKER ID="478" NAME="Elnök">
+A következő napirendi pont Gilles Savary jelentése a Közlekedési és Idegenforgalmi Bizottság nevében a városi mobilitásról szóló cselekvési tervről.
+<SPEAKER ID="479" NAME="Gilles Savary" LANGUAGE="FR">
+Elnök úr, biztos úr, köszönöm. Némiképp szokatlan stílusgyakorlatra vállalkozott az Európai Parlament ezzel a jelentéssel, mivel - amint Önök is emlékeznek rá - a városi mobilitás kérdését először a közlekedéssel foglalkozó biztos, Jacques Barrot vetette fel immár két éve, aminek eredményeként az Európai Bizottság kidolgozta a zöld könyvet, és következtetéseit 2007 tavaszán terjesztette elénk. E következtetésekkel Parlamentünk saját kezdeményezésű jelentése foglalkozott, amelyet képviselőtársam, Rack úr dolgozott ki, aki ma is itt ül közöttünk.
+<P>
+Az európai intézményrendszer szerint a zöld könyvet fehér könyvnek kell követnie, és jelen esetben az Európai Bizottságnak a városi mobilitásról szóló cselekvési tervre irányuló javaslata került elénk.
+<P>
+Köszönettel tartozom a jelenlévő Tajani úrnak, hogy decemberben figyelmeztetett arra, hogy politikailag nem lehetséges a Bizottság számára, hogy azonnal javaslatot nyújtson be. Ez érthető: egyes tagállamok egyéni indokokból fenntartásukat fejezték ki most, hogy közelednek az európai választások, de a Parlament felvette a kesztyűt.
+<P>
+Szeretnék köszönetet mondani jelenlévő képviselőtársaimnak is, minden képviselőcsoportban, különösen a koordinátoroknak, és a Regionális Fejlesztési Bizottságnak, hogy támogatták a javaslatomat, amely a megszerzett előnyünkre épített, és azt mondta, hogy ha a Bizottság többé nem tud kezdeményező szerepet vállalni, nekünk kell.
+<P>
+Amit ma javasolni készülünk, némiképp újdonság. Nem tudom, van-e erre precedens ebben a Házban. Mi fogjuk javasolni a Bizottságnak azt a cselekvési tervet, amelyet a Bizottságnak kellett volna javasolnia nekünk.
+<P>
+Természetesen egy ilyen saját kezdeményezésű jelentéstől semmilyen jogi eredményt nem lehet várni. Azzal, hogy rendkívül pontos javaslatokat tartalmazó, nagyon gyakorlatias cselekvési tervet terjeszt elő, a Parlament semmi mást nem remélhet, mint hogy meghallgatják, mivel a Parlament nem a végrehajtó hatalom, nem az Európai Unió kormánya - ez ugyanis a Bizottság szerepe.
+<P>
+El kell mondanom másfelől, hogy az utóbbi néhány hónapban óriási támogatást szereztünk az ebben a kérdésben érdekelt szervezetektől. E szervezetek többek között - ezt azon képviselőtársaim kedvéért szeretném kiemelni, akiknek még mindig fenntartásaik vannak e kezdeményezéssel kapcsolatban - helyi önkormányzatok, és a helyi önkormányzatokat képviselő valamennyi szervezet, azokban az országokban is, amelyek a szubszidiaritásra hivatkozva próbálják megmagyarázni nekünk, hogy ez a cselekvési terv szóba sem jöhet.
+<P>
+Ezért azt hiszem, hogy a helyi önkormányzatok is felismerték, hogy a városi mobilitás a XXI. század valószínűleg egyik legfontosabb kihívása. Miért is? Mivel ma az európaiak 60%-a városi közösségben él. 2020-ban ez a számadat 80%-ra emelkedik, és mi, az Európai Unió olyan jogalappal rendelkezünk, amely szerint együttesen felelünk a tagállamokkal és a helyi önkormányzatokkal a közlekedési politikáért.
+<P>
+Mi, európaiak, lemondunk-e arról, hogy bármilyen halvány ötletünk legyen vagy bármilyen csekély kezdeményezést tegyünk olyan területeken, amelyeken a közlekedés jelenti majd a legösszetettebb és vitathatatlanul a legalapvetőbb problémákat az elkövetkezendő években? Úgy véljük, nem, és az Európai Parlament ezért nem akarja, hogy csendben maradjunk, hogy hallgassunk a városi mobilitásról, sokkal inkább azt akarta tőlünk, hogy e kezdeményezéssel felkérjük a Bizottságot arra, hogy a kérdést a következő ciklusban is kezelje prioritásként.
+<P>
+Szeretnék köszönetet mondani minden koordinátornak, mivel szokatlan módon dolgozunk együtt, nagyon is az árral szemben, és a benyújtott jelentés széles körű támogatást szerzett a Közlekedési és Idegenforgalmi Bizottságban.
+<P>
+Szeretném elmondani, hogy ez a jelentés a szubszidiaritás elvén alapul. Nem is lehet kérdés - igen, tudom, lejárt az időm, de remélem, elnök úr, megbocsát az előadónak - hogy Európa bármilyen városi közlekedéssel kapcsolatos döntést a helyi önkormányzatok nevében hoz meg.
+<P>
+Én magam is helyi szinten megválasztott képviselő vagyok, és rendkívül elkötelezett a helyi önkormányzatok igazgatásának szabadsága irányában, amint azt azok a kampányok is mutatják, amelyeket itt e Házban folytattunk különösen Pieczyk úrral, aki szintén tagja a Közlekedési és Idegenforgalmi Bizottságnak. Azt hiszem azonban, hogy Európa ösztönözheti, javíthatja az információ és a legjobb gyakorlatok cseréjét, és ez javaslatunk lényege, amelyet hamarosan vázolni fogunk.
+<SPEAKER ID="480" NAME="Antonio Tajani" LANGUAGE="FR">
+Elnök úr, először is szeretnék köszönetet mondani Savary úrnak a munkájáért. Szeretnék köszönetet mondani neki azért az elkötelezettségért, amelyet a nagyvárosok és a városok közlekedéséről szóló európai politika előmozdítása iránt tanúsított. Ez nem másodlagos kérdés: ha ugyanis fel szeretnénk nőni az európai közlekedés jelentette kihíváshoz, dolgoznunk kell a városi közlekedés területén.
+<P>
+Ezért szeretnék először is Savary úrnak köszönetet mondani. Megismétlem: köszönet illeti őt, előrelépést tettünk a városi közlekedés területén, és a mai jelentés, amelyről holnap szavaznak, nagyon fontos üzenet, olyan üzenet, amelyet meg kell hallgatnom, és remélem, pozitív választ adhatok a következő ciklusban Savary úrnak az elkötelezettségét illetően. Hálás vagyok még egyszer a városi közlekedés területén végzett munkájáért.
+<P>
+Most az anyanyelvemen folytatom.
+<P>
+a Bizottság alelnöke. - (IT) Elnök úr, hölgyeim és uraim, a városi közlekedés egyértelműen része az Európai Unió közlekedési rendszerének, mivel az egész rendszer gyakori kezdő- és végpontja a nagyvárosok területe, és útközben is számos nagyvárost érint. Ebből eredően fontos nem csak a városi élet szempontjából foglalkozni a városi mobilitással, hanem a valamennyi típusú közlekedés szempontjából, ideértve a nagy távolságra irányuló közlekedést is.
+<P>
+Az éghajlatváltozás elleni küzdelem, a kereskedelem megkönnyítése, az energiaellátás biztosítása, a polgárok mobilitási igényeinek teljesítése, a torlódásokkal összefüggő problémák csökkentése és a demográfiai változások kezelése mind alapvető jelentőségűek az európai politika számára, és a városi területek mobilitása szorosan összefügg mindezen kihívásokkal.
+<P>
+Pontosan ebből az okból terjesztette elő a Bizottság 2007 szeptemberében a városi mobilitásról szóló zöld könyvét, és a zöld könyv elfogadását követő konzultáció azt mutatta, hogy széles körben egyetértünk abban, hogy az Európai Uniónak szerepet kell vállalnia e területen. E következetést támasztja alá az Önök Rack úr vezetésével kidolgozott állásfoglalása a városi mobilitásról szóló zöld könyvről, amelyet 2008. július 9-én fogadtak el.
+<P>
+A könyv célja az volt, hogy lerakja a városi mobilitásról szóló cselekvési terv alapjait; az a tény, hogy a Parlament saját cselekvési tervet dolgozott ki a bizottsági javaslat előtt, nagyon erőteljes politikai üzenetet hordoz, ezért is hangsúlyoztam Savary úr előadóként elvégzett munkájának jelentőségét, mivel arra mutat, hogy a Parlament mekkora jelentőséget tanúsít egy olyan munkának, amelyet semmi esetre sem hanyagolhatunk el.
+<P>
+Amit azzal Önök is tisztában vannak, támogatom a városi mobilitás kérdését, és egy megfelelően kidolgozott cselekvési terv gyors elfogadását. Szeretném megismételni, hogy ez a Bizottság 2009. évi munkaprogramjában szerepel, és remélem, hamarosan el is fogadjuk. Savary úr rendkívül jól fogalmazta ezt meg hozzászólásában: még mindig ellenállnak néhányan az európai intézményekben, mivel azt hiszik, hogy egy ilyen cselekvési terv sértené a szubszidiaritás elvét. Nem hiszem, hogy ez kérdés lehet, különösen, ha a szubszidiaritás szó latin gyökerét nézzük, a subsidium ugyanis segítséget jelent. Európai intézményekként az a feladatunk, hogy segítsük a helyi intézményeket a sikeresebb munkavégzésben. Az, hogy segítünk valakinek, nem jelenti, hogy a helyébe lépünk, azt jelenti, hogy hozzájárulunk a probléma jobb megoldásához!
+<P>
+Anélkül, hogy a javaslattal kapcsolatban részletekbe bocsátkoznék, megerősíthetem, hogy cselekvési tervünk azokon a tevékenységeken fog alapulni, amelyeket már egy ideje folytatunk, és azokat egy átfogóbb kontextusba helyezzük, arra törekedve, hogy megjelenítsük azt az európai szemléletet, amely még mindig hiányzik a városi mobilitással kapcsolatos európai cselekvésből. Ily módon a politikai keretrendszert az olyan területeken folytatott jövőbeni cselekvések számára is meg kell tervezni, amely területeken a közösségi szintű fellépés hasznos, vagy inkább alapvető.
+<P>
+Az Önök jelentése mindenképpen jelentős adalék belső megbeszéléseinkhez, és biztosíthatom Önöket, hogy számos javaslatát figyelembe tudjuk majd venni. Természetesen vannak olyan szempontok és részletek, amelyeket tovább kell pontosítani, illetve meg kell vitatni. Garantálom, hogy alaposan átgondoljuk javaslataikat, a Régiók Bizottságának ajánlásával együtt, amely Bizottsággal Önök is konzultáltak.
+<P>
+A mai szavazás nem zárja le a témában folytatott párbeszédünket. Ahogy a Bizottság munkája halad, ígérem, kapcsolatban maradok Savary úrral és azokkal a képviselőkkel, akik közelebbről figyelemmel kísérték a közlekedési ágazatot, így a Bizottság által elfogadott terv összhangban lesz a Parlament által elfogadottal, és valódi minőséget tükröz majd. Végül, hadd mondjam el még egyszer, tervünk nem azt mutatja majd, hogy a Bizottság a helyi szervek helyébe lép, csak azt, hogy a Bizottság segítséget szeretne nyújtani a helyi szerveknek munkájuk javításában, azzal, hogy megosztja azokat az információkat és legjobb gyakorlatokat, amelyek jobb életminőséget biztosítanak polgáraink számára, és megkönnyítik a városokon belüli, a városokon kívüli és a városokon áthaladó közlekedést. Ezért köszönetet mondok az Európai Parlamentnek az elvégzett munkájáért, és a tervvel kapcsolatban tartandó szavazásért.
+<SPEAKER ID="482" NAME="Jean Marie Beaupuy" LANGUAGE="FR">
+Elnök úr, biztos úr, Savary úr, hölgyeim és uraim, egy parlamenti közgyűlésen vagyunk, amelynek az a feladata, hogy szövegekről szavazzon, biztos úr, és elsősorban azért vagyunk a parlamenti közgyűlésen, hogy ezeket a szövegeket végrehajtsák.
+<P>
+Megjegyeztük ma, hogy az Ön elődje által a zöld könyvvel kapcsolatban végzett kiváló munka és az azt követő körülbelül 400 hozzászólás után a munka alig folyt tovább, annyira nem, hogy - amint Ön is elismételte - az is különös volt, hogy a Parlament nyilatkozik.
+<P>
+A természet valóban fél az üres terektől, ezért ha az Európai Bizottság nem végzi el a munkáját, az Európai Parlamentnek kell, és ebben a tekintetben el kell mondanom - és ezt Ön is elmondta, biztos úr -, hogy Savary úr munkája rendkívül hasznos, mivel ténylegesen biztosította az Önök számára mindazt az anyagot, ami a cselekvési terv megszövegezéséhez szükséges.
+<P>
+Nem arra gondolok itt, hogy szerepcsere zajlik a Bizottság és a Parlament között, de meg kell jegyeznünk, hogy noha a Lisszaboni Szerződést még el kell fogadni, a Parlament ténylegesen egy kicsivel több hatalomra tesz szert.
+<P>
+Savary úr munkája azért kiváló, mert újra figyelembe veszi a Regionális Fejlesztési Bizottság számos javaslatát.
+<P>
+Azt várjuk Öntől - a szubszidiaritás tiszteletben tartása mellett természetesen -, hogy egy útmutatót terjesszen elénk. Ez nagyon hasznos lesz. Nem az lesz a célja, hogy a helyi önkormányzatokat korlátozza, hanem az, hogy segítsen nekik. Szeretnénk, ha mutatókat dolgozna ki a számunkra, nem kényszer jelleggel, hanem támogatásként. Mindenekelőtt azt is várjuk, hogy bemutassa nekünk a közlekedési terv alkotóelemeit is. Néhány országban vannak ilyenek, néhány országban ezek még kötelezőek is, és abszolút életbevágóak.
+<P>
+Szeretnék erre egy példát hozni. A városi lakhatással foglalkozó képviselőcsoportok közötti csoportosulásban, amelynek elnöke vagyok, felhívtuk a figyelmet a városok elmúlt néhány évben tapasztalható növekedésére: 10 év alatt a városok növekedése Luxemburg területének háromszorosát érte el. Hogyan is kapcsolódik ez a ma esti vitánkhoz? Nagyon is szorosan, hiszen a városlakók pontosan 20%-kal utaznak többet naponta a városi növekedésnek köszönhetően, és több mint 70%-uk saját autóját használja erre.
+<P>
+Ezzel csak azt szeretném mondani, hogy amikor a Regionális Fejlesztési Bizottság arra kéri Önt, hogy az integrált megközelítéssel egyidejűleg vegye figyelembe a közlekedési terveket is, olyan általános elvet állapít meg, amelyet reményeink szerint Ön figyelembe vesz cselekvési tervében.
+<P>
+Ez a kérdés természetesen felvetődött a városi lakhatással foglalkozó képviselőcsoportok közötti csoportosulásban is, és szeretnénk hálánkat kifejezni előre is, hogy itt is figyelembe veszi az integrált megközelítést.
+<P>
+Nem válaszolt a kérdéseinkre ma, biztos úr. Amit ma Ön tett, az egy langyos kötelezettségvállalás; az elvek tekintetében elég határozott volt, de semmilyen garanciát nem adott nekünk.
+<P>
+A helyzet azonban súlyos. Miért is? Mert 400 millió európai él városokban, és ez a 400 millió európai olyan életfeltételekkel néz szembe, mint amilyen ez is, hogy órákat kell vesztegelnie nap mint nap a dugóban. Tudjuk, hogy ezek a torlódások a GDP 1%-ába kerülnek. Akkor, amikor helyreállítási tervről, gazdaságélénkítési tervről beszélünk, milliárdokat herdálunk el.
+<P>
+Gyorsabb fellépésre van szükség, biztos úr, mivel a városi mobilitási cselekvési tervek döntő fontosságú részét képezik a gazdaságélénkítési tervnek, de életbevágóak az éghajlatváltozásban rejlő kihívás szempontjából is, mivel - amint Ön is rámutatott - a szennyezés 40%-át városok okozzák. A biztonsági szempontot sem szeretném elhanyagolni, mivel háromból két közlekedési baleset városokban történik. Tudjuk, hogy egy haláleset közel 1 millió euróba kerül, és egy súlyos sérülés több mint 1 millió euróba, ebből Ön is láthatja, hogy a városi mobilitás kihívása mekkora gazdasági és humán költséget jelent évente.
+<P>
+Így, mindezen gyakorlati okokból, az európai választások előestéjén arra kérjük Önt, biztos úr, hogy ha lehetséges a ma esti vita lezárásakor, menjen messzebb javaslataival és ígéreteivel, ne csak általános ígéretet tegyen, hanem vállaljon kötelezettséget egy cselekvési tervre, az Ön cselekvési tervére, hogy polgártársainkat is ösztönözze a június 7-i szavazásra.
+<SPEAKER ID="483" NAME="Reinhard Rack">
+, a PPE-DE képviselőcsoport nevében. - (DE) Elnök úr, csatlakozom az előadóhoz, Gilles Savaryhoz, és sajnálatomat fejezem ki, amiért a Bizottság nem vitte keresztül az integrált cselekvési tervre irányuló eredeti tervét.
+<P>
+Nagyno sok jó okot találunk arra, hogy az érintettek, a helyi önkormányzatoktól az Európai Unióig, miért szeretnének javítani a városi közlekedés feltételein. Tudjuk, hogy a legtöbb európai városokban él, és hogy a jelenlegi közlekedési feltételekre mindent el lehet mondani, csak azt nem, hogy optimálisak lennének. Ezért született elvi egyetértés arról, hogy a Parlament kezdeményezésére integrált javaslatokat teszünk a tervvel és Savary úr jelentésével kapcsolatban. Köszönöm neki elkötelezettségét és konkrét javaslatait.
+<P>
+Ugyanakkor szeretném teljesen egyértelművé tenni, hogy az, amitől sokan félnek, vagy amitől úgy vélik, félniük kell, nem fog megtörténni. Senki sem szeretné elvenni a jogot az önkormányzatoktól vagy a helyi és regionális hatóságoktól, hogy a közlekedési feltételeket kialakítsák. Pusztán segítséget szeretnénk nyújtani európai oldalról annak biztosítására, hogy a fellépésre ésszerű közös szabályok alapján kerül sor ott, ahol az önkormányzat, a város vagy a regionális közigazgatási egység azt ésszerűnek tartja. A szubszidiaritás elve nincs veszélyben. Amit tenni szeretnénk, védelmezi ezt az elvet.
+<P>
+Ezért a polgárok érdekében továbbra is törekszünk annak biztosítására, hogy ha egy polgár még tíz vagy húsz kilométert utazik Európában, ne kerüljön olyan forgalomcsillapított övezetbe, amelyről úgy véli, hogy ugyanolyan, mint otthon, jóllehet teljesen eltérő szabályokat kellene követnie.
+<P>
+Senki sem szeretne torlódási díjat vagy más szabályokat erőltetni az önkormányzatokra, de amennyiben ezek alkalmazására sor kerül, azokat a polgárok által felismerhető keretben kell használni. Több mint 100 éve egyetértünk abban, hogy a közúti jelzésekre közös megközelítést kell alkalmazni. Ennek így kellene lennie ebben a kérdésben is a jövőben.
+<SPEAKER ID="484" NAME="Saïd El Khadraoui">
+, a PSE képviselőcsoport nevében. - (NL) Először is szeretnék köszönetet mondani az előadónak, Gilles Savarynak, és mindazoknak, akik a végeredményhez hozzájárultak, az általuk végzett munkáért, és az előadónak különösen azért, hogy állhatatosan kitartott, annak ellenére, hogy a Bizottság jelezte, nem áll szándékában a cselekvési tervet folytatni, legalábbis most, pedig erre olyan régóta várunk.
+<P>
+Szeretném megkérni a Bizottságot, hogy fogadja el az ajánlásokat, amelyekről holnap szavazni fogunk, és azt a lehető leghamarabb váltsa tettekre. Jóllehet a Parlamentben van egy elenyésző kisebbség, és nyilvánvalóan a Bizottságban és a tagállamokban is van néhány ember, akik azt hiszik, hogy egyértelműen el kellene határolódnunk mindattól, ami a városokkal kapcsolatos, de teljesen egyértelmű, hogy Európa hozzáadott értéket kínál, ha jelentős és nagymértékben közös problémák kezeléséről van szó.
+<P>
+A jelentés számos érdekes javaslatot tartalmaz. Az egyik nyilvánvalóan az információ és az összehasonlítható adatok gyűjtése, amelyek révén feltérképezhetjük a problémát. Más javaslatok az ésszerű ötletek cseréjére és támogatására, a technológiai innováció vezérlésére, a rendszerek átjárhatóságának biztosítására, és a városok mobilitási tervek készítésére történő ösztönzésére, valamint a fenntartható mobilitás irányában teendő lépésekre vonatkoznak. Ezek és más példák egyértelműen olyan kérdéseket érintenek, amelyeket európai szinten kell megszervezni annak érdekében, hogy városainkat élhetőbbé, könnyebben elérhetővé és fenntarthatóbbá tegyük. Ezért számítok a Bizottságra abban, hogy ezt végigviszi, és a polgárok érdekét szem előtt tartva kezeli a kérdést.
+<SPEAKER ID="485" NAME="Michael Cramer">
+, a Verts/ALE képviselőcsoport nevében. - (DE) Elnök úr, hölgyeim és uraim, én is köszönetet mondok az előadónak.
+<P>
+Az éghajlatváltozással összefüggésben a városi közlekedés központi szerepet játszik, mivel valamennyi káros kibocsátás 70%-áért felel. Csak akkor tudjuk elérni éghajlatvédelmi célkitűzéseinket, ha megváltoztatjuk a közlekedéspolitikánkat az EU-ban. A legnagyobb lehetőség a városokban rejlik, ahol valamennyi, személygépkocsival tett utazás 90%-a 6 km-nél rövidebb, ezért kiváló alkalmat kínál arra, hogy busszal, vonattal, kerékpárral vagy gyalog közlekedjünk.
+<P>
+Nagyon örülünk annak, hogy a többség támogatja azt az elképzelést, hogy a 100 000 lakosnál nagyobb városok csak akkor kapnak uniós pénzt, ha fenntartható mobilitási tervet is benyújtanak. Sajnáljuk, hogy az a javaslatunk nem szerzett többséget, amely szerint 30 km/h általános sebességkorlátozást kellene bevezetni, a szubszidiaritás elvével összhangban meghagyva egyúttal a lehetőséget a városok számára, hogy magasabb sebességet írjanak elő egyes utakon. Ez nem csak az éghajlat szempontjából lenne jó, de csökkentené a közúti balesetek számát is. Minden évben 40 000 ember hal meg Európa közútjain, ez éppen 40 000-rel több a kelleténél.
+<SPEAKER ID="486" NAME="Johannes Blokland">
+, az IND/DEM képviselőcsoport nevében. - (NL) Először is szeretnék köszönetet mondani Savary úrnak a közöttünk kialakult jó együttműködésért. Ésszerű jelentést dolgozott ki, az árnyék-előadókkal szorosan együttműködve.
+<P>
+A jelentés egyértelművé teszi, hogy a városi mobilitás a közlekedési ágazat olyan része, amelyben sok kihívás és lehetőség rejlik. Kihívás az európai éghajlatvédelmi célkitűzések, a torlódások ellenőrzése, a forgalombiztonság és a felhasználó-barát tulajdonság, és lehetőség a fenntartható gazdasági fejlődés, és ezzel szoros összefüggésben a belvízi hajózás növekedése tekintetében.
+<P>
+Mivel a jelentés kiváló, és helyesen fordít kellő figyelmet a szubszidiaritás elvére, ezért röviden a városi mobilitás és a belvízi hajózás kapcsolatáról szeretnék szólni. A fenntartható gazdasági fejlődés Európában, és nem kevésbé a közlekedés és a városi térségek területén nagymértékben a belvízi hajózáson múlik majd. Számos európai városban vannak belvízi utak, és ebből következően bennük rejlik az a képesség, hogy a közlekedésben tapasztalható keresletnövekedést fenntartható módon elégítsék ki. Végül is a belvízi hajózás növeléséhez nincs szükség nagyobb infrastrukturális beruházásokra, az nem okoz torlódást az európai városokban, nem növeli az európai városok környezeti és éghajlati problémáit, feltéve, hogy tiszta motort és tiszta üzemanyagot használ. Ha a belvízi hajózási kapacitás már jelen van az európai városokban, azt ki kell használni és támogatni kell.
+<P>
+A városi mobilitás jövője ezért szorosan összefügg a belvízi hajózás jövőjével. Ezért arra kérem az Európai Bizottságot, hogy vegye alaposan figyelembe a belvízi hajózás jelentőségét a városi mobilitásról szóló új jogszabály kidolgozásakor.
+<SPEAKER ID="487" NAME="Renate Sommer" AFFILIATION="PPE-DE">
+(DE) Elnök úr, már hosszú ideje vitatkozunk a városi közlekedésről az EU-ban. De miért is? Nem is a mi hatáskörünkbe tartozik. A hatáskör eredetileg megoszlott, de mivel a lakosság körülbelül 80%-a városokban él, és az éghajlatváltozásnak köszönhetően most ezt át akarjuk venni.
+<P>
+Szerencsére tiltakozásaink hatására letörtük az Európai Bizottság ambícióit a városi közlekedésről szóló cselekvési terv tekintetében. Köszönöm Tajani biztos úrnak az áttekintést. A subsidere inkább támogatást és nem előírást jelent, de természetesen ő olaszként ezt jobban tudja, mint én németként felsőfokú latintudással.
+<P>
+Számomra az a legfontosabb, hogy a jelentésünk, a Parlament jelentése hangsúlyozza a szubszidiaritás és az arányosság elvének szigorú betartását. Az európai szintű jogalkotási intézkedések elengedhetetlenek a városi közlekedés szempontjából. Mi támogató intézkedésekért vagyunk itt. Az ötletcsere, valamint a legjobb gyakorlatok cseréjének a biztosítása az, aminek értelme van. Nem kell újra feltalálnunk a biciklit. A városainknak egyedi, saját igényeikhez igazított megoldásokra van szükségük, de ezt csak a helyi szereplők dolgozhatják ki, mivel csak ők tudják, hogy mire van szükségük.
+<P>
+Az önkormányzatoknak nagyon különböző helyzeteket kell figyelembe venniük, ezért elegendő mozgásteret kell biztosítani számukra, különösen, ha a belvárosi kereskedelmet életben akarják tartani. Ez fontos egy város vonzereje szempontjából. Ezért lényeges, hogy ne zárjuk ki a személygépkocsikat, és jobban összpontosítsunk a városi logisztikára. Ezért szeretném, ha több támogatást nyújtanánk a városon belüli kiskereskedelmi logisztikával kapcsolatos kutatáshoz. Ez levenne némi terhet a városról.
+<P>
+Fontos, hogy a demográfiai változásokat is figyelembe vegyük. Társadalmunk folyamatosan öregszik. Változnak a mobilitási és lakhatási igények. Ha csökkenteni akarjuk a forgalmat, az embereknek mindennapi szükségleteiket az otthonukhoz közel kell tudniuk beszerezni, és ez is a kiskereskedelem egyik kihívása. Minden más csak a vidéket támogatná.
+<P>
+Nincs szükségünk a városi mobilitás megfigyelőközpontjára. Nagyon sok pénzbe kerülne, rengeteg papírmunkát generálna, amit egyszerűen csak félretolnának Brüsszelben.
+<SPEAKER ID="488" NAME="Maria Eleni Koppa" AFFILIATION="PSE">
+(EL) Elnök úr, a városi mobilitásról szóló e jelentés fontos része az életképes európai mobilitásnak, és integráns része a fenntartható növekedési stratégiának és a lisszaboni célkitűzéseknek.
+<P>
+A kihívás abban rejlik, hogy innovatív fellépéseket kell elfogadni, és olyan jogalkotási intézkedéseket kell hozni, amelyek jelentősen javítják a városokban élő polgárok életminőségét. Tény, hogy az európai polgárok mindennapi élete jelentősen nehezebbé vált az utazás, a torlódások, a szennyezés, a zaj és a környezet degradálódása által okozott stressz eredményeként. Ezért egyensúlyt kell találnunk egyrészt a közös közlekedéspolitikának mint a mobilitáshoz való jognak és a gazdasági fejlődés fontos részének fejlesztésére irányuló ambíció, és másrészről a forgalmi torlódások javítását és az éghajlatváltozás leküzdésére irányuló drasztikus lépést magában foglaló integrált megközelítés között.
+<P>
+Röviden, ezzel humánusabb életet termetünk. Kombinált közlekedési módokat kell kialakítani a lehető leghamarabb, és tájékoztatni kell a polgárokat valamennyi városi közlekedési hálózatról, hogy legyen választási lehetőségük.
+<P>
+Én is szeretnék gratulálni az előadónak e kiváló és alapos jelentéshez, és arra kérném az Európai Bizottságot, ne vesztegessen el több időt vagy munkát a cselekvési terv kidolgozásában.
+<SPEAKER ID="489" NAME="Mieczysław Edmund Janowski" AFFILIATION="UEN">
+(PL) Elnök úr, gratulálok Savary úrnak a téma kezeléséhez. A közlekedés alapvető probléma a városi térségekben. Ezeket a kérdéseket a szubszidiaritás elvének megfelelően a hazai, különösen a helyi jogszabályok szabályozzák. A probléma jelentőségét azonban fel kell ismerni, és konkrét segítséget kell nyújtani, valamint meg kell szervezni az európai szintű koordinációt. Ez mind a megfelelő tapasztalatok támogatására, mind az innovatív műszaki és szervezési megoldások előmozdítására vonatkozik.
+<P>
+Konkrét támogatás szükséges a városi térségek intelligens közlekedési rendszereihez, amelyek figyelembe veszik a hatékony forgalomirányítást és a biztonságot is. Hasznos itt a közlekedési potenciál, az információs technológia és a távközlés összekapcsolása. Szintén szükség van még modális megoldásokra, amelyek a tömegközlekedés több módját használják és csökkentik a torlódást a városközpontokban. Úgy vélem, lényeges, hogy a várostervezési modelleket úgy változtassuk meg, hogy a városi közlekedés felhasználóbarát és környezetbarát legyen. Támogatom azt az elképzelést is, hogy konkrét pénzügyi eszközt különítsünk el a városi mobilitás tekintetében a következő pénzügyi tervben.
+<P>
+Emlékezzünk arra, mit is mondott az előadó, hogy az EU lakosainak majdnem 80%-a él városokban. Sok-sok időt elvesztegetnek a közlekedés rossz szervezése miatt. Mi ne raboljuk tovább az ő idejüket.
+<SPEAKER ID="490" NAME="Antonio Tajani" LANGUAGE="IT">
+Elnök úr, hölgyeim és uraim, válaszul csak azt tudom hangsúlyozni, hogy elkötelezett vagyok a cselekvési terv 2009-ben történő előterjesztése iránt.
+<P>
+Tisztában vagyok azzal, hogy a képviselők többsége sürgősnek érzi a cselekvést, de amint arra El Khadaroui úr is rámutatott, vannak jogi kifogások több európai intézményben, nem csak a Bizottságban, és ezeket is kezelnünk kell azáltal, hogy meggyőzzük a kételkedőket, hogy egy ilyen cselekvési terv, ismétlem, nem sérti a szubszidiaritás elvét. Elmondom még egyszer, mivel hosszú éveken át tanultam latinul, nagyon is tudom, hogy mit jelent ez a pozitív szó, azt jelenti: "segíteni”.
+<P>
+A mai vitát követően, és Savary úr szövegének elolvasása után tovább szeretnénk haladni ezen az úton. Részemről én nem habozom, de annak érdekében, hogy célunkat elérjük, sok embert kell meggyőznünk, és úgy gondolom erre a legjobb módszer, ha erőteljes politikai, műszaki és jogi érveket terjesztünk elő. A Parlament által kidolgozott szöveg határozottan nagy segítséget fog nyújtani a kifogások eloszlatásában, amire biztosan sort tudok keríteni a következő néhány hónapban. A Bizottság így olyan cselekvési tervet ad a polgárok kezébe, amely egyértelműen teljes mértékben figyelembe veszi az Önök elmúlt hetekben-hónapokban végzett munkáját.
+<P>
+Ezért szeretnék újra köszönetet mondani Önöknek, és megerősíteni elkötelezettségemet és óhajomat az iránt, hogy abban az irányban haladjak tovább, amelyet az elődöm és az Európai Parlament is választott, míg biztosítani szeretném, hogy a döntést a lehető legtöbben támogassák, így a terv még hatékonyabb lesz. Ha azt választjuk, hogy talán néhány héttel korábban fogadjuk el a tervet, de nem minden érdekelt teljes támogatásával, az talán nem a legjobb módszer az általunk kitűzött célok elérésére.
+<P>
+Mindazonáltal úgy vélem, hogy e vitát követően, és a parlamenti döntés után jelentős előrelépést teszünk, és ezért a képviselők többségének igénye - mivel még e vita során is elhangzottak elégedetlen szavak a cselekvési tervről - úgy vélem, kielégíthető lesz az elkövetkezendő hónapokban.
+<SPEAKER ID="492" NAME="Gilles Savary" LANGUAGE="FR">
+Elnök asszony, hölgyem és uraim, természetesen szeretném mindjárt itt, e vita során megnyugtatni Sommer asszonyt. Sok jogszabály került elénk már, amely a helyi önkormányzatokat érintette: a Stadtwerke, azaz a kommunális létesítmények versenyeztetése például, vagy a közszolgáltatási kötelezettségek a közlekedési ágazatban, és a közbeszerzési szerződésekről szóló irányelvek.
+<P>
+Nos, itt most nem erről van szó. Ennek sokkal több köze van a szubszidiaritáshoz. Itt nem arról kell dönteni, hogy egy városi tanács, az önkormányzat, vagy a városi térség 30-as zónát alakítson ki vagy a vasúti közlekedéshez rendeljen prioritást. Gondoskodtam arról, hogy ne folyjunk bele ilyen vitába.
+<P>
+A következő kérdést tettem fel magamnak: "Milyen hozzáadott értéket jelent az Európai Unió?” A válasz először is a cselekvésre való hajlandóság. Az Európai Unió nem hagyhatja a városok kérdését figyelmen kívül ugyanabban a hónapban - 2008 decemberében - amikor saját maga, Merkel asszonynak és Sarkozy úrnak hála, különösen nagyra törő éghajlat-változási tervet határozott meg.
+<P>
+Hogyan vállalhatjuk a "háromszor húszas” éghajlat-változási tervet, ha azt mondjuk, "nem érdekel a városi környezet”, noha ez gyakorolja a legnagyobb hatást az éghajlatváltozásra?
+<P>
+Ez politikai következetesség kérdése - az európai politikai következetességé -, mivel egyetértettünk abban, és a kormányok is, hogy vállaljuk az éghajlat-változási tervet. Jogos hát az igény, hogy a városi környezetre összpontosítsunk, és nem menekülhetünk ettől, sem a közlekedés területén, sem más területeken.
+<P>
+Igen, biztosítanunk kell, hogy a városi tanácsok szuverén döntéseket hozhassanak; ők közelebb vannak hozzánk. Ugyanakkor gondoskodhatunk arról, hogy találkozzanak egymással, megvitassák a legjobb gyakorlatokat, információt cseréljenek.
+<P>
+Ösztönözhetjük őket városfejlesztési tervek végrehajtására, amire eddig egyáltalán nem voltak képesek.
+<P>
+Gondoskodhatunk arról, hogy valamennyi közlekedési módot integrálják: a puha közlekedést, a tömegközlekedést, a vízi közlekedést - Blokland úrnak igaza van - és a vasúti közlekedést.
+<P>
+Biztosíthatjuk, hogy a városi közlekedés vonzóbb legyen a felhasználók számára.
+<P>
+Erre törekszünk, és ehhez szeretnénk pénzügyi eszközt rendelni. Itt van a Marco Polo, amely a kombinált közlekedést ösztönzi. Itt vannak az URBAN-programok. Van több európai programunk, amely ösztönzőket biztosít. Ezeket nem most találjuk ki, évek óta működnek.
+<P>
+A következő pénzügyi tervet, anélkül hogy növelnénk, a városi közlekedés felé kell irányítani. Ez a javaslatunk.
+<P>
+Zárásképpen szeretném elmondani Tajani úrnak - elnök asszony, bocsásson meg, én vagyok az előadó -, hogy ha holnap elsöprő többséget szerzünk, azzal mehet vissza a Bizottságba, hogy: "Úgy vélem, tennünk kell valamit, mivel meg van a felhatalmazásunk, és mert a Parlament nem egyedül járt el”.
+<P>
+(Taps)
+<SPEAKER ID="493" NAME="Elnök">
+A vitát lezárom.
+<P>
+A szavazásra holnap kerül sor.
+<P>
+Írásbeli nyilatkozatok (az eljárási szabályzat 142. cikke)
+<SPEAKER ID="494" NAME="Marian-Jean Marinescu" LANGUAGE="RO">
+Az európai polgárok életminősége közvetlenül attól függ, hogy sikerül-e a városi közlekedést kényelmesebbé és fokozottabban környezetbaráttá tennünk. Éppen ezért a közlekedés hozzáférhetőségének biztosítása és az átjárhatóság támogatása döntő fontosságú fellépések. Ugyanakkor az ilyen típusú közmunkákba tett befektetések hatékony módjai az európai és nemzeti gazdaságélénkítési tervekben előírt pénzeszközök befektetésének. E megközelítés lényege, hogy a polgárokra két szempontból is összpontosítunk, egyrészt, mint munkavállalókra az új munkahelyek teremtése révén, másrészt, mint a közlekedési szolgáltatásoknak és a környezet minősége javulásának kedvezményezettjeire.
+<P>
+Számos, a városi mobilitás javításáról szóló európai kezdeményezésben és javaslatban van szükség azonban az integrált megközelítésre. A szubszidiaritás elvének betartása nem zárja ki a következetes jogi keret megvalósításának és egy olyan közös referenciakeret megteremtésének szükségességét, amely az integrált ajánlásokon felül a helyes gyakorlatok átfogó sorát is tartalmazza.
+<P>
+Ennek eredményeként a témában közvetlenül felelős helyi önkormányzatoknak lehetőségük lesz a helyi és regionális szintű közlekedés fenntartható fejlesztésében érdekelt személyekkel fenntartott kapcsolatok erősítésére, és ez érdekükben is áll egyúttal.
+<P>
+Én is felszólítom az Európai Bizottságot, hogy sürgősen dolgozza ki a városi mobilitásról szóló cselekvési tervet, hogy felgyorsítsa az ágazat konzisztens integrálását az európai közlekedési hálózatba általában.
+<SPEAKER ID="495" NAME="Dushana Zdravkova" LANGUAGE="BG">
+A meglévő személyszállítási és árufuvarozási technológiák és eszközök a városi környezetben a tetőpontjukhoz értek. A kisebb európai városokat is megbénítja már a gépjármű-forgalom. Annak érdekében, hogy javítsuk polgáraink életminőségét, fel kell gyorsítanunk a tudományos kutatás és az innováció fejlesztését és megvalósítását a városi mobilitás területén. Egyértelműen az a helyzet, hogy az erőforrásoknak a meglévő infrastruktúra bővítésére történő elkülönítése nem segít a növekvő válság leküzdésében. Új, "intelligens” megoldásokat kell találnunk a városi közlekedésben tapasztalható jelenlegi, de a jövőbeni problémák kezelésére is. Ezért üdvözöltem a CIVITAS program új generációjának kialakítását, mivel úgy vélem, arra kell összpontosítanunk, hogy kifejlesszük a forgalomirányításban alkalmazható információs technológia új generációját.
+<P>
+Az elmúlt években elfogadott integrált tervezési megközelítést viszonylag széles körben alkalmazzák a nagyobb európai városok városi terveinek kidolgozásában.
+<P>
+Egy olyan állandó európai struktúra kialakítása és finanszírozása, amely összegyűjti és terjeszti az e területen bevált helyes gyakorlatokat, és előmozdítja az Európai Unió valamennyi régiójából érkező érdekelt felek közötti párbeszédet, új, jelentős lépést jelent a városi térségek fenntartható mobilitásának ösztönzésében.

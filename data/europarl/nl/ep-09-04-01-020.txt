@@ -1,0 +1,86 @@
+<CHAPTER ID="020">
+Vaststellen van grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong (debat) 
+<SPEAKER ID="253" NAME="De Voorzitter">
+Aan de orde is de aanbeveling voor de tweede lezing van Avril Doyle, namens de Commissie milieubeheer, volksgezondheid en voedselveiligheid, betreffende het gemeenschappelijk standpunt, door de Raad vastgesteld met het oog op de aanneming van een verordening van het Europees Parlement en de Raad tot vaststelling van communautaire procedures voor het vaststellen van grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong, tot intrekking van Verordening (EEG) nr. 2377/90 van de Raad en tot wijziging van Richtlijn 2001/82/EG van het Europees Parlement en de Raad en van Verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad [15079/2/2008 - C6-0005/2009 -.
+<SPEAKER ID="254" NAME="Avril Doyle">
+rapporteur. - (EN) Mijnheer de Voorzitter, ik wil om te beginnen mijn dank uitspreken aan alle schaduwrapporteurs en het Franse voorzitterschap voor het feit dat zij een vroeg akkoord in tweede lezing mogelijk hebben gemaakt.
+<P>
+Dit is een vrij technisch voorstel dat tot doel heeft de bestaande EU-regeling te actualiseren. Het hoofddoel hiervan is de volksgezondheid te beschermen door ervoor te zorgen dat mensen die levensmiddelen van dierlijke oorsprong consumeren niet overmatig worden blootgesteld aan residuen van farmacologisch werkzame stoffen die in diergeneesmiddelen en biociden aanwezig zijn. Dit wordt bereikt door het vaststellen van veiligheidsdrempels of "maximumwaarden voor residuen” (MRL's) voor goedgekeurde stoffen en door een verbod te stellen op stoffen die onveilig zijn of waarvoor geen wetenschappelijk verantwoord "veiligheidsprofiel” kan worden vastgesteld.
+<P>
+MRL's alleen bieden geen bescherming aan de consument. Consumenten worden wel rechtstreeks beschermd door een geschikte wachttijd voor de slacht vast te stellen en er middels controles op toe te zien dat daar de hand aan wordt gehouden. In de praktijk wordt bij het vaststellen van wachttijden een hoge veiligheidsmarge toegepast, die een afspiegeling vormt van de op dat moment beschikbare gegevens.
+<P>
+We hebben een akkoord bereikt over de hoofdpunten. Deze zijn: ten eerste een extrapolatie van voor een bepaalde soort vaststelde MRL's naar andere soorten, ten tweede het overnemen door de EU van internationaal, binnen de Codex Alimentarius, vastgestelde MRL's; en ten derde het opzetten van een MRL-kader voor voedselimporten uit derde landen.
+<P>
+We zijn erin geslaagd duidelijkheid te creëren over de te nemen maatregelen wanneer in levensmiddelen die hetzij in de EU of in derde landen zijn geproduceerd, niet-toegestane stoffen worden aangetroffen, alsook over de basis voor een regelmatige herziening van de actiedrempels (dat wil zeggen: de maximumwaarde die voor een niet-toegestane stof voor controledoeleinden is vastgesteld) in het licht van eventuele nieuwe gegevens.
+<P>
+Ook over het vaststellen van MRL's voor bepaalde biociden, zoals ontsmettingsmiddelen die in de leefomgeving van dieren worden gebruikt, is overeenstemming bereikt, met name wat de financiële aspecten van de vergunningverlening en de dossiers betreft.
+<P>
+Het vaststellen van een MRL voor een farmacologisch werkzame stof vereist een kostbaar pakket van gegevens verkregen uit toxicologisch en stofwisselingsonderzoek. Voor sommige minder voorkomende voedselproducerende soorten, de zogeheten "kleinere diersoorten”, is het samenstellen van zo'n pakket te duur, aangezien voor geneesmiddelen voor deze soorten maar een kleine markt bestaat - zogeheten "beperkte toepassingen”. Het vaststellen van een MRL is de eerste stap die moet worden gezet alvorens bij de regelgevingsinstanties een vergunning kan worden aangevraagd voor een geneesmiddel voor een voedselproducerende soort dat een farmacologisch werkzame stof bevat.
+<P>
+Dus de kwestie van "beperkte toepassingen”/"kleinere diersoorten” (MUMS) is een probleem dat dringend moet worden opgelost, omdat daardoor dierenwelzijn en voedselveiligheid in het geding komen. Dierenartsen hebben een zorgplicht en zullen altijd proberen een ziek dier te behandelen. Onder de huidige wetgeving zijn ze gedwongen hun toevlucht te nemen tot niet toegelaten geneesmiddelen.
+<P>
+Het ontbreken van een MRL maakt het voor de autoriteiten ook onmogelijk om een verantwoorde wachttijd voor een geneesmiddel vast te stellen. Volgens de huidige MRL-verordening hoeven MRL's niet voor afzonderlijke soorten te worden vastgesteld. Het Comité voor geneesmiddelen voor diergeneeskundig gebruik (CVMP) van het Europees Geneesmiddelenbureau stelt MRL's voor afzonderlijke soorten vast en volgt daarmee een behoedzame aanpak. In 1997, na vijf jaar ervaring, kwam het CVMP na een hernieuwde beoordeling van alle MRL's tot de conclusie dat het niet nodig was om MRL's voor afzonderlijke soorten vast te stellen, omdat de MRL's voor een bepaalde stof bijna altijd voor alle soorten hetzelfde of bijna hetzelfde zijn. Hetzelfde jaar publiceerde het CVMP een richtsnoer voor het vaststellen van MRL's voor kleinere soorten. Daarin werd "kleinere voedselproducerende soorten” gedefinieerd als "alle soorten behalve vee, varkens en pluimee”. Ook zalm werd daartoe gerekend.
+<P>
+In het richtsnoer werd het niet als een probleem gezien om de MRL's voor grotere soorten te extrapoleren naar kleinere, mits ze van dezelfde familie waren, dus van herkauwer naar herkauwer, van vis naar vis, van kip naar ander pluimvee. In 2008, na acht jaar ervaring met deze benadering, publiceerde het CVMP een nieuwe richtsnoer, getiteld "The Risk Analysis approach for residues of veterinary medicinal products in food of animal origin”. Daarin wordt een benadering op basis van een risicoanalyse beschreven waarbij de MRL voor een bepaalde stof zoals die voor een of meer soorten is vastgesteld, naar andere soorten wordt geëxtrapoleerd. Meer in het bijzonder voorziet dit richtsnoer in de mogelijkheid om MRL's die op de gegevens van drie grotere soorten zijn gebaseerd, te extrapoleren naar alle soorten, mits voor de drie grotere soorten dezelfde of bijna dezelfde MRL's zijn vastgesteld.
+<P>
+De voorliggende tekst tot herziening van richtlijn verschaft gewoon een rechtsgrondslag voor de huidige praktijk, waarbij MRL's in het belang van de beschikbaarheid van diergeneesmiddelen en dierenwelzijn worden geëxtrapoleerd.
+<P>
+Twee amendementen hebben specifiek betrekking op het ontbreken van soortspecifieke geneesmiddelen voor paardachtigen (ik moet u op dit punt meedelen dat ik een belang hebben in deze kwestie) voor een scala van therapeutische behoeften en behoeften op het vlak van dierenwelzijn, waarbij het er niet alleen om gaat dat het absoluut noodzakelijk is dat een diergeneesmiddel wordt toegevoegd aan de in de diergeneesmiddelenrichtlijn bedoelde positieve lijst van stoffen voor paardachtigen, maar waarbij ook "medische baten” in het geding zijn. Onder duidelijk omschreven omstandigheden zou voor bepaalde producten die voor paardachtigen worden gebruikt, geen MRL zijn vereist, maar moet wel een wachttijd van zes maanden in acht worden genomen.
+<P>
+Wellicht dat de commissaris hierover een openbare verklaring gaat afgeven - dat vraag ik hem bij dezen via de voorzitter. Ik herinner me een discussie die we hierover enkele maanden geleden in verband met de herziening van de diergeneesmiddelenrichtlijn hebben gehad.
+<SPEAKER ID="255" NAME="Günter Verheugen">
+vice-voorzitter van de Commissie. - (DE) Mijnheer de Voorzitter, geachte afgevaardigden, de revisie van de wetgeving inzake grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong is voor de Europese Commissie een belangrijk initiatief. Het is bedoeld om de consument te beschermen tegen residuen van geneesmiddelen in levensmiddelen, en tegelijkertijd de beschikbaarheid van diergeneesmiddelen in de Gemeenschap te verbeteren. Het is echter ook een belangrijk element in het programma van de Commissie voor de vereenvoudiging van de wetgeving.
+<P>
+De Raad en het Parlement hebben op 21 oktober jongstleden een overeenkomst gesloten die in het onderhavig gemeenschappelijk standpunt van zowel de Raad, als het Parlement en de Commissie haar beslag heeft gevonden. Ik ben heel blij dat de Commissie de amendementen van zowel het Europees Parlement als de Raad heeft kunnen overnemen, omdat ze de geest en de inhoud van het oorspronkelijke voorstel van de Commissie niet aantasten.
+<P>
+Daarom heeft de Commissie in haar mededeling aan het Europees Parlement van 8 januari jongstleden haar volledige steun gegeven aan het gemeenschappelijk standpunt. De goedkeuring van dit gemeenschappelijk standpunt stelt ons nu in staat om dit dossier tot een goed einde te brengen, nog voor afloop van de zittingsperiode van het Parlement.
+<P>
+Degenen die iedere dag te maken hebben met levensmiddeleninspectie en diergeneesmiddelen kunnen op basis van dit gemeenschappelijk standpunt beter werk verrichten voor dierengezondheid en consumentenbescherming in de Gemeenschap. Die personen wachten al heel lang en heel ongeduldig op de herziening van de wetgeving inzake maximale residuen, en ik vind dat ze nu echt wel lang genoeg hebben gewacht. Nu kunnen we allemaal samen tevreden zijn dat we een oplossing hebben gevonden.
+<P>
+Ik ben me terdege bewust van het bijzondere belang van de beschikbaarheid van diergeneesmiddelen. Daarom zal de Commissie, ondanks de vooruitgang die deze verordening inzake grenswaarden voor residuen van farmacologisch werkzame stoffen in dit verband al met zich meebrengt, in 2010 een evaluatie voorleggen van de problemen bij de toepassing van de richtlijn inzake diergeneesmiddelen, en indien zinvol nieuwe wettelijke bepalingen voorstellen.
+<P>
+Ik zou de rapporteur, mevrouw Doyle, met nadruk willen bedanken. Ze heeft werkelijk onvermoeibaar gewerkt, waardoor wij erin geslaagd zijn om het eens te worden over dit belangrijke dossier, Nogmaals mijn hartelijke dank, mevrouw Doyle, voor uw schitterende werk!
+<P>
+(EN)
+<P>
+Verklaring van de Commissie
+<P>
+Verslag-Doyle
+<P>
+De Commissie is op de hoogte van de bezwaren van burgers, dierenartsen, lidstaten en de dierengezondheidsindustrie tegen de richtlijn die de vergunningverlening voor diergeneesmiddelen regelt. De Commissie is zich met name bewust van het belang van een oplossing voor de bestaande problemen in verband met de beschikbaarheid van diergeneesmiddelen en de toepassing van geneesmiddelen voor soorten waarvoor geen vergunning is verleend, alsook van het belang van een vermindering van de administratieve rompslomp in gevallen waarin deze voor de sector onevenredig groot is en daardoor innovatie belemmert, terwijl tegelijkertijd een hoog niveau van consumentenveiligheid met betrekking tot levensmiddelen van dierlijke oorsprong moet worden gegarandeerd. De Commissie wijst op de positieve stappen die in dit verband zijn gezet, zoals de vereenvoudiging van de voorschriften voor wijzigingen met betrekking tot reeds goedgekeurde geneesmiddelen en de onderhavige herziening van de wetgeving inzake de maximumwaarde voor residuen in levensmiddelen.
+<P>
+Verder zal de Commissie voor het realiseren van de doelstellingen met betrekking tot consumentenveiligheid en dierengezondheid, het concurrentievermogen van de veterinaire sector, met inbegrip van KMO's, en de vermindering van de administratieve rompslomp in 2010 een evaluatieverslag voorleggen over de problemen bij de toepassing van de diergeneesmiddelenrichtlijn. Afhankelijk van de resultaten van deze evaluatie zullen vervolgens nieuwe wetgevingsvoorstellen worden gedaan.
+<SPEAKER ID="257" NAME="Avril Doyle">
+rapporteur. - (EN) Mijnheer de Voorzitter, er is één amendement dat ik niet kan ondersteunen omdat we daardoor feitelijk in een wettelijke impasse terecht zouden komen. Wanneer je namelijk een geneesmiddel pas op dieren kunt testen nadat voor dat geneesmiddel een MRL is vastgesteld, dan is het onmogelijk een MLR en een wachttijd vast te stellen omdat daarvoor gegevens nodig zijn die juist via tests moeten worden verkregen.
+<P>
+Ik dank de commissaris voor zijn medewerking op dit terrein en wijs met nadruk op de dringende noodzaak van herziening van de diergeneesmiddelenrichtlijn. In zekere zin gebruiken we onderhavige herziening van de MRL-verordening een beetje als een provisorische maatregel voor een groot probleem waarvan we ons allemaal heel goed bewust zijn. De beschikbaarheid van een voldoende groot scala aan geneesmiddelen voor de behandeling van de grote verscheidenheid aan diersoorten in de Europese Gemeenschap is de laatste twee decennia een steeds grotere uitdaging geworden. Gedurende die periode hebben diverse belanghebbenden, waaronder regelgevers, industrie en dierenartsen, aanzienlijke inspanningen ondernomen om de problemen met betrekking tot de beschikbaarheid van geneesmiddelen op te lossen.
+<P>
+Desondanks is de situatie verder verslechterd. Het tekort aan goedgekeurde geneesmiddelen vormt een reëel gevaar voor de gezondheid en het welzijn van dieren en de veiligheid van consumenten. Ook eigenaren, boeren, dierenartsen en overheden worden voor aanzienlijke problemen gesteld wanneer dieren niet of met een niet-toegestaan of ongeschikt product worden behandeld. Daartoe behoort ook het risico van zoönotische ziekten voor eigenaren, consumenten en burgers in het algemeen.
+<P>
+Er zijn ook financiële, wettelijke en handelsimplicaties voor de verschillende belanghebbenden, terwijl het tekort aan geneesmiddelen ook negatieve gevolgen kan hebben voor plattelandseconomieën en de landbouw in het algemeen. Een voorbeeld - en een zeer belangrijk punt - is de bijensterfte en het effect daarvan op bestuiving. Bijen zijn een zeer belangrijke "beperkte toepassing”/"kleinere diersoort” (MUMS).
+<P>
+De huidige tekorten in de EU hebben niet alleen over de hele linie implicaties voor de gezondheid en het welzijn van dieren evenals voor de voedselveiligheid en volksgezondheid in de Gemeenschap, maar ze ondergraven ook het vermogen van de EU om de doelstellingen van de agenda van Lissabon te verwezenlijken en de vruchten te plukken van de enorme mogelijkheden die de Europese landbouw en de aquacultuur op volle zee bieden voor onderzoek en ontwikkeling op het terrein van diergeneesmiddelen.
+<P>
+Ik wil tot slot nogmaals alle collega's en de commissaris danken voor hun medewerking aan dit verslag.
+<SPEAKER ID="258" NAME="De Voorzitter">
+Het debat is gesloten.
+<P>
+De stemming vindt morgen plaats.
+<P>
+Schriftelijke verklaringen (artikel 142)
+<SPEAKER ID="259" NAME="Péter Olajos  " AFFILIATION="PPE-DE">
+schriftelijk. - (HU) We horen vaak de klacht dat de EU alles probeert te reguleren, maar tegelijkertijd de echt belangrijke kwesties niet aanpakt.
+<P>
+Velen van ons denken dat dat voor dit verslag ook geldt. Dat zou echter een vergissing zijn. Want we hebben het hier over 'levensmiddelen' voor menselijke consumptie, die we veiliger willen maken in het belang van onze burgers.
+<P>
+De bestaande verordeningen zijn verouderd en daardoor hebben dierenartsen problemen met het op peil houden van hun geneesmiddelenvoorraad. Er is dan ook goede regelgeving nodig die is afgestemd op de specifieke kenmerken van deze bedrijfstak.
+<P>
+Steeds meer farmaceutische bedrijven hebben tegenwoordig een divisie voor producten voor dieren en daar worden flinke winsten gemaakt. De vraag neemt gestaag toe, want ook dieren worden ziek en nu voedsel steeds duurder wordt loont de preventie daarvan.
+<P>
+In de afgelopen tijd bereikt ons echter steeds vaker het nieuws dat bepaalde bedrijven zich buigen over de vraag hoe er meer uit dieren 'gehaald' kan worden. Snel groeiende kippen, varkens die binnen enkele maanden tot enorme omvang worden vetgemest. Dit gebeurt allemaal met (geneeskundige) producten die vaak schadelijk zijn voor mensen.
+<P>
+Om die reden moet elk middel dat aan dieren wordt gegeven, getest worden, in samenwerking met het Europees Geneesmiddelenbureau (EMEA), om te beoordelen of de residuen van dergelijke producten die in dieren achterblijven en later door mensen worden geconsumeerd, gevaar opleveren.
+<P>
+Het bedrijf dient voor die tests te betalen. We moeten ook de mogelijkheid van een versnelde procedure benadrukken, waardoor de tijd voor administratie kan worden teruggebracht. Ook is het van belang dat dierenartsen daardoor sneller de beschikking krijgen over geneesmiddelen.
+<P>
+Niets is belangrijker dan de volksgezondheid, en daarom moeten we door winstbejag ingegeven 'doping van dieren' een halt toeroepen.

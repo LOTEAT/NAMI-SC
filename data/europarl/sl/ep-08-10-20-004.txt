@@ -1,0 +1,12 @@
+<CHAPTER ID="004">
+Sestava odborov in delegacij
+<SPEAKER ID="008" NAME="Predsednik">
+Prejel sem predlog Skupine neodvisnosti/demokracije za imenovanje gospoda Faragea za člana Odbora za mednarodno trgovino namesto gospoda Colmana. Ali kdo temu nasprotuje?
+<SPEAKER ID="009" NAME="Hannes Swoboda" AFFILIATION="PSE">
+(DE) Gospod predsednik, ali obstaja minimalno obdobje članstva v odboru ali je to mišljeno samo za danes?
+<SPEAKER ID="010" NAME="Predsednik">
+To vprašanje bi seveda morali zastaviti Skupini neodvisnosti/demokracije, vendar pa vam zagotavljam, da se bo predsednik Parlamenta zavzel za popolno preglednost te zadeve.
+<SPEAKER ID="011" NAME="Nigel Farage" AFFILIATION="IND/DEM">
+Gospod predsednik, naj pomirim avstrijskega kolega - dejansko sem bil član Odbora za mednarodno trgovino prvi dve in pol leti tega parlamentarnega mandata. Nato sem svoje mesto prepustil kolegu, ki pa se je dokončno umaknil iz Parlamenta pred dvema tednoma. Zato se vam ni treba bati, da gre za skrivoma dogovorjeno službo v zadnjem hipu.
+<SPEAKER ID="012" NAME="Predsednik">
+Niste odgovorili na vprašanje, koliko časa nameravate služiti v tem odboru, vendar pa iz vaših pripomb sklepam, da boste ostali do konca tega parlamentarnega mandata.

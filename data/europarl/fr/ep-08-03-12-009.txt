@@ -1,0 +1,8 @@
+<CHAPTER ID="009">
+Approbation du procès-verbal de la séance précédente: voir procès-verbal
+<SPEAKER ID="210" NAME="La Présidente">
+(EN) Le procès-verbal de la séance du mardi 11 mars est distribué.
+<P>
+Y a-t-il des commentaires?
+<P>
+(Le procès-verbal est approuvé)

@@ -1,0 +1,114 @@
+<CHAPTER ID="019">
+Judriojo palydovinio ryšio paslaugos (MSS) (diskusijos) 
+<SPEAKER ID="452" NAME="Pirmininkas">
+Kitas klausimas - F. Hall pranešimas Pramonės, mokslinių tyrimų ir energetikos komiteto vardu dėl pasiūlymo dėl Europos Parlamento ir Tarybos sprendimo dėl sistemų, kuriomis teikiamos judriojo palydovinio ryšio paslaugos, atrankos ir leidimų išdavimo - C6-0257/2007 -.
+<SPEAKER ID="453" NAME="Viviane Reding">
+Komisijos narė. - Pone pirmininke, visų pirma norėčiau padėkoti Parlamentui už neatidėliotiną Komisijos pasiūlymo nagrinėjimą; žinau, kad taip anaiptol nėra lengva. Parlamentas iš tiesų padarlabai daug ir jo pastangos buvo labai vertingos.
+<P>
+Judriojo palydovinio ryšio paslaugos Europoje yra labai perspektyvios ir taikomos įvairiose srityse, pradedant aukštos spartos interneto prieigos, mobiliosios transliacijos ir baigiant pagalbos tarnybomis.
+<P>
+Plėtojant konkurencingą judriojo palydovinio ryšio paslaugų vidaus rinką pavyks užtikrinti pakankamą masto ekonomiką ir efektyvesnį spektro panaudojimą; visa tai bus naudinga įmonėms ir vartotojams visoje Europoje. Tačiau šiuo metu yra labai svarbu nepraleisti judriojo palydovinio ryšio sistemoms pasitaikiusios progos.
+<P>
+Šioje iniciatyvoje numatyta visos Europos privalomas konkrečių palydovinio ryšio operatorių atrankos procesas, pasižymintis keletu labai svarbių naujovių. Todėl esu labai dėkinga pranešėjai F. Hall ir kitiems Europos Parlamento nariams už pastangas siekiant Parlamento ir Tarybos sutarimo, kurio tikimasi pasiekti per labai trumpą laiką.
+<P>
+Pranešimu numatyta daugelis pakeitimų, kuriais siekiama į įstatymų leidybos sprendimą įtraukti momentus, kuriuos pirmiausia buvo numatyta spręsti įgyvendinant atrankos procesą. Čia priskirtinas detalus atrankos kriterijų aprašas, atitinkama šių kriterijų svarba, kompetentingų nacionalinių institucijų išduodamų leidimų trukmir pan.
+<P>
+Paprastai įstatymų leidybos tekstai nepasižymi tokiu detalumu. Tačiau Komisija yra pasirengusi pritarti Parlamento pateiktiems pakeitimams. Be abejonės, šiais pakeitimais bus prisidėta prie dar didesnio nei pasiūlyme pateikto skaidrumo; be to, pagrindiniai pasiūlymo elementai, pirmiausia: atrankos mechanizmo konkurencingumas, pagrindinatrankos proceso sudėtis, pagrindinės gairės ir atrankos kriterijai išliko iš esmės nepakitę.
+<P>
+Nepaisant šių papildomų momentų, Parlamentas ir Taryba papraštaikyti specifinę komitologijos procedūrą tam tikriems atrankos programos įgyvendinimo etapams.
+<P>
+Privalau pasakyti, kad šios procedūros (reguliavimo ar priežiūros) yra ne tokios lanksčios ir reikalauja daugiau laiko nei iš pradžių siūlyta Komisijos. Nors Komisija yra pasirengusi elgtis lanksčiai šiuo klausimu ir pakeitimams pritarti, taip pat derėtų aiškiai pasakyti, kad tai galėtų turėti įtakos bendrai atrankos proceso trukmei. Tai yra labai svarbu ir todėl norėčiau iš tiesų paraginti visas įgyvendinimo procese dalyvaujančias šalis elgtis lanksčiai nustatant praktinę tvarką, kurios reikės sėkmingai ir kuo skubiau įvykdyti palydovinio ryšio operatorių atranką.
+<P>
+Šia prasme taip pat kviečiu Tarybą daryti visa, kas įmanoma susitarimui parengti iki birželio mėn. TELCO Tarybos norint priimti sprendimą. Be abejonės, žinau, kad dabar mūsų teisės specialistų Komisijoje, Parlamente ir labiausiai Taryboje laukia daug darbo.
+<P>
+Pabaigoje Komisija pritarF. Hall pateiktiems pakeitimams. Jie atitinka kompromisinį pirmininkaujančios Slovėnijos pateiktą tekstą ir padeda pasirengti nagrinėti tekstą pirmuoju skaitymu.
+<P>
+Esu visiškai tikra, kad šis protingas kompromisas susilauks plačios Parlamento paramos.
+<SPEAKER ID="454" NAME="Fiona Hall">
+pranešėja. - Pone pirmininke, pirmiausia norėčiau padėkoti visiems, prisidėjusiems prie MSS sprendimo. Tai sakau ne vien iš mandagumo, bet pirmiausia, todėl, kad sprendimas pateiktas plenariniam posėdžiui jau po pirmojo skaitymo. Dėl didelės mano Parlamento kolegų paramos ir Komisijos pagalbos teikiant papildomą tekstą. Taip pat norėčiau nuoširdžiai padėkoti pirmininkaujančiai Slovėnijai, kuri prisidėjo prie Parlamento apsisprendimo anksti susitarti Europos konkurencingumo labui.
+<P>
+2007 m. vasario mėn. valstybnarės susitarskirti radijo dažnio diapazonus 2 GHz ruože pagal suderintą požiūrį į judriojo palydovinio ryšio paslaugas, siekiant išvengti trukdžių ir vidaus rinkos susiskaldymo, bei atverti galimybę Europos MSS technologijoms, siekiant pasaulinės konkurencijos. Šios dienos diskusijomis apie MSS sprendimą siekiama pasirinkti ir leisti veikti šiems visos Europos judriojo palydovinio ryšio paslaugų teikėjams.
+<P>
+Diskusijų ir derybų dėl šio sprendimo metu teko įveikti pirmiausia institucinius ir geografinius, o ne politinius - partinius skirtumus. Visų pirma EP nariams kėlsusirūpinimą tai, kad Komisijos pasiūlymo projekte įtraukti politinio, o ne grynai techninio pobūdžio atrankos ir leidimų proceso elementai, todėl šiems momentams išspręsti komitologijos procedūra buvo netinkama. Konkrečiai, ES periferijos valstybių narių EP nariams ir ministrams kėldidelį susirūpinimą tai, kad atrankos kriterijai galėtų būti palankesni operatoriams, galintiems teikti paslaugas tik centrinei Europos daliai.
+<P>
+EP nariai buvo taip pat susirūpinę, kad atrankos kriterijuose nebus atspindėtas dažnai Parlamento reiškiamas įsipareigojimas teikti visuomeninės svarbos paslaugas ir įtraukti kaimo ir mažiau išsivysčiusius regionus. Šiuos sunkumus pavyko išspręsti tekstą papildžius detalia ir skaidria formuluote dėl geografinės aprėpties reikšmės, visuomenės saugos ir apsaugos paslaugų bei daugelio kaimo ir atokiose vietovėse esantiems vartotojams teikiamų paslaugų.
+<P>
+Pramonės, mokslinių tyrimų ir energetikos komitete prieš balsavimą pasiektas kompromisas, kuriam numatoma, kad pareiškėjai privalo teikti paslaugas apimančias ne mažiau kaip 50 % gyventojų ir ne mažiau kaip 60 % bendro kiekvienos valstybės narės paviršiaus ploto. Nors tai ir yra mažiau, nei kiek žinau kai kurių kolegų labiau pageidautina 100 % aprėptis, manau, kad šis kompromisas yra realistinis, atsižvelgiant į techninius ir ekonominius apribojimus, su kuriais susiduria šios pramonės atstovai. Be to, valstybės narės pasilieka teisę naudoti spektrą ir kitais tikslais, jei ir tuomet, kai jis nepatenka į judriojo palydovinio ryšio paslaugos zoną, o valstybės narės gali privalomai nustatyti judriojo palydovinio ryšio sistemų naudojimą stichinių nelaimių atveju pagalbos paslaugoms teikti.
+<P>
+Pabaigoje, manau, mums pavyko pasiekti tinkamą ir operatyvų susitarimą, kuris bus naudingas piliečiams ir pramonei. Tikiuosi, kad susitarimą galutinai pavyks pasirašyti jau birželio mėn., o pirmąjį konkursą dėl paraiškų teikimo pavyks paskelbti dar iki vasaros pradžios ir tikiuosi, kad kai valstybės narės ir Komisija kitą kartą nuspręs, kad joms reikalinga visą Europą apimanti paslauga konkrečiame dažnių diapazone MSS sprendimas joms bus naudingas kaip pavyzdys, kaip pasiekti operatyvų susitarimų kartu įtraukiant Parlamentą.
+<SPEAKER ID="455" NAME="Ruth Hieronymi">
+kultūros ir švietimo komiteto nuomonės referentė. - (DE) Pone pirmininke, ir aš norėčiau pirmiausia padėkoti F. Hall už jos itin ambicingas pastangas, siekiant savalaikio rezultato pagal šį sudėtingą pranešimą. Jai tai pavyko!
+<P>
+Pranešimas buvo sudėtingas, nes jame reikėjo nustatyti taisykles specialiu visos Europos judriojo palydovinio ryšio paslaugų atveju; tik tuomet buvo galima tikslinti telekomunikacijų projektą. Už tai derėtų padėkoti Parlamentui, o labiausiai pranešėjai, nes mums pavyko rasti būdų priimti tokį preliminarų nutarimą, dėl kurio vis dėlto pavyks užtikrinti pakankamai skaidrumo ir faktiškai susiejami neeiliniai sprendimai su išimtinėmis aplinkybėmis.
+<P>
+Todėl man labai džiugu ir galiu kultūros ir švietimo komiteto vardu pasakyti, kad mes remiame pasiektą rezultatą, nes jame įtraukti trys, komiteto nuomone, svarbūs momentai: pirma, sprendime išlaikoma valstybių narių kompetencija skirstant dažnius. Antra, sprendimas taip pat susietas su Garso ir vaizdo žiniasklaidos paslaugų direktyva, ir trečia, dėl jo taip pat pavyks sustiprinti žiniasklaidos pliuralizmą ir šių paslaugų kultūrinę įvairovę.
+<P>
+Dabar belieka tikėtis (to ir laukiame), kad šis darbas taip pat bus vertingas ir sulauksime kaip tikimės iš sprendimo visą Europą apimančių judriojo palydovinio ryšio paslaugų.
+<SPEAKER ID="456" NAME="Jean-Pierre Audy" LANGUAGE="FR">
+Pone pirmininke, Komisijos nare, ponios ir ponai, pirmiausia norėčiau pasveikinti kolegą Parlamento narę F. Hall, parengusią pranešimą šiuo sudėtingu klausimu už jos norą bendradarbiauti su pranešėjais iš kitų frakcijų. Čia paminėtina mano puiki kolegė, atsakingo Pramonės, mokslinių tyrimų ir energetikos komiteto pirmininkA. Niebler; šis komitetas taip pat nemažai prisidėjo.
+<P>
+Pateiktą kompromisą laikome patenkinamu. Jis vainikuoja ilgas su pirmininkaujančia Slovėnija surengtas diskusijas; šia valstybę norėčiau pasveikinti už puikų darbą, siekiant susitarimo jau per pirmąjį skaitymą, norint, kad judriojo palydovinio ryšio paslaugos būtų pradėtos teikti visai netrukus.
+<P>
+Šis įvykis laikytinas Europos sėkme ir iš tiesų norėčiau jus pasveikinti, Komisijos nare, nes ateityje sistemų, teikiančių judriojo palydovinio ryšio paslaugas, pvz., sparčiojo duomenų perdavimo ar mobiliosios televizijos, atranka bus vykdoma Europos lygmeniu. Tai įrodo efektyvumą, geresnę ekonomiją ir Bendrijos prioritetus.
+<P>
+Be abejo, žinome, kad tai kompromisas. Įveikėme ilgą kelią ir džiaugiuosi tuo, kad Komisija sutiko su platesnėmis piliečiams teikiamomis paslaugomis, nes kiekviena sistema iš pat pradžių privalės apimti 60 % Sąjungos teritorijos ir visą - ne vėliau nei per septynerius metus nuo teikimo pradžios. Man malonu, kad esminis reikalaujamas aprėpties kriterijus buvo teritorija, o ne vien gyventojų skaičius, vadinasi bus pasirūpinta ir kaimo bei atokiomis vietovėmis. Tai iš tiesų mane džiugina, nes esu kilęs iš kaimo vietovės kuri vis dar nėra sulaukusi tokios technologinės infrastruktūros, kuri yra pasiekusi stambiųjų miestų vietoves, o tai susiję su lygiomis piliečių galimybėmis nepriklausomai nuo jų buvimo vietos Europos Sąjungos teritorijoje.
+<P>
+Priėmus tekstą Parlamente ir užsitikrinus jam Tarybos pritarimą, prašau Komisijos atlikti visa, siekiant sparčiai pradėti teikti judriojo palydovinio ryšio paslaugas už protingą kainą, pastarąjį momentą reikės stebėti. Šios paslaugos susijusios su didžiuliais finansiniais ir technologiniais iššūkiais, tačiau jos reiškia, kad Europa turi galimybę apsirūpinti pažangiu palydovinio ryšio paslaugų sektoriumi.
+<P>
+Galiausiai tikiuosi, kad Europos gamintojai drąsa ir aukštu lygiu sugebės paklusti šiam politiniam kompromisui ir dar kartą įrodys puikų sugebėjimą technologiškai prisitaikyti.
+<SPEAKER ID="457" NAME="Catherine Trautmann" LANGUAGE="FR">
+Pone pirmininke, Komisijos nare, ponios ir ponai, galiausiai sulaukėme balsavimo Parlamente dėl S diapazono išvakarių; to labai laukoperatoriai ir daugelis valstybių narių. Pažymėtina, kad pagaliau pripažinta šių dažnių anksčiau nenaudotų ir galinčių perduoti mobiliąją televiziją, duomenis ar avarines tarnybas; Parlamentas tam išreiškitin didelį įsipareigojimą.
+<P>
+Iš tiesų nėra optimalaus metodo. Šis šiek tiek impresionistinis požiūris, kai dažnių planas būdavo nustatomas nedideliais žingsniais turi tam tikrų apribojimų. Ketiname juos pašalinti nagrinėdami Telekomunikacijų teisės aktų paketą. Judriojo palydovinio ryšio paslaugų srityje iš esmės galutiniu rezultatu pasiekta politinių ambicijų ir ekonominio tikslingumo pusiausvyra. Konkrečiai Parlamentas reikalavo tam tikros geografinės aprėpties, norint išvengti atskirų valstybių narių skaitmeninio atskyrimo ir ne tik tarp jų, bet ir valstybių narių viduje. Nagrinėjimas šių grožio konkursams tinkamų kriterijų parodo, kiek svarbūs Parlamento ir Europos piliečių lūkesčiai, pirmiausia kalbant apie viešąsias paslaugas.
+<P>
+Galiausiai, galimybšiek tiek rekvizuoti skirtus dažnius neatidėliotinais atvejais atitinka dabartines ITU diskusijas, kai praėjusiais metais pasaulinėje konferencijoje buvo nagrinėtas telekomunikacijų indėlis užtikrinant žmogaus gyvybės apsaugą.
+<P>
+Esu šešėlinsocialistų frakcijos pranešėja ir privalau pabrėžti, kad man buvo labai malonu dirbti su mūsų pranešėja F. Hall, parodžiusia visišką apsisprendimą. Taip pat galėčiau pagirti pirmininkaujančią Slovėniją už veiksmingą indėlį. Ši valstybgavo ugnies krikštą, susidūrusi su šia iš tiesų sudėtinga problema.
+<P>
+Galiausiai norėčiau pagirti mūsų Komisijos narės V. Reding norą, techninį Komisijos tarnybų, Pramonės, mokslinių tyrimų ir energetikos komiteto sekretoriato ir abiejų teisės aktų leidėjų teisinių ir kalbos ekspertų bendradarbiavimą, nes be jo kokybiškas tekstas būtų nepasiektas. Man taip pat malonu dėlto, kad man teko pirmininkauti dviem susitikimams, kurių metu pavyko išsiaiškinti diskutuotinus ir spręstinus momentus.
+<P>
+Parlamentas ėmėsi taikintojo vaidmens galutinai derinant susitarimą su Taryba, atsižvelgiant į trumpus palydovinio programavimo terminus bei ekonominę ir pramoninę riziką. Mūsų laukia didžiulės, rizikingos finansinės investicijos ir, be abejonės, visi tikimės sėkmės. Todėl savo kreipimąsi baigiu raginimu pirmininkaujančiai valstybei ir Komisijai išreikšti savo įsipareigojimą ir pažadą laikytis terminų tekstui priimti ir paskelbti konkursą kandidatams iki vasaros pradžios.
+<SPEAKER ID="458" NAME="Jaromír Kohlíček">
+GUE/NGL frakcijos vardu. - (CS) Pone pirmininke, ponios ir ponai, šiuo metu Europos Sąjunga yra vienas iš pagrindinių partnerių oro erdvės srityje. Tai pakankamai įrodo jau ambicingas planas paleisti palydovinę Galileo navigacijos ryšio sistemą. Visos palydoviniu ryšiu pagrįstos sistemos turėtų ryšiui naudoti tą patį radijo spektrą 1980 - 2010 MHz ir 2170 - 2200 MHz. Rezoliucijoje pagrįstai siekiama sujungti atskirus šalių teisės aktus į vieną sistemą ir nustatyti vieningą darbinę metodiką, priskiriant ryšių dažnius. Konkrečiame palydove dažniai visoms ES valstybėms narėms turėtų sutapti. Tai pašalintų žalingus trukdžius ir leistų vieningai plėtoti šią palydovinio ryšio sektoriaus dalį. Atsižvelgiant į tai, kad šiuo metu palydovinio ryšio srityje Europos Sąjungai tenka 40 % pasaulinės rinkos dalis, aiškiai matyti, kad bendroji nediskriminuojanti politika gali reikšmingai sustiprinti Sąjungos svarbą šiame sektoriuje.
+<P>
+Mūsų nuomone, pasiūlyti sprendimai leis daug geriau plėtoti techninius ir ekonominius ryšių elementus. Dabartines nacionalines administracines kliūtis galime įveikti tik radę vieningą visų 27 valstybių sprendimą. Šiame sektoriuje yra galimybių kurti kvalifikuotas darbo vietas, todėl šis sektorius remtinas. Rezoliucijai pritaria visa GUE/NGL frakcija.
+<SPEAKER ID="459" NAME="Nikolaos Vakalis" AFFILIATION="PPE-DE">
+(EL) Pone pirmininke, ponios ir ponai, pirmiausia norėčiau pasakyti, kad labai didžiuojuosi Europos Parlamento darbu aptariamu pranešimu.
+<P>
+Tai nėra susiję vien tik su šiuolaikinėmis technologijomis. Kalbama apie svarbų daugelio naujų technologijų taikomųjų programų svarbą stiprinant socialinę, ekonominę ir teritorinę ES sanglaudą ir paverčiant jos konvencinę ekonomiką žinių ekonomika.
+<P>
+Visų pirma šiandien Europos piliečiams, ponai ir ponios, norime pasakyti, kad po septynerių metų nuo MSS sistemų įgyvendinimo pradžios visi iki vieno net atokiausių Sąjungos kaimų gyventojai galės naudotis palydovinio ir judriojo antžeminio ryšio paslaugomis. Tai reiškia labai spartų interneto ryšį, mobiliąją televiziją, palydovinio ryšio telefoną ir pirmiausia valstybės apsaugą ir pagalbą stichinių nelaimių atveju.
+<P>
+Mums teko nemažai padirbėti Pramonės, mokslinių tyrimų ir energetikos komitete, siekiant, kad iš šių paslaugų taikymo srities nebūtų išskirtas nvienas regionas. Priešingu atveju skaitmeninis metropolinių centrų ir valstybių narių atokių regionų ir apskritai skirtingų ES regionų atotrūkis padidėtų.
+<P>
+Pabaigoje nuoširdžiai sveikinu ir dėkoju pranešėjai F. Hall ir šešėliniams pranešėjams už Parlamente ir Taryboje vykdytą kampaniją, siekiant užtikrinti, kad šie labai svarbūs reikalavimai būtų įtraukti į galutinį teisės akto tekstą už kurį balsuosime rytoj.
+<SPEAKER ID="460" NAME="Atanas Paparizov" AFFILIATION="PSE">
+(BG) Pone pirmininke, norėčiau pasveikinti pranešėją F. Hall už pastangas užtikrinti galimybę visų valstybių narių visiems ES piliečiams naudotis judriojo palydovinio ryšio paslaugomis.
+<P>
+Šio Parlamento pastangomis visą Europą aprėpiančiam kriterijui suteikta daugiausia reikšmės. Iš kitų kriterijų paminėtina tai, ar operatorių siūlomos sistemos teikia paslaugas labiausia nutolusiuose ir mažai apgyvendintose vietovėse ar kitas visuomeninės reikšmės paslaugas, pvz., pilietinės apsaugos ir pagalbos stichinių nelaimių atveju.
+<P>
+Dėl šios rezoliucijos galime kalbėti apie realias fizinių ir juridinių asmenų iš tokių šalių, kaip mano, Bulgarijos Respublikos, kuri nėra ES teritorijos centre, galimybes naudotis visą Europą aprėpiančiomis judriojo palydovinio ryšio paslaugomis, įskaitant galimybę naudotis plačiajuosčiu internetu, judriosiomis daugiaterpėmis programomis, su piliečių apsauga stichinių nelaimių atveju susijusiomis paslaugomis ir, be abejonės, tai padidins Europos Sąjungos periferijoje esančių šalių konkurencingumą.
+<SPEAKER ID="461" NAME="Anni Podimata" AFFILIATION="PSE">
+(EL) Pone pirmininke, Komisijos nare, kadangi radijo dažnio spektras yra viešasis turtas, vien tik rinkos jėgos nepajėgios užtikrinti ryšį kiekvienam. Todėl reikalingas politikos ir vartotojų ekonomikos požiūris. Skirstant šį spektrą būtina dėmesį skirti jo socialinei, kultūrinei ir ekonominei vertei, o ne vien MSS tiekėjų pajamoms ar vyriausybių įplaukoms didinti.
+<P>
+Komisijos nare, pripažįstu, kad mane iš pradžių nuvylMSS tiekėjų atrankos kriterijai, pirmiausia 60 % Sąjungos geografinės aprėpties kriterijus, atsižvelgiant į visos Europos geografinę aprėptį ir visos Europos judriojo palydovinio ryšio paslaugų teikimą. Tokiose šalyse kaip Graikija, kuriose yra daug kalnų ir salų, investicijos į optinius tinklus visoje teritorijoje yra sudėtingos, būtent todėl MSS teikimas yra itin svarbus. Pasirinkus MSS atsiranda galimybužtikrinti visišką aprėptį visose valstybėse narėse. Tai prisideda prie ūkio plėtros ir atitinka reformuotos Lisabonos strategijos tikslus.
+<P>
+Norėčiau padėkoti pranešėjai F. Hall ir mano frakcijos šešėlinei pranešėjai C. Trautmann. Dėl jų indėlio ir veiksmingo bendradarbiavimo su Taryba mums pavyko pasiekti gerokai patobulintą pasiūlymą dėl rezoliucijos.
+<SPEAKER ID="462" NAME="Zdzisław Kazimierz Chmielewski" AFFILIATION="PPE-DE">
+(PL) Pone pirmininke, Europos Komisijos sprendimo, kurį vertina Parlamentas, tikslas - pateikti vieningus galimybės naudotis judriojo palydovinio ryšio paslaugomis visose valstybėse narėse principus. Be abejonės, būtinybę priimti Bendrijos sprendimus pagrindžia tarptautinis palydovinio ryšio pobūdis. Tačiau privalome nepamiršti ypatingos šio sprendimo reikalaujančio ir vėliau elgtis apdairiai, reikšmės. Privalome atidžiai stebėti, kad konkrečiais dažnių diapazonais būtų suprantamai prisidedama prie antžeminių judriojo ryšio tinklų, pirmiausia - tose vietovėse, kurioms gresia skaitmeninio padalijimo reiškinys. Negalime leisti pernelyg suskaldyti šią spektro dalį, ar dar blogiau - iššvaistyti numatomą ekonominę naudą.
+<SPEAKER ID="463" NAME="Viviane Reding" LANGUAGE="FR">
+Pone pirmininke, paprasčiausiai dėkoju jums, Parlamentui ir jo pranešėjai F. Hall. Manau, kad jie pasirodverti palydovinio ryšio sektoriaus (ekonominio sektoriaus), bet pirmiausia jie pasirodverti Europos piliečių, kurie galės pasinaudoti judriojo palydovinio ryšio paslaugomis: telefonu, internetu, televizija ir saugumo paslaugomis, pirmiausia nelaimės atveju. Taigi kalbame apie labai svarbias visai Europai paslaugas.
+<P>
+Komisija, savo ruožtu, ketina daryti visa, kas įmanoma ir kuo anksčiau paskelbti konkursą kandidatams, o kuo anksčiau reiškia ne vėliau kaip iki vasaros pabaigos.
+<P>
+Todėl prašau Tarybos veikti labai sparčiai, kad iki birželio mėn. ministrai galėtų priimti sprendimą, kad vėliau galėtume viską suderinti, o Europos Parlamentas galėtų priimti sprendimus; ši sparta iš tiesų būtų labai didelė, tačiau tai reikalinga mūsų pramonės ir mūsų piliečių interesais.
+<P>
+Dėkoju už šį pavyzdinį darbą!
+<SPEAKER ID="464" NAME="Fiona Hall">
+pranešėja. - Pone pirmininke, iš tiesų buvo labai malonu klausytis Komisijos narės žodžių, kad Komisija ketina šį reikalą išspręsti dar iki vasaros pradžios. Tai būtų labai gera žinia piliečiams ir pramonės atstovams.
+<P>
+Be to, norėčiau paprasčiausiai padėkoti visiems pasisakiusiems šioje diskusijoje ir dar kartą pasikartoti, kad tai buvo įmanoma tik ypač geromis visų priimant šį sprendimą dalyvaujančių asmenų pastangomis.
+<SPEAKER ID="465" NAME="Pirmininkas">
+Diskusijos baigtos.
+<P>
+Balsavimas vyks rytoj 12.00 val.

@@ -1,0 +1,6 @@
+<CHAPTER ID="006">
+Edellisen istunnon pöytäkirjan hyväksyminen: ks. pöytäkirja
+<SPEAKER ID="056" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Arvoisa puhemies, eilen illalla Arlene McCarthy toi parlamenttiin aseen. Haluaisin tietää, kuka antoi luvan aseen tuomiseen istuntosaliin.
+<SPEAKER ID="057" NAME="Puhemies">
+(FR) Hyvä kysymys. Välitän kysymyksen asiasta vastaaville viranomaisille, jotka vastaavat siihen.

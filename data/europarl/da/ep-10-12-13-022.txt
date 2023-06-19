@@ -1,0 +1,68 @@
+<CHAPTER ID="022">
+Regulering af handelen med finansielle instrumenter - "dark pools" osv. (kortfattet forelæggelse) 
+<SPEAKER ID="235" NAME="Formanden">
+Næste punkt på dagsordenen er betænkning af Swinburne for Økonomi- og Valutaudvalget om regulering af handelen med finansielle instrumenter - "dark pools" osv. (2010/2075 (INI)).
+<SPEAKER ID="236" NAME="Kay Swinburne" LANGUAGE="EN">
+Hr. formand! Jeg har vanskeligt ved at forklare dem, der ikke er bekendt med finansjargon, hvad min betænkning om "dark pools" helt præcis handler om. Betænkningen handler formelt set om handelen med finansielle instrumenter, herunder dark pools, der er finansielle transaktioner og handel med aktier, som ikke er omfattet af kravene om gennemsigtighed før handel, også kaldet "non-displayed" handler. Betænkningen indeholder mere generelt en vurdering af gennemførelsen af direktivet om markeder for finansielle instrumenter (MiFID) fra 2007 på aktiemarkederne, og der tages fat på åbenlyse strukturelle problemer på aktiemarkederne.
+<P>
+Selv om det er en meget teknisk betænkning, glæder jeg mig over, at debatten i udvalget foregik på et meget højt niveau. Jeg glæder mig over, at det på baggrund af mine kollegers hårde arbejde er lykkedes at skabe bred enighed på tværs af de politiske grupper, og at de fleste grupper således kunne støtte 26 kompromisændringsforslag, udarbejdet på grundlag af 194 ændringsforslag.
+<P>
+I lyset af timingen af denne initiativbetænkning, der er sat til afstemning på plenarmødet i denne uge, mener jeg også, at Europa-Parlamentet har ydet et væsentligt bidrag til Kommissionens nyligt indledte høring om revisionen af MiFID II (MiFID II), hvor der tages højde for mange af de spørgsmål, der blev rejst under forhandlingerne i udvalget. I denne betænkning har Europa-Parlamentet anmodet om, at der gennemføres en række undersøgelser af de forskellige handelscentre, der i øjeblikket er omfattet af MiFID-direktivet, og Parlamentet ønsker en nærmere analyse for at sikre, at centre, der udbyder tilsvarende tjenester, reguleres på tilsvarende måde.
+<P>
+Jeg mener, at Kommissionen kunne have gået et skridt videre i sit høringsdokument og udvidet definitionen af organiserede handelscentre, således at den kom til at omfatte alle centre, der bringer købere og sælgere sammen. Man kunne på denne måde lukke et stort smuthul. Denne løsning sikrer fortsat proportionaliteten gennem en betydelig differentiering inden for de forskellige kategorier af regulerede markeder, MHF, SI, BCN og derivatplatforme.
+<P>
+Forslaget om øget kontrol med dark pool-operatører bør hilses velkommen af investorer, for selv om de i øjeblikket yder beskyttelse mod markedet generelt, er der i hvert fald en risiko for misbrug. Hvis myndighederne får fuld adgang til forretningsmodellerne, kan de sikre, at de fortsat kan fungere som centre for diskretionær krydsning af kundeordrer, og at de ikke får et omfang, som vil indvirke på prisdannelsen, og ikke kommer til at tjene som dække for markedsmisbrug.
+<P>
+Med hensyn til fritagelserne i MiFID-direktivet er Europa-Parlamentet og Kommissionen desuden enige om, at disse skal omdefineres, og gennemførelsen heraf skal standardiseres i hele EU. Der bør ikke længere være mulighed for reguleringsarbitrage på tværs af EU-medlemsstaterne for at finde den mest fordelagtige fortolkning af den samme regel. Under udarbejdelsen af denne betænkning og ændringsforslagene blev det klart, at den største mangel i gennemførelsen af MiFID-direktivet har været, at der ikke er blevet etableret et europæisk system for konsolideret handelsinformation på markedet. Investorerne i USA forstår ikke, hvordan vi kan operere i EU uden et sådant redskab. Det anerkendes generelt i sektoren, navnlig blandt investorgrupper, at det skal etableres, men i de tre år efter gennemførelsen af MiFID-direktivet er det ikke lykkedes markedsdeltagerne at nå til enighed om etableringen af et europæisk system for konsolideret handelsinformation. I lighed med Kommissionen er Økonomi- og Valutaudvalget forbeholden over for at foretage yderligere tiltag ud over indførelsen af de godkendte offentliggørelsesordninger, men hvis der ikke findes en markedsløsning, bør der indføres lovgivning.
+<P>
+De nuværende mikrostrukturelle spørgsmål på aktiemarkederne har været et varmt diskussionsemne i udvalget. Der har været enighed om, at lynordrer, spoofing og pinging er en urimelig praksis eller endog misbrug. Det var imidlertid langt sværere for udvalget at nå til enighed om visse markedsdeltageres rolle, herunder navnlig om fordelene og ulemperne ved højfrekvenshandelsstrategier. Da vi ikke ligger inde med fyldestgørende oplysninger, er det vanskeligt at drage solide konklusioner om deres positive eller negative rolle. Inden vi foreslår lovgivningstiltag, er vi derfor nødt til at sikre, at vi har de nødvendige oplysninger, således at vi ikke gennemtvinger lovgivning, der kan svække de europæiske markeders effektivitet.
+<P>
+Vi skal grundlæggende sikre de finansielle markeders integritet. Det er ikke deres funktion at være en platform for samarbejde mellem mellemhandlere eller smughandlere. De fungerer som en markedsplads for investorer, der kanaliserer kapital til virksomheder i realøkonomien. Vi bør alle fortsat have fokus på denne grundlæggende markedsfunktion under MiFID II-lovgivningsprocessen.
+<SPEAKER ID="237" NAME="Philippe Juvin" AFFILIATION="PPE">
+(FR) Hr. formand, mine damer og herrer! Denne tekst er naturligvis yderst kompleks, men hvad handler den dybest set om? Den handler endnu engang om at tage ved lære af krisen. Nej, vi skal ikke længere gøre som hidtil. Ja, vi skal ændre spillets regler, og vi skal bringe orden tilbage i systemet.
+<P>
+Der er kredse i de forskellige EU-medlemsstater, der nu udnytter krisen og folks bekymring og giver EU hele skylden. Alle vegne hører man påstanden: "Det er EU's skyld, at det ikke fungerer, det er euroens skyld, og her er løsningen, vi skal udtræde af EU, vi skal afskaffe euroen ..." Vi er nødt til at gentage igen og igen over for alle disse mennesker, at ja, vi har brug for fælles regler, vi er nødt til at gentage igen og igen, at hvis landene i EU ikke var forenet, hvis de stod alene, ville de være færdige nu. Ja, vi har brug for regulering, en fælles politik, fælles regler og et grundigt eftersyn af vores regler og et mere velfungerende system.
+<P>
+Det er i sidste ende meget enkelt. Vi er stærke i fællesskab, vi er færdige, hvis vi står alene.
+<SPEAKER ID="238" NAME="Csanád Szegedi" AFFILIATION="NI">
+(HU) Hr. formand! Jeg vil gerne takke Dem for den meget generøse tildeling af taletid. Jeg vil fremover være særlig opmærksom på, hvilket møder De leder, og jeg vil forsøge at være til stede under alle disse møder. Swinburne-betænkningen er meget vigtig, idet vi langt om længe drøfter reguleringen af handelen med finansielle instrumenter. Den første og største fejltagelse i betænkningen er, at betænkningen og kravet om yderligere regulering kommer for sent. Hvis den hidtidige lovgivningsramme har været uklar, er vi desuden nødt til retrospektivt at foretage en nøje undersøgelse af alt det, der er sket. Jeg mener, at det er meningsløst og en direkte fejltagelse ikke at omfatte store investeringer af strengere kontrol. Vi skal ikke blot undersøge handelens karakter, men også de udstedte derivater, og nye udstedelser skal omfattes af strengere regulering.
+<P>
+Inflationen stimuleres rent faktisk af derivatprodukter på de finansielle markeder. Det er befolkningen, der betaler prisen herfor, mens forskellige internationale retlige enheder, der ikke altid har en klar ejerstruktur, indkasserer fortjenesten. Det vil desuden ikke være hensigtsmæssigt at omdirigere fortjenester, der indkasseres på denne måde, til realøkonomien, da det kan indebære, at hele planeten gradvis glider ned i de rigestes lommer.
+<SPEAKER ID="239" NAME="Elena Băsescu" AFFILIATION="PPE">
+(RO) Hr. formand! I Swinburne-betænkningen er der fokus på at sikre lige vilkår mellem multilaterale handelsfaciliteter. Jeg mener desuden, at det er lige så vigtigt at sikre, at de er underlagt det samme tilsynsniveau. Jeg vil gerne understrege behovet for en mere passende lovgivning med henblik på at mindske systemiske risici og sikre loyal konkurrence på markedet.
+<P>
+Der er i øjeblikket en foruroligende mangel på tilstrækkelige oplysninger om handelsstrategier. Hvis vi virkelig skal finde ud af, om markedet fungerer korrekt, skal tilsynsmyndighederne have adgang til tilstrækkelige oplysninger. ESMA bør udarbejde fælles regnskabsstandarder og -formater for rapportering af alle data både fra organiserede handelscentre og OTC.
+<P>
+Jeg mener, at det vil være nyttigt at foretage en undersøgelse af konsekvenserne af, at der fastsættes en minimumsordrestørrelse for alle dark pool-transaktioner, således at det kan fastslås, om der opretholdes en passende handelsstrøm.
+<SPEAKER ID="240" NAME="Johannes Hahn" LANGUAGE="EN">
+Hr. formand! På vegne af Kommissionen, herunder navnlig kommissær Barnier, vil jeg gerne sige, at det er en hovedmålsætning for Kommissionen og G20 at øge gennemsigtigheden på de finansielle markeder og sikre, at alle relevante markedsaktører omfattes af passende regulering.
+<P>
+Jeg vil gerne lykønske dr. Swinburne og Økonomi- og Valutaudvalget med betænkningen om regulering af handelen med finansielle instrumenter - "dark pools" osv. Betænkningen udgør et vigtigt skridt i den igangværende revision af direktivet om markeder for finansielle instrumenter (MiFID). Kommissionen vil i vidt omfang tage hensyn til henstillingerne under udarbejdelsen af forslaget om ændring af det eksisterende direktiv i 2011. Revisionen af MiFID-direktivet er et vigtigt punkt på Kommissionens dagsorden for et mere stabilt og gennemsigtigt finansielt system, der arbejder for økonomien og samfundet som helhed. Der er allerede blevet samlet mange brikker, ikke mindst lanceringen af en ny EU-tilsynsmyndighed i næste måned.
+<P>
+Kommissionen har til hensigt at forelægge en række forslag på de resterende områder senest i sommeren 2011. Vi regner med, at Europa-Parlamentet vil støtte en hurtig vedtagelse af de nødvendige reformer og sikre, at de gennemføres så hurtigt som muligt herefter.
+<P>
+MiFID er som bekendt en hjørnesten i EU's lovgivningsramme for de finansielle markeder. Det blev vedtaget før finanskrisen, men direktivet har overordnet set fungeret godt, selv i de vanskelige og turbulente tider i de senere år.
+<P>
+Der har naturligvis vist sig en række mangler. Som følge af teknologiske fremskridt og den hurtige udvikling på de finansielle markeder er lovgivningsinstrumenter, der var state-of-the-art for nogle år siden, helt klart forældede i dag.
+<P>
+Den 8. december sendte Kommissionen en række forslag i høring. Vi har til hensigt at anvende en ambitiøs og samlet tilgang til imødegåelsen af alle udfordringer. De oprindelige målsætninger i MiFID er stadig relevante, men der er en række kritiske spørgsmål vedrørende de finansielle markeders funktion, den ønskede grad af åbenhed og gennemsigtighed, og investorernes muligheder for at få adgang til finansielle instrumenter og investeringsmuligheder.
+<P>
+Som det anføres i betænkningen fra Økonomi- og Valutaudvalget, mener vi også, at reguleringen af nye former for handelsplatforme og handelsmetoder skal forbedres. Der skal tages behørigt hensyn til transaktionernes karakter for at sikre aktørerne lige vilkår og en tilstrækkelig beskyttelse af investorerne og for at yde beskyttelse mod forstyrrende markedspraksis.
+<P>
+Vi er også enige i, at det er nødvendigt at forbedre reglerne om gennemsigtighed for handel med aktier og at indføre nye krav for handel med andre instrumenter. Et andet vigtigt område, der også berøres i Swinburne-betænkningen, er en forbedring af råvarederivatmarkederne, herunder reguleringen, i overensstemmelse med G20-principperne.
+<P>
+Vi har desuden til hensigt at indføre målrettede forbedringer af eksisterende regler om investorbeskyttelse. Det er et afgørende led i genskabelsen af investorernes tillid at sikre, at alle produkter og salgsmetoder er behørigt omfattet af de samme regler.
+<P>
+Endelig vil denne revision styrke overvågningen og håndhævelsen på de finansielle markeder, og den nye Europæiske Værdipapir- og Markedstilsynsmyndighed vil komme til at spille en central rolle. Kommissionens tjenestegrene arbejder videre i tæt samarbejde med vores internationale partnere, navnlig med de ansvarlige tilsynsmyndigheder i USA, der ser på de samme spørgsmål, for at sikre international konvergens og undgå enhver risiko for regelarbitrage.
+<P>
+Swinburne-betænkningen kommer på et vigtigt tidspunkt i lovgivningsreformprocessen. Vi glæder os over det engagement, der udvises af medlemmerne af Europa-Parlamentet, og over, at Deres analyser og henstillinger ligger meget tæt op ad vores egne. Denne betænkning styrker grundlaget for vores fremtidige arbejde.
+<SPEAKER ID="241" NAME="Formanden">
+Forhandlingen er afsluttet.
+<P>
+Afstemningen finder sted i morgen kl. 12.00.
+<P>
+Næste møde finder sted i morgen torsdag den 14. december 2010 kl. 9.00-13.00, kl. 15.00-20.30 og kl. 21.00-24.00.
+<P>
+Dagsordenen er offentliggjort og er tilgængelig på Europa-Parlamentets websted.
+<P>
+Mødet er hævet.

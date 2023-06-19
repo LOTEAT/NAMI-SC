@@ -1,0 +1,392 @@
+<CHAPTER ID=1>
+Aprovação da acta
+<SPEAKER ID=1 NAME="Presidente">
+A acta da sessão de ontem já foi distribuída.
+<P>
+Há alguma observação?
+
+<SPEAKER ID=2 LANGUAGE="EL" NAME="Avgerinos">
+Senhora Presidente, a acta de ontem não indica o meu nome entre os presentes. Agradecia que a corrigissem, pois estive cá durante todo o dia.
+
+<SPEAKER ID=3 NAME="Presidente">
+Foi até o senhor quem presidiu à sessão. Creio que todos o podem confirmar. Há ainda alguma observação?
+
+<SPEAKER ID=4 LANGUAGE="NL" NAME="Blokland">
+Senhora Presidente, quero felicitar o Parlamento pela inexplicável decisão tomada na noite de ontem, no relatório do senhor deputado Scarbonchi, de aumentar em 12 milhões o número de postos de trabalho no período compreendido entre 1995 e 1996. Assim, tenho grande curiosidade em saber quando é que o Parlamento Europeu decidirá também adiar por um ano o ano 2000.
+
+<SPEAKER ID=5 LANGUAGE="EN" NAME="Provan">
+Senhora Presidente, ontem tiraram uma fotografia na assembleia. Não quero levantar problemas, mas será possível darem-nos garantias de que a fotografia se não destina a difusão pública e, caso contrário, quererá a Mesa tomar providências não só para que isto não torne a acontecer, mas também no sentido de aplicar sanções ao deputado em causa, porque garantiu à assembleia que era uma fotografia particular.
+
+<SPEAKER ID=6 NAME="Presidente">
+O colega afirmou ontem tratar-se de uma foto particular.
+
+<SPEAKER ID=7 LANGUAGE="EN" NAME="Collins, Kenneth">
+Senhora Presidente, na mesma ordem de ideias, podem também dar-nos garantias de que as chamadas telefónicas particulares feitas nesta assembleia a partir de telemóveis não serão utilizadas para os mesmos efeitos?
+
+<SPEAKER ID=8 NAME="Presidente">
+Aceitei as vossas sugestões. Dou a palavra ao senhor deputado Kerr para falar sobre a acta.
+
+<SPEAKER ID=9 LANGUAGE="EN" NAME="Kerr">
+Senhora Presidente, como deve ter verificado na acta de ontem, tomei a palavra seis vezes em nome do Grupo dos Verdes, sobre seis relatórios diferentes. Perguntei se tinha batido um recorde. Os serviços já tiveram tempo para fazer a contagem?
+
+<SPEAKER ID=10 NAME="Presidente">
+É muito simpático da sua parte ajudar-nos a resolver algo que nem sempre é feito espontaneamente.
+<P>
+(O Parlamento aprova a acta)
+
+<CHAPTER ID=2>
+Votações
+<SPEAKER ID=11 NAME="Presidente">
+A relatora comunicou-me que a expressão "nomeadamente o Reino Unido» aparece por engano no considerando F e deve ser suprimida.
+
+<SPEAKER ID=12 LANGUAGE="EN" NAME="Kerr">
+Senhora Presidente, sou membro da Comissão dos Direitos da Mulher e coordenador dos Verdes e, tanto quanto me recordo, essa alteração não foi feita na reunião. Gostaria de solicitar que esses termos não fossem suprimidos e que o relatório fosse submetido à votação contendo os termos «o Reino Unido» e «os Estados Unidos». Isto é uma tentativa dos meus colegas do New Labour para poupar embaraços ao Governo britânico. Devemos deixar o relatório tal como está e submetê-lo à votação assim mesmo. Caso contrário, solicitarei que sejam ouvidas as gravações integrais dos trabalhos da comissão e provarei que esta alteração não foi feita em comissão. Sugiro que o relatório fique como está e que seja submetido assim mesmo à votação.
+
+<SPEAKER ID=13 NAME="Presidente">
+Senhora Relatora, qual é a sua opinião sobre este assunto?
+
+<SPEAKER ID=14 NAME="García Arias">
+Senhora Presidente, esta reacção do senhor deputado Kerr surpreende-me verdadeiramente, uma vez que deve recordar-se perfeitamente de que, no dia em que votámos este relatório em sede de comissão parlamentar, decidimos, e assim votámos, suprimir as referências a alguns países. Efectivamente, o projecto inicial continha estas referências, não só nestes dois pontos, mas também noutros, mas a comissão acordou o que referi, como deve constar da acta da reunião em causa. Por conseguinte, peço ao senhor deputado Kerr que guarde na memória o dia da votação. Lembro-me perfeitamente, Senhora Presidente. Logo, quer no considerando F, quer no ponto 12, tínhamos de referir que criticamos «os modelos» e não «o modelo» e de suprimir a referência aos Estados Unidos.
+
+<SPEAKER ID=15 NAME="Presidente">
+Muito obrigada, Senhora Deputada García Arias. Senhor Deputado Kerr, esta supressão nada tem a ver com o Reino Unido já que, de um modo geral, nenhum país é mencionado.
+
+<SPEAKER ID=16 LANGUAGE="EN" NAME="Kerr">
+Senhora Presidente, sugiro que a melhor maneira de resolver o problema é considerar que se trata de uma alteração oral apresentada pela relatora. Se a assembleia considerar que a alteração oral é admissível, o relatório poderá ser submetido assim à votação. Se doze deputados se opuserem, a alteração não será admitida.
+
+<SPEAKER ID=17 NAME="Presidente">
+Não, não é bem claro o que está a sugerir. Tal como a relatora já referiu, a comissão encontrou uma solução inequívoca que está de acordo com o que foi aqui discutido e, por isso, não podem ser admitidas quaisquer propostas de alteração adicionais.
+<P>
+(O Parlamento aprova a resolução)
+
+<SPEAKER ID=18 NAME="Seillier">
+Senhora Presidente, torna-se necessário, para melhor responder às reais necessidades das nossas sociedades, clarificar determinados conceitos, tal como o de família monoparental : trata-se de uma viúva ou um viúvo com filhos a cargo, de uma mulher ou um homem divorciado com filhos, de uma mãe solteira com filhos, etc.?
+<P>
+Seja resultado das circunstâncias da vida ou da escolha pessoal de uma mulher, a situação monoparental é, sempre, difícil de viver, tanto a nível material como também para a educação dos filhos; o relator, aliás, salienta-o mais de uma vez. Por este motivo, não compreendo a rejeição das nossas alterações que exigem, no interesse material e moral das crianças, uma política de prevenção a fim de evitar, tanto quanto possível, as situações monoparentais através de uma educação para a responsabilidade.
+<P>
+Com efeito, trinta anos após 1968, são cada vez mais visíveis as consequências desastrosas de uma falsa libertação sexual.
+<P>
+Relatório Provan (A4-0277/98)
+<SPEAKER ID=19 NAME="Nicholson">
+Felicito o senhor deputado Provan por um excelente relatório, que reflecte o consenso geral de que o controlo das pescas deve melhorar, se quisermos conservar os recursos haliêuticos e proporcionar um modo de vida às gerações futuras de pescadores.
+<P>
+O senhor deputado Provan sublinhou no seu relatório um aspecto estratégico importante, que parece muitas vezes ser esquecido pela Comissão, que é a necessidade de obter o apoio dos pescadores. Se o fizermos, conseguiremos que os pescadores sejam nossos parceiros em pé de igualdade no processo de controlo, em vez de parecer que estão a ser objecto de uma operação de espionagem. O controlo das pescas só será totalmente eficaz se os próprios pescadores tiverem confiança no processo.
+<P>
+Devo dizer que é difícil abordar esta questão sem ter em conta a orientação da política comunitária no sector da pesca. Os deputados que representam zonas onde o sector da pesca foi afectado por decisões tomadas a nível político não podem deixar de pensar que por muito eficaz que seja o controlo, não poderá reparar os prejuízos causados pela abertura indiscriminada das nossas águas a toda a gente. Dito isto, sem dúvida que me congratulo com as propostas de reforço dos controlos dos navios de países terceiros que operam em águas comunitárias.
+<P>
+O relatório é útil, na medida em que reforça os pedidos insistentes do Parlamento no sentido de que a Comissão se esforce mais por corrigir os pontos fracos da PCP. Espero que isto signifique que a Comissão está a mudar de atitude, ouvindo o Parlamento nesta matéria.
+
+<SPEAKER ID=20 NAME="Wibe">
+Senhora Presidente, este relatório contém muito boas ideias e propostas. Sinto, porém, a falta de uma visão crítica sobre o conjunto da política de pescas da UE. Porque é essa política que está a conduzir ao esgotamento dos recursos pesqueiros em vasta áreas das águas costeiras africanas. Esta questão fundamental não se resolve com melhor controlo, mas sim com uma política diferente.
+
+<CHAPTER ID=3>
+Acordo de Pesca CE / Madagáscar
+<SPEAKER ID=21 NAME="Presidente">
+Segue-se na ordem do dia o relatório (A4-0282/98) do deputado Gallagher, em nome da Comissão das Pescas, sobre a proposta de regulamento (CE) do Conselho respeitante à celebraço do protocolo que fixa, para o período compreendido entre 21 de Maio de 1998 e 20 de Maio de 2001, as possibilidades de pesca e a contrapartida financeira previstas no Acordo entre a Comunidade Europeia e a República de Madagáscar sobre a pesca ao largo de Madagáscar (COM(98)0390 - C4-0456/98-98/0217(CNS)).
+
+<SPEAKER ID=22 NAME="Gallagher">
+Senhora Presidente, gostaria de começar por dizer que estou muito grato a todos os que me ajudaram na elaboração do meu relatório e, em particular, ao secretariado da comissão, aos membros da Comissão das Pescas que participaram activamente nos debates em comissão, ao pessoal da Comissão Europeia e, é claro, aos relatores de parecer da Comissão dos Orçamentos e da Comissão para o Desenvolvimento e a Cooperação.
+<P>
+O presente relatório baseia-se na proposta da Comissão relativa à renovação do protocolo anexo ao acordo de pesca entre a UE e a República de Madagáscar por um período de três anos, de Maio de 1998 a Maio de 2001. O primeiro protocolo com Madagáscar foi celebrado em 1986, sendo este o quinto protocolo. O protocolo refere-se exclusivamente ao atum, e aplicar-se-á a 45 atuneiros congeladores e a 30 palangreiros. A captura autorizada serão 9 500 toneladas. O custo total do acordo para a Comunidade é de 2, 28 milhões de ecus, para um período de três anos. A compensação financeira ascenderá a 912 000 ecus, ou seja, 40 % do custo global. O restante será utilizado para financiar medidas de ajuda ao sector das pescas malgaxe, através do financiamento de programas de investigação científica e de programas de controlo, tais como operações de inspecção e vigilância. É muito importante que sejam disponibilizados financiamentos de apoio ao desenvolvimento da pesca costeira artesanal, que incluirão também subvenções para prestação de formação aos pescadores dos estados costeiros de Madagáscar.
+<P>
+É importante observar que o financiamento está ligado pela primeira vez a uma obrigação jurídica por parte das autoridades malgaxes, que devem fornecer à Comissão um relatório anual pormenorizado sobre a utilização dos fundos destinados aos programas científicos, aos programas de controlo e à assistência técnica. A disponibilização das dotações será condicionada pela execução destas medidas, o que constitui uma novidade grata. A Comissão poderá solicitar informação complementar, e os pagamentos serão bloqueados se a União considerar que essa informação não é satisfatória. Esta disposição vai ao encontro dos pontos de vista do Parlamento, garantindo também uma transparência total, o que é absolutamente essencial. Com vista a assegurar que as autoridades malgaxes e o povo de Madagáscar sejam beneficiados pelo acordo, os navios comunitários devem obter das autoridades malgaxes os serviços e os fornecimentos de que necessitam.
+<P>
+O protocolo em apreço prevê que o acordo possa ser alargado a outras modalidades de pesca não especificadas - há, porém, uma alusão clara à pesca do camarão - de grande valor económico, que de momento se regem por acordos com particulares.
+<P>
+O presente acordo internacional de pesca proporciona a alguns navios da União a possibilidade de explorar os recursos pesqueiros de zonas exteriores à União, concedendo aos nossos navios o direito de pescar em águas de países terceiros e aliviando assim a pressão exercida sobre muitos dos recursos da União.
+<P>
+A possibilidade de pescar nas zonas exclusivas de países terceiros não deve ser reservada aos navios de um único Estado-Membro, mas antes deve ser proporcionada aos navios de longo curso de todos os Estados-Membros que tenham capacidade para pescar os recursos em causa. Os países que não usufruíam de direitos de pesca tradicionais nas águas em questão devem ter as mesmas oportunidades, não devendo ser impedidos de explorar os pesqueiros de atum e de espécies migradoras que atravessam as águas costeiras de vários Estados, entre Março e Junho. Só um sistema de gestão baseado na cooperação regional poderá assegurar a conservação dos recursos, e não será necessário recordar à assembleia a importância da conservação dos recursos renováveis. Somos os guardiães desses recursos, que devemos preservar para as gerações futuras. E sabem-no melhor do que ninguém os nossos pescadores, que querem conservar os recursos para a sua geração e para as gerações futuras.
+<P>
+Concluirei dizendo que apresentei várias alterações exigindo que seja prestada ao Parlamento informação pormenorizada e coerente, o que está de acordo com a filosofia do Parlamento. Peço o apoio da assembleia para o relatório, e peço ainda à assembleia que considere com atenção as minhas alterações que, segundo creio, melhoram o relatório.
+
+<SPEAKER ID=23 NAME="Jöns">
+Senhora Presidente, caros colegas, em nome da Comissão dos Orçamentos, gostaria de felicitar cordialmente o colega Gallagher pelo seu relatório. Desta vez, posso também felicitar a Comissão, o que nem sempre é o caso. Congratulamo-nos sempre que os funcionários aprendem qualquer coisa e, pela primeira vez, no caso de Madagáscar, a Comissão conseguiu concluir as negociações dois meses antes de expirar o prazo e não sob a pressão da última hora. É evidente que gostaríamos de ter tido 4a 6 meses antes de expirar o protocolo para que todo o processo legislativo ficasse concluído a tempo e horas, mas dois meses são já um primeiro passo na direcção certa, entenda-se na direcção do code of conduct .
+<P>
+Gostaríamos também de ter evitado esta maçadora e provisória aplicação do protocolo. Nesse caso não ficaríamos de novo na situação de nos limitarmos apenas a confirmar dados já decididos, o que - como todos sabem - limita consideravelmente os nossos direitos como ramo da autoridade orçamental.
+<P>
+Vou referir ainda outro ponto. Na qualidade de Comissão de Orçamentos temos naturalmente uma opinião diferente no que respeita a questões de classificação. Continuamos a considerar como não obrigatórios os meios para acordos internacionais de pesca, mesmo que uma parte dos colegas da Comissão de Pescas seja de opinião diferente. Queria que, em todo o caso, isto ficasse bem claro. O mesmo se aplica, naturalmente, ao acordo com o Gabão, que vamos discutir mais tarde. Esta divergência não poderá, todavia, ser esclarecida em posteriores processos legislativos. Neste caso temos realmente de esperar pelo próximo acordo interinstitucional.
+
+<SPEAKER ID=24 LANGUAGE="EN" NAME="Hardstaff">
+Senhora Presidente, as questões associadas a este acordo de pesca com Madagáscar foram evidenciadas com grande clareza pelo senhor deputado Gallagher, no seu excelente relatório e na sua intervenção desta manhã.
+<P>
+O Grupo Socialista congratula-se vivamente com o facto de a renegociação de acordos de pesca com países terceiros garantir que cada vez mais os países em causa, nomeadamente as suas comunidades de pescadores, e não apenas os seus governos, beneficiem destes acordos. Como o referiu o senhor deputado Gallagher, o Governo de Madagáscar deve apresentar relatórios sobre a utilização exacta dos fundos que recebe nos termos deste acordo. Ora essas salvaguardas devem-se em grande medida à pressão exercida pelo Parlamento.
+<P>
+Este acordo específico exige que os navios de pesca comunitários que vão buscar atum às águas malgaxes paguem contribuições financeiras a favor dos pescadores malgaxes, quando não empregam trabalhadores locais. As licenças são concedidas apenas a determinados navios e não podem ser transferidas. Se quisermos conservar os recursos haliêuticos, não podemos sobreexplorar as nossas próprias águas e depois explorar as águas de outros países.
+<P>
+As alterações apresentadas pelo senhor deputado Gallagher foram apoiadas pela comissão e são plenamente apoiadas pelo PSE, pois asseguram que o Parlamento seja plenamente informado no que se refere à aplicação deste acordo. No entanto, opomo-nos à alteração do ELDR, pois o resultado provável da mesma seria inviabilizar as actividades de pesca dos navios da Comunidade, excepto em anos excepcionalmente bons, o que suscitaria muita oposição a este acordo. Madagáscar seria igualmente privado das vantagens proporcionadas por este protocolo às suas comunidades de pescadores.
+
+<SPEAKER ID=25 LANGUAGE="ES" NAME="Varela Suanzes-Carpegna">
+Senhora Presidente, gostaria em primeiro lugar de felicitar os relatores que apresentam os seus relatórios esta manhã, os senhores deputados Gallagher e Girão Pereira, pelo bom trabalho que realizaram no âmbito dos seus relatórios sobre os acordos de pesca com a República Malgaxe e com a República Gabonesa.
+<P>
+Gostaria de assinalar que ambos os acordos estão na linha da política comum das pescas da União Europeia no que se refere aos acordos internacionais de pescas, contribuindo para consolidar esta política, um dos pilares fundamentais da política comum das pescas comum. Como se referiu no relatório Crampton aprovado por este Parlamento, este tipo de acordos continua a ser uma condição fundamental para tentar reduzir o défice comercial da União Europeia e preservar o emprego, directo e indirecto, no sector e na indústria das pescas da Comunidade, o que interessa sobretudo às regiões periféricas e economicamente atrasadas, que se encontram muito dependentes da pesca.
+<P>
+No que diz respeito ao relatório do senhor deputado Girão Pereira relativo ao acordo de pescas com a República Gabonesa, gostaria de sublinhar que se trata de um novo acordo que abrange apenas o atum, com uma duração de cinco anos e que prevê um financiamento de 9 000 toneladas negociadas. No entanto, devo salientar que, de forma incompreensível e preocupante, se introduz pela primeira vez neste tipo de acordos um aumento do financiamento a cargo dos armadores, de 20 para 25 ecus por tonelada, o que significa uma redução da contribuição comunitária de 80 para 75 ecus por tonelada.
+<P>
+Não vejo qualquer justificação para esta medida e, ainda que a houvesse, penso que qualquer aumento deveria ser sempre acompanhado do aumento correspondente da capacidade de pesca dos armadores e de uma maior participação destes nas negociações, em consonância com o reforço do sua contribuição.
+<P>
+No que se refere ao relatório Gallagher, sobre a celebração de um novo acordo com a República de Madagáscar, deve salientar-se que se trata de um acordo que versa essencialmente sobre o atum e que mantém o número de barcos de pesca costeira e aumenta o número de barcos de pesca com palangre, bem como as possibilidades de pesca de 9 000 para 9 500 toneladas. O custo total deste acordo aumenta ligeiramente, mas deve salientar-se que, contrariamente do que acontece no âmbito do acordo com o Gabão, a Comissão respeita os limites de financiamento a cargo dos armadores utilizados até ao momento em todos os acordos deste tipo. Assim, os armadores irão contribuir com 20 ecus por tonelada e a Comissão com 80.
+<P>
+Para concluir, gostaria de qualificar como sendo muito positivas as alterações ao relatório Gallagher aprovadas pela Comissão das Pescas, nas quais se solicita a apresentação por parte da Comissão, no decurso do último ano de vigência do acordo, de um relatório sobre a aplicação e as condições de execução do mesmo e sobre a evolução das negociações com vista à sua renovação, relatório este a enviar ao Parlamento e que servirá de base a este para formular recomendações e para solicitar a tomada em consideração das mesmas antes do final das negociações.
+<P>
+Embora a comunicação entre as instituições tenha melhorado desde a conclusão do acordo anterior, graças à aplicação do acordo interinstitucional sobre a melhoria da informação à autoridade orçamental relativamente aos acordos de pescas de 1996, esta comunicação poderia ser melhorada. Este novo tipo de colaboração proposto no relatório Gallagher vai no sentido do reforço da participação do Parlamento Europeu e poderá significar uma melhoria substancial do procedimento de celebração e de execução dos acordos internacionais de pescas.
+
+<SPEAKER ID=26 LANGUAGE="SV" NAME="Olsson">
+Senhora Presidente, começo por felicitar o relator pelo seu bom relatório. Acho que ele representa um progresso neste tipo de acordos entre a União Europeia e alguns países em desenvolvimento.
+<P>
+Quero sublinhar que, neste tipo de acordos, o que está verdadeiramente em causa é encontrar um equilíbrio entre interesses diferentes: por um lado, os interesses económicos, de um acordo de negócios, por outro lado, os interesses ambientais, de como lidar com um recurso de modo que ele possa ser utilizado de forma sustentável durante muito tempo. E por outro lado ainda, de como ajudar países do terceiro mundo. Não é muito fácil alcançar este equilíbrio. Não digo que já tenhamos conseguido alcançá-lo, mas estamos, em todo o caso, no bom caminho.
+<P>
+Sublinho que a Comissão para o Desenvolvimento e a Cooperação indicou que, no que se refere à pesquisa e gestão de recursos, não se tem tomado suficientemente em conta as especificidades regionais. É muito importante que a Comissão pense nisso quando avançar mais neste contexto.
+<P>
+Deixe-me também comentar a proposta do Partido Europeu dos Liberais, Democratas e Reformistas, segundo a qual os pescadores nunca receberiam subsídios neste processo. Os subsídios são naturalmente necessários numa situação em que as pescas e a agricultura não têm condições para sobreviver no actual contexto de concorrência internacional. A longo prazo, é preciso que esses subsídios possam ser abolidos. Peço, Senhora Presidente, que me permita voltar ao assunto durante a discussão do próximo relatório, sobre o qual existe uma proposta de alteração do mesmo teor.
+
+<SPEAKER ID=27 LANGUAGE="NL" NAME="Aelvoet">
+Senhora Presidente, quando há uns bons dois anos foi aqui abordado o anterior acordo sobre a pesca ao largo de Madagáscar, o Parlamento Europeu teceu severas críticas, tanto em relação ao seu conteúdo como também ao procedimento adoptado, visto que, na realidade, não tivemos aí nem voz nem voto. O relator apelou à rejeição do acordo, mas uma maioria do Parlamento não pôde concordar com isso. No entanto, aconteceu que, por intermédio do senhor deputado Baldarelli, os Socialistas declararam, na altura, que esse seria o último acordo que aprovaríamos. Desde então os Socialistas têm apoiado todos os acordos.
+<P>
+Mas o que se passa no terreno? Se compararmos os dois acordos, constatamos que não existe ainda uma estrutura administrativa regional adaptada, que continuam a no existir medidas de controlo efectivas e que, mais uma vez, o Parlamento foi apenas consultado. Consideramos positivo que, finalmente, tenha havido um alargamento, nomeadamente de 2 para 12 milhas, da zona reservada à pesca. Já vinha sendo tempo que isso acontecesse, pois há muito que essa cláusula havia sido integrada em muitos outros acordos.
+<P>
+Dado que se trata aqui, uma vez mais, de um acordo que visa fundamentalmente a pesca do atum, temos de colocar a tónica no problema de que a utilização de um determinado tipo de artes, nomeadamente de redes de saco, levanta, efectivamente, o problema das pescas acessórias - e não me refiro aqui aos golfinhos, pois na região em causa isso não constitui problema. No entanto, de um estudo muito recente realizado por cientistas franceses, resulta claro o facto de serem capturadas muitas outras espécies, tal como a dourada, o chicharro e o gaiado, para referir apenas algumas. Além disso, há o problema dos atuns muito jovens que são capturados prematuramente. Algumas destas espécies são também capturadas pelos pescadores artesanais, existindo assim um impacto das nossas empresas de pesca sobre as possibilidades dos pescadores locais. Notório é também o facto de, enquanto a maioria dos outros acordos relativos à pesca do atum prevê a contratação de dois pescadores locais por embarcação, no presente acordo só estarem previstos dois para toda a frota. Por conseguinte, em nossa opinião, tem de haver melhorias concretas no tocante ao controlo. Apoiamos, por isso, a alteração apresentada em nome do Grupo ELDR, uma vez que aponta no bom sentido e porque deve haver uma maior participação dos armadores.
+
+<SPEAKER ID=28 LANGUAGE="FR" NAME="Souchet">
+Senhora Presidente, o debate que hoje dedicamos a dois acordos de pesca da União Europeia, um com Madagáscar e o outro com o Gabão, refere-se a acordos relativos ao atum, exclusivamente, no que diz respeito ao Gabão, e essencialmente, no que se refere a Madagáscar. Esta discussão tem lugar dois dias após a reunião do intergrupo para a conservação e o desenvolvimento durável que permitiu pôr em evidência os efeitos benéficos dos nossos acordos de pesca, tanto para o desenvolvimento do sector do atum UE-ACP como para o dos países em vias de desenvolvimento signatários, nomeadamente aqueles que dispõem de portos frequentados pelos navios portadores de licença. É o caso, em particular, de Madagáscar, com Diégo-Suarez onde, tal como em Abijan, tal como em Dacar, tal como em Mahé, tal como no Gana ou na Ilha Maurícia, os acordos de pesca permitiram criar actividades industriais de importância em terra e um número significativo de postos de trabalho. O sector do atum tropical nos países ACP de desembarque tornou-se, assim, actor central do desenvolvimento económico local.
+<P>
+O bom funcionamento deste conjunto económico assenta numa articulação entre a vertente acordo de pesca da política comum de pesca e as disposições pautais da Convenção de Lomé, que permitem a importação para países da Comunidade, com direitos nulos, das conservas de atum produzidas nos países ACP. O desenvolvimento deste sector atuneiro no oceano Índico e no oceano Atlântico assenta, igualmente, na exploração moderada dos recursos do mar alto, particularmente abundantes e seguidos de perto cientificamente, nomeadamente pelo ORSTOM francês e o IEO espanhol. Este tipo de pesca não entra em concorrência, portanto, com as actividades de subsistência das pescas artesanais locais que podem, assim, continuar a utilizar com toda a serenidade e toda a justiça as suas redes de emalhar de deriva.
+<P>
+O sector atuneiro UE-ACP é um dos grandes sucessos da nossa política de pesca e, simultaneamente, da nossa política de cooperação. Os profissionais e as autoridades nacionais contratantes congratulam-se com o funcionamento destes acordos e solicitam que o equilíbrio económico actual do sector do atum não seja posto em causa, não seja fragilizado no âmbito da nova Convenção de Lomé. Desejam, muito legitimamente, que seja criado um regime específico adequado que deverá ser definido desde o período transitório para a nova convenção, que inclua, em particular, a manutenção da via preferencial Lomé para o atum transformado, nomeadamente perante o SPG, já que esta disposição permitiu ao nosso sector desenvolver-se face aos gigantes asiáticos como a Tailândia, as Filipinas e a Indonésia, o gigante asiático do atum.
+<P>
+O nosso Parlamento deverá, portanto, manter-se especialmente vigilante nesta questão tal como, aliás, quanto à propensão da Comissão para permitir isenções em todas as direcções, nem sempre se preocupando com os seus efeitos no sector da pesca: SPG droga, contingentes anuais, acordos comerciais com diversas zonas regionais tais como o Mercosul, que podem criar concorrências directas e insustentáveis para os nossos parceiros ACP da Convenção de Lomé. Há que evitar que tais iniciativas destruam o acervo obtido no âmbito da PCP e dos acordos de Lomé. Devem ser realizados imperativamente, antes de cada uma destas negociações, estudos de impacte rigorosos que integrem simultaneamente os interesses da economia europeia e dos países signatários de Lomé, nomeadamente para o sector das pescas.
+<P>
+Saliento finalmente, com muito interesse, tal como os relatores, as disposições dos novos acordos com Madagáscar e com o Gabão em matéria de controlo, formação e estudos científicos, que representam 60 % da contrapartida financeira total e que se encontram em fase de crescimento. O aparecimento, pela primeira vez num acordo de pesca, de uma vertente desenvolvimento da pesca artesanal parece-me, do mesmo modo, uma estreia muito positiva.
+<P>
+Em termos gerais, Senhora Presidente, estes dois relatórios são bons, estes dois acordos são bons; devem agora ser aprovados pela nossa assembleia.
+
+<SPEAKER ID=29 LANGUAGE="EN" NAME="McCartin">
+Senhora Presidente, gostaria de agradecer ao senhor deputado Gallagher o seu relatório. Não há dúvida de que nos presta muita informação pormenorizada, que nos fornece elementos para avaliar a situação. Argumenta-se geralmente que estes acordos de pesca são um favor prestado a uma região específica da Comunidade. Concordo com o senhor deputado Gallagher em que são principalmente os espanhóis, os franceses e os portugueses que tiram partido destas possibilidades, mas não creio que os povos de Estados-Membros mais setentrionais estejam em posição de o fazer, mesmo que dispusessem de informação detalhada e de oportunidades para tal.
+<P>
+Consultando os valores, verifico que o custo por tonelada parece ter descido. Gostaria de saber porque é que estamos a pagar menos neste acordo do que no anterior, e porque é que aumentámos o número de navios em cerca de 30 palangreiros, além dos atuneiros congeladores que estavam já previstos no acordo anterior.
+<P>
+Todavia, congratulamo-nos com o facto de este acordo ser melhor do ponto de vista da conservação dos recursos de pesca na zona e de o limite de 2 milhas, que nunca deveríamos ter autorizado, ter sido aumentado para 12 milhas. Esta alteração contribui para uma melhor protecção dos pescadores locais, que estão perfeitamente habilitados a explorar os recursos dentro desses limites. Na ausência deste acordo, as espécies migradoras não seriam conservadas a favor dos pescadores locais, e de qualquer modo seriam provavelmente exploradas. Madagáscar retira deste acordo lucros que de outra maneira não receberia, pelo que a economia nacional é beneficiada em certa medida. O montante é relativamente reduzido se considerado como ajuda regional aos portos de pesca de regiões comunitárias, uma vez que autoriza capturas no valor de 10 milhões de ecus. Deduzindo desse montante os custos de captura, a ajuda regional não é, evidentemente, muito substancial, mas estes pequenos acordos devem ser considerados no seu conjunto.
+<P>
+Preferia que o número de navios autorizados a pescar nessas águas fosse mais transparente. É difícil controlar o que se passa quando são concedidas licenças a 70 ou 80 navios, para capturar uma quantidade tão pequena de pescado.
+
+<SPEAKER ID=30 LANGUAGE="EN" NAME="Gillis">
+Senhora Presidente, gostaria de agradecer ao senhor deputado Gallagher, o relator, este seu relatório sobre a proposta da Comissão relativa à renovação do acordo de pesca de atum com Madagáscar por um período de três anos.
+<P>
+Se bem que a República de Madagáscar devesse ter o direito de dispor à sua vontade das verbas obtidas com este acordo, congratulo-me por verificar que a maior parte (60 %) do pacote remunerativo total, no montante de 2, 28 milhões de ecus, deverá ser utilizada para financiar actividades de investigação científica, conservação e formação, pelo que beneficiará directamente as regiões costeiras e a respectiva população.
+<P>
+A ajuda financeira directa e a transferência de tecnologia e de know-how para países em desenvolvimento são as características distintivas da política de desenvolvimento da União Europeia. Congratulo-me por verificar que os nossos acordos de pesca com países em desenvolvimento combinam a ajuda financeira com o compromisso de melhoria das estruturas e de reforço da capacidade de formação, e de proporcionar melhores oportunidades aos pescadores locais. Porém, podemos e devemos ir mais além, no âmbito tanto dos acordos de pesca, como da nossa política de desenvolvimento em geral.
+<P>
+É frequente que países terceiros como Madagáscar não tenham capacidade para controlar ou fiscalizar as actividades de pesca das frotas de pesca comunitárias. De resto, as autoridades de muitos Estados-Membros são igualmente incapazes de controlar essas actividades. Contudo, temos de encontrar um sistema que permita que os países em causa e a Comissão controlem eficazmente a aplicação dos acordos de pesca, assegurando que recursos limitados não sejam sobreexplorados. Actividades de pesca demasiado intensivas ou a sobreexploração de recursos limitados prejudicarão esses recursos em detrimento de todos, sendo assim absolutamente insustentáveis.
+<P>
+Há um aspecto em que poderíamos ajudar mais os países terceiros: deveríamos conceder às embarcações de pesca locais uma zona exclusiva de pesca mais alargada. A prática actual de delimitação de uma zona exclusiva de 10 milhas poderia e deveria ser alterada, aumentando esse limite para 15 milhas, sem desvantagens de maior para as frotas de longo curso da UE. O sector da pesca local disporia assim de mais oportunidades e de uma base mais sólida para o planeamento dos seus investimentos.
+
+<SPEAKER ID=31 NAME="Flynn">
+Senhora Presidente, a Comissão gostaria de agradecer ao senhor deputado Gallagher, o relator, este excelente relatório sobre as novas condições de pesca acordadas para a frota comunitária nas águas de Madagáscar. Agradeço também aos deputados que felicitaram o pessoal da Comissão pelo trabalho intenso desenvolvido na preparação destes acordos e pelo êxito dos mesmos.
+<P>
+A Comissão considera que estas medidas permitirão retirar mais vantagens do acordo, no respeito dos princípios fundamentais da conservação dos recursos. A Comissão considera também que o novo protocolo com Madagáscar apresenta características inovadoras significativas, destinadas a promover uma pesca sustentável, compatível com a política de desenvolvimento da União.
+<P>
+O novo protocolo anexo ao acordo permite pela primeira vez aos atuneiros portugueses e italianos a pesca na zona exclusiva de Madagáscar. Destina 60 % da compensação financeira, ou seja, cerca de 1, 368 milhões de ecus em três anos, a acções específicas no domínio, nomeadamente, da investigação científica, do controlo das actividades de pesca, da formação e do desenvolvimento do sector da pesca tradicional. Permite ainda que as autoridades malgaxes controlem os movimentos dos navios comunitários na zona, graças às novas disposições em matéria de procedimentos de controlo previstas no protocolo anexo ao acordo, que incluem a notificação das entradas e saídas dos navios da zona exclusiva.
+<P>
+A Comissão aceita o conteúdo das alterações apresentadas pela Comissão das Pescas, mas não a sua formulação. Chamo a atenção para o facto de que o Parlamento é já regularmente informado sobre a aplicação dos acordos de pesca, através de declarações e relatórios apresentados à comissão. Portanto, a Comissão não pode aceitar a alteração apresentada pelo senhor deputado Teverson. Os acordos de pesca são celebrados a nível comunitário, e compete à Comunidade pagar a compensação financeira, ao passo que os navios que pescam nas águas em causa devem pagar as licenças.
+<P>
+Agradecemos à assembleia os seus comentários.
+
+<SPEAKER ID=32 NAME="Presidente">
+Muito obrigada, Senhor Comissário Flynn.
+<P>
+Está encerrado o debate.
+<P>
+Passamos agora à votação.
+<P>
+(O Parlamento aprova a resolução legislativa)
+
+<SPEAKER ID=33 NAME="Wibe">
+Senhora Presidente, não posso votar a favor deste relatório porque ele aprova de facto a política de pescas seguida pela União Europeia. É essa política que conduz ao esgotamento dos recursos pesqueiros em grandes áreas das águas costeiras africanas, neste caso as de Madagáscar. Além disso, a política da UE conduz ao empobrecimento das comunidades piscatórias locais. Toda a política da UE nesta matéria tem de ser reequacionada.
+
+<CHAPTER ID=4>
+Acordo de Pesca CE / Gabão
+<SPEAKER ID=34 NAME="Presidente">
+Segue-se na ordem do dia o relatório (A4-0283/98) do deputado Girão Pereira, em nome da Comissão das Pescas, sobre a proposta de Regulamento do Conselho relativo à celebração do Acordo entre a Comunidade Europeia e a República Gabonesa sobre a pesca ao largo da costa gabonesa (COM(98)0376 - C4-0458/98-98/0212(CNS)).
+
+<SPEAKER ID=35 NAME="Rosado Fernandes">
+Senhor Presidente, sou um ersatz do meu colega Girão Pereira, que devia ter apresentado ontem o seu relatório. Dado o adiamento do relatório para hoje e dado ele não poder, de forma alguma, estar hoje presente, tentarei substituí-lo o melhor que souber.
+<P>
+Temos, perante nós, o primeiro acordo com o Gabão a ser posto em prática. Já tinha havido um acordo em 1988, um acordo até mais vasto, celebrado para atum e espécies demersais, que nunca foi ratificado por motivos endémicos, motivos políticos, dados os distúrbios políticos que sugiram no Gabão.
+<P>
+Em 1995, porém, veio o Gabão, tal como Madagáscar, solicitar à União Europeia a celebração de um acordo para os tunídeos. Naquela zona estão já em vigor outros protocolos, nomeadamente com São Tomé e Príncipe, Costa do Marfim e Guiné Equatorial, onde operam armadores comunitários, nomeadamente franceses, espanhóis e portugueses.
+<P>
+É, assim, de interesse relevante que este acordo seja celebrado para que os armadores completem a sua zona de actuação, e sendo os tunídeos uma espécies migratória, para que consigam fechar a zona e, naturalmente, serem mais eficazes.
+<P>
+É de salientar que este acordo, contrariamente a alguns outros, não conflitua, por se situar a actuação dos barcos no mar alto e a 12 milhas de distância da costa, não conflitua de uma maneira muito evidente com a pequena frota artesanal de pesca do Gabão constituída por barcos que todos nós conhecemos - os portugueses muito especialmente - nas suas próprias costas.
+<P>
+Trata-se de um acordo com uma ampla duração de cinco anos e com uma contrapartida financeira de 810 mil ecus nos três primeiros anos, para um total de capturas que deve somar 9 mil toneladas por ano. Por outro lado, a Comunidade compromete-se a contribuir com um milhão duzentos e quinze mil ecus para aplicação em iniciativas relacionadas com a preservação dos recursos pesqueiros da zona, com a ajuda científica e técnica ao sector da pesca no Gabão, particularmente com programas científicos e técnicos destinados a melhorar o conhecimento dos recursos, com programas de protecção e vigilância das zonas de pesca e, por último, com bolsas de estudo e estágios de formação.
+<P>
+Permito-me fazer aqui uma observação da minha autoria: muitas vezes, estes programas não funcionam por culpa da União Europeia que nem sempre tem a coragem de fazer relatórios que de facto definam com cuidado aquilo que no terreno - e, no caso vertente, no mar - se está a passar. Muito do que se passa com dinheiro mal despendido resulta da falta de cuidado e de coragem por parte da Comunidade.
+<P>
+O governo da República do Gabão fica vinculado a transmitir à Comissão um relatório anual sobre a execução destas acções e sobre os resultados assim obtidos, sob pena de, em caso de incumprimento, não se renovar o pagamento. São assim afectados recursos significativos (cerca de 60 % da contrapartida financeira) à gestão e preservação dos recursos, à formação científica e técnica do sector pesqueiro gabonês, o que é extremamente importante.
+<P>
+Outro dos aspectos significativos deste acordo é o aumento da participação financeira dos armadores, que passa de 20 para 25 ecus, ou seja mais 25 % por tonelada, com a correspondente diminuição da participação do orçamento comunitário, que desce de 80 para 75 ecus por tonelada.
+<P>
+Para terminar, gostava também de dizer que o novo acordo respeita as conclusões do Conselho de 30 de Outubro de 1997, pelo que somos a favor de que ele seja levado a cabo.
+
+<SPEAKER ID=36 LANGUAGE="ES" NAME="Fraga Estévez">
+Senhor Presidente, gostaria, em primeiro lugar, de felicitar o relator, senhor deputado Girão Pereira, pelo seu excelente relatório, bem como, na oportunidade, a Comissão, por ter negociado um acordo de pescas mais aceitável do que o anterior. No entanto, gostaria de insistir sobre um ponto que me parece extremamente importante e que temos vindo a acompanhar com grande preocupação - e lamento que os colegas da Comissão dos Orçamentos já não estejam Presentes. Senhor Presidente, o acordo com o Gabão marca uma inflexão da política de acordos de pesca, uma vez que materializa, pela primeira vez, a intenção da Comissão de fazer suportar numa proporção cada vez maior o custo dos acordos pelos armadores, diminuindo a contribuição do orçamento comunitário.
+<P>
+A justificação desta medida é mais do que discutível, uma vez que a pesca é uma política comum na qual estão integradas, de uma forma que críamos inseparável, as relações internacionais.
+<P>
+Apesar de excepcional, compreendo perfeitamente que uma parte dos custos dos acordos fiquem a cargo dos beneficiários directos desta política comum. O que não compreendo de forma nenhuma é a razão pela qual os armadores têm de suportar uma parte substancial do custo financeiro dos acordos sem qualquer contrapartida, uma vez que, como sabemos, a condução das negociações é da competência exclusiva da Comissão. Se esta é a orientação que vamos adoptar, se se pretende reequilibrar as despesas, para usar a terminologia da Comissão, então reequilibrem-se também os outros aspectos, conferindo aos armadores maiores responsabilidades no domínio da negociação dos acordos, sobretudo porque a Comissão nem sempre negoceia em função dos interesses do sector. Um sector que, não esqueçamos, no âmbito dos acordos deste tipo, que prevêem o acesso a recursos a troco de uma compensação financeira, contribui com cerca de um terço do custo total dos mesmos.
+<P>
+Gostaria igualmente que não nos esquecêssemos, e vou contestar o que disseram alguns colegas, a discriminação que afecta os armadores de alguns Estados-Membros. Esta discriminação não é a que foi referida aqui, mas, pelo contrário, consiste no facto de algumas frotas estarem a pagar cada vez mais, como neste caso, enquanto que, no âmbito de outros tipos de acordos, os armadores beneficiam de possibilidades de pesca sem quaisquer custos - e refiro-me aos acordos com os países nórdicos, nos quais não participam as frotas dos países do Sul. Estes acordos criam, além disso, coutadas privadas e exclusivas para determinadas frotas, aos quais as restantes frotas comunitárias não têm a mínima possibilidade de acesso, como o ilustra o acordo com a Gronelândia. No entanto, no âmbito da renovação do acordo com a Mauritânia, e peço à Comissão que me corrija se estou errado, foi introduzida a possibilidade de pesca de países como a Alemanha e os Países Baixos.
+<P>
+Por este motivo, o Conselho, na sua reunião de Outubro de 1997, solicitou à Comissão que realizasse um estudo, uma análise «custos-benefícios», sobre os acordos de pesca. Na previsão das decisões políticas que o Conselho deverá tomar e das que este estudo imponha, o Conselho pede à Comissão - e cito textualmente as orientações do Conselho - »que verifique em que medida e através de que meios os armadores que beneficiam de acordos de pesca com países terceiros poderão partilhar com a Comunidade, de forma não discriminatória e equitativa, os custos financeiros destes acordos, tendo em atenção os interesses da Comunidade e dos armadores comunitários, bem como os dos países terceiros em causa».
+<P>
+Por conseguinte, Senhor Presidente, creio que a Comissão foi longe de mais e, sobretudo, que andou depressa de mais. Pedimos-lhe, pois, como o fez o Conselho, que reflicta serenamente sobre este assunto.
+
+<SPEAKER ID=37 LANGUAGE="SV" NAME="Olsson">
+Senhor Presidente, se na minha intervenção anterior me debrucei sobre a questão do equilíbrio entre interesses económicos e ambientais, bem como sobre o interesse do auxílio ao desenvolvimento, quero nesta intervenção falar sobre o princípio dos subsídios. Também quero, naturalmente, felicitar o relator pelo bom trabalho feito neste relatório.
+<P>
+A realidade, na qual devemos pensar de vez em quando, é que foram as antigas actividades económicas, isto é, a agricultura e as pescas, que forneceram os meios para o começo da industrialização. Foram essas actividades que criaram e formaram as pessoas que depois foram trabalhar para a indústria e serviços. Isto foi, portanto, um subsídio dado pela agricultura e pelas pescas. Seguiu-se um período intermédio, no qual ainda nos encontramos, em que uma maior eficácia conduziu a uma maior produção. O receio de ficar sem comida faz com que esta produção seja sempre um pouco excessiva; temos excedentes no mercado mundial e preços baixos. Para que isto não nos conduza a uma mudança estrutural anormal e completamente absurda, é necessário que o resto da sociedade pague alguma coisa para preservar o que importa preservar dessas antigas actividades económicas; refiro-me do mesmo modo, neste caso, às pescas e à agricultura, porque elas são comparáveis, tal como é comparável a nossa política em ambos os sectores.
+<P>
+A prazo, devemos naturalmente chegar a uma situação em que possamos ter um novo equilíbrio, em que possamos eliminar as diferenças entre mercado internacional e mercados nacionais, e em que vários países possam estar envolvidos. Nessa situação, os subsídios poderiam desaparecer. O senhor deputado Teverson, que redigiu uma proposta de alteração, entende que já estamos nessa situação e que as pescas devem pagar os seus próprios custos. Pessoalmente, devo confessar que estou demasiado próximo da realidade para poder apoiar esta proposta de alteração. Por isso, irei abster-me na votação desta proposta do Partido Europeu dos Liberais, Democratas e Reformistas, apesar da minha total compreensão pela ideia propriamente dita. No entanto, ainda vai demorar algum tempo até chegarmos àquela situação.
+
+<SPEAKER ID=38 NAME="Presidente">
+Muito obrigado, Senhor Deputado Olsson.
+<P>
+Senhores Deputados, permitam à Presidência, na sua qualidade de pediatra, saudar a presença na tribuna de uma criança de poucos meses, um cidadão europeu de poucos meses, desejando-lhe que as nossas intervenções não lhe provoquem o choro, mas sim um profundo sono europeu.
+
+<SPEAKER ID=39 LANGUAGE="NL" NAME="Aelvoet">
+Senhor Presidente, um estudo muito recente sobre as consequências das medidas de subvenção a favor do sector das pescas, efectuado pelo Banco Mundial, enumera claramente essas consequências. O estudo data de Abril deste ano. Segundo o Banco Mundial, essas subvenções induzem uma redução considerável das possibilidades de pesca dos pescadores locais. Ainda segundo este estudo, na maioria dos casos não existe uma compensação adequada para o valor económico total do pescado.
+<P>
+Em segundo lugar, o estudo concentra a sua atenção no facto de essas ajudas poderem afectar negativamente as necessidades alimentares locais e as frotas de longo curso tenderem, muito simplesmente, a capturar as espécie mais lucrativas.
+<P>
+Em terceiro lugar, os subsídios exercem também efeitos perversos sobre o comércio, visto ser quase certo que fazem decrescer as oportunidades comerciais que deveriam reverter a favor dos PVD ricos em matéria-prima. Assim, a atribuição de subsídios ao sector das pescas é - e continuará a ser - uma prática dúbia, com a qual há que ter muito cuidado.
+<P>
+Tal como a senhora deputada Fraga Estévez também já teve ocasião de dizer, em Outubro último o Conselho definiu algumas orientações, mas um estudo sério das mesmas revela que elas são bastante vagas. Assim, não são estabelecidos os critérios claros a que um acordo deveria obedecer. Faz-se uma afirmação sobre a necessidade de uma repartiço de custos mais proporcional entre os proprietários dos navios e a Comunidade. Vemos, pois, concretamente que no acordo com o Gabão houve um aumento, de 20 para 25 ecus por tonelada, do contributo dos armadores, mas a Comunidade continua a ser responsável pelos restantes 75 ecus. Por conseguinte, em nosso entender, continua a haver necessidade de maior especificação, maior prudência e melhor controlo, em prol da sustentabilidade da pesca.
+
+<SPEAKER ID=40 LANGUAGE="EN" NAME="McCartin">
+Senhor Presidente, gostaria de agradecer ao senhor deputado Girão Pereira o seu relatório e de dizer que apoio este acordo, concluído em nome dos pescadores europeus. Antes de mais nada, estamos a lidar com um país que não é exactamente igual aos outros países da África subtropical. Tem petróleo e recursos florestais, e um PIB per capita que equivale ao dobro do dos outros países africanos. Portanto, os seus representantes estão em melhor posição para defender os interesses nacionais e impor as suas condições no acordo.
+<P>
+Mesmo assim, preocupa-me o facto de a União Europeia dispor de meios limitados para fiscalizar estes acordos. 9 000 toneladas são uma quantidade de pescado relativamente pequena, mas apesar disso fala-se de licenças para 70 navios - 120 toneladas por navio, se forem todos pescar. E não sabemos se capturam 120 toneladas ou o dobro dessa quantidade.
+<P>
+Todavia, concordo com a senhora deputada Fraga no que se refere à questão de saber se é justo cobrar aos pescadores pelo privilégio de exercerem a actividade da pesca. A União Europeia dispõe de recursos que coloca à disposição dos nossos pescadores sem custos ou encargos, e estes acordos alargam esses recursos. Desde que os acordos sejam concebidos de modo a causar prejuízos mínimos a recursos haliêuticos que, de qualquer modo, não seriam utilizados pelos pescadores locais, é razoável que a União ceda esses benefícios, da mesma maneira que cedemos os benefícios dos nossos próprios recursos haliêuticos, nas nossas próprias águas, aos pescadores que obtêm licenças para os explorar.
+<P>
+Consequentemente, aceito o princípio, que me parece razoável, mas quando pescadores de uma dada região exploram esses recursos, nalguns casos deveríamos considerar se não seria conveniente rever a distribuição dos recursos nas nossas próprias águas.
+
+<SPEAKER ID=41 NAME="Flynn">
+Senhor Presidente, a Comissão gostaria de agradecer ao senhor deputado Pereira o seu excelente relatório, e gostaria também de apresentar os meus agradecimentos pessoais ao senhor deputado Rosado Fernandes, que substituiu tão em cima da hora o seu colega no debate sobre este acordo de pesca celebrado com o Gabão.
+<P>
+O acordo facilita o acesso da frota comunitária a espécies piscícolas migradoras que atravessam as águas gabonesas, complementando os acordos já celebrados entre a Comunidade e outros países vizinhos do golfo da Guiné, tais como São Tomé e Príncipe e a Guiné Equatorial.
+<P>
+O acordo apresenta várias características específicas, algumas das quais são inovadoras. As taxas mais elevadas cobradas aos armadores representam um primeiro passo no sentido de uma repartição mais equitativa dos custos entre a Comunidade e os armadores.
+<P>
+A promoção da pesca sustentável em águas gabonesas é compatível com as orientações da política de desenvolvimento da União Europeia, na medida em que 60 % da contribuição financeira global se destinam a financiar acções específicas de apoio ao sector da pesca do Gabão, em domínios como a investigação e a vigilância das zonas de pesca, o apoio institucional, a formação e a participação nos trabalhos das organizações internacionais do sector da pesca. Está prevista uma cooperação estreita entre as duas partes no que se refere à fixação dos pormenores destas acções específicas. A União poderá rever os pagamentos à luz da utilização efectiva da sua contribuição financeira. Além disso, é proibido o acesso a uma zona exclusiva de 12 milhas marítimas, com vista a proteger o ambiente e a pesca artesanal gabonesa.
+<P>
+A Comissão aceita o conteúdo das alterações apresentadas pela Comissão das Pescas, mas não a sua formulação. Chamo a atenção para o facto de que o Parlamento é já regularmente informado sobre a aplicação dos acordos de pesca, através de declarações e relatórios apresentados à comissão. A Comissão não pode aceitar a alteração apresentada pelo senhor deputado Teverson. Os acordos de pesca são celebrados a nível comunitário, e compete à Comunidade pagar a compensação financeira, ao passo que os navios que pescam nas águas em causa devem pagar as licenças.
+<P>
+Gostaria de agradecer à senhora deputada Fraga Estévez o seu contributo muito estimável. Nos termos do acordo, o custo de uma tonelada de pescado para os armadores é de 25 ecus. Os custos do acordo para a União Europeia ascendem a um pouco mais de 2 milhões de ecus, o que equivale a 75 ecus por tonelada, para uma captura anual total de 9 000 toneladas. A Comunidade está a suportar assim dois terços dos custos, ou seja, cerca de 50 ecus, para os 25 ecus pagos pelos armadores, o que, nestas condições, é considerado razoável.
+
+<SPEAKER ID=42 NAME="Presidente">
+Muito obrigado, Senhor Comissário Flynn.
+<P>
+Está encerrado o debate.
+<P>
+Passamos agora à votação.
+<P>
+(O Parlamento aprova a resolução legislativa)
+
+<SPEAKER ID=43 NAME="Wibe">
+Senhor Presidente, não posso votar a favor deste relatório porque ele aprova de facto a política de pescas seguida pela União Europeia. É essa política que conduz ao esgotamento dos recursos pesqueiros em grandes áreas das águas costeiras africanas, neste caso as do Gabão. Além disso, a política da UE conduz ao empobrecimento das comunidades piscatórias locais. Toda a política da UE nesta matéria tem de ser reequacionada.
+
+<CHAPTER ID=5>
+Acordo Provisório de Comércio CE / República do Azerbaijão
+<SPEAKER ID=44 NAME="Presidente">
+Segue-se na ordem do dia o relatório (A4-0287/98) do deputado Schwaiger, em nome da Comissão das Relações Económicas Externas, sobre uma proposta de decisão do Conselho relativa à conclusão pela Comunidade Europeia de um acordo provisório sobre comércio e matérias conexas entre, por um lado, a Comunidade Europeia, a Comunidade Europeia do Carvão e do Aço e a Comunidade Europeia da Energia Atómica e, por outro, a República do Azerbaijão (COM(96)613-5467/97 - C4-0315/98-96/0299(CNS)).
+
+<SPEAKER ID=45 NAME="Schwaiger">
+Senhor Presidente, caros colegas, no início de 1997, o Parlamento Europeu aprovou, por larga maioria, o acordo de cooperação e de parceria com a República do Azerbaijão. O acordo de ratificação que regulamenta o conjunto das relações da União Europeia com o Azerbaijão vai levar ainda algum tempo. Tal como acontece em acordos semelhantes, as partes que não precisam de ratificação, tais como a cláusula sobre democracia, as determinações sobre circulação de mercadorias, a concorrência e determinações institucionais, entram antecipadamente em vigor no âmbito de um acordo provisório.
+<P>
+Em nome da Comissão das Relações Económicas Externas, proponho ao Parlamento Europeu que aprove este acordo provisório. No relatório de iniciativa de 1997 sobre a cooperação económica com o Azerbaijão, foram aprovadas pelo Parlamento as seguintes directrizes por mim propostas: em primeiro lugar, a necessidade de uma colaboração mais estreita a nível político e económico entre a União Europeia e o Azerbaijão; em segundo lugar, a importância geoestratégica do Azerbaijão como país rico em petróleo e como elemento de ligação nas relações económicas entre a União Europeia e as Repúblicas da Ásia Central; em terceiro lugar, a necessidade de um apoio da União Europeia à colaboração mais estreita, a nível regional, entre as Repúblicas Transcaucasianas, isto é, entre o Azerbaijão, a Geórgia e a Arménia; por último, o apoio ao processo de paz para a solução do conflito do Nagorno-Karabakh.
+<P>
+A economia do Azerbaijão teve, entretanto, uma evolução positiva. A inflação está sob controlo e a subida anual de preços atinge somente 3 %. A balança comercial e o orçamento estão quase equilibrados. A subida anual do produto interno bruto em cerca de 5 % é regra desde há vários anos. O único ponto fraco da sua economia é, até ao momento, o facto de ainda não ter conseguido modernizar a agricultura.
+<P>
+No quadro da cooperação política, deve continuar a ser intensificada, por parte da União Europeia, a ajuda técnica para a constituição de uma administração moderna e de um poder judicial independente. Também deve ser aperfeiçoado o enquadramento legal no Azerbaijão para a liberdade de imprensa e de opinião, assegurando, na prática, um maior pluralismo nos meios de comunicação social. Deve ser prosseguida a ajuda da União Europeia ao Azerbaijão que no seu conjunto é constituída em mais de 75 % pelo ECHO e pela ajuda dos Estados-Membros. Cerca de 20 % do território do Estado do Azerbaijão continua ocupado por tropas estrangeiras. Mais de um milhão de refugiados têm de ser assistidos no país em condições dificílimas. É certo que o Azerbaijão é potencialmente um país rico, mas não dispõe, nos próximos anos, até poder fazer um aproveitamento total dos poços de petróleo, de meios financeiros para albergar um milhão de refugiados.
+<P>
+Este acordo provisório é, portanto, uma etapa essencial para o reforço da nossa cooperação com as Repúblicas Transcaucasianas, e, por isso, o consideramos como um estímulo para uma próxima normalização do conflito do Nagorno-Karabakh. Por certo que existem novos e importantes impulsos para a melhoria das redes de energia e de transportes transcaucasianas, sector em que o Azerbaijão participa de uma forma substancial. Com a abertura, prevista para Outubro de 1998, do oleoduto através da Geórgia, o Azerbaijão poderá adquirir uma maior autonomia económica e uma maior independência em relação aos vizinhos a norte e a sul.
+<P>
+A abertura da região da Ásia Central por meio de estradas e caminhos-de-ferro que atravessam as Repúblicas Transcaucasianas, o projecto Racika co-financiado pela União Europeia, vai trazer novos impulsos à economia do Azerbaijão. O posterior desenvolvimento de ligações económicas entre a Europa e esta região passa também por uma mais estreita colaboração da Moldávia, da Ucrânia, da Geórgia e do Azerbaijão com as Repúblicas Transcaucasianas.
+<P>
+Este acordo provisório e a ajuda financeira especial ao Azerbaijão são, de resto, etapas necessárias para a concessão de um apoio ao Azerbaijão semelhante ao que foi já concedido à Arménia e à Geórgia por parte da União Europeia. No interesse de ambas as partes, esperamos que, através de um contínuo desenvolvimento da democracia, sejam criadas as bases para uma colaboração estreita, plena de confiança e duradoura entre o Azerbaijão e a União Europeia. Apostamos numa forte consolidação regional da Ásia Transcaucasiana e oferecemos a nossa ajuda com vista à auto-ajuda desta região, abrindo, deste modo, o caminho para uma aproximação à Europa a nível político, económico, cultural e social.
+<P>
+
+<SPEAKER ID=46 LANGUAGE="DE" NAME="Wolf">
+Muito obrigado, Senhor Presidente. Gostaria de o felicitar, Senhor Deputado Schwaiger. O molho e a guarnição são excelentes, a apresentação é cuidada. Mas infelizmente, e para usarmos a imagem de hoje de manhã, o peixe confeccionado já não é fresco, pelo que deixa um travo.
+<P>
+O acordo provisório é a antecipação da parte do acordo de parceria e de cooperação que respeita à dimensão comercial. Mas, perante a realidade histórica dos últimos quinhentos anos é simplesmente uma hipocrisia afirmar que o comércio livre traz, só por si, democracia e direitos humanos. A não ser que se trate de um desprezo cínico pelos problemas da população afectada, e não pretendo atribuir culpas a si mas sim àqueles que negociaram o acordo desta maneira, aplicando unilateralmente a cláusula de salvaguarda.
+<P>
+Por parte dos Estados-Membros existem certamente reservas que se pretendem contornar através deste acordo provisório. A situação dos direitos humanos é catastrófica. Continua o estado de guerra com a Arménia apesar de todas as advertências da OCDE com vista a um acordo de paz. Não desejo entrar em detalhes mas vou apenas focar alguns episódios. À margem de uma manifestação realizada pela oposição no dia 12 de Setembro, a polícia maltratou 34 jornalistas e confiscou-lhes o equipamento. No dia 1 de Setembro, o jornalista Tai Hamid foi arrancado à força da sua viatura e maltratado. Perante esta situação, deveríamos aproveitar os acordos já existentes no âmbito da CEI para prestar ajuda e para continuar a desenvolver as relações, mas sem fazer este rodeio de carácter político-comercial. Por isso nos vamos abster na votação deste relatório.
+
+<SPEAKER ID=47 LANGUAGE="DE" NAME="von Habsburg">
+Senhor Presidente, um olhar sobre o mapa deveria mostrar-nos a importância que o Azerbaijão tem para nós. Temos por vezes a impressão de que os nossos dirigentes políticos têm quadros pendurados nos seus gabinetes mas não têm mapas, quando os dados geográficos deveriam estar sempre presentes.
+<P>
+Um olhar sobre o mapa é pretexto para preocupações muito sérias. O perigo de guerra cresce em todo o mundo. Basta pensar no que acontece, de forma ininterrupta, em África, nas tensões entre o Irão e o Afeganistão, que facilmente podem ultrapassar as fronteiras destes dois países. No Azerbaijão existe o problema insolúvel com a Arménia por causa do Nagorno-Karabakh e de outras regiões ocupadas pelos arménios, para o qual se deve encontrar uma solução antes que seja demasiado tarde.
+<P>
+É extremamente frequente adiarem-se os problemas até se tornarem insolúveis. Isto mesmo se pode verificar, a cada momento, na Bósnia. Basta observar o que se passa no Kosovo. Para nós o Azerbaijão é importante por outros motivos. Trata-se de um país com enorme potencial económico e, embora a economia não se tenha desenvolvido tanto como seria necessário em virtude da situação tensa que lá se vive - deixando muito a desejar em especial no sector agrícola - este Azerbaijão tem, a longo prazo, uma grande importância para nós.
+<P>
+Mas existe ainda um segundo motivo pelo qual o Azerbaijão se torna interessante para nós. São as relações estreitas entre a Turquia e o Azerbaijão. Quando visitei o mausoléu de Atatürk pude ler as seguintes palavras do Presidente do Azerbaijão num livro onde os chefes de Estado escrevem as suas impressões: "Atatürk, anunciamos-te que os teus turcos estão novamente aqui». Isto foi no fim do sistema soviético e revela, precisamente nesta região, a importância da Turquia, bem como a necessidade de uma colaboração com a Turquia que temos vindo sempre a interromper através das mais variadas acções, o que é imprudente, o que a longo prazo é politicamente imprudente.
+<P>
+São precisamente as tensões entre o Irão e o Afeganistão que nos mostram os perigos que aqui espreitam a longo prazo e que nos cabe prevenir, pois quando rebentarem será demasiado tarde. Por isso penso que devemos reconhecer a importância do Azerbaijão. Estas negociações tímidas da nossa parte, estes pequenos e diversos aspectos podem trazer aqui e ali alguma solução, mas não se ocupam dos grandes problemas. As nossa relações globais neste espaço são um sinal de grande fraqueza, são acompanhadas de enorme confusão, revelando continuamente a necessidade de avançarmos o mais rapidamente possível neste campo. Tratando-se embora de um pequeno passo, não posso deixar de agradecer calorosamente ao senhor deputado Schwaiger o seu relatório, esperando que o seu dinamismo pessoal possa contribuir para novos e grandes progressos nas relações com o Azerbaijão.
+
+<SPEAKER ID=48 NAME="Flynn">
+Gostaria de me associar aos deputados para agradecer ao senhor deputado Schwaiger o seu relatório sobre o acordo provisório com o Azerbaijão. Congratulamo-nos muito em especial com a afirmação da necessidade de aprofundar as nossas relações com esse país.
+<P>
+Este acordo provisório, que é o primeiro acordo global celebrado entre a União Europeia e o Azerbaijão, proporcionar-nos-á uma plataforma importante de regulação e consulta com o Azerbaijão em matéria de comércio e das questões relacionadas com o comércio. O Azerbaijão é para nós um parceiro estratégico importante, devido à sua localização geográfica e aos seus recursos petrolíferos significativos. A observação do senhor deputado Von Habsburg no que a este ponto se refere é muito pertinente.
+<P>
+Prevê-se que o Azerbaijão concretize nos próximos anos as suas potencialidades de grande produtor de energia e de centro de passagem de trânsito para o comércio entre a Europa e a Ásia Central. O volume do nosso comércio bilateral aumentou 59 % no ano passado, ainda que com um valor de partida baixo, com um excedente significativo a favor da Comunidade.
+<P>
+O acordo provisório contribuirá para estabelecer as condições adequadas para as empresas europeias competirem no Azerbaijão. Ora as empresas europeias deverão fazer grandes esforços se quiserem manter a sua presença económica no país, atendendo à concorrência intensa que lhes é movida por empresas dos Estados Unidos, da Turquia, do Extremo Oriente e de outros países asiáticos. E essa concorrência será ainda maior quando as exportações de petróleo atingirem o seu pleno potencial.
+<P>
+A Comunidade é também um dos principais doadores que apoiam o Azerbaijão. No fim do ano passado tínhamos afectado dotações num montante superior a 220 milhões de ecus ao Azerbaijão, sem contar com os importantes projectos TACIS de cooperação regional, em que o Azerbaijão é um dos principais intervenientes.
+<P>
+A Comissão apresentou uma proposta de prestação de assistência financeira ao Azerbaijão, em apoio da reconstrução social do país. Como sabem, a proposta está neste momento a ser discutida no Parlamento Europeu. O presente relatório é muito importante para o Azerbaijão, pois o país encontra-se neste momento numa situação económica muito difícil, com 70 % da população a viver no limite da pobreza ou abaixo dele. Em consequência da descida dos preços do petróleo, as receitas do sector petrolífero reduziram-se também. O país não deverá vir a ser um grande exportador de petróleo pelo menos nos próximos cinco anos.
+<P>
+O conflito de Nagorno-Karabakh, que foi já aqui referido, tem contribuído para agravar ainda mais a situação económica do Azerbaijão. Cerca de 20 % do território nacional está ocupado por forças arménias de Nagorno-Karabakh. Além disso, o país tem de sustentar perto de um milhão de refugiados e deslocados. Contudo, os governos da Arménia e do Azerbaijão fizeram recentemente algumas declarações conciliadoras, nomeadamente à margem da Conferência de Transportes de Baku, para a qual a Arménia foi expressamente convidada, a pedido da Comissão.
+<P>
+A União Europeia apoia o recomeço das negociações, no âmbito do Grupo de Minsk da OSCE. Um dos elementos essenciais da política da União relativamente ao Azerbaijão é a promoção dos direitos humanos, como o referiu o senhor deputado Wolf. Preocupam-nos também a democratização e o restabelecimento da paz e da estabilidade política na região.
+<P>
+As autoridades do Azerbaijão sabem bem que consideramos a democratização como um elemento essencial da nossa parceria: o senhor Comissário Van den Broek deixou-o bem claro no seu encontro com o Presidente Aliyev, no passado mês de Junho, em Baku. Embora o acordo provisório seja oficialmente um acordo comercial, é prática habitual discutir nas reuniões das comissões mistas questões relacionadas com os direitos humanos. Por outro lado, o acordo contém uma cláusula que prevê a sua suspensão em caso de degradação significativa da situação em matéria de democracia e de direitos humanos.
+<P>
+O acordo de parceria e cooperação (APC) prevê oficialmente o diálogo sobre estas questões e inclui alguns compromissos em matéria de democracia. A Comissão está a acompanhar os progressos realizados nesses domínios e ofereceu-se para apoiar a transição para a democracia no Azerbaijão, através do programa «Democracia» e dos programas de acção TACIS. Estamos a cooperar com a OSCE e o Conselho da Europa no que se refere a estas questões. Agradeço à assembleia a sua indulgência.
+
+<SPEAKER ID=49 NAME="Presidente">
+Muito obrigado, Senhor Comissário Flynn.
+<P>
+Está encerrado o debate.
+<P>
+Passamos agora à votação.
+<P>
+(O Parlamento aprova a resolução legislativa)
+
+<SPEAKER ID=50 LANGUAGE="EN" NAME="Ford">
+Ponto de ordem, Senhor Presidente! Agradeço aos funcionários do Parlamento o seu contributo para a manutenção da forma física dos deputados. A avaliar pelo tempo que medeia entre o toque da campainha e a votação, acho que estamos todos precisados de fazer ginástica.
+
+<SPEAKER ID=51 NAME="Presidente">
+Muito obrigado, Senhor Deputado Ford. Será comunicado.
+
+<SPEAKER ID=52 LANGUAGE="DE" NAME="Rübig">
+Senhor Presidente, após as votações é sempre dada uma indicação sobre o modo como os deputados votaram. Para nós é muito importante poder dizer aos jornalistas e aos cidadãos interessados qual foi a maioria registada na votação. No entanto, o resultado da votação é, a maior parte das vezes, mostrado de forma tão rápida que não é possível tomar nota. Por isso, gostaria de pedir que se aumentasse o tempo de apresentação do resultado da votação, de modo a poder tomar-se nota do mesmo com calma.
+
+<SPEAKER ID=53 NAME="Presidente">
+Muito obrigado, Senhor Deputado Rübig. Teremos em conta a sua observação e procuraremos progredir ao ritmo que considere oportuno.
+
+<SPEAKER ID=54 LANGUAGE="NL" NAME="Van Dam">
+Senhor Presidente, mais uma questão técnica. Eu próprio estou no IPE I e ainda bem que estava atento ao monitor, pois aí, neste momento, a campainha não funciona. Seria bom que nas duas semanas entre esta e a próxima sessão se procedesse a uma verificação em todos os locais do edifício onde estão instalados gabinetes de trabalho dos deputados.
+
+<SPEAKER ID=55 NAME="Presidente">
+Muito obrigado, Senhor Deputado van Dam. Tomei nota da sua observação e procurarei que as coisas se passem dessa forma.
+
+<CHAPTER ID=6>
+Interrupção da sessão
+<SPEAKER ID=56 NAME="Presidente">
+Dou por interrompida a sessão do Parlamento Europeu.
+<P>
+(A sessão é suspensa às 10H44)
+

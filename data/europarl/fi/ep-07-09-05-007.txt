@@ -1,0 +1,10 @@
+<CHAPTER ID="007">
+Äänestykset (jatkoa) 
+<P>
+(Ennen äänestystä)
+<SPEAKER ID="094" NAME="Gary Titley" AFFILIATION="PSE">
+(EN) Arvoisa puhemies, voisitteko kertoa etunäkökohtia koskevasta ilmoituksesta, pitääkö meidän maidontuottajien ilmoittaa etunäkökohdistamme ja pidättäytyä äänestämästä kolmesta seuraavasta maitotuotteita koskevasta mietinnöstä?
+<P>
+(Suosionosoituksia)
+<SPEAKER ID="095" NAME="Puhemies">
+(IT) Arvoisa parlamentin jäsen Gary Titley, toimimme luonnollisesti niiden ilmoitusten pohjalta, jotka yksittäiset jäsenet tekevät eturistiriidoista virkaan astuessaan, sekä yksittäisten parlamentaaristen menettelyjen pohjalta.

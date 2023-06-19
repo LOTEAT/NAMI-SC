@@ -1,0 +1,84 @@
+<CHAPTER ID="020">
+Fastställande av MRL-värden för farmakologiskt verksamma ämnen i animaliska livsmedel (debatt)
+<SPEAKER ID="253" NAME="Talmannen">
+Nästa punkt är en andrabehandlingsrekommendation från utskottet för miljö, folkhälsa och livsmedelssäkerhet om rådets gemensamma ståndpunkt inför antagandet av Europaparlamentets och rådets förordning om gemenskapsförfaranden för att fastställa gränsvärden för farmakologiskt verksamma ämnen i animaliska livsmedel samt om upphävande av rådets förordning (EEG) nr 2377/90 och ändring av Europaparlamentets och rådets direktiv 2001/82/EG och Europaparlamentets och rådets förordning (EG) nr 726/2004 (15079/2/2008 - C6-0005/0009 - (föredragande: Avril Doyle).
+<SPEAKER ID="254" NAME="Avril Doyle">
+föredragande. - (EN) Herr talman! Jag vill börja med att tacka alla skuggföredragande och faktiskt det franska ordförandeskapet för att ha underlättat en överenskommelse vid en tidig andra behandling.
+<P>
+Detta är ett ganska tekniskt förslag som syftar till att uppdatera den befintliga EU-ordningen. Den är i huvudsak till för att skydda folkhälsan genom att begränsa konsumenternas exponering för animaliska livsmedel med restmängder av farmakologiskt verksamma ämnen som finns i veterinärmedicinska läkemedel och biocidprodukter. Detta uppnås genom att man fastställer gränsvärden för högsta tillåtna restmängder (MRL-värden) för godkända ämnen och förbjuder ämnen som antingen ses som osäkra eller som inte har en vetenskapligt fastställd säkerhetsprofil.
+<P>
+Enbart MRL-värden kan inte skydda konsumenterna. Konsumenterna kan i stället skyddas direkt om man fastställer en lämplig karensperiod före slakt och inrättar kontroller för att övervaka denna. I praktiken fastställs karensperioderna med hjälp av en hög säkerhetsfaktor, som kan återspegla den datamängd som finns tillgänglig vid det aktuella steget i produktutvecklingen.
+<P>
+Vi har nått en överenskommelse om nyckelfrågorna. För det första, extrapolering av fastställda MRL-värden mellan en art och en annan. För det andra, EU:s antagande av internationellt fastställda MRL-värden inom ramen för Codex Alimentarius. För det tredje, skapa en ram för fastställande av MRL-värden för livsmedel som importerats från tredjeländer.
+<P>
+Vi lyckades förtydliga de åtgärder som behöver vidtas när icke godkända ämnen hittas i antingen EU-producerade livsmedel eller livsmedel som importerats från tredjeländer, liksom att klargöra grunden för att se över dessa referensvärden för åtgärder. Det vill säga den maximinivå som fastställts av kontrollskäl för eventuella icke godkända ämnen till följd av att nya uppgifter tillkommit.
+<P>
+Det togs även beslut i frågan om fastställande av MRL-värden för vissa biocidprodukter, som till exempel desinficeringsmedel, som används i djurets miljö. Detta med särskild hänsyn till finansieringsaspekterna vid dess godkännande och dokumentation.
+<P>
+Fastställandet av MRL-värdet för ett farmakologiskt verksamt ämne kräver ett dyrt datapaket av toxikologiska studier och metabolismstudier. Det är för dyrt för vissa mindre vanliga livsmedelsproducerande djur, så kallade ”begränsade djurarter”, eftersom marknaden för veterinärmedicinska läkemedel för dessa djurarter är så begränsad - så kallad ”begränsad användning”. För det första måste MRL-värdet fastställas innan en ansökan kan lämnas in till tillsynsmyndigheterna för godkännande av ett veterinärmedicinskt läkemedel för livsmedelsproducerande djur som innehåller ett farmakologiskt verksamt ämne.
+<P>
+Frågan om begränsad användning/begränsade djurarter är därför ett problem som behöver lösas snabbt, eftersom det skapar potentiella frågor om djurskydd och livsmedelssäkerhet. Veterinärer har omsorgsplikt och kommer alltid att försöka behandla ett sjukt djur. Enligt den nuvarande lagstiftningen tvingas de ofta tillgripa otillåtna läkemedel.
+<P>
+Avsaknaden av ett MRL-värde hindrar även myndigheterna från att fastställa en lämplig karensperiod för ett läkemedel. Enligt den nuvarande förordningen om högsta tillåtna restmängder behöver inte MRL-värden fastställas för enskilda djurarter. Europeiska läkemedelsmyndighetens kommitté för veterinärmedicinska läkemedel fastställer MRL-värden för enskilda djurarter, enligt en inledande försiktig hållning. Efter fem års erfarenhet, 1997, granskade Europeiska läkemedelsmyndighetens kommitté för veterinärmedicinska läkemedel samtliga MRL-värden som hade fastställts och drog slutsatsen att man inte behövde fastställa MRL-värden för enskilda djurarter eftersom MRL-värdena för ett särskilt ämne nästan alltid är liknande eller identiska. Samma år utfärdade Europeiska läkemedelsmyndighetens kommitté för veterinärmedicinska läkemedel en riktlinje för fastställandet av MRL-värden för begränsade djurarter. Där definieras begränsade livsmedelsproducerande djur som samtliga djurarter med undantag för nötkreatur, svin och fjäderfä, och de inkluderar laxfiskar.
+<P>
+Detta möjliggjorde en extrapolering från större till mindre djurarter inom samma familj, idisslare till idisslare, fisk till fisk, kyckling till andra fjäderfä. Efter åtta års erfarenhet, 2008, utfärdade Europeiska läkemedelsmyndighetens kommitté för veterinärmedicinska läkemedel en ny riktlinje. Tillvägagångssättet baseras på riskanalyser för restmängder av veterinärmedicinska läkemedel i animaliska livsmedel. I riktlinjen beskrivs en riskhantering med hjälp av extrapolering av ett ämnes MRL-värden från en eller flera djurarter till ytterligare djurarter. Enligt denna riktlinje är det tillåtet att MRL-värden i data från de tre större djurarterna extrapoleras till samtliga djurarter, förutsatt att de MRL-värden som fastställts för de tre större djurarterna är likartade eller identiska.
+<P>
+Texten för denna översyn som ligger framför oss ger endast en rättslig grund för gällande praxis om extrapolering utifrån de veterinärmedicinska läkemedlens tillgänglighet och djurskyddet.
+<P>
+Två ändringsförslag riktas särskilt mot den bristande tillgången på artspecifika läkemedel för hästdjur (jag måste erkänna ett visst intresse) över en rad terapeutiska och välbefinnande behov, inklusive konceptet om ”kliniska fördelar” och inte bara kravet om att det är ”väsentligt” att lägga till ett läkemedel på den positiva listan över ämnen för hästdjur, vilket nämns i direktivet om veterinärmedicinska läkemedel. Under tydligt definierade omständigheter behöver inte vissa produkter som används på hästdjur ha ett MRL-värde men kommer i stället att behöva respektera en karensperiod på sex månader.
+<P>
+Det kanske finns ett uttalande - om jag får fråga genom ordförandeskapet- som kommissionsledamoten kan föra in i protokollet. Jag vill påminna om en diskussion, med hänsyn till denna fråga, som hölls för några månader sedan om en översyn av direktivet om veterinärmedicinska läkemedel.
+<SPEAKER ID="255" NAME="Günther Verheugen">
+kommissionens vice ordförande. - (DE) Herr talman, ärade ledamöter! Översynen av lagstiftningen om gränsvärden för farmakologiskt verksamma ämnen i animaliska livsmedel är ett viktigt initiativ för kommissionen. Syftet är att skydda konsumenterna mot rester av farmakologiskt verksamma ämnen i livsmedel och samtidigt förbättra tillgången på veterinärmedicinska läkemedel i gemenskapen. Översynen är också ett viktigt inslag i kommissionens program för att förenkla lagstiftningen.
+<P>
+Den 21 oktober i fjol ingick rådet och parlamentet en överenskommelse som återspeglas i dagens gemensamma ståndpunkt. Således har vi nu en gemensam ståndpunkt som inte bara rådet och parlamentet, utan också kommissionen, står bakom. Det gläder mig att kommissionen kunde ta med ändringsförslagen från både Europaparlamentet och rådet, som både till anda och substans överensstämmer med kommissionens ursprungliga förslag.
+<P>
+Därför uttalade kommissionen sitt fulla stöd för den gemensamma ståndpunkten i sitt meddelande till Europaparlamentet den 8 januari i år. Antagandet av den gemensamma ståndpunkten kommer nu att göra det möjligt att avsluta det här ärendet på ett framgångsrikt sätt innan denna valperiod är slut.
+<P>
+Genom att det avslutas på grundval av denna gemensamma ståndpunkt kommer de som dagligen arbetar med livsmedelskontroller och veterinärmedicinska läkemedel att kunna göra ett bättre arbete till förmån för djurhälsan och konsumentskyddet i gemenskapen. Dessa personer har mycket otåligt väntat på en översyn av lagstiftningen om gränsvärden under en mycket lång tid, och jag tycker verkligen att de har väntat tillräckligt länge och bör kunna glädja sig åt att en lösning nu har tagits fram.
+<P>
+Jag är mycket väl medveten om att tillgången på veterinärmedicinska läkemedel är särskilt viktig. Även om denna förordning om gränsvärden för farmakologiskt verksamma ämnen är ett framsteg i det avseendet kommer kommissionen därför att lägga fram en bedömning av problemen med tillämpningen av direktivet om veterinärmedicinska läkemedel 2010 och när så är lämpligt också lägga fram nya lagstiftningsförslag om detta.
+<P>
+Jag vill ta tillfället i akt att framföra ett särskilt tack till föredraganden Avril Doyle, vars verkligt oförtröttliga arbete har gjort det möjligt för oss att nå en överenskommelse i denna viktiga fråga. Än en gång ett uppriktigt tack för ert utmärkta arbete, fru Doyle!
+<P>
+Kommissionens uttalande
+<P>
+Betänkandet av Avril Doyle
+<P>
+Kommissionen är medveten om de farhågor som medborgare, veterinärer, medlemsstater och djurhälsosektorn gett uttryck för när det gäller direktivet om regler för godkännande av veterinärmedicinska läkemedel, särskilt vikten av att angripa de befintliga problemen kopplade till tillgången på veterinärmedicinska läkemedel, användningen av läkemedel på andra arter än dem som läkemedlen är godkända för och onödig byråkrati som hindrar innovation, samtidigt som man säkrar en hög konsumentskyddsnivå i fråga om animaliska livsmedel. Kommissionen vill poängtera att man agerar för att åtgärda problemen, exempelvis genom förenkling av reglerna om ändringar av veterinärmedicinska läkemedel och denna översyn av lagstiftningen om MRL-värden i livsmedel.
+<P>
+För att nå målen om konsumentsäkerhet och djurhälsoskydd, ökad konkurrenskraft hos sektorn för veterinärmedicinska läkemedel inklusive små och medelstora företag, och mindre byråkrati, kommer kommissionen 2010 att lägga fram en utvärdering av problemen vid tillämpningen av direktivet om veterinärmedicinska läkemedel för att vid behov utarbeta lagstiftningsförslag.
+<SPEAKER ID="257" NAME="Avril Doyle">
+föredragande. - (EN) Herr talman! Jag vill bara säga att det finns ett ändringsförslag som jag inte kan stödja, eftersom det skulle skapa ett rättsligt dödläge. Om man inte på prov kan ge ett läkemedel till ett djur såvida inte läkemedlet redan har ett MRL-värde, så kan man inte heller utföra de tester som krävs för att få den information som behövs för att fastställa MRL-värdet och karensperioden.
+<P>
+Jag vill tacka kommissionsledamoten för hans samarbete på detta område och uppmärksamma det brådskande behovet av en översyn av direktivet om veterinärmedicinska läkemedel. På sätt och vis använder vi denna översyn av MRL-värden som en slags tillfällig lösning på ett större problem som vi undviker, men som vi alla är mycket medvetna om. Tillgången på ett lämpligt sortiment av veterinärmedicinska läkemedel för att behandla den stora mångfalden djurarter inom EU har varit en växande utmaning under de senaste två årtiondena. Under denna period har avsevärda ansträngningar gjorts av olika aktörer, inklusive tillsynsmyndigheter, djurhälsosektorn och veterinärer, för att ta itu med problemen med tillgång på läkemedel.
+<P>
+Trots dessa ansträngningar har situationen fortsatt att försämras. Bristen på godkända läkemedel är ett hot mot djurens hälsa och välbefinnande samt konsumenternas säkerhet. Det skapar även betydliga problem för djurägare, jordbrukare, veterinärer och regeringar om djur inte behandlas eller behandlas med en icke-godkänd eller olämplig produkt - inklusive att djurägare, konsumenter och medborgare riskerar zoonotiska sjukdomseffekter på grund av obehandlade eller felaktigt behandlade djur.
+<P>
+Det finns även ekonomiska, rättsliga och handelsmässiga konsekvenser för de olika berörda aktörerna samtidigt som läkemedelsbristen kan få negativa effekter på landsbygdsekonomierna och jordbruket i allmänhet. Ett exempel - och en mycket viktig synpunkt - är effekten på pollinering som en konsekvens av det minskade antalet bisamhällen. Bin är en väldigt viktig fråga när det gäller begränsad användning/begränsade djurarter.
+<P>
+Det aktuella problemet med tillgång i EU får dock inte bara konsekvenser för djurens hälsa och välbefinnande samt säkerheten för gemenskapens livsmedelstillgång och folkhälsa, utan den undergräver även EU:s förmåga att uppfylla Lissabonagendans mål samt dra nytta av den enorma potentialen för det europeiska jordbruket och kustnära vattenbruk att attrahera forskning och utveckling inom den veterinärmedicinska läkemedelssektorn.
+<P>
+Jag vill återigen tacka alla kolleger och kommissionsledamoten för samarbetet med detta betänkande.
+<SPEAKER ID="258" NAME="Talmannen">
+Debatten är härmed avslutad.
+<P>
+Omröstningen kommer att äga rum i morgon.
+<P>
+Skriftliga förklaringar (artikel 142)
+<SPEAKER ID="259" NAME="Péter Olajos  " AFFILIATION="PPE-DE">
+skriftlig. (HU) Vi får ofta höra klagomål om att EU försöker reglera allting och samtidigt misslyckas med att hantera viktiga frågor.
+<P>
+Många av oss anser att även detta betänkande hör till den kategorin. Det vore emellertid ett misstag. För i det här fallet talar vi om ”livsmedel”, som alltså är avsedda för människor. Dem vill vi göra säkrare för EU-medborgarnas skull.
+<P>
+De befintliga bestämmelserna är föråldrade och gör det svårt för veterinärer att förnya sina läkemedelslager. Därför krävs det ett lämpligt regelverk som är särskilt anpassat till denna bransch.
+<P>
+Numera har allt fler läkemedelsföretag en avdelning som arbetar med veterinärmedicinska produkter, som inbringar stora intäkter. Efterfrågan ökar stadigt eftersom även djur blir sjuka, och nu när livsmedel blir allt dyrare lönar det sig att förebygga detta.
+<P>
+På senare tid har vi dock fått olika uppgifter om att vissa företag arbetar med att försöka ”få ut” mer av djuren. Snabbväxande kycklingar och grisar göds så att de blir jättelika på bara några månader. Allt detta sker med hjälp av (medicinska) produkter som i många fall är skadliga för människor.
+<P>
+Av det skälet måste varje läkemedel som ges till djur testas i samarbete med Europeiska läkemedelsmyndigheten (EMEA), för att fastställa huruvida restsubstanser av sådana produkter i djuren, som senare konsumeras av människor, innebär någon risk för människor.
+<P>
+Testerna ska betalas av företagen. Vi måste också framhålla behovet av ett snabbspårsförfarande, för att minska den tid som går åt till administration, och det är också viktigt att veterinärer mycket snabbare får tillgång till medicinska produkter.
+<P>
+Ingenting är viktigare än människors hälsa och därför måste vi resa en barriär mot ”djurdopning” i vinstsyfte.

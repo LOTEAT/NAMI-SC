@@ -1,0 +1,8 @@
+<CHAPTER ID="009">
+Goedkeuring van de notulen van de vorige vergadering: zie notulen
+<SPEAKER ID="210" NAME="De Voorzitter">
+De notulen van de vergadering van dinsdag 11 maart zijn rondgedeeld.
+<P>
+Zijn er opmerkingen?
+<P>
+(De notulen worden goedgekeurd)

@@ -1,0 +1,6 @@
+<CHAPTER ID="004">
+Turno di votazioni
+<SPEAKER ID="119" NAME="Presidente">
+L'ordine del giorno reca il turno di votazioni.
+<P>
+(Per l'esito delle votazioni e altri dettagli: vedasi processo verbale)

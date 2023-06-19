@@ -1,0 +1,126 @@
+<CHAPTER ID="002">
+Vidutinio dydžio įmonėms taikomi atskleidimo reikalavimai ir įpareigojimas rengti konsoliduotą atskaitomybę - Vidutinio dydžio įmonių apskaitos reikalavimai (diskusijos) 
+<SPEAKER ID="006" NAME="Pirmininkas">
+Kitas darbotvarkės klausimas yra bendra diskusija dėl
+<P>
+Ieke van der Burg pranešimo Teisės reikalų komiteto vardu dėl pasiūlymo dėl Europos Parlamento ir Tarybos direktyvos, iš dalies keičiančios Tarybos direktyvas 78/660/EEB ir 83/349/EEB dėl vidutinėms įmonėms taikomų tam tikrų atskleidimo reikalavimų ir įpareigojimo rengti konsoliduotąją atskaitomybę - C6-0173/2008 - ir
+<P>
+Komisijos pareiškimo dėl atskaitomybės reikalavimų, keliamų vidutinio dydžio įmonėms.
+<SPEAKER ID="007" NAME="Ieke van den Burg">
+pranešėja. - (NL) Gerb. pirmininke, atsiprašau už vėlavimą. Mažosioms ir vidutinėms įmonėms šie laikai sunkūs. Krizne tik paveikbankus ir į biržos prekybos sąrašus įtrauktas įmones, bet turi įtakos ir visai ekonomikai, daug darbo vietų prarandama MVĮ. Mes savo ruožtu Europoje turėtume skatinti šio sektoriaus plėtrą.
+<P>
+Praėjusią vasarą buvo pristatytas priemonių rinkinys "Small Business Act" (liet. "Smulkiojo verslo aktas"); aš dirbu su daugeliu pasiūlymų iš šio rinkinio, tarp jų dėl ribotos atsakomybės bendrovių statuto, platesnės mikrokreditų taikymo srities ir mažesnio PVM paslaugų teikėjams, teikiantiems paslaugas privatiems asmenims vietos rinkoje.
+<P>
+Labai svarbus ir susirūpinimą keliantis klausimas yra mažųjų įmonių administravimo našta, kurią iš esmės kuria nacionalinės ir decentralizuotos vyriausybės. Vis dėlto ten, kur šiuo atžvilgiu svarbiausias vaidmuo tenka Europos teisės aktams, mes aktyviai pradėjome dirbti ir lengvinti šią naštą. Iš esmės tą patį galima pasakyti ir apie šį dokumentų rinkinį. Informavimo paslaugos ir abi šio turinio direktyvos yra 25-30 metų senumo, jos daugelį kartų buvo keičiamos, o šiuo metu persvarstomos ir supaprastinamos taikant vadinamąją spartesnę procedūrą.
+<P>
+Vis dėlto šios priemonės yra tik nedidelis žingsnis siekiant palengvinti naštą. Būtina padaryti daug daugiau. Šiuo atžvilgiu, žinoma, parodėme nekantrumą Parlamento Teisės reikalų komitete. Atsižvelgdami į tai kartu su šiuo teisėkūros dokumentų rinkiniu pateikėme rezoliuciją, raginančią komitetą skatinti atidžiau persvarstyti teisės aktus mažosioms ir vidutinėms įmonėms. Komitete šis klausimas jau buvo svarstytas. Norima geriau suderinti Europos taisykles, susijusias su mažosiomis ir vidutinėmis įmonėmis.
+<P>
+Anksčiau, kai svarstėme šį klausimą ir Alexander Radwan pranešimą Ekonomikos ir Teisės reikalų komitete, mes konkrečiai sakėme, kad pirmenybę turėtume teikti ne Tarptautinei atskaitomybės standartų tarybai, kuri dalyvavo rengiant Tarptautinius finansų atskaitomybės standartus (TFAS) mažosioms ir vidutinėms įmonėms, o tolesniam derinimui Europoje esamų teisės aktų pagrindu.
+<P>
+Vykstant šiai diskusijai, būtent Klaus-Heiner Lehne, pagalbinis pranešėjas rengiant šį pranešimą pasiūlšiame Europos teisės akte šiame etape suteikti valstybėms narėms galimybę numatyti išimtį mikroįmonėms, t. y. itin mažoms įmonėms. Mano nuomone, tai kraštutinpriemonė, kuri, nors ir pasiūlyta Edmundo Stoiberio grupės, ilgalaikiu laikotarpiu neleis iš esmės supaprastinti šios sistemos, nes kadangi ji neprivaloma, tarp valstybių narių atsiras didelių neatitikimų.
+<P>
+Todėl galutinis tikslas ir galimybturėtų būti tolesnis tokio masto derinimas, koks įmonėms, kurios nėra mikroįmonės, būtų naudingas kaip ir panaši labai paprasta sistema. Turėdama omenyje šią labai paprastą sistemą, aš pati norėčiau jums priminti apie galimybes, kurias atveria "XBRL" (angl. eXtensible Business Reporting Language) - sistema, leidžianti įvairioms institucijoms labai lengvai įvesti duomenis ir įvairioms institucijoms šiais duomenimis naudotis. Todėl teikti panašius duomenis įmonėms būtų daug lengviau ir paprasčiau, ir šie duomenys galėtų būti naudojami daugeliu pačių įvairiausių būdų.
+<P>
+Trumpai tariant, mums reikėtų rengti diskusijas dėl pasipriešinimo, kurio laukiama iš su apskaita susijusių sričių, nustatant minėtas išimtis mikroįmonėms. Komitetas turėtų pateikti pasiūlymus. Toliau mes turėtume apsvarstyti geriausią būdą, kuris tiktų ne tik vidutinio dydžio įmonėms, bet ir mažiausioms įmonėms, garantuojant skaidrumą ir tinkamą apskaitos sistemą, ir padėtų atlikti tam tikrus darbus, neapkraunant didžiule administravimo našta.
+<SPEAKER ID="008" NAME="Jacques Barrot">
+Komisijos pirmininko pavaduotojas. - (FR) Gerb. pirmininke, Ieke van den Burg, ponios ir ponai, Europos Parlamentas šiandien turėtų pateikti savo sprendimą dėl pasiūlymo dėl supaprastinimo. Šis pasiūlymas yra pirmasis iš trijų teisinių pasiūlymų atskaitomybės srityje. Juo siekiama supaprastinti Bendrijos ekonominę aplinką, ypač mažosioms ir vidutinėms įmonėms.
+<P>
+Šis pirmasis pasiūlymas yra gera pradžia. Tai gera galimybteisės aktų leidėjams, suinteresuotosioms šalims ir Komisijai keistis nuomonėmis ir aptarti aspektus, kurie turi būti įtraukti į kitus du būsimus pasiūlymus.
+<P>
+Kaip prieš keletą savaičių buvo paskelbta Europos ekonomikos atgaivinimo plane, kitu pasiūlymu bus siekiama mažinti administravimo išlaidas, sunkia našta gulančias ant mažiausių įmonių, kurių Europos Sąjungoje yra daugiausia.
+<P>
+Per pirmąjį 2009 m. ketvirtį Komisija pateiks pasiūlymą, leisiantį valstybėms narėms nustatyti išimtį mikroįmonėms dėl įpareigojimų rengti metines finansines ataskaitas. Norėčiau pabrėžti, kad šiuo Komisijos pasiūlymu pavyktų sumažinti administravimo išlaidas tiek, kiek valstybės narės norėtų pasinaudoti šia galimybe, nes tai nėra privaloma.
+<P>
+Išorės konsultantai įvertino, kad ši priemonleistų sutaupyti kasmet iki 5,8 mlrd. EUR. Vis dėlto tiek sutaupyti pavyktų, tik jei visos valstybės narės įgyvendintų šią leidžiančią nukrypti nuostatą ir nepradėtų taikyti naujų ir bereikalingai ribojančių taisyklių.
+<P>
+Antroji iniciatyva, apie kurią aš informavau rugsėjo mėn. pabaigoje, buvo ketvirtosios ir septintosios apskaitos direktyvų persvarstymas ir atnaujinimas. Pirmasis techninis pasirengimas persvarstyti jau vyksta. Viešos konsultacijos dėl būsimos krypties planuojamos pirmąjį 2009 m. ketvirtį.
+<P>
+Daugelis iš jūsų džiaugsis tuo, kad kiek įmanoma atsižvelgta į aukšto lygio grupės, pirmininkaujamos Edmundo Stoiberio, rekomendacijas.
+<P>
+Grįžtant prie šio pasiūlymo, kurį svarstant taikoma spartesnprocedūra, mums labai malonu, kad bendradarbiavimas tarp institucijų svarstant šią iniciatyvą leido taip sparčiai dirbti.
+<P>
+Aš kviečiu jus šiandien balsuoti už tai, kad būtų užbaigta ši procedūra. Dėkoju už dėmesį.
+<SPEAKER ID="009" NAME="Kristian Vigenin" LANGUAGE="BG">
+Komisijos nary, mūsų vertinimu, pasiūlymai, susiję su šia teisine iniciatyva, nėra pakankamai drąsūs. Todėl Ekonomikos komitetas ragina Komisiją ir jus asmeniškai šiuo klausimu imtis aktyvesnės politikos.
+<P>
+Tačiau matau, kad tai, ką jūs sakėte, yra tikrai svarbus žingsnis ir mes iš tikrųjų tikimės aktyvesnių Komisijos priemonių, visiškai pritariant Europos Parlamentui, nes šis klausimas mažosioms ir vidutinėms įmonėms yra itin svarbus, ypač dabartinės finansų krizės sąlygomis.
+<P>
+Kaip Ekonomikos ir pinigų politikos komiteto nuomonės referentas, norėčiau pasakyti, kad mes visiškai pritariame Komisijos iniciatyvai mažinti vidutinio dydžio įmonių administravimo išlaidas. Mes palankiai vertiname šį norą ir pritariame spartesnei procedūrai. Šiam pasiūlymui šiandien bus pritarta. Mes manome, kad nuo šiol priemonės, kurias jūs pasirengę priimti, taip pat sulauks visiško mūsų pritarimo.
+<SPEAKER ID="010" NAME="Jean-Paul Gauzès">
+PPE-DE frakcijos vardu. - (FR) Gerb. pirmininke, Komisijos pirmininko pavaduotojau, Komisijos nary, ponios ir ponai, akivaizdu, kad mūsų frakcija balsuos už šį pranešimą, kurį pateikIeke van den Burg, ir aš sveikinu ją atlikus darbą, kuris, kaip mes žinome, visuomet būna labai geras.
+<P>
+Vis dėlto aš norėčiau atkreipti dėmesį į tai, kad mažosios ir vidutinės įmonės nebūtinai pritaria, kad būtų atsisakyta atskaitomybės standartų. Mes gauname daugybę laiškų šiuo klausimu, kuriuose esame įspėjami būti atsargūs dėl supaprastinimo naudos, tačiau tai neturėtų duoti priešingų rezultatų. Leiskite man paaiškinti, ką aš turiu omenyje: apskaita turi būti supaprastinta, ir to siekiama rezoliucijoje, kurioje numatoma, kad Komisija turi pasiūlyti mums kiek įmanoma greičiau ir konkrečiai iki 2009 m. pabaigos apskaitos sistemą, tinkamą mažosioms ir vidutinėms įmonėms. Vis dėlto tai nereiškia visiško atsisakymo.
+<P>
+Kodėl? Pirmiausia todėl, kad apskaita yra galimybdirektoriams bent kartą per metus įvertinti savo verslo padėtį. Apskaita yra taip pat labai svarbi sudėtinverslo dalis. Ir taip pat tai, ko reikalauja bankai, teikdami paskolas. Bet yra ir mokesčių prievolės. Todėl, neklaidinkime verslininkų, sakydami, kad jie sutaupys daug laiko ir pinigų, jei nereikės tvarkyti finansų atskaitomybės. Tai sukeltų katastrofą.
+<P>
+Mums reikia įgyvendinti apskaitos sistemą, kuri būtų tinkama smulkiajam verslui ir nekeltų jam pernelyg didelių arba nebūtinų reikalavimų. Vis dėlto aš manau, kad geriausias supaprastinimo būdas, Komisijos nary, būtų pradėti taikyti taisyklę, kad informacija kiekvienoje valstybėje narėje turi būti pateikta vieną kartą ir kad įmonių neturėtų būti prašoma nuolat perrašyti tas pačias ataskaitas, ir tas pačias formas, teikiant valdžios institucijoms informaciją, kurią jos jau turi.
+<P>
+Taip mes padėtume įmonių direktoriams; pasirūpindami tuo, kad jie turėtų apskaitos taisykles, leidžiančias geriau suprasti įmonės padėtį, ir kad jiems nereikėtų vykdyti nereikalingų administravimo užduočių.
+<SPEAKER ID="011" NAME="Sharon Bowles">
+ALDE frakcijos vardu. - Gerb. pirmininke, palankiai vertinu finansinės atskaitomybės naštos mažinimą MVĮ. Mažosios įmonės nuo didžiųjų skiriasi ne tik dydžiu, todėl kai kurių rūšių atskaitomybė, reikalinga didžiosioms įmonėms, šioms yra visiškai nesvarbi. Kitose dalyse reikalaujama pernelyg daug išteklių, neatitinkančių daugelio pačių įvairiausių mažųjų įmonių, kurių Europoje yra daugiausia, realios padėties, taigi ir visuomenės interesų. Nereikalinga atskaitomybdaro daug daugiau žalos, negu duoda naudos, todėl džiaugiuosi, jei dalies jos bus atsisakyta. Tęskime toliau gerą darbą.
+<P>
+Vis dėlto mano frakcija ir kai kurios kitos nepritaria galutinio pranešimo teksto daliai, kurioje yra koreliacijos lentelės. Komisija norėjo, kad teisės aktų perkėlimo koreliacijos lentelės būtų privalomos net šioje mažoje direktyvoje, būtent tokia mūsų pozicija. Taryba tam nepritars, nes ji teigia, kad tai nereikalinga našta. Mano atsakymas - ji tokia neturėtų būti. Mes privalome rasti būdą, kaip ES teisės aktų perkėlimą padaryti prieinamą. Esama didžiulio demokratijos deficito. Atsakingos yra valstybės narės, o kaltinama Europa.
+<P>
+Šiuo atveju esama tam tikrų panašumų su kritika, kuri buvo reiškiama dėl Lisabonos sutarties, nes, kaip atskiras dokumentas, ji sunkiai suprantama. Vis dėlto galime sulaukti dar aktyvesnės visuomenės reakcijos dėl to, kaip valstybių narių vyriausybės kasdien elgiasi kenkdamos savo piliečiams ir įmonėms, perkeliant ES teisės aktus į valstybių narių teisę. Kalbėkime tiesiai. Tai nėra ES negalavimas. Tai yra valstybių narių vyriausybių kaltė, todėl būtina baigti.
+<SPEAKER ID="012" NAME="Patrick Louis">
+IND/DEM frakcijos vardu. - (FR) Gerb. pirmininke, ponios ir ponai, Komisija ketina sumažinti administravimo išlaidas įmonėms, ir tai iš esmės gerai. Vis dėlto ketinimas apkarpyti išlaidas ir sutaupyti laiko iš esmės nepakeistų padėties: pernelyg didelio standartizavimo masto, nesuskaičiuojamų sprendimų pačiais įvairiausiais lygmenimis ir sistemingų apribojimų, kuriuos ir toliau tuo pat metu kuria Komisija ir kurie taikomi Europos įmonėms, neatsižvelgiant į jų dydį.
+<P>
+Šiandien tik trys valstybės nepripažįsta reikalavimo skelbti informaciją apie įmones - nuo jų sukūrimo iki uždarymo - ir pati Komisija sutinka, kad dalies informacijos netenkama. Tai paveiks tuos, kuriems ši informacija labiausiai reikalinga, tai yra asmenis ir MVĮ, aplinkines mikroįmones ir žmones, tiesiogiai susijusius su šiomis įmonėmis.
+<P>
+Šiuo pasiūlymu keičiama perduodama informacija: informacija, kurią kiekvienas gali gana lengvai gauti, keičiama ginčytina informacija, kurią ilgalaikėje perspektyvoje galėtų gauti tik profesionalai, tiksliai žinantys savo paieškos tikslą. Mes iš tikrųjų negalime pritarti šiam pasiūlymui, nes, kaip atsakingi įstatymų leidėjai, manome, kad sistemingai gauti ekonominę informaciją turėtų visi suinteresuoti piliečiai, vartotojai ir investuotojai, nesiimant jokių specifinių veiksmų.
+<P>
+Tuo pat metu šis pasiūlymas galės pakenkti ir neabejotinai pakenks regioninei spaudai, kuri jau dabar verčiasi sunkiai, nes jos paskirtis yra skelbti teismų ir teisinius skelbimus, kurie sudaro 25-50 proc. visų reklamos pajamų. Šie laikraščiai turi svarbų ekonominį ir socialinį vaidmenį. Jie turi būti apsaugoti, nes tai reiškia jų socialinio vaidmens visuomenėje apsaugą. Galbūt mes turėtume taupyti ir daugiau dėmesio skirti kitiems dalykams. Mūsų nuomone, šiandien spręsti šį konkretų klausimą dar nepasirengta.
+<SPEAKER ID="013" NAME="Tadeusz Zwiefka" AFFILIATION="PPE-DE">
+(PL) Gerb. pirmininke, pagrindinis mūsų verslo politikos tikslas - kurti aplinką, kuri būtų tinkama plėtojant naują verslą. Ekonominės aplinkos tobulinimas apima administracinių ir teisinių procedūrų supaprastinimą ir būtinus veiksmus, susijusius su finansavimu, mokesčiais ir socialine ir gamtos aplinka, nes jie visi turi įtakos verslui.
+<P>
+Vienodi įstatymai būtų labai naudingi tarptautinei verslo bendruomenei. Pirmiausia viršvalstybiniai reikalavimai dėl finansinės atskaitomybės leistų lengviau įvertinti ir palyginti įmonių finansinę padėtį įvairiose valstybėse ir tai supaprastintų sprendimų priėmimo procesą investicijų požiūriu. Antra, dėl finansinės atskaitomybės, pagrįstos visuotinai pripažįstamais ir patvirtintais apskaitos principais, įmonės turėtų didesnes kapitalo prieigos galimybes.
+<P>
+Mažosios ir vidutinės įmonės dažnai turi laikytis tų pačių teisės aktų kaip ir didžiosios, tuo tarpu į jų specifinius atskaitomybės poreikius retai atsižvelgiama. Svarbu užtikrinti, kad diskusijose daugiau dėmesio būtų skiriama ne tik paprasčiausiam supaprastinimui, bet taip pat atskaitomybės standartų poveikiui mažosioms ir vidutinėms įmonėms, lyginant su į biržos prekybos sąrašus įtrauktomis didžiosiomis įmonėmis. Diskusijoje dėl supaprastinimo daug dėmesio skirta sąnaudoms. Tuo tarpu diskusijose dėl apskaitos reikalavimų poveikio svarstomi finansinės atskaitomybės pranašumai ir atskirų vartotojų poreikiai.
+<P>
+Reguliavimo supaprastinimas mažosioms ir vidutinėms įmonėms turėtų nemažai privalumų. Pirma, visuotinių standartų įgyvendinimas neabejotinai yra mažiau naudingas mažosioms ir vidutinėms įmonėms, lyginant, pavyzdžiui, su didžiosiomis įmonėmis. Tai susiję su sąnaudų ir naudos pusiausvyra dėl standartų įgyvendinimo. Siekiant atitinkamos sąnaudų ir naudos pusiausvyros, būtina mažinti sąnaudas. Antra, finansinatskaitomybnėra tokia svarbi mažųjų ir vidutinių įmonių savininkams informacijos reikalavimų požiūriu, nes jie turi tiesioginę informacijos prieigą. Trečia, MVĮ finansinių ataskaitų naudotojų žinios apie finansinę atskaitomybę yra labiau ribotos, todėl jos turėtų būti geriau pritaikytos, atsižvelgiant į vartotojų gebėjimus.
+<SPEAKER ID="014" NAME="Lidia Joanna Geringer de Oedenberg" AFFILIATION="PSE">
+(PL) Gerb. pirmininke, Europos Parlamentas daugelį metų skelbpavojų dėl nebūtinų ir neproporcingai didelių administravimo išlaidų, kurias patiria Europos įmonės. Todėl mes pritariame, kad Komisija pagaliau pradėjo spręsti šį klausimą ir pasiūlskubos tvarka priimti pakeitimus dėl Ketvirtosios ir septintosios bendrovių teisės direktyvų dėl atskleidimo reikalavimų vidutinėms įmonėms ir įpareigojimų teikti konsoliduotąsias finansų ataskaitas.
+<P>
+Aš pritariu Komisijos požiūriui, kuriuo siekiama supaprastinti Europos įmonių veiklos sąlygas. Vis dėlto mano parama būtų įmanoma tik su sąlyga, jei šie pokyčiai nevaržys skaidrumo ir neribos sąskaitų vartotojams informacijos prieigos. Pasiūlymas atsisakyti reikalavimo atskleisti informaciją apie oficialias išlaidas taip pat atrodo pagrįstas. Daugiau išimčių, kurios būtų naudingos mažosioms įmonėms ir itin naudingos daugumai valstybių narių, apimančių vidutines įmones, prisidėtų prie finansinės atskaitomybės naštos mažinimo vidutinėms įmonėms.
+<P>
+Atsižvelgiant į siūlomus Septintosios bendrovių teisės direktyvos pakeitimus, įpareigojimas rengti konsoliduotąsias ataskaitas nėra pagrįstas, nes konsoliduotosios ataskaitos šiuo atveju būtų beveik tas pats kaip ir neprivalomos atskiros finansų ataskaitos.
+<P>
+Europos Komisija turėtų aktyviau imtis veiksmų persvarstant Ketvirtąją ir Septintąją bendrovių teisės direktyvas, kad iki 2009 m. pabaigos būtų galima parengti Europos atskaitomybės sistemą. Vienodi standartai leistų mažinti administravimo išlaidas MVĮ ir didinti visų dalyvių veiklos skaidrumą.
+<SPEAKER ID="015" NAME="Jacques Toubon" AFFILIATION="PPE-DE">
+- (FR) Gerb. pirmininke, pradėdamas norėčiau padėkoti pranešėjai Ieke van den Burg, koordinatoriui Klaus-Heiner Lehne ir pagalbiniam pranešėjui Jean-Paul Gauzès už pastangas siekiant pozicijos, kurią aš laikau labai veiksminga ir pagrįsta.
+<P>
+Iš tikrųjų mes gerai žinome, kad privalome pritaikyti mūsų taisykles konkrečiomis mažųjų ir vidutinių įmonių sąlygomis, todėl itin remiame mažųjų ir vidutinių įmonių planą, kurį pasiūlKomisija ir patvirtino Taryba. Vis dėlto turiu pridurti, kad neturėtume to daryti kaip anksčiau - mažųjų ir vidutinių įmonių laikyti žemesne įmonių rūšimi ir kurti joms tam tikros rūšies getą, kuriame būtų daugybsupaprastintų dalykų ir tiek nedaug taisyklių, kad jos negalėtų užtikrinti garantijų, leidžiančių - ypač dabartinės krizės sąlygomis - gauti kreditų, reikalingų plėsti veiklą ir augti.
+<P>
+Štai kodėl aš, kaip ir Jean-Paul Gauzès, pritariu rezoliucijai, pasiūlytai Ieke van den Burg ir priimtai mūsų komiteto, rezoliucijai, kuria prašoma Komisijos pateikti pasiūlymą, leisiantį valstybėms narėms numatyti išimtį įmonėms, kurias galima apibūdinti kaip labai mažas - jų balansas mažesnis negu 500 000 EUR, apyvarta mažesnnegu 1 mln. EUR, jose dirba mažiau negu 10 darbuotojų - ir jos turi tik vietos arba regioninius padalinius vienoje valstybėje narėje, taikant šią direktyvą.
+<P>
+Tai leistų valstybėms narėms priimti savo teisės aktus, kaip tai padarVokietija, tačiau tuo pat metu taikyti mažosioms ir vidutinėms įmonėms tokias pačias taisykles kaip ir kitoms - tai labai svarbu. Mažosios ir vidutinės įmonės veikla nėra plėtojama atskirai; Europa privalo imtis veiksmų siekdama užtikrinti, kad veiklos sąlygos joms nebūtų blogesnės negu kitur.
+<SPEAKER ID="016" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
+(PL) Gerb. pirmininke, mažosiose ir vidutinėse įmonėse dirba maždaug 60 proc. visų Europos Sąjungos darbuotojų. Štai kodėl jų ekonominpadėtis tokia svarbi. Per ekonominę krizę itin svarbu neapsunkinti teisiniais įpareigojimais, kad jos galėtų lengviau veikti. Reikia išnaudoti galimybę šioms įmonėms ir jų darbuotojams.
+<P>
+Supaprastinti teisės aktai finansų atskaitomybės srityje, kaip numatyta šioje iš dalies keičiančioje direktyvoje, yra žingsnis tinkama kryptimi. Vis dėlto aš sutinku su savo kolega, kuris pabrėžporeikį užtikrinti, kad informacija būtų teikiama vietos žurnalistams.
+<SPEAKER ID="017" NAME="Rachida Dati">
+einantis Tarybos Pirmininko pareigas. - (FR) Gerb. pirmininke, ponios ir ponai, pirmiausia noriu atsiprašyti už vėlavimą. Mes užtrukome, išvykdami iš Paryžiaus. Aš taip pat norėjau padėkoti jums už šias diskusijas, vykstančias šiandien, nors man neteko girdėti visų.
+<P>
+Taryba atsižvelgia ir toliau atsižvelgs į visas pastabas ir rekomendacijas, kurias jūs pateikėte, ir į susidomėjimą, kurį jūs rodote šiuo klausimu, ypač dėl įsipareigojimų, kuriuos prisiimate, siekdami palengvinti įmonių naštą.
+<P>
+Tai nepaprastai opus klausimas, sprendžiamas šiandien, tačiau mes absoliučiai privalome - ypač atsižvelgdami į krizės sąlygas - siekti teisės aktų supaprastinimo be liberalizavimo, kurti didesnio tikrumo aplinką Europoje, kad galėtume užtikrinti mažųjų ir vidutinių įmonių vystymąsi.
+<SPEAKER ID="018" NAME="Jacques Barrot">
+Komisijos pirmininko pavaduotojas. - (FR) Gerb. pirmininke, norėčiau pasveikinti Rachidą Dati ir kartu su ja prisidėti prie tų, kurie dėkojo Parlamentui, Ieke van den Burg, Klaus-Heiner Lehne ar Jean-Paul Gauzès už šį darbą, leisiantį šiandien mums sėkmingai užbaigti pirmąjį etapą.
+<P>
+Aš atidžiai klausiausi, kas buvo sakoma apie mažąsias įmones. Tikslas ir faktinis įsipareigojimas yra taisykles pritaikyti smulkiajam verslui, kol įvyks planuotas persvarstymas, tačiau aš norėčiau pakartoti, kad valstybės narės galės pasirinkti, ar taikyti šias taisykles, ar kurti kitas, pritaikytas vietos sąlygoms.
+<P>
+Asmeniškai aš pritariau argumentui, kad mažosios įmonės taip pat neturėtų būti verčiamos kaip anksčiau užimti padėtį, kuri galiausiai paliktų jas ekonominės veiklos nuošalėje, ir viso to pretekstas būtų teisės aktų supaprastinimas. Tai aš ir norėjau pasakyti; tikiu, kad ši diskusija bus naudinga mano kolegai Charlie McCreevy, atsakingam už vidaus rinką, o mums leis dirbti siekiant mažinti administravimo išlaidas, kurios apsunkina įmonių, ypač pačių mažiausiųjų, veiklą.
+<P>
+Esu dėkingas Parlamentui už nuolatinę paramą, mes viliamės, kad šis konstruktyvus bendradarbiavimas tęsis ir visus kitus metus.
+<SPEAKER ID="019" NAME="Ieke van den Burg">
+pranešėja. - (NL) Parlamento nuomonšiuo klausimu buvo išsakyta pakankamai garsiai ir aiškiai. Sprendimas pasiūlyti valstybėms narėms galimybę nustatyti Europos teisės aktų išimtį mikroįmonėms yra trumpalaikis ir laikinas, o ne nuolatinis. Aš viliuosi, kad tai taip pat suvoks ir Komisija.
+<P>
+Šioms įmonėms, kaip ir mažosioms ir vidutinėms įmonėms apskritai, mes norėtume taikyti vienodus Europos teisės aktus, leidžiančius joms veikti vidaus rinkoje, tačiau taip pat tai turėtų būti paprasti teisės aktai, kaip nurodJean-Paul Gauzès, iš esmės taikant bendrą standartą ir vieną taisyklių rinkinį, kaip daroma eXtensible Business Reporting Language (XBRL), reiškiantį, kad nuo jų bus nuimta didžiuladministravimo našta, kaip yra dabar. Pagaliau, net jei suteiksime valstybėms narėms galimybę taikyti išimtį, tai nereiškia, kad jos galės taikyti savo taisykles, kurios, be kita ko, kiekvienoje valstybėje narėje yra vis kitokios. Vidutinės trukmės laikotarpiu tai nieko nepakeistų.
+<P>
+Vidutinės trukmės laikotarpiu mes norėtume pateikti pasiūlymą, kuris leistų taikyti paprastus, suderintus teisės aktus visoje vidaus rinkoje ir tai nebūtų didžiulnašta mažosioms ir vidutinėms įmonėms, ypač mikroįmonėms: paprasčiausia sistema - teikti informaciją apie metines sąskaitas. Tai yra Parlamento noras, ir tikiuosi, kad ši žinia buvo išgirsta.
+<SPEAKER ID="020" NAME="Pirmininkas">
+Aš gavau vieną rezoliucijos projektą, pateiktą vadovaujantis reglamento 103 straipsnio 2 dalimi.
+<P>
+Diskusija baigta.
+<P>
+Balsavimas įvyks 2008 m. gruodžio 18 d., ketvirtadienį.

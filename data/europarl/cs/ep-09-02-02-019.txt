@@ -1,0 +1,80 @@
+<CHAPTER ID="019">
+Program pro udržitelnou budoucnost všeobecného a komerčního letectví (krátké přednesení) 
+<SPEAKER ID="191" NAME="Předsedající">
+- Dále je na pořadu krátké přednesení zprávy o programu pro udržitelnou budoucnost všeobecného a komerčního letectví, kterou vypracoval pan Queiró jménem Výboru pro dopravu a cestovní ruch.
+<SPEAKER ID="192" NAME="Luís Queiró" LANGUAGE="PT">
+Pane předsedající, paní komisařko, všeobecné a komerční letectví dosud nebyly specificky řešeny na evropské úrovni. Politický význam této zprávy proto spočívá v tom, že Komise a Parlament tyto činnosti přezkoumaly poprvé, a to v době, kdy zažívají urychlení růstu co do objemu i hospodářského významu.
+<P>
+Čísla hovoří jasně: jen v komerční letecké dopravě se rozmnožuje počet malých a středních podniků pracujících v tomto oboru, počet letadel se má během příštího desetiletí zdvojnásobit na 3500 a roční obrat přesahuje 25 miliard EUR. Tento obor vytváří v Evropě přímo či nepřímo 154 tisíc pracovních míst. Spolu se všeobecným letectvím, kde je podle odhadů 30 až 50 tisíc letadel, toto odvětví vytváří cca 9 % leteckého provozu a chlubí se nejrychlejším růstem v Evropě, dvakrát rychlejším než u ostatních druhů dopravy.
+<P>
+Obor komerční letecké dopravy přináší důležitý společenský a hospodářský prospěch. Tím, že umožňuje flexibilní dopravu mezi dvěma určitými místy, zvyšuje mobilitu občanů, produktivitu podniků a regionální soudržnost.
+<P>
+Obor všeobecného letectví poskytuje nezbytné služby ve velmi rozličných oblastech, od pátracích a záchranných akcí přes hašení požárů, řízení dopravy a kartografii až po rekreační a sportovní letectví. Je proto důležitým zdrojem rozvoje leteckých dovedností pro celé odvětví letectví.
+<P>
+Musím rovněž zmínit úlohu evropského průmyslu v tomto odvětví, který vykazuje neustálý růst podílu na světovém trhu a v současnosti dosahuje přibližně 16 %, a který je proto nutné podporovat.
+<P>
+Co se týče zprávy samé, jako zpravodaj souhlasím s nutností, kterou ve svém sdělení zdůraznila Komise, aby byly přezkoumány zvláštní potřeby tohoto odvětví a pojmenována jeho ústřední témata. Prvně zmiňované potřeby se týkají sběru dat a vycházejí z nutnosti poskytnout tvůrcům veřejné politiky dostatečné informace a statistické údaje k lepšímu pochopení tohoto odvětví, aby je mohli regulovat vhodným způsobem. Druhý bod se týká použití zásady proporcionality při regulaci tohoto odvětví. Klíčová otázka zní, zda pravidla vytvořená za účelem regulace provozu obchodních letadel budou přiměřená i k regulaci provozu jednodušších a menších, často jednomotorových letadel.
+<P>
+Podporujeme záměr Komise uplatnit zásadu proporcionality při sestavování pravidel i při jejich provádění, při neustálém vědomí nutnosti neohrozit všeobecnou bezpečnost. To platí například pro přenos určitých pravidel letové způsobilosti, která již byla schválena Evropskou agenturou pro bezpečnost letectví (EASA), do provozu neobchodních letadel nebo pro možné použití zvláštní úpravy zjednodušených bezpečnostních a detekčních postupů u cestujících komerční letecké dopravy.
+<P>
+Třetí bod se týká problému přístupu na letiště a do vzdušného prostoru. Provedená diagnóza zní: tato letadla se obecně potýkají s obtížemi při přístupu na velká letiště a stejné problémy začínají mít i na regionálních a druhořadých letištích. Řešení sahají od optimalizace využití stávající kapacity až k pozměnění nařízení o přidělování letištních časů. Rovněž je nutné povzbuzovat investice do malých a středních letišť, aby rostl počet propojení mezi různými regiony a městy Evropy.
+<P>
+Pokud jde o problém kapacity vzdušného prostoru, zdůrazňujeme význam reforem v rámci jednotného evropského nebe a společného podniku SESAR (výzkum řízení letového povozu na jednotném evropském nebi) a znovu se vracíme k nutnosti neklást nepřiměřené požadavky na navigační systémy malých letadel a zároveň vždy dodržovat bezpečnostní omezení.
+<P>
+Čtvrtý a poslední bod se týká udržitelnosti této oblasti činnosti pro životní prostředí. I když mají malá letadla vyšší emise CO2, je potřeba podporovat výzkum, vývoj a inovace, a to nejen v rámci iniciativ Čisté nebe a Nákladově efektivní malé letadlo (CESAR), ale také při použití méně znečišťujících motorů a čistších paliv.
+<P>
+Pane předsedající, paní komisařko, na závěr bych rád řekl, že doufám, že tato zpráva představuje skutečný rámec budoucích legislativních a správních opatření, která mohou být pro toto odvětví vytvořena. To je přáním Výboru pro dopravu a cestovní ruch, když žádá Komisi, aby do konce roku 2009 předložila zprávu o postupu v otázkách vznesených touto zprávou. Se zítřejším hlasováním je spojeno moje očekávání, že převážná většina poslanců této sněmovny se s tímto přáním ztotožní.
+<SPEAKER ID="193" NAME="Viviane Reding">
+členka Komise. - Pane předsedající, Komise vítá zprávu a děkuje zpravodaji a výboru za skvělou práci.
+<P>
+V lednu 2008 Komise poprvé uveřejnila sdělení o všeobecném a komerčním letectví. Na to navazoval velmi kladný závěr Rady v dubnu 2008 a nyní tato důležitá zpráva Parlamentu.
+<P>
+Všeobecné a komerční letectví představuje významné odvětví leteckého průmyslu EU o ročním objemu cca 2,3 miliardy EUR. Investuje významné částky do výzkumu a vývoje a rychle roste. V tomto odvětví jsou přes dvě třetiny všech letadel registrovaných v EU.
+<P>
+Všeobecné a komerční letectví sestává hlavně z malých a středních podniků. Je to rovněž velmi rozmanité odvětví. Je třeba uzpůsobit předpisy jeho zvláštní povaze, aniž by však byla narušena bezpečnost. Jsme velmi rádi, že se k tomuto pojmu proporcionality Parlament ve zprávě hlásí.
+<P>
+V nejbližší budoucnosti budeme naše úsilí muset zaměřit na tři hlavní oblasti: rozvoj společných bezpečnostních norem EU pro všeobecné letectví, zapojení neobchodního letectví do příští generace systémů řízení letového provozu pro Evropu a konečně snižování nepříznivých dopadů tohoto odvětví na životní prostředí.
+<P>
+V příštím roce plánuje Komise navrhnout řadu prováděcích předpisů EU zajišťujících jednotnou úroveň bezpečnosti nekomerčního letectví. Jak zdůraznila vaše zpráva, musíme zajistit, aby tato pravidla nejen stanovila odpovídající úroveň bezpečnosti, ale také byla přiměřená a neuvalovala na provozovatele přílišné břemeno.
+<P>
+Budeme rovněž pokračovat v rozvoji budoucího systému řízení letového provozu pro Evropu s jasným vědomím, že vzdušný prostor je společným statkem, ke kterému by měli mít bezpečný přístup všichni jeho uživatelé. Z hlediska všeobecného letectví budou pro bezpečné rozšíření přístupu k vzdušnému prostoru a letištím nanejvýš důležité projekty Jednotné evropské nebe a SESAR. Tyto technologie otevřou cestu novým, v Evropě dosud nevídaným službám.
+<P>
+V neposlední řadě mají všeobecné a komerční letectví navzdory technologickým pokrokům rovněž dopad na životní prostředí a podobně jako širší letecký průmysl by se měly podílet na snižování těchto dopadů. Také zde se bude muset stát důležitou zásadou proporcionalita.
+<P>
+Komise se těší na spolupráci s Parlamentem v souladu se zprávou a podá mu zprávu o učiněném pokroku.
+<SPEAKER ID="194" NAME="Předsedající">
+- Rozprava k tomuto bodu je ukončena.
+<P>
+Hlasování se uskuteční zítra.
+<P>
+Písemná prohlášení (článek 142)
+<SPEAKER ID="195" NAME="Bogdan Golik  " LANGUAGE="PL">
+Na úvod bych rád poděkoval Luísi Queiróovi za jeho zprávu na téma tolik důležité pro budoucnost dopravy v Evropě.
+<P>
+Rád bych zdůraznil význam rozvoje všeobecného a komerčního letectví a oboru výroby letadel pro toto odvětví. Ačkoliv Komisí navržená řešení nepřinášejí žádné radikální legislativní změny a dnes se mohou znát nevýznamná, nesmíme zanedbávat jejich vliv na budoucnost letectví tváří v tvář deregulaci trhu a rozvoji letecké dopravy v Polsku.
+<P>
+Cílem Komise je usnadnit rozvoj tohoto oboru letectví zjednodušením stávajících regulačních postupů, uzpůsobením pravidel novým formám řízení letového provozu a jejich přezkumem za účelem dodržení proporcionality.
+<P>
+Je zřejmé, že tato iniciativa si zasluhuje plnou podporu. Je však třeba dbát na to, aby v procesu formulování a provádění politiky byly při plánování a optimalizaci kapacity zohledněny potřeby všech skupin uživatelů vzdušného prostoru a letecké infrastruktury. K usnadnění další reformy je však třeba pro všeobecné ä komerční letectví vytvořit základní evropský systém sběru dat. V neposlední řadě bude také třeba usnadnit přístup tohoto odvětví na zahraniční trhy podporou rozvoje nových, konkurenceschopných technologií, ovšem při současném ohledu na dodržování zásad ochrany přírodního prostředí.
+<SPEAKER ID="993" NAME="Louis Grech  " AFFILIATION="PSE">
+písemně. - Tuto zprávu vítám, protože usiluje o sladění a větší vyjasnění pravidel všeobecného a komerčního letectví na úrovni Společenství. Jedná se o nejrychleji rostoucí segment civilního letectví v Evropě, poskytující členským státům řadu společenských a hospodářských přínosů. Abychom jej však využili co nejlépe, musíme zavést odpovídající regulaci. Například v současné době není o tomto odvětví dostatek dat a tento nedostatek musí být ze správních a bezpečnostních důvodů urychleně odstraněn.
+<P>
+Komise by měla jasně rozlišovat mezi rozsáhlými provozy komerčních letadel a letadly soukromými. Právní předpisy by měly být přiměřené rizikům, která různé druhy letectví přinášejí, a ohleduplné z hlediska nákladového břemene, jež jim způsobují.
+<P>
+Budoucí regulace by měla toto odvětví povzbuzovat a posilovat, a nikoli omezovat.
+<P>
+Zdrojem znepokojení může být to, že většina všeobecného a komerčního letectví nespadá do působnosti směrnice Komise začleňující letectví do systému pro obchodování s povolenkami na emise skleníkových plynů. Vzhledem k rychlému tempu růstu tohoto odvětví si myslím, že jeho dopady na životní prostředí potřebujeme tím či oním způsobem vyrovnat.
+<SPEAKER ID="196" NAME="Mieczysław Edmund Janowski  " LANGUAGE="PL">
+V době, kdy neustále slýcháme slovo "krize", není snadné hovořit o stabilní budoucnosti všeobecného a komerčního letectví. Proto děkuji Luísovi Queiróovi za to, že se zhostil nelehkého úkolu vypracování zprávy na toto téma. Blahopřeji. Jsem si jist, že letecká doprava může být hnacím motorem, který pomůže roztočit kola světové a evropské ekonomiky. Jak víme, před sotva 106 lety bratři Wrightové vykonali první kontrolovaný let motorovým letadlem (i když byl kratší než 40 metrů). To byl začátek opravdového letectví.
+<P>
+V dnešní době je letectví vysoce rozvinutým odvětvím, které vyrábí "létající stroje" čím dál lépe vybavené širokou škálou přístrojů. K letectví patří také celá složitá oblast navigace a letového řízení, založená na pozemní letištní infrastruktuře, systém bezpečnosti a tak dále. Měli bychom si uvědomit, že v evropském všeobecném a komerčním letectví je provozováno asi 50 tisíc letadel a počet malých letadel a kluzáků používaných ke sportovním a rekreačním účelům je takřka čtyřnásobný. Tato čísla hovoří sama za sebe.
+<P>
+V této souvislosti je krajně důležité zajistit odpovídající kapacitu evropského vzdušného prostoru a letišť samých. Rád bych zde upozornil na význam regionálních letišť pro zajištění komunikační soudržnosti v EU. Hovoříme-li o rozvoji letecké dopravy, nesmíme samozřejmě zapomínat ani na problémy týkající se přírodního prostředí.
+<SPEAKER ID="992" NAME="Eija-Riitta Korhola  " LANGUAGE="FI">
+Pane předsedající, debata o leteckém průmyslu je často zkreslená neobjektivním důrazem na problémy emisí z letecké dopravy, ale lidé nejsou připraveni si uvědomit jeho potenciál. Letectví a letecká doprava samozřejmě způsobují emise, ale to je stejně zřejmé jako fakt, že představují budoucnost. To platí pro obchodní leteckou dopravu a komerční i všeobecné letectví.
+<P>
+I když právní úprava vnitřního trhu EU řeší hlavně obchodní leteckou dopravu, stojí za zmínku, že otázky všeobecného a komerčního letectví se čím dál častěji objevují v oblastech jako klimatická politika, ochrana životního prostředí a bezpečnost letecké dopravy. Vezmeme-li v úvahu rostoucí význam zejména komerční letecké dopravy, rozhodně musíme těmto odvětvím věnovat pozornost a zajistit jejich konkurenceschopnost.
+<P>
+Rád bych vyjádřil obavu, kterou chovám ohledně podmínek podnikání v letectví. Pro všeobecné a komerční letectví jsou klíčová malá a střední letiště. Je třeba podporovat jejich zakládání a modernizaci a členské státy by měly být v takových investicích povzbuzovány. Pokračující růst komerční letecké dopravy však čím dál více ucpává letiště.
+<P>
+Z hlediska ochrany klimatu lze říci, že i když menší letadla nejsou zahrnuta do soustavy obchodování s emisemi, připravuje toto odvětví dobrovolný mechanismus vyrovnávání emisí uhlíku. To je známkou rozvojového potenciálu letecké dopravy jako celku. Společenství by mělo přijmout veškerá možná opatření k povzbuzení výzkumu inovativnějších, energeticky účinnějších a ekologičtějších letadel. Cíl nesmí být o nic menší než letecká doprava bez emisí.

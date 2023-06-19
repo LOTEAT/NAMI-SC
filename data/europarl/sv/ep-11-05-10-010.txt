@@ -1,0 +1,10 @@
+<CHAPTER ID="010">
+Välkomsthälsning
+<SPEAKER ID="128" NAME="Talmannen">
+Mina damer och herrar! Jag ska nu läsa ett meddelande från Jerzy Buzek.
+<P>
+”Det gläder mig att i dag kunna informera er om att vi har äran att välkomna Bogdan Borusewicz, talesman från den polska senaten, Irena Degutienė, talesman för Seimas i Litauen och Volodimir Litvin, talesman för Verkovna Rada i Ukraina.
+<P>
+Det tre talesmännen träffades i dag i parlamentet för en extra session i den parlamentariska församlingen för Litauen, Polen och Ukraina. Denna församling grundar sig på det polsk-litauiska samväldet, som i mer än två århundraden har utgjort gränsen till Europa, och fungerar som ett politiskt, kulturellt och civilt projekt.
+<P>
+Anledningen till mötet för denna parlamentariska församling i Strasbourg i dag är att det i dag är 220:e årsdagen av 3 maj-konstitutionen, den första konstitutionen i Europa.”

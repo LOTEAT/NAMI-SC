@@ -1,0 +1,230 @@
+<CHAPTER ID="005">
+Raudteede ohutus, sealhulgas Euroopa signalisatsioonisüsteem (arutelu) 
+<SPEAKER ID="065" NAME="Juhataja">
+Järgmiseks punktiks on komisjoni avaldus seoses raudteede ohutusega, sealhulgas Euroopa signalisatsioonisüsteemiga.
+<SPEAKER ID="066" NAME="Siim Kallas">
+komisjoni asepresident. - Austatud juhataja! Esmaspäeval, 15. veebruaril 2010. Buizingenis aset leidnud rongiõnnetus oli šokeeriv tragöödia. Mõistan, et selle tõsise õnnetuse järel võib seoses raudteeohutusega esitada mitmeid tehnilisi ja poliitilisi küsimusi.
+<P>
+Esmalt tahan öelda, et olen oma mõtetes selle tragöödia ohvrite ja nende sugulastega. Sellistel kurbadel juhtudel on alati raske leida lohutussõnu ning tihti ütleb vaikimine palju enam. Õnnetuse põhjused ei ole veel täielikult selgunud ja vastavalt ELi raudteede ohutuse direktiivi sätetele algatati tehniline juurdlus.
+<P>
+Juurdluse eest vastutab Belgia uurimisasutus ning see teostatakse sõltumatult õiguslikest juurdlustest. Tehnilise juurdluse eesmärgiks ei ole süüdlaste ja vastutajate otsimine, vaid õnnetuse põhjuste tuvastamine raudteeohutuse parandamiseks ja õnnetuste ärahoidmiseks.
+<P>
+Belgia uurimisasutus palus juurdluse teostamisel Euroopa Raudteeagentuuri abi. Juba paar tundi pärast õnnetust ühinesid kaks agentuuri uurijat juurdlust juhtiva Belgia meeskonnaga.
+<P>
+Tahan rõhutada, et kuna õnnetuse põhjused ei ole veel teada, oleks praegu igasuguste järelduste tegemine ebasobiv. Loomulikult olen valmis selgitama mõningaid küsimusi, mis seoses kõne all oleva tragöödiaga esitati, ning jagama teiega oma teadmisi olukorrast.
+<P>
+Nagu tihti raudteeõnnetuste puhul kombeks, nii tehti ka sel juhul kohe märkusi väidetava seose kohta Euroopa eeskirjade või määruste ja kõne all oleva õnnetuse vahel. Esmalt tahan selgitada olukorda seoses turu avamisega. Lisaks raudteetranspordi sektori avamisele konkureerivatele ettevõtetele ning nõuete kehtestamisele infrastruktuuri haldajate ja raudtee-ettevõtete eraldamiseks võeti kasutusele range õiguslik raamistik seoses raudteeohutuse ja koostalitlusvõimega. Tahame kanda hoolt selle eest, et säiliks raudteeohutuse kõrge tase ning et samas peetaks kinni ka iga liikmesriigi jaoks omastest menetlustest ja meetoditest.
+<P>
+Euroopa Raudteeagentuur esitab korrapäraseid aruandeid Euroopa raudteevõrgustiku ohutuse kohta ning hoiab silma peal olukorra arenemisel liikmesriikides.
+<P>
+Näitajatest lähtudes ei ole raudteesektori avamine konkurentsile avaldanud mingisugust negatiivset mõju raudteeohutusele. Võite olla kindlad, et igasugused väited, mis seovad raudteeohutuse tasemed raudteeturgude avamisega, on minu arvates lihtsalt vabanduseks, et juhtida arutelu eemale õnnetuse tegelikest põhjustest.
+<P>
+Riiklike ja Euroopa signalisatsioonisüsteemide omavahelise toimimise küsimusele võib vastata järgmiselt. Tänapäeval on Euroopas kasutuses üle 20 riikliku süsteemi ohutu rongiliikluse tagamiseks. Need riiklikul tasandil väljatöötatud süsteemid koosnevad raudteeäärsest komponendist ja rongis olevast komponendist. Raudtee ääres olev komponent saadab teavet rongis olevasse arvutisse, mis ohtliku olukorra tuvastamisel rakendab rongi pidurid.
+<P>
+Selleks et süsteem töötaks, peavad rongid ja raudteed olema varustatud ühilduva süsteemiga. Eri riiklike rongide automaatblokeerimissüsteemide ohutustasemed ja jõudlus on erinevad ning erinevad on ka nende riiklike süsteemide eeskirjad seoses raudteede ja veduritega.
+<P>
+Erinevate riiklike süsteemide kokkusobimatus on suureks probleemiks rahvusvahelistele rongidele, sest igat vedurit tuleb iga piiri ületamisel vahetada või peab siis veduris olema nii palju erinevaid süsteeme, kui neid on raudteedel, mida vedur oma teel kasutab. On isegi juhtumeid, kus ühes riigis on kasutusel erinevad riiklikud süsteemid. Thalys näiteks peab olema varustatud seitsme erineva riikliku süsteemiga, et sõita neljas eri riigis.
+<P>
+Sel põhjusel töötatigi välja ühtne Euroopa süsteem, mida paigaldatakse hetkel Euroopa suurematele rahvusvahelistele rongiliinidele ja rongidele. Süsteemi nimi on Euroopa raudteeliikluse juhtimissüsteem (ERTMS).
+<P>
+Mis ajakavasse puutub, siis võime öelda, et suurem osa riiklikest süsteemidest töötati välja 1980ndate alguses, kuid nende kasutuselevõtmine on pikaajaline ja kulukas protsess. Enamikus riikides on nüüdseks varustatud ainult osa riiklikest raudteevõrgustikest ja veduritest ning see osaline varustamine kestis umbes 20 aastat.
+<P>
+Süsteemi ERTMS spetsifikatsioonid on olnud saadaval 2000. aastast. Vahemikus 2000 kuni 2005 tehti mitmeid katseprojekte. Alates 2005. aastast töötab mitu ERTMSi kasutavat raudteeliini. Hetkel kasutavad ERTMSi kümne liikmesriigi raudteeliinid ning lisaks sellele tegelevad peaaegu kõik liikmesriigid süsteemi rakendamise projektidega. Belgias kasutatakse ERTMSi näiteks raudteeliinil Aacheni ja Liège vahel, kus sõitvad ICT-rongid.
+<P>
+ERTMS loodi peamiselt koostalitlusvõime parandamiseks, et anda rongidele võimalus piiride ületamiseks, kuid samas tunnistati, et süsteem suurendab oluliselt ohutust. Tänapäeval on süsteem täielikult töövalmis, kuid pika aja tõttu, mis kulub selle paigaldamiseks rongidesse ja raudteedele, kasutatakse ERTMSi veel edasi koos riiklike süsteemidega.
+<P>
+Kolmandad riigid, nagu Taiwan, on samuti otsustanud ERTMSi kasutada ning selle põhjuseks ei ole ainult koostalitlusvõime. Taiwan investeeris meie ERTMSi, kuna see on parim tänapäeval saadaval olev süsteem.
+<P>
+Mitmeid küsimusi esitati seoses olukorra võrdlemisega liikmesriikide vahel. Liikmesriikide paremusjärjestus koostamine ja mõttekate võrdluste tegemine on üpris keeruline ning üldsegi mitte kasulik. Kõik sõltub näitajate valimisest, võrdluse aluseks võetud perioodist ja esitatud andmete kvaliteedist. Samuti võivad avaldada paremusjärjestusele mõju paar tõsisemat õnnetust.
+<P>
+Üldiselt näitavad andmed, et Belgia jääb keskmise piiresse. Sellegipoolest on Belgia seoses rongide automaatblokeerimissüsteemidega varustatud raudteedega maas Euroopa keskmisest, olenemata sellest, kas tegemist on riikliku või Euroopa süsteemiga.
+<SPEAKER ID="067" NAME="Mathieu Grosch">
+fraktsiooni PPE nimel. - (DE) Austatud juhataja, volinik Kallas! Tänan teid selgituste eest! Buizingenis toimunud õnnetuse taustal on muidugi väga tähtis näidata üles austust ohvrite ning samuti toimuva juurdluse vastu. Seetõttu ei tohi me seoses õnnetusega teha liiga kiireid järeldusi ning, mis veel tähtsam, me ei tohi hakata süüdlasi otsima.
+<P>
+Minu arust toimis komisjon õigesti, kui lükkas kindlalt tagasi Belgia riikliku raudtee süüdistuse, et Euroopa raudteeliikluse juhtimissüsteemi väljatöötamine on liiga kaua kestnud. Teame, et ohutuse tagamine on riiklik prioriteet ja et see ei muutu. Euroopa tasandil on meil - see tähendab komisjonil ja parlamendil - alati kahju olnud, et raudtee-ettevõtted ei hooli rohkem ohutusest ja koostalitlusvõimest erinevate Euroopa süsteemide vahel.
+<P>
+Pärast õnnetusi tehakse tihti ettepanekuid poliitilises kontekstis. Pean aga tunnistama, et antud juhul olid olemas nii õigusaktid kui ka tehnoloogia. Ainus asi, millest võis puudu olla, oli tahe see tehnoloogia prioriteetseks muuta. Juba 1990ndate keskpaigast alates on olnud saadaval tehnoloogia ohutu ülemineku tagamiseks Euroopa süsteemi ja täiustatud Belgia süsteemi vahel, see on nn TBL 1+ süsteem. Kindlasti ei ole tulnud puudu ajast ega esinenud tehnilisi probleeme.
+<P>
+Minu jaoks on tähtis tulevik ning seoses sellega tahan ma rõhutada järgmisi punkte. Esiteks ei tohi me mingil juhul vähendada väljaõppe tähtsust rongitööstuses. See ei ole olnud ega saa ka olema ELi kohustus. Raudteetöötajad on väga hea kvalifikatsiooniga ning see ei tohi muutuda.
+<P>
+Teiseks vajame raudtee-ettevõtetelt ja riikidelt kindlaid siduvaid kavasid seoses süsteemide kasutuselvõtmisega. Sellest ei piisa, kui me kõik hea tahte hooleks jätame. Vajame täpseid ajakavasid ning varsti on meil parlamendis võimalus ka kindlate eesmärkide kohta rohkem teada saada.
+<P>
+Minu kolmas ettepanek on, et reisijatel peab olema õigus teada, kas raudteelõik ja veerem, millel nad sõidavad, vastavad kõige kõrgematele ohutusstandarditele. See on minimaalne teave, mis peab reisijate jaoks edaspidi saadaval olema. Peame ka uurima, kuidas oleks võimalik võtta kasutusele sellekohased kohustuslikud nõuded.
+<SPEAKER ID="068" NAME="Saïd El Khadraoui">
+fraktsiooni S&D nimel. - (NL) Kõigepealt tahan ma, esindades Sotsiaaldemokraatide ja demokraatide fraktsiooni Euroopa Parlamendis, avaldada siirast kaastunnet Buizingeni rongiõnnetuse ohvritele ning nende peredele ja sõpradele.
+<P>
+Enne tõeliste ja täpsete järelduste tegemist peame ootama loomulikult ära juurdluse tulemused, kuid see ei muuda tõsiasja, et raudteede ohutus nõuab alati tähelepanu, kaasa arvatud Euroopa tasandil, ja et me peame ohutust käsitlevaid poliitikaid korrapäraselt hindama, täiendama ja kohandama. Soovin koos oma kolleegi ning samuti teiega, lugupeetud volinik, väljendada oma kahetsust seoses asjaoluga, et mitmed suurt vastutust kandvad Belgia ametiisikud on üritanud lükata vastutust õnnetuse eest Euroopa kaela või vähemalt sellise mulje jätnud. Peamiseks põhjuseks, miks nüüd, 2010. aastal, on Belgias ainult käputäis vedureid varustatud rongide automaatblokeerimissüsteemiga, toodi viivitused seoses Euroopa raudteeliikluse juhtimissüsteemi (ERTMS) väljatöötamisega.
+<P>
+Kuid kui aus olla, lugupeetud kolleegid, siis tuleb tunnistada, et selle suurepärase ühtse signalisatsioonisüsteemi, mis asendaks olemasolevat 20 eri süsteemi, väljatöötamine on tõesti võtnud kauem aega, kui loodeti või oodati. Selle põhjuseks on loomulikult tehniline keerukus ning asjaolu, et paljud riigid peavad veel jõudma kokkuleppele seoses standardiga. Neid riike on 27, olgugi et tol ajal oli neid veidi vähem. Loomulikult kaasnevad sellega ka tagajärjed eelarvele. Nagu te aga väga õigesti ütlesite, ei ole see takistanud ühtegi liikmesriiki enda süsteemi väljatöötamisel või varakult algelise ERTMSi versiooni kasutuselevõtmisel.
+<P>
+Olen arvamusel, et me ei pea vaatama tuleviku poole ja küsima endalt, kuidas aidata kaasa raudteede ohutumaks muutmisele. Arvan, et me saame aidata kaasa ka mitmes kohas Euroopa tasandil. Esmalt saame teha seda ERTMSi edasiarendamisega. Selline arengukava on olemas. 2009. aastal eraldasime eelarvest sihtotstarbeliselt 240 miljonit eurot üleeuroopalise transpordivõrgu (TEN-T) jaoks, et aidata liikmesriikidel süsteemi rakendada.
+<P>
+Teiseks, ja ma arvan, et see on komisjoni ja Euroopa Raudteeagentuuri jaoks väga tähtis ülesanne, peame jälgima, kas olemasolevaid Euroopa ohutusmäärusi ka reaalselt rakendatakse. Tooksin näiteks direktiivi 2004/49/EÜ ühenduse raudteede ohutuse kohta. Nimetatud direktiivis on muu hulgas sätestatud, et igas liikmesriigis tuleb luua ohutusamet, mis peab olema sõltumatu kõigist raudtee-ettevõtetest ja infrastruktuuride haldajast ning mille ülesannete hulka kuulub raudteede ohutuse jälgimine ja jõustamine ning õigusliku raamistiku väljatöötamine. Mul on tunne, lugupeetud kolleegid, et Belgias ei toimi see eriti hästi, ning ma arvan, et peaksime korraldama auditi, et vaadata, kas liikmesriikidel on tõepoolest võimalused, et tagada raudteede ohutust oma riiklikes raudteevõrgustikes. Palun teid see ülesande enda peale võtta!
+<SPEAKER ID="069" NAME="Dirk Sterckx">
+fraktsiooni ALDE nimel. - (NL) Soovin samuti oma fraktsiooni nimel avaldada ohvritele kaastunnet ning loomulikult tahan oodata ära juurdluse tulemused. Loodan, et juurdlus lõpetatakse võimalikult kiiresti, kuid ka võimalikult põhjalikult.
+<P>
+Minu riigis on seoses Euroopa lähenemisega raudteedele esitatud mitmeid küsimusi. Pean ausalt ütlema, et mind šokeerib asjaolu, et mõned inimesed süüdistasid meid ohutuse hooletusse jätmises. Mina olin parlamendi raportööriks raudteede ohutuse direktiivi koostamisel, millele Saïd El Khadraoui viitas, ja ma olen tehtud töö üle uhke. Ütlesime endale, et peame jõuliselt nõudma ohutust kõikides liikmesriikides ja looma vastava Euroopa raamistiku ning vajadused. Saime sellele liikmesriikide heakskiidu väga suurte raskustega. Pean tunnistama, ja siinkohal Saïd El Khadraoui tegi väga õige tähelepaneku, et mõnedes riikides, kahjuks ka minu riigis, on kõne all oleva direktiivi rakendamine väga halvasti korraldatud. Loodan, et te vaatate selle uuesti üle, lugupeetud volinik. Võib-olla peaks ka täiskogu direktiivi veel kord läbi vaatama ja selle raamistikku rangemaks muutma, nagu Mathieu Grosch ütles. Ei ole õige, et me oleme ohutuse suhtes hooletud ning seega peab hoopis vastupidine paika.
+<P>
+Teiseks on reisijate õigusi käsitlevas määruses lõige, mida me lootsime, et kunagi vaja ei lähe. See puudutab ettemakseid surma või kehavigastuste korral raudteeõnnetuste tagajärjel. Tervitan Belgia raudteede riigiettevõtte (SNCB) teadaannet, et nad kavatsevad seda süsteemi kasutada ja ettemakseid teha. Oli aeg, kus see ei oleks olnud võimalik.
+<P>
+Mõned inimesed ütlesid, et turu avamine konkurentsile muutis raudteed ohtlikumaks. Ma olen kategooriliselt sellise väite vastu. See ei vasta tõele ning seda tõestavad ka viimased Euroopa Raudteeagentuuri andmed 2008. aastast. Kõige paremini tulid 2008. aastal toime Ühendkuningriik ja Holland. Mõlemad riigid on oma turud avanud.
+<P>
+Arvan, et tähelepanu tuleb pöörata ka raudteetöötajatele, rongijuhtidele, jaamapersonalile ja administraatoritele. Peaksime vaatama uuesti nende olukorda ning kandma hoolt selle eest, et ohutus oleks peamiseks kaalutluseks nii nende väljaõppes kui ka nende töö korraldamises ja ettevõtte suhtumises. Kokkuvõtteks, austatud juhataja, tahan lisada, et me ei tohi unustada asjaolu, et raudtee on siiski kõige ohutum transpordivahend.
+<SPEAKER ID="070" NAME="Isabelle Durant">
+fraktsiooni Verts/ALE nimel. - (FR) Austatud juhataja, lugupeetud volinik! Ma arvan samuti, et möödunud nädalal toimunud õnnetus on kõige hullem Belgias toimunud rongiõnnetus 2001. aastast alates, kui ma veel ise liikuvus- ja transpordiministri ametikohal olin. Taas olen mõtetes meie kolleegi Claudia Candeago'ga ja loomulikult ka kõigi teiste kannatanute, nende lähedaste ning leinavate raudteetöötajatega.
+<P>
+Nagu eelnevad sõnavõtjad, nii ei hakka ka mina veel mingeid järeldusi tegema. Juurdlus on käimas ja ei ole mõtet selle tulemuste üle spekuleerida. Sellele vaatamata on arusaadav ja väga kahetsusväärne, et Belgias võttis raudteede ja rongide varustamine rongide automaatblokeerimissüsteemidega nii kaua aega, nagu teisedki sõnavõtjad juba mainisid. Kui ma hiljem kuulsin, et kahtlustati, et õnnetus ei juhtunud eelarvelistel põhjustel, vaid hoopis viivituste tõttu seoses Euroopa koostalitlusstandardite väljatöötamisega, leidsin ma, et see on vastuvõetamatu ning tundsin kohe, et Euroopat süüdistati alusetult.
+<P>
+Euroopa raudteeliikluse juhtimissüsteem (ERTMS) pakub ettevõtetele koordineeritud ja koostalitlevat lahendust ohutusse investeerimiseks. Ajal, mil Euroopa signalisatsioonisüsteem (ETCS) edasi areneb, peame loobuma arvututest riiklikest standarditest, mis arengut ja konkurentsivõimet piiravad. Loomulikult süsteem areneb ja see areng ei peatu. See on vajalik kõrge tehnoloogilise taseme säilitamiseks. Lisaks sellele ei kahtle ma üldsegi, et järgmise viie kuni kümne aasta jooksul töötatakse välja uusi lahendusi.
+<P>
+Tuleb siiski tõdeda, et sedalaadi õnnetused, ükskõik kui erakorralised need ka ei ole, tuletavad meile meelde, et seoses ohutusega saab alati midagi paremaks muuta. Tahaksin selles suhtes teha mõned ettepanekud.
+<P>
+Esmalt, nagu te teate, lugupeetud volinik, toimub hetkel arutelu seoses üleeuroopaliste transpordivõrkude, nende seisundi ja kriteeriumide üle. Usun, et Euroopa võrkudest rääkides võiks ERTMSi üleeuroopaline kasutuselevõtmine saada tõepoolest meie prioriteediks. Arvan ka, et selles kontekstis peaksime kehtestama tähtajad seoses ressurssidega, millega iga riik ja võrk peab varustatud olema.
+<P>
+Viimaks arvan ma, et ohutus on turgude liberaliseerimisest tähtsam. Seoses sellega peame kohustama operaatoreid, kelle rongid sõidavad eri riiklikes võrkudes, jätkama veel mõnda aega oma rongide kohandamist nendes võrkudes kasutuses olevate rongide automaatblokeerimissüsteemidega toimimiseks ja rongide varustamist vastavate vastuvõtjate ja varustusega.
+<P>
+Kokkuvõtteks ütlen, et minu arvates võiks Euroopa Raudteeagentuur omalt poolt toetada tõhusamat riiklike ohutusametite integreerimist. Selline integratsioon võimaldaks näiteks kasutatavate seadmete tüübikinnituse kasutamist.
+<P>
+(Istungi juhataja katkestas sõnavõtu)
+<SPEAKER ID="071" NAME="Derk Jan Eppink">
+fraktsiooni ECR nimel. - (NL) Buizingeni rongiõnnetuse juurdlus ei ole veel lõppenud, mistõttu ma ei saa selle kohta midagi öelda. Sellele vaatamata tegin ma järgmise järelduse. Kui Ühendkuningriigis toimub rongiõnnetus, süüdistatakse selles kohe raudteede erastamist. Belgia raudteede riigiettevõte (SNCB) saab suhteliselt kõige suuremat toetust Euroopa Liidus. Belgia andis oma raudteele 32 euro senti reisija/kilomeetri kohta. Teisel kohal on Prantsusmaa 24 euro sendiga. Holland annab oma raudteele 15 euro senti ja Ühendkuningriik 4 euro senti. Kogu sellest toetusest hoolimata on SNCB võlg ikka veel 10 miljardit eurot. Kuhu see raha läheb?
+<P>
+Kui ma SNCBi infrastruktuuri vaatan, siis on see hämmastavalt hooletusse jäetud. Kõik on vana ja kulunud. Kas on võimalik, et aeg-ajalt jäetakse ka ohutussüsteem hooletusse? Võib-olla makstakse ametiühingute suure mõjuvõimu tõttu töötajatele liiga palju palka. Belgia raudteed kuuluvad sotsialistide valdusesse ning nende juhtimine on halb. Need on küsimused, millele tuleb vastata, sest SNCB ei saa kohe kindlasti tuua vabanduseks raha puudumist.
+<SPEAKER ID="072" NAME="Jacky Hénin">
+fraktsiooni GUE/NGL nimel. - (FR) Austatud juhataja! Mul pidi peaaegu hing kinni jääma, kui Brian Simpson novembris siin täiskogul ütles: "Olgugi et ühenduse raudteesüsteem on väga ohutu ja viimastel aastatel on ohutus turu liberaliseerimise tõttu veelgi paranenud”. Siiski lisas ta sellele, et seoses traagiliste õnnetuste tõttu on kerkinud päevakorda ohutuse küsimus.
+<P>
+Buizingeni õnnetus, selle traagilised tagajärjed ning sellest tulenevad tõsised füüsilised ja psühholoogilised kannatused tuletasid meile meelde, et on viimane aeg alustada tõsist arutelu seoses raudteede ohutusega. Unustame kohe idee, et kõik õnnetused on oma loomu poolest ettenägematud. Peamiseks Euroopa raudteevõrgustiku puuduliku ohutuse põhjuseks on meie raudteeinfrastruktuuri haldamise ja veeremi haldamise eraldamine teineteisest. Siinkohal tuleb öelda, et sellise eraldamise sundis meile peale komisjon vastu raudteetöötajate tahtmist, et raudteesektori saaks avada konkurentsile. Eraldamise tulemuseks on õnnetusjuhtumite tõenäosuse tihenemine ning selle tõttu tuuakse Euroopa raudteevõrgu hooldamine ohvriks suuremale kasumile. Võite üritada aja juurde võitmiseks teha ettepaneku, et ainus võimalus probleemi lahendamiseks on kõige paremate ja kaasaegsemate tehnoloogiate kasutamine, kuid tegelikult vajab Euroopa lihtsalt teistsugust raudteepoliitikat. Kui igal aastal väheneb raudteetöötajate, hooldustööde, investeeringute ja erialakoolituste hulk, siis on õnnetuste teema juurde tagasipöördumine ja järjekordsed kaastundeavaldused vältimatud. Tõelise raudteeohutuse tagamiseks peab EL sulgema konkurentsipeatüki ning avama koostööpeatüki.
+<P>
+Kokkuvõtteks ütlen ma teile, lugupeetud kolleegid, et kui arutelu lõppeb ja me siit ära läheme, siis ei saa me oma vastutusi unustada. Mina omalt poolt ei kavatse sellises kuritahtlikus tegevuses osaleda. Ilma muutusteta...
+<P>
+(Istungi juhataja katkestas sõnavõtu)
+<SPEAKER ID="073" NAME="Philip Claeys" AFFILIATION="NI">
+(NL) Alustan oma sõnavõttu märkusega, et Belgia maksukoorem on üks maailma kõrgemaid, kuid vaatamata sellele saavad maksumaksjad selles valitsematus riigis - eriti Flandrias - oma raha eest väga vähe vastu. Raudteesüsteem on väga hea näide. Raudteesüsteem on lootusetult aegunud ning seda iseloomustavad pikad viivitused tipptundidel ja inimesi täis topitud vagunid.
+<P>
+Belgia raudteesid haldav riigiettevõte SNCB on väga poliitiline ja ebatõhus. Belgia poliitika üheks omapäraks on, et kui midagi läheb valesti, ei ole mitte keegi kunagi mitte millegi eest vastutav. Pécrot's toimus 2001. aastal rongiõnnetus, mis sarnanes väga möödunud nädalal Buizingenis toimunud rongiõnnetusega. Üheksa aasta eest arvasid kõik, et ohutussüsteemi täiustamine võetakse tõsiselt käsile, kuid seda ei juhtunud. Enne Euroopa signalisatsioonisüsteemi (ETCS) kasutuselevõtmist töötas Belgia välja oma enda süsteemi, kuid sellega jäädi liiga hiljaks ning süsteem oli väga ebapiisav.
+<P>
+Peame sellest õppima, et ohutus nõuab suuremaid investeeringuid ja et olemasolevad süsteemid tuleb paremini omavahel toimima panna. Kui tõhusa süsteemide koostalitluse saavutamine osutub ikkagi võimalikuks, tuleb edendada igati üleminekut Euroopa ETCSile, sest see ei ole lihtsalt hea, kui näiteks Pariisi ja Amsterdami vahet sõitvas Thalyse rongis on korraga kasutusel üheksa erinevat süsteemi.
+<SPEAKER ID="074" NAME="Werner Kuhn" AFFILIATION="PPE">
+(DE) Austatud juhataja, head kolleegid! Kahe reisirongi kokkupõrge Brüsselis, mis kõne all oleva tragöödia põhjustas, šokeeris meid kõiki. Oleme oma mõtetes kannatanute perede ja sõpradega.
+<P>
+Selliste katastroofide järel tahavad inimesed alati kõigepealt süüdlase leida. Antud juhul aga ei tohi teha patuoinast Euroopa Liidust, komisjonist ega ohutust käsitlevatest sätetest, mis võeti vastu direktiiviga 2004/49/EÜ. Teisest küljest on loomulikult tähtsaks küsimuseks, kas peaksime ohutust käsitlevaid sätteid rangemaks muutma? Juurdlus seoses kõne all oleva raudteeõnnetusega ei ole veel lõppenud ning seetõttu ei saa me ka selgeid tulemusi oodata. Kõige tähtsam küsimus, mida endale esitama peame, on kas selle õnnetuse oleks saanud ära hoida? Me ei saa välistada inimlikke vigu või tehnilisi tõrkeid ning seetõttu mängivad mõlemad raudteeohutuses tähtsat rolli. Nii riigi- kui ka eraomandis olevad raudteeoperaatorid peavad tagama vajaliku ohutuse. Riiklikud raudtee-ettevõtted peavad kandma hoolt selle eest, et nad peavad kinni asjaomastest ohutusstandarditest.
+<P>
+Ma ei taha pidada antud juhul mingit loengut Saksamaa vaatenurgast. Tahan lihtsalt öelda, et Saksamaal tegime kõik, et direktiivi kogu ulatuses rakendada. Igal pool, kus on inimliku vea tegemise oht, peab olema tehniliste süsteemide sekkumise võimalus. Mäletan nn surnud mehe lülitit, mis rakendas automaatselt pidurid, kui seda minut aega ei vajutatud. Pidurid rakendusid automaatselt ka siis, kui rong peatumist tähistavast punasest signaaltulest mööda sõitis. Selliseid süsteeme tuleb kasutada. Euroopa signalisatsioonisüsteem tuleb rakendada, et meil oleks nende asjade kulgemise üle mõningatki mõju väljastpoolt.
+<P>
+Transpordi- ja turismikomisjoni liikmed teevad koostööd vajalike hinnangute koostamise nimel ning teevad ka vajalikud järeldused seoses ohutust käsitlevate sätetega.
+<SPEAKER ID="075" NAME="Marc Tarabella" AFFILIATION="S&amp;D">
+(FR) Austatud juhataja! Brüsseli lähedal Buizingenis aset leidnud rongiõnnetuses hukkus 18 ja viga sai 160 inimest. Loomulikult mõtleme ennekõike kannatanute peredele. Õnnetuse põhjused ei ole veel teada, juurdlus on aga juba algatatud. Me peame mõtlema raudteeohutuse hindamisele Euroopas ning seda iga liikmesriigi puhul eraldi.
+<P>
+Hinnangus tuleb pöörata kõige enam tähelepanu ohutussüsteemidele, nende rakendamisele, koostalitlusele ja tõhususele. Nimetatud Euroopa raudteevõrkude ohutuse taseme hindamine peab toimuma väga laias ulatuses. Ennekõike peab selle juurde kuuluma raudteetöötajate töötingimuste hindamine, kuna just nemad suudavad kõige paremini tagada raudteevõrkude ohutuse.
+<P>
+Seoses sellega palun komisjonil teostada Euroopa raudteevõrkude hindamine kõikehõlmavat lähenemist kasutades, mille aluseks võetakse raudteede liberaliseerimise protsess. Üks asi on selge: on aeg anda tabudeta hinnang selliste poliitikate praktilistele tulemustele, mille eesmärgiks on avalike teenuste liberaliseerimine ja lammutamine. Millist lisaväärtust on need andnud? Kes on neist kasu saanud? Kes on nende tõttu kannatanud?
+<P>
+Eesmärgiks on võrrelda Euroopa ohutus- ja signalisatsioonistandardite rakendamist töötingimustega alates hetkest, mil raudteesektori liberaliseerimine igas liikmesriigis algas. Seega peab komisjon käsitlema avalike teenuste rolli palju üldisemas mõttes. Minu erakond Parti Socialiste on juba mõnda aega nõudnud Euroopa Liidult positiivset tegutsemist seoses avalike teenuste kaitsmise ja arendamisega. See on ka mõtteks üldhuvi pakkuvaid teenuseid käsitleva raamdirektiivi kasutuselevõtmise taga, millega oleks avalikele teenustele loodud kindel stabiilne raamistik ning tagatud piisav rahastamine kõikehõlmavuse ja võrdse juurdepääsu põhimõtetest lähtudes.
+<SPEAKER ID="077" NAME="Derk Jan Eppink" AFFILIATION="ECR">
+(NL) Mul on küsimus Marc Tarabellale, kellest ma muidu väga lugu pean. Ta ei saa ometi eirata tõsiasja, et Belgia raudteede riigiettevõte (SNCB) saab kõige suuremat toetust Euroopas? Seega ei saa ta süüdistada liberaliseerimist, sest reisijatevedu ei ole liberaliseeritud, ega otsida ka teisi vabandusi.
+<P>
+Tahan juhtida tähelepanu ka sellele, et ta räägib Belgia prantsusekeelse erakonna Parti Socialiste nimel, mille tugeva mõju all SNCB ametiühingute tõttu on. Kui poliitiline raudteesüsteem raudteede juhtimisega paremini toime tuleks, siis selliseid asju ei juhtuks.
+<SPEAKER ID="078" NAME="Marc Tarabella" AFFILIATION="S&amp;D">
+(FR) Austatud juhataja! Ütlen Derk Jan Eppinkile vastuseks vaid seda, et siin ei ole tegemist valimisplatvormiga. On juhtunud õnnetus, mis nõudis ka inimohvreid - õnnetusi on varemgi juhtunud -, ning selle põhjustes kahtlemine on igati loomulik. Juurdlus käib ja me peame laskma sellel segamata lõpuni jõuda.
+<P>
+Sellegipoolest ei tohi jätta tähelepanuta ühte tegurit - inimtegurit. Inimtegur jäetakse kahe silma vahele iga liberaliseerimise puhul. Ma tean, et te pooldate liberaliseerimist, mina pooldan seda palju vähem, kui tegemist on avalike teenustega. Personalile avaldatakse suurt survet - töötama peab pikka aega järjest või, vähemalt, pikemat aega ja puhkamata. Rongijuht vastutab reisijate ohutuse eest. Seepärast ongi minu arvates väga oluline esitada küsimusi töötingimuste ja nende muutmise kohta. Minu arvates on see väga tähtis punkt.
+<SPEAKER ID="079" NAME="Joe Higgins" AFFILIATION="GUE/NGL">
+Austatud juhataja! Halle' lähedal aset leidnud kohutav rongiõnnetus oli hirmus tragöödia ohvritele, nende peredele, kolleegidele ja sõpradele. Kõige tähtsam on nüüd sellest tragöödiast midagi õppida, et tulevikus selliseid kaotusi ära hoida. Antud juhul on väga oluline pöörata tähelepanu raudteetöötajate soovitustele seoses raudteeliikluse ohutusega nii reisijatele kui ka töötajatele endale.
+<P>
+Oli tõepoolest ennekuulmatu, kuidas Briti tooride partei liige, Euroopa Parlamendi liige, Belgia raudteetöötajaid oma sõnavõtus mustas ja laimas, kui on täiesti selge, et neoliberaalne poliitika ja dereguleerimine on kahjustanud tõsiselt meie raudteesüsteemi avaliku teenusena. Belgia raudteetöötajate seas valitseb tegelikult suur rahulolematus, mis väljendus väga hästi spontaansetes streikides, mis õnnetuse järel korraldati. See on viimase üheksa kuu jooksul kolmas suur õnnetus Belgias.
+<P>
+Pärast 2001. aasta tragöödiat lubati Belgias võtta kasutusele põhjalikud ohutusmeetmed, mida ei ole aga siiani rakendatud. Tegelikkuses sunnitakse Belgia raudteetöötajaid töötama kauem, sõitusid pikendatakse ja puhkeaegasid lühendatakse, mis omakorda vähendab ohutust. Loomulikult ohustab ohutust veelgi Euroopa Komisjoni truudusetu liberaliseerimise ja erastamise poliitika. See tähendab, et suurte transpordiettevõtete kasumid on esmatähtsad. Täiesti arusaadav on, et parim lahendus ohutuse tagamiseks on hoida raudteeinfrastruktuuri riigi kontrolli all, kus on tagatud demokraatlik kontroll ja vajalikud investeeringud.
+<SPEAKER ID="080" NAME="Georges Bach" AFFILIATION="PPE">
+(DE) Austatud juhataja! Soovin samuti avaldada oma kaastunnet kõikidele kannatanud peredele! Leinavad pered ja tõsiselt kannatada saanud inimesed leiaksid aga vähe lohutust sellest, kui me jätkuvalt rõhutame, et raudtee on kõige ohutum liikumisvahend ja et õnnetuste arv on võrreldes autoliiklusega palju väiksem.
+<P>
+Loomulikult on küsimusi seoses tingimustega. Kuidas sai selline õnnetus juhtuda? Nagu aga juba öeldi, peavad selle küsimusega tegelema tehnilised eksperdid ning seejärel kohtud. Meie peame vastama järgmisele küsimusele: mis läks valesti ühise Euroopa raudteeturu loomise protsessi käigus? Teine küsimus on, kuidas saame hoida ära tulevasi õnnetusi kõiki meie käsutuses olevaid vahendeid kasutades? Iga õnnetus on liiast.
+<P>
+Endise raudteetöötajana olen ma neid muutusi ise pealt näinud. Tahan mainida mõningaid probleeme, mis teatud määral ohutusele mõju avaldavad. 1990ndate alguses oleksime pidanud enne raudteede avamist konkurentsile alustama tehnilise ühtlustamisega. Oleksime pidanud lahendama kõik probleemid, millest volinik Kallas rääkis juba 1990ndatel. Turud oleks tohtinud avada konkurentsile ainult tehnilise ühtlustamise alusel. Ettevõtete killustumise tõttu on raudteesüsteemis nüüd palju osapooli, kuid raudteesüsteem toimib korralikult ainult siis, kui seda juhitakse ühtse üksusena. Seepärast vastutavad minu arvates viimaste õnnetuste eest nii liikmesriigid, raudtee-ettevõtted, infrastruktuuride haldajad kui ka komisjon, mis, nagu juba öeldud, kehtestas direktiivid ja määrused ilma vahepealset hinnangut koostamata. Hinnang koostati alles natuke aega tagasi. Raudtee-ettevõtete viga seisnes selles, et need valisid vale strateegia ning ootasid liiga kaua Euroopa süsteemi väljatöötamist. Ettevõtted on üritanud pidevalt kulusid vähendada, võtnud tööle vajalike oskusteta töötajaid, nagu juba mainiti, ning liiga vähe investeerinud.
+<P>
+Tahaksin rõhutada kolme punkti. Rahastamise taset tuleb viivitamatult suurendada, et kiirendada kavandatud uuendamisprogrammi elluviimist.
+<P>
+(Istungi juhataja katkestas sõnavõtu)
+<SPEAKER ID="081" NAME="Silvia-Adriana Ţicău" AFFILIATION="S&amp;D">
+(RO) Üldiselt on raudteetransport maanteetranspordist ohutum, kiirem ja keskkonnasõbralikum. Sellegipoolest sai 2007. aastal raudteeõnnetustes kannatada 2600 inimest ning möödunud aastal toimus rohkem õnnetusi seoses reisi- ja kaubarongidega.
+<P>
+Hiljuti Belgias aset leidnud rongiõnnetus, milles hukkus 20 ja sai kannatada 120 inimest, toob raudteetranspordi ohutuse taas väga šokeerival viisil meie päevakorda. Kahjuks on majandus- ja finantskriis halvendanud nii raudteetranspordi infrastruktuuri operaatorite kui ka haldajate rahalisi raskusi. Suurt muret valmistab asjaolu, et töötajate ja rahaliste vahendite puudus seoses ERTMSi kasutuselevõtmisega võib olla üheks õnnetuse põhjuseks ajal, kui tuhanded raudteetöötajad tööst ilma jäävad. Kutsun liikmesriike ja komisjoni üles võtma kasutusele vajalikke meetmeid, millega oleks võimalik:
+<P>
+1. raudteeinfrastruktuuri ja olemasoleva veeremi uuendamine, et tagada tõhus ja ohutu raudteetransport,
+<P>
+2. anda suurem tähtsus raudteetranspordi ohutuse ja turvalisuse tagamiseks vajalikele investeeringutele ja
+<P>
+3. töötada välja uusi raudteetranspordi infrastruktuure ning rakendada süsteem ERTMS.
+<SPEAKER ID="082" NAME="Antonio Cancian" AFFILIATION="PPE">
+(IT) Austatud juhataja, head kolleegid! Viimased Euroopat vapustanud rongiõnnetused - täna Belgias ja enne seda Itaalias - nõuavad, et pööraksime tähelepanu süsteemis olevatele vigadele ja otsiksime meetmeid, mis on vajalikud teenuste ohutuse tõstmiseks.
+<P>
+Väga hämmastav on mõelda näiteks, et Euroopa Liit võttis juba 2000. aastal kasutusele raudteeliikluse juhtimissüsteemi ERTMS, kuid nüüd 10 aastat hiljem kasutab seda süsteemi ikka ainult paar liikmesriiki.
+<P>
+Isegi praegu on ELis kasutusel üle 20 erineva raudteeliikluse ohutussüsteemi ja on täiesti arusaadav, et see tekitab probleeme just rahvusvahelistel raudteeliinidel.
+<P>
+Raudteeinfrastruktuuri ja veeremi kohandamine tööks Euroopa süsteemis nõuab tõepoolest tehniliste ja majanduslike hinnangute koostamist ning tegevusi, mille eest vastutavad lõpuks siiski raudtee-ettevõtted. Sellele vaatamata peame märkima, et Euroopa õigusaktides ei ole sätestatud tähtaega, milleks riiklikud raudteeliinid peavad olema süsteemis ERTMS töötamiseks kohandatud, ning tänu sellele saavad liikmesriigid määrata ise oma veeremi varustamise vajaduse.
+<P>
+Palju parem oleks näiteks kehtestada ja nõuda kinnipidamist kindlatest tähtaegadest, anda investeeringutega stiimuleid või, veel parem, võtta ära investeeringud neilt, kes infrastruktuuriprojektidest ei lähtu või kes soetavad veeremit, mis ei kasuta vajalikke süsteeme.
+<P>
+Teine argument on, et koostalitlust ja siseturu valmimist ei tohi aeglustada. Meil on olemas sõltumatu riiklik ohutusasutus, mis peab veenduma vajalike ohutussüsteemide kasutuselevõtmises. Tuleb ka sätestada, et enne kasutusloa saamist peab ettevõte saama ohutust kinnitava sertifikaadi.
+<P>
+Lisaks tahan rõhutada, et seoses vaba ühise raudteeturu loomisega tuleb kesksel tasandil tugevdada Euroopa Raudteeagentuuri volitusi.
+<SPEAKER ID="083" NAME="Debora Serracchiani" AFFILIATION="S&amp;D">
+(IT) Austatud juhataja, head kolleegid! Pärast hiljutist Brüsselis aset leidnud raudteeõnnetust, millest paljud kolleegid juba rääkisid, on raudteede ohutus taas tähelepanu keskpunktis.
+<P>
+Üldist raudteede ohutust käsitleva direktiivi 2004/49/EÜ kohaselt vastutavad raudtee-ettevõtted ja infrastruktuuride haldajad täielikult oma süsteemide ohutuse eest.
+<P>
+Belgias aset leidnud õnnetuse põhjuseks näis olevat inimlik viga. Loomulikult peame ootama ära juurdluse tulemused. Tundub siiski, et rongile ei olnud paigaldatud automaatblokeerimissüsteemi.
+<P>
+Kas komisjon teab, millised võrgud ja millised rongid liikmesriikides ei ole selliste ohutusüsteemiga varustatud? Kas komisjon kavatseb esitada õigusloomega seotud ettepaneku, mille kohaselt tuleb kogu Euroopa Liidu raudteevõrk nimetatud süsteemiga varustada?
+<SPEAKER ID="084" NAME="Sławomir Witold Nitras" AFFILIATION="PPE">
+(PL) Austatud juhataja! Soovin kõigepealt avaldada oma kaastunnet ohvrite peredele. Tahan rääkida millestki, mis on minu jaoks väga tähtis ja mida seni veel mainitud ei ole. Meil toimub siin mitmes mõttes väga õigustatud arutelu ning mul on samuti omad selged seisukohad seoses kõne all oleva teemaga. Minu arvates on dereguleeritud turg palju parem kui turg, kus valitsevad riigi omandis olevad ettevõtted, kuid ma tahaksin rääkida millestki, mis on arutelu seisukohalt väga tähtis.
+<P>
+Me ei vaidle mitte ainult selle üle, kas ettevõte on riigi- või eraomandis, oluline on ka see, kas turg on vaba või piiratud ja reguleeritud, mis tähendab tihti, et paljudes liikmesriikides on monopol, mis on ühe ainsa riigi omandis oleva ettevõtte kontrolli all. Raudteesüsteeme on palju ning need ei ole erinevad ainult eri liikmesriikide vahel, vaid tihti on ühes liikmesriigis kasutusel erinevad süsteemid ning need süsteemid moodustavad sageli protektsionistliku administratiivse piiri, mille ainsaks eesmärgiks on monopoolse ettevõtte kaitsmine riiklikul turul. Paljudel juhtudel on teatud seadmed ja vedurid keelatud ainult selleks, et piirata teise riigi konkurendi või konkureeriva eraettevõtte turule sisemise võimalusi. Selle tagajärjeks on paljude erinevate süsteemide kasutuselevõtmine ja ohutusega seotud probleemide esinemine.
+<P>
+Kui vaadata struktuurifondide vahendite eraldamist uute liikmesriikide infrastruktuuriprojektidele, siis on näha, et nendes riikides ei ole raudteeinfrastruktuuride jaoks peaaegu mingeid vahendeid. Haldurid, kes peaksid täitma avaldusi ja taotlema rahalisi vahendeid, ei ole sellest üldse huvitatud. Meil on tegemist mudeliga, milles liikmesriigid ei taha, et nende raudteede juures midagi muutuks, et näiteks teistest riikidest või ettevõtetest tulevatel konkurentidel oleks halb positsioon. Selle tõttu kannatavad lõpuks ohutus ja konkurentsivõime.
+<SPEAKER ID="085" NAME="Ivo Belet" AFFILIATION="PPE">
+(NL) Traagiline rongiõnnetus Buizingenis nõuab meilt kõigilt, kaasa arvatud Euroopalt, juurdluse algatamist. See tragöödia nõudis 18 inimelu ja nende nimel peame oma vigadest kiireimas korras õppima ning kandma hoolt selle eest, et Belgia ja Euroopa raudteed oleksid ohutud.
+<P>
+Nagu me teame ja nagu juba öeldi, ei ole Euroopa süüdi selles, et Belgia ei ole automaatblokeerimissüsteemi veel täielikult kasutusele võtnud. See aga ei tähenda, et Euroopa ei peaks midagi tegema, hoopis vastupidi. Nõuame, et Euroopa Komisjon valmistaks ette hinnangu, mis annaks vastused mitmele spetsiifilisele küsimusele. Nagu teate, on näiteks raudtee-ettevõtted, kaasa arvatud eraettevõtted, kohustatud varustama oma rongid 2013. aastaks täielikult uue Euroopa signalisatsioonisüsteemiga (ETCS), kuid me teame juba, et Euroopa raudteeliinid ei ole selleks ajaks nimetatud süsteemiga varustatud.
+<P>
+Toon näiteks kaks arvu. Hetkel, lugupeetud volinik, on varustatud uue Euroopa signalisatsioonisüsteemiga ainult 2800 kilomeetrit raudteed kogu Euroopas. Ainuüksi Belgia raudteevõrk on oma 3400 kilomeetriga sellest suurem. Seetõttu on selge, et Euroopa ei ole veel valmis ja seetõttu ei suuda meie rongid üldse või siis piisaval määral nende uute signalisatsioonisüsteemidega koos töötada. Seetõttu on vaja põhjalikku hinnangut.
+<P>
+Lugupeetud volinik, tuleb uurida ka seda, kas eelseisev konkurentsi kasv raudtee-ettevõtete vahel võib olla suurendanud survet töötajatele. Kas peaksime äkki kaaluma Euroopa tasandil uute töötundide ja puhkeaegade kehtestamist rongijuhtidele, nagu me seda juba veoautojuhtide puhul tegime? Kokkuvõtteks ütlen, et kõne all olev õnnetus annab Euroopa Liidule kohustuse eneseanalüüsi ja hindamise tegemiseks ning peab olema ka valmidust ja poliitilist tahet vajadusel muudatuste tegemiseks.
+<SPEAKER ID="086" NAME="Michael Cramer" AFFILIATION="Verts/ALE">
+(DE) Austatud juhataja, lugupeetud volinik! Kõne all olevasse kohutavasse õnnetusse oli segatud kaks Belgia raudteede riigiettevõtte SNCB vedurit, mis sõitsid riigi raudteevõrgus. Belgias puudub raudtee reisijateveo turul konkurents. Seega ei ole asjal mingit seost konkurentsi või võrgu avamisega, vaid ainult mitterahuldavate ohutusstandarditega. Mathieu Grosch mainis juba, et tehnoloogia, millega saab rongi automaatselt pidurdada, kui see punasest signaaltulest mööda sõidab, on juba 20 aastat kasutuses. Küsimus seisneb selles, miks see paigaldatud ei olnud?
+<P>
+Samuti ei ole juhtum üldsegi seotud Euroopa raudteeliikluse juhtimissüsteemiga (ERTMS). Ma olin isiklikult ERTMSi käsitleva raporti koostaja. Süsteem annab hea väljavaate tulevikuks, kuid see ei vabasta liikmesriike veel vastutusest võtta kasutusele ohutusmeetmeid, mis on juba olemas riiklikul tasandil. See on iga riigi oma vastutus.
+<P>
+Seetõttu peame küsima, miks ei investeerinud Belgia sellesse ohutussüsteemi viimase 20 aasta jooksul? Kui nad oleksid ehitanud vaid üheainsama kahe või kolme kilomeetri jagu lühema autotee, siis oleks neil olnud juba olemas kaks või kolm korda nii palju raha, kui nende ohutussüsteemide paigaldamiseks kulunud oleks. See ei olnud esimene kord, kus rong punasest tulest mööda sõitis. See oli lihtsalt esimene kord, kus see kohutava õnnetusega lõppes.
+<SPEAKER ID="087" NAME="Siim Kallas">
+komisjoni asepresident. - Austatud juhataja! Loomulikult moodustab arutelu seoses traagilise rongiõnnetusega Belgias osa meie üldistest aruteludest seoses raudteede ohutusega ja transpordi arendamisega Euroopas. Komisjon valmistab ette valget raamatut transpordi tuleviku kohta, milles kaalutakse põhjalikult ohutuse ja turvalisusega seotud aspekte kõikide transpordiliikide ulatuses, mille sekka kuulub ka raudteetransport, mis on siiani kõige ohutum transpordiviis, nagu seda ka mitmes sõnavõtus mainiti.
+<P>
+Väga tähtis on nüüd arutleda ka raudteepaketi teemal - selle esimese ümbersõnastamise teemal - ning kindlasti me tegeleme selle küsimusega ja kaalume seda.
+<P>
+Tahaksin teha nüüd mõned faktilised märkused. Euroopa raudteeliikluse juhtimissüsteem (ERTMS) töötati välja meie raudteede koostalitlemise võimaldamiseks. Loomulikult on tegemist väga hea süsteemiga, milles on mitmeid tõsiseid ohutuselemente. Sellele vaatamata on ohutuse tagamine liikmesriikide kohustus, olenemata sellest, millist süsteemi kasutatakse. ERTMS aga areneb väga hästi.
+<P>
+Ka üleeuroopalise transpordivõrgu (TEN-T) teemal toimub varsti arutelu. See projekt käsitleb raudteeliikluse juhtimissüsteemi rakendamist. 2020. aastaks on süsteem kasutuses 20 000 kilomeetril Euroopa raudteedest, kaasa arvatud Belgias.
+<P>
+Projektiga tegeletakse pidevalt, kuid raudteede puhul võtavad asjad kauem aega ja investeeringud on suured ning 85% võrgustiku TEN-T rahast kasutatakse just nimelt raudteede täiustamiseks, mille hulka kuulub ka ERTMS. Loomulikult oleks mul hea meel, kui saaksime Euroopa Parlamendi toetusega suurendada investeeringuid transpordivõrkudesse. See oleks väga oluline.
+<P>
+Alati on oluline ka muidugi inimtegur. Ohutusstandarditest rääkides on üks kindel standard, nimelt punane tuli, mis tähendab, et tuleb peatuda. See standard on olnud kasutusel juba alates 19. sajandist. Kui me nüüd ütleme, et võtame kasutusele 100% kindla pidurdussüsteemi, mis inimlikud vead välistab, siis see ei ole tõsi. Alati on väike võimalus, et esineb mõni inimlik viga. Inimeste vastutus on väga tähtis.
+<P>
+Tahan teha veel ühe märkuse seoses liberaliseerimise ja avalike teenustega: need on kaks eri asja. Isegi liberaliseerimise raames ei keela mitte keegi riigil heade avalike teenuste pakkumist. Euroopa eeskirjad lubavad anda toetust ja seda lubab ka riik ning liberaliseerimine ei välista hea kvaliteediga avalike teenuste pakkumist.
+<SPEAKER ID="088" NAME="Juhataja">
+Arutelu on lõppenud.
+<P>
+Kirjalikud avaldused (kodukorra artikkel 149)
+<SPEAKER ID="089" NAME="Herbert Dorfmann  " AFFILIATION="PPE">
+kirjalikult. - (DE) Traagiline rongiõnnetus Belgias juhtis avalikkuse tähelepanu raudteede ohutusele. Veeremi ohutust on vaja parandada ning täiustamist vajab ka signalisatsioonisüsteemi ohutus. Euroopa raudteedel sõidab näiteks eriti palju vananenud kaubavaguneid. Selle võimalikke tagajärgi näitas eriti hästi möödunud aastal Itaalias juhtunud õnnetus. Kahjuks ei ole EL teinud siiani eriti palju, et kohustada kaubarongide operaatoreid viima oma veeremit vastavusse vastuvõetava ohutusstandardiga. Tähtis on pidada meeles, et raudteel transporditakse ka ohtlikke kaupu, millel võivad olla õnnetuse korral katastroofilised tagajärjed. Selle taustal nõuan ma raudteede jaoks rangemaid ohutusstandardeid!
+<SPEAKER ID="090" NAME="Bruno Gollnisch  " AFFILIATION="NI">
+kirjalikult. - (FR) Belgias toimunud kahetsusväärse tragöödia põhjuseks on kahtlemata selle riigi omapärad, nagu paljud flaami päritolu kaasparlamendiliikmed täna juba rõhutasid. Juurdluse käigus tuleb nüüd tuvastada, millisel määral need omapärad tragöödia eest vastutavad olid.
+<P>
+Sellegipoolest oli õnnetusel üks kindel peamine põhjus: raudteetranspordi liberaliseerimine ja raudteevõrgustiku haldamise eraldamine raudteetranspordi haldamisest. Seetõttu toodi raudteevõrk ning selle kvaliteet ja ohutus ohvriks transpordiettevõtete kasumi nimel, mille arvates on neile kehtestatud maksud liiga kõrged. Samamoodi tuuakse ohvriks ka rongide väljavahetamine ja uuendamine. Tänapäeval lähtuvad teenuste ajakavad ja nende osutamise tihedus kasumi saamise põhimõtetest, mitte tarbijate vajadustest. Vaatamata sellele, et inimesed neid tihti kasutatavad, lõpetatakse mõnede liinide kasutamine, sest need ei anna piisavalt suur kasumit. Samas kasutatakse ikka veel liine, mida terve mõistuse kohaselt enam kasutada ei tohiks. Viivitused on juba igapäevane nähtus, seda isegi TGV-teenuste puhul.
+<P>
+Teie liberaalses süsteemis ei hinnata eriti rongi kasutavaid kliente. Nad on kasutajad ja maksumaksjad, keda võib kohelda nagu kariloomi. Nagu kõigi teiste tegevusvaldkondadega, mida te liberaliseerinud olete, nii maksame me ka raudteetranspordi puhul üha enam teenuse eest, mille kvaliteet pidevalt langeb ning mis kahjuks ka üha ohtlikumaks muutub.
+<SPEAKER ID="091" NAME="Marian-Jean Marinescu  " AFFILIATION="PPE">
+kirjalikult. - (RO) Brüsselis aset leidnud traagilise rongiõnnetuse taustal oleme taas sunnitud tegelema probleemiga, et liikmesriigid ei ole ikka veel oma raudteede ohutuse süsteeme harmoniseerinud, olgugi et direktiiviga 2004/49/EÜ on sätestatud ühised standardid ohutusnäitajate jaoks ning et direktiiv täidab ka üldiselt kõik ohutusnõuded, kaasa arvatud nõuded seoses infrastruktuuri ja liikluse haldamisega. Suurim probleem on tegelikult seotud ainult rahaga, kuna raudteeinfrastruktuuri ja veeremi, kaasa arvatud signalisatsioonisüsteemi, kasutusiga on väga pikk, siis oleks nendes tingimustes liikmesriikide jaoks hea vaadata kriisist hoolimata kaugemale raha küsimusest ning kaaluda koostalitlevate süsteemide kasutuselevõtmise kiirendamist ja investeerida rohkem raudteeinfrastruktuuri ning infrastruktuuri ja veeremi jaoks ette nähtud signalisatsioonisüsteemidesse.
+<P>
+Veeremi ning raudteeinfrastruktuuri saneerimise ja uuendamise arvelt kokkuhoidmine, nagu antud juhulgi, viib kahjuks traagiliste õnnetusteni, mille kaotused ei ole ainult majanduslikud ja rahalised, vaid mille hind on ka inimeludes väga kõrge. See on vastuvõetamatu! Soovin avaldada oma südamlikku kaastunnet kannatanute peredele praegusel raskel ajal ning loodan, et selline tragöödia ei kordu enam kunagi!
+<P>
+(Istung katkestati kell 11.25 ja jätkus kell 11.30)

@@ -1,0 +1,10 @@
+<CHAPTER ID="011">
+Composição do Parlamento
+<SPEAKER ID="242" NAME="Presidente">
+Senhoras e Senhores Deputados, as autoridades irlandesas competentes informaram-me sobre a designação do Sr. Colm Burke como deputado ao Parlamento Europeu, em substituição do Sr. Simon Coveney, com efeitos a partir de hoje, 19 de Junho de 2007. Permitam-me que dê ao Sr. Burke as boas-vindas ao Parlamento Europeu. Desejamos que o seu trabalho lhe dê grandes satisfações.
+<SPEAKER ID="243" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+(EN) Senhor Presidente, gostaria de me juntar a V. Exa. nas boas-vindas ao senhor deputado Colm, que vem substituir o nosso colega Simon Coveney que foi eleito para o Parlamento irlandês. Aproveito esta ocasião para desejar a Simon que seja bem sucedido no seu futuro na política nacional. Temos um excelente substituto na pessoa de Colm Burke, também de Cork South, o círculo eleitoral de Simon.
+<SPEAKER ID="244" NAME="Presidente">
+Muito obrigado, Senhora Deputada Doyle. Com os seus bons votos, tem de ser bem sucedido!
+<SPEAKER ID="245" NAME="Presidente">
+Nos termos do nº 2 do artigo 3º do Regimento, enquanto os seus poderes não tiverem sido verificados ou não tiver havido decisão sobre uma eventual impugnação, o Sr. Burke terá assento no Parlamento e nos respectivos órgãos no pleno gozo dos seus direitos, desde que tenha declarado por escrito que não exerce quaisquer funções incompatíveis com o mandato de deputado ao Parlamento Europeu.

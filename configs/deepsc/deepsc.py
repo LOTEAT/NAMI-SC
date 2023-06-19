@@ -10,7 +10,7 @@ method = 'deepsc'
 optimizer = dict(type='Adam', lr=5e-4, betas=(0.9, 0.999))
 optimizer_config = dict(grad_clip=None)
 
-max_iters = 20
+max_epochs = 100
 lr_config = dict(policy='step', step=500 * 1000, gamma=0.1, by_epoch=False)
 checkpoint_config = dict(interval=5, by_epoch=False)
 log_level = 'INFO'
@@ -27,12 +27,6 @@ train_hooks = [
          variables=dict(valset='valset')),
     dict(type='ValidateHook',
          params=dict(save_folder='visualizations/validation')),
-    dict(type='SaveSpiralHook',
-         params=dict(save_folder='visualizations/spiral')),
-    dict(type='PassIterHook', params=dict()),  # 将当前iter数告诉dataset
-    dict(type='OccupationHook',
-         params=dict()),  # no need for open-source vision
-    # dict(type='SaveDistillResultsHook', params=dict(), variables=dict(model='network', cfg='cfg', trainset='trainset')), # kilo示例
 ]
 
 test_hooks = [

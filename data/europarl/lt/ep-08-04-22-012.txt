@@ -1,0 +1,262 @@
+<CHAPTER ID="012">
+Europos palydovinės radijo navigacijos programos (EGNOS ir GALILEO) (diskusijos) 
+<SPEAKER ID="299" NAME="Pirmininkas">
+Kitas darbotvarkės punktas - Pramonės, mokslinių tyrimų ir energetikos komiteto vardu ponios Barsi-Pataky pateiktas pranešimas dėl iš dalies pakeisto pasiūlymo dėl Europos parlamento ir Tarybos reglamento dėl tolesnio Europos palydovinės radijo navigacijos programų (EGNOS ir GALILEO) įgyvendinimo - C6-0345/2007 -.
+<SPEAKER ID="300" NAME="Radovan Žerjav">
+Tarybos Pirmininkas. - (SL) Džiaugiuosi, kad šiandien kartu su Jumis dalyvauji šiame plenariniame posėdyje, skirtame diskusijoms dėl "Galileo" reglamento įgyvendinimo.
+<P>
+Visi labai puikiai suprantame "Galileo" programos ir EGNOS geostrateginę ir ekonominę reikšmę Europos Sąjungai. Tačiau prieš pradedant nagrinėti pateiktą tekstą, leiskite trumpai paminėti su šiomis dviem programomis susijusius pastarųjų metų lemiamus įvykus.
+<P>
+Vokietijos pirmininkavimo laikotarpiu 2007 m. birželį Taryba pritardrąsiam pasiūlymui nutraukti sėkmingai vykusias derybas dėl lengvatų. Po šios iniciatyvos buvo paskelbta Europos Parlamento rezoliucija, tvirtai remianti tolesnį šių dviejų programų įgyvendinimą, globojant Europos Sąjungai, ir nedviprasmiškai raginanti užtikrinti visą finansavimą iš Europos Sąjungos biudžeto.
+<P>
+Kai vėliau, 2007 m. rugsėjį, Komisija pateikpaketą pasiūlymų, skirtų užtikrinti projektams 100 % valstybinio sektoriaus finansavimą, vienas iš pasiūlymų buvo priimti reglamentą dėl įgyvendinimo. Pernai lapkritį pasiekto ECOFIN Tarybos ir Europos Parlamento susitarimo dėl rezoliucijos, bei dėl bendro sprendimo, kurį po savaitės patvirtino TTE Taryba, numatančio "Galileo" plėtros perspektyvas, mums pavyko abi šias programas ištraukti iš akligatvio ir sugrąžinti į viešąją erdvę.
+<P>
+Džiaugiuosi, kad ieškodamos kompromiso dėl teisinio pagrindo, kuriuo būtų galima įgyvendinti visą "Galileo" projektą, visos trys institucijos konstruktyviai bendradarbiavo. Ypač noriu padėkoti pranešėjai poniai Barsi-Pataky, taip pat ITRE komiteto pirmininkei poniai Angelika Niebler. Pirmininkaujančioji valstybSlovėnija didžiuojasi, kad skyrvisas būtinas pastangas, kad susitarimas būtų pasiektas šio klausimo pirmojo svarstymo metu.
+<P>
+Manau, kad mūsų derybų rezultatas yra subalansuotas tekstas. Mums pateiktas tekstas nustato biudžetą, kuris reikalingas programos įgyvendinti 2007-2013 m,. laikotarpiu, taip pat GNSS programų valdymo ir įgyvendinimo tvarką, apimančią viešųjų pirkimų principus ir struktūrą. Visi prisiėmėme Europos Parlamento, kaip biudžetą formuojančios institucijos, atsakomybę prieš piliečius.
+<P>
+Siekdami palengvinti kiekvienos su šiomis programomis susijusios užduoties įvykdymą, sudarėme tarpinstitucinį komitetą "Galileo" reikalams. Šis komitetas stebės šių programų, su jomis susijusių tarptautinių sutarčių ir rinkų parengimo įgyvendinimo pažangą, valdymo struktūros efektyvumą bei atliks metines programų apžvalgas.
+<P>
+Pone Pirmininke, ponios ir ponai, manau nereikia atskirai akcentuoti Europos palydovinės navigacijos programų vaidmens, kuriant naujas darbo vietas ir didinant Europos konkurencingumą. Šios dvi programos visiškai atitinka Lisabonos strategijos ir kitų Bendrijos strategijų nuostatas, jos sudarys mums galimybę plėtoti ir saugoti Europos technines žinias, ypač taikomųjų programų srities, ir taip teiks tiesioginės naudos mūsų piliečiams.
+<P>
+Noriu padėkoti visiems už dėmesį, o ypač už Jūsų konstruktyvų bendradarbiavimą, įgyvendinant šį svarbų Europinį projektą.
+<SPEAKER ID="302" NAME="Jacques Barrot">
+Komisijos Pirmininko pavaduotojas. - (FR) Pone Pirmininke, Ministre, ponios ir ponai, akivaizdu, kad ši sesijos dalis yra labai svarbi. Manau, kad visi kartu galime pasveikinti save su tuo, kad "Galileo" pagaliau tapo dideliu Europiniu projektu, kurį įmanoma įgyvendinti.
+<P>
+2007 m. lapkričio pabaigoje buvo priimti du reikšmingi politiniai sprendimai, palankūs šiam svarbiam Europos projektui. Nuo to laiko Europos Parlamentas ir Taryba, suprasdami būtinybę skubiai priimti reglamentus dėl EGNOS ir "Galileo" programų tęstinumo, išnagrinėjo Komisijos pasiūlymą, siekdami priimti juos pirmo svarstymo metu.
+<P>
+Noriu pareikšti pagarbą šioms trims institucijoms, ypač Parlamentui, už konstruktyvų darbą. Kiekvienos iš jų atskirai bei dėl bendrų pastangų mums pavyko pasiekti milžiniškos pažangos, plėtojant įvairius trišalius dialogus, todėl šiandieninis reglamento projektas yra priimtinas Parlamentui, Tarybai ir Komisijai. Ministre, Jums vadovaujant Taryba savo 2008 m. balandžio 7 d. posėdyje iš esmės palaikšį projektą. Todėl, ponios ir ponai, labai svarbu, kad Parlamentas šiandien taip pat pareikštų savo paramą.
+<P>
+Galiu patvirtinti, kad šiame pasiūlyme numatytas programų finansavimas griežtai atitinka 2007 m. lapkritį Europos Parlamento ir Tarybos sudaryto susitarimo dėl biudžeto nuostatas. Noriu dar kartą nuoširdžiai padėkoti Europos Parlamentui už jo svarbų vaidmenį, siekiant šio rezultato. Tekstas taip pat nustato priimtiną šių programų valdymo tvarką. Siūlomas griežtas užduočių pasidalijimas tarp Komisijos, priežiūros institucijos ir Europos kosmoso agentūros; Komisijai suteikiamas savininko, o Europos kosmoso agentūrai - vadovo vaidmuo.
+<P>
+Būsimas reglamentas taip pat reglamentuoja sistemų saugos ir saugumo klausimus. Šis programų aspektas, turintis esminės reikšmės, anksčiau nebuvo taip aiškiai ir tinkamai išnagrinėtas. Nuo šiol Komisija užtikrins, kad programos valdymui būtų nuolat teikiama vertinga valstybių narių pagalba, nes jos turi su šiuo klausimu susijusios reikiamos patirties
+<P>
+Galiu patvirtinti, kad "Galileo" infrastruktūra sukurta atlikti penkias funkcijas, kurių apibūdinimas pateiktas būsimo reglamento priede. Saugumo klausimą reglamentuojančios teksto nuostatos nesusiaurina šio priedo taikymo srities. Norint priimti bet kurių pakeitimų, galinčių turėti įtakos "Galileo" programos civilinei prigimčiai, būtina peržiūrėti visą reglamentą. Atsižvelgėme į pirkimų politikos klausimo reikšmę. Privalome įvertinti kiekvienos valstybės narės suinteresuotų pramonei atstovaujančių šalių kompetencijas, ir tuo pat metu - žinoma, užtikrindami sąžiningą konkurenciją, apriboti su tuo susijusias pertekliaus ir vėlavimo rizikas.
+<P>
+Dėl nuosavybės pasidalijimo tarp trijų Bendrijos institucijų: reglamentas nustato, kad visas materialus ir nematerialus turtas, sukurtas plėtojant "EGNOS" ir "Galileo" programas, vienintelio savininko teisėmis priklauso Europos Bendrijai.
+<P>
+Galiausiai, su komiteto procedūra ir konkrečiu teisiniu pagrindu susijusios reglamento nuostatos skirtos patenkinti Parlamento pageidavimą periodiškai gauti informaciją apie programų įgyvendinimo pažangą. Atsižvelgiant į Parlamentui iki šiol tekusį vaidmenį, yra aiškiai pageidautina ir net būtina, kad Parlamentas, kaip biudžeto valdymo institucija, būtų artimai susijęs su šios programos ateitimi. Greitas siūlomo teksto priėmimas būtų pirma šių programų valdymo reformos dalis. Komisija turėtų pateikti pasiūlymą pakeisti reglamento nuostatas dėl Europos GNSS programų valdymo struktūros. Remdamiesi tekstu, kurį Jūs suderinsite su Taryba, mes pritaikysime šį reglamentą, atsižvelgdami į naujus įgaliojimus ir priežiūros funkcijas. Aš asmeniškai pasirūpinsiu, kad Parlamentas aktyviai dalyvautų šiame antrajame valdymo reformos etape.
+<P>
+Ministre, ponios ir ponai, tikimės, kad paremsite "Galileo" programą ir atversite kelią efektyviam ir sparčiam šio didžiulio Bendrijos projekto įgyvendinimui. Per artimiausius keletą mėnesių turėsime galimybę susipažinti su daugybe "Galileo" paraiškų, ir Komisija pristatys su jomis susijusį veiksmų planą. Tačiau norint, kad tos paraiškos taptų tikrove, būtina, kad "Galileo" materializuotųsi. Pone Pirmininke, manau, kad dėl Europos Parlamento bei Portugalijos ir Slovėnijos pirmininkavimo "Galileo" turi visas galimybes tapti sėkmingu projektu.
+<SPEAKER ID="303" NAME="Etelka Barsi-Pataky">
+pranešėja. - (HU) Pone Pirmininke, Tarybos Pirmininke, Ministre Žerjav, Pirmininko pavaduotojau Barrot, ponios ir ponai. Nuo pat "Galileo" programos įgyvendinimo pradžios Europos Parlamentas jai nuolat teikteigiamą paramą. 2007 m. lapkritį Europos Parlamentas žengdrąsų žingsnį ir pajudino šią programą iš stagnacijos būsenos, o gruodį partvirtino GNSS programų plėtros finansavimą pakoreguoto Bendrijos biudžeto lėšomis.
+<P>
+Po sėkmingo neformalaus trišalio dialogo pirmojo svarstymo metu, šiuo metu nagrinėjame reglamentą dėl "Galileo" ir EGNOS GNSS programų įgyvendinimo. Visas finansavimas bus teikiamas iš Bendrijos biudžeto, todėl būtina užtikrinti ypatingą atsakomybę prieš Europos mokesčių mokėtojus ir su tuo susijusį kruopštų reguliavimą. Ypač tai taikoma finansavimui, vadovavimui programai, viešųjų pirkimų procedūroms ir saugumui. Per pastaruosius kelerius metus išsprendėme daug iškilusių problemų ir labai daug ko išmokome. Kurdami reglamentus, mes taip pat žengiame visiškai nauju keliu, galima sakyti, žymime taką, nes tai pirmas bendromis jėgomis kuriamas bendras Europos infrastruktūros elementas, kurio savininkyra Bendrija.
+<P>
+Dėl finansavimo: Europos Parlamentas pripažįsta, kad programos kūrimo išlaidos siekia 3,4 milijardų eurų, jų apmokėjimą garantavo biudžeto sudarymo institucijos. Komisijai taip pat bus pateiktas prašymas iki 2010 m. pateikti pasiūlymą dėl finansavimo po 2013 m., ypač dėl bendros nuosavybės įsipareigojimų. Prašau atkreipti dėmesį, kad grafiko laikymasis ir tolesnio vėlavimo išvengimas turi esminės reikšmės, siekiant užtikrinti programų finansinę sėkmę.
+<P>
+Kainų nustatymo politika bus formuojama, atlikus panaudojimo etapo išsamią analizę, įvertinant tai, kad vartotojai gaus geros kokybės paslaugą. Programos valdymo struktūra aiškiai užtikrins bendrą vadovavimą. Komisija bus atsakinga už programos įgyvendinimą ir programos valdymą, taikant komiteto procedūras, jai padės Programinis komitetas. Pagrindinio rangovo funkciją atlieka Europos kosmoso agentūra (EKA); būtina pabrėžti, kad Komisijos ir EKA sutartis bus programos sėkmės užtikrinimo garantija. Po ilgų diskusijų priimtas sprendimas, kad programos saugumo priežiūros funkciją atliks GSA (Europos GNSS priežiūros agentūra).
+<P>
+Europos Parlamentas, Taryba ir komitetas pripažįsta, jog siekiant užtikrinti programos sėkmę, būtina rasti naujų bendradarbiavimo formų. Atsižvelgdami į priede pateiktą deklaraciją, ateityje mes kiekvieną ketvirtį bendrai aptarsime programos įgyvendinimo pažangą tarpžinybinėje grupėje, o darbų programa kasmet bus peržiūrima. Viešųjų pirkimų procedūrą reglamentuojančios taisyklės buvo svarbi lapkričio mėn. pateikto pranešimo dalis, o pagrindiniai elementai buvo perkelti į Tarybos pasiūlymą. Visiškai jiems pritariame. "Galileo" programą mes siejame su naujų technologijų, plėtros bei naujų verslo ir darbo galimybių viltimis, ir ypač pabrėžiame galimybes, kurios atsiveria visų 27 valstybių narių mažoms ir vidutinėms įmonėms. Šios taisyklės numato šias galimybes.
+<P>
+Parlamento derybų delegacija, kuriai vadovavo Pramonės, mokslinių tyrimų ir energetikos komiteto pirmininkAngelika Niebler, dalyvaujant šešėliniams pranešėjams bei savo nuomones pateikusių komitetų atstovams, neformalaus trišalio dialogo metu Pramonės, mokslinių tyrimų ir energetikos komitetui pateikpirmajame svarstyme patvirtintą tekstą. Pramonės, mokslinių tyrimų ir energetikos komitetas jį vienbalsiai patvirtino. Dabar šias taisykles plenarinio posėdžio metu pateikiame Europos Parlamentui. Galiausiai, esu dėkinga Pirmininkaujančiai valstybei Slovėnijai už jos atsidavimą šiai programai, Komisijai - už jos kvalifikuotą darbą, bei mano kolegoms - už paramą, kuri leido pasiekti šį susitarimą. Ačiū.
+<SPEAKER ID="304" NAME="Margaritis Schinas" LANGUAGE="EL">
+Pone Pirmininke, Biudžetų komiteto vardu leiskite pareikšti pasitenkinimą mūsų pasiektu rezultatu. Žinoma, tai panašu į anomaliją: dažniausiai prašoma, kad Biudžetų komitetas surastų lėšų konkrečiai programai, o šį kartą viskas buvo priešingai. Mes radome pinigų, o vėliau bandėme nustatyti programos struktūrą. Po beveik 40 dienų trukusių derybų su Taryba, mums pagaliau pavyko.
+<P>
+Mano nuomone, galutinis "Galileo" patvirtinimas parodo tris svarbius faktus. Pirma, kai Europa kaltinama ambicijų neturėjimu ir suirute, mūsų noras rasti išteklių šiam technologiniu požiūriu ambicingam planui įgyvendinti parodo, kad ES pajėgi duoti tvirtą atsaką kritikams, kai kalbama apie naudą piliečiams ir verslui.
+<P>
+Antra, kaip pažymėjo Komisaras Barrot, be Europos Parlamento paramos, "Galileo" nebūtų. Europos Parlamentas atliko lemiamą vaidmenį derantis su Taryba dėl išteklių, ypač po to, kai, priešingai nei buvo anksčiau žadėjęs, privatus sektorius nesugebėjo garantuoti lėšų
+<P>
+Trečias ir paskutinis faktas yra tai, kad dabar mes turime programą, visiškai finansuojamą Bendrijos lėšomis. Visos šios programos įgyvendinimo lėšos ateina iš Europos mokesčių mokėtojų, todėl Europos Parlamentui ir programos vadovams - Europos Komisijai, EKA ir "Galileo" priežiūros institucijai tenka ypatinga atsakomybė.
+<P>
+Mes nevengsime šios atsakomybės. Iki 2013 m. mes labai atidžiai stebėsime šios programos valdymą. Kalbama apie labai dideles sumas, todėl mūsų atsakomybreikalauja ypač daug pastangų.
+<P>
+Labai Jums dėkoju ir sveikinu visus, kurie dirbo, siekiant šio labai gero rezultato.
+<SPEAKER ID="305" NAME="Anne E. Jensen">
+Transporto ir turizmo komiteto nuomonės sudarytoja. - (DA) Pone Pirmininke, kaip Transporto ir turizmo komiteto nuomonės sudarytoja taip pat noriu pareikšti, jog esu labai patenkinta šiandien mūsų pasiektu rezultatu. Ateityje "Galileo" užtikrins efektyvesnį, saugesnį ir aplinkai palankesnį transportą. Ši sistema pagerins visų transporto rūšių - kelių, geležinkelių, oro ir jūros, valdymą ir kontrolę. Ji bus naudinga privačioms įmonėms, valdžios institucijoms bei teiks geresnę informaciją mums, kaip piliečiams.
+<P>
+Dažnai žmonės klausia: kam mums reikalingas "Galileo", kai jau yra "GPS"? Tačiau "GPS" mes naudojamės tik panaudos teisėmis. ES nekontroliuoja šios technologijos; palydovinnavigacija tampa labai svarbi mūsų visuomenei, todėl ES turi turėti nuosavą infrastruktūrą ir gilių žinių bei patirties. Dabar šiuos 3,5 milijardų Europos mokesčių mokėtojų eurų siunčiame į kosmosą įgyvendinti "Galileo" programos, todėl privalome užtikrinti, kad ji leis pasiekti norimus rezultatus. Todėl svarbu, kad Parlamentas turėtų įtakos būsimiems procesams.
+<P>
+Noriu padėkoti poniai Barsi-Pataky už puikų bendradarbiavimą, rengiant šį pranešimą. Taip pat noriu padėkoti ponui Schinas bei Pramonės, mokslinių tyrimų ir energetikos komiteto Pirmininkei poniai Niebler už jų gerą bendradarbiavimą, ir už tai, kad derybų metu veikėme kaip komanda. Taip pat noriu padėkoti Komisarui Barrot už jo įnašą, baigiant derinti paskutines detales. Galiausiai, noriu pasveikinti Pirmininkaujančią valstybę Slovėniją už puikius rezultatus, kuriuos mums pavyko pasiekti.
+<SPEAKER ID="306" NAME="Angelika Niebler" LANGUAGE="DE">
+Pone Pirmininke, Tarybos Pirmininke, Komisare, ponios ir ponai, šiandien Europai yra gera diena. Mes uždegame žalią šviesą vienam svarbiausių ES projektų - "Galileo" palydovinei navigacijos sistemai. Kaip ir ankstesnis kalbėtojas, pirmiausia noriu pasakyti nuoširdų ačiū mūsų pranešėjai, poniai Barsi-Pataky, bei Biudžetų komiteto ir Transporto ir turizmo komiteto nariams už jų puikų bendradarbiavimą. Manau, kad mes, kaip Parlamentas, labai puikiai bendradarbiavome šiuo klausimu ir kartu su Taryba ir Komisija pasiekėme tikrai gerą rezultatą.
+<P>
+Klausimas, ar mums reikalinga Europinpalydovinnavigacijos sistema, buvo nagrinėtas įvairiomis progomis. Ponas Jensen šį klausimą jau aptarė. Mes vis dar naudojame amerikietiškąją GPS, rusai turi GLONASS, kinai taip pat kažką kuria. Tai rodo, kad mes taip pat turime investuoti į nuosavos Europietiškos palydovinės navigacijos sistemos kūrimą. Privalome Europoje turėti šią technologiją.
+<P>
+Šių techninių žinių mums reikia tam, kad galėtume Europoje savarankiškai kurti tokias sistemas, taip pat turime padaryti gerą darbą mūsų vidutinių bei mažų ir vidutinių įmonių savininkams, kurie, sukūrus infrastruktūrą, galės naudotis jos teikiama nauda, kurdami įvairiems sektoriams skirtas taikomąsias programas, apie kurias šiandien dar daug negalvojame: logistikos sektoriaus, krovinių gabenimo sausumo keliais, jūrų, geležinkelių ir oro transporto pervežimų sektorių bei saugumo sektoriaus. Pritaikymo galimybių yra labai daug, ir aš tikiuosi, kad šiandien mūsų mažų ir vidutinių įmonių savininkų vardu mes esame atlikę gerą parengiamąjį darbą.
+<P>
+"Galileo" turi ilgą istoriją. Nenoriu jos kartoti; tik noriu pabrėžti, kad Parlamentas visą laiką rėm"Galileo" projektą. Pernai mes pasirūpinome finansavimu Europos mokesčių įplaukų lėšomis, o rytojaus balsavimas bus svarbus įnašas, užtikrinant sklandų projekto valdymą, garantuojant, kad valdymo proceso schema būtų skaidri, ir kad Parlamentas, veikdamas Europos įstatymų bendraautoriaus teisėmis, dalyvautų tolesnėje šio projekto raidoje ir valdyme.
+<SPEAKER ID="307" NAME="Norbert Glante" LANGUAGE="DE">
+Pone Pirmininke, Komisare, "Galileo" taip pat būtų galima pavadinti "Nesibaigiančia istorija". Manau, kad po šiandieninių diskusijų ir rytojaus balsavimo šis pavadinimas nebetiks. Nesibaigianti istorija dabar tampa tikrove.
+<P>
+Noriu atskirai padėkoti poniai Barsi-Pataky už jos naudingą bendradarbiavimą ne tik trišalių derybų metu, bet ir visus pastaruosius metus. Jis visada buvo sąžiningas partneris, ir mes esame pasiekę protingų ir gerų kompromisų. Žinoma, taip pat dėkoju Pirmininkaujančiajai valstybei, ypač - Pirmininkaujančiosios valstybės atstovei, kuri dalyvavo penkiose trišalėse derybose su mumis. Ji yra labai kompetentinga ir atsidavusi moteris, kuriai, manau, paprasčiausiai nepavyko pasiekti kompromisinio sprendimo su Taryba; dabar jau saugu tai sakyti.
+<P>
+Mano grup- Europos Parlamento socialistai, visada palaik"Galileo" projektą ir dabar taip pat remiame pasiektą rezultatą. Galiu Jus užtikrinti, kad rytoj balsavimo metu mūsų grupvieningai balsuos už šį rezultatą. Taip pat turime užfiksuoti faktą - dar kartą prašau tai užfiksuoti, ir tai neturi būti įrašyta Protokole, kad kai kurie Vokietijos atstovai turėjo vadovauti kovai su savo pačių vyriausybe, kad šis klausimas pajudėtų. Ponia Niebler šypsosi, nes ji žino, apie ką kalbu.
+<P>
+Šiuo reglamentu mes sugebėjome nustatyti aiškias struktūras bei aiškų Komisijos, Priežiūros institucijos ir EKA pareigų pasiskirstymą. Sudaryta Tarpžinybingrupė, kurios padedami Europos Parlamentas, Taryba ir Komisija stebėjo šios projekto įgyvendinimo pažangą. Iki 2013 m. kasmet vyks keturi susitikimai; taip pat planuojame laikytis nustatyto 2013 m. termino bei neviršyti 3,4 milijardų eurų biudžeto, nes priešingu atveju taps sunku ginčytis.
+<P>
+Kaip ką tik pažymėjo mano kolegParlamento narponia Niebler, "Galileo" - tai ne tik palydovinnavigacijos sistema, kuri gal būt suteikia kai kuriems piliečiams galimybę greičiau pasiekti norimą vietą. "Galileo" - tai svarbus Europos technologinis projektas, todėl mes turime palaikyti mūsų techninės žinias astronautikos, navigacijos technologijos ir elektronikos srityse. Štai kodėl taip svarbu čia įgyvendinti šį projektą.
+<P>
+Dabar ypač svarbu, kad Komisija iki vasaros užbaigtų konkursų skelbimo procedūrą. Tai bus labai sudėtingas uždavinys. Tai bus lemiamas sprendimas. Turime suteikti pramonei antrą galimybę, o pramonturi pasinaudoti šia antra galimybe. Tikiuosi, kad pramonės atstovai supranta, kas jų laukia. Mes negalime sau leisti antros nesėkmės dėl pramonei iškylančių sunkumų. Man labai rūpi šis pasiūlymas, šios Komisijos veiksmų planas, o ypač - finansinperspektyva nuo 2014 m.
+<P>
+Baigdamas noriu paprašyti, kad visi dar kartą patvirtintume: PPP nėra visiškai žlugęs reikalas. Nuo 2013/2014 m. mes vėl galėsime taikyti PPP, naudodami šį modelį. Nesu linkęs dabar visiškai nurašyti PPP.
+<SPEAKER ID="308" NAME="Anne Laperrouze" LANGUAGE="FR">
+Ministre, Komisare, pranešėja, ponios ir ponai, kosmoso erdvės srities ekspertams "Galileo" pavadinimas gali asocijuotis ne tik su italų astronomu, bet ir su JAV erdvės zondu, kurį NASA sukūrtyrinėti Jupiterį ir jo kopas, jį buvo planuojama paleisti iš daugkartinio naudojimo pilotuojamo kosminio laivo "Atlantis" 1989 m. spalio 18 d. Po "Challenger" avarijos užšaldžius daugkartinio naudojimo pilotuojamų kosminių laivų skrydžius, šio zondo paleidimas gerokai vėlavo.
+<P>
+Galiausiai "Galileo" nepaprastai sėkmingai atliko misiją Jupiterio sistemoje. Esama panašumų su Europos "Galileo" programa. Programa buvo susidūrusi su kliūtimis. Tačiau manau, kad mūsų programos laukia tokia pat didelsėkmė. Ypač tikiuosi, kad nuo šiol "Galileo" pavadinimas asocijuosis su Europos programos sėkme.
+<P>
+Prisimindami sunkius laikus, kai valstybinę ir privačią partnerystę ištiko nesėkmė, turime suvienyti jėgas, kad šis projektas pajudėtų. Europos Parlamentas norėjo pasimokyti iš praeities klaidų ir prisiimti atsakomybę kaip jungtinbiudžeto institucija. Atrodo svarbu, kad Europos Parlamentas pagaliau sutiko palikti priežiūros instituciją. Iš esmės, ekspertų priežiūra yra būtina, ypač turint omenyje, kad "Galileo" - tai pirmoji Europos Sąjungos programa.
+<P>
+Tai pirmas kartas, kai Europos Sąjunga investuoja į nuosavą infrastruktūrą. Europos Komisija bus savininkė, o Europos kosmoso agentūra bus administruojanti institucija. Šias atsakomybės sritis būtina ne tik aiškiai apibrėžti ir paskirstyti, bet ir tinkamai prižiūrėti. Parlamentas yra artimai susijęs su šiuo projektu, todėl atrodo teisinga, kad jis turėtų dalyvauti, atliekant programos priežiūrą. Todėl sveikinu šios tarpžinybinės priežiūros grupės sudarymą; ją sudarys Parlamento, Tarybos ir Komisijos atstovai; ši grupsudarys galimybę kiekvienai institucijai, ypač mūsų, dalyvauti projekto savininkės teisėmis. Šis projektas turi pasisekti. Nuo to priklauso Europos Sąjungos reputacija tarptautinėje arenoje, o svarbiausia - piliečių akyse.
+<P>
+Kad tai pasiektume, manau, kad EKA turi remtis Europos ekspertų tinklu, apsirūpinti būtinomis žiniomis. Siekiant užtikrinti sistemos saugumą ir kontroliuoti išlaidas, reikės koordinuoti įvairias įmones, gaminančias atskiras dalis.
+<P>
+Leisiu sau pateikti asmeninį požiūrį dėl "Galileo" panaudojimo kariniais tikslais. Europos Parlamentas buvo priverstas griežtai apriboti karinio panaudojimo galimybes. Dėl to tenka apgailestauti, nors galbūt, kai programa pasieks brandą, paaiškės, kad yra galimybatsargiai naudoti šį įrankį kariniais tikslais. Galilėjus pasiekmokslo laimėjimų, bet tuo pat metu netiesiogiai paskatino filosofijos ir kitų mąstymo sričių pažangą. "Galileo" turės milžinišką poveikį pritaikymo įvairovės prasme, mūsų kontinento savarankiškumo prasme, tai pat Sąjungos įsipareigojimų prasme.
+<SPEAKER ID="309" NAME="David Hammerstein">
+Verts/ALE grupės vardu. - (ES) Pone Pirmininke, noriu padėkoti poniai Barsi-Pataky už tokį atvirą požiūrį, taip pat visiems mums, kurie buvome šio proceso dalyviai.
+<P>
+Pastarasis "Galileo" projektas, dalyvaujant privačioms investicijoms, žlugo, po dabar ruošiamės įgyvendinti projektą, naudodami vien tik Europos lėšas. Tai reiškia didesnę projekto socialinę atsakomybę.
+<P>
+Šia prasme galime pasveikinti tai, kad "Galileo" pasiryžęs teikti aukštos kokybės paslaugas už teisingą kainą; už teisingą kainą, nes būtina užtikrinti, kad valstybės investicijos teiktų naudą piliečiams, ir kad jiems nereikėtų antrą kartą mokėti už būsimas paslaugas.
+<P>
+Dar vienas labai teigiamas dalykas yra tai, kad "Galileo" turės būti suderinama su dabartine Jungtinių Valstijų GPS sistema, ir kad ji mokosi iš šios tarpusavyje suderinamų paslaugų linijos.
+<P>
+Taip pat svarbu, kad į "Galileo" yra techniškai įtraukta asmens duomenų ir teisės į privatumą apsauga. Trumpai sakant, "Gaileo" suteiktas naujas gyvenimas. Tikimės pasinaudoti šia galimybe, kad pasiūlytume visiems Europos žmonėms naudingų ir naujų paslaugų.
+<SPEAKER ID="310" NAME="Vladimír Remek">
+GUE/NGL grupės vardu. - (CS) Komisare, ponios ir ponai, kaip šešėlinis pranešėjas labai džiaugiuosi, kad išsprendėme pagrindines problemas, trukdžiusias įgyvendinti "Galileo" sistemą. Noriu pabrėžti ponios Barsi-Pataky indėlio reikšmę; jos žinios ir diplomatinis taktiškumas padėjo susitarti dėl atnaujinto pateikimo. Kalbu ir kaip trišalio dialogo su Taryba ir Komisija, kuriam, mano nuomone labai sėkmingai, Parlamento vardu vadovavo ponia Niebler, dalyvis.
+<P>
+Ne pirmą kartą čia kalbu apie "Galileo". Kaip ir anksčiau, neneigiu, kad šis projektas ne tik ambicingas ir brangiai kainuojantis, bet ir (būtent dėl pastarosios priežasties) kai kuriems mano grupės kolegoms atrodo kontraversiškas. Remdamasis savo patirtimi kosmonautikos srityje, aš vis tiek manau, kad mes Europoje einame teisinga kryptimi. Tačiau geriausias teigiamas argumentas, aišku, būtų kuo greitesnir sėkmingesn"Galileo" funkcionavimo pradžia. Po nepavykusio bandymo remtis privačiomis įmonėmis, pagaliau pasiektas protingas sprendimas. Argi mes Europoje turėjome atsisakyti galimybės pirmauti technologijos srityje? Argi turėjome pasakyti "ne" galimybei padidinti gamybos darbo našumą, pagerinti visų transporto rūšių saugumą, taupyti degalus, sparčiau reaguoti į pramonės ir kitas avarijas, bei kitiems "Galileo" siūlomiems privalumams? Esu įsitikinęs, kas atsakymas yra neigiamas.
+<P>
+Nagrinėjamas tekstas taip pat pateikia atsakymų į dažnai užduodamus klausimus, pavyzdžiui, dėl asmens duomenų ir privatumo apsaugos, arba dėl sąžiningos ekonominės konkurencijos garantijų. Jis taip pat yra susijęs su mažomis ir vidutinėmis įmonėmis, kurioms turės būti suteikta bent 40 % subrangos darbų. "Galileo" nepigi, tačiau kita vertus ji turėtų sukurti apie 140 000 naujų darbų vietų ES valstybėse narėse. Esu įsitikinęs, kad kai "Galileo" sistema bus paleista ir ims veikti, privatus sektorius grįš ir taip pat orės gauti naudos iš šio projekto. Baigdamas pasakysiu, kad jau pakviečiau "Galileo" valdymo instituciją atvykti pas mus į Prahą. Mes vis dar suinteresuoti, ir pakvietimas galioja. Čekijos Respublika, viena iš mažesnių Sąjungos valstybių, "Galileo" projektą vertina kaip vieną ateities galimybių.
+<SPEAKER ID="311" NAME="Jeffrey Titford">
+IND/DEM grupės vardu. - Pone Pirmininke, būkime sąžiningi. ES palydovinės navigacijos programos yra absoliuti katastrofa. Privatus sektorius greitai pastebėjo kišamą kiaulę ir parodę "Galileo" programai švarią porą padų. Tačiau ar ES yra pasirengusi priimti akivaizdų dalyką ir atsisakyti šio projekto? Toli gražu ne. Vietoje to, mes turime šį pranešimą, kuriame sakoma, kad projektas ne tik turi judėti visu greičiu pirmyn, bet ir kad Europos mokesčių mokėtojai prisiimtų visas išlaidas. Šiuo atveju pranešime prašoma milžiniško biudžeto padidinimo - nuo 120 milijonų iki 715 milijonų svarų sterlingų. Kitaip sakant, matome šiam gėdingam projektui atviros čekių knygelės perspektyvos pradžią.
+<P>
+Jungtinės Valstijos turi savo palydovinę sistemą, GPS, todėl ES taip pat reikia ją turėti; tai pagrindinis "Galileo" įgyvendinimo principas. Tai vaikų darželio politika, kuri paneigia sveiką protą, neturi patikimo ekonominio pagrindimo ir yra bloga moraliniu ir aplinkos požiūriu.
+<P>
+Ši institucija skiria labai daug laiko diskusijoms apie aplinką ir griežtų priemonių, skirtų įstumti Europoje gyvenančius žmones į savotišką egzistenciją, apimtą kaltės dėl anglies dvideginio pėdsako, kūrimui. Tačiau šį kartą stumiame projektą, kurio poveikis aplinkai bus beveik neišmatuojamas. Ar kas nors sustojo ir pagalvojo apie anglies dvideginio pėdsaką, kurį paliks 30 palydovų, kurių reikia "Galileo" sistemai, paleidimas į orbitą, kai reikės sudeginti milžiniškus kiekius raketų variklius varančios medžiagos? Dėl BŽP ir BŽŪP įgyvendinimo ES nuopelnai aplinkos apsaugai jau dabar yra gana abejotini, jau nekalbant apie dviejų Parlamento pastatų - čia ir Briuselyje, nereikalingumą.
+<P>
+Šiandien raginu visus Parlamento narius, ypač tuos kurie save laiko kovotojais už aplinką, pasitarti su sąžine ir pasipriešinti šiam kolosaliam baltam drambliui. Nėra reikalo dubliuoti paslaugas, kurias jau teikia amerikiečių GPS, ir mes tikrai neturėtume be reikalo užteršti šios aplinkos tokiu dideliu anglies dvideginio kiekiu.
+<SPEAKER ID="312" NAME="Ján Hudacký" AFFILIATION="PPE-DE">
+(SK) Pirmiausia noriu padėkoti pranešėjai, poniai Barsi-Pataky, kuri jau seniai aktyviai veikia šioje srityje ir daug prisidėjo prie bendrų diskusijų ir sutarčių dėl "Galileo" programos sėkmingo įgyvendinimo.
+<P>
+Savo kalboje noriu akcentuoti du svarbius aspektus, kurie turi nuo kurių priklauso Europos palydovinės navigacijos programų įgyvendinimo sėkmė. Labai sveikinu bendrą susitarimą bei diskusiją dėl šių programų biudžeto, taip pat tai, kad žlugus valstybinės-privačios partnerystės "Galileo" programai finansuoti modeliui, pavyko rasti papildomų lėšų. Manau, kad tai labai protingas ir racionalus visų Europos institucijų sprendimas. Pramonės, mokslinių tyrimų ir energetikos komitete ir plenarinio posėdžio metu jį įvertinime labai teigiamai.
+<P>
+Manau, kad naudodama savo valstybines lėšas, Europos Sąjunga turi dalyvauti panašiose programose ir šio sektoriaus plėtroje, nes jis tusi didelį potencialą kurti naujas aukštos pridėtinės vertės paslaugas, kurių reikia beveik visose visuomenės gyvenimo srityse.
+<P>
+Antras šių programų įgyvendinimo aspektas yra pirkimų procesas "Galileo" plėtros etapo metu. Čia taip pat noriu pareikšti savo pasitenkinimą pateiktais pasiūlymais dėl subalansuoto dalyvavimo visais lygiais, įskaitant visų valstybių narių mažų ir vidutinių įmonių dalyvavimą.
+<P>
+Lygiai taip pat, pirkimų infrastruktūros padalijimas į šešis pagrindinius darbų paketus ir keletą papildomų darbų paketų suteiks galimybę į viešuosius pirkimus pritraukti daugiau tiekėjų, o tai tik pagerins visą įgyvendinimo procesą.
+<P>
+Noriu pasinaudoti šia proga ir pakviesti atitinkamas Europos ir nacionalinio lygmens institucijas, inicijuoti aukšto lygio rėmimo kampaniją, siekiant užtikrinti atitinkamų suinteresuotų šalių dalyvavimą plėtros etape ir paleidus "Galileo" sistemą.
+<SPEAKER ID="313" NAME="Gilles Savary" AFFILIATION="PSE">
+(FR) Pone Pirmininke, esu vienas iš tų, kurie mat"Galileo" projekto pradžią, todėl ko gero galiu geriau įvertinti vėlavimo mastą. Manau, kad šis projektas turi du įgimtus trūkumus.
+<P>
+Pirmiausia, tai pirmas stambus Bendrijos pramoninio intervencionizmo projektas. Nebuvo lengva įtikinti žmones, kad ES gali turėti nuosavą palydovinę navigacijos sistemą, todėl ilgai užtuko politinio sutarimo paieškos. Antra, verslo planas negalėjo būti toks, kokį iniciatoriai jį įsivaizdavo pradžioje, paprasčiausiai todėl, kad mūsų pagrindinis konkurentas GPS yra nemokamas ir visiškai finansuojamas JAV vyriausybės.
+<P>
+Turėjome išspręsti šias dvi pirmines problemas ir pasinaudoti padėtimi, kurios sukūrimą paspartino Slovėnijos pirmininkavimas ir ponas Barrot, kol pavyko pasiekti puikų trijų institucijų susitarimą. Trišalis dialogas leido mums pasiekti etapą, kai mes turime parengtą dokumentą ir tekstą. Rytoj, prieš šeštadienį numatytą antro palydovo paleidimą iš Baikonuro, pamatysime "Galileo" pradžią.
+<SPEAKER ID="314" NAME="Tobias Pflüger" AFFILIATION="GUE/NGL">
+(DE) Pone Pirmininke, "Galileo" kelia labai daug euforijos, tačiau yra du milžiniški neigiami aspektai.
+<P>
+Pirmasis - tai didelės išlaidos; kol kas, didžioji jų dalis tenka ES mokesčių mokėtojams. Kalbama apie 3,4 milijardus eurų, bes suma neabejotinai bus didesnė.
+<P>
+Antrasis - nuspėjamas "Galileo" karinis panaudojimas. "Galileo" visada buvo propaguojama kaip GPS civilinalternatyva. Išskirtinai civilinpaskirtis įtvirtinta net sutartimi. Remiantis galiojančiomis sutartimis, ES biudžete šiuo metu numatytas finansavimas neleidžia šios sistemos naudoti kuriais nors kariniais tikslais. Todėl kai kurie žmonės laukia Lisabonos sutarties, kuri suteiktų šią galimybę; tikėkimės, kad Airijos referendumas ją atmes. Tačiau karinis panaudojimas jau seniai suplanuotas. Čia mes tikimės, kad "Galileo" programai bus skirta lėšų iš ginkluotės sektoriaus. Ketvirtoji "Galileo" funkcija - teikti viešąsias reguliuojamas paslaugas, akivaizdžiai numatyta kaip dvigubas panaudojimas karinėms operacijoms, lygiai kaip policijos, pakrantės apsaugos ir žvalgybos tarnybų reikmėms. Prašau, pasakykite ką nors apie tai!
+<P>
+Niekam nereikalinga antra karinpalydovinprograma, nebent jei jos naudojimas atitinka ES geostrateginius ir karinius interesus. Todėl "Galileo" turėtų būti tiesiog civilinis projektas.
+<SPEAKER ID="315" NAME="Romana Jordan Cizelj" AFFILIATION="PPE-DE">
+(SL) Sunku rasti kitą Europos programą, kuri taip gerai atitinka Lisabonos strategijos tikslus, kaip Europos visuotinės palydovinės navigacijos sistemos programoje numatytos veiklos. Jos apima sudėtingų technologijų srities mokslinius tyrimus ir plėtros darbus, naujų galimybių jaunimui sukūrimą, naujas ir geresnes darbo vienas, verslumo plėtrą, sąrašą galėčiau tęsti...
+<P>
+Šios sistemos įgyvendinimas reikalauja tiek daug pastangų, kad nviena valstybnarsavarankiškai negalėtų to padaryti. Būtent čia akivaizdžiai matyti Europos integracijos pridėtinvertė. Be to, šios sistemos įgyvendinimas suteikia Europai daugiau savarankiškumo bei gerina jos konkurencinį pranašumą.
+<P>
+Dar visai neseniai šis projektas buvo praktiškai palaidotas dėl sunkumų, susijusių su finansavimu. Todėl sveikinu pranešėją Etelka Barsi-Pataky bei Europos Parlamento derybininkų grupės vadovę Angelika Niebler, kurios puikiai atliko darbą. Taip pat noriu pasveikinti Europos Tarybos Pirmininkaujančią valstybSlovėniją už pasiektą Tarybos susitarimą su Parlamentu.
+<P>
+Tačiau programos įgyvendinimas keletą metų vėluoja. Norėčiau, kad kiti etapai, kurių metu bus atliekami konkretūs darbai, būtų kuo greičiau baigti, ir raginu, kad taip ir būtų. Šios sistemos paskirtis - atlikti labai sudėtingas ir įvairias taikomąsias funkcijas. Žinau, kad kai kuriose valstybėse narėse galimi pritaikymo būdai jau yra dabartinės politinės strategijos dalis. Pavyzdžiui, Slovėnijoje patvirtintas mokesčio už kelius surinkimo, nestabdant transporto srauto, veiksmų planas, ir aš tikiuosi, kad mes šiuo tikslu naudosimės Europos, o ne kitų šalių palydovais.
+<P>
+Galiausiai, mes taip pat turime įsteigti priežiūros instituciją ir jos buveinę. Valstybės narės turėtų prisiminti 2003 m. Tarybos sprendimą ir įkurdinti institucijos buveinę vienoje iš naujųjų valstybių narių, kur dar nėra įsikūrusių Europos institucijų. Viena iš kandidačių yra Slovėnijos sostinLiubliana. Ši kandidatūra turi didelį palaikymą, ir aš tikiuosi, kad ji bus sėkmingai patvirtinta; ji yra kruopščiai ir visapusiškai pasiruošusi.
+<SPEAKER ID="316" NAME="Inés Ayala Sender" AFFILIATION="PSE">
+(ES) Pone Pirmininke, tiesa ta, kad šiandien turėtume pasveikinti save kaip europiečius, nes mums pavyko sėkmingai užbaigti tokį simbolinį projektą, kaip "Galileo", kuris padaro Europos tobulėjimą visose srityse, įskaitant kosmosą, transportą ir ryšius, ryškiau matomą. Šis projektas taip pat yra įvairių ateities paslaugų, kurias dabar galime tik įsivaizduoti, platforma.
+<P>
+Noriu pasveikinti ir padėkoti pranešėjai poniai Barsi-Pataky už jos norą padėti pradėti įgyvendinti šį projektą ir užtikrinti, kad jis būtų tęsiamas, prižiūrint tarpžinybinei grupei; jos sudarymas, mano nuomone, yra labai teigiama naujovė, kurią galbūt galima taikyti sprendžiant kitus klausimus.
+<P>
+Ypač noriu pasveikinti Komisiją ir jos Pirmininko pavaduotoją poną Barrot už jo atkaklumą ir savalaikius pykčio protrūkius, kurie neabejotinai padėjo įveikti didelės finansines kliūtis, nacionalines abejones ir savanaudiškumą.
+<P>
+Galiausiai noriu pabrėžti Pirmininkaujančios valstybės Slovėnijos, o per ją - ir Tarybos nuopelnus; ji taip pat padėjo pasiekti šį rezultatą ir susitarimą, taip pat mano šalies žmonėms, ispanams, nes mes tvirtai tikime šiuo projektu ir trokštame visa savo energija ir gebėjimais prisidėti prie jo įgyvendinimo.
+<P>
+Belieka užtikrinti ir garantuoti, kad tai, dėl ko susitarta, ir dėl ko rytoj balsuos Parlamentas, būtų pritaikyta; dar kartą prisimenu ponios Barsi-Pataky iniciatyva sudarytą grupę.
+<SPEAKER ID="317" NAME="Pirmininkas">
+Tarybos atstovas ponas Žerjav mane informavo, kad jis iki 18:00 val. turi mus palikti, todėl jis paprašsuteikti jam žodį. Man neaišku, kokia tai bus kalba, nes paprastai Komisarui ir Tarybai suteikiama privilegija apibendrinti diskusijas, o šios diskusijos dar nesibaigusios. Neatsižvelgiant į tai, mano pareiga yra suteikti žodį Tarybos atstovui, todėl dabar tą ir darau.
+<SPEAKER ID="318" NAME="Radovan Žerjav">
+Tarybos pirmininkas. - (SL) Leiskite man nuoširdžiai padėkoti Jums už konstruktyvias diskusijas ir atsiprašyti, kad anksti išeinu iš šio posėdžio, nes grįžtu namo.
+<P>
+Jums leidus, apibendrindamas noriu priminti Jums, kad "Galileo" projektas yra viešo nagrinėjimo objektas. Europos GNSS sistemų sėkmsvarbi ne vien Europai; rezultatai taip pat bus jaučiami tarptautiniu lygiu.
+<P>
+Sutinku su Jumis, kad tai pirmoji bendra Europos struktūra, todėl negalime gaišti brangaus laiko, privalome uždegti žalią šviesą šių programų įgyvendinimui. Suprantame, kad reglamento dėl įgyvendinimo priėmimas yra svarbus žingsnis "Galileo" projekto įgyvendinimo link. Štai kodėl mūsų laukia daug kolektyvinio darbo, ir mes tikime, kad ateityje mums seksis taip pat gerai, kaip ir anksčiau.
+<SPEAKER ID="319" NAME="Ulrich Stockmann" AFFILIATION="PSE">
+(DE) Pone Pirmininke, noriu įmesti dar keletą musių į kremą. Įveikę gilią krizę, mes dabar turime gerą ir subalansuotą reglamento pasiūlymą, kuris mano nuomone užtikrins kūrimo etapo įgyvendinimą. Tačiau siekdami šio tikslo, neturėtume pažeisti grafiko. Projektas vėluoja penkerius metus, eksploatavimo etapo pradžia numatyta 2013 m. Todėl žlunga mūsų pramonės strateginiai planai, kad "Galileo" rinkoje pasirodys anksčiau už GPS 3 ir nustatys pasaulinius standartus. Todėl mano nuomone mes vis tiek turime išsamiai išanalizuoti pačios Komisijos sukurtą krizę, nes turime pasimokyti iš PPP modelio nesėkmės, juk šis modelis taip pat taikomas, įgyvendinant "Caesar" programą.
+<P>
+"Galileo" nebeturi konkurencinio pranašumo, todėl šią sistemą akivaizdžiai darosi sunkiau parduoti. Dėl šios priežasties turime skirti pakankamai laiko diskusijoms apie valstybines išlaidas, susijusias su eksploatavimo etapu po 2013 m., pagrindinį dėmesį skiriant būdams, kaip nustatyti valstybės finansuojamas "Galileo" sistemas, pavyzdžiui, mokesčių už kelius, "eCall" ir "Caesar". Galiausiai, mums jau dabar reikia "Galileo" ir GPS signalų bendro naudojimo programos. Turime sutelkti pastangas į šią sritį, nes ji kuria pridėtinę vertę.
+<P>
+(Pirmininkas nutraukkalbėtoją)
+<SPEAKER ID="320" NAME="Teresa Riera Madurell" AFFILIATION="PSE">
+(ES) Pone Pirmininke, esu iš tų, kurie mano, kad šiandien turėtume pasveikinti save už ryžtą, su kuriuo Bendrijos institucijos įveikšio projekto pakilimus ir nuosmukius; pagaliau galime užtikrintai pradėti planuoti "Galileo" diegimo etapą.
+<P>
+Mes taip pat sveikiname pastangas, skirtas užtikrinti kuo platesnę dalyvavimą šioje programoje. Šia proga noriu pabrėžti vieną esminį dalyką, t. y. šio projekto civilinį pobūdį, kuris yra pagrindinprielaida veiklos skaidrumui užtikrinti.
+<P>
+Sistemos savarankiškumas sudarys galimybę sertifikuoti vartotojams siūlomas paslaugas ir teikti jų kokybės garantijas; tai sudarys prielaidas kurti platų asortimentą naujų komercinių taikomųjų programų, teikiančių daug galimybių mažoms ir vidutinėms įmonėms, ir turinčių didelį potencialią aplinkos ir socialiniu požiūriu: navigacija akliesiems, patogiausias kelias žmonėms, naudojantiems invalidų vežimėlius, t.t.
+<SPEAKER ID="321" NAME="Christine De Veyrac" AFFILIATION="PPE-DE">
+(FR) Pone Pirmininke, "Galileo" programa, kaip ir EGNOS, simbolizuoja Europos dvasią: suvienyti jėgas, kad kartu galėtume daugiau pasiekti.
+<P>
+"Galileo" projektas labiau už kitus atspindi bendrijos dvasią, o ne nacionalinius ego. Finansavimo idėja, pagrįsta nacionaliniais įnašais, net ir sudarančiais tik dalinį finansavimą, nebuvo labai gera. Laimei, šiandien šį ginčą pavyko išspręsti visiško finansavimo iš Bendrijos biudžeto naudai.
+<P>
+Noriu padėkoti Europos Komisijai už surastą alternatyvų sprendimą, nepavykus susitarti įmonėms, ir už darbą su pasiūlymu paskirstyti sutartis visas valstybės nares ir Europos Parlamentą vienijančiu būdu.
+<P>
+Šiandien mums pagaliau pavyko užtikrinti finansinį skaidrumą. Labai gerai, kad mūsų institucija ir Taryba yra pasirengusios nedelsiant susitarti. Mokslo bendruomenir kosmoso pramonės darbuotojai - esu daug jų sutikęs savo regione, Tulūzoje, tikisi iš mūsų didelių dalykų. Nenuvilkime jų.
+<SPEAKER ID="322" NAME="Pierre Pribetich" AFFILIATION="PSE">
+(FR) Pone Pirmininke, (negirdėti) "Galileo" pirmoji bendrijos infrastruktūra, reikalauja, kad visos suinteresuotos šalys siektų bendro tikslo: sėkmės.
+<P>
+Šis iššūkis patvirtina, kad mums būtina sėkmė; to net nereikia sakyti. Deja, keletas kliūčių iki šios stabdpažangą, lyginant su GPS. Patvirtinę šį iš dalies pakeistą pranešimą, mes apsiginkluosime bendru sprendimu pagrįstai sėkmei būtinais įrankiais. Kuriant šią visuotinę navigacijos sistemą, turime kelti sau naują tikslą - matyti platesnius dalykus, nei taisyklių sudėtingumas, nauja architektūra, aiškus atsakomybės sričių pasiskirstymas ir naujas valdymas.
+<P>
+Tai darydami, turime stengtis nedidinti jau susidariusio penkerių metų vėlavimo. Mums tenka kolektyvinatsakomybprižiūrėti faktinį įgyvendinimą bei kurti ir skatinti įsitvirtinimą rinkoje, teikiant paramą projekto plėtrai. Elektronikos ir kompiuterių programų kūrimo pramonei šios radijo navigacijos sistemos sėkmužtikrins didelę naudą. Teks sunkiai kovoti, kad užtikrintume jos pirmenybę esamos sistemos atžvilgiu.
+<SPEAKER ID="323" NAME="Zuzana Roithová" AFFILIATION="PPE-DE">
+(CS) Ponios ir ponai, leiskite man pagrindinį dėmesį skirti "Galileo" Europos GNSS priežiūros institucijos buveinės vietos klausimui. Mano atsakymas - Čekijos Respublika yra geriausiai pasirengusi valstybė, be to, tai valstybnarė, kurioje dar nėra nvienos Europos agentūros buveinės. Praha strategiškai įsikūrusi Europos širdyje, o naujajai buveinei siūlomame pastate, kuris stovi buvusioje karinėje zonoje Klecany, šiuo metu įsikūrusi Informatikos ministerija. Be to, Čekijos Respublika - tai šalis, pasižyminti aukštu saugumo laipsniu, o jos mokslo ir mokslinių tyrimų sričių lygį galima palyginti su išsivysčiusių Europos Sąjungos valstybių. Čekijos Respublikoje nuo 2001 m. įgyvendinamas keturių šios sistemos taikomųjų programų tiriamasis projektas, apimantis geležinkelių, sausumos kelių, oro uostų ir pavojingų krovinių pervežimo sritis. Prahoje veikiantis Čekijos Technikos Universitetas koordinuoja žemės paviršiuje esančio imtuvo projektą, kuris bus suderinamas su amerikietiškąja ir rusiškąja navigacijos sistemomis. Be to, Praha yra pripažinta ir graži Europos kongresų organizavimo vieta.
+<SPEAKER ID="324" NAME="Andrzej Jan Szejna" AFFILIATION="PSE">
+(PL) Pone Pirmininke, "Galileo" programa pagaliau parengta. Tai Europos Sąjungos ateities strateginis įrankis, kuriam teks svarbus vaidmuo plėtojant tokius svarbius integracijos aspektus, kaip moksliniai tyrimai ir inovacijos, Europos kosmoso politika bei Europos užsienio ir saugumo politika. Tai galingas įrankis, kuris sudarys galimybę Europai atlikti svarbų vaidmenį tarptautinėje arenoje.
+<P>
+Kalbant apie šiandien pateiktą projektą, būtina prisiminti, kad Parlamentas nustatlabai aiškų Europos Komisijos, Europos palydovinės navigacijos sistemos priežiūros institucijos ir Europos kosmoso agentūros užduočių pasidalijimą ir pareigų pasiskirstymą. Komisija atsakinga tik už projekto valdymą, o visų kitų veiksmų ir užduočių, kuriuos atlieka GSA ir ESA, įgyvendinimas neįeina į Komisijos kompetencijos sritį.
+<P>
+Dar daugiau, Parlamentas labai aiškiai pasakė, kad ateityje vėlavimas nebus toleruojamas, ir kad padės užtikrinti sudaryta "Galileo" tarpžinybingrupė. Svarstydamas paramą šiam pasiūlymui, Parlamentas turi prisiminti, kad palydovinės radijo navigacijos infrastruktūros sukūrimas viršija valstybių narių finansinio ir techninio potencialo ribas, štai kodėl šis projektas įgyvendinamas kaip Bendrijos veikla.
+<SPEAKER ID="325" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Pone Pirmininke, noriu prisijungti prie savo koletų Parlamento narių, kurie pagyrKomisarą Barrot bei mūsų pranešėjas - ponią Barsi-Pataky ir ponią Niebler už jų tvirtumą.
+<P>
+Veikianti "Galileo" sistema mums reikalinga kiek įmanoma greičiau, svarbiausia - tai mūsų nuosava Europos sistema. Pasitelkę šią sistemą, ketiname spręsti dešimtis užduočių. Mes norime efektyviau kontroliuoti mūsų transporto srautus keliuose ir vandenyje, savo oro transportą norime organizuoti taip, kad geriau organizuodami galėtume sutaupyti kuo daugiau energijos, ir taip protingai lėtintume klimato kaitą.
+<P>
+Atsižvelgiant į tai, kiekvienas dėl spartesnio įgyvendinimo sutaupytas mėnuo didina visų mūsų pranašumą. Todėl šiuo keliu turėtume žengti aktyviau.
+<SPEAKER ID="326" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Pone Pirmininke, manau, kad kurdama šią sistemą, Europos Sąjunga eina teisingu keliu. Tačiau turime labai kritiškai pažvelgti į susirūpinimą keliančius klausimus, pavyzdžiui, į tuos, kuriuos iškėlponas Pflüger. Turime iš principo išsiaiškinti, kiek yra šiuo metu veikiančių palydovinių navigacijos sistemų, ir kiek šioje srityje mes jau esame priklausomi nuo Jungtinių Valstijų. Gerai turėti ką nors, su kuo tai galėtume palyginti.
+<P>
+Ypač gerai ir svarbu, kad šią sistemą galima plačiai pritaikyti, skaičiuojant kelių mokesčius sunkiems krovininiams automobiliams, bei perkeliant transporto srautus nuo kelių ant geležinkelių, nes šioje srityje egzistuoja tiek daug galimybių. Kelių mokesčius galima skaičiuoti pagal nuvažiuotą kilometrų skaičių, arba pagal transporto priemonės tipą, arba galime nustatyti vienodą mokestį už kelius visoje Europoje. Manau, tai svarbu Europos transportui ir mums visiems.
+<SPEAKER ID="327" NAME="Jacques Barrot">
+Komisijos Pirmininko pavaduotojas. - (FR) Pone Pirmininke, akivaizdu, kad tekstas, dėl kurio balsuosite, leis Europos Sąjungai priimti vienos iš didžiausių šio šimtmečio technologijų kūrimo iššūkį.
+<P>
+Pone Pirmininke, noriu labai padėkoti visiems, kurie prisidėjo prie sėkmės šiame Parlamente. Pirmiausia, noriu padėkoti poniai Barsi-Pataky, kuri, dirbdama ponios Niebler vadovaujamame komitete niekada nesiliovtikėjusi "Galileo" projektu ir nuolat kėlaukštus reikalavimus; taip pat dėkoju poniai Niebler už jos lemiamą vaidmenį, užbaigiant trišalį dialogą.
+<P>
+Taip pat noriu padėkoti Biudžetų komitetui ir ponui Böge, kuris šiandien nedalyvauja. Tačiau pranešėjo funkciją atliko ponas Skynas, nes tuo metu mums reikėjo Parlamento paramos, kad užtikrintume finansavimą.
+<P>
+Ponia Jensen, dėkoju Jums už tai, kad buvote tokia aistringa "Galileo" rėmėja Transporto ir turizmo komitete. Kaip sakponia Niebler, tai gera diena Europai.
+<P>
+Pone Pirmininke, negaliu atsakyti į visų kalbėjusiųjų klausimus. Atidžiai jų klausiau, pasižymėjau jų mintis. Noriu pasakyti, kad dabar mes turime kreiptis į mūsų mažas ir vidutinės įmones visose valstybėse narėse, kad būtų galima įgyvendinti šiuos pasiruošimus ir galėtume nustatyti "Galileo" panaudojimo būdus. Turėsiu galimybę grįžti pas Jus ir apibūdinti visus šiuos panaudojimo būdus, įskaitant transporto ir civilinės apsaugos srityse. Bet kuriuo atveju, "Galileo" bus daug efektyvesnuž dabar naudojamą GPS.
+<P>
+Taip pat noriu pakartoti savo norą įgyvendinti tarpžinybinės grupės sudarymo idėją, tai dar vienas būdas paskatinti mūsų institucijas dalyvauti šiame projekte.
+<P>
+Noriu trumpai papasakoti Jums apie laukiančius darbus. Dėl EP balsavimo jau turime biudžetą, teisinį pagrindą, aiškią valdymo struktūrą ir pirkimų planą. Plano sudarymas nebuvo lengvas darbas, nes siekėme padalyti darbus valstybių narių pagrindinėms oro erdvės kompanijoms, tuo pat metu organizuodami subrangos darbus, kaip daugelis Jūsų pagrįstai raginote organizuoti. Mūsų MVĮ taip pat būtina įtraukti į šį kūrimo procesą. Štai kodėl pirkimų plane 40 % darbų palikta subrangovams.
+<P>
+Komisija pasirašys sutartį su Europos kosmoso agentūra. Tikimės, kad tai pavyks padaryti iki vasaros, ir tada mes galėsime paskelbti kvietimą teikti pasiūlymus darbams, kuriuos sugrupavome į šešis pagrindinius paketus. Sutartis norėtume pasirašyti metų pabaigoje, kad kitų metų pradžioje būtų galima kiek įmanoma anksčiau pradėti palydovų ir palydovų sistemos statybą. Likusių 26 palydovų statyba užtruks nuo dvejų iki trejų metų. Tada praeis dar vieneri ar dveji metai iki paleidimo. Todėl "Galileo" darbų plano būtina atidžiai laikytis.
+<P>
+Turiu pabrėžti, kad inžinieriai ir technikos specialistai labai įtemptai dirba. Kaip anksčiau sakponas Savary, man malonu pranešti, kad šį sekmadienį, 2008 m. balandžio 27 d., 0:15 val. (4:15 val. vietos laiku) iš Baikonuro kosmodromo Kazachstane "Sojuz" paleidimo įtaisu bus paleistas antrasis "Galileo" palydovas "Giove-B". "Giove-B" jau nugabentas į Baikonurą, kur paleidimo dienos išvakarėse bus atlikti paskutiniai jo bandymai; jis bus valdomas tiesiogiai iš "Fucino" valdymo centro Italijoje. Tikėkimės, kad "Giove-B" bus tiks pat sėkmingas, kaip "Giove-A", ypač turint omenyje, kad "Giove-B" sumontuota visa technologija.
+<P>
+Pone Remek, leiskite padėkoti Jums, kad čia esate, nes Jūs žinote, kas vyksta kosmose.
+<P>
+Parlamentui pasakiau daug padėkų, bet patikėkite - tai nėra tušti gestai. Aš nuoširdžiai manau, kad jei šis Europinis projektas pamatys dienos šviesą, galima sakyti, kad Parlamento įnašas buvo efektyvus. Todėl dar kartą Jums dėkoju. Kartu užtikrinsime "Galileo" sėkmę.
+<SPEAKER ID="328" NAME="Etelka Barsi-Pataky" AFFILIATION="PPE-DE">
+(HU) Pone Pirmininke, turiu pabrėžti, kad Europos inžinieriai ir kūrėjai atliko puikų darbą; kaip pranešPirmininko pavaduotojas, laukiame "Giove-B" paleidimo. Europos Komisija, kuriai atstovauja Pirmininko pavaduotojas Barrot, pateikdiskusijoms naują pasiūlymą dėl intensyvios vienerių metų programos, o Europos Bendrija nustatnaują struktūrą ir įsipareigojo suteikti būtiną finansavimą. "Galileo" programa pasiruošusi naujam STARTUI, kitaip sakant, šis projektas pasiekpabaigą. Ateityje mums teks išspręsti daug sudėtingų uždavinių. Noriu pabrėžti, kad GNSS "Pagaminta Europoje" programos įgyvendinimo tikslas nebuvo tarnauti vien kurios nors valstybės narės ar pramonės koncerno interesams. Įgyvendindami šią programą, turime nuolat tai atsiminti. Pone Pirmininke, jei leisite, baigdama noriu pridurti asmeninį komentarą: kai prasidėjo "Galileo" programos įgyvendinimas, Vengrija, kur 2004 m. buvau išrinkta į Europos Parlamentą, dar nebuvo ES narė; Slovėnija taip pat dar nepriklausES. Todėl aš labai džiaugiuosi, kad mes bendradarbiaujame, paleidžiant palydovą 27 d. "Galileo" yra labai svarbus žingsnis, kuriant stiprią Europą. Ačiū.
+<SPEAKER ID="329" NAME="Pirmininkas">
+Diskusijos baigtos.
+<P>
+Balsavimas vyks rytoj.
+<P>
+Rašytiniai pareiškimai (142 taisyklė)
+<SPEAKER ID="330" NAME="Janusz Lewandowski  , raštu" AFFILIATION="PPE-DE">
+- (PL) Kaip "Galileo" programos finansinio pagrindo ilgalaikio derinimo proceso liudininkas ir dalyvis, susidomėjęs stebiu Europos Sąjungos žingsnius, įgyvendinant šią programą. Finansavimo modelis, kuris labai skiriasi nuo pirminių principų, didina mūsų bendrą atsakomybę už šios programos sėkmę. Valstybinio ir privataus finansavimo derinys patyrfiasko. Esame atsakingi už protingą Europos mokesčių mokėtojų pinigų panaudojimą, išvengdami rizikos pasidalijimo su privačiu sektoriumi.
+<P>
+Štai kodėl toks svarbus vaidmuo tenka projekto valdymo sistemai. Labai svarbu, kad pranešimo projekte yra aiškiai pasakyta, jog viso materialaus ir nematerialaus turto, sukurto panaudojant EGNOS ir "Galileo" programas, vienintelsavininkyra Europos Bendrija. Deja, reikalai juda lėtai; nuo to laiko, kai Europos Komisija pateikpirmąjį komunikatą dėl Europos palydovinės navigacijos sistemos, praėjo 11 metų. Vėlavimas padidino šios programos įgyvendinimo išlaidas bei grėsmes jos konkurencingumui, nes atsirado kitų pasaulinio masto iniciatyvų. Pasaulis nestovi vietoje!
+<P>
+Tai, kad vienintelšios programos savininkyra Bendrija, taip pat valstybinis šios programos pobūdis pateisina Europos Parlamento, kuriam yra suteiktas demokratinis mandatas, keliamus reikalavimus sustiprinti jo vaidmenį kontroliuojant ir įgyvendinant "Galileo" sistemos parengiamąjį ir įgyvendinimo etapus.

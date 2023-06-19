@@ -1,0 +1,6 @@
+<CHAPTER ID="011">
+Hääletused
+<SPEAKER ID="241" NAME="Juhataja">
+Järgmine punkt on hääletused.
+<P>
+(Hääletuste üksikasjalikud tulemused on esitatud protokollis)

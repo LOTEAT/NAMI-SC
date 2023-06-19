@@ -1,0 +1,6 @@
+<CHAPTER ID="005-21">
+21. Ilmastonmuutoksen torjuminen (äänestys) 
+<P>
+- Ennen 20 kohdasta toimitettavaa äänestystä:
+<SPEAKER ID="141" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+(EN) Arvoisa puhemies, hyvin lyhyt tarkistus alkuperäiseen tekstiin. 20 kohdan kolmannella rivillä pitäisi lukea: "reducing emissions from deforestation and degradation". Nyt siinä lukee "reducing emissions for deforestation and degradation". Haluan vaihtaa sanan "for" tilalle "from". Se on väärin englanninkielisessä toisinnossa. Tämä on kiistatonta.

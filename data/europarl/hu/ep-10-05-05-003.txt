@@ -1,0 +1,6 @@
+<CHAPTER ID="003">
+Az elnök közleménye: lásd a jegyzőkönyvet
+<SPEAKER ID="007" NAME="Elnök">
+Szeretném tájékoztatni a képviselőket, hogy ezen a plenáris ülésen több, különleges felszerelést használó hangmérnök lesz jelen. A mérnökök a Parlamentben folyó munka teljes panorámájának bemutatása érdekében felvételt fognak készíteni a vitákról és a szavazásokról.
+<P>
+Ezt a filmet a Parlament munkájáról szóló állandó kiállítás részeként fogják bemutatni az új brüsszeli látogatóközpontban, az ülésterem interaktív modelljének részeként. Egyértelmű biztosítékokat kaptam arra nézve, hogy a mérnökök rendkívül diszkrétek lesznek, és nem fogják zavarni munkánkat. Köszönöm megértésüket.

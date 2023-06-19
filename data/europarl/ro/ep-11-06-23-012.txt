@@ -1,0 +1,4 @@
+<CHAPTER ID="012">
+RO12 - Votare
+<SPEAKER ID="145" NAME="Președintă">
+Următorul punct pe ordinea de zi este votul.

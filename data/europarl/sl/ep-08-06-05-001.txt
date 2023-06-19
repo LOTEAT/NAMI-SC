@@ -1,0 +1,12 @@
+<CHAPTER ID="001">
+Otvoritev seje
+<P>
+(Seja se je začela ob 9.00.)
+<P>
+°
+<P>
+° °
+<SPEAKER ID="005" NAME="Monica Frassoni" AFFILIATION="Verts/ALE">
+(IT) Gospa predsednica, gospe in gospodje, kot veste, se je včeraj po nejasnem incidentu v slovenski jedrski elektrarni sprožil sistem ECURIE, tj. varnostni sistem Evropske skupnosti. Alarm je bil pozneje preklican, vendar se o pravih vzrokih incidenta in razlogih za ta zelo nenavaden alarm še naprej dvomi. Zato želimo izkoristiti prisotnost predstavnika Komisije pozneje danes in dejstvo, da Svetu predseduje Slovenija, ter Komisijo in slovensko predsedstvo pozvati, da obvestita evropski parlament in javnost o pravih razlogih, zaradi katerih se je sprožil ta zelo nenavaden postopek. Hvaležna bom, gospa predsednica, če boste ukrepali v zvezi s to prošnjo.
+<SPEAKER ID="006" NAME="Predsednica">
+Menim, da bo slovensko predsedstvo, katerega predstavnik bo danes tukaj, upoštevalo to prošnjo.

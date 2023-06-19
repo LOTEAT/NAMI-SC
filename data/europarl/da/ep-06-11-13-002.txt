@@ -1,0 +1,10 @@
+<CHAPTER ID="002">
+Godkendelse af protokollen fra foregående møde
+<SPEAKER ID="006" NAME="Formanden">
+Protokollen fra mødet den 26. oktober 2006 er omdelt. Er der nogen, der ønsker at få ordet i den anledning?
+<SPEAKER ID="007" NAME="Françoise Grossetête" AFFILIATION="PPE-DE">
+(FR) Hr. formand! Jeg vil blot gøre opmærksom på, at jeg i torsdags glemte at skrive under på tilstedeværelseslisten, men jeg deltog i alle afstemninger ved navneopråb torsdag middag og torsdag aften.
+<SPEAKER ID="008" NAME="Formanden">
+Vi vil sørge for at få foretaget den nødvendige korrektion.
+<P>
+(Protokollen fra foregående møde godkendtes)

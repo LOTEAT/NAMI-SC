@@ -1,0 +1,8 @@
+<CHAPTER ID="004">
+Votare
+<SPEAKER ID="097" NAME="Preşedintele">
+Următorul punct pe ordinea de zi este votul.
+<P>
+Aş dori să informez Camera că, la cererea expresă a asociaţiei jurnaliştilor parlamentari, în timpul votului pentru fiecare set de rezultate va trebui să indicăm de asemenea, în mod expres, numărul de voturi pentru şi împotrivă, dar şi numărul de abţineri. Am fi dorit să simplificăm lucrurile pentru dumneavoastră, dar acest lucru nu este posibil.
+<P>
+(Pentru detalii privind rezultatul votului: vedeţi Procesele verbale)

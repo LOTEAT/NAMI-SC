@@ -1,0 +1,6 @@
+<CHAPTER ID="003">
+Boas-vindas
+<SPEAKER ID="007" NAME="Presidente">
+Gostaria de dar as boas-vindas ao plenário à senhora Maria Romana de Gasperi, filha do grande estadista italiano e um dos fundadores da Comunidade Europeia, Alcide de Gasperi.
+<P>
+(Aplausos)

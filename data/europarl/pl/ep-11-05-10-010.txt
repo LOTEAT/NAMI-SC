@@ -1,0 +1,10 @@
+<CHAPTER ID="010">
+Powitanie
+<SPEAKER ID="128" NAME="Przewodnicząca">
+Panie i Panowie! Odczytam teraz posłanie od pana przewodniczącego Buzka.
+<P>
+"Z przyjemnością informuję Państwa, że mamy dziś zaszczyt powitać marszałka polskiego Senatu Bogdana Borusewicza, przewodniczącą Sejmu Republiki Litewskiej Irenę Degutienoraz przewodniczącego Rady Najwyższej Ukrainy Wołodymyra Łytwyna.
+<P>
+Wszyscy trzej przewodniczący spotkali się dziś w Parlamencie z okazji nadzwyczajnego posiedzenia Zgromadzenia Parlamentarnego Litwy, Polski i Ukrainy. Zgromadzenie to wyrasta z tradycji Rzeczypospolitej Obojga Narodów, która przez ponad dwa wieki stanowiła granicę Europy rozumianej jako projekt polityczny, kulturowy i społeczny.
+<P>
+Dzisiejsze posiedzenie tego zgromadzenia parlamentarnego w Strasburgu służy upamiętnieniu 220. rocznicy przyjęcia Konstytucji 3 Maja - pierwszej konstytucji w Europie”.

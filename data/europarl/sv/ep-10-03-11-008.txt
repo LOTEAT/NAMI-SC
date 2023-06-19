@@ -1,0 +1,12 @@
+<CHAPTER ID="008">
+Omröstning
+<SPEAKER ID="106" NAME="Talmannen">
+Nästa punkt är omröstningen.
+<P>
+(För omröstningsresultat och andra uppgifter som rör omröstningen: se protokollet.)
+<SPEAKER ID="107" NAME="Robert Goebbels" AFFILIATION="S&amp;D">
+(FR) Herr talman! Jag skulle vilja be er vänta lite eftersom många ledamöter fortfarande sitter fast i hissarna. Någon fick den konstiga idén att reparera hissarna under den enda vecka i månaden som vi är i Strasbourg, trots att det kunde ha utförts de övriga tre veckorna.
+<SPEAKER ID="108" NAME="Talmannen">
+Herr Goebbels, klockan är över 12.00. Vi har redan väntat i fem minuter. Jag tror att vi kan börja med omröstningen.
+<P>
+(Applåder)

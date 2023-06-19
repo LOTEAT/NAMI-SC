@@ -1,0 +1,6 @@
+<CHAPTER ID="007">
+Heure des votes
+<SPEAKER ID="079" NAME="Le Président">
+(DE) Nous allons maintenant passer au vote.
+<P>
+(Pour les résultats et les autres informations sur les votes: voir procès-verbal)

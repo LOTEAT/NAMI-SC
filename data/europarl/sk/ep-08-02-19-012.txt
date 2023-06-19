@@ -1,0 +1,436 @@
+<CHAPTER ID="012">
+Hodina otázok (otázky pre Komisiu)
+<SPEAKER ID="278" NAME="Predsedajúci">
+Ďalším bodom programu je hodina otázok pre Komisiu (B6-0010/2008).
+<P>
+Komisii boli predložené nasledujúce otázky.
+<P>
+prvá časť
+<P>
+Vec: Postupy posúdenia letovej spôsobilosti, ktoré používa Európska agentúra pre bezpečnosť letectva
+<P>
+Na jeseň roku 2007 sa stali tri nehody, v Aalborgu, vo Vilniuse a v Kodani, vo všetkých troch prípadoch išlo o problémy lietadla typu Dash 8 Q400. Predbežné závery vyšetrovania poukazujú na to, že nehody, ktoré sa stali 9. a 12. septembra, boli spôsobené konštrukčnou chybou. Na tomto závere sa zhoduje Škandinávsky úrad pre civilné letectvo (SLV) i Európska agentúra pre bezpečnosť letectva (EASA). Problémy, ktoré nastali 27. októbra, možno pripísať konštrukčnej chybe a následným chybám pri prehliadke lietadla. Škandinávsky úrad pre civilné letectvo rozhodol o ukončení prevádzky lietadla, pričom jeho návrat do prevádzky podmienil splnením viacerých požiadaviek. Na druhej strane EASA dospela k záveru, že konštrukčná chyba je len malej povahy.
+<P>
+Nie je pravda, že úlohou agentúry EASA je zabezpečiť vysokú úroveň bezpečnosti?
+<P>
+Ako je možné, že agentúra EASA a Škandinávsky úrad pre civilné letectvo dospeli k takýmto rozdielnym záverom, keď vyšetrovanie aerolínií odhalilo, že 16 z 18 lietadiel typu Dash 8 Q400, ktoré vlastní, malo rovnakú konštrukčnú chybu alebo poruchu konštrukcie ako lietadlo, ktoré bolo nútené núdzovo pristáť v Kodani?
+<SPEAKER ID="280" NAME="Jacques Barrot">
+podpredseda Komisie. - (FR) Je pre mňa potešením, že môžem odpovedať na otázku pani Jensenovej.
+<P>
+Vzhľadom na to, že ešte len čakáme na záverečné správy z vyšetrovania troch udalostí, ktoré sa týkali lietadiel typu DASH 8 Q400, Komisia považuje za predčasné špekulovať o faktoroch, ktoré spôsobili tieto špecifické udalosti, a tiež o možných konštrukčných chybách či poruchách konštrukcie.
+<P>
+Úlohou Európskej agentúry pre bezpečnosť letectva samozrejme je zabezpečovať pokiaľ možno najvyššiu úroveň bezpečnosti. Agentúra veľmi pozorne sledovala a aj naďalej sleduje tento prípad vzhľadom na to, že v rámci celého sveta bolo predaných 170 lietadiel tohto konkrétneho typu, a preto sú dnes v prevádzke.
+<P>
+Podľa podrobných informácií, ktoré mi poskytla agentúra EASA, v mnohých prípadoch spolu komunikovali agentúra EASA, úrady pre civilné letectvo v Nórsku a Dánsku, kanadské úrady pre civilné letectvo a výrobca lietadiel. Na základe toho sa podarilo dosiahnuť viacero vecí, agentúra EASA napríklad vydala smernice o letovej spôsobilosti, ktoré predpisujú nápravné opatrenia, ktoré je potrebné prijať.
+<P>
+Podrobné zhodnotenie systému na sťahovanie podvozku tohto typu lietadiel viedlo agentúru EASA k záveru, že bezpečnosť lietadla nie je spochybnená. Preto bolo odporučené škandinávskym úradom, aby obnovili platnosť osvedčenia o letovej spôsobilosti tohto lietadla, samozrejme, po tom, čo budú prijaté potrebné nápravné opatrenia.
+<P>
+Škandinávske úrady informovali aerolínie o tom, aké podmienky musia splniť, aby bola obnovená platnosť osvedčenia o letovej spôsobilosti pre danú leteckú flotilu. Aerolínie však zatiaľ nepredložili dostatočný dôkaz na to, aby bolo možné vyhlásiť, že sa lietadlá úspešne podrobili požadovaným kontrolám a úpravám.
+<P>
+Európska agentúra pre bezpečnosť letectva zatiaľ nebola informovaná o tom, že dánske úrady obnovili platnosť osvedčení o letovej spôsobilosti pre flotilu lietadiel typu Q400 leteckej spoločnosti SAS. Agentúra EASA komunikuje s dánskymi úradmi a snaží sa objasniť túto otázku.
+<P>
+Vážený pán predsedajúci, to bola moja odpoveď pani Jensenovej.
+<SPEAKER ID="281" NAME="Anne E. Jensen" AFFILIATION="ALDE">
+(DA) Vážený pán predsedajúci, dovoľte mi poďakovať sa pánovi podpredsedovi Barrotovi za toto vysvetlenie. Je pravda, že mohlo dôjsť k čiastočnej náprave rozporu, ktorý som spomínala vo svojej otázke, no napriek tomu ešte vždy platí, že dánsky úrad letectva nepovolí odlet lietadiel spoločnosti SAS, pokým nebudú technické problémy vyriešené, no na druhej strane iné letecké spoločnosti v skutočnosti používajú lietadlá, ktoré majú tieto technické problémy. Mám pocit, že základný problém, okrem diskriminácie spoločnosti SAS Scandinavian Airlines na jednej strane na úkor iných leteckých spoločností, napríklad Flybe, Augsburg, Tyrolean a Luxair na strane druhej, je v tom, že my, občania, možno nebudeme môcť očakávať, že letectvo bude bezpečné. Čo by ste, pán Barrot, urobili na zabezpečenie toho, aby som mohla rovnako dôverovať spoločnému úradu pre letectvo ako dôverujem národným úradom pre letectvo, pretože napokon práve o týchto úradoch hovoríme?
+<SPEAKER ID="282" NAME="Jacques Barrot">
+podpredseda Komisie. - (FR) Agentúra EASA vydala presné inštrukcie, ktoré, ak budú dodržané, znamenajú, že tieto lietadlá sú letovo spôsobilé. Nejde teda o problém bezpečnosti, ide len o to, že dánske úrady neinformovali agentúru EASA o odpovediach danej leteckej spoločnosti.
+<P>
+Vážená pani Jensenová, skutočnosť je taká, že agentúra EASA vydala úplné inštrukcie na odstránenie problémov, ktoré by mohli vzniknúť v dôsledku používania týchto lietadiel.
+<P>
+V súčasnosti je situácia taká, že agentúra EASA musí počkať na výsledky vyšetrovania, aby mohla zaujať v tomto smere konečné stanovisko, no rád by som zdôraznil, že agentúra vydala jasné a úplné inštrukcie týkajúce sa bezpečného používania lietadiel, ktoré v skutočnosti nespôsobili nehody, pri ktorých by bol niekto zranený, ale ktorých sa, ako ste povedali, týkajú spomínané nehody. Je potrebné prijať opatrenia, aby bolo všetko v poriadku.
+<SPEAKER ID="283" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Vážený pán komisár, teraz sa paradoxne zdá, že jedna agentúra, Európska agentúra pre bezpečnosť letectva, nepovoľuje lietadlám lietať, zatiaľ čo iná, napríklad rakúska agentúra, je presvedčená o tom, že napokon predsa len lietať môžu. Moja otázka znie: je agentúra EASA v lepšom postavení vďaka rozšíreniu právomocí, o ktorom sme v tejto oblasti rozhodli, keď sa zdá, že podľa vašich slov začína spoločnosť, ktorá vyrába tieto lietadlá, robiť určité ťažkosti? Je agentúra EASA v lepšom postavení, keď teraz už môže robiť to, na čom sme sa dohodli, predovšetkým, že môže uvaliť pokuty a nemusí okamžite odobrať licenciu? Myslím si, tieto rozšírené právomoci, o ktorých sme rozhodli, v budúcnosti uľahčia prácu agentúry EASA.
+<SPEAKER ID="284" NAME="Jacques Barrot">
+podpredseda Komisie. - (FR) Dovoľte mi jasne povedať, že agentúra EASA vydala inštrukcie a všetky letecké spoločnosti sú povinné dodržiavať pravidlá stanovené touto agentúrou.
+<P>
+Vaša otázka sa však týka širších súvislostí. Áno, agentúra EASA zodpovedá za vydávanie osvedčení pre lietadlá a aj za vydávanie osvedčení o schválení návrhu po celom svete, no pokiaľ ide o monitorovanie toho, či sa spoločné pravidlá uplatňujú jednotne, spolieha sa na kontroly v jednotlivých členských štátoch EÚ.
+<P>
+Inak povedané, ako ste správne povedali, rozšírili sme právomoci agentúry, no nie až do takej miery, aby úrady pre civilné letectvo v jednotlivých členských štátoch už nemali vôbec žiadnu zodpovednosť. Členské štáty musia vykonávať svoje povinnosti prostredníctvom svojich úradov pre civilné letectvo.
+<P>
+Jedného dňa možno budeme môcť zájsť ešte ďalej, no v súčasnosti musí agentúra EASA vykonať mnoho zložitých úloh, musí tiež byť schopná veľmi pozorne monitorovať uplatňovanie spoločných pravidiel prostredníctvom kontrol v jednotlivých členských štátoch.
+<P>
+Pokiaľ ide o tento konkrétny prípad, myslím si, že agentúra EASA urobila všetko potrebné pre zaručenie bezpečnosti.
+<SPEAKER ID="285" NAME="Predsedajúci">
+
+<P>
+Vec: Transparentnosť pri výplatách manažérov
+<P>
+V celej Európe sa výplaty manažérov stabilne zvyšujú. Napríklad v Rakúsku vzrástli v roku 2007 základné mzdy manažérov o približne 3,7 % oproti roku 2006. Premenlivé zložky manažérskych výplat sa však zvýšili oveľa prudšie. Nárast manažérskych výplat viedol k väčšiemu záujmu verejnosti o skutočnú výšku odmeny za výkon manažérskych činností. Najmä keďže nie je povinné, aby sa v súvahe uvádzala výška premenlivej zložky mzdy, akcionári chcú vedieť, akým spôsobom sa míňajú ich peniaze. Európski občania jasne požadujú väčšiu transparentnosť pokiaľ ide o výplaty manažérov.
+<P>
+Uvedomuje si Komisia túto situáciu? Plánuje sa vypracovanie európskych právnych predpisov, ktoré by viedli k väčšej transparentnosti v oblasti výplat manažérov, alebo už právne predpisy v tejto oblasti existujú?
+<SPEAKER ID="286" NAME="Charlie McCreevy">
+člen Komisie. - Výplaty manažérov sú aktuálnou otázkou, je to tak už nejaký čas. V tejto súvislosti prijala Komisia opatrenia na zvýšenie transparentnosti v oblasti výplat manažérov.
+<P>
+Odporúčanie Komisie prijaté v roku 2004 ustanovuje každoročné zverejňovanie politiky spoločnosti, ktorá sa týka riaditeľských odmien i odmien jednotlivých riaditeľov. Komisia vykonala po prijatí tohto odporúčania aj následnú kontrolu, ktorej zámerom bolo zistiť, či ho členské štáty skutočne uplatňujú. Nedávno sme na základe toho zostavili prehľad.
+<P>
+Veľká väčšina členských štátov zaviedla vysoké štandardy zverejňovania odmien jednotlivých výkonných riadiacich pracovníkov do svojich národných kódexov riadenia podniku alebo do záväzných právnych predpisov. No približne len 60 % členských štátov dodržalo odporúčanie pokiaľ ide o transparentnosť ich politiky odmeňovania. Len veľmi málo štátov odporúča, aby sa o tom hlasovalo na valnom zhromaždení spoločnosti. Tu existuje priestor na zlepšenie.
+<P>
+Komisia tiež vyhodnotí, v akom rozsahu dodržiavajú spoločnosti odporúčané normy transparentnosti v praxi. Odmeny predstavujú oblasť, v ktorej niektoré spoločnosti preukázali výraznú nechuť zverejniť informácie aj napriek odporúčaniam národného kódexu riadenia podniku. Na túto otázku sa pozrieme bližšie.
+<SPEAKER ID="287" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Vážený pán komisár, sám ste povedali, že 60 % podnikov nemá v úmysle niečo robiť. Preto sa vás pýtam: čo má v úmysle robiť Komisia?
+<P>
+A teraz moja druhá otázka. Na základe skutočného prípadu, ktorý sa stal v Nemecku, vieme, že títo páni (keďže ide predovšetkým o pánov) nielen zarábajú veľmi veľa peňazí, ale nechcú z nich ani platiť dane, a preto idú do Lichtenštajnska a do iných podobných lokalít. Čo zamýšľa Komisia urobiť, aby v budúcnosti zabránila takýmto praktikám?
+<SPEAKER ID="288" NAME="Charlie McCreevy">
+člen Komisie. - Pokiaľ ide o obe otázky váženého pána poslanca, sú to veci, ktoré by mal riešiť členský štát. Pokiaľ ide o otázku, ktorá sa týka toho, čo urobí Komisia, Komisia už urobila, čo mohla.
+<P>
+Môj predchodca sa rozhodol v tejto konkrétnej oblasti vypracovať odporúčanie. Prečo sa rozhodol pre odporúčanie a nie pre niečo iné? Nepochybujem o tom, že mal na to mnoho dôvodov, no hlavným z nich bola určite skutočnosť, že neexistuje dohoda o jednotnom kódexe riadenia podniku ani o zákonnom režime spoločností v Európe. Takúto dohodu by sa nám nikdy nepodarilo dosiahnuť.
+<P>
+V celej tejto oblasti existuje veľmi veľké množstvo kultúrnych rozdielov, a to bol určite jeden z hlavných dôvodov, prečo sa môj predchodca rozhodol v tejto konkrétnej oblasti vydať odporúčanie.
+<P>
+Pokiaľ ide o odporúčanie, výsledky našej štúdie ukázali, že väčšina členských štátov zaviedla vysoké štandardy zverejňovania odmien jednotlivých riaditeľov do kódexov riadenia podniku, niektoré členské štáty ich zaviedli do záväzných právnych predpisov Väčšina členských štátov sa tiež zaoberala odporúčaním z hľadiska transparentnosti politiky odmeňovania.
+<P>
+Pokiaľ ide o druhú otázku, ktorá sa týka daní, je, samozrejme, vecou každého jednotlivého členského štátu, aby postupoval ako uzná za vhodné, v súlade s právnymi predpismi danej krajiny.
+<P>
+Vec: Výstavba podzemnej vysokorýchlostnej koľajovej trate v blízkosti chrámu Sagrada Família v Barcelone
+<P>
+Ako je všeobecne známe, výstavba podzemnej vysokorýchlostnej koľajovej trate v Barcelone viedla vo viacerých prípadoch k zrúteniu alebo poklesu budov, pričom došlo k ohrozeniu obývaných budov i významných stavieb vrátane chrámu Sagrada Família a iných historických budov.
+<P>
+Keďže ide o projekt, ktorý je podporovaný z finančných prostriedkov EÚ, môže nám Komisia poskytnúť informácie o predchádzajúcom posúdení vplyvu na životné prostredie, ktoré malo byť vykonané v súlade so smernicou 85/337/EHS(1), a povedať nám, či tieto štúdie posúdili ohrozenie chrámu Sagrada Família a iných historických budov?
+<P>
+Obsahujú spisy, ktoré sa dostali k európskym inštitúciám, štúdiu vykonanú Univerzitou Pompeu Fabra, ktorá vzhľadom na celkové riziká neodporúčala danú podzemnú možnosť?
+<SPEAKER ID="290" NAME="Stavros Dimas">
+člen Komisie. - (EL) Vážený pán predsedajúci, v prvom rade by som vám chcel pripomenúť pevné predsavzatie Komisie, že nech je projekt akokoľvek prínosný alebo potrebný, nikdy by sa nemal realizovať na úkor životného prostredia, verejného zdravia, ani kultúrneho dedičstva členského štátu.
+<P>
+Členské štáty musia prijímať všetky potrebné opatrenia na ochranu a zachovanie kultúrneho dedičstva, a to najmä v historických centrách miest, na ktoré je niekedy vyvíjaný ešte väčší nátlak v dôsledku zvyšujúcej sa urbanizácie.
+<P>
+Pokiaľ ide o otázku, ktorú predložila vážená pani poslankyňa, dovoľte mi zdôrazniť toto: projekty výstavby vysokorýchlostnej železničnej trate Madrid-Zaragoza-Barcelona boli len čiastočne spolufinancované z Kohézneho fondu.
+<P>
+Fond transeurópskych dopravných sietí spolufinancuje prípravu štúdií projektov po celej dĺžke trate, vrátane prípojky z Barcelony do Gerony a Figueres.
+<P>
+Napriek tomu finančné prostriedky z európskych fondov nemuseli byť doložené ani použité na projekty, ktoré sa týkajú podzemnej železnice v Barcelone. Tiež je potrebné podotknúť, že plánovanie a realizácia projektov je vo výhradnej zodpovednosti členského štátu, ktorý je povinný dodržiavať a dôsledne vykonávať príslušné pravidlá vyplývajúce z právnych predpisov Spoločenstva.
+<P>
+V tomto konkrétnom prípade neboli na prípravné práce na úseku medzi stanicami Sants a Sagrega ani na tunel, ktorý sa má otvoriť v blízkosti chrámu Sagrada Família, poskytnuté žiadne finančné prostriedky Spoločenstva. Komisia preto o týchto úsekoch nebola informovaná, ani neobdržala kópiu posúdenia vplyvu na životné prostredie, ktoré vykonali španielske úrady.
+<P>
+Komisia bola informovaná o tom, že príslušný španielsky orgán, konkrétne generálny sekretariát na boj proti znečisteniu a klimatickým zmenám, schválil posúdenie vplyvu na životné prostredie svojím rozhodnutím z dňa 30. mája 2007. Text schvaľujúceho rozhodnutia bol zverejnený v úradnom vestníku španielskej vlády v júni 2007. V texte sa spomínajú aj následky projektu na kultúrne dedičstvo, napríklad na chrám Sagrada Família.
+<P>
+Na záver mi dovoľte povedať, že Komisia nebola informovaná o štúdii, ktorú vypracovala Univerzita Pompeu Fabra. Španielske orgány zodpovedajú za zváženie tak obsahu štúdií, ako tomu bolo v tomto prípade, i za zváženie verejnej mienky.
+<P>
+Komisia bude túto situáciu aj naďalej sledovať. Dúfame, že tomuto historickému pomníku kultúrneho dedičstva, ktoré patrí mestu Barcelona, sa nič zlé nestane.
+<SPEAKER ID="291" NAME="Cristina Gutiérrez-Cortines" AFFILIATION="PPE-DE">
+(ES) Vážený pán predsedajúci, nepochybujem o tom, že zákonné postupy boli, povedzme s minimálnym nátlakom, dodržané. Oslovila som Komisiu, aby som ju požiadala o pomoc vzhľadom na jej úlohou ochrankyne zmlúv, apelujem na jej svedomie, aby odmietla opatrenia, a aby v tejto súvislosti svedomito uplatnila smernicu o posudzovaní účinkov na životné prostredie.
+<P>
+Skutočnosť, že táto časť tunela nebude financovaná z finančných prostriedkov Európskej únie v tomto prípade nie je podstatná, pretože všetci vieme, že postup rozdeľovania projektov na úseky sa neosvedčil a Európska únia ho už v minulosti mala možnosť kritizovať.
+<P>
+Prečo nebol projekty vysokorýchlostnej koľajovej trate vyhlásený za veľký projekt, pre ktorý by bolo nutné vypracovať podrobné štúdie vplyvu, keď vieme, že pôjde popod veľmi citlivé oblasti, napríklad oblasť Pedrera, a najmä popri chráme Sagrada Família?
+<P>
+V súlade s duchom článku 3 smernice o posudzovaní účinkov na životné prostredie je nevyhnutné vykonať posúdenie možného dosahu na kultúrne dedičstvo. 40 metrov hlboký ochranný múr, ktorý sa má vybudovať, sa bude nachádzať vo vzdialenosti len jeden a pol metra od priečelia chrámu Sagrada Família, ktorý váži 40 tisíc ton.
+<P>
+Okrem toho, ak vezmeme do úvahy vlastnosti terénu a tiež skutočnosť, že táto katedrála je mimoriadne zložitým dielom génia, všetko čo žiadam je, aby sa vypočuli a vzali do úvahy názory všetkých strán. Som veľmi rada, že vysokorýchlostná koľajová trať napreduje, no toto nie je otázka politických strán, trasu zmenila Ľudová strana (PP) a myslím si, že je potrebné ju opäť zmeniť tak, aby išla pozdĺž ulice Valencia.
+<SPEAKER ID="292" NAME="Stavros Dimas">
+člen Komisie. - (EL) Dovoľte mi znova zdôrazniť, že Komisia nemá právomoc zasiahnuť. Pani poslankyňa má, samozrejme, pravdu, keď hovorí, že musíme venovať osobitnú pozornosť zachovaniu nášho kultúrneho dedičstva, najmä ak ide o architektonické veľdiela. Až doposiaľ nás však nikto neupozornil na žiadne nebezpečenstvo, neboli sme informovaní o žiadnych chybách, pokiaľ ide o návrh posúdenia vplyvu na životné prostredie, ktoré bolo vykonané.
+<P>
+Do pozornosti Komisie sa zatiaľ dostali len petície, ktoré predložilo príslušnému výboru Európskeho parlamentu združenie Llave para Litoral, ktorého členovia požadujú, aby popri pobreží viedla iná ako stanovená podzemná trasa.
+<P>
+Tieto problémy však musia vyriešiť miestne orgány, regionálne orgány a ústredná vláda prostredníctvom uplatnenia smernice o posudzovaní vplyvov na životné prostredie. Je ich povinnosťou takto konať, aby zachovali naše kultúrne dedičstvo.
+<SPEAKER ID="293" NAME="Maria Badia i Cutchet" AFFILIATION="PSE">
+(ES) Vážený pán predsedajúci, chcela by som pripojiť niekoľko podrobností a povedať, aby som ľudí možno trochu upokojila, že sú k dispozícii všetky geologické informácie o týchto prácach, stavebné techniky sú vhodné pre dané podmienky, vykonajú sa preventívne opatrenia predtým, než sa začnú práce pri existujúcich stavbách, bude prebiehať neustále sondovanie, aby bolo možné okamžite odhaliť aj najmenšiu možnosť pohybu alebo usadzovania zeme, práce nebudú mať žiadny nepriaznivý vplyv na susedné stavby a bude tiež zaručená transparentnosť vzhľadom na poskytovanie informácií verejnosti.
+<P>
+Chcem tým povedať, že som presvedčená, že nikto nemá väčší záujem na tom, aby sa zaistilo, že nevzniknú absolútne žiadne škody ani na tejto historickej pamätihodnosti, ani vo vzťahu k ľuďom, ktorí žijú v tejto oblasti, ako španielske a katalánske vládne orgány a orgány miestnej samosprávy.
+<SPEAKER ID="294" NAME="Stavros Dimas">
+člen Komisie. - (EL) Myslím si, že k informáciám, ktoré nám poskytla ctená pani poslankyňa, nemám čo dodať.
+<P>
+druhá časť
+<SPEAKER ID="296" NAME="Predsedajúci">
+
+<P>
+Vec: Zaradenie starovekej gréčtiny a latinčiny do európskeho indikátora jazykovej kompetencie.
+<P>
+Vzhľadom na zámer Komisie zaviesť európsky indikátor jazykovej kompetencie pre päť najrozšírenejších jazykov, žiadam Komisiu, aby sa vyjadrila, či má v úmysle zaradiť latinčinu a starovekú gréčtinu do programu cieleného vyučovania európskych jazykov, keďže tieto dva jazyky sú základom európskych jazykov a mnoho slov odvodených z latinčiny a starovekej gréčtiny sa používa vo všetkých európskych jazykoch bez ohľadu na ich pôvod.
+<P>
+Vzhľadom na dôležitosť týchto jazykov už európska únia klasicistov, Euroclassica, stanovila úrovne a osvedčovala kompetencie v latinčine. Podobný program sa pripravuje pre starovekú gréčtinu. Vyučovanie týchto dvoch kľúčových jazykov klasického staroveku poskytne možnosť spoločne prehĺbiť základy európskej civilizácie a vytvoriť užšie vzťahy medzi európskymi občanmi. Osvedčenie takýchto jazykových znalostí bude ďalšou kvalifikáciou v profesijnom živote.
+<SPEAKER ID="297" NAME="Leonard Orban">
+člen Komisie. - (RO) Oznámenie Komisie nazvané "Európsky indikátor jazykovej kompetencie", ktoré bolo prijaté v roku 2005, navrhuje podrobný strategický prístup na vykonanie európskeho prieskumu jazykových kompetencií. Prostredníctvom tohto nástroja bude možné vykonať zber údajov potrebných na prípravu európskeho indikátora v tejto oblasti, bude tiež možné rozšíriť poznatky o výučbe cudzích jazykov.
+<P>
+Na základe týchto podkladov predstavila Rada v máji roku 2006 závery o súbore základných problémov, ktoré sa týkajú Európskeho indikátora jazykovej kompetencie. Pokiaľ ide o cudzie jazyky, ktoré mali byť predmetom testov, Rada rozhodla, že Európsky indikátor jazykovej kompetencie bude určený pre oficiálne jazyky Európskej únie. To znamená, že tento projekt sa zameriava len na živé jazyky. Z toho dôvodu sa neuvažovalo o možnosti testovať znalosti z latinčiny alebo starovekej gréčtiny.
+<P>
+Z praktických dôvodov sa Rada rozhodla, že počas prvej fázy európskeho prieskumu jazykových zručností sa bude posudzovať jazyková zručnosť žiakov vzhľadom na prvý a druhý cudzí jazyk, ktoré sa spomedzi oficiálnych cudzích jazykov vyučujú v Európskej únii najčastejšie, predovšetkým angličtina, francúzština, nemčina, španielčina a taliančina. Zber údajov by sa mal uskutočniť v troch oblastiach: čítanie, počúvanie, a písanie.
+<P>
+Tento nástroj na testovanie však bude k dispozícii všetkým krajinám, ktoré by chceli zabezpečiť, aby sa k testom zo spomínaných piatich cudzích jazykov pridali ďalšie testy ako vnútroštátne možnosti. Komisia tiež príde s iniciatívou, aby zabezpečila, že ďalšia fáza prieskumu bude pozostávať zo všetkých oficiálnych jazykov, ktoré sa vyučujú v Európskej únii.
+<SPEAKER ID="298" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Vážený pán predsedajúci, vidím, že vyučovanie nepatrí do oblasti vašej pôsobnosti. Nepatrí tam ani šírenie informácií, ani, ako som už spomenula písomne, zachovávanie spoločného dedičstva, ktoré pramení z klasických jazykov.
+<P>
+Patria alebo nepatria tieto otázky do oblasti vašej pôsobnosti? To je moja prvá otázka. Mojou druhou otázkou je: vzťahuje sa európsky program v oblasti výskumu na výskum týchto jazykov alebo nie? Máte nejaké informácie o tejto problematike?
+<SPEAKER ID="299" NAME="Leonard Orban">
+člen Komisie. - (RO) Otázka, ktorú ste mi položili, sa týkala európskeho indikátora jazykovej kompetencie. Ako som už odpovedal, toto opatrenie sa vzťahuje len na oficiálne jazyky Európskej únie. Na druhej strane, Európska komisia nemá žiadne informácie o možných výskumoch alebo štúdiách, ktoré by sa realizovali v členských štátoch alebo v regiónoch členských štátov, a ktoré by boli zamerané na spomínané jazyky.
+<SPEAKER ID="300" NAME="Manolis Mavrommatis" AFFILIATION="PPE-DE">
+(EL) Vážený pán komisár, ako spravodajca pre európsky indikátor jazykovej kompetencie by som rád zdôraznil, že úloha predmetného indikátora je pravidelne posudzovať celkovú kompetenciu v oblasti moderných jazykov všetkých členských štátov.
+<P>
+Dohodli sme sa, že na začiatku bude tento indikátor merať jazykové zručnosti v piatich jazykoch, ktoré sú najrozšírenejšie v systémoch vzdelávania v EÚ (angličtina, francúzština, nemčina, taliančina a španielčina).
+<P>
+Parlament však vyzval Komisiu a Radu, aby prijali potrebné opatrenia na čo najrýchlejšie rozšírenie tohto testu na širšie rozpätie oficiálnych jazykov Európskej únie za predpokladu, že to nebude mať nepriaznivý vplyv na výučbu a rozvoj moderných jazykov.
+<P>
+Môže nám pán Komisár povedať, ako sme pokročili a aké jazyky, ak to je možné, budú zaradené do ďalšej fázy?
+<SPEAKER ID="301" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Vážený pán komisár, v bývalom kláštore v Hejniciach v severných Čechách sa nachádza poľsko-nemecko-české centrum, v ktorom sú všetky nápisy a tabule v latinčine. Nemohli by sme to isté urobiť v budovách európskych inštitúcií?
+<P>
+Druhý návrh: nebolo by možné vytvoriť latinský text európskej hymny, ktorý by všetci mohli spievať jednohlasne, a ktorý by si jednotlivé členské štáty mohli následne preložiť do svojich jazykov, no spoločný text by bol v latinčine?
+<SPEAKER ID="302" NAME="Leonard Orban">
+člen Komisie. - (RO) Pokiaľ ide o európsky indikátor jazykovej kompetencie, ako som už povedal, a ako ste aj vy správne poznamenali, v prvej fáze bude posúdených len päť jazykov.
+<P>
+V súčasnosti máme takýto časový plán: tento rok pripravujeme pilotný projekt, v roku 2009 urobíme všetky prípravy potrebné pre posudzovanie tak, aby sme v roku 2010 mali, pokiaľ ide o týchto päť jazykov, jasné výsledky. Potom, ako som už povedal, chce Komisia rozšíriť tento indikátor na všetky oficiálne jazyky. Je však ešte priskoro, aby sme dokázali stanoviť presný termín, kedy k tomuto rozšíreniu dôjde. Samozrejme, musíme podrobne preskúmať výsledky posudzovania, ktoré sa týka indikátora pre úvodných päť jazykov.
+<P>
+Na druhej strane, pokiaľ ide o druhú otázku, ktorú ste mi položili, cieľom Európskej komisie je chrániť jazykovú rozmanitosť. Z tohto hľadiska, zámerom všetkých opatrení, ktoré Európska komisia prijíma, je chrániť oficiálne jazyky i ostatné jazyky, ktorými sa v Európskej únii hovorí. Máme 23 oficiálnych jazykov a viac ako 60 regionálnych jazykov, jazykov menšín a menej používaných jazykov. Z tohto hľadiska sa opatrenia, ktoré prijímame, zameriavajú najmä na tieto jazyky, ktoré sme nazvali živými jazykmi.
+<P>
+Pokiaľ ide o európsku hymnu, samozrejme, názory sú rôzne. Čo sa týka tejto problematiky, nie je úlohou Európskej komisie o nej rozhodovať.
+<SPEAKER ID="303" NAME="Predsedajúci">
+
+<P>
+Vec: Podpora jazykových menšín
+<P>
+Akým jazykovým menšinám poskytla Komisia podporu v roku 2007 a aké sú z hľadiska Komisie možnosti, aby v rokoch 2008 a 2009 obdržali nemecky hovoriace menšiny väčšiu podporu?
+<SPEAKER ID="304" NAME="Leonard Orban">
+člen Komisie. - (RO) Čo sa týka výzvy na predkladanie návrhov v roku 2007, v rámci financovania programu celoživotného vzdelávania bola vybratá jedna sieť a tri projekty, ktoré sa zaoberajú jazykmi menšín.
+<P>
+Kľúčová aktivita 2: cudzie jazyky. Sieť vytvorená na podporu jazykovej rozmanitosti, koordinovaná Waleskou jazykovou radou, sa zameriava na tieto jazyky: baskičtina, bretónčina, katalánčina, kornčina, východná frízština, škótska gaelčina, severná frízština, waleština, západná frízština, slovenčina, ladinčina, galicíjčina, friulčina (furlančina), sardínčina, estónčina, írčina, lotyština, litovčina, maltčina, fínčina a švédčina.
+<P>
+Jedným z partnerov tohto trojročného projektu je Európsky úrad pre menej rozšírené jazyky. Zámerom projektu je zabezpečiť výmenu súčasných osvedčených postupov a rozvíjať nové a inovatívne myšlienky v oblasti vzdelávania a jazykového plánovania v kontexte regionálnych jazykov, jazykov menšín, pôvodných jazykov, cezhraničných jazykov, jazykov menších národov a menej rozšírených jazykov. Tri viacročné projekty, ktoré získali finančnú podporu v roku 2007, sa zameriavajú na jazyky menšín i na svetové jazyky, napríklad na katalánčinu, baskičtinu, sardínčinu, sicílsku taliančinu, írčinu, ruštinu, arabčinu a hindčinu.
+<P>
+V období rokov 2008 až 2010 sa budú uprednostňovať projekty zamerané na menej rozšírené európske jazyky. V kontexte programu celoživotného vzdelávania na roky 2007 až 2013 sú všetky jazyky oprávnené získať finančnú podporu, teda to zahŕňa aj nemecky hovoriace menšiny.
+<SPEAKER ID="305" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Vážený pán komisár, rozumel som vám správne, že nemecky hovoriace menšiny nemôžu dostať podporu skôr ako v roku 2013? Skutočnosť je predsa taká, že, napríklad, existujú skutočné menšiny, akými sú Nemci žijúci v Českej republike, Poliaci žijúci v Litve, alebo Poliaci žijúci v Českej republike, a podobne. Ak tieto menšiny majú napríklad médiá alebo kultúrne projekty, nemôžu v súčasnosti získať žiadnu podporu. Alebo som to zle pochopil?
+<SPEAKER ID="306" NAME="Leonard Orban">
+člen Komisie. - (RO) Možno som sa nevyjadril dostatočne zrozumiteľne. Rozhodne som nepovedal, že určité jazyky, vrátane nemčiny, nemôžu dostať podporu skôr ako v roku 2013. Odpoveď je jednoznačná. V rámci programu celoživotného vzdelávania môžu získať finančné prostriedky všetky jazyky, ktorými sa hovorí v Európskej únii, to zahŕňa , samozrejme, aj nemčinu. Jediná rozhodujúca vec je kvalita predloženého projektu alebo predložených projektov. Preto moja odpoveď znie, že tieto jazyky jednoznačne môžu byť financované v rámci programu celoživotného vzdelávania vrátane obdobia rokov 2008 až 2013. Opakujem vrátane tohto obdobia.
+<SPEAKER ID="307" NAME="Predsedajúci">
+
+<P>
+Vec: Menej používané jazyky v Európe
+<P>
+Prosím Komisiu, aby uviedla, či má v úmysle v blízkej budúcnosti predložiť nejaké nové programy na podporu používania menej používaných jazykov v Európe. Môže tiež uviesť charakter týchto programov a pravdepodobnú výšku finančnej podpory, ktorá by mohla byť vyčlenená na takéto programy?
+<P>
+Otázka č. 45 bude zodpovedaná písomne.
+<SPEAKER ID="308" NAME="Leonard Orban">
+člen Komisie. - (RO) Komisia nemá v úmysle v blízkej budúcnosti predstaviť nový program, ktorý by bol zameraný konkrétne na podporu používania menej rozšírených jazykov v Európe. V skutočnosti nová generácia programov Komisie na obdobie rokov 2007 až 2013, predovšetkým program celoživotného vzdelávania, ponúka pre tieto jazyky široký rozsah možností financovania. Všetky jazyky sú oprávnené žiadať o podporu v rámci tohto programu.
+<P>
+Finančné prostriedky je možné získať vo všetkých štyroch podprogramoch programu celoživotného vzdelávania: COMENIUS, ERASMUS, Grundvig a Leonardo da Vinci. Finančné prostriedky je tiež možné získať v rámci novovytvorenej priesečníkovej časti programu celoživotného vzdelávania, najmä prostredníctvom kľúčovej aktivity (cudzie jazyky), v ktorej je možné financovať projekty a siete, ktoré sa zameriavajú na podporu výučby cudzích jazykov a jazykovej rozmanitosti.
+<P>
+Čo sa týka všeobecnej výzvy na predkladanie návrhov roku 2007, v rámci kľúčovej aktivity 2 boli pre získanie finančnej podpory vybraté tri projekty a jedna sieť, ktoré sa zameriavajú na menej rozšírené jazyky. V období rokov 2008 až 2010 sa budú uprednostňovať projekty zamerané na jazyky, ktoré sú v Európe menej rozšírené. V roku 2008 je pre kľúčovú aktivitu 2 k dispozícii rozpočet vo výške 9,9 milióna EUR, ale vzhľadom na skutočnosť, že financovanie činností a projektov súvisiacich s jazykmi je súčasťou prevládajúceho trendu, k dispozícii sú tiež ďalšie finančné prostriedky v rámci programu celoživotného vzdelávania.
+<SPEAKER ID="309" NAME="Seán Ó Neachtain" AFFILIATION="UEN">
+(GA) Vážený pán predsedajúci, chcem sa poďakovať pánovi komisárovi za odpoveď. Súhlasí však s tým, že je dôležité, aby sa menej používaným jazykom poskytovala pomoc v ich vlastnom rámci, a že by nemali byť priveľmi previazané na celoživotné vzdelávanie? Tieto jazyky sú zraniteľné a ak sa im neposkytne významná podpora, v budúcnosti budú ešte zraniteľnejšie. Samozrejme, finančná podpora je dôležitá, no symbolická podpora je ešte dôležitejšia. Súhlasí pán komisár s tým, že by ju bolo potrebné zvýšiť?
+<SPEAKER ID="310" NAME="Leonard Orban">
+člen Komisie. - (RO) Môžem len zopakovať, čo som práve povedal, a síce to, že Európska komisia prijíma opatrenia na podporu jazykovej rozmanitosti, pričom podpora sa netýka len 23 oficiálnych jazykov, ale aj ostatných jazykov, ktorými sa v Európskej únii hovorí, vrátane regionálnych jazykov, menej rozšírených jazykov. Okrem toho, údajmi, ktoré som vám poskytol, som poukázal na to, že ide o cielenú podporu. Na rozvoj týchto jazykov sa poskytuje významná finančná podpora.
+<SPEAKER ID="311" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+(GA) Vážený pán predsedajúci, môj kolega pán Seán Ó Neachtain hovorí írsky plynulo. Ja však nie. Ospravedlňujem sa.
+<P>
+Môžem vám položiť otázku? Súhlasím s predpokladom, z ktorého vychádza vaša odpoveď. Peniaze sú dôležité, no nie je ešte dôležitejšie, aby sme vedeli, ako lepšie vyučovať jazyky? V krajinách ako je Írsko, by ľudia, medzi ktorých patrím aj ja, veľmi radi hovorili pôvodným jazykom, no prešli cez vzdelávací systém, ktorý im to neumožnil. Je potrebné nájsť spôsoby, ako by bolo možné naučiť nás hovoriť našim materinským jazykom, pretože by sme to veľmi radi dokázali.
+<SPEAKER ID="313" NAME="Leonard Orban">
+člen Komisie. - (RO) Európska komisia má v úmysle v druhej polovici roku 2008 predstaviť novú stratégiu v oblasti viacjazyčnosti. Veľmi významnou súčasťou tejto stratégie bude prvok vzdelávania. Veľmi dôležitá bude skladba a spôsob výučby cudzích jazykov.
+<P>
+Pokiaľ ide o írčinu, rád by som vás informoval, že som nedávno navštívil Dublin, kde som mal možnosť rokovať s írskymi úradmi. Vtedy i potom som trval na tom, že je potrebné poskytnúť čo najrozsiahlejšiu odbornú prípravu ľuďom, ktorí sú schopní pracovať ako prekladatelia a tlmočníci na úrovni Spoločenstva i inde. Tento prvok je nevyhnutný, ak máme dokázať zabezpečiť úplne rovnocenné postavenie írčiny s ostatnými oficiálnymi jazykmi Európskej únie.
+<SPEAKER ID="314" NAME="Evgeni Kirilov" AFFILIATION="PSE">
+Vážený pán predsedajúci, naozaj som očakával, že mi dnes večer pán komisár odpovie. Teraz je priestor pre ľudí, aby sa vyjadrili, a aby sa pýtali otázky. Mám otázku a bol by som rád, keby som na ňu dostal odpoveď. Je to veľmi jednoduché. Vyhláseniami dnes večer strácame čas. Dovolili by ste prosím v tomto prípade, aby pán komisár veľmi stručne odpovedal? Potom už nebudem klásť žiadne ďalšie otázky.
+<SPEAKER ID="315" NAME="Predsedajúci">
+Vážení páni poslanci, keď ľudia žiadajú o slovo, neviem posúdiť, či chcú urobiť vyhlásenie, alebo či chcú položiť otázku. Nepatrí to zatiaľ do mojich duševných schopností, nemám veštecké schopnosti. Musím však riadiť čas v súlade s nariadeniami a zvyklosťami tohto Parlamentu a nemôžem vám, žiaľ, prideliť čas. Poškodilo by to našich kolegov poslancov, ktorí položili otázky. Dovoľte mi zdôrazniť, že len pre toto zasadnutie bolo Komisii predložených 70 otázok. Samozrejme, nie je možné odpovedať na 70 otázok. Máme určité pravidlá, ktoré musíme dodržiavať. Úprimne sa vám ospravedlňujem a chápem vaše sklamanie. Ak by som bol na vašom mieste, a keď som na vašom mieste, aj ja cítim sklamanie, no nemôžem vám poskytnúť odpoveď. Pán komisár vám v každom prípade, prirodzene, odpovie písomne, a preto obdržíte odpoveď na svoju otázku. Dúfam, že to dokážete pochopiť.
+<SPEAKER ID="316" NAME="Predsedajúci">
+
+<P>
+Vec: Fond regionálneho rozvoja a menšinové skupiny
+<P>
+Dohodla sa už väčšina štrukturálnych fondov pre regionálny rozvoj pre nadchádzajúce obdobie rokov 2007 až 2013. V súvislosti s tým sa chcem opýtať, ako plánuje Komisia zabezpečiť, aby pri využívaní fondov nedochádzalo k diskriminácii, a ako chce Komisia zaručiť, aby aj národnostné menšiny, najmä Rómovia, mali prospech z týchto fondov?
+<P>
+Bude Komisia zverejňovať informácie o prideľovaní fondov podľa rôznych menšinových národnostných skupín?
+<SPEAKER ID="317" NAME="Danuta Hübner">
+členka Komisie. - Vážený pán predsedajúci, dovoľte mi povedať, že počas prípravy na novú generáciu programov kohéznej politiky na obdobie rokov 2007 až 2013 Komisia počas rokovaní trvala na tom, aby bola rómska problematika, na ktorej váženému pánovi poslancovi obzvlášť záleží, zaradená do plánovania a programovania. Musím priznať, že členské štáty zareagovali veľmi priaznivo. V mnohých národných strategických referenčných rámcoch bola rómska problematika zaradená ako prierezová téma. Na rómsku problematiku sú tiež priame odkazy v operačných programoch. Obzvlášť dobre viditeľné je to v prípade krajín ako Maďarsko, Česká republika, Slovensko, Rumunsko, Bulharsko, Estónsko a Španielsko, no tiež v prípade Poľska, Slovinska, Litvy a Fínska.
+<P>
+V dôsledku decentralizovaného spôsobu riadenia štrukturálnych fondov nie je možné, aby Komisia dokázala jasne určiť, ktoré projekty sú a v budúcnosti budú zamerané na riešenie rómskej problematiky a koľko peňazí bude v tejto oblasti k dispozícii. Vzhľadom na našu účasť v monitorovacom výbore pre obdobie rokov 2000 až 2006 môžeme jasne konštatovať, že existuje množstvo veľmi zaujímavých a vzájomne sa doplňujúcich programov a projektov, ktoré podporujú začlenenie Rómov do spoločnosti. V mnohých programoch Európskeho sociálneho fondu a Európskeho fondu pre regionálny rozvoj sú buď osobitné vykonávacie dotácie alebo sa tam podpora začlenenia Rómov nachádza nepriamo, prostredníctvom odkazov na zraniteľné skupiny. Takto je to napríklad v prípade Estónska, Fínska a Poľska.
+<P>
+Pokiaľ ide o zverejňovanie údajov, musím povedať, že počas obdobia rokov 2007 až 2013 sú členské štáty, ako pravdepodobne dobre viete, povinné zverejňovať podrobnosti o príjemcoch v každom programe, no tento systém sa výslovne netýka určenia národnostného pôvodu príjemcov. Napriek tomu však, na základe tohto zoznamu, ktorý obdržíme, budeme schopní určiť oblasti, v ktorých je európska politika aktívna.
+<P>
+Dovoľte mi tiež povedať, že Generálne riaditeľstvo pre regionálnu politiku, GR REGIO, pripravilo pre obdobie rokov 2007 až 2013 usmernenia pre vnútornú prácu Komisie v oblasti rómskej problematiky, ktoré sa počas programovacieho obdobia používajú vo všetkých útvaroch. V štrukturálnych fondoch, ktorým predsedá GR REGIO, pracuje medziútvarová skupina zameraná na rómsku problematiku.
+<P>
+Dovoľte mi tiež povedať, že v mnohých členských štátoch, dobrým príkladom je Maďarsko, existujú riadiace mechanizmy osobitne vytvorené pre proces novej regionálnej politiky. Napríklad v Maďarsku existuje sieť poradcov rómskeho pôvodu, ktorých úlohou je pomáhať rómskym uchádzačom pri príprave projektov na rôznych úrovniach. Komisia momentálne pracuje aj na vytvorení prehľadu všetkých nástrojov a politík Spoločenstva, vrátane štrukturálnych fondov, a ich vplyvu na začlenenie Rómov do spoločnosti. Komisia tento prehľad predstaví najneskôr v júni roku 2008.
+<SPEAKER ID="318" NAME="Claude Moraes" AFFILIATION="PSE">
+Vážená pani komisárka, ďakujem vám za túto vyčerpávajúcu odpoveď. Chcem sa vám tiež poďakovať za prácu, ktorú ste nedávno odviedli v mojom volebnom obvode v Londýne, keď ste nám pomohli vyriešiť naše vlastné problémy so štrukturálnymi fondmi.
+<P>
+Môžeme však hlbšie preskúmať otázku určenia toho, či sú opatrenia zamerané na národnostné menšiny skutočne správne zacielené? Európska rada vás a Komisiu v decembri konkrétne požiadala, aby ste sa touto otázkou hlbšie zaoberali. Myslíte si, že (okrem vyčerpávajúcej odpovede, ktorú ste mi už dali) existuje nejaký rámec, ktorý by umožnil určiť, či sú opatrenia zamerané na Rómov a iné skupiny dobre zacielené, alebo dochádza k filtrovaniu finančných prostriedkov na iných miestach? Existuje nejaký rámec, ktorý by vám umožnil bližšie preskúmať túto otázku?
+<SPEAKER ID="319" NAME="Danuta Hübner">
+členka Komisie. - Za prípravu dokumentu Komisie, ktorý má byť odpoveďou na žiadosť Rady, je v skutočnosti zodpovedný pán komisár Špidla. Napriek tomu sa prostredníctvom medziútvarových skupín všetci podieľame na tomto procese.
+<P>
+Ako som už povedala, budeme mať k dispozícii informácie zo správy o konečných príjemcoch, a tak budeme vedieť, čo sa robí pre Rómov a pre ostatné menšiny. Nebudeme však mať národnostne rozlíšené údaje týkajúce sa pôvodu príjemcov. Napriek tomu bude úplne jasné, na akú oblasť sa projekt zameriava, a tak budeme mať za obdobie rokov 2007 až 2013 oveľa viac informácií ako máme dnes.
+<P>
+Dovoľte mi tiež povedať, že Komisia sa chce v rámci svojej funkcie pozorovateľa v riadiacom systéme vo výboroch členských štátov aktívne podieľať na posudzovaní prideľovania financií do oblastí, ktoré sú z hľadiska národnostných menšín dôležité. Budeme mať teda rôzne súbory informácií. Musím však pripustiť, že nemáme plnohodnotný nástroj, pomocou ktorého by bolo možné určiť celkový rámec zásahu vykonávaného prostredníctvom politiky, no určite si uvedomujeme všetky možnosti, ktoré máme, a snažíme sa ich využiť.
+<P>
+Uvidíme. Momentálne pripravujeme náš vstup do dokumentu Komisie, ktorý je určený pre Radu. Uvidíme tiež, kde sa nachádzajú prázdne miesta, oblasti, o ktorých nemáme informácie, i aké opatrenia je ešte potrebné prijať.
+<SPEAKER ID="320" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Vážený pán predsedajúci, chcela by som sa pani komisárky opýtať, či sú rodiny, v ktorých je len jeden rodič, a chudobné rodiny s veľkým počtom detí zahrnuté pod vymedzenie pojmu "zraniteľné skupiny" a či predstavujú alebo nepredstavujú menšinové skupiny. Ďalej by som sa chcela opýtať, či je možné tieto kritériá spojiť, a či je možné zvýšiť podporu takýmto skupinám.
+<SPEAKER ID="321" NAME="Danuta Hübner">
+členka Komisie. - Chcela by som len povedať, že nič nebolo vylúčené. S vašou pomocou sme dokončili prípravu nariadení. Pokiaľ ide o zraniteľné skupiny, usilovali sme postupovať citlivo, vo všeobecnom nariadení Európskeho fondu regionálneho rozvoja (EFRR) sa nachádzajú jasné odkazy týkajúce sa, napríklad, politiky rovnakých príležitostí. Táto otázka je teda prioritná.
+<P>
+V novej generácii programov kohéznej politiky existuje systém informovania o tom, akým spôsobom sa vykonávajú politiky rovnakých príležitostí. Rozsah, v akom to členské štáty a regióny dokážu využiť, závisí od toho, akí silní budú v tomto procese partneri zúčastňujúci sa na všetkých štruktúrach riadenia fondu. Ide o spoločné úsilie.
+<P>
+Komisia vytvorila všeobecný rámec, aby bolo možné zohľadniť všetky zraniteľné skupiny. Jeho využitie však nezávisí len od Komisie, ale aj od členských štátov. Dovolím si povzbudiť všetkých, ktorí majú možnosť prakticky sa zapojiť do tohto procesu, aby zabezpečili, že táto otázka bude vzatá do úvahy.
+<P>
+Členské štáty v súčasnej dobe rozhodujú o výberových kritériách, Komisia sa podieľa na tomto procese. Napriek tomu, priebeh tohto procesu závisí od členských štátov a od partnerov, pretože na práci v monitorovacích výboroch sa zúčastňujú všetci sociálni partneri. Dúfam, že všetkým partnerom sa spolu s Komisiou podarí uprieť pozornosť členských štátov na tieto otázky, a že medzi výberovými kritériami budú aj kritériá, ktoré nám umožnia zabezpečiť plné zastúpenie všetkých zraniteľných skupín v našich programoch.
+<SPEAKER ID="322" NAME="Predsedajúci">
+
+<P>
+Vec: Regionálne financovanie EÚ pre Írsko na obdobie rokov 2007 až 2013
+<P>
+Môže Komisia uviesť, či je spokojná s úrovňou regionálnej parity v nedávno schválenom financovaní EÚ pre Írsko na obdobie rokov 2007 až 2013, a či ju znepokojuje, že podľa štatistík nedochádza ku konvergencii dvoch regiónov Írska, no naopak, región Border, Midland & Western (BMW) aj naďalej zaostáva za regiónom Southern & Eastern (S&E ), na ktorý sa aj naďalej upriamujú vládne výdavky?
+<SPEAKER ID="323" NAME="Danuta Hübner">
+členka Komisie. - Pokiaľ ide o Írsko, o pridelenie finančných prostriedkov na obdobie rokov 2007 až 2013 a o ich rozdelenie medzi dva hlavné regióny, dovoľte mi povedať, že región Border, Midlands and Western (BMW), ktorý je v rámci druhého cieľa zavádzacím regiónom, dostane v prepočte na jedného obyvateľa štyrikrát vyššiu finančnú dotáciu ako susedný prosperujúcejší írsky región Southern and Eastern.
+<P>
+Z celkovej sumy 901 miliónov EUR, ktoré boli pridelené Írsku, pôjde 457 miliónov EUR do regiónu BMW a 293 miliónov EUR do regiónu Southern and Eastern.
+<P>
+Okrem toho je tiež k dispozícii 150 miliónov EUR na programy spolupráce, čo po prepočte na jedného obyvateľa činí približne 400 EUR v regióne BMW a približne 95 EUR v regióne Southern and Eastern.
+<P>
+Dovoľte mi tiež povedať, že regiónu BMW sa vďaka podpore zo štrukturálnych fondov EÚ v poslednom programovom období darilo veľmi dobre. Tento región už v roku 2004 dosiahol 102,9 % priemerného HDP na obyvateľa EÚ 27. No priznávam, že rozdiel v HDP regiónu BMW a susedného regiónu Southern and Eastern ostáva aj naďalej výzvou, preto dúfame, že v rámci programov v období rokov 2007 až 2013, v rámci ESF a EFRR, budeme svedkami ďalšieho znižovania tohto rozdielu.
+<SPEAKER ID="324" NAME="Jim Higgins" AFFILIATION="PPE-DE">
+(GA) Vážený pán predsedajúci, dovoľte mi poďakovať sa pani komisárke. Chcel by som uviesť do súvislostí rozsiahly projekt ciest, ktorý je pre odľahlé oblasti veľmi dôležitý. V roku 2006 bolo dokončených 14 rozsiahlych cestných projektov, no ani jeden z nich nebol v regióne BMW. V rovnakom roku sa budovali aj nové cestné projekty, no len jeden z nich bol na západe, v regióne BMW.
+<P>
+V rovnakom roku sa začalo budovať jedenásť cestných projektov, ktoré pokrývali 222 kilometrov, no z toho sú na západe len dva, ktoré pokrývajú 25 kilometrov. Máte pravdu, že napríklad pri skúmaní hrubého domáceho produktu alebo hrubej hodnoty výroby je jasné, že rozdiel sa prehlbuje a niečo s tým musíme urobiť.
+<SPEAKER ID="325" NAME="Danuta Hübner">
+členka Komisie. - Veľmi oceňujem toto vaše vyjadrenie. Dovoľte mi tiež povedať, že pri regióne BMW budeme stáť aj počas mnohých nasledujúcich rokov. Ako viete, krátenie finančných prostriedkov pridelených Írsku na obdobie rokov 2007 až 2013 bolo mimoriadne výrazné, čo, samozrejme, významne ovplyvnilo rozsah toho, čo spolu môžeme v nasledujúcich rokoch dosiahnuť.
+<P>
+Dovoľte mi tiež povedať, že pre Írsko je dobrou správou, že bola vypracovaná Írska národná územná stratégia. Ide o národný program, ktorý zohľadňuje rôzne úrovne hospodárskeho rastu tak medzi regiónmi, ako aj v rámci regiónu BMW. Dúfame, že vďaka tomuto spoločnému európskemu a írskemu úsiliu bude región BMW rásť rýchlejšie.
+<P>
+Dovoľte mi uviesť osobnú poznámku. Všetci vieme, že Írsko dokázalo za tie roky vynikajúco využiť európske fondy, prijalo veľmi múdru stratégiu, ktorá viedla k obrovskému zlepšeniu pokiaľ ide o všeobecný rozvoj meraný prostredníctvom HDP na obyvateľa. Pravda je však taká, že si nevybrali budovanie infraštruktúry, čo v súčasnosti predstavuje problém, v ktorom Írsku nemôžeme pomôcť, pretože už ukončilo program Cieľ 1, v ktorom bolo možné vložiť ďalšie investície do infraštruktúry. Írsko sa teda rozhodlo úplne inak ako Španielsko a Portugalsko, no nie je na mne, aby som to posudzovala.
+<SPEAKER ID="326" NAME="Predsedajúci">
+
+<P>
+Vec: Podpora EÚ pre mierový proces v Írsku.
+<P>
+Môže Európska komisia uviesť, akú veľkú finančnú podporu poskytne Severnému Írsku prostredníctvom podpory zo štrukturálnych fondov v období rokov 2007 až 2013? Môže tiež Európska komisia uviesť, akú veľkú finančnú podporu poskytla mierovému procesu v Severnom Írsku od roku 1994 prostredníctvom programov štrukturálnych fondov EÚ, prostredníctvom cezhraničného programu Interreg, prostredníctvom Mierového fondu EÚ a prostredníctvom Medzinárodného fondu pre Írsko?
+<SPEAKER ID="327" NAME="Danuta Hübner">
+členka Komisie. - Každý v tejto rokovacej miestnosti vie, že Komisia je už mnoho rokov veľmi silným a aktívnym partnerom v mierovom procese a procese zmierenia v Severnom Írsku.
+<P>
+V období rokov 2007 až 2013 bude v Severnom Írsku investovaných celkovo niečo málo vyše 1,2 miliardy EUR. Táto suma bude vyčlenená v rámci Európskeho sociálneho fondu a Európskeho fondu regionálneho rozvoja, no okrem toho bude ešte 477 miliónov vyčlenených v rámci programu Mier 3. V rámci ďalších programov, IFI a Interreg 4, budú investície pridelené nielen Severnému Írsku, ale aj prihraničným oblastiam Írska.
+<P>
+Keď sa obhliadneme do minulosti, čo bolo tiež súčasťou otázky, pokiaľ ide o obdobie rokov 1994 až 1999 a 2000 až 2006, v období rokov 1994 až 1999 investovala EÚ viac ako 2 miliardy EUR a v období rokov 2000 až 2006, investovala takmer 1,8 miliardy EUR. Teda počas celého obdobia rokov 1994 až 2013, investujeme v Severnom Írsku takmer 5 miliárd EUR.
+<P>
+Teraz je tiež dôležité, v súvislosti s novou pracovnou skupinou a novým prístupom a zapojením Európskej komisie, aby prínos prevyšoval pridelené finančné prostriedky, čo je možné dosiahnuť vďaka tomu, že sa bude Severné Írsko intenzívnejšie podieľať na európskych politikách. Na tom teraz pracujeme spolu s exekutívou Severného Írska a s ďalšími partnermi.
+<SPEAKER ID="328" NAME="Seán Ó Neachtain">
+v zastúpení autora.- (GA) Vážená pani komisárka, podpora mierového procesu v Severnom Írsku a v hraničnom regióne bola veľmi úspešná. Vážená pani komisárka, povedzte prosím, či bude táto iniciatíva pokračovať aj po skončení obdobia financovania v roku 2013.
+<SPEAKER ID="329" NAME="Jim Higgins" AFFILIATION="PPE-DE">
+(GA) Vážený pán predsedajúci, plne súhlasím s kolegom, pánom Seánom Ó Neachtainom. Sme veľmi vďační Európskej únii za jej finančné príspevky Severnému Írsku, najmä hraničnému regiónu. Je vynikajúce, že je v tejto oblasti v súčasnosti mier. Všetci by sme sa chceli poďakovať Európskej únii za jej príspevok. Nedávno som vypracoval správu o Medzinárodnom fonde pre Írsko, ak podrobne preskúmame štatistiky zistíme, že vďaka tomuto fondu sa podarilo vytvoriť viac ako päťtisíc nových pracovných miest. V každom prípade, v plnej miere súhlasím s otázkou, ktorú predložil pán kolega Seán Ó Neachtain.
+<SPEAKER ID="330" NAME="Danuta Hübner">
+členka Komisie. - Pokiaľ ide o otázku, či bude naša prítomnosť v Severnom Írsku pokračovať aj po roku 2013, dovoľte mi povedať, že IFI, ktorý, ako vieme, nie je programom Komisie, do ktorého Komisia a Rada prispievajú, bude v roku 2010 ukončený. Preto nevieme, či bude medzinárodné spoločenstvo ochotné pokračovať druhou fázou alebo druhým vydaním tohto programu.
+<P>
+Pokiaľ ide o európske programy, Severné Írsko je programom cieľa 2. Úprimne dúfam, že budeme pokračovať v programe cieľ 2, pretože som presvedčená, že využívanie regionálnych politík, ktoré sú určené len pre časť Európy, pričom zvyšok je vynechaný, nie je správnym postupom. Ak nebudeme pokračovať v programe cieľ 2, Severné Írsko nebude oprávneným žiadateľom.
+<P>
+Som však tiež presvedčená, že cezhraničná a nadnárodná spolupráca, na ktorej sa Severné Írsko podieľa, najmä nový cezhraničný program prostredníctvom "C", je tiež veľmi dôležitá, pretože sme presvedčení, že táto medziregionálna spolupráca, najmä s cezhraničným rozmerom, je tiež veľmi dôležitá z hľadiska priblíženia Severného Írska k Európe a k spolupráci s inými regiónmi a členskými štátmi. Takže je to otvorené. Komisia bude určite podporovať myšlienku pokračovať v prítomnosti v tejto oblasti.
+<SPEAKER ID="331" NAME="Predsedajúci">
+
+<P>
+Vec: Európske štrukturálne fondy
+<P>
+Vie Komisia o tom, že podľa nových operačných usmernení v Škótsku musia mať projekty rozpočet minimálne 200 tisíc GBP, aby boli oprávnené čerpať finančné prostriedky z európskych štrukturálnych fondov? Nemyslí si Komisia, že tým dochádza k nespravodlivej diskriminácii malých, ale hodnotných projektov?
+<P>
+Otázky č. 50 až 54 budú zodpovedané písomne.
+<SPEAKER ID="332" NAME="Danuta Hübner">
+členka Komisie. - Komisia vie o tejto hranici, ktorá bola zavedená škótskymi orgánmi. Dovoľte mi tiež povedať, že škótske orgány sa v priebehu rokovaní o otázke zavedenia tejto hranice správali veľmi transparentne. Orgány konali transparentne nielen vo vzťahu ku Komisii, našej komunikácie, ale aj v rámci Škótska počas konzultačného procesu so všetkými zainteresovanými stranami a partnermi v Škótsku.
+<P>
+Rada by som zdôraznila, že úplne jasne rozumieme tomu, že hranica bola zavedená nie preto, aby boli vylúčené malé projekty, ale preto, aby podnietila tieto malé projekty, aby sa zoskupovali tematicky alebo regionálne s cieľom dosiahnuť stanovenú hranicu. Škótske orgány sa zaviazali zabezpečiť pomoc pre menšie projekty tak, aby bolo možné predstaviť menšie projekty, ktoré nespĺňajú hranicu, sprostredkovateľskému správnemu orgánu, ktorý ich, pokiaľ možno, navzájom spojí, aby bolo možné vytvoriť strategickejší návrh.
+<P>
+Skutočným zámerom je minimalizovať finančné riziko a riziko týkajúce sa auditu pokiaľ ide o financovanie malých projektov. Ďalším zámerom je podporovať väzby medzi menšími projektmi, zapracovať ich do komplexnej stratégie a znížiť administratívnu záťaž, ktorá sa zdá byť pre malé projekty často prekážkou. Zámer je teda dobrý, existuje tiež mechanizmus, ktorý by mal pomôcť malým projektom vytvoriť väčšie balíky, ktoré by sa následne uchádzali o finančné prostriedky z fondov.
+<SPEAKER ID="333" NAME="David Martin" AFFILIATION="PSE">
+Veľmi stručne, pani komisárka, keďže viem, že máme málo času: ak by vám Škótske orgány navrhli nižšiu hranicu, bolo by to možné a podporili by ste to?
+<SPEAKER ID="334" NAME="Danuta Hübner">
+členka Komisie. - Rozhodne áno. Odpoveď by bola rozhodne áno.
+<SPEAKER ID="335" NAME="Predsedajúci">
+
+<P>
+Vec: Vytvorenie regulačného orgánu pre európsky sektor telekomunikácií
+<P>
+Komisia vydala viacero odporúčaní týkajúcich sa nastávajúcej reformy regulačného rámca telekomunikácií, vrátane vytvorenia európskeho regulačného orgánu pre telekomunikácie, ktorého úlohy budú zahŕňať oblasti, ktorým sa doposiaľ venovala Európska skupina regulátorov, a tiež koordináciu vnútroštátnych regulačných orgánov.
+<P>
+Pozná Komisia reakcie vnútroštátnych regulačných orgánov krajín EÚ ako celku, pokiaľ ide o právomoci a zodpovednosti navrhovaného orgánu na úrovni Spoločenstva? Kde bude hranica medzi rozsahom pôsobností vnútroštátnych regulačných orgánov a nového európskeho orgánu?
+<SPEAKER ID="336" NAME="Viviane Reding">
+členka Komisie. - Vážený pán poslanec hovorí o návrhu Komisie zriadiť Európsky úrad pre trh elektronických komunikácií. Sme presvedčení, že by mal existovať samostatný subjekt, nezávislý od Komisie a podliehajúci Európskemu parlamentu, a že tento subjekt by mohol pomáhať Komisii pri riešení zostávajúcich problémov týkajúcich sa nesúladov v regulácii, ktoré vedú k fragmentácii európskych trhov.
+<P>
+Neustále komunikujem s vnútroštátnymi regulačnými orgánmi a zaznamenávam všetky ich názory týkajúce sa právomocí a zodpovedností navrhovaného orgánu.
+<P>
+Pokiaľ ide o Európsku skupinu regulátorov, ktorá sa vyjadrila v prospech posilnenia vlastného modelu, vzhľadom na potrebu ďalšieho zlepšenia kvality, súladu a súčinnosti v oblasti regulácie v Európe, dovoľte mi citovať samotnú Európsku skupinu regulátorov: "Ak chce byť Európa vo vedúcom postavení z hľadiska globálneho hospodárstva, bude potrebné, aby jej 27 členských štátov úzko spolupracovalo na zabezpečení toho, aby podniky mohli naplno využiť európsky trh." To znamená, že v súčasnosti to členské štáty nerobia, a že musíme nájsť riešenia, aby to v budúcnosti robili.
+<P>
+V hodnotení vplyvu priloženom k návrhu na prehodnotenie je uvedené, že európsky orgán by prispel k zlepšeniu účinnosti rozhodovacieho procesu, najmä pokiaľ ide o rozhodovanie o cezhraničných opatreniach. Je to potrebné na vybudovanie vnútorného trhu.
+<P>
+Preto sme ako Komisia dospeli k záveru, že je potrebné v rámci existujúcej inštitucionálnej štruktúry Spoločenstva zriadiť samostatný subjekt, pretože Európska skupina regulátorov sa nachádza mimo tejto štruktúry, to znamená, že ide len o súkromnú organizáciu. V rámci inštitucionálnej štruktúry by tento subjekt posilnil právomoci vnútroštátnych regulačných orgánov tým, že by prebral úlohy Európskej skupiny regulátorov a dal by im základ v práve Spoločenstva.
+<P>
+Pokiaľ ide o otázku rozdelenia právomocí, orgán by pomáhal Komisii v otázkach, ktoré majú dosah na vnútorný trh, mal by prirodzene cezhraničnú povahu a čerpal by, samozrejme, z odbornosti a každodennej regulačnej práce vnútroštátnych regulátorov. Cieľom tohto systému, ktorý je založený na skúsenostiach 27 vnútroštátnych regulátorov a na skúsenostiach, ktoré nahromadila Európska agentúra pre bezpečnosť sietí a informácií (ENISA), je posilniť súdržnosť a jednotnosť pravidiel EÚ, zlepšiť proces rozhodovania a prispieť k podpore vysokej a účinnej úrovne bezpečnosti sietí a informácií.
+<SPEAKER ID="337" NAME="Georgios Papastamkos" AFFILIATION="PPE-DE">
+(EL) Vážená pani komisárka, ak nejaký administratívny čin ovplyvní európskeho občana, na ktorý z trojuholníka orgánov by sa mal obrátiť pri ochrane svojich legitímnych záujmov: na vnútroštátne regulačné orgány, na Európsky úrad pre trh elektronických komunikácií, ktorý sa práve zriaďuje, alebo na Komisiu?
+<P>
+Budú rozhodnutia úradu, ktorý sa práve zriaďuje, vykonateľné? Má Komisia v úmysle sama znášať dodatočné náklady súvisiace s navrhovaným prehodnotením legislatívneho rámca vzhľadom na jestvujúci nerovnomerný vývoj telekomunikačných štruktúr medzi novšími a staršími členskými štátmi?
+<SPEAKER ID="338" NAME="Viviane Reding">
+členka Komisie. - Každý občan má právo sťažovať sa, ak niečo nefunguje dobre. Ak by som bola bežnou občiankou, najprv by som sa sťažovala Výboru pre petície Európskeho parlamentu, pretože to je miesto, kde zasiahne hlas Parlamentu. Druhý spôsob je prostredníctvom transparentnosti, ktorá je veľmi dôležitou súčasťou našich pravidiel.
+<P>
+Komisia sa usiluje zaviesť túto transparentnosť. Možno si spomeniete, že keď išlo napríklad o hlasové roamingové služby, neboli občania vôbec informovaní o tom, kde môžu získať informácie o štruktúrach cien, až pokým Komisia nezriadila internetovú stránku, na ktorej boli zverejnené informácie o roamingu. To bol prvý prípad, keď začala fungovať transparentnosť.
+<P>
+V novej reforme transparentnosť považujeme za pravidlo, nie len za výnimku, nielen pokiaľ ide o štruktúry cien, no tiež, napríklad, v prípade porušenia bezpečnosti alebo súkromia. V takýchto prípadoch sú operátori povinní informovať spotrebiteľov. Občania sa teda budú môcť aj naďalej sťažovať normálnym spôsobom ako keď boli v platnosti staré pravidlá vzťahujúce sa na telekomunikácie.
+<SPEAKER ID="339" NAME="Predsedajúci">
+
+<P>
+Vec: Prístup k vysokorýchlostnému internetu pre občanov všetkých členských štátov.
+<P>
+Dňa 13. novembra 2007 Komisia prijala návrhy zamerané na reformu regulačného rámca pre elektronických komunikáciách. Môže Komisia uviesť, či má v úmysle prijať rýchle a účinné opatrenia (a ak áno, aké), aby spoločne s členskými štátmi zabezpečila prístup všetkých občanov na trh s vysokorýchlostným internetom, od čoho má súčasná situácia ďaleko, najmä vzhľadom na veľké rozdiely v cenách?
+<P>
+Ďalej sa chcem opýtať, ako môže Komisia zabezpečiť, aby konkurencia skutočne existovala, a aby boli pokutované praktiky zamerané proti hospodárskej súťaži, ktoré znemožňujú otvorenie týchto trhov?
+<SPEAKER ID="340" NAME="Viviane Reding">
+členka Komisie. - Vysokorýchlostný internet je internetom budúcnosti, neboli by sme radi, keby bol dostupný len niektorým občanom. Preto je informačná spoločnosť dostupná pre všetkých jedným zo základných predpokladov lisabonskej stratégie pre vytvorenie otvorených a konkurencieschopných trhov. Keďže naše regulačné nástroje v súčasnosti, dokonca pred reformou, umožňujú uplatniť tento otvorený prístup k rámcu elektronických komunikácií (ktorý tiež podnecujú všeobecné pravidlá hospodárskej súťaže), v dôsledku toho sú aj trhy otvorené pre hospodársku súťaž, čo bolo zase príčinou rozšírenia sietí, ktoré zabezpečujú širokopásmové pripojenie na internet v Európe.
+<P>
+Obávam sa, že v niektorých krajinách to fungovalo dobre (v týchto krajinách funguje hospodárska súťaž dobre, miera rozšírenia je až 37 %, v niektorých prípadoch dokonca 40 %), no v iných krajinách je miera rozšírenia veľmi nízka. Bola by som rada, keby sa nám podarilo odstrániť tieto rozdiely. Chcela by som pomôcť tým, ktorý sa nachádzajú vo veľmi nízkej kategórii, aby sa dostali vyššie. Preto Komisia navrhuje, aby bolo v rámci reformy Komisii umožnené dohliadať nad regulačnými nápravnými prostriedkami, ktoré zavádzajú vnútroštátne regulačné orgány, pričom existuje možnosť, že vnútroštátne regulačné orgány zavedú funkčné oddelenie, ak to budú považovať za potrebné z hľadiska otvorenia trhov.
+<P>
+Komisia sa zároveň prioritne zoberá správaním zameraným proti hospodárskej súťaži. Napríklad v roku 2003 sme udelili pokutu spoločnostiam France Télécom a Deutsche Telekom za zneužívanie postavenia na trhu so širokopásmovým internetom. Zatiaľ posledným prípadom bolo, že 4. júla 2007 Komisia udelila pokutu spoločnosti Telefónica za zneužívanie dominantného postavenia znížením marže na trhu so širokopásmovým internetom v Španielsku.
+<P>
+Chcela by som tiež povedať, že v marci 2006 bolo vydané oznámenie o preklenutí širokopásmových rozdielov. Som naozaj presvedčená o tom, že je potrebné, aby bol širokopásmový internet prístupný pre všetkých. Preto som presvedčená, že je potrebné vypracovať národné stratégie v oblasti širokopásmového internetu, ktoré by odrážali regionálne a miestne potreby.
+<P>
+Pokiaľ ide o otázku transparentnosti, ktorú ste položili, Komisia práve spúšťa internetový portál, ktorý by mal začať fungovať v máji alebo júni 2008, a ktorý by mal byť zameraný na otázku širokopásmového internetu a občanov.
+<P>
+Na záver, no v neposlednom rade mi dovoľte uviesť, že Komisia vníma priaznivo možnosť využiť verejné zdroje, vrátane fondov EÚ, štrukturálnych fondov, na rozšírenie širokopásmového pripojenia na internet do oblastí, kde komerčné rozšírenie nie je dostatočné. Niekoľko takýchto projektov sa už podarilo vytvoriť.
+<P>
+Podporujeme tiež rozvoj informačných spoločností prostredníctvom regionálnej politiky. Predbežný odhad investícií je približne 15 miliárd EUR, čo predstavuje 4,4 % z celkových výdavkov v období rokov 2007 až 2013. Predpokladá sa, že zo spomínaných 15 miliárd EUR sa do širokopásmovej infraštruktúry investuje 2,2 miliárd EUR. Mimochodom, dnes máme štyroch svetových lídrov, pokiaľ ide o mieru rozšírenia širokopásmového internetu. Dúfame, že vďaka tomuto spoločnému úsiliu, sa podarí zvýšiť súčasnú mieru rozšírenia, a že oveľa viac krajín sa dostane v tejto oblasti na vedúce postavenie na svete a najmä v Európe.
+<SPEAKER ID="341" NAME="Giovanna Corda" AFFILIATION="PSE">
+(FR) Vážená pani komisárka, pre roaming ste museli stanoviť maximálnu úroveň cien, minulý týždeň ste povedali, že možno budete nútení urobiť to isté aj v prípade elektronickej pošty.
+<P>
+Nebudete tiež v blízkej budúcnosti nútení riadiť ceny prístupu na internet na európskej úrovni?
+<P>
+Viem, že v niektorých krajinách existuje plán harmonizácie, na základe ktorého dôjde k zníženiu počtu prevádzkovateľov. Znamená to, že dôjde k zníženiu cien? Ak dovolíte, vážená pani komisárka, pochybujem o tom.
+<SPEAKER ID="342" NAME="Viviane Reding">
+členka Komisie. - (FR) Vážený pán predsedajúci, vo svojej odpovedi pani Cordaovej by som rada zdôraznila, že len zriedka zasahujeme do trhových cien, zvyčajne necháme, aby takéto problémy vyriešil trh. Ak to však trh nedokáže, politici sa musia chopiť svojich zodpovedností. To sme spravili s hlasovým roamingom, a to nechcem urobiť s SMS a dátovým roamingom.
+<P>
+Preto, na základe mojej povinnosti vyplývajúcej z nariadenia o hlasovom roamingu, v ktorom ma Parlament požiadal, aby som v roku 2008 predstavila analýzu situácie, som zatiaľ toto odvetvie čestne a jasne upozornila, že ak samo nezníži ceny, regulačné orgány, vrátane Európskeho parlamentu, budú nútené prijať potrebné opatrenia. Trh by však vždy mal dostať príležitosť a len ak trh nedokáže vyriešiť problémy, mali by politici zasiahnuť.
+<P>
+Čo sa stane s trhom so širokopásmovým pripojením? Neviem. Viem teraz len to, že tu v Európe máme štyri krajiny, ktoré sú majstrami sveta z hľadiska preniknutia na trh, sú ďaleko pred Japonskom a Južnou Kóreou a ešte ďalej pred USA. Môžeme vidieť, že ide o konkurenčné trhy, trhy, kde je mnoho ponúk a spotrebiteľ si môže úplne slobodne vybrať službu, ktorá sa mu hodí najviac.
+<P>
+Takto by mal fungovať trh. Iba ak trh nefunguje, mali by sme pristúpiť k regulácii. To je práca vnútroštátnych regulačných orgánov. Aby som im umožnila fungovať účinnejšie a praktickejšie tým, že posunieme jednotný trh o krok vpred, keďže práve jednotný trh je európskym tromfom v globalizovanom svete, navrhujem reformu zákona, ktorým sa riadia telekomunikačné trhy. Robím to a Parlament o tom práve rokuje, aby mali spotrebitelia skutočne na výber.
+<P>
+V súčasnosti príliš veľa ľudí nemá prístup k širokopásmovému internetu, a nielen ľudí, ale aj malých a stredných podnikov. V budúcnosti nebudú mať prístup, prostredníctvom širokopásmového pripojenia, k sociálnemu rozvoju, čo považujem za neprijateľné. Preto musí byť širokopásmový internet prístupný pre všetkých jedným z politických cieľov. Môžeme ho dosiahnuť, ak sa nám podarí zreformovať telekomunikačný trh tak, aby sme doň zaviedli skutočnú konkurenciu medzi prevádzkovateľmi, v dôsledku čoho dôjde k zlepšeniu ponuky služieb, ktoré chcú občanom poskytnúť.
+<SPEAKER ID="343" NAME="Predsedajúci">
+
+<P>
+Vec: Bezpečnosť internetu
+<P>
+Hoci pokrok v informačných a komunikačných technológiách prináša obrovské prínosy, výrazne sa zvýšilo aj riziko, že deti môžu byť vystavené nevhodným alebo nezákonným materiálom. EÚ v roku 2005 prijala program Bezpečnejší internet plus na boj proti nezákonnému a neželanému obsahu, najmä vo vzťahu k deťom.
+<P>
+Môže Komisia predstaviť výsledky, ktoré boli v oblasti tejto dôležitej politiky dosiahnuté, a najmä uviesť skutočné zlepšenia v oblasti bezpečnosti internetu v členských štátoch?
+<SPEAKER ID="344" NAME="Viviane Reding">
+členka Komisie. - Vážený pán predsedajúci, táto téma je môjmu srdcu veľmi blízka, pretože sa týka detí a ich bezpečnosti. Som presvedčená o tom, že nové technológie sú pre deti fantastické, no sú spojené aj s nebezpečenstvami, proti ktorým musíme bojovať.
+<P>
+Preto sme zriadili dve rozsiahle európske siete: sieť telefónnych horúcich liniek INHOPE, kde môže verejnosť hlásiť nezákonný obsah, a osvetovú sieť INSAFE, ktorej cieľom je šíriť informácie o bezpečnejšom využívaní online technológií deťom, rodičom, školám, zákonodarcom a médiám. Všetky spomínané opatrenia vychádzajú z programu Bezpečnejší internet a predstavujú jedinečné celoeurópske iniciatívy.
+<P>
+Telefónne horúce linky siete INHOPE existujú v 24 európskych krajinách, sieť má aj medzinárodný dosah a partnerov v Ázii a Spojených štátoch amerických. Počet hlásení materiálu nevhodného pre deti, ktoré sieť spracovala a odovzdala orgánom činným v trestnom konaní, sa v posledných rokoch zvýšil o 15 %, skutočne teda vidíme význam týchto telefónnych horúcich liniek.
+<P>
+Druhou spomínanou sieťou je sieť INSAFE, ktorá koordinuje osvetové centrá v 23 európskych krajinách. Sieť INSAFE tiež každoročne organizuje deň bezpečnejšieho internetu, tohto roku sa uskutočnil 12. februára. Zorganizovali sme Európske fórum mládeže, na ktorom sa zúčastnili mnohí poslanci a predstavitelia tohto priemyselného odvetvia. Hovorili priamo o svojich skúsenostiach so sociálnym sieťovaním a používaním mobilných telefónov.
+<P>
+Sieť EÚ Kids Online koordinuje výskumníkov z 21 krajín, ktorí sa zameriavajú na bezpečnosť detí online. Na Fóre pre bezpečnejší internet sa každoročne stretávajú mimovládne organizácie, výskumníci z daného priemyselného odvetvia a zákonodarcovia, aby diskutovali o tom, ako účinne bojovať proti nezákonnému obsahu, o Webe 2.0 a o ostatných súvisiacich témach. Program sa tiež zameriava na zapojenie súkromného sektora. V decembri 2008 bude program Bezpečnejší internet plus ukončený, preto bude mať Parlament veľmi skoro možnosť preskúmať analýzu tohto programu na obdobie rokov 2009 až 2013. Som si istá, že Parlament sa bude aktívne podieľať na tomto rozhodovacom procese.
+<P>
+Doposiaľ sme svedkami dobrých výsledkov, môžeme ich ešte umocniť. Tento problém sa nezmenšuje, naopak aj naďalej rastie, preto si myslím, že by tieto programy mali pokračovať.
+<SPEAKER ID="345" NAME="Gay Mitchell" AFFILIATION="PPE-DE">
+Vážená pani komisárka, ďakujem vám za túto odpoveď. Keďže tento problém sa zväčšuje a bude sa zväčšovať aj naďalej, môžete potvrdiť, že budete odporúčať, aby sa tiež rozpočet aj naďalej zvyšoval? Rozpočet na obdobie posledných piatich rokov bol 45 miliónov EUR.
+<P>
+Viete o tom, že podľa výsledkov prieskumu z roku 2003 sa 40 % detí vyjadrilo, že ich osoba, ktorú poznali len prostredníctvom internetu, požiadala, aby sa s ňou osobne stretli. Podľa prieskumu z roku 2006 sa až 22 % z nich skutočne s touto osobou aj osobne stretlo. 51 % z nich o tom nikdy nepovedalo svojim rodičom ani učiteľom. V tomto kontexte sa vás chcem opýtať, aké ciele ste si stanovili, ako chcete merať ich plnenie a aký pokrok budete môcť predstaviť Parlamentu, keď budeme najbližšie rozhodovať o obnovení tohto programu na obdobie do roku 2013? Rozhodne podporujem tento program a dôrazne vás žiadam, vážená pani komisárka, aby ste požadovali ľubovoľnú výšku zdrojov, ktoré sú potrebné na to, aby sme sa v tejto oblasti posunuli dopredu.
+<SPEAKER ID="346" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+Vážená pani komisárka, ďakujem vám za odpoveď. Dovoľte mi opýtať sa vás, aké opatrenia Komisia prijme, aby zintenzívnila prácu s rodičmi? V tom je skutočný problém. Deti sú žiaľ v tejto oblasti ďaleko pred nami. Som znepokojená z toho, že tento program sa skončí v roku 2008, som si tiež vedomá, že nie všetci o tom vedia, hoci mnohí o tom sú informovaní. Dúfam, že túto otázku prijmete, som presvedčená, že je potrebné robiť viac, aktívnejšie, aby ste zvýšili informovanosť o tejto problematike.
+<SPEAKER ID="347" NAME="Viviane Reding">
+členka Komisie. - Úplne súhlasím so ctenou pani poslankyňou a cteným pánom poslancom. Ide skutočne o veľký problém. V tomto prípade vedia deti v našej spoločnosti viac ako rodičia, čo by nebolo zlé, no pre rodičov to predstavuje problém, keď majú pomôcť svojim deťom prekonať tento problém. Mimochodom, týka sa to nielen rodičov, ale aj starých rodičov. Veľmi často práve starí rodičia kúpia vnúčatám prvý mobilný telefón, aby s nimi mohli komunikovať. A týka sa to, samozrejme, aj učiteľov.
+<P>
+Preto navrhujeme nielen rozšírenie programu s navýšeným rozpočtom v celkovej výške 55 miliónov EUR (dúfam, že Parlament rozpočet navýši), ale spolupracujeme aj so súkromnými organizáciami, medzi ktoré patrí napríklad SchoolNet. Program organizácie SchoolNet existuje na mnohých našich európskych školách a skutočne sa zameriava na riešenie tohto problému, informuje deti o problémoch a poukazuje na to, že nie každý, s kým môžu prísť do kontaktu, je niekto, s kým by mali byť v kontakte. Poskytuje tiež informácie prostredníctvom telefónnych horúcich liniek a prostredníctvom činností programu Bezpečnejší internet. K dispozícii sú tiež osvetové centrá, ktoré sa usilujú dosiahnuť, aby rodičia rozumeli tomu, čo sa deje. Veľmi často sa stáva, že rodičia nemajú ani predstavu o výhodách a nevýhodách nových technológií.
+<P>
+Som zodpovedná za nové technológie a som presvedčená, že väčšina vecí, ktoré prinášajú nové technológie, sú pozitívne. Bola by som veľmi nerada, keby niekoľko negatívnych aspektov úplne bránilo mladšej generácii prichádzať do kontaktu s novou technológiou. Preto veľmi silne verím v schopnosť samoregulácie tohto odvetvia.
+<P>
+Pred rokom som požiadala operátorov mobilných telefónov, aby prijali opatrenia na zabezpečenie toho, že pokiaľ ide o tretiu generáciu mobilných telefónov, problémy s internetom neprejdú priamo k mobilným telefónom. S veľkým potešením môžem uviesť, že tento rok prišlo odvetvie mobilných telefónov s veľmi konkrétnymi opatreniami, prostredníctvom ktorých informuje rodičov a deti o ťažkostiach, a prostredníctvom ktorých budú v tretej generácii mobilných telefónov blokované programy ohrozujúce deti.
+<P>
+Podarilo sa nám teda dosiahnuť pokrok. Myslím si, že voľby do Európskeho parlamentu by mohli byť dobrou príležitosťou na to, aby Európsky parlament upriamil pozornosť občanov na opatrenia, ktoré boli prijaté. Ide o konkrétne opatrenia. Máte pravdu, že nie všetci o nich vedia. Čo keby ste teda využili mimoriadne častý kontakt so širokou verejnosťou v rámci kampane pred voľbami do Európskeho parlamentu, aby ste občanom objasnili, aké konkrétne opatrenia Európske spoločenstvo prijíma v prospech spoločnosti?
+<SPEAKER ID="348" NAME="Predsedajúci">
+Otázky, ktoré neboli zodpovedané pre nedostatok času, budú zodpovedané písomne (pozri prílohu).
+<P>
+Týmto končím hodinu otázok.

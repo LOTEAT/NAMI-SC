@@ -1,0 +1,4 @@
+<CHAPTER ID="012">
+Omröstning
+<SPEAKER ID="145" NAME="Talmannen">
+Nästa punkt är omröstningen.

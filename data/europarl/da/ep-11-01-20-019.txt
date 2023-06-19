@@ -1,0 +1,6 @@
+<CHAPTER ID="019">
+Hævelse af mødet
+<SPEAKER ID="417" NAME="Formanden">
+Jeg erklærer Parlamentets session for afbrudt.
+<P>
+(Mødet hævet kl. 17:00)

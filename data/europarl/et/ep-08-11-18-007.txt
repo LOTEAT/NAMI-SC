@@ -1,0 +1,6 @@
+<CHAPTER ID="007">
+Hääletused
+<SPEAKER ID="120" NAME="Juhataja">
+Järgmine punkt on hääletamine.
+<P>
+Hääletuse tulemuse kohta: vt protokoll

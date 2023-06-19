@@ -1,0 +1,4 @@
+<CHAPTER ID="001">
+Az ülés megnyitása
+<P>
+(Az ülést 10.00-kor megnyitják.)

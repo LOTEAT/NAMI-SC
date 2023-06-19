@@ -1,0 +1,78 @@
+<CHAPTER ID="013">
+Mot en europeisk radiospektrumpolitik (debatt)
+<SPEAKER ID="306" NAME="Talmannen">
+Nästa punkt är ett betänkande av Fiona Hall, för utskottet för industrifrågor, forskning och energi, om en europeisk radiospektrumpolitik.
+<SPEAKER ID="307" NAME="Fiona Hall " AFFILIATION="ALDE">
+föredragande. - (EN) Fru talman! För det första vill jag tacka alla de som delade med sig av sin kunskap och expertis när jag förberedde betänkandet. Jag vill särskilt tacka kommissionen för dess generösa hjälp, liksom mina kolleger och skuggfördragande från andra grupper för deras väldigt konstruktiva och samarbetande förslag.
+<P>
+Det grundläggande temat i betänkandet är att nuvarande metod för att hantera radiospektrum inte längre räcker till med tanke på att det ständigt utvecklas nya tekniker. De här nya teknikerna måste använda radiospektrum, men kvantiteten radiospektrum kommer alltid att begränsas av fysikens lagar helt enkelt, så vi måste hitta nya sätt att se till att denna värdefulla resurs används så effektivt som möjligt.
+<P>
+Politik om radiospektrum kan låta som en obskyr fråga som inte är av intresse för medborgaren på gatan, men det slutliga resultatet av politiken är av grundläggande intresse eftersom det handlar om arbetstillfällen och ekonomisk tillväxt. Om vi misslyckas med att reformera vår inställning till radiospektrum sviker vi den europeiska industrin som är redo att bli en global ledare inom kommunikationsteknik. All innovation som industrin kommer fram med kommer inte att kunna utvecklas ordentligt om det inte finns något spektrum och om industrin hindras att verka på hela den europeiska marknaden med 500 miljoner människor.
+<P>
+Lissabonagendan är den drivande kraften bakom den nya inställningen till spektrum. Men det finns även ett behov för EU att se framåt i sättet man gör tjänster av offentligt och allmänt intresse tillgängliga på. Jag återkommer strax till det.
+<P>
+Först och främst vill jag säga några ord om de föreslagna förändringarna. I nuläget hanteras spektrum genom en administrativ styrnings- och kontrollmodell, genom vilken vissa bestämda frekvenser tilldelas vissa specifika användningsområden. I betänkandet framförs argumentet att den här administrativa modellen behöver kompletteras nu av ett mer flexibelt tillvägagångssätt som skulle innebära mer olicensierad användning av spektrum och ett verktyg i form av spektrumhandel.
+<P>
+Ett avgörande element i detta mer flexibla tillvägagångssätt är att spektrum bör göras tillgängligt utan förbehåll när det gäller tjänsten som ska tillhandahållas eller tekniken som ska användas. Med andra ord skulle det marknadsbaserade elementet i hanteringen av spektrum vara tjänste- och teknikneutralt.
+<P>
+Att frigöra spektrum på detta vis skulle självklart leda till frågor för nuvarande användare, som frågan om potentiell interferens. Därför är det väldigt viktigt att förändringarna sker inom en tydlig rättslig ram och med förutbestämda tvistlösningsmekanismer.
+<P>
+På flera ställen i betänkandet, i punkterna 11, 13 och så vidare, betonas vikten av att ha kvar tjänsterna av offentligt och allmänt intresse och att stödja kulturell och språklig mångfald. Det är viktigt att inte blanda ihop detta politiska åtagande med den tekniska frågan om hur sådana tjänster borde tillhandahållas.
+<P>
+Jag menar att det vore ett stort misstag att stänga in frekvenserna som nu används för radio- och tv-tjänster genom att kräva att de exkluderas från ett eventuellt nytt tillvägagångssätt för spektrumhantering. Det beror på att vi i själva verket skulle skada vår möjlighet att stödja en bred mängd socialt användbara tjänster om vi insisterar att mekanismerna för att tillhandahålla de tjänsterna skulle fortsätta att vara exakt likadana, frusna i just den tid då alla andra spektrumanvändare utvecklas väldigt snabbt.
+<P>
+För att ta ett exempel står vi i EU inför utmaningen att hindra att en klyfta uppstår mellan de som har Internet och de som inte har Internet. Ett enkelt sätt att tillgodose Internettillgång för de fattigaste regionerna i våra fattigaste länder skulle vara genom trådlöst bredband, och därvid dra nytta av några av de radio- och tv-sändningsfrekvenser som frigörs genom bytet från analog till digital sändning, den digitala utdelningen.
+<P>
+Jag använder detta som bara ett exempel på varför vi behöver bekräfta vårt åtagande för tjänster av offentligt och allmänt intresse, men också som ett exempel på varför vi inte får behandla frekvenserna som används för radio- och tv-sändningar nu som om de på något sätt inte fick röras. Vi måste göra det bästa av möjligheterna för att tillhandahålla tjänster på nya sätt genom nya tekniker och till fler människor än för närvarande. Och det är nödvändigt att stödja tillväxten av en kunskapsbaserad ekonomi i EU. Så det är viktigt att öppna möjligheten med mer flexibel användning över hela radiospektrumet utan att räkna bort vissa frekvenser.
+<P>
+Slutligen välkomnar jag det ändringsförslag som har lagts fram av PSE-gruppen, vilket utgör en balanserad sammanfattning av de viktigaste frågorna som står på spel.
+<SPEAKER ID="308" NAME="Mariann Fischer Boel">
+ledamot av kommissionen. - (EN) Fru talman! Jag måste berömma Europaparlamentet, och i synnerhet föredraganden, Fiona Hall, för att ha insett vikten av de val som EU ska göra när det gäller radiospektrumpolitiken.
+<P>
+Detta är ett område där politiska beslut har en direkt inverkan på kvaliteten på jobben och på tillväxten i den europeiska ekonomin. Tjänster som är beroende av radiospektrum utgör ungefär två till tre procent av EU:s BNP. Det har gjorts studier för Världsbanken och OECD som tydligt kopplar samman utvecklingen av elektronisk kommunikation med den ekonomiska tillväxten. I en ekonometrisk studie som gjordes för kommissionen kopplades preliminärt spektrumets bättre brytningsförhållande samman med 0,1 procents extra BNP-tillväxt per år. Det skulle snabbt öka för att ge verkliga fördelar.
+<P>
+Frågans angelägenhet kan sammanfattas i ordet ”konvergens”. I stort sett all kommunikation blir snabbt digital, och det finns ett ökande antal infrastrukturer som tävlar om att innehålla tjänster. De gamla kategorierna försvinner, och vi måste svara med en förordning som ger spektrumanvändarna möjlighet att välja den blandning av tjänster och tekniker som de föredrar och som i många fall låter dem köpa och sälja spektrumrättigheter till varandra.
+<P>
+Anledningarna till att lagstifta är fortfarande starka. Vi måste hantera interferensen. Vi måste se till att rättigheterna att använda spektrumet blir tydligt definierade, och vi måste garantera jämlikhet. Betänkandet som vi debatterar här i kväll stämmer på de flesta aspekterna överens med den här politiska visionen, och jag vill tacka föredraganden för hennes jobb.
+<P>
+Ett område som skiljer sig åt är att inkludera spektrum för markbunden radio- och tv-sändningsdistribution i de planerade plattformarna. Vi ifrågasätter inte vikten av tv-bolagens public service-funktion, och inte heller deras bidrag till den kulturella och språkliga mångfalden. Men vi bör noggrant tänka oss för innan vi privilegierar en viss form av radio- och tv-sändningsdistribution utan att ta hänsyn till kostnaderna för samhället när det gäller möjligheter.
+<P>
+Ett typexempel: betänkandet belyser med rätta trådlöst bredband som ett verktyg för landsbygdsutveckling och för att bryta den digitala klyftan. Det kräver tuffa beslut om balansen mellan radio- och tv-sändningar och andra tjänster. Det finns nödvändiga beslut som måste tas för att skydda resurserna och funktionen med public service-sändningar, men vi bör inte använda spektrumpolitik som ett substitut för den verkligen debatten. Ändringsförslaget ger ett mer balanserat tillvägagångssätt genom att ta upp behovet av att säkra stabiliteten och säkerheten för medietjänster och vikten av jämlikhet för nya aktörer och nya tekniker.
+<P>
+Jag har bara en slutlig sak att säga: grundat på den fulla analysen är det de nationella regleringsmyndigheterna som väljer att ge spektrum till radio- och tv-sändare. Dessa användare måste också ha samma skyldigheter som alla andra användare för att agera som goda förvaltare av en offentlig resurs och använda den så effektivt som möjligt. Vi tror att vårt reformförslag skulle bidra till att genomföra denna princip.
+<SPEAKER ID="309" NAME="Etelka Barsi-Pataky">
+för PPE-DE-gruppen. - (HU) Teknisk innovation ger Europa konkreta möjligheter. Att byta till digital teknik leder till ett överskott av något som hittills varit en bristvara, nämligen tillgängliga frekvenser. Det är därför både passande och nödvändigt att se till att en del av överskottet används till nya tekniker, vilket gör att man kan öppna ett dynamiskt område för den europeiska informations- och kommunikationsindustrin.
+<P>
+Den reglering som krävs för detta ändamål måste skapas på ett sätt som gör att traditionella system, olicensierad användning och frekvenshandel ingår i en effektiv spektrumhantering. Vi behöver klara regler som visar vad och hur mycket vi tillåter inom området för frekvenshandel.
+<P>
+Gruppen för Europeiska folkpartiet (kristdemokrater) och Europademokrater är av uppfattningen att vi mycket snart tydligt måste klargöra både själva spektrumhandeln och dess vägledande förutsättningar. I denna fråga måste vi hantera sändningsfrekvenser med särskild omsorg. Vi måste försäkra oss om att frekvenser inte kan ackumuleras och att monopol inte får förekomma. Vi måste främja spridandet av ny teknik till mindre utvecklade regioner och landsbygdsregioner på ett sätt som innebär att de inte behöver stå för kostnaderna.
+<P>
+Vi i gruppen för Europeiska folkpartiet är av den bestämda uppfattningen att vi under regleringen av detta område måste ta hänsyn till sociala, kulturella och politiska förhållanden för att ge uttryck för kulturell och lingvistisk mångfald. Under utformandet av betänkandet nämnde jag om och om igen de olika specialiteter som de nya medlemsstaterna har och som vi måste ta hänsyn till när regleringen görs. Jag var därför nöjd med Catherine Trautmanns initiativ i denna fråga, och jag stöder det. Slutligen måste medlemsstaterna öppna frekvenser för europaomfattande teknisk harmonisering, och detta måste göras i samförstånd.
+<SPEAKER ID="310" NAME="Catherine Trautmann">
+för PSE-gruppen. - (FR) Fru talman, fru kommissionsledamot, fru Hall, mina damer och herrar! Vi har blivit ombedda att uttrycka vår åsikt om omfördelning av radiofrekvenser.
+<P>
+Detta är en mycket viktig handling, och kommissionens skäl till att vilja ha ett förslag som eftersträvar att optimera eller maximera fördelarna i denna resurs härstammar naturligtvis från byte av teknik, förekomsten av vinster från digitala sändningar samt en önskan, som är tydligt formulerad i Lissabonmålen, att ge alla åtkomst till nya tjänster, vare sig det handlar om Internet, mobiltelefoni eller flera andra därutöver.
+<P>
+Vi har i synnerhet pratat om bredband, vilket skulle bidra till att minska den digitala splittring som Europeiska unionen lider av, speciellt på landsbygden och i glest befolkade regioner. Vi måste därför eftersträva ett rationellt användande av frekvenser som garanterar allmänt utbredd täckning i 27 länder i unionen med sikte på hållbar utveckling i alla regioner.
+<P>
+Frekvenser är i själva verket en resurs, ett allmänintresse, som är gemensamma för oss alla och strategiska för unionen, och vi måste se till att spektrumet används effektivt på lång sikt. På samma sätt som vi talar om energieffektivitet tycker jag att vi kan tala om radiospektrumeffektivitet.
+<P>
+Jag välkomnar kommissionens försök att ge en ny europeisk dimension till användandet av vinsterna från de digitala sändningarna och undvika en upprepning av det verkligt stora problem, som också de berörda företagen ansåg det vara, som vi hade när UMTS-nätverket bjöds ut till försäljning. Kommissionen föreslår att en marknad skapas. Vi måste kunna hitta ett sätt att åstadkomma större flexibilitet, undvika spekulation och monopol och göra frekvenserna tillgängliga för nya tjänster och nytillkomna operatörer.
+<P>
+Jag anser att det är rätt sätt. Vi måste hitta nya innovationsmöjligheter här, men vi måste vara försiktiga med hur de marknadsförs, om det ska göras med licenser, auktioner eller tilldelning, i synnerhet vid offentlig och avgiftsfri service, även om det gäller under begränsad tid. Det återstår fortfarande att definiera de här olika strategierna.
+<P>
+I utskottet diskuterade vi programföretagens ställning, och jag vill med stort eftertryck säga att jag personligen alltid har försvarat den speciella karaktären hos informationsprogram, de kulturella program som tillhandahålls av programföretag, speciellt offentliga programföretag, som inte har det privata kapital som behövs för att betala för åtkomst till marknaden på samma sätt som, låt oss säga, vanliga företag.
+<P>
+Vi måste beakta den här situationen på ett rättvist och opartiskt sätt, och det är därför som den socialdemokratiska gruppen har lagt fram ett ändringsförslag för att eftersträva hänsynstagande till radiospektrumeffektivitet, balansen mellan respekten för offentliga sändningar och respekten för statliga sändningar, samt regleringsorganens och företagens roller.
+<SPEAKER ID="311" NAME="Rebecca Harms">
+för Verts/ALE-gruppen. - (DE) Fru talman! Jag ska fatta mig kort. Enligt min grupps ståndpunkt, som i princip välkomnar kommissionens strategi, finns det fem viktiga punkter. Vi vill försäkra oss om att den nya strategi som kommissionen föreslog inte leder till att oligopol bildas. Tyskland har haft dåliga erfarenheter med auktionering av UMTS-licenser. Vår grupp vill ha tjänster som garanterar att mångfalden prioriteras i alla lägen. Jag håller med Catherine Trautmann om att programföretagen alltid ska hysa särskild respekt för de insatser de gör för vårt samhälle och offentligheten. Vi vill se teknisk neutralitet och samverkansförmåga. Vi vill absolut se heltäckande försörjning. Det är viktigt för kommissionsledamoten också eftersom hon har medansvar för landsbygdsfrågor. Vi på landsbygden vill inte längre bli missgynnande, och vi vill också ha tillgång till Internetanslutningar med hög hastighet. Dessutom bör auktionsförfarandena vara helt öppna och begripliga i framtiden.
+<SPEAKER ID="312" NAME="Mariann Fischer Boel">
+ledamot av kommissionen. - (EN) Fru talman! Jag antar att man förväntar sig ett svar från kommissionen, men jag lovar att fatta mig kort.
+<P>
+Jag delar parlamentets uppskattning för public service-televisionens och andra mediers viktiga roll för demokratin, mångfalden och för att uppmuntra den offentliga debatten. Det är nödvändigt att framtida förordningar fortsätter att garantera att denna programplanering kan distribueras till medborgarna enligt de public service-åtaganden som åligger dessa sändningsbolag. Men om man antar att dessa mål kan tillgodoses, och om man har den verklighetens konvergens i åtanke, så bör vi försiktigt bedöma behovet av det spektrum som krävs för att tillhandahålla en offentlig sändningstjänst och garantera att den används effektivt. Som en konsekvens därav måste vi tillhandahålla sändningsbolagen de medel och den flexibilitet som krävs för att fortsätta utveckla deras erbjudande att gagna vårt samhälle.
+<P>
+Vi har lyssnat noggrant, och era kommentarer kommer att tas i beaktande under revideringen av telekommunikationsförordningen, som kommer att föreslås under den andra halvan av 2007.
+<SPEAKER ID="313" NAME="Talmannen">
+Debatten är härmed avslutad.
+<P>
+Omröstningen kommer att äga rum på onsdag kl. 12.00.

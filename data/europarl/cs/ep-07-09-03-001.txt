@@ -1,0 +1,4 @@
+<CHAPTER ID="001">
+Pokračování zasedání
+<SPEAKER ID="999" NAME="Předsedající">
+Zahajuji zasedání přerušené ve čtvrtek 12. července 2007.

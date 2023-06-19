@@ -1,0 +1,4 @@
+<CHAPTER ID="001">
+Obnovení zasedání
+<SPEAKER ID="004" NAME="Předseda">
+Zasedání, které bylo přerušeno ve čtvrtek 12. listopadu 2009, prohlašuji za obnovené.

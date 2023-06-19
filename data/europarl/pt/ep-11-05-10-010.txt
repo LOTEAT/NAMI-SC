@@ -1,0 +1,10 @@
+<CHAPTER ID="010">
+Boas-vindas
+<SPEAKER ID="128" NAME="Presidente">
+Senhoras e Senhores Deputados, passo a ler uma mensagem do senhor deputado Jerzy Buzek.
+<P>
+"Tenho o prazer de vos informar que é com muita honra que damos hoje as boas-vindas a Bogdan Borusewicz, presidente do Senado polaco, Irena Degutienė, presidente do Seimas da República da Lituânia e Volodimir Litvin, presidente do Verkovna Rada da Ucrânia.
+<P>
+Os três presidentes reuniram-se hoje no Parlamento, no âmbito de uma sessão extraordinária da Assembleia dos Parlamentos da Lituânia, Polónia e Ucrânia. Esta assembleia tem raízes na tradição da comunidade polaco-lituana, que há mais de dois séculos representa a fronteira da Europa, enquanto projecto político, cultural e civil.
+<P>
+A reunião desta assembleia parlamentar, hoje, em Estrasburgo, assinala o 220.º aniversário da adopção da Constituição de 3 de Maio, a primeira constituição da Europa."

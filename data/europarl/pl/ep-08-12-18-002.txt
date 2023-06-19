@@ -1,0 +1,126 @@
+<CHAPTER ID="002">
+Wymogi ujawniania informacji przez średnie przedsiębiorstwa oraz obowiązek sporządzania skonsolidowanych sprawozdań finansowych - obowiązki średnich przedsiębiorstw w zakresie księgowości (debata) 
+<SPEAKER ID="006" NAME="Przewodniczący">
+Następnym punktem porządku dziennego jest wspólna debata nad:
+<P>
+sprawozdaniem sporządzonym przez Ieke van den Burg w imieniu Komisji Prawnej w sprawie wniosku dotyczącego dyrektywy Parlamentu Europejskiego i Rady zmieniającej dyrektywy Rady 78/660/EWG i 83/349/EWG w odniesieniu do niektórych wymogów ujawniania informacji przez średnie przedsiębiorstwa oraz obowiązków sporządzania skonsolidowanych sprawozdań finansowych - C6-0173/2008 - oraz
+<P>
+oświadczenie Komisji w sprawie obowiązków średnich przedsiębiorstw w zakresie księgowości.
+<SPEAKER ID="007" NAME="Ieke van den Burg">
+sprawozdawczyni. - (NL) Panie przewodniczący, przepraszam za spóźnienie. Są to trudne czasy dla małych i średnich przedsiębiorstw. Kryzys uderzył nie tylko w banki i spółki notowane na giełdzie, ale i wpływa na całą gospodarkę, jak również skutkuje utratą miejsc pracy w MŚP. My, w naszym dziele europejskim, powinniśmy zatem zapewnić bodziec temu sektorowi.
+<P>
+W tej właśnie sytuacji latem tego roku ogłoszony został zestaw działań pod nazwą "Small Business Act”. Intensywnie pracuję nad szeregiem zaproponowanych tam rozwiązań, takich jak statut europejskiej spółki akcyjnej, zwiększenie zakresu mikrokredytów i możliwość wprowadzenia niższej stawki VAT dla usługodawców świadczących usługi na rzecz osób fizycznych na rynku lokalnym.
+<P>
+Obciążenia administracyjne, które w większości są wprowadzane przez władze krajowe i mają charakter zdecentralizowany, stanowią poważny powód do niepokoju dla mniejszych przedsiębiorstw. W zakresie, w jakim w grę wchodzi prawodawstwo europejskie, podjęliśmy aktywne działania na rzecz usunięcia i zmniejszenia tych obciążeń. W istocie rzeczy dotyczy to również przedmiotowego dossier. Obowiązki informacyjne i obie dyrektywy w tym zakresie, które liczą odpowiednio 25 i 30 lat oraz przeszły wiele zmian, są obecnie porządkowane i upraszczane w ramach tzw. procedury przyśpieszonej.
+<P>
+Działania te są jednak tylko małym krokiem w kierunku zmniejszenia obciążeń. Należy zrobić znacznie więcej. W zakresie tym daliśmy wyraz naszemu zniecierpliwieniu na forum Komisji Prawnej Parlamentu. Poza przedmiotowym dossier legislacyjnym przedstawiliśmy rezolucję wzywającą Komisję do przeprowadzenia przyśpieszonego i znacznie bardziej dogłębnego przeglądu prawodawstwa dla małych i średnich przedsiębiorstw. Okazało się, że Komisja zajęła się już tą sprawą. Celem jest osiągnięcie większej harmonizacji europejskich przepisów dotyczących małych i średnich przedsiębiorstw.
+<P>
+Gdy poprzednio omawialiśmy tę kwestię oraz sprawozdanie pana posła Radwana na forum Komisji Gospodarczej i Prawnej stwierdziliśmy w szczególności, że większą harmonizację w Europie powinniśmy osiągnąć w oparciu o dotychczasowe prawodawstwo, a nie wzorując się na Międzynarodowej Radzie Standardów Rachunkowości, która brała udział w opracowaniu Międzynarodowych Standardów Sprawozdawczości Finansowej (IFRS).
+<P>
+Podczas tamtej dyskusji pan poseł Lehne, który jest kontrsprawozdawcą przedmiotowego sprawozdania, w szczególności sugerował, by państwa członkowskie miały możliwość zwolnienia mikropodmiotów, czyli rzeczywiście małych przedsiębiorstw, z obowiązku stosowania prawodawstwa europejskiego na tym etapie. Moim zdaniem jest to środek doraźny, który - choć został zaproponowany przez grupę Stoibera - nie doprowadzi do zasadniczego uproszczenia w dłuższym horyzoncie czasowym, jako że ze względu na swój dobrowolny charakter spowoduje powstanie poważnych rozbieżności pomiędzy państwami członkowskimi.
+<P>
+Ostatecznym celem powinno być zatem osiągnięcie daleko idącej harmonizacji, by przedsiębiorstwa, które nie kwalifikują się do kategorii mikropodmiotów, mogły korzystać z podobnego, bardzo prostego systemu. W odniesieniu do tego prostego systemu chciałabym państwu przypomnieć o formacie XBRL (eXtensible Business Reporting Language), który umożliwia różnym podmiotom wprowadzanie i wykorzystywanie danych w prosty sposób. Dostarczanie tego typu danych stałoby się zatem znacznie łatwiejszym i prostszym zadaniem dla przedsiębiorstw, istniałaby też możliwość korzystania z nich w różny sposób.
+<P>
+Krótko mówiąc, musimy wkrótce odbyć właściwą debatę na temat sprzeciwów, z jakimi powszechnie spotyka się w świecie księgowości pomysł wyłączenia mikropodmiotów. Komisja powinna opracować odpowiednie propozycje. Następnie powinniśmy zbadać, jaka metoda jest najlepsza dla średnich i tych najmniejszych przedsiębiorstw, tak by zagwarantować przejrzystość i istnienie dobrego systemu księgowego, który pozwoli im wykonywać określone zadania bez ogromnych obciążeń administracyjnych.
+<SPEAKER ID="008" NAME="Jacques Barrot">
+wiceprzewodniczący Komisji. - (FR) Panie przewodniczący, pani poseł van den Burg, panie i panowie! Parlament Europejski wyda dziś werdykt w sprawie wniosku o uproszczenie. Jest to pierwszy z trzech wniosków legislacyjnych w dziedzinie księgowości. Celem jest uproszczenie otoczenia gospodarczego na poziomie Wspólnoty, zwłaszcza dla małych i średnich przedsiębiorstw.
+<P>
+Ten pierwszy wniosek stanowi dobry punkt wyjścia. Stwarza on prawodawcom, zainteresowanym stronom i Komisji okazję do wymiany poglądów i omówienia elementów, jakie należy uwzględnić w dwóch kolejnych wnioskach.
+<P>
+W ogłoszonym parę tygodni temu europejskim planie naprawy gospodarczej stwierdzono, że następny wniosek będzie miał na celu zmniejszenie obciążeń administracyjnych dla najmniejszych firm, które są najbardziej rozpowszechnionym rodzajem przedsiębiorstw w Europie.
+<P>
+W pierwszym kwartale 2009 roku Komisja przedstawi wniosek umożliwiający państwom członkowskim zwolnienie mikroprzedsiębiorstw z obowiązku sporządzania rocznych sprawozdań finansowych. Pragnę podkreślić, że wniosek Komisji odniesie sukces w postaci zmniejszenia obciążeń administracyjnych jedynie, jeśli państwa członkowskie będą skłonne wykorzystać tę nową możliwość, która ma charakter opcjonalny.
+<P>
+Konsultanci zewnętrzni szacują, że działania te mogą przynieść oszczędności rzędu nawet 5,8 miliarda euro rocznie. Jednakże oszczędności te uda się osiągnąć tylko, jeśli wszystkie państwa członkowskie dopuszczą możliwość derogacji i nie wprowadzą nowych, niepotrzebnie restrykcyjnych przepisów.
+<P>
+Druga inicjatywa, którą ogłosiłem pod koniec września, polega na przeglądzie i nowelizacji czwartej oraz siódmej dyrektywy księgowej. Rozpoczęły się już przygotowania techniczne do przeglądu. Konsultacje publiczne w sprawie kierunku, jaki należy obrać w tej sprawie, zostaną ogłoszone w pierwszym kwartale 2009 roku.
+<P>
+Wielu z państwa z zadowoleniem przyjmie informację, że zalecenia opracowane przez grupę wysokiego szczebla pod przewodnictwem pana Stoibera zostaną uwzględnione w najwyższym możliwym stopniu.
+<P>
+Wracając zaś do przedmiotowego wniosku, który ostatnio został poddany procedurze przyśpieszonej, ogromnie cieszymy się, że współpraca międzyinstytucjonalna pozwoliła na tak szybkie zajęcie się tą inicjatywą.
+<P>
+Zwracam się do państwa o głosowanie za wynikami zastosowania tej procedury. Dziękuję za uwagę.
+<SPEAKER ID="009" NAME="Kristian Vigenin" LANGUAGE="BG">
+Panie komisarzu! Według naszej oceny propozycje związane z przedmiotową inicjatywą legislacyjną nie są wystarczająco ambitne. Komisja Gospodarcza wzywa zatem Komisję oraz pana komisarza osobiście do przyjęcia bardziej aktywnego stanowiska w tej kwestii.
+<P>
+Dostrzegam jednak, że to, o czym mówił pan komisarz, stanowi ważny krok i możemy oczekiwać podjęcia przez Komisję dalszych aktywnych działań, oczywiście przy pełnym wsparciu ze strony Parlamentu Europejskiego, jako że sprawa ta ma doniosłe znaczenie dla małych i średnich przedsiębiorstw, zwłaszcza w warunkach obecnego kryzysu finansowego.
+<P>
+Jako sprawozdawca Komisji Gospodarczej i Monetarnej pragnę stwierdzić, że w pełni popieramy inicjatywę Komisji w zakresie zmniejszenia obciążeń biurokratycznych dla małych i średnich przedsiębiorstw. Podzielamy to pragnienie i popieramy zastosowanie procedury przyśpieszonej. Dziś poparty zaś zostanie przedmiotowy wniosek. Uważamy, że działania, jakie państwo jesteście gotowi podjąć, również spotkają się z pełnym poparciem z naszej strony.
+<SPEAKER ID="010" NAME="Jean-Paul Gauzès" LANGUAGE="FR">
+Panie przewodniczący, panie wiceprzewodniczący Komisji, panie komisarzu, panie i panowie! Nasza grupa oczywiście zagłosuje za sprawozdaniem przedstawionym przez panią poseł van der Burg. Gratuluję jej wykonanej pracy, która, jak wszyscy dobrze wiemy, zawsze stoi na wysokim poziomie.
+<P>
+Chciałbym niemniej zwrócić uwagę na fakt, że małe i średnie przedsiębiorstwa niekoniecznie opowiadają się za zniesieniem wymogów rachunkowych. Otrzymujemy wiele listów z prośbami o zachowanie ostrożności, by uproszczenie, jakkolwiek wskazane, nie przyniosło skutków odwrotnych od zamierzonych. Pozwolę sobie wyjaśnić, co mam na myśli. Rachunkowość należy uprościć: takie jest przesłanie rezolucji, w której stwierdza się, że Komisja powinna nam przedstawić w najszybszym możliwym terminie, a konkretnie do końca 2009 roku, ramy rachunkowości odpowiednie dla małych i średnich przedsiębiorstw. Nie oznacza to jednak całkowitego zwolnienia.
+<P>
+Dlaczego? Po pierwsze dlatego, że księgowość stwarza kierownictwu okazję do zrobienia bilansu sytuacji firmy co najmniej raz na rok. Księgowość jest ponadto bardzo użytecznym elementem kredytowania przedsiębiorstw. Banki żądają właśnie tego przy udzielaniu kredytów. W grę wchodzą także zobowiązania podatkowe. Nie wprowadzajmy zatem w błąd kierownictwa małych przedsiębiorstw twierdzeniami, że brak konieczności prowadzenia księgowości oznacza oszczędność czasu i pieniędzy. To prosta droga do katastrofy.
+<P>
+Potrzebujemy natomiast przyjęcia ram księgowości odpowiednich dla małych firm, a także uwolnienia ich z nadmiernych lub niepotrzebnych obowiązków. Sądzę jednak, panie komisarzu, że najlepsze uproszczenie polegałoby na przyjęciu zasady, iż o informacje można zwrócić się tylko raz w każdym państwie członkowskim i nie wolno wymagać od przedsiębiorstw, aby okresowo sporządzały te same sprawozdania i wypełniały te same formularze w celu udzielenia władzom informacji, które są już w ich posiadaniu.
+<P>
+W ten właśnie sposób możemy pomóc kierownictwu przedsiębiorstw: zapewniając istnienie zasad księgowości, które dadzą pojęcie o sytuacji firmy, a jednocześnie uwalniając ich z bezsensownych obowiązków administracyjnych.
+<SPEAKER ID="011" NAME="Sharon Bowles">
+w imieniu grupy ALDE. - Panie przewodniczący! Z zadowoleniem przyjmuję zmniejszenie obciążeń dla MŚP w zakresie sprawozdawczości finansowej. Mniejsze firmy nie są tylko pomniejszoną wersją dużych korporacji, więc niektóre wymogi sprawozdawcze stawiane dużym przedsiębiorstwom są zupełnie nie na miejscu. Inne z kolei pochłaniają nadmierne środki, nie pasują do realnych warunków funkcjonowania mniejszych firm w Europie, a w konsekwencji nie służą interesowi publicznemu. Zbędne formalności sprawozdawcze powodują więcej szkód niż korzyści, więc z radością przyjmę pozbycie się części z nich. Zmierzajmy nadal w tym kierunku..
+<P>
+Moje ugrupowanie, i nie tylko ono, nie zgadza się natomiast z częścią ostatecznego tekstu sprawozdania zawierającą tabele korelacji. Komisja chciała obowiązkowego wprowadzenia tabel korelacji w zakresie transpozycji, nawet w ramach tej niewielkiej dyrektywy; jest to także nasze stanowisko. Rada z kolei nie wyraża zgody, jako że jej zdaniem stanowi to niepotrzebne obciążenie. Twierdzę, że nie powinno tak być. Musimy znaleźć sposób umożliwienia transpozycji prawodawstwa UE. Istnieje potężny deficyt demokratyczny. Odpowiedzialne są państwa członkowskie, ale winą obarcza się Europę.
+<P>
+Można tu dostrzec podobieństwa do krytyki wobec traktatu lizbońskiego, którego nie można odczytywać jako niezależnego dokumentu. Opinia publiczna powinna jednak podnieść jeszcze większy krzyk, jako że tak właśnie zachowują się władze państw członkowskich wobec swoich obywateli i firm przy dokonywaniu transpozycji. Niech nie będzie żadnych wątpliwości: to nie jest choroba UE. Jest to choroba tocząca władze państw członkowskich i trzeba położyć jej kres.
+<SPEAKER ID="012" NAME="Patrick Louis">
+w imieniu grupy IND/DEM. - (FR) Panie przewodniczący, panie i panowie! Komisja chce zmniejszyć obciążenia administracyjne dla przedsiębiorstw, co zasadniczo stanowi dobrą inicjatywę. Jednakże chęć zaciskania pasa i oszczędzenia czasu nie zmieni zasadniczo sytuacji: nadmierna standaryzacja, niezliczone poziomy decyzyjne i systemowe ograniczenia wciąż są mnożone przez Komisję i pozostają problemami trapiącymi europejskie firmy bez względu na wielkość.
+<P>
+Dziś tylko trzy państwa nie uznają za konieczne publikowania informacji o przedsiębiorstwach - od ich powstania po zakończenie działalności - i Komisja sama przyznaje, że część informacji ulega zagubieniu. Utrata ta dotyka tych, którzy najbardziej potrzebują informacji, czyli osób fizycznych, MŚP, mikroprzedsiębiorstw i osób bezpośrednio z nimi związanych.
+<P>
+Przedmiotowy wniosek przekształca informacje łatwo dostępne publicznie w informacje, o które trzeba się ubiegać, a zatem które będą w dłuższym horyzoncie czasowym dostępne tylko dla profesjonalistów mających konkretne pojęcie o celu swoich poszukiwań. Nie możemy przyjąć przedmiotowego wniosku, jako że zgodnie z duchem odpowiedzialnego prawodawstwa wszyscy zainteresowani obywatele, konsumenci i inwestorzy powinni mieć systemowo zapewniony dostęp do informacji gospodarczych bez konieczności podejmowania konkretnych działań w celu ich uzyskania.
+<P>
+Jednocześnie wniosek ten może wyrządzić - i z całą pewnością wyrządzi - szkodę już i tak pogrążonej w problemach prasie regionalnej, która czerpie 25- 50% dochodów z reklam z publikacji ogłoszeń sądowych i prawnych. Gazety te odgrywają istotną rolę gospodarczą i społeczną. Należy je chronić, aby tym samym chronić rolę, jaką odgrywają w ramach społeczności lokalnej. Być może lepiej byłoby, gdybyśmy skoncentrowali się na innych sprawach i tam szukali oszczędności. Naszym zdaniem ta konkretna kwestia nie jest jeszcze gotowa na dzień dzisiejszy.
+<SPEAKER ID="013" NAME="Tadeusz Zwiefka" AFFILIATION="PPE-DE">
+(PL) Panie przewodniczący! Głównym celem polityki przedsiębiorczości jest utworzenie otoczenia odpowiedniego dla kreacji i rozwoju przedsiębiorstw. W polepszeniu otoczenia gospodarczego zawierają się uproszczenia administracyjne i prawne oraz wpływ na finanse, podatki, środowisko społeczne i naturalne, które wpływają na działalność przedsiębiorstw.
+<P>
+Ujednolicenie regulacji niesie ze sobą ogromne korzyści dla całego międzynarodowego środowiska biznesowego. Po pierwsze, standardy sprawozdawczości finansowej o znaczeniu ponadnarodowym ułatwiają ocenę i porównanie sytuacji finansowej przedsiębiorstw z różnych krajów, a przez to usprawniają proces podejmowania decyzji inwestycyjnych. Po drugie, dzięki sporządzeniu sprawozdań finansowych wg powszechnienie uznanych i akceptowanych zasad rachunkowości, przedsiębiorstwa zapewniają sobie szerszy dostęp do kapitału.
+<P>
+Małe i średnie przedsiębiorstwa podlegają często tym samym przepisom co duże, ale rzadko badane są ich szczególne potrzeby w zakresie rachunkowości. Ważne jest, by dyskusje koncentrowały się nie tylko wokół uproszczenia, ale także wokół znaczenia wymogów sprawozdawczości finansowej dla małych i średnich przedsiębiorstw w przeciwieństwie do dużych przedsiębiorstw notowanych na giełdach. Debata nt. uproszczenia na ogół skupia się na kosztach. Natomiast debata nt. znaczenia wymogów dotyczy korzyści związanych ze sprawozdawczością finansową oraz poszczególnych użytkowników i ich potrzeb.
+<P>
+Za wprowadzeniem uproszczonych regulacji dla małych i średnich przedsiębiorstw przemawia kilka cech. Po pierwsze, korzyści z wdrożenia globalnych standardów w małych i średnich przedsiębiorstwach niepublicznych są z pewnością mniejsze niż w przypadku dużych spółek giełdowych. Prowadzi to do powstania dysproporcji pomiędzy korzyściami i kosztami związanymi z aplikacją standardów. Ustalenie odpowiedniej relacji korzyści - koszty wymaga ograniczania tych drugich. Po drugie, sprawozdawczość finansowa nie odgrywa istotnej roli w zaspokajaniu potrzeb informacyjnych właścicieli małych i średnich przedsiębiorstw, ponieważ mają oni dostęp bezpośrednio do informacji. Po trzecie, użytkownicy sprawozdań finansowych małych i średnich przedsiębiorstw posiadają z reguły mniejszą wiedzę z zakresu rachunkowości sprawozdawczej, zatem powinna ona zostać dostosowana do możliwości prezentowanych przez odbiorców.
+<SPEAKER ID="014" NAME="Lidia Joanna Geringer de Oedenberg" AFFILIATION="PSE">
+(PL) Panie przewodniczący! Parlament Europejski od wielu lat alarmował o problemie niepotrzebnych i nieproporcjonalnie wysokich kosztów administracyjnych nakładanych na europejskie przedsiębiorstwa. Cieszy zatem fakt, iż Komisja zajęła się wreszcie tą kwestią proponując, w drodze przyśpieszonej procedury, zmiany w odniesieniu do czwartej i siódmej dyrektywy w sprawie prawa spółek w zakresie wymogów ujawniania informacji przez średnie przedsiębiorstwa oraz obowiązku sporządzania skonsolidowanych sprawozdań finansowych.
+<P>
+Popieram podejście Komisji zmierzające do uproszczenia warunków prowadzenia działalności przez przedsiębiorstwa europejskie, jednakże przy założeniu, iż zmiany te nie będą skutkować ograniczeniem przejrzystości i utratą informacji na rzecz użytkowników kont. Zasadna wydaje się także propozycja w odniesieniu do usunięcia wymogu ujawniania kosztów organizacji. Rozszerzenie na średnie przedsiębiorstwa zakresu wyjątków przysługujących małym przedsiębiorstwom, z których na dużą skalę korzysta już większość państw członkowskich, może przyczynić się do zmniejszenia dla tych pierwszych obciążeń w zakresie sprawozdawczości.
+<P>
+Jeśli chodzi o zmiany zaproponowane do siódmej dyrektywy w sprawie prawa spółek wymóg sporządzenia odrębnych sprawozdań finansowych nie znajduje faktycznie uzasadnienia z uwagi na fakt, że skonsolidowane sprawozdania byłyby w tym przypadku prawie identyczne, jak nieobowiązkowe sprawozdania jednostkowe.
+<P>
+Komisja Europejska powinna podejmować dalsze wysiłki nad nowelizacją czwartej i siódmej dyrektywy o prawie spółek w celu przedstawienia przed końcem 2009 r. europejskich ram rachunkowości. Jednolite standardy zmniejszą obciążenia administracyjne dla małych i średnich przedsiębiorstw i zwiększą przejrzystość dla wszystkich zaangażowanych podmiotów.
+<SPEAKER ID="015" NAME="Jacques Toubon" AFFILIATION="PPE-DE">
+- (FR) Panie przewodniczący! Chciałbym zacząć od podziękowania sprawozdawczyni, pani poseł van den Burg, koordynatorowi, panu posłowi Lehne, oraz kontrsprawozdawcy, panu posłowi Gauzèsowi, za wysiłki włożone w wypracowanie stanowiska, które uważam za niezwykle efektywne i rozsądne.
+<P>
+W istocie rzeczy wszyscy zdajemy sobie doskonale sprawę z potrzeby dostosowania naszych przepisów do konkretnych warunków funkcjonowania małych i średnich przedsiębiorstw, dlatego też zdecydowanie popieramy przedstawiony przez Komisję i przyjęty przez Radę plan dla tych przedsiębiorstw. Pragnę jednak dodać, że nie możemy traktować małych i średnich firm na zasadzie podrzędnych podmiotów, nie możemy spychać ich niejako do getta, w którym obowiązywałoby tak wiele uproszczeń i tak niewiele zasad, że przedsiębiorstwa nie byłyby w stanie zapewnić gwarancji umożliwiającym im - zwłaszcza w czasach obecnego kryzysu - zaciąganie kredytów na działalność i rozwój.
+<P>
+Oto dlaczego zdecydowanie popieram, podobnie jak pan poseł Gauzès, rezolucję w brzmieniu zaproponowanym przez panią poseł van den Burg i przyjętym przez naszą komisję. W rezolucji tej wzywa się Komisję do złożenia projektu umożliwiającego państwom członkowskim zwolnienie bardzo małych przedsiębiorstwo - o bilansie poniżej 500 tysięcy euro, z obrotami poniżej 1 miliona euro i zatrudniającymi do 10 osób - z obowiązku stosowania dyrektywy.
+<P>
+Stworzy to państwom członkowskim możliwość dostosowania własnego ustawodawstwa, tak jak uczyniono to w Niemczech, przy jednoczesnym traktowaniu małych i średnich przedsiębiorstw na takich samych zasadach, jakie mają zastosowanie do innych firm - co jest bardzo ważne. Małe i średnie przedsiębiorstwa nie rozwijają się w odosobnieniu. Europa musi podjąć działania w celu zapewnienia, by nie znalazły się w niekorzystnej sytuacji w stosunku do innych przedsiębiorstw.
+<SPEAKER ID="016" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
+(PL) Panie Przewodniczący! Małe i średnie przedsiębiorstwa w Unii Europejskiej zatrudniają około 60% pracowników. Z tego względu ich kondycja ekonomiczna jest niezwykle ważna. Szczególnie w dobie kryzysu finansowego ważne jest, by nie komplikować ich zobowiązań prawnych, by ułatwiać ich działalność. To szansa dla tych przedsiębiorstw, a także dla ich pracowników.
+<P>
+Uproszczenia w zakresie sprawozdawczości przewidziane dyrektywą zmieniającą są krokiem w dobrym kierunku. Zgadzam się jednak z kolegą, który zwracał uwagę na potrzebę zapewnienia lokalnym dziennikarzom dostępu do informacji.
+<SPEAKER ID="017" NAME="Rachida Dati">
+urzędująca przewodnicząca Rady. - (FR) Panie przewodniczący, panie i panowie! Przede wszystkim przepraszam za spóźnienie. Nie udało nam się wyjechać na czas z Paryża. Chciałam również podziękować paniom i panom posłom za odbywającą się dziś debatę, choć nie mogłam wysłuchać jej w całości.
+<P>
+Rada odnotowuje i będzie odnotowywać wszystkie państwa uwagi, zalecenia oraz zainteresowanie tymi sprawami, w szczególności zaś zobowiązanie do zmniejszenia obciążeń dla przedsiębiorstw.
+<P>
+Jest to obecnie bardzo drażliwa kwestia, ale zdecydowanie musimy - zwłaszcza w sytuacji kryzysu - dokonać uproszczeń bez deregulacji w celu stworzenia w Europie warunków dających znacznie większe poczucie pewności, a tym zapewniających rozwój małych i średnich przedsiębiorstw.
+<SPEAKER ID="018" NAME="Jacques Barrot">
+wiceprzewodniczący Komisji. - (FR) Panie przewodniczący! Chciałbym powitać panią minister i przyłączyć się do podziękowań dla Parlamentu, pani poseł van den Burg, pana posła Lehne i pana posła Gauzèsa za pracę, dzięki której dziś udało nam się sfinalizować tę pierwszą kwestię.
+<P>
+Uważnie wysłuchałem tego, co zostało powiedziane na temat małych przedsiębiorstw. W istocie rzeczy celem jest przyjęcie zasad dla małych przedsiębiorstw w czasie planowanej nowelizacji, natomiast chciałbym powtórzyć, że państwa członkowskie będą mogły wybrać, czy chcą stosować te zasady, czy też opracować alternatywne przepisy dostosowane do uwarunkowań miejscowych.
+<P>
+Osobiście przekonuje mnie argument, że nie należy tworzyć sytuacji, w której okaże się, iż małe firmy pod pretekstem uproszczenia zostaną zepchnięte na margines życia gospodarczego. Oto, co pragnę powiedzieć: wierzę, że dzisiejsza debata oświeci mojego kolegę odpowiedzialnego za rynek wewnętrzny, komisarza McCreevy'ego, i umożliwi nam działanie na rzecz zmniejszenia obciążeń administracyjnych dla przedsiębiorstw, zwłaszcza tych najmniejszych.
+<P>
+Jestem wdzięczny Parlamentowi za nieustanne wsparcie i mamy nadzieję, że ta konstruktywna współpraca będzie kontynuowana w przyszłym roku.
+<SPEAKER ID="019" NAME="Ieke van den Burg">
+sprawozdawczyni. - (NL) Uważam, że przekaz płynący z tego Parlamentu jest jasny i donośny. Doraźne rozwiązanie polegające na zaoferowaniu państwom członkowskim możliwości wyłączenia mikroprzedsiębiorstw z zakresu prawodawstwa europejskiego sprawdzi się na krótką metę, ale nie ma trwałego charakteru. Mam nadzieję, że przekaz ten dotarł również do Komisji.
+<P>
+Z myślą o tych przedsiębiorstwach, i ogólnie o małych i średnich firmach, chcemy wprowadzić jednolite prawodawstwo europejskie, które umożliwi im funkcjonowanie w ramach rynku wewnętrznego, ale - jak stwierdził pan poseł Gauzès - na prostych zasadach, tak ja ma to miejsce w przypadku eXtensible Business Reporting Language (XBRL). Oznaczać to będzie brak ogromnych obciążeń administracyjnych, jakie istnieją dzisiaj. W końcu nawet jeśli da się państwom członkowskim opcję wyłączenia, nie oznacza to, że mogą one narzucać własne zasady, które ponadto różniłyby się w zależności od kraju. To nic nie rozwiązuje w średnim horyzoncie czasowym.
+<P>
+W horyzoncie średnioterminowym chcielibyśmy przedstawić projekt prostego, zharmonizowanego prawodawstwa, które nadaje się do stosowania w obrębie całego rynku wewnętrznego i nie powoduje powstania ogromnych obciążeń dla małych i średnich firm, a w szczególności mikroprzedsiębiorstw. Byłby to prosty system przekazywania informacji na temat rocznych sprawozdań finansowych. Taka jest intencja Parlamentu i mam nadzieję, że ten przekaz został zrozumiany.
+<SPEAKER ID="020" NAME="Przewodniczący">
+Otrzymałem jeden projekt rezolucji złożony zgodnie z art. 103 ust. 2 Regulaminu.
+<P>
+Zamykam debatę.
+<P>
+Głosowanie odbędzie się w czwartek, 18 grudnia 2008 r.

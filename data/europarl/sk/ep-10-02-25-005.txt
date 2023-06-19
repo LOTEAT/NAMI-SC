@@ -1,0 +1,230 @@
+<CHAPTER ID="005">
+Bezpečnosť železníc vrátane európskeho systému signalizácie (rozprava) 
+<SPEAKER ID="065" NAME="Predsedajúci">
+Ďalším bodom programu je vyhlásenie Komisie o bezpečnosti železníc vrátane európskeho systému signalizácie.
+<SPEAKER ID="066" NAME="Siim Kallas">
+podpredseda Komisie. - Vážený pán predsedajúci, vlakové nešťastie, ku ktorému prišlo v Buizingene v pondelok 15. februára 2010, bolo šokujúcou tragédiou. Chápem, že po takejto vážnej nehode sa môžu objaviť technické a politické otázky týkajúce sa bezpečnosti železníc.
+<P>
+V prvom rade chcem povedať, že myslím na obete tejto tragédie a ich príbuzných. Pri týchto smutných príležitostiach je vždy ťažké nájsť slová útechy, ticho niekedy povie viac. Príčiny nehody ešte nie sú úplne známe. V súlade s ustanoveniami smernice o bezpečnosti železníc sa začalo odborné vyšetrovanie.
+<P>
+Zodpovedný za vykonanie tohto vyšetrovania je belgický vyšetrovací orgán. Uskutočniť by sa malo nezávisle od akéhokoľvek súdneho vyšetrovania. Cieľom odborného vyšetrovania nie je prideliť vinu a zodpovednosť, ale zistiť príčiny, aby sa mohla zlepšiť bezpečnosť železníc a prevencia nehôd.
+<P>
+Belgický vyšetrovací orgán požiadal Európsku železničnú agentúru, aby ho v jeho vyšetrovaní podporila. Len pár hodín po nehode sa dvaja vyšetrovatelia z agentúry pridali k príslušnému belgickému tímu.
+<P>
+Chcel by som zdôrazniť skutočnosť, že by sa nemali vyvodzovať závery, keďže príčiny nehody ešte nie sú jasné. Som, samozrejme, ochotný vysvetliť niektoré otázky, ktoré sa vynorili v dôsledku tejto tragédie, a podelím sa s vami o svoje poznatky o okolnostiach.
+<P>
+Ako to v prípade železničných nešťastí až príliš často býva, objavujú sa poznámky o údajnej súvislosti medzi nehodou a európskymi právnymi predpismi a nariadeniami. Najprv by som chcel ujasniť záležitosť otvorenia trhu. Okrem otvorenia odvetvia železničnej nákladnej dopravy hospodárskej súťaži a stanovenia požiadaviek na oddelenie činnosti správcov infraštruktúry a železničných podnikov sa zaviedol prísny regulačný rámec, ktorý upravuje bezpečnosť železníc a interoperabilitu. Chceme zabezpečiť, aby sa udržala vysoká úroveň bezpečnosti železníc, ale uznávame postupy a metódy v tejto oblasti, ktoré sú špecifické pre jednotlivé členské štáty.
+<P>
+Európska železničná agentúra pravidelne vydáva správy o európskej sieti a sleduje vývoj situácie v členských štátoch.
+<P>
+Ukazovatele naznačujú, že otvorenie železničného odvetvia hospodárskej súťaži nemalo na bezpečnosť železníc žiadny negatívny vplyv. Dovolím si otvorene povedať, že akékoľvek tvrdenie, ktoré dáva do súvisu úroveň bezpečnosti železníc a otvorenie železničného trhu, je podľa mňa len výhovorkou na odvedenie diskusie od pravých príčin nehody.
+<P>
+Otázka súčasného fungovania vnútroštátnych systémov riadenia vlakov a európskeho systému sa dá sformulovať nasledovne: na zabezpečenie bezpečného pohybu vlakov sa v Európe v súčasnosti používa viac ako 20 rôznych vnútroštátnych systémov. Tieto systémy vyvinuté na vnútroštátnej úrovni pozostávajú zo zariadenia tratí a palubných zariadení. Zariadenie tratí vysiela počítaču vo vlaku informácie a v prípade nebezpečnej situácie počítač aktivuje brzdy.
+<P>
+Aby systémy fungovali, musia byť preto vlaky a trate vybavené kompatibilným systémom. Úrovne bezpečnosti a účinnosti jednotlivých vnútroštátnych systémov automatického zabezpečenia vlakov sú rozdielne a rozdielne sú aj pravidlá týkajúce sa vybavenia tratí a lokomotív v týchto vnútroštátnych systémoch.
+<P>
+Nekompatibilita jednotlivých vnútroštátnych systémov predstavuje pre medzinárodné vlaky závažný problém, pretože buď sa na každej hranici musia vymeniť lokomotívy, alebo musia byť lokomotívy vybavené takým počtom palubných systémov, koľko je systémov tratí, na ktorých jazdia. Vyskytujú sa dokonca prípady, keď v jednej krajine súčasne existujú rozdielne vnútroštátne systémy. Rýchlovlak Thalys je napríklad na jazdu v štyroch krajinách vybavený siedmymi rozličnými systémami.
+<P>
+Z tohto dôvodu sa navrhol a vyvinul jednotný systém určený na použitie na európskej úrovni, ktorý sa v súčasnosti inštaluje v Európe na hlavných medzinárodných linkách a do vlakov. Systém je známy pod názvom ERTMS - európsky systém riadenia železničnej dopravy.
+<P>
+Pokiaľ ide o časové hľadisko, môžeme povedať, že väčšina vnútroštátnych systémov bola vyvinutá v prvej polovici osemdesiatych rokov minulého storočia, ich vývoj je však dlhý a nákladný proces. Vo väčšine krajín je vybavená len časť vnútroštátnych sietí a lokomotív a toto čiastočné vybavenie trvalo približne 20 rokov.
+<P>
+Presný opis systému ERTMS je k dispozícii od roku 2000. V období 2000 - 2005 sa realizovalo množstvo pilotných projektov. Od roku 2005 sa do prevádzky uviedlo niekoľko liniek vybavených systémom ERTMS. V súčasnosti má 10 členských štátov linky vybavené systémom ERTMS a projekty prebiehajú takmer vo všetkých členských štátoch. Napríklad v Belgicku je vybavená linka medzi Aachenom a Liège a vybavené sú tiež vlaky ICT premávajúce na tejto linke.
+<P>
+ERTMS bol vytvorený najmä s cieľom podporiť interoperabilitu. Pre lokomotívy to znamená možnosť prechádzať cez hranice, uznáva sa však tiež jeho výhoda zvýšenej bezpečnosti. Systém je v súčasnej dobe plne prevádzkyschopný, avšak pre dlhý čas potrebný na jeho inštaláciu do vlakov a pre dlhé linky budú existujúce vnútroštátne systémy fungovať súbežne so systémom ERTMS.
+<P>
+Tretie krajiny - za všetky uvediem ako príklad Taiwan - si vybrali tiež systém ERTMS, a to nielen z dôvodov interoperability. Taiwan investoval do ERTMS jednoducho preto, že to je momentálne najlepší systém dostupný na trhu.
+<P>
+Bolo položených viacero otázok týkajúcich sa porovnania situácie medzi členskými štátmi. Určiť poradie členských štátov a zmysluplne ich porovnať je veľmi ťažké a nie veľmi užitočné. Všetko závisí od výberu ukazovateľov, referenčného obdobia a kvality dodaných údajov. Jedna alebo dve vážne nehody môžu významne ovplyvniť akékoľvek poradie, aké by sme mali.
+<P>
+Celkové údaje ukazujú, že Belgicko je priemerné. Je však pravda, že Belgicko zaostáva za európskym priemerom, pokiaľ ide o trasy vybavené systémom automatického zabezpečenia vlakov, či už vnútroštátnym, alebo európskym systémom.
+<SPEAKER ID="067" NAME="Mathieu Grosch">
+v mene skupiny PPE. - (DE) Vážený pán predsedajúci, pán Kallas, chcel by som sa vám poďakovať za vaše vysvetlenia. Na pozadí nešťastia v Buizingene je, samozrejme, dôležité, aby sme preukázali úctu obetiam a tiež vyšetrovaniu. Z tohto dôvodu nesmieme vyvodiť unáhlené závery o nehode a najmä nesmieme začať hľadať vinníkov.
+<P>
+Myslím si, že Komisia konala správne, keď dôrazne odmietla obvinenia Národnej spoločnosti belgických železníc, že vývoj európskeho systému riadenia železničnej dopravy trval príliš dlho. Vieme, že bezpečnosť je stále vnútroštátnou prioritou, a tak to bude aj naďalej. Nás na európskej úrovni - týka sa to Komisie a aj Parlamentu - vždy trápila skutočnosť, že železničné spoločnosti nedávajú bezpečnosti a interoperabilite medzi jednotlivými systémami v Európe väčšiu prioritu.
+<P>
+Po nehodách sa nové návrhy často robia v politickom kontexte. Musím povedať, že v tomto prípade bolo všetko v poriadku, právne predpisy a aj technológia. Jediné, čo možno chýbalo, bola vôľa dať technológii vysokú prioritu. Od polovice deväťdesiatych rokov minulého storočia bola k dispozícii technológia, ktorá umožňovala bezpečný prechod medzi európskym systémom a moderným belgickým systémom, inými slovami takzvaný systém TBL 1+. Nechýbal ani čas, ani technické vybavenie.
+<P>
+Pre mňa je dôležitá budúcnosť a chcel by som zdôrazniť tieto body. Po prvé, za žiadnych okolností nesmieme znížiť odbornú prípravu v železničnom odvetví. To nebolo a ani to nebude úlohou EÚ. Železnice majú vysokokvalifikovaný personál a tak to musí zostať aj v budúcnosti.
+<P>
+Po druhé, od železničných spoločností a krajín potrebujeme konkrétne a záväzné konverzné plány. Už nestačí ponechať všetko na dobrú vôľu. Potrebujeme presný časový harmonogram a čoskoro budeme mať v Parlamente možnosť zistiť viac o konkrétnych cieľoch.
+<P>
+Môj tretí návrh je, že pasažieri by mali mať tiež právo vedieť, či úsek trate a vlak, ktorým cestujú, spĺňajú najvyššie normy kvality. To je minimálna úroveň informácií, ktoré musia byť v budúcnosti pre pasažierov dostupné. Musíme tiež preskúmať, ako môžeme túto povinnosť uviesť do praxe.
+<SPEAKER ID="068" NAME="Saïd El Khadraoui" LANGUAGE="NL">
+Na úvod by som chcel v mene Skupiny progresívnej aliancie socialistov a demokratov v Európskom parlamente obetiam železničného nešťastia v Buizingene, ich rodinám a priateľom tiež vyjadriť úprimnú sústrasť.
+<P>
+Kým vyvodíme skutočné, podrobné závery, musíme, samozrejme, počkať na výsledky vyšetrovania, to však nič nemení na skutočnosti, že bezpečnosť železníc musí zostať v našej neustálej pozornosti na všetkých úrovniach vrátane európskej a že preto musíme politiku bezpečnosti pravidelne vyhodnocovať, zlepšovať, dopĺňať a prispôsobovať. Chcel by som sa pripojiť k nášmu kolegovi a k vám, pán komisár, v tom, že jasne vyjadrím poľutovanie nad tým, že množstvo jednotlivcov, ktoré má v Belgicku významnú zodpovednosť, sa usilovalo zodpovednosť za nehodu presunúť na Európu, aspoň prinajmenšom robili ten dojem. Najmä oneskorenie vývoja európskeho systému riadenia železničnej dopravy sa uvádzalo ako dôvod, prečo je teraz v roku 2010 v Belgicku len niekoľko lokomotív vybavených automatickým systémom brzdenia.
+<P>
+Dámy a páni, na druhej strane buďme úprimní a vyjasnime si jednu vec: vývoj tejto dobrej myšlienky - jednotného systému signalizácie, ktorý nahradí 20 rôznych systémov - trval dlhšie, ako sme dúfali a predpokladali. Príčinou je, samozrejme, technická zložitosť a skutočnosť, že na štandarde sa muselo dohodnúť mnoho krajín, a to 27, hoci vtedy ich bolo o niečo menej. Má to, pochopiteľne, vplyv aj na rozpočty. Ako ste však správne povedali, žiadny členský štát to neodradilo od vývoja vlastného systému, alebo od používania nejakej skorej verzie systému ERTMS z počiatočného štádia.
+<P>
+Zastávam názor, že sa teraz musíme pozerať vpred a opýtať sa sami seba, ako môžeme prispieť k bezpečnejším železniciam. Myslím si, že prispieť môžeme na viacerých frontoch aj na európskej úrovni. Po prvé, môžeme tak urobiť vďaka ďalšiemu vývoju systému ERTMS. Takýto plán vývoja existuje. V roku 2009 sme z rozpočtu vyčlenili 240 miliónov EUR pre transeurópske dopravné siete (TEN-T), aby sme s nimi členským štátom pomohli.
+<P>
+Po druhé, musíme kontrolovať, či sa existujúce európske právne predpisy týkajúce sa bezpečnosti naozaj zavádzajú do praxe, a myslím si, že to je dôležitá úloha pre Komisiu a pre Európsku železničnú agentúru. Chcel by som uviesť príklad smernice 2004/49/ES o bezpečnosti železníc Spoločenstva. Tá okrem iného určuje, že v každom členskom štáte sa musí zriadiť orgán pre bezpečnosť, ktorý musí byť nezávislý od železničných podnikov a správcu infraštruktúry a ktorého úlohou je kontrola, podpora a presadzovanie bezpečnosti železníc a rozvoj regulačného rámca. Dámy a páni, mám pocit, že v Belgicku to nefunguje veľmi dobre, a myslím si, že by ste mali vykonať nejaký audit, aby sme zistili, či členské štáty majú naozaj schopnosť aktívne zaručiť túto bezpečnosť svojich vnútroštátnych železničných systémov. To je úloha, ktorou by som vás chcel poveriť.
+<SPEAKER ID="069" NAME="Dirk Sterckx" LANGUAGE="NL">
+Tiež by som chcel v mene našej skupiny vyjadriť sústrasť obetiam a aj ja chcem, samozrejme, počkať na výsledky vyšetrovania. Dúfam, že prebehne čo najrýchlejšie, avšak tiež čo najdôkladnejšie.
+<P>
+V našej krajine sa objavilo mnoho otázok týkajúcich sa prístupu Európy k železniciam. Musím k vám byť úprimný: šokovalo ma, že nás niektorí obvinili zo zanedbávania bezpečnosti. Bol som spravodajcom Parlamentu v prípade smernice o bezpečnosti železníc, o ktorej sa práve zmienil pán El Khadraoui, a som hrdý na prácu, ktorú sme vtedy vykonali. Povedali sme si, že musíme byť veľmi nároční, pokiaľ ide o bezpečnosť vo všetkých členských štátoch, a že musíme v tejto oblasti zaviesť európsky rámec a stanoviť požiadavky. V členských štátoch sme to presadili s veľkými ťažkosťami. Všimol som si - a pán El Khadraoui to právom spomenul -, že v niektorých krajinách, bohužiaľ, aj v našej, je uplatňovanie tejto smernice na vnútroštátnej úrovni skutočne zle zorganizované. Pán komisár, dúfam, že sa na to ešte raz dobre pozriete. Možno by sa mal aj tento Parlament pozrieť na smernicu a sprísniť rámec, ako povedal pán Grosch. Nie je pravda, že zanedbávame bezpečnosť, opak je pravdou.
+<P>
+Po druhé, nariadenie o právach pasažierov obsahuje odsek, o ktorom sme dúfali, že nebude nikdy potrebný: týka sa zálohových platieb za ľudí zabitých alebo zranených pri železničných nehodách. Vítam oznámenie Národnej spoločnosti belgických železníc (SNCB), že bude používať tento systém a bude realizovať zálohové platby. Bolo totiž obdobie, keď by to tak nebolo.
+<P>
+Niekoľko ľudí povedalo, že otvorenie trhu spôsobilo, že železnice nie sú bezpečné. Chcel by som to rázne poprieť. Nie je to pravda, názorne to dokazujú aj najnovšie údaje Európskej železničnej agentúry z roku 2008. V roku 2008 mali najlepšie výsledky Spojené kráľovstvo a Holandsko, dve krajiny, ktoré otvorili svoje trhy.
+<P>
+Myslím si tiež, že by sa pozornosť mala venovať ľuďom, pracovníkom železníc v teréne: strojvodcom, staničnému personálu, správcom. Mali by sme sa opäť pozrieť na ich situáciu a zabezpečiť, aby bola bezpečnosť hlavným faktorom nielen ich odbornej prípravy, ale tiež organizácie ich práce a celkovej podnikovej kultúry. Pán predsedajúci, na záver by som chcel povedať, že nesmieme pustiť zo zreteľa skutočnosť, že železnice stále patria medzi najbezpečnejšie dopravné prostriedky.
+<SPEAKER ID="070" NAME="Isabelle Durant" LANGUAGE="FR">
+Vážený pán predsedajúci, pán komisár, aj ja si myslím, že minulotýždňová tragická nehoda je najhoršou železničnou katastrofou, ktorá Belgicko postihla od roku 2001, keď som zastávala post ministerky mobility a dopravy. Moje myšlienky, samozrejme, patria našej kolegyni Claudii Cadeagovej a taktiež všetkým ostatným obetiam tejto tragédie, ich milovaným a všetkým smútiacim pracovníkom železníc.
+<P>
+Zdržím sa vyvodzovania akýchkoľvek záverov takisto ako rečníci, ktorí hovorili predo mnou. Prebieha vyšetrovanie a nemali by sme špekulovať o jeho výsledkoch. V prípade Belgicka je však jednoznačne poľutovaniahodné, že železniciam trvá tak dlho, ako už niektorí spomenuli, vybaviť sa systémom automatického zabezpečenia vlakov. Keď som sa hneď po nešťastí dopočula, že rozpočtové dôvody nemohli byť uvedené a ako vysvetlenie tejto nehody sa uvádzalo oneskorenie vývoja európskych noriem interoperability, považovala som to za neprijateľné a hneď som cítila, že Európa je predmetom nepodložených obvinení.
+<P>
+V skutočnosti poskytuje Európsky systém riadenia železničnej dopravy spoločnostiam možnosť investovať do bezpečnosti koordinovaným a interoperabilným spôsobom. Musíme sa zbaviť nespočetných vnútroštátnych noriem, ktoré brzdia vývoj a konkurencieschopnosť v čase, keď sa vyvíja európsky systém riadenia vlakov (ETCS). Samozrejme sa vyvíja a vývoj bude pokračovať. Je to potrebné na zachovanie technológie na vysokej úrovni. Navyše nepochybujem o tom, že nasledujúcich päť alebo desať rokov prinesie ešte mnoho udalostí.
+<P>
+Treba povedať, že takéto nehody, akokoľvek mimoriadne, nám pripomínajú, že keď ide o bezpečnosť, vždy je priestor na zlepšenie. Chcela by som v tejto súvislosti navrhnúť niekoľko vecí.
+<P>
+Po prvé, pán komisár, ako viete, momentálne diskutujeme o transeurópskych dopravných sieťach, ich podmienkach a kritériách. Myslím si, že keď ide o európske siete, mohlo by sa nasadenie ERTMS v celej Európe stať skutočne prioritou. Myslím si tiež, že by sme v tejto súvislosti mali stanoviť lehoty pre prostriedky, ktorými musia byť vybavené všetky krajiny a siete.
+<P>
+Napokon, myslím si, že pred liberalizáciou trhov musíme uprednostniť bezpečnosť a novým prevádzkovateľom, ktorí prevádzkujú vlaky na rozličných vnútroštátnych sieťach, by sme mali uložiť povinnosť využiť viac času na prispôsobenie sa systému automatického zabezpečenia, ktorý na týchto sieťach existuje, a vybaviť tak svoje vlaky príslušnými prijímačmi a palubnými zariadeniami.
+<P>
+Na záver, myslím si, že Európska železničná agentúra by mala taktiež poskytnúť dôležitú podporu účinnejšej integrácii vnútroštátnych orgánov pre bezpečnosť. Takáto integrácia by umožnila napríklad typové schválenie zariadenia.
+<P>
+(Predsedajúci prerušil rečníčku.)
+<SPEAKER ID="071" NAME="Derk Jan Eppink">
+v mene skupiny ECR. - (NL) Vyšetrovanie príčin železničnej nehody v Buizingene ešte nie je dokončené, preto sa k nemu nemôžem vyjadriť, ale prišiel som k nasledovnému záveru. Keď sa zrazia vlaky v Spojenom kráľovstve, ľudia to rýchlo prisúdia privatizácii železníc. Belgické železnice (SNCB) dostávajú relatívne najvyššiu podporu v celej Európskej únii. Belgicko dáva železniciam 32 centov za pasažiera/kilometer. Francúzsko je s 24 centami na druhom mieste. Holandsko dáva 15 centov a Spojené kráľovstvo 4 centy. Napriek všetkým týmto subvenciám má SNCB stále dlhy vo výške 10 miliárd EUR. Kam tie peniaze idú?
+<P>
+Keď sa pozriem na infraštruktúru SNCB, zanedbanosť je do očí bijúca. Všetko je staré a opotrebované. Je možné, že sa niekedy zanedbáva aj bezpečnostný systém? Asi ide pre silu odborov až príliš veľa peňazí na platy zamestnancov. V Belgicku sú železnice socialistickou doménou a sú zle prevádzkované. Tieto otázky sa musia rozhodne položiť, pretože SNCB ťažko môžu ako výhovorku použiť nedostatok peňazí.
+<SPEAKER ID="072" NAME="Jacky Hénin" LANGUAGE="FR">
+Vážený pán predsedajúci, keď v novembri pán Simpson na pôde tohto Parlamentu vyhlásil, že hoci je európsky železničný systém veľmi bezpečný a za posledných pár rokov sa urobil pokrok vďaka liberalizácii trhu, takmer som sa zadusil. Predsa však pokračoval tvrdením, že nedávne smrteľné nehody vyvolali otázky týkajúce sa bezpečnosti.
+<P>
+Od nehody v Buizingene slúžia strašné straty na ľudských životoch a vážne fyzické a psychické utrpenie, ktoré spôsobila, ako silná pripomienka toho, že už je najvyšší čas, aby sme začali vážnu diskusiu o bezpečnosti železníc. Okamžite zavrhnime myšlienku, že všetky nehody sú svojou podstatou nepredvídateľné. Hlavným faktorom nedostatočnej bezpečnosti európskych železničných sietí je priamy dôsledok oddelenia správy železničnej infraštruktúry a správy vozového parku. Toto oddelenie - musí sa to tu dôrazne povedať - si napriek lepšiemu úsudku pracovníkov železníc vynútila Komisia, aby sa odvetvie železničnej dopravy mohlo otvoriť hospodárskej súťaži. Značne to zvyšuje pravdepodobnosť nehôd. Pre toto oddelenie padla údržba európskej železničnej siete za obeť vyšším ziskom. Môžete sa pokúsiť získať čas tým, že ako jedinú možnosť riešenia problémov navrhnete používanie najmodernejšej techniky. V konečnom dôsledku však v Európe potrebujeme inú politiku v oblasti železničnej dopravy. Ak sa bude každý rok znižovať počet pracovníkov železníc, úroveň údržby, objem investícií a úroveň odbornej prípravy, budeme sa opäť musieť problému nehôd venovať a opäť prejavovať sústrasť. Aby sa zabezpečila bezpečnosť železníc, musí Únia prevrátiť stranu o hospodárskej súťaži na stranu o spolupráci.
+<P>
+Na záver, dámy a páni, po skončení tejto rozpravy nebude už nikto z nás môcť ďalej prehliadať našu zodpovednosť. Pokiaľ ide o mňa, odmietam sa podieľať na zlom úmysle. Bez zmeny...
+<P>
+(Predsedajúci prerušil rečníka.)
+<SPEAKER ID="073" NAME="Philip Claeys" AFFILIATION="NI">
+(NL) Na úvod by som len chcel upozorniť na to, že daňové zaťaženie v Belgicku je jedným z najvyšších na svete, a predsa daňovníci v tejto neovládateľnej krajine - najmä vo Flámsku - dostávajú za svoje peniaze veľmi málo. Železničný systém je toho názorným príkladom. Je zúfalo zastaraný a charakterizujú ho časté a dlhé meškania a preplnené vozne počas špičky.
+<P>
+Manažment belgických železníc (SNCB) je veľmi spolitizovaný a neefektívny. Typickou vlastnosťou belgickej politiky je, že keď sa niečo stane, nikto nie je nikdy za nič zodpovedný. V roku 2001 sa v Pécrote stala podobná nehoda ako minulý týždeň v Buizingene. Pred deviatimi rokmi si všetci mysleli, že sa podniknú vážne kroky na zlepšenie bezpečnostného systému; nič sa však neudialo. Kým Belgicko čakalo na zavedenie európskeho systému riadenia vlakov (ETCS), vyvinulo vlastný systém, ale ten prišiel príliš neskoro a bol úplne nedostatočný.
+<P>
+Musíme si z toho zobrať ponaučenie, že sa musí viac investovať do bezpečnosti a že rôzne existujúce systémy musia zlepšiť svoju kompatibilitu. Ak sa ukáže, že nie je možné dosiahnuť účinnú interoperabilitu, musí sa maximálne podporiť prechod na európsky systém ETCS, pretože nie je v poriadku, že napríklad vlak Thalys, ktorý premáva medzi Parížom a Amsterdamom, má sedem rôznych bezpečnostných systémov.
+<SPEAKER ID="074" NAME="Werner Kuhn" AFFILIATION="PPE">
+(DE) Vážený pán predsedajúci, dámy a páni, zrážka dvoch prímestských vlakov v Bruseli, ktorá mala za následok toto strašné nešťastie, nás všetkých hlboko šokovala. V myšlienkach sme teraz s rodinami a priateľmi obetí.
+<P>
+Po takýchto nešťastiach je často prvou reakciou ľudí snaha nájsť nejakého vinníka. Avšak Európska únia, Komisia a bezpečnostné predpisy zavedené smernicou 2004/49/ES sa v tomto prípade nesmú stať obetným baránkom. Na druhej strane je, samozrejme, dôležitá otázka, či by sme nemali sprísniť bezpečnostné predpisy. Vyšetrovania tejto železničnej nehody sa ešte neskončili, a preto nemôžeme očakávať žiadne jednoznačné výsledky. Hlavná otázka, ktorú si teraz musíme položiť, je, či nebolo možné tejto nehode zabrániť. Nemôžeme vylúčiť ľudskú chybu ani technické zlyhanie, a preto sú obidve tieto veci pre bezpečnosť železničnej dopravy dôležité. Všetci prevádzkovatelia železníc, štátni aj súkromní, majú povinnosť zabezpečiť potrebnú úroveň bezpečnosti. Vnútroštátne železničné spoločnosti musia zabezpečiť dodržiavanie príslušných bezpečnostných noriem.
+<P>
+Nechcem v tejto situácii robiť žiadne prednášky z nemeckého hľadiska. Chcem len povedať, že v Nemecku sme sa snažili zaviesť celú smernicu. Všade, kde sa vyskytuje možnosť ľudskej chyby, musí byť schopná zasiahnuť technika. Spomínam si na "páku mŕtveho muža", ktorá automaticky spustila brzdy, ak bola minútu uvoľnená. Ak vlak prejde na červený signál zastavenia, tiež sa automaticky spustia brzdy. Musíme mať takéto systémy. Musí sa zaviesť európsky systém riadenia vlakov, aby sme mohli takéto veci ovplyvniť zvonku.
+<P>
+Členovia Výboru pre dopravu a cestovný ruch budú musieť spoločne pracovať, aby vykonali potrebné hodnotenia a tiež aby vyvodili náležité závery o bezpečnostných predpisoch.
+<SPEAKER ID="075" NAME="Marc Tarabella" AFFILIATION="S&amp;D">
+(FR) Vážený pán predsedajúci, vlakové nešťastie v Buizingene blízko Bruselu si vyžiadalo 18 obetí a viac ako 160 zranených. V myšlienkach sme teraz, samozrejme, predovšetkým s rodinami a priateľmi obetí. Príčiny nehody sú stále neznáme - vyšetrovanie stále prebieha - a musíme porozmýšľať o vykonaní posúdenia bezpečnosti železničnej dopravy v Európe postupne vo všetkých členských štátoch.
+<P>
+Toto posúdenie sa, prirodzene, musí zamerať na bezpečnostné systémy, stav ich využívania, ich interoperabilitu a účinnosť. Toto posúdenie úrovne bezpečnosti európskych železničných sietí sa však musí chápať v širšom zmysle a najmä musí zahŕňať posúdenie pracovných podmienok pracovníkov železníc, pretože tí môžu bezpečnosť zaručiť najlepšie.
+<P>
+Preto vyzývam Komisiu, aby vykonala posúdenie bezpečnosti európskych železničných sietí pomocou globálneho prístupu, ktorého východiskom bude proces liberalizácie železníc. Jedna vec je jasná: nastal čas, aby sa vykonalo netabuizované posúdenie praktických výsledkov týchto politík zameraných na liberalizáciu a likvidáciu verejných služieb. Akú pridanú hodnotu priniesli? Komu priniesli osoh? Komu uškodili?
+<P>
+Cieľ je porovnať presadzovanie európskych bezpečnostných a signalizačných noriem od začiatku účinnosti liberalizácie odvetvia železničnej dopravy v jednotlivých členských štátoch s pracovnými podmienkami. Komisia musí preto úlohu verejných služieb posúdiť zo širšieho hľadiska. Parti Socialiste - strana, ktorej som členom - už dlho vyzýva na pozitívne opatrenie Európskej únie na ochranu a rozvoj verejných služieb. To je podstatou zavedenia rámcovej smernice o službách všeobecného záujmu. Táto smernica by verejným službám zaručila stabilný legislatívny rámec a primerané financovanie v súlade so zásadami všeobecnosti a rovnakého prístupu.
+<SPEAKER ID="077" NAME="Derk Jan Eppink" AFFILIATION="ECR">
+(NL) Chcel by som položiť otázku pánovi Tarabellovi, ktorého si inak veľmi vážim. Určite nemôže ignorovať skutočnosť, že belgické železnice (SNCB) dostávajú najvyššiu podporu v Európe. Nemôže viniť liberalizáciu, pretože osobná doprava nebola liberalizovaná, ani nemôže prísť so žiadnymi inými výhovorkami.
+<P>
+Taktiež by som mal zdôrazniť, že hovorí v mene belgickej frankofónnej Socialistickej strany (PS), ktorá vo veľkej miere cez odborové organizácie ovláda SNCB. Ak by spolitizovaný železničný systém železnice lepšie prevádzkoval, nestalo by sa to.
+<SPEAKER ID="078" NAME="Marc Tarabella" AFFILIATION="S&amp;D">
+(FR) Vážený pán predsedajúci, ako odpoveď na vystúpenie pána Eppinka by som chcel povedať, že toto nie je predvolebná kampaň. Stala sa nehoda, ktorá si vyžiadala obete - ďalšie nehody sa prihodili v minulosti - a je len prirodzené, že sa hľadajú jej príčiny. Vyšetrovania prebiehajú, musíme im umožniť prirodzený priebeh.
+<P>
+Je však jeden faktor, ktorý sa nikdy nesmie prehliadať, a to ľudský faktor. Pri každej liberalizácii - viem, že liberalizáciu podporujete, ja ju podporujem omnoho menej, najmä pokiaľ ide o verejné služby - sa prehliada ľudský faktor. Vyvíja sa strašný tlak na personál, ktorý pracuje hodiny bez prestania alebo prinajmenšom dlhšie časové obdobie bez oddychu. Strojvodca je zodpovedný za bezpečnosť cestujúcich. Preto si myslím, že je dôležité pýtať sa na pracovné podmienky a na všetky ich zmeny. Domnievam sa, že to je dôležitý bod.
+<SPEAKER ID="079" NAME="Joe Higgins" AFFILIATION="GUE/NGL">
+Vážený pán predsedajúci, desivá zrážka vlakov neďaleko Halle predstavovala pre obete, ich rodiny, kolegov a priateľov strašnú tragédiu. Dôležité je teraz poučiť sa z tejto tragédie, aby sa predišlo ďalším obetiam. V tejto súvislosti je veľmi dôležité, aby sme počúvali hlas pracovníkov železníc a venovali mu pozornosť, čím sa železničná doprava stane bezpečnejšia pre pracovníkov a tiež pre cestujúcich.
+<P>
+Je skutočne poburujúce počúvať, ako poslanec tohto Parlamentu, pravdepodobne britský konzervatívec, vo svojom vystúpení očierňuje a ohovára belgických pracovníkov železníc, hoci je úplne jasné, že politiky neoliberalizácie a deregulácie nesmierne poškodili náš železničný systém, ktorý je verejnou infraštruktúrou. Belgickí pracovníci železníc sú v skutočnosti veľmi frustrovaní. V čase po tejto tragédii to jasne ukázali spontánne štrajky týchto pracovníkov, ktorí na ňu takýmto spôsobom zareagovali. Toto je v Belgicku tretia vážna nehoda v priebehu deviatich mesiacov.
+<P>
+Po predchádzajúcej tragédii v Belgicku v roku 2001 sa sľubovali komplexné bezpečnostné opatrenia, ale nezrealizovali sa. Realita je taká, že pracovníci belgických železníc sú pod ustavičným tlakom, aby dlhšie pracovali, predlžuje sa im pracovný čas, majú menej prestávok, a to znamená menšiu bezpečnosť. Bezcharakterná politika Európskej komisie liberalizácie a privatizácie pravdaže ešte viac ohrozí bezpečnosť. Znamená to, že najdôležitejšie sú zisky veľkých dopravných spoločností. Je jasné, že najlepší spôsob, ako zaručiť bezpečnosť, je ponechať železničnú infraštruktúru vo verejnom vlastníctve s demokratickou kontrolou a potrebnými investíciami.
+<SPEAKER ID="080" NAME="Georges Bach" AFFILIATION="PPE">
+(DE) Vážený pán predsedajúci, aj ja by som chcel dotknutým rodinám vyjadriť sústrasť. Pre postihnutých - smútiace rodiny a vážne ranených - však bude slabou útechou, ak budeme naďalej zdôrazňovať, že železnice sú najbezpečnejšou formou dopravy a že počet nehôd je v porovnaní s cestnou dopravou veľmi nízky.
+<P>
+Samozrejme sa vynára otázka okolností. Ako je možné, že došlo k takejto katastrofe? Ako však už bolo povedané, touto otázkou sa musia zaoberať technickí odborníci a neskôr súdy. Otázka, ktorú musíme zodpovedať, je takáto: kde sa stala chyba v procese tvorby spoločného európskeho trhu železničnej dopravy? Po druhé, ako môžeme využitím všetkých dostupných prostriedkov zabrániť ďalším nehodám? Každá nehoda je zbytočná.
+<P>
+Ako bývalý zamestnanec železníc som zažil podobné zmeny. Chcel by som spomenúť niektoré z problémov, ktoré majú do určitej miery vplyv na bezpečnosť. Na začiatku deväťdesiatych rokov minulého storočia sme namiesto zavedenia hospodárskej súťaže v železničnom odvetví mali najprv začať proces technickej harmonizácie. V deväťdesiatych rokoch sme mali prekonať všetky problémy, ktoré pán Kallas spomenul. Trh sme hospodárskej súťaži mali otvoriť až na základe technickej harmonizácie. Fragmentácia spoločností viedla k tomu, že v železničnom systéme je teraz mnoho aktérov, a toto je systém, ktorý funguje správne len vtedy, ak sa prevádzkuje ako jeden celok. Preto, podľa mňa, členské štáty, železničné spoločnosti, prevádzkovatelia infraštruktúry a tiež Komisia, ktorá, ako už bolo povedané, zaviedla smernice a nariadenia bez vykonania predbežného hodnotenia, nesú časť zodpovednosti za posledné nehody. Hodnotenie bolo dokončené len nedávno. Železničné spoločnosti urobili chybu, že si vybrali nesprávnu stratégiu a príliš dlho čakali na európsky systém. Ako už bolo spomenuté, neustále sa snažili o zníženie nákladov, zamestnávali pracovníkov bez potrebnej úrovne kvalifikácie a robili tiež príliš málo investícií.
+<P>
+Chcel by som zdôrazniť tri body. Musí sa okamžite zvýšiť financovanie, aby sa urýchlil plánovaný program modernizácie.
+<P>
+(Predsedajúci prerušil rečníka.)
+<SPEAKER ID="081" NAME="Silvia-Adriana Ţicău" AFFILIATION="S&amp;D">
+(RO) Celkovo je železničná doprava bezpečnejšia, rýchlejšia a spôsobuje menej znečistenia ako cestná doprava. Avšak v roku 2007 zomrelo približne 2 600 ľudí v dôsledku železničných nehôd a minulý rok sa stalo ešte viac nehôd vlakov prepravujúcich ľudí a tovar.
+<P>
+Nedávna železničná nehoda v Belgicku, pri ktorej zomrelo 20 ľudí a viac ako 120 bolo zranených, strašným spôsobom upriamila našu pozornosť na dôležitosť bezpečnosti železničnej dopravy. Bohužiaľ, hospodárska a finančná kríza prehĺbila ťažkosti prevádzkovateľov a správcov pôsobiacich v oblasti infraštruktúry železničnej dopravy. Hlavnou obavou je, že nedostatok odborného personálu a finančných prostriedkov na zavedenie systému ERTMS je jednou z možných príčin nehody, pričom tisíce pracovníkov železníc prichádzajú o prácu. Vyzývam členské štáty a Komisiu, aby prijali potrebné opatrenia s cieľom:
+<P>
+1. modernizovať železničnú infraštruktúru a existujúci vozový park, aby sa zabezpečila efektívna a bezpečná železničná doprava,
+<P>
+2. dať prioritu investíciám potrebným pre bezpečnosť a zabezpečenie železničnej dopravy a
+<P>
+3. vyvinúť nové infraštruktúry železničnej dopravy a zaviesť systém ERTMS.
+<SPEAKER ID="082" NAME="Antonio Cancian" AFFILIATION="PPE">
+(IT) Vážený pán predsedajúci, dámy a páni, nedávne železničné nešťastia, ktoré otriasli Európou - dnes v Belgicku, včera v Taliansku -, nás nútia premýšľať nad nedostatkami systému a nad opatreniami vhodnými pre skvalitnenie služieb z bezpečnostného hľadiska.
+<P>
+Napríklad ma privádza do úžasu, keď si pomyslím na to, že Európska únia zaviedla vhodný systém na sledovanie železničnej dopravy - ERTMS - už v roku 2000 a napriek tomu o 10 rokov neskôr tento systém zaviedlo len zopár členských štátov.
+<P>
+Dokonca aj dnes existuje na území EÚ viac ako 20 rôznych bezpečnostných železničných systémov a je jasné, ako táto skutočnosť môže spôsobovať problémy najmä na medzinárodných linkách.
+<P>
+Je pravda, že prispôsobenie železničnej infraštruktúry a vozového parku európskemu systému so sebou prináša technické a hospodárske hodnotenia a úlohy, ktoré budú musieť spoločnosti v tomto odvetví nevyhnutne zvládnuť. Nemôžeme si však nevšimnúť, že európske právne predpisy nestanovujú dátum, kedy musia byť vnútroštátne linky prispôsobené systému ERTMS, a to členským štátom poskytuje možnosť určiť potreby týkajúce sa vybavenia ich vozového parku.
+<P>
+Bolo by lepšie určiť presné dátumy, motivovať prostredníctvom investícií alebo ešte lepšie odobrať investičné prostriedky tým, ktorí sa neprispôsobili infraštruktúrnym projektom alebo ktorí kúpili dopravné prostriedky, ktoré tento systém nepoužívajú.
+<P>
+Druhý argument je, že interoperabilita a dokončenie vnútorného trhu by sa nemali spomaliť. Dnes máme nezávislý vnútroštátny orgán pre bezpečnosť, ktorý by mal kontrolovať zavádzanie primeraných bezpečnostných systémov. Malo by sa stanoviť, že pred udelením prevádzkových licencií musia mať spoločnosti bezpečnostné certifikáty.
+<P>
+Ďalej by som chcel zdôrazniť, že vzhľadom na vyhliadku voľného spoločného trhu železničnej dopravy sa musia na centrálnej úrovni posilniť inšpekčné právomoci Európskej železničnej agentúry.
+<SPEAKER ID="083" NAME="Debora Serracchiani" AFFILIATION="S&amp;D">
+(IT) Vážený pán predsedajúci, dámy a páni, po nedávnej železničnej nehode v Bruseli, ktorú spomínali mnohí poslanci, sa záujem opäť upriamil na bezpečnosť železníc.
+<P>
+Smernica 2004/49/ES o bezpečnosti železníc v podstate stanovuje, že železničné podniky a správcovia infraštruktúry by každý za svoju časť mali niesť plnú zodpovednosť za bezpečnosť systému.
+<P>
+V konkrétnom prípade nehody v Belgicku bolo príčinou pravdepodobne ľudské zlyhanie. Musíme, samozrejme, počkať na vyšetrovania. Zdá sa však, že vlak nebol vybavený automatickým systémom brzdenia.
+<P>
+Vie Komisia, ktoré siete a ktoré vlaky v členských štátoch nie sú vybavené týmto bezpečnostným zariadením? Navyše, plánuje vypracovať legislatívny návrh na zabezpečenie toho, aby bola celá sieť Európskej únie vybavená týmto systémom?
+<SPEAKER ID="084" NAME="Sławomir Witold Nitras" AFFILIATION="PPE">
+(PL) Vážený pán predsedajúci, v prvom rade by som chcel vyjadriť sústrasť rodinám obetí. Rád by som hovoril o niečom, čo je pre mňa veľmi dôležité a čo tu ešte neodznelo. Prebieha tu dnes rozprava, ktorá je opodstatnená z mnohých hľadísk. Ja mám tiež veľmi jasné názory na túto záležitosť. Myslím si, že deregulovaný trh je výrazne lepší ako trh, ktorému dominujú štátom vlastnené firmy, ale chcel by som hovoriť o niečom, čo je v kontexte tejto diskusie dôležité.
+<P>
+Táto polemika nie je len o tom, či je spoločnosť štátna alebo súkromná, ide tiež o to, či je trh voľný alebo obmedzený, regulovaný, čo v skutočnosti často znamená, že v mnohých členských štátoch vládne monopol jednej štátnej spoločnosti. Existuje mnoho železničných systémov. Nielenže sú rozdielne v každom členskom štáte, ale v mnohých prípadoch sa v jednom členskom štáte používajú rozdielne systémy a zariadenia. Systémy, o ktorých hovoríme, sú často protekcionistickou administratívnou prekážkou, ktorá bola zavedená s cieľom ochrániť monopolnú spoločnosť na vnútroštátnom trhu. V mnohých prípadoch nie sú povolené niektoré zariadenia a lokomotívy jednoducho preto, aby sa obmedzila možnosť zahraničného alebo súkromného konkurenta vstúpiť na trh. Dôsledkom toho je zavedenie mnohých rozdielnych systémov a problémy s bezpečnosťou.
+<P>
+Ak by ste sa pozreli na pridelenie štrukturálnych fondov pre infraštruktúrne projekty v nových členských štátoch, uvideli by ste, že v týchto krajinách nie sú na infraštruktúru železníc prakticky žiadne peniaze. Správcov, ktorí by mali vypĺňať žiadosti a uchádzať sa o peniaze, to vôbec nezaujíma. Zaoberáme sa modelom, v rámci ktorého mnoho členských štátov nechce na svojich železniciach nič meniť, preto nebude zahraničný konkurent alebo napríklad súkromný trh v dobrej situácii. Dopláca na to bezpečnosť a konkurencieschopnosť.
+<SPEAKER ID="085" NAME="Ivo Belet" AFFILIATION="PPE">
+(NL) Tragická nehoda v Buizingene nás všetkých - aj Európu - zaväzuje k tomu, aby sme začali vyšetrovanie. Táto tragédia si vyžiadala životy 18 ľudí a týmto obetiam sme dlžní rýchlo sa poučiť z nešťastia a zabezpečiť, aby bola na belgických a európskych železničných linkách zaručená bezpečnosť.
+<P>
+Ako vieme a ako ste už povedali, nie je chybou Európy, že v Belgicku nebol plne zavedený systém automatického brzdenia. Neznamená to však, že sa od Európy nevyžaduje konanie, naopak. Vyzývame výslovne Európsku komisiu, aby tiež vykonala hodnotenie, ktoré musí poskytnúť odpovede na niekoľko veľmi konkrétnych otázok. Napríklad, ako viete, železničným spoločnostiam - vrátane súkromných firiem - sme uložili povinnosť do roku 2013 svoje vlaky plne vybaviť novým európskym systémom riadenia vlakov (ETCS), ale už teraz vieme, že európske železničné linky nebudú týmto systémom dovtedy vybavené.
+<P>
+Chcel by som uviesť dva údaje. Pán komisár, momentálne je v celej Európe len 2 800 kilometrov železníc vybavených týmto novým európskym bezpečnostným systémom. Len belgická železničná sieť s 3 400 kilometrami je dlhšia. Z toho je jasné, že v Európe nie sme na to pripravení, a preto nebudú naše vlaky vôbec alebo dostatočne schopné komunikovať s týmito novými signalizačnými zariadeniami. Vyžaduje si to dôkladné hodnotenie.
+<P>
+Pán komisár, musíme sa odvážiť preskúmať, či blížiaca sa hospodárska súťaž medzi železničnými spoločnosťami azda nezvýšila tlak na personál. Možno by sme mali na európskej úrovni zvážiť zavedenie času jazdy a doby odpočinku, ako sme urobili v prípade vodičov nákladných vozidiel. Skrátka, táto nehoda ukladá Európskej únii povinnosť urobiť sebaanalýzu a vykonať hodnotenie. Na prípadné úpravy potrebujeme tiež ochotu a politickú vôľu.
+<SPEAKER ID="086" NAME="Michael Cramer" AFFILIATION="Verts/ALE">
+(DE) Vážený pán predsedajúci, pán komisár, účastníkmi tejto strašnej nehody boli dve lokomotívy prevádzkované SNCB, Národnou spoločnosťou belgických železníc, na štátnej železničnej sieti. Na trhu osobnej železničnej dopravy v Belgicku nie je žiadna súťaž. Preto táto udalosť nemá nič spoločné so súťažou alebo s otvorením siete. Všetko je to o nedostatočnej úrovni bezpečnosti. Pán Grosch už zdôraznil, že technológia automatického zastavenia vlaku, ktorý prejde na červený signál, existuje viac ako 20 rokov. Otázka znie: prečo nebola nainštalovaná?
+<P>
+Ani to nemá nič spoločné s európskym systémom riadenia železničnej dopravy (ERTMS). Bol som spravodajcom pre systém ERTMS. Predstavuje víziu budúcnosti, ale neoslobodzuje členské štáty od povinnosti zaviesť bezpečnostné opatrenia, ktoré sú už dostupné na vnútroštátnej úrovni. To je úlohou jednotlivých krajín.
+<P>
+Preto otázka, ktorú sa musíme opýtať, znie, prečo Belgicko počas posledných 20 rokov neinvestovalo do tohto bezpečnostného systému. Ak by postavilo diaľnicu, ktorá by bola kratšia o jeden alebo dva kilometre, malo by dva alebo trikrát toľko peňazí, koľko je potrebných na inštaláciu týchto bezpečnostných systémov a na zabránenie podobným nehodám. Nie je to prvýkrát, čo vlak prešiel na červenú. Bolo to len prvýkrát, čo to viedlo k takejto strašnej nehode.
+<SPEAKER ID="087" NAME="Siim Kallas">
+podpredseda Komisie. - Vážený pán predsedajúci, táto diskusia, ktorú teraz spustila tragická nehoda v Belgicku, bude, samozrejme, súčasťou našej celkovej diskusie o bezpečnosti železníc a o vývoji dopravy v Európe. Komisia pripravuje bielu knihu o budúcnosti dopravy, ktorá skutočne berie do úvahy všetky druhy dopravy vrátane železničnej - ktorá je, ako už bolo mnohokrát spomenuté, stále jedným z najbezpečnejších druhov dopravy.
+<P>
+Je tiež dôležité, aby sme teraz diskutovali o balíku opatrení v železničnej doprave - o prvom "prepracovanom znení" balíka opatrení v železničnej doprave - a určite budeme na ňom pracovať a premýšľať o ňom.
+<P>
+Mám však niekoľko faktických poznámok. Európsky systém riadenia železničnej dopravy (ERTMS) bol navrhnutý s cieľom zabezpečiť interoperabilitu železníc. Je to evidentne dobrý systém, ktorý obsahuje dôležité bezpečnostné prvky. Bezpečnosť však stále zostáva zodpovednosťou členských štátov bez ohľadu na použitý systém. ERTMS však napreduje veľmi dobre.
+<P>
+Dopravné siete TEN-T: čoskoro budeme o tom opäť diskutovať. Tento konkrétny projekt sa zaoberá nasadením systému riadenia dopravy. Do roku 2020 bude 20 000 kilometrov železníc v Európe vrátane Belgicka používať tento systém.
+<P>
+Vyvíja sa to, ale v oblasti železničnej dopravy veci trvajú dlho a investície sú veľké. 85 % finančných prostriedkov pre siete TEN-T sa využíva najmä na zlepšenie železníc vrátane systému ERTMS. Bol by som, samozrejme, veľmi rád, ak by sme s podporou Európskeho parlamentu mohli zvýšiť financovanie investícií do dopravných sietí. Bude to veľmi dôležité.
+<P>
+Avšak opäť zopakujem, že ľudský faktor je, samozrejme, vždy dôležitý. A keď hovoríme o bezpečnostných normách, existuje jedna norma - a to červené svetlo -, ktorá znamená, že musíte zastaviť. Táto norma existuje od 19. storočia. Takže ak teraz hovoríme, že budeme mať stopercentný systém brzdenia, ktorý zabráni ľudským chybám - nie je to pravda. Vždy existuje malá možnosť ľudskej chyby. Ľudská zodpovednosť je veľmi dôležitá.
+<P>
+Chcel by som uviesť ešte jednu poznámku o liberalizácii a verejných službách: sú to dve rozdielne veci. Ani v rámci liberalizácie nikto nezabráni štátom, aby ponúkali verejné služby. Európske pravidlá povoľujú poskytovať podporu - povoľujú to štáty - a táto liberalizácia sa týka aj dobrých verejných služieb.
+<SPEAKER ID="088" NAME="Predsedajúci">
+Rozprava sa skončila.
+<P>
+Písomné vyhlásenia (článok 149)
+<SPEAKER ID="089" NAME="Herbert Dorfmann  " AFFILIATION="PPE">
+písomne. - (DE) Tragická vlaková nehoda v Belgicku obrátila pozornosť verejnosti na bezpečnosť železníc. Bezpečnosť vozového parku sa musí zlepšiť, takisto ako aj bezpečnosť signalizačných systémov. Najmä na európskych železniciach jazdí mnoho úplne zastaraných nákladných vagónov. Minuloročná nehoda v Taliansku názorne ukázala možné dôsledky tejto skutočnosti. Bohužiaľ, EÚ doteraz urobila veľmi málo, aby prevádzkovateľov nákladnej dopravy zaviazala modernizovať ich vozový park na prijateľnú bezpečnostnú úroveň. Je dôležité, aby sme nezabudli, že na železniciach sa prepravuje aj nebezpečný tovar, čo by v prípade nehody mohlo mať ničivé dôsledky. Na základe toho požadujem v oblasti železničnej dopravy vyššie bezpečnostné normy.
+<SPEAKER ID="090" NAME="Bruno Gollnisch  " LANGUAGE="FR">
+Tragédia, ktorá Belgicko uvrhla do súčasného stavu smútku, sa nepochybne stala z dôvodov, ktoré súvisia so špecifickými charakteristikami tejto krajiny, ako už dnes zdôraznilo mnoho flámskych kolegov. Vyšetrovanie musí zistiť mieru, do akej boli tieto charakteristiky za tragédiu zodpovedné.
+<P>
+Táto tragédia však mala jednu osobitnú, hlavnú príčinu: liberalizáciu železničnej dopravy a oddelenie správy sietí od správy samotnej železničnej dopravy. Sieť, jej kvalita a bezpečnosť sa tak obetovali pre zisk prevádzkovateľov dopravy, ktorí uvalené poplatky považujú za príliš vysoké, a pre zisk obetovali aj výmenu a modernizáciu vlakov. Harmonogramy a frekvencia služieb sa dnes riadia logikou tvorby zisku a už nie potrebami spotrebiteľov. Niektoré linky vyradia, pretože neprinášajú dostatočný zisk, hoci sa pravidelne používajú. Iné zas naďalej fungujú, hoci zdravý rozum hovorí, že by nemali. Meškania sú normálne dokonca aj v prípade služieb TGV.
+<P>
+Vo vašom liberálnom systéme sa občania, ktorí jazdia vlakom, nestali cennými zákazníkmi; stále sú to daňoví poplatníci, ku ktorým sa možno správať ako k dobytku. Ako je to v prípade všetkých činností, ktoré ste liberalizovali, dnes platíme stále viac za službu, ktorá sa stáva stále horšou, ak nie, bohužiaľ, nebezpečnejšou.
+<SPEAKER ID="091" NAME="Marian-Jean Marinescu  " LANGUAGE="RO">
+V súvislosti s tragickou nehodou v Bruseli opäť čelíme problému, že členské štáty ešte úplne nezosúladili svoje bezpečnostné železničné systémy, hoci smernica 2004/49/ES jasne stanovuje spoločné normy pre bezpečnostné ukazovatele a celkovo plne spĺňa bezpečnostné požiadavky aj v oblasti správy infraštruktúry a riadenia dopravy. V skutočnosti je hlavný problém čisto finančnou záležitosťou: životnosť železničnej infraštruktúry a vozového parku vrátane signalizačných systémov je mimoriadne dlhá. Za týchto okolností je potrebné, aby členské štáty napriek kríze brali do úvahy nielen finančnú otázku, ale zvážili aj rýchlejšie zavedenie interoperabilných systémov a investovali viac do železničnej infraštruktúry a signalizačných systémov pre infraštruktúru a vozový park.
+<P>
+Úspory dosiahnuté vďaka oddialeniu renovácie a modernizácie vozového parku a železničnej infraštruktúry môžu ako v tomto prípade, bohužiaľ, viesť k tragickým nehodám, ktoré spôsobili nielen hospodárske a finančné straty, ale aj straty na ľudských životoch, čo je neprijateľné. V týchto ťažkých časoch by som chcel postihnutým rodinám vyjadriť úprimnú sústrasť a dúfam, že takáto tragédia sa už nikdy nestane.
+<P>
+(Rokovanie bolo prerušené o 11.25 hod. a pokračovalo o 11.30 hod.)

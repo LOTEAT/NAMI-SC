@@ -1,0 +1,26 @@
+<CHAPTER ID="004-03">
+3. - (
+<P>
+- Ennen äänestystä:
+<SPEAKER ID="105" NAME="Francesco Enrico Speroni" AFFILIATION="UEN">
+(IT) Arvoisa puhemies, hyvät parlamentin jäsenet, haluan käyttää työjärjestyspuheenvuoron. En halua puuttua menettelyyn, mutta haluaisin tietää, onko olemassa jokin sääntö, jonka mukaan teidän on mainittava joka kerta paitsi äänestystulos myös äänestäneiden, tyhjää äänestäneiden ja muiden määrä, vai onko tämä oma valintanne.
+<SPEAKER ID="106" NAME="Puhemies">
+Ellette halua minun ilmoittavan näitä asioita teille, jätän ne ilmoittamatta, mutta asia on varmastikin hyvä tehdä selväksi.
+<P>
+- Kohdasta 60 toimitetun äänestyksen jälkeen:
+<SPEAKER ID="107" NAME="Thomas Wise" AFFILIATION="IND/DEM">
+(EN) Arvoisa puhemies, voisitteko ainakin näyttää tulokset näytöillä edessämme, ellette aio ilmoittaa niitä ääneen?
+<SPEAKER ID="108" NAME="Puhemies">
+Näette tuloksen kohottamalla katseenne.
+<P>
+- Äänestyksen jälkeen:
+<SPEAKER ID="109" NAME="Robert Evans" AFFILIATION="PSE">
+(EN) Arvoisa puhemies, olen saanut yksiköiltä sellaisen tiedon, että jokainen ylimääräinen nimenhuutoäänestys maksaa 400 euroa, joten eilinen hurjastelumme maksoi ylimääräiset 25 000 euroa.
+<P>
+Siispä kehottaisin kaikkia nimenhuutoäänestyksiä pyytäneitä miettimään, onko niiden järjestäminen heidän mielestään hyvä tapa käyttää veronmaksajien rahoja.
+<SPEAKER ID="110" NAME="Daniel Hannan" AFFILIATION="PPE-DE">
+(EN) Arvoisa puhemies, jos jokaisesta nimenhuutoäänestyksestä aiheutuu todella 400 euron kustannukset, kehotan Euroopan parlamenttia edellyttämään omalta toiminnaltaan samanlaista tehokkuutta kuin se edellyttää yhteiseltä maatalouspolitiikalta, rakennetuelta, kansainväliseltä kehitysyhteistyöltä ja EU:n muulta talousarviolta. Voimme varmasti tehdä saman edullisemminkin!
+<SPEAKER ID="111" NAME="Kathy Sinnott" AFFILIATION="IND/DEM">
+(EN) Arvoisa puhemies, esitän käytännöllisen ehdotuksen. Äänestysten kääntäminen aiheuttaa kuluja. Kyse on kuitenkin vain numeroista, joten tarvitsemme niistä vain yhden version. Numeroita ei tarvitse kääntää kaikille kielille, ja nimetkin ovat samat kaikilla kielillä. Voimme siis leikata kuluja tässä asiassa. Tuotamme parlamentissa valtavan määrän paperia. Kansalaisille on tärkeintä tietää, kuinka me äänestämme.
+<P>
+(Suosionosoituksia)

@@ -1,0 +1,6 @@
+<CHAPTER ID="006">
+Hääletused
+<SPEAKER ID="081" NAME="Juhataja">
+Järgmine päevakorrapunkt on hääletus.
+<P>
+(Hääletuse tulemused ja teised üksikasjad: vt protokoll)

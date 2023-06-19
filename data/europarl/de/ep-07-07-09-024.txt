@@ -1,0 +1,4 @@
+<CHAPTER ID="024">
+Schluss der Sitzung
+<SPEAKER ID="219" NAME="Der Präsident">
+Die Sitzung wird um 23.45 Uhr geschlossen.

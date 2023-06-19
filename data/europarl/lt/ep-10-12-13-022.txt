@@ -1,0 +1,68 @@
+<CHAPTER ID="022">
+Prekybos finansinėmis priemonėmis reguliavimas: neviešos anoniminės prekybos vietos (angl. dark pools) ir kt. (trumpas pristatymas) 
+<SPEAKER ID="235" NAME="Pirmininkas">
+Kitas klausimas - Kay Swinburne pranešimas Ekonomikos ir pinigų politikos komiteto vardu dėl prekybos finansinėmis priemonėmis reguliavimo: neviešos anoniminės prekybos vietos (angl. dark pools) ir kt. (2010/2075 (INI)).
+<SPEAKER ID="236" NAME="Kay Swinburne">
+pranešėja. - Pone pirmininke, man sunku paaiškinti nariams, kurie nėra susipažinę su finansiniu žargonu, apie ką konkrečiai kalbama mano pranešime dėl neviešų anoniminių prekybos vietų. Pranešime oficialiai kalbama apie prekybą finansinėmis priemonėmis, įskaitant neviešas anonimines prekybos vietas - finansinius sandorius ir akcijas, kuriems netaikomi skaidrumo reikalavimai prieš sudarant sandorį, kitaip vadinamus neatskleista prekyba. Apskritai, šis pranešimas - 2007 m. Direktyvos dėl finansinių priemonių rinkų (MiFID) įgyvendinimo vertinimas akcijų atžvilgiu, ir juo siekiama spręsti struktūrines problemas, su kuriomis šiuo metu susiduriama akcijų rinkose.
+<P>
+Nepaisant to, kad šis pranešimas itin techniškas, man paskatą suteikia aukštas komitete vykusių diskusijų lygis. Džiaugiuosi, kad dėl sunkaus mano kolegų darbo pavyko užtikrinti didelę frakcijų paramą, 194 pakeitimus paverčiant 26 kompromisais, kuriuos pasirašdidžioji dauguma frakcijų.
+<P>
+Atsižvelgiant į šio savo iniciatyva pateikto pranešimo laiką ir į jo aukščiausią tašką, kuris bus pasiektas šią savaitę vyksiančiame plenariniame balsavime, manau, kad Europos Parlamentas reikšmingai prisidėjo prie neseniai Komisijos paskelbtų konsultacijų dėl MiFID II peržiūros (MiFID II), kuriose atsižvelgiama į daugelį klausimų, iškeltų komiteto svarstymuose. Dėl šio pranešimo Europos Parlamentas paprašatlikti kelis skirtingų prekybos vietų, kurios šiuo metu reguliuojamos MiFID, tyrimus, ir reikalauja išsamesnės analizės siekiant užtikrinti, kad vienodas paslaugas teikiančios prekybos vietos būtų reguliuojamos vienodai.
+<P>
+Manau, kad Komisija savo konsultacijų dokumente padarpažangą išplėsdama savo organizuotų prekybos sistemų apibrėžtį ir įtraukdama į ją visas prekybos vietas, kuriose susitinka pirkėjai ir pardavėjai. Tai reiškia, kad galėjo būti panaikinta labai svarbi spraga. Vis dėlto šiuo sprendimu užtikrinama, kad proporcingumas gali būti išlaikytas užtikrinant svarbų reguliuojamų rinkų, daugiašalės prekybos sistemų, finansinių tarpininkų, brokerių kryžminės prekybos tinklų ir išvestinių finansinių priemonių platformų kategorijų diferencijavimą.
+<P>
+Naują neviešų anoniminių prekybos vietų naudotojams siūlomą tikrinimo lygį turėtų palankiai įvertinti investuotojai, kurie šiuo metu suteikia platesnės rinkos apsaugą, nors turi galimybių ir piktnaudžiauti. Suteikus priežiūros institucijoms visapusišką galimybę naudotis verslo modeliais, turėtų būti užtikrinta, kad šie modeliai ir toliau galėtų išlikti prekybos vietomis, kuriose priimami klientų užsakymai, užkertant kelią jiems pasiekti tokį lygį, kad būtų daroma įtaka kainoms ar dangstomas piktnaudžiavimas rinka.
+<P>
+Be to, dėl MiFID išimčių, Europos Parlamentas ir Komisija sutinka, kad jas reikia apibrėžti iš naujo, o jų įgyvendinimas turi būti standartizuotas visoje ES. Turėtų nelikti šiuo metu suteikiamos galimybės sudaryti arbitražinius sandorius visose ES valstybėse narėse siekiant surasti geriausią tos pačios taisyklės aiškinimo variantą. Rengiant šį pranešimą ir jo pakeitimus paaiškėjo, kad didžiausias MiFID įgyvendinimo trūkumas - Europos informacijos apie sandorius konsolidavimo sistemos rinkos versijos nebuvimas. Investuotojai iš Jungtinių Amerikos Valstijų nesupranta, kaip ES išsiverčiame be tokios priemonės. Pramonės sektoriaus atstovai, visų pirma investuotojų grupės, visuotinai pripažino, kad tokios priemonės reikia, tačiau per trejus metus nuo MiFID įgyvendinimo rinkos dalyviai nesugebėjo susiburti ir sukurti Europos informacijos apie sandorius konsolidavimo sistemos. Kaip ir Komisija, Ekonomikos ir pinigų politikos komitetas nesiryžta peržengti įgaliojimų dėl patvirtintos skelbimo tvarkos, tačiau jeigu nebus surastas rinkos sprendimas, tuomet reikėtų pritarti teisėkūros procedūrai.
+<P>
+Per karštas komiteto diskusijas svarstyti mikrostruktūriniai klausimai, šiuo metu darantys poveikį akcijų rinkai. Pasiektas susitarimas, kad tokia praktika kaip žaibiški pavedimai, apsimetinėjimas kitais asmenimis, testavimas taikant metodą "užklausa-atsakymas" yra nesąžiningi ar net piktnaudžiavimo veiksmai. Tačiau komitetui buvo kur kas sunkiau pasiekti susitarimą dėl tam tikrų rinkos dalyvių vaidmens, visų pirma dėl to, ar sparčiosios prekybos strategijos teikia naudą ar ne. Nesant aiškių duomenų, sunku padaryti kokias nors patikimas išvadas dėl jų vaidmens - teigiamo ar neigiamo - todėl prieš siūlydami teisėkūros veiksmus turime įsitikinti, ar esama reikiamų duomenų, kad nepriimtume tokio teisės akto, kuriuo galėtume pakenkti veiksmingam Europos rinkų veikimui.
+<P>
+Iš esmės privalome užtikrinti mūsų finansų rinkų integralumą. Jos skirtos ne tam, kad tarpininkai ar įsibrovėliai bendrautų vieni su kitais. Jos skirtos tam, kad rinkos vieta kapitalui nukreipti į įmones būtų užtikrinta investuotojams, taip pat mūsų realiame ekonomikos sektoriuje veikiančioms įmonėms ir bendrovėms. MiFID II teisėkūros procese visi privalome skirti didžiausią dėmesį šiai svarbiausiai rinkų funkcijai.
+<SPEAKER ID="237" NAME="Philippe Juvin" AFFILIATION="PPE">
+(FR) Pone pirmininke, ponios ir ponai, K. Swinburne, šis tekstas, be abejonės, itin sudėtingas, tačiau, iš esmės, apie ką jame kalbama? Jame dar kartą kalbama apie tai, kad reikia pasimokyti iš krizės. Ne, negalime elgtis taip, kaip elgėmės anksčiau. Taip, privalome pakeisti žaidimo taisykles ir pertvarkyti sistemą.
+<P>
+Įvairiose Europos Sąjungos šalyse yra subjektų, kurie šiuo metu naudojasi krize ir žmonių susirūpinimu siekdami suversti visą kaltę Europai. Visur galima išgirsti žmones kalbant: "Europa kalta, kad reikalai nesiklosto taip, kaip turėtų klostytis, kad čia kaltas euras ir kad yra tik vienas sprendimas - privalome išeiti iš Europos Sąjungos, privalome panaikinti eurą..." Visiems taip teigiantiems žmonėms turime kartoti, kad taip, mums reikia bendrų taisyklių, turime ir toliau tvirtinti, kad jei Europos šalys nebūtų buvusios vieningos, jei jos būtų buvusios atskirtos, dabar jau būtų pražuvusios. Taip, reikia reguliuoti, reikia bendros politikos, bendrų taisyklių, reikia peržiūrėti mūsų taisykles ir reikia, kad sistema veiktų geriau.
+<P>
+Ponios ir ponai, galiausiai viskas gana paprasta: kartu esame stiprūs, o atskirai - pražūsime!
+<SPEAKER ID="238" NAME="Csanád Szegedi" AFFILIATION="NI">
+(HU) Pone pirmininke, norėčiau padėkoti už taip dosniai skirtą laiką. Nuo šiol ypatingą dėmesį skirsiu tiems posėdžiams, kuriems pirmininkausite jūs, ir pasistengsiu visuose juose dalyvauti. K. Swinburne pranešimas itin svarbus tuo, kad galiausiai svarstome prekybos finansinėmis priemonėmis reguliavimo klausimą. Pirma ir pati svarbiausia klaida, susijusi su šiuo pranešimu, yra ta, kad pranešimas ir raginimas imtis didesnio reguliavimo jau pavėluoti. Antra, jei reguliavimo sistema iki šiol nebuvo aiški, privalome išsamiai ir vertindami praeitį ištirti tai, kas įvyko. Manau, pagrindinių investicijų neįtraukimas į griežtesnės priežiūros taikymo sritį - beprasmiškas ir visiškai klaidingas žingsnis. Reikia išnagrinėti ne tik prekybos pobūdį, bet ir išleidžiamas išvestines finansines priemones, o naujoms emisijoms būtina taikyti griežtesnį reguliavimą.
+<P>
+Iš tikrųjų infliaciją skatina išvestiniai finansų rinkos produktai. Šią naštą neša gyventojai, o pelną susižeria įvairūs tarptautiniai juridiniai asmenys ir ne visada aiškiomis aplinkybėmis. Be to, būtų nepalanku tokiu būdu pasiglemžtą pelną nukreipti į realų ekonomikos sektorių, nes gali nutikti taip, kad visa planeta pamažu atsidurs turtingiausiųjų įtakoje.
+<SPEAKER ID="239" NAME="Elena Băsescu" AFFILIATION="PPE">
+(RO) Pone pirmininke, K. Swinburne pranešime didžiausias dėmesys skiriamas užtikrinimui, kad daugiašalėms prekybos sistemoms būtų sudarytos vienodos sąlygos. Manau, taip pat svarbu taikyti joms vienodą priežiūrą. Norėčiau pabrėžti, kad reikia tinkamesnio teisės akto, kuriuo būtų siekiama sumažinti sisteminę riziką ir užtikrinti sąžiningą konkurenciją rinkoje.
+<P>
+Šiuo metu susirūpinimą kelia informacijos apie prekybos metodus stoka. Vienintelis būdas iš tikrųjų suprasti, ar rinka veikia tinkamai - tai užtikrinti, kad reguliavimo institucijos gautų pakankamai informacijos. EVPRI turėtų parengti bendrus visiems duomenims taikytinus pranešimo ir apie organizuotas prekybos vietas, ir apie ne biržoje vykstančią prekybą standartus ir formatus.
+<P>
+Manau, būtų naudinga įvertinti poveikį, kurį turėtų minimalaus pavedimo sudaryti bet kokį neviešą anoniminį sandorį dydžio nustatymas. Todėl būtų galima nustatyti, ar išlaikomas pakankamas prekybos srautas.
+<SPEAKER ID="240" NAME="Johannes Hahn">
+Komisijos narys. - Pone pirmininke, Komisijos ir, visų pirma, Komisijos nario M. Barnierio vardu atsakysiu pabrėždamas, kad skaidrumo finansų rinkose didinimas ir užtikrinimas, jog visiems susijusiems rinkos veikėjams būtų taikomas tinkamas reguliavimas - pagrindiniai Komisijos ir Didžiojo dvidešimtuko tikslai.
+<P>
+Norėčiau pasveikinti Dr. K. Swinburne ir Ekonomikos ir pinigų politikos komitetą parengus pranešimą dėl prekybos finansinėmis priemonėmis reguliavimo, neviešų anoniminių prekybos vietų ir kt. Pranešimas byloja apie svarbią tebevykstančios Direktyvos dėl finansinių priemonių rinkų (MiFID) peržiūros pažangą. Į pranešime pateikiamas rekomendacijas Komisijos nuomonėje atidžiai atsižvelgiama, nes rengiame pasiūlymą iš dalies pakeisti galiojančią direktyvą 2011 m. MiFID peržiūra - labai svarbi Komisijos darbotvarkės dalis siekiant stabilesnės ir skaidresnės finansų sistemos, kuri veiktų visuomenės ir visos ekonomikos labui. Daugelis detalių, iš kurių ne mažiau svarbi nauja kitą mėnesį pradėsianti veikti ES priežiūros institucija, jau apsvarstyta.
+<P>
+Komisija įsipareigojusi iki 2011 m. vasaros pateikti pasiūlymus visose kitose srityse. Tikimės Europos Parlamento paramos skubiai patvirtinant reikalingas reformas ir tuo užtikrinant, kad jos būtų pradėtos įgyvendinti kuo greičiau.
+<P>
+Kaip žinoma, MiFID - kertinis ES finansų rinkų reguliavimo sistemos akmuo. Ji buvo priimta anksčiau nei prasidėjo finansų krizė, tačiau apskritai patirtis parodė, kad ji veikia gerai net ir tokiais sudėtingais neramiais laikais kaip pastarieji metai.
+<P>
+Be abejonės, paaiškėjo ir keli trūkumai. Dėl technologijų pažangos ir sparčių pokyčių finansų rinkose, kai kurios reguliavimo priemonės, kurios prieš keletą metų buvo pačios pažangiausios, šiuo metu yra akivaizdžiai pasenusios.
+<P>
+Gruodžio 8 d. Komisija paskelbpasiūlymų dėl konsultacijų projektą. Ketiname plačiais užmojais ir visapusiškai spręsti visas problemas. Nors pripažįstame, kad vis dar galioja pradiniai MiFID tikslai, aktualūs klausimai yra labai svarbūs aspektai, susiję su tuo, kaip veikia mūsų finansų rinkos, kiek atviros ir skaidrios jos turi būti ir kaip investuotojai galėtų pasinaudoti finansinėmis priemonėmis ir investavimo galimybėmis.
+<P>
+Kaip teigiama ir Ekonomikos ir pinigų politikos komiteto pranešime, suprantame, kad reikia pagerinti naujoviškų prekybos platformų ir prekybos metodų reguliavimą. Reguliuojant reikėtų tinkamai atsižvelgti į verslo pobūdį siekiant užtikrinti vienodas sąlygas visiems dalyviams ir tinkamai apsaugoti investuotojus, taip pat apsisaugoti nuo trikdančios rinkos praktikos.
+<P>
+Be to, sutinkame su tuo, kad reikia patobulinti skaidrumo taisykles, taikomas prekybai akcijomis, taip pat nustatyti naujus reikalavimus prekybai kitomis priemonėmis. Kitas svarbus klausimas, nagrinėjamas Dr. K. Swinburne pranešime, yra tas, kad reikia pagerinti prekių išvestinių finansinių priemonių rinkų veikimą ir reguliavimą remiantis G20 principais.
+<P>
+Taip pat siekiame tikslingai pagerinti galiojančias taisykles dėl investuotojų apsaugos. Atkuriant investuotojų pasitikėjimą itin svarbu užtikrinti, kad visiems produktams ir įvairiopai pardavimo praktikai būtų taikomos vienodos atitinkamos taisyklės.
+<P>
+Galiausiai, šia peržiūra bus sustiprinta finansų rinkų priežiūra ir vykdymas, pagrindinį vaidmenį skiriant naujajai Europos vertybinių popierių ir rinkų institucijai. Siekdamos pažangos, Komisijos tarnybos glaudžiai bendradarbiauja su mūsų tarptautiniais partneriais, visų pirma su atsakingomis reguliavimo institucijomis, nagrinėjančiomis tuos pačius klausimus Jungtinėse Amerikos Valstijose, kad būtų užtikrinta tarptautinkonvergencija ir išvengta bet kokios rizikos, susijusios su galimybėmis rinktis palankesnes reguliavimo sąlygas.
+<P>
+H. Swinburne pranešimas pateiktas vykstant svarbiam reguliavimo reformos procesui. Mus drąsina Europos Parlamento narių išreikštas įsipareigojimas ir tai, kad jūsų analizės ir rekomendacijos labai sutampa su mūsiškėmis. Šiuo pranešimu sustiprinamas mūsų laukiančio darbo pagrindas.
+<SPEAKER ID="241" NAME="Pirmininkas">
+Diskusijos baigtos.
+<P>
+Balsavimas vyks rytoj, 12.00 val.
+<P>
+Kitas posėdis vyks rytoj, 2010 m. gruodžio 14 d., ketvirtadienį, nuo 9.00 val. iki 13.00 val., nuo 15.00 val. iki 20.30 val. ir nuo 21.00 val. iki 24.00 val.
+<P>
+Darbotvarkbuvo paskelbta, ir su ja galima susipažinti Europos Parlamento interneto svetainėje.
+<P>
+Diskusijos baigtos.

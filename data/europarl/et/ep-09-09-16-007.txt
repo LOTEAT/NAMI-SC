@@ -1,0 +1,8 @@
+<CHAPTER ID="007">
+Hääletused
+<SPEAKER ID="094" NAME="President">
+Asume nüüd hääletamise juurde.
+<P>
+(Tulemuste ja hääletuse muude üksikasjadega tutvumiseks vt protokoll)
+<P>
+Täna seisab meil ees ebaharilikult tähtis, aga ka sümboolne hääletus. Kord viie aasta jooksul otsustab Euroopa Parlament, kes saab ühe teise ELi institutsiooni juhiks.

@@ -1,0 +1,4 @@
+<CHAPTER ID="006-07">
+7. Pilietinio dialogo plėtojimas pagal Lisabonos sutartį (
+<SPEAKER ID="061" NAME="Christopher Beazley" AFFILIATION="PPE-DE">
+Gerb. pirmininke, šiuo metu, regis, sulaukėme labai gausaus "sąrašinio" balsavimo. Tai šiek tiek trikdo tokius asmenis kaip aš, kurių balsavimo prietaisai neveikia. Ar aš galėčiau visiems punktams užregistruoti balsą "už" ir pakviesti technikos specialistą?

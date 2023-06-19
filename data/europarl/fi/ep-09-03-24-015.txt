@@ -1,0 +1,184 @@
+<CHAPTER ID="015">
+Yhteinen konsuliohjeisto: biometriset tunnisteet ja viisumihakemukset (keskustelu) 
+<SPEAKER ID="475" NAME="Puhemies">
+(FR) Esityslistalla on seuraavana kansalaisvapauksien sekä oikeus- ja sisäasioiden valiokunnan puolesta laadittu suositus toiseen käsittelyyn aiheesta Yhteinen konsuliohjeisto: biometriset tunnisteet ja viisumihakemukset (05329/1/2009 - C6-0088/2009 - Esittelijä: Sarah Ludford.
+<SPEAKER ID="476" NAME="Sarah Ludford">
+esittelijä. - (EN) Arvoisa puhemies, tämä komission ehdotus, jonka minä esittelen, on viisumitietojärjestelmän (VIS) neljäs osa, jota ovat edeltäneet VIS-asetus, päätös VIS-tietojen saatavuudesta ja VIS:n käyttö Schengenin rajasäännöstön mukaisesti.
+<P>
+Nykyisen yhteisen konsuliohjeiston muokkaaminen antoi mahdollisuuden säätää VIS-järjestelmään tallennettavien biometristen tunnisteiden toimitusvelvoitteen ja siihen liittyvät standardit. Lisäksi ehdotus sisältää viisumihakemusten vastaanottamisen järjestämistä koskevia säännöksiä.
+<P>
+Viisumisäännöt on tarkoitus uudistaa täydellisesti viisumisäännöstön tarkistuksen yhteydessä, jonka esittelee kollegani ALDE-ryhmästä, Henrik Lax. Kun tämä keskustelun aiheena oleva säännös hyväksytään, siitä tulee viisumisäännöstön olennainen osa. Ehdotukset erotettiin toisistaan, koska komissio oletti viisumisäännöstön hyväksymisen kestävän kauemmin kuin nykyisen ehdotuksen hyväksyminen eikä se halunnut viisumisäännöstön hyväksymisen viivyttävän VIS-järjestelmän käynnistämistä.
+<P>
+Olen ymmärtänyt, että VIS:n keskusjärjestelmä valmistuu tämän vuoden joulukuuhun mennessä ja että sitä voidaan alkaa käyttää ensimmäisellä alueella, Pohjois-Afrikassa, vuoden 2010 alussa. Olen neuvotellut neuvoston kanssa jo melko kauan. Kansalaisvapauksien sekä oikeus- ja sisäasioiden valiokunta hyväksyi mietintöni marraskuussa 2007. Me emme kuitenkaan valitettavasti päässeet sopimukseen ensimmäisessä käsittelyssä, joten pyysin heinäkuussa 2008 parlamenttia kannattamaan mietintöni hyväksymistä. Ranskan puheenjohtajakaudella edistyimme kuitenkin riittävästi, jotta voin ehdottaa sopimuksen hyväksymistä toisessa käsittelyssä.
+<P>
+Meillä oli neljä keskeneräistä aihetta: sormenjälkien ottamista koskeva ikäraja, jäsenvaltioiden kannustaminen yhteistyöhön ja ulkoisten palveluntarjoajien kanssa solmittavien sopimusten salliminen viimeisenä vaihtoehtona, tietojen suojaus ja turvallisuus sekä ulkoisten palveluntarjoajien palvelumaksu.
+<P>
+Komissio ehdotti, että sormenjäljet otetaan kaikilta yli kuusivuotiailta. Pienten lasten sormenjäljet muuttuvat itse asiassa nopeasti. Sen vuoksi en ole vakuuttunut siitä, että meillä olisi riittävästi tietoa, miten luotettavia lapsilta otetut sormenjäljet ovat vuosien päästä. Monista pyynnöistä huolimatta en koskaan saanut luotettavia todisteita siitä, että 6-12-vuotiailta otettujen sormenjälkien perusteella voitaisiin vuosia myöhemmin varmistaa henkilöllisyys ilman virheiden mahdollisuutta.
+<P>
+Neuvosto ehdotti jossakin vaiheessa, että pieniltä lapsilta otettaisiin sormenjäljet kahden vuoden välein, kun taas aikuisilta ne otetaan viiden vuoden välein. Tämä olisi kuitenkin äärimmäisen hankalaa perheille. Vaadin harkitun ja käytännöllisen lähestymistavan omaksumista sekä kahdentoista vuoden alaikärajaa. Neuvosto suostui vapauttamaan kaikki alle kaksitoistavuotiaat, mutta ikärajaa on määrä tarkistaa kolmen vuoden kuluttua komission alaisuudessa tehtävän yksityiskohtaisen tutkimuksen perusteella.
+<P>
+Siirryn nyt seuraavaan aiheeseen eli jäsenvaltioiden kannustamiseen yhteistyöhön ja ulkoisten palveluntarjoajien hyväksymiseen. Minulla ei ole mitään ulkoistamista vastaan, kunhan se tehdään turvallisesti sen varmistamiseksi, että viisumien myöntämisprosessi on luotettava, että ulkoistaminen on viimeinen vaihtoehto ja että tietojen suojaus ja turvallisuus on taattu.
+<P>
+Onnistuimme lisäämään tekstiin hierarkian, jonka mukaisesti ensimmäisenä vaihtoehtona on yhteistyö rajoitetun edustamisen, yhteisten tilojen tai yhteisten viisumikeskusten muodossa. Ulkoistamista harkitaan vain, jos nämä ratkaisut eivät riitä suuren hakemusmäärän käsittelyyn tai eivät kata riittävän suurta maantieteellistä aluetta. Kompromississa tehdään selväksi, että jäsenvaltiot ovat vastuussa tietosuojasääntöjen ja kansallisen lainsäädännön noudattamisesta.
+<P>
+On tärkeää huomata, että erityissäännöt ovat voimassa niissä kolmansissa maissa, joissa salaus on kielletty. Tällöin konsulaattien tai ulkoisten palveluntarjoajien ja jäsenvaltioiden välinen sähköinen tiedonsiirto on kielletty ja jäsenvaltioiden on varmistettava, että sähköinen tieto siirretään fyysisesti täydellisesti salattuna CD-levyllä, johon liittyy erityisehtoja.
+<P>
+Lopuksi käsittelen viisumimaksua. Me olemme onnistuneesti vaatineet, että viisuminhakijoilla on aina oltava välitön pääsy konsuliedustustoihin, ehtona sille, että ulkoiset palveluntarjoajat voivat veloittaa viisumimaksun lisäksi palvelumaksun. Tämä on mielestäni erittäin tärkeää.
+<P>
+Kaiken kaikkiaan olemme saaneet aikaan kohtuullisen hyvän sopimuksen. Kompromisseista taisteltiin ankarasti, ja mielestäni olemme ottaneet edistysaskeleen kohti yhteistä viisumipolitiikkaa.
+<SPEAKER ID="477" NAME="Androulla Vassiliou">
+komission jäsen. - (EN) Arvoisa puhemies, haluan aluksi välittää varapuheenjohtaja Barrot'n pahoittelut siitä, ettei hän ole paikalla tänään.
+<P>
+Olen iloinen siitä, että parlamentti on hyväksynyt neuvoston yhteisen kannan ja siten antanut muodon sen ja neuvoston kolmikantaneuvotteluissa 2. joulukuuta 2008 solmimalle tähän ehdotukseen perustuvalle poliittiselle sopimukselle. Kiitän sekä parlamenttia että jäsenvaltioita niiden osoittamasta kompromissihengestä tämän välineen virallisen hyväksynnän saavuttamisessa. Haluan erityisesti kiittää esittelijä Sarah Ludfordia sekä yhteisesittelijöitä tuesta ja yhteistyöstä. Tämän sopimuksen ansiosta voimme jatkaa valmisteluja viisumitietojärjestelmän käynnistämiseksi, jonka on tarkoitus tapahtua tämän vuoden loppuun mennessä.
+<P>
+Komissio on parlamentin ehdotuksesta pyytänyt yhteistä tutkimuskeskusta tutkimaan tärkeää, sormenjälkien ottamista alle 12-vuotiailta lapsilta koskevaa kysymystä. Tekniset eritelmät on nyt laadittu, ja ne lähetetään parlamentille ja neuvostolle lähiaikoina.
+<P>
+Tämä yhteisen konsuliohjeiston muutos tarjoaa myös avoimen ja yhdenmukaisen oikeudellisen kehyksen ulkoistamiselle, lisämaksukysymys mukaan luettuna.
+<P>
+Komissio katsoo, että hyväksytty teksti on tasapainoinen ja saa komission täyden tuen komission parlamentille antaman lausuman mukaisesti.
+<SPEAKER ID="478" NAME="Ewa Klamt">
+PPE-DE-ryhmän puolesta. - (DE) Arvoisa puhemies, komission jäsen, hyvät parlamentin jäsenet, Euroopan unionin tehtävänä on valvoa EU:n ulkopuolelta tulevien henkilöiden maahantuloviisumien myöntämistä, jotta voimme todistaa, että EU on vapauteen, turvallisuuteen ja oikeuteen perustuva alue. Äskettäin luotujen sääntöjen mukaisesti EU:n lähetystöjen ja edustustojen on tulevaisuudessa otettava hakijoista valokuva ja sormenjälki. Tällöin täyttyy neljä tavoitetta.
+<P>
+Ensinnäkin se helpottaa petosten ja väärinkäytösten torjumista, sillä biometristen tunnisteiden ansiosta viisumien väärentäminen on vaikeampaa. Toiseksi se ehkäisee edullisimman viisumikohtelun etsimistä. Kolmanneksi viisumin hakemisprosessi nopeutuu. Neljänneksi rajavalvonta helpottuu, sillä biometristen tunnisteiden ansiosta rajavalvontahenkilöstö pystyy nopeasti selvittämään, onko heidän edessään oleva henkilö todella se henkilö, jolle viisumi on myönnetty.
+<P>
+Me olisimme tukeneet mielellämme komission ehdotusta yli kuusivuotiaiden lasten sormenjälkien ottamisesta, koska siten olisimme voineet ehkäistä ihmiskauppaa. Valitettavasti parlamentin enemmistö ei kannattanut tätä.
+<P>
+Euroopan kansanpuolueen (kristillisdemokraatit) ja Euroopan demokraattien ryhmän laaja enemmistö tukee kompromissia, jonka mukaan hakemusten vastaanottamisesta ja käsittelemisestä vastuussa olevan jäsenvaltion on voitava tehdä yhteistyötä ulkoisten palveluntarjoajien kanssa. Tämä on kuitenkin vasta viimeinen vaihtoehto. Yhteistyöstä sopimiseen vaikutti ratkaisevasti se, että jäsenvaltiot ovat edelleen vastuussa tietojen suojauksesta ja turvallisuudesta näissä tapauksissa. Tämä tarkoittaa sitä, että ulkoisen palveluntarjoajan kyseessä olevan jäsenvaltion viranomaisille lähettämä sähköinen tieto on aina salattava täydellisesti.
+<P>
+Haluan kiittää esittelijää ja muita ryhmiä edustavia parlamentin jäseniä, jotka ovat tehneet töitä varjoesittelijöinä kolmen vuoden ajan.
+<SPEAKER ID="479" NAME="Roselyne Lefrançois">
+PSE-ryhmän puolesta. - (FR) Arvoisa puhemies, komission jäsen, hyvät parlamentin jäsenet, arvoisa puhemies, te johdatte keskustelua tässä istunnossa, joten minä puhun teidän sijastanne tästä asiasta, jota te olette seurannut valmistelijana.
+<P>
+Haluan ensinnäkin onnitella lämpimästi Sarah Ludfordia siitä, miten hän on paneutunut tähän asiaan ja millaisia tuloksia hän on saavuttanut vaikeissa neuvotteluissa. Uskon, että parlamentti voi olla ylpeä saavutetuista tuloksista, sillä tehtävä ei todellakaan ollut helppo, kuten on käynyt ilmi.
+<P>
+Haluan nostaa esiin kaksi kohtaa, jotka ovat mielestäni keskeisiä ja joihin voimme olla erityisen tyytyväisiä. Ensimmäinen näistä on alaikäisten sormenjälkien ottamista koskevan ikärajan nostaminen kuudesta vuodesta kahteentoista. Toinen on periaatteen laatiminen siitä, että jäsenvaltioiden konsulaatit voivat antaa biometristen tietojen keräyksen yksityisten elinten tehtäväksi vain viimeisenä vaihtoehtona tiettyjä, hyvin erityisiä takeita sisältävien tiukkojen rajoitusten puitteissa.
+<P>
+Tiedän, että joidenkin mielestä hyväksytty ratkaisu ei ole täysin esittämiemme ehdotusten mukainen. Tämä koskee erityisesti niitä kohtia, jotka liittyvät palveluntarjoajan diplomaattiedustustoissa tekemään tietojen keräykseen ja tiedonsiirtoon salattujen sähköpostiviestien avulla, tai salattuun tiedonsiirtoon sähköisten tiedonsiirtovälineiden avulla, jotka lähetetään diplomaattipostina.
+<P>
+Vastaamme tähän, että yksityisten elinten on kerättävä tiedot EU:n lainsäädännön mukaisesti ja palveluntarjoajan on koodattava tiedot täydellisesti ja lähetettävä ne jäsenvaltioiden viranomaisille.
+<P>
+Olemme tietoisia tarpeesta neuvotella sopimuksia niiden kolmansien maiden kanssa, joissa sähköisesti lähetettyjen tietojen koodaus on kielletty. Vain diplomaatti- tai konsuliviranomaiset voivat käsitellä hakemuksia, tehdä mahdollisia haastatteluja, hyväksyä hakemuksia ja painaa ja kiinnittää viisumitarroja.
+<P>
+Samoja ehtoja sovelletaan kerättyjen tietojen siirrossa yhdestä jäsenvaltiosta toiseen, kun kyseessä on yhteiset tilat, eli kun jäsenvaltiota edustaa kolmannessa maassa toinen jäsenvaltio.
+<P>
+Jos palveluntarjoajien toimintaan sovellettavat yksityiskohtaiset ehdot määritellään tekstin liitteessä, ne on määritettävä kokonaisuudessaan sitovalla säädöksellä.
+<P>
+Näiden tulosten valossa voimme olla iloisia saavutetuista takeista paremman viisumipolitiikan käyttöönottamiseksi EU:ssa. Tämä varmasti hyödyttää unionin kansalaisia ja parantaa EU:n suhteita kolmansiin maihin.
+<SPEAKER ID="480" NAME="Tatjana Ždanoka">
+Verts/ALE-ryhmän puolesta. - (EN) Arvoisa puhemies, haluan aluksi kiittää ryhmäni puolesta Sarah Ludfordia hyvästä yhteistyöstä. Hän on yksi harvoista esittelijöistä, joille mikään ei ole mahdotonta.
+<P>
+Tiedätte, että ryhmäni vastustaa voimakkaasti biometriikan laajaa käyttöönottoa. Päätös on kuitenkin jo hyväksytty. Viisumien myöntämiseen liittyvän sormenjälkien keräämisen oikeusperustasta on säädetty viisumitietojärjestelmää koskevassa asetuksessa. Meidän mielestämme olisi ollut tarkoituksenmukaisempaa lisätä kyseiseen asetukseen yleisiä sääntöjä ja poikkeuksia koskevia säännöksiä.
+<P>
+Nyt meille on ratkaisevan tärkeää saada mahdollisimman paljon suojalausekkeita. Sarah Ludford on tehnyt erinomaista työtä tässä mielessä. Sormenjälkien ottamisen alaikärajan nosto kuudesta vuodesta kahteentoista oli meille erittäin tärkeä - mutta neljätoista olisi ollut vielä parempi.
+<P>
+Olemme tyytyväisiä myös perusoikeuksiin tehtyihin suoriin viittauksiin, kuten mahdollisuuteen jäljentää tiedot edellisestä hakemuksesta, jos edellisestä merkinnästä on kulunut enintään 59 kuukautta 48 kuukauden sijaan, sekä turvallista tietosuojaa koskeviin takuihin.
+<P>
+Meillä on kuitenkin monia huolenaiheita. Ryhmäni ei kannata biometristen tunnisteiden keräämisen ulkoistamista, erityisesti jos se tapahtuu konsuliedustuston tiloissa ilman diplomaatti- ja konsuliviranomaisten suojelua. Me vastustamme myös lisäpalvelumaksun veloittamista.
+<P>
+Yhteenvetona totean, että me uskomme biometriikan käyttöönotolla olevan merkittäviä vaikutuksia tietoturvaan ja perusoikeuksiin ilman mitään merkittäviä hyötyjä. Siksi emme voi tukea parlamentin kantaa toisessa käsittelyssä. Tämä ei kuitenkaan vaikuta kantaamme Laxin viisumisäännöstöä koskevasta mietintöstä.
+<SPEAKER ID="481" NAME="Sylvia-Yvonne Kaufmann">
+GUE/NGL-ryhmän puolesta. - (DE) Arvoisa puhemies, hyvät parlamentin jäsenet, arvostan suuresti esittelijän sitoutumista ja haluan kiittää lämpimästi häntä ja kaikkia muita mukana olleita erinomaisesta työstä viime vuosien aikana. Äänestän kuitenkin tyhjää lähinnä siksi, että mielestäni sormenjälkien ottaminen ja biometristen tunnisteiden käyttäminen on liioiteltua ongelman kokoon nähden. Mielestäni sisäasiainministerien ja turvallisuudesta vastaavien viranomaisten innokkuudessa kerätä mahdollisimman paljon henkilötietoja on jotakin hyvin epäilyttävää.
+<P>
+Tiedän, miten vaikeaa oli saada neuvoston suostumus siihen, että alle 12-vuotiaiden lasten ei tarvitse antaa sormenjälkinäytettä. Me kaikki kuitenkin tiedämme, että tätä kompromissia sovelletaan vain, mikäli missään laaja-alaisessa tutkimuksessa ei osoiteta lasten sormenjälkinäytteiden olevan luotettavia. Poliittinen keskustelu siitä, onko vauvojen ja pienten lasten sormenjälkien ottaminen todella tarpeellista, ei ole vielä päättynyt.
+<P>
+Myös ulkoistamista koskevat säännökset huolestuttavat minua. Tiukkoja ja standardoituja säännöksiä todella tarvitaan, sillä jotkut jäsenvaltiot käyttävät jo nyt ulkoisia palveluntarjoajia. On ymmärrettävää, että joissakin harvoissa tapauksissa viisumihakemusten käsittelyn siirtäminen ulkoisille palveluntarjoajille voi olla käytännöllistä. Tätä ei kuitenkaan saa tehdä hakijoiden ja tietoturvan kustannuksella. Mielestäni neuvoston kanssa sovittu kompromissi ei ole tältä osin riittävä. Sekä parlamentin oikeudellinen yksikkö että Euroopan tietosuojavaltuutettu ovat todenneet, että ulkoistamiseen liittyy riskejä, jos ulkoinen palveluntarjoaja ei saa diplomaattista suojelua. Neuvosto ei ole valitettavasti huomioinut näitä huolenaiheita.
+<P>
+Myös ulkoistamiseen liittyvä palvelumaksu on ongelmallinen. Mielestäni on väärin siirtää maksu hakijoille. 60 euron suuruinen viisumimaksukin on liian korkea, eikä kolmansien maiden kansalaisilla ole välttämättä varaa siihen. Jos viisumimaksuun lisätään vielä jopa 30 euron suuruinen lisämaksu, ei mielestäni voida puhua avoimesta ja vastaanottavaisesta Euroopasta. Tilanne epäilemättä helpottuu suurten maiden kohdalla, kun ei tarvitse matkustaa toisella puolella maata sijaitsevaan konsulaattiin viisumia hakemaan, vaan hakemuksen voi toimittaa ulkoiselle palveluntarjoajalle. Olen kuitenkin sitä mieltä, että suuremmat maksut kumoaisivat tämän hyödyn välittömästi.
+<P>
+Haluan kiittää kaikkia tämän asian parissa viime vuosina tehdystä työstä.
+<SPEAKER ID="482" NAME="Gerard Batten">
+IND/DEM-ryhmän puolesta. - (EN) Arvoisa puhemies, ei ole mikään yllätys kuulla, että eurofanaattista liberaalidemokraattista puoluetta edustava Sarah Ludford haluaa yhdenmukaistaa jälleen kerran sellaisen asian, jonka pitäisi kuulua jäsenvaltioiden suvereeniin toimivaltaan. Miksi ihmeessä mikään EU:n jäsenvaltio haluaisi yhteisen järjestelmän kolmansien maiden kansalaisten viisumihakemusten käsittelemiseksi? Sen päättäminen, kuka saa ja kuka ei saa tulla tiettyyn kansallisvaltioon, pitäisi olla kyseisen kansallisvaltion oma asia - mutta eurofanaatikkojen mielissä eurooppalaisia kansallisvaltioita ei enää ole, vaan mahtava rajaton EU-valtio on korvannut ne.
+<P>
+Vuoden 1997 jälkeen Yhdistyneeseen kuningaskuntaan on tullut noin kuusi miljoonaa maahanmuuttajaa. Heistä noin neljä miljoonaa on lähtenyt pois, joten väestön nettolisäykseksi jää yli kaksi miljoonaa. Yhdistyneen kuningaskunnan nykyinen maahanmuuttoaste on sellainen, että väestön nettolisäys on yli 200 000 ihmistä vuodessa eli yli miljoona ihmistä joka viides vuosi. Tämä vastaa Birminghamin kokoista uutta kaupunkia. Suurin osa maahanmuuttajista tulee maahan laillisesti, sillä he ovat EU:n kansalaisia. Tämän lisäksi meillä on luultavasti miljoona laitonta maahanmuuttajaa. Englanti on yksi maailman tiheimmin asutetuista alueista. Se on tiheämmin asutettu kuin Intia, Kiina tai Japani. Jos nykyinen suuntaus jatkuu, väkilukumme nousee 61 miljoonasta 75 miljoonaan vuoteen 2051 mennessä, ja 85 miljoonaan vuoteen 2081 mennessä.
+<P>
+Meidän on erottava Euroopan unionista ja valvottava itse rajojamme. Sen jälkeen meidän on päätettävä minkä maan kansalaisten maahantulon sallimme viisumin kanssa tai ilman. EU:ssa on monia jäsenvaltioita, joiden kansalaisten ei pitäisi päästä Yhdistyneeseen kuningaskuntaan ilman viisumia. Yhdistyneessä kuningaskunnassa pitäisi olla tiukka viisumijärjestelmä, jotta me voisimme itse päättää ketkä pääsevät maahamme ja ketkä eivät. Me emme tarvitse Euroopan unionin laatimaa järjestelmää.
+<P>
+Arvelen, että kannattajat perustelevat tämän sillä, että tässä vain otetaan käyttöön yhteiset kriteerit ja menetelmät, jotta asiat luistaisivat paremmin. Sillä voi kuitenkin olla myös tahattomia seurauksia. Tarkastellaanpa toista esimerkkiä liberaalidemokraattien ajamasta EU:n lainsäädännöstä. Eurooppalainen pidätysmääräys tarkoittaa sitä, että Yhdistyneen kuningaskunnan oikeusjärjestelmä tai edes sisäministeriö eivät voi suojella toisessa EU:n jäsenvaltiossa rikoksesta syytettyä Yhdistyneen kuningaskunnan kansalaista, vaikka kyseessä olisi ilmiselvästi huutava vääryys. Yhdistyneen kuningaskunnan kansalaisen luovuttamista voidaan siis vaatia minkä tahansa korruptoituneen oikeusjärjestelmän perusteella, ja meidän on noudatettava vaatimusta. Me olemme luopuneet oikeudesta suojella omia kansalaisiamme. Pian meillä on oikeudenkäyntejä, joissa syytetyt eivät ole läsnä, ja sakkoja ja takavarikointeja määrätään. Liberaalidemokraatit kannattivat kaikkea tätä. Nämä toimenpiteet kumoavat ne perusvapaudet, joita Yhdistyneen kuningaskunnan kansalaiset ovat nauttineet vuosisatoja ja jotka on kirjattu Magna Cartaan ja vuoden 1689 Bill of Rights -lakiin.
+<P>
+Tänä iltapäivänä liberaalidemokraattien johtaja Graham Watson kehotti Gordon Brownia viemään Yhdistyneen kuningaskunnan Euroopan yhtenäisvaluutan piiriin. Jokainen, joka ymmärtää jotain todellisesta maailmasta, tajuaa, että tämä olisi taloudellinen itsemurha. Nyt liberaalidemokraattiset fanaatikot haluavat meidän hyväksyvän yhteisen järjestelmän viisumien käsittelemiseksi. Kun Lontoon äänestäjät saavat tietää Sarah Ludfordin kannasta näihin asioihin, he toivottavasti myöntävät hänelle yksisuuntaisen viisumin pois Euroopan parlamentista europarlamenttivaaleissa 4. kesäkuuta 2009.
+<SPEAKER ID="483" NAME="Carlos Coelho" AFFILIATION="PPE-DE">
+(PT) Arvoisa komission jäsen, hyvät parlamentin jäsenet, olen samaa mieltä siitä, että viisumitietojärjestelmä eli VIS on otettava pikaisesti käyttöön ja että me tarvitsemme yhteisön viisumisäännöstön. Annan tunnustusta Sarah Ludfordin tekemälle työlle, mutta en voi omantuntoni mukaan tukea kompromissia useasta syystä.
+<P>
+Ensinnäkin olen eri mieltä ulkoisten palveluntarjoajien käytöstä. Kun kaikki poliittiset ryhmät hyväksyivät Schengenin tietojärjestelmän toisen version (SIS II), parlamentti ei sallinut sitä, että yksityiset yritykset olisivat päässeet käsiksi tietoihin, vaikka tämä koski silloin vain autojen rekisteröintiä. Mikä oikeuttaa parlamentin radikaalin kannanmuutoksen eli sen, että se sallii yksityisten yritysten keräävän arkaluontoisia henkilötietoja, kuten sormenjälkiä? Yritykset saavat säilyttää tiedot viikon ajan kompromissiin kirjattujen ehtojen mukaan.
+<P>
+Toiseksi, tietosuojan olisi pitänyt olla parempi. Diplomaattinen suojelu on ehdottoman tärkeää henkilökohtaisten oikeuksien tehokkaan suojelun varmistamiseksi. Miten yksityisten yritysten keräämien tietojen suojelu voidaan taata, jos diplomaattista suojelua ei ole varmistettu? Olemmeko jo unohtaneet SWIFT-tapauksen, joka liittyi Yhdysvaltain viranomaisten keräämien tietojen siirtoon? Jos tällaista voi tapahtua Yhdysvaltojen kaltaisessa maassa, voi vain kuvitella, mitä voi tapahtua vähemmän kehittyneissä maissa, joissa perusoikeuksien suojelu on heikompaa.
+<P>
+Kolmanneksi, viisumien hinta nousee ja vaihtelee maittain. Komission ehdotuksen tavoitteena oli edullisimman viisumikohtelun etsimisen estäminen. Jos yksityisten yritysten annetaan veloittaa viisumin hintaan lisättävä maksu, viisumien hinnat vaihtelevat jäsenvaltioiden mukaan. Silloin edistämme juuri sitä, mitä halusimme estää eli edullisimman viisumikohtelun etsimistä. Jos viisumin hinta on yhdessä jäsenvaltiossa 60 euroa ja toisessa 90 euroa, kumpaanko suurin osa hakemuksista tehdään? Tämä koskee erityisesti monijäsenisiä perheitä. Enkä ole edes maininnut tarvetta tarkastella viisumimenettelyjen helpottamista koskevia sopimuksia esimerkiksi Ukrainan ja Serbian kanssa, joita parlamentti vakaasti kannatti.
+<P>
+Arvoisa puhemies, kaiken edellä mainitun vuoksi en voi hyväksyä tätä kompromissia.
+<SPEAKER ID="484" NAME="Corina Creţu" AFFILIATION="PSE">
+(RO) Haluan aluksi kiittää esittelijää hänen yrityksestään luoda oikeudellinen kehys, johon biometristen tunnisteiden järjestelmän täytäntöönpano perustuisi.
+<P>
+Jotkut tämän mietinnön kohdat ovat aiheuttaneet kiivasta keskustelua useissa Euroopan unionin jäsenvaltioissa. Tällaisia kohtia ovat olleet esimerkiksi biometrisia tunnisteita koskevat kohdat. Myös Romaniassa on syntynyt kiistoja viime aikoina. Romania otti biometriset passit käyttöön toiseksi viimeisenä valtiona Euroopan unionissa, mutta se pani ensimmäisenä täytäntöön uuden biometriikkaa koskevan standardin, joka edellyttää kasvokuvan ottamista ja sormenjälkien ottamista molemmista käsistä.
+<P>
+Biometristen tunnisteiden järjestelmän hyväksymiseen liittyvä huoli perustuu luonnolliseen pelkoon henkilöturvallisuuden takaamisesta. On myös luonnollista, että ihmiset ovat huolissaan siitä, miten kerättyjä tietoja käytetään ja suojataan.
+<P>
+Yksi jäsenvaltioiden tärkeimmistä tehtävistä on kansalaisten turvallisuuden takaaminen perusihmisoikeuksia vaarantamatta. Tämän vuoksi olen sitä mieltä, että meidän velvollisuutemme on löytää tasapaino elämän kahden perusarvon välille, jotka ovat vapaus ja turvallisuus.
+<P>
+Mietintö, josta tänään keskustelemme, on melko tekninen, ja sen tavoitteena on biometrisia tunnisteita koskevien toimenpiteiden yhdenmukaistaminen EU:ssa. Tämä on välttämätöntä, kun otetaan huomioon, että kyseinen menetelmä on jo käytössä useissa jäsenvaltioissa, vaikka lainsäädäntökehystä ei olekaan laadittu.
+<P>
+Se, että alle 12-vuotiaiden lasten ja henkilöiden, joiden osalta sormenjälkien ottaminen on fyysisesti mahdotonta, ei tarvitse antaa sormenjälkinäytettä biometrista viisumia varten, on osoitus maltillisuudesta ja käytännönläheisyydestä, mikä pitäisi ulottaa koskemaan kaikkia jäsenvaltioita.
+<SPEAKER ID="485" NAME="Hubert Pirker" AFFILIATION="PPE-DE">
+(DE) Arvoisa puhemies, komission jäsen, uskon, että asetuksen avulla saavutamme kaksi päätavoitetta, jotka ovat turvallisuus ja kansalaiset paremmin huomioon ottava lähestymistapa.
+<P>
+Sormenjälkien ja valokuvien käyttöönotto takaa sen, ettei uusia viisumeja voida väärentää tai käyttää väärin. Mielestäni kansalaiset on otettu paremmin huomioon uusien viisumien hakemisessa, sillä ehdotuksessa esitetään keskitetyn menetelmän käyttöönottoa eli kaiken tarvittavan tiedon tallentamista samalla kertaa. Lisäksi hakijoiden ei tarvitse joka kerta käydä viisumitoimistossa, koska tiedot voidaan tallentaa jopa viideksi vuodeksi.
+<P>
+Mielestäni myös se hyödyttää kansalaisia, jos prosessi lyhenee jäsenvaltioiden yhteistyön tai ulkoisten palveluntarjoajien käyttämisen ansiosta, mutta tietosuojasäännöksiä on tietysti noudatettava. Me takaamme sen, että niitä noudatetaan, sillä kaikki tarvittavat varotoimet on toteutettu. Haluan vakuuttaa kaikille asiasta huolestuneille, että järjestelmää ei käytetä väärin eikä säännöksiä jätetä noudattamatta ulkoisten palveluntarjoajien käyttämisen seurauksena. Kotimaassani on ollut erittäin myönteisiä kokemuksia tästä asiasta. Tästä syystä kannatan tätä kansalaiset paremmin huomioon ottavaa lähestymistapaa.
+<P>
+Tällä hetkellä kannatan esittelijän ajatuksia, ja haluan onnitella häntä. Näin ei ole aina ollut, kun olen tehnyt yhteistyötä Sarah Ludfordin kanssa. En ole kuitenkaan tyytyväinen siihen, että emme voi ottaa sormenjälkiä kuusi vuotta täyttäneiltä. En ole tyytyväinen yksinkertaisesti siitä syystä, että se tekisi lasten tilanteesta turvallisemman, koska heidän henkilöllisyytensä voitaisiin määrittää ilman epäilystä ja koska voisimme ehkäistä lapsikauppaa ja muuta rikollista toimintaa. Minusta tämä on valitettavaa. Toivon kuitenkin, että tutkimuksen valmistumisen jälkeen viimeistään kolmen vuoden kuluttua kaikki ymmärtävät, että jo kuusivuotiailta lapsilta kannattaa ottaa sormenjäljet heidän oman turvallisuutensa parantamiseksi.
+<SPEAKER ID="486" NAME="Silvia-Adriana Ţicău" AFFILIATION="PSE">
+(RO) Kesäkuun 8. päivänä 2004 tehdyllä neuvoston päätöksellä 2004/512/EY luotiin oikeudellinen kehys biometristen tietojen keräykselle ihmisten tunnistamiseksi.
+<P>
+Tässä EU:n asetuksessa, josta keskustelemme, määritetään yhteiset standardit biometristen tietojen keräykselle ihmisten tunnistamiseksi. Asetus perustuu kansainvälisen siviili-ilmailujärjestön asiaa koskeviin säännöksiin.
+<P>
+Yhdistyneessä kuningaskunnassa ja Irlannissa ei sovelleta nykyisen asetuksen säännöksiä, koska kyseiset valtiot eivät osallistu Schengenin säännöstön täytäntöönpanoon.
+<P>
+Mielestäni henkilötietojen suojan varmistaminen on erityisen tärkeä kohta tässä asetuksessa. Tämä tarkoittaa käytännössä sitä, että tietoja on käsiteltävä ja säilytettävä EU:n lainsäädännön mukaisesti. Lisäksi se, että jäsenvaltioiden on järjestettävä viisumihakemusten vastaanotto ja käsittely, on valtava vastuu henkilökohtaisten oikeuksien kunnioittamisen kannalta.
+<P>
+Haluan vielä todeta, miten äärimmäisen tärkeää on, että valtuutettu henkilöstö kerää ja käsittelee tiedot ja että tietoja ei missään tapauksessa käytetä muihin tarkoituksiin.
+<SPEAKER ID="487" NAME="Dushana Zdravkova" AFFILIATION="PPE-DE">
+(BG) Arvoisa komission jäsen, hyvät parlamentin jäsenet, Euroopan unionin jäsenvaltioiden myöntämiin maahantuloviisumeihin liittyvän biometriikan käyttöönotosta saavutettu kompromissi lisää kiistatta turvallisuutta.
+<P>
+Samalla se takaa riittävät mahdollisuudet suojata matkustajien henkilötiedot ja ihmisarvo. Haluan myös korostaa sitä, että teknisten vaatimusten parantaminen joka tapauksessa tukee rajatylittävän rikollisuuden, laittoman maahanmuuton ja ihmiskaupan torjumista.
+<P>
+Kotimaani Bulgarian kaltaisiin rajavaltioihin kohdistuu maahanmuuttovirtojen ja kansainvälisen järjestäytyneen rikollisuuden aiheuttama huomattava paine. Näin ollen uusien standardien nopea ja onnistunut käyttöönotto on erittäin tärkeää EU:n ulkorajojen suojelemiseksi.
+<P>
+Lisäksi ehdotettujen tarkistusten ansiosta jäsenvaltioilla olisi mahdollisuus parantaa ja nopeuttaa viisumien myöntämismenettelyä, mikä epäilemättä vahvistaisi jäsenvaltioiden suhteita kolmansiin maihin. Myös EU:n imago parantuisi. Kun uutta lainsäädäntöä sovelletaan, viisuminhakijoille mahdollisesti koituvat taloudelliset seuraukset on luonnollisesti myös otettava huomioon.
+<P>
+Nykyisiin maksuihin tehtävät lisäykset voivat aiheuttaa uusia esteitä, jotka uhkaavat vilpittömässä mielessä matkustavien liikkumisvapautta. Lopuksi haluan korostaa, että viisumien myöntämiseen liittyvän tiedonsiirron suojauksen varmistaminen Euroopan unionissa on ratkaisevan tärkeää.
+<P>
+Parlamentti on aina suojannut EU:n kansalaisten henkilötietoja, ja mielestäni on moraalisesti oikeudenmukaista soveltaa samoja korkeita standardeja myös matkustajien henkilötietojen suojaukseen.
+<SPEAKER ID="488" NAME="Androulla Vassiliou">
+komission jäsen. - (EN) Arvoisa puhemies, haluan vielä kerran kiittää Sarah Ludfordia ja kaikkia parlamentin jäseniä heidän panoksestaan ja kommenteistaan. Välitän kollegalleni Jacques Barrot'lle kaiken täällä kuulemani.
+<SPEAKER ID="489" NAME="Sarah Ludford">
+esittelijä. - (EN) Arvoisa puhemies, haluan kiittää kaikkia varjoesittelijöitä, joiden kanssa tein yhteistyötä. Olen yli neljän vuoden ajan ollut "rouva VIS", ja me olemme varjoesittelijöiden kanssa muodostaneet hyvin tiiviin ryhmän, joten tulen kaipaamaan teitä kaikkia. Tulen kaipaamaan erityisesti teitä, arvoisa puhemies, sillä me emme välttämättä näe toisiamme enää kesäkuun jälkeen. Ryhmämme koostui pelkästään naisista, mikä ilahdutti minua, mutta haluan kiittää myös kaikkia työhön osallistuneita henkilökunnan jäseniä, jotka eivät kaikki olleet naisia. He olivat erinomaisia.
+<P>
+Kunnioitan Sylvia-Yvonne Kaufmannin ja Tatjana Ždanokan kantoja. Ymmärrän heidän kantansa ja kiitän heitä suuresti siitä, että he osallistuivat täysipainoisesti neuvotteluihin ja keskusteluihin, vaikka he eivät voi tukea niiden tulosta, kuten he itse kertoivat.
+<P>
+Olen hyvin surullinen siitä, että Carlos Coelho ei voi tukea tätä kompromissia. Toivottavasti hän ymmärtää, miten kovasti taistelin joidenkin niiden kohtien puolesta, joita hänkin olisi kannattanut. Olivathan ne alkuperäisessä mietinnössäni. Jos hän on sitä mieltä, että olisin voinut saavuttaa enemmän, se saattaisi aiheuttaa ihmetystä neuvostossa ja komissiossa. Uskon, että he pitivät minua melko kovana neuvottelukumppanina.
+<P>
+Gerard Batten on lähtenyt istuntosalista. Luulen, että hänen puheenvuoronsa oli osa UKIP:n vaalikampanjaa. Kuten Silvia-Adriana Ţicău huomautti, Yhdistynyt kuningaskunta ei osallistu viisumitietojärjestelmään, sillä se ei kuulu Schengen-alueeseen. Yhdistynyt kuningaskunta valvoo täysin omia rajojaan. Uskon, että Gerard Battenin ajatukset ovat jälleen kerran hieman sotkeentuneet.
+<P>
+Kiitän kaikkia muita puhujia rakentavista puheenvuoroista. Olen iloinen siitä, että tämä on nyt ohi, sillä haluan jo erota "rouva VIS:n" virasta.
+<SPEAKER ID="490" NAME="Puhemies">
+(FR) Keskustelu on päättynyt.
+<P>
+Äänestys toimitetaan keskiviikkona.
+<P>
+Kirjalliset lausumat (työjärjestyksen 142 artikla)
+<SPEAKER ID="943" NAME="Alin Lucian Antochi  " LANGUAGE="RO">
+Biometristen tunnisteiden käyttöönotto osana VIS-järjestelmää on tärkeä edistysaskel viisumin haltijan ja passin välisen luotettavan yhteyden luomisessa ja väärän henkilöllisyyden käytön estämisessä.
+<P>
+Tämä asetus on kuitenkin ensimmäisestä käsittelystä alkaen aiheuttanut erimielisyyttä neuvoston ja parlamentin välille seuraavista seikoista: alle kuusivuotiaiden lasten sormenjälkien ottaminen ja lasten sormenjälkien muuttumisesta vanhemmille koituvien kulujen ja hankaluuksien mahdollinen huomiotta jättäminen, biometristen tietojen keräyksen järjestämistä koskevat uudet haasteet ja viimeisenä muttei vähäisimpänä jäsenvaltioiden kokemuksen puute henkilötietojen tallentamisen hoitamisesta ja teknisistä virheistä.
+<P>
+Tässä tilanteessa meidän on varmistettava se, että jäsenvaltiot noudattavat vakiomenettelyjä Schengen-viisumien myöntämisessä ja että yhteinen konsuliohjeisto määritetään uudelleen. Lisäksi meidän on kiinnitettävä erityistä huomiota biometristen tietojen suojaamiseen. Meidän on tiedostettava se, että vaikka biometristen tietojen keräysjärjestelmän tarkoituksena on rikollisuuden ja terrorismin torjunta jäsenvaltioiden poliisiviranomaisten välisen tiedonsaannin ja tiedonvaihdon kautta, myös erilaiset eturyhmät voivat päästä tietoon käsiksi, jos korkeatasoisia turvatoimia ei laadita ja panna täytäntöön.
+<SPEAKER ID="942" NAME="Marian-Jean Marinescu  " LANGUAGE="RO">
+Asetuksessa, jolla viisumeja koskevaa yhteistä konsuliohjeistoa muutetaan, määritetään viisumitietojärjestelmän (VIS) biometristen tunnisteiden käyttöönottoon tarvittava oikeudellinen kehys sekä viisumihakemusten vastaanottoa ja käsittelyä koskevat järjestelyt.
+<P>
+Tämän asetuksen mukaan jäsenvaltioilla on mahdollisuus tehdä viisumihakemusten keräykseen liittyvää yhteistyötä ulkoisten palveluntarjoajien kanssa.
+<P>
+Syyt ulkoisten palveluntarjoajien vapaan käytön sallimiseen ovat mielestäni perusteettomat ja mahdollistavat laittoman viisumikaupan. Vaikka asetuksessa säädetään, että jäsenvaltiot ovat toiminnanharjoittajia ja ulkoiset palveluntarjoajat toimivat jäsenvaltioiden valvonnassa, yksityishenkilöiden suojelu on mielestäni kyseenalaistettu biometristen tietojen käsittelyn ja siirtämisen osalta.
+<P>
+Oikeus periä palvelumaksu normaalin viisumimaksun lisäksi aiheuttaa jäsenvaltioiden välisiä eroja viisumien hintoihin. Olen täysin vakuuttunut siitä, että tämä aiheuttaa jäsenvaltioiden välisiä eroja myös viisumihakemusten määrään.
+<P>
+Niiden jäsenvaltioiden, jotka ulkoistavat viisumihakemusten vastaanoton ja käsittelyn, on pidettävä tämä vaara mielessään ja tarkistettava oikeudellista kehystä, jotta ulkoiset palveluntarjoajat keräisivät mahdollisimman vähän viisumihakemuksia.

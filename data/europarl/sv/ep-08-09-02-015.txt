@@ -1,0 +1,62 @@
+<CHAPTER ID="015">
+Europeiska byrån för nät- och informationssäkerhet (Enisa) (debatt)
+<SPEAKER ID="768" NAME="Talmannen">
+Nästa punkt är en debatt om en muntlig fråga till kommissionen från Giles Chichester och Angelika Niebler, för gruppen för Europeiska folkpartiet (kristdemokrater) och Europademokrater, om Europeiska byrån för nät- och informationssäkerhet (ENISA) - B6-0159/2008).
+<SPEAKER ID="472" NAME="Angelika Niebler">
+föredragande. - (DE) Herr talman, herr kommissionsledamot, mina damer och herrar! År 2004 grundades Europeiska byrån för nät- och informationssäkerhet, mer känt under förkortningen ENISA. Dess uppgift är i huvudsak att förbättra nät- och informationssäkerheten i EU och att främja ett närmare samarbete mellan medlemsstaterna.
+<P>
+ENISA:s mandat är obestridligt komplext. Datavirus, skräppost, nätfiske och trojaner är verkliga hot i en värld av virtuella data. Hackare hotar privata och offentliga nätverk. Den skada som tillförs vårt moderna kommunikationssamhälle är enorm. Säkerhet är datasystemens akilleshäl. Vi är därför sårbara och utsatta för fara. När jag beskriver det så här förstår ni hur viktig denna byrå är för oss.
+<P>
+Byrån ska utföra detta kolossala uppdrag, trots att den endast har ett fåtal anställda. Det ger oss anledning att ställa den legitima frågan om ENISA verkligen kan utföra sina uppdrag på det sätt som den fungerar nu. Vi har i kammaren och i andra institutioner mycket ofta diskuterat hur vi kan vidareutveckla ENISA. Det senaste förslaget från kommissionen var att ENISA skulle slås samman med den planerade Europeiska myndigheten för marknaden för elektronisk kommunikation. Förslaget togs inte väl emot av parlamentet och rådet. I stället beslutade parlamentet och rådet före sommaruppehållet att ENISA:s mandat bör förlängas med tre år.
+<P>
+Det slutliga syftet med vår fråga till kommissionen är att se till att den här debatten förblir strukturerad under de kommande tre åren. Genom att ställa frågan vill vi även ta tjuren vid hornen och utmana kommissionen att redogöra för sin ståndpunkt i de frågor vi anser vara viktigast. Kan ENISA i sin nuvarande form utföra de uppgifter som förväntas av den? Har kommissionen övervägt möjligheten att ersätta ENISA med en annan organisation? Är det absolut nödvändigt att dessa uppgifter utförs av en europeisk byrå? Vilka generella förändringar av ENISA:s struktur anser kommissionen att man bör överväga?
+<P>
+Jag ser fram emot kommissionens svar. Jag är angelägen om att få veta hur långt överläggningarna har kommit i kommissionens korridorer. Parlamentet kommer förstås senare att uppmanas att lägga fram sin åsikt om ENISA:s framtida struktur.
+<SPEAKER ID="474" NAME="Viviane Reding">
+ledamot av kommissionen. - (EN) Herr talman! Som de ärade ledamöterna säkert känner till så löper ENISA:s mandat ut automatiskt den 13 mars 2009, i enlighet med Europaparlamentets och rådets förordning om inrättandet av den europeiska byrån för nät- och informationssäkerhet.
+<P>
+Kommissionen tycker dock att det är av yttersta vikt att säkra kontinuitet i verksamheten runt nät- och informationssäkerheten. Den åsikten delades av parlamentet och rådet i debatten om förslaget om en ändring av förordningen i syfte att förlänga ENISA:s mandat. Därför är åtgärder som förlänger ENISA:s mandat med ytterligare tre år befogade.
+<P>
+Det är riktigt att den utvärdering av Enisa som kommissionen inledde 2006 visade på ett antal problem, men den visade också på positiva aspekter av vad byrån åstadkommit med tanke på de begränsade medel som stått till dess förfogande. Kommissionen bemötte den påvisade kritiken med att lägga fram ett förslag om en förordning om inrättande av en europeisk telekommyndighet.
+<P>
+Vi kan i dag konstatera att rådet och parlamentet är överens om att ENISA bör hållas åtskiljt från det nya organ som inrättas som ett alternativ till telekommyndigheten, och kommissionen menar att det finns ett fortsatt behov av ett effektivt organ som kan behandla säkerhets- och integritetsfrågor. Därför det är viktigt att fortsätta arbetet med ENISA.
+<P>
+Men jag tror att de utmaningar som arbetet med nätsäkerheten medför kräver ett starkt, koordinerat gensvar från EU. De cyberattacker som nyligen inträffade i Estland och i Georgien - allvarliga attacker under sommaren som inte tycks ha rönt stor uppmärksamhet - har visat att ett enskilt land kan vara mycket sårbart.
+<P>
+Jag uppmanar därför Europaparlamentet och rådet att i början av 2009 inleda en intensiv debatt om EU:s syn på nätsäkerhet och om hur man bör tackla cyberattacker, och att dessutom inkludera ENISA:s framtid i diskussionerna.
+<P>
+Under debatten om en förlängning av ENISA-förordningen efterlyste man både i parlamentet och i rådet en debatt om målen med en möjlig moderniserad nät- och informationspolitik, och om lämpliga metoder för att uppnå dessa mål. Det sades uttryckligen att en förlängning av ENISA inte skulle påverka utgången av debatten. I syfte att underlätta en sådan debatt kommer kommissionen under andra halvan av 2008 att ta fram ett frågeformulär som ska användas i samband med ett Internetsamråd om de möjliga målen med en moderniserad nät- och informationssäkerhetspolitik på EU-nivå, samt om metoderna för att uppnå dessa mål. Detta kommer naturligtvis att ske i samråd med ENISA och dess styrelse.
+<SPEAKER ID="476" NAME="Nikolaos Vakalis" LANGUAGE="EL">
+Herr talman, fru kommissionsledamot! Europaparlamentet och rådet har godkänt en förlängning av ENISA:s verksamhet fram till slutet av år 2012. Förlängningen med tre år möjliggör en fortsatt debatt om ENISA:s framtid och om den mer omfattande frågan om ökad nät- och informationssäkerhet inom EU.
+<P>
+Min åsikt är att översynsförfarandet bör inledas omedelbart. ENISA bör göras om från en tillfällig lösning till en permanent sådan och framför allt måste detta åtföljas av en samtidig ökning av personalstyrkan och en uppdatering av de mycket viktiga artiklarna 2 och 3 i arbetsordningen. Den här lösningen gör det möjligt för organet att börja arbeta så snart som möjligt under ett uppdaterat och förbättrat mandat.
+<P>
+Låt mig påminna er om en sak - och det här är även kommissionens åsikt: bara en europeisk byrå kan garantera nät- och informationssäkerheten. Jag vill också poängtera att i dag är en överväldigande majoritet av parterna överens om att ENISA är det lämpligaste och bäst kvalificerade organet när det gäller att utveckla en ny, dynamisk EU-politik för nät- och informationssäkerhet.
+<P>
+ENISA har tidigare utsatts för hård kritik. Men ni måste komma ihåg att utvärderingsrapporten från 2007 bara omfattade ENISA:S första verksamhetsår, och därför är utvärderingen inte längre vare sig tillförlitlig eller aktuell. Nyliga utvärderingsrapporter som utförts av oberoende organ är mer sanningsenliga. För att ENISA:s verksamhet ska bli effektivare är det av yttersta vikt att organet får adekvata resurser.
+<P>
+Slutligen vill jag meddela att den grekiska regeringen stöder en hållbar lösning: den har åtagit sig att täcka underhållskostnaderna för ett ENISA-kontor i Aten i syfte att underlätta organets verksamhet.
+<SPEAKER ID="478" NAME="Anni Podimata" LANGUAGE="EL">
+Herr talman, fru kommissionsledamot, mina damer och herrar! Uppgifterna som ligger till grund för dagens debatt kring den muntliga frågan från gruppen för Europeiska folkpartiet (kristdemokrater) och Europademokrater om ENISA skiljer sig stort från de uppgifter som var aktuella när frågan ställdes. Till att börja med har rådet och Europaparlamentet enats om att förlänga organets verksamhetsförordning fram till 2012.
+<P>
+Samtidigt har Europeiska kommissionens förslag om att inrätta en europeisk myndighet för inköp av elektronisk kommunikation fått ett svalt mottagande av rådet och Europaparlamentet. Rådet och Europaparlamentet föreslår i stället alternativet BERT som har grundläggande ansvar för ett bättre genomförande av regelverket för telekommunikationstjänster, men som inte berörs av frågor om nätsäkerhet och integritet.
+<P>
+Precis som ni, fru kommissionsledamot, helt riktigt nyss påpekade - så även i ert uttalande tidigare i dag - är dessa frågor utomordentligt viktiga. Ni poängterade att de nyliga cyberattackerna i Estland och i andra länder visar på hur viktigt det är att vi kommer fram till en övertygande och samordnad europeisk lösning å det snaraste.
+<P>
+Och det är precis den här rollen som ENISA kan och bör spela så snart verksamheten är i gång under ett uppgraderat och förbättrat mandat med tydligt definierade uppgifter och mål och, naturligtvis, så snart organet har fått nödvändiga medel och mänskliga resurser till sitt förfogande.
+<P>
+Jag hoppas att kommissionen den här gången kommer att bidra på allvar genom att bistå ENISA i arbetet med att stärka nätsäkerheten och nätintegriteten, vilket är ytterst angeläget för att kunna öka företagens och EU-medborgarnas förtroende för europeiska nätverk.
+<SPEAKER ID="480" NAME="Jorgo Chatzimarkakis">
+för ALDE-gruppen. - (DE) Herr talman, fru kommissionsledamot! Nätsäkerhet - det låter som ett snävt kunskapsområde, men nätsäkerheten är något som påverkar fler och fler aspekter av vårt dagliga liv: mobilkommunikationer, Internet, som liksom en bläckfisk nästlar sig in i allt fler av våra dagliga aktiviteter, den intelligenta miljön, alltså den datorintelligens som omger oss överallt och som används såväl till att bistå åldringar som att kontrollera komplexa arbetsprocesser. Allt det här visar att vi blir mer och mer beroende av avancerad teknologi. Den styr våra liv och vår ekonomis tillväxt.
+<P>
+I Estland blev man nyligen varse hur pass beroende vi har blivit. Kommissionsledamoten nämnde att även Georgien har blivit utsatt. Folk känner inte till det fallet lika väl, men om vi hade behövt ett mer spektakulärt fall än det i Estland så har vi fått det i Georgien. Vi bevittnade hur en modern, nätverksbaserad ekonomi plötsligt stod och föll med just den tekniken, hur den blev attackerad och hur dess säkerhet utsattes för verkligt allvarliga hot. Det är också orsaken till att kommissionen, och dåvarande ansvarige kommissionsledamoten Erkki Liikanen, med rätta insåg behovet av en byrå för nätsäkerhet. Därför blev vi förvånade när ENISA utvärderades efter bara ett år, innan byrån fått kompletta och lämpliga resurser, och dess själva existens ifrågasattes. Vi blev verkligt upprörda när det hände och därför är jag mycket glad för att vi nu för denna debatt.
+<P>
+Hur kom det sig att byrån ifrågasattes efter bara ett år? Hur kan vi tillsammans utforma ENISA:s mandat så att byråns verksamhet kan skötas på samma villkor som de byråer som finns i Förenta staterna, Japan och Kina?
+<P>
+Jag vill tacka för ert erkännande av Enisas framgångar efter den andra utvärderingen. Icke desto mindre fortsätter samtalen oss parlamentsledamöter emellan, dag efter dag, om den här kulturella omställningen, den här klimatförändringen som påverkar våra ekonomier, som tvingar oss att frångå vårt ekonomiska beroende av fossila bränslen och byta till andra energikällor. Varje dag lägger vi ner hela vår själ i det arbetet. Vi vet ju allihop att den enda lösningen är att förändra systemen och för att klara det behöver vi intelligenta lösningar, och vi behöver nätsäkerhet eftersom säkerheten är viktigare än allt annat. Jag är därför tacksam för att vi för den här debatten, en debatt som är en byggsten i uppförandet av ett mer välutrustat ENISA och en bättre nätsäkerhet.
+<SPEAKER ID="482" NAME="Viviane Reding">
+ledamot av kommissionen. - (EN) Herr talman! Sammanfattningsvis skulle jag vilja säga att förslaget att förlänga Enisas mandat med tre år har enhälligt stöd i rådet och ett brett stöd i Europaparlamentet. De båda lagstiftarna är eniga om att nå en överenskommelse vid första behandlingen, i god tid innan den nuvarande förordningen automatiskt upphävs.
+<P>
+Som jag förstår det så planerar rådet att anta ändringsförordningen som en ”A-punkt” vid ett kommande rådsmöte. Problemet skulle då vara löst och parlamentet kan, efter det att kommissionen lagt fram ett dokument om grundproblemen bakom cyberattackerna, ta sig an dessa problem och inleda en verklig debatt om vårt framtida ansvar på området.
+<SPEAKER ID="483" NAME="Talmannen">
+Debatten är härmed avslutad.

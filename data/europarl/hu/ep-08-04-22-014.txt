@@ -1,0 +1,464 @@
+<CHAPTER ID="014">
+Kérdések órája (a Bizottsághoz intézett kérdések)
+<SPEAKER ID="922" NAME="Elnök">
+A következő napirendi pont a Kérdések órája (B6-0019/2008).
+<P>
+Az alábbi kérdéseket nyújtották be a Bizottsághoz.
+<P>
+I. rész
+<SPEAKER ID="334" NAME="Elnök">
+
+<P>
+Tárgy: Bankszámlákra vonatkozó információ cseréje
+<P>
+A legutóbbi liechtensteini adóbotránynak következményei voltak az EU számos tagállamában. Az illetékes hatóságok vizsgálatai szerint a tagállamok polgárai állítólagosan adóelkerülésben érintettek. Arról tájékoztattak, hogy a 27 tagállam pénzügyminiszterei sürgették a Bizottság felelős főigazgatóságát, hogy gyors vizsgálatot tartson és tegyen javaslatot a jogi keretek felülvizsgálatára, hogy lehetővé váljon a polgárok bankszámláihoz kapcsolódó információ cseréje.
+<P>
+Hogyan fogják a polgárok személyes adatait védeni egy ilyen keretben, miközben bevezetik az átláthatóságot és megakadályozzák az illegális pénzeszközök átutalását és tisztára mosását? Milyen eljárással kívánja a Bizottság biztosítani, hogy a bankszámlák "megnyitása” során a törvényességet a legmesszebb menőkig tiszteletben tartsák? Hogyan képzelik a tagállamok adózási rendszereinek harmonizálását annak érdekében, hogy a jövőben el lehessen kerülni hasonló helyzeteket, amikor illegális pénzeszközöket bankszámlákon keresztül mosnak tisztára?
+<SPEAKER ID="335" NAME="Günter Verheugen">
+a Bizottság alelnöke. - (DE) Elnök úr, hölgyeim és uraim, fel kell lépnünk az adóelkerülés ellen. Ha ezt nem tesszük meg, demokratikus társadalmunk alapjai erodálódhatnak.
+<P>
+Minden nemzetnek joga van olyan rendelkezések meghozatalára, amelyek biztosítják, hogy az adókat hatékonyan vessék ki a nép képviselőinek hozzájárulásával. Ebben az ágazatban azonban az egyedi intézkedéseknek gyakran nincs meg a kívánt hatásuk egy-egy országon belül. Ezért nemzetközi együttműködésre van szükség az adóhatóságok között, ami érinti a bankszámlákra vonatkozó információ cseréjét. A 27 tagállam pénzügyminiszterei ezen dolgoznak EU szinten. Néhány intézkedést már bevezettünk európai szinten. A megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK tanácsi irányelvre kell itt utalni.
+<P>
+Ezen kívül, az Európai Unió megállapodást kötött harmadik országokkal, többek között Liechtensteinnel is, ugyanazzal a céllal, mint az irányelv célja. Ezek a megállapodások garantálják, hogy az EU polgárainak e harmadik országokban kifizetett kamatok vagy saját tagállamukban jövedelemadó kötelesek, vagy azt a forrásnál levonják. A forrásnál levont összeg visszatéríthető az állandó lakóhelye szerinti tagállamban adófizetésre kötelezett számára, ha az annak megfelelő jövedelmet adózási célra bevallja.
+<P>
+A Gazdasági és Pénzügyi Tanácsban 2008. március 4-én véleménycserét tartottak a megtakarításokból származó kamatjövedelem adóztatásáról szóló irányelv alkalmazásáról. A vita eredményeként a miniszterek megkérték a Bizottságot, hogy folytassa a munkát az irányelv 2005. július 1-i hatályba lépése óta történt végrehajtásáról szóló jelentésen. A jelentésnek foglalkoznia kell a "kamatkifizetés” és "haszonhúzó” kifejezések meghatározásával.
+<P>
+Jogosan vetik fel azt a kérdést, hogy az információcsere rendszere milyen mértékben fér össze a személyes adatok védelmével. Ebben az összefüggésben rá lehet mutatni, hogy a közösségi adatvédelmi szabályok, amelyek az európai gazdasági területen is alkalmazandók, lehetőséget adnak a tagállamok számára, hogy jogalkotási intézkedést hozzanak. Az ilyen intézkedés az érintetteket korlátozhatja bizonyos jogaik gyakorlásában, ilyen lehet a hozzáférés joga vagy az információhoz fűződő jog, ha ez szükséges, az Európai Unió vagy valamely tagállam fontos pénzügyi vagy gazdasági érdekei védelmében. Ez vonatkozik a pénzügyek, a költségvetés és az adózás területére is.
+<P>
+Hasonló korlátozások vonatkoznak a harmadik pénzmosás ellenes irányelv hatékony végrehajtására is. A tagállamoknak mindenképpen ésszerűen biztosítaniuk kell, hogy illetékes szervei betartsák a megfelelő helyi rendeleteket és nemzeti adatvédelmi jogszabályokat, amikor személyes adatokat adnak át vagy dolgoznak fel.
+<P>
+Egyensúlyt kell találni az adópolitika céljainak törvényes követése és a magánélet védelme között.
+<SPEAKER ID="337" NAME="Manolis Mavrommatis" AFFILIATION="PPE-DE">
+(EL) Elnök úr, biztos úr, az adózás történelme tele van hamis bankszámlákkal, amelyek még károsabbak, amikor az ilyen botrányokra fény derül európai országokban. Amikor ilyesmi történik, mi pusztán tudomásul vesszük az eseményt, de minden alkalommal, amikor ilyen incidens megismétlődik, ezek az események újra eszünkbe jutnak.
+<P>
+Az az ön általános véleménye biztos úr, hogy a rendszer valóban meghibásodásbiztos?
+<SPEAKER ID="338" NAME="Günter Verheugen">
+(DE) a Bizottság alelnöke. - (DE) A tiszteletre méltó képviselő úr kérdését egy egyszerű nemmel lehet megválaszolni. A jelenlegi rendelkezésünkre álló rendszerek nem kifogástalanok és ezt tudjuk. Ezért erőfeszítéseket teszünk a javításukra. A konkrét pénzmosás elleni rendeletek biztosan jobbításra szorulnak, és előkészületeket teszünk az Európai Gazdasági Térséghez tartozó, de az Európai Unióban nem részes országokkal, hogy ezeket a jobbításokat elérjük.
+<P>
+A Bizottság tárgyalási mandátumot kapott a Tanácstól, amely feljogosítja a Bizottságot, hogy különösen Liechtensteinnel tárgyalásokat folytasson arról, hogy a pénzmosás és adócsalás elleni fellépés szempontjából a rendszerben meglévő gyenge pontok miként szüntethetők meg. Azt remélem, hogy az Európában a közvélemény közelmúltban érzékelhetővé vált erőteljes nyomása ezzel a kérdéssel kapcsolatban segít majd elérnünk a szükséges megállapodásokat. Keményen dolgozunk ezen, de amint önök is tudják, az adózási kérdések rendkívül érzékenyek. Még a tagállamokon belül is bőven van hely a javításra.
+<SPEAKER ID="339" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Elnök úr, biztos úr, önök nagyon helyesen rámutattak, hogy fel kell lépnünk az adóelkerülés és az adócsalás ellen, ez kétségtelen. Ön azonban arra is rámutatott, hogy törvényes erőforrásokra van szükségünk ehhez az Európai Unióban uralkodó jog alapján.
+<P>
+Sajtóbeszámolók szerint a liechtensteini botrány néhány adata már a pénzügyi hatóságokat is eléri, mivel a német hatóságok fizettek a bűncselekmény útján megszerzett adatokért. Ez lenne a helyes út?
+<SPEAKER ID="340" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Elnök úr, függetlenül attól, hogy ez-e a helyes út, jó, hogy kiszivárgott. Biztos úr, olyan rendszer jelent itt meg, amely folyamatosan azoknak a javára válik, akik máris biztosították, hogy a nagy konszernek egyre kevesebb adót fizessenek, és úgy tűnik, hogy már fel is hagytak az adófizetéssel. Úgy vélem, ez egy olyan fejlemény, ami nem fogadható el. Érdekelne engem, hogy pontosan miről tárgyalnak Liechtensteinnel és pontosan mit akarnak tenni e bűncselekmények megállítása érdekében - és én a "bűncselekmény” kifejezést egészen szándékosan használom.
+<SPEAKER ID="341" NAME="Günter Verheugen">
+a Bizottság alelnöke. - (DE) Az első kérdésre azt szeretném válaszolni, hogy minden bizonnyal nem a Bizottság feladata, hogy ítéletet mondjon azokról a módszerekről, amelyekkel valamely tagállam állampolgárai adóelkerülése ellen fellép.
+<P>
+Rámutattam arra, hogy az általános szabályok adóügyekben is vonatkoznak a személyes adatok védelmére, és a tagállamok jogosultak e szabályok korlátozására, ha ez pénzügyi érdekeik védelmét szolgálja.
+<P>
+Azt hiszem, az ön által feltett kérdést a német kormánynak kellene feltenni. Tudomásom szerint a német kormány részletesen és alaposan kivizsgálta az ügyben az eljárás törvényességének kérdését, még a határozat meghozatala előtt, és arra következtetésre jutott, hogy a német adóhatóság törvényesen szerezte meg ezeket az adatokat.
+<P>
+Ami a második, nagyon általános kérdést illeti, egyetértek önnel, hogy bosszantó, hogy még mindig nem kell garantálnunk a meglévő EU Szerződésben azt a lehetőséget, hogy az adóelkerülést és az adómegkerülést Európában mindenütt ugyanúgy üldözzék, és még mindig nem garantálható, hogy senki sem fog segédkezet nyújtani az adóelkerüléshez és adómegkerüléshez.
+<P>
+Az elmúlt években sokat elértünk, különösen a pénzmosás, valamint a nemzetközi bűnözés és terrorizmus mindenféle formája elleni szükségszerű harc jegyében. Már azonban rámutattam, hogy a Bizottság úgy véli, hogy van még lehetőség a javításra, és amit Liechtensteinnel és a többi országgal elérni akarunk, az teljesen egyértelmű. Ugyanazt az együttműködést szeretnénk fenntartani és ugyanazt az információcserét biztosítani Liechtensteinnel, mint ami már megvan az EU tagállamai között.
+<SPEAKER ID="342" NAME="Elnök">
+
+<P>
+Tárgy: Mopedekből származó részecskekibocsátás
+<P>
+Az Utrechti Egyetem kutatása rámutatott arra, hogy a mopedek és robogók nagy mennyiségben bocsátanak ki finom és ultrafinom porrészecskéket. A kutatók 12 közepes méretű városban mérték a kerékpározók és motorkerékpározók által beszívott kibocsátásokat. Ez azt mutatta, hogy a kerékpározók túlzott mennyiségű finom részecskét szívtak be, ha közel voltak a mopedhez. Úgy tűnik, hogy a mopedek a valóságban több részecskét bocsátanak ki másodpercenként, mint a nehézgépjárművek. A 2002/51/EK irányelvhatározza meg az ilyen járművek kibocsátási szabványait. Ez azonban egyáltalán nem említi meg a részecskekibocsátást.
+<P>
+Ismeri-e a Bizottság a robogókból származó légszennyezés problémáját? Mit kíván a Bizottság tenni, hogy megfelelő módon foglalkozzon a problémával?
+<SPEAKER ID="343" NAME="Günter Verheugen">
+a Bizottság alelnöke. - (DE) Elnök úr, hölgyeim és uraim, az Európai Bizottság már évek óta szót emel a finom és ultrafinom porrészecskék csökkentése mellett. 2005. óta a Bizottság rengeteg jogalkotási intézkedéseket javasolt a levegő minőségének javítása érdekében, amiről önök is tudnak. A Hetedik kutatási keretprogram részeként a környezetbarát közlekedéspolitika fontos vonatkozásait vizsgálják.
+<P>
+Amikor a járművek részecskekibocsátása normáit határozta meg a Bizottság, először a diesel gépkocsikra és a kereskedelmi gépjárművekre koncentrált, mivel ezeknek a járműveknek a kínálata lényegesen nagyobb volt mint a motorikus kétkerekűeké. Kezdetben tehát a problémával ott kezdtünk el foglalkozni, ahol nagyobb mennyiségekben jelenik meg. Itt néhány fontos mérföldkövet el is értünk.
+<P>
+2007-ben a Parlament és a Tanács rendeletet fogadott el a könnyű és kereskedelmi gépjárművek kibocsátásáról. Ez az Euro 5 és az Euro 6 szabvány. Ezeket már elfogadtuk, és hatályba is lépnek. Az Euro 5 és az Euro 6 szabvány a diesel gépjárművel többlet részecskekibocsátását a jelenlegi kilométerenként 25 milligrammról kilométerenként 5 milligrammra csökkenti.
+<P>
+Ezen kívül, a Bizottság 2007. december 21-én javaslatot tett a nehéz kereskedelmi gépjárművek kibocsátásairól szóló rendeletre, ez az Euro VI szabvány. Ez a nitrogénoxid kibocsátásának határértékét 80%-kal, a részecskekibocsátás határértékét 66%-kal csökkenti a jelenleg hatályos Euro V szabványhoz képest.
+<P>
+A kétkerekű járművek részecskekibocsátásának problémája alapvetően a kétütemű motorokból fakad. A négyütemű motorok részecskekibocsátása ehhez képest nagyon alacsony, még akkor is, hogy ha az Euro 5 szabványnak felelnek meg.
+<P>
+2004-ben a Bizottság megrendelt egy tanulmányt, melynek célja rávilágítani, hogy ésszerű-e a kétütemű motorok részecskekibocsátásának korlátozására törvényi rendelkezést bevezetni. Az eredmény az volt, hogy az ilyen motorok által kibocsátott részecskék elsősorban szénhidrogénekből állnak. A motorkerékpárok és mopedek - azaz a kétkerekű járművek - szénhidrogénkibocsátásának a határértékeit 2004-ben és 2007-ben már lényegesen megszigorítottuk, és a helyzet az új személygépkocsik esetében sokat javult. Ezen kívül, a gyártók most állnak át a kétütemű motorokról a négyüteműekre, így a szénhidrogén határértékeket általában is fenn lehet tartani. Emiatt a Bizottság nem nyújtott be konkrét intézkedést a kétkerekű járművek részecskekibocsátásának korlátozására. El kell mondanom azonban, hogy a helyzet egyértelműen kritikusabb a régebbi kétütemű járművek esetében, amelyek nagy mennyiségben bocsátanak ki szénhidrogéneket és részecskéket. Ezeket a kibocsátásokat azonban nagymértékben csökkenteni lehet, ha a motor kenéséhez ásványi olaj helyett szintetikus olajat használnak. A Bizottság ezért támogatja az Európai Motorkerékpár-gyártók Egyesületének és a Motorkerékpárosok Egyesületének erre irányuló kampányát. Ennek ellenére is a Bizottság vizsgálja, hogy szükség van-e a két- és háromkerekű gépjárművekre vonatkozó jogszabályi rendelkezések felülvizsgálatára.
+<P>
+Ez év elején megrendeltünk egy tanulmányt, amely megvizsgálja a 2004. évi tanulmány eredményeit, figyelembe véve a technikai fejlődés legújabb eredményeit. Ennek a tanulmánynak az eredményei az év végére állnak rendelkezésre. Ha az derül ki, hogy szükség van a Bizottság jogalkotási javaslatára - és én készen állok ilyen javaslat benyújtására, ha ez szükséges - akkor ez 2009-ben történhet meg.
+<P>
+A környezeti levegő minőségének értékeléséről és kezeléséről szóló keretirányelv és az egyes ide vonatkozó irányelvek szerint, amelyek a PM10 részecske- és a benzolkibocsátás határértékeit határozzák meg, a tagállamoknak megfelelő intézkedésekkel biztosítaniuk kell, hogy saját országukban a határértékeket határidőre betartsák. A tagállamoknak ugyancsak gondoskodniuk kell a vészhelyzeti intézkedésekről abban az esetben, ha a határértékeket ideiglenesen túllépik. Azokon a területeken, ahol lényegesen nagyobb a valószínűsége annak, hogy a kétütemű motorok túllépik a határértékeket, a tagállamok gondoskodnak erről a helyzetről a saját levegőminőségi terveikkel és vészhelyzeti intézkedésekkel az után, hogy a Bizottság elvégezte az értékelést.
+<SPEAKER ID="344" NAME="Saïd El Khadraoui" AFFILIATION="PSE">
+(NL) Elnök úr, biztos úr, köszönöm részletes válaszát. Ön jogosan hivatkozott azokra az erőfeszítésekre, amelyeket a Bizottság már megtett a tehergépjárművek és kamionok kibocsátásaival kapcsolatban, jogalkotási javaslatot azonban még nem dolgoztak ki a mopedekre vonatkozóan. Ön említi az ipar erőfeszítéseit, hogy a kétütemű motorokat négyüteműekkel váltsák fel, ami pozitív fejlemény lenne.
+<P>
+Először is azt kell megkérdeznem, hogy ez milyen mértékig semmire sem kötelező megállapodás? Vagy valódi megállapodásról van szó? Másodszor, tudnunk kell, hogy ez a szennyezés erősen lokalizált, és például súlyos hatása van a mopedek közvetlen környezetében a kerékpárosokra, ez pedig közegészségi problémát jelent.
+<SPEAKER ID="345" NAME="Günter Verheugen">
+a Bizottság alelnöke. - (DE) Én jól értem a tiszteletreméltó képviselő úr kérdését. Itt nem a Bizottság által létrehozott megállapodásról van szó az iparral, amint történt például a személygépjárművek CO2-kibocsátása csökkentésének esetében, hanem inkább egy fajta automatikus fejlődésről. Amint elmondtam, a kétkerekű járművek gyártói a hagyományos kétütemű motorokkal nem tudják betartani a már létező szigorú szénhidrogénkibocsátási határértékeket. Egyszerűen képtelenek rá. Ezért állnak át négyütemű motorokra, ami viszont más problémát vet fel.
+<P>
+Az a tanulmány, amiről beszéltem megvilágítja majd ennek a műszaki fejlődésnek az eredményeit, és még egyszer ismétlem, ha az derül ki, hogy az említett probléma automatikusan nem oldódik meg, hogy így mondjam, akkor valóban szükséges lesz jogalkotási javaslatot tenni. Ismétlem: én készen állok erre.
+<SPEAKER ID="346" NAME="Elnök">
+
+<P>
+Tárgy: 2,2 milliárd szükséget szenvedő gyermek
+<P>
+Szerte a világon 2,2 milliárd gyermek szenved a szegénység, az írástudatlanság, a szexuális zaklatás és a katonai konfliktusok miatt. A Szahara alatti Afrikában születő gyermek esélye arra, hogy ötéves kora előtt meghal, egy a hathoz. Az ENSZ Gyermekalapja, az UNICEF szerint naponta több mint 27 000 gyermek hal meg, főleg megelőzhető betegségekben. Az UNICEF legutóbbi adatai azt mutatják, hogy szerte a világon 93 millió általános iskoláskorú gyermek nem jár iskolába, köztük 41 millió gyermek a Szahara alatti Afrikában, 31,5 millió Dél-Ázsiában és 6,9 millió a Közel-Keleten és Észak-Afrikában.
+<P>
+Tekintettel arra, hogy a jövő év a Gyermekjogi Egyezmény 20. évfordulója, ezek az adatok rendkívül elszomorítóak. Tesz-e a Bizottság megfogható lépéseket a gyermekek kizsákmányolása ellen, legyen az a szexiparban, vagy olyan helyzetekben, amikor őket katonaként használják fel? Ha a Lisszaboni Szerződés hatályba lép, amelybe a gyermekjogokat beépítették, lesz-e a Bizottságnak erőteljesebb befolyása ezen a területen?
+<SPEAKER ID="347" NAME="Vladimír Špidla">
+a Bizottság tagja. - (CS) Elnök úr, hölgyeim és uraim, a Bizottság egyetért Van Hecke úr elemzésével, és szeretném biztosítani őt, hogy a Bizottság nagyon aktív a gyermekekkel szembeni visszaélések elleni küzdelemben. A gyermekjogok a Bizottság 2005-2009-re vonatkozó stratégiai céljai fő prioritásai közé tartoznak. Ezt a prioritást kifejeztük a Bizottság 2006. évi "A gyermekjogokról szóló EU stratégia felé” című közleményben, és a közelmúltban a 2008. február 5-én elfogadott "A gyermekek különleges helye az EU külső intézkedéseiben” című bizottsági közleményben. A közelmúltban elfogadott közlemény célja egy közös EU megközelítés keretének létrehozása harmadik országbeli gyermekek jogainak védelme és előmozdítása érdekében, amely tükröződne külkapcsolataink valamennyi területén, beleértve a fejlesztési támogatásokat, a humanitárius segélyezést és a kereskedelempolitikát.
+<P>
+Ez a közlemény tartalmazza a gyermekjogokra vonatkozó intézkedési tervet az EU külső intézkedéseiben, amely meghatározza a fő regionális és globális szinten intézkedést igénylő prioritási területeket: ezek a gyermekmunka, a gyermekkereskedelem, a gyermekekkel szembeni erőszak, ide értve a szexuális erőszakot is, és a fegyveres konfliktusokban érintett gyermeket. E politikák végrehajtása érdekében a Bizottság 25 millió eurót használ fel a "Befektetés az emberekbe” című tematikus programból a következő területeken kezdeményezések támogatására: gyermekkereskedelem, fegyveres konfliktusokban érintett gyermekek, szexuális és reproduktív egészség, valamint a fiatalok jogai. Az Európai Instrumentum a Demokráciáért és az Emberi Jogokért keretében a Bizottság továbbra is támogatja az EU alapelveit megvalósító projekteket, amelyek a gyermekjogok támogatása és védelme, valamint a fegyveres konfliktusokban érintett gyermekekre vonatkozó elveket. Bár a Lisszaboni Szerződést még nem ratifikáltuk, érdemes megemlíteni, hogy az előírja, hogy a tágabb világgal való kapcsolataiban az Unió hozzájárul az emberi jogok, különösen a gyermekjogok védelméhez. Ennek során az Unió külpolitikájában prioritást ad a feltehetőleg a társadalom legsebezhetőbb csoportja emberi jogai kérdésének.
+<SPEAKER ID="348" NAME="Johan Van Hecke" AFFILIATION="ALDE">
+(NL) Elnök úr, szeretnék köszönetet mondani a biztos úrnak és a Bizottságnak is azokért az erőfeszítésekért, amelyeket valóban megtesznek a gyermekek jogainak lehetséges mértékig történő védelméért. Én azonban szeretném a kérdésemet naprakésszé tenni. Az UNICEF a közelmúltban közzétett egy jelentést, amely rámutat, hogy a múlt héten Kelet-Kongóban 2000-3000 gyermeket rabolt el a milícia és őket szégyenteljes módon a katonai konfliktusban használják fel. Mit gondol a Bizottság, még mit lehetne tenni az ilyen helyzetek elkerülése érdekében? Nagyra értékelem az összes erőfeszítést, és azt is, ami az intézkedési tervben van. Ha azonban a terepen beszél az emberekkel, úgy tűnik, hogy nincs elég ember vagy erőforrás ahhoz, hogy a fegyveres konfliktusokban a gyermekek jogait megvédhessék.
+<SPEAKER ID="349" NAME="Vladimír Špidla">
+a Bizottság tagja. - (CS) Elnök úr, Van Hecke úr, természetes, hogy egy ilyen tragikus és kegyetlen cselekedet felveti a kérdést, hogy még mit tehetnénk. Véleményem szerint, az Európai Bizottság stratégiája koherens és összefüggő a Bizottság számára rendelkező kapacitáson és jogalapon belül. A helyileg előforduló helyzetekkel kapcsolatos intézkedések tekintetében azt hiszem fontos, hogy ott és akkor hozzuk meg a döntést, ahol a kockázat fennáll a Bizottság rendelkezésére álló struktúrákra építve, és a politikai és szervezeti választási lehetőségeknek megfelelően. Ezért önnek igaza van, ahhoz, hogy megvédhessük a gyermekeket a hasonló erőszakkal szemben, mindig szükség van arra, hogy felhasználjuk a meglévő struktúrákat és tevékenységeket ott, ahol az események előfordulnak.
+<SPEAKER ID="350" NAME="Christopher Heaton-Harris" AFFILIATION="PPE-DE">
+Elnök úr, a biztos úr kétségtelenül tudomással bír arról, hogy néhány héttel ezelőtt a McCann család az én választókörzetemből eljött az Európai Parlamentbe. Ezt megelőzően levelezést folytattak Frattini biztossal a gyermekrablásokra vonatkozó sárga riasztó rendszerről. Kíváncsi vagyok, hogy ez a projekt milyen stádiumba jutott a Bizottságon belül most, hogy Frattini úr távozott és a Parlament egy ezt az elképzelést előmozdító írásbeli nyilatkozat aláírásával foglalkozik. Kíváncsiak vagyunk, hogy a Bizottság foglalkozik-e ezzel a kérdéssel, előmozdítják-e és a projektért melyik biztos viseli a felelősséget jelenleg.
+<SPEAKER ID="351" NAME="Andreas Mölzer" AFFILIATION="NI">
+(DE) Folyamatosan azt halljuk a sajtóból, hogy európai, sőt amerikai szervezetek folytatnak emberkereskedést. Ausztriában, Franciaországban és más országokban is örökbefogadási egyesületekről gyanítják a gyermekkereskedelmet. Hosszú ideje számolnak be kétes örökbefogadási eljárásokról, csecsemők szervkereskedelmi esetekről és ezt követően prostitúcióról. Milyen intézkedéseket kíván a Bizottság foganatosítani az ilyen és hasonló ügyek megállítása érdekében?
+<SPEAKER ID="352" NAME="Vladimír Špidla">
+a Bizottság tagja. - (CS) Az első kérdést Frattini biztosnak címezték, aki úgy döntött, hogy visszatér a nemzeti politikába. Jelenleg ez a portfolió kollégám, Barrot biztos felelősségi körébe tartozik, és ő fogja tudni kérdéseit megválaszolni az összes részletekkel az ön által említett projekt előkészítésével kapcsolatban.
+<P>
+A másik nagyon fontos kérdés, a nemzetközi örökbefogadás, rendkívül kényes ügy: semmiképpen sem fogadhatjuk el azt a gondolatot, hogy a nemzetközi örökbefogadás önmagában rossz, mivel sok gyermek számára biztosít alkalmas családot és otthont. Természetesen az is igaz, hogy a nemzetközi örökbefogadás peremén találkozunk olyan módszerekkel és politikákkal, amelyek veszélyesek és megvetendők. Mindenesetre ami az Európai Bizottság kompetenciáit illeti, a tagállamok feladata olyan intézkedések elfogadása, amely megakadályozza a visszaélést a nemzetközi örökbefogadással. Ez természetesen vonatkozik az Osztrák Köztársaságra is. Szeretnék rámutatni, hogy a nemzetközi örökbefogadás szabályai nem egységesek minden vonatkozásban az Európai Unióban, és minden egyes ország saját nemzeti szabályait fogadja el a nemzetközi gyermekvédelmi egyezmények keretében; ezek a nemzeti szabályok módosíthatók és többféleképpen javíthatók. Hölgyeim és uraim, szeretném megismételni, hogy elvben a nemzetközi örökbefogadás sok gyermeknek lehetőséget ad a család és a normális élet megtalálására, ugyanakkor azonban nagyon érzékeny terület, ami a tagállami hatáskörbe tartozik.
+<P>
+II. rész
+<SPEAKER ID="354" NAME="Elnök">
+
+<P>
+Tárgy: Társadalombiztosítási reformok Görögországban
+<P>
+A tanácsi határozatok és a bizottsági dokumentumok ismételten utalnak a tagállamok társadalombiztosítási rendszerei modernizációjának és reformjának, a nyugdíjkorhatár kiigazításának szükségességére, valamint a korai nyugdíjba vonulás gazdaságra és társadalomra gyakorolt negatív hatásaira.
+<P>
+Tanácsadói minőségben részt vesz-e a Bizottság e kiigazítási folyamatban, és értékeli-e a tagállamok új jogalkotási intézkedéseit?
+<P>
+A görög társadalombiztosítási rendszer a közelmúltban végrehajtott reformja a nemzeti kompetencia körébe tartozik. Ennek ellenére is értékeli-e ezt a reformot a Bizottság?
+<SPEAKER ID="355" NAME="Vladimír Špidla">
+a Bizottság tagja. - (CS) Elnök úr, hölgyeim és uraim, a Bizottság ismeri azokat a demográfiai kérdéseket, amelyekkel a nyugdíjrendszerek szembesülnek. Mivel a 70-es évek óta csökken a születési ráta, és mert az emberek hosszabb ideig élnek, egyre kisebb számú munkavállalási korú ember kényszerül arra, hogy egyre nagyobb számú ezen a korcsoporton kívül eső embert támogasson. Amint önök is tudják, az Európai Közösséget létrehozó Szerződés szerint a szociális biztonság a tagállamok illetékességi körébe tartozik. A Bizottság ezért nem avatkozik be a tagállamok nyugdíjrendszereibe, még tanácsadói szerepe sincs a nemzeti kiigazításokkal kapcsolatban. Ezért van az, hogy a tagállamok és a Bizottság megállapodtak abban, hogy a szociális védelem és a társadalmi befogadás területén a koordináció nyitott módszere alapján működnek együtt, ami azt jelenti, hogy a Bizottság és a Tanács közös célokat tűz ki, a tagállamok beszámolnak e célokról, és a Bizottság összeállítja az eredményeket egy olyan jelentésben, amelyet azután a Tanács fogad el.
+<P>
+A tagállamok a nemzeti stratégiai jelentéseket első ízben 2002-ben nyújtották be, másodszorra 2005-ben. A második körben benyújtott jelentéseket a Bizottság az Európai Tanács által 2006-ban elfogadott "Közös jelentés a szociális védelemről és társadalmi befogadásról” című anyagban összegezte. Az értékelés azt mutatja, hogy bár a közelmúlt reformjai hangsúlyosabb ösztönzőket hoztak létre ahhoz, hogy az emberek tovább maradjanak a munka világában, további intézkedésre van szükség a magasabb foglalkoztatási arányok elérése érdekében, különösen a nők és az idősebb munkavállalók körében. A magasabb foglalkoztatási arányok elérése a legjobb módja annak biztosításának, hogy a nyugdíjrendszer kielégítő és fenntartható maradjon. Görögországban az időskori szegénység kockázata lényegesen magasabb az átlagnál, 2005-ben a 65 éven felülieknek 26%-át érinti, szemben a 64 éves korúak 19%-ával. A görög nyugdíjrendszert reformálni kell, hogy megfelelő és fenntarthatóbb legyen.
+<P>
+Reformokra van szükség arra ösztönözve az idősebbeket és a nőket, hogy többet és tovább dolgozzanak. A nők alacsony munkaerőpiaci részvételét tekintve meg kell állapítanunk, hogy olyan politikák megvalósítására van szükség, amellyel magasabb foglalkoztatási arányokat lehet elérni a nők körében, hogy biztosíthassuk, hogy a nyugdíjrendszerek hosszútávon is kielégítőek és fenntarthatóak legyenek. Mivel a nyugdíjrendszerek már most is pénzügyi nehézségekkel birkóznak, az idősek közötti szegénység a jövőben is probléma lesz mindaddig, amíg azok, akik az alapnyugdíj rendszerben még nem vesznek részt, megszerzik a jogosultságot a nyugdíj igénylésére hosszú idő után.
+<P>
+Várhatóan a nemzeti stratégiai jelentéseket legközelebb 2008-ban fogják elkészíteni. A Bizottság elkészíti a tagállamokban bekövetkezett fő fejlemények összegzését. Ez alapot ad majd a Közös jelentéshez a szociális védelemről és társadalmi befogadásról, amelyet 2009-ben mutatunk be.
+<SPEAKER ID="356" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Elnök úr, biztos úr, köszönöm az informatív válaszát. Először hadd érintsem az anyák korai nyugdíjba vonulását azon az alapon, hogy kiskorú gyermekeik vannak akkor, amikor nyugdíjba vonulnak. Görögországban a korai nyugdíjba vonulás korhatára 50 év volt, ezt a jövő generáció tekintetében 55 évre emelték, ez azonban nem áll a gyermekes anyák esetére. Ön a Bizottság szemszögéből illetve összehasonlítva azzal, amit más tagállamokról tud, hogyan értékeli ezt a korhatárt?
+<SPEAKER ID="357" NAME="Vladimír Špidla">
+a Bizottság tagja. - (CS) Amint már kezdetben is említettem, az Európai Közösséget létrehozó Szerződés szerint a nyugdíjrendszerek általános struktúrája az egyes tagállamok felelősségi körébe tartozik. A tagállamok eltérő módszerekkel állapítják meg a nyugdíjkorhatárt. A legtöbb országban ez a korhatár 65 év, de vannak olyan országok, ahol a nyugdíjkorhatár magasabb, és vannak olyanok, ahol alacsonyak. Ugyanez vonatkozik a nők nyugdíjazására is: az egyes tagállamokban meghozott határozatok és politikai viták alapján eltérő nyugdíjkorhatárt állapítanak meg. A Bizottság által támogatott alapelv, amely a Szerződésben is szerepel, hogy ezek a rendszerek semmiképpen sem lehetnek diszkriminatívak. Ha ez a feltétel teljesül, teljes mértékben a tagállam felelőssége a nyugdíjkorhatár megállapítása. Ezért nem kívánom részletesen kommentálni az egyes tagállamokban megállapított eltérő nyugdíjkorhatárokat.
+<SPEAKER ID="358" NAME="Elnök">
+
+<P>
+Tárgy: Az ifjúsági és hosszú távú munkanélküliség elleni küzdelem Európában
+<P>
+Tudna az Európai Bizottság egy átfogó nyilatkozatot tenni, amely leírja, hogy ebben az évben milyen új kezdeményezései vannak az ifjúsági és hosszú távú munkanélküliség elleni küzdelem érdekében Európában, és különösen, hogy milyen programokkal biztosítja, hogy a munkanélküliek új informatikai készségeket tanulhassanak meg?
+<SPEAKER ID="359" NAME="Vladimír Špidla">
+a Bizottság tagja. - (CS) Elnök úr, hölgyeim és uraim, a Bizottság aggasztónak találja a tagállamokban a fiatalok körében mért igen magas munkanélküliségi rátát, ami 2007 végén 15,2% volt, azaz szinte duplája az általános munkanélküliségi rátának. A Bizottságot ugyancsak aggasztja a hosszú távú munkanélküliség folytonossága, ami az összes munkanélküli ember majdnem felét (45%-át) érinti, bár hangsúlyoznom kell, hogy a közelmúltban a hosszú távú munkanélküliség lényeges csökkenésének lehettünk tanúi. Ez a csökkenés tagállamról-tagállamra változik, de az egész EU-ban megfigyelhető a lefelé mutató tendencia.
+<P>
+A helyzet azonban így is aggasztó. Sok fiatal úgy fejezi be iskolás éveit, hogy nem szerzi meg a munkaerőpiacra való belépéshez szükséges készségeket. Ennek az az oka, hogy az Európai Unióban hat fiatal közül egy lemorzsolódik az iskolából, és négy közül egy nem fejezi be a középfokú iskoláit.
+<P>
+A tagállamok a fiatalok körében a foglalkoztatási arány javítására tett jelentős erőfeszítései ellenére az országok mintegy fele még nem érte el azt a célt, hogy a fiatal munkanélküliek megkaphassák az "új kezdet” esélyét hat hónapon belül, ez volt a cél 2007-re, illetve négy hónapon belül, ami a cél 2010-re.
+<P>
+Elsősorban a tagállamok felelősek azoknak az intézkedéseknek a végrehajtásáért, amely csökkentheti az ifjúsági munkanélküliséget és a hosszú távú munkanélküliséget. Az Európai Uniónak kiegészítő szerepe van a tagállamok nemzeti foglalkoztatási politikáinak koordinálásával, és az Európai Szociális Alapból történő pénzügyi támogatás nyújtásával.
+<P>
+Amint önök is tudják, a Bizottság évente elfogadja a foglalkoztatási stratégiák előrehaladásáról szóló éves jelentését. 2008. márciusi ülésén az Európai Tanács számos, a tagállamoknak címzett ajánlást fogadott el: ezek közül 17 ajánlás érintette az oktatás és a szakképzés területét, míg 15 a foglalkoztatásét.
+<P>
+Úgy vélem három cselekvési irány létfontosságú a fiatalok munkaerőpiaci integrációjának javítása érdekében:
+<P>
+1. Az oktatási és szakképzés javítása: nagyon fontos, hogy az erőfeszítéseinket a kulcskészségek kifejlesztésére összpontosítsuk gyermekkorban, illetve arra, hogy létrehozzuk a támogató mechanizmusokat, amelyek megakadályozzák a fiatalok iskolából való lemorzsolódását. A 2007. óra működő Élethosszig tartó tanulás programja hozzájárul az Európai Uniónak mint fejlett tudásalapú társadalomnak a fejlődéséhez azzal, hogy támogatást biztosít az oktatási rendszerek és a szakképzés modernizálásához és kiigazításához a tagállamokban.
+<P>
+2. A társadalmi befogadás támogatása: ebben az összefüggésben külön figyelmet kell fordítani a legsebezhetőbb fiatalok helyzetére és a gyermekszegénység megszüntetésére.
+<P>
+3. A földrajzi mobilitás javítása: jelenleg a munkanélküliség együtt jár a munkaerőhiánnyal a munkaerőpiacokon. Ez arra késztette a Bizottságot, hogy támogassa a tagállamok közötti együttműködést, és különösen, hogy ösztönözze a fiatalok nagyobb mobilitását az Európai Unióban.
+<P>
+Munkaerőpiaci politikái végrehajtása során a tagállamok pénzügyi támogatást kapnak a strukturális alapokból és különösen az Európai Szociális Alapból.
+<P>
+A tagállamoknak a 2007-2013-ig tartó időszakra 75 milliárd euró áll rendelkezésükre. Az Európai Szociális Alap rendkívül fontos. Az Európai Unióban a munkanélküliek mintegy 25%-át érintette valamilyen módon ESZA-projekt 2007-ben. Ez azt jelenti, hogy évente támogatást nyújtunk mintegy 1 millió kirekesztéstől szenvedő embernek, beleértve a fiatalokat is. Évente mintegy 2 millióan lépnek be a munkaerőpiacra az után, hogy támogatást kaptak az Európai Szociális Alapból.
+<P>
+Bár az Európai Regionális Fejlesztési Alap nem önmagukban a fiatalokra koncentrál, társfinanszíroz olyan projekteket, amelyek közvetlenül érintik a fiatalokat, ilyen például az oktatási és szakképzési infrastruktúra, az egyetemi kutatás és a vállalkozások, nevezetesen a kis- és közepes vállalkozások támogatása. A Régiók a gazdasági változásért kezdeményezésben a Bizottság támogatja a legjobb gyakorlat cseréjét, a "Marginalizált fiatalok integrálása” regionális hálózaton keresztül.
+<P>
+Hölgyeim és uraim, az ifjúsági munkanélküliség és a hosszú távú munkanélküliség elleni küzdelem prioritást élvez Európában és a tagállamokban egyaránt. A fiatalok integrálása a munka világába és a társadalomba, lehetőségeik jobb kihasználása az erős és fenntartható növekedés újraélesztésének legfontosabb előfeltételei Európában.
+<SPEAKER ID="360" NAME="Eoin Ryan" AFFILIATION="UEN">
+Köszönöm nagyon átfogó válaszát.
+<P>
+Önök ösztönzik-e a tagállamokat illetve gyakorolnak-e rájuk nyomást, hogy felhasználják a legjobb gyakorlatot vagy a legjobb gyakorlat példáit egymás országaiból, megkísérelve a hosszú távú munkanélküliség korlátozását a fiatalok körében? Biztos vagyok benne, hogy néhány ország, mondjuk úgy sikeresebb, mint a többi, és kíváncsi vagyok, hogy vannak-e olyan módszerek, amelyek révén az országok összekapcsolódhatnának egymással, hogy tanuljanak egymás példáiból.
+<P>
+A múltban kritizáltam a kérdésekre adott válaszokat, így most azonban gratulálok önnek ehhez a nagyon átfogó válaszhoz.
+<SPEAKER ID="361" NAME="Vladimír Špidla">
+a Bizottság tagja. - (CS) Ryan úr, az információ és a jó gyakorlat cseréje egyike az Európai Unió nagyszerű eszközeinek. Ez állandó része a koordináció nyitott módszerének és állandó része a mi munkánknak; szeretném hangsúlyozni, hogy a szlovén elnökség például az elnökség egyik konferenciáját az ifjúsági foglalkoztatás kérdésének szentelte. Ez tipikus és ideális lehetőség az egyes tagállamok által követett különféle módszerek összehasonlításának. Önnek igaza van: néhány tagállam gyorsabban és hatékonyabban talál megoldásokat bizonyos kérdésekre, mint mások. Következésképpen a tapasztalatok és gyakorlati ismeretek folyamatos cseréje és összehasonlítása nagyon hatékony módszer a haladás elérésében.
+<SPEAKER ID="362" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Az új készségek, az internet, a technológia és a hasonlók minden bizonnyal nagyon fontosak a munkaerőpiacon. Mindannyian megtanultuk azonban, hogy még a fiatalkorúak munkanélküliségében is gyakran a kulcskészségeknek, az írásnak, olvasásnak és a számolásnak a hiánya az igazi indoka annak, hogy a fiatalok miért nem tudnak eleve belépni a munkaerőpiacra. Vannak-e ezen a területen konkrét fókuszpontok?
+<SPEAKER ID="363" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+Elnök úr, biztos úr, ön az ifjúsági munkanélküliségről beszélt, illetve az előző kérdéssel kapcsolatban a nők alulfoglalkoztatottságáról.
+<P>
+Szándékában áll-e a Bizottságnak javaslatok benyújtása a családi élet és a munka összehangolásáról, különös tekintettel az anyaságra és a szülői szabadságra?
+<SPEAKER ID="364" NAME="Vladimír Špidla">
+a Bizottság tagja. - (CS) Engedje meg, hogy röviden visszatérjek arra, amit az elején elmondtam. Jelenleg a Bizottság, különösen kollégám Figeľ biztos úr munkáján keresztül, a lemorzsolódási arányokra és az alapkészségek megszerzésére összpontosít. Önnek igaza van, létfontosságú, hogy az emberek megszerezzék az alapkészségeket, illetve a tanulás képességét korai gyermekkorban és serdülőkorban, mert ez megkönnyíti számukra a sikeres karriert később az életükben. A mi programunkban, például azokban, amelyeket az európai szociális alap finanszíroz, valami olyasmire koncentrálunk, amit én "második esélynek” neveznék, azaz lehetőséget akarunk adni azoknak a gyermekeknek, akiknek voltak problémái (és sokan vannak ilyenek), hogy visszamehessenek a formális oktatásba, és befejezhessék iskoláikat. Ez egyike a Bizottság fókuszpontjainak, mert mint már említettem, ez kulcsfontosságú ügy.
+<SPEAKER ID="365" NAME="Elnök">
+
+<P>
+Tárgy: Az EU megkülönböztetés ellenes jogszabályai
+<P>
+A hatályos EU jogszabályok szerint az EU polgárai csak a foglalkoztatás és a szakképzés terén részesülnek kor, vallás vagy hit, rokkantság és szexuális orientáció miatti megkülönböztetés elleni védelemben, míg az oktatás, a szociális védelem, az árukhoz és szolgáltatásokhoz való hozzáférés terén a diszkriminációval kapcsolatos jogszabályok csak faji vagy etnikai származás alapján alkalmazandók.
+<P>
+Mivel a jogszabályok már több kategóriára is kiterjednek az áruk és szolgáltatások terén, megfontolta-e a Bizottság azt, hogy ez milyen nem szándékolt következményekkel járhat?
+<P>
+Például: bármilyen új jogszabályban milyen biztosítékokkal kívánja a Bizottság biztosítani, hogy a támogatások csökkentése ne érje hátrányosan az időseket és a kedvezményezett csoportokat?
+<SPEAKER ID="366" NAME="Vladimír Špidla">
+a Bizottság tagja. - (CS) Elnök úr, hölgyeim és uraim, amint tudják, az Európai Unió tág keretet hozott létre a megkülönböztetés elleni küzdelem érdekében és büszke lehet az elért eredményekre. Néhány csoport azonban magasabb szintű védelmet élvez, mint mások. Konkrétan ez azt jelenti, hogy az embereket védelemben részesítjük a kor, rokkantság, szexuális orientáció vagy vallás miatti megkülönböztetés ellen, de ebben a komplex védelemben csak a munkahelyen részesülnek. Csak a faji vagy etnikai származás, illetve a nemek szerinti diszkrimináció elleni védelem hatóköre tágabb.
+<P>
+Amint a Bizottság 2008. évi jogalkotási és munkaprogramjában bejelentettük, a Bizottság az Európai Közösséget létrehozó Szerződés 13. cikke alapján irányelvre irányuló javaslatot tervez, amely végrehajtaná az egyenlő bánásmód elvét a foglalkoztatáson kívül is, és tágítaná a meglévő EU jogi keretet. A részletekről még döntenünk kell: például várjuk egy hatástanulmány eredményeit, amely most készül, és az eredmények nemsokára rendelkezésünkre állnak majd. A Bizottság azonban érti a diszkriminációmentesség és a kedvező elbánás elvei közötti egyensúly elérésének szükségességét; bizonyos körülmények között azonban az utóbbi indokolható.
+<P>
+A tagállamokban a kedvező elbánásnak többféle típusa létezik; speciális bánásmódot kínálnak bizonyos csoportoknak konkrét okok miatt a nélkül, hogy megkülönböztetőek lennének. A kedvező elbánásnak egy példája az idősek ingyenes utazása közösségi közlekedésben: ez támogatja mobilitásukat. A Bizottság ezeket a gyakorlatokat nem tekinti törvényellenesnek, ha társadalmi, oktatási, kulturális vagy más indokok miatt megvan a nemzeti jogban a legitim alapjuk.
+<SPEAKER ID="367" NAME="Robert Evans" AFFILIATION="PSE">
+Elnök úr, szeretnék köszönetet mondani a biztosnak a nyilatkozata végén adott biztosítékért, hogy a Bizottság nem kívánja, hogy az általa "kedvező elbánásnak” nevezett hátrányt szenvedjen. Ezt üdvözlendőnek tartom. Ha az általa leírt munka folytatódik, és a megfelelő egyensúlyt tudja elérni, azt hiszem, azt az Európai Unió valamennyi országában üdvözölni fogják. Köszönetet mondok neki ezért a biztosítékért.
+<P>
+Amíg enyém a szó, egy kapcsolódó ügyről szólva, tudja-e a biztos úr, hogy mikor fogják kiadni az ENSZ Fogyatékkal Élők Jogairól Szóló Egyezményhez való csatlakozásról szóló határozatra irányuló javaslatot, ami természetesen ugyanebbe a kategóriába tartozik?
+<SPEAKER ID="368" NAME="Vladimír Špidla">
+a Bizottság tagja. - (CS) Az ENSZ Fogyatékkal Élő Személyek Jogairól Szóló Egyezményét a luxemburgi elnökség idején fejezték be, hála többek között, az Európai Unió koordinált erőfeszítéseinek is. Biztos vagyok benne, hogy ezt az egyezményt nem kötötték volna meg a mi erőfeszítéseink nélkül. Természetesen az egyezmény ratifikálása a tagállamok felelősségébe tartozik, és az Európai Unió a tagállamokkal folytatott tárgyalásai révén kívánja a ratifikációs folyamatot támogatni és felgyorsítani.
+<P>
+Ami az ön kérdését illeti, nevezetesen, hogy mikor kívánom közzétenni a javaslatot, az ideiglenes határidő ez év június vége, de ez valóban egy ideiglenes határidő.
+<SPEAKER ID="369" NAME="Jim Allister" AFFILIATION="NI">
+Elnök úr, szeretném a Bizottság figyelmét a vallási diszkriminációra irányítani, és arra a megdöbbentő tényre, hogy annak ellenére, hogy az EU védelmet biztosít a vallási alapú megkülönböztetés ellen, az Európai Unióban van egy hely, ahol a vallási alapú megkülönböztetés engedélyezett. Sajnálatos módon, az én észak-írországi választókörzetemben az EU jogszabálytól való derogációval - melyet az EU engedélyezett - kifejezetten deklarálták, hogy törvényes a protestánsokkal szembeni diszkrimináció az Észak-Írország rendőri szolgálatába való felvétel során. Meg tudja mondani a biztos úr itt nekünk, hogy ennek a lehetetlen helyzetnek mikor vetnek véget, és mikor fogják az én választóimnak azokat a jogait, amelyeket mások élveznek, visszaállítani?
+<SPEAKER ID="370" NAME="Philip Bushill-Matthews" AFFILIATION="PPE-DE">
+Nagyon röviden, engem megnyugtatott, mint ahogy a kérdés feltevőjét, Robert Evanst is, az, amit a biztos bármiféle jövőbeni jogszabállyal kapcsolatban tenni kíván. De a kérdés kifejezetten a nem szándékolt következmények potenciális veszélyeiről szólt.
+<P>
+Tekintettel e terület érzékenységére, meg tudná erősíteni a biztos, hogy mielőtt bármiféle jogszabályt ezen a területen a végleges szintig kidolgoznak, előtte kifejezetten szigorú és jó előre elkészített hatásvizsgálatot végeznek?
+<SPEAKER ID="371" NAME="Vladimír Špidla">
+a Bizottság tagja. - (CS) A hatályos irányelvek rendelkeznek a vallásos közösségekre és a vallásos hitekre vonatkozó speciális szabályokról ebben az összefüggésben. Amikor a Bizottság figyelemmel kíséri az intézkedéseket, egyúttal figyeli a rendelkezések végrehajtását is. Ez egy bonyolult és rendkívül érzékeny ügy, de általánosságban szólva, rá az európai irányelvek az irányadók, és a Bizottság meg tudja ítélni, hogy egyes tagállamok a jogszabályt helyesen hajtják-e végre vagy megsértik a diszkrimináció tilalmának elvét.
+<P>
+Nagyon egyszerű választ tudok adni a másik kérdésre. Az egyenlő bánásmód és a diszkrimináció tilalmának elve alapvető európai érték, amelyet meg kell valósítani, és ennek során fel kell használni valamennyi, az Európai Unió rendelkezésére álló instrumentumot. Más részről, egyértelmű, hogy amikor döntéseket hozunk, amelyek oly sok ember számára lényegesek, vizsgálnunk kell a következményeket, és szükségünk van hatásvizsgálatokra. Az Európai Bizottság ezt a módszert szigorúan alkalmazza valamennyi területen, beleértve az esélyegyenlőség, az alapjogok és a diszkrimináció tilalmának területét is.
+<SPEAKER ID="372" NAME="Mario Mantovani" AFFILIATION="PPE-DE">
+(IT) Köszönöm, Elnök úr, nem teszek fel további kérdést. Marie Panayotopoulos-Cassiotou azonban kifejezetten az anyaságra és a szülői szabadságra kérdezett rá. Megengedné, hogy a biztos válaszoljon erre?
+<SPEAKER ID="373" NAME="Elnök">
+Mantovani úr, már lezártuk e kérdések megválaszolására szánt időt, és ezért egyértelműen nem tehetjük meg. A Bizottság hallotta a kérdést, és ha helyesnek tartja, akkor írásban megválaszolja. Panayotopoulos-Cassiotou asszony ezt megemlíthette volna, amikor egy perccel ezelőtt felszólalt.
+<P>
+51-től 61-ig a kérdéseket írásban fogják megválaszolni. A 62. és a 63. kérdést külön nem tárgyaljuk, mert témájukkal e részülés későbbi részében foglalkozunk.
+<SPEAKER ID="374" NAME="Elnök">
+
+<P>
+Tárgy: Halászati megállapodás Marokkóval
+<P>
+Értékelte-e a Bizottság az EU hajói által megtett halászati utak eredményeit a legutóbbi Marokkóval megkötött halászati egyezmény alapján?
+<SPEAKER ID="375" NAME="Joe Borg">
+a Bizottság tagja. - Elnök úr, tiszteletreméltó képviselők, szeretnék köszönetet mondani a tiszteletreméltó képviselőnek, Medina Ortega úrnak ezért a kérdésért, ami lehetőséget ad számomra, hogy kifejtsem a Bizottság álláspontját a Marokkóval megkötött halászati megállapodás fontos kérdéséről.
+<P>
+A Bizottság figyelemmel kíséri az EK-Marokkó halászati partnerségi megállapodást. A megállapodás végrehajtásának első évére vonatkozó adatok még nem véglegesek, mivel az első év csak 2008. február 28-án ért véget, és hathónapos késedelem van a halászati műveletek végrehajtása és az adatok továbbítása és elemzése között. E késedelem ellenére is, a már rendelkezésünkre álló adatok a halászati lehetőségekről pozitív képet mutatnak a teljes halászati lehetőség mintegy 80%-os kihasználtságával.
+<SPEAKER ID="376" NAME="Manuel Medina Ortega" AFFILIATION="PSE">
+(ES) Köszönöm a biztosnak a válaszát, és elismerem, hogy nehéz ilyen hamar az adatokat megszerezni, de én történetesen halászati vidék közelében élek, és a halászok elmondták nekem, hogy strukturális problémák adódnak ezen a halászati területen az ott hagyott hálók és más halászati felszerelés túlzott megjelenése miatt, ami rendkívül megnehezíti a halászatot.
+<P>
+Nem tudom, hogy a biztos ismeri-e azokat a strukturális nehézségeket, amelyek a legutóbbi megállapodás óta a szaharai halászati területen megjelentek. Ez egy olyan időszak volt, amikor az európai halászflotta nem volt jelen, de úgy tűnik, hogy ez a halászati feltételek romlását okozta a terület védelmének hiánya miatt.
+<SPEAKER ID="377" NAME="Joe Borg">
+a Bizottság tagja. - Ha egy kicsit pontosabb lehetek, a fő kategóriák végrehajtásának első évében a kisméretű kategóriák és a tonhal esetében a halászati kihasználtsági arány több mint 90%-os volt, és az ipari mélytengeri halfajták esetében 80% körüli.
+<P>
+A kihasználtsági arány a tengerfenéken élő fajok esetében azonban sokkal rosszabb. E tekintetben a kihasználtság csak 23% körül van. Ez főleg bizonyos ön által is jelzett problémáknak tulajdonítható, különösen a kötelező kikötésre vonatkozó kérdésnek, - ennek a beépítéséhez a halászati partnerségi megállapodásba Marokkó ragaszkodott - és a közösségi hajók fedélzetén a marokkói tengerészek toborzását illető problémának.
+<P>
+Mintegy két héttel ezelőtt magam is Marokkóban voltam, és volt alkalmam megvitatni ezeket a gyermekbetegség problémákat, ahogyan hívhatjuk őket, a marokkói miniszterrel tekintettel a Marokkóval megkötött halászati partnerségi megállapodás végrehajtására. Azt hiszem, általános az egyetértés abban, hogy vissza kell térnünk a kötelező kikötések kérdésére, mivel a halászati partnerségi megállapodás szándéka az volt, hogy ezekre a kikötésekre re-export céljára lenne szükség. A közösségi hajóknak a Marokkóban kifogott halat partra kell vinniük, hogy feldolgozás után azokat reexportálják.
+<P>
+A valóságban azonban a partra vitt halat most helyi fogyasztásra használják fel. Ez azt jelenti, hogy mivel a halat a területi határon kívül fogják ki, ezért azt úgy tekintik, hogy Marokkóba importálják, és ezért arra magas vámot vetnek ki.
+<P>
+Én felvetettem ezt a kérdést, és van egyetértés, így azt remélem, hogy nagyon rövid időn belül megoldást találunk rá. Hasonlóképpen a marokkói tengerészek toborzása tekintetében is felvetettük a kérdést a marokkói hatóságoknál - magánál a miniszternél - és a jegyzékbe felvett személyek száma nőtt, akik közül az Európai Közösséghez tartozó hajók tulajdonosai választhatnak.
+<P>
+Mi megpróbáljuk ezt a jegyzéket tovább bővíteni, hogy amennyire csak lehetséges, csökkenthessük azt a kényelmetlenséget, amit egy nagyon korlátozott névjegyzék okoz, amelyről a hajótulajdonosok kiválaszthatják azokat a halászokat, akik hajóik fedélzetén dolgozhatnak.
+<SPEAKER ID="378" NAME="Rosa Miguélez Ramos" AFFILIATION="PSE">
+(ES) Elnök úr, a halászok veszélyes világában szeretnék érdeklődni a Playa de Bakio tonhalfeldolgozó sorsa felöl, amelyet vasárnap Szomália partjainál térítettek el 26 matrózzal a fedélzetén, akik közül nyolc galíciai, öt baszk és 13 afrikai.
+<P>
+Szeretném megkérdezni öntől biztos úr, hogy a Bizottság mit tesz ebben az ügyben, cselekedett-e már vagy szándékszik-e cselekedni, mert nagyon aggaszt bennünket, hogy mi történhet azokkal, akik még mindig e halfeldolgozó hajó fedélzetén vannak.
+<SPEAKER ID="379" NAME="Joe Borg">
+a Bizottság tagja. - Arra a konkrét ügyre vonatkozóan, amelyre Miguélez Ramos asszony utalt, szeretném elmondani, hogy a mai napon a Bizottság kiadott egy nyilatkozatot, amelyben kifejezi aggodalmát a spanyol halászhajó eltérítésével kapcsolatban a Szomália partjai melletti nemzetközi vizeken.
+<P>
+A Bizottság első számú gondja a fedélzeten tartózkodó spanyol halászok biztonsága. Ezután kifejti, hogy helyteleníti a kalózkodás és a fegyveres rablás minden esetét. A szomáliai hatóságok nem tudják megfelelően biztosítani a Szomália partjai mentén levő vizek biztonságát. Ennek eredménye a súlyos probléma a kalózkodással.
+<P>
+A nyilatkozat azzal zárul, hogy a Bizottság azon a nézeten van, hogy az EU nem biztonságos tengeri zónákban hajózó kereskedelmi és halászhajói védelmének koordinált megközelítése jogosan képezheti az európai tengerpolitika részét, de ez kapcsolódik az európai biztonsági és védelmi politikához is. Mindenesetre ez egy olyan ügy, amelyben a Tanácsnak kell határoznia.
+<SPEAKER ID="380" NAME="Elnök">
+
+<P>
+Tárgy: Halászok kis hajókkal
+<P>
+Tud-e a Bizottság a Kishajós Halászok Egyesületének létrejöttéről az Egyesült Királyságban az ez évi halászati kvóták meghatározása után? Tudatában van-e a Bizottság annak, hogy az Egyesült Királyság egyes területein ezek az új kvóták azt jelentették, hogy néhány kisebb flotta hajónként és naponta csak egyetlen tőkehalat foghat ki? Bár az Egyesült Királyság kormányának a feladata a döntés a halászati kvóták kiosztásáról a nagy- és a kishajók között, elismeri-e a Bizottság a kis flották helyi és hagyományos fontosságát, miközben e flották közül néhány fenntarthatósági kitüntetést kapott? Nem gondolja a Bizottság, hogy többet kellene tenni Európában az ő védelmük érdekében? És ha igen, hogyan?
+<SPEAKER ID="381" NAME="Joe Borg">
+a Bizottság tagja. - Szeretnék köszönetet mondani a tiszteletreméltó képviselőnek, Bowles asszonynak a kérdéséért, ami lehetőséget ad számomra, hogy kifejtsem a Bizottság álláspontját a kisméretű hajók fontos kérdéséről.
+<P>
+Tudom, hogy létrejött egy egyesület, amely összehozza az Egyesült Királyság flottájában a 10 méter hosszúság alatti hajók tulajdonosait. Azt is tudom, hogy az alacsony tőkehalkvóta-allokáció ennek az egyesületnek a gyökere, mivel az Egyesült Királyság tőkehalkvótájában a flotta e részének részesedése az egésznek mindössze 3%-át teszi ki annak ellenére, hogy a flotta e részének viszonylagos fogási potenciálja sokkal nagyobb lehet.
+<P>
+Amint ön nagyon helyesen rámutatott a kérdésében, a tagállamok - ebben az esetben az Egyesült Királyság - felelnek a halászati lehetőségek szétosztásáért hajóik között. Hozzátenném, ugyancsak a tagállamok felelnek a flotta méretének az ország rendelkezésére álló halászati lehetőségekhez való igazításáért függetlenül attól, hogy az kis vagy nagy hajóból áll.
+<P>
+Hadd hangsúlyozzam, hogy a Bizottság elismeri a kisméretű flottát, illetve pontosabban a 12-méteres hosszúságúnál kisebb hajók speciális körülményeit, amelyek nem alkalmaznak vonóhálót. A flotta e része számára, az Európai Halászati Alap nagyon kedvező pénzügyi keretet biztosít, ami lehetővé teszi a tagállamok számára, hogy intézkedéseket fogadjanak el a védelmükre.
+<P>
+Ezzel együtt is szeretnék rámutatni arra, hogy az Egyesült Királyságban a 10 méteresnél kisebb hajókra vonatkozó rendelkezésemre álló információ alapján jelzések vannak a tekintetben, hogy a flottának ez a szektora a közelmúltban olyan fogási kapacitást fejlesztett ki, amely messze meghaladja a számára hagyományosan kiosztott halászati lehetőségeket. E probléma megoldása az Egyesült Királyság hatóságainak kezében van.
+<SPEAKER ID="382" NAME="Sharon Bowles" AFFILIATION="ALDE">
+Úgy sejtem, hogy ebből sok minden van úgy, ahogyan gyanítottam. De talán ön még egy kis problémát meg tudna oldani nekem. Időről-időre azt mondják nekem, hogy az Angol Csatornában található tőkehalat nem ismerik el hivatalosan őshonos fajként.
+<P>
+Ha ez így van, akkor Anglia délkeleti partjain a halászokat még inkább bosszantani fogja, ha azt mondják nekik, hogy nem foghatják ki azt a tőkehalat, amely elméletileg nincs is, bár a tények azt mutatják, hogy az állomány ott bőséges.
+<P>
+Meg tudná ezt oldani számomra, és tudatná velem, hogy a Csatornában lévő tőkehalat milyen mértékben vették figyelembe a legutóbbi EU statisztikákban? Tudom, hogy valószínűleg nem tudott mindezzel az információval előre felkészülni, így válaszát írásban is elfogadom, ha szükséges.
+<SPEAKER ID="383" NAME="Joe Borg">
+a Bizottság tagja. - Nem állnak rendelkezésemre az adatok, de mindenképpen megvizsgálom és írásban fogom ön tájékoztatni.
+<P>
+Ami a tőkehalat illeti, szeretném hangsúlyozni, hogy most vagyunk a tőkehalállomány helyreállítási terve felülvizsgálatának folyamatában, ami az Egyesült Királyságot övező tengerek nagy részét lefedi.
+<P>
+A Tanácsban a múlt hétfőn nyújtottam be a javaslatot az új tőkehal helyreállítási tervre, amikor az egyébként az Ír-tengert is lefedni szándékozó tervvel kapcsolatos nézetek kezdeti cseréjére is sor kerül.
+<P>
+Így tovább kívánjuk bővíteni a tőkehal helyreállítási terv hatókörét. Ezzel együtt megpróbáljuk finomhangolni azt, hogy érzékenyebben reagálhasson a különféle vizekben található realitásokra, így ha van a közösségi vizeknek olyan adott területe, ahol bőségesebb a tőkehalállomány, bizonyos intézkedéseket lehet tenni. Más területeken, ahol a tőkehalállomány sokkal rosszabb állapotban van, szigorúbb intézkedésekre van nyilvánvalóan szükség, hogy az állomány helyreállhasson.
+<P>
+A tőkehalállományok általánosságban nagyon rossz állapotban vannak. Mortalitásuk egyike a legrosszabbaknak, és nagyon kemény intézkedésekre van ezért szükség, hogy ezek az értékes állományok helyreálljanak.
+<SPEAKER ID="384" NAME="Elnök">
+
+<P>
+Tárgy: Az ír fehérhúsú halágazat egyharmadának leszerelési programja.
+<P>
+Tudna a Bizottság átfogó nyilatkozatot tenni vázolva, hogy hogyan halad az írországi fehérhúsú halágazat egyharmadának leszerelési programja, ami 60 millió euróba kerül?
+<SPEAKER ID="385" NAME="Joe Borg">
+a Bizottság tagja. - Elnök úr, szeretnék köszönetet mondani a tiszteletreméltó képviselőnek, Ó Neachtain úrnak kérdéséért, mert az lehetővé teszi számomra, hogy foglalkozzam a halászhajók leszerelésének kérdésével.
+<P>
+2007. augusztus 6-i levelükben az ír hatóságok értesítették a Bizottságot a "Halászati erőfeszítés kiigazítás” című állami segélyprogramjukról. A program az ír flotta polivalens vagy merevítőrudas zsákhálós szegmensében regisztrált hajóit kívánja üzemen kívül helyezni, amelyek elsősorban a fehérhúsú halállományt fogják ki, bár a tervben szerepelnek olyan hajók is, amelyek mélytengeri vagy rákfélék állományait halásszák. A program teljes nemzeti költségvetése 66 millió euró. A Bizottság az állami támogatásra vonatkozó szabályok alapján 2007. november 13-án hagyta jóvá a programot. Az ír program azt irányozza elő, hogy támogatás 2009. október 1-ig adható. Az ír hatóságok szerint azonban a programban a kérelmek befogadási határideje 2008. április 30, mely időpont után a program kihasználtsága egyértelműbbé válik.
+<P>
+A Bizottság üdvözli az írországi kezdeményezést, amely megkísérli csökkenteni a halászflotta kapacitását, hogy csökkenjen a meglévő halállományokra nehezedő nyomás. A közös halászati politika központi pillére a halászati kapacitások hozzáigazítása a halászati lehetőségekhez. Ezen kívül az ír rendszer az érzékeny fehérhúsú halállományokra halászó hajók leszerelésének ad elsőbbséget, miközben lehetőséget ad a már most csökkentett kvótákkal, magasabb üzemanyagköltségekkel stb. szembesülő hajótulajdonosoknak, hogy elhagyják az ágazatot. A fennmaradó halászhajó üzemeltetők bizonyára hasznot húznak a vonzóbb megtérülésekből.
+<SPEAKER ID="386" NAME="Seán Ó Neachtain" AFFILIATION="UEN">
+(GA) Elnök úr, szeretnék köszönetet mondani a biztosnak válaszáért és egyetértek, hogy szükség van, és volt is, a hajók leszerelésére a halállományok nem kielégítő szintje miatt.
+<P>
+Én azonban szeretném feltenni a kérdést a biztosnak, hogy van-e a Bizottságnak valamilyen terve vagy javaslata, amely a halászati ágazatban munkahelyüket elvesztők számára lehetőséget adna más pálya megtalálására és úgy, hogy lehetőleg megmaradhassanak hasonló jellegű munkában. Ezeknek az embereknek, akik egész életüket a tengeren töltötték, kevés reménye van arra, hogy máshol munkát találjanak.
+<SPEAKER ID="387" NAME="Joe Borg">
+a Bizottság tagja. - Ami a leszerelt hajók fedélzetén dolgozókat illeti, először is azt szeretném elmondani, hogy az Európai Halászati Alap lehetővé teszi a leszereléshez társuló állandó megszüntetés támogatását. Azonban az már az érintett tagállamtól függ, hogy ezt a kiadási tételt felveszi-e operatív programjába az Európai Halászati Alap által finanszírozandó tételként. Én úgy tudom, hogy Írország úgy tartja, hogy a nemzeti állami juttatási program biztosít kártalanítást a matrózoknak.
+<P>
+Ezzel együtt a leszereléshez kapcsolódó állandó megszüntetés mellett az Európai Halászati Alap (EHA) ugyancsak lehetőséget ad a társadalmi-gazdasági kompenzációra, a diverzifikációra, az átképzésre és a korai nyugdíjba vonulásra. Így lehetséges támogatást nyújtani az EHA-ból ahhoz is, hogy a matrózokat átképezzék más, bár kapcsolódó ágazatokra, lehetőséget adva a diverzifikációra, de arra is, hogy alternatív foglalkoztatást keressenek más ágazatokban. Ismételten hangsúlyoznám, hogy a tagállamnak kell az operatív programot elkészíteni.
+<P>
+A Bizottság jóváhagyja az operatív programot mindaddig, ameddig az megfelel az Európai Halászati Alap paramétereinek, de az érintett tagállamnak kell meghatároznia a tényleges prioritásokat és a tényleges területeket. A Bizottságnak nincs joga ragaszkodni ahhoz, hogy a tagállamok az egyik lehetőséget válasszák és ne a másikat. Mindaddig, ameddig azok az Európai Halászati Alap céljai között szerepelnek, akkor azok elég jók számunkra is.
+<SPEAKER ID="388" NAME="Elnök">
+Mivel szerzője nincs jelen, a 67. kérdés nem tehető fel.
+<SPEAKER ID="389" NAME="Elnök">
+
+<P>
+Tárgy: A közös halászati politika szabályainak súlyos megsértése 2005-ben
+<P>
+Az 1447/1999/EK rendelet szerint, a tagállamok kötelesek évente jelenteni a Bizottságnak a közös halászati politika (KHP) szabályai minden megsértését, és az ezzel kapcsolatban kiszabott bírságokat. A közelmúltban a Bizottság közzétette a közös halászati politika szabályai súlyos megsértéséről szóló hatodik jelentését.
+<P>
+A jelentésben közzétett adatok azt mutatják, hogy a szabálysértések száma nő, miközben az egész EU-ban a kivetett bírságok csökkennek. Konkrétan: 2005-ben 2004-gyel összehasonlítva 8,1%-kal több szabálysértést jegyeztek fel, miközben a szankciók szintje majdnem 45%-kal csökkent. Lényeges eltérések vannak a tagállamok között is, ami a bírság kivetésének körülményeit és a bírságok szintjét illeti.
+<P>
+Kimondhatja-e a Bizottság, hogy a szankcionálás különféle nemzeti rendszerei garantálják az egyenlő versenyt az európai halászok között? Nem gondolja a Bizottság, hogy helyénvaló lenne a KHP szabályai súlyos megsértése esetén a szankcionálás harmonizált rendszerét bevezetni? Hogyan lehetne a halászok bizalmát megerősíteni abban, hogy a KHP szabályait egyenlően alkalmazzák, hogy betartsák a halállományok védelmének szabályait?
+<SPEAKER ID="390" NAME="Joe Borg">
+a Bizottság tagja. - Szeretnék köszönetet mondani a tiszteletreméltó képviselőnek, Gklavakis úrnak az általa felvetett fontos kérdésért, mert ezzel lehetőséget ad számomra, hogy kifejtsem álláspontomat ezzel a kulcsfontosságú kérdéssel kapcsolatban, és érintsem az e területen előkészületben lévő reformot is.
+<P>
+Tudom, hogy lényeges eltérések vannak a tagállamok által a súlyos szabálysértésekért kirótt szankciók tekintetében, ami a jelenlegi ellenőrzési rendszer állandósuló hiányosságaihoz vezet.
+<P>
+Amint ön kérdésében nagyon helyesen rámutatott, a tagállamok által kirótt büntetések nem eléggé elrettentőek, és nem biztosítanak valódi ösztönzést a jogszabályok betartására. Hadd adjak egy példát: 2005-ben az átlagos bírság összege az Európai Unióban nem érte el a 2000 eurót, míg az összegek néhány tagállamban a 98 eurótól más tagállamokban 8 876 euróig terjedtek.
+<P>
+Hadd hangsúlyozzam, hogy a közösségi jog szerint a nemzeti hatóságoknak kell biztosítaniuk, hogy a közös halászati politika minden súlyos megsértését megfelelő nyomon követési eljárás kövesse, és ahol szükséges, elrettentő büntetést szabjanak ki. A tagállamoké az elsődleges felelősség, és a diszkrecionális jog azért, hogy meghatározzák az összeget és kiróják a szankciókat a közös halászati politika súlyos megsértéséért. A Bizottság ezt a folyamatot csak felügyelni és értékelni tudja.
+<P>
+Ezek után szeretném tájékoztatni önt, hogy a tagállamok az elmúlt néhány évben benyújtott súlyos szabálysértésekről szóló éves jelentéseinek elemzése, és különösen a Számvevőszék 7/2007 jelentése alapján a Bizottság úgy döntött, hogy elindítja a közös halászati politika ellenőrzési rendszerének reformját, előirányozva a szankciók harmonizálását közösségi szinten együtt a súlyos szabálysértés egyértelműbb meghatározásával, az egységesség és az átláthatóság garantálása érdekében.
+<P>
+Bízom benne, hogy ez az új, egyszerűbb és hatékonyabb ellenőrzési rendszer egyenlő esélyeket biztosít majd a közösség halászainak, megerősíti a közös halászati politika szabályainak tiszteletben tartását, és terjeszti a jogkövetés kultúráját.
+<SPEAKER ID="391" NAME="Ioannis Gklavakis" AFFILIATION="PPE-DE">
+(EL) Elnök úr, biztos úr, nagyon örülök az ön válaszának. Örülök, hogy lesz egységes megközelítés valamennyi EU tagállamban. Én csak azt remélem, hogy ez minden ágazatra egyaránt vonatkozik majd. Remélem, hogy ön ezen az elven fogja folytatni munkáját. Hadd mutassak azonban rá még egy dologra: minél alacsonyabbak a tengeri halállományok, annál szigorúbbnak kell lennünk, vagy pedig a jövő nagyon sivár lesz.
+<SPEAKER ID="392" NAME="Joe Borg">
+a Bizottság tagja. - Szeretnék köszönetet mondani Gklavakis úrnak megjegyzéseiért.
+<P>
+Szeretnék a parlamenti képviselőkhöz fordulni azzal a kéréssel, hogy támogassák a Bizottságot ebben az ügyben, hogy megvalósíthassuk a szankcionálási rendszer harmonizálására irányuló intézkedést.
+<P>
+Az elmúlt héten egy kapcsolódó területen, nevezetesen az illegális, be nem jelentett és szabályozatlan halászat elleni küzdelem területén a Tanácsban sor került az első véleménycserére. Az IEU javaslatban megpróbáljuk harmonizálni a rendelkezéseket - mondhatnánk a szankcionálási rendszert. Bár valamennyi tagállam egyhangúan egyetértett abban, hogy hatékonyan kell küzdenünk az illegális halászat ellen, amikor a részletek megvitatására került sor a javaslat hatóköréről, a szankciók harmonizálásáról és arról, hogy hogyan tudnánk ellenőrzés alatt tartani az illegálisan feldolgozott halászati termékek behozatalát, szinte egységesen csak problémákat találtak javaslatunkban.
+<P>
+Nyilvánvaló, hogy erről tárgyalni fogok a tagállamokkal a következő hónapokban. Azzal számolok, hogy amikor az egész ellenőrzési rendelethez érünk, ami az IEU-ra is kiterjed, ez egy sokkal nehezebb mérkőzés lesz. Remélem, hogy a Parlament az általam remélhetőleg az év későbbi részében a Kollégium számára elfogadásra benyújtandó új ellenőrzési javaslatról szóló jelentésében teljes körű támogatást fog adni neki.
+<SPEAKER ID="393" NAME="Elnök">
+A 69. kérdés írásbeli választ kap.
+<P>
+Tárgy: A kéknyelv betegség progressziója Észak-Európában
+<P>
+Két belga egyetem a közelmúltban végzett vizsgálata bizonyítja a kéknyelv betegség endemikussá válásának nagy kockázatát Észak-Európában. Mivel a kéknyelv betegség terjedése társítható a hordozóanyagok mozgásával és a vírustörzsek megerősödésével, nem kellene azonnali sürgősségi intézkedéseket bevezetni a betegség előrehaladása előtt?
+<P>
+Ezen kívül, mivel a betegséggel érintett gulyák és juhnyájak száma a 2006. évi 695-ről 2007-re 6 857-re nőtt egyedül Belgiumban, kifejtené a Bizottság, hogy milyen intézkedéseket kíván bevezetni a vírus elleni kezelés kifejlesztése, az oltási kampányok és ezek finanszírozása érdekében?
+<SPEAKER ID="394" NAME="Androula Vassiliou">
+a Bizottság tagja. - Köszönöm a tiszteletreméltó képviselő kérdését. Elmondanám, hogy a Bizottság jól ismeri a több tagállamban is a közelmúltban terjedő kéknyelv betegség által okozott precedens nélküli helyzetet, és aktív erőfeszítéseket tesz a betegség leküzdése érdekében.
+<P>
+Tavaly januárban a Bizottság által szervezett kéknyelv oltás konferencián egyértelművé vált, hogy az oltás a fő és leghatékonyabb állatgyógyászati intézkedés a kéknyelv leküzdésére. A harmonizált EU-megközelítés elérésének érdekében a Bizottság gyorsan kiadta útmutatásait, és a vakcinációs tervek kritériumait, miközben kellő rugalmasságot hagyott a tagállamok számára, hogy oltási stratégiájukat saját konkrét helyzetükhöz igazítsák.
+<P>
+Ekkor a Bizottság értékelte a tagállamok által benyújtott terveket, jóváhagyta azokat, és biztosította az összesen a teljes műveletre szánt 130 millió eurós összegből az első 64 millió eurót kitevő pénzügyi hozzájárulást. Mindezek az intézkedések tükrözik, hogy a Bizottság milyen nagy fontosságot tulajdonít az oltásnak.
+<P>
+A Közösség is támogat több kéknyelv betegség kutatási programot. Az ötödik és a hatodik keretprogramban, két konkrét projektet szenteltünk a biztonságos és hatékony kéknyelv vírus vakcinálási stratégia kifejlesztésére. Az EU hozzájárulása 1,7 millió euró, illetve 804 000 euró volt. Ezek az intézkedések folytatódnak a hetedik keretprogramban. Jelenleg azonban a tudósok nem gondolják, hogy a vírusellenes kezelés kifejlesztése hatékonyan csökkentené a betegség által okozott veszteségeket.
+<SPEAKER ID="395" NAME="Giovanna Corda" AFFILIATION="PSE">
+(FR) Biztos asszony, először is tudom, hogy én vagyok az első, aki ma szóbeli kérdést tesz fel önnek. Remélem, hogy ön is éppen úgy örül, hogy itt lehet ebben a teremben a mai napon, mint én. Én most egy kicsit eltérnék a tárgytól.
+<P>
+Ön bőséges információt adott nekünk, bár a közelmúltban a Benelux országokban és Németországban összeállított adatok szerint a lázzal fertőzött állományok száma meghuszonötszöröződött egy év alatt, ami figyelemreméltó.
+<P>
+Szeretnék megemlíteni egy esetet Belgiumban, mivel nyilvánvaló én ott dolgozom. Majdnem 7 000 állomány érintett. Ennek nagyon súlyos pénzügyi kihatása van a gazdákra.
+<SPEAKER ID="396" NAME="Androula Vassiliou">
+a Bizottság tagja. - Úgy véljük, hogy a betegség 2008 során egész Európában elterjed. A Bizottság ezért nagyon szigorú intézkedéseket hoz a betegség ellenőrzés alatt tartása érdekében, és amint elmondtam, a betegség leküzdésének legjobb módja az oltás. A múltban is, és most is, igen sok pénzt költöttünk arra, hogy támogassuk a tagállamokat az oltóanyagokkal és az oltással.
+<SPEAKER ID="397" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Elnök úr, szeretném azt mondani a biztosnak: a kéknyelv betegség gyorsan elterjedt az egész Európai Unióban, és ön azt mondta, hogy az oltás a legjobb módszer, de még ebben a fázisban is. Nem fontolná meg a Bizottság, hogy az olyan területekre, amelyeket még eddig a betegség nem érintett, tegyék lehetővé az olyan állatok behozatalának tilalmát azokban az esetekben, amikor bizonyított, hogy az állomány fertőzött - ahol ezt meg is erősítették. Nyilvánvalóan ez lenne az értelmes dolog, hogy az emberek - még önkéntesen sem - importálhassanak olyan területről, amely érintett, olyan régióba, amely nem érintett, mert hogy nagyon gyorsan terjed a betegség. Ön azt mondja, hogy ez elkerülhetetlen, én azonban azt mondom, ezt kellene tennünk.
+<SPEAKER ID="398" NAME="Androula Vassiliou">
+a Bizottság tagja. - Amint ön is tudja, meghoztuk az intézkedéseket. Ott van Olaszország és Franciaország - és Portugália - példája, amelyek egyoldalú intézkedéseket hoztak az érintett állatok behozatalának megakadályozására. A bevezetett extraintézkedések eredményeként ma már mindkét ország visszavonja az múltban meghozott egyoldalú intézkedéseit. Nagyon szorosan figyelemmel kísérjük a helyzetet, és további intézkedéseket is fogunk hozni, ha úgy érezzük, szükség van rá.
+<SPEAKER ID="399" NAME="Elnök">
+Mivel a következő kérdések témája ugyanaz, azokat a biztos együtt fogja megválaszolni:
+<P>
+Tárgy: Brazil marhahús
+<P>
+Mik a jelenlegi előírások brazil marhahúsnak az EU-ba történő behozatalát illetően?
+<P>
+Tárgy: Brazil marhahús
+<P>
+Tudna a Bizottság átfogó nyilatkozatot tenni, amely felvázolná a jelenlegi álláspontot az Európai Unióba történő brazil marhahús behozatalának lényegi korlátozásait illetően?
+<SPEAKER ID="400" NAME="Androula Vassiliou">
+a Bizottság tagja. - Amint önök is tudják, az EU-nak éveken át nagyon hatékony importpolitikája volt a Brazíliából származó marhahúsra.
+<P>
+Az EU-nak szánt brazil marhahús csak olyan területekről engedélyezett, amelyeket a száj és körömfájás betegségtől mentesnek tekintenek. Jelenleg ezek a területek hat brazil államban vannak: Espírito Santo, Goiás, Mato Grosso, Minas Gerais, Rio Grande do Sul és Santa Catarina.
+<P>
+Azoknak a szarvasmarhaféléknek, amelyeknek a húsát az EU piacára szánják, legalább 90-napos időtartamon át valamely engedélyezett területen kell lenniük. Ezen kívül vágás előtt van egy legalább 40-napos tartózkodási idő egy birtokon belül.
+<P>
+A vágóhídon a szarvasmarhafélék nem érintkezhetnek más olyan állatokkal, amelyek nem teljesítik a fenti feltételeket, vágás előtt egészségügyi vizsgálaton kell átesniük, és a vágás előtt 24 órával a betegség klinikai tüneteitől menteseknek kell lenniük.
+<P>
+Csak friss marhahús exportálható az EU-ba, a húsnak magának csontozottnak és érleltnek kell lennie, biztosítva a száj és körömfájás vírusának inaktiválását, amennyiben az a fent említett intézkedések ellenére is jelen lenne.
+<P>
+2007 novemberében a Bizottság által végzett ellenőrzés súlyos nem megfelelőségre vonatkozó példákat talált a birtokok regisztrációjával, az állatok azonosításával, mozgásuk ellenőrzésével kapcsolatban, és korábbi kötelezettségvállalásai ellenére Brazília nem hozta meg a helyénvaló korrekciós intézkedéseket.
+<P>
+Következésképpen a Bizottság ez év januárjában intézkedéseket fogadott el, amelyek a brazil marhahús behozatalát azokra a birtokokra korlátozzák, amelyek több kiegészítő előírásnak is megfelelnek. Ezek közé a kiegészítő előírások közé tartozik valamennyi állat teljes körű azonosítása és regisztrálása a brazil nemzeti szarvasmarhafélék rendszerében. Ezen kívül a birtokot a brazil állatorvosi szolgálatoknak hatékonyan kell ellenőrizniük, és a hatóságoknak is rendszeres ellenőrzéseket kell folytatniuk.
+<SPEAKER ID="401" NAME="Marian Harkin" AFFILIATION="ALDE">
+Én is üdvözlöm a biztost.
+<P>
+Lehet, hogy a kérdés egy kicsit méltánytalan, lévén hogy történeti perspektívája van. De elődjétől Kyprianou biztostól kaptam egy választ az élelmiszer- és állatgyógyászati jelentéssel kapcsolatban mintegy hat hónappal ezelőtt. Az ő válasza az volt, hogy a jelentés előzetes következtetései nem indokolták az EU-politika azonnali megváltoztatását Brazíliával szemben. Mindössze két vagy három hónappal a tilalom meghirdetése előtt az élelmiszer- és állategészségügyi hivatalnokok állították a mezőgazdasági bizottságban, és máshol is, hogy a problémák nem igazán jelentősek. Mégis, két vagy három hónapon belül kihirdették a tilalmat, és most az eredeti gazdaságok számához képest mindössze 1%-tól importálunk.
+<P>
+A kérdésem ez: az Ír Gazdaszövetség jelentésére volt szükség ahhoz, hogy az FVO szorosabban vizsgálja a helyzetet, és erre volt szükség ahhoz, hogy a Bizottság cselekedjék?
+<SPEAKER ID="402" NAME="Brian Crowley" AFFILIATION="UEN">
+Szeretnék köszönetet mondani a biztos asszonynak válaszáért és üdvözlöm őt az első kérdések óráján az Európai Parlamentben. Nyilvánvalóan ön nagyon elfoglalt és örül a kapott reakciónak.
+<P>
+Az én kiegészítésem arra vonatkozik, hogy amikor az ön meghallgatása zajlott a Parlamentben a Környezetvédelmi, Közegészségügyi és Élelmiszerbiztonsági Bizottság előtt, akkor ön rámutatott, hogy az élelmiszerbiztonság egyike az ön kulcsfontosságú ügyeinek, de ugyanakkor méltányosaknak kell lennünk kereskedelmi partnereinkkel szemben is.
+<P>
+Én úgy gondolom, hogy nemcsak azokkal a rendeletekkel kapcsolatban kell méltányosaknak lennünk, amelyek az európai gazdákra és élelmiszer-előállítókra vonatkoznak, hanem azokkal szemben is, akik az Európai Unióba importálnak, és akikre ugyanazoknak a rendeleteknek kellene vonatkozniuk. Hogyan tudjuk garantálni, hogy az élelmiszerellátás biztonságos és ugyanolyan szabványoknak felel meg, mint amelyeknek az európai előállítóknak kell megfelelniük, különös tekintettel a Brazíliából származó marhahúsra?
+<SPEAKER ID="403" NAME="Androula Vassiliou">
+a Bizottság tagja. - A Bizottság Brazíliába küldött missziói azonosították az EU egészségügyi előírásaival kapcsolatos hiányosságokat. E hiányosságok egy részével maguk a brazil hatóságok foglalkoztak.
+<P>
+Azonban 2007 novemberében a Bizottság missziója több példát talált a megfelelőség hiányára, különösen a birtokok regisztrációjával, az állatok azonosításával és mozgásának ellenőrzésével kapcsolatban, és azt tapasztalta, hogy a korábbi kötelezettségvállalások ellenére sem hozták meg a korrekciós intézkedéseket.
+<P>
+Következésképpen, amint már elmondtam, további előírásokat fogadtunk el, és jelenleg arról igyekszünk meggyőződni, hogy a brazilok valóban teljesítik-e a vállalt kötelezettségeket. Jelenleg a Bizottság szakértői gyakorlati képzést nyújtanak maguknak az ellenőröknek, de arról is meggyőződnek, hogy a kiképzett ellenőrök valóban ott legyenek a gazdaságokban, kiképezzék saját embereiket, hogy valamennyi Brazíliából származó húsexportot fogadó tagállam kapjon garanciákat arra, hogy jól képzett emberek felügyelik előírásaink és rendeleteink betartását.
+<SPEAKER ID="404" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+Biztos asszony, üdvözlöm önt. Az ön legutóbbi kijelentése némiképp aggaszt, mert az ír gazdák, az európai gazdák tapasztalatai nem a nagyfokú támogatásról, hanem a szemrevételezésről és az ellenőrzésről szólnak, amikor őket a Bizottság ellenőrei meglátogatják. Az a benyomásom, hogy bizottsági szinten a mi tisztviselőink fogják a brazilok kezét, és segítenek nekik, hogy megfelelhessenek a normáknak. Bárcsak ugyanez történne, amikor a saját termelőinkről van szó.
+<P>
+Második kérdésem: Milyen erőfeszítéseket tesz Brazília, hogy javítson játékán, valamint el tudja-e képzelni, és ha igen, mikorra, a visszatérést a korábban Európába küldött marhahússzintekhez, ahogyan biztos vagyok benne, hogy a brazilok szeretnék. Én tudom, hogy önnek új még ez a munkakör, gondolja, hogy az ő normáik, ha egyáltalán elérik azokat, egyenértékűek lennének a miénkkel, tekintettel arra, hogy náluk csak 90 napra illetve 40 napra van szükség? Mi a születéstől a vágásig végig címkézzük az állatokat.
+<SPEAKER ID="405" NAME="Elspeth Attwooll" AFFILIATION="ALDE">
+Én is üdvözlöm önt biztos asszony. Tekintettel arra, amit elmondott a legutóbbi Élelmiszer- és Állategészségügyi Hivatal jelentéséről és a be nem jelentett járványkitörésekkel kapcsolatos problémákról, arról, hogy súlyos hiányosságokat azonosítottak a nyomon követhetőségben és azonosításban - ezek valóban rendszerhibák - és arra a tényre, hogy a brazil hatóságok még az új, önök által bevezetett intézkedések ellenére sem tudtak garanciákat adni, nagyon valószínűtleneknek tűnik, hogy a láb és körömfájás betegség ellenőrzésének regionalizálási politikája Brazíliában egyáltalán működne, vagy egyáltalán működtethetővé válhatna. Nem ez a helyzet biztos asszony?
+<SPEAKER ID="406" NAME="Androula Vassiliou">
+a Bizottság tagja. - Először is szeretném biztosítani önöket, hogy az általunk előírt követelmények egyenértékűek az exportált termékre, és a Bizottság tisztviselői kérésükre képzésben részesítik az embereket, hogy a megfelelő ellenőrzést és rendszabályokat foganatosítsák, de biztos vagyok abban, hogy nem utasítanák el a mi embereinknek nyújtott támogatást sem. Mi megpróbálunk méltányosaknak lenni, és biztos vagyok benne, hogy az elsődleges követelmény a termékeink biztonsága. A regionalizálást ugyanúgy alkalmazzák Brazíliában, mint az EU-ban.
+<SPEAKER ID="407" NAME="Elnök">
+
+<P>
+Tárgy: Javaslat az egészségügyi ellátásra
+<P>
+Tudna a Bizottság magyarázatot adni a határon átnyúló egészségügyi ellátásról szóló javaslattervezet közzétételének késedelmére, tekintettel az Európai Bíróság e területen hozott ítéleteit követő jogalkotás politikai követelményére és arra az ígéretre, amit akkor adtak, amikor az egészségügyi ellátást kivették a szolgáltatásokról szóló irányelvből (2006/123/EK)?
+<SPEAKER ID="408" NAME="Androula Vassiliou">
+a Bizottság tagja. - Tiszteletreméltó képviselők, a Bizottságnak az a szándéka, hogy választ adjon a Parlament és a Tanács határozatára, hogy amikor az egészségügyi szolgáltatásokat kivettük a szolgáltatási irányelvből 2006-ban, akkor azokat külön kezeljük.
+<P>
+A Bizottság szándéka, hogy olyan javaslatot nyújtson be, amely kodifikálja az Európai Bíróság e területen hozott határozatait, egyértelművé téve a betegek jogait a határokon átnyúló egészségügyi ellátás biztosításában, és, hogy kiegészítő intézkedéseket nyújtson be a jó minőségű határon átnyúló egészségügyi ellátás rendelkezésre állásra biztosításának érdekében.
+<P>
+Az elmúlt néhány hónapban az ügy bizonyos vonatkozásaival kapcsolatos egyes aggályok további megfontoláshoz és konzultációkhoz vezettek. Azonban a határokon átnyúló egészségügyi ellátásban a betegjogok alkalmazásáról szóló irányelvre irányuló javaslat már megfontolás alatt van, és azt a Kollégium 2008. június vége előtt elfogadhatja.
+<P>
+Célunk az, hogy olyan javaslattal álljunk elő, amelynek végső célja, hogy segítséget nyújtson a polgároknak az Európai Bíróság által rájuk ruházott jogaik gyakorlásában, és ne további problémákat hozzunk létre. Ez a javaslat a betegjogokra összpontosít, valamint az egészségügyi ellátáshoz való jobb hozzáférésre. Része lesz a Špidla biztossal együttműködésben indítandó szociális csomagnak, amely a hozzáférést, a lehetőségeket és a szolidaritást mozdítja elő valamennyi EU polgár számára.
+<P>
+Ennek a kezdeményezésnek a betegek állnak a középpontjában, és ez összhangban áll a Bizottság mindenen átívelő polgárorientált megközelítésével.
+<P>
+A javaslat nem hoz létre új pénzügyi jogosultságokat a betegek számára. A Bíróság által megállapított betegjogok a tagállamok által már meghatározott pénzügyi jogosultságokhoz kapcsolódnak. Ez a javaslat egyszerűen keretet hoz létre a betegek számára, hogy nagyobb jogbiztonsággal, átláthatóbban és kiszámíthatóbb módon, hatékonyan gyakorolhassák ezeket a jogaikat.
+<P>
+Végül, a javaslat létrehozza a tagállamok közötti jobb és megújított együttműködés jogi és igazgatási alapjait néhány előretekintő, az egészséghez kapcsolódó területen, ahol azt várjuk, hogy az EU hozzáadott értékei és szinergiái döntőek lesznek.
+<SPEAKER ID="409" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Én is csatlakozom Vassiliou biztos asszony üdvözléséhez az első olyan napon, amikor kérdéseket válaszol meg. Jó, hogy itt van velünk. Köszönöm a válaszát.
+<P>
+Az egészségügyi ellátást nagyon jó indokkal vontuk ki eredetileg a szolgáltatási irányelv hatálya alól: azért, mert egy egészségügyi szolgáltatásokról szóló irányelvet akartunk. Már eddig is túl sokáig vártunk rá. Nem vagyok egészen biztos abban, hogy a Bizottságban a különféle referatúrák közötti csűrés-csavarás milyen üzenetet hordoz számunkra. A túl sok privatizációval van gondjuk? Vagy az, hogy esetleg lerontanánk a tagállamok egészségügyi szolgálatait? Már most nagy eltérések vannak a kompetenciákban ezen a területen, és eltérőek a normák, míg az egységes piacon a betegeknek joguk van, amint az Európai Bíróság határozott, kezelésért elutazni, ha a saját tagállamukban ésszerűen nem kapnak kezelést. Pontosan mi az, ami a mostanáig tartó késedelmet okozza, biztos asszony?
+<SPEAKER ID="410" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+Lehet, hogy ezt nem fogja tudni azonnal megválaszolni, de talán később visszatérhetne rá.
+<P>
+Írországban a "nem” kampány során néhányan azt állítják a Lisszaboni Szerződésről, hogy az előmozdítja az egészségügyi ellátás privatizálását, és a szolgáltatásokkal való kereskedést. Örülnénk, ha ön visszatérne, és egyértelművé tenné ezt a pontot.
+<SPEAKER ID="411" NAME="Androula Vassiliou">
+a Bizottság tagja. - Jelenleg csak azt tudom mondani, hogy aláhúzom elszántságunkat, hogy haladjunk előre. Ne beszéljünk a múltról. Van egy döntés, és én biztosítom önt, hogy júniusban ott lesz a javaslat a Kollégium előtt. Fogadja el tőlem, hogy júniusban tovább haladunk.
+<P>
+Ami a privatizációt illeti, súlyos aggályok vannak ezzel kapcsolatban, az én válaszom azonban az, hogy ez az aggály alaptalan. A javaslat a betegek szükségleteire összpontosít. Biztosítja, hogy ha a betegek utaznak az ellátásért, akkor az biztonságos és jó minőségű legyen. Azt is egyértelművé teszi, hogy milyen feltételek mellett téríti meg a határon átnyúló egészségügyi ellátást a polgároknak a saját nemzeti egészségügyi rendszerük vagy egészségügyi ellátást nyújtó programjuk, és mikor nem kaphatnak visszatérítést. A visszatérítés feltételei nem újak, az Európai Bíróság határozatainak kodifikálását jelentik.
+<P>
+Ez a javaslat nem hoz létre olyan külföldi egészségügyi ellátás igénybevételére vonatkozó lehetőséget, amelyet a Bíróság ítéletei már ne hoztak volna létre. A javaslat célja annak biztosítása, hogy a határon átnyúló egészségügyi ellátás egyértelmű keretek között, biztonságosan, kiváló minőségben és hatékonyan valósuljon meg az egész Unióban. A cél az egyértelmű keret biztosítása.
+<SPEAKER ID="412" NAME="Elnök">
+Az idő hiányában megválaszolatlanul maradt kérdések írásban kerülnek megválaszolásra (lásd a mellékletet).
+<SPEAKER ID="413" NAME="Elnök">
+Ezzel lezárom a kérdések óráját.
+<P>
+(Az ülést 20:00 órakor felfüggesztik és 21:00 órakor folytatják.)

@@ -1,0 +1,6 @@
+<CHAPTER ID="006">
+Turno de votaciones 
+<SPEAKER ID="097" NAME="Agustín Díaz de Mera García Consuegra" AFFILIATION="PPE">
+Señor Presidente, por favor, le ruego que aplace por un minuto la votación porque, en este momento, se están distribuyendo las listas de votación del Partido Popular. Usted mismo lo puede comprobar visualmente.
+<SPEAKER ID="098" NAME="El Presidente">
+Pasamos ahora al turno de votaciones.

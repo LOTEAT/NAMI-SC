@@ -1,0 +1,262 @@
+<CHAPTER ID="012">
+Eiropas Satelītnavigācijas programmas izvēršana un darbība (EGNOS un Galileo) (debates) 
+<SPEAKER ID="299" NAME="Priekšsēdētājs">
+Nākamais jautājums ir E. Barsi-Pataky ziņojums Rūpniecības, pētniecības un enerģētikas komitejas vārdā par grozīto priekšlikumu Eiropas Parlamenta un Padomes regulai par Eiropas satelītu radionavigācijas programmu (EGNOS un Galileo) - C6-0345/2007 - turpmāko īstenošanu.
+<SPEAKER ID="300" NAME="Radovan Žerjav">
+Padomes priekšsēdētājs. - (SL) Es priecājos būt kopā ar jums šodienas plenārsēdē, kas veltīta debatēm par Galileo īstenošanas regulu.
+<P>
+Mēs visi ļoti labi apzināmies, cik ģeostratēģiski un ekonomiski nozīmīgas Eiropas Savienībai ir programmas Galileo un EGNOS. Tomēr, pirms es ķeros pie apspriešanai iesniegtā ziņojuma teksta, ļaujiet man īsumā atgādināt nozīmīgākos notikumus, ar ko šīs divas programmas saskārās pagājušajā gadā.
+<P>
+Vācijas prezidentūras laikā 2007. gada jūnijā Padome apstiprināja drosmīgu lēmumu pārtraukt neveiksmīgās sarunas par piekāpšanos. Šai iniciatīvai sekoja Eiropas Parlamenta rezolūcija, kas izteica spēcīgu atbalstu šo divu programmu turpināšanai Eiropas Savienības aizbildnībā un nepārprotami aicināja nodrošināt pilnu finansējumu no Eiropas Savienības budžeta.
+<P>
+Kad vēlāk, 2007. gada septembrī, Komisija iesniedza apspriešanai priekšlikumu paketi, kas virzītu projektus 100 % finansēšanai no sabiedriskā sektora, starp tiem bija regula par šo abu projektu īstenošanu. Pateicoties tam, ka pagājušā gada novembrī tika panākta vienošanās starp Ekonomikas un finanšu padomi (ECOFIN) un Eiropas Parlamentu par rezolūciju un vispārējs lēmums, ko Transporta, telekomunikācijas un enerģētikas padome (TTE) apstiprināja nedēļu vēlāk, kā arī ar atzinumiem attiecībā uz Galileo turpmāko attīstību mēs veiksmīgi esam panākuši, ka šīs divas programmas ir izkļuvušas no strupceļa un atgriezušās sabiedriskajā apritē.
+<P>
+Es priecājos par to, ka, meklējot juridiskā pamatojuma kompromisus projekta Galileo atdzimšanai visā pilnībā, visas iestādes iesaistījās konstruktīvā sadarbībā. Man īpaši jāpateicas referentei E. Barsi-Pataky, kā arī Angelika Niebler, ITRE komitejas priekšsēdētājai. Slovēnijas prezidentūra lepojas ar to, ka ir darījusi visu nepieciešamo, lai panāktu vienošanos jau pirmajā lasījumā.
+<P>
+Es domāju, ka mūsu sarunu iznākumā ir radies sabalansēts teksts. Pašreizējā tekstā detalizēti apskatīts budžeta līdzekļu apmērs, kas nepieciešams abām programmām 2007.-2013. gadam, kā arī globālās navigācijas satelītu sistēmas (GNSS) programmu pārvaldība un īstenošana, tajā skaitā arī publiskā iepirkuma principi un struktūra. Mēs pilnībā apzināmies to atbildību, kāda Eiropas Parlamentam kā budžeta lēmējinstitūcijai ir pret pilsoņiem.
+<P>
+Lai atvieglotu katra programmas uzdevuma izpildi, mēs esam izveidojuši Iestāžu komiteju, kas atbild par Galileo īstenošanu. Šī komiteja pārraudzīs šo programmu īstenošanas virzību, ar abām programmām saistītos starptautiskos līgumus, tirgu sagatavošanu, pārvaldības struktūras efektivitāti un programmas gada pārskatu.
+<P>
+Priekšsēdētāja kungs, dāmas un kungi, es uzskatu, ka nav nepieciešams īpaši uzsvērt, kāda nozīme Eiropas satelītnavigācijas programmām ir jaunu darba vietu radīšanā un Eiropas konkurētspējas veicināšanā. Šīs abas programmas pilnībā saskan ar Lisabonas stratēģiju un citām Kopienas politikām, un tās ļaus mums attīstīt un aizsargāt Eiropas tehnoloģiskās kompetences, it īpaši tādās tehnoloģiju nozarēs, kas dos tiešu labumu mūsu pilsoņiem.
+<P>
+Es gribētu pateikties jums par uzmanību un it sevišķi par jūsu konstruktīvo sadarbību šajā nozīmīgajā Eiropas projektā.
+<SPEAKER ID="302" NAME="Jacques Barrot">
+Komisijas priekšsēdētāja vietnieks. - (FR) Priekšsēdētāja kungs, dāmas un kungi, šī sēde nepārprotami ir ļoti nozīmīga. Es domāju, ka mēs viens otru varam apsveikt saistībā ar to, ka beidzot mēs piedzīvojam Galileo izvirzīšanos to lielāko Eiropas projektu vidū, ko mēs realizēsim.
+<P>
+2007. gada novembra beigās šim apjomīgajam Eiropas projektam par labu tika pieņemti divi nozīmīgi politiski lēmumi. Pēc tam Eiropas Parlaments un Padome, apzinoties, ka nepieciešams steidzami pieņemt regulas par EGNOS un Galileo programmu nepārtrauktību, pārskatīja Komisijas priekšlikuma tekstu, lai to varētu pieņemt pirmajā lasījumā.
+<P>
+Es gribētu apliecināt cieņu šo triju iestāžu, īpaši Parlamenta, konstruktīvajam darbam. Paldies jums visiem un katram personīgi par ieguldīto darbu! Dažādās trīspusējās sarunās mēs esam panākuši milzīgu progresu, un šodien mums ir regulas projekts, kas apmierina gan Parlamentu, gan Padomi, gan Komisiju. Padome 2008. gada 7. aprīļa sēdē, kuru vadījāt jūs, ministr, izteica savu milzīgo atbalstu. Tāpēc ir būtiski, dāmas un kungi, lai šodien arī Parlaments izteiktu savu atbalstu.
+<P>
+Es varu apstiprināt, ka priekšlikumā ietverts finansējums, kas pilnībā saskan ar 2007. gada novembrī panākto vienošanos par budžetu starp Eiropas Parlamentu un Padomi. Es vēlreiz gribētu izteikt vissirsnīgāko pateicību Eiropas Parlamentam par lielo ieguldījumu šī rezultāta sasniegšanā. Tekstā ir ietverta arī pietiekama programmu vadība. Tajā ir ierosināta precīza uzdevumu sadale starp Komisiju, Uzraudzības iestādi un Eiropas Kosmosa aģentūru, kur Komisijai ir piešķirta īpašnieka loma, bet Eiropas Kosmosa aģentūrai - pārvaldītāja loma.
+<P>
+Turpmākā regula risinās arī sistēmu drošības un aizsardzības jautājumu. Šis programmu aspekts, lai gan ir būtisks, iepriekš nav bijis tik skaidri un apmierinoši apskatīts. No šī brīža Komisija programmas pārvaldību nodrošinās ar to dalībvalstu pastāvīgu un augstvērtīgu atbalstu, kam ir nepieciešamās zināšanas šajā jomā.
+<P>
+Šajā jautājumā es varu apstiprināt, ka Galileo infrastruktūra ir izveidota tā, lai izpildītu piecas funkcijas, kas aprakstītas turpmākās regulas pielikumā. Regulas tekstā ietvertie noteikumi attiecībā uz drošību nekādā veidā neietekmē šī pielikuma saturu. Visi grozījumi, kas varētu mazināt Galileo programmas civilo būtību, jāiekļauj grozītajā regulā. Mēs esam bijuši apzinīgi attiecībā pret iepirkuma politikas jautājumu. Mums gan jānovērtē katras dalībvalsts rūpnieciski iesaistīto pušu spējas, gan arī vienlaikus, protams, ar godīgas konkurences starpniecību, jāsamazina ar pārmērībām un kavējumiem saistītie riski.
+<P>
+Triju Kopienas iestāžu galveno īpašumtiesību jautājumā regula paredz, ka Eiropas Kopienai jābūt visu materiālo un nemateriālo aktīvu, kas izstrādāti EGNOS un Galileo programmas darbības laikā, vienīgajai īpašniecei.
+<P>
+Visbeidzot, noteikumi attiecībā uz komitejas procedūru un īpašajām pamatnostādnēm līdztekus regulai apmierina Parlamenta vēlmi būt pastāvīgi informētam par programmu virzību. Protams, piešķirot Parlamentam tik plašu lomu, noteikti ir ieteicami un pat būtiski, ka Parlaments kā budžeta lēmējinstitūcija ir cieši iesaistīts šo programmu nākotnē. Priekšlikuma teksta ātra pieņemšana būs šo programmu pārvaldības reformas pirmais posms. Komisijai jāiesniedz izskatīšanai priekšlikums, kas groza regulu attiecībā uz Eiropas GNSS programmu pārvaldības struktūras noteikumiem. Mēs piemērosim regulu jaunajai pārvaldes un uzraudzības lomai, pamatojoties uz to regulas tekstu, kas tika izstrādāts sarunās ar Padomi. Es personīgi raudzīšos, lai Parlaments cieši iesaistītos šajā publiskās pārvaldības reformas otrajā posmā.
+<P>
+Ministr, dāmas un kungi, mēs rēķināmies ar to, ka jūs atbalstīsiet Galileo programmu un sagatavosiet ceļu efektīvai un ātrai šī plašā Kopienas projekta īstenošanai. Dažu tuvāko mēnešu laikā mums būs iespēja aptvert visas Galileo piedāvātās milzīgās tehnoloģiskās iespējas, un saistībā ar tām Komisija iepazīstinās ar rīcības plānu. Tomēr, lai šīs iespējas kļūtu par realitāti, ir skaidrs, ka Galileo ir jāīsteno. Priekšsēdētāja kungs, pateicoties Eiropas Parlamentam, pateicoties Portugāles un Slovēnijas prezidentūrām, Galileo tagad ir, es uzskatu, visas iespējas gūt panākumus.
+<SPEAKER ID="303" NAME="Etelka Barsi-Pataky">
+referente. - (HU) Priekšsēdētāja kungs, Padomes priekšsēdētāj, ministr Žerjav, priekšsēdētāja vietniek Barrot, dāmas un kungi! Eiropas Parlaments jau no paša sākuma pastāvīgi un konstruktīvi ir atbalstījis programmu Galileo. Pagājušā, 2007., gada novembrī Eiropas Parlaments ar drosmīgu rīcību atmodināja šo programmu no depresijas un decembrī apstiprināja GNSS programmu finansējumu no pārstrādātā Kopienas budžeta.
+<P>
+Tagad, pēc veiksmīgām, neoficiālām triju pušu sarunām pirmajā lasījumā, mēs diskutējam par Galileo un EGNOS programmu īstenošanas regulu. Finansējums, kas pilnībā tiks ņemts no Kopienas budžeta, uzliek papildu saistības Eiropas nodokļu maksātājiem un līdz ar to prasa apdomīgu tiesisko noregulējumu. Sevišķi tas attiecas uz finansējumu, programmu pārvaldību, publisko iepirkumu kārtību un drošību. Dažu iepriekšējo gadu laikā, saskaroties ar tik daudzām problēmām, mēs esam ļoti daudz iemācījušies. Arī tiesiskā noregulējuma jomā mēs esam uzsākuši pavisam jaunu ceļu, varētu pat sacīt, ka mēs esam celmlauži, jo šī ir pirmā vienotā Eiropas infrastruktūra, ko mēs kopīgi veidojam un kas ir Kopienas kopīpašums.
+<P>
+Finansēšana: Eiropas Parlaments atzīst, ka šo programmu attīstības izmaksas ir EUR 3,4 miljardi, ko garantē budžeta lēmējinstitūcijas. Komisijai līdz 2010. gadam jāiesniedz priekšlikums par finansējumu pēc 2013. gada, īpaši attiecībā uz kopīpašuma saistībām. Lūdzu, atcerieties, ka grafika ievērošana un izvairīšanās no kavēšanās ir programmu finansiālo panākumu atslēga.
+<P>
+Cenu politika jāveido pēc lietderības pakāpes sīkas analīzes, paturot prātā, ka patērētāji saņems kvalitatīvus pakalpojumus. Programmas pārvaldība jāveido, skaidri sadalot iestāžu pilnvaras. Komisija ir atbildīga par programmu īstenošanu un vadību, un šajā darbā saskaņā ar komitejas procedūru to atbalstīs Programmas komiteja. Eiropas Kosmosa aģentūra (EKA) ir galvenais izpildītājs, un jāatzīmē, ka Komisijas un EKA līgumsaistības būs programmu panākumu garantija. Pēc ilgstošām debatēm nolēma, ka GSA (Eiropas GNSS Uzraudzības iestāde) pārraudzīs programmas drošību.
+<P>
+Eiropas Parlaments, Padome un komiteja atzīst, ka, lai programma gūtu panākumus, jāmeklē jauni sadarbības veidi. Turpmāk saskaņā ar paziņojumu regulas pielikumā mēs Iestāžu Galileo komitejā reizi ceturksnī kopīgi sekosim šo programmu īstenošanas norisei, un darba programma tiks pārskatīta reizi gadā. Referentes novembra ziņojuma svarīga daļa bija publiskā iepirkuma procedūras noteikumi, un tā galvenie elementi tika iekļauti Padomes priekšlikumā. Mēs tam pilnībā piekrītam. Programma Galileo mums dod cerības uz jaunām tehnoloģijām, attīstību, jaunām komercdarbības iespējām un darbu, un mēs īpaši uzsveram mazo un vidējo uzņēmumu iespējas visās 27 dalībvalstīs. Tiesību akti to nodrošina.
+<P>
+Parlamenta sarunu delegācija, kuru vadīja Angelika Niebler, ITRE (Rūpniecības, pētniecības un enerģētikas komiteja) priekšsēdētāja, un kurā piedalījās arī "ēnu” referenti un komiteju pārstāvji, kas izteica savu viedokli, iesniedza pirmajā lasījumā pieņemto regulas tekstu ITRE komitejā kā daļu no triju pušu neoficiālajām pārrunām. ITRE komiteja to vienprātīgi pieņēma. Tagad mēs šos noteikumus iesniedzam Eiropas Parlamentam plenārsēdē. Nobeigumā es pateicos Slovēnijas prezidentūrai par tās uzticību šai programmai, pateicos Komisijai par tās lietpratīgo darbu un saviem kolēģiem - par atbalstu, kā dēļ šī vienošanās kļuva iespējama. Paldies jums!
+<SPEAKER ID="304" NAME="Margaritis Schinas">
+Budžeta komitejas atzinuma sagatavotājs. - (EL) Priekšsēdētāja kungs, Budžeta komitejas vārdā atļaujiet man arī izteikt to, cik apmierināts es esmu ar sasniegto rezultātu. Tas, protams, izskatās dīvaini, jo parasti Budžeta komiteju aicina atrast naudu kādai īpašai programmai, taču tagad ir pretēja situācija. Mēs jau esam atraduši naudu un mēģinām izveidot programmas struktūru. Apmēram pēc 40 dienu ilgām sarunām ar Padomi mēs beidzot sasniedzām mērķi.
+<P>
+Programmas Galileo galīgā apstiprināšana, manā skatījumā, parāda trīs nozīmīgus apstākļus. Pirmkārt, tagad, kad Eiropu apsūdz par to, ka tā netiecas aktīvi rīkoties, mūsu gatavība atrast resursus šādam tehnoloģiski vērienīgam projektam pierāda, ka ES spēj vairāk nekā tikai atbildēt uz kritiķu jautājumiem par labumu pilsoņiem un biznesam.
+<P>
+Otrkārt, kā jau komisārs J. Barrot uzsvēra, bez Eiropas Parlamenta nebūtu Galileo. Eiropas Parlamentam ir bijusi galvenā loma sarunās ar Padomi par resursu atrašanu, īpaši pēc tam, kad privātais sektors pretēji saviem iepriekšējiem solījumiem nespēja sagādāt finanšu līdzekļus.
+<P>
+Treškārt un visbeidzot, mums tagad ir programma, ko pilnībā finansē Kopiena. Tā kā šī ir programma, ko finansē tikai un vienīgi Eiropas nodokļu maksātāji, tad Eiropas Parlamentam un programmas pārvaldītājiem - Eiropas Komisijai, EKA un Galileo Uzraudzības iestādei - tas uzliek īpašus pienākumus.
+<P>
+Mēs neizvairīsimies no šīs atbildības. Līdz 2013. gadam mēs ļoti cieši pārraudzīsim programmas pārvaldību. Šeit ir iesaistīts liels daudzums naudas, tā ka mūsu atbildība ir sevišķi liela.
+<P>
+Liels paldies jums, un es apsveicu visus tos, kas strādāja, lai sasniegtu šo visnotaļ apmierinošo rezultātu.
+<SPEAKER ID="305" NAME="Anne E. Jensen">
+Transporta un tūrisma komitejas atzinuma sagatavotāja. - (DA) Priekšsēdētāja kungs, kā Transporta un tūrisma komitejas atzinuma sagatavotāja es arī gribētu paziņot, ka esmu ļoti apmierināta ar šodien sasniegto rezultātu. Galileo turpmāk nodrošinās efektīvāku, drošāku un videi piemērotāku transportu. Šī sistēma atvieglos visu ceļa, dzelzceļa, gaisa un jūras transporta veidu labāku pārvaldību un kontroli. Tas attiecas uz privātajiem uzņēmumiem, iestādēm un uz labākas informācijas nodrošinājumu mums - pilsoņiem.
+<P>
+Daudzi cilvēki ir jautājuši: "Kāpēc mums vajag Galileo, ja mums jau ir GPS?” Taču GPS mēs esam tikai aizguvuši. ES nav kontroles pār šo tehnoloģiju; tā kā satelītnavigācija mūsu sabiedrībai kļūst ļoti nozīmīga, tad ES vajag gan pašai savu tās infrastruktūru, gan plašas zināšanas un kompetenci. Tā kā mēs šos 3,5 miljardus eiro no ES nodokļu maksātāju naudas tagad tērējam Galileo vajadzībām, mums jānodrošina, ka tiek sasniegti vēlamie rezultāti. Tāpēc ir svarīgi, ka Parlaments var ietekmēt turpmāko notikumu gaitu.
+<P>
+Es gribētu pateikties E. Barsi-Pataky par izcilo sadarbību šī ziņojuma sagatavošanā. Es gribētu arī pateikties M. Schinas un Rūpniecības, pētniecības un enerģētikas komitejas priekšsēdētājai A. Niebler par viņu veiksmīgo sadarbību un par to, ka šo sarunu laikā mēs darbojāmies kā komanda. Es gribētu arī pateikties komisāram J. Barrot par viņa ieguldījumu dažu atlikušo lietu nokārtošanā. Un pašās beigās es gribētu apsveikt Slovēnijas prezidentūru par šo izcilo rezultātu, ko mēs esam sasnieguši.
+<SPEAKER ID="306" NAME="Angelika Niebler">
+PPE-DE grupas vārdā. - (DE) Priekšsēdētāja kungs, priekšsēdētāj, komisār, dāmas un kungi, Eiropai šodien ir veiksmīga diena. Mēs esam devuši zaļo gaismu vienam no svarīgākajiem ES projektiem - satelītnavigācijas sistēmai Galileo. Tāpat kā iepriekšējie runātāji arī es sākumā gribētu sirsnīgi pateikties mūsu referentei E. Barsi-Pataky un Budžeta, kā arī Transporta un tūrisma komitejas locekļiem par teicamo sadarbību. Es domāju, ka mēs kā Parlaments ļoti labi esam sadarbojušies šajā lietā un kopā ar Padomi un Komisiju esam sasnieguši patiesi labu rezultātu.
+<P>
+Ir notikušas daudzas diskusijas par to, vai mums vispār ir vajadzīga Eiropas satelītnavigācijas sistēma. Šādu jautājumu uzdeva A. Jensen. Mums joprojām ir amerikāņu GPS, krieviem ir GLONASS, un ķīnieši pašreiz kaut ko veido. Tas patiešām nozīmē, ka mums arī jāiegulda savas, Eiropas, satelītnavigācijas sistēmas izveidošanā. Mums šo tehnoloģiju vajag Eiropā.
+<P>
+Lai mēs paši Eiropā varētu izveidot šādas sistēmas, mums nepieciešama tehnoloģiskā kompetence, un mums arī kaut kas jādara vidējo uzņēmumu īpašnieku, kā arī mazo un vidējo uzņēmumu labā, kuri tad, kad būs izveidota infrastruktūra, gūs labumu no tā, ka viņi šo tehnoloģiju varēs pielietot tādās nozarēs, par ko mums pašlaik varbūt nav ne mazākā priekšstata: loģistikā, kravu pārvadāšanā pa zemes ceļiem, jūras, dzelzceļa un gaisa transportā un drošības jomā. Ir tik daudz pielietošanas iespēju, un es ceru, ka mēs esam paveikuši labu sagatavošanas darbu mūsu vidējo uzņēmumu īpašnieku labā.
+<P>
+Projektam Galileo ir ilga vēsture. Es to nevēlos pārstāstīt; es tikai gribu uzsvērt, ka Parlaments visu šo laiku ir atbalstījis šo projektu. Pagājušajā gadā mēs nodrošinājām finansējumu no Eiropas nodokļu ieņēmumiem, un ar rītdienas balsojumu mums jādod nozīmīgs ieguldījums, lai nodrošinātu, ka projekta pārvaldība norit bez aizķeršanās, ka pārvaldības process ir izveidots pārredzams un ka mēs kā Parlaments, kā Eiropas likumdevēji, esam iesaistīti šī projekta turpmākajā attīstībā un pārvaldībā.
+<SPEAKER ID="307" NAME="Norbert Glante">
+PSE grupas vārdā. - (DE) Priekšsēdētāja kungs, komisār, Galileo varētu piešķirt arī apakšvirsrakstu - "Bezgalīgais stāsts”. Es ceru, ka šis apakšvirsraksts pēc šīsdienas diskusijām un rītdienas balsošanas vairs nebūs aktuāls. Bezgalīgais stāsts tagad kļūst par īstenību.
+<P>
+Sevišķi es gribētu pateikties E. Barsi-Pataky par noderīgo sadarbību ne tikai trīspusējo sarunu laikā, bet arī iepriekšējos gados. Viņa vienmēr ir bijusi godīga partnere, un mēs esam atraduši saprātīgus un pamatotus kompromisus. Paldies, protams, arī prezidentūrai un it īpaši prezidentūras pārstāvei, kas kopā ar mums vadīja šīs piecas trīspusējās sarunas. Ļoti kompetenta, apņēmīga sieviete, kurai, man liekas, droši vien nebija tik vienkārši Padomē rast šos kompromisus.
+<P>
+Mana grupa, Sociāldemokrātu grupa Eiropas Parlamentā, vienmēr ir atbalstījusi projektu Galileo, un mēs arī tagad atbalstām šo sasniegto rezultātu. Es varu garantēt, ka rītdienas balsojumā no mūsu grupas nebūs nevienas balss "pret” un ka mēs visi balsosim "par”. Mums jāatzīmē arī apstāklis - un es gribētu jūs lūgt to vēlreiz atzīmēt, un tam nav jābūt protokolā -, ka, lai to panāktu, dažiem Vācijas pārstāvjiem ir nācies cīnīties ar savu valdību. Niebler kundze smaida, jo viņa zina, par ko es runāju.
+<P>
+Ar šo regulu mums ir izdevies noteikt skaidru struktūru, konkrēti sadalīt atbildību starp Komisiju, Uzraudzības iestādi un EKA. Mums ir Iestāžu Galileo komiteja, kurā Eiropas Parlaments, Padome un Komisija ir vērojuši šī projekta virzību. Līdz 2013. gadam mēs sanāksim četras reizes gadā, un mēs visi pieņemam, ka 2013. gads ir termiņš, ko mēs turklāt arī ievērosim. Mēs turēsimies arī pie 3,4 miljardu budžeta, citādi mums būs grūti atrast pārliecinošus argumentus.
+<P>
+Galileo ir - kā mana kolēģe Niebler kundze tikko teica - ne tikai satelītnavigācijas sistēma, kas ļaus dažiem pilsoņiem, iespējams, ātrāk sasniegt galamērķi. Mums Eiropā Galileo ir svarīga tehnoloģiskā attīstība, un mums jāsaglabā mūsu zinātība astronautikā, navigācijas tehnoloģijās un elektronikā. Tāpēc mums ir svarīgi īstenot šo projektu.
+<P>
+Pašlaik ir sevišķi svarīgi, lai Komisija līdz vasaras sākumam sagatavotu konkursa uzaicinājumu. Tas būs ļoti grūts uzdevums. Būs izšķiroši lēmumi. Mums jādod rūpniecībai otrā iespēja, un rūpniecībā šī otrā iespēja ir jāizmanto. Es ceru, ka rūpniecības pārstāvji zina, kas viņus sagaida. Mēs nevaram atļauties otru neveiksmi rūpniecības nesaskaņu dēļ. Es ļoti gaidu priekšlikumu, Komisijas darbības programmu un, visvairāk, finanšu plānu, kāds būs no 2014. gada.
+<P>
+Nobeigumā vēlreiz kopīgi secināsim: privātā un publiskā sektora partnerības modelis (PPP) tādēļ vien nav galīgi izgāzies. No 2013./2014. gada, kad sistēma darbosies, mēs atkal varēsim izmantot PPP. Es vēl galīgi nenorakstītu PPP.
+<SPEAKER ID="308" NAME="Anne Laperrouze">
+ALDE grupas vārdā. - (FR) Ministr, komisār, referente, dāmas un kungi! Kosmosa speciālisti, dzirdot vārdu Galileo, iztēlojas ne vien šo itāļu astronomu, bet arī ASV NASA automātisko kosmosa pētniecības staciju, kas tika sūtīta izpētīt Jupiteru un tā kāpas un ko 1989. gada 18. oktobrī bija paredzēts palaist orbītā no kosmosa kuģa Atlantis. Šī palaišana ievērojami aizkavējās tāpēc, ka kosmiskie lidojumi pēc Challenger katastrofas tika apturēti.
+<P>
+Galu galā Galileo Jupitera misijas panākumi bija iespaidīgi. Šeit var saskatīt līdzību ar Eiropas Galileo programmu. Šī programma ir piedzīvojusi neveiksmes. Taču es ceru, ka mūsu programma gūs vienīgi panākumus. Galvenokārt es ceru, ka no šī brīža Galileo vārds mums saistīsies ar Eiropas programmas panākumiem.
+<P>
+Atceroties grūtos laikus, ko izraisīja publiskā un privātā sektora partnerības izgāšanās, mums jāapvieno spēki, lai uzsāktu šī projekta realizēšanu. Uzņemoties atbildību būt par galveno budžeta lēmējiestādi, Eiropas Parlaments vēlējās mācīties no pagātnes kļūdām. Tas apstāklis, ka Eiropas Parlaments beidzot piekrita saglabāt uzraudzības pilnvaras, ir svarīgs. Kvalificēta uzraudzība patiesībā ir būtiska, sevišķi tāpēc, ka Galileo programma Eiropas Savienībai ir galvenā.
+<P>
+Šī ir pirmā reize, kad Eiropas Savienība ir ieguldījusi sev piederošā infrastruktūrā. Eiropas Komisija būs tās īpašniece un Eiropas Kosmosa aģentūra to pārvaldīs. Ir nepieciešams skaidri noteikt un sadalīt, kā arī pienācīgi pārraudzīt šīs atbildības. Tā kā Parlaments šajā projektā ir cieši iesaistīts, ir tikai taisnīgi, ka tas jāiesaista programmas uzraudzībā. Tāpēc es atzinīgi vērtēju šīs Iestāžu uzraudzības grupas izveidošanu, kurā tiks iesaistīti Parlamenta, Padomes un Komisijas pārstāvji un kura ļaus katrai iestādei - īpaši jūsu - iegūt šī projekta īpašumtiesības. Šim projektam jāizdodas! No tā ir atkarīga Eiropas Savienības uzticamība starptautiskajā arēnā un - vēl svarīgāk - savu pilsoņu acīs.
+<P>
+Lai to sasniegtu, es uzskatu, ka EKA jāpaļaujas uz Eiropas speciālistu loku, sagādājot sev nepieciešamos ekspertu atzinumus. Tas būs nepieciešams, lai koordinētu firmas, kuras veidos šīs sistēmas dažādās daļas, lai nodrošinātu tās drošību un uzraudzītu izdevumus.
+<P>
+Es gribētu atļauties izteikt savu personīgo viedokli attiecībā uz Galileo izmantošanu militāriem mērķiem. Eiropas Parlaments bija spiests būtiski samazināt militārās izmantošanas iespējas. Žēl gan, jo varbūt tad, kad šī programma darbosies, izrādīsies, ka šo instrumentu var arī apdomīgi izmantot militāriem mērķiem. Galileo veicināja ne vien zinātnes attīstību, bet netieši arī progresu filozofijas un citās uzskatu jomās. Galileo būs milzīga ietekme tehnoloģiskās pielietojamības, mūsu kontinenta neatkarības, kā arī Eiropas Savienības uzticamības ziņā.
+<SPEAKER ID="309" NAME="David Hammerstein">
+Verts/ALE grupas vārdā. - (ES) Priekšsēdētāja kungs, es gribētu pateikties E. Barsi-Pataky, kā arī visiem tiem, kas piedalījās šajā procesā, par tādu atklātu nostāju.
+<P>
+Iepriekšējais Galileo projekts - ar privātajiem ieguldījumiem - izgāzās, un tagad mums ir projekts, ko finansē vienīgi Eiropa. Projektam tas nozīmē lielāku sociālo atbildību.
+<P>
+Šajā saistībā mēs varam atzinīgi vērtēt to, ka Galileo ir uzticēts piedāvāt kvalitatīvus pakalpojumus par godīgām cenām; godīgas cenas nodrošinās to, ka šis publiskais ieguldījums būs izdevīgs pilsoņiem, jo nākotnē tiem nevajadzēs otrreiz maksāt par šiem pakalpojumiem.
+<P>
+Ļoti pozitīvi vērtējams arī tas, ka Galileo būs savietojama ar Savienoto Valstu pašreizējo GPS sistēmu; ir jāmācās no šāda veida savstarpējas izmantojamības pakalpojumiem.
+<P>
+Ir arī svarīgi, ka personu datu aizsardzība un tiesības uz privāto dzīvi ir tehniski iekļautas projektā Galileo. Īsi sakot, Galileo ir kā no jauna piedzimis. Mēs ceram izmantot šīs iespējas dotās priekšrocības, lai visiem Eiropas iedzīvotājiem piedāvātu pilnīgi jaunus un noderīgus pakalpojumus.
+<SPEAKER ID="310" NAME="Vladimír Remek">
+GUE/NGL grupas vārdā. - (CS) Komisār, dāmas un kungi, kā "ēnu” referents es priecājos, ka mēs esam atrisinājuši galvenās problēmas, kas kavēja Galileo sistēmas īstenošanu. Es gribētu uzsvērt E. Barsi-Pataky nozīmīgo atbalstu, kuras kompetence un diplomātiskā takta izjūta palīdzēja virzīt sarunas par jaunajiem ieteikumiem. Kā Padomes un Komisijas trīspusējo sarunu dalībnieks es gribētu arī teikt, ka, pēc manām domām, Parlamenta vārdā šīs sarunas ļoti veiksmīgi vadīja A. Niebler.
+<P>
+Par Galileo es šeit nerunāju pirmo reizi. Tāpat kā iepriekš es nenoliedzu, ka šis projekts ir ne vien vērienīgs un dārgs, bet arī - vai arī tieši šī iemesla dēļ - pretrunā atsevišķu manas grupas locekļu uzskatiem. Es pats, atsaucoties uz manu pieredzi kosmosa jomā, vēl aizvien esmu pārliecināts, ka mēs Eiropā ejam pareizajā virzienā. Taču labākais arguments Galileo labā noteikti būs tas, ka šī programma sāks darboties pēc iespējas drīzāk un veiksmīgāk. Pēc tam, kad izgāzās mēģinājums paļauties uz sadarbību ar privātajām firmām, beidzot tika panākts piesardzīgs risinājums. Vai mēs Eiropā nolemsim atņemt sev jaunāko tehnoloģiju iespējas? Vai mēs varam iztēloties, ka noraidām iespēju paaugstināt rūpniecības produktivitāti, uzlabot visu transporta veidu drošību, taupīt degvielu, iespēju ātrāk reaģēt rūpniecisko un citu katastrofu gadījumos, kā arī citas Galileo piedāvātās priekšrocības? Es esmu pārliecināts, ka atbilde ir - nē.
+<P>
+Šie jautājumi arī dod atbildes uz biežāk uzdotajiem jautājumiem, piemēram, par personu datu un privātās dzīves aizsardzību vai par godīgas ekonomiskās konkurences garantijām. Tas attiecas arī uz mazajiem un vidējiem uzņēmumiem, kam kā apakšuzņēmējiem būs jāveic vismaz 40 % darba. Galileo nav lēts projekts, taču, no otras puses, tam ES dalībvalstīs jānodrošina apmēram 140 000 jaunu darba vietu. Es esmu pārliecināts, ka tad, kad Galileo būs īstenots un darbosies, privātais sektors atgriezīsies un arī gribēs gūt peļņu no šī projekta. Nobeigumā es vēl gribētu teikt, ka es jau Galileo Uzraudzības iestādei piedāvāju mītnes vietu pie mums Prāgā. Mēs vēl aizvien esam ieinteresēti, un uzaicinājums vēl aizvien ir spēkā. Čehijas Republika, viena no mazākajām Eiropas Savienības valstīm, Galileo projektā saskata nākotnes iespējas.
+<SPEAKER ID="311" NAME="Jeffrey Titford">
+IND/DEM grupas vārdā. - Priekšsēdētāja kungs, būsim godīgi! ES satelītu radionavigācijas programmas ir pilnīga katastrofa. Privātais sektors ātri vien saskatīja kaķi maisā un aizlaidās no Galileo, ka papēži vien nozibēja. Bet vai ES ir gatava atzīt acīmredzamo un atteikties no šī projekta? Nē, it nemaz! Tā vietā mums ir šis ziņojums, kas aizstāv ne vien to, ka projektam ar šo budžeta slogu jāvirzās tālāk, bet arī to, ka Eiropas nodokļu maksātājiem jāuzņemas visas izmaksas. Šajā gadījumā tas prasa milzīgu budžeta pieaugumu: no GBP 120 miljoniem līdz GBP 715 miljoniem. Citiem vārdiem sakot, mums būs jāatver savas čeku grāmatiņas šī apkaunojošā projekta vajadzībām.
+<P>
+Savienotajām Valstīm ir sava satelītu sistēma, GPS, un tāpēc arī ES jābūt savai sistēmai; tas ir Galileo galvenais virzītājs. Šādai politikas veidošanai bērnudārza līmenī, kas nepakļaujas veselajam saprātam, nav ticama ekonomiska attaisnojuma, un tā ir morāli un ekoloģiski samaitāta.
+<P>
+Šī iestāde patērē ļoti daudz laika, diskutējot par vidi un izvirzot īstenošanai savus grēku nožēlotāju pasākumus, kas plānoti, lai piespiestu Eiropas iedzīvotājus dzīvot tādā kā pastāvīgā vainas apziņā par oglekļa emisijām. Taču šeit mēs "stumjam” uz priekšu projektu, kura ietekme uz vidi gandrīz pārsniegs aprēķinus. Vai neviens vairs nerēķinās ar oglekļa emisijām, kuras radīsies, palaižot orbītā Galileo sistēmai nepieciešamos 30 satelītus, kam vajadzēs sadedzināt milzīgus daudzumus reaktīvo dzinēju degvielas? ES vides aspekti ir apšaubāmi jau saistībā ar KZP un KLP postošo rīcību, nemaz nerunājot par divu Parlamenta ēku, šeit un Briselē, nevajadzīgo apgādi.
+<P>
+Es šodien aicinu visus deputātus, īpaši tos, kas sevi uzskata par vides aizstāvjiem, "aprunāties” ar savu sirdsapziņu un tad noraidīt šo milzīgo nevajadzīgo dāvanu. Mums nav nepieciešams dublēt iespējas, ko jau sniedz amerikāņu GPS, un mums noteikti nevajag apgrūtināt šo vidi ar pārlieku daudz nevajadzīgiem oglekļa piesārņotājiem.
+<SPEAKER ID="312" NAME="Ján Hudacký" AFFILIATION="PPE-DE">
+(SK) Iesākumā atļaujiet man pateikties referentei E. Barsi-Pataky, kas jau ilgu laiku ir darbojusies šajā jomā un devusi ievērojamu ieguldījumu kopīgo lēmumu un vienošanos pieņemšanā par Galileo programmas veiksmīgu īstenošanu.
+<P>
+Savā runā es gribētu uzsvērt divus svarīgus apstākļus, kas ir būtiski Eiropas satelītu radionavigācijas programmu īstenošanā. Es ļoti atzinīgi vērtēju kopējo vienošanos un lēmumu par šo programmu budžetu, kā arī to, ka pēc Galileo publiskās un privātās partnerības finansējuma modeļa izgāšanās tika atrasti papildu finanšu līdzekļi. Es domāju, ka tas bija visu Eiropas iestāžu ļoti atbildīgs un saprātīgs lēmums. Mēs Rūpniecības, pētījumu un enerģētikas komitejā, kā arī plenārsēdēs to aplūkojām kā ļoti pozitīvu tendenci.
+<P>
+Es domāju, ka Eiropas Savienībai, izmantojot savus sabiedriskos resursus, jāpiedalās tādās programmās un tādā šīs nozares attīstībā, kam ir nozīmīgs jaunu, augstvērtīgu, gandrīz visās sabiedrības jomās vajadzīgu pakalpojumu attīstības potenciāls.
+<P>
+Otrais apstāklis programmu īstenošanā ir iepirkuma procedūra Galileo attīstības posmā. Es gribu teikt, ka arī šajā jomā es esmu apmierināts ar priekšlikumiem, kas paredz sabalansētu līdzdalību visos līmeņos, arī visu dalībvalstu mazo un vidējo uzņēmumu līdzdalību.
+<P>
+Tāpat arī infrastruktūras iepirkšanas sadale sešās galvenajās darbu paketēs, kā arī liels daudzums papildu darba pakešu dos iespēju lielākam skaitam piegādātāju piedalīties publiskā iepirkuma procedūrā, kas tikai var uzlabot visu īstenošanas procesu.
+<P>
+Es gribu izmantot šo iespēju un aicināt iesaistītās iestādes, gan Eiropas, gan valstu līmenī, uzsākt plaša mēroga reklāmas kampaņas, lai nodrošinātu, ka visas attiecīgās ieinteresētās puses būtu iesaistītas gan attīstības posmā, gan arī Galileo sistēmas darbībā.
+<SPEAKER ID="313" NAME="Gilles Savary" AFFILIATION="PSE">
+(FR) Priekšsēdētāja kungs, es biju viens no tiem, kas stāvēja pie Galileo projekta šūpuļa, un varbūt tāpēc es labāk varu novērtēt, cik lielā mērā šis projekts ir aizkavējies. Es uzskatu, ka šim projektam ir divi raksturīgi trūkumi.
+<P>
+Pirmkārt, šis ir Kopienas pirmais lielākais rūpnieciskās iejaukšanās projekts. Nebija viegli pārliecināt cilvēkus, ka ES vajadzētu piederēt satelītnavigācijas sistēmai, un tāpēc pagāja ilgs laiks, lai panāktu politisku vienprātību. Otrkārt, biznesa plānam nevajadzēja būt tādam, kādu mēs to iedomājāmies sākumā, vienkārši tāpēc, ka GPS, mūsu galvenā sāncense, ir neatkarīga un to pilnībā finansē ASV valdība.
+<P>
+Pirms mēs panācām ievērojamu vienprātību triju iestāžu starpā pēc Slovēnijas prezidentūras un J. Barrot pamudinājuma, mums vajadzēja pārvarēt šīs divas sākotnējās problēmas un izvērtēt situāciju. Trīspusējo sarunu gaitā mēs nonācām pie tā, ka pašlaik mums ir dokuments un teksts. Rītdien mēs piedzīvosim Galileo programmas startu, pirms sestdien no Baikonuras tiks palaists otrais satelīts.
+<SPEAKER ID="314" NAME="Tobias Pflüger" AFFILIATION="GUE/NGL">
+(DE) Priekšsēdētāja kungs, attiecībā uz Galileo ir pārāk daudz pārspīlētas sajūsmas. Tomēr ir arī divi milzīgi darvas pilieni.
+<P>
+Pirmkārt, augstās izmaksas, ko nu jau uzņemsies gandrīz vienīgi Eiropas nodokļu maksātāji. Runa ir par vismaz EUR 3,4 miljardiem, bet droši vien būs pat vairāk.
+<P>
+Otrkārt, Galileo paredzamā izmantošana militāriem mērķiem. Galileo vienmēr tikusu reklamēta kā GPS civilā alternatīva. Tās civilā izmantošana tika pat nostiprināta līgumā. Plānotais finansējums no ES budžeta saskaņā ar spēkā esošajiem līgumiem nepieļauj šīs programmas izmantošanu militāros nolūkos. Tāpēc daži gaida Lisabonas līgumu, kurš šādu iespēju pieļaus, taču kuru, cerams, noraidīs Īrijas referendumā. Tomēr jau sen bija paredzēta šīs programmas izmantošana militāros nolūkos. Ir cerība, ka Galileo būs pieejami finanšu līdzekļi no bruņošanās nozares. Galileo ceturto funkciju piedāvāt valsts regulētus pakalpojumus acīmredzot ir plānots izmantot divkārši - arī militārām darbībām, piemēram, policijā, krasta apsardzē un slepenajos dienestos. Lūdzu, sakiet kaut ko par to!
+<P>
+Šāda otra militāra satelītprogramma nav vajadzīga, ja vien tā netiek izmantota ES ģeostratēģisko un militāro interešu labā. Tāpēc Galileo jābūt tikai civilam projektam.
+<SPEAKER ID="315" NAME="Romana Jordan Cizelj" AFFILIATION="PPE-DE">
+(SL) Būtu grūti atrast tādu Eiropas programmu, kas tik ļoti saskanētu ar Lisabonas stratēģijas mērķiem, kā Eiropas globālās navigācijas satelītsistēmas pamatnostādnēs ietvertās darbības. Tajā iekļauts pētījumu un attīstības darbs augsti attīstītu tehnoloģiju jomā, jaunu iespēju radīšana jaunatnei, jaunas un labākas darba vietas, uzņēmumu attīstība, un tā varētu turpināt...
+<P>
+Šīs sistēmas īstenošanai ir augstas prasības, tāpēc neviena dalībvalsts viena pati to nevarētu paveikt. Šeit kļūst skaidri redzama šīs programmas pievienotā vērtība - Eiropas integrācija. Sistēmas ieviešana Eiropai nodrošina arī lielāku neatkarību un palielina tās konkurētspēju.
+<P>
+Pat vēl nesen projekts tika aizkavēts galvenokārt finansējuma grūtību dēļ. Tāpēc es apsveicu referenti Etelka Barsi-Pataky un Eiropas Parlamenta sarunu grupas vadītāju Angelika Niebler, kas ir paveikušas izcilu darbu. Es arī gribētu apsveikt Eiropas Padomes Slovēnijas prezidentūru par tās vienošanos ar Parlamentu.
+<P>
+Taču programmas īstenošana notiek ar dažu gadu aizkavēšanos. Es vēlētos, lai turpmākie posmi, kas ietver konkrētus pasākumus, tiktu pabeigti iespējami drīzāk, un es lūdzu jūs darīt visu, lai tas notiktu. Sistēmas uzdevums ir dažāda, augstām prasībām atbilstoša tehniskā aprīkojuma izveidošana. Es zinu, ka dažas dalībvalstis šeit plānoto tehnisko nodrošinājumu jau ir iekļāvušas savās politiskajās stratēģijās. Slovēnijā, piemēram, ir apstiprināta free-flow signālu pārraides rīcības programma, un es ceru, ka šādā nolūkā mēs Eiropas satelītus izmantosim daudz ātrāk nekā citas valstis.
+<P>
+Nobeigumā vēl es gribētu piebilst, ka mums jāizveido uzraudzības iestāde un tās galvenās mītnes. Dalībvalstīm jāatceras Padomes 2003. gada lēmums, un šai iestādei jāpiedāvā mītnes vieta kādā no jaunajām dalībvalstīm, kurās līdz šim nav nevienas Eiropas iestādes. Viena kandidāte ir Ļubļina, Slovēnijas galvaspilsēta. Šis ierosinājums ir rūpīgi un pamatīgi pārdomāts, tas ir nozīmīgs atbalsts, un mēs ceram, ka tas tiks pieņemts.
+<SPEAKER ID="316" NAME="Inés Ayala Sender" AFFILIATION="PSE">
+(ES) Priekšsēdētāja kungs, šodien mums, eiropiešiem, patiesībā ir jāapsveic pašiem sevi par to, ka mums ir izdevies veiksmīgi pabeigt tādu simbolisku projektu kā Galileo, kas daudz uzskatamāk demonstrē Eiropas vēlmi veikt uzlabojumus visās nozarēs, arī kosmosa, transporta un sakaru nozarē. Šis projekts veido arī pamatu daudziem tādiem pakalpojumiem nākotnē, ko pašlaik mēs varam tikai iztēloties.
+<P>
+Es gribu apsveikt referenti E. Barsi-Pataky un pateikties par viņas gribu palīdzēt šīs programmas izveidošanā un nodrošināt, ka tā tiek turpināta Iestāžu komitejas uzraudzībā, kas, es domāju, ir ļoti pozitīvs jaunievedums, kuru varbūt var piemērot arī citos gadījumos.
+<P>
+Sevišķi es gribētu apsveikt Komisiju un tās priekšsēdētāja vietnieku Barrot kungu par izturību un par laicīgajiem dusmu izvirdumiem, kas neapšaubāmi palīdzēja pārvarēt būtiskus finanšu šķēršļus un valstu iebildumus un egoismu.
+<P>
+Nobeigumā es gribētu izteikt atzinību Slovēnijas prezidentūrai un līdz ar to Padomei, kas arī palīdzēja sasniegt šo mērķi un panākt vienošanos, un arī manas valsts, Spānijas, iedzīvotājiem, jo mēs krietni daudz esam cīnījušies šī projekta dēļ un mums ir vēlme tajā ieguldīt visu mūsu enerģiju un spējas.
+<P>
+Mums vēl atliek nodrošināt un garantēt to, ka tiks īstenots tas, par ko mēs esam vienojušies un par ko Parlaments rīt balsos, un es vēlreiz atgādinu - tas, ko iesāka E. Barsi-Pataky grupa.
+<SPEAKER ID="317" NAME="Priekšsēdētājs">
+Padomes pārstāvis R. Žerjav man teica, ka viņam ir jāaiziet pirms 18.00, un tāpēc viņš lūdza vārdu. Es nezinu, par ko viņš runās, jo parasti komisāram un Padomei ir priekšrocība apkopot diskusijas rezultātu, bet šī diskusija vēl nav beigusies. Tomēr mans pienākums ir ļaut Padomes pārstāvim runāt, un to es arī daru.
+<SPEAKER ID="318" NAME="Radovan Žerjav">
+Padomes priekšsēdētājs. - (SL) Ļaujiet man sirsnīgi pateikties par jūsu konstruktīvajām debatēm, kā arī atvainoties par to, ka man no šīs sēdes jāaiziet agrāk, jo es braucu mājās.
+<P>
+Nobeigumā es ar jūsu atļauju gribētu atgādināt, ka Galileo projekts dalībvalstīs tiek rūpīgi pārbaudīts. Eiropas GNSS sistēmu labvēlīgs iznākums attiecas ne vien uz Eiropu, rezultātus varēs redzēt arī starptautiskā mērogā.
+<P>
+Es jums piekrītu, ka tā ir pirmā kopīgā Eiropas struktūra, tāpēc mēs nedrīkstam zaudēt ne mirkli dārgā laika, mums nekavējoties jādod "zaļā gaisma” šo programmu īstenošanai. Mēs apzināmies, ka īstenošanas regulas pieņemšana ir nozīmīgs solis ceļā uz Galileo projekta realizēšanu. Tāpēc mūs gaida milzīgs kolektīvs darbs, un mēs ticam, ka turpmāk mums veiksies tikpat labi kā iepriekš.
+<SPEAKER ID="319" NAME="Ulrich Stockmann" AFFILIATION="PSE">
+(DE) Priekšsēdētāja kungs, es šai medus mucā gribu iepilināt vēl dažus pilienus darvas. Pēc lielās krīzes mums tagad ir labs un sabalansēts regulas priekšlikums, kas, pēc manām domām, nodrošinās, ka tiek pabeigts programmas izstrādes posms. Lai tas izdotos, mums tomēr nevajadzētu pārkāpt paredzētos termiņus. Projekts ir aizkavējies par pieciem gadiem, bija plānots, ka tā darbības posms sāksies 2013. gadā. Līdz ar to izgāžas mūsu rūpniecības politikas stratēģija, kas paredz Galileo laist tirgū pirms GPS 3 un noteikt šajā jomā standartus visā pasaulē. Tāpēc es uzskatu, ka mums vēl aizvien nepieciešams, lai Komisija veiktu savas radītās krīzes sīku analīzi, jo mums ir jāmācās no PPP modeļa neveiksmes un programmai Caesar ir paredzēts vēl viens PPP modelis.
+<P>
+Galileo mums vairs nedod nekādas konkurētspējas priekšrocības, tāpēc noteikti būs sarežģītāk pārdot šo sistēmu. Šī iemesla dēļ mums laikus jāsāk diskusija par to, cik mūsu sabiedrībai izmaksās darbības posms pēc 2013. gada, un mums jākoncentrējas uz to, kā mēs Galileo projektam varētu nodibināt tādas sabiedriskās finansēšanas sistēmas kā maksa par ceļu izmantošanu, eCall un Caesar. Un visbeidzot mums pašlaik nepieciešama programma, lai Galileo un GPS signālus varētu lietot paralēli. Uz to mums jākoncentrējas, jo tam ir pievienotā vērtība.
+<P>
+(Priekšsēdētājs pārtrauc runātāju)
+<SPEAKER ID="320" NAME="Teresa Riera Madurell" AFFILIATION="PSE">
+(ES) Priekšsēdētāja kungs, es esmu starp tiem, kas uzskata, ka šodien mums jāapsveic pašiem sevi par to apņēmību, ar kādu Kopienas iestādes ir pārvarējušas šī projekta labākos un ļaunākos brīžus; beidzot mēs pilnīgi droši atrodamies pozīcijā, lai sāktu plānot Galileo izvēršanas fāzi.
+<P>
+Mēs arī atzinīgi vērtējam pūles nodrošināt pēc iespējas plašāku līdzdalību projektā. Pēc iepriekš teiktā es gribētu uzsvērt kaut ko ļoti svarīgu: šī projekta civilo būtību, kas ir nozīmīgs faktors, lai nodrošinātu tā darbības pārredzamību.
+<P>
+Sistēmas neatkarība ļaus sertificēt lietotājiem piedāvātos pakalpojumus un garantēs to kvalitāti, kas ir plaša mēroga jaunu komerciālu pielietojumu attīstības priekšnoteikums, kurš piedāvā milzīgas iespējas mazajiem un vidējiem uzņēmumiem un kuram ir arī milzīgs vides un sociālais potenciāls: navigācija aklajiem, vispieejamāko maršrutu plānošana ratiņkrēslu lietotājiem utt.
+<SPEAKER ID="321" NAME="Christine De Veyrac" AFFILIATION="PPE-DE">
+(FR) Priekšsēdētāja kungs, tāpat kā EGNOS arī Galileo programma simbolizē Eiropas garu: apvienot spēkus, lai mēs kopā varētu virzīties uz priekšu.
+<P>
+Galileo vairāk nekā jebkurš cits projekts atspoguļo Kopienas garu, nevis katras valsts nacionālo ego. Ideja finansēt, pamatojoties uz valstu ieguldījumiem, lai gan tikai daļēji, nebija laba ideja. Par laimi, tagad tas ir atrisināts, izlemjot par labu pilnīgam finansējumam no Kopienas budžeta.
+<P>
+Es gribētu pateikties Eiropas Komisijai par to, ka pēc tam, kad netika panākta vienošanās starp uzņēmumiem, tā atrada alternatīvu risinājumu, un par to, ka tā strādāja pie priekšlikuma sadalīt līgumus tādā veidā, kas apvienos visas dalībvalstis un Eiropas Parlamentu.
+<P>
+Šodien mēs beidzot esam ieguvuši finanšu pārredzamību. Mums ir veicies, ka mūsu iestādes un Padome ir gatavas nekavējoties vienoties. Zinātnieki un kosmosa rūpniecībā strādājošie - es savā reģionā Tulūzā esmu sastapusies ar daudziem - gaida no mums lielas lietas. Nepievilsim viņu cerības!
+<SPEAKER ID="322" NAME="Pierre Pribetich" AFFILIATION="PSE">
+(FR) Priekšsēdētāja kungs, (nav dzirdams) Galileo, pirmā Kopienas infrastruktūra, prasa no visām ieinteresētajām pusēm, lai tās tiektos uz vienu mērķi - panākumiem.
+<P>
+Šis uzdevums apliecina atbalsta nepieciešamību, nevis to, ka mums tam vajadzētu apstiprinājumu. Salīdzinājumā ar konkurenti, GPS, neveiksmju sērija līdz šim diemžēl ir kavējusi progresu. Ar šo grozīto ziņojumu mēs iegūsim līdzekļus, ar ko mēs varēsim gūt panākumus, pamatojoties uz kopējo lēmumu. Veidojot šo globālās navigācijas sistēmu, mums jāizvirza jauns mērķis - saistībā ar komplicētajiem normatīvajiem aktiem saskatīt jauno struktūru, konkrētās atbildības un jauno pārvaldību.
+<P>
+Tā rīkojoties, mēs varam izvairīties no tā, ka šīs programmas piecu gadu kavēšanās atkal ieilgst. Mums ir kolektīvā atbildība pārraudzīt tās reālo pielietojumu un iesaistīties, veicināt tirgu, uzsākot atbalstīt tā attīstību. Radionavigācijas sistēmas veiksmīgas īstenošanas gadījumā elektronikas un programmatūras industrijai ir iespējas iegūt no tās daudz ko. Būs jāizcīna smagas cīņas, lai nodrošinātu tās priekšrocības salīdzinājumā ar pašreizējo sistēmu.
+<SPEAKER ID="323" NAME="Zuzana Roithová" AFFILIATION="PPE-DE">
+(CS) Dāmas un kungi, ļaujiet man pievērsties jautājumam par Galileo, Eiropas GNSS, Uzraudzības iestādes mītnes vietām. Mana atbilde ir tāda, ka Čehijas Republika ir valsts, kas tam ir visvairāk gatava un kas turklāt ir dalībvalsts, kurā neatrodas vēl neviena Eiropas aģentūra. Prāga atrodas stratēģiski izdevīgā vietā Eiropas sirdī, un jaunās mītnes vietai paredzētajā ēkā pašlaik ir izvietota Informātikas ministrija, un tā atrodas bijušajā militārajā zonā Klecany. Turklāt Čehijas Republika ir valsts ar augstu drošības līmeni, un tās zinātne un pētniecība ir tikpat augstā līmenī kā Eiropas Savienības attīstītākajās valstīs. Kopš 2001. gada Čehijas Republikā tiek īstenots pētījumu projekts, kas paredz izstrādāt dzelzceļu, ceļu, lidostu un bīstamo kravu pārvadāšanas sistēmas tehnoloģisko aprīkojumu. Čehijas Tehniskā universitāte Prāgā koordinē zemes radiouztvērēja projektu, kas būs saderīgs ar abām, gan amerikāņu, gan krievu, navigācijas sistēmām. Vēl varu piebilst, ka Prāga ir arī labiekārtota un skaista vieta, kur var rīkot Eiropas sanāksmes.
+<SPEAKER ID="324" NAME="Andrzej Jan Szejna" AFFILIATION="PSE">
+(PL) Priekšsēdētāja kungs, Galileo programma beidzot ir gatava. Ņemot vērā tās ieguldījumu tik svarīgās integrācijas jomās kā pētījumi un inovācijas, Eiropas kosmosa politika un Eiropas ārpolitika un drošības politika, tā ir stratēģisks līdzeklis Eiropas Savienības nākotnei. Tā ir varens līdzeklis, kas ļaus ES iegūt svarīgu lomu starptautiskajā arēnā.
+<P>
+Attiecībā uz projektu, ar ko mēs šodien iepazināmies, vajadzētu atcerēties, ka Parlaments ir ieviesis ļoti skaidru pienākumu sadali un sadalījis atbildību starp Eiropas Komisiju, Eiropas satelītnavigācijas sistēmas Uzraudzības iestādi un Eiropas Kosmosa aģentūru. Komisijai ir uzticēta atbildība tikai par projekta pārvaldību, kamēr citi pasākumi un uzdevumi, ko apņemas veikt GSA un EKA, ir jāīsteno ārpus Komisijas kompetences robežām.
+<P>
+Turklāt Parlaments ir ļoti skaidri pateicis, ka turpmāk netiks pieļauta nekāda kavēšanās, un Iestāžu Galileo komitejas izveidošana sekmēs šo nostāju. Apsverot to, vai atbalstīt šo priekšlikumu, Parlamentam jāpatur prātā, ka satelītu radionavigācijas infrastruktūras izveidošana pārsniegs dalībvalstu finanšu un tehnisko potenciālu un tādēļ tā ir Kopienas lieta.
+<SPEAKER ID="325" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Priekšsēdētāja kungs, es gribētu pievienoties saviem kolēģiem, kas sevišķi slavēja komisāru J. Barrot un mūsu referentes E. Barsi-Pataky un A. Niebler par izturību.
+<P>
+Mums pēc iespējas drīzāk ir vajadzīga funkcionējoša Galileo sistēma, proti, sava, Eiropas, sistēma. Mums ir diezgan daudz uzdevumu, ko mēs ar šīs sistēmas palīdzību gribam atrisināt. Mēs efektīvāk gribam kontrolēt mūsu satiksmes plūsmas gan uz ceļiem, gan ūdeņiem, un mēs gribam izveidot mūsu gaisa satiksmi tā, lai varētu ietaupīt iespējami vairāk enerģijas, lai labākas organizācijas dēļ būtu iespējams aizkavēt klimata pārmaiņas.
+<P>
+Ņemot vērā iepriekš teikto, katrs mēnesis, kurā mēs ātrāk virzāmies uz priekšu, ir mūsu priekšrocība. Tāpēc mums jāturpina strauji doties tālāk.
+<SPEAKER ID="326" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Priekšsēdētāja kungs, es domāju, ka Eiropas Savienība ar šo sistēmu ir uz pareizā ceļa. Tomēr mums arī ļoti kritiski jāizvērtē tās pārdomas, ko izteica, piemēram, J. Pflüger. Mums principā jānoskaidro, cik daudz satelītu navigācijas sistēmu pašlaik jau darbojas un cik atkarīgi no Savienotajām Valstīm mēs šajā jomā jau esam kļuvuši. Tāpēc būs labi, ja mums būs kaut kas, ar ko mēs varēsim konkurēt.
+<P>
+Īpaši labi un svarīgi ir tas, ka šī sistēma plaši tiks izmantota smago kravas transportlīdzekļu ceļu maksas iekasēšanai un satiksmes plūsmu pārcelšanai no ceļiem uz dzelzceļiem, jo ar to ir saistītas daudzas iespējas. Mēs varam iekasēt maksu atkarībā no nobraukto kilometru skaita, vai arī mēs varam ieviest vienotu maksu visā Eiropā. Es domāju, ka tas ir svarīgi Eiropas transportam un tas ir svarīgi mums visiem.
+<SPEAKER ID="327" NAME="Jacques Barrot">
+Komisijas priekšsēdētāja vietnieks. - (FR) Priekšsēdētāja kungs, šķiet, regulas teksts, ko jūs pieņemsiet, ļaus Eiropas Savienībai risināt tos uzdevumus, kas saistīti ar vienas no šī gadsimta svarīgākajām tehnoloģijām attīstīšanu.
+<P>
+Priekšsēdētāja kungs, es gribētu īpaši pateikties ikvienam, kas šeit, Parlamentā, ieguldījis darbu, lai panāktu šo veiksmīgo rezultātu. Vispirms es gribētu pateikties E. Barsi-Pataky, kas A. Niebler vadītajā komitejā nekad nepārstāja ticēt Galileo, turpinot izvirzīt augstas prasības. Es pateicos arī A. Niebler par viņas izšķirīgo lomu trīspusējo sarunu nobeigumā.
+<P>
+Es gribētu pateikties arī Budžeta komitejai un R. Böge, kas šodien nav ieradies. Taču M. Skynas bija referents tad, kad mums bija nepieciešams Parlamenta atbalsts finansējuma nodrošināšanai.
+<P>
+Jensen kundze, paldies jums par to, ka jūs Transporta un tūrisma komitejā dedzīgi atbalstījāt Galileo. Kā jau Niebler kundze teica, šodien Eiropai ir veiksmīga diena.
+<P>
+Priekšsēdētāja kungs, es nevaru atbildēt visiem referentiem. Es ļoti uzmanīgi klausījos un šo to atzīmēju. Es gribētu teikt, ka tagad mums jāuzsāk sarunas ar visu dalībvalstu mazajiem un vidējiem uzņēmumiem, lai varētu veikt sagatavošanas procesu un realizēt Galileo izmantošanas tehnoloģiskās iespējas. Es izmantošu iespēju atgriezties pie jūsu aprakstītajām tehnoloģiskajām iespējām, kas ietver gan transportu, gan civilo aizsardzību. Katrā ziņā Galileo būs daudz efektīvāka nekā pašreizējā GPS.
+<P>
+Es gribētu arī vēlreiz uzsvērt, ka mans mērķis ir izveidot iestāžu uzraudzības grupu, kas ir vēl viens veids, kā šim projektam piesaistīt mūsu iestādes.
+<P>
+Tagad es gribētu jums mazliet pastāstīt par gaidāmo darbu. Pateicoties EP balsojumam, mums tagad ir budžets, juridiskais pamats, skaidra pārvaldība un iepirkumu programma. Šīs programmas izstrāde nebija viegla, jo tās mērķis bija sadalīt darbu starp ES dalībvalstu lielākajiem kosmiskās rūpniecības uzņēmumiem, vienlaikus organizējot darbu veikšanu apakšuzņēmumos, kā daudzi no jums ļoti pareizi aicināja. Mūsu mazie un vidējie uzņēmumi arī ir jāiesaista projekta realizēšanā. Šī iemesla dēļ mēs iepirkumu programmā 40 % atvēlējām apakšuzņēmējiem.
+<P>
+Komisija parakstīs nolīgumu ar Eiropas Kosmosa aģentūru. Mēs ceram, ka tas tiks izdarīts līdz vasaras sākumam un mēs varēsim publicēt uzaicinājumus iesniegt priekšlikumus regulā paredzētajām sešām galvenajām darba paketēm. Mēs gribētu, lai būtu iespējams parakstīt līgumus līdz gada beigām, lai satelītu un satelītu sistēmas izveidošana varētu sākties tūlīt nākamā gada sākumā. Atlikušo 26 satelītu būvei varētu būt nepieciešami apmēram divi līdz trīs gadi. Tad būs vēl divi vai trīs gadi līdz to palaišanai. Tāpēc ļoti rūpīgi jāievēro Galileo stratēģiskais plāns.
+<P>
+Man jāsaka, ka inženieri un tehniķi strādā ļoti neatlaidīgi. Kā jau G. Savary iepriekš teica, es esmu apmierināts, ka varu paziņot, ka otrais Galileo satelīts, Giove-B, tiks palaists orbītā šosvētdien, 2008. gada 27. aprīlī, plkst. 0.15 (4.15 pēc vietējā laika) ar nesējraķeti Soyuz no Baikonuras Kazahstānā. Giove-B jau atrodas Baikonurā, kur tas tiks pārbaudīts vēl pēdējo reizi pirms starta. Satelītam jānonāk tam paredzētajā orbītā septiņas stundas pēc palaišanas brīža, un tā vadība notiks tieši no Fucino kontroles centra Itālijā. Mums visiem jācer, ka Giove-B būs tikpat veiksmīgs kā Giove-A, jo īpaši tāpēc, ka Giove-B ir aprīkots ar visām tehnoloģijām.
+<P>
+Remek kungs, atļaujiet man pateikties jums par jūsu ierašanos šeit, jo jūs zināt, kā tas ir - būt kosmosā.
+<P>
+Es Parlamentam esmu izteicis tik daudz pateicības vārdu, bet tie nav tikai tukši vārdi, ticiet man. Es patiešām jūtu, ka šis Eiropas projekts ieraudzīs dienas gaismu, Parlaments tam dos reālu ieguldījumu. Tāpēc vēlreiz paldies jums! Kopā mums izdosies īstenot Galileo projektu!
+<SPEAKER ID="328" NAME="Etelka Barsi-Pataky" AFFILIATION="PPE-DE">
+(HU) Priekšsēdētāja kungs, es nespēju beigt uzsvērt, ka Eiropas inženieri un izgudrotāji ir paveikuši izcilu darbu un, kā priekšsēdētāja vietnieks paziņoja, mēs gaidām Giove-B palaišanu orbītā. Eiropas Komisija priekšsēdētāja J. Barrot personā ierosināja izvirzīt apspriešanai jaunu priekšlikumu par intensīvu viena gada programmu, un Eiropas Kopiena izveidoja jaunu struktūru un apsolīja nepieciešamo finansējumu. Galileo programma ir gatava jaunam STARTAM, citiem vārdiem sakot, projekts ir beidzies. Precīzāk, mūs vēl gaida daudzi sarežģīti uzdevumi. Es gribētu uzsvērt, ka "Eiropā ražotā” GNSS programma nav izveidota kādas dalībvalsts interesēs vai kāda rūpniecības uzņēmuma interesēs. Īstenojot šo programmu, to vajadzētu vienmēr paturēt prātā. Un visbeidzot, priekšsēdētāja kungs, ja es drīkstētu atļauties nelielu komentāru, - kad tika sākta Galileo programma, ne Ungārija, kas mani ievēlēja 2004. gadā, ne arī Slovēnija vēl nemaz nebija ES dalībvalstis. Tāpēc es esmu sevišķi priecīga, ka mēs kopīgi strādājam pie šī jaunā starta 27. aprīlī. Galileo ir ļoti nozīmīgs solis spēcīgas Eiropas izveidošanā. Paldies jums!
+<SPEAKER ID="329" NAME="Priekšsēdētājs">
+Debates ir slēgtas.
+<P>
+Balsošana notiks rīt.
+<P>
+Rakstiskie paziņojumi (142. pants)
+<SPEAKER ID="330" NAME="Janusz Lewandowski  " AFFILIATION="PPE-DE">
+rakstiski. - (PL) Kā šī ilgā vienošanās procesa par Galileo programmas finansiālo pamatu liecinieks un dalībnieks es ar interesi sekoju līdzi tiem soļiem, ko Eiropas Savienība spērusi šīs programmas īstenošanas virzienā. Finansēšanas metode, kas ir milzīga atkāpe no pamatprincipiem, palielina mūsu kopējo atbildību par programmas izdošanos. Publiskā un privātā iniciatīva cieta fiasko. Tā kā mēs nedalāmies riskā ar privāto sektoru, mēs esam atbildīgi par Eiropas nodokļu maksātāju naudas prātīgu izlietošanu.
+<P>
+Tieši šī iemesla dēļ projekta pārvaldībai ir tik liela nozīme. Ir lietderīgi nepārprotami paziņot, kā tas darīts ziņojuma projektā, ka Eiropas Kopiena ir visu materiālo un nemateriālo aktīvu, kas radīti EGNOS un Galileo aizgādībā, vienīgā īpašniece. Šī jautājuma risināšana virzās diemžēl ļoti lēni - ir pagājuši 11 gadi kopš tā brīža, kad Eiropas Komisija iepazīstināja ar savu pirmo paziņojumu par Eiropas satelītnavigācijas sistēmu. Aizkavēšanās noteikti ir palielinājusi šīs programmas izmaksas un apdraudējusi tās konkurētspēju, jo pasaulē parādījušās citas iniciatīvas. Pasaule nestāv uz vietas!
+<P>
+Skaidri izteiktā šīs programmas Kopienas un sabiedriskā būtība attaisno Eiropas Parlamenta prasības, jo tam dots demokrātisks mandāts, nostiprināt tā kontroles un darbības ietekmi Galileo sistēmas sagatavošanas un īstenošanas posmā.

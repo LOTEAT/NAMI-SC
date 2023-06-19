@@ -1,0 +1,4 @@
+<CHAPTER ID="008">
+Hlasovanie (pokračovanie)
+<SPEAKER ID="060" NAME="Predseda">
+Budeme teraz pokračovať v hlasovaní.

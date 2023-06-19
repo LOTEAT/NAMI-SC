@@ -1,0 +1,6 @@
+<CHAPTER ID="007">
+Głosowanie
+<SPEAKER ID="079" NAME="Przewodniczący">
+Pzechodzimy do głosowania.
+<P>
+(Wyniki i inne szczegóły głosowania zawarte są w protokole)

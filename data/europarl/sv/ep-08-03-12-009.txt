@@ -1,0 +1,8 @@
+<CHAPTER ID="009">
+Justering av protokollet från föregående sammanträde: se protokollet
+<SPEAKER ID="210" NAME="Talmannen">
+Protokollet från sammanträdet tisdagen den 11 mars har delats ut.
+<P>
+Finns det några synpunkter?
+<P>
+(Protokollet justerades.)

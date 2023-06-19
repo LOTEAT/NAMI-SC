@@ -1,0 +1,6 @@
+<CHAPTER ID="005">
+Heure des votes
+<SPEAKER ID="108" NAME="La Présidente">
+L'ordre du jour appelle l'Heure des votes.
+<P>
+(Pour les résultats des votes et autres détails les concernant: voir procès-verbal)

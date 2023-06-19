@@ -1,0 +1,160 @@
+<CHAPTER ID="014">
+Migracija na drugo generacijo schengenskega informacijskega sistema (SIS II) - Migracija na drugo generacijo schengenskega informacijskega sistema (SIS II) (razprava) 
+<SPEAKER ID="392" NAME="Predsednik">
+Naslednja točka je skupna razprava o:
+<P>
+poročilu gospoda Carlosa Coelha v imenu Odbora za državljanske svoboščine, pravosodje in notranje zadeve o migraciji na drugo generacijo schengenskega informacijskega sistema (Sklep) (12059/1/2008 - C6-0188/2008 - in
+<P>
+poročilu gospoda Carlosa Coelha v imenu Odbora za državljanske svoboščine, pravosodje in notranje zadeve o migraciji na drugo generacijo schengenskega informacijskega sistema (Uredba) (11925/2/2008 - C6-0189/2008 -.
+<SPEAKER ID="393" NAME="Carlos Coelho" AFFILIATION="PPE-DE">
+(PT) Gospod predsednik, predsednik Sveta, podpredsednik Evropske komisije, gospe in gospodje, obravnavamo dva instrumenta: uredbo in sklep o migraciji s SISone4ALL na SIS II, vključno s celovitim preskusom, s katerim bo mogoče oceniti, ali je učinkovitost delovanja sistema SIS II enaka učinkovitosti trenutnega sistema. Ti predlogi so posledica spremembe migracijske strategije.
+<P>
+Štiri točke: prvič, prvotni načrt je predvideval migracijo 15 držav članic v procesu, ki bi trajal približno 8 ur. V tem času se je število držav članic povečalo na 25, zaradi česar je proces veliko bolj zapleten in zahteven. Drugič, vzpostaviti bo treba prehodno tehnično arhitekturo, ki bo v določenem prehodnem obdobju omogočila vzporedno delovanje SIS1+ in SIS II. Gre za razumno rešitev, s katero bi se morali vsi strinjati, in nam bo v primeru kakršnih koli težav omogočila prehod na prvoten sistem. Tretjič, v tem prehodnem obdobju bo na voljo tehnično orodje - pretvornik -, ki bo povezal centralni sistem SIS I s centralnim sistemom SIS II, tako bosta lahko oba sistema obdelovala iste podatke, države članice pa bodo ostale na enaki ravni. In zadnjič, pooblastilo, ki je bilo Komisiji podeljeno leta 2001, poteče konec tega leta.
+<P>
+Zastavili smo štiri vprašanja. Prvič, Evropski komisiji mora biti zagotovljeno pooblastilo za razvoj SIS II vse dokler ne bo ta sistem začel delovati. Nasprotujemo ideji, o kateri se je govorilo, da bi Komisiji pooblastilo prenehalo, ko bi bilo delo na centralnem sistemu C-SIS končano. Drugič, jasno morajo biti opredeljene pristojnosti Evropske komisije in pristojnosti držav članic. Tretjič, pred izvedbo migracije podatkov morajo biti izpolnjeni vsi pogoji, določeni v št. 2, ki vzpostavljajo pravno podlago za SIS. In nazadnje, ta migracija se mora izvesti v enem samem koraku, ki ga opravijo vse države članice.
+<P>
+Predlogi, ki smo jih prejeli 3. septembra, isti dan, kot so bili potrjeni v odboru Coreper, korenito spreminjajo prvotne predloge. Kadar predstavljena besedila vsebujejo znatne spremembe, se je običajno treba ponovno posvetovati s Parlamentom. Vendar naj še enkrat poudarim, da nimamo več veliko časa; pooblastilo Komisije poteče konec leta 2008, zato je zelo pomembno, da Svet do konca oktobra potrdi te predloge. Parlament je ponovno dokazal, da prevzema svoje dolžnosti in da za zamudo pri procesu nismo krivi mi. Opravljene spremembe prinašajo odgovore na večino mojih vprašanj, navedenih v osnutku poročil, predvsem z vidika razjasnitve odgovornosti Komisije in odgovornosti držav članic in da bo Komisija še naprej imela pooblastilo za razvoj SIS II, vse dokler ne bo vzpostavljen.
+<P>
+Rad bi čestital francoskemu predsedstvu za odlično delo, ki ga je opravilo pri doseganju dobrega sporazuma med Komisijo in državami članicami, za katerega se je zdelo, da ga bo težko doseči. Evropski parlament bi rad pripomogel k temu, da bi se bilo mogoče izogniti dodatnim zamudam in da bi SIS II začel delovati do novega določenega datuma: 30. septembra 2009. Vendar pa nas skrbi, tako kot so neuradno povedali številni strokovnjaki, da tega datuma zelo verjetno tudi tokrat ne bomo upoštevali.
+<P>
+Obstajata dve ključni točki, za kateri Evropski parlament meni, da sta izredno pomembni, s čimer se strinjajo tudi vse politične skupine. Prvič, Evropski parlament bi moral biti seznanjen s potekom projekta na vsakih šest mesecev in drugič, pooblastilo, podeljeno Komisiji, ne bi smelo biti odprto pooblastilo, prav tako pa mora biti vključeno pravilo, v skladu s katerim bi bilo v primeru zamude, daljše od enega leta, potrebno ponovno posvetovanje z Evropskim parlamentom. Iskreno upamo, da bo tokrat projekt pravočasno zaključen in da bo lahko SIS II začel delovati na predviden datum.
+<SPEAKER ID="394" NAME="Predsednik">
+Besedo dajem Svetu. Gospod Jouyet, v imenu Evropskega parlamenta bi se vam rad zahvalil, da ste bili prisotni ves dan. Menim, da pozornost, ki jo izkazujete tej skupščini, odraža vašo predanost Evropi.
+<SPEAKER ID="395" NAME="Jean-Pierre Jouyet">
+predsednik Sveta. - (FR) Gospod predsednik, hvala za prijazne besede. Kompliment v zvezi s predanostjo Evropi vam vračam, prav tako pa gre ta kompliment tudi podpredsedniku Komisije, Jacquesu Barrotu.
+<P>
+Gospod Coelho, gospe in gospodje, preoblikovanje schengenskega sistema je nujno za razvoj novih funkcionalnosti, ki bodo v prihodnje potrebne za preprečevanje kriminala in nadzor mej. Minister, sistem "SISone4ALL", razvit na pobudo portugalskega predsedstva, je dober kompromis, ki je državam članicam, ki so vstopile leta 2004, omogočil vključitev, in še pomembnejše, pripeljal do odprave nadzora na notranjih kopenskih mejah v decembru, ter zračnih mejah v marcu.
+<P>
+Vsi smo z navdušenjem spremljali, ko je padla še zadnja železna zavesa, ko sta slovaški in avstrijski minister simbolično prerezala leseno oviro na mejnem prehodu Berg-Petržalka vzhodno od Dunaja. Mislim, da je to izjemen dogodek za vse zveste zagovornike Evrope, saj se območje prostega gibanja razprostira na 3,6 milijona km2. To je največje območje na svetu, čeprav je - kot veste - ta svoboda nujno povezana z elektronskim sistemom, ki nam omogoča identifikacijo oseb, osumljenih kaznivih dejanj, sledenje ponarejenih dokumentov ter ukradenih potnih listov, hkrati pa izvajanje strogih predpisov o varstvu podatkov za zagotavljanje posameznih svoboščin. To točko bi rad izpostavil.
+<P>
+Kot ste povedali, trenutni sistem ne dopušča uporabe sodobne tehnologije, tudi če je v skladu s temeljnimi načeli varstva podatkov in načelom sorazmernosti. Kako naj policija učinkovito dela s centralno bazo podatkov, ki jim trenutno ne omogoča, da bi si ogledali digitalne fotografije iskanih kriminalcev, da bi jih lahko z gotovostjo identificirali? Zaradi tega moramo ohraniti namen informacijskega sistema Schengen II ali SIS II; kot ste pojasnili, to predstavlja pravo vprašanje pri naši razpravi. Gospod predsednik, v imenu Sveta bi se rad zahvalil podpredsedniku, gospodu Barrotu, ki se je v skladu z novim mandatom strinjal, da bo poleg napredka na področju nacionalnih baz podatkov še naprej nadziral napredek pri novi centralni bazi podatkov SIS. Rad bi se mu zahvalil za njegovo osebno sodelovanje pri tem projektu.
+<P>
+Osnutek besedil, o katerih boste jutri glasovali, določa jasnejšo delitev odgovornosti med državami članicami in Komisijo v vsaki posamezni fazi, pa naj bo to v zvezi z razvojem projekta, končnimi preskusi, vmesnimi fazami, pretvornikom ali v zvezi z migracijo z enega na drug sistem z namenom vzpostavljanja celovite uravnoteženosti med obveznostmi držav članic in odgovornostmi Evropske komisije.
+<P>
+Predvsem bi se rad zahvalil gospodu Coelhu, ki je skupaj s kolegi iz Odbora za državljanske svoboščine, pravosodje in notranje zadeve delo pri tem pomembnem projektu opravil hitro, učinkovito in na domiseln način. Prav tako bi ga prosil, da moje zahvale posreduje predsedniku odbora, gospodu Deprezu. Gospod Coelho je spodbujal podporo besedilom, potrebnim za današnje plenarno zasedanje, ta besedila pa vsebujejo predloge, ki ste jih dali vi, gospod Coelho. Današnja podpora Parlamenta nam bo omogočila izvajanje nove faze pri prehodu na SIS II, predvidoma ob poteku trenutnega mandata Komisije - pri tem moramo poudariti, da gre za začasen mandat -, ki poteče 31. decembra. Glede tega bi rad opozoril podpredsednika.
+<P>
+Seveda vzpostavitev novega sistema predstavlja izjemen tehnološki izziv, izziv, ki mu na začetku nedvomno nismo posvečali dovolj pozornosti. Prenos 22 milijonov zapisov, v katerem sodeluje več kot 24 strank, katerih nacionalne baze podatkov so v različnih formatih, ni lahko opravilo. Vendar pa bomo s trudom, ki je bil vložen v ta projekt, dorasli tej nalogi. Glede na te finančne in tehnične napore si Evropski parlament zasluži, da je popolnoma seznanjen z napredkom in težavami, ki so povezane s prehodom na nov sistem. Določiti moramo časovni rok - kot ste že rekli, gospod Coelho - za testiranje novega sistema in preverjanje, da bo brezhibno deloval - kot vsi upamo - septembra naslednje leto, kot je bilo dogovorjeno 6. junija na zasedanju Sveta za pravosodje in notranje zadeve.
+<P>
+Zavedamo se, da smo si postavili kratek rok. Tehnični strokovnjaki se tega zavedajo. Ta rok lahko ujamemo le, če bomo vsi popolnoma predani projektu SIS II in bomo prevzeli svoj del odgovornosti. S tem poročilom Evropski parlament pošilja pozitivno sporočilo, saj postavlja popolnoma legitimna vprašanja. Zaradi tega Svet predlaga brezpogojno potrditev predlaganih sprememb, za katere lahko rečem, da so jih podprle vse politične skupine v Evropskem parlamentu. Hvala vsem za vse opravljeno delo.
+<SPEAKER ID="396" NAME="Jacques Barrot" LANGUAGE="FR">
+Gospod predsednik, tudi jaz bi se rad zahvalil predsedstvu in gospodu Jouyetu, da se strinjata s poročilom gospoda Coelha, saj menim, da moramo na tem pomembnem področju nemudoma premakniti stvari naprej. Prav tako bi se rad zahvali gospodu Coelhu za njegovo poročilo in osebno zavzemanje za uspeh SIS II. Če bo SIS II kdaj ugledal luč sveta, potem gre zasluga v veliki meri vam, gospod Coelho.
+<P>
+Vaše poročilo ponovno osvetljuje zanimanje in trajno podporo znotraj Evropskega parlamenta načrtom za razvoj druge generacije Schengenskega informacijskega sistema. SIS II bo ključno orodje v skupnem prostoru svobode, varnosti in pravice, zato je bistvenega pomena, da začne sistem delovati čim prej.
+<P>
+Vesel sem, da je bil dosežen sporazum o pravnih instrumentih, ki se nanašajo na migracijo s SIS I na SIS II. Ta sporazum je sprejemljiv, ker upošteva naslednja tri ključna načela:
+<P>
+jasno razdelitev nalog in odgovornosti udeležencev (države članice, Komisija, Svet);
+<P>
+učinkovite in nedvoumne postopke sprejemanja odločitev;
+<P>
+določitev obveznih vmesnih kontrolnih točk.
+<P>
+S potrditvijo tega pravnega okvira do oktobra bo mogoče zagotoviti, da se potrebno delo na SIS II nadaljuje v 2009. Res je, kot je navedel gospod Jouyet - to ste izpostavili vi, gospod predsednik -, da je datum 30. september 2009, ki je sedaj določen v predlaganih pravnih instrumentih o migraciji, ambiciozno zastavljen. To poletje smo morali zaustaviti nekatere preskuse v državah, ki so upoštevale neuradne nasvete strokovnjakov.
+<P>
+Izvajalec ima sedaj na voljo 20 dni časa, da odpravi obstoječe težave. Nobenega dvoma ni, da moramo skrbno paziti na vse morebitne težave, do katerih lahko pride in ki lahko preprečijo naše uresničevanje časovnega načrta za SIS II. Trenutno se z državami članicami dogovarjamo o najboljši poti za zaključitev del na SIS II. Prav tako moramo poiskati pravo ravnovesje med političnim prednostnim ciljem, ki je povezan s tem sistemom, in jamstvom odličnosti storitve, namenjene nacionalnim organom.
+<P>
+Predlagani prilagoditveni mehanizmi nam omogočajo nekaj prožnosti in nas zavezujejo, da zagotovimo potrebno preglednost v zvezi z razvojnim načrtom. Zaradi tega, gospod Coelho, v celoti podpiramo vaše spremembe; o tem ni vredno zgubljati besed.
+<P>
+Določitev datuma poteka veljavnosti zakonodajnih aktov o migraciji ob koncu junija 2010 nam daje dovolj manevrskega prostora v primeru težav z dokončanjem razvoja SIS II ali z migracijo. Ta datum tudi zagotavlja, da bo SIS II v celoti vzpostavljen v sredini leta 2010.
+<P>
+Po drugi strani pa bo mogoče s tem, ko bo Komisija dvakrat letno predstavila poročila o razvoju in migraciji s SIS I na SIS II, zagotoviti, da bo delo na SIS II pregledno za Evropski parlament.
+<P>
+Gospod predsednik, rad bi poudaril - kot je poudaril gospod Jouyet v imenu predsedstva -, da za popoln uspeh Schengna - kar trenutno že je - potrebujemo SIS II. Gre za tehnološki dosežek, ki ponazarja, kaj lahko doseže Evropa, ki se odloči za uporabo nove tehnologije. To je nujno.
+<P>
+Zato sem izjemno hvaležen Parlamentu, ki je skoraj soglasno sprejel vse te vidike in potrdil poročilo gospoda Coelha.
+<SPEAKER ID="397" NAME="Marian-Jean Marinescu">
+v imenu skupine PPE-DE. - (RO) Podpiram poročevalcev predlog glede določitve roka za ta nov zakonodajni paket, in sicer 30. junij 2010; to je pomembno, če želimo preprečiti morebitne zamude pri izvajanju schengenskega informacijskega sistema druge generacije SIS II.
+<P>
+Odstranitev mejnih kontrol na kopnem in na zemlji, ki se je začela 21. decembra 2007, pa tudi v zraku (marca 2008) je pomemben korak za devet od desetih držav članic. Svet se je odločil za ukinitev mejne kontrole v treh mejnih državah, Cipru, Romuniji in Bolgariji, ko bo na podlagi vrednotenja ugotovljeno ustrezno delovanje schengenskega sistema. Delovanje schengenskega sistema v teh treh državah pa je odvisno od delovanja SIS II v trenutnih schengenskih državah. Kot je znano, je bilo delovanje SIS II sprva predvideno za maj 2007, nato je bilo odloženo do decembra 2008, sedaj pa ponovno preloženo na september 2009. To prestavljanje lahko pomeni zamude v treh državah članicah. Ne smemo pozabiti, da so vse te tri države članice mejne države Evropske unije, ki imajo tako kopenske kot tudi morske meje.
+<P>
+Prva dva ukrepa schengenskega pravnega reda sta umik mejne kontrole, njena prestavitev na zunanje meje, skupni postopki kontrole oseb, ki prestopajo mejo. Te ukrepe pravnega reda spodkopava dejstvo, da so države, kot so Romunija, Bolgarija in Ciper, odvisne od prestavljenega delovanja sistema SIS II v državah, ki so znotraj schengenskega območja. Zato pozivam Komisijo in francosko predsedstvo, naj rešita problem upravljanja SIS II in se dogovorita z izvajalcem ter preprečita uveljavitev novih časovnih okvirjev uvedbe SIS II.
+<SPEAKER ID="398" NAME="Roselyne Lefrançois" LANGUAGE="FR">
+Gospod predsednik, hotela sem povedati, da je pri tem poročilu poročevalka v senci gospa Roure. Danes ne more biti tukaj, zato govorim v njenem imenu in v imenu Skupine socialdemokratov v Evropskem parlamentu.
+<P>
+Strinjam se s komentarji poročevalca, ki se mu zahvaljujem za njegovo delo. Situacija je popolnoma nesprejemljiva. Zagon SIS II bistveno zamuja. Že pred časom smo morali podaljšati pooblastilo Komisije za izvedbo migracije do konca decembra 2008. Komisija spet bistveno zaostaja za določenimi roki in sedaj prosi za neomejeno podaljšanje pooblastila za izvedbo migracije. Po mojem mnenju je to nesprejemljivo, saj to preprečuje vsa nadaljnja posvetovanja Evropskega parlamenta na to temo.
+<P>
+Vseeno pa ne želimo priganjati migracije s SIS na SIS II, saj bi to vplivalo na kakovost in varnost podatkov in celotnega sistema. Zato je treba sprejeti vse potrebne varnostne ukrepe, da bi zagotovili varstvo podatkov in varnost sistema. Zato smo se tudi strinjali, da rok ponovno prestavimo in podaljšamo Komisiji pooblastilo, da bo lahko migracijo izvedla tako, kot je treba.
+<P>
+Proces pa se nikakor ne sme nadaljevati brez demokratičnega nadzora Evropskega parlamenta. Zato skupina PSE podpira poročevalca, da bi zavarovali pooblastila Evropskega parlamenta.
+<SPEAKER ID="399" NAME="Henrik Lax">
+v imenu skupine ALDE. - Gospod predsednik, tudi jaz bi rad izrazil priznanje poročevalcu za dobro opravljeno delo.
+<P>
+Schengenski informacijski sistem je največja evropska skupna podatkovna baza, ki deluje kot skupni informacijski sistem za države članice. Te informacije lahko uporabljata policija in sodni sistem pri sodelovanju v kriminalnih zadevah in za preverjanje posameznikov na zunanjih mejah ali nacionalnih mejah ter za izdajanje vizumov in dovoljenj za bivanje.
+<P>
+Odločitev o razvoju druge generacije SIS - SIS II - upošteva potrebo po uvedbi biometričnih podatkov in novih vrst opozorilnih sistemov, na primer zaradi evropskega naloga za prijetje. SIS II potrebujemo tudi zato, da bomo lahko sprejeli nove države članice, kot smo slišali.
+<P>
+Po prvotnih načrtih naj bi nov sistem začel delovati marca 2007. Vemo, da je prišlo do več preložitev in je bil objavljen nov časovni razpored, v skladu s katerim naj bi sistem začel delovati konec tega leta. In zaradi prehodne rešitve, ki jo je predstavila portugalska vlada in jo je tukaj omenil tudi gospod Jouyet, tako imenovanega "SIS One 4 All", sistem sedaj deluje brezhibno in je omogočil vključitev devetih novih držav članic v sistem SIS. Kljub vsemu, kot je poudaril tudi komisar Barrot, je postala v tem razširjenem schengenskem krepitev varnosti še bolj pomembna in jo bo mogoče doseči v celoti le s popolnim prehodom na sistem druge generacije.
+<P>
+Prehod pa bo možen le, če bo SIS II skladen z vsemi pravno določenimi tehničnimi in funkcionalnimi zahtevami, kot tudi drugimi zahtevami, kot so robustnost, odzivnost in delovanje. Od Parlamenta zdaj zahtevamo, da poda svoje mnenje glede dveh trenutnih predlogov o vzpostavitvi pravnega okvira za urejanje prehoda. Kot poročevalec v senci za ALDE v celoti podpiram usmeritev poročevalca, namreč da bo Komisija do konca junija 2009 in nato na vsakih šest mesecev Svetu in Parlamentu predložila poročilo o napredku razvoja SIS II in migraciji schengenskega informacijskega sistema SIS I+ na drugo generacijo SIS II.
+<P>
+Zelo smo razočarani, da SIS II še ne deluje. Upam, da bo na podlagi tega novega pooblastila in strogega testiranja SIS II dokončno pripravljen za uspešen zagon do septembra 2009.
+<SPEAKER ID="400" NAME="Tatjana Ždanoka">
+v imenu skupine Verts/ALE. - Gospod predsednik, najprej bi se rada zahvalila gospodu Coelhu za običajno zelo produktivno delo v zvezi s poročili o prehodu na SIS II. Poročilo pokriva predvsem tehnične vidike, sam pa bi rad na SIS II pogledal s širše perspektive.
+<P>
+Najprej naj izrazim strinjanje z dejstvom, da je portugalsko predsedstvo dalo priložnost pridružitve v star sistem SIS vsem desetim novim državam članicam. Sicer bi morale nove države članice, vključno z mojo, čakati vsaj do septembra 2009 - torej skoraj dve leti.
+<P>
+Po drugi strani pa "pozno" ne pomeni vedno "slabo". SIS II bo deloval v dveh stebrih. Kljub vsemu pa še vedno nimamo pravno zavezujoče okvirne odločitve o varstvu podatkov v okviru tretjega stebra. Ker SIS II uvaja obdelavo biometričnih podatkov, je problem varstva podatkov v glavnem nerešen.
+<P>
+Rad bi tudi poudaril, da je moja politična skupina izjemno previdna glede biometrike. Mogoče moramo res počakati na solidno pravno podlago za varstvo podatkov, preden začnemo uporabljati SIS II.
+<P>
+Delovanje SIS pa je uporabno tudi na drugih področjih, kot je na primer prepoved vstopa, ki so jo države članice uvedle za državljane tretjih držav. V skladu s Schengensko konvencijo se uporablja nacionalna zakonodaja v primerih, ko oseba zahteva izbris opozorila o sebi. V tem pogledu ureditev SIS II zagotavlja boljše postopkovne garancije na evropski ravni.
+<P>
+Če povzamem, nam SIS II na nekaterih področjih obljublja boljšo Evropo. Kljub vsemu pa moramo še naprej odpravljati nekatere pomembne pomanjkljivosti. Če zagotovitev teh garancij pomeni, da moramo še malo počakati, bomo pač morali še malo počakati.
+<SPEAKER ID="401" NAME="Pedro Guerreiro">
+v imenu skupine GUE/NGL. - (PT) Kot so poudarile že številne organizacije, ki spremljajo postopek komunitarizacije sodstva in notranjih zadev, področij, ki predstavljajo samo jedro suverenosti držav, bodo z migracijo schengenskega informacijskega sistema na drugo različico značilnosti tega sistema in podatkovne baze razširjene z vključitvijo novih vrst opozoril, kot je na primer evropski priporni nalog, dodatkom novih kategorij podatkov, kot so na primer biometrični podatki, in omogočanje dostopa novim subjektom. Razvite so bile nove značilnosti in funkcionalnosti, ki povezujejo opozorila in povezujejo sistem z informacijskim sistemom za vizume. Treba je omeniti tudi zaskrbljujočo možnost dolgotrajnega vodenja evidenc, kadar je to potrebno, pri čemer me zanima, kdo odloča, kdaj je to potrebno. Prav tako so potrebna pojasnila o vse preveč neopredeljenem področju možne izmenjave podatkov s tretjimi državami.
+<P>
+Verjamemo, da ta razširitev prinaša določena tveganja v primerjavi s predhodnim sistemom glede varovanja pravic, svoboščin in jamstev državljanov s tem, ko so v podatkovno bazo dodani novi elementi, ki bodo bolj dostopni in bodo pomenili večjo izmenjavo informacij. Zdi se, da je pomembnejši od odziva na širitev na nove države poskus prilagajanja SIS nevarnemu poudarku na varnosti, ki je del vedno večje komunitarizacije notranjih zadev Evropske unije, kar zavračamo.
+<SPEAKER ID="402" NAME="Hélène Goudin">
+v imenu skupine IND/DEM. - (SV) Gospod predsednik, tema, o kateri trenutno razpravljamo, je veliko pomembnejša kot druge, o katerih tukaj redno razpravljamo. Razpravljamo o pomembni temi mobilnosti ljudi znotraj tako imenovanega schengenskega območja. Ta sistem nedvomno olajša potovanje številnim posameznikom, treba pa je povedati, da njegov negativni vidik na več mestih zasenči njegove pozitivne vidike.
+<P>
+Pri tem imam v mislih dejstvo, da Schengen vpliva tudi na mobilnost velikega števila ljudi, ki se zaradi družbenih sistemov srečujejo z omejitvami. Schengen je nadaljnji korak k ustvarjanju superdržave, utrdbe Evrope. Ustvarjanje družbe z neomejenimi močmi nadzora. Nočem biti del tega.
+<P>
+Ni dvoma, da je čezmejni kriminal eden največjih problemov današnjega časa. Zato potrebujemo čezmejne rešitve. Vendar pa ne verjamem, da je pravi forum za ta namen Schengen ali EU. Imamo že Interpol, odlično in učinkovito mednarodno policijo, v kateri sodelujejo suverene države po vsem svetu. Namesto da vzpostavljamo vzporedne sisteme, bi morali krepiti Interpol. Zavedamo se, da naše zaveze ne omejujejo kriminalne dejavnosti, ki sestoji iz svetovnih mrež. To je le nekaj splošnih pomislekov; zdaj pa k bolj konkretnim.
+<P>
+Eden od vidikov schengenskega informacijskega sistema, kateremu se po mojem mnenju ne posvečamo dovolj, je vprašanje zaupnosti. Obdelani in shranjeni osebni podatki so zelo občutljive narave. Ena najpomembnejših nalog države je zagotoviti ustrezna varovala za svoje državljane in jih zaščititi pred nepooblaščenim dostopom do osebnih podatkov. Po mojem mnenju je to nacionalna zadeva in trdno sem prepričana, da EU ni sposobna zagotoviti potrebnih varoval. Poleg tega tudi menim, da je vzpostavljanje novih struktur drago in nepotrebno. Saj se sistem navsezadnje financira iz davkoplačevalskega denarja.
+<P>
+Že zelo dolgo sem mnenja, da bi lahko razvoj EU, ali evropske integracije, kot to nekateri imenujejo, primerjali s postopno tiranizacijo. Kar pa je zaskrbljujoče, je to, da ti koraki že dolgo niso več majhni. Namesto tega se srečujemo z velikimi, odločnimi in hitrimi koraki k ustanovitvi države EU. S tem se ne more strinjati noben evrofil.
+<SPEAKER ID="403" NAME="Zita Pleštinská" AFFILIATION="PPE-DE">
+(SK) Gospe in gospodje, ponovno razpravljamo o schengenskem informacijskem sistemu (SIS), ki je glavno orodje za uporabo schengenskih načel. Nedvomno je to hrbtenica Evrope brez meja in območje svobode, varnosti in pravičnosti, zaradi česar je nujno, da začne SIS II čim prej delovati.
+<P>
+Trenutno sistem SISone4ALL deluje v celoti kot prehodna tehnična rešitev, ki devetim novim članicam omogoča povezavo v sistem SIS in seveda polnopravno članstvo v Uniji z vstopom v schengensko območje. 21. december 2007 je bil zgodovinski dan za mojo državo, Slovaško, in za celotno EU. Zaznamoval je dejanski padec železne zavese.
+<P>
+Zato bi se rada zahvalila Carlosu Coelhu za to poročilo in velike napore, ki jih je vložil vanj. Prepričana sem, da brez njega schengensko območje danes ne bi imelo devetih novih članic. Verjamem, da bo tudi SIS nove generacije deloval enako hitro in brez problemov.
+<SPEAKER ID="404" NAME="Jean-Pierre Jouyet">
+predsednik Sveta. - (FR) Vsem govornikom se zahvaljujem za odlično razpravo in široko podporo načelu novega pooblastila ter stališču poročevalca, kakor so izrazili mnogi govorniki.
+<P>
+Gospod Marinescu, pohvalil sem delo portugalskega predsedstva, ki je novim članicam omogočilo, da so se vključile v sistem. Zabeležil sem si, da si Romunija želi vključitve v sistem takoj, ko bo to mogoče, pod nadzorom Komisije, seveda ob izvedbi vseh morebitnih potrebnih tehničnih prilagoditev.
+<P>
+Glede opažanj gospe Lefrançois in gospoda Laxa se lahko Svet le opraviči za zamudo, zavedamo pa se prizadevanj Komisije in osebne prošnje podpredsednika Barrota, naj poskrbimo, da se bodo stvari vrnile na prave tire in da bomo ostro ukrepali v zvezi z izvajalcem. Poleg Komisije in vseh držav članic mora Svet ostati buden in skupaj moramo zagotoviti, da bo projekt potekal po načrtu, ter zagotoviti, da bo tehnično izvedljiv in učinkovit, hkrati pa državljanom zagotoviti svobodo.
+<P>
+V odgovor gospe Ždanoki in gospodu Guerreiroju lahko povem, kakor je poudarila gospa Lefrançois, da razumem, da nekateri med vami želite nadaljnjo razpravo o vključitvi novih funkcij v sistem, vendar pa moramo nujno pred tem dokončati projekt SIS II. Zato sem prepričan, da bi bila na tem mestu najbolj primerna politična razprava o teh novih funkcijah. Kot ste poudarili tudi nekateri med vami, pa to nikakor ne sme ovirati uvedbe novega sistema. Pravzaprav bi bilo povsem nesprejemljivo, če bi te funkcije opustili samo iz razloga, da jih zastarel sistem - v tem primeru SIS I - ne more podpirati. Preden začnemo s to razpravo mora biti sistem vzpostavljen in tehnološki razvoj dokončan.
+<P>
+Glede drugih govorov, v katerih je bila izražena predvsem zaskrbljenost glede varstva podatkov, bi želel poudariti - kot je to storil že predsednik, pa tudi dopoldne smo razpravljali o varstvu podatkov, v razpravi je sodeloval tudi komisar Barrot -, da želimo učinkovito nadaljevati z začetim delom na evropski ravni in da smo prepričani, da je treba zagotoviti varstvo podatkov in izmenjave informacij s tretjimi državami, kakor zahtevate. Ne bi se rad vračal na splošno razpravo, ki smo jo imeli dopoldne, rad pa bi povedal, da je bilo z vidika varstva podatkov dogovorjeno, da bomo ustrezno upoštevali priporočila evropskega nadzornika za varstvo podatkov.
+<SPEAKER ID="405" NAME="Jacques Barrot" LANGUAGE="FR">
+Gospod predsednik, vsem govornikom in poročevalcu bi se rad še enkrat zahvalil. Če nadaljujem, kjer je končal gospod Jouyet, bi vas vse rad tudi sam opomnil, da se popolnoma zavedamo pravil o varstvu podatkov. Kot ste, predsednik, že sami povedali, so službe v rednem stiku s tistimi v okviru evropskega nadzornika za varstvo podatkov, da bi tako zagotovile, da se pri razvoju in upravljanju sistema SIS II ustrezno upoštevajo vsa pravila. V prvi polovici 2009 evropski nadzornik za varstvo podatkov načrtuje obisk v Strasbourg, in sicer še pred migracijo, da bi tako zagotovil varstvo podatkov.
+<P>
+Pretvornik, ki ga pravkar razvijajo, bo zagotovil varen prehod s SIS I na SIS II. Gospa Lefrançois je povsem upravičeno dejala, da z migracijo ne smemo hiteti, s čimer se popolnoma strinjam. Biti moramo zelo previdni.
+<P>
+V vsakem primeru pravni inštrumenti vsebujejo posebne določbe, katerih namen je zagotoviti skladnost z načeli varstva podatkov. To je vse, kar lahko povem o varstvu podatkov, zavedajoč se, da moramo vso pozornost nameniti zagotavljanju, da bo sistem skladen s tem, kar želimo na področju varstva podatkov doseči drugje po Evropi.
+<P>
+Če se sedaj vrnem na zamudo: popolnoma razumem gospoda Marinescuja, gospoda Laxa in gospo Lefrançois, ki so jasno izrazili svoje pomisleke glede številnih zamud, s katerimi se soočamo. Glede priprav na SIS II na centralnem nivoju lahko povem, da skrbno nadzorujemo napredek in da smo uvedli ukrepe, ki nam bodo pomagali skrbno spremljati napredek, službe Komisije pa bodo poskrbele, da bo zagotovljenih dovolj virov, ki bodo nadaljevali z delom izvajalcev.
+<P>
+Očitno se lahko v skrajni sili zatečemo h pogodbenim kaznim, kakor je storil moj predhodnik, ko je enemu od izvajalcev naložil pogodbeno kazen v višini več kot 1 milijon EUR. Vendar pa bi, gospod predsednik, gospe in gospodje, raje, kot da se zatekam h kaznim, videl, da bi izvajalci delali učinkovito in se držali časovnega načrta.
+<P>
+Izvedba SIS II pa ni povezana le s centralnim SIS II. Za to si morajo močno prizadevati vse države članice. Veseli me, da je danes z nami tukaj francosko predsedstvo, saj vem, kako si prizadeva za to.
+<P>
+Da bi državam članicam pomagalo pri njihovih pripravah na nacionalni ravni, je slovensko predsedstvo ustanovilo, francosko predsedstvo pa prav tako priznava, izjemno koristno skupino "Prijatelji SIS II". To je skupina na visoki ravni, v kateri Komisija aktivno sodeluje, njena naloga pa je spremljati izvajanje SIS II v državah članicah. Problem bomo uspešno rešili le s tesnim sodelovanjem.
+<P>
+Rad bi poudaril, da z uvedbo SIS II ne želimo Evrope spremeniti v utrdbo; poskušamo le zagotoviti, da umik notranjih mej ne bo predstavljal večjega tveganja negotovosti, nasilja in terorizma za Evropsko unijo in evropske državljane. Zato ne morem dopustiti izjav, da z uvedbo SIS II zapiramo vrata v Evropo. Tukaj ne gre za to. Edini namen je zagotoviti, da bomo lahko z umikom notranjih mej evropskim državljanom zagotovili prostor - da, tako bom rekel -, prostor varnosti in svobode.
+<P>
+To je vse, gospod predsednik. V vsakem primeru pa bi se želel zahvaliti Evropskemu parlamentu in osebno gospodu Coelhu za tako podrobno raziskavo o zgradbi SIS II, ki je ključ do uspeha Schengna.
+<SPEAKER ID="406" NAME="Carlos Coelho">
+poročevalec. - (FR) Gospod predsednik, tvegal bom in svoje končne komentarje povedal v francoščini, v odgovor na vljudne pripombe gospoda Jouyeta in podpredsednika Barrota. Zato se vam bom zahvalil v vašem jeziku. Ni bilo lahko doseči soglasja v okviru Sveta, ampak uspelo vam je. Za nas sta najpomembnejši dve stvari: jasna delitev pristojnosti med Komisijo in državami članicami ter vprašanje pooblastila Komisije.
+<P>
+Pooblastilo Komisije se ne more končati, dokler SIS II ne bo deloval tako, kot je treba. Nadalje bi se rad zahvalil Svetu, Komisiji in vsem političnim skupinam v Odboru za državljanske svoboščine, pravosodje in notranje zadeve za njihovo prizadevnost pri oblikovanju sprememb, o katerih bomo jutri glasovali. Za nas je določba o preglednosti bistvena: državljani imajo pravico, da so obveščeni o Schengnu in SIS II. Glede vprašanja pooblastila Komisije pa naj rečem le to, da je neomejeno pooblastilo nesprejemljivo. Vendar pa smo se uspešno spopadli tudi s tem problemom.
+<P>
+Gospod predsednik, za konec naj tistim, ki so o sistemu SIS II govorili negativno, samo še pojasnim, zakaj nam je ta sistem všeč. SIS II nam je všeč, saj imamo radi svobodo gibanja v Evropi. Če pa želimo zagotoviti svobodo gibanja v Evropi, pa moramo poskrbeti, da bodo naše zunanje meje varne. Varnost naših zunanjih mej je predpogoj za svobodo evropskih državljanov in zato nujno potrebujemo SIS II.
+<SPEAKER ID="407" NAME="Predsednik">
+Razprava se je zaključila.
+<P>
+Glasovanje bo potekalo jutri.

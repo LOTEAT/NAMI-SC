@@ -1,0 +1,4 @@
+<CHAPTER ID="024">
+Hævelse af mødet
+<SPEAKER ID="219" NAME="Formanden">
+Mødet hævet kl. 23.45.

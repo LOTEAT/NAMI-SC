@@ -1,0 +1,184 @@
+<CHAPTER ID="015">
+Fælles konsulære instrukser: biometriske identifikatorer og visumansøgninger (forhandling) 
+<SPEAKER ID="475" NAME="Formanden">
+Næste punkt på dagsordenen er indstilling ved andenbehandling for Udvalget om Borgernes Rettigheder og Retlige og Indre Anliggender om fælles konsulære instrukser: Biometriske identifikatorer og visumansøgninger (05329/1/2009 - C6-0088/2009 - Ordfører: Baroness Ludford.
+<SPEAKER ID="476" NAME="Sarah Ludford">
+ordfører. - (EN) Fru formand! Dette forslag fra Kommissionen, for hvilket jeg er Parlamentets ordfører, er det fjerde element i pakken om visuminformationssystemet (VIS) og kommer efter VIS-forordningen, beslutningen om adgang til VIS og foranstaltningen om anvendelse af VIS under Schengengrænsekodeksen.
+<P>
+Ved at ændre de eksisterende fælles konsulære instrukser indeholder det for det første bestemmelser om en forpligtelse til at levere biometriske oplysninger, som vil blive gemt i VIS, og standarderne herfor, for det andet indeholder det bestemmelser om den organisation, der modtager visumansøgninger.
+<P>
+En fuldstændig revision af visumreglerne er planlagt i visumkodeksen, som min kollega fra ALDE-Gruppen, Henrik Lax, er ordfører for. Når den lovgivning, som vi behandler nu, er vedtaget, vil den blive en integrerende del af visumkodeksen. Begrundelsen for at adskille forslagene var, at Kommissionen forventede, at vedtagelsen af visumkodeksen ville tage længere end nærværende forslag, og den ønskede ikke, at vedtagelsen af visumkodeksen skulle forsinke VIS.
+<P>
+Så vidt jeg har forstået, vil det centrale system for VIS være parat i december i år og kan begynde at fungere i den første region, Nordafrika, i begyndelsen af 2010. Jeg har forhandlet med Rådet i temmelig lang tid. Udvalget om Borgernes Rettigheder og Retlige og Indre Anliggender vedtog min betænkning i november 2007. Desværre kunne vi ikke nå frem til en aftale ved førstebehandlingen, så i juli 2008 bad jeg Parlamentet godkende min betænkning. Under det franske formandskab gjorde vi dog tilstrækkelige fremskridt til, at jeg kunne anbefale vedtagelsen af dette kompromis under andenbehandlingen.
+<P>
+Fire spørgsmål var ikke løst, nemlig aldersgrænsen for fingeraftrykstagning, tilskyndelse af medlemsstaterne til at samarbejde, mens kontrakter med eksterne tjenesteydere blev tilladt som en sidste mulighed, databeskyttelse og -sikkerhed samt et gebyr til eksterne tjenesteydere.
+<P>
+Med hensyn til fingeraftryk foreslog Kommissionen, at fingeraftryk af børn skal begynde ved seks år. Unge børns fingeraftryk ændrer sig rent faktisk hurtigt, og jeg er ikke overbevist om, at vi ved nok endnu om pålideligheden senere hen af fingeraftryk, der er taget så tidligt. På trods af mange anmodninger fik jeg aldrig troværdige, faste beviser for, hvordan fingeraftryk, der tages i alderen mellem seks og 12 år, kan anvendes som grundlag for kontrol eller identifikation mange år senere uden risiko for fejl.
+<P>
+Rådets reaktion var på et tidspunkt at foreslå, at der tages fingeraftryk af mindre børn hvert andet år i stedet for hvert femte år, som det er tilfældet med voksne, men det ville volde familierne stort besvær. Så jeg insisterede på en forsigtig og praktisk tilgang, hvor minimumsalderen fastsættes til 12 år, og Rådet indvilligede i at fritage børn under 12 år, idet denne aldersgrænse skulle tages op efter tre år, når der var gennemført en detaljeret undersøgelse for Kommissionen.
+<P>
+Jeg vil nu gå over til spørgsmålet om at tilskynde til samarbejde mellem medlemsstaterne, samtidig med at eksterne tjenesteydere tillades. Jeg har ikke nogen problemer generelt med begrebet outsourcing, men der må herske sikre vilkår for at garantere visumudstedelsens integritet, for at sikre, at outsourcing kun sker som en sidste mulighed og at databeskyttelse og -sikkerhed garanteres.
+<P>
+Det lykkedes os derfor at få indskrevet en rangorden i teksten, hvorved samarbejde gennem begrænset repræsentation, samhusning eller fælles anvendelsescentre er det første valg, og kun hvor disse løsninger er uegnede til at behandle et stort antal ansøgere eller sikre en god geografisk dækning, kommer outsourcing på tale. Det fremgår klart af kompromisteksten, at medlemsstaterne fortsat har ansvaret for overholdelse af databeskyttelsesreglerne og for enhver overtrædelse af national lovgivning.
+<P>
+Et vigtigt element er, at der gælder særlige regler i tredjelande, der forbyder kryptering: Elektronisk overførsel af data mellem konsulater eller mellem en ekstern tjenesteyder og medlemsstaten ville være forbudt, og medlemsstaterne ville skulle sikre, at de elektroniske data overføres fysisk i fuldt krypteret form på en cd, hvortil der er knyttet særlige vilkår.
+<P>
+Endelig insisterede vi i forbindelse med visumgebyret med held på, at visumansøgere altid skulle have mulighed for direkte adgang til konsulater, som en betingelse for, at den eksterne tjenesteyder kan opkræve et ekstra gebyr oven i visumgebyret. Jeg mener, at dette er meget vigtigt.
+<P>
+Generelt har vi en fornuftig aftale. Vi kæmpede hårdt for at nå frem til kompromiserne, og jeg tror, vi har gjort fremskridt med den fælles visumpolitik.
+<SPEAKER ID="477" NAME="Androulla Vassiliou">
+medlem af Kommissionen. - (EN) Fru formand! For det første vil jeg gerne viderebringe næstformand Barrots undskyldning for ikke at kunne være her i aften.
+<P>
+Jeg er glad for at kunne konstatere, at Parlamentet har accepteret Rådets fælles holdning og dermed har givet den politiske aftale, som Parlamentet og Rådet nåede frem til om dette spørgsmål under trepartsmødet den 2. december 2008, en konkret form. Jeg vil gerne takke både Parlamentet og medlemsstaterne for den vilje til kompromis, de har fremvist for at nå frem til den formelle vedtagelse af dette instrument, og jeg vil især gerne takke ordføreren Baroness Ludford, og skyggeordførerne for deres støtte og samarbejde. Denne aftale vil gøre det muligt at fortsætte forberedelserne til lanceringen af visuminformationssystemet, der er planlagt til slutningen af året.
+<P>
+På Parlamentets opfordring har Kommissionen anmodet Det Fælles Forskningscenter om at undersøge det vigtige spørgsmål om fingeraftryk af børn under 12 år. De tekniske specifikationer er nu blevet udarbejdet og vil blive sendt til Parlamentet og Rådet i den nærmeste fremtid.
+<P>
+Denne ændring af de fælles konsulære instrukser vil også danne en gennemsigtig og harmoniseret ramme om praksis i forbindelse med outsourcing, herunder spørgsmålet om et ekstra gebyr.
+<P>
+Kommissionen mener, at den tekst, der er opnået enighed om, er afbalanceret, og som det fremgår af Kommissionens erklæring til Parlamentet, har den Kommissionens fulde støtte.
+<SPEAKER ID="478" NAME="Ewa Klamt" LANGUAGE="DE">
+Fru formand, fru kommissær, mine damer og herrer! For at opfylde EU's påstand om, at det er et område med frihed, sikkerhed og retfærdighed, er det vores opgave at kontrollere tildelingen af indrejsevisa til folk, der rejser til EU fra tredjelande. I henhold til de nyligt vedtagne regler skal EU's ambassader og repræsentationer fremover tage fingeraftryk og fotos af ansøgere. Hermed opfyldes fire målsætninger.
+<P>
+For det første vil det forenkle processen med at bekæmpe svindel og misbrug, da biometriske identifikatorer gør det vanskeligere at forfalske visa. For det andet vil det forhindre den såkaldte visashopping. For det tredje vil visumansøgningsprocessen blive fremskyndet. For det fjerde vil grænsekontrollen blive lettere, fordi biometriske identifikatorer vil gøre det muligt for grænsepersonalet hurtigt at afgøre, om den person, der står foran dem, er den person, som visummet er udstedt til.
+<P>
+Vi havde gerne støttet Kommissionens forslag om at tage fingeraftryk af børn fra seks år og op for at forhindre risikoen for menneskesmugling. Desværre var der ikke flertal herfor her i Parlamentet.
+<P>
+Gruppen for Det Europæiske Folkeparti (Kristelige Demokrater) og De Europæiske Demokrater støtter med et stort flertal det kompromis, at en medlemsstat, der har ansvaret for at acceptere og behandle ansøgninger, også som en sidste løsning skal have mulighed for at samarbejde med eksterne tjenesteydere. En afgørende faktor i vores aftale om samarbejde af denne art er, at medlemsstaterne fortsat har ansvaret for databeskyttelse og datasikkerhed i disse sager. Dette betyder, at de elektroniske data, som de eksterne tjenesteydere sender til den pågældende medlemsstats myndigheder, altid skal være fuldt krypterede.
+<P>
+Jeg vil gerne takke ordføreren og mine kolleger fra andre grupper, som har arbejdet som skyggeordførere på dette projekt i tre år.
+<SPEAKER ID="479" NAME="Roselyne Lefrançois" LANGUAGE="FR">
+Fru formand, fru kommissær, mine damer og herrer! Fru formand, De sidder i formandsstolen under dette møde, så derfor taler jeg på Deres vegne i dette spørgsmål, som De har fulgt som ordfører.
+<P>
+Først og fremmest vil jeg gerne lykønske Baroness Ludford med den energi, hun har lagt for dagen, og de resultater, hun har opnået under de vanskelige forhandlinger om dette spørgsmål. Jeg mener, at Parlamentet kan være stolt af de opnåede resultater, fordi opgaven langt fra var let, som vi har set.
+<P>
+Jeg vil navnlig gerne understrege to punkter, der forekommer mig at være vigtige, og som vi især kan være tilfredse med: for det første den hævede aldersgrænse for fingeraftrykstagning fra seks til 12 år. For det andet indførelsen af princippet om, at medlemsstaternes konsulaters indsamling af biometriske oplysninger kun kan udliciteres til private organer som en sidste mulighed og inden for rammerne af visse meget specifikke garantier.
+<P>
+Jeg ved, at nogle mennesker mener, at den vedtagne løsning ikke passer helt med de løsningsmuligheder, vi havde foreslået, navnlig vedrørende en tjenesteyders indsamling i et diplomatisk kontor og dataoverførsel via krypteret elektronisk post eller endog via krypterede elektroniske data, der transporteres i en diplomattaske.
+<P>
+Hertil kan vi dog svare, at private organers indsamling kun kan ske i overensstemmelse med europæisk lovgivning, og at dataene skal kodes fuldt af tjenesteyderen og fremsendes til medlemsstatens myndigheder.
+<P>
+Desuden har vi opnået henvisningen til behovet for, at der forhandles aftaler med tredjelande, som forbyder kodning af data, der transmitteres elektronisk. Behandlingen af ansøgningerne, eventuelle samtaler, godkendelsesproceduren og printning og indsættelse af visummærkater vil udelukkende blive foretaget af de diplomatiske eller konsulære repræsentanter.
+<P>
+De samme betingelser gælder for transmissionen af indsamlede data fra en medlemsstat til en anden i tilfælde af samhusning. Med andre ord en medlemsstats repræsentation via en anden medlemsstat i et tredjeland.
+<P>
+Selv om de detaljerede betingelser for tjenesteydernes aktiviteter er beskrevet i et bilag til teksten, skal de defineres som helhed i en bindende retsakt.
+<P>
+I lyset af disse resultater kan vi kun glæde os over de garantier, der er opnået med hensyn til indførelse af en bedre visumpolitik i Europa. Dette vil helt klart være til gavn for den europæiske offentlighed og vil gøre det muligt for os at forbedre vores forbindelser med tredjelande.
+<SPEAKER ID="480" NAME="Tatjana Ždanoka">
+for Verts/ALE-Gruppen. - (EN) Fru formand! Først og fremmest vil jeg gerne på vegne af min gruppe takke Baroness Ludford for hendes gode samarbejde. Hun er en af de få ordførere, for hvem intet er umuligt.
+<P>
+Som bekendt er min gruppe stærkt imod den omfattende indførelse af biometriske identifikatorer. Men beslutningen er allerede vedtaget. Retsgrundlaget for indsamling af fingeraftryk, når der udstedes visa, findes i forordningen om visuminformationssystemet, der efter vores mening ville være et mere hensigtsmæssigt sted at medtage bestemmelser om såvel generelle regler som undtagelser.
+<P>
+Nu er det for os afgørende, at vi opnår så mange garantier som muligt. Her har Baroness Ludford gjort et fremragende stykke arbejde. For os er ændringen af minimumsalderen for fingeraftrykstagning fra seks til 12 år meget vigtig - men 14 år ville have været endnu bedre.
+<P>
+Vi ser også positivt på udtrykkelige henvisninger til grundlæggende rettigheder som f.eks. muligheden for at kopiere data fra en tidligere ansøgning, hvis den sidste indførsel ikke er over 59 måneder i stedet for 48, samt garantier for sikker databeskyttelse.
+<P>
+Vi har dog mange bekymringer. Min gruppe bryder sig ikke om outsourcing af indsamlingen af biometriske identifikatorer, særlig i lokaler uden diplomatisk eller konsulær beskyttelse. Vi er også imod, at der opkræves et ekstra gebyr.
+<P>
+Sammenfattende mener vi, at indførelsen af biometiriske oplysninger i visa har afgørende følgevirkninger for datasikkerheden og for de grundlæggende rettigheder, uden at der er nogen påviselige gevinster herved. Derfor kan vi ikke støtte Parlamentets holdning ved andenbehandlingen. Dette er dog uden betydning for vores holdning til Lax-betænkningen om visumkodeksen.
+<SPEAKER ID="481" NAME="Sylvia-Yvonne Kaufmann" LANGUAGE="DE">
+Fru formand, mine damer og herrer! Jeg sætter stor pris på ordførerens engagement, og jeg vil gerne takke hende og alle de involverede varmt for deres fremragende arbejde i de seneste år. Alligevel vil jeg afholde mig fra at stemme, hovedsageligt fordi jeg mener, at fingeraftrykstagning og hele processen med at bruge biometriske identifikatorer ikke står i forhold til problemets omfang. Jeg finder indenrigsministrenes og sikkerhedsmyndighedernes ønske om at indsamle så mange personlige oplysninger som muligt yderst tvivlsomme.
+<P>
+Jeg ved, hvor vanskeligt det var at nå frem til dette kompromis med Rådet, der fritager børn under 12 år fra forpligtelsen til at afgive fingeraftryk. Vi ved dog alle, at dette kun vil gælde, hvis ingen detaljerede undersøgelser viser, at børns fingeraftryk er pålidelige. De politiske drøftelser af, om babyers og små børns fingeraftryk reelt er nødvendige, er ikke ovre.
+<P>
+Bestemmelserne om outsourcing giver mig også anledning til nogen bekymring. Der er helt sikkert behov for strenge, standardiserede forordninger, da nogle af medlemsstaterne allerede benytter eksterne tjenesteydere. Det er forståeligt, at det i mange stærkt begrænsede tilfælde kan være nyttigt at overføre behandlingen af visumansøgninger til eksterne tjenesteydere. Dette må dog ikke ske på bekostning af ansøgerne og datasikkerheden. Jeg mener ikke, at det kompromis, der er indgået med Rådet i denne henseende, er tilstrækkeligt. Både Parlamentets juridiske tjeneste og Den Europæiske Tilsynsførende for Databeskyttelse har påpeget risiciene i forbindelse med outsourcing, når den eksterne tjenesteyder ikke befinder sig i et område under diplomatisk beskyttelse. Desværre har Rådet ignoreret disse bekymringer.
+<P>
+Et andet problem er det gebyr, der er forbundet med outsourcing. Jeg finder det forkert at lægge dette gebyr over på ansøgerne. Visumgebyret på 60 EUR er allerede for højt, og det er svært for mange mennesker fra tredjelande at få råd til. Hvis der tillægges et gebyr på 30 EUR, svarer dette ikke til min opfattelse af et åbent og gæstfrit Europa. Det kan uden tvivl gøre tingene lettere i meget store lande, at man ikke skal rejse gennem det halve land til et konsulat for at ansøge om et visum, men i stedet kan indgive ansøgningen til en ekstern tjenesteyder. Efter min mening vil de højere gebyrer dog straks ophæve denne fordel.
+<P>
+Jeg vil gerne takke alle for deres arbejde med denne sag i de seneste år.
+<SPEAKER ID="482" NAME="Gerard Batten">
+for IND/DEM-Gruppen. - (EN) Fru formand! Det kommer ikke som nogen overraskelse, at Baroness Ludford fra det eurofanatiske liberale demokratiske parti ønsker at harmonisere endnu et område, som burde henhøre under den nationale politiks suverænitet. Hvorfor i alverden skulle nogen EU-medlemsstat ønske et fælles system for ansøgning og behandling af visa til statsborgere fra tredjelande? Beslutningen om, hvem der kan og ikke kan rejse ind i en nationalstat, bør udelukkende være nationalstatens - bortset fra, at de europæiske nationalstater ikke længere eksisterer i eurofanatikernes hoved, da de er blevet erstattet af den store grænseløse EU-stat.
+<P>
+Siden 1997 er omkring 6 mio. migranter rejst ind i Det Forenede Kongerige. Omkring 4 mio. er rejst, mens nettobefolkningsstigningen er på over 2 mio. De nuværende immigrationstal i Storbritannien resulterer nu i en nettobefolkningstilvækst på over 200 000 mennesker om året - eller en nettobefolkningstilvækst på 1 mio. mennesker hvert femte år. Dette svarer til en ny by på størrelse med Birmingham. De fleste af disse migranter indrejser lovligt, fordi de er EU-borgere. Derudover har vi sandsynligvis en million illegale indvandrere. England er et af de tættest befolkede lande i verden - tættere befolket end Indien, Kina eller Japan. Med den nuværende tendens vil vores befolkning på 61 mio. vokse til 75 mio. i 2051, og den forventes at vokse til 85 mio. i 2081.
+<P>
+Vi er nødt til at forlade EU og genvinde kontrollen med vores grænser. Når vi har gjort det, må vi beslutte, hvilke landes borgere vi vil tillade indrejse med eller uden visum. Der er mange medlemsstater i EU, hvis borgere ikke må rejse ind i Storbritannien uden visum. Det Storbritannien har behov for, er et stramt visumsystem, så vi kan beslutte, hvem vi lader rejse ind i vores land, og hvem vi ikke lader rejse ind. Hvad vi ikke har behov for er et system udformet af EU.
+<P>
+Jeg kan tænke mig, at dets fortalere vil berettige det som blot en indførelse af fælles kriterier og processer for at få alt til at forløbe mere gnidningsfrit. Det kan dog have nogle utilsigtede konsekvenser. Se på et andet eksempel på EU-lovgivning, som de liberale demokrater har været fortalere for. Den europæiske arrestordre betyder, at britiske statsborgere anklaget for en lovovertrædelse i en anden EU-medlemsstat nu ikke kan beskyttes af britiske domstole eller endog af indenrigsministeren, selv når det er indlysende, at der sker en alvorlig uretfærdighed. Ethvert korrupt retssystem kan nu kræve, at en britisk statsborger udleveres, og vi er nødt til at efterleve kravet. Vi har givet afkald på retten til at beskytte vores egne statsborgere. Inden længe vil vi have retssager in absentia, og fælles anerkendelse af bøder og konfiskationsordrer. Alt dette stemte de liberale demokrater for og hilste velkommen. Disse foranstaltninger tilsidesætter de mest grundlæggende frihedsrettigheder, som englændere har haft i århundreder som stadfæstet i Magna Carta og Bill of Rights fra 1689.
+<P>
+Her i eftermiddag opfordrede Graham Watson, lederen af de liberale demokrater, Gordon Brown til at føre Storbritannien ind i den europæiske fælles valuta, hvilket alle, der har føling med den virkelige verden, ved er økonomisk selvmord. Nu ønsker de liberaldemokratiske fanatikere, at vi skal tilslutte os et fælles system for visumansøgninger. Når vælgerne i London bliver bekendt med Baroness Ludfords holdning til disse spørgsmål, vil de forhåbentlig indrømme hende et envejsvisum ud af Europa-Parlamentet ved Europavalgene den 4. juni 2009.
+<SPEAKER ID="483" NAME="Carlos Coelho" AFFILIATION="PPE-DE">
+- (PT) Fru formand, fru kommissær, mine damer og herrer! Jeg er enig i, at visuminformationssystemet eller VIS hurtigt bør tages i brug, og at vi har brug for en fælleskabskodeks om visa. Jeg anerkender det arbejde, som Baroness Ludford har udført, men sandt at sige kan jeg ikke støtte kompromiset af flere årsager.
+<P>
+For det første er jeg uenig i brugen af eksterne tjenesteydere. Da vi vedtog anden udgave af Schengeninformationssystemet, SIS II, med tilslutning fra alle de politiske grupper, nægtede Parlamentet at tillade private virksomheder at få adgang til dataene, selv om dette på daværende tidspunkt blot omfattede bilregistreringsnumre. Hvad berettiger Parlamentets radikale holdningsændring, når det tillader private virksomheder at indsamle disse data, som er følsomme persondata, som f.eks. fingeraftryk? Disse virksomheder vil kunne tilbageholde dataene i en uge i henhold til bestemmelserne i kompromiset.
+<P>
+For det andet burde der have været en bedre databeskyttelse. Diplomatisk beskyttelse er afgørende for at sikre en effektiv beskyttelse af den enkeltes personlige rettigheder. Hvordan kan beskyttelse af data indsamlet af private virksomheder garanteres, eftersom denne diplomatiske beskyttelse ikke er blevet sikret? Glemmer vi SWIFT-sagen, der omfattede transmission af data indsamlet af de amerikanske myndigheder? Hvis en sådan situation kan opstå i et land som USA, så forestil Dem, hvad der kan ske i mindre udviklede lande med en ringere beskyttelse af grundlæggende rettigheder.
+<P>
+For det tredje vil udgifterne til visum stige, og de vil variere fra land til land. Kommissionens forslag sigtede mod at forhindre visashopping. Ved at tillade private virksomheder at opkræve et gebyr, der vil blive lagt oven i visumprisen, skabes der forskel i udgifterne til et visum fra medlemsstat til medlemsstat. Vi vil derfor fremme netop det, vi ønskede at bekæmpe, nemlig visashopping. Hvis udgiften til visum i en medlemsstat er 60 EUR og i en anden 90 EUR, hvor vil de fleste ansøgninger så blive indgivet? Dette vil navnlig være tilfældet, når der er tale om familier med adskillige medlemmer. For slet ikke at nævne behovet for at tage aftalerne om visumlempelse, som Parlamentet så kraftigt støttede, f.eks. med Ukraine og Serbien, op igen.
+<P>
+Som følge af alt dette kan jeg ikke acceptere kompromiset.
+<SPEAKER ID="484" NAME="Corina Creţu" AFFILIATION="PSE">
+(RO) Fru formand! For det første vil jeg gerne lykønske ordføreren med hendes indsats for at skabe en lovramme, der vil give os et grundlag for gennemførelse af det biometriske identifikationssystem.
+<P>
+Nogle aspekter af denne rapport har givet anledning til en hed debat i mange af EU's medlemsstater, særlig aspekterne i tilknytning til biometrisk identifikation. Sådanne tvister er også for nylig opstået i Rumænien, der er det næstsidste land i EU, som indfører biometriske pas, men det første til at indføre en ny biometrisk standard omfattende fingeraftryk fra begge hænder og ansigtsudtryk.
+<P>
+Bekymringen over indførelsen af det biometriske identifikationssystem er baseret på den naturlige frygt med hensyn til at garantere den personlige sikkerhed, ligesom det også er naturligt at være bekymret over, hvordan de indhentede data anvendes og beskyttes.
+<P>
+En af medlemsstaternes vigtigste opgaver er at garantere deres borgeres sikkerhed, men uden at bringe de grundlæggende menneskerettigheder i fare. Derfor mener jeg, at vi har pligt til at finde frem til en ligevægt mellem to grundlæggende aspekter i vores liv: frihed og sikkerhed.
+<P>
+Den betænkning, vi drøfter her i dag, er mere en teknisk betænkning, der har til formål at harmonisere foranstaltningerne på europæisk plan om biometrisk identifikation. Det er nødvendigt at gøre dette, når man husker på, at en række medlemsstater allerede benytter denne metode uden at der findes nogen lovrammer på dette område.
+<P>
+Den omstændighed, at f.eks. børn under 12 år og mennesker, som det er fysisk umuligt at tage fingeraftryk af, vil blive fritaget for fingeraftrykstagning til biometriske visa, er et bevis på det mådehold og den pragmatisme, der bør udbredes til alle medlemsstater.
+<SPEAKER ID="485" NAME="Hubert Pirker" AFFILIATION="PPE-DE">
+(DE) Fru formand, fru kommissær! Jeg mener, at forordningen vil gøre det muligt for os at nå to mål: sikkerhed på den ene side og en mere borgervenlig tilgang på den anden side.
+<P>
+Indførelsen af fingeraftryk og fotografier vil sikre, at de nye visa ikke kan forfalskes eller misbruges. Efter min mening er de nye visa mere borgervenlige, fordi der med forslaget vil blive indført en enkelt proces, i hvilken alle de nødvendige data registreres med det samme. Derudover er det ikke nødvendigt for ansøgerne at møde op på visumkontoret hver gang, da dataene kan lagres i op til fem år.
+<P>
+Jeg mener også, at det er mere borgervenligt, hvis processen kan afkortes ved at opfordre medlemsstaterne til samarbejde eller ved at bringe eksterne tjenesteydere ind, hvis databeskyttelsesforordningerne overholdes. Vi vil sikre, at de vil blive fulgt, fordi de nødvendige forsigtighedsregler er blevet truffet. Jeg vil gerne forsikre alle, der er bekymret for, at systemet vil blive misbrugt, eller forordningerne ikke vil blive overholdt som følge af brugen af eksterne tjenesteydere. I mit land har vi haft meget positive erfaringer i denne henseende. Derfor støtter jeg denne mere borgervenlige tilgang.
+<P>
+Indtil videre støtter jeg også ordføreren, og jeg vil gerne lykønske hende. Under vores samarbejde har det ikke altid været tilfældet, Baroness Ludford. Jeg er dog ikke så glad for, at vi ikke kan tage fingeraftryk af børn fra seks år og op. Jeg er ganske enkelt imod, fordi det ville resultere i en sikrere situation for børn, fordi deres identitet kunne fastslås uden tvivl, og fordi vi kunne forhindre handel med børn og andre kriminelle aktiviteter. Jeg beklager dette. Jeg håber dog, at alle, når der er blevet gennemført en undersøgelse senest efter tre år, vil være fornuftige nok til at beslutte, at det er muligt at tage fingeraftryk af børn på seks år for at sikre en bedre beskyttelse af børn.
+<SPEAKER ID="486" NAME="Silvia-Adriana Ţicău" AFFILIATION="PSE">
+(RO) Fru formand! Med Rådets beslutning 2004/512/EF af 8. juni 2004 indførtes lovrammen for indsamling af biometriske data til personidentifikation.
+<P>
+Med den europæiske forordning, som vi drøfter her, fastsættes fælles standarder for indsamling af biometriske data til personidentifikation, og den er baseret på de relevante bestemmelser fra Organisationen for International Civil Luftfart.
+<P>
+Storbritannien og Irland vil ikke anvende bestemmelserne i den nuværende forordning, fordi Schengen-regelværket ikke finder anvendelse på dem.
+<P>
+Jeg mener, at iagttagelse af beskyttelsen af især persondata er vigtig for denne forordning. Rent praktisk skal disse data lagres og behandles i overensstemmelse med den specifikke europæiske lovgivning. Derudover medfører den omstændighed, at medlemsstaterne har ansvaret for at tilrettelægge, hvordan visumansøgninger modtages og behandles et stort ansvar for dem med hensyn til respekt for personlige rettigheder.
+<P>
+Jeg vil bare nævne, at det er meget vigtigt, at disse data behandles og indsamles af godkendt personale og ikke under nogen omstændigheder anvendes til andre formål.
+<SPEAKER ID="487" NAME="Dushana Zdravkova" AFFILIATION="PPE-DE">
+(BG) Fru formand, fru kommissær, mine damer og herrer! Det kompromis, der er indgået om indførelse af biometri, når EU's medlemsstater udsteder indrejsevisa, garanterer uomtvisteligt en højere grad af sikkerhed.
+<P>
+Samtidig sikrer det også tilstrækkelige muligheder for at beskytte rejsendes personoplysning og menneskelig integritet. Jeg vil også gerne understrege, at en forbedring af de tekniske krav under alle omstændigheder vil støtte kampen mod grænseoverskridende kriminalitet, ulovlig indvandring og menneskesmugling.
+<P>
+For grænselande som mit eget, Bulgarien, der er udsat for intenst pres fra immigrationsstrømme og international organiseret kriminalitet, vil en hurtig og vellykket indførelse af de nye standarder være yderst vigtig, når det drejer sig om at beskytte EU's eksterne grænser.
+<P>
+Endvidere giver de foreslåede ændringer medlemsstaterne mulighed for at forbedre og fremskynde visumudstedelsesprocessen, hvilket uden tvivl vil bidrage til at styrke båndene til tredjelande. De vil også resultere i en generel forbedring af EU's image. Når det kommer til anvendelse af den nye lovgivning, må de eventuelle finansielle konsekvenser for visumansøgerne naturligvis også tages i betragtning.
+<P>
+Opkrævning af gebyrer ud over dem, der allerede findes, kan føre til, at der skabes hindringer, som blokerer den frie bevægelighed for rejsende i god tro. Endelig vil jeg gerne understrege, at sikring af en ordentlig beskyttelse i forbindelse med udveksling af data som en del af visumudstedelsen til rejse inden for EU vil være af afgørende betydning.
+<P>
+Parlamentet har altid beskyttet EU-borgernes persondata, og jeg mener, at det er retfærdigt og moralsk, at vi anvender de samme høje standarder, når vi beskytter besøgendes data.
+<SPEAKER ID="488" NAME="Androulla Vassiliou">
+medlem af Kommissionen. - (EN) Fru formand! Jeg vil blot gerne endnu en gang takke Baroness Ludford og alle medlemmerne for deres bidrag og deres bemærkninger. Jeg skal fortælle min kollega, hr. Barrot, alt, hvad der er blevet sagt her i dag.
+<SPEAKER ID="489" NAME="Sarah Ludford">
+ordfører. - (EN) Fru formand! Jeg vil gerne takke alle de skyggeordførere, der har arbejdet sammen med mig. Jeg har været "fru VIS" i over fire år, og sammen med skyggeordførerne har vi dannet en temmelig tæt klub, og jeg vil savne jer alle. Jeg vil navnlig savne Dem, fru formand, da vi måske ikke ser hinanden efter juni. Det har været en klub bestående udelukkende af kvinder, hvilket har været dejligt, men jeg vil også gerne takke alt det involverede personale, som ikke alle har været kvinder. De har været enestående.
+<P>
+Jeg respekterer fru Kaufmanns og fru Ždanokas holdninger. Jeg forstår deres holdninger, og jeg takker dem for at have taget fuldt ud del i forhandlingerne og i drøftelserne, selv om de, som de har påpeget, ikke kan støtte resultatet.
+<P>
+Jeg er meget ked af, at hr. Coelho ikke kan støtte dette kompromis. Jeg håber, han forstår, hvor hårdt jeg har kæmpet for nogle af de ting, han ønskede. De var, når alt kommer til alt, i min oprindelige betænkning. Hvis han mener, at jeg kunne have opnået mere, kan det give anledning til nogen sprutten i Rådet og Kommissionen, for jeg tror, de opfattede mig som en hård nød at knække.
+<P>
+Hr. Batten har forladt salen. Jeg tror, det var en del af UKIP's valgkampagne. Som fru Þicãu påpegede, er UK ikke part i visuminformationssystemet, da landet ikke er med i Schengen, så UK har fuld kontrol med sine egne grænser. Jeg tror, hr. Batten som vanligt var lidt uklar i sin tankegang.
+<P>
+Jeg vil gerne takke alle de øvrige talere, som er fremkommet med konstruktive bidrag. Jeg er glad for, at vi kan afslutte dette, da jeg personligt føler, at jeg gerne vil være fri for at være "fru VIS" efter dette.
+<SPEAKER ID="490" NAME="Formanden">
+Forhandlingen er afsluttet.
+<P>
+Afstemningen finder sted onsdag.
+<P>
+Skriftlige erklæringer (artikel 142)
+<SPEAKER ID="943" NAME="Alin Lucian Antochi  " LANGUAGE="RO">
+Indførelsen af biometriske identifikatorer som en del af VIS-markørerne er et vigtigt skridt i retning af at etablere en pålidelig forbindelse mellem indehaveren af visaet og passet og dermed forhindre brug af falsk identitet.
+<P>
+Lige fra førstebehandlingen af denne forordning har der dog været en række uoverensstemmelser mellem Rådet og Parlamentet om følgende aspekter: fingeraftrykstagning af børn op til seks år med risiko for at overse de omkostninger og den ulejlighed, det vil medføre for forældre, hver gang deres børns fingeraftryk ændrer sig, nye udfordringer i tilknytning til, hvordan indsamlingen af biometriske data skal foregå, og sidst men ikke mindst medlemsstaternes manglende erfaring med forvaltning af opbevaringen af personoplysninger og tekniske fejl.
+<P>
+I denne situation må vi sikre, at medlemsstaterne anvender standardregler i forbindelse med udstedelse af Schengenvisaer, og at de fælles konsulære instruktioner omarbejdes og tilpasses. Vi må endvidere lægge særlig vægt på at beskytte biometriske data fra dem, der har afgivet dem. Vi må være opmærksomme på, at selv om dette biometriske dataindsamlingssystem har til formål at bekæmpe kriminalitet og terrorisme ved at give adgang til og udveksle information mellem medlemsstaternes politimyndigheder, vil forskellige interessegrupper også kunne få adgang til dem, hvis der ikke udarbejdes og gennemføres meget strenge sikkerhedsforanstaltninger.
+<SPEAKER ID="942" NAME="Marian-Jean Marinescu  " LANGUAGE="RO">
+Forordningen om ændring af de fælles konsulære instruktioner om visaer fastsætter de lovrammer, der er nødvendige i forbindelse med indførelse af biometriske identifikatorer i visuminformationssystemet, VIS, samt retningslinjerne for modtagelse og behandling af visumansøgninger.
+<P>
+Denne forordning giver mulighed for samarbejde med en ekstern tjenesteyder med henblik på indsamling af visumansøgninger.
+<P>
+Jeg mener, at begrundelserne for, at der er blevet åbnet op for samarbejde med eksterne tjenesteydere, er uberettigede og skaber risiko for handel med visa. Selv om det i forordningen bestemmes, at medlemsstaterne forbliver operatører, mens de eksterne tjenesteydere er mennesker, som operatøren har overdraget opgaver til, mener jeg, at der er blevet sat spørgsmålstegn ved beskyttelsen af privatpersoner med hensyn til behandling og cirkulering af deres biometriske data.
+<P>
+Retten til at opkræve et gebyr ud over det normale visumgebyr vil skabe forskelle mellem medlemsstaterne med hensyn til visumomkostningerne. Jeg er fuldstændig overbevist om, at dette også vil skabe forskelle mellem medlemsstater med hensyn til antallet af visumansøgninger.
+<P>
+Jeg vil gerne bede de medlemsstater, der anvender "outsourcing" som en metode til indsamling og behandling af visumansøgninger, huske på denne fare og gennemgå rammelovgivningen, så den minimerer muligheden for, at eksterne tjenesteydere indsamler visumansøgninger.

@@ -1,0 +1,6 @@
+<CHAPTER ID="009">
+Głosowanie
+<SPEAKER ID="996" NAME="Przewodniczący">
+Kolejnym punktem porządku obrad jest głosowanie.
+<P>
+(Szczegóły dotyczące wyników głosowania: patrz protokół)

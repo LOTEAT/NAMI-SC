@@ -1,0 +1,10 @@
+<CHAPTER ID="002">
+Aprovação da acta da sessão anterior
+<SPEAKER ID="006" NAME="Presidente">
+A acta da sessão de 26 de Outubro de 2006 já foi distribuída. Há alguma observação?
+<SPEAKER ID="007" NAME="Françoise Grossetête" AFFILIATION="PPE-DE">
+(FR) Senhor Presidente, gostaria de salientar que, na quinta-feira, me esqueci de assinar a lista de presenças. No entanto, participei em todas as votações nominais ao meio-dia, bem como durante a tarde desse dia.
+<SPEAKER ID="008" NAME="Presidente">
+Serão tomadas as medidas apropriadas para fazer a correcção necessária.
+<P>
+(A acta da sessão anterior é aprovada)

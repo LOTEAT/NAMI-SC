@@ -1,0 +1,124 @@
+<CHAPTER ID="003">
+Pārrobežu maksājumi Kopienā - Elektroniskās naudas iestāžu darbība (debates)
+<SPEAKER ID="019" NAME="Priekšsēdētāja">
+Nākamais punkts ir kopējas debates par:
+<P>
+Ekonomikas un monetārās komitejas pārstāves Starkevičiūtė kundzes ziņojums par priekšlikumu Eiropas Parlamenta un Padomes regulai par pārrobežu maksājumiem Kopienā - C6-0352/2008 - un
+<P>
+Ekonomikas un monetārās komitejas pārstāvja Purvis kunga ziņojums par priekšlikumu Eiropas Parlamenta un Padomes direktīvai par elektroniskās naudas iestāžu darbības sākšanu, veikšanu un uzraudzību, ar ko groza Direktīvu 2005/60/EK un 2006/48/EK un atceļ Direktīvu 2000/46/EK - C6-0350/2008 -.
+<SPEAKER ID="020" NAME="Margarita Starkevičiūtė">
+referente. - (LT) Šodien, kad Eiropas Savienībā valda ekonomiskā recesija, ir ļoti svarīgi veicināt ekonomisko attīstību. Viens no veidiem, kā veicināt Eiropas Savienības ekonomisko izaugsmi, ir kopējā tirgus paplašināšana, jo tas joprojām ir ļoti sadrumstalots, īpaši finanšu pakalpojumu jomā. Manuprāt, šis priekšlikums palīdzēs atrisināt šo problēmu un izveidot vienotu Eiropas maksājumu telpu, tā dēvēto Vienoto eiro maksājumu telpu.
+<P>
+Šis nav jauns dokuments. Tiklīdz tika ieviests eiro un valūtas maiņas kursi eiro zonas valstīs tika aizliegti, bija skaidrs, ka pārrobežu maksājumu cenas joprojām atšķiras no vietējo maksājumu cenām. Tādēļ tika pieņemta Eiropas Parlamenta un Padomes Regula (EK) Nr. 2560 par pārrobežu maksājumiem eiro, un tā sājās spēkā 2001. gada beigās. Tā noteica vienādu nodevu par attiecīgiem vietējiem, nacionāliem un pārrobežu maksājumiem un stiprināja šo principu. Šīs regulas mērķis bija samazināt cenas patērētājiem un uzlabot konkurenci maksājumu pakalpojumu tirgū.
+<P>
+Līdz ar šīs regulas ieviešanu tika samazināta maksa par maksājumiem, piemēram, līdz šim Eiropas Savienībā par 100 eiro pārrobežu pārskaitījumu bija jāmaksā aptuveni 24 eiro, bet tagad - 2,50 eiro. Taču šajā dokumentā tika konstatētas dažas nepilnības. Tādēļ tika nolemts šo dokumentu pārskatīt.
+<P>
+Šī ir Regulas Nr. 2560 uzlabota versija. Kas ir jauns šajā dokumentā? Pirmkārt, tika paplašināts princips par vienādu maksu pārrobežu un atbilstošiem iekšzemes maksājumiem, ietverot arī tiešā debeta maksājumus. Iepriekšējā dokumenta redakcijā tā nebija. Kad tika izveidota Vienotā eiro maksājumu telpa un tika pieņemta Maksājumu pakalpojumu direktīva, maksājumu vide Eiropā mainījās. Tāpēc ir svarīgi, ka, sākot ar 2009. gada novembri, būs iespējams pārrobežu maksājumiem izmantot populāro elektronisko maksājumu metodi, tiešo debetu. Lai izveidotu vienotu tiešā debeta modeli, šī regula paredz, ka, ja nav noslēgts divpusējs nolīgums starp maksātāja un maksājuma saņēmēja maksājumu pakalpojuma sniedzējiem, pārejas periodā līdz 2012. gadam būs noteikts līmenis saistību nepildīšanas starplaika daudzpusējā savstarpējās apmaiņas maksai tiešajam debetam 0,08 eiro apmērā.
+<P>
+Šajā dokumentā arī norādīts, kā uzlabot patērētāju tiesību aizsardzību un novērst uzņēmējdarbības šķēršļus. Ir priekšlikums dalībvalstīm norīkot kompetentas iestādes uzraudzīt šīs regulas ieviešanu, un šīm iestādēm būtu arī aktīvi jāsadarbojas ar citām valstīm, lai mazinātu uzņēmējdarbības šķēršļus. Tās arī varētu sagatavot vadlīnijas par to, kā novērtēt šī principa ievērošanas procedūras.
+<P>
+Šajā dokumenta redakcijā ir arī priekšlikums pakāpeniski atcelt prasību bankām sniegt maksājumu bilances statistiku, kas dažās valstīs ir obligātas, un izstrādāt citas procedūras saistībā ar maksājumu bilances statistikas sniegšanu.
+<P>
+Man ir ļoti žēl, ka šajā punktā mums neizdevās vienoties ar Padomi, un maksājumu bilances pārskatīšanas un ieviešanas procedūras joprojām nav definētas. Parlaments un Komisija paziņoja, ka tiks skaidri noteikts termiņš.
+<SPEAKER ID="021" NAME="John Purvis">
+referents. - Priekšsēdētāja kundze, šī direktīva ir saistīta ar pieaugošo elektroniskās tirdzniecības un elektroniskās naudas nozīmi, kā arī nepieciešamību pēc skaidra tiesiskā regulējuma. Tās mērķis ir veicināt elektroniskās naudas izmantošanu tiešsaistes maksājumiem, priekšapmaksas mobilajiem telefonu sakariem, papildināmajām ceļojumu kartēm un dāvanu kartēm.
+<P>
+Elektroniskā nauda ir viens no naudas veidiem, kas ir monetāra vērtība un ērts maiņas līdzeklis. Taču atšķirībā no maksāšanas līdzekļiem, kuru pamatā ir finanšu līdzekļi bankas kontā, piemēram, kredītkartes un debetkartes, elektroniskā nauda ir kā priekšapmaksas maksājums. To parasti izmanto salīdzinoši nelielām naudas summām, lai norēķinātos ar citu uzņēmumu, un tādējādi tā atšķiras no vienam mērķim paredzētām priekšapmaksas kartēm, kā, piemēram, tālruņu zvanu kartes. Lai lietotu elektronisko naudu, nav vajadzīgs bankas konts, tādēļ tas ir īpaši svarīgi tiem, kuriem nav vai kuri nevar atvērt bankas kontu.
+<P>
+Pirms astoņiem gadiem Benjamin Cohen rakstā "Elektroniskā nauda - jaunas iespējas vai beigu sākums” ("Electronic Money: New Day or False Dawn?”) norādīja, ka drīz pienāks elektroniskās naudas laikmets. Diemžēl šis pareģojums nepiepildījās, un izrādījās, ka vismaz Eiropa tam vēl nav gatava. Eiropā joprojām tiek izmantota pavisam neliela daļa no priekšrocībām, ko sniedz elektroniskā nauda un kas tika prognozētas 2001. gadā, kad tika pieņemta pirmā Direktīva par elektronisko naudu.
+<P>
+Visticamāk to izraisīja prasības pēc liela sākotnējā kapitāla un citi pārspīlēti ierobežojumi. Elektroniskās naudas iestāžu skaits dalībvalstīs ir ļoti atšķirīgs. Piemēram, Čehijā ir vairāk nekā 40 elektroniskās naudas iestāžu, bet Francijā un Vācijā kopā ir tikai 12 šādu iestāžu. Patiesībā, pārāk atšķirīgo regulējumu dēļ divām Vācijas elektroniskās naudas iestādēm nevarēja tikt piemēroti Apvienotās Karalistes tiesību akti, pat saskaņā ar šo direktīvu. Pirms diviem gadiem, 2007. gada augustā, elektroniskās naudas izteiksmē bija pieejams tikai 1 miljards eiro, pretstatā 600 miljardiem eiro apgrozībai skaidrā naudā.
+<P>
+Tātad elektroniskā nauda vēl ne tuvu nav nopietna alternatīva skaidrai naudai. Taču, neskatoties uz ierobežojumiem, tās loma būtiski palielinās, un domājams, ka šī jaunā direktīva veicinās jaunu, inovatīvu un drošu elektroniskās naudas pakalpojumu attīstību, lai piesaistītu jaunus tirgus dalībniekus un veicinātu patiesu un efektīvu konkurenci tirgū. Tirgū varēs ienākt jauni un mazāki operatori, jo nepieciešamais sākotnējais kapitāls tiks samazināts no 1 miljona eiro līdz 350 000 eiro. Protams, Ekonomikas un monetārā komiteja vēlētos, lai šī summa būtu mazāka.
+<P>
+Šī pakalpojuma nodrošinātāji var paplašināt iespējas norēķināties elektroniski, piemēram, iegādājoties metro biļeti, klients varētu nopirkt arī kafiju, avīzi vai ziedus stacijas kioskā. Šāda sistēma jau darbojas, piemēram, Honkongā, turklāt ļoti veiksmīgi.
+<P>
+Mēs pavirši pārskatījām likumdošanas procesu, lai panāktu vienošanos pirmajā lasījumā un lai šis pasākums tiktu ieviests pirms Eiropas Parlamenta vēlēšanām. Liels paldies Ivo un Melanie, kas pārstāv Ekonomikas un monetāro komiteju, sociālistu un liberāļu pārstāvjiem, Pittella kungam un Raeva kundzei, Komisijas dienestiem un Čehijas prezidentūrai par ļoti konstruktīvo sadarbību. Mēs nesasniedzām visus plānus, taču, manuprāt, mēs esam spēruši ļoti lielu soli vēlamajā virzienā, un es ļoti lūdzu Parlamentu atbalstīt šo projektu.
+<SPEAKER ID="022" NAME="Antonio Tajani">
+Komisijas priekšsēdētāja vietnieks. - (IT) Priekšsēdētājas kundze, dāmas un kungi! Vispirms es Komisijas vārdā vēlos izteikt atzinību Parlamentam par ātru šo divu ļoti svarīgo jautājumu izskatīšanu. Un es vēlos pateikties abiem referentiem un Berčs kundzei, Ekonomikas un monetārās komitejas priekšsēdētājai, par ieguldīto darbu, lai paātrinātu šo procesu.
+<P>
+Pēc pāris mēnešiem beigsies termiņš, līdz kuram dalībvalstu tiesību aktos ir jāievieš Maksājumu pakalpojumu direktīva. Šie divi pasākumi un ievērības cienīgi maksājumu nozares pūliņi attīstīt Vienotās eiro maksājumu telpas produktus ir būtisks un savlaicīgs solis uz priekšu, lai izveidotu vienotu tirgu maksājumiem. Šie pasākumi un šī direktīva veidos juridisko pamatu, kas ir nepieciešams, lai nodrošinātu skaidrību, noteiktību un stabilitāti tirgū. Pēdējās nedēļās notika sarunas, kas ļāva ātri vienoties par šiem diviem jautājumiem.
+<P>
+Runājot par labojumiem regulā par pārrobežu maksājumiem, esmu gandarīts, ka Komisija apstiprināja ierosinātos labojumus, par kuriem mums izdevās vienoties. Komisijai ir īpaši liels prieks par to, ka tās sākotnējā priekšlikumā tika iekļauti punkti, kas regulē jautājumu saistībā ar daudzpusējiem starpbanku tarifiem par tiešo debetu darījumiem. Tirgū bija nepieciešami šie nosacījumi, un, mūsuprāt, tie ir būtiski, lai Eiropas bankas savlaicīgi īstenotu Vienotās eiro maksājumu telpas tiešo debetu.
+<P>
+Šie nosacījumi dos maksājumu nozarei trīs gadus laika, lai izveidotu uzņēmējdarbības ilgtermiņa modeli automātiskam debetam, kas ir saskaņā ar konkurences noteikumiem. Lai vienotos, Komisija ir gatava nevis bez ierunām atcelt šos nosacījumus, bet tā vietā pieņemt pārskatīšanas klauzulu, kā ierosināja Parlaments un Padome.
+<P>
+Runājot par labojumiem Direktīvā par elektronisko naudu, šie ir ļoti vērienīgi tiesību akti, kas ļaus vēlreiz izveidot elektroniskās naudas tirgu, kas būtu patiesi noderīgs. Šīs direktīvas mērķis ir tirgū nodrošināt skaidru un sabalansētu juridisko un konsultatīvo uzraudzības sistēmu, nojaucot nevajadzīgus, nesamērīgus vai pārmērīgus šķēršļus iekļūšanai tirgū un padarot elektroniskās naudas izsniegšanas uzņēmējdarbību vēl pievilcīgāku.
+<P>
+Jaunajai direktīvai būtu jānodrošina īsta un efektīva konkurence tirgus dalībnieku starpā, tajā pašā laikā nodrošinot vienlīdzīgas iespējas visiem maksājumu pakalpojumu sniedzējiem un patērētāju tiesību aizsardzību augstā līmenī. Panāktais kompromiss ir lielisks līdzsvars, kas pilnībā aizsargā mūsu sākotnējos mērķus un tajā pašā laikā pienācīgi atbild uz pamatotām bažām, kas radās tā pieņemšanas procesā. Tāpēc mēs pilnībā atbalstām šo priekšlikumu.
+<SPEAKER ID="023" NAME="Aloyzas Sakalas">
+Juridiskās komitejas atzinuma sagatavotājs. - Priekšsēdētājas kundze, Juridiskā komiteja atbalsta priekšlikumu Eiropas Parlamenta un Padomes regulai par pārrobežu maksājumiem Kopienā.
+<P>
+Komisijas iniciatīvas mērķi ir šādi: pirmkārt, aizstāt esošo regulu, lai to pielāgotu tirgus attīstībai, otrkārt, uzlabot patērētāju tiesību aizsardzību un izveidot atbilstošu tiesisko regulējumu modernas un efektīvas maksājumu sistēmas izveidei Eiropas Savienībā, un, treškārt, izveidot iekšējo tirgu maksājumu pakalpojumiem eiro.
+<P>
+Juridiskajai komitejai tika noteikts sniegt atzinumu Ekonomikas un monetārajai komitejai. Atzinumā ierosināts dalībvalstīm norīkot esošās iestādes darboties kompetento varas iestāžu vietā un īstenot vai izvērst esošās procedūras saistībā ar pārrobežu maksājumu pakalpojumiem. Ir svarīgi piemērot un pilnveidot jau spēkā esošos pasākumus un noteikt attiecīgajām iestādēm efektīvi izskatīt sūdzības un strīdus saistībā ar šo priekšlikumu.
+<P>
+Ir jānorāda, ka proporcionalitātes, subsidiaritātes un īpaši paplašināts principam par vienādu maksu pārrobežu maksājumiem ir jābūt saskaņā ar Eiropas Kopienas dibināšanas līguma 95. panta 1. punktu. Pārrobežu maksājumi eiro prasa pieeju Kopienas mērogā, jo, lai garantētu tiesisko drošību un visiem Eiropas maksājumu tirgus dalībniekiem nodrošinātu vienādas iespējas, visās dalībvalstīs ir jāpiemēro vienādi noteikumi un principi.
+<SPEAKER ID="024" NAME="José Manuel García-Margallo y Marfil" LANGUAGE="ES">
+Priekšsēdētājas kundze, es vēlos komentēt tikai regulu par pārrobežu maksājumiem un Starkevičiūtkundzes ziņojumu.
+<P>
+Kā viņa ļoti labi paskaidroja, šī regula ir vajadzība saistībā ar eiro ieviešanu, un tajā ir izklāstīta samērā skaidra nostāja -
+<P>
+maksai par vietējiem un pārrobežu maksājumiem ir jābūt vienādai.
+<P>
+Šāds noteikums iekšējā tirgū ir loģisks, taču pirms tam tas netika ievērots.
+<P>
+Tā šī regula kļuva par pamatu Vienotai eiro maksājumu telpai, kuru referente jau minēja, un man ir vēl daži novērojumi.
+<P>
+Ar laiku šī regula ir novecojumi, un tā ir jāpārskata, lai to pielāgotu izmaiņām finanšu tirgos un Maksājumu pakalpojumu direktīvai.
+<P>
+Šajā redakcijā Komisija izvirzīja trīs mērķus: pirmkārt, regulā iekļaut pārrobežu tiešo debetu, otrkārt, izveidot procedūras, kas ļautu ārpus tiesas risināt ar regulas īstenošanu saistītus jautājumus, un, treškārt, atvieglot nosacījumu ziņot par maksājumu bilances statistiku.
+<P>
+Kopumā Eiropas Parlaments atbalsta šo pieeju, taču tas ir izdarījis trīs būtiskas izmaiņas: precizēja regulā minētās tiesiskās definīcijas, brīdinājumu vai atgādinājumu dalībvalstīm, ka tām ir jāievēro šīs regulas nosacījumi vairāk nekā līdz šim, un, treškārt, aicināja dalībvalstis sadarboties.
+<P>
+Man bažas radīja nosacījums ziņot par maksājumu bilances statistiku, kas tika atrisināts, noslēdzot nolīgumu starp atsevišķām iestādēm. Tāpēc es varu apgalvot, ka esmu pilnībā apmierināts ar rezultātu.
+<SPEAKER ID="025" NAME="Pervenche Berès" LANGUAGE="FR">
+Priekšsēdētājas kundze, es vēlos runāt par Purvis kunga ziņojumu par elektronisko naudu.
+<P>
+Vispirms, manuprāt, Eiropā elektronisko naudu izmanto mazāk nekā Honkongā, jo bez šaubām Eiropas pilsoņi ir pārāk pieraduši izmantot savas bankas kartes.
+<P>
+Saistībā ar šiem tiesību aktiem Parlamentam bija divas bažas: pirmkārt, šobrīd visiem ir svarīga kontrole, un mēs negribam atcelt regulējumu attiecībā uz elektroniskās naudas iestāžu kontroli tikai to lobija dēļ. Tāpēc Eiropas Parlaments tik ļoti uzstāja, lai iestādes, kas izsniedz un pārvalda elektronisko naudu, tiktu stingri kontrolētas, un, manuprāt, mēs šajā jomā esam saņēmuši vairākas garantijas. Es to atbalstu.
+<P>
+Mēs arī ļoti vēlējāmies ņemt vērā pilsoņu intereses un to personu intereses, kuri lieto elektronisko naudu, īpaši gadījumā, ja viņi vēlas lauzt līgumu, lai elektroniskās naudas pārvaldības iestādes viņiem nepiemērotu pārmērīgus ierobežojumus un maksas.
+<P>
+Ar tādu nosacījumu mēs atbalstām šo priekšlikumu, cerot, ka tā, izmantojot elektronisko naudu, varētu atvieglot mūsu pilsoņu dzīvi, bet tas neradītu pārmērības, īpaši uzraudzības jomā.
+<SPEAKER ID="026" NAME="Mariela Velichkova Baevą" LANGUAGE="BG">
+Priekšlikums Eiropas Parlamenta un Padomes regulai par pārrobežu maksājumiem Kopienā, ar kuru paredzēts aizstāt pašreiz piemērojamo regulu, ir saistīts ar integrēta Eiropas maksājumu tirgus izveidi. Priekšlikuma mērķis ir arī uzlabot aptērētāju interešu un tiesību aizsardzību un mazināt šķēršļus, kas saistīti ar statistikas ziņošanu.
+<P>
+Priekšlikuma 5. pants par maksājumu bilanci un 12. pants par pārskatīšanas klauzulu, ir mūsu referentes Margarita Starkevičiūtė kompromisa mērķis, un Bulgārija to atbalsta. Panākot kompromisu, mēs varēsim savlaicīgi un adekvāti izvērtēt šo jautājumu.
+<P>
+Pašreizējā globālā finanšu krīze norāda uz vajadzību pēc attiecīgiem statistikas datiem. Bulgārija atbalsta priekšlikumu atcelt uz vienošanās pamata noteiktu nosacījumu maksājumu pakalpojumu sniedzējiem sniegt maksājumu bilances statistiku, ja maksājums nepārsniedz 50 000 eiro.
+<P>
+Bulgārija atbalsta priekšlikumu atcelt 5. panta 2. punktu, jo iebildumi ir saistīti ar iespējamu informācijas zudumu un maksājumu bilances statistikas kvalitātes pasliktināšanos, kā arī tehnisko periodu pārejai uz tiešo ziņošanas sistēmu.
+<SPEAKER ID="027" NAME="Antonio Tajani">
+Komisijas priekšsēdētāja vietnieks. - (IT) Priekšsēdētājas kundze, dāmas un kungi! Es vēlos vēlreiz izteikt atzinību Parlamentam par veidu, kā tas risina šos divus jautājumus. Tas nozīmē, ka jaunā regula par pārrobežu maksājumiem stāsies spēkā šī gada 1. novembrī, kā tas bija apredzēts, un elektroniskās naudas tirgum būs vēl viena iespēja sevi attaisnot.
+<P>
+Paralēli Maksājumu pakalpojumu direktīvai šie divi Eiropas tiesību akti ļaus izveidot modernu un visaptverošu tiesisko regulējumu Kopienas tirgū maksājumu jomā, un uzlabos situāciju, lai Eiropas maksājumu nozarē varētu pilnībā īstenot Vienotās eiro maksājumu telpas projektu. Šis projekts nodrošinās patērētājiem Eiropā un uzņēmumiem izdevīgu, augstākās kvalitātes un pilnībā integrētu maksājumu tirgu
+<P>
+Tāpēc es ar vislielāko prieku Komisijas vārdā izsaku pateicību Eiropas Parlamentam par Vienotās eiro maksājumu telpas projekta atbalstīšanu.
+<SPEAKER ID="028" NAME="Nils Lundgren" LANGUAGE="SV">
+Priekšsēdētājas kundze, iespēja izmantot elektronisko naudu pārrobežu maksājumiem ir būtisks sasniegums. Ir svarīgi šādi attīstīt Eiropas Savienības iekšējo tirgu, veicinot elektroniskās naudas izmantošanu. Taču es vēlos izmantot izdevību, lai atgādinātu, par ko tieši ir runa.
+<P>
+Pirms daudzās Eiropas valstīs tika ieviests eiro, tika veikta monetāras savienības vērtības izpēte. Vērtība tiek iegūta, samazinot valūtas maiņas maksu un citas transakciju maksas. Izmantojot vienotu valūtu, var ietaupīt informācijas izmaksas. Rezultātā ir vairāk nestabilu ekonomiku. Ir grūtāk uzturēt vienmērīgu un augstu nodarbinātības līmeni un stabilitāti valstu finanšu jomā. Kā redzams, vairākās valstīs, piemēram, Īrijā, Spānijā, Itālijā un Grieķijā, situācija ir nestabila.
+<P>
+Ņemiet vērā, ka zaudējumiem ir jābūt līdzsvarā ar ieguvumiem, ko nodrošinātu zemāka transakciju maksa vienotas valūtas gadījumā, taču ieguvumu skaits arvien sarūk tieši tāpēc, ka progress maksājumu sistēmas jomā ir tik straujš. Drīz izveidosies tāda situācija, ka maksājumu sistēma būs tik efektīva, ka šīs maksas būs pavisam niecīgas. Tad būs vienota valūta, kas, patiesībā, tikai nozīmē mūsu Eiropas ekonomikas nestabilitāti. Esmu to teicis jau iepriekš, un tagad jūs paši varat par to pārliecināties. Es lūdzu jūs visus par to padomāt.
+<SPEAKER ID="029" NAME="Margarita Starkevičiūtė">
+referente. - (LT) Es vēlos norādīt, ka šī dokumenta teksts ir kompromiss, kas sarežģītu sarunu ceļā panākts starp Padomi, Komisiju un Parlamentu.
+<P>
+Taču rezultāts ir pozitīvs, un es vēlos pateikties Padomes pārstāvim Trinka kungam un Komisijas pārstāvjiem par sadarbību. Es vēlos pateikties arī Ekonomikas un monetārās komitejas darbiniekiem, kuri palīdzēja sagatavot šo dokumentu. Šis dokuments sniegs atbildi uz Lungren kunga jautājumiem, proti, tas uzlabos situāciju visā eiro zonā, jo tiks stiprinātas darījumu ar eiro procedūras. Es pārstāvu valsti, kas neietilpst eiro zonā, un man ir prieks, ka, ja eiro zonā neietilpstošās dalībvalstis tā vēlas, šī regula var tikt piemērota arī maksājumiem to nacionālajā valūtā, kas Lietuvā ir liti.
+<P>
+Šobrīd maksa par pārrobežu maksājumiem un iekšzemes maksājumiem nacionālajā valūtā joprojām atšķiras. Daļēji tas ir tāpēc, ka mēs pārstāvam valsti, kas neietilpst eiro zonā. Manuprāt, pirmā un viena no lietām, kas būtu jādara valstīm, kuras neietilpst eiro zonā, bet plāno pievienoties eiro zonai, būtu sākt piemērot šo principu attiecībā uz nacionālo valūtu. Ir svarīgi arī tas, ka pārrobežu maksājumu sekmēšana ar šīs regulas palīdzību ļaus modernizēt Eiropas banku sektoru, jo bankām ir noteikts trīs gadus ilgs pārejas periods, lai sagatavotu jaunu uzņēmējdarbības modeli, lai uzlabotu maksājumu efektivitāti.
+<P>
+Tas ir ļoti svarīgi, runājot par jauninājumiem, jaunām iniciatīvām un modernizāciju. Šis dokuments tam nodrošina vajadzīgos apstākļus.
+<SPEAKER ID="030" NAME="John Purvis">
+referents. - Priekšsēdētājas kundze, tikai, lai nomierinātu Berčs kundzi, es vēlos teikt, ka šajā direktīvā un ziņojumā mēs norādījām, ka elektroniskās naudas līdzekļi nav depozīti, ar tiem nevar veidot kredītu. Mēs izvēršam elektroniskās naudas sniegtās iespējas.
+<P>
+Tagad ir noteikts, ka pamatkapitālam ir jābūt 350 000 eiro, lai gan Ekonomikas un monetārā komiteja vēlas, lai šī summa tiktu samazināta līdz 200 000 eiro. Obligātajam pašu kapitālam ir jābūt 2 % no neapmaksātajiem elektroniskās naudas līdzekļiem. Mēs gribētu, lai šī likme būtu 1,6 %, taču ir pieļaujama atkāpe 20 % apmērā, proti, liberālākas dalībvalstis var piemērot 1,6 % likmi, bet konservatīvākas dalībvalstis šo likmi var palielināt līdz 2,4 %.
+<P>
+Nav labi, ka Eiropas Savienībā joprojām valda tāda nevienlīdzība, īpaši, ja mēs prasījām, lai elektroniskās naudas lietotāju līdzekļi būtu pilnībā nodrošināti un būtu arī citi nozīmīgi lietotājam draudzīgi aizsardzības pasākumi, piemēram, izpirkšana, kā minēja Berčs kundze. Tā kā ir noteiktas prasības attiecībā uz kapitālu, arī atteikšanās līmenis nacionālajiem elektroniskās naudas operatoriem ir jānosaka 5 miljonu eiro, nevis 2 miljonu eiro apmērā.
+<P>
+Kopumā šis priekšlikums ir ļoti piesardzīgs solis uz priekšu. Tas nav pilnīgs. Kompromisi reti mēdz būt nevainojami. Visticamāk pēc trīs vai četriem gadiem mums pie tā būs jāatgriežas, un es ceru, ka līdz tam laikam šo uzņēmējdarbību pārstāvēs vairāki operatori. Lietotāji un tirgotāji prasīs lielākas izvēles iespējas. Aizdomīgākie regulatori, bankas, Berčs kundze un pat Eiropas Centrālā banka piekritīs, ka tas ir izdevīgs, lietotājam draudzīgs pakalpojums, kas nekādā veidā neapdraud Eiropas ekonomiku. Mēs Eiropā vismaz varam izmantot visas elektroniskās naudas sniegtās iespējas.
+<SPEAKER ID="031" NAME="Priekšsēdētāja">
+Kopīgās debates ir slēgtas.
+<P>
+Balsojums notiks šodien.

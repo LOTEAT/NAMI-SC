@@ -1,0 +1,6 @@
+<CHAPTER ID="008-13">
+13. Medzinárodná obchodná politika v kontexte naliehavých požiadaviek súvisiacich so zmenou klímy (
+<SPEAKER ID="101" NAME="Yannick Jadot" LANGUAGE="FR">
+Vážený pán predsedajúci, navrhujeme zmeniť koniec odseku 22 a nahradiť slovo "zabraňovali" slovom "informovali", aby záverečná veta znela:
+<P>
+"okrem toho pripomína žiadosť Európskeho parlamentu Komisii a členským štátom, aby informovali Európsky parlament o pôžičkách poskytovaných úverovými vývoznými agentúrami a Európskou investičnou bankou na projekty, ktoré majú negatívne vplyvy na klímu".

@@ -1,0 +1,4 @@
+<CHAPTER ID="007">
+Hlasovanie 
+<SPEAKER ID="049" NAME="Predseda">
+Ďalším bodom programu je hlasovanie.

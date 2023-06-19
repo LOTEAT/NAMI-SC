@@ -1,0 +1,6 @@
+<CHAPTER ID="001">
+Zahájení zasedání
+<SPEAKER ID="007" NAME="Daniel Hannan" AFFILIATION="NI">
+Pane předsedající, od našeho posledního setkání jsou zveřejňovány zprávy o setkání vedoucích představitelů politických skupin a prezidenta České republiky, na němž někteří vedoucí představitelé skupin ukázali svou nevychovanost a neomalenost, které nás všechny, jak se domnívám, do určité míry zostuzují. Jsem zvědav, jestli využijete této příležitosti a jakožto dnešní zástupce předsedy potvrdíte, že si tato sněmovna váží všech názorů, ať již jsou pro Lisabonskou smlouvu, nebo proti ní, a že respektujeme důstojnost tohoto úřadu České republiky.
+<SPEAKER ID="008" NAME="Předsedající">
+Pane Hannane, není na mně, abych něco potvrzoval, a rovněž vám chci připomenout, že Parlament tuto otázku právě neprojednává. Přesto jsem si jist, že v pravý čas dostanete slovo, abyste v této otázce mohl volat příslušné orgány k odpovědnosti.

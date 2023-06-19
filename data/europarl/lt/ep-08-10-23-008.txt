@@ -1,0 +1,4 @@
+<CHAPTER ID="008">
+Balsuoti skirtas laikas (tęsinys)
+<SPEAKER ID="060" NAME="Pirmininkas">
+Balsuoti skirtas laikas tęsiasi.

@@ -1,0 +1,82 @@
+<CHAPTER ID="020">
+Limites máximos de resíduos de substâncias farmacologicamente activas nos alimentos de origem animal (debate) 
+<SPEAKER ID="253" NAME="Presidente">
+Segue-se na ordem do dia a recomendação para segunda leitura, da Comissão do Ambiente, da Saúde Pública e da Segurança Alimentar, referente à posição comum adoptada pelo Conselho tendo em vista a aprovação de um regulamento do Parlamento Europeu e do Conselho que prevê procedimentos comunitários para o estabelecimento de limites máximos de resíduos de substâncias farmacologicamente activas nos alimentos de origem animal, que revoga o Regulamento (CEE) n.º 2377/90 do Conselho e que altera a Directiva 2001/82/CE do Parlamento Europeu e do Conselho e o Regulamento (CE) n.º 726/2004 do Parlamento Europeu e do Conselho (15079/2/2008 - C6-0005/2009 - (Relatora: Avril Doyle).
+<SPEAKER ID="254" NAME="Avril Doyle">
+relatora. - (EN) Senhor Presidente, permitam-me que comece por agradecer a todos os meus relatores-sombra e também à Presidência francesa por facilitar um acordo a breve prazo em segunda leitura.
+<P>
+Esta é uma proposta de natureza bastante técnica, na medida em que visa actualizar o regime actualmente existente na UE, cujo principal objectivo é proteger a saúde pública limitando a exposição dos consumidores de alimentos de origem animal a resíduos de substâncias farmacologicamente activas presentes em medicamentos veterinários e produtos biocidas. Isso consegue-se estabelecendo limiares de segurança ou limites máximos de resíduos (LMR) para substâncias aprovadas e proibindo substâncias que se verificou não serem seguras ou relativamente às quais não pode ser estabelecido um perfil de segurança em termos científicos.
+<P>
+Só por si, os LMR não protegem os consumidores. Os consumidores são protegidos directamente estabelecendo-se um intervalo de segurança adequado antes do abate e havendo controlos em vigor para o monitorizar. Na prática, os intervalos de segurança são estabelecidos utilizando um factor de segurança elevado que reflicta a quantidade de dados disponíveis na fase actual de desenvolvimento de um produto.
+<P>
+Chegámos a acordo sobre as questões fundamentais. Primeiro do que tudo, extrapolação de LMR fixados para uma espécie para outra espécie; em segundo lugar, adopção no seio da UE, de LMR fixados internacionalmente no âmbito do Codex Alimentarius; e em terceiro lugar, criação de um quadro que estabeleça LMR para alimentos importados de países terceiros.
+<P>
+Conseguimos clarificar quais as medidas que é necessário tomar quando se encontrem substâncias não autorizadas seja em alimentos produzidos na UE, seja em alimentos importados de países terceiros, para além de clarificar a base de revisão destes valores de referência para a tomada de medidas: ou seja, o limite máximo estabelecido para fins de controlo para qualquer substância não autorizada à luz de quaisquer novos dados.
+<P>
+Também se chegou a acordo sobre a questão de fixar limites máximos de resíduos (LMR) para determinados produtos biocidas, como os desinfectantes utilizados no ambiente dos animais, especialmente no que se refere aos aspectos do financiamento da respectiva autorização e dos respectivos dossiês.
+<P>
+O estabelecimento de um LMR para uma substância farmacologicamente activa exige um pacote de dados dispendioso de estudos de toxicologia e metabolismo. Esse pacote é demasiado dispendioso para determinadas espécies menos comuns utilizadas na alimentação humana, as chamadas "espécies menores", pois o mercado para medicamentos veterinários para estas espécies é pequeno - as chamadas "utilizações menores". O estabelecimento de um LMR é o primeiro passo a concretizar antes de poder ser apresentado às autoridades reguladoras um pedido de autorização de um medicamento veterinário para uma espécie destinada à alimentação humana que contenha uma substância farmacologicamente activa.
+<P>
+Assim, esta questão das utilizações menores/espécies menores é um problema que necessita de resolução urgente, porque gera questões potenciais no domínio do bem-estar animal e da segurança alimentar. Os veterinários têm o dever de prestar cuidados e tentarão sempre tratar um animal doente e, nos termos da legislação actual, são frequentemente obrigados a recorrer a medicamentos não autorizados.
+<P>
+A falta de um LMR também impede as autoridades de poderem estabelecer um intervalo de segurança adequado para um medicamento. O actual regulamento sobre LMR não exige que estes sejam fixados para espécies individuais. O Comité dos Medicamentos Veterinários (CMV) da Agência Europeia de Medicamentos fixa LMR para espécies individuais seguindo uma abordagem cautelosa inicial. Em 1997 e após cinco anos de experiência, o CMV passou em revista todos os LMR que tinham sido fixados e concluiu que não era necessário fixar LMR para espécies individuais, pois os LMR para uma substância específica são quase sempre semelhantes ou idênticos. Nesse mesmo ano, o CMV emitiu uma directriz sobre o estabelecimento de LMR para espécies menores. Definiu espécies menores destinadas à alimentação humana como sendo todas as espécies com excepção do gado bovino, porcos e aves de capoeira e incluiu nelas os salmonídeos.
+<P>
+Permitiu a extrapolação de uma espécie de mais importante para uma espécie menor da mesma família - de ruminante para ruminante, peixe para peixe, frangos para outras aves de capoeira. Em 2008, após oito anos de experiência, o CMV emitiu uma nova directriz, a abordagem de Análise de Risco para resíduos de medicamentos veterinários nos alimentos de origem animal. Esta descreve uma abordagem baseada no risco da extrapolação de um LMR fixado para uma substância de uma ou mais espécies para espécies adicionais. Esta directriz permite a extrapolação de LMR resultantes de dados relativos às três espécies mais importantes para todas as espécies, desde que os LMR fixados para as três espécies mais importantes sejam semelhantes ou idênticos.
+<P>
+O texto desta análise que temos na nossa frente fornece simplesmente uma base jurídica para a prática actual da extrapolação no interesse da disponibilidade de medicamentos veterinários e do bem-estar dos animais.
+<P>
+Duas alterações visam especificamente a falta de disponibilidade de medicamentos específicos para uma determinada espécie, neste caso para equídeos (devo fazer aqui uma declaração de interesse), em toda uma gama de necessidades terapêuticas e de bem-estar, incluindo o conceito de "benefício clínico", e não apenas o requisito de que é "essencial" acrescentar um medicamento à lista positiva de substâncias para equídeos mencionada na Directiva relativa a Medicamentos Veterinários. Em circunstâncias claramente definidas, determinados produtos utilizados para equídeos não terão de ter LMR, mas terão de observar um intervalo de segurança de seis meses.
+<P>
+Talvez haja uma declaração - será que posso obter essa informação por intermédio da presidência? - que o Senhor Comissário vai registar em acta: recordo-me de uma discussão relacionada com esta questão, há alguns meses, referente a uma revisão da Directiva relativa a Medicamentos Veterinários.
+<SPEAKER ID="255" NAME="Günter Verheugen" LANGUAGE="DE">
+Senhor Presidente, Senhoras e Senhores Deputados, a revisão da legislação sobre limites máximos de resíduos de substâncias farmacologicamente activas nos alimentos de origem animal constitui uma importante iniciativa para a Comissão Europeia. O seu objectivo é a protecção dos consumidores contra os resíduos de medicamentos em alimentos, melhorando simultaneamente a disponibilidade de medicamentos veterinários na Comunidade. É também uma importante componente do programa de simplificação legislativa da Comissão.
+<P>
+Em 21 de Outubro do ano passado, o Conselho e o Parlamento Europeu concluíram um acordo que se reflecte na presente posição comum. Assim sendo, o que temos agora é uma posição comum não só do Conselho e do Parlamento, mas também da Comissão. Apraz-me constatar que a Comissão tenha sido capaz de incorporar as alterações tanto do Parlamento Europeu como do Conselho, dado que ambas mantêm o espírito e o conteúdo da proposta inicial da Comissão.
+<P>
+Deste modo, a Comissão expressou o seu total apoio à posição comum na sua comunicação ao Parlamento Europeu, em 8 de Janeiro deste ano. A adopção da posição comum tornará agora possível levar este dossiê a bom porto antes do final desta legislatura.
+<P>
+A sua conclusão com base na actual posição comum dará àqueles que, quotidianamente, estão envolvidos no controlo alimentar e em medicamentos veterinários, a possibilidade de fazerem um trabalho melhor a bem da saúde dos animais e da protecção dos consumidores da Comunidade. Estas pessoas estão à espera, com muita impaciência e há muito tempo, da revisão da legislação sobre os limites dos resíduos, e creio que esperaram realmente tempo suficiente, e que, agora, todos podem estar satisfeitos por ter sido encontrada uma solução.
+<P>
+Estou perfeitamente consciente da particular importância da disponibilidade de medicamentos veterinários. Portanto, independentemente da evolução já representada, neste contexto, pelo presente Regulamento sobre limites máximos de resíduos de substâncias farmacologicamente activas, a Comissão irá apresentar uma avaliação dos problemas inerentes à aplicação da directiva relativa aos medicamentos veterinários em 2010 e, se for caso disso, irá ainda apresentar novas propostas legislativas nesta matéria.
+<P>
+Gostaria de aproveitar esta oportunidade para expressar os meus agradecimentos muito especiais à relatora, senhora deputada Doyle, cujos esforços verdadeiramente incansáveis nos permitiram chegar a um acordo sobre este importante tema. Mais uma vez, sinceros agradecimentos pelo seu excelente trabalho, Senhora Deputada Doyle.
+<P>
+(EN) Relatório Doyle
+<P>
+A Comissão está ciente das preocupação expressas pelos cidadãos, os veterinários, os Estados-Membros e a indústria da saúde animal no que respeita à directiva que regula a autorização de medicamentos veterinários, em especial à importância de tratar problemas existentes relacionados com a disponibilidade de medicamentos veterinários e à utilização de medicamentos em espécies para as quais não estão autorizados, bem como a todos os encargos regulamentares desproporcionados inibidores da inovação, embora garantindo um nível elevado de segurança do consumidor no que diz respeito a alimentos de origem animal. A Comissão salienta que estão a ser tomadas medidas positivas nesse sentido, tais como a simplificação das regras relativas à alteração dos medicamentos veterinários e a presente revisão da legislação sobre limites máximos de resíduos em alimentos.
+<P>
+Além disso, com a finalidade de realizar os objectivos de segurança dos consumidores e de protecção da saúde animal, mantendo a competitividade da indústria veterinária, designadamente das PME, e reduzindo a carga administrativa, a Comissão apresentará, em 2010, uma avaliação dos problemas encontrados na aplicação da directiva relativa aos medicamentos veterinários com vista à elaboração, se for caso disso, de propostas legislativas.
+<SPEAKER ID="257" NAME="Avril Doyle">
+relatora. - (EN) Senhor Presidente, gostaria apenas de registar em acta que há uma alteração que não posso apoiar porque criaria, de facto, um impasse jurídico. Se não se pode ministrar a animais um medicamento que esteja em ensaio, a menos que já tenha um LMR, então não se podem efectuar, à partida, os ensaios que são necessários para obter os dados que permitem estabelecer LMR e o intervalo de segurança.
+<P>
+Gostaria de agradecer ao Senhor Comissário a sua colaboração neste domínio e de registar em acta a necessidade urgente de rever a Directiva relativa a Medicamentos Veterinários. Num determinado sentido, estamos a utilizar esta análise dos LMR um pouco como um "remendo" para um problema de maior dimensão que ainda não se deixa ver, mas de que todos estamos bem cientes. A disponibilidade de uma gama adequada de medicamentos veterinários para tratar a grande diversidade de espécies animais na Comunidade Europeia tem constituído um desafio ao longo das duas últimas décadas. Durante este período foram envidados esforços consideráveis por diversas entidades interessadas, incluindo reguladores, o sector industrial e veterinários, para tratar dos problemas da disponibilidade de medicamentos.
+<P>
+Apesar desses esforços, a situação tem continuado a deteriorar-se. A falta de medicamentos autorizados representa uma verdadeira ameaça para a saúde e o bem-estar dos animais e para a segurança dos consumidores. Também levanta importantes problemas aos proprietários de animais, agricultores, veterinários e governos o facto de os animais não serem tratados ou serem tratados com um produto não autorizado ou inadequado - incluindo o risco das implicações de zoonoses provenientes de animais não tratados ou tratados de forma inadequada para proprietários de animais, consumidores e cidadãos.
+<P>
+Há também implicações financeiras, jurídicas e comerciais para as diversas partes interessadas envolvidas, ao mesmo tempo que a falta de medicamentos pode ter efeitos negativos nas economias rurais e na agricultura em geral. Um exemplo - e um aspecto da maior importância - é o efeito exercido na polinização em consequência do reduzido número de colónias de abelhas. As abelhas são uma questão importantíssima do domínio das utilizações menores/espécies menores.
+<P>
+No entanto, o actual problema da disponibilidade na UE não tem apenas implicações generalizadas para a saúde e o bem-estar dos animais, para a segurança do abastecimento de alimentos e da saúde pública da Comunidade, mas também compromete a capacidade da UE de cumprir a Agenda de Lisboa e de colher o enorme potencial, para a agricultura europeia e a aquicultura europeia ao largo da costa, de atrair investigação e desenvolvimento no domínio farmacêutico veterinário.
+<P>
+Agradeço uma vez mais a todos os colegas e ao Senhor Comissário a sua cooperação neste relatório.
+<SPEAKER ID="258" NAME="Presidente">
+Está encerrado o debate.
+<P>
+A votação terá lugar amanhã.
+<P>
+Declarações escritas (Artigo 142.º)
+<SPEAKER ID="259" NAME="Péter Olajos  " AFFILIATION="PPE-DE">
+por escrito. - (HU) Ouvimos frequentemente a queixa de que a UE tenta regular todos os domínios mas não consegue lidar com o essencial.
+<P>
+Muitos de nós pensam que também o presente relatório apresenta essas características. Isso não é, todavia, verdade. Aqui falamos de "alimentos" consumidos por seres humanos - e estamos a tentar torná-los mais seguros, a bem dos nossos cidadãos.
+<P>
+A legislação em vigor está desactualizada, o que dificulta aos veterinários o reabastecimento em medicamentos. Daqui resulta a necessidade de regulamentação adequada às características distintivas deste ramo de actividade.
+<P>
+Cada vez mais empresas farmacêuticas dispõem de uma divisão encarregada dos produtos de origem animal, que geram lucros consideráveis. A procura está a crescer gradualmente pois também os animais podem adoecer; num momento em que os alimentos são um bem cada vez mais valorizado é rentável impedir que isso aconteça.
+<P>
+Recentemente, porém, tivemos conhecimento de informações segundo as quais empresas há que tentam "obter" mais dos animais. Os frangos crescem num curto espaço de tempo, os porcos são engordados até dimensões exageradas em poucos meses, tudo isto com medicamentos veterinários muitas vezes perniciosos para o ser humano.
+<P>
+Daqui decorre a necessidade de, em colaboração com a Agência Europeia de Medicamentos (EMEA), testar cada preparação administrada aos animais, a fim de averiguar se os resíduos desses produtos que subsistem nos animais e que, posteriormente, são consumidos por seres humanos apresentam quaisquer riscos.
+<P>
+As despesas com os testes decorrem por conta das empresas. Convém salientar, também, a possibilidade de um procedimento acelerado, reduzindo o tempo exigido para a autorização de administração; do mesmo modo, importa que os veterinários tenham, com esse processo, um acesso muito mais rápido aos medicamentos veterinários.
+<P>
+Nada é mais importante do que a saúde humana, o que exige que erijamos uma barreira à "dopagem animal" causada pelo desejo de lucro monetário.

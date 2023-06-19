@@ -1,0 +1,12 @@
+<CHAPTER ID="007">
+Período de votação
+<SPEAKER ID="068" NAME="Presidente">
+Segue-se na ordem do dia o período de votação.
+<P>
+(Resultados pormenorizados da votação: ver Acta)
+<SPEAKER ID="069" NAME="Véronique De Keyser" AFFILIATION="PSE">
+Senhora Presidente, gostaria de chamar a sua atenção para o facto de o meu cartão não funcionar; utilizei agora mesmo um cartão que julgava ter perdido no gabinete e que se encontra inválido. Portanto, estou presente, quero votar, trouxe o meu cartão, mas ele não está operacional. Não sei como proceder, mas gostaria que este facto ficasse registado nas actas.
+<SPEAKER ID="070" NAME="Presidente">
+Vamos enviar um técnico para que possa participar na votação.
+<P>
+Antes de dar início à votação, gostaria de referir que não anunciarei os resultados numéricos da votação nominal: informá-los-ei apenas da aprovação ou rejeição das medidas propostas.

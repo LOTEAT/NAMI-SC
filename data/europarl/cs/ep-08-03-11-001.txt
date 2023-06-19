@@ -1,0 +1,4 @@
+<CHAPTER ID="001">
+Zahájení ročního zasedání
+<SPEAKER ID="004" NAME="Předseda">
+Prohlašuji zasedání Evropského parlamentu 2008-2009 za zahájené.

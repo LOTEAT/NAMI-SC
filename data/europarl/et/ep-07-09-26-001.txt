@@ -1,0 +1,16 @@
+<CHAPTER ID="001">
+Istungi algus
+<P>
+(Istung algas kell 9.00.)
+<SPEAKER ID="004" NAME="Juhataja">
+Tere hommikust, austatud liikmed! Täna, 26. septembril on Euroopa keelte päev. Meie kohuseks on tuletada inimestele Euroopa Parlamendis, keelte pühakojas, meelde, kui oluline on see päev nii Euroopa Liidu filosoofia ja põhiolemuse kui ka meie töö jaoks, mida me teeme paljukultuurse Euroopa saavutamise nimel, kus austataks eripärasid, kultuure ja meie rahvaste vaimu.
+<SPEAKER ID="005" NAME="Josu Ortuondo Larrea" AFFILIATION="ALDE">
+- (ES) Proua juhataja, tänan, et lubasite mul sõna võtta. Täna tähistame Euroopa keelte päeva, ja ma sooviksin rääkida tunnetest, mis valdavad paljusid Hispaania riigi kodanikke, kelle jaoks on jäänud mõistmatuks, miks parlamendi juhatus neid diskrimineerib, kuna katalaanide, galeegide ja baskide, nagu ma isegi, kodanike esindajatel ei ole oma keele kasutamine parlamendis lubatud.
+<P>
+Erinevalt komisjonist ja nõukogust ning regioonide komiteest, kus kodanike esindajad võivad väljendada end teistes ametlikes keeltes, keeldub juhatus aktsepteerimast baski, katalaani ja galeegi keeli, millel on Hispaania riigis ametlik staatus.
+<P>
+Proua juhataja ...
+<P>
+(Kõneleja rääkis baski keeles)
+<SPEAKER ID="006" NAME="Juhataja">
+Härra Ortuondo, eesistujariik püüab seda teemat silmas pidada, kuigi seda küsimust oleme varem mitmeid kordi arutlenud ja vastused sellele on juba ammu teada.

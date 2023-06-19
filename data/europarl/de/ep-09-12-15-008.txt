@@ -1,0 +1,6 @@
+<CHAPTER ID="008">
+Abstimmungsstunde
+<SPEAKER ID="077" NAME="Der Präsident">
+Der nächste Punkt auf der Tagesordnung ist die Stimmabgabe.
+<P>
+(Abstimmungsergebnisse und sonstige Einzelheiten der Abstimmung: siehe Protokoll)

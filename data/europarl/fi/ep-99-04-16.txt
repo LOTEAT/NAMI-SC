@@ -1,0 +1,626 @@
+<CHAPTER ID=1>
+Pöytäkirjan hyväksyminen
+<SPEAKER ID=1 NAME="Puhemies">
+Eilisen istunnon pöytäkirja on jaettu.
+<P>
+Onko huomautettavaa?
+
+<SPEAKER ID=2 LANGUAGE="FR" NAME="Herman">
+Arvoisa puhemies, pöytäkirjan sivulla 9 mainitaan kolme peräkkäistä puheenvuoroa, oma puheenvuoroni sekä Fabre-Aubrespyn ja Wijsenbeekin puheenvuorot, jotka koskevat mielestäni tärkeää päätöstä äänestää yksinkertaisella enemmistöllä valiokuntien toimivaltojen muuttamisesta. Valiokuntien toimivallat kuuluvat kuitenkin työjärjestykseen ja työjärjestyksen kaikki muutokset edellyttävät ehdotonta enemmistöä.
+<P>
+Tiedän, että on olemassa ennakkotapaus, ja puhemies on päättänyt sivuuttaa ongelman sen perusteella. Haluaisin kuitenkin huomauttaa, jotta väärää käytäntöä ei jatkettaisi, että työjärjestysvaliokunnan olisi vähintäänkin voitava keskustella kysymyksestä. Mielestäni olisi väärin tai ainakin kyse olisi puolueellisesta tulkinnasta, jos valiokuntien toimivaltaa voitaisiin muuttaa yksinkertaisella enemmistöllä, ja joka tapauksessa ne valiokunnat menettäisivät täysin toimivaltansa, joissa tämä suhteellinen enemmistö ei olisi johtoasemassa.
+<P>
+Tässä on näin ollen olemassa väärinkäytösten vaara, ja työjärjestys on laadittu vähemmistöjen suojelemiseksi. Mielestäni kysymys kannattaa siten toimittaa työjärjestysvaliokunnan käsiteltäväksi eikä pidä sivuuttaa yhdellä kädenheilautuksella tätä mielestäni olennaista vastalausetta.
+
+<SPEAKER ID=3 NAME="Puhemies">
+Parlamentin jäsen Herman, tiedätte, että kriteerinäni on aina ollut, että sisältöä koskevan keskustelun tapauksessa puhemiehen on tehtävä päätös senhetkisestä tilanteesta ja annettava asia sen jälkeen tarvittaessa työjärjestysvaliokunnan käsiteltäväksi. Toimitan siten teidän ja muiden kollegojen esittämän kysymyksen työjärjestysvaliokunnan käsiteltäväksi.
+
+<SPEAKER ID=4 LANGUAGE="DE" NAME="Schmidbauer">
+Arvoisa puhemies, äänestimme eilen mietinnöstäni, joka käsitteli komission valkoista kirjaa " infrastruktuurien yhtenäisestä hinnoittelusta" . Olen nyt todennut, että asiasta vastaavassa yksikössä on ilmeisesti kielitajuun vedoten muutettu tekstiä, josta äänestimme 1 kohdassa. Vaadin mietinnössäni, jonka 1 kohdan myös valiokunta hyväksyi sellaisenaan, kaikkia liikennemuotoja koskevan yhtenäisen hinnoitteluperiaatejärjestelmän käyttöönottoa, jonka " yksi peruste ovat yhteiskunnalliset rajakustannukset" . Vaatimus muotoiltiin tietoisesti näin, koska se mahdollistaa myös muiden alojen tuomisen järjestelmän piiriin. Joku kieli-intoilija on nyt muuttanut lauseen muotoon " ... yhteiskunnallisten rajakustannusten perusteella" , mikä ei tietenkään ole enää sama asia. Haluaisin pitää kiinni siitä, että saksankielisen tekstin ja vastaavien käännösten alkuperäinen sanamuoto kirjataan mietintöön uudelleen sellaisenaan.
+
+<SPEAKER ID=5 NAME="Puhemies">
+Paljon kiitoksia, parlamentin jäsen Schmidbauer. Yksiköt vahvistavat asian, ja alkuperäinen käännös, josta äänestettiin ja joka on parlamentin tahdon mukainen, pysyy voimassa.
+<P>
+Pöytäkirja hyväksyttiin.
+
+<CHAPTER ID=2>
+Puhemiehen tiedonanto
+<SPEAKER ID=6 NAME="Puhemies">
+Eilen aamupäivällä suoritetuissa parlamentin valiokuntien lukumäärään ja toimivaltaan liittyvää päätösehdotusta koskevissa äänestyksissä parlamentti hyväksyi kaksi keskenään ristiriitaista tarkistusta, jotka koskevat kuluttajien oikeusturvaan liittyvää toimivaltaa, nimittäin Euroopan sosiaalidemokraattisen puolueen ryhmän tarkistus 31 ja Euroopan kansanpuolueen ryhmän tarkistus 60.
+<P>
+Työjärjestyksen mukaan ei ole mahdollista, että kahdella valiokunnalla olisi samanaikaisesti toimivalta samassa asiassa. Hyväksytyn tekstin sisällön yhdenmukaisuuden varmistamiseksi on kuluttajien oikeusturvaa koskeva toimivalta annettava oikeudellisia asioita ja sisämarkkinoita käsittelevälle valiokunnalle.
+<P>
+Näin ollen olen antanut asiasta vastaaville yksiköille tarvittavat ohjeet tämän asian osalta.
+
+<SPEAKER ID=7 NAME="Puhemies">
+Olen vastaanottanut eilen 16. maaliskuuta 1999 kollegiona eronnutta komissiota koskevan epäluottamuslauseen.
+<P>
+Epäluottamuslauseen hyväksymisen seurauksena on Euroopan yhteisön perustamissopimuksen 144 artiklan toisen kohdan mukaisesti, että komission jäsenten on yhdessä jätettävä tehtävänsä.
+<P>
+Näin ollen epäluottamuslausetta, joka kohdistuu yhdessä tehtävänsä jättäneeseen toimielimeen, ei voida oikeudellisten periaatteiden nulla quia absurdum ja ad impossibilia nemo tenetur vuoksi hyväksyä.
+<P>
+Olen sen vuoksi päättänyt, että epäluottamuslausetta ei oteta käsiteltäväksi.
+<P>
+Suosionosoituksia
+
+<SPEAKER ID=8 LANGUAGE="FR" NAME="Fabre-Aubrespy">
+Arvoisa puhemies, en ymmärrä, miten voitte tehdä tällaisia päätöksiä? Myönnän, että olen hämmästynyt siitä tavasta, jonka mukaan etsitään järjestelmällisesti oikeudellisia vastaväitteitä parlamentin jäsenten tiettyjen ryhmien vastustamiseksi.
+<P>
+Kyse on tässä tapauksessa kymmenesosasta parlamentin jäseniä: kaikista puolueryhmistä olevista 66 jäsenestä, joista 5 on PSE-ryhmästä, 8 PPE-ryhmästä, 4 ELDR-ryhmästä, 6 UPE-ryhmästä, 6 GUE-ryhmästä, 9 V-ryhmästä, 3 ARE-ryhmästä, 15 I-EDN-ryhmästä ja 10 sitoutumattomista. Kyse ei ole siten jonkun kollegamme tekemästä aloitteesta, vaan parlamentin jäsenten kymmenesosan tekemästä aloitteesta.
+<P>
+Tämä kysymys jätettiin lakiosaston käsiteltäväksi 6. huhtikuuta. Lakimieskonsulttimme esitti Priestleylle osoitetussa, 7. huhtikuuta päivätyssä tiedotteessaan seuraavan päätelmän: " Epäluottamuslauseen antaminen komissiolle olisi ollut hyväksyttävää sen nykyisen oikeusaseman selvittämiseksi ja sen toimivaltojen vähentämiseksi entisestään, vaikka oikeudellisesta näkökulmasta katsottuna siitä saatua lisäarvoa pidettiinkin varsin vähäisenä."
+<P>
+Tehtävästään eroava komissio pysyy toimessaan ainakin syyskuun loppuun tai lokakuun alkuun asti. Se on täysin toimivaltainen, koska komissio on eronnut 159 artiklan mukaisesti. Siten olemme nähneet tehtävästään eroavan komission jäsenen Boninon vierailevan kansainvälisen järjestön, NATOn, päämajassa ja tapaavan siellä pääsihteerin ensimmäistä kertaa. Onko teidän mielestänne niin, että kyse on komission juoksevien asioiden hoidosta, ja siksi asiaan on otettu tällainen kanta?
+<P>
+Ei voida siten katsoa, että yli kuutena eroamista seuraavana kuukautena komissio on täysin toimivaltainen, ilman että te voitte käyttää oikeuttanne, olennaista oikeuttanne valvoa komissiota etenkin epäluottamuslauseen osalta.
+<P>
+Arvoisa puhemies, päätöksenne on näin ollen mielestäni hyvin, hyvin vakava nykytilanteessa - joka ei kuitenkaan ole kovin vakava - ja hyvin vakava myös tämän parlamentin ja demokratian tulevaisuuden kannalta Euroopassa.
+
+<SPEAKER ID=9 LANGUAGE="EN" NAME="Green">
+Arvoisa puhemies, mielestäni Fabre-Aubrespy on ymmärtänyt koko tilanteen väärin, koska asiahan on niin, että vaikka parlamentti hyväksyisikin hänen epäluottamuslauseensa, sama komissio jatkaisi toimintaansa perustamissopimuksen velvoittamana siihen asti, kunnes me valitsemme sen tilalle uuden. Arvoisa puhemies, toimitte aivan oikein pitäessänne kiinni parlamentin arvokkuudesta. Olen kanssanne samaa mieltä, että tämä on oikea päätös, enkä usko, että lyömällä lyötyä saavutetaan mitään.
+
+<SPEAKER ID=10 LANGUAGE="NL" NAME="Martens">
+Arvoisa puhemies ja arvoisat kollegat, uskon, että on itsestään selvää, että meidän täytyy käsitellä tätä kysymystä perustamissopimuksen puitteissa. Meillä on parlamentin oikeudellisen neuvonantajan lausunto muun muassa nykyisestä tilanteesta. Tässä lausunnossa on oleellisia määritelmiä kysymyksestä, joka on nyt käsiteltävänä. Parlamentin oikeudellinen neuvonantaja sanoo komission nykyisestä tilanteesta seuraavaa:
+<P>
+" Koska komission kaikki jäsenet ovat yhdessä jättäneet tehtävänsä sen takia, että he eivät enää nauti parlamentin luottamusta, näyttää siltä, että perustamissopimuksessa määrätty tapaus, joka muistuttaa tätä tilannetta kaikkein eniten, on 144 artiklassa mainittu tapaus parlamentin päättämästä epäluottamuslauseesta. Tämä epäluottamuslause on ilmaus parlamentaarisesta luottamusperiaatteesta, joka on vahvistettu Maastrichtin sopimuksessa säännöillä, joissa vaalikauden ja komission toimikauden kesto rinnastetaan toisiinsa ja joissa määrätään siitä, että komission ja sen puheenjohtajan nimittämiselle on saatava parlamentin hyväksyntä. Siten, vaikka epäluottamuslauseeseen ei viitattaisikaan selkeästi, niin näyttää olevan perustamissopimuksen hengen mukaista etsiä ratkaisuja, jotka ovat yhteensopivia tämän parlamentaarisen luottamusperiaatteen kanssa. Tästä seuraa, että komission nykyinen tilanne vastaa lähinnä perustamissopimuksen 144 artiklassa tarkoitettua tilannetta."
+<P>
+Arvoisa puhemies, päätöksenne on näin ollen ehdottomasti oikea sekä sopii täysin perustamissopimuksen puitteisiin ja on perustamissopimuksen mukainen. Näin ollen epäluottamuslause ei ole hyväksyttävissä käsiteltäväksi.
+
+<SPEAKER ID=11 NAME="Puhemies">
+Annan puheenvuoron Kerrille, joka on toinen epäluottamuslauseen allekirjoittaneista henkilöistä, ja sen jälkeen teemme lopullisen päätöksen.
+
+<SPEAKER ID=12 LANGUAGE="EN" NAME="Kerr">
+Arvoisa puhemies, asianajajanne ovat hyvinkin voineet keksiä tavan kiertää parlamentin poliittiset velvoitteet. Mutta kyse onkin moraalista. Komissio erosi yli kaksi kuukautta sitten mutta on edelleen virassa, nostaa edelleen palkkaa, tekee edelleen päätöksiä ja on edelleen tekemättä niitä. Eurooppa on kriisissä, ja parlamentin velvollisuus on sanoa heille: nimittäkää nopeasti väliaikainen komissio. Jos näin ei tapahdu, neuvon kaikkia parlamentin jäseniä hylkäämään Prodin nimityksen toukokuussa vastalauseena tälle tilanteelle. Meillä on vaalit kahden kuukauden kuluttua. Euroopan kansalaiset eivät ymmärrä, miksi kaksi kuukautta sitten eronnut komissio aikoo jatkaa virassaan vielä yhdeksän kuukautta. Se on häpeä, ja meidän pitäisi myös sanoa se ääneen.
+
+<SPEAKER ID=13 NAME="Puhemies">
+Paljon kiitoksia, parlamentin jäsen Kerr. Olemme mielestäni keskustelleet asiasta riittävästi, ja vastaan epäluottamuslauseen laatijoille ja korostan, ettei epäluottamuslausetta voida hyväksyä.
+<P>
+Oikeudellisen yksikön kertomukset on tutkittava huolellisesti, mutta ne eivät sido puhemiestä työjärjestyksen tulkinnan osalta. Vain työjärjestysvaliokunta voi muuttaa puhemiehen tekemää tulkintaa, sillä työjärjestyksen tulkitseminen kuuluu puhemiehen vastuulle. Voin vakuuttaa teille, että olen suhtautunut asiaan täysin vastuuntuntoisesti, enkä ainoastaan nykyhetkeä vaan myös tulevaisuutta silmällä pitäen.
+<P>
+Parlamentin lainsäädännön mukaan epäluottamuslauseen tarkoituksena on todistaa, että komissio ei enää nauti parlamentin enemmistön luottamusta tai, jos epäluottamuslause hylätään, että se nauttii luottamusta. On selvää, että tässä tapauksessa epäluottamuslauseen mahdollisen hylkäämisen vaikutuksena ei voisi missään tapauksessa olla sellaisen luottamuksen palauttaminen, josta ei olisi enää mitään hyötyä.
+<P>
+Tämän vuoksi olen sanonut, että tällainen menettely johtaisi järjenvastaiseen tilanteeseen, ja järjenvastaisuutta täytyy aina välttää kaikkien artikloiden tulkinnassa, ja varsinkin, kun on kyse epäluottamuslauseesta, joka on vahvasti poliittinen väline.
+<P>
+Kunnioitan suuresti kaikkia allekirjoittaneita sekä kaikkia tämän parlamentin jäseniä, mutta parlamentin velvollisuus on valita asianmukainen menettely joko Euroopan yhteisöjen tuomioistuimen edessä tai asiaa koskevien päätöslauselmien avulla, sillä työjärjestys antaa monenlaisia mahdollisuuksia tämän mielipiteen esille tuomiseen.
+<P>
+Epäluottamuslause ei ole asianmukainen keino, eikä parlamentti ole vastuussa siitä, että komissio jatkaa toimintaansa vielä useiden kuukausien ajan. Parlamentti on tarjoutunut tekemään yhteistyötä neuvoston kanssa, jotta nykyinen komissio voitaisiin korvata uudella mahdollisimman lyhyen ajan sisällä. Muuta parlamentti ei ole voinut tehdä, eikä se ole vastuussa siitä, että neuvosto on muita syitä harkittuaan päättänyt, ettei se voi vielä nimittää uusia komission jäseniä.
+<P>
+Me olemme tehneet tähän asti kaiken voitavamme, ja tätä vastuuntuntoista linjaa meidän on noudatettava jatkossakin.
+<P>
+Näin ollen asia on päätetty.
+<P>
+Suosionosoituksia
+
+<SPEAKER ID=14 LANGUAGE="NL" NAME="Oomen-Ruijten">
+Arvoisa puhemies, tässä on kyse erityisesti hyväksytystä tekstistä ja hyväksytyistä tarkistuksista 60 ja 61, joiden sanotte olevan keskenään ristiriidassa. Arvoisa puhemies, minusta ei vaikuta siltä. Joka tapauksessa ryhmämme on esittänyt tieten tahtoen tarkistusta, jotta myös kuluttajien oikeudellinen suojelu poistettaisiin oikeusasioita ja kansalaisten oikeuksia käsittelevän valiokunnan tehtävistä. Arvoisa puhemies, siksi en voi nyt olla samaa mieltä tulkinnastanne tässä asiassa.
+
+<SPEAKER ID=15 LANGUAGE="EN" NAME="Collins, Kenneth">
+Arvoisa puhemies, minulla on kaksi eri roolia tässä asiassa. Ensinnäkin laadin alun perin sen asiakirjan, jolla pyrittiin muuttamaan valiokuntarakenteita, ja toiseksi toimin puheenjohtajana valiokunnassa, joka vastaa tällä hetkellä kuluttajapolitiikasta. Puhemieskonferenssin eilisen kokouksen lopussa keskustelin Rømerin ja muiden virkamiesten kanssa. Tilanne on se, että kuluttajien oikeusturva kuuluu oikeusasioita ja kansalaisten oikeuksia käsittelevän valiokunnan toimivaltaan. Kuluttajanoikeudet sinänsä sekä kuluttajapolitiikka, siltä osin kuin se vaikuttaa ruoan turvallisuuteen ynnä muuhun sellaiseen, kuuluvat edelleen ympäristö-, terveys- ja kuluttajansuojavaliokunnan toimivaltaan. Tämä on selitys tilanteesta, jonka ainakin minun tietojeni mukaan myös parlamentin johtavat virkamiehet ovat hyväksyneet. Minusta tilanne on täysin ymmärrettävä. Kyse on siitä, että meidän oli pakko hyväksyä liite VI, jotta vältämme toimivaltakiistat, jotka ovat viiden tai kymmenen viimeksi kuluneen vuoden aikana aiheuttaneet toisinaan paljon harmia, ja äsken antamani selityksen mukaisesti vältämme tällaiset kiistat.
+
+<SPEAKER ID=16 LANGUAGE="EN" NAME="Puhemies">
+Tarkistuksen 60 mukaan ympäristö-, terveys- ja kuluttajansuojavaliokunnan toimivaltaan kuuluvat kuluttajanoikeudet, mikä säilytetään, ja niiden oikeusturva, mikä poistetaan. Miksi? Koska tarkistuksen 31 mukaan kuluttajien oikeusturva kuuluu oikeusasioita ja kansalaisten oikeuksia käsittelevän valiokunnan toimivaltaan. Näiden kahden tarkistuksen välillä on selvä ristiriita. Kuluttajanoikeuksien oikeusturvan pitäisi säilyä Oikeusasioita ja kansalaisten oikeuksia käsittelevän valiokunnan toimivallan piirissä, ja kuluttajaoikeuksien pitäisi olla edelleen ympäristö-, terveys- ja kuluttajansuojavaliokunnan vastuulla, kuten Collins juuri selitti.
+
+<SPEAKER ID=17 LANGUAGE="NL" NAME="Oomen-Ruijten">
+Arvoisa puhemies, en ymmärrä edes järjestystä. Minulla on myös sellainen tunne, että ilmauksiani on käännetty englanniksi päinvastaisessa järjestyksessä kuin puhuin. Mistä eilen äänestettiin ensimmäiseksi? Ensimmäinen asia, josta äänestettiin, oli todennäköisesti oikeusasioita ja kansalaisten oikeuksia käsittelevän valiokunnan toimivalta. Siitä äänestettiin ensiksi. Sen jälkeen hyväksyttiin myös tarkistuksemme, jossa kuluttajansuojavaliokunnalle annetaan kuluttajan oikeudellinen suojelu. Jos näin on, ette voi mitenkään tehdä tällaista tulkintaa kuin nyt teette. Teimme täysin tietoisen valinnan siirtäessämme kuluttajan oikeudellisen suojelun ympäristö-, terveys ja kuluttajansuojavaliokunnalle. Arvoisa puhemies, teidän täytyy nyt selvittää, mistä äänestettiin ensimmäiseksi.
+
+<SPEAKER ID=18 LANGUAGE="DE" NAME="Mombaur">
+Arvoisa puhemies, kollega Oomen-Ruijten on uskoakseni tällä kertaa väärässä. Ryhmämme teki päätöksen tarkistusehdotuksesta, aivan kuten hän kertoikin. Minun on kuitenkin muistutettava siitä, että parlamentti hylkäsi tämän ehdotuksen eilisessä täysistunnossaan. Niinpä puhemiehen tulkinta asiasta on oikea.
+
+<SPEAKER ID=19 NAME="Puhemies">
+Kehotan yksiköitä vahvistamaan ensimmäisen äänestyksen tuloksen. Minun tietojeni mukaan ensin äänestettiin Euroopan sosialistiryhmän tarkistuksesta. Sen vuoksi PPE-ryhmän tarkistuksesta ei olisi voitu äänestää. Se olisi rauennut, koska se oli ristiriitainen aiemmin hyväksytyn tarkistuksen kanssa. Sovellettava järjestelmä mahdollistaa asian selventämisen siten, että ympäristö-, terveys- ja kuluttajansuojavaliokunnalla säilyvät juuri ne toimivallat, jotka sillä pyrittiin säilyttämäänkin, ja että samanaikaisesti oikeusasioita käsittelevällä valiokunnalla säilyvät sille johdonmukaisesti kuuluvat toimivallat. Näin ollen, kun tapahtumien kulku otetaan huomioon, tämä on mielestäni ainoa mahdollinen päätös. Meillä ei ole muuta mahdollisuutta kuin pitää tästä kiinni. Näin ollen asia on päätetty.
+
+<SPEAKER ID=20 LANGUAGE="DE" NAME="Theato">
+Arvoisa puhemies, pyysin puheenvuoroa jo aiemmin pöytäkirjan käsittelyn yhteydessä, mutta nähtävästi sitä ei huomattu. Haluan vain huomauttaa, että molemmat ryhmämme esittämät määrärahojen siirtoja koskevat tarkistusehdotukset ovat osin ristiriitaisia. Nämä tarkistukset, jotka perustuvat voimassa olevaan työjärjestykseen, hylättiin. Parlamentin tekemä päätös on ristiriidassa voimassa olevan työjärjestyksen kanssa, jonka mukaan varauksen siirrosta vastaa budjettivaliokunta ja muista siirroista - maailmanlaajuisesti ajatellen - talousarvion valvontavaliokunta. Pyydän teitä tarkistamaan asian, koska tilanne on todellakin ristiriitainen. Tämä ristiriita oli myös syynä siihen, että esitin ryhmämme tarkistukset. En osaa sanoa teille näiden tarkistusten numeroita tältä istumalta, mutta sehän on helppo tarkistaa.
+
+<SPEAKER ID=21 NAME="Puhemies">
+Kiitoksia, parlamentin jäsen Theato. Tämän vuoksi en antanut teille puheenvuoroa, jotta emme sekoittaisi kahta asiaa.
+<P>
+Yksiköt tarkistavat sen, mistä te puhuitte, ja sen perusteella tehdään asianmukainen päätös.
+
+<SPEAKER ID=22 LANGUAGE="EN" NAME="Provan">
+Arvoisa puhemies, haluaisin palata valiokuntien toimivalta-asiaan. On hyvin tärkeää, että parlamentti on selvillä eri valiokuntien toimivalloista. Muutoin kansalaisten käsitys Euroopan yhteisöstä hämärtyy entisestään. He näkevät parlamentin ottavan asiaan erilaisen kannan eri valiokunnissa. Siksi toimivaltojen selkeyttäminen on erittäin tärkeää.
+<P>
+Kunnioitan tekemäänne päätöstä ja ymmärrän hyvin sen, mitä Collins sanoi. Tulevaisuudessa meidän on kuitenkin varmistettava, että jos parlamentti aikoo tehdä muutoksia valiokunnan toimivaltoihin, se tekee sen selvällä enemmistöllä. Jos asiasta ei ole olemassa määräystä, työjärjestystä, valtakirjojen tarkastusta ja loukkaamattomuutta käsittelevän valiokunnan pitäisi ottaa asia esille, kuten Herman jo ehdottikin. Toimivaltojen muuttamisesta pitäisi päättää parlamentissa selvällä enemmistöllä eikä vain pienellä äänten enemmistöllä erityisesti silloin, kun kahdessa eri tarkistuksessa on sanottu kahdenlaisia asioita, kuten tässä tapauksessa.
+<P>
+Kehotan parlamenttia suosittelemaan työjärjestystä käsittelevälle valiokunnalle, että valiokuntien toimivaltojen muuttamiseen vaaditaan suuri enemmistö.
+
+<SPEAKER ID=23 LANGUAGE="EN" NAME="Puhemies">
+Parlamentin jäsen Provan, kuten sanoin, aion lähettää asian välittömästi edelleen työjärjestystä, valtakirjojen tarkastusta ja loukkaamattomuutta käsittelevään valiokuntaan. On tärkeää, että tulevaisuudessa toimivaltoihin tehtäviin muutoksiin käytetään enemmän aikaa. Tämä sekaannus johtuu siitä, että yksiköillämme on hyvin tiukka aikataulu ja että poliittiset tarpeet menevät usein istuntojakson asianmukaisen valmistelemisen edelle, mikä vaikeuttaa parlamentin työskentelyoloja.
+
+<SPEAKER ID=24 LANGUAGE="FR" NAME="Fontaine">
+Arvoisa puhemies, en toiminut tuolloin puhemiehenä. Minun on sen sijaan myönnettävä, etten lainkaan ymmärrä, mistä olemme jo jonkin aikaa keskustelleet, koska huomaan, että tarkistus 31 hyväksyttiin ja tarkistus 60 hylättiin.
+<P>
+Miten ne voivat siten olla keskenään ristiriidassa? Mitään ristiriitaisuutta ei ole. Pöytäkirjassa on ehkä virhe, mutta siinä lukee, että tarkistukset 60 ja 61 hylättiin, ja sitä vastoin sosiaalidemokraattien ryhmän esittämä tarkistus 31 hyväksyttiin. Siten tarkistukset eivät ole keskenään ristiriidassa, koska tarkistus 31 hyväksyttiin ja tarkistus 60 hylättiin!
+<P>
+Minusta tuntuu siltä, ettei tästä keskustelusta ole mitään hyötyä, mutta ei se haittaa, keskustelu oli kuitenkin mielenkiintoinen.
+
+<SPEAKER ID=25 NAME="Puhemies">
+Kiitos. Tämä tukee tekemäämme päätöstä. Oli miten oli, tarkistan asian, sillä jos tarkistus 60 on hylätty, tapaus on varsin selvä.
+<P>
+Toimin PO II: n antamien tietojen perusteella. Äänestyksen jälkeen on luonnollisesti saattanut tapahtua virhe, ja kiitän teitä hyvin paljon tästä meille esittämästänne huomiosta.
+
+<SPEAKER ID=26 LANGUAGE="FR" NAME="Pasty">
+Arvoisa puhemies, vahvistan sen, mitä Fontaine juuri sanoi. Käytin eilen itse työjärjestyspuheenvuoron toisen äänestyksen jälkeen ilmaistakseni, että meidän olisi pitänyt mitätöidä tämä tarkistus, eikä toimittaa siitä äänestystä, koska se oli ristiriitainen ensimmäisen tarkistuksen kanssa. Istunnon puhemies sanoi silloin minulle: " Tällä ei ole merkitystä, koska tarkistus juuri hylättiin."
+<P>
+Tuen siten puheenvuoroa, ja olen sitä paitsi hämmästynyt, ettei työjärjestyspuheenvuoroani mainita pöytäkirjassa. En huomannut sitä aikaisemmin, mutta voitte tarkistaa asian ääninauhalta.
+
+<SPEAKER ID=27 NAME="Puhemies">
+Tilanteestahan tulee yhä surrealistisempi.
+<P>
+Naurua
+<P>
+Tarkastamme pöytäkirjan ja toimimme sen mukaisesti.
+
+<SPEAKER ID=28 NAME="Seppänen">
+Arvoisa puhemies, palaan vielä epäluottamuslauseasiaan. Te keskeytitte asian käsittelyn ennen kuin kaikki seikat tulivat esille.
+<P>
+Vastalauseita
+
+<SPEAKER ID=29 NAME="Puhemies">
+Jo kaksi puhujaa on puoltanut ja kaksi vastustanut asiaa, joka kuuluu loppujen lopuksi yksinomaan puhemiehen toimivaltaan. Keskustelu on päättynyt. En voi antaa teille puheenvuoroa tämän asian osalta.
+
+<SPEAKER ID=30 NAME="Puhemies">
+Parlamentin jäsenet, ehdotan, että jätämme surrealistisen maailman ja palaamme rentoon perjantain todellisuuteen. Rentoutukaa siis. Aloittakaamme siis Bennasar Tousin mietintöä koskeva äänestys.
+
+<CHAPTER ID=3>
+
+Äänestykset
+<SPEAKER ID=31 NAME="Puhemies">
+Onnittelen Bennasar Tousia ja pyydän eilen häntä keskustelussa edustanutta Colombo Svevoa välittämään onnittelumme Bennasar Tousille.
+
+<SPEAKER ID=32 LANGUAGE="FR" NAME="Delcroix">
+ Euroopan komissio on muuttanut ensimmäistä ehdotustaan käyttääkseen oikeusperustana EY: n 129 artiklaa (kansanterveys, yhteispäätösmenettely) 235 artiklan sijasta.
+<P>
+Muutettuun ehdotukseen sisältyy tällä hetkellä joitakin naisten oikeuksia käsittelevän valiokuntamme tarkistuksia, jotka sisältyivät alkuperäiseen mietintöön. Toisaalta komission jäsen Anita Gradin ilmoitti täysistunnossa, että ohjelman soveltamisalaa ei tulla rajoittamaan 129 artiklan valitsemisen seurauksena. Olen tästä iloinen, sillä ongelma on vakava ja kiireellinen.
+<P>
+Ongelma on ratkaistava mahdollisimman nopeasti, koska väkivalta kohdistuu yhteen viidestä naisesta Euroopassa ja aviomies tai avomies on surmannut 50 % surmatuista naisista. Väkivaltaa, ja etenkin tällaista väkivaltaa, ei voida hyväksyä, ja tällainen väkivalta on räikeä ihmisoikeusloukkaus. Euroopan on toimittava nopeasti tällä alalla. Tiedämme, että Yhdistyneiden Kansakuntien naisten oikeuksia käsittelevä komissio on sisällyttänyt tämän ongelman vuoden 1999 maaliskuun esityslistalleen. Tiedotin henkilökohtaisesti tämän komission Belgian edustajalle eurooppalaisesta Daphne-ohjelmasta ja naisten oikeuksia käsittelevän valiokuntamme töistä. Hän muistutti minua, että Yhdistyneiden Kansakuntien naisten oikeuksia käsittelevä komissio kuuli Wienissä vuonna 1998 pidetyssä valmistelevassa konferenssissa etenkin niitä eurooppalaisia naisia, jotka kertoivat niistä murheista, kärsimyksistä, väärinkäytöksistä ja pakottamisista, joista he olivat kärsineet järkyttävien kansallisten yhteenottojen aikana entisessä Jugoslaviassa.
+<P>
+Euroopan parlamentin on jatkettava Daphne-ohjelmaa koskevaa työtään - jonka käynnistämiseksi se varasi sitä paitsi erityisen budjettikohdan. Sen on etenkin seurattava tiiviisti tilannetta jatkossa, jotta lapsiin, nuoriin ja naisiin kohdistuvaa väkivaltaa koskevaa ongelmaa ei käsiteltäisi vain pelkkänä terveysongelmana.
+
+<SPEAKER ID=33 LANGUAGE="FR" NAME="Deprez">
+ Lapsiin, nuoriin ja naisiin kohdistuva kaikenlainen väkivalta on lisääntynyt huolestuttavasti 1900-luvun loppupuolella. Kukaan ei tätä enää kiellä. Ja ainakin se on nyt alettu tuomita!
+<P>
+Tästä näkökulmasta katsottuna ajattelen valmistelijamme tavoin, että on tärkeää kiinnittää runsaasti huomiota tähän erityiseen väkivallan muotoon eli näiden henkilöryhmien seksuaaliseen väärinkäyttöön ja hyväksikäyttöön.
+<P>
+Uhrien tukemista ja sosiaalista kuntoutusta koskevia välttämättömiä toimenpiteitä on täydennettävä lisäksi ehdottomasti muilla toimenpiteillä, joiden tavoitteena on erityisesti ehkäistä näitä rikoksia ja jotka koskevat myös näihin rikoksiin syyllistyneitä.
+<P>
+Näihin rikoksiin yhteiskuntamme kehittyneisyydestä huolimatta vielä liian usein liittyvän vaikenemisen ja lempeyden sijasta on edistettävä yleistä tiedotusta tällaisten toimien rikollisesta luonteesta ja langetettava ankaria rangaistuksia.
+<P>
+Haluaisin yleisesti ottaen sanoa, että tässä yhteisön toimintaohjelmassa ehdotettuja kaikkia toimenpiteitä voidaan tukea ja niitä on tuettava, jotta voidaan torjua tätä kaikenlaisen väkivallan edustamaa todellista vitsausta. Haluaisin kuitenkin myös toistaa, ettei väkivaltaa pystytä estämään vain näiden toimenpiteiden avulla.
+<P>
+Haluan muistuttaa tältä osin, että ihmisten epävarma tilanne ja köyhtyminen tarjoavat kaikenlaisen väkivallan kehittymiselle erityisen suotuisan maaperän. On siten ehdottoman tärkeää, että tämä yhteisön toimintaohjelma toteutetaan yleisen kehyksen puitteissa, jolloin samalla kertaa säilytetään sekä vahva sosiaaliturva että mahdollistetaan pysyviä työpaikkoja luova talouskasvu.
+<P>
+Tuen siten tästä näkökulmasta katsottuna toimintaohjelmaa, siten kuin sitä on tarkistettu.
+
+<SPEAKER ID=34 LANGUAGE="EN" NAME="Martin, David">
+ Äänestän Bennasar Tousin Daphnea käsittelevän mietinnön puolesta, koska uskon, että lapsiin, nuoriin ja naisiin kohdistuva väkivalta on tärkeä asia, joka pitää nostaa esille.
+<P>
+Tämä asia koskee kaikkialla unionin jäsenvaltioissa yhtä neljästä naisesta, mutta sitä katsotaan usein läpi sormien tai pidetään tabuna. Tätä aihetta käsittelevät projektit saavat usein vain lyhytaikaista rahoitusta. Tavoitteiden saavuttaminen ja asioihin vaikuttaminen edellyttävät kuitenkin pitkäaikaiseen rahoitukseen perustuvaa ohjelmaa.
+<P>
+Eurooppalaisen Daphne-ohjelman esikuvana on ollut " Nollatoleranssi" -kampanja, jota Edinburghin kaupunginvaltuusto kävi vaalipiirissäni 1990-luvun puolivälissä. Vuoden 1997 Daphne-ohjelmaan tuli hakemuksia moninkertaisesti käytettävissä oleviin varoihin nähden, ja vain vajaa 10 % hakemuksista sai rahoitusta. Sen jälkeen ohjelman talousarvioon otettua määrää on lisätty, mutta se on vieläkin liian pieni tarpeeseen nähden.
+<P>
+Näin ollen tämä mietintö on mielestäni tervetullut askel naisiin ja lapsiin kohdistuvan väkivallan vähentämiseksi.
+
+<CHAPTER ID=4>
+Ikäihmisten elämisen mahdollisuudet 21. vuosisadalla
+<SPEAKER ID=35 NAME="Puhemies">
+Esityslistalla on seuraavana McMahonin ja Schiedermeierin laatima työllisyys- ja sosiaaliasiain valiokunnan mietintö (A4-0160/99) " Ikäihmiset 21. vuosisadalla - uusia täyden elämän mahdollisuuksia" .
+
+<SPEAKER ID=36 LANGUAGE="EN" NAME="McMahon">
+ Arvoisa puhemies, olen laatinut tämän mietinnön yhteistyössä kollegani Schiedermeierin kanssa. Myöhemmin tänään käsiteltävän Italian kysymyksestä mieleeni muistuu matka, jonka teimme sosiaaliasiain valiokunnan kanssa Italiaan muutama vuosi sitten. Sihteeristössä ei tiedetty, kuka on doyen d'age eli vanhin jäsen. Häneksi luultiin Schiedermeieria, koska tällä oli valkoiset hiukset. Tietojen tarkistamisen jälkeen kävi kuitenkin ilmi, että minä olin häntä muutaman viikon vanhempi, joten vanhin olisin siis ollut minä. Oli hyvin mielenkiintoista havaita, että me molemmat lähestyimme 60: ttä ikävuotta.
+<P>
+Tämä mietintö on tulosta lokakuussa pidetystä iäkkäiden ihmisten konferenssista. Siellä käsiteltiin yhteisön iäkkäiden ihmisten näkemyksiä, heidän tulevaisuudenodotuksiaan ja sitä, mitä sellaisia suosituksia unioni aikoo tehdä, jotka liittyvät Yhdistyneiden Kansakuntien kansainväliseen ikäihmisten vuoteen. Iäkkäät ihmiset - joista käytetään myös nimeä seniorikansalaiset tai Yhdysvalloissa " harmaat pantterit" ja Isossa-Britanniassa " harmaa voima" - ovat hyvin tärkeä osa yhteisöä. Näen ympärilläni monta " kultaista vanhusta" tai " harmaahapsista" tänä aamuna: vasemmalla puolellani on Schiedermeier ja oikealla Falconer. He ovat vaihtaneet tavanomaisia poliittisia puoliaan.
+<P>
+Konferenssissa päätettiin joistakin suosituksista, jotka olemme välittäneet komissiolle. Se valmistelee parhaillaan iäkkäiden ihmisten ongelmia koskevaa tiedonantoa. Emme puhu vain eläkeläisistä, vaan ylipäänsä 60-75-vuotiaista kansalaisista. Euroopan unionissa on 75 miljoonaa yli 60-vuotiasta, ja heidän määränsä tulee jatkossa kasvamaan. Väestörakenteen muutokset merkitsevät aikapommia tulevaisuuden päätöksentekijöille. Meidän pitää pystyä vastaamaan tähän haasteeseen. Ikääntyminen on tärkeä poliittinen kysymys EU: ssa. Olen melko varma, että kun kollegamme seuraavien viikkojen aikana käyvät vaalitilaisuuksissa, heitä piirittävät monet yhteisön iäkkäistä kansalaisista kysyen, mitä Euroopan parlamentti aikoo tehdä heidän hyväkseen. Yli 42 % EU: n äänestäjistä on yli 50-vuotiaita. Jos meillä on siis 75 miljoonaa yli 60-vuotiasta, ja 42 % äänestäjistä on täyttänyt 50 vuotta, seniorikansalaisia ja iäkkäitä ihmisiä koskevat kysymykset ovat tärkeitä aiheita vaalikampanjoinnissa.
+<P>
+Yli 50-vuotiaita on 33 % koko EU: n väestöstä, eli kolmasosa EU-kansalaisista on täyttänyt 50 vuotta. Amsterdamin sopimuksen 13 artikla kieltää syrjinnän iän, sukupuolen, vammaisuuden, seksuaalisen suuntautumisen tai muun sellaisen perusteella. Se antaa nyt komissiolle laillisen mahdollisuuden ottaa käyttöön iäkkäitä ihmisiä koskevia toimia. Tällä hetkellä sen toimintamahdollisuuksia rajoittavat olemassa olevat lailliset perusteet. Amsterdamin sopimuksen myötä komissiolla on nyt kuitenkin mahdollisuus puuttua rodun tai iän perusteella tapahtuvaan syrjintään. Odotamme kiinnostuneena, mihin tuloksiin komission Luxemburgin konferenssissa sopimat työllisyyden suuntaviivat sekä jotkin Euroopan sosiaalirahastoa ja iäkkäitä työntekijöitä koskevat keskustelut johtavat. Erilaisia mahdollisuuksia on valtavasti. 51 % kaikista miespuolisista työnhakijoista on 50-64-vuotiaita. Todennäköisesti minun lisäkseni muutama muukin parlamentin jäsen on samassa tilanteessa kesäkuun 13. päivän jälkeen. Vastaava prosenttiluku on naisten osalta sama, eli 51 % työtä hakevista naisista on 50-64-vuotiaita.
+<P>
+Työllisyys on tälle ryhmälle hyvin tärkeä asia. Meidän on aika panna unionin instituutioissa omat asiamme järjestykseen ja käsitellä iän perusteella tapahtuvaa syrjintää, jota osin harjoitamme työntekijöiden värväyspolitiikassamme.
+<P>
+Nyt kun olemme todenneet tämän ongelman olemassaolon, mitä voimme sille tehdä? Amsterdamin sopimus on yksi alue, jolla voimme saada jotain aikaan, ja terveydenhoito toinen. Toivon, että komissio esittää iäkkäiden ihmisten terveyttä sekä koko yhteisöä koskevan toimintaohjelman sopimuksen 137 artiklan pohjalta.
+<P>
+Iäkkäät ihmiset eivät ole mikään yhtenäinen ryhmä. Heitä ei pidä kohdella vain iäkkäinä ihmisinä, lukita komeroon tai kääräistä pakettiin ja liimata päälle lappu " ikäihminen" . Meidän pitää yrittää lähentää unionia ja sen kansalaisia toisiinsa sekä pyrkiä aitoon solidaarisuuteen. Toimenpiteitä ei myöskään pidä rajoittaa koskemaan pelkästään iäkkäitä ihmisiä.
+<P>
+Nämä ovat siis muutamia niistä toimenpiteistä, joita esitämme. Haluan kiittää Schiedermeieria yhteistyöstä. Kiitän myös työllisyys- ja sosiaaliasiain valiokunnan henkilökuntaa. Koska tämä on viimeinen kerta edustajakaudellani, kun esiinnyn esittelijänä, minun on sanottava, että olen nauttinut tästä vuodesta.
+<P>
+Voimakkaita suosionosoituksia
+
+<SPEAKER ID=37 NAME="Puhemies">
+Parlamentin jäsen McMahon, istuntoselostuksiin tullaan taatusti merkitsemään monta kertaa " voimakkaita suosionosoituksia" , sillä te olette hankkineet tälle mietinnölle paljon ihailijoita.
+<P>
+Parlamentin jäsenet, aion nyt antaa puheenvuoron toiselle esittelijälle, Schiedermeierille, ja koska McMahon on sanonut, että te olette häntä muutaman kuukauden vanhempi, annankin teille viiden minuutin sijasta viisi ja puoli minuuttia.
+
+<SPEAKER ID=38 LANGUAGE="DE" NAME="Schiedermeier">
+Arvoisa puhemies, konferenssi, jonka aiheena oli " Ikäihmiset 21. vuosisadalla - uusia täyden elämän mahdollisuuksia" , on osoitus sanojen ja tekojen välisestä erosta, kun kyseessä ovat iäkkäät ihmiset. Ensinnäkin tähänastisia asiaa koskevia tietoja, kokouksia, päätöslauselmia, vetoomuksia ja mietintöjä käsiteltiin mietinnössä vain puolentoista sivun verran. Toiseksi 16. lokakuuta 1997 kokoontuneen puhemieskonferenssin päätöksestä ehti kulua lähes vuosi 1. ja 2. lokakuuta 1998 pidettyyn varsinaiseen konferenssiin. Me esittelijät kohtasimme konferenssin valmistelussa myös monia vaikeuksia. Euroopan parlamentin puhemies ei esimerkiksi antanut käyttöömme täysistuntosalia, jolloin kokouspaikkoja jouduttiin etsimään puolueryhmien käytössä olevista tiloista. Konferenssin puheenvuorot oli myös alun perin määrä kääntää vain kolmelle kielelle ja niin edelleen.
+<P>
+Luxemburgissa 22. 24. marraskuuta 1993 kokoontuneeseen Euroopan senioriparlamenttiin osallistui, kollega Lulling, 508 iäkästä henkilöä, 50 Euroopan parlamentin jäsentä ja 15 toimielinten edustajaa. Meidän seniorikonferenssiimme otti osaa 131 iäkkäiden ihmisten järjestöjen edustajaa ja kaksi parlamentin jäsentä, nimittäin mietinnön esittelijät. Mietintö esitellään ja siitä keskustellaan tänään perjantaina, jolloin läsnä on tunnetusti vain muutama edustaja. Kuka rohkenee puhua vielä näiden tosiasioiden valossa iäkkäiden ihmisten arvostuksen nousemisesta? En ainakaan minä! Väestörakenteen kehitys on nykyään suosittu puheenaihe. Kuten edustaja McMahon totesi, unionin kansalaisista 25 miljoonaa on yli 60-vuotiaita. Se tarkoittaa yli 20 %: ia kaikista unionin kansalaisista, ja iäkkäiden ihmisten osuus väestöstä tulee jatkuvasti kasvamaan samalla kun odotettu elinikä nousee.
+<P>
+Valitettavasti vain harvat tiedostavat, että iäkkäät ihmiset eivät muodosta mitään yhtenäistä ryhmää. Heidän varallisuutensa, sosiaalinen asemansa ja fyysinen kuntonsa vaihtelevat huomattavasti. Monet saavuttavat nykyään eläkeiän onneksi täysissä ruumiin ja sielun voimissa sekä pysyvät hyväkuntoisina korkeaan ikään asti.
+<P>
+Seuraavaksi käsittelen selvästi havaittavia iäkkäiden ihmisten ongelmia, joista työttömyyttä käsiteltiin jo aiemmin. Iäkkäiden ihmisten keskuudessa työttömyyttä esiintyy hyvin paljon. Tilastoissa eivät kuitenkaan näy lainkaan ne henkilöt, jotka ovat siirtyneet varhaiseläkkeelle tai pudonneet muista syistä pois virallisista tilastoista. Todellisuudessa iäkkäiden ihmisten työttömyysaste on siis vieläkin korkeampi. Lisäksi ongelmana ovat syrjäytyminen työelämästä ja työpaikkakiusaaminen. Iäkkäitä ihmisiä yritetään sysätä pois sekä yritysten johtopaikoilta että työntekijöiden joukosta. Myös säännöllinen syrjintä arkipäiväisissä asioissa on ongelma.
+<P>
+On hämmästyttävää, että iäkkäiden ihmisten kokemuksen ja yhteiskunnallisen potentiaalin vähäistä hyödyntämistä ei oikeastaan nähdä. Olisi erittäin tärkeää tukea iäkkäiden ihmisten osallistumista ennen kaikkea vapaaehtoistoimintaan, mutta myös työelämään. Heillä olisi paljon hyödyllistä kokemusta välitettävänä nuoremmilleen. Yleisesti tiedetään myös, että monet erityisesti vanhemmat naiset kärsivät edelleen köyhyydestä. Tämän asian korjaamiseksi on vielä tehtävää!
+<P>
+Nykyään on kuitenkin nokkelia, erityisesti nuorehkoja ihmisiä, jotka julistavat sanovansa irti sukupolvien välisen sopimuksen. Olen kysynyt joiltakin heistä, haluavatko he luopua myös niistä aikaansaannoksista, joita vanhemmat ihmiset ovat tehneet teitä varten? Ettekö halua enää ajaa moottoriteillä, opiskella ilmaiseksi yliopistoissa tai käyttää meidän rakentamiamme sairaaloita ja klinikoita? Siihen kenelläkään ei ole mitään sanottavaa. Vapaaehtoinen lisäeläke ei saa johtaa nykyisen yhteisvastuullisen järjestelmän heikentymiseen. Tämä on minulle erittäin tärkeä asia.
+<P>
+Työmarkkinaosapuolten, virallisten järjestöjen, jäsenvaltioiden ja EU: n on ryhdyttävä omilla vastuualueillaan asianmukaisiin vastatoimiin. Tämä ei tarkoita toimivallan keskittämistä, vaan EU: n iäkkäitä kansalaisia koskevien kysymysten yhteensovittamista ja ratkaisujen etsimistä yhteistyön avulla. Ensiksi on aloitettava ja tuettava yhteiskunnallista uudelleenarviointia, jonka pitää omalta osaltaan estää iäkkäiden työntekijöiden ja ylipäänsä iäkkäiden ihmisten syrjintää, mikä on mielestäni ensiarvoisen tärkeää. Vaadittavista oikeuksista ei ole hyötyä, ellei yhteiskunnallista uudelleenarviointia tapahdu. Olemme esittäneet mietinnössä useita eri keinoja, joilla pyritään saavuttamaan iäkkäiden ihmisten aseman parantamiselle asettamamme tavoitteet. Kokemusten vaihtaminen Euroopan kansanpuolueen ryhmän sekä Senioriliiton ja sen lukuisten asiantuntijoiden kanssa konferenssin valmistelutyön aikana sai aikaan paljon hyviä tuloksia.
+<P>
+Kiitän ryhmääni ja erityisesti kollegoja Ria Oomen-Ruijtenia ja Bartho Pronkia, työtoveriani Steinia, työllisyys- ja sosiaaliasiain valiokunnan ryhmän työtovereita sekä ryhmän sihteeristöä. He kaikki ovat tehneet tämän työn hyväksi enemmän kuin velvollisuutensa.
+<P>
+Lopuksi haluan kiittää lämpimästi Euroopan sosiaalidemokraattisen puolueryhmän jäsen McMahonia hyvästä ja sopusointuisesta yli puolitoista vuotta jatkuneesta yhteistyöstä, jonka aikana meistä tuli myös ystäviä. Jaettu tuska on vain puolittainen tuska. Olemme molemmat joutuneet huomaamaan, ettei iäkkäiden ihmisten aikaansaannoksilla ja kokemuksella ole painoarvoa. Omat puolueemme - erityisesti puoluejohtajamme - estivät molempien uuden parlamenttiehdokkuuden. Meillä molemmilla on siis sama kohtalo. Iäkkäiden ihmisten ylistäminen ja syrjiminen kulkevat kaikista päinvastaisista vakuutteluista huolimatta käsi kädessä myös politiikassa. Iäkkäiden ihmisten hyväksi on vielä paljon tehtävää. Pyydänkin siksi meitä kaikkia ottamaan tämän asian omaksemme. Tämä oli myös viimeinen mietintöni tässä parlamentissa, ja kiitänkin teitä, arvoisa puhemies, kärsivällisyydestänne.
+<P>
+Suosionosoituksia
+
+<SPEAKER ID=39 LANGUAGE="DE" NAME="Schmidbauer">
+Arvoisa puhemies, haluaisin aluksi kiittää molempia esittelijöitä tästä erinomaisesta ja kattavasta mietinnöstä. Tässä yhteydessä ei ole tarpeen luetella mietinnössä esitettyjä erinomaisia aloitteita ja mahdollisuuksia, koska jokainen voi lukea ne siitä itse. Mielestäni mietinnön otsikko " Ikäihmiset 21. vuosisadalla - uusia täyden elämän mahdollisuuksia" on hyvin haastava, ja se myös velvoittaa meitä. Parlamentin, komission ja neuvoston tehtävänä on kehittää tulevaisuuteen suuntautuva politiikka, joka käsittelee nykyään jo 75 miljoonan yli 60-vuotiaan EU-kansalaisen asioita. Useimpien yli 60-vuotiaiden fyysinen ja henkinen kunto on hyvä. Tältä osin olen samaa mieltä Schiedermeierin ja McMahonin kanssa. Iäkkäiden ihmisten syrjintä on edelleen hyvin yleistä kaikilla aloilla. Uskon, etteivät kaikki iäkkäät ihmiset halua tulla kohdelluiksi pelkästään hoidon tarpeessa olevina potilaina, vaan että he oikeutetusti vaativat politiikalta ja yhteiskunnalta oikeuksiaan tasa-arvoiseen elämään sosiaalisesti turvatussa ympäristössä.
+<P>
+Amsterdamin sopimus ja sen 13 artikla muun muassa ikään perustuvan syrjinnän torjumisesta muodostavat nyt yhteiseurooppalaisen toiminnan oikeudellisen perustan. Parlamentti päätti jo pari vuotta sitten iäkkäitä ihmisiä koskevasta ohjelmasta, jonka neuvoston silloiset konservatiiviset brittiläiset ja saksalaiset hallitukset kuitenkin hylkäsivät sillä näennäisellä perusteella, ettei ohjelmalla ole kestävää oikeudellista perustaa ja että tällaisen politiikan toteuttaminen on yksin jäsenvaltioiden vastuulla. Kaikki eurooppalaiset tukitoimet jäivät siis toteutumatta, eikä yleiseurooppalaisten iäkkäiden ihmisten järjestöjen välillä jo olemassa olevia tietoyhteyksiä enää rahoitettu, mikä johti siihen, että osa näistä järjestöistä on sittemmin lopettanut toimintansa.
+<P>
+Asian hyväksi olisi voitu todellakin tehdä enemmän, ja toivonkin, että pääsemme tulevaisuudessa asiassa eteenpäin mietinnön esitysten mukaisesti. Toivon kaikkien unionin kansalaisten vuoksi, että niin iäkkäät kuin nuoremmatkin EU-kansalaiset voisivat elää yhdessä solidaarisessa hengessä.
+
+<SPEAKER ID=40 LANGUAGE="DE" NAME="Lulling">
+Arvoisa puhemies, koska en ole enää nuorin parlamentin 626 jäsenestä, kuten lokakuussa 1965, kun minut valittiin tähän tehtävään ensimmäisen kerran, mietintö ensi vuosituhannen ikäihmisten uusista täyden elämän mahdollisuuksista kiinnostaa minua tietysti aivan erityisesti. Mielenkiintoani lisää myös se, että toimin puheenjohtajana sekä kansallisen tason järjestössä että suuressa eurooppalaisessa naisjärjestössä, joiden jäsenistä iäkkäämmät ovat myös kaikkein aktiivisimpia. Ilman tällaisten naisten vapaaehtoista työtä nämä ja monet muut järjestöt eivät voisi toimia, koska nuoremmilla naisilla ei työ- ja henkilökohtaisten velvoitteiden vuoksi ole enää aikaa vapaaehtoistoimintaan.
+<P>
+Mietinnön esittelijöiden päätöslauselmaesityksen 30 kohdan ehdotukset sekä niihin liittyvät huomiot ovat tietysti musiikkia korvillemme. Ne ovat todellista balsamia monien iäkkäiden EU-kansalaisten ja erityisesti naisten haavoille. Kiitänkin esittelijöitä sydämellisesti siitä, etteivät he ole unohtaneet mietinnössään naisten erityisongelmia. Olette niin oikeassa korostaessanne, että maidemme iäkkäiden ihmisten kokemus, tiedot, koulutus ja arvot ovat mittaamattoman suuri aarre, jota meillä ei ole vara menettää. Olen myös samaa mieltä kanssanne siitä, että on välttämätöntä tarkastella yleisellä tasolla kriittisesti perinteisiä asenteita ja roolimalleja sekä suorittaa yhteiskunnallista uudelleenarviointia, jonka tavoitteena on torjua iäkkäiden ihmisten työ- ja henkilökohtaisessa elämässä kokemaa monimuotoista syrjintää ja sosiaalista syrjäytymistä.
+<P>
+Vaaditte mietinnössänne vanhuuteen liittyvien sairauksien hoidon tutkimista ja hoitokäytännön parantamista. Tämän asian yhteydessä haluan käyttää tilaisuuden hyväksi ja huomauttaa, että on välttämätöntä saada lisää tietoa siitä tieteellisestikin todistetusta havainnosta, että kohtuullinen ja säännöllinen viinin nauttiminen on paras keino ehkäistä vanhuuteen liittyviä sairauksia, esimerkiksi Alzheimerin tautia.
+<P>
+Suosionosoituksia
+<P>
+Jotta kaikki unionin kansalaiset, niin nuoret kuin iäkkäämmätkin, voisivat nauttia tästä ennalta ehkäisevästä lääkkeestä, pitäisi viinin kohtuuttoman korkeaa valmisteveroa alentaa pohjoisissa jäsenvaltioissa ja siis myös teidän kotimaassanne, arvoisa komission jäsen Liikanen.
+<P>
+Iäkkäämpien unionin kansalaisten ja erityisesti naisten eläkevaatimusten osalta haluan muistuttaa kahdesta täällä tekemästäni aloitteesta, joiden pohjalta laaditut mietinnöt parlamentti hyväksyi yksimielisesti. Kyse on avioliiton aikana hankittujen eläkeoikeuksien puolittamisesta sellaisten naisten hyväksi, jotka ovat luopuneet ansiotyöstään perheen hyväksi ja jotka useita tai jopa kymmeniä vuosia kestäneen, mutta eroon päättyneen avioliiton jälkeen jäävät ilman eläkettä ja kärsivät köyhyydestä keskimääräistä enemmän. Olemme vaatineet komissiolta aloitetta myös tässä asiassa, mutta mitään ei ole tapahtunut!
+<P>
+Toinen edellä mainitsemani aloite koski sellaisten aviopuolisoiden asemaa, jotka auttavat puolisoaan tämän yritystoiminnassa. Myös tässä asiassa olemme vaatineet komissiota parantamaan vuonna 1986 annettua direktiiviä yrittäjien ja heitä yritystoiminnassa avustavien aviopuolisoiden tasavertaisesta kohtelusta. Tämäkään vaatimus ei ole kuitenkaan johtanut toimiin!
+<P>
+Sallikaa minun, arvoisa puhemies, jatkaa vielä hetken. Haluaisin nimittäin huomauttaa vielä yhdestä päätöslauselmaesityksen kohdasta, joka koskee iäkkäiden ihmisten osallistumista päätöksentekoon myös politiikassa. Siellä uudeksi suuntaukseksi on noussut puolueen profiilin nostaminen listalla olevien ehdokkaiden mahdollisimman alhaisen keski-iän avulla. On varmaankin kohtalon ivaa, että mietinnön esittelijöistä tuli tämän suuntauksen uhreja, kun heiltä evättiin uusi ehdokkuus. Olen tästä vieläkin enemmän pahoillani, koska olemme todellakin arvostaneet heidän työtään parlamentissa. Näin ahkerien ja toimeliaiden jäsenten pudottaminen ehdokaslistalta on selvää iäkkäiden ihmisten, joiden määrä kasvaa jatkuvasti, syrjimistä. Minun oli pakko mainita tämä kerran puheenvuorossani, arvoisa puhemies. Olisin tietysti erittäin iloinen, jos minut valittaisiin uudelleen tähän parlamenttiin. Olisin kuitenkin hyvin pahoillani, jos minusta tulisi sen ikäpresidentti!
+<P>
+Suosionosoituksia ja naurua
+
+<SPEAKER ID=41 NAME="Puhemies">
+Paljon kiitoksia, parlamentin jäsen Lulling. Parlamentin jäsen Lulling, myöhemmin, tämän istunnon jälkeen, pyydän teitä kertomaan minulle käytävällä, paljonko te juotte viiniä päivittäin, mitä merkkiä ja, ennen kaikkea, paljonko se maksaa, verot mukaan laskettuna.
+
+<SPEAKER ID=42 LANGUAGE="SV" NAME="Lindqvist (ELDR).">
+Arvoisa puhemies, minäkin haluan kiittää kahta esittelijää, jotka tällä mietinnöllä osoittavat, että " nuoria on kaiken ikäisten joukossa" . Useiden iäkkäiden ihmisten terveys on myös nykyään parempi kuin ennen, mikä tekee tilanteesta erilaisen kuin kaksikymmentä, kolmekymmentä vuotta sitten. Jotta saamme hyvän vanhuuden, on tärkeää muokata mielipiteitä tiedottamalla, tukemalla ja täydentämällä kansallista lainsäädäntöä. Erityisesti silloin, kun kyse on iäkkäiden ihmisten syrjinnästä, näköön ja kuuloon liittyvistä ongelmista, työttömyydestä, joka nuoria useammin kohdistuu iäkkäisiin ihmisiin, sekä sosiaalisesta syrjäytymisestä, on tärkeää, että mielipiteitä muokkaamalla huolehdimme siitä, että jotkin yhteiskuntaluokat eivät jää yhteiskunnan ulkopuolelle.
+<P>
+Mielestäni iäkkäisiin ihmisiin liittyvät kysymykset ovat ensi sijassa kansallinen asia, ja niitä on hoidettava kansallisen lainsäädännön avulla. Ruotsissa eduskunta tekee puitepäätökset, mutta portaikon alimpana, kansalaisia lähinnä olevat alueelliset elimet ja kunnat vastaavat iäkkäiden ihmisten hoidosta ja iäkkäistä ihmisistä huolehtimisesta. Niin on oltava jatkossakin. Sen vuoksi EU: n tasolla ei tarvita lainsäädäntöä, vaan tällä tasolla on tärkeää huolehtia tiedottamisesta, neuvottelemisesta, kokemusten vaihtamisesta, käytännön työstä, tutkimuksesta ja kokemusten vaihtamisesta sellaisten sairauksien kuten Alzheimerin taudin tai muiden tärkeiden sairauksien osalta.
+<P>
+Sosiaalilainsäädäntö on ehkä juuri kaikkein tärkein asia, ja se on kansalaisia lähimpänä. Sen vuoksi on myös erittäin tärkeää, ettemme tee myönnytyksiä tässä asiassa, vaan että nämä kysymykset hoidettaisiin jatkossakin alueellisesti ja paikallisesti.
+<P>
+Vastustan jonkin verran sitä, että mietinnössä komissiota ja jäsenmaita kehotetaan toteuttamaan toimia, jotka koskevat esimerkiksi eläkkeitä, hoitoa, asumista ja työtä. Se, mitä on sanottu, ei ole väärin, mutta EU: n tehtävä ei todellakaan ole päättää tästä, vaan se on tehtävä kansallisella tasolla. Voimme hyvinkin esittää asiasta mielipiteitä, mutta kehottaa -sanan sijaan olisi hyvä käyttää sanaa suosittelee tai ehkä ehdottaa .
+<P>
+Yhdessä asiassa meillä on kuitenkin hyvät mahdollisuudet parantaa iäkkäiden ihmisten tilannetta aivan konkreettisesti tekemällä eurooppalaista yhteistyötä, voimme nimittäin tehdä parannuksia esimerkiksi sairauspäivärahojen ja eläkkeiden vastavuoroisessa tunnustamisessa, sillä nehän koskevat usein iäkkäitä ihmisiä. Tähän asiaan voimme panostaa voimakkaasti, koska järjestelmässä on suuria puutteita maasta toiseen muutettaessa.
+<P>
+Lopuksi: mielipiteiden muokkaaminen, iäkkäiden ihmisten konferenssit, iäkkäitä ihmisiä koskevat teemakampanjat - kaikki tämä on hyvää, mutta lainsäädännön ja sen soveltamisen on oltava kansallista, alueellista ja paikallista.
+
+<SPEAKER ID=43 NAME="Puhemies">
+Paljon kiitoksia, parlamentin jäsen Lindqvist.
+<P>
+Parlamentin jäsenet, annan nyt puheenvuoron Ilivitzkylle Euroopan yhtyneen vasemmiston konfederaatioryhmä/Pohjoismaiden vihreä vasemmisto -ryhmän puolesta enintään kuuden minuutin ajaksi.
+<P>
+Ilivitzky, joka on Ojalan sijaisena, puhuu ensimmäistä kertaa tässä salissa. Sen vuoksi haluaisin toivottaa Ilivitzkyn tervetulleeksi kaikkien teidän puolestanne. Tervetuloa, parlamentin jäsen Ilivitzky.
+
+<SPEAKER ID=44 NAME="Ilivitzky">
+Arvoisa puhemies, kiitos suomenkielisistä sanoistanne; arvoisat kollegat, tämä on tosiaankin ensimmäinen puheenvuoroni Euroopan parlamentissa, ja olen erittäin iloinen, että voin käyttää sen näin tärkeästä aiheesta. Ikääntyneiden ihmisten ongelmiin on toistaiseksi kiinnitetty Euroopan unionin tasolla aivan liian vähän huomiota niiden laajuuteen ja vakavuuteen nähden. Esittelijämme Hugh McMahon ja Edgar Schiedermeier ovat tehneet aivan erinomaista työtä paitsi laatiessaan tämän mietinnön myös valmistellessaan seniorikonferenssia, jonka tuloksiin tämä mietintö pitkälti perustuu. Haluaisin onnitella esittelijöitä siitä, että he ovat onnistuneet ottamaan mukaan tämän kysymyksen kaikki olennaiset puolet: ikääntyneiden aseman työmarkkinoilla, heidän erityiset koulutustarpeensa, toimeentulokysymykset ja palvelutarpeet. Lisäksi heidän perusasenteensa on minusta oikea. Ikääntyneet nähdään voimavarana, jota yhteiskunnan tulisi hyödyntää entistä paremmin eikä ongelmana, josta olisi selvittävä mahdollisimman pienin kustannuksin.
+<P>
+Euroopan työvoiman keski-iän jatkuvasti noustessa on välttämätöntä, että työntekijät pystyvät työskentelemään eläkeikään saakka. Tämä edellyttää työpaikoilla muutoksia niin asenteissa kuin työn organisoinnissakin. Työ on sopeutettava ihmisten kykyihin ja tarpeisiin eikä vaadittava ihmisiä sopeutumaan työn vaatimuksiin. Ikääntyneillä ihmisillä on paljon sellaista tietoa ja taitoa, joka voitaisiin hyödyntää entistä paremmin, kunhan siihen oltaisiin halukkaita. Sen sijaan heidän on nuoria vaikeampi sopeutua kovin nopeaan työtahtiin. Juuri kiireestä onkin tullut ongelma useilla työpaikoilla, kun samaan tulokseen yritetään päästä työvoimavähennyksin entistä harvemmilla työntekijöillä. Mielestäni julkisen sektorin tulisi olla esimerkkinä työnantajille ja pystyä ajattelemaan pidemmällä tähtäimellä. Yhteiskunnan etu ei ole se, että ikääntyneet työntekijät ajetaan ennenaikaiselle eläkkeelle, vaikka he kykenisivät vielä hyvin työskentelemään inhimillisemmissä olosuhteissa.
+<P>
+Yksi ikääntyneiden työntekijöiden suurimmista ongelmista työmarkkinoilla on heidän heikko koulutustasonsa. Yli 45-vuotiaiden koulutustaso on kaikissa Euroopan maissa selvästi heikompi kuin sitä nuorempien. Meillä Suomessa tämä ero on OECD-maiden suurin. Ellei ikääntyneitä työntekijöitä pystytä kouluttamaan uusiin työtehtäviin, on edessä tilanne, jossa heitä uhkaa syrjäytyminen työmarkkinoilta samalla kun monilla aloilla podetaan työvoimapulaa. Ikääntyneiden koulutus on suunniteltava erityisesti heitä varten. Siinä on otettava huomioon heidän heikko pohjakoulutuksensa sekä siitä usein johtuva heikko koulutusmotivaatio. Siksi koulutuksen on oltava tiiviisti kiinni käytännössä.
+<P>
+Ikääntyminen, kuten useimmat ihmiselämän ilmiöt, koskettaa eri tavoin miehiä ja naisia eikä suinkaan ole sukupuolineutraali. Olen erittäin ilahtunut siitä, että esittelijämme ovat osanneet ottaa huomioon ikääntyvien naisten erityisongelmat. Ikäsyrjintä työmarkkinoilla koskettaa naisia huomattavasti varhemmin kuin miehiä. Jo 40 vuotta täyttänyt nainen on usein liian vanha työnantajan mielestä.
+<P>
+Eläkkeelle siirryttäessä miesten ja naisten taloudellinen epätasa-arvo vain korostuu. Naisten eläkkeet ovat kaikissa maissa huomattavasti pienempiä kuin miesten. Tämä johtuu sekä naisten alemmasta palkkatasosta, josta he täten saavat kärsiä kaksinkertaisesti että siitä, että naisten työura usein jää lyhyeksi ja katkonaiseksi hoivavelvollisuuksien vuoksi. Tästä syystä juuri naisten kannalta olisi erittäin tärkeää, että kaikille eläkeikäisille kansalaisille olisi taattu riittävä peruseläke, jolla työeläke täydentyisi.
+<P>
+Vaikka eläkejärjestelmät luonnollisesti ovat kaikissa jäsenmaissa erilaisia, tulisi mielestäni unionin tasolla kuitenkin säätää perustoimeentulominimi, joka jäsenvaltioiden tulisi taata niille kansalaisilleen, jotka eivät pysty työhön tai joille ei työtä ole tarjollakaan. Lukuisat kansalaisjärjestöt ovatkin tehneet esityksen siitä, että kun EU: n perussopimusta seuraavan kerran uudistetaan, siihen kirjattaisiin myös luettelo kansalaisten perusoikeuksista, joihin perustoimeentulo kuuluisi. Kiitos siitä, että olen saanut puhua täällä, ja huomaan, että olette erittäin tarkkaavaisesti kuunnelleet minua. Monet kiitokset siitä!
+
+<SPEAKER ID=45 LANGUAGE="NL" NAME="Van Bladel">
+Arvoisa puhemies, mietinnön otsikko lupaa paljon, mutta pahimpana takaiskuna ikäihmisille, joihin minäkin luen itseni kuuluvaksi, pidän tällä hetkellä komission eroa, minkä seurauksena komission jäsenen Montin suunnitelmat Euroopan eläkerahastojen toiminnan vapauttamista koskevasta direktiivistä on pantu toistaiseksi pöydälle pitkäksi ajaksi. Kaikki kunnia esittelijöille, mutta mielestäni mietinnössä otetaan liikaa esille vanhemman sukupolven riippuvuus, mitä pidän hieman holhoavana lähtökohtana. Minun lähipiirissäni on 90- tai 80-vuotiaita ihmisiä, jotka ovat olleet mukana kahdessa maailmansodassa ja jotka elävät täysin itsenäisesti.
+<P>
+Arvoisa puhemies, ymmärrän luonnollisesti, että on vanhuksia, joilla on enemmän tarpeita, mutta vastuu heistä kuuluu kansalliselle tasolle. Esittelijät kuitenkin mainitsevat mietinnössä kolmeen kertaan iäkkäiden naisten syrjinnän. Se on kyllä todella paljon. Se on epäilemättä tämän parlamentin naisten oikeuksien valiokunnan ansiota, ja ehkä se on myös pieni merkki, kun tiedetään, että oleellinen osa äänestäjäkunnasta on naisia. Arvoisa puhemies, olen ikäihminen, iäkäs nainen, ja minun lisäkseni on paljon muita, jotka eivät tarvitse minkäänlaista holhoamista. Me haluamme, että voimme viedä eläkkeet mukanamme esteittä rajojen yli. Emme halua todellakaan ikäsyrjintää. Haluamme myös välttyä verotuksellisesti epäedulliselta asemalta, jos jatkamme työntekoa eläkkeelle siirtymisen jälkeen paitsi omissa maissamme niin myös unionin jäsenvaltioissa.
+<P>
+Mietinnössä ei myöskään käsitellä osaamista, jota 65-vuotiailla on, eikä työmarkkinoiden suuntausta pitää yhä enemmän tuohon ryhmään kuuluvia ihmisiä mukana prosessissa, ja tässä on myös oleellisesti mukana joissakin maissa taustalla oleva ajatus siitä, että asianomaiset ihmiset myös maksaisivat eläkemaksuja, jotta eläkkeitä kyettäisiin maksamaan yhä suuremmalle joukolle vanhuksia. 75 miljoonaa yli 60-vuotiasta kansalaista ei vaadi pelkästään sosiaalista turvallisuutta vaan pikemminkin, arvoisa puhemies, realistisia direktiivejä EU: n vapailla markkinoilla. En tarkoita tällä, että tämä mietintö olisi hyödytön, mutta siinä keskitytään liikaa hyvinvointiin, eikä se varmasti vastaa otsikkoa " Ikäihmiset 2000-luvulla - uusia täyden elämän mahdollisuuksia" . Arvoisa puhemies, en pysty löytämään tätä asiaa mietinnöstä.
+
+<SPEAKER ID=46 LANGUAGE="SV" NAME="Schörling">
+Arvoisa puhemies, olemme jo kuulleet, että iäkkäiden ihmisten määrä lisääntyy hyvin nopeasti EU: ssa ja Euroopassa. Nykyään on 60-vuotiaita tai sitä vanhempia ihmisiä 75 miljoonaa, mikä on viidesosa väestöstä. 80-vuotiaita tai sitä vanhempia on vuonna 2020 jo 20 miljoonaa. Tätä voidaan todellakin kutsua väestötieteelliseksi vallankumoukseksi, sillä juuri siitä on kyse.
+<P>
+Tämä mietintö on sen vuoksi erittäin tärkeä, ja haluan onnitella kahta esittelijää. Haluan myös kiittää siitä konferenssista, joka järjestettiin Brysselissä lokakuussa ja jonka aiheena oli " Ikäihmiset 21. vuosisadalla - uusia täyden elämän mahdollisuuksia" . Mielestäni tämä oli yksi antoisimmista konferensseista, joihin olen osallistunut Euroopan parlamentin jäsenenä ollessani. Kysymyksenasettelut olivat jännittäviä ja minusta oli toiveita herättävää tavata kaikkia kiinnostavia ja inspiroivia iäkkäitä ihmisiä, sillä olen itsekin jo täyttänyt 50 vuotta. Ruotsalaiset vieraanikin arvostivat konferenssia erittäin paljon.
+<P>
+Sen vuoksi pidän kaikkein tärkeimpänä sitä, mihin D ja E kohdissa keskitytään, nimittäin siihen, että eläkeiässä ei tarvitse luopua aktiivisesta elämästä. Päinvastoin monet ovat eläkkeelle siirryttyään ryhtyneet uusiin tehtäviin ja uusiin hankkeisiin - puhumattakaan kaikista niistä, jotka vasta eläkkeelle siirtymisen jälkeen aikovat toteuttaa todellisia unelmiaan, joita heillä oli työelämästäkin. Meidän on tarkistettava perinteistä suhtautumistamme iäkkäisiin ihmisiin ja sitä asemaa, jonka heille haluamme antaa. Kyse on erityisesti työmarkkinoista.
+<P>
+7 kohta sisältää joukon ajatuksia siitä, kuinka voisimme saavuttaa joustavamman ja nykyaikaisemman näkemyksen työmarkkinoista ja iäkkäistä ihmisistä, esimerkiksi käyttämällä uusia työelämästä eläkkeelle siirtymisen muotoja, kuten osa-aikaeläkettä.
+<P>
+Joustava eläkeikä on tärkeä asia. Sitä Ruotsin iäkkäiden ihmisten järjestöt ja oma puolueeni, Vihreät, vaativat, koska useat eivät jaksa tehdä töitä 65-vuotiaiksi. Samanaikaisesti monet sekä haluavat että jaksavat tehdä töitä 70-vuotiaiksi asti tai pidempäänkin. Eläkeiän on oltava joustava, ja suhtautumisen iäkkäisiin ihmisiin on muututtava.
+
+<SPEAKER ID=47 LANGUAGE="FR" NAME="Blot">
+Arvoisa puhemies, arvoisat kollegat, kaksi esittelijää ovat tietenkin oikeassa korostaessaan ikäihmisten politiikan tärkeyttä Euroopassa, kun sitä paitsi otetaan huomioon väestöpyramidin kehittyminen.
+<P>
+He käsittelevät mietinnössään taloudellisia ja sosiaalisia näkökohtia ja etenkin työmarkkinoille pääsyä koskevaa ongelmaa. Mitä tulee tähän erityisempään näkökohtaan, mielestäni vaarana on, että se jää vain hartaaksi toiveeksi, jos nykyiset kasvuvauhdit säilyvät samoina sekä jo nyt sitkeä työttömyys jatkuu tulevaisuudessa, työttömyys, josta kärsivät sitä paitsi erityisesti kaikkein nuorimmat sukupolvet. Nykyisten taloudellisten olosuhteiden olisi siten oltava täysin erilaiset, jotta ikäihmiset pääsisivät työmarkkinoille riippumatta jopa siitä, että asiaa koskevat syrjivät säännökset olisi poistettu.
+<P>
+Esittelijät eivät ole oikeutetusti unohtaneet kulttuurinäkökohtia ja korostavat etenkin 28 kohdassa tarvetta antaa ikäihmisistä todenmukaisempi ja myönteisempi kuva yhteiskunnassamme, ja tässä suhteessa minun on sanottava, että olemme pikemminkin taantuneet antiikin ajan yhteiskuntiin ja erityisesti antiikin Kreikan yhteiskuntaan verrattuna, jonka ansiosta sivilisaatiomme on pääasiassa sellainen kuin on ja jossa arvostettiin oikeutetusti vanhempien ihmisten edustamaa kaikenlaista kokemuksen ja viisauden tuomaa rikkautta. Tässä suhteessa meidän on käsiteltävä todellista menneisyyden aliarvostamisen ideologiaa. Tällainen menneisyyden ideologian aliarvostaminen, ja siten myös vanhempien ihmisten aliarvostaminen, on peräisin pääasiassa viime vuosisadan romantiikan aikakaudelta, ja se on kulttuurin este, joka meidän olisi pystyttävä ylittämään. Nykyisin uskotaan, että kaikki uusi on ehdottomasti parempaa.
+<P>
+Tämä pitää tietenkin täysin paikkansa tieteellisellä ja teknisellä alalla, joka on ala, jossa tieto on luonteeltaan kasautuvaa. Tämä ei välttämättä pidä paikkaansa etiikan ja estetiikan aloilla sekä yleisesti ottaen inhimillisellä alalla, eikä instituutioiden alalla.
+<P>
+Jo suuri kreikkalainen lainsäätäjä Solon, joka ei sitä paitsi epäröinyt toteuttaa alallaan uudistuksia, totesi aina: " Syö tuoretta lihaa, mutta luota kokemuksen kautta hyväksi havaittuihin vanhoihin lakeihin." On totta, että käsiteltävinä olevista aloista riippuen uutuus ei välttämättä ole aina suositeltavaa ja että vanhojen eurooppalaisten yhdyskuntiemme kulttuuria on varmastikin muutettava huomattavasti.
+<P>
+Lopuksi pahoittelen sen sijaan kuitenkin sitä, ettei mietinnössä käsitellä väestöön liittyviä näkökohtia - vaikka esittelijät mainitsevat ne heti mietintönsä alussa -, koska mikään ei missään tapauksessa ole mahdollista - ei edes rahoituksellisesta näkökulmasta katsottuna -, ellei korjata Euroopan väestöpyramidia, josta todellinen murhenäytelmä käy ilmi. Kuoleman arvot voittavat elämän arvot, kun tarkastelemme väestöpyramidimme muotoutumista ja syntyneiden määrän riittämättömyyttä. Jos haluamme taata eläkkeet, on välttämätöntä harjoittaa muun muassa laajaa perhepolitiikkaa, mistä tässä ei ole kyse, ja sanoisin jopa ehkä lasten hankintaa edistävää politiikkaa, vaikka tätä ilmausta nykyisin aliarvostetaan.
+<P>
+Siten kaikista näistä puutteista huolimatta tuen kuitenkin kahden esittelijämme tekemiä analyysejä.
+
+<SPEAKER ID=48 LANGUAGE="DE" NAME="Rübig">
+Arvoisa puhemies, arvoisat naiset ja herrat, kaupunginjohtaja Staudinger Itävallan Oberösterreichin osavaltiosta oli oikeassa todetessaan kerran seuraavasti: iäkkäät kansalaiset ovat tärkeä poliittinen tekijä, ja heidän on myös tulevaisuus. Mielestäni hän kiteytti asian näin sanoessaan erittäin osuvasti. Neljäsosa Euroopan väestöstä on iäkkäitä ihmisiä, ja meidän tehtävämme on asettaa etusijalle tämän väestöryhmän omanarvontunto, jotta heillä on mahdollisuus hoitaa roolinsa ja tehtävänsä yhteiskunnassa myös meidän odottamallamme tavalla.
+<P>
+Mielestäni meidän tulee huolehtia erityisesti työelämässä siitä, että löydämme esimerkkejä hyviksi havaituista käytänteistä, sekä miettiä mahdollisuuksia edistää iäkkäiden ihmisten integroimista työelämään ja taata heidän viihtymisensä työssä. Tästä on olemassa Euroopassa useita esimerkillisiä malleja. Me haluamme myös lisätä erityisesti iäkkäiden ihmisten työajan joustavuutta vastaamaan paremmin heidän tarpeitaan.
+<P>
+Olemme tukeneet täällä parlamentissa eurooppalaista linja-autoliikennettä sillä edellytyksellä, että iäkkäillä ihmisillä on mahdollisuus käyttää julkista kulkuneuvoa vaivattomasti. Iäkkäiden ihmisten erityistarpeet otetaan aivan liian harvoin huomioon julkisessa liikenteessä, ja siksi aiommekin vaatia painokkaasti, että tätä parlamentin vaatimusta myös noudatetaan. Olemme asettaneet tutkimuspolitiikassa tavoitteeksi iäkkäiden ihmisten terveyden tehostetun tutkimisen bioteknologian avulla. Euroopan parlamentin aikaansaannosta on se, että tutkimuksella on tulevaisuudessa käytettävissä miljardi euroa enemmän. Uskon, että voimme olla ylpeitä tästä myös iäkkäämpien EU-kansalaistemme puolesta.
+
+<SPEAKER ID=49 LANGUAGE="DE" NAME="Von Habsburg">
+Arvoisa puhemies, tilanteeni täällä parlamentissa on erikoislaatuinen, koska olen täällä ainoa jäsen, joka on syntynyt jo ennen ensimmäistä maailmansotaa. Kun minut valittiin tämän parlamentin jäseneksi, olin jo ylittänyt eläkeiän selvästi, mutta olen vielä senkin jälkeen työskennellyt ja viettänyt täällä hienoa elämää 20 vuotta.
+<P>
+Suosionosoituksia
+<P>
+Haluankin sanoa aiheesta pari sanaa tästä näkökulmasta. On tosiasia, että iäkkäiden kansalaisten ongelmista puhutaan aivan liian vähän ja että yhteiskunta sortuu toisinaan eräänlaiseen liialliseen " nuorison ylistämiseen" , jota nuorten läpimurtautuminen kai edellyttää. Meidän luomamme yhteiskunnalliset rakenteet vaikeuttavat kuitenkin kaikin tavoin tätä kehitystä. Demokraattinen vaalijärjestelmämme on sellainen, että nuorten on hyvin vaikea tulla valituiksi. Jos käytössä olisi pieniä vaalipiirejä käyttävä todellinen henkilövaalijärjestelmä, josta valitettavasti on nyt luovuttu myös Englannissa, olisi nuorilla, mutta myös iäkkäillä ehdokkailla mahdollisuus tulla valituksi. Se olisi aitoa demokratiaa. Nykyään rakennettava järjestelmä ei ole mitään oikeaa demokratiaa, vaan " puoluekratiaa" , jossa puolueen toimijoilla on valtuudet päättää, kuka on demokraattinen ja kuka ei. Tässä yhteydessä haluan huomauttaa, että meidän osaltamme tärkeää iäkkäiden ihmisten asiassa on taata heille vihdoinkin enemmän vapautta.
+<P>
+Taloudessa puhumme jatkuvasti vapaista markkinoista, mikä onkin hyvä asia. Vapaita markkinoita ei ole kuitenkaan olemassa iäkkäille ihmisille. Yhteiskunta myöntää heille kylläkin vanhuuseläkkeen, joka " tekee heistä päätä pienempiä" , mutta ei tunnusta sitä, että on olemassa myös tietystä iästä alkaen ansaittuja oikeuksia. Iäkkäitä ihmisiä ei voida toki pakottaa mukautumaan myös näiden oikeuksien huonoihin puoliin vain siksi, ettei heidän tarvitsisi luopua siitä, mitä he todella haluavat. On iäkkäitä ihmisiä, jotka ovat hyvin onnellisia voidessaan vielä jatkaa työelämässä, minkä vuoksi heitä syytetään usein nuorempien työhönpääsyn estämisestä. Se ei kuitenkaan pidä paikkaansa. Tämän asian on ymmärtänyt mielestäni tähän mennessä vain yksi maa, nimittäin Sveitsi, vaikka se saattaakin kuulostaa huvittavalta. Sveitsissä ja esimerkiksi juuri Sveitsin parlamentissa on nimittäin useita eläkeläisiä, jotka tuovat mukanaan kaiken elämän varrella hankkimansa kokemuksen. Tähän meidän tulisi pyrkiä eli antaa iäkkäille ihmisille todellinen vapaus valita. Tämä valinnanvapaus auttaisi myös saamaan jonkinlaisen otteen väestörakenteen pyramidista, josta nykyään aiheellisesti puhutaan. Myös pyramidin alaosan tulee olla leveä ja vankka, koska sielläkin tilanteemme on ongelmallinen.
+<P>
+Tärkeintä on taata iäkkäiden ihmisten vapaus!
+<P>
+Suosionosoituksia
+
+<SPEAKER ID=50 LANGUAGE="DE" NAME="Flemming">
+Arvoisa puhemies, arvoisat naiset ja herrat, tänään syntyvän lapsen keskimääräinen eliniänodote on 100 vuotta tai enemmänkin. Kun 100 vuotta sitten kuoltiin 40-vuotiaana, saavutamme nykyään keskimäärin jo 80 vuoden iän. Tänään syntyvä lapsi voi täyttää eläessään 100 vuotta tai jopa enemmän. Ihmiskunnan unelma on siten toteutunut. Saamme elää vielä kerran, niin kuin ihmiset ovat kautta historian toivoneetkin. Tulen aina vihaiseksi, kun luen tai kuulen jossakin puhuttavan Euroopan vanhentumisesta tai jopa eläkeläistymisestä.
+<P>
+Arvoisa vihreän ryhmän kollega, teidän puheenvuoronne liikutti minua syvästi. Käytitte siinä myös sanaa eläkeläistyminen, ainakin käännöksen mukaan. Yrittäkäämme olla puhumatta Euroopan eläkeläistymisestä sellaisten ihmisten kohdalla, jotka elävät niin pitkään kuin Luoja on heidän geeneissään määrännyt. Vielä yksi seikka suututtaa minua. On olemassa sellainen asia kuin ihmisoikeudet, joita tämä parlamentti puolustaa. Miten on sitten mahdollista, että 60-, 65- ja joskus jopa 55-vuotiaat pakotetaan eroamaan työpaikasta ja lopettamaan työnteko kokonaan. Työ on hyvin tärkeä osa ihmisyyttä. On varmasti sellaisia ihmisiä, jotka ovat väsyneitä tai työskennelleet paljon ja vaikeissa olosuhteissa ja jotka haluavat siksi lopettaa työnteon. Se on kuitenkin aivan eri asia kuin määrätä lailla, että ihmisen on pakko lopettaa työt vain siksi, että hän on täyttänyt 60, 65 tai joissain tapauksissa 55 vuotta. Minusta se loukkaa ihmisoikeuksia, ja tästä on hyvä keskustella Amsterdamin sopimuksen 13 artiklan pohjalta. Olen hyvin pahoillani siitä, että Schiedermeier ja McMahon joutuvat eroamaan parlamentista. Jos olisitte laatineet mietintönne aikaisemmin, teiltä ei melko varmasti olisi voitu enää evätä uutta ehdokkuutta!
+<P>
+Suosionosoituksia
+<P>
+Puolueeni ja Itävalta ovat hyvin edistyksellisiä. Minut asetettiin uudelleen ehdolle tähän parlamenttiin, koska olen iäkäs 65 vuotta täyttänyt nainen, ja olen iloinen saadessani viettää seuraavat vuodet täällä!
+
+<SPEAKER ID=51 NAME="Liikanen">
+Arvoisa puhemies, aivan ensimmäiseksi haluan kiittää esittelijöitä McMahonia ja Schiedermeieriä erinomaisesta mietinnöstä ja arvoisia edustajia aivan riemukkaasta keskustelusta. Mietintö on selvästikin kovan työn tulosta. Parlamentti järjesti lokakuussa konferenssin, joka kokosi yli sata vanhusten järjestöjen edustajaa kaikista jäsenvaltioista. Konferenssissa käytyjen keskustelujen lisäksi monet organisaatiot toimittivat kirjallisia esityksiä, joilla kaikilla on ollut vaikutusta tässä mietinnössä käsiteltyihin aiheisiin.
+<P>
+Olen iloinen, että komissio on saanut työskennellä yhdessä parlamentin kanssa konferenssin järjestelyissä ja on voinut osallistua siellä esiin tulleiden kysymysten käsittelyyn. Yhteistyön vuoksi ei ole mitenkään yllättävää, että mietinnössä esitetyt ajatukset ovat hyvin samansuuntaisia kuin komission käsitykset. On syytä olla tyytyväinen, että mietinnössä painotetaan ikäihmisten tarjoamaa valtavaa potentiaalia ja tarvetta toimia tämän potentiaalin hyödyntämiseksi.
+<P>
+Kuten tiedämme Euroopan kansalaiset elävät nykyisin pitkään terveinä ja aktiivisina, mikä on suureksi eduksi eurooppalaisille yhteiskunnille. Nyt on haasteena mukauttaa yhteiskuntamme niin, että kansalaisten ikääntyessä säilytetään tavoitteena kunnollinen elämänlaatu ja elintaso kaikille aktiivisessa ja terveessä yhteiskunnassa. Tämä voidaan tehdä, mutta siihen tarvitaan, kuten mietinnön otsikossa todetaan, uusia näkökulmia.
+<P>
+Mietinnössä tuodaan esiin erityisesti iäkkäiden työttömien määrä, ja työllisyys onkin tärkeintä toiminta-aluetta. Olen samaa mieltä mietinnön esittelijöiden kanssa siitä, että toimintamahdollisuudet ovat laajat Euroopan työllisyysstrategian ja sosiaalirahaston kautta. Mietinnössä tuodaan esiin jatkuvan koulutuksen merkitys: komission ehdotuksen mukaisesti iäkkäiden työntekijöiden tarpeisiin on kiinnitettävä lisähuomiota työllisyysstrategiaan kuuluvan elinikäisen koulutuksen yhteydessä.Olen myös samaa mieltä mietinnössä korostetuista ikääntymiseen liittyvistä tasa-arvon näkökohdista. Yhdessä esimerkissä käsitellään riittävän tulotason takaamista vanhuksille. Iäkkäiden naisten asema on usein huomattavasti heikompi kuin iäkkäiden miesten. Komissio on käynnistänyt pohdiskelut siitä, miten sosiaaliturvaa voidaan mukauttaa Euroopan yhteiskuntien väestörakenteen kehittymiseen. Samassa yhteydessä käsitellään myös ikääntyneiden ihmisten tulotasoa.
+<P>
+Toinen sosiaaliturvaan liittyvä tärkeä aihe, joka mietinnössä nostetaan esiin, on ikääntyvän yhteiskunnan vaikutus terveydenhuoltoon. Tässä kohden voi todeta, että komissio rahoittaa jo juuri tätä alaa koskevaa tutkimusta, joka toivottavasti valmistuu vuoden sisällä.
+<P>
+Havaitsin mietinnössä komissiolle esitetyn kehotuksen esittää ikääntymistä koskeva tiedonantonsa tämän vuoden ensimmäisellä puoliskolla. Voin taata parlamentille, että tiedonantoa koskeva valmistelutyö on jo tehty. Teemme parhaamme nykyisissä olosuhteissa sen varmistamiseksi, että komission tiedonanto esitellään mahdollisimman pian. Mietinnössä esitetään komissiolle myös kehotuksia toimittaa eteenpäin ehdotukset, jotka liittyvät Amsterdamin sopimuksen uusiin määräyksiin syrjinnän ja sosiaalisen syrjäytymisen torjumisesta. Mietinnössä vaaditaan myös vanhusten terveydensuojelun parantamista sekä yleisesti että erityisesti Alzheimerin taudin osalta. Nämä ovat tietenkin tärkeitä asioita, ja olen varma, että myös uusi komissio ottaa mietinnön huomioon valmistellessaan ehdotuksia näillä aloilla.
+<P>
+Haluan vielä kerran kiittää parlamenttia mietinnöstä. Se on merkittävä panos parlamentilta Yhdistyneiden Kansakuntien kansainvälisenä ikäihmisten teemavuotena 1999. Sillä myös edesautetaan eurooppalaisen yhteiskuntamallin säilymistä nykyisille ja tuleville sukupolville.
+
+<SPEAKER ID=52 NAME="Puhemies">
+Paljon kiitoksia, komission jäsen Liikanen.
+<P>
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen.
+<P>
+Parlamentti hyväksyi päätöslauselman.
+
+<SPEAKER ID=53 NAME="Puhemies">
+Parlamentin jäsenet, haluaisin onnitella Schiedermeieria ja McMahonia, McMahonia ja Schiedermeieria heidän erinomaisesta työstään, jota he ovat tehneet paitsi tämän mietinnön osalta, myös koko tämän toimikauden ajan.
+
+<SPEAKER ID=54 LANGUAGE="SV" NAME="Sjöstedt ja Svensson">
+ Emme ole äänestäneet mietinnön puolesta. Mielestämme ei ole tarpeellista kehittää yhteistä iäkkäitä ihmisiä koskevaa politiikkaa EU: n tasolla. Nämä ovat kansallisen ja alueellisen tason kysymyksiä.
+<P>
+Mielestämme mietinnön ehdotus koordinoinnista menee useissa asioissa liian pitkälle. Sen sijaan EU: lla on mielestämme tärkeä tehtävä vastavuoroisessa, rajojen yli tapahtuvassa eläkkeiden siirtämisessä ja tunnustamisessa.
+
+<CHAPTER ID=5>
+Tärkkelysteollisuus
+<SPEAKER ID=55 NAME="Puhemies">
+Esityslistalla on seuraavana Garotin ja Colino Salamancan maataloutta ja maaseudun kehittämistä käsittelevän valiokunnan suullinen kysymys komissiolle kasvivalkuaisten hankinnasta ja tärkkelysteollisuuden tilanteesta (B4-0155/99).
+
+<SPEAKER ID=56 LANGUAGE="FR" NAME="Garot">
+Arvoisa puhemies, parlamentin maataloutta ja maatalouden kehittämistä käsittelevä valiokunta aikoo itse asiassa antaa toimeenpanevan komission käsiteltäväksi ongelman, joka koskee eläinten ruokintaan tarkoitetun kasvivalkuaisen vajausta Euroopan unionissa ja sitä strategista panosta, jonka tämä tilanne aiheuttaa bioteknologioille 15 jäsenvaltion Euroopassa. Useat kollegani tulevat tänä aamuna selvittämään tätä aihetta puheenvuoroni jälkeen.
+<P>
+Heti aluksi on tiedettävä, että Euroopan unionin kasvivalkuaisen sisäisen kulutuksen vajeen on arvioitu olevan noin 70 %, mikä merkitsee siten Euroopan unionin erittäin suurta riippuvuutta verrattuna Amerikan mantereeseen, josta pääosa tuonnistamme on peräisin. Muistutan, että tämä tilanne on seurausta Yhdysvalloille tehdystä myönnytyksestä Rooman sopimuksen allekirjoittamisen hetkellä, oikeudesta tuoda soijaa yhteisöön tullitta. Tilanne on huonontunut Blair House - sopimuksen takia, jossa määrätään Euroopan valkuaiskasvien kiintiöstä, ja tilanne saattaa huonontua vielä entisestään vuosina 2000-2006.
+<P>
+Toisaalta Agenda 2000: een sisältyvät määräykset aiheuttavat sen, että maanviljelijöiden on itse asiassa vähennettävä kasvivalkuaista sisältävien öljykasvien tuotantoaan viljatuotteiden hyväksi, jollei tietenkin toteuteta järkeviä toimenpiteitä muun kuin elintarvikealan viljelmien tukemiseksi, ja toisaalta taas aminohappojen ja etenkin synteesilysiinin tuotantokapasiteetit vähenevät Euroopassa. Itse asiassa on tiedettävä tässä suhteessa, että eurooppalaiset teollisuusjohtajat investoivat yhä useammin Yhdysvaltoihin.
+<P>
+Haluan korostaa tätä kohtaa, sillä Euroopassa tuotetulla synteettisellä lysiinillä on merkitystä siinä mielessä, että sen ansiosta voidaan käyttää mahdollisimman paljon viljaa eläinten ruokinnassa ja samalla vähentää kasvivalkuaisen vajettamme. Tämän osalta on kuitenkin todettava, että lysiinituotannon uudelleenjako Euroopan ja Yhdysvaltojen kesken on huolestuttavaa. Kuvatakseni paremmin asiaa korostan, että Yhdysvaltojen markkinoiden peitto on noussut nollatasosta noin 165 %: iin, kun Euroopan lysiinimarkkinoiden peitto taas on laskenut vuoden 1991 tasosta 84 % vuoden 1997 tasoon 54 %, ja että näiden markkinoiden peitto tulee olemaan vuonna 2002 noin 38 %, jos tilanne ei muutu. Koska näyttää kuitenkin todennäköiseltä, että tätä tärkkelystuotantoa varten käytettyä maissia myydään Yhdysvalloissa edelleenkin alempaan hintaan kuin yhteisön viljatuotteita, näyttää johdonmukaiselta, että ei ole vain säilytettävä Yhdysvalloista johtuvaa epäedullista asemaa koskevaa nykyistä korvausjärjestelmää, vaan sitä on vahvistettava huomattavasti.
+<P>
+Siksi Euroopan parlamentin maatalousvaliokunta toivoo toimeenpanevan komission vastaavan seuraaviin kysymyksiin. Miten Euroopan unioni aikoo vähentää kasvivalkuaisen tuontia koskevaa riippuvuuttaan ja käyttää 15 kumppanuusmaan käytettävissä olevaa maatalouspotentiaalia? Miten viljajohdannaisten käyttämiseksi ja yhteisön sisäisen lysiinituotannon elvyttämiseksi tarkoitetut nykyiset tuet aiotaan mukauttaa? Miten komissio aikoo edistää maailmanlaajuisemmin tärkkelystuotantoa ja bioteknologioihin perustuvaa teollisuutta, joka saattaa tarjota maataloudelle uusia markkinoita? Arvoisa puhemies, meille annettavat vastaukset ovat erityisen tärkeitä tänä Maailman kauppajärjestön neuvottelujen aattona.
+
+<SPEAKER ID=57 NAME="Liikanen">
+Arvoisa puhemies, komissio jatkaa aktiivista politiikkaansa vähentääkseen yhteisön riippuvuutta kasviproteiinien tuonnista ja lisätäkseen viljankulutusta karjanrehuissa. Vuonna 1992 aloitettu yhteisön maatalouspolitiikan uudistus on johtanut rehuviljan kulutuksen huomattavaan noin 20 miljoonan tonnin vuosikasvuun karjanrehuissa ja merkittävään karjanrehun ja erityisesti kasviproteiinien tuonnin vähenemiseen. Agenda 2000 - asiakirjassa komissio ehdotti vuoden 1992 uudistuksen syventämistä ja laajentamista erityisesti Euroopan maatalouden kilpailukyvyn parantamiseksi niin sisä- kuin ulkomarkkinoillakin. Viljan hinnan 15 prosentin alennuksen ja valkuaiskasvien suoran lisätuen pitäisi edistää merkittävästi tämän tavoitteen saavuttamista.
+<P>
+Komissio on aina kantanut huolta Euroopan tärkkelysteollisuuden ja siihen liittyvän jalostusteollisuuden ja erityisesti tärkkelystä ja sen johdannaisia raaka-aineenaan käyttävän bioteknologia-alan kilpailukyvyn varmistamisesta. Yleisesti ottaen tärkkelystuotteisiin perustuva teollisuus on säilyttänyt hyvin asemansa ja kehittyy jatkuvasti. Tuonnin suojaaminen taataan soveltamalla tarkoituksenmukaisia tulleja. Vientiä edistetään vientituin, jotka mahdollistavat moninaisten tuotteiden viennin sellaisenaan tai toisinaan hyvinkin pitkälle jalostettuina tärkkelystuotteina. Yhteisön sisällä tärkkelyksen ja sen johdannaistuotteiden menekkiä edistetään tuotantotukien avulla, silloin kun näitä tuotteita käytetään sellaisilla teollisuuden aloilla, joilla ei ole tuontisuojaa, kuten kemian- ja lääketeollisuus sekä paperiteollisuus. Tukijärjestelmien turvin saadaan markkinoiduksi merkittäviä ja jatkuvasti kasvavia määriä tärkkelysteollisuuden ja siihen liittyvän jalostusteollisuuden tuotteita myös yhteisön ulkopuolisiin maihin.
+<P>
+Agenda 2000 -ohjelman myötä komissio jatkaa näiden markkinoiden hallintavälineiden käyttämistä niin kauan kuin maailmanmarkkinahinnan ja unionin sisäisen markkinahinnan välinen merkittävä ero säilyy. Näiden toimenpiteiden pitäisi taata se, että tärkkelystä käyttävä teollisuus ja erityisesti bioteknologia-ala pysyy maailmanmarkkinoilla kilpailukykyisenä.
+
+<SPEAKER ID=58 NAME="Puhemies">
+Paljon kiitoksia, komission jäsen Liikanen.
+<P>
+Parlamentin jäsenet, ennen kuin siirrymme keskusteluun, ilmoitan, että sen päätteeksi olen vastaanottanut viisi työjärjestyksen 40 artiklan 5 kohdan mukaisesti käsiteltäväksi jätettyä päätöslauselmaesitystä.
+
+<SPEAKER ID=59 LANGUAGE="DE" NAME="Rehder">
+Arvoisa puhemies, arvoisa komission jäsen, arvoisat kollegat, Berliinissä käytyjen Agenda 2000 - neuvottelujen tulokset ovat oikeastaan vielä painotuoreita, ja silti meidän on jo alettava tutkia Agenda 2000: n eri aloihin kohdistuvia vaikutuksia. Mielestäni on hyvin tärkeää tutkia myös niitä Agenda 2000 -ohjelman vaikutuksia, jotka kohdistuvat nykyään vielä kesantotuotteen nimellä tunnettavaan alaan. Kiitänkin siksi sydämellisesti kollega Garot'ta siitä, että hän muistutti heti tästä räikeästä epäkohdasta ja vaati komissiota ryhtymään suuntaa-antavaan ja perusteltuun toimintaan.
+<P>
+Komission jäsen puhui edellä syventämisestä ja laajentamisesta. Tämä on kuitenkin lähinnä - kohteliaasti sanottuna - mahtipontinen julistus. Me emme tietenkään halua - ja siksi on mukava nähdä taloudesta vastaavan komission jäsenen myös istuvan täällä - vain korulauseita ja syventämistä sanatasolla vaan myös voimakasta tukipolitiikkaa. Tämä tuki edellyttää tietenkin määrärahoja, mutta niiden lisäksi Euroopan parlamentin sosiaalidemokraatit kannattavat myös vapaita ja yhteiskunnan hallitsemia markkinoita. Siksi on välttämätöntä, että tästä ympäristöpoliittisestikin edustuskelpoisesta käyttämättömästä voimavarasta tehdään lopultakin myös maatalouden uusi tukijalka ja tulonlähde. Siinä on myös se hyvä puoli, että uuden ylituotantotilanteen sijaan luomme välineen, jolla voidaan korvata ylituotantoa markkinaystävällisesti vaihtoehtoisilla tuotantotavoilla, jotka voivat korvata esimerkiksi myös maaöljyn käyttöä.
+<P>
+Euroopan unionissa on kyse siitä, että kesannoitujen maa-alueiden käyttämättömiä voimavaroja aletaan hyödyntää tässä tuotannossa, jota laajennetaan ja josta tehdään tasavertainen muiden alojen kanssa. Koska olemme osa maailmanmarkkinoita, meidän on 30. marraskuuta Seattlessa alkavissa WTO-neuvotteluissa saatava läpi vaatimus tämän alan markkinatalouden esteiden purkamisesta sekä korostettava Euroopan unionin kykyä toimia ja tuottaa aivan yhtä tasa-arvoisesti kuin muillakin maatalouden keskeisillä aloilla. Arvoisa komission jäsen, tällä saralla on vielä paljon tehtävää. Siihen tarvitaan rahan lisäksi myös päättäväisyyttä. Tiedän, että WTO-neuvotteluissa on paljon tehtävää, koska Berliinin huippukokouksen maataloutta koskevat tulokset olivat osittain suuri pettymys. Oletan kuitenkin, että komissio ja Euroopan unionin vastaavat edustajat pystyvät ajamaan näitä asioita myös tarvittavan ponnekkaasti.
+
+<SPEAKER ID=60 LANGUAGE="NL" NAME="Sonneveld">
+Arvoisa puhemies, tämä suullinen kysymys koskee joidenkin tärkeiden EU: n peltokasvituotteiden välistä yhteyttä, huipputekniikkaa hyödyntävää teollisuutta, joka käyttää näitä tuotteita, sekä kasviperäisen runsasproteiinisen rehun hankintaa. Blair House -sopimuksessa oli itse asiassa myös kysymys tästä runsasproteiinisesta rehusta, nimittäin käsiteltyjen öljysiementen jätteistä. Tämä sopimus osoittautui niin tiukaksi, että se estää öljysiementen viljelyn kehittämistä edelleen EU: ssa. Komissio pyrki Agenda 2000: ssa poistamaan tämän esteen antamalla öljysiemenille saman hehtaarituen kuin viljalle. Berliinin huippukokous vahvisti päätöksen tästä. Näin ollen koko peltoviljelykasvien ryhmän, eli viljan ja öljysiementen, tuet on erotettu toisistaan.
+<P>
+Haluan kysyä komissiolta, voimmeko nyt täysin nykyiseen tapaan, jolla kommunikoimme transatlanttisissa suhteissa maatalousalalla, ilmoittaa Yhdysvalloille, että tämä tuki on itse asiassa erotettu samalla tavalla kuin Yhdysvalloissa ja että siksi tämä öljysiemenjätettä koskeva miljoonan tonnin rajoitus raukeaa. Oletan, että meidän ei tarvitse odottaa sopimusta tästä täydellä WTO: n vuosituhannen vaihteen neuvottelukierroksella, jotta voimme säädellä tätä.
+<P>
+Ovatko toimenpiteet kuitenkin haitallisempia kuin itse ongelma EU: n öljysiemenalan kannalta, ja eikö alempi hehtaarituki rajoita huomattavasti öljysiementen viljelyä? Aikooko komissio edistää vahvemmin erityisesti biodieselöljyn ja biovoiteluöljyn käyttöä nyt, kun myös Berliinin huippukokous on vahvistanut, että tulevaisuudessa toteutetaan tehokkaampaa peltoviljelypolitiikkaa muuksi kuin ravinnoksi tarkoitettujen tuotteiden osalta ?
+<P>
+Sitten on vielä maissin hinnan suhde EU: ssa ja maailmanmarkkinoilla. EU: n tärkkelysteollisuus valittaa, että sen tuotanto tulee EU: n sisällä kalliimmaksi kuin kilpailijoilla, jotka hankkivat maissia raaka-aineeksi maailmanmarkkinoilta. Voidaanko tämä epäkohta korjata alentamalla maissin hintaa edelleen 15 %: lla? Komissio on ehdotuksessaan tästä hinnanalennuksesta koko ajan vedonnut EU: n kilpailukyvyn parantamiseen. Se saattaa ehkä päteä erityisesti tärkkelysalaan. Vai täytyykö tämän alan vain antaa jatkaa edelleen niin, että maissin hinnassa on ero EU: n ja maailmanmarkkinoiden välillä, koska EU: lla on nyt kerta kaikkiaan pulaa maissista? Joka tapauksessa tämän tärkkelyksen käyttäjät EU: ssa vaativat kannustinta, jotta EU: n tärkkelyksen käyttö varmistetaan myös tulevaisuudessa.
+<P>
+Haluaisin vielä sanoa seuraavaa maissin hinnanmuodostuksesta maailmanmarkkinoilla. Haluaisin kysyä komissiolta, että eikö markkinointituen soveltaminen paina tämän tuotteen hintaa alas kuten Yhdysvalloissa. Euroopan unionin tuoreessa Yhdysvaltojen maatalouspolitiikkaa käsittelevässä tutkimuksessa tästä ei sanota juuri mitään, vaikka samalla kuitenkin Yhdysvaltojen nykyisessä maatalouslaissa markkinointituki on otettu käyttöön hyvin tehokkaana keinona kilpailukyvyn kannalta ja sitä sovelletaan lähes kaikkiin merkittäviin maataloustuotteisiin. Emmekö täten ylenkatso tärkeää tukikeinoa?
+<P>
+Haluaisin vielä viitata perunatärkkelyksen ja maissitärkkelyksen väliseen tasapainoon. Oletan, että Berliinin sopimus vahvistetaan myös tässä tapauksessa, ja haluaisin kuulla komissiolta, että se on nyt tapahtunut myös täytäntöönpanoasetuksessa, koska mielestäni on hyvin tärkeää, että nykyistä tasapainojärjestelmää perunatärkkelyksen ja maissitärkkelyksen välillä noudatetaan erityisesti säilyttämällä perunatärkkelysalan nykyinen tasapainopalkkioiden järjestelmä.
+
+<SPEAKER ID=61 LANGUAGE="NL" NAME="Mulder">
+Arvoisa puhemies, haluaisin aloittaa siitä, mihin Sonneveld lopetti. Minunkin ryhmäni pitää erityisen tärkeänä sitä, että perunatärkkelyksen ja viljatärkkelyksen välinen tasapainotuki säilytetään. Euroopan eri alueilla ja erityisesti Alankomaiden pohjoisosissa on erittäin tärkeää, että perunanviljely voidaan säilyttää. Muuten nämä alueet kokisivat valtavan taloudellisen romahduksen, ja aiheutuisi vain lisää kustannuksia, jos meidän täytyisi ratkaista asia muulla tavalla. Siksi perunanviljely täytyy varmasti säilyttää.
+<P>
+Sitten haluaisin vielä puolustaa maataloustuotteiden teollista käyttöä muuhun kuin elintarvikekäyttöön. Olen iloinen siitä, että komission jäsen Liikanen on tällä hetkellä paikalla, koska haluaisin tehdä hänelle ehdotuksen, joka ei aiheuta lainkaan kustannuksia. Hän on siihen varmaankin hyvin tyytyväinen. Jos määräisimme tietyillä ekologisesti herkillä alueilla, esimerkiksi kaikilla Suomen järvialueilla, pakollisiksi sellaiset tuotteet, joita voidaan valmistaa maataloustuotteista - tarkoitan muovia, jota voitaisiin valmistaa tärkkelyksestä, ja biovoiteluöljyä, jota valmistetaan proteiinipitoisista tuotteista Etelä-Euroopassa, näille tuotteille avautuisivat valtavat uudet markkinat. Tämä tarkoittaisi myös sitä, että meidän tarvitsisi todennäköisesti antaa vähemmän tukia. Myönnän kyllä, että nämä tuotteet olisivat ehkä hieman kalliimpia kuin perinteiset tuotteet, mutta ympäristöalalla saavutettava voitto on niin suuri, että mielestäni Euroopan komission täytyy laatia tästä aktiivisia ehdotuksia, jotta nämä tuotteet saisivat enemmän tilaa Euroopan markkinoilla.
+<P>
+Minulla on vielä myös kysymys nykyisestä tilanteesta Berliinin huippukokouksen jälkeen. Me kaikki tiedämme, että Blair House -sopimus ei ollut kovinkaan hyödyllinen. Missä määrin komissio luottaa siihen, että nykyiset ehdotukset ovat sopusointuisia siinä mielessä, että voimme viljellä aivan niin paljon kuin haluamme ja että meillä ei ole enää Blair House -sopimuksen asettamia rajoituksia? Vain onko niin, että joudumme WTO: n puitteissa jälleen toiseen kauppariitaan Yhdysvaltojen kanssa? En toivo sitä, mutta haluaisin komissiolta selityksen tästä asiasta.
+
+<SPEAKER ID=62 LANGUAGE="FR" NAME="Pasty">
+Arvoisa puhemies, arvoisat kollegat, Euroopan kemianteollisuus, joka käyttää maataloudesta johdettuja hiilihydraatteja ja etenkin tärkkelystä, on kehittynyt jo muutaman vuoden ajan erityisen vaikean taloudellisen tilanteen vallitessa.
+<P>
+Tämä arkaluonteinen tilanne johtuu Euroopan unionin ja maailmanmarkkinoiden välisestä maatalouden raaka-aineiden hankintatilanteen suurista eroista. Tämä teollisuus, ja etenkin tärkkelystuotanto, edustaa kuitenkin erittäin merkittävää osaa muuhun kuin elintarvikekäyttöön tarkoitetusta maataloustuotannosta viljantuotannolla mitattuna ja tämän lisäksi se on yksi bioteknologioiden tulevan teollisen kehittämisen kulmakivistä.
+<P>
+On totta, että tilanteen korjaamiseksi on luotu vuonna 1986 - komission jäsen Liikanen muistutti tästä äsken - korvaus tuotantotuen muodossa. Tämän järjestelmän soveltamisen avulla voidaan valitettavasti korvata kuitenkin vain osaksi tämä haitta, mikä heikentää Euroopan teollisuuden asemaa paitsi maailmanmarkkinoilla, niin myös omilla markkinoillamme.
+<P>
+Koska Yhdysvaltojen ja Euroopan unionin teollisuuden välinen kuilu rypälesokerin tuotannossa ylittää säännöllisesti 30 % - 100 % omakustannushinnasta, tämä haitta on mahdoton korjata teknologisen edistyksen tai tuotannon tehostamisen avulla etenkin, kun suurin osa Euroopan teollisuuksista kärsii myös mittakaavahaitasta.
+<P>
+Tämä tilanne nostaa akuutilla tavalla esiin kysymyksen Euroopan teollisuuden jatkuvuudesta. Useat tuotantoyksiköt ovat sulkeneet ovensa näinä viimeksi kuluneina vuosina Saksassa ja Italiassa. Kapasiteetin laajennukset, jotka on luotu kysynnän kasvuun vastaamiseksi, toteutetaan nykyisin enimmäkseen Euroopan unionin ulkopuolella, olipa kyse sitten Yhdysvalloista tai uusista taloudellisista toimijoista, kuten Kiinasta, Intiasta tai Brasiliasta.
+<P>
+Euroopan ulkopuolella sijaitsevat teollisuuspaikkakunnat toimittavat yhä kasvavassa määrin tuotteita Euroopan markkinoille. Voitte todeta tämän Eurostatin tilastoista. Euroopan unioni ei voi enää säilyttää asemiaan maailmanmarkkinoilla maailmanhintojen laskemisen takia.
+<P>
+Näiden toisiaan lähellä olevien suuntausten seurauksena Euroopan alue menettää houkuttelevuuttaan, mikä johtuu pääasiassa tärkkelystä sisältävien raaka-aineiden hinnasta, ja se on lisänä niihin muihin tämän teollisuuden kärsimiin haittoihin, jotka äsken mainitsin.
+<P>
+Meidän on siten esitettävä kaksi vaatimusta Euroopan tasolla: tuotantotuet on laskettava maissin maailmanhinnan mukaan, ei siis viljan hinnan mukaan, koska tärkkelysteollisuus perustuu tähän maissiteollisuuteen, ja meidän on myös valvottava - kuten kollegamme Sonneveld ja Mulder meitä äsken muistuttivat -, että perunasta tuotetun tärkkelyksen ja viljatuotteista tuotetun tärkkelyksen välillä on olemassa tietty tasapaino. Ja ennen kaikkea, arvoisa puhemies, haluamme Euroopan unionin osoittavan tietynasteista taisteluhalukkuutta Maailman kauppajärjestön Wienissä järjestämissä kansainvälisissä konferensseissa.
+<P>
+Jos teemme amerikkalaisille joitakin myönnytyksiä, kuten nykyisin näyttää tapahtuvan etenkin vehnän gluteenin tapauksessa, jossa amerikkalaiset yrittävät painostaa meitä ja jossa emme ole vielä antaneet asiaa Maailman kauppajärjestön käsiteltäväksi, voimme oikeutetusti olla huolissamme. Tämä taistelu on voitettava tulevissa WTO: n neuvotteluissa, sillä se on olennaisen tärkeä bioteknologiaan perustuvien teollisuuksien tulevaisuuden kannalta.
+
+<SPEAKER ID=63 LANGUAGE="FR" NAME="Barthet-Mayer">
+Arvoisa puhemies, arvoisa komission jäsen, arvoisat kollegat, Agenda 2000: ta koskevien äskeisten päätelmien jälkeen olisi voitu ajatella, että eurooppalaiset budjettitasapainot taipuvat edelleen yhtä paljon liian suurien maataloustukien painon alla, jotka liittyvät ennen kaikkea ylituotantoon, joka on poistettava markkinoilta, varastoitava ja jalostettava. Lyhyesti sanoen maatalous ja sen ylituotannot ovat vastuussa kaikesta pahasta.
+<P>
+Analysoitaessa kuitenkin Eurostatin tilastotietoja ja Euroopan maatalouden vuotuista tilannetta huomataan, että 15 jäsenvaltion Eurooppa ei ole kaikkein odotusten vastaisesti omavarainen tiettyjen maataloustuoteryhmien osalta. Näin on asia lampaanlihan tapauksessa, joka on useiden Etelä-Euroopan kuivien alueiden ainoa resurssi. Katamme ainoastaan 80 % kulutuksestamme. Meillä on yhä puutetta tupakasta, puusta, tuoreista ja jalostamattomista sitrushedelmistä sekä joistakin hedelmistä ja vihanneksista. Kuitenkin ennen kaikkea, kuten tutkimuksen pääosaston tuoreessa selvityksessä osoitetaan, tuotamme vain 30 % runsaasti proteiinia sisältävistä aineista, jotka ovat välttämättömiä eläinten, lähinnä sikojen ja siipikarjan, ruokinnassa.
+<P>
+Kuvitelkaa Yhdysvaltojen kauppasaartoa - näin tapahtui jo vuonna 1973. Sen seuraukset olisivat muutamassa viikossa Euroopan unionille katastrofaaliset. Viljavarastot tarjoaisivat edelleen energiaa sisältäviä elintarvikkeita, mutta kasvivalkuaisista olisi puutetta tilanteessa, jossa ne ovat BSE-kriisistä alkaen olleet olennaisen tärkeitä. Samaan aikaan tärkkelystä ja tärkkelystä sisältäviä tuotteita, jotka ovat useiden teollisten yhdisteiden tuotannon perustana, mukaan lukien aminohapot, kuten lysiini, koskeva teollisuus kärsii näiden raaka-aineiden liian korkeista eurooppalaisista hinnoista.
+<P>
+On jo korkea aika, että komissio käy puheiden lisäksi konkreettisesti käsiksi näihin ongelmiin. Kyse on ensiksikin viljajohdannaisten käyttöä koskevan nykyisen korvausjärjestelmän säilyttämisestä ja parantamisesta. Kuitenkin on myös välttämätöntä luoda todellinen, muuhun kuin elintarvikekäyttöön tarkoitetun maataloustuotannon politiikka, jotta voidaan tuottaa orgaanisten yhdisteiden ja biopolttoaineiden teollisuudessa tarvittavia raaka-aineita, etenkin kannustamalla kesantoviljelmien hyödyntämistä. Lisäksi on vain yksinkertaisesti käytettävä viljoja, öljykasveja ja valkuaiskasveja koskevien säännösten tarjoamia olemassa olevia mahdollisuuksia, jotta saavuttaisimme jälleen omavaraisuuden elintarvikkeiden osalta eläinten tuotantoa koskevalla alalla.
+<P>
+Pyydämme myös painokkaasti komissiota sisällyttämään koko ongelmavyyhdin, jonka Garot äsken niin hyvin esitti, WTO: n neuvottelujen valmisteluihin. Meillä on WTO: ssa käytettävissämme kuitenkin edes joitakin aseita, jos meillä vain on poliittista tahtoa niiden käyttämiseen.
+
+<SPEAKER ID=64 LANGUAGE="DE" NAME="Funk">
+Arvoisa puhemies, arvoisa komission jäsen ja arvoisat kollegat, haluaisin aluksi kiittää lämpimästi edustaja Garot'ta, koska hänen aloitteestaan käsittelemme tänään tätä päätöslauselmaa. Mielestäni jokainen näistä neljästä ongelma-alueesta, joita kaikkia käsittelemme tässä pienessä päätöslauselmassa, on oikeastaan sinällään hyvin tärkeä. Kyse on ensinnäkin eurooppalaisen tärkkelysteollisuuden kilpailukyvystä sekä Berliinin öljy- ja valkuaiskasveja koskevista päätöksistä, jotka ovat täysin riittämättömiä, kuten nyt tiedämme. Näillä päätöksillä ei pystytä myöskään mitenkään poistamaan markkinoiden vajetta, eikä niistä siksi nykyisessä muodossaan ole meille suurtakaan apua.
+<P>
+Kyse on loppujen lopuksi siitä, että komission on kehitettävä ja harjoitettava aktiivisempaa muiden kuin elintarvikkeiksi kelpaavien tuotteiden viljelypolitiikkaa, koska kehityksemme on tältä osin yksinkertaisesti pysähtynyt. Olemme yrittäneet selviytyä tilanteesta useilla eri tavoilla. Olemme nyt kehittäneet bioöljyjä, joita voidaan käyttää vesiensuojelualueilla, kuten Bodensee-järvellä, sekä vapaa-ajanviettopaikoissa, joissa ympäristövahingot ovat suuria, jos näitä öljyjä ei käytetä. Mutta siihen se sitten jääkin. Tuotteiden markkinoinnissa ei ole päästy eteenpäin. Olemme harjoittaneet politiikkaa, jonka tunnuslauseena on ollut: vähän eteenpäin ja taas vähän taaksepäin. Tämän pitää muuttua tai muuten meille käy huonosti.
+<P>
+Kyse on lopuksi myös vilja- ja perunatärkkelystuotannon välisestä kilpailutilanteesta, jossa näillä kahdella tuotantoalalla on erilaiset tuotantokustannukset, joiden välisiä eroja pitää siksi myös tasata. Tilanne on siis yksinkertaisesti tämä, arvoisa komission jäsen. Meidän ei pidä rahoittaa ylijäämiä, vaan sijoittaa rahaa sinne, missä on vielä markkinoita ja joissa tuotteella on kysyntää. Seuraavaksi on alettava muokata Agenda-päätöksiä. Ne ovat vasta raakileita, joihin emme voi olla missään tapauksessa tyytyväisiä. Mutta parlamentin ja komission tehtävä onkin huolehtia hienosäädöstä ja käyttää ennen kaikkea hyväkseen niitä mahdollisuuksia, joita näillä markkinoilla on vielä olemassa, toisin kuin massatuotantotuotteiden kohdalla. Massatuotannon mahdollisuudet ovat rajalliset, joten meidän on etsittävä uusia mahdollisuuksia niiltä aloilta, joilla voimme myös tehdä jotakin ympäristön hyväksi, ja massatuotannossa sitä on tapahtunut aivan liian vähän. Siksi näitä vielä olemassa olevia mahdollisuuksia on hyödynnettävä.
+
+<SPEAKER ID=65 LANGUAGE="FR" NAME="Liikanen">
+Arvoisa puhemies, esitän vain kolme kommenttia tämän keskustelun perusteella.
+<P>
+Ensiksikin on totta, että eräiden erikoistuotteiden, kuten lysiinin, teollisuus joutuu vastaamaan yhä kasvavaan tuontiin, joka on peräisin etenkin Yhdysvalloista, jonka tuotanto kehittyy meitä voimakkaammin. Tämä tilanne ja Euroopan ulkopuolella mahdollisesti suoritetut investoinnit eivät johdu yhteisestä maatalouspolitiikasta. Vienti- ja tuotantotukea koskeva järjestelmä takaa korvauksen raaka-aineen maailmanmarkkinoiden ja unionin markkinoiden välisen hinnan erosta.
+<P>
+Muut maatalousnäkökohdan ulkopuoliset tekijät voivat vaikuttaa asiaan, kuten työvoimakustannukset, energiakustannukset, ympäristöä koskevat säännökset, markkinoiden läheisyys ja niin edelleen. Mittakaavatalous, siten kuin se saattaa syntyä esimerkiksi Yhdysvalloissa, jossa on hyvin suuria tuotantoyksiköitä ja jotka on toisinaan liitetty tärkkelysteollisuuden yhteyteen, voi tuottaa myös suhteellisia etuja.
+<P>
+Joissakin huomioissa on annettu ymmärtää, että tuen määrä ei ole riittävä. Komissio ei voi hyväksyä sitä, että summat olisivat riittämättömiä. Nykyinen tuki on hallintokomitean eilen tekemän päätöksen jälkeen 60 ecua tonnilta eli lähes 30 % raaka-aineen arvosta. Tämä merkitsee maailmanmarkkinahinnan ja yhteisön hinnan välisen eron tasoittumista.
+<P>
+Lopuksi on esitetty useita kysymyksiä yhteisestä maatalouspolitiikasta yleensä ja myös WTO: ssa käytävistä neuvotteluista. Jätän nämä kysymykset kollegoilleni Fischlerille ja Brittanille, jotka antavat teille sitten niihin vastauksen.
+
+<SPEAKER ID=66 NAME="Puhemies">
+Paljon kiitoksia, arvoisa komission jäsen Liikanen.
+<P>
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen.
+<P>
+Yhteinen päätöslauselmaesitys kasvivalkuaisten hankinnasta ja tärkkelysteollisuuden tilanteesta.
+<P>
+Parlamentti hyväksyi yhteisen päätöslauselman.
+
+<SPEAKER ID=67 LANGUAGE="SV" NAME="Sjöstedt ja Svensson">
+ Olemme äänestäneet päätöslauselmaesitystä vastaan, koska sen tarkoituksena on vastustaa joitakin osia jo sovitusta yhteisen maatalouspolitiikan uudistuksesta.
+
+<CHAPTER ID=6>
+Venetsia
+<SPEAKER ID=68 NAME="Puhemies">
+Esityslistalla on seuraavana yhteiskeskustelu seuraavista suullisista kysymyksistä:
+<P>
+Estevan Bolea, Malerba, Ligabue, Danesin ja Castagnetti, PPE-ryhmän puolesta B4-0156/99 komissiolle Venetsian kriisistä; -Ripa DI Meana GUE/NGL-ryhmän puolesta B4-0158/99 komissiolle Venetsian kriisistä; -Dell'Alba ARE-ryhmän puolesta B4-0160/99 komissiolle Venetsian kriisistä.
+<SPEAKER ID=69 LANGUAGE="ES" NAME="Estevan Bolea">
+Arvoisa puhemies, viime marraskuussa tutkimusta, teknologista kehittämistä ja energia-asioita käsittelevän valiokunnan jäsenistä koostuva ryhmä kävi Venetsiassa. Kuten aina, arvoisa puhemies, ihastuimme Venetsian vertaansa vailla olevaan kauneuteen, mutta huolestuimme myös kovasti sen valtavien ja yhä kasvavien ongelmien vuoksi.
+<P>
+Venetsia on keinotekoinen ympäristö, jonka ihminen on luonut keskelle laguunia mutta jota vaivaavat yhä vakavammat tulvasta johtuvat ongelmat, jotka ovat pohjimmiltaan aiheuttaneet Venetsian väestön vähenemistä. Tämä on se, mikä on huolestuttanut eniten minua itseäni, sillä kaupunkikeskus, joka on todellakin autioitumassa, muuttuu lopulta kauniiksi mutta kuolleeksi museoksi, taiteelliseksi asetelmaksi.
+<P>
+Vuonna 1951 Venetsian asukasluku oli 171 000. Nykyisin se on alle 60 000, ja suurin osa asukkaista - 25 % - on vanhuksia. Toisaalta kaupungissa on yli 10 000 tyhjillään ja huonossa kunnossa olevaa asuntoa, jotka pikku hiljaa rapistuvat.
+<P>
+Jotain on siis tehtävä Venetsian säilyttämiseksi moitteettomassa kunnossa.
+<P>
+Venetsia on maailmanperintökohde. Ensinnäkin se kuuluu venetsialaisille, Veneton maakunnalle, koko Italialle, joka on niin taiteellinen kaikkialla. Mitä olisivatkaan maailman museot ilman italialaisia taiteilijoita, jotka ovat täyttäneet ne mitä kauneimmilla teoksilla. Venetsia on juuri tätä.
+<P>
+On kuitenkin totta, että tarvitaan myös hyvin yksinkertaisia toimia. Nimenomaan teknologiset toimet eli sellaiset toimet, joihin tarvittavaa teknologiaa on saatavilla, ovat pääasiassa kiinnittäneet Euroopan parlamentin tutkimusta, teknologista kehittämistä ja energia-asioita käsittelevän valiokunnan huomion. Parlamentin jäsenet, voimistuvien tulvailmiöiden aiheuttamaa vedenpinnan nousua Venetsiassa on säännösteltävä. Emme voi välttää tulvaa - se on luonnollinen ilmiö - mutta siirrettäviä patoja voidaan kuitenkin rakentaa, ja lisäksi voidaan rakentaa maan alla kulkeva metro. Vaporetto-lautta on ainoa kulkuväline Venetsiassa, ja se aiheuttaa vakavia ympäristöhaittoja.
+<P>
+Pyydämme siis Euroopan unionilta, komissiolta ja Italian hallitukselta - jolta vaadimme painokkaasti - useita asioita.
+<P>
+Ensinnäkin pyydämme sitä, että rakennerahastojen tavoitteessa 2 määrärahoja kohdistetaan Venetsian erittäin tehokkaaseen kunnostamiseen, jotta ihmiset voisivat edelleenkin asua siellä. Ellei näin tehdä, Venetsia katoaa. Ilman ihmisiä ei ole mitään suojeltavaa eikä mitään, mitä pitäisi tehdä.
+<P>
+Toiseksi pyydämme sitä, että yrityksillä on oltava rohkeutta jatkaa läsnäoloaan ja tuotantoaan Venetsiassa paljon muita korkeimmilla kustannuksilla, että ne saavat verotukia ja että komissio peruuttaa ne sanktiot, joita se on alkanut langettaa sen vuoksi, että Italian hallitus on myöntänyt näitä tukia.
+<P>
+Venezia vuole vivere e deve vivere! Venetsia haluaa elää ja sen täytyy elää!
+
+<SPEAKER ID=70 NAME="Liikanen">
+Arvoisa puhemies, komissiolle toimitettiin tammikuun lopussa Italian viranomaisten huomautukset, joissa esitettiin muodollinen kanta asiaa C-81/97 koskevan menettelyn aloittamisesta Euroopan yhteisön virallisessa lehdessä 18. helmikuuta 1998 julkaistuun tiedonantoon. Menettely koski sosiaaliturvamaksujen kevennysten muodossa myönnettyä valtion tukea. Italian viranomaiset pyysivät viime vuoden joulukuussa päivätyllä Italian pysyvän edustuston kirjeellä, että vastaukselle asetettua määräaikaa jatkettaisiin tammikuun 15. päivään 1999. Venetsian ja Chioggian yritysten muodostama Venezia Vuole Vivere -ryhmä esitti huomautuksensa, jotka toimitettiin Italian hallitukselle. Komission yksiköt tutkivat parhaillaan näitä huomautuksia, jotka komissio ottaa huomioon myös lopullisessa päätöksessään. Asiaa koskeva päätös on tarkoitus tehdä toukokuun loppuun mennessä.
+<P>
+Venetsian kuulumisesta 92 artiklan 3 kohdan c alakohdan poikkeuksien soveltamisalaan voidaan todeta, että jäsenvaltion tehtävänä on ilmoittaa ne alueet, jotka valtio toivoo sisällytettäväksi aluekarttaan. Komissio tutkii sen jälkeen jäsenvaltioiden ehdotukset. Italian viranomaiset ovat kuitenkin ehdottaneet vain osaa Venetsiasta 92 artiklan 3 kohdan c alakohdan mukaiseksi alueeksi. Tämän alueen tukikelpoisuus on hyväksytty 30. kesäkuuta 1997 tehdyllä komission päätöksellä.
+<P>
+Venetsian sisällyttämisestä tavoitteeseen 2 voidaan puolestaan todeta, että rakennerahastojen uuden tavoitteen 2 toimeenpanoa kaudella 2000-2006 koskevassa komission ehdotuksessa säädetään komission ja jäsenvaltioiden jaetusta vastuusta tukikelpoisten alueiden määrittelyssä. Kun neuvosto on hyväksynyt rakennerahastoja koskevat yleiset säännökset sisältävän asetuksen, jokaisen jäsenvaltion on ehdotettava komissiolle niitä kyseisessä asetuksessa vahvistetut edellytykset täyttäviä alueita, joiden se katsoo olevan heikoimmassa asemassa. Näiden ehdotusten perusteella ja tiiviissä yhteistyössä kyseisen jäsenvaltion kanssa komissio vahvistaa tavoitteen 2 mukaisten alueiden luettelon.
+<P>
+Veden korkeutta - aqua alta - Venetsiassa koskeva ongelma vaatii ratkaisuja, joissa on otettava huomioon laguunin ekosysteemin erityispiirteet. Italian viranomaisten tehtävänä onkin löytää sopivin ratkaisu tähän ongelmaan.
+
+<SPEAKER ID=71 NAME="Puhemies">
+Kiitoksia, arvoisa komission jäsen Liikanen!
+<P>
+Ilmoitan vastaanottaneeni työjärjestyksen 37 artiklan 2 kohdan mukaisesti viisi päätöslauselmaesitystä.
+<P>
+Äänestys toimitetaan heti keskustelun päätyttyä.
+
+<SPEAKER ID=72 LANGUAGE="IT" NAME="Malerba">
+Arvoisa puhemies, kuten Bolea sanoi, Venetsia on osa maailman taide- ja kulttuuriperintöä. Me kaikki ajattelemme niin, ja myös Unesco on tunnustanut tämän virallisesti. Olen varma, että kaikki kollegat tuntevat Venetsian ja että jotkut eivät koskaan kyllästy siellä vierailemiseen. Venetsian laguunialue - luulen, että kaikki tietävät tämän - on hyvin erikoislaatuinen hydrogeologinen ympäristö, jossa vallitsee herkkä tasapaino, jota rannikolla 1960- ja 70-luvuilla tapahtunut teollinen kehitys on vielä muuttanut.
+<P>
+Tulvailmiö, silloin kuin se tulee, peittää alleen noin puolet historiallisesta keskustasta. Tämä tapahtuu nykyään kymmenisen kertaa vuodessa ja aiheuttaa yhä suurempia hankaluuksia asukkaille ja sitäkin enemmän Venetsian laguunialueen, kaupungin saariosan, taloudelliselle toiminnalle.
+<P>
+Venetsia tekee kuolemaa, sanotaan, ei niinkään siksi, että se hukkuu veteen - tämä tapahtuu onneksi hyvin hitaasti - vaan siksi, että se tyhjenee ihmisistä, mikä tapahtuu hyvin nopeasti. Yritykset, jotka eivät ole tekemisissä matkailun kanssa ja jotka tarjoavat korkean lisäarvon tuottavaa työtä, sijoittuvat mantereelle, jotta ne eivät joutuisi kärsimään Venetsian laguunialueen hankalien kulkuyhteyksien aiheuttamista vaikeuksista. Kuitenkin Venetsian laguunialueella on ollut - ja osittain on edelleen - perinne saastuttamattoman ja palveluihin liittyvän huipputeknologian teollisuuden saralla.
+<P>
+Valitettavasti on kuitenkin ilmeistä, että Venetsian laguunissa toimivat yritykset jäävät laguunialueelle vain, jos niille myönnetään suoria vero- ja talouskannustimia. Italian hallitus on noudattanut tätä politiikkaa osin vaihtelevalla menestyksellä, mutta minusta vaikuttaa, että nyt komissio kritisoi tätä lähestymistapaa.
+<P>
+Olen tyytyväinen kuultuani, että komission jäsen Liikanen tunnustaa sen, että jäsenvaltiolla on tietyssä mielessä viimeinen sana tässä politiikassa, mutta pelkään leikkauksia, joita kilpailusta vastaava PO IV tapaa kohdistaa valtion tukiin.
+<P>
+Tästä ovat meille kertoneet Venetsian hallintovirkamiehet, kun eräs valtuuskuntamme kävi tapaamassa heitä. Uskon, että meidän ei kannata osallistua asiantuntijoiden keskusteluun niistä erityisvaihtoehdoista, joista voisi löytyä ratkaisu tulvaongelmaan, mutta katson, että Venetsiaa on pidettävä alueena, jossa on erityisiä ongelmia ja jossa tarvitaan kaikenlaista tukea ja huolenpitoa, jolla pyritään säilyttämään kulkuyhteyksin varustettu taloudellinen toimintaympäristö.
+
+<SPEAKER ID=73 LANGUAGE="IT" NAME="Fassa">
+Arvoisa puhemies, arvoisa komission jäsen, arvoisat kollegat, on tietyssä mielessä miltei kummallista, että parlamentin täytyy käsitellä jotain niin itsestään selvää asiaa kuin Venetsian kaupungin suojelemista. Jo monet ovat sanoneet tämän: Venetsia on kaupunki, joka on osa ihmiskunnan perintöä ja joka sijaitsee keskellä hyvin herkkää, ihmisten luomaa ekosysteemiä. Tähän ensimmäiseen seikkaan haluaisin keskittyä hetkeksi. Venetsian antiikin aikaisen johtavan luokan onnistui luoda lähes ainutlaatuinen kehitysmalli. Sen onnistui, uskomattomin voimainponnistuksin, varjella epävakaata ekosysteemiä vuosisatojen ajan. Sen onnistui aluksi kehittyä kaupan alalla, ja sen jälkeen sen onnistui tehdä Venetsian kaupungista maailman kulttuurin tärkeä keskus, jossa sai alkunsa esimerkiksi nykyaikainen julkaisutoiminta ja jossa nautittiin aina paljon laajemmista kansalaisvapauksista ja poliittisista oikeuksista kuin naapurialueilla.
+<P>
+Näin ollen se, että Euroopan nykyisen johtavan luokan on tarkasteltava tätä aihetta ja yritettävä voittaa siihen liittyvät vaikeudet, vaikuttaa tietyssä mielessä lähes huolestuttavalta. Yhteisön säännöt on luotu kehityksen tukemiseksi eikä sen estämiseksi. Yhteisön sääntöjä ei voi soveltaa kaikkialla liian järkiperäisesti, aivan kuin Euroopan unioni merkitsisi pelkkää suoraviivaista yhdenmukaisuutta. On selvää, että Venetsialle annettava valtion tuki ei ole sama asia kuin mille tahansa muulle Euroopan unionin alueelle annettava valtion tuki: sillä varjellaan perintöä, joka on meidän, jota me emme ole luoneet, jonka me olemme perineet ja jonka välittäminen tuleville sukupolville juuri tästä syystä on selkeä velvollisuutemme.
+<P>
+Myös teollisen kehityksen näkökulmasta on tehty virheitä, joihin on syyllistynyt myös Italian hallitus: on todettu varmasti, että Porto Margheran petrokemian alan yrityksen kehittäminen on horjuttanut laguunialueen herkkää tasapainoa, mutta - kuten myös puheenjohtajaehdokas Prodi sanoi - jos haluamme Euroopan, joka on uuden yritystoiminnan kärjessä, meidän tehtävämme on toimia niin, että Venetsia on yksi tämän uuden yritystoiminnan keskeisistä kehityskeskuksista.
+<P>
+Suosionosoituksia
+
+<SPEAKER ID=74 LANGUAGE="NL" NAME="Aelvoet">
+Arvoisa puhemies ja arvoisat kollegat, Venetsia mahtavine perintöineen kamppailee asukaspaon ja massaturismin kynsissä, ja tulvat uhkaavat sitä säännöllisin väliajoin. Koko laguuni on pahasti saastunut, ja Venetsian mantereen puolella sijaitseva teollisuus koostuu pääasiassa valtavista kemian alan yrityksistä, jotka kuormittavat ympäristöä erittäin pahasti. Vihreiden mielestä kaikkiin näihin ongelmiin täytyy puuttua koordinoidusti sekä kansallisella että kansainvälisellä tasolla. Tämä tarkoittaa, että täytyy edistää sellaista taloudellista kehitystä, joka säästää laguunia ja historiallisia rakennuksia. Siksi kannatamme Porto Margheran petrokemian alan yrityksen muuttamista ympäristöystävälliseksi ja tuemme myös sydämestämme Italian hallituksen päätöstä Mose-hankkeen muuttamisesta. Tämä on tavallaan kaupungin joustavaa suojelua.
+<P>
+Haluaisin tässä yhteydessä pyytää kollegoita kiinnittämään huomiota Dell'Alban tarkistukseen, jossa pyydetään harkitsemaan Italian hallituksen päätöstä uudelleen. Se olisi täysin kielteinen merkki, ja silloin oikeastaan pidettäisiin kiinni lähestymistavasta, joka ei varmastikaan liity ongelman ytimeen. Siksi pyydän, että ette tosiaan tue tätä Dell'Alban tarkistusta.
+<P>
+Haluamme, että Venetsiasta voi tulla paikka, jossa tapahtuu innovatiivista ja kestävää kaupunkikehitystä, ja tässä asiassa Euroopan komissio on laatinut hyviä toimintaehdotuksia, joiden täytyy edistää kestävää kaupunkikehitystä EU: ssa. Tärkeimpiä tekijöitä tässä ovat verotukselliset kannustimet asuntojen restauroinnille luonnollisesti erityisehtoineen Venetsian kaltaisten herkkien alueiden tapauksessa. Tarvitaan myös verotuksellisia kannustimia pienille ja keskisuurille yrityksille, jotka turvaavat kaupungin työllisyyden ilman ylikuormitusta, ja kestäviä matkailumalleja, jotka voivat sisältää sellaisia järjestelyjä, että tiettyinä sesonkikausina pääsyä kaupunkiin rajoitetaan, sekä toimenpiteitä, joilla tuetaan paikallista taloutta, joka perustuu sekä luonnon resurssien että kaupungin historiallisen perinnön kestävään käyttöön.
+
+<SPEAKER ID=75 LANGUAGE="IT" NAME="Santini">
+Arvoisa puhemies, monet eri maista tulevat ulkomaiset kollegat eivät vain puhu Venetsiasta vaan ovat myös siitä huolissaan. Tämä on kaikkein elävin ja konkreettisin todiste siitä, minkä Unesco totesi, eli että Venetsia on osa ihmiskunnan maailmanlaajuista perintöä.
+<P>
+Venetsia kuuluu varmasti koko ihmiskunnalle, kun otetaan huomioon, että jos kiertää sen kujia ja siltoja, kahdeksan kymmenestä vastaantulijasta on turisteja, ja seitsemän heistä lisäksi ulkomaalaisia. Nämä turistit valtaavat Venetsian, käyttävät sen palveluja ja kuluttavat sen rakenteita, usein vain yhden päivän ajan, jolloin venetsialaisten saamat tulot, tuotto, ovat varsin pienet. On siis oikein, että tämä monimuotoinen ihmiskunta alkaa kantaa huolta myös näiden hyödykkeiden suojelusta sekä kustannuksista, joita niiden puolustamisesta ja varjelusta aiheutuu. Miten tämä on mahdollista paitsi maksamalla välillisiä veroja vähistä päivittäiskulutushyödykkeistä? Yhteisö - jos rohkenen esittää konkreettisia ehdotuksia - voi toteuttaa ainakin kolme toimenpidettä, ja sitten on komission ja jäsenvaltion, siis Italian, tehtävä löytää oikeudelliset ja taloudelliset välineet.
+<P>
+Ensinnäkin voisimme kannattaa Life-ohjelman budjettikohdasta rahoitettavaa väliaikaista hanketta tulvaongelman ratkaisemiseksi: ongelma ei ole uusi, mutta se vahingoittaa aina vain enemmän Venetsiaa. Toinen ehdotus: tehdään päätös Venetsian sisällyttämisestä tulevaan tavoitteeseen 2, jossa käsitellään taantuvien kaupunkialueiden kehittämistä. Kolmas ehdotus: sallitaan Italian hallituksen kanssa sovittavat poikkeukset perustamissopimuksen valtion tukea koskevasta 92 artiklasta verohelpotusten ja kannustimien sallimiseksi kaikille yrittäjille, jotka käynnistävät - tai aikovat tulevaisuudessa käynnistää - ja ylläpitävät aktiivisia aloitteita, joilla voidaan taata työllisyys sekä ennen kaikkea kantaväestön elämä Venetsiassa.
+<P>
+Olen kuullut puhuttavan aloitteista, joilla Venetsia voidaan muuttaa uudeksi malliasuinalueeksi. Se ei ole tarpeen: riittää, kun pelastetaan ne laguunialueen 10 000 taloa, jotka ovat tällä hetkellä tyhjillään ja tuhoutumassa. Kaikille riittää siis töitä!
+
+<SPEAKER ID=76 NAME="Puhemies">
+Kiitoksia, parlamentin jäsen Santini!
+<P>
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen.
+
+<SPEAKER ID=77 LANGUAGE="NL" NAME="Aelvoet">
+Arvoisa puhemies, halusin vain sanoa, että ryhmäni aikoi äänestää puolesta, mutta Dell'Alban tarkistuksen vuoksi, jota erityisesti vastustimme, katsoimme kuitenkin velvollisuudeksemme äänestää loppujen lopuksi vastaan.
+<P>
+Parlamentti hyväksyi yhteisen päätöslauselmaesityksen.
+
+<CHAPTER ID=7>
+Istuntokauden keskeyttäminen
+<SPEAKER ID=78 NAME="Puhemies">
+Julistan Euroopan parlamentin istuntokauden keskeytetyksi.
+<P>
+Istunto päättyi klo 11.20.
+

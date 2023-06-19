@@ -1,0 +1,12 @@
+<CHAPTER ID="001">
+Istunnon avaaminen
+<P>
+(Istunto avattiin klo 9.05.)
+<SPEAKER ID="004" NAME="Puhemies">
+Hyvä jäsen Carnero González, pyydätte puheenvuoroa. Oletan, että kyseessä on työjärjestyspuheenvuoro. Minkä artiklan nojalla haluatte käyttää puheenvuoron?
+<SPEAKER ID="005" NAME="Carlos Carnero González" AFFILIATION="PSE">
+(ES) Arvoisa puhemies, halusin vain mainita tiedotusvälineiden raportin, jonka mukaan tänä aamuna joukko aseistettuja miehiä sieppasi Gazassa espanjalaisen Euroopan kansalaisen Emilio Morenattin. Pyydän teitä vetoamaan neuvoston puheenjohtajavaltioon ja komissioon, että ne tekisivät kaiken voitavan...
+<P>
+(Puhemies keskeytti puhujan.)
+<SPEAKER ID="006" NAME="Puhemies">
+Tämä ei ole työjärjestyspuheenvuoro. Ymmärrän huolenne, mutta työjärjestystä on noudatettava. Otan asianmukaisesti huomioon sen, mitä sanoitte.

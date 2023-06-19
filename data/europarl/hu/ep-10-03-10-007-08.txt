@@ -1,0 +1,6 @@
+<CHAPTER ID="007-08">
+8. Rendelet az általános preferenciális rendszer alkalmazásáról (szavazás) 
+<SPEAKER ID="106" NAME="Yannick Jadot" LANGUAGE="FR">
+Elnök úr, szeretnék egy szóbeli módosítást előterjeszteni ehhez a módosításhoz, a módosítás két részének törlését javaslom, nevezetesen a "kolumbiai hadsereg által” és a "Kolumbiával kapcsolatban” szavak törlését.
+<P>
+A módosítás tehát így hangzana: "úgy ítéli meg, hogy a kolumbiai szakszervezeti tagok meggyilkolásával kapcsolatos riasztó hírek, valamint a nemrégiben érkezett, és Kolumbia ügyésze által most megerősített hírek, miszerint La Macarena régióban olyan tömegsírokat fedeztek fel, amelyek az elmúlt években megölt emberek százainak holttestét tartalmazzák, elégséges bizonyíték ahhoz, hogy a Bizottság nyomozást indítson a rendelet értelmében.”

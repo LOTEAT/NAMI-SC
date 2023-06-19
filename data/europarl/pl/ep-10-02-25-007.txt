@@ -1,0 +1,6 @@
+<CHAPTER ID="007">
+Głosowanie
+<SPEAKER ID="100" NAME="Przewodniczący">
+Kolejnym punktem porządku dziennego jest głosowanie.
+<P>
+(Szczegółowe wyniki głosowania: patrz protokół)

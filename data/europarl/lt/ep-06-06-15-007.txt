@@ -1,0 +1,2 @@
+<CHAPTER ID="007">
+Darbo tvarkos taisyklių aiškinimas (žr. protokola)

@@ -1,0 +1,6 @@
+<CHAPTER ID="003">
+Puhemiehen ilmoitus: ks. pöytäkirja
+<SPEAKER ID="007" NAME="Puhemies">
+(EL) Ilmoitan parlamentin jäsenille, että tämän istuntojakson aikana täysistunnossa on läsnä erikoislaitteistoja käyttäviä kuvausteknikoita. He tallentavat keskustelut ja äänestykset parlamentin työskentelyä kuvaavaa 360 asteen panoraamaesitystä varten.
+<P>
+Kuvattu aineisto esitetään parlamentin työtä esittelevässä pysyvässä näyttelyssä istuntosalin interaktiivisen mallin avulla Brysselin uudessa vierailijakeskuksessa. Minulle vakuutettiin, että teknikot toimivat äärimmäisen huomiota herättämättömästi eivätkä häiritse työtämme. Kiitos ymmärtäväisyydestänne.

@@ -1,0 +1,242 @@
+<CHAPTER ID="016">
+Uporaba odpadnih olj, ki vsebujejo PCB, v obratu za recikliranje gospodinjskih odpadkov na Irskem (razprava) 
+<SPEAKER ID="369" NAME="Predsednica">
+Naslednja točka je izjava Komisije o uporabi odpadnih olj, ki vsebujejo PCB, v obratu za recikliranje gospodinjskih odpadkov na Irskem.
+<SPEAKER ID="370" NAME="Androulla Vassiliou">
+članica Komisije. - Gospa predsednica, Komisija se popolnoma zaveda visokega tveganja polikloriranih bifenilov (PCB) za zdravje ljudi in okolje.
+<P>
+Incidenti, kot sta bila v Belgiji leta 1999 in na Irskem lani, so ponovno dokazali, da lahko celo majhne količine PCB povzročijo resno kontaminacijo krmne in prehranjevalne verige.
+<P>
+V zadnjih treh desetletjih je EU vzpostavila zakonodajo za zmanjšanje izpusta PCB in dioksinov v okolje, z namenom zmanjševanja izpostavljenosti ljudi ter varstva zdravja ljudi in okolja.
+<P>
+Ker pa ima oprema, ki vsebuje PCB, običajno dolgo življenjsko dobo, ostaja, kljub prepovedi uporabe PCB leta 1985, v uporabi še veliko te opreme, kar predstavlja enega izmed možnih virov izpostavljenosti ljudi.
+<P>
+Direktiva Sveta 96/59/ES z dne 16. septembra 1996 o odstranjevanju polikloriranih bifenilov in polikloriranih terfenilov (PCB/PCT) zagotavlja ustrezne načine, s katerimi je mogoče čim prej varno odstraniti opremo in odpadke, ki vsebujejo PCB, in veliko opremo še pred koncem leta 2010.
+<P>
+Vseeno pa ostajajo še znatne vrzeli pri popolnem izvajanju te zakonodaje. Komisija je morala sprožiti postopke za ugotavljanje kršitev proti večini držav članic v zvezi z obveznostjo vzpostavitve seznamov velike opreme, ki vsebuje PCB in načrtov za varno odstranitev PCB.
+<P>
+Zaradi teh postopkov za ugotavljanje kršitev se je splošno stanje izboljšalo. Trenutno tečeta le še dva takšna primera, vendar bosta kmalu zaključena.
+<P>
+Vse države članice so posredovale načrte glede dekontaminacije in/ali varne odstranitve popisane opreme in PCB, ki ga vsebujejo, ter za zbiranje in naknadno varno odstranjevanje opreme, ki vsebuje manj kot pet kubičnih decimetrov PCB (kot določa člen 11 direktive).
+<P>
+Kljub temu so potrebni dodatni napori. Da bi bilo mogoče zagotoviti učinkovitost načrtov za varno odstranjevanje PCB, bodo morale države članice dodatno izboljšati izvajanje obstoječe zakonodaje o PCB in evropske zakonodaje o odpadkih na splošno.
+<P>
+Komisija vse večjo pomembnost namenja ustreznemu izvajanju zakonodaje EU s področja odpadkov in aktivno podpira države članice pri boljšemu izvajanju njihove nacionalne zakonodaje na področju odpadkov.
+<P>
+Uredba št. 183/2005 o zahtevah glede higiene krme določa minimalne zahteve glede higiene krme, ki veljajo vse od primarne pridelave krme (na nivoju kmetije), pridelave, predelave in distribucije, do mesta krmljenja živali.
+<P>
+Nosilci dejavnosti poslovanja s krmo morajo vzpostaviti, izvajati in vzdrževati postopke, ki temeljijo na načelih HACCP. To pomeni prepoznavanje kritičnih kontrolnih točk in prepoznavanje, med drugim, možne kemične kontaminacije pri uporabi neposrednih postopkov segrevanja suhih sestavin krme.
+<P>
+Odgovornost za delovanje v skladu s temi zahtevami nosijo nosilci dejavnosti poslovanja s krmo, čeprav morajo ustreznost ukrepov, ki jih vzpostavijo ti nosilci, preveriti pristojni organi držav članic. V večini primerov se mora to opraviti z obiskom mesta samega.
+<P>
+Poleg tega morajo države članice v skladu s splošnimi načeli organizacije uradnega nadzora, določenimi v uredbi o uradni kontroli živil in krme, zagotoviti, da se nadzor izvaja redno na podlagi tveganja in dovolj pogosto. Ta uradni nadzor mora vključevati nadzor poslovanja s krmo.
+<P>
+Vloga Komisije je določena v členu 45 Uredbe (ES) št. 882/2004 o izvajanju uradnega nadzora. Strokovnjaki Komisije opravljajo preglede pri pristojnih organih v državah članicah, da bi tako preverili ali nadzor poteka v skladu z zakonodajo Skupnosti.
+<P>
+V skladu s tem členom je bila leta 2008 na Irskem opravljena splošna revizija v številnih sektorjih in poročilo o tem bo kmalu na voljo. Seznam ustanov, ki bodo revidirane, skupaj pripravijo nacionalni pristojni organi in revizorji UPV.
+<P>
+Načrt, ki je bil omenjen v vprašanju, ni eden izmed tistih, ko so bili pregledani leta 2008 v sklopu splošne revizije.
+<P>
+V incidentu kontaminacije z dioksinom na Irskem, je bilo ugotovljeno, da so bile vir kontaminacije krušne drobtine, ki so se uporabljale kot krma za živali. Krušne drobtine so bile narejene iz pekarskih odpadkov (piškoti s pretečenim rokom uporabnosti), ki se sušijo z neposrednim postopkom segrevanja. Pri neposrednem postopku segrevanja so zgorevalni plini v neposrednem stiku s sestavinami krme. Očitno je bilo uporabljeno gorivo kontaminirano s transformatorskim oljem, ki je vsebovalo PCB. Ustrezne odgovornosti različnih akterjev, od proizvajalca krušnih drobtin do dobavitelja goriva, bodo ugotovljene s pravno preiskavo, ki že poteka.
+<P>
+Rada bi poudarila velik pomen sprejetja celovitega pristopa k razvrščanju tveganj, ki vsebuje morebitna tveganja, ne le v zvezi z naravo vhodnih sestavin, v tem primeru krušnih drobtin, ampak tudi s postopkom samim.
+<SPEAKER ID="371" NAME="Mairead McGuinness">
+v imenu skupine PPE-DE. - Gospod predsednik, rada bi se zahvalila Komisiji za zelo podrobno izjavo glede te teme.
+<P>
+Razlog, da nocoj razpravljamo o tem, je ta, da se poskušamo nekaj naučiti iz teh dogodkov in poskrbeti, da se ne bodo več ponovili. Težava je v tem, da smo leta 1999, ko smo ugotovili težavo v Belgiji, mislili, da smo dovolj zaostrili pravila in da se takšen incident ne bo več ponovil. Sedaj pa smo se znašli v tem in se dobro zavedamo posledic napak v sistemu, ne samo s stališča denarja - čeprav je to zelo pomembno za Evropsko unijo, za irsko državno blagajno, za davkoplačevalce - ampak tudi zaradi pomanjkanja zaupanja med potrošniki in škode, ki jo je na splošno utrpel irski sektor pridelave živil na trgih.
+<P>
+Vesela sem, da je sedaj prišlo do napredka in da ponovno pridobivamo na ugledu na mednarodnem trgu, hkrati pa se močno zavedam, da se zaradi irskih težav kmetje po celi Evropski uniji prav tako soočajo s problemi. Zaradi tega menim, da se današnja razprava ne nanaša le na Irsko. Iz vaše izjave je jasno, da se lahko ta problem, do katerega je prišlo na Irskem, ponovi tudi v drugih državah članicah. Menim, da bi prav to moralo biti izhodišče te razprave.
+<P>
+Vemo, da to olje ne bi smelo priti v krmno verigo. Ugotoviti skušamo, kako se je to zgodilo in - kot ste pravilno povedali - gre za predmet policijske preiskave, ki pa ima še čezmejno razsežnost. Upam, da nam bo uspelo ugotoviti točen potek dogajanja, da bi se s tem lahko izognili podobnim dogodkom.
+<P>
+Hkrati pa se pojavlja drugo vprašanje, ki ste ga omenili, in sicer, kako ravnamo z odpadnimi ali presežnimi živili. Trenutno je moderna reciklaža. To vsi podpiramo, saj si vsi prizadevamo za ekološko sprejemljivost in trajnost. Obstajata torej dve vprašanji: zlasti gre za vprašanje recikliranja olj - katerega ste se že dotaknili - in temu vprašanju je treba nameniti večjo pozornost, ne le zaradi PCB, ampak tudi na splošno, v zvezi z zbiranjem, distribucijo in ravnanjem z odpadnimi olji, čeprav še posebno skrb vzbujajo PCB.
+<P>
+V zvezi s presežnimi živili - ali odpadnimi živili, kot jih včasih poimenujemo - se moje stališče glasi, da je uporaba teh izdelkov v krmni verigi zelo pomembna, hkrati pa želim zelo jasno povedati, da če ne moremo zagotoviti njihove varnosti in načina, kako so predelana in se z njimi ravna, se bojim, da bomo morali prepovedati njihovo uporabo v krmni in prehranjevalni verigi.
+<P>
+Ne želim, da bi se to zgodilo, prav tako pa si ne želim, da bi se ponovili dogodki, podobni dogodkom na Irskem, in povezane posledice. Ta odpadna in presežna živila želimo uporabiti zaradi njihove dobre kakovosti, ne pa zardi tega, ker bi krmna veriga predstavljala ustrezno odlagališče - menim, da gre tu za pomembno stališče.
+<P>
+Prav tako moramo zelo odprto spregovoriti o celotnem vprašanju mešanja krme za živali. Kmetje radi kupujejo sestavine in sami mešajo krmo, zlasti to počnejo na večjih kmetijah. To je primerno, če imamo trden nadzor nad tem. Razumem, da se redno izvajajo kontrole, vendar pa je v tem primeru očitno prišlo do pomanjkljivosti pri preverjanju na trgu. Kmetje, ki so jih zasačili pri kršitvah in so bili kaznovani, ker so uporabljali ta izdelek, so mi večkrat prigovarjali: "Zakaj ni nihče prišel in preveril, kaj vse je prišlo na naše dvorišče?"
+<P>
+Glede vprašanja z uredbo verjamem, da so vzpostavljeni zelo strogi nadzori nad nosilci dejavnosti poslovanja s krmo z izdanim dovoljenjem - industrija sestavljene krme Evropske unije -, ki so posledica praks iz preteklosti, ki smo jih morali zaostriti.
+<P>
+Občutek imam, da v državah članicah skladnost še posebno strogo urejamo, hkrati pa ne pazimo na morebitne kršitve. Razmišljamo zelo omejeno. Mogoče obstaja celo nagnjenost k temu, da, ko je opravljeno preverjanje ustreznosti dokumentov in so škatle odkljukane, vse skupaj opustimo in ne pogledamo, kaj se skriva pod površino.
+<P>
+Menim, da moramo še enkrat pregledati uredbo. Še enkrat jo bomo pregledali v finančnem sektorju, ponovno pa jo moramo pogledati tudi v prehrambenem sektorju. Prav tako menim, da kmetije na inšpektorje gledajo kot na utelešenje hudiča, ko vstopajo na kmetije. Zakaj kmetje inšpektorjev ne sprejmejo z odprtimi rokami in na njih gledajo kot zaščitnike njihovega posla?
+<P>
+Mislim, da moramo sedaj na osnovi te izkušnje spremeniti miselnost v celotni prehranjevalni verigi. Še zlasti pozdravljam objavo združenja irskih kmetov, ki bodo vzpostavili delovno skupino za živila. Zadnji čas, da kmetje prevzamejo del nadzora nad prehranjevalno verigo, v kateri predstavljajo prvi člen.
+<P>
+Vprašanje poceni sestavin sedaj ni najprimernejše, vendar pritisk na pridelovalce, da bi pridelovali čim ceneje, predstavlja del tega vprašanja in ga bo treba obravnavati.
+<SPEAKER ID="372" NAME="Proinsias De Rossa">
+v imenu skupine PSE. - Gospa predsednica, v zvezi s tem vprašanjem imam številne pripombe in seveda se ne strinjam popolnoma z gospo McGuinness glede tega, da "ne gre za Irsko". Seveda gre za Irsko. Gre za najnovejši škandal v zvezi s tveganji na področju prehrane.
+<P>
+Varstvo človekovega zdravja mora biti glavna skrb pri tem vprašanju in pri tem govorimo o izvajanju direktive iz leta 1996. Žal je bila Irska ena izmed tistih držav članic, ki jih je bilo treba prisiliti z grožnjami o pravnem sporu, da so dejansko začele z izvajanjem te direktive, pet let kasneje, leta 2001. Zdi se, da postopek za izvajanje še vedno poteka in da so nadzorni postopki, ki so namenjeni zagotavljanju skladnosti, precej šibki. Glede na to, kar sem prebral o tem, najbolj preseneča pomanjkanje informacij o tem, kaj se je točno zgodilo v tem konkretnem primeru kontaminacije svinjine. Zdi se, da vpletena tovarna, ki je izdelovala krmo, ni bila pregledana že nekaj časa.
+<P>
+Prav tako moram povedati - in prepričan sem, da bi bila vlada presenečena, če bi me slišala -, da je bila sprejeta prava odločitev glede takojšnje zaustavitve distribucije in umika svinjine s prodajnih polic. Seveda so bili prizadeti številni nedolžni proizvajalci, mesarji in drugi, ki so zagotavljali skladnost: 90 % ali več izdelkov sploh ni bilo kontaminiranih. Vpletena tovarna je oskrbovala le približno 10 prodajaln, tako da je v tem primeru šlo za velik ukrep, ki pa je bil primeren. Prizadevati si moramo, da bodo javnost in potrošniki lahko popolnoma prepričani, da so živila, ki jih kupujejo v supermarketih, v lokalnih trgovinah, neoporečna. Če ne bomo izvedli takojšnjih in korenitih ukrepov, s katerimi bi to zagotovili, potem menim, da smo premalo odgovorni.
+<P>
+Za komisarko imam dve vprašanji. Eno je, kot sem že povedal, da tukaj govorimo o izvajanju direktive iz leta 1996. Ali ni to zadosten razlog, da ponovno pregledamo to direktivo? Ali so standardi, ki so bili določeni v tej direktivi, sedaj ustrezni ali neustrezni? Ali si ne bi morali močneje prizadevati, da bi PCB hitreje spravili iz obtoka, kot je to predvideno, zlasti zaradi zamude pri dejanskem izvajanju direktive s strani številnih držav članic?
+<P>
+Moje drugo vprašanje se nanaša na načrt upravljanja, ki ga je Agencija za varstvo okolja na Irskem brez zadržkov pripravila v letu 2008, v katerem govori o kodeksu prakse, ki se uporablja tudi v načrtu, o upravljanju PCB in opreme v uporabi, ki vsebuje PCB. Rad bi vedel ali je kodeks prakse res v skladu z direktivo. Ali si ne bi morali prizadevati za strožjo uporabo pravil v zvezi z upravljanjem PCB? Nisem zagovornik tega, da se obtoži vsakega, ki tu in tam prekrši pravilo, vseeno pa menim, da bi morale, kadar gre za vprašanje varnosti živil, biti vzpostavljene kazenske sankcije za tiste, ki brezskrbno zlorabljajo svojo položaj.
+<SPEAKER ID="373" NAME="Liam Aylward">
+v imenu skupine UEN. - Gospa predsednica, Irska industrija svinjskega mesa igra bistveno vlogo v irskem agroživilskem sektorju. Ta industrija je ocenjena na približno 1 milijardo EUR in neposredno ali posredno zaposluje 10 000 ljudi.
+<P>
+Glede na trenutno gospodarsko ozračje in vse višje stroške živil, je ključnega pomena, da storimo vse za ohranitev irskega sektorja svinjskega mesa, ki deluje v skladu z najvišjimi standardi Evropske unije in mednarodnimi standardi.
+<P>
+Z ugotovitvijo vsebnosti dioksinov v količinah, ki presegajo najnižji prag, v vzorcu svinjske masti v skladu z nacionalnim programom spremljanja ostankov, je bilo mogoče hitro ugotoviti, da je vir kontaminacije tovarna za proizvodnjo krme. Čeprav je vsaka kontaminacija naših živil vedno obžalovanja vredna, je ta incident pokazal na visoko raven nadzora nad varnostjo živil, ki so ga vzpostavili irski organi za zagotavljanje celovitosti prehranjevalne verige. Z drugimi besedami, nadzor je bil učinkovit.
+<P>
+Zato bi rad pozdravil uspešnost in hitrost ukrepanja s strani irske vlade in Oddelka za kmetijstvo v zvezi z odločitvijo o odpoklicu vseh izdelkov. Evropski in mednarodni trgi so se na to odločitev zelo dobro odzvali, prav tako pa tudi Evropska komisija. Kaže na to, kako resno kot država obravnavamo zadeve, povezane z varnostjo živil, istočasno pa smo lahko doma in v tujini ohranili ugled kot narod, ki proizvaja kakovostna živila.
+<P>
+Irski potrošniki so ponovno začeli kupovati svinjino, ko je ponovno prišla na police supermarketov, prav tako pa je prišlo do hitre obnovitve trgovine z večino evropskih in mednarodnih trgov. Seveda bo treba opraviti še dodatno delo, da bi bilo mogoče obnoviti trgovanje v celoti, na primer v obliki razširjenih oglaševalskih kampanj in tako dalje.
+<P>
+Odboru za kmetijstvo Oireachtas bi rad čestital za obširno preiskavo incidenta z dioksinom, ki je vključevala številna zaslišanja, med drugim tudi državnih organov, državnih agencij in predstavnikov industrije svinjine. Prav tako me veseli, da Oddelek za kmetijstvo izvaja dodatno preiskavo, ki jo vodi v evropskih krogih zelo dobro poznana oseba, profesor Patrick Wall.
+<SPEAKER ID="374" NAME="Friedrich-Wilhelm Graefe zu Baringdorf" LANGUAGE="DE">
+Gospa predsednica, komisarka, v irskem primeru je to s pomočjo inšpekcij vsaj bilo ugotovljeno. Pred desetimi leti se je v Belgiji zgodilo veliko primerov zelo hitro. V obeh primerih se govori v nesrečah, ki naj bi se zgodile, vendar niso bile nikoli dokazane. Po 10 letih je primer v Belgiji sedaj zaključen. Ena oseba je bila pogojno obsojena na eno leto in pol. Vendar pa še vedno ni jasno, kako je snov prišla v izdelke. Zaradi tega lahko še naprej predvidevamo, da so bile strupene snovi namerno primešane v krmo, in sicer z namenom, da bi bilo mogoče znižati stroške odstranjevanja odpadkov. Zaradi tega je nekdo razredčil olje, ki je nato bilo dodano v krmo. V obeh primerih gre za transformatorsko olje.
+<P>
+Vse dokler ne bo izvedena rekonstrukcija teh nesreč in ne bo dokazano, da so res bile posledica gorenja, moramo domnevati, tudi na Irskem, da je prišlo do kaznivega dejanja, pri čemer so bile dodane strupene snovi, torej PCB. To pomeni, da moramo povečati pogostost inšpekcij, tako da kazniva dejanja ne bodo osredotočena na takšno krmo in ne bo veljalo prepričanje, da je to enostaven način za znižanje stroškov.
+<P>
+Odprta deklaracija, ki jo bomo jutri sprejeli, tako predstavlja dodatno priložnost, da boju proti kaznivim dejanjem ne namenimo še večje pozornosti, temveč da povečamo pogostost inšpekcij. Prav tako tveganj ne smemo določati zgolj s tega vidika, katere tovarne so vpletene, ampak tudi v zvezi s tem, kdo sploh vodi te tovarne in iz katerih virov je bilo to olje pridobljeno. Vemo, s kakšno vrsto ljudi imamo opravka, zato se morajo institucije zavedati, da le-ti v zvezi z inšpekcijami predstavljajo večje tveganje in morajo biti zaradi tega deležni strožjih inšpekcij.
+<SPEAKER ID="375" NAME="Bairbre de Brún">
+v imenu skupine GUE/NGL. - (GA) Incident z visoko vsebnostjo dioksinov v irskih tovarnah povzroča kmetom na severu in jugu velike gospodarske težave. To so slabe novice v trenutnem gospodarskem ozračju. Zaradi tako hitrega ukrepanja je trg lahko prepričan, da je irska svinjina neoporečna. Kakor koli že, nikakor ne moremo pričakovati, da se bodo tisti, ki so bili prizadeti, sami soočili s temi posledicami. Vem, da se nekatera izmed teh gospodarskih vprašanj nanašajo na druge komisarje, vendar je pomembno, da se dotaknemo naslednjih točk. Namen načrta umika svinjskega mesa, ki ga je decembra 2008 pripravila irska vlada, je bil umik kontaminirane irske svinjine s trga. Kakor koli že, videti je, da ta načrt ne obravnava usode 4 000 kontaminiranih prašičev, ki so bili pripeljani v obrat za predelavo svinjskega mesa Vion v Cookstownu, v mojem okraju Tyrone, med 1. septembrom in 6. decembrom 2008.
+<P>
+Na srečo lahko brezpogojno zatrdimo, da je irska svinjina popolnoma neoporečna. Če ta obrat ne bo upravičen do odškodnin iz naslova programa podpore EU, pa obstaja nevarnost, da bo moral prenehati z obratovanjem.
+<P>
+EU mora zagotoviti, da ta predelovalni obrat ne bo prepuščen samemu sebi pri soočanju s posledicami sprejetja 4 000 kontaminiranih prašičev.
+<P>
+Če ne bo upravičen do odškodnine v skladu z načrtom umika svinjskega mesa, ki je bil dogovorjen med Komisijo in irsko vlado, mora biti dogovorjen podoben načrt med Komisijo in Oddelkom za kmetijstvo in razvoj podeželja v skupščini v Belfastu.
+<P>
+Evropska unija bi morala v duhu solidarnosti odobriti sofinanciranje potrebnih odškodnin za vse prizadete. 2009 bo za vse zelo težko leto - ne pozabimo na skrajno izjemne okoliščine, zaradi katerih so se številni ljudje v prehrambnem sektorju znašli v težkih pogojih, za katere niso bili sami krivi.
+<P>
+Ministri v skupščini v Belfastu in irska vlada bodo kmalu pripravili strategijo zdravja živali za celoten otok.
+<P>
+Potrebujemo pristop, ki bo veljal za celo Irsko in se ne bo nanašal le na zdravje živali, ampak bo vključeval tudi enoten zakonodajni pristop za celoten otok. Predpisi EU se morajo izvajati in veljati za celoten otok. Celo irski kmetje bi imeli koristi od takšnih razmer, odprava podvajanja pa bi povečala učinkovitost spremljanja predpisov EU.
+<SPEAKER ID="376" NAME="Kathy Sinnott">
+v imenu skupine IND/DEM. - Gospa predsednica, moji kolegi so omenjali mračne kanale po katerih je PCB prišel v prehranjevalno verigo na Irskem. Verjetno je še slabše, če se včasih ozremo na zgodovino PCB. Poliklorirani bifenili so stari že skoraj 100 let. Izdelal jih je človek in že od vsega začetka je bilo očitno, da so zelo nevarni.
+<P>
+Več let so se uporabljali v kondenzatorjih, hidravličnih gorivih, lesenih talnih oblogah: vsekakor si tega ne želimo v prehranjevalni verigi. Vendar pa so si ljudje že od zgodnjih let prejšnjega stoletja pa do leta 1966, ko je švedski znanstvenik ugotovil kako nevarni so, zatiskali oči ter dopuščali njihovo uporabo, čeprav je vedno znova prihajalo do industrijskih nesreč.
+<P>
+Čeprav je bilo znanstveno potrjeno, je bila uporaba PCB na javnih mestih prepovedana šele v sedemdesetih letih prejšnjega stoletja - 1972; celo takrat je bila dovoljena njihova uporaba, vse dokler niso bili leta 2000 popolnoma prepovedani. Zunaj je še vedno velika količina PCB, ki leži pozabljena že skoraj 100 let po tem, ko smo ugotovili, da te snovi predstavljajo težavo.
+<P>
+Kljub direktivi Komisije iz leta 1996, ki zahteva varno odstranitev PCB, se vedno znova in znova pojavljajo, zlasti v Belgiji in nedavno tudi na Irskem.
+<P>
+Vendar sem ugotovila, da so ljudje na Irskem zmedeni zlasti zaradi ene stvari. Spomnim se obiska pri mesarju približno v tem času - preprosto ni mogel razumeti. Dejal je, kako je lahko prišlo do tega, pa toliko smo naredili na področju sledljivosti. Točno vemo, od kod prihaja posamezno jajce, kdaj je bilo zneseno, če pa hočemo še več informacij, lahko ugotovimo točno na kateri farmi je bilo zneseno in tako dalje. Pa vendar je moral ta mesar, ki se sam oskrbuje s svinjino in je imel vse oznake itd., potem, ko smo ugotovili vir PCB, zavreči in uničiti vso svinjino.
+<P>
+Ne vem, kako je do tega prišlo, saj smo na Odboru za okolje res trdo delali; vi sami ste trdo delali, da bi zagotovili sledljivost, pa vendar, ko je prišlo do težav, nihče ni uporabljal teh sistemov. Mogoče so se uporabljali za iskanje kmetij, vsekakor pa se niso uporabljali za to, da bi nedolžne oprali krivde, kar je ljudi zelo drago stalo - prav tako pa je to drago stalo mojo državo, saj ni šlo samo za te posamezne dobavne verige, ampak je bila očrnjena cela država.
+<P>
+Precej zmešnjave pa je tudi glede drugih stvari. Danes govorimo o PCB in dioksinih, povsem upravičeno, ampak ali bomo porabili 100 let, preden bomo spoznali, da obstaja povezava med dioksini in sežiganjem? Za to si sama nenehno prizadevam, da dioksini, ki nastajajo pri sežiganju, ne bi prišli v prehranjevalno verigo.
+<SPEAKER ID="377" NAME="Jim Allister" AFFILIATION="NI">
+Gospa predsednica, številni kmetje in predelovalna podjetja v mojem volilnem območju se soočajo z izgubami, ki dosegajo več milijonov funtov, za katere pa niso sami krivi, saj je kontaminirano krmo, kupljeno v dobri veri, dobavil obrat krme, kjer, ne glede na dobro prakso, ne upoštevajo veljavnih predpisov. Nobeno presenečenje ni, da med prizadetimi volivci obstaja precejšnja jeza.
+<P>
+Na komisarko bi rad naslovil več vprašanj. Če nanje danes zvečer ne bo mogoče dobiti odgovora, bi rad, da nanje odgovori v pisni obliki, če je možno.
+<P>
+Prvič, kakšna je zgodovina odgovornega obrata za recikliranje krme z vidika skladnosti s predpisi EU? Ali deluje po svojih zakonih, kot je bilo predlagano?
+<P>
+Drugič, ali je imel Millstream dovoljenje za uporabo zadevnega olja? Če temu ni bilo tako, ali ni bila država članica dolžna zagotoviti, da se takšno odstopanje od osnovnih zakonskih zahtev odkrije in odpravi?
+<P>
+Tretjič, ali je Millstream izvajal analize tveganja, ki temeljijo na HACCP in načrtu samokontrole, kot to zahteva uredba o higieni živil?
+<P>
+Četrtič, ali je Komisija zadovoljna z obsegom in pogostostjo inšpekcij in pregledov, ki jih nalaga država članica temu obratu in v zvezi z njenimi proizvodi, glede na obveznost države članice, da mora imeti uradni načrt kontrol, ki temelji na oceni tveganj? Ali je šlo za malomarnost s strani irskih organov pri strogem izvajanju živilske zakonodaje in zahtev glede neoporečnosti živil?
+<P>
+Petič, v mojem volilnem okraju morajo zakoniti obrati krme delovati v skladu s strogim nadzorom in standardi, k izhajajo iz sistemov zagotavljanja kakovosti. Zakaj ni enaka doslednost veljala pri recikliranju v Millstreamu?
+<P>
+Šestič, ali se je kdo zanašal na samocertificirano varnost v obratih krme in če je temu bilo tako, zakaj - to bi moralo biti dopustno le na majhnem obsegu nosilcev - je bilo dovoljeno, da se uporablja v tem primeru?
+<P>
+In zadnje, kakšna je točna pravna podlaga, na osnovi katere je Komisija soglašala z velikim izplačilom Irski, saj je tiskovni predstavnik Evropske komisije najprej zatrdil, da takšna osnova ne obstaja? Ali bo prišlo do ponovne obravnave v zvezi s kršitvami, če bo ugotovljeno, da je ta država članica kršila svoje zahteve?
+<SPEAKER ID="378" NAME="Maria Petre" AFFILIATION="PPE-DE">
+(RO) Ali je koristno, da nocoj ta razprava poteka na podlagi izjave, ki jo je Komisija, pa tudi vsi sami komisarka, že podala glede uporabe odpadnih olj pri pripravi krme na Irskem.
+<P>
+Razpravo bi rada še nekoliko razširila in vam povedala, da je ta incident prizadel veliko število držav članic, vključno z Romunijo, o kateri bom govorila, ali, če povem nekoliko natančneje: incident je prizadel mesno industrijo, zlasti pa potrošnike. Prizadel je industrijo, ki je zabeležila velike izgube v zelo kratkem časovnem obdobju in potrošnike, in sicer v času, vsaj v Romuniji, ko je poraba svinjine precej večja zaradi tradicije praznovanja Božiča.
+<P>
+Izredno dobro pa je deloval sistem obveščanja veterinarskih služb prek evropskega sistema za hitro obveščanje. Vendar pa so, razen tega ukrepa, izginile vse informacije. Za kakšne količine kontaminiranega mesa je šlo, kaj je bilo distribuirano in kje so končala živila, pa so vprašanja, na katera so bili podani le delni odgovori, v nekaterih primerih, pa jih sploh ni bilo. Kakšne so bile posledice zaradi tega? Paničen odziv med potrošniki in velike izgube za proizvajalce, kot tudi precej slaba sposobnost s strani odgovornih organov, da uspešno obvladajo takšen incident.
+<P>
+Po mojem mnenju imamo vsaj dva problema. Prva je kontaminacija z dioksinom, ki je posledica uporabe odpadnih olj, saj vsi vemo, da gre za snov, ki predstavlja veliko nevarnost, saj je zelo strupena za ljudi, celo v majhnih količinah. Kaj lahko storimo, da se takšen incident ne bi več ponovil?
+<P>
+Drugi problem je: kako izboljšati sposobnost odgovornih organov v državah članicah pri odzivanju in ukrepanju v tako nevarnih primerih?
+<P>
+V zvezi z zadnjo pripombo upam, da bo ta razprava dala nekaj odgovorov, vsaj na ti dve vprašanji.
+<SPEAKER ID="379" NAME="Petya Stavreva" AFFILIATION="PPE-DE">
+(BG) Gospa predsednica, komisarka, dame in gospodje, problem uporabe odpadnih olj, ki vsebujejo poliklorirane bifenile v obratih za recikliranje gospodinjskih odpadkov je ponovno izpostavil vprašanje v zvezi z zagotavljanjem neoporečnosti živil v Evropski uniji.
+<P>
+Najprej moramo izpostaviti, da problem ni posledica neke bolezni živali, ampak neustreznega spremljanja predvidenih ukrepov, ki se v Evropski uniji izvajajo v zvezi z varnostjo in higieno krme. Kljub vzpostavljenemu nadzoru, so bile visoke vsebnosti dioksina ugotovljene v času, ko je že prišel v svinjsko meso. Postavlja se vprašanje: zakaj ni bilo to ugotovljeno že prej?
+<P>
+Številni evropski državljani se danes sprašujejo ali ima Evropska unija na ustrezno zakonodajo, s katero bi od držav članic zahtevala, da uporabijo ustrezen nadzor nad varnostjo krme, s katero se hranijo živali. Nujno potrebujemo odgovor na to vprašanje, saj lahko ima neizvajanje varnostnih norm v le enem samem živilskopredelovalnem obratu usodne posledice in izgube, ki znašajo na stotine milijonov evrov.
+<P>
+Rada bi pozvala Evropsko komisijo, da izvede potrebne ukrepe, s katerimi bi okrepila nadzor, saj predstavlja neločljiv del politike Evropske unije za zaščito potrošnikov. Svinjsko meso z visoko vsebnostjo dioksina iz Irske je prišlo med drugim tudi v Bolgarijo, kot tudi v številne druge evropske države. Vendar se takšni incidenti ne smejo več dogajati v prihodnje, saj sta finančna in socialna cena, ki ju je treba za tem plačati, previsoki.
+<P>
+Na koncu bi se rada zahvalila gospe McGuinness za njeno pobudo, da bi to vprašanje preučila Komisija.
+<SPEAKER ID="380" NAME="Elisabeth Jeggle" AFFILIATION="PPE-DE">
+(DE) Gospa predsednica, komisarka, nocoj obravnavamo uporabo odpadnih olj, ki vsebujejo PCB, v obratu za recikliranje gospodinjskih odpadkov na Irskem. Jutri bomo razpravljali o dajanju krme v promet in njeni uporabi. Jutri bomo ugotovili, da smo skupaj v tem sektorju že izvedli vrsto pomembnih in učinkovitih ukrepov. Pa vendar na tem področju še vedno obstajajo problemi. Prav zaradi tega je treba pet vprašanj, ki jih je gospa McGuinness zastavila v svojem vprašanju za ustni odgovor, resno obravnavati in nanje podati resen odgovor.
+<P>
+Komisarka, tudi sami ste govorili o vrzelih, ki jih je še treba zapolniti pri izvajanju naše zakonodaje v številnih državah članicah. Res je, da se je sektor krme gledano v celoti v zadnjih letih temeljito izkazal, vendar nekatera podjetja se ne zavedajo tveganj ali pa si pred njimi zatiskajo oči. Prav tako se zdi, da je v številnih državah še veliko prostora za izboljšave na področju inšpekcij, ki temeljijo na ustrezni podlagi tveganja.
+<P>
+Vsi med nami - Parlament, vse večje število kmetov, pa tudi potrošniki - pričakujejo ustrezno uporabo zakonodaje EU in ustrezno izvajanje pregledov. Zaradi tega sem prepričana, da moramo preučiti splošno živilsko zakonodajo, pogoje higiene hrane in krme ter izdajanja dovoljenj.
+<P>
+Da, želimo ustrezno uporabiti presežke živil. Osebno si želim, da bi se to zgodilo in da se presežki živil ne bi uničevali. Vendar pa mora biti zagotovljena sledljivost. Nezaželene snovi in produkti morajo biti izključeni na varen in kontroliran način. Ko podjetja, ki se ukvarjajo s krmo, pridobijo dovoljenje, je treba zagotoviti strokovno pristojnost njihovega osebja na področju varnosti hrane in krme.
+<P>
+Živila so podlaga za varnost hrane in na strani kmetov mora vladati gotovost, da so lahko potrošniki prepričani v neoporečno hrano.
+<SPEAKER ID="381" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Gospa predsednica, najprej bi se vam rad zahvalil za to razpravo. Kmetje so spoznali, kako ranljivi so in odvisni od tega, kar počnejo drugi.
+<P>
+Do tega je prišlo v Republiki Irski, ironično pri tem pa je, da je odpadno olje, ki naj bi bilo problematično, izhaja s Severne Irske. Vendar pa se je problem odrazil v krmni mešanici, ki prihaja iz Republike Irske.
+<P>
+Problem, ki je pri tem nastal, je v tem, da je kmetom, ki vzrejajo prašiče ali govedino v Republiki Irski, Evropska unija zagotovila pomoč in nadomestilo. Kmetje na Severnem Irskem pa so obtičali na suhem brez pomoči in podpore. Kmetje na Severnem Irskem so bili uničeni, številni pa bodo zgubili svoje farme in bodo prenehali s poslovanjem, čeprav sami niso nič krivi. Nič niso naredili narobe, zakrivili nobenega kaznivega dejanja in nocoj bi rad jasno in glasno povedal temu Parlamentu in komisarki, da so bili kmetje na Severnem Irskem prepuščeni na milost in nemilost, ne le s strani našega Oddelka za kmetijstvo, DARD, kot se imenuje na Severnem Irskem, ampak tudi s strani ministra, ki se zdi nespodoben, šibak in nezmožen reševanja tega problema.
+<P>
+Minister za kmetijstvo Republike Irske je jasno dokazal, da najprej poskrbi za svoje ljudi. To popolnoma razumem. Na komisarko naslavljam naslednje vprašanje: ali bomo prejeli kakršne koli informacije o preiskavi, ki naj bi jo opravila policija na obeh straneh meje? Ali ste pripravljeni ukrepati na osnovi informacij, ki jih boste prejeli in ali ste pripravljeni zagotoviti, da bodo proizvajalci na Severnem Irskem deležni enake podpore, kot kmetje v Republiki Irski in da ne bojo na noben način finančno prikrajšani? Predvsem pa, to je moje zadnje vprašanje, ali boste zagotovili, da se takšni primeri ne bodo nikoli več mogli ponoviti? Zaradi vse ga tega potrošniki nimajo več zaupanja, predvsem pa to pomeni uničenje proizvajalcev.
+<SPEAKER ID="382" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Gospa predsednica, kot pravi komisarka, je eden izmed virov izpostavljenosti ljudi snovi PCB prehranjevalna veriga. Vendar pa odprti ogenj in cigaretni dim predstavljata veliko večji vir izpostavljeni za mnogo večje število ljudi. Pazimo na sorazmernost in ne dopustimo, da bi v tej razpravi zavladala histerija, naj bo manj vročična in naj temelji na informacijah.
+<P>
+Minimalne zahteve glede higiene krme so zelo pomembne in jih je treba strogo uveljavljati, vendar pa mora te zahteve spremljati tudi popolna sledljivost in identifikacija vseh mesnih izdelkov - ne le govedine, ampak tudi perutnine, svinjine in ovčjega mesa. V zvezi s tem sem pripravila spremembe trenutne zakonodaje, ki jih bomo v Parlamentu kmalu obravnavali.
+<P>
+Zadevna prašičja krma je bila dejansko kontaminirana zaradi krušnih drobtin, saj je Millstream Recycling za sušenje teh krušnih drobtin nenamerno uporabljal gorivo, ki ga je v dobri veri kupil od podjetja, s katerim je posloval več let in z njim ni imel nobenih težav. Poteka policijska preiskava in zadevno podjetje z njo v celoti sodeluje.
+<P>
+Trditev gospoda Allisterja, da je podjetje ravnalo malomarno, bi rada v celoti ovrgla. Preiskava bo pokazala, da temu ni bilo tako, torej bodimo previdni glede izjav.
+<P>
+Največji problem je bil v tem, da smo morali umakniti in uničiti 100 % vseh proizvodov iz svinjskega mesa, čeprav le kratkoročno. To je negativno vplivalo na sredstva za preživetje številnih irskih kmetov, pa tudi na ugled irskih prehrambnih izdelkov v tujini, ker smo morali poseči po tako nesorazmernemu odzivu, kljub temu, da je bilo kontaminiranih le šest do sedem odstotkov naših prašičjih farm, saj je irski sistem identifikacije in sledljivosti popolnoma odpovedal na točki klavnic. Na irskem naj bi bili vsi prašiči označeni ali žigosani, vendar iz neznanega razloga na ravni klavnic ne moremo razlikovati teh prašičev, ki so bili krmljeni s kontaminirano krmo, od velike večine drugih prašičev, ki niso bili.
+<P>
+To vprašanje si moramo podrobno ogledati. Komisija mora preučiti celotno vlogo identifikacije in sledljivosti, predvsem pa moramo počakati na policijsko preiskavo, za katero menim, da bo presenetila številne ljudi.
+<P>
+Vpletena podjetja zelo obžalujejo, to so tudi javno povedala, škodo, ki je bila povzročena prehranjevalni verigi in irskemu ugledu, pa tudi za gospodarsko škodo, ki so jo utrpeli številni kmetije, ki so do sedaj kupovali njihova odlična krmila. Sedaj ponovno poslujejo in izdelujejo odlične krmne obroke, ki jih lahko kmetje mešajo.
+<P>
+Šlo je za grozen dogodek. Nihče ni želel, da bi se to zgodilo.
+<SPEAKER ID="383" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+Gospa predsednica, poskušala sem ostati nepristranska glede te irske zadeve, saj nocoj nismo tukaj zaradi tega, vendar pa bi rada komisarki zastavila tri vprašanja: kakšna količina PBC je še vedno v obtoku; ali lahko zagotovite, da ne bo ponovno prišlo do onesnaženja prehranjevalne verige v naslednjih 23 mesecih, ko bo še vedno potekal postopek odstranjevanja; in ali bi Komisija predstavila poročilo o statusu izvajanja Uredbe o zahtevah glede higiene krme, ki bi ga tukaj radi slišali?
+<P>
+Hkrati pa bi rada Jimu Allisterju povedala, da to je čezmejni problem. Kontaminacija, kot jo razumemo in kot je ustrezno izpostavil Jim Nicholson, je prišla preko meje. Zato se ne strinjam s Proinsiasom. To je Evropski problem, saj vključuje čezmejno razsežnost. Kar se je zgodilo na Irskem, se lahko zgodi v kateri koli državi članici, ker - kot razumem - je v obtoku več tisoč ton PBC. Mogoče bi lahko komisarka tole pojasnila.
+<SPEAKER ID="384" NAME="Friedrich-Wilhelm Graefe zu Baringdorf" AFFILIATION="Verts/ALE">
+(DE) Gospa predsednica, komisarka, ali je Komisija preiskala ali naredila rekonstrukcijo poteka dogodkov, ki so pripeljali do nesreče? Ideja o tem, da je sežiganje odpadnih olj in dim, ki je prišel v krušne drobtine, lahko povzročil kontaminacijo z dioksinom takih razsežnosti, namreč 200-krat povišano raven dioksina v svinjskem mesu - ne v krmi, ampak v mesu samem - je smešna. Še naprej bom domneval, vsaj dokler ne bo dokazano nasprotno, da je šlo za načrtno dodajanje.
+<P>
+Vsaka prometna nesreča je rekonstruirana in vedno je opravljena preiskava, kako je lahko do take nesreče prišlo. Tudi ta nesreča - če je to res bila - mora biti rekonstruirana in opravljena mora biti preiskava, če ta vrsta sežiganja in dim, ki pri tem pride v meso, res lahko povzroči tolikšno vsebnost dioksina v mesu. Kot praktik bi rekel, da je vse, kar je bilo povedanega v zvezi s tem, nesmisel. Tukaj govorimo o načrtnem dodajanju, sami pa smo odlagališča za ta strup, ki se ne razgradi sam in se zato prenaša skozi številne generacije potomcev.
+<SPEAKER ID="385" NAME="Jan Mulder" AFFILIATION="ALDE">
+(NL) Razprava je izjemno zanimiva. Bojim se, da se bomo morali tudi v prihodnosti ukvarjati s podobnimi primeri. Nikoli ne moremo popolnoma izključiti kaznivega dejanja in ljudi, ki se okoriščajo na račun sistema.
+<P>
+Ena od stvari, o katerih se nocoj nismo pogovarjali, je sistem zasebnih znakov. Zakaj Komisija ne spodbuja bolj industrije, da bi opravljala svoje lastne preiskave in razvijala zasebne znake kakovosti? Komisija lahko potem reče "mi lahko opravljamo kontrole le na koncu, na prvi stopnji pa morate sami zagotoviti, da boste preverili svoje kolege in zagotovili, da se takšne stvari ne bodo dogajale. Če boste razvili ustrezen sistem, ga bomo spodbujali in priznavali." Zdi se mi, da jih moramo spodbujati od spodaj navzgor, da v prihodnje ne bi prihajalo do takšnih praks.
+<SPEAKER ID="386" NAME="Jim Allister" AFFILIATION="NI">
+Gospa predsednica, ni dvoma o tem, da je olje očitno prišlo s Severne Irske. Vendar to ni problem.
+<P>
+Dejstvo je, da se je Millstream odločil kupiti to olje, pri čemer je vedel, da ga bo uporabil v sušilnicah - pri obdelavi krme, pri sušenju krušnih drobtin - zakaj je torej kupoval olje takšne vrste, ne glede na to, od kod je prišlo?
+<P>
+Ali ga niso preverili državni inšpektorji in podjetje samo? Kolikor vem, je uporaba olja v takšnih okoliščinah nezakonita in predstavlja kršitev predpisov na področju živil in higiene. Vprašanje torej ni, od kod je prišlo, ampak zakaj je prišlo tja in zakaj je bilo uporabljeno za namen, za katerega je bilo uporabljeno.
+<SPEAKER ID="387" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Gospa predsednica, obtožbe gospoda Baringdorfa o načrtnem dodajanju tega onesnaževala v krmo so vredne vsega prezira in niso vredne nobenega poklicnega politika. Pustimo, da se zaključi ustrezna sodna preiskava.
+<P>
+Podjetje Millstream Recycling v celoti sodeluje. Imajo celotno evidenco, ki dokazuje, da so olje kupili od pooblaščenega podjetja iz Dublina, ki je dobavitelj olj. Kupili so ga kot reciklirano lahko kurilno olje, ki je primerno olje za uporabo v tem konkretnem postopku sušenja. Kupili so ga od pooblaščenega podjetja in z njihovega vidika so kupili reciklirano lahko kurilno olje; sprejemajo pa dejstvo, da so dobili transformatorsko olje, ki je povzročilo dioksine.
+<P>
+Poteka sodna in policijska preiskava. Počakajmo, da se postopki zaključimo in ne obtožujmo brez podlage, saj je to zelo resna zadeva, ki ji nikakor ne pomagajo histerične in panične reakcije.
+<SPEAKER ID="388" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Gospa predsednica, vsi se strinjamo - nihče ne zanika -, da je olje očitno prišlo s Severne Irske. Tega ne moremo zanikati. Ampak medtem ko se mi prerekamo, je na Severnem Irskem osem kmetov ostalo brez posla, prav tako pa tudi nekateri v Republiki. Tudi oni trpijo, tega se zavedam. To ni politična zadeva. Trpijo navadni ljudje, naši kmetje pa trpijo finančne posledice.
+<P>
+Resnica pa je - in s tem se moramo tako mi kot tudi vi, komisarka, sprijazniti - da je bilo v obtoku več ton svinjskega mesa, ki ga ni bilo mogoče izslediti. Nihče ni vedel, od kod je prišlo, od katerih prašičev. Komisarka, skrajni čas je, da uvedete natančno in jasno oznako izvora, od kod prihaja. Če bi to obstajalo, bi vedeli, kako stvari stojijo.
+<P>
+Nočem, da to postane politična zadeva, ker zame ni politična. Vsak dan se pogovarjam s kmeti in nekateri izmed njih bodo najverjetneje izgubili kmetije. To je resna stvar. Če moramo počakati na dokončni razplet preiskave, bomo to tudi storili - hočem pa, da se moji kmetje zaščitijo in nočem, da jih prepustimo same sebi. Zahtevam, da jih ustrezno zaščitite, in sicer tako, da bodo v enakem položaju kot kmetje v Republiki Irski.
+<SPEAKER ID="389" NAME="Androulla Vassiliou">
+članica Komisije. - Gospa predsednica, razprava je bila zares živahna, zastavljena so bila številna vprašanja. Prav tako so bile izražene mnoge predpostavke in strinjam se z gospo Doyle, da moramo biti potrpežljivi in čakati, da se konča preiskava. Izpeljemo lahko zaključke in sprejmemo odločitve za prihodnost. Moram pa povedati eno stvar - takrat nisem sodelovala, sem pa o tem slišala -, namreč, da so se podobni incidenti zgodili tudi v Nemčiji in Belgiji, o čemer se je obširno poročalo v vseh državah članicah. Zato bi človek mislil, da bo preudarna država članica sprejela strožje nadzorne ukrepe. Kljub vsemu pa se takšna stvar lahko zgodi tudi ob najstrožjih kontrolah, bodisi zaradi prevare ali malomarnosti oziroma drugih stvari. Naša odgovornost je, da poskrbimo za ustrezno zakonodajo - za katero menim, da je trenutno ustrezna - in da bodo države članice spoštovale to zakonodajo. Dolžnost Komisije je, da vzpostavi kontrole in poskrbi, da države članice izpolnijo svojo dolžnost.
+<P>
+UPV-ji opravljajo svoje preglede in poročila UPV so javna, zato je mogoče skladnost z zakoni ugotoviti na podlagi teh poročil, ki jih pripravijo posamezne države.
+<P>
+Mnogi med vami ste postavili vprašanje sledljivosti, ki je prav zares eden glavnih stebrov splošne živilske zakonodaje in odgovornost živilskih poslovnih subjektov, ki morajo biti zmožni prikazati, od koga so kupili in komu prodali. Vendar pa raven podrobnosti ali specifičnosti notranje sledljivosti, ki jo izberejo živilski poslovni subjekti, določa končno ekonomsko izgubo, ki jo utrpijo ti subjekti primeru umika. V tem konkretnem primeru je bilo pravilo sledljivosti na Irskem enostavno datum proizvodnje, ne pa tudi podatek o kmetiji, od koder je meso prišlo. Zato je bil potreben umik celotne količine mesa, proizvedenega v teh dveh mesecih. Če bi veljala strožja pravila o sledljivosti (ki bi bila seveda dražja), bi bilo treba umakniti le meso, ki je prišlo iz problematične kmetije. Zato se je treba odločiti: plačaj več in imej boljša pravila o sledljivosti ali plačaj manj in po končani analizi nosi stroške izgube.
+<P>
+Omenjeno je bilo tudi, da je Komisija zagotovila pomoč - čeprav plačilo nadomestila ni moja odgovornost ampak odgovornost komisarke Fischer Boel - in povedati moram, da je bilo v tem primeru izvedeno plačilo na isti osnovi tako v Republiki Irski kot v Severni Irski. Imam nekaj podatkov o tem. Komisija je uvedla shemo pomoči za zasebna skladišča za Severno Irsko in v skladu s to shemo je mogoče shraniti do 15 000 ton za obdobje največ šest mesecev. Proračun za ta ukrep je bil 6,9 milijona EUR. Podobno shemo zasebnih skladišč so uvedli tudi na Severnem Irskem. V okviru te sheme je mogoče shraniti do 30 000 ton za obdobje največ šest mesecev, v višini največ 13,9 milijona EUR. V Republiki Irski je bila vzpostavljena tudi shema odstranitve, ki jo je sofinancirala Skupnost in je stala 20,6 milijonov EUR. Komisija ni izvedla nobenih neposrednih plačil kmetom, niti v Republiki Irski niti na Severnem Irskem, saj ni bilo pravne podlage za takšna nadomestila.
+<P>
+Če povzamem, bi rekla, da imamo dobre zakone, vendar pa moramo biti v prihodnje vedno pazljivi. Prepričati se moramo, da so ti zakoni veljavni v državah članicah, za kar potrebujemo sodelovanje držav članic. Na strani Komisije moramo ohranjati kontrole in zagotoviti, da države članice spoštujejo naše predpise.
+<P>
+Poleg tega pa bomo lahko o prihodnosti razmišljali, ko dobimo rezultate poizvedovanj in preiskav. Če verjamemo, da obstaja možnost izboljšanja predpisov, se pri tem ne bomo obotavljali.
+<SPEAKER ID="390" NAME="Predsednica">
+Razprava je končana.

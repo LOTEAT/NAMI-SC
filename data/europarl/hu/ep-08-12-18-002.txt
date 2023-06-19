@@ -1,0 +1,126 @@
+<CHAPTER ID="002">
+A középvállalkozások közzétételre és összevont beszámoló készítésére vonatkozó kötelezettségei - A középvállalkozások számviteli kötelezettségei (vita) 
+<SPEAKER ID="006" NAME="Elnök">
+A következő napirendi pontok: együttes vita a következőkről:
+<P>
+Ieke van den Burg jelentése a Jogi Bizottság nevében a 78/660/EGK és a 83/349/EGK tanácsi irányelvnek a középvállalkozások egyes közzétételi követelményei és a konszolidált beszámoló készítésének kötelezettsége tekintetében történő módosításáról szóló európai parlamenti és tanácsi irányelvre irányuló javaslatról - C6-0173/2008 -, és
+<P>
+a Bizottság nyilatkozata a középvállalkozások számviteli kötelezettségeiről.
+<SPEAKER ID="007" NAME="Ieke van den Burg">
+előadó. - (NL) Elnök úr, elnézést kérek a késésért. Nehéz idők járnak a kis- és középvállalkozásokra. A válság nem csak a bankokat és a tőzsdén jegyzett cégeket sújtotta, hanem az egész gazdaságot, és a KKV-k esetében is munkahelyek megszűnéséhez vezet. Ezért az uniónak segítenie kell ezt a szektort.
+<P>
+Ebben van fontos szerepe azoknak az intézkedéseknek, amelyek tavaly nyáron az úgynevezett "kisvállalkozói intézkedéscsomagban” szerepeltek. Jómagam jelenleg több, abban foglalt javaslattal is foglalkozom: ilyen a közös európai részvénytársasági szabályozás, a mikrohitelnyújtás kereteinek bővítése és a helyi piacon magánszemélyeknek szolgáltatást nyújtók számára egy alacsony héa-kulcs bevezetésének kidolgozása is.
+<P>
+A kisebb vállalkozások számára nagyon fontos kérdés az adminisztrációs teher, melyet nagyrészt a nemzeti és helyi hivatalos szervek rónak rájuk. Ebben viszont szerepet vállalt az uniós törvényhozás: előrelátóan elkezdtük ritkítani, könnyíteni ezeket a terheket. Ez egyébként az előttünk fekvő dossziéra is érvényes. A tájékoztatási kötelezettség és az erről szóló két irányelv 25, illetve 30 éves és több módosításon is átesett. Ezek most egy úgynevezett gyorsított eljárás keretében leegyszerűsítésre kerülnek.
+<P>
+Ezek az intézkedések azonban csak egy kis lépést jelentenek a terhek könnyítésének hosszú útján. Sokkal többre lenne szükség. A Parlament Jogi Bizottságában határozottan hangot adtunk erre vonatkozó elégedetlenségünknek. Mindezek miatt ezzel a jogalkotási dossziéval egyidőben kiadtunk egy állásfoglalást, amelyben arra kérjük a Bizottságot, hogy a gyorsított eljárás keretében indítsa el a kis- és középvállalkozásokra vonatkozó jogszabályok sokkal alaposabb felülvizsgálatát. A Bizottság addigra ettől függetlenül is napirendre tűzte ezt a kérdést. A cél az, hogy a kis- és középvállalkozásokra vonatkozó szabályok egész Európában egységesebbek legyenek.
+<P>
+Korábban, mikor ugyanez a téma Radwan úrnak a Gazdasági és Monetáris Bizottság nevében írt jelentése kapcsán volt terítéken, kifejezetten azt mondtuk, hogy a megoldás nem a kis-és középvállalkozásokra vonatkozó nemzetközi pénzügyi beszámolási standardokat (IFRS) kidolgozó Nemzetközi Számviteli Standard Testület kezében van, hanem inkább az érvényben lévő jogszabályokra építve kell erősebb harmonizációra törekednünk Európában.
+<P>
+Ezen vita során a jelentés árnyék-előadója, Lehne úr javasolta, hogy a tagállamok már ebben a stádiumban kapjanak lehetőséget arra, hogy a mikrovállalkozásokkal, a legkisebb vállalkozásokkal kivételt tegyenek. Véleményem szerint ez egy kényszerhelyzetből származó intézkedés, amely, bár a Stoiber-csoport már javasolta, hosszú távon nem vezet lényegi egyszerűsítéshez, mivel nem kötelező, s így csupán tovább növeli majd a tagállamok közötti különbségeket.
+<P>
+A végső lehetőség és célkitűzés tehát szükségképpen a széles körű harmonizáció, amely biztosítja, hogy azok a vállalkozások, amelyek nem számítanak mikrovállalkozásnak, szintén élvezhessék egy hasonló, nagyon egyszerű rendszer előnyeit. Ezzel az egyszerű rendszerrel kapcsolatban csak arra szeretnék emlékeztetni mindenkit, hogy milyen lehetőségeket kínál az "XBRL”, a kiterjeszthető üzleti beszámolási nyelv, amely lehetővé teszi, hogy a különböző szervezetek könnyen, egyszerűen megadhassák adataikat, és más szervezetek felhasználhassák azokat. Az ilyen adatok megadását ez a rendszer könnyebbé és egyszerűbbé tenné, és az adatok sokféleképpen felhasználhatóak lennének.
+<P>
+Hamarosan tehát komoly vitát kell kezdeményezni arról az ellenállásról, amely a könyvelés világában tapasztalható a mikrovállalkozásoknak nyújtott engedményekkel szemben. A Bizottságnak javaslatokkal kellene előállnia. Ezután meg kell vizsgálni a középvállalkozások és a mikrovállalkozások számára lehetséges legjobb megoldást, amely garantálja az átláthatóságot és a jó könyvelést, és lehetővé tesz bizonyos műveleteket; mindezt anélkül, hogy ezekre a vállalkozásokra hatalmas adminisztratív terheket rónánk.
+<SPEAKER ID="008" NAME="Jacques Barrot">
+a Bizottság alelnöke. - (FR) Elnök úr, van den Burg asszony, hölgyeim és uraim! Az Európai Parlament ma fog határozni az egyszerűsítéssel kapcsolatos javaslatról, amely a számviteli területhez kapcsolódó három jogalkotási javaslat közül az első. Célja az, hogy közösségi szinten egyszerűbbé tegye a gazdasági környezetet, különösen a kis- és középvállalkozások számára.
+<P>
+Ez az első javaslat jó kiindulópontot jelent: alkalmat ad a jogalkotók, az érintettek és a Bizottság véleménycseréjére és a két másik javaslat elemeinek megvitatására.
+<P>
+Ahogyan azt néhány hete az európai gazdasági fellendülési tervben bejelentettük, a következő javaslat célja a vállalkozások legnagyobb hányadát kitevő kisebb vállalkozásokra nehezedő adminisztratív terhek csökkentése lesz.
+<P>
+2009 első negyedévében a Bizottság javaslatot állít majd össze, amely alapján a tagállamok felmenthetik ezeket a mikrovállalkozásokat az éves beszámoló készítése alól. Azt is szeretném kiemelni, hogy a Bizottság javaslata csak akkor csökkenti majd sikeresen az adminisztratív terheket, ha a tagállamok élnek ezzel az új lehetőséggel, mivel csak lehetőségről, nem pedig kötelezettségről van szó.
+<P>
+A külső tanácsadók becslései szerint ez az intézkedés akár évi 5,8 milliárd euró megtakarítással is járhat. De ez a megtakarítás csak akkor valósul meg, ha minden tagállam él ezzel a mentességi lehetőséggel és nem vezet be új és túlzottan korlátozó szabályokat.
+<P>
+A második kezdeményezés, amelyet szeptember végén jómagam jelentettem be, a negyedik és a hetedik számviteli irányelv felülvizsgálata és frissítése. A felülvizsgálat technikai előkészületei már meg is kezdődtek. 2009 első negyedévében nyilvános konzultáció lesz arról, hogy milyen irányt vegyen ez az intézkedés.
+<P>
+Sokan örömmel hallják majd, hogy Stoiber úr kiváló munkacsoportjának javaslatait a lehetőségek szerint figyelembe fogjuk venni.
+<P>
+Visszatérve a javaslatra, amely nemrég a gyorsított eljárás tárgyát képezte, nagyon örülünk annak, hogy - az intézmények együttműködésének hála - ez a kezdeményezés ilyen gyorsan terítékre került.
+<P>
+Arra kérem Önöket, hogy ma az eljárás lezárása mellett szavazzanak. Köszönöm a figyelmet.
+<SPEAKER ID="009" NAME="Kristian Vigenin" LANGUAGE="BG">
+Biztos úr! A mi értékelésünk szerint az ehhez a jogalkotási kezdeményezéshez kötődő javaslatok nem eléggé nagyratörőek. A Gazdasági Bizottság ezért arra kéri a Bizottságot és személy szerint Önt, hogy ebben a kérdésben tanúsítson aktívabb hozzáállást.
+<P>
+Azt belátom, hogy az Ön által vázolt esemény fontos lépés, de a Bizottságtól határozottabb intézkedéseket várunk el, természetesen az Európai Parlament teljes támogatásával, hiszen ez egy rendkívül fontos kérdés a kis- és középvállalkozások számára, különösen a jelenlegi pénzügyi válság idején.
+<P>
+A Gazdasági és Monetáris Bizottság előadójaként el szeretném mondani, hogy teljes mértékben támogatjuk a Bizottság kezdeményezését, amellyel igyekszik csökkenteni a középvállalkozások adminisztratív terheit. Egyetértünk ezzel a célkitűzéssel és támogattuk a gyorsított eljárást is. Ez a javaslat ma támogatást fog kapni. Úgy gondoljuk, hogy mostantól az Önök által elfogadni tervezett intézkedéseket is teljes mértékben támogatni fogjuk.
+<SPEAKER ID="010" NAME="Jean-Paul Gauzès" LANGUAGE="FR">
+Üdvözlöm az elnök urat, a Bizottság alelnökét és a biztos urat! Hölgyeim és uraim, képviselőcsoportunk természetesen a van den Burg-jelentés mellett fog szavazni. Gratulálok Ieke van den Burgnak munkájához, amely, mint mindannyian tudjuk, minden esetben igen kiváló színvonalú.
+<P>
+Ezzel együtt fel szeretném hívni a figyelmet arra a tényre, hogy a kis- és középvállalkozások nem feltétlenül támogatják a számviteli követelmények eltörlését. Sok levelet kapunk ebben a témában, amelyekben arra kérnek, hogy legyünk óvatosak: bár az egyszerűsítés hasznos, de vigyázni kell, nehogy a dolog fordítva süljön el. Hadd magyarázzam el, mire gondolok: a számvitelt le kell egyszerűsíteni, és erről szól az az állásfoglalás is, amely szerint a Bizottságnak a lehető leghamarabb, konkrétan 2009 végére javaslatot kell tennie egy, a kis- és középvállalkozások számára megfelelő számviteli rendszerre. Ez azonban nem jelent teljes mentességet.
+<P>
+Hogy miért nem? Először is azért, mert a számvitel lehetőséget jelent a vezetők számára a cég helyzetének legalább évenkénti rendszeres áttekintésére. A számvitel nagyon hasznos eleme a vállalkozások közti kölcsönök nyújtásának, és a bankok is ezen dokumentumok alapján folyósítanak kölcsönöket. Mindezen túl vannak adófizetési kötelezettségek is. Nem szabad tehát a kisvállalkozások vezetőit azzal hitegetni, hogy rengeteg időt és pénzt spórolhatnak meg, ha felhagynak a számvitellel. Ez katasztrofális következményekkel járna.
+<P>
+Egy olyan számviteli rendszerre van szükség, amely megfelel a kisvállalkozások szükségleteinek és felmenti azokat a túlzott vagy fölösleges kötelezettségek alól. Azt gondolom azonban, biztos úr, hogy az egyszerűsítés legjobb módja az, hogyha egyszer és mindenkorra érvényessé tesszük azt a szabályt, hogy az információkat minden tagállamban egyszer kell bekérni, és nem kötelezhetik arra a vállalkozásokat, hogy időről-időre készítsék el ugyanazokat a beszámolókat, töltsék ki ugyanazokat az űrlapokat, és adják meg a hatóságoknak ugyanazokat az adatokat, amelyeket egyszer már elküldtek.
+<P>
+Ezzel a megoldással segíthetjük a vállalatvezetőket: biztosíthatjuk, hogy a számviteli szabályok segítségével átlássák cégük helyzetét és felmenthetjük őket a teljesen értelmetlen adminisztratív kötelezettségek alól.
+<SPEAKER ID="011" NAME="Sharon Bowles">
+az ALDE képviselőcsoport nevében. - Elnök úr, én üdvözlendőnek tartom a KKV-k beszámolókészítési terheinek csökkentését. A kisebb cégek nem tekinthetők a nagy cégek kicsinyített másainak, s így a nagyvállalatokra vonatkozó egyes beszámolókészítési kötelezettségek az ő esetükben egyáltalán nem relevánsak. Más előírások túlzott erőforrásokat igényelnek és végső soron nem szolgálják a köz érdekét, mivel nem illeszkednek a rengetegféle kisebb céget felvonultató európai környezethez. A fölösleges beszámolókészítés több kárt okoz, mint hasznot, úgyhogy örülök, ha egy részétől megszabadulunk. Folytassuk ezt a hasznos munkát.
+<P>
+A jelentés végleges szövegének azonban van egy része, amellyel képviselőcsoportom és mások sem tudnak egyetérteni: a megfelelési táblázatok. A Bizottság a nemzeti jogba való átültetésről szóló megfelelési táblázatokat ebben a kis irányelvben is kötelezővé kívánta tenni, és ez megegyezik a mi álláspontunkkal is. A Tanács ezzel nem ért egyet, mert szerinte indokolatlan terhet jelent. Erre annyit tudok mondani, hogy nem kellene annak lennie. Meg kell találni a módját, hogy a közösségi jogszabályoknak való megfelelésről szóló információkat hozzáférhetővé tegyük. Ezen a ponton hatalmas demokratikus hiányosság mutatkozik. A felelősök a tagállamok, de természetesen az uniót hibáztatják.
+<P>
+A helyzet a Lisszaboni Szerződést ért kritikákra emlékeztet, mivel az önmagában, független dokumentumként értelmezhetetlen. Itt azonban még nagyobb ellenállásnak kellene lennie, mert a megfelelés kapcsán a tagállamok kormányai napi szinten pontosan ugyanezt teszik a polgáraikkal és azok vállalkozásaival. Ne kerülgessük az igazságot: ez nem az unió hibája. Ez a tagállamok kormányainak hibája, és a helyzeten változtatni kell.
+<SPEAKER ID="012" NAME="Patrick Louis">
+az IND/DEM képviselőcsoport nevében. - (FR) Elnök úr, hölgyeim és uraim! A Bizottság csökkenteni kívánja a vállalkozások adminisztratív terheit, ami alapjában véve helyes cél. De ha az egészet a lehető legrövidebb idő alatt próbáljuk lezavarni, akkor nem leszünk képesek alapvetően változtatni a helyzeten. Márpedig változtatásra szükség van, mivel a Bizottság továbbra is folyamatosan túlzott szabványosítást, számtalan döntéshozatali szintet és rendszerszintű korlátozást vezet be az európai vállalkozásokra vonatkozóan, bármekkorák legyenek is.
+<P>
+Ma három állam kivételével mind elismeri, hogy a vállalkozásokról szóló adatokat- létrehozásuktól megszűnésükig - nyilvánosságra kell hozni, és a Bizottság maga is beismeri, hogy ezen információk egy része elvész. Ez a veszteség elsősorban azokat érinti, akiknek a leginkább szüksége van az adatokra: a mikrovállalkozások környezetében működő egyéneket és KKV-kat, és az azokkal közvetlen kapcsolatban lévő személyeket.
+<P>
+Ez a javaslat módosítaná az átadható információ szabályozását, s így a jelenleg mindenki számára viszonylag könnyen hozzáférhető információk hosszú távon csak a keresési célokat pontosan ismerő szakmabeliek számára lennének elérhetőek. Ezt a javaslatot nem igazán fogadhatjuk el, hiszen a felelősségteljes törvényhozás szellemében a téma nem igényel különleges intézkedéseket, mivel a gazdasági információk címzettjei csakis a következők lehetnek: minden, az adatok iránt érdeklődő állampolgár, fogyasztó és befektető.
+<P>
+Ugyanakkor ez a javaslat káros következményekkel járhat, sőt, bizonyosan járna is a regionális sajtóra nézve, amely már most is bajban van, hiszen feladata a bírósági és törvényhozási bejelentések közzététele, amelyek a hirdetési bevételeknek akár 25-50%-át is szolgáltathatják. Ezek a lapok létfontosságú gazdasági és társadalmi szerepet játszanak. Meg kell védeni őket, mivel ezáltal a helyi közösségekben játszott társadalmi szerepüket is védelmezzük. Meg kéne tehát próbálnunk takarékoskodni és a munkánkban más területekre koncentrálni. Véleményem szerint ez a téma ma még nem érett meg a továbblépésre.
+<SPEAKER ID="013" NAME="Tadeusz Zwiefka" AFFILIATION="PPE-DE">
+(PL) Elnök úr, vállalkozáspolitikánk fő célja az, hogy megfelelő környezetet alakítsunk ki az új vállalkozások beindításához és fejlesztéséhez. A gazdasági körülmények javításához egyszerűsíteni kell az adminisztratív és jogi eljárásokat, és intézkedni kell a finanszírozás, az adóztatás, a társadalmi és természetes környezet tekintetében is, hiszen mindezek hatással vannak a vállalkozások működésére.
+<P>
+Az egységes szabályozás hatalmas előnyökkel járna a nemzetközi üzleti világ számára. Először is, a szupranacionális pénzügyi beszámolási standardok bevezetésével könnyebbé válna a különböző országokban székelő cégek pénzügyi helyzetének értékelése és összehasonlítása, ez pedig leegyszerűsítené a befektetésekkel kapcsolatos döntéshozatali folyamatot. Másodszor pedig, az általánosan elfogadott számviteli elvekre épülő pénzügyi beszámolókészítésnek köszönhetően javulnának a cégek tőkéhez jutási esélyei.
+<P>
+A kis- és középvállalakozásokra sok esetben pontosan ugyanazok a jogszabályok vonatkoznak, mint a nagyvállalatokra, sajátos számviteli szükségleteiket ritkán veszik figyelembe. Fontos, hogy a vita ne csak az egyszerűsítésről szóljon, hanem arról is, hogy a számviteli standardoknak milyen hatásai vannak a kis- és középvállalkozásokra nézve, és ezek mennyiben térnek el a nagy, tőzsdén jegyzett cégekre gyakorolt hatásoktól. Az egyszerűsítésről szóló vita általában a költségek körül forog. Mindamellett a számviteli követelmények következményeiről folytatott vitában teret kap a pénzügyi beszámolókészítés előnyeinek és az egyes érintettek szükségleteinek kérdése is.
+<P>
+Több előnnyel is jár, ha a kis- és középvállalkozásokra vonatkozóan egyszerűsített szabályozást vezetünk be. Először is, az általános standardok alkalmazása mindenképpen kevesebb előnyt tartogat a kis- és középvállalkozások számára, mint a nagyobb, tőzsdén jegyzett cégek számára, s emiatt alkalmazásuk során felborul a költség-haszon egyensúly. A megfelelő költség-haszon egyensúly eléréséhez pedig csökkenteni kell a költségeket. Másodszor, a pénzügyi beszámolókészítés lényegében nem kap fontos szerepet a kis- és középvállalkozások tulajdonosainál információs igényeik kielégítésében, mivel ők az adatokhoz közvetlenül is hozzáférnek. Harmadszor pedig, a KKV-k által készített pénzügyi beszámolók tulajdonképpeni felhasználói kevesebbet tudnak a pénzügyi beszámolókészítésről, így azt az ő ismereteikhez kell igazítani.
+<SPEAKER ID="014" NAME="Lidia Joanna Geringer de Oedenberg" AFFILIATION="PSE">
+(PL) Elnök úr, az Európai Parlament évek óta rendszeresen aggodalmának ad hangot az európai vállalkozásokat terhelő, fölösleges és aránytalanul magas adminisztratív költségek miatt. Ezért örömmel látjuk, hogy a Bizottság végre foglalkozik ezzel a kérdéssel, és gyorsított eljárás keretében módosításokat javasolt a 4. és 7. társasági jogi irányelvekre vonatkozóan, a középvállalkozások közzétételi és az konszolidált pénzügyi beszámoló készítésére vonatkozó kötelezettségei terén.
+<P>
+Támogatom a Bizottság megközelítését, amellyel igyekszik egyszerűsíteni az európai vállalkozások működési feltételeit. Hozzájárulásom azonban nem feltétel nélküli: akkor támogatom a kezdeményezést, ha ezek a változások nem csökkentik az átláthatóságot és nem járnak azzal, hogy a beszámolók felhasználói csak korlátozott mértékben férhetnek hozzá az információkhoz. Az alapítási költségek nyilvánosságra hozási kötelezettségének eltörlésére irányuló javaslat megalapozottnak tűnik. A kisvállalkozások számára rendelkezésre álló mentességi lehetőségek a tagállamok többségében igen eredményesen működnek. Ezeknek a középvállalkozásokra történő kiterjesztése hozzájárulhat a rájuk nehezedő pénzügyi terhek enyhítéséhez.
+<P>
+A 7. társasági jogi irányelvben javasolt módosításokról: nem indokolt az konszolidált beszámoló készítésének kötelezettsége, mivel az konszolidált beszámoló ebben az esetben majdnem teljesen azonos lenne a nem kötelező egyéni pénzügyi beszámolóval.
+<P>
+Az Európai Bizottságnak további erőfeszítéseket kellene tennie a 4. és 7. társasági jogi irányelv felülvizsgálatára, hogy még 2009 vége előtt felállíthasson egy európai számviteli keretrendszert. Az egységes standard csökkentené a KKV-k adminisztratív terheit, és minden érintett számára növelné az átláthatóságot.
+<SPEAKER ID="015" NAME="Jacques Toubon" AFFILIATION="PPE-DE">
+- (FR) Elnök úr, először is szeretnék köszönetet mondani az előadónak, Ieke van den Burgnak, koordinátorunknak, Lehne úrnak és az árnyék-előadónak, Gauzès úrnak. Mindannyian sokat dolgoztak azon, hogy eljussunk a jelenlegi álláspontig, amely véleményem szerint rendkívül meggyőző és ésszerű.
+<P>
+Nagyon jól tudjuk, hogy a szabályozást a kis- és középvállalkozások sajátos helyzetének megfelelően kell módosítani, és ezért határozottan támogatjuk a Bizottság által javasolt és a Tanács által is támogatott, a kis- és középvállalkozásokra vonatkozó tervet. Mindazonáltal annyit szeretnék hozzáfűzni, hogy mindez nem vezethet ahhoz, hogy a kis- és középvállalkozásokat tulajdonképpen nem tekintjük valódi vállalkozásnak, és egyfajta karanténba zárjuk őket, ahol annyi az egyszerűsítés és annyira kevés a szabály, hogy azok már nem biztosítják a működéshez és a növekedéshez szükséges hitelhez való hozzáférést - ez pedig a jelenlegi válságos időkben különösen fontos.
+<P>
+Ezért támogatom én is Gauzès úrral együtt az Ieke van den Burg által javasolt és a bizottságunk által elfogadott megoldást, amely fel kívánja kérni a Bizottságot arra, hogy nyújtson be egy olyan javaslatot, amely alapján a tagállamok felmenthetik az irányelv előírásainak betartása alól a kis méretű vállalkozásokat - azokat, amelyeknek mérlege 500 000 eurónál kevesebb, forgalma 1 millió euró alatt van, kevesebb, mint 10 alkalmazottat foglalkoztatnak és csak egy tagállamban végeznek helyi vagy regionális szintű tevékenységet.
+<P>
+Ezáltal minden tagállamnak meglesz a lehetősége, hogy kiigazítsa saját jogszabályait, ahogy azt Németország már meg is tette. Ugyanakkor a kis- és középvállalkozásokat ugyanúgy kezeljük, mint minden más céget - ez nagyon fontos. A kis- és középvállalkozások nem külön, elszigetelten fejlődnek; Európának tennie kell azért, hogy a KKV-k ne legyenek hátrányos helyzetben.
+<SPEAKER ID="016" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
+(PL) Elnök úr, a kis- és középvállalkozások az Európai Unió munkavállalóinak 60%-át foglalkoztatják, ezért rendkívül fontos a gazdasági helyzetük. Gazdasági válság idején különösen lényeges, hogy elkerüljük a törvényi kötelezettségek túlbonyolítását, így könnyítve meg ezen vállalkozások működését. Ezzel előnyösebb helyzetet teremtünk ezeknek a cégeknek és dolgozóiknak.
+<P>
+A módosított irányelvben szereplő, a pénzügyi beszámolókészítésre vonatkozó egyszerűsített szabályozás a helyes irányba tett lépés. Egyetértek azonban kollégámmal, aki rámutatott, hogy biztosítani kell, hogy a helyi újságírók is hozzáférhessenek az adatokhoz.
+<SPEAKER ID="017" NAME="Rachida Dati">
+a Tanács soros elnöke. - (FR) Elnök úr, hölgyeim és uraim! Először is, elnézést kérek a késésért. Sajnos Párizst nem tudtuk időben elhagyni. Nem hallottam ugyan a teljes vitát, de köszönöm, hogy ezekről a fontos témákról ma vitát tartanak.
+<P>
+A Tanács eddig is figyelemmel kísérte, és továbbra is figyelemmel fogja kísérni az Önök megjegyzéseit és javaslatait, és nem kerüli el figyelmét az sem, hogy milyen fontosnak tartják ezt a kérdést, különösen a vállalkozások terheinek csökkentését.
+<P>
+Ez rendkívül érzékeny kérdés, és - különös tekintettel a jelenlegi válságra - mindenképpen egyszerűsítenünk kell a szabályozást, azonban ez nem vezethet szabályozatlansághoz. Így lehet Európában lényegesen nagyobb biztonságot nyújtó környezetet teremteni, biztosítva a kis- és középvállalkozások fejlődését.
+<SPEAKER ID="018" NAME="Jacques Barrot">
+a Bizottság alelnöke. - (FR) Elnök úr, szeretném üdvözölni Rachida Datit, és csatlakozom azokhoz, akik köszönetet mondtak a Parlamentnek, Ieke van den Burgnak, Lehne úrnak és Gauzès úrnak a munkájukért, amelynek köszönhetően ma az első rendelkezéssel kapcsolatos folyamat lezárulhat.
+<P>
+Nagy figyelemmel hallgattam a kisvállalkozásokkal kapcsolatban elhangzottakat. A cél az, hogy a tervezett felülvizsgálattal egy időben módosítsuk a kisvállalkozásokra vonatkozó szabályozást, de szeretném ismételten kiemelni, hogy a tagállamok dönthetik majd el, hogy ezeket a szabályokat kívánják alkalmazni, vagy pedig a helyi viszonyoknak megfelelő más megoldást választanak.
+<P>
+Személy szerint nagyon is azonosulni tudok azzal az érveléssel, hogy nem szabad a kisvállalkozásokat olyan helyzetbe hozni, hogy az egyszerűsítés szándéka miatt úgymond a gazdasági élet partvonalára kerüljenek. Ennyit szerettem volna elmondani; úgy gondolom, hogy a belső piacért felelős kollégám, McCreevy úr számára hasznos tapasztalatokkal szolgál majd a mai vita, és sikerül majd csökkenteni a vállalkozásoknak, különösen a legkisebb vállalkozásoknak problémát okozó adminisztratív terheket.
+<P>
+Köszönöm a Parlamentnek folyamatos támogatását, és remélem, hogy ez a konstruktív együttműködés a jövő évben is töretlenül folytatódik majd.
+<SPEAKER ID="019" NAME="Ieke van den Burg">
+előadó. - (NL) Úgy vélem, a Parlament üzenete egyértelmű. Az, hogy a tagállamok a mikrovállalkozásoknak az európai jogszabályok alól ideiglenesen mentességet adhassanak, rövid távon megoldást jelent, de nem végleges megoldást. Remélem, hogy ez az üzenet a Bizottságnál nyitott fülekre talál majd.
+<P>
+Egységes európai jogszabályokat szeretnénk bevezetni a mikro-, kis- és középvállalkozásokra vonatkozóan, amelyek lehetővé teszik, hogy azok a belső piacon működjenek, s ugyanakkor egyszerűek is. Ahogy Gauzès úr is mondta, fel kell állítani egy központi elgondolást és egy egységes szabályrendszert, mint a kiterjeszthető üzleti beszámolási nyelv (eXtensible Business Reporting Language, XBRL) esetében is, hogy ne nehezedjenek a vállalkozásokra olyan hatalmas adminisztratív terhek, mint most. Végső soron, még akkor is, ha a tagállamok felmentési lehetőséget kapnak, ez nem jelenti azt, hogy saját szabályaikat alkalmazhatnák, minden tagállamban eltérő módon. Ez középtávon nem old meg semmit.
+<P>
+Középtávon olyan javaslatot kívánunk összeállítani, amely egyszerű, harmonizált jogszabályokat biztosít, amelyek az egész belső piacon alkalmazhatók és amely nem jár a kis- és középvállalkozások számára nagy teherrel: csak egy egyszerű rendszer kell az éves elszámoláshoz. Ez a Parlament szándéka, és remélem, hogy ez érezhető is volt.
+<SPEAKER ID="020" NAME="Elnök">
+A rendelet 103. cikke 2. bekezdése értelmében benyújtott állásfoglalás-tervezetetmegkaptam.
+<P>
+A vitát lezárom.
+<P>
+A szavazásra csütörtökön, 2008. december 18-án kerül majd sor.

@@ -1,0 +1,4 @@
+<CHAPTER ID="007">
+Hääletused
+<SPEAKER ID="049" NAME="President">
+Järgmine päevakorrapunkt on hääletused.

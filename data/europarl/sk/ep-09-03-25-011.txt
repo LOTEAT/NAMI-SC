@@ -1,0 +1,270 @@
+<CHAPTER ID="011">
+Posilňovanie bezpečnosti a základných slobôd na internete (rozprava) 
+<SPEAKER ID="415" NAME="Predsedajúci">
+Ďalším bodom programu je správa, ktorú v mene Výboru pre občianske slobody, spravodlivosť a vnútorné veci predkladá pán Stavros Lambrinidis, s návrhom odporúčania Európskeho parlamentu Rade o posilňovaní bezpečnosti a základných slobôd na internete.
+<SPEAKER ID="416" NAME="Stavros Lambrinidis">
+spravodajca. - (EL) Vážený pán predsedajúci, žijeme v dobe, kde každý - vlády, súkromné spoločnosti a dokonca aj páchatelia trestných činov - hľadajú najlepší možný prístup k našim elektronickým údajom a k nášmu súkromnému životu.
+<P>
+Internet predovšetkým sprístupňuje podrobné informácie o našich súkromných životoch, čo bolo pred niekoľkými rokmi nepredstaviteľné. Súčasne je zrejmé, že internet zlepšuje našu možnosť uplatňovať si základné práva, ako sú sloboda prejavu, sloboda politickej činnosti, sloboda vedomia a vzdelávania a sloboda združovania sa.
+<P>
+Menej zrejmé je to, že v dôsledku používania internetu, pod tajným dohľadom vlád, súkromných spoločností alebo dokonca páchateľov trestnej činnosti nad tým, čo robíme alebo hľadáme na internete, existuje nebezpečenstvo ohrozenia týchto našich slobôd. A preto ešte menej jasné je to, ako môžeme dosiahnuť rovnováhu, ako môžeme regulovať internet spôsobom, ktorý nám umožní využívať jeho výhody, a zároveň obmedziť jeho evidentné nebezpečenstvá.
+<P>
+Táto správa sa pokúsi odpovedať na tieto otázky. Okrem iného:
+<P>
+po prvé, táto správa vyzýva európsku iniciatívu aby vytvorila globálny zákon o právach na internete;
+<P>
+po druhé, signalizuje potrebu účinného, ale primeraného boja proti starým a novým formám počítačovej kriminality, ako sú krádež totožnosti a ochrana práv duševného vlastníctva, zatiaľ čo je potrebné poukázať na to, že právne predpisy nesmú viesť k sústavnému dohľadu nad všetkými občanmi, podozrivými a nepodozrivými, tými, čo konajú správne, aj tými, čo správne nekonajú, pretože to by, samozrejme, bolo očividné narušenie ich súkromia;
+<P>
+po tretie, pokiaľ ide o právo občanov na prístup na internet, táto správa vyzýva vlády, aby zabezpečili prístup na internet najchudobnejším občanom v najvzdialenejších regiónoch;
+<P>
+po štvrté, zdôrazňuje, že elektronická negramotnosť bude novou negramotnosťou 21. storočia presne tak, ako bola nevedomosť čítať alebo písať v 20. storočí, a že práve preto je prístup na internet základným právom porovnateľným s právom na vzdelanie;
+<P>
+po piate, táto správa vyzýva na opatrenia, ktoré obmedzia súhlas používateľov, čo je hlavný problém, ktorému sa teraz budem venovať.
+<P>
+Otázka súhlasu je nesmierne komplikovaná a ak ju nevyriešime hneď teraz, vráti sa a bude nás naďalej prenasledovať. Dovoľte mi uviesť príklad: pred pár desaťročiami nikto nevedel, aké noviny čítam; vedela to iba moja rodina a možno zopár mojich priateľov. Preto - a to hlavne platí počas diktatúry - sa to tajné služby pokúšali zistiť, aby to mohli o mne uviesť do spisov. Tak, aby mohli povedať, že pán Lambrinidis číta také a také noviny, takže musí byť komunista alebo musí podporovať USA a ich politiku. Dnes, vždy keď čítam noviny, zanechám nejakú stopu. To znamená, že súkromné spoločnosti môžu zostaviť podobné spisy, môžu vytvoriť môj profil o princípoch, v ktoré verím, o mojich stravovacích návykoch a dokonca aj o mojom zdraví. Znamená to, že navštevujem tieto stránky, že dávam súhlas na získavanie informácií o mojej minulosti spred štyridsiatich rokov?
+<P>
+Nevyhnutne musíme prijať citlivé zákony, ktoré v tejto elektronickej dobe zabezpečia rovnováhu medzi bojom proti zločinu a ochranou práv. Dosiahnutie tejto rovnováhy sa zdá byť zložité, ale nie je. Dá sa zvládnuť. Je potrebné prestať zaobchádzať s kybernetickým priestorom tak, ako keby to bolo niečo mimo nášho každodenného života, niečo oddelené. Je to náš život. To znamená, že akékoľvek práva alebo prekážky, ktoré platia pre políciu a súkromné spoločnosti v rámci internetu, musia tiež platiť aj mimo neho, inak podstupujeme riziko zrušenia slobôd v záujme bezpečnosti, ako aj riziko, že nakoniec nebudú ani slobody, ani skutočná bezpečnosť.
+<P>
+Na záver chcem srdečne poďakovať tieňovým spravodajcom všetkých politických skupín, ktorých tu v Parlamente vidím, za ich veľmi významnú podporu. Ďakujem všetkým poslancom vo Výbore pre občianske slobody, spravodlivosť a vnútorné veci za jednotnú podporu, ktorú táto správa získala od všetkých strán. Teším sa na jej schválenie v pléne.
+<SPEAKER ID="417" NAME="Ján Figeľ">
+člen Komisie. - Vážený pán predsedajúci, rád by som poďakoval nielen Parlamentu ako takému, ale najmä pánovi Stavrosovi Lambrinidisovi za jeho správu, ktorá prichádza práve vhod s presadzovaním základných slobôd a bezpečnosti na internete.
+<P>
+Kým internet získava stále pevnejšie postavenie v moderných spoločnostiach a ekonomikách a ovplyvňuje mnohé oblasti nášho života, zvyšuje sa ohromné tempo technologického rozvoja a zároveň pribúdajú dôležité úlohy, ktoré sa musia náležite riešiť, ak chceme objasniť všetky možnosti internetu a informačnej spoločnosti.
+<P>
+Obvzlášť sa stotožňujeme s obavami pána Lambrinidisa týkajúcimi sa ochrany osobných údajov, záležitosti, ktorá je najdôležitejšia pre používateľov internetu. Dovoľte mi uistiť vás, že Komisia odhodlane pokračuje v posilňovaní základných práv a slobôd občanov a obvzlášť v zabezpečovaní vysokej úrovne ochrany súkromia a osobných údajov na internete aj v iných súvislostiach.
+<P>
+Pevne verím, že hľadanie dostatočnej ochrany súkromia nestojí v protiklade k potrebe zabezpečenia väčšej bezpečnosti. Samozrejme, že tieto dva ciele sa môžu a mali by sa vykonávať v súčinnosti.
+<P>
+Stabilita a bezpečnosť internetu boli prioritami počas svetového samitu o informačnej spoločnosti v roku 2005 a pokračujeme s presadzovaním týchto cieľov. Táto problematika bude v krátkej dobe predložená prostredníctvom novej stratégie na ochranu kritických informačných infraštruktúr s cieľom zlepšiť prípravu Európy na ochranu pred rozsiahlymi kybernetickými útokmi a narušeniami. Táto stratégia zahŕňa akčný plán, ktorý definuje podrobné vysvetlenie presadzovania princípov a usmernení na zachovanie stability a pružnosti internetu.
+<P>
+Strategická spolupráca s tretími krajinami sa bude rozvíjať v rámci stratégie najmä v dialógoch informačnej spoločnosti ako prostriedku na vybudovanie globálnej zhody v tejto oblasti. Komisia je zároveň presvedčená, že je nevyhnutné zabezpečiť rešpektovanie základných slobôd, ako je sloboda prejavu na internete.
+<P>
+Znovu opakujem, tieto dva ciele sa navzájom nevylučujú. Vaša správa sa ďalej zaoberá možnosťou pracovať na globálnych normách, ochrane údajov a slobode prejavu. Komisia sa každoročne zúčastňuje na medzinárodných konferenciách o ochrane údajov komisárov a následne pokračuje v ďalšej práci na budúcich možných medzinárodných normách týkajúcich sa súkromia a ochrany osobných údajov. Sme pevne odhodlaní presadzovať prísne normy ochrany, ktoré občania EÚ v súčasnosti využívajú.
+<P>
+Pokiaľ ide o slobodu prejavu, Komisia bude pokračovať v presadzovaní tohto základného práva na medzinárodných fórach. Nové právne predpisy v tejto oblasti by sa v súčasnosti nepovažovali za krok vpred. Pokiaľ ide o túto záležitosť, máme už určitý počet záväzných medzinárodných nástrojov. V tejto chvíli verím, že by bolo potrebné zaoberať sa účinným uvažovaním o náležitých spôsoboch uplatňovania už existujúcich právnych predpisov. Tak to je o realizácii. Tieto úvahy by mali tiež zahŕňať globálnych aktívnych obchodných účastníkov a mali by pomáhať lepšie definovať ich úlohy a zodpovednosti pri presadzovaní a posilňovaní základnej slobody prejavu v globálnom internetovom prostredí.
+<P>
+Na záver mi dovoľte zhrnutie. Domnievam sa, že by sme sa mali zaoberať vážnymi problémami, ktoré sú uvedené v tejto správe a uistiť sa, že konkrétne uplatňovanie práv a slobôd na internete nie je neprimerane obmedzované.
+<P>
+Napríklad dôležitý prvok stratégie Komisie pre bezpečnú informačnú spoločnosť má od roku 2006 holistický prístup, ktorý zabezpečuje koordináciu medzi zainteresovanými stranami, ale taktiež uznáva, že každá z nich má plniť špecifické úlohy a povinnosti. Všetci máme povinnosť zabezpečiť, aby naša činnosť na internete neprimerane neobmedzovala - a, ak je to možné, aby presadzovala - bezpečnosť iných ľudí na internete.
+<P>
+Komisia preto, v zmysle spolupráce víta a podporuje túto správu.
+<SPEAKER ID="418" NAME="Manolis Mavrommatis" LANGUAGE="EL">
+Vážený pán predsedajúci, pán komisár, dámy a páni, rád by som začal poďakovaním spravodajcovi pánovi Stavrosovi Lambrinidisovi za dôležitú správu, ktorú vypracoval, a za jeho snahu chrániť osobné údaje, princíp, ktorý väčšina z nás vrátane mňa rešpektuje.
+<P>
+Ako spravodajca Výboru pre kultúru a vzdelávanie považujem internet za jedinečný priestor pre šírenie kultúry a poznatkov. Poukazujem na to preto, aby som zablahoželal a poďakoval všetkým svojim cteným priateľom z Výboru pre kultúru, ktorí hlasovali za môj návrh.
+<P>
+Digitálne múzejné archívy, elektronické knihy, hudobné a audiovizuálne materiály môžu byť dostupné ľuďom v každom kúte sveta. Ale nanešťastie v rozsiahlom kybernetickom priestore nie je kultúrny materiál dostatočne chránený. Pirátstvo zvykne byť skôr pravidlom než výnimkou a sú to práve autori, ktorí doplácajú na nelegálnu distribúciu svojho duševného vlastníctva. Inými slovami, básnici, textári, skladatelia, producenti a vo všeobecnosti každý, kto tvorivo pracuje.
+<P>
+Sú tri veci, ktoré napomáhajú rozširovanie pirátstva: technologické vybavenie a lacné kopírovanie, nepriaznivé hospodárske podmienky a preniknutie internetu.
+<P>
+Pozmeňujúci a doplňujúci návrh 4 obnovuje odporúčanie Výboru pre kultúru s cieľom vytvoriť rovnováhu medzi právami a slobodami všetkých zúčastnených strán a zaistiť, aby všetky základné práva osôb, vyplývajúce z Charty základných práv EÚ, boli zabezpečené a chránené v rámci rozsiahleho používania internetu.
+<P>
+Práve preto podporujeme tento pozmeňujúci a doplňujúci návrh, ktorý opakovane zdôrazňuje, že všetky základné práva majú rovnakú hodnotu a všetky musia byť chránené rovnakým spôsobom.
+<SPEAKER ID="419" NAME="Nicolae Vlad Popa" LANGUAGE="RO">
+Táto správa je výsledkom spolupráce medzi poslancami tohto Parlamentu. Preto by som rád poďakoval svojim kolegom, hlavne pánovi Lambrinidisovi, taktiež pani Gacekovej, pánovi Alvarovi, pani Segelströmovej a pánovi Mavrommatisovi, s ktorými som mal tú česť spolupracovať, tiež ako tieňový spravodajca.
+<P>
+Myslím si, že táto správa zahŕňa hlavné témy záujmu na posilňovaní bezpečnosti a základných ľudských práv na internete, pričom sa odvolávajú na ochranu práv stanovenú špecifickými platnými nariadeniami vrátane ich digitálnych hľadísk a na uznanie a rozvoj nových princípov na kontrolu internetu.
+<P>
+Tento text zachováva vhodnú vyváženosť medzi ochranou slobody prejavu a súkromia a potrebou pokračovať v boji proti počítačovej kriminalite, taktiež zdôrazňuje závažný problém nadmerného monitorovania internetovej činnosti, čo môže prerásť do novej formy cenzúry.
+<P>
+Táto správa sa tiež zaoberá záležitosťami týkajúcimi sa internetového vzdelávania, elektronického vzdelávania, definovania digitálnej totožnosti a uznaním práv používateľov v súvislosti s obsahom, ktorý zverejnili na internete, rovnako ako aj ochrany osobných údajov, v zmysle poskytnutia možnosti používateľom natrvalo vymazať svoje vlastné zverejnené údaje.
+<P>
+Toto sú citlivé témy v súčasnom prostredí, kde sú sociálne siete stále viac, nie však výhradne, obsadené mladými ľuďmi. Práve preto naliehavo žiadam kolegov, aby s úplným presvedčením hlasovali za túto správu.
+<SPEAKER ID="420" NAME="Inger Segelström" LANGUAGE="SV">
+Vážený pán predsedajúci, rada by som začala poďakovaním pánovi Lambrinidisovi a ostatným vo Výbore pre občianske slobody, spravodlivosť a vnútorné veci, ktorí vypracovali túto konštruktívnu a dobre premyslenú správu. Rada by som tiež poďakovala za podporu, ktorú som dostala k svojim pozmeňujúcim a doplňujúcim návrhom. Presne to predstavuje podporu na posilňovanie práv používateľov a spotrebiteľov.
+<P>
+Napríklad časť o aplikáciách technológie - monitorovanie internetovej komunikácie je veľmi dôležitá. Je dobré, že Európsky parlament teraz zdôrazňuje, že súkromie a občianske ľudské práva si vyžadujú prioritu.
+<P>
+Táto správa objasňuje, že internetová komunikácia môže byť sledovaná len vtedy, ak je podozrenie na spáchanie trestného činu a ako súčasť súdneho procesu vyplývajúca zo súdneho nariadenia. Bude to dôležitý základ pre monitorovanie občianskych práv. Táto správa prináša potrebné opatrenia v pravú chvíľu.
+<P>
+Prekvapili ma pozmeňujúce a doplňujúce návrhy, ktoré predložili poslanci zo Skupiny Európskej ľudovej strany (kresťanských demokratov) a európskych demokratov a zo Skupiny Aliancie liberálov a demokratov za Európu. Ich návrhy obmedzujú občianske práva a súkromie občanov. Nepozerajú sa kriticky na to, čo by mohol priniesť technický pokrok, keby sme nedávali pozor.
+<P>
+Samozrejme, musíme bojovať proti trestným činom na internete a trestným činom, ktoré zneužívajú deti a mladých ľudí. Avšak v tomto kontexte je kľúčovým problémom napríklad fakt, že švédska konzervatívna vláda prijala takzvaný zákon FRA, zákon, ktorý rieši sledovanie občanov, ktorí nie sú zločincami a nespáchali žiadny trestný čin, zatiaľ čo by to, naopak, mali byť občania, ktorí kontrolujú nás. Táto správa dôrazne kritizuje švédsku konzervatívnu vládu, ktorá odmieta všetku kritiku a zaviedla tento zákon FRA vo Švédsku. Švédske úrady teraz majú právo sledovať internetovú komunikáciu aj bez akéhokoľvek podozrenia na spáchanie trestného činu alebo akéhokoľvek ohrozenia bezpečnosti jednotlivcov alebo spoločnosti.
+<P>
+Podľa rozhodnutia, aké sa zajtra prijme, sa domnievam, že švédska vláda znovu posúdi tento zákon a zabezpečí jeho zmenu. Inak budú v opozícii voči Európskemu parlamentu a zvoleným zástupcom 27 krajín EÚ.
+<SPEAKER ID="421" NAME="Alexander Alvaro" LANGUAGE="DE">
+Vážený pán predseda, na začiatok by som chcel zablahoželať pánovi Lambrinidisovi k dobre vykonanej práci. Počas prípravy tejto správy plne zapojil všetkých tieňových spravodajcov a urobil všetko pre to, aby dosiahol kompromisy.
+<P>
+Táto správa, ktorá uvádza dôležité otázky informačnej spoločnosti, je dôležitým krokom vo vzťahu k vytvoreniu internetu, ktorý je zárukou bezpečnosti pre našich občanov aj pre ich základné slobody. Hranice medzi slobodou a bezpečnosťou nekončia hranicami virtuálneho sveta. Pán Lambrinidis vo svojej správe zohľadňuje boj proti počítačovej kriminalite, detskej pornografii, krádeži a falšovaniu totožnosti, rovnako ako aj porušovaniu autorského práva. Pokúša sa zapojiť Europol a vysvetliť, že súčasné zákony reálneho sveta sa musia uplatňovať aj vo virtuálnom svete.
+<P>
+Zároveň dokázal zabezpečiť rovnováhu medzi ochranou občianskych práv, slobodou prejavu, ochranou údajov a práva na úplné vymazanie údajov na internete. Internet doteraz nezabúda. Niektorí z nás môžu byť radi, že internet neexistoval, keď sme mali 13, 14, 15 alebo 16 rokov, v dobe, keď sme sa dopustili hriechov z mladosti, ktoré by sme teraz nechceli nájsť na YouTube alebo Facebooku.
+<P>
+Pán Lambrinidis zdôraznil potrebu prístupu k informáciám a, čo je dôležitejšie, prístupu k internetu a potrebu rešpektovania duševného vlastníctva. Som si dobre vedomý toho, že pre mnohých poslancov táto správa nezachádza dostatočne do podrobností z hľadiska rešpektovania ochrany duševného vlastníctva a autorského práva. Pracujme na tom so smernicou o vymožiteľnosti práv duševného vlastníctva a zdôraznime tieto témy v tejto smernici.
+<P>
+Táto správa objasňuje, že cenzúra na internete alebo blokovanie prístupu na sieť, či už plánované, alebo už realizované niektorými členskými štátmi v Európe, nie sú opatrenia hodné našej vzdelanej spoločnosti. Tiež vysvetľuje, že Európska únia nenasleduje príklad totalitných štátov a neizoluje svojich občanov od informácií a nepodsúva im len určité informácie, ktoré ma záujem šíriť.
+<P>
+Som potešený, že máme takúto vyváženú správu, ktorá berie na vedomie požiadavky na informačnú spoločnosť, a bol by som potešený, keby moja skupina, ako aj ostatné skupiny, podporili zajtra túto správu podľa možnosti čo najviac, aby sme mohli rozvíjať internet v prospech spoločnosti.
+<SPEAKER ID="422" NAME="Roberta Angelilli" LANGUAGE="IT">
+Vážený pán predsedajúci, dámy a páni, už to spomenuli iní poslanci, ale rada by som zopakovala, že internet by nemal byť kriminalizovaný alebo cenzúrovaný, pretože poskytuje možnosti pre komunikáciu, začleňovanie do spoločnosti, informácie a znalosti, ale jednako len je potrebné rozvinúť globálnu stratégiu na boj proti počítačovej kriminalite.
+<P>
+Obzvlášť musíme chrániť deti a vzdelávať a informovať rodičov a učiteľov o nových možných hrozbách internetu. Toto sú ciele, v rámci ktorých musí byť Európa schopná účinne konať a rada by som zablahoželala pánovi spravodajcovi k dobre vykonanej práci.
+<P>
+Aj napriek trestom a pomerne vysokej úrovni ochrany, ktorú poskytujú právne predpisy členských štátov pred vykorisťovaním a zneužívaním detí a detskou pornografiou online, musíme ďalej zvyšovať úroveň ochrany detí, a to aj z pohľadu neustáleho vývoja nových technológií, hlavne internetu, a využívania nových foriem nadväzovania priateľstva pedofilov s deťmi online s cieľom ich sexuálneho zneužitia.
+<P>
+To bol presne ten dôvod, pre ktorý som sa rozhodla predložiť pozmeňujúci a doplňujúci návrh k tejto správe a otvorene vyzvať členské štáty na zmodernizovanie svojich právnych predpisov o používaní internetu neplnoletými osobami, najmä zavedením trestu za nadväzovanie priateľstva pedofilov s deťmi online s cieľom sexuálneho zneužitia, tak ako je to definované v Dohovore Rady Európy o ochrane detí pred sexuálnym vykorisťovaním a zneužívaním, z októbra 2007.
+<SPEAKER ID="423" NAME="Eva-Britt Svensson">
+v mene skupiny GUE/NGL. - Vážený pán predsedajúci, chcela by som veľmi poďakovať pánovi Lambrinidisovi za úspešné zvládnutie dodržania bezpečnosti na internete pri súčasnej ochrane a rešpektovaní neoceniteľných základných práv. Predpokladám, že ochrana našich základných práv podľa tejto správy bude tiež podporená, keď prijmeme rozhodnutie o balíku telekomunikačných opatrení. Je tu jasná spojitosť medzi touto správou a balíkom telekomunikačných opatrení. Dúfam, že sa potom tiež dohodneme na dôležitosti ochrany občianskych slobôd.
+<P>
+Ako už niekoľko poslancov povedalo, internet priniesol so sebou oveľa viac príležitostí pre slobodu prejavu. Občania, ktorí obyčajne nemajú prístup na rozsiahle mediálne diskusné fóra, môžu vyvolať rozruch a presadzovať svoje otázky. Pre politickú mobilizáciu je veľmi potrebná nová aréna, ktorá poslúži výmene názorov a ktorá poskytne občanom viac príležitostí kontrolovať tých, ktorí rozhodujú. Dôležité je, že samotní občania majú príležitosť skontrolovať zákonodarcov a ostatných držiteľov právomoci. Taktiež to prinieslo rozširovanie poznatkov. Predovšetkým máme tiež príležitosť na výmenu a kontaktovanie sa s ľuďmi pochádzajúcimi z odlišných kultúr a odlišných častí sveta.
+<P>
+Keď hovoríme o tejto záležitosti, je tiež napríklad dôležité zabezpečiť, aby sme mali skutočnú slobodu prejavu a záruky proti cenzúre a kontrole názorov, informácií a formovaniu názorov. Základné ľudské práva, sloboda prejavu a súkromie, sú dôležité prvky demokracie a vždy sa musia chrániť aj rešpektovať. Preto internet je a naďalej by mal zostať dôležitým prvkom v našej dnešnej demokratickej spoločnosti.
+<P>
+Preto by som chcela, aby sme hlasovali proti pozmeňujúcemu a doplňujúcemu návrhu 5, ktorý sa snaží odstrániť časť textu "zabezpečiť, aby vyjadrenie kontroverzných politických názorov prostredníctvom internetu nebolo predmetom trestného stíhania”. Ale ak by predsa tento pozmeňujúci a doplňujúci návrh prešiel, bol by to pre demokraciu krok späť. Kto rozhoduje o tom, čo sú kontroverzné politické názory? Možnosť vyjadriť odlišné politické názory je demokratickým právom.
+<P>
+Právo používateľov internetu môcť trvale vymazať osobné údaje nájdené na internete je tiež dôležité. Samozrejme, musíme bojovať proti kriminalite na internete, ako proti každej trestnej činnosti, ale musíme to tiež robiť určitým zákonným spôsobom v súlade s trestným právom, presne ako s inými typmi trestných činov.
+<P>
+Internetová kriminalita spáchaná na deťoch je obzvlášť závažná. V tejto súvislosti sa riadime dohovorom Rady Európy o ochrane detí pred sexuálnym vykorisťovaním a zneužívaním. Ostatné skupiny sú tiež ovplyvnené. Mám na mysli najmä ženy, ktoré sa stali obeťami obchodu s bielym mäsom. Pornografický priemysel dnes využíva internet a pohlavné zneužívanie, ktoré podstupuje veľa žien a detí. V tejto súvislosti by som rada svojim kolegom pripomenula skutočnosť, že môžu podporiť písomné vyhlásenie, ktoré sa snaží zastaviť takéto zneužívanie, a to písomné vyhlásenie č. 94.
+<P>
+Napokon by som chcela spomenúť nebezpečenstvo, ktoré sme videli v súvislosti s takzvaným bojom proti teroru. Toto príležitostne vedie k nezmyselným vládnym obmedzeniam týkajúcim sa slobody prejavu a súkromia jednotlivcov. Tieto obmedzenia vyústili do ohrozenia bezpečnosti občanov. Bezpečnostné služby rôznych krajín obchodujú s osobnými údajmi, ktoré získali sledovaním internetu. Toto ohrozuje životy ľudí, napríklad, ak je niekto prinútený utiecť zo svojej krajiny z dôvodu politického utláčania. Vyzývam vás, aby ste zajtra veľmi podporili túto správu.
+<SPEAKER ID="424" NAME="Hélène Goudin">
+v mene skupiny IND/DEM. - (SV) Vážený pán predsedajúci, každý deň som fascinovaná tým, aký úžasný nástroj internet je, ale akokoľvek EÚ môže proti nemu namietať, globálna počítačová sieť nie je európskou sieťou. Veriť, že nejaké nariadenie z Bruselu alebo Štrasburgu by toto mohlo zmeniť, je dosť fantastické a veľmi vzdialené od skutočnosti. Oprávnene by sa mohlo argumentovať, že EÚ nie je to správne fórum na vyriešenie tohto typu problému, ktorý je zdôraznený v tejto správe. Dovoľte mi uviesť zopár príkladov. Správa porovnáva právo na prístup na internet s právom chodiť do školy. Je to trochu smiešne, keďže vieme, že právo alebo príležitosť chodiť do školy nie sú zaistené v mnohých krajinách EÚ.
+<P>
+Ochrana a podpora práv jednotlivcov na internete a rovnováha, ktorá by mala byť medzi súkromím a bezpečnosťou, sú veľmi dôležité, ale taktiež to nie sú problémy, ktoré by mali byť vyriešené na úrovni EÚ. Toto je medzinárodný problém, ktorý sa musí v prvom rade riešiť na medzinárodnej úrovni.
+<P>
+Ďalšia vec, ktorá je môjmu srdcu blízka, je výmena súborov. Tu je nutné prijať spoločné opatrenia proti kriminalite na ochranu práv duševného vlastníctva. Pevne verím, že sú to členské štáty, ktoré by mali rozhodnúť o tom, čo je trestný čin a aké prípadné dôsledky to môže mať. Pre EÚ je absolútne neprijateľné úplne sledovať celý hudobný a filmový priemysel, najmä s ohľadom na skutočnosť, že sa pokúšame kriminalizovať celú generáciu.
+<P>
+Nakoniec by som rada povedala, že akýkoľvek pokus prijať zákony v tejto oblasti bude ťažký, keďže technológia sa mení oveľa rýchlejšie než politika.
+<SPEAKER ID="425" NAME="Urszula Gacek" AFFILIATION="PPE-DE">
+- Vážený pán predsedajúci, rada by som poďakovala pánovi spravodajcovi za prijatie môjho návrhu podporovať výrobcov počítačového softvéru v tom, aby prijali dodatočné opatrenia na zablokovanie prístupu na pornografické a násilné webové stránky.
+<P>
+Toto zaujíma zvlášť rodičov. To je realita, že naše deti sú často viac počítačovo gramotné, ako sme my. Rodičia sa možno budú mylne domnievať, že môžu aktivovať filtre v internetových prehliadačoch, ale toto si vyžaduje trocha znalosti o softvérovom prehliadači a tiež aj vedomé rozhodnutie aktivovať tento systém.
+<P>
+Ak by bol filter automaticky vopred nainštalovaný v režime "zapnutý", pravdepodobne oveľa viac detí vrátane tých najmladších, ktoré stále viac používajú internet bez dozoru - by bolo chránených pred náhodným narazením na stránky, ktoré majú na ne škodlivý vplyv. Vyzývam výrobcov, aby reagovali na náš návrh. Nemali by ho brať ako vnucovanie alebo obmedzenie, ale skôr ako marketingovú príležitosť. Ak by som si mala vybrať medzi kúpou dvoch zhruba rovnakých počítačov a na jednom z nich by som videla nálepku "prispôsobený pre deti", ktorá by potvrdzovala, že filtre boli vopred nainštalované, ja ako rodič by som si vybrala tento výrobok. Časom by rodičia, ktorí by sa takto rozhodli zaistili, že toto by sa stalo pre počítačový priemysel normou. Naozaj dúfam, že vzájomnou spoluprácou to môžeme dosiahnuť.
+<SPEAKER ID="426" NAME="Alin Lucian Antochi" AFFILIATION="PSE">
+. - (RO) Internet sa teraz dostal do nového štádia, keď je považovaný nielen za nevyhnutný nástroj v obchode, ale tiež aj za globálne fórum na vyjadrenie rozličných názorov.
+<P>
+Avšak tento vývoj vyvoláva rozdielne názory. Na jednej strane internet ďalej ponúka úžasné príležitosti, slúžiace ako katalyzátor pre vzdelávací, kultúrny, ekonomický a sociálny rozvoj, zatiaľ čo na druhej strane je chápaný ako platforma, ktorá môže byť použitá na propagovanie násilného správania, ktoré ovplyvňuje ľudskú slobodu a bezpečnosť.
+<P>
+Navyše sa internet v dôsledku svojho globálneho charakteru tiež stal hrozbou pre súkromie, keďže internetové aktivity občanov sú často predmetom sledovania zo strany vlád, policajných orgánov, spoločností a dokonca aj páchateľov trestnej činnosti a teroristov, čo niekedy vedie ku krádeži totožnosti.
+<P>
+V tejto situácii musí byť stanovená zákonná hranica, ktorá rozlišuje ochranu bezpečnosti občanov a základných slobôd na internete od neobmedzeného sledovania ich aktivít rozličnými orgánmi tak, aby sa tieto právne predpisy stali účinnými a nie neprimeranými v rámci opatrení podniknutých na boj proti kriminalite. Preto je nevyhnutné stanoviť celosvetové normy zamerané na ochranu údajov, bezpečnosť a slobodu prejavu prostredníctvom neustálej spolupráce medzi internetovými operátormi a internetovými používateľmi.
+<P>
+Takisto je dôležité, a v tejto súvislosti plne podporujem pána spravodajcu, preskúmať a stanoviť obmedzenia pre súhlas, ktorý od používateľov požaduje vláda alebo súkromné spoločnosti, pokiaľ ide o to, aby sa vzdali časti svojho súkromia, za možnosť využívať určité internetové služby alebo výhody.
+<P>
+Pán predsedajúci, v neposlednom rade som presvedčený, že členské štáty sa musia snažiť zjednotiť svoje vnútroštátne predpisy týkajúce sa ochrany základných práv na internete, keďže je to niečo, čo tiež môže pomôcť skoncipovať spoločnú stratégiu v boji proti počítačovej kriminalite alebo terorizmu.
+<P>
+Aj ja by som rád poďakoval pánovi Lambrinidisovi a celému kolektívu, ktorý prispel k vypracovaniu tejto správy.
+<SPEAKER ID="427" NAME="Sophia in 't Veld" AFFILIATION="ALDE">
+(NL) Vážený pán predsedajúci, rada by som pridala svoju poklonu k tým, ktoré už boli vyslovené pánovi spravodajcovi, ktorý pripravil úžasnú správu. Chcela by som stručne poukázať na pár vecí.
+<P>
+Predovšetkým sme v posledných rokoch svedkami veľmi rýchlo narastajúceho ukladania osobných údajov spoločnosťami a vládami. Vlády využívajú databázy spoločností, ale stále vidíme rôzne úrovne ochrany týkajúce sa prvého a tretieho piliera - čo pokladám za veľmi znepokojujúce.
+<P>
+Ďalšia vec - a teší ma, že môj pozmeňujúci a doplňujúci návrh k nej bol prijatý - je, že páchatelia trestných činov samozrejme tiež využívajú internet všetkými spôsobmi vo svoj prospech. Krádež totožnosti alarmujúco narastá, a preto musíme požiadať Európsku komisiu, aby vytvorila kontaktný bod pre tento druh krádeže - nielen ako spôsob výmeny informácií, ale tiež v prospech obetí.
+<P>
+Po tretie, celosvetové normy sú naozaj potrebné. Už sa na nich pracuje, ale takéto normy musia byť vypracované v priebehu otvoreného demokratického procesu a nie vyjednávaním predstaviteľov Európskej komisie so zástupcami Spojených štátov.
+<P>
+Na záver chcem povedať, že kým Európska komisia často pekne rozpráva o slobode a občianskych právach, všimla som si, že pod vedením pána komisára Frattiniho a tiež s pomocou Rady boli v posledných rokoch prijaté nespočetné opatrenia, ktoré umožňujú sledovať občanov vo dne v noci a obmedzovať ich slobody. Je najvyšší čas, aby sme zhodnotili, čo sa deje a aké následky z toho plynú. Preto by som chcela skončiť návrhom pre Komisiu: naliehavo vyzývam Komisiu, aby v nadchádzajúcom období určila samostatného komisára pre občianske práva a slobody.
+<SPEAKER ID="428" NAME="Predsedajúci">
+- Poskytol som pani in't Veldovej trochu času navyše, pretože má na mikroblogu Twitter 400 stúpencov. Ja som mal iba deväť. Teraz 450.
+<SPEAKER ID="429" NAME="Jean-Paul Gauzès" AFFILIATION="PPE-DE">
+(NL) Vážený pán predsedajúci, pán komisár, dámy a páni, hovorím v mene nášho kolegu pána Toubona.
+<P>
+Najskôr by som rád poďakoval pánovi Popovi, ktorý vykonal vynikajúcu prácu, keď sa pokúsil dosiahnuť kompromis, ktorý je prijateľný pre nás všetkých, napriek radikálnym stanoviskám prijatým k tejto záležitosti niektorými členmi Socialistickej skupiny v Európskom parlamente a Skupinou zelených/Európskou slobodnou alianciou.
+<P>
+Táto správa upozorňuje na dôležitú problematiku týkajúcu sa nájdenia rovnováhy medzi bezpečnosťou a základnými slobodami na internete. V skutočnosti, kým pokrok a príležitosti sú synonymá pre túto novú technológiu, nie je to bez rizika. Napríklad je nevyhnutné zaručiť slobodu prejavu a informácií tohto nového média a zároveň zabezpečiť rešpektovanie ostatných základných slobôd, ako je ochrana súkromného života ľudí, osobných údajov a duševného vlastníctva.
+<P>
+Spravodajca pán Lambrinidis, ktorý vykonal výbornú prácu, tak zvážil nové druhy internetových trestných činov a hrozby, ktorú predstavujú najmä pre deti. Nanešťastie, pokiaľ ide o iné veci, správa zostáva viac rozporuplná a dokonca nebezpečná.
+<P>
+Cieľom pozmeňujúcich a doplňujúcich návrhov, ktoré predložila pani Hieronymiová, pán Mavrommatis a pán Toubon, je vysvetliť, že útoky na základné slobody by sa nemali podporovať v mene slobody prejavu a informácií.
+<P>
+Členské štáty a internetoví operátori by si mali nechať určitý priestor na usmerňovanie, aby mohli nájsť najlepšie riešenia pre zabezpečenie toho, aby uplatňovanie práv niektorých ľudí celkom nezabránilo uplatňovaniu práv ostatných. Zákony musia platiť na internete rovnako ako všade inde. Internet nemôže byť virtuálnym priestorom, kde čin, ktorý znamená porušenie zákona v skutočnom svete, je považovaný za prípustný, ba dokonca chránený jednoducho v dôsledku technológie a spôsobu, akým je používaný. V stávke je právny poriadok našich demokratických spoločností.
+<SPEAKER ID="430" NAME="Manuel Medina Ortega" AFFILIATION="PSE">
+- (ES) Vážený pán predsedajúci, rád by som zablahoželal svojmu kolegovi a priateľovi pánovi Lambrinidisovi k správe, ktorú vypracoval, a tiež k celkom vyváženému ústnemu vysvetleniu toho, čo sa pokúša touto správou urobiť.
+<P>
+Priniesol som knihu Zmluva o Ústave pre Európu. Táto kniha bola schválená 90 % španielskych voličov a väčšinou národných parlamentov, do ktorých my poslanci Európskeho parlamentu patríme.
+<P>
+Nenadobudla platnosť z dôvodu určitých problémov politického charakteru, ale tento text je kľúčový, pretože obsahuje - a osobne to vnímam ako poverenie od svojich voličov - Chartu základných práv Európskej únie. Som presvedčený, že táto charta spája princípy uvedené v správe pána Lambrinidisa.
+<P>
+Po prvé, internet je priestor slobody, moderného života a rovnakých príležitostí, kde ľudia navzájom komunikujú, nadväzujú kontakty a vzájomne si poskytujú informácie, vymieňajú si nápady a delia sa o poznatky. Toto právo je uznané článkom II-71 Zmluvy o Ústave pre Európu.
+<P>
+Po druhé, internet by mal chrániť slobodu a rozvoj informačnej spoločnosti spôsobom, ktorý sa zhoduje s rešpektovaním duševného vlastníctva a ochrany súkromia používateľov. Právo duševného vlastníctva a tiež práva používateľov na súkromie sú osobitne uznané článkom II-77 návrhu európskej ústavy.
+<P>
+Po tretie, musíme sa snažiť o dosiahnutie primeranej rovnováhy medzi ochranou práv, podporovaním ponúkaného obsahu a legálnym trhom v digitálnom obsahu na internete, a vývojom, ktorý je otvorený novým, zjednoteným modelom, ktoré sa objavujú na internete. Tiež sa musíme zaoberať ochranou osobných údajov, ktorá je uznaná článkom II-68 návrhu ústavy.
+<P>
+Preto som presvedčený, že v správe pána Lambrinidisa sú tieto záujmy zahrnuté. Evidentne sa nezaoberá podrobnosťami podmienok, požiadaviek, následkov a sankcií, ktoré vyplynú z nesprávneho používania internetu, ale som presvedčený, že to bude vhodné pre legislatívny dokument, čo teraz nie je predmetom našej diskusie.
+<SPEAKER ID="431" NAME="Claire Gibault" AFFILIATION="ALDE">
+- (FR) Vážený pán predsedajúci, pán komisár, dámy a páni, ako umelkyňa som zarmútená a veľmi šokovaná nedostatkom záujmu o odvetvie kultúry, ktorý prejavila správa pána Lambrinidisa.
+<P>
+Chcela by som zdôrazniť, že by sme vždy mali uchovávať a ochraňovať práva jednotlivcov ako celok v súlade s Chartou základných práv Európskej únie a že by sme mali zaručiť práva a slobody všetkých zúčastnených strán. Informačná spoločnosť je stále dôležitejšie hospodárske odvetvie, ale tiež významný zdroj inovácie a kreativity, ktorý posilňuje dnešné moderné hospodárstvo.
+<P>
+Okrem iného to znamená, že všetci musia mať zaručený prístup k rozmanitej kultúre a k vzdelaniu so zreteľom na právo Spoločenstva a že hodnota kreatívnej práce autorov a umelcov vrátane digitálneho hospodárstva musia byť náležite uznávané. Avšak takéto uznanie znamená odmeňovať ich za všetky spôsoby, akými sa ich kreatívny prínos využíva, tak aby si mohli zarobiť na živobytie svojou profesiou a mohli sa jej úplne a neobmedzene venovať.
+<P>
+V tejto súvislosti nesmú byť práva duševného vlastníctva považované za prekážku, ale vlastne za hnací mechanizmus kreatívnych aktivít, najmä v súvislosti s rozvojom nových internetových služieb.
+<P>
+Na druhej strane som presvedčená, že rasistický, nenávistný alebo revizionistický prejav musí byť trestne stíhaný dokonca aj na internete. Sloboda prejavu musí byť uplatňovaná zodpovedne. Musí sa dosiahnuť správna rovnováha medzi slobodou prístupu na internet, rešpektovaním súkromia a ochranou duševného vlastníctva. A preto vás dámy a páni vyzývam, aby ste podporili moje pozmeňujúce doplňujúce návrhy 2 až 6.
+<SPEAKER ID="432" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+- (EL) Vážený pán predsedajúci, už sa stáva takmer zvykom na každej plenárnej schôdzi, že si prezeráme nejakú správu na internete. Je to dobrá vec, pretože napokon to dáva členským štátom a Európskej únii príležitosť účinne predniesť túto aktuálnu problematiku týkajúcu sa používania internetu. Ďakujem svojmu ctenému priateľovi pánovi Lambrinidisovi za súhlas zahrnúť pozmeňujúce a doplňujúce návrhy poslancov do jeho rozsiahlej správy, čo prispelo k niekoľkým novým aspektom tohto problému v rozprave.
+<P>
+Minule Parlament preskúmal otázky týkajúce sa internetových počítačových hier a rizík pre neplnoleté osoby a finančný mechanizmus Európskej únie pre bezpečný internete pre neplnoleté osoby. Dnešná rozprava ma stále viac a viac presviedča, že napokon sa všetko týka otázky právneho prístupu.
+<P>
+Preto si myslím, že jediná vec, ktorej by sme sa mali dožadovať, je štúdia na právnej úrovni o mnohopočetných problémoch, ktoré vznikajú z používania internetu. Táto správa bude preto užitočná ako katalóg, ktorý je potrebné dôkladne preskúmať právnymi expertmi. Tí potom uskutočnia výskum, ktorý poskytne všetkým zainteresovaným osobám spomenutým v tejto správe nástroje na predloženie návrhu, ktorý zabezpečí princíp právneho poriadku, pokiaľ ide o používanie internetu demokratickým spôsobom. Prirodzene nemôžeme hovoriť o demokracii, keď nie každý občan má právo bez ohľadu na jeho finančnú situáciu používať internet. Dnes to tak nie je, ale dúfame, že jedného dňa to tak bude.
+<SPEAKER ID="433" NAME="Katrin Saks" AFFILIATION="PSE">
+- (ET) Dámy a páni, dokážete si predstaviť život bez internetu? Pokiaľ ide o mňa, ja už nie. Pochádzam z Estónska, ktoré je svetovým lídrom v internetovej dostupnosti. Pravdepodobne preto tiež máme väčšie skúsenosti s nebezpečenstvami internetu, od počítačovej vojny, ktorá zasiahla našu krajinu pred dvoma rokmi, až po skutočnosť, že podľa medzinárodného výskumu sa naše deti stali korisťou počítačového obťažovania vo vyššej miere ako deti v mnohých iných krajinách.
+<P>
+Prostredníctvom niekoľkých správ, ktoré boli v minulých rokoch predložené, Európsky parlament v skutočnosti hľadá odpoveď na otázku "Čo je internet?". Relevantnejšia otázka by dnes bola, či internetový svet je samostatný priestor, ako keby to bol virtuálny svet, ktorý nie je súčasťou skutočného života, alebo či je súčasťou verejnej sféry. Týmto sa tiež zaoberá pán Lambrinidis vo svojej správe, kde uvádza, že našou hlavnou úlohou je nájsť primeranú rovnováhu medzi súkromím a bezpečnosťou.
+<P>
+Kedykoľvek sa spomenie obmedzenie internetovej slobody, okamžite sa začne hovoriť o slobode prejavu - sloboda prejavu je právo šíriť myšlienky, názory, presvedčenia a iné informácie, ale tiež to zahŕňa zodpovednosť. Rada by som poďakovala pánovi spravodajcovi a dúfam, že všetci budeme mať silu nájsť odpoveď na túto otázku: čo je internet; môže byť regulovaný, a ak áno, tak ako? Keďže internet je jedným z najzrozumiteľnejších znakov globalizácie, náš prístup k tejto otázke musí byť takisto medzinárodný.
+<SPEAKER ID="434" NAME="Filiz Hakaeva Hyusmenova" AFFILIATION="ALDE">
+(FR) Dámy a páni, obsah tejto správy je úplne v súlade s jej názvom. Zahŕňa práva podľa Charty základných práv Európskej únie a Dohovoru OSN o právach dieťaťa a zameriava sa na ochranu detí pred kriminalitou. Blahoželám pánovi spravodajcovi.
+<P>
+Internet je svet, kde sa objavujú fakty, ktoré nie sú jasne definované ako porušenie práv a slobôd alebo trestné činy proti nim. Príležitosti na vyjadrenie, získanie informácií a spoločenských kontaktov sú často nahrádzané ich pravým opakom. Internet je úrodnou pôdou pre obchádzanie nariadení a nemá žiadne obmedzenia prejavu.
+<P>
+V podmienkach, ktoré ponúkajú anonymitu a sú bez akejkoľvek kontroly, konečným výsledkom je zrieknutie sa zodpovednosti, pokiaľ ide o výber a použitie jazykových výrazov. Do týchto výrazov často preniká slang, cynizmus a dokonca aj vulgárnosť. Vyvíjajú sa do jazyka plného nedôvery a nenávisti, dostávajú sa do každodenného použitia, stávajú sa vzorom napodobňovania a formujú určitý postoj.
+<P>
+Takýto jazyk neprispieva k detskému spoločenskému, duševnému a mravnému blahu a nevedie ku kultúre a hodnotám. Preto upriamujem pozornosť na potrebu samostatnej analýzy jazyka používaného na internete a na jeho vplyv na osobný rozvoj dieťaťa.
+<SPEAKER ID="435" NAME="Csaba Sógor" AFFILIATION="PPE-DE">
+- Vážený pán predsedajúci, som jedným z tých ľudí, ktorí by radi zabezpečili kontinuitu internetovej slobody. Tvorcovia internetu veľmi verili v základnú ľudskú dobrotu, ku ktorej sa tiež prikláňam. Nanešťastie, veľmi často musíme v súvislosti s internetom, rovnako ako v akejkoľvek ľudskej spoločnosti, čeliť smutnej skutočnosti, že nariadenia sú potrebné na zaistenie ochrany tých, ktorí sa nemôžu chrániť sami. Bezpečnosť jednotlivca je základné právo, rovnako ako právo na slobodný prejav a sebavyjadrenie.
+<P>
+Ohavnosti ako detská pornografia a pedofília, ako aj internetový podvod, musia byť zastavené. Nemôžeme tolerovať internetových predátorov akéhokoľvek druhu, a zatiaľ čo diskutujeme o tejto veľmi významnej téme, rád by som vás upozornil na skutočnosť, o ktorej sa diskutuje oveľa menej: internet je takisto plný stránok, ktoré podnecujú nenávisť, násilie a neznášanlivosť voči všetkým druhom menšín vrátane národnostných menšín. Internet si z tohto hľadiska vyžaduje našu pozornosť. Musíme sa postarať o to, aby sa aj menšiny cítili chránené. Je neprijateľné, že mnohé extrémistické skupiny používajú internet na podnecovanie nenávisti a xenofóbie.
+<SPEAKER ID="436" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
+(PL) Vážený pán predsedajúci, rada by som upozornila na niekoľko problémov súvisiacich s internetom.
+<P>
+Po prvé by som rada spomenula ochranu osobných údajov a ochranu dôvernosti údajov v súvislosti s elektronickým hlasovaním, ktoré umožňuje zdravotne postihnutým ľuďom využiť svoje občianske práva. Po druhé, chcela by som spomenúť ochranu duševného vlastníctva v súvislosti s umeleckým materiálom, ktorý sa môže cez internet ľahko posielať ďalej. Ďalšia záležitosť sa týka ochrany detí pred škodlivým obsahom, ako sú brutálne a pornografické scény, prostredníctvom vhodných filtrov a vzdelávania rodičov. Štvrtou záležitosťou je problém ochrany detí pred pedofilmi a únoscami a takisto príležitosť vypátrať páchateľov trestných činov použitím stôp, ktoré zanechali na internete, ako je pedofilova adresa, alebo nahrávkami trestných činov, ktoré sa získali použitím mobilných telefónov a potom boli odoslané na internet. Ak by neboli vyhlásenia, ktoré urobil na internete jeden mladý muž v Nemecku, ignorované, jeho obete by stále žili, konkrétne žiaci a učitelia, ktorých zastrelil. Ďalší problém, ktorý je v skutočnosti najdôležitejší, sa týka rešpektovania slobody prejavu, a v tomto by mal byť zákon rešpektovaný rovnako ako v každej inej oblasti. Niektoré z týchto problémov si vyžadujú nové technické riešenia. Blahoželám pánovi spravodajcovi.
+<SPEAKER ID="437" NAME="Ján Figeľ">
+člen Komisie. - Vážený pán predsedajúci, rád by som poďakoval všetkým rečníkom za ich angažované a zaujímavé príspevky. Chcem doplniť len dve veci týkajúce sa toho, čo som povedal na začiatku. Súhlasíme napríklad s obavami týkajúcimi sa práv duševného vlastníctva a vyváženého prístupu, ktorý je tu potrebný. Toto je dôležité pre celkový vývoj alebo rozvoj informačnej spoločnosti. Presadzovanie týchto vlastníckych práv musí byť náležite udržiavané v rovnováhe so základnými slobodami alebo právami, ktoré sú vymenované v správe, vrátane práva na súkromie, ochranu osobných údajov a práva podieľať sa na informačnej spoločnosti.
+<P>
+Mnohí z vás spomenuli ochranu deti - neplnoletých osôb - tých, ktorí pravdepodobne najviac čelia týmto problémom a sedávajú denne pri počítači. Odporučil by som, ale zároveň aj dôrazne vyzval partnerov, členské štáty a inštitúcie na spoluprácu s programom ”bezpečnejší internet", ktorý bude prebiehať v rokoch 2009 - 2013. Je preň určený celkom veľký rozpočet. Už boli podniknuté určité kroky proti už spomínanému nevhodnému alebo nezákonnému obsahu, ale takisto proti škodlivému správaniu alebo nadväzovaniu priateľstva s deťmi s cieľom sexuálneho zneužívania alebo šikanovania.
+<P>
+Je tu veľa problémov, ale podporil by som realizáciu dôležitých stratégií o záväzkoch, či národných alebo medzinárodných. Máme smernicu týkajúcu sa súkromia a elektronickej komunikácie, veľa konkrétnych opatrení a akčných plánov, európsky program o ochrane kritických infraštruktúr. Preto si myslím, že nepotrebujeme viac právnych predpisov, skôr potrebujeme náležitú a primeranú realizáciu a potom, samozrejme, ďalší vývoj a zlepšenia. Niekto už správne spomenul balík reforiem telekomunikácií. Včerajší trialóg dáva nádej na konečnú dohodu.
+<P>
+Na záver by som dodal, že tento rok bol vyhlásený za Európsky rok tvorivosti a inovácie a jeho heslo je: predstaviť si, vytvoriť, inovovať. Možno si nedokážeme predstaviť svet bez internetu, ale je dôležité predstaviť si ho, vytvoriť a inovovať tak, aby sa stal bezpečnejším a blízkym ľudskej prirodzenosti a ľudskej zodpovednosti.
+<SPEAKER ID="438" NAME="Stavros Lambrinidis">
+spravodajca. - Vážený pán predsedajúci, rád by som poďakoval Komisii. Aby som uľahčil život tlmočníkom - keďže text môjho prejavu nemajú k dispozícii - budem výnimočne hovoriť po anglicky.
+<P>
+Rešpektujem pocity tých, ktorým leží na srdci ochrana duševného vlastníctva. Zdá sa mi však, že bojujú proti nesprávnej správe. Moja správa sa netýka len jednej problematiky. Hovorí sa v nej o ochrane základných práv a bezpečnosti na internete vo všeobecnosti - napokon, práve z tohto dôvodu získala jednomyseľnú podporu.
+<P>
+Do istej miery sa venuje aj právam duševného vlastníctva, ale keď človek počúva niektoré prejavy, mohol by si pomyslieť, že ich úplne ignoruje. Dovoľte, aby som vám konkrétne prečítal, o akú vyváženosť sme sa v tejto správe pokúsili. V odseku 1 písmeno k) odporúčame Rade "pristúpiť k prijatiu smernice o trestnoprávnych opatreniach na zabezpečenie vymožiteľnosti práv duševného vlastníctva v nadväznosti na hodnotenie, v súvislosti s výskumom súčasných inovácií, rozsahu, do akého je potrebná a primeraná”. Tak znie správa.
+<P>
+Pozmeňujúce a doplňujúce návrhy však majú od vyváženosti ďaleko. Pozmeňujúce a doplňujúce návrhy, ktoré rušia to, o čo správa žiada - teda zákaz systematického sledovania všetkých používateľov bez ohľadu na to, či sú alebo nie sú podozriví alebo vinní, s cieľom chrániť právo na bezpečnosť - majú od vyváženosti ďaleko. Žiadajú od nás, aby sme sa úplne vzdali základných práv a chránili niečo iné.
+<P>
+Po druhé, som proti pozmeňujúcim a doplňujúcim návrhom, ktoré v správe rušia alebo zmierňujú veľmi presnú a špecifickú zmienku o tom, že kontroverzné politické prejavy nemajú byť predmetom trestného stíhania. Som rád, že mnohí ďalší v tejto sále majú rovnaký názor.
+<P>
+Politické prejavy potrebujú ochranu, najmä ak sú kontroverzné. Keby všetky osoby v tejto sále so sebou navzájom súhlasili, nepotrebovali by sme právne predpisy o slobode prejavu. Tieto zákony máme práve pre prípady, že to tak nie je - a osobitne na ochranu prejavu, ktorý by mohol obzvlášť rozčúliť mňa alebo niekoho iného. Táto zmienka v správe nehovorí o "kriminálnom" prejave. Týka sa špecificky "kontroverzných politických" prejavov. Naliehavo preto žiadam všetkých o podporu tohto odseku správy a o podporu správy ako takej.
+<P>
+Som nesmierne vďačný každému, kto tu dnes v noci bol - dokonca aj tým, ktorí so mnou nesúhlasia. Viem, že to nie je jednoduché. Ďakujem vám za podporu počas všetkých tých mesiacov, ktoré predchádzali predloženiu tejto správy. Teším sa na budúcu spoluprácu na vašich správach, pri ktorej vám budem môcť prejaviť podobné porozumenie a podporu.
+<SPEAKER ID="439" NAME="Predsedajúci">
+Vážení kolegovia, ďakujem vám. Vážený pán Mavrommatis, ďakujem vám za stanovisko. Osobitné poďakovanie patrí pánovi spravodajcovi Lambrinidisovi za jeho úspech a za významnú a zaujímavú správu.
+<P>
+Rozprava sa skončila.
+<P>
+Hlasovanie sa uskutoční vo štvrtok 26. marca 2009.
+<P>
+Písomné vyhlásenia (článok 142)
+<SPEAKER ID="440" NAME="Neena Gill  " AFFILIATION="PSE">
+písomne. - Blahoželám pánovi spravodajcovi k tejto správe. Som presvedčená, že internet skvalitnil život Európanov v nespočetných ohľadoch. Zvýšil našu schopnosť prístupu k poznatkom, zlepšil naše chápanie sveta okolo nás a posilnil naše spoločenské prepojenie s inými ľuďmi.
+<P>
+Od voličov sa však dozvedám, že majú obavy aj z rizík internetu. Máme pozoruhodnú technológiu na dosah ruky, no tá istá sloboda, ktorú nám dáva, umožňuje aj páchateľom trestnej činnosti slobodné zneužívanie technológie. Táto správa vďaka svojmu zameraniu na základné práva prejde veľký kus cesty smerom k zvýšeniu bezpečnosti internetu. Na poslednej schôdzi sme hovorili o potrebe riešiť problém detskej pornografie. Návrhy, o ktorých sme dnes hlasovali, budú vďaka vyváženiu slobody a bezpečnosti predstavovať ďalší dôležitý nástroj v boji proti tejto hrozbe.
+<P>
+Správa vyvoláva aj otázky týkajúce sa elektronickej gramotnosti. Nemôžeme spolu napredovať ako spoločnosť, ak podporou nových slobôd pre jedných obmedzíme práva tých, ktorí internet poznajú menej. S radosťou sme prijali hĺbkové zmeny, ktoré internet priniesol. Ak sa chceme dostať ešte ďalej, musíme sa teraz rovnako ochotne zamerať na zmierňovanie negatívnych stránok tejto revolúcie.
+<SPEAKER ID="983" NAME="Daciana Octavia Sârbu  " LANGUAGE="RO">
+Je dobre známe, že kontrola internetu je čoraz zložitejšia. Ochrana základného práva na ochranu súkromia na internete a zabezpečenie zvýšenia bezpečnosti internetu však musia patriť medzi priority vlád jednotlivých členských štátov.
+<P>
+Používanie internetu má nespočetné výhody, nesmieme však zabúdať na nebezpečenstvo zneužitia, ktorému sú niektorí používatelia internetu vystavení.
+<P>
+Aby sme toto zneužívanie obmedzili, je preto našou povinnosťou stanoviť normy zamerané na ochranu údajov, bezpečnosť a slobodu prejavu na európskej i vnútroštátnej úrovni.
+<P>
+Na druhej strane je naliehavo potrebné prijať aj opatrenia na boj proti počítačovej trestnej činnosti a v tomto smere by som chcela zdôrazniť, aké je dôležité navrhnúť celosvetovú stratégiu.
+<P>
+Trvám na tom, že v boji proti počítačovej trestnej činnosti je potrebná aktívna spolupráca medzi policajnými orgánmi, poskytovateľmi internetových služieb, používateľmi a ďalšími zainteresovanými prevádzkovateľmi.
+<P>
+Na záver musím povedať, že je potrebné zaručiť právo na vzdelanie a prístup k internetu, ako aj bezpečnosť a ochranu práv používateľov internetových služieb.

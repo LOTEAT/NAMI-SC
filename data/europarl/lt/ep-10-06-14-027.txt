@@ -1,0 +1,82 @@
+<CHAPTER ID="027">
+Tolesni interneto valdymo etapai (trumpas pristatymas)
+<SPEAKER ID="214" NAME="Pirmininkė">
+Kitas klausimas - Francisco Sosa Wagner pranešimas Pramonės, mokslinių tyrimų ir energetikos komiteto vardu dėl tolesnių interneto valdymo etapų -.
+<SPEAKER ID="215" NAME="Francisco Sosa Wagner" LANGUAGE="ES">
+Ponia pirmininke, pranešime, kurį man teko garbparengti, glaudžiai bendradarbiaujant su šešėliniais pranešėjais, internetas apibrėžiamas kaip bendras viešasis turtas, kuris turi būti valdomas, remiantis bendru viešuoju interesu.
+<P>
+Remdamiesi viešuoju ir privačiu modeliu, privalome neleisti, kad jį kontroliuotų viena ar grupįmonių, ir turime užkirsti kelią bet kokiems valstybinių ar viršvalstybinių institucijų mėginimams kontroliuoti informacijos srautą tinkle.
+<P>
+Vienas iš svarbiausių šiame pranešime keliamų klausimų - skirtųjų vardų ir numerių interneto korporacijos (angl. ICANN) pozicija pasauliniame interneto valdyme. Kadangi tai privati institucija, kuriai taikoma JAV teisė, pabrėžėme jos neįprastą pobūdį, atsižvelgdami į keblią užduotį, ir nors pritariame jos išlaikymui, nes daugeliu atžvilgių ji veikefektyviai, siūlome reformą, kuri suteiktų Europos institucijoms galimybę atlikti svarbesnį vaidmenį valdymo organuose.
+<P>
+Visų pirma, internetas - esminpriemonė, kuria užtikrinamos pagrindinės laisvės ir suteikiamos galimybės visuomenei džiaugtis tikra demokratija. Todėl būtina garantuoti apsaugą nuo naujų priežiūros, kontrolės ir cenzūros formų, kurių gali imtis viešojo ar privataus sektoriaus dalyviai, kad laisva interneto prieiga ir privatumo apsauga būtų realūs, o ne neveiksmingi dalykai. Visų pirma, vyriausybės raginamos susilaikyti nuo interneto prieigos ribojimo, taikant cenzūrą, blokuojant ar filtruojant turinį ar naudojant kitas priemones, ir nuo privačių įmonių samdymo šiems veiksmams atlikti.
+<P>
+Bet kokie ribojimai, kurie laikomi būtinais, pvz., apsaugant nepilnamečius, privalo būti tik tokie, kurie iš esmės būtini demokratinėje visuomenėje. Jie turi būti pagrįsti teisės aktais, taip pat turi būti laikomasi proporcingumo principo, kaip nustatEuropos Sąjungos Teisingumo Teismas ir Žmogaus teisių teismas.
+<P>
+Visiems Europos piliečiams privalo būti veiksmingai užtikrinta interneto prieiga ir, svarbiausia, laikantis Parlamento priimtos skaitmeninės darbotvarkės, reikia be jokios diskriminacijos suteikti šią galimybę žmonėms, kurie gyvena kaimo vietovėse.
+<P>
+Manome, kad labai svarbu, jog Europos balsas interneto valdymo klausimu būtų vieningas ir stiprus tiek Skirtųjų vardų ir numerių interneto korporacijoje, tiek kitose tarptautinėse arenose, ypač Interneto valdymo forume, nes tai veiksminga priemonužmegzti dialogą su vyriausybių, pilietinės visuomenės ir privačiais sektoriais. Kita šio forumo sesija prasidės rugsėjo mėn. Vilniuje, ir jos svarba neliko nepastebėta, kai rengėme šį pranešimą. Todėl jį vertiname labai palankiai, nors ir pasiūlėme kelis pataisymus, susijusius su jo veikla.
+<P>
+Labai svarbu, kad šiose arenose, ypač bendradarbiaujant su tomis šalims, kurių vertybės gali skirtis nuo Europos vertybių, būtų ginami Europos Sąjungos principai, išreikšti Sutarties 2 straipsnyje.
+<P>
+Gerbiami kolegos, internetas yra nuostabi jūra - vandenynas, kuris turi suvienyti Europos žmones laisvei.
+<P>
+Norėčiau baigti, padėkodamas savo kolegoms nariams, kurie, rengiant šį pranešimą, dirbo kartu su manimi, taip pat Komisijos personalui, teikusiam man neįkainojamą pagalbą. Labai dėkoju, kad išklausėte mane šį vėlų vakarą.
+<SPEAKER ID="216" NAME="Axel Voss" AFFILIATION="PPE">
+(DE) Ponia pirmininke, per pastaruosius dvidešimt metų interneto svarba gerokai išaugo ir tai savo ruožtu susiję su prieš tai svarstytu klausimu. Sukurti visiškai nauji sektoriai, verslo modeliai priklauso nuo nepertraukiamo interneto naudojimo, o dabar su tuo susiejame ir švietimą. Internetas keičia socialinius susitikimus. Vis dėlto mūsų asmeninio bendravimo forma labai skiriasi, ir dabar ji pasižymi tokia infrastruktūra, kuri primena bendrų viešųjų paslaugų infrastruktūrą. Todėl mums reikia ir tam tikro balso, turint omenyje tolesnio interneto vystymo sprendimus.
+<P>
+Vis dėlto turime pabrėžti, kad, pirma, interneto laisve, savaime suprantama, bus piktnaudžiaujama ir, antra, jis pats savaime yra vertingas, ir tą vertę turime išlaikyti, taigi negalime internete leisti to, kas draudžiama realiame pasaulyje. Vis dėlto ši savireguliacija neveikia taip, kaip norėtume. Laisvir duomenų apsauga bei privatumas nėra priešingi tikslai ir kartu sudaro vieną sąvoką.
+<P>
+Todėl norėčiau paraginti Komisiją taip pat įsitraukti į šias konsultacijas ir į tolesnį interneto vystymą.
+<SPEAKER ID="217" NAME="Zuzana Roithová" AFFILIATION="PPE">
+(CS) Iki šiol internetas buvo valdomas vyriausybei nedalyvaujant. Žvelgiant iš saugumo perspektyvos, savireguliacija jau nebepriimtina. Kibernetinis terorizmas arba valstybių vienpusįtaka, pvz., Kinija ir jos slaptos paslaugos, yra labai svarbūs klausimai, kuriuos reikia skubiai spręsti. JAV vyriausybšiuo metu daro įtaką svarbiausiems sprendimams, susijusiems su internetu, nes pagrindinorganizacija paklūsta Kalifornijos įstatymams, o tai ateityje gali būti nepalanku Europos Sąjungai. Pritariu Komisijai, kuri siekia reformuoti vidines interneto valdymo įstaigų struktūras, kad jos būtų skaidresnės ir prisiimtų daugiau atsakomybės. Mano nuomone, interneto administravimo funkcijos patikėjimas JT agentūrai nėra geras sprendimas, nes tai suteiks mažai lankstumo. Reikia veiksmingo mechanizmo, kuris suteiktų galimybę apskųsti bet kokius svarbiausius iki šiol organizacijos priimtus sprendimus, pvz., arbitraže. Taip pat būtina padidinti demokratinį atstovavimą. Naudotojų organizacijos ir interneto verslo projektų asociacijos šiuo metu neturi pakankamai galimybių pareikšti savo nuomonę. Tikiuosi, kad Komisija į visa tai atsižvelgs.
+<SPEAKER ID="218" NAME="Petru Constantin Luhan" AFFILIATION="PPE">
+(RO) Pasiekėme tokį tašką, kai piliečiai ir organizacijos negali išsiversti be interneto. Kadangi internetas palengvina plataus asortimento paslaugų ir priemonių gavimą, jis gali būti laikomas visuotine viešąja gerybe, kuria kiekvienas privalo turėti galimybę naudotis.
+<P>
+Pritariu, kad visuose Europos regionuose, ypač kaimo vietovėse ir besivystančiose valstybėse narėse, būtų vystoma ryšių infrastruktūra ir panaudotos specialių Europos finansavimo programos, taip palengvinant prieigą prie paslaugos ir, palyginti su likusiu pasauliu,.suteikiant galimybę sumažinti skaitmeninius, socialinius ir kultūrinius skirtumus Europoje.
+<P>
+Kartu Europos Sąjunga privalo užtikrinti, kad jos pačios interneto infrastruktūros buvimas ir saugumas būtų gerai apsaugotas nuo bet kokių kibernetinių atakų. Manau, kad šia kryptimi dedamos pastangos privalo būti nustatytos ir paremtos kitomis apsaugos priemonėmis ir tarptautinės bendruomenės perimta gerąja patirtimi.
+<SPEAKER ID="219" NAME="Piotr Borys" AFFILIATION="PPE">
+(PL) Norėčiau pasveikinti pranešėją parengus šį pranešimą.
+<P>
+Skaitmenindarbotvarkyra, be abejo, svarbiausias klausimas, kuris lems tai, kad kiekvienas europietis per ateinančius keletą metų galės pradėti naudotis plačiajuosčiu internetu. Be to, čia sprendžiame ir klasikinį pripažinimo klausimą. Dalyvavimas Skirtųjų vardų ir numerių interneto korporacijoje privalo būti pagrįstas partneryste. Todėl manau, kad dėl šios reformos Europos Sąjunga taps visateise partnere, gebančia daryti įtaką Skirtųjų vardų ir numerių interneto korporacijos funkcijai.
+<P>
+Be abejo, laisvinternete ir pagrindinės teisės - svarbiausi principai. Vis dėlto prisiminkime pačius svarbiausius dalykus, dažniausiai siejamus su nepilnamečių apsauga. Azartinių lošimų internetu klausimas, apie kurį diskutuojama tuo pačiu metu, taip pat svarbus veiksnys. Be to, iškils daug klausimų dėl to, kokios rūšies duomenis galima filtruoti, žinoma, atsižvelgiant į pagrindines teises ir į tai, ką valstybių narių vyriausybės norės savarankiškai kontroliuoti. Tačiau svarbiausia, kad Europos Sąjungą iš tikrųjų pripažintų Skirtųjų vardų ir numerių interneto korporacija ir ji galėtų kaip partnerprisidėti prie principų, kuriais vadovaujasi toji organizacija.
+<SPEAKER ID="220" NAME="Jaroslav Paška" AFFILIATION="EFD">
+(SK) Be jokios abejonės, internetas yra milžiniškas informacijos šaltinis - informacijos jūra, o gal net ir vandenynas. Vis dėlto turime atsižvelgti į šios informacijos vertę, nes dalis informacijos yra klaidinanti ir klaidinga, labiau dezinformuojanti nei informuojanti žmones.
+<P>
+Be to, internetu į mūsų namus ir vaikų kambarius atkeliauja interneto pornografija ir azartiniai žaidimai. Manau, kad tai problema, kurią turėtume spręsti tuo pat metu, kai atversime interneto rinką. Taip pat privalome atsižvelgti į rinkos atvėrimo padarinius ir į tai, ar tėvai ir šeimos gali apsiginti nuo visos šios internetu atkeliaujančios informacijos.
+<P>
+Mano nuomone, interneto rinkos atvėrimas privalo būti neatsiejamas nuo atsakomybės, įskaitant atsakomybę institucijų, kurios suteikia šias galimybes.
+<SPEAKER ID="221" NAME="Silvia-Adriana Ţicău" AFFILIATION="S&amp;D">
+(RO) Europos Parlamentas patarė, kad Komisija suteiktų galimybę Europos pilietinei visuomenei būti tinkamai atstovaujamai tarptautiniuose interneto valdymo forumuose, taip pat organizacijose ir konsorciumuose, skatinančiuose standartizuoti internetą.
+<P>
+Svarbūs Europos Sąjungos prioritetai - apsaugoti interneto infrastruktūrą ir užtikrinti jos atsparumą kibernetinėms atakoms, taip pat apsaugoti duomenis ir privatumą. Komisija ir valstybės narės privalo labiau stengtis, kad būtų užtikrintas kibernetinės erdvės saugumas Europos Sąjungoje ir prisidėti prie tarptautinio bendradarbiavimo šioje srityje.
+<P>
+Manau, kad reikia papildomų priemonių, siekiant užtikrinti geresnį kompiuterinių nusikaltimų jurisdikcijos ir nuotolinių išteklių paslaugų supratimą ir informuotumą įprastu pagrindu, ir kad susijusioms šalims būtų nustatyti aiškūs įpareigojimai ir atsakomybė.
+<P>
+Privalau pabrėžti elektroninių paslaugų, ypač skaitmeninių parašų, svarbą ir būtinybę sukurti viešojo rakto infrastruktūrą visos Europos mastu, taip užtikrinant tarpvalstybinę skaitmeninių parašų sąveiką ir stiprinant interneto saugumą.
+<P>
+Norėčiau baigti kalbą, pabrėždama, kad, siekiant užtikrinti didesnį naudotojų pasitikėjimą galimybe gauti informaciją ir paslaugas internetu, būtini interneto svetainių saugumo sertifikatai.
+<SPEAKER ID="222" NAME="Neelie Kroes">
+Komisijos pirmininko pavaduotoja. - Ponia pirmininke, aktyvus Europos Parlamento domėjimasis svarbia interneto valdymo sritimi padėjo sustiprinti ir paremti Europos Sąjungos poziciją.
+<P>
+Per pastaruosius metus interneto valdymo viešosios politikos aspektas tapo labiau įžvelgiamas ir svarbesnis, nes interneto naudojimas išaugo, o jo valdymas įgavo platesnę reikšmę. Reikia pasveikinti pranešėją F. Sosa Wagnerį - reiškiu jam savo pagarbą - ir jo kolegas už tai, kad šiame pranešime atkreiptas dėmesys į svarbius viešosios politikos klausimus.
+<P>
+Šiuo atžvilgiu Parlamento ir Komisijos idėjos ir tikslai yra panašūs. Tikriausiai pastebėjote, kai pristačiau jums skaitmeninę Europos darbotvarkę, kad daugelis šiame pranešime iškeltų klausimų atsispindi joje numatytuose veiksmuose. Principas, kurį norėčiau pabrėžti, - tai būtinybužtikrinti, kad Europos vertybės, kaip pabrėžėte, būtų įtvirtintos per pasaulines diskusijas. Privalome užtikrinti, kad tarptautinėse diskusijose šio visuotinio išteklio valdymo klausimu būtų atsižvelgta į ES piliečių ir įmonių interesus ir teises.
+<P>
+Šį mėnesį Briuselyje per kitą susitikimą su Skirtųjų vardų ir numerių interneto korporacija bendrausime su kai kuriomis pasaulinio interneto valdymu suinteresuotomis šalimis. Kitas svarbus įvykis šiais metais, kuris jau buvo paminėtas, be abejo, yra Interneto valdymo forumas, vyksiantis Vilniuje rugsėjo mėn. Palankiai vertinu Europos Parlamento ketinimą vėl šiais metais pasitelkti stiprią delegaciją. Be abejo, suprantu, kad jūs, kaip pirmininkė, nuspręsite, kas bus įtrauktas į tą delegaciją, tačiau nuoširdžiai tikiuosi, kad mums bus suteikta privilegija toje delegacijoje matyti F. Sosa Wagnerį ir išgirsti jo idėjas. Dėl jūsų aktyvaus dalyvavimo šiame forume pastaruosius ketverius metus iš tiesų buvo atskleistos Europos vertybės, ir galiu tik padėkoti Parlamento nariams už tai ir už puikų mūsų institucijų bendradarbiavimą. Tikiuosi, kad ir toliau galėsime dirbti ta pačia dvasia interneto valdymo srityje.
+<P>
+Norėčiau pabrėžti, remdamasi jūsų pranešėjo F. Sosa Wagnerio pastaba, - ir tai labai emocionalus klausimas, - kad esame atsakingi už nepilnamečių apsaugą nuo išnaudojimo internete ir kad turime suvienyti savo pastangas, jei norime, kad mums pavyktų. Tai nelengva, ne todėl, kad nesuprantame šios problemos sprendimo būtinybės, o todėl, kad žmonės, dalyvaujantys šiame procese, išnaudos visas turimas priemones. Tuo galite būti visiškai tikri. Jei perskaitysite pagrindinių veiksmų planus, pastebėsite, kad juose kalbama apie saugumą, apsaugą ir pasitikėjimą. Pvz., šeštas pagrindinis veiksmas jau suformuluotas, tačiau yra ir kitų pagrindinių veiksmų, kurie labai susiję su jūsų minėtomis problemomis.
+<P>
+Negalėčiau labiau sutikti su tais, kurie teigė, kad negalima nuvertinti ES vaidmens Skirtųjų vardų ir numerių interneto korporacijoje. Turėtume prisiimti savo atsakomybę ir atlikti svarbų vaidmenį. Be abejo, toks didžiulis interneto keliamas iššūkis turi ir neigiamą aspektą, ir mes turėtume padaryti viską, kad išspręstume su šiuo neigiamu aspektu susijusias problemas. Kiekvienu atveju drauge galime padaryti daugiau negu atskirai.
+<SPEAKER ID="223" NAME="Pirmininkė">
+Diskusijos baigtos.
+<P>
+Balsavimas vyks rytoj, 2010 m. birželio 15 d., antradienį.
+<P>
+Dėkojame visiems mūsų vertėjams ir personalui.
+<P>
+Raštiški pareiškimai (Darbo tvarkos taisyklių 149 straipsnis)
+<SPEAKER ID="224" NAME="Rareş-Lucian Niculescu  " LANGUAGE="RO">
+Norėčiau paminėti būtinybės palengvinti interneto prieigą ir remti interneto vystymą naujose valstybėse narėse, visų pirma kaimo vietovėse pakeitimą, kurį pasiūliau Vidaus rinkos ir vartotojų apsaugos komitetui,.Europos kaimai, ypač esantys rytinėje ES dalyje, negali būti neįtraukti į tolesnių interneto valdymo etapų diskusijas. 2009 m. tik 38 proc. namų ūkių Rumunijoje turėjo interneto prieigą, ir tai žemiausias procentinis dydis Europoje po Bulgarijos. Todėl palankiai vertinu Europos finansinę paramą, kuri leis Rumunijoje kiekvienam namų ūkiui garantuoti interneto prieigą. Privalau pabrėžti, kad šios investicijos gerokai prisidės prie Rumunijos kaimų modernizavimo ir prie ekonominio kaimo vietovių vystymo.

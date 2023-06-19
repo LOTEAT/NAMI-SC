@@ -1,0 +1,392 @@
+<CHAPTER ID=1>
+Pöytäkirjan hyväksyminen
+<SPEAKER ID=1 NAME="Puhemies">
+Eilisen istunnon pöytäkirja on jaettu.
+<P>
+Onko huomautettavaa?
+
+<SPEAKER ID=2 LANGUAGE="EL" NAME="Avgerinos">
+Arvoisa puhemies, eilisessä pöytäkirjassa minua ei mainita läsnäolevana. Pyydän, että asia korjataan, sillä olin koko päivän täällä.
+
+<SPEAKER ID=3 NAME="Puhemies">
+Te jopa johditte puhetta. Uskoakseni kaikki voivat vahvistaa sen. Onko vielä huomautettavaa?
+
+<SPEAKER ID=4 LANGUAGE="NL" NAME="Blokland">
+Arvoisa puhemies, haluan onnitella parlamenttia eilen illalla Scarbonchin mietinnön yhteydessä tehdystä käsittämättömästä päätöksestä lisätä työpaikkojen lukumäärää vuodesta 1995 vuoteen 1996 12 miljoonalla. Olenkin utelias kuulemaan milloin Euroopan parlamentti päättää siirtää vuotta 2000 vuodella eteenpäin.
+
+<SPEAKER ID=5 LANGUAGE="EN" NAME="Provan">
+Arvoisa puhemies, istuntosalissa otettiin eilen valokuva. En halua tehdä tästä suurta numeroa, mutta voisimmeko saada vakuutuksen siitä, ettei tuota valokuvaa käytetä mihinkään julkiseen tarkoitukseen, ja jos sitä käytetään julkisesti, voisiko puhemiehistö varmistaa sekä sen, ettei tämä toistu, että sen, että kyseistä parlamentin jäsentä rangaistaan, koska hän on antanut parlamentille vakuutuksen siitä, että valokuva on tarkoitettu ainoastaan henkilökohtaiseen käyttöön.
+
+<SPEAKER ID=6 NAME="Puhemies">
+Kollegahan sanoi eilen, että se oli yksityinen valokuva.
+
+<SPEAKER ID=7 LANGUAGE="EN" NAME="Collins, Kenneth">
+Arvoisa puhemies, voisimmeko saada tämän valossa vakuutuksen siitäkin, ettei myöskään käsipuhelimia käytetä enää istuntosalissa yksityispuheluihin?
+
+<SPEAKER ID=8 NAME="Puhemies">
+Olen ottanut vastaan ehdotuksenne. Herra Kerrillä on pöytäkirjaa koskeva puheenvuoro.
+
+<SPEAKER ID=9 LANGUAGE="EN" NAME="Kerr">
+Arvoisa puhemies, huomaatte eilisen istunnon pöytäkirjasta, että puhuin kuusi kertaa vihreän ryhmän puolesta kuudesta eri mietinnöstä. Kysyin, onko tämä ennätys. Onko istuntopalvelujen yksikkö jo ehtinyt selvittää tämän?
+
+<SPEAKER ID=10 NAME="Puhemies">
+On hyvin ystävällistä, että autatte meitä hoitamaan jotain sellaista, joka ei välttämättä tule hoidetuksi itsestään.
+<P>
+(Parlamentti hyväksyi pöytäkirjan.)
+
+<CHAPTER ID=2>
+Äänestys
+<SPEAKER ID=11 NAME="Puhemies">
+Esittelijä on ilmoittanut minulle, että sanat " esimerkiksi Yhdistynyt kuningaskunta" ovat virheellisesti johdantoosan F kappaleessa ja että ne on poistettava.
+
+<SPEAKER ID=12 LANGUAGE="EN" NAME="Kerr">
+Arvoisa puhemies, olen naisten oikeuksien valiokunnan jäsen ja vihreän ryhmän koordinaattori. Muistaakseni tätä muutosta ei tehty valiokunnan kokouksessa. Pyytäisin, ettei sitä poistettaisi mietinnöstä ja että hyväksyisimme mietinnön ja sen sisältämät sanat "Yhdistynyt kuningaskunta" ja "Yhdysvallat" . Tämä on uuden Labourpuolueen kollegoiden yritys säästää Ison-Britannian hallitus kiusalliselta tilanteelta. Meidän pitäisi jättää mietintö ennalleen ja äänestää siitä sellaisenaan. Jos näin ei tehdä, pyydän valiokuntakäsittelystä tehtyjen ääninauhojen kuuntelemista ja todistan, ettei tarkistusta tehty valiokunnassa. Ehdotan, että jätämme mietinnön ennalleen ja että äänestämme siitä sellaisenaan.
+
+<SPEAKER ID=13 NAME="Puhemies">
+Esittelijä, mikä on teidän mielipiteenne siitä?
+
+<SPEAKER ID=14 NAME="García Arias">
+Arvoisa puhemies, suoraan sanoen minua hämmästyttää herra Kerrin reaktio, koska hänen täytyy muistaa hyvin, että sinä päivänä kun äänestimme valiokunnassa tästä mietinnöstä sovimme siitä, että jätämme pois maihin liittyvät viittaukset ja myös äänestimme sen mukaisesti. Alkuperäisessä luonnoksessa ne todellakin olivat mukana, ei ainoastaan näissä kahdessa kohdassa, vaan myös muissa kohdissa, mutta pääsimme valiokunnassa tähän mainitsemaani yksimielisyyteen - ja sen täytyy olla kirjattuna kokouspöytäkirjaan. Sen vuoksi pyydän herra Kerriä palauttamaan äänestyspäivän mieleensä. Minä muistan sen selvästi, arvoisa puhemies. Näin ollen ei ainoastaan F kohtaan, vaan myös 12 kohtaan pitäisi tehdä korjaus, että kritisoimme "malleja" emmekä "mallia" , ja sen vuoksi viittaus Yhdysvaltoihin pitäisi poistaa.
+
+<SPEAKER ID=15 NAME="Puhemies">
+Kiitoksia, rouva García Arias! Herra Kerr, tällä poistamisella ei siis ole mitään tekemistä Yhdistyneen kuningaskunnan kanssa; maita ei yleensä ottaen mainita.
+
+<SPEAKER ID=16 LANGUAGE="EN" NAME="Kerr">
+Arvoisa puhemies, ehdotan, että paras tapa hoitaa asia on pitää muutosta esittelijän tekemänä suullisena tarkistuksena. Jos parlamentti hyväksyy suullisen tarkistuksen, siitä voidaan silloin äänestää. Jos 12 jäsentä on tarkistusta vastaan, sitä ei hyväksytä.
+
+<SPEAKER ID=17 NAME="Puhemies">
+Ei, se mitä ehdotatte, ei ole selvää. Valiokunta on löytänyt - kuten esittelijä ilmoitti - selvän ratkaisun, joka vastaa myös sitä, mistä on puhuttu täällä, ja tällöin ei voida hyväksyä lisätarkistuksia.
+<P>
+(Parlamentti hyväksyi päätöslauselmaesityksen.)
+
+<SPEAKER ID=18 NAME="Seillier">
+On ilmeistä, että vastataksemme paremmin yhteiskuntiemme todellisiin tarpeisiin on tarpeen selvittää joitakin käsitteitä, kuten yksinhuoltajaperhe: onko kyse leskestä, jolla on huollettavia lapsia, eronneesta naisesta tai miehestä, jolla on lapsia, naimattomasta äidistä, jolla on lapsi tai lapsia, ja niin edelleen?
+<P>
+Olipa kyse sitten elämän koettelemuksista tai naisen henkilökohtaisesta valinnasta, yksinhuoltajana on aina vaikea elää, sekä aineellisesta että lasten koulutukseen liittyvästä näkökulmasta katsottuna; esittelijä muuten korostaa sitä useaan otteeseen. Sen vuoksi en ymmärrä miksi ne meidän tarkistuksemme hylättiin, joissa vaaditaan lasten aineellisen ja henkisen edun nimissä ehkäisevää politiikkaa, jotta vältettäisiin niin pitkälle kuin mahdollista yksinhuoltajuus vastuun kantamista opettamalla.
+<P>
+Näin siis 30 vuotta vuoden 1968 jälkeen harhaluuloihin perustuvan seksuaalisen vapautumisen tuhoisat seuraukset tulevat aina vain selvemmin näkyviin.
+<P>
+Provanin mietintö (A4-0277/98)
+<SPEAKER ID=19 NAME="Nicholson">
+Onnittelen herra Provania hänen erinomaisesta mietinnöstään, joka heijastelee sitä yleistä näkökantaa, jonka mukaan kalastuksen valvontaa on parannettava, jos aiomme säilyttää kalakannat ja tarjota toimeentulon tuleville kalastajasukupolville.
+<P>
+Herra Provan on korostanut tässä mietinnössä erästä tärkeää strategista kohtaa, joka näyttää liian usein puuttuvan komission ajattelusta, eli tarvetta saada itse kalastajat kannattamaan valvontaa. Saamme näin tehdessämme kalastajista tasavertaisia kumppaneita valvontaprosessiin sen sijaan, että jatkamme toimintaa, joka saattaa näyttää joskus vakoilulta. Kalastuksen valvonnasta voi tulla täysin menestyksekästä vasta sitten, kun kalastajat itse voivat tuntea olonsa prosessissa täysin luottavaiseksi.
+<P>
+Minun on sanottava, että on vaikea käsitellä mielessään aihetta ajattelematta myös EU: n kalastuspolitiikan poliittista suuntaa. Ne meistä, jotka edustavat alueita, joilla kalastusteollisuus on kärsinyt poliittisesta päätöksenteosta, voivat ainoastaan miettiä, voidaanko taitavalla valvonnalla hyvittää ne vahingot, jotka aiheutuivat kalastusvesiemme avaamisesta kaikkien käyttöön. Tämän sanottuani suhtaudun todella myönteisesti ehdotuksiin kiristää EU: n vesillä toimivien yhteisön ulkopuolisten maiden alusten valvontaa.
+<P>
+Tämä on hyödyllinen mietintö, joka antaa lisäpontta parlamentin vaatimukselle, että komissio tekisi enemmän yhteisen kalastuspolitiikan heikkouksien käsittelemiseksi. Toivon, että komission asenne on muuttumassa ja että se alkaa kuunnella parlamenttia tässä asiassa.
+
+<SPEAKER ID=20 NAME="Wibe">
+Tämä mietintö sisältää monia hyviä ajatuksia ja ehdotuksia. Kaipaan kuitenkin kriittistä suhtautumista koko EU: n kalastuspolitiikkaan. Tämä politiikkahan juuri johtaa ryöstökalastukseen suurilla alueilla Afrikan rannikkovesiä. Tämä perustilanne ei muutu paremmalla valvonnalla, vaan kokonaan toisenlaisella politiikalla.
+
+<CHAPTER ID=3>
+EY: n ja Madagaskarin välinen kalastussopimus
+<SPEAKER ID=21 NAME="Puhemies">
+Esityslistalla on seuraavana keskustelu Gallagherin laatimasta mietinnöstä (A4-0282/98) ehdotukseksi neuvoston asetukseksi (EY) Euroopan yhteisön ja Madagaskarin rannikon edustalla harjoitettavasta kalastuksesta tehdyssä sopimuksessa määrättyjen kalastusmahdollisuuksien ja taloudellisen korvauksen vahvistamista 21 päivän toukokuuta 1998 ja 20 päivän toukokuuta 2001 väliseksi ajaksi koskevan pöytäkirjan tekemisestä (KOM(98)0390 - C4-0456/98-98/0217(CNS)).
+
+<SPEAKER ID=22 NAME="Gallagher">
+Arvoisa puhemies, haluaisin aluksi sanoa, miten äärettömän kiitollinen olen kaikille niille, jotka ovat auttaneet minua mietintöni laatimisessa ja etenkin valiokunnan sihteeristölle ja kalatalousvaliokunnan jäsenille, jotka osallistuivat aktiivisesti valiokunnan keskusteluihin, komission henkilökunnalle ja tietenkin niille, jotka valmistelivat budjettivaliokunnan ja kehitys- ja yhteistyövaliokunnan lausunnot.
+<P>
+Mietintö perustuu komission ehdotukseen uudistaa EU: n ja Madagaskarin tasavallan väliseen kalastussopimukseen liittyvä pöytäkirja kolmeksi vuodeksi toukokuun 1998 ja toukokuun 2001 väliseksi ajaksi. Ensimmäinen pöytäkirja tehtiin Madagaskarin kanssa vuonna 1986, ja tämä pöytäkirja on viides. Se koskee ainoastaan tonnikalaa, ja 45 tonnikalan pakastusalusta ja 30 pintasiima-alusta. Sallittu saalis on 9 500 tonnia. Yhteisölle sopimuksesta aiheutuvat kokonaiskustannukset ovat 2, 28 miljoonaa ecua kolmen vuoden aikana. Taloudellisena korvauksena maksetaan 912 000 ecua, joka on 40 % kokonaiskustannuksista. Loppusumma käytetään Madagaskarin kalastussektorin tukemiseksi tarkoitettujen toimien rahoittamiseen siten, että varoja annetaan tieteellisille tutkimusohjelmille ja valvontaohjelmille, kuten tarkastus- ja valvontatoimille. On elintärkeää, että rahoitusta annetaan pienimuotoisen rannikkokalastuksen kehittymisen tukemiseksi. Rahoitus sisältää myös koulutusapurahoja Madagaskarin rannikkovaltioiden kalastajien auttamiseksi.
+<P>
+On tärkeää panna merkille, että rahoitus liitetään ensimmäistä kertaa Madagaskarin viranomaisten oikeudelliseen velvollisuuteen. Niiden on laadittava komissiolle yksityiskohtainen vuosikertomus määrärahoista, jotka on käytetty tieteellisiin ohjelmiin, valvontaohjelmiin ja tekniseen apuun. Määrärahojen maksu on sidottu tämän tehtävän toimeenpanoon, mikä on tervetullut uudistus. Komissio voi pyytää lisätietoa, ja unioni voi keskeyttää määrärahojen jaon, jos se ei ole lisätietoon tyytyväinen. Tämä käy erittäin hyvin yksiin parlamentin ajattelun kanssa, ja se myös takaa täydellisen avoimuuden, mikä on ehdottoman välttämätöntä. Sen varmistamiseksi, että Madagaskarin viranomaiset ja Madagaskarin kansa hyötyvät tästä, yhteisön alusten on hankittava tarvitsemansa palvelut ja tarvikkeet Madagaskarin viranomaisilta.
+<P>
+Tässä pöytäkirjassa määrätään, että sopimusta voidaan laajentaa muuhun kalastustoimintaan; sitä ei ole määritelty, mutta määräys on selvä viittaus katkarapuihin, joilla on huomattava taloudellinen arvo ja joiden pyynnistä on tällä hetkellä sovittu yksityisin sopimuksin.
+<P>
+Tässä kansainvälisessä kalastussopimuksessa tarjotaan joillekin yhteisön aluksille mahdollisuus kalastaa unionin alueen ulkopuolella antamalla aluksillemme oikeuden kalastaa yhteisön ulkopuolisten maiden vesillä, mikä lievittää moniin unionin kalavaroihin kohdistuvaa painetta.
+<P>
+Mahdollisuutta kalastaa yhteisön ulkopuolisten maiden yksinomaisella vyöhykkeellä ei pitäisi rajata koskemaan ainoastaan joidenkin jäsenvaltioiden aluksia. Sen pitäisi olla avoin minkä tahansa jäsenvaltion aluksille, jotka kykenevät kulkemaan pitkiä matkoja ja pyytämään kyseisiä kalavaroja. Mailla, joilla ei ole perinteisiä oikeuksia, on oltava samat mahdollisuudet, eikä niitä saisi estää etsimästä kalastusalueita tonnikalan ja sellaisten vaeltavien kalalajien osalta, jotka liikkuvat useiden rannikkovaltioiden edustalla vuosittain maaliskuun ja kesäkuun välillä. Ainoastaan alueellisesti toteutettu yhteistyö kalavarojen hoidossa takaa varojen asianmukaisen säilymisen. Minun ei tarvitse muistuttaa parlamenttia siitä, miten tärkeää on suojella uusiutuvia varoja. Olemme valvojia, ja meidän on varmistettava, että nuo varat ovat tulevien sukupolvien käytettävissä. Kalastajamme ymmärtävät tämän todellakin parhaiten, ja he haluavat varmistaa, että varoja riittää heidän sukupolvelleen ja tuleville sukupolville.
+<P>
+Lopuksi olen jättänyt käsiteltäviksi muutamia tarkistuksia. Tämä on parlamentin ajattelun mukaista, parlamentin, joka vaatii, että sille toimitetaan yksityiskohtaista ja johdonmukaista tietoa. Jätän mietinnön parlamentin haltuun ja pyydän sitä pohtimaan vakavissaan tarkistuksiani, joiden uskon parantavan mietintöä.
+
+<SPEAKER ID=23 NAME="Jöns">
+Arvoisa puhemies, hyvät kollegat, haluaisin onnitella budjettivaliokunnan puolesta kollega Gallagheria sydämellisesti hänen mietintönsä johdosta. Tällä kerralla voin - mitä ei tapahdu usein - onnitella komissiotakin. Sitä ilahtuu aina, kun virkamiehet ovat oppimiskykyisiä, ja ensimmäistä kertaa komissio on todellakin onnistunut Madagaskarin tapauksessa siinä, että se ei saanut neuvotteluja päätökseen viime hetkellä vaan peräti kaksi kuukautta ennen pöytäkirjan raukeamista. Tietenkin olisimme mielellämme halunneet niin tapahtuvan jo 4-6 kuukautta ennen pöytäkirjan raukeamista, jotta koko lainsäädäntömenettely olisi voitu päättää ajoissa, mutta kaksi kuukautta on kuitenkin jo ensimmäinen askel oikeaan suuntaan, huomautettakoon, menettelysääntöjen suuntaan.
+<P>
+Olisimme kuitenkin mielellämme halunneet välttää myös tätä tuskastuttavaa pöytäkirjan väliaikaista käyttöä. Silloin emme nimittäin olisi jälleen siinä tilanteessa, että me vain annamme yhtenään hyväksyntämme tosiasioille, joista on jo päätetty, sillä se - kuten kaikki tiedätte - rajoittaa huomattavasti oikeuksiamme budjettivallan käyttäjinä.
+<P>
+Vielä yksi lisäkohta. Meillä on budjettivaliokunnassa tietenkin erilainen mielipide luokittelusta. Meille kansainvälisiin kalastussopimuksiin käytettävät varat ovat tietysti edelleenkin ei-pakollisia, vaikka osa kalatalousvaliokunnan kollegoista näkeekin asian eri tavalla. Halusin joka tapauksessa selventää sitä vielä kerran. Sama koskee tietysti myös Gabonin kanssa solmittua sopimusta, jota käsittelemme myöhemmin. Tätä kiistaa emme kuitenkaan voi varmastikaan sopia tulevissakaan lainsäädäntömenettelyissä. Tässä onkin sitten vain todella odotettava seuraavaa toimielinten välistä sopimusta.
+
+<SPEAKER ID=24 LANGUAGE="EN" NAME="Hardstaff">
+Arvoisa puhemies, herra Gallagher esitti hyvin selvästi erinomaisessa mietinnössään ja tämänaamuisessa puheessaan ne asiat, jotka liittyvät tähän Madagaskarin kanssa tehtyyn kalastussopimukseen.
+<P>
+Euroopan sosiaalidemokraattisen puolueen ryhmä suhtautuu erittäin myönteisesti siihen tapaan, jolla yhteisön ulkopuolisten maiden kanssa tehtävien kalastussopimusten uusimisella varmistetaan yhä paremmin se, että kyseessä olevat maat hyötyvät näistä sopimuksista, etenkin niiden kalastusyhteisöt eivätkä ainoastaan niiden hallitukset. Kuten herra Gallagher on tuonut esiin, Madagaskarin hallituksen on annettava kertomus siitä, miten se käyttää tämän sopimuksen nojalla saamansa rahat. Nämä takeet ovat hyvin suurelta osin parlamentin harjoittaman painostuksen ansiota.
+<P>
+Tässä nimenomaisessa sopimuksessa vaaditaan, että ne yhteisön kalastusalusten omistajat, jotka pyytävät tonnikalaa Madagaskarin vesiltä, antavat rahallisen korvauksen Madagaskarin kalastajille, jos he eivät työllistä paikallisia työntekijöitä. Vain tietyt alukset voivat ostaa lisenssejä, eikä niitä voida siirtää. Emme yksinkertaisesti voi ensin hyödyntää liiallisesti omien vesiemme varoja ja sen jälkeen käyttää muiden kansojen varoja hyväksemme, jos aiomme säilyttää maailman kalavarat.
+<P>
+Valiokunta tuki herra Gallagherin tarkistuksia ja PSE-ryhmä tukee niitä täysin, koska niissä varmistetaan, että parlamentille tiedotetaan tarkoin tavasta, jolla tämä sopimus pannaan täytäntöön. Vastustamme kuitenkin ELDR-ryhmän tekemää tarkistusta, koska sen todennäköinen seuraus olisi se, että yhteisön alusten olisi mahdotonta ansaita elatustaan, paitsi poikkeuksellisen hyvinä vuosina, ja näin ollen monet eivät hyväksyisi tätä sopimusta. Madagaskarilta itseltäänkin riistettäisiin siten ne edut, joita tässä pöytäkirjassa tarjotaan sen kalastajayhteisölle.
+
+<SPEAKER ID=25 LANGUAGE="ES" NAME="Varela Suanzes-Carpegna">
+Arvoisa puhemies, ensinnäkin haluan onnitella molempia esittelijöitä, jotka esittelevät tänään mietintönsä parlamentille, herra Gallagheria ja herra Girão Pereiraa, siitä hyvästä työstä, jonka he ovat tehneet Madagaskarin ja Gabonin tasavallan kanssa solmittuja kalastussopimuksia koskevissa mietinnöissään.
+<P>
+Haluaisin todeta, että molemmat sopimukset merkitsevät Euroopan unionin yhteisen kalastuspolitiikan jatkumista kansainvälisten kalastussopimusten osalta, ja ne auttavat myös lujittamaan näitä sopimuksia yhtenä peruspilarina yhteisessä kalastuspolitiikassa, joka, kuten todettiin jo Cramptonin tälle parlamentille laatimassa mietinnössä, on edelleenkin perusedellytys yritykselle alentaa Euroopan unionin kauppataseen vajetta ja pelastaa välitön ja välillinen työllisyys yhteisön kalatalousalalla ja kalateollisuudessa. Tällä on erittäin suuri merkitys taloudellisesti jälkeenjääneille reuna-alueille, jotka ovat erittäin riippuvaisia kalastuksesta.
+<P>
+Haluaisin todeta Girão Pereiran mietinnöstä, joka käsittelee Gabonin tasavallan kanssa solmittua kalastussopimusta, että kyseessä on uusi ainoastaan tonnikaloja koskeva sopimus, joka on voimassa viisi vuotta ja joka merkitsee neuvotellun 9 000 tonnin saalismäärän rahoittamista. On kuitenkin todettava, että käsittämättömällä ja huolestuttavalla tavalla tällaisessa sopimuksessa on ensimmäistä kertaa lisätty varustamojen rahoitusosuutta nostamalla sitä 20 ecusta 25 ecuun tonnilta ja alentamalla vastaavasti yhteisön osuutta 80 ecusta 75 ecuun tonnilta.
+<P>
+Minusta tähän ei ole olemassa perusteltua syytä. Jos sellainen olisi, tällainen korotus edellyttäisi mielestäni aina sitä, että varustamoiden kalastuskapasiteettia vastaavasti lisättäisiin ja että nämä voisivat osallistua laajemmin neuvotteluihin niiden suuremman rahoitusosuuden mukaisesti.
+<P>
+Mitä tulee Gallagherin mietintöön uudesta Madagaskarin valtioon liittyvän pöytäkirjan tekemisestä, on todettava, että kyse on myös ennen kaikkea tonnikaloja koskevasta sopimuksesta, jossa nuottaa käyttävien kalastusalusten määrä on säilytetty ennallaan ja pintasiima-alusten määrää on nostettu, samoin kuin kalastusmahdollisuuksia on nostettu 9 000 tonnista 9 500 tonniin. Sopimuksen kokonaiskustannukset ovat kohonneet hiukan, mutta on todettava, että erotuksena sille, mitä totesimme Gabonin sopimuksesta, komissio kunnioittaa varustamoille asetettua rahoituskattoa, jota on käytetty tähän asti kaikissa vastaavissa sopimuksissa. Näin ollen varustamoiden osuus on 20 ecua tonnilta, kun taas komission osuus on 80 ecua tonnilta.
+<P>
+Lopuksi haluaisin todeta, että pidän erittäin myönteisinä niitä kalatalousvaliokunnan hyväksymiä Gallagherin mietintöä koskevia tarkistuksia, joissa komissiota pyydetään pöytäkirjan viimeisen soveltamisvuoden aikana antamaan kertomus sopimuksen soveltamisesta ja sen toimeenpanon tilasta sekä sopimuksen uudistusta koskevien neuvottelujen etenemisestä. Kertomus toimitetaan parlamentille, ja sen pohjalta parlamentti antaa suosituksia ja pyytää, että ne otettaisiin huomioon ennen neuvottelujen päättymistä.
+<P>
+Huolimatta siitä, että toimielinten välinen tiedonkulku on edellisen pöytäkirjan jälkeen parantunut budjettivallan käyttäjän kalastussopimuksiin liittyvän tiedonsaannin parantamista koskevan 1996 solmitun toimielinten välisen sopimuksen soveltamisen ansiosta, tämä tiedonvaihto ei vielä toimi parhaalla mahdollisella tavalla. Tämä uusi yhteistyö, jota herra Gallagherin mietinnössä ehdotetaan ja joka vahvistaa Euroopan parlamentin osallistumista, voisi merkitä kansainvälisten kalastussopimusten hyväksymis- ja täytäntöönpanomenettelyn oleellista paranemista.
+
+<SPEAKER ID=26 LANGUAGE="SV" NAME="Olsson">
+Arvoisa puhemies, haluaisin aloittaa onnittelemalla esittelijää hyvästä mietinnöstä. Mielestäni se tuntuu edistysaskeleelta, kun on kyseessä tämäntyyppinen Euroopan unionin ja eräiden kehitysmaiden välinen sopimus.
+<P>
+Haluaisin korostaa sitä, että tämäntyyppisen sopimuksen ollessa kyseessä on oikeastaan kysymys tasapainon löytämisestä erilaisten intressien välille: toisaalta taloudellisten etujen, jolloin kyseessä on liiketaloudellinen sopimus, toisaalta ympäristöön liittyvien etujen, jolloin kyseessä on resursseista huolehtiminen pitkäaikaista kestävää hyödyntämistä varten. Kolmanneksi kyseessä on kolmannen maailman maiden auttaminen. Tätä arviointia ei ole kovinkaan helppo tehdä. En halua sanoa, että olisimme onnistuneet tässä vielä, mutta olemme menossa oikeaan suuntaan.
+<P>
+Haluaisin korostaa, että kehitys- ja yhteistyövaliokunta on kiinnittänyt huomiota siihen, että alueellisia näkökantoja ei oteta tarpeeksi huomioon, kun on kyseessä tutkimus ja hallinto. On toki tärkeää, että tätä ajatellaan komission kannalta, kun tässä asiassa mennään eteenpäin.
+<P>
+Kommentoisin myös liberaalien ehdotusta, johon sisältyy se, että kalastajat eivät saisi mitään tukea tässä yhteydessä. Tuet ovat tietenkin tarpeellisia tilanteessa, jossa kalastuksella ja maataloudella ei ole voimaa elää kovassa kansainvälisessä kilpailussa. Pitkällä aikavälillä täytyy kuitenkin voida lopettaa nämä tuet. Arvoisa puhemies, pyydän saada palata tähän kysymykseen, kun seuraavasta mietinnöstä keskustellaan, koska siihenkin mietintöön liittyy samankaltainen tarkistusehdotus.
+
+<SPEAKER ID=27 LANGUAGE="NL" NAME="Aelvoet">
+Arvoisa puhemies, kun edellisestä Madagaskarin kanssa solmitusta kalastussopimuksesta keskusteltiin täällä runsaat kaksi vuotta sitten, Euroopan parlamentti arvosteli voimakkaasti sekä sopimuksen sisältöä että menettelyä, koska parlamentilla ei oikeastaan ollut mitään sanomista asiaan. Esittelijä pyysi sopimuksen hylkäämistä, mutta parlamentin enemmistö ei suostunut siihen. Silti on niin, että sosialistit julistivat tuolloin Baldarellin suulla, että tuo sopimus on viimeinen, jota he tukevat. Siitä lähtien he ovat tukeneet jokaista sopimusta.
+<P>
+Mitä kuitenkin tapahtuu tällä alueella? Toteamme verratessamme näitä kahta sopimusta keskenään, että vieläkään ei ole olemassa sopeutettua alueellista hallintorakennetta, että tehokkaat valvontatoimenpiteet puuttuvat ja että parlamenttia on ainoastaan kuultu. Meidän mielestämme on kuitenkin myönteistä, että aluetta, jolla saa kalastaa, on laajennettu, nimittäin kahdesta meripeninkulmasta kahteentoista meripeninkulmaan. Oli jo aikakin, sillä tämä on sisältynyt jo pitkään moniin muihin sopimuksiin.
+<P>
+Koska tässä on jälleen kyse sopimuksesta, jossa käsitellään etenkin tonnikalan pyyntiä, meidän on kiinnitettävä huomiomme siihen, että tietynlaisten verkkojen, nimittäin ajoverkkojen, käyttö aiheuttaa selvästi sivusaaliin ongelmia, enkä tarkoita tässä delfiinejä, sillä ne eivät ole ongelmana tällä alueella. Ranskalaiset tutkijat ovat tehneet hiljattain tutkimuksen, josta käy selvästi ilmi, että tonnikalan lisäksi verkkoihin joutuu paljon muita lajeja, kuten kultamakrilleja, makrilleja ja sillejä, mainitakseni vain muutamia. Lisäksi ongelman muodostavat tonnikalanpoikaset, jotka pyydetään liian aikaisin. Perinteisiä menetelmiä käyttävät kalastajat pyytävät myös joitakin näistä lajeista ja näin meidän kalastusyrityksemme voivat selvästi vaikuttaa paikallisten kalastajien mahdollisuuksiin. On myös silmiinpistävää, että kun useimmissa tonnikalasopimuksissa vaaditaan kahden paikallisen kalastajan mukanaoloa laivaa kohti, tässä sopimuksessa edellytetään kahden kalastajan mukanaoloa koko kalastuslaivastoa kohti. Meidän mielestämme valvonnan on parannuttava huomattavasti. Tuemmekin liberaalien tarkistusta, koska siinä mennään oikeaan suuntaan ja koska laivojen omistajien osallistumista pitää lisätä.
+
+<SPEAKER ID=28 LANGUAGE="FR" NAME="Souchet">
+Arvoisa puhemies, tänään käytävä keskustelumme, joka käsittelee Euroopan unionin kahta kalastussopimusta, joista toinen on solmittu Madagaskarin ja toinen Gabonin kanssa, koskee Gabonin osalta yksinomaan ja Madagaskarin osalta pääasiallisesti tonnikala-aluksia käsitteleviä sopimuksia. Tämä keskustelu käydään kaksi päivää varojen säilyttämistä ja kestävää kehitystä käsittelevän työryhmän kokouksen jälkeen, joka tarjosi mahdollisuuden tuoda esille kalastussopimustemme suotuisat vaikutukset sekä AKT-maiden ja Euroopan unionin välisen tonnikalasektorin yhteistyön kehittämiseen että sopimuksen allekirjoittaneiden kehitysmaiden tonnikalateollisuuden kehittämiseen, varsinkin sellaisten maiden, joiden satamien kautta kulkee lisenssin saaneita aluksia. Erityisesti tämä koskee Madagaskaria ja Diégo-Suarezia tai esimerkiksi Abidjania, Dakaria, Mahéta tai Ghanaa ja Mauritiusta, joissa kalastussopimukset ovat auttaneet luomaan merkittävää maalla tapahtuvaa teollisuustoimintaa sekä huomattavan määrän työpaikkoja. Tonnikalaa maihin tuovissa AKTmaissa trooppisen tonnikalan tuotannonalasta on näin tullut keskeinen tekijä paikallisen talouden kehityksessä.
+<P>
+Tämän taloudellisen kokonaisuuden moitteeton toiminta perustuu yhteisen kalastuspolitiikan puitteissa solmittujen kalastussopimusten ja Lomén sopimuksen tariffimääräysten väliseen yhteyteen. Nämä mahdollistavat AKT-maissa tuotettujen tonnikalasäilykkeiden tuonnin yhteisöön nollatullia soveltamalla. Intian valtamerellä ja Atlantin valtamerellä tapahtuva tonnikalateollisuuden kehitys perustuu myös avomeren kalavarojen kohtuulliseen hyödyntämiseen. Nämä varat ovat erityisen runsaita ja erityisesti valtameren tutkimukseen erikoistuneiden tutkimuslaitosten, kuten ranskalaisen Orstomin sekä espanjalaisen IEO: n, tiiviin tieteellisen seurannan alaisena. Tämä kalastuksen laji ei siis tule kilpailemaan paikallisen elintarvikkeita tuottavan perinteisen kalastustoiminnan kanssa, jossa voidaan siis jatkaa ajoverkkojen käyttämistä kaikessa rauhassa ja täysin oikeutetusti.
+<P>
+EU- ja AKT-maiden välinen yhteistyö tonnikalasektorilla on yksi sekä kalastus- että yhteistyöpolitiikkamme suurimmista saavutuksista. Kaikki sopimusten osapuolina olevat ammatinharjoittajat ja kansalliset viranomaiset ovat tyytyväisiä sopimusten toimivuuteen ja pyytävät, ettei nykyistä tonnikalasektorin taloudellista tasapainoa aseteta kyseenalaiseksi, ja ettei sitä saateta epävakaiseksi uuden Lomén sopimuksen puitteissa. He vaativat erittäin oikeutetusti sellaisen tarkoituksenmukaisen erityisjärjestelmän perustamista, joka pitäisi määritellä jo uuden sopimuksen siirtymäkauden aikana ja siihen pitäisi sisällyttää erityisesti jalostetun tonnikalan etuuskohtelun säilyttäminen Lomén sopimuksen mukaisesti, varsinkin suhteessa GSPjärjestelmään, koska tämä määräys on antanut meidän teollisuudellemme mahdollisuuden kehittyä suhteessa sellaisiin Aasian jättiläisiin kuin Thaimaa, Filippiinit ja Indonesia, joka on Aasian tonnikala-alan jättiläinen.
+<P>
+Parlamentin on siis oltava hyvin valppaana tässä kysymyksessä, samoin kuin muuten komission taipumuksen osalta myöntää erivapauksia sinne tänne murehtimatta useinkaan kuitenkaan niiden vaikutuksista kalastussektoriin: huumeita koskeva GSPjärjestelmä, vuotuiset kiintiöt, erilaisten alueellisten vyöhykkeiden, kuten Mercosurin kanssa solmittavat kaupalliset sopimukset, jotka saattavat luoda suoraa ja sietämätöntä kilpailua meidän Lomén sopimuksen mukaisille kumppaneillemme AKT-maissa. On estettävä se, että tällaiset aloitteet tuhoavat YKP: n ja Lomén sopimusten mukanaan tuomat saavutukset. Vaikutuksia on tutkittava tosissaan ja nämä tutkimukset, joissa yhdistetään Euroopan talouspoliittiset edut ja Lomén sopimuksen allekirjoittajamaiden edut, on suoritettava ehdottomasti ennen kutakin neuvottelua, etenkin kalastusalalla.
+<P>
+Lopuksi panen vielä erittäin kiinnostuneena merkille, kuten esittelijätkin, uusien Madagaskarin ja Gabonin kanssa tehtyjen sopimusten määräykset, jotka koskevat valvontaa, koulutusta ja tieteellistä tutkimusta ja joiden osuus on 60 % rahallisesta kokonaiskorvauksesta; se kasvaa koko ajan. Perinteistä kalastusta koskevan kehitysosion ottaminen mukaan kalastussopimukseen ensimmäistä kertaa on mielestäni myös erittäin myönteinen uutuus.
+<P>
+Kaiken kaikkiaan, arvoisa puhemies, molemmat mietinnöt ovat hyviä, molemmat sopimukset ovat hyviä, parlamentin on hyväksyttävä ne.
+
+<SPEAKER ID=29 LANGUAGE="EN" NAME="McCartin">
+Arvoisa puhemies, haluaisin kiittää herra Gallagheria hänen mietinnöstään. Hän antaa todellakin paljon erittäin yksityiskohtaista tietoa, jonka avulla voimme arvioida tilannetta. Näiden kalastussopimusten väitetään tavallisesti suosivan jotakin tiettyä yhteisön aluetta. Olen herra Gallagherin kanssa samaa mieltä siitä, että pääasiassa espanjalaiset, ranskalaiset ja portugalilaiset hyödyntävät näitä kalastusmahdollisuuksia, mutten usko, että pohjoisempien jäsenvaltioiden ihmiset kykenisivät hyödyntämään niitä, vaikka heillä olisikin niistä täysi tieto ja tilaisuus hyödyntää niitä.
+<P>
+Panen luvuista merkille sen, että kustannukset kalatonnia kohti näyttävät laskeneen. Ihmettelen, miksi maksamme tässä sopimuksessa vähemmän kuin aikaisemmassa ja miksi olemme kasvattaneet alusten lukumäärää noin 30 pintasiima-aluksella niiden pakastusalusten lisäksi, jotka kuuluivat ensimmäiseen sopimukseen.
+<P>
+Suhtaudumme kuitenkin myönteisesti niihin parannuksiin, joita tähän sopimukseen on tehty kalavarojen säilyttämiseksi alueella ja yksinomaisen talousvyöhykkeen laajentamiseksi 2 meripeninkulmasta, jota meidän ei olisi koskaan pitänyt hyväksyä, 12 meripeninkulmaan. Tämä antaa paremman suojan paikallisille kalastajille, jotka ovat aivan kykeneviä hyödyntämään kaikkia kalavaroja tällä laajemmalla alueella. Jos meillä ei olisi tätä sopimusta, tätä vaeltavaa kalalajia ei suojeltaisi paikallisten kalastajien hyväksi, mutta tätä kalalajia todennäköisesti hyödynnettäisiin joka tapauksessa. Madagaskar saa sopimuksesta hyötyä, jota se ei muutoin saisi, joten sen talous todella hyötyy jossakin määrin. Se on suhteellisen pieni rahamäärä, jos sitä pidetään alueellisena tukena kalastussatamille, missä päin yhteisöä ne sitten sijaitsevatkin. Tämä sopimus antaa meille kalaa noin 10 000 000 ecun edestä. Jos summasta vähennetään kalojen pyytämiskulut, se ei alueellisena tukena ole tietenkään valtavan paljon, mutta kaikkia näitä pieniä sopimuksia on tarkasteltava kokonaisuutena.
+<P>
+Olisin halunnut, että näillä vesillä kalaa pyytävien alusten lukumäärä olisi selvempi. On hyvin vaikea tietää, mitä tapahtuu, kun 70: lle tai 80 alukselle myönnetään lisenssi pyytää kalaa, jota on niin vähän.
+
+<SPEAKER ID=30 LANGUAGE="EN" NAME="Gillis">
+Arvoisa puhemies, haluaisin kiittää herra Gallagheria, esittelijää, hänen mietinnöstään komission ehdotuksesta Madagaskarin kanssa tehdyn tonnikalasopimuksen uudistamiseksi kolmeksi lisävuodeksi.
+<P>
+Vaikka Madagaskarin tasavallan pitäisi voida käyttää tämän sopimuksen tuottoa parhaimmaksi katsomallaan tavalla, olen tyytyväinen siihen, että suurin osa - 60 % - koko 2, 28 miljoonan ecun suuruisesta kokonaissummasta on käytettävä tieteelliseen tutkimukseen, varojen suojeluun ja koulutukseen, ja se hyödyttää siksi suoraan rannikkoalueita ja niillä asuvia ihmisiä.
+<P>
+Suoran rahoitustuen antaminen ja teknologian ja asiantuntemuksen siirtäminen kehitysmaille ovat Euroopan unionin kehityspolitiikan tunnusmerkkejä. Olen iloinen siitä, että kehitysmaiden kanssa tekemissämme kalastussopimuksissa osa rahoitustuesta yhdistetään sitoumukseen parantaa rakenteita ja koulutusmahdollisuuksia sekä paikallisten kalastajien kalastusmahdollisuuksia. Voimme kuitenkin tehdä ja meidän olisi tehtävä enemmän sekä kalastussopimuksissa että yleisessä kehityspolitiikassamme.
+<P>
+Yhteisön ulkopuoliset maat, kuten Madagaskar, ovat hyvin usein kykenemättömiä valvomaan EU: n kalastusalusten toimintaa. Monet jäsenvaltioiden viranomaisetkaan eivät itse asiassa kykene valvomaan niitä. Meidän on kuitenkin löydettävä sellainen järjestelmä, jonka avulla asianomaiset maat ja komissio voivat valvoa kalastussopimuksia tehokkaasti ja varmistaa, ettei rajallisia kalavaroja hyödynnetä liikaa. Minkä tahansa rajallisen kalalajin liiallinen pyytäminen tai hyödyntäminen vahingoittaa tuota kalalajia kaikkien asianomaisten kustannuksella ja on sen vuoksi ehdottomasti kestämätöntä.
+<P>
+Yhdellä alalla voisimme auttaa enemmän yhteisön ulkopuolisia maita. Meidän olisi annettava paikallisille kalastusaluksille laajempi yksinomainen kalastusvyöhyke. Nykyinen 10 meripeninkulman suuruinen vyöhyke voitaisiin ja pitäisi laajentaa 15 meripeninkulmaan, mikä ei aiheuttaisi vakavaa haittaa EU: n avomerialuksille. Tämä parantaisi paikallisten kalastajien etuja ja tarjoaisi heille vankemman perustan, jolle he voisivat suunnitella investointejaan.
+
+<SPEAKER ID=31 NAME="Flynn">
+Arvoisa puhemies, komissio haluaisi kiittää herra Gallagheria tästä erinomaisesta mietinnöstä, joka koskee yhteisön alusten Madagaskarin edustalla harjoittaman kalastuksen uusia ehtoja. Kiitän myös parlamentin jäseniä, jotka ovat onnitelleet komission virkamiehiä heidän tekemästään kovasta työstä näiden sopimusten hyväksi ja heidän kohtaamastaan menestyksestä.
+<P>
+Komissio on sitä mieltä, että näillä ehdoilla sopimusta voidaan hyödyntää tehokkaammin, mikä on sopusoinnussa varojen suojelua koskevien perusperiaatteiden kanssa. Komission mielestä Madagaskarin kanssa tehty uusi pöytäkirja sisältää myös merkittäviä uudistuksia, joiden tavoitteena on edistää kestävän kehityksen mukaista kalastusta, mikä on johdonmukaista unionin kehityspolitiikan kanssa.
+<P>
+Sopimukseen liitetyssä uudessa pöytäkirjassa annetaan portugalilaisille ja italialaisille tonnikala-aluksille ensimmäistä kertaa mahdollisuus kalastaa Madagaskarin yksinomaisella kalastusvyöhykkeellä. Siinä osoitetaan kolmeksi vuodeksi 60 % taloudellisesta korvauksesta eli noin 1 368 000 ecua tiettyyn toimintaan, nimittäin tieteelliseen tutkimukseen, kalastuksen valvontaan, koulutukseen ja perinteisen kalastuksen kehittämiseen. Siinä annetaan myös Madagaskarin viranomaisille mahdollisuus valvoa yhteisön alusten liikkeitä vyöhykkeellä, mikä on valvontamenettelyjä koskevan pöytäkirjan liitteen niiden uusien määräysten ansiota, joihin sisältyy myös ilmoitusvelvollisuus yksinomaiselle vyöhykkeelle saapumisesta ja siltä poistumisesta.
+<P>
+Komissio hyväksyy kalatalousvaliokunnan esittämien tarkistusten varsinaisen sisällön, muttei niiden esitysmuotoa. Komissio haluaisi huomauttaa, että parlamentti saa jo säännöllisesti tietoa kalastussopimuksia koskevista saalismääristä valiokunnalle annettavien lausuntojen ja selontekojen välityksellä. Joten komissio ei voi hyväksyä herra Teversonin tarkistusta. Kalastussopimukset tehdään yhteisön tasolla, ja taloudellisen korvauksen maksaminen kuuluu yhteisölle ja lisenssimaksujen maksaminen kyseisillä vesillä kalastaville aluksille.
+<P>
+Kiitämme parlamenttia asian käsittelystä.
+
+<SPEAKER ID=32 NAME="Puhemies">
+Paljon kiitoksia, komissaari Flynn!
+<P>
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen.
+<P>
+(Parlamentti hyväksyi luonnoksen lainsäädäntöpäätöslauselmaksi.)
+
+<SPEAKER ID=33 NAME="Wibe">
+En voi äänestää tämän mietinnön puolesta, koska siinä itse asiassa hyväksytään EU: n kalastuspolitiikka. Tämä politiikka juuri johtaa ryöstökalastukseen suurilla alueilla Afrikan rannikkovesillä, tässä tapauksessa Madagaskarin vesillä. Sitä paitsi EU: n politiikka johtaa paikallisten kalastusyhteiskuntien kurjistumiseen. EU: n tämän alueen politiikkaa kokonaisuudessaan on harkittava uudelleen.
+
+<CHAPTER ID=4>
+EY: n ja Gabonin välinen kalastussopimus
+<SPEAKER ID=34 NAME="Puhemies">
+Esityslistalla on seuraavana Girão Pereiran laatima kalatalousvaliokunnan mietintö (A4-0283/98) ehdotuksesta neuvoston asetukseksi (EY) Gabonin tasavallan rannikon edustalla harjoitettavaa kalastusta koskevan Euroopan yhteisön ja Gabonin tasavallan sopimuksen tekemisestä (KOM(98)0376 - C4-0458/98-98/0212(CNS)).
+
+<SPEAKER ID=35 NAME="Rosado Fernandes">
+Arvoisa puhemies, toimin kollegani Girão Pereiran sijaisena. Hänen oli määrä esitellä mietintönsä eilen, mutta koska mietinnön käsittely siirrettiin tälle päivälle eikä hänen ollut mitenkään mahdollista saapua itse paikalle, yritän parhaan kykyni mukaan toimia hänen sijaisenaan.
+<P>
+Käsiteltävänämme on ensimmäinen myös käytännössä sovellettava kalastussopimus Gabonin kanssa. Jo vuonna 1988 solmittiin sopimus, joka oli vieläpä tätä laajempi ja koski tonnikalaa ja pohjakalalajeja, mutta sitä ei koskaan ratifioitu poliittisten ja sisäisten syiden vuoksi, sillä tuolloin Gabonissa puhkesivat poliittiset levottomuudet.
+<P>
+Vuonna 1995 Gabon kuitenkin pyysi Madagaskarin tavoin Euroopan unionilta tonnikalan pyyntiä koskevan sopimuksen tekemistä. Alueen muiden maiden eli São Tomén ja Príncipen, Norsunluurannikon ja Päiväntasaajan Guinean kanssa on jo solmittu sopimuksia, jotka ovat edelleen voimassa, ja alueella toimii yhteisön varustamojen aluksia, pääasiassa ranskalaisia, espanjalaisia ja portugalilaisia.
+<P>
+Tämän sopimuksen solmiminen merkitsee meille huomattavaa etua, sillä se antaa varustamoille mahdollisuuden laajentaa toiminta-aluettaan, ja koska tonnikala on vaeltava laji, mahdollisuus käyttää hyväksi koko aluetta on luonnollisestikin omiaan tehostamaan toimintaa.
+<P>
+On syytä korostaa, että toisin kuin eräät muut sopimukset, tämä sopimus ei ole kiistanalainen. Alukset voivat harjoittaa pyyntiä aavalla merellä 12 meripeninkulman päässä rannikosta, joten sopimus ei juuri anna aihetta kiistoihin Gabonin pienimuotoista kalastusta harjoittavan kalastuslaivaston eli maan omilla rannikoilla toimivien alusten kanssa, joista me kaikki - ja etenkin portugalilaiset - olemme hyvin tietoisia.
+<P>
+Kyse on pitkästä eli viisivuotisesta sopimuksesta, johon sisältyy kolmena ensimmäisenä vuotena maksettava 810 miljoonan ecun suuruinen taloudellinen korvaus, joka kattaa yhteensä 9 000 tonnin pyynnin vuodessa. Lisäksi yhteisö sitoutuu osoittamaan 1 215 000 ecua kalavarojen suojelua koskevien hankkeiden ja Gabonin kalastusalan tieteellisen ja teknisen tutkimuksen tukemiseen, erityisesti kalavaroja koskevan tietämyksen lisäämiseen ja kalastusalueiden suojeluun ja valvontaan tarkoitettuihin ohjelmiin, sekä apurahoihin ja koulutusohjelmiin.
+<P>
+Rohkenen tässä yhteydessä esittää myös erään oman huomioni: usein tämänkaltaiset ohjelmat eivät toimi, koska Euroopan unionilla ei ole aina tarpeeksi rohkeutta laatia mietintöjä, joissa selvitettäisiin todella huolellisesti, minkälaisiin toimiin paikan päällä - maalla tai merellä - on oikeastaan ryhdytty. Hukkaanheitettyjen varojen kohtalo johtuu monesti siitä, ettei yhteisö osoita tarpeeksi huolellisuutta ja rohkeutta.
+<P>
+Gabonin tasavallan hallitus sitoutuu välittämään komissiolle vuosikertomuksen näiden toimien täytäntöönpanosta ja niiden osalta saavutetuista tuloksista, ja mikäli näitä ehtoja ei täytetä, rahoitusta ei jatketa. Kalavarojen hoitoon ja säilyttämiseen sekä Gabonin kalastusalaa koskevaan tieteelliseen ja tekniseen koulutukseen osoitetaan tuntuvasti varoja (lähes 60 % taloudellisen korvauksen kokonaismäärästä), mikä on erittäin merkittävä seikka.
+<P>
+Toinen tärkeä näkökohta tässä sopimuksessa on varustamojen suurempi osuus rahoituksesta; se nimittäin nousee 20 ecusta 25 ecuun tonnilta eli yli 25 %, ja vastaavasti yhteisön talousarviosta maksettava osuus pienenee 80 ecusta 75 ecuun tonnilta.
+<P>
+Lopuksi haluaisin myös sanoa, että uusi sopimus on sopusoinnussa 30. lokakuuta 1997 pidetyn neuvoston kokouksen johtopäätösten kanssa, joten kannatamme sen täytäntöönpanoa.
+
+<SPEAKER ID=36 LANGUAGE="ES" NAME="Fraga Estévez">
+Arvoisa puhemies, ensinnäkin haluan onnitella esittelijä Girão Pereiraa suurenmoisesta mietinnöstä ja tässä tapauksessa myös komissiota siitä, että se on neuvotellut uuden vähintäänkin hyväksyttävän kalastussopimuksen. Haluaisin kuitenkin korostaa erästä mielestäni hyvin tärkeää asiaa, jota me seuraamme hyvin huolestuneina - ja arvoisa puhemies, harmittelen sitä, että talousarviosta vastaavat kollegamme ovat kaikonneet salista - sillä Gabonin kanssa solmittu sopimus merkitsee käännekohtaa sopimuspolitiikassa. Tässä pöytäkirjassa konkretisoituvat ensimmäistä kertaa komission pyrkimykset siihen, että varustamojen osuus sopimusten kustannuksista kasvaa jatkuvasti, samalla kun yhteisön talousarvion osuus pienenee.
+<P>
+Tämän aloitteen taustat ovat vähintäänkin kyseenalaiset, sillä kalastus on yhteistä politiikkaa, johon luulimme kansainvälisten suhteiden kuuluvan erottamattomana osana.
+<P>
+Ymmärrän kuitenkin täysin sen, että osa kustannuksista jää yhteisen politiikan suoran edunsaajan vastuulle, vaikka se onkin poikkeuksellista. Asia, mitä en ymmärrä alkuunkaan, on se, miksi varustamojen vastuulle jää niin merkittävä osa kalastussopimusten taloudellisista kustannuksista, ilman että ne saavat siitä itse mitään vastineeksi, sillä - kuten teistä kaikki tietävät - neuvotteluvaltuudet kuuluvat edelleenkin yksinomaan komissiolle. Jos tämä on se tie, jota aiomme kulkea, kustannusten tasapainottamisen lisäksi - komission terminologiaa käyttäen - on tasapainotettava vastaavasti muitakin toimintoja ja annettava yhteisön varustamoille vastuuta sopimusneuvotteluissa ottaen ennen kaikkea huomioon sen, ettei komissio aina ota neuvotteluissa tämän alan etuja huomioon. Älkäämme unohtako, että tämä on ala, joka tämänkaltaisissa sopimuksissa - varojen käyttömahdollisuudet vastineeksi taloudellisesta korvauksesta - maksaa jo noin kolmanneksen sopimusten kokonaiskustannuksista.
+<P>
+En halua myöskään, että täällä unohdetaan - ja haluaisin sanoa olevani eri mieltä kuin eräät minua ennen puhuneet kollegat - syrjintä eri jäsenvaltioiden varustamojen välillä. En kuitenkaan siitä syystä, mistä täällä on jo puhuttu, vaan päinvastaisesta syystä, sillä samalla kun joidenkin laivastojen varustamot maksavat aina vain enemmän, kuten tässä tapauksessa, toisenlaisissa sopimuksissa varustamot käyttävät kalastusmahdollisuuksia ilman minkäänlaisia kustannuksia - tarkoitan Pohjoismaiden kanssa tehtyjä sopimuksia, joiden piiriin etelän maiden laivastot eivät kuulu. Nämä sopimukset ovat lisäksi suljettuja ja ne koskevat ainoastaan joitakin määrättyjä laivastoja, ilman että muulla yhteisön laivastolla olisi minkäänlaisia mahdollisuuksia liittyä niihin, esimerkkinä mainittakoon Grönlannin tapaus, kun taas äskettäin Mauritaniassa - komissio korjatkoon, jos olen erehtynyt - pöytäkirjan viimeisimmässä uudistuksessa pelagisten kalastusmahdollisuuksien piiriin on otettu Saksa ja Alankomaat.
+<P>
+Tämän vuoksi neuvosto pyysi lokakuussa 1997 pitämässään kokouksessa komissiota suorittamaan kalastussopimuksia koskevan tutkimuksen - hyöty-kustannusanalyysin. Odotellessa niitä poliittisia huomioita, joita neuvoston on tehtävä ja joita tämän tutkimuksen perusteella voidaan tehdä, neuvoston ohjeissa sanotaan, että se on pyytänyt komissiota tutkimaan missä määrin ja millä keinoilla kolmansien maiden kanssa solmittujen sopimusten edunsaajavarustamot voisivat jakaa yhteisön kanssa syrjimättömästi ja tasapuolisesti kaikkien sopimusten taloudelliset kustannukset yhteisön ja yhteisön varustamoiden sekä kyseessä olevien kolmansien maiden edut huomioon ottaen.
+<P>
+Näin ollen, arvoisa puhemies, komissio on edennyt tässä asiassa mielestäni liian pitkälle ja ennen kaikkea liian nopeasti, ja sen vuoksi pyydämme sitä pohtimaan asiaa rauhassa, kuten neuvostokin antaa ymmärtää.
+
+<SPEAKER ID=37 LANGUAGE="SV" NAME="Olsson">
+Arvoisa puhemies, jos minä edellisessä puheenvuorossani käsittelin kysymystä tasapainosta taloudellisten ja ympäristöön liittyvien etujen välillä sekä kehitysapunäkökohtaa, niin haluaisin tässä puheenvuorossa puhua tukiperiaatteesta. Haluaisin tietenkin myös onnitella tämän mietinnön esittelijää hyvin tehdystä työstä.
+<P>
+Asiahan on sillä lailla, mikä meidän pitäisi aina silloin tällöin muistaa, että vanhat elinkeinot eli maatalous ja kalastus olivat ne elinkeinot, joilla oli annettavaa omista varoistaan teollistumisen alkuvaiheessa. Juuri nämä elinkeinot ruokkivat ja kouluttivat ne ihmiset, jotka myöhemmin toimivat teollisuudessa ja palvelualalla. Se oli siis tuki, joka lähti maataloudesta ja kalastuksesta. Sitten tuli välikausi, jota me edelleen elämme, jonka aikana lisääntynyt tehokkuus on johtanut lisääntyneeseen tuottavuuteen. Pelko ruoan loppumisesta johtaa siihen, että tätä tuotantoa on koko ajan vähän liikaa; maailmanmarkkinoilla on ylituotantoa ja alhaiset hinnat. Jotta tämä ei johtaisi täysin kohtuuttomaan, epänormaaliin rakennemuutokseen, vaaditaan muuta yhteiskuntaa maksamaan jotain, jotta säilyttäisimme sen, mikä on tärkeää säilyttää näissä vanhoissa elinkeinoissa - tarkoitan tässä tapauksessa sekä kalastusta että maataloutta - koska ne ovat vertailukelpoisia ja koska politiikkamme näillä alueilla on vertailukelpoista.
+<P>
+Ajan mittaan meidän on tietenkin tultava tilanteeseen, jossa voimme päästä uuteen tasapainoon, jossa voimme poistaa erot maailmanmarkkinoiden ja kansallisten markkinoiden välillä ja jossa useammat maat voisivat olla mukana. Siinä tilanteessa tuet voitaisiin lopettaa. Teverson, joka on laatinut yhden tarkistusehdotuksen, katsoo, että meidän on pidettävä kiinni siitä, että kalastuselinkeinon on itse maksettava nämä kustannukset. Henkilökohtaisesti minun on tunnustettava, että minulla on vähän liian läheinen yhteys todelliseen tilanteeseen voidakseni tukea tätä tarkistusehdotusta. Siksi jätän äänestämättä tätä ELDR: n tekemää tarkistusehdotusta koskevassa äänestyksessä, vaikka ymmärränkin täysin itse ajatuksen. Kestää vielä vähän aikaa, ennen kuin pääsemme niin pitkälle.
+
+<SPEAKER ID=38 NAME="Puhemies">
+Paljon kiitoksia, herra Olsson.
+<P>
+Arvoisat parlamentin jäsenet, samanaikaisesti sekä puheenjohtajan että lastenlääkärin ominaisuudessani haluaisin tervehtiä lehterillä olevaa muutaman kuukauden ikäistä pienokaista, muutaman kuukauden ikäistä Euroopan kansalaista, ja toivon, etteivät meidän puheenvuoronne saa häntä itkemään, vaan nukahtamaan syvään eurooppalaiseen uneen.
+
+<SPEAKER ID=39 LANGUAGE="NL" NAME="Aelvoet">
+Arvoisa puhemies, Maailmanpankin hiljattain tekemä tutkimus kalastusalan tukemisen seurauksista antaa selkeän kuvan näistä seurauksista. Tutkimus on valmistunut tämän vuoden huhtikuussa. Maailmanpankin mukaan tukemisen seurauksena paikallisten kalastajien kalastusmahdollisuudet vähenevät huomattavasti. Tutkimuksen mukaan kalan täyttä taloudellista arvoa ei korvata riittävästi useimmissa tapauksissa.
+<P>
+Toiseksi tutkimuksessa kiinnitetään huomio siihen seikkaan, että tukeminen voi vahingoittaa paikallista ravinnontarvetta, ja että pitkien matkojen laivastoilla on taipumus pyytää kaikkein tuottavimpia lajeja.
+<P>
+Kolmanneksi tästä on seurauksia myös kaupalle, koska sellaiset kaupan mahdollisuudet, joita raaka-aineita omaavilla kehitysmailla pitäisi olla, vähenevät melko varmasti. Tukeminen on siis epäilyttävä käytäntö, johon pitää suhtautua hyvin varoen.
+<P>
+Kuten rouva Fraga Estéveskin sanoi, neuvosto on antanut lokakuussa joukon direktiivejä, jotka lähemmin tarkasteltuina osoittautuvat erittäin epämääräisiksi. Niissä ei anneta selviä kriteereitä, jotka sopimusten pitäisi täyttää. Neuvosto on antanut lausunnon siitä tosiasiasta, että laivojen omistajien ja yhteisön on jaettava kulut oikeudenmukaisemmin. Gabonin kanssa solmitusta sopimuksesta näemme konkreettisesti, että omistajien panos on noussut 20 ecusta 25 ecuun tonnia kohti, mutta yhteisön vastuulla on edelleen 75 ecua. Meidän mielestämme tarvitaan edelleen tarkempaa määrittelyä, suurempaa varovaisuutta ja parempaa valvontaa kestävän kalastuksen varmistamiseksi.
+
+<SPEAKER ID=40 LANGUAGE="EN" NAME="McCartin">
+Arvoisa puhemies, haluan kiittää herra Girão Pereiraa hänen mietinnöstään ja sanoa, että kannatan tätä eurooppalaisten kalastajien puolesta tehtyä sopimusta. Ensinnäkin olemme tekemisissä sellaisen valtion kanssa, joka ei ole täysin samanlainen kuin subtrooppisen Afrikan muut valtiot. Sillä on öljy- ja metsävaroja, ja sen BKT henkeä kohden on kaksinkertainen verrattuna Afrikan valtioihin keskimäärin. Joten sen edustajilla on paremmat mahdollisuudet puolustaa itseään ja tehdä haluamansa kaltainen sopimus.
+<P>
+Olen silti huolissani Euroopan unionin käytössä olevista rajallisista keinoista valvoa tällaisia sopimuksia. 9 000 tonnia kalaa on suhteellisen pieni määrä. Puhumme kuitenkin lisenssien myöntämisestä 70 alukselle ja 120 tonnista alusta kohti. Emme tiedä, pyytävätkö ne 120 tonnia vai kaksi kertaa tämän määrän.
+<P>
+Olen kuitenkin samaa mieltä rouva Fragan kanssa koko siitä kysymyksestä, onko oikein vai ei veloittaa kalastajia kalastusoikeudesta. Euroopan unionilla on kalastusmahdollisuuksia, joita jaamme kustannuksitta tai maksutta omille kalastajillemme, ja laajennamme näitä mahdollisuuksia näiden sopimusten välityksellä. Niin kauan kuin sopimukset laaditaan siten, että ne vahingoittavat mahdollisimman vähän kalavaroja, joita paikalliset kalastajat eivät joka tapauksessa hyödyntäisi, unionin on kohtuullista tarjota näitä mahdollisuuksia, aivan kuten me tarjoamme omilla vesillämme olevien omien kalavarojemme kalastusmahdollisuutta niille kalastajille, jotka saavat lisenssin näiden kalavarojen hyödyntämiseksi.
+<P>
+Pidän siis periaatetta kohtuullisena, mutta kun tietyn alueen kalastajat ryhtyvät hyödyntämään näitä kalavaroja, meidän olisi joissakin tapauksissa pohdittava sitä, olisiko meidän saatettava kalavarat uudelleen tasapainoon omilla vesillämme.
+
+<SPEAKER ID=41 NAME="Flynn">
+Arvoisa puhemies, komissio haluaisi kiittää arvoisaa parlamentin jäsentä, herra Pereiraa, hänen erinomaisesta mietinnöstään, ja itse haluaisin kiittää herra Rosado Fernandesia siitä, että hän tuli esittelijän tilalle näin lyhyellä varoitusajalla käsittelemään tätä uutta kalastussopimusta, jonka olemme tehneet Gabonin kanssa.
+<P>
+Sopimuksessa helpotetaan yhteisön alusten mahdollisuutta kalastaa runsaasti vaeltavia kalalajeja, jotka liikkuvat Gabonin vesillä. Se täydentää niitä tonnikalasopimuksia, jotka yhteisö on jo solminut Guineanlahden alueella Gabonin naapurimaiden São Tomén ja Príncipen sekä Päiväntasaajan Guinean kanssa.
+<P>
+Sopimuksessa on muutamia erityispiirteitä, joista jotkin ovat melko uudistusmielisiä. Alusten maksamat korkeammat maksut merkitsevät orastavaa siirtymistä kohti tasapainoisempaa kustannusten jakamista yhteisön ja alusten välillä.
+<P>
+Kestävän kehityksen mukaisen kalastuksen edistäminen Gabonin vesillä on sopusoinnussa Euroopan unionin kehityspolitiikan kanssa siinä mielessä, että sopimuksessa osoitetaan 60 % yleisestä taloudellisesta korvauksesta kohdetoimintaan, joka tukee Gabonin kalastusteollisuutta. Tämä sisältää tutkimuksen ja kalastusvyöhykkeiden valvonnan, toimielinten tukemisen ja koulutuksen sekä osallistumisen kansainvälisten kalastusjärjestöjen työhön. Tämä kohdetoiminnan yksityiskohtiin liittyvä osapuolten välinen yhteistyö muodostuu tiiviiksi. Unioni voi tarkistaa maksuja sopimuksen tosiasiallisen käytön valossa. Yhteisön alukset eivät myöskään saa kalastaa 12 meripeninkulman suuruisen rannikkovyöhykkeen sisällä, minkä tarkoituksena on suojella ympäristöä ja Gabonin pienimuotoista kalastusta.
+<P>
+Komissio hyväksyy kalatalousvaliokunnan ehdottaman kolmen tarkistuksen varsinaisen sisällön, muttei siinä muodossa, jossa ne on laadittu. Haluaisin huomauttaa siitä, että parlamentti saa jo nyt säännöllisesti tietoa kalastussopimuksia koskevista saalismääristä valiokunnalle toimitettavien lausuntojen ja selontekojen välityksellä. Komissio ei voi hyväksyä herra Teversonin tekemää tarkistusta. Kalastussopimukset tehdään yhteisön tasolla. Taloudellisen korvauksen maksaminen kuuluu yhteisölle ja lisenssimaksujen maksaminen kyseisillä vesillä kalastaville aluksille.
+<P>
+Haluaisin kiittää rouva Fraga Estévezia hänen tarkkaan harkitusta panoksestaan. Jokainen kalatonni maksaa sopimuksen nojalla varustamoille 25 ecua. Sopimuksen kustannukset Euroopan unionille ovat vain hieman yli 2 miljoonaa, ja se tarkoittaa noin 75 ecua tonnilta, kun vuosittaisen kokonaissaaliin suuruus on 9 000 tonnia. Yhteisö maksaa kustannuksista kaksi kolmasosaa, noin 50 ecua tonnilta, kun varustamot puolestaan maksavat 25 ecua tonnilta, mitä pidetään näissä olosuhteissa kohtuullisena.
+
+<SPEAKER ID=42 NAME="Puhemies">
+Paljon kiitoksia, herra Flynn.
+<P>
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen.
+<P>
+(Parlamentti hyväksyi lainsäädäntöpäätöslauselman.)
+
+<SPEAKER ID=43 NAME="Wibe">
+En voi äänestää tämän mietinnön puolesta, koska siinä itse asiassa hyväksytään EU: n kalastuspolitiikka. Tämä politiikka juuri johtaa ryöstökalastukseen suurilla alueilla Afrikan rannikkovesillä, tässä tapauksessa Gabonin vesillä. Sitä paitsi EU: n politiikka johtaa paikallisten kalastusyhteiskuntien kurjistumiseen. EU: n tämän alueen politiikkaa kokonaisuudessaan on harkittava uudelleen.
+
+<CHAPTER ID=5>
+Väliaikainen sopimus EY/Azerbaid&#x017E;an
+<SPEAKER ID=44 NAME="Puhemies">
+Esityslistalla on seuraavana Schwaigerin laatima taloudellisten ulkosuhteiden valiokunnan mietintö (A4-0287/98) ehdotuksesta neuvoston päätökseksi Euroopan yhteisön, Euroopan hiili- ja teräsyhteisön ja Euroopan atomienergiayhteisön sekä A&#x017E;erbaidzanin tasavallan kauppaa ja kaupan liitännäistoimenpiteitä koskevan väliaikaisen sopimuksen tekemisestä Euroopan yhteisön puolesta (KOM(96)613-5467/97 - C4-0315/98-96/0299(CNS)).
+
+<SPEAKER ID=45 NAME="Schwaiger">
+Arvoisa puhemies, hyvät kollegat, Euroopan parlamentti hyväksyi vuoden 1997 keväällä suurella äänten enemmistöllä yhteistyö- ja kumppanuussopimuksen Azerbaid&#x017E;anin tasavallan kanssa. Tässä sopimuksessa säädetään kokonaisuudessaan Euroopan unionin suhteista Azerbaid&#x017E;aniin, ja sopimuksen ratifiointi kestää vielä jonkun aikaa. Sen vuoksi pannaan väliaikaisen sopimuksen puitteissa - kuten on muutenkin tapana sellaisissa sopimuksissa - ennakolta täytäntöön osat, jotka eivät tarvitse ratifiointia, kuten demokratialauseke ja tavaroiden vaihtoa, kilpailua ja toimielimiä koskevat määräykset.
+<P>
+Ehdotan tänään taloudellisten ulkosuhteiden valiokunnan puolesta, että Euroopan parlamentti hyväksyy tämän väliaikaisen sopimuksen. Vuoden 1997 valiokunta-aloitteisessa Azerbaid&#x017E;anin taloudellista yhteistyötä käsittelevässä mietinnössä parlamentti hyväksyi seuraavat ehdottamani suuntaviivat: ensiksi tiiviimmän taloudellisen ja poliittisen yhteistyön välttämättömyys Euroopan unionin ja Azerbaid&#x017E;anin välillä, toiseksi Azerbaid&#x017E;anin maantieteellisesti strateginen merkitys maaöljyn osalta rikkaana maana ja välikappaleena Euroopan unionin taloudellisille suhteille Keski-Aasian tasavaltojen kanssa, ja kolmanneksi Euroopan unionin välttämättömyys tukea tiiviimpää alueellista yhteistyötä Transkaukasuksen tasavaltojen eli Azerbaid&#x017E;anin, Georgian ja Armenian välillä ja lopuksi rauhanprosessin tukeminen Vuoristo-Karabahin konfliktin ratkaisemiseksi.
+<P>
+Tällä välin Azerbaid&#x017E;anin talous on edelleen kehittynyt myönteisesti. Inflaatio on hallinnassa, vuosittain hinnat nousevat enää ainoastaan 3 %. Kauppa- ja budjettitase ovat lähes tasapainossa. Vuosittainen bruttokansantuotteen noin 5 %: n nousu on ollut sääntö jo usean vuoden ajan. Ainoa taloudellisesti heikko kohta on maatalous, jota ei ole toistaiseksi vielä onnistuttu uudistamaan.
+<P>
+Poliittisen yhteistyön alueella Euroopan unionin pitäisi edelleen lisätä teknistä apua uudenaikaisen hallinnon ja riippumattoman oikeudenkäytön rakentamiseksi. Myös ilmaisunvapautta ja joukkotiedotusvälineitä koskevaa Azerbaid&#x017E;anin puitelainsäädäntöä pitäisi täydentää ja taata käytännössä joukkotiedotusvälineiden moniarvoisuus. On jatkettava Euroopan unionin apua, joka ECHO: n ja jäsenvaltioiden osuuden myötä oni 75 % Azerbaid&#x017E;anille maailmanlaajuisesti myönnettävästä kokonaisavusta. Yli 20 % Azerbaid&#x017E;anin valtion alueesta on edelleen vieraiden joukkojen hallinnassa. Maassa täytyy huolehtia mitä vaikeimmissa oloissa yli miljoonasta pakolaisesta. Azerbaid&#x017E;an on tosin potentiaalisesti rikas maa, mutta sillä ei ole muutamaan vuoteen käytössään taloudellisia varoja maaöljylähteiden täyteen hyödyntämiseen, jotta se voisi selviytyä miljoonasta pakolaisesta.
+<P>
+Väliaikainen sopimus on siis huomattava vaihe yhteistyömme vahvistamisessa Transkaukasuksen tasavaltojen kanssa. Pidämme sitä myös kannustimena Vuoristo-Karabahin konfliktin pikaiseksi ratkaisemiseksi. Transkaukasuksen liikenne- ja energiaverkkojen parantamiseksi löytyy varmastikin uusia tärkeitä virikkeitä. Niissä Azerbaid&#x017E;an on tärkeä osakas. Lokakuussa 1998 tapahtuvaksi suunnitellun, Georgian läpi kulkevan öljyputken avaamisen myötä Azerbaid&#x017E;an saavuttaa suuremman riippumattoman taloudellisen luomisvoiman ja myös suuremman riippumattomuuden pohjoisiin ja eteläisiin naapureihinsa nähden.
+<P>
+Keski-Aasian alueen avaaminen Transkaukasuksen tasavaltojen läpi rautateiden ja maanteiden avulla, Euroopan unionin tukema Racika-hanke, tuo mukanaan lisävirikkeitä Azerbaid&#x017E;anin taloudelle. Niihin kuuluu myös tiiviimpi yhteistyö Moldovan, Ukrainan, Georgian, Azerbaid&#x017E;anin ja Keski-Aasian tasavaltojen kanssa taloudellisten lisäyhteyslinjojen avaamiseksi Euroopan ja tämän alueen välillä.
+<P>
+Tämä väliaikainen sopimus ja Azerbaid&#x017E;anille myönnettävä erityisapu ovat muutenkin tärkeä vaihe, jotta Azerbaid&#x017E;anille voitaisiin myöntää samalla mitalla tukea kuin Euroopan unioni on jo myöntänyt Armenialle ja Georgialle. Toivomme, että demokratian jatkuvalla pikaisella kehityksellä luodaan perusta tiiviille, luotettavalle ja kestävälle yhteistyölle Azerbaid&#x017E;anin ja Euroopan unionin välille molempien osapuolien eduksi. Panostamme Transkaukasuksen tiiviiseen alueelliseen yhteenkasvuun ja tarjoamme apuamme oman avun lisäksi tälle alueelle, joka on monessa suhteessa lähtenyt poliittisesti, taloudellisesti, kulttuurisesti ja yhteiskunnallisesti tielle kohti Euroopan lähentymistä.
+<P>
+
+<SPEAKER ID=46 LANGUAGE="DE" NAME="Wolf">
+Paljon kiitoksia, arvoisa puhemies, herra Schwaiger, haluaisin ehdottomasti onnitella teitä. Kastike ja höysteet ovat todella erinomaisia, ne on valmistettu huolella. Mutta valitettavasti, pysyäksemme tämänaamuisessa teemassa, valmistettu kala ei ole enää kovin tuore, joten siitä jää kitkerä jälkimaku.
+<P>
+Väliaikainen sopimus merkitsee kumppanuus- ja yhteistyösopimuksen kauppapoliittisen osan poistamista. Kun otetaan huomioon viimeisen 500 vuoden historiallinen todellisuus, on yksinkertaisesti teeskenneltyä väittää, että vapaa kauppa toisi jotenkin itsestään mukanaan demokratian ja ihmisoikeudet. Tai se on - en oleta sitä teidän osalta, mutta niiden, jotka tekivät sopimuksen sillä tavalla ja jotka myös soveltavat turvallisuuslauseketta niin yksipuolisesti - kyynistä asianomaisen väestön ongelmien ylenkatsomista.
+<P>
+Tähänkin on varmasti jäsenvaltioissa varauksia, jotka halutaan kiertää tällä väliaikaisella sopimuksella. Ihmisoikeustilanne on katastrofaalinen. Sotatila Armenian kanssa jatkuu OECD: n rauhansopimuskehotuksista huolimatta. En haluaisi mennä nyt yksityiskohtiin ja mainitsen ainoastaan muutaman otsikon: 12. syyskuuta poliisit pahoinpitelivät opposition järjestämän mielenosoituksen yhteydessä 34 lehdistön edustajaa ja takavarikoivat heidän varusteensa. 1. syyskuuta lehtimies Tai Hamid kiskottiin ulos autostaan ja pahoinpideltiin. Tässä tilanteessa meidän pitäisi hyödyntää voimassa olevia IVY-sopimuksia, jotta voisimme antaa apua suhteiden kehittämisessä edelleen, meidän ei pitäisi käyttää tätä kauppapoliittista kiertotietä. Sen vuoksi aiomme äänestää mietintönne kohdalla tyhjää.
+
+<SPEAKER ID=47 LANGUAGE="DE" NAME="Von Habsburg">
+Arvoisa puhemies, silmäyksen karttaan pitäisi osoittaa, miten merkittävä Azerbaid&#x017E;an on meille. Joskus saa jopa sen käsityksen, että johtavat poliitikkomme ovat ripustaneet virkahuoneisiinsa kaiketi kuvia, mutta eivät karttoja, vaikka maantieteelliset tosiasiathan pitäisi jatkuvasti pitää mielessä.
+<P>
+Silmäys karttaan antaa aihetta vakaviin huoliin. Sodan uhka kasvaa maailmanlaajuisesti. Tarvitsee vain ajatella, mitä Afrikassa tapahtuu taukoamatta, sitten ovat Iranin ja Afganistanin väliset jännitteet, jotka voisivat muitta mutkitta levitä näiden molempien maiden rajojen yli. Azerbaid&#x017E;anilla on Armenian kanssa selvittämätön ongelma Vuoristo-Karabahista eli niistä Azerbaid&#x017E;anin osista, joita armenialaiset pitävät miehitettyinä ja joista on päästävä ratkaisuun ennen kuin on liian myöhäistä.
+<P>
+Liian usein ongelmia on aina vain lykätty tuonnemmaksi, kunnes niitä ei ole enää pystytty ratkaisemaan. Se voisi muitta mutkitta osoittautua todellisuudeksi huomenna Bosniassa. Tarvitsee vain ajatella, mitä Kosovossa tapahtuu. Azerbaid&#x017E;an on meille tärkeä muistakin syistä. Se on maa, jolla on valtavia taloudellisia mahdollisuuksia, ja vaikka talous ei jännittyneen tilanteen vuoksi ole voinutkaan kehittyä aivan sellaiseksi kuin olisi ollut tarpeen - erityisesti maatalousalalla on paljon parantamisen varaa - tällä Azerbaid&#x017E;anilla on meille kuitenkin suuri merkitys pitkällä aikavälillä.
+<P>
+On kuitenkin vielä toinenkin syy, miksi Azerbaid&#x017E;an on meille kiinnostava. Syynä ovat Azerbaid&#x017E;anin ja Turkin väliset kiinteät suhteet. Kun kävin Atatürkin mausoleumissa, luin kirjasta, johon tässä mausoleumissa vierailevat valtionpäämiehet kirjoittavat ajatuksiaan, Azerbaid&#x017E;anin presidentin sanat: Atatürk, ilmoittaudumme sinulle, turkkilaisesi ovat täällä jälleen. Se tapahtui neuvostoliittolaisen järjestelmän kauden lopussa, ja se osoittaa Turkin merkityksen juuri tällä alueella ja välttämättömyyden toimia Turkin kanssa yhteistyössä, jonka keskeytämme yhtenään kaikin mahdollisin toimin, mikä on ajattelematonta, pitkällä aikavälillä poliittisesti ajattelematonta.
+<P>
+Juuri Iranin ja Afganistanin väliset jännitteet osoittavat meille, millaisia tässä piileviä pitkän aikavälin vaaroja meidän on kartettava, sillä jos ne kerran pääsevät valloilleen, silloin on liian myöhäistä. Sen vuoksi olen sitä mieltä, että meidän on tunnustettava Azerbaid&#x017E;anin merkitys. Nämä meidän puolestamme käytävät viivyttelevät neuvottelut, nämä pienet eri kohdat, jotka ehkä tuovat siellä täällä pienen ratkaisun, eivät kuitenkaan käsittele suurta ongelmaa. Koko suhteemme tähän alueeseen on merkki suuresta heikkoudesta, niitä sävyttää suuri epäluuloisuus ja ne osoittavat jälleen kerran, miten välttämätöntä on, että edistymme tällä alueella mahdollisimman nopeasti. Vaikka mietintö onkin vain pieni askel, voin vain onnitella herra Schwaigeria siitä mitä lämpimimmin, ja voin vain toivoa, että hänen oma työpanoksensa edesauttaa sitä, että Azerbaid&#x017E;anin suhteissa saavutetaan edelleen suuria edistysaskelia.
+
+<SPEAKER ID=48 NAME="Flynn">
+Minäkin haluaisin parlamentin jäsenten tavoin onnitella herra Schwaigeria hänen Azerbaid&#x017E;anin kanssa tehtyä väliaikaista sopimusta koskevasta mietinnöstään. Olemme iloisia etenkin siitä myönteisestä kannasta, joka koskee tarvetta syventää suhteitamme tähän valtioon.
+<P>
+Tämä väliaikainen sopimus on ensimmäinen yleinen sopimus Euroopan unionin ja Azerbaid&#x017E;anin välillä. Se tarjoaa meille merkittävän foorumin säännellä ja neuvotella Azerbaid&#x017E;anin viranomaisten kanssa kaikista kaupankäyntiin ja kauppaan liittyvistä asioista. Azerbaid&#x017E;an on meidän kannaltamme merkittävä strateginen kumppani, mikä johtuu sen maantieteellisestä sijainnista ja sen huomattavista öljyvaroista. Herra von Habsburgin huomautuksen ymmärtää tältä osin hyvin.
+<P>
+Azerbaid&#x017E;anin odotetaan tulevina vuosina toteuttavan mahdollisuutensa merkittävänä energiantuottajana ja Euroopan ja Keski-Aasian välisen kaupan kauttakulkupaikkana. Kahdenkeskinen kauppamme kasvoi viime vuonna 59 %, vaikkakin lähtötaso oli matala, ja se on huomattavan ylijäämäinen EY: n hyväksi.
+<P>
+Väliaikaisen sopimuksen avulla voimme saattaa olot otollisiksi EY: n yritysten kilpailukyvylle Azerbaid&#x017E;anissa. Eurooppalaisten yritysten on tehtävä lujasti töitä säilyttääkseen taloudellisen asemansa maassa, kun otetaan huomioon, että niillä on Yhdysvaltain, Turkin, Kaukoidän ja muiden Aasian maiden kova kilpailu vastassaan. Tämä kilpailu lisääntyy edelleen sitten, kun öljynvienti kasvaa täyteen mittaansa.
+<P>
+EY on myös merkittävä Azerbaid&#x017E;anin avunantaja. Olimme myöntäneet viime vuoden lopulla Azerbaid&#x017E;anille yli 220 miljoonaa ecua, eikä tämä sisällä merkittäviä Tacis-ohjelman mukaisia alueellisia yhteistyöhankkeita, joissa Azerbaid&#x017E;an on avainasemassa.
+<P>
+Komissio ehdottaa rahoitustuen myöntämistä Azerbaid&#x017E;anille avustaakseen yhteiskunnallista jälleenrakentamista. Kuten tiedätte, ehdotus on parhaillaan Euroopan parlamentin käsiteltävänä. Tämä ehdotus on Azerbaid&#x017E;anin kannalta erittäin merkityksellinen. Maa on parhaillaan hyvin vaikeassa taloudellisessa tilanteessa, ja 70 % väestöstä elää köyhyysrajalla tai sen alapuolella. Öljytulot ovat vähentyneet öljyn alhaisen hinnan takia. Maasta ei todennäköisesti tule merkittävää öljynviejää ainakaan seuraavaan viiteen vuoteen.
+<P>
+Täällä on viitattu Vuoristo-Karabahin konfliktiin, joka on vain vaikeuttanut Azerbaid&#x017E;anin taloustilannetta. Noin 20 % maasta on Vuoristo-Karabahin armenialaisten joukkojen hallinnassa. Maan on lisäksi kestettävä tilanteessa, jossa maassa on lähes miljoona pakolaista ja asuinsijoiltaan lähtemään joutunutta ihmistä. Sekä Armenian että Azerbaid&#x017E;anin hallitukset ovat kuitenkin antaneet äskettäin joitakin sovittelevia lausuntoja, etenkin Bakussa järjestetyn liikennekonferenssin yhteydessä, johon Armenia oli kutsuttu nimenomaan komission pyynnöstä.
+<P>
+Euroopan unioni tukee neuvottelujen uudelleenaloittamista ETYJ: n Minskin ryhmässä. Ihmisoikeuksien edistäminen on olennainen osa Euroopan unionin Azerbaid&#x017E;anin politiikkaa, mihin herra Wolf viittasi. Kannamme myös huolta tämän alueen demokratisoitumisesta sekä rauhan varmistamisesta ja poliittisesta vakaudesta.
+<P>
+Azerbaid&#x017E;anin viranomaiset ovat hyvin tietoisia siitä, että pidämme demokratisoitumista kumppanuutemme olennaisena seikkana. Komissaari van den Broek teki tämän asian erittäin selväksi presidentti Aliejeville heidän tavatessaan Bakussa viime kesäkuussa. Vaikka väliaikainen sopimus onkin muodollisesti kauppasopimus, sekakomitean kokouksissa on muodostunut yleiseksi käytännöksi keskustella ihmisoikeuskysymyksistä. Sopimus sisältää sen lisäksi lausekkeen, jonka avulla sopimuksen täytäntöönpano voidaan keskeyttää, jos demokratia- ja ihmisoikeustilanne heikkenee merkittävästi.
+<P>
+Kumppanuus- ja yhteistyösopimuksessa määrätään muodollisesti näitä kysymyksiä koskevasta vuoropuhelusta, ja se sisältää tiettyjä demokratiaan liittyviä sitoumuksia. Komissio valvoo näissä kysymyksissä tapahtuvaa kehitystä, ja se on tarjoutunut tukemaan demokratiaohjelman ja Tacis-ohjelman mukaisten toimintaohjelmien välityksellä Azerbaid&#x017E;anin siirtymistä kohti demokratiaa. Teemme näissä kysymyksissä yhteistyötä ETYJ: n ja Euroopan neuvoston kanssa. Kiitän parlamenttia sen suopeudesta.
+
+<SPEAKER ID=49 NAME="Puhemies">
+Paljon kiitoksia, herra Flynn.
+<P>
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen.
+<P>
+(Parlamentti hyväksyi lainsäädäntöpäätöslauselman.)
+
+<SPEAKER ID=50 LANGUAGE="EN" NAME="Ford">
+Arvoisa puhemies, työjärjestyspuheenvuoro. Kiitän parlamentin henkilökuntaa heidän myötävaikutuksestaan parlamentin jäsenten kunnon edistämiseen. Kun otetaan huomioon sen ajan pituus, joka on summerinsoiton ja äänestyksen välillä, luulen, että meidän kaikkien on mentävä kuntosalille.
+
+<SPEAKER ID=51 NAME="Puhemies">
+Paljon kiitoksia, herra Ford. Viestinne välitetään eteenpäin.
+
+<SPEAKER ID=52 LANGUAGE="DE" NAME="Rübig">
+Arvoisa puhemies, äänestyksen jälkeen näytetään aina, miten parlamentin jäsenet ovat äänestäneet. Meille on hyvin tärkeää, että voimme kertoa lehdistölle ja asiasta kiinnostuneille kansalaisille, millä äänten enemmistöllä on äänestetty. Äänestystulosta näytetään kuitenkin usein vain niin lyhyesti, ettei samanaikaisesti ole mahdollista kirjoittaa. Sen vuoksi pyytäisin, että äänestystulosta näytettäisiin kauemmin, jotta sen voisi rauhassa kirjoittaa samanaikaisesti muistiin.
+
+<SPEAKER ID=53 NAME="Puhemies">
+Kiitos, herra Rübig. Otamme huomautuksenne huomioon ja yritämme edetä teille sopivassa tahdissa.
+
+<SPEAKER ID=54 LANGUAGE="NL" NAME="Van Dam">
+Arvoisa puhemies, vielä eräs tekninen asia. Huoneeni on IPE I: ssä ja oli hyvä, että pidin näyttöä silmällä, sillä siellä oleva kello ei toimi tällä hetkellä. Olisi hyvä, jos seuraavaa istuntoa edeltävän kahden viikon aikana tarkistettaisiin kaikki ne rakennuksen osat, joissa on edustajien työhuoneita.
+
+<SPEAKER ID=55 NAME="Puhemies">
+Kiitos, herra van Dam. Panen asian merkille ja pidän huolen siitä, että niin tehdään.
+
+<CHAPTER ID=6>
+Istuntokauden keskeyttäminen
+<SPEAKER ID=56 NAME="Puhemies">
+Julistan Euroopan parlamentin istuntokauden keskeytetyksi.
+<P>
+(Istunto päättyi klo 10.44.)
+

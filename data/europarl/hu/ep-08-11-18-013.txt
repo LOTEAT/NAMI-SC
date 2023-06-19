@@ -1,0 +1,162 @@
+<CHAPTER ID="013">
+Bizonyos típusú vállalatok közzétételi és fordítási kötelezettségei (vita) 
+<SPEAKER ID="392" NAME="Elnök">
+A következő napirendi pont P-N. Kauppi asszony jelentése a Jogi Bizottság nevében a 68/151/EGK és a 89/666/EK tanácsi irányelvnek egyes meghatározott jogi formájú társaságok közzétételi és fordítási kötelezettségei tekintetében történő módosításáról szóló európai parlamenti és tanácsi irányelvre irányuló javaslatról - C6-0171/2008 -.
+<SPEAKER ID="393" NAME="Piia-Noora Kauppi">
+előadó. - Elnök úr, ez a jelentés a társasági jog egyszerűsítési csomagjának részét képezi. Nagyon fontos, hogy az Európai Unióban a fejlődés és az európai gazdaság növekedése érdekében megpróbáljuk egyszerűsíteni a társaságok környezetét. A cél az adminisztratív terhek csökkentése egyes meghatározott jogi formájú társaságok közzétételi és fordítási kötelezettségei tekintetében. A javaslat a terhek csökkentését célzó számos intézkedés közé tartozik; a javaslat a társaságok bizonyos forrásait felszabadítaná, és átirányíthatóvá tenné, ezáltal növelve az európai gazdaság versenyképességét.
+<P>
+Jelenleg a társasági jogról szóló első irányelv alapján a társaságoknak bizonyos információkat közzé kell tenniük a nemzeti közlönyökben, és ezeket be kell vezetni a tagállamok cégjegyzékébe. Az esetek többségében a nemzeti közlönyben való közzététel többletköltséget jelent a társaságok számára, viszont nem eredményez semmiféle valós hozzáadott értéket. A javaslat célkitűzése ezért az, hogy a nemzeti jogban eltöröljön mindenféle olyan külön közzétételi követelményt, amelyek többletköltséget jelentenek a társaságok számára.
+<P>
+A Bizottság azonban meghagyja a tagállamok számára a rugalmasságot ezen külön közzétételi követelmények tekintetében. A tagállamok számára továbbra is lehetségesek lesznek a külön követelmények, de ezeket az új elektronikus platformhoz javasolt közös díjnak fednie kell.
+<P>
+Minden tagállamnak rendelkeznie kell olyan elektronikus platformmal, amely tartalmazza az információk összességét, és hozzáférést biztosít a társaságok cégjegyzékbeli elektronikus adatfájljában lévő információkhoz. Ez költséghatékony és könnyen hozzáférhető módja lenne a társaságokkal kapcsolatos valamennyi szükséges információ közzétételének. Bizonyos tagállamokban már megvannak ezek az elektronikus nyilvántartások és adatbázisok, máshol azonban még nincsenek ilyen típusú digitális adatbázisok.
+<P>
+A legfontosabb dolog a tagállamok által megállapított közös díj bevezetése, amely a közzétételi és adminisztrációs kötelezettségekkel kapcsolatos valamennyi költséget magában foglalná. Ennek a közös díjnak tartalmaznia kell minden külön nemzeti közzétételi követelményt is, legyen szó helyi vagy regionális közzétételről.
+<P>
+Azonban a Jogi Bizottság ezen díjak terén meg akart hagyni bizonyos rugalmasságot, így most azt mondjuk, hogy jól megalapozott okok esetén a tagállamok bevezethetnek kiegészítő díjakat.
+<P>
+A társasági jogról szóló 11. irányelvet illetően ez a javaslat tárgyalja a társaságok fióktelepeinek nyilvántartásába való bejegyzésre köteles dokumentumokra vonatkozó fordítási kötelezettségeket. Amikor egy fióktelepet bejegyeznek, a társaságoknak bizonyos információkat a fióktelep nyilvántartásába is be kell jegyeztetniük. Ez gyakran jelentős járulékos költséget eredményez a társaságok számára, hiszen nemcsak arról kell gondoskodniuk, hogy bizonyos okiratokat lefordítsanak a fióktelep székhelye szerinti tagállam nyelvére, hanem néha túlzott követelményeknek is meg kell felelniük a fordítás hitelesítése és/vagy közjegyzői hitelesítése kapcsán. Most tehát ezen hitelesítések és engedélyezések eltörlésével megpróbáljuk csökkenteni a fordítási kötelezettségeket.
+<P>
+A cél az, hogy a fordítási és hitelesítési költségek a lehető legalacsonyabbra csökkenjenek. Ez a társaságok számára előnyt jelent a költségek csökkenése miatt, közben pedig biztosítja a fordítások megbízhatóságát.
+<P>
+Egyetértek a Bizottság javaslatával, és a szöveget próbáltam a lehetőségek szerint a Bizottság javaslatához minél hűebben megfogalmazni. Azonban a Bizottság javaslata alapján nem sikerült megegyezésre jutnunk itt a Parlamentben.
+<P>
+A jelentésben bevezettünk néhány módosítást a közzétételi költségekkel és a fordítási előírásokkal kapcsolatos rendelkezések gyakorlati végrehajtásának pontosítása érdekében, valamint néhány technikai módosítást is a második társasági jogi irányelvre való helyes hivatkozás biztosítása érdekében.
+<P>
+A Jogi Bizottság bevezetett három megegyezéses módosítást, melyet számos kolléga előterjesztett annak érdekében, hogy alapos indokok esetén engedélyezni lehessen a kiegészítő közzétételi követelményeket, de ezek preambulumbekezdésbe kerültek - nem kerültek be a cikkekbe. Véleményem szerint nagyon fontos, hogy a preambulumbekezdésekben legyen ajánlás a tagállamok számára arra nézve, hogy éljenek a rugalmassággal, de ne hívjuk fel őket arra, hogy így járjanak el. Ha a tagállam úgy gondolja, hogy a vállalatoknak közzé kell tenniük bizonyos információkat a nemzeti közlönyben - és ha a tagállam tényleg ezt akarja -, akkor erre van lehetőség, de a cikkekben nem szerepel erre történő felhívás.
+<P>
+A második téma az, hogy én személyesen megpróbáltam bevezetni egy átmenti időszakot, és még mindig úgy gondolom, hogy ez előremutató módszer lenne. Az átmeneti időszakban még meglennének a közzétételi követelmények, de az átmeneti időszak után már csak az elektronikus adatbázis lenne. Szerintem az átmeneti időszakra vonatkozó javaslat összhangban lenne az internet terjedésének kérdésével is, azaz azzal, hogy bizonyos tagállamokban jobban elterjedt az internet használata, mint másokban; talán az átmeneti időszak után biztosítani kellene, hogy minden tagállamban megfelelő mértékben álljon rendelkezésre az internet. Ily módon azt a tényt is figyelembe vehetnénk, hogy nem minden tagállamban terjedt el az internet használata egyenlő mértékben.
+<SPEAKER ID="394" NAME="Charlie McCreevy">
+a Bizottság tagja. - Elnök úr, szeretném megköszönni az előadó munkáját, amely bonyolultabbnak bizonyult, mint gondoltuk. Nagyon komolyan vesszük a társaságok szabályozásból eredő terheinek csökkentését, és hálásak vagyunk a Parlamentnek az ezen a téren tanúsított folyamatos támogatásért.
+<P>
+Nehéz lenne azonban elégedettnek lenni a társasági jogról szóló első irányelv bizonyos javasolt módosításaival. Hadd emlékeztessek arra, hogy az Európai Parlament a Bizottság 2008-as munkaprogramjáról szóló, 2007. december 12-i állásfoglalásában üdvözölte a Bizottság azon célkitűzését, mely szerint a vállalkozások adminisztratív terheit 2012-ig 25%-kal csökkenteni kellene uniós és nemzeti szinten. A Parlament kifejezte, hogy ezt a lisszaboni célkitűzések elérésének fontos részeként és kulcsfontosságú prioritásként fogja kezelni a következő hónapokban, különösen ami a kis- és középvállalkozásokat illeti. A Parlament ezért hangsúlyozta, hogy a jogalkotási javaslatokat ebből a szempontból fogja vizsgálni.
+<P>
+Ezenkívül a Parlament 2008. május 21-i, az egyszerűsített üzleti környezetről szóló állásfoglalásában támogatta a társasági jogról szóló első irányelv módosításaira irányuló javaslatot megerősítve azt, hogy a társaságok számára egyszerűbbé kell tenni az információk kötelező közzétételét. A Parlament hangsúlyozottan támogatta az új technológiák használatát.
+<P>
+A Jogi Bizottság jelenleg tárgyalt jelentése azonban teljes mértékben aláaknázza a Bizottság javaslatának célkitűzését. A Bizottság hatásvizsgálata kb. évi 600 millió euróra becsülte a lehetséges csökkentést. A jelentéstervezet értelmében a tagállamok nemcsak megtarthatnák a társaságok összes jelenlegi adminisztratív terhét, de még újakat is bevezethetnének. Tehát míg a Bizottság javaslata azon az ötleten alapul, hogy egy elektronikus platformmal kellene a jelenlegi fáradságos közzétételi módszereket helyettesíteni, addig a jelentéstervezet az adminisztratív terhek csökkentése helyett újakat vezetne be.
+<P>
+A Bizottság javaslatának célkitűzését az érdekeltek túlnyomó többsége támogatta. A Tanács eddigi vitái során a tagállamok nagy többsége is támogatta a célkitűzést. Ha az irányelvet a Jogi Bizottság által most javasolt formában hagyják jóvá, akkor fennáll annak a veszélye, hogy az adminisztratív terhek csökkentésére irányuló összes erőfeszítés hitelét veszíti.
+<P>
+Amennyiben a Jogi Bizottság módosításának célja a jelenleg a társaságok közzétételi díjaitól függő közlönyök finanszírozásának biztosítása, ezt a célt a Bizottság elméletben támogatni tudja. Azonban a finanszírozásra más módokat kell találni. Nem terhelhetjük a társaságokat olyan közzétételi kötelezettségekkel, amelyek semmiféle jelentős hozzáadott értéket nem jelentenek a mai technológiai környezetben.
+<SPEAKER ID="395" NAME="Margaritis Schinas">
+a Gazdasági és Monetáris Bizottság véleményének előadója. - (EL) Elnök úr, szeretném tájékoztatni Önöket a Gazdasági és Monetáris Bizottság véleményéről. Nagymértékben egyetértünk a Bizottság javaslatának céljával, amely jól strukturált, és természetesen az adminisztratív terhek minimalizálására irányul.
+<P>
+Ami a fordításokat illeti, úgy gondoljuk, hogy az eljárások egyszerűsítése és az egy tanúsított fordító által elvégzett fordítás elfogadása egy másik tagállam által teljesen jogos célok, és teljes mértékben támogatjuk ezt a megközelítést.
+<P>
+Most pedig áttérnék a közzététel kérdésére. Bizottságunk véleménye szerint - és ezt a véleményt a Jogi Bizottság is osztja, szerintem teljesen helyesen - a társaságok mellett az állampolgároknak is joguk van bizonyos információkhoz hozzájutni. Biztos úr, sajnálatos módon az állampolgárok nem rendelkeznek olyan mértékű hozzáféréssel az elektronikus médiához, mint amint azt a kezdeti javaslat feltételezi.
+<P>
+Pluralista Európában élünk, ahol különböző modellek és értékek vannak jelen. Ön Írország biztosaként tudja, hogy az ír népszavazás eredménye, azaz az Ön számos honfitársának véleménye az egységes európai modellről, sokat számít nekünk. Ezért nem akarjuk bevezetni ezt a modellt Európában - jól tudva, hogy a én országomban, az én régiómban korlátozott az internethez való hozzáférés. Miért fosztanánk meg ezeket az embereket, ezeket az európai állampolgárokat attól a joguktól, hogy más hagyományos csatornákon keresztül hozzáférjenek az őket érintő információkhoz?
+<P>
+Biztos úr, ezért a Gazdasági Bizottsággal és a Jogi Bizottsággal együtt úgy gondolom, hogy az elektronikus platformnak kötelezőnek kell lennie, és ez teljesen jogos. Nem szabad azonban, hogy ez legyen az egyetlen platform. Minden európai állampolgár számára biztosítanunk kell az információkhoz való hozzáférést. Nem akarunk olyan helyzetet teremteni, hogy valaki egy bizonyos európai régióban csak BlackBerry segítségével tudhassa meg, mi fog történni a saját régiójában, mert például ott, ahol én élek, sok embernek nincs BlackBerry készüléke.
+<P>
+Ezért úgy gondolom, hogy Önnek a Bizottság képviselőjeként komolyan figyelembe kell vennie a Jogi Bizottság egyhangú álláspontját, amelyet a Gazdasági Bizottság nagy többsége is támogat, valamint hogy ezt az üzenetet kell közvetítenünk a Tanács felé is. Hadd mondjam azt, hogy amennyiben figyelmen kívül szándékozik hagyni ezt az álláspontot, azt javasolnám, hogy gondolja át ismét, mivel csak termékeny demokratikus párbeszéd révén találhatunk kölcsönösen elfogadható megoldásokat, melyek nemcsak kevesek, hanem sokak javát szolgálják.
+<SPEAKER ID="396" NAME="Georgios Papastamkos">
+a PPE-DE képviselőcsoport nevében. - (EL) Elnök úr, az Európai Tanács 2008 márciusában új, gyorsított eljárással lefolytatandó jogalkotási kezdeményezéseket rendelt el annak érdekében, hogy a vállalatok számára az adminisztratív költségek és kötelezettségek csökkentése révén javuljon az uniós üzleti környezet. Véleményem szerint a Bizottság jelenleg megvitatott, irányelvre vonatkozó javaslata nem sokban járul hozzá a kitűzött célhoz.
+<P>
+A vállalatok alapvető problémája, különösen a kis- és középvállalatoké, hogy általában véve objektív feltételek szükségesek a bürokratikus, jogalkotási és pénzügyi környezet javításához, és a Bizottságtól ilyen téren jóval kézzelfoghatóbb együttműködést várunk.
+<P>
+Ebben az esetben a fő cél, azaz a vállalatok éves költségeinek és egyéb pénzügyi kimutatásainak közzététele az átláthatóság és nyilvánosság elvének alkalmazását szolgálja a kereskedelmi tevékenységek terén. Azonban az internet alacsony elterjedtsége a tagállamok jelentős részében nem képez megfelelő garanciát.
+<P>
+Ettől eltekintve a tisztán elektronikus formátumú kötelező nyilvántartások bevezetése több ezer munkahely megszűnésével járna a hagyományos nyomtatott médiákban. Ezen felül a sajtó nélkülözhetetlen része az Unió átláthatóságának és demokratikus rendjének, és az Európai Unió többnyelvűségében, diverzitásában betöltött szerepe kétségkívül jelentős.
+<P>
+Úgy vélem, hogy a közös díj bevezetésének biztonsági szelepe, valamint a nyomtatott médiákban való közzététel párhuzamos megőrzése az elektronikus nyilvántartás mellett, ahogy a kialakított és a Jogi Bizottság minden - ismétlem, minden - ága által megszavazott konszenzusban le van fektetve, éppen az a kiegyensúlyozott, racionális megoldás, amelyre szükségünk van.
+<P>
+Zárszóként hadd hangsúlyozzam, hogy az Európai Parlament kötelessége éppen az, hogy produktívan hozzájáruljon a Közösség törvényhozási gyakorlatához, miközben megőrzi jogalkotási szándékának teljes függetlenségét. A Jogi Bizottság kívánsága, ahogy már említettem, hogy a plenáris ülés elfogadja Kauppi asszony jelentését, akinek ezúton is szeretnék gratulálni munkájához.
+<P>
+Nem tudom, hogy a bizottsági tagoknak csalódást okoz-e a Jogi Bizottság döntése, de el szeretném mondani, hogy őszintén remélem: amint a Lisszaboni Szerződés életbe lép, a Bizottság és az Európai Parlament közötti együttműködés jellegének meg kell változnia, és meg is fog változni. Erre várunk most mindannyian; ez az, amire a demokratikusan megválasztott Európai Parlament vár.
+<SPEAKER ID="397" NAME="Ieke van den Burg">
+a PSE képviselőcsoport nevében. - Elnök úr, először is az eljárásról szeretnék néhány szót szólni. Sajnálatos, hogy ma délelőtt, amikor együtt üléseztünk, nem beszéltük meg, mivel meglepődtem, hogy a Parlamentben tartott beszéde olyan kemény volt. Az eljárást illetően különösen szembeszökő volt az a mód, ahogy a francia elnökség elbánt a javaslatainkkal, még csak kísérletet sem téve arra, hogy megfeleljen a párbeszédre és közös konszenzus kialakítására vonatkozó elvárásoknak.
+<P>
+A Bizottságra ugyanez vonatkozik. Az ilyen ügyekben általában az a szokásos eljárásmód, hogy együtt próbálunk olyan megoldást találni, amely minden fél számára megfelel. Sajnálom, hogy ez történt, és remélem, hogy a plenáris ülés és a bizottságbeli szavazás között még lesz lehetőség erre.
+<P>
+A tartalmat illetően nincs nagy véleménykülönbség közöttünk. Jómagam is az adminisztratív terhek csökkentése mellett vagyok. Ha tehetem, mindig támogatom az XBRL könyvelési rendszert és az ilyen típusú elektronikus platformot. Azt hiszem, mindannyian egyetértünk abban, hogy ez szükséges, éppen azért, mert egyes tagállamokban az elektronikus társadalom még nem alakult ki teljesen. Szükség van arra, hogy biztosítsuk ezt az ideiglenes, átmeneti megoldást, hogy a tagállamoknak legyen lehetősége ennek a papíralapú regisztrációs módszernek a használatára.
+<P>
+Valóban ideiglenes problémáról van szó, és van rá gyakorlatias megoldás. Ezen a héten hallottam, hogy az elektronikus levelezést mindössze 20 éve használják, akárcsak az internetet, ezért 10-20 éven belül minden téren teljesen megszokott lesz az elektronikus adatfeldolgozás. A probléma tehát átmeneti, és nem szabad nagy feneket keríteni neki. Gyakorlatias, ésszerű megoldást kell találnunk, annak a szellemében, amit közösen képviselünk.
+<SPEAKER ID="398" NAME="Jean-Paul Gauzès" AFFILIATION="PPE-DE">
+. - (FR) Elnök úr, hölgyeim és uraim, elsőként meg szeretném köszönni kollégánknak, Piia-Noora Kauppinak a kiváló jelentést és mindazt a munkát, amit a különféle problémák megoldásába fektetett, különösen a platform tekintetében.
+<P>
+A javasolt irányelv a vállalatok adminisztratív terheinek csökkentésére és versenyképességük növelésére irányuló szélesebb program része. Természetesen aktívan támogatjuk ezt a célt, amely a kis- és középvállalatok érdekeit szolgálja. Támogatjuk a minden szükséges információt tartalmazó elektronikus platform létrehozását és a szükséges adatközzététel költségeit fedező közös díj elvét.
+<P>
+Ésszerű azonban a lehető legjobb adatok szolgáltatása és a szokásos közzétételi csatornák, különösen a nyomtatott sajtó, megőrzése. Az előadó által javasolt szöveg, amelyet a Jogi Bizottság egyhangúlag elfogadott, lehetővé teszi a tagállamok számára, hogy megőrizzék a hagyományos közzétételi módokat, melyek költségét az egyszeri díj fedezi.
+<P>
+Ezért a javaslat szellemében a platform kialakítását követelménnyé tettük és az közös díj elvét is megőriztük. Figyelembe vettük azonban a különböző, megfelelő informatikai infrastruktúrával még nem rendelkező vagy nem elhanyagolható adatkezelési szokásokkal rendelkező országok valós viszonyait is.
+<P>
+Mint azt Ön is tudja, a polgárok véleményét figyelembe kell venni, és Európa nem válhat új korlátozások vagy nehézségek forrásává. Ezért keressük azt a rugalmasságot, amely figyelembe veszi az egyes tagállamok sajátosságait, miközben megőrzi a megoldás gazdaságosságát.
+<P>
+Ön úgy fogalmazott, hogy a Jogi Bizottság javaslata aláássa a Bizottság munkáját. Nem hiszem, hogy ez pontos fogalmazás, és az sem felel meg a valóságnak, hogy a Jogi Bizottság javaslata új formális követelményeket támaszt. Éppen ellenkezőleg: egyetértés van abban, hogy ezek már meglévő formális követelmények, amelyek megmaradnak, és nyilvánvalóan elutasítjuk az új formális követelmények támasztását.
+<P>
+Úgy vélem, hogy Európának meg kell mutatnia: képes csökkenteni az adminisztratív terheket, miközben nem feledkezik meg a nemzeti sajátosságokról.
+<SPEAKER ID="399" NAME="Manuel Medina Ortega" AFFILIATION="PSE">
+(ES) Elnök úr, meg szeretném köszönni a Bizottságnak, hogy benyújtotta ezt a javaslatot. Úgy vélem, hatása pozitív, és segít a felesleges adminisztratív terhek leküzdésében.
+<P>
+Ahogy a korábban szólók is elmondták, a Parlament kötelessége, hogy a gyakorlatba átültesse a Bizottság nagyvonalú és jó szándékú javaslatait. A valóság az, hogy 27 országunk van nagyon különböző jogrendszerekkel és nyelvekkel, ami azt jelenti, hogy alkalmazkodnunk kell az egyes országos sajátosságaihoz, a nyelvi sajátosságokat is beleértve.
+<P>
+Azonban ahogy Gauzès úr az imént elmondta, fontos, hogy a nemzeti sajátosságok figyelembe vétele ne vezessen megnövekedett költségekhez, valamint hogy a díjak egységesek legyenek, és hogy a kormányok szükség esetén állják a felmerülő pluszterheket.
+<P>
+Van azonban egy másik fontos probléma is: a fordítás. Az Európai Uniónak nincs közös nyelve. A 27 országban különböző nyelveket beszélnek - sőt néha az egyes országokon belül több nyelv is él - akárcsak az Ön országában. Ezzel együtt kell élnünk.
+<P>
+Jogi szempontból pedig szembe kell néznünk a jogi dokumentumok különbözőségével. A Jogi Bizottság például módosításokat javasolt a dokumentumok és a fordítások hitelesítésével kapcsolatban. Jelenleg a Jogi Bizottság jelentést készít a különféle dokumentumok elfogadásáról az egyes tagállamokban, ami hozzájárulhat a jelenleg megvitatott jelentés tartalmához.
+<P>
+Összefoglalva: úgy vélem, hogy a Bizottság jó munkát végzett a javaslat benyújtásával. Az előadó kiválóan teljesített, és mindannyian megpróbáltunk olyan jogi szöveget kialakítani, ami az egész Unióban elfogadható, azt a tényt is figyelembe véve, hogy az Unió még nem alakult ki teljesen, valamint hogy a tagállamok jogrendszerei eltérőek, és más hozzáféréssel rendelkeznek az elektronikus kommunikációs eszközökhöz.
+<SPEAKER ID="400" NAME="Françoise Grossetête" AFFILIATION="PPE-DE">
+(FR) Elnök úr, először is gratulálni szeretnék Kauppi asszonynak, aki kiváló munkát végzett, és köszönhetően neki a Jogi Bizottság olyan kompromisszumra jutott, amelyet egyhangúlag fogadtak el. Ez világos jelzés. Szolgálja egyrészt a vállalatok - különösen a kis- és középvállalatok - adminisztrációs terheinek csökkentését, másrészt a polgárok tájékozódási jogát, miközben a szükséges esetekben szabad teret hagy a közzétételi követelmények megőrzésének is.
+<P>
+Biztos vagyok abban, hogy az Európai Parlament követi majd a Jogi Bizottság iránymutatását. A 27 tagállamnak saját hagyományai vannak. Egyesen kizárólag az internetet részesítik előnyben. Mások hagyományosabb, papíralapú kommunikációt használnak. Ezeket a hagyományokat tiszteletben kell tartani. Ne feledjük, hogy Európa lakosainak 50%-a nem rendelkezik interneteléréssel. Ha az adatok csupán elektronikus úton volnának elérhetők, az internet hozzáféréssel nem rendelkezők vagy a papíralapú kommunikációt preferálók nem juthatnának hozzá a régiójukban működő vállalatokra vonatkozó adatokhoz.
+<P>
+Úgy vélem, hogy az Európai Parlament tisztában van azzal, hogy például a bírósági és jogi bejelentések helyi újságokban való közzétételének egyszerű betiltása káros következményekkel járna. A tagállamoknak meg kell hagyni a lehetőséget, hogy hagyományos csatornákon keresztül is kezelhessék az információk közzétételét, legalábbis adott körülmények között.
+<P>
+Ez nem ideológiai vita. Nem véli úgy, hogy a jelen viszonyok között más dolgunk is van, mint akadályozni egy olyan dolgot, ami a tagállamokban jól működik?
+<P>
+Amikor egyszerűsíteni szeretnénk valamit, néha bonyolultabbá tesszük azt. Költségcsökkentés? Hát persze, de milyen áron? A versenyképességet akadályozó korlátozások feloldása? Igen, de mi történik a versenyképességgel, ha az egyszerűsítés egy teljes szektor gazdaságát fenyegeti? Szeretnénk, ha a Bizottság belátná, hogy támogatjuk az olyan megoldásokat, amelyek segítenek a nyomtatott sajtónak, hogy szembenézzen jelenlegi problémáival.
+<P>
+Nem lehetünk érzéketlenek a tagállamok hagyományaival szemben. Ha így tennénk, számos újságíró válnak munkanélkülivé, a lakosság egy nagy része pedig információk nélkül maradna.
+<P>
+Olyan kiegyensúlyozott irányelv szükséges, amely az elektronikus platformot és az egységes díjat is magába foglalja. Biztosak vagyunk abban, hogy sikerült megtalálni ezt a megoldást, és Önnek is tiszteletben kell tartania az Európai Parlament döntését.
+<SPEAKER ID="401" NAME="Lidia Joanna Geringer de Oedenberg" AFFILIATION="PSE">
+(PL) Elnök úr, az Európai Parlament régóta foglalkozik a szükségtelenül és aránytalanul magas adminisztrációs költségekkel, amelyek az európai vállalatokat sújtják. Ezek a költségek nem csak az üzletmenetet nehezítik, de akadályt képeznek a kihívásoknak való megfelelés előtt is.
+<P>
+Örömmel konstatálom tehát, hogy a Bizottság végre foglalkozik ezzel a problémával, és gyors eljárással kívánja módosítani az 1. és 11. vállalati jogi irányelveket, hozzájárulva ezzel az európai vállalkozások üzleti környezetének javításához. Az 1. irányelv esetében a különféle, vállalati költségeket növelő rendelkezések nemzeti jogból kizárása nagyon is helyesnek tűnik. A javasolt elektronikus platform, amely teljes információt nyújt a vállalatokról, gazdaságos és mindenki számára hozzáférhető megoldás, akárcsak az egységes, minden költséget fedező díj.
+<P>
+A 11. vállalati jogi irányelvre vonatkozó javaslat a kereskedelmi jegyzékbe kerülő dokumentumok fordításával és hitelesítésével foglalkozik, más tagállamban alapított vállalatfiókok esetén. A fordítások kölcsönös elfogadása a Bizottság által javasolt módon, az adminisztratív terhek csökkentése érdekében, kétségkívül megkönnyíti a vállalatok helyzetét, és garantálja a fordítások megbízhatóságát. Végezetül gratulálok az előadónak, Kauppi asszonynak a kiváló jelentéshez.
+<SPEAKER ID="402" NAME="Costas Botopoulos" AFFILIATION="PSE">
+(EL) Elnök úr, szeretném kihasználni a lehetőséget, hogy utolsóként szólok hozzá a tárgyalt irányelvhez, és egy politikai, valamint két technikai jellegű megjegyzést fűznék hozzá.
+<P>
+Politikai megjegyzésem az, hogy ma az Európai Parlament különleges pillanatának lehetünk tanúi: teljes egyetértés a Ház minden frakciójában, a jobboldaliaktól a baloldaliakig, a jogalkotási kezdeményezés Parlament által helyesnek vélt irányában. Sokan elmondták, és én is hangsúlyozom, hogy ilyesmi valóban ritkán történik, és a Bizottságnak ezt figyelembe kell vennie a végső döntés meghozatalakor.
+<P>
+Tévedés azt gondolni, hogy aláássuk a Bizottság javaslatát. Éppen arra törekszünk, hogy modernebbé, emberközelibbé, logikusabbá és gyakorlatiasabbá tegyük azt. Ennyit a politikai véleményemről.
+<P>
+Két technikai jellegű megjegyzésem is van: a közzététel kérdésében a tagok elmondták és én is úgy vélem, hogy teljesen igazságos, az olyan tagállamokban, ahol az internet-hozzáférés korlátozott, legyen lehetőség azt alapvetően támogatott elektronikus közzététel mellett a sajtóban való közzétételre is, nyilvánvaló társadalmi és pénzügyi okokból.
+<P>
+Röviden kommentálnám a fordítások ügyét is, ami véleményem szerint nem okoz problémát. Az a kitétel, hogy csak egy elismert fordítás létezzen, gyakorlatias megoldást kínál. A fordítás itt felvetett kérdése nem nyelvi, nem átláthatósági és nem stilisztikai kérdés. Gyakorlatias kérdés inkább, amely egyszerűen, a fordítás hitelesítésével megoldható.
+<P>
+Éles határ húzódik tehát a politikai és a technikai problémák között. Nem aláássuk tehát a Bizottság javaslatát, hanem jobbá tesszük azt.
+<SPEAKER ID="403" NAME="Charlie McCreevy">
+a Bizottság tagja. - Elnök úr, hadd kezdjem azzal, hogy ha Ieke van den Burg ma délelőtt hozta volna szóba ezt a problémát, boldogan foglalkoztam volna vele. Megkérdeztem, hogy vannak-e további megvitatandó pontok, és ha lettek volna, beszéltem volna azokról is. Bármilyen problémát is hozott volna elő - akár az írországi időjárást is beleértve -, boldogan megvitattam volna. Ez számomra nem okoz problémát.
+<P>
+Azzal sincs problémám, hogy milyen döntést hoz az Európai Parlament, hiszen ez a feladata és kötelessége. De a javaslat hátteréről nem szabad megfeledkezni, és mivel én is tiszteletben tartom mások véleményét, kérem, hogy az enyémet is tartsák tiszteletben.
+<P>
+Ezt a javaslatot a kisvállalkozások adminisztratív terheinek csökkentése szándékával vetettük fel. Része volt az üzleti környezet átláthatóbbá tételét célzó programnak. Becslések is vannak a javaslat hatásaira nézve: évi 600 millió eurós költségcsökkentés. A javaslat felvetése tehát a kisvállalkozások adminisztratív terheinek csökkentését célozta. Ahogy korábban is elmondtam, a költségcsökkentési projektet az Európai Parlament üdvözölte.
+<P>
+Ez tehát a javaslat kontextusa. A kisvállalkozások adminisztratív költségeinek csökkentését szem előtt tartva vetettük fel ezt a javaslatot.
+<P>
+Éppen ezért nehezen látom be, hogyan várhatják tőlem, hogy olyan módosításokat fogadjak el az Európai Parlamenttől, amelyek éppen az ellenkező irányba mutatnak: nem csökkentik, hanem éppen növelik a költségeket. Ha az Európai Parlament úgy véli, hogy ebben az esetben az előnyök az ő javukra szólnak, ám legyen. Ez is egy tartható nézőpont. Ugyanakkor nem egyeztethető az eredeti céllal, ami a költségek csökkentése volt. Ha a Parlament és mások úgy vélik, hogy a felvázolt okokból ilyen formában támogatják a javaslatot, nem várhatják tőlem, hogy támogassam azt és egyetértsek, hogy ezáltal csökkenthetők a költségek, hiszen éppen az ellenkező hatást érjük el: növekszenek a költségek.
+<P>
+A két parlamenti bizottság által felvetett módosítások azt jelentik, hogy a tagállamok egyetlen változtatást kellene, hogy bevezessenek, mégpedig az elektronikus platform kötelezővé tételét. Nem érünk el csökkenést a jelenlegi adminisztratív terhekben, ami az eredeti javaslat célja volt, és amely csökkenés 600 millió eurót tett volna ki évente. Egy olyan irányelv elfogadása tehát, amely nem költségcsökkentéshez vezet, csupán kozmetika változtatásokat valósít meg, rossz jelzés lenne, ha figyelembe vesszük az adminisztrációs terhek csökkentésének eredeti célját.
+<P>
+Ezért kérem az Európai Parlament tagjait, hogy vegyék figyelembe az én álláspontomat is. Ha a Parlament az említett vonalon halad tovább - és holnap szavazás lesz a témában -, akkor az a képviselők álláspontja, akik jogosultak erre. Ezzel nincs semmi bajom. De el kell fogadniuk, hogy az én szemszögemből nézve nehéz lenne elfogadnom olyan módosításokat, amelyek ellentétesek az eredeti felvetés céljaival. Nem vagyok abban a helyzetben, hogy a logikát fejére állítsam, és azt mondjam, hogy az Európai Parlament felvetése tökéletesen megfelel, hiszen látható, hogy az adminisztrációs költségek így növekedni, nem pedig csökkenni fognak.
+<P>
+Szívesen meghallgatom az érveléseket, melyekben olykor látok is némi rációt, de eredetileg nem ez volt a célunk, nem emiatt vetettük fel az adott javaslatot. De hát: c'est la vie!
+<SPEAKER ID="404" NAME="Piia-Noora Kauppi">
+előadó. - Elnök úr, szeretnék az eljárásról állást foglalni. Van den Burg asszony már elmondta, hogy a francia elnökség nem viselkedett helyesen az eljárás során. Számos lehetőséget próbáltunk javasolni a háromoldalú tárgyalásokhoz, és a lehetséges kompromisszumok megvitatásához. A francia elnökség azonban sajnos nem hajlandó eljönni a találkozókra. Nem hajlandóak találkozókat szervezni a Tanács munkacsoportjában, hogy megvitassuk az előre vezető lépéseket. Még ma sincsenek itt, hogy részt vegyenek ezen a fontos vitán.
+<P>
+A Jogi Bizottság álláspontja nagy rugalmasságot ad a tagállamoknak. Sokkal nagyobb rugalmasságot, mint én szeretném. A Jogi Bizottság álláspontja azonban a legmesszebb, ameddig elmehetünk Jelenleg ez az egyetlen javaslat a Parlamentben. Az a véleményem, hogy ha a Tanács nem tudja elfogadni a Parlament álláspontját, azaz a Jogi Bizottság álláspontját - amelyről holnap szavaznak -, ahogy azt kértük, akkor új fordulóra lesz szükség.
+<P>
+Nem engedhetjük, hogy a Tanács kijátsszon minket. Ha a javaslatot nem fogadják el a Parlament által javasolt formában, a folyamat biztosan késni fog. Elképzelhető, hogy a projekt a választásokig sem készül el, és a Bizottság akár vissza is vonhatja a javaslatot. Csalódást keltene, ha a Tanács nem rendelkezne kvalifikált többséggel, és ha nem tenne javaslatokat a kompromisszum elérésére.
+<P>
+Hajlandóak vagyunk kompromisszumos megoldásokról tárgyalni. Személyesen nagyon örülnék, ha a Tanács javasolna valamit a háromoldalú tárgyaláson, amire a kompromisszumot alapozhatnánk, de egyelőre rejtőzködnek és el sem jönnek a tárgyalásokra. Ezzel nagyon nehéz helyzetbe hoznak minket.
+<P>
+Ezért nem vagyok elégedett az eljárással kapcsolatos tárgyalásokkal. Remélem, hogy a Bizottság nem vonja vissza a javaslatot. Remélem, hogy van még lehetőség olyan kompromisszumra, amely a tagállamok és az Európai Parlament számára is megfelelő.
+<SPEAKER ID="405" NAME="Elnök">
+A vitát ezzel berekesztem.
+<P>
+A szavazásra holnap kerül sor.

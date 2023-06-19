@@ -1,0 +1,10 @@
+<CHAPTER ID="010">
+Velkomstord
+<SPEAKER ID="128" NAME="Formanden">
+Mine damer og herrer, jeg vil nu læse en besked fra hr. Buzek.
+<P>
+"Det glæder mig at meddele Dem, at vi i dag har den ære at byde velkommen til Bogdan Borusewicz, formand for det polske senat, Irena Degutienė, formand for det litauiske Seimas, og Volodimir Litvine, formand for Verkhovna Rada i Ukraine.
+<P>
+De tre formænd mødtes i dag i Parlamentet til et ekstraordinært møde i Den Parlamentariske Forsamling for Litauen, Polen og Ukraine. Denne forsamling har rødder i den polsk-litauiske statsforbundstradition, som i mere end to århundreder har udgjort Europas grænse, forstået som et politisk, kulturelt og borgerligt projekt.
+<P>
+Den parlamentariske forsamlings møde i Strasbourg i dag markerer den 220. årsdag for vedtagelsen af 3. maj-forfatningen, Europas første forfatning."

@@ -1,0 +1,10 @@
+<CHAPTER ID="009">
+Verificação de poderes
+<SPEAKER ID="086" NAME="Presidente">
+Segue-se na ordem do dia a verificação de credenciais dos novos deputados ao Parlamento Europeu. O senhor deputado Gargani apresentará um relatório oral a este respeito, em nome da Comissão dos Assuntos Jurídicos.
+<SPEAKER ID="087" NAME="Giuseppe Gargani" LANGUAGE="IT">
+Senhor Presidente, Senhoras e Senhores Deputados, nos termos do Regimento, o Parlamento Europeu tem de proceder à verificação de poderes e deliberar sobre a validade do mandato dos seus membros recém-eleitos. No decorrer da reunião de 25 de Fevereiro, a comissão procedeu à verificação de poderes dos 35 deputados romenos designados pelas autoridades competentes. A esses nomes há que acrescentar outros três, designados pelas respectivas autoridades nacionais.
+<P>
+Tendo em conta o elevado número de verificações a efectuar e as limitações de tempo impostas, considerou-se oportuno que a Comissão dos Assuntos Jurídicos, e portanto o seu presidente, informasse oralmente o Parlamento. Uma vez que a comissão registou que tudo se encontra na devida ordem, o Parlamento pode ratificar todos os mandatos.
+<SPEAKER ID="088" NAME="Presidente">
+Os mandatos são assim ratificados.

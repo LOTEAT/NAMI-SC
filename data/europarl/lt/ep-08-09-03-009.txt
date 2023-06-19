@@ -1,0 +1,4 @@
+<CHAPTER ID="009">
+Balsuoti skirtas laikas (pratęstas)
+<SPEAKER ID="091" NAME="Pirmininkas">
+Tęsime darbotvarkės skirsnį "Balsuoti skirtas laikas".

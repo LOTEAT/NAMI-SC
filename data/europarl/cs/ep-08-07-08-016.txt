@@ -1,0 +1,144 @@
+<CHAPTER ID="016">
+Změna směrnice 2004/49/ES o bezpečnosti železnic Společenství - Změna nařízení (ES) č. 881/2004 o zřízení Evropské agentury pro železnice (rozprava)
+<SPEAKER ID="459" NAME="Předsedající">
+Dalším bodem je rozprava o
+<P>
+- doporučení pro druhé čtení, které předložil Paolo Costa jménem Výboru pro dopravu a cestovní ruch, o změně směrnice 2004/49/ES o bezpečnosti železnic Společenství (směrnice o bezpečnosti železnic) (16133/3/2007 - C6-0129/2008 -;
+<P>
+- doporučení pro druhé čtení, které předložil Paolo Costa jménem Výboru pro dopravu a cestovní ruch, o změně nařízení (ES) č. 881/2004, o zřízení Evropské agentury pro železnice (nařízení o agentuře) (16138/3/2007 - C6-0131/2008 -
+<SPEAKER ID="460" NAME="Paolo Costa">
+zpravodaj. - (IT) Vážená paní předsedající, vážený pane komisaři, dámy a pánové, velmi mne těší, že mohu dnes večer zahájit diskusi. Jsme konečně na konci naší snahy, jejíž výsledek je, alespoň pro mne, velmi podstatný. Dnes večer diskutujeme o některých převážně technických záležitostech, ale podle mého názoru jsou to právě tyto záležitosti, které značně přispějí k vytvoření Evropy. Nikoli ty, které jsme rozebírali ve svých příspěvcích při jiných příležitostech.
+<P>
+Možná jsme si toho nevšimli, ale v současnosti je v Evropě už kolem 700 000 vozů, které můžeme přemísťovat z jedné země do druhé a zároveň je mohou využívat různé společnosti. Do této chvíle nebylo možné, aby překročily hranice sousedních států, protože jsme neměli zavedena společná bezpečnostní pravidla na obou stranách.
+<P>
+Tím, že se dnes večer zabýváme dvěma problémy, které doplňují vykonávací předpisy související s interoperabilitou a vzájemným uznáváním železničních kolejových vozidel, přijatým už v lednu, jsme odstranili další překážky a zároveň uvedli v soulad systém zejména z bezpečnostního hlediska. Nařízení, o kterém dnes večer diskutujeme, je dalším krokem vpřed: stejně jako rozšíření pravomocí evropské agentury, umožňujeme i vybudování jednotného železničního systému signalizace, který by měl nahradit 23 systémů, jež existují po celé Evropě. Nakonec se přece jen začínáme aspoň letmo dívat na tento jednotný trh železniční dopravy, se kterým počítala už první smlouva v roce 1957, ale který dosud nebyl otevřen.
+<P>
+Vzhledem k návrhu směrnice o bezpečnosti je naším hlavním zájmem navrhnout systém certifikace pro oblast údržby železničních vozů, ve službách nejen železničních společností a společností řídících infrastrukturu, ale taktéž třetích stran, které rozhodují o investování do celé řady železničních vozů. Nic z toho by však nesnižovalo zodpovědnost železničních společností za používání železničních kolejových vozidel, když jsou v pohybu.
+<P>
+Dlouho jsme se věnovali diskusi o tom, jestli by měl být systém certifikace dobrovolný, nebo povinný, a zda ho vymezit pro železniční vozy nebo i pro všechna ostatní železniční kolejová vozidla. Věřím, že jsme došli k dobrému řešení: systém bude povinný a bude se týkat železničních vozů v období nadcházejících dvou let, tento systém se bude týkat také ostatních vozidel - osobních vozidel - v období následujících deseti let nebo tak podobně. Systém byl navržen, následovali jsme stanovenou cestu, a proto budeme v krátké době v cíli. Rád bych upozornil, že nařízení o agentuře plně pokrývá evropský systém signalizace, zároveň umožňuje udělat technologický krok vpřed a počítat s možností vyjmutí některých dalších opatření.
+<P>
+Objevily se však dva problémy: jak zajistit, aby technologické inovace - které musejí být neustále rozvíjeny - z finančního hlediska neohrozily časový rámec nezbytný pro přechod na nový systém signalizace. Zdá se mi, že i v tomto případě jsme našli řešení: a to přijetím znění 2.3.0 současného systému a pokračováním v závazku zavést do roku 2012 ještě rozvinutější konečný systém. Z těchto důvodů, zdá se mi, máme důmyslně vyřešeny oba problémy, a proto jsem přesvědčen, že můžeme doporučit, aby Parlament hlasoval ve prospěch dohody dosažené v druhém čtení, a tím nám umožnil dokázat účinnost naší práce a našich vztahů s Radou.
+<SPEAKER ID="461" NAME="Antonio Tajani">
+místopředseda Komise. - (FR) Vážená paní předsedající, dámy a pánové, po přijetí prvních dvou železničních balíků v letech 2001 a 2004 a před přijetím třetího železničního balíku v roce 2007 Komise 13. prosince 2006 navrhla řadu normativních opatření o přeshraničním uznávání stávajících železničních kolejových vozidel.
+<P>
+Snahou těchto opatření je podpora oživení odvětví železniční dopravy, a to hlavně odstraněním překážek, které se týkají pohybu vlaků v rámci evropských železničních sítí. Dva texty, které jsou předmětem této diskuse, změna směrnice o bezpečnosti železnic a změna nařízení o Evropské agentuře pro železnice, jsou součástí těchto opatření.
+<P>
+Změna nařízení o zřízení Evropské agentury pro železnice měla dva hlavní cíle.
+<P>
+Prvním bylo rozšíření pravomocí agentury tak, aby sehrávala svoji roli při uplatňování nové směrnice o interoperabilitě železnic. Bude muset rozpoznat různé vnitrostátní postupy a technické normy týkající se homologace lokomotiv, které jsou v současnosti platné. Proto bude nezbytné sestavit seznam ekvivalentních pravidel a požadavků, které budou ověřeny jedním vnitrostátním bezpečnostním orgánem a nebudou muset být více ověřovány orgány ostatních členských států, kterými bude lokomotiva projíždět. To bude provedeno společně se sítěmi vnitrostátních bezpečnostních orgánů, které bude muset agentura koordinovat. Agentura bude také zodpovědná za vypracování technických posudků na žádost vnitrostátních bezpečnostních orgánů nebo Komise.
+<P>
+Kromě toho, některé z těchto rolí budou muset být objasněny zejména s ohledem na zavedení systému ERTMS, směrnice o certifikaci obsluh lokomotiv a vlaků železniční sítě Společenství a registru a databáze, které bude muset agentura sestavit. Agentura bude ve skutečnosti sehrávat klíčovou roli, pokud jde o zavedení systému ERTMS, nejen s ohledem na stanovení specifikací, pokud jde o harmonizovaný systém signalizace, ale taktéž s ohledem na zajištění technické slučitelnosti pevných zařízení vybavených různými verzemi.
+<P>
+Dovolte mi, abych poblahopřál zpravodaji, předsedovi výboru panu Costovi, k jeho práci, kterou odvedl ve druhém čtení s cílem dosáhnout dohody s Radou. Tohoto výsledku bylo dosaženo po několika dlouhých zasedáních a díky mimořádnému úsilí všech zúčastněných stran. Výsledky jednání jsou stále trochu opatrné: změny dvou pozic, které Rada přijala 3. března 2008 a které mají plnou podporu Komise.
+<P>
+Proto vám děkuji za vaši práci, pane Costo. Na tuto diskusi se velmi těším.
+<SPEAKER ID="462" NAME="Georg Jarzembowski" LANGUAGE="DE">
+Vážená paní předsedající, vážený pane komisaři - a můj bývalý kolego - dámy a pánové, ve skutečnosti jsme se téměř setkali v prostorách výboru, ale jsem rád, že mohu být s vámi právě zde.
+<P>
+Dovolte mi, jménem mé skupiny, začít poděkováním zpravodaji. V posledních týdnech nepřetržitě bojoval za technické podrobnosti a snažil se o zlepšení. Dvěma změněnými směrnicemi, které byly přijaty Radou i Parlamentem, zlepšujeme bezpečnost železnic a taktéž máme příležitost zlepšit interoperabilitu a přiblížit se k našemu cíli, kterým je přesunutí nákladu ze silnic na železnici.
+<P>
+Za nejdůležitější považuji to, že nový postup certifikace, vzájemné uznávání pravidel osvědčování, podstatně sníží náklady na certifikaci a výsledkem bude podpora používání železničních kolejových vozidel v rámci celé Evropy. Zároveň - a to bylo tvrdým oříškem pro nás všechny a dík patří především zpravodaji za jeho tvrdohlavost - musíme zajistit, aby otázka zodpovědnosti za údržbu vozů byla jasně a jednoznačně vyřešena. To je jediný způsob, jak můžeme očekávat od našich občanů, aby souhlasili s přeshraničním používáním vozů bez dalších kontrol a s podporou interoperability.
+<P>
+Souhlasím také se snahou agentury pokročit v otázce systému ERTMS a souhlasím se zpravodajem, že lepší je někdy nepřítelem dobrého. Pokud změníme verzi příliš rychle, pravděpodobně nenajdeme nikoho, kdo by ji následoval. Proto musíme postupovat opatrně, pokud jde o podporu verze ERTMS.
+<P>
+Všichni milujeme vlaky, zejména historické vlaky. Proto jsem rád, že jsme objasnili, že dědictví a historické železnice jsou osvobozeny od všech technických, ale všeobecně nezbytných bezpečnostních opatření. Doufám, že nás naši přátelé uslyší i uvidí. Plně uznáváme zájmy historických železnic.
+<SPEAKER ID="463" NAME="Brian Simpson">
+jménem skupiny PSE. - Vážená paní předsedající, jménem skupiny socialistů bych rád poděkoval panu Costovi za obě jeho zprávy, i když dnes večer budu hovořit jen o jedné z nich, o té, která se zabývá bezpečností železnic.
+<P>
+Bezpečnost musí být vždy naší prioritou, a pokud chceme zlepšit výkonnost i bezpečnost našich železnic, tak potom ti, kteří jsou zodpovědní za řízení naší železniční infrastruktury a její železniční kolejová vozidla, musejí být správně vyškoleni a jejich kvalifikace musí být uznána. Je správné, že bezpečnostní certifikace nákladních vozů by měla se zavedením nového systému v roce 2010 vstoupit do nové etapy. Taktéž je správné, že osobní vozidla by měla být krytá, což by mělo být splněno do 10 let; ti, kteří s tím nesouhlasí, určitě uznají alespoň to, že je tento systém potřebný.
+<P>
+Podporuji zpravodaje také v jeho tvrzení, že nic z toho by nemělo bránit v rozšiřování železnic. Průmysl v Evropě, především oblast železniční nákladní dopravy, je znepokojen nedostatkem vize, jež občas vyzařovala z našich provozovatelů infrastruktury, kteří se nyní chopí každé příležitosti omluvit svoji nečinnost.
+<P>
+Musíme rozšířit naše železnice, pokud jde o infrastrukturu i železniční kolejová vozidla, abychom mohli zajistit výkonnou, účinnou a udržitelnou železniční síť, která bude zbavena překážek.
+<P>
+Nakonec musím poděkovat našemu zpravodaji a všem členům za jejich podporu, kterou vyjádřili mým pozměňovacím návrhům o osvobození dědictví železnic a železnic určených pro cestovní ruch od opatření této směrnice. Pokud by byly nuceny vyhovět požadavkům této směrnice, náklady by ochromily tyto železnice a zároveň by ohrozily zachování bohatého průmyslového dědictví, které tyto železnice nepochybně představují.
+<P>
+V Evropě se snažíme o zachování dědictví železnic, což je skutečnost, kterou Komise často přehlíží - ale upřímně řečeno, nikdy nebyla přehlédnuta tímto Parlamentem.
+<SPEAKER ID="464" NAME="Erik Meijer" LANGUAGE="NL">
+Vážená paní předsedající, dávno předtím, než vznikla Evropská unie, jsme měli na většině území Evropy dobře fungující systém železnic. Od konce 19. století byly železnice společně s poštovními službami jedním z hlavních závazků, které měl stát. Každá země byla zodpovědná za své železnice.
+<P>
+Ve většině zemí byl stát majitelem hlavní nebo jediné domácí železniční společnosti. Tato potřeba vyplynula ze skutečnosti, že cílem soukromých společností bylo rychlé zbohatnutí. Neuspěly v zajištění kvality a kontinuity této služby. Když železnice přešly do vlastnictví státu, infrastruktura, jakož i využívání této služby se zlepšily. Infrastruktura patřila vnitrostátním železnicím, tedy státu.
+<P>
+Řízení osobních, jakož i nákladních vlaků bylo v těch samých rukou, takže koordinace osobní a nákladní dopravy na jedné straně a údržba, rozšiřování a optimální využívání infrastruktury na straně druhé byly přijatelné. Nebylo třeba zásahu žádného státního byrokratického orgánu. Téměř všechno, kromě lůžkových a jídelních vozů v mezinárodních vlacích, které byly určeny na dlouhé vzdálenosti, bylo řízeno na vnitrostátní úrovni. Mezinárodní spolupráce byla navíc dobrá. Cestující mezinárodním vlakem viděli železnice jako jednu velkou překlenovací evropskou instituci. Na nádraží jste mohli v pokladnách dostat ručně psané jízdenky na cestu po celé Evropě a skutečně kvalitní informace o službách v zahraničí.
+<P>
+Regionální přeshraniční spoje a spoje na dlouhé vzdálenosti mezi zeměmi, které neměly společné hranice, byly dostupnější než dnes. Tento systém, který dnes může být předmětem závisti, měl však čtyři slabé stránky, zejména pokud jde o elektrifikaci železniční sítě. Země se rozhodly pro různé hlavní přívody elektrického napětí a různé typy elektrických bezpečnostních systémů. Nákladní vlaky byly zdržovány kontrolami a na státních hranicích musely odpojovat a přesouvat náklad. Zvyšováním ztráty ve veřejné dopravě, která přímo souvisela se zvýšením počtu aut, byly části dráhy oslabeny a cestující museli zaplatit mimořádné poplatky za přechod přes hranice. Po objevení letecké dopravy se na informace a prodej jízdenek na dlouhé mezinárodní tratě téměř zapomnělo.
+<P>
+Jen v těchto záležitostech mohla Evropská unie přispět ke zlepšení. Moje skupina se mnoho let věnovala otázce zasahování Evropské unie, které bylo zaměřeno především na tato mezinárodní zlepšení, ale zejména na další liberalizaci. Aby se předešlo škodám, které by mohly být způsobeny těmito změnami, je opětovně nezbytný byrokratický dohled.
+<P>
+V návaznosti na řadu rozhodnutí o železnicích od roku 2001 byla ustanovena konkrétní faits accomplis. Na základě této nové skutečnosti moje skupina hledala nejlepší možný výsledek pro budoucnost. Výsledky navrhované ve druhém čtení se zdály být celkově přijatelné Některá znepokojení související se subsidiaritou, bezpečností a touhou nenechat všechno na dohodách mezi teď už zprivatizovanými železničními společnostmi nás dovedly k pozici, kdy navzdory naší nedávné kritice budeme hlasovat ve prospěch této zprávy.
+<SPEAKER ID="465" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Vážená paní předsedající, vážený pane komisaři, dámy a pánové, všichni bychom rádi přizpůsobili dopravu režimu, který by byl přijatelnější pro životní prostředí. Nejprve však musíme vytvořit podmínky pro to, abychom tento náš cíl mohli uskutečnit. Totéž platí i pro železnici, která je prostředkem dopravy přijatelným pro životní prostředí. Existuje několik technologických záležitostí, které musíme dohnat, pokud chceme vytvořit systém interoperability, a musíme uplatnit řadu opatření k dosažení vnitřního trhu dopravy.
+<P>
+Po dlouhých a podrobných jednáních mezi Parlamentem a Radou jsme dospěli k přijatelnému výsledku. Takže bychom ho neměli kritizovat, nýbrž velkou většinou zítra podpořit.
+<P>
+I když si myslím, že některé výhrady jsou opodstatněné, zejména pokud jde o agentury. Naše evropská zkušenost s agenturami je, mírně řečeno, ne zcela dokonalá. Často jsme začínali s poskytnutím nízkého objemu rozpočtových zdrojů, pokud vůbec nějakým, které byly určeny na počáteční náklady agentur. Potom problémy rostly a my jsme jen nahrazovali to, co jsme měli udělat už na začátku. Měli jsme a stále máme problém se začleněním politické kontroly a zjištěním, že agentury mají svůj vlastní život, život bez politické kontroly nebo zodpovědnosti. Můžeme jen doufat, a komisař musí zajistit, aby to tentokrát bylo jiné. Navzdory tomu však musíme trvat na svém, zejména v případě agentur.
+<SPEAKER ID="466" NAME="Gilles Savary" AFFILIATION="PSE">
+(FR) Vážená paní předsedající, vážený pane komisaři, nejprve chci vzdát hold panu Paolo Costovi za jeho výbornou práci. Zabýváme se vysoce technickou oblastí, která vůbec není populární. Navzdory tomu však při diskusi o plánu změn klimatu a cíli snížit množství skleníkových plynů vyvstává problém železniční dopravy a jiné než silniční dopravy.
+<P>
+Z tohoto hlediska jsme udělali během posledních dvou plenárních zasedání kus práce v oblasti zpřístupnění sítí. I když je tu pořád překážka související s tímto otevřením, která musí být odstraněna: nedostatek technické interoperability, který je způsoben mnoha faktory včetně mnoha různých typů systémů zabezpečení a řízení, úplného uznání - o kterém tu diskutujeme - a především o rozchodu kolejí. Jsem z Aquitaine, to je region, kde musíme vyměnit nápravy vlaků, které přijíždějí ze Španělska, abychom zajistili plynulost dopravy.
+<P>
+Tyto otázky, které se zdají být výrazně technické, jsou ve skutečnosti výrazně politické, protože určují naši dopravní politiku a politickou prioritu boje proti skleníkovým plynů a změnám klimatu.
+<P>
+Oba tyto texty jsou mimořádně důležité. Rád bych poděkoval panu Paolo Costovi za jeho návrhy, které předložil, zejména za návrh vzájemné povinnosti uznávání. Existuje několik způsobů, jak bránit otevření evropských sítí. Železniční sítě byly vybudovány na vnitrostátních nebo národních základech. Jedním ze způsobů bránění je projevit malou, případně žádnou snahu dosáhnout vzájemného uznávání. Doufám, že odteď, díky textu, který se chystáme přijmout, budeme mít evropský právní předpis, který nám umožní překonat tuto překážku, jak toho bylo účinně dosaženo v případě Francie a Německa.
+<P>
+Rád bych též zopakoval to, co prohlásil o agentuře můj kolega pan Rack. Věřím, že je mimořádně důležité poskytnout agentuře zdroje, které potřebuje pro svůj rozvoj a možná i demokratizaci, proto by se měl Parlament v této věci více angažovat.
+<SPEAKER ID="467" NAME="Jaromír Kohlíček" AFFILIATION="GUE/NGL">
+Systém povinného osvědčení pro subjekty provádějící údržbu a uvádějící do oběhu vozy je jedinou součástí zlepšení na železnici. Bez jasných pravidel by prostě nebylo možné zajistit vyšší bezpečnost provozu. V obou případech, ať už je to ERTMS v jiné zprávě nebo tady, připadá důležitá role Evropské agentuře pro železnici. Výsledkem má být volný pohyb vagónů i lokomotiv, tedy zlepšení konkurenceschopnosti železnice vůči jiným druhům dopravy. To se pak může projevit zlepšením životního prostředí, jehož zátěž dopravou se stává neúnosnou. Z tohoto důvodu je žádoucí navrhované změny podpořit.
+<P>
+Malá poznámka na okraj. Údržba jen vlečky a vagónů na železnicích, které nejsou propojeny přímo na síť, by měla být řešena vnitrostátními předpisy, ne sledována v rámci celé Evropské unie, a to včetně příslušných oprávnění. Jde např. o závodové vlečky a podobné záležitosti.
+<SPEAKER ID="468" NAME="Silvia-Adriana Ţicău" AFFILIATION="PSE">
+(RO) Rozvoj moderní osobní i nákladní železniční dopravy je účinným a méně znečišťujícím řešením přepravy energie Společenství.
+<P>
+V souvislosti se směrnicí o bezpečnosti železnic považuji za nezbytné vyjmout z opatření dědictví, historické železnice a železnice určené pro cestovní ruch. Taktéž je nezbytné, aby všichni, kteří vykonávají údržbu, byli certifikovaní a sami vykonávali údržbu nebo byli schopni uzavřít smlouvu s jinými dílnami, které provádějí údržbu.
+<P>
+Osoby provádějící údržbu by měly stanovit základní parametry a technické charakteristiky v souvislosti s údržbou a logistikou pro základní součástky a montážní podskupiny s cílem splnit během jejich provozu požadavky, které stanovuje tato směrnice.
+<P>
+Evropská agentura pro železnice sehrává podstatnou roli, pokud jde o zavedení systému ERTMS do roku 2020. S cílem posílit investice, které jsou nezbytné pro interoperabilitu systémů železniční dopravy v Unii, je důležité ustálit konečnou verzi ERTMS na určité období.
+<P>
+Požaduji, aby byla věnována pozornost potřebě zajištění bezpečnosti železniční dopravy pro evropské občany. Jsem přesvědčena, že členské státy i Komise by měly více financovat rozvoj železniční infrastruktury a modernizaci železničních kolejových vozidel. Žádám Komisi o větší podporu pro členské státy, jejichž železniční systémy potřebují značné investice.
+<P>
+Výbor TRAN navrhl požadavek postupné instalace ERTMS v transevropské dopravní síti (TEN-T) a upravil poskytování evropských finančních prostředků na povinné využívání systému ERTMS.
+<SPEAKER ID="469" NAME="Bogusław Liberadzki" AFFILIATION="PSE">
+(PL) Vážená paní předsedající, vážený pane komisaři, pomalu odstraňujeme překážky, které bránily pohybu vozů a lokomotiv v evropské železniční síti. Snažíme se rozhodnout o tom, jestli by to měly být železnice Společenství nebo železnice v rámci Společenství. Prostřednictvím tohoto právního předpisu se blížíme ke konceptu železnic Společenství, to znamená společné technické, provozní a právní normy, v podstatě interoperabilitu, která je potřebná z každého úhlu pohledu. Letecká doprava, silniční doprava a lodní doprava mají mnohem rozvinutější vytváření poboček systémů Společenství. To byl jeden z faktorů, který vedl k jejich úspěchu na trhu. Železnice ještě na trhu nedosáhly žádného úspěchu, právě naopak, ztratily na něm podíl.
+<P>
+Návrh, o kterém diskutujeme, je dobrý a velmi potřebný. Pan Paolo Costa odvedl výbornou práci a předložil dobrou zprávu. Věřím, že vy, pane komisaři, budete schopen kontrolovat agenturu, protože to bude prospěšné pro železnice v Evropě.
+<SPEAKER ID="470" NAME="Czesław Adam Siekierski" AFFILIATION="PPE-DE">
+(PL) Vážená paní předsedající, v zemích tzv. staré Evropy se rozvíjí silniční doprava na úkor železniční. Je tomu tak už několik desetiletí. V roce 1970 železnice přepravovaly téměř 20 % veškerého nákladu, v roce 2003 to bylo jen 7,5 %. Měli bychom využít kladné stránky železniční dopravy, protože je ekologicky přijatelným druhem dopravy. Zvýšené využívání železnice může zlepšit situaci na silnicích, zejména během letních měsíců. Navrhovaná aktualizace práva pomůže obchodu v EU, aby byl účinnější. Odstraní překážky, které brání vytvoření nových železničních nákladních společností. Kromě toho odstraní i požadavek na osvědčení lokomotiv v každém členském státě a zjednoduší postupy týkající se železničních kolejových vozidel.
+<SPEAKER ID="471" NAME="Zbigniew Krzysztof Kuźmiuk" AFFILIATION="UEN">
+(PL) Vážená paní předsedající, vážený pane komisaři, rád bych v této diskusi zaměřil pozornost na dva problémy. Především je důležité podpořit pozměňovací návrhy ze strany Evropského parlamentu v souvislosti se zavedením povinného systému certifikace pro všechny společnosti, železniční společnosti, manažery infrastruktury, vlastníky nebo jiné osoby, které budou potřebovat osvědčení osoby zodpovědné za údržbu v souladu s kritérii a požadavky zahrnutými v tomto textu.
+<P>
+Za druhé, měly by být podpořeny také pozměňovací návrhy Evropského parlamentu zaměřené na rozšíření pravomocí Evropské agentury pro železnice, zejména pokud jde o problém povolení používání železničních kolejových vozidel, které je v souladu s technickými normami interoperability, a ustanovením agentury centrálním orgánem vývoje s ohledem na zavedení Evropského systému řízení železniční dopravy. A za třetí, podpořena by měla být i role agentury v souvislosti s povinným systémem certifikace, který se týká údržby železničních vozů a ostatních železničních kolejových vozidel.
+<P>
+Nakonec bych rád pogratuloval zpravodaji panu Paolo Costovi za to, že přesvědčil Radu, aby přijala většinu pozměňovacích návrhů ze strany Evropského parlamentu.
+<SPEAKER ID="472" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Vážená paní předsedající, vážený pane komisaři, dámy a pánové, v době, jako je tato, kdy můžeme hovořit o přesunutí dopravy ze silnice na železnici, které je uvedeno ve směrnici o nákladech, i když pravděpodobně nebude zavedena v plné míře, je dobré najít zprávu, která je zaměřena na posílení určitého druhu dopravy, který považujeme za důležitý, tedy vlakové dopravy, abychom zabezpečili, že bude mít v budoucnosti v mnoha ohledech stejná práva a příležitosti jako těžká nákladní vozidla.
+<P>
+Interoperabilita funguje, systémy se harmonizují a bezpečnost je vyšší. Obě zprávy jsou velmi dobrými zprávami. Gratuluji panu Costovi k dalšímu kroku směrem k posílení železnice na evropské úrovni.
+<SPEAKER ID="473" NAME="Antonio Tajani">
+místopředseda Komise. - (FR) Vážená paní předsedající, se zájmem jsem poslouchal vaše příspěvky a souhlasím s rozhodnutím ochránit naše dědictví železnic, jak to zdůraznil pan Simpson a pan Jarzembowski. Kromě toho, pan Rack a pan Savary upozornili na důležitost ochrany agentury a tomu také vyjadřujeme podporu. Pokud jde o toto, měl jsem z toho dobrý dojem.
+<P>
+Vítám všeobecnou dohodu o kompromisu, kterého bylo dosaženo mezi Parlamentem a Radou. Proces znovuoživení evropského železničního odvětví, který byl zahájen Společenstvím před několika lety, nyní přináší ovoce. Navzdory pádu v roce 1970 ve většině členských států je jeho podíl na trhu v současnosti stabilizovaný a vykazuje jasné znaky nárůstu, což je výborná zpráva.
+<P>
+Nyní s ohledem na bezprostřední dokončení práce na tomto právním balíku, který je svou podstatou technický, ale velmi důležitý zejména z pohledu hospodářství, budou železniční podniky schopné naplnit svoji roli, pokud jde o nabídku dopravy udržitelné na trhu, která je otevřena konkurenci nejen vnitřně, ale i ve vztahu k ostatním dopravním prostředkům. Jako výsledek vítám dosažené dohody o všech třech aspektech - interoperabilitě, bezpečnosti a agentuře - a rád bych znovu poděkoval Parlamentu nejen jako komisař, ale též jako jeho bývalý člen, za rychlou a výbornou práci na tomto textu.
+<SPEAKER ID="474" NAME="Paolo Costa">
+zpravodaj. - (IT) Vážená paní předsedající, dámy a pánové, jsem vděčný každému, kdo promluvil, neboť se mi zdá, že se na zítřejší hlasování můžeme dívat s jistým přesvědčením a s pravděpodobností, že bude dosaženo dohody, která bude podstatným krokem vpřed.
+<P>
+Železnice mají v Evropě budoucnost, ale podíl na trhu mohou znovu získat, jen pokud budou konkurenceschopné. Podmínkou číslo jedna je, aby byly schopny pokrýt 300- až 400kilometrové vzdálenosti, což je vzdálenost, na jejímž základě mohou porazit konkurenci ostatních druhů dopravy. I když 400 kilometrů v rámci Evropy znamená překračovat hranice. To je podstatou tohoto problému: buď uspějeme tím, že naše vlaky budou schopné rychle a účinně překračovat hranice, nebo jsme prohráli.
+<P>
+Před několika lety jsme navrhli pravidla, která umožnila řidičům-strojvůdcům provést právě toto. Dnes se snažíme o totéž i pro vagony. Velmi brzy budou osobní lokomotivy a železniční kolejová vozidla schopna překračovat hranice. A bude to možné i bez jakékoliv kritiky a bez znepokojení, že interoperabilita může ohrozit bezpečnost. Toto je nejvyšší cíl, který jsme si určili, a já věřím, že jsme velmi blízko jeho dosažení. Stanovujeme evropské časové rámce a plány - dva roky pro vozy; deset let pro ostatní vozidla - ale bude to uskutečněno. Železniční kolejová vozidla nakonec budou zprovozněna a budou při tom využívat jednotného systému signalizace. Myšlenka, o jejíž naplnění jsme se snažili před několika lety, zajistit, aby vlaky rozpoznávaly více než jeden systém signalizace, byla další možností, ale tato možnost byla zmařena existencí více než 20 různých systémů v rámci Evropy.
+<P>
+Pokud se v těchto otázkách bude rychle postupovat kupředu, tak opravdu přispějeme k vybudování jednotného trhu železniční dopravy. Trh, o němž si naši otcové zakladatelé mysleli, že bude prvním vybudovaným, bude ve skutečnosti posledním. Záleží nám však na tom, aby existoval v přijatelné době pro železnice a byl zapojen do boje proti změnám klimatu a překonal omezení týkající se zvyšování cen energie.
+<SPEAKER ID="475" NAME="Předsedající">
+Rozprava byla ukončena.
+<P>
+Hlasovaní se bude konat zítra ve 12:00.
+<P>
+Písemná prohlášení (článek 142)
+<SPEAKER ID="476" NAME="Marian Zlotea  " AFFILIATION="PPE-DE">
+písemně. - (RO) Vážená paní předsedající, vážení kolegové, nejprve bych rád pogratuloval zpravodaji k jeho práci. Pokud zohledním nedávná železniční neštěstí, rád bych upozornil na důležitost bezpečnosti železnic Společenství. Doufám, že nová nařízení o činnosti Evropské agentury pro železnice budou přínosem pro spotřebitele a zjednoduší postupy týkající se povolení pro vozidla. Byl bych rád, pokud bychom se ujistili, že máme přesně vymezený subjekt, který je zodpovědný za bezpečnost a údržbu každého vozidla, a že víme, kdo tímto subjektem je.
+<P>
+Toto povolení by mělo zajistit, aby byla zaručena práva spotřebitele v každém členském státě a také aby bylo cestujícím poskytnuto odškodné v souladu s evropskými právními předpisy.
+<P>
+Zároveň by agentura měla zohlednit podmínky cestování, pohodlí a bezpečnost, stejně jako ponechání tarifů na stejné úrovni. Taktéž by měla zohlednit příležitosti a snížení cen pro mladé lidi, studenty i pro znevýhodněné kategorie lidí.
+<P>
+Doufám, že přání evropských spotřebitelů budou splněna prostřednictvím práce Evropské agentury pro železnice, proto jí poskytneme veškerou potřebnou podporu.

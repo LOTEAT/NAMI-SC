@@ -1,0 +1,6 @@
+<CHAPTER ID="005">
+Äänestykset (jatkoa) 
+<SPEAKER ID="054" NAME="Puhemies">
+(EN) Jatkamme nyt äänestyksiä.
+<P>
+(Äänestysten tulokset ja niiden kulkua koskevat yksityiskohdat: ks. pöytäkirja.)

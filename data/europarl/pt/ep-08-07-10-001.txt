@@ -1,0 +1,14 @@
+<CHAPTER ID="001">
+Abertura do período de sessões
+<P>
+(A sessão tem início às 09H00)
+<SPEAKER ID="005" NAME="Daniel Cohn-Bendit" AFFILIATION="Verts/ALE">
+(FR) Senhora Presidente, gostaria de esclarecer algo consigo. Aparentemente, foi decidido, a pedido da Presidência francesa, controlar a captação de imagens durante a intervenção do Presidente Sarkozy.
+<P>
+Gostaria de saber quem tomou essa decisão, quem fez esse pedido, e quem é o responsável pela captação de imagens no Parlamento Europeu. O Parlamento Europeu ou a Presidência francesa? Agradeço uma resposta antes do início da sessão.
+<SPEAKER ID="006" NAME="Presidente">
+Senhor deputado Cohn-Bendit, terá uma resposta antes do início da sessão, mas, por agora, se não se importar, prosseguiremos com a votação.
+<SPEAKER ID="007" NAME="Astrid Lulling" AFFILIATION="PPE-DE">
+- (FR) Senhora Presidente, na qualidade de questora deste Parlamento, gostaria de chamar a sua atenção para o facto de um dos lados da estrada de acesso à entrada do Parlamento estar bloqueado pela polícia anti-motim. Não permite a entrada de veículos oficiais. Se alguns deputados chegarem atrasados porque têm de fazer outro desvio, não devem ser penalizados por não poderem participar na votação.
+<SPEAKER ID="008" NAME="Presidente">
+É evidente, senhora deputada Lulling, que isso será tomado em conta, porque alguns deputados estão a ter dificuldades em entrar no Parlamento.

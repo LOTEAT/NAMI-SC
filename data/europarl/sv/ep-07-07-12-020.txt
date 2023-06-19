@@ -1,0 +1,6 @@
+<CHAPTER ID="020">
+Avbrytande av sessionen
+<SPEAKER ID="287" NAME="Talmannen">
+Jag avbryter sammanträdet.
+<P>
+(Sammanträdet avslutades kl. 16.20.)

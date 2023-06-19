@@ -1,0 +1,781 @@
+<CHAPTER ID="1">
+<SPEAKER ID="1" LANGUAGE="" NAME="" AFFILIATION="puhemies">
+<SPEAKER ID="2" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Istunto on avattu.
+<SPEAKER ID="3" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Esityslistalla on seuraavana keskustelu tilintarkastustuomioistuimen vuosikertomuksesta varainhoitovuodelta 2003.
+<P>
+Ensimmäisen puheenvuoron käyttää tilintarkastustuomioistuimen presidentti Fabra Vallés, jonka toivotamme tervetulleeksi Euroopan parlamenttiin.
+<SPEAKER ID="4" LANGUAGE="ES" NAME="Fabra Vallés," AFFILIATION="tilintarkastustuomioistuimen presidentti.">
+<P>
+    Arvoisa puhemies, hyvät parlamentin jäsenet, arvoisat komission jäsenet, esittelin tilintarkastustuomioistuimen vuosikertomuksen varainhoitovuodelta 2003 talousarvion valvontavaliokunnan kokouksessa 15. marraskuuta 2004.
+<P>
+Minulla oli tuolloin mahdollisuus esitellä yksityiskohtaisesti vuosikertomukseemme sisältyvät havainnot ja päätelmät. Tänään haluan keskittyä esityksessäni tilintarkastustuomioistuimen huomautuksiin, jotka koskevat kolmea asiaa eli tarkastuslausumaa, budjettihallintoa ja komission uudistusprosessia.
+<P>
+Tilintarkastustuomioistuimen vuosikertomuksen ensimmäinen luku sisältää tarkastuslausuman, josta käytetään lyhennettä DAS. Se julkaistaan yhdessä Euroopan yhteisöjen konsolidoidun tilinpäätöksen kanssa Euroopan unionin virallisessa lehdessä.
+<P>
+Edellisen varainhoitovuoden tapaan tarkastuslausuma perustuu neljään pilariin, jotka ovat muotoutuneet tilintarkastustuomioistuimen käyttämiin menetelmiin tehtyjen muutosten tuloksena. Muutosten tarkoituksena on tehdä tilintarkastustuomioistuimen tarkastusten tuloksista luotettavampia. Nämä neljä pilaria ovat ensinnäkin yhteisön toimielinten ja jäsenvaltioiden valvontajärjestelmien laatu, toiseksi kunkin menoalan sitoumuksista ja maksuista poimittu otos, kolmanneksi komission pääjohtajien lausumat ja neljänneksi muiden tarkastajien toteuttamien tarkastusten tutkiminen.
+<P>
+Tarkastuksen perusteella tilintarkastustuomioistuin katsoo, että komission tilinpäätös vuodelta 2003 on laadittu varainhoitoasetuksen mukaisesti. Tilinpäätös antaa tarkan kuvan varainhoitovuoden tuloista ja menoista sekä komission taloudellisesta tilanteesta muut velalliset -erään liittyvien saamisten arvostamista lukuun ottamatta.
+<P>
+Aiempien vuosien tapaan tilintarkastustuomioistuin huomauttaa, ettei komission kirjanpitojärjestelmällä voitu taata, että kaikki sen omaisuuserät on viety kirjanpitoon. Komissio hyväksyi vuonna 2002 kirjanpitojärjestelmänsä uudistamista koskevan suunnitelman, joka on tarkoitus panna täytäntöön vuonna 2005. Tilintarkastustuomioistuin katsoo, että kaikkien uusien sääntöjen ja tilikarttojen täysipainoinen soveltaminen edellyttää merkittäviä ponnisteluja niiltä tahoilta, joiden tilit kuuluvat konsolidoinnin piiriin.
+<P>
+Tilintarkastustuomioistuin katsoo, että toimet ovat lailliset ja asianmukaiset tulojen, sitoumusten ja hallintomenojen osalta.
+<P>
+Muiden talousarvion menoryhmien osalta tilintarkastustuomioistuimen huomautukset koskevat yleisiä puutteita EU:n varojen hallinnointia koskevissa valvontajärjestelmissä.
+<P>
+Maatalouden maksuihin virheillä oli jälleen olennainen vaikutus. Rakennetoimien kohdalla havaittiin yhä puutteita jäsenvaltioiden hallinto- ja valvontajärjestelmissä.
+<P>
+Sisäisten politiikkojen, ulkoisten toimien ja liittymistä valmistelevan tuen osalta on myös havaittu virheitä, jotka vaikuttavat tapahtumien laillisuuteen ja asianmukaisuuteen.
+<P>
+Tästä syystä tilintarkastustuomioistuin suosittelee, että näillä aloilla toimitaan määrätietoisemmin hallinto- ja valvontajärjestelmien tehostamiseksi, vaikka Euroopan unionin toimielimissä onkin viime vuosina toteutettu merkittäviä tätä koskevia toimia.
+<P>
+Tilintarkastustuomioistuin korostaa jälleen kerran, että yhteisen, välillisen tai hajautetun hallinnoinnin piiriin kuuluvilla aloilla esiintyy edelleen eniten virheitä ja että juuri näillä aloilla on toimittava määrätietoisemmin.
+<P>
+Tältä osin tilintarkastustuomioistuimen lausunto nro 2/2004 yhtenäisestä tarkastusmallista, jota käsittelen yksityiskohtaisemmin myöhemmin, on konkreettinen ehdotus valvontajärjestelmien tehostamiseksi, mikä voisi puolestaan parantaa EU:n varojen hallinnointia jäsenvaltioissa.
+<P>
+Seuraavaksi käsittelen budjettihallintoa koskevia huomautuksia. Varainhoitovuonna 2003 talousarvioon sisältyvien maksujen kokonaismäärä oli 98 000 miljoonaa euroa. Maksuja suoritettiin 90 500 miljoonan euron edestä, mikä tarkoittaa lähes kuuden prosentin lisäystä varainhoitovuoteen 2002 verrattuna.
+<P>
+Julkisen talouden ylijäämä väheni huomattavasti siten, että kun se vuonna 2001 oli 15 000 miljoonaa euroa, vuonna 2002 se oli 7 000 miljoonaa euroa ja vuonna 2003 enää 5 500 miljoonaa euroa. Tästä parannuksesta huolimatta tilintarkastustuomioistuin katsoo, että julkisen talouden ylijäämä on edelleen suuri ja että ylijäämä on merkki säännöllisesti esiintyvistä ongelmista, jotka täytyy ratkaista parantamalla menojen ennakkoarviointia.
+<P>
+Ylijäämän pääsyy on edelleen arvioitujen ja todellisten menojen eroavuus. Tilintarkastustuomioistuin huomauttaa, että olisi epärealistista edellyttää talousarvion täysimääräistä toteuttamista ottaen huomioon, että 80 prosenttia EU:n talousarviosta kuuluu yhteisen tai hajautetun hallinnoinnin piiriin ja että näiden 80 prosentin toteuttaminen riippuu jäsenvaltioista.
+<P>
+Maksujen toteuttamisaste oli varainhoitovuonna 2003 kuitenkin 92 prosenttia, mikä on huomattava parannus edellisen varainhoitovuoden 86 prosenttiin verrattuna.
+<P>
+Euroopan kehitysrahastojen budjettihallinnon osalta toteamme, että komissio on pyrkinyt uudistetulla varainhallintoa koskevalla selvityksellä parantamaan varainhoitovuoden hallinnointia koskevan tiedon laatua.
+<P>
+Komissio on ponnistellut merkittävästi vähentääkseen maksattamattomien maksusitoumusten määrää. Maksujen suorittamista on lisäksi haitannut varojen puute (270 miljoonaa euroa). Komission olisi selvitystään parantaakseen varmistettava, että siinä mainitaan Euroopan kehitysrahastojen hallintomenot ja esitetään niitä koskevia huomioita.
+<P>
+Päätän vuosikertomuksen esittelyn sanomalla muutaman sanan komission vuonna 2000 aloittaman hallintouudistuksen etenemisestä.
+<P>
+Komissio julkaisi helmikuussa 2004 kertomuksen komission uudistamista koskevassa valkoisessa kirjassa ehdotettujen toimien toteuttamisen edistymisestä. Tilintarkastustuomioistuin myöntää, että komissio on edistynyt uuden valvontakehyksen luomisessa, mutta katsoo, etteivät tulokset ole vieläkään tyydyttäviä järjestelmän soveltamisen osalta.
+<P>
+Tilintarkastustuomioistuin katsoo, ettei toteuttaminen ole edelleenkään edennyt tyydyttävästi kahdeksan valkoisessa kirjassa ehdotetun toimen osalta, jotka olisi teoriassa pitänyt saattaa päätökseen vuoden 2003 loppuun mennessä. Näihin kuuluvat myös toimet, jotka koskevat sisäisen valvonnan vähimmäisstandardeja tai sisäisen tarkastuksen rakennetta kussakin pääosastossa.
+<P>
+Tästä syystä tilintarkastustuomioistuin katsoo, ettei komission sisäisen valvonnan standardien noudattamisastetta voida saavutetusta edistyksestä huolimatta edelleenkään pitää riittävänä antamaan riittävää varmuutta toimien laillisuudesta ja asianmukaisuudesta. Tilintarkastustuomioistuin kehottaa komissiota saattamaan päätökseen uuden sisäisen valvontajärjestelmän täytäntöönpanoa koskevan tehtävän. Tämä koskee etenkin yhteisesti hallinnoituja aloja, riskien arvioimista sekä saamisten perintää.
+<P>
+Meidän ei pitäisi myöskään unohtaa, että komission uudistus perustuu vastuullisen hallinnoinnin periaatteeseen, tositteiden esittämiseen ja tulosten arvioimiseen. Tätä tarkoitusta varten komissio esitteli varainhoitovuonna 2003 ensimmäistä kertaa analyysin valvontajärjestelmiensä luotettavuudesta tilien perustana olevien toimien laillisuuden ja asianmukaisuuden osalta. Komissio otti tällä tavoin hallintovastuun EU:n talousarviosta, kuten EY:n perustamissopimuksen 274 artiklassa edellytetään.
+<P>
+Komissio ilmoittaa, ettei se pysty vieläkään antamaan varauksetonta lausumaa yhden keskeisen hallinnonalan, nimittäin rakennerahastojen osalta. Tämä tilanne käy ilmi myös tilintarkastustuomioistuimen huomautuksista.
+<P>
+Muilla hallinnonaloilla komissio luottaa pääjohtajien lausumiin, joista 21:ssä esitettiin varaumia. Nämä varaumat rajoittavat pääjohtajien lausumissaan antamaa varmuutta.
+<P>
+Tilintarkastustuomioistuin ei myöskään pidä komission toimia eikä sen saavuttamaa edistystä riittävinä, ellei samaan aikaan myös paranneta varainhoitoa koskevia tarkastuksia, joita EU:n varojen hallinnoinnista kansallisella tasolla vastaavat eri viranomaiset suorittavat. Tilintarkastustuomioistuin käsitteli tätä aihetta huhtikuussa 2004 julkaisemassaan lausunnossa nro 2/2004 mahdollisuuksista ottaa käyttöön yhtenäinen tarkastusmalli, mihin viittasin puheenvuoroni alussa. Tämä lausunto annettiin Euroopan parlamentin pyynnöstä.
+<P>
+Yhtenäisen tarkastusmallin tarkoituksena on kehittää Euroopan unionissa tehokas ja vaikuttava sisäisen valvonnan kehys, joka takaa havaintojen luotettavuuden ja antaa kaikille valvontatoimiin osallistuville mahdollisuuden hyödyntää tehtyjä havaintoja. Tällä alalla Euroopan unionin toimielimet ja jäsenvaltiot voivat yhteistyössä kansallisten tarkastuselinten kanssa tehdä hyvin tiivistä yhteistyötä luodakseen oikeudellisen kehyksen EU:n varainhoitoa koskevien tarkastusten parantamiseksi.
+<P>
+Sallinette minun poiketa hieman esityslistasta ennen kuin päätän puheenvuoroni. Kuten tiedätte, toimikauteni tilintarkastustuomioistuimen presidenttinä päättyy tammikuussa 2005. Tuolloin päättyvä kolmevuotinen kauteni alkoi tilintarkastustuomioistuimen vuoden 2002 työohjelman esittelyllä talousarvion valvontavaliokunnassa. Olen työskennellyt näiden kolmen vuoden aikana edistääkseni ja ylläpitääkseni mahdollisimman hyvää työskentelysuhdetta Euroopan parlamenttiin pääasiassa tekemällä yhteistyötä parlamentin talousarvion valvontavaliokunnan kanssa. Olemme edistäneet tehokkaampaa viestintää, tiedonvaihtoa ja toimielintemme välistä laajempaa yhteistyötä. Katson, että tämän työn tulokset ovat kokonaisuutena ottaen myönteisiä ja että tilintarkastustuomioistuin antaa parlamentille joka päivä yhä laadukkaampaa, riippumatonta ja asiantuntevaa apua. Tämä on mahdollista saavuttaa vain, jos kunnioitetaan kummankin toimielimen riippumattomuutta ja rooleja.
+<P>
+Tilintarkastustuomioistuin on lisäksi aloittanut sisäisen organisaatio- ja rakenneuudistuksen tehostaakseen tehtäviensä hoitamista ja tehdäkseen 25 jäsenestä koostuvasta toimielimestään joustavamman ja tehokkaamman. Tämä uudistus on suoraa seurausta laajentumisesta ja Nizzan sopimuksesta, ja sen tarkoituksena on ollut varmistaa, että tilintarkastustuomioistuin toimii tehokkaasti oikeudellisen kehyksensä puitteissa.
+<P>
+Samaan aikaan tilintarkastustuomioistuin on tehnyt yhteistyötä uusien jäsenvaltioiden tarkastuselinten kanssa valmistellakseen näitä tärkeään rooliin, jossa ne toimivat yhdyssiteenä tilintarkastustuomioistuimen kyseisissä jäsenvaltioissa suorittamissa tarkastuksissa. Nämä sekä muut tekniset ja henkilöstöresursseihin kohdistuvat toimet auttavat meitä parantamaan jatkossakin työtämme laajentuneessa Euroopan unionissa. Voimmekin uskoakseni tänään juhlia näiden tavoitteiden saavuttamista.
+<P>
+Päätän esitykseni tähän. Hyvät kuulijat, kiitoksia tarkkaavaisuudestanne. [Suuret kiitokset].
+<SPEAKER ID="5" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Ennen kuin annan puheenvuoron komission edustajalle Kallasille kiitän tilintarkastustuomioistuimen presidenttiä Euroopan parlamentin puolesta hänen viime vuosien työstään.
+<P>
+Meillä on mahdollisesti ilo nähdä hänet jälleen täällä parlamentissa, sillä hänet saatetaan siirtää toisiin samantapaisiin tehtäviin. Ellei näin kuitenkaan tapahdu, tämä on hänen viimeinen esiintymisensä Euroopan parlamentissa, enkä halua jättää tätä tilaisuutta käyttämättä kertoakseni hänelle, että parlamentilla on ollut ilo työskennellä hänen ja hänen johtamansa toimielimen kanssa, mikä on erittäin tärkeää parlamentille, kun se hoitaa valvontatehtäviään. Suuret kiitokset, presidentti Fabra Vallés.
+<P>
+Kallas käyttää seuraavaksi puheenvuoron komission puolesta. 
+<SPEAKER ID="6" LANGUAGE="ET" NAME="Kallas," AFFILIATION="komission varapuheenjohtaja.">
+<P>
+   – Arvoisa puhemies, arvoisa presidentti Fabra Vallés, arvoisat Euroopan tilintarkastustuomioistuimen jäsenet, hyvät parlamentin jäsenet, saanen ensinnäkin kiittää presidentti Fabra Vallésia hänen puheenvuorostaan ja todeta jälleen kerran, että olen erittäin tyytyväinen siihen oikeudenmukaiseen ja tasapainoiseen tapaan, jolla tilintarkastustuomioistuin on esitellyt vuosikertomuksensa. Vakuutan tilintarkastustuomioistuimelle ja parlamentille, että komissio ottaa tilintarkastustuomioistuimen havainnot ja suositukset täysin huomioon.
+<P>
+Nyt haluan kuitenkin käsitellä mielestäni koko tämän prosessin keskeisintä poliittista näkökohtaa. Tämä keskeinen poliittinen kysymys koskee myönteisen tarkastuslausuman eli niin sanotun DASin kielteistä taustaa. Tämä juontaa juurensa siitä, ettei tilintarkastustuomioistuin ole jo kymmenentenä vuotena peräkkäin katsonut voivansa antaa täysin myönteistä tarkastuslausumaa.
+<P>
+Tämä niin sanottu vuosipäivä ilahdutti suuresti EU:hun epäilevästi suhtautuvaa lehdistöä ja joitakin poliitikkoja, jotka käyttivät kielteistä tarkastuslausumaa esittääkseen vääristeltyjä ja liioiteltuja väitteitä EU:n varojen hallinnoinnista yleensä. Tilanne pysyi verrattain rauhallisena tänä vuonna, mutta vain siksi, ettei kyseinen lehdistö ehtinyt puuttua asiaan keskittyessään käsittelemään Barroson komission virkaanasettamisen viivästymistä. Huolimatta näiden tietojen vääristyneisyydestä ja toimista, joilla pyrimme selittämään asiaamme, tällainen kielteinen käsitys vaikuttaa kuitenkin vuosi toisensa jälkeen yleiseen mielipiteeseen, kansanäänestyksiin ja yleiseurooppalaiseen yhteistyöhön.
+<P>
+Tämä herättää väistämättä seuraavanlaisia kysymyksiä: "kenen syytä on, että Euroopan tilintarkastustuomioistuimen tarkastuslausumat ovat olleet kielteisiä kokonaisen vuosikymmenen ajan?" ja "mitä meidän pitäisi tehdä asialle?". 
+<P>
+Jos kysyisimme komissiolta, kenen syytä tämä on, komissio vastaisi yksinkertaisesti syyttämällä jäsenvaltioita, jotka ovat panneet maksujärjestelmän huonosti täytäntöön, ja käytettyjä menetelmiä.
+<P>
+Jos kysyisimme asiaa neuvostolta, sen olisi helppo syyttää komissiota, joka on EY:n perustamissopimuksen 274 artiklan nojalla selkeästi vastuussa EU:n talousarvion toteuttamisesta.
+<P>
+Jos taas esittäisimme saman kysymyksen tilintarkastustuomioistuimelle, se korostaisi rajallisia henkilöstöresurssejaan ja tehtävänsä laajuutta. Tilintarkastustuomioistuin myöntää ajoittain komission edistymisen, mutta EY:n perustamissopimuksessa ei anneta tilintarkastustuomioistuimelle kovinkaan paljon liikkumavaraa, joten tuloksena on kielteinen tarkastuslausuma. Hyvät parlamentin jäsenet, millainen olisi puolestaan Euroopan parlamentin vastaus? Toisaalta parlamentti halusi hyväksyä talousarvion, mutta toisaalta on syntynyt vaikutelma, että parlamentti on ottanut kielteisen tarkastuslausuman huomioon. Tällaisessa tilanteessa on vaikea saavuttaa tasapainoa.
+<P>
+Olen iloinen, että talousarvion valvontavaliokunnan puheenjohtajana toimii tänä vuonna jäsen Fazakas ja että vastuuvapautta käsittelevänä esittelijänä toimii jäsen Wynn, jonka kanssa olemme yhtä mieltä tilanteen vakavuudesta. Tämä tarkoittaa, että meillä on varaa olla kunnianhimoisia. Meidän kaikkien pitäisi asettaa tavoitteemme pelkkää talousarviota koskevan vastuuvapauden myöntämistä korkeammalle.
+<P>
+Kaikkien neljän toimielimen tulisi laatia yhdessä toimintasuunnitelma myönteisen tarkastuslausuman saamiseksi lähitulevaisuudessa. Tämä ongelma on ratkaistava, ja komissio on valmis tekemään oman osansa.
+<P>
+Kommentoin seuraavaksi lyhyesti talousarvion valvontavaliokunnassa käytyjä keskusteluja. Pidän myönteisenä parlamentin tänä vuonna valitsemaa käsittelyn ajankohtaa, muotoa ja lähestymistapaa. Valiokunnassa viime viikosta lähtien käydyissä keskusteluissa on esitetty erittäin tärkeitä kysymyksiä, joilla on pyritty selventämään tiettyjä keskeisiä ratkaisematta olevia kysymyksiä. Tämäntyyppisen lähestymistavan avulla voimme nähdäkseni parantaa vuoropuhelumme laatua.
+<P>
+Ilahduin huomatessani, että yksi valiokunnan pohtimista avainkysymyksistä oli se, miten saisimme tulevaisuudessa myönteisen tarkastuslausuman maksujen osalta. Myönteisen tarkastuslausuman pitäisi tarkoittaa, että vastuuvapauden myöntäjällä on riittävä luottamus siihen, että valvontaviranomaiset ovat tietoisia menoista ja että he minimoivat sääntöjenvastaisuuksien riskin kohtuullisilla hallintokustannuksilla.
+<P>
+EY:n perustamissopimuksen määräyksistä huolimatta komissio ei pysty saavuttamaan tätä tavoitetta yksin. Komission, jäsenvaltioiden ja tilintarkastustuomioistuimen on koordinoitava laajemmin tarkastusprosesseja ja talousarvion valvontaprosesseja. Riskien minimoiminen edellyttää paljon tehokkaampia valvontatoimia, mikä puolestaan tarkoittaa tarkastuksissa ilmenneiden puutteiden korjaamista ja päällekkäisyyden poistamista.
+<P>
+Esimerkiksi jäsenvaltioiden suorittamien maksujen osalta tämä tarkoittaa sitä, että jäsenvaltioiden olisi esitettävä luotettavia tarkastustodistuksia, joihin kokonaisvastuun kantava komissio voi luottaa.
+<P>
+Sanomattakin on selvää, etteivät jäsenvaltiot ole olleet kovinkaan innostuneita ottamaan tällaista lisävastuuta. Me emme ole ehkä myöskään onnistuneet motivoimaan jäsenvaltioita riittävästi, jotta ne osoittaisivat enemmän kuin pelkästään kausiluonteista kiinnostusta talousarviota koskevan vastuuvapauden myöntämisen kysymyksiin.
+<P>
+Kun tilintarkastustuomioistuin esitteli vuosikertomuksensa talous- ja raha-asioiden neuvostolle viime viikolla, tärkein viestini neuvostolle oli se, ettei vastuuvapauden myöntäminen ole pelkästään komission ja parlamentin kahdenvälinen asia. Meidän pitäisi pyrkiä löytämään uusia tapoja ja tilaisuuksia muistuttaa jäsenvaltioita tästä. Toivottavasti parlamentti ja tämänpäiväinen keskustelu auttavat omalta osaltaan edistämään tätä asiaa.
+<P>
+Komissio puolestaan tekee oman osansa tässä työssä. Meidän kannaltamme yksi tärkeimmistä haasteista on kirjanpitojärjestelmä. Tältä osin haluan korostaa, että komissio on edistynyt merkittävästi kirjanpitojärjestelmän uudistamisessa ja suoriteperusteiseen kirjanpitoon siirtymisessä. Kun uusi järjestelmä on käytössä vuonna 2005, komissio on paljon useimpia Euroopan unionin jäsenvaltioiden julkishallintoja edellä.
+<P>
+Arvoisa puhemies, arvoisa presidentti Fabra Vallés, arvoisat tilintarkastustuomioistuimen jäsenet, hyvät parlamentin jäsenet, en ole käyttänyt minulle myönnettyä puheaikaa luetellakseni kaikkia komission toteuttamia toimia, joita tilintarkastustuomioistuin on pitänyt vuosikertomuksessaan myönteisinä.
+<P>
+Saanen vain todeta, että olemme tietysti tyytyväisiä myönteiseen tarkastuslausumaan, jonka tilintarkastustuomioistuin on antanut tilien luotettavuudesta. Olemme tyytyväisiä myös siihen, että tämänvuotisen tilinpäätöksen esittämisessä tapahtuneet parannukset on tunnustettu. Arvostamme tietenkin samoin varauksettoman myönteistä tarkastuslausumaa, jonka tilintarkastustuomioistuin on antanut omien varojen, maksusitoumusmäärärahojen ja hallintomenojen osalta.
+<P>
+Nyt minulla on tilaisuus vastata aiemmin esitettyyn kohteliaisuuteen. Euroopan unionin varainhoidon merkittävä parantuminen kaikilla tasoilla, mikä takaa EU:n kansalaisille huomattavasti suuremman kustannustehokkuuden, on pitkälti tilintarkastustuomioistuimen kertomusten ansiota. Haluan kiittää presidentti Fabra Vallésia erittäin lämpimästi tilintarkastustuomioistuimen korvaamattomasta panoksesta. Vuoden 2003 talousarviota koskeva vastuuvapausmenettely on alkanut. Haluan päättää puheenvuoroni toistamalla, että kaikilla toimielimillä on sekä intressi että velvollisuus osallistua aktiivisesti edessä olevaan prosessiin. Minä ja kollegani komissiossa haluamme keskustella kanssanne siitä, miten voimme saada aikaan parhaan tuloksen ja parhaan tavan arvioida tätä tulosta. Tämä on mielestäni meidän kaikkien etujen mukaista.
+<P>
+Kiitos. 
+<SPEAKER ID="7" LANGUAGE="EN" NAME="Busuttil (PPE-DE )," AFFILIATION="ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, on valitettavaa, että muut tapahtumat, kuten uuden komission valinta, ovat varjostaneet näin tärkeän kertomuksen käsittelemistä, kun meidän kaikkien pitäisi antaa erittäin suuri painoarvo sille, miten Euroopan unioni käyttää veronmaksajien rahoja talousarvionsa toteuttamiseen.
+<P>
+Olen tyytyväinen, että tämänvuotisessa kertomuksessa viitataan EU:n talousarvion toteuttamisessa tapahtuneisiin parannuksiin ja että varainhoidon valvonnan tiukentamisessa on edistytty. Kuten komission jäsen mainitsi, kielteinen tarkastuslausuma kuitenkin lisää entisestään turhautuneisuuttamme. Kertomuksessa myös viitataan jatkuviin puutteisiin erityisesti maataloudessa ja rakennetoimissa, joiden osalta jäsenvaltiot käyttävät EU:n varoja yhdessä tai kukin jäsenvaltio suoraan itse.
+<P>
+Uuden jäsenvaltion kansalaisena olen erityisen järkyttynyt havainnosta, että huomattava summa eri jäsenvaltioille osoitetuista varoista jää säännönmukaisesti käyttämättä. Tämän pitäisi lähettää erityisesti uusien jäsenvaltioiden viranomaisille selvä viesti siitä, että elleivät ne saa asioitaan järjestykseen, on olemassa vakava uhka, etteivät ne pysty ottamaan EU:n varoja vastaan, mikä ei ole tietenkään hyvä uutinen.
+<P>
+Uudet rahoitusnäkymät huomioon ottaen budjetoitujen ja todellisten menojen välisen jatkuvan ristiriidan pitäisi myös viestittää meille, että voimme tuskin kaavailla EU:n talousarvion kasvattamista ja määrärahojen lisäämistä, ellemme pysty hyödyntämään käytettävissämme jo olevia varoja.
+<P>
+PPE-DE-ryhmä jatkaa ehdottomasti painostustaan, jotta EU:n talousarviota toteutettaisiin vaikuttavasti, tehokkaasti ja tiukimpia riippumattomuusvaatimuksia noudattaen. Haluamme veronmaksajien kokevan, että Euroopan unioni käyttää heidän rahojaan tehokkaasti, ja mikä tärkeintä, että he saavat hyvän vastineen rahoilleen.
+<P>
+Olemme mielestäni oikealla tiellä, mutta meillä on vielä pitkä matka kuljettavanamme. Onnittelen uutta komission jäsentä nimityksestä ja kehotan häntä toimimaan tältä osin tiennäyttäjänä. 
+<SPEAKER ID="8" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="9" LANGUAGE="HU" NAME="Fazakas (PSE )," AFFILIATION="ryhmän puolesta">
+<P>
+   .  Haluan ilmaista talousarvion valvontavaliokunnan nimissä kiitollisuuteni siitä, että meillä oli 15. marraskuuta 2004 mahdollisuus pitää täysistuntomme samanaikaisesti Barroson komission kuulemisten kanssa. Euroopan tilintarkastustuomioistuimen vuosikertomus varainhoitovuodelta 2003 esiteltiin parhaillaan käynnissä olevassa istunnossa. Tämä on yksi Euroopan parlamentin tärkeimmistä tehtävistä, ja vuosikertomuksen esittely oli merkki vastuuvapausmenettelyn alkamisesta. Presidentti Fabra Vallés esitti kattavan varainhoitovuotta 2003 koskevan arvion. Arvostamme tilintarkastustuomioistuimen oikeudenmukaista, asiantuntevaa ja tasapainoista kertomusta.
+<P>
+Kuten tiedätte, valiokuntamme ryhtyi tänä vuonna uudistamaan vastuuvapausmenettelyä. Monimutkaiset ja persoonattomat kirjalliset kyselyt on korvattu komission jäsenten suullisilla kuulemisilla, mikä luo avoimen, vireän ja mielekkään keskustelufoorumin. Parlamentin, komission ja tilintarkastustuomioistuimen välille on kehittynyt hedelmällinen vuoropuhelu. Kiitän komission ja erityisesti komission jäsenen Siim Kallasin myönteistä asennetta ja yhteistyöhön perustuvaa lähestymistapaa. Päätän puheenvuoroni toteamalla, että Euroopan tilintarkastustuomioistuimen ottaminen mukaan vastuuvapausmenettelyyn ja vastuuvapautta käsittelevän esittelijän roolin korostaminen otettiin kokonaisuutena ottaen hyvin vastaan, kuten jäsen Terence Wynn kertoo myöhemmin yksityiskohtaisesti. 
+<SPEAKER ID="10" LANGUAGE="NL" NAME="Mulder (ALDE )," AFFILIATION="ryhmän puolesta">
+<P>
+   .  Arvoisa puhemies, aloitan kiittämällä presidentti Fabra Vallésia tavasta, jolla hän on viimeisten kolmen vuoden aikana ollut aina valmis käymään avointa vuoropuhelua parlamentin kanssa. Haluan lisäksi toivottaa komission jäsenelle Kallasille menestystä uudessa tehtävässä. Toivon hänen vuokseen, että Euroopan tilintarkastustuomioistuin antaa myönteisen tarkastuslausuman hänen toimikautensa päättyessä.
+<P>
+Euroopan parlamentin vaalit ovat useimmilla meistä vielä tuoreessa muistissa. Kuten komission jäsen Kallas huomautti puheenvuoronsa alussa, olemme kuulleet yhtenä tärkeimpänä arvostelunaiheena toistuvasti sen, ettei komissio ole kymmenen vuoden jälkeenkään onnistunut saamaan tilintarkastustuomioistuimelta myönteistä tarkastuslausumaa. Tämä antaa uutta pontta EU:hun epäilevästi suhtautuville henkilöille ja tahoille. Meidän on pyrittävä kaikin voimin saamaan tilintarkastustuomioistuimelta myönteinen lausuma. Tilintarkastustuomioistuimen pitäisi kuitenkin ilmaista selvemmin, mitä komission on tarkkaan ottaen tehtävä saadakseen myönteisen lausuman. Mitkä ovat sen kriteerit? Luen joka vuosi tilintarkastustuomioistuimen vuosikertomuksesta, että parannusta tapahtuu, mutten koskaan tiedä, miten paljon. Mitä ovat ne konkreettiset toimet, joihin meidän tulisi ryhtyä? Parlamentti on esittänyt aiempina vuosina muutamia ehdotuksia, esimerkiksi rahoituskorjausten lisäämistä. Millainen vaikutus tällä oikeastaan oli? Arvioiko tilintarkastustuomioistuin koskaan ehdotusta?
+<P>
+Viime vuonna mainitsimme päätöslauselmassamme erityisesti, että mikäli kävisi ilmi, että varoja käytetään tietyllä alalla edelleenkin epäasianmukaisesti, komission olisi keskeytettävä ennakoiden maksaminen. Tilintarkastustuomioistuimen huomautuksia koskevassa komission vastauksessa todetaan, että näin itse asiassa tehdään jo säännöllisesti. Millainen vaikutus tällä tarkasti ottaen oli? Oliko siitä hyötyä? Entä mikä on tilanne Euroopan tilintarkastustuomioistuimen ja kansallisten tilintarkastuselinten tekemän yhteistyön osalta? Soveltavatko kansalliset tilintarkastuselimet tarkastuslausumaan samoja kriteerejä kuin Euroopan tilintarkastustuomioistuin? Eikö jäsenvaltion ole mahdollista allekirjoittaa jokaisen varainhoitovuoden päättyessä lausumaa, jonka mukaan kaikki menot ovat ? Jos tämä ei myöhemmin näytä pitävän paikkaansa, eikö komissio voi rangaista kyseistä jäsenvaltiota meidän petkuttamisestamme? Nämä kaikki ovat konkreettisia toimia, joihin voitaisiin ryhtyä. Voisiko tilintarkastustuomioistuin arvioida näitä toimia yksityiskohtaisemmin? Mielestäni meidän on tärkeää tietää, mihin olemme pyrkimässä.
+<P>
+Keskustelimme eilen uusista rahoitusnäkymistä. Useimmat jäsenvaltiot ilmoittavat, ettei niille riitä joidenkin jäsenvaltioiden vaatima yksi prosentti. Miten jäsenvaltiot voivat perustella tällaista vaatimusta, jos vuosi toisensa jälkeen ilmenee, ettei rahoja käytetä asianmukaisesti? Lisärahoitusta koskevat vaatimukset menettävät näin osan painoarvostaan, ja uskonkin näin ollen, ettei Euroopan tilintarkastustuomioistuimen työstä tule helppoa.
+<P>
+Olin myös yllättynyt luettuani varainhoitovuotta 2003 koskevan vuosikertomuksen yleiseen johdantoon sisältyvän 0.6 kohdan. Siinä todetaan, ettei maksamatta olevien maksusitoumusten lisäys ole koskaan ollut näin suuri. Vuoden 2003 lopussa maksamatta olevien maksusitoumusten määrä vastaa viiden vuoden maksuja. Määrä on uskomattoman suuri. Voisimme toisin sanoen jatkaa viisi vuotta tekemättä ainuttakaan uutta sitoumusta. Olenko väärässä ajatellessani, että tämä viiden vuoden ajanjakso vain säilyy tulevaisuudessakin?
+<P>
+Katsonkin, että meillä on paljon tehtävää. Emme voi hyväksyä sitä, ettemme saa tarkastuslausumaa kahden tai kolmen vuoden ajalta. Komission on laadittava selkeät kriteerit, jotka Euroopan tilintarkastustuomioistuimen on vahvistettava. Tilintarkastustuomioistuimen on samalla myös ilmoitettava, missä määrin komissio on saavuttanut itselleen asettamansa tavoitteet. 
+<SPEAKER ID="11" LANGUAGE="NL" NAME="Staes (Verts/ALE )," AFFILIATION="ryhmän puolesta">
+<P>
+   .  Arvoisa puhemies, arvoisa komission jäsen, arvoisat tilintarkastustuomioistuimen jäsenet, hyvät parlamentin jäsenet, haluan ensinnäkin toivottaa presidentti Fabra Vallésille kaikkea hyvää hänen jatkourallaan. Meillä on aina ollut hyvä työskentelysuhde, minkä halusin todeta täällä istunnossa.
+<P>
+Haluan myös toivottaa komission jäsenen Kallasin tervetulleeksi. Tämä on ymmärtääkseni hänen ensimmäinen täysistuntokeskustelunsa, ja haluaisin taputtaa häntä heti selkään rohkaisuksi. Minua ilahduttaa, että komission jäsen Kallas on lukenut kirjeen, jonka talousarvion valvontavaliokunta ja yksittäiset parlamentin jäsenet, esimerkiksi jäsen Bonde ja jäsen van Buitenen, kirjoittivat, ja on noudattanut kirjeessä esitettyä pyyntöä lykkäämällä Martha Andreasenin erottamista joksikin aikaa, jotta voidaan varata aikaa hänen kuulemiseensa ja sen toteamiseen, oliko erottaminen todella perusteltu.
+<P>
+Arvoisa presidentti Fabra Vallés, kuuntelin puheenvuoroanne erittäin kiinnostuneena, ja jäsen Mulderin ja monien muiden parlamentin jäsenten tapaan minun on todettava, että kuulemme saman tarinan joka vuosi. Varainhoidossa tehdään valtavia virheitä, kuten saimme myös huomata luettuamme viime viikolla julkaistun OLAFin kertomuksen. Ongelmana on mielestäni kokonaisuutena ottaen seuranta, ja tältä osin haluaisin pyytää tilintarkastustuomioistuinta osoittamaan erityisesti ne lainsäädännön osat ja säännökset, jotka mahdollistavat petokset. Tilintarkastustuomioistuimen on mahdollisesti laadittava yhdessä parlamentin kanssa aikataulu tällaisen lainsäädännön muuttamiselle. Komission pitäisi tämän jälkeen ryhtyä toimiin, joissa näitä kysymyksiä käsitellään yhtenä kokonaisuutena.
+<P>
+Panen jälleen kerran merkille, ettei neuvosto ole läsnä täysistunnossa. Minusta on häpeällistä, että vuosi toisensa jälkeen toinen budjettivallan käyttäjistä epäonnistuu vastuuvapausmenettelyn arvioinnissa ja asianmukaisessa seuraamisessa. Myös neuvostolta saamamme vastuuvapautta koskevat asiakirjat ovat aina kiusallisen heikkoja, eikä niillä ole itse asiassa paljoakaan merkitystä. Haluankin ehdottaa, että tästä lähtien, kun tilintarkastustuomioistuin arvostelee eri politiikanalojen näkökohtia, neuvostolta pyydetään, että asianomaiset neuvostot vastaavat tähän arvosteluun, jotta voimme varmistaa vastuuvapausmenettelyn etenemisen asianmukaisemmalla tavalla. Tässä menettelyssähän vastuuvapaus myönnetään nimenomaan yhteisestä sopimuksesta. 
+<SPEAKER ID="12" LANGUAGE="EN" NAME="Titford (IND/DEM )," AFFILIATION="ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, tilintarkastustuomioistuimen vuoden 2003 vuosikertomusta koskevissa huomautuksissani toistuvat valitettavasti viime vuonna esittämäni ajatukset. Vain vähän on muuttunut viime vuodesta: tilinpäätöstä ei ole hyväksytty, eikä tilintarkastustuomioistuin voi hyväksyä noin 94 prosenttia sen perustana olevista tiedoista, koska ne ovat joko epäluotettavia tai vilisevät virheitä. Yli puolet komission pääjohtajista allekirjoitti lausumansa varaumin. Näin EU toteaa, ettei "minulla ole aavistustakaan". Kaikki tämä kuulostaa liian tutulta.
+<P>
+Niin sen tosin pitäisikin, sillä näin on tapahtunut kymmenen pitkän vuoden ajan. Kotimaassani ryhdyttäisiin hyvin tiukkoihin toimenpiteisiin minkä tahansa yrityksen osalta, joka esittäisi yhden epäluotettavan tilinpäätöksen, mutta EU on selvinnyt tästä jopa kymmenen vuoden ajan, kuten jo totesin. Suuren murhenäytelmän tästä tekee se, että tätä vuosikymmenen jatkunutta korruption ja väärinkäytösten tarua rahoittavat veronmaksajaraukat.
+<P>
+Tämän toimielimen kykenemättömyydestä ei voi olla parempaa todistusta kuin se, että tällaisen skandaalin on annettu jatkua näin kauan. Marta Andreasen kuitenkin erotettiin, koska hän kertoi totuuden. Parlamentti hyväksyi myös päätöslauselman, jossa alueiden komitean pääsihteeriä ja puheenjohtajaa vaadittiin esittämään sisäiselle tarkastajalle anteeksipyyntönsä tämän kärsimästä ahdistelusta, mutta tämä ei ole näköpiirissä. Skandaali vain jatkuu ja jatkuu.
+<P>
+Tilintarkastustuomioistuimen kertomuksessa yritetään sälyttää syy tästä kauheasta sotkusta jäsenvaltioille, mutta meidän ei pitäisi elätellä mitään harhakuvitelmia siitä, kenen syytä tämä todellisuudessa on. Euroopan komissio on jäsenvaltioiden Euroopan unionille maksamien varojen ainoa hallinnoija, ja sillä yksin on valta peruuttaa maksuja, mikäli se havaitsee väärinkäytöksiä. Komissio on sen sijaan vain istunut kädet ristissä ja katsonut muualle kymmenen pitkän vuoden ajan.
+<P>
+Komissio ei kuitenkaan ole tietenkään ainoa paikka, jossa ihmisten pitäisi hävetä. Ison-Britannian pääministerin Blairin ja hänen kollegoidensa pitäisi hävetä sitä, että he ovat jatkaneet veronmaksajien rahojen syytämistä Euroopan unioniin 1,5 miljoonan punnan tuntivauhdilla, vaikka tietävät aivan hyvin, millainen sotku koko EU:n varainhoito on. Ison-Britannian hallituksella on velvollisuus käyttää veronmaksajien rahoja viisaasti. Hallitus kuitenkin epäonnistuu poikkeuksellisen pahasti tässä tehtävässä.
+<P>
+Eikö tämä tilanne vaivaa ketään? Se vaivaa ainakin minua ja puoluettani. Pyrimme saamaan tulevaisuudessa aikaan joitain muutoksia.
+<SPEAKER ID="13" LANGUAGE="EN" NAME="Mote (NI )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, tilintarkastustuomioistuin on valvonnan irvikuva, sillä julkisten varojen väärinkäytökset lähtevät näiden varojen maksajista, minkä vuoksi tilintarkastustuomioistuimen on mahdotonta toimia tehokkaasti. Ne harvat rehelliset, kokeneet ja asiantuntevat tilintarkastajat, jotka on koskaan päästetty lähelle komission kassanhallinnan ydintoimintoja, ovat kaikki kertoneet julkisesti säännönmukaisista väärinkäytöksistä. Kirjanpitojärjestelmä ei ole luotettava, varainhoitoa koskeviin tietoihin tehtyjä muutoksia ei voi jäljittää eikä uusi järjestelmä ole juuri entistä parempi. Uudet säännökset, joiden on määrä tiukentaa tarkastuksia, itse asiassa lisäävät petosten vaaraa. Tilintarkastustuomioistuin ja OLAF keskittyvät ongelmiin, joita ilmenee sen jälkeen, kun varat on maksettu unionin talousarviosta. Tämä taas vähentää komissioon kohdistuvaa arvostelua, vaikka todelliset ongelmat ovat juuri siellä. Miksi muuten kassanhallinnassa ei ole suoritettu riippumatonta tarkastusta yli 14 vuoteen? Tämä on skandaali! 
+<SPEAKER ID="14" LANGUAGE="EN" NAME="Elles (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, kuten olemme kuulleet, tämä on kymmenes peräkkäinen vuosi, kun tilintarkastustuomioistuin ei ole voinut antaa myönteistä tarkastuslausumaa Euroopan unionin tilinpäätöksestä. Me konservatiivit pidämme tätä asiaintilaa valitettavana ja yhdymme toiveisiin siitä, että varainhoitojärjestelmän puutteet olisi jo korjattu täysin tähän mennessä. Epäilen, ettei tätä asiaa pidetty edellisinä vuosina todella ensisijaisen tärkeänä, vaikka yksi komissio erotettiinkin joidenkin tähän liittyvien ongelmien vuoksi.
+<P>
+Pidän myönteisenä uuden komission jäsenen Kallasin ensiesiintymistä parlamentissa. Jos muistan oikein, hän totesi kuulemisessaan aikovansa varmistaa, että väärinkäytös- ja petostapauksiin sovelletaan nollatoleranssia. Pelkät suulliset lupaukset eivät kuitenkaan riitä, vaan niiden lisäksi on ryhdyttävä myös konkreettisiin toimiin.
+<P>
+Toisin kuin kaksi edellistä puhujaa, jotka ovat täällä vain aiheuttaakseen tuhoa ja esittääkseen arvostelua, me konservatiivit haluaisimme nähdä, että seuraaville viidelle vuodelle asetetaan kolme prioriteettia. Ensimmäinen niistä koskee kirjanpitojärjestelmää. Meidän on myönnettävä, että nykyisessä järjestelmässä on ilmennyt merkittäviä puutteita, mutta olemme siirtymässä uuteen järjestelmään, kuten komission jäsen ja tilintarkastustuomioistuimen presidentti totesivat. Pidämme tätä tärkeää askelta myönteisenä mutta seuraamme sitä hyvin tiiviisti saadaksemme tarkan kuvan siitä, mitä tällä muutoksella saadaan aikaan.
+<P>
+Toiseksi ilmiantajia koskevan kysymyksen osalta olemme usein saaneet tietoja väärinkäytöksistä, esimerkiksi Eurostatin tapauksessa, mutta näitä tietoja ei ole hyödynnetty väärinkäytösten tutkimiseksi. Meillä on oltava järjestelmä, joka antaa ihmisille mahdollisuuden astua esiin ja kertoa yksityiskohtaisesti, mitä on tekeillä.
+<P>
+Viimeinen ja kaikkein tärkein on jaetun hallinnoinnin kysymys. Minä ja muut konservatiivit kiitämme tilintarkastustuomioistuimen presidenttiä erinomaisesta työstä, koska hän on keskittynyt Euroopan unionissa olevaan todelliseen ongelmaan. Kyse ei ole niinkään petoksista ja korruptiosta vaan siitä, että tiedetään, mihin rahat menevät. Tähän tarkoitukseen voidaan käyttää jäsenvaltioiden tarkastustodistuksia tai sisäistä valvontajärjestelmää, kuten tilintarkastustuomioistuimen presidentti on ehdottanut. Meidän on pystyttävä varmistamaan, että saamme tulevaisuudessa myönteisen tarkastuslausuman eli DASin. Meidän on myös varmistettava, että otamme jäsenvaltiot mukaan tähän järjestelmään ja teemme jäsenvaltioiden viranomaisista vastuullisia, jotta Euroopan unionin varoille saadaan asianmukaisesti täyttä vastinetta. 
+<SPEAKER ID="15" LANGUAGE="EN" NAME="Wynn (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, toimin kymmenen vuotta sitten vastuuvapautta käsittelevänä esittelijänä ja annoin tuolloin lausunnon, jonka mukaan emme koskaan saisi myönteistä tarkastuslausumaa eli DASia. Totesin näin, koska komissiota koskevista puutteista tai kaikista sääntöjenvastaisuuksiin liittyvistä epäkohdista huolimatta saatoimme nähdä kymmenen vuotta sitten aivan selvästi, että unionissa oli kaksi yhteensopimatonta järjestelmää: tilintarkastustuomioistuimen tarkastustensa suorittamiseen käyttämä järjestelmä ja komission silloisessa toiminnassaan käyttämä järjestelmä.
+<P>
+Viimeisten kymmenen vuoden aikana on tapahtunut muutoksia. Tilintarkastustuomioistuin on muuttanut menetelmiään, muun muassa siirtynyt neljän pilarin järjestelmään, ja komissiossa on toteutettu Neil Kinnockin käynnistämiä uudistuksia. Olen kuitenkin edelleen vakuuttunut siitä, ettemme saa 1. tammikuuta 2005 alkaen sovellettavista varainhoitoa koskevista uusista säännöksistä ja uusista kirjanpitojärjestelmistä huolimatta edelleenkään myönteistä tarkastuslausumaa, mikä johtuu tavasta, jolla asioita organisoidaan. Haluan osoittaa yhden huomautuksen jäsen Titfordille. Kotimaanne Yhdistyneen kuningaskunnan sosiaaliturvaministeriö ei ole onnistunut saamaan tileilleen hyväksyntää viimeiseen 14 vuoteen. Yhdysvaltojen liittovaltion budjetin tilejä ei ole hyväksytty viimeiseen kuuteen vuoteen. Euroopan unioni ei siis ole tässä suhteessa ainutkertainen organisaatio. Jäsen Titford, olisi ollut hyödyllistä, jos olisitte todellakin osallistuneet järjestämiimme kuulemisiin, nimittäin kaikkiin kuuteen niistä. Jäsen Mote oli sentään läsnä joissakin kuulemisissa ja esitti muutamia kysymyksiä, mutta jäsen Mote edustaakin Euroopan parlamentissa Sitoutumattomia eikä Itsenäisyys/demokratia-ryhmää, kuten jäsen Titford, vaikka molemmat ovatkin Yhdistyneen kuningaskunnan itsenäisyyspuolueen jäseniä.
+<P>
+Yhtä kaikki, varsinaiseen asiaan palatakseni toteaisin, että komissio ilmoittaa käyttävänsä tilien tarkastamis- ja hyväksymismenettelyä, koska varainhoitoasetuksessa säädetään niin. Näin komissio valvoo esimerkiksi maatalousmenoja. Komission asenne on siis se, että he voivat periä varat takaisin. Miksei tilintarkastustuomioistuin sisällytä tätä DASiin? Haluan korostaa, että tilien tarkastamis- ja hyväksymismenettelyä käytettäessä rahat peritään itse asiassa takaisin jäsenvaltioilta. Rahoja ei peritä takaisin maanviljelijöiltä tai edunsaajajärjestöiltä, mikä tarkoittaa sitä, että jäsenvaltioiden veronmaksajat maksavat kaikista sääntöjenvastaisuuksista tai petoksista aiheutuvan laskun.
+<P>
+Tilintarkastustuomioistuin toteaa tältä osin, että takaisinperintä on hyvä asia mutta että meillä pitäisi olla järjestelmä, jossa takaisinperintään ei ole tarvetta. Järjestelmän pitäisi siis olla parempi. Tämä on hyvin ymmärrettävää. Komissio puolestaan sanoo olevansa samaa mieltä mutta ilmoittaa samalla, että tilintarkastustuomioistuimen toiveiden toteuttaminen maksaa niin paljon, ettei se ole yksinkertaisesti kustannustehokasta. Tämä on minusta myös ymmärrettävää.
+<P>
+Tarkastelen seuraavaksi useita eri päätelmiä, jotka perustuvat talousarvion valvontavaliokunnassa järjestettyihin kuuteen komission jäsenten ja tilintarkastustuomioistuimen kuulemiseen. Kaikille on ilmiselvää, että yksi tärkeimmistä ongelmista koskee jaettua hallinnointia. Kuten yksi tilintarkastustuomioistuimen jäsenistä totesi kuulemisten kuluessa, ongelmana ei ole valvonta eivätkä tarkastukset vaan hallinnointi. Alankin uskoa, että tarvitsemme järjestelmän, jossa jäsenvaltioiden tarkastuselimet tehdään vastuullisiksi toimien laillisuutta ja asianmukaisuutta koskevan lausuman antamisesta.
+<P>
+Vaikuttaa oudolta, että jaetun hallinnoinnin järjestelmässä vain toisen osapuolen on kannettava vastuu. Tämä merkitsee muutoksia lainsäädäntöön ja neuvoston ja jäsenvaltioiden välistä yhteistyötä. Tilintarkastustuomioistuimen osalta minut on vielä vakuutettava siitä, että kaksi presidentti Fabra Vallésin mainitsemista neljästä pilarista ovat luotettavia.
+<P>
+Olen todella huolestunut tarkastettujen toimien määrästä ja kyseenalaistan myös sen, miten laajasti muiden tarkastajien työtä on hyödynnetty. Tarvitsemme säännöllisesti esitettävän toimintakertomuksen, jossa käsitellään kansallisten tarkastuselinten kanssa tehtyä yhteistyötä, jotta voimme olla varmoja, että neljä pilaria tuottavat avoimen ja läpinäkyvän tarkastuslausuman. Parlamentti myös pyytää tilintarkastustuomioistuinta toistuvasti jakamaan tarkastuslausumansa osiin niin, että budjettivallan käyttäjä tietää täsmälleen, missä ongelmat ovat.
+<P>
+Olemme tilanteessa, jossa tilintarkastustuomioistuin asettaa lukuisia sääntöjä, joita komissio ei voi koskaan noudattaa kohtuullisin kustannuksin säännöistä saatavaan hyötyyn verrattuna, vaikka se tekisi mitä tahansa. En yritä venyttää sääntöjä vaan saada ne sopimaan. Pyydän tilintarkastustuomioistuinta laatimaan säännöt, joita voidaan noudattaa. Kuvitelkaa Barcelona ja Manchester United pelaamassa Eurooppa-cupin finaalissa. Katsomossa on 70 000 ihmistä, ja kaikkien katse on kiinnittynyt kenttään ja pelaajiin. Koko Eurooppa seuraa kentän tapahtumia. Sitten kentälle tulee erotuomari, joka kävelee keskiympyrään ja asettaa Wayne Rooneyn jalkoihin jalkapallon sijasta rugby-pallon. Kun pelaajat yrittävät huomauttaa ongelmista, joita soikealla pallolla pelaaminen heille aiheuttaisi, erotuomari toteaa vain, että älkää välittäkö pallosta, jatkakaa peliä!
+<P>
+Tällainen on suoraan sanottuna asenne, jonka tilintarkastustuomioistuin on omaksunut järjestelmän muuttamista koskeviin pyrkimyksiin. Siis älkää välittäkö pelivälineestä vaan jatkakaa peliä. Haluan kuitenkin tehdä yhden asian selväksi: tämä analogia ei tarkoita, että komissiota tai jäsenvaltioita tulisi pitää julkishallinnon eliittinä.
+<P>
+Esitän lopuksi vielä yhden huomautuksen. Olen onneksi uusia rahoitusnäkymiä käsittelevän väliaikaisen valiokunnan jäsen. Meidän ei pitäisi sopia uusista rahoitusnäkymistä ennen kuin olemme ratkaisseet tämän jäsenvaltioiden luotettavuutta ja vastuuta koskevan ongelman. 
+<SPEAKER ID="16" LANGUAGE="FI" NAME="Virrankoski (ALDE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, ensinnäkin haluan kiittää tilintarkastustuomioistuinta ja erityisesti sen puheenjohtajaa Fabra Vallésta vuotuisesta tilintarkastuskertomuksesta ja sen esittelystä täällä täysistunnossa. Tilinpäätös osoittaa EU:n hallinnon heikkoudet. Erityisesti rakenteellisissa toimissa on ongelmia. Viime vuonna jäi käyttämättä peräti 8,3 miljardia euroa, koska kesken vuotta maksuja vähennettiin jo 5 miljardia ja silti tilinpäätös osoittaa vielä 3,1 miljardin euron vajaakäyttöä. Kaiken kaikkiaan vuosina 2000–2003 valmiiksi budjetoituja maksumäärärahoja on jäänyt käyttämättä 34 miljardia euroa. Tästä on seurannut, että maksamattomat sitoumukset ovat kasvaneet 69,3 miljardiin euroon eli vanhojen rästien maksamiseen tarvitaan tulevaisuudessa kahden vuoden määrärahat kokonaan.
+<P>
+Rakennepolitiikan hallinto antaakin aihetta perusteelliseen uudelleenarviointiin uusia asetuksia laadittaessa. Toinen ongelma muodostuu maatalousmenojen sääntöjenvastaisista maksuista, joita vuoden 1971 ja viime vuoden välisenä aikana on kertynyt 3,1 miljardia euroa. Näistä on peritty takaisin vain 17 prosenttia. Jatkossa olisi päästävä järjestelmään, jossa aiheettomat maksut voidaan suoraan pidättää jäsenmaalle seuraavana vuonna maksettavista tuista ja jäsenmaan kontolle jää takaisinperintä.
+<P>
+Nyt esitetty tilinpäätös ja tilintarkastuskertomus ovat ensimmäisiä, jotka perustuvat uuteen varainhoitoasetukseen. Siksi niiden merkitys jatkoa ajatellen on suuri. Tarkastuskertomuksen tarkastuslausuma antaa jälleen aihetta huoleen. Jo kymmenennen kerran peräkkäin lausuma ei ole puhdas eikä se voi antaa vakuutusta siitä, että maksujen osalta komission menot olisivat kaiken kaikkiaan lailliset ja asianmukaiset. Tämä tekee tilanteen hallinnan vaikeaksi. Jos komissio ei ole hoitanut toimiaan kaiken kaikkiaan laillisesti ja asianmukaisesti, lähtökohtana tulisi olla, että komission olisi erottava. Sen olisi ollut erottava jokaisena kymmenenä vuotena. Laillisuus ja asianmukaisuus ovat kaiken hallinnon perusta. Kuitenkin ainoastaan Santerin komissio erosi ja eron syyt olivat enemmän poliittiset kuin juridiset.
+<P>
+Vastuuvapauden arvioinnissa joudutaan ottamaan pohjaksi se, mikä on inhimillisesti katsoen oikein. Kysymykseksi kiteytyy, onko tilejä ja hallintoa hoidettu siten kuin huolellinen mies hoitaa omaa talouttaan. Myös virheiden laatu on ratkaiseva. Onko kyseessä tulkintaerimielisyys, huolimattomuus, selvä hallintovirhe vai tahallinen petos? Virheiden laatuun tarkastuskertomus ei anna selvää vastausta. Tulevan hallinnon ja tilintarkastustoiminnan kehittämisen alalla on tehtävä jotakin. Siksi yhdyn vastuuvapausesittelijän Wynnin vaatimukseen, että järjestelmää on kehitettävä. Tähän vaatimukseen myös puheenjohtajamaan edustaja ministeri Nicolaï eilen yhtyi. 
+<SPEAKER ID="17" LANGUAGE="SV" NAME="Lundgren (IND/DEM )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, tilintarkastustuomioistuimen vuosikertomus on pääosin asiantunteva ja vakuuttava analyysi Euroopan yhteisöjen tilinpäätöksestä. Kuten kaikki meistä täällä parlamentissa ymmärtävät, on kuitenkin jo sinänsä skandaali, että tämä on nyt kymmenes kerta, kun tilintarkastustuomioistuin ei ole voinut antaa myönteistä tarkastuslausumaa.
+<P>
+On syytä huomata, ettei tilintarkastustuomioistuimen tehtävänä ole tietenkään yrittää havaita petoksia ja muita rikoksia, vaan se on OLAFin tehtävä. Tällaisia skandaaleja on lisäksi useita, ja ne koskettavat kaikkia EU:n toimintoja. Euroopan parlamentin jäsenet ja EU:n virkamiehet puhuvat avoimesti skandaaleista, joita ei ole koskaan saatettu suuren yleisön tietoon tai jotka eivät ole johtaneet oikeustoimiin, vaikka monet ovat niistä hyvin perillä.
+<P>
+Huomaamme, ettei tilintarkastustuomioistuin voi hyväksyä maatalouspolitiikkaa, rakennepolitiikkaa, tukia ja liittymistä valmistelevaa tukea koskevia tilitapahtumia. Nämä ovat ehdottomasti tärkeimmät tilitapahtumat rahassa mitattuna, mikä merkitsee sitä, että selvästi suurin osa näistä maksuista jää kansalaisten valvonnan ulottumattomiin.
+<P>
+Tämä tarkoittaa myös sitä, ettei EU:n pitäisi maksaa talousarviosta säännöllisesti rahaa maille ja järjestöille, joiden tehtävänä on sitten käyttää näitä rahoja EU:n viranomaisten toiveiden mukaisesti. Tällaista järjestelyä ei ole todennäköisesti koskaan mahdollista valvoa. Valvonnan puutteen takia näitä toimintoja esimerkiksi maatalouden, rakennepolitiikan ja tukien alalla ei todellakaan ole syytä jatkaa.
+<P>
+On perusteltua auttaa köyhiä EU:n jäsenvaltioita, mutta tällaisen tuen antamiseen pitäisi käyttää siirtoja, joita ei ole ennalta määrätty mihinkään tiettyyn tarkoitukseen. Kolmansille maille annettavaa tukea ei pitäisi kanavoida EU:n viranomaisten vaan YK:n elinten kautta, tai muussa tapauksessa jäsenvaltioiden itse pitäisi antaa tätä tukea suoraan. 
+<SPEAKER ID="18" LANGUAGE="DE" NAME="Martin, Hans-Peter (NI )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, jos joku tätä keskustelua seuraava ei tule siihen johtopäätökseen, että tämä on ihanteellinen ajankohta muutamien perustavanlaatuisten kysymysten pohtimiselle, hän on peittänyt korvansa erittäin tiukasti käsillään.
+<P>
+Tilintarkastustuomioistuimen tulisi olla toimielimenä aina yksi kansalaisten lähimmistä liittolaisista. Ajatelkaa tapaa, jolla tilintarkastustuomioistuin nykyään työskentelee, ja kysykää itseltänne, voidaanko ylipäätään taata, että näin on. Mitä muutamien viime vuosien aikana on tapahtunut? Muistan vieläkin ne kirkuvat otsikot, joita tilintarkastustuomioistuimen kertomus sai aikaan vuonna 1992. Tänään ihmiset kuitenkin toteavat, että tämä kaikki "on vain taas sitä samaa vanhaa".
+<P>
+Edistäisikö tilintarkastustuomioistuimen ja Euroopan unionin toimintaa se, että parlamentti nimittäisi henkilöt tilintarkastustuomioistuimen 25 tärkeään virkaan, ja jos näin on, mitä laadullisia parannuksia voitaisiin odottaa? Arvoisa presidentti Fabra Vallés, odotan teiltä, että pohditte nyt toimintaanne tähänastisten puheenvuorojen pohjalta, minkä jälkeen odotan meidän ryhtyvän innokkaina tähän periaatekeskusteluun. 
+<SPEAKER ID="19" LANGUAGE="NL" NAME="Maat (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, kun totean, että tilintarkastustuomioistuimen vuosikertomus on hyvä väline parlamentille, tämä on myös kohteliaisuus tilintarkastustuomioistuimen eroavalle presidentille. Ennen kuin käsittelen kertomusta yksityiskohtaisemmin, esitän kuitenkin kaksi poliittista huomautusta.
+<P>
+Sekä Euroopan liberaalidemokraattien liiton ryhmä että Euroopan parlamentin sosiaalidemokraattinen ryhmä ovat kommentoineet maatalouspolitiikkaa. En kiistä sitä, että maksuissa saattaa aika ajoin tapahtua virheitä. Tarkoituksena ei voi kuitenkaan koskaan olla, että koko maatalousalan pitäisi kärsiä siitä, ettei komissio tai jokin jäsenvaltio pysty hoitamaan asioita asianmukaisesti ja sääntöjä noudattaen. Talousarvion toteuttamistapa ei voi koskaan olla peruste uudelle hyökkäykselle eurooppalaista maatalouspolitiikkaa ja siihen sisältyviä elintarviketurvallisuutta, ympäristöä ja eläinten hyvinvointia koskevia tiukkoja vaatimuksia vastaan.
+<P>
+Haluan keskittyä yhteen kertomuksessa käsiteltyyn erityiskysymykseen, nimittäin eläintauteja koskevaan EU:n politiikkaan. Tilintarkastustuomioistuin on oikeassa todetessaan, että rokottamattomuuspolitiikasta luopuminen 1990-luvun alussa perustui olettamuksiin. Nämä olettamukset ovat muuttuneet dramaattisesti. Teurastamojen määrä on pudonnut voimakkaasti, ja karjankuljetusten määrä on kasvanut huimasti. Jo vuonna 1998 YK:n elintarvike- ja maatalousjärjestö FAO varoitti komissiota tämän vaikutuksista ja eläintautien mahdollisesta leviämisestä. Panen merkille, ettei komissio ole tehnyt käytännössä mitään näiden varoitusten suhteen. Suu- ja sorkkatautia käsittelevän väliaikaisen valiokunnan painostuksesta suu- ja sorkkatautia koskevaa lainsäädäntöä muutettiin jossain määrin muttei vieläkään FAO:n tai kansainvälisen eläintautiviraston OIE:n suositusten mukaisesti. Tältä osin komissio tekisi todellakin oikeutta tilintarkastustuomioistuimen kertomukselle omaksumalla selvästi dynaamisemman lähestymistavan.
+<P>
+On kolme seikkaa, joiden osalta komission pitäisi ryhtyä toimiin. Komission on ensinnäkin varmistettava, että rokottamattomuuspolitiikkaa tarkastellaan uudelleen ja että rokottamisesta tulee normi, joka on myös vahvistettu maailmanlaajuisesti OIE:n vaatimusten mukaisesti. Toiseksi tätä politiikkaa on toteuttava yhtenäisesti kaikissa jäsenvaltioissa. Kolmanneksi eurooppalaisiin säännöksiin, kuten teurastuspalkkioiden maksamista koskeviin säännöksiin, liittyvät ongelmat eivät saisi enää koskaan olla esteenä tämän politiikan toteuttamiselle. 
+<SPEAKER ID="20" LANGUAGE="DE" NAME="Bösch (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, haluan ensinnäkin onnitella tilintarkastustuomioistuinta tästä vuosikertomuksesta. Tilintarkastustuomioistuimen aiemmat kertomukset ovat olleet heikompia kuin tämänvuotinen kertomus, jota pidän tärkeänä ja hyvänä erityisesti nyt, kun olemme aloittamassa rahoitusnäkymiä koskevat neuvottelut. Komissiolla on tässä erittäin suuri vastuu. Emme voi yksinkertaisesti hyväksyä sitä, että meihin kohdistetaan voimakasta arvostelua juuri niiden jäsenvaltioiden valtiovarainministereiden taholta, jotka eivät toteuta rakennerahastoja, kun olemme syytäneet yli 100 miljardia euroa erityisesti tähän tarkoitukseen. Arvoisa komission jäsen, juuri tältä osin meidän onkin muutettava rahoitusnäkymien tavoitteita.
+<P>
+Kuten näemme jälleen kerran, sama koskee sitä, mistä suurimmat puutteet ja petokset löytyvät. Ajattelen tässä yhteydessä koko maataloustuotteiden vientitukien alaa. Pallo on nyt komissiolla! Näemme jatkossakin eurooppalaista politiikkaa teilaavia otsikoita niin kauan kuin Euroopan unionissa harjoitetaan tällaista politiikkaa. Voimme oppia tilintarkastustuomioistuimen kertomuksesta sen, että tällainen politiikka on hylättävä.
+<P>
+Haluan vielä kiinnittää huomiota yhteen seikkaan, nimittäin siihen, että otimme käyttöön liittymistä valmistelevan tuen kymmentä uutta jäsenvaltiota varten. Näistä varoista käytettiin 15 prosenttia kymmenen uuden jäsenvaltion liittymiseen mennessä. Tänään olen kuullut Sapard-ohjelmasta vastaavan komission jäsenen kertovan, että ohjelmaan kuuluvien maksujen suorittaminen edistyy erittäin hyvää tahtia, vaikka Sapard-ohjelma on väline, jota on tarkoitus käyttää ennen liittymistä eikä niinkään sen jälkeen. Unioniin liittyy jatkossa uusia maita, ja tällainen laajentuminen on todellakin jo aivan lähellä. Ottakaamme oppia tämänkertaisesta laajentumisesta. Tämä on komission vastuulla, ja tältä osin asioita voidaan vauhdittaa hieman. Jos näin tapahtuu, tilintarkastustuomioistuimen tämänvuotinen kertomus osoittautuu suureksi menestykseksi. Tilintarkastustuomioistuimen jäsenet eivät ole historioitsijoita, kuten emme myöskään me parlamentissa. Haluamme tehdä myönteisiä päätelmiä tilintarkastustuomioistuimen esittämistä arvostelunaiheista. 
+<SPEAKER ID="21" LANGUAGE="FR" NAME="Lang (NI )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, edellisten vuosien tapaan Euroopan tilintarkastustuomioistuin korostaa vakavia ongelmia, selkeitä virheitä ja petostapauksia, joita budjettihallinnossa on havaittu erityisesti yhteisen maatalouspolitiikan ja rakennepolitiikan osalta.
+<P>
+Joka vuosi Euroopan parlamentti ja jäsenvaltiot ottavat nämä tekijät huomioon, eikä mikään muutu. Mikään ei muutu, koska Euroopan unionista on tullut valtava byrokratiakoneisto, jossa kukaan ei ole enää aidosti vastuussa mistään. Sama päätelmä on myös tehty analyysissä, joka sisältyy Santerin komission eroon vuonna 1999 johtaneeseen riippumattoman asiantuntijaryhmän raporttiin. 
+<P>
+OLAFilla ei ole myöskään keinoja eikä halua valvoa yhteisön varojen asianmukaista käyttöä, ja jäsenvaltioilla on taipumus suojella petoksista epäiltyjä kansalaisiaan.
+<P>
+Lyhyesti sanottuna jäsenvaltioiden, jotka ovat yhteisön talousarvion tärkeimpiä rahoittajia, on aika ryhtyä valvomaan niille myönnettyjä varoja ja tarkastaa, että varoja hallinnoidaan asianmukaisesti. Jäsenvaltioiden on tässä yhteydessä rangaistava ankarasti rikkomuksiin ja myös petoksiin syyllistyneitä. Muutoin saamme tilintarkastustuomioistuimelta joka vuosi saman kertomuksen, jossa arvostellaan samoja epäkohtia, mutta vailla minkäänlaista käytännön vaikutusta. 
+<SPEAKER ID="22" LANGUAGE="HU" NAME="Pálfi (PPE-DE )." AFFILIATION="">
+<P>
+    Puhun teille tänään sellaisen maan edustajana, joka on historiallisen kokemuksensa vuoksi yksiselitteisesti sitoutunut yhteisen Euroopan rakentamishankkeeseen. Toisen maailmansodan jälkeen Winston Churchill esitti Itä-Euroopasta puhuessaan huomautuksen, joka koski Itä-Euroopan maita eli juuri niitä valtioita, jotka ovat äskettäin liittyneet uudelleen Eurooppaan. Churchill totesi, että Neuvostoliitto oli nielaissut Itä-Euroopan maat ja että aterian jälkeen tulee sulattelun aika. Sallikaa minun ottaa uudelleen tarkasteluun tämä ajatus sulattelusta, nimittäin niin sanotut liittymistä valmistelevat tuet, jotka antavat näille valtioille mahdollisuuden osallistua eurooppalaisiin prosesseihin mahdollisimman pian ja tehokkaasti.
+<P>
+Saanen huomauttaa, että tilintarkastustuomioistuimen kertomus on hyvin rehellinen liittymistä edeltävien tukien osalta. Tilintarkastustuomioistuimen käyttämä tutkimusmenetelmä on selkeä ja antaa näin ollen myös viitteitä tulevaisuudesta, koska sitä voidaan käyttää samojen tukien tutkimiseen myöhemmin. Tilintarkastustuomioistuimen huomautukset ovat oikeita, ja kuten kollegani Bösch totesi, liittymistä valmistelevat tuet auttoivat kymmentä uutta jäsenvaltiota joko vain hyvin vähän tai sitten eivät lainkaan. Esimerkiksi kolme vuotta maatalouden ja maaseudun kehittämisen erityisen liittymisohjelman (Sapard) käynnistämisen jälkeen varoista oli kohdistettu 14,8 prosenttia. Kertomuksessa myös huomautettiin, että ehdokasvaltioiden viranomaiset laativat näiden varojen myöntämisen ehdot liian monimutkaisiksi. Totean lopuksi, että tilintarkastustuomioistuin auttaa kertomuksellaan poliittista päätöksentekoa ja palautteen antamista. 
+<SPEAKER ID="23" LANGUAGE="ES" NAME="Ayala Sender (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, minäkin haluan kiittää presidentti Fabra Vallésia tänään näistä kolmesta vuodesta, jotka hän on toiminut tilintarkastustuomioistuimen presidenttinä. Haluan myös kiittää häntä tilintarkastustuomioistuimen vankasta asiantuntemuksesta, toimintojen uudistamisesta sekä kertomusten ja lausuntojen uskottavuudesta, sillä nämä kertomukset ja lausunnot ovat erittäin hyödyllisiä ja tärkeitä Euroopan parlamentin ja sen jäsenten työn kannalta.
+<P>
+Uutena parlamentin jäsenenä minun on kuitenkin ilmaistava pettymykseni ja tyrmistykseni, koska vuosikertomuksen esittely on tänä vuonna jälleen kerran turhauttava kokemus. Parlamentissa paljon kauemmin istuneiden arvoisien jäsenten puheenvuoroista voi kuulla, että heidän pettymyksensä on vieläkin suurempi. Kaikki eri toimielinten toteuttamat toimet ja niiden saavuttama edistys, mikä on tapahtunut komissiossa viime kädessä Euroopan parlamentin pyynnöstä, eivät vieläkään riitä myönteisen tarkastuslausuman saamiseen. Varaumia on esitetty enemmän kuin edistystä on tapahtunut, ja kansalaiset saavat edelleen huonoja uutisia sääntöjenvastaisuuksista ja varainhoidon epätyydyttävästä tilanteesta.
+<P>
+Katson myös, että kymmenen vuotta on pitkä aika ja jo riittävän pitkä aika. Kun aloitamme nyt uusia rahoitusnäkymiä koskevat neuvottelut 25 jäsenvaltion laajentuneessa unionissa, jossa on pian määrä olla 27 jäsenvaltiota, on mielestäni äärimmäisen tärkeää, että toimielimet pääsevät kompromissiin, jotta jaetut vastuut voidaan vihdoinkin selvittää ja jotta voimme näin estää uudelleenkansallistamisen kasvavaa uhkaa. Uudelleenkansallistamista ajavia "seireeninlauluja" esittävät henkilöt, jotka vuosittain toistuvien tilinpäätöstä koskevien huonojen uutisten masentamina uskovat, että ratkaisuna on supistaa unionin talousarvioita ja palata vähemmän yhteisölliseen malliin, joka merkitsee puolestaan vähemmän solidaarisuutta ja yhteenkuuluvuutta.
+<P>
+Hyvät kuulijat, en voi hyväksyä sitä, että euroskeptikot ja uudelleenkansallistamisen kannattajat käyttävät tilintarkastustuomioistuimen kertomusta ja kyvyttömyyttämme saada myönteinen tarkastuslausuma hyökätäkseen Euroopan unionin ydintä, sen taloudellista ja sosiaalista yhteenkuuluvuutta ja sen tulevaa politiikkaa vastaan. Vetoankin komission jäseneen Kallasiin, joka on ensimmäisenä päivänään parlamentissa osoittanut suurta tahtoa, ja tilintarkastustuomioistuimen kokeneeseen presidenttiin Fabra Vallésiin, jotta he varmistaisivat, että löydämme innovatiivisen etenemistavan. Pyydän heitä myös varmistamaan, että komissio ja tilintarkastustuomioistuin antavat tietysti yhdessä Euroopan parlamentin kanssa lujan sitoumuksen, jonka ansiosta saamme myönteisen tarkastuslausuman, joka puolestaan antaa Euroopan kansalaisille takeet siitä, että heidän Euroopan yhdentymiseen osoittamiaan rahoja suunnitellaan ja käytetään asianmukaisesti ja että heidän panoksensa auttaa osaltaan saavuttamaan sitä lisäarvoa, jota me kaikki tavoittelemme. 
+<SPEAKER ID="24" LANGUAGE="SV" NAME="Fjellner (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, haluan ensinnäkin kiittää tilintarkastustuomioistuinta ja sen presidenttiä Fabra Vallésia. Uutena parlamentin jäsenenä minun on todettava, että kertomusta oli erittäin jännittävä lukea. Vaikka tilintarkastustuomioistuimen kielenkäyttö on kohteliasta, sen esittämä kritiikki on murskaavaa. Olen hämmästynyt siitä, että havaitut puutteet olivat niin suuria, ja mielestäni sillä, ettei tilintarkastustuomioistuimen kertomus ole ollut myönteinen kymmeneen vuoteen, on selvät seuraukset.
+<P>
+Minun kannaltani merkittävimmät puutteet koskevat luultavasti talousarvion toteuttamisen keskeisintä osa-aluetta, nimittäin kirjanpitojärjestelmää. Emme voi tyytyä mihinkään vähempään kuin siihen, että nämä ongelmat ratkaistaan viipymättä.
+<P>
+Haluan kuitenkin juuri nyt keskittyä johonkin todella aivan muuhun. Täysistunnossa on viime päivinä keskusteltu kahdesta tärkeästä kysymyksestä, tästä tilintarkastustuomioistuimen vuosikertomuksesta ja EU:n rahoitusnäkymistä. Mielestäni on aika yhdistää nämä kaksi asiaa.
+<P>
+Tilintarkastustuomioistuimen kertomukseen sisältyy tärkeää ja perustavaa arvostelua, joka on otettava huomioon tulevien toimien suunnittelussa. Luettuani kertomuksen on selvää, ettei EU:lla ole monilla aloilla mahdollisuutta käyttää myönnettyjä varoja järkevällä tavalla. Tästä huolimatta useimmat näyttävät kuitenkin puoltavan lisärahoitusta. Samaan tapaan tilintarkastustuomioistuin osoittaa, että EU:n varoja hyödynnetään vain rajallisesti monilla aloilla. Kuitenkin juuri näihin samoihin aloihin monet haluaisivat investoida lisää rahaa.
+<P>
+Näillä aloilla, joilla tarvitaan kipeästi uudistuksia, on monia ongelmia, joita ei ratkaista sillä, että myönnämme niitä varten lisää rahaa. Juuri tästä syystä haluan todellakin osoittaa sanani paitsi komissiolle myös erityisesti Euroopan parlamentin ja kansallisten parlamenttien jäsenille. Kehotan kaikkia niitä, jotka haluavat keskustella vakavasti rahoitusnäkymien kysymyksestä tai EU:n taloudellisesta tulevaisuudesta, todellakin lukemaan tilintarkastustuomioistuimen kertomuksen ja suhtautumaan sen sisältöön tosiaankin hyvin vakavasti. Kertomukseen sisältyy hyvin paljon erittäin tärkeitä huomioita, jotka menevät EU:lta sivu suun, ellei niitä otetaan huomioon. 
+<SPEAKER ID="25" LANGUAGE="PT" NAME="Casaca (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, minäkin haluan kehua tilintarkastustuomioistuimen muutamien viime vuosien aikana tekemää työtä ja mainita erityisesti, että sen varainhoitovuotta 2003 koskevassa kertomuksessa todetaan, etteivät komission yksiköt eikä erityisesti OLAF tutkineet useita petostapauksia, jotka liittyvät yhteisön maataloutta koskevaan talousarvioon. Tämä on todellakin kaikkein huolestuttavin seikka tässä tilanteessa, varsinkin kun otetaan huomioon, että merkittävin parlamentissa viime vaalikaudella keskusteltu tapaus oli niin sanottu Italburro-tapaus. Tämä tapahtumasarja lähti liikkeelle lokakuussa 1999, kun Italian poliisi ilmoitti OLAFille petoksesta, jonka kustannukset yhteisön talousarviolle Italian poliisi arvioi 100 miljoonaksi euroksi.
+<P>
+Olin erittäin yllättynyt kuullessani äskettäin virkaan asetetun komission toteavan marraskuussa 2004, ettei varmoja väitteitä yhteisön talousarviolle aiheutuneista menetyksistä ollut esitetty. Tämä on täysin uskomatonta ja osoitus siitä, miten vakavasta ongelmasta Euroopan laajamittaisen elintarviketeollisuuden laajamittaisissa petoksissa on kyse, kuten olen todennut lukemattomat kerrat täällä parlamentissa. Juuri tähän ongelmaan haluan parlamentin, komission ja erityisesti komission jäsenen Kallasin, joka osallistuu tähän keskusteluumme, kiinnittävän huomiota vähäpätöisten muodollisten sääntöjenvastaisuuksien sijasta. 
+<SPEAKER ID="26" LANGUAGE="EN" NAME="Parish (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, meille esitellään jälleen kerran tilintarkastustuomioistuimen vuosikertomus, jossa kyseenalaistetaan komission kirjanpito- ja tilinpäätöskäytäntöjen luotettavuus ja itse tilinpäätös kymmenettä kertaa peräkkäin. Tilintarkastustuomioistuin ilmoittaa, että lähes 95 prosentissa EU:n talousarviosta on vakavia ongelmia luotettavuuden ja varojen tehokkaan käytön osalta. Kaksi vuotta sitten komission pääkirjanpitäjä Marta Andreasen toi esille useita EU:n tileihin liittyviä ongelmia. Sen sijaan että häntä olisi kuunneltu ja hänen neuvojaan olisi noudatettu, komissio aloitti kurinpitotoimet häntä vastaan, pidätti hänet virasta ja sitten, kaksi viikkoa ennen vanhan komission eroamista, erotti hänet.
+<P>
+Euroopan kansalaiset suhtautuvat epäilevästi moniin asioihin EU:ssa, mutta heidän suurin huolenaiheensa on se, ettei Euroopan unioni pysty tekemään asianmukaisesti hyväksyttyä ja tarkastettua tilinpäätöstä. Tämä tilanne ei voi jatkua, koska se saattaa Euroopan unionin yhä huonompaan valoon. On ehdottoman välttämätöntä, että uusi komissio ryhtyy välittömästi toimiin suuren yleisön luottamuksen palauttamiseksi.
+<P>
+Suu- ja sorkkatautia käsittelevän parlamentin väliaikaisen valiokunnan jäsenenä haluan nyt keskittyä vuoden 2001 suu- ja sorkkatautikriisiä koskevaan tilintarkastustuomioistuimen erityiskertomukseen. Tilintarkastustuomioistuimen kertomuksessa viitataan Yhdistyneen kuningaskunnan hallituksen suu- ja sorkkatautikriisin aikana tekemiin useisiin virheisiin. Yhdistyneessä kuningaskunnassa ei ollut määräyksiä toimista, joihin ryhdytään taudin vakavan puhkeamisen seurauksena, eikä asianmukaista taloudellista valvontaa taudin puhkeamisen hallitsemiseksi. Tilintarkastustuomioistuin myös havaitsi useita suuria ongelmia eläinkuljetuksissa. Hallituksen kolmen päivän viivyttely eläinkuljetusten kieltämisessä antoi taudille mahdollisuuden levitä nopeasti, mikä johti teurastettujen eläinten lukumäärän kaksinkertaistumiseen. Yhdistyneen kuningaskunnan hallituksen harjoittaman taloudellisen valvonnan puuttuminen johti siihen, että Euroopan komissio hylkäsi lähes kaksi kolmannesta maan esittämistä vaateista ja EU:n hätäapuvaroja noin 948 miljoonan punnan arvosta. Tämä johti siihen, että Yhdistyneen kuningaskunnan veronmaksajat menettivät noin 600 miljoonaa puntaa.
+<P>
+Suu- ja sorkkatautia koskevassa tilintarkastustuomioistuimen erityiskertomuksessa on korostettu jälleen kerran tarvetta tehdä Yhdistyneessä kuningaskunnassa täydellinen julkinen tutkimus suu- ja sorkkatautiepidemian puhkeamisesta vuonna 2001. 
+<SPEAKER ID="27" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   – Keskustelu on päättynyt.
+<SPEAKER ID="28" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   – Esityslistalla on seuraavana komission julkilausuma Kolumbian tilanteesta. 
+<SPEAKER ID="29" LANGUAGE="DE" NAME="Ferrero-Waldner," AFFILIATION="komissio">
+<P>
+   . Arvoisa puhemies, hyvät parlamentin jäsenet, saanen heti aluksi todeta, että Kolumbia on meille tärkeä, sillä se on maa, jossa Euroopan unionilla on useita intressejä, jotka koskevat kaupan ja investointien lisäksi myös sellaisia kysymyksiä kuin huumetuotannon ja -kaupan, rikollisverkostojen ja terrorismin torjunta, muuttovirrat ja Kolumbian konfliktin alueellinen ulottuvuus. Kyse on kuitenkin ennen kaikkea meille ja kolumbialaisille ystävillemme yhteisistä arvoista, kuten ihmisoikeuksien kunnioittamisesta, oikeusvaltiosta ja myös köyhyyden lievittämisestä ja kestävästä talouskehityksestä.
+<P>
+Kiitänkin teitä siitä, että annoitte minulle tilaisuuden esittää arvioni Kolumbian tilanteesta ja politiikasta, jota haluamme harjoittaa Kolumbian osalta. Tarkastelen puheenvuorossani toimiemme strategista tavoitetta ja toimiemme perustana olevia perusperiaatteita ja välineitä, joita käytämme tämän tavoitteen saavuttamiseksi. Jatkuvat vakavat ihmisoikeusloukkaukset ja se tosiasia, että turvallisuustilanne on edelleen erittäin vaikea monien kolumbialaisten kannalta, herättävät meissä tietysti suurta levottomuutta ja vaativat täyden solidaarisuutemme ennen kaikkea Kolumbian kansaa kohtaan.
+<P>
+Strategisena tavoitteenamme on saada aikaan pysyvä rauha ja tukea kolumbialaisia rauhanpyrkimyksissä. Koko Kolumbian-strategiamme kulmakivenä on rauhanomaisen ratkaisun etsiminen. Tätä konfliktia ei voida ratkaista aseellisesti, joten on tärkeää, että pyrimme löytämään keinoja rauhanomaisen ratkaisun aikaansaamiseksi myös laittomien aseistautuneiden ryhmien kanssa, edellyttäen että nämä ovat valmiita aloittamaan todelliset neuvottelut rauhansopimuksen aikaansaamiseksi. Tätä taustaa vasten komissio pitää erittäin tärkeinä Yhdistyneiden Kansakuntien pääsihteerin toimia erityisesti Kolumbiassa toimivien laittomien aseistautuneiden ryhmien osalta. Käynnissä oleva Amerikan valtioiden järjestön OAS:n toiminta Kolumbian rauhanprosessin tukiryhmän kautta ja Meksikon hallituksen välitystoiminta Kolumbian hallituksen ja Kansallisen vapautusarmeijan ELN:n välillä ovat molemmat hyvin arvokkaita toimia. Kaikkien laittomien aseistautuneiden ryhmien on lopetettava vihamielisyydet. Niitä on myös vaadittu osoittamaan halukkuutensa osallistua viimeinkin rauhanprosessiin vapauttamalla viipymättä ja ehdoitta kaikki panttivangit ja muut henkilöt, joita ne pitävät vankinaan.
+<P>
+Meidän Euroopan unionissa on pohdittava, miten voimme tukea rauhanneuvotteluja taloudellisesti heti, kun Kolumbiassa on laadittu aseistautuneita ryhmiä koskeva kokonaisvaltainen strategia. Olemme vakuuttuneita, että myös Kolumbian vireällä kansalaisyhteiskunnalla on erittäin tärkeä osa näissä rauhanneuvotteluissa, kun se osallistuu käynnissä olevaan vuoropuheluun Kolumbian hallituksen ja kansainvälisen yhteisön kanssa.
+<P>
+Lyhyemmän aikavälin tavoitteenamme on varmistaa, että kansainvälinen yhteisö ja Kolumbian hallitus noudattavat vuonna 2003 pidetyssä Lontoon konferenssissa antamiaan sitoumuksia. Samaan aikaan kun meidän on pidettävä taloudellisen tuen antamista koskevat lupauksemme, Kolumbian hallituksen on myös pidettävä omansa ja noudatettava erityisesti ihmisoikeuksien kunnioittamista koskevia sitoumuksiaan, jotka se antoi Yhdistyneiden Kansakuntien ihmisoikeusvaltuutetulle.
+<P>
+Kolumbian hallituksen koolle kutsuma kokous, joka pidetään 3. ja 4. helmikuuta 2005, on erittäin hyvä tilaisuus sekä toistaa kansainvälisen yhteisön solidaarisuus Kolumbian kansalle että muistuttaa tehdyistä sitoumuksista.
+<P>
+Kolumbiaa koskeva strategiamme perustuu näin ollen kolmeen perusperiaatteeseen. Ensimmäinen näistä on ihmisoikeuksien ja perusvapauksien kunnioittamisen tukeminen, mihin liittyy erottamattomana osana ihmisoikeustilanteen seuranta. Toinen periaate koskee hyvää hallintotapaa, jonka yhteydessä tuemme Kolumbian hallitusta erityisesti sen oikeusvaltion vahvistamiseen tähtäävissä toimissa. Kolmantena on tietysti kestävä kehitys ja erityisesti sosiaalisen yhteenkuuluvuuden kehittäminen, josta keskusteltiin myös Guadalajarassa toukokuussa 2004 pidetyssä huippukokouksessa.
+<P>
+Euroopan unioni ja komissio hyödyntävät kaikkia käytettävissään olevia ulkopolitiikan välineitä saavuttaakseen nämä tavoitteet. Yksi näistä välineistä on aktiivinen diplomatia, jolla tuemme kansainvälistä rauhanprosessia. Toinen tärkeä väline ovat kolumbialaisia vientituotteita koskevat äärimmäisen suotuisat kauppajärjestelyt, millä tarkoitan esittämäämme ehdotusta yleiseksi tullietuusjärjestelmäksi, jolla annetaan mahdollisuus säilyttää kolumbialaisille vientituotteille myönnetyt kauppaetuudet ja jolla tietysti myös edistetään kestävää talouskehitystä. Kolmas väline on kehitysapu.
+<P>
+Tarkasteltaessa varsinaista yhteisön apua, jonka kautta EU:n jäsenvaltiot antavat kahdenvälistä apua, havaitaan, että komissio on todellakin täyttänyt velvoitteensa. Voimme uskoakseni olla ylpeitä siitä, että olemme itse asiassa tehneet enemmän kuin alun perin lupasimme tehdä. Meillä on kuluvan ohjelmakauden lopussa mahdollisuus jatkaa, ja ilmoitimme vuonna 2001 järjestetyssä avunantajien konferenssissa myöntävämme Kolumbialle 140 miljoonaa euroa vuosiksi 2001–2006. Kyseessä on suurin yksittäiseen Latinalaisen Amerikan maahan käyttämämme summa. Vuoden 2003 lopussa olimme sitoneet tähän tarkoitukseen jo 136 miljoonaa euroa, ja olen vakuuttunut, että vuosien 2004 ja 2006 välisenä aikana kohdentaneet kaikki nämä varat, jotka ovat itse asiassa huomattavasti luvattua suuremmat.
+<P>
+Pyrimme saavuttamaan tällä Kolumbian itse hallinnoimalla yhteisön avulla muutamia ensisijaisia tavoitteita. Yksi tavoite on instituutioiden vahvistaminen erityisesti oikeusjärjestelmän sisällä ja oikeusvaltion osalta, mikä on hyvin tärkeää. Toiseksi pyrimme tukemaan rauhanprosessia niin sanottujen rauhanlaboratorioiden avulla, jotka ovat integroitua paikallista kehitystä koskevia laaja-alaisia ohjelmia, joilla on ensisijaisesti tarkoitus täydentää rauhanaloitteita paikallistasolla. Kuten jo aiemmin totesin, pyrimme lisäksi puolustamaan ihmisoikeuksia ja antamaan humanitaarista apua erityisesti maastakarkotusten uhreille. Edeltäjäni Chris Pattenin käynnistämien, yhteisön avun hallinnointia koskevien uudistusten ansiosta nettomaksut ovat kasvaneet valtavasti ja nousseet lähes 30 miljoonaan euroon jo vuonna 2003.
+<P>
+Olen pyrkinyt selittämään, mihin hyvä Kolumbiaa koskeva politiikka perustuu. Meidän on nähdäkseni jatkettava tällä tiellä, ja voitte luottaa siihen, että komissio tekee näin myös jatkossa. 
+<SPEAKER ID="30" LANGUAGE="ES" NAME="Salafranca Sánchez-Neyra (PPE-DE )," AFFILIATION="ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, on selvää, että Kolumbian ihmisoikeustilanne on kaukana täydellisestä. Samoin on selvää, että Euroopan parlamentin on edistettävä rauhaa sekä ihmisoikeuksien ja Yhdistyneiden Kansakuntien ihmisoikeustoimikunnan antamien suositusten tukemista. Näitä suosituksia osoitetaan usein Kolumbian hallituksen lisäksi myös konfliktin muille aseistautuneille osapuolille, kuten puolisotilaallisille ryhmille, FARCille (Fuerzas Armadas Revolucionarias de Colombia) ja ELN:lle (Ejército de Liberación Nacional). Nämä järjestöt mainitaan Euroopan unionin ylläpitämässä terroristijärjestöjen luettelossa.
+<P>
+Juuri FARC on vastuussa viime vuosina tehdyistä yli 6 000 sieppauksesta ja yli 300 murhasta, samoin kuin jalkaväkimiinoista, jotka valitettavasti surmaavat Kolumbiassa keskimäärin kaksi ihmistä joka päivä. Näistä 40 prosenttia on siviilejä, joista taas puolet on lapsia.
+<P>
+Presidentti Uribe on toteuttanut demokraattista turvallisuuspolitiikkaa, joka on johtanut lukuisiin parannuksiin. Sieppaukset ovat vähentyneet viime vuosina 26 prosenttia ja murhien määrä on alhaisin 18 vuoteen. Tästä huolimatta erittäin monet kaupunginjohtajat joutuvat edelleen uhkailun kohteeksi.
+<P>
+Emme saa unohtaa, että presidentti Uribe on yhtenä harvoista valtionpäämiehistä saapunut Euroopan parlamenttiin, osallistunut täysistuntoon ja lisäksi vieraillut valiokunnassa käydäkseen parlamentin jäsenten kanssa avointa vuoropuhelua maansa ihmisoikeustilanteesta. Tätä vuoropuhelua on jatkanut maan varapresidentti, joka tulee parlamenttiin joka vuosi keskustelemaan kansalaisjärjestöjen kanssa ja kertomaan niille edistyksestä, jota Kolumbian hallitus on saavuttanut ihmisoikeuksien osalta.
+<P>
+Arvoisa puhemies, haluan todeta, että voisimme vain välinpitämättömyyttämme ja vilpillisessä tarkoituksessa olla ottamatta huomioon edistystä, jota viime vuosina on tapahtunut Kolumbian hallituksen politiikan tuloksena. On selvää, että Euroopan parlamentin on tuettava ihmisoikeuksia ja että Kolumbian hallitus voi ja sen on tehtävä enemmän. Samoin on kuitenkin myös selvää, että kiristyksestä, murhista ja syntyneistä uhreista ovat vastuussa terroristijärjestöt, toisin sanoen FARC ja ELN. Meidän on ajettava säälimättömästi takaa näitä järjestöjä, jotka ovat todellisia syyllisiä tahallisiin ihmisoikeusloukkauksiin Kolumbiassa. 
+<SPEAKER ID="31" LANGUAGE="ES" NAME="Medina Ortega (PSE )," AFFILIATION="ryhmän puolesta">
+<P>
+   .  Arvoisa puhemies, olen hyvin tyytyväinen, että komission jäsen Ferrero-Waldner edustaa nyt komissiota täällä parlamentissa. Parlamentilla oli erinomaiset suhteet Ferrero-Waldneriin hänen toimiessaan neuvoston puheenjohtajana, ja olen varma, että nämä suhteet säilyvät hyvinä myös seuraavien viiden vuoden ajan. Olen myös hyvin vaikuttunut hänen Kolumbian tilannetta koskevasta esityksestään. Kolumbia on luultavasti yksi maailman visuaalisesti vaikuttavimmista paikoista, kaunis maa, jossa on valtavaa vaurautta ja ihania ihmisiä, jotka ovat ystävällisiä ja viehättäviä.
+<P>
+Kolumbialla on kuitenkin ongelma, nimittäin järjestäytynyt väkivalta. Katuväkivalta ja sissien ja huumekauppiaiden väliset yhteenotot ovat oireita maan erittäin epäoikeudenmukaisesta järjestelmästä ja valtavasta epätasa-arvoisuudesta. Vaikka siis saisimme lopetettua sissitoiminnan ja huumekaupan, väkivaltaa esiintyisi silti aina, ellemme ratkaise näitä ongelmia. Komission jäsen on nähdäkseni osoittanut meille selkeän, objektiivisen, yksityiskohtaisen ja erittäin rakentavan lähestymistavan. Kyse ei ole vain yhden ongelman ratkaisemisesta. Rauhaa ei voida selvästikään saada aikaan, jos väkivalta jatkuu, mutta rauha ei ole myöskään mahdollinen, ellemme ratkaise konfliktin taustalla olevia ongelmia.
+<P>
+Komission jäsen on mielestäni osoittanut parhaan tavan edetä, sillä komission strategiassa otetaan huomioon kaikki osa-alueet: ihmisoikeudet, turvallisuus, kehitys ja ennen kaikkea sosiaalinen kehitys. Minkä tahansa hallituspolitiikan tulisi sisältää kaikki nämä osa-alueet. Komission ja koko Euroopan unionin pitäisi antaa Kolumbian viranomaisille ja kaikille muille vaikutusvaltaisille järjestöille mahdollisuudet auttaa Kolumbiaa kehittymään.
+<P>
+Terroristi- ja sissijärjestöt ovat kiistatta syyllistyneet terroritekoihin, mutta älkäämme unohtako, että puolisotilaalliset järjestöt ovat salamurhanneet useita vasemmistolaisia ammattiyhdistysjohtajia. Emme useinkaan tiedä, onko näillä järjestöillä yhteyksiä hallitukseen. Katson näin ollen, että komission jäsenen lähestymistapa on oikea ja että meidän pitäisi ryhtyä toteuttamaan tätä lähestymistapaa auttaaksemme näin Kolumbian kansaa. 
+<SPEAKER ID="32" LANGUAGE="FR" NAME="Lipietz (Verts/ALE )," AFFILIATION="ryhmän puolesta.">
+<P>
+    Arvoisa komission jäsen, arvoisa puhemies, hyvät parlamentin jäsenet, mikä on Euroopan parlamentin kanta rauhan edistämiseen Kolumbiassa? Viime vaalikaudella parlamentti arvosteli niin sanottua Kolumbia-suunnitelmaa ja ehdotti laaja-alaisia sosiaalisia uudistuksia. Komissio, neuvosto ja parlamentti ilmoittivat olevansa valmiita toimimaan välittäjinä hallituksen ja sissien välisissä neuvotteluissa, jotka presidentti Pastrana oli käynnistänyt. Esteenä EU:n välitystoiminnalle oli ensinnäkin se, että Kolumbian viranomaiset hylkäsivät tämän politiikan, ja toiseksi FARCin harjoittama häpeällinen panttivankien otto, josta on osoituksena Ingrid Betancourtin tapaus. Kenttä on näin ollen jätetty molempia puolia edustavien äärivoimien haltuun. Toisena osapuolena on FARC ja toisena presidentti Uriben hallinto, joka on saattanut oikeusvaltion vakavaan vaaraan ehdottamalla siviilien pukemista asepukuun sekä koskemattomuuden ja rahoituksen antamista puolisotilaallisille ryhmille.
+<P>
+Mitä meidän sitten pitäisi tehdä? Meillä on jäljellä enää yksi vaihtoehto, nimittäin tuki kansalaisyhteiskunnan toimille rauhan edistämiseksi, kuten esimerkiksi Civil Society Permanent Assembly for Peace -järjestö on todennut. Muistakaamme, että tämäntyyppinen koordinointi johti kymmenen miljoonan allekirjoituksen keräämiseen rauhan puolesta. Civil Society Permanent Assembly for Peace -järjestö ehdottaa nyt laajaa humanitaarista sopimusta, johon sisältyy esimerkiksi vankien vaihtoa mutta ennen kaikkea se, että molemmat osapuolet sitoutuvat kunnioittamaan kansainvälistä humanitaarista oikeutta. Tältä osin hyväksyn komission jäsenen Ferrero-Waldnerin antaman lausuman. Kehotamme Kolumbian hallitusta kunnioittamaan oikeusvaltiota ja humanitaarista oikeutta. Odotamme sissien vapauttavan panttivangit osoituksena heidän halukkuudestaan palata neuvottelupöytään. Rahoitamme rauhanlaboratorioita ja Kolumbian kansalaisyhteiskunnan tukemista. Paras tapa, jolla Euroopan unioni voi edistää rauhaa Kolumbiassa, on tukea tämäntyyppisiä aloitteita ja niitä toteuttavia Kolumbian paikallisviranomaisia. 
+<SPEAKER ID="33" LANGUAGE="IT" NAME="Catania (GUE/NGL )," AFFILIATION="ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, vaikka pidänkin komission jäsenen täällä istuntosalissa pitämää puheenvuoroa osittain myönteisenä, monia kysymyksiä on nähdäkseni tutkittava huolellisemmin.
+<P>
+Kolumbian ollessa kyseessä ensimmäinen kysymys koskee presidentti Uriben aloittamaa politiikkaa. Vain muutama kuukausi sitten arvostettu yhdysvaltalainen aikakauslehti pani Kolumbian presidentin valokuvan kanteensa ja väitti, että kun Alvaro Uribe toimi Yhdysvaltojen puolustusministeriössä vuonna 1991 ennen presidentiksi tuloaan, hänellä oli yhteyksiä Medellínin huumekartelliin ja hän kuului Pablo Escobarin ystäviin.
+<P>
+Ikään kuin tässä ei olisi tarpeeksi, presidentti Uribe on keskittynyt viime vuosien politiikassaan yksinomaan puolisotilaallisten voimien rohkaisemiseen siinä määrin, että hän kutsui muutama kuukausi sitten puolisotilaallisten ryhmien johtajat parlamenttiin ja osoitti näin olevansa valmis keskustelemaan vain sodan yhden osapuolen kanssa. Jopa Ingrid Betancourtin sukulaiset ovat väittäneet, että juuri presidentti Uribe vastustaa kaikenlaista vankien vaihtoa. Kansallisessa turvallisuuspolitiikassa on viime vuosina keskitytty mielivaltaisiin joukkopidätyksiin, sosiaalisen konfliktin kriminalisoimiseen, ammattiyhdistysliikkeen edustajien teurastamiseen ja ihmisoikeusloukkauksiin.
+<P>
+Katsommekin, ettei Euroopan unionin tulisi julistautua tältä osin puolueettomaksi vaan pikemminkin rohkaista etsimään konfliktiin poliittista ratkaisua ja lopettamaan sotatoimet, joita presidentti Uribe parhaillaan tukee. Meidän pitäisi kaikin tavoin pyrkiä noudattamaan heinäkuussa 2003 annettua Lontoon julkilausumaa ja YK:n ihmisoikeusvaltuutetun maaliskuussa 1994 antamaa suositusta. Älkäämme unohtako, että nimenomaan Kolumbian hallitus on jättänyt tehdyt sopimukset noudattamatta.
+<P>
+Totean lopuksi, että kansainvälisen ja eurooppalaisen yhteistyön osalta on syytä huomata, että rauhanlaboratorioille tarkoitetut varat päätyvät aivan liian usein alueille, jotka ovat kokonaan puolisotilaallisten ryhmien valvonnassa. Tämä komission ja neuvoston pitäisi mielestäni teroittaa mieliinsä. 
+<SPEAKER ID="34" LANGUAGE="EN" NAME="Allister (NI )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, valitettavasti pohjoisirlantilaiset terroristit ovat omalta osaltaan lisänneet epävakautta Kolumbiassa. Vuonna 2001 IRA:n huippupommintekijä nimeltä Monaghan ja kaksi muuta terroristia vangittiin Kolumbiassa, kun nämä olivat välittämässä terrorismiasiantuntemustaan huumerahoin rahoitetuille FARCin marxistisille sisseille. Heidän tehtävänään oli tuolloin valmistaa lentokoneen polttoainetankkiin sijoitettava pommi IRA:n tarjoamien erikoisvälineiden avulla. Kahdella aiemmalla Kolumbian vierailullaan, jotka Sinn Feinin Kuuban edustaja oli järjestänyt, IRA oli jo välittänyt FARCille osaamistaan autopommien ja kranaattien valmistamisessa. FARC on käyttänyt siitä lähtien autopommeja ja kranaatteja, jotka ovat täysin identtisiä IRA:n käyttämien aseiden kanssa. Vastineeksi tappavasta asiantuntemuksestaan Sinn Fein-IRA sai kuusi miljoonaa dollaria, ja Kolumbian kansa puolestaan sai joukkomurhia ja tuhoa.
+<P>
+Totean lopuksi, että minulle Kolumbian tapaus on osoitus juuri siitä, miten paljon Sinn Feinin on muututtava ennen kuin sitä voidaan pitää hallituskelpoisena missään Irlannin osassa. 
+<SPEAKER ID="35" LANGUAGE="ES" NAME="Fernández Martín (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, Álvaro Uribe valittiin presidentiksi kaksi ja puoli vuotta sitten.
+<P>
+Nämä kaksi ja puoli vuotta eivät ole todellakaan olleet helppoja, mutta kolumbialaisten suuri enemmistö, ja lukujen valossa todellakin huomattava enemmistö katsoo, että maan tilanne on nyt parempi kuin kaksi vuotta sitten. Niinpä ei ole yllätys, että Uriben hallinnon kannatus on nyt voimakkaampaa kuin silloin, kun hänet valittiin presidentiksi ohjelmalla, jonka päätavoitteita ovat terrorismin torjunta ja rauhan aikaansaaminen maahan.
+<P>
+Jotkin luvuista ovat rohkaisevia. Yleinen järjestys on parantunut, vaikka Kolumbia onkin edelleen turvaton maa. Terroristi-iskujen ja panttivankisieppausten määrä on laskenut, vaikka niitä tapahtuukin edelleen. Huumeiden tuotanto ja vienti ovat vähentyneet, vaikka Kolumbialla onkin edelleen erittäin tärkeä asema kansainvälisessä huumekaupassa.
+<P>
+Päinvastaisista väitteistä huolimatta ihmisoikeudet eivät ole heikentyneet vakavasti Kolumbiassa. Juuri terroristit ottavat panttivankeja ja vaativat rahaa sekä rikkovat ihmisoikeuksia ja kansainvälistä humanitaarista oikeutta, eivät ne, jotka kieltäytyvät antamasta periksi panttivankien ottajien kiristykselle.
+<P>
+Mikään ei ole siis ollut helppoa, ja tehtävää on vielä paljon. Kolumbian hallitus yrittää parhaillaan, kesken kovimpien kiistojen, edistää puolisotilaallisten Kolumbian yhdistyneiden itsepuolustusjoukkojen (AUC) kanssa käytäviä neuvotteluja. Kun otetaan huomioon tähän prosessiin liittyvät vaikeudet, jotka on tunnustettu, Euroopan unionin pitäisi omaksua paljon aktiivisempi rooli, painostaa osapuolia ja varmistaa, että uhrien oikeuksia kunnioitetaan.
+<P>
+Teemme parhaillaan tiivistä yhteistyötä Kolumbian kanssa, mutta voimme tehdä tällä erityisen arkaluonteisella hetkellä vieläkin enemmän tukemalla Amerikan valtioiden järjestöä, jolla on laaja ja selkeä mandaatti Kolumbiassa. Tähän sisältyvät tulitauon valvontaa koskevien ohjelmien rahoittaminen, oikeusavun tarjoaminen uhreille sekä kotiutetuille sisseille ja heidän uhreilleen tarkoitetut sosioekonomiset hankkeet, joilla helpotetaan taistelijoiden yhteiskuntaan sopeuttamista ja luodaan mekanismeja kostoksi tehtyjen surmien estämiseksi.
+<P>
+Tehtävää on todellakin vielä paljon, ja tässä työssä meidän Euroopan unionissa pitää auttaa, minkä myös voimme tehdä.
+<P>
+Arvoisa komission jäsen, tällä erityisen arkaluonteisella hetkellä emme voi jättäytyä syrjään poliittisen korrektiuden vuoksi. 
+<SPEAKER ID="36" LANGUAGE="IT" NAME="Fava (PSE )." AFFILIATION="perdón y olvido">
+<P>
+   – Arvoisa puhemies, olen kiitollinen komission jäsenelle hänen lausumastaan, vaikka katsonkin, että meidän on löydettävä rohkeutta kerätä joitakin sellaisia lukuja, jotka kertovat meille, mitä Kolumbiassa todella tapahtuu. Osoitan sanani erityisesti jäsen Salafranca Sánchez-Neyralle, joka syyttää kaikkia, jotka eivät myönnä, että vaikeina viime vuosina Kolumbia on edistynyt ihmisoikeuksien laadun ja kunnioittamisen parantamisessa.
+<P>
+Haluan muistuttaa teitä Amnesty Internationalin vain muutama kuukausi sitten antamasta tiedotteesta, jossa järjestö huomautti, että ammattiyhdistysliikkeen edustajat ovat Kolumbiassa suuremmassa vaarassa kuin missään muussa maailman maassa, sillä 500 ammattiyhdistysaktiivia on tapettu viimeisten neljän vuoden aikana. YK:n pakolaisasian päävaltuutettu muistuttaa meitä siitä, että Kolumbiassa on kolme miljoonaa maan sisäistä pakolaista ja että 300 000 ihmistä on pakotettu pakenemaan ulkomaille.
+<P>
+Tässä sodassa, jossa kaikki taistelevat kaikkia muita vastaan, ja toistan, kaikki kaikkia muita vastaan, jokainen on syyllinen, tietysti myös sissiryhmät. Syyllisiä ovat kuitenkin myös asevoimat, jotka yhteistyössä puolisotilaallisten ryhmien kanssa osallistuvat suoraan surmiin, kidutukseen ja uhkailuun, joiden kohteina ovat ihmisoikeustyöntekijät, ammattiyhdistysliikkeen edustajat ja paikallisyhteisöjen johtajat, jotka on luokiteltu summittaisesti sisseiksi tai heidän kannattajikseen. Kerron tässä vain sen, minkä kansainväliset ihmisoikeusjärjestöt ovat meille kertoneet.
+<P>
+Hallituksen strategia tässä tilanteessa vaikuttaa vaarallisen lyhytnäköiseltä. Sopimukseen on päästy vain puolisotilaallisten ryhmien kanssa: -sopimus – anna anteeksi ja unohda. Uusia puolisotilaallisia ryhmiä on muodostettu, ja nyt armeijan ja poliisin välittömässä valvonnassa toimii 150 000 talonpoika-sotilasta.
+<P>
+Katsomme, että Kolumbian ongelmien käsittelemiseksi tarvitaan kaukonäköisempi lähestymistapa ja että meidän pitäisi myös tarkastella sitä, mitä Kolumbia-suunnitelmalle on tapahtunut viime vuosina: 500 000 Yhdysvaltain dollaria on mennyt suoraan lukuisten yhdysvaltalaisten urakoitsijoiden taskuihin. Arvoisa puhemies, Kolumbia-suunnitelma on ollut erinomainen liiketoimi lukuisille yhdysvaltalaisille yrityksille mutta paljon huonompi kauppa Kolumbialle, jota sorto ja sota yhä repivät hajalle.
+<P>
+Päätän puheenvuoroni pyytämällä komission jäsentä, parlamenttia ja toimielimiämme omaksumaan hyvin huolellisen ja objektiivisen lähestymistavan Kolumbian rauhanprosessin tukemiseen. Kolumbia ei selviä rauhanprosessista eikä rauhanneuvotteluista ilman kaikkien konfliktin osapuolten osallistumista, ja tämä tarkoittaa tosiaankin kaikkia osapuolia eikä vain puolisotilaallisia ryhmiä. 
+<SPEAKER ID="37" LANGUAGE="ES" NAME="Romeva i Rueda (Verts/ALE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, arvoisa komission jäsen Ferrero-Waldner, 40 vuotta jatkuneen aseellisen konfliktin jälkeen Kolumbiassa on kiistatta edelleen huutava pula rauhasta ja sosiaalisesta oikeudenmukaisuudesta. Uriben hallitus tukee silti ensisijaisesti sotilaallista lähestymistapaa, samaan aikaan kun se kieltäytyy tunnustamasta taustaltaan poliittisen aseellisen konfliktin olemassaoloa. Euroopan unioni voi tehdä paljon enemmän edistääkseen rauhaa Kolumbiassa.
+<P>
+Ensinnäkin Euroopan unioni voi vaatia Kolumbian hallitusta noudattamaan ehtona yhteisön avun saamiselle suosituksia, joita Euroopan unionin Bogotan edustusto antaa vuosittain ihmisoikeuksien osalta.
+<P>
+Toiseksi Euroopan unionin apua pitäisi käyttää puolisotilaallisen toiminnan lopettamiseen, mihin sisältyy paljon muutakin kuin pelkkä aseistariisuminen. Tässä yhteydessä tulisi jatkaa puolisotilaallisen toiminnan taustalla olevien poliittisten ja sosiaalisten kysymysten käsittelyä.
+<P>
+Kolmanneksi Euroopan unionin on selkeästi tuettava ja helpotettava alustavia keskusteluja, poliittisia neuvotteluja ja rauhansopimuksia kaikkien osapuolten, myös ELN ja FARCin, välillä. Tämä puolestaan edellyttää näiltä samoilta asianosaisilta toimia, kuten tuhansien panttivankien vapauttamista.
+<P>
+Neljänneksi Euroopan unionin on myös edistettävä humanitaarisia sopimuksia Geneven yleissopimuksen hengessä, kuten Permanent Assembly of Civil Society -järjestö ehdottaa. 
+<SPEAKER ID="38" LANGUAGE="EL" NAME="Pafilis (GUE/NGL )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, ilmaisemme solidaarisuutemme Kolumbian kansalle ja kaikille, jotka taistelevat Uriben barbaarista hallintoa vastaan, joka saa Yhdysvalloilta taloudellista, poliittista ja sotilaallista tukea ja joka murhaa armeijan ja puolisotilaallisten järjestöjen avustuksella ammattiyhdistysliikkeen edustajia sekä kylvää väkivaltaa ja kauhua Kolumbian kansan keskuuteen. Tätä politiikkaa käytetään Kolumbian harvainvallan etujen palvelemiseen, samaan aikaan kun kansalaisten tilanne heikkenee jatkuvasti.
+<P>
+Uriben hallintoa vastaan taistelevat poliittiset puolueet, työntekijöiden ammattiyhdistysjärjestöt, älymystöä edustavat naiset, nuoret, kirkko ja vastarintaliikkeet. Kolumbian konflikti on näin ollen poliittinen, taloudellinen ja sosiaalinen. Terrorismia ja kaikkea muuta koskevilla väitteillä pyritäänkin juuri salaamaan poliittiset ongelmat ja antamaan Uriben barbaariselle hallinnolle alibi. Jos Kolumbiassa halutaan saada aikaan sovinto, on löydettävä poliittinen ratkaisu, ja se voidaan löytää vain neuvottelujen kautta, jotka edellyttävät seuraavaa.
+<P>
+Ensinnäkin on luotava turvalliset olot, jotta kaikki osapuolet voivat istua neuvottelupöydässä.
+<P>
+Toiseksi FARC on poistettava terroristijärjestöjen luettelosta. Sitä paitsi Kolumbian hallinto itse tunnustaa FARCin poliittiseksi/sotilaalliseksi järjestöksi.
+<P>
+Kolmanneksi ensimmäisenä askeleena voisi olla soveltaa kansainvälistä humanitaarista oikeutta vaihtamalla vankeja ja hallituksen pidättämiä henkilöitä. Tämän kannan hyväksyvät kaikki paitsi maan hallitus.
+<P>
+Neljänneksi pidätettyjä ei pitäisi luovuttaa Yhdysvaltoihin.
+<P>
+Viidenneksi yhteiskunnalliseen elämään ja toimintaan osallistumista ei pitäisi enää luokitella rikokseksi ja kaikkia, joita syytetään armeijan tai poliisin tekemistä poliittisista rikoksista, pitäisi rangaista.
+<P>
+Kuudenneksi puolisotilaallisten järjestöjen avustaminen ja tukeminen tulisi lopettaa.
+<P>
+Seitsemänneksi Yhdysvaltojen pitäisi lopettaa kaikenlainen puuttuminen Kolumbian sisäisiin asioihin. Meidän pitäisi arvostella voimakkaasti Kolumbia-suunnitelmaa, joka on nimetty uudelleen Andien alueelliseksi aloitteeksi ja jolla valmistellaan laaja-alaista väliintuloa Kolumbiassa.
+<P>
+Kaikki osapuolet Uriben barbaarista hallitusta ja Yhdysvaltoja lukuun ottamatta hyväksyvät nämä näkökannat. 
+<SPEAKER ID="39" LANGUAGE="ES" NAME="López-Istúriz White (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, valitettavasti todellisuutta Kolumbiassa on se, että terrorismia rahoitetaan panttivankien ottamisella ja kiristyksellä. Monetkaan eivät luultavasti tiedä, tai eivät halua tietää, että entisen presidenttiehdokkaan Ingrid Betancourtin lisäksi sissit pitävät parhaillaan panttivankeinaan yli 3 000 kolumbialaista järkyttävissä ja epäinhimillisissä oloissa viidakossa. Kyseenalaistankin, onko tämä paras tapa taistella sosiaalisen oikeudenmukaisuuden puolesta.
+<P>
+Siitä ei ole kauaakaan, kun useat edellisen Euroopan parlamentin jäsenet toivottivat presidentti Uriben tervetulleeksi parlamenttiin lähtemällä salista vastalauseeksi demokratian puuttumiselle Kolumbiassa. He eivät luultavasti tienneet, tai eivät halunneet tietää, että presidentti Uribe oli juuri voittanut selvästi presidentinvaalien ensimmäisellä kierroksella, mikä on ennennäkemätön saavutus Kolumbian historiassa.
+<P>
+Monet eivät myöskään ehkä tiedä, tai eivät halua tietää, että FARC, ELN ja AUC ovat järjestöjä, jotka mainitaan Euroopan unionin ylläpitämässä terroristijärjestöjen luettelossa. Tietämättömyys voi olla ainoa syy siihen, miksi eräässä EU:n jäsenvaltiossa toimiva kansalaisjärjestö on juuri syyllistynyt terrorijärjestön rahoittamista koskevaan rikokseen antamalla FARCille 8 500 Yhdysvaltain dollaria.
+<P>
+Uriben hallitus on aloittanut vuoropuhelun niiden puolisotilaallisten ryhmien kanssa, jotka ovat valmiita aseistariisuntaan, vaatien näitä ainoastaan laskemaan aseensa. Hallitusta on arvosteltu voimakkaasti tästä. FARCin tapaus on kuitenkin erilainen. Neuvottelut eivät tule kyseeseen niin kauan kuin FARC kieltäytyy aseistariisunnasta eikä myöskään niin kauan kuin hallitus ei tunnusta sen "turvaamaa aluetta", jolla FARC jatkaa rikoksiaan. Älkäämme unohtako, että presidentti Pastrana pyrki viisi vuotta sitten neuvottelemaan FARCin kanssa. FARC ei kuitenkaan koskaan saa tukea yhteiskunnalta, jonka taakkana ovat tuska ja läheisten veri.
+<P>
+Tällä välin osa kansainvälisestä yhteisöstä on sitoutunut arvostelemaan maan laillista demokraattista hallitusta yhden tunnetuimpiin kuuluvan kansalaisjärjestön välityksellä. Tämä vaikuttaa moniin meistä ja saa monet jopa muuttamaan kantaansa.
+<P>
+Lopuksi haluan muistuttaa teitä Espanjan historiasta. Aloimme päästä voitolle Espanjassa toimivasta terrorismista vasta, kun Euroopan unioni alkoi kohdella sitä kaikkiin eurooppalaisiin vaikuttavana asiana. Sama pätee myös Kolumbian tapaukseen. 
+<SPEAKER ID="40" LANGUAGE="EN" NAME="De Rossa (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, ensinnäkin haluan mainita parlamentin roolin ja kiittää sitä toimista, joihin se ryhtyi taatakseen Pohjois-Irlantia koskevan Peace II -ohjelman toteutumisen, mistä on neuvoteltu neuvoston kanssa sovittelumenettelyssä muutamien viime päivien aikana. Euroopan unionilla ja tietysti Euroopan parlamentilla on tärkeä rooli rauhan turvaamisessa osassa Eurooppaa.
+<P>
+Keskustelun kuluessa on kerrottu, että viimeisten neljän vuoden aikana on murhattu 500 ammattiyhdistysliikkeen edustajaa. Puolet eli 250 näistä on tapettu sen jälkeen, kun Uribe valittiin presidentiksi, ja 50 heistä viimeisten yhdeksän kuukauden aikana.
+<P>
+Jos aiomme käsitellä tätä tilannetta vakavasti, meidän on vaadittava Kolumbian hallitusta toimimaan tavalla, jolla kaikkien hallitusten odotetaan toimivan, nimittäin lain puitteissa. Tämä ei koske pelkästään kansallista vaan myös kansainvälistä oikeutta. Tässä presidentti Uribe ja hänen hallituksensa ovat selkeästi epäonnistuneet.
+<P>
+Olen huolissani siitä, että komissio sanoo nyt, ettei tätä konfliktia voida ratkaista "aseellisesti", kun se aiemmin totesi, ettei konfliktia voida ratkaista ilman neuvoteltua sopimusta. Oletan, että komissio on edelleen tällä kannalla. Minua huolestuttaa, että komissio toteaa, ettei "tätä konfliktia voida ratkaista aseellisesti". Jos aiomme hyväksyä sen, että Kolumbian hallituksella on oikeus käyttää sotilaallista voimaa tietyissä tilanteissa, meidän on vaadittava, että hallitus toimii oikeusvaltion ja erityisesti kansainvälisen oikeuden puitteissa, ihmisoikeudet turvataan ja että erityisesti ammattiyhdistysliikkeen edustajat voivat toimia vailla salamurhatuksi tulemisen uhkaa. 
+<SPEAKER ID="41" LANGUAGE="ES" NAME="Salafranca Sánchez-Neyra (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, pyysin puheenvuoroa työjärjestyksen henkilökohtaisia lausumia koskevan 145 artiklan perusteella. Totesin aiemmassa puheenvuorossani, että FARCin sissit ovat ottaneet 6 000 ihmistä panttivangiksi muutamien viime vuosien aikana. Poliitikkoja, siviilejä ja sotilaita, joista monet ovat sairaita, pidetään panttivankeina viidakossa epäinhimillisissä oloissa, joissa he kokevat suurta kärsimystä ja puutetta.
+<P>
+Totesin, että FARCin sissit pitävät suurta joukkoa ihmisiä panttivankeinaan, ja tiedän tämän erittäin hyvin, koska kun presidentti Pastrana aloitti neuvottelut, tapasin yhdessä muiden parlamentin jäsenten kanssa FARCin johtajan Manuel Marulandan vedotakseni häneen eräiden Euroopan unionin alueelta kotoisin olevien panttivankien vapauttamisen puolesta. Olen varma, että nämä tosiasiat ovat kaikkien tiedossa, ja huomautukseni koskikin sitä, että välinpitämättömyys ja vilpillinen tarkoitus voivat olla ainoat syyt siihen, ettei näitä tosiasioita oteta huomioon.
+<P>
+Arvoisa puhemies, kehotin puheenvuorossani Kolumbian hallitusta kantamaan vastuunsa todeten, että se voisi tehdä enemmän ja paremmin, vaikka se onkin tehnyt jo paljon. Tämä puolestaan siirtäisi todistustaakan takaisin niille, jotka vaativat lunnaita, ottavat panttivankeja ja kiristävät Kolumbian yhteiskuntaa. 
+<SPEAKER ID="42" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Istunto keskeytettiin muutaman minuutin ajaksi ja sitä jatkettiin äänestyksellä.)">
+<P>
+   – Kiitän puhujia ja komission jäsentä keskusteluun osallistumisesta.
+<P>
+Keskustelu on päättynyt.
+<P>
+Äänestys toimitetaan klo 11.00.
+<SPEAKER ID="43" LANGUAGE="PT" NAME="Ribeiro (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   .  Samaan aikaan kun Venezuelassa, Brasiliassa, Argentiinassa, Uruguayssa ja monissa muissa tämän maanosan maissa ja kaikkialla maailmassa tapahtuu historiallisia ja toivoa herättäviä muutoksia, Kolumbian tilanne on sitä vastoin muuttumassa yhä väkivaltaisempaan ja taantumuksellisempaan suuntaan.
+<P>
+Demokratian varjolla toimivien instituutioiden, puolisotilaallisten järjestöjen ja kruununtodistajien – eli ilmiantajien – välinen yhteys on luonut ja vahvistanut sortoon ja väkivaltaan perustuvaa verkostoa.
+<P>
+Käytössä ovat kaikenlaiset temput. Terrorismia ja huumekauppaa käytetään verukkeina ihmisten liikkuvuuden rajoittamiseen ja sellaisten alueiden tuhoamiseen, joiden epäillään olevan vastarintaliikkeen toimi- tai tukialuetta, toisin sanoen fasistiseen soluttautumiseen.
+<P>
+Tämän Kolumbiassa käytävän kiivaan taistelun ytimessä ovat sosiaaliset kysymykset ja maan sijainti. Edistyksellinen työlainsäädäntö on viime vuosina joutunut brutaalien hyökkäysten kohteeksi. Sosiaalikysymyksiä koskevan taistelun eturintamassa toimivina kommunistit ovat olleet näiden hyökkäysten pääkohteita. Sotilaalliset operaatiot ovat seuranneet toistaan vailla menestystä. Naapurimaiden tapahtumat ovat merkinneet sitä, että poliisitoiminnasta ja puskurivyöhykkeiden muodostamisesta on tullut yhä tärkeämpiä.
+<P>
+Kun niin monet täällä ovat puhuneet niin paljon ihmisoikeuksista, meidän pitäisi kiinnittää paljon enemmän huomiota Kolumbian kysymykseen siten, että tuomitsemme epäkohdat, ilmaisemme solidaarisuutta ja taistelemme parannusten aikaansaamiseksi. Tähän eivät sitä vastoin kuulu Kolumbian sisäisiin asioihin puuttuminen, sotilaallinen toiminta eikä väliintulo, jolla Yhdysvallat aina uhkaa aluetta niin sanotun Kolumbia-suunnitelmansa mukaisesti.
+<SPEAKER ID="44" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="45" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi mietinnön.)">
+<SPEAKER ID="46" LANGUAGE="SV" NAME="Schlyter (Verts/ALE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, pyydän ryhmäni puolesta työjärjestyksen 168 artiklan 2 kohdan mukaisesti, että äänestystä lykätään ja asia palautetaan valiokuntaan.
+<P>
+Perustelen tätä työjärjestyksen 35 artiklalla, joka koskee oikeusperustan tarkistamista. Perustamissopimuksen 18 artiklan 3 kohdassa määrätään nimenomaisesti, että passit ja oleskeluluvat eivät kuulu EU:n toimivaltaan. Oikeusperustaksi ehdotettu 62 artikla koskee vaatimuksia ja menettelyjä, joita jäsenvaltioiden on noudatettava tarkastuksissa; se ei koske toimivaltaa passien alalla.
+<P>
+Pyydän asian palauttamista valiokuntaan, jotta oikeudellisten asioiden valiokunta saa mahdollisuuden ilmaista mielipiteensä oikeusperustasta sekä tämän mietinnön että oleskelulupia koskevan mietinnön osalta, josta keskustellaan seuraavan istuntojakson aikana. Vaadimme myös, että oikeudellisen yksikön lausuntoa täydennetään, sillä se myöntää itsekin 50 kohdassa, ettei sillä ole riittävästi toimivaltaa määrittääkseen, ovatko kaikki toimenpiteet oikeusperustan mukaisia.
+<P>
+Lisäksi Yhdysvaltain tilintarkastustuomioistuin on laatinut kertomuksen, jossa tarkastellaan biometrisiin tietoihin liittyviä kustannuksia ja ongelmia, joten suhtaudun epäilevästi kyseisen toimenpiteen tehokkuuteen ja pohdin, onko neuvosto tutkinut näitä kysymyksiä riittävästi. 
+<SPEAKER ID="47" LANGUAGE="PT" NAME="Coelho (PPE-DE )," AFFILIATION="esittelijä">
+<P>
+   .  Arvoisa puhemies, hyvät parlamentin jäsenet, esittelijänä katson ja kansalaisvapauksien sekä oikeus- ja sisäasioiden valiokunta katsoo, ettei oikeusperusta muodosta ongelmaa. Tässä yhteydessä herää kuitenkin yksinkertainen poliittinen kysymys: onko parlamentti sellaisessa asemassa, että se voi ilmoittaa neuvostolle asiaa koskevasta kannastaan? Katsomme, että parlamentin olisi tuotava tänään neuvoston tietoon, että vaikka kannatammekin passien ja matkustusasiakirjojen varmuuden parantamista, kannatamme myös henkilötietojen suojaamiseen tähtäävien tiukkojen lausekkeiden säilyttämistä. Tämä näkemys on omaksuttu kansalaisvapauksien sekä oikeus- ja sisäasioiden valiokunnassa hyväksytyssä mietinnössä, ja pyydän myös kaikkia parlamentin jäseniä hyväksymään tämän kannan tänään. 
+<SPEAKER ID="48" LANGUAGE="FR" NAME="Bourlanges (ALDE )," AFFILIATION="kansalaisvapauksien sekä oikeus- ja sisäasioiden valiokunnan lausunnon laatija.">
+<P>
+   – Arvoisa puhemies, kansalaisvapauksien sekä oikeus- ja sisäasioiden valiokunnan puheenjohtajana haluaisin yksinkertaisesti antaa teille tietoa. Siksi esitän teille lausunnon, joka ei ole sen enempää puolesta kuin vastaankaan, vaikka olenkin henkilökohtaisesti samaa mieltä esittelijän kanssa. Haluan korostaa, että jollemme äänestä tänään mietinnön puolesta, neuvosto huomaa parlamentin kyvyttömyyden toimia ja päättää asiasta yksinkertaisesti itse. Koska uskon, että tällä asialla on merkitystä parlamentille, halusin tuoda tämän asian esille. 
+<SPEAKER ID="49" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hylkäsi Schlyterin ehdotuksen.)">
+<SPEAKER ID="50" LANGUAGE="PL" NAME="Jałowiecki (PPE-DE )." AFFILIATION="">
+<P>
+      Arvoisa puhemies, haluaisin kommentoida lyhyesti kahta näkökulmaa, toinen liittyy tyyliseikkoihin, toinen oikeudellisiin seikkoihin, ja ne molemmat koskevat 11 kohdan kahta ensimmäistä riviä. Haluaisin lukea ääneen nämä alkuperäisen englanninkielisen version kaksi ensimmäistä riviä ja selventää sen jälkeen ehdottamiani muutoksia. Nämä rivit kuuluvat seuraavasti: "Kehottaa komissiota, neuvostoa ja jäsenvaltioita nopeuttamaan Ukrainaa koskevan toimintasuunnitelman ratifiointia – – mikäli nykyisessä tilanteessa saavutetaan tyydyttävä tulos". Ehdotan, että sana "mikäli" korvataan sanalla "odotettaessa sitä, että" ja sana "ratifiointi" sanalla "hyväksyminen". Näiden tarkistusten jälkeen kyseiset kaksi riviä kuuluisivat seuraavasti: 
+<SPEAKER ID="51" LANGUAGE="" NAME="" AFFILIATION="">
+<P>
+"kehottaa komissiota, neuvostoa ja jäsenvaltioita nopeuttamaan Ukrainaa koskevan toimintasuunnitelman ratifiointia – – mikäli nykyisessä tilanteessa saavutetaan tyydyttävä tulos". 
+<SPEAKER ID="52" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi suullisen tarkistuksen.)">
+<SPEAKER ID="53" LANGUAGE="SV" NAME="Malmström (ALDE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, tämä kohta on hieman epäselvä. Tämän suullisen tarkistuksen on esittänyt itse asiassa Euroopan liberaalidemokraattien liiton ryhmä työjärjestyksen 4 artiklan mukaisesti. Luen sen ääneen. 
+<SPEAKER ID="54" LANGUAGE="" NAME="" AFFILIATION="">
+<P>
+"Kehottaa hallitusta pidättäytymään tiedotusvälineiden, erityisesti julkisten tiedotusvälineiden painostamisesta, niin että ukrainalaiset saavat objektiivista ja puolueetonta tietoa ehdokkaista ja maassa vallitsevasta poliittisesta tilanteesta." 
+<SPEAKER ID="55" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi suullisen tarkistuksen.)">
+<SPEAKER ID="56" LANGUAGE="DE" NAME="Laschet (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, Kiovassa parhaillaan vierailevaan valtuuskuntaan kuuluvat kollegamme ovat yksinkertaisesti pyytäneet, että poistaisimme johdanto-osan kappaleen M, joka kuuluu seuraavasti: 
+<SPEAKER ID="57" LANGUAGE="" NAME="" AFFILIATION="">
+<P>
+"ottaa huomioon presidentti Leonid Kutšman 29. marraskuuta esittämät lausunnot, joiden mukaan hän tukisi uusia vaaleja" 
+<SPEAKER ID="58" LANGUAGE="DE" NAME="" AFFILIATION="">
+<P>
+ Tämä on ainoa suullinen tarkistus. Kaikki muut on jo esitetty. 
+<SPEAKER ID="59" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi suullisen tarkistuksen.)">
+<SPEAKER ID="60" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi yhteisen päätöslauselman.)">
+<P>
+(1)
+<P>
+(2)
+<SPEAKER ID="61" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="62" LANGUAGE="PT" NAME="Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin Mulderin mietinnön puolesta, koska katson, että rakennerahastojen maksut on suoritettava jäsenvaltioille mahdollisimman ajallaan. Talousarvion käytännön toteuttamisen takia nyt käsiteltävänä oleva tarkistus on selvästi tarpeen ja siksi perusteltu. 
+<SPEAKER ID="63" LANGUAGE="PT" NAME="Ribeiro (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Nyt tarkasteltavassa lisätalousarviossa, jota käsiteltiin 25. marraskuuta järjestetyssä talousarvion neuvottelukokouksessa, lisätään rakennerahastojen maksumäärärahoja 3,7 miljoonalla eurolla, joista 500 miljoonaa euroa on täydentäviä omia varoja. Äänestimme siksi esityksen puolesta.
+<P>
+Tämä osoittaa, että olimme oikeassa. Vuosi sitten totesimme, että rakennerahastojen määrärahat ovat riittämättömiä ja että neuvoston pakkomielle leikata – parlamentin hyväksynnällä – määrärahoja vakaus- ja kasvusopimuksen rajoitteiden takia syventäisi entisestään hyväksyttyjen menojen ja määrärahojen välistä eroa ja johtaisi ongelmiin talousarvion toteuttamisessa.
+<P>
+Voidaan odottaa, että jäsenvaltioiden tätä alaa koskevat pyynnöt lisääntyvät nykyisen rahoituskehyksen jäljellä olevina vuosina. Rakennerahastoja varten on siten luotava kaikki tarvittavat perusteet, jotta ne voidaan panna täytäntöön kaikilta osin. Tämä on ristiriidassa sen kanssa, että parlamentti antaa hyväksyntänsä vuoden 2005 maksumäärärahojen rajaamiselle yhteen prosenttiin yhteisön BKTL:stä.
+<P>
+Eräs toinen huolenaihe liittyy siihen, että niin kutsutun N+2-säännön takia on entistä suurempi vaara, että hyväksytyt menot joudutaan peruuttamaan. Tämä huolenaihe on myös johtanut pyyntöihin kumota vakaus- ja kasvusopimus. 
+<SPEAKER ID="64" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="65" LANGUAGE="PT" NAME="Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin säästöjen tuottamien korkotulojen verotusta koskevan Gauzès'n mietinnön (A6-0039/2004) (San Marino) puolesta. Tehdyllä sopimuksella mahdollistetaan, että kyseiset maat ottavat käyttöön vastaavat toimenpiteet kuin millä Euroopan unionissa on tarkoitus varmistaa yhdessä valtiossa säästöistä korkoina saatujen tulojen tosiasiallinen verotus, kun edunsaaja asuu toisessa jäsenvaltiossa. Tällä välineellä on tarkoitus mahdollistaa tehokas verotus, joka on välttämätön haitallisen verokilpailun torjumiseksi ja yhtenäismarkkinoiden toiminnan parantamiseksi. Arvostamme San Marinon tasavallan pyrkimyksiä verotuksen avoimuuteen ja todelliseen oikeudelliseen yhteistyöhön, mikä mahdollistaa petosten ja rahanpesun torjumisen. On kuitenkin korostettava, että San Marinon tasavallan, joka on päättänyt perustaa osan hyvinvoinnistaan finanssipalvelujen kehityksen varaan, on jatkossakin noudatettava pelisääntöjä ja lisättävä yhteistyötään rahanpesun torjunnassa. 
+<SPEAKER ID="66" LANGUAGE="PT" NAME="Ribeiro (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Olemme tietoisia painostuksesta lisätä verotusta koskevaa EU:n suvereeniutta – veronkantovaltaa – ja vastustamme sitä vakaasti, sillä suvereenius veroasioissa on olennainen osa kunkin maan suvereeniutta. Olemme tietoisia myös verotuksen asteittaisen yhdenmukaistamisen vaaroista, sillä sen tavoitteena on toteuttaa vähitellen Euroopan liittovaltio. Emme kuitenkaan ikinä vastustaisi verojen yhteensovittamisen lujittamista pääoman hallitsemattoman liikkuvuuden verottamiseksi, veropetosten ja veronkierron torjumiseksi, verokeitaiden lakkauttamiseksi ja rahanpesun lopettamiseksi.
+<P>
+Säästöjä koskevalla direktiivillä, joka on osa niin kutsuttua Montin pakettia, edistetään sen vaaroista ja puutteista huolimatta sellaisen järjestelmän perustamista, jonka avulla jäsenvaltioiden verohallinnot voivat antaa toisilleen tietoa – tähän liittyy myös pankkisalaisuuden kumoaminen – jotta ne voivat verottaa toisesta jäsenvaltiosta saatuja korkotuloja. Neuvosto on näin ollen valtuuttanut komission neuvottelemaan Sveitsin, Yhdysvaltain, Andorran, Liechtensteinin, Monacon ja San Marinon kanssa sopimukset, joiden nojalla nämä maat ottaisivat käyttöön vastaavat toimenpiteet pääoman pakenemisen estämiseksi. Suhtaudumme myönteisesti näihin sopimuksiin, emme kuitenkaan sisämarkkinoiden takia, kuten esittelijä toteaa, vaan koska pääoman verottaminen ja verokeitaiden torjuminen edellyttää yhteensovittamistoimia, etenkin jos verotaakka sälytetään pääasiassa työntekijöiden harteille. Katsomme kuitenkin, ettei sopimuksen ehdoilla varmisteta tällaista ehdotusta. 
+<SPEAKER ID="67" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="68" LANGUAGE="PT" NAME="Ribeiro (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Olemme tietoisia painostuksesta lisätä verotusta koskevaa EU:n suvereeniutta – veronkantovaltaa – ja vastustamme sitä vakaasti, sillä suvereenius veroasioissa on olennainen osa kunkin maan suvereeniutta. Olemme tietoisia myös verotuksen asteittaisen yhdenmukaistamisen vaaroista, sillä sen tavoitteena on toteuttaa vähitellen Euroopan liittovaltio. Emme kuitenkaan ikinä vastustaisi verojen yhteensovittamisen lujittamista pääoman esteettömän liikkuvuuden verottamiseksi, veropetosten ja veronkierron torjumiseksi, verokeitaiden lakkauttamiseksi ja rahanpesun lopettamiseksi.
+<P>
+Säästöjä koskevalla direktiivillä, joka on osa niin kutsuttua Montin pakettia, edistetään sen vaaroista ja puutteista huolimatta sellaisen järjestelmän perustamista, jonka avulla jäsenvaltioiden verohallinnot voivat antaa toisilleen tietoa – tähän liittyy myös pankkisalaisuuden kumoaminen – jotta ne voivat verottaa toisesta jäsenvaltiosta saatuja korkotuloja. Neuvosto on näin ollen valtuuttanut komission neuvottelemaan Sveitsin, Yhdysvaltain, Andorran, Liechtensteinin, Monacon ja San Marinon kanssa sopimukset, joiden nojalla nämä maat ottaisivat käyttöön vastaavia toimenpiteitä pääoman pakenemisen estämiseksi. Suhtaudumme myönteisesti näihin sopimuksiin, emme kuitenkaan sisämarkkinoiden takia, kuten esittelijä toteaa, vaan koska pääoman verottaminen ja verokeitaiden torjuminen edellyttää yhteensovittamistoimia, etenkin jos verotaakka sälytetään pääasiassa työntekijöiden harteille. Katsomme kuitenkin, ettei sopimuksen ehdoilla varmisteta tällaista ehdotusta. 
+<SPEAKER ID="69" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="70" LANGUAGE="EN" NAME="McCarthy (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, olen tyytyväinen Mastenbroekin mietinnössä esitettyihin ehdotuksiin. Koska rajatylittävä liikenne ja Internetin sisällön väärinkäyttö lisääntyvät, Euroopan on lisättävä toimiaan suojellakseen lapsia haitalliselta ja loukkaavalta sisällöltä. Sen on ryhdyttävä toimiin Internetin pedofiliasivustojen räjähdysmäistä leviämistä vastaan. Euroopan on kuitenkin lisättävä toimiaan paitsi tiedottamisen parantamiseksi ja sivustojen sulkemiseksi myös täytäntöönpanoviranomaisten avustamiseksi, jotta lainrikkojat voidaan saada kiinni ja asettaa syytteeseen ja uhrit voidaan tunnistaa.
+<P>
+Haluan, että EU antaa jatkossakin tukea hankkeille, joiden tavoitteena on tunnistaa Internetissä tapahtuvan lasten väärinkäytön uhrit. Lapset, jotka esiintyvät loukkaavissa kuvissa, tuntevat tuskaa, syyllisyyttä ja kärsimystä koko loppuelämänsä ajan. Pedofiilit käyvät päivittäin kauppaa heidän kuvillaan Internetissä. On arvioitu, että 60 000 lapsesta, jotka esiintyvät näissä loukkaavissa kuvissa, on tunnistettu ja rekisteröity vain 250. Uudet teknologiat, kuten kuvaviestintä ja digitaalikamerat, helpottavat loukkaavien lapsikuvien tuottamista ja jakamista Internetissä. Toivokaamme, että tämänpäiväinen mietintö avaa uusia mahdollisuuksia toimia EU:n tasolla, jotta voimme puuttua rikolliseen ja loukkaavaan aineistoon ja torjua sen ja estää lasten hyväksikäytön. 
+<SPEAKER ID="71" LANGUAGE="PT" NAME="Coelho (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Uudet teknologiat, kuten Internetin ja uuden verkkoteknologian tarjoamat uudet mahdollisuudet, kehittyvät huimaavaa vauhtia. Tämän kehityksen eräs kääntöpuoli on kuitenkin se, että tällaisten teknologioiden erilaiset käyttötavat tuovat mukanaan vaaroja ja väärinkäytöksiä. Siksi on ryhdyttävä toimenpiteisiin niiden turvallisen käytön edistämiseksi ja loppukäyttäjien suojelemiseksi ei-toivotulta sisällöltä.
+<P>
+Siksi kannatan tätä aloitetta, jonka tavoitteena on perustaa monivuotinen yhteisön ohjelma Internetin ja uuden verkkoteknologian käyttöturvallisuuden edistämiseksi. Ohjelman toiminta-aloihin kuuluvat esimerkiksi lapsille mahdollisesti haitallinen sisältö, loppukuluttajille kohdistettu ei-toivottu sisältö ja laiton sisältö, kuten lapsipornografia.
+<P>
+Sillä korvataan Internetin käyttöturvallisuutta koskeva toimintaohjelma (1998–2004), jolla on edistetty menestyksekkäästi monia aloitteita, joiden tarkoituksena on kehittää parhaita tapoja hyödyntää uusien viestimien mahdollisuuksia turvallisesti.
+<P>
+Olen tyytyväinen myös suunnitelmaan perustaa kaikkiin jäsenvaltioihin uusia vihjelinjoja, jotka on yhdennettävä nopeasti ja tehokkaasti nykyiseen eurooppalaiseen vihjelinjaverkostoon, jotta varmistetaan, että laittoman sisällön tärkeimmät lajit katetaan ja niistä tehtyjä ilmoituksia vaihdetaan. 
+<SPEAKER ID="72" LANGUAGE="PT" NAME="Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestimme mietinnön puolesta, sillä sen painopisteenä on aihe, josta vallitsee laaja yhteisymmärrys. Kannatamme asetettuja tavoitteita, joita ovat Internetin asiattoman käytön torjuminen, Internetin käyttöturvallisuuden edistäminen etenkin lasten keskuudessa ja Internetin laittoman ja ei-toivotun sisällön torjunta, ja mielestämme tähän kysymykseen olisi kiinnitettävä entistä enemmän huomiota.
+<P>
+Olemme tyytyväisiä ehdotuksiin perustaa ohjelma laittoman sisällön torjunnan rahoittamiseksi ja yhteensovittamiseksi siten, että painotetaan loppukäyttäjille tiedottamista politikoinnin sijasta; ehdotuksiin rahoittaa vihjelinjoja ja sovittaa yhteen niiden toimintaa EU-valtioissa sekä koordinoida näiden vihjelinjojen toimintaa yhdessä tulevien jäsenvaltioiden ja EU:n ulkopuolisten maiden kanssa; ehdotuksiin leikata yksityisille yrityksille myönnettävää rahoitusta suodatussovellusten kehittämiseksi ja lisätä kansalaisjärjestöjen osallistumista Internet-palvelujen tarjoajien (ISP) itsesääntelyn toteuttamiseksi sen asemesta, että otetaan käyttöön lainsäädännöllisiä valvontamenettelyjä.
+<P>
+On totta, että Internet on kehittynyt siten, että sen avulla voimme hyödyntää uusia teknologian aloja ja "navigoida" verkkosivuilla. Sitä hallitsevat kuitenkin liikemaailman edut, ja se on muuttunut suunnattomaksi mainospaikaksi, joka kattaa myös pornoteollisuuden ja laittoman sisällön, kuten lapsipornografian, muukalaisvihaa lietsovan ja rasistisen aineiston. Siksi on ryhdyttävä toimenpiteisiin mutta varmistettava samalla, ettei perusoikeuksia ja -vapauksia rajoiteta. 
+<SPEAKER ID="73" LANGUAGE="FR" NAME="Gollnisch (NI )," AFFILIATION="kirjallinen.">
+<P>
+    Internetin käyttöturvallisuutta koskevan toimintaohjelman (1998-2004) päätteeksi olemme nyt ottamassa käyttöön uutta Safer Internet Plus -ohjelmaa. Ne eroavat toisistaan siinä, että ilmaisunvapautta on rajoitettu lisää ja rasistiseen sisältöön on kiinnitetty hieman enemmän huomiota. Laittoman sisällön lisäksi kielletään myös ei-toivottu ja haitallinen sisältö. Suodatussovellukset, toimintasäännöt, itsesääntely, muiden ilmianto... Kauan eläköön sensuuri! Torjumme tällaisia ehdotuksia myötäilevän asiakirjan, sillä olemme sitoutuneita edistämään ilmaisunvapautta ja tuomitsemme asiakirjat, joilla hävitetään vapaus. Kommunisti Jean-Claude Gayssot'n laki on paras esimerkki tällaisesta asiakirjasta. Lisäksi haluamme korostaa, että Internetin perustana on sähköinen viestintä, ja toisin kuin tietyt totalitarismin edustajat olemme sitoutuneita viestinnän, myös sähköisen viestinnän, vapauteen. Meidän on tuomittava barbaariset, pedofiiliset tai väkivaltaiset käyttäytymismuodot ja niihin syyllistyvät henkilöt, ei viestimiä, joita he käyttävät hyväkseen. Meidän on muutettava yhteiskuntaa, jolle on ominaista moraalin jatkuva rappeutuminen ja jossa arkipäiväistetään kaikenlainen poikkeava käyttäytyminen. Meidän on torjuttava hallitustemme omahyväistä suhtautumista tällaisiin arvaamattomiin suuntauksiin sen sijaan, että torjumme ajatuksenvapauden ja vapauden ilmaista itseään Internetin tai muiden kanavien välityksellä. Näitä vapauksia uhmataan parhaillaan Ranskassa poliittisen korrektiuden nimissä. 
+<SPEAKER ID="74" LANGUAGE="" NAME="Martin, David (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Olen tyytyväinen tähän mietintöön, jossa korostetaan, miten tärkeää on jatkaa toimia lasten suojelemiseksi haitalliselta ja ei-toivotulta sisällöltä, jota välitetään Internetissä.
+<P>
+Olen tyytyväinen, että mietinnössä tunnustetaan tarve panna täytäntöön toimenpiteitä, joilla rohkaistaan ilmoittamaan laittomasta sisällöstä, ja toteuttaa suodatustekniikoiden suorituskykyä koskevia arviointeja ja näiden tekniikoiden vertailuanalyyseja.
+<P>
+Lisäksi haluaisin korostaa, miten tärkeää on, että komissio tekee tiivistä yhteistyötä jäsenvaltioiden kanssa, sillä näin varmistetaan, että ohjelman täytäntöönpanolla täydennetään muita asiaa koskevia yhteisön poliitikkoja, etenkin tutkimusta ja teknologian kehittämistä koskevia yhteisön ohjelmia sekä Daphne-, digitaalinen sisältö- ja Modinis-ohjelmia. 
+<SPEAKER ID="75" LANGUAGE="PT" NAME="Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin Internetin ja uuden verkkoteknologian käyttöturvallisuutta koskevan Mastenbroekin mietinnön (A6-0033/2004) puolesta.
+<P>
+Internetin ja uuden teknologian, kuten matkapuhelinten, käyttö yhteisössä lisääntyy edelleen huomattavasti. Tämän ohella erityisesti lapsiin kohdistuvat vaarat ja teknologian väärinkäyttö jatkuvat. ja uusia vaaroja ja väärinkäyttömuotoja kehitetään. Jotta voitaisiin edistää Internetin ja uuden verkkoteknologian tarjoamien mahdollisuuksien hyödyntämistä, tarvitaan toimia niiden käyttöturvallisuuden parantamiseksi ja loppukäyttäjien suojelemiseksi ei-toivotulta sisällöltä.
+<P>
+Uusi Safer Internet Plus -ohjelma sisältää useita myönteisiä ehdotuksia nykyisten ohjelmien edistämiseksi ja uusien luomiseksi. Keskittyminen loppukäyttäjään on realistisin lähestymistapa, ja tiedottamisen korostaminen on ohjelman suurin vahvuus. Esittelijän tavoin katsomme, että ohjelmassa olisi korostettava avoimuuden ja kaikkien sidosryhmien edustavuuden tärkeyttä. Meidän on toimittava aktiivisesti myös kaikkien ehdotettujen toimintalinjojen edistämiseksi. Nämä ovat laittoman sisällön torjunta, ei-toivotun ja haitallisen sisällön torjunta, Internetin käyttöturvallisuutta käsittelevän foorumin perustaminen ja yleisölle tiedottaminen. 
+<SPEAKER ID="76" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="77" LANGUAGE="CS" NAME="Fajmon (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, haluaisin vain antaa lyhyen selityksen Coelhon mietintöä koskevasta äänestyksestä. Halusin nimittäin äänestää lopullisessa äänestyksessä mietintöä vastaan, mutta äänestin mietinnön puolesta. Tämä ei kuitenkaan muuta äänestyksen tulosta millään tavalla. Kiitokset. 
+<SPEAKER ID="78" LANGUAGE="EN" NAME="Cashman (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Sosiaalidemokraattinen ryhmä kannatti edellä mainittua mietintöä kansalaisvapauksien sekä oikeus- ja sisäasioiden valiokunnassa 25. lokakuuta 2004 toimitetussa äänestyksessä. Mietintö, sellaisena kuin siitä äänestettiin valiokunnassa, sisälsi pakollisena tunnisteena digitaalisen valokuvan, mutta toisen biotunnisteen (digitaalisen sormenjäljen) valinta jätettiin jäsenvaltioiden vastuulle.
+<P>
+PSE-ryhmän esitys sai kannatusta valiokunnassa, ja sillä varmistettiin välttämätön tietosuoja ja kansalaisvapauksien suojelu (katso tarkistukset 5, 7, 8, 9, 10, 11, 12). Lisäksi sosiaalidemokraattinen ryhmä kannattaa neuvoston 23. marraskuuta vahvistaman kannan 2 artiklassa ja 4 artiklan 1, 2 ja 3 kohdassa esitettyjä suojakeinoja.
+<P>
+Marraskuun lopussa vuonna 2004 järjestetyssä oikeus- ja sisäasioiden valiokunnan kokouksessa päätettiin kahdesta pakollisesta biotunnisteesta (digitaalinen valokuva ja sormenjäljet). Neuvosto ilmaisi haluavansa tehdä asiasta lopullisen päätöksen 3. joulukuuta 2004 järjestettävässä kokouksessaan. Neuvosto vaatii, että Euroopan parlamentti hyväksyy asiakirjan joulukuun ensimmäisessä täysistunnossa.
+<P>
+PSE-ryhmä katsoo, ettei Euroopan parlamentti hyödy millään tavoin siitä, että se vaatii neuvostoa kuulemaan parlamenttia uudelleen tästä kuulemismenettelyn piiriin kuuluvasta mietinnöstä. PSE-ryhmä kehottaa neuvostoa tunnustamaan parlamentin hyvän tahdon, jota se on osoittanut noudattaessaan neuvoston toivomaa aikataulua mietinnön käsittelyssä. 
+<SPEAKER ID="79" LANGUAGE="SV" NAME="Cederschiöld, Fjellner, Hökmark ja Ibrisagic (PPE-DE )," AFFILIATION="kirjallinen.">
+<P>
+    Euroopan parlamentin maltillisen kokoomuspuolueen valtuuskunta on äänestänyt tänään Coelhon mietinnön puolesta, koska asiakirjaa koskevilla parlamentin näkemyksillä olisi parannettu merkittävästi alkuperäistä ehdotusta, jos parlamentilla olisi ollut oikeus yhteispäätösmenettelyyn.
+<P>
+Haluamme kuitenkin korostaa, että suhtaudumme epäilevästi ehdotukseen sellaisenaan. Ihmisten biometristen ominaisuuksien keräämiseen liittyy valtavia vaaroja. Kattavien tietokantojen luominen muodostaa uhan yksityisyydelle, sillä tällöin tietosuojaa voi olla vaikeaa varmistaa pitkällä aikavälillä etenkin, jos virheiden korjaamiseen on käytännössä vain vähäiset mahdollisuudet.
+<P>
+Ei ole myöskään osoitettu asianmukaisesti, että tällaisilla toimenpiteillä todellakin suojellaan yhteiskuntaa terrorismilta. 
+<SPEAKER ID="80" LANGUAGE="PT" NAME="Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Nyt tarkasteltava komission ja neuvoston ehdotus liittyy olennaisesti EU:n toimielinten tämänhetkisiin pyrkimyksiin luoda pakonomaisesti turvallisuudentunnetta. Siksi äänestimme ehdotusta vastaan, ja tämän kannan parlamentti toden totta omaksui jo edellisellä lainsäädäntökaudella.
+<P>
+Tämä toimenpide on osa ylikansallisia toimia, joiden tarkoituksena on ottaa käyttöön EU:lle yhteisiä valvonta- ja tarkastusvälineitä, kuten EU:n laajuinen henkilötietokanta, ja sitä on arvosteltu laajasti suhteettomuudesta ja arveluttavasta oikeusperustasta, varsinkin kun otetaan huomioon, että yleisön suojelemiseksi ei ole vahvistettu oikeudellista kehystä eikä parlamentilla, etenkään kansallisilla parlamenteilla, ole valvontaoikeutta.
+<P>
+Lisäksi tällä toimenpiteellä pyritään orjallisesti tyydyttämään Yhdysvaltain esittämät EU:n kansalaisten maahanpääsyä koskevat vaatimukset ilman, että vaatimuksia sovellettaisiin vastavuoroisesti.
+<P>
+Vaikka biometristen tietojen tehokkuutta voidaan kiistatta epäillä – niiden käyttöönottoahan perustellaan niin kutsutulla terrorismin vastaisella sodalla – G5-maiden (Yhdistyneen kuningaskunnan, Saksan, Ranskan, Italian ja Espanjan) aloitteesta neuvosto aikoo mennä jopa pidemmälle niiden käyttöä koskevissa vaatimuksissaan esittämällä pakolliseksi kahta tunnistetta (valokuva ja sormenjäljet) yhden asemesta.
+<P>
+Siksi olemme äänestäneet vastaan. 
+<SPEAKER ID="81" LANGUAGE="SV" NAME="Lundgren ja Wohlin (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Biometrisillä tiedoilla voimme tehdä henkilöasiakirjoistamme entistäkin turvallisempia, sillä ne vaikeuttavat passien väärentämistä. Vaikka kaikki ihmisoikeudet on tunnustettava, kansalaisten oikeuksia on silti suojeltava rajoittamalla selvästi sitä, miten tietoja käytetään, mitä tarkoitusta varten ja kuka tietoja voi käyttää. EU:n laajuisen keskustietokannan luominen olisi vastoin suhteellisuus- ja tarkoituksenmukaisuusperiaatteita, ja se lisäisi riskiä, että tietoja käytetään väärin ja muihin kuin alkuperäisiin tarkoituksiin.
+<P>
+Neuvosto on ja sen on oltava ainoa päätöksentekoelin kysymyksissä, jotka koskevat sääntöjä ja menettelyjä, joita jäsenvaltioiden on noudatettava toteuttaessaan henkilötarkastuksia EU:n ulkorajoilla. Tässä menettelyssä neuvosto on kuitenkin velvollinen kuulemaan Euroopan parlamentin kannan, ja siksi olemme päättäneet kannattaa sitä näkemystä, että oikeusvarmuutta ja yksityisyyden suojelua koskevat näkökohdat on otettu paremmin huomioon valiokunnan mietinnössä kuin komission alkuperäisessä ehdotuksessa. 
+<SPEAKER ID="82" LANGUAGE="EL" NAME="Pafilis (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   .– Kaikista on pidettävä rekisteriä. Olemme kaikki potentiaalisia uhkia vakiintuneelle järjestykselle ja potentiaalisia terroristeja.Tämä on ytimenä neuvoston päätöksessä, jonka soveltamisesta keskustelemme tänään.
+<P>
+Biometristen tunnisteiden suunniteltu keruu, tallennus ja siirto (digitaalisen valokuvan, sormenjäljen ja iiriksen "vapaaehtoinen" käyttö) ovat merkittävä askel kohti henkilötietojen keskustietokannan luomista. Siihen ei kuitenkaan liity käyttöoikeuksien valvontaa, mikä luo perustan kansalaistoiminnan vainoamiselle ja sortamiselle.
+<P>
+Tapa, jolla näitä erityistoimenpiteitä edistetään ja joka rikkoo Euroopan parlamentin oletettuja oikeuksia tulla kuulluksi, osoittaa, miten kiire EU:lla on noudattaa Yhdysvaltain sisäistä turvallisuusdoktriinia ja nollatoleranssiteoriaa. Eurooppa-neuvostojen päätös ottaa käyttöön kaksi pakollista ja yksi vapaaehtoinen biometrinen tunniste samalla, kun Euroopan parlamentti edelleen keskusteli yhtä pakollista ja yhtä vapaaehtoista tunnistetta koskevasta ehdotuksesta, osoittaa, miten EU:ssa kunnioitetaan niin kutsuttua oikeusvaltiota, ja nyt se haluaa viedä tämän käsitteen myös Ukrainaan.
+<P>
+Näitä toimenpiteitä käytetään yhdessä taantumuksellisen Haagin ohjelmapaketin kanssa vauhdittamaan maailmanlaajuisen verkoston soveltamista kaikkien niiden rekisteröimiseksi ja uhkailemiseksi, jotka vastustavat eurooppalaiseen ja globaaliin monopolipääomaan perustuvaa terrorismia. Niillä ei kuitenkaan kyetä pysäyttämään työläisten taistelua, ja pyrkimyksillä pelotella vastustajia on bumerangivaikutus toimien alullepanijoihin. 
+<SPEAKER ID="83" LANGUAGE="PT" NAME="Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin EU:n kansalaisten passeja koskevan Coelhon mietinnön (A6-0028/2004) puolesta. Esillä olevalla ehdotuksella pyritään parantamaan passien turvallisuutta ottamalla käyttöön oikeudellisesti sitovia ja yhdenmukaistettuja EU:n kansalaisten passien turvatekijöitä ja liittämällä passeihin biometrisiä tunnisteita. Biometristen tunnisteiden käyttöönotto vaikeuttaa merkittävästi passien väärentämistä, koska niillä varmistetaan, että passin esittävä henkilö on todellakin sama henkilö, jolle passi alun perin on myönnetty. Biometristen tunnisteiden käyttö on monimutkainen kysymys tietosuojan kannalta. Välttämättömät turvatoimet on otettava käyttöön, jotta varmistetaan tietosuojadirektiivin noudattaminen kaikilta osin. Henkilötietojen on todellakin oltava asianmukaisia, merkityksellisiä ja oikeasuhtaisia ottaen huomioon tavoitteet, joita varten tietoja kerätään, ja tietojen myöhempi käyttötarkoitus. Katsomme kuitenkin, että mietinnössä luodaan oikea tasapaino välttämättömän turvallisuuden ja meille kaikille kuuluvan vapauden välillä. 
+<SPEAKER ID="84" LANGUAGE="FR" NAME="Roure (PSE )," AFFILIATION="kirjallinen.">
+<P>
+    Neuvosto päätti lokakuussa, että eurooppalaisiin passeihin on liitettävä pakolliset sormenjäljet. Tätä päätöstä ei edeltänyt minkäänlainen julkinen käsittely, eikä parlamentin annettu harjoittaa demokraattista valvontaoikeuttaan.
+<P>
+Haluaisin muistuttaa neuvostoa siitä, että sormenjälkitekniikka on epäluotettava eikä sillä paranneta matkustusasiakirjojen turvallisuutta tai helpoteta eurooppalaisten liikkuvuutta. Tämä päätös ei ole siten oikeassa suhteessa tavoitteisiinsa nähden.
+<P>
+Päädyin tänään kannattamaan asiakirjaa, jossa sallitaan valokuvan liittäminen passiin mutta jossa sormenjälkien liittäminen tehdään vapaaehtoiseksi.
+<P>
+Annan äänelläni selvän viestin jäsenvaltioille odoteltaessa neuvoston seuraavaa kokousta. Haluaisin varoittaa neuvostoa siitä, ettei sen tule millään tavoin sallia näiden toimenpiteiden johtavan biometrisiä tietoja sisältävän keskustietokannan perustamiseen.
+<P>
+Haluaisin korostaa, että näin arkaluonteisella alalla, jolla on vaikutuksia eurooppalaisten jokapäiväiseen elämään, avoimuuden ja demokraattisen prosessin on oltava edelleen keskeisessä asemassa. Kansalaisten oikeuksia voidaan suojella entistä paremmin vain, jos taataan Euroopan parlamentin osallistuminen päätöksenteon kaikkiin vaiheisiin. Neuvoston on noudatettava sitoumuksiaan siirtymällä mahdollisimman pian yhteispäätösmenettelyyn tällä alalla. 
+<SPEAKER ID="85" LANGUAGE="" NAME="" AFFILIATION="">
+<P>
+ Ukrainan tilanne
+<SPEAKER ID="86" LANGUAGE="DE" NAME="Posselt (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, tämän päätöslauselman yhteydessä on keskusteltu käsitteestä "euroatlanttinen". Olen iloinen euroatlanttisesta solidaarisuudesta Ukrainaa kohtaan, sillä emme voi ratkaista tätä kriisiä ja antaa tehokasta tukea demokratialiikkeelle ilman Yhdysvaltojen kumppanuutta.
+<P>
+Haluan kuitenkin tehdä täysin selväksi, ettei Ukraina ole euroatlanttinen valtio, vaan pikemminkin eurooppalainen valtio ja kaiken lisäksi yksinkertaisesti aito eurooppalainen valtio. Siksi haluan tehdä selväksi, että Ukrainalle – toisin kuin Turkille, joka ei ole eurooppalainen valtio ja jolle on myönnetty erheellisesti ehdokasvaltion asema – olisi annettava selvä viesti siitä, että sen on mahdollista tulla Euroopan unionin jäseneksi, sillä tämä maa ansaitsee täyden solidaarisuutemme. Se on eurooppalainen valtio, ja sillä on ehdottomasti oltava vakaa mahdollisuus päästä EU:n jäseneksi heti, kun se täyttää kriteerit, heti kun Euroopan unionin on mahdollista kiinnittää suurempaa huomiota Ukrainan-politiikkaansa ja heti kun se on uudistanut rakenteensa. 
+<SPEAKER ID="87" LANGUAGE="PT" NAME="Queiró (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, kun kyse on demokratiasta ja vapaudesta, meidän on oltava joko niiden puolesta tai niitä vastaan. Siksi tällaisena aikana on ensisijaisen tärkeää, että osoitamme selvästi kannattavamme demokratiaa ja vapautta vaatimalla vapaita vaaleja Ukrainaan.
+<P>
+Tavoitteemme ei ole tietyn ehdokkaan voitto, vaan lähtökohtanamme ovat Ukrainan kansan toiveet. Emme saa unohtaa sitä, että eri puolilla Eurooppaa asuu satojatuhansia ukrainalaisia puhumattakaan siitä, että Ukraina on Euroopan lähinaapuri. Portugalissakin on suuri ukrainalaisyhteisö. Ne, jotka ovat seuranneet tiiviisti näitä vaaleja, eivät voi pettää ukrainalaisten luottamusta ennen kaikkea demokraattista ja vapaata unionia kohtaan.
+<P>
+On kuitenkin aiheellista todeta, että olemme tyytyväisiä parlamentin erinomaisiin toimiin Ukrainan demokratian edistämiseksi. Panokset ovat sellaiset, että sitoumuksellemme on selvät perusteet. Kuten parlamentissa on jo todettu, on myös tullut aika tunnustaa, että keskeisiä arvoja koskevat ensisijaiset tavoitteemme ovat yleisesti ottaen samat kuin transatlanttisilla liittolaisillamme.
+<P>
+Totean lopuksi, että Ukrainan väestön enemmistön osoittama päättäväisyys on meille kaikille esimerkkinä, ja se sitoo meitä jokaisen kuluvan päivän myötä edistämään demokratiaa, vapautta ja oikeusvaltiota entistä voimakkaammin.
+<SPEAKER ID="88" LANGUAGE="PT" NAME="Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Ukrainan hälyttävästä tilanteesta on keskusteltu parlamentissa, muttei aina kaikkein suotuisimmissa merkeissä. Tämä ilmenee jossain määrin hyväksytyssä yhteisessä päätöslauselmassa, josta haluamme sanoutua irti.
+<P>
+Mielestämme on ensisijaisen tärkeää sitoutua edistämään Ukrainan vakautta. Olemme siksi todenneet, että kannatamme konfliktin rauhanomaista ratkaisua ilman ulkopuolista väliintuloa, sillä on pidettävä mielessä, että interventionismi on jo leimannut liiaksi koko prosessia.
+<P>
+Tiedämme, että Ukrainan pattitilanne on seurausta sisäisestä konfliktista niiden välillä, jotka taistelivat Neuvostoliiton romahduttamiseksi, jotka vauhdittivat kapitalistisen järjestelmän palauttamista ja jotka nyt kohtaavat uusia ulkoisia paineita etenkin Yhdysvaltain taholta, joka haluaa laajentaa Naton vaikutusvaltaa.
+<P>
+Siksi katsomme, että on väärin toimia puolueellisesti tässä konfliktissa. Ukrainan kansalaisten on päätettävä omasta tulevaisuudestaan. 
+<SPEAKER ID="89" LANGUAGE="EN" NAME="Ford (PSE )," AFFILIATION="kirjallinen">
+<P>
+   .  Olen toiminut tänä vuonna Euroopan unionin vaalitarkkailuvaltuuskunnan päätarkkailijana Indonesiassa ja siksi arvostan suuresti kollegoideni työtä Ukrainassa. Minulle onkin selvää, että vaalien rehellisyys on vaarassa, eikä tulosta voida siten hyväksyä. Vaalilautakunnan asema on myös kyseenalaistettava, sillä se oli joko osallisena vilpissä tai se oli organisoitunut liian heikosti havaitakseen vilpin. Näissä olosuhteissa on välttämätöntä järjestää uudet vaalit niin korruption kuin asiattomuuksienkin kitkemiseksi. Äänestän tämän mukaisesti. 
+<SPEAKER ID="90" LANGUAGE="SV" NAME="Lundgren ja Wohlin (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Kannatamme vapaata ja demokraattista Ukrainaa ja siten päätöslauselman pääkohtia. Ukrainasta voi tulla EU:n jäsenvaltio, ja siksi maan demokraattinen kehitys on turvattava. Vastustamme kuitenkin ehdottomasti sitä, että EU:lle annetaan yhä keskeisempi asema ulko- ja turvallisuuspolitiikassa. Ainoana yleiseurooppalaisena turvallisuusjärjestönä ja Ukrainan vaalien tarkkailijana Euroopan turvallisuus- ja yhteistyöjärjestön (ETYJ) olisi kannettava päävastuu konfliktin sovittelusta hallituksen ja opposition välillä. Siksi EU:n olisi toimittava ETYJ:n puitteissa. 
+<SPEAKER ID="91" LANGUAGE="EL" NAME="Pafilis (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   .– Tekopyhillä ja mahtipontisilla sanoilla "legitimiteetistä", "kompromissista" ja "demokraattisista menettelyistä", joita Euroopan parlamentin jäsenet, komissio ja neuvosto kailottavat Euroopan parlamentissa, ei voida peittää avointa ja halpamaista puuttumista Ukrainan sisäisiin asioihin ja kansallisen itsenäisyyden käsitteen tukahduttamista.
+<P>
+Kiellettyyn mainontaan ja massamarkkinointiin liittyvien vaaleja edeltäneiden väärinkäytösten jälkeen olemme nyt siirtymässä vaiheeseen, jolle on ominaista EU:n, Yhdysvaltain ja Venäjän räikeä puuttuminen asioihin samalla, kun ne tavoittelevat imperialistisen valtansa mukaisia etujaan suunnattomassa maantieteellisessä šakkipelissä ja pyrkivät saamaan hallintaansa Kaspianmeren, Kaukasuksen ja Mustanmeren.
+<P>
+Vallalla olevassa kriisissä ei pyritä ratkaisemaan Ukrainan kansalaisten ongelmia tai täyttämään heidän toiveitaan luoda yhteiskunnallisesti valveutunut valtio ja oikeudenmukainen yhteiskunta. Kumpikaan todennäköisistä vallantavoittelijoista ei halua tätä turvata, sillä molemmat ovat toimineet yhteistyössä Ukrainan oligarkkien sekä kansalaistoiminnan ja ammattiliittojen vastaista politiikkaa viime vuosina ajaneiden henkilöiden kanssa.
+<P>
+EU:n ja Yhdysvaltain vallalla olevan järjestyksen mukaiset edut on asetettu Venäjän uuden komentojärjestyksen mukaisia etuja vastaan, ja ne kohtaavat toisensa niin väkivaltaisesti, että ne voivat johtaa arvaamattomiin tapahtumiin maassa ja alueella. Ukrainan kansalaisten on taisteltava näitä epäonnisia tulevaisuudennäkymiä vastaan ja huolehdittava siitä, etteivät he jää ansaan kahden tulen väliin. 
+<SPEAKER ID="92" LANGUAGE="" NAME="" AFFILIATION="">
+<P>
+ Rahoitusnäkymät (B6-0189/2004) 
+<SPEAKER ID="93" LANGUAGE="PT" NAME="Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Pahoittelemme, että ryhmämme esittämät neljä tarkistusta rahoitusnäkymiä koskevaan päätöslauselmaan hylättiin.
+<P>
+Päätöslauselmassa ei siten tuomita allekirjoittajamaiden strategiaa, johon viitataan ilmaisulla "kuuden kirje" ja jota neuvosto näyttää kannattavan. Niiden tavoitteena on vaientaa keskustelu rahoitusnäkymistä ehdottamalla, että EU:n talousarvio rajoitetaan enintään prosenttiin yhteisön BKTL:stä ja että näin siirretään painopistettä sosiaalisen ja taloudellisen yhteenkuuluvuuden rahoittamisesta laajentuneessa EU:ssa ja muista tämän alan politiikoista. Seuraavien rahoitusnäkymien kestoa koskeva kysymys jätetään myös avoimeksi niin kutsutussa Euroopan perustuslakisopimuksessa vahvistettujen viisivuotiskauden tavoitteiden vuoksi; katsomme, että seitsenvuotisjakso – 2007–2013 – on asianmukaisempi rakennepolitiikan ohjelmatyön kannalta. Lopuksi päätöslauselmassa yhdistetään epäasianmukaisesti omista varoista, tuloista, rahoitusnäkymistä ja menoista käytävät keskustelut, mikä tuo suurimpien nettomaksajien korjausmekanismit neuvottelupöydälle.
+<P>
+Siksi äänestimme tyhjää. 
+<SPEAKER ID="94" LANGUAGE="SV" NAME="Lundgren ja Wohlin (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Junilistan-puolue on päättänyt äänestää päätöslauselmaa vastaan, sillä emme missään nimessä halua edistää "parlamentin prioriteetteja". Kaikki keskustelut ja etenkin ennen vuoden 2005 talousarviosta käydyt neuvottelut ovat osoittaneet selvästi, että valtaosa parlamentin nykyisistä jäsenistä haluaisi lisätä merkittävästi EU:n menoja ja kasvattaa siten merkittävästi myös Ruotsin jäsenmaksuja. Kannatamme sen sijaan Ruotsin hallitusta ja viittä muuta valtiota, jotka ovat yhteisessä julkilausumassa ilmaisseet selvästi, ettei EU:n talousarviossa vahvistettujen maksujen tai sitoumusten pitäisi ylittää yhtä prosenttia EU:n yhteisestä bruttokansantulosta. Parlamentilla pitäisi myös olla mahdollisuus tarkistaa kaikkia menoja, myös maataloustukia, jotta se voi priorisoida kymmenelle uudelle jäsenvaltiolle annettavan tuen. Junilistan-puolue katsoo, että kurinalainen menokehys ja joustovälineen käyttö yhden prosentin talousarvion rajoissa lisäisi merkittävästi luovuutta ja kannustaisi uusiin säästöihin. 
+<SPEAKER ID="95" LANGUAGE="FR" NAME="Martinez (NI )," AFFILIATION="kirjallinen.">
+<P>
+    Olemme vahvistamassa vuosien 2007–2013 talousarvion enimmäismääriä "Delorsin pakettien" ja "Santerin paketin" mukaisesti. Menot ja tulot muodostavat kaksi ongelmaa. Menopuolesta todettakoon, että parlamentti haluaa ilmeisestikin lisätä menoja, kun taas neuvosto haluaa vahvistaa menojen enimmäismäärän 1 prosentista 1,2 prosenttiin BKT:sta, sillä jäsenvaltioilta vaadittavaa talousarviokuria olisi vaadittava myös Brysseliltä. Tuhlaavaisten parlamentin jäsenten ja säästäväisen neuvoston välinen kiista muuttuu kuitenkin yhteiseksi hiljaisuudeksi, kun kyse on 30 miljardin euron vuotuisesta menosta, joka aiheutuu Turkin mahdollisesta liittymisestä EU:hun vuonna 2011, toisin sanoen rahoitussuunnitteluvaiheessa. Tälle alalle ei ole osoitettu mitään varoja. Toisin sanoen budjettiarviot ovat jo alun perin 30 prosenttia liian alhaisia.
+<P>
+Tulopuolesta totean, että on ilmeistä, miksi omia varoja koskeva kysymys on otettu esille, kun otetaan huomioon niin sanottu brittihyvitys ja verotaakan epäoikeudenmukainen jako nettomaksajien, kuten Ranskan ja Saksan, ja nettosaajien, kuten Kreikan ja Irlannin ja kymmenen Itä-Euroopan valtion välillä, joissa harjoitetaan verodumppausta – eli varojen siirtoa itään – jonka maksumiehiä ovat lännen vero-orjat.
+<P>
+Myös tässä tapauksessa ollaan kuitenkin hiljaa euroverosta, jota ollaan vääjäämättä ottamassa käyttöön. 
+<SPEAKER ID="96" LANGUAGE="PT" NAME="Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Euroopan parlamentin jäsenenä ja etenkin koska olen portugalilainen, katson, että entistä suurempaa yhdentymistä ja yhteenkuuluvuutta EU:ssa – kuten tässä mietinnössä vaaditaan – edistävien politiikkojen on oltava pysyvä osa EU:n yleistä rahoitusstrategiaa.
+<P>
+Solidaarisuus on eräs yhteisömme perustana olevista perusperiaatteista. Se on myös tärkeä periaate, jota ei voida muuttaa yhtälöksi, joka muuttuu Euroopan maiden vaihtelevien keskiarvojen mukaan, varsinkin kun otetaan huomioon laajentumisesta johtuva keskiarvojen laskeva suuntaus. Meidän on asetettava tavoitteemme korkealle ja luotava Eurooppa, jolle on ominaista yhteenkuuluvuus ja solidaarisuus kehityksen ja vaurauden alalla. 
+<SPEAKER ID="97" LANGUAGE="EL" NAME="Toussas (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . – Yhteisön tulevaisuuden rahoitukseen liittyvää ongelmaa ei voida rajata siten, että se on kahden toimielimen, Euroopan parlamentin ja neuvoston, välinen ongelma huolimatta siitä, että tämäkin ongelma on osoitus plutokratian, rahavallan tilasta ja edustuksellisten elinten syrjäyttämisestä.
+<P>
+Kyse on pohjimmiltaan EU:n varojen poliittisesta suuntaamisesta ja siitä, missä määrin se on tai ei ole työväenluokan etujen mukaista.
+<P>
+Nyt on todistettu, että yhteisön resursseja ja varoja käytetään vaurauden uudelleenjakamiseen; ne riistetään työläisiltä ja köyhiltä ja heikoimmin kehittyneiltä alueilta ja annetaan suuryrityksille ja rahaylimystölle ja EU:n kehittyneimmille alueille.
+<P>
+Sen sijaan, että eriarvoisuus vähenisi, se lisääntyy jatkuvasti, työläisten turvattomuus ja epävarmuus tulevaisuudestaan kasvaa, ja sen avulla monikansalliset yritykset voivat riistää heitä yhä enemmän. EU:n talousarviot ilmentävät EU:n talouspolitiikkaa ja imperialistista luonnetta ja sen taantumuksellisuutta ja kansalaistoiminnan vastaisuutta.
+<P>
+Esitetty rahoituspaketti on osoittautumassa työläisille kullan sijasta tuhkaksi, kun taas suuryrityksille se on mannaa taivaasta.
+<P>
+Tämä konflikti ilmentää suuryritysten sisäisiä ristiriitoja, ei työläisten etuja. He vaativat nykytarpeidensa täyttämistä ja taistelevat poliittisten suuntausten muuttamiseksi siten, että ne hyödyttävät kansalaisten enemmistöä. 
+<SPEAKER ID="98" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="99" LANGUAGE="IT" NAME="Battilocchio (NI )," AFFILIATION="kirjallinen">
+<P>
+   . – Euroopan unioni on maailman suurin avunantaja. Aidsin torjumiseksi annettava maailmanlaajuinen apu on kolmikertaistunut kolmen viime vuoden aikana. Tästä huolimatta WHO:n viimeisimmässä raportissa esitetyt luvut ovat järkyttäviä, ja köyhyys lisääntyy edelleen.
+<P>
+Maksusitoumuksen kasvattaminen on hyvä asia, mutta se ei yksistään riitä. Meidän on keskusteltava ennen kaikkea annetun tuen laadusta ja tehokkuudesta. Komission olisi asetettava tuleville toimille selvät ensisijaiset tavoitteet, jottei kehitysyhteistyöhön kohdennettuja varoja ohjattaisi muihin eri alojen politiikkoihin, kuten turvallisuuspolitiikkaan tai konfliktien ratkaisuun.
+<P>
+Tarvitsemme lääkkeitä, ehkäisyä ja tietoa. On annettava tukea ryhmille, joita tauti läheisesti koskettaa: orvot lapset tarvitsevat apua kasvatuksessa, ja vanhempia ihmisiä, joilla ei ole lapsia, on tuettava. Tarvitsemme tutkimusta, jolla edistetään yleishyödyllisiä eikä vain kaupallisia etuja, ja toimia, joilla torjutaan kaikenlaisia ennakkoluuloja ja kaikenlaista moralisointia, jotka haittaavat ehkäisytoimia.
+<P>
+Aids ei ole etäinen asia. Vuonna 2004 aids-tartuntojen määrä on lisääntynyt valtavasti Venäjällä ja Ukrainassa, uusissa naapurivaltioissamme. Yhteiskunnallinen pahoinvointi, joka on seurausta aktiivisen väestön vähenemisestä, luo köyhyyttä, jännitteitä ja konflikteja. Siksi aidsin vastaisia toimia on jatkettava myös omien etujemme takia taataksemme sen vakauden, jota unionimme edustaa. 
+<SPEAKER ID="100" LANGUAGE="PT" NAME="Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Olemme tyytyväisiä, että päätöslauselma on hyväksytty, etenkin koska valtaosa esittämistämme tarkistuksista yhteisen päätöslauselman parantamiseksi hyväksyttiin. Ne kuuluvat seuraavasti:
+<P>
+– vaatii komissiota ja jäsenvaltioita myöntämään aidsin, tuberkuloosin ja malarian torjuntaan tarkoitettuun maailmanlaajuiseen rahastoon (GFATM) vähintään miljardi euroa pitkäaikaisena avustuksena;
+<P>
+– kehottaa eurooppalaista lääketeollisuutta käyttämään merkittävän osuuden voimavaroistaan tartuntoja ehkäisevien ja muiden välttämättömien lääkkeiden valmistamiseen; vaatii esimerkiksi suurinta eurooppalaista lääkealan ryhmittymää, Sanofi-Aventista, suuntaamaan tutkimuksensa aidsiin sen sijaan, että hajottaisi alan erityisosaajien tutkimusryhmän;
+<P>
+– vaatii komissiota laatimaan ehdotuksen taatakseen paremmin yleiset edut lääkkeiden tutkimuksessa, kehityksessä ja tuotannossa, laskemaan hintoja ja julkiselle terveydenhuollolle aiheutuvia kustannuksia sekä takaamaan yleisen oikeuden päästä välttämättömään terveydenhoitoon ja saada lääkkeitä;
+<P>
+– vaatii komissiota vastustamaan WTO:ssa ja kahdenkeskisissä suhteissaan määräyksiä, joita Yhdysvallat on sisällyttänyt kehitysmaiden kanssa tekemiinsä kahdenkeskisiin sopimuksiin ja jotka pakottavat kyseiset maat luopumaan oikeudesta tuoda geneerisiä lääkkeitä, jotka ovat välttämättömiä väestön terveyden kannalta. 
+<SPEAKER ID="101" LANGUAGE="SV" NAME="Lundgren ja Wohlin (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    HI-viruksen ja aidsin maailmanlaajuinen torjunta on hyvin polttava kysymys, joka vaatii kansainväliseltä yhteisöltä kokonaisvaltaista sitoutumista. Olemme kuitenkin sitä mieltä, ettei HI-viruksen/aidsin torjuntaa pitäisi käsitellä EU:n yhteistyökehyksen puitteissa. Katsomme, että HI-viruksen/aidsin torjuntaa olisi toteutettava yksittäisissä jäsenvaltioissa ja Maailman terveysjärjestössä (WHO).
+<P>
+Junilistan-puolueen tavoitteena on rajallinen EU:n yhteistyö. Vastustamme sitä, että EU saa painoarvoa ja toimivaltaa kysymyksissä, joista muut kansainväliset järjestöt jo huolehtivat. 
+<SPEAKER ID="102" LANGUAGE="PT" NAME="Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . HI-viruksen/aidsin loputon leviäminen on meille kaikille vakava hälytysmerkki. Vuosien aikana toteutettuja toimia on haitannut muuttuva tilanne, joka on koskettanut useita alati vaihtuvia väestöryhmiä. Tämä koskee sekä Eurooppaa että muuta maailmaa, varsinkin Afrikkaa, jossa tämä vitsaus on saavuttanut järkyttävät mittasuhteet.
+<P>
+Tilanne edellyttää jatkuvia toimia taudin leviämisen estämiseksi, ja entistä tehokkaampien hoitavien ja ennalta ehkäisevien lääkkeiden tutkimukseen ja kehitykseen on investoitava lisää. Näistä toimista aiheutuva taakka on jaettava maailman rikkaimpien maiden – meidän maidemme – kesken. 
+<SPEAKER ID="103" LANGUAGE="EL" NAME="Toussas (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . – Kun olemme saattaneet päätökseen tämänpäiväisen keskustelumme aidsista, tuhansia ihmisiä on tällä välin jo kuollut. Moni heistä olisi voinut jäädä henkiin, elleivät suuret lääkeyhtiöt olisi vaikeuttaneet viruslääkkeiden tuotantoa ja maahantuontia estääkseen monopoliaan sortumasta ja sen tuomia etuja häviämästä. Kopiolääkkeet voivat tuoda helpotusta, mistä on esimerkkinä Brasilia, jossa kopiolääkkeiden tuotanto on alentanut hintoja 79 prosenttia, minkä johdosta aidsin kuolleisuusaste on laskenut 50 prosentilla.
+<P>
+Tilastotiedot ovat lohduttomia: Afrikassa vain yksi sadasta pystyy maksamaan lääkehoidon kustannukset. Sambiassa yksi kolmesta raskaana olevasta naisesta sairastaa aidsia. Joka päivä kuolee 8 200 ihmistä.
+<P>
+Tätä kapitalismi on: julmaa ja raakaa. Se tappaa paitsi asein myös riistämällä ihmisiltä perusihmisoikeudet, kuten pääsyn terveydenhuoltoon ja hoitoon. Nämä oikeudet ovat vain kuolleita kirjaimia, sillä käytännössä terveydestä ja lääkityksestä on tullut hyödykkeitä, joilla monikansalliset yhtiöt voivat tehdä voittoa.
+<P>
+Tällaista politiikkaa EU ja jäsenvaltioiden hallitukset ajavat monopolien etuja puolustaakseen.
+<P>
+Kreikan kommunistisen puolueen jäsenet taistelevat yksinomaan vapaan kansallisen terveydenhuolto- ja hyvinvointijärjestelmän ja kansallistetun lääketeollisuuden puolesta. Vain tällä tavoin terveydestä tulee jokaisen todellinen oikeus. 
+<SPEAKER ID="104" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Istunto päättyi klo 11.50.)">
+<P>
+   Parlamentti on saanut esityslistansa päätökseen.
+<P>
+Julistan Euroopan parlamentin istuntokauden keskeytetyksi.

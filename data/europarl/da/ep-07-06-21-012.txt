@@ -1,0 +1,6 @@
+<CHAPTER ID="012">
+Kalender over mødeperioder: se protokollen
+<SPEAKER ID="149" NAME="Formanden">
+Afstemningen er afsluttet.
+<P>
+(Mødet udsat kl. 13.05 og genoptaget kl. 15.00)

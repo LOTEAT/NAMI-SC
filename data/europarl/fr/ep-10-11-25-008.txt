@@ -1,0 +1,6 @@
+<CHAPTER ID="008">
+Heure des votes
+<SPEAKER ID="076" NAME="Le Président">
+L'ordre du jour appel le vote.
+<P>
+(Pour les résultats des votes et autres détails les concernant: voir procès-verbal)

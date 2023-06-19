@@ -1,0 +1,12 @@
+<CHAPTER ID="001">
+Åbning af mødet
+<P>
+(Mødet åbnet kl. 9.00)
+<P>
+°
+<P>
+° °
+<SPEAKER ID="005" NAME="Monica Frassoni" AFFILIATION="Verts/ALE">
+(IT) Fru formand, mine damer og herrer! Som De ved, blev ECURIE-systemet - Fællesskabets sikkerhedssystem - udløst i går på grund af en udefineret hændelse på et slovensk kernekraftværk. Alarmen blev senere afblæst, men der hersker fortsat tvivl om den virkelige årsag til hændelsen og årsagen til denne meget ualmindelige alarm. Vi ønsker derfor at få mest ud af, at Kommissionen vil være til stede senere i dag, og at Slovenien har formandskabet, og opfordrer Kommissionen til at informere Parlamentet og dermed offentligheden om den rigtige årsag til, at denne helt unormale procedure forekom. Jeg vil være taknemmelig, fru formand, hvis De vil reagere på denne forespørgsel.
+<SPEAKER ID="006" NAME="Formanden">
+Jeg tror, at det slovenske formandskab, som er til stede her i dag, vil komme tilbage til dette spørgsmål.

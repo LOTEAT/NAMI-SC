@@ -1,0 +1,6 @@
+<CHAPTER ID="004">
+Hlasovanie
+<SPEAKER ID="095" NAME="Predseda">
+Teraz pristúpime k hlasovaniu.
+<P>
+(Informácie o výsledku a ostatných podrobnostiach hlasovania: pozri zápisnicu)

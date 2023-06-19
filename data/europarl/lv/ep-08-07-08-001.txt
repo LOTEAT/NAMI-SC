@@ -1,0 +1,8 @@
+<CHAPTER ID="001">
+Sēdes atklāšana
+<P>
+(Sēde tika atklāta plkst. 9.00)
+<SPEAKER ID="005" NAME="Carl Schlyter" AFFILIATION="Verts/ALE">
+(SV) Priekšsēdētāja kungs, ja jūs vakar būtu gājis pa Parlamenta koridoriem, jūs būtu redzējis uz grīdas neskaitāmas Eiropas ķīmijas rūpniecības lobiju organizācijas uzlīmes, un dažas no tām tur ir vēl šodien. Es gribētu zināt, vai kvestori, dodot atļauju izstādes rīkošanai, pilnvaroja organizāciju izlīmēt uzlīmes pa visu grīdu. Ja atļauja tika dota, manuprāt, tas bija nepareizs lēmums. Ja kvestori nedeva šādu atļauju, manuprāt, Cefic nepārprotami ir pārkāpusi savas lobija saistības, tādēļ tai ir jāatņem tās ieejas karte vai vismaz jāizsaka bargs rājiens. Es ceru, ka jūs varat pārbaudīt patiesos notikumus un nodrošināt, ka visas šīs uzlīmes tiek nekavējoties novāktas.
+<SPEAKER ID="006" NAME="Priekšsēdētājs">
+Labi, mēs pārbaudīsim šo jautājumu, C. Schlyter.

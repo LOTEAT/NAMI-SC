@@ -1,0 +1,6 @@
+<CHAPTER ID="017">
+Hääletused
+<SPEAKER ID="029" NAME="President">
+Järgmine punkt on hääletused.
+<P>
+(Hääletuse tulemusi ja muid üksikasju vt protokoll)

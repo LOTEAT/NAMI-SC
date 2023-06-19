@@ -1,0 +1,6 @@
+<CHAPTER ID="005">
+Abstimmungsstunde
+<SPEAKER ID="110" NAME="Der Präsident">
+Der nächste Tagesordnungspunkt ist die Abstimmung.
+<P>
+(Für die Ergebnisse und andere Einzelheiten zur Abstimmung: siehe Protokoll)

@@ -1,0 +1,2 @@
+<CHAPTER ID="003">
+Kirjalikud deklaratsioonid (esitamine) (vt protokoll)

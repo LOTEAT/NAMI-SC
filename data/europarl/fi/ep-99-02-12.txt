@@ -1,0 +1,577 @@
+<CHAPTER ID=1>
+Pöytäkirjan hyväksyminen
+<SPEAKER ID=1 NAME="Puhemies">
+Eilisen istunnon pöytäkirja on jaettu.
+<P>
+Onko huomautettavaa?
+
+<SPEAKER ID=2 LANGUAGE="EN" NAME="McMahon">
+Arvoisa puhemies, se työ, jota olemme tällä viikolla tehneet, ei olisi ollut mahdollista ilman tulkkien apua. Tietooni on tullut, että meillä on 300 freelance-tulkkia, joille komissio ei ole maksanut asianmukaista palkkaa lokakuun jälkeen. Komissio julkisti tällä viikolla asiakirjan siitä, miten se aikoo parantaa hallintoaan. Meillä on 300 tulkkia, joille ei ole maksettu asianmukaista palkkaa ja joilla on taloudellisia vaikeuksia. Voisiko komission jäsen Bangemann välittää tämän kollegoilleen ja voisiko puheenjohtaja Santer sitten, kun hän maanviljelijöiden tapaamiselta ehtii, sopia tapaamisen täällä työskentelevien tulkkien kanssa ja selvittää tämän ongelman?
+
+<SPEAKER ID=3 NAME="Puhemies">
+Herra McMahon, panemme tämän muistiin, mutta hyväksymme parhaillaan pöytäkirjaa. Pyydän, että vain ne kollegat pyytävät puheenvuoroa, jotka haluavat puhua pöytäkirjasta. Jos haluatte puhua työjärjestyksestä, olkaa hyvä ja kertokaa, mitä artiklaa asia koskee.
+
+<SPEAKER ID=4 LANGUAGE="EN" NAME="Hallam">
+Arvoisa puhemies, haluaisin vain toistaa erään eilisen istunnon pöytäkirjassa mainitun asian, joka koskee nimenhuutoäänestysten suurta määrää. Meillä on 245 sivua nimenhuutoäänestyksiä, ja näyttää siltä, että mitä pienempi ryhmä on, sitä enemmän nimenhuutoäänestyksiä se haluaa. Haluaisin, että joku kertoisi minulle, onko Euroopan unionissa yhtään ainoaa kansalaista, joka haluaa tietää, miten David Hallam äänesti Florenzin mietinnön tarkistuksen 20 toisesta osasta. Tilanne on naurettava, ja tämä on rahanhaaskausta, ja se pitäisi saada loppumaan.
+
+<SPEAKER ID=5 NAME="Puhemies">
+Herra Hallam, tästä puhuttiin jo eilen. Panemme huomautuksenne muistiin.
+
+<SPEAKER ID=6 NAME="Posselt">
+ Arvoisa puhemies, pöytäkirjassa lukee, että olisin eilen huomauttanut, että Kazakstania koskevan päätöksen saksankielinen versio olisi ollut virheellinen. En kuitenkaan huomauttanut, että teksti olisi ollut virheellinen vaan ettei tekstiä ollut ollenkaan! En voi nimittäin kutsua otsikon " Kazakstan" alla olevia viivoja ja pieniä ristejä ja pisteitä virheelliseksi tekstiksi, vaan se ei ole tekstiä laisinkaan. Sen vuoksi haluaisin vaatia, että selvitetään, miksi sellainen asiakirja jaettiin. Joidenkin kollegoiden virheellinen arvio siitä, että saksankielinen teksti olisi ollut olemassa, johtui siitä, että ryhmien vastaavien neuvottelussa aamupäivällä käsiteltävänä oli oikea teksti, mutta jakelupisteessä oli saatavilla eilisiltaan asti pelkästään tämä versio viivoineen ja risteineen. Sen vuoksi haluaisin nyt vaatia, että parlamentin tekstit annetaan kaikille jäsenille eikä vain ryhmien yksittäisille jäsenille, sillä muuten voimme peruuttaa istuntomme ja siirtyä puhemieskonferenssiin!
+
+<SPEAKER ID=7 NAME="Puhemies">
+Herra Posselt, ymmärrän tyytymättömyytenne. Asia tutkittiin, ja näyttää siltä, että kuvailemanne kaltainen versio olisi todellakin ollut olemassa; toinenkin versio oli kuitenkin olemassa. Tutkimme nyt, miksi myös virheellistä versiota jaettiin. Parlamentin muut jäsenet ovat varmaan saaneet oikean version. Tutkimme kuitenkin, miten näin saattoi tapahtua.
+
+<SPEAKER ID=8 LANGUAGE="EN" NAME="Evans">
+Arvoisa puhemies, joudun ikäväkseni olemaan samaa mieltä herra Hallamin kanssa, mutta minunkin asiani koskee nimenhuutoäänestysten määrää, josta keskusteltiin eilen. Minä en ole huolestunut äänestysten määrästä - tiedän, että tämä asia on jo hallinnassa - vaan pikemminkin siitä, miksi joka ikiselle jäsenelle pitää antaa tämä painava opus, kun paljon pienempikin määrä riittäisi niille säälittäville jäsenille, jotka tosiaankin haluavat käydä sen läpi ja tarkistaa, miten he äänestivät. Se voisi olla sen sijaan saatavilla Internetissä, jolloin säästyisi valtavasti rahaa.
+<P>
+Sama koskee valtavankokoista pöytäkirjaa. Se on varmaankin hyvin tärkeä, mutta on paljon sellaisia jäseniä, jotka ovat jo lähteneet Strasbourgista, mutta silti heidän lokeroonsa laitetaan kopio pöytäkirjasta. Tämä on suurta ajan ja vaivan haaskausta. Pöytäkirja voitaisiin toimittaa vain niille jäsenille, jotka haluavat sen, tai se voitaisiin hakea Internetistä, kun halutaan viitata siinä oleviin asioihin.
+
+<SPEAKER ID=9 NAME="Puhemies">
+Hyvät kollegat, ymmärrän kiihtymyksenne, mutta työjärjestys sallii tämän. Jos haluatte muuttaa asiaa, teillä on oikeus tehdä vastaava tarkistusesitys työjärjestystä käsittelevälle valiokunnalle. Jokaisella jäsenellä on siihen oikeus.
+
+<SPEAKER ID=10 LANGUAGE="FR" NAME="Fabre-Aubrespy">
+Arvoisa puhemies, pöytäkirjan sivujen 29 ja 30 mukaan istunnon puhemies - luulen, että kyse oli herra Martinista - ilmoitti puhemieskonferenssin päätöksestä muuttaa Brysselissä 24. ja 25. maaliskuuta järjestettävän mini-istunnon ajankohdaksi 22. ja 23. maaliskuuta.
+<P>
+Haluaisin toistaa täällä, mitä sanoin puhemieskonferenssille ryhmäni puolesta. Tämä päätös on mielestämme epäsuotava ja oikeudelliselta kannalta sopimaton. Se on epäsuotava, koska aikataulusta on määrätty jo kauan aikaa sitten, ja se on sitä paitsi hyväksytty täysistunnossa, jossa tätä muutosta ei ole käsitelty. En usko, että puhemieskonferenssin tehtävänä on muuttaa asetettua aikataulua. Istunnon ajankohtaa ei pidä muuttaa Berliinissä 24. ja 25. maaliskuuta pidettävän huippukokouksen takia ja siten hinnalla millä hyvänsä ottaa asiaan kantaa ennen tätä huippukokousta. Oikeudellisesta näkökulmasta katsottuna minua hämmästyttää, että yksi parlamenttimme valiokunnista, talousarvion valvontavaliokunta, on ohitettu tässä asiassa.
+<P>
+Asiantuntijakomitealta pyytämämme mietintö on seurausta varainhoitovuotta 1996 koskevan vastuuvapauden epäämisestä. Se vastaa menettelyä, jota noudatetaan myös muissa alaa koskevissa tapauksissa. Talousarvion valvontavaliokunnalla on valiokuntien toimivaltaa tarkentavan työjärjestyksen liitteen nojalla yksinoikeus kaikkiin talousarvion toteuttamista ja komission varainhoitoa koskeviin kysymyksiin. Sillä on siten toimivalta antaa lausunto parlamentille ennen kuin tämä antaa lausuntonsa - siitä mainitaan talousarvion valvontavaliokuntaa koskevan liitteen 11 kohdassa. Asiantuntijakomitean ei pidä siten turvautua poliittisiin ryhmiin. Sen on ensiksikin käännyttävä talousarvion valvontavaliokunnan asiasta vastaavien henkilöiden puoleen. Siksi tämä kysymys on mielestäni epäsuotava ja oikeudelliselta kannalta sopimaton.
+<P>
+Suosionosoituksia
+
+<SPEAKER ID=11 NAME="Puhemies">
+Hyvät kollegat, tiedän, että olette tyytymättömiä, mutta haluaisin vielä kerran selvittää teille oikeusaseman: työjärjestyksen II luvun 10 artiklassa, jossa on kyse parlamentin istuntojaksoista, säädetään seuraavaa: 2 kohdassa sanotaan, että parlamentti määrää itse istuntokauden keskeytysten keston. Tämä tarkoittaa siis sitä, että päätämme kerran vuodessa seuraavan vuoden istuntoajat. Tämän artiklan 4 kohdassa sanotaan lisäksi, että puhemieskonferenssi voi perustellulla päätöksellä, joka on tehtävä vähintään kaksi viikkoa ennen parlamentin aikaisemmin päättämää istuntokauden aloituspäivää, muuttaa 2 kohdan mukaisesti päätettyjen istuntokauden keskeytysten pituutta voimatta kuitenkaan lykätä istuntokauden aloituspäivää enempää kuin kahdella viikolla.
+<P>
+Herra Fabre-Aubrespy sanoo tosin, että hän oli puhemieskonferenssissa siirtämistä vastaan. Meille ilmoitettiin kuitenkin näin, ja ryhmien puheenjohtajathan ovat suurimmaksi osaksi nyt paikalla, että tämä oli todella tämän toimielimen ryhmien puheenjohtajien päätös. Oikeudellisesti asia on kunnossa, vaikka ilmaisette tyytymättömyytenne siihen, mitä päätettiin. Peruste kuuluu seuraavasti - eilen paikalla oli enää vain vähän jäseniä, ja rouva Aelvoet toisti sen vielä kerran, hänkin on konferenssin jäsen -: puhemieskonferenssi siirsi Brysselin istuntojakson maanantaiksi, 22. maaliskuuta, ja tiistaiksi, 23. maaliskuuta, jotta parlamentti voi esittää komission puheenjohtajan läsnäollessa kantansa riippumattomien asiantuntijoiden kertomukseen ajoissa ennen Eurooppa-neuvoston kokousta, nimittäin 24. ja 25. maaliskuuta. Se on selvää, eikä siitä tarvitse keskustella enempää. Se on päätös! Jos olette vihaisia, kääntykää ryhmienne puheenjohtajien puoleen. Ei ole mitään järkeä keskustella siitä enempää nyt, koska oikeusasema on selvä!
+
+<SPEAKER ID=12 LANGUAGE="DE" NAME="Mombaur">
+Arvoisa puhemies, olitte niin hyväntahtoinen, että ilmoititte, että kollega Posseltin oikeutettu huomautus tutkitaan. Pyytäisin teiltä vielä toista hyväntahtoista elettä: voisitteko ilmoittaa parlamentille, mitä tapahtuu, jos käy ilmi, että parlamentti on todella äänestänyt vain viivoista ja pisteistä?
+
+<SPEAKER ID=13 LANGUAGE="ES" NAME="Vallvé">
+Arvoisa puhemies, ostin tänä aamuna postikortin, joka esittää Euroopan parlamentin uutta rakennusta - uutta rakenteilla olevaa istuntosalia - mutta...
+
+<SPEAKER ID=14 NAME="Puhemies">
+Anteeksi, että keskeytän teidät, herra kollega, mutta olemme yhä vielä hyväksymässä pöytäkirjaa!
+
+<SPEAKER ID=15 LANGUAGE="DE" NAME="Vallvé">
+Tässä postikortissa lukee, että tämä uusi rakennus on Hemicycle, Euroopan neuvoston uusi rakennus. Kysyn itseltäni, rakensimmeko tosiaan tämän rakennuksen Euroopan neuvostoa varten!
+
+<SPEAKER ID=16 NAME="Corrie">
+ Arvoisa puhemies, olemme parlamentin kahden viime istuntojakson aikana istuneet tässä salissa ja äänestäneet useisiin eri mietintöihin esitetyistä sadoista tarkistuksista. Monet näistä mietinnöistä on palautettu valiokuntaan. Eikö meidän olisi korkea aika tarkastella työjärjestystä ja päättää, että jos johonkin mietintöön on esitetty tietty määrä tarkistuksia, se palautettaisiin suoraan valiokuntaan, eikä haaskattaisi enää parlamentin aikaa? Sitten meillä olisi enemmän aikaa keskustella, kuten meidän parlamentin jäseninä kuuluisi nimenomaan tehdä.
+
+<SPEAKER ID=17 NAME="Puhemies">
+Saanko sanoa vielä kerran: jos joku on sitä mieltä, että työjärjestystä olisi muutettava - siitä aiheesta keskustellaan muuten maaliskuussa muutenkin - voitte aivan rauhassa tehdä vastaavia aloitteita. Jokaisella jäsenellä on oikeus vaatia työjärjestyksen muuttamista. Ei ole järkevää vain kehottaa tekemään tarkistuksia, jos siitä ei sitten seuraa mitään. Jos olette sitä mieltä, että asia ei ole nyt kunnossa, voitte tehdä ehdotuksia.
+
+<SPEAKER ID=18 LANGUAGE="DE" NAME="Theato">
+Arvoisa puhemies, esititte aivan oikeutetusti, ja todistitte sen myös työjärjestyksen avulla, että istuntopäivät voidaan määrätä ja niitä voidaan vielä muuttaakin kerran tietyn ajan kuluessa; en halua myöskään epäillä sitä. Haluaisin kuitenkin kiinnittää huomionne siihen sisällölliseen seikkaan, että tämän asiantuntijakomitean lausunto on kyllä seurausta siitä kysymyksestä, miten saamme päätökseen vuoden 1996 vastuuvapausasian. Siinä mielessä on toki tärkeää, että asiasta vastaava valiokunta, nimittäin talousarvion valvontavaliokunta, voi esittää kantansa asiaan.
+<P>
+Suosionosoituksia
+<P>
+Jos annamme ryhmien tehdä päätökset, se on kenties mahdollinen ratkaisu, mutta loppujen lopuksi tämä lausunto leijuu kyllä jotenkin ilmassa, mikä tarkoittaa sitä, että sitä ei ole liitetty vielä mitenkään parlamentaariseen työhön. Haluaisin kiinnittää huomionne siihen, että meidän pitäisi nyt ottaa käyttöön oikea menettelytapa, jotta lausunto ei tärveltyisi mahdollisiin poliittisiin erimielisyyksiin ja asia ei jäisi jatkossa selvittämättä ja vastaavasti parlamentaarisesti käsittelemättä. Sen vuoksi pidän kiinni siitä, että tätä asiantuntijakomitean kertomusta käsitellään talousarvion valvontavaliokunnassa.
+<P>
+Suosionosoituksia
+
+<SPEAKER ID=19 NAME="Puhemies">
+Paljon kiitoksia, rouva Theato! Puheenvuoronne merkitään pöytäkirjaan, ja se välitetään myös eteenpäin. Asiasta vastaava toimielin käsittelee sen.
+
+<SPEAKER ID=20 NAME="Goepel">
+ Arvoisa puhemies, onko nyt sitten oletettava, että ne valiokuntien kokoukset, joiden piti olla 22. ja 23. päivä, on siirretty 24. ja 25. päivään?
+
+<SPEAKER ID=21 NAME="Puhemies">
+Näin todellakin on. Siitä ilmoitetaan teille kuitenkin vielä kirjallisesti.
+
+<SPEAKER ID=22 LANGUAGE="DE" NAME="Rübig">
+Arvoisa puhemies, haluaisin sanoa vielä pöytäkirjasta, että lainasitte tosin artiklaa oikein, mutta että II luvun 10 artiklassa on vielä 5 kohta, jossa sanotaan, että kun puhemies on kuullut ensin puhemieskonferenssia, hän voi kutsua parlamentin poikkeuksellisesti koolle jäsenten enemmistön pyynnöstä. Se merkitsee siis sitä, että voimme aivan hyvin keskustella tuosta ajankohdasta parlamentin enemmistön sitä halutessa.
+
+<SPEAKER ID=23 NAME="Puhemies">
+Se on totta, herra Rübig, mutta en ole saanut sellaista esitystä.
+
+<SPEAKER ID=24 NAME="Aelvoet">
+ Arvoisa puhemies, hyvät kollegat, oli aivan välttämätöntä löytää Brysselin istunnolle toinen ajankohta, jotta vältyttäisiin siltä, että komissio olisi läsnä Brysselin istunnossa kuuntelemassa sitä, miten parlamentti arvioi asiantuntijakomitean kertomusta ja olisi samalla Berliinissä keskustelemassa Agenda 2000 -ohjelmasta neuvoston kanssa. Se olisi ollut mahdotonta. Me siis hyväksyimme puhemieskonferenssissa - myös minä ja ryhmäni - että istuntoa siirretään. Tämä on kertomuksen toinen puoli.
+<P>
+Toinen puoli kertomuksesta kuuluu seuraavasti: miksi asiasta keskustellaan täällä täysistunnossa? Puolustin sitä kantaa, että asia olisi pitänyt hoitaa talousarvion valvontavaliokunnassa. Olin kuitenkin vähemmistössä, kuten muuten muutkin ihmiset. Mikäli parlamentti siis on sitä mieltä, että asia hoituu paremmin talousarvion valvontavaliokunnassa - mitä mieltä minäkin olen - meidän on äänestettävä asiasta ja voimme tehdä sen kaikessa rauhassa maaliskuun täysistunnossa täällä Strasbourgissa, sillä se pidetään ensiksi. Ehdotan siis seuraavaa: äänestäkäämme asiasta maaliskuun täysistunnossa ja asia on hoidettu.
+
+<SPEAKER ID=25 NAME="Puhemies">
+Kiitoksia paljon, rouva Aelvoet! Koska osa heistä, jotka osallistuvat puhemieskonferenssiin, on nyt paikalla, siitä varmaankin puhutaan vielä.
+
+<SPEAKER ID=26 LANGUAGE="EN" NAME="Cox">
+Arvoisa puhemies, en ollut ajatellut käyttää puheenvuoroa, mutta jotkin täällä ja keskustelussa esitetyt kysymykset saattavat perustua erääseen väärinkäsitykseen. Rouva Aelvoet käsitteli istunnon ajankohtaa. Puhemieskonferenssissa haluttiin siirtää istunnon ajankohtaa. Siihen oli useita hyviä syitä. Halusimme, että komission puheenjohtaja Santer osallistuisi keskusteluumme. Mikäli parlamentti haluaa pitää kiinni alun perin sovitusta ajankohdasta, puheenjohtaja Santer tuleekin olemaan tuolloin Eurooppa-neuvoston kokouksessa. Ei olisi järkevää, että kävisimme keskustelun ilman komission puheenjohtajaa.
+<P>
+Toinen asia koskee ajoitusta: kyseinen asiantuntijakomitea julkistaa kertomuksensa - mikäli oikein muistan - 15. maaliskuuta. Minun mielestäni puhemieskonferenssi katsoo aivan oikein, että parlamentin pitäisi esittää poliittinen kanta tähän asiaan varhaisessa vaiheessa. Ei saisi käydä niin, että kaikki Euroopassa saavat sanoa sanottavansa tästä kertomuksesta, mutta ne ihmiset, jotka kertomuksen tilasivat, eivät ole pelissä mukana. Tästäkin syystä meidän pitäisi esittää kantamme aikaisemmin eikä myöhemmin.
+<P>
+Asiantuntijakomitea perustettiin, kuten voitte nähdä, jos luette asian taustoista ja alkuperäisestä äänestyksestä parlamentissa, parlamentin eikä jonkin sen valiokunnan suojeluksessa. Parlamentin on siis ensi kädessä saatava kyseisen komitean työ käsiteltäväkseen ja esitettävä poliittiset johtopäätöksensä parlamentissa käytävässä keskustelussa.
+<P>
+Puhemieskonferenssissa niin ikään sanottiin, todettiin ja ymmärrettiin se, että tuon poliittisen keskustelun ohella asiat etenevät yleensä niin, että asiantuntijoiden työn asiasisältö ja johtopäätökset palautetaan talousarvion valvontavaliokuntaan. Puhemieskonferenssi olettaa, että valiokunta haluaa tuolloin sisällyttää kaikki merkittävät näkökohdat ja johtopäätökset asianmukaiseen, tavalliseen työhönsä, josta on parlamentille on hyötyä.
+<P>
+Meidän ei pitäisi siten käydä keskustelua, joka perustuu väärinkäsitykseen. Kukaan ei yritä kaapata valiokunnalta sen työtä. Parlamentti perusti ryhmän, joka työskentelee parlamentin alaisuudessa, ja käymme asiasta yleisluonteisen poliittisen keskustelun. Parlamentin sisällä on kuitenkin varsinaisen työn sisällyttämisestä vastaava valiokunta. Puhemieskonferenssissa ei millään tavalla heikennetty, vähätelty tai sivuutettu talousarvion valvontavaliokunnan varsinaista tai menettelyihin liittyvää työtä. Mikäli näin olisi ollut, olisin vastustanut päätöstä. Näin ei ollut, joten en vastustanut sitä.
+
+<SPEAKER ID=27 NAME="Wijsenbeek">
+ Arvoisa puhemies, perustamissopimuksen 24 artiklassa puhutaan puhemieskonferenssin tehtävistä. On korkea aika, arvoisa puhemies, että ryhmien puheenjohtajat, etenkin rouva Aelvoet, ymmärtävät, että olemme vahvistaneet aikataulumme täysistunnossa vuotta aikaisemmin. Mikäli neuvoston kokous on samaan aikaan kuin meidän kokouksemme, komission, josta tässä on kyse, tulee olla täällä eikä ministerien kokouksessa.
+
+<SPEAKER ID=28 NAME="Puhemies">
+Herra Wijsenbeek, työjärjestyksessä sanotaan kuitenkin myös, että poikkeuksellisessa tapauksessa on esitettävä perustelu, ja tämä perustelu esitettiin.
+
+<SPEAKER ID=29 LANGUAGE="NL" NAME="Martens">
+Arvoisa puhemies, hyvät kollegat. En halua puuttua tähän keskusteluun. Olen hieman hämmästynyt. Eri ryhmien puheenjohtajat kertovat kukin oman versionsa. Meidän pitäisi saada asianmukainen tulkinta siitä, mitä eilisessä puhemieskonferenssissa päätettiin. Parlamentille pitäisi tiedottaa asioista, kun on kyse tällaisista arkaluonteisista menettelyistä. Se olisi minusta hyvä työtapa. Asiaa ei hoideta hyvin, kun jokainen puhemieskonferenssissa ollut ryhmän puheenjohtaja kertoo oman versionsa päätöksistä. Pidän päätöstä hyvänä ja puolustan sitä. Kannatin tiettyjä näkökantoja, joita enemmistö ei kannattanut, mutta olen sitä mieltä, että parlamentin hyvän toiminnan kannalta on välttämätöntä, että esimerkiksi parlamentin puhemies kertoo päätöksistä asianmukaisesti parlamentissa.
+
+<SPEAKER ID=30 NAME="Happart">
+ Arvoisa puhemies, kuten herra Wijsenbeek totesi, neuvosto ei ole ilmeisesti ottanut huomioon parlamentin aikataulua, koska se on päättänyt kokoontua ajankohtana, jonka olemme varanneet jo yli vuosi sitten.
+<P>
+Mielestäni meidän olisi pitänyt kuitenkin keskustella asiasta eilen illalla, kun siitä ilmoitettiin ja kun parlamentissa oli vielä läsnä tarpeeksi edustajia, jotta olisimme voineet mahdollisesti toimittaa äänestyksen. Henkilökohtaisesti ehdotan yksinkertaisesti sitä, että siirrymme esityslistalla seuraavaan asiaan ja suoritamme äänestyksen.
+
+<SPEAKER ID=31 NAME="Puhemies">
+Istuntoa johti eilen kollega Martin, joka ilmoitti asiasta. Sen jälkeen istuntoa jatkettiin normaaliin tapaan asiasta keskustelematta. Oletan, että useimmat olivat ensinnäkin jonkin verran yllättyneitä ja tarvitsivat aikaa miettiäkseen asiaa. Tällaisesta asiasta on kuitenkin voitava keskustella normaalia pitempään, koska kyseessä on kaikkia jäseniä koskeva asia.
+
+<SPEAKER ID=32 LANGUAGE="EN" NAME="Green">
+Arvoisa puhemies, haluan vain todeta, että olen täysin samaa mieltä siitä, mitä herra Cox äsken sanoi, en ainoastaan päätösten seurauksista, jotka hän toi esille, vaan niistä syistä, jotka olivat puhemieskonferenssin eilisten päätösten taustalla. Hän oli täysin oikeassa.
+
+<SPEAKER ID=33 NAME="Poettering">
+ Arvoisa puhemies, hyvät kollegat, keskustelun aikana on kyllä käynyt selväksi, että nyt on toteutunut aivan uskomaton asia. Vain koska valtioiden ja hallitusten päämiehet ja -naiset, tällä kertaa vain miehet, kokoontuvat, he pitävät kuin itsestään selvänä, että me siirrämme täällä parlamentissa istuntoamme. En voi hyväksyä sitä.
+<P>
+Suosionosoituksia
+<P>
+Kuvitelkaapa, että jonkin maan hallitus - sanon tämän myös saksalaisena; tiedän tietysti, että Saksa toimii neuvoston puheenjohtajana, mutta sillä ei ole minusta merkitystä, kansallisuudella ei ole merkitystä - kokoontuu ja edellyttäisi sen vuoksi, että parlamentti siirtää sen vuoksi istuntonsa. Se olisi mahdotonta, ja sen vuoksi olen sitä mieltä, että Euroopan parlamentin ei tarvitse hyväksyä sitä ilman vastaväitteitä.
+<P>
+Suosionosoituksia
+
+<SPEAKER ID=34 LANGUAGE="EN" NAME="Green">
+Arvoisa puhemies, näistä päivämääristä päätti edeltävä Saksan hallitus. Arvelin, että herra Poettering haluaisi tietää sen.
+
+<SPEAKER ID=35 NAME="Puhemies">
+Muita pöytäkirjaan liittyviä puheenvuoroja ei näköjään ole pyydetty.
+<P>
+Parlamentti hyväksyi pöytäkirjan.
+
+<CHAPTER ID=2>
+Äänestykset
+<SPEAKER ID=36 LANGUAGE="FR" NAME="Bernardini">
+ Parlamenttimme on useaan otteeseen ilmaissut tukevansa ympäristöystävällistä kuljetusmuotoa. Siksi emme voi muuta kuin olla tyytyväisiä tähän lausuntoon. Euroopan komissio pyrkii siirtymään tavaroiden maantiekuljetuksista yhdistettyihin kuljetuksiin kehittämällä mahdollisimman paljon tätä alaa. Kuljetusalan toimijat ovat hyväksyneet tämän ratkaisun ja myös liikenne- ja matkailuvaliokunnan jäsenet ovat asiasta samaa mieltä.
+<P>
+Euroopan komissio ehdottaa meille kuitenkin tällä kertaa, että yhdistetyt kuljetukset vapautetaan kaikista rajoituksista, jotka koskevat ajoa viikonloppuisin ja öisin, silloin kun ajoneuvoa käytetään yhdistettyihin kuljetuksiin.
+<P>
+Emme voi hyväksyä tätä ehdotusta. Sen tavoitteena olisi vain yksinkertaisesti kansallisten kieltojen kiertäminen. Sen lisäksi jokaisen jäsenvaltion on voitava itse määrätä tällaisista kielloista toissijaisuusperiaatteen mukaisesti.
+<P>
+On olemassa muita keinoja edistää yhdistettyjen kuljetusten käyttöä, ja viittaan tässä erityisesti PACT-ohjelmaan. Meidän on käytettävä ja edistettävä nykyisiä aloitteita ennen kuin määräämme epäsuosiossa olevista toimenpiteistä, joiden suunta ei useinkaan ole oikea.
+<P>
+Van Bladelin mietintö (A4-0041/99)
+<SPEAKER ID=37 LANGUAGE="NL" NAME="Van Dam">
+ Makrotaloudellisen avun antaminen Albanialle on hyvä asia. Kosovon tapahtumat vaikuttavat Albaniaan suuressa määrin taloudellisesti ja sosiaalisesti. Tästä voidaan syyttää osaksi myös useita kansainvälisiä kauppasaartoja, myös Euroopan unionin kauppasaartoa. Emme voikaan kieltäytyä makrotaloudellisen avun antamisesta. Siitä syystä äänestin komission ehdotuksen puolesta. En kuitenkaan tukenut van Bladelin mietinnön tarkistuksia 5 ja 12.
+<P>
+Näissä tarkistuksissa asetetaan liian vaativat poliittiset kriteerit avunannolle. On tietenkin niin, että terveellinen poliittinen ilmasto on välttämätön edellytys taloudelliselle kehitykselle. Asia voidaan esittää kuitenkin yhtä hyvin päinvastoin. Meillä on velvollisuuksia, joita emme voi välttää, vaikka Albanian poliittiset olosuhteet olisivat toisenlaiset kuin me odotamme niiden olevan. Toinen asia, josta en ole samaa mieltä, on kriteereiden kattavuus. Hyvä tullilainsäädäntö ei ole mielestäni mielekäs kriteeri tuen antamisen kannalta.
+<P>
+En tarkoita näillä huomautuksilla sitä, että avun antamiselle ei saa asettaa mitään ehtoja. Euroopan unionilla on sitä varten selkeä politiikka. Mainitsen tässä etenkin ihmisoikeuslausekkeen. Yleisiä kriteerejä on noudatettava yksittäisten maiden kohdalla ja niiden perusteella on tehtävä päätökset avun antamisesta tai sen epäämisestä.
+
+<CHAPTER ID=3>
+EMOTR: keskinäinen avunanto saatavien perinnässä
+<SPEAKER ID=38 NAME="Puhemies">
+Esityslistalla on seuraavana Bardongin laatima talousarvion valvontavaliokunnan mietintö (A4-0009/99) ehdotuksesta Euroopan parlamentin ja neuvoston direktiiviksi keskinäisestä avunannosta Euroopan maatalouden ohjaus- ja tukirahaston rahoitusjärjestelmään kuuluvista toimista aiheutuvien saatavien sekä maatalousmaksujen ja tullien perinnässä sekä arvonlisäverosta annetun neuvoston direktiivin 76/308/ETY muuttamisesta (KOM(98)0364 - C4-0392/98-98/0206(COD)).
+
+<SPEAKER ID=39 LANGUAGE="DE" NAME="Bardong">
+ Arvoisa puhemies, hyvät kollegat, tässä direktiivissä, josta tänään keskustelemme ja äänestämme, on kyse jäsenvaltioiden keskinäisestä avunannosta verovelkoja perittäessä. Mahdollisuudet ovat varsin laajat. Jäsenvaltiot voivat edetä aina ulosottoon asti. Sisämarkkinoiden hyvään toimintaan kuuluu, että tämä keskinäinen avunanto myös tehoaa. Tällä hetkellä tilanne ei ole valitettavasti lainkaan niin hyvä. Vuodesta 1993 lähtien on esitetty vuosittain sentään noin 1000 perintäpyyntöä, yhteensä 50 miljoonan ecun arvosta. Tämä verovelkojen pakkoperintä käy aina erityisen vaikeaksi molemmille puolille, kun asianomaisten omaisuus on osittain tai kokonaan toisessa jäsenvaltiossa tai on siirretty - heidän kannaltaan - turvaan. Sen seurauksena vain 3-5 % kaikista näistä veloista saadaan myös perittyä.
+<P>
+Tätä ongelmaa varten on nyt ollut direktiivein toteutettuja järjestelyjä jo vuosista 1976 ja 1977 lähtien maatalousmaksujen lisäksi myös tullien, myöhemmin myös arvonlisäveron ja valmisteveron osalta. Komissio teki lisäksi vuonna 1990 ehdotuksen, joka ei mennyt läpi. Se tekee nyt uusia muutosehdotuksia, jotta menetelmä paranisi ja nykyaikaistuisi, koska se ei ole enää kaikilta osin ajanmukainen. Pohjimmiltaan, ja siihen keskityn, kyse on ennen kaikkea kolmesta asiasta: tulojen ja omaisuuden verotus sisällytetään tämän direktiivin alaan. Se on ehkä monien mielestä yllättävää, sillä sitähän ei mainita edes otsikossa. Tämän muutetun direktiivin 2 artiklassa se on kuitenkin nimenomaan mainittu. Suhtaudumme siihen myönteisesti ja joudumme varmaan suhtautumaankin, mutta kysyn heti itseltäni, miksei komissio ole käsitellyt tätä asiaa selkeämmin ja tuonut sitä kunnolla esiin jo otsikossa.
+<P>
+Toiseksi: kun jokin maa pyytää toiselta maalta verovelan perimistä, tuon maan on ryhdyttävä aivan samoihin ponnisteluihin kuin omia verojaan periessään.
+<P>
+Kolmanneksi: toisesta maasta välitettävät, vaateen mahdollistavat asiakirjat on jatkossa tunnustettava suoraan. Nyt ei siis enää saa esiintyä sellaisia viivytyksiä kuin tähän asti, kun oli mahdollisesti tarpeen tunnustaa vaateen mahdollistavat asiakirjat erityisen menettelyn avulla. Vaateen mahdollistavat asiakirjat on siis tunnustettava suoraan, myös muissa maissa kuin siinä, johon velallista seurataan, ja uutta tunnustusmenettelyä ei tarvita.
+<P>
+Pidämme komission ehdotusta periaatteessa oikeana ja sisämarkkinoiden hyvälle toiminnalle välttämättömänä. Meidän mielestämme siinä ei edetä kuitenkaan kaikissa kohdissa riittävän pitkälle, jotta sen avulla päästäisiin todella merkittäviin parannuksiin. Sen vuoksi talousarvion valvontavaliokunta esittää teille vielä joitakin tarkistuksia. Ensinnäkin, jotta veropakolaisuutta ja veronkiertoa voitaisiin torjua tehokkaammin, on pidennettävä aikaa, jona verovelkojen maksamista muista jäsenvaltioista on tuettava. Valiokunta ehdottaa kolmen vuoden sijaan viittä vuotta. Jos aika on lyhyempi - jolle voisi oikeastaan olla myös perusteita - ilmoitus tai päätös siitä, että kaikki on jäänyt tuloksettomaksi, tulee kyllä aiemmin, mutta menestys ei ole sen parempi.
+<P>
+Jäsenvaltioiden on lisäksi myönnettävä toisen jäsenvaltion vaatimuksille samat etuoikeudet kuin omilleen. Kyllä, yhteisön vaatimuksilla on mahdollisesti myös etusija kansallisiin vaatimuksiin nähden. Nämä lausunnot hyväksyttiin vain johdanto-osaan. Olisi oikeastaan toivottavaa, että ne hyväksyttäisiin lopulta myös täydentävään osaan, mutta nyt tyydymme siihen, että ne sisältyvät johdanto-osaan.
+<P>
+Jäsenvaltioilla on täysi vapaus päättää itse, jakavatko ne ja miten jakavat kustannukset, kun periminen aiheuttaa erityisiä ongelmia tai kustannuksia, esimerkiksi, kun on kyse järjestäytyneen rikollisuuden torjumisesta. Komissiolle jää, minun nähdäkseni, nyt käsiteltävänä olevista ehdotuksista huolimatta kuitenkin vielä paljon tehtävää. Esimerkiksi virkailijoiden koulutusta jäsenmaissa Fiscalis-ohjelman yhteydessä on parannettava. Olisi myös pyrittävä sovittamaan yhteen tai ainakin lähentämään yksittäisten jäsenvaltioiden erilaisia valtuuksia perinnän yhteydessä. Tälläkään alueella ei onnistuta ilman yhteisvastuuta ja keskinäistä luottamusta. Niitä todella tarvitaan tässä hankkeessa.
+<P>
+Sallikaa minun todeta lopuksi: yhteisön ja jäsenvaltioiden taloudelliset edut eivät ole, kuten usein, ristiriidassa tämän suunnitelman kanssa. Sekä yhteisö että - jopa vielä enemmän - jäsenvaltiot hyötyvät hyvin toimivista menettelytavoista tällä alueella. Muutostarve, jonka komissio nyt esittää, lähtee kyllä myös jäsenvaltioista. Niiden pitäisi sitten neuvostossa huolehtia vastaavasta päätöksenteosta. Komissio on tosin toiminut tässä menettelyssä pikemminkin hidastellen, jos ajatellaan pitkää aikaa, joka kului, ennen kuin se esitti ehdotuksensa.
+
+<SPEAKER ID=40 LANGUAGE="EN" NAME="Mather">
+Arvoisa puhemies, työjärjestyspuheenvuoro. Pyydän teiltä täsmennystä. Käsittelemämme mietinnön otsikko näyttää koskevan Euroopan maatalouden ohjaus- ja tukirahastoa, mutta esittelijän puhe ei vastannut kyseistä aihetta. Onko otsikossa jonkinlainen virhe vai onko mietintö aiheeltaan laajempi kuin otsikosta käy ilmi?
+<P>
+Toiseksi totean, että esittelijän laatiman mietinnön tekstissä viitataan veroparatiiseihin ja otetaan kysymys esille tarkistuksen 5 yhteydessä. Tuossa tarkistuksessa ei kuitenkaan mainita itse asiaa. Mietinkin, onko myös mietinnön tässä kohdassa jotakin vikaa.
+
+<SPEAKER ID=41 NAME="Puhemies">
+Nämä ovat oikeastaan asioita, joista pitäisi keskustella valiokunnassa. Esittelijä, herra Bardong, ilmaisee kuitenkin lyhyesti kantansa siihen.
+
+<SPEAKER ID=42 LANGUAGE="DE" NAME="Bardong">
+Arvoisa puhemies, aivan lyhyesti: mietintö sekä sen otsikko ovat laajempia tai koskevat useampia verolajeja tai veroluonteisten maksujen lajeja kuin asiakirjoistanne kenties käy ilmi. Vaikutukset tuloihin on kyllä esitetty komission ehdotuksissa yksiselitteisesti. Arvostelin vain sitä, että ne eivät näy myös otsikossa. Pidän niitä nimittäin tärkeinä.
+
+<SPEAKER ID=43 NAME="Puhemies">
+Mehän emme käy täällä keskustelua, sen pitäisi oikeastaan tapahtua valiokunnassa. Herra kollega, mistä työjärjestyksen kohdasta haluatte puhua?
+
+<SPEAKER ID=44 LANGUAGE="EN" NAME="Mather">
+Arvoisa puhemies, työjärjestyspuheenvuoro. Käännyn jälleen puoleenne. Mielestäni on parlamentin työjärjestyksen ja menettelyjen kannalta vaarallista, jos jäseniä kehotetaan äänestämään mietinnöstä, jonka sisältö ei juuri lainkaan vastaa otsikkoa. Jäsenet, jotka katsovat mietintöjen otsikkoja ja kuvittelevat, että tämä koskee vain maatalousasioita...
+<P>
+Puhemies keskeytti puhujan.
+
+<SPEAKER ID=45 NAME="Puhemies">
+Pyydän anteeksi, herra kollega, toistan vielä kerran, emme käy nyt keskustelua, sen pitäisi tapahtua valiokunnassa. Tehän olisitte voinut olla valiokunnassa ja ilmaista mielipiteenne asiasta. Ette ole myöskään ilmoittautunut ryhmänne puolesta puhumaan, ettekä voi nyt pakottaa minua antamaan teille puheenvuoroa, vaikka ette ole edes pyytänyt sitä asianmukaisesti. Muutenhan kaikki tekisivät niin! Teidän on nyt kuunneltava, mitä kollegat sanovat, ja sitten me äänestämme asiasta.
+
+<SPEAKER ID=46 LANGUAGE="DE" NAME="Bösch">
+Arvoisa puhemies, olen pyytänyt puheenvuoroa ja olen ilmoittautunut myös tähän keskusteluun. Toivon, etten aiheuta teille sillä ylirasitusta näin perjantaiaamuna.
+<P>
+Direktiivin, josta meidän on tehtävä päätös tänään, otsikko ei voisi juuri kuulostaa teknisemmältä, mutta uskon, että kollega Bardongin mietinnöstä ei puutu kuitenkaan poliittista arkaluonteisuutta. Tiedämme, että vapautta voidaan aina käyttää väärin. Se koskee vapauksia, joita unionin yhteiset sisämarkkinat tarjoavat sen kansalaisille. Vapautta matkustaa tarkastuksitta; vapautta asettua asumaan toiseen jäsenvaltioon. Nämä vapaudet - niin toivottavia kuin ne ovatkin - ovat johtaneet myös siihen, että niitä käytetään ajoittain väärin, esimerkiksi verojen kiertämiseksi. Välineet, jotka meillä nyt on käytettävissämme tällaisilta väärinkäytöksiltä suojautumiseksi, eivät ole riittävän tehokkaita. Vuodesta 1976 on ollut voimassa direktiivi, jonka mukaan jäsenvaltiot tukevat toimissa toisiaan, mutta alun perin oli kyse ennen kaikkea tullien tai veroluonteisten maksujen perimisestä yhteisen maatalouspolitiikan yhteydessä.
+<P>
+Nyt, yhteisön sisäisen kaupan lisäännyttyä valtavasti, se ei enää riitä. Sen vuoksi komissio on tehnyt ehdotukset, joista meidän päätettävä. Esimerkiksi ehdotus siitä, että tulevaisuudessa myös sakot ja maksurangaistukset voidaan periä virka-apupyynnön avulla. Me sosiaalidemokraatit tuemme tätä ehdotusta kuten muitakin ehdotuksia, koska niiden avulla torjutaan kaikenlaista veronkiertoa ja petoksia. Lisäksi komissio ehdottaa parannuksia menettelyyn, esimerkiksi, että tulevaisuudessa virka-apua voidaan pyytää jo, vaikka kaikkia kotimaisia perintäkeinoja ei ole vielä käytetty. Sen on tarkoitus estää ovelia asianajajia pelaamasta aikaa ja käyttämästä väärin oikeustietä.
+<P>
+Mitä tulee esittelijän esittämiin tarkistuksiin, tuemme täysin niitä kaikkia. Mainitsen kolme kohtaa, joista kollega Bardong jo osittain puhuikin. Ensinnäkin: komission ehdottamat vanhenemisajat ovat liian lyhyitä, niitä on pidennettävä tämänhetkisestä kolmesta viiteen vuoteen. Sen osoittaa menneiden vuosien käytäntö. Toiseksi: kun yhteisön vaatimukset kilpailevat pakkoperinnässä kansallisen talousarvion kanssa, yhteisön vaatimuksien pitäisi olla etusijalla. Kolmanneksi: virka-avun kustannuksien jaosta pitäisi sopia yhteisymmärryksessä jäsenvaltioiden kesken. Sitä ei voi määritellä direktiivissä.
+<P>
+Sallikaa minun tehdä yhteenveto: vaikka teksti on tekninen, kollega Bardong, sen sisältö on erittäin tärkeä ja se auttaa varmistamaan unionin yhtenäismarkkinoiden toimivuuden pitkällä aikavälillä.
+
+<SPEAKER ID=47 LANGUAGE="IT" NAME="Santini">
+Arvoisa puhemies, arvoisa komission jäsen, vaikka tämä aihe onkin teknisesti monimutkainen - itse asiassa otsikkoakaan ei oikein tajua - katson, että tätä mietintöä on pidettävä yhtenä lisäpanoksena, jolla pyritään saavuttamaan hyvin lähellä Euroopan kansalaisia oleva tavoite, eli avoimuus: julkisen hallinnon avoimuus, siis myös resurssien jakamista koskevien yhteisön järjestelmien moitteettomuus ja petoksia yrittävien - niin julkisten kuin yksityisten - tahojen vastainen taistelu.
+<P>
+Esittelijä muistuttaa meitä siis siitä, että vuodesta 1976 lähtien on ollut olemassa perintään liittyvä keskinäistä apua koskeva strategia, mutta että joidenkin soveltamista koskevien omituisuuksien vuoksi se ei ole kyennyt takaamaan täysin sen enempää velkojien kuin itse yhteisönkään eli sen talousarvion etuja.
+<P>
+Esittelijän - jota muuten onnittelen tehdystä työstä - mieliin palauttama luku, jonka mukaan keskimääräinen perintäaste on 3-5 %, hipoo itse asiassa naurettavuutta. Tämä luku ei voi olla huolestuttamatta niitä, jotka puhuvat aina vain vakuuttuneemmin yhteisistä verojärjestelmistä, yhteisön veropolitiikasta ja yhteisön sisäisistä alv- ja valmisteverojärjestelmistä. Päinvastoin, juuri näiden kahden viimeksi mainitun järjestelmän käyttöönotto vuonna 1993 on lisännyt osaltaan riitatapausten, toisin sanoen perittävien saatavien, määrää, ja monet jäsenvaltiot vaativat jo oikeuksiaan.
+<P>
+Juuri jäsenvaltiot vaativat niin sanottua välitöntä verotusta, mahdollisten veronkiertäjien vastavuoroista valvontaa ja kaiken kaikkiaan taistelua niin sanottuja veroparatiiseja vastaan, joita nykyisessä Euroopassa tarjoavat paitsi kolmansien maiden myös joidenkin jäsenvaltioiden vahvat pankkijärjestelmät.
+<P>
+Ehkä on hieman rohkeaa hypätä maatalouden ohjaus- ja takuurahastosta, josta tämä mietintö kumma kyllä lähtee liikkeelle, veroparatiiseihin, mutta se osoittaa, että suuret järjestelmät, myös ne, joihin liittyy petoksia, lähtevät liikkeelle pienestä, yksilötasolla, ja muuttuvat sitten yleiseksi järjestelmäksi. Siksi myös petosten tukahduttamiseen tähtäävän strategian on lähdettävä liikkeelle yleisestä edusta, mutta sen on myös pystyttävä tunkeutumaan aina petoksen todellisiin juuriin asti, jotta ne voitaisiin kitkeä pois.
+
+<SPEAKER ID=48 NAME="Virrankoski">
+Arvoisa puhemies, käsittelyssä oleva herra Bardongin mietintö keskittyy EMOTRin piiriin kuuluvien saatavien, maatalousmaksujen, tullien ja verojen perinnän tehostamiseen. Aihe on vaikea, koska siinä liikutaan arkaluontoisella alueella. Haluan kiittää herra Bardongia hyvin valmistellusta ja asiantuntevasti perustellusta mietinnöstä.
+<P>
+Keskinäinen avunanto verojen ja maksujen perimisessä tulee entistä tärkeämmäksi. Yhteismarkkinoiden toteutuessa verovelvollisilla on entistä laajempi mahdollisuus liikuttaa varojaan ja tulojaan maasta toiseen. Vaarana on, että EU: n sisälle alkaa muodostua veroparatiiseja. Tämä loisi liian hyvät olosuhteet erityisesti järjestäytyneelle rikollisuudelle.
+<P>
+Euroopan unionin ongelma on siinä, että sillä on oma budjetti, mutta sillä ei ole varsinaista koneistoa sen toteuttamiseen. Käytännön toimet niin maksujen suorittamiseksi kuin saatavien perimiseksi toimeenpanevat jäsenmaat. Toisaalta jäsenmaat ovat itsenäisiä taloudellisia yksiköitä, jotka pyrkivät ennen kaikkea huolehtimaan omista tuloistaan ja muiden tulojen periminen jää vähemmälle. Niinpä EU: n puitteissa vain 3-5 prosenttia perintäpyynnöistä on voitu toteuttaa.
+<P>
+Toinen ongelma on siinä, että itse perintätapahtuma, saatavien perintä, omaisuuden takavarikointi ja muut prosessiin kuuluvat asiat kuuluvat EU: n toiseen pilariin. Tämän pilarin asiat eivät kuulu varsinaiseen EU: n päätöksentekoon, vaan niissä vaaditaan jäsenmaiden välistä yhteistyötä. Jäsenmaat ovat erittäin herkkiä siinä suhteessa, että niiden suvereniteettiä ei loukata tällä alalla. Siksi saatavien perintä ja siinä noudatettava yhteistyö on herkkä poliittinen kysymys. Kaikesta huolimatta on selvää, että myös EU: n piirissä on onnistuttava perimään saatavat verot ja liialliset maksusuoritukset. Tästä syystä herra Bardongin mietintö ja komission esitys ovat erittäin kannatettavia.
+
+<SPEAKER ID=49 LANGUAGE="SV" NAME="Holm">
+Arvoisa puhemies, suurkiitos esittelijä Bardongille, joka on ottanut hoitaakseen tämän tärkeän mietinnön. Haluan myös kommentoida sitä seuraavasti; siinä sanotaan vain osa siitä, mistä on kyse. Se johtuu ehkä myös paljolti siitä, että komissio ei oikein halua puhua siitä, mistä todellakin on kyse. Muun muassa jäsenvaltioissa käydään vilkasta keskustelua tästä merkittävästä kysymyksestä, toisin sanoen siitä, kuinka suuri valta EU: lla pitää olla näissä asioissa. Ehkä juuri sen vuoksi ei oikein haluta kertoa, mistä on kyse.
+<P>
+Minulla on muutamia tähän asiaan liittyviä kommentteja: monet puhujat ovat käsitelleet tarkistusta 5. Komissio ehdottaa, että määräaika olisi ainoastaan kolme vuotta. Uskoakseni on tärkeää, että päätämme, että määräajan on oltava viisi vuotta, koska näiden kysymysten selvittäminen kestää hyvin kauan. Jäsenvaltioilla on oltava yli kolme vuotta aikaa työskennellä näiden asioiden parissa, muuten nämä artiklat eivät ole tehokkaita.
+<P>
+Minulla on muutama oma tarkistukseen 2 liittyvä huomautus. En tiedä, onko ihan oikein, että päätämme saatavien perimisestä jäsenvaltioissa, toisin sanoen, että kansallisten saatavien on oltava toisarvoisa yhteisön talousarvioon maksettaviin saataviin verrattuna. Mielestäni se ei ole oikeudenmukaista. Mielestäni niitä on arvioitava tasa-arvoisesti. Emme voi asettaa toista etusijalle. Tämä on kuitenkin henkilökohtainen mielipiteeni. Vihreä ryhmä tukee mietintöä ja talousarvion valvontavaliokunnan ja Bardongin tekemiä tarkistuksia.
+
+<SPEAKER ID=50 LANGUAGE="FR" NAME="Souchet">
+Arvoisa puhemies, tämä on hyvä mietintö. Talousarvion valvontavaliokunnan tarkistukset ovat myös hyviä, ja aiomme äänestää niiden puolesta.
+<P>
+Tiedämme kaikki, että tietyt häikäilemättömät velalliset voivat kuitenkin järjestää maksukyvyttömyytensä siten, että velkojana oleva jäsenvaltio on velvollinen kääntymään toisen jäsenvaltion puoleen, jonka alueelle vastahakoinen velallinen on siirtänyt tai sijoittanut pakkoperinnän kohteena olevan omaisuuden.
+<P>
+Haluaisin nyt esittää komission jäsen Bangemannille yhden tarkasti rajatun kysymyksen. Komission Agenda 2000: n kehyksessä harkitsema eräs mahdollisuus on jäsenvaltioiden osallistuminen YMP: n rahoitukseen. Siten jos kyse on petoksesta, kuka vastaa jäsenvaltion yhteisrahoittamalle osapuolelle perusteettomasti maksettujen saatavien perimisestä? Miten voidaan periä saatava, joka on maksettu perusteettomasti vastahakoiselle velalliselle, joka on siirtänyt omaisuutta toiseen jäsenvaltioon tai jolla on omaisuutta toisessa jäsenvaltiossa?
+<P>
+Ennen ratkaisun ehdottamista tähän kysymykseen on tarpeen harkita sen toteuttamisen kannalta välttämättömiä oikeusprosesseja, koska tässä tapauksessa yhteisrahoituksen yhteydessä eurooppalaiset toimielimet päättävät maataloustukien määrästä ja siten siitä summasta, josta asianomaisen jäsenvaltion on vastattava. Päättäjän ja maksajan erottaminen toisistaan aiheuttaa todellisia oikeudellisia ongelmia saatavien perimisen osalta, ja ne saattavat estää yhteisrahoituksen toteuttamisen siten kuin komissio on sitä suunnitellut. Arvoisa puhemies, tämä on jälleen yksi este lisää sillä tiellä, joka näyttää todellakin olevan varsin kyseenalainen.
+
+<SPEAKER ID=51 LANGUAGE="DE" NAME="Von Habsburg">
+Arvoisa puhemies, haluaisin ennen kaikkea kiittää professori Bardongia hänen erinomaisesta työstään ratkaisemattoman ongelman parissa. Mietintö - sitähän arvosteltiin joiltakin osin, esimerkiksi otsikon ja sisällön ristiriitaisuuden vuoksi - osoittaa aivan selvästi, millaisessa viidakossa toimimme. Haluaisin sanoa muutaman sanan siitä. Keskustelussahan puhuttiin jatkuvasti verokeitaista. Tehkäämme toki selväksi, mitä tämä sana tarkoittaa! Missä keidas sijaitsee? Tietysti autiomaassa. Se merkitsee sitä, että kun puhumme verokeitaista, meidän on myönnettävä, että se, mikä ei ole verokeidas, on autiomaata.
+<P>
+Siinä on nimenomaan koko keskustelun ydin. Vaikeutemme johtuvat byrokraattisen koneiston ja teknokraattisten toimien luomisesta ja ennen kaikkea siitä, että koko verojärjestelmämme muuttuu koko ajan monimutkaisemmaksi. Tätä taustaa vasten katsottuna tämä mietintö on todella erinomainen, ja aionkin kannattaa sitä, koska siinä esitetään asiat teknisesti oikein ja osoitetaan meille selvästi, missä on korjattavaa, nimittäin siinä, että asioista tulee yksittäisissä valtioissa mutta jollain tavalla myös unionissamme kansalaisillemme yhä monimutkaisempia ja että huijareilla on tietysti mahdollisuus käyttää hyväkseen tätä monimutkaisuutta.
+<P>
+Haluaisin, että tästä keskusteltaisiin kerran oikein vakavasti. Jos emme nimittäin saa täällä aikaan selvyyttä, jos emme saa aikaan yksinkertaisia ratkaisuja, samat ongelmat säilyvät edelleenkin.
+
+<SPEAKER ID=52 LANGUAGE="EN" NAME="Hardstaff">
+Arvoisa puhemies, työjärjestyspuheenvuoro. Haluaisin kiinnittää huomionne siihen, että herra Souchet'n puheen aikana ja osittain myös herra von Habsburgin puheen aikana herra Mather puhui matkapuhelimeen, mikä ei käsittääkseni ole sallittua istuntosalissa.
+
+<SPEAKER ID=53 NAME="Puhemies">
+Saanen huomauttaa vielä kerran, että matkapuhelimen käyttö istuntosalissa on kielletty. Olkaa hyvä ja sulkekaa puhelimet!
+
+<SPEAKER ID=54 NAME="Bangemann">
+Arvoisa puhemies, aluksi kysymykseen, kattaako otsikko täysin sisällön. Ehdotuksen direktiiviksi sisältävässä omassa tiedonannossamme on otsikko: Keskinäisestä avunannosta Euroopan maatalouden ohjaus-ja tukirahaston rahoitusjärjestelmään kuuluvista toimista aiheutuvien saatavien sekä maatalousmaksujen ja tullien perinnässä sekä arvonlisäverosta annetun neuvoston direktiivin 76/308/ETY muuttamisesta. Se kattaa koko sisällön. Esittelijä on minulle tuntemattomasta syystä esittänyt asiat hieman lyhyemmin omassa otsikossaan. Muotoilemme joka tapauksessa tämän keskustelun vuoksi otsikon uudelleen ja tarkemmin, niin että tätä ongelmaa ei pitäisi oikeastaan enää olla.
+<P>
+Mitä tulee esitettyihin kysymyksiin, haluaisin viitata siihen, että ehdotus perustuu 100 a artiklaan, koska pohdiskeluissamme on etusijalla se, että sisämarkkinat, kuten keskustelussa oikein sanottiin - luulen, että se oli herra Bösch - tuovat vapauksia, jotka tarjoavat myös väärinkäytösmahdollisuuksia. Halusimme sulkea oven näiltä väärinkäytösmahdollisuuksilta. Tästä syystä, vaikka jotkut ehdotukset koskevat myös muita asioita, olemme sitä mieltä, että sisämarkkinoiden kilpailukykyä ja verotuksellista tasapuolisuutta on joka tapauksessa suojeltava. Sen vuoksi ehdotus perustuu 100 a artiklaan, ja sen vuoksi emme voi myöskään hyväksyä eräitä tarkistuksia. Palaan tähän vielä myöhemmin.
+<P>
+Haluaisin kiittää esittelijää. Hänen ehdotuksensa noudattelee pääasiassa meidän ehdotustamme. Tarkistukset 1, 3 ja 6 voimme hyväksyä. Muiden tarkistusten osalta emme voi valitettavasti olla yhtä mieltä esittelijän kanssa, ja se johtuu lainsäädännöllisistä epäilyksistä. Voimme tietysti keskustella näistä lainsäädännöllisistä epäilyksistämme menettelyn aikana myös jäsenvaltioiden kanssa, mutta tarkistusten 2 ja 7 osalta, joiden mukaan yhteisön talousarvioon ja jäsenvaltioille maksettavat keskenään kilpailevat saatavat pitäisi käsitellä niin, että yhteisön saatavat olisivat etusijalla, tämä lainsäädännöllinen ongelma on aivan ilmeinen. Jos ehdotus perustuu artiklaan 100 a, ja sehän perustuu, kuten sanoin, herää kysymys, voidaanko nämä tarkistukset sovittaa lisäksi yhteen EY: n perustamissopimuksen 7 a artiklan mainitsemien tavoitteiden toteuttamisen kanssa. Tämä on meille lainsäädännöllisenä ongelmana niin vaikea, että emme halunneet hyväksyä näitä tarkistuksia.
+<P>
+Tarkistuksissa 4, 8 ja 9, joissa prosenttiosuutena perittävästä summasta määritettävien korvauksien sijasta pitäisi korvata todella aiheutuneet kulut, korvauksia maksetaan vain todella vaikeiksi osoittautuvissa tapauksissa. Tästä näkökulmasta katsottuna tarkistukset on helppo ymmärtää. Niitä on kuitenkin tarkasteltava tarkistuksen 9 yhteydessä, jota emme voi hyväksyä, sillä komissio ehdottaa - taas sisämarkkinoiden perusperiaatteita noudattaen - että jäsenvaltiot luopuvat perimiskulujen korvaamiseen liittyvistä saatavista vuodesta 2005 alkaen, kun taas tarkistuksessa 9 ehdotetaan pelkkää vapaaehtoista luopumista ilman sitovia määräaikoja.
+<P>
+Tarkistuksesta 5, joka oli myös esillä keskustelussa: virka-avun pyytämisajan jatkaminen kolmesta viiteen vuoteen. Siinä ei ole kyse vanhenemisesta, siitä ei ollenkaan kyse, vaan direktiivillä halutaan nimenomaan mahdollisuuksien mukaan nopeuttaa perimismenettelyä. Sen vuoksi olemme sitä mieltä, että meidän on pidettävä kiinni ehdottamastamme ajasta.
+<P>
+Sitten yhteisrahoitukseen, näen, ettei jäsen, joka puhui siitä, ole enää paikalla...
+<P>
+Vastalauseita
+<P>
+Ahaa, edessänne oleva parlamentin jäsen peitti teidät näkyvistä.
+<P>
+(DE) - Se on tietysti hypoteettinen kysymys, herra Souchet, tekin tiedätte sen, sillä yhteisrahoitus on vain yksi käsiteltävänä olevista mahdollisuuksista. Asioiden näin ollen sitä ei myöskään luultavasti toteuteta laisinkaan. Sen vuoksi kysymys on hypoteettinen. Vaikka yhteisrahoituksesta pitäisi sopia ja sitä pitäisi muotoilla, vastaus kysymykseenne riippuu luonnollisesti siitä, kuka on tarkemmin sanoen vastuussa tästä rahoituksesta, ei vain talousarvion osalta, vaan kenen on myös hoidettava sitä hallinnollisesti. Voihan olla aivan hyvin niin, että vain budjettivastuu on jäsenvaltiolla, jonka pitäisi sitten siis maksaa tietty osa unionille, kun taas unioni hoitaisi loppuosan. Tällaisessa tapauksessa olisi tietysti myös järkevää, että unionilla olisi perimismahdollisuudet. Päinvastaisessa tapauksessakin olisi johdonmukaista, että jäsenvaltioilla olisi nämä perimismahdollisuudet. Koska tätä kaikkea ei ole kuitenkaan vielä ratkaistu eikä todennäköisesti ratkaistakaan - tämä mahdollisuus loittonee nimittäin jatkuvasti - uskon, että sen arvaileminen on turhaa.
+
+<SPEAKER ID=55 LANGUAGE="DE" NAME="Lulling">
+Arvoisa puhemies, tämä on kyllä erittäin tärkeä mietintö. Minun on sanottava, että en ole tosin talousarvion valvontavaliokunnan jäsen, mutta olen kyllä nyt hieman sekaisin kaikesta siitä, mitä olen kuullut. Minun pitäisi oikeastaan kysyä komission jäsen Bangemannilta: jos sitä laajennetaan näin, voiko sitten myös tapahtua niin, että esimerkiksi arvonlisäveron, valmisteverojen... esittäkää toki esimerkkejä siitä, mitä kaikkea se voi sisältää. Jos meillä pitäisi sitten olla vielä joskus lähdevero - herra varjelkoon meitä siitä - miten periminen maasta toiseen silloin tapahtuu? Sanokaa toki meille, mitä kaikkea tämä ennenkuulumaton otsikko todella sisältää! En ole nyt enää ollenkaan varma, voinko minäkin kannattaa tätä ehdotusta.
+
+<SPEAKER ID=56 NAME="Puhemies">
+Onko arvoisa komission jäsen Bangemann valmis vastaamaan tähän kysymykseen?
+
+<SPEAKER ID=57 LANGUAGE="DE" NAME="Bangemann">
+Arvoisa puhemies, vastaan kaikkiin rouva Lullingin kysymyksiin, sillä hän äänesti komission puolesta.
+<P>
+Naurua
+<P>
+Vastaan myös niiden parlamentin jäsenten kysymyksiin, jotka äänestivät komissiota vastaan, mutta hieman lyhyemmin.
+<P>
+Siis, rouva Lulling, ehdotuksestahan selviää, mitkä alueet siihen sisältyvät. Arvonlisäverosaatavat voivat tietenkin myös kuulua perimisperiaatteen piiriin. Se on luonnollisesti mahdollista, se mahdollisuushan mainitaankin. Tällä hetkellä ei voi tietenkään puhua vielä lähdeverosta, sillä sehän ei ole vielä käytössä. Jos lähdevero otettaisiin käyttöön, tällaista perimissäädöstä pitäisi täydentää, koska sitä ei tietenkään mainita tekstissä. Koska lähdevero ei ole käytössä, ei ole myöskään perimismahdollisuuksia. Jos se otettaisiin käyttöön - teidän hartaiden toiveidenne vastaisesti, jotka perustuvat tietysti pelkästään europoliittisiin ja oikeudenmukaisuusmotiiveihin eivätkä johdu esimerkiksi oman jäsenvaltionne tilanteesta - tätä direktiiviä pitäisi täydentää, jotta myös mahdolliset tällaiset rästit voitaisiin periä.
+
+<SPEAKER ID=58 NAME="Puhemies">
+Paljon kiitoksia, arvoisa komission jäsen Bangemann!
+<P>
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen.
+<P>
+Parlamentti hyväksyi lainsäädäntöpäätöslauselmaehdotuksen.
+
+<CHAPTER ID=4>
+Eurooppalainen standardointi
+<SPEAKER ID=59 NAME="Puhemies.">
+Esityslistalla on seuraavana rouva Kestelijn-Sierensin laatima talous- ja raha-asioita sekä teollisuuspolitiikkaa käsittelevän valiokunnan mietintö (A4-0501/98) komission kertomuksesta neuvostolle ja Euroopan parlamentille uuden lähestymistavan mukaisen eurooppalaisen standardoinnin tehokkuudesta ja avoimuudesta (KOM(98)0291 - C4-0442/98).
+
+<SPEAKER ID=60 LANGUAGE="NL" NAME="Kestelijn-Sierens">
+Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, esillä on komission kertomus uuden lähestymistavan mukaisen eurooppalaisen standardoinnin tehokkuudesta ja avoimuudesta. Uusi lähestymistapa on otettu käyttöön teknisen standardoinnin alueella vuonna 1985 ja se perustuu neljään periaatteeseen.
+<P>
+Ensiksi eurooppalaisessa lainsäädännössä määritellään tärkeimmät turvallisuus- ja terveysvaatimukset, jotka tuotteiden tulee täyttää ennen kuin ne voidaan tuoda markkinoille. Sen jälkeen standardointielimet laativat ne tekniset laatuvaatimukset, joita valmistaja tarvitsee voidakseen valmistaa vaatimukset täyttäviä tuotteita. Yrittäjällä ei kuitenkaan ole velvollisuutta normien mukaiseen tuotantoon. Lopuksi valtion velvollisuutena on antaa hyväksyntänsä yhdenmukaistetut normit täyttäville tuotteille.
+<P>
+Talous- ja raha-asioita sekä teollisuuspolitiikkaa käsittelevä valiokunta pitää uutta lähestymistapaa myönteisenä. Ensiksikin siksi, että lainsäädäntöjen yhdenmukaistamisessa rajoitutaan tärkeimpiin vaatimuksiin. Tämä on poliittinen seikka, joka on erotettava teknisten laatuvaatimusten toteuttamisesta, mikä puolestaan kuuluu standardointielinten tehtäviin. Toisin sanoen, suutari pysyköön lestissään.
+<P>
+Uuden lähestymistavan markkinoille suuntautuva luonne on myös vastakohta pakonomaiselle lainsäädännölle. Kukaan ei pakota valmistajaa noudattamaan teknisiä laatuvaatimuksia. Uusi lähestymistapa mahdollistaa joustavan lainsäädännön, jota voidaan soveltaa teknologiseen kehitykseen. Standardoinnin saaminen tehokkaammaksi ja avoimemmaksi on riippumattomien CEN-, CENELEX- ja ETSI -elinten tehtävä, mutta edistyksen arvioiminen ja sen valvonta, että standardointielimet ottavat määräajat huomioon, on ehdottomasti komission vastuulla. Sen on muistutettava säännöllisesti kustannus- ja hyötyanalyysien pohjalta standardointielimiä niiden vastuuvelvollisuudesta. Komissio voisi tehdä esikuva-analyysin Euroopan standardointiprosessista suhteessa merkittäviin kauppakumppaneihimme ja tehdä tutkimuksen sen vaikutuksesta markkinoihin. Lopuksi, ja tämä on mielestämme erittäin tärkeää, se voisi näpäyttää jäsenvaltioita sormille, mikäli ne unohtavat ilmoittaa edistyksestä yhtenäismarkkinoiden tulostaululla sisällyttäessään eurooppalaisia normeja kansalliseen lainsäädäntöön.
+<P>
+Vastustamme kolmen instituutin yhdistämistä siitä yksinkertaisesta syystä, että se vaikuttaisi valtavasti tehokkuuteen. En tiedä myöskään, että onko toivottavaa järjestää standardoinnin alkuvaiheessa virallisia äänestyksiä, joiden tavoitteena on prosessin nopeuttaminen. Uusi lähestymistapahan perustuu kaikkien kumppaneiden, eli kansallisten standardointielinten, pk-yritysten, työnantajien, työntekijöiden, kuluttajien ja ympäristöjärjestöjen mukanaoloon ja molemminpuoliseen luottamukseen.
+<P>
+Toinen tärkeä asia on valvoa sitä, kuinka pitkälle kansalliset elimet tunnustavat toistensa tekniset hyväksynnät tai yhdenmukaisuusselvitykset. Tämä on vaikea asia etenkin monille rakennusalan tuotteiden valmistajille. Ne eivät voi käytännössä viedä tuotteitaan kaikkiin jäsenvaltioihin. Siksi komission on tiukennettava menettelyjä, jotka liittyvät molemminpuolisen hyväksynnän laiminlyöntiin.
+<P>
+Yleisesti ottaen yrittäjille on oltava selkeämpää, kenen puoleen heidän tulee kääntyä, mikäli heillä on valituksia testitulosten molemminpuolisesta hyväksymisestä. Vastaako asiasta jokin komission yksikkö, vai onko tähän olemassa toinen ratkaisu, arvoisa komission jäsen? Euroopan parlamentti on todennut jo aikaisemmin, että asianomaisilla tahoilla, eli pk-yrityksillä, työnantajilla, työntekijöillä, kuluttajilla ja ympäristöjärjestöillä, ei ole riittävästi välineitä ja henkilökuntaa seurata kaikkea standardointityötä. Esitänkin, että komissio tutkii, että voivatko ne saada enemmän tukea Euroopan unionilta.
+<P>
+Ongelmia ei ole ainoastaan Euroopan unionin tasolla, kuluttajat on otettu mukaan vain seitsemässä jäsenvaltiossa. Tähän on tultava mielestäni muutos. Komissio on pyytänyt CEN-, CENELEC- ja ETSI-elimiä toteuttamaan riippumattoman tutkimuksen eurooppalaisen standardointiprosessin rahoituksesta. Tuen komissiota tässä.
+<P>
+Lopuksi meidän on huolehdittava siitä, että Keski- ja Itä-Euroopan standardointielimet otetaan tiiviimmin mukaan eurooppalaisten elinten toimintaan ja että asianosaiset kyseisissä maissa voivat luottaa komission tukeen.
+<P>
+Arvoisa puhemies, hyvät kollegat, tässä olivat talous- ja raha-asioita sekä teollisuuspolitiikkaa käsittelevän valiokunnan tärkeimmät huomautukset. Kiitän kollegoitani heidän tervejärkisestä ja hyödyllisestä avustaan tämän mietinnön laatimisessa.
+<P>
+Haluaisin esittää komission jäsen Bangemannille vielä kaksi kysymystä. Ensimmäinen kysymys koskee eri osapuolten ottamista paremmin mukaan standardointiin. Kuten jo sanoin, tässä on kyse rahasta. Haluaisin kysyä komission jäseneltä, onko hänellä konkreettisia ehdotuksia pk-yritysten ja muiden järjestöjen ottamisesta tiiviimmin mukaan eurooppalaisten standardien laatimiseen.
+<P>
+Toinen kysymykseni koskee pistokkeiden ja pistorasioiden yhdenmukaistamista. Jätin sen tietoisesti pois mietinnöstäni. Asia nousee kuitenkin säännöllisesti esiin ja siitä esitetään kysymyksiä. Me kaikki tiedämme: keskustelua on käyty jo yli 30 vuotta. Kuulisin mielelläni komission jäsen Bangemannilta, onko asiaan olemassa jo ratkaisu, onko kyse rahasta vai tekniikasta? Onko olemassa poliittista tahtoa tehdä asialle jotakin? Nämä olivat kaksi kysymystäni komission jäsenelle.
+
+<SPEAKER ID=61 LANGUAGE="DE" NAME="Rübig">
+Arvoisa puhemies, hyvät naiset ja herrat, haluamme sisämarkkinoilta kotimarkkinoille, ja siihen tarvitaan periaatteita, ja aivan ratkaiseva tekijä niiden osalta on standardointi. Standardointi on talouspoliittinen väline, joka varmistaa meille tavaroiden ja palvelujen vapaan liikkuvuuden myös tulevaisuudessa. Haluamme kuitenkin nykyaikaisen lainsäädännön. Haluamme uuden lähestymistavan, ja nimenomaan standardoinnin alalla on osoittautunut, että on välttämätöntä pohdiskella yhdessä sitä, miten saamme aikaan parempia menettelyjä. Traktorin istuimen kohtalo on osoittanut, että on järkevämpää valita uusi lähestymistapa, mikä merkitsee siis sitä, että yksittäisten maiden standardointielinten annetaan työskennellä toisistaan riippumatta. Uskon, että on tärkeää, että tällä alalla on siitä huolimatta lainsäädäntö, direktiivi, jotta tälle alalle voidaan tarjota poliittiset rajat.
+<P>
+Vallitsee kuitenkin tämä selkeä kaksijakoisuus, nimittäin yhtäältä lainsäätäjä, jonka ei pidä kirjoittaa säädöksistä paksuja kirjoja, jotka ovat usein käsittämättömiä, sillä me haluamme sen sijaan kevyen ja tehokkaan lainsäädännön. Toisen tason muodostavat vapaaehtoiset ja riippumattomat standardointijärjestöt, joissa kohtaavat aivan yksinkertaisesti valmistajat ja käyttäjät ja joissa puhutaan aloista, jotka ne hallitsevat erittäin hyvin ja joilla ne kykenevät määrittelemään tarkoin, mitä haluavat.
+<P>
+Meillä on ollut parlamentissa hyvä esimerkki siitä: linja-autodirektiivi, niin sanottu eurooppalainen linja-auto. Meillä oli 142 sivua ehdotuksia, ja parlamentti onnistui lyhentämään direktiivin kolmen sivun mittaiseksi. En voi nimittäin ymmärtää, että linja-auton pitäisi näyttää samalta Sisilian kuumassa kylässä, Lontoossa ruuhka-aikana ja Suomen laajoilla aukeilla. Uskomme, että lainsäätäjän pitää todella rajoittua konkreettisiin asioihin, joihinkin tärkeisiin määräyksiin, joita pitää sitten noudattaa Euroopan laajuisesti, ja loppu pitäisi määrittää vapaaehtoisesti standardointijärjestöissä, niin että tälläkin alalla syntyy kilpailua, joka ei estä innovaatioita vaan takaa, että hyvät tuotteet tulevat nopeasti ja varmasti markkinoille.
+<P>
+Järjestelmää täydentää CE-merkintä. Uskon, että CE-merkintä takaa, että käytössä olevia säännöksiä ei rikota. Tarvitsemme kuitenkin sen lisäksi vapaaehtoisia tyyppimerkintöjä, jotka takaavat sen, että riippumattomat elimet voivat valvoa tuotantoa.
+
+<SPEAKER ID=62 LANGUAGE="EN" NAME="Kerr">
+Arvoisa puhemies, kun ryhmäni sanoi minulle, että minulla on puolitoista minuuttia aikaa puhua normalisoinnista ja standardoinnista tänä aamuna, pelkäsin, että se oli osa New Labourin aikomusta soveltaa standardointia eri puolilta Eurooppaa tuleviin edustajiin. Havaitsin kuitenkin helpotuksekseni, että tämä on itse asiassa erittäin hyvä mietintö, jonka on laatinut hyvä ystäväni, rouva Kestelijn-Sierens ja jota suosittelen parlamentille.
+<P>
+Haluan ottaa tämän mietinnön yhteydessä esille erään vakavan kysymyksen, ja toivon, että komission jäsen Bangemann voisi vastata siihen. Hän kenties muistaa erään äänestäjän vaalipiirissäni, Simon Hossackin, joka lähetti komissiolle useita kirjeitä ja jonka puolesta esitin monta kysymystä. Hän oli keksinyt erään hyvin nerokkaan kojeen, joka teki sähkölaitteesta standardien mukaisen kaikkialla Euroopassa. Hän huomasi, että tämän kojeen markkinoiminen oli mahdotonta, koska standardikomiteoita hallitsivat eurooppalaiset pistokkeita valmistavat suuryritykset. Ne olivat täysin tyytyväisiä siihen tilanteeseen, että Euroopassa sallitaan useita erilaisia pistoketyyppejä, koska ne pystyivät säilyttämään näin markkinaosuutensa. Kieltämällä kyseisen kojeen standardikomiteat estivät häntä pääsemästä markkinoille.
+<P>
+Tiedän, ettei komission jäsen Bangemann hyvänä vapaiden markkinoiden sääntelyn purkajana hyväksyisi tätä, ja toivon, että hän ottaa tämän huomioon varmistaessaan sen, että standardikomiteoissa ovat edustettuina kaikki yhteisön ihmiset, myös markkinoille haluavat uudet ihmiset samoin kuin nykyiset suuret monopolit.
+<P>
+Lopuksi sanoisin, komission jäsen Bangemann, että äänestin viime kuussa sen puolesta, että saisitte potkut, ja äänestän sen puolesta taas ensi kuussa, joten voitte vastata minulle hyvin lyhyesti.
+
+<SPEAKER ID=63 LANGUAGE="FR" NAME="Blot">
+Arvoisa puhemies, ajattelen esittelijän tavoin, että komission kertomus uuden lähestymistavan mukaisesta eurooppalaisesta standardoinnista on täysin tyydyttävä. Siinä määrätään, että lainsäädännön yhdenmukaistamisen on rajoituttava vain tärkeimpiin turvallisuus- ja terveysmääräyksiin. Standardijärjestelmät perustuvat pääasiassa asiantuntijoiden ja standardointielinten väliseen sovintoratkaisuun. Kertomuksessa mainitaan, että valmistajalla on vapaus valmistaa tuotteita, jotka eivät ole standardien mukaisia ja vastuu tuotteista siirtyy siten markkinoille. Vaikeuksia esiintyy kuitenkin vielä yhdellä alalla eli rakennusalalla, mutta hyväksytty yleinen linja tuntuu tyydyttävältä.
+<P>
+Tässä voi kuitenkin olla tilaisuus ottaa täällä esille ongelma, joka koskee standardien käyttämistä omien markkinoiden suojaamistoimiin Euroopan ulkopuolisilla markkinoilla. Viitaan tässä erityisesti Yhdysvaltoihin ja Japaniin. On totta, ettei tätä aihetta ollut tarkassa mielessä tarkoitus käsitellä tämän mietinnön yhteydessä, koska siinä rajoitutaan käsittelemään vain sisämarkkinoiden toimintaa, mutta mielestäni eurooppalaisten tahojen on otettava asia esille. Itse asiassa tämä aihe liittyy Euroopan sisäisten standardien asettamiseen: ulkoisia ja sisäisiä näkökohtia ei voi erottaa toisistaan. Ei ole esimerkiksi syytä siihen, että näiden Euroopan sisäisten standardien ansiosta voitaisiin helpottaa amerikkalaista tuontia, jos Yhdysvaltojen määräämien standardien kanssa ei ole olemassa tuotekohtaista vastavuoroisuutta. Eurooppalaiset standardointielimet eivät siten saa suhtautua välinpitämättömästi Atlantin toisella puolella harjoitettavaan alaa koskevaan politiikkaan. Toivon siis, että tämä huolenaihe otetaan huomioon myös tulevaisuudessa.
+
+<SPEAKER ID=64 NAME="Bangemann">
+Arvoisa puhemies, kiitän esittelijää ja kollegoja, jotka ovat esittäneet kantansa tästä mietinnöstä ja yritän käsitellä lyhyesti joitakin niistä kysymyksistä, joita on esitetty.
+<P>
+Seuraamme erittäin tarkasti kolmen eurooppalaisen standardointijärjestön toimintaa. Tapaamme säännöllisesti niiden edustajia. Tapasimme heitä juuri kaksi viikkoa sitten. Keskustelemme ongelmista, esimerkiksi myös avoimuudesta ja tehokkuudesta, ja pyrimme tekemään menettelystä kokonaisuudessaan niin tehokkaan ja kuluttajille ja teollisuudelle niin hyödyllisen kuin vain mahdollista. Väärinkäsityksiä on aina. Esimerkkinä se väärinkäsitys, jonka mukaan standardimme voisivat aiheuttaa teknisiä esteitä, tai päinvastoin, kun sallimme standardiemme noudattamisen muille maille, kuten USA: lle ja Japanille, että amerikkalaiset ja japanilaiset eivät tee samoin. Nämä kaikki ovat standardointimme - sekä USA: n ja periaatteessa myös Japanin standardoinnin periaatteisiin kohdistuvia väärinkäsityksiä.
+<P>
+Saanen sanoa tämän vielä kerran viittaamalla protektionistisiin väitteisiin, joita pääasiassa amerikkalaiset kohdistavat meihin. Meidän ei tarvitse moittia amerikkalaisia jatkuvasti jonkinlaisesta protektionismista, vaan amerikkalaiset yrittävät jatkuvasti - tuorein esimerkki on yleinen matkaviestinjärjestelmä UMTS - moittia meitä protektionismista. Se on aivan väärin sen vuoksi, että - sanon tämän nyt vielä kerran oikein painokkaasti, sillä se on tämän politiikan ydin - lukuun ottamatta poikkeuksia, joita tarvitaan turvallisuusriskien tai -pohdintojen vuoksi - ei ole olemassa sitovia standardeja. Ei ole olemassa sitovia standardeja! Toisin sanoen: kaikki - myös nämä kekseliäät valmistajat erilaisine pistokkeineen - voivat tuoda tuotteensa markkinoille. Niiden ei ole pakko vastata standardia. Ne voivat tuoda markkinoille tuotteen, jonka rakenne on aivan toisenlainen.
+<P>
+Se, mitä haluamme saavuttaa, erityisesti keskinäisissä järjestelmissä, on se, että standardi, josta osalliset, kuluttajat, ammattiyhdistys jne. mukaan lukien sopivat, tarjoaa myös jonkinlaisen kiihokkeen, jotta se myös hyväksytään. Kiihokkeen tarjoaa pääasiassa se, että sellaisen tuotteen valmistaja voi sanoa itse - sen vuoksi jäsenvaltioiden ei tarvitse ollenkaan tunnustaa standardia - tuotteen vastaavan Euroopan unionin määräyksiä. Siinä on sitten CE-merkki ja valmistajalle on siitä etua, jos näin halutaan. Järjestelmä on sellainen.
+<P>
+Nyt yksittäisiin aloitteisiin. Ensinnäkin: me rahoitamme jo pieniä ja keskisuuria yrityksiä ja niiden osallistumista. Olemme ehdottomasti avoimuuden kannalla. Aivan jokainen, jolla on laillista mielenkiintoa siihen, voi osallistua tähän hankkeeseen. Se kestää sen vuoksi hieman kauemmin, mutta niin voi aivan hyvin tapahtua.
+<P>
+Kolmanneksi, rouva esittelijä: teimme paljon aloitteita mahdollisten uusien jäsenvaltioiden varalta - menestyksellisesti muuten. CEN, CENELEC ja ETSI työskentelevät läheisessä yhteistyössä näiden maiden standardointijärjestöjen kanssa. Me myös rahoitamme näitä töitä Phare-ohjelmasta ja muista laajentumiseen liittyvistä rahoitusohjelmista. Periaatteessa tehdään siis tämä kaikki.
+<P>
+Viimeinen huomautus pistokkeista: koska talous tukee standardointijärjestöjä ja myös rahoittaa standardointityötä, on ymmärrettävää ja selvää, että nykyisessä tilanteessa - joka ei ole kyllä kaiken kaikkiaan mikään ongelma valmistajille vaan ainoastaan kuluttajille - talouselämä ei ole erityisen innostunut, jos sanotaan, että meillä pitäisi kyllä olla unionissa yhdenmukaiset pistokkeet. Talouselämä ei siis millään lailla pyri siihen. Jäsenvaltioillakaan ei ole minkäänlaista kiinnostusta sellaisen standardoinnin toteuttamiseen - mehän voisimme tehdä siitä poliittisen aloitteen, emme tosin turvallisuussyistä, mutta kuluttajat olisivat varmasti kovasti kiinnostuneita siitä - ellei sitten oteta käyttöön standardia, joka on voimassa kyseisessä jäsenvaltiossa. Tarkoitan sitä, että Tanska on erittäin kiinnostunut siitä, että tanskalaisista standardeista tulee eurooppalaisia standardeja jne. Se ei kyllä voi tietenkään olla oikea ratkaisu.
+<P>
+Oikea ratkaisu voisi olla vain sellainen, että laadimme eurooppalaisen standardin, joka vastaa täysin myös nykyaikaisia teknisiä vaatimuksia. Me käsittelemme sitten tätä standardia kuten muitakin, emme tee siitä sitovaa, mutta sillä on tiettyjä etuja valmistajan kannalta. Jos kaikki valmistavat sitten tulevaisuudessa pistokkeensa tämän standardin mukaisesti, se merkitsisi sitä, että eivät pelkästään tulevat pistokkeet ja pistorasiat näyttäisi siltä, vaan että käytössä olevat pistokkeet ja pistorasiatkin pitäisi muuttaa, ja sen aiheuttamat rahoituskulut voitte kuvitella. Tämä on syy siihen, miksei talouselämä eivätkä kuluttajat ole kovin innostuneita muuttamaan järjestelmää. Tämä mietintö toimitetaan kuitenkin niin neuvostolle kuin parlamentillekin, ja me puhumme tästä vielä neuvoston kanssa. Tämä on nimittäin todellakin selvä esimerkki eurooppalaista standardointia vastaan, vaikka sillä ei ole mitään tekemistä sen työn kanssa, jota me teemme, vieläpä menestyksellisesti. Kansainvälisesti katsoen meidän tapamme harjoittaa standardointia on selvästi paras. Mainitsen vain yhden esimerkin: GSM, matkapuhelinten toinen sukupolvi. Sen standardin avulla eurooppalaiset valmistajat ovat valloittaneet kaksi kolmasosaa maailmanmarkkinoista. Jos onnistumme sopimaan järkevästi UMTS: stä, kolmannesta sukupolvesta - työskentelemme vielä sen parissa, koska meillä on joitakin ongelmia henkisen pääoman oikeuksien osalta - jos se onnistuu, ja tähän työhön ovat osallistuneet alusta alkaen myös amerikkalaiset ja japanilaiset yritykset, voimme luultavasti saavuttaa suuremman osuuden maailmanmarkkinoista kuin saavutimme GSM: n avulla. Meidän ei siis tarvitse missään tapauksessa kyyristellä standardoinnin alalla. Johdamme tätä työtä maailmassa!
+
+<SPEAKER ID=65 NAME="Puhemies">
+Paljon kiitoksia, herra Bangemann.
+<P>
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen.
+<P>
+Ennen 5 kohtaa koskevaa äänestystä
+
+<SPEAKER ID=66 LANGUAGE="EN" NAME="Kerr">
+Arvoisa puhemies, halusin vain huomauttaa, että englanninkielisen version sivulla 9 lukee " bingeing" eikä " binding" , ja tiedän, ettei komission jäsen Bangemann haluaisi allekirjoittaa sellaista versiota.
+
+<SPEAKER ID=67 NAME="Puhemies">
+Paljon kiitoksia herra Bangemannille ja koko parlamentille osoittamastanne huomiosta. Tämä ilmoitus otetaan huomioon.
+<P>
+Parlamentti hyväksyi päätöslauselman.
+
+<CHAPTER ID=5>
+
+Liikenteen Euro-Välimeri-yhteistyö
+<SPEAKER ID=68 NAME="Puhemies">
+Esityslistalla on seuraavana Kaklamanisin liikenne- ja matkailuvaliokunnan puolesta laatima mietintö komission tiedonannosta neuvostolle ja Euroopan parlamentille liikenteen Euro-Välimeri-yhteistyöstä (KOM(98)0007 - C4-0102/98).
+
+<SPEAKER ID=69 LANGUAGE="EL" NAME="Kaklamanis">
+ Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, tämä mietintö on jatkoa Barcelonan konferenssille Euro-Välimeri-yhteistyöstä.
+<P>
+Mietinnössä pyritään lisäksi pikku hiljaa aloittamaan Cardiffissa samasta asiasta tehtyjen päätösten toteuttaminen. Tavoitteena on tehdä Välimerestä silta poliittiselle, taloudelliselle ja kulttuuriselle kanssakäynnille kaikkien Euroopan unionin maiden ja Välimeren kolmansien maiden välillä. Siinä puhutaan kaikenlaisesta liikenteestä Euroopan unionista kolmansiin maihin ja toisin päin, ja siinä yritetään määritellä sääntöjä, joilla liikennettä kehitetään Välimeren kolmansien maiden sisällä sekä myös niiden välillä.
+<P>
+Toivon, että Välimeren foorumi, joka kokoontuu 24. 25. maaliskuuta Maltassa, hyödyntää oikealla tavalla parlamentin tänään näyttämää vihreää valoa ja että komissio pitää meidät ajan tasalla valitsemansa ensisijaisuusjärjestyksen osalta toteuttaessaan tätä Välimeren liikenteen kehittämissuunnitelmaa.
+<P>
+Harras toiveeni on, että Euroopan unionin talousarvio tukee tätä pyrkimystä, mutta kun silmäillään unionin talousarviota vuodeksi 1999 tai vuoden 2000 talousarviosta alkanutta keskustelua, minun on tunnustettava, etten juurikaan usko näin käyvän.
+<P>
+Haluan kiinnittää komission huomion Välimeren kolmansille maille osoitettujen rahojen oikean hyödyntämisen jatkuvaan valvontaan, koska useissa näistä maista esiintyy tunnetusti ongelmia demokratian ja avoimuuden kannalta, ja jotkin näistä maista ovat poliittisesti epävakaita.
+<P>
+Ohjelmaa toteutettaessa parlamentti pitää erityisen tärkeänä ympäristön ja erityisesti merellisen ympäristön suojelua kaikilta saasteilta ja varsinkin myrkyiltä ja ydinjätteiltä. Haluaisin kiinnittää herra komission jäsenen huomion erityisesti jälkimmäiseen kohtaan, koska Turkin hallitus on päättänyt sijoittaa Välimeren rannalle Akujun alueelle ydinvoimalan, vaikka tiedetään, että Adanassa muutama kuukausi sitten sattuneen tuhoisan maanjäristyksen keskus oli vain 50 kilometrin päässä paikasta, johon Turkki haluaa sijoittaa uuden ydinvoimalansa.
+<P>
+Samalla, arvoisa komission jäsen, koska Maltan foorumi on maaliskuussa - parlamentin näkemys oli, että sen olisi pitänyt olla ensin, jotta mekin olisimme voineet tehdä konkreettisempia ehdotuksia - haluaisimme, että te pitäisitte meidät ajan tasalla siellä tehtävistä päätöksistä ja varsinkin ensisijaisuusjärjestyksestä, koska, hyvät kollegat, Euroopan parlamentti ei tunnetusti ota osaa tähän foorumiin.
+<P>
+Lopuksi haluaisin tehdä korjauksen 3 kohtaan, joka on sivulla kuusi ja jossa puhutaan Maltan konferenssista, jonka olisi pitänyt olla helmikuussa mutta joka onkin maaliskuussa, joten kohdassa pitäisi lukea " konferenssi, joka pidetään" , eikä " pidettiin 24. 25. maaliskuuta Maltassa" .
+<P>
+Olen hyvin kiitollinen kollegoille liikennevaliokunnassa, koska heidän esittämänsä tarkistukset paransivat suuresti mietintöä, liikennevaliokunnan sihteeristölle sekä komissiolle, jonka kanssa teimme hyvää yhteistyötä, vaikka näkemyksemme erosivatkin jossain määrin.
+
+<SPEAKER ID=70 LANGUAGE="DE" NAME="Habsburg-Lothringen">
+Arvoisa puhemies, haluaisin ensiksi kiittää esittelijää hänen mietinnöstään ja ennen kaikkea siitä kriittisestä tarkastelutavasta, jolla hän tarkastelee komission tiedonantoa. Me puhumme parlamentissa - eikä pelkästään tässä parlamentissa vaan ylipäänsä kansainvälisissä järjestöissä - jatkuvasti globalisaatiosta sinänsä. Tämä mietintö tekee selväksi, että tämä globalisaation käsite ei sovellu kaikkialle. Emmehän me onnistu luomaan edes lähinaapuristoomme järjestystä ja rakennetta, jotka hyödyttävät Euroopan unionin kaltaista yksikköä, kun on kyse sen suoranaisista kiinnostuksen kohteista.
+<P>
+Uskon, että kun puhutaan Välimeren alueesta, on tarkasteltava tietysti myös sen yhteistä historiaa. Emme saa unohtaa, että Välimeri oli aiemmin oikeastaan Euroopan sisämeri ja siitä tuli vasta myöhemmin Euroopan eteläraja. Tämän yhteisen historian vuoksi pitää oikeastaan olla mahdollista, että tavoitteet, joita olemme itsellemme asettaneet, kuten esimerkiksi vapaakauppa-alueen perustaminen vuoteen 2010 mennessä, ovat täysin mahdollisia, jos tälle alueelle voidaan luoda vastaava infrastruktuuri, jos on mahdollista luoda tämä rakenne.
+<P>
+Puuttuva infrastruktuuri, ennen kaikkea liikenteen ja televiestinnän alalla, on pääasiallinen este tämän alueen ulkomaankaupan ja alueiden välisen kaupan kehitykselle. Uskon, että on erittäin tärkeää, että liikenteen alalla ei tarkastella pelkästään Välimeren kolmansia valtioita, vaan että aluetta tarkastellaan myös kokonaisuutena, mukaan lukien erilaiset Balkanin maat. Nämä maat on otettava mukaan, ne on otettava mukaan myös tällaiseen mietintöön.
+<P>
+Uskon, että kriittinen tarkastelu on tärkeää ja välttämätöntä, jotta tämä kiistely, tämä keskustelu ja samalla myös parlamentin osallistuminen jatkuvat ja jotta myös komission ja parlamentin välinen viestintä pitää kriittisellä tavalla huolen siitä, että tällä alueella edistytään tässä asiassa.
+
+<SPEAKER ID=71 LANGUAGE="ES" NAME="Vallvé">
+Arvoisa puhemies, arvoisa komission jäsen, mielestäni on erittäin myönteistä, että voimme tänään käydä tämän keskustelun, joka koskee tarkalleen ottaen Välimereen alueen liikennettä, ja että puhumme Välimerestä, johon Euroopan unioni rajoittuu etelässä.
+<P>
+Lähes neljä vuotta on jo kulunut Barcelonan Euro-Välimeri-konferenssista, joka pidettiin vuonna 1995, ja minusta on myönteistä, että komissio on esittänyt tämän Välimeren liikennettä käsittelevän asiakirjan.
+<P>
+Liikenne on se yhteyksien välikappale, joka mahdollistaa kauppavaihdon. Minua edeltänyt puhuja sanoi, että Välimeri on ollut sisämeri, mutta että useiden vuosien ajan se on erottanut toisistaan pohjoisen ja etelän. Se on erottanut toisistaan kehittyneen pohjoisen ja köyhän etelän; väestönkasvun pysähtyneisyyden leimaaman pohjoisen ja väestönkasvun kiihtymisen leimaaman etelän; tavallisesti kristittyjen pohjoisen ja muslimien etelän. Tämä ero on vaikeuttanut vuoropuhelua ja toinen toistensa tuntemista.
+<P>
+Barcelonan suuri tavoite oli kasvattaa tätä keskinäistä tuntemusta, tätä pohjoisen ja etelän keskinäistä suhdetta. Siellä puhuttiin tästä yhteisestä vuoteen 2010 mennessä luotavasta kauppa-alueesta, mutta sitä on valmisteltava. Tätä yhteydenpitoa, tätä pohjoisen ja etelän välistä kanssakäymistä on lisättävä. Ellei tätä kanssakäymistä lisätä, ainoa Välimerellä tapahtuva liikenne tulee valitettavasti olemaan veneliikenne niiden siirtolaisten taholta, jotka joutuvat kokemaan kovia ylittäessään Gibraltarin salmen ja etsiessään Euroopan unionissa ratkaisua elämänsä ongelmiin.
+<P>
+Liikenteen kasvu ja keskinäinen tuntemus voivat johtaa tämän alueen kehittymiseen, jonka täytyy olla keskinäisen kanssakäymisen, keskinäisen ymmärryksen alue, joka on myönteistä kaikkien kannalta. Kuten runoilijamme sanoo, sen on oltava un pont en la mar blava : silta sinisellä merellä.
+
+<SPEAKER ID=72 LANGUAGE="NL" NAME="Van Dam">
+Arvoisa puhemies, komissiolla on hyvin kiire. Se on yleisesti tiedossa oleva tosiasia, eikä sille voi lyhyellä aikavälillä tehdä juuri mitään. Kaikkien suunniteltujen toimien yhteyteen on tietenkin asetettava prioriteetteja. Siinä mielessä tästä aloitteesta voidaan esittää joitakin huomautuksia.
+<P>
+En ole täysin samaa mieltä sopimusten tavoitteista. Minusta ponnistukset, joita tehdään Välimeren maiden yhteyksien eteen ovat tietenkin oikeutettuja. Tämä johtuu niistä sopimuksista, joita on solmittu eri osapuolten välillä.
+<P>
+Ensiksikin unionin tehtävänä on mielestäni parantaa unionin ja Välimeren maiden välistä suhdetta. Kun tämä tavoite on saavutettu, unioni voi puuttua Välimeren maiden keskinäisiin suhteisiin. Näiden maiden on myös itse tehtävä aloitteita asemansa parantamiseksi.
+<P>
+Barcelonan julistuksessa, jossa käsitellään Euro-Välimeri-yhteistyötä, liikennekysymystä käsitellään nimenomaan infrastruktuurin kannalta. Se merkitsee sitä, että Euroopan unionin ei pidä puuttua tiettyjen liikennepalvelujen edistämiseen Välimeren maissa. Sen on kuitenkin huolehdittava siitä, että sijoitukset tehdään Euroopan parlamentin hyväksymän kestävän liikennepolitiikan mukaisesti. Tämän seurauksena pitäisi kiinnittää huomiota ensisijaisesti kestäviin yhteyksiin jäsenvaltioiden ja Välimeren valtioiden merisatamien välillä. Vasta myöhemmässä vaiheessa tulee kiinnittää huomio Välimeren maiden keskinäisiin yhteyksiin. Näissäkin yhteyksissä pitää ottaa huomioon pyrkimys kestävään liikenteeseen.
+<P>
+Saan tukea tälle mielipiteelle, kun totean, että Euroopan unionin ja Välimeren maiden väliset kauppasuhteet, jotka eivät ole edes kovin merkittävät, ovat paljon merkittävämmät kuin Välimeren maiden keskinäiset kauppasuhteet. Minusta tämä antaa syyn suhteuttaa esittelijän mietinnössä esittämiä ongelmia.
+<P>
+Lyhyesti, meidän on kunnioitettava ja noudatettava sopimuksia. Siksi vaadin Välimeren maiden kanssa solmittujen sopimusten noudattamista. Se ei saa kuitenkaan tapahtua muiden yhtä tärkeiden tehtävien kustannuksella. Siksi olen esittänyt tarkistuksen keventääkseni sitä painetta, jonka esittelijä kohdistaa komissioon.
+
+<SPEAKER ID=73 LANGUAGE="DE" NAME="Bangemann">
+Arvoisa puhemies, tänään keskustelun aiheena olevan tiedonannon hyväksymisen jälkeen on jo perustettu työryhmä, jonka perustamista suositeltiin. Työohjelma on laadittu, niin että olemme edistyneet huomattavasti. Seuraamme tietysti myös tämän foorumin työtä ja teemme aloitteita Barcelonan konferenssissa ensisijaiseksi asetettujen tavoitteiden mukaisesti. Sitä meidän ei tarvitse muuttaa. Esimerkiksi ympäristöpoliittisia toimia pidettiin siellä jo ensisijaisina toimina.
+<P>
+Seuraamme ja valmistelemme myös - tämä on toinen asia, joka putkahti esiin keskustelussa - foorumin ensimmäistä tapaamista Maltassa 23. ja 24. maaliskuuta. Euroopan parlamentti saa siitä tietoa koko ajan. Kaikki paperit, joita siellä käsitellään ja joista päätetään, julkaistaan. Ympäristötoimien painokkuus on esillä selvästi jo sielläkin.
+<P>
+Uskon siis, että ponnistelumme ovat nyt hyvässä vaiheessa ja että meidän ei tarvitse pelätä, että työmme ei tuottaisi vastaavaa tulosta.
+<P>
+Tulos ei tietenkään riipu pelkästään meidän hyvästä tahdostamme - ja se on oikeastaan kaikkien näiden töiden varsinainen este, teollisen yhteistyön alallakin - vaan se riippuu myös kumppanivaltioiden hyvästä tahdosta. Kumppanivaltioilla on varmasti tätä hyvää tahtoa, mutta sen määrä vaihtelee. Jotkin Välimeren alueen kumppaneista suhtautuvat varmasti erittäin myönteisesti kaikkiin näihin toimiin. Toiset haluaisivat kovasti, mutta eivät mitä erilaisimmista syistä voi, ja meidän on todennäköisesti hyväksyttävä monenlaisia tuloksia. Sehän ei riipu sitten kuitenkaan meistä, vaan se riippuu itse kumppanivaltioista. Me teemme joka tapauksessa kaiken, mikä on tarpeen hyvään lopputulokseen pääsemiseksi.
+
+<SPEAKER ID=74 NAME="Puhemies">
+Paljon kiitoksia, herra Bangemann.
+<P>
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen.
+<P>
+Parlamentti hyväksyi päätöslauselman.
+
+<SPEAKER ID=75 LANGUAGE="FR" NAME="Bernardini">
+ Euroopan ja sen eteläisten naapureiden välisillä suhteilla on epäilemättä tulevina vuosina kaikkein tärkein merkitys. Alueen taloudellisen vaurauden, sosiaalisen tasapainon ja toivottavan turvallisuuden vähimmäistaso riippuu siitä, saadaanko vielä alkutekijöissään oleva vuoropuhelu uudelleen käynnistettyä, minkä ansiosta Välimeren kummallakin puolella sijaitsevien maiden edut otettaisiin paremmin huomioon.
+<P>
+Vuonna 1995 järjestetty Barcelonan konferenssi antoi erään vastauksen käynnistämällä MEDA-ohjelman, jossa luotiin kolmelle (poliittiselle, taloudelliselle ja inhimilliselle) pilarille perustuva uusi kumppanuus.
+<P>
+Parlamentillemme osoitetussa tiedonannossa esitetään liikennealaa koskeva yleinen strategia. Tämän tekstin ansiona on, että siinä muistutetaan eteläisten maiden kanssa ylläpidettävien suhteiden merkityksestä liikennealalla, joita on tasapainotettava Euroopan laajuisten liikenneverkkojen (TEN) laajentuessa itään.
+<P>
+Pohdin kuitenkin esittelijän tavoin TENien uutta tasapainottamista koskevaa todellista tahtoa, koska niiden konkreettista rahoittamista ei ole otettu millään tavalla huomioon. Tarkoittaako tämä sitä, että tyydymme esittämään vain hartaita toivomuksia?
+<P>
+On käynnistettävä Välimerta koskeva todellinen hanke, tuettava sitä ja toteutettava se. Siihen ei ole ilmeistä tahtoa ja se on meistä valitettavaa. Meidän on lopultakin päästävä irti kaikista toistuvista epäröinneistä ja vailla tulevaisuutta olevista tunteisiin vetoavista puheista. Jos otamme huomioon sen, että MEDA-ohjelmasta on seurannut vain joitakin assosiointisopimuksia, meidän on todettava, että kaikki tämä on kaukana niistä pyrkimyksistä ja keinoista, joista ilmoitettiin Barcelonan huippukokousta edeltävien ja sitä seuraavien eri huippukokousten aikana.
+
+<CHAPTER ID=6>
+
+Lohi
+<SPEAKER ID=76 NAME="Puhemies">
+Esityslistalla on seuraavana komission julkilausuma toimista lohen tarttuvan anemian leviämisen ehkäisemiseksi.
+<P>
+Herra Bangemannilla on puheenvuoro komission puolesta.
+
+<SPEAKER ID=77 NAME="Bangemann">
+Arvoisa puhemies, komissio pahoittelee syvästi Skotlannin lohenviljelyteollisuuden lohen tarttuvan anemian (ISA) takia kärsimiä raskaita tappioita. Tämä on vakava isku alalle, joka on lujilla jo lohen epävarman markkinatilanteen takia.
+<P>
+Komission yksiköt seuraavat hyvin tiiviisti taudin kehittymistä ja Yhdistyneen kuningaskunnan viranomaisten toimia taudin torjumiseksi. Uskomme, että toteutettavat toimet ovat EU: n lainsäädännön mukaisia. Näihin toimiin kuuluu pakkoteurastus tartunta-alueilla ja liikkuvuusrajoitukset niillä tiloilla, joiden epäillään saaneen tartunnan. Olemme huolissamme sekä taudin että sen hävittämisohjelman seurauksista alalle.
+<P>
+Kiinnitän näin ollen huomionne siihen, että yhteisön lainsäädännön nojalla jäsenvaltioilla on mahdollisuus myöntää kansallista rahoitustukea taudin puhjetessa vesiviljelyn alalla. Kaikki Yhdistyneen kuningaskunnan toimivaltaisten viranomaisten komissiolle esittämät pyynnöt korvausjärjestelmän käyttöönotosta tutkitaan pikaisesti. Mikäli pyyntö täyttää nykyisten sääntöjen nojalla komission hyväksyntää varten tarvittavat edellytykset, emme epäröi toimia sen vaatimalla tavalla. Olemme lisäksi sitä mieltä, että tauti on niin vakava ja se rasittaa niin voimakkaasti yhteisön lohenviljelyn tulevaisuutta, että taudin hävittäminen on perusteltua. Jos tämä menettelytapa ei osoittaudu toimivaksi, voisimme ilman muuta harkita ehdotusten antamista tämän menettelytavan muuttamiseksi.
+
+<SPEAKER ID=78 LANGUAGE="EN" NAME="McMahon">
+Arvoisa puhemies, on erittäin osuvaa, että komission jäsen Bangemann piti tämän puheenvuoron viikon lopulla. Hän saattaa muistaa aiemman kerran, kun vaihdoin hänen kanssaan näkemyksiä komission kannasta puhuttuani asiasta Skotlannin viljelijöiden kanssa.
+<P>
+Suhtaudun varauksettoman myönteisesti komission näkemyksiin. Tämä on erittäin vakava asia Skotlannin viljelyteollisuudelle. Tämä Norjasta alkanut tauti on levinnyt Skotlannissa useille tiloille. Se alkoi Glen Nevisistä Skotlannin ylämailla sijaitsevalta pieneltä tilalta. Tämä on todellakin erittäin vakavaa, ja lisäksi Norjan hallitus myy Euroopan unionissa lohta polkuhintaan, mikä uhkaa monien lohitilojen toimeentuloa. Skotlannissa ja Irlannissa noin 6 000 ihmistä työskentelee vesiviljelyn alalla. On tärkeää, että varmistamme, etteivät lohenviljelyssä käytetyt kemikaalit ole haitallisia meriympäristölle. Kuten koko kalastuspolitiikassa, meidän on paitsi hyödynnettävä kalavaroja huolehdittava myös asianmukaisesti ympäristöstä ja kalavarojen säilymisestä, vaikka lohenviljelijät eivät tietenkään haluaisi säilyttää kalavaroja.
+<P>
+Suhtaudun myönteisesti komission jäsenen julkilausumaan. Tällä viikolla maani hallitus on hyvin auliisti lupautunut antamaan 9 miljoonaa puntaa - 3 miljoonaa puntaa vuodessa kolmen vuoden ajan - lohenviljelijöiden auttamiseksi. He pyytävät matching-rahoitusta, ja sitä tulevat jakamaan Highlands and Islands Enterprise ja itse teollisuus. Tämä on seurausta Skotlannista vastaavan ministeriön teollisuuden kanssa käymistä keskusteluista. Suhtaudun myönteisesti siihen, ettei komissio aio olla jäsenvaltioiden tiellä, koska toinen keskeinen edellytys on se, että EU: n kilpailupolitiikassa lohenviljelijöiden annetaan hyötyä tästä tuesta. Tämä on erityisen tärkeää, koska norjalaisyritykset omistavat monia Skotlannin lohitiloja. Itse asiassa Norja omistaa 50 % Shetlandinsaarten lohiteollisuudesta, joten on erittäin tärkeää, ettei komissio ole tiellä ja että se reagoi, kuten komission jäsen hyvin auliisti lupasi, erittäin nopeasti Skotlannista vastaavan ministeriön toimiin ja lähestymistapoihin. Otan yhteyttä Callum McDonaldiin ja John Sewelliin välittömästi tämän kokouksen jälkeen ja kehotan heitä esittämään komissiolle pikaisen pyynnön.
+
+<SPEAKER ID=79 NAME="Virrankoski">
+Arvoisa puhemies, haluan kiittää komissiota siitä pontevuudesta, jolla se on tarttunut tähän lohikysymykseen Skotlannissa. Samalla toteaisin, että Skotlanti ei ole ainoa alue, joka on joutunut kärsimään lohien sairauksista, jotka osittain johtuvat siitä, että Norjassa harjoitetaan erittäin tehokasta lohien verkkoallaskasvatusta. Myös Suomen lohikannat ovat vaarassa tämän tehoviljelyn vuoksi, nimittäin Etelä- ja Keski-Norjan vesiin on levinnyt pelätty lohiloinen. Se on levinnyt pohjoiseen aina Skibotn-jokeen saakka, siis Suomen käsivarren korkeudelle, ja lähestyy uhkaavasti Tenojokea. Tenojoki on Euroopan suurin lohijoki. Suomen viranomaiset ovat aktiivisesti neuvotelleet Norjan viranomaisten kanssa, mutta ratkaisua Tenojoen luonnonlohikannan suojeluun ei ole löytynyt. Sen vaarana on norjalaisten harjoittama verkkoallaskasvatus Tenovuonossa. Se toisaalta uhkaa Tenojoen lohien geeniperintöä ja sitä, että lohi voi jatkossakin tulla toimeen tässä Euroopan pohjoisimmassa lohijoessa; toisaalta lohiloisen leviäminen uhkaa koko Tenojoen lohikantaa. Toivoisin, että Euroopan unionin komissio ryhtyisi ponteviin toimiin tämän Euroopan unionin suurimman lohijoen lohikannan pelastamiseksi myös tuleville sukupolville, niin ettei sitä uhrattaisi tehokalankasvatuksen alttarille.
+
+<SPEAKER ID=80 LANGUAGE="SV" NAME="Schörling">
+Arvoisa puhemies, tämä tauti, tulehdusta aiheuttava anemia on puhjennut jo kolmannen kerran Pohjois-Atlantin alueella. Aikaisemmin sitä on esiintynyt Norjassa ja Kanadassa, ja nyt sitä esiintyy myös Skotlannissa. Tämä johtuu siitä, että on tavallista, että suuri määrä lohia karkaa lohiviljelmiltä. Näin kävi muun muassa viime vuoden marraskuussa, jolloin peräti 70 tonnia lohta katosi Obanin lähellä sijaitsevalta lohiviljelmältä. Pahinta asiassa on, että juuri tämän lohiviljelmän epäiltiin olevan tuon anemiaa aiheuttavan taudin saastuttama. Luulen, että on vain ajan kysymys, ennen kuin tauti leviää myös luonnonloheen. Silloin olemme todella suuren ongelman edessä, sillä luonnonlohikanta on melko pieni.
+<P>
+Tätä asiaa on tarkasteltava useiden ongelmien pohjalta, jotka liittyvät veden käyttöön ja lohien viljelyyn. Nämä eri näkökohdat on yhdistettävä ja on ymmärrettävä, että veden käyttöä on ehkä tutkittava laajemmalti. Voisikohan komissio tukea sellaista aloitetta.
+<P>
+Skandinavian vesistöissä esiintyy toinen lohikalan loinen, jonka nimi on grupcodactus. Norja on äskettäin tiedottanut suunnitelmastaan käsitellä 20 jokea rotenonilla. 20 joen käsitteleminen rotenon-myrkyllä, mikä luonnollisesti tappaa kaiken muunkin elollisen elämän joissa, on suuri päätös. Tämä on epätoivoinen yritys saada loinen hallintaan.
+<P>
+Haluaisin kysyä komission jäsen Bangemannilta, tietääkö komissio, esiintyykö tätäkin loista Skotlannin, Irlannin tai jonkin muun valtion edustalla elävissä kaloissa.
+
+<SPEAKER ID=81 LANGUAGE="EN" NAME="Hudghton">
+Arvoisa puhemies, haluaisin kiittää arvoisaa komission jäsentä hänen tärkeästä julkilausumastaan ja siitä, että hän myönsi lohimarkkinoilla vallitsevan epävarmuuden ja ilmaisi huolestumisensa tämän taudin seurauksista ahtaalla olevalle kalanviljelyteollisuudelle erityisesti Skotlannissa, missä se on taloudellisesti elintärkeä sellaisille alueille kuin Skotlannin ylämaat ja saaret, missä on hyvin vähän vaihtoehtoisia työpaikkoja.
+<P>
+Rannikolla noin 340 lohitilalla on noin 6 000 työpaikkaa tällä Euroopan maaseutuvaltaisimpiin kuuluvalla alueella. Tämä teollisuus on hyvin organisoitua ja hyvin hoidettua, mutta se on kriisissä lohen tarttuvan anemian takia. Tätä tautia, joka on eräänlainen lohen flunssa, ei tunnettu Euroopan unionissa, ennen kuin se ilmeni ensimmäisen kerran Skotlannissa toukokuussa 1998, jonka jälkeen miljoonia terveitä kaloja on täytynyt hävittää vain kymmenellä tartunnan saaneella tilalla.
+<P>
+ISA: n tiedetään aiheuttaneen hyvin paljon kalakuolleisuutta lohien verkkoaltaissa, mutta kyseinen tauti ei vaikuta ihmisiin, eikä se tee tartunnan saaneista kaloista syömäkelvottomia. Euroopan unionin direktiiveissä ja Yhdistyneen kuningaskunnan säädöksissä pyritään taudin hävittämiseen. Tällöin ei kuitenkaan puututa miljoonien kalojen hävittämisestä aiheutuviin sosiaalisiin ja taloudellisiin seurauksiin. Totuus on se, että kalojen hävittäminen saattaa merkitä taloudellista tuhoa monille pienille perheyrityksille. Se voi viedä pienyritykset perikatoon.
+<P>
+Sen jälkeen, kun tämä asia otettiin parlamentin esityslistalle, Skotlannista vastaava ministeri on ryhtynyt toimiin ja myöntänyt asian seuraukset työllisyydelle. Kuten herra McMahon sanoi, hallitus on luvannut 9 miljoonaa puntaa kolmen vuoden aikana, mutta koska se perustuu matching-rahoitukseen teollisuuden kanssa, siitä neuvotellaan parhaillaan. Pieniä tiloja ei välttämättä oteta mukaan matching-rahoitukseen, ja tästä avokätiseltä kuulostavasta summasta ei itse asiassa ehkä olekaan hyötyä joillekin pienyrityksille.
+<P>
+Pankit ovat antaneet ymmärtää, että ne eivät myönnä lainaa, mikäli takauksena ovat kalavarat, joten elleivät suuremmat yritykset suostu tarjoamaan pienyrityksille taloudellista suojaa, on vaikea uskoa, että tarjous estäisi näiden taloudellisen tuhon. Suuryritykset saattaisivat pystyä ostamaan pienyritykset, mutta monissa tapauksissa nimenomaan pienyritykset ovat investoineet tuntuvasti maaseudulle.
+<P>
+Norja on käynyt käsiksi tähän ongelmaan estämällä pikemminkin taudin leviämisen kuin hävittämällä kaloja, ja onkin kysyttävä, pitäisikö Euroopan unionissa harkita vaihtoehtoisia keinoja taudin torjumiseksi.
+<P>
+Meidän on pakko ryhtyä toimiin. Skotlannin lohitilat ovat kriittisessä vaiheessa, sillä päätökset ensi vuoden lohenpoikasten ostosta tehdään pian. On tärkeää harkita pikaisesti, millaiset lisätoimet, korvaukset mukaan lukien, voisivat olla mahdollisia mainitsemieni pienimuotoisten yritysten auttamiseksi. En voi korostaa liikaa tämän tilanteen vakavuutta. Tarvitaan pikaisia ja päättäväisiä toimia, jotta välttyisimme joillekin taloutensa puolesta Euroopan heikoimmassa asemassa oleville yhteisöille aiheutuvilta vakavilta vaikutuksilta.
+<P>
+Lopuksi, arvoisa komission jäsen, voisitteko vahvistaa, olisitteko te valmis harkitsemaan yhteisön rahoittaman taudinhävittämisohjelman käyttöönottoa, jos nykyiset kansalliset ehdotukset epäonnistuvat?
+
+<SPEAKER ID=82 LANGUAGE="EN" NAME="Kellett-Bowman">
+Arvoisa puhemies, saattaa tuntua oudolta, että kun oma vaalipiirini on Hampshiressä, haluan käyttää puheenvuoron Skotlannin lohia koskevassa keskustelussa. Vaalipiiriini kuuluvat Itchen, Test ja Avon, ja nämä kolme jokea ovat kuuluisia lohistaan. Kuuntelin hyvin tarkkaavaisena komission jäsen Bangemannia. Hän mainitsi, mihin toimiin näillä alueilla ryhdytään. Sulkeeko hän siis pois taudin eläinlääketieteellisen tai farmaseuttisen hoidon joko siellä, missä sitä esiintyy, tai ennalta ehkäisevät toimenpiteet niillä alueilla, minne se voisi vastaisuudessa levitä?
+
+<SPEAKER ID=83 NAME="Bangemann">
+Arvoisa puhemies, kuten sanoin, komissio odottaa ehdotuksia Britannian hallituksen taholta. Joistakin toimista on ilmoitettu, mutta emme ole saaneet suunnitelmia, joissa olisi yksityiskohtaisia ja konkreettisia ehdotuksia ja tietoa niiden rahoitusvaikutuksesta.
+<P>
+Kuten totesin, ymmärrämme kuitenkin tilanteen vakavuuden, joten mikään toimenpide ei ole selvästi poissuljettu. Olen kertonut, millaista menettelytapaa sovellamme toistaiseksi. Mikäli on tarpeen ottaa käyttöön uusi menettelytapa, yritämme ilman muuta olla mahdollisimman paljon avuksi. Tämä koskee myös tutkimustoimia - sikäli kuin tiedän - en ole asiantuntija tutkimuksen alalla.
+<P>
+Emme tietääksemme ole toistaiseksi tehneet asiasta mitään tutkimuksia. Kuten aina, kalastuspolitiikassa saattaa kuitenkin olla välittömästi saatavilla olevia varoja. Mikäli yhteisön taholta on tarvetta lisätutkimuksiin, ryhdymme ilman muuta myös niihin.
+<P>
+Toistan, että odotamme parhaillaan konkreettisia ehdotuksia, ja teemme sitten kaikkemme mahdollistaaksemme ne ja ryhdymme tarvittaessa myös muihin toimiin.
+
+<SPEAKER ID=84 NAME="Puhemies">
+Paljon kiitoksia, herra Bangemann.
+<P>
+Keskustelu on päättynyt.
+<P>
+Parlamentti on käsitellyt kaikki esityslistalla olleet asiat. Tämän istunnon pöytäkirja annetaan parlamentin hyväksyttäväksi seuraavan istunnon alussa.
+<P>
+Hyvät jäsenet, olemme saaneet työmme päätökseen tältä viikolta, jolla on ollut oma erityispiirteensä. Minun saamieni tietojen mukaan olemme rikkoneet ennätyksen, toisin sanoen tämä on ollut viikko, jonka nojalla voisimme päästä Guinnesin ennätystenkirjaan, koska olemme toimittaneet yli 150 nimenhuutoäänestystä. Hyvät jäsenet, minä en kiistele siitä - en voi tehdä sitä - onko nimenhuutoäänestysten toimittaminen sopivaa vai ei. Tämä on kysymys, jonka osalta määrätään työjärjestyksessämme.
+<P>
+Hyvät jäsenet, siitä ei joka tapauksessa ole epäilystä, etteikö tämä olisi vaatinut erityisiä voimanponnistuksia kaikilta teiltä, mutta myös parlamentin yksiköiltä. Sekä meidän virkailijamme että tulkkausyksiköt ovat joutuneet ponnistelemaan aivan erityisesti. Näin ollen, haluan suorittaa erityisen painokkaasti tämän monena perjantaina minun osalleni lankeavan mieluisan tehtävän kiittää teitä yhteistyöstänne, haluan kertoa teille, että viikon kestäneen lumisateen jälkeen tässä kaupungissa on saatu nauttia tänään upeasta säästä. Kiittäkäämme kaupunkia tästä upeasta päivästä ja toivokaamme, että se seuraa meitä kaikkiin niihin eri ilmansuuntiin, joihin te nyt lähdette, hyvät jäsenet, jatkaaksenne työtänne Euroopan unionin hyväksi.
+<P>
+Ennen kuin päätämme istunnon, herra Bangemann on pyytänyt minulta puheenvuoroa ja minulla on ilo ja kunnia antaa se hänelle. Herra Bangemann, teillä on puheenvuoro.
+
+<SPEAKER ID=85 NAME="Bangemann">
+- (DE) Arvoisa puhemies, halusin vain pyytää teiltä, että kun ilmoitatte nimenhuutoäänestysten lukumäärän Guinnessin ennätysten kirjaan, lisätkää ilmoitukseen myös eilinen puheeni. Se oli nimittäin lyhyin puhe, jonka komission jäsen milloinkaan on pitänyt.
+<P>
+Suosionosoituksia
+
+<SPEAKER ID=86 NAME="Puhemies">
+Herra Bangemann, tässä tapauksessa mielestäni on pantava merkille kaksi asiaa: se, että puheenvuoro oli todella lyhyt ja että sen käytitte te, jolla on tapana vastata hyvin vuolaaseen tyyliin, mistä kiitämme teitä.
+
+<CHAPTER ID=7>
+
+Istuntokauden keskeyttäminen
+<SPEAKER ID=87 NAME="Puhemies">
+Julistan Euroopan parlamentin istuntokauden keskeytetyksi.
+<P>
+Istunto päättyi klo 11.15.
+

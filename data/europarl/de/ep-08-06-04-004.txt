@@ -1,0 +1,12 @@
+<CHAPTER ID="004">
+Genehmigung des Protokolls der vorangegangenen Sitzung
+<SPEAKER ID="010" NAME="Der Präsident">
+Das Protokoll vom Donnerstag, dem 22. Mai 2008, wurde verteilt.
+<P>
+Gibt es Einwände?
+<SPEAKER ID="011" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+Herr Präsident! Ich möchte mich bei den Mitarbeiterinnen und Mitarbeitern des Hauses für die Ausrichtung der Verleihung des "Energy Globe Awards" bedanken, weil das beispielgebend für diese Welt war und das für unser Haus einen ausgezeichneten Eindruck hinterlassen hat. Danke an all jene, die mitgearbeitet haben!
+<SPEAKER ID="012" NAME="Der Präsident">
+Es ist legitim, diesen Dank auszusprechen. Es war zwar nicht zum Protokoll, aber immerhin.
+<P>
+(Das Protokoll der vorangegangenen Sitzung wird genehmigt.)

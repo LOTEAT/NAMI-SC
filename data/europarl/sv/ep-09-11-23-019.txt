@@ -1,0 +1,70 @@
+<CHAPTER ID="019">
+Konvention om användning av informationsteknologi för tulländamål (debatt)
+<SPEAKER ID="135" NAME="Talmannen">
+Nästa punkt är ett betänkande av Alexander Alvaro, för utskottet för medborgerliga fri- och rättigheter samt rättsliga och inrikes frågor, om Republiken Frankrikes initiativ inför antagande av rådets beslut om konventionen om användning av informationsteknologi för tulländamål (TIS-konventionen) (17483/2008 - C6-0037/2009 -.
+<SPEAKER ID="136" NAME="Alexander Alvaro" LANGUAGE="DE">
+Herr talman! Jag vill hälsa kommissionsledamot Siim Kallas och mina ledamotskolleger välkomna. I grund och botten är den fråga vi ska diskutera inte alls kontroversiell. Ärendet i fråga gäller anpassningen av informationstekniken för tullar och punktskatter. För många är detta ett ytterst tekniskt ämne. Med tanke på kampen mot bedrägeri och annan brottslighet är det emellertid en mycket viktig sida av samarbetet om tullar och punktskatter och informationsutbytet.
+<P>
+Vi har med framgång lyckats samarbeta med rådets svenska ordförandeskap och jag skulle därför vilja tacka dem som har stött och ledsagat oss genom processen eftersom detta dokument inte direkt är nytt. Vi har visat vårt samarbete genom att parlamentet har tagit upp och i utskott röstat för viktiga ändringsförslag som rådet redan föreslagit under sitt arbete. Jag förutsätter därför också att omröstningen om denna fråga i veckan får ett positivt utfall.
+<P>
+Den enda åtgärd som parlamentet inte samtycker till är utvidgningen av Europols befogenheter på detta område. Denna åsikt delas självfallet inte av alla politiska grupper här i parlamentet. Den är emellertid slutresultatet av omröstningen om betänkandet om informationsteknik för området tullar och punktskatter. Detta har i viss mån anknytning till debatten som ägde rum här tidigare när vår avsikt var en annan. Eftersom vi då ganska nyligen hade fastställt ett mandat för Europol, enligt vilket det ska vara ett EU-organ, ville vi nämligen sända en signal om att Europols befogenheter på några små och specifika områden nu breddas och utvidgas.
+<P>
+Med tanke på Europols roll och betydelse är det också i hög grad lämpligt att dess beredningsområde fastställs i ett sådant mandat som det vi har beslutat om. Detta gagnar också öppenheten, så att inte bara vi utan särskilt de medborgare som är föremål för våra åtgärder, vet vad Europol får eller inte får göra. Öppenhet är en grundläggande del av alla strukturer som rör åklagar- och polismyndigheter i medlemsstaterna och det måste också gälla på EU-nivå.
+<P>
+För övrigt har jag inte mycket att tillägga, och även om det finns en tendens till att man vill överskrida sin talartid kan jag i detta fall förkorta min. Jag skulle vilja tacka rådets ordförandeskap och mina ledamotskolleger för det utmärkta samarbetet och jag är säker på att vi kan rösta om betänkandet denna vecka med gott resultat.
+<SPEAKER ID="137" NAME="Siim Kallas" LANGUAGE="EN">
+Herr talman! Kommissionen stöder i princip texten i utkastet till rådets beslut, eftersom det är nödvändigt för att bestämmelserna om ömsesidigt bistånd och administrativt samarbete ska kunna utvecklas parallellt så långt som möjligt och eftersom man måste fastställa de bestämmelser som föreskriver att gemenskapens allmänna budget ska bära kostnaden för medlemsstaternas användning av tullinformationssystemet.
+<P>
+Denna rättsliga korrigering bör inte innebära någon ökning av budgeten och den är nödvändig för att garantera större komplementaritet med agerandet inom ramen för samarbetet med Europol och Eurojust genom att ge dessa organ lika stor tillgång till tullinformationssystemet (TIS) och till dess register för identifiering av tullutredningar (Fide). Följaktligen kan inte kommissionen stödja parlamentets ändringsförslag som syftar till att ge Europol och Eurojust olika stor tillgång till TIS/Fide.
+<P>
+Allmänt sett välkomnar kommissionen de flesta av de ändringsförslag som parlamentet lägger fram. I det sammanhanget skulle jag vilja göra följande kommentar.
+<P>
+Kommissionen delar den åsikt som föredraganden Alexander Alvaro hyser om att det är beklagligt att detta förslag ska avgöras så snabbt av medlemsstaterna innan Lissabonfördraget träder i kraft. I själva verket föreskriver Lissabonfördraget en ny rättslig grund, vilket innebär att en ny förordning skulle kunna ersätta den nuvarande TIS-konventionen, en förordning som skulle ha en direkt effekt i medlemsstaterna och inte behöva införlivas i nationell lag innan den börjar fungera, vilket för närvarande är fallet med förordning (EG) nr 766/2008 om den administrativa delen av TIS.
+<P>
+Kommissionen delar också parlamentets åsikt om dataskyddsövervakningen av IT-tillämpningen, dvs. att lösningen att ersätta den gemensamma tillsynsmyndigheten med Europeiska datatillsynsmannen är den mest lämpliga. En kombinerad övervakning av den gemensamma tillsynsmyndigheten och Europeiska datatillsynsmannen skulle kunna medföra vissa risker för eventuellt dubbel- och överlappningsarbete. Hur som helst bör en samordningsmekanism som också utfärdar lämpliga rekommendationer inrättas.
+<SPEAKER ID="139" NAME="Petru Constantin Luhan" LANGUAGE="RO">
+Fru talman! Jag gratulerar min kollega Alexander Alvaro till hans arbete och tackar för det goda samarbete vi hade när vi utarbetade detta betänkande. Det var ett betänkande där jag var ense med föredraganden om de viktiga punkterna, nämligen att tillgång till data som är införd i tullinformationssystemet bara ska garanteras till särskilt utsedda organ och personal, som medlemsstaterna, Europol och Eurojust.
+<P>
+En annan fråga som togs upp i ett av mina ändringsförslag och stöddes av föredraganden är att medlemsstaterna, Europol och Eurojust inte får möjlighet att överföra data till icke-medlemsstater och tredjeländer på grund av att tillräckligt dataskydd saknas i dessa länder. Enligt min åsikt är den översyn av tullinformationssystemet som man överväger i betänkandet nödvändig för att bättre anpassa det till kontrollmyndigheternas krav och för att tillåta att ett begränsat antal användare genomför analyser av den information som finns i systemet.
+<P>
+Översynen kommer också att öka effektiviteten i samarbetet och i tullmyndigheternas kontrollförfaranden tack vare det gemensamma automatiska informationssystemet som kommer att bidra till att förhindra, undersöka och åtala grova överträdelser av nationell lagstiftning.
+<SPEAKER ID="140" NAME="Marie-Christine Vergiat" LANGUAGE="FR">
+Fru talman! Först vill jag rätta den information som finns på anslagstavlan. Jag är inte medlem av Europeiska folkpartiets grupp (kristdemokraterna); jag är fortfarande medlem av gruppen Europeiska enade vänstern/Nordisk grön vänster.
+<P>
+På begäran av den franska regeringen har vi fått en text där man vidtar åtgärder för att tullmyndigheterna ska samarbeta med Europol och Eurojust.
+<P>
+Än en gång vill jag påpeka att detta är ett område som med största sannolikhet blir en fråga för medbeslutande när Lissabonfördraget har trätt i kraft. Vi beklagar därför att brådskan har fått råda över en önskan att skydda grundläggande friheter, precis som i fallet Europol.
+<P>
+I alla dessa texter beklagar vi att den kritiska balansen mellan säkerheten och respekten för de grundläggande rättigheterna alltmer hotas till nackdel för friheterna och för övergripande resultat som ibland inte lyckas övertyga våra medborgare.
+<P>
+Vi beklagar också att den ståndpunkt som parlamentet föreslår att vi ska anta till denna text, där man försöker upprätta länkar mellan filer som tullen, polisen och Eurojust förfogar över, är mer försiktig än vår ståndpunkt om Europol. Farorna är nämligen desamma och de säkerhetsåtgärder som man presenterar i de texter som lagts fram för oss är ännu osäkrare. Till exempel är det upprörande att det inte finns någon tydlig senaste användningstidpunkt för data.
+<P>
+Vid en tidpunkt när våra grundläggande friheter alltmer urholkas av säkerhetsåtgärder i alla våra länder uppfyller tyvärr inte parlamentet riktigt sin roll att skydda grundläggande de rättigheterna och skyldigheterna.
+<P>
+Vissa förbättringar inom detta område som jag föreslagit har antagits, särskilt beträffande Europol. Jag är mycket glad över det och jag tackar mina ledamotskolleger, men förbättringarna är otillräckliga, särskilt i förhållande till de proportionalitets- och nödvändighetsprinciper som alltid måste råda när rättigheter och friheter står på spel.
+<P>
+Av dessa skäl, och om inga andra ändringsförslag som ger våra medborgare större skydd antas, kommer GUE/NGL-gruppen att avstå från att rösta om denna text.
+<SPEAKER ID="141" NAME="Carlos Coelho" AFFILIATION="PPE">
+(PT) Fru talman! Detta initiativ syftar till att skapa ett gemensamt automatiserat tullinformationssystem för tullmyndigheter i medlemsstaterna. Ett sådant system skulle bidra till att förhindra, undersöka och undanröja överträdelser av både gemenskapslagstiftning och nationell lagstiftning.
+<P>
+Jag välkomnar önskan att underlätta informationsutbytet, att förbättra och konsolidera samarbetet mellan tullmyndigheterna och att fastställa förfaranden för gemensamma åtgärder. Jag är säker på att ett snabbt och effektivt informationsutbyte kommer att leda till en verksamhet som är grundläggande för att bekämpa olaglig handel.
+<P>
+När vi talar om informationssystem får vi emellertid inte glömma att de innehåller personuppgifter och att frågor som rör skydd för sådana uppgifter och personlig integritet är av yttersta vikt.
+<P>
+Jag håller med föredraganden Alexander Alvaro om att vi måste fortsätta att vara vaksamma så att vi kan undvika alla eventuella överträdelser av de grundläggande rättigheterna, särskilt rätten till personlig integritet, enligt vilken uppgifter av personlig natur som införs i systemet måste begränsas till vad som är absolut nödvändigt utan att överträda den personliga integriteten. Vi måste garantera att dessa uppgifter bara kan användas för ändamål som är tydligt definierade och begränsade inom ramen för tillämplig lagstiftning. Dessutom bör dessa uppgifter bara bevaras så länge som de behövs för att fullgöra det syfte för vilket de registrerades.
+<P>
+Det är lika viktigt att se till att tillgången till detta informationssystem är genomskinlig och ligger i linje med de regler som tillämpas för liknande informationssystem som till exempel andra generationen av Schengens informationssystem eller informationssystemet för viseringar. Av detta skäl stöder jag inte de ändringsförslag som gruppen Europeiska enade vänstern/Nordisk grön vänster lagt fram.
+<P>
+När det gäller övervakningen av dataskydd vore det bättre och mer välbetänkt att i stället för att försöka skapa lösningar från fall till fall behålla och genomföra samma övervakningssystem som det man valt för andra liknande system, inte bara för konsekvensens skull utan också för att undvika bristande överensstämmelse när det gäller dataskyddet.
+<P>
+Avslutningsvis vill jag säga att jag delar den åsikt som kommissionsledamot Siim Kallas och föredragaren Alexander Alvaro uttrycker när de beklagar att rådet så snabbt har försökt avsluta detta dokument innan Lissabonfördraget träder i kraft.
+<SPEAKER ID="142" NAME="Alexander Alvaro" LANGUAGE="DE">
+Fru talman! Som vi märker på det stora antalet ledamöter som vill yttra sig är detta ett spännande lagstiftningsdokument. Ändå skulle jag vilja använda en kort stund av detta tillfälle för att svara på vad kommissionsledamot Siim Kallas talade om, nämligen kommissionens förkastande av de föreslagna ändringsförslagen beträffande Europol. Jag har verkligen stor förståelse både för kommissionens motiv och för önskan att vara konsekvent.
+<P>
+Alldeles nyligen nämnde Carlos Coelho en fråga - den också har tagits upp av andra, till exempel Marie-Christine Vergiat - som har gett oss en tankeställare. När vi står inför uppgiften att uppnå en så hög standard som möjligt på uppgifter som rör våra medborgare hjälper det inte särskilt mycket - och detta är kanske något som kommissionen borde tänka på i framtiden trots deras förkastande av förslagen - att vi har bestämmelser som rör Europols befogenheter, som till exempel vilka uppgifter som behandlas, vilken myndighet som gör det och till vilken det överförs, eftersom detta delas upp på flera lagstiftningsdokument. Det kommer tillfällen när det inte längre står klart vilka uppgifter som får användas av Europol och hur och vilka uppgifter som inte får användas. När det gäller Europols mandat skulle det vara förnuftigare om allt detta fastställdes i allmänna ordalag i stället för att lagstiftningen alltid utarbetas i varje enskilt fall. Det skulle göra lagstiftningen mer genomskinlig för medborgarna och skulle säkert också främja Europols arbete.
+<P>
+Annars har jag inget mer att tillägga. Kanske får jag ge en kort kommentar till en fråga som nämndes tidigare, nämligen den skillnad i rätt till tillgång som råder mellan Eurojust och Europol. I det fallet måste man givetvis ta hänsyn till att ett organ som verkställer lagen fungerar annorlunda än ett organ som väcker åtal och därför bör ha andra befogenheter. Men om vi i framtiden ska ha en kommissionsledamot för rättsliga frågor kanske vi kan behandla denna fråga på EU-nivå.
+<SPEAKER ID="143" NAME="Talmannen">
+Debatten är härmed avslutad.
+<P>
+Omröstningen kommer att äga rum i morgon kl. 12.00.

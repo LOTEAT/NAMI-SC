@@ -1,0 +1,6 @@
+<CHAPTER ID="008">
+Turno de votaciones
+<SPEAKER ID="097" NAME="La Presidenta">
+De conformidad con el orden del día se procede la votación.
+<P>
+(Para los resultados y otros detalles de la votación, véase el Acta)

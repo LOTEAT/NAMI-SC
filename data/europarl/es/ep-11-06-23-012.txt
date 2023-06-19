@@ -1,0 +1,4 @@
+<CHAPTER ID="012">
+Turno de votaciones
+<SPEAKER ID="145" NAME="Presidenta">
+El siguiente punto del orden del día es el turno de votaciones.

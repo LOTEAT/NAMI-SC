@@ -1,0 +1,12 @@
+<CHAPTER ID="008">
+Hääletused
+<SPEAKER ID="106" NAME="Juhataja">
+Järgmine päevakorrapunkt on hääletused.
+<P>
+(Hääletustulemuste üksikasjad: vt protokoll)
+<SPEAKER ID="107" NAME="Robert Goebbels" AFFILIATION="S&amp;D">
+(FR) Austatud juhataja! Ma palun teil natuke veel oodata, sest paljud parlamendiliikmed on ikka veel liftides kinni. Kellelgi tuli erakordne mõte remontida lifte sellel ühel nädalal kuus, kui me Strasbourgis oleme, ehkki selleks oli aega kolm ülejäänud nädalat.
+<SPEAKER ID="108" NAME="Juhataja">
+Robert Goebbels, kell on juba 12 läbi. Me oleme juba viis minutit oodanud. Ma arvan, et me võime asuda hääletuste juurde.
+<P>
+(Aplaus)

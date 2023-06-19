@@ -1,0 +1,10 @@
+<CHAPTER ID="002">
+Approvazione del processo verbale della seduta precedente
+<SPEAKER ID="006" NAME="Presidente">
+Il processo verbale della seduta del 26 ottobre è stato distribuito. Vi sono osservazioni?
+<SPEAKER ID="007" NAME="Françoise Grossetête" AFFILIATION="PPE-DE">
+(FR) Signor Presidente, desidero solamente dire che giovedì ho dimenticato di firmare il foglio dei presenti. Però ho partecipato a tutte le votazioni per appello nominale a mezzogiorno e nella serata di giovedì.
+<SPEAKER ID="008" NAME="Presidente">
+Saranno presi i provvedimenti opportuni per apportare le necessarie correzioni.
+<P>
+(Il processo verbale della seduta precedente è approvato)

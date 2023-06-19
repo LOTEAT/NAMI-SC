@@ -1,0 +1,2 @@
+<CHAPTER ID="006-02">
+2. Autenticação das moedas em euros e tratamento das moedas em euros impróprias para circulação (

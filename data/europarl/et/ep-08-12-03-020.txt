@@ -1,0 +1,186 @@
+<CHAPTER ID="020">
+Ühendusesiseste tehingutega seotud maksupettustega võitlemine (ühine käibemaksusüsteem) - Ühendusesiseste tehingutega seotud maksupettustega võitlemine - Euroopa Kontrollikoja eriaruanne nr 8/2007 (arutelu)
+<SPEAKER ID="257" NAME="Juhataja">
+Järgmine päevakorrapunkt on ühisarutelu järgmistel teemadel:
+<P>
+majandus- ja rahanduskomisjoni nimel José Manuel García-Margallo y Marfili koostatud raport ettepaneku kohta võtta vastu nõukogu direktiiv, millega muudetakse nõukogu direktiivi 2006/112/EÜ (mis käsitleb ühist käibemaksusüsteemi), et võidelda ühendusesiseste tehingutega seotud maksupettustega - C6-0154/2008 -,
+<P>
+majandus- ja rahanduskomisjoni nimel José Manuel García-Margallo y Marfili koostatud raport ettepaneku kohta võtta vastu nõukogu määrus, millega muudetakse määrust (EÜ) nr 1798/2003, et võidelda ühendusesiseste tehingutega seotud maksupettustega - C6-0155/2008 -, ja
+<P>
+eelarvekontrollikomisjoni nimel Bart Staesi koostatud raport Euroopa Kontrollikoja eriaruande nr 8/2007 kohta, mis käsitleb halduskoostööd käibemaksu valdkonnas (A60427/2008).
+<SPEAKER ID="258" NAME="José Manuel García-Margallo y Marfil" LANGUAGE="ES">
+Austatud juhataja! Tahaksin kõigepealt avaldada kahetsust, et vastutav volinik ei viibi täna siin, kuigi see tegelikult ei üllata mind, sest selle teema puhul on meil palju kära ja vähe villa - rohkelt ilukõnet käibemaksupettusega võitlemisest ja väga vähe meetmeid, millega seda tehtaks.
+<P>
+Teatistes, mille volinik on meile esitanud ja millest viimane pärineb käesoleva aasta 1. detsembrist, tuntakse suurt muret maksupettustega tekitatava kahju pärast. See mõjutab tegevuse piisavust ja õiglust ning põhjustab turumoonutusi, mis on seotud tõeliselt suurte summadega. Käibemaksupettus hõlmab igal aastal 60-?100 miljardit eurot.
+<P>
+Kuidas saab pettust peatada? Neis teatistes pandud diagnoos on samuti üldiselt korrektne ning ilukõneline ja sõnaderohke. Seal on öeldud, et riikide ametiasutused vastutavad pettusega võitlemise eest, aga et tehingud, mille puhul tarnija ja klient ei ela samas riigis, nõuavad liikmesriikide koostööd. Samuti on seal märgitud, et kontrollikoda ütleb oma eriaruandes nr 8, et selline koostöö on olnud ilmselgelt ebarahuldav ja seetõttu tuleb võtta meetmeid. Probleem ilmneb siis, kui volinik hakkab meile rääkima, millist laadi meetmeid tuleb võtta. Ta väidab üsna mõistlikult, et on kaks strateegiat: üks, mida ta nimetab kaugeleulatuvaks, tähendab olulist käibemaksureformi, mis hõlmaks kas pöördmaksustamise süsteemi või maksu kinnipidamise süsteemi ja arvelduskoda, kuid teise kohta ütleb volinik "traditsioonilised meetmed”.
+<P>
+Me järeldasime tema siinsest 24. juuni esinemisest, et ta ei kavatse mingil juhul hakata läbi viima kaugeleulatuvat reformi ja et ta piirduks traditsiooniliste meetmetega. Ent kui ta seejärel kirjeldas traditsioonilisi meetmeid, siis tegi ta ettepaneku nelja meetme kohta, mis põhimõtteliselt pole halvad. Ta kõneles kohustuslike deklareerimistähtaegade lühendamisest, maksuametite vahelise koostöö parandamisest, solidaarvastutuse rakendamisest (kui kauba ostja ei deklareeri seda, kes kauba müüs) ja käibemaksukohustuslastest teavitamise parandamisest. Siis teatas ta tagatipuks, et isegi need neli meedet ei ole konkreetsete meetmete hulgas, mida ta kavatseb vastu võtta. Nüüd pakub ta välja direktiivi ja määruse kaks muudatusettepanekut. Ta väidab, et esimese eesmärk on lühendada ajavahemikku, mille jooksul saab saata aruandeid, mida käibemaksukohustuslased peavad esitama, kolmelt kuult ühele kuule, ning teise eesmärk on lühendada ajavahemikku, mille jooksul edastatakse teave liikmesriigile, kes peab maksu sisse nõudma, kolmelt kuult ühele kuule. Ja ongi kõik. See on kõik, mis ettepanekus on sätestatud.
+<P>
+Majandus- ja rahanduskomisjon üritas seda tõeliselt tühja teemat veidi vürtsitada ja me esitasime järgmised muudatusettepanekud. Kiitsime heaks muudatusettepaneku, millega soodustatakse väikesi ja keskmise suurusega ettevõtteid ja mille eesmärk on sobitada maksupettusega võitlemine kokku väikeettevõtete halduskoormuse vähendamisega, mida Euroopa Parlament ja EL tervikuna on kohustunud tegema. Seepärast ütleme, et komisjon peab varsti, kahe aasta jooksul esitama meile aruande selle kohta, kuidas need meetmed on toiminud, kuidas need on mõjutanud ettevõtete halduskulusid ja kui kasulikud on need olnud maksupettusega võitlemisel.
+<P>
+Me toonitame ka seda, et komisjon peaks õigusaktide väljatöötamisel hakkama senisest palju rohkem osalema. Tal peaks olema juhtivam roll. Samuti kutsume teda üles tsentraliseerima andmed, mida asjaomased liikmesriigid edastavad, koostama parimate tavade käsiraamatu, et maksuametid saaksid paremini toimida, töötama välja näitajad selle kohta, millised valdkonnad on riskantsed ja millised mitte, ning ütlema meile, kes järgib eeskirju ja kes mitte. Petturite jälitamise lihtsustamiseks koostame lisaks registri üksikisikutest, kes ei saa ettevõtete loomise kaudu maksudest kõrvale hoida.
+<P>
+Mul on kahju, et volinik ei saa meie koostatud muudatusettepanekutele vastata.
+<SPEAKER ID="259" NAME="Bart Staes">
+raportöör. - (NL) Austatud juhataja, lugupeetud volinik, head kolleegid! Maksupettus ja käibemaksupettus on karistatavad rikkumised. Need võivad olla valgekraede kuriteod, aga need on siiski kuriteod ja vahetevahel on need seotud organiseeritud kuritegevusega.
+<P>
+Vaatame, milliste summadega on tegemist, sest just see muudab alati asja huvitavaks. 2007. aastal hindas volinik Kovács, et maksupettus on kokku samaväärne kahe kuni kahe ja poole Euroopa eelarvega ehk 200-?250 miljardi euro suuruse summaga. Käibemaksupettuse osakaal selles on hinnangute kohaselt 40 miljardit eurot. Need arvud on tõenäoliselt palju suuremad, sest kontrollikoja hinnangul ulatus saamata jäänud käibemaksutulu Saksamaal 2005. aastal 17 miljardi euroni ja Ühendkuningriigis 18,2 miljardi euroni - see on kokku üle 35 miljardi euro saamata jäänud käibemaksutulu.
+<P>
+Seetõttu tuleb avaldada heameelt selle üle, et komisjon on rahastanud uuringut, selle uuringuga on alustatud ja see on käimas ning tulemused tehakse avalikuks, nii et me näeme probleemi tõelist ulatust.
+<P>
+Poliitikaga on seotud kaks põhiprobleemi. Esiteks peab riiklike maksuametite vaheline koostöö paranema ning teiseks peaksime tõepoolest seadma eesmärgiks lühemad tähtajad, kui liikmesriikide haldusorganid koguvad ja vahetavad teavet, nii et andmeid saaks töödelda palju kiiremini.
+<P>
+Minu raportis analüüsitakse peamiselt kontrollikoja uuringut käibemaksupettuse kohta. Kontrollikoda viis kontrolli läbi seitsmes liikmesriigis: Hollandis, Itaalias, Luksemburgis, Poolas, Prantsusmaal, Sloveenias ja Ühendkuningriigis. Need riigid tegid head koostööd. Ent Saksamaa keeldus igasugusest koostööst. Septembris algatas komisjon Saksamaa vastu rikkumismenetluse ja ma pean ütlema, lugupeetud volinik, et see on asi, mida ma toetan.
+<P>
+Kontrollikoda tegi kindlaks, et mõnes liikmesriigis puuduvad sedalaadi pettuse kontrollimisel tõhusa koostöö tingimused täielikult. Minu kaasraportöör märkis, et teabenõuetega tegelemisele kulub rohkem kui kolm kuud. See on tõesti andestamatu, sest tegelikult tuleks nende kuritegudega võidelda kohe. Siiski on ka riikidesisene korraldus sattunud tule alla. Eriti Hollandis ja Saksamaal jääb üht-teist soovida. Lisaks on täielik puudus piisavalt tugevatest kontrollimehhanismidest.
+<P>
+Mulle jääb mõistetamatuks, miks liikmesriigid keelduvad asumast kindlale seisukohale, isegi kui nad teavad, et kaotavad miljardeid tulu. Sellest ei saa ma tõepoolest aru. Kurjategijate vaba liikumine on paratamatu. Ühinenud Euroopas jääb maksupettuse vastane võitlus suuremalt jaolt täitumatuks unistuseks.
+<P>
+Ent on ka häid uudiseid. Minu enda liikmesriik Belgia on loonud Euroopa karussellpettuste vastu võitlemise võrgustiku (Eurocanet), mis tagab spontaanse teabevahetuse. Aga ka sellel on puudusi, sest vaid 24 liikmesriiki on nõustunud tegema koostööd ning kolm suuremat liikmesriiki - nimelt Itaalia, Saksamaa ja Ühendkuningriik - on koostööst keeldunud.
+<P>
+7. oktoobril kokku tulnud majandus- ja rahandusküsimuste nõukogu algatas uue mehhanismi - Eurofisci mehhanismi -, et parandada liikmesriikidevahelist koostööd käibemaksupettuse vastu võitlemisel. See on minu arvates mõistlik algatus, aga see annab midagi juurde üksnes siis, kui kõik liikmesriigid osalevad ja kui tegemist on enamaga kui vaid valitsustevahelise koostööga. Olen kindel, et komisjon peaks selles uues algatuses osalema. Ta võiks igal juhul osa võtta ja olla isegi koordineerija.
+<P>
+Lisaks arvan, et peaksime oluliselt tugevdama koostööd ka kohtuasutuste vahel. Kõik liikmesriikide õigusaktides sisalduvad õiguslikud takistused piiriülese kriminaalvastutusele võtmise suhtes tuleks viivitamata kaotada. Olen oma raportisse lisanud loetelu meetmetest, mida tuleb võtta. Tahaksin kuulda komisjoni vastust või reaktsiooni ja mul on kahju, et nõukogu esindajat ei ole kohal, sest kokkuvõttes peab nõukogu selles valdkonnas meetmeid võtma.
+<SPEAKER ID="260" NAME="Louis Michel">
+komisjoni liige. - (FR) Austatud juhataja, daamid ja härrad! Tahaksin tänada Euroopa Parlamenti ja eriti kaht raportööri - José Manuel García-Margallo y Marfili ja Bart Staesi - sisutihedate raportite eest, mille nad on esitanud sellisel tundlikul teemal nagu käibemaksupettusega võitlemine Euroopa Liidus, eriti seoses komisjoni esimese konkreetse ettepanekuga selles valdkonnas.
+<P>
+Me oleme oma käibemaksupettuse vastase võitluse strateegia rakendamisel praegu pöördepunktis. Kolm raportit, mille Euroopa Parlament peab homme vastu võtma, sisaldavad mitmeid soovitusi selle kohta, kuidas parandada võitlust pettuse vastu, ja väljendavad teie arvamust esimese meetme kohta tervest meetmete reast.
+<P>
+1. detsembril võttis komisjon vastu teatise, milles olid kirjas meetmed, mida ta lähikuudel tutvustab, ja mis puudutas ka esimest direktiivi, mis sisaldab osa neist meetmetest. Kavandatud ettepanekud vastavad ka Bart Staesi raportis väljendatud muredele ja soovitustele.
+<P>
+Meetmed, mille komisjon kavatseb vastu võtta, võib jagada kolme rühma.
+<P>
+Esimesse on koondatud meetmed, mille eesmärk on hoida ära käibemaksupettust. Üks neist seisneb miinimumstandardite kehtestamises riiklikes andmebaasides registreerimise ja registritest kustutamise kohta, et suurendada neis sisalduva teabe usaldusväärsust ja võrreldavust.
+<P>
+Kavas on parandada ka menetlust, mida kasutatakse elektroonilise kinnituse saamiseks ettevõtjate käibemaksukohustuslase numbrite ja vastavate nimede ja aadresside kohta, et tagada tarnijate jaoks õiguskindlus.
+<P>
+Lisaks teeb komisjon ettepaneku lihtsustada arvete esitamist käsitlevaid eeskirju ja ratsionaliseerida eeskirju, mis on seotud maksude sissenõutavusega, et tagada selle parem kohaldamine, sest see hõlbustab kontrolli.
+<P>
+Teine rühm on seotud meetmetega, mille eesmärk on parandada maksuametite tõhusust käibemaksupettuse avastamisel. Sellesse rühma kuulub tähtaegade lühendamist puudutav meede, mida käsitletakse José Manuel García-Margallo y Marfili kahes raportis. Pettuse paremaks avastamiseks tuleb tagada ka impordilt nõutava käibemaksu erandite parem jälgimine, nagu komisjon eelmisel esmaspäeval välja pakkus, ning suurendada sellise teabe ulatust, mille liikmesriigid peavad teiste liikmesriikide maksuametitele oma andmebaasidele automaatse juurdepääsu kaudu kättesaadavaks tegema.
+<P>
+Lisaks hõlmab see rühm, nagu te märkisite, ka Eurofisci nime kandva Euroopa võrgustiku loomist. Selle eesmärk on edendada liikmesriikidevahelist operatiivkoostööd käibemaksupettusega võitlemisel Eurocaneti võrgustiku mudeli põhjal, mis loodi Belgia maksuameti poolt ja mida komisjon ja Euroopa Pettustevastane Amet toetavad.
+<P>
+Kolmandasse rühma kuuluvad meetmed, mille eesmärk on suurendada maksuametite suutlikkust maksude sissenõudmisel ja kogumisel. Nende hulka kuulub eelkõige meede, millega määratakse kindlaks juhud, mil piiriüleseid tehinguid tegevad tarnijad ja kliendid vastutavad ühiselt maksu maksmise eest. Selle eesmärk on kahtlemata tugevdada piiriülest maksude sissenõudmist reguleerivat õigusraamistikku.
+<P>
+Peale selle kuulub nende hulka meede, mille mõte on kehtestada kogumaksutulu kaitsmiseks liikmesriikidevaheline solidaarvastutus.
+<P>
+Komisjon märgib ka, et Euroopa Parlament on kinnitanud oma jätkuvat soovi tagada Euroopa Ühenduse finantshuvide kaitse, arvestades, et käibemaksupettus mõjutab ka Euroopa eelarve omavahendeid.
+<P>
+Avaldan heameelt selle üle, et toetatakse ettepanekut võtta vastu määrus vastastikuse haldusabi kohta pettusevastasel võitlusel ja eriti käibemaksupettuse vastasel võitlusel.
+<P>
+Komisjon on rahul ka sellega, et Euroopa Parlament palub nõukogul jätkata läbirääkimisi ettepaneku üle, mis tagab üksikasjaliku raamistiku, mis võimaldab komisjonil ja Euroopa Pettustevastasel Ametil pakkuda liikmesriikidele võitluses käibemaksupettuse vastu tegevustoetust ja teavet.
+<P>
+Euroopa Parlamendi poolt raporti projektis väljendatud positiivne arvamus tähtaegade lühendamise ja selles küsimuses nõukogus tehtud kiirete edusammude kohta on heaks endeks veelgi ulatuslikumatele ettepanekutele, mille komisjon lähiajal vastu võtab.
+<SPEAKER ID="261" NAME="Lidia Joanna Geringer de Oedenberg">
+õiguskomisjoni arvamuse koostaja. - (PL) Lugupeetud juhataja! Pettuse ohjeldamine, mis on siiani olnud peamiselt liikmesriikide pädevuses, on probleem, mida ei saa lahendada vaid riigi tasandil. Maksupettusega võitlemine peab hõlmama tihedamat koostööd liikmesriikide haldusasutuste vahel, aga ka koostööd komisjoniga.
+<P>
+Direktiivi ja määruse ettepanekud, mida projekt käsitleb, tulenevad vaid osaliselt esmatähtsatest soovitustest, mille majandus- ja rahandusküsimuste nõukogu 2007. aasta juunis esitas. Kavandatud muudatuste põhieesmärk on kiirendada ühendusesiseseid menetlusi käsitleva teabe kogumist ja vahetamist, standardides menetlusi ja lühendades ühendusesiseste tehingute deklareerimise aega ning tähtaega, mille jooksul liikmesriigid peavad nende tehingute kohta teavet vahetama, ühe kuuni.
+<P>
+Käibemaksunõuete ühtlustamine tagab esitatud teabe tõhusa kontrolli. Liikmesriikidele kehtestatud nõue tunnustada elektrooniliselt esitatud käibemaksudeklaratsioone lihtsustab protsessi samuti märkimisväärselt.
+<P>
+Kavandatud õigusaktid on vaid esimesed sammud majandus- ja rahandusküsimuste nõukogu eelnimetatud ettepanekute elluviimise poole. Meil ei ole veel teenuseosutajatele esitatavate uute vorminõuete üksikasjalikku mõjuhinnangut ning soovitatav oleks koostada selle küsimuse kohta eriraport, eriti seepärast, et see on seotud maksumaksjate ja haldusasutuste halduskuludega ja maksupettuse vastase võitluse tulemuslikkusega.
+<P>
+Pidades silmas kontrollikoja õigustatud kriitikat tõhusa halduskoostöö puudumise kohta selles valdkonnas, peaks komisjon kaaluma suurema rolli võtmist, eriti mis puutub analüüside koostamisse ja heade mudelite väljapakkumisse.
+<SPEAKER ID="262" NAME="Gabriele Stauner">
+fraktsiooni PPE-DE nimel. - (DE) Austatud juhataja, lugupeetud kolleegid! Ligikaudu 2,25% ELi sisemajanduse koguproduktist - umbes 200 miljardit eurot aastas, nagu Bart Staes juba ütles - jääb käibemaksu maksmisest kõrvalehoidmise, eeskirjade eiramise ja pettuse tõttu saamata. Need on faktid, millele Bart Staesi raport õigustatult tugineb.
+<P>
+Vastustest selle teema kohta esitatud viiele kirjalikult vastatavale küsimusele, mille ma nõukogule ja komisjonile esitasin - mul on muide kahju ka sellest, et nõukogu read on siin nii hõredad -, ilmnes, et muu hulgas ulatus 2005. aastal saamata jäänud käibemaks ainuüksi Saksamaal 17 miljardi euroni ja Ühendkuningriigis 18 miljardi euroni. Need arvud kinnitavad igaühele tõesti selgelt, et riigi majandusele tehakse suurt kahju ja et see tuleb võimalikult kiiresti peatada.
+<P>
+Ent kuidas seda teha? Siiani leiti - kontrollikoja järgi, kes on seda teemat eriaruandes käsitlenud -, et seda peaks tegema riikide vastutavate haldusasutuste koostöö kaudu, ent just see ei ole viimastel aastatel üldse toiminud.
+<P>
+Taas leiavad eurooplased end olukorrast, kus nad püüavad saavutada heade kavatsustega eesmärki, aga loevad tibusid enne sügist. Ja praegusel juhul on tibudeks liikmesriigid, kes ei suuda rahvusvahelisele käibemaksupettusele haldusmeetmete abil kindlalt vastu astuda.
+<P>
+Seetõttu esinevad näiteks suured põhjendamatud erinevused saadud ja vastatud teabenõuete andmetes. Samuti võivad käibemaksupettusele viidata äraspidised erinevused ühendusesisese kaubanduse andmetes, mille komisjon esitas vastuseks minu 6. mai kirjalikult vastatavale küsimusele. Need erinevused pidid 2007. aastal eeldatavasti ulatuma tohutu summani - 77 miljardi euroni. Kasutaksin praegu võimalust küsida komisjonilt, millal uuringu tulemusi meile tutvustatakse.
+<SPEAKER ID="263" NAME="Vladimír Maňka">
+fraktsiooni PSE nimel. - (SK) Lugupeetud kolleegid, kujutlegem, et Euroopa Liidus ei ole maksupettust. Kui sel viisil saadud vahendid jaotataks õiglaselt, saaks iga Euroopa Liidu kodanik, sealhulgas lapsed ja pensionärid, igal aastal 500 eurot rohkem.
+<P>
+Ükski riik ei suuda maksupettusega üksipäini tõhusalt võidelda. Rahvusvaheline koostöö on tingimata vajalik, eriti käibemaksu valdkonnas, mille puhul ühendusesiseste tehingute jälgimine on praeguse süsteemiga keeruline. Üks lahendus, millel on maksupettusega võitlemisel pikaajaline soodne mõju, oleks sellise käibemaksusüsteemi loomine, mille alusel liikmesriikidevahelisi tehinguid ei maksustataks nullmääraga. Kauba ekspordilt arvestatavat nullmääraga maksu kasutavad petturid ja kuritegelikud rühmitused, kes tekitavad näiteks fiktiivseid tehinguid ja petavad riigieelarvest välja miljardeid eurosid.
+<P>
+Praegused pikad maksudeklaratsioonide esitamise tähtajad pakuvad samuti sellise maksupettuse võimalust. Direktiivi eelnõu käsitlev raport, mida me praegu arutame, kiirendab maksupettusega võitlemiseks vajaliku teabe vahetust. See on üks põhjus, miks me lühendame ühendusesiseseid tehinguid kajastavate maksudeklaratsioonide esitamise tähtaega.
+<P>
+1993. aastal loodud käibemaksusüsteem sobib vaid üleminekuajaks. Arvan, et järgmise ametiaja alguses esitab komisjon palju kaugeleulatuvamad meetmed, mis käsitlevad lõplikku ja kõikehõlmavat käibemaksureformi. Praeguse süsteemi ajutine laad on üks põhjusi, miks ma soovin oma muudatusettepanekus, mille parlamendikomisjon heaks kiitis, et komisjon hindaks vastuvõetud meetmete mõju kolm aastat varem, kui esialgses muudatusettepanekus oli soovitatud. Selle eesmärk on hoida ära olukord, et süsteemi hinnatakse siis, kui see enam ei kehti.
+<P>
+Lõpetuseks soovin raportööri tasakaalustatud raporti eest tänada ja tunnustada. Projekt võimaldab tagada kiire reaktsiooni käibemaksupettusele. Samuti on hea, et ettevõtjad ise on märkinud, et halduskoormus muutub minimaalseks.
+<SPEAKER ID="264" NAME="Miguel Portas">
+fraktsiooni GUE/NGL nimel. - (PT) Austatud juhataja! Kui kontrollikoda ütleb, et käibemaksupettuse maht võib olla suurem kui ühenduse kogueelarve, ja Bart Staes kinnitab, et see näitaja peab olema rohkem kui kahekordne, siis on nende raportite arutelu täiesti põhjendatud. Eriti selge on see, et liikmesriigid peavad toetama registri loomist füüsilistest isikutest, kes kasutavad maksupettuseks riiulifirmasid. Toetan ka Bart Staesi ettepanekuid.
+<P>
+Sealjuures ei ole Euroopas toimuva maksupettuse puhul käibemaksu maksmisest kõrvalehoidmine peamine probleem, sest valitsused on lubanud ja võimaldanud offshore-finantskeskuste näol seaduslikku viisi maksudest hoidumiseks. Just nendes keskustes pestakse kuritegelikku raha ja seal muutuvad seaduslikud vahendid kriminaalseteks. Kui meie maksudest saadud raha kasutatakse lõpptulemusena pankade ja pankurite väljaostmiseks, siis on maksuparadiiside kaotamine tõeline vapruse proovilepanek, mille Euroopa peab lähitulevikus läbi tegema. Just selline otsus meie kohta tehakse ja me oleme endiselt valgusaastate kaugusel sellest, mida maksupettuse valdkonnas teha on vaja.
+<SPEAKER ID="265" NAME="Sergej Kozlík" AFFILIATION="NI">
+(SK) Lugupeetud juhataja, austatud parlamendiliikmed ja külalised! Kahtlemata põhjustab maksupettus märkimisväärset kahju konkurentsile ja siseturu toimimisele ning vähendab riigi tulu. Seletuskiri ei ole päris veenev, kui selles väidetakse, et kavandatud meetmed, mille ainus eesmärk on kiirendada teabe kogumist ja vahetamist ühendusesiseste tehingute kohta, ei tekita ettevõtlussektorile liigset koormust.
+<P>
+Samal ajal on komisjoni seletuskirjas tunnistatud, et ettevõtlussektoril on kahtlusi maksuametite suutlikkuses esitatud teavet kasutada. Seletuskirjas ei hajutata neid kahtlusi millegagi. Sellegipoolest tuleb maksupettusega võitlemise meetmeid millestki alustada. Ilmselt näitab üksnes praktika, kas kavandatud meetmed toimivad või põhjustavad ettevõtlussektorile vaid uue halduskoormuse.
+<SPEAKER ID="266" NAME="Bogusław Liberadzki" AFFILIATION="PSE">
+(PL) Austatud juhataja, tahaksin nii raportit kui ka probleemi ennast vaadelda esiteks pettuse, teiseks eelarvele tekitatava kahju ja kolmandaks ettevõtjate konkurentsivõime seisukohast, sest maksupettus nõrgestab ausa konkurentsi põhimõtteid.
+<P>
+Soovin raportit eriliselt kiita ja avaldada tunnustust raportöör Bart Staesile, kes on koostanud suurepärase raporti. See on üks väheseid raporteid, milles ei viidata vaid summadele, vaid nimetatakse ka liikmesriike, kus eeskirjade eiramine aset leiab. Samuti soovin avaldada tänu kontrollikojale, kes on tõstnud esile kaks peamist põhjuste rühma. Esimesse kuuluvad liikmesriikidega seotud põhjused, mida me võiksime tõlgendada teatava passiivsusena nõukogu poolt või loidusena liikmesriikide poolt, kes võiksid aidata märkimisväärselt kaasa probleemi lahendamisele. Selleks tuleks neil võtta pealtnäha lihtsaid meetmeid, mis hõlmavad näiteks kiiret ja usaldusväärset teabevahetust, ning näidata üles tahet teha kindlaks ja kõrvaldada praeguse olukorra põhjused.
+<P>
+Teine tähtis küsimus, millele voliniku sõnavõtus piisavalt tähelepanu ei pööratud, on järgmine: mida saab komisjon koos oma alluvate talitustega, näiteks maksunduse ja tolliliidu peadirektoraadi ja Euroopa Pettustevastase Ametiga (OLAF) tegelikult ära teha, selle asemel et anda sageli bürokraatlikke selgitusi, mis kõlavad umbes nii, et pingutagu me kui tahes palju, tulemusi ikka veel pole?
+<SPEAKER ID="267" NAME="Louis Michel">
+komisjoni liige. - (FR) Lugupeetud juhataja, austatud daamid ja härrad! Sooviksin tänada teid tähelepanekute ja seisukohtade eest, mida olete selle arutelu jooksul väljendanud.
+<P>
+Komisjon võtab Euroopa Parlamendi esitatud soovitusi oma praegustes ja tulevastes õigusakti ettepanekutes arvesse.
+<P>
+Mul on hea meel näha, et Euroopa Parlamendi seisukohad sarnanevad komisjoni arvamusega meetmetest, mida käibemaksupettuse vastase võitluse parandamiseks Euroopa Liidus tuleb võtta. Ma olen eriti rahul suure toetusega komisjoni esimese konkreetse ettepaneku põhieesmärgile, nimelt kiirendada 2010. aasta jaanuariks ühendusesiseseid tehinguid käsitleva teabe kogumist ja vahetamist.
+<P>
+Oleme rääkinud mõju hindamisest. Komisjon on uurinud mõjusid ettevõtluskuludele. Selgub, et need kulud on piiratud. Tegelike mõjude täpsemaks uurimiseks on komisjon valmis koostama hindamisaruande. Praeguse hindamise esialgsed tulemused, millele teie, proua Stauner, viitate, avaldatakse lähinädalatel ja seejärel kinnitatakse need koostöös liikmesriikidega.
+<P>
+Mulle on öeldud, et komisjon saab nõustuda vaid raporti muudatusettepanekutega 4 ja 7...
+<P>
+Kas te ei saa siis nõustuda raporti muudatusettepanekutega 4 ja 7?
+<P>
+Tegelikult me saame nõustuda García-Margallo y Marfili raporti muudatusettepanekutega 4 ja 7.
+<P>
+Vabandan sellise sõnavõtu pärast, aga nagu te olete märganud ja nagu te teate, ei ole ma vastutav volinik, ning seetõttu olen neis minu jaoks ülimalt keerulistes küsimustes palju vähem suhtlemisaldis kui teistes küsimustes.
+<SPEAKER ID="268" NAME="José Manuel García-Margallo y Marfil" LANGUAGE="ES">
+Uskuge mind, lugupeetud volinik Michel, ma hindan seda, et te olete lahkesti meiega ja arutate teemasid, mis on kõigi jaoks rasked.
+<P>
+Komisjon palus meil kiirustada ja me vastasime kärmelt. Õiguskomisjon avaldas õigel ajal nõuetekohaselt oma arvamuse ning harvaesineva üksmeelega kiitis majandus- ja rahanduskomisjon täna arutatava raporti heaks.
+<P>
+Volinik Michel, te lugesite maksuasjade komitee poolt teie jaoks koostatud märkmetest meile ette 1. detsembril vastu võetud nõukogu ettepanekud. Need ettepanekud ei ole siiski täpselt samad, mida me siin arutame. Meie arutame siin midagi muud. Mulle ei tule üllatusena, et nad kinnitavad meile, mida nad kavatsevad teha, sest nagu ma juba ütlesin, on nad tegelikult väga vähe teinud.
+<P>
+Euroopa Parlamendi tegutsemise kiirus sel tõesti tähtsal teemal, nagu kolleeg mainis, ei ole leidnud sama innukat järgimist ei komisjonis ega ka nõukogus.
+<P>
+Üks väga tähtis parlamendikomisjoni esimees sõnas kord, et ta ootab komisjonilt julgust, veel kord julgust ja alati julgust - "de l'audace, encore de l'audace et toujours de l'audace”. Komisjon on ainus, kes võib õigusakte algatada, ja Euroopa Parlament on soovinud, et see oleks nii, aga selline ainuõigus tähendab, et need algatused tuleb teha nähtavaks ning esitada julgelt ja kartmatult, tundmata hirmu, et nõukogu ei pruugi neid heaks kiita.
+<P>
+Algatused tuleb käima lükata, neid tuleb esile tõsta ja nende nimel võidelda ning nõukogu peab komisjonile ja Euroopa Parlamendile vastama, kui ettepanekutel pole edu. Seda pole tehtud. Oma eelmises sõnavõtus kirjeldasin, kuidas eesmärgid vähenevad, kui täiuslikud ettepanekud muutuvad traditsioonilisteks meetmeteks, meetmepaketiks, mille hulgast valitakse vaid kaks kõige tagasihoidlikumat meedet.
+<P>
+Olen Louis Michelile tänulik ja palun tal öelda vastutavale volinikule edasi minu tänusõnad paari muudatusettepaneku heakskiitmise eest, aga ma olen tõsiselt mures selle pärast, mida me siin arutasime.
+<SPEAKER ID="269" NAME="Bart Staes">
+raportöör. - (NL) Austatud juhataja, lugupeetud volinik, head kolleegid! Võin härra García-Margallo y Marfili sõnu vaid kinnitada. Minu arvates näitavad mõlemad raportid, tegelikult kolm meile esitatud raportit ning see, kuidas need on heaks kiidetud ühelt poolt majandus- ja rahanduskomisjonis ning teiselt poolt eelarvekontrollikomisjonis, suurt tahet - tahet mitte suhtuda sellesse kergekäeliselt.
+<P>
+Tegemist on suure hulga rahaga. Kujutlegem, et saaksime tagasi vaid veerandi sellest rahast. Meil oleks siis liikmesriikides ja Euroopa Liidus 60 miljardit eurot lisaraha. Me vajame seda raha. Härra Verheugen, kes on täna siin, teab, et tal on tähtis töö teha. Seega me teame, mille nimel võitleme. Me võitleme ka ebaõigluse ja ülekohtu vastu. Lõppude lõpuks tegutsevad need, kes ei maksa makse ja üritavad neist kõrvale hoiduda, ühiskonnavastaselt. Seetõttu tuleb selle kohta siin Euroopa Parlamendis otsus teha.
+<P>
+Tahaksin öelda volinik Michelile, et mõistan tema vastust. Tal on oma pädevusvaldkond. Ta asendab siin kedagi teist ja ma saan aru, et ta loeb vaid vastuse ette. See ei ole probleem. Ma võtan tema teksti kaasa ja me töötame sellega.
+<P>
+Paluksin siiski komisjonil mitte pelgalt arutada liikmesriikidega pettuse ulatust käsitlevat uurimust, mis peaks valmima aasta lõpuks, vaid esitada see ka majandus- ja rahanduskomisjonile ja eelarvekontrollikomisjonile, et saaksime samuti mitmed muud tahud lisada.
+<SPEAKER ID="270" NAME="Juhataja">
+Arutelu on lõppenud.
+<P>
+Hääletus toimub neljapäeval, 4. detsembril 2008 kell 12.00.
+<P>
+Kirjalikud avaldused (kodukorra artikkel 142)
+<SPEAKER ID="271" NAME="Sebastian Valentin Bodu  " AFFILIATION="PPE-DE">
+kirjalikult. - (RO) Kõnealune raport on eriti tähtis seetõttu, et sellega kehtestatakse mehhanismid, mille eesmärk on kõrvaldada võimalused või vähendada võimalusi käibemaksuga maksustatavate ühendusesiseste tehingutega seotud pettuse abil riiki tüssata.
+<P>
+Kahju, mis tekitatakse varifirmadega tehtavate fiktiivsete tehingute tõttu, on praegu ligikaudu sada miljonit eurot aastas (16% ELi tegelikest vahenditest).
+<P>
+Kui lühendame tähtaegu nii teabe kogumiseks kui ka vahetamiseks liikmesriikide maksuametite vahel, aitab see parandada sedalaadi tehingute jälgimist.
+<P>
+Kõnealuse raporti heakskiidetud muudatusettepaneku kohaselt, mida soovitas komisjon, hakkavad liikmesriikide maksuametid olema seotud ühise andmebaasiga, kuhu sisestatakse varifirmade taga olevate ja sedalaadi petturlike tehingute eest vastutavate füüsiliste isikute andmed.
+<P>
+See takistab neid ettevõtjaid loomast uusi ettevõtteid terves Euroopa Liidus, mitte vaid ühes liikmesriigis nagu praegu. See saavutatakse nii, et isik tuvastatakse reaalajas, kui andmebaasist andmeid kontrollitakse, ja teave saadetakse äriregistrisse, kuhu uue ettevõtte registreerimise avaldus on esitatud.
+<SPEAKER ID="272" NAME="Zbigniew Krzysztof Kuźmiuk  " LANGUAGE="PL">
+Võttes sõna arutelus maksupettuse vastase võitluse kohta, sooviksin juhtida tähelepanu järgmistele küsimustele. Käibemaksupettuse tõttu saamata jäänud tulu on eri liikmesriikides väga suur ja see kasvab igal aastal. Näiteks Saksamaal oli 2005. aastal kahju ligikaudu 17 miljardit eurot ja Ühendkuningriigis ulatus see 2005.-?2006. maksuaastal rohkem kui 18 miljardi euroni.
+<P>
+Vaatamata asjaolule, et Euroopa Liit on teinud mitu algatust käibemaksupettusega võitlemiseks, näiteks loonud Eurocaneti (käibemaksupettuses kahtlustatavaid ettevõtjaid käsitleva teabe vahetamise võrgustik, kuhu kahjuks ei kuulu Saksamaa, Ühendkuningriik ja Itaalia), ning olenemata selliste asutuste tööst nagu Europol, Eurojust ja OLAF, kasvab see kahju aasta-aastalt väga palju.
+<P>
+Selles olukorras peaksime jätma kõrvale meetmed, mis toovad kaasa uute valitsustevaheliste ametite loomise, ja tugevdama selle asemel Euroopa Komisjoni rolli liikmesriikide vahel toimuva halduskoostöö keskse koordineerijana käibemaksupettusega võitlemisel. Seetõttu tuleks vähemalt arutada, kas me peaksime looma uue mehhanismi - Eurofisci -, millest saab uus detsentraliseeritud võrgustik, milles liikmesriigid osaleksid vabatahtlikult.
+<SPEAKER ID="993" NAME="Andrzej Jan Szejna  " AFFILIATION="PSE">
+kirjalikult. - (PL) Raport, mis käsitleb ühendusesiseste tehingutega seotud maksupettuse vastu võitlemist, on väga tähtis õiguslik meede.
+<P>
+Maksupettus on rünnak ausa ja läbipaistva maksustamise vastu. Lisaks õõnestab see Euroopa Liidu tegevuse alust. Vähem raha Euroopa Liidu eelarvesse tähendab, et me ei suuda eri valdkondade poliitikat täielikult rakendada.
+<P>
+Maksupettusega võitlemine kuulub suuresti liikmesriikide pädevusse. Liikmesriigid ei tohiks siiski tegutseda ainult omaette. Kindlasti on vaja kooskõlastada tööd ühenduse tasandil ning tugevdada liikmesriikide riigiasutuste ja Euroopa Komisjoni koostööd.
+<P>
+Käibemaksureform on pikaajaline ja aeganõudev protsess. Seega on kõnealuses raportis öeldud, et tuleks kasutada tavapäraseid vahendeid. Nende hulka kuuluvad muudatused õigusaktides, mis käsitlevad maksumaksja vastutust, juhul kui vajalikke dokumente ei esitata õigel ajal või need esitatakse valesti. Teised muudatused hõlmavad teabe saamiseks vajaliku aja lühendamist ja ebaõigete andmete kiiret parandamist, samuti ühendusesiseste tehingutega seotud teabe vahetamise kiirendamist.

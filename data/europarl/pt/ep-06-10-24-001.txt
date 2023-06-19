@@ -1,0 +1,12 @@
+<CHAPTER ID="001">
+Abertura da sessão
+<P>
+(A sessão tem início às 09H05)
+<SPEAKER ID="004" NAME="Presidente">
+O senhor deputado Carnero González pede-me para usar da palavra. Imagino que seja para um ponto de ordem. Que artigo do Regimento invoca?
+<SPEAKER ID="005" NAME="Carlos Carnero González" AFFILIATION="PSE">
+(ES) Sim, Senhor Presidente, desejo simplesmente fazer referência ao facto de os meios de comunicação social estarem a noticiar que esta manhã foi sequestrado em Gaza um cidadão europeu, de nacionalidade espanhola, o Sr. Emilio Morenatti, por um grupo de homens armados. Pedia-lhe que se dirigisse à Presidência do Conselho e à Comissão para que envidem todos os esforços possíveis...
+<P>
+(O Presidente retira a palavra ao orador)
+<SPEAKER ID="006" NAME="Presidente">
+Não se trata de um ponto de ordem. Entendo a sua preocupação, mas devemos respeitar o Regimento. Tomo boa nota das suas palavras, obrigado.

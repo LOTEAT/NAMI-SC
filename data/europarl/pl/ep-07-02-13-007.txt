@@ -1,0 +1,4 @@
+<CHAPTER ID="007">
+Zatwierdzenie protokołu z poprzedniego posiedzenia: patrz protokół
+<P>
+(Das Protokoll der vorangegangenen Sitzung wird genehmigt.)

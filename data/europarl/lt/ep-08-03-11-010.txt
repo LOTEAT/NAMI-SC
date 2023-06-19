@@ -1,0 +1,6 @@
+<CHAPTER ID="010">
+Balsavimo laikas
+<SPEAKER ID="090" NAME="Pirmininkas">
+Kitas darbotvarkės klausimas yra balsavimas.
+<P>
+(Rezultatai ir kita išsami balsavimo informacija pateikta protokole)

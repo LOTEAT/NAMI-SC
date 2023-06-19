@@ -1,0 +1,1108 @@
+<CHAPTER ID="1">
+<SPEAKER ID="1" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="2" LANGUAGE="" NAME="" AFFILIATION="(Istunto avattiin klo 10.00.)">
+<SPEAKER ID="3" LANGUAGE="" NAME="Puhemies. –" AFFILIATION="">
+<P>
+   Esityslistalla on seuraavana komission julkilausuma eläinten kuljetuksesta. 
+<SPEAKER ID="4" LANGUAGE="EL" NAME="Kyprianou," AFFILIATION="komissio">
+<P>
+   . Arvoisa puhemies, hyvät parlamentin jäsenet, haluan aluksi kiittää siitä, että saan esittää teille tänään komission näkemyksen näin tärkeästä ja tunteita herättävästä aiheesta. Ymmärrän, että Euroopan parlamentti on huolestunut ja kiinnostunut näin merkittävästä asiasta, ja yhdyn siihen tältä osin.
+<P>
+Voin vakuuttaa, että tiedän erittäin hyvin, kuinka tärkeä aihe on sekä Euroopan parlamentille ja komissiolle että miljoonille kansalaisille ja maanviljelijöille samoin kuin asianomaisille virastoille. Minulla ei ole epäilystäkään siitä, että Euroopan yhteisöllä on hyvin tärkeä tehtävä eläinten ruokinta-, kuljetus- ja teurastusolosuhteiden parantamisessa. 
+<SPEAKER ID="5" LANGUAGE="EN" NAME="" AFFILIATION="nimenomaisesti">
+<P>
+Eläinten hyvinvoinnin parantaminen kuljetuksen aikana osana jokapäiväistä todellisuutta eikä pelkästään säädöskokoelman teksteissä on minulle tärkeä tavoite. Olen tiennyt pitkään, että nykyistä eläinkuljetuslainsäädäntöä sovelletaan epätyydyttävästi eivätkä kansalliset viranomaiset näytä pitävän tätä lainsäädännön alaa ensisijaisena.
+<P>
+Eläinten hyvinvointia koskevan lainsäädännön asianmukainen ja täysimääräinen täytäntöönpano on ehdottoman tärkeää, samoin eläinten kuljetusolosuhteiden välitön parantaminen. Tästä syystä komissio hyväksyy puheenjohtajavaltion neuvostossa tekemän asteittaisen aloitteen, vaikka komissio haluaakin rajoittaa maantiekuljetusten kestoa ja ajoneuvojen lastausmääriä tehokkaammin.
+<P>
+Katsoimme, että on tärkeää hyödyntää tämä käytettävissämme oleva merkittävä parannusmahdollisuus. Toisena vaihtoehtona olisi ollut koko asian lykkääminen epämääräiseen tulevaisuuteen. Haluan painottaa, ettei tämä suinkaan estä tulevien ratkaisujen parantelua, mitä selvitän tuonnempana tarkemmin. Näin olemme päätyneet entistä paljon tiukempiin sääntöihin, joilla parannetaan eläinten nykyisiä oloja merkittävästi ja joita on ryhdyttävä soveltamaan mahdollisimman pian. Ne koskevat muun muassa pitkän matkan kuljetuksia, ja niissä on paranneltu tuntuvasti ajoneuvovaatimuksia. Ne saatetaan voimaan mahdollisimman ripeästi osana EU:n sääntöjä.
+<P>
+Haluan tähdentää, että valtaosa parlamentin tekemistä tarkistuksista on otettu huomioon ja sisällytetty lopulliseen tekstiin, ja kiitän parlamenttia sen merkittävästä panoksesta.
+<P>
+En epäröi myöntää, että mielestäni on onnetonta, ettemme päässeet yhteisymmärrykseen kuljetusaikoja ja lastausmääriä koskevista rajoituksista. Tällaisilla säännöksillä ei ollut läpimenon mahdollisuuksia neuvostossa – tämä minun on rehellisesti tunnustettava – ja huhtikuussa 2004 kokoontuneen maatalousneuvoston epäonnistuminen sopimisessa oli tästä selkeä varoitus. Jollei neuvoston viime kokouksessa olisi päästy asiasta sopimukseen, nykyiset luvattoman kehnot olosuhteet olisivat jatkuneet epämääräisen ajan ja niiden kohentaminen olisi viivästynyt huomattavasti. Tämä ei kuitenkaan tarkoita, etteikö kaikkia mahdollisuuksia kuljetusaikoja koskevien säännösten tehostamiseen tulisi hyödyntää ja etteikö näin myös ole aikomus tehdä.
+<P>
+Tähän on mahdollisuus ensinnäkin siksi, että lopullisessa tekstissä säädetään, että komissio raportoi neuvostolle neljän vuoden kuluessa – ei siis neljän vuoden kuluttua – asetuksen täytäntöönpanosta kuljetusaikoja ja lastausmääriä koskevista seikoista ja mahdollisesti muuttaa lähestymistapaansa uusien sääntöjen soveltamisesta saatujen kokemusten perusteella. Tärkeänä lisänä huomattakoon, että asetuksen säännöksistä riippumatta komissio arvioi huolellisesti tilannetta ja vallitsevia poliittisia edellytyksiä ja aikoo käyttää aloiteoikeuttaan. Halusin säilyttää tämän oikeuden, kun komissio suostui kompromissiin.
+<P>
+Luettelen seuraavassa valikoiden osan uuden asetuksen myötä lähitulevaisuudessa toteutuvista parannuksista. En aio lukea neljän sivun mittaista luetteloa. Sitä ennen haluan kuitenkin palauttaa parlamentin jäsenten mieleen, että asetuksen mukaan jäsenvaltioilla on oikeus antaa ja panna täytäntöön alueellaan rajoittavampia sääntöjä kuin asetuksessa säädetään. Tässä on siis haastetta jäsenvaltioille – ja teille. Jos tarpeeksi moni jäsenvaltio antaa tiukemmat säännöt, muihin kohdistuva poliittinen paine, vertaispaine, on entistä selvempää ja voimakkaampaa. Voimassa olevaan asetukseen tarvitaan kuitenkin parannuksia.
+<P>
+Tieliikenteen ajoneuvoissa käytetään ensinnäkin satelliittinavigointijärjestelmää vuodesta 2007 alkaen. Kuorma-autojen sisälle tulee koneellinen ilmanvaihto ja lämpötilanseuranta, vesihuoltoa ja juontimahdollisuuksia parannetaan, hevoskuljetuksissa otetaan käyttöön yksittäiset pilttuut ja eräitä muita ehtoja. Kuljettajia koskevia koulutusvaatimuksia tiukennetaan ja tiineiden, sairaiden ja haavoittuneiden eläinten kuljetus kielletään. Hallinnollisilla säännöksillä varmistetaan eri jäsenvaltioiden viranomaisten tarkastusten johdonmukaisuus. Tämä koskee kaikkia kuljetuksia.
+<P>
+Kuten tiedätte, Euroopan parlamentti vauhditti satelliittinavigointijärjestelmien käyttöä viime kuussa ja komissio kannatti asiaa. Ne ovatkin innovatiivinen ja lupaava väline eläinkuljetusten seuraamiseksi, ja komissio on valmis panostamaan niihin välittömästi. Tämän tekniikan asianmukainen käyttö edistää osaltaan eläinkuljetusten avoimuutta ja laatua Euroopan unionissa. Tämä on kansalaisten toiveiden mukaista ja helpottaa täytäntöönpanoa. Asia on erittäin tärkeä. Säänteleminen ja sääntöjen antaminen ei riitä, vaan meillä on oltava myös keinot niiden täytäntöönpanemiseksi ja täytäntöönpanon valvomiseksi. Euroopan unionin kansalaiset ovat lukemattomia kertoja ja monin eri tavoin kiinnittäneet huomiota siihen, että tehokkaan täytäntöönpanon puute on ollut nykyjärjestelmän olennainen heikkous. Olen täysin samaa mieltä. Olen päättänyt ja luvannut panna eläinten hyvinvointia koskevat säännöt entistä tehokkaammin täytäntöön ja vaatia jäsenvaltioita antamaan seikkaperäisen tilanneselvityksen tehdyistä tarkastuksista. Peräämme jäsenvaltioilta vastakin näitä tietoja, ja olen iloinen siitä, että uusi lainsäädäntö antaa meille tähän tehokkaammat mahdollisuudet.
+<P>
+Lyhyesti sanottuna ilmoitimme neuvoston istunnossa, että komissio varaa oikeuden reagoida perustamissopimuksen määräysten mukaisesti asianmukaisella tavalla eläinten hyvinvoinnin vaatimuksiin. Näin ollen komissio seuraa jatkossakin valppaasti ja tiiviisti eläinkuljetusten tilaa jäsenvaltioissa. Olemme jatkuvasti valmiina tekemään lainsäädäntöaloitteen, mikäli eläinten hyvinvoinnin edellytyksiä on edelleen parannettava.
+<P>
+Haluaisin mainita vielä kaksi seikkaa. Eläinten hyvinvoinnin parantaminen on ensinnäkin jatkuva prosessi. Kyse ei ole vain yhdestä asetuksesta, sillä valmistelemme parhaillaan uusia parannuksia siipikarjan oloihin ja kuljetusajoneuvojen sisätilojen pienilmastoon. Tämä ei siis pääty tähän, olemme vasta alussa.
+<P>
+Olen samalla arvioinut viimekertaisessa neuvoston kokouksessa tarjolla olleita vaihtoehtoja. Valittavina eivät olleet ihanneolot ja kompromissi, vaan oli valittava joko kompromissi tai nykytilanteen ja nykyisin vallitsevien luvattoman heikkojen olosuhteiden jatkuminen hamaan tulevaisuuteen. Ymmärtänette, että päätöksestä vastuun kantavan on punnittava eri vaihtoehtojen hyvät ja huonot puolet ja päätettävä, kumpi tie valitaan. Voin vakuuttaa, että komission ainoa huoli tässä asiassa oli eläinten hyvinvointi ja käytännön parannusten aikaansaaminen mahdollisimman pian. Emme pelkästään pitäneet kiinni periaatteesta – se olisi loppujen lopuksi ollut eläimille haitaksi, koska emme olisi silloin kyenneet parantamaan nykyisiä olosuhteita millään tavoin.
+<P>
+Toistan, että nyt aikaansaadulla kompromissilla parannetaan huomattavasti nykyistä tilannetta eikä rajoiteta komission oikeutta palata näihin erittäin tärkeisiin kysymyksiin. Uskokaa minua, tämä oli komission ehdotus. Olisimme paljon tyytyväisempiä, jos nämä säännökset olisi sisällytetty ja hyväksytty kompromissiin. Valitettavasti tällaiseen yhteisymmärrykseen ei nyt ollut mahdollisuutta. Saanen ehdottaa kääntymistä eri kansalaisjärjestöjen puoleen. Järjestöt eivät olleet tyytyväisiä, mutta hyväksyivät kompromissin, koska ne ymmärsivät sen olevan merkittävä askel eteenpäin.
+<P>
+Lopuksi haluan vakuuttaa teille – ja olen halukas kuulemaan huomioitanne, sillä pidän parlamenttia komission merkittävänä liittolaisena tässä asiassa – että aikomuksenani on ennen komission toimikauden loppua ja ehdottomasti ennen parlamentin vaalikauden loppua tehdä uusi ehdotus ja käydä uusi keskustelu aiheesta. Tähän komissio on sitoutunut. Suurin epävarmuus ja haaste on kuitenkin siinä, saammeko jäsenvaltiot aikanaan hyväksymään kyseisen uuden ehdotuksen. 
+<SPEAKER ID="6" LANGUAGE="NL" NAME="Maat (PPE-DE )," AFFILIATION="ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, haluan kiittää komission jäsentä Kyprianoua sydämellisesti siitä, miten avoimesti hän on ottanut tämän aiheen jälleen esiin. Olette vasta hiljattain aloittanut tehtävässänne, ja uskon, että teidän suhtautumisenne tarjoaa joka tapauksessa mahdollisuuden erittäin hyvään yhteistyöhön parlamentin ja komission kesken tälläkin alalla. Minulla on hyvä syy sanoa näin: osuitte naulan kantaan todetessanne äsken, että suurin ongelma Euroopan eläinkuljetuksissa on jäsenvaltioiden kiinnostuksen puute. Tämä on meidän ongelmakohtamme, ja sen ratkaiseminen olisi suunnaton edistysaskel.
+<P>
+Annan valaisevan esimerkin. Olen pannut merkille, että nykyisin erityisesti Itävallan hallitus suoriutuu tehtävästään hyvin ja hoitaa valvonnan erittäin kiitettävästi. Tämän vuoksi suuri osa kansainvälisistä Italiaan suuntautuvista teuraskuljetuksista on siirtynyt yhtäkkiä muiden maiden teille. Tällainen tilanne syntyy, kun monet muut jäsenvaltiot laiminlyövät velvoitteensa. Tältä osin Itävallan mallista olisi tehtävä Euroopan unionin malli: näin varmistetaan tehokas lainsäädäntö ja tehokas täytäntöönpano. Näin tämä ikävä keskustelu saadaan kokonaan loppumaan.
+<P>
+Neuvosto on kuitenkin päässyt yksimielisyyteen ja tehnyt sen mukaisen muutoksen ilmoittamatta asiasta etukäteen parlamentille, mikä on mielestäni ikävää ja mistä neuvostoa myös moitin. On kuitenkin lisättävä, että tilanne olisi nykyistäkin huonompi ilman tätä aloitetta, koska sopimus on eittämättä parannus nykyiseen lainsäädäntöön. Te tiedätte parlamentin kannan. Toimin itse teuraskuljetusten enimmäiskestoa koskevan mietinnön esittelijänä. Nyt on osoittautunut, ettei asiasta päästä sopimukseen neuvostossa. Panen kuitenkin merkille, että satelliittiseurantajärjestelmä todellakin aiotaan ottaa käyttöön ja että nykyisten sääntöjen täytäntöönpanoa tehostetaan. Tältä osin haluaisin kuulla, miten komissio aikoo saada jäsenvaltiot toteuttamaan asian. Tarvitaanko tähän muita välineitä, myös parlamentin taholta? Haluaisin niin ikään tietää, miten komissio aikoo viedä asiaa eteenpäin koulutuksen parantamiseksi. Lisäksi huomaan, että tilojen väliset kuljetukset on vapautettu. Olisimme mielellämme nähneet tekstissä mainittavan 100 kilometriä, mutta tätä neuvosto ei ilmeisestikään voinut hyväksyä. Olemme joka tapauksessa edistyneet hieman.
+<P>
+Haluan ottaa esiin vielä kaksi seikkaa. Ensimmäinen niistä on, että jalostuskarjan kuljetuksia ja niille säädettyjä lepoaikoja koskevia säännöksiä arvostellaan edelleen suuresti. Eläimet on kuljettava mahdollisimman nopeasti, ja olisi edistystä, jos myös jalostuskarjan kuljetuksissa – jotka yleisesti ottaen tapahtuvat erittäin hyvissä olosuhteissa – otettaisiin käyttöön lepojaksojen vähimmäismäärä. Tämä merkitsee, että eläimiä voidaan kuljettaa myös keskipitkiä matkoja. Sama koskee lauttojen ro-ro-järjestelmiä. Asiaa auttaisi suuresti, jos jäsenvaltioille kerrottaisiin, että tämä on normaalia lepoaikaa. Näin parannettaisiin taas hieman eläinkuljetusten laatua.
+<P>
+Entisenä esittelijänä olen hieman pettynyt siihen, ettei teuraskuljetusten enimmäiskestosta ole päästy sopimukseen. Mielestäni säännöskokonaisuus on kuitenkin aito parannus. Olen erittäin kiinnostunut kuulemaan, mitä ehdotuksia komission jäsen aikoo tehdä vuoteen 2009 mennessä luodakseen hyvät suhteet yhteistyölle parlamentin kanssa ja ennen muuta saadakseen jäsenvaltiot noudattamaan Euroopan unionin sääntöjä. 
+<SPEAKER ID="7" LANGUAGE="NL" NAME="Berman (PSE )," AFFILIATION="ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, kiitän komission jäsentä näistä sanoista. Jaan hänen pettymyksensä neuvoston kompromissiin, joka ei tuo parannusta eläinkuljetuksen kestoon, lepoaikoihin eikä lastausmääriin. Tällaisena tilanne voi säilyä monia vuosia.
+<P>
+Toivotan neuvostolle menestystä yrityksiin selittää tätä kompromissia Euroopan unionin suurelle yleisölle. Kompromissi on erittäin huono, myös koko alan imagolle, eikä sitä voida hyväksyä eläinten hyvinvoinnin pohjalta. Näin ollen kannatan jäsenkollegojeni ehdotusta rajoittaa kuljetuksen enimmäiskestoaikaa kahdeksaan tuntiin. Ainoastaan tällaisella päätöksellä osoitetaan, että Euroopan unioni suhtautuu todellakin vakavasti kestävään maatalouteen, jonka ensisijaisiin tavoitteisiin on luettava myös eläinten hyvinvointi.
+<P>
+Euroopan unionia rakennetaan pienin askelin, kuten kaikki tiedämme, ja tämä onkin erittäin hyvä, monesti peräti paras tapa. Kun EU nyt etenee liian pienin askelin kohti eläinten parempaa vointia, eläimiä rahdataan tuhansia kilometrejä Euroopassa eri suuntiin julmissa oloissa. Niistä on varmaan herttaista ja rauhoittavaa tietää, että niitä seurataan satelliittien välityksellä koko matkan. 
+<SPEAKER ID="8" LANGUAGE="EN" NAME="Harkin (ALDE )," AFFILIATION="ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, olen yhtä mieltä komission jäsenen toteamuksen kanssa. Asia on hyvin tärkeä. Olen yhtä mieltä myös siitä, että EU on vaikuttanut merkittävästi siihen, millä tavoin eläimiä ruokitaan, kuljetetaan ja teurastetaan. Kuten komission jäsen totesi, EU on tehnyt monia parannuksia eläinten hyvinvointiin kuljetusten aikana. Osa niistä on jo mainittu: ehdotukset koskevat satelliittiseurantajärjestelmää, ilmanvaihtoa ja lämpötilan seurantaa, kuljettajien tiukempia koulutusvaatimuksia ja viranomaistarkastusten lisäämistä monissa maissa. Edistystä on tapahtunut.
+<P>
+Tuon kantani esiin selvästi siksikin, että edustan Euroopan parlamentin jäsenenä sekä maaseutu- että kaupunkiäänestäjiä. Maatalouden merkitys on Pohjois- ja Länsi-Irlannissa edelleen hyvin suuri. Maatalouselinkeino on tosiaan saanut paljon tukea EU:lta.
+<P>
+Elävien eläinten kuljetukset ovat erittäin merkittävää laillista liiketoimintaa Irlannissa. Viemme ulkomaille noin 90 prosenttia eläimistämme, ja niistä noin 10 prosenttia eli 200 000 elävää eläintä viedään vuosittain Ranskan, Italian, Espanjan ja Alankomaiden markkinoille. Kaupan vuotuinen arvo on yli 150 miljoonaa euroa. Siksi vilkas vientikauppa on välttämätön Irlannin maataloudelle ja koko karjankasvatusalalle. Katson, että meidän on päästävä yhtenäismarkkinoille. Irlantilaisten vieroitusikäisten eläinten markkinat ovat Euroopassa hyvät, eikä näitä markkinoita pitäisi mielestäni haitata. Vapaa pääsy markkinoille kuuluu toki EU:n politiikan kulmakiviin. Meidän on tasapainotettava eläinten hyvinvointia suhteessa markkinoille pääsyyn ja maatalouden tukeen, ei pelkästään Irlannissa vaan koko EU:ssa.
+<P>
+Tältäkin osin olen yhtä mieltä komission jäsenen kanssa. Meidän on pantava säännökset täytäntöön eikä kellään ole siihen huomautettavaa – sen enempää kuluttajilla kuin maatalousyrittäjilläkään. Tämä on kaikkien etujemme mukaista. Toinen elävien eläinten kuljetukseen liittyvä seikka on, että kauppa lisää Irlannissa kilpailua. Sekin on EU:n kulmakivi. Uskon, että olemme edistyneet; meillä on todennäköisesti vielä tehtävää, mutta komissio tekee hyödyllistä työtä. 
+<SPEAKER ID="9" LANGUAGE="SV" NAME="Schlyter (Verts/ALE )," AFFILIATION="ryhmän puolesta.">
+<P>
+    Arvoisa puhemies, tein neuvoston marraskuisen päätöksen jälkeen aloitteen tämän ylimääräisen keskustelun järjestämiseksi. Muutaman teknisen parannuksen tuloksena oli peräti kuuden vuoden viivästys tässä eläintemme suojelua koskevassa asiassa. Se merkitsi, etteivät parlamentti ja komissio olisi saaneet vaali- ja toimikaudellaan tilaisuutta kohentaa eläinten oloja. Tällainen asiantila on aivan kohtuuton.
+<P>
+Neuvoston päätös poikkesi siinä määrin ehdotuksesta, että epäilin jopa sen laillisuutta. Arvoisa komission jäsen Kyprianou, toivon, että toteutatte mahdollisimman pian tavoitteenne esittää lastausmääriä ja kuljetusaikoja koskevat ehdotuksenne. Toivon myös, että käytätte perussopimuksen liikennettä, kuluttajansuojaa ja terveyttä koskevia artikloja oikeusperustana, jotta parlamentti voi osallistua asiaan yhteispäätösmenettelyssä. Näin pystyisimme yhdessä murtamaan neuvoston vastarinnan järjestää eläimille kohtuulliset olosuhteet. Valitettavasti neuvosto kuuntelee enemmän lobbareita kuin meidän mielipidettämme.
+<P>
+Yhteiskunnan kypsyneisyys näkyy siitä, millä tavoin se kohtelee puolustuskyvyttömiä luontokappeleita. Jos eläinkuljetuksia koskevat säännöt ovat osoitus Euroopan unionin kypsyneisyydestä, olemme valitettavasti vielä barbaarien asteella. Kehotan ministereitä matkustamaan kanssani Tukholman ja Brysselin väliä samoissa olosuhteissa, joita eläinkuljetuksiin sovelletaan. Ehkä he sitten ymmärtävät, mitä he ovat saaneet aikaan.
+<P>
+Jos oletetaan, että olemme 75-kiloisia lampaita, meitä mahdutetaan kymmenen yhden kaksoissängyn kokoiseen tilaan. Jos oletetaan, että olemme kanoja, toteamme yläpuolella olevien ulosteiden tippuvan alla olevien niskaan. Jos oletetaan, että olemme sikoja, neuvoston päätöksen mukaan me saamme sähköiskuja, jos kieltäydymme liikkumasta. Meille annetaan vettä vasta 14 tunnin kuluttua, minkä jälkeen matkaa jatketaan toiset 14 tuntia. Lisäksi meidän on pidettävä huolta siitä, että neuvoston sääntöjen mukaisesti lämpötila pysyy matkan aikana 5 asteen yläpuolella. 
+<SPEAKER ID="10" LANGUAGE="DE" NAME="Markov (GUE/NGL )," AFFILIATION="ryhmän puolesta">
+<P>
+    Arvoisa puhemies, arvoisa komission jäsen, meidän oletetaan uskovan, kun neuvosto kertoo Euroopan unionin haluavan edistää kestävää kehitystä. Jos kuitenkin havainnoimme todellisuutta niissä kohdin, joissa asiaa olisi mahdollista toteuttaa, ja katsomme, miten neuvosto käytännössä toimii, huomaamme, etteivät jäsenvaltiot todellakaan pysty saamaan kasaan tähän tarvittavaa tahtoa.
+<P>
+Eläimet saavat jälleen kerran väistyä, kun on tehtävä valinta niiden suojelun ja niitä lihottavien yhtiöiden voittojen kesken. Myönnän silti, että komissio on yrittänyt kaikkensa, enkä kiellä, että muutamia muutoksia parempaan on tapahtunut. Taustalla vaikuttaa kuitenkin sama periaate kuin aina ennenkin.
+<P>
+Osa teistä neuvoston jäsenistä on päättänyt, ettette halua rajoittaa eläinkuljetusten kestoa tai määritellä sallittuja lastausmääriä. Olen silti täysin varma siitä, että ottaisitte nopeasti käyttöön uudet säännöt, jos lemmikkieläimiänne kuljetettaisiin pitkin ja poikin Eurooppaa. Jos haluamme puolustaa oikeutta elämään ja eläinten oikeuksia, meidän on lähestyttävä asiaa toisesta näkökulmasta.
+<P>
+GSP-satelliittinavigointijärjestelmän käyttöönotolla saadaan tietysti aikaan jotain: tarkastuksia voidaan tehdä tehokkaammin. Sitä ei käy kieltäminen. Samaten se, että eläimille varmistetaan veden saatavuus ja parempi ilmanvaihto, on ilman muuta pieni parannus, joskaan se ei ratkaise ongelmaa. Jos kannatamme aluekehitystä, tässä on todellinen tilaisuus osoittaa asia. Eläimiä voi nimittäin kasvattaa, lihottaa ja jalostaa samalla paikalla tai omalla seudulla tarvitsematta järjestää tällaisia kuljetuksia Euroopan unionin laidasta laitaan.
+<P>
+En todellakaan ymmärrä, miten kollega Maat voi kuvailla tätä valtavaksi edistysaskeleeksi. Minulle se ei ole sellainen. Siinä paikkaillaan asioita eikä puututa millään tavoin suurimpiin ongelmiin tai poisteta näille eläimille koituvan kärsimyksen pääsyitä. 
+<SPEAKER ID="11" LANGUAGE="EN" NAME="Wise (IND/DEM )," AFFILIATION="ryhmän puolesta.">
+<P>
+    Arvoisa puhemies, arvostelen erittäin ankarasti sitä vahinkoa, jonka EU on Britannialle aiheuttanut, ja kannatan intohimoisesti Britannian vetäytymistä unionista. Euroopan unioni tuhoaa työpaikkoja – kuten Tony Blair totesi vaalipuheessaan vuonna 1983. Euroopan unioni on niin ikään saattanut voimaan lainsäädäntöä, joka on johtanut satojen paikallisteurastamoiden sulkemiseen. Silti tämä hampaaton parlamentti antaa päätöslauselmia, jotka niin neuvosto kuin komissiokin jättävät aikanaan huomiotta.
+<P>
+Parlamentin päätökset eläinkuljetuksista on toistuvasti sivuutettu, ja hirveät kärsimykset jatkuvat. Vuosittain yli 3 miljoonaa eläintä joutuu kestämään ainakin 30-tuntisia kuljetuksia, joiden olosuhteita on mahdoton hyväksyä. Monet kuolevat kuljetuksen aikana.
+<P>
+Ikään kuin tilanne ei vielä olisi tarpeeksi huono, Euroopan unioni suunnittelee kärsimysten lisäämistä REACH-direktiivin avulla. Näemme vielä, kuinka miljoonia uusia eläimiä kuljetellaan eri puolille elävien eläinten testausta varten. Minulla on viesti niille ulkomaailman – todellisen maailman – edustajille, jotka ovat yhtä tyrmistyneitä tästä kaikesta kuin minä. Toivon, että Euroopan unioni puuttuu vähemmän asioihin ja antaa vähemmän lainsäädäntöä, sillä jos Euroopan unioni on vastaus kysymykseen, kysymyksen on täytynyt olla erittäin tyhmä. 
+<SPEAKER ID="12" LANGUAGE="ES" NAME="Herranz García (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, eläinten hyvinvointi kuljetuksen aikana on huolestuttanut parlamenttia toistuvasti viime vuosina. Rohkenen väittää, että se on herättänyt enemmän huolta kuin miljoonat nälkään kuolevat tai huonoissa oloissa elävät lapset nykypäivän Euroopassa.
+<P>
+Jos humanitaariset järjestöt, jotka toimivat näiden henkilöiden hyväksi, olisivat toimineet yhtä päättäväisesti kuin eläinten asiaa puolustavat kollegansa, Euroopassa päivittäin kuolevia lapsia olisi todennäköisesti voitu auttaa jollain tapaa.
+<P>
+Paneudun aiheeseen tarkemmin. Parlamentti on antanut kolmen viime vuoden aikana kaksi lausuntoa eläinten hyvinvoinnista kuljetuksen aikana. Katson, ettei asialle ole tarpeen omistaa lisää aikaa, koska se saatiin marraskuussa onneksi järjestykseen Euroopan unionin ministerineuvoston päästyä asiassa yhteisymmärrykseen.
+<P>
+Mielestäni puheenjohtajavaltio Irlannin tekemä kompromissiesitys oli parempi. Siihen sisältyi kuljetusten kestoa koskeva kohtuullinen rajoitus, ja siinä otettiin huomioon sekä eläinten hyvinvointi että tavaroiden vapaa liikkuvuus Euroopan unionissa. Palautan parlamentin mieleen nämä ajat: yhdeksän tuntia kuljetusta ja 12 tuntia lepoaikaa, ja sen jälkeen taas yhdeksän tuntia kuljetusta. Puheenjohtajavaltio Alankomaiden johdolla tänään saavutettu yhteisymmärrys ei muuta mitenkään nykyisiä kuljetuksen kestoa koskevia säännöksiä. Tätä keskustelumme kannalta keskeistä asiaa koskeva päätös on nyt lykkääntynyt kuudella vuodella.
+<P>
+Lykkääntymisen syynä ovat jäsenvaltioiden välillä edelleen vallitsevat mielipide-erot. Tuloksena on umpikuja. Haluan kuitenkin selventää yhtä seikkaa, jonka monet keskustelua seuranneet ovat jättäneet huomiotta ja joka olisi saatettava kansalaisten tietoon. Nykyistenkin säännösten mukaan kuljetuksen enimmäiskesto on kahdeksan tuntia, mikäli kuljetukseen käytetään ajoneuvoja, jotka eivät täytä asetuksissa säädettyjä vaatimuksia. Näitä vaatimuksia on edelleen tiukennettu ministerineuvostossa aikaansaadun yhteisymmärryksen myötä. 
+<SPEAKER ID="13" LANGUAGE="EN" NAME="McAvan (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, ymmärrän, että komissio on lähtenyt tähän ratkaisuun mukaan, sillä se on käytännönläheinen. Neuvosto ei aikonutkaan tehdä pidemmälle meneviä ratkaisuja. On silti erittäin suuri pettymys, kuten kaikki ovat todenneet, ettemme saaneet aikaan säännöksiä kuljetuksen kestosta, joka oli yksi keskeisistä kysymyksistä, tai lastausmääristä. Jäsenvaltiot voivat antaa tiukempaa lainsäädäntöä. Haluamme täällä parlamentissa suuremman sananvallan näissä asioissa, mutta sitä meillä ei vielä ole. Painostan varmasti omaa hallitustani viemään asiaa eteenpäin.
+<P>
+Arvoisa komission jäsen, olen tyytyväinen, että otitte esiin täytäntöönpanon. Muun muassa sillä alalla lainsäädäntö on aiemmin epäonnistunut. Tietänette, että kansalaisjärjestöt ovat toimittaneet meille videolla todisteita siitä, kuinka lainsäädäntöä kierretään ja katsotaan läpi sormien. Sanoitte esittelevänne lisää lainsäädäntöä neljän vuoden kuluttua. Toivottavasti teette niin. Toivottavasti pidätte parlamentin ajan tasalla siitä, mitä tällä välin tapahtuu. Haluamme kuulla, miten tehostettu täytäntöönpano etenee. Takaan, että parlamentti on takananne, kun tuotte lainsäädäntöä käsiteltäväksi. Olemme jo laatineet kirjallisen kannanoton kuljetusten kestosta. Olen varma, että sitoumuksemme pysyy. 
+<SPEAKER ID="14" LANGUAGE="DA" NAME="Auken (Verts/ALE )." AFFILIATION="(Puhemies keskeytti puhujan.)">
+<P>
+    Arvoisa puhemies, eläinsuojelu olisi siirrettävä välittömästi pois maataloutta koskevan otsakkeen ja 37 artiklan alta. Se voitaisiin luonnollisesti siirtää terveydensuojelun ja kuluttajansuojan piiriin. Silloin komission jäsen Kyprianou olisi vastuussa siitä, mikä kuulostaa rauhoittavalta.
+<P>
+Tanskassa asiasta vastaa oikeusministeriö. Katsomme, että eläinsuojelu kuuluu oikeudelliseen suojeluun, mutta 37 artikla koskee yksinomaan tuotannon ja tulojen lisäämistä. Eläinparkojen on kärsittävä kaikenlaista pahoinpitelyä, kun niiden suojelukin on alistettu ahneudelle. Onhan irvokasta, että hevosten, lehmien ja lampaiden lähettämisestä EU:n ulkopuolelle maksetaan vientitukea. Eläimet, jotka on tarkoitus teurastaa, pitäisi kuljettaa ainoastaan lähimpään teurastamoon, kunhan se vie enintään kahdeksan tuntia. Valtaosa tanskalaisista on tällä kannalla. Eläimiä, joita ei viedä teuraaksi, tulisi kuljettaa korkeintaan kahdeksan tuntia ilman lepoa, ruokaa ja ilmanvaihtoa, ja eläintilojen on oltava kunnossa. Myös tätä enemmistö tanskalaisista kannattaa.
+<P>
+Edellinen parlamentti totesi saman asian. Onkin kysyttävä, miksei komissio kääntynyt neuvoston puoleen ja vaatinut näiden ehtojen noudattamista. Kun saamme uuden perustuslain, parlamentille tulee oikeus yhteispäätösmenettelyyn. Parlamentilla olisi tämä oikeus jo nyt, jollei eläinsuojeluasioihin sovellettaisi 37 artiklaa.
+<P>
+On toinenkin asia – nimittäin avoimuus – josta oikeusasiamiehemme nimenomaan totesi, että uuden perustuslain säännöksiä voitaisiin käyttää asianmukaisesti, mikäli sille saadaan näin laaja kannatus, joten mahdollisuudet parlamentin saamiseksi mukaan tähän menettelyyn ovat nyt kaksinkertaiset. Tässä on valittu strategia, jolla päätös on kiirehditty läpi, ikään kuin tarkoituksena olisi ollut pitää sekä kansa että parlamentti kaukana asiaa koskevasta päätöksenteosta seuraavien kuuden vuoden ajan. Me olemme ja eritoten minä olen pannut merkille, että jäsenvaltioiden on pantava täytäntöön päätöksiä, joissa mennään pitemmälle...
+<SPEAKER ID="15" LANGUAGE="NL" NAME="Meijer (GUE/NGL )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, käsiteltävänä oleva ongelma on rajat ylittävä asia, eikä sitä voida ratkaista pelkästään kansallisella lainsäädännöllä. Tästä syystä se on Euroopan komission ja Euroopan parlamentin tehtävä. Parlamenttiin on vuosia virrannut vetoomuksia, joissa ihmiset vaativat oikeutetusti kiinnittämään huomiota eläinten kuljetuksissa tapahtuviin väärinkäytöksiin. Tämä koskee erityisesti hevosia: ne tulevat elämänsä ehtooseen hyötyeläimenä idässä mutta niiden kohtalona olla tulla teurastetuiksi ja syödyiksi etelässä. Monia kuljetetaan kuorma-autoissa erittäin kauan. Niille annetaan vähän syömistä tai juomista, ne likaavat itsensä, joutuvat pakokauhun valtaan ja loukkaavat itsensä. Tämä voidaan estää ainoastaan lyhentämällä radikaalisti elävien eläinten sallittua kuljetusmatkaa ja -aikaa. Vuoden 2004 alussa täällä parlamentissa kinasteltiin siitä, pitäisikö meidän sallia kahdeksan vai yhdeksän tuntia kestävät kuljetukset, valitsemmeko rajalliset, halvat suojelutoimenpiteet vai asiaan tehokkaammin puuttuvat kalliimmat toimenpiteet. Tuolloin parlamentti teki varsin maltillisen valinnan, mutta sekin oli liikaa monien jäsenvaltioiden hallituksille. Tämän seurauksena annamme edelleen mahdollisuuden jatkaa väärinkäytöksiä.
+<P>
+Avainkysymys on, hyväksymmekö tämän eläinten tarpeettoman kärsimyksen, koska odotamme sen johtavan karjakaupan ja maantieliikenteen kuljetusyritysten kustannussäästöihin, vai katsommeko, että tällainen kärsimys on täysin sivistyksemme ja luomakunnan muiden olioiden hyvinvoinnista kantamamme vastuun vastaista. Minun valintani on selkeästi sivistyksen ja vastuun puolella. Komission jäsen totesi juuri, että päätöksenteko Euroopan unionissa on epäonnistunut. Emme näköjään kykene siihen, mitä kiireesti tarvitsemme. Kansallinen taloudellinen etu vie voiton yhteisestä sivistyksestä ja vastuullisuudesta.
+<P>
+Kun kuulin komission jäsenen Kyprianoun puheenvuoron, en epäillyt hänen hyviä tarkoitusperiään. Tuen hänen ilmoittamiaan uusia Euroopan komission aloitteita. Olen yhtä mieltä hänen kanssaan myös siitä, että on parempi toimia ripeästi valitettavan vajavaisen tuloksen aikaansaamiseksi kuin jäädä kokonaan tulosta paitsi. Satelliittiseuranta on laiha lohtu eläimille. Meidän ei pidä luottaa pelkästään uuteen tekniikkaan vaan pikemminkin poliittisen tahtoon pyrkiä aidosti lopettamaan väärinkäytökset. Juuri se on tärkeää. Toivon, että pääsemme todellisiin tuloksiin parlamentin vaalikauden ja komission toimikauden loppuun mennessä, sillä asioiden nykytilanne on todella häpeällinen. 
+<SPEAKER ID="16" LANGUAGE="SV" NAME="Goudin (IND/DEM )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, eläinten kuljetusta EU:ssa ja EU:sta ulkopuolisiin maihin on arvosteltu laajasti monissa yhteyksissä. Viimeksi saimme tietoja niistä häpeällisistä olosuhteista, joissa eläimiä on viety EU:sta Libanoniin. Se huolestuttaa meitä. Ottaako komissio ongelman ensisijaiseksi tavoitteekseen? Toivomme niin, mutta emme ole täysin vakuuttuneita asiasta.
+<P>
+Toinen huolta aiheuttava asia on OLAFin säännöllisin välein julkaisemat kertomukset rahoituspetoksista. Äskettäin niissä mainittiin kantelut rahoituspetoksista, jotka liittyvät eläinten kuljettamiseen Libanoniin. Pelkästään taloudellisesti arvioiden vientituet eläinten viemiseksi EU:sta kolmansiin maihin ovat yhteensä noin 60–100 miljoonaa Ruotsin kruunua vuodessa. Käytetäänkö näitä verovaroja asianmukaisesti?
+<P>
+Toivomme, että komissio ottaa eläinten suojelun vakavasti eikä meidän tarvitse enää lukea kertomuksia väärin käytetyistä vientituista. 
+<SPEAKER ID="17" LANGUAGE="EN" NAME="McGuinness (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, kiitän komissiota siitä, että se on ottanut esiin tämän eläimille ja ihmisille tärkeän aiheen.
+<P>
+Vika on täytäntöönpanossa, ei lainsäädännössä. Monissa kohdin me sääntelemme liikaa ja toisaalta jätämme huolehtimatta täytäntöönpanosta. Tämä on johtanut kasvattajien ja tämän täysin laillisen kaupan harjoittajien ongelmiin. Yksi irlantilaisista kollegoistani mainitsi tämän kaupan merkityksestä Irlannin maanviljelijöille. Uudessa maatalouden tukijärjestelmässä kasvattajia kannustetaan valitsemaan markkinavetoinen maatalous. Euroopan mannermaalla on lailliset markkinat Irlannin maatilojen nuorkarjalle. Kerrommeko me kasvattajille, etteivät he voi käydä tätä laillista kauppaa? Emme me mielestäni voi, koska asia on Irlannin kasvattajien menestyksen kannalta elintärkeä. Myös eläinten hyvinvoinnin on silti oltava ensisijainen tavoite.
+<P>
+Kollega oli huolestunut Libanonista. Irlantilaista karjaa viedään Libanoniin. Kyse on jälleen voimassa olevien säännösten täytäntöönpanosta. Vaikka lopettaisimme kaupan, eläimiä siirretään silti Libanoniin, ehkäpä Australiasta tai muilta alueilta. Jos kannamme huolta eläimistä, meidän on kannettava huolta kaikista maailman eläimistä eikä ainoastaan Euroopan eläimistä.
+<P>
+Kuljetusten kestoa ja lastausmäärää koskevien rajoitusten osalta kehotan reagoimaan järjellä eikä tunteella, sillä tunneseikat ovat liiaksi ohjanneet keskustelua.
+<P>
+Pyydän tutustumaan Irlannissa tehtyyn riippumattomaan tutkimukseen eläinkuljetuksista Irlannista Espanjaan. Luen raportista yhden kohdan: "Tutkimuksen tuloksena oli, ettei kuljetus vaikuttanut haitallisesti eläinten hyvinvointiin niille tehtyjen fysiologisten, immunologisten ja hematologisten mittausten perusteella."
+<P>
+Haluan lopuksi osoittaa tukeni kollega Herranz Garcíalle, joka puhui parlamentissa eilisiltana ihmisten hyvinvointiin liittyvistä huolenaiheista. Otin esiin niiden puolen miljoonan sudanilaisen kohtalon, jotka elävät nälkäkuoleman partaalla. Nämä asiat eivät liity toisiinsa, mutta meidän on asetettava ensisijaiset asiat ensi sijalle. 
+<SPEAKER ID="18" LANGUAGE="ES" NAME="Miguélez Ramos (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, minäkin haluan kiittää sydämellisesti poliittisesta yhteisymmärryksestä, joka esitellään maatalousneuvostolle ensi viikolla virallista hyväksyntää varten. Mielestäni siinä on yksi erittäin myönteinen puoli. Siinä lykätään kiistanalaisimpia asioita vuoteen 2011. Viittaan aiheisiin, jotka johtivat neuvottelujen epäonnistumiseen viime huhtikuussa, eli kuljetuksen kestoon ja lastausmääriin. Osa tänään paikalla olevista parlamentin jäsenistä muistanee edellisen parlamentin keskustelut jäsen Maatin kanssa. Silloin kävi ilmi, kuten jäsen McGuinness juuri totesi, ettei kuljetuksen kestosta ja lastausmääristä ole olemassa vakuuttavaa tieteellistä tietoa. Lisäksi isot jäsenvaltiot ja syrjäiset jäsenvaltiot joutuisivat muita huomattavasti huonompaan asemaan. Kaikki nämä taloudelliset taustat esiteltiin eläinten hyvinvointikysymyksenä, ikään kuin suurten ja syrjäisten jäsenvaltioiden edustajat eivät olisi lainkaan huolissaan eläinten hyvinvoinnista.
+<P>
+Arvoisa komission jäsen, poliittinen yhteisymmärrys korjaa uskoakseni monia nykyisissä säännöksissä havaittuja puutteita. Tämä on sen myönteisin puoli. Siinä kohennetaan valvontajärjestelmiä, otetaan käyttöön valvontaa helpottavia teknisiä seikkoja, tarjotaan selkeä ja avoin järjestelmä rekisteröintiä varten ja parannetaan yhteistyöjärjestelyjä jäsenvaltioiden kesken. Lisäksi siinä mainitaan velvoite laatia koulutusjärjestelmiä, joilla niilläkin parannetaan eläinkuljetuksia. Suhtaudun erityisen myönteisesti 32 artiklaan, jossa luodaan selkeä perusta näiden säännösten tulevia tarkistuksia varten.
+<P>
+Kaikista näistä syistä minun täytyy onnitella neuvostoa asian viemisestä eteenpäin, ja odotan innolla uuden tekstin onnistunutta täytäntöönpanoa. 
+<SPEAKER ID="19" LANGUAGE="DE" NAME="Graefe zu Baringdorf (Verts/ALE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, arvoisa komission jäsen, te puhuitte tunteista täällä parlamentissa. Siihen on varmaankin syynä itse aihe ja arvattavasti myös tämä päättymätön tarina. Tämä ei ole ensimmäinen, toinen eikä liioin kolmas vaan ties kuinka mones kerta, kun joudumme kiinnittämään asiaan huomiota. Reilusti yli kymmenen vuoden ajan olemme yrittäneet parantaa tätä alaa, ja aina on puhuttu edistyksestä, vaikka ratkaisevaa edistystä ei ole näkynyt. Todellinen läpimurto saadaan uskoakseni aikaan vasta sitten, kun parlamentti saa oikeuden yhteispäätösmenettelyyn myös maatalousasioissa. Saamme sen todennäköisemmin kuin satelliittinavigointijärjestelmän. Uskon tältä osin enemmän kykyymme saada tahtomme läpi.
+<P>
+Palatakseni aiheeseen haluan todeta, että kyse on tietysti kuljetuksen kestosta mutta keskeisesti myös siitä, ovatko olosuhteet soveliaat: kuskataanko eläimiä piinassa vai matkustavatko ne arvoisinamme luontokappaleina. Jos joku ostaa Lähi-idästä arabiorin astutuskäyttöön, hänen ei tarvitse kantaa huolta siitä, saapuuko se tänne kenties huonossa kunnossa. Vastaavasti, mikäli meidän eläimemme matkustavat olympialaisiin, ne saapuvat perille kunnossa ja siisteinä. Tästä voidaan päätellä, että juuri olosuhteilla on suuri merkitys.
+<P>
+Tärkeintä mielestäni on, että meidän olisi mukauduttava kuluttajien tahtoon. Saksassa on perustettu laatulihaohjelmia, joissa yhtenä laatukriteerinä on kuljetuksen kesto. Luomukasvatus on toinen esimerkki, ja silloin käytetään lähintä teurastamoa. Mikäli tätä pidetään laatukriteerinä, siitä tulee myös hyväksytty käytäntö. 
+<SPEAKER ID="20" LANGUAGE="PL" NAME="Wojciechowski (PPE-DE )." AFFILIATION="(Puhemies keskeytti puhujan.)">
+<P>
+    Arvoisa puhemies, hyvät kollegat, eläinkuljetusten aikana voi sattua kammottavia asioita. Eläimet kärsivät ihmisten kokemattomuudesta ja ajattelemattomuudesta, ja niiden kohtalon parantaminen on haaste ihmiskunnallemme. Herkkyys eläimien kärsimykselle ei ole ainoa toimintaan pakottava tekijä. Toinen on tietoisuus siitä, että eläinten julmasta kohtelusta on lyhyt matka ihmisten julmaan kohteluun.
+<P>
+Käsiteltävänä oleva asetus vie kehitystä oikeaan suuntaan. Siinä luodaan tiukemmat vaatimukset eläinten suojelemiseksi kuljetuksen aikana, vaikka vaatimukset ovat edelleenkin riittämättömät. Se saa kuitenkin toivomaan, että eläinten kärsimys vähenee. Olen siitä iloinen, koska edustan Euroopan parlamentissa äänestäjäkuntaa, johon kuuluu myös puolalaisia maanviljelijöitä. Puolan valtaosin pienillä perhetiloilla eläimiä käsitellään hellästi, jopa yksilöinä. Viljelijän sydän murtuu, kun hänen huolella hoitamansa eläimet joutuvat myynnin jälkeen huonoon pitoon.
+<P>
+Käsiteltävänämme oleva asetus tuo edistystä, mutta se ei ratkaise ongelmaa. Lain säännöksiin on liitettävä tosiasiallinen täytäntöönpano, joka voi olla erittäin vaikeaa. Esimerkiksi Puola on suuri läpikulkumaa, ja siellä on ongelmia hevoskuljetuksissa. Lakisääteiset vaatimukset on saatettu voimaan, mutta valvontaviranomaiset, poliisi ja tarkastajaeläinlääkärit ovat usein avuttomia laittomien kuljetusten aiheuttaman ongelman edessä, kun esimerkiksi loukkaantuneita eläimiä kuljetetaan. Tarvitaan pysähdyspaikkojen verkosto, jotta kuljetettaville eläimille voidaan antaa ruokaa ja juomaa ja tarvittavaa eläinlääkärinhoitoa. Hätätapauksissa eläimet voidaan lopettaa näissä paikoissa, jos se on tarpeen. Euroopan unionin tulisi tukea taloudellisesti tällaisen verkoston perustamista, ja Puola ainakin tarvitsee tätä tukea.
+<P>
+Hyvät kollegat, todellinen parannus eläinkuljetuksissa tapahtuu vasta sitten, kun pitkänmatkan kuljetukset lakkautetaan kokonaan. Eläimet olisi teurastettava lähellä paikkaa, jossa ne on kasvatettu. Inhimilliset seikat eivät ole ainoa syy tähän. Kyse on myös terveydellisistä seikoista. Muistutan, että tilintarkastustuomioistuimen äskettäisestä kertomuksesta ilmenee, että valvonta käytännössä loppuu, kun eläimet viedään ulkomaille. Hyvät kollegat...
+<SPEAKER ID="21" LANGUAGE="DA" NAME="Jørgensen (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, ei ole epäilystäkään siitä, että juuri tämä ala vaikuttaa merkittävästi Euroopan väestön mielipiteeseen. Pelkästään viime vuonna eräs eläinsuojelujärjestö keräsi Tanskassa 500 000 allekirjoitusta eli puoli miljoonaa allekirjoitusta maassa, jossa on vain vähän yli viisi miljoonaa asukasta. Tässä on jälleen yksi syy arvostella tapaa, jolla ehdotuksen käsittelyä on kiirehditty. Euroopan parlamentin jäsenenäkin pääsin lukemaan ehdotuksen vasta muutama tunti ennen sen varsinaista hyväksymistä. Arvoisa komission jäsen, olisi hyvin voinut käydä niin, että jos keskustelulle olisi ollut hieman enemmän aikaa ja jos asian tiimoilta olisi käyty keskustelua yksittäisissä Euroopan unionin maissa, ministerit olisivat olleet myötämielisempiä. Mielestäni teidän olisi todellakin ryhdyttävä toimeen täällä tänään esittämienne toteamusten suhteen. Mielestäni teidän olisi otettava asia uudelleen esityslistalle mahdollisimman pian, jotta voimme käydä siitä julkista keskustelua ja jotta voimme painostaa poliitikkoja ja ministereitä.
+<P>
+Suuri ongelma asiassa on, että ajattelemme liikaa yhteismarkkinoita. Totta kai ne ovat mainio ja kiitettävä asia, mutta meidän on aika ajoin pysähdyttävä ajattelemaan myös eettisiä kysymyksiä. Pidämme nykyisin eläimiä kauppatavarana. Eläimet eivät ole tavaroita. Ne ovat eläviä olentoja, ja niitä on luonnollisesti myös kohdeltava sellaisina.
+<P>
+Kyseenalaistan myös sen, onko nyt valitettavasti jo lainsäädännön asteelle päätynyt ehdotus lainkaan perusteltavissa yksinomaan oikeudelliselta kannalta. Voidaanko yksinomaan oikeudelliselta kannalta perustella sitä, että parlamentilta viedään vaikutusmahdollisuus asiaan tällä tavoin? Kun tätä lainsäädäntöä tarkistetaan, toisin sanoen arvioidaan uudelleen, parlamentti voidaan ohittaa. Nähdäkseni tämä on jo sinällään riittävä syy sen selvittämiseksi, onko päätös lainkaan oikeudellisesti perusteltu. 
+<SPEAKER ID="22" LANGUAGE="DE" NAME="Lichtenberger (Verts/ALE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, hyvät kollegat, edellinen puhuja mainitsi yhtenäismarkkinat. Yhtenäismarkkinoita on kuitenkin arvioitava sen perusteella, toimivatko ne inhimillisesti ja mitkä niiden vaikutukset ovat paitsi ihmisiin myös muihin olioihin.
+<P>
+Eläinkuljetusten osalta kysymys on selkeä: ketä eläinten pitkät kuljetukset hyödyttävät? Ne hyödyttävät suurkarjanhoitoa – karjanhoitomuotoa, joka ei vie Eurooppaa eteenpäin. Tarvitsemme sekä oikeat toimenpiteet että tiukat tarkastukset. Näiden osalta jäsenvaltioiden suhtautumistapaa voidaan kuvata pelkästään kerta kaikkiaan häpeälliseksi. Jos tarkastuksia halutaan, tarvitaan infrastruktuuria, mikä tarkoittaa lepopaikkoja, joista on säädettävä, ja lastausasemia, joille ajoneuvot on pakotettava jäämään, mikäli eläinkuljetuksia koskevia eläinsuojelusäännöksiä rikotaan. Tällainen järjestelmä on pantava täytäntöön, ja meidän – tämän parlamentin ja komission – on yhdessä vaadittava, että jäsenvaltiot ottavat kertakaikkisesti käyttöön uuden strategian maataloudessa. 
+<SPEAKER ID="23" LANGUAGE="EN" NAME="Lucas (Verts/ALE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, uskon, että komission jäsen Kyprianou on vaikean tehtävän edessä, kun hän yrittää vakuuttaa meitä siitä, että neuvoston marraskuinen kompromissi on aidosti myönteinen edistysaskel elävien eläinten kuljetuksessa. Arvoisa komission jäsen, me tiedämme, ettei tämä pidä paikkaansa, ja luulen, että tekin tiedätte sen.
+<P>
+On erittäin häpeällistä, ettei neuvosto ole täällä, jotta voisimme vaatia sitä tilille. Minun on sanottava, että olen pettynyt myös oman hallitukseni päätökseen äänestää tämän raukkamaisen sopimuksen puolesta; monet tekniset parannukset jäävät nyt täysin sen varjoon, ettemme onnistuneet etenemään kuljetusten kestoa ja lastausmääriä koskevissa kysymyksissä. Sen seurauksena järkyttävän julma käytäntö saa jatkua vielä monta vuotta.
+<P>
+Panin kuitenkin merkille, että varasitte nimenomaisesti oikeuden esittää parempia ehdotuksia. Suhtaudun siihen myönteisesti, ja kehotan teitä voimakkaasti esittämään niitä mahdollisimman pian. Erityisesti kehotan teitä ehdottamaan enintään kahdeksan tunnin kuljetuksia sekä teuraseläimille että lihakarjalle. Voitte olla varma, että parlamentti on liittolaisenne, ja enemmänkin, jos saamme oikeuden yhteispäätösmenettelyyn. On ratkaisevan tärkeää, että annamme selkeän viestin kaikkien jäsenvaltioiden hallituksille, että elävien eläinten kuljetusten tukeminen ei ole hyväksyttävää toimintaa sivistyneessä yhteiskunnassa. 
+<SPEAKER ID="24" LANGUAGE="EN" NAME="Kyprianou," AFFILIATION="komissio">
+<P>
+   . Arvoisa puhemies, olen seurannut erittäin kiinnostuneena parlamentin jäsenten esittämiä näkemyksiä. Olen samaa mieltä useimmista huolenaiheista ja kannoista. Kuten jo totesin, komissio katsoi kuitenkin, että tarvittiin välittömiä toimia. Jotkut teistä katsoivat, että kompromissia kiirehdittiin. Toisaalta eräät totesivat asian olleen vireillä yli kymmenen vuotta. Katson siis, että meidän oli löydettävä ratkaisu mahdollisimman pian. Emme voineet tyytyä pelkästään toteamaan, että jatkamme toimia tilanteen kohentamiseksi.
+<P>
+On totta, että jäsenvaltiot voivat vaikuttaa asiaan entistä paremmin. Ne voivat antaa tiukempia sääntöjä, jotka koskevat niiden omalta alueelta peräisin olevien eläinten lisäksi myös kauttakulkumatkalla olevia eläimiä. Näin voitaisiin aikaansaada tiukempi lainsäädäntö, joka kattaa yhtä valtiota huomattavasti laajemman alueen ja vaikuttaa nykyistä useampiin kuljetuksiin.
+<P>
+Tukien osalta minun on muistutettava parlamentille, että vaikka meillä ei olekaan – monien kansainvälisten sopimusten vuoksi – oikeutta säätää eläinten kuljetuksista alueemme ulkopuolella, Euroopan unioni on kytkenyt vientituet eläinten hyvinvointia kuljetuksen aikana koskeviin vaatimuksiin. Näiden kahden yhdistäminen on merkittävä teko, koska se laajentaa säännösten soveltamisalaa, joskaan ei välittömän lainsäädännön avulla.
+<P>
+Olen yhtä mieltä siitä, että täytäntöönpano on erittäin tärkeää. Tähdennämme entisestään kuljetuksen kestoa ja muita parannuksia, joita on tehtävä. Keräämme riittävästi tieteellistä näyttöä, jolla vakuutamme nekin, jotka tässä vaiheessa suhtautuvat asiaan epäilevästi. Näin ollen seuraamme tilannetta jatkossakin ja hankimme todistusaineistoa tulevaa ehdotusta varten.
+<P>
+Lepopaikkojen osalta tässä asetuksessa parannetaan sekä hyvinvointia että bioturvallisuutta. Vaikka ymmärrän ja jaan monien pettymyksen tähän asetukseen, emme kuitenkaan saa tunnepohjaisen reaktion vuoksi unohtaa asetukseen tehtyjä merkittäviä parannuksia. Kuljetuksen kesto on erittäin tärkeä asia – siksi se sisällytettiin komission ehdotukseen. Kuljetuksenaikaiset olosuhteet ovat yhtä tärkeitä. Niitäkin asetuksessa on käsitelty ja parannettu.
+<P>
+Komissio tutki mainitut oikeudelliset ongelmat päätöksentekomenettelyssä. Voin vakuuttaa, että tarkistimme oikeudellisten yksiköiden kanssa, että kaikki tapahtui asianmukaisen laillisesti.
+<P>
+Vaikka jaankin huolenne, kompromissi on mielestämme hyvä. Se on muuttunut oikeaan suuntaan. Jotkut meistä olisivat halunneet mennä askeleen pitemmälle tai jäädä askelta taemmas, mutta suunta on joka tapauksessa oikea. Komissio tarkkailee ja seuraa edelleen täytäntöönpanoa, joka on jäsenvaltioiden asia. Yhteisymmärrys komission mahdollisista tulevista ehdotuksista on sekin loppujen lopuksi jäsenvaltioiden asia. Siksi parlamentin ja komission on toimittava asiassa yhdessä. 
+<SPEAKER ID="25" LANGUAGE="" NAME="Puhemies. –" AFFILIATION="">
+<P>
+   Keskustelu on päättynyt. 
+<SPEAKER ID="26" LANGUAGE="" NAME="Puhemies. –" AFFILIATION="">
+<P>
+   Esityslistalla on seuraavana Ribeiron laatima kalatalousvaliokunnan mietintö (A6-0037/2004) ehdotuksesta neuvoston asetukseksi asetuksen (EY) N:o 850/98 muuttamisesta syvänmeren koralliriuttojen troolaamisen vaikutuksilta suojelemisen osalta tietyillä Atlantin valtameren alueilla (KOM (2004) 0058 – C5 – 0074/2004 – 2004/0020 (CNS)). 
+<SPEAKER ID="27" LANGUAGE="EN" NAME="Borg," AFFILIATION="komissio">
+<P>
+   . Arvoisa puhemies, kiitän jäsen Ribeiroa hänen mietinnöstään, joka koskee ehdotusta syvänmeren koralliriuttojen suojelemiseksi troolaamisen vaikutuksilta tietyillä Atlantin valtameren alueilla. Puhun tämän parlamentin täysistunnossa nyt ensimmäistä kertaa, ja on ilo havaita, että ensimmäisessä ehdotuksessa, jota pääsen käsittelemään, keskitytään meille kaikille tärkeään aiheeseen eli syvänmeren koralliriuttojen suojeluun. Meille tarjoutuu tulevaisuudessa epäilemättä tilaisuuksia keskustella sekä täällä täysistunnossa että kalatalousvaliokunnassa niin kalavarojen säilyttämisestä ja suojelusta kuin syvänmeren koralliriuttojen kaltaisistakin aiheista.
+<P>
+Tutkittuani tieteellisiä tietoja ja arvioituani sitä peruuttamatonta vahinkoa, jota tietyt pyydykset voivat aiheuttaa näille ainutlaatuisille luontotyypeille, ehdotamme tässä asetuksessa pohjatroolien ja vastaavien troolipyydysten käytön kieltämistä kyseisillä alueilla. Täytämme tällä ehdotuksella 23. lokakuuta 2003 kalastusneuvostossa antamamme sitoumuksen. Tuolloin hyväksyttiin läntisiä vesialueita koskeva uusi asetus näiden luontotyyppien suojelun varmistamiseksi. Olen iloinen voidessani todeta, että esittelijä suosittelee parlamentille näiden toimenpiteiden hyväksymistä. Samoin tekee ympäristön, kansanterveyden ja elintarvikkeiden turvallisuuden valiokunta lausunnossaan.
+<P>
+Komissio suhtautuu myönteisesti toimenpiteiden toteuttamiseen kalastuksesta meren ekosysteemeihin aiheutuvien vaikutusten minimoimiseksi. Ne ovat osoitus päättäväisestä toiminnastamme ympäristöseikkojen sisällyttämiseksi yhteiseen kalastuspolitiikkaan, mitä vuoden 2002 uudistuksessa kaavailtiin ja julkisessa mielipiteessä peräänkuulutettiin.
+<P>
+Tarkastelen seuraavaksi lyhyesti tarkistuksia, joita käsiteltävänämme olevassa mietinnössä ehdotetaan. Voin hyväksyä tarkistukset 1, 2 ja 3. Minun on vaikea hyväksyä tarkistusta 4, sillä se ei ole kansallisten neuvoa-antavien toimikuntien tehtäviä koskevan lainsäädännön mukainen. Toimikuntia kuullaan laadittaessa lainsäädäntöehdotuksia, mutta niiden kuulemisesta ei säädetä lainsäädännön täytäntöönpanon osalta. Sama koskee tarkistusta 5, jonka sisältöä komission on vaikea hyväksyä sen nykyisessä muodossa. Komissio on velvollinen arvioimaan kaikkia ehdotuksia uusien tieteellisten tietojen pohjalta. Näin ollen komission velvoittaminen tähän tiettyyn määräaikaan mennessä voisi olla myös ehdotuksen hengen ja tarkoituksen vastaista.
+<P>
+Meidän on niin ikään pidettävä mielessä, että tieteellisten tietojen saanti riippuu hyvin suurelta osin jäsenvaltioista, eikä komissio näin ollen pysty takaamaan niiden saatavuutta tarkistuksessa kuvatulla tavalla eli tietyssä määräajassa.
+<P>
+Tarkistuksesta 6 komissio toteaa, että vaikka se voisikin pitää tällaista tarkistusta hyväksyttävänä, tarkistus ei ole varsinaisesti tarpeen, koska asetuksen maantieteellinen soveltamisala on hyvin tiedossa ja se on jo määritelty.
+<P>
+Tarkistuksesta 7 todettakoon, että tieteellisten lausuntojen mukaan pääasiallinen uhka erittäin herkille syvänmeren luontotyypeille on pohjatroolaus. Muiden pyydysten, varsinkin pohjaan ankkuroitujen verkkojen ja pitkiensiimojen kaltaisten erityispyydysten, aiheuttamat vahingot voivat olla todellisia mutta erittäin vähäisiä verrattuna troolien eroosiovaikutukseen.
+<P>
+Myös troolauskiellon laajentaminen koko Euroopan talousalueelle vaikuttaisi liialliselta, eli se ei ole oikeasuhtainen toimenpide, koska alueen valtaosassa ei ole kalastuksen uhkaamia merenalaisia kantoja. Näissä olosuhteissa komissio ei voi hyväksyä tarkistusta 7.
+<P>
+Lopuksi huomautan, että komission on vaikea hyväksyä tarkistusta 8, koska sillä luotaisiin päällekkäistä toimintaa. Syvänmeren kantojen tilan kattavista arvioista huolehtii nykyisin Kansainvälinen merentutkimusneuvosto (ICES). Tämän katsotaan riittävän. 
+<SPEAKER ID="28" LANGUAGE="PT" NAME="Ribeiro (GUE/NGL )," AFFILIATION="esittelijä">
+<P>
+   . – Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, tämän mietinnön laatiminen, siitä keskusteleminen ja siitä äänestäminen valiokunnassa oli varsin yllättävä oppimisprosessi, joka osoitti, ettei koskaan ole liian myöhäistä oppia ja oppia lisää.
+<P>
+Kävin käsiksi työhön, jonka tunsin ainoastaan pintapuolisesti. Ennen kaikkia täydensin tietojani kaikella asiakirjoista ja opiskelusta saatavissa olevalla teoreettisella tiedolla. Olin yhteydessä niihin, jotka ovat tekemisissä alan kanssa, jotka saavat siitä ankaran elantonsa, jotka tutkivat sitä perusteellisesti ja vakavasti ja jotka toimivat alan vastuutehtävissä. Sain paljon tietoa, opin paljon ja ymmärsin, että opittavaa on vielä paljon.
+<P>
+Lähtökohtanani oli ajatus, että meidän on suojeltava ympäristöä, joka on alttiina todennäköisesti paheneville hyökkäyksille, ja mielessäni muotoutui kolme kysymystä: Millaista ryöstöpyyntiä olisi hillittävä tai mitä olisi kiellettävä? Missä rajoissa? Minkä lainkäyttövallan puitteissa? Kuunneltuani paljon ja harkittuani melkoisesti vakuutuin siitä, ettei pohjatroolauksen kieltäminen riitä suojelemaan koralliriuttoja ja muita muodostelmia, joista haluan mainita hydrotermiset purkausaukot. Minulle osoitettiin, että pohjaan ankkuroiduilla verkoilla tapahtuva verkkokalastus on ainakin yhtä suuressa määrin ryöstökalastusta. Siksi sisällytin sen nimenomaisesti tekstiin. Miksi sitä vastustetaan niin voimakkaasti? Onko syynä se, että menetelmän käyttäjillä on paljon valtaa? Komissio väittää, että syynä on riittämätön tieteellinen näyttö tekniikan epäkohdista. Vaikka näin olisikin, olisi joka tapauksessa noudatettava ennalta varautumisen periaatetta. Suojeltavien alueiden rajat on määritelty komission ehdotuksessa käyttämällä pituus- ja leveyspiirejä. Mielestäni tämä on poliittinen eikä tekninen ratkaisu – tai ainakin tekninen ratkaisu, jolla on vahva poliittinen merkitys.
+<P>
+Se, ettei ehdotuksessa käytetä kriteerinä etäisyyttä rannikosta meripeninkulmina, tarkoittaa, että yhteys jäsenvaltioille myönnettyihin yksinomaisiin talousvyöhykkeisiin voidaan jättää huomiotta tai minimoida ja myöhemmin unohtaa. Marraskuussa 2003 päättyneen jakson jälkeen käytiin neuvotteluja sääntelyn rajan muuttamisesta ensin 200 meripeninkulmasta 12 meripeninkulmaan ja sitten 50:een ja lopulta 100 meripeninkulmaan. Se, ettei komission ehdotuksessa oteta huomioon 100:n ja 200 meripeninkulman väliin jäävän vyöhykkeen ongelmaa, on mielestäni vakava asia, joka on korjattava.
+<P>
+Tämä johdattaa meidät lainkäyttövallan keskeiseen ongelmaan, joka alkaa Espanjan ja Portugalin lainkäyttövallan maininnan kertakaikkisesta puuttumisesta. Vastaava maininta ei puuttunut edellisestä ehdotuksesta, joka käsitteli Yhdistyneen kuningaskunnan lainkäyttövaltaa Darwin Moundsin riuttamuodostelmilla Skotlannin rannikon edustalla. Tarkoittaakohan tämä, että Yhdistyneen kuningaskunnan lainkäyttövalta tunnustetaan mutta se evätään tai unohdetaan – tai kätketään – Espanjan ja Portugalin tapauksessa? Päädymme tällä tavoin erittäin arkaluontoisiin ja perustaviin kysymyksiin, joita elämä tuo eteemme silloin, kun siirrymme asioissa käytännön tasolle.
+<P>
+Euroopan unionin yksinomaisen toimivallan periaate meren elollisten luonnonvarojen suojelussa on siis vahvistettu tässä ehdotuksessa jo ennen perustuslakia koskevan sopimuksen ratifiointia. Tällainen päätös on erittäin kiistanalainen emmekä me voi sitä hyväksyä, koska se tarkoittaa, että jäsenvaltion alueen osaa – olkoonkin kyse merenalaisesta osasta – koskeva kansallinen ja alueellinen toimivalta korvataan yhteisön yksinomaisella toimivallalla.
+<P>
+Tässä yhteydessä käsitellään selkeästi ensinnäkin luonnonvarojen hyödyntämisen ja niiden säilyttämisen välistä tasapainoa. Toiseksi on huomattava, että tasapaino saavutettiin aikana ja seuduilla, jolloin kalastus ei ollut teollista ryöstökalastusta ja meren elollisten luonnonvarojen suojelu kuului kansalliseen ja alueelliseen lainkäyttövaltaan läheisyysperiaatteen mukaisesti, joten perusteita tämän lainkäyttövallan korvaamiseksi sopimattomiin tai epämääräisiin käytäntöihin puuttumisen vuoksi ei ole. Kolmanneksi kalastusta on kahdenlaista: rannikkokalastusta, joka on ainakin jossain määrin tai on ainakin toistaiseksi lähes perinteistä kalastusta, ja toisaalta on teollista kalastusta. Rannikkokalastus on teollista kalastusta huonommassa asemassa, ja tällä on valtava vaikutus yhteiskuntaan ja paikallistalouteen. Syynä on teollisen kalastuksen ryöstökalastuksellinen luonne. Teollista kalastusta on helpompi jatkaa, koska siihen liittyy taloudellista ja poliittista valtaa. Neljänneksi parhaillaan aloitettavat neuvottelut sallituista kokonaissaaliista ja kiintiöistä merkitsevät pakollista yhtäläistä kohtelua keskenään erilaisille asioille ja niiden strategioiden kyseenalaistamista, joissa ympäristönsuojelun verukkeella autetaan "isoja kaloja" nappaamaan "pienet kalat". "Kalat" voidaan vaihtaa toisiin sanoihin, esimerkiksi sanoihin "alukset", "laivastot", "edut" tai "valtiot".
+<P>
+Mietintöni ja parlamentin hyväksyttäväksi jättämieni tarkistusluonnosten tavoitteena on sama tarkoitus, jota olen pyrkinyt selvittämään puheenvuorossani toivoen, että parlamentti äänestää sen puolesta. Olen kiitollinen äänistänne ja kiitollinen myös kaikesta avusta ja yhteistyöstä, jota olen saanut laatiessani tätä mietintöä. 
+<SPEAKER ID="29" LANGUAGE="SV" NAME="Schlyter (Verts/ALE )," AFFILIATION="ympäristön, kansanterveyden ja elintarvikkeiden turvallisuuden valiokunnan lausunnon laatija.">
+<P>
+    Arvoisa puhemies, esittelen ympäristön, kansanterveyden ja elintarvikkeiden turvallisuuden valiokunnan lausunnon kollega Hassin puolesta.
+<P>
+Kun keskustelemme tästä aiheesta, meidän on kuviteltava, että merenpohjassa tapahtuva tuho ilmenisikin maissa. Kuvitelkaa, että metsät vedettäisiin irti juurineen, kaikki niissä asuvat eläimet kuolisivat ja linnut vaikenisivat. Ihmiset tarttuisivat aseisiin. Me hukkuisimme hätääntyneiden ihmisten kirjeisiin, joissa vaaditaan metsien suojelua.
+<P>
+Nyt näin tapahtuu merenpohjassa. Merenpohjan koralliriutat ovat merten metsiä. Ne sijaitsevat keskellä kalaparvia, jotka eivät pysty huutamaan apua. Siksi meidän täällä parlamentissa on puhuttava näiden äänettömien bio- ja ekosysteemien puolesta.
+<P>
+Ympäristön, kansanterveyden ja elintarvikkeiden turvallisuuden valiokunta on yrittänyt saada tämän äänen kuuluviin tarkistuksissaan. Haluan siksi korostaa, että parlamentin olisi kannatettava tarkistusta 8, joka hyväksyttiin ympäristön, kansanterveyden ja elintarvikkeiden turvallisuuden valiokunnassa mutta valitettavasti hylättiin kalatalousvaliokunnassa. Meidän on tutkittava, mitä muita syvänmeren luonnonympäristöjä on suojeltava, jotta saamme aikaan tyhjentävän luettelon. Tämä meidän on tietenkin tehtävä yhteistyössä ICESin kanssa, jottemme tee päällekkäistä työtä, mutta meidän on otettava vastuu laadittavista luetteloista.
+<P>
+Haluan niin ikään puhua tarkistuksen 7 puolesta, jossa otetaan esiin se tärkeä seikka, että muutkin varusteet kuin trooliverkot voivat vahingoittaa merenpohjaa. Siksi sääntöjen tulisi tietenkin koskea kaikkia merenpohjaa vahingoittavia varusteita, ja ennalta varautumisen periaatteen käyttö on järkevää näillä herkillä alueilla.
+<P>
+Katson silti, että meidän olisi säilytettävä komission alueita koskeva ehdotus ja näin ollen äänestettävä tarkistuksen toisen osan hylkäämisen puolesta. Vyöhykkeillä on tieteelliset perusteet, jotka pystymme hyväksymään. 
+<SPEAKER ID="30" LANGUAGE="PT" NAME="Freitas (PPE-DE )," AFFILIATION="ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, tällä parlamentin kalatalousvaliokunnassa hyväksytyllä ehdotuksella pyritään estämään hyvin haavoittuvia syvänmerenkoralleja voimakkaasti vahingoittavan kalastustekniikan käyttö. Sen lisäksi, että syvänmeren koralliriutat lisäävät omalla panoksellaan luonnon monimuotoisuutta, ne ovat tärkeitä ekologisia asuinalueita monille erilaisille eliöille niiden eri elinvaiheissa.
+<P>
+Komission mukaan suojelua annetaan alueille Madeiran, Azorien ja Kanariansaarten ympärillä. Näillä ulkosaariston alueilla on käytetty perinteisiä kalastusmenetelmiä vuosisatoja aina tähän päivään saakka. Näin on onnistuttu säilyttämään lajeja ja samalla ylläpitämään kukoistavia kalastusyhteisöjä.
+<P>
+Olemme nyt saaneet seurata, kuinka huoli kalavarojen säilymisestä kasvaa ja miten liikakalastuksen tuhoamilla alueilla laaditaan erilaisia elvyttämissuunnitelmia. Näillä saaristoalueilla harjoitettu kestävä kalastus ansaitsee meidän kaikkien kannustuksen ja sen, että asetumme sitä tukevalle ja suojelevalle kannalle. Meidän on lisäksi huomattava, ettei näillä alueilla ole mannerjalustaa, joten kalastuksen mahdollistavat paikat rajoittuvat pieniin merenalaisiin vuoriin, joilla yleensä esiintyy myös näitä syvänmeren koralleja.
+<P>
+Voidaan todeta, että näiden saarten ympärillä on kyllä paljon vettä mutta varsin vähän kaloja tai kalastusalueita. Siksi alueita on välttämätöntä turvata ja suojella tuhoisalta – erittäin tuhoisalta – teolliselta kalastustoiminnalta. Toteutetut hätätoimet ovat avuksi mutta kestäviä ratkaisuja on. Tästä syystä komission ehdotus on kiitettävä.
+<P>
+Ehdotetut tarkistukset verkkojen käyttökiellon laajentamiseksi myös pohjaan ankkuroituihin verkkoihin ovat minusta kuitenkin täysin järjellisiä. Käytettävien ankkureiden ja pyydysten menetysriskin vuoksi voi esiintyä haamukalastusta ja merenpohjan eroosiota, jotka uhkaavat syvänmeren korallien ekologista tasapainoa.
+<P>
+Näin ollen katson, että kieltoa koskevaa ehdotusta olisi laajennettava pohjaan ankkuroituihin verkkoihin ja 200 meripeninkulman vyöhykkeelle, sillä ehdotuksen perustana on aivan viime aikoihin saakka olemassa olleen säilyttäminen. Sen perusteella, mitä tilanteesta tiedän, voin taata, että hyväksymällä nämä ehdotukset autamme suojelemaan ympäristöä ja sellaista kestävää kalastusta, jonka mielestämme tulee perustua pikemminkin ennaltaehkäisyyn kuin tilanteen korjaamiseen jälkikäteen. 
+<SPEAKER ID="31" LANGUAGE="PT" NAME="Casaca (PSE )," AFFILIATION="ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, haluan toivottaa komission jäsenen erityisen tervetulleeksi hänen ensimmäisen puheenvuoronsa johdosta ja osoittaa hänelle parhaat onnentoivotuksemme hänen erittäin tärkeään ja vaikeaan tehtäväänsä. Haluan silti sanoa hänelle myös sen, etten ymmärrä tässä mietinnössä sitä, miksei siinä korjata pohjaverkkoja koskevaa erehdystä, sillä vuosi sitten asetuksessa (EY) N:o 1954/2003 sallittiin pohjatroolaus ja pohjaan ankkuroitujen verkkojen käyttö. Luettuamme komission esittämät varsin seikkaperäiset asiakirjat siitä, kuinka pohjaan ankkuroidut verkot ovat erikoisen haitallisia ja vahingollisia ympäristölle, emme kerta kaikkiaan pysty ymmärtämään, miksi komissio haluaa tyrkyttää tätä käytäntöä Azorien autonomiselle alueelle, jolla sitä ole missään vaiheessa sallittu. Näin taannutaan komission ja Euroopan unionin toimielinten velvoittamassa luonnonsuojelussa, siinä ei ole mitään järkeä eikä sitä voidaan ollenkaan hyväksyä. Arvoisa komission jäsen, pyydän teitä harkitsemaan tätä asiaa huolellisemmin. 
+<SPEAKER ID="32" LANGUAGE="EN" NAME="Attwooll (ALDE )," AFFILIATION="ryhmän puolesta.">
+<P>
+   Arvoisa puhemies, kollega Ribeiron erinomainen mietintö koskee komission toista ehdotusta, jolla komissio pyrkii suojelemaan syvänmeren koralliriuttoja troolauksen vaikutuksilta. Ensimmäinen koski Skotlannin luoteisrannikon riuttoja, joista käytetään nimitystä Darwin Mounds. Minulla oli ilo toimia sen esittelijänä. Samaan tapaan kuin tuolloisen mietinnön yhteydessä nytkin on olennaista ymmärtää, kuinka kertakaikkisen tärkeitä syvänmeren koralliriutat ovat meren ekosysteemille.
+<P>
+Ne voivat tarjota elinpaikan sadoille luonnonvaraisille eläinlajeille, myös monille syvänmeren kalalajeille, ja ne ovat elintärkeitä paikkoja kalojen lisääntymiskierron kannalta. Syvänmerenkalojen alkionkehitys kestää erittäin kauan, ja kaikki luonnonympäristöihin kohdistuvat haitat näkyvät erittäin vakavina vaikutuksina kalavaroissa sekä lyhyellä että pitkällä aikavälillä.
+<P>
+Keräämme edelleen tutkimustietoa troolauksen kokonaisvaikutuksesta syvämeren koralliriuttoihin, mutta näyttää todellakin siltä, että sinä lyhyenä jaksona, jona syvänmeren troolausta on harjoitettu, on voitu tuhota satoja ja kenties tuhansia merenalaisten vuorten ja koralliriuttojen järjestelmiä.
+<P>
+Näin ollen ALDE-ryhmä kannattaa täysin ehdotusta ja valiokunnassa hyväksyttyjä tarkistuksia, erityisesti tarkistusta 4, jossa korostetaan alueellisten neuvoa-antavien toimikuntien tehtävää. Suosittelemme muiden tarkistusten hyväksymistä valiokunnassa hyväksytyssä muodossa. Tuemme myös täysistunnossa tehtyä tarkistusta 8, koska on tärkeä tutkia, millä muilla EU:n syvänmeren korallialueilla olisi estettävä vahingollisten kalastusmenetelmien käyttö.
+<P>
+Voimme tukea myös tarkistusta 6 ja tarkistuksen 7 ensimmäistä osaa, koska se sopii ennalta varautumisen lähestymistapaan. Melkoisen harkinnan jälkeen emme voi tukea kyseisen tarkistuksen toista osaa, koska se jättäisi osan koralleista suojelutta. Tämä on todella sääli, sillä koko tarkistuksen perustelunahan on olennaisella tavalla juuri suojelu.
+<P>
+Toivomme syvästi, että komissio ja neuvosto ymmärtävät molemmat, että ilmaisemamme huoli on vakava. 
+<SPEAKER ID="33" LANGUAGE="IT" NAME="Romagnoli (NI )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, hyvät kollegat, jäsen Ribeiron erinomainen mietintö ehdotuksesta neuvoston asetukseksi syvänmeren koralliriuttojen suojelemiseksi pohjakalastuksen, yleispätevämmin käsittein ilmaistuna "troolauksen", vaikutuksilta, on ajankohtainen ja tukeutuu moniin alalla tehtyihin tutkimuksiin.
+<P>
+Kuten me kaikki tiedämme, näihin ympäristöihin – ja kaikenlaisiin meriympäristöihin, joissa käytetään suurisuuntaisia kalastusmenetelmiä – kohdistuvat vaikutukset koskevat pelagisten ja syötävien lajien lisäksi myös pieneliöitä ja vahingoittavat yleisemminkin keskeisiä lisääntymisympäristöjä. Tämä johtaa kalavarojen ehtymiseen ja taloudellisten voimavarojen katoamiseen, millä on vakavia seurausvaikutuksia paikallisiin yhteisöihin, erityisesti pienimittaiseen perinteiseen kalastuselinkeinoon.
+<P>
+Mietinnössä mainituissa kansainvälisissä sopimuksissa selvitettyjen syiden ohella tällaisten ympäristöjen suojeleminen on siis merkittävä keino, jolla ympäristönsuojelupäämäärien ohella luodaan vakaat sosiaaliset ja taloudelliset tulevaisuudennäkymät kyseisillä alueilla sinnitteleville yhteisöille. Tämä koskee yleisesti kaikkia alueita, joilla kalastus on perinteinen voimavara, jota olisi sellaisena varjeltava sekä rajoittamalla teollista pyyntiä muiden maiden laivastoilla että varmistamalla lisääntymisympäristöjen säilyminen vastakin.
+<P>
+Tätä varten on tärkeää saada mukaan paikalliset yhteisöt ja erityisesti alalla toimivat ihmiset. Siksi katson, että alan viranomaisten, paikallisten yritysten ja järjestöjen tulisi yhteisön toimielinten tukemana olla vastuussa suojeltujen alueiden seurannan lisäksi myös luonnonympäristöjen säännöllisestä tieteellisestä seurannasta sekä ympäristötiedon tuottamisesta ja kalastukseen osallistuvien tahojen ammattimaisesta käyttäytymisestä.
+<P>
+Olisi varmasti hyvä ajatus kannustaa pienten perinteisten elinkeinojen tuottavuutta antamalla niille nykyaikaiset työkalut niiden resurssien tutkimusta, selvittämistä ja pyytämistä varten, jotta meriympäristöstä saatavat saaliit valikoituvat entistä paremmin ja nämä elinkeinot selviävät teollisen kalastuksen, erityisesti Japanin ja Yhdysvaltojen laivastojen, aiheuttamassa kilpailussa. 
+<SPEAKER ID="34" LANGUAGE="ES" NAME="Fraga Estévez (PPE-DE )." AFFILIATION=".">
+<P>
+    Arvoisa puhemies, minun on aluksi todettava, että yllätyin esittelijä Ribeiron puolustettua kalatalousvaliokunnan enemmistön hylkäämiä tarkistuksia. Haluan tehdä selväksi, että ryhmämme tukee komission ehdotusta eli Ribeiron mietintöä siinä muodossa, jossa se hyväksyttiin kalatalousvaliokunnassa. Äänestämme esitettyjä tarkistuksia vastaan syistä, jotka aion selvittää teille.
+<P>
+Vastustamme pohjaan ankkuroitujen verkkojen sisällyttämistä asetukseen, koska ne ovat, kuten kaikki tietävät, seisovia verkkoja. Juuri tämän luonteensa vuoksi ne eivät kuluta merenpohjaa. Tähän liittyvässä tarkistuksessa viitataan mahdolliseen biologiseen tuhoon. Pahimmillaankin tämä voisi liittyä näiden verkkojen menettämiseen ja tästä aiheutuvaan niin sanottuun haamukalastukseen Kuten komission jäsen totesi, alueista tai lajeista ei ole tieteellisiä tietoja. Siksi minusta on jossain määrin rohkeaa ja huono ennakkotapaus, jos kiellämme tai yritämme kieltää tällaiset pyydykset kyseisillä alueilla. Jos perustelut otetaan huomioon sellaisinaan, kyseinen pyydys olisi kiellettävä kaikilla yhteisön vesillä. Olisi mielenkiintoista nähdä, kannattaisivatko tässä yhteydessä kieltoa puoltavat yleisempääkin kieltoa.
+<P>
+Seuraavaksi käsittelen tarkistusta 2. Merigeologiasta ja -biologiasta johdettujen kriteerien perusteella tässä tarkistuksessa kehotetaan korvaamaan komission ehdottamat suojelualueet 200 meripeninkulman poliittisella kriteerillä. On huomattava, ettei tämä kriteeri enää koske yhteisön lainsäädännön kattamaa kalastuksenhoitoa, riippumatta siitä, katsommeko, että tämä on oikein tai väärin. Minun on korostettava jälleen kerran, etteivät koralliriutat sijaitse yksinomaan 200 meripeninkulman säteellä Kanariansaarista, Madeiralta ja Azoreilta. Tiedeyhteisön käsityksen mukaan koralliriutat sijaitsevat yleensä 1 000 metrin syvyysviivan paikkeilla. Ennalta varautumisen periaatteen mukaisesti komissio on siis ulottanut ehdotuksensa 1 500 metrin syvyyteen saakka Nämä viivat eivät luonnollisestikaan seuraa poliittisia ja hallinnollisia rajaviivoja. Tässä nimenomaisessa tapauksessa Euroopan komission nimeämät vyöhykkeet ulottuvat lisäksi eräissä tapauksissa 200 meripeninkulman rajan ulkopuolelle. Ne vaikuttavat siis kansainvälisiin vesiin.
+<P>
+Arvoisa puhemies, näistä syistä ryhmämme ei kannata ehdotettuja tarkistuksia. 
+<SPEAKER ID="35" LANGUAGE="ES" NAME="Miguélez Ramos (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, suhtauduin Ribeiron mietintöön myönteisesti, kun se julkaistiin, ja annoin tunnustusta esittelijän työlle. Tähän oli syynä se, että katsoin koko parlamentin tapaan, että on tärkeää suojella syvänmeren koralliriuttoja. Jouduin nyt kuitenkin toteamaan, että olen erittäin yllättynyt muutamista esittelijän jälkikäteen esittämistä huomautuksista. Yhdyn jäsen Fragan äskeiseen puheenvuoroon, ja voin ainoastaan toivoa, etteivät toisaalla tässä kamarissa näkyvästi esillä olevat pienet liput yhtäkkiä ilmesty myös jäsen Ribeiron pöydälle.
+<P>
+Minun on korostettava, ettemme kannata tarkistuksen 7 ensimmäistä emmekä toista osaa. Tuemme varmasti komission ehdotusta, mutta emme voi olla samaa mieltä pohjaan ankkuroitujen verkkojen lisäämisestä ilman mitään tieteellistä perustelua. Komission ehdotuksessa viitataan pohjaan ankkuroituihin verkkoihin tai vastaaviin pyydyksiin. Katsomme, että pohjaan ankkuroitujen verkkojen lisääminen ilman muita määreitä voi olla erittäin tuhoisaa tietyille laivastoille. Siitä voi tulla vaarallinen ennakkotapaus.
+<P>
+Emme kannata myöskään tarkistuksen toista osaa. Syynä on se, että siinä pyritään korvaamaan komission tieteellisten kriteerien perusteella vahvistamat merialueiden sijainnit viittauksella jäsenvaltioiden lainkäyttövallan piiriin kuuluviin vesialueisiin. 
+<SPEAKER ID="36" LANGUAGE="EN" NAME="Stihler (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, syvänmeren koralliriutat ovat suojelumme arvoinen luonnonvara. Yhdistyneiden Kansakuntien mukaan syvänmeren koralliriutat ovat haavoittuva luonnonympäristö, jotka edellyttävät erityistä huolenpitoa. ICESin lausunnon mukaan ainoa keino suojella kylmänveden luonnonympäristöjä kalastuksen aiheuttamilta vahingoilta on kartoittaa ympäristöt tarkasti ja kieltää näillä alueilla vahinkoa aiheuttavat kalastuksen muodot. Ainoa keino suojella syvänmeren koralleja on kieltää pohjatroolien ja vastaavien pyydysten käyttö.
+<P>
+Aiemmin tänä vuonna parlamentti tunnusti syvänmeren koralliriuttojen olemassaolon, kun Skotlannin koillisrannikon edustalla sijaitsevalle Darwin Moundsin alueelle annettiin erityisasema suojelualueena. Nyt huomiomme kohdistuu Kanariansaarten edustalla sekä Madeiran ja Azorien ympärillä sijaitseviin toisiin koralliriuttoihin, ja toivon, että näiden alueiden suojelua jatketaan pysyvän periaatteen mukaisesti. Syvänmeren koralliriuttoja ei saa tuhota pohjatroolauksella, vaan ne on suojeltava tulevien sukupolvien iloksi. 
+<SPEAKER ID="37" LANGUAGE="PT" NAME="Capoulas Santos (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, minäkin haluan ilmaista ennen kaikkea tukeni Ribeiron mietinnölle ja siihen sisältyville ehdotuksille.
+<P>
+Meren elollisten luonnonvarojen kestävyyden varmistaminen on samalla paras tapa suojella tietyissä unionin osissa kaikkein uhanalaisinta lajia: ihmislajia itseään. Monilla unionin rannikkoalueiden, esimerkiksi Azorien ja Madeiran, kalastusyhteisöillä, ei ole mitään muita elinkeinovaihtoehtoja tai selviämiskeinoja. Tässä tapauksessa komissiokin myöntää, että nämä ekosysteemit ovat erittäin herkkiä, niihin kohdistuu suuria vaaroja ja ne tarvitsevat kiireellistä suojelua varsinkin siksi, että niistä on huomattavan vähän tietoa.
+<P>
+Pelkästään näiden tosiasioiden tunnustaminen on hyvinkin riittävä syy toteuttaa suojelutoimenpiteitä, joilla näiden luontotyyppien tuhoaminen voidaan kenties pysäyttää. Esittelijän tekemät ehdotukset vievät asiaa tähän suuntaan. Siksi minä äänestän niiden puolesta, ja vetoan tähän parlamenttiin, jotta sekin äänestäisi niin. 
+<SPEAKER ID="38" LANGUAGE="EN" NAME="Borg," AFFILIATION="komissio">
+<P>
+   . Arvoisa puhemies, olen tyytyväinen ehdotuksesta saatuihin yleisesti myönteisiin huomautuksiin, ja vastaan hyvin lyhyesti osaan esitetystä arvostelusta.
+<P>
+Muun kalastuksen kuin troolauksen aiheuttamista mahdollisista vahingoista totean, että ICESin vuonna 2003 julkaistun raportin mukaan troolit ovat syvänmeren koralliriuttojen vahingoittumisen pääsyy. Aineistoa passiivisten pyydysten koralliriutoille aiheuttamista vahingoista on vähän, vaikka ICES mainitseekin joitain näistä vaikutuksista. Komissio on valmis muuttamaan ehdotustaan, jos asiasta saadaan uutta tieteellistä tietoa tai jos jäsenvaltiot pääsevät sopimukseen tällaisesta muutoksesta.
+<P>
+Mitä tulee suojelualueen laajentamiseen koko yksinomaiselle talousvyöhykkeelle, haluan tähdentää, että ehdotuksessa rajattiin alue, johon sisältyy suurin osa hyvässä kunnossa säilytetyistä vedenalaisista vuorista. Kieltoalueen laajentaminen lisäisi merkityksetöntä suojelua ja olisi näin ollen suhteellisuusperiaatteen vastaista.
+<P>
+Tämän jälkeen haluaisin viitata meren luonnonvaroja koskevaan komission yksinomaiseen toimivaltaan. Se mainitaan perustuslaissa ja se mainittiin myös täällä. Periaate on vahvistettu Euroopan yhteisöjen tuomioistuimen oikeuskäytännössä, ja perustuslaissa ainoastaan kodifioidaan se. Komissio ei kuitenkaan kiistä Espanjan ja Portugalin oikeutta omaan eurooppalaiseen talousvyöhykkeeseensä. Näiden lainkäytön oikeuksien mainitsemiseen vain ei ole syytä, koska kieltoalue on rajattu pinnanmuodostuksellisten ja maantieteellisten seikkojen perusteella.
+<P>
+Jäsen Attwoollin mainitsema alueellisten neuvoa-antavien toimikuntien rooli aiheuttaisi oikeudellisen ongelman, ja tämän tarkistuksen hyväksyminen edellyttäisi niitä koskevan asetuksen muuttamista.
+<P>
+Toiseen jäsen Attwoollin esittämään huomautukseen totean, että komissio on äskettäin tehnyt syvänmerenkalastuksen edellytyksiä koskevan ehdotuksen, jolla suojellaan näitä tärkeitä luonnonvaroja. 
+<SPEAKER ID="39" LANGUAGE="" NAME="Puhemies. –" AFFILIATION="">
+<P>
+   Keskustelu on päättynyt.
+<P>
+Äänestys toimitetaan klo 11.30. 
+<SPEAKER ID="40" LANGUAGE="" NAME="Puhemies. –" AFFILIATION="">
+<P>
+   Haluaisin toivottaa tervetulleeksi Serbian ja Montenegron parlamentin valtuuskunnan, joka on saapunut Strasbourgiin osallistuakseen ensimmäiseen parlamenttien väliseen kokoukseen Euroopan parlamentin kanssa ja joka istuu virallisella lehterillä.
+<P>
+Valtuuskuntaa johtaa parlamentin puhemies Zoran Sami. Toivottavasti tämä on alku toimielintemme väliselle hedelmälliselle yhteistyölle. 
+<SPEAKER ID="41" LANGUAGE="" NAME="" AFFILIATION="puhemies">
+<SPEAKER ID="42" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Parlamentti hyväksyi päätöslauselmaesityksen ja ehdotuksen päätökseksi.)">
+<P>
+   Esityslistalla ovat seuraavana äänestykset.
+<P>
+(1)
+<SPEAKER ID="43" LANGUAGE="ES" NAME="Garriga Polledo (PPE-DE )," AFFILIATION="esittelijä.">
+<P>
+    Arvoisa puhemies, haluaisin ilmoittaa muutamista teknisistä tarkistuksista ennen äänestyksiä. Budjettivaliokunta antoi sen tehtäväkseni. 
+<P>
+Muutos koskee budjettikohtaa 15 03 01 02 – Leonardo da Vinci, jossa sitoumusten määrän olisi oltava 205 366 880 euroa.
+<P>
+Budjettikohtaan 19 09 03 – Apu Latinalaisen Amerikan maiden kotiseudultaan siirtymään joutuneille väestönosille otettu määrä olisi vapautettava varauksesta ja otettava budjettikohtaan. Määrä on 54 500 euroa vähemmän kuin asiakirjassa 12 esitetty määrä.
+<P>
+Oletan, että parlamentti hyväksyy nämä tarkistukset. 
+<SPEAKER ID="44" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Parlamentti suostui esittelijän suullisiin tarkistuksiin.)">
+<P>
+   Jos kellään ei ole vastalauseita, jäsen Garriga Polledon tekniset tarkistukset hyväksytään. 
+<SPEAKER ID="45" LANGUAGE="DE" NAME="Schulz (PSE )," AFFILIATION="ryhmän puolesta.">
+<P>
+    Arvoisa puhemies, esitän seuraavan toteamuksen työjärjestyksen 157 artiklan nojalla. Siinä ole mitään salaista, ja esitän sen päinvastoin täysin avoimesti. 
+<P>
+Ryhmässämme on keskusteltu kohtaan 3 otettavasta määrästä. Tämä liittyy suureen kokoontumiseen Reininmaassa, josta olen kotoisin ja jossa katolinen kirkko on muiden järjestöjen kanssa järjestämässä suurta nuorten kokoontumista. Tiedän itse tämän kokouksen, sillä olen kerran osallistunut siihen aivan toisessa ominaisuudessa. Kyseessä on hyvä asia. Kokoukseen kuuluu myös paavin valtiovierailu. 
+<P>
+Hänen pyhyytensä osallistuu tähän kokoukseen, ja me haluaisimme varmistaa, että tilaisuuden järjestäjiä vaaditaan toimittamaan EU:n toimielimille todisteet siitä, ettei tätä rahaa käytetä paavin valtiovierailun rahoittamiseen. Vatikaanin on itse maksettava se. 
+<SPEAKER ID="46" LANGUAGE="PL" NAME="Pęk (IND/DEM )." AFFILIATION="(Suosionosoituksia)">
+<P>
+      Arvoisa puhemies, käytän työjärjestyspuheenvuoron saman artiklan nojalla, jonka mukaisesti annoitte jäsen Schulzin puhua. Haluan huomauttaa, että tässä rikotaan selvästi työjärjestystä sekä hyvän maun rajoja. Jäsen Schulz ei tunnu ymmärtävän, että lain rinnalla ovat henki sekä eettiset ja moraaliset periaatteet. Haluaisin muistuttaa häntä siitä. 
+<SPEAKER ID="47" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Talousarvio on hyväksytty. 
+<P>
+Haluaako neuvosto kommentoida vai onko se tyytyväinen parlamentin hyväksyntään? 
+<SPEAKER ID="48" LANGUAGE="EN" NAME="Balkenende," AFFILIATION="neuvosto">
+<P>
+   .  Arvoisa puhemies, olette saaneet päätökseen varainhoitovuoden 2005 talousarvion toisen käsittelyn. Tämä on ensimmäinen kokonainen 25 jäsenvaltion kattava varainhoitovuosi ja uusien henkilöstösääntöjen täytäntöönpanovuosi. Olen iloinen, että sopimus, johon me kaksi toimielintä pääsimme 25. marraskuuta 2004 järjestetyssä neuvottelukokouksessa, on nyt sisällytetty vuoden 2005 talousarvioon. 
+<P>
+On erittäin tärkeää, että parlamentin uuden toimikauden ensimmäisenä vuotena budjettivallan käyttäjät onnistuivat pääsemään kattavaan sopimukseen marraskuussa 2004. Se on myönteinen merkki, joka edesauttaa toimielinten välistä yhteistyötä ja takaa onnistuneen talousarvion Euroopan unionille. 
+<P>
+Niinpä haluankin käyttää tilaisuutta hyväkseni ja kiittää budjettivaliokunnan puheenjohtajaa Lewandowskia ja esittelijöitä Garriga Polledoa ja Jenseniä. Kiitän myös komission jäsentä Grybauskaitėa, jonka osuutta arvostan kovasti. 
+<P>
+Neuvosto voi hyväksyä toisen käsittelyn äänestyksessä hyväksytyn korotuksen enimmäismäärän. 
+<SPEAKER ID="49" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Puhemies pyysi neuvoston puheenjohtajaa Balkenendea saapumaan luokseen yhdessä komission edustajan Grybauskaitėn, budjettivaliokunnan puheenjohtajan Lewandowskin ja esittelijöiden Garriga Polledon ja Jensenin kanssa. Parlamentin puhemies ja neuvoston puhe">
+<P>
+   Kiitoksia paljon, arvoisa ministeri. 
+<SPEAKER ID="50" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="51" LANGUAGE="" NAME="" AFFILIATION="Ennen äänestyksiä">
+<SPEAKER ID="52" LANGUAGE="ES" NAME="Garriga Polledo (PPE-DE )," AFFILIATION="esittelijä.">
+<P>
+    Arvoisa puhemies, haluaisin esittää johdanto-osan A kappaleeseen suullisen tarkistuksen hyvin lyhyesti – . Tarkistus koskee varattujen määrien ottamista tiettyihin budjettikohtiin. Luen sen espanjaksi:
+<P>
+"A. ottaa huomioon, että parlamentin vuodeksi 2005 hyväksymä talousarvio on 116 554 135 698 euroa maksusitoumusmäärärahoina, eli 6,1 prosenttia suurempi kuin vuoden 2004 talousarvio, ja 106 300 000 000 euroa maksumäärärahoina, eli 4,4 prosenttia suurempi kuin vuoden 2004 talousarvio; ottaa huomioon, että maksumäärärahojen osuus vuoden 2005 arvioidusta BKTL:sta on vain 1,1004 prosenttia, kun taas rahoitusnäkymissä vahvistettu määrä on 1,08 prosenttia, mikä vastaa 7 935 miljoonan erotusta," 
+<SPEAKER ID="53" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti antoi suostumuksensa.)">
+<SPEAKER ID="54" LANGUAGE="FR" NAME="" AFFILIATION="(Parlamentti hyväksyi päätöslauselman.)">
+<P>
+  Arvoisa puhemies, voisitteko hidastaa hieman tahtia, sillä toisen kielen kautta tehtävä tulkkaus saavuttaa meidät vasta seuraavan äänestyksen kohdalla? Ottakaa huomioon, että uusille jäsenvaltioille ei tulkata yhtä nopeasti kuin vanhoille. 
+<SPEAKER ID="55" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi lainsäädäntöpäätöslauselman.)">
+<P>
+(2)
+<SPEAKER ID="56" LANGUAGE="DE" NAME="Schulz (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, hyvät kollegat, selitän lyhyesti, miksi ryhmämme on peruuttanut allekirjoituksensa tästä yhteisestä päätöslauselmaesityksestä. Euroopan parlamentin sosialidemokraattinen ryhmä vastusti periaatteessa tätä menettelyä, sillä komission pitäisi mielestämme esittää ohjelmansa ensin ja parlamentin ottaa siihen kantaa vasta sen jälkeen. Emme saaneet tätä läpi puheenjohtajakokouksessa, ja menettely hyväksyttiin. Pystyimme tiettyyn pisteeseen asti kannattamaan päätöslauselman tämänhetkistä sanamuotoa, sillä siinä on myös monia kohtia, joihin voimme suostua ja jotka voimme hyväksyä. 
+<P>
+Tekstissä on kuitenkin monia keskeisiä kohtia, joiden vuoksi ryhmämme katsoo tällä hetkellä – eilisiltana käydyn pitkän keskustelun jälkeen – että komission olisi ensin ilmaistava kantansa näistä asioista eikä parlamentin. Haluamme näin ollen omaksua jokaisessa jäsenvaltiossa tavanomaisen käytännön, jossa hallitus esittää ensin ohjelmansa ja parlamentti ilmaisee sen jälkeen kantansa. Näin pitäisi tehdä tässäkin tapauksessa, joten odotamme nyt, että komissio esittää ohjelmansa. Emme ota osaa tähän äänestykseen. 
+<SPEAKER ID="57" LANGUAGE="EN" NAME="Ek (ALDE )." AFFILIATION="(Suosionosoituksia)">
+<P>
+    Arvoisa puhemies, jos sosialidemokraattien ryhmä saa ilmaista mielipiteensä tästä menettelystä työjärjestyksen 152 artiklan nojalla, muidenkin ryhmien pitäisi saada tehdä niin. Olemme hyvin pettyneitä siihen, että PSE-ryhmä veti allekirjoituksensa pois yhteisestä tekstistä, vaikka kaksi ryhmän varapuheenjohtajaa oli neuvottelemassa siitä. Toivomme PSE-ryhmän ymmärtävän myös, että äänestämällä kompromissia vastaan se ottaa sen riskin, ettei parlamentilla ole mitään kantaa uuden komission politiikan strategisista suuntaviivoista. Haluaako PSE-ryhmä todella, että näin käy ja Euroopan parlamentin maine menee pilalle? 
+<SPEAKER ID="58" LANGUAGE="" NAME="Puhemies. –" AFFILIATION="">
+<P>
+   Jäsen Schulzin ja jäsen Ekin puheenvuorot ovat varmastikin selkiyttäneet asiaa parlamentille. 
+<SPEAKER ID="59" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi päätöslauselman.)">
+<SPEAKER ID="60" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="61" LANGUAGE="SV" NAME="Goudin, Lundgren ja Wohlin (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Kannatamme ajatusta joustovälineestä EU:n talousarviossa, jotta budjetointiin saadaan liikkumavaraa täysin ennakoimattomia menoja varten. Tavoitteita on sen jälkeen käsiteltävä erillisin järjestelyin. Ne voivat olla luonteeltaan hyvinkin erilaisia. 
+<P>
+Esimerkiksi Peace II -ohjelma on perusteltu, koska se on EU:n sisäinen asia, kun taas vastustamme sitä, että EU on organisaationa mukana rahoittamassa Irakin jälleenrakentamista. Jäsenvaltioiden on itse päätettävä tällaisista toimista kunkin valtion demokraattisten päätösten mukaisesti. 
+<SPEAKER ID="62" LANGUAGE="PT" NAME="Ribeiro e Castro (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . – Kuten kaikki tiedämme, joustovälineestä, jonka enimmäismäärä on 200 miljoonaa euroa, on tarkoitus rahoittaa tiettynä varainhoitovuotena tarkasti määriteltyjä menoja, joita ei voida kattaa yhden tai useamman muun otsakkeen enimmäismäärien rajoissa käytettävissä olevista määristä. Se on erittäin tärkeä väline, jolla vastataan ilmeneviin tarpeisiin.
+<P>
+Tänä nimenomaisena vuonna pidän myös välttämättömänä, että Euroopan unioni ottaa käyttöön joustovälineen varoja rahoittaakseen sen, että yhteisö osallistuu Irakin kunnostamis-, jälleenrakentamis- ja vakauttamistoimiin Madridin ministerikokouksessa tehdyn sitoumuksen mukaisesti ja tukeakseen rauhanprosessin vahvistamista Irlannin tasavallassa, missä epävakaus on viime aikoina lisääntynyt.
+<P>
+Nähdäkseni nyt on aika saada aikaan rakenteellinen ratkaisu erillisvirastojen jatkuvasti kasvaviin rahoitustarpeisiin ja sovittaa niiden rahoitus yhteen sisäisten politiikkojen kanssa.
+<P>
+Äänestin yleisesti ottaen mietinnön puolesta. 
+<SPEAKER ID="63" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="64" LANGUAGE="PT" NAME="Ribeiro (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . – Tämä vuoden 2005 talousarvion hylkäämistä koskeva esitys, jonka ryhmäni teki ja jossa oma panokseni oli merkittävä, on sekä asianmukainen että johdonmukainen. 
+<P>
+Se auttaa selkiyttämään niiden poliittisten tahojen velvollisuuksia, jotka esittävät kritiikkiä mutta eivät vastaa siihen toiminnalla. Pahoittelen näin ollen, että hylkäysesitys hylättiin. 
+<P>
+Hylkäysesitys on asianmukainen, koska tämä on laajentuneen unionin ensimmäinen kokonainen vuosi, mikä aiheuttaa koheesion lisäystarpeita, ja tärkeä etappi vuosien 2007–2013 rahoitusnäkymistä käytävien neuvottelujen kannalta. Näin ollen ei voida hyväksyä sitä, että vuodeksi 2005 laaditaan yhteisön talousarvio, joka on psykologisista syistä vain hieman yli prosentin (muutamalla prosentin tuhannesosalla) yhteisön bruttokansantulosta, samalla kun peitellään sitä, että tämä on selkeästi yhteydessä niin sanotun kuuden nettomaksajan kirjeen allekirjoittajien tavoitteisiin pitää yllä vuoden 2004 talousarviota, joka on jo suhteessa alhaisin vuoden 1987 jälkeen.
+<P>
+Hylkäysesitys on johdonmukainen, koska teimme jo nykyisen rahoituskehyksen alussa esityksen vuoden 2000 talousarvion hylkäämiseksi, ja viisi vuotta myöhemmin kritiikkimme on osoittautunut paikkansapitäväksi. Taloudelliseen ja sosiaaliseen koheesioon ei ole riittävästi varoja, työllisyys-, sosiaali-, ympäristö- ja yhteistyöasioiden alat ovat alirahoitettuja ja niiltä puuttuu sopivia ohjelmia, on havaittavissa täytäntöönpanon vaikeuksia ja avoimuuden puutetta, ja ennen kaikkea talousarvio on alistettu vakaus- ja kasvusopimuksen vaatimuksille ja säästöjen tekemiseen, jotta näillä nimenomaisilla määrärahoilla voidaan rahoittaa laajentumisia sekä muita ensisijaisia painopisteitä, kuten sotaa ja propagandaa. 
+<SPEAKER ID="65" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="66" LANGUAGE="PL" NAME="Protasiewicz (PPE-DE )." AFFILIATION="(Suosionosoituksia)">
+<P>
+    Kiitoksia paljon, arvoisa puhemies. Haluaisin kertoa äänestäneeni tarkistuksen 127 puolesta, joka koskee pääluokkaa III ja rahoitusta maailman nuorisopäivälle (World Youth Day), sillä kyseinen tapahtuma ei kuulu viralliseen valtiovierailuun. Kyse on sen sijaan nuorten eurooppalaisten kristittyjen tapaamisesta, jolla on mitä jaloimmat päämäärät. Ellei jäsen Schulz olisi aatteellisesti niin itsepäinen, hän ymmärtäisi kuinka paljon Eurooppa hyötyisi nuorten ja Pyhän isän välisestä tapaamisesta. Ellei jäsen Schulz olisi aatteellisesti niin itsepäinen ja haluton suhtautumaan tähän asiaan avoimesti, hän ei olisi sekoittanut sitä valtionpäämiehen viralliseen vierailuun eli paavin vierailuun Saksan liittotasavallassa. 
+<SPEAKER ID="67" LANGUAGE="PT" NAME="Silva Peneda (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . – Minulla oli aktiivinen rooli neuvottelukokouksissa, joissa päästiin sopimukseen Euroopan unionin talousarviosta vuodeksi 2005.
+<P>
+Meillä on hyvä syy olla ylpeitä ja tyytyväisiä. Laajentuneen EU:n ensimmäistä talousarviota koskevien neuvottelujen epäonnistuminen olisi ollut surkea poliittinen viesti Euroopan kansalaisille. Se olisi osoittanut, ettemme kykene johtamaan 25 jäsenvaltion unionia. 
+<P>
+Kaikki yhteisön politiikan alat saavat asianmukaisen rahoituksen vuonna 2005 asetettujen ensisijaisten painopisteiden mukaisesti. Vuoteen 2004 verrattuna talousarviota on lisätty 6,5 prosenttia ja se ylittää vertauskuvallisen 1 prosentin rajan BKTL:stä.
+<P>
+Neuvosto, parlamentti ja komissio ovat päässeet yhteisymmärrykseen julkilausumasta, jonka mukaan maksumäärärahojen määrää tarkistetaan vuoden 2005 puolivälissä ja asianmukaisia budjettikohtia täydennetään tarvittaessa. 
+<P>
+Portugalin ensisijaiset painopisteet on otettu rahoituksen osalta huomioon vuonna 2005. Alue- ja koheesiopolitiikkaa sekä yhteistä maatalouspolitiikkaa ja siihen kuuluvia koehankkeita varten on enemmän rahoitusta samoin kuin kalastussopimusten tekemiseen.
+<P>
+Talousarvio on osoitus asetettujen tavoitteiden uskottavuudesta. 
+<P>
+On järjetöntä antaa suurellisia poliittisia lausuntoja ilman, että varmistetaan rahoitus, jolla nämä aikomukset pannaan täytäntöön. 
+<P>
+Vuoden 2005 talousarvioesitys on näin ollen uskottava väline. 
+<SPEAKER ID="68" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="69" LANGUAGE="SV" NAME="Andersson (PSE )," AFFILIATION="kirjallinen.">
+<P>
+    Talousarviota koskevassa päätöslauselmassa todetaan, että Euroopan parlamentti pitää valitettavana neuvoston ehdottamia laaja-alaisia määrärahojen vähennyksiä maataloudessa. Me, jäsenet Andersson, Hedh, Hedkvist Petersen, Segelström ja Westlund, olemme tästä eri mieltä. Emme näe mitään syytä siihen, että maataloudessa lisättäisiin entisestään määrärahoja neuvoston ehdotuksesta. 
+<SPEAKER ID="70" LANGUAGE="SV" NAME="Cederschiöld, Fjellner, Hökmark ja Ibrisagic (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Maltillisen kokoomuksen jäsenet ovat tänään äänestäneet tyhjää päätöslauselmaa koskevassa lopullisessa äänestyksessä. 
+<P>
+Päätöslauselmassa on mielestämme paljon kannatettavaa, mutta koska äänestimme talousarviolukuja koskevassa äänestyksessä varsin monia menojen lisäysehdotuksia vastaan, emme voineet tukea täysimääräisesti päätöslauselman johtopäätöksiä.
+<P>
+Olemme eri mieltä neuvostoa kohtaan sen vuoksi esitetystä yleisestä arvostelusta, että se on pienentänyt talousarviota. Näin on erityisesti maataloustukien tapauksessa. Olemme tyytyväisiä siihen, että neuvosto on ottamassa askeleen oikeaan suuntaan pienentämällä niitä. Mielestämme maatalouspolitiikkaa on kuitenkin uudistettava perusteellisesti, ja olisimmekin halunneet, että määrärahoja olisi vähennetty vielä enemmän. 
+<SPEAKER ID="71" LANGUAGE="DA" NAME="Christensen (PSE )," AFFILIATION="kirjallinen.">
+<P>
+    Päätimme äänestää Garriga Polledon ja Jensenin mietinnön puolesta huolimatta 2 kohdasta, jossa pidetään valitettavana neuvoston ehdottamia maatalousmäärärahojen vähennyksiä. Tätä kohtaa emme voi tukea. 
+<SPEAKER ID="72" LANGUAGE="FR" NAME="De Keyser (PSE )," AFFILIATION="kirjallinen.">
+<P>
+    Ei voida hyväksyä sitä, että samasta budjettikohdasta rahoitetaan kahta niin erilaista tapahtumaa kuin fasismin päättymisen 60:ttä vuosipäivää ja paavin vierailua Kölniin. Voin vain toivoa, ettei tämä outo yhteensattuma johdu mistään häpeällisestä kaupankäynnistä. Viimeksi mainittuun tapahtumaan liittyvää nuorten kokoontumista ei pidä rahoittaa Euroopan unionin talousarviosta, vaan rahoituksesta saa vastata katolinen kirkko, jolle tapahtuma tuo myönteistä julkisuutta.
+<P>
+Äänestän tätä menoerää vastaan aikana, jolloin niin monet muut nuorten oma-aloitteiset toimet saavat olla ilman unionin rahoitusta. 
+<SPEAKER ID="73" LANGUAGE="PT" NAME="Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . – Kantamme on selvä ja hyvin tiedossa: vastustamme sotaa sekä Yhdysvaltain ja Yhdistyneen kuningaskunnan miehitystä Irakissa ja vaadimme miehitysjoukkojen välitöntä vetäytymistä kyseisestä maasta. Tämä on syynä sen ehdotuksen hylkäämiselle, jonka mukaan Euroopan unionin olisi rahoitettava Irakin jälleenrakennustöitä yhteisön talousarviosta. 
+<P>
+Kannatamme toki Irakin väestölle annettavan humanitaarisen avun ja ruoka-avun lisäämistä, muttemme voi hyväksyä sitä, että apuamme käytetään oikeuttamaan tapahtunut tai sitä käytetään hyökkäävän osapuolen hyväksi. 
+<P>
+Periaatekantoja lukuun ottamatta ei myöskään voida hyväksyä sitä, että tätä apua rahoitetaan Euroopan unionin yhteistyö- ja kehitysyhteistyöpolitiikan kustannuksella – toisin sanoen vähemmän kehittyneiden maiden kustannuksella – niin kuin ei myöskään voida hyväksyä sitä, ettei käytössä ole minkäänlaista monivuotista puiteohjelmaa kuten Balkanin maiden tapauksessa. 
+<P>
+Tiedämme, että tässä mietinnössä käsitellään sitä, minkälaista rahoitusta otetaan käyttöön tai toisin sanoen kuinka otetaan käyttöön ylimääräiset 185 miljoonaa euroa, jotka olisi muuten hankittava uudelleenjärjestelyjen kautta toisista otsakkeista. Tiedämme myös, että lisämäärärahoja käytetään Peace-ohjelman ja erillisvirastojen rahoittamiseen ja että sovitut määrät eivät ole tarpeisiin nähden riittäviä eikä niillä ratkaista rahoitustarpeita. 
+<SPEAKER ID="74" LANGUAGE="SV" NAME="Goudin, Lundgren ja Wohlin (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+     Kesäkuun lista vastustaa parlamentin esitystä vuoden 2005 talousarvioksi, sillä se sisältää EU:n maksusitoumusmäärärahojen lisäämisen 1,24 prosenttiin EU-maiden odotetusta bruttokansantulosta. Mielestämme vuoden 2005 maksusitoumusmäärärahat eivät missään nimessä saisi ylittää komission ehdottamaa 1,14:ää prosenttia. 
+<P>
+Vaikka maksumäärärahat eivät vielä ylitä 1:tä prosenttia bruttokansantulosta, ne yltävät vähitellen maksusitoumusmäärärahojen tasolle vuoden 2005 talousarviossa. Tämä on pitkän aikavälin rahoituskehyksen lähtökohta. Sen vuoksi on päästävä alemmalle tasolle viimeistään vuonna 2005. Tavoitteena olisi oltava alittaa 1 prosenttiin bruttokansantulosta asetettu menojen enimmäismäärä.
+<P>
+Seuraavassa on joitakin ehdotuksia leikkauksiksi: 
+<P>
+* Mielestämme EU:n olisi alettava leikata maataloustukea viimeistään vuonna 2005. 
+<P>
+* EU:n poliittisille puolueille annettava tuki olisi poistettava kokonaan. 
+<P>
+* Tupakanviljelylle annettava tuki olisi poistettava. Sen, että maanviljelijöitä autetaan menestyksekkäästi siirtymään muihin viljelykasveihin, pitäisi olla yksittäisten maiden vastuulla.
+<P>
+* Tiedotustoimiin annettavaa tukea voidaan vähentää, koska mielestämme on poliittisesti vaikeaa antaa puolueetonta tietoa ennen perustuslakia koskevia kansanäänestyksiä. Katsomme, että on yksittäisten maiden ja niissä toimivien poliittisten puolueiden tehtävä antaa tällaista tietoa. EU ei saisi puuttua jäsenvaltioiden demokraattiseen prosessiin. 
+<SPEAKER ID="75" LANGUAGE="DA" NAME="Jensen (ALDE )," AFFILIATION="kirjallinen.">
+<P>
+    Euroopan parlamentin Tanskan liberaalipuolueeseen kuuluvat jäsenet Riis-Jørgensen, Busk ja Jensen äänestivät Itsenäisyys/demokratia -ryhmän jättämää tarkistusta 3 vastaan. Liberaalipuolue kannattaa matkakulukorvausten uudistamista siten, että kaikki kohtuulliset ja välttämättömät matkakulut korvataan. Sitä ei taata tällä tarkistuksella. 
+<SPEAKER ID="76" LANGUAGE="PT" NAME="Ribeiro (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . – Yhdenmukaisesti vuoden 2005 yhteisön talousarvioesityksen hylkäämistä koskevan esityksemme kanssa äänestimme tätä mietintöä vastaan, sillä se on osoitus siitä tekopyhyydestä ja peittelystä, joka on määritellyt koko tätä nyt päättymässä olevaa talousarviomenettelyä. Parlamentti arvostelee neuvostoa ja valittaa, että se vähentää maatalousmäärärahoja, ettei se hyväksy parlamentin ehdotuksia, että se on haluton arvioimaan Euroopan erillisvirastojen tarpeita ja että se on pakottanut parlamentin tekemään leikkauksia ensimmäisestä käsittelystä. Tässä on enemmän kuin tarpeeksi syitä hylätä mietintö. 
+<P>
+Tästä tapahtumaketjusta huolimatta parlamentti on tyytyväinen neuvoston kanssa 25. marraskuuta pidetyssä neuvottelukokouksessa tehtyyn sopimukseen ja kaunistelee menettelyä väittämällä, että parlamentin toimien ansiosta vältettiin huomattavat vähennykset ja säilytettiin sen perinteiset painopisteet, mikä ei ilmiselvästikään pidä paikkaansa. Sama pätee valitettavasti kaikkiin talousarviomenettelyihin vuodesta 2000 lähtien. Tuona aikana joustoväline on otettu käyttöön viisi kertaa peräkkäin, minkä vuoksi Portugalin kommunistisen puolueen ehdotus nykyisten rahoitusnäkymien tarkistamisesta on perusteltu. 
+<P>
+Joka vuosi parlamentti suostuu pyhänä pidetyn vakaussopimuksen tähden ehtoihin, jotka asettavat jopa sen omat budjettivaltuudet kyseenalaisiksi. Tämä herättää kysymyksen siitä, miksi se sitten haluaa lisätä valtuuksiaan, jos ei se kerran käytä niitä. 
+<SPEAKER ID="77" LANGUAGE="PT" NAME="Ribeiro e Castro (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . – Haluaisin toistaa jo ensimmäisessä käsittelyssä tehdyt huomiot ja pahoitella, että tämä esitys varainhoitovuoden 2005 talousarvioksi on kokonaisuudessaan vain 1,004 prosenttia Euroopan unionin 25 jäsenvaltion bruttokansantuotteesta (BKT). Toivoisin sen olevan kunnianhimoisempi siksi, että se on välttämätöntä kymmenen uuden jäsenvaltion liittymisen jälkeen ja jotta niiden puheessa olisi järkeä, jotka sanovat haluavansa kehittää institutionaalista Eurooppaa siirtymällä uusille politiikan aloille ja omaksumalla uusia vastuualueita. 
+<P>
+Kun kuitenkin otetaan huomioon neuvottelut kokonaisuudessaan ja nykytilanteen todelliset taloudelliset ja rahoitukselliset ongelmat, haluaisin korostaa joitakin vaikeassa sovittelumenettelyssä saavutettuja tuloksia. Mielestäni on merkityksellistä, että ylitimme niin sanotun kuuden nettomaksajan kirjeessä vaaditun 1 prosentin psykologisen rajan, vaikkakin vain pienellä määrällä.
+<P>
+Pidän myönteisinä joitakin edistysaskelia, joita tehtiin muun muassa meriturvallisuuden alalla (erityisesti saastumisen osalta) ja siinä, että säilytettiin rakennetoimien ja ulkoisten toimien kehys erityisesti kehitysyhteistyössä. Pidän myönteisenä myös erikoissuhteita AKT-maiden kanssa.
+<P>
+Esittelijän huomautukset ovat realistisia ja viittaavat tiettyyn epäjohdonmukaisuuteen sen kanssa, että komission ehdotuksessa tämän talousarvion julistettiin olevan "kilpailukyvyn ja koheesion" talousarvio. Odotan rahoitusnäkymiltä vuosille 2007–2013 paljon enemmän. 
+<SPEAKER ID="78" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="79" LANGUAGE="SV" NAME="Goudin, Lundgren ja Wohlin (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Kalastussopimuksia koskevaa Euroopan unionin politiikkaa on mielestämme tarkistettava. Kalastusvesien liikakäyttö ajaa ihmiset entistä suurempaan köyhyyteen ja riistää meriympäristöltä ratkaisevan osan ravintoketjua. Niille maille, joiden kanssa EU tekee kalastussopimuksia, olisi sen sijaan paremminkin annettava apua, jotta ne voisivat itse kehittää omaa kalastusteollisuuttaan.
+<P>
+Emme hyväksy tarkistuksia, joilla komissiolle pyritään antamaan riippumaton tulonlähde. Kun EU tekee kolmannen maan kanssa kalastussopimuksen, tälle maalle annettavan taloudellisen korvauksen rahoittaminen kuuluu mielestämme kokonaisuudessaan niille EU:n jäsenvaltioille, joiden kalastusalukset hyödyntävät sopimuksen tarjoamia etuja. Jäsenvaltioiden olisi maksettava suhteessa kalasaaliidensa määrään. Näiden jäsenvaltioiden on sitten kunkin päätettävä omalta osaltaan, rahoittavatko ne nämä menot verottamalla omia kalastusaluksiaan. 
+<SPEAKER ID="80" LANGUAGE="PT" NAME="Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . – Äänestin mietinnön puolesta, koska kalastuskysymys on Portugalille tärkeä. Erityisesti tämä koskee kansainvälisiä kalastussopimuksia, joita kohtaan Portugalin kalastusteollisuudella on välitöntä kiinnostusta. Puoltava ääneni perustui myös siihen, että nykyisen pöytäkirjan voimassaolon jatkaminen on parhaillaan käsiteltävänä eivätkä ehdotetut tarkistukset vahingoita lainkaan kansallisia etuja. 
+<SPEAKER ID="81" LANGUAGE="PT" NAME="Ribeiro e Castro (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . – Tämä ehdotus koskee sitä aikaa, joka jää Euroopan unionin ja Komorien islamilaisen tasavallan välisen kalastussopimuksen pöytäkirjan voimassaoloajan päättymisen ja sen päivän väliin, johon mennessä komissio uskoo, että arvioinnit sopimuksen uudelleen neuvottelemista on saatu päätökseen. Kun otetaan huomioon yhteisön laivaston merkittävä toiminta kyseisellä merialueella (40 tonnikala-alusta ja 25 pintasiima-alusta), ratkaisuksi on ehdotettu edellisen sopimuksen voimassaolon jatkamista siihen asti, kunnes uusi kalastuspöytäkirja on tehty.
+<P>
+Voimassaolon jatkaminen ei muuta edellisen pöytäkirjan ehtoja ja rajoituksia, ja jäsenvaltioiden taloudelliset korvaukset ja kalastusmahdollisuudet pysyvät ennallaan. 
+<P>
+Koska Portugalin laivastolla on kalastusmahdollisuudet viidelle pintasiima-alukselle kyseisellä alueella, Portugalin on tärkeää tukea tätä voimassaolon jatkamista ja ajaa sitä, että sopimuksen uudelleenneuvotteluissa saavutetaan myönteinen lopputulos.
+<P>
+Äänestin mietinnön puolesta. 
+<SPEAKER ID="82" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="83" LANGUAGE="PT" NAME="Coelho (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . – Olen erittäin tyytyväinen päätökseen siitä, että perustamissopimuksen 67 artikla voidaan panna täysimääräisesti täytäntöön, jotta IV osastoon kuuluvista aloista, kuten maahanmuutosta, turvapaikka-asioista ja rajatarkastuksista, voidaan päättää määräenemmistöllä yhteispäätösmenettelyn mukaisesti.
+<P>
+Lisäämme tehokkuutta ja lujitamme parlamentin asemaa taaten samalla demokraattisen legitimiteetin periaatteen, joka on olennainen hyväksyttäessä lainsäädäntöä niin arkaluonteisista asioista kuin turvapaikka- ja maahanmuuttopolitiikasta sekä muista kansalaisten perusoikeuksiin vaikuttavista kysymyksistä. 
+<P>
+Kannatan jäsen Bourlangesin mietintöä ja hänen tekemäänsä kahta konkreettista ehdotusta seuraavista syistä: 
+<P>
+- Yhteispäätösmenettely ja määräenemmistöpäätökset laillisen maahanmuuton alalla ovat olennaisia unionin maahanmuuttopolitiikan hoitamisen kannalta. Perustuslain allekirjoittamisen yhteydessä 29. lokakuuta 2004 tehtiin selväksi, että laillista maahanmuuttoa koskevat toimenpiteet eivät saa vaikuttaa jäsenvaltioiden oikeuteen päättää siitä, kuinka paljon kolmansien maiden kansalaisia ne voivat päästää alueelleen hakemaan työtä. 
+<P>
+- Niissä rajoituksissa, jotka koskevat yhteisöjen tuomioistuimen toimivaltaa IV osaston aloilla ja jotka otettiin käyttöön Amsterdamissa, koska pelättiin liiallista työmäärää ja viivytyksiä, ei ole myöskään järkeä, koska Nizzassa otettiin käyttöön 225 a artikla... 
+<SPEAKER ID="84" LANGUAGE="DE" NAME="Kaufmann (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Turvapaikka- ja maahanmuuttopolitiikkaa koskeva lainsäädäntö on vuosikausia ollut läpeensä epädemokraattista. Amsterdamin sopimuksella alaa koskeva lainsäädäntövalta siirrettiin jäsenvaltioilta EY:lle ja otettiin samalla pois kansallisilta parlamenteilta. Lisäksi tämä lainsäädäntövalta annettiin yksinomaan neuvostolle eli kansallisten toimeenpanoelinten edustajille, ja parlamentin tehtäväksi jäi ainoastaan ottaa kantaa. Tämänkaltaisella perusoikeuksiin olennaisesti vaikuttavalla alalla on kestämätöntä, että toimeenpanoelinten edustajien annetaan laatia lainsäädäntöä tällä tavalla. 
+<P>
+Tämä ehdotus neuvoston päätökseksi yhteispäätösmenettelyn ottamisesta käyttöön on näin ollen askel kohti parlamentin lainsäädäntövallan lisäämistä – askel, joka olisi pitänyt ottaa jo aikaa sitten. Toisaalta neuvoston aikomuksena on varata jälleen tietyt alat yksinomaan toimeenpanoelinten edustajille. Juuri tätä Bourlangesin mietinnössä arvostellaan, ja sen takia kannatankin sitä. 
+<P>
+Mietinnössä on kuitenkin mielestäni ongelmallista vaatimus perustuslakiin sisällytettävästä säännöksestä, jonka nojalla jäsenvaltiot voisivat yksipuolisesti estää kolmansien maiden kansalaisten pääsyn työmarkkinoille. Ollessani perustuslakia käsittelevän valmistelukunnan jäsen suhtauduin kriittisesti tähän Saksan hallituksen perustuslakiin sisällyttämään sääntöön. Se on paitsi osoitus kansallisten etujen tavoittelusta, myös ristiriidassa – mikä on paljon vakavampaa – sen periaatteen kanssa, jonka mukaan työntekijöiden pitäisi voida liikkua vapaasti yhteisessä Euroopassa. Omasta mielestäni tätä säännöstä olisi tarkasteltava ensimmäisten joukossa sen jälkeen, kun perustuslaki on tullut voimaan. 
+<SPEAKER ID="85" LANGUAGE="PT" NAME="Ribeiro e Castro (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . – Esittelijä yritti ehdottaa, että yhteisöjen tuomioistuimen toimivaltaa laajennettaisiin kumoamalla EY:n perustamissopimuksen 68 artikla. Tämä oli lisäys ehdotukseen neuvoston päätökseksi sikäli, että lukuisiin EY:n perustamissopimuksen kolmannen osan IV osastoon kuuluviin aloihin (viisumi-, turvapaikka- ja maahanmuuttopolitiikkaan sekä muuhun henkilöiden vapaaseen liikkuvuuteen liittyvään politiikkaan) sovellettaisiin sen jälkeen EY:n perustamissopimuksen 251 artiklaa.
+<P>
+Kuten olen jo muissa yhteyksissä korostanut, unionin olisi mielestäni vähitellen vakiinnutettava toimivaltansa ja käytäntönsä sen sijaan, että se pyrkii jatkuvasti haalimaan uusia toimivaltuuksia. Koko ehdotus koskee arkaluonteisia asioita, ja mietinnön sisältämä lisäys on osoitus keskusjohtoiselle Euroopalle tunnusomaisesta suuruudenhulluudesta, vaikka sillä ei olekaan kansalaisten kannatusta. 
+<P>
+En ole varma, että ehdotettu kumoaminen vahvistaisi Euroopan kansalaisten ja kolmansien maiden kansalaisten oikeussuojaa vähimmässäkään määrin, kuten jäsen Bourlanges väittää. Uskon pikemminkin, että sillä olisi aivan päinvastainen vaikutus. Mielestäni parlamentin olisi pikemminkin syytä tukea päätösehdotusta sellaisenaan – se on jo itsessään huomattava ja kunnianhimoinen edistysaskel vapauteen, turvallisuuteen ja oikeuteen perustuvan alueen kannalta – ja pidättäydyttävä tavoittelemasta sairaalloisen kyltymättömästi jotakin vielä parempaa. 
+<SPEAKER ID="86" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="87" LANGUAGE="SV" NAME="Goudin, Lundgren ja Wohlin (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+     Mietinnössä ehdotettuja toimia, joiden tarkoituksena on vahvistaa demokratiaa, ihmisoikeuksia ja oikeusvaltion toimintaa kolmansissa maissa, tarvitaan kipeästi, ja ne ovat usein välttämättömiä. Ihmettelemme kuitenkin, pitääkö juuri EU:n panna nämä toimet täytäntöön. YK:lla on pitkän kokemuksensa ja maailmanlaajuisen merkityksensä ansiosta paremmat valmiudet siihen. 
+<P>
+Vastustamme myös näitä toimia varten vuosille 2005–2006 osoitettua suurta, noin 225 miljoonan euron summaa. Tavoitteita ja toimia ei ole määritelty tai rajoitettu selkeästi, ja kokemukset EU:n kyvystä käyttää tällaisia varoja eivät ole kovin rohkaisevia. 
+<P>
+Päätimme näistä syistä äänestää mietintöä vastaan. 
+<SPEAKER ID="88" LANGUAGE="PT" NAME="Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . – Esittelijä tukee komission ehdotusta, jonka aiheena on oikeusperustan jatkaminen ja rahoituspuitteiden luominen vuoden 2006 loppuun asti toimille, joilla puolustetaan ja edistetään ihmisoikeuksia ja demokraattisia periaatteita kehitysmaissa ja muissa kolmansissa maissa. Äänestin ehdotuksen puolesta, koska mielestäni tämä olisi sekä erittäin hyödyllistä että täysin perusteltua aikana, jolloin vaakalaudalla ovat hyvin tärkeät yhteisön ulkopolitiikkaa koskevat kysymykset. 
+<SPEAKER ID="89" LANGUAGE="PT" NAME="Ribeiro e Castro (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . – Nykyisen asetuksen nojalla yhteisön rahoitusta annetaan tukien ja sopimusten muodossa, ja komissio ehdottaa, että tämä käytäntö ulotettaisiin soveltuvin osin myös oikeushenkilöihin. Olen tästä samaa mieltä. Kansalaisyhteiskunnan osallistumista olisi tuettava riippumatta kussakin tapauksessa kyseessä olevasta institutionaalisesta rakenteesta. Euroopan unionin on välttämätöntä jatkaa, parantaa ja tehostaa 8. toukokuuta 2001 annetussa komission tiedonannossa "Euroopan unionin tehtävä ihmisoikeuksien ja demokratisoitumisen edistämisessä kolmansissa maissa" esitettyjä toimia.
+<P>
+Euroopan unioni edustaa monille ainoaa toivoa. Kuten ulkoasiainvaliokunta osoitti (vain yhden äänestettyä tyhjää), meidän on näin ollen annettava eurooppalaiselle ihmisoikeus- ja demokratia-aloitteelle (EIDHR) kaikki mahdolliset välineet, jotta se voi täyttää tehtävänsä, ja keskityttävä pääasiassa tukemaan demokratisoitumista, hyvää hallintotapaa ja oikeusvaltion periaatetta. 
+<P>
+Muilta osin viittaan parlamentin keskustelussa eilen pitämääni puheenvuoroon. 
+<P>
+Äänestin tietenkin mietinnön puolesta. 
+<SPEAKER ID="90" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="91" LANGUAGE="DE" NAME="Ebner (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, puhun hyvin lyhyesti. Haluaisin sanoa, että äänestin mietinnön puolesta ja toivon, että edistymme tällä alalla huomattavasti tulevaisuudessa. 
+<P>
+Osoitin tästä aiheesta kysymyksen myös uudelle komissiolle ja ehdotin siviilipalveluksen perustamista Euroopan unionin nuorille – sekä naisille että miehille. Sen pääasiallisena tarkoituksena olisi luoda oikeat olosuhteet tällaisia tilanteita varten, sillä se lisäisi Euroopan unionin kansalaisten vastuuntuntoa ja tietoisuutta paitsi katastrofien yhteydessä myös sellaisen siviilipalveluksen aikana, jonka tarkoituksena olisi lisätä solidaarisuutta.
+<P>
+Kuten totesin, kannatan yleisesti ottaen tätä mietintöä ja olen tyytyväinen siihen, että työtä jatketaan samaan suuntaan. 
+<SPEAKER ID="92" LANGUAGE="NL" NAME="Blokland (IND/DEM )," AFFILIATION="kirjallinen">
+<P>
+   .  Äänestin tänään Papadimoulisin mietintöä vastaan. Vilkaisu taaksepäin osoittaa, että tämä on johdonmukaista aiemman äänestyskäyttäytymiseni kanssa. Syynä päätökseeni on, että komission toimintaohjelma ei mielestäni ole toissijaisuusperiaatteen mukainen. 
+<P>
+Jäsenvaltioilla on kaikilla omat pelastuspalveluohjelmansa ja omat koordinointi-, koulutus- ja avustusohjelmansa. Eurooppalaista yhteistyötä tarvitaan jonkin verran, mutta erillinen eurooppalainen keskus, jolla on omat toimivaltuudet ja joka tarjoaa ympärivuorokautista seurantaa, on tarpeeton. Ehdotuksen rahoitusperusta on sitä paitsi puutteellinen, mikä on toinen syy olla puoltamatta tätä ehdotusta. 
+<SPEAKER ID="93" LANGUAGE="PT" NAME="Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Sellaiset luonnononnettomuudet kuin tulvat, helleaallot, metsäpalot, maanjäristykset, myrkkyjätepäästöjen aiheuttamat ympäristökatastrofit, myrkkyjätepäästöihin johtavat teollisuusonnettomuudet, vakavat teollisuusonnettomuudet ja terrori-iskut ovat luonnostaan erittäin ennalta arvaamattomia ja vaativat sen vuoksi lukemattomia uhreja ja aiheuttavat huomattavaa taloudellista vahinkoa. Meidän on työskenneltävä yhdessä ja vaihdettava tietoja, tehostettava resursseja, tehtävä tutkimusta ja pyrittävä löytämään teknisiä ratkaisuja vahinkojen lievittämiseksi mahdollisimman paljon. Mikä tärkeintä, meidän on noudatettava politiikkaa, johon kuuluu investoiminen ennaltaehkäisyyn ja koulutukseen ja jossa ovat mukana yhteisön ja kansallisen, alueellisen ja paikallisen tason poliittiset elimet sekä kaikki kansalaisyhteiskunnan järjestöt, jotka toimivat yhtenäisinä, vastuullisina ja eriytettyinä kumppaneina. 
+<P>
+Ajattoman viisaan sananlaskun mukaan on parempi ehkäistä ennalta kuin korjata, ja tämä sanonta pitää täysin paikkansa Portugalia kesinä 2003 ja 2004 koetelleiden metsäpalojen sekä Prestige- ja Erika-säiliöalusten aiheuttamien öljyvuotojen osalta. 
+<P>
+Olemme tyytyväisiä siihen, että yhteisön pelastuspalvelun alan toimintaohjelmaa on jatkettu ja sen talousarviota lisätty, mutta katsomme myös, ettei tähän kysymykseen pitäisi sen pysyvän luonteen vuoksi soveltaa aikarajoituksia.
+<P>
+Pelastuspalvelutoimet kuuluvat myös valtavirtaistamiseen: uusien maatalousmallien ja maankäyttösuunnitelmien perusteella, joilla inhimillistetään kaupunkien ja teollisuuden kasvua... 
+<SPEAKER ID="94" LANGUAGE="SV" NAME="Goudin, Lundgren ja Wohlin (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    On olemassa huomattava vaara, että annettavat taloudelliset resurssit käytetään hallintoon eikä resursseja täten koordinoida riittävän tehokkaasti.
+<P>
+Vaikka suhtaudumme erittäin myönteisesti siihen, että eri maat osoittavat toisiaan kohtaan solidaarisuutta katastrofien sattuessa, tämä ei mielestämme kuulu ensisijaisesti EU:lle, vaan jäsenvaltioiden kansallisten parlamenttien olisi päätettävä, mitä taloudellisia resursseja annetaan toisessa jäsenvaltiossa sattuvan vakavan onnettomuuden yhteydessä. 
+<SPEAKER ID="95" LANGUAGE="EL" NAME="Manolakou (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . – Haluaisimme huomauttaa, että luonnononnettomuuksien ja ihmisten aiheuttamien suuronnettomuuksien hoitamiseen tarkoitettu rahoitus on niin rajoitettua, että se tekee käytännössä mahdottomaksi antaa aineellista apua tai toimia tehokkaasti. 
+<P>
+Meille vahinkojen ennalta ehkäiseminen on tärkeämpää kuin niiden hoito, mikä tarkoittaa sellaisen politiikan, toimien ja infrastruktuurien tukemista, joilla lievitetään vahinkoja ja menetyksiä katastrofin sattuessa. 
+<P>
+Miten tämä sitten on mahdollista, kun kaikkea arvioidaan lannistavien taloudellisten kriteerien ja suuryritysten etujen perusteella? Kun suuri joukko yhteiskunnalle kuuluvia tehtäviä siirretään yksityishenkilöille, kuinka voidaan ylipäätään puhua vakavasti siitä, että otettaisiin käyttöön perustavanlaatuinen toimintatapa katastrofeilta suojautumista varten? 
+<P>
+Kun rahaa ei ole saatavilla tulvantorjuntarakenteisiin, kun maanjäristyksiltä suojautumista koskeviin standardeihin ei ylletä, kun metsät jätetään tuhopolttajien ja maantuhoajien armoille, kun laivanvarustajat eivät joudu tilille tai saa rangaistusta valtavista ekologisista katastrofeista, minkälaisesta suojelusta voidaan puhua? Millä tavoin tehokas pelastuspalvelu on määrä järjestää, kun kriittisissä tilanteissa tarvittavia julkisia hyödykkeitä ja palveluja, kuten palokuntaa, ollaan siirtämässä yksityishenkilöiden hoitoon tai muuttamassa sortomekanismeiksi?
+<P>
+Entä mitä hyötyä näistä niin sanottujen korjaavien toimien murusista sitten on? Jos haluatte mykistävän vastauksen, kysykää Kreikassa vuonna 1999 sattuneen maanjäristyksen uhreilta, jotka asuvat vielä laatikoissa. 
+<SPEAKER ID="96" LANGUAGE="PT" NAME="Marques (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Haluaisin onnitella esittelijä Papadimoulisia hänen erinomaisesta mietinnöstään, joka koskee ehdotusta neuvoston päätökseksi päätöksen 1999/847/EY muuttamisesta yhteisön pelastuspalvelun alan toimintaohjelman jatkamisen osalta.
+<P>
+Tavoitteena on varmistaa jatkuvuus tällä alalla siihen asti, kunnes uusi oikeusväline tulee voimaan. 
+<P>
+Ohjelman tavoitteena on suojella kansalaisia, ympäristöä ja omaisuutta luonnononnettomuuksien tai ihmisten aiheuttamisen suuronnettomuuksien sattuessa eri puolilla yhteisöä. Tämä tapahtuu siten, että muut ohjelman toimintaan osallistuvat maat antavat lisäapua silloin, kun kansallisten hätävalmiuksien toimintakyky ei riitä. Ohjelman perustamisesta lähtien olemme saaneet osoituksen sen tehokkuudesta ja Euroopan tason toimien välttämättömyydestä, ei vähiten Prestige-säiliöaluksen haaksirikon ja kesän 2003 metsäpalojen yhteydessä. 
+<P>
+Lisäksi mietinnössä mainitaan seitsemän osa-aluetta, joilla ohjelmaa olisi kehitettävä. Niitä ovat ennen kaikkea yhteistyö, tiedonvaihto ja resurssien lisääminen. 
+<P>
+Haluaisin ilmoittaa tukevani myös ohjelman vuotuisen talousarvion lisäämistä 2,4 miljoonaan euroon vuosina 2005 ja 2006. 
+<SPEAKER ID="97" LANGUAGE="PT" NAME="Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Koska voimassa oleva yhteisön pelastuspalvelun alan toimintaohjelma päättyy 31. joulukuuta 2004, mielestäni olisi asianmukaista jatkaa ohjelmaa kaksi vuotta, jotta nykyisen ohjelman päättymisen ja uuden välineen voimaantulon välille ei jäisi väliä. Pahoittelen kuitenkin sitä, että ohjelmaa on määrä jatkaa ilman, että vuosia 2000–2004 koskevia välttämättömiä arviointeja suoritaan.
+<P>
+Toisaalta komission pyytämä rahoituksen lisäys on realistinen ja Portugalin tapauksessa erityisen tärkeä. Äänestin näin ollen mietinnön puolesta. 
+<SPEAKER ID="98" LANGUAGE="PT" NAME="Ribeiro e Castro (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Lukuisat suuronnettomuudet, kuten Prestigen onnettomuus, erityisesti omaa maatani koetelleet metsäpalot ja Etelä-Ranskan tulvat, ovat osoittaneet Euroopan tason toimien välttämättömyyden. Suuronnettomuuksien laajuus ylittää usein kansallisten hätävalmiuksien toimintakyvyn. Tämän vuoksi nykyisen ohjelman kaltaiset Euroopan tason mekanismit ovat entistä perustellumpia. Tämä ehdotus on askel tähän suuntaan, sillä siinä rahoitusta lisätään 1,5 miljoonasta eurosta vuonna 2004 2,4 miljoonaan euroon vuodessa vuosina 2005 ja 2006.
+<P>
+Suhtaudun myönteisesti tähän kehitykseen, joka on osa pelastuspalvelun alan tehostettua yhteistyötä. EU alkoi kiinnittää siihen huomiota vuonna 1997 aloitetussa ensimmäisessä yhteisön pelastuspalvelun alan toimintaohjelmassa, jonka merkittävin edistysaskel oli solidaarisuusrahaston perustaminen marraskuussa 2002 suurkatastrofeja varten. 
+<P>
+Seuranta- ja tiedotuskeskus on hyvin tärkeä, sillä se tarjoaa jäsenvaltioille ja kolmansille maille paikan, jonne lähettää avunpyyntöjä. Komissiossa on näin ollen perustettu pysyvä yhteysverkosto, jonka tarkoituksena on luoda katkeamaton yhteys ohjelman toimintaan osallistuvien maiden pelastuspalveluyksiköiden välille sekä edistää tiedonvaihtoa. 
+<SPEAKER ID="99" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="100" LANGUAGE="PT" NAME="Estrela (PSE )," AFFILIATION="kirjallinen">
+<P>
+   .  Komissio ehdottaa pohjatroolien käytön kieltämistä tietyillä alueilla, joilla on kaikkein herkimpiä luontotyyppejä edustavia merenalaisia vuoria ja jotka sijaitsevat 200 meripeninkulmaa Azorien, Madeiran ja Kanariansaarten ympärillä. Samanlaiset rajoitukset on jo otettu käyttöön Skotlannin luoteispuolella. 
+<P>
+Mielestäni meidän on mentävä pidemmälle ja kiellettävä myös pohjaan ankkuroidut verkot. 
+<P>
+Myös tämänkaltainen verkko aiheuttaa nimittäin vakavia vaurioita ekosysteemeille etenkin Azorien yksinomaisella talousvyöhykkeellä, jolla merenpohja on tuliperäistä ja kivikkoista.
+<P>
+Lukuisat tutkimukset ovat osoittaneet syvänmeren luontotyyppien, kuten syvänmeren koralliriuttojen, hydrotermisten purkausaukkojen ja kalojen syönnösalueinaan käyttämien merenalaisten penkereiden ja vuorten, herkkyyden. 
+<SPEAKER ID="101" LANGUAGE="PT" NAME="Marques (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Ilmaisen täyden tukeni komission ehdotukselle 30. maaliskuuta annetun asetuksen (EY) N:o 850/98 muuttamisesta syvänmeren koralliriuttojen troolaamisen vaikutuksilta suojelemisen osalta tietyillä Atlantin valtameren alueilla (KOM (2004)0058 lopull.).
+<P>
+Kiitän komissiota tämän ehdotuksen esittämisestä, koska komissio pitää täten lupauksensa ehdottaa muutosta yhteisössä voimassa oleviin teknisiin toimenpiteisiin, joiden tarkoituksena on kieltää pohjatroolien käyttö vähintään 200 meripeninkulmaa Azorien, Madeiran ja Kanariansaarten syrjäisten alueiden ympärillä. Täten pyritään suojelemaan joidenkin herkimpien alueiden ekosysteemejä, jotka sijaitsevat merenalaisten vuorten lähistöllä 100 meripeninkulman ulkopuolella.
+<P>
+Komission ehdotuksessa tarkoitettuja syvänmeren luontotyyppejä suojeltiin viime aikoihin saakka troolaukselta (pohjatroolien tai sen kaltaisten vedettävien pyydysten, jotka toimivat kosketuksissa merenpohjan kanssa, käytöltä) liittymisneuvotteluissa määritellyn, kalavesille pääsyä koskevan erityisjärjestelmän ansiosta. Tämän järjestelmän soveltaminen päättyi elokuussa 2004, minkä vuoksi oli tärkeää varmistaa, että näitä alueita suojellaan jatkossakin yhteisön lainsäädännöllä. 
+<SPEAKER ID="102" LANGUAGE="PT" NAME="Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Atlantin valtameren syvänmeren koralliriuttojen suojelu kiinnostaa luonnollisesti Portugalia aivan erityisesti. 
+<P>
+Ehdotus koskee pohjatroolien käytön kieltämistä Azorien ja Madeiran vesillä sekä Kanariansaarilla tarkoituksena suojella syvänmeren koralliriuttoja, jotka ovat äärimmäisen tärkeitä biologisen monimuotoisuuden suojelemisen kannalta. On arvioitu, että 65 prosenttia meren kalalajeista on jossakin elämänsä vaiheessa riippuvaisia riutoista. 
+<P>
+Kun otetaan huomioon tämä tehokkaan suojelun tarve, kannatamme kiellon ulottamista myös pohjaan ankkuroituihin verkkoihin, sillä myös ne vahingoittavat vakavasti kyseisiä ekosysteemejä haamukalastuksen vuoksi.
+<P>
+Vaikka en ole tyytyväinen tarkistuksia koskevan äänestyksen lopputulokseen, olen vilpittömän tyytyväinen siihen, mitä tällä mietinnöllä on saavutettu, ja äänestin näin ollen sen puolesta. 
+<SPEAKER ID="103" LANGUAGE="PT" NAME="Ribeiro e Castro (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Nyt käsiteltävänämme olevalla asetusehdotuksella pyritään kieltämään pohjatroolien käyttö ekologisesti kaikkein herkimmillä alueilla 200 meripeninkulmaa välittömästi Azorien, Madeiran ja Kanariansaarten ympärillä. 
+<P>
+Kannatan yleisesti ottaen ehdotettuja toimia ja pidän hyvin tärkeänä, että kunkin alueen erityispiirteet otetaan asianmukaisesti huomioon. Niinpä kannatin myös tarkistusehdotuksia, joilla pyrittiin kieltämään myös pohjaan ankkuroidut verkot, ja pidän hyvin valitettavana sitä, että tämä toimi jätettiin pois asianomaisen valiokunnan laatimasta lopullisesta versiosta esittelijän suosituksen vastaisesti. Olen muiden parlamentin jäsenten kanssa vaatinut, että se otettaisiin mukaan ja hyväksyttäisiin täysistunnossa. On yleisesti tiedossa, että tällaiset verkot ovat ekosysteemien kannalta erittäin vahingollisia etenkin haamukalastuksen suuren mahdollisuuden vuoksi. Azorien tapauksessa vaara on sitäkin suurempi merenpohjan tuliperäisyyden vuoksi. Näin ollen ei ollut mitään järkeä edetä suojelussa vain puolitiehen. 
+<SPEAKER ID="104" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="105" LANGUAGE="PT" NAME="Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Tässä on jälleen yksi päätöslauselma, jolla Portugalin sosialistit (PS), sosiaalidemokraatit (PSD) ja oikeistolainen kansanpuolue (CDS-PP) vahvistavat – yhdessä! – poliittiset valintansa ja EU:n johtavat periaatteet, nimittäin uusliberalismin, federalismin ja militarismin, käyttäen vaikeaselkoista ja poistojen värittämää kieltä.
+<P>
+Ei tule yllätyksenä, että ne vahvistavat – kaikki yhdessä! – "kilpailukyvyn parantamisen" (eli selkokielellä sanottuna kapitalistisen kilpailun) olevan "tärkein painopiste", tukensa "Lissabonin strategialle" (Euroopan suurimpien työnantajien rinnalla), "työmarkkinoiden parantamisen" (joka on kyyninen nimitys hyökkäykselle työntekijöiden oikeuksia vastaan), "eläkejärjestelmän uudistamisen" (toisin sanoen sen vähittäisen yksityistämisen) ja "yhtenäismarkkinoiden loppuunsaattamisen" tai ytimekkäämmin sanottuna muun muassa energia-alan, liikenteen ja tietoliikennealan vapauttamisen.
+<P>
+Kyseessä on paketti, joka on saatu vaikuttamaan "hyvältä" sosiaaliasioita ja hyviä aikomuksia korostavan kielenkäytön avulla ja jolla yritetään kätkeä EU:n tasolla innokkaasti noudatetun oikeistolaispolitiikan ristiriitaisuudet ja todellinen luonne tuhoisine vaikutuksineen.
+<P>
+PS, PSD ja CDS-PP voivat tehdä kaikkensa kääntääkseen huomion pois syvällisestä ymmärryksestään tai kätkeäkseen sen, mutta tosiasiat paljastavat asian todellisen laidan. Pitäkäämme tämä mielessä Portugalissa ensi vuoden 20. helmikuuta. 
+<SPEAKER ID="106" LANGUAGE="SV" NAME="Goudin, Lundgren ja Wohlin (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Päätöslauselmaesitys sisältää monia järkeviä näkökohtia mutta myös joitakin ehdotuksia, joita me Kesäkuun listan jäsenet emme voi kannattaa. Vastustamme etenkin seuraavaa neljää päätöslauselmaesityksen kohtaa. 
+<P>
+Päätöslauselmaesityksen 20 kohta: "[Euroopan parlamentti] korostaa, että EU:n ulkorajoja on edelleen vahvistettava ja tätä varten on perustettava Euroopan rajavartiolaitos."
+<P>
+Päätöslauselmaesityksen 21 kohta: "[Euroopan parlamentti] pitää äärimmäisen tärkeänä, että perustettaisiin Euroopan perusoikeusvirasto valvomaan tehokkaasti perusoikeuksien toteutumista."
+<P>
+Päätöslauselmaesityksen 33 kohdan loppuosa: "[Euroopan parlamentti] kannustaa jatkamaan samanaikaisesti yhteisen kalastuspolitiikan uudistusta muun muassa perustamalla Euroopan kalatalousrahaston."
+<P>
+Päätöslauselmaesityksen 40 kohdassa todetaan: "[Parlamentti] katsoo, että komission on laadittava pikaisesti asianmukainen viestintä- ja kampanjointistrategia, jonka avulla uusi perustuslakisopimus esitellään kansalaisille mahdollisimman selkeästi, oikeudenmukaisesti ja ymmärrettävästi."
+<P>
+Huomautamme, että on monta mielipidettä siitä, mitä "asianmukainen strategia" tässä yhteydessä tarkoittaa. 
+<P>
+Edellä mainitun valossa emme voi missään nimessä äänestää tämän päätöslauselmaesityksen puolesta. 
+<SPEAKER ID="107" LANGUAGE="PT" NAME="Ribeiro e Castro (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin komission politiikan suuntaviivoja koskevan kompromissipäätöslauselmaesityksen puolesta ja haluan korostaa erityisesti taloudellista, sosiaalista ja alueellista yhteenkuuluvuutta koskevasta politiikasta tehtyä sopimusta. 
+<P>
+Olen monesti aiemminkin todennut, että koheesiopolitiikka on mielestäni ohjaava periaate ja koko EU:n selkäranka, jota ilman EU menettäisi olemassaolonsa tarkoituksen. Ilman koheesiopolitiikkaa EU olisi pelkkä "hypermarketti", alistamisen väline suurille ja hallitsevassa asemassa oleville toimijoille kaikilla aloilla. 
+<P>
+Yhteenkuuluvuuden periaate on yhtenä EU:n perustavista periaatteista pohjimmiltaan kristillis-demokraattinen käsite. Vasemmisto saa mielihyvin yhtyä tähän tulkintaan, mutta emme saa jättää vasemmiston tehtäväksi ajaa ja puolustaa omia periaatteitamme. Meidän on toisin sanoen kehitettävä kilpailukykyä ilman, että vahingoitetaan koheesiota; meidän on pikemminkin lujitettava koheesiota. 
+<SPEAKER ID="108" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="109" LANGUAGE="EN" NAME="Martin, David (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, EU:n ja Bulgarian välisen parlamentaarisen sekavaliokunnan valtuuskunnan varajäsenenä haluan kiittää jäsen Van Ordenia hänen mietinnöstään ja huomauttaa, että Bulgaria on edistynyt hyvin Euroopan unioniin liittymisen valmistelussa. Toivottavasti Bulgaria on muutaman vuoden päästä unionin jäsen. 
+<P>
+Haluan kuitenkin lisätä varoituksen sanan: Bulgarian oikeuslaitoksen ammattimaisuuden puutteesta ja riippumattomuuden puutteesta on edelleen varteenotettavia todisteita. Kehotan Bulgarian hallitusta puuttumaan näihin kysymyksiin ensi vuoden aikana, jotta Bulgariasta voisi tulla jäsen vuonna 2007. 
+<SPEAKER ID="110" LANGUAGE="PT" NAME="Figueiredo (GUE/NGL )" AFFILIATION="kirjallinen">
+<P>
+   , .  Kuten olemme toistuvasti huomauttaneet, nykyisen laajentumisen todelliset taloudelliset ja poliittiset päämäärät ovat kaikkien nähtävissä ja ilmenevät jälleen kerran päätöslauselmassa, josta juuri äänestettiin. 
+<P>
+Päätöslauselmassa sivuutetaan se, että uusliberalistisen politiikan harjoittaminen on edellytys EU:hun liittymiselle, vaikka siinä mainitaankin suuresti palvottu "toimiva markkinatalous", joka merkitsee kapitalismia ja sitä, että suuret rahoitus- ja talouskonsernit hallitsevat ja riistävät yhä suurempaa osaa maan taloudesta. Siinä mainitaan myös "ulkomaiset suorat investoinnit", jotka ovat joidenkin riemuksi nousseet "ennätyksellisen suuriksi", mikä merkitsee sitä, että suuret rahoituskonsernit hallitsevat entistä suuremmassa määrin Bulgarian taloutta. 
+<P>
+Bulgarian toimien kiitteleminen on ristiriidassa EU:n paljon mainostettujen tavoitteiden kanssa. Taloudellista ja sosiaalista yhteenkuuluvuutta ei voida rakentaa kilpailukyvyn ja pääoman siirtämisen varaan seurauksena yhä hillittömämmästä riistosta. Tällainen toiminta, joka jättää jälkeensä työttömyyttä ja köyhyyttä – mikä on nähty yritysten siirtymisen yhteydessä Portugalissa – ei luo aitoa vaurautta kyseiseen maahan. Päätöslauselmassakin todetaan, että monet eivät ole havainneet taloudellisen tilanteensa kohentuneen ja että maastamuutto jatkuu. 
+<SPEAKER ID="111" LANGUAGE="PT" NAME="Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Komission ja käsiteltävänämme olevan mietinnön tavoin katson, että Bulgaria on edistynyt EU-jäsenyyden valmistelussa tarvittavalla tavalla sekä talouden että oikeuslaitoksen osalta, vaikka onkin myönnettävä, että muun muassa rikollisuutta, korruptiota ja ihmiskauppaa on muiden tärkeiden ongelmien ohella torjuttava tehokkaammin. 
+<P>
+Tätä taustaa vasten ja ottaen huomioon, että käynnissä olevat uudistukset on mahdollista saattaa ajoissa päätökseen, kannatan ajatusta Bulgarian liittymisestä EU:hun "omien saavutusten" periaatteen mukaisesti ja katson näin ollen, että liittymissopimus on saatettava päätökseen vuonna 2005, jotta liittyminen voisi toteutua tammikuussa 2007.
+<P>
+Äänestin näin ollen mietinnön puolesta. 
+<SPEAKER ID="112" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="113" LANGUAGE="EN" NAME="Martin, David (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, kiitän jälleen esittelijää hänen mietinnöstään ja panen tyytyväisenä merkille Romanian edistymisen matkalla kohti yhteisön jäsenyyttä. Tällä kertaa lisään kuitenkin toisen varoituksen, joka koskee orpojen ja pienten lasten tilannetta. Romanian lastenkotien tilaa ei edelleenkään voida hyväksyä. Pyydän jälleen Romanian hallitusta puuttumaan tähän ennen jäsenyyttä.
+<P>
+Arvoisa puhemies, lopuksi kiitän teitä ja erinomaista henkilökuntaanne kaikesta yhteistyöstänne tänä vuonna ja toivotan teille hyvää joulua. 
+<SPEAKER ID="114" LANGUAGE="PT" NAME="Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Käsiteltävänämme olevassa mietinnössä, joka on jatkoa aikaisemmille mietinnöille, arvioidaan edistystä laajentumisprosessin musertavan uusliberalistisesta ja kapitalistisesta näkökulmasta. 
+<P>
+Siinä esitellään varsin kattavasti asetetut kriteerit ja jo saavutettu edistys. Siinä esitetään kritiikkiä ja annetaan kiitosta tavalla, joka saa nämä maat tarkastelemaan kaikkea suhteessa yhteisön säännöstön omaksumiseen ja täytäntöönpanoon ja lähentymään entistä enemmän tätä oikeudellista/institutionaalista kehystä, joka muodostaa EU:n uusliberalistisen mallin perustan. 
+<P>
+Tämän politiikan kannattajat ovat niin innokkaita, ettei heillä ole tunnontuskia tehdä ehdotuksia, joilla pyritään selvästikin maksamaan vanhoja kalavelkoja työläisten taistelun suhteen. Niinpä mietinnössä kuullaan sadannen kerran vanha tuttu ylistys "markkinataloudelle", "rakenneuudistuksille" "kilpailun" ja "markkinavoimien" puitteissa, "yksityistämisprosessin täytäntöönpanolle" ja "elinkelvottomien yritysten lopettamiselle" sekä "suotuisan ilmapiirin luomiselle yrityksille ja ulkomaisille sijoittajille".
+<P>
+Näitä vaatimuksia toistetaan jatkuvasti, vaikka niitä säestääkin tekopyhä pahoittelu tuhoisista vaikutuksista työntekijöihin ja kansalaisiin. 
+<SPEAKER ID="115" LANGUAGE="NL" NAME="Wiersma (PSE )," AFFILIATION="kirjallinen">
+<P>
+   .  Euroopan parlamentin sosialidemokraattisen ryhmän alankomaalaiset jäsenet kannattavat Moscovicin mietintöä ja viittaavat etenkin tiukkoihin sopimuksiin uudistusten ja niiden täytäntöönpanon seurannasta, joka koskee erityisesti poliittisia kriteerejä, kuten ihmisoikeuksia, korruptiota ja oikeuslaitoksen riippumattomuutta.
+<P>
+Euroopan parlamentin sosialidemokraattisen ryhmän alankomaalaiset jäsenet eivät epäröi vaatia, että komissio ottaa käyttöön liittymistä valmistelevassa strategiassa määritellyt suojatoimet, mikäli Romanian edistyminen antaa siihen aihetta. 
+<P>
+Euroopan parlamentin sosialidemokraattisen ryhmän alankomaalaiset jäsenet pidättävät itselleen oikeuden muuttaa kantaansa keväällä, kun Romanian liittymisestä tehdään lopullinen päätös, jos esimerkiksi ilmenee, ettei Romanian uusi hallitus ole pitänyt lupauksiaan. Se voisi merkitä sitä, että Romanian ja Bulgarian liittymisen välinen yhteys katkaistaan. 
+<SPEAKER ID="116" LANGUAGE="PT" NAME="Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Parlamentti antoi helmikuussa 2004 mietinnön, jossa pidettiin valitettavana sitä, ettei Romania ole kohtalaisesta edistyksestä huolimatta vieläkään täyttänyt täysimääräisesti Kööpenhaminan kriteerejä. Sitä odotettaessa ja nyt vuoden lopulla yleinen mielipide on, että edistystä liittymisen valmistelussa on tapahtunut, vaikka tunnustetaan, että monilla aloilla tätä tavoitetta ei ole vielä täysin saavutettu. 
+<P>
+Mielestämme on näin ollen järkevää neuvotella sopimuksen ehdoista vuonna 2005 ja ottaa mukaan suojalauseke siinä tapauksessa, että Romanian liittymistä olisi lykättävä tammikuuhun 2008, mikä itse asiassa vaikuttaa todennäköiseltä. 
+<P>
+Äänestin näin ollen mietinnön puolesta. 
+<SPEAKER ID="117" LANGUAGE="PT" NAME="Ribeiro e Castro (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Toivon, että Romanialla olisi edellytykset saattaa neuvottelut mahdollisimman pian päätökseen voidakseen allekirjoittaa EU:n liittymissopimuksen. 
+<P>
+Olen tyytyväinen esittelijän suosituksiin ja varoituksiin. Romanian viranomaisten ja kansalaisten on tärkeää olla tietoisia liittymisprosessin mahdollisista kompastuskivistä. Huomautan erityisesti, että suojalausekkeita voidaan soveltaa siinä tapauksessa, että Romania ei täytä läheskään edellytyksiä, ja liittymistä voidaan lykätä vuodella, mikäli yhteisön säännöstöä ei panna täytäntöön ja Kööpenhaminan poliittisia kriteerejä ei noudateta. Tällaisissa varoituksissa on kuitenkin mielestäni järkeä vain silloin, kun niillä edistetään hyvää käytöstä ja suoritusta ja kun niillä ei aseteta rimaa liian korkealle. 
+<P>
+Olen erityisen samaa mieltä siitä esittelijän ajatuksesta, jonka mukaan komission on otettava käyttöön jatkuva ja tiivis seurantamekanismi Romanian tukemiseksi tällä tiellä, ja komission on nähdäkseni tiedotettava parlamentille yksityiskohtaisesti maan edistymisestä liittymisen valmistelussa.
+<P>
+Tämä mietintö tulee juuri oikeaan aikaan, kun otetaan huomioon, millä tavoin Romanian presidentinvaalit hoidettiin viime sunnuntaina. 
+<SPEAKER ID="118" LANGUAGE="" NAME="Puhemies. –" AFFILIATION="">
+<P>
+   Äänestysselitykset päättyvät tähän.
+<SPEAKER ID="119" LANGUAGE="" NAME="Puhemies." AFFILIATION="Suosionosoituksia)">
+<P>
+   – Haluaisin toivottaa tervetulleeksi Saudi-Arabian kuningaskunnan neuvoston valtuuskunnan, jota johtaa Zaid bin Al-Muhsin Al-Hussein. On korostettava, että pidämme hyvin tärkeänä tätä vierailua, joka on valtuuskunnan ensimmäinen vierailu Euroopan parlamenttiin vuoden 1995 jälkeen. 
+<P>
+Vierailu osuu hyvin merkittävään hetkeen etenkin siltä kannalta, että Saudi-Arabiassa pidetään ensimmäiset paikallisvaalit helmikuussa 2005. Vierailu edustaa uutta vaihetta Saudi-Arabian kansan ja Euroopan unionin välisten suhteiden tiivistämisessä. 
+<SPEAKER ID="120" LANGUAGE="IT" NAME="Frassoni (Verts/ALE )." AFFILIATION="(Suosionosoituksia)">
+<P>
+    Arvoisa puhemies, olemme hyvin tyytyväisiä siihen, että Saudi-Arabiassa pidetään paikallisvaalit, mutta pahoittelemme suuresti, etteivät naiset saa osallistua niihin.
+<SPEAKER ID="121" LANGUAGE="" NAME="" AFFILIATION="(Istunto keskeytettiin klo 12.35 ja sitä jatkettiin klo 15.00.)">
+<SPEAKER ID="122" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="123" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Julistan istunnon uudelleen avatuksi.
+<P>
+Eilisen istunnon pöytäkirja on jaettu. Onko huomautettavaa? 
+<SPEAKER ID="124" LANGUAGE="DE" NAME="Posselt (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, huomauttaisin vain lyhyesti kahdesta seikasta, joista ensimmäinen koskee äänestystä Turkista. Turkista – Eurlingesin mietinnöstä – toimitetussa äänestyksessä äänestin jäsen Langenin esittämän tarkistuksen 16 puolesta. Tätä ei kuitenkaan ole merkitty pöytäkirjaan; ehkäpä kone ei toiminut. Toivoisin teitä korjaamaan tämän.
+<P>
+Toiseksi toteaisin, että äänestimme eilen EU:n ja Venäjän huippukokouksesta. Näin tehdessämme totesimme, että kaikki tšetšeeniyhteiskunnan ryhmät olisi liitettävä rauhanprosessiin. Tänään olen saanut kuulla, että Venäjän salainen palvelu on siepannut ja vanginnut Etyjin valvomissa vaaleissa virkaansa valitun presidentti Mashadovin perheen. Vangittujen joukossa ovat myös presidentin sisarukset, joilla on ikää 69:stä 75 vuoteen. Pyytäisin teitä tarkistamaan tämän tiedon, ja jos se osoittautuu paikkansapitäväksi, esittämään vastalauseen Venäjän viranomaisille. 
+<SPEAKER ID="125" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Edellisen istunnon pöytäkirja hyväksyttiin.)">
+<P>
+   Hyvä jäsen Posselt, huomautuksenne on pantu merkille. Jos muuta huomautettavaa ei ole, pöytäkirja hyväksytään.
+<SPEAKER ID="126" LANGUAGE="" NAME="" AFFILIATION="">
+<P>
+ Esityslistalla on seuraavana keskustelu seitsemästä Zimbabwea koskevasta päätöslauselmaesityksestä. 
+<SPEAKER ID="127" LANGUAGE="EN" NAME="Bowis (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, Zimbabwe on tragedian ja tyrannian maa. Sillä on runsaat luonnonvarat ja paljon työvoimaa. Presidentti Mugaben poliittinen hirmuvalta tuhoaa niistä kumpaakin.
+<P>
+Ihmiset kärsivät nälästä ja terveysongelmista, koska elintarvikeapua ja lääkintäpalveluita ei päästetä oppositiopuolueiden hallitsemille alueille. Köyhyysrajan alapuolella elää tiettävästi noin 9 miljoonaa ihmistä eli 75 prosenttia Zimbabwen väestöstä, mutta tässä joulukuussa YK:n elintarvikeohjelmasta ruokaa riittää vain 1,6 miljoonalle. Tämän on tärkein syy asian kiireellisyyteen.
+<P>
+Toinen syy on se, että Zimbabwessa on tarkoitus järjestää vaalit 3. maaliskuuta. Nyt näyttää siltä, ettei vaaleista tule sen enempää vapaat kuin oikeudenmukaisetkaan. Ei ole meidän tehtävämme päättää, kenet Zimbabwen kansan pitäisi valita. Tämä päätös kuuluu yksin sille, mutta sillä on oltava vapaus valita tehtävään kuka tahansa haluamansa henkilö.
+<P>
+Afrikan naapurimaiden ja Afrikan unionin tehtävänä on varmistaa, että kansainvälisiä demokratiastandardeja noudatetaan kaikkialla Afrikassa ja Zimbabwessa. Euroopan unionin tehtävänä on varmistaa, että tuemme näiden vaalien tarkkailua sekä annamme teknistä ja taloudellista tukea tehdäksemme osuutemme kansainvälisen vaalitarkkailuvaltuuskunnan hyväksi. Myös tästä syystä asia on nyt kiireellinen.
+<P>
+Kolmas syy on maan parlamentin jäsenen Roy Bennettin vapaudenriisto, jota ei voida suvaita. Tämä mies, hänen perheensä ja hänen työntekijänsä ovat kärsineet kuluneina kuukausina. Bennett tönäisi maan ministeriä, koska tämä oli esittänyt rasistisia huomautuksia Bennettistä ja hänen perheestään. Sitten hänet pantiin vankilaan, mutta ei tuomioistuimen päätöksellä vaan poliittisesti jakautuneessa parlamentissa toimitetun äänestyksen perusteella.
+<P>
+Kehotan painokkaasti Afrikan unionia ja Euroopan unionia ryhtymään välittömästi toimiin, jotta Zimbabwen kansalle saadaan edes jonkinlaista oikeutta. 
+<SPEAKER ID="128" LANGUAGE="EN" NAME="Attard-Montalto (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, olen juuri palannut Zimbabwesta henkilökohtaiselta vierailulta. On kiintoisaa havaita, ettei tilanne paikan päällä vaikuta toivottomalta. Tilastojen mukaan tilanne on kuitenkin todennäköisesti heikompi maan muissa osissa, joissa en käynyt.
+<P>
+Kun keskustelemme sellaisesta maasta kuin Zimbabwe, jossa ihmisoikeuksista ei sortotoimien pelossa edes keskustella, meidän on pohdittava sitä, millainen asenne meidän kannattaisi omaksua kyetäksemme vaikuttamaan valtaapitäviin. Tiedämme, että vastassamme on hallinto, joka ei ole demokraattinen ja joka on pyrkinyt miltei kaikin keinoin riistämään demokraattiset perusoikeudet joiltakin kansalaisiltaan. Toisaalta olemme viime aikoina nähneet, ettei tilanne ole aivan lohduton. Esimerkiksi maan tuomioistuimet pyrkivät hyvin vaikeista lähtökohdista huolimatta pitämään kiinni edes jonkinasteisesta puolueettomuudesta.
+<P>
+Toisinaan mietin, olisivatko porkkana ja keppi kenties toimineet pelkkiä tuomitsevia päätöslauselmia tarkoituksenmukaisemmin ja tuloksekkaammin. Voimmehan antaa tämän päätöslauselman, mutta miten se vaikuttaa? Nähdäkseni hyvin vähän, kun kyseessä on Mugaben hallitus. Meidän on omaksuttava toisenlainen ajattelutapa, jos aiomme kyetä tehokkaaseen toimintaan tämänkaltaisten hallintojen kanssa.
+<SPEAKER ID="129" LANGUAGE="EN" NAME="Hall (ALDE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, poliittinen sorto Zimbabwessa heittää maan ylle tumman varjon; tämä varjo häilyy paitsi Zimbabwessa elävien myös turvapaikkaa Euroopasta hakemaan lähteneiden kansalaisten yllä.
+<P>
+Vaalipiirissäni Koillis-Englannissa on zimbabwelaisia, jotka pelkäävät saavansa pikaisesti surmansa, jos heidät pakotetaan palaamaan kotimaahansa. Toivon, että jäsenvaltioiden hallitukset – kuten kotimaani hallitus – joiden mielestä turvapaikanhakija voidaan turvallisesti palauttaa Zimbabween, ottavat tänä iltapäivänä käsiteltävän päätöslauselman huomioon ja tarkistavat kantaansa.
+<P>
+Zimbabwen tilanne ei ole paranemassa vaan pahenemassa. Laki valtiosta riippumattomista järjestöistä tuli voimaan 9. joulukuuta 2004. Laissa kielletään ulkomaisten ihmisoikeusjärjestöjen toiminta ja annetaan hallitukselle valtuudet puuttua minkä tahansa valtiosta riippumattoman järjestön toimintaan Zimbabwessa. Samaan aikaan zimbabwelaisten elämänlaatu on heikentynyt huomattavasti. Eliniänodote on nyt 35 vuotta. Zimbabwe voisi olla elintarviketuotantonsa puolesta omavarainen, mutta viime kaudella se tuotti tarvitsemastaan maissista vain kolmanneksen, ja silti Mugaben hallinto on puuttumassa kansainvälisiin elintarviketoimituksiin.
+<P>
+Tilanteen heikentymisen vuoksi hallintoon kohdistettuja pakotteita on aika tiukentaa.
+<P>
+Lopuksi toteaisin vielä, että kuten olemme kuulleet, ensi maaliskuussa Zimbabwessa on tarkoitus järjestää valtiolliset vaalit. Huolestuttavat merkit viittaavat siihen, etteivät ne ole vapaat eivätkä oikeudenmukaiset. Aiemmin tässä kuussa annettu vaalilainsäädäntö ei vastaa kansainvälisiä demokratiastandardeja. Vaalien vapauden ja oikeudenmukaisuuden varmistamisessa asianmukaisella vaalitarkkailulla on ratkaiseva rooli. Toivonkin, että parlamenttimme samoin kuin neuvosto ja komissio antavat mahdollisimman paljon tukea kaikentasoisille vaalitarkkailuvaltuuskunnille. 
+<SPEAKER ID="130" LANGUAGE="DE" NAME="Markov (GUE/NGL )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, arvoisa neuvoston puheenjohtaja, Zimbabwea ovat aina vaivanneet sekavuuden ja syvän eripuran leimaamat ajanjaksot. Esimerkkeinä ovat siirtomaa-aika, Ian Smithin vuonna 1965 antama yksipuolinen itsenäisyysjulistus ja siitä seurannut YK:n kauppasaarto, vapaussota vuosina 1972–1978 ja sitten itsenäisyyden saavuttamisen jälkeiset ensimmäiset demokraattiset vaalit, jotka Robert Mugaben johtama ZANU voitti.
+<P>
+Itäsaksalaisena minua kuitenkin aina hämmästyttää se, miten usein johtajat, jotka virkansa vastaanottaessaan ovat täynnä yleviä ihanteita, myöhemmin niin sanoakseni vieraantuvat omista päämääristään ja visioistaan, ja mitä kauemmin he ovat vallassa, sitä vähemmän he kansalaistensa eduista välittävät.
+<P>
+Zimbabwella on valtavia ongelmia toki vielä tänäänkin. Nähdäkseni emme voi nyt suositella zimbabwelaisille muuta kuin että he vilkaisisivat ympärilleen selvittääkseen, miten naapurit ovat tästä selvinneet – selvittääkseen, mitä Etelä-Afrikassa tehdään, mitä Namibiassa tehdään, ja miten Angola ja Mosambik pyrkivät saattamaan maidensa monenlaiset eriävät intressit keskenään tasapainoon. Jos tavoitteena on rauha, on pyrittävä yhteisymmärrykseen rauhanomaisin keinoin, ja huomioon on otettava kaikki intressit, olivatpa ne miten moninaisia tahansa.
+<P>
+Zimbabwe tarvitsee maanomistusuudistusta, mutta siihen voidaan ryhtyä toisinkin. Euroopan unionin ei aina pitäisi olla esittämässä kaikelle kansalle arvoihinsa perustuvia suosituksia. Varsin usein tässä mennään vikaan; ehkäpä vielä muistattekin Euroopan unionin vankkumattoman tuen Venäjän presidentille Jeltsinille aikana, jolloin hän oli alkoholisti.
+<P>
+Tässä nimenomaisessa tapauksessa voimme luottaa siihen, että Afrikan kehitysjärjestöllä (SADC) on vaikutusvaltaa ja että se löytää tilaisuuksia, ja että Afrikan unioni voi toimillaan viedä asiaa eteenpäin. Olen vakuuttunut siitä, että jos tuemme näitä maita niiden pyrkiessä vaikuttamaan Zimbabween, voimme hyvin todennäköisesti auttaa varmistamaan, että maaliskuussa toimitettavista vaaleista tulee lopulta oikeudenmukaiset ja demokraattiset. 
+<SPEAKER ID="131" LANGUAGE="NL" NAME="Belder (IND/DEM )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, Mugaben hallinto jatkaa hellittämättä strategiaansa poliittisten vastustajien kuriin palauttamiseksi. Zimbabwen viranomaiset ovat kuluneen puolentoista vuoden aikana esimerkiksi pakottaneet kaksi kriittisiä näkemyksiä esittävää sanomalehteä lopettamaan toimintansa. Lisäksi Mugaben kannattajat ovat tehneet ja yhä tekevät oppositiopuolueen, demokraattisen muutospuolueen, toiminnan mahdollisimman vaikeaksi.
+<P>
+Täsmälleen viikko sitten Hararessa annettu laki valtiosta riippumattomista järjestöistä näyttäisi viittaavan siihen, että Mugaben hallinto lisää painostusta riippumattomia järjestöjä kohtaan, ja tässä ovat selvästi taustalla maaliskuussa 2005 pidettävät eduskuntavaalit. Tulevaisuudessa nämä järjestöt eivät enää saa ottaa vastaan mitään rahoitusta ulkomailta. Jos zimbabwelaisessa kansalaisoikeus- tai ihmisoikeusjärjestön henkilöstössä on vain yksikin ulkomaalainen työntekijä, se katsotaan siitä lähtien ulkomaiseksi. Uuden lain mukaan ulkomaisia valtiosta riippumattomia järjestöjä ei voida rekisteröidä, ja näin ollen ne lähitulevaisuudessa kielletään.
+<P>
+Tämän uuden lainsäädännön tavoite on selvä. Monet zimbabwelaisista kansalaisoikeus- tai ihmisoikeusjärjestöistä toimivat nimittäin ulkomailta saatujen lahjoitusten varassa. Zimbabwen hallituksen ilmeisenä tavoitteena on vaientaa ne. Raporttien mukaan kyseiset valtiosta riippumattomat järjestöt eivät aio alistua hallituksen vaientamispyrkimyksiin. Tämä asenne on äärimmäisen rohkea. Neuvoston ja komission haastavana tehtävänä on auttaa ja opastaa niitä tässä. 
+<SPEAKER ID="132" LANGUAGE="PT" NAME="Ribeiro e Castro (PPE-DE )," AFFILIATION="ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, arvoisa jäsen Grybauskaitė, hyvät kollegat, Zimbabwe on valitettavasti yksi niistä aiheista, jotka ovat useimmin ja säännöllisimmin esillä näissä torstaikeskusteluissamme ihmisoikeusongelmista, jotka vaativat välitöntä puuttumista. Tämä kertoo meille kaksi seikkaa: ensiksi sen, että tilanne on edelleen vakava, ja toiseksi sen, etteivät toimenpiteemme ole tehonneet.
+<P>
+Aivan ensiksi meidän on tuomittava se, miten pöyristyttävä hirmuvalta tuhoaa tätä maata. Kuten parlamentissa on todettu, köyhyystilastot ovat aina vain järkyttävämmät; Zimbabwe oli aiemmin maa, joka asianmukaisesti hallinnoituna olisi voinut ensinnäkin ruokkia koko väestönsä mutta myös auttaa ratkaisemaan nälän ja puutteen ongelmat Afrikan mantereella ja muualla maailmassa.
+<P>
+EU:sta ja kauempaa kantautuneista varoituksista huolimatta Mugaben hallinto jatkaa poliittisia sortotoimiaan, ja maaliskuuksi suunnitellut vaalit herättävät meissä suurta huolta. Joko maassa toteutetaan ripeästi muutos ja tarjotaan edes vähäinen mahdollisuus keskusteluun, tai sitten näistä vaaleista ei tule vapaita eikä oikeudenmukaisia, ja on syytä epäillä, onko niitä järkeä tarkkaillakaan. Tässä on kyse Roy Bennetten tapauksesta ja Morgan Tsvangiraihin ahdistelusta hänen vierailtuaan tässä parlamentissa sekä siitä kielteisestä vaikutuksesta – tähän haluan teidän kiinnittävän huomiota – joka hallinnolla voi olla tähän alueeseen, jossa se voi valita joko demokratian tien tai sitten taantua takaisin autoritaarisuuteen. Esimerkiksi kävin äskettäin Mosambikissa, jossa on pidetty vaalit. Tuloslaskenta ei ole vielä päättynyt. Saimme kuitenkin tietää, että vaalikampanjan aikana mosambikilaiset äänioikeutetut äänestivät ulkomailla ja että FRELIMOa vastustavia oppositiopuolueita ahdisteltiin Zimbabwessa. Kuitenkin edellytykset ovat valmiina. Zimbabwe voi ottaa Etelä-Afrikasta mallia, edistää ratkaisevasti demokratian juurtumista tälle alueelle ja näin ollen lujittaa demokratiapyrkimyksiä Mosambikissa ja Angolassa. Toisaalta se voi myös ottaa askelen taaksepäin kohti autoritaarisia hallinnon muotoja.
+<P>
+Haluan huomauttaa, että olemme painostaneet naapurimaita yhä voimallisemmin ja kehittäneet vuoropuhelua Afrikan unionin kanssa. Tämä osoittaa, miten tärkeä rooli tällä organisaatiolla on painostettaessa Mugaben pöyristyttävää hallintoa. 
+<SPEAKER ID="133" LANGUAGE="NL" NAME="Van den Berg (PSE )," AFFILIATION="ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, zimbabwelaiset ovat vahva kansa, ja Zimbabwe on vahva valtio. Itsenäistymisensä jälkeen se oli myös taloudellisesti lupaava valtio. On murheellista nähdä, miten noin 60 prosenttia väestöstä kamppailee tällä hetkellä talousvaikeuksissa ja miten monet elävät köyhyysrajan alapuolella. Tämä kertoo toden totta jotakin maan hallinnosta ja siitä, mikä siinä on vähitellen mennyt vikaan. Murheellista tässä on se, että rikoksentekijöinä ovat Mugabe ja ZANU-PF-puolue, ennen kaikkea Mugaben sisäpiiri. Monet ZANU-PF-puolueessa ovat toki täysin tietoisia siitä, että maan selviytyminen ongelmista edellyttää ulkopuolista apua ja talouden kehittämistä toiseen suuntaan.
+<P>
+Tiedämme, että naapurimaat ovat monin epävirallisin yhteydenotoin ja hankkein pyrkineet löytämään ratkaisua, ja mielestäni juuri tässä on Euroopan unionin tilaisuus. Afrikan unionin, Afrikan kehitystä edistävän uuden kumppanuuden (NEPAD), presidentti Mbekin ja kaikkien muiden kontaktiemme tukemina meidän on lisättävä painostusta, koska afrikkalainen tie, jota Euroopan unioni tukee, on ainoa mahdollisuutemme päästä edes jonkinlaiseen tulokseen.
+<P>
+Maaliskuun vaalit ovat epäilemättä jo nyt väärissä käsissä ja niiden vinouttamat, joten niistä on kovin vaikea saada oikeudenmukaisia ja avoimia. Tämä tekee tarkkailusta miltei yhdentekevää. Voimaa löytyy kuitenkin juuri tästä demokratiaprosessista ja kansalaisyhteiskunnasta. Zimbabwessa tämä voima on edelleen lujana, se torjuu edelleen väkivallan ja tähtää rauhaan ja demokraattisiin ratkaisuihin. Toivon, että käyttämällä täsmäpakotteita ja valitsemalla sen tien, jonka me Euroopan unionissa olemme valitsemassa, sekä kuulemalla kyseisiä muita maita teemme kaikkemme, jotta tuo askel kohti demokratiaa voitaisiin ottaa. Toisella tiellä, verenvuodatuksella, ei ole tulevaisuutta.
+<P>
+Toivon vilpittömästi, että voimme käyttää kaikkia diplomatian keinoja voimistaaksemme painostusta siinä määrin, että Mugaben ympärille saadaan sellaisia ihmisiä, jotka panevat pyörät pyörimään. Tätä tarvitaan, jos demokratialle halutaan antaa menestymisen mahdollisuus. Toivonkin Euroopan pyrkivän tähän päämäärään kaikin mahdollisin keinoin. 
+<SPEAKER ID="134" LANGUAGE="NL" NAME="Meijer (GUE/NGL )," AFFILIATION="ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, Etelä-Rhodesian perintönä suuri osa Zimbabwen maatalousmaasta on harvojen eurooppalaisperäisten maanviljelijöiden käsissä. Ryhmäni tukee väestön mustaihoisen enemmistön toiveita siitä, että valtaosa maaomaisuudesta palautettaisiin sille. Robert Mugabe – mies, joka kerran nautti suosiota johtaessaan menestyksekästä vapaussotaa siirtomaavaltoja ja Ian Smithin rasistista vähemmistöhallitusta vastaan – on valitettavasti käyttänyt näitä toiveita väärin hyväkseen. Mugabelle maanomistusuudistuksesta, jota oli luvattu jo aikoja sitten, tuli ensisijainen tavoite vasta, kun valitsijakunta oli miltei menettänyt luottamuksensa häneen. Mugabelle suurmaatilojen pakkolunastus on nyt lähinnä väline, jolla hän palkitsee vapaustaistelijoiden muodostaman kannattajajoukkonsa vihdoin vuosikymmenten viivästysten jälkeen. Sitäkin selkeämmin se on osa kampanjaa, jossa poliittiset vastustajat lyödään herjaamalla, pelottelemalla ja pakottamalla. Jos Eurooppa eristää tämän hallinnon, sen ei pidä tapahtua vanhojen siirtomaaetujen turvaamiseksi vanhan kolonialistisen röyhkeyden hengessä, vaan koska haluamme auttaa maailman jokaista maata edistämään ihmisoikeuksia ja demokratiaa. Tästä tässä kaikessa on kyse. 
+<SPEAKER ID="135" LANGUAGE="EL" NAME="Pafilis (GUE/NGL )." AFFILIATION="">
+<P>
+   – Jokaisella kansakunnalla on oikeus ja velvollisuus ratkaista poliittiset ongelmansa, eikä millään taholla, Euroopan unionista, Isosta-Britanniasta ja Amerikan yhdysvalloista puhumattakaan, ole valtuuksia puuttua poliittisesti, taloudellisesti tai sotilaallisesti sen enempää Zimbabwen kuin minkään muunkaan maan asioihin. Uutta sisäisiin asioihin puuttumisen suunnitelmaa, jonka tarkoituksena on tehdä Zimbabwesta uuden ajan siirtomaa, valmistellaan nimenomaan sen takia, että Zimbabwen kansa onnistui valtavin verisin taisteluin saavuttamaan itsenäisyyden Isosta-Britanniasta ja että se vaati takaisin maitaan, joista vauraimmat ovat kolonialismin tähden edelleen ulkomaalaisten – lähinnä brittien – hallussa.
+<P>
+Ison-Britannian ja muiden maiden hallitukset käyttävät tekosyinä kaikkia mahdollisia ongelmia, joista useimmat johtuvat kolonialismin pitkällä aikavälillä aiheuttamista viivästyksistä, rahoittaakseen oppositiota, jonka johtajaa – huomatkaa tämä – syytetään vaaleilla valitun presidentin murhayrityksestä. Perustamassa ollaan niin sanottujen valtiosta riippumattomien järjestöjen verkostoa. Näistä useimmat ovat peitejärjestöjä, joilla ei ole mitään tekemistä kansalaisten ja kansalaisliikkeiden kanssa, vaan ne valmistelevat maaperää sisäisiin asioihin puuttumiselle.
+<P>
+Kreikan kommunistipuolue ei voi hyväksyä tätä päätöslauselmaesitystä, jonka tekstistä on poistettu jopa syytökset brittiagenttien harjoittamasta asekaupasta. Sanktioista on luovuttava. Meidän on tuettava Zimbabwen kansaa sen puolustaessa itsenäisyyttään uuskolonialismia vastaan. 
+<SPEAKER ID="136" LANGUAGE="EN" NAME="Grybauskaitė," AFFILIATION="komissio">
+<P>
+   .  Arvoisa puhemies, komissiossa me ymmärrämme maaliskuun 2005 vaalien valmistelujen merkityksen ja suhtaudumme niihin erittäin vakavasti. Komissio toteaa jälleen kerran, että se pitää maan vaalien vapautta ja oikeudenmukaisuutta ensiarvoisen tärkeänä. Zimbabwen hallituksen hiljattain ilmoittamat vaaliuudistukset, joista Zimbabwen parlamentissa parhaillaan keskustellaan, ovat tärkeä askel. On tarpeen arvioida, johtaako tämä siihen, että demokraattisia vaaleja ohjaavat eteläisen Afrikan kehitysjärjestön (SADC) periaatteet ja suuntaviivat saatetaan aidosti osaksi kansallista vaalilainsäädäntöä, kuten viime elokuussa Mauritiuksessa pidetyssä SADC:n huippukokouksessa yksimielisesti sovittiin.
+<P>
+Komissio on edelleen syvästi huolestunut poliittisesta tilanteesta sekä ihmisoikeuksien ja perusvapauksien kunnioittamisen tilasta, joka tässä vaiheessa tuskin antaa mahdollisuutta vapaisiin ja oikeudenmukaisiin vaaleihin.
+<P>
+Erityinen huolenaihe on se, että Zimbabwen parlamentti antoi 9. joulukuuta valtiosta riippumattomia järjestöjä koskevan lain, jolla näiden järjestöjen toimintavapautta kavennetaan huomattavasti. Komissio antaa täyden tukensa ehdotukselle, jonka mukaan EU ottaa virallisesti yhteyttä Harareen ja muihin SADC:n pääkaupunkeihin ja antaa julkilausuman, jossa ilmaistaan huoli lain vaikutuksista.
+<P>
+Komissio on myös huolestunut elintarvikeavun jakamisen mahdollisesta politisoitumisesta, mikä ilmenee lähinnä tulevien parlamenttivaalien yhteydessä. Jos avun puolueellisesta käytöstä saadaan selkeä näyttö, komissio ja sen yhteistyökumppanit, kuten YK:n elintarvikeohjelma, saattavat joutua keskeyttämään elintarvikeaputoimitukset.
+<P>
+Komissio arvioi tilannetta uudelleen maaliskuun vaalien jälkeen. Tässä vaiheessa EU:n Zimbabwen-vastaisten toimenpiteiden kumoamista tai lieventämistä ei voida pitää perusteltuna.
+<P>
+Komissio on tietoinen siitä, että Zimbabwen viranomaiset yrittävät tahallaan heikentää viisumikiellon uskottavuutta lisäämällä Eurooppaan suuntautuvia matkojaan, ja komissio on aina vaatinut, että 19. helmikuuta 2004 vahvistetussa neuvoston yhteisessä kannassa mainittuja poikkeuksia sovelletaan tiukasti.
+<P>
+Komissio käyttää tulevaisuudessakin kaikkia kanavia vaikuttaakseen Zimbabwen hallitukseen ja käydäkseen entistä tiiviimpää poliittista vuoropuhelua SADC:hen kuuluvien naapurimaiden, erityisesti Etelä-Afrikan, kanssa. Zimbabween on kohdistettava jatkuvasti kansainvälistä painostusta ja erityisesti alueellista vertaispainostusta. 
+<SPEAKER ID="137" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Äänestys toimitetaan iltapäivällä keskustelun jälkeen.
+<P>
+Keskustelu on päättynyt.
+<P>
+ Esityslistalla on seuraavana keskustelu kuudesta päätöslauselmaesityksestä, jotka koskevat tilannetta Kongon demokraattisen tasavallan itäosassa. 
+<SPEAKER ID="138" LANGUAGE="DE" NAME="Posselt (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, Kongon nykytilannetta voidaan verrata Saksan tilanteeseen kolmikymmenvuotisen sodan aikana – keskellä mannerta sijaitseva suuri maa on jakautunut, erilaiset ryhmät ovat liittoutuneet naapurivaltioiden kanssa, eikä rauhaa ole ollut vuosikymmeniin. Juuri tämä on ollut tilanne Kongossa vuosikymmenten ajan: ihmisiä on kuollut miljoonittain, laajat alueet ovat autioina ja talous raunioina. Aivan kuin kolmikymmenvuotisen sodankin jälkeen, nytkään ei luvassa ole ratkaisua, ellei – kuten tuolloin tapahtui uskontokuntien välillä – etnisiä ryhmiä saada liitetyksi rauhanprosessiin, jossa myös kaikki naapurivaltiot ovat mukana.
+<P>
+Tästä syystä meistä on tärkeää, että tämän suurten järvien maan naapurimaihin ja ennen kaikkea Ruandaan kohdistetaan huomattavaa painostusta, jotta Kongoon saataisiin pysyvää vakautta ja jotta nämä maat eivät enää sekaantuisi Kongon asioihin, sillä se kärsii jo nyt tavattomasti. Tähän eivät riitä kuitenkaan ainoastaan sanat, ja näin olen yhdessä jäsen Langenin kanssa alkanut laatia kokonaisvaltaista strategiaa, jossa talouspolitiikka, ulkopolitiikka ja kehityspolitiikka liitetään vihdoinkin yhteen. Tässä tilanteessa pelkistä sanoista ei ole meille mitään hyötyä. Eurooppa kykenee käyttämään vaikutusvaltaansa ainoastaan siten, että se hyödyntää saatavilla olevia taloudellisia, poliittisia ja diplomaattisia vaihtoehtoja samanaikaisesti ja strategisesti ja että se tulee todellakin aktiivisesti mukaan tähän rauhanprosessiin.
+<P>
+Arvoisa komission jäsen, ehkäpä pohditte, mitä hyötyä on käydä tätä keskustelua torstai-iltapäivänä istuntosalissa, joka on kaikkea muuta kuin täynnä. Muistan, kun tässä parlamentissa keskusteltiin siitä, miten Liettuasta voisi tulla jotakin enemmän kuin neuvostovallan sortama alusmaa, ja tänään meillä on liettualainen komission jäsen joukossamme. Siitä olen hyvilläni, ja olen varma, että teillä on kaikki valmiudet selvittää tämä Kongon rauhaa ja ihmisoikeuksia koskeva kysymys. 
+<SPEAKER ID="139" LANGUAGE="EN" NAME="Martin, David (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, konflikti Kongon demokraattisessa tasavallassa on tappavin sitten toisen maailmansodan. International Rescue Committee -järjestö arvelee, että kuolleita on tähän mennessä 3,8 miljoonaa ja että heistä miljoona on lapsia. Lisäksi 3,4 miljoonaa henkilöä on joutunut siirtymään kotiseudultaan.
+<P>
+Kongolaiset ja ulkomaiset sotilaalliset joukot jatkavat väkivallantekoja pitääkseen kullan, puutavaran, norsunluun, tinan ja muiden luonnonvarojen ryöstelyn salassa. Tällä välin Kongon heiveröinen ja tehoton väliaikaishallitus kamppailee poliittisen pattitilanteen ja sotilaalliseen kriisin kanssa. Sen enempää väliaikaishallitus kuin sen kansainväliset kumppanitkaan eivät ole onnistuneet poistamaan konfliktin perimmäisiä syitä. Maan epävakautta on rahoitettu ja ylläpidetty luonnonvaroja riistämällä, ja näin epävakautta ja väkivaltaa on ruokittu Kongossa itse asiassa yli sata vuotta. Siitä, minkä piti olla maalle siunaus, onkin tullut syvän surun ja murheen lähde, itse asiassa kirous. Sen sijaan, että Kongon valtavista luonnonvaroista olisi ollut hyötyä suurimmalle osalle väestöstä, ne ovatkin taanneet yksityisen rahoituksen sotilaalliselle ja poliittiselle eliitille.
+<P>
+Päätöslauselmassamme vaaditaan perustellusti toimenpidepakettia tähän tilanteeseen puuttumiseksi. Meidän on ryhdyttävä toimiin varmistaaksenne, että aseidenvientikieltoa noudatetaan. YK:n turvallisuusneuvoston on langetettava matkustusoikeusrajoitusten ja rahoituspalvelujen käyttökiellon kaltaisia seuraamuksia henkilöille, jotka ovat sekaantuneet Kongon rikkauksien ryöstelyyn. EU:n ja sen jäsenvaltioiden on vastustettava riistoon sekaantuneita yrityksiä, maan itäosaan tarvitaan rauhanturvajoukkoja, ja on ryhdyttävä toimiin kaikkien laittomasti aseistautuneiden ryhmien riisumiseksi aseista.
+<P>
+Toiveita siitä, että ensi vuoden vaalit miltään osin muuttavat maan traagista tilannetta, voidaan elättää ainoastaan, jos näihin toimenpiteisiin ryhdytään. Kongon ongelma ei ole etninen eikä myöskään rodullinen. Se on taloudellinen, ja ongelmat voidaan ratkaista ainoastaan puuttumalla talousongelmiin. 
+<SPEAKER ID="140" LANGUAGE="EN" NAME="Hall (ALDE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, käytän puheenvuoron jäsen Van Hecken sijasta. Hänen piti lähteä Strasbourgista aikaisin, koska hän matkustaa huomenna Kongon demokraattiseen tasavaltaan.
+<P>
+Itä-Kongon nykytila osoittaa, että Kongon rauhanprosessi on vielä hyvin heiveröinen. Itse asiassa eilen kerrottiin uudesta laukaustenvaihdosta. ALDE-ryhmä oli erittäin tyytyväinen aloitteeseen laatia päätöslauselma Kongosta kiireellisessä käsittelyssä. Lopulta ryhmämme päätti kuitenkin olla kannattamatta kompromissipäätöslauselmaa. Mielestämme kompromissitekstissä ei mainita keskeisiä ongelmia, jotka ovat alueen jatkuva epävakaus ja Kongon demokraattisen tasavallan vaikea suhde sen naapurivaltioihin, erityisesti Ruandaan.
+<P>
+Ongelma on tämä: vuonna 1994 tapahtuneen Ruandan kansanmurhan päättymisestä alkaen suuri joukko ääriainekseen kuuluvia hutuja on piileskellyt Itä-Kongon syrjäisellä sademetsäalueella. Kaikkien näiden vuosien jälkeenkään sitä ei ole riisuttu aseista. Näiden raskaasti aseistautuneiden sotajoukkojen läsnäolo on jatkuva uhka Kongon demokraattisen tasavallan rauhanprosessille ja koko Suurten järvien alueen turvallisuudelle. Viime elokuussa Gatumban pakolaisleirillä sattunut verilöyly oli vain yksi monista provokatorisista teoista. YK:n Kongon demokraattisessa tasavallassa olevien rauhanturvajoukkojen (MONUC) oli tarkoitus riisua kapinalliset aseista ja neutralisoida ne, missä ne eivät kuitenkaan ole onnistuneet.
+<P>
+MONUC:n valtuuksia on laajennettu, ja alueelle on lähetetty lisää joukkoja, mutta joukot ovat heikosti koulutettuja ja tietojen ja teknisen avun puute on suuri. Mielestämme yhteisessä päätöslauselmassa ei oteta huomioon sitä, että jos Ruanda ylittää Kongon rajan lopettaakseen aseistautuneiden joukkioiden toiminnan, tähän on syynä MONUC:n epäonnistuminen aseista riisumisessa.
+<P>
+Mielestämme Euroopan unionin ja jäsenvaltioiden pitäisi osallistua aiempaa aktiivisemmin toimintaan Kongon demokraattisessa tasavallassa ja Suurten järvien alueella, ja päähuomio tässä yhteydessä olisi kiinnitettävä kapinallisjoukkojen riisumiseen aseista. Eurooppalaisjoukkojen avulla voitaisiin ehkä lujittaa YK:n rauhanturvajoukkoja. Kongossa tällä hetkellä olevilla Pakistanin, Nepalin, Uruguayn ja muiden valtioiden joukoilla ei yksinkertaisesti ole riittävästi kokemusta sotilaallisista operaatioista Saharan eteläpuolisessa Afrikassa. Euroopalla tätä kokemusta on.
+<P>
+Meidän on harkittava kaikkia vaihtoehtoja tehdäksemme aseidenriisunnasta totta. Kyseessä on ehdottomasti tärkein edellytys rauhanprosessin saamiseksi jälleen käyntiin.
+<P>
+Kaiken kaikkiaan olemme sitä mieltä, että vaikka päätöslauselmassa onkin monia hyviä näkökohtia, joita kannatamme, se on epätasapainoinen. Näin ollen äänestän valitettavasti tyhjää. 
+<SPEAKER ID="141" LANGUAGE="EN" NAME="Lambert (Verts/ALE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, ryhmäni on tyytyväinen siihen, että saamme tilaisuuden keskustella Kongon demokraattisen tasavallan tämänhetkisestä tilanteesta, mutta pahoittelee muiden ryhmien tavoin syvästi sitä, että aiheeseen on jälleen pitänyt palata. Parlamentin eilen hyväksymässä mietinnössä turvapaikkajärjestelmästä ja kestävistä ratkaisuista sovimme muun muassa, että Euroopan unionin yhteisessä ulkopolitiikassa ja yhteisessä turvallisuuspolitiikassa on keskityttävä konfliktien ratkaisuun ja ehkäisemiseen sekä kiinnitettävä erityistä huomiota pitkään jatkuneisiin konflikteihin. Juuri tällainen on tilanne Kongon demokraattisessa tasavallassa, jossa halulla hallita luonnonvaroja on aivan ilmeinen yhteys väestön joukkopakoihin ja kuolonuhrien valtavaan lukumäärään.
+<P>
+Korostamme, että tarvitaan tehokkaita aseidenvalvontakeinoja ja tehokas aseistariisuntaohjelma. Kannatamme myös sitä, että YK:ta kehotetaan puuttumaan luonnonvaroja riistämällä voittoa tekevien toimintaan ennen kaikkea jäädyttämällä niiden pankkitilit ja ryhtymällä yritysten vastaisiin toimiin. Vaikka voimme mielestämme aivan hyvin tehdä näin terrorismista epäilemillemme järjestöille, emme näytä kykenevän alkuunkaan samaan niiden henkilöiden kohdalla, jotka surmaavat valtavasti väkeä muualla maailmassa.
+<P>
+Olemme myös tyytyväisiä siihen, että YK:n rauhaturvaamistoiminnan osasto on perustanut erityisen tutkintaryhmän selvittämään niitä seksuaalisen väärinkäytön ja hyväksikäytön tapauksia, joihin jotkin sen omat Kongon demokraattisessa tasavallassa olevien YK:n tarkkailijajoukkojen jäsenet ovat syyllistyneet ennen kaikkea Buniassa, vaikka pahoittelemme tätä tarvetta. Koska parlamentissa tästä on keskusteltu useaan otteeseen, tiedämme, että raiskausten avulla pyritään lannistamaan vastapuoli osoittamalla, etteivät ihmiset pysty suojelemaan edes omia perheitään.
+<P>
+Tämä parlamentti on todennut useaan otteeseen, että raiskausten uhrit, seksuaalisen väärinkäytön uhreiksi joutuneet lapset, ovat erityisen haavoittuvia. Mielestämme onkin halveksuttavaa, että tällaisiin rikoksiin syyllistyvät myös ne, jotka lähetetään suojelemaan jo ennestään traumatisoitunutta väestöä. Odotamme, että rikoksentekijät ja ne, jotka hyödyntävät Kongon demokraattisen tasavallan tragediaa voittoa tehdäkseen, tuodaan oikeuden eteen. 
+<SPEAKER ID="142" LANGUAGE="PT" NAME="Ribeiro e Castro (PPE-DE )," AFFILIATION="ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, arvoisa komission jäsen Grybauskaitė, hyvät kollegat, tilanne Suurten järvien alueella ja erityisesti Kongon demokraattisessa tasavallassa on keskellä Afrikkaa sijaitseva paise, tulivuori, joka on valitettavasti aina altis purkautumaan. Kuusi vuotta jatkunut konflikti on vaatinut kolmen miljoonan ihmisen hengen, mutta International Rescue Committee -järjestön mukaan kuolonuhreja on edelleen 31 000 kuukaudessa. Tilanne on siis edelleen epävakaa ja valitettavasti äärimmäisen arvaamaton.
+<P>
+AKT:n ja EU:n yhteinen parlamentaarinen edustajakokous kokoontui äskettäin Haagissa. Hämmentävästi kokouksemme alkoi hyvillä uutisilla Dar es Salaamin konferenssista ja sitoumuksesta, jonka kaikki hallituksen päämiehet tekivät konferenssissa konfliktin päättämiseksi. Kuitenkin torstaihin mennessä, jolloin päätimme kokouksen, yhteispuheenjohtajamme Glenys Kinnock oli tuonut meille surulliset uutiset siitä, että Ruandan armeija oli siirtynyt rajan yli Kongon demokraattiseen tasavaltaan. Näin ollen meidän on toimittava tällä alalla tehokkaammin vakauttaaksemme alueen. Jäsen Posseltin esittämä vertaus kolmikymmenvuotiseen sotaan oli mitä osuvin, ja toivon hänen olevan oikeassa, koska jos näin on, konflikti saadaan päätökseen ja kyseisistä Afrikan mantereen alueista tulee yhtä vauraita, vakaita ja moderneja kuin Saksa on nykyään. Tähän me pyrimme. Vapaiden ja demokraattisten yhteiskuntien on johdettava Afrikan manner vakauteen.
+<P>
+Mitä meidän tässä parlamentissa on tehtävä? Meidän on myönnettävä, etteivät toimemme Ruandan entisen hallituksen sotilasjoukkojen osalta ole riittävät. Nämä joukot horjuttavat vakautta ja antavat tekosyyn jatkuvalle epävakaudelle Kongon demokraattisen tasavallan itäosassa, ja meidän on ryhdyttävä tehokkaampiin toimenpiteisiin niiden riisumiseksi aseista. Meidän on tehtävä selväksi, etteivät mitkään hyökkäykset ole hyväksyttävissä ja että alueen kaikkien valtioiden on noudatettava valtionrajojen kunnioittamisen periaatetta. Meidän on vietävä Kongon demokraattisen tasavallan demokratiaprosessi päätökseen ja tehtävä voitavamme maan vakauttamiseksi. Esimerkiksi Kongon armeija on yhdistettävä uudelleen. Meidän on annettava lisää resursseja Yhdistyneiden Kansakuntien joukoille rauhan ja vakauden turvaamiseksi Kongon demokraattisen tasavallan itäosassa ja onnistuttava luomaan paikan päälle edellytykset, jotka eivät johda taaksepäin; toisin sanoen edellytykset sille, että osapuolet noudattavat vuoden 2003 rauhansopimuksia ja että kaikki osapuolet noudattavat Tansaniassa 20. marraskuuta tänä vuonna tehtyjä sopimuksia ja että kaikki osapuolet noudattavat Yhdistyneiden Kansakuntien turvallisuusneuvoston päätöslauselmia asianmukaisesti. 
+<SPEAKER ID="143" LANGUAGE="PL" NAME="Krupa (IND/DEM )," AFFILIATION="ryhmän puolesta">
+<P>
+   .   Afrikasta voidaan mainita monia esimerkkejä ihmisoikeusrikkomuksista ja demokratiaperiaatteen loukkauksista, mutta lasten sekaantuminen aseellisiin konflikteihin erottuu niistä äärimmäisen vakavavana ongelmana. Epäilen, voiko mikään keskustelu, edes keskustelu tässä parlamentissa, auttaa torjumaan köyhyyttä kehitysmaissa. Näissä maissa yli 5 miljardia ihmistä elää yhdellä tai kahdella dollarilla päivässä, ja veristä lasten sotaa käydään Kongossa, jossa yli 300 000 lasta taistelee sotilaallisissa operaatioissa, jotka ovat viime vuosina vaatineet yli 3 miljoonan ihmisen hengen. Eikö tällainen lapsuuden tuhoaminen pakkotyön, asevoimiin värväyksen ja seksuaalisen hyväksikäytön keinoin ole osoitus vastuuttomuudesta ja monien humanitaaristen ja kansainvälisten järjestöjen epäonnistumisesta?
+<P>
+Jotta voitaisiin ryhtyä toimenpiteisiin tällaisten tragedioiden estämiseksi, ensimmäiseksi on tarpeen tunnistaa niiden syyt. Tärkein niistä on se pitkäaikainen ja laajalle ulottuva riisto, jota jotkin maailmanvallat, myös Euroopan valtiot, harjoittavat kehitysmaita kohtaan. Ne hyötyvät tästä riistosta, kun taas ryövätyt siirtomaat köyhtyvät entisestään. Kongo on rauniona, koska se on joutunut sellaisten riistäjien uhriksi, joille maan runsaat luonnonvarat merkitsevät ihmishenkiä enemmän. Nähdäkseni ihmisen sivistystasoa olisi mitattava sen perusteella, miten vastuullisesti hän suhtautuu heikompiinsa, ja sama pätee valtaapitäviin. Mielestämme heikoimmille ei kuitenkaan pitäisi antaa sellaista apua, joka on pelkkää huijausta ja joka ilmenee moraalisen rappion, ehkäisyn ja aborttien muodossa. Tarvitaan paljon enemmän. Olisi annettava kokonaisvaltaista hoitoa, ja kehitystä olisi tuettava. Lisäksi maassa yleisenä esiintyvää malariaa, tuberkuloosia ja aidsia olisi hoidettava, ja perhekuntia olisi autettava kehittymään järkevältä pohjalta. Olen myös sitä mieltä, että sen sijaan, että lähetämme aseistautuneita joukkoja ja kouluttajia Irakiin, meidän pitäisi pyrkiä varmistamaan, että Kongoon saadaan vihdoinkin pysyvä rauha. 
+<SPEAKER ID="144" LANGUAGE="EN" NAME="Grybauskaitė," AFFILIATION="komissio">
+<P>
+   .  Arvoisa puhemies, Euroopan komissio yhtyy parlamentin huoleen Ruandan ja Kongon demokraattisen tasavallan välisten jännitteiden lisääntymisestä ja siitä, miten tämä vaikuttaa alueen ihmisoikeustilanteeseen.
+<P>
+Olemme toden totta erittäin huolestuneita Ruandan uhkauksista käyttää voimaa Kongon alueellista koskemattomuutta vastaan entisten FAR- ja Interhamwe-joukkojen neutralisoimiseksi sekä niistä useista tiedoista, joiden mukaan Ruandan armeija on ryhtynyt Itä-Kongossa sotilaalliseen operaatioon. Lisäsyy huoleemme on näiden toimenpiteiden aiheuttama humanitaarinen kriisi.
+<P>
+Alueen vakauden kannalta on olennaista, että Ruanda vetää viipymättä pois kaikki joukkonsa Kongon demokraattisen tasavallan alueelta ja pitäytyy kaikista kansainvälisen oikeuden vastaisista toimista tai lausunnoista.
+<P>
+Euroopan komissio on vahvasti vakuuttunut siitä, että niin kauan kuin entisten FAR-joukkojen läsnäolosta Kongon demokraattisen tasavallan itäosassa johtuva ongelma on lopullisesti selvittämättä, se heikentää alueen rauhaa ja turvallisuutta, luo epävakautta sekä uhkaa siviiliväestöä.
+<P>
+Tässä yhteydessä Euroopan komissio on vakuuttunut siitä, että maan hallituksen olisi hyödynnettävä olemassa olevia mekanismeja, kuten yhteistä tarkastusjärjestelmää (Joint Verification Mechanism) ja kolmikantakomiteaa, rauhanomaisen ratkaisun löytämiseksi. Lisäksi Kongon olisi pantava viipymättä täytäntöön suunnitelma, joka on laadittu Yhdistyneiden Kansakuntien Kongon demokraattisessa tasavallassa olevien tarkkailijajoukkojen (MONUC) tukemana ja jonka tavoitteena on nopeuttaa aseistariisuntaa ja ulkomaisten aseistautuneiden joukkojen kotiuttamista. Sen pitäisi myös nopeuttaa yhteiskuntaan sopeuttamista ja maan kansallisen armeijan kouluttamista, jotta entiset FAR-joukot voidaan riisua tehokkaasti aseista.
+<P>
+Rauhan ja turvallisuuden vakiinnuttaminen alueelle saattamalla maat yhteen on toden totta ensisijainen tavoitteemme. Tässä yhteydessä olennaista ja välttämätöntä on nähdäksemme ratkaista entisten FAR-joukkojen ongelma.
+<P>
+Yhteisö tukee aktiivisesti Kongon viranomaisia maan jälleenrakennuksessa kaikkiaan 0,5 miljardin euron kehityshankkeilla.
+<P>
+Euroopan unioni on nyt ja vastaisuudessa suurin Kongolle tarkoitetun humanitaarisen avun lahjoittaja, ja se myöntää tätä apua myös tulevaisuudessa. 
+<SPEAKER ID="145" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Kiitoksia, arvoisa komission jäsen.
+<P>
+Äänestys toimitetaan keskustelujen jälkeen.
+<P>
+Keskustelu on päättynyt.
+<P>
+Esityslistalla on seuraavana keskustelu kuudesta Bhopalia koskevasta päätöslauselmaesityksestä. 
+<SPEAKER ID="146" LANGUAGE="PL" NAME="Libicki (UEN )." AFFILIATION="">
+<P>
+      Arvoisa puhemies, hyvät kollegat, tänään keskustelemme aiheista, joita ei toiminnassamme yleensä sivuta. Aiheet, joista yleensä keskustelemme, ovat tärkeitä, mutta ne liittyvät rahoitusnäkymiin, tiedotusratkaisuihin ja talousasioihin. Ne kaikki ovat äärimmäisen tärkeitä asioita, mutta eivät traagisia.
+<P>
+Tämän iltapäivän keskustelussa on kolme aihetta, ja niistä erityisesti Bhopal koskee yhtä viime vuosikymmenten suurimmista tragedioista. Tässä tragediassa kaasuräjähdys tappoi välittömästi useita kymmeniätuhansia ihmisiä. Räjähdyksen vaikutukset tuntuvat valitettavasti vielä tänäänkin. Tästä surullisesta tilanteesta ovat vastuussa ne laitokset ja henkilöt, jotka kohta mainitsen.
+<P>
+Organisaatiot, joiden syyksi tapahtunut on luettava, ovat myöntäneet syyllisyytensä ja suorittaneet korvaukset 15 248 ihmisen kuoleman johdosta. Ne ovat maksaneet korvauksia myös niille 554 895 henkilölle, jotka ovat sairastuneet tai vammautuneet, mutta pyrkineet samalla siihen, että korvausta maksettaisiin vain mahdollisimman harvoille. Neljännesvuosisata sitten tapahtuneesta Bhopalin kaasuräjähdyksestä on karkeiden arvioiden mukaan kärsinyt 10 000 henkeä, ja miljoonat kärsivät siitä yhä vieläkin ympäristön pilaantumisen vuoksi. Mitä onnettomuuden jälkihoidossa tapahtui? Sopimuksen ja useiden tuomioistuinpäätösten jälkeen syyllinen asianosainen, Union Carbide Corporation India, maksoi korvauksina 470 miljoonaa Yhdysvaltojen dollaria. Summa saattaa vaikuttaa varsin suurelta, mutta räjähdyksen uhrit saivat siitä alle 10 prosenttia. Loppu meni lakimiehille. Sivumennen on syytä huomauttaa, ettei edes ahneita lakimiehiä mielellään kuvanneen Charles Dickensin tarinoissa 150 vuoden takaa ole tapauksia, joissa uhri ei käytännössä saa mitään. Rahat menivät, koska lakimiesten palkkioiden lisäksi suuria summia on väitteiden mukaan käytetty korruptoituneiden virkamiesten lahjontaan.
+<P>
+On sietämätöntä, että tästä tragediasta ovat hyötyneet taloudellisesti kaikki muut paitsi sen uhrit. Olemme todistamassa salaliittoa, ja on ryhdyttävä toimenpiteisiin asioiden saattamiseksi kuntoon. Tähän tähdätään päätöslauselmaesityksessä, joka tänään on tarkoitus hyväksyä. Meidän on pyrittävä arvioimaan vahingot uudelleen, jotta korvaukset voidaan maksaa niille, joilla on niihin oikeus. Meidän on varmistettava, että asia annetaan sellaisten viranomaisten käsiteltäväksi, jotka kykenevät ratkaisemaan ongelman oikeudenmukaisesti. 
+<SPEAKER ID="147" LANGUAGE="EN" NAME="Gill (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, muistelemme tänään yhtä kaikkien aikojen pahimmista teollisuusonnettomuuksista. Kuten olemme kuulleet, keskellä yötä 2. joulukuuta 1984 ilmaan vuoti kuolettavat 40 tonnia tunnettuja ja tuntemattomia myrkkyjä. Bhopalin väestö yritti paeta tuota myrkkypilveä. Heidän ponnistelunsa oli kuitenkin turhaa, ja miltei 4 000 ihmistä kuoli välittömästi; tähän mennessä viattomia uhreja on ollut 25 000.
+<P>
+Nämä ovat raakoja tosiseikkoja, ja Bhopalin väestö kärsii tästä kauhistuttavasta perinnöstä vielä tänäänkin. Niinpä ei riitäkään, että vain muistelemme, vaan meidän on myös toimittava yhteisönä toista yhteisöä auttaaksemme. Meidän on kysyttävä, miksi vielä 20 vuoden jälkeenkin henkiinjääneiden on niin vaikea saada oikeutta. Meidän on kysyttävä, miksi asianomainen ylikansallinen yritys kieltää enää olevansa miltään osin korvausvastuussa sen enempää Bhopalin tehdasalueen tilasta kuin uhrien terveydentilastakaan.
+<P>
+Meidän on kysyttävä, miksi tehdasaluetta ei ole puhdistettu myrkyllisestä jätteestä ja miksi sen annetaan edelleen saastuttaa vettä, josta lähialueen yhdyskunnat ovat riippuvaisia. Meidän pitää saada tietää, miten ihmeessä Dow Chemicals voi jättää sikseen tämän tapauksen, joka on ollut tämän vuosisadan pahimpia teollisuusonnettomuuksia.
+<P>
+Meidän on myös kysyttävä, miksi niin monet odottavat edelleen asianmukaista korvausta. Ymmärrän, että ratkaisua hankaloittavat loputtomat kiistat korvausmäärien laskemisesta, mutta tämä ei riitä perustelemaan sitä, että bhopalilaiset joutuvat käymään samat tapahtumat läpi uudelleen päivä toisensa jälkeen.
+<P>
+Vaikka kannatankin valtaosaa päätöslauselman sisällöstä ja sen tausta-ajatuksista, en katso, että ehdotetuilla tarkistuksilla siihen voidaan lisätä mitään rakentavaa. Bhopalin kaltaisista katastrofeista puhuttaessa on ratkaisevaa, ettemme alennu kiistelemään ja esittämään järjettömyyksiä. Syytökset kohdistetaan aivan liian usein väärin, ja usein tuomitsemme kaikki asianosaiset selvittämättä kuitenkaan kaikkia tosiseikkoja.
+<P>
+Suhteista Etelä-Aasian maihin ja Etelä-Aasian alueellisen yhteistyön liittoon (SAARC) vastaavan Euroopan parlamentin valtuuskunnan puheenjohtajana kehottaisin teitä pitämään kaikki nämä asiat mielessänne, ja erityisen tärkeä näkökohta on kunkin maan talousarvio. Meidän on muistettava, että joidenkin maiden mahdollisuudet ovat rajalliset eivätkä ne välttämättä vielä ole kehittäneet tekniikkaa tai asiantuntemusta kyetäkseen selviytymään tällaisista katastrofeista niin nopeasti ja turvallisesti kuin mihin me omissa maissamme olemme tottuneet. Meidän on myös pyrittävä tarkastelemaan Bhopalin kaltaista tapausta jokaiselta kantilta ja annettava tunnustusta työlle, jota Intian hallitus ja Madhya Pradeshin hallitus ovat jo tehneet lääkintähoidon, taloudellisen ja sosiaalisen avun, ympäristön puhdistamisen ja myös taloudellisten korvausten aloilla.
+<P>
+Tämä lyhyt luettelo on osoituksena siitä, että paljon on jo tehty. Mielestäni ei olisi rakentavaa panetella hallitusta, joka on ponnistellut puuttuakseen Bhopalin tapauksesta aiheutuneisiin moninaisiin ongelmiin ja korjatakseen ne. Meidän on pikemminkin käytettävä kaikkia diplomaattisia keinoja painostaaksemme Intian hallitusta jatkamaan sen tämänhetkisiä ponnisteluja korvausten maksamiseksi ja alueen puhdistamisen edistämiseksi. Jos vaadimme, että toimiin ryhdytään ja että rahaa käytetään, meidän pitäisi kuitenkin olla myös valmiita auttamaan miten ikinä vain osaamme, kuten tarjoamalla teknistä ja taloudellista tukea.
+<P>
+Emme saa tuomita ketään ennen kuin selvitämme, mitä me yhteisönä voimme tehdä auttaaksemme. Meidän pitäisi toimia vastakin rakentavasti ja tarjota humanitaarista, ekologista ja lääkinnällistä asiantuntemustamme Madhya Pradeshin hallitukselle. Tämä tehtävä kuuluu yhtä lailla komissiolle, jäsenvaltioille ja niiden hallituksille. Kehottaisinkin teitä painostamaan kaikkia niitä, jotka voivat tuoda vähäistäkin helpotusta Bhopalissa kärsineille. 
+<SPEAKER ID="148" LANGUAGE="EN" NAME="Lynne (ALDE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, vaikka Dow Chemicals ja Intian hallitus kiistelevät siitä, ketä pitää syyttää Bhopalin katastrofista, ihmiset kärsivät edelleen ja kuolevat kahden vuosikymmenen takaisten tapahtumien tähden. Yli 7 000 henkeä sai surmansa muutamassa päivässä, mutta toimettomuus on johtanut vielä 15 000 uuteen kuolonuhriin, jotka olisi voitu välttää. Vielä tänäänkään, 20 vuotta myöhemmin, kumpikaan osapuolista ei näytä piittaavan kärsimyksestä vaan yksinomaan omasta maineestaan. Kroonisista ja heikentävistä sairauksista kärsiviä on jopa 100 000, ja kuukaudessa kuolee edelleen 10–15 ihmistä.
+<P>
+Henkiin jääneet odottavat edelleen oikeutta, monissa tapauksissa korvauksia ja lääkintähoitoa. Ympäristöään edelleen saastuttavan tehdasalueen käytöstä poistaminen maksaa arviolta 15 miljoonaa Englannin puntaa, kun Dow'n vuosittainen myynti on 16 miljardia puntaa ja Intian bruttokansantuote 320 miljardia puntaa. Intian hallitus ei ole vielä käyttänyt myöskään niitä 330 miljoonan Yhdysvaltain dollarin korvauksia, jotka Union Carbide sille alun perin maksoi. Lisäksi tehdasalueen lähistöllä sijaitsevien slummien vesijohtoverkostossa epäpuhtauspitoisuudet ylittävät Maailman terveysjärjestön (WHO) suosittelemat enimmäismäärät 500-kertaisesti.
+<P>
+Miten kansainvälinen yhteisö, monikansallinen yritys ja yksi maailman tärkeimmistä maista voivat antaa tämän tapahtua tekemättä mitään? Juuri nyt ei pitäisi miettiä syyllisiä vaan sitä, kuka lopettaa kärsimyksen. Bhopalin onnettomuuden naisuhrien yhdistystä (Women Gas Victims' Industrial Association) johtava, Bhopalissa asuva Abdul Jabbar Khan totesi Yhdistyneessä kuningaskunnassa ilmestyvässä Guardian-sanomalehdessä seuraavaa: "New Yorkissa syyskuun 11. päivä johti jo parissa kuukaudessa korvauksiin, rangaistuksiin ja kunnostustoimiin. Bhopalissa meillä ei ole vielä 20 vuoden jälkeenkään mitään."
+<SPEAKER ID="149" LANGUAGE="NL" NAME="Meijer (GUE/NGL )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, kehitysmaat ovat toimittaneet siirtomaa-ajoista lähtien halpoja maatalousalan, kaivosalan ja pienimuotoisen käsiteollisuuden tuotteita rikkaille maille. Kehitysmaat ovat riippuvaisia pohjoisen maiden niille toimittamista uuteen teolliseen tekniikkaan perustuvista kalliista tuotteista. Tämän vuoksi ne ovat äärimmäisen riippuvaisia tuonnista ja viennistä, mikä muuttaa niiden kauppataseen erittäin epäedulliseksi. Samoin kuin niinä aikoina, jolloin Eurooppa turvasi hallintovaltansa voimankäytöllä, tämä jakautuminen johtaa yhä edelleen pysyvään köyhyyteen ja kehittyvän maailman jälkeenjääneisyyteen.
+<P>
+Onkin helppoa ymmärtää, miksi nämä maat ajattelivat kaiken uuden teollisuuden, eritoten laajamittaisen metalli- ja kemianteollisuuden, olevan niille eduksi. Aiemmin nämä maat eivät tällaisen teollisuuden näkökulmasta vaikuttaneet kovinkaan houkuttelevilta, mihin oli syynä paitsi työvoiman tuolloin vielä riittämätön koulutustaso lähinnä se, että valtaosa asiakkaista oli vauraassa maailmassa ja että lopputuotteiden kuljetus oli kallista. Maahan juurtui ainoastaan sellaista teollisuutta, joka oli lähtöisin joko valtionyrityksistä tai joka palveli ainoastaan paikallisia markkinoita ja matkailijoita.
+<P>
+Rikkaan pohjoisen yritykset käyttivät hyväkseen näiden maiden tarvetta vankistaa teollisuuttaan, ja ne tekevät näin edelleen. Vaikka pohjoisen yritykset haluavat laajentua, etelän maat eivät heikon ostovoimansa takia ole vieläkään kovin tärkeä markkina-alue. Investoinnit etelään saattavat kuitenkin vaikuttaa niistä houkuttelevilta, jos palkkataso on alhainen ja etenkin jos ympäristö- ja turvallisuusvaatimukset ovat näissä maissa väljemmät tai jos niiden noudattamisen valvonta on heikkoa. Tämä tekee mahdolliseksi katastrofit, joiden tähden monet sairastuvat parantumattomasti tai menettävät henkensä. Tämä vaara uhkaa näiden yritysten työntekijöiden lisäksi ympäristössä asuvia ihmisiä. Kun onnettomuuksia tapahtuu, yritykset eivät ole halukkaita vastaamaan kustannuksista. Tämä tilanne on huomattavilta osin seurausta kaksikymmentä vuotta sitten Bhopalissa sattuneesta kaasuräjähdyksestä ja siitä tavasta, jolla se hoidettiin.
+<P>
+Union Carbide, Dow Chemical ja Intian hallitus eivät ole halukkaita maksamaan riittäviä korvauksia noin 20 000:lle tai useammalle menehtyneelle ja yli 100 000:lle pysyvästi vammautuneelle eivätkä kattamaan maaperän ja pohjaveden pilaantumisesta aiheutuneita kustannuksia. Ratkaisu on löydettävä, eikä tällaisia katastrofeja saa sattua enää koskaan. Meidän eurooppalaisten on kannettava vastuumme, liityttävä tarvittaessa maksajien joukkoon ja ennen kaikkea laadittava säännöt, joilla varmistetaan, etteivät Euroopan yritykset toista tämänkaltaista virhettä. 
+<SPEAKER ID="150" LANGUAGE="ES" NAME="Romeva i Rueda (Verts/ALE )." AFFILIATION="">
+<P>
+     Arvoisa puhemies, vaikka 20 vuotta on kulunut siitä, kun Union Carbide Corporationin Bhopalin lannoitetehtaasta pääsi ilmaan myrkyllistä kaasua, tuhannet ihmiset kärsivät onnettomuuden aiheuttamista haittavaikutuksista ja ympäristön pilaantumisesta edelleen.
+<P>
+Vuoto tappoi yli 7 000 henkeä joulukuun 2. ja 3. päivän välisenä yönä vuonna 1984. Lisäksi 15 000 henkeä kuoli myöhemmin sen vuoksi. Vuoto on syypää myös kroonisiin sairauksiin, joista kärsii yli 100 000 ihmistä.
+<P>
+Intian hallitus ja Union Carbide, tai lannoitetehtaan nykyisin omistava Dow Chemical, ovat ottaneet kantaakseen vastuun onnettomuuden vaikutuksista tuhansien ihmisten elämään ja ympäristöön.
+<P>
+Kuten todetaan päätöslauselmassa, josta parlamentin on määrä tänään äänestää, Bhopalin tämänhetkisestä tilanteesta on laadittava riippumaton tutkimus, joka voitaisiin tehdä Yhdistyneiden Kansakuntien ihmisoikeustoimikunnan alaisuudessa. Siihen on otettava mukaan asiantuntijoita. Heidän on vierailtava Intiassa ja arvioitava Union Carbiden toiminnan ja Bhopalin katastrofin seurauksia pohjaveden ja ympäristön pilaantumisen kannalta. Toki niillä on vaikutuksia myös onnettomuudesta kärsineiden väestön ja paikallisyhteisöjen ihmisoikeuksiin.
+<P>
+Lisäksi Bhopalin traaginen tapaus korostaa tarvetta vaatia yrityksiä kantamaan valtioiden kanssa yhtäläinen vastuu nykypäivän globalisoituneessa maailmantaloudessa. Yritysten on tultava kansainvälisten sopimusten ja yleissopimusten sopimuspuoliksi. On laadittava vaikutustenarviointeja sekä ihmisoikeuksien kunnioittamisesta että aseellisten konfliktien ja jännitteiden leimaamista tilanteista.
+<P>
+Tällaisia ajatuksia on Vihreät/Euroopan vapaa allianssi -ryhmän esittämien tarkistusten taustalla. Kehotan arvoisia jäseniä tutkimaan niitä huolellisesti ennen äänestyspäätöksen tekemistä. Haluaisin myös käyttää tätä tilaisuutta hyväkseni ja julkistaa Barcelonan autonomisen yliopiston rauhankulttuurin laitoksen (Escuela de Cultura de Paz) tekemän ehdotuksen. Vastaavasti kehotan parlamenttia ja unionia edistämään ajatusta joulukuun 3. päivän valinnasta kansainväliseksi yritysten vastuun ja ihmisoikeuksien päiväksi. Päämääränä on, että yritykset sitoutuisivat edistämään ja suojelemaan ihmisoikeuksia kaikkialla maailmassa.
+<P>
+Tuona erityisenä päivänä muun muassa valtioilla, kansainvälisillä organisaatioilla ja kansalaisyhteiskunnalla olisi tilaisuus pohtia yhteistä vastuutaan. Vastuu oikeudenmukaisemman ja kestävämmän maailman luomisesta kuuluu kaikille kansainvälisille toimijoille. 
+<SPEAKER ID="151" LANGUAGE="EN" NAME="Bowis (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, jos menette nykyiseen Bhopaliin – ette siis 20 vuoden takaiseen Bhopaliin – näette tuhansia tonneja myrkyllistä jätettä kasoina, elohopealampia, myrkkyjätelavoja ja kemikaalisäkkejä lojumassa ulkoilmassa, mistä ne sateella valuvat lätäkköihin, puroihin ja pohjaveteen. Näette myös ihmisten kärsivän, koska he juovat tuota vettä. He kärsivät vatsavaivoista, päänsäryistä, anemiasta ja gynekologisista ongelmista, koska heillä ei ole muuta vaihtoehtoa kuin juoda noista kaivoista.
+<P>
+Tämän ongelman me kohtaamme Bhopalissa tänään, kun 20 vuotta on kulunut katastrofista, joka tappoi niin monia. Yhdessä yössä surmansa sai 3 000–7 000 ihmistä ja myöhemmin kuoli 15 000, ja heikentävistä sairauksista kärsii yhä 100 000. On kulunut 15 vuotta sovinnosta, jonka mukaan Intian hallitukselle maksettiin 500 miljoonaa Yhdysvaltain dollaria korvausten maksamista ja maiseman ennallistamista varten. Näille ihmisille tuo alue on edelleen lohduttomuuden ja vaaran ilmentymä.
+<P>
+Täällä parlamentissa emme tee oikein, kun yritämme toimia tuomareina tällaisissa tapauksissa. Tästä syystä en voi hyväksyä Vihreän ryhmän tekemiä tarkistuksia, joihin edellä viitattiin. Päätöslauselmaesitys itsessään on myönteinen, koska siinä vaaditaan Euroopan unionia työskentelemään Intian hallituksen kanssa, jotta saatavilla olevilla varoilla varmistetaan, että kyseinen tehdasalue puhdistetaan ja että onnettomuudesta kärsineet ihmiset saavat hoitoa ja korvauksia – ja tämän on tapahduttava nyt eikä taas 20 vuoden kuluttua. Tämän me haluamme sanoa kaikille asianosaisille: Euroopan unionille, Intian hallitukselle; tietenkin Dow Chemicalsille kaikkine vastuineen sekä niille tuomioistuimille, jotka asiaa käsittelevät. Tänään vaadimme kuitenkin oikeutta näille ihmisille, alueen ympäristön kunnostamista ja sen asukkaiden terveyttä. 
+<SPEAKER ID="152" LANGUAGE="DE" NAME="Mann, Thomas (PPE-DE )," AFFILIATION="ryhmän puolesta">
+<P>
+   .  Arvoisa puhemies, olen iloinen voidessani puhua heti jäsen Bowisin jälkeen. Hän korosti sitä, missä olemme nyt, kun 20 vuotta on kulunut joulukuun 3. päivästä 1984, jolloin 35 tonnia erittäin myrkyllistä kaasuseosta tappoi 7 000 ihmistä sydämen ja keuhkojen vaurioihin. Tähän mennessä noin 25 000 ihmistä on jäänyt historiaan tämän kaikkien aikojen suurimman kemikaalionnettomuuden uhreina, ja sen aiheuttamista vammoista kärsii edelleen noin 500 000 henkeä.
+<P>
+Mitä uhrien hyväksi sitten tehtiin? Tutkimukset ovat osoittaneet, että 15 vuotta sitten Union Carbiden ja Intian hallituksen välillä sovittiin noin 470 miljoonan Yhdysvaltain dollarin korvaussummasta. Tähän mennessä virallisesti uhreiksi kirjatuista 100 000 henkilöstä kukin on saanut 300 Yhdysvaltain dollaria. On rakennettu 2 500 taloa leskille, seitsemän sairaalaa ja useita laitoksia, mutta mitä on tapahtunut lopuille rahoille, noin 400 miljoonalle Yhdysvaltain dollarille? Minun on sanottava jäsen Gillille, että meidän on tosissamme kysyttävä, kenen syytä tämä on. Maaperä on edelleen saastunut. Elohopea on pilannut pohjaveden pahoin, eikä se lähde sieltä mihinkään. Myrkkyjäämiä säilytetään ulkoilmassa. Ei siis olekaan mikään ihme, että tuloksena on jäsen Bowisin juuri kuvailema tilanne: kroonisia sairauksia, aivovaurioita ja epämuodostuneena syntyviä lapsia. Jos uhreille annettavaa lääkintähoitoa halutaan parantaa huomattavasti, Intian pääministerin Singhin on puututtava asiaan, ja hallituksen on noudatettava korkeimman oikeuden tuomiota ja vihdoinkin vapautettava varat sekä annettava mahdollisuus täyden korvauksen suorittamiseen. Monilla kemianyrityksillä on edelleen tuotantoa Intiassa ja muissa maissa, joissa työ- ja ympäristöstandardit ovat huomattavasti Euroopan unionissa tai Yhdysvalloissa noudatettavia standardeja alhaisemmat.
+<P>
+REACH-ohjelmasta vastaavana työllisyys- ja sosiaalivaliokunnan esittelijänä en voi muuta kuin toistaa työasiakirjassa esitetyn vaatimuksen: mikäli halutaan saavuttaa vertailukelpoisuus, tarvitsemme Euroopan unionin antamia sääntöjä ja myös WTO:n sääntöjä standardien muodossa. Ne, jotka suurempia voittoja himoitessaan poikkeuksetta tyytyvät vähimmäistason ympäristövaatimuksiin, hyväksyvät samalla ajatuksen Bhopalin tapauksen todennäköisestä uusiutumisesta, ja siihen ei meillä kenelläkään ole varaa. 
+<SPEAKER ID="153" LANGUAGE="EL" NAME="Beglitis (PSE )," AFFILIATION="ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, Intiassa sattuneesta Bhopalin tragediasta, jolla oli valtavat humanitaariset ja ekologiset seuraukset, on nyt kulunut kaksikymmentä vuotta, ja mielestäni poliittisten ryhmien aloite päätöslauselmaesityksen hyväksymiseksi Euroopan parlamentin täysistunnossa on erityisen tärkeä.
+<P>
+Ei kuitenkaan riitä, että virkistämme muistia. Ei riitä, että tuomitsemme monikansallisten yritysten usein vastuuttoman toiminnan kehitysmaissa. Ei riitä, että tuomme esiin humanitaarisen valveutuneisuutemme vain sanoin. Samankaltainen tragedia voi kohdata väestöä jossakin muualla päin maailmaa, jos kansainvälinen yhteisö ei tee aloitetta ottaakseen käyttöön kansainvälisiä mekanismeja monikansallisten yritysten toiminnan valvomiseksi, ympäristön suojelemiseksi sekä ihmisoikeuksien ja työntekijöiden oikeuksien turvaamiseksi.
+<P>
+Juuri tässä kohtaa Euroopan unionin roolia Yhdistyneissä Kansakunnissa ja muissa kansainvälisissä järjestöissä on varaa vahvistaa. Päätöslauselmaesityksessä mainitaan koko Bhopalin aluetta edelleen vaivaavat ongelmat, joista lukuisat arvoisista jäsenistä puhuivat. Siinä ei mielestäni kuitenkaan tuoda täysipainoisesti esiin Intian liittovaltio- ja alueviranomaisten viimevuotisia ponnisteluja lääkinnällisten, taloudellisten ja sosiaalisten toimien sekä ympäristön ennallistamistoimien alalla. Emme saisi jättää huomiotta sitä, että tärkeitä toimenpiteitä on toteutettu.
+<P>
+Lopuksi toteaisin, että mielestäni ilmaisemme parhaiten myötätuntomme uhreille ja heidän perheilleen siten, että Euroopan komissio tekee aloitteen lääkintähoitoa ja ympäristön ennallistamista koskevien ohjelmien täytäntöönpanosta yhteistyössä Maailman terveysjärjestön kanssa. 
+<SPEAKER ID="154" LANGUAGE="PL" NAME="Czarnecki, Ryszard (NI )." AFFILIATION="">
+<P>
+   –  Arvoisa puhemies, arvoisa komission jäsen Grybauskaitė, hyvät kollegat, haluaisin onnitella jäsen Grybauskaitėa virkaan astumisesta ja toivottaa hänelle kaikkea hyvää.
+<P>
+Kuten Ernest Hemingway kerran sanoi, "älä konsanaan lähetä kysymään, kenelle kellot soivat; ne soivat sinulle". On hyvä, että Euroopan parlamentti kantaa huolta alueista, jotka sijaitsevat kaukana Euroopasta, ja että se tekee näin ilman, että sen poliittinen etu sitä vaatisi. Yhtäältä Euroopan unioni on ilmoittanut strategisesta kumppanuudesta Intian kanssa, mutta toisaalta parlamentin päätöslauselmassa todetaan, että Intian hallitus on tehnyt kovin vähän suojatakseen ihmisiä Bhopalin katastrofin vaikutuksilta. Keskustelemme Intian viranomaisten piittaamattomuudesta, mikä on aivan oikein, mutta meidän pitäisi myös ilmaista näkemyksemme siitä, millainen korvausvastuu kuuluu yhdysvaltalaiselle yritykselle, joka pakotti omaksumaan raa'an 1800-lukulaisen kapitalismin ja jätti täyttämättä kaikki Yhdysvalloissa pakolliset turvallisuusvaatimukset. Luvut ovat seuraavat: katastrofissa kuoli välittömästi 7 000 henkeä, sen jälkeisten 20 vuoden aikana noin 30 000 henkeä, ja tähän mennessä sairastuneita on yli 100 000. Nämä tilastotiedot eivät tietenkään voi ilmaista inhimillistä kärsimystä, vaan ne pikemminkin kätkevät tuskan ja kyyneleet.
+<P>
+Bhopalin tapauksen on toimittava varoituksena hallituksille, joiden on perustettava pelastusjärjestelmiä eikä hylättävä ihmisiä. Sen on toimittava varoituksena kansainvälisille yrityksille, joiden on varmistettava, ettei voitonhalu syrjäytä halua turvallisuuden edistämiseen. Sen on toimittava varoituksena kansainvälisille elimille ja organisaatioille, joiden on annettava tukea katastrofialueille. Arvoisa puhemies, lopuksi toteaisin, että tapauksen olisi toimittava varoituksena myös meille, jotta saatamme vastuuseen teoistaan kaikki, jotka vastaanottavat tällaista tukea meiltä tai mistä tahansa muualta. 
+<SPEAKER ID="155" LANGUAGE="EN" NAME="Grybauskaitė," AFFILIATION="komissio">
+<P>
+   .  Arvoisa puhemies, komissio on tyytyväinen parlamentin aloitteeseen käynnistää asiasta kiireellinen käsittely. Nyt meillä on tärkeä tilaisuus pohtia sitä, millä tavoin voimme antaa apua uhreille ja estää tällaisia katastrofeja tapahtumasta tulevaisuudessa. Haluan vakuuttaa parlamentille, että komissio on ollut valmis tukemaan Intiaa tämän tragedian hoitamisessa, ja se on valmis samaan myös tulevaisuudessa.
+<P>
+Olemme tukeneet Bhopalissa toimivia valtiosta riippumattomia järjestöjä hajautetun yhteistyön budjettikohdasta kuntouttamalla katastrofin uhreja ja kartuttamalla heidän ammattitaitoaan sekä tukemalla oma-aloitteisesti toimivia naisryhmiä.
+<P>
+Terveydenhuollon ja perheiden hyvinvoinnin ohjelmasta olemme tukeneet Bhopalin kunnansairaalaa samoin kuin potilaiden hyvinvoinnista vastaavia kunnansairaaloiden ja kuntakeskusten yhdistyksiä. Bhopalin kunnalle on annettu erityistukea lisääntymisterveyttä ja lasten terveyttä kaupunkiympäristössä koskevan suunnitelman laatimiseksi.
+<P>
+Lisäksi komissio on myöntänyt 10 miljoonan euron tuen Intian hallituksen kansallisen katastrofien riskinhallintaohjelman rahoittamiseen.
+<P>
+Äskettäin Haagissa pidetyssä EU:n ja Intian huippukokouksessa Intia toi jälleen esiin kiinnostuksensa ympäristöalalla käytävään vuoropuheluun Euroopan unionin kanssa ja ehdotti EU:n ja Intian välisen ympäristöalan foorumin järjestämistä. Tämä foorumi on ensimmäinen askel pyrittäessä ratkaisemaan niitä valtavia ympäristöongelmia, jotka uhkaavat niin Intiaa kuin Euroopan unioniakin.
+<P>
+Lopuksi haluaisin ilmaista mitä syvimmän myötätuntomme kaikille uhreille sekä lujan toiveemme, ettei tällaista katastrofia satu enää koskaan. 
+<SPEAKER ID="156" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Kiitoksia, arvoisa komission jäsen.
+<P>
+Äänestämme nyt näistä luonnoksista päätöslauselmiksi.
+<P>
+Keskustelu on päättynyt. 
+<SPEAKER ID="157" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi päätöslauselmaesityksen.)">
+<SPEAKER ID="158" LANGUAGE="ES" NAME="Martínez Martínez (PSE )." AFFILIATION="">
+<P>
+     Arvoisa puhemies, halusin vain huomauttaa, että Euroopan parlamentin sosialistiryhmälle toimitetussa äänestysluettelossa on virhe. Äänestimme ensimmäistä Bhopalia koskevaa tarkistusta vastaan ja kolmen muun tarkistuksen puolesta. 
+<SPEAKER ID="159" LANGUAGE="CS" NAME="Roithová (PPE-DE )." AFFILIATION="">
+<P>
+    Haluaisin ilmoittaa, ettei äänestyskorttiani ole vieläkään rekisteröity eikä se suostu toimimaan. Halusin äänestää puolesta. 
+<SPEAKER ID="160" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Parlamentti hyväksyi yhteisen päätöslauselman.)">
+<P>
+   Huomautuksenne on pantu merkille.
+<SPEAKER ID="161" LANGUAGE="DE" NAME="Rübig (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, haluaisin käyttää toisen työjärjestyspuheenvuoron. Eilen äänestimme klo 14:ään asti. Tässä parlamentissa on itse asiassa ollut aina tapana, että äänestykset toimitetaan klo 12.00–13.30, koska meillä on tietenkin useita sitoumuksia lounastunnilla ja koska muuten vieraamme joutuvat odottamaan. Pyytäisinkin puhemiehistöä omaksumaan edellisellä lainsäädäntökaudella noudatetun käytännön, jonka mukaan äänestykset päättyvät klo 13.30.
+<P>
+Haluaisin myös käyttää tilaisuutta hyväkseni ja toivottaa hyvää joulua ja onnellista uutta vuotta kaikille istuntosalissa läsnä oleville. 
+<SPEAKER ID="162" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Hyvä jäsen Rübig, kiitoksia huomautuksestanne. 
+<SPEAKER ID="163" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Istunto päättyi klo 16.20.)">
+<P>
+   Julistan Euroopan parlamentin istuntokauden keskeytetyksi ja toivotan teille kaikille hyvää joulua ja onnellista uutta vuotta 2005.

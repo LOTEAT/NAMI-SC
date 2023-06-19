@@ -1,0 +1,110 @@
+<CHAPTER ID="022">
+Statistika energetike (razprava)
+<SPEAKER ID="449" NAME="Predsednica">
+Naslednja točka je poročilo gospoda Turmesa v imenu odbora za industrijo, raziskave in energetiko o predlogu uredbe Evropskega parlamenta in Sveta o statistiki energetike - C6-0035/2007 -.
+<SPEAKER ID="450" NAME="Joaquín Almunia">
+komisar. - (ES) Gospa predsednica, lansko leto je bilo leto ključnih odločitev v zvezi s podnebnimi spremembami in energetsko politiko. Evropska unija je odločena in zavezana boju proti podnebnim spremembam ter sprejema izziv zagotavljanja varne trajnostne in konkurenčne energije.
+<P>
+Evropski svet je pred letom dni, marca 2007, določil natančne in zavezujoče cilje ter ambiciozni načrt za zmanjšanje emisij toplogrednih plinov in povečanje uporabe obnovljivih virov energije v okviru naše porabe energije.
+<P>
+Kot je znano, je Komisija na teh področjih predložila specifične predloge. Vsa ta prizadevanja zahtevajo kakovostno, stalno in natančno spremljanje napredka v zvezi s stanjem na področju energije, saj je poraba energije odgovorna za več kot 80 % emisij toplogrednih plinov. Tudi države članice morajo pozorno spremljati svojo energetsko odvisnost, zlasti kar zadeva zemeljski plin in nafto. Predlog uredbe o statistiki energetike je del energetskega paketa, ki ga je lani sprejela Komisija.
+<P>
+V preteklosti je zbiranje statistike o energiji temeljilo na prostovoljnih sporazumih z državami članicami in je na ta način potekalo več let. Vendar se Komisija in Parlament strinjata, da je zbiranje teh statističnih podatkov zdaj in bo v prihodnosti preveč pomembno, da bi bilo odvisno le od prostovoljnih sporazumov. Poleg tega je liberalizacija trgov s plinom in električno energijo povzročila povečanje števila zainteresiranih strani, zato je zbiranje podatkov na tem področju zdaj veliko bolj zapleteno, kar pomeni, da je za to zelo pomembno delo nujna pravna podlaga.
+<P>
+Ta predlog uredbe je rezultat zahteve Evropskega parlamenta, naj Komisija sprejme pravno zavezo, da bo evropskim državljanom redno in ob primernem času zagotavljala podatke o energiji na evropski ravni. Poleg tega je statistika energetike zelo dinamično področje in predlog uredbe povzema željo Evropskega parlamenta, da bi se statistika o energetski učinkovitosti in obnovljivi energiji še naprej razvijala.
+<P>
+Vse to izraža konstruktivno vzdušje, ki je prevladovalo v razpravah med našimi institucijami, da bi oblikovali končno različico predloga uredbe, o katerem bomo danes razpravljali v Parlamentu.
+<P>
+Zato naj to predstavitev zaključim z zahvalo glavnim udeležencem v tem procesu in zlasti poročevalcu Evropskega parlamenta za njihovo pomoč pri pripravi te pravne podlage, ki nam bo v prihodnosti zagotovila pregledne podatke o energiji v Evropski uniji.
+<SPEAKER ID="451" NAME="Claude Turmes">
+poročevalec. - (FR) Gospa predsednica, energija se je ponovno uvrstila na politični dnevni red. Gospod komisar, ko ste začeli s svojim delom v Bruslju, je bila cena sodčka nafte 25 USD. Danes je dosegla 105 USD, zato mislim, da je bolj kot kdaj koli prej nujno, da sprejmemo evropsko energetsko politiko, da bi lahko obvladali energetske izzive v zvezi s podnebnimi spremembami, pomanjkanjem nafte, našo geopolitično odvisnostjo, ki povzroča takšno stanje, ter gospodarsko ranljivostjo zaradi spremenljivosti cen nafte ali plina.
+<P>
+Vendar za oblikovanje ustrezne evropske energetske politike potrebujemo ustrezno zbirko podatkov. Mislim, da bomo danes dejansko glasovali o oblikovanju ustrezne zbirke podatkov, ker bo statistika obvezna, kar je zelo pomembno. Mislim, da je Parlament dejansko dosegel napredek, ker se bo statistika, ki je bila do zdaj večinoma zelo podrobna statistika o fosilni energiji, tj. premogu, nafti in plinu, prilagodila 21. stoletju in energetika v 21. stoletju bo usmerjena k obnovljivim virom energije.
+<P>
+Od leta 2020 bo obnovljiva energija z 20-odstotnim deležem vodilni energetski vir v Evropi. Zato je treba statistiko prilagoditi, kar bomo storili v skladu s povpraševanjem po energiji. Precej presenetljivo je, kako slabi so nacionalni in s tem evropski statistični podatki, zlasti v zvezi z zgradbami, porabo gospodinjskih in pisarniških naprav in prometom.
+<P>
+Mislim, da smo dosegli nekaj zelo pomembnega, in sicer preglednost v zvezi z jedrsko verigo. Nova uredba bo Evropo prisilila k večji specifičnosti tudi v zvezi z začetno stopnjo jedrske verižne reakcije, kar bi odpravilo precej nesmiseln položaj. Bili smo v položaju, ko smo uvažali. Evropa uvozi 98 % urana, v statističnih podatkih v evropskem statističnem letopisu pa je bila jedrska energija prikazana kot domači vir energije, ker statistika ni bila prilagojena. Zato je bil nujen napredek v zvezi s tem.
+<P>
+Uspeh je tudi dejstvo, da se bo statistika objavila pet mesecev prej. Bitka je bila težka, zlasti s Svetom, vendar smo zmagali. Gre za skupno korist, saj bodo države članice, zlasti Nemčija, ki jo je bilo najtežje prepričati, morale več vlagati v statistiko. Zato se želim tukaj zahvaliti vsem statistikom v Evropi, ki so v zadnjih desetih letih z zelo omejenimi sredstvi morali pripravljati statistične podatke in jih še vedno pripravljajo. Danes jim bomo zagotovili boljši položaj, ker bodo finančni ministri zdaj morali resneje upoštevati statistiko energetike.
+<P>
+Ta zmaga Parlamenta je skupna zmaga. Zahvaljujem se gospe Trautmann, gospe Hall in gospe Korhola za opravljeno delo. Zahvaljujem se tudi osebju Parlamenta, gospe Cordero iz portugalskega predsedstva, ki nam je dejansko pomagala pri doseganju sporazuma, ter na koncu uradnikom Eurostata, ki so morali včasih vsako popoldne prenašati moja vprašanja in odgovarjati nanje, zato se zahvaljujem tudi njim.
+<SPEAKER ID="452" NAME="Eija-Riitta Korhola">
+v imenu skupine PPE-DE. - (FI) Gospa predsednica, statistika energetike na ravni Skupnosti je vedno temeljila na neformalnih sporazumih. Vnaprej je bilo jasno, o čem se zbirajo statistični podatki, kako točni morajo biti in kdaj morajo biti pripravljeni za predložitev.
+<P>
+Vendar že nekaj časa ni več tako. Širitev EU, nekatere statistične prakse, ki so ji sledile, in druge reforme, kot so liberalizacija energetskih trgov in alternativne oblike energije, so skupaj povzročili potrebo po čim prejšnji pripravi vseevropskega pravnega okvira za zbiranje statističnih podatkov.
+<P>
+Kompromisni paket, ki je zdaj pred nami, je rezultat intenzivnih pogajanj, med katerimi si je bilo treba nekoliko prizadevati za uglajeno vedenje, ki pa je bilo na koncu doseženo v korist vseh strani. Vprašanje statistike energetike bi lahko bilo le majhen del statistike Parlamenta o delu, vendar je poročevalec gospod Turmes uspešno vodil uradno politično igro ter s suhoparnimi in tehničnimi statističnimi podatki vzbudil globoke strasti. Pozivi k natančnim statističnim podatkom o jedrskem gorivnem ciklu in končni rabi energije in k razširjenim statističnim podatkom o obnovljivi energiji ter zahteve za predložitev letnih poročil Eurostata so primeri politično usmerjenih ukrepov.
+<P>
+Da bi bili primerni za vse namene, pa so morali biti statistični podatki le nevtralno orodje. Kot poročevalec v senci za mojo skupino sem imel vlogo razsodnika. V zvezi s tem so bila stališča Eurostata in Sveta daleč od ciljev našega poročevalca.
+<P>
+Vsem vpletenim stranem se zahvaljujem za njihovo razumno prizadevanje za kompromis, zaradi katerega lahko uredba, na katero smo čakali, zdaj brez težav začne veljati. V uredbi se bodo realno upoštevale tudi reforme, za katere si je prizadeval gospod Turmes. Soglasni smo bili tudi glede vprašanja, kaj naj zajema uredba in kaj naj se prepusti drugim zakonodajnim področjem. Odličen primer tega je šota; v tem smislu zdaj ne sprejemamo odločitve, ali naj se jo razvrsti kot fosilno ali obnovljivo gorivo, ker se vsako leto obnavlja. Ta izziv prepustimo naslednji razpravi o direktivi o prihodnjih obnovljivih oblikah energije, ko se bomo zagotovo ponovno srečali.
+<SPEAKER ID="453" NAME="Catherine Trautmann">
+v imenu skupine PSE. - (FR) Gospa predsednica, gospa komisarka, gospe in gospodje, ker Evropa postopno oblikuje instrumente za omejevanje podnebnih sprememb, povezanih z emisijami toplogrednih plinov, in se evropski državljani srečujejo z vsemi posledicami povečanja cen energije, je seveda pomembno, da se končno vzpostavi pravna podlaga za zbiranje in razširjanje statistike energetike. Vendar mislimo, da je prav tako pomembno, da so ti statistični podatki v skladu z izzivi, s katerimi se srečujemo, tj. varčevanjem z energijo in ponovno opredelitvijo naše mešanice energetskih virov, v kateri bo manj fosilnih goriv in veliko več obnovljivih virov energije. Novi element te uredbe je torej bolj usklajena nova opredelitev obsega statističnih podatkov, pri čemer ne gre le niz naključnih dodatkov.
+<P>
+Moj pristop v vlogi poročevalke v senci za skupino socialdemokratov v Evropskem parlamentu bo zagotavljanje, da bodo ti statistični podatki še koristnejši za evropske državljane in tiste, ki jih urejajo. Postanejo lahko bolj zanesljivi za analize in bolj koristni za pomoč pri odločanju.
+<P>
+V zvezi z državljani smo si prizadevali za in tudi dosegli bolj pregledne statistične podatke, ki zagotavljajo informacije o vprašanjih, ki jih najbolj zadevajo, kot so stanovanja in promet ter tudi jedrska energija. Kar zadeva vlade, bodo za tradicionalne energetske vrhove, ki potekajo vsako spomlad, na voljo najsodobnejši statistični podatki. Videli bomo, v kolikšni meri se bodo ti cilji izpolnili. Mislim, da je zdaj rezultat teh sprememb precej omejen, in sicer upravičeno povečujejo delovno obremenitev držav članic ali različnih vključenih partnerjev.
+<P>
+Na tej točki se zahvaljujem našemu poročevalcu gospodu Turmesu in njegovi celotni ekipi za dober čut za doseganje kompromisa.
+<P>
+Na koncu ponovno pozdravljam zelo dragoceno in učinkovito pomoč, ki jo ves čas zagotavlja Eurostat, pri doseganju rezultata, ki je zdaj priznan kot odličen.
+<SPEAKER ID="454" NAME="Fiona Hall">
+v imenu skupine ALDE. - Gospa predsednica, gospodu Turmesu se zahvaljujem za njegovo odlično delo v vlogi poročevalca in njegovo tesno sodelovanje s poslanci.
+<P>
+Statistični podatki o energiji so kot jekleni nosilci, ki podpirajo zgradbo; od zunaj jih ni mogoče videti, vendar bi se brez njih celotna zgradba podrla.
+<P>
+Zdaj si prizadevamo za popolnoma nove načine pridobivanja energije. EU je določila nove cilje v zvezi z energetsko učinkovitostjo, obnovljivimi viri energije in emisijami CO2. Vendar je iz preteklih prizadevanj EU na teh področjih znano, da je določanje ciljev lažje kot njihovo uresničevanje ter da je edini način za ugotovitev, ali te cilje dosegamo ali ne, statistično merjenje ukrepov.
+<P>
+Zdaj potrebujemo statistične podatke, ki se osredotočajo tako na povpraševanje po energiji kot na oskrbo z energijo. Potrebujemo podrobne statistične podatke o obnovljivih virih energije in fosilnih gorivih. Potrebujemo boljše statistične podatke o jedrski energiji, ki se zbirajo in primerjajo na evropski ravni, poleg tega pa mora biti obdelava teh statističnih podatkov veliko hitrejša, da so hitre tudi povratne informacije. Zlasti pomembno je zagotoviti, da so te statistične informacije na voljo dovolj zgodaj pred energetskimi vrhovi v marcu.
+<P>
+Na koncu pozdravljam dejstvo, da šota še vedno zanesljivo ostaja v kategoriji fosilnih goriv. V Združenem kraljestvu se šotna zemljišča obravnavajo kot dragocen življenjski prostor, ki ga je treba zaščititi. Šota se obnavlja tako počasi, da bi bilo precej neustrezno, če bi jo obravnavali kot obnovljiv vir energije.
+<SPEAKER ID="455" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Gospa predsednica, podnebne spremembe, varnost oskrbe z energijo, povečanje cen, dogodki, kot so izpadi električne energije v nekaterih delih Evrope, in opozorilo ukrajinskega Gazproma so dejavniki, ki so povečali ozaveščenost evropskih državljanov in oblikovalcev politike v zvezi z zapletenostjo našega stanja na področju energije, ki zahteva razpoložljivost točnih, pravočasnih in popolnih statističnih podatkov. V zvezi s tem pozdravljam predlog Komisije in delo poročevalca gospoda Turmesa. Ob tej priložnosti mu iskreno čestitam tudi, ker je bil imenovan za poročevalca o direktivi o obnovljivih virih energije.
+<P>
+Raba energije povzroča 80 % vseh emisij toplogrednih plinov v EU. Razpoložljivost pravočasnih in zanesljivih osnovnih podatkov o stanju na področju energije v EU je nujna za uresničevanje ciljev, ki smo jih sprejeli v okviru kjotskega protokola in načrta za obdobje po letu 2012. Kako naj sprejmemo zanesljiv dogovor o preglednih ciljih v zvezi z zmanjšanjem rabe energije iz fosilnih goriv na mednarodni ravni in povečanjem rabe obnovljivih virov energije, če takšnih osnovnih podatkov ni na voljo? To ni mogoče. Zdaj je zbiranje statističnih podatkov o energiji počasno, neučinkovito in pogosto nepopolno ali celo nenatančno. Kot je ustrezno opozoril poročevalec, se podatki Eurostata o energiji objavljajo s precejšnjimi zamudami. Ali lahko poročevalec potrdi, da bo ta uredba povzročila bolj pravočasno razpoložljivost ključne statistike energetike ter da je statistični model, ki ga uporabljamo v EU, primerljiv s tistim, ki se uporablja na primer v ZDA in drugih globalnih vodilnih silah, da bi lahko podobno primerjali s podobnim?
+<P>
+Na koncu se strinjam s poročevalcem, da mora nova uredba zagotoviti zaščito pred zlorabo podatkov. Točni, preverljivi in nepristranski statistični podatki Eurostata so ključni za veliko sedanjih in prihodnjih podnebnih in energetskih politik, kot so sistem EU za trgovanje z emisijami, skupna prizadevanja in predlogi za obnovljive vire energije.
+<SPEAKER ID="456" NAME="Teresa Riera Madurell" AFFILIATION="PSE">
+(ES) Gospa predsednica, gospa komisarka, gospe in gospodje, če želimo v imenu Evropske unije oblikovati skladno energetsko politiko in enotno stališče na mednarodnem energetskem področju, so nujni popolni in zanesljivi statistični podatki, ki nam omogočajo enostavne primerjave. Bistveno je tudi dobro sodelovanje z državami članicami in med njimi. Zato mislimo, da treba v besedilo Komisije vključiti navedbo, da je njihovo sodelovanje obvezno.
+<P>
+Pomembno je tudi, kot je navedla gospa Trautmann, da novi predlog podjetij ali drugih vpletenih strani ne bi obremenil z dodatnim delom. Zato pozdravljamo dejstvo, da cilj predloga ni spreminjanje statističnih nalog, ki se izvajajo, ampak vzpostavitev skupnega pravnega okvira, ki zagotavlja enotnost metodologije in s tem omogoča primerjavo podatkov.
+<P>
+Tudi razumevanje zapletenosti stanja na področju energije in izvajanje natančnega količinskega spremljanja napredka pri uresničevanju naših ciljev zahtevata točne, pravočasne in popolne statistične podatke.
+<P>
+Zato se strinjamo s poročevalcem, da je na področjih, kot je energetska učinkovitost, treba izboljšati sedanjo statistiko. V zvezi z našo energetsko politiko in politiko boja proti podnebnim spremembam je učinkovitost zdaj prednostna naloga. Sedanja statistika ne zagotavlja podatkov, ki so potrebni za izračun koeficientov, ki na tem področju niso nujni.
+<P>
+Tudi razvoj jedrskega sektorja in obnovljiva energija povzročata znatne težave, ki jih je treba rešiti. To je le nekaj primerov pomanjkljivosti v našem sedanjem sistemu, ki jih zelo dobro obravnava poročilo gospoda Turmesa, skupaj z zanimivimi predlogi za odpravljanje teh težav, zato mu čestitam za odlično opravljeno delo.
+<SPEAKER ID="457" NAME="Jerzy Buzek" AFFILIATION="PPE-DE">
+(PL) Gospa predsednica, poročevalcu čestitam za to odlično poročilo. Prav tako čestitam gospodu komisarju za pobudo, ki jo je sprejela Komisija.
+<P>
+To poročilo podpiram, ker govori o skupni energetski politiki ter zlasti o skupni zunanji politiki na področju energetike. Vendar obstaja še en razlog, ki je zame dejansko še pomembnejši; državam članicam prepuščamo izbiro v zvezi s primarnimi viri energije (mešanica energetskih virov), hkrati pa omejujemo emisije CO2 in vzpostavljamo skupni energetski trg.
+<P>
+Če želimo primerjati stroške in v prihodnosti ugotoviti, katere rešitve z ničelnimi emisijami so najboljše in katere rešitve so najbolj varčne, moramo imeti podlago za primerjavo. Skupni trg in konkurenca na tem trgu ter zlasti uspešne naložbe potrebujejo dobre in primerljive statistične podatke. Zlasti zasebni vlagatelji potrebujejo takšne podatke, če želimo na energetskem trgu izvajati učinkovito politiko. Zagotoviti moramo tudi možnost primerjave podatkov iz posameznih držav članic v zvezi s posebnimi cenami in stroški, kar s sedanjimi statističnimi podatki ni mogoče, zlasti zaradi pomanjkanja podatkov o obnovljivih virih energije.
+<P>
+Zadnje vprašanje je, kdo bo lahko uporabljal te podatke in kako? V zvezi s tem ni jasnega odgovora in o tem se bo odločalo v praksi. Zelo pomembno je, da pozornost namenimo stopnji razpoložljivosti takšnih podatkov v prihodnosti in se vprašamo, kako bomo zaščitili tiste podatke, ki se ne smejo javno objaviti.
+<SPEAKER ID="458" NAME="Silvia-Adriana Ţicău" AFFILIATION="PSE">
+(RO) Poročevalcu čestitam za njegovo delo.
+<P>
+Energija in podnebne spremembe so prednostna naloga Evropske unije. Zato je statistika energetike, ki Uniji omogoča ocenjevanje tega sektorja in sprejemanje potrebnih ukrepov, zelo pomembna.
+<P>
+Eurostat je 26. februarja 2008 objavil vrsto statističnih kazalnikov za energijo, promet in okolje. V primeru energije so to kazalniki energetske odvisnosti, energetske intenzivnosti, virov energije, končne rabe energije, obnovljive energije, energetske učinkovitosti in cen energije. Kar zadeva podnebne spremembe, lahko najdemo informacije o emisijah toplogrednih plinov.
+<P>
+Obveznost držav članic bo zagotavljanje potrebnih podatkov za oblikovanje kazalnikov, ki jih zahteva predlagana uredba. Za zbiranje in obdelavo podatkov bodo potrebna znatna sredstva.
+<P>
+Predlog spremembe 14 zadeva tudi prihranek časa zaradi uporabe informacijske tehnologije pri zbiranju in obdelavi podatkov. Predlog spremembe 5 izpostavlja potrebo po varnosti oskrbe z najpomembnejšimi gorivi in razpoložljivosti natančnih in pravočasno predloženih podatkov na evropski ravni, da se lahko v primeru pomanjkanja ponudbe načrtujejo in usklajujejo rešitve na ravni Evropske unije. To je v skladu s solidarnostno klavzulo iz lizbonske pogodbe za primere pomanjkanja ponudbe. Evropski državljani potrebujejo takšne pravilne in natančne statistične podatke.
+<SPEAKER ID="459" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Gospa predsednica, gospe in gospodje, to poročilo je za vse nas zelo pomembno, ker njegove podrobnosti seveda pomenijo podlago za politično odločanje. Zato je zelo pomembno, da se v prihodnosti razlikuje med finančnimi transakcijami in transakcijami proizvodov. Vsi vemo, kako različni sektorji vplivajo na cene energije. Vendar ima pomembno vlogo tudi razlika med proizvodnjo, trgovino in potrošnjo. Začeti moramo zlasti z inteligentnim merjenjem, ne le pri potrošnikih, ampak tudi z različnimi razpoložljivimi merilnimi točkami.
+<P>
+Zelo pomembna je tudi izbira metode za obravnavanje različnih stroškov za statistiko. Zelo si želimo odpraviti birokracijo in doseči večjo učinkovitost statistike. Zato bo izbira metode v smislu prihodnje uporabe zelo pomembna, tj. naključno vzorčenje, popolnoma avtomatizirana analiza, koncept "ravno ob pravem času" (angl. just in time) in neuporaba dekodiranja, ki bo primerljiva po EU in po svetu. Za različne agencije je pomembna tudi sorazmernost. Zagotoviti moramo, da je varnost oskrbe pregledno splošno merilo, da se razlikuje med stroški in cenami ter da je celotni sistem trajnosten.
+<SPEAKER ID="460" NAME="Claude Turmes">
+poročevalec. - Gospa predsednica, imam le nekaj pripomb. Kar zadeva šoto - žal gospa Korhola ni več prisotna - je iz naše opredelitve jasno, da se uvršča k fosilni energiji. Prevzeli smo opredelitev Medvladnega foruma o podnebnih spremembah, ki zelo jasno določa, da šota ni obnovljiv vir energije. Zato morajo v tem smislu nekateri finski politiki in lobisti nehati sanjariti, prebrati direktivo in upoštevati dejansko besedilo.
+<P>
+Zamisel o tedenskih meritvah zalog nafte je zadeva, za katero obžalujem, da je nisem mogel izpeljati. Cene nafte v Evropi določa tedenski bilten ameriškega ministrstva za energijo. Ker Evropa nima neodvisnih statističnih podatkov o nafti, naše cene dejansko določa pomanjkanje na ameriškem trgu, zato ne moremo dokazati, da so razmere na evropskem trgu pogosto veliko manj težavne kot na ameriškem. Gospod komisar, ker tega nismo mogli doseči tukaj, bi morda Komisija lahko med pogajanji z Mednarodno agencijo za energijo v zvezi s tem izpostavila to vprašanje, da bi se vsaj preučilo, kaj bi lahko Evropa pridobila z evropsko tedensko statistiko v zvezi z nafto. Nekateri strokovnjaki pravijo, da bi lahko le s tem ukrepom znižali cene nafte.
+<P>
+Začeti moramo s prizadevanji, ker je usklajenost Komisije pomembna. Komisija je v GD TREN vzpostavila observatorij za energetski trg, zato je pomembno tesno sodelovanje Eurostata in tega novega observatorija. Na koncu želim uradnikom Eurostata in uradnikom v državah članicah veliko energije in poguma, ker se bodo zdaj morali pogosto srečevati v okviru komitologije in pripravljati prave statistične podatke.
+<P>
+Še enkrat se vam vsem iskreno zahvaljujem za prijazne besede. Morda vam lahko na koncu tega dolgega večera ponudim kozarec šampanjca.
+<SPEAKER ID="461" NAME="Predsednica">
+Ta razprava je končana.
+<P>
+Glasovanje bo potekalo jutri ob 12.00.

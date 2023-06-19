@@ -1,0 +1,126 @@
+<CHAPTER ID="002">
+Keskisuuria yrityksiä koskevat tietyt julkistamisvaatimukset sekä konsolidoitujen tilinpäätösten laatimista koskeva velvoite - Keskisuurten yritysten kirjanpitovelvollisuus (keskustelu) 
+<SPEAKER ID="006" NAME="Puhemies">
+(PL) Esityslistalla on seuraavana keskustelu
+<P>
+Ieke van der Burgin oikeudellisten asioiden valiokunnan puolesta laatimasta mietinnöstä, joka koskee ehdotusta Euroopan parlamentin ja neuvoston direktiiviksi neuvoston direktiivien 78/660/ETY ja 83/349/ETY muuttamisesta keskisuuria yrityksiä koskevien tiettyjen julkistamisvaatimusten sekä konsolidoitujen tilinpäätösten laatimista koskevan velvoitteen osalta - C6-0173/2008 -, sekä
+<P>
+komission julkilausuma keskisuurten yritysten kirjanpitovelvollisuudesta.
+<SPEAKER ID="007" NAME="Ieke van den Burg">
+esittelijä. - (NL) Arvoisa puhemies, pahoittelen viivettä. Nämä ovat pk-yrityksille vaikeita aikoja. Kriisi ei ole iskenyt pelkästään pankkeihin ja pörssiyhtiöihin, vaan se vaikuttaa koko talouteen ja sen seurauksena myös pk-yrityksistä katoaa työpaikkoja. EU:n kannattaisi siksi antaa tälle alalle uutta pontta.
+<P>
+Viime kesänä esitellyt pienyrityksiä koskevaan säädökseen liittyvät toimenpiteet ovat keskeisiä juuri tältä osin. Teen kovasti töitä useiden näihin toimenpiteisiin liittyvien ehdotusten parissa, jotka koskevat muun muassa julkisen eurooppaosakeyhtiön sääntöjä, mikroluottojen käyttöalueen laajentamista sekä paikallismarkkinoilla yksityishenkilöitä palvelevien palveluntuottajien arvonlisäveroasteen madaltamista koskevan mahdollisuuden konkretisoimista.
+<P>
+Hallinnollinen taakka, josta suurin osa on kansallisten hallitusten ja hajautetun hallinnon aiheuttamaa, on pienyrityksille hyvin suuri huolenaihe. Olemme kuitenkin alkaneet ennakoivasti siistiä ja keventää tätä rasitetta, sikäli kuin EU:n lainsäädännöllä pystytään vaikuttamaan asiaan. Sama koskee itse asiassa myös tätä asiakirjaa. Tiedottamisvelvollisuuksia - ja kumpaakin asiasta annettua direktiiviä, jotka ovat 25 ja 30 vuotta vanhoja ja joita on muutettu moneen kertaan - siistitään ja yksinkertaistetaan parhaillaan niin sanotussa nopeutetussa menettelyssä.
+<P>
+Nämä toimenpiteet ovat kuitenkin vain pieni askel kohti taakan keventämistä. Meidän on tehtävä paljon enemmän. Olemme jo tuoneet selvästi esiin kärsimättömyytemme asian suhteen Euroopan parlamentin oikeudellisten asioiden valiokunnassa. Toimitimme siksi yhdessä tämän lainsäädäntöasiakirjan kanssa päätöslauselman, jossa valiokuntaa vaadittiin tarkastelemaan nopeutetussa menettelyssä perusteellisemmin pk-yrityksiä koskevaa lainsäädäntöä. Sattumalta valiokunta työskenteli jo asian parissa. Sen tarkoituksena oli lisätä pk-yrityksiä koskevien EU:n sääntöjen yhdenmukaisuutta.
+<P>
+Keskustellessamme aikaisemmin tästä aiheesta ja jäsen Radwanin mietinnöstä talous- ja raha-asioiden valiokunnassa sekä oikeudellisten asioiden valiokunnassa totesimme nimenomaisesti, ettei Kansainvälistä tilinpäätösstandardilautakuntaa (IASB), joka osallistui pk-yritysten tilinpäätöstietojen antamista koskevien kansainvälisten kirjanpitosääntöjen (IFRS) laatimiseen, pitäisi pitää tienä eteenpäin, vaan että EU:ssa pitäisi lisätä yhdenmukaisuutta olemassa olevan lainsäädännön nojalla.
+<P>
+Tämän keskustelun aikana erityisesti mietinnön varjoesittelijänä toiminut jäsen Lehne esitti, että jäsenvaltioille pitäisi jo antaa mahdollisuus jättää tässä vaiheessa mikroyritykset eli erittäin pienet yritykset tämän EU:n lainsäädännön soveltamisalan ulkopuolelle. Tämä on mielestäni hätätoimenpide, joka - siitäkin huolimatta, että Stoiberin ryhmä on esittänyt sitä - ei pohjimmiltaan johda pitkällä aikavälillä yksinkertaistamiseen, sillä ei-pakollisena toimenpiteenä se synnyttää jäsenvaltioiden välille suuria eroavaisuuksia.
+<P>
+Siksi perimmäisenä tavoitteena ja vaihtoehtona pitäisi olla kauaskantoinen yhdenmukaistaminen, jotta samanlainen, hyvin yksinkertainen järjestelmä hyödyttäisi myös yrityksiä, joita ei voida pitää mikroyrityksinä. Haluan itse muistuttaa teille tämän yksinkertaisen järjestelmän osalta XBRL:n (eXtensible Business Reporting Language) tarjoamista mahdollisuuksista. Tämä järjestelmä tarjoaa monille eri elimille mahdollisuuden syöttää tietoja varsin helposti ja monille eri elimille mahdollisuuden hyödyntää näitä tietoja. Tämän seurauksena yritysten olisi paljon helpompaa ja yksinkertaisempaa toimittaa tällaisia tietoja, ja näitä tietoja voitaisiin myös käyttää monilla tavoilla.
+<P>
+Lyhyesti sanottuna meidän on käytävä pian kunnollista keskustelua siitä, miksi kirjanpitomaailmassa vastustetaan näiden mikroyritysten vapauttamista vaatimuksista. Valiokunnan pitäisi esittää ensin ehdotuksia, ja sen jälkeen meidän pitäisi tarkastella keskisuurten yritysten ja näiden mikroyritysten kannalta parhaita menetelmiä taataksemme avoimuuden ja hyvän kirjanpitojärjestelmän, joka auttaa niitä tekemään tiettyjä asioita sysäämättä niille kuitenkaan valtavaa hallinnollista taakkaa.
+<SPEAKER ID="008" NAME="Jacques Barrot">
+komission varapuheenjohtaja. - (FR) Arvoisa puhemies, hyvä jäsen van den Burg, hyvät parlamentin jäsenet, Euroopan parlamentti ilmaisee tänään mielipiteensä yksinkertaistamisehdotuksesta. Tämä ehdotus on ensimmäinen kolmesta kirjanpitoalaa koskevasta säädösehdotuksesta. Sen tarkoituksena on yksinkertaistaa taloudellista ympäristöä yhteisössä, erityisesti pk-yritysten kannalta.
+<P>
+Ensimmäinen ehdotus on hyvä lähtökohta. Tämä on lainsäätäjille, asianosaisille ja komissiolle hyvä tilaisuus vaihtaa mielipiteitä ja keskustella kahteen tulevaan ehdotukseen sisällytettävistä näkökohdista.
+<P>
+Kuten Euroopan talouden elvyttämissuunnitelmassa ilmoitettiin muutama viikko sitten, seuraavalla ehdotuksella pyritään vähentämään pienimpiä yrityksiä eli Euroopan yleisintä yritystyyppiä rasittavaa hallinnollista taakkaa.
+<P>
+Komissio antaa vuoden 2009 ensimmäisellä neljänneksellä ehdotuksen, joka sallii jäsenvaltioiden vapauttaa nämä mikroyritykset vuotuisen tilinpäätöksen laatimisvelvoitteesta. Haluan korostaa, että komission ehdotuksella onnistutaan vähentämään hallinnollista taakkaa vain, jos jäsenvaltiot haluavat käyttää tätä uutta mahdollisuutta, koska kyseessä on todellakin mahdollisuus.
+<P>
+Ulkopuoliset konsultit ovat arvioineet, että tämä toimenpide voisi tuottaa vuodessa jopa 5,8 miljardin euron säästöt. Näitä säästöjä saadaan kuitenkin aikaan vain, jos kaikki jäsenvaltiot ottavat tämän poikkeuksen käyttöön eivätkä aseta uusia ja tarpeettoman rajoittavia sääntöjä.
+<P>
+Toinen aloite, josta ilmoitin syyskuun lopussa, koskee neljännen ja seitsemännen tilinpäätösdirektiivin tarkistamista ja päivittämistä. Ensimmäiset muodolliset valmistelut näiden direktiivien tarkistamiseksi on jo aloitettu. Julkinen kuuleminen työn suunnasta julkaistaan vuoden 2009 ensimmäisellä neljänneksellä.
+<P>
+Monille teistä lienee ilo kuulla, että Edmund Stoiberin johtaman korkean tason ryhmän esittämät suositukset otetaan mahdollisimman pitkälti huomioon.
+<P>
+Palatakseni tähän ehdotukseen, johon on viime aikoina sovellettu nopeutettua menettelyä, meistä on erittäin mukavaa kuulla, että toimielinten välisen yhteistyön ansiosta tätä aloitetta on voitu käsitellä näin nopeasti.
+<P>
+Kehotan teitä äänestämään tänään tämän menettelyn päättämisen puolesta. Kiitos.
+<SPEAKER ID="009" NAME="Kristian Vigenin">
+talous- ja raha-asioiden valiokunnan lausunnon valmistelija. - (BG) Arvoisa puhemies, arvoisa komission jäsen, arviomme mukaan tähän säädösaloitteeseen liittyvät ehdotukset eivät olleet riittävän kunnianhimoisia. Siksi talous- ja raha-asioiden valiokunta vaatii komissiota ja teitä henkilökohtaisesti ryhtymään aktiivisempiin poliittisiin toimiin.
+<P>
+Se, mitä kerroitte meille, on kuitenkin mielestäni hyvin tärkeä askel, ja odotammekin komissiolta enemmän aktiivisia toimenpiteitä, joita Euroopan parlamentti tietenkin täysin kannattaa, sillä tämä asia on äärimmäisen tärkeä pk-yrityksille, varsinkin nykyisessä talouskriisissä.
+<P>
+Talous- ja raha-asioiden valiokunnan lausunnon valmistelijana haluan todeta, että kannatamme täysin komission aloitetta vähentää pk-yrityksille aiheutuvan byrokratian määrää. Kannatamme tätä tavoitetta ja olemme kannattaneet nopeutettua menettelyä. Kannatamme tänään tätä ehdotusta. Uskomme, että tästä lähtien toimenpiteet, jotka te olette valmiita hyväksymään, saavat myös meiltä täyden tukemme.
+<SPEAKER ID="010" NAME="Jean-Paul Gauzès">
+PPE-DE-ryhmän puolesta. - (FR) Arvoisa puhemies, arvoisa komission varapuheenjohtaja, arvoisa komission jäsen, hyvät parlamentin jäsenet, ryhmämme äänestää tietenkin jäsen van den Burgin mietinnön puolesta, ja kiitän häntä hänen tekemästään työstä, joka on, kuten tiedämme, aina erinomaista.
+<P>
+Haluan kuitenkin kiinnittää huomionne siihen, etteivät pk-yritykset välttämättä kannata tilinpäätösvaatimusten poistamista. Olemme saaneet useita asiaa koskevia kirjeitä, joissa meitä on kehotettu olemaan huolellisia, sillä yksinkertaistaminen on hyväksi, mutta se ei saa kostautua. Kerron tarkemmin, mitä tarkoitan: tilinpäätösvaatimuksia on yksinkertaistettava, ja juuri tähän pyritään päätöslauselmassa, jossa todetaan, että komission on esitettävä meille mahdollisimman pian, tarkemmin sanottuna vuoden 2009 loppuun mennessä, ehdotus pk-yrityksille sopivista tilipuitteista. Tämä ei kuitenkaan tarkoita täyttä vapauttamista.
+<P>
+Miksei? Ensinnäkään siksi, että tilinpäätös tarjoaa johtajille tilaisuuden arvioida ainakin kerran vuodessa yrityksensä tilannetta. Tilinpäätös on myös erittäin hyödyllinen tekijä yritysten välisessä lainanannossa. Myös pankit kysyvät sitä myöntäessään lainoja. Lisäksi tulevat verovelvoitteet. Siksi emme saa pettää pienyritysten johtajia sanomalla heille, että he säästävät paljon aikaa ja rahaa, ellei heidän tarvitse enää tehdä kirjanpitoa. Tämä johtaisi katastrofiin.
+<P>
+Meidän on otettava käyttöön pk-yrityksille sopivat tilipuitteet, ja pk-yritykset on vapautettava liiallisista tai tarpeettomista velvoitteista. Arvoisa komission jäsen, mielestäni paras yksinkertaistamistoimenpide olisi kuitenkin se, että ottaisimme lopullisesti käyttöön säännön, jonka mukaan tietoja saa pyytää kussakin jäsenvaltiossa vain kerran, jotteivät yritykset joutuisi toimittamaan säännöllisesti uudelleen samoja lausuntoja ja samoja lomakkeita antaakseen viranomaisille tietoja, jotka niillä jo on.
+<P>
+Voimme auttaa yritysjohtajia juuri tällä tavoin eli varmistamalla, että heillä on sopivat kirjanpitosäännöt yritystensä tilanteen ymmärtämiseksi ja että heidät vapautetaan täysin tarpeettomista hallinnollisista tehtävistä.
+<SPEAKER ID="011" NAME="Sharon Bowles">
+ALDE-ryhmän puolesta. - (EN) Arvoisa puhemies, kannatan pk-yritysten tilinpäätöstaakan keventämistä. Pienet yritykset eivät ole suurten yhtiöiden kutistettuja versioita, ja siksi tietyt suurilta yhtiöiltä vaaditut tilinpäätöstiedot eivät ole niiden kohdalla merkityksellisiä. Tietyt vaatimukset kuluttavat puolestaan liikaa resursseja eivätkä vastaa eurooppalaisten pienyritysten valtavan kirjon todellisuutta - eivätkä näin ollen palvele yleistä etua. Tarpeettomasta raportoinnista on enemmän haittaa kuin hyötyä, joten olen iloinen, jos voimme hankkiutua osasta eroon. Jatkakaamme siis hyvää työtä.
+<P>
+Ryhmäni ja muut vastustavat kuitenkin lopullisen mietintötekstin vastaavuustaulukkoja koskevaa osaa. Komissio halusi tehdä vastaavuustaulukoista, jotka koskevat vaatimusten siirtämistä osaksi kansallista lainsäädäntöä, pakollisia. Neuvosto ei hyväksynyt tätä, sillä sen mielestä kyseessä on tarpeeton taakka. Oma vastaukseni tähän on se, että sen ei pitäisi olla sitä. Meidän on löydettävä keino asettaa tiedot EU:n lainsäädännön siirtämisestä osaksi kansallista lainsäädäntöä saataville. Demokratiavaje on valtava. Jäsenvaltiot ovat syyllisiä, mutta EU saa syytökset niskoilleen.
+<P>
+Tässä asiassa esitetty arvostelu muistuttaa jonkin verran Lissabonin sopimukseen kohdistunutta arvostelua, koska asiakirjaa on mahdotonta lukea sellaisenaan. Yleisön pitäisi kuitenkin paheksua asiaa voimakkaammin, sillä juuri tätä monien jäsenvaltioiden hallitukset tekevät päivästä toiseen maansa kansalaisille ja yrityksille siirtäessään EU:n lainsäädäntöä osaksi kansallista lainsäädäntöään. Haluan tuoda aivan selvästi esiin, ettei tämä ole EU:n aiheuttama ongelma. Tämä ongelma johtuu jäsenvaltioista, ja sille on pantava piste.
+<SPEAKER ID="012" NAME="Patrick Louis">
+IND/DEM-ryhmän puolesta. - (FR) Arvoisa puhemies, hyvät parlamentin jäsenet, komissio aikoo vähentää yritysten hallinnollista taakkaa. Tämä aikomus on pohjimmiltaan hyvä. Jatkuva halu kitsastella ja säästää ei kuitenkaan muuta tilannetta olennaisesti. Komissio jatkaa samanaikaisesti liiallista standardointia, lukemattomien päätöksentekotasojen luomista ja järjestelmällisten rajoitteiden asettamista eurooppalaisille yrityksille niiden kokoon katsomatta.
+<P>
+Tällä hetkellä vain kolme valtiota ei katso, että yrityksiä koskevia tietoja - niiden perustamisesta niiden lakkauttamiseen - pitäisi julkaista, ja komissio myöntää itsekin, että osa tiedoista menetetään. Näiden tietojen menettäminen vaikuttaa niihin, jotka tarvitsevat tietoja eniten, eli yksityishenkilöihin ja pk-yrityksiin, ympärillämme oleviin mikroyrityksiin tai ihmisiin, joilla on suorat kytkökset tällaisiin yrityksiin.
+<P>
+Tällä ehdotuksella siirrettävät tiedot eli tiedot, joita kuka tahansa voi saada melko helposti, muutetaan haettaviksi tiedoiksi, jotka ovat pitkällä aikavälillä vain hakutavoitteensa tarkkaan tietävien ammattilaisten saatavissa. Emme voi todellakaan hyväksyä tätä ehdotusta, sillä vastuullisina lainsäätäjinä meidän on katsottava, että taloudellisten tietojen vastaanottajina on pidettävä järjestelmällisesti kaikkia kansalaisia, kuluttajia ja sijoittajia - ilman erityistoimenpiteitä.
+<P>
+Lisäksi tällä ehdotuksella voi olla ja sillä varmastikin myös on haitallisia vaikutuksia alueelliseen lehdistöön, joka on jo vaikeuksissa, koska sen tehtävänä on julkaista oikeudellisia ilmoituksia, jotka voivat tuoda niille 25-50 prosenttia niiden mainostuloista. Näillä sanomalehdillä on hyvin tärkeä taloudellinen ja yhteiskunnallinen tehtävä. Niitä on suojeltava, koska niiden suojelu merkitsee niiden yhteiskunnallisen tehtävän suojelua paikallisyhteisössä. Meidän kannattaisikin kenties yrittää saada säästöjä aikaan muilla aloilla ja keskittyä työssämme muihin asioihin. Meidän mielestämme tämä asia ei ole vielä valmis.
+<SPEAKER ID="013" NAME="Tadeusz Zwiefka" AFFILIATION="PPE-DE">
+(PL) Arvoisa puhemies, yrityspolitiikkamme tavoitteena on luoda suotuisa ympäristö uusien yritysten perustamista ja laajentamista varten. Taloudellisen ympäristön parantaminen edellyttää hallinnollisten ja oikeudellisten menettelyjen yksinkertaistamista sekä rahoitukseen, verotukseen sekä sosiaaliseen ja luonnolliseen ympäristöön liittyvien toimien toteuttamista, sillä kaikki nämä seikat vaikuttavat yritysten toimintaan.
+<P>
+Yhtenäiset säännöt hyödyttäisivät suuresti koko kansainvälistä liike-elämää. Ensinnäkin ylikansalliset tilinpäätösstandardit helpottaisivat eri maissa toimivien yritysten taloudellisen tilanteen arviointia ja vertailemista, ja tämä puolestaan helpottaisi investointeihin liittyvää päätöksentekoa. Toiseksi yleisesti tunnustettuihin ja hyväksyttyihin kirjanpitoperiaatteisin perustuvan tilinpäätöksen ansiosta yritysten mahdollisuudet saada pääomaa paranisivat.
+<P>
+Pk-yritysten on noudatettava usein samaa lainsäädäntöä kuin suurten yhtiöidenkin, vaikka niiden täsmällisiä kirjanpitotarpeita tarkastellaan harvoin. On tärkeää varmistaa, ettei keskustelussa keskitytä ainoastaan yksinkertaistamiseen vaan myös siihen, miten tilinpäätösstandardit vaikuttavat pk-yrityksiin suhteessa suuriin pörssiyhtiöihin. Yksinkertaistamisesta käytävässä keskustelussa keskitytään yleensä kustannuksiin. Keskustelussa tilinpäätösvaatimusten seurauksista puututaan kuitenkin tilinpäätösraportoinnin etuihin ja yksittäisten käyttäjien tarpeisiin.
+<P>
+Pk-yrityksiin sovellettavien yksinkertaistettujen sääntöjen käyttöönotto tuo mukanaan useita etuja. Ensinnäkin yleisten standardien käyttöönotosta on varmastikin vähemmän hyötyä yksityisille pk-yrityksille kuin suurille julkisille yhtiöille. Tämä johtaa standardien täytäntöönpanoon liittyvän kustannus-hyötysuhteen epätasapainoon. Sopivan, tasapainoisen kustannus-hyötysuhteen saavuttaminen edellyttää kustannusten vähentämistä. Toiseksi tilinpäätösraportoinnilla ei ole merkittävää tehtävää pk-yritysten omistajille tiedottamista koskevien vaatimusten täyttämisen kannalta, sillä he saavat tiedot käyttöönsä suoraan. Kolmanneksi pk-yritysten laatimien tilinpäätösten käyttäjillä on vähemmän tietoa tilinpäätösraportoinnista, minkä vuoksi tilinpäätöksiä pitäisi muuttaa niiden käyttäjien osaamista vastaaviksi.
+<SPEAKER ID="014" NAME="Lidia Joanna Geringer de Oedenberg" AFFILIATION="PSE">
+(PL) Arvoisa puhemies, Euroopan parlamentti on tuonut monen vuoden ajan esiin olevansa huolissaan ongelmasta, joka koskee eurooppalaisille yrityksille aiheutuvia tarpeettomia ja suhteettoman suuria hallintokustannuksia. Olemme siksi iloisia uutisesta, jonka mukaan komissio on viimein puuttunut tähän asiaan ja ehdottanut - nopeutettua menettelyä soveltaen - neljänteen ja seitsemänteen yhtiöoikeusdirektiiviin tarkistuksia keskisuurten yritysten julkistamisvaatimuksista sekä konsolidoitujen tilinpäätösten laatimista koskevasta velvoitteesta.
+<P>
+Kannatan komission lähestymistapaa, jonka tavoitteena on yksinkertaistaa eurooppalaisten yritysten toimintaedellytyksiä. Tukeni edellyttää kuitenkin sitä, etteivät nämä muutokset haittaa avoimuutta tai johda siihen, että tietojen käyttäjien tiedonsaantia rajoitetaan. Myös perustamiskulujen julkistamisvelvoitteen poistamista koskeva ehdotus on mielestäni perusteltu. Pienyrityksiä hyödyttävien sekä jäsenvaltioiden enemmistöä jo suuresti hyödyttävien poikkeusten laajentaminen pk-yrityksiin saattaa auttaa vähentämään keskisuurten yritysten tilinpäätösraportoinnista aiheutuvaa taakkaa.
+<P>
+Seitsemänteen yhtiöoikeusdirektiiviin esitetyistä tarkistuksista totean, ettei konsolidoitujen tilinpäätösten laatimista koskevaan velvoitteeseen ole kunnon syytä, koska tässä tapauksessa konsolidoitu tilinpäätös olisi lähes sama kuin yksilöllinen ei-pakollinen tilinpäätös.
+<P>
+Euroopan komission pitäisi tehdä tiiviimmin työtä neljännen ja seitsemännen yhtiöoikeusdirektiivin tarkistamiseksi voidakseen esitellä eurooppalaiset tilipuitteet ennen vuoden 2009 loppua. Yhtenäiset standardit vähentävät pk-yrityksille aiheutuvaa hallinnollista taakkaa ja lisäävät avoimuutta kaikkien asiaankuuluvien toimijoiden näkökulmasta.
+<SPEAKER ID="015" NAME="Jacques Toubon" AFFILIATION="PPE-DE">
+- (FR) Arvoisa puhemies, haluan aivan aluksi kiittää esittelijäämme jäsen van den Burgia, koordinaattoriamme jäsen Lehneä sekä varjoesittelijäämme jäsen Gauzès'ta työstä, jota he ovat tehneet saavuttaakseen tilanteen, joka on mielestäni äärimmäisen tehokas ja järkevä.
+<P>
+Olemme kaikki tietoisia siitä, että meidän on mukautettava sääntöjämme vastaamaan pk-yritysten erityisolosuhteita, ja kannatamme siksi voimakkaasti komission ehdottamaa ja neuvoston tukemaa suunnitelmaa pk-yritysten hyväksi. Lisään kuitenkin, ettemme saa tehdä tätä ikään kuin pitäisimme pk-yrityksiä jonkinlaisina "aliyrityksinä" asettamalla ne eräänlaiseen gettoon, jossa vaatimuksia on yksinkertaistettu niin paljon ja sääntöjä on niin vähän, etteivät ne toimi enää takeina, jotka tarjoavat niille mahdollisuuden - varsinkin nykyisessä kriisissä - saada luottoa, jota ne tarvitsevat toimintaansa ja kasvuaan varten.
+<P>
+Kannatan siksi kollegani jäsen Gauzès'n tavoin jäsen van den Burgin esittämää ja valiokuntamme hyväksymää päätöslauselmaa, jossa komissiota pyydetään antamaan ehdotus, joka sallisi jäsenvaltioiden vapauttaa direktiivin noudattamisesta hyvin pienet yritykset eli yritykset, joiden tase on alle 500 000 euroa ja liikevaihto alle miljoona euroa ja joissa työskentelee alle kymmenen henkeä ja jotka harjoittavat vain paikallista tai alueellista toimintaa yhdessä jäsenvaltiossa.
+<P>
+Tämä tarjoaa siis jäsenvaltioille mahdollisuuden paitsi muuttaa lainsäädäntöään, niin kuin Saksa on tehnyt, myös kohdella samalla pk-yrityksiä samalla tavalla kuin muitakin yrityksiä. Tämä on hyvin tärkeää. Pk-yritykset eivät kehity erillään muusta taloudesta. EU:n onkin ryhdyttävä toimiin varmistaakseen, etteivät ne ole muita heikommassa asemassa.
+<SPEAKER ID="016" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
+(PL) Arvoisa puhemies, Euroopan unionin pk-yritykset työllistävät noin 60 prosenttia kaikista työntekijöistä. Siksi niiden taloudellisella tilanteella on erittäin suuri merkitys. Talouskriisin aikaan on erityisen tärkeää välttää niiden oikeudellisten velvoitteiden monimutkaistamista ja helpottaa niiden toimintaa. Tämä on tilaisuus näille yrityksille ja niiden työntekijöille.
+<P>
+Tilinpäätösraportointia koskevan lainsäädännön yksinkertaistaminen, siten kuin sitä ehdotetaan muutosdirektiivissä, on askel oikeaan suuntaan. Olen kuitenkin samaa mieltä kuin kollegani, joka korosti, että meidän on varmistettava, että paikallislehtien toimittajat saavat jatkossakin tietoja käyttöönsä.
+<SPEAKER ID="017" NAME="Rachida Dati">
+neuvoston puheenjohtaja - (FR) Arvoisa puhemies, hyvät parlamentin jäsenet, pyydän anteeksi myöhästymistäni. Lentomme lähti Pariisista myöhässä. Haluan kiittää teitä tänään käytävästä keskustelusta, vaikken olekaan kuullut kaikkia puheenvuoroja.
+<P>
+Neuvosto ottaa huomioon nyt ja myös jatkossa kaikki huomautukset ja suositukset, joita esitätte, sekä kiinnostuksen, jota osoitatte näitä asioita kohtaan, erityisesti sitoutumisenne yrityksille aiheutuvan taakan vähentämiseen.
+<P>
+Tämä kysymys on tällä hetkellä äärimmäisen arkaluonteinen, mutta meidän on - erityisesti kriisin vuoksi - yksinkertaistettava sääntöjä purkamatta sääntelyä voidaksemme luoda Euroopan unioniin varmemman ympäristön ja turvataksemme pk-yritysten kehityksen.
+<SPEAKER ID="018" NAME="Jacques Barrot">
+komission varapuheenjohtaja. - (FR) Arvoisa puhemies, toivotan ministeri Datin tervetulleeksi. Minäkin haluan kiittää parlamenttia, jäsen van den Burgia, jäsen Lehneä ja jäsen Gauzès'ta heidän tekemästään hyvästä työstä, jonka ansiosta saamme tänään aikaan tuloksia tämän ensimmäisen säädöksen suhteen.
+<P>
+Olen kuunnellut tarkkaan, mitä pienyrityksistä on sanottu. Varsinaisena tarkoituksenahan on mukauttaa pienyrityksiin sovellettavia sääntöjä suunnitellun tarkistuksen yhteydessä. Haluan kuitenkin toistaa, että jäsenvaltiot voivat päättää joko soveltaa näitä sääntöjä tai luoda toisen, paikalliseen tilanteeseen mukautetun vaihtoehdon.
+<P>
+Mielestäni toteamus, jonka mukaan emme saa ajaa pienyrityksiä yksinkertaistamisen varjolla tilanteeseen, jossa ne jäävät talouselämän ulkopuolelle, oli erittäin tärkeä. Halusin tuoda tämän esiin. Uskon, että tämä keskustelu valaisee asioita sisämarkkinoista vastaavalle kollegalleni, komission jäsen McCreevylle, ja että voimme näin jatkaa yrityksiä, erityisesti pienimpiä yrityksiä, kuormittavan hallinnollisen taakan vähentämistä.
+<P>
+Kiitän parlamenttia sen jatkuvasta tuesta, ja toivomme tämän rakentavan yhteistyön jatkuvan koko ensi vuoden ajan.
+<SPEAKER ID="019" NAME="Ieke van den Burg">
+esittelijä. - (NL) Arvoisa puhemies, parlamentin antama viesti on mielestäni voimakas ja selvä. Tilapäisratkaisu, jonka mukaan jäsenvaltiot voivat vapauttaa mikroyritykset lyhyellä aikavälillä EU:n lainsäädännön noudattamisesta, on yhdenlainen muttei pysyvä ratkaisu. Toivon, että tämä viesti menee perille myös komissiossa.
+<P>
+Haluamme ottaa käyttöön myös näihin yrityksiin ja yleisesti pk-yrityksiin sovellettavaa yhtenäistä EU:n lainsäädäntöä, joka tarjoaa niille mahdollisuuden toimia sisämarkkinoilla mutta on samalla myös yksinkertaista, kuten jäsen Gauzès totesi, niin että asiointipisteitä olisi vain yksi ja sääntöjä vain yhdet, kuten XBRL:n (eXtensible Business Reporting Language) tapauksessa. Tämä tarkoittaa, ettei niille sysättäisi valtavaa hallinnollista taakkaa, niin kuin tällä hetkellä. Vaikka jäsenvaltioille annettaisiinkin vapautusmahdollisuus, tämä ei loppujen lopuksi tarkoita sitä, että jäsenvaltiot voisivat asettaa omia sääntöjään, jotka ovat lisäksi kussakin jäsenvaltiossa erilaisia. Tämä ei ratkaise mitään keskipitkällä aikavälillä.
+<P>
+Haluamme antaa keskipitkällä aikavälillä ehdotuksen yksinkertaisesta, yhdenmukaistetusta lainsäädännöstä, jota voidaan soveltaa kaikkialla sisämarkkinoilla ja josta ei koidu pk-yrityksille ja varsinkaan mikroyrityksille valtavaa taakkaa. Kyse olisi yksinkertaisesta järjestelmästä niiden tilinpäätöstietojen antamista varten. Tähän parlamentti pyrkii, ja toivon, että tämä viesti menee perille.
+<SPEAKER ID="020" NAME="Puhemies">
+(PL) Olen vastaanottanut yhden työjärjestyksen 103 artiklan 2 kohdan mukaisesti toimitetun päätöslauselmaluonnoksen.
+<P>
+Keskustelu on päättynyt.
+<P>
+Äänestys toimitetaan tiistaina 18. joulukuuta 2008.

@@ -1,0 +1,4 @@
+<CHAPTER ID="006-07">
+7. Dialog mit den Bürgern im Rahmen des Vertrags von Lissabon (
+<SPEAKER ID="061" NAME="Christopher Beazley" AFFILIATION="PPE-DE">
+Frau Präsidentin! Es scheint, dass wir jetzt relativ viele namentliche Abstimmungen haben werden, was für jemanden wie mich etwas ärgerlich ist, weil die Geräte nicht funktionieren. Könnte ich deshalb für alles "Ja" verzeichnen lassen und einen Techniker herbitten?

@@ -1,0 +1,2 @@
+<CHAPTER ID="010">
+ES tirgū darbojošos lielveikalu iespējama ļaunprātīga sava stāvokļa izmantošana (rakstiska deklarācija): skatīt protokolu

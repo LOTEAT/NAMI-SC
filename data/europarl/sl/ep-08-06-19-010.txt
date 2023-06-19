@@ -1,0 +1,6 @@
+<CHAPTER ID="010">
+Čas glasovanja
+<SPEAKER ID="197" NAME="Predsednik">
+Naslednja točka je čas glasovanja.
+<P>
+(Za rezultate glasovanj in druge informacije v zvezi z njimi: glej zapisnik.)

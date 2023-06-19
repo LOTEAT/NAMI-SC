@@ -1,0 +1,140 @@
+<CHAPTER ID="015">
+Segurança e interoperabilidade do sistema ferroviário comunitário (debate) 
+<SPEAKER ID="480" NAME="Presidente">
+Segue-se na ordem do dia a pergunta oral apresentada pelo deputado Brian Simpson, em nome da Comissão dos Transportes e do Turismo, à Comissão, sobre a segurança e a interoperabilidade do sistema ferroviário comunitário (B7-0227/2009).
+<SPEAKER ID="481" NAME="Brian Simpson" LANGUAGE="EN">
+Senhor Presidente, intervenho em nome da Comissão dos Transportes e do Turismo para apresentar esta pergunta oral, que foi motivada pelos recentes acidentes em Itália e nos Países Baixos, dos quais, lamentavelmente, resultaram vítimas mortais.
+<P>
+No entanto, penso que é correcto salientar que o comboio é ainda um dos meios de transporte mais seguros e que, certamente, é intenção da minha comissão fazer tudo o que estiver ao nosso alcance para garantir que assim se mantenha. Daí a presente pergunta oral.
+<P>
+Nós, no Parlamento Europeu, sempre levámos muito a sério a segurança ferroviária. O que culminou na recente Directiva relativa à Segurança Ferroviária e vem na sequência de uma longa linha de iniciativas e relatórios em matéria de transportes ferroviários levados a cabo pelo Parlamento ao longo de muitos anos.
+<P>
+Contudo, sentimos alguma frustração que advém da incapacidade, ao longo dos anos, das empresas rodoviárias e dos governos nacionais de actuarem em áreas cruciais. Isso é visível quando se analisa legislação fundamental e, em particular, a aplicação dessa legislação no direito internacional, que tem sido, no melhor dos casos, inconsistente e, na pior das hipóteses, absolutamente proteccionista.
+<P>
+O próprio relatório intercalar da Comissão sobre a aplicação da Directiva relativa à Segurança Ferroviária afirma que as normas e regras nacionais obstam a um sistema ferroviário plenamente integrado. O que, então, levanta a questão sobre se essas regras nacionais estão também a comprometer a segurança.
+<P>
+E quanto à interoperabilidade no sector? São os entraves nacionais que impedem igualmente o progresso neste domínio, ou existe relutância por parte da indústria ferroviária em adoptar o conceito de interoperabilidade?
+<P>
+Por que razão o progresso no sistema europeu de gestão de tráfego ferroviário (ERTMS) é tão lento e iremos falhar a tentativa de pôr em funcionamento um sistema de certificação das entidades responsáveis pela manutenção até ao final do próximo ano?
+<P>
+Estas são perguntas para as quais nós, enquanto comissão, procuramos respostas. E, associado a isso, gostaríamos que a Comissão nos informasse sobre quais os entraves e lacunas nacionais que, actualmente, funcionam como travão no processo da interoperabilidade e quais os Estados-Membros que mais impedem esse processo.
+<P>
+Na sequência disso, irá a Comissão utilizar poderes legais à sua disposição para garantir a observância do direito comunitário?
+<P>
+Sei que os problemas, em particular no que diz respeito ao transporte ferroviário de mercadorias, mas não apenas nesse domínio, são da responsabilidade do Conselho. Eu e a minha comissão queremos trabalhar com a Comissão Europeia e a indústria no desenvolvimento de uma rede ferroviária segura, integrada e interoperável.
+<P>
+A minha comissão começa agora a questionar-se sobre se o aspecto da segurança, em particular no que diz respeito aos vagões de frete, está ou não a começar a ser prejudicado pelo insucesso na aplicação da legislação europeia.
+<P>
+Se assim for, então é urgente tomar medidas. Mas é igualmente necessário tomar medidas para a integração e a interoperabilidade para assegurar o pleno desenvolvimento de todo o potencial do transporte ferroviário de passageiros e caso se pretenda, honestamente, que o transporte ferroviário de mercadorias sobreviva.
+<SPEAKER ID="482" NAME="Antonio Tajani" LANGUAGE="IT">
+Senhor Presidente, Senhoras e Senhores Deputados, antes de entrar no debate, gostaria de fazer alguns comentários introdutórios que considero fundamentais.
+<P>
+Só depois de as investigações técnicas levadas a cabo por organismos italianos e neerlandeses independentes terem identificado as causas exactas dos acidentes em Viareggio e nos Países Baixos poderemos chegar a conclusões específicas no que respeita a eventuais melhorias na legislação comunitária em matéria de segurança nos transportes ferroviários.
+<P>
+Por outro lado, como foi salientado pelo senhor deputado Simpson, apesar destes dois acidentes, de que temos de retirar ensinamentos em termos de segurança rodoviária - para, precisamente, mostrarmos o nosso empenho neste domínio, organizámos uma série de eventos em que o senhor deputado Simpson também esteve presente -, quero realçar que, não obstante, na Europa, o transporte ferroviário oferece um nível de segurança particularmente elevado quando comparado com outros meios de transporte.
+<P>
+De facto, o relatório sobre o actual primeiro pacote ferroviário, adoptado pela Comissão em 2006, e as estatísticas mais recentes indicam que a abertura do mercado à concorrência não teve quaisquer consequências negativas sobre o nível geral da segurança ferroviária, o qual, pelo contrário, continua a subir. No entanto, temos de estar vigilantes para garantir que esta subida se mantém e, seguramente, não podemos contentar-nos com os resultados já atingidos. Na realidade, a liberalização significa que o número de operadores nas nossas redes continua a aumentar, razão por que devemos avaliar com frequência a qualidade dos operadores presentes.
+<P>
+Na sequência do acidente de Viareggio, a Comissão e a Agência Ferroviária Europeia organizaram inúmeras reuniões com todas as partes interessadas, tendo sido elaborado um plano de acção a curto e longo prazo, com vista a reduzir, o mais possível, o risco de se repetirem acidentes deste tipo. O plano foi adoptado na conferência sobre segurança ferroviária organizada - conforme referi anteriormente - pela Comissão, em 8 de Setembro de 2009.
+<P>
+Passando agora à pergunta sobre a segurança dos vagões de frete, em particular sobre a manutenção dos seus principais componentes, como, por exemplo, os eixos, a Agência Ferroviária Europeia criou uma task force composta por peritos da indústria e das autoridades nacionais responsáveis pela segurança, que já se reuniu em três ocasiões.
+<P>
+A task force tem um programa de trabalho específico de duas etapas, cujos resultados devem ser publicados em Dezembro de 2009 e Junho de 2010.
+<P>
+A primeira etapa consiste em desenvolver um programa de inspecção urgente, que visa verificar o estado dos vagões em uso, bem como a qualidade dos respectivos eixos. Importa, contudo, que estas medidas não sejam adoptadas isoladamente a nível nacional, mas sim coordenadas a nível europeu, para que os resultados obtidos sejam aceites em todos os Estados-Membros.
+<P>
+A segunda etapa reconduzirá ao problema mais geral da manutenção dos vagões, para determinar se é necessário harmonizar, e em que medida, os vários componentes do sistema de manutenção, em particular as normas técnicas, os procedimentos e medições e os métodos de teste.
+<P>
+O Regulamento para a Utilização Recíproca dos Vagões em Tráfego Internacional, em vigor antes da abertura do mercado até 2006, dava às empresas nacionais a responsabilidade e a liberdade de determinar todos estes aspectos. A ausência de normas harmonizadas não parece ser aceite no novo enquadramento, que é regulado por especificações técnicas em matéria de interoperabilidade dos vagões e pelo novo acordo privado, o contrato uniforme de utilização dos vagões entre os operadores de vagões técnicos e as empresas de transporte ferroviário.
+<P>
+No que diz respeito à certificação da entidade responsável pela manutenção, a Agência Ferroviária Europeia fará tudo o que estiver ao seu alcance para permitir à Comissão cumprir o calendário estipulado na actual Directiva e adoptar o sistema de certificação até final de 2010.
+<P>
+Longe de constituir mais um obstáculo para os operadores do sector ferroviário, o sistema de certificação, que define as condições a que estes operadores têm de obedecer para serem reconhecidos como entidades responsáveis pela manutenção, oferecerá oportunidades que, até hoje, têm estado disponíveis apenas para algumas empresas.
+<P>
+As práticas ou lacunas a nível nacional que impedem a interoperabilidade dizem respeito, principalmente, à transição do antigo regime, regulado por monopólios ferroviários nacionais, para o novo regime, introduzido pelas directivas relativas à interoperabilidade e à segurança ferroviária. Os entraves em questão estão descritos na Comunicação adoptada em Setembro pela Comissão.
+<P>
+Em 2008, visando eliminar estes obstáculos, a Agência Ferroviária começou a trabalhar na aceitação mútua de material circulante. A este respeito, a Agência está a classificar todas as normas nacionais com base numa lista harmonizada de parâmetros técnicos, antes de avançar para a comparação das normas nos diversos Estados-Membros, a fim de determinar o grau de equivalência. O objectivo consiste em eliminar a prática, comum no sector ferroviário, de recorrer a normas nacionais para impedir a aprovação de material circulante já aprovado noutros Estados.
+<P>
+Além disso, a lentidão dos Estados-Membros e da indústria em se adaptarem ao novo quadro jurídico representa mais uma barreira à interoperabilidade. Na verdade, essa lentidão está a obstar à criação de um espaço ferroviário europeu assente em normas comuns harmonizadas, normas necessárias para o funcionamento optimizado do mercado.
+<P>
+A minha intervenção foi bastante longa, mas as questões eram muitas. Darei início, agora, às conclusões.
+<P>
+Quanto ao Sistema europeu de gestão de tráfego ferroviário (ERTMS), está em funcionamento e com bons resultados em mais de 2 000 quilómetros. É verdade que as especificações originais apresentavam ambiguidades que deram azo a diferentes interpretações, mas essas ambiguidades foram suprimidas em 2007. A Decisão da Comissão, de 23 de Março de 2008, tornou obrigatório o uso desta nova versão, conhecida como "2.3.0d”.
+<P>
+Os Estados-Membros e o sector trabalham actualmente na modernização dos carris ferroviários relevantes, e o problema das aplicações nacionais incompatíveis está, assim, em vias de solução. Todas as aplicações novas tomam por base a norma compatível.
+<P>
+A Comissão, de acordo com os seus compromissos, apoiará financeiramente o sector para que este proceda à modernização de todos os carris e comboios já adaptados a este sistema, de modo a torná-los compatíveis com a nova versão. Para esse fim, no âmbito do quadro do convite à apresentação de propostas de 2009, foram atribuídos 250 milhões de euros ao ERTMS, parte dos quais serão utilizados especificamente na actualização dos programas informáticos relevantes.
+<SPEAKER ID="483" NAME="Georges Bach" LANGUAGE="DE">
+Senhor Presidente, Senhor Comissário, tem razão, o sistema ferroviário é bastante seguro quando comparado com outros meios de transporte. No entanto, a par de muitos aspectos positivos, a liberalização arrastou igualmente consigo alguma insuficiência em matéria de segurança, sob a forma de fragmentação das empresas, separação da infra-estrutura e das operações, externalização de trabalho e manutenção, e locação de materiais e de pessoal.
+<P>
+Em minha opinião, importa assegurar que a emissão dos certificados de segurança e autorizações pelas autoridades nacionais responsáveis por este sector estejam em conformidade com o estipulado pela Agência Ferroviária Europeia (AFE). Existem controlos adequados? Está garantido, por exemplo, que a formação do pessoal, as certificações e as condições de trabalho são correctamente controladas? Qual a situação, nesse aspecto, em relação à introdução de uma certificação comunitária normalizada? Qual a situação relativamente à carta de maquinista europeia? Por outro lado, é necessário duplicar os esforços no que se refere ao Sistema europeu de gestão de tráfego ferroviário (ERTMS).
+<P>
+O recente plano de execução a que fez referência deve ser vinculativo e não pode sofrer atrasos devido a considerações de ordem financeira ou nacional. Os esforços relativos à introdução das especificações técnicas de interoperabilidade (ETI) devem ser contínuos e amplos. Isso representará um enorme avanço, principalmente em termos de normalização de materiais, e elevará o nível de segurança em relação à manutenção dos materiais.
+<P>
+Muitos dos acidentes ferroviários e das situações de quase-acidente mais recentes foram originados por falhas de manutenção. Por razões relacionadas com os custos, a intensidade, em particular, está a ser descurada e os intervalos entre manutenções estão a ser alongados. Qual a situação em relação a um sistema de certificação a nível europeu dos trabalhos de manutenção? Penso que se deve fazer tudo o que for possível para evitar que, individualmente, cada Estado-Membro regresse às suas antigas regras e actue de forma independente e divergente. Os postos fronteiriços entre cada Estado-Membro, em particular, representam um risco em matéria de segurança. Que medidas pensa a Comissão tomar para superar este problema a curto prazo? Gostaria de lhe solicitar que, ao fazer a sua avaliação, se certifique de que não irá esquecer os aspectos sociais - estes devem ser tidos em conta.
+<SPEAKER ID="484" NAME="Bogusław Liberadzki" LANGUAGE="PL">
+Senhor Presidente, em primeiro lugar desejo agradecer ao senhor deputado Simpson só pelo facto de apresentar a sua pergunta e felicitá-lo porque essa pergunta tornou-se o tema do nosso debate. É um debate bastante tardio, a uma hora muito avançada da noite, mas é muito positivo estarmos a tê-lo. Quando o tema da pergunta foi apresentado, vimos as palavras: contexto - o sistema ferroviário europeu. Atrevo-me a sugerir aqui que, por agora, ainda não temos um sistema ferroviário europeu.
+<P>
+Porquê? Cada linha férrea possui as suas próprias normas técnicas. No caso de linhas férreas eléctricas, a corrente ou é contínua ou alternada. Se for alternada, a tensão ou é de 15 kV, ou de 30 kV, ou ainda de 35 kV. Posso referir-vos um facto interessante, que é particularmente adequado por estarmos na presença do senhor Vice-Presidente Tajani. No sistema Norte-Sul, há duas linhas férreas que são semelhantes - a da Polónia e a da Itália. Todas as outras apresentam diferenças entre elas. Assim, Senhor Presidente, vamos dar uma oportunidade às linhas férreas. Vamos criar um sistema ferroviário genuinamente europeu, mesmo que o tenhamos de fazer a despeito das poderosas transportadoras ferroviárias nacionais.
+<SPEAKER ID="485" NAME="Michael Cramer" LANGUAGE="DE">
+Senhor Presidente, Senhoras e Senhores Deputados, a segurança é um bem sagrado. Carece de prioridade absoluta. O que se passou recentemente em Berlim, onde o sistema de comboios rápidos suburbanos se desmoronou em resultado da prioridade dada aos lucros, deve manter-se um caso absolutamente excepcional. Em Berlim, nos últimos seis meses, tivemos de suportar o que bombas e granadas não conseguiram fazer durante a guerra. Esta situação não pode continuar.
+<P>
+Frequentemente, também, sempre que alguém causa entraves à concorrência, recorre-se a argumentos de segurança. Nesses casos, esses argumentos são criados para impedir, por completo, a abertura de redes, algo que, na verdade, regulámos através de legislação e tornámos obrigatório para todos os Estados-Membros, desde 1 de Janeiro de 2007. A vossa intervenção é, pois, necessária - não podemos permitir que se abusem dos argumentos de segurança.
+<P>
+Evidentemente, a segurança custa dinheiro, mas o investimento na infra-estrutura e na segurança é necessário. O dinheiro está disponível. Gostaria de lembrar a todos que, por exemplo, a isenção de imposto do querosene custa aos contribuintes europeus, anualmente, 14 mil milhões de euros. Se gastassem este dinheiro em segurança, teríamos um mercado ferroviário europeu e segurança garantida, o que está na ordem do dia.
+<SPEAKER ID="486" NAME="Jacky Hénin" LANGUAGE="FR">
+Senhor Presidente, Senhoras e Senhores Deputados, para preparar a concorrência ferroviária, as directivas europeias impuseram a separação entre a rede ferroviária e as actividades de transporte, impedindo, assim, qualquer tipo de normalização. Resultado: em França, os comboios circulam agora mais devagar na rede secundária do que no início do século XX. Por falta de recursos para a manter, um terço da rede irá ficar em ruínas. Todos os sindicatos do sector ferroviário, todos os peritos afirmam que esta situação conduzirá, fatalmente, a acidentes terríveis.
+<P>
+Mas isso não é suficiente. É sempre necessário aumentar os lucros. Assim, existe disposição para sacrificar a segurança ferroviária ao proibir as normas nacionais de segurança que oferecem maior protecção em contrapartida de uma futura regulamentação europeia minimalista. Mais uma vez sacrificamos o interesse geral europeu para benefício da avidez capitalista.
+<P>
+O modelo adequado para a Europa é o Thalys, porque se caracteriza pela cooperação ferroviária europeia que cumpre a legislação que protege os trabalhadores e as normas de segurança máxima. É totalmente o oposto da concorrência selvagem imposta aos utilizadores dos transportes ferroviários pelas directivas europeias. Com efeito, para a segurança dos utilizadores dos caminhos-de-ferro bem como dos residentes, face ao transporte de mercadorias perigosas, é necessário abolir todos os pacotes ferroviários.
+<SPEAKER ID="487" NAME="Jörg Leichtfried" AFFILIATION="S&amp;D">
+(DE) Senhor Presidente, isto não é, na verdade, surpreendente. Uma coisa podemos afirmar: é que, havendo lugar à liberalização e à privatização, aumenta o número de acidentes e de incidentes. A razão é óbvia, pois onde é necessário gerar lucros elevados, há trabalhadores com baixos salários; é maior a insuficiência em matéria de formação e de obtenção de qualificações, pois isso tem custos; há menos controlos, pois os controlos custam dinheiro; e, no final de contas - temo-lo visto em todo o lado - quando tudo corre mal, os custos de reparação dos problemas provocados pela liberalização e privatização são incríveis para o público em geral.
+<P>
+Neste caso, percorremos o caminho errado. O senhor deputado Bach acredita que seria suficiente analisar esta questão meticulosamente e introduzir mecanismos de segurança aperfeiçoados. Escolhemos o caminho errado e, agora, temos de retomar um caminho que ofereça qualidade, segurança e eficiência. Esse caminho não é, certamente, o de continuar com a liberalização. É o caminho oposto.
+<SPEAKER ID="488" NAME="Guido Milana" AFFILIATION="S&amp;D">
+(IT) Senhor Presidente, Senhor Comissário, Senhoras e Senhores Deputados, gostaria de fazer apenas duas observações.
+<P>
+Penso que não devemos discutir sobre o aumento da privatização, da concorrência, ou seja o que for. É evidente que a lógica de nos precipitarmos para reduzir custos constitui um factor negativo em termos de normas de segurança. Quando se tenta reduzir custos devido ao lançamento de um mecanismo de concorrência importante, é inevitável que as normas de segurança percam peso.
+<P>
+A verdadeira questão é que creio que a Comissão deve dar início a uma fase de maior rigor, assente num papel mais estratégico da Agência Ferroviária Europeia. Deve assumir um papel de maior coordenação, controlo e supervisão das agências de segurança nacionais e deve fazê-lo de forma muito mais expedita, devido, precisamente, às diferenças entre os vários países, a que os meus colegas já aludiram, relativamente às incoerências entre a legislação europeia e a nacional. Em minha opinião, existem enormes atrasos em relação a este aspecto.
+<P>
+O modelo deve ser o da Agência Europeia para a Segurança da Aviação e deve ter os mesmos poderes vinculativos em relação a medidas e à aplicação. Se há algo a pedir hoje à Comissão, é que se mova mais rapidamente nesta direcção.
+<P>
+O senhor Comissário disse que temos de esperar pelos resultados das investigações aos acidentes. Pelo contrário, creio que esses resultados não acrescentarão nada à situação actual.
+<P>
+Outro factor que, provavelmente, não está no âmbito da sua esfera de acção, Senhor Comissário, e que talvez também não faça parte do tema em debate esta noite, é que, com demasiada frequência, a legislação em conjunto não garante que a pessoa vítima de perda ou dano na sequência de um acidente ferroviário - uma vez que a taxa de sinistralidade ferroviária ainda é baixa - receba o reconhecimento imediato de quem tem essa responsabilidade.
+<SPEAKER ID="489" NAME="Seán Kelly" AFFILIATION="PPE">
+(EN) Senhor Presidente, foi afirmado que, em 2009, se gastaram 200 milhões de euros neste domínio. Pergunto-me: do ponto de vista da segurança e da interoperabilidade, pondera a Comissão subvencionar apenas os sistemas ferroviários eléctricos e retirar progressivamente, durante um certo período de tempo, as locomotivas grandes consumidoras de gasóleo - estou ciente de que, no meu país, todos os sistemas ferroviários funcionam desta forma - e fixar uma data-limite para que toda a União Europeia tenha sistemas ferroviários seguros, interligados e respeitadores do ambiente?
+<SPEAKER ID="490" NAME="Silvia-Adriana Ţicău" AFFILIATION="S&amp;D">
+(RO) Senhor Presidente, Senhor Comissário, a segurança dos transportes ferroviários depende do investimento feito na manutenção e modernização da infra-estrutura ferroviária e do material circulante. A ausência deste investimento aumentará o número de acidentes ferroviários.
+<P>
+O investimento no sistema ferroviário deve tornar-se uma prioridade, tanto a nível comunitário, através do orçamento RTE-T e dos Fundos Estruturais, como a nível dos Estados-Membros, ao abrigo de dotações nacionais e do co-financiamento de projectos prioritários no domínio do transporte transeuropeu. A interoperabilidade dos sistemas ferroviários é fundamental. O salário adequado do pessoal e a formação e exame dos trabalhadores do sector ferroviário é igualmente fundamental.
+<P>
+No último ano também ocorreram acidentes ferroviários na Roménia. O sector dos transportes ferroviários da região oriental da União Europeia carece de um grande investimento para poder manter e modernizar a infra-estrutura existente, bem como desenvolvê-la. O alargamento dos projectos prioritários 6 e 17 a Bucareste e Constanţa, a construção de um corredor ferroviário para o transporte de mercadorias neste itinerário, bem como a aplicação do ERTMS, devem ser projectos prioritários das RTE-T.
+<SPEAKER ID="491" NAME="Antonio Tajani" LANGUAGE="IT">
+Senhor Presidente, Senhoras e Senhores Deputados, creio que muitas respostas às solicitações feitas durante este debate foram dadas na conferência sobre segurança ferroviária, realizada em 8 de Setembro, que convoquei imediatamente após os acidentes em Viareggio e nos Países Baixos, para, precisamente, dar um sinal do forte empenho da Comissão e das instituições europeias em tomar medidas neste sector bastante delicado da segurança ferroviária.
+<P>
+Como é do vosso conhecimento, foram convidados para a conferência representantes de todas as instituições, do Parlamento e do Conselho. Foram analisadas todas as questões centrais do debate desta noite, a começar pela questão das agências e da Agência Ferroviária Europeia.
+<P>
+Partilho a opinião do senhor deputado Milana, porque durante a conferência propus a atribuição de maiores poderes à Agência Ferroviária Europeia. Estou, pois, inteiramente de acordo. Contudo, temos de mudar as regras do jogo e comprometo-me, enquanto for Comissário para os Transportes, a tomar medidas no sentido de viabilizar o funcionamento da Agência Ferroviária Europeia nos mesmos termos que a Agência Europeia da Segurança Marítima ou a Agência Europeia para a Segurança da Aviação.
+<P>
+Outro assunto que abordámos nessa jornada de trabalho, que contou também com a participação de familiares das vítimas, diz respeito à responsabilidade dos operadores na cadeia de transportes e, dessa forma, à questão dos direitos dos que estão envolvidos em acidentes ferroviários. Quanto aos direitos dos passageiros no sector ferroviário, existe legislação que entrará em vigor a 3 de Dezembro deste ano.
+<P>
+Por outro lado, a Comissão está a analisar aspectos relativos às vítimas que não são passageiros, em particular as que não são passageiros, mas são vítimas dos acidentes, como no caso do acidente de Viareggio, em resultado de uma explosão ou do descarrilamento de um comboio, e está a avaliar as respostas que se podem dar a este problema.
+<P>
+Assim, a Comissão tomou fortes medidas no sector da segurança ferroviária, que considera prioritário, incluindo em relação à certificação do pessoal. A UE já adoptou a Directiva 2007/59/CE relativa à certificação dos maquinistas de locomotivas e comboios no sistema ferroviário da Comunidade, e já existe a carta de maquinista europeia, que entrará em vigor em 3 de Dezembro deste ano.
+<P>
+No que respeita aos aspectos sociais que foram referidos, existe o Comité do Diálogo Social, que, em 2005, debateu um acordo sobre o horário de trabalho do tráfego internacional.
+<P>
+Quanto à manutenção e aos sistemas de transportes ferroviários mais respeitadores do ambiente, penso que é necessário modernizar o equipamento e ter uma manutenção eficaz. Como confirmei na minha resposta à pergunta, considero que o sistema ERTMS constitui um projecto importante do ponto de vista tecnológico, no qual a Comissão Europeia investiu com o objectivo de tornar mais seguros os transportes do sector ferroviário. Creio que este é um aspecto importante, que importa não esquecer.
+<SPEAKER ID="492" NAME="Presidente">
+Está encerrado o debate.
+<P>
+Declarações escritas (Artigo 149.º)
+<SPEAKER ID="493" NAME="Ádám Kósa  " LANGUAGE="HU">
+No âmbito do assunto em discussão, penso que é importante compreender que, no que se refere à entidade responsável pela manutenção, o proprietário ou operador deve ser especificado em todos os casos, para que possamos reduzir o risco de acidente. Além disso, devemos considerar, como é prática bem conhecida em França, levantar igualmente a questão da responsabilidade criminal das pessoas colectivas, para que a segurança ocupe um lugar de destaque na função de gestão das referidas entidades.
+<P>
+Quando se tomam decisões estratégicas ao nível do gestor ou proprietário da empresa, os lucros nunca devem constituir uma prioridade em detrimento da segurança e da vida das pessoas. Se ocorrer um grande acidente devido a práticas de gestão negligentes e arriscadas por parte da empresa encarregue da manutenção, a pessoa colectiva pode, justificadamente, ser considerada responsável. De contrário, apenas o gestor de topo abandona prematuramente a empresa, recebendo elevadas compensações e indemnizações, bem conhecidas hoje em dia, e, no final, só o maquinista do comboio vai para a prisão.
+<P>
+O destino da empresa tem de estar igualmente ligado ao do gestor e aos dos trabalhadores, para que se possa garantir um serviço seguro e com a qualidade adequada, em particular no sector de serviços dos Estados. Gostaria de fazer a seguinte pergunta à Comissão: que tipo de proposta pretende apresentar para poder fazer cumprir não só a responsabilidade (compensação) civil, mas também a responsabilidade criminal no que respeita a empresas negligentes de prestação de serviços?

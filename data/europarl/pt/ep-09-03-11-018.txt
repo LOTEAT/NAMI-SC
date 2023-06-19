@@ -1,0 +1,114 @@
+<CHAPTER ID="018">
+Realização do Espaço Único de Pagamentos em Euros (SEPA) (debate) 
+<SPEAKER ID="479" NAME="Presidente">
+Segue-se a pergunta oral à Comissão sobre a realização do Espaço Único de Pagamentos em Euros (SEPA), apresentada por Pervenche Berès, em nome da Comissão dos Assuntos Económicos e Monetários.
+<SPEAKER ID="480" NAME="Pervenche Berès">
+autora. - (FR) Senhor Presidente, vou falar em nome da Comissão dos Assuntos Económicos e Monetários. Senhora Comissária, este Parlamento Europeu, sob a autoridade do nosso relator Jean-Paul Gauzès, empenhou-se seriamente no estabelecimento de meios legislativos para a implementação do projecto SEPA - Espaço Único de Pagamentos em Euros (Single Euro Payments Area).
+<P>
+Quando definimos o dispositivo legislativo de acompanhamento - a directiva relativa aos serviços de pagamento -, colocámo-nos um certo número de questões. Actualmente, apercebemo-nos de que essas questões eram, de facto, legítimas.
+<P>
+Neste momento em que este projecto deverá ser lançado, sentimos algumas preocupações pois temos a impressão de que o nível de mobilização que, em minha opinião, não tem nada a ver com os desafios da crise, não se concretizou como devia.
+<P>
+Ora, este projecto, que mobilizou bastante os actores do sector, que mobilizou bastante o legislador, mas que, sobretudo, tem de constituir um instrumento de pagamento moderno e adaptado à realidade daquilo que representa a nossa moeda única, o euro, corre o risco, no fundo, de não obter a massa crítica que deveria possuir para poder dar todos os seus frutos.
+<P>
+Estamos, nomeadamente, preocupados com a eventualidade de o lançamento do instrumento de levantamento automático do projecto SEPA, que constitui, sem dúvida, um dos aspectos mais originais deste projecto, enfrente algumas dificuldades.
+<P>
+Pensamos que, do ponto de vista da responsabilidade da Comissão, se colocam duas questões. A primeira é a de saber como é que a Comissão tenciona promover e apoiar a migração para os instrumentos de pagamento do SEPA. O respectivo calendário já foi fixado e apercebemo-nos claramente de que não tem em linha de conta todos os elementos da realidade. A segunda é a de saber se a Comissão pensa que, até 2010, será atingida uma migração de uma massa crítica de pagamentos para os instrumentos SEPA e, caso contrário, o que é que deverá ser feito para que isso aconteça.
+<P>
+Quando aprovámos o dispositivo legislativo, não aprovámos qualquer data limite clara e vinculativa para a migração para os instrumentos SEPA. Pensamos que é tempo de o fazer, sem qualquer dúvida. Compreendemos perfeitamente que existam questões ainda em aberto sobre a compatibilidade dos sistemas nacionais com o sistema SEPA, sobre o que significa a migração definitiva, mas pensamos que é da responsabilidade da Comissão acompanhar a indústria na resposta às interrogações que continuam a ser as suas.
+<P>
+E há a questão das comissões interbancárias que, manifestamente, foi ignorada ou negligenciada quando, para muitos actores, é uma condição central para o êxito do projecto SEPA. Deste ponto de vista, temos por vezes a impressão de que, entre os diferentes responsáveis, seja o sector profissional bancário, seja a DG Mercado Interno ou a DG Concorrência, a bola está a ser chutada de uns para os outros.
+<P>
+Talvez seja da competência do legislador interpelar esses actores e chamá-los a um certo sentido da responsabilidade. Pensamos que, nesta fase, não podemos pôr em causa um dispositivo com a sua própria coerência sem acompanhar os actores do mercado na sua definição de um sistema alternativo. Eis a dificuldade que temos, exactamente, neste dossiê sobre as comissões interbancárias.
+<P>
+A DG Concorrência, num certo número de casos, referiu que considerava que este dispositivo era contrário às regras da concorrência, mas afirma depois que compete à indústria encontrar a resposta alternativa. Ora, as respostas alternativas existentes à escala dos Estados-Membros não foram, pelo seu lado, testadas pela DG Concorrência. Assim, nada indica que a DG Concorrência poderia apoiá-los, e nada indica também que algumas das soluções sejam soluções adequadas aos problemas que enfrentamos.
+<P>
+A título de exemplo, imaginar que o financiamento de um sistema interbancário possa basear-se na penalidade do dispositivo, ou seja, nas faltas que seriam cometidas, ou seja, na prática, muitas vezes sobre os mais vulneráveis, não me parece razoável nem justo socialmente.
+<P>
+Assim, interpelo a Comissão sobre dois pontos fundamentais: definir uma data limite para a migração e ajudar à definição de um sistema alternativo ou de um sistema aceitável do ponto de vista das regras do Tratado em matéria interbancária.
+<SPEAKER ID="481" NAME="Androulla Vassiliou">
+Membro da Comissão. - (EN) Senhor Presidente, em primeiro lugar, permitam-me que transmite o pesar do senhor Comissário McCreevy por não poder estar presente.
+<P>
+Bem, esta é de facto uma pergunta longa, mas creio que tanto a pergunta como a proposta de resolução sobre a implementação do SEPA identifica claramente as principais questões que precisamos de resolver para fazer do SEPA um sucesso.
+<P>
+Com a primeira pergunta pretende-se saber como tenciona a Comissão promover e acelerar a migração para os instrumentos SEPA.
+<P>
+O SEPA é sobretudo um projecto orientado para o mercado, mas dado os substanciais benefícios para a economia em geral, a Comissão procurou incentivar a migração para os instrumentos SEPA, actuando, por exemplo, como um catalisador para elevar o perfil político do SEPA através do relatório de progresso sobre o SEPA e encorajando uma migração antecipada por parte das autoridades públicas e ainda esforçando-se por ser um dos primeiros a adoptar o SEPA. Por fim, tal como anunciado na sua comunicação da semana passada "Impulsionar a retoma europeia”, apresentando propostas para assegurar que todos os benefícios decorrentes do SEPA se concretizem.
+<P>
+Com a segunda pergunta pretende-se saber se será possível alcançar até ao final de 2010 uma migração para os instrumentos SEPA que permita atingir uma massa crítica de pagamentos. Obviamente que somos a favor de uma migração célere para manter os custos adicionais num nível mínimo. Muito embora as transferências a crédito SEPA (TCS) tenham sido lançadas com êxito, a migração registada foi de menos de 2% dos pagamentos. Além do mais, o instrumento de débito directo SEPA só será lançado no final deste ano. Portanto, o actual ritmo da migração é demasiado lento para chegar a uma migração que atinja uma massa crítica de pagamentos até 2010.
+<P>
+A terceira pergunta prende-se com a necessidade de uma data limite clara e vinculativa para a migração para os instrumentos SEPA. As vantagens de fixar uma data limite são visíveis, e claro que 2012 parece ser razoável. Contudo, para muitos Estados-Membros, esta continua a ser uma questão sensível. Por conseguinte, somos a favor da ideia de desenvolver um processo para examinar com clareza esta questão, reunindo informação sobre o impacto de uma data limite nas várias entidades interessadas e lançando um debate com projecção.
+<P>
+Isto poderá abrir caminho a algum apoio político e, se necessário, a uma possível proposta legislativa, por exemplo, no final do ano.
+<P>
+Com a quarta pergunta pretende-se saber como poderia ser reforçada a segurança jurídica em relação ao instrumento de débito directo SEPA, no que respeita à aplicação de uma comissão interbancária multilateral (CIM) e às autorizações existentes.
+<P>
+Precisamos de uma solução temporária para o problema do modelo empresarial a fim de providenciar clareza jurídica e conseguir lançar com êxito o instrumento de débito directo SEPA. Razão por que a Comissão apoia inteiramente os esforços do Parlamento e do Conselho no sentido de encontrar uma solução temporária no quadro da revisão do Regulamento relativo aos pagamentos transfronteiriços.
+<P>
+A Comissão também apoia a continuação da validade jurídica das autorizações de débito directo existentes no quadro da migração SEPA. Contudo, esta é uma questão de ordem jurídica que cabe resolver às autoridades nacionais, utilizando, por exemplo, a oportunidade dada pela implementação da Directiva Serviços de Pagamento.
+<P>
+Com a quinta pergunta pretende-se saber como tenciona a Comissão abordar a questão da CIM no que se refere aos pagamentos com cartão.
+<P>
+Este trabalho está a avançar sobretudo através da avaliação da Comissão no quadro das regras de concorrência dos dois principais sistemas de cartões internacionais, nomeadamente MasterCard e Visa.
+<P>
+Em 19 de Dezembro de 2007, a Comissão decidiu que as CIM do MasterCard aplicáveis aos pagamentos transfronteiras por cartão realizados por consumidores através de cartões de crédito e de débito Mastercard e Maestro não eram compatíveis com as regras de concorrência. O cartão MasterCard recorre da decisão da Comissão.
+<P>
+Em Março de 2008, a Comissão instaurou um processo para apurar se a CIM do Visa Europe constitui ou não uma infracção ao artigo 81º. As discussões com o Visa também estão a decorrer ainda.
+<P>
+A Comissão procura manter um nível de igualdade para o MasterCard e Visa Europe tal como para outros sistemas de cartões de crédito que possam aparecer de futuro.
+<P>
+A penúltima pergunta inquire se não compete à Comissão propor uma solução concreta para a questão da CIM. Numa economia de mercado cumpre à indústria propor um modelo empresarial adequado. Em relação aos cartões, como já disse, estão em curso discussões com o Mastercard e Visa. Em relação ao débito directo SEPA, a Comissão está na disposição de ajudar a indústria, providenciando urgentemente uma orientação no quadro de um diálogo sustentado com o sector bancário e com base nas contribuições dadas pelos actores relevantes do mercado. Esta orientação deverá ser fornecida até Novembro de 2009, o mais tardar.
+<P>
+Na última pergunta, o que está em questão é saber que medidas específicas tenciona a Comissão propor para que a migração para os instrumentos SEPA não resulte num sistema de pagamentos mais caro.
+<P>
+Na opinião da Comissão isto não deverá acontecer. Em primeiro lugar, o SEPA deverá promover a concorrência e aumentar a eficácia operativa através de economias de escala - ambas exercendo pressão para uma descida nos preços.
+<P>
+Em segundo lugar, o SEPA deverá aumentar a transparência, o que irá limitar subvenções cruzadas e preços encobertos, embora alguns utilizadores possam encarar a transição de preços encobertos elevados para preços baixos mas visíveis como um aumento de preço. Neste caso, uma boa comunicação por parte dos bancos será importante.
+<P>
+Em terceiro lugar, a Comissão está a acompanhar atentamente, mediante estudos que tem lançado, o impacto do SEPA nos clientes.
+<P>
+Por último, aceitamos que há a preocupação de sistemas nacionais eficazes de cartões de débito poderem ser substituídos por alternativas mais dispendiosas. Contudo, existem iniciativas que poderão evoluir para um novo sistema de cartão de débito pan-europeu, além de toda uma protecção garantida pelas actuais competências da UE e autoridades nacionais da concorrência.
+<P>
+Por conseguinte, em conclusão, o SEPA deverá redundar num sistema de pagamentos mais eficaz, sendo que existem salvaguardas suficientes ao abrigo da UE e da política nacional de concorrência.
+<P>
+Assim sendo, congratulo-me com esta Resolução e com o firme apoio do Parlamento ao SEPA
+<SPEAKER ID="482" NAME="Jean-Paul Gauzès">
+em nome do grupo PPE-DE. - (FR) Senhor Presidente, Senhora Comissária, caros colegas, muito acaba de ser dito sobre o seguimento desta directiva sobre os serviços de pagamento, da qual fui relator do Parlamento, e que foi adoptada em primeira leitura em 2007.
+<P>
+Esta directiva tem por efeito, nomeadamente, fornecer aos diferentes actores bancários, agrupados no seio do EPC, os instrumentos jurídicos necessários à aplicação do SEPA. Assim, foi adoptada uma regulamentação europeia relativa aos cartões bancários, às transferências e aos débitos automáticos.
+<P>
+O SEPA é um mercado integrado dos serviços de pagamentos em euros em que não existirá nenhuma diferença entre os pagamentos transfronteiriços e os pagamentos nacionais. Esta situação terá vantagens tanto para o sector bancário, como para os consumidores.
+<P>
+Como a senhora já disse, a Comissão comprometeu-se a zelar por que a migração para os instrumentos SEPA não implique, para os cidadãos da União Europeia, um encarecimento do sistema de pagamento.
+<P>
+A partir da adopção deste relatório, a migração para o SEPA tem progredido muito lentamente, demasiado lentamente. Em 1 de Outubro de 2008, apenas 1,7% das transacções eram realizados no formato de transferência SEPA.
+<P>
+Eis a razão por que aprovamos hoje a resolução do Parlamento Europeu que solicita à Comissão que estabeleça uma data limite para a migração para os produtos SEPA. Essa data não deve ultrapassar o dia 31 de Dezembro de 2012, data a contar da qual todos os pagamentos em euros deverão, em princípio, ser realizados segundo as normas SEPA.
+<P>
+Mas, antes de essa migração se tornar efectiva, há que resolver o problema delicado, a questão delicada das comissões interbancárias multilaterais. Essas comissões não podem ser suprimidas. O serviço de pagamento constitui uma actividade comercial, pelo que a cobertura dos custos e uma margem para os intervenientes são legítimas.
+<P>
+Em contrapartida, há que evitar as opacidades ou as arbitrariedades. Assim, é oportuno a Comissão estabelecer linhas directrizes relativas à aplicação dessas comissões interbancárias.
+<P>
+Para uma maior segurança jurídica, essas linhas directrizes devem ser conhecidas antes do lançamento do sistema SEPA para os levantamentos. Sem essa segurança jurídica, os bancos de muitos países correriam o risco de não lançar o débito directo e poderíamos mesmo assistir a uma paralisia da execução do SEPA.
+<P>
+O Grupo do Partido Popular Europeu (Democratas-Cristãos) e dos Democratas Europeus e o Grupo Socialista no Parlamento Europeu apresentaram, aliás, alterações muito semelhantes nesse sentido para a votação de amanhã. Evidentemente que gostaríamos que fossem tomadas em consideração.
+<SPEAKER ID="483" NAME="Margarita Starkevičiūt" AFFILIATION="ALDE">
+(LT) Neste momento difícil, é muito importante descobrir potenciais fontes de crescimento económico. O desenvolvimento do nosso mercado financeiro europeu é precisamente uma dessas potenciais fontes de crescimento da economia europeia. Aqui está em causa o mercado dos serviços de pagamentos, e é lamentável que as decisões que tomámos estejam a ser executadas de forma bastante lenta. A capacidade de resposta dos bancos no plano técnico é geralmente a justificação mais invocada, visto que se trata de soluções predominantemente técnicas, mas eu gostaria de observar que a modernização técnica dos bancos é do interesse do sector bancário e dos próprios bancos e que, desta forma, eles podem modernizar o seu mercado e os seus sistemas de pagamento e aumentar os seus lucros. Por conseguinte, é muito importante que os Estados-Membros executem com mais determinação o plano de implementação do Espaço Único de Pagamentos em Euros.
+<SPEAKER ID="484" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Senhor Presidente, Senhoras e Senhores Deputados, sabemos que o Espaço Único de Pagamentos em Euros representa um verdadeiro desafio para as pequenas e médias empresas. Ultimamente, têm trabalhado muito intensamente com o sistema de cartões de crédito, e os preços e os custos que resultam destes sistemas diferem grandemente. Creio que o necessário grau de transparência não está aqui presente.
+<P>
+É precisamente durante uma crise que precisamos de um apoio adequado às empresas. Tem de ser possível melhorar a solvência das empresas mediante uma redução dos custos, porque, desse modo, podem obviamente ter de novo acesso ao crédito. Penso que o SEPA seria um bom instrumento neste contexto e que deve ser implementado o mais rapidamente possível, a fim de garantir que não só as pequenas e médias empresas possam trabalhar de forma barata e eficiente, mas que isto também se aplique às operações entre as pequenas e as grandes empresas.
+<SPEAKER ID="485" NAME="Androulla Vassiliou">
+Membro da Comissão. - (EN) Senhor Presidente, gostaria de agradecer à Comissão dos Assuntos Económicos e Monetários e à sua Presidente, a senhora deputada Berès, este debate. A Comissão saúda o apoio do Parlamento ao SEPA, que não se cinge a uma iniciativa de auto-regulação, mas constitui também uma grande iniciativa de política pública que reforça a união económica e monetária bem como a agenda de Lisboa. O Parlamento e a Comissão partilham claramente a mesma visão e o mesmo objectivo relativamente ao SEPA.
+<P>
+Permitam-me, no entanto, que lembre três importantes questões. Em primeiro lugar, como mencionei há pouco, a Comissão tem tido uma posição muito activa no sentido de ajudar a levar por diante o processo de migração para os instrumentos SEPA, em especial exercendo pressão sobre as autoridades públicas para serem os primeiros a adoptá-lo. Continuaremos a envidar, com persistência, esforços, actuando como catalisador do SEPA.
+<P>
+Em segundo lugar, embora partilhemos do interesse do Parlamento relativamente a uma data limite para a para o SEPA, não consideramos que seja a altura certa para fixar a "ferro e fogo” uma data. Temos de pôr em marcha um processo e estamos convencidos de que é necessário muito trabalho de base antes de se poder prever um compromisso desse tipo.
+<P>
+Em terceiro lugar, posso confirmar que a Comissão facultará orientação sobre a compatibilidade da remuneração interbancária multilateral com as regras de concorrência. Sabemos que não falta muito tempo até a entrada em vigor do débito directo SEPA, o que implica portanto que a nossa orientação esteja disponível antes de Novembro de 2009. Contudo, permitam-me que insista num ponto: essa orientação só pode ser dada na condição de o sector nos fornecer primeiro ideias concretas para possíveis modelos empresariais.
+<SPEAKER ID="486" NAME="Presidente">
+Comunico que recebi uma proposta de resolução apresentada em conformidade com o n.º 5 do artigo 108.º do Regimento.
+<P>
+O debate está encerrado.
+<P>
+A votação terá lugar quinta-feira, 12 de Março de 2009.

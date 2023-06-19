@@ -1,0 +1,14 @@
+<CHAPTER ID="001">
+Åbning af mødet
+<P>
+(Mødet åbnet kl. 09.00)
+<SPEAKER ID="005" NAME="Daniel Cohn-Bendit" AFFILIATION="Verts/ALE">
+- (FR) Fru formand! Jeg har et spørgsmål. Efter anmodning fra det franske formandskab blev det tilsyneladende besluttet at kontrollere fotograferingen under præsident Sarkozys tale.
+<P>
+Jeg vil gerne vide, hvem der traf denne beslutning, hvem der anmodede herom, og hvem der har ansvaret for fotografering i Europa-Parlamentet. Er det Europa-Parlamentet eller det franske formandskab? Jeg vil gerne have et svar, inden mødet starter.
+<SPEAKER ID="006" NAME="Formanden">
+- De vil få et svar, inden mødet starter, men hvis De ikke har noget imod det, fortsætter vi med afstemningen.
+<SPEAKER ID="007" NAME="Astrid Lulling" AFFILIATION="PPE-DE">
+- (FR) Fru formand! Som kvæstor i Parlamentet vil jeg gerne gøre opmærksom på, at vejen til Parlamentets indgang er blokeret på den ene side af uropatruljer. De lader ikke officielle biler passere. Hvis nogle medlemmer kommer for sent, fordi de er nødt til at køre en omvej, bør de ikke straffes, hvis de ikke kan deltage i afstemningen.
+<SPEAKER ID="008" NAME="Formanden">
+Der vil naturligvis blive taget hensyn til, at en række medlemmer har vanskeligt ved at komme ind i Parlamentet.

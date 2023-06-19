@@ -1,0 +1,8 @@
+<CHAPTER ID="010">
+Sporočilo predsednika
+<SPEAKER ID="212" NAME="Predsednica">
+Gospe in gospodje, imam pomembno obvestilo v zvezi s popoldanskim glasovanjem. Iz tehničnih razlogov rezultati poimenskega glasovanja, ki jih je prikazal in objavil predsedujoči seji, niso v skladu z dejanskim številom, ki ga je sistem zabeležil. Rezultat glasovanja ostaja nespremenjen, saj večina ni spremenila mnenja.
+<P>
+Zato današnje opoldansko glasovanje ni vprašljivo in je odobreno. Rezultati današnje seje, ki bodo objavljeni v prilogi k zapisniku, so dejanski rezultati.
+<P>
+Tehnične službe se trudijo, da bi ugotovile vzrok za to okvaro, za jutrišnje glasovanje pa bodo vse funkcije ponovno nastavljene.

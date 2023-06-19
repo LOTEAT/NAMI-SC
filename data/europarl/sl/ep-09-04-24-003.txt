@@ -1,0 +1,120 @@
+<CHAPTER ID="003">
+Čezmejna plačila v Skupnosti - Dejavnost institucij za izdajo elektronskega denarja (razprava)
+<SPEAKER ID="019" NAME="Predsednica">
+Naslednja točka je skupna razprava o:
+<P>
+poročilu gospe Starkevičiūtv imenu Odbora za ekonomske in monetarne zadeve o predlogu Uredbe Evropskega parlamenta in Sveta o čezmejnih plačilih v Skupnosti - C6-0352/2008 -, in
+<P>
+- poročilo gospoda Purvisa v imenu Odbora za ekonomske in monetarne zadeve o predlogu za direktivo Evropskega parlamenta in Sveta o začetku opravljanja in opravljanju dejavnosti ter nadzoru skrbnega in varnega poslovanja institucij za izdajo elektronskega denarja, spremembah Direktiv 2005/60/ES in 2006/48/ES ter razveljavitvi Direktive 2000/46/ES - C6-0350/2008 -.
+<SPEAKER ID="020" NAME="Margarita Starkevičiūtė">
+poročevalka.. - (LT) Danes, ko gospodarstvo Evropske unije preživlja obdobje recesije, je zelo pomembno spodbujati gospodarsko rast. Eden od virov gospodarske rasti Evropske unije je širitev skupnega trga, ki je še vedno močno razdrobljen, predvsem na področju finančnih storitev. Predlog, ki je pred nami, bi moral pomagati pri reševanju tega problema in vzpostavitvi skupnega evropskega plačilnega območja. V angleščini to imenujemo enotno plačilno območje.
+<P>
+Ta dokument za seboj že ima nekaj zgodovine. Takoj po uvedbi evra, ko so bili v državah evrskega območja opuščeni valutni tečaji, je postalo jasno, da se cene čezmejnih plačil še vedno razlikujejo od cen lokalnih plačil. Iz tega razloga je bila sprejeta Uredba (ES) št. 2560 Evropskega parlamenta in Sveta o čezmejnih plačilih v evrih, ki je začela veljati konec leta 2001. Določila je enake stroške za ustrezna lokalna, nacionalna plačila in čezmejna plačila ter utrdila to načelo. Cilj tega je bil znižati cene za potrošnike in zagotoviti večjo konkurenco na trgu plačilnih storitev.
+<P>
+Izvajanje te uredbe je zmanjšalo pristojbine za plačila; čezmejno nakazilo 100 evrov je denimo nekoč v Evropski uniji stalo povprečno 24 evrov, zdaj pa stane 2,50 evra. Po drugi strani pa je ta dokument razkril določene pomanjkljivosti. Zato je bil sprejet sklep, da se ga revidira.
+<P>
+Dokument, ki ga imamo pred seboj, je izboljšana različica Uredbe št. 2560. Kaj je v dokumentu novega? Prvič, načelo enakosti stroškov za čezmejna in ustrezna nacionalna plačila je bilo razširjeno, da vključuje neposredne bremenitve. To prej ni bilo na razpolago. Ko je bil vzpostavljen sistem SEPA in je bila sprejeta Direktiva o plačilnih storitvah, se je plačilno okolje v Evropi spremenilo; zatorej je pomembno, da bo od novembra 2009 dalje mogoče uporabljati priljubljeno metodo elektronskega plačevanja, neposredne bremenitve, na čezmejni osnovi. Da bi pomagali ustvariti ta skupni model neposrednih bremenitev, uredba navaja, da bo v primeru neobstoja dvostranskega sporazuma med ponudniki plačilnih storitev plačnika in prejemnika nakazila raven plačljive začasne večstranske pristojbine za izmenjavo za neposredno bremenitev določena v znesku 0,08 evrov za prehodno obdobje do leta 2012.
+<P>
+Dokument tudi pojasnjuje, kako izboljšati zagovarjanje pravic potrošnikov in odstraniti ovire za podjetja. Predlagano je, da države članice imenujejo pristojne organe za nadzor izvrševanja te uredbe, ti organi pa bi morali tudi aktivno sodelovati med narodi, da bi bilo manj ovir za podjetja; lahko bi tudi določili smernice o načinu dostopa do postopkov za ugotavljanje skladnosti z načelom.
+<P>
+Nadaljnja novost, ki jo ponuja revizija tega dokumenta, je predlog, da se postopoma ukine obveznosti, ki so določene za banke v nekaterih državah, da bi zagotovili statistične podatke o plačilnih bilancah in določanje drugih postopkov za zagotovitev statističnih podatkov o plačilnih bilancah.
+<P>
+Zelo mi je žal, da v zvezi s to točko ni bilo mogoče doseči sporazuma s Svetom in je zaenkrat še vedno potrebno opredeliti postopke revizije plačilnih bilanc in postopke izvrševanja. Parlament in Komisija sta razglasila, da bo določen strog rok.
+<SPEAKER ID="021" NAME="John Purvis">
+poročevalec. - Gospa predsednica, ta direktiva je odziv na vedno večji pomen elektronskega poslovanja in elektronskega denarja ter potrebo po jasnem zakonodajnem okviru. Njen cilj je olajšati uporabo elektronskega denarja za spletne plačilne račune, predplačniške račune za mobilni telefon, doplačilne potovalne kartice in darilne kupone.
+<P>
+E-denar ni nič drugačen od drugih vrst denarja v smislu, da ohranja denarno vrednost in ponuja priročno sredstvo izmenjave. Toda v nasprotju s plačilnimi instrumenti, ki temeljijo na računih, kot so denimo kreditne in debetne kartice, deluje kot predplačilni instrument imetnika. Uporablja se za kritje plačil - običajno sorazmerno majhnih zneskov - za podjetja, ki ne predstavljajo uporabnika, po čemer se razlikujejo od predplačilnih kartic, namenjenih enemu samemu cilju, kot so telefonske kartice. Da bi lahko uporabljali e-denar, ni potreben bančni račun, zato je e-denar še posebej pomemben za tiste v družbi, ki nimajo ali ne morejo imeti bančnih računov.
+<P>
+Že pred natanko osmimi leti je Benjamin Cohen v svojem članku z naslovom "Elektronski denar: Novi dan ali lažna zora?" zapisal, da nas kmalu čaka obdobje elektronskega denarja. Žal je bilo to predvidevanje tako pretirano optimistično kot tudi preuranjeno - vsaj za Evropo. Elektronski denar še zdaleč ni tako daleč, da bi v Evropo prinesel celotno korist, ki je bila pričakovana, ko je bila leta 2001 sprejeta prva direktiva o e-denarju.
+<P>
+Verjetno je bilo tako zaradi zahteve po visokem začetnem kapitalu in drugih pretirano previdnih omejitvah. Število institucij za izdajo elektronskega denarja se močno razlikuje od ene do druge države članice. V Češki republiki je na primer več kot 40 EMI ali Evropskih monetarnih inštitutov, medtem ko jih je v Franciji in Nemčiji skupaj 12. Pravzaprav sta bila dva nemška EMI zaradi omejevanja celo prisiljena preiti pod pristojnost Združenega kraljestva zaradi velikih razlik v ureditvi, celo pod okriljem te direktive. Avgusta 2007 - pred dvema letoma - je bilo neporabljenega elektronskega denarja samo 1 milijardo evrov, če to primerjamo s 600 milijardami evrov denarja v obtoku.
+<P>
+Tako je očitno, da mora e-denar prehoditi še dolgo pot, da postane resna alternativa gotovini. Vendar pa v znatni meri narašča navkljub omejitvam in ta nova direktiva bi morala zagotoviti delovanje novih, inovativnih in varnih elektronskih denarnih storitev, da bi ponudile možnosti dostopa na trg za nove akterje in podprle resnično in učinkovito konkurenco med udeleženci na trgu. Novi in manjši operaterji bodo imeli priložnost vstopiti na trg, saj bo potrebni znesek začetnega kapitala zmanjšan z 1 milijona evrov na 350 000 evrov. Odboru za ekonomske in monetarne zadeve bi bil zagotovo ljubši manjši znesek.
+<P>
+Ponudniki lahko razširijo prodajne možnosti, kjer so izvedljiva elektronska plačila, da lahko na primer stranka, ki svojo vozovnico za podzemno železnico plača z elektronskim denarjem, kupi v kiosku na postaji poleg tega še kavo, časopis ali šopek rož, kakor je že urejeno - in to zelo uspešno - denimo v Hong Kongu.
+<P>
+Pohiteli smo z zakonodajnim postopkom za sporazum ob prvem branju, da bi zagotovili izvrševanje tega ukrepa še pred evropskimi volitvami. Najsrčnejša hvala Ivu in Melanie iz osebja Ekonomskega odbora, poročevalcema v senci iz vrst socialistov in liberalcev gospodu Pittelli in gospe Raeva, službam Komisije in češkemu predsedstvu, še posebej Tomášu Trnki in njegovi ekipi, za zelo pozitivno sodelovanje. Nihče od nas ni dosegel vsega, kar bi si želel, vendar verjamem, da smo naredili velik korak naprej in z velikim veseljem bi pozdravil parlamentarno podporo temu projektu.
+<SPEAKER ID="022" NAME="Antonio Tajani">
+podpredsednik Komisije. - (IT) Gospa predsednica, gospe in gospodje, najprej bi rad povedal, da Komisija ceni hitrost, s katero je Parlament obravnaval ti dve vprašanji, ki sta tako pomembni, in ob tem bi se rad zahvalil tako poročevalcem kot tudi gospe Berès, predsednici Odbora za ekonomske in monetarne zadeve, da so odločilno prispevali k hitrosti dela.
+<P>
+Samo še nekaj mesecev imamo na voljo pred iztekom zaključnega roka za prenos direktive o plačilnih storitvah s strani držav članic. Ta dva ukrepa poleg opaznih prizadevanj plačilne panoge, da razvije produkte SEPA, pomenita odločilni in pravočasni korak k uresničevanju enotnega plačilnega trga. Ti ukrepi bodo skupaj z direktivo uresničili pravno podlago, ki je nepogrešljiva pri zagotavljanju jasnosti, gotovosti in stabilnosti trga. Pogajanja, ki so bila opravljena v nedavnih tednih, so omogočila dosego zelo hitrega sporazuma na področju teh dveh vprašanj.
+<P>
+Kar zadeva revidirano uredbo o čezmejnih plačilih, z veseljem razglašam, da Komisija podpira predlagano spremembo, ki je bila uvedena kot posledica kompromisa. Komisijo še posebej veseli, da so v njen prvotni predlog vključeni členi, ki urejajo vprašanje večstranske medbančne pristojbine za nakazila z neposredno obremenitvijo. Na trgu so bile te določbe potrebne in menimo, da so odločilnega pomena za to, da lahko evropske banke pravočasno uvedejo sistem SEPA za neposredne obremenitve.
+<P>
+Ti predpisi bodo dali plačilni panogi na voljo tri leta, da predloži dolgoročni tržni model za avtomatske obremenitve, ki sledi pravilom konkurence. V duhu kompromisa je Komisija pripravljena brezpogojno odpravo teh obveznosti zamenjati s klavzulo o pregledu, kakor sta predlagala Parlament in Svet.
+<P>
+Kar zadeva revidirano direktivo o elektronskem denarju, gre za posebno ambiciozni zakonodajni akt, ki bo ponudil dobrodošlo drugo možnost vzpostavitvi trga z elektronskim denarjem, ki bo resnično uporabna. Cilj direktive je trgu zagotoviti jasen in uravnotežen pravni in bonitetni okvir, pri tem pa odpraviti nepotrebne, nesorazmerne ali pretirane ovire za vstop na trg in povečati privlačnost dejavnosti izdajanja elektronskega denarja.
+<P>
+Nova direktiva bi morala spodbujati resnično in učinkovito konkurenco med vsemi udeleženci na trgu, obenem pa zagotoviti enake pogoje za vse ponudnike plačilnih storitev in visoko raven zaščite potrošnika. Doseženi kompromis vzpostavlja brezhibno ravnotežje, saj v celoti zaščiti naše prvotne cilje, obenem pa ponuja ustrezen odziv na upravičene skrbi, ki so bile izražene med postopkom sprejetja. Zatorej v celoti podpiramo ta predlog.
+<SPEAKER ID="023" NAME="Aloyzas Sakalas">
+pripravljalec mnenja Odbora za pravne zadeve. - Gospa predsednica, Odbor za pravne zadeve podpira predlog za uredbo Evropskega parlamenta in Sveta o čezmejnih plačilih v Skupnosti.
+<P>
+Cilji pobude Komisije so naslednji: prvič, zamenjati obstoječo uredbo z namenom, da bi jo prilagodili razvoju trga; drugič, zagotoviti napredek pri zaščiti pravic potrošnikov in zagotoviti ustrezen pravni okvir za razvoj sodobnega in učinkovitega plačilnega sistema znotraj EU; in tretjič, vzpostaviti notranji trg za plačilne storitve v evrih.
+<P>
+Odbor za pravne zadeve je bil imenovan za predložitev mnenje vodilnemu Odboru za ekonomske in monetarne zadeve. V mnenju je bilo predlagano, da lahko države članice imenujejo obstoječe institucije, da delujejo kot pristojni organi in izkoristijo ali razširijo obstoječe postopke, ki zadevajo čezmejne plačilne storitve. Pomembno je uporabiti in izboljšati že obstoječe ukrepe in vzpostaviti organe, da bi se učinkovito spoprijeli s pritožbami in spori, povezanimi s tem predlogom.
+<P>
+Pomembno je poudariti, da morajo biti načela sorazmernosti, subsidiarnosti in predvsem razširjeno načelo enakosti stroškov za čezmejna plačila skladna s členom 95(1) Pogodbe ES. Čezmejna plačila v evrih zahtevajo pristop, ki velja za celotno Skupnost, ker morajo biti uporabljeni predpisi in načela enaki v vseh državah članicah, da bi lahko zagotovili pravno gotovost in enakost pogojev za vse udeležence na evropskem plačilnem trgu.
+<SPEAKER ID="024" NAME="José Manuel García-Margallo y Marfil">
+v imenu skupine PPE-DE. - (ES) Gospa predsednica, pripombe imam samo v zvezi z uredbo o čezmejnih plačilih in s poročilom, ki ga je pripravila gospa Starkevičiūtė.
+<P>
+Uredba, kakor je sama zelo dobro pojasnila, je odziv na potrebe, ki so bile ugotovljene kot posledica uvedbe evra, in določa sorazmerno jasno načelo: stroški morajo biti enaki za nacionalna plačila in za čezmejna plačila. Na notranjem trgu to velja kot pravilo zdrave pameti, ki pa se ga pred to uredbo še zdaleč nismo držali.
+<P>
+Uredba je tako postala izhodišče za enotno območje plačil v evrih, na katerega se je prav tako sklicevala poročevalka, zato imam še nekaj dodatnih pripomb.
+<P>
+Sčasoma je ta uredba zastarela in jo je bilo potrebno revidirati, da bi jo prilagodili spremembam na finančnih trgih, pa tudi direktivi o plačilnih storitvah.
+<P>
+Komisija si je pri tem pregledu zastavila tri cilje: prvič, da bi v obseg uredbe vključila čezmejne neposredne bremenitve; drugič, da bi uvedla postopke za zunajsodno obravnavanje problemov, ki bi utegnili izhajati iz uporabe uredbe; in tretjič, da bi omilila obveznosti, povezane s statističnim poročanjem o plačilni bilanci.
+<P>
+Evropski parlament se je na splošno strinjal s tem pristopom, vendar je uvedel tri znatne spremembe: pojasnila k pravnim opredelitvam, ki so določene z uredbo, opozorilo ali opomnik državam članicam, da se morajo učinkoviteje uskladiti z uredbo, kakor so se v preteklosti; in tretjič, poziv k večjemu sodelovanju med državami članicami.
+<P>
+Moja naloga je bilo vprašanje statističnih obveznosti, povezanih s plačilno bilanco, kar je bilo rešeno s sporazumom med ločenimi institucijami. Zato lahko rečem, da sem v celoti zadovoljen z doseženim rezultatom.
+<SPEAKER ID="025" NAME="Pervenche Berès">
+v imenu skupine PSE. - (FR) Gospa predsednica, rada bi spregovorila o poročilu gospoda Purvisa o elektronskem denarju.
+<P>
+V prvi vrsti menim, da če upoštevamo razloge, zaradi katerih je elektronski denar tukaj manj razvit kakor v Hong Kongu, je to nedvomno zato, ker so se evropski državljani navadili veliko bolj zlahka uporabljati bančne kartice.
+<P>
+Ta Parlament je bil pri pripravi te zakonodaje zaskrbljen zaradi dveh stvari: prvič, v času, ko se vsepovsod razpravlja o vprašanju nadzora, ne želimo deregulirati nadzora institucij za izdajo elektronskega denarja samo zaradi njihovega lobiranja. Zato je Evropski parlament predvsem vztrajal, da morajo biti te institucije, ki izdajajo elektronski denar in upravljajo z elektronskim denarjem, predmet ustreznega nadzora, in menim, da smo na tem področju dobili številna zagotovila. To pozdravljam.
+<P>
+Prav tako smo želeli tudi upoštevati interese državljanov in tistih, ki uporabljajo elektronski denar, še posebej, kadar želijo ukiniti svoje pogodbe, da jim institucije, ki upravljajo z elektronskim denarjem, pri tem ne bi postavljale omejitev in zaračunavale pristojbin, ki bi se nam zdele pretirane.
+<P>
+V tem duhu smo podprli ta predlog, v upanju, da bo našim državljanom olajšal življenje s pomočjo uporabe elektronskega denarja, vendar pa se to ne bi odražalo v pretiravanju, predvsem v smislu nadzornih mehanizmov.
+<SPEAKER ID="026" NAME="Mariela Veličkova Baeva">
+v imenu skupine ALDE. - (BG) Predlog uredbe Evropskega parlamenta in Sveta o čezmejnih plačilih v Skupnosti, katerega cilj je zamenjati obstoječo uredbo, ki se trenutno uporablja, je povezan z vzpostavitvijo integriranega evropskega plačilnega trga. Prav tako je cilj predloga tudi povečanje zaščite interesov in pravic potrošnikov in olajšanje obremenitve glede na statistike poročanja.
+<P>
+Člen 5 o poročanju o plačilni bilanci in člen 12, ki se nanaša na klavzulo o reviziji, sta predmet kompromisa, h kateremu stremi naša poročevalka Margarita Starkevičiūtin ki ga podpira Bolgarija. Kompromis ponuja priložnost za pravočasno, primerno oceno.
+<P>
+Trenutna svetovna finančna kriza se osredotoča na potrebo po zadevnih statističnih podatkih. Bolgarija podpira ukinitev obveznosti poročanja na podlagi poravnav plačil, ki veljajo za ponudnike plačilnih storitev v zvezi s statističnimi podatki o plačilih, ki ne presegajo praga 50 000 EUR.
+<P>
+Bolgarija podpira črtanje člena 5(2), saj so bili pridržki izraženi v kontekstu potencialne izgube informacij in poslabšanja kakovosti statistik plačilne bilance, kakor tudi v zvezi s potrebo po tehnološkem obdobju za izvedbo preusmeritve na neposredni sistem poročanja.
+<SPEAKER ID="027" NAME="Antonio Tajani">
+podpredsednik Komisije. - (IT) Gospa predsednica, gospe in gospodje, vnovič bi rad izrazil svoje odobravanje načina, na katerega je Parlament uredil ti dve vprašanji. To pomeni, da bo nova uredba o čezmejnih plačilih začela veljati, kakor je bilo načrtovano, 1. novembra letos, trg z e-denarjem pa bo tako imel drugo priložnost, da zaživi.
+<P>
+Vzporedno z direktivo o plačilnih storitvah bosta ta dva dela evropske zakonodaje omogočila ustvariti sodoben, celovit pravni okvir za plačilni trg Skupnosti in utrla pot, da bo evropska plačilna panoga zmožna v celoti razviti projekt enotnega območja plačil v evrih. Ta projekt bo evropskim potrošnikom in podjetjem ponudil v celoti integriran plačilni trg, ki je učinkovit s stroškovnega vidika in je najvišje kakovosti.
+<P>
+Komisija se torej zahvaljuje - in to mi daje še posebno zadovoljstvo - Evropskemu parlamentu za ta najbolj nedavni znak njegove zavezanosti SEPA.
+<SPEAKER ID="028" NAME="Nils Lundgren">
+v imenu skupine IND/DEM. - (SV) Gospa predsednica, elektronski denar, ki ga je mogoče uporabljati čezmejno, pomeni znaten napredek. Pomembno je, da EU izboljša notranji trg na ta način, tako da spodbuja njegovo uporabo. Vendar pa bi rad izkoristil priložnost, da vas spomnim, o čem pravzaprav govorimo.
+<P>
+Ko smo uvedli evro v velikem številu evropskih držav, je to temeljilo na analizah, ki so bile opravljene v zvezi z vrednostjo monetarne unije. Vrednost je ta, da zmanjšamo stroške, povezane z denarno menjavo, pa tudi druge stroške transakcij. Zmanjšamo stroške informiranja, ker imamo skupno valuto. Cena, ki jo moramo za to plačati, je, da imamo manj stabilna gospodarstva. Težje nam je ohraniti enake in visoke stopnje zaposlenosti in ohraniti stabilne državne finance. Temu smo pravkar priča, ko se v tem pogledu vse sprevrača v nepredvideno smer v državah, kot so Irska, Španija, Italija in Grčija.
+<P>
+Upoštevajte torej, da bi morale biti žrtve izravnane s koristmi, ki bi jih pridobili z zmanjšanjem stroškov transakcij kot posledico skupne valute, vendar pa se koristi še naprej zmanjšujejo ravno zaradi tega, ker je napredek v zvezi s plačilnim sistemom tako hiter. Kmalu se bomo znašli v položaju, ko bomo ugotovili, da imamo tako učinkovit plačilni sistem, da so stroški postali zanemarljivi. Potem bomo imeli skupno valuto, ki nam v resnici jamči zgolj nestabilnost v našem evropskem gospodarstvu. To sem ponavljal že prej in zdaj lahko vidite, da se res dogaja. Vse skupaj vas pozivam, da razmislite o tem.
+<SPEAKER ID="029" NAME="Margarita Starkevi">
+poročevalka. - (LT) Rada bi povedala, da je besedilo pred nami kompromis, ki je bil dosežen z zapletenimi pogajanji med Svetom, Komisijo in Parlamentom.
+<P>
+Vendar pa je to pozitiven rezultat in rada bi se zahvalila predstavniku Sveta gospodu Trinki in predstavnikom Komisije za njihovo sodelovanje, poleg tega pa se zahvaljujem tudi osebju Odbora za ekonomske in monetarne zadeve, ki je pomagalo pripraviti ta dokument. Odgovoril bo na vprašanja, ki jih je zastavil gospod Lungren, torej, pomagal bo podpreti celotno evrsko območje, saj bodo okrepljeni postopki za evrske transakcije. Kot predstavnico države, ki ni v evrskem območju, me veseli, da je to uredbo mogoče na željo držav članic, ki niso del evrskega območja, uporabiti tudi tam za plačila v nacionalni valuti, kar je v Litvi litas.
+<P>
+Zaenkrat se v naših državah cene za čezmejna plačila in cene za nacionalna plačila v nacionalni valuti še vedno razlikujejo. To je delno posledica dejstva, da ne sodimo med države članice evrskega območja. Menim, da bi bil prvi korak in eden od korakov proti evrskemu območju za nas, države članice, ki niso del evrskega območja, da začnemo uporabljati to načelo za nacionalne valute. Druga pomembna zadeva pa je, da spodbujanje čezmejnih plačil s to uredbo odpira pot posodobitvi evropskega bančnega sektorja, ker imajo banke na voljo triletno prehodno obdobje, da pripravijo poslovni model, ki bi omogočil večjo učinkovitost plačil.
+<P>
+To je zelo pomembno, saj pogosto govorimo o inovacijah, novih pobudah in modernizaciji. Ta dokument ustvarja natanko prave pogoje za vse to.
+<SPEAKER ID="030" NAME="John Purvis">
+poročevalec. - Gospa predsednica, samo da zadostimo vprašanjem bonitete, ki jih je omenila gospa Berès, bi rad poudaril, da smo v tej direktivi in poročilu vztrajali, da e-denarni skladi niso depoziti; na njih ni mogoče utemeljiti kredita E-denarju smo le nekoliko bolj odprli vrata.
+<P>
+Zahteva glede osnovnega kapitala je zmanjšana na 350 000 evrov; Odboru za ekonomske in monetarne zadeve bi bilo ljubše 200 000 evrov. Zahteva za lastna sredstva bo 2 % neporavnanih skladov e-denarja; nam bi bilo sicer ljubše 1,6 %, toda z dovoljenim odstopanjem navzgor ali navzdol lahko bolj liberalne države članice sežejo niže do 1,6 %, bolj konservativne države članice pa lahko sežejo do 2,4 %.
+<P>
+Da imamo v Evropski uniji še vedno možnost tako neenakih pogojev delovanja, ni idealno, še posebej, ker smo vztrajali, da se bo v celoti ohranilo uporabniške sklade e-denarja, poleg tega pa obstajajo še druge uporabnikom prijazne zaščite, na primer s pomočjo odkupa, kot je omenila gospa Berès. Zaradi zahtevane kapitalske ravni je bilo treba določiti tudi raven za odpravo za povsem nacionalne e-denarne operaterje v višini 5 milijonov evrov namesto 2 milijona evrov.
+<P>
+Gledano v celoti je to zelo previden korak naprej. Ni popoln. Kompromisi ponavadi niso. Skoraj zagotovo ga bo potrebno ponovno obnoviti čez tri ali štiri leta, do tedaj pa upam, da bo v poslovanje vstopilo že več operaterjev. Uporabniki in trgovci bodo želeli večjo izbiro. Bolj sumničavi regulatorji, banke, gospa Berès - in celo Evropska centralna banka -, se bodo morali sprijazniti, da je to koristna, uporabniku prijazna storitev, ki ne pomeni nikakršnih tveganj za evropsko gospodarstvo. V Evropi lahko končno izkoristimo vse priložnosti, ki jih ponuja e-denar.
+<SPEAKER ID="031" NAME="Predsednica">
+Skupna razprava je zaključena.
+<P>
+Glasovanje bo potekalo danes.

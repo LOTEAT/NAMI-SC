@@ -1,0 +1,464 @@
+<CHAPTER ID="014">
+Komisijas jautājumu izskatīšanas laiks
+<SPEAKER ID="922" NAME="Priekšsēdētājs">
+Nākošais punkts ir jautājumu izskatīšanas laiks (B6-0019/2008).
+<P>
+Komisijai ir iesniegti turpmāk norādītie jautājumi.
+<P>
+I daļa
+<SPEAKER ID="334" NAME="Priekšsēdētājs">
+
+<P>
+Temats: Informācijas apmaiņa par banku rēķiniem
+<P>
+Nesenais nodokļu skandāls Lihtenšteinā izraisīja rezonansi daudzās ES dalībvalstīs. Saskaņā ar kompetento iestāžu veiktajām izmeklēšanām dalībvalstu pilsoņi, iespējams, ir saistīti ar izvairīšanos no nodokļu maksāšanas. Es esmu informēts, ka 27 dalībvalstu finanšu ministri mudināja Komisijas atbildīgo ģenerāldirektorātu veikt ātru izmeklēšanu un ierosināt pārskatīt tiesisko regulējumu, lai atļautu apmainīties ar informāciju par pilsoņu banku kontiem.
+<P>
+Kā tiks aizsargāti pilsoņu personas dati saskaņā ar šādu sistēmu, kamēr tiks ieviesta pārredzamība un novērsti nelikumīgu līdzekļu pārvedumi un legalizēšanas gadījumi? Kādu procedūru Komisija ierosinās, lai nodrošinātu, ka banku kontu "atvēršana” tiek veikta, vislielākā mērā ievērojot likumību? Kā ir paredzēts harmonizēt dalībvalstu nodokļu sistēmas, lai turpmāk izvairītos no līdzīgām situācijām, kuru rezultātā nelikumīgi līdzekļi tiek legalizēti, izmantojot banku rēķinus?
+<SPEAKER ID="335" NAME="Günter Verheugen">
+Komisijas priekšsēdētāja vietnieks. - (DE) Priekšsēdētāja kungs, dāmas un kungi, mums jācīnās pret izvairīšanos no nodokļu maksāšanas. Ja mēs to nedarīsim, var tikt grauts mūsu demokrātiskās sabiedrības pamats.
+<P>
+Katrai nācijai ir tiesības ieviest noteikumus, lai nodrošinātu, ka nodokļi tiek piemēroti efektīvi, saņemot tautas pārstāvju piekrišanu. Individuāliem pasākumiem šajā jomā tomēr bieži nav vēlamā rezultāta valsts līmenī. Tādēļ ir vajadzīga starptautiska sadarbība starp nodokļu iestādēm, ietverot informācijas apmaiņu par banku kontiem. 27 dalībvalstu finanšu ministri kopā strādā pie šī jautājuma Eiropas Savienības līmenī. Daži pasākumi jau ir ieviesti Eiropas līmenī. Šeit īpaši jāatzīmē Padomes Direktīva 2003/48/EK par tādu ienākumu aplikšanu ar nodokļiem, kas gūti kā procentu maksājumi par uzkrājumiem.
+<P>
+Turklāt Eiropas Savienība ir noslēgusi tādus nolīgumus ar trešām valstīm, tostarp Lihtenšteinu, kuru mērķis ir tāds pats kā minētajai direktīvai. Šie nolīgumi garantē, ka saņemtie un maksātie procenti ES pilsoņiem šajās trešās valstīs ir pakļauti vai nu aplikšanai ar ienākuma nodokli viņu pašu dalībvalstī, vai atskaitījumiem ienākumu gūšanas vietā. Nodokļa atskaitījumi ienākumu gūšanas vietā var tikt atmaksāti personai, kas apliekama ar nodokli dalībvalstī, kurā šī persona pastāvīgi uzturas, ja par attiecīgo ieņēmumu tiek paziņots nodokļu aprēķināšanai.
+<P>
+Ekonomikas un finanšu padome 2008. gada 4. martā apmainījās viedokļiem par piemērošanas kārtību direktīvai par tādu ienākumu aplikšanu ar nodokļiem, kas gūti kā procentu maksājumi par uzkrājumiem. Pēc debatēm ministri lūdza Komisiju turpināt izstrādāt ziņojumu par minētās direktīvas īstenošanu, tā kā direktīva ir stājusies spēkā 2005. gada 1. jūlijā. Ziņojumā ir jāpievēršas terminu "procentu maksājums” un "faktiskie īpašnieki” definīcijām.
+<P>
+Jautājums, kas šeit pamatoti jau ir ticis uzdots, ir par to, cik lielā mērā informācijas apmaiņas sistēmas ir saskaņā ar personas datu aizsardzību. Saistībā ar to var norādīt, ka Kopienas noteikumi par datu aizsardzību, kas ir piemērojami arī Eiropas Ekonomikas zonā, piešķir dalībvalstīm iespēju veikt likumdošanas pasākumus. Šie pasākumi dažām attiecīgām personām var ierobežot dažas viņu tiesības, piemēram, piekļuves tiesības vai tiesības uz informāciju, ja tas ir vajadzīgs Eiropas Savienības vai dalībvalsts svarīgu finanšu vai ekonomisko interešu aizsardzībai. To piemēro arī finanšu, budžeta un nodokļu jomā.
+<P>
+Salīdzināmi ierobežojumi arī tiek piemēroti Trešās direktīvas par nelikumīgi iegūtu līdzekļu legalizēšanu efektīvai īstenošanai. Dalībvalstīm katrā gadījumā saprātīgi jānodrošina, ka to kompetentās iestādes, piegādājot un apstrādājot personas datus, strādā atbilstīgi attiecīgajiem ES noteikumiem un valsts noteikumiem par datu aizsardzību.
+<P>
+Šeit jāatrod līdzsvars starp likumīgu mērķu sasniegšanu nodokļu politikas jomā un privātuma aizsardzību.
+<SPEAKER ID="337" NAME="Manolis Mavrommatis" AFFILIATION="PPE-DE">
+(EL) Priekšsēdētāja kungs, komisār, nodokļu vēsture ir pilna ar fiktīviem banku kontiem, kas ir pat kaitīgāki, kad šādi skandāli nonāk atklātībā Eiropas valstīs. Kad tas notiek, mēs vienīgi ņemam vērā šo gadījumu, bet katrreiz, kad šāds gadījums atkārtojas, mūsu atmiņas atgriežas.
+<P>
+Komisār, vai kopumā jūsu viedoklis ir, ka sistēma ir patiesībā droša?
+<SPEAKER ID="338" NAME="Günter Verheugen">
+(DE) Komisijas priekšsēdētāja vietnieks. - (DE) Uz godājamā deputāta jautājumu var atbildēt ar skaidru "nē”. Mūsu pašreizējās sistēmas nav "ūdensnecaurlaidīgas”; mēs to zinām. Tādēļ mēs pieliekam pūles, lai tās uzlabotu. Īpašie noteikumi, lai cīnītos pret nelikumīgu līdzekļu legalizēšanu, noteikti ir atvērti uzlabojumiem, un mēs arī veicam pasākumus sadarbības veicināšanā ar Eiropas valstīm, kuras ietilpst Eiropas Ekonomikas zonā, bet neietilpst Eiropas Savienībā, lai panāktu šos attiecīgos uzlabojumus.
+<P>
+Komisija ir pieprasījusi un arī saņēmusi no Padomes sarunu pilnvaras, kas atļauj tai vest sarunas, it īpaši ar Lihtenšteinu, par to, kā var novērst pašreizējās "vājās vietas” sistēmā cīņai pret nelikumīgu līdzekļu legalizēšanu un krāpniecību nodokļu jomā. Es ceru, ka spēcīgā sabiedriskā doma, kam mēs nesen esam bijuši liecinieki Eiropā par šo jautājumu, palīdzēs mums noslēgt vajadzīgos nolīgumus. Mēs smagi strādājam pie šī jautājuma, bet, kā jūs zināt, nodokļu jautājumi ir sevišķi jutīgi. Pat iekšēji dalībvalstīs vēl arvien ir iespējami uzlabojumi šajā jomā.
+<SPEAKER ID="339" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Priekšsēdētāja kungs, komisār, jūs esat pareizi norādījuši, ka mums bez šaubām ir jācīnās pret izvairīšanos no nodokļu maksāšanas un nodokļu krāpniecību. Jūs esat norādījuši, ka mums šim uzdevumam ir vajadzīgi juridiski resursi saskaņā ar Eiropas Savienības tiesiskumu.
+<P>
+Saskaņā ar plašsaziņas līdzekļu ziņojumiem daži dati no šī Lihtenšteinas skandāla tagad sasniedz finanšu iestādes pēc tam, kad Vācijas iestādes ir maksājušas par datiem, kas iegūti kriminālā veidā. Vai šis ir pareizais ceļš?
+<SPEAKER ID="340" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Priekšsēdētāja kungs, neatkarīgi no tā, vai tas tagad ir pareizais ceļš, ir labi, ka tas ir kļuvis zināms. Komisār, šeit ir parādījusies sistēma, ka gūt labumu turpina tie, kas panāk, ka lieli koncerni maksā arvien mazākus nodokļus, un kas tagad acīmredzami atsakās no nodokļu maksāšanas. Es domāju, ka šādu attīstību nevar pieņemt. Man būtu interesanti uzzināt, ko tieši jūs pārrunājat ar Lihtenšteinu un ko konkrēti jūs gribat darīt, lai turpmāk pārtrauktu šos noziegumus - un es saku "noziegumus” patiešām apzināti.
+<SPEAKER ID="341" NAME="Günter Verheugen">
+Komisijas priekšsēdētāja vietnieks. - (DE) Uz pirmo jautājumu es vēlētos atbildēt, ka tas noteikti nav Komisijas uzdevums pieņemt spriedumu par to, kādas metodes dalībvalsts izmanto, lai cīnītos pret savu pilsoņu izvairīšanos no nodokļu maksāšanas.
+<P>
+Es esmu norādījis, ka vispārējie noteikumi nodokļu lietās ir piemērojami arī personas datu aizsardzībai, ka dalībvalstis ir pilnvarotas ierobežot šos noteikumus, ja tas ir nepieciešams, lai aizsargātu to finansiālās intereses.
+<P>
+Es domāju, ka jūsu uzdotais jautājums ir jāadresē Vācijas valdībai. Cik man zināms, tā ir izmeklējusi jautājumu par tiesvedības likumību jūsu minētajā lietā sīki un detalizēti pirms lēmuma pieņemšanas un ir nonākusi pie secinājuma, ka Vācijas nodokļu iestādēm bija tiesības nodrošināt šeit ietvertos datus.
+<P>
+Attiecībā uz otro, ļoti vispārīgo jautājumu es esmu ar jums vienisprātis, ka tas ir kaitinoši, ka mums nav jāgarantē iespēja pašreizējā ES līgumā, ka nodokļu apiešana un izvairīšanās no nodokļu maksāšanas tiks vajāta vienādi visur Eiropā un ka vēl arvien nevar garantēt, ka neviens neveicinās izvairīšanos no nodokļu maksāšanas un nodokļu apiešanu.
+<P>
+Pēdējos gados mēs esam izdarījuši daudz, jo sevišķi attiecībā uz nepieciešamo cīņu pret nelikumīgu līdzekļu legalizāciju un visa veida starptautisko noziedzību un terorismu. Es tomēr jau esmu norādījis, ka Komisija uzskata, ka šajā jautājumā ir iespējas uzlabojumiem, un tas, ko mēs gribam panākt sarunās ar Lihtenšteinu tāpat kā ar pārējām valstīm, ir pilnīgi skaidrs. Mēs gribētu saglabāt tādu pašu sadarbību un tādu pašu informācijas apmaiņu saistībā ar Lihtenšteinu, kāda jau pastāv starp ES dalībvalstīm.
+<SPEAKER ID="342" NAME="Priekšsēdētājs">
+
+<P>
+Temats: Cieto daļiņu emisijas no mopēdiem
+<P>
+Utrehtas universitātes veiktā pētniecība ir parādījusi, ka mopēdi un motorolleri izdala smalkas un sevišķi smalkas putekļu cietās daļiņas lielos daudzumos. Pētnieki mērīja emisijas, ko absorbē riteņbraucēji un motorizēto transportlīdzekļu vadītāji 12 vidēja lieluma pilsētās. Tas parādīja, ka riteņbraucēji absorbēja smalkās cietās daļiņas pārmērīgā daudzumā, kad viņi atradās mopēda tuvumā. Šķiet, ka patiesībā mopēdi vienā sekundē emitē vairāk cieto daļiņu nekā smagie kravas transportlīdzekļi. Direktīva 2002/51/EK nosaka emisiju standartus šāda veida transportlīdzekļiem. Bet tajā vispār nav pieminētas cietās daļiņas.
+<P>
+Vai Komisija ir informēta par piesārņojuma problēmu, kas rodas no motorolleriem? Kā Komisija rīkosies, lai risinātu šo problēmu atbilstīgā veidā?
+<SPEAKER ID="343" NAME="Günter Verheugen">
+Komisijas priekšsēdētāja vietnieks. - (DE) Priekšsēdētāja kungs, dāmas un kungi, Komisija ir atbalstījusi smalko un sevišķi smalko putekļu cieto daļiņu samazināšanu jau daudzus gadus. Kopš 2005. gada Komisija ir ierosinājusi daudzus jums zināmus likumdošanas pasākumus, lai uzlabotu gaisa kvalitāti. Tomēr Septītās pētniecības pamatprogrammas ietvaros ir tikuši pārbaudīti videi draudzīgas transporta politikas svarīgi aspekti.
+<P>
+Nosakot transportlīdzekļu cieto daļiņu emisiju standartus, Komisija vispirms koncentrējās uz dīzeļmotora automobiļiem un komerciālajiem transportlīdzekļiem, jo šo transportlīdzekļu piegāde bija ievērojami lielāka par motorizēto divu riteņu transportlīdzekļu piegādi. Tādēļ mēs koncentrējāmies uz problēmas risināšanas sākšanu tur, kur problēma izpaužas lielos daudzumos. Šeit mēs esam sasnieguši dažus svarīgus pavērsiena punktus.
+<P>
+Parlaments un Padome 2007. gadā pieņēma regulu par vieglo un komerciālo transportlīdzekļu emisijām. Tās noteikumi ir "Euro 5” un "Euro 6” standarti. Tie jau ir pieņemti un stājas spēkā. Ar šiem "Euro 5” un "Euro 6” standartiem papildu cieto daļiņu emisijas no dīzeļmotora transportlīdzekļiem tagad tiek samazinātas no pašreizējiem 25 miligramiem uz kilometru līdz 5 miligramiem uz kilometru.
+<P>
+Turklāt Komisija 2007. gada 21. decembrī izvirzīja priekšlikumu regulai par smago komerciālo transportlīdzekļu emisijām, un tās noteikumi ir "Euro VI” standarts. Tas samazina normu slāpekļa oksīda emisijām līdz 80 % un cieto daļiņu emisijām līdz 66 % salīdzinājumā ar "Euro V” standartu, kas ir spēkā pašlaik.
+<P>
+Cieto daļiņu emisiju problēma divu riteņu transportlīdzekļiem būtībā rodas no divtaktu motoriem. Cieto daļiņu emisiju daudzums no četrtaktu motoriem ir salīdzinoši ļoti mazs pat tad, ja tie atbilst "Euro 5” standartam.
+<P>
+2004. gadā Komisija uzdeva veikt pētījumu, lai noskaidrotu, vai juridiskie noteikumi ir samērīgi, lai ierobežotu cieto daļiņu emisijas no divtaktu motoriem. Pētījumā tika konstatēts, ka cietās daļiņas, kas izdalās no šiem motoriem, ir galvenokārt ogļūdeņraži. Tādēļ ogļūdeņražu emisiju ierobežojuma normas motocikliem un mopēdiem - divu riteņu transportlīdzekļiem - tika jau noteiktas būtiski stingrākas 2004. gadā un 2007. gadā, un stāvoklis ir jau nozīmīgi uzlabojies attiecībā uz jauniem automobiļiem. Turklāt ražotāji pārprofilējas no divtaktu motoriem uz četrtaktu motoru ražošanu, lai ogļūdeņražu ierobežojumus varētu viscaur ievērot. Tādēļ Komisija nav ierosinājusi nekādus īpašus pasākumus, lai ierobežotu cieto daļiņu emisijas divu riteņu transportlīdzekļiem. Man tomēr jāsaka, ka situācija ir noteikti kritiskāka vecākiem transportlīdzekļiem ar divtaktu motoriem, kas emitē ogļūdeņražus un cietās daļiņas lielākos daudzumos. Šīs emisijas var tomēr būtiski samazināt tad, ja motora eļļošanai izmanto sintētisko eļļu nevis minerāleļļu. Komisija tādēļ atbalsta attiecīgo Eiropas Motociklu ražotāju asociācijas un Motociklistu asociācijas kampaņu. Tomēr Komisija izmeklē nepieciešamību pārskatīt tiesību aktu noteikumus divu riteņu un trīs riteņu motorizētiem transportlīdzekļiem.
+<P>
+Pētījums tika uzdots šī gada sākumā, tas pārbaudīs 2004. gada pētījuma secinājumus, ņemot vērā tehnisko attīstību pēdējā laikā. Minētā pētījuma rezultāti būs pieejami līdz šī gada beigām. Ja izrādīsies, ka no Komisijas ir vajadzīgs tiesību aktu priekšlikums, un es esmu gatavs izstrādāt šādu priekšlikumu, ja tas būtu nepieciešams, tad tas notiktu 2009. gadā.
+<P>
+Saskaņā ar pamatdirektīvu par apkārtējā gaisa kvalitātes novērtēšanu un pārvaldību un attiecīgām atsevišķām direktīvām, kas nosaka emisiju ierobežojumu normas cietajām daļiņām PM10 un benzolam, dalībvalstīm ar piemērotiem pasākumiem ir jānodrošina, ka ierobežojumi tiek saglabāti valsts līmenī noteiktajā termiņā. Dalībvalstīm arī jānodrošina ārkārtas pasākumi tādā gadījumā, ja ierobežojumi tiek īslaicīgi pārsniegti. Teritorijās, kurās ir ievērojami lielāka iespējamība, ka divtaktu motori pārsniedz ierobežojumus, dalībvalstis ņems vērā šo situāciju savos attiecīgos gaisa kvalitātes plānos un ārkārtas pasākumos pēc tam, kad Komisija būs veikusi novērtējumu.
+<SPEAKER ID="344" NAME="Saïd El Khadraoui" AFFILIATION="PSE">
+(NL) Priekšsēdētāja kungs, komisār, paldies par jūsu izsmeļošo atbildi. Jūs pareizi atsaucāties uz pasākumiem, ko Komisija ir jau veikusi saistībā ar kravas automobiļu un mikroautobusu emisijām, tomēr vēl nav ticis izstrādāts tiesību aktu priekšlikums attiecībā uz mopēdiem. Jūs atsaucaties uz rūpniecības nozares centieniem aizvietot divtaktu motorus ar četrtaktu motoriem, kas radītu pozitīvu attīstību.
+<P>
+Pirmkārt, es jautāju pats sev, cik lielā mērā šī ir tikai nesaistoša vienošanās. Vai tā ir īsta vienošanās? Otrkārt, mums jāapzinās, ka šim piesārņojumam ir lielā mērā vietējs raksturs un, piemēram, vislielākā ietekme uz riteņbraucējiem mopēdu tuvākajā apkārtnē, kas rada problēmu sabiedrības veselībai.
+<SPEAKER ID="345" NAME="Günter Verheugen">
+Komisijas priekšsēdētāja vietnieks. - (DE) Es saprotu godājamā deputāta jautājumu ļoti labi. Mēs šeit esam saistīti nevis ar Komisijas ierosinātu vienošanos ar rūpniecības nozari, kā tas kādreiz ir bijis, piemēram, ar automobiļu CO2 emisiju samazināšanu, bet drīzāk ar sava veida automātisku attīstību. Kā jau es teicu, divu riteņu transportlīdzekļu ražotāji nevar stingri ievērot pašreizējos ciešos ierobežojumus ogļūdeņražu emisijām ar parastajiem divtaktu motoriem. Viņiem vienkārši tas nav iespējams. Šī iemesla dēļ viņi pāriet uz četrtaktu motoru ražošanu, kas izraisa citu problēmu.
+<P>
+Pētījums, par kuru es iepriekš runāju, atklās šīs tehniskās attīstības rezultātus, un es atkārtoju vēlreiz: ja atklātos, ka minētā problēma, par kuru es tikko runāju, nevar tikt atrisināta, tā sakot, automātiski, tad patiešām būtu nepieciešams izvirzīt tiesību aktu priekšlikumu. Es vēlreiz atkārtoju: es esmu gatavs to darīt.
+<SPEAKER ID="346" NAME="Priekšsēdētājs">
+
+<P>
+Temats: 2,2 miljardi bērnu cieš trūkumu
+<P>
+Visā pasaulē 2,2 miljardi bērnu cieš no nabadzības, analfabētisma, seksuālas izmantošanas un militāriem konfliktiem. Katrs sestais bērns, kas dzimis Subsahāras Āfrikā, mirst, nesasniedzis 5 gadu vecumu. Saskaņā ar ANO Bērnu fonda (UNICEF) informāciju katru dienu mirst vairāk nekā 27 000 bērnu, galvenokārt no slimībām, no kurām tos ir iespējams pasargāt. UNICEF pēdējie statistikas dati parāda, ka visā pasaulē 93 miljoni bērnu sākumskolas vecumā neiet skolā, tostarp 41 miljons bērnu Subsahāras Āfrikā, 31,5 miljoni Dienvidāzijā un 6,9 miljoni Tuvajos Austrumos un Ziemeļāfrikā.
+<P>
+Ņemot vērā to, ka nākamgad ir Konvencijas par bērnu tiesībām 20. gadadiena, šos datus ir ļoti skumji lasīt. Vai Komisija veiks reālus pasākumus, lai cīnītos pret bērnu izmantošanu vai nu seksa industrijā, vai situācijās, kad bērnus izmanto kā karavīrus? Vai tad, kad stāsies spēkā Lisabonas līgums, kurā ir ietvertas bērnu tiesības, Komisijai būs lielāka ietekme šajā jomā?
+<SPEAKER ID="347" NAME="Vladimír Špidla">
+Komisijas loceklis. - (CS) Priekšsēdētāja kungs, dāmas un kungi, Komisija piekrīt J. Van Hecke analīzei, un es gribētu vēlreiz apliecināt viņam, ka Komisija ir ļoti aktīva savos centienos cīņā pret bērnu izmantošanu. Bērnu tiesības ir ietvertas starp galvenajām prioritātēm Komisijas stratēģiskajos mērķos no 2005. līdz 2009. gadam. Šī prioritāte tika noteikta Komisijas 2006. gada paziņojumā "Ceļā uz ES stratēģiju par bērnu tiesībām” un nesen, 2008. gada 5. februārī pieņemtajā Komisijas paziņojumā "Īpaša vieta bērniem ES ārējās darbībās”. Nesen pieņemtā paziņojuma mērķis ir izveidot pamatu kopējai ES pieejai, lai aizsargātu un veicinātu bērnu tiesības trešās valstīs, kas atspoguļotos visās mūsu ārējo attiecību jomās, ietverot palīdzību attīstības jomā, humāno palīdzību un tirdzniecības politiku.
+<P>
+Rīcības plāns par bērnu tiesībām ES ārējās darbībās, kas ir ietverts šajā paziņojumā, nosaka galvenās prioritāšu jomas, kas prasa rīcību reģionālā un globālā līmenī: bērnu darbs, bērnu tirdzniecība, vardarbība pret bērniem, ietverot seksuālo vardarbību, un bērni, kas cietuši bruņotos konfliktos. Lai īstenotu šīs politikas, Komisija izmantos EUR 25 miljoni no tematiskās programmas "Investīcijas cilvēku attīstībā” ar mērķi atbalstīt iniciatīvas šādās jomās: bērnu tirdzniecība, bērni, kas cietuši bruņotos konfliktos, seksuālā un reproduktīvā veselība un jauniešu tiesības. Komisija, izmantojot Eiropas Demokrātijas un cilvēktiesību instrumentu, turpinās atbalstīt projektus, kas īsteno Eiropas Savienības pamatprincipus bērnu tiesību atbalstīšanā un aizsardzībā un principus attiecībā uz bērniem, kas cietuši bruņotos konfliktos. Kaut arī Lisabonas līgums vēl nav ratificēts, ir vērts pieminēt, ka tas paredz, ka Eiropas Savienība savās attiecībās ar pārējo pasauli dod ieguldījumu cilvēktiesību aizsardzībā, jo sevišķi bērnu tiesību aizsardzībā. Šādā veidā Savienība piešķir prioritāti savā ārējā politikā, iespējams, visneaizsargātākās sabiedrības daļas cilvēktiesību jautājumam.
+<SPEAKER ID="348" NAME="Johan Van Hecke" AFFILIATION="ALDE">
+(NL) Priekšēdētāja kungs, es gribētu pateikties komisāram un arī Komisijai par tām pūlēm, kas patiešām tiek pieliktas, lai aizsargātu bērnu tiesības tik tālu, cik vien iespējams. Tomēr es gribētu precizēt savu jautājumu. UNICEF ir nesen publicējis ziņojumu, kurā ir teikts, ka pagājušā nedēļā Kongo austrumos bruņoti grupējumi ir nolaupījuši no 2 000 līdz 3 000 bērnus, un tie ir tikuši ļaunprātīgi izmantoti militārā konfliktā. Ko vēl Komisija domā, ka tā varētu darīt, lai novērstu šādas situācijas šajā jomā? Es augstu vērtēju visus centienus, un es augstu vērtēju pasākumus, kas ir rīcības plānā. Runājot ar šīs jomas cilvēkiem, tomēr šķiet, ka cilvēki vai resursi netiek izvietoti pietiekošā daudzumā, lai aizsargātu bērnu tiesības bruņotos konfliktos.
+<SPEAKER ID="349" NAME="Vladimír Špidla">
+Komisijas loceklis. - (CS) Priekšsēdētāja kungs, J. Van Hecke, šāda traģiska un nežēlīga rīcība, protams, liek mums vaicāt, vai mēs varam darīt kaut ko vairāk. Pēc manām domām Eiropas Komisijas stratēģija ir saskaņota un konsekventa, ievērojot Komisijai pieejamos resursus un tiesisko pamatu. Attiecībā uz rīcību situācijās, kas rodas vietējā līmenī, es domāju, ka ir svarīgi pieņemt lēmumu tajā laikā, kad risks pastāv un tajā vietā, kur risks pastāv, pamatojoties uz Komisijai pieejamām struktūrām, un saskaņā ar politiskajām un organizatoriskajām iespējām. Tādēļ jums ir taisnība: lai stiprinātu bērnu aizsardzību pret līdzīgu vardarbību, vienmēr ir nepieciešams izmantot tās struktūras un tos pasākumus, kas ir pieejami tur, kur notiek šie gadījumi.
+<SPEAKER ID="350" NAME="Christopher Heaton-Harris" AFFILIATION="PPE-DE">
+Priekšsēdētāja kungs, komisārs noteikti būs informēts, ka pirms pāris nedēļām McCann ģimene no mana vēlēšanu apgabala ieradās Eiropas Parlamentā. Viņi iepriekš bija sarakstījušies ar komisāru F. Frattini par Amber brīdināšanas sistēmu bērnu nolaupīšanas gadījumos. Es tikai vēlējos uzzināt, kurā stadijā Komisijā šis projekts atrodas tagad, kad F. Frattini ir atstājis amatu, un Parlaments nodarbojas ar rakstiskas deklarācijas parakstīšanu, kas virza šo ideju uz priekšu. Mēs tikai vēlējāmies uzzināt, vai Komisija ņem vērā šo projektu, vai tas tiek virzīts uz priekšu, un kurš komisārs pašlaik ir atbildīgs par šo projektu.
+<SPEAKER ID="351" NAME="Andreas Mölzer" AFFILIATION="NI">
+(DE) Mēs pastāvīgi uzzinām no plašsaziņas līdzekļiem par cilvēku tirdzniecību, ko veic Eiropas vai pat Savienoto Valstu organizācijas. Adopcijas apvienības Austrijā, Francijā un citās valstīs tiek turētas aizdomās par bērnu tirdzniecību. Ilgu laiku ir saņemti ziņojumi par apšaubāmām lietām adopcijas procedūrās, kā arī par zīdaiņu orgānu tirdzniecības gadījumiem un sekojošu prostitūciju. Kādus pasākumus Komisija veiks, lai šādas lietas vairs nenotiktu?
+<SPEAKER ID="352" NAME="Vladimír Špidla">
+Komisijas loceklis. - (CS) Pirmais jautājums tika uzdots komisāram F. Frattini, kurš ir izlēmis atgriezties valsts līmeņa politikā. Šobrīd minētā projekta portfelis ir mana kolēģa, komisāra J. Barrot atbildībā, un viņš varēs atbildēt uz šo jautājumu un sniegt jaunāko informāciju par jūsu pieminētā projekta sagatavošanu.
+<P>
+Par otru ļoti svarīgo jautājumu, par starptautisko adopciju ir jāsaka, ka tā ir ļoti jūtīga lieta: nekādos apstākļos mēs nevaram piekrist idejai, ka starptautiskā adopcija ir nepareiza pati par sevi, jo tā nodrošina daudziem bērniem piemērotas ģimenes un piemērotas mājas. Protams, ir arī taisnība, ka saistībā ar starptautisko adopciju mēs saskatām metodes un politikas, kas ir bīstamas un nicināmas. Katrā ziņā, runājot par Eiropas Savienības kompetenci, dalībvalstu ziņā ir pieņemt pasākumus, kas novērstu to, ka starptautiskā adopcija tiek ļaunprātīgi izmantota. Protams, tas attiecas arī uz Austrijas Republiku. Es gribētu norādīt, ka noteikumi par starptautisko adopciju nav vienādi visos jautājumos visā Eiropas Savienībā un ka katra valsts pieņem savus valsts noteikumus saskaņā ar starptautiskajām konvencijām par bērnu aizsardzību; šie valsts noteikumi var tikt mainīti un uzlaboti dažādos veidos. Dāmas un kungi, es gribētu atkārtot, ka principā starptautiskā adopcija dod iespēju daudziem bērniem atrast ģimeni un normālu dzīvi; no otras puses tomēr tā ir ļoti jūtīga joma, un tā ietilpst dalībvalstu kompetencē.
+<P>
+II daļa
+<SPEAKER ID="354" NAME="Priekšsēdētājs">
+
+<P>
+Temats: Sociālās nodrošināšanas reformas Grieķijā
+<P>
+Padomes lēmumos un Komisijas dokumentos ir vairākkārt norādīta vajadzība modernizēt un reformēt dalībvalstu sociālās nodrošināšanas sistēmas, pensionēšanās vecuma pielāgošana un priekšlaicīgas pensionēšanās negatīvā ietekme uz ekonomiku un sabiedrību.
+<P>
+Vai Komisija piedalās pielāgošanas procesa konsultatīvajos pasākumos, un vai tā veic dalībvalstu jauno normatīvo pasākumu novērtējumu?
+<P>
+Sociālās nodrošināšanas nesenās reformas Grieķijā ietilpst valsts kompetencē. Tomēr vai Komisija veic šo reformu novērtējumu?
+<SPEAKER ID="355" NAME="Vladimír Špidla">
+Komisijas loceklis. - (CS) Priekšsēdētāja kungs, dāmas un kungi, Komisija ir informēta par tiem demogrāfiskajiem jautājumiem, ar ko saskaras pensiju sistēmas. Tādēļ, ka dzimstības līmenis ir samazinājies kopš 1970. gada un cilvēki dzīvo ilgāk, arvien mazākam skaitam darbspējīgā vecumā esošu cilvēku būs jāatbalsta arvien lielāks skaits cilvēku, kas ir pārsnieguši darbspējīgo vecumu. Kā jūs zināt, saskaņā ar Eiropas Kopienas dibināšanas līgumu sociālā aizsardzība ietilpst dalībvalstu kompetencē. Komisija tādēļ neiejaucas dalībvalstu pensiju sistēmās, kā arī tai pat nav padomdevēja funkcijas attiecībā uz valsts pielāgojumiem. Tādēļ dalībvalstis un Komisija vienojās par sadarbību sociālās aizsardzības un sociālās integrācijas jomā, pamatojoties uz atvērto koordinācijas metodi, kas nozīmē, ka Komisija un Padome nosaka kopīgus mērķus, dalībvalstis ziņo par šiem mērķiem, un Komisija apkopo savus atklājumus ziņojumā, ko pēc tam pieņem Padome.
+<P>
+Dalībvalstis iesniedza pirmo stratēģisko ziņojumu paketi 2002. gadā un otro paketi - 2005. gadā. Šo otro paketi Komisija apkopoja Kopējā ziņojumā par sociālo aizsardzību un sociālo integrāciju, ko 2006. gadā pieņēma Eiropas Padome. Novērtējums parāda, ka, lai gan nesen veiktās reformas radījušas izteiktākus stimulus, lai cilvēki strādātu ilgāk, vēl arvien ir jāveic turpmāki pasākumi, lai sasniegtu augstāku nodarbinātības līmeni, jo sevišķi attiecībā uz sievietēm un gados vecākiem darba ņēmējiem. Nodarbinātības līmeņa paaugstināšana ir labākais veids, lai nodrošinātu, ka pensiju sistēmas arī turpmāk būtu atbilstīgas un ilgtspējīgas. Grieķijā vecuma nabadzības riska līmenis ir būtiski augstāks par vidējo: 26 % 2005. gadā personām, kas vecākas par 65 gadiem, salīdzinājumā ar 19 % tām personām, kuru vecums ir 64 gadi. Grieķijas pensiju sistēma ir jāreformē, lai padarītu to piemērotāku un ilgtspējīgāku.
+<P>
+Reformas ir vajadzīgas, lai mudinātu vecākus cilvēkus un sievietes strādāt vairāk un ilgāk. Ņemot vērā sieviešu mazo piedalīšanos, mums ir jāīsteno tāda politika, kuras mērķis ir sasniegt augstāku nodarbinātības līmeni sievietēm, lai nodrošinātu, ka pensiju sistēmas ir piemērotas un noturīgas ilgtermiņā. Tā kā pensiju sistēmas jau tagad cīnās ar finanšu grūtībām, gados vecāku cilvēku nabadzība arī turpmāk būs problēma līdz tam laikam, kad tie, kas nav ietverti pamatpensiju sistēmā iegūs tiesības pieprasīt pensiju pēc ilgāka laika perioda.
+<P>
+Tiek cerēts, ka valsts stratēģisko ziņojumu nākamā pakete tiks sagatavota 2008. gadā. Komisija izstrādās apkopojumu galvenajiem attīstības pasākumiem dalībvalstīs. Tas nodrošinās pamatu Kopējam ziņojumam par sociālo aizsardzību un sociālo integrāciju, kas tiks iesniegts 2009. gadā.
+<SPEAKER ID="356" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Priekšsēdētāja kungs, komisār, paldies par jūsu informatīvo atbildi. Tagad atļaujiet man pievērsties tematam par māšu priekšlaicīgu pensionēšanos, pamatojoties uz to, ka viņām ir nepilngadīgi bērni pensionēšanās brīdī. Priekšlaicīgas pensionēšanās robežlīmenis Grieķijā bija 50 gadu vecums; tas tika pacelts turpmākajām paaudzēm uz 55 gadu vecumu, bet ne šajā gadījumā par mātēm ar bērniem. Kā jūs novērtējat šo robežlīmeni no Komisijas viedokļa un salīdzinājumā ar to, kā ir citās dalībvalstīs?
+<SPEAKER ID="357" NAME="Vladimír Špidla">
+Komisijas loceklis. - (CS) Kā jau es sākumā minēju, saskaņā ar Eiropas Kopienas dibināšanas līgumu pensiju sistēmu vispārējā struktūra pieder pie katras dalībvalsts pienākumiem un ietilpst dalībvalstu kompetencē. Dalībvalstīm ir atšķirīgas metodes, nosakot pensionēšanās vecumu. Visbiežāk noteiktais vecums ir 65 gadi, bet ir arī valstis, kur pensionēšanās vecums ir lielāks, tāpat ir arī valstis, kur tas ir mazāks. Tas pats attiecas arī uz sieviešu pensijām: atšķirīgi pensionēšanās vecumi ir noteikti, pamatojoties uz lēmumiem un politiskajām debatēm katrā atsevišķā dalībvalstī. Galvenais princips, ko atbalsta Komisija un kas ir nostiprināts Līgumā, ir, ka šīs sistēmas nedrīkst būt nekādā veidā diskriminējošas. Ja tiek izpildīts šis nosacījums, tad pensionēšanās vecuma noteikšana ir dalībvalstu pilnīgā kompetencē. Tādēļ es negribu detalizēti komentēt dažādus pensionēšanās vecumus katrā atsevišķā dalībvalstī.
+<SPEAKER ID="358" NAME="Priekšsēdētājs">
+
+<P>
+Temats: Cīņa pret jaunatnes un ilgtermiņa bezdarbu Eiropā
+<P>
+Vai Eiropas Komisija var izstrādāt visaptverošu paziņojumu, kurā būtu izklāstīts, kādas jaunas iniciatīvas tā veic šogad, lai cīnītos ar jaunatnes un ilgtermiņa bezdarbu Eiropā un, it īpaši, kādas sistēmas ir veicinātas, lai nodrošinātu, ka tie, kas ir bez darba var iemācīties jaunas informācijas tehnoloģiju prasmes?
+<SPEAKER ID="359" NAME="Vladimír Špidla">
+Komisijas loceklis. - (CS) Priekšsēdētāja kungs, dāmas un kungi, Komisija ir satraukta par jauniešu augsto bezdarba līmeni dalībvalstīs, kas bija 15,2 % 2007. gada beigās, tas ir gandrīz divreiz lielāks par vispārējo bezdarba līmeni. Komisija ir arī satraukta par ilgtermiņa bezdarba pastāvību, kas ietekmē apmēram pusi (45 %) no visiem bezdarbniekiem, kaut arī man jāuzsver, ka pēdējā laikā mēs esam novērojuši nozīmīgu ilgtermiņa bezdarba līmeņa samazināšanos. Šis samazinājums katrā dalībvalstī ir atšķirīgs, bet noteikti ir vērojama samazināšanās tendence visā Eiropas Savienībā.
+<P>
+Tomēr situācija vēl arvien ir satraucoša. Daudzi jauni cilvēki pabeidz izglītību, neiegūstot vajadzīgās prasmes, lai iekļūtu darba tirgū. Tas ir tādēļ, ka apmēram katrs sestais jaunietis Eiropas Savienībā priekšlaicīgi izstājas no skolas, un katrs ceturtais neiegūst vidējo izglītību.
+<P>
+Neskatoties uz dalībvalstu nozīmīgiem centieniem uzlabot jauniešu nodarbinātības līmeni, apmēram puse no valstīm vēl nav sasniegušas mērķi jaunajiem bezdarbniekiem dot "jauna sākuma” iespēju sešu mēnešu laikā, kas bija noteikts 2007. gadam, vai četru mēnešu laikā, kas ir mērķis 2010. gadam.
+<P>
+Dalībvalstis ir primāri atbildīgas par īstenošanas pasākumiem, lai samazinātu jaunatnes bezdarba līmeni un ilgtermiņa bezdarbu. Eiropas Savienībai ir papildinoša nozīme, izmantojot dalībvalstu valsts nodarbinātības politiku saskaņošanu, un finansiālā atbalsta veidā saskaņā ar Eiropas Sociālo fondu.
+<P>
+Kā jūs zināt, katru gadu Komisija pieņem savu ikgadējo progresa ziņojumu par nodarbinātības stratēģiju. Savā sanāksmē 2008. gada martā Eiropadome pieņēma vairākus ieteikumus dalībvalstīm: 17 no tiem bija ieteikumi izglītības un profesionālās apmācības jomā, un 15 ieteikumi bija nodarbinātības jomā.
+<P>
+Es uzskatu, ka ir trīs darbības virzieni, kas ir būtiski svarīgi, lai uzlabotu jauniešu integrāciju darba tirgū:
+<P>
+1. Izglītības un apmācības uzlabošana: ir svarīgi koncentrēt pūles, lai attīstītu galvenās prasmes bērnībā un lai radītu atbalsta mehānismu, kas novērstu to, ka jaunieši priekšlaicīgi izstājas no skolas. Mūžizglītības programma, kas darbojas kopš 2007. gada, dod ieguldījumu, lai Eiropas Savienība veidotos par augsti attīstītu, uz zināšanām balstītu sabiedrību, sniedzot atbalstu dalībvalstu izglītības sistēmu un arodapmācības modernizēšanā un pielāgošanā.
+<P>
+2. Sociālās integrācijas atbalstīšana: šajā kontekstā īpaša uzmanība ir jāpievērš visneaizsargātāko jauniešu situācijas uzlabošanai un bērnu nabadzības izskaušanai.
+<P>
+3. Ģeogrāfiskās mobilitātes uzlabošana: pašlaik darba tirgos bezdarbs pastāv līdzās darbaspēka trūkumam. Tas mudina Komisiju atbalstīt sadarbību starp dalībvalstīm, un, jo sevišķi, veicināt jauniešu lielāku mobilitāti Eiropas Savienībā.
+<P>
+Īstenojot savas darba tirgus politikas, dalībvalstis arī saņem finansiālu palīdzību saskaņā ar struktūrfondiem un, it īpaši, no Eiropas Sociālā fonda.
+<P>
+Dalībvalstu rīcībā ir EUR 75 miljardi laika periodam no 2007. līdz 2013. gadam. Eiropas Sociālais fonds (ESF) ir ārkārtīgi svarīgs. Apmēram 25 % no bezdarbniekiem Eiropas Savienībā ir bijuši kādā veidā saistīti ar ESF projektiem 2007. gadā. Tas nozīmē, ka katru gadu palīdzība tiek sniegta apmēram 1 miljonam cilvēku, kas cieš no atstumtības, tostarp jauniešiem. Katru gadu aptuveni 2 miljoni cilvēku iekļūst darba tirgū pēc Eiropas Sociālā fonda palīdzības saņemšanas.
+<P>
+Kaut arī Eiropas Reģionālās attīstības fonds nekoncentrējas uz jauniešiem pašiem par sevi, tas līdzfinansē projektus, kas tieši ietver jauniešus, piemēram, izglītības un arodapmācības infrastruktūra, universitāšu pētniecība un atbalsts uzņēmējdarbībai, sevišķi maziem un vidējiem uzņēmumiem. Saskaņā ar "Ekonomisko pārmaiņu reģionu” iniciatīvu Komisija atbalsta labākās prakses apmaiņu, izmantojot reģionālo tīklu "Sociāli atstumto jauniešu integrēšana”.
+<P>
+Dāmas un kungi, cīņa pret bezdarbu jaunatnes vidū un pret ilgtermiņa bezdarbu ir Eiropas un dalībvalstu prioritāte. Jauniešu integrēšana darba dzīvē un sabiedrībā un viņu potenciāla labāka izmantošana ir galvenie priekšnoteikumi, lai Eiropā atdzīvinātu spēcīgu un ilgtspējīgu izaugsmi.
+<SPEAKER ID="360" NAME="Eoin Ryan" AFFILIATION="UEN">
+Es pateicos par jūsu ārkārtīgi izsmeļošo atbildi.
+<P>
+Vai jūs aicināt vai mudināt dalībvalstis izmantot labāko praksi vai labākās prakses paraugus no vienas valsts uz citu, lai mēģinātu ierobežot ilgtermiņa bezdarba līmeni jaunatnes vidū? Es esmu pārliecināts, ka dažām valstīm ir, tā sakot, lielāki panākumi nekā citām, un es vēlējos uzzināt, vai bija veidi, kuros valstis varētu saistīties savā starpā, lai mācītos no paraugiem, kā tas ir veikts citās valstīs.
+<P>
+Iepriekš es esmu kritizējis atbildes uz jautājumiem, un es tagad gribu izteikt atzinību jums par jūsu ļoti izsmeļošo atbildi.
+<SPEAKER ID="361" NAME="Vladimír Špidla">
+Komisijas loceklis. - (CS) E. Ryan, informācijas apmaiņa un laba prakse ir viena no Eiropas Savienības milzīgajām vērtībām. Tā ir sadarbības atvērtās metodes pastāvīga daļa un mūsu darba pastāvīga daļa, un es vēlētos uzsvērt, ka Slovēnijas prezidentūra, piemēram, veltīja vienu no savām prezidentūras konferencēm jautājumam par jaunatnes bezdarbu. Šī ir tipiska un ideāla iespēja salīdzināt atsevišķu dalībvalstu dažādās pieejas. Jums ir taisnība: dažām dalībvalstīm ātrāk un efektīvāk nekā citām ir izdevies atrast risinājumus dažiem jautājumiem. Tādēļ pieredzes un praktisko zināšanu pastāvīga apmaiņa un salīdzināšana ir ļoti efektīvas metodes, lai panāktu progresu.
+<SPEAKER ID="362" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Jaunas prasmes, globālais tīmeklis, tehnoloģijas un līdzīgi jautājumi ir noteikti ļoti svarīgi darba tirgū. Tomēr mēs visi esam uzzinājuši, ka pat jauniešu bezdarbā bieži trūkst galveno prasmju - lasīšanas, rakstīšanas un rēķināšanas, un tas ir īstais iemesls, kāpēc jaunieši nevar iekļūt darba tirgū pirmajā reizē un mūža agrīnajā periodā. Vai šajā jomā ir kādi īpaši galvenie punkti?
+<SPEAKER ID="363" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+Priekšsēdētāja kungs, komisār, jūs runājāt par jauniešu bezdarbu un iepriekšējā jautājumā par sieviešu nepietiekamu nodarbinātību.
+<P>
+Vai Komisijai ir nodoms izvirzīt priekšlikumus, kas apvieno ģimenes un profesionālo dzīvi, un, jo sevišķi, attiecībā uz maternitāti un bērnu kopšanas atvaļinājumu?
+<SPEAKER ID="364" NAME="Vladimír Špidla">
+Komisijas loceklis. - (CS) Ļaujiet man īsumā atgriezties pie tā, ko es teicu sākumā. Pašlaik Komisija, sevišķi mans kolēģis, komisārs J. Figel' ar savu veikto darbu, pievēršas mācību priekšlaicīgas izbeigšanas līmenim un galveno prasmju iegūšanai. Jums ir taisnība: ir būtiski, ka cilvēki iegūst galvenās prasmes un spēju mācīties agrā bērnībā un pusaudžu gados, jo tas turpmākos dzīves gados atvieglos viņiem attīstīt savas karjeras ar labākiem panākumiem. Saskaņā ar mūsu programmām, piemēram, tām, ko ir finansējis Eiropas Sociālais fonds, mēs koncentrējamies uz tādu lietu, ko es nosauktu par "otro iespēju”, citiem vārdiem sakot, bērniem, kam ir bijušas problēmas (un tādas ir vairākas), tiek dota iespēja atgriezties oficiālās struktūrās un pabeigt savu izglītību. Šis ir viens no Komisijas galvenajiem punktiem, jo, kā jau ir ticis pieminēts, šī ir ļoti svarīga lieta.
+<SPEAKER ID="365" NAME="Priekšsēdētājs">
+
+<P>
+Temats: ES tiesību akti diskriminācijas novēršanas jomā
+<P>
+Saskaņā ar pašreizējiem ES tiesību aktiem tikai nodarbinātības un arodapmācības jomā ES pilsoņi tiek aizsargāti pret diskrimināciju vecuma, ticības vai pārliecības, invaliditātes un dzimumorientācijas dēļ, kamēr tādās jomās kā izglītība, sociālā aizsardzība un piekļuve precēm un pakalpojumiem tiesību akti attiecas tikai uz diskrimināciju rasu vai etniskās izcelsmes dēļ.
+<P>
+Tā kā tiesību akti ir paplašināti, lai ietvertu vairāk kategoriju preču un pakalpojumu jomā, kādi ir Komisijas apsvērumi par neparedzētām sekām, ko tas var izraisīt?
+<P>
+Piemēram, kādu aizsardzību Komisija ir apsvērusi jaunajos tiesību aktos, lai nodrošinātu, ka samazinājumi gados vecākiem cilvēkiem un koncesionārām grupām netiek negatīvi ietekmēti?
+<SPEAKER ID="366" NAME="Vladimír Špidla">
+Komisijas loceklis. - (CS) Priekšsēdētāja kungs, dāmas un kungi, kā jūs zināt, Eiropas Savienība ir izveidojusi plašu sistēmu cīņai pret diskrimināciju, un tā var būt lepna par sasniegtajiem rezultātiem. Tomēr dažām grupām ir augstāks aizsardzības līmenis nekā citām. Konkrētāk tas nozīmē, ka cilvēki ir aizsargāti pret diskrimināciju vecuma, invaliditātes, dzimumorientācijas vai ticības dēļ, bet tikai darba vietā viņi ir aizsargāti šādā kompleksā veidā. Plašāka darbības joma ir tikai aizsardzībai pret diskrimināciju rasu vai etniskās izcelsmes un dzimuma dēļ.
+<P>
+Kā paziņots Komisijas 2008. gada likumdošanas un darba programmā, Komisija plāno priekšlikumu direktīvai, kas pamatojas uz Eiropas Kopienas dibināšanas līguma 13. pantu, īstenojot principu par vienlīdzīgu attieksmi ārpus nodarbinātības jomas un paplašinot pašreizējo ES tiesisko regulējumu. Detalizētāki lēmumi vēl ir jāpieņem: piemēram, mēs gaidām rezultātus ietekmes pētījumam, kas pašlaik tiek veikts, un šie rezultāti būs pieejami drīz. Tomēr Komisija saprot vajadzību panākt līdzsvaru starp diskriminācijas novēršanas un preferenciāla režīma principiem; zināmos apstākļos pēdējais nosauktais princips var būt pamatots.
+<P>
+Preferenciāla režīma vairāki veidi pastāv dalībvalstīs, un tie piedāvā īpašu attieksmi noteiktām grupām īpašu iemeslu dēļ, nebūdami diskriminējoši. Preferenciāla režīma piemērs ir gados vecāku cilvēku bezmaksas braukšana sabiedriskajā transportā: tas sniedz atbalstu mobilitātē. Komisija neuzskata, ka šie pasākumi ir nelikumīgi, ja tiem ir likumīgs pamatojums valsts tiesību aktos sociālu, izglītības, kultūras vai citu iemeslu dēļ.
+<SPEAKER ID="367" NAME="Robert Evans" AFFILIATION="PSE">
+Priekšsēdētāja kungs, es gribētu pateikties komisāram par viņa paziņojuma beigās izskanējušo apliecinājumu, ka Komisijai nav nodoma negatīvi ietekmēt to, ko viņš nosauca par "preferenciālu režīmu”. Es domāju, ka tas ir apsveicami. Ja darbs turpināsies tā, kā viņš to apraksta, un viņš varēs panākt pareizo līdzsvaru, es domāju, ka tas būs apsveicami visās Eiropas Savienības valstīs. Es pateicos viņam par šo apliecinājumu.
+<P>
+Izmantojot šo iespēju, es gribētu jautāt par saistītu jautājumu, proti, vai komisāram ir kādas prognozes par to, kad viņš gatavojas publicēt savu priekšlikumu lēmumam, lai pievienotos ANO Konvencijai par invalīdu tiesībām, kas noteikti ietilpst tajā pašā kategorijā?
+<SPEAKER ID="368" NAME="Vladimír Špidla">
+Komisijas loceklis. - (CS) ANO Konvencija par invalīdu tiesībām tika pabeigta Luksemburgas prezidentūras laikā, pateicoties arī Eiropas Savienības saskaņotiem centieniem. Es esmu pārliecināts, ka šī Konvencija netiktu noslēgta bez mūsu pūliņiem. Protams, Konvencijas ratificēšana ir dalībvalstu pienākums, un Eiropas Savienības mērķis ir atbalstīt un paātrināt šo ratificēšanu, izmantojot diskusijas ar dalībvalstīm.
+<P>
+Attiecībā uz jūsu jautājumu par to, kad es ceru publicēt minēto priekšlikumu, pagaidu termiņš ir šā gada jūnija beigās, bet tas patiešām ir tikai provizoriskais termiņš.
+<SPEAKER ID="369" NAME="Jim Allister" AFFILIATION="NI">
+Priekšsēdētāja kungs, es vēlētos pievērst komisāra uzmanību diskriminācijai ticības dēļ un interesantajam faktam, ka, neskatoties uz Eiropas Savienības aizsardzību pret diskrimināciju ticības dēļ, ir viena vieta Eiropas Savienībā, kur diskriminācija ticības dēļ ir atļauta. Diemžēl tas ir manā vēlēšanu apgabalā, Ziemeļīrijā, kur kā atkāpe no ES tiesību aktiem, ko atļāvusi pati ES, ir skaidri paziņots, ka ir likumīga diskriminācija attiecībā uz protestantiem, pieņemot darbā policijas dienestā Ziemeļīrijā. Vai komisārs var mums pateikt, kad šī nejēdzīgā situācija beigsies un kad tās tiesības, kas ir piešķirtas citiem, tiks atjaunotas maniem vēlētājiem?
+<SPEAKER ID="370" NAME="Philip Bushill-Matthews" AFFILIATION="PPE-DE">
+Ļoti īsi, es, tāpat kā jautājuma uzdevējs Robert Evans, esmu no jauna pārliecināts par Komisijas nodomiem attiecībā uz turpmākiem tiesību aktiem. Bet jautājumā bija īpaši runāts par iespējamām neparedzētu seku briesmām.
+<P>
+Ņemot vērā šīs jomas jūtīgumu, vai komisārs, lūdzu, varētu apstiprināt, pirms jebkādi turpmāki tiesību akti šajā jomā tiek izstrādāti līdz galīgai nostājai, ka ikviens ietekmes novērtējums būtu īpaši stingrs un tiktu veikts iepriekš.
+<SPEAKER ID="371" NAME="Vladimír Špidla">
+Komisijas loceklis. - (CS) Pašreiz spēkā esošās direktīvas nosaka īpašus noteikumus attiecībā uz reliģiskām kopienām un reliģisko pārliecību. Šajā ziņā, uzraugot pasākumus, Komisija uzrauga arī minēto noteikumu īstenošanu. Šī ir sarežģīta un ārkārtīgi jūtīga lieta, bet, vispārīgi runājot, tā tiek regulēta saskaņā ar Eiropas direktīvām, un Komisija var vērtēt, vai atsevišķas dalībvalstis īsteno vai neīsteno tiesību aktus pareizi, kā arī vai tās pārkāpj vai nepārkāpj diskriminācijas aizlieguma principu.
+<P>
+Es varu sniegt ļoti vienkāršu atbildi uz otru jautājumu. Vienlīdzīgas attieksmes princips un diskriminācijas aizliegums ir Eiropas pamatvērtības, kas ir jāīsteno, un, to īstenojot, mums jāizmanto visi Eiropas Savienībai pieejamie instrumenti. No otras puses, ir skaidrs, ka, pieņemot lēmumus, kas ir tik nozīmīgi tik daudziem, mums ir jāpēta sekas, un mums ir vajadzīgi ietekmes novērtējumi. Eiropas Komisija stingri piemēro šo metodi visās jomās, tostarp vienlīdzīgu iespēju, pamattiesību un diskriminācijas aizlieguma jomā.
+<SPEAKER ID="372" NAME="Mario Mantovani" AFFILIATION="PPE-DE">
+(IT) Paldies, priekšsēdētāja kungs, es nepievienošu nekādus citus jautājumus. Marie Panayotopoulos-Cassiotou tomēr uzdeva īpašu jautājumu par maternitāti un bērna kopšanas atvaļinājumu. Vai jūs, lūdzu, atļautu komisāram atbildēt?
+<SPEAKER ID="373" NAME="Priekšsēdētājs">
+M. Mantovani, atbildēm uz šiem jautājumiem noteiktais laiks ir beidzies, un mēs nepārprotami nevaram turpināt atbildes. Komisārs dzirdēja jautājumu, un, ja viņš uzskata par piemērotu atbildēt rakstiski, viņš tā var darīt. M. Panayotopoulos-Cassiotou būtu varējusi to pieminēt, kad viņa pirms brīža runāja.
+<P>
+Jautājumi no Nr. 51 līdz Nr. 61 tiks atbildēti rakstiski. Tā kā jautājumu Nr. 62 un Nr. 63 temats tiks apskatīts turpmāk šajā sesijā, šie jautājumi netiks izsaukti.
+<SPEAKER ID="374" NAME="Priekšsēdētājs">
+
+<P>
+Temats: Zivsaimniecības nolīgums ar Maroku.
+<P>
+Vai Komisija ir veikusi kādu novērtējumu par ES kuģu zvejas braucienu rezultātiem saskaņā ar pēdējo zivsaimniecības nolīgumu ar Maroku?
+<SPEAKER ID="375" NAME="Joe Borg">
+Komisijas loceklis. - Priekšsēdētāja kungs, godājamie Komisijas locekļi, es gribētu pateikties godājamam Komisijas loceklim M. Medina Ortega par viņa jautājumu, kas man dod iespēju paust Komisijas viedokli par svarīgo jautājumu attiecībā uz zivsaimniecības nolīgumu ar Maroku.
+<P>
+Komisija uzrauga Zivsaimniecības partnerattiecību nolīgumu starp Eiropas Kopienu un Maroku. Aprēķini par šī nolīguma īstenošanas pirmo gadu vēl nav pilnībā pabeigti, jo pirmais gads beidzās tikai 2008. gada 28. februārī, un ir sešu mēnešu aizkavēšanās starp laiku, kad notiek zvejniecības darbības un laiku, kad dati ir pārsūtīti un izanalizēti. Neskatoties uz šo aizkavēšanos, aprēķini, kas jau ir mūsu rīcībā, parāda pozitīvu skatu uz zvejniecības iespējām, proti, izmantošanas līmenis ir 80 % no visām zvejniecības iespējām.
+<SPEAKER ID="376" NAME="Manuel Medina Ortega" AFFILIATION="PSE">
+(ES) Es pateicos komisāram par viņa atbildi un atzīstu, ka ir grūti iegūt datus tik ātri, bet, tā kā es, piemēram, dzīvoju tuvu teritorijai, kur notiek zvejniecība, zvejnieki ir man teikuši, ka šajā zvejas vietā ir vairākas strukturālas problēmas to pārmērīgi daudzo tīklu un citu zvejas rīku dēļ, kas ir pamesti šajā teritorijā, un tas padara zveju ārkārtīgi sarežģītu.
+<P>
+Es patiešām nezinu, vai komisārs ir informēts par strukturālām grūtībām, kas ir radušās Sahāras zvejas vietā kopš pēdējā nolīguma. Tas bija laiks, kad Eiropas zvejas flote nebija klāt, bet acīmredzot tas izraisījis zvejas apstākļu pasliktināšanos zvejas vietas aizsardzības trūkuma dēļ.
+<SPEAKER ID="377" NAME="Joe Borg">
+Komisijas loceklis. - Ja es varu būt mazliet precīzāks, īstenošanas pirmā gada laikā galvenajām kategorijām ir nozvejoti 90 % attiecībā uz nerūpnieciskām kategorijām un tunci, un aptuveni 80 % attiecībā uz rūpnieciskajām pelaģiskajām sugām.
+<P>
+Tomēr izmantošanas līmenis bentiskajām sugām ir daudz sliktāks. Šajā ziņā izmantošanas līmenis ir tikai apmēram 23 %. Tas ir izskaidrojams galvenokārt ar vairākām problēmām, kuras jūs esat norādījis, jo sevišķi tas ir jautājums par obligātu izkraušanu pēc Marokas pieprasījuma, kas tika iekļauts zivsaimniecības partnerattiecību nolīgumā, kā arī problēma attiecībā uz Marokas jūrnieku pieņemšanu darbā uz Kopienas kuģiem.
+<P>
+Es pats biju Marokā apmēram pirms divām nedēļām, un man bija izdevība apspriest ar Marokas ministru šīs "zobu augšanas” problēmas, kā tās varētu nosaukt, attiecībā uz zivsaimniecības partnerattiecību nolīguma ar Maroku īstenošanu. Es domāju, ka ir vispārēja sapratne, ka mums ir no jauna jāizskata jautājums par obligātajām izkraušanām, ņemot vērā to, ka zivsaimniecības partnerattiecību nolīgumā nodoms bija, ka šīs izkraušanas tiktu prasītas atkārtotas eksportēšanas vajadzībām. Kopienas kuģiem tiktu prasīts izkraut Marokā nozvejotās zivis, un tās tiktu atkārtoti eksportētas pēc pārstrādes.
+<P>
+Patiesībā zivju izkraušana pašlaik tiek izmantota vietējam patēriņam. Tas nozīmē, ka, ja zivis ir nozvejotas ārpus teritoriālā ierobežojuma, tiek uzskatīts, ka tās ir jāieved Marokā, un tādēļ tiek iekasēts krietns nodoklis.
+<P>
+Es izvirzīju šo jautājumu, un šajā ziņā ir sapratne, un es ceru, ka ļoti īsā laikā mēs atradīsim risinājumu. Tāpat attiecībā uz Marokas jūrnieku pieņemšanu darbā mēs esam ierosinājuši šo jautājumu ar Marokas iestādēm, ar ministru pašu, un ir notikusi to ietverto personu saraksta paplašināšana, no kurām Eiropas Kopienas kuģu īpašnieki var izvēlēties.
+<P>
+Mēs mēģinām vēl paplašināt šo sarakstu, lai šādā veidā mēģinātu pēc iespējas samazināt neērtības, ko rada ļoti ierobežots to personu saraksts, no kurām kuģu īpašnieki darbam uz saviem kuģiem var izvēlēties zvejniekus.
+<SPEAKER ID="378" NAME="Rosa Miguélez Ramos" AFFILIATION="PSE">
+(ES) Priekšsēdētāja kungs, zivsaimniecības bīstamajā pasaulē es gribētu jautāt par tunzivju saldētājkuģa "Playa de Bakio” likteni, šis kuģis tika nolaupīts svētdien Somālijas piekrastē ar 26 apkalpes locekļiem uz klāja, no kuriem astoņi ir galīcieši, pieci ir baski un 13 ir afrikāņi.
+<P>
+Es gribētu jautāt jums, komisār, ko Komisija dara šajā lietā, vai Komisija jau ir veikusi kādus pasākumus, vai taisās to darīt; jo mēs esam ļoti nobažījušies par to, kas varētu būt noticis ar šiem cilvēkiem, kas vēl arvien atrodas uz šī tunzivju saldētājkuģa.
+<SPEAKER ID="379" NAME="Joe Borg">
+Komisijas loceklis. - Attiecībā uz īpašo lietu, ko pieminēja R. Miguélez Ramos, es gribētu teikt, ka šodien Komisija sniedza paziņojumu par to, ka mēs esam satraukti, uzzinot par Spānijas zvejas kuģa nolaupīšanu starptautiskajos ūdeņos pie Somālijas krastiem.
+<P>
+Komisijas vislielākās bažas ir par Spānijas kuģa zvejnieku drošību. Turpinājumā paziņojumā ir teikts, ka Komisija pauž nožēlu par visām pirātisma un bruņotas laupīšanas darbībām. Drošības uzturēšanu Somālijas piekrastes ūdeņos Somālijas iestādes nevar atbilstīgi nodrošināt. Tādēļ tur ir nopietna problēma saistībā ar pirātismu.
+<P>
+Paziņojuma noslēgumā ir teikts, ka Komisija uzskata, ka saskaņota pieeja to ES tirdzniecības un zvejas kuģu aizsardzībai, kas kursē nenodrošinātās jūras zonās, varētu likumīgi veidot daļu no Eiropas jūrniecības politikas, bet tā arī ir saistīta ar Eiropas Drošības un aizsardzības politiku. Jebkurā gadījumā šī lieta ir jāizlemj Padomei.
+<SPEAKER ID="380" NAME="Priekšsēdētājs">
+
+<P>
+Temats: Mazo kuģu zvejnieki
+<P>
+Vai Komisija ir informēta par to, ka Apvienotajā Karalistē pēc tam, kad šogad tika noteiktas nozvejas kvotas, ir izveidota Mazo kuģu zvejnieku asociācija? Vai Komisija apzinās, ka šīs jaunās kvotas dažos Apvienotās Karalistes apgabalos ir nozīmējušas, ka dažas mazās flotes var nozvejot tikai vienu mencu, rēķinot uz vienu kuģi dienā? Kaut arī lēmumu par nozvejas kvotu sadalījumu starp lieliem un maziem kuģiem pieņem AK valdība, vai Komisija atzīst vietējo un tradicionālo nozīmību mazajām flotēm, no kurām dažas ir saņēmušas balvas par ilgtspējību? Vai Komisija uzskata, ka Eiropā jādara vairāk, lai tās aizsargātu? Ja tā, tad kā?
+<SPEAKER ID="381" NAME="Joe Borg">
+Komisijas loceklis. - Es vēlētos pateikties cienījamai deputātei S. Bowles par jautājumu, kas dod man iespēju paust Komisijas viedokli attiecībā uz svarīgo jautājumu par mazajiem kuģiem.
+<P>
+Es esmu informēts par to, ka ir izveidota asociācija, kas sapulcina kopā īpašniekus kuģiem, kuru garums ir mazāks par 10 metriem Apvienotās Karalistes flotē. Es arī apzinos, ka zemās mencu nozvejas kvotas piešķiršana ir šīs asociācijas izveides pamatā, jo Apvienotās Karalistes mencu nozvejas kvotas iedalījums šai flotes daļai ir tikai 3 % no kopējā daudzuma, neskatos uz to, ka relatīvā nozvejas iespēja šai flotes daļai var būt būtiski lielāka.
+<P>
+Kā jūs pareizi norādījāt savā jautājumā, dalībvalstu, šajā gadījumā Apvienotās Karalistes, pienākums ir sadalīt zvejniecības iespējas savu kuģu starpā. Turklāt es gribētu piebilst, ka dalībvalstu pienākums ir arī pielāgot flotes lielumu pieejamajām zvejniecības iespējām gan attiecībā uz maziem, gan lieliem kuģiem.
+<P>
+Ļaujiet man uzsvērt, ka Komisija tiešām atzīst īpašos apstākļus mazajām flotēm, precīzāk, kuģiem, kuru garums nepārsniedz 12 metrus un kuri neizmanto velkamus zvejas rīkus. Šai flotes daļai Eiropas Zivsaimniecības fonds nodrošina ļoti labvēlīgu finanšu sistēmu, kas ļauj dalībvalstīm pieņemt pasākumus, lai to aizsargātu.
+<P>
+Tomēr es gribētu norādīt, ka, pamatojoties uz manā rīcībā esošo informāciju par kuģiem, kuru garums ir līdz 10 metriem Apvienotajā Karalistē, ir pazīmes, ka šī flotes nozare pēdējā laikā ir attīstījusi tādu nozvejas jaudu, kas ir krietni lielāka par tām zvejniecības iespējām, kādas tai tradicionāli tika piešķirtas. Šīs problēmas risinājums ir Apvienotās Karalistes iestāžu rokās.
+<SPEAKER ID="382" NAME="Sharon Bowles" AFFILIATION="ALDE">
+Es domāju, ka daudz kas no tā varbūt saskan ar manām aizdomām. Bet varbūt jūs varētu atrisināt vēl vienu manu mazu problēmu. Ik pa laikam man patiesībā ir teikts, ka mencas, kas uzturas Lamanša šaurumā, netiek oficiāli atzītas par vietējiem krājumiem.
+<P>
+Ja tā tas ir, tad Anglijas dienvidaustrumu krasta zvejnieki kļūs pat vēl vairāk aizkaitināti par to, ka viņiem ir teikts, ka viņi nevar zvejot mencas, kuru teorētiski nav, kaut arī patiesībā krājumi tur ir diezgan bagātīgi.
+<P>
+Vai jūs man varētu atrisināt šo jautājumu un informēt, cik lielā mērā mencu suga Lamanša šaurumā ir ņemta vērā pēdējos ES statistikas datos? Es saprotu, ka jūs varbūt vēl nevarat sniegt visu šo informāciju, tādēļ es pieņemšu rakstisku atbildi, ja nepieciešams.
+<SPEAKER ID="383" NAME="Joe Borg">
+Komisijas loceklis. - Manā rīcībā nav skaitļu, bet es noteikti tos atradīšu un sniegšu jums rakstisku informāciju.
+<P>
+Attiecībā uz mencām es gribētu uzsvērt, ka mēs pašlaik no jauna izskatām mencu atjaunošanas plānu, kas aptver lielu jūras daļu apkārt Apvienotajai Karalistei.
+<P>
+Es iesniedzu priekšlikumu jaunam mencu atjaunošanas plānam Padomē pagājušajā nedēļā, kad mēs sākotnēji apmainījāmies viedokļiem par plānu, kurā ir paredzēts iekļaut arī Īrijas jūru.
+<P>
+Tātad mēs turpmāk paplašinām mencu atjaunošanas plāna platību. Tomēr mēs mēģinām to precīzāk pieskaņot, lai tas jūtīgāk reaģētu attiecībā uz konkrētām reālām situācijām dažādos ūdeņos, tātad, ja Kopienas ūdeņos ir īpaša teritorija, kurā mencu krājumi ir lielāki, noteikti pasākumi var tikt veikti. Citās teritorijās, kur mencu krājumi ir daudz sliktākā stāvoklī, acīmredzami ir vajadzīgi stingrāki pasākumi, lai dotu iespēju krājumiem atjaunoties.
+<P>
+Vispār mencu krājumi ir ļoti sliktā stāvoklī. Es domāju, ka tie ir vieni no vissliktākajiem mirstības ziņā, un tādēļ ir vajadzīgi ļoti stingri pasākumi, lai dotu iespēju šiem ļoti vērtīgajiem krājumiem atjaunoties.
+<SPEAKER ID="384" NAME="Priekšsēdētājs">
+
+<P>
+Temats: Ekspluatācijas pārtraukšanas programma vienai trešdaļai no Īrijas sīgu nozares.
+<P>
+Vai Komisija var nākt klajā ar visaptverošu paziņojumu, iezīmējot to, kā attīstās ekspluatācijas pārtraukšanas programma vienai trešdaļai no sīgu nozares Īrijā EUR 60 miljonu vērtībā?
+<SPEAKER ID="385" NAME="Joe Borg">
+Komisijas loceklis. - Priekšsēdētāja kungs, es gribētu pateikties cienījamam deputātam S. Ó Neachtain par viņa jautājumu, kas dod man iespēju pievērsties jautājumam par zvejniecības kuģu ekspluatācijas pārtraukšanu.
+<P>
+Vēstulē, kas datēta ar 2007. gada 6. augustu, Īrijas iestādes paziņoja Komisijai par valsts atbalsta shēmu "Zvejas intensitātes pielāgošana”. Šī shēma paredz ekspluatācijas pārtraukšanu kuģiem, kas reģistrēti Īrijas flotes , daudzfunkcionālajā vai rāmju traļa segmentā un kuru mērķis ir galvenokārt sīgu krājumi, lai gan ietverti ir arī kuģi, kuru mērķis ir pelaģisko sugu un čaulgliemju krājumi. Kopējais valsts budžets šai shēmai ir EUR 66 miljoni. Komisija apstiprināja minēto shēmu saskaņā ar valsts atbalsta noteikumiem 2007. gada 13. novembrī. Īrijas shēma paredz, ka valsts atbalsts var tikt piešķirts līdz 2009. gada 1. oktobrim. Tomēr saskaņā ar Īrijas iestādēm pieteikumu iesniegšanas beigu termiņš saskaņā ar shēmu ir 2008. gada 30. aprīlis, pēc šī termiņa pieteikšanās līmenis shēmai būs skaidrāks.
+<P>
+Komisija atzinīgi vērtē to iniciatīvu, ko Īrija ir uzņēmusies, lai mēģinātu samazināt savas zvejas flotes jaudu ar mērķi samazināt spiedienu uz pašreizējiem zivju krājumiem. Zvejas jaudas piemērošana zvejniecības iespējām ir kopējās zivsaimniecības politikas galvenais pīlārs. Turklāt Īrijas shēma piešķir prioritāti to kuģu ekspluatācijas pārtraukšanai, kuru mērķis ir jūtīgie sīgu krājumi, dodot iespēju kuģu īpašniekiem, kas jau saskaras ar samazinātām kvotām, augstākām degvielas izmaksām utt., atstāt šo jomu. Palikušajiem zvejniecības darbiniekiem būtu jāsaņem labums no pievilcīgākiem ieņēmumiem.
+<SPEAKER ID="386" NAME="Seán Ó Neachtain" AFFILIATION="UEN">
+(GA) Priekšsēdētāja kungs, es gribētu pateikties komisāram par viņa atbildi, un es piekrītu, ka ir un bija vajadzība pārtraukt ekspluatēt kuģus zivju nepietiekamā daudzuma dēļ.
+<P>
+Tomēr es gribētu jautāt komisāram, vai Komisijai ir kādi plāni vai priekšlikumi, kas nodrošinās iespēju tiem zvejniecības nozares darbiniekiem, kas ir zaudējuši savas darbavietas, atrast citu karjeru un pēc iespējas palikt līdzīgā darba jomā? Šiem cilvēkiem, kas ir pavadījuši savu dzīvi pie jūras, ir mazas cerības nodrošināt nodarbinātību citā nozarē.
+<SPEAKER ID="387" NAME="Joe Borg">
+Komisijas loceklis. - Attiecībā uz ekspluatācijas pārtraukšanai paredzēto kuģu apkalpes locekļiem es vispirmām kārtām gribētu teikt, ka Eiropas Zivsaimniecības fonds pieļauj palīdzību darbības izbeigšanai, kas saistīta ar ekspluatācijas pārtraukšanu. Tomēr tas atkarīgs no attiecīgās dalībvalsts, vai šis izdevumu postenis tiek iekļauts tās darbības programmā Eiropas Zivsaimniecības fondam. Es saprotu, ka Īrija uzskata, ka valsts labuma saņemšanas shēma nodrošina kompensācijas apkalpēm.
+<P>
+Ņemot vērā iepriekš teikto, neatkarīgi no darbības izbeigšanas, kas saistīta ar ekspluatācijas pārtraukšanu, Eiropas Zivsaimniecības fonds (EZF) arī nodrošina sociālekonomiskās kompensācijas, dažādošanas, pārkvalifikācijas un priekšlaicīgas pensionēšanās iespēju. Tādēļ ir iespējams nodrošināt palīdzību saskaņā ar Eiropas Zivsaimniecības fondu, lai pārkvalificētu apkalpi uz citām, bet tomēr saistītām jomām, sniedzot dažādošanas iespējas, kā arī meklēt alternatīvas darbavietas citās jomās. Vēlreiz es gribētu uzsvērt, ka dalībvalstīm ir jāizstrādā darbības programma.
+<P>
+Komisija apstiprinās darbības programmu, ja tā atbilst Eiropas Zivsaimniecības fonda parametriem, bet patiesās prioritātes, patiesās teritorijas, kas ir noteiktas, ir atkarīgas no attiecīgās dalībvalsts. Komisijai nav tiesības uzstāt, ka dalībvalstīm ir jāizvēlas par labu vienai vai otrai. Ja vien šīs prioritātes saskan ar Eiropas Zivsaimniecības fonda uzdevumiem vai mērķiem, tad mēs tam piekrītam.
+<SPEAKER ID="388" NAME="Priekšsēdētājs">
+Tā kā autors nepiedalās, jautājums Nr. 67 tiek svītrots.
+<SPEAKER ID="389" NAME="Priekšsēdētājs">
+
+<P>
+Temats: Kopējās zivsaimniecības politikas noteikumu nopietni pārkāpumi 2005. gadā
+<P>
+Saskaņā ar Regulu (EK) Nr. 1447/1999 dalībvalstīm ir jāiesniedz Komisijai ikgadēji ziņojumi par jebkādiem kopējās zivsaimniecības politikas (KZP) noteikumu pārkāpumiem un attiecīgiem noteiktiem naudas sodiem. Nesen Komisija publicēja sesto ziņojumu par kopējās zivsaimniecības politikas noteikumu nopietniem pārkāpumiem.
+<P>
+Ziņojumā publicētie dati atklāja, ka pārkāpumu skaits aug, jo noteiktie naudas sodi visā ES samazinās. Konkrēti 2005. gadā tika atzīmēti pārkāpumi par 8,1 % vairāk, un sankciju līmenis samazinājās līdz gandrīz 45 % salīdzinājumā ar 2004. gadu. Nozīmīgas atšķirības ir arī starp dalībvalstīm attiecībā uz apstākļiem, kādos naudas sodi tiek uzlikti, un uz naudas sodu līmeni.
+<P>
+Vai Komisija var pateikt, vai sankciju noteikšanas dažādās valsts sistēmas garantē vienlīdzīgu konkurenci starp Eiropas zvejniekiem? Vai Komisija uzskata, ka būtu piemēroti izveidot saskaņotu sistēmu sankciju noteikšanai par KZP noteikumu nopietniem pārkāpumiem. Kā var stiprināt zvejnieku pārliecību, ka KZP noteikumi tiek piemēroti vienlīdzīgi, lai viņi ievērotu noteikumus par zivju krājumu saglabāšanu?
+<SPEAKER ID="390" NAME="Joe Borg">
+Komisijas loceklis. - Es gribētu pateikties cienījamam deputātam I. Gklavakis par svarīgo jautājumu, ko viņš ir uzdevis, sniedzot man iespēju izteikt savu viedokli par šo nozīmīgo jautājumu, kā arī skart tēmu par reformu, kas tiek gatavota šajā jomā.
+<P>
+Es esmu informēts par būtiskām atšķirībām attiecībā uz dalībvalstu noteiktajām sankcijām par nopietniem pārkāpumiem, un tas noved pie pastāvīgiem trūkumiem pašreizējā kontroles sistēmā.
+<P>
+Kā jūs pareizi norādījāt savā jautājumā, dalībvalstu noteiktie sodi ir nepietiekami bargi, tie nenodrošina īstu stimulu noteikumu ievērošanai. Šeit ir piemērs: naudas sodu vidējais lielums Eiropas Savienībā 2005. gadā bija mazāks par EUR 2 000, naudas sodu lielumi bija no EUR 98 dažās dalībvalstīs līdz EUR 8 876 citās dalībvalstīs.
+<P>
+Ļaujiet man uzsvērt, ka saskaņā ar Kopienas tiesību aktiem valsts iestāžu kompetencē ir nodrošināt to, ka katram kopējās zivsaimniecības politikas nopietnam pārkāpumam tiek noteiktas atbilstīgas turpmākās procedūras un, ja tas ir vajadzīgs, preventīvs sods. Tieši dalībvalstis ir tās, kam ir galvenais pienākums un rīcības brīvība, lai noteiktu summas un piemērotu sankcijas par kopējās zivsaimniecības politikas nopietniem pārkāpumiem. Komisija var tikai pārraudzīt un novērtēt šo procesu.
+<P>
+Ņemot vērā iepriekš teikto, es gribētu jūs informēt, ka, pamatojoties uz analīzi par dalībvalstu ikgadējiem nopietnu pārkāpumu ziņojumiem pēdējo gadu laikā un sevišķi par Revīzijas palātas ziņojumu Nr. 7/2007, Komisija ir nolēmusi sākt kopējās zivsaimniecības politikas kontroles sistēmas reformu, paredzot sankciju harmonizēšanu Kopienas līmenī līdzās ar nopietnu pārkāpumu skaidrāku noteikšanu, lai garantētu vienotību un pārredzamību.
+<P>
+Es esmu pārliecināts, ka šis jaunais kontroles režīms, kas būs vienkāršāks un efektīvāks, nodrošinās vienlīdzīgus konkurences apstākļus Kopienas zvejnieku starpā, stiprinot kopējās zivsaimniecības politikas noteikumu ievērošanu un paplašinot atbilstības kultūru.
+<SPEAKER ID="391" NAME="Ioannis Gklavakis" AFFILIATION="PPE-DE">
+(EL) Priekšsēdētāja kungs, komisār, es esmu īpaši gandarīts par jūsu atbildi. Man ir prieks, ka mums būs vienota pieeja visās ES dalībvalstīs. Es tikai ceru, ka tas tiks piemērots visām nozarēm. Es ceru, ka jūs turpināsiet īstenot šo principu. Ļaujiet man uzsvērt vēl vienu lietu: jo mazāki kļūst jūras zivju krājumi, jo stingrākiem mums jābūt, citādi nākotne būs ļoti drūma.
+<SPEAKER ID="392" NAME="Joe Borg">
+Komisijas loceklis. - Es gribētu pateikties I. Gklavakis par viņa komentāriem.
+<P>
+Es gribētu aicināt Parlamenta deputātus atbalstīt Komisiju šajā kampaņā, lai mēģinātu izveidot sankciju režīma harmonizēšanas pasākumu.
+<P>
+Es tikai pagājušonedēļ pirmoreiz apmainījos ar viedokļiem Padomē par saistītu jomu, proti, cīņu pret nelikumīgu, neziņotu un neregulētu zvejniecību. IEU priekšlikumā mēs mēģinām harmonizēt noteikumus, tā sakot, sankciju režīmu. Kaut arī visas dalībvalstis vienprātīgi piekrīt, ka mums efektīvi ir jācīnās pret nelikumīgu zvejniecību, kad tika apspriestas detaļas par priekšlikuma apjomu, par sankciju saskaņošanu un par to, kā mēs varam sekot, lai kontrolētu nelikumīgi apstrādātu zivju produktu ievešanu, manuprāt, gandrīz vienprātīgi tika meklētas problēmas saistībā ar mūsu priekšlikumu.
+<P>
+Acīmredzot es izskatīšu šo jautājumu ar dalībvalstīm turpmākajos mēnešos. Es paredzu, ka tad, kad mēs nonāksim pie kopējās kontroles regulēšanas, kas arī ietver IEU, runa būs daudz skarbāka. Es ceru, ka Parlaments pilnībā atbalstīs šo priekšlikumu ziņojumā, ko tas ir nodomājis izstrādāt par jauno kontroles priekšlikumu, ko es, cerams, vēlāk šogad iesniegšu kolēģijai pieņemšanai.
+<SPEAKER ID="393" NAME="Priekšsēdētājs">
+Jautājums Nr. 69 tiks atbildēts rakstiski.
+<P>
+Temats: Infekciozā katarālā drudža attīstība Ziemeļeiropā
+<P>
+Divu Beļģijas universitāšu nesen veiktais pētījums norāda uz augsto riska pakāpi, ka infekciozais katarālais drudzis varētu kļūt endēmisks Ziemeļeiropā. Tā kā infekciozā katarālā drudža izplatīšanās ir saistīta ar vīrusa pārnēsātāju kustību un vīrusa celma pastiprināšanos, vai mums nekavējoties nevajadzētu sākt ārkārtas pasākumus, lai aizsteigtos priekšā slimības attīstībai.
+<P>
+Turklāt, tā kā to liellopu un aitu ganāmpulku kopējais skaits, kurus ir skārusi slimība, ir palielinājies no 695 ganāmpulkiem 2006. gadā līdz 6 857 ganāmpulkiem 2007. gadā Beļģijā vien, vai Komisija paziņotu, kādus pasākumus tā gatavojas ieviest pretvīrusu ārstēšanas attīstībai, vakcinēšanas kampaņām un iepriekšminētā finansēšanai?
+<SPEAKER ID="394" NAME="Androula Vassiliou">
+Komisijas locekle. - Es pateicos cienījamai deputātei par jautājumu. Es teiktu, ka Komisija ir labi informēta par nepieredzēto situāciju, ko izraisījusi infekciozā katarālā drudža izplatīšanās vairākās dalībvalstīs pēdējos gados, un tā aktīvi cenšas apkarot šo slimību.
+<P>
+Pagājušajā janvārī Komisijas organizētā konferencē par infekciozā katarālā drudža vakcināciju skaidri iezīmējās, ka vakcinācija ir galvenais, visefektīvākais veterinārais pasākums, lai apkarotu infekciozo katarālo drudzi. Lai sasniegtu Eiropas Savienības saskaņotu pieeju, Komisija ātri izstrādāja pamatnostādnes un kritērijus vakcinācijas plāniem, atstājot dalībvalstīm vajadzīgo elastību, lai pieņemtu vakcinācijas stratēģiju konkrētā situācijā katrā dalībvalstī.
+<P>
+Tad Komisija novērtēja dalībvalstu iesniegtos plānus, apstiprināja tos un nodrošināja pirmo finanšu iemaksu līdz EUR 64 miljoniem no EUR 130 miljoniem, kas paredzēti visam veicamajam uzdevumam kopumā. Visas šīs darbības parāda to, kādu svarīgu nozīmi Komisija piešķir vakcinācijai.
+<P>
+Kopiena arī atbalsta vairākas infekciozā katarālā drudža pētniecības programmas. Saskaņā ar piekto un sesto pamatprogrammu divi īpaši projekti bija veltīti drošas, iedarbīgas infekciozā katarālā drudža vakcinācijas stratēģijas attīstībai. ES ieguldījums bija attiecīgi EUR 1.7 miljoni un EUR 804 000. Šie pasākumi turpināsies septītajā pamatprogrammā. Tomēr pašlaik zinātnieki neuzskata, ka pretvīrusa ārstēšanas attīstība efektīvi samazinātu zaudējumus, ko izraisījusi šī slimība.
+<SPEAKER ID="395" NAME="Giovanna Corda" AFFILIATION="PSE">
+(FR) Komisāre, vispirmām kārtām es zinu, ka esmu pirmā, kas jums šodien uzdod mutisku jautājumu. Es ceru, ka jūs esat tikpat iepriecināta, cik es esmu, atrodoties šodien šajā palātā. Es tikai gribēju izdarīt īsu atkāpi.
+<P>
+Jūs esat sniegusi mums plašu informāciju, tomēr saskaņā ar nesen apkopotajiem datiem Beniluksa valstīs un Vācijā ar drudzi inficēto ganāmpulku skaits ir palielinājies 25 reizes gadā, un tas ir būtiski.
+<P>
+Es gribētu pieminēt situāciju Beļģijā, jo acīmredzami tā ir vieta, kur es strādāju. Gandrīz 7 000 ganāmpulkus ir skārusi infekcija. Tādēļ tas ļoti nozīmīgi ietekmē zemniekus finansiāli.
+<SPEAKER ID="396" NAME="Androula Vassiliou">
+Komisijas locekle. - Mēs uzskatām, ka šī slimība izplatīsies visā Eiropā 2008. gadā. Tādēļ Komisija veic ļoti stingrus pasākumus, lai apturētu slimības izplatīšanos, un, kā es jau teicu, labākais veids, kā to apkarot, ir vakcinācija. Mēs esam izdevuši un izdodam diezgan daudz naudas, lai palīdzētu dalībvalstīm attiecībā uz vakcīnām un vakcināciju.
+<SPEAKER ID="397" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Priekšsēdētāja kungs, es gribētu teikt komisārei: infekciozais katarālais drudzis ir ātri izplatījies visā Eiropas Savienībā, un jūs teicāt, ka vakcinācija ir labākais veids, bet vai Komisija, pat šajā posmā, neuzskatītu, ka ikvienā teritorijā, ko līdz šim šī slimība nav skārusi, būtu atļauts aizliegt dzīvnieku ievešanu savā reģionā vai teritorijā, ja ir pierādīts, ka ganāmpulkam ir šī slimība - kur tas ir ticis apstiprināts? Tā noteikti būtu saprātīga rīcība, ja cilvēki pat brīvprātīgi neievestu no teritorijas, kuru ir skārusi infekcija, reģionā, kas nav skarts, jo vīruss izplatās ātri. Jūs sakāt, ka tas ir neizbēgami, bet es domāju, ka mums tas ir jādara.
+<SPEAKER ID="398" NAME="Androula Vassiliou">
+Komisijas locekle. - Kā jūs zināt, mēs esam veikuši pasākumus. Mums ir Itālijas un Francijas, kā arī Portugāles piemēri, kur ir veikti daudzpusēji pasākumi, lai novērstu slimības skarto dzīvnieku ievešanu. Papildu pasākumu rezultātā abas valstis tagad atceļ daudzpusējos pasākumus, ko tās ir veikušas iepriekš. Mēs cieši vērojam situāciju un veiksim turpmākus pasākumus, ja mēs uzskatīsim, ka tā jādara.
+<SPEAKER ID="399" NAME="Priekšsēdētājs">
+Tā kā turpmākie jautājumi attiecas uz vienu un to pašu tematu, tie tiks izskatīti kopā:
+<P>
+Temats: Brazīlijas liellopu gaļa
+<P>
+Kādas ir pašreizējās prasības attiecībā uz Brazīlijas liellopu gaļas ievešanu Eiropas Savienībā?
+<P>
+Temats: Brazīlijas liellopu gaļa
+<P>
+Vai Komisija var nākt klajā ar visaptverošu paziņojumu, kurā noteikta pašreizējā nostāja attiecībā uz nozīmīgiem ierobežojumiem Brazīlijas liellopu gaļas ievešanai Eiropas Savienībā?
+<SPEAKER ID="400" NAME="Androula Vassiliou">
+Komisijas locekle. - Kā jūs zināt, Eiropas Savienībai daudzus gadus ir bijusi ļoti efektīva ievešanas politika par liellopu gaļu, ko ieved no Brazīlijas.
+<P>
+Eiropas Savienībai paredzēto Brazīlijas liellopu gaļu ir atļauts ievest tikai no teritorijām, par kurām uzskata, ka tās ir brīvas no mutes un nagu sērgas. Pašlaik šīs teritorijas atrodas sešos Brazīlijas štatos: Espķrito Santo, Goiįs, Mato Grosso, Minas Gerais, Rio Grande do Sul un Santa Catarina.
+<P>
+Liellopiem, kuru gaļa ir paredzēta ES tirgum, ir jābūt palikušiem atļautajā teritorijā vismaz 90 dienu ilgu uzturēšanās laiku. Turklāt ir noteikts vismaz 40 dienu uzturēšanās laiks saimniecībā pirms nokaušanas.
+<P>
+Lopkautuvē liellopi nevar nonākt saskarsmē ar citiem dzīvniekiem, kas neatbilst iepriekš minētajiem nosacījumiem, un tiem ir jāveic pirmsnāves pārbaude, kurā slimības klīniskās pazīmes nedrīkst parādīties 24 stundu laikā pirms nokaušanas.
+<P>
+Tikai svaiga liellopu gaļa var tikt eksportēta uz Eiropas Savienību, un pašai liellopu gaļai ir jābūt atdalītai no kauliem un izturētai, lai nodrošinātu mutes un nagu sērgas vīrusa dezaktivāciju, ja tas tomēr būtu gaļā, neskatoties uz visiem iepriekš minētajiem pasākumiem.
+<P>
+Tomēr Komisijas pārbaude 2007. gada novembrī atklāja nopietnus neatbilstības gadījumus attiecībā uz saimniecību reģistrāciju, dzīvnieku identifikāciju un pārvietošanās kontroli, un iepriekšējo saistību par attiecīgu korektīvo pasākumu veikšanu neievērošanu no Brazīlijas puses.
+<P>
+Tādēļ Komisija šī gada janvārī pieņēma pasākumus, kas ierobežoja Brazīlijas liellopu gaļas ievešanu, atļaujot ievest tikai no saimniecībām, kas atbilst vairākām papildu prasībām. Šīs papildu prasības ietver visu dzīvnieku pilnu identifikāciju un reģistrāciju Brazīlijas valsts liellopu sistēmā. Turklāt saimniecības ir aktīvi jākontrolē Brazīlijas veterinārajiem dienestiem un regulāri jāpārbauda Brazīlijas iestādēm.
+<SPEAKER ID="401" NAME="Marian Harkin" AFFILIATION="ALDE">
+Es arī izsaku atzinību komisārei.
+<P>
+Varbūt mans jautājums ir mazliet neobjektīvs, jo tam ir vēsturiska perspektīva. Bet no jūsu priekšteča, komisāra M. Kyprianou es saņēmu atbildi attiecībā uz pārtikas un veterināro ziņojumu apmēram pirms sešiem mēnešiem. Viņa atbilde bija, ka ziņojuma sākotnējie secinājumi nepamato tūlītēju ES politikas maiņu attiecībā uz Brazīliju. Burtiski divus vai trīs mēnešus pirms aizlieguma noteikšanas pārtikas un veterinārās nozares amatpersonas neatlaidīgi apgalvoja Lauksaimniecības komitejā un citur, ka problēmas patiešām nebija nozīmīgas. Tomēr divu vai trīs mēnešu laikā, aizliegums tika noteikts, un tagad mēs ievedam no saimniecībām, kuru daudzums ir 1 % no sākotnējā.
+<P>
+Mans jautājums ir: vai bija vajadzīgs Īrijas Zemnieku asociācijas ziņojums, lai mudinātu Pārtikas un veterināro biroju daudz ciešāk pievērsties situācijai, un vai tas bija vajadzīgs, lai liktu Komisijai rīkoties?
+<SPEAKER ID="402" NAME="Brian Crowley" AFFILIATION="UEN">
+Es gribētu pateikties komisārei par viņas atbildi un izteikt atzinību par viņas pirmo uzstāšanos jautājumu izskatīšanas laikā Eiropas Parlamentā. Acīmredzami jūs esat ļoti nodarbināta un iepriecināta par atsaucību, ko jūs saņemat.
+<P>
+Mans papildinājums attiecas uz to, ka jūsu uzklausīšanā Parlamenta Vides, sabiedrības veselības un pārtikas nekaitīguma komitejā jūs izteicāt viedokli, ka pārtikas drošība pieder pie mūsu galvenajām bažām, bet mums arī jābūt godīgiem pret mūsu tirdzniecības partneriem.
+<P>
+Tomēr es uzskatu, ka mums ir jābūt godīgiem ne tikai pret noteikumiem, kas attiecas uz Eiropas zemniekiem un pārtikas ražotājiem, bet arī uz tiem, kas ieved Eiropas Savienībā, un ir jāpiemēro tie paši noteikumi. Kā mēs garantēsim, ka pārtikas piegāde ir droša un atbilst tiem pašiem standartiem, ar kādiem ir jāsaskaras Eiropas ražotājiem, jo sevišķi attiecībā uz liellopu gaļu no Brazīlijas?
+<SPEAKER ID="403" NAME="Androula Vassiliou">
+Komisijas locekle. - Trūkumi attiecībā uz ES prasībām veselības jomā atklājās Komisijas misijas laikā Brazīlijā. Dažiem no šiem trūkumiem Brazīlijas iestādes bija pievērsušās pašas.
+<P>
+Tomēr 2007. gada novembra misijas laikā tika atklāti neatbilstības gadījumi, it īpaši saistībā ar saimniecību reģistrēšanu, dzīvnieku identifikāciju un pārvietošanās kontroli, kā arī atklājās to iepriekšējo saistību neievērošana, kas attiecas uz korektīviem pasākumiem.
+<P>
+Pēc tam, kā es jau teicu, tika pieņemtas papildu prasības, un pašlaik mēs pārliecināmies, vai Brazīlija savas saistības patiešām ievēro. Pašlaik Komisijas eksperti piedāvā praktisko apmācību pašiem inspektoriem, bet viņi arī nodrošina, ka apmācītie inspektori ir zemnieku saimniecībās un savukārt apmāca savus pašu cilvēkus, tādējādi katrai dalībvalstij, kas ieved liellopu gaļu no Brazīlijas, ir garantijas, ka tur ir labi apmācīti cilvēki, lai uzraudzītu mūsu prasību un noteikumu stingru ievērošanu.
+<SPEAKER ID="404" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+Esiet sveicināta, komisāre! Jūsu pēdējais paziņojums mani mazliet sarauc, jo Īrijas zemnieku, Eiropas zemnieku pieredze, kad tos ir apmeklējuši Komisijas inspektori, ir tāda, ka šie apmeklējumi ir nevis liela palīdzība, bet pārbaude un kontrole. Man radās iespaids, ka mūsu amatpersonas Komisijas līmenī ir sadevušās rokās ar brazīliešiem un palīdz tiem izpildīt standartus. Es vēlētos, lai tas pats notiktu arī attiecībā uz mūsu pašu ražotājiem.
+<P>
+Mans otrais jautājums ir: kādus pasākumus Brazīlija veic, lai uzlabotu ražību, un vai jūs varat paredzēt, kad notiks tas, ko, es esmu pārliecināta, brazīlieši vēlas, proti, atgriešanās pie tā liellopu gaļas daudzuma, kādu viņi iepriekš sūtīja uz Eiropu? Es zinu, ka jūs tikko esat sākusi šo darbu, bet vai jūs uzskatāt, ka viņu standarti, ja kādreiz viņi tos sasniegs, ir vienlīdzīgi ar mūsējiem, ņemot vērā, ka tie prasa tikai 90 dienas un 40 dienas? Mēs pieliekam birkas no dzimšanas līdz pat nokaušanai.
+<SPEAKER ID="405" NAME="Elspeth Attwooll" AFFILIATION="ALDE">
+Es arī izsaku atzinību, komisāre. Ņemot vērā to, ko jūs teicāt par pēdējo Pārtikas un veterinārā biroja ziņojumu un par problēmām saistībā ar nepaziņotiem slimības uzliesmojumiem, kad galvenie trūkumi ir noteikti izsekojamībā un identifikācijā - patiešām sistēmas kļūdas - un to, ka Brazīlijas iestādes, neskatoties uz jūsu īstenotajiem jaunajiem pasākumiem, nevar sniegt garantijas, tas noteikti šķiet maz ticams, ka reģionalizācijas politika mutes un nagu sērgas kontrolei Brazīlijā darbojas un ka tās darbība pat vispār ir iespējama? Vai tas nav maz ticams, komisāre?
+<SPEAKER ID="406" NAME="Androula Vassiliou">
+Komisijas locekle. - Vispirmām kārtām es gribētu apliecināt jums, ka prasības, kuras mēs nosakām ir vienlīdzīgas ar tām, kas noteiktas izvedamajiem produktiem, un Komisijas amatpersonas tagad varbūt apmāca cilvēkus pēc viņu pieprasījuma, lai īstenotu pareizās kontroles un noteikumus, bet es esmu pārliecināta, ka viņi neatteiksies sniegt palīdzību mūsu cilvēkiem. Mēs cenšamies būt taisnīgi, un es esmu pārliecināta, ka galvenā prasība ir mūsu produktu drošība. Reģionalizācija ir piemērota tādā pašā veidā Brazīlijā kā Eiropas Savienībā.
+<SPEAKER ID="407" NAME="Priekšsēdētājs">
+
+<P>
+Temats: Priekšlikums par veselības aprūpi
+<P>
+Lūdzu, vai Komisija varētu izskaidrot priekšlikuma projekta par pārrobežu veselības aprūpi publicēšanas kavēšanos, ņemot vērā politisko prasību izstrādāt tiesību aktus saskaņā ar Eiropas Kopienu Tiesas spriedumiem šajā jomā un doto solījumu, kad veselības aprūpe netika iekļauta Pakalpojumu direktīvā (2006/123/EK)?
+<SPEAKER ID="408" NAME="Androula Vassiliou">
+Komisijas locekle. - Godājamie deputāti, Komisijai ir nodoms reaģēt uz Parlamenta un Padomes lēmumu par veselības aprūpes pakalpojumu neiekļaušanu Pakalpojumu direktīvā 2006. gadā, lai tie būtu jāizskata atsevišķi.
+<P>
+Tas ir Komisijas nodoms iesniegt priekšlikumu, kas kodificēs Eiropas Kopienu Tiesas nolēmumus šajā jomā, tādējādi noskaidrojot pacientu tiesības pārrobežu veselības aprūpes nodrošināšanā, un ierosināt papildu pasākumus, lai nodrošinātu augstas kvalitātes pārrobežu veselības aprūpes pieejamību.
+<P>
+Zināmas bažas, kas tika paustas par šīs lietas dažādiem aspektiem pēdējo dažu mēnešu laikā, izraisīja turpmākas pārdomas un konsultācijas. Tomēr priekšlikuma projekts direktīvai par pacientu tiesību piemērošanu pārrobežu veselības aprūpē ir tagad nodots izskatīšanai, lai to pieņemtu kolēģija pirms 2008. gada jūnija beigām.
+<P>
+Mūsu mērķis ir izvirzīt priekšlikumu ar maksimālo uzdevumu palīdzēt pilsoņiem izmantot savas tiesības, kuras tiem ir piešķīrusi Eiropas Kopienu Tiesa, nevis radīt vēl vairāk problēmu. Šis priekšlikums koncentrēsies uz pacientu tiesībām un plašāku piekļuvi veselības aprūpei. Priekšlikums būs daļa no sociālās paketes, ko ir jāsāk izstrādāt sadarbībā ar komisāru V. Špidla, veicinot piekļuvi, izvēli un solidaritāti visiem ES pilsoņiem.
+<P>
+Pacienti būs galvenais uzsvars šajā iniciatīvā, un tas ir saskaņā ar Komisijas nozīmīgo, uz pilsoņiem orientēto pieeju.
+<P>
+Priekšlikums neradīs jaunas finanšu tiesības pacientiem. Pacientu tiesības, ko noteikusi Tiesa, ir saistītas ar finanšu tiesībām, ko jau ir noteikušas dalībvalstis. Šis priekšlikums vienkārši izveido pamatu, lai pacienti efektīvi izmantotu šīs tiesības ar lielāku juridisko noteiktību, pārredzamību un uzlabotu paredzamību.
+<P>
+Visbeidzot, minētais priekšlikums arī izveidos tiesisko un administratīvo pamatu uzlabotai un atjaunotai sadarbībai dalībvalstu starpā dažās uz nākotni vērstās, ar veselības aprūpi saistītās jomās, kurās ES pievienotajai vērtībai un sinerģijai būs, cerams, izšķiroša nozīme.
+<SPEAKER ID="409" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Es pievienojos sveicieniem komisārei A. Vassiliou šeit viņas pirmajā jautājumu saņemšanas dienā. Ir patīkami, ka viņa ir pie mums. Paldies par jūsu atbildi.
+<P>
+Veselības aprūpe tika izņemta no Pakalpojumu direktīvas sākotnēji ļoti labu iemeslu dēļ, proti, mēs gribējām veselības pakalpojumu direktīvu. Mēs jau esam gaidījuši daudz par ilgu. Man nav pietiekoši skaidrs, ko nozīmē šī pārbīdīšana Komisijā no viena galda uz otru. Vai tās ir bažas par pārmērīgu privatizāciju? Vai tās ir bažas par to, ka mēs varētu negatīvi ietekmēt veselības pakalpojumus dalībvalstīs? Šajā jomā jau ir svarīgas pretrunas pilnvaru apjomā un atšķirības standartos, un saskaņā ar vienoto tirgu pacientiem ir tiesības, kā ir lēmusi EKT, ceļot, lai saņemtu ārstēšanu, ja viņi nevar saņemt saprātīgu piekļuvi ārstēšanai savā dalībvalstī. Kas tieši ir izraisījis termiņa kavēšanu, komisāre?
+<SPEAKER ID="410" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+Jūs varbūt nevarat pievērsties šim jautājumam tūlīt, bet varbūt jūs varētu vēlāk pie manis atgriezties.
+<P>
+Ir daži komentāri saistībā ar Lisabonas līgumu par pretenzijām, ko izvirzīja "nē” kampaņa Īrijā, proti, ka Līgums stimulēs veselības aprūpes privatizāciju un pakalpojumu tirdzniecību. Es atzinīgi vērtētu to, ja jūs atgrieztos pie manis ar skaidrojumu par šo punktu.
+<SPEAKER ID="411" NAME="Androula Vassiliou">
+Komisijas locekle. - Vienīgais, ko es pašreiz varu teikt, ir, lai mēs koncentrētu visu savu apņēmību virzībai uz priekšu. Nerunāsim par pagātni. Ir lēmums, un es jums apliecinu, ka jūnijā mums būs priekšlikums kolēģijas priekšā. Lūdzu, pieņemiet no manis to, ka mēs jūnijā virzīsimies uz priekšu.
+<P>
+Attiecībā uz privatizāciju ir lielas bažas, bet mana atbilde ir, ka šīs bažas ir nepamatotas. Priekšlikums koncentrējas uz pacientu vajadzībām. Tas nodrošina, ka, ja pacienti ceļo, lai saņemtu aprūpi, tā ir droša un augstas kvalitātes aprūpe. Tas arī noskaidro, pie kādiem nosacījumiem pilsoņi var saņemt pārrobežu veselības aprūpi, ko atmaksā viņu valsts veselības sistēma vai veselības aprūpes nodrošinātājs, un kad viņi nevar. Šie atmaksāšanas nosacījumi nav jauni, bet ir Eiropas Kopienu Tiesas nolēmumu kodifikācija.
+<P>
+Šis priekšlikums nerada iespējas saņemt tādu veselības aprūpi ārzemēs, kāda nav jau noteikta Tiesas nolēmumos. Šis priekšlikums tiecas nodrošināt, ka pārrobežu veselības aprūpe notiek skaidrā sistēmā, kas domāta drošai, augstas kvalitātes un efektīvai veselības aprūpei visā Eiropas Savienībā. Mērķis ir nodrošināt skaidru sistēmu.
+<SPEAKER ID="412" NAME="Priekšsēdētājs">
+Uz jautājumiem, uz kuriem netika atbildēts laika trūkuma dēļ, sniegs rakstiskas atbildes (sk.Pielikumu).
+<SPEAKER ID="413" NAME="Priekšsēdētājs">
+Līdz ar to jautājumu izskatīšanas laiks ir noslēdzies.
+<P>
+(Sēdi pārtrauca plkst. 20.00 un atsāka darbu plkst. 21.00)

@@ -1,0 +1,16 @@
+<CHAPTER ID="006">
+Szavazások órája
+<SPEAKER ID="095" NAME="Elnök">
+A következő napirendi pont a szavazás.
+<P>
+(Az eredményekért és a szavazásra vonatkozó egyéb részletekért lásd a jegyzőkönyvet)
+<P>
+*
+<SPEAKER ID="096" NAME="Nigel Farage" AFFILIATION="EFD">
+Elnök asszony, az eljárási szabályzat 110. cikke szerint a Bizottság bármikor engedélyt kérhet egy sürgős kérdéssel kapcsolatos nyilatkozat megtételére. Az elmúlt éjjel érkezett a gazdasági zavarokat okozó, de nem meglepő hír, hogy egy újabb ország kényszerült térdre: Portugáliának is mentőcsomagra lesz szüksége. Megkérdezhetem, hogy a Bizottság kérte-e, hogy ma nyilatkozatot tehessen Portugáliáról? Ha nem, akkor a biztosan közölni tudná velünk, hogy miért nem? Úgy gondolja, hogy a portugál mentőcsomag nem olyan fontos, hogy a Parlamentben meg kellene vitatni, vagy egyszerűen a homokba dugja a fejét?
+<SPEAKER ID="097" NAME="Elnök">
+Farage úr, a mondandója világos, és biztos vagyok benne, hogy Šefčovič biztos úr is hallotta. Minden intézménynek joga van válaszolni. A felvetését hallottuk, meglátjuk, mi lesz a reakció.
+<SPEAKER ID="098" NAME="Nigel Farage" AFFILIATION="EFD">
+Elnök asszony, megkérdezhetem, hogy mi az ön válasza? Igen vagy nem? Kérte öntől a Bizottság, hogy sürgős nyilatkozatot tehessen a portugál helyzetről, vagy nem?
+<SPEAKER ID="099" NAME="Elnök">
+Farage úr, erről a Bizottság dönt, önt meghallgattuk. Most folytatjuk a szavazásokat.

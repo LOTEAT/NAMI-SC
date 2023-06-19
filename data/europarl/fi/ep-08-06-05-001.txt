@@ -1,0 +1,10 @@
+<CHAPTER ID="001">
+Istunnon avaaminen
+<P>
+(Istunto avattiin klo 9.00.)
+<P>
+°
+<SPEAKER ID="005" NAME="Monica Frassoni" AFFILIATION="Verts/ALE">
+(IT) Arvoisa puhemies, hyvät naiset ja herrat, kuten tiedätte, ECURIE-järjestelmä - Euroopan yhteisön turvallisuusjärjestelmä - käynnistyi eilen slovenialaisessa ydinvoimalaitoksessa tapahtuneen määrittämättömän häiriön vuoksi. Hälytys peruutettiin myöhemmin, mutta epäilyt häiriön todellisesta luonteesta ja tämän erittäin epätavallisen hälytyksen syistä jatkuvat. Siksi haluamme käyttää parhaalla mahdollisella tavalla hyväksi sen, että komissio on tänään läsnä ja että Slovenia toimii puheenjohtajavaltiona, ja kehottaa puheenjohtajavaltiota ja komissiota kertomaan Euroopan parlamentille ja siten suurelle yleisölle tämän äärimmäisen epätavallisen menettelyn todelliset syyt. Arvoisa puhemies, olisin kiitollinen, jos voisitte toteuttaa tämän pyynnön.
+<SPEAKER ID="006" NAME="Puhemies">
+(DE) Uskon, että puheenjohtajavaltio Slovenia, jonka edustaja on tänään täällä paikalla, palaa tähän pyyntöön.

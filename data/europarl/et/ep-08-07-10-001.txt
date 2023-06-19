@@ -1,0 +1,14 @@
+<CHAPTER ID="001">
+Istungi algus
+<P>
+(Istung algas kell 9.00)
+<SPEAKER ID="005" NAME="Daniel Cohn-Bendit" AFFILIATION="Verts/ALE">
+- (FR) Lugupeetud juhataja, ma tahaksin midagi kontrollida. Ilmselt otsustati Prantsusmaa eesistumise nõudmisel kontrollida fotografeerimist president Sarkozy kõne ajal.
+<P>
+Ma tahaksin teada, kes selle otsuse vastu võttis, kes nõudis seda ja kes on vastutav fotografeerimise eest Euroopa Parlamendis. Kas Euroopa Parlament või eesistujariik Prantsusmaa? Ma tahaksin saada vastuse enne istungi algust.
+<SPEAKER ID="006" NAME="Juhataja">
+Härra Cohn-Bendit, te saate vastuse enne istungi algust, aga praegu, kui te vastu pole, me jätkame hääletamisega.
+<SPEAKER ID="007" NAME="Astrid Lulling" AFFILIATION="PPE-DE">
+- (FR) Lugupeetud juhataja, parlamendi kvestorina tahaksin juhtida teie tähelepanu asjaolule, et märulipolitsei on ühest küljest blokeerinud tee parlamendi sissepääsu juurde. Nad ei luba ametnike autodel siseneda. Kui mõned parlamendiliikmed hilinevad seetõttu, et nad peavad ringi minema, ei tohiks neid karistada, kui nad ei saa hääletamisel osaleda.
+<SPEAKER ID="008" NAME="Juhataja">
+Proua Lulling, kahtlemata võetakse seda arvesse, kui mõnel parlamendiliikmel on raskusi parlamenti pääsemisega.

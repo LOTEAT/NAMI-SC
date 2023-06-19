@@ -1,0 +1,12 @@
+<CHAPTER ID="005-06">
+6. Interoperacyjność usług w zakresie interaktywnej telewizji cyfrowej (głosowanie) 
+<P>
+- Sprawozdanie: Henri Weber
+<P>
+Przed głosowaniem:
+<SPEAKER ID="090" NAME="Henri Weber  " AFFILIATION="PSE">
+sprawozdawca. - (FR) Panie przewodniczący, panie i panowie! Biorąc pod uwagę coraz większą jednolitość telewizji, usług telekomunikacyjnych oraz Internetu, należy zwrócić uwagę, iż telewizja stała się medium interaktywnym, a widzowie przekształcili się w "aktorów”.
+<P>
+Widz jest dzisiaj w stanie śledzić zawartość, wybierać programy oraz bezpośrednio reagować na nadawane materiały. Potrzebna jest do tego jednak coraz większa liczba urządzeń. W celu zwiększenia użyteczności przedmiotowego sprzętu oraz, aby uniknąć dodatkowych kosztów dla konsumenta, te urządzenia muszą być w stanie komunikować się ze sobą i działać razem. Nazywa się to "interoperacyjność”.
+<P>
+Prezentowane dzisiaj sprawozdanie ma na celu promowanie interoperacyjności w Unii Europejskiej. Jego zadaniem jest również zapewnienie poszanowania dla pluralizmu informacji oraz różnorodności materiałów w nowej erze technologicznej, która wymaga prowadzenia przez organy władzy publicznej aktywnej, stanowczej i czujnej polityki na szczeblu krajowym i europejskim.

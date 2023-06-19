@@ -1,0 +1,374 @@
+<CHAPTER ID="013">
+Výročná správa ECB za rok 2009 - Najnovší vývoj týkajúci sa medzinárodných výmenných kurzov (rozprava) 
+<SPEAKER ID="030" NAME="Predseda">
+Ďalším bodom programu je spoločná rozprava na tieto témy:
+<P>
+správa pána Balza v mene Výboru pre hospodárske a menové veci o výročnej správe ECB za rok 2009 a
+<P>
+vyhlásenie Komisie o najnovšom vývoji týkajúcom sa medzinárodných výmenných kurzov.
+<SPEAKER ID="031" NAME="Burkhard Balz" LANGUAGE="DE">
+Vážený pán predseda, dámy a páni, práve sme všetkých požiadali, aby sa trocha utíšili. Možno by sa niektorí kolegovia mohli podľa toho správať.
+<P>
+Dámy a páni, moja dnešná správa sa v podstate týka činnosti Európskej centrálnej banky v roku 2009, teda obdobia, v ktorom hospodárskym, finančným a v čoraz väčšej miere aj politickým opatreniam výrazne dominovala hospodárska a finančná kríza. Kríza, ktorá sa začala ako výlučne finančná kríza, sa rozšírila a zasiahla v druhej vlne celé reálne hospodárstvo. Na celom svete poklesla hospodárska činnosť a pokles daňových príjmov a nárast sociálnych výdavkov v dôsledku krízy viedli k rastúcemu zadlženiu verejných rozpočtov. K zvýšeniu úrovne zadlženia prispeli aj ďalšie opatrenia na stimulovanie hospodárstva. V dôsledku týchto zvýšených deficitov prijali vlády v celej Európskej únii rozsiahle úsporné balíky. Tieto balíky boli podľa môjho názoru potrebné a v niektorých prípadoch sa mali prijať dokonca už skôr. Obmedzili však schopnosť vlád reagovať.
+<P>
+Hoci v druhej polovici roka 2009 sa začala hospodárska činnosť zotavovať, hrozilo, že finančná a hospodárska kríza v roku 2010 prerastie do tretej vlny a do krízy verejného dlhu. Toto nebezpečenstvo podľa môjho názoru ešte nebolo odvrátené. V uplynulých dňoch nám prípad Írska veľmi jasne pripomenul, že problém nadmerného zadlženia v členských štátoch nie je v žiadnom prípade vyriešený, a preto tiež súhlasím s pánom predsedom Van Rompuyom: zlyhanie eura je neprijateľné. Taká je však súčasná situácia. Moja správa sa však zaoberá rokom 2009, o ktorom môžeme povedať, že ECB reagovala na problémy primerane, ba v skutočnosti dokonca dobre. Jej opatrenia sa v širokom meradle ukázali ako úspešné a zachránili pred kolapsom veľa finančných inštitúcií. Lenže finančné inštitúcie neposkytli vždy likviditu v plnom rozsahu reálnemu hospodárstvu, čo viedlo k tomu, že regeneračný potenciál týchto opatrení sa nemohol úplne rozvinúť.
+<P>
+Keďže súčasťou týchto opatrení boli mimoriadne kroky, teraz je veľmi dôležité starostlivo naplánovať a opatrne uskutočniť ich odbúravanie. Problémy v Grécku a iných krajinách eurozóny môžu mať čiastočne pôvod v samotných týchto krajinách, ale poukázali aj na zásadné problémy v rámci hospodárskej a menovej únie. Porušili sa zásady Paktu stability a rastu. Teraz zažívame dôsledky a to sa týka aj súčasnej situácie v Írsku. Toto porušovanie musíme odstrániť a ďalšiemu porušovaniu musíme zabrániť. Pakt stability a rastu sa musí posilniť a hospodárska a menová únia sa musí lepšie vyvážiť.
+<P>
+Nedostatočná koordinácia hospodárskych politík v rámci menovej únie umožnila v minulosti výraznú hospodársku nerovnováhu medzi krajinami eurozóny a spôsobila, že eurozóna nemala vopred definovaný mechanizmus krízového manažmentu. Ak chce eurozóna predísť novej kríze, bude musieť túto nerovnováhu vyriešiť. Spolu s prepracovaním rámca finančnej politiky môže však štrukturálny reformný proces v konečnom dôsledku eurozónu posilniť. Dôležitým aspektom nového hospodárskeho riadenia bude aj otázka nezávislosti Európskej centrálnej banky predovšetkým v súvislosti s novovytvoreným Európskym výborom pre systémové riziká. Európsky parlament bude preto brať svoju povinnosť kontrolovať činnosť ECB veľmi vážne.
+<P>
+Som hlboko presvedčený o tom, že Európska únia a eurozóna nájdu východisko z tejto krízy a že z nej môžu vyjsť dokonca posilnené. V nadchádzajúcich mesiacoch sa však musíme dôkladne poučiť z toho, čo sa stalo. Je to veľká úloha, ale Európska únia vo svojich dejinách doteraz vždy preukázala, že sa rozvíja najlepšie vtedy, keď musí prekonávať problémy. Táto kríza preto predstavuje aj príležitosť, ktorú by sme mali využiť.
+<P>
+Na záver by som chcel poďakovať všetkým tieňovým spravodajcom z ostatných skupín za mimoriadne príjemnú a konštruktívnu spoluprácu na tejto správe. Myslím si, že to nie je samozrejmosť, ale v tomto prípade si to zaslúži osobitné ocenenie.
+<SPEAKER ID="032" NAME="Jean-Claude Trichet" LANGUAGE="FR">
+Vážený pán predseda, pán Balz, dámy a páni, mám tú česť predložiť vám výročnú správu Európskej centrálnej banky za rok 2009, ako stanovuje zmluva. Vzhľadom na to, že harmonogram bol trocha zmenený najmä v dôsledku európskych volieb, v marci som pred vami vystúpil s predošlou výročnou správou. V Parlamente teda vystupujem druhýkrát v tomto roku.
+<P>
+Predovšetkým mi dovoľte prejaviť radosť v súvislosti s podporou, ktorú opäť vyjadril návrh uznesenia Európskeho parlamentu v prospech pravidelných vypočutí vo Výbore pre hospodárske a menové veci a všeobecnejšie v prospech zachovania úzkych vzťahov s Európskou centrálnou bankou. Vítam to tým viac, že Európsky parlament tento rok veľmi presvedčivo prejavil ochotu a schopnosť presadzovať prednostné európske záujmy, a to najmä v súvislosti s balíkom finančného dohľadu.
+<P>
+(DE) Chcel by som začať tým, že vám predložím stručný prehľad opatrení menovej politiky, ktoré prijala Európska centrálna banka v priebehu finančnej a hospodárskej krízy. Odhliadnuc od krízového obdobia by som chcel tiež krátko zhodnotiť prvých dvanásť rokov existencie ECB. Napokon by som sa chcel zamerať na najnaliehavejšie úlohy, ktoré nás čakajú v roku 2011.
+<P>
+Vážený pán predseda, dovoľte mi, aby som najprv spomenul opatrenia prijaté počas krízy.
+<P>
+Rok 2009 bol pre menovú politiku ECB najnáročnejším rokom. Začalo sa to vážnym hospodárskym poklesom na celom svete po vypuknutí finančnej krízy na jeseň roku 2008. V tejto atmosfére tlmených inflačných tlakov sme pokračovali v politike ďalšieho znižovania kľúčových sadzieb. Celkovo sme v priebehu len siedmich mesiacov, teda od októbra 2008 do mája 2009, znížili hlavnú sadzbu na refinancovanie o 325 bázických bodov. Tým sa naša hlavná sadzba na refinancovanie dostala na úroveň 1 %.
+<P>
+Aby sme zabezpečili, že domácnosti a firmy v eurozóne budú profitovať z týchto najvýhodnejších podmienok financovania, pokračovali sme aj v roku 2009 v našej úverovej podpore bánk eurozóny, ktorá je teraz ešte rozsiahlejšia. Reagovali sme tak na nefunkčné peňažné trhy, ktoré oslabili schopnosť menovej politiky ovplyvňovať vyhliadky na cenovú stabilitu len prostredníctvom rozhodnutí o úrokových sadzbách. Najdôležitejším spomedzi týchto neštandardných opatrení, ako im hovoríme, je poskytovanie likvidity na základe plného prideľovania prostredníctvom nášho refinancovania s bankami eurozóny na základe kvalitného kolaterálu a hlavnej sadzby na refinancovanie, platnej v období, keď viaceré lehoty splatnosti výrazne prekračovali rozsah týždňových operácií. V roku 2009 sme tiež predĺžili lehotu splatnosti nášho dlhodobejšieho refinancovania na jeden rok. Boli to, samozrejme, mimoriadne dôležité rozhodnutia.
+<P>
+Ako ste správne zdôraznili v návrhu uznesenia o výročnej správe ECB, táto rozšírená podpora úverov úspešne zabránila depresii alebo oveľa hlbšej recesii, keby sa boli vyskytli ďalšie nepravidelnosti a tlaky. Chcel by som zdôrazniť, že všetky naše kroky boli úplne v súlade s naším mandátom na zabezpečenie cenovej stability v strednodobom horizonte v celej eurozóne. Skutočnosť, že sme dokázali dôveryhodne splniť svoj mandát, sa odráža v priaznivom inflačnom výhľade a dobre podložených inflačných očakávaniach v eurozóne.
+<P>
+Po určitom zlepšení podmienok na finančnom trhu v priebehu roku 2009 došlo k opätovnému napätiu v mnohých segmentoch trhu s dlhopismi v eurozóne. Keďže hladké fungovanie trhu s dlhopismi je veľmi dôležité pre sprostredkovanie kľúčových úrokových sadzieb ECB, rozhodli sme sa zasiahnuť do trhu s dlhopismi eurozóny s cieľom podporiť obnovu normálnejšej realizácie menovej politiky v hospodárstve. Preto sme zaviedli náš program pre trhy s cennými papiermi. Aby sme zabezpečili, že tento program nebude mať vplyv na našu menovú politiku, stiahli sme všetku likviditu, ktorá bola poskytnutá.
+<P>
+Súhrnne by som chcel zdôrazniť, že všetky neštandardné opatrenia, ktoré sme prijali počas akútneho finančného stresu, sú dočasného charakteru a boli vypracované s tým, že sa zasa odvolajú. Účinnosť niektorých neštandardných opatrení iniciovaných v roku 2009 a na začiatku roku 2010 sa skončila vzhľadom na zlepšenie podmienok na niektorých finančných trhoch a vzhľadom na prebiehajúce zotavovanie hospodárstva eurozóny.
+<P>
+Chcel by som teraz uviesť niekoľko myšlienok týkajúcich sa vývoja eura. Podľa môjho názoru sú zásadné tri prvky.
+<P>
+Po prvé, ECB zabezpečila to, čo sa od nej očakávalo na základe jej mandátu podľa zmluvy, teda cenovú stabilitu. Priemerná inflácia počas uplynulých takmer 12 rokov teda bola na úrovni 1,97 %. To úplne odráža našu definíciu cenovej stability, teda náš cieľ udržať ročnú mieru inflácie v eurozóne v strednodobom horizonte tesne pod úrovňou 2 %. V tomto zmysle fungoval systém eura v priebehu posledných 12 rokov ako kotva stability a dôveryhodnosti a dokázal to aj v nedávnom období napriek náročným podmienkam, ktoré vytvorila svetová finančná kríza.
+<P>
+Po druhé, inflačné očakávania zostali, ako som povedal, pevne zakotvené na úrovniach v súlade s cenovou stabilitou, čo malo priaznivý dosah na dôveryhodnosť menovej politiky ECB.
+<P>
+Po tretie, myslíme si, že tento úspech je založený na úplnej nezávislosti ECB od politického vplyvu, na primárnom mandáte udržiavať cenovú stabilitu a na transparentnej komunikácii, predovšetkým čo sa týka definície cenovej stability. Stratégia ECB, založená na dvoch pilieroch, umožňuje uskutočňovanie súboru predvídavých a strednodobo zameraných opatrení založených na pevnom analytickom rámci. Tento rámec zahŕňa dôkladnú analýzu vývoja v menovej a úverovej oblasti, pričom sa zohľadňuje menový charakter inflácie v strednodobom až dlhodobom horizonte.
+<P>
+Myslíme si, že tento komplexný prístup umožní konzistentné prijímanie rozhodnutí, založené na primeranej informovanosti, ktoré bude zároveň stabilné a zamerané nad rámec krátkodobej volatility.
+<P>
+Čo sa týka vonkajšieho rozmeru eura, chcel by som povedať len to, že naša mena sa etablovala v medzinárodnom kontexte. V roku 2009 predstavovalo euro približne 30 % objemu medzinárodných dlhopisov a zásob celosvetových devízových rezerv.
+<P>
+Ak hovorím o vonkajšom rozmere eura, poviem niekoľko slov aj o súčasných výmenných kurzoch a v súvislosti s tým by som chcel vyzvať na veľkú opatrnosť.
+<P>
+Sú tu dve hlavné otázky. Prvou je vzťah medzi hlavnými plávajúcimi konvertibilnými menami priemyselných krajín, akými sú dolár, euro, jen, libra šterlingov a kanadský dolár. Tieto meny boli plávajúcimi menami od kolapsu systému z Bretton Woods na začiatku 70. rokov minulého storočia. Chcel by som zdôrazniť presvedčenie medzinárodného spoločenstva, že nadmerná volatilita a nekontrolovaný pohyb výmenných kurzov majú negatívny dosah na hospodársku a finančnú stabilitu.
+<P>
+Chcel by som povedať, že ECB oceňuje nedávne vyjadrenia orgánov USA, konkrétne ministra financií USA a prezidenta centrálnej banky, ktorí opätovne potvrdili, že silný dolár vo vzťahu k ostatným hlavným konvertibilným menám je v záujme Spojených štátov. S týmto názorom úplne súhlasím. Dolár, ktorý je dôveryhodný v skupine hlavných mien rozvinutých hospodárstiev, je v záujme Spojených štátov, Európy a celého medzinárodného spoločenstva.
+<P>
+Druhá otázka sa týka mien rýchlo sa rozvíjajúcich hospodárstiev, ktoré majú v súčasnosti prebytky na bežnom účte a výmenné kurzy, ktoré nie sú dostatočne flexibilné. V tejto veci sa medzinárodné spoločenstvo zhodlo na tom - a toto bolo opäť potvrdené minulý týždeň v Kórei a potvrdila to aj Komisia -, že vývoj smerom k systémom výmenných kurzov určených vo väčšej miere trhom, posilnenie stability výmenných kurzov, aby odrážali základné východiská, a neuskutočňovanie konkurenčnej devalvácie mien sú v záujme rýchlo sa rozvíjajúcich hospodárstiev a medzinárodného spoločenstva.
+<P>
+ECB zvykla hovoriť, že niet času na sebauspokojenie. To teraz platí viac než kedykoľvek predtým. Pred nami je množstvo úloh. Všetky relevantné orgány i súkromný sektor musia prevziať plnú zodpovednosť a platí to pre výkonné orgány, centrálne banky, regulačné orgány, orgány dohľadu, súkromný sektor a finančný sektor. Súčasná kríza jasne preukázala najmä to, že realizácia ambicióznych reforiem hospodárskeho riadenia je v záujme krajín eurozóny a tiež eurozóny ako celku.
+<P>
+Návrhy, ktoré predložil pán predseda Van Rompuy o reforme hospodárskeho riadenia EÚ a ktoré schválila Európska rada na stretnutí v októbri 2010, predstavujú zlepšenie súčasného rámca dohľadu na úrovni EÚ a zdá sa, že ich široko prijímajú aj krajiny EÚ, ktoré nie sú zapojené do menovej únie. Čo sa však týka konkrétnych požiadaviek eurozóny, tie sú podľa nášho názoru nedostatočné z hľadiska toho, čo považujeme za nevyhnutné na zabezpečenie čo najlepšieho fungovania hospodárstva s jednotnou menou.
+<P>
+Som presvedčený o tom, že v nadchádzajúcich mesiacoch pomôže Európsky parlament Európe, aby v praxi uskutočnila potrebný zásadný krok v oblasti hospodárskeho riadenia. Svojou legislatívnou úlohou týkajúcou sa finančného dohľadu a Európskeho výboru pre systémové riziká Parlament prejavil rozhodnosť v hlavných otázkach.
+<P>
+Chcel by som využiť túto príležitosť, aby som sa vám za to poďakoval a aby som ešte raz vyjadril presvedčenie, že Parlament bude mať rozhodujúci vplyv na diskusiu o hospodárskom riadení.
+<P>
+Ďalšia dôležitá úloha sa týka finančnej regulácie. Mali by sme v plnom rozsahu využiť poučenie z krízy a zachovať dynamiku reforiem vo finančnej oblasti. Ako ste zdôraznili v návrhu uznesenia, rozhodujúci význam má rýchle uskutočnenie dohody Bazilej III. Legislatívne návrhy Komisie, týkajúce sa predaja nakrátko a mimoburzových derivátov, sú tiež nevyhnutné na zvýšenie transparentnosti a pevnosti finančného systému.
+<P>
+Pred nami je rozhodujúci rok. V roku 2011 by sa mal prijať revidovaný rámec riadenia, mali by prebehnúť rozsiahle diskusie o rámci krízového manažmentu a hádam aj o iniciovaní procesu na zmenu zmluvy. Všetky tieto reformy musíme uskutočniť dobre, aby sme zabezpečili, že Európa ako celok a eurozóna budú môcť riešiť budúce úlohy ešte rozhodnejšie a presvedčivejšie.
+<P>
+Rok 2011 bude tiež prvým rokom existencie Európskeho výboru pre systémové riziká. Robíme maximum pre podporu tohto nového orgánu tak, ako na to vyzýva váš návrh uznesenia. Úplná nezávislosť a primárny mandát ECB v súlade s Maastrichtskou zmluvou zostávajú zároveň, samozrejme, nezmenené a túto vec som už v Parlamente zdôraznil.
+<P>
+Budeme naďalej pokračovať v plnení svojho mandátu. Zmluva si to od nás žiada. Môžete si byť istí, že splníme to, čo od nás očakávajú naši spoluobčania.
+<SPEAKER ID="035" NAME="Olli Rehn">
+člen Komisie. - Vážený pán predseda, najprv by som sa chcel poďakovať pánovi spravodajcovi Burkhardovi Balzovi za dôkladnú a rozsiahlu správu o výročnej správe ECB za rok 2009. Komisia víta túto správu, ktorá primerane spracúva hlavné otázky. Správa uznáva a oceňuje prácu, ktorú ECB vykonala pri zvládaní krízy. Komisia sa stotožňuje s týmto názorom. ECB sa pod vedením prezidenta Jeana-Clauda Tricheta šikovne preplavila cez túto ťažkú situáciu, riadená pevnou rukou.
+<P>
+Chcem využiť túto príležitosť a poďakovať sa pánovi Jeanovi-Claudovi Trichetovi za vynikajúcu spoluprácu, a najmä za jeho rozhodujúcu úlohu počas tohto turbulentného obdobia. ECB prostredníctvom kontroly a neštandardných opatrení pomohla pri riešení problémov s cieľom prekonať krízu a položiť tak základ udržateľného rastu a vytvárania pracovných miest.
+<P>
+Vaša správa právom zdôrazňuje, že finančná kríza poukázala na potrebu posilneného hospodárskeho dohľadu v eurozóne. Komisia s tým súhlasí, a práve preto sme predložili niekoľko legislatívnych návrhov na posilnenie hospodárskeho riadenia v EÚ, osobitne však v eurozóne.
+<P>
+Prijali sme aj viacero návrhov, ktoré boli uvedené v správe pána Feia, na posilnenie a prehĺbenie hospodárskeho riadenia v Únii. Výbor pre hospodárske a menové veci dostal návrhy Komisie a momentálne pracuje na tom, aby stihol ambiciózny termín v júni na budúci rok, čo oceňujem a vítam.
+<P>
+Teraz by som sa chcel zamerať na druhú časť rozpravy, ktorou je najaktuálnejší vývoj medzinárodných výmenných kurzov. Je pravda, že volatilita na devízových trhoch sa počas uplynulých týždňov zvýšila s významnými presunmi v hodnote hlavných bilaterálnych výmenných kurzov.
+<P>
+Euro sa od júna tohto roku zhodnotilo voči doláru vzhľadom na priaznivejšie údaje o hospodárstve eurozóny a vzhľadom na ďalšiu expanziu menovej politiky USA. Prednedávnom sa však euro trocha oslabilo voči väčšine mien, pretože zvýšené obavy týkajúce sa verejných financií členských štátov, najmä Írska, ovplyvnili euro. V skutočnosti je euro v súčasnosti blízko svojho dlhodobého priemeru po celkovom poklese hodnoty v tomto roku z nadhodnotenej úrovne na konci minulého roku. V porovnaní so začiatkom roka klesla hodnota eura v skutočnosti približne o 7 %.
+<P>
+V súvislosti s pomalým zotavovaním rozvinutých hospodárstiev a veľkým kapitálovým tokom smerujúcim do rýchlo sa rozvíjajúcich hospodárstiev sa mnoho krajín snažilo oslabiť svoju menu alebo aspoň dosiahnuť jej nezhodnocovanie na zachovanie konkurenčnej výhody. Preto je dôležité, že vedúci predstavitelia sa minulý týždeň na samite G20 v Soule veľmi jasne a dôrazne zaviazali, že nebudú uskutočňovať konkurenčné devalvácie svojich mien.
+<P>
+Samit G20 sa tiež dohodol na tom, že sa bude ďalej pracovať na obnovení rovnováhy globálneho rastu. Dosiahla sa dohoda o tom, že sa vypracujú príslušné usmernenia. Je jasné, že flexibilita výmenných kurzov musí zohrávať úlohu pri potrebnom obnovovaní rovnováhy, aby výmenné kurzy odrážali hospodársky základ, ako zdôraznil pán prezident Trichet. Komisia bude naďalej podporovať túto dôležitú časť práce skupiny G20, ktorá bude patriť medzi hlavné priority francúzskeho predsedníctva skupiny G20 na budúci rok.
+<P>
+Napokon vás musím informovať o dôležitom vývojovom trende týkajúcom sa eurozóny. Včera, keď Rada ECOFIN uvítala žiadosť írskej vlády o finančnú pomoc zo strany EÚ, ministri spolu s Komisiou a ECB sa zhodli na tom, že poskytnutie pomoci Írsku je zárukou udržania finančnej stability v Európe. Finančnú podporu EÚ možno poskytnúť v rámci programu s prísnymi podmienkami, o ktorých momentálne s írskymi orgánmi rokujú Komisia a Medzinárodný menový fond (MMF) v spojení s ECB. Program sa rozhodným spôsobom zameria na fiškálne problémy írskeho hospodárstva a jeho súčasťou bude aj fond pre potenciálne budúce kapitálové potreby bankového sektora. Na odstránenie napätia v bankovom sektore bude potrebné prijať rozsiahly súbor opatrení vrátane zníženia podielu cudzieho kapitálu a reštrukturalizácie, aby sa prispelo k riadnemu fungovaniu írskeho bankového systému v rámci činnosti celého hospodárstva.
+<P>
+Odborné rokovania o programe EÚ a MMF teraz už prebiehajú a môžu sa ukončiť do konca novembra. Môžem vás informovať o tom, že okrem financovania z EÚ a MMF naznačili Spojené kráľovstvo a Švédsko, že sú pripravené prispieť na program prostredníctvom bilaterálnych úverov, čo je vítané.
+<P>
+Z celkového pohľadu sú včerajšie rozhodnutia mimoriadne dôležitým krokom k spoločnému úsiliu stabilizovať írske hospodárstvo a zaručiť tak finančnú stabilitu v Európe.
+<SPEAKER ID="036" NAME="Jean-Paul Gauzès" LANGUAGE="FR">
+Vážený pán predseda, pán Trichet, pán komisár, dámy a páni, pripájam sa, samozrejme, k zborovej chvále na adresu Európskej centrálnej banky za jej činnosť a nebudem opakovať, čo už povedal kolega Balz ani čo sa uvádza v uznesení. V krátkom čase, ktorý mám k dispozícii, by som chcel len povedať, že musíme brať ohľad na našich spoluobčanov.
+<P>
+Prečo to dnes takto hovorím? Pretože včera večer na všetkých francúzskych televíznych kanáloch kandidát na prezidenta predviedol divadlo a roztrhal desaťeurovú bankovku, ktorú predtým zväčšil a odkopíroval, a ukázal, že roztrhaním tejto bankovky roztrhal príčinu všetkých našich problémov.
+<P>
+To, samozrejme, nie je pravda. Teraz je najpotrebnejšie, aby sme sa všetci snažili spolu komunikovať. Práca, ktorá sa vykonala v oblasti dohľadu, organizácie a regulácie, o ktorej ste hovorili, pán prezident, je vynikajúca. Viete, že máte podporu Parlamentu: sám ste to povedali. Musíme však vyriešiť skutočnú úlohu vzhľadom na tých spoluobčanov, ktorí nerozumejú vysielaným signálom.
+<P>
+Titulky v novinách predkladajú každý deň čoraz temnejšie riešenia a nepravdepodobné situácie a môžem vám povedať, že v piatok, keď som bol v teréne, ako hovoríme v politike, stretol som sa približne so sto až stopäťdesiatimi ľuďmi. Každý sa ma pýtal na to isté: čo sa stane s eurom? Obavy našich spoluobčanov nie sú v súlade s tým, čo robí - a to dobre - Európska centrálna banka.
+<SPEAKER ID="037" NAME="George Sabin Cutaş" LANGUAGE="RO">
+Vážený pán predseda, v prvom rade sa chcem poďakovať pánovi spravodajcovi Balzovi za spoluprácu. Vítam tiež skutočnosť, že Európska centrálna banka získala po nadobudnutí platnosti Lisabonskej zmluvy postavenie inštitúcie EÚ.
+<P>
+Po druhé, rád by som zdôraznil, že medzi hospodárstvami eurozóny sú značné makroekonomické rozdiely, čo poukazuje na potrebu užšej harmonizácie hospodárskej a menovej politiky. Pakt stability a rastu nie je primeraným nástrojom na riešenie súčasnej hospodárskej nerovnováhy. Jedno z východísk z tejto slepej uličky by mohla byť emisia štátnych dlhopisov na úrovni EÚ. Tento mechanizmus solidarity by poskytol stabilné financovanie členským štátom v núdzovej situácii, zabezpečil by vyššiu účinnosť dohľadu nad rozpočtami a významne by zlepšil likviditu. Jednotnú menu by malo dopĺňať sprísnenie fiškálnych pravidiel a spoločný dlhodobý dlh.
+<P>
+Bezohľadné správanie finančných subjektov pomohlo spustiť hospodársku a finančnú krízu. Nedávne špekulatívne útoky na určité členské štáty im okrem toho sťažili možnosť požičať si peniaze na medzinárodných finančných trhoch, čím v podstate ovplyvnili stabilitu celej eurozóny. Preto si myslím, že je potrebný trvalý mechanizmus na ochranu eurozóny pred špekulatívnymi útokmi. Je povinnosťou Európskej komisie monitorovať činnosť súčasných ratingových agentúr a vypracovať štruktúru úverovej ratingovej agentúry na úrovni EÚ.
+<P>
+Musíme si tiež uvedomovať, že úsporné opatrenia, ktoré prijali vlády členských štátov, by mohli významne znížiť možnosť obnovy európskeho hospodárstva. Preto je potrebný model hospodárskeho riadenia na úrovni EÚ, ktorý by spojil fiškálnu konsolidáciu s vytváraním nových pracovných miest.
+<P>
+Komisia musí tiež navrhnúť konkrétne ciele na zúženie rozdielu v konkurencieschopnosti medzi hospodárstvami EÚ a v neposlednom rade musí napredovať s investíciami do ekologickej energie.
+<SPEAKER ID="038" NAME="Sylvie Goulard" LANGUAGE="FR">
+Vážený pán predseda, pán komisár, najprv by som sa chcela pripojiť k pochvalám pre nášho spravodajcu, ktorý podľa mňa veľmi dobre vystihol túto problematiku.
+<P>
+V správe zdôrazňuje inovácie zavedené Lisabonskou zmluvou a ja vám chcem naozaj poďakovať, pán Trichet, že dnes večer ste opäť pripomenuli tým z nás, ktorí si podľa všetkého neuvedomujú tú skutočnosť - vrátane tých, ktorí ju podpísali a ratifikovali -, že Lisabonská zmluva obsahuje jednu veľkú inováciu: budeme môcť tu, v tejto rokovacej sále, verejne prediskutovať reformu Paktu stability a rastu.
+<P>
+Pod vedením pána Rehna Komisia vypracovala súbor návrhov, ktoré sú správne a dosť odvážne, najmä čo sa týka výzvy na posilnenie disciplíny zohľadnením makroekonomickej nerovnováhy, ktorú pán Balz vlastne spomenul vo svojej správe. Ešte dôležitejšie je však to, že ste, pán Trichet, viackrát spomenuli "zásadný krok", teda skutočný krok vpred v tomto riadení.
+<P>
+Úplne súhlasím s tým, čo povedal pán Gauzès: keď človek ide do terénu, musí si takmer položiť otázku, či sú návrhy predložené Komisiou skutočne relevantné, či by sa nemala zohľadniť prebiehajúca kríza, aby sa umožnilo dosiahnutie maximálneho možného pokroku. Rada by som tu zdôraznila, že architekti eura si nikdy nemysleli, že budeme iba koordinovať hospodárske politiky v dlhodobom horizonte. Cieľom bola politická únia, konkrétne schopnosť prijímať rozhodnutia za súčasného dohľadu Parlamentu.
+<P>
+Podľa mňa je dosť pozoruhodné, keď hovoríme s občanmi, že sú tu vlastne vodiči - členské štáty -, ktorí sedia za volantom a zároveň stoja na okraji cesty a fungujú ako policajti. Takto približne funguje súčasný systém; inými slovami, že sme zároveň vodičom, orgánom, ktorý udeľuje pokuty, a orgánom, ktorý má vykonávať dohľad nad ostatnými vozidlami. Myslím si, že neexistuje ani jedna krajina s cestnou premávkou tohto typu. Chceli by sme preto trochu zvýšiť pokuty a budeme na tom pracovať. Ďakujem, že ste nám pripomenuli, že v praxi sme to už urobili, pokiaľ ide o reformu finančného dohľadu vo všeobecnom európskom záujme.
+<SPEAKER ID="039" NAME="Sven Giegold" LANGUAGE="DE">
+Vážený pán predseda, najprv by som chcel v mene našej skupiny vyjadriť poďakovanie pánovi Balzovi za spoluprácu, v duchu ktorej prebehli naše rokovania. Podarilo sa nám predložiť niekoľko návrhov, aby sme dosiahli ešte lepšiu vyváženosť správy. Obdobie rokov 2009 - 2010 bolo charakterizované mimoriadnymi opatreniami zo strany Európskej centrálnej banky a vzhľadom na tento mimoriadny hospodársky vývoj by som sa chcel ešte raz poďakovať pánovi Trichetovi za prijatie týchto opatrení, predovšetkým vzhľadom na to, že v rámci jeho vlastnej inštitúcie neboli vždy prijímané pozitívne.
+<P>
+Počas tohto obdobia sme videli, že Pakt stability a rastu je neprimeraný. Namiesto toho potrebujeme účinnú koordináciu hospodárskej politiky, ktorá zohľadní nielen verejný, ale aj súkromný dlh a ktorá sa bude zaoberať hospodárskou nerovnováhou nielen v krajinách s deficitom, ale aj v krajinách, ktoré dosahujú prebytky. Čo sa týka cien, musíme sa zamerať nielen na spotrebiteľské ceny, ale aj na ceny nehnuteľností, ich špekulatívny vývoj a vytváranie bublín.
+<P>
+Predovšetkým - a na to neustále upozorňujeme - potrebujeme konečne rámec pre daňovú súťaž v Európskej únii. Je neprijateľné zavádzať obrovské úsporné programy na strane výdavkov, zatiaľ čo krajiny môžu stále využívať neobmedzenú daňovú súťaž na strane príjmov.
+<P>
+Osobitne je neprijateľné - a nemožné vysvetliť to našim občanom -, že v situácii, v akej sme teraz, zachraňujeme írske banky, ale že zároveň nezabezpečíme, aby škandalózne nízka sadzba dane z príjmu právnických osôb, ktorá je v súčasnosti na úrovni 12,5 %, bola upravená na zvyčajnú európsku úroveň 25 %. O tomto sa musíme otvorene porozprávať.
+<P>
+Chcel by som tiež požiadať pána Tricheta, aby sa vyjadril k dvom bodom v správe: k otázke transparentnosti, ako sa uvádza v bode 21, a k otázke akceptovanej záruky, ako sa uvádza v bode 39. O týchto otázkach ste ešte nehovorili. V mene všetkých spravodajcov a tieňových spravodajcov by som bol vďačný, keby ste sa k týmto otázkam mohli konkrétne vyjadriť.
+<SPEAKER ID="040" NAME="Kay Swinburne">
+v mene skupiny ECR. - Vážený pán predseda, chcela by som zablahoželať pánovi Balzovi k jeho správe. No v čase, keď euro čelí každý deň novým krízam a vo všeobecnosti prevláda názor, že na prežitie sú potrebné nové formy riadenia a nové pravidlá, je pre ECB ťažké vyjadriť sa k vonkajším globálnym otázkam.
+<P>
+A presne v tom by mohol spočívať problém. Doteraz sa väčšine veľkých globálnych hráčov darilo spolupracovať pri hľadaní riešení problémov svetovej finančnej krízy. Koordinácia v oblasti reformy regulácie finančných služieb, najmä v oblasti derivátov, bola bezprecedentná. Ale keď ide o obranu národných mien, a nie o obranu nadnárodných bánk, vzniká veľké nebezpečenstvo, že mnohostranná koordinácia nebude fungovať.
+<P>
+Ak sa ECB bude snažiť chrániť predovšetkým euro, americká centrálna banka sa bude snažiť chrániť dolár a Číňania jüan, všetci prehráme.
+<P>
+ECB od svojho vzniku mala náročnú úlohu vyvažovať rôzne kultúry a metódy menovej politiky. Dúfam, že aj keď je pod veľkým vnútorným tlakom, dokáže využiť svoje odborné kvality v týchto oblastiach, aby podporila spoluprácu nad rámec EÚ na globálnej úrovni.
+<SPEAKER ID="042" NAME="Jürgen Klute" LANGUAGE="DE">
+Vážená pani predsedajúca, najskôr by som chcel vyjadriť úprimné poďakovanie pánovi Balzovi za túto konštruktívnu spoluprácu. Môžem len zdôrazniť skutočnosť, že aj keď sme vychádzali z rôznych východísk, vzájomná spolupráca bola pozitívnou skúsenosťou.
+<P>
+Veľa ľudí si myslelo - a túto skutočnosť by som tu chcel ešte raz zdôrazniť -, že kríza v eurozóne sa skončila. Írsko ukazuje, že to tak nie je. Európa sa dobrovoľne ponúka finančným trhom presne tak ako v minulosti. Členské štáty EÚ musia stále ponúkať svoje štátne dlhopisy v bazáre finančných trhov a pokúšať sa získať dôveru špekulantov prostredníctvom prijímania samovražedných úsporných balíkov. Cez víkend sme opäť videli, kam nás to zavedie. Tentoraz to neboli Gréci, ktorí vraj každého podviedli, ale Írsko - vzorný žiak -, ktorý bol prinútený obrátiť sa na európsky záchranný fond, aby zachránil svoj bankový systém - systém, ktorý sa tiež dlhý čas vystavoval ako vzorový príklad deregulácie.
+<P>
+Finančný sektor zatiaľ poškuľuje po kapitulácii Portugalska, ktorého úrokové sadzby neprestajne rastú. Európska centrálna banka musí prevziať spoluzodpovednosť za túto drámu. Zlyhala a naďalej zlyháva pri využívaní európskych dlhopisov, aby ponúkla civilizovanú alternatívu k tomuto kasínovému prístupu. Zatiaľ čo polovica Európy sa zotavuje z krízy, ECB sa nečinne prizerá, ako sa druhá časť ponára hlbšie a hlbšie do chudoby a neistoty. Zničujúce škrty v ekonomikách členských štátov môžu byť po chuti európskym obrom v oblasti investovania a bankovníctva, ale to vôbec nepomôže ani Írsku, ani menovej únii a ani ECB.
+<P>
+Pán Trichet, nevšímajte si zjednodušené školácke finančné návrhy pani Merkelovej. Ak chcete zachrániť hospodársku a menovú úniu, nenechajte európske štátne dlhopisy visieť vo vzduchu. Zaveďte európske dlhopisy, kým si špekulanti nevyberú ďalšiu obeť.
+<P>
+(Rečník prijal otázku podľa postupu zdvihnutia modrej karty v súlade s článkom 149 ods. 8.)
+<SPEAKER ID="043" NAME="Hans-Peter Martin" AFFILIATION="NI">
+(DE) Vážená pani predsedajúca, chcel by som sa pána Kluteho spýtať, ako možno jeho návrh na celoeurópske štátne dlhopisy a európske dlhopisy zosúladiť s postojom nemeckého Spolkového ústavného súdu k tejto veci a aký rozsudok by bol podľa jeho názoru prijatý, keby takéto opatrenie bolo napadnuté a predložené nemeckému Spolkovému ústavnému súdu v Karlsruhe.
+<SPEAKER ID="044" NAME="Jürgen Klute" AFFILIATION="GUE/NGL">
+(DE) Vážená pani predsedajúca, pripúšťam, že je ťažké posúdiť to. Nemôžem na to dať okamžitú odpoveď. Nepochybne ide o komplikovanú situáciu, myslím si však, že sa veci vyvinuli tak, že možno príde k zmene myslenia. Je mi to ľúto, ale nemôžem dať okamžitú odpoveď.
+<SPEAKER ID="045" NAME="John Bufton">
+v mene skupiny EFD. - Vážená pani predsedajúca, správu Výboru pre hospodárske a menové veci o výročnej správe Európskej centrálnej banky som si prečítal s veľkým záujmom. Správa uznáva, že obrovské rozdiely medzi členskými štátmi eurozóny prispeli k problémom, ktorých svedkami sme v súčasnosti. V správe sa uvádza, že "táto nerovnováha spôsobuje značné ťažkosti pre vhodnú menovú politiku v eurozóne", a opätovne sa tvrdí, že "finančná kríza v niektorých krajinách eurozóny je pre eurozónu ako celok vážnym problémom a odráža jej nefunkčnosť".
+<P>
+Nevidím zmysel v tom, aby sa vyzývalo na väčšiu koordináciu hospodárskych politík v eurozóne. Zintenzívnenie hospodárskeho riadenia je spontánnou reakciou, ale práve obmedzenia nanútenej jednoty, spojené s vonkajšími príčinami, ktoré sú však mimo našej kontroly, priviedli niektoré členské štáty do finančnej krízy. Systém asi neumožňuje potrebnú hospodársku prispôsobivosť a rozhodnosť, ktoré by vládam umožnili účinne riešiť špecifické problémy, ako napríklad mieru inflácie.
+<P>
+Správa sa zaoberá týmto bodom a uvádza, že kríza s nasledujúcou finančnou pomocou a balíkmi stimulov "viedla k ďalekosiahlym úsporným opatreniam, ktoré... veľmi obmedzujú schopnosť vlády konať".
+<P>
+Je tu argument, že nemôžete mať jednotnú menu bez ďalšieho zosúladenia, aby sa odstránili rozdiely medzi členskými štátmi a v úrovni bohatstva. Každý realista však vie, že sa to nestane. Je to v rozpore s ľudskou povahou, čo by logicky malo byť v demokracii jasné, hoci je to nepopulárne.
+<P>
+Je eurozóna v januári pripravená na Estónsko? Dvíham obočie, keď čítam vyjadrenie, že "prijatie eura Estónskom je dôkazom postavenia tejto meny" a že to "povzbudí (ďalšie) členské štáty, aby sa usilovali o členstvo v eurozóne".
+<P>
+Ideologické lipnutie na eure spôsobí, že v čase konjunktúry i poklesu vyplávajú na povrch menové problémy. Jednotná mena funguje len v úzko prepojenom federálnom prostredí. Možno je práve toto pravým zámerom Komisie, ale to je postup postavený na hlavu.
+<P>
+Hoci Spojené kráľovstvo nie je v eurozóne, znášame dôsledky prispievania na finančné záchranné opatrenia a vzhľadom na komplikovane prepletené hospodárske vzťahy v Únii už nemusíme čakať na okamih, aby sme povedali: "veď sme to hovorili". Ten okamih už pominul.
+<SPEAKER ID="046" NAME="Hans-Peter Martin" AFFILIATION="NI">
+(DE) Vážená pani predsedajúca, bolo by dobré, keby sa táto správa pána Balza mohla predložiť s výhradou, a bola by to výhrada týkajúca sa spomienok. Myslím si, že sa dozvieme ešte veľa vecí, ak predložíte kapitolu o rokoch 2008 a 2009 zo svojho pohľadu, pán Trichet. Vzhľadom na to, že nám tieto informácie chýbajú, tápeme trochu v tme a máme dôvod domnievať sa, že sú tu mnohé vonkajšie okolnosti, ktoré v súčasnosti nepoznáme. Napriek tomu ste uviedli, pán Trichet, že dlhodobejšie financujúce opatrenia sa opäť predĺžili. Možno je to dobré. Dejiny nám ukážu, či to bol naozaj dobrý nápad. Nemusíme hneď ukazovať prstom na Alana Greenspana.
+<P>
+Jedna vec mi však robí starosti, a to, že našim občanom sa jednoducho nepovie, načo sa v skutočnosti používa táto pomoc likviditou, a tiež nedostatok transparentnosti, týkajúci sa toho, ako sú Íri nútení - podľa názoru mnohých ľudí - uchýliť sa pod tento ochranný dáždnik. Vieme, že Írsko už dostalo 130 miliárd EUR, z čoho 35 miliárd EUR išlo dcérskej spoločnosti nemeckého podniku - Hyporealestate. Ale prečo teraz vzniká taký veľký tlak? Prečo nemôžeme povedať, kto sú skutoční veritelia írskych bánk? Je to moje životné poistenie v poisťovni Allianz? Sú to naozaj nemecké banky, ako sa stále tvrdí? Ak je to naozaj tak, nevedieme tu nesprávnu rozpravu? V tom prípade by sme mali byť natoľko úprimní, aby sme našim občanom povedali, že poskytujeme finančnú pomoc práve im, že to môžu byť vaše vlastné peniaze, ktoré ste omylom investovali v Írsku, do bankového sveta založeného na zlých základoch. To tiež, samozrejme, vyvoláva otázku, či je každá írska banka skutočne podstatná pre systém. Prečo nemáme odvahu prijať bankrot niektorej z nich? Riešenie podľa modelu Leman Brothers nemôže byť vždy odpoveďou. Potrebujeme spravodlivé rozdelenie rizík, pretože veľká časť predošlých ziskov nepochybne tiekla do súkromného sektora.
+<SPEAKER ID="047" NAME="Ildikó Gáll-Pelcz" AFFILIATION="PPE">
+(HU) Vážená pani predsedajúca, najprv by som chcela zablahoželať spravodajcovi k vynikajúcej práci, ktorú vykonal. Keďže Európsky parlament je primárnou inštitúciou, prostredníctvom ktorej sa Európska centrálna banka zodpovedá európskym občanom, som veľmi rada, že na tomto plenárnom zasadnutí je prítomný pán prezident Trichet a že sa tiež pravidelne zapája do diskusií o menových záležitostiach vo Výbore pre hospodárske a menové veci.
+<P>
+Finančné hospodárstvo je svojou povahou globálne. Kríza je tiež globálna. Práve preto musí byť globálne aj riešenie krízy. Nemôžeme ignorovať skutočnosť, že hospodárske a finančné problémy členských štátov stále ovplyvňujú euro vo všetkých jeho aspektoch. Opäť súhlasím so spravodajcom. Žiaľ, HMÚ nedodržiavala všetky zásady Paktu stability a rastu a ani nebrala členské štáty na zodpovednosť za ich nedodržiavanie. Preto hovoríme o náraste štátneho dlhu a preto teraz vidíme novú vlnu krízy, ktorá je krízou štátneho dlhu.
+<P>
+Som presvedčená o tom, že otázky týkajúce sa nezávislosti ECB a jej zodpovednosti za rozhodovanie sa vyriešia primeraným spôsobom a že to spolu s reformným programom zameraným na vytvorenie úspešnej hospodárskej únie pomôže posilniť Európsku úniu a eurozónu v rámci nej. Som si istá, že sa budeme môcť poučiť z krízy a zo svojich chýb a že kríza nám vytvorí príležitosti.
+<SPEAKER ID="048" NAME="Robert Goebbels" AFFILIATION="S&amp;D">
+(FR) Vážená pani predsedajúca, dámy a páni, euro zažíva problémy, ale ktorá konvertibilná mena ich nezažíva po systémovej kríze, ktorú spôsobili zbláznené financie?
+<P>
+Štátny dlh je vážny problém. Zvýšenie verejných deficitov je však dôsledkom záchrany súkromných bánk z verejných zdrojov. Hospodárstvo okrem toho potrebuje oživenie. Finančná kríza sa rýchlo rozšírila do reálneho hospodárstva, čo viedlo k strmému poklesu a nezamestnanosti.
+<P>
+Zdá sa, že svet zbláznených financií sa z krízy nepoučil. Tí, čo prežili na Wall Street a v londýnskej City, špekulujú na menových trhoch a realizujú predaje nakrátko so swapmi na úverové zlyhanie (CDS), ktoré ani nevlastnia. Úrokové sadzby pre štáty, v prípade ktorých existuje podozrenie, že nebudú schopné včas splácať úvery, sa musia zvýšiť prostredníctvom nepriameho uplatnenia úsporných politík v týchto štátoch, čo ešte viac sťaží ich zotavenie.
+<P>
+Európska solidarita sa prejavuje ťažko a zriedka. Finančná pomoc Grécku znamená predovšetkým záchranu francúzskych a nemeckých bánk, ktoré vlastnia významné portfólio gréckeho dlhu. Podpora pre Írsko je predovšetkým záchrana britských a nemeckých bánk, ktoré by veľmi utrpeli, ak by írske banky zbankrotovali.
+<P>
+Skutočnosť, že kurz eura je volatilný, nie je znakom toho, že spoločná mena je slabá. Odráža to napätie na trhoch, predovšetkým vzhľadom na menovú vojnu medzi Američanmi a Číňanmi.
+<P>
+Od začiatku roka si Čína už v dolároch nepožičiava, ale ich predáva. Daňová situácia v Spojených štátoch je horšia než v Európe. Popri federálnych verejných deficitoch sú tu mimoriadne vysoké súkromné deficity. Štyridsaťosem z päťdesiatich štátov americkej únie má rozpočet so schodkom.
+<P>
+Pán Van Rompuy hovoril o tom, že euro bojuje o prežitie. Mýli sa. Euro, tento maják stability, o ktorom práve hovoril pán Trichet, prežije pána Van Rompuya, pretože Únia a jej podporná štruktúra, Euroskupina, sú najdôležitejším hospodárskym celkom na svete. Napriek skutočným problémom, na ktoré Európa reaguje neustálou váhavosťou, je potrebné poukázať na to, že na svetovej úrovni je týchto 27 štátov najväčším vývozcom tovaru, najväčším dovozcom tovaru a najväčším vývozcom služieb.
+<P>
+Máme najsolventnejší vnútorný trh na svete. Európske spoločnosti vyvážajú okrem toho v rámci vnútorného trhu dvojnásobok toho, čo vyvážajú na svetové trhy. Únia je hlavným cieľom priamych investícii tretích krajín. Spoločnosti v Únii vlastnia najväčšie investičné rezervy na celom svete.
+<P>
+Únia má 500 miliónov obyvateľov alebo 7 % svetového obyvateľstva a generuje 30 % hrubého svetového produktu. Spojené štáty generujú 25 %, Japonsko 8 % a Čína 8 % svetového produktu.
+<P>
+Naša Európska únia, ktorá tiež poskytuje 55 % celosvetovej rozvojovej pomoci, by mohla mať väčší vplyv, ak by naši vedúci predstavitelia mali trocha viac politickej odvahy a ak by využili silu Európy.
+<P>
+Na záver by som chcel povedať, že na medzinárodné financie sa musí uplatniť prísny a transparentný rámec. Musíme spolupracovať pri prekonávaní našich problémov.
+<SPEAKER ID="049" NAME="Sophia in 't Veld" AFFILIATION="ALDE">
+Vážená pani predsedajúca, ako zdôraznil náš kolega pán Gauzès, niektorí ľudia nenávidia euro, vnímajú ho ako koreň všetkého zla a vyhliadka na kolaps eurozóny ich teší. Ale títo ľudia sa mýlia a žijú v minulosti. Súčasné problémy nespôsobilo euro. Naopak, euro nás chráni pred ešte horšou situáciou. Potrebujeme spoločnú menu, ale potrebujeme aj riadne riadenie eurozóny. Nezáväzná spolupráca na základe jednomyseľnosti už nie je alternatívou.
+<P>
+Kolegovia, nachádzame sa na lodi, ktorá má na boku obrovskú dieru a v tejto chvíli sa môže potopiť alebo plaviť ďalej. Ale zdá sa, že národné vlády si stále myslia, že stačí vytvoriť pracovné skupiny a grémiá a hovoriť možno o snahe nadviazať užšiu spoluprácu, ale možno ani nie. Dobrou správou je, že v prípade Írska zrejme konajú rozhodnejšie a rýchlejšie, pretože rýchla reakcia je potrebná a veľmi vítaná. Tu nejde len o záchranu jednotlivých krajín: ide o dôveryhodnosť eurozóny. Ide o to, že svet nás testuje.
+<P>
+Sme ochotní a schopní konať? Dôvera sveta v eurozónu je podstatná pre stabilitu našej meny. Peniaze v našich vreckách závisia od dôvery, ktorú voči nám majú ostatní. Preto vyzývam politikov členských štátov, aby prestali hrať s populistickou kartou alebo verejne trhať eurobankovky a aby sa namiesto toho ujali našej spoločnej meny a prevzali za ňu zodpovednosť.
+<P>
+Na záver niekoľko slov o úsporných opatreniach. Boli veľmi kritizované a niektorí ľudia dokonca hovoria, že poškodia hospodárstvo. Musíme, samozrejme, postupovať opatrne, ale tieto opatrenia sú nevyhnutné na ozdravenie verejných financií z dlhodobého hľadiska a sú aj znakom solidarity medzi krajinami v eurozóne. Myslím si, že by sme nemali hovoriť len o strane výdavkov, ale aj o strane príjmov, pretože reformy, či už reformy trhu práce, dôchodkov alebo sociálneho zabezpečenia, sú potrebné aj tu, ba mali sa už dávno realizovať.
+<SPEAKER ID="050" NAME="Peter van Dalen" AFFILIATION="ECR">
+(NL) Vážená pani predsedajúca, Európska centrálna banka od zavedenia eura nezažila rušnejší rok, ako bol rok 2009. Riešenie krízy stálo a ešte stále stojí veľa úsilia. Myslím si, že by sme mali zvoliť lepší a dôraznejší prístup pri riešení krízy. Vytvorenie európskeho záchranného fondu nie je štrukturálnym riešením. Stále tu máme obrovské dlhy, ktoré krajiny ako Grécko alebo Írsko nikdy nedokážu splatiť. Tu však skutočne pomôže dôsledná, prísna rozpočtová disciplína a sprievodné automatické pokuty. Správa pána Balza je v tejto súvislosti, našťastie, veľmi jasná. Rada by mala uplatniť rovnaký prístup pri prijímaní Paktu stability a rastu. Ak máme prekonať krízu, sú škrty potrebné. Väčšina tohto Parlamentu by mala túto zásadu uplatniť aj na európsky rozpočet. Prijatie zvýšenia rozpočtu o 2,9 % predstavuje už veľmi široký kompromis. Žiadny občan nepochopí, že Parlament chce stále viac a bude žiadať ďalšie kompromisy. Preto to nerobte.
+<SPEAKER ID="051" NAME="Jaroslav Paška" AFFILIATION="EFD">
+(SK) Podľa záznamu z rokovania ministrov financií Európskej menovej únie zo začiatku septembra tohto roku zverejneného tlačovou agentúrou Reuters ste, vážený pán prezident, údajne vyjadrili, že keby ste vedeli, že Slovensko sa nepripojí k dobrovoľnej finančnej pomoci pre grécku vládu, nikdy by ste nesúhlasili s jeho prijatím do eurozóny. No pokiaľ viem, uvedený projekt, ktorého cieľom je ochrániť veľké finančné inštitúcie pred rozsiahlymi finančnými stratami vyplývajúcimi z neschopnosti Grécka uhrádzať svoje záväzky, ste navonok deklarovali ako prejav dobrovoľnej solidarity.
+<P>
+Možno Vám, vážený pán prezident, pri Vašom každodennom narábaní s miliardami ušlo, že z rovnakého množstva peňazí, ako Vy sám dostávate mesačne za výkon funkcie, musí v mojej krajine za mesiac vyžiť takmer sto rodín.
+<P>
+Ak si, vážený pán prezident, naozaj myslíte, že by si tieto rodiny žijúce zo 600 až 700 EUR mesačne alebo dôchodcovia žijúci z 300 EUR mesačne mali odoprieť ďalšie jedlo denne len preto, aby si Vaši kolegovia z bánk a finančných fondov udržali svoje zisky, mohli vyplatiť vysoké bonusy a dopriať ešte viac kaviáru, tak to prosím nenazývajte solidaritou.
+<P>
+Ja viem, že situácia v Európe je veľmi zložitá, ale Slovensko iste nie je tá krajina, ktorú by ste mohli oprávnene kritizovať.
+<SPEAKER ID="052" NAME="Elisa Ferreira" AFFILIATION="S&amp;D">
+(PT) Vážená pani predsedajúca, zásah v Írsku v konečnom dôsledku dokazuje, že EÚ mala predložiť spoločné riešenie pre európske banky, hlavne pre veľké banky, a to vlastne ešte predtým, než sa budú riešiť iné veci. V praxi dnes otvorene diskutujeme o zlyhaní štátov, ale ešte stále nemáme jasný návrh riešenia pre európske banky.
+<P>
+Zásah v Grécku a spôsob, akým sa vyvíjal, dokazujú, že Európa potrebuje európske riešenia a že riešenie, ktoré bolo doteraz stanovené, sa v podstate zakladá na bilaterálnej pomoci, pričom každá krajina podlieha hodnoteniu zo strany svojich partnerov na základe kritérií, ktoré nie sú ani jasné, ani stabilné. Európska centrálna banka (ECB) fungovala v tejto situácii ako kotva a zaplnila niektoré medzery, predovšetkým čo sa týka zraniteľnosti štátneho dlhu. Nemýľme sa však: takto už zo strednodobého hľadiska nemôžeme ďalej pokračovať.
+<P>
+Preto by som prezidentovi ECB chcela položiť tieto tri otázky. Po prvé, aký postoj zaujíma ECB k stabilnému modelu vybudovania systému skutočnej solidarity medzi členskými štátmi vzhľadom na štátny dlh? Ten potrebujeme a nemali by sme sa vyhýbať realite. Po druhé, v čom spočívali názorové rozdiely, ak ich môžeme identifikovať, na základe ktorých ECB neschválila všetky odporúčania správy vypracovanej pracovnou skupinou pod vedením pána Van Rompuya? Po tretie, je ECB presvedčená o tom, že EÚ bude môcť prežiť s narastajúcim rozdielom v raste členských štátov a bez spoločného nástroja, ktorý obnoví určitú konvergenciu v týchto stratégiách rastu?
+<SPEAKER ID="053" NAME="Seán Kelly" AFFILIATION="PPE">
+(GA) Vážená pani predsedajúca, ako poslanec za Írsko nemôžem povedať, že by som bol veľmi hrdý na to, čo sa teraz deje v našej krajine. Som však presvedčený o tom, že väčšina našich občanov chce urobiť všetko, čo je potrebné, aby sa veci napravili.
+<P>
+A na nápravu vecí v Írsku sú potrebné dve veci. Po prvé, museli sme sa, žiaľ, obrátiť na ECB a MMF so žiadosťou o podporu z krátkodobého hľadiska. Po druhé, a to je dôležitejšie, štruktúra dohľadu orgánov v Európe musí fungovať účinne, aby v budúcnosti už nikdy nedošlo k vytvoreniu blízkeho vzťahu medzi pochybnými bankami, ospalými regulátormi a slabými vládami. Po tretie, chcem ľudí požiadať, aby trocha počkali s problematikou dane z príjmu právnických osôb, pretože je to, po prvé, otázka subsidiarity, po druhé, iné krajiny v EÚ majú podobné sadzby, a po tretie, zhoršilo by to veľmi komplikovanú momentálnu situáciu v Írsku.
+<P>
+(GA) Viem teda, že ľudia v Írsku sa snažia pokročiť v tejto úlohe a že veci sa v dohľadnej dobe zlepšia.
+<SPEAKER ID="056" NAME="Proinsias De Rossa" AFFILIATION="S&amp;D">
+Vážená pani predsedajúca, pán komisár Rehn a pán Trichet nám tu dnes večer poskytli viac informácií než írska vláda, ktorá nás dlhé mesiace zavádzala a klamala. Viac sa zaoberala obranou svojho historického dedičstva než ochranou budúcnosti živobytia našich ľudí, a vlastne aj írskej a európskej meny.
+<P>
+Vyzývam dnes večer pána komisára Rehna a pána Tricheta, aby zabezpečili, že časový harmonogram pomoci a ciele stanovené pre deficity a dlh zohľadnia sociálne ciele Európy, ako aj potrebu zabezpečiť, že nebude ohrozená schopnosť Írska podnietiť rast hospodárstva a vytvárať pracovné miesta.
+<P>
+Potvrdíte tiež, že vám je úplne jasné, že zvýšenie dane z príjmu právnických osôb v Írsku z úrovne 12,5 % nie je riešením írskej krízy, a vlastne ani súčasnej krízy Európy, ale že by to mohlo spôsobiť katastrofu v oblasti hospodárstva a pracovných miest?
+<SPEAKER ID="057" NAME="Olle Schmidt" AFFILIATION="ALDE">
+(SV) Vážená pani predsedajúca, chcel by som sa veľmi pekne poďakovať pánovi Trichetovi a pánovi Rehnovi za ich absolútne vynikajúcu prácu počas tohto turbulentného obdobia. Mám pre vás oboch veľmi konkrétnu otázku. V našej krajine, ktorá nepatrí do eurozóny, prebieha v súčasnosti diskusia podľa nasledujúceho motta: "Toto presne vyjadruje, čo sme hovorili, keď sme v roku 2001 hlasovali proti euru. Ukazuje to, že sme mali pravdu - euro nemôže fungovať."
+<P>
+To je, samozrejme, mylné tvrdenie. Preto by som vám, páni, položil jednu otázku. Myslím si, že ide o kľúčovú otázku a kľúčovú zodpovednosť vás dvoch, aby ste vysvetlili, prečo sa Európa a euro dostali do týchto ťažkostí. Je to preto, lebo eurozóna a spoločná mena majú problémy? Alebo je to preto, lebo máme v jednotlivých krajinách, inými slovami v krajinách ako Írsko, Portugalsko, Španielsko a Grécko, politikov, ktorí si vlastne neplnili svoje povinnosti? Páni, musíte to vysvetliť. V opačnom prípade to nikdy nebudem môcť vysvetliť doma v našej krajine.
+<SPEAKER ID="058" NAME="Joe Higgins" AFFILIATION="GUE/NGL">
+Vážená pani predsedajúca, chcel by som pánovi Trichetovi položiť jednu otázku. Prečo ste vy ako prezident Európskej centrálnej banky a Európska komisia úplne kapitulovali pred špekulantmi a rôznymi žralokmi na medzinárodných finančných trhoch? Umožnili ste im, aby vyvolali paniku na trhoch v súvislosti s írskou krízou - paniku, ktorá vám dala príležitosť zasiahnuť, aby ste zaručili miliardy držiteľov dlhopisov, ktoré riskantne vložili do zlých dlhov. Keďže sa vyhrážali, že neskôr zaútočia na Portugalsko a Španielsko, vy a komisár Rehn ste úplne kapitulovali pred diktatúrou trhu, ktorá nebola zvolená, nemá tvár a nikomu sa nezodpovedá.
+<P>
+Môžem vás požiadať o to, aby ste to zdôvodnili? Súkromní špekulanti a držitelia dlhopisov riskujú desiatky miliárd v súkromných obchodoch so súkromnými developermi a súkromnými bankármi v Írsku, aby získali súkromný zisk, a keď riskantná hra nevyjde, podporíte úbohú vládu v Írsku, aby ste pracujúcim, dôchodcom a chudobným ľuďom vystavili za toto riskovanie účet. Teraz ste vyslali Medzinárodný menový fond, ktorý má nasadiť šokovú terapiu neoliberálneho kapitalizmu, aby Íri museli zaplatiť.
+<P>
+Morálne a v každom ďalšom ohľade by nemali platiť a musia sa brániť tomuto ničivému útoku na ich služby, životnú úroveň a demokraciu.
+<SPEAKER ID="059" NAME="Gerard Batten" AFFILIATION="EFD">
+Vážená pani predsedajúca, moji voliči v Londýne si jednoducho nemôžu dovoliť obetovať sumu 288 GBP, ktorou má podľa odhadov prispieť každá rodina ako svojím podielom na príspevok sedemmiliardovej finančnej pomoci Írsku. Íri sú strojcovia svojho vlastného nešťastia: ich vláda zle riadila hospodárstvo a podporovala rozmach výstavby domov, ktorý bol odtrhnutý od reality. Najhoršie však je, že sa pridali k jednotnej európskej mene.
+<P>
+Prvým krokom riešenia ich problémov je vzdať sa eura. Írsko sa namiesto toho podriadilo finančnému riadeniu zo strany Európskej únie. Čím dlhšie im bude trvať, kým sa vzdajú eura, tým horšie dôsledky to bude mať. To isté platí, samozrejme, pre Portugalsko, Taliansko, Španielsko, Grécko a nepochybne aj pre ostatných. Jedinou rozumnou vecou, ktorú bývalá a neoplakávaná labouristická vláda urobila, bolo, že vo Veľkej Británii nezaviedla euro. Koaličná vláda môže urobiť rozumnú vec tak, že nebude zbytočne rozhadzovať peniaze.
+<SPEAKER ID="060" NAME="Mairead McGuinness" AFFILIATION="PPE">
+Vážená pani predsedajúca, pán Batten má pravdu. Írska vláda riadila našu krajinu veľmi zle a skutočnosť, že írski občania sa spomínajú v tomto Parlamente v týchto konkrétnych súvislostiach, je pre nich smutná. Ale sme v situácii, v ktorej potrebujeme solidaritu. Pán Batten možno nerozumie tomu slovu alebo tomu, že Írsko potrebuje Anglicko, rovnako ako Anglicko potrebuje Írsko a jeho hospodárstvo.
+<P>
+Všetci sme veľmi úzko prepojení. Nezabúdajme na to.
+<P>
+Môžem položiť niekoľko otázok? Pretože v tomto emocionálnom období potrebujeme chladnú hlavu a jasné informácie.
+<P>
+V akej fáze sa dnes večer nachádzajú testy záťaže bánk, keď sazdá, že írske banky sú absolútne preťažené a v mimoriadnom strese?
+<P>
+Po druhé, je tu otázka pre ECB, aby odpovedala na to, čo je jej mandát. Myslím si, že to vyplýva z úvodných poznámok, pretože všetky banky sú vzájomne prepojené. Tie banky z Nemecka a Francúzska a iných krajín, ktoré investovali do írskych bánk, musia preskúmať, čo urobili a prečo to urobili.
+<P>
+Na záver chcem uviesť, že dnes večer vládne v Írsku politická nestabilita. Je to poľutovaniahodné, ale je potrebné, aby boli vyhlásené parlamentné voľby.
+<SPEAKER ID="061" NAME="Liisa Jaakonsaari" AFFILIATION="S&amp;D">
+(FI) Vážená pani predsedajúca, Robert Schuman, zakladateľ EÚ, povedal, že Európska únia sa bude vyvíjať prostredníctvom série kríz, a tento vývoj je teraz možno rýchly, pretože momentálne zažívame viacero kríz. To stavia politický systém v Európskej únii a v členských štátoch pred mimoriadnu úlohu.
+<P>
+Treba povedať, že problémy Írska sú sčasti spôsobené tým, že táto krajina má slabú vládu. Politici teraz musia byť opatrní, aby liečba nebola horšia ako choroba. Napríklad predstaviteľ Skupiny zelených/Európskej slobodnej aliancie tu povedal, že daň z príjmu právnických osôb v Írsku by sa mala zvýšiť na európsku úroveň, ale to by mohol byť vlastne smrteľný úder pre Írsko, jeho rast a zamestnanosť. Ide o to, aby sa peniaze vrátili prostredníctvom rastu a zamestnanosti v Írsku, a nie aby bola krajina potrestaná. Musíme Írsku pomôcť, nie ho potrestať.
+<SPEAKER ID="062" NAME="Wolf Klinz" AFFILIATION="ALDE">
+(DE) Vážená pani predsedajúca, pán Trichet, všetci vieme, že hlavnou úlohou Európskej centrálnej banky je zabezpečiť menovú stabilitu, a tento cieľ môžete najlepšie dosiahnuť vtedy, ak ste politicky nezávislý. V tom sme vás vždy podporovali.
+<P>
+Kríza posledných dvoch rokov ukázala, že máte ďalšiu úlohu, a to zabezpečiť stabilitu finančných trhov a finančného systému. Aj túto úlohu ste zvládli veľmi profesionálne a presvedčivo. Aby ste ju však splnili, museli ste zniesť, že vás spájali s vládami, o ktoré išlo. Inými slovami, nemohli ste tu konať s úplnou politickou nezávislosťou: namiesto toho ste museli spolupracovať s vládami.
+<P>
+Bolo by zaujímavé vedieť, ako presne by ste chceli túto úlohu vykonávať v budúcnosti, aby ste zabezpečili, že, po prvé, budete nezávislý a že, po druhé, budete môcť túto úlohu riadne plniť bez toho, aby vlády využili túto príležitosť na faktické oslabenie vašej nezávislosti.
+<SPEAKER ID="063" NAME="Ilda Figueiredo" AFFILIATION="GUE/NGL">
+(PT) Vážená pani predsedajúca, nerovnováha a rozdiely medzi hospodárstvami eurozóny sa zhoršujú napriek všetkým sľubom a návrhom a vzniká táto otázka: nemyslíte si, že je čas preskúmať politiky? Nevidíte, že nástojenie na tom, aby krajiny so slabými hospodárstvami prísne dodržiavali iracionálne kritériá Paktu stability a rastu, vedie k väčším rozdielom, nerovnosti, nezamestnanosti a chudobe?
+<P>
+Nemyslíte si, že je čas venovať pozornosť sociálnej udržateľnosti? Jeden príklad je Portugalsko, kde budú pracujúci tento týždeň štrajkovať na protest proti takzvaným úsporným opatreniam, čo znamená znižovanie miezd a investícií a čo spôsobí ešte hlbšiu recesiu. Nemyslíte si, že nastal čas zmeniť politiky a ako hlavnú prioritu stanoviť sociálnu udržateľnosť a vytvoriť mechanizmy solidarity, predovšetkým...
+<P>
+(Predsedajúca prerušila rečníčku.)
+<SPEAKER ID="064" NAME="Olli Rehn">
+člen Komisie. - (FI) Vážená pani predsedajúca, vážené poslankyne, vážení poslanci, najprv by som sa chcel poďakovať za veľmi zodpovednú rozpravu.
+<P>
+Pani Jaakonsaariová povedala, že Európska únia sa vždy vyvíjala prostredníctvom série kríz. To je vo veľkej miere pravda a súhlasí to aj tentoraz z krátkodobého hľadiska, zatiaľ čo musíme konať ako hasiči a hasiť požiare, ktoré prepukajú a ohrozujú finančnú stabilitu v Európe. V súčasnosti pracujeme predovšetkým v Írsku, aby sme zaručili stabilitu európskeho hospodárstva. Zároveň sa snažíme vybudovať dlhodobejšiu európsku štruktúru, ktorá vlastne posilní hospodársku úniu a aj menovú úniu, ktorá je už teraz pevná, prostredníctvom robustnej a skutočnej hospodárskej únie, ktorá - povedané inými slovami - znamená uskutočnenie pôvodného cieľa hospodárskej a menovej únie.
+<P>
+Sú to dve dôležité úlohy a nesmieme si dovoliť zanedbať ani jednu z nich. Namiesto toho musíme byť po celý čas ako hasičský zbor, musíme hasiť lesné požiare a zároveň budovať novú európsku štruktúru na lepšiu reguláciu finančných trhov a aby hospodárska únia fungovala úspešnejšie.
+<P>
+Írsko má ťažkosti. Pani Jaakonsaariová si dobre uvedomuje, že my vo Fínsku máme príslovie, ktoré možno preložiť približne takto: "Pomôž človeku vtedy, keď je v núdzi, a nie vtedy, keď v nej nie je." To sa, samozrejme, vzťahuje na každého. Teraz je veľmi dôležité, aby sme si všetci zachovali chladnú hlavu a pokúsili sa podporiť Írsko, keď je v núdzi. Nejde len o samotné Írsko, ale aj o európsku hospodársku stabilitu, aby sme nedovolili, aby táto situácia ohrozila prvé výhonky regenerácie. Je dôležité, aby sme umožnili európskemu hospodárstvu udržateľne rásť a aby sme boli lepšie schopní zabezpečiť zamestnanosť. Toto je hlavná úloha: udržateľný rast európskeho hospodárstva a zamestnanosť.
+<P>
+Chcem sa vám poďakovať za podstatu rozpravy a naozaj súhlasím s pánom Gauzèsom: áno, musíme lepšie vysvetliť, prečo robíme to, čo robíme, a musíme uistiť našich občanov. Žijeme v ťažkých a chaotických časoch. Sú náchylné na nervozitu a dezinformácie, a preto všetci musíme prispieť svojím dielom k riadnemu vysvetleniu týchto úloh. Európsky parlament a vy všetci ako zástupcovia občanov musíte zohrávať hlavnú úlohu.
+<P>
+Nejde o to nájsť niekoho, na koho by sa zvalila vina: ide o posilnenie európskej stavby, ktorá chráni európskych občanov pred oveľa horšími dôsledkami. Všetky reči o zastavení európskeho projektu sú nezodpovedné. Všetky členské štáty by boli v oveľa ťažšej situácii bez Európskej únie a jej ochranného štítu. Euro je a zostáva pilierom Európskej únie. Nie je to len technický menový projekt: je to skutočne kľúčový politický projekt Európskej únie. Preto je naozaj veľmi dôležité, aby sme urobili všetko, čo je v našich silách, aby sme urobili maximum pre ochranu a posilnenie európskej stavby.
+<P>
+Na záver by som chcel povedať, že pani Goulardová uviedla veľmi dôležitú vec, keď poukázala na pôvodný cieľ tých, čo založili hospodársku a menovú úniu: vytvoriť veľmi silný politický rozmer, vlastne politickú úniu. Pán prezident Trichet to môže dosvedčiť lepšie než ja, pretože bol vtedy pri tom, ale súhlasím s tým, a preto chceme v našom legislatívnom balíku, ktorý je teraz vo vašich rukách a v rukách Rady, doplniť silnú menovú úniu definitívnym vytvorením skutočnej a silnej hospodárskej únie. Podľa mňa je teraz naozaj najvyšší čas, aby sme v HMÚ naplnili životom to "H", a práve o to ide v konečnom dôsledku v legislatívnom balíku o posilnení hospodárskeho riadenia.
+<P>
+člen Komisie. - (v odpovedi pánovi De Rossovi, ktorý hovoril bez zapnutého mikrofónu) Vážená pani predsedajúca, ako dobre viete, som ochotný stretnúť sa s írskymi poslancami EP, aby sme prediskutovali otázky týkajúce sa Írska, ale bez ohľadu na to, aká dôležitá a vážna je v súčasnosti situácia v Írsku, táto rozprava sa týka ECB a správy Parlamentu o ECB.
+<P>
+Počas tejto rozpravy bolo položených toľko otázok týkajúcich sa Írska, že jednoducho nie je možné odpovedať na všetky. Ako som povedal, som pripravený stretnúť sa s írskymi poslancami EP a dúfam, že sa s vami všetkými stretnem zajtra, aby sme túto vec prediskutovali podrobnejšie.
+<SPEAKER ID="067" NAME="Jean-Claude Trichet" LANGUAGE="FR">
+Najprv by som chcel povedať, že otázky, ktoré boli položené, sú mimoriadne vecné a veľmi úzko sa týkajú všetkých aspektov, ktoré sú dnes dôležité.
+<P>
+Na niektoré otázky, ktoré boli veľmi podobné, odpoviem poslancom Parlamentu súčasne.
+<P>
+V prvom rade by som chcel zopakovať, že sme zodpovední za "M" v HMÚ, za menovú úniu. To "H", hospodárska únia, je podľa nás dôležité, ale sme zodpovední za "M" a občania Európy a parlamenty, ktoré hlasovali za Maastrichtskú zmluvu, nás poverili tým, aby sme zabezpečili cenovú stabilitu. To je náš mandát. Pri zabezpečovaní cenovej stability pre 330 miliónov spoluobčanov sme nezávislí.
+<P>
+Ako som vysvetlil pred chvíľou, zabezpečili sme cenovú stabilitu v súlade s našou definíciou, ktorá bola pokračovaním najlepšej definície na svete, a chcel by som povedať, že naša definícia cenovej stability je podľa všetkého globálnym kritériom. Zabezpečovali sme cenovú stabilitu počas takmer 12 rokov eura a podľa všetkých informácií, ktoré máme, máme dôveru aj na ďalších desať rokov.
+<P>
+Chcem teda, aby to bolo celkom jasné, pretože - ako povedal pán Olli Rehn - mnohé otázky, ktoré mám, sú otázky zaoberajúce sa hospodárskou úniou, ktorá je, samozrejme, súčasťou HMÚ, ale my nezodpovedáme za hospodársku úniu. Máme nápady, máme odporúčania, máme diagnózu a analýzu a k tomu sa, samozrejme, vrátim.
+<P>
+Moja druhá hlavná poznámka: zažívame najhoršiu krízu na globálnej úrovni od druhej svetovej vojny. Ak by sme - centrálne banky vrátane ECB a vlády - neboli zareagovali rýchlo a odvážne, zažili by sme najhoršiu krízu nie od druhej svetovej vojny, ale od prvej svetovej vojny, pretože by sme mali veľkú depresiu, a táto skutočnosť, teda že sme zabránili veľkej depresii na globálnej úrovni, vyvolala mimoriadnu činnosť vlád a parlamentov.
+<P>
+Podľa našej vlastnej analýzy je riziko daňového poplatníka, ktorý bol zmobilizovaný, aby pomohol zabrániť dramatickej depresii, približne rovnaké na oboch stranách Atlantiku, čo sa týka HDP, a ide približne o 27 % HDP. Samozrejme, to sa nevyužilo z hľadiska výdavkov, ešte menej sa to využilo z hľadiska strát, ak to tak môžem povedať, ale aj tak sa vynaložilo mimoriadne úsilie. Inak by sme mali dramatickú krízu. To, samozrejme, znamená, že globálne financie a globálne hospodárstvo sú mimoriadne krehké a musíme nájsť spôsoby na globálnej úrovni, ako túto krehkosť prekonať.
+<P>
+Toto však nie je európska kríza. Ide o vplyv globálnej krízy na Európu, na európske riadenie a tie isté úvahy a reflexie o tom, čo treba urobiť, prebiehajú aj v USA alebo v Japonsku, aby som uviedol aspoň dve iné hlavné rozvinuté hospodárstva. Majú takisto obrovské problémy a bol by som nerád, keby sme premenili legitímne uvažovanie o tom, ako riadiť hlavné rozvinuté hospodárstva, na kritiku eura, ktoré, ako som povedal, splnilo presne to, čo sa od neho očakávalo.
+<P>
+Chcel by som tiež povedať, že keď sa pozriem na financie a fiškálnu pozíciu, fiškálnu pozíciu hlavných rozvinutých hospodárstiev, môžem povedať, že Európa ako celok a EÚ osobitne sú v lepšej situácii - pán Goebbels to povedal - než Japonsko alebo USA z hľadiska deficitu verejného rozpočtu. Ide približne o 6 %, dokonca o niečo menej, keď hovoríme o konsolidovanej fiškálnej pozícii na budúci rok, pričom v ďalších dvoch hlavných rozvinutých hospodárstvach to predstavuje desať alebo viac.
+<P>
+Hovorím to aj preto, aby sme mali predstavu o rozsahu. Ide teda o zlý postup zo strany viacerých krajín, ktoré vytvárajú problémy vo svojej vlastnej krajine a vytvárajú finančnú nestabilitu. Tu nejde o euro. Ide o finančnú nestabilitu spôsobenú zlým riadením fiškálnych politík, samozrejme, v spojení s trhmi, ktoré tu je vždy, keďže máme trhové hospodárstva. Opakujem: našou diagnózou je v podstate fakt, že sme mali zlé riadenie - zlé riadenie hospodárskej únie, čo bolo abnormálne pri fungovaní Európy.
+<P>
+Môžem povedať, žiaľ, že to nie je prekvapujúce, pretože niektorí už od samého začiatku neodôvodnene kritizovali Pakt stability a rastu. A musím vám pripomenúť, že ja sám som v Parlamente predkladal správu o našom spore, pretože hlavné krajiny chceli tento pakt zrušiť alebo ho aspoň významne oslabiť. Žiaľ, musím povedať, že to boli najväčšie krajiny v rámci eurozóny a že malé a stredne veľké krajiny sa tomuto trendu postavili na odpor. Bolo to v rokoch 2004 a 2005. Budete si pamätať, že išlo o vášnivý spor, lebo sa dostal až pred Súdny dvor, a Komisia - a musím Komisii vysloviť uznanie - konala racionálne, oveľa racionálnejšie než Rada, a my sme Komisiu plne podporovali. Musím vám to teda všetkým pripomenúť.
+<P>
+Zaznelo tu množstvo otázok týkajúcich sa toho, na čo presne v tejto fáze vyzývame. Musím povedať, že sme už povedali, keď Komisia predkladala svoj návrh, že sme si mysleli, že to nestačí.
+<P>
+Ak zohľadníme, čo si myslíme, ak zohľadníme, čo vidíme, teda vo fungovaní Európy ako celku, 27 krajín a 16 krajín (a zajtra 17), zastávame názor, že prvý návrh Komisie bol príliš slabý z hľadiska automatického postupu a z hľadiska prísnosti riadenia, a to pre fiškálny dohľad a pre ukazovatele konkurencieschopnosti, nerovnováhu.
+<P>
+Teda v rozsahu, v ktorom súčasný návrh predložený Radou dokonca oslabuje návrh Komisie, vám nemôžeme povedať nič iné, vážené poslankyne, vážení poslanci, len to, že veríme, že sme pripravení urobiť to, čo si situácia vyžaduje. A situácia si vyžaduje veľmi silný dohľad, veľmi silné riadenie.
+<P>
+V roku 2005 som v mene Rady guvernérov povedal, že sme vôbec neboli spokojní s vtedajším stanoviskom Rady a s návrhom, ktorý bol napokon prijatý.
+<P>
+Nechcem teda zachádzať ďalej, lebo budeme mať množstvo príležitostí na kontakty s Parlamentom. Samozrejme, všimol som si, že pani Goulardová vzhľadom na veľmi intenzívnu prácu Parlamentu spolu s Radou a Komisiou povedala, že sa vypracuje definitívne stanovisko Európy. Opakujem však, že naše posolstvo je v tejto súvislosti veľmi jasné.
+<P>
+Dovoľte mi teraz, aby som sa na chvíľu zaoberal otázkou komunikácie. Musíme, samozrejme, neprestajne zlepšovať komunikáciu. Snažíme sa o to. Čo sa týka našej vlastnej komunikácie, chcel by som povedať len to, že poskytujeme jasnú definíciu cenovej stability, ktorá každému kedykoľvek v reálnom čase umožňuje posúdiť to, čo robíme.
+<P>
+Chcel by som tiež povedať, že sme boli prvou veľkou centrálnou bankou, ktorá zaviedla tlačové konferencie bezprostredne po Rade guvernérov. Boli sme prví, kto zverejnil úvodné vyhlásenie, ktoré predstavuje našu diagnostiku situácie. Z hľadiska komunikácie sa teda snažíme byť čo najzodpovednejší.
+<P>
+Jedinou vecou, ktorú nezverejňujeme, sú jednotlivé stanoviská rôznych členov Rady guvernérov. Sme presvedčení o tom, že je veľmi dôležité, že pre inštitúciu vydávajúcu menu pre 16 štátov, ktoré sú zjednotené v Európe, ale sú stále zvrchovanými štátmi, je lepšie, aby Rada guvernérov ako celok vystupovala ako príslušný orgán z hľadiska našich rozhodnutí.
+<P>
+Zazneli tu aj veľmi dôležité otázky. Chcel by som len spomenúť poznámku, že sme zodpovední za "M", ale do tej miery, že "H" je v rukách vlád a Komisie, máme vo svojej kompetencii, samozrejme, zohľadniť "H", ako vždy, čo robí každá nezávislá centrálna banka: ak je fiškálna politika zdravá a rozumná, záťaž na menovú politiku, aby zabezpečila cenovú stabilitu, je nízka. Ak by sme mali zlú fiškálnu politiku, potom nadmerne zaťažíme rozhodnutia, ktoré musí prijať centrálna banka.
+<P>
+Povedal by som, že z hľadiska interakcie s vládami je to pre nás rovnaké, ale sme absolútne nezávislí, a skutočnosť, že sme museli prijať množstvo neštandardných opatrení, ako som vysvetlil, nám umožnila vyslať impulzy našej menovej politiky a tiež v podmienkach, keď trhy nefungovali správne, a preto rozhodnutia, ktoré sme prijali o úrokových sadzbách, neboli sprostredkované hospodárstvu ako celku správne.
+<P>
+To je podstata neštandardných opatrení: pomôcť obnoviť normálnejšie fungovanie sprostredkovacích kanálov menovej politiky, a urobili sme veľmi jasne rozdiel - zopakoval som to na nedávnom kolokviu, na ktorom sa zúčastnil Ben Bernanke - medzi štandardnými opatreniami, ktoré sú skutočne dôležité v súvislosti so zameraním menovej politiky, a neštandardnými opatreniami, ktoré boli prijaté na to, aby pomohli sprostredkovať menovú politiku.
+<P>
+Teraz by som chcel ešte povedať, že som si poznamenal dôležitú otázku...
+<P>
+(FR) Čo sa týka otázky pána Gauzèsa o komunikácii, ktorú podľa môjho názoru viacerí zopakovali, v niektorých komunikačných kanáloch existuje trend považovať Európu za nejakého obetného baránka. Ak sa niečo pokazí, je to vina Európy. Vieme, že to nie je pravda, a Európsky parlament, samozrejme, to vie lepšie než ostatní.
+<P>
+Je tu aj tendencia hovoriť, že ak sa veci nevyvíjajú dobre, je to vina Komisie, alebo je to vina Európskej centrálnej banky, alebo ešte lepšie, je to vina eura. To je klasický fenomén obetného baránka. Euro je mena, ktorá si pozoruhodne dobre udržiavala vnútornú a vonkajšiu stabilitu. Okrem toho som ešte nepovedal, že je to pozoruhodnejšie než čokoľvek iné, čo centrálna banka uskutočnila v zakladajúcich krajinách eura za posledných 50 rokov - to som si nechal na záver, ak to tak môžem povedať. Myslím si, že tu máme menu, ktorá je naozaj pevná, a to pevná v historickom význame slova. Dávajme si preto pozor na fenomén obetného baránka.
+<P>
+Musím povedať, že všetci musíme pracovať veľmi intenzívne v oblasti komunikácie, ale toto posolstvo smerujem aj Európskej centrálnej banke a eurosystému ako celku, inými slovami, všetkým národným centrálnym bankám, ktoré patria do eurozóny. Okrem toho by som povedal, že ide nepochybne o problém, pred ktorým stojí 27 krajín, a teda problém Európskej únie ako celku.
+<P>
+(potlesk)
+<SPEAKER ID="070" NAME="Predsedajúca">
+Ďakujem vám veľmi pekne za vyčerpávajúcu odpoveď, pán Trichet. Myslím si, že v tejto situácii bolo potrebné predložiť podrobnejšiu odpoveď, než je v tomto Parlamente zvykom.
+<SPEAKER ID="071" NAME="Burkhard Balz" LANGUAGE="DE">
+Vážená pani predsedajúca, chcel by som tiež vyjadriť veľké poďakovanie pánovi Trichetovi, pánovi komisárovi Rehnovi a najmä poslancom tohto Parlamentu za takú otvorenú a rozsiahlu rozpravu. Bola veľmi objektívna, aj keď na konci naši kolegovia z Írska niekedy prejavili emócie, čo je celkom pochopiteľné.
+<P>
+V krátkom čase, ktorý mám k dispozícii, by som chcel spomenúť tri body. Prvým je nezávislosť Európskej centrálnej banky. Myslím si, že bolo správne a dôležité, že hlavy štátov alebo predsedovia vlád - pod všeobecným vedením Helmuta Kohla, čestného občana Európy a v tom čase nemeckého kancelára - iniciovali nezávislosť ECB. Európska centrálna banka je ochrancom eura. Myslím si, že euro bolo v posledných mesiacoch krízy stabilné práve preto, lebo v konečnom dôsledku máme takú ECB. Preto by som vás chcel požiadať, pán Trichet, aby ste v nadchádzajúcich mesiacoch konali maximálne nezávisle. Ak vám ľudia hovoria svoje názory, v každom prípade si ich vypočujte, ale v konečnom dôsledku si prezident a riadiaci orgán ECB musia zachovať túto nezávislosť.
+<P>
+Po druhé, voči občanom Európskej únie musíme byť otvorenejší. To je dôležitý bod. Predovšetkým by sme im nemali poskytovať informácie "bruselským" jazykom, za ktorý sme už boli trocha kritizovaní, ale takým spôsobom, aby im skutočne rozumeli tí, ktorým posolstvo zasielame - občania Európy. Podľa mňa je to veľmi dôležité.
+<P>
+Pán Trichet napokon spomenul Bazilej III. To je ďalšia vec, ktorú by som v každom prípade zdôraznil. Chceme realizovať Bazilej III rýchlo. Chceme však realizovať Bazilej III rýchlo len vtedy, ak ho každý na úrovni G20 zavedie súčasne. Nemôžeme pripustiť, aby Európa zasa prebrala vedenie a bola jediným priekopníkom v značnej miere na úkor našej medzinárodnej konkurencieschopnosti. Preto by som zastával názor, že Európa by to mala vlastne zaviesť spolu s partnermi na celom svete, alebo zvážiť možné alternatívy.
+<SPEAKER ID="072" NAME="Predsedajúca">
+Spoločná rozprava sa skončila.
+<P>
+Hlasovanie sa uskutoční zajtra.
+<P>
+Písomné vyhlásenia (článok 149)
+<SPEAKER ID="073" NAME="Elena Băsescu" LANGUAGE="RO">
+Aj ja by som chcela zablahoželať pánovi Balzovi za všetko úsilie pri vypracovaní tejto správy. Úsporné opatrenia navrhnuté na prekonanie krízy by nemali viesť k opatreniam, ktoré by ohrozili hospodársku obnovu. Myslím si, že je potrebné nájsť rovnováhu medzi procesom hospodárskej konsolidácie a ochranou investícií prostredníctvom pracovných miest a udržateľného rozvoja. Lekcia, ktorú dostali členské štáty, čo vstúpili do eurozóny nepripravené, nás musí podnietiť k tomu, aby sme sa časom vážne zamysleli nad stanovením realistických termínov. V súčasnej situácii môže byť prijateľný posun o rok alebo dva. Rozširovanie musí pokračovať za predpokladu dodržania maastrichtských kritérií. V tejto súvislosti si myslím, že prijatie eura by sa nemalo vnímať ako menové riešenie, ale ako súčasť strednodobej rozsiahlej politickej stratégie.
+<SPEAKER ID="999" NAME="Edward Scicluna" AFFILIATION="S&amp;D">
+písomne. - Vítam a podporujem túto správu. Nemali by sme však zabúdať, že keď sa všetky diskusie o konsolidácii verejných financií, regulácii a makroekonomickom riadení skončia, musíme preskúmať, aký vplyv to malo na hospodársku činnosť, čo je rozhodujúci faktor každej diskusie. Je fakt, že potrebujeme dobrú a účinnú reguláciu a lepšie hospodárske riadenie, aby sa malé a stredné podniky, ktoré sú hlavným motorom hospodárskeho rastu, rozvíjali a rástli. Smutná pravda je, že tieto podniky v priebehu posledných dvoch rokov veľmi trpeli. V dôsledku toho máme vysokú a rastúcu nezamestnanosť. Politika ECB, spočívajúca v napumpovaní miliárd eur na záchranu zadlžených bánk, bola správnym krokom, ale mnohé banky sa stali nadmerne závislými od likvidity ECB. Teraz teda máme situáciu, že banky, ktoré veľmi ochotne poskytovali úvery v rokoch rastu, teraz odmietajú poskytovať úvery malým podnikom. Ak to bude pokračovať, tak nebudeme mať dostatočný rast na zníženie rozpočtových deficitov a úrovne štátneho dlhu. Bude stúpať nezamestnanosť a naša hospodárska výkonnosť bude stagnovať. Konajme teda múdro, ak nechceme opäť nechať občanov Európy napospas osudu.

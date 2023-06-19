@@ -1,0 +1,12 @@
+<CHAPTER ID="004">
+Aprovação da acta da sessão anterior
+<SPEAKER ID="010" NAME="Presidente">
+A acta da sessão de quinta-feira, dia 22 de Maio de 2008, já foi distribuída.
+<P>
+Há alguma observação?
+<SPEAKER ID="011" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Senhor Presidente, gostaria de agradecer aos funcionários deste Parlamento a organização da gala dos "Energy Globe Awards", pois este evento constituiu um óptimo exemplo para o mundo e transmitiu uma excelente imagem do nosso Parlamento. Muito obrigado a todos os que participaram na sua organização.
+<SPEAKER ID="012" NAME="Presidente">
+Aceita-se perfeitamente a expressão destas palavras de agradecimento, embora não constasse da acta.
+<P>
+(A acta da sessão anterior é aprovada)

@@ -1,0 +1,8 @@
+<CHAPTER ID="009">
+Schválení zápisu z předchozího zasedání: viz zápis
+<SPEAKER ID="210" NAME="Předsedající">
+Byl rozdán zápis ze zasedání, které se konalo v úterý, 11. března.
+<P>
+Máte k němu nějaké připomínky?
+<P>
+(Zápis byl schválen.)

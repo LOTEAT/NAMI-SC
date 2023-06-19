@@ -1,0 +1,12 @@
+<CHAPTER ID="006">
+Presidentuuri teadaanne
+<SPEAKER ID="072" NAME="Juhataja">
+Kolleegid, nagu te näha võite, on saali paigaldatud kaks uut andmeekraani. Need on suuremad ja pakuvad palju rohkem võimalusi kui varem kasutatud monitorid.
+<P>
+See on esimene samm käimasolevas projektis täiskogu menetluste ajal nii parlamendiliikmetele kui ka avalikkusele antava teabe kvaliteedi ja edastamise täiustamiseks.
+<P>
+Konkreetselt ilmub pärast iga nimelist hääletamist ekraanile lühikeseks ajaks täiskogu graafiline kujutis, mis näitab häälte jagunemist parlamendis. See uus funktsioon, mis on tuttav paljude riikide parlamentidele, lihtsalt kajastab andmeid, mis avaldatakse igal juhul üksikasjalikult istungi protokolli juurde kuuluvas lisas "Hääletamise tulemused".
+<P>
+Siiski, seoses parlamendi juhatuse eile õhtul vastu võetud otsusega otsustab esimeeste konverents põhjalikult läbi mõeldult neljapäeval, kas fraktsioonide esimehed soovivad seda funktsiooni tulevikus püsivalt kasutada.
+<P>
+Vahepeal aga konsulteeriti täna hommikul fraktsioonidega ning nad andsid loa kasutada andmeekraani meie hääletamise ajal täna hommikul katse korras.

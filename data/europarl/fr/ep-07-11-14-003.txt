@@ -1,0 +1,6 @@
+<CHAPTER ID="003">
+Heure des votes
+<SPEAKER ID="082" NAME="Président">
+(EN) L'ordre du jour appelle les mises aux voix.
+<P>
+(Pour obtenir les résultats ou d'autres informations concernant les votes: voir le procès-verbal)

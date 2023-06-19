@@ -1,0 +1,70 @@
+<CHAPTER ID="019">
+Utilização da informática no domínio aduaneiro (debate) 
+<SPEAKER ID="135" NAME="Presidente">
+Segue-se na ordem do dia o relatório do deputado Alexander Alvaro, em nome da Comissão das Liberdades Cívicas, da Justiça e dos Assuntos Internos, sobre uma iniciativa da República Francesa tendo em vista a aprovação de uma decisão do Conselho sobre a utilização da informática no domínio aduaneiro (17483/2008 - C6-0037/2009 -.
+<SPEAKER ID="136" NAME="Alexander Alvaro">
+relator. - (DE) Senhor Presidente, gostaria de saudar o Senhor Comissário Kallas e os meus colegas. Basicamente falando, a questão que estamos prestes a discutir não é, de modo algum, um tema controverso. O assunto em questão é a adaptação das tecnologias da informação no domínio aduaneiro e dos impostos especiais de consumo. Para muitas pessoas, este é um tema extremamente técnico. No entanto, no que diz respeito à luta contra a fraude e outros crimes, constitui um aspecto muito importante da cooperação no domínio aduaneiro e fiscal, e da troca de informações.
+<P>
+O trabalho conjunto com a Presidência sueca do Conselho foi extremamente positivo, e por isso gostaria de agradecer a todos aqueles que nos apoiaram e acompanharam durante todo o processo, pois este dossiê não é exactamente novo. Demonstrámos a nossa cooperação através do facto de o Parlamento ter assumido e votado em comissão alterações significativas, já propostas pelo Conselho no decurso do seu trabalho. Nesta perspectiva, também assumo que a votação sobre o assunto, esta semana, vai ter um resultado positivo.
+<P>
+A única medida em que o Parlamento não está de acordo é o alargamento de competências de que a Europol usufrui nesta área. Esta visão não se reflecte, certamente, em todos os grupos políticos desta Câmara. No entanto, está contida no resultado final da votação do relatório sobre tecnologias da informação no domínio das alfândegas e impostos especiais de consumo. Este ponto está, em certa medida, associado ao debate que se realizou aqui anteriormente, em que a nossa intenção era diferente, ou seja, enviar um sinal de que, tendo muito recentemente definido um mandato para a Europol, ao abrigo do qual esta se tornaria uma agência, sendo alargadas ou ampliadas as suas competências em diversas áreas específicas e de pequena dimensão.
+<P>
+Em grande medida, dada a importância e o papel da Europol, também é apropriado, que o seu campo de actividade seja definido num mandato, como aquele que decidimos. Além disso, promove a transparência, para que não só nós, mas em particular os cidadãos, para quem delineamos as políticas, saibam o que é, ou não é, permitido à Europol. A transparência é parte fundamental de qualquer estrutura que envolve as forças policiais e judiciais dos Estados-Membros, o que também deve ser aplicado a nível europeu.
+<P>
+Fora isto, não há muito a dizer, e embora a tendência seja ultrapassar o tempo de intervenção, neste caso fico por aqui. Gostaria de agradecer à Presidência do Conselho e aos meus colegas pela sua excelente cooperação, e estou certo de que, nesta semana, conseguiremos votar com êxito este relatório.
+<SPEAKER ID="137" NAME="Siim Kallas" LANGUAGE="EN">
+Senhor Presidente, a Comissão apoia, em princípio, o texto do projecto de decisão do Conselho, dado ser necessário garantir que as disposições referentes à assistência mútua e à cooperação administrativa evoluem o mais possível em paralelo e definir as disposições que determinam que o orçamento geral das Comunidades Europeias suportará os custos relacionados com a utilização do Sistema de Informação Aduaneiro pelos Estados-Membros.
+<P>
+Esta correcção jurídica não deverá implicar nenhum aumento no orçamento, e é necessário garantir uma maior complementaridade com a acção no contexto da cooperação com a Europol e a Eurojust concedendo a estas agências o mesmo nível de acesso ao Sistema de Informação Aduaneiro (SIA), incluindo o seu ficheiro de identificação dos processos de inquérito aduaneiro (FIPA). Assim sendo, a Comissão não pode apoiar a alteração do Parlamento que propõe atribuir à Europol e à Eurojust diferentes níveis de acesso ao SIA/FIPA.
+<P>
+Em termos gerais, a Comissão vê com agrado a maioria das alterações apresentadas pelo Parlamento. Neste contexto, gostaria de fazer os seguintes comentários.
+<P>
+A Comissão comunga da opinião do relator, o senhor deputado Alexander Alvaro, de que é lamentável que esta proposta seja decidida de modo tão apressado pelos Estados-Membros antes da entrada em vigor do Tratado de Lisboa. De facto, o Tratado de Lisboa providencia uma nova base jurídica na qual um novo regulamento pode vir a substituir a actual Convenção SIA, um regulamento que poderá ter um efeito directo nos Estados-Membros e não carecer de transposição para as legislações nacionais antes de se tornar operacional, como é o caso do Regulamento (CE) n.º 766/2008 sobre a parte administrativa do SIA.
+<P>
+A Comissão comunga igualmente da opinião do Parlamento Europeu de que, para a supervisão da aplicação informática para efeitos de protecção dos dados, a solução que propõe a substituição da Autoridade Supervisora Comum (ASC) pela Autoridade Europeia para a Protecção de Dados (AEPD) é a mais apropriada. Uma supervisão combinada pela ASC e pela AEPD apresentaria alguns riscos de possível duplicação e sobreposição do trabalho. Em qualquer dos casos, deve ser criado um mecanismo de coordenação, incluindo para a apresentação de recomendações relevantes.
+<SPEAKER ID="139" NAME="Petru Constantin Luhan" LANGUAGE="EN">
+Senhora Presidente, felicito e agradeço ao meu colega Alexander Alvaro pelo seu trabalho e pela boa cooperação durante a elaboração deste relatório. Foi um relatório no qual concordei com o relator nos pontos principais, nomeadamente que o acesso aos dados inseridos no Sistema de Informação Aduaneiro deve ser exclusivamente garantido por organismos e pessoal especificamente designados para o efeito, tais como os Estados-Membros, a Europol e a Eurojust.
+<P>
+Outro ponto que foi suscitado numa das minhas alterações e apoiado pelo relator refere-se ao facto de não ser dada aos Estados-Membros, à Europol e à Eurojust a possibilidade de comunicarem dados a não Estados-Membros e a países terceiros devido à inexistência, nesses países, de uma protecção suficiente dos dados. Na minha opinião, a reavaliação do Sistema de Informação Aduaneiro, tal como consta do relatório, é necessária para melhor o adaptar aos requisitos dos serviços de controlo e para permitir a um número limitado de utilizadores analisar a informação contida no sistema.
+<P>
+Esta reavaliação aumentará também a eficácia dos procedimentos de cooperação e controlo das administrações aduaneiras devido ao sistema de informação conjunto e automatizado, que contribuirá para impedir, investigar e intentar acções contra infracções graves das legislações nacionais.
+<SPEAKER ID="140" NAME="Marie-Christine Vergiat">
+em nome do Grupo GUE/NGL. - (FR) Senhora Presidente, antes de mais, gostaria de rectificar a informação que mostra o quadro informativo. Não aderi ao PPE, continuo no GUE/NGL.
+<P>
+Fomos consultados, a pedido do Governo francês, sobre um texto que visa permitir a cooperação entre as administrações aduaneiras e a Europol e a Eurojust.
+<P>
+Mais uma vez, estamos perante uma matéria que, após a entrada em vigor do Tratado de Lisboa, passará a estar sujeita à co-decisão. Lamentamos portanto - como no que respeita à Europol - que a precipitação leve a melhor sobre a vontade de garantir as liberdades fundamentais.
+<P>
+Em todos estes textos, lamentamos que o indispensável equilíbrio entre segurança e respeito dos direitos fundamentais seja posto em causa cada dia um pouco mais, em detrimento das liberdades, em prol de resultados globais nem sempre justificados para os nossos concidadãos.
+<P>
+Lamentamos que, relativamente a este texto que visa estabelecer interconexões entre os ficheiros das alfândegas, da polícia e da Eurojust, a posição que o Parlamento Europeu nos propõe adoptar seja mais tímida do que sobre a Europol, pois os perigos são os mesmos e as protecções enunciadas são ainda mais frágeis nos textos submetidos à nossa apreciação. Assim, por exemplo, não podemos deixar de ficar escandalizados com o facto de não existir nenhum limite claro quanto ao tempo de retenção dos dados.
+<P>
+Neste momento em que, em todos os nossos países, as políticas de segurança atentam cada dia mais gravemente contra as nossas liberdades fundamentais, lamentamos que o Parlamento Europeu não desempenhe plenamente o seu papel de garante das liberdades e dos direitos fundamentais.
+<P>
+Alguns melhoramentos nesse sentido, que propus nomeadamente sobre a Europol, foram aprovados. Congratulo-me com o facto e agradeço aos meus colegas, mas continuam a ser insuficientes, nomeadamente no que respeita aos princípios da proporcionalidade e da necessidade, que devem prevalecer sempre quando se põem em causa os direitos e as liberdades.
+<P>
+Eis a razão por que, se não forem aprovadas outras alterações mais protectoras dos nossos concidadãos, o Grupo Confederal da Esquerda Unitária Europeia/Esquerda Nórdica Verde irá abster-se sobre este texto.
+<SPEAKER ID="141" NAME="Carlos Coelho" AFFILIATION="PPE">
+Senhor Presidente, com esta iniciativa pretende-se que as administrações aduaneiras dos Estados-Membros estabeleçam um sistema automático comum de informação no domínio aduaneiro. Esse sistema de informação deverá contribuir para a prevenção, investigação e eliminação de ofensas, não apenas às leis comunitárias, mas também às leis nacionais.
+<P>
+Saúdo a vontade de facilitar o intercâmbio de informações, de melhorar e reforçar a cooperação aduaneira e o estabelecimento de procedimentos para acções comuns. Não tenho dúvidas de que um intercâmbio rápido e eficiente de informações prestará um serviço fundamental no sentido de lutar contra actividades de comércio ilegal.
+<P>
+Quando falamos de sistemas de informação não podemos esquecer, porém, que neles estão contidos dados pessoais e que as questões relacionadas com a protecção desses dados e da privacidade das pessoas assumem uma importância primordial.
+<P>
+Concordo com o relator, Alexander Alvaro, que temos que estar atentos de forma a evitar eventuais violações de direitos fundamentais, nomeadamente, o direito à privacidade, pelo que as informações de carácter pessoal a introduzir no sistema deverão limitar-se ao estritamente necessário, sem atentar contra a privacidade das pessoas. Tem que estar garantido que a utilização desses dados só poderá ser feita para finalidades claramente definidas e delimitadas no âmbito do quadro jurídico aplicável. E esses dados só deverão ser mantidos pelo período necessário para alcançar o objectivo pelo qual foram introduzidos.
+<P>
+É igualmente importante garantir que o acesso a este sistema de informação seja transparente e consentâneo com as disposições aplicáveis a sistemas de informação semelhantes, como é o caso do SIS II ou do VIS. Também por isso não apoio as emendas propostas pelo Grupo GUE/NGL.
+<P>
+Quanto à supervisão em termos de protecção de dados, em vez de se tentarem criar soluções ad hoc, é preferível e recomendável manter e aplicar o mesmo sistema de supervisão que foi decidido aplicar a outros sistemas semelhantes, não só por uma questão de coerência, mas também para evitar que exista qualquer desnivelamento em matéria de protecção de dados.
+<P>
+Finalmente, Senhora Presidente, partilho da opinião do Comissário Kallas e do relator Alexander Alvaro, lamentando a forma apressada como o Conselho procurou fechar este dossiê antes da entrada em vigor do Tratado de Lisboa.
+<SPEAKER ID="142" NAME="Alexander Alvaro">
+relator. - (DE) Senhora Presidente, este é um emocionante dossiê legislativo, como podemos ver pelo facto de muitas pessoas desejarem fazer uso da palavra. No entanto, gostaria de aproveitar esta oportunidade para, com brevidade, responder ao que o Senhor Comissário Kallas referiu, ou seja, a rejeição pela Comissão das alterações propostas relativamente à Europol. Entendo muito bem os motivos da Comissão, bem como o desejo de manter a coerência.
+<P>
+Mesmo agora, o senhor deputado Coelho referiu uma questão, que também foi mencionada por outros colegas, incluindo a senhora deputada Vergiat, e que nos tem dado muito que pensar. Quando somos confrontados com a tarefa de alcançar os mais elevados padrões no que diz respeito aos dados pertencentes aos nossos cidadãos, não é muito útil - e talvez isto seja algo que a Comissão deva considerar, no futuro, apesar de ter rejeitado as propostas - termos disposições relativas à competência da Europol, ou seja, que dados são processados, sob a autoridade de quem, ou para quem esta é transferida, quais são divididos entre vários dossiês legislativos. Chega-se a um ponto em que já não é claro, quais os dados que podem ser utilizados pela Europol e como esta o pode fazer, e que os dados, para os quais não há autorização para serem utilizados. No que respeita ao mandato da Europol, faria mais sentido se todos estes fossem estabelecidos em termos gerais, em vez de estar sempre a elaborar-se legislação caso a caso. Tornar-se-ia a legislação mais transparente para os cidadãos e, certamente, também beneficiaria o trabalho da Europol.
+<P>
+Fora isto, nada mais tenho a acrescentar. Talvez apenas um breve comentário sobre um ponto que foi mencionado anteriormente, a saber, os direitos de acesso diferenciados, concedidas à Eurojust e à Europol. Neste caso, é claro, deve-se levar em conta o facto de um organismo de aplicação da lei operar de forma diferente a um organismo encarregado de instaurar o processo judicial, devendo, portanto, ter uma área de acção diferente. No entanto, se, no futuro, vamos ter um Comissário para a Justiça, também poderemos ser capazes de lidar com esta questão a nível europeu.
+<SPEAKER ID="143" NAME="Presidente">
+Está encerrado o debate.
+<P>
+A votação terá lugar amanhã às 12H00.

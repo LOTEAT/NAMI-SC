@@ -1,0 +1,70 @@
+<CHAPTER ID="019">
+Tietotekniikan käyttö tullialalla (keskustelu) 
+<SPEAKER ID="135" NAME="Puhemies">
+(HU) Esityslistalla on seuraavana Alexander Alvaron kansalaisvapauksien sekä oikeus- ja sisäasioiden valokunnan puolesta laatima mietintö Ranskan tasavallan aloitteesta neuvoston päätöksen tekemiseksi tietotekniikan käytöstä tullialalla (17483/2008 - C6-0037/2009 -.
+<SPEAKER ID="136" NAME="Alexander Alvaro" LANGUAGE="DE">
+Arvoisa puhemies, toivotan tervetulleeksi komission jäsen Kallasin ja kollegani. Periaatteessa aihe, josta meidän on tarkoitus keskustella, ei ole lainkaan kiistanalainen. Käsiteltävänä oleva asia koskee tietotekniikan soveltamista tullialalla. Monien mielestä tämä on erittäin tekninen aihe. Petosten ja muiden rikosten torjunnassa se on kuitenkin erittäin tärkeä yhteistyömuoto tullialalla ja tietojenvaihdossa.
+<P>
+Me olemme tehneet oikein hyvää yhteistyötä puheenjohtajavaltio Ruotsin kanssa, ja haluaisin siksi kiittää niitä, jotka ovat olleet mukana ja tukeneet meitä, koska tämä asiakirja ei ole kovinkaan uusi. Me olemme osoittaneet yhteistyömme siten, että parlamentti on ottanut mukaan neuvoston työn edetessä esittämiä tärkeitä muutoksia ja äänestänyt niistä valiokunnassa. Siksi oletan myös, että tämän viikon äänestyksen tulos on myönteinen.
+<P>
+Ainoa toimenpide, josta parlamentti ei ole samaa mieltä, on Europolin valtuuksien laajentaminen tällä alueella. Tämä näkemys ei varmastikaan vastaa kaikkien parlamentin poliittisten ryhmien näkemystä. Se näkyy kuitenkin tietotekniikan käytöstä tullialalla laadittua mietintöä koskevan äänestyksen lopputuloksessa. Se liittyy jossain määrin keskusteluun, joka käytiin täällä aiemmin, mutta meidän tarkoituksemme oli eri, nimittäin viestittäminen siitä, että vaikka oli vasta hiljattain määritetty Europolin mandaatti, jonka mukaan siitä tulisi erillisvirasto, sen valtuuksia laajennetaan pienillä yksittäisillä alueilla.
+<P>
+Europolin merkityksen ja tehtävän huomioon ottaen on myös erittäin sopivaa, että sen vastuualue määritetään mandaatissa, josta me jo kerran päätimme. Se edistää myös avoimuutta, niin että meidän lisäksemme myös erityisesti kansalaiset, joiden puolesta teemme politiikkaa, tietävät, mitä Europol saa ja mitä se ei saa tehdä. Avoimuus on oleellinen osa jäsenvaltioiden kaikkien syyttäjä- ja poliisilaitosten rakennetta, ja sitä on sovellettava myös EU:n tasolla.
+<P>
+Sen lisäksi ei ole paljoa sanottavaa, ja vaikka usein puheenvuoroa halutaan pidentää, minä voin tässä tapauksessa päättää omani lyhyeen. Haluan kiittää neuvoston puheenjohtajaa ja kollegojani erinomaisesta yhteistyöstä, ja olen varma, että me voimme äänestää mietinnöstä tällä viikolla menestyksellä.
+<SPEAKER ID="137" NAME="Siim Kallas" LANGUAGE="EN">
+Arvoisa puhemies, komissio tukee periaatteessa neuvoston päätösluonnosta, koska on välttämätöntä varmistaa, että keskinäistä avunantoa ja hallintoyhteistyötä koskevia säännöksiä kehitetään mahdollisimman pitkään rinnakkain, ja on välttämätöntä sopia säännöksistä, joilla säädetään, että tullitietojärjestelmän käyttöön jäsenvaltioissa liittyvät kustannukset maksetaan Euroopan yhteisöjen yleisestä talousarviosta.
+<P>
+Tämän oikeudellisen korjauksen ei pitäisi suurentaa talousarviota, ja on välttämätöntä varmistaa, että Europolin ja Eurojustin yhteistyöhön liittyvät toimet ovat toisiaan täydentäviä, myöntämällä näille virastoille samantasoiset käyttöoikeudet tullitietojärjestelmään ja sen tullitutkintatietokantaan. Koska näin on, komissio ei voi tukea parlamentin tarkistusta, jonka tavoitteena on myöntää Europolille ja Eurojustille eritasoiset käyttöoikeudet tullitietojärjestelmään ja tullitutkintatietokantaan.
+<P>
+Yleisesti ottaen komissio on tyytyväinen suurimpaan osaan parlamentin esittämistä tarkistuksista. Tässä yhteydessä haluaisin tehdä seuraavat huomautukset.
+<P>
+Komissio on esittelijä Alvaron kanssa samaa mieltä siitä, että on valitettavaa, että jäsenvaltioiden on päätettävä tästä ehdotuksesta ennen Lissabonin sopimuksen voimaantuloa. Itse asiassa Lissabonin sopimus muodostaa uuden oikeusperustan, jolloin uusi asetus voisi korvata nykyisen TTJ-yleissopimuksen, asetus, jolla olisi suora vaikutus jäsenvaltioissa ja jota ei tarvitsisi ennen sen voimaantuloa siirtää osaksi kansallista lainsäädäntöä, kuten on asian laita tällä hetkellä tullitietojärjestelmän hallintoa koskevan asetuksen (EY) No 766/2008 suhteen.
+<P>
+Komissio on Euroopan parlamentin kanssa myös samaa mieltä siitä, että tietotekniikkasovelluksen tietosuojan kannalta ratkaisu, jonka tavoitteena on yhteisen valvontaviranomaisen korvaaminen Euroopan tietosuojavaltuutetulla, on paras mahdollinen. Yhteisen valvontaviranomaisen ja Euroopan tietosuojavaltuutetun yhteisen valvonnan vaarana olisi mahdollinen kaksinkertainen ja päällekkäinen työ. Joka tapauksessa pitäisi luoda koordinointimekanismi, johon kuuluisi asiaankuuluvien suositusten antaminen.
+<SPEAKER ID="139" NAME="Petru Constantin Luhan" LANGUAGE="EN">
+Arvoisa puhemies, onnittelen ja kiitän kollegaani Alexander Alvaroa hänen työstään ja tämän mietinnön laatimisen aikaisesta hyvästä yhteistyöstämme. Olin tässä mietinnössä esittelijän kanssa samaa mieltä tärkeimmistä kohdista, nimittäin siitä, että oikeus tullitietojärjestelmään syötettyjen tietojen varmistamiseen olisi vain erityisesti sitä varten nimitetyillä elimillä ja henkilökunnalla, kuten jäsenvaltioilla, Europolilla ja Eurojustilla.
+<P>
+Toinen yhdessä tarkistuksistani esittämäni kohta, jota esittelijät tukivat, viittaa siihen, että jäsenvaltioille, Europolille ja Eurojustille ei tarjota mahdollisuutta siirtää tietoja muille kuin jäsenvaltioille ja kolmansille maille, koska näissä maissa ei ole riittävää tietosuojaa. Mielestäni mietinnössä esitetty tullitietojärjestelmän uudistaminen on välttämätöntä, jotta sitä voidaan paremmin mukauttaa valvontayksiköiden vaatimuksiin ja sallia rajallisen määrän käyttäjiä analysoivan järjestelmässä olevia tietoja.
+<P>
+Uudistus lisää myös tullihallintojen yhteistyön ja valvontamenettelyjen tehokkuutta yhteisen automatisoidun tietojärjestelmän avulla, mikä auttaa kansallisten lakien vakavien rikkomisten ehkäisemistä ja tutkimista ja niistä syytteeseen asettamista.
+<SPEAKER ID="140" NAME="Marie-Christine Vergiat" LANGUAGE="FR">
+Arvoisa puhemies, haluaisin ensin korjata ilmoitustaululla olevat tiedot. Minä en ole liittynyt Euroopan kansanpuolueen (kristillisdemokraattien) ryhmään vaan kuulun edelleen Euroopan yhtyneen vasemmiston konfederaatioryhmään / Pohjoismaiden vihreään vasemmistoon.
+<P>
+Meille on Ranskan hallituksen pyynnöstä esitelty teksti, jossa edellytetään tullihallintojen tekevän yhteistyötä Europolin ja Eurojustin kanssa.
+<P>
+Tämä on taas kerran alue, joka on Lissabonin sopimuksen voimaantulon jälkeen todennäköisesti yhteispäätösmenettelyn alainen. Siksi pahoittelemme sitä, että samoin kuin Europolin suhteen kiire on ollut tärkeämpi kuin halu turvata perusvapaudet.
+<P>
+Pahoittelemme sitä, että kaikissa näissä teksteissä turvallisuuden ja perusoikeuksien kunnioittamisen välinen ratkaiseva tasapaino on yhä enemmän uhattuna vapauksien kustannuksella eivätkä tulokset aina vakuuta kansalaisiamme.
+<P>
+Pahoittelemme myös sitä, että tätä tekstiä, jossa pyritään luomaan yhteyksiä tullien, poliisin ja Eurojustin tiedostojen välille, koskeva Euroopan parlamentin meidän hyväksyttäväksemme ehdottama kanta on varovaisempi kuin meidän kantamme Europolista, sillä uhkat ovat samat ja tekstissä säädetyt suojat ovat vieläkin hauraampia. On esimerkiksi pöyristyttävää, että tietojen säilytysajoille ei ole mitään selvää takarajaa.
+<P>
+Aikana, jolloin kaikissa maissamme perusvapauksia horjutetaan jatkuvasti turvallisuuspolitiikan vuoksi, pahoittelemme sitä, että Euroopan parlamentti ei täytä asianmukaisesti tehtäväänsä perusoikeuksien ja -vapauksien turvaajana.
+<P>
+Joitakin ehdottamiani, erityisesti Europoliin liittyviä parannuksia on hyväksytty tällä alueella. Olen siitä hyvin tyytyväinen ja kiitän kollegojani, mutta nämä eivät ole riittäviä varsinkaan suhteellisuus- ja välttämättömyysperiaatteiden osalta, joiden on aina voitettava silloin, kun on kyse oikeuksista ja vapauksista.
+<P>
+Näistä syistä ja jos muita kansalaistemme suojelua parantavia tarkistuksia ei hyväksytä, GUE/NGL-ryhmä pidättyy äänestämästä tästä tekstistä.
+<SPEAKER ID="141" NAME="Carlos Coelho" AFFILIATION="PPE">
+(PT) Arvoisa puhemies, tämän aloitteen tarkoituksena on luoda jäsenvaltioiden tullihallinnoille jaettu, automatisoitu tullitietojärjestelmä. Tällainen järjestelmä auttaisi ehkäisemään, tutkimaan ja estämään sekä yhteisön että kansallisen lainsäädännön rikkomisia.
+<P>
+Olen tyytyväinen siihen, että halutaan vaihtaa tietoja, parantaa ja lujittaa tulliviranomaisten välistä yhteistyötä ja luoda yhteisiä toimia koskevia menettelyjä. Olen varma siitä, että nopea ja tehokas tietojenvaihto auttaa luomaan palvelun, joka on laittoman kaupankäynnin torjumisen kannalta ratkaiseva.
+<P>
+Kun me puhumme tietojärjestelmistä, emme kuitenkaan saisi unohtaa sitä, että ne sisältävät henkilötietoja ja että näiden tietojen ja yksityisyyden suojaamiseen liittyvät kysymykset ovat äärimmäisen tärkeitä.
+<P>
+Olen esittelijä Alvaron kanssa samaa mieltä siitä, että meidän on pysyttävä valppaina, jotta vältämme mahdolliset perusoikeuksien rikkomiset, erityisesti yksityisyyden suojan, minkä vuoksi järjestelmään syötetyt henkilökohtaiset tiedot pitää rajata vain ehdottoman välttämättömiin, niin ettei loukata yksityisyyden suojaa. Meidän on taattava, että näitä tietoja voidaan käyttää ainoastaan sovellettavan lainsäädännön puitteissa selvästi määritettyihin ja rajoitettuihin tarkoituksiin. Lisäksi näitä tietoja pitäisi säilyttää vain niin kauan kuin on tarpeen sen tarkoituksen kannalta, jonka vuoksi ne on tallennettu.
+<P>
+Yhtä tärkeää on varmistaa, että tämän tietojärjestelmän käyttö on avointa ja vastaaviin tietojärjestelmiin, kuten tietojärjestelmään II tai viisumitietojärjestelmään, sovellettavien säädösten mukaista. Tämän vuoksi en tue Euroopan yhtyneen vasemmiston konfederaatioryhmän / Pohjoismaiden vihreän vasemmiston tarkistuksia.
+<P>
+Mitä tulee tietosuojan valvontaan, sen sijaan että yritettäisiin luoda tilapäisiä ratkaisuja, olisi parempi ja hyödyllisempää säilyttää ja toteuttaa sama valvontajärjestelmä kuin muille vastaaville järjestelmille on valittu ei pelkästään yhdenmukaisuuden vuoksi vaan myös sen varmistamiseksi, että tietosuojassa ei ole eroavuuksia.
+<P>
+Lopuksi, arvoisa puhemies, pahoittelen komission jäsen Kallasin ja esittelijä Alvaron tavoin tapaa, jolla neuvosto on yrittänyt saada hyväksytyksi tämän asiakirjan ennen Lissabonin sopimuksen voimaantuloa.
+<SPEAKER ID="142" NAME="Alexander Alvaro" LANGUAGE="DE">
+Arvoisa puhemies, kuten näemme siitä, että monet haluavat käyttää puheenvuoron, tämä on tunteita herättävä lainsäädäntöasiakirja. Haluaisin silti lyhyesti hyödyntää tilaisuuden ja vastata komission jäsen Kallasin puheenvuoroon, nimittäin siihen, että komissio ei hyväksy ehdotettuja Europolia koskevia tarkistuksia. Ymmärrän erittäin hyvin komission perustelut sekä halun säilyttää yhdenmukaisuus.
+<P>
+Carlos Coelho viittasi juuri asiaan, jonka moni muukin on maininnut, myös Marie-Christine Vergiat, ja joka on antanut meille paljon ajattelemisen aihetta. Jos tehtävänämme on saavuttaa mahdollisimman korkeat kansalaisten tietojen säilyttämistä koskevat standardit, ei ole kovinkaan suurta apua - ja ehkäpä komissio voisi harkita tätä tulevaisuudessa, vaikka hylkäsikin ehdotukset - siitä, että meillä olisi Europolin vastuualuetta koskevat säännökset siitä, mitä tietoja käsitellään, kenen valtuuksilla se tehdään tai kenelle tiedot siirretään, jaettuna useisiin eri lainsäädäntöasiakirjoihin. Jossain vaiheessa ei enää ole selvää, mitä tietoja Europol voi käyttää ja miten ja mitä tietoja ei saa käyttää. Silloin olisi Europolin mandaatin suhteen järkevämpää, jos kaikesta tästä säädettäisiin yhteisesti, sen sijaan, että lainsäädäntöä laaditaan aina tapauskohtaisesti. Lainsäädäntö olisi silloin kansalaisille avoimempaa ja hyödyttäisi varmasti myös Europolin työtä.
+<P>
+Muuten minulla ei ole enää mitään lisättävää. Ehkäpä huomautan vielä lyhyesti asiasta, joka mainittiin aiemmin, nimittäin Eurojustin ja Europolin erilaisista käyttöoikeuksista. Tässä tapauksessa täytyy tietysti ottaa huomioon se, että lainvalvontaelin toimii eri lailla kuin syyttäjäelin ja siksi niillä on oltava eri vastuualueet. Jos meillä on tulevaisuudessa oikeusasioista vastaava komission jäsen, voimme myös käsitellä tätä aihetta EU:n tasolla.
+<SPEAKER ID="143" NAME="Puhemies">
+(DE) Keskustelu on päättynyt.
+<P>
+Äänestys toimitetaan huomenna klo 12.00.

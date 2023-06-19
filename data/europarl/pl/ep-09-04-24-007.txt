@@ -1,0 +1,6 @@
+<CHAPTER ID="007">
+Głosowanie
+<SPEAKER ID="102" NAME="Przewodnicząca">
+Następnym punktem posiedzenia jest głosowanie.
+<P>
+(Szczegóły głosowania: patrz protokół)

@@ -1,0 +1,6 @@
+<CHAPTER ID="011">
+Interruption de la session
+<SPEAKER ID="196" NAME="Le Président">
+Je déclare interrompue la séance du Parlement européen.
+<P>
+(La séance est levée à 13 heures)

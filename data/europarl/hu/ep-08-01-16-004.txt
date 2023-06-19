@@ -1,0 +1,6 @@
+<CHAPTER ID="004">
+Szavazás
+<SPEAKER ID="093" NAME="Elnök">
+A következő napirendi pont a szavazás.
+<P>
+(A szavazás eredményét és egyéb részleteit lásd a jegyzőkönyvben)

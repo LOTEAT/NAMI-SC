@@ -1,0 +1,78 @@
+<CHAPTER ID="013">
+En europæisk frekvenspolitik (forhandling) 
+<SPEAKER ID="306" NAME="Formanden">
+Næste punkt på dagsordenen er betænkning af Fiona Hall for Udvalget om Industri, Forskning og Energi om en europæisk frekvenspolitik.
+<SPEAKER ID="307" NAME="Fiona Hall " AFFILIATION="ALDE">
+ordfører. - (EN) Fru formand! Jeg vil for det første gerne takke alle dem, der delte deres viden og ekspertise med mig i forbindelse med udarbejdelsen af betænkningen. Jeg vil især gerne takke Kommissionen for dens store hjælp samt mine kolleger, skyggeordførerne fra de andre grupper, for deres meget konstruktive og hjælpsomme forslag.
+<P>
+Hovedtanken i betænkningen er, at den nuværende metode til forvaltning af radiofrekvenser ikke længere er tilstrækkelig som følge af den stadige indførelse af nye teknologier. Disse nye teknologier er baseret på radiofrekvenser, men antallet af radiofrekvenser vil altid være begrænset alene som følge af fysikkens love, og vi er således nødt til at finde ud af, hvordan vi sikrer, at denne dyrebare ressource anvendes så effektivt som muligt.
+<P>
+Det er muligt, at det frekvenspolitiske område lyder uforståeligt og uinteressant for den almindelige borger, men det endelige resultat af denne politik er af grundlæggende interesse, da det er et spørgsmål om arbejdspladser og økonomisk vækst. Hvis det ikke lykkes os at forbedre vores tilgang til frekvensforvaltning, svigter vi den europæiske industri, der har mulighed for at blive en global leder inden for kommunikationsteknologi. Alle de innovative tiltag, som industrien har skabt, vil ikke kunne udvikles ordentligt uden tilgængelige frekvenser, og hvis industrien ikke har mulighed for at operere på hele det europæiske marked med 500 millioner indbyggere.
+<P>
+Lissabon-dagsordenen er den drivende kraft bag den nye tilgang til frekvenser. Europa bliver imidlertid også nødt til at tænke langsigtet med hensyn til, hvordan den skal gøre tjenester af almen og offentlig interesse tilgængelige. Jeg vender tilbage til disse spørgsmål om lidt.
+<P>
+Jeg vil gerne indledningsvis sige et par ord om de foreslåede ændringer. I øjeblikket er frekvensforvaltningen baseret på en administrativ styrings- og kontroltilgang, hvor bestemte frekvenser tildeles bestemte brugere. Det anføres i betænkningen, at denne administrative model skal suppleres af en mere fleksibel tilgang, der kunne omfatte frigørelse af flere frekvenser til leverandører uden licens og handel med frekvenser,
+<P>
+Et vigtigt element i denne mere fleksible tilgang er, at frekvenserne bør gøres tilgængelige, uden at der stilles betingelser om tjenesteydelsens art eller den anvendte teknologi. Frekvensforvaltningens markedsbaserede element vil med andre ord være tjeneste- og teknologineutralt.
+<P>
+Denne frigørelse af frekvenser giver helt klart en række problemer for nuværende brugere som f.eks. risikoen for interferens. Det er derfor meget vigtigt, at ændringerne sker på grundlag af en klar retlig ramme, som klart definerer tvistbilæggelsesordninger.
+<P>
+Det understreges flere steder i betænkningen, f.eks. i punkt 11 og 13, at det er vigtigt at beholde tjenester af offentlig og almen interesse og at støtte den sproglige og kulturelle mangfoldighed. Det er vigtigt, at denne politiske forpligtelse ikke blandes sammen med det tekniske spørgsmål om, hvordan sådanne tjenester skal leveres.
+<P>
+Jeg mener, at det ville være en stor fejltagelse at øremærke de frekvenser, der i øjeblikket anvendes af radio/tv-spredningstjenester, ved at udelukke dem fra en ny tilgang til frekvensforvaltning. Vi ville rent faktisk skade vores muligheder for at støtte et bredt spektrum af samfundsnyttige tjenester, hvis vi insisterede på, at disse tjenester skulle leveres på nøjagtig samme måde som hidtil, fastfrosset i tid netop på et tidspunkt, hvor alle andre frekvensanvendelser er inde i en rivende udvikling.
+<P>
+I EU står vi f.eks. over for den udfordring at skulle bygge bro over den kløft, der er ved at blive skabt mellem borgere, der har adgang til internettet og borgere, der ikke har adgang. Vi kunne nemt sikre de fattigste regioner i vores fattigste lande adgang til internettet ved at gøre trådløse bredbånd tilgængelige og således få gavn af nogle af de frigjorte frekvenser ved overgangen fra analog til digital radio-/tv-spredning, det digitale overskud.
+<P>
+Det er blot et eksempel, der illustrerer, hvorfor vi er nødt til at bekræfte vores vilje til at sikre tjenester af offentlig og almen interesse, men det illustrerer også, hvorfor vi ikke må behandle de frekvenser, der i øjeblikket anvendes af radio/tv-spredningstjenesterne, som urørlige. Vi er nødt til at få det bedste ud af mulighederne for at tilvejebringe tjenester på nye måder ved hjælp af nye teknologier og til flere mennesker end i dag. Det er også af afgørende betydning at støtte væksten af en videnbaseret økonomi i Europa. Det er således vigtigt at give mulighed for en mere fleksibel anvendelse på hele radiofrekvensområdet, og vi må ikke udelukke visse frekvenser.
+<P>
+Endelig glæder jeg mig over PSE-Gruppens ændringsforslag, der er en afbalanceret sammenfatning af de centrale spørgsmål i denne sag.
+<SPEAKER ID="308" NAME="Mariann Fischer Boel">
+medlem af Kommissionen. - (EN) Fru formand! Jeg er nødt til at komplimentere Parlamentet, især ordføreren fru Hall, der har forstået, at Europa står over for at skulle træffe nogle vigtige valg på det frekvenspolitiske område.
+<P>
+Politiske beslutninger på dette område indvirker direkte på arbejdspladsernes kvalitet og væksten i den europæiske økonomi. Frekvensbaserede tjenester udgør ca. 2-3 % af Europas BNP. Undersøgelser foranlediget af Verdensbanken og OECD viser en klar sammenhæng mellem udviklingen af elektroniske kommunikationstjenester og økonomisk vækst. I en økonometrisk undersøgelse foranlediget af Kommissionen blev det forsigtigt anslået, at bedre frekvenser vil medføre en yderligere vækst i BNP på 0,1 % pr. år. Dette ville hurtigt resultere i reelle fordele.
+<P>
+Sagens hastende karakter kan illustreres med ordet "sammensmeltning". Næsten al kommunikation er med stor hast ved at blive digitaliseret, og et stigende antal infrastrukturer konkurrerer om at tilbyde tjenester. De gamle kategorier er ved at forsvinde, og vi er nødt til at indføre en forordning, der giver frekvensbrugerne mulighed for at vælge det miks af tjenester og teknologier, de foretrækker, og som i mange tilfælde giver dem mulighed for at købe og sælge frekvensrettigheder til hinanden.
+<P>
+Der er stadig vægtige grunde til at regulere dette område. Vi er nødt til at regulere interferensen. Vi er nødt til at sikre, at brugsrettighederne til frekvenser er klart definerede, og vi er nødt til at sikre lige vilkår. Den betænkning, som vi drøfter i aften, er på de fleste områder i overensstemmelse med denne politiske vision, og jeg vil gerne takke ordføreren for hendes indsats.
+<P>
+Vi har bl.a. forskellige holdninger til inddragelse af frekvenser til jordbaseret radio-/tv-spredning i de planlagte reformer. Vi sætter ikke spørgsmålstegn ved tv-selskabernes public service-funktion eller deres bidrag til kulturel og sproglig mangfoldighed. Vi bør imidlertid tænke os nøje om, før vi giver en bestemt form for radio-/tv-spredning fortrinsstilling uden hensyntagen til de samfundsmæssige omkostninger i form af tabte muligheder.
+<P>
+Det understreges f.eks. med rette i betænkningen, at trådløst bredbånd kan bidrage til udviklingen af landdistrikterne og til at mindske den digitale kløft. Det er i denne forbindelse nødvendigt at træffe barske valg mellem radio-/tv-spredning og andre tjenester. Der skal træffes nødvendige beslutninger for at beskytte ressourcerne og den offentlige radio- og tv-virksomhed, men vi bør ikke bruge frekvenspolitikken som en erstatning for en virkelig debat. Ændringsforslaget indeholder en mere afbalanceret tilgang ved at nævne behovet for at sikre medietjenesternes stabilitet og sikkerhed og vigtigheden af lige vilkår for nye aktører og nye teknologier.
+<P>
+Afslutningsvis vil jeg blot bemærke, at de nationale lovgivere på grundlag af en fuldstændig analyse ønsker at tildele frekvenser til radio- og tv-selskaberne. Disse brugere skal også have samme forpligtelse som alle andre brugere til at forvalte en offentlig ressource ordentligt og anvende den så effektivt som muligt. Vi mener, at vores reformforslag vil fremme gennemførelsen af dette princip.
+<SPEAKER ID="309" NAME="Etelka Barsi-Pataky">
+for PPE-DE-Gruppen. - (HU) Fru formand! Teknologisk innovation giver Europa reelle nye muligheder. Overgangen til digital teknologi har ført til et overskud af de hidtil knappe frekvenser. Det er derfor passende og nødvendigt at gøre det muligt at anvende en del af dette overskud til nye teknologier og således give den europæiske informations- og kommunikationsteknologi adgang til et dynamisk område.
+<P>
+Den nødvendige lovgivning i denne forbindelse skal udformes, således at det traditionelle system, anvendelse uden licens og handel med frekvenser omfattes af en effektiv frekvensforvaltning. Der er behov for klare regler, der fastlægger, hvilke og hvor mange frekvenser, der kan handles med.
+<P>
+Gruppen for Det Europæiske Folkeparti (Kristlige Demokrater) og De Europæiske Demokrater mener, at vi meget snart er nødt til at skabe fuld klarhed omkring handel med frekvenser og standardbetingelser. Vi skal i denne forbindelse udvise særlig forsigtighed med hensyn til radio-/tv-transmissionsfrekvenser. Det skal sikres, at frekvenserne ikke kan akkumuleres, og at der ikke dannes monopoler. Vi er nødt til at fremme spredningen af nye teknologier til mindre udviklede regioner og landdistrikter, men på en sådan måde, at de ikke kommer til at betale de hermed forbundne omkostninger.
+<P>
+Gruppen for Det Europæiske Folkeparti er fuldstændig overbevist om, at vi i denne forbindelse er nødt til at tage hensyn til sociale, kulturelle og politiske aspekter med henblik på at fremme kulturel og sproglig mangfoldighed. Under udarbejdelsen af betænkningen nævnte jeg igen og igen de forskelle særlige forhold i de nye medlemsstater, som der skal tages hensyn til i forbindelse med udformningen af reglerne. Jeg glæder mig derfor over fru Trautmanns initiativ på dette område, som jeg støtter. Endelig er medlemsstaterne nødt til at frigøre frekvenser med henblik på teknologisk harmonisering på europæisk plan, og dette skal ske på grundlag af en høj grad af enighed.
+<SPEAKER ID="310" NAME="Catherine Trautmann" LANGUAGE="FR">
+Fru formand! Fru kommissær, fru ordfører, mine damer og herrer, vi er blevet bedt om at udtale os om fordelingen af radiofrekvenser.
+<P>
+Det er et meget vigtigt anliggende, og årsagerne til, at Kommissionen ønsker et forslag, som sigter på at optimere eller maksimere fordelene ved denne ressource, ligger naturligvis i den teknologiske udvikling, i at der findes et digitalt overskud og i den klart udtrykte vilje i Lissabon-målsætningerne til at kunne sikre, at alle får adgang til de nye tjenester, hvad enten det er internet, mobiltelefoni eller mange andre tjenester.
+<P>
+Vi har netop talt om især bredbåndet, som kunne gøre det muligt at indsnævre den digitale kløft, som Unionen døjer med, ganske særligt i landområderne og de tyndt befolkede områder. Vi skal derfor forsøge at sørge for en rationel brug af frekvenserne, som kan sikre universel dækning i Unionens 27 lande med henblik på en varig udvikling af områderne.
+<P>
+Frekvenserne er faktisk en ressource, et offentligt, fælles gode, som er strategisk vigtigt for Unionen, og vi skal opnå konstant effektiv frekvensudnyttelse. På samme måde som vi taler om effektiv energiudnyttelse, tror jeg også, at vi kan tale om effektiv udnyttelse af radiofrekvenserne.
+<P>
+Jeg vil gerne rose bestræbelserne i Kommissionen, som har villet tilføje en ny europæisk dimension til anvendelsen af dette digitale overskud og undgå, at det egentlige problem gentager sig. Vi oplevede det sådan, og virksomhederne betragtede det som et problem, da UMTS-netværkene blev sat til salg. Kommissionen foreslår at skabe et marked. Vi må kunne finde ud af, hvordan vi sikrer større fleksibilitet, undgår spekulation og monopoler og gør frekvenserne tilgængelige for nye tjenester og nye abonnenter.
+<P>
+Jeg tror, at dette ønske går i den rigtige retning. Vi skal her finde nye muligheder for innovation, men vi skal være forsigtige med, hvordan de markedsføres, hvad enten det sker gennem licenser, bud eller overdragelser af især offentlige tjenester eller tjenester med fri adgang, om det så kun er midlertidigt. Vi mangler stadig at definere de forskellige tiltag.
+<P>
+Vi har haft en forhandling i vores udvalg vedrørende placeringen af tv-stationerne, og jeg vil gerne her meget eftertrykkeligt understrege, at jeg for mit vedkommende altid har forsvaret særegenheden ved de informationsprogrammer og kulturprogrammer, som tv-stationerne sender, og især de offentlige stationer, som ikke har den nødvendige private kapital til at kunne betale for markedsadgang på samme betingelser som de såkaldt almindelige virksomheder.
+<P>
+Derfor, hvis vi skal tage hensyn til denne situation og være fair og upartiske, har Den Socialdemokratiske Gruppe stillet et ændringsforslag, som har til hensigt at tage den effektive frekvensudnyttelse, balancen mellem respekten for offentlige udsendelser og statslige sikkerhedsudsendelser og også lovgivernes rolle og virksomhedernes rolle i betragtning.
+<SPEAKER ID="311" NAME="Rebecca Harms" LANGUAGE="DE">
+Fru formand! Jeg vil gøre det ganske kort. For min gruppe, som principielt hilser Kommissionens model velkommen, er der fem punkter, der er vigtige. Vi ønsker, at den nye model, som Kommissionen foreslår, ikke skal føre til dannelse af oligopoler. Vi har gjort negative erfaringer med salget af UMTS-licenser i Tyskland. Vi ønsker, at tjenester, som sikrer mangfoldighed, skal prioriteres højt. Jeg tilslutter mig fru Trautmann: Stationerne skal altid behandles med særlig respekt for deres opgaver, vores samfund og offentligheden. Vi ønsker, at der skal være sikret teknologisk neutralitet og interoperabilitet. Vi ønsker, at der virkelig sikres et tilbud, som når ud overalt. Det er også vigtigt for Dem som kommissær med ansvar for landdistrikterne. Vi vil ikke længere forfordeles i landdistrikterne, vi vil også have adgang til hurtige internettilbud. Hvis der sker yderligere bortauktioneringer, skal procedurerne fremover være helt gennemsigtige og kontrollerbare.
+<SPEAKER ID="312" NAME="Mariann Fischer Boel">
+medlem af Kommissionen. - (EN) Fru formand! Jeg formoder, at et svar fra Kommissionen var ventet, men jeg lover, at jeg skal gøre det kort.
+<P>
+Jeg er enig med Parlamentet i, at public service-tv og andre medier er af afgørende betydning for demokratiet, pluralismen og stimuleringen af den offentlige debat. Fremtidige forordninger skal fortsat sikre, at disse programmer kan udsendes til borgerne i overensstemmelse med de offentlige serviceforpligtelser, som disse radio- og tv-selskaber har påtaget sig. Ud fra den antagelse, at disse mål kan opfyldes, og under hensyntagen til den teknologiske sammensmeltning, bør vi foretage en nøje vurdering af behovet for frekvenser til at sikre en effektiv public service-radio- og tv-spredning. Vi er derfor nødt til at give radio- og tv-selskaberne de nødvendige midler og fleksibilitet til at fortsætte udviklingen af deres programmer til gavn for samfundet.
+<P>
+Vi har lyttet opmærksomt og vil tage hensyn til de fremsatte bemærkninger i forbindelse med revisionen af telekommunikationsforordningen, der vil blive stillet forslag om i anden halvdel af 2007.
+<SPEAKER ID="313" NAME="Formanden">
+Forhandlingen er afsluttet.
+<P>
+Afstemningen finder sted onsdag kl. 12.00

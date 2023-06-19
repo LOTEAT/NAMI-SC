@@ -1,0 +1,58 @@
+<CHAPTER ID="017">
+A REACH tesztmódszerekról szóló rendelet tervezete (vita) 
+<SPEAKER ID="459" NAME="Elnök">
+A következő megvitatandó napirendi pont Sacconi úrnak a Környezetvédelmi, Közegészségügyi és Élelmiszer-biztonsági Bizottság nevében a Bizottsághoz intézett szóbeli választ igénylő kérdése: A REACH tesztmódszerekről szóló rendelet tervezete (B6-0158/2008).
+<SPEAKER ID="460" NAME="Guido Sacconi">
+szerző. - (IT) Elnök úr, hölgyeim és uraim, biztos úr, Önök is tudják, hogy néhány napon belül, a pontosság kedvéért, tíz nap múlva kezdetét veszi a REACH végrehajtásának első időszaka. Ez az anyagok előzetes regisztrációjának ideje. Tekintettel erre a, nevezzük, ünnepélyes pillanatra, ahogy Önök is tudják, bosszantónak találjuk, ahogy a REACH végrehajtási rendelete a tesztelést meghatározza. Mégpedig azért, mert a REACH egyik célkitűzése, amelyet nem kevés nehézség árán biztosítottunk a jogalkotási folyamatban és az intézményközi tárgyalásokon pontosan az állatkísérletek alternatív módszereinek előmozdítása volt.
+<P>
+Amikor láttuk, hogy a végrehajtási rendelet tervezete nem tartalmaz számos, az ECVAM (Alternatív Módszerek Validálásával Foglalkozó Európai Központ) által tudományosan jóváhagyott tesztet, mivel először, azokat még nem szabályozási célból hagyták jóvá és másodszor, néhány teszt - ötből három - esetében a szabályozó elfogadó eljárást visszahelyezték az OECD-hez, ismétlem, nagyon ingerültek lettünk. Nagyon helyes, hogy a REACH-nek program szerint kell haladnia, de az is helyes lenne, ha megfelelő lépéssel indulna olyan értelemben, hogy összhangban kellene állnia e nagyon fontos rendelet szellemével és céljával.
+<P>
+Ugyanakkor, amint tudja, magunk között folytattuk megbeszéléseinket, majd május 5-én a Parlament levelet kapott Dimas biztos úr írt aláírásával az Ön és a kutatási biztos nevében, amely érdekes és kötelező érvényű válaszokat adott kérdéseinkre és a rendelettel szemben tanúsított fogalmi alapú ellenállásunkra. El kell ismernünk, hogy a gyorsítás, ésszerűsítés és ahol szükséges, az alternatív módszerek jóváhagyási eljárásainak átlátszóbbá tételének megbízható képe vetül előre.
+<P>
+Ma esti vitánk így egy lehelettel formálisabb lesz. Biztos vagyok abban, hogy Ön meg fogja erősíteni ezeket a vállalásokat és így lehetővé teszi számunkra, hogy a holnapi napon elfogadjuk állásfoglalásunkat, az addig tett módosításokkal együtt. Ha ez megtörténik, annak a kötelezettségvállalásnak fényében, amelynek megerősítésére kérem Önt, megszűnik a rendelettel szembeni bármiféle ellenállás. E helyett, a vállalásokat figyelembe véve, továbbra is követelni fogjuk mind a kötelezettségvállalások sürgősséggel történő megerősítését, mind pedig a rendelet mihamarabbi módosítását, hogy mielőbb lehetővé váljék az alternatív tesztek beépítése, amelyeket addigra teljes körűen jóvá kell hagyni.
+<P>
+Köszönöm, azt hiszen nem használtam ki teljesen az időmet, így gyorsabban haladhatunk előre a munkánkkal.
+<SPEAKER ID="461" NAME="Günter Verheugen">
+A Bizottság alelnöke. - (DE) Elnök úr, hölgyeim és uraim, Sacconi úr bizony kissé kínos helyzetbe hozott. Ön is tudja, Sacconi úr, hogy, amit Önök bíráltak nem része a portfoliómnak, mivel Dimas úrral a REACH projekt feletti átfogó felelősségen osztozom. Ezért gondoltam, hogy helyes, ha itt vagyok ma este és megerősítem pontosan az Ön által említett kérdéseket.
+<P>
+A Bizottság szolgálni fog a szükséges eljárási felvilágosításokkal - hangsúlyozom a "szükséges” szót -, és én különösen hálás vagyok Önnek azért, hogy felhívta ezekre a problémákra és kérdésekre figyelmünket, valamint az Ön nagyon szermélyes és fontos hozzájárulásáért, ami segített nekünk a problémák megoldásában.
+<P>
+Tehát, mit teszünk? A Bizottság belső eljárásai az új alternatív tesztelési módszerek jóváhagyására és szabályozó elfogadására jelentős áramvonalasításra kerülnek és felgyorsulnak. E célból a Bizottság megkezdi a szabályozási relevancia előzetes elemzésének bevezetését, amely segítségünkre lesz abban, hogy a tudományos jóváhagyási eljárást azokra a tesztmódszerekre összpontosítsuk, amelyek leginkább megfelelnek, hogy a soron következő szabályozó elfogadásának alapjául szolgáljanak.
+<P>
+Másodszor, csökkentjük az eljárási lépések számát, valamint egyértelmű határidőket vezetünk be a jelenlegi folyamat egyszerűsítésére és felgyorsítására. Ez főként a tanácsadó bizottságok munkája és a tagállamokkal folytatott konzultáció tekintetében érvényesül.
+<P>
+Harmadszor, minden fontos, a Bizottság által meghozandó eljárási határozatot főigazgatói szinten hoznak meg.
+<P>
+Negyedszer, biztosítanunk kell az eljárások új sorának nagyobb átláthatóságát. A javasolt alternatív módszerek aktuális státusza a közös kutatási központ által létrehozandó internetes oldalon kerül közlésre. Az internetes oldalon a visszautasító határozatok, más szóval az egyes tesztelési módszerek elemzésének beszüntetésére irányuló határozatok is szerepelnek majd, e határozatok indoklásával együtt. Ily módon az egyes módszerek előrehaladásának részletes követése bárki számára lehetővé válik.
+<P>
+A Bizottság továbbá intézkedéseket hoz jóváhagyási és a szabályozó elfogadási eljárásban részt vevő intézmények optimalizálására. Ez mindenekelőtt az olyan hivatalok részvételét és interakcióját javítja, mint az Európai Vegyianyag-ügynökség és az Európai Gyógyszerügynökség, amelyek jelenleg hálózati kapcsolat létrehozásán dolgoznak.
+<P>
+Továbbá sokféleképpen javítható az OECD-vel folyó együttműködés is, és épp ezt fogjuk tenni. Nem csak személyzet kiküldésével az OECD tesztekre vonatkozó iránymutatás programjához (TGP), hanem a TGP titkárságának nyújtandó pénzügyi támogatással is.
+<P>
+Változatlan prioritás, és az is marad, az alternatív tesztmódszerek szabályozó elfogadása. Ugyanakkor nyomon fogjuk követni - az OECD keretében elért előrehaladást szem előtt tartva -, hogy a nemzetközi szinten jelentkező bármilyen indokolatlan késedelem esetén átveszi a szabályozó elfogadó eljárás irányítását a Közösségen belül.
+<P>
+Sacconi úr, a REACH-csel kapcsolatos közös munkánk alapján tudomást fog szerezni arról személyesen mekkora fontosságot tulajdonítok a nagyon gyors előrehaladásnak az alternatív módszerek terén. Sőt, mindketten egyetértettünk abban, hogy nem szabad, hogy a vegyszerekre vonatkozó legelőrehaladottabb jogszabály a világon - amelyet mi fogadtunk el a REACH rendeletben - ilyen hirtelen növekedést okozzon a kísérleti célokra használt állatok számában. Ezért számíthat folyamatos személyes elkötelezettségemre ebben az ügyben.
+<SPEAKER ID="462" NAME="Thomas Ulmer">
+a PPE-DE képviselőcsoport nevében. - (DE) Elnök úr, biztos úr, Sacconi úr, hölgyeim és uraim, képviselőcsoportom támogatja az állásfoglalásra irányuló indítványt. Ugyanakkor, szeretnék köszönetet mondani Sacconi úrnak munkájáért. A REACH, ahogy Ön épp most említette a vegyianyagokra vonatkozóan a világ legjobb, legdinamikusabb és legelőrehaladottabb jogszabálya kíván lenni; pontosan , ahogy Lisszaboni folyamatunkban azt célul tűztük ki. Ezért fontos az is, hogy most a végrehajtás is ugyanolyan dinamikusan és gyorsan haladjon. Sokat segíthetünk a bürokrácia felszámolásában a struktúrák áramvonalasításával és az eljárások felgyorsításával. Az összes fél azt kívánja, hogy az állatkísérletek képviseljék a legutolsó lehetőséget és számuk erőteljesen csökkenjen.
+<P>
+A gerincesek és a főemlősök különleges védelmet élveznek. Okvetlenül szükséges, hogy az alternatív és a nem állatokon végzett tesztek jóváhagyása felgyorsuljon és egyszerűsödjön. Például időmegtakarítás céljából egyedi esetekben is legyen döntéshozatali lehetőség, Ezzel összhangban, a végrehajtásnak magában kell foglalnia a minőségük alapján besorolt tesztelési módszerek előzetes kiválasztását is, vagyis az a módszer kerül először jóváhagyásra, amelynél a legnagyobb a siker valószínűsége. Fontos hogy a bevezetési időszakok lerövidüljenek és a bevezetési folyamat szakaszainak száma csökkenjen, hogy a főigazgató részt vegyen a döntéshozatali folyamatban, hogy ügynökségeink még szorosabb kapcsolatban álljanak egymással, hogy az eljárások átláthatók legyenek és hogy az információ, beleértve a Parlamentnek adandó információt is késedelem nélkül érkezzék.
+<P>
+Jelenleg tele vagyok reménnyel részben a levele tartalma miatt, amit nekünk írt Verheugen úr, Dimas és Potočnik biztosokkal együtt, hogy gyors előrehaladást érünk el ez ügyben, és hogy a REACH a ténylegesen a világ legdinamikusabb vegyszerekre vonatkozó jogszabályának bizonyul a gyakorlatban is.
+<SPEAKER ID="463" NAME="Satu Hassi">
+a Verts/ALE képviselőcsoport nevében. - (FI) Elnök úr, Sacconi úr köszönetet érdemel a tárgyról folytatott tárgyalásokon elért jó eredményekért a Környezetvédelmi, Közegészségügyi és Élelmiszer-biztonsági Bizottság által kinevezett előadóként.
+<P>
+Amikor a vegyszerekre vonatkozó új uniós jogszabályról, a REACH-ről folyt a vita, a legnagyobb közaggodalomra az adott okot, hogy az állatkísérletek sokasodásához vezethet. Teljes volt az egyetértés az Európai Parlament politikai csoportjai között arra vonatkozóan, hogy a jogszabályt úgy kell megalkotni, hogy a lehetőségekhez mérten mindent megtettünk az állatkísérletek számának minimálisra csökkentése érdekében, más, alternatív tesztelési módszerek bevezetését is beleértve.
+<P>
+El voltunk ragadtatva, amikor az Alternatív Módszerek Validálásával Foglalkozó Európai Központtól (ECVAM) megkaptuk a hírt, hogy több, az állatkísérletek alternatíváiként javasolt módszer került tudományos jóváhagyásra. Ezért csodálkoztunk, amikor a Bizottság késlekedett megadni igazgatási jóváhagyását ugyanezekre az alternatív módszerekre. A Környezetvédelmi Bizottság és a Bizottság közötti megbeszéléseken kiderült, hogy a Bizottság megvárja, amíg valamennyi teszt együttesen elnyeri a Gazdasági Együttműködési és Fejlesztési Szervezet jóváhagyását, ahol egyetlen ország megtorpedózhatja a határozatot. A Környezetvédelmi Bizottság nagyon világossá tette a Bizottság számára, hogy ez a késedelem nem elfogadható és készek vagyunk az új komitológiai eljárás biztosította vétójogunkkal élni.
+<P>
+Nagyon örülök, hogy ezt követően a Környezetvédelmi Bizottság kinevezett előadója, Sacconi úr és a Bizottság közötti megbeszélések eredményesek voltak és most a Bizottság elkötelezte magát az alternatív módszerek bevezetésének felgyorsítása mellett, az állatkísérletek számának és a velük járó szenvedésnek csökkentése érdekében. A Bizottságnak Dimas, Verheugen és Potočnik biztos urak által aláírt levele beépítésre került a Parlament által holnap elfogadásra kerülő határozatra irányuló indítványba.
+<P>
+Nagyon fontos, hogy az EU felkészüljön, hogy maga hozzon határozatokat, ha az OECD késlelteti a folyamatokat. S bár szembekerülhetünk nehézségekkel, a végeredmény örömteli lesz.
+<SPEAKER ID="464" NAME="Marios Matsakis" AFFILIATION="ALDE">
+Elnök úr, csak annyit szeretnék hozzátenni, hogy Sacconi úr megbízható, hatékony és tiszteletreméltó eljárása mindenben, ami a REACH-el kapcsolatos méltán szerzett elismerést. Ezért megérdemli és meg is kapja teljes mértékű támogatásunkat a REACH tesztmódszerről szóló rendelet-tervezetet illetően is. Szeretnék köszönetet mondani az e területen végzett kemény munkájáért.
+<SPEAKER ID="465" NAME="Elnök">
+Egy állásfoglalási indítványt kaptam az Eljárási Szabályzat 108. cikkének (5) bekezdése alapján.
+<P>
+A vitát berekesztem.
+<P>
+A szavazásra csütörtökön kerül sor.

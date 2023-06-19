@@ -1,0 +1,6 @@
+<CHAPTER ID="010">
+Boas-vindas
+<SPEAKER ID="100" NAME="Presidente">
+Tenho o prazer de dar as boas-vindas a uma delegação de representantes políticos e outros visitantes do Parlamento canadiano e da missão canadiana para a União Europeia, que estão sentados na tribuna oficial. Os membros da delegação estão em Bruxelas para se encontrarem com os seus homólogos no Parlamento Europeu, por ocasião da 32.ª reunião interparlamentar entre o Parlamento Europeu e o Canadá.
+<P>
+Na segunda-feira e na terça-feira desta semana, tiveram a oportunidade de falar com muitos dos nossos deputados e, ontem, visitaram a cidade de Ypres para a comemoração do Dia do Armistício. Desejo à delegação que continue a ter uma estadia agradável na União Europeia.

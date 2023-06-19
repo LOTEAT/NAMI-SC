@@ -1,0 +1,6 @@
+<CHAPTER ID="002">
+Benvenuto
+<SPEAKER ID="998" NAME="Presidente">
+Porgiamo il benvenuto ai membri ACP dell'ufficio di presidenza dell'Assemblea parlamentare paritetica ACP-UE, nonché alle loro delegazioni.
+<P>
+Nel corso di questa seduta straordinaria affronteremo un tema di importanza globale, poiché il cambiamento climatico e le questioni relative all'energia a esso associate sono sfide comuni che devono affrontare sia l'Unione europea che tutti i popoli del mondo.

@@ -1,0 +1,244 @@
+<CHAPTER ID="016">
+Utylizacja zużytych olejów PCB w fabryce recyklingu produktów spożywczych w Irlandii (debata) 
+<SPEAKER ID="369" NAME="Przewodniczący">
+Następnym punktem porządku jest oświadczenie Komisji w sprawie utylizacji zużytych olejów PCB w fabryce recyklingu produktów spożywczych w Irlandii.
+<SPEAKER ID="370" NAME="Androulla Vassiliou">
+komisarz. - Pani przewodnicząca! Komisja jest w pełni świadoma wysokiego zagrożenia ze strony polichlorowanych bifenyli (PCB) dla zdrowia człowieka i dla środowiska.
+<P>
+Takie zdarzenia jak incydenty w Belgii w 1999 r. i w Irlandii w ubiegłym roku jeszcze raz pokazały, że nawet niewielkie ilości PCB mogą powodować poważne zanieczyszczenia paszy i łańcucha żywnościowego.
+<P>
+W ciągu ostatnich trzydziestu lat UE ustanowiła prawodawstwo mające na celu zmniejszenie wprowadzania do środowiska PCB i dioksyn, aby zmniejszyć narażenie ludzi i chronić zdrowie ludzi i środowisko.
+<P>
+Niemniej jednak, ponieważ urządzenia zawierające PCB zwykle mają dużą trwałość, pomimo wprowadzenia w 1985 r. zakazu stosowania PCB, znaczne ilości takich urządzeń pozostają w użyciu i są jednym ze źródeł potencjalnego zagrożenia dla ludzi.
+<P>
+W szczególności dyrektywa 96/59/WE z dnia 16 września 1996 r. w sprawie unieszkodliwiania PCB przewiduje odpowiednie narzędzia do zapewnienia unieszkodliwienia urządzeń i odpadów zawierających PCB tak szybko, jak to możliwe, a w przypadku dużych urządzeń, do końca 2010 r.
+<P>
+Pozostają jednak istotne luki w pełnym wdrożeniu tego prawodawstwa. Komisja musiała wszcząć postępowanie przeciwko większości państw członkowskich w sprawie naruszenia obowiązku inwentaryzacji dużych urządzeń zawierających PCB i ustanowienia planów unieszkodliwienia PCB.
+<P>
+W wyniku tych postępowań w sprawie naruszeń prawodawstwa, poprawiła się ogólna sytuacja. Obecnie w toku są nadal tylko dwie takie sprawy, ale są one już bliskie zakończenia.
+<P>
+Wszystkie państwa członkowskie przekazały swoje plany dekontaminacji lub unieszkodliwienia urządzeń podlegających inwentaryzacji i zawartego w nich PCB oraz plany gromadzenia i następnie unieszkodliwiania urządzeń zawierających mniej niż 5 dm3 PCB (zgodnie z wymaganiami art. 11 dyrektywy).
+<P>
+Niemniej potrzebne są dodatkowe wysiłki. Aby zapewnić skuteczność planów unieszkodliwiania PCB, państwa członkowskie muszą dalej doskonalić wdrażanie istniejącego prawodawstwa dotyczącego PCB i ogólnie europejskiego prawodawstwa w zakresie odpadów.
+<P>
+Komisja przykłada coraz większą wagę do właściwego wdrażania prawodawstwa UE dotyczącego odpadów i aktywnie wspiera państwa członkowskie we wzmacnianiu wdrażania krajowego ustawodawstwa w sprawie odpadów.
+<P>
+Rozporządzenie nr 183/2005 w sprawie higieny pasz określa minimalne wymagania higieny pasz obowiązujące w stosunku do pierwotnej produkcji pasz (na poziomie gospodarstw) produkcji właściwej, przetwarzania i dystrybucji oraz żywienia zwierząt.
+<P>
+Podmioty działające na rynku pasz powinny wprowadzać, wdrażać i stosować procedury oparte na zasadach HACCP. Oznacza to identyfikację krytycznych punktów kontroli oraz, między innymi, ewentualnego zanieczyszczenia chemicznego podczas stosowania procesu ogrzewania bezpośredniego do suszenia materiałów paszowych.
+<P>
+Odpowiedzialność za zgodność z tymi wymaganiami spoczywa na podmiotach działających na rynku pasz, chociaż właściwe organy państw członkowskich muszą zweryfikować, czy stosowane przez nie środki są odpowiednie. W większości przypadków sprawdza się to poprzez wizytę na miejscu.
+<P>
+Co więcej, zasady ogólne kontroli urzędowych, określone w rozporządzeniu w sprawie kontroli urzędowych w celu sprawdzenia zgodności z prawem paszowym i żywnościowym wymagają, żeby państwa członkowskie dopilnowały, aby kontrole były przeprowadzane regularnie, proporcjonalnie do zagrożenia i z odpowiednią częstotliwością. Te kontrole urzędowe muszą obejmować kontrole w zakładach paszowych.
+<P>
+Rola Komisji jest określona w art. 45 rozporządzenia (WE) nr 882/2004 w sprawie kontroli urzędowych przeprowadzanych w celu sprawdzenia zgodności z prawem paszowym i żywnościowym oraz regułami dotyczącymi zdrowia zwierząt i dobrostanu zwierząt. Eksperci komisji przeprowadzają kontrole właściwych organów w państwach członkowskich w celu zweryfikowania, czy urzędowe kontrole odbywają się zgodnie z planem wspólnotowym.
+<P>
+W 2008 r. przeprowadzono w Irlandii ogólną kontrolę w trybie tego artykułu i wkrótce będzie dostępne sprawozdanie z tej kontroli. Wykaz podmiotów podlegających kontroli jest ustalany wspólnie przez krajowe właściwe organy i audytorów z FVO (Biuro ds. Żywności i Weterynarii).
+<P>
+Zakład wymieniony w pytaniu nie był poddany inspekcji podczas ogólnego kontroli w 2008 r.
+<P>
+W przypadku irlandzkiego incydentu z zanieczyszczeniem dioksynami ustalono, że ich źródłem były zanieczyszczone okruchy pieczywa użyte jak pasza dla zwierząt. Okruchy były produkowane z odpadów z piekarni (przeterminowane herbatniki), które są suszone w procesie ogrzewania bezpośredniego. W tym procesie gazy spalinowe są w bezpośrednim kontakcie z suszonym materiałem paszowym. Stosowane paliwo było najwyraźniej zanieczyszczone olejem transformatorowym zawierającym PCB. Odnośne obowiązki różnych podmiotów, począwszy od producenta okruchów do dostawcy paliwa i tak dalej, zostaną określone w toku prowadzonego obecnie urzędowego dochodzenia.
+<P>
+Chciałabym podkreślić istotne znaczenie kompleksowego podejścia, które powinno być stosowane do klasyfikacji zagrożeń, obejmujących potencjalne zagrożenia związane nie tylko z charakterem przychodzącego materiału, w tym przypadku okruchów pieczywa, ale także z samym procesem.
+<SPEAKER ID="371" NAME="Mairead McGuinness">
+w imieniu grupy PPE-DE. - Pani przewodnicząca! Chciałabym podziękować Komisji za bardzo szczegółowe oświadczenie na ten temat.
+<P>
+Myślę, że powodem naszej dzisiejszej debaty jest to, że chcemy wyciągnąć wnioski i zapewnić, żeby taki wypadek już więcej się nie powtórzył. Trudność polega na tym, że kiedy w 1999 r. odkryliśmy problem w Belgii, myśleliśmy, iż wystarczająco zaostrzyliśmy przepisy, żeby uniknąć kolejnych incydentów. Niestety, jest jak jest i znamy konsekwencje wadliwości systemu, nie tylko finansowe - choć i te są bardzo znaczące dla Unii Europejskiej, irlandzkiego ministerstwa skarbu czy podatników - ale rynkowe - utrata zaufania konsumentów i ogólne szkody irlandzkiego sektora produkcji spożywczej.
+<P>
+Cieszę się, że poczyniliśmy postępy i odbudowujemy nasze dobre imię na rynku międzynarodowym, ale bardzo dobrze zdaję sobie sprawę również z tego, że rolnicy w całej Unii Europejskiej też mają problemy z powodu irlandzkich trudności. Dlatego uważam, że w dzisiejszej debacie chodzi nie tylko o Irlandię. Moim zdaniem, z pani oświadczenia jasno wynika, że ten problem, który wystąpił w Irlandii, może pojawić się w innych państwach członkowskich. To powinno być, jak sądzę, punktem wyjścia dla naszej debaty.
+<P>
+Wiemy, że ten olej nie powinien był dostać się do łańcucha paszowego. Próbujemy teraz ustalić, jak to się stało - jak słusznie pani zauważyła - jest to przedmiotem dochodzenia policyjnego o wymiarze transgranicznym. Mam nadzieję, że ustalimy dokładny przebieg wydarzeń, dzięki czemu będziemy mogli uniknąć podobnego wypadku.
+<P>
+Nasuwa to jednak kolejne pytanie, które pani zasugerowała, mianowicie, jak postępować z odpadami lub nadwyżkami środków spożywczych. Teraz "tym, co należy robić” jest właśnie recykling. Każdy go popiera, bo wszyscy chcemy być przyjaźni dla środowiska i postępować zgodnie z zasadami zrównoważonego rozwoju. Mamy tu więc dwa zagadnienia: przede wszystkim kwestię recyklingu olejów - o której pani wspomniała - i myślę, że wymaga ona skupienia większej uwagi nie tylko na PCB, ale, bardziej ogólnie, na magazynowanie, dystrybucję, transport i tak dalej, olejów odpadowych, choć oczywiście PCB stanowią szczególny problem.
+<P>
+Odnośnie do nadwyżki żywności - zwanej czasem odpadami żywności - osobiście uważam, że słusznie wykorzystujemy ten produkt w łańcuchu paszowym, ale chciałabym powiedzieć jasno, że skoro nie możemy zagwarantować jego bezpieczeństwa i odpowiedniego przetwórstwa oraz obchodzenia się z nim, to obawiam się, że może trzeba będzie się zastanowić nad wprowadzeniem zakazu wprowadzania go do łańcucha żywnościowego i paszowego.
+<P>
+Nie chciałabym, żeby to się stało, ale nie chciałabym też jeszcze raz zobaczyć tego, co się zdarzyło w Irlandii i dalszych tego konsekwencji. Chcemy, żeby te nadwyżki lub odpady żywności były wykorzystywane, dlatego że mają dobrą jakość, a nie dlatego, że łańcuch paszowy jest dla nich śmietnikiem - myślę, że to jest istotne.
+<P>
+Musimy również bardzo otwarcie rozmawiać o kwestii mieszania paszy. Rolnicy lubią kupować składniki i preparować własne mieszaniny paszowe i zwykle większe gospodarstwa tak robią. Jest to właściwe, jeżeli podlega rygorystycznym kontrolom. Rozumiem, że inspekcje są przeprowadzane regularnie, ale w tym przypadku wyraźnie wystąpiły pewne luki w kontrolach na tym rynku. Rzeczywiście, rolnicy, których złapano i którzy ponieśli konsekwencje, ponieważ używali tego produktu, zadawali mi pytanie - "dlaczego nikt nie sprawdził, co trafiało do naszych gospodarstw?”
+<P>
+W kwestii nadzoru, wierzę, że koncesjonowane podmioty - przemysł pasz wieloskładnikowych w Unii Europejskiej - są bardzo rygorystycznie kontrolowane. Te kontrole wprowadzono z powodu dawnych praktyk, które wymagały ograniczenia.
+<P>
+Mam wrażenie, że w państwach członkowskich obejmujemy surowymi uregulowaniami tych, którzy stosują się do przepisów, a nie szukamy tych, którzy ich nie przestrzegają. Nie jesteśmy w stanie wyzwolić się ze sztywnych ram biurokracji. Być może mamy skłonność do przyjmowania, że wszystko jest w porządku i niezaglądania pod dywan, gdy zgadza się dokumentacja i odpowiednie kwadraciki na liście są zaznaczone.
+<P>
+Myślę, że musimy jeszcze raz rozważyć regulację. Rozważamy ją na nowo w sektorze finansowym i musimy ją również rozpatrzyć w sektorze spożywczym. Myślę również, że na poziomie gospodarstw inspektor jest czasem uznawany za diabła wcielonego wkraczającego na teren zagrody. Dlaczego rolnicy nie są przyjaźnie nastawieni do inspektorów, dlaczego nie uważają ich za obrońców swych interesów?
+<P>
+Myślę, że teraz, na podstawie tego doświadczenia, musimy zmienić to nastawienie w całym łańcuchu żywnościowym. Ze szczególnym zadowoleniem przyjmuję informację Irish Farmers' Association, że stworzy ono grupę zadaniową do spraw żywności. Najwyższy czas, żeby rolnicy przyjęli na siebie część kontroli nad łańcuchem żywnościowym, którego podstawę sami stanowią.
+<P>
+Na koniec, uważam, że tanie składniki nie są tematem na teraz, ale presja na producentów, żeby produkowali coraz taniej, jest częścią tego problemu i również należy się nią zająć.
+<SPEAKER ID="372" NAME="Proinsias De Rossa">
+w imieniu grupy PSE. - Pani przewodnicząca! Mam kilka uwag w związku z tą sprawą i oczywiście niezupełnie zgadzam się z panią poseł McGuinness, że "to nie chodzi o Irlandię”. Oczywiście, że chodzi o Irlandię. Incydent w Irlandii to ostatni skandal dotyczący zagrożeń żywności.
+<P>
+Ochrona zdrowia człowieka musi być w tym zakresie najważniejsza i mówimy tu o wdrożeniu dyrektywy z 1996 r. W istocie, Irlandia była niestety jednym z tych państw członkowskich, które pięć lat później, w 2001 r., musiały być zmuszone do rzeczywistego wdrożenia tej dyrektywy groźbą postępowania sądowego. Oczywiście proces wdrażania jest ciągle - jak się wydaje - w toku, a procedury inspekcji mające na celu zapewnienie zgodności z dyrektywą wydają się całkiem słabe. Jak wnioskuję z tego, co przeczytałem, jedną z dziwnych rzeczy jest brak informacji o tym, co się dokładnie wydarzyło w tym szczególnym przypadku związanym z zanieczyszczeniem wieprzowiny. Wydaje się, że zakład, który produkował paszę, od pewnego czasu nie był kontrolowany.
+<P>
+Muszę również powiedzieć - i jestem pewien, że rząd zdziwiłby się, słysząc to z moich ust - że uważam, iż natychmiastowe podjęcie zdecydowanych działań odnośnie do dystrybucji wieprzowiny, a mianowicie wycofanie jej ze sprzedaży, było słuszną decyzją. Oczywiście, wyrządziło to szkody wielu niewinnym i przestrzegającym przepisy producentom, rzeźnikom etc. 90% lub więcej produktów w ogóle nie było zanieczyszczone. Zakład ten zaopatrywał tylko około 10 placówek, tak więc podjęte działanie miało ogromny zasięg, ale należało je podjąć. Najważniejsze jest to, że staramy się i pilnujemy, żeby społeczeństwo i konsumenci mogli mieć pewność, że żywność, którą kupują w supermarketach czy sklepach na rogu ulicy jest bezpieczna. Jeżeli nie podejmujemy natychmiastowych i drastycznych kroków, żeby to zagwarantować, to moim zdaniem, oblewamy egzamin z odpowiedzialności.
+<P>
+Mam dwa pytania do pani komisarz. Jedno dotyczy wdrożenia dyrektywy z 1996 r. Czy nie ma teraz argumentu za nowelizacją tej dyrektywy? Czy normy, jakie w niej wyznaczyliśmy, są teraz odpowiednie, czy też nie? Czy nie powinniśmy poważniej zastanowić się nad o wiele szybszym usuwaniem tych PCB z obiegu niż przewidywano, zwłaszcza z powodu opóźnienia rzeczywistego wdrożenia dyrektywy przez wiele państw członkowskich?
+<P>
+Moje drugie pytanie dotyczy planu zarządzania wprowadzonego z opóźnieniem w 2008 r. przez Agencję Ochrony Środowiska w Irlandii, w którym jest mowa o kodeksie postępowania - który jest również zawarty w tym planie - w związku z gospodarowaniem PCB i urządzeniami zawierającymi PCB będącymi w użyciu. Chciałbym wiedzieć, czy kodeks postępowania jest rzeczywiście zgodny z dyrektywą. Czy nie powinniśmy postarać się o bardziej rygorystyczne zastosowanie przepisów w odniesieniu do gospodarowania PCB? Nie jestem za tym, żeby przedstawiać formalne zarzuty każdemu, kto czasem dopuści się naruszenia zasad, ale uważam, że jeśli w grę wchodzi bezpieczeństwo żywności, należy stosować sankcje karne wobec tych, którzy beztrosko nadużywają swojej pozycji.
+<SPEAKER ID="373" NAME="Liam Aylward">
+w imieniu grupy UEN. - Pani przewodnicząca! Irlandzka branża wieprzowiny odgrywa ważną rolę w irlandzkim sektorze rolno-spożywczym. Ta branża jest wyceniana na około 1 miliard EUR i bezpośrednio lub pośrednio przekłada się na zatrudnienie 10 tysięcy osób.
+<P>
+Na tle obecnego klimatu gospodarczego i rosnących kosztów żywności, bardzo ważne jest, żebyśmy w Irlandii zrobili naprawdę wszystko, żeby obronić irlandzki sektor wieprzowiny, który działa zgodnie z najwyższymi standardami Unii Europejskiej i międzynarodowymi.
+<P>
+Wykrycie dioksyn w ilości przekraczającej minimalną wartość progową w próbce tłuszczu wieprzowego na podstawie krajowego programu monitoringu pozostałości umożliwiło szybkie znalezienie źródła zanieczyszczenia z dokładnością do pojedynczego zakładu produkcji paszy. O ile każde zanieczyszczenie żywności jest zawsze przykre, ten incydent pokazuje bardzo wysoki stopień kontroli bezpieczeństwa żywności, którą władze irlandzkie wdrożyły w celu zagwarantowania integralności łańcucha żywnościowego. Innymi słowy, te kontrole zadziałały.
+<P>
+Chciałbym zatem wyrazić uznanie dla kompetencji i szybkości działania podjętego przez rząd irlandzki i departament rolnictwa w odniesieniu do decyzji o całkowitym wycofaniu produktu ze sprzedaży. Zostało to bardzo dobrze odebrane przez rynki europejskie i międzynarodowe, a także przez Komisję Europejską. Pokazało to, jak poważnie my, jako kraj, traktujemy sprawy bezpieczeństwa żywności i pomogło utrzymać naszą reputację w kraju i zagranicą jako kraju produkującego żywność wysokiej jakości.
+<P>
+Irlandzcy konsumenci nadal kupowali wieprzowinę, gdy ta pojawiła się powtórnie na półkach sklepowych, a na większości rynków europejskich i międzynarodowych nastąpił szybki powrót handlu. Oczywiście, aby przywrócić handel w pełnym wymiarze, trzeba wykonać dodatkową pracę, na przykład przeprowadzając szerokie kampanie marketingowe itp.
+<P>
+Chciałbym także pochwalić komisję Oireachtas ds. rolnictwa za kompleksowe zbadanie incydentu z dioksynami, które obejmowało serię przesłuchań, z udziałem departamentów rządowych, agencji państwowych i przedstawicieli producentów wieprzowiny. Cieszę się również, że departament rolnictwa prowadzi dalsze dochodzenie, pod przewodnictwem profesora Patricka Walla, który jest dobrze znaną osobistością w kręgach europejskich.
+<SPEAKER ID="374" NAME="Friedrich-Wilhelm Graefe zu Baringdorf" LANGUAGE="DE">
+Pani przewodnicząca, pani komisarz! W Irlandii, dzięki inspekcjom, incydent został przynajmniej wykryty. Dziesięć lat temu, w Belgii, podobne sprawy posypały się jedna za drugą. W obu przypadkach słyszymy o wystąpieniu wypadków, ale te wypadki nigdy nie zostały udowodnione. Teraz, po 10 latach, sprawa w Belgii jest zamknięta. Jedna osoba została skazana na półtora roku pozbawienia wolności w zawieszeniu. Nie jest jednak jasne, w jaki sposób szkodliwa substancja dostała się do produktów. Musimy zatem nadal zakładać, że toksyczne substancje zostały celowo domieszane, że pasze zostały użyte w celu zmniejszenia kosztów ich unieszkodliwiania. Rozcieńcza się olej i dodaje do paszy. W obu przypadkach olejem tym był olej transformatorowy.
+<P>
+Tak długo, jak długo nie zostanie przeprowadzona rekonstrukcja tych wypadków i nie ma dowodów, że zanieczyszczenie było rzeczywiście skutkiem spalania, należy zakładać, również w przypadku Irlandii, że miało miejsce działanie przestępcze, że trucizny, PCB, zostało domieszane. Oznacza to, że musimy zwiększyć częstotliwość inspekcji, tak aby działania przestępcze nie koncentrowały się na paszach, które sprawiają wrażenie łatwej drogi do zmniejszenia kosztów.
+<P>
+Z tego względu otwarta deklaracja, którą będziemy tutaj jutro przyjmować, stanowi dalszą okazję, nie do większego poświęcenia się walce z działaniami przestępczymi, ale dla zwiększenia częstotliwości inspekcji. Co więcej, w ocenie ryzyka nie można patrzeć tylko na to, o jakie zakłady chodzi, ale także na to, kto właściwie kieruje tymi zakładami i z jakich podejrzanych źródeł otrzymywany jest olej. Wiemy, z jakiego rodzaju ludźmi mamy tutaj do czynienia, dlatego instytucje muszą być świadome - w kontekście inspekcji - że ci ludzie reprezentują zwiększone ryzyko i muszą zatem podlegać bardziej rygorystycznym inspekcjom.
+<SPEAKER ID="375" NAME="Bairbre de Brún" LANGUAGE="GA">
+Incydent związany z wysokimi poziomami dioksyn w irlandzkich zakładach powoduje poważne trudności gospodarcze dla rolników północy i południa. To jest zła wiadomość w obecnej trudnej sytuacji gospodarczej. Dzięki podjęciu tak szybkich działań, konsumenci mogą mieć pewność, że irlandzka wieprzowina jest bezpieczna. Niemniej nie można oczekiwać, aby osoby dotknięte same borykały się z tymi konsekwencjami. Wiem, że niektóre z następujących kwestii gospodarczych są istotne z punktu widzenia innych komisarzy, ale należy je podnieść.
+<P>
+Celem programu wycofania wieprzowiny ogłoszonego przez rząd irlandzki w grudniu 2008 r. było usunięcie z rynku zanieczyszczonej irlandzkiej wieprzowiny. Nie wydaje się jednak, żeby w programie tym przewidziano wysłanie 4 tysięcy zanieczyszczonych tuczników do przetwórni wieprzowiny VION w Cookstown, w hrabstwie Tyrone, w moim okręgu wyborczym, w okresie od 1 września do 6 grudnia 2008 r.
+<P>
+Na szczęście możemy bezwarunkowo stwierdzić, że irlandzka wieprzowina jest całkowicie bezpieczna. Jeżeli zakład ten nie będzie jednak uprawniony do rekompensaty na podstawie programu pomocowego UE, to istnieje prawdziwe niebezpieczeństwo, że nie będzie w stanie kontynuować działalności.
+<P>
+UE musi dopilnować, żeby ta przetwórnia nie została pozostawiona samej sobie, żeby nie musiała sama zajmować się skutkami przyjęcia 4 tysięcy zanieczyszczonych tuczników.
+<P>
+Jeżeli ten zakład nie będzie uprawniony do rekompensaty na podstawie programu wycofania wieprzowiny uzgodnionego między Komisją a rządem irlandzkim, należy uzgodnić podobnego rodzaju program między Komisją a Departamentem Rolnictwa i Rozwoju Obszarów Wiejskich Zgromadzenia w Belfaście.
+<P>
+W duchu solidarności Unia Europejska powinna zatwierdzić współfinansowanie niezbędnej rekompensaty dla tych, których to dotknęło. Rok 2009 będzie dla każdego trudnym rokiem - nie zapominajmy o wyjątkowych warunkach, które doprowadziły do trudnej sytuacji wielu ludzi w sektorze spożywczym, na którą nie mieli oni żadnego wpływu.
+<P>
+Ministrowie w Zgromadzeniu w Belfaście i rząd irlandzki wkrótce przedstawią strategię zdrowotności zwierząt, obejmującą swym zasięgiem całą wyspę.
+<P>
+Musimy przyjąć podejście obejmujące całą Irlandię, które wykracza poza wymagania zdrowotne dla zwierząt i obejmuje jedną metodę nadzoru dla całej wyspy. Oznacza to, że przepisy UE powinny być wprowadzone i wdrożone na całej wyspie. Każdy irlandzki rolnik skorzystałby z takiej sytuacji i brak dublowania się działań zwiększyłby skuteczność monitorowania rozporządzeń UE.
+<SPEAKER ID="376" NAME="Kathy Sinnott">
+w imieniu grupy IND/DEM. - Pani przewodnicząca! Mój kolega wspomniał o podejrzanych kanałach, poprzez które PCB dostało się do łańcucha żywnościowego w Irlandii. Myślę, że może być jeszcze gorzej, jeśli spojrzeć czasem na historię PCB. Polichlorowane bifenyle mają prawie 100 lat. Są to substancje syntetyczne i od samego początku było jasne, że są bardzo niebezpieczne.
+<P>
+Przez wiele lat były używane w kondensatorach, paliwach hydraulicznych, wykończeniach podłóg drewnianych: z pewnością nie są one czymś, czego chcemy w łańcuchu żywnościowym. Ale prawie od początku XX wieku do 1966 roku, kiedy to szwedzki naukowiec rzeczywiście stwierdził, jakie stanowią niebezpieczeństwo, ludzie przymykali na nie oko i pomimo licznych wypadków w przemyśle pozwalali na ich stosowanie.
+<P>
+Ale nawet skoro znane już były wyniki badań naukowych, dopiero w latach siedemdziesiątych - w 1972 r. - zakazano tak naprawdę stosowania PCB w miejscach publicznie dostępnych; mimo to ich stosowanie było nadal dozwolone i dopiero w 2000 r. wprowadzono całkowity zakaz. Dlatego w obiegu znajduje się mnóstwo PCB i minęło prawie 100 zanim dowiedzieliśmy się, że stanowią problem.
+<P>
+Pomimo dyrektywy Komisji z 1996 r., która wymaga unieszkodliwiania PCB, co pewien czas znajdujemy je w różnych miejscach, w szczególności w Belgii, a ostatnio w Irlandii.
+<P>
+Stwierdziłam, że jedna kwestia była dla Irlandczyków naprawdę niezrozumiała. Pamiętam wizytę u rzeźnika, mniej więcej w owym czasie, który po prostu nie mógł tego zrozumieć. Powiedział, że wprowadzono tak dużo identyfikowalności. Możemy się dokładnie dowiedzieć, skąd pochodzą jajka, którego dnia zostały zniesione, a jeżeli naprawdę zechcemy drążyć troszeczkę głębiej, możemy dokładnie ustalić, na której fermie itp. A przecież, nawet gdy już znaliśmy źródło tych PCB, rzeźnik ten, który zna pochodzenie całej swojej wieprzowiny, który ma wszystkie numery kodów itd., musiał mimo to wyrzucić i zniszczyć mięso.
+<P>
+Nie rozumiem, jak to się stało, ponieważ naprawdę ciężko pracowaliśmy w Komisji ds. Środowiska; tyle się napracowaliśmy, żeby osiągnąć identyfikowalność, a jak przyszło co do czego, systemy nie były stosowane. Może użyto ich do znalezienia gospodarstw, ale nie do oczyszczenia reputacji niewinnych, i to bardzo dużo kosztowało ludzi - kosztowało mój kraj, bo reputację straciły nie konkretne łańcuchy dostaw, lecz cały kraj.
+<P>
+Istnieje też zamieszanie wobec innych spraw. Mówimy dzisiaj o PCB i dioksynach, i słusznie, ale czy znowu zajmie nam 100 lat, zanim zdamy sobie sprawę ze związku pomiędzy dioksynami a spalaniem? To jest coś, co również ja ciągle staram się robić, mianowicie utrzymywać dioksyny pochodzące z procesu spalania z dala od łańcucha żywnościowego.
+<SPEAKER ID="377" NAME="Jim Allister" AFFILIATION="NI">
+Pani przewodnicząca! Kilku rolników i przemysł przetwórczy w moim okręgu wyborczym, nie ze swojej winy, stoi w obliczu strat rzędu milionów funtów, ponieważ kupiona w dobrej wierze zanieczyszczona pasza została dostarczona przez pewien zakład, w którym wykazano się niczym nieusprawiedliwioną niefrasobliwością - nie przejmując się dobrą praktyką. Nic dziwnego, że wszyscy wyborcy, których to dotknęło, są mocno wzburzeni.
+<P>
+Mam kilka pytań do pani komisarz. Jeżeli nie otrzymam na nie dziś odpowiedzi, chciałbym, jeśli to możliwe, uzyskać odpowiedź na piśmie.
+<P>
+Po pierwsze, jaka jest historia winnego zaniedbania zakładu utylizacji paszy pod względem zgodności jego działalności z przepisami UE? Czy nie robi on bynajmniej, jak sugerowano, co mu się żywnie podoba?
+<P>
+Po drugie, czy Millstream ma pozwolenie na stosowanie odnośnego oleju? Jeżeli nie, czy państwo członkowskie nie miało obowiązku zapewnienia, żeby takie uchybienie podstawowym wymogom prawnym zostało wykryte i doprowadzone do porządku?
+<P>
+Po trzecie, czy Millstream prowadził analizę zagrożeń na podstawie HACCP i plan samokontroli wymagany przepisami dotyczącymi higieny żywności?
+<P>
+Po czwarte, czy Komisja jest zadowolona z poziomu i częstotliwości inspekcji i nadzoru nałożonego przez państwo członkowskie na ten zakład i jego produkcję, zważywszy na obowiązek posiadania przez państwo członkowskie oficjalnego planu kontroli opartego na analizie ryzyka? Czy władze irlandzkie dopuściły się zaniedbania w zakresie ścisłego egzekwowania prawa dotyczącego paszy i wymagań bezpieczeństwa żywności?
+<P>
+Po piąte, w moim okręgu wyborczym działające zgodnie z prawem zakłady spożywcze musiały spełniać rygorystyczne wymagania kontroli i norm zgodnie z programami zapewnienia jakości. Dlaczego nie było równie rygorystycznego nadzoru w Millstream Recycling?
+<P>
+Po szóste, czy skorzystano z samocertyfikacji bezpieczeństwa zakładów paszowych, a jeżeli tak, dlaczego była ona dozwolona w tym przypadku, skoro jest dopuszczalna tylko w stosunku do niewielkich podmiotów?
+<P>
+Na koniec, za pozwoleniem, chciałbym spytać, jaka dokładnie była podstawa prawna wyrażenia przez Komisję zgody na wypłatę wysokich kwot na rzecz państwa irlandzkiego, skoro, jak początkowo powiedział rzecznik Komisji, taka podstawa prawna nie istnieje? Czy zostaną przeprowadzone dalsze działania w zakresie naruszeń, jeżeli zostanie stwierdzone, że to państwo członkowskie naruszyło obowiązujące wobec niego wymagania?
+<SPEAKER ID="378" NAME="Maria Petre" AFFILIATION="PPE-DE">
+(RO) Dobrze, że dzisiejszego wieczoru możemy prowadzić debatę w odniesieniu do oświadczenia złożonego przez Komisję i panią, pani komisarz, w sprawie utylizacji olejów odpadowych w procesie przygotowania pasz w Irlandii.
+<P>
+Chciałabym rozszerzyć nieco zakres tej debaty i powiedzieć państwu, że bardzo dużo państw członkowskich, włącznie z Rumunią, o której mam zamiar mówić, zostało dotkniętych przez ten incydent, a mówiąc ściślej: ten incydent wywarł wpływ na przemysł mięsny, ale przede wszystkim na klientów. Wpłynął na przemysł, który w niezmiernie krótkim czasie odnotował poważne straty i na klientów w czasie, gdy, przynajmniej w Rumunii, zwykle odbywa się znaczna konsumpcja wieprzowiny w związku ze świętami Bożego Narodzenia.
+<P>
+Elementem, który zadziałał znakomicie, było informowanie władz weterynaryjnych za pośrednictwem europejskiego systemu szybkiego reagowania. Jednak oprócz niego, wszystkie informacje zniknęły. Jakie były ilości zanieczyszczonego mięsa, gdzie było rozprowadzane i gdzie są odnośne produkty spożywcze - na te pytania odpowiedziano częściowo, a w pewnych przypadkach, nie odpowiedziano wcale. Jaki jest tego skutek? Paniczna reakcja wśród konsumentów i ogromne straty dla producentów, jak również stosunkowo słaba umiejętność reagowania na tego rodzaju incydent ze strony odpowiedzialnych organów.
+<P>
+Moim zdaniem, mamy przynajmniej dwa problemy. Pierwszym jest zanieczyszczenie dioksynami w wyniku utylizacji olejów odpadowych, zważywszy, że dioksyna jest, jak wszyscy wiemy, substancją, która stanowi poważne zagrożenie i jest bardzo toksyczna dla organizmu ludzkiego, nawet w bardzo małych ilościach. Co możemy zrobić, aby mieć pewność, że taki incydent już nigdy więcej się nie powtórzy?
+<P>
+Drugi problem to kwestia tego, jak poprawić zdolność właściwych organów państwa członkowskiego do reagowania i podjęcia działania w tak niebezpiecznych sytuacjach?
+<P>
+Kończąc, wyrażam nadzieję, że ta debata przyniesie pewne odpowiedzi, przynajmniej na te dwa pytania.
+<SPEAKER ID="379" NAME="Petja Stawrewa" AFFILIATION="PPE-DE">
+(BG) Pani przewodnicząca, pani komisarz, panie i panowie! Problem utylizacji olejów odpadowych zawierających polichlorowane bifenyle w zakładzie utylizacji odpadów spożywczych znowu doprowadził do podniesienia kwestii potrzeby zagwarantowania bezpieczeństwa żywności w Unii Europejskiej.
+<P>
+Przede wszystkim musimy podkreślić, że problem nie wynika z jakiejś choroby zwierząt, ale z niewystarczającego monitorowania określonych działań prowadzonych na rzecz higieny i bezpieczeństwa pasz w Unii Europejskiej. Pomimo istnienia środków kontroli, wysoki poziom dioksyn stwierdzono, zanim dioksyny znalazły się w mięsie wieprzowym. Wynika z tego pytanie: dlaczego nie stwierdzono tego wcześniej?
+<P>
+Wielu obywateli europejskich pyta dziś, czy Unia Europejska posiada niezbędne prawodawstwo, które wymagałoby od państw członkowskich stosowania odpowiedniego monitorowania bezpieczeństwa paszy skarmianej zwierzętami. Pilnie potrzebna jest odpowiedź na to pytanie, zważywszy, że jeśli normy bezpieczeństwa nie będą stosowane choćby w jednym zakładzie przetwórstwa spożywczego, może to mieć zabójcze skutki i spowodować straty sięgające kilkuset milionów euro.
+<P>
+Chciałabym prosić Komisję Europejską o podjęcie koniecznych działań w celu zintensyfikowania monitoringu, który jest nieodłączną częścią polityki Unii Europejskiej na rzecz ochrony bezpieczeństwa konsumentów. Irlandzka wieprzowina z wysoką zawartością dioksyn dotarła też do Bułgarii, jak i do wielu innych krajów europejskich. Nie można jednak pozwolić na wystąpienie w przyszłości podobnych incydentów, ponieważ ich koszty finansowe i społeczne są niezmiernie wysokie.
+<P>
+Na koniec chciałabym wyrazić swoje zadowolenie z inicjatywy pani poseł McGuinness na rzecz poddania tej sprawy kontroli Komisji.
+<SPEAKER ID="380" NAME="Elisabeth Jeggle" AFFILIATION="PPE-DE">
+(DE) Pani przewodnicząca, pani komisarz! Dzisiejszego wieczoru omawiamy sprawę utylizacji zużytych olejów PCB w fabryce recyklingu produktów spożywczych w Irlandii. Jutro, będziemy debatować o wprowadzaniu do obrotu i używaniu paszy dla zwierząt. Dostrzeżemy, że w tym sektorze już przeprowadziliśmy wspólnie wiele ważnych i celowych działań. A przecież nadal są w tej dziedzinie pewne problemy. Dlatego pięć pytań, które zadała pani poseł McGuinness w swoim ustnym zapytaniu, należy potraktować poważnie i należy na nie udzielić poważnych odpowiedzi.
+<P>
+Pani komisarz! Pani sama mówiła o niedociągnięciach, które ciągle mają miejsce we wdrażaniu naszego prawodawstwa w kilku państwach członkowskich. Prawdą jest, że cały sektor pasz w ostatnich latach zdołał dowieść swojej wiarygodności, ale pewne przedsiębiorstwa albo nie są świadome zagrożeń, albo nie chcą ich dostrzec. Co więcej, wydawałoby się, że w wielu państwach członkowskich ciągle jeszcze pozostało dużo do zrobienia, jeśli chodzi o kontrolę, której celem jest ocena, czy poziom ryzyka jest odpowiedni.
+<P>
+My wszyscy - Parlament, coraz mniejsza liczba rolników, a także konsumenci - oczekujemy właściwego stosowania prawodawstwa UE, w tym kontroli sprawdzających jego przestrzeganie. Z tego względu uważam, że należy się przyjrzeć ogólnym przepisom dotyczącym żywności, higienie żywności i paszy oraz warunkom udzielania koncesji zakładom utylizacji środków spożywczych.
+<P>
+Tak, chcemy, żeby nadwyżka środków spożywczych była wykorzystywana. Przynajmniej ja osobiście chciałabym, żeby tak było i żeby nadwyżki środków spożywczych nie były niszczone. Należy jednak zapewnić identyfikowalność. Niechciane substancje i produkty muszą być wykluczone w sposób bezpieczny i kontrolowany. W trakcie koncesjonowania przedsiębiorstw paszowych, upewnić się co kompetencji zawodowych ich pracowników w zakresie bezpieczeństwa żywności i paszy.
+<P>
+Pasze są podstawą bezpieczeństwa żywności, zatem musi istnieć pewność co do nich wśród rolników, dzięki której konsumenci będą otrzymywali zdrową i pełnowartościową żywność.
+<SPEAKER ID="381" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Pani przewodnicząca! Chciałbym przede wszystkim powiedzieć, że z zadowoleniem przyjmuję sposobność do prowadzenia tej debaty. Rolnicy zostali uświadomieni, jak bardzo narażeni są z powodu działań innych.
+<P>
+Omawiamy tu incydent miał miejsce w Republice Irlandii, ale jak na ironię, olej odpadowy, który jest domniemaną przyczyną tego problemu, pochodził z Irlandii Północnej. Ale ujawnił swoją szkodliwość w wieloskładnikowej paszy z Republiki Irlandii.
+<P>
+Powstały problem, moim zdaniem, polega na tym, że rolnicy w Republice Irlandii, producenci czy to wieprzowiny, czy wołowiny, otrzymali rekompensaty, pomoc i wparcie Europy. Rolnicy w Irlandii Północnej, zostali tymczasem pozostawieni samym sobie, bez żadnej pomocy czy wsparcia. Rolnicy z Irlandii Północnej zostali zniszczeni i wielu z nich, nie ze swojej winy, może stracić gospodarstwa i zamknąć działalność. Nie zrobili nic złego, nie popełnili żadnego wykroczenia. I muszę to dzisiaj powiedzieć wprost Wysokiej Izbie i pani komisarz, moim zdaniem, rolników z Irlandii Północnej spotkał poważny zawód, nie tylko ze strony naszego Departamentu Rolnictwa, DARD, jak się go określa w Irlandii Północnej, ale najbardziej ze strony ministra, który wydaje się nieudolny, słaby i nie potrafi rozwiązać tego problemu.
+<P>
+Minister rolnictwa Republiki Irlandii wyraźnie pokazał, że najpierw troszczy się o swoich. To rozumiem. Czy mogę spytać panią komisarz, czy ma pani otrzymać jakieś informacje z śledztwa, które ma być przeprowadzone przez policję po obu stronach granicy? Czy będzie pani przygotowana do działania na podstawie otrzymanych informacji i czy będzie pani gotowa zapewnić, żeby producenci z Irlandii Północnej otrzymali taką samą pomoc jak rolnicy z Republiki Irlandii i żeby nie byli w żaden sposób pozbawieni praw w sensie finansowym? I przede wszystkim - i to jest moja ostatnia uwaga - czy może pani zapewnić, że taki problem nigdy więcej się nie powtórzy? Jedynym efektem sytuacji, która nastąpiła, jest utrata zaufania konsumentów i przede wszystkim zniszczenie producenta.
+<SPEAKER ID="382" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Pani przewodnicząca! Jednym źródłem narażenia człowieka na PCB jest łańcuch żywnościowy, jak wspomniała pani komisarz. Ogniska i dym papierosowy są jednak dużo większymi źródłami zagrożenie dla o wiele większej liczby osób. Znajmy proporcję i nie ulegajmy histerii w tej debacie, mniej pary w gwizdek.
+<P>
+Minimalne wymagania dotyczące higieny paszy są rzeczywiście bardzo ważne i muszą być rygorystycznie egzekwowane, ale musi im również towarzyszyć pełna identyfikacja i identyfikowalność wszystkich wyrobów mięsnych - nie tylko wołowiny, ale też drobiu, wieprzowiny i baraniny. Wprowadziłam do porządku obrad poprawki do obecnego prawodawstwa dotyczące tych kwestii, które będziemy wkrótce omawiać w tej Izbie.
+<P>
+Odnośna pasza dla świń rzeczywiście była zanieczyszczona okruchami pieczywa, ponieważ Millstream Recycling nieumyślnie stosował do ich suszenia paliwo kupione w dobrej wierze od firmy, z którą współpracował od lat i z którą nigdy wcześniej nie miał problemów. Prowadzone jest obecnie dochodzenie policyjne i rzeczona firma w pełni współpracuje z policją.
+<P>
+Chciałabym całkowicie odrzucić twierdzenie pana posła Allistera, że firma okazała nieuzasadnioną niefrasobliwość. Zostanie potwierdzone, że tak nie było, tak więc ważmy słowa.
+<P>
+Największym problemem było to, że musieliśmy wycofać i zniszczyć 100% wszystkich produktów z wieprzowiny, aczkolwiek był to problem krótkotrwały. Ucierpiało, z materialnego punktu widzenia, wielu irlandzkich rolników i w rzeczy samej ucierpiała reputacja irlandzkich producentów produktów spożywczych za granicą. Mimo że tylko sześć do siedmiu procent naszych chlewni było skażone, reakcja musiała być tak nieproporcjonalna, ponieważ irlandzki system identyfikacji i identyfikowalności zawiódł na poziomie rzeźni. Wszystkie świnie w Irlandii powinny być kolczykowane lub tatuowane, ale na poziomie rzeźni jakoś nie potrafiliśmy odróżnić świń, które jadły zanieczyszczoną paszę, od zdecydowanej większości pozostałych świń, które jej nie jadły.
+<P>
+Musimy się przyjrzeć tej sprawie. Komisja musi przyjrzeć się całej roli identyfikacji i identyfikowalności, i przede wszystkim poczekajmy na wyniki dochodzenia policyjnego, które, moim zdaniem, będą zaskakujące.
+<P>
+Przedsiębiorstwom objętym postępowaniem jest niezmiernie przykro z powodu szkód wyrządzonych w łańcuchu żywnościowym i reputacji Irlandii, co oświadczyły publicznie. Jest im naprawdę przykro z powodu szkód wyrządzonych wielu rolnikom, którzy dotychczas kupowali ich znakomite produkty paszowe. Teraz znów prowadzą działalność i znów produkują, mogłabym powiedzieć, znakomite dawki pokarmowe dla rolników do mieszania.
+<P>
+To był okropny epizod. Nikt nie chciał, żeby się wydarzył.
+<SPEAKER ID="383" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+Pani przewodnicząca! Próbowałam nie być sędzią w tej irlandzkiej sprawie, ponieważ nie to jest celem naszego dzisiejszego spotkania, ale chciałabym zadać pani komisarz trzy pytania: jaka ilość PCB jest nadal w obiegu; czy może pani zagwarantować, że żadne PCB nie zanieczyszczą łańcucha żywnościowego w ciągu najbliższych 23 miesięcy, podczas których ciągle będą one w trakcie procesu unieszkodliwiania; czy Komisja przedstawi sprawozdanie w sprawie stanu wdrożenia rozporządzenia w sprawie higieny żywności, które ta Izba chciałaby otrzymać?
+<P>
+Chciałabym także zwrócić uwagę panu posłowi Jimowi Allisterowi, że to jest sprawa transgraniczna. Zanieczyszczenie, jak rozumiemy, przyszło - jak słusznie zauważył pan poseł Jim Nicholson - zza granicy. Oto dlaczego nie zgadzam się z panem posłem Proinsiasem De Rossa. To jest sprawa europejska, ponieważ ma wymiar transgraniczny. To, co się stało w Irlandii, mogło się zdarzyć w każdym państwie członkowskim, ponieważ - jak rozumiem - w obiegu są tysiące ton PCB. Być może pani komisarz mogłaby wyjaśnić tę kwestię.
+<SPEAKER ID="384" NAME="Friedrich-Wilhelm Graefe zu Baringdorf" AFFILIATION="Verts/ALE">
+(DE) Pani przewodnicząca, pani komisarz! Czy Komisja zbadała lub zrekonstruowała przebieg wydarzeń prowadzących do wypadku? Uważam twierdzenie, że spalanie oleju odpadowego i dym, który potem przesącza się przez kilka okruszków, może spowodować zanieczyszczenie dioksynami na taką skalę, w wyniku którego w mięsie wieprzowym - nie w paszy, ale w samym mięsie, wystąpił 200-krotny wzrost poziomu dioksyn - za całkowicie śmieszny. Nadal zakładam, dopóki lub o ile nie okaże się, że jest inaczej, iż był to przypadek celowego domieszania.
+<P>
+Każdy wypadek drogowy jest rekonstruowany i objęty dochodzeniem badającym jego przyczyny. Ten wypadek - jeżeli to rzeczywiście był wypadek - również musi być zrekonstruowany i należy zbadać, czy ten typ spalania i dym przenikający przez paszę naprawdę może ostatecznie spowodować wystąpienie takiej ilości dioksyn w mięsie. Jako praktyk, chciałbym powiedzieć, że wszystko, co się mówi w tej sprawie, to nonsens. To, o czym tutaj mówimy, to było celowe domieszanie, w wyniku którego w naszych ciałach odkłada się trucizna, która nie ulega samorozpadowi, przechodząc z pokolenia na pokolenie.
+<SPEAKER ID="385" NAME="Jan Mulder" AFFILIATION="ALDE">
+- (NL) To jest niezwykle interesująca debata. Obawiam się, że w przyszłości znowu będziemy mieli podobne przypadki. Nigdy nie możemy wykluczyć zachowania przestępczego i ludzi wykorzystujących system.
+<P>
+Jednym z zagadnień, które nie były dziś omawiane, jest system prywatnego znakowania. Dlaczego Komisja nie da tej branży więcej zachęt do przeprowadzania własnych inspekcji i do opracowania prywatnych znaków jakości? Komisja może potem powiedzieć: "możemy prowadzić kontrole na końcu, ale w pierwszej instancji, to do was należy zapewnienie, żebyście sprawdzali waszych kolegów po fachu i zapewnienie, żeby takie rzeczy więcej się nie zdarzały. Jeżeli opracujecie rozsądny system, będziemy do niego zachęcać i uznamy go”. Wydaje mi się, że musimy zachęcać ludzi systemowo, żeby tego rodzaju praktyki nie wystąpiły w przyszłości.
+<SPEAKER ID="386" NAME="Jim Allister" AFFILIATION="NI">
+Pani przewodnicząca! Nie ma sporu co do tego, że olej przywędrował z Irlandii Północnej. Nie o to chodzi.
+<P>
+Istotne jest, że Millstream postanowił kupić ten olej, wiedząc, że podłuży on do użycia w suszarkach - do kontaktu z paszą, do suszenia okruchów pieczywa - więc dlaczego kupował olej tego rodzaju, niezależnie od tego, skąd?
+<P>
+Dlaczego nie było to przedmiotem kontroli prowadzonej przez inspektorów państwowych i przez samo przedsiębiorstwo? Użycie oleju w tych warunkach jest, jak rozumiem, nielegalne, jest naruszeniem przepisów dotyczących żywności i higieny. Nie chodzi o to, skąd ten olej się wziął - chodzi o to, dlaczego tam się znalazł i dlaczego został użyty do tego celu.
+<SPEAKER ID="387" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Pani przewodnicząca! Oskarżenie pana Graefe zu Baringdorfa o celowe domieszanie tego zanieczyszczenia do paszy jest niegodziwe i niewarte zawodowego polityka. Pozwólmy na przeprowadzenie należytego urzędowego dochodzenia.
+<P>
+Przedsiębiorstwo objęte postępowaniem, Millstream Recycling, w pełni współpracuje w dochodzeniu. Ma ono pełną dokumentację potwierdzającą, że kupiło ten olej od koncesjonowanej firmy w Dublinie, która dostarcza olej. Kupiło go jako utylizowany lekki olej opałowy, który miał być odpowiednim olejem do wykorzystania w tym konkretnym procesie suszenia. Sprzedała go koncesjonowana firma i z punktu widzenia Millstream, był to zakup utylizowanego lekkiego oleju opałowego; Firma Millstream przyznaje jednak, że otrzymała olej transformatorowy, który spowodował pojawienie się dioksyn.
+<P>
+Dochodzenie urzędowe i policyjne jest w toku. Pozwólmy, aby zostało przeprowadzone należyte postępowanie i zaprzestańmy rzucania tych oskarżeń, ponieważ jest to bardzo poważna sprawa, której nie pomagają histeryczne i przesadne reakcje.
+<SPEAKER ID="388" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Pani przewodnicząca! Wszyscy są zgodni - nikt nie zaprzecza - tak, ten olej pochodził z Irlandii Północnej. Nie możemy temu zaprzeczyć. Ale w czasie, gdy my się kłócimy, ośmiu rolników bankrutuje w Irlandii Północnej, jak również w Republice Irlandii. Oni również ponieśli straty, ja to rozumiem. To nie jest sprawa polityczna. To zwykli ludzie cierpią i to nasi rolnicy ponoszą straty finansowe.
+<P>
+Prawda jest taka - i musimy spojrzeć jej w oczy, także pani komisarz musi spojrzeć prawdzie w oczy - pojawiły się tony mięsa wieprzowego, którego nie dało się zidentyfikować. Nikt nie wiedział, skąd się wzięło, z jakich tuczników lub z której chlewni. Pani komisarz! Nadszedł czas, najwyższy czas, żeby wprowadzić obowiązek wyraźnego oznaczania pochodzenia, miejsca z którego pochodzi. Gdyby tak było, wiedzielibyśmy przynajmniej, na czym stoimy i gdzie ono jest.
+<P>
+Nie chcę robić z tej kwestii sprawy politycznej, bo dla mnie nie jest ona polityczna. Codziennie rozmawiam z rolnikami i niektórzy z nich prawdopodobnie stracą swoje gospodarstwa. Jest to więc poważna sprawa. Jeżeli mamy doprowadzić dochodzenie urzędowe do ostatecznego zakończenia, czego chciałbym doczekać - ale chciałbym też doczekać tego, że moi rolnicy będą chronieni i będą mieli pewność, że nie zostali oszukani i porzuceni. Chciałbym doczekać tego, że będą właściwie chronieni przez was, dzięki czemu będą mieli taką samą pozycję i ochronę jak rolnicy w Republice Irlandii.
+<SPEAKER ID="389" NAME="Androulla Vassiliou">
+komisarz. - Pani przewodnicząca! Ta dyskusja była naprawdę ożywiona i poruszono w niej wiele spraw. Przyjęto również z góry wiele założeń i zgadzam się z panią Doyle, że musimy być cierpliwi i poczekać na zakończenie dochodzenia. Wtedy będziemy mogli wyciągnąć wnioski i podjąć decyzje na przyszłość. Mam do powiedzenia jedno. Choć nie byłam w przeszłości zainteresowana podobnymi przypadkami i znam je jedynie ze słyszenia, wiem że miały miejsce one w Niemczech i w Belgii i informacje o nich były szeroko rozpowszechnione we wszystkich państwach członkowskich. Pomyślałabym więc, że rozsądne państwo członkowskie zastosowałoby bardziej rygorystyczne środki kontroli. Ale nawet przy najbardziej surowych środkach kontroli, taka rzecz może się zdarzyć, albo z powodu oszustwa, albo zaniedbania, albo z innych przyczyn. Naszym obowiązkiem jest dopilnowanie, żebyśmy mieli prawodawstwo - które moim zdaniem jest obecnie zadowalające - i dopilnowanie, żeby państwa członkowskie go przestrzegały. Jako Komisja mamy obowiązek posiadania środków kontroli i dopilnowania, aby państwa członkowskie spełniały swoje obowiązki.
+<P>
+FVO przeprowadzają swoje inspekcje i ich sprawozdania są ogólnie dostępne, tak więc ocena stopnia, w jakim występuje zgodność z naszymi przepisami, może opierać się na tych sprawozdaniach, które nawet są przygotowywane według krajów.
+<P>
+Kilkoro z państwa podniosło kwestię identyfikowalności, która jest rzeczywiście jednym z głównych filarów ogólnego prawa żywnościowego i jest wymagana od przedsiębiorstw sektora spożywczego, które muszą być w stanie wskazać współpracujących z nimi nabywców i kupujących. Jednak poziom szczegółowości identyfikowalności wewnętrznej wybrany przez przedsiębiorstwo spożywcze determinuje ostateczną stratę ekonomiczną, jaką poniesie taki podmiot w przypadku wycofania produktu z rynku. W tym konkretnym przypadku przepisy o identyfikowalności w Irlandii wymagały po prostu podania daty produkcji, a nie określenia gospodarstwa, z którego pochodziło mięso. To dlatego konieczne było wycofanie ze sprzedaży całego mięsa wyprodukowanego w ciągu tych dwóch miesięcy. Gdyby obowiązywały ostrzejsze przepisy dotyczące identyfikowalności (co oczywiście byłoby bardziej kosztowne), wycofano by tylko to mięso, które zostało zidentyfikowane jako pochodzące z tego konkretnego gospodarstwa. Należy więc podjąć decyzję: płacić więcej i mieć lepsze przepisy dotyczące identyfikowalności czy płacić mniej i w ostatecznym rozrachunku, ponosić straty.
+<P>
+Wspomniano, że jako Komisja udzieliliśmy pomocy - chociaż wypłata rekompensat nie należy do moich obowiązków, tylko do obowiązków komisarza Fischera Boela - i muszę powiedzieć, że w tym przypadku wypłaty podlegały tym samych zasadom zarówno w Republice Irlandii, jak w Irlandii Północnej. Mam tu kilka danych liczbowych. Komisja wprowadziła program pomocy na rzecz prywatnego składowania dla Irlandii Północnej, zgodnie z którym do 15 tysięcy ton mięsa może być przechowywane przez maksymalny okres sześciu miesięcy. Budżet na ten środek pomocowy wynosi 6,9 milionów euro. Podobny program prywatnego składowania był również przyjęty w Republice Irlandii. Zgodnie z tym programem, do 30 000 ton mięsa może być przechowywane przez okres do sześciu miesięcy, a maksymalny budżet na rzecz tego programu wynosi 13,9 milionów euro. W Republice Irlandii realizowano również program unieszkodliwiania, który był współfinansowany przez Wspólnotę i kosztował 20,6 milionów euro. Nie było wypłat bezpośrednich Komisji dla rolników ani w Republice Irlandii, ani w Irlandii Północnej, ponieważ nie ma podstawy prawnej dla takiej rekompensaty.
+<P>
+Podsumowując, chciałabym powiedzieć, ze mamy dobre przepisy, ale w przyszłości musimy zawsze zachowywać czujność. Musimy dopilnować, żeby przepisy te były egzekwowane w państwach członkowskich i potrzebujemy współpracy z państwami członkowskimi. Ze strony Komisji pragnę powiedzieć, że musimy utrzymać nasze środki kontroli i dopilnować, żeby państwa członkowskie spełniały wymagania naszych przepisów.
+<P>
+Ponadto po otrzymaniu wyników badań i dochodzeń, będziemy mogli pomyśleć o przyszłości. Jeżeli uważamy, że możemy poprawić nasze przepisy, nie powinniśmy mieć przed tym żadnych oporów.
+<SPEAKER ID="390" NAME="Przewodniczący">
+Zamykam debatę.

@@ -1,0 +1,270 @@
+<CHAPTER ID="011">
+Styrkelse af sikkerheden og de grundlæggende frihedsrettigheder på internettet (forhandling) 
+<SPEAKER ID="415" NAME="Formand">
+- Næste punkt på dagsordenen er betænkning af Stavros Lambrinidis for Udvalget om Borgernes Rettigheder og Retlige og Indre Anliggender om forslag til Europa-Parlamentets henstilling til Rådet om styrkelse af sikkerheden og de grundlæggende frihedsrettigheder på internettet.
+<SPEAKER ID="416" NAME="Stavros Lambrinidis">
+ordfører. - (EL) Hr. formand! Vi lever i en tid, hvor alle - regeringer, private virksomheder og endda kriminelle - ønsker den størst mulige adgang til vores elektroniske data, til vores privatliv.
+<P>
+Internettet indeholder navnlig oplysninger om vores privatliv, noget, der var utænkeligt for fem år siden. Samtidig er det klart, at det giver os større muligheder for at udøve vores grundlæggende rettigheder, såsom ytringsfrihed, frihed til politisk deltagelse, frihed til viden og uddannelse og foreningsfrihed.
+<P>
+Det er mindre tydeligt, at vi risikerer, at netop disse friheder krænkes som følge af brugen af internettet, hvor regeringer, private virksomheder eller sågar kriminelle hemmeligt overvåger, hvad vi laver eller kigger på på internettet. Derfor er det endnu mindre klart, hvordan vi kan skabe en balance her, hvordan vi kan regulere internettet på en sådan måde, at vi får mulighed for at udnytte dets fordele, samtidig med at vi begrænser de åbenlyse risici.
+<P>
+I min betænkning forsøger jeg at besvare disse spørgsmål. Blandt andet:
+<P>
+for det første opfordres der til oprettelse af et europæisk initiativ om indførelse af en global beskyttelse af rettigheder på internettet,
+<P>
+for det andet gøres der opmærksom på behovet for en effektiv, men forholdsmæssig kamp imod gamle og nye former for cyberkriminalitet som identitetstyveri og beskyttelse af intellektuelle ejendomsrettigheder, idet det påpeges, at lovgivningen ikke må føre til systematisk overvågning af alle borgere, mistænkte og ikkemistænkte, gode og onde, fordi dette naturligvis ville udgøre en åbenlys krænkelse af deres privatliv,
+<P>
+for det tredje opfordres der med hensyn til borgeres ret til adgang til internettet til, at regeringerne skal sikre denne adgang for de fattigste borgere i de mest fjerntliggende regioner,
+<P>
+for det fjerde understreges det, at e-analfabetisme bliver den nye analfabetisme i det 21. århundrede på samme måde som manglende evne til at læse og skrive var det i det 20. århundrede, og at adgangen til internettet derfor er en grundlæggende rettighed, der svarer til retten til at gå i skole,
+<P>
+for det femte opfordres der til indførelse af foranstaltninger til begrænsning af brugernes samtykke, et vigtigt spørgsmål, som jeg nu vil komme nærmere ind på.
+<P>
+Spørgsmålet om samtykke er fantastisk kompliceret, og hvis vi ikke finder en løsning på det nu, vil det blive ved med at forfølge os. Lad mig give Dem et eksempel. For et par årtier siden vidste ingen, hvilken avis, jeg læser, ud over min familie og måske nogle af mine nære venner. Derfor - og dette gælder navnlig under et diktatur - forsøgte det hemmelige politi at finde ud af det, så de kunne registrere mig. Så kunne de sige, at hr. Lambrinidis læser den og den avis, så han må være kommunist, eller han må være proamerikansk. Hver gang jeg læser en avis i dag, efterlader jeg et spor. Dette betyder, at private virksomheder kan opbygge tilsvarende "dossierer", kan oprette en profil for mig, over de politikker, jeg tror på, over mine spisevaner og endda over mit helbred. Betyder det forhold, at jeg besøger disse hjemmesider, at jeg er indforstået med, at mit samfund bevæger sig 40 år bagud?
+<P>
+Vi har brug for hurtigt at vedtage fornuftige love, der skaber en balance mellem bekæmpelse af kriminalitet og beskyttelse af rettigheder i den elektroniske tidsalder. Denne balance forekommer vanskelig, men det er den ikke. Det er muligt at opnå den. Vi skal holde op med at behandle cyberspace, som om det var noget uden for vores dagligdag, noget separat. Det er vores liv. Det betyder, at alle de rettigheder eller hindringer, der gælder for politiet og private virksomheder på internettet, også skal gælde udenfor. Ellers risikerer vi at afskaffe friheder for sikkerhedens skyld og ende med at stå uden friheder og reel sikkerhed.
+<P>
+Her til sidst min varmeste tak til skyggeordførerne fra alle de politiske grupper, som jeg kan se her i salen, for deres store støtte. Tak til alle medlemmerne i Udvalget om Borgernes Rettigheder og Retlige og Indre Anliggender for deres enstemmige støtte, som denne betænkning fik fra alle partier. Jeg ser frem til at få den vedtaget på plenum.
+<SPEAKER ID="417" NAME="Ján Figeľ" LANGUAGE="EN">
+Hr. formand! Jeg vil gerne takke ikke bare Parlamentet i almindelighed, men i særdeleshed Stavros Lambrinidis for hans vigtige betænkning, som udgør et meget relevant bidrag til fremme af grundlæggende friheder og sikkerhed på internettet.
+<P>
+Mens internettet har fået større og større betydning i de moderne samfund og økonomier og påvirker mange områder af vores tilværelse, skaber den meget hurtige teknologiske udvikling samtidig betydelige udfordringer, som vi skal løse på bedste vis, hvis vi ønsker at kunne udnytte alle mulighederne ved internettet og informationssamfundet.
+<P>
+Vi deler navnlig hr. Lambrinidis' bekymringer vedrørende beskyttelsen af personoplysninger, et spørgsmål, der er af største betydning for brugerne af internettet. Lad mig forsikre Dem for, at Kommissionen fortsat lægger vægt på at styrke borgernes grundlæggende rettigheder og grundlæggende friheder og navnlig på at sikre en høj grad af beskyttelse af private og personlige data, både på internettet og i andre sammenhænge.
+<P>
+Jeg tror fuldt og fast på, at bestræbelserne på at sikre en tilstrækkelig beskyttelse af personoplysninger ikke strider mod behovet for at garantere en større sikkerhed. Disse to mål kan og bør forfølges sideløbende.
+<P>
+Stabilitet og sikkerhed på internettet var vores prioriteringer ved verdenstopmødet om informationssamfundet i 2005, og vi arbejder fortsat i retning af disse mål. Disse spørgsmål vil snart blive præsenteret gennem en ny strategi for beskyttelse af kritiske informationsinfrastrukturer og styrkelse af Europas beredskab over for større cyberangreb og afbrydelser. Denne strategi omfatter en handlingsplan med en køreplan for fremme af principper og retningslinjer vedrørende internettets stabilitet og robusthed.
+<P>
+Det strategiske samarbejde med tredjelande vil blive udbygget inden for strategien, navnlig gennem informationssamfundsdialoger som et redskab til at skabe global konsensus på dette område. Samtidig er Kommissionen overbevist om, at det er nødvendigt for at sikre respekten for grundlæggende friheder og ytringsfrihed på internettet.
+<P>
+Igen udelukker disse to mål ikke hinanden. I Deres betænkning taler De om muligheden for at arbejde med globale standarder, databeskyttelse og ytringsfrihed. Kommissionen deltager i de årlige internationale konferencer for databeskyttelsesansvarlige og følger det igangværende arbejde om mulige fremtidige internationale standarder for beskyttelse af privatliv og personoplysninger. Vi lægger stor vægt på at fremme de høje standarder for beskyttelse, som EU-borgerne er omfattet af i dag.
+<P>
+Med hensyn til ytringsfrihed vil Kommissionen fortsat fremme denne grundlæggende rettighed i internationale fora. Ny lovgivning på dette område er ikke vejen frem lige i øjeblikket. Vi har allerede en række bindende internationale instrumenter om dette emne. For indeværende mener jeg, at det vil være nyttigt at gå ind i effektive overvejelser af, hvordan man kan håndhæve den eksisterende lovgivning på bedste vis. Så det drejer sig om implementering. Disse overvejelser bør også omfatte og hjælpe globale kommercielle aktører til at definere deres roller bedre i forbindelse med fremme og styrkelse af den grundlæggende ytringsfrihed i det globale onlinemiljø på internettet.
+<P>
+Jeg vil slutte med en generel bemærkning. Jeg mener, at vi bør løse de store udfordringer, der tages op i denne betænkning, og sørge for, at den konkrete udøvelse af rettigheder og friheder ikke begrænses unødigt på internettet.
+<P>
+Et centralt element i Kommissionens strategi for et sikkert informationssamfund har f.eks. siden 2006 været en holistisk tilgang, hvor man sikrer koordinering mellem interessenterne, men også erkender, at de hver især har specifikke roller og ansvarsområder. Vi har alle et ansvar for at sikre, at vores handlinger på internettet ikke unødigt begrænser - og om muligt fremmer - andres sikkerhed på dette medium.
+<P>
+Det er derfor i samarbejdets ånd, at Kommissionen hilser denne betænkning velkommen og støtter den.
+<SPEAKER ID="418" NAME="Manolis Mavrommatis">
+ordfører for udtalelsen fra Kultur- og Uddannelsesudvalget. - (EL) Hr. formand, hr. kommissær, mine damer og herrer! Først vil jeg gerne takke ordføreren, Stavros Lambrinidis, for den vigtige betænkning, som han har udarbejdet, og for hans målsætning om at beskytte personoplysninger, et princip, som de fleste af os respekterer, også jeg selv.
+<P>
+Som ordfører for udtalelsen fra Kultur- og Uddannelsesudvalget mener jeg, at internettet er en enestående platform til formidling af kultur og viden. Jeg påpeger dette for at lykønske og takke mine venner i Kulturudvalget, som stemte for min udtalelse.
+<P>
+Eksempler som digitale museumsarkiver, elektroniske bøger, musik og audiovisuelt materiale kan tilgås af mennesker fra alle fire verdenshjørner. Desværre er kulturmaterialer ikke beskyttet tilstrækkeligt i den store cyberspaceverden. Piratkopiering er reglen snarere end undtagelsen, og det er ophavsmændene, der bliver taberne på grund af den ulovlige distribution af deres intellektuelle ejendom. Med andre ord digtere, sangskrivere, komponister, producere og alle, der arbejder med kreativitet i almindelighed.
+<P>
+Der er tre ting, der bidrager til udbredelsen af piratkopiering: teknologiske muligheder og de lave priser på kopiering, vanskelige økonomiske forhold og internettets penetration.
+<P>
+Med ændringsforslag 4 genindsættes anbefalingen fra Kulturudvalget om, at der skal være en rimelig balance mellem rettigheder og friheder for alle de involverede parter, og at de grundlæggende rettigheder for personer, baseret på EU's charter om grundlæggende rettigheder, skal sikres og beskyttes i forbindelse med den udbredte anvendelse af internettet.
+<P>
+Derfor støtter vi dette ændringsforslag, hvori det gentages, at de grundlæggende rettigheder har samme værdi og alle skal beskyttes på samme måde.
+<SPEAKER ID="419" NAME="Nicolae Vlad Popa" LANGUAGE="RO">
+Hr. formand! Denne betænkning er resultatet af et samarbejde mellem Parlamentets medlemmer. Derfor vil jeg gerne takke mine kolleger, navnlig hr. Lambrinidis, og fru Gacek, hr. Alvaro, fru Segelström og hr. Mavrommatis, som jeg havde den fornøjelse at samarbejde med, også som skyggeordfører.
+<P>
+Jeg mener, at betænkningen dækker de væsentligste temaer vedrørende styrkelse af sikkerhed og grundlæggende menneskerettigheder på internettet, idet man henviser til den beskyttelse af rettighederne, der anføres i de gældende bestemmelser, herunder deres digitale aspekter, og til anerkendelse og udvikling af nye principper til kontrol af internettet.
+<P>
+Teksten udgør en fin balance mellem beskyttelsen af ytringsfriheden og privatlivets fred og behovet for at fortsætte kampen mod internetkriminalitet, idet man også fokuserer på det store problem med overdreven overvågning af internetaktiviteter, som kan udvikle sig til en ny form for censur.
+<P>
+Betænkningen drejer sig også om spørgsmål vedrørende internettets uddannelsesmæssige aspekt, e-læring, definitionen af digital identitet og anerkendelse af brugernes rettigheder til det indhold, de har lagt ud på internettet, samt beskyttelse af data af personlig karakter således forstået, at brugerne har mulighed for at slette det indhold, de selv har lagt ud, permanent.
+<P>
+Der er tale om følsomme temaer i det nuværende klima, hvor de sociale netværk i stigende grad befolkes af unge, men ikke udelukkende. Derfor har jeg opfordret mine kolleger til at stemme for denne betænkning med stor overbevisning.
+<SPEAKER ID="420" NAME="Inger Segelström" LANGUAGE="SV">
+Hr. formand! Jeg vil gerne starte med at takke hr. Lambrinidis og alle andre i Udvalget om Borgernes Rettigheder og Retlige og Indre Anliggender, som har gjort dette til en så konstruktiv og velgennemtænkt betænkning. Jeg vil også gerne sige tak for den opbakning, jeg har modtaget til mit ændringsforslag. Derved støtter man netop en styrkelse af brugernes og forbrugernes rettigheder.
+<P>
+Afsnittet om teknologiens anvendelsesområder - f.eks. overvågning af internettrafik - er meget vigtigt. Det er udmærket, at Parlamentet nu lægger vægt på, at borgernes privatliv og menneskerettigheder har forrang.
+<P>
+I betænkningen slås det fast, at det kun må være tilladt at overvåge internettrafik, når der foreligger mistanke om en lovovertrædelse og som led i en retsproces efter en domstolskendelse. Dette bliver et meget vigtigt grundlag for overvågningen af de borgerlige rettigheder. Betænkningen bibringer de nødvendige foranstaltninger, og det er ikke et sekund for tidligt.
+<P>
+Jeg er overrasket over ændringsforslagene fra medlemmerne af Gruppen for Det Europæiske Folkeparti (Kristelige Demokrater) og De Europæiske Demokrater og Gruppen Alliancen af Liberale og Demokrater for Europa. Deres forslag svækker borgernes rettigheder og privatliv. De har ikke set kritisk på, hvad de tekniske fremskridt kan medføre, hvis vi ikke passer på.
+<P>
+Naturligvis skal forbrydelser på internettet og forbrydelser, hvor børn og unge bliver udnyttet, bekæmpes. Men de centrale temaer i denne sammenhæng er f.eks., at den konservative regering i Sverige har vedtaget den såkaldte FRA-lov, en lov om undersøgelse af borgere, der ikke er kriminelle og ikke har begået nogen forbrydelse, mens det i stedet burde være borgerne, der undersøger os. Betænkningen er en stærk kritik af den svenske konservative regering, der har trodset enhver kritik og indført denne nye FRA-lov i Sverige. De svenske myndigheder har nu ret til at overvåge internettrafik, uden at der er hverken mistanke om en forbrydelse eller nogen risiko for personer eller for samfundet.
+<P>
+Efter beslutningen i morgen går jeg ud fra, at den svenske regering vil overveje sagen på ny og sørge for, at loven ændres. Ellers vil de være i opposition til Parlamentet og de folkevalgte repræsentanter for de 27 EU-lande.
+<SPEAKER ID="421" NAME="Alexander Alvaro" LANGUAGE="DE">
+Hr. formand! Jeg vil gerne starte med at lykønske hr. Lambrinidis med et veludført arbejde. Han inddrog alle skyggeordførerne i udarbejdelsen af denne betænkning og gjorde sit bedste for at nå frem til kompromiser.
+<P>
+Denne betænkning, som drejer sig om de vigtige spørgsmål i informationssamfundet, udgør et vigtigt skridt i retning af et internet, hvor både borgernes sikkerhed og grundlæggende friheder er sikret. Grænsen mellem frihed og sikkerhed slutter ikke ved grænserne til den virtuelle verden. I sin betænkning behandler han kampen mod internetkriminalitet, børnepornografi, identitetstyveri og svig samt overtrædelser af copyrightlovgivningen. Han har forsøgt at inddrage Europol og gør det klart, at de gældende love i den fysiske verden også skal gælde i den virtuelle verden.
+<P>
+Samtidig er det lykkedes ham at finde balancen mellem beskyttelse af borgerrettigheder, ytringsfrihed, databeskyttelse og retten til fuldstændig sletning af data på internettet. Hidtil har internettet intet glemt. Nogle af os kan være glade for, at internettet ikke fandtes, da vi stadig var 13, 14, 15 eller 16 år gamle, da vi begik ungdommens synder, som vi ikke ville bryde os om at genfinde på YouTube eller Facebook.
+<P>
+Han har understreget behovet for adgang til information og endnu vigtigere adgangen til internettet samt respekten for intellektuelle ejendomsrettigheder. Jeg er udmærket klar over, at for mange medlemmer er betænkningen ikke tilstrækkelig vidtgående i beskyttelsen af intellektuelle ejendomsrettigheder og copyright. Lad os arbejde med dette i forbindelse med direktivet om håndhævelse af intellektuelle ejendomsrettigheder og fremhæve disse punkter i dette direktiv.
+<P>
+I betænkningen slås det fast, at censur på internettet eller blokering af adgangen til nettet, hvilket nogle EU-medlemsstater allerede foretager eller planlægger, ikke er værdige foranstaltninger i vores oplyste samfund, og man gør det også klart, at EU ikke må følge de totalitære staters eksempel og afskære borgernes adgang til information eller sortere i den information, de får adgang til.
+<P>
+Det glæder mig, at vi har en afbalanceret betænkning, hvor man tager hensyn til behovene i et informationssamfund, og det ville glæde mig, om både min egen og andre grupper gav denne betænkning den bredest mulige opbakning i morgen, så vi kan udvikle et internet i samfundets interesse.
+<SPEAKER ID="422" NAME="Roberta Angelilli" LANGUAGE="IT">
+Hr. formand, mine damer og herrer! Andre medlemmer har allerede sagt dette tidligere, men jeg vil gerne gentage, at internettet ikke må kriminaliseres eller censureres, fordi det skaber mulighed for kommunikation, social kontakt, information og viden, men der er imidlertid også behov for at udvikle en global strategi til bekæmpelse af internetkriminalitet.
+<P>
+Vi skal navnlig beskytte børnene og uddanne og informere forældre og lærere om de nye potentielle farer på nettet. Europa skal være i stand til at handle effektivt for at nå disse mål, og jeg vil gerne lykønske ordføreren med et veludført stykke arbejde.
+<P>
+Men på trods af sanktionerne og et forholdsvis højst beskyttelsesniveau qua medlemsstaternes lovgivning mod onlinemisbrug og seksuel udnyttelse af børn og børnepornografi, skal standarden for beskyttelsen af børn hæves yderligere, ikke mindst fordi den igangværende udvikling af nye teknologier, navnlig internettet, og pædofiles brug af nye former for "online grooming" af børn.
+<P>
+Det var netop af denne grund, at jeg valgte at stille et ændringsforslag til betænkningen, hvori medlemsstaterne udtrykkelig opfordres til at ajourføre deres lovgivning om mindreåriges brug af internettet, navnlig ved at indføre grooming som en lovovertrædelse i henhold til Europarådets konvention om beskyttelse af børn mod seksuel udnyttelse og seksuelt misbrug fra oktober 2007.
+<SPEAKER ID="423" NAME="Eva-Britt Svensson" LANGUAGE="SV">
+Hr. formand! Jeg vil gerne takke hr. Lambrinidis meget, fordi det er lykkedes ham at respektere sikkerheden på internettet og samtidig beskytte og respektere de uvurderlige grundlæggende rettigheder. Jeg antager, at beskyttelse af vores grundlæggende rettigheder som anført i denne betænkning også vil møde tilslutning, når vi skal træffe en beslutning om telekompakken. Der er en klar forbindelse mellem denne betænkning og telekompakken. Jeg håber, at vi også her er enige om, at det er vigtigt at beskytte borgernes rettigheder.
+<P>
+Som mange medlemmer allerede har sagt, har internettet skabt utrolige muligheder for ytringsfriheden. Borgere, som normalt ikke har adgang til de store mediers diskussionsfora, kan nu påvirke opinionen og forfølge forskellige emner. Dette er et nyt område for udveksling af synspunkter, som der findes et endog særdeles stort behov for i forbindelse med politisk bevidstgørelse. Det giver borgerne store muligheder for at kigge beslutningstagerne efter i sømmene. Det er vigtigt, at borgerne får mulighed for selv at undersøge lovgiverne og andre magthavere. Det har øget vidensniveauet. Frem for alt har vi også mulighed for meningsudvekslinger og for komme i kontakt med mennesker fra forskellige kulturer og dele af verden.
+<P>
+Når vi diskuterer dette emne, er det også vigtigt at sikre, at vi har reel ytringsfrihed og garantier mod censur og kontrol af meninger, information og meningsdannelse. Grundlæggende menneskerettigheder, ytringsfrihed og retten til privatlivets fred er vigtige dele af et demokrati og skal både beskyttes og respekteres til enhver tid. Derfor er internettet en vigtig faktor i nutidens demokratiske samfund, og sådan skal det også være.
+<P>
+Derfor vil jeg bede Dem stemme imod ændringsforslag 5, der søger at slette teksten "sikrer, at offentliggørelse af kontroversielle politiske overbevisninger via internettet ikke bliver genstand for strafferetlig forfølgelse". Hvis dette ændringsforslag vedtages, er det et tilbageskridt for demokratiet. Hvem skal beslutte, hvad der er en kontroversiel politisk overbevisning? Det er en demokratisk ret at kunne give udtryk for forskellige politiske holdninger.
+<P>
+Internetbrugeres ret til at slette persondata permanent fra websteder er også vigtig. Naturligvis skal vi bekæmpe kriminalitet på internettet ligesom al anden kriminel aktivitet, men det skal også ske på en juridisk forsvarlig måde i overensstemmelse med strafferetten ligesom andre former for kriminalitet.
+<P>
+Internetkriminalitet mod børn er meget alvorligt. I den henseende følger vi Europarådets konvention om beskyttelse af børn mod seksuel udnyttelse og seksuelt misbrug. Andre grupper rammes også. Her tænker jeg især på kvinder, som er ofre for sexslavehandel. Sexindustrien udnytter internettet og den seksuelle vold, som mange kvinder og børn udsættes for. Her vil jeg gerne minde mine kolleger om, at vi bør støtte en skriftlig erklæring om at sætte en stopper for denne vold, nemlig skriftlig erklæring nr. 94.
+<P>
+Endelig vil jeg også nævne den fare, vi har konstateret med hensyn til den såkaldte krig mod terror. Denne har lejlighedsvis ført til urimelige begrænsninger på ytringsfriheden og den enkeltes ret til privatliv. Disse begrænsninger har medført en sikkerhedsrisiko for borgerne. De forskellige landes sikkerhedstjenester har handlet med persondata, som de har fået via deres overvågning af internettet. Dette har skabt farer for mennesker, f.eks. hvor nogen kan være tvunget til at flygte fra deres land på grund af politisk undertrykkelse. Jeg beder Dem støtte denne betænkning i morgen.
+<SPEAKER ID="424" NAME="Hélène Goudin" LANGUAGE="SV">
+Hr. formand! Jeg fascineres dagligt af, hvor fantastisk internettet er, men uanset hvor meget EU påstår det modsatte, er det globale net ikke europæisk. Hvis man tror, at et dekret fra Bruxelles eller Strasbourg kan ændre på dette, er man meget langt fra virkeligheden. Det kan måske med rette fremføres, at EU er det forkerte forum til at løse den form for problemer, der beskrives i denne betænkning. Tillad mig at komme med et par eksempler. I betænkningen sammenlignes retten til internettet med retten til at gå i skole. Det er måske at overdrive lidt, når vi ved, at retten til eller muligheden for at gå i skole ikke er givet i mange EU-lande.
+<P>
+Beskyttelse og fremme af den enkeltes rettigheder på internettet og den balance, der skal findes mellem privatlivets fred og sikkerhed, er utrolig vigtigt, men det er ikke problemer, der kan løses på EU-niveau. Det er et internationalt problem, der primært skal løses på internationalt niveau.
+<P>
+Noget andet, der ligger mit hjerte nær, er fildeling. Her har vi opfordret til at indføre fælles strafferetlige foranstaltninger for at beskytte den intellektuelle ejendomsret. Jeg er overbevist om, at det er medlemsstaterne, der skal beslutte, hvad der er en lovovertrædelse og hvilke følger en sådan eventuelt skal have. Det er ganske uacceptabelt, hvis EU følger musik- og filmindustriens holdning, især da vi forsøger at kriminalisere en hel generation.
+<P>
+Endelig vil jeg gerne sige, at ethvert forsøg på at lovgive på disse områder bliver vanskeligt, da teknologi forandrer sig meget hurtigere end politik.
+<SPEAKER ID="425" NAME="Urszula Gacek" AFFILIATION="PPE-DE">
+(EN) Hr. formand! Jeg vil gerne takke ordføreren for at have indarbejdet mit forslag og dermed tilskynde producenter af computersoftware til at træffe flere foranstaltninger for at blokere adgangen til pornografi og websteder med vold.
+<P>
+Dette bekymrer især forældre. Vi er nødt til at acceptere, at vores børn ofte ved mere om computere end os. Forældre har måske en fornemmelse af, at de kan aktivere filtre på deres internetbrowsere, men dette kræver et minimum af viden om browsersoftware og en bevidst beslutning om at aktivere systemet.
+<P>
+Hvis filtret automatisk var indstillet til "aktiveret", ville mange flere børn og også de yngste, som i stigende grad bruger internettet uden opsyn, kunne beskyttes mod uafvidende at komme ind på websteder, som kan påvirke dem. Jeg opfordrer indtrængende producenterne til at reagere på vores forslag. De bør ikke opfatte dette som tvang eller begrænsning, men som en markedsføringsmulighed. Hvis jeg kunne vælge mellem at købe to ens computere og så en med et børnevenligt mærkat, som bekræfter, at filtrene var installeret som standard, ville jeg som forælder vælge dette produkt. Forældre, som træffer et sådant valg, ville være med til at gøre dette til en standard. Jeg håber virkelig, at vi kan opnå dette gennem samarbejde med branchen.
+<SPEAKER ID="426" NAME="Alin Lucian Antochi" AFFILIATION="PSE">
+(RO) Hr. formand! Internettet er nu kommet ind i en ny fase og betragtes ikke blot som et vigtigt redskab for erhvervslivet, men også som et globalt forum for forskellige holdninger.
+<P>
+Men denne udvikling har skabt ambivalente holdninger. På den ene side giver internettet stadigvæk utrolige muligheder og fungerer som katalysator for uddannelsesmæssig, kulturel, økonomisk og social udvikling, samtidig med at det på den anden side opfattes som en platform, der kan bruges til at fremme voldelig adfærd, som påvirker borgernes frihed og sikkerhed.
+<P>
+Fordi internettet er globalt, udgør det nu også en fare for privatlivets fred, fordi borgernes internetaktiviteter ofte overvåges af regeringer, politimyndigheder, virksomheder og endog af kriminelle og terrorister, undertiden med identitetstyveri til følge.
+<P>
+I denne situation skal vi fastsætte en grænse, hvor vi sondrer mellem at beskytte borgernes sikkerhed og de grundlæggende frihedsrettigheder på internettet og ubegrænset overvågning af deres aktiviteter foretaget af forskellige myndigheder, således at lovgivningen er effektiv og ikke uforholdsmæssig med hensyn til foranstaltningerne til bekæmpelse af kriminalitet. Derfor er det nødvendigt at fastlægge globale standarder for databeskyttelse, sikkerhed og ytringsfrihed gennem et løbende samarbejde mellem internetudbydere og -brugere.
+<P>
+Det er også vigtigt, og her tilslutter jeg mig ordføreren fuldstændig, at vi fortsat afsøger og fastlægger de grænser for samtykke, som brugerne har ønsket, uanset om det er over for myndigheder eller private virksomheder, når de skal give afkald på en del af deres ret til privatlivets fred til fordel for internettjenester eller -privilegier.
+<P>
+Sidst, men ikke mindst mener jeg, at medlemsstaterne skal sikre, at deres nationale lovgivning beskytter de grundlæggende rettigheder på internettet, da dette også kan være et bidrag til en fælles strategi for bekæmpelse af cyberkriminalitet og terrorisme.
+<P>
+Jeg vil gerne lykønske hr. Lambrinidis og hele det hold, som har bidraget til denne betænkning.
+<SPEAKER ID="427" NAME="Sophia in 't Veld" AFFILIATION="ALDE">
+(NL) Hr. formand! Jeg vil gerne tilslutte mig de komplimenter, som ordføreren allerede har fået. Han har lavet en fantastisk betænkning. Jeg vil kort komme ind på et par enkelte punkter.
+<P>
+For det første har vi i de senere år set, at virksomheder og myndigheder i stigende grad opbevarer personoplysninger. Myndighederne udnytter virksomhedernes databaser, men der er stadig forskellige beskyttelsesniveauer for den første og den anden søjle, hvilket jeg finder endda særdeles foruroligende.
+<P>
+Det andet, og her er jeg glad for, at mit ændringsforslag er blevet vedtaget, er, at forbrydere naturligvis også bruger internettet til deres egen fordel, og det på alle mulige måder. Der er en alarmerende stigning i omfanget af identitetstyveri, og vi skal bede Kommissionen oprette et kontaktpunkt for denne form for tyveri. Ikke kun til informationsudveksling, men også til fordel for ofrene.
+<P>
+For det tredje skal vi have globale standarder. Det arbejdes der også på, men sådanne standarder skal udarbejdes gennem en åben, demokratisk proces og ikke af Kommissionens tjenestemænd i forhandlinger med embedsmænd fra USA.
+<P>
+Kommissionen har ofte en masse fine ord om frihed og borgernes rettigheder, men jeg har lagt mærke til de utallige foranstaltninger, der på initiativ af kommissær Frattini og også med hjælp far Rådet er indført i de senere år, som gør det muligt at udspionere borgerne og begrænse deres friheder. Det er på høje tid, at vi evaluerer, hvad der er sket og de følger, dette har haft og vil få. Jeg vil derfor gerne slutte med et forslag til Kommissionen. Jeg vil bede den om at udpege en særskilt kommissær for borgernes rettigheder og friheder i den næste mandatperiode.
+<SPEAKER ID="428" NAME="Formanden">
+- Jeg gav fru in 't Veld lidt ekstra tid, fordi hun har 400 venner på Twitter. Jeg har kun ni. Nu er det firehundrede og halvtreds.
+<SPEAKER ID="429" NAME="Jean-Paul Gauzès" AFFILIATION="PPE-DE">
+(FR) Hr. formand, hr. kommissær, mine damer og herrer! Jeg taler på vegne af vores kollega, hr. Toubon.
+<P>
+Først vil jeg gerne takke hr. Popa, som har gjort et fremragende arbejde med at forsøge at nå frem til et kompromis, som vi alle kan acceptere trods de ekstreme holdninger, som nogle medlemmer af Den Socialdemokratiske Gruppe og Gruppen De Grønne/Den Europæiske Fri Alliance har fremført om dette spørgsmål.
+<P>
+Betænkningen rejser et yderst vigtigt emne, nemlig balancen mellem sikkerhed og grundlæggende frihedsrettigheder på internettet. For mange er denne nye teknologi ensbetydende med fremskridt og muligheder, men den er ikke uden risici. Det er f.eks. vigtigt at sikre ytrings- og informationsfrihed på dette nye medie, men samtidig skal vi sikre, at der udvises respekt for andre grundlæggende frihedsrettigheder såsom beskyttelse af privatlivets fred og af personoplysninger og ligeledes af den intellektuelle ejendomsret.
+<P>
+Ordføreren, hr. Lambrinidis, som har gjort et fremragende arbejde, har således taget hensyn til de nye former for internetforbrydelser og de farer, de indebærer, især for børn. Desværre er betænkningen mere tvetydig og endog farlig på andre punkter.
+<P>
+Formålet med fru Hieronymis, hr. Mavrommatis' og hr. Toubons ændringsforslag er at præcisere, at angreb på grundlæggende frihedsrettigheder ikke bør tillades i ytrings- og informationsfrihedens navn.
+<P>
+Medlemsstaterne og internetudbydere skal have en vis handlefrihed, så de kan finde de bedste løsninger til sikring af, at nogles rettigheder ikke fuldstændig hindrer andre i at udøve deres. Internettet skal være omfattet af lovgivning lige som alle andre områder. Internettet kan ikke være et virtuelt område, hvor en handling, der udgør en lovovertrædelse i den virkelige verden, vurderes til at være tilladt og endog beskyttes, alene ved hjælp af teknologi og den måde, den bruges på. Det er selve retsstatsprincippet i vores demokratiske samfund, der står på spil.
+<SPEAKER ID="430" NAME="Manuel Medina Ortega" AFFILIATION="PSE">
+(ES) Hr. formand! Jeg vil gerne lykønske min kollega og ven hr. Lambridinis med den betænkning, som han har udarbejdet, og dertil med den ret velafbalancerede mundtlige forklaring på, hvad formålet med hans betænkning er.
+<P>
+Jeg har taget en bog med, som hedder "Traktat om en forfatning for Europa". Denne bog blev godkendt af 90 % af de spanske vælgere og af flertallet af de nationale parlamenter i de lande, som parlamentsmedlemmerne repræsenterer.
+<P>
+Den trådte ikke i kraft, fordi der var visse vanskeligheder af politisk art, men denne tekst er central, fordi den indeholder - og det ser jeg personligt som et mandat fra mine vælgere - Den Europæiske Unions charter om grundlæggende rettigheder. Jeg mener, at charteret samler de principper, som hr. Lambridinis beskriver i sin betænkning.
+<P>
+For det første er internettet et område med frihed, modernitet og lige muligheder, hvor folk kommunikerer med hinanden, blander sig med hinanden og oplyser hinanden, udveksler tanker og deler viden. Denne ret er fastlagt i artikel II-71 i traktaten om en forfatning for Europa.
+<P>
+For det andet bør internettet beskytte friheden og udviklingen af informationssamfundet på en måde, der er forenelig med respekten for intellektuel ejendomsret og databeskyttelse for brugerne. Nærmere bestemt fastlægges retten til intellektuel ejendomsret foruden brugernes ret til databeskyttelse i artikel II-77 i udkastet til EU-forfatningen.
+<P>
+For det tredje må vi have fundet en egnet balance mellem beskyttelsen af rettigheder, oprettelsen af tilgængeligt indhold og det lovlige marked for digitalt indhold på internettet og udviklingen, som er åben for nye selskabsmodeller, der dukker op på nettet. Vi skal også tage os af databeskyttelse, som anerkendes i artikel II-68 i udkastet til forfatning.
+<P>
+Jeg mener derfor, at Lambridinis-betænkningen dækker disse spørgsmål. Klart nok dvæler den ikke ved detaljer om betingelser, krav, konsekvenser og sanktioner, som hidrører fra misbrug af internettet, men jeg tror, at det ville være på sin plads i en retsakt, og det er ikke det, vi debatterer lige nu.
+<SPEAKER ID="431" NAME="Claire Gibault" AFFILIATION="ALDE">
+(FR) Hr. formand, hr. kommissær, mine damer og herrer! Som kunstner bliver jeg trist, ja, chokeret over den mangel på interesse for kultursektoren, der lægges for dagen i hr. Lambridinis betænkning.
+<P>
+Jeg vil gerne understrege, at vi til enhver tid bør sikre og beskytte enkeltpersoners rettigheder under ét i overensstemmelse med EU's charter om grundlæggende rettigheder og garantere alle berørte parters rettigheder og frihedsrettigheder. Informationssamfundet er en stadig mere betydningsfuld økonomisk sektor, men også en betydelig kilde til fornyelse og kreativitet, som understøtter økonomien i dagens verden.
+<P>
+Det betyder bl.a., at adgang for alle til en mangfoldig kultur og til uddannelse skal garanteres i forbindelse med overholdelsen af EU-retten, og at værdien af det kreative arbejde, der udføres af forfattere og udøvende kunstnere, herunder i den digitale økonomi, skal have behørig anerkendelse. Imidlertid skal en sådan anerkendelse ske, ved at de honoreres for alle de måder, hvorpå deres kreative bidrag anvendes, så de kan få et udkomme af deres fag og være helt fri til at hellige sig det.
+<P>
+I den forbindelse skal intellektuelle ejendomsrettigheder ikke ses som en hindring, men netop som en drivkraft for de kreative udfoldelser, navnlig i forbindelse med udviklingen af nye onlinetjenester.
+<P>
+På den anden side mener jeg, at racistiske, hadefulde eller revisionistiske udtalelser selv på nettet skal retsforfølges. Ytringsfrihed skal udøves ansvarligt. Den rette balance må findes mellem fri adgang til internettet, databeskyttelse og beskyttelse af intellektuelle ejendomsrettigheder. Jeg beder derfor mine kolleger om at stemme for mine ændringsforslag 2-6.
+<SPEAKER ID="432" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Hr. formand! Det er næsten blevet en vane for os at behandle en betænkning om internettet i hver plenarforsamling. Det er udmærket, fordi det giver medlemsstaterne og EU lejlighed til omsider effektivt at tage fat på disse aktuelle spørgsmål om brugen af internettet. Jeg bifalder, at min ven hr. Lambridinis gik med til at inddrage medlemmernes ændringsforslag i sin meget omfattende betænkning og dermed tilføre dette stående emne nye aspekter.
+<P>
+Sidste gang drøftede Parlamentet spørgsmål i forbindelse med videospil på internettet og farerne herved for mindreårige og EU's finansieringsmekanismer for et sikkert internet for mindreårige. Dagens debat overbeviser mig mere og mere om, at alt til syvende og sidst er et spørgsmål om den juridiske tilgang.
+<P>
+Derfor tror jeg, at det eneste, vi skal stille krav om, er en undersøgelse på juridisk plan af de mangeartede problemer, der hidrører fra brugen af internettet. Betænkningen vil derfor være nyttig som et katalog, der skal undersøges i dybden af juridiske eksperter, som derefter vil føre forskningsresultaterne ud i livet, så de forskellige interessenter, der er nævnt i betænkningen, får redskaber til at udarbejde udkast til lovgivning, som kan sikre retsstatsprincippet, for så vidt angår brugen af internettet på en demokratisk måde. Naturligvis kan vi ikke tale om demokrati, når ikke alle borgere har ret til brug af internettet uanset deres økonomiske situation. Det er ikke sådan, situationen ser ud i dag, men vi håber, det bliver sådan med tiden.
+<SPEAKER ID="433" NAME="Katrin Saks" AFFILIATION="PSE">
+(ET) Hr. formand, mine damer og herrer! Kan De forestille Dem livet uden internettet? Jeg kan i hvert ikke længere selv. Jeg kommer fra Estland, som er verdens førende nation med hensyn til internetadgang. Det er sandsynligvis også derfor, at vi har større erfaring med farerne på internettet, lige fra den cyberspacekrig, der ramte vores land for to år siden, til det forhold, at vores børn ifølge international forskning i højere grad end børn i mange andre lande er blevet ofre for forfølgelse på nettet.
+<P>
+I forbindelse med flere af betænkningerne, som Europa-Parlamentet har vedtaget de senere år, har det faktisk forsøgt at besvare spørgsmålet: "Hvad er internettet?" Et mere relevant spørgsmål i dag ville være, hvorvidt internetverdenen er en separat verden - en virtuel verden - som ikke er en del af det virkelige liv, eller om det er en del af det offentlige rum. Dette drøftes også af hr. Lambridinis i hans betænkning, hvori han anfører, at vores primære opgave er at finde en passende balance mellem databeskyttelse og sikkerhed.
+<P>
+Ytringsfrihed er umiddelbart et spørgsmål, der dukker op, når som helst begrænsninger på brugen af internettet nævnes - ytringsfrihed er retten til at udbrede tanker, meninger, overbevisninger og anden information, men den kræver også ansvarlighed. Jeg vil gerne takke ordføreren og håber, at vi alle finder styrken til at finde svaret på dette spørgsmål: Hvad er internettet? Kan det reguleres, og hvordan skal det i givet fald gøres? Eftersom internettet er et af de tydeligste beviser på globaliseringen, må vores tilgang til emnet også være international.
+<SPEAKER ID="434" NAME="Filiz Hakaeva Hyusmenova" AFFILIATION="ALDE">
+(BG) Hr. formand, mine damer og herrer! Indholdet af denne betænkning lever fuldt ud op til titlen. Den dækker rettighederne i EU's charter om grundlæggende rettigheder og FN's konvention om børns rettigheder, og den har til formål at beskytte børn mod kriminalitet. Tillykke til ordføreren.
+<P>
+Internettet er en verden, hvor der opstår forhold, som ikke udtrykkeligt defineres som overtrædelse af rettigheder og frihedsrettigheder eller som forbrydelser imod dem. Mulighed for at udtrykke sig, finde information og knytte sociale kontakter erstattes ofte af den direkte modsætning hertil. Internettet giver rig grobund for at omgå regler og undgå begrænsninger for ytringsfriheden.
+<P>
+Når der tilbydes anonymitet, og der ikke foregår kontrol, er resultatet, at man fralægger sig ansvaret, når det gælder valg og brug af sproglige termer. Disse termer er ofte blandet med slang, kynisme og endog vulgaritet. De udvikler sig til et sprog af mistillid og had, bliver til dagligt sprog, bliver modeller til efterligning og skaber en bestemt attitude.
+<P>
+Sådant sprog bidrager ikke til et barns sociale, åndelige eller moralske velfærd og er ikke vejen til kultur og værdier. Derfor sætter jeg fokus på behovet for en separat analyse af det sprog, der bruges på internettet, og den indflydelse, det har på barnets personlige udvikling.
+<SPEAKER ID="435" NAME="Csaba Sógor" AFFILIATION="PPE-DE">
+(EN) Hr. formand! Jeg er et af de mennesker, som gerne ville sikre den fortsatte frihed på internettet. Skaberne af internettet havde stor tiltro til det gode i menneskene, og jeg deler denne tro. Desværre er det meget ofte sådan med internettet som i det virkelige samfund, at vi må se det triste forhold i øjnene, at der skal regulering til for at sikre, at de, der ikke kan beskytte sig selv, får den rette beskyttelse alligevel. Sikkerheden for den enkelte er en grundlæggende rettighed lige så vel som retten til frit at tale og udtrykke sig.
+<P>
+Afskyeligheder som børneporno og pædofili foruden svindel på internettet må stoppes. Vi kan ikke tolerere rovdyr på internettet af nogen art, og mens vi drøfter dette emne af største interesse, vil jeg gerne henlede Deres opmærksomhed på et meget mindre omdiskuteret forhold, nemlig at internettet også er fyldt med netsteder, der opfordrer til had, vold og intolerance over for alle typer minoriteter, også etniske. Det er et aspekt af internettet, der kræver vores opmærksomhed. Vi må sikre os, at minoriteterne også føler, de bliver beskyttet. Det er uacceptabelt, at mange ekstremistgrupper bruger internettet til at opildne til had og fremmedhad.
+<SPEAKER ID="436" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
+(PL) Hr. formand! Jeg vil gerne henlede opmærksomheden på flere problemer forbundet med internettet.
+<P>
+Først og fremmest vil jeg henvise til beskyttelse af personlige data og beskyttelse af fortrolighed i forbindelse med e-afstemning, som sætter mennesker med handicap i stand til at udøve deres rettigheder som borgere. For det andet vil jeg gerne nævne beskyttelse af intellektuelle ejendomsrettigheder i forbindelse med kunstnerisk materiale, som let kan videregives via internettet. Et andet spørgsmål vedrører beskyttelsen af børn mod skadeligt indhold såsom billeder af brutalitet og pornografi ved hjælp af egnede filtre og vejledning fra forældre. Det fjerde punkt er problemet med at beskytte børn mod pædofile og kidnappere og også muligheden for at fange kriminelle ved at følge spor, de har efterladt sig på internettet, f.eks. en pædofils adresse eller film eller billeder af forbrydelser, der er optaget på mobiltelefon og lagt ud på nettet. Hvis en ung tysk mands udtalelser på internettet ikke var blevet ignoreret, ville hans ofre stadig være i live, nemlig de elever og lærere, han skød. Det næste spørgsmål, som faktisk er det vigtigste, vedrører respekten for ytringsfriheden, og her bør loven overholdes, sådan som det er tilfældet på alle andre områder. Nogle af problemerne kræver nye tekniske løsninger. Jeg lykønsker ordføreren.
+<SPEAKER ID="437" NAME="Ján Figeľ" LANGUAGE="EN">
+Hr. formand! Jeg vil gerne takke alle talerne for deres engagerede og interessante bidrag. Jeg ønsker blot at føje to punkter til det, jeg sagde i begyndelsen. Vi deler f.eks. bekymringerne for de intellektuelle ejendomsrettigheder og den nødvendige afbalancerede tilgang. Det er vigtigt for den overordnede udvikling i eller af informationssamfundet. Håndhævelsen af disse ejendomsrettigheder skal være behørigt afpasset efter de grundlæggende frihedsrettigheder eller rettigheder, som nævnes i betænkningen, herunder retten til et privatliv, databeskyttelse og retten til at deltage i informationssamfundet.
+<P>
+Mange har nævnt børn - mindreårige - og beskyttelse af dem, der sandsynligvis er mest udsatte for disse udfordringer, og de sidder ved computeren dagligt. Her vil jeg ikke kun henstille, men kraftigt opfordre partnerne, medlemsstaterne og institutionerne til at støtte programmet for et mere sikkert internet 2009-2013. Der er afsat et betydeligt budget til dette program. Der er allerede gjort en indsats mod upassende eller ulovligt indhold, men også imod skadevoldende adfærd eller opførsel såsom grooming eller mobning, som er blevet nævnt.
+<P>
+Der er mange spørgsmål, men jeg vil anbefale at gennemføre seriøse forpligtelsespolitikker både nationalt og internationalt. Vi har et direktiv om databeskyttelse og elektronisk kommunikation, masser af konkrete handlinger eller handlingsplaner, et europæisk program for beskyttelse af kritisk infrastruktur. Så derfor sagde jeg, at vi ikke behøver mere lovgivning, men snarere rettidig og passende gennemførelse heraf og siden hen naturligvis yderligere udvikling og forbedring. Et medlem nævnte med rette telekompakken. Gårsdagens trepartsdrøftelse giver masser af håb om en endelig aftale.
+<P>
+Jeg vil gerne slutte med at sige, at dette år er udpeget til europæisk år for kreativitet og innovation, og mottoet er: "Tænke - Skabe - Forny". Så vi kan måske ikke forestille os verden uden internettet, men det er vigtigt at tænke og skabe og forny for at gøre det mere sikkert og få det bragt tættere på mennesket og det menneskelige ansvar.
+<SPEAKER ID="438" NAME="Stavros Lambridinis" LANGUAGE="EN">
+Hr. formand! Jeg vil gerne takke Kommissionen. For at gøre det lettere for tolkene - da jeg taler uden manuskript - vil jeg undtagelsesvis tale på engelsk
+<P>
+Jeg respekterer de følelser, som folk har, der bekymrer sig om beskyttelsen af de intellektuelle ejendomsrettigheder. Men jeg har indtryk af, at de udkæmper deres kamp på den forkerte betænknings slagsmark. Min betænkning gælder ikke et enkelt emne. Det er en betænkning, der generelt omhandler beskyttelse af grundlæggende rettigheder og sikkerhed på internettet, og det er da også derfor, den fik enstemmig opbakning.
+<P>
+Selv om de intellektuelle ejendomsrettigheder faktisk nævnes, skulle man imidlertid tro, hvis man lytter til nogle af talerne, at de overhovedet ikke er medtaget. Lad mig især læse op, hvor afbalanceret vi har forsøgt at være i denne betænkning. I afsnit 1, litra k), opfordrer vi Rådet til at gå "i gang med vedtagelsen af direktivet om strafferetlige foranstaltninger med henblik på håndhævelse af de intellektuelle ejendomsrettigheder efter en vurdering, i lyset af den seneste innovative forskning, af, i hvor stort omfang det er nødvendigt og hensigtsmæssigt". Det er, hvad der står i betænkningen.
+<P>
+Ændringsforslagene derimod er alt andet end afbalancerede. Ændringsforslag, der fjerner det, som betænkningen kræver - og det er et forbud mod systematisk overvågning af alle brugere, uanset om de er mistænkt eller ej, skyldige eller ej, for at beskytte enhver ret til sikkerhed - er alt andet end afbalancerede. Forslagene går ud på fuldstændig at opgive grundlæggende rettigheder for at beskytte noget andet.
+<P>
+For det andet er de ændringsforslag, der fjerner eller udvander en meget præcis og specifik henvisning i betænkningen - den kontroversielle politiske tale bør ikke kriminaliseres - ændringsforslag, som jeg er imod, og jeg er glad for at høre, at mange andre her i salen er enige med mig.
+<P>
+Politisk tale skal beskyttes, særlig når den er kontroversiel. Hvis alle her i salen var enige, ville vi ikke behøve lovgivning om ytringsfrihed. Det er, når vi ikke er enige - og navnlig for at beskytte udsagn, som måske er særlig egnede til at vække vrede hos mennesker som mig eller andre - at vi har disse love. Denne henvisning i min betænkning indeholder ikke udtrykket "kriminel" tale. Der tales specifikt om "kontroversiel politisk" tale. Derfor opfordrer jeg indtrængende alle til at støtte dette bestemte afsnit i betænkningen og støtte betænkningen i det hele taget.
+<P>
+Jeg er enhver dybt taknemmelig - også dem, der er uenige med mig - som har været til stede i aften. Jeg ved, det ikke er let. Tak for støtten gennem alle disse måneder, det har taget at udarbejde betænkningen. Jeg glæder mig til at arbejde sammen med mine kolleger om deres betænkninger i fremtiden og udvise en lignende forståelse og opbakning.
+<SPEAKER ID="439" NAME="Formanden">
+- Tak, kære kolleger. Tak, hr. Mavrommatis, for Deres udtalelse og en særlig tak til ordfører Lambridinis for den vellykkede proces og en vigtig og interessant betænkning.
+<P>
+Forhandlingen er afsluttet.
+<P>
+Afstemningen finder sted torsdag den 26. marts 2009.
+<P>
+Skriftlige erklæringer (artikel 142)
+<SPEAKER ID="440" NAME="Neena Gill  " AFFILIATION="PSE">
+skriftlig. - (EN) Jeg lykønsker ordføreren med hans betænkning. Jeg tror, at internettet har styrket europæernes tilværelse på utallige måder. Det har øget vores evne til at skaffe os viden, hjulpet på vores forståelse af verden omkring os og styrket vores sociale relationer til andre mennesker.
+<P>
+Men mine vælgere fortæller, at de også er bekymret over farerne ved internettet. Vi har en fremragende teknologi direkte under tasterne, men selve den frihed, den giver os, har også givet kriminelle let spil til at udnytte den. Denne betænkning har med sit fokus på grundlæggende rettigheder skabt vide rammer for, hvordan internettet kan gøres mere sikkert. Vi talte i den seneste mødeperiode om behovet for at gøre noget ved børnepornografi. Gennem en afbalancering af frihed og sikkerhed vil de forslag, vi har stemt om i dag, blive til endnu et afgørende redskab i kampen mod denne trussel.
+<P>
+Betænkningen nævner også digitale færdigheder. Vi kan ikke opnå fremskridt i fællesskab som samfund, hvis vi ved at fremme nye frihedsrettigheder for visse borgere begrænser rettighederne for andre, som er mindre fortrolige med internettet. Vi har gladelig taget de grundlæggende forandringer, som internettet har medført, til os. For at nå endnu længere bør vi nu lige så villigt rette fokus mod at tage fat om de negative sider af denne revolution.
+<SPEAKER ID="983" NAME="Daciana Octavia Sârbu  " LANGUAGE="RO">
+Det er velkendt, at internettet i stigende grad er vanskeligt at kontrollere, men det skal være en af prioriteterne for regeringerne i medlemsstaterne at beskytte den grundlæggende ret til privatliv på internettet og sikre, at internettet bliver mere sikkert.
+<P>
+At bruge internettet giver uanede fordele, men vi må ikke glemme faren for misbrug, som nogle internetbrugere udsættes for.
+<P>
+For at begrænse dette misbrug er det derfor vores pligt at definere standarder for databeskyttelse, sikkerhed og ytringsfrihed på både EU-plan og medlemsstatsplan.
+<P>
+På den anden side må der træffes hasteforanstaltninger til bekæmpelse af cyberkriminalitet, og i den forbindelse vil jeg gerne understrege betydningen af at udtænke en global strategi.
+<P>
+Jeg insisterer på, at der i kampen mod cyberkriminalitet skal foregå et aktivt samarbejde mellem politimyndighederne, internetudbyderne, brugerne og andre involverede parter.
+<P>
+Jeg vil slutte med at sige, at retten til uddannelse og internetadgang samt sikkerhed og beskyttelse af internetbrugernes rettigheder skal garanteres.

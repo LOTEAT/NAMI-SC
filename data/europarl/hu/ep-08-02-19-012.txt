@@ -1,0 +1,418 @@
+<CHAPTER ID="012">
+Kérdések órája (a Bizottsághoz intézett kérdések)
+<SPEAKER ID="278" NAME="Elnök">
+A következő napirendi pont: kérdések a Bizottsághoz (B6-0010/2008).
+<P>
+A következő kérdések hangzottak el a Bizottság felé.
+<P>
+I. rész<
+<P>
+Tárgy:: EASA légi alkalmasság értékelési folyamatok
+<P>
+2007 őszén három baleset is történt, valamennyi Dash8 Q400 géptípussal, Aalborgnál, Vilniusznál és Koppenhágában. A vizsgálatok ideiglenes eredményei szerint a szeptember 9-én és 12-én bekövetkezett balesetek tervezési hibának tudhatók be. Ezt a következtetést a Skandináv Polgári Légügyi Hatóság (SLV), és az Európai Repülésbiztonsági Ügynökség (EASA) elfogadta. Az október 27-i baleset a tervezési hiba, és az azzal is összekapcsolható ellenőrzési hibák együttes eredményének tudható be. A skandináv polgári légügyi hatóság felszállási tilalmat rendelt el a géptípussal kapcsolatban, és számos feltételt támasztott az elé, hogy ismételt használatát engedélyezze. Eközben az EASA azt állapította meg, hogy a tervezési hiba csak kisebb jelentőségű.
+<P>
+Nem lenne igaz, hogy az EASA feladata a magas biztonsági színvonal biztosítása?
+<P>
+Miként lehetséges, hogy az EASA és az SLV ennyire eltérő következtetésekhez jutott, mikor a légitársaság által elvégzett vizsgálat azt mutatta ki, hogy a cég 18 darab Dash8 Q400-as repülőgépje közül 16-ban ugyanaz a tervezési vagy konstrukciós hiba fordult elő, mint abban, amely Koppenhágában kényszerleszállásra kényszerült?
+<SPEAKER ID="280" NAME="Jacques Barrot">
+a Bizottság alelnöke. - (FR) Készséggel válaszolok Jensen asszony kérdésére.
+<P>
+A DASH8 Q400 típusú repülőgéppel kapcsolatos három baleset végső vizsgálati jelentését várva, a Bizottság még korainak tekinti, hogy találgatásokba bocsátkozzon azon tényezőkkel összefüggésben, amelyek a rendkívüli eseményekhez vezettek, illetve lehetséges tervezési vagy konstrukciós hibákra utalhatnak.
+<P>
+Az EASA feladata, természetesen, az, hogy a biztonság lehető legmagasabb szintjét garantálja. Az Ügynökség nagyon szorosan követte az ügyet, és teszi ezt továbbra is, hozzátéve, hogy ebből a típusból 170 darab lett üzembe helyezve - a világon - és működik ma is.
+<P>
+Az EASA-tól kapott részletes tájékoztatás szerint, számos alkalommal történt kapcsolatfelvétel az EASA, a norvég, dán és kanadai polgári légügyi hatóságok, valamint a gyártó cég között. Ennek eredményeként több intézkedésre is sor került. Így az EASA közzé tette a légi alkalmasságra vonatkozó irányelveit, leírva a megtenni szükséges módosító intézkedéseket is.
+<P>
+E géptípus futómű behúzó rendszerének részletes elemzése ahhoz a következtetéshez vezette az EASA-t, hogy a repülőgép biztonsága nem volt megkérdőjelezhető. A skandináv hatóságokhoz tehát az az ajánlás érkezett, hogy újítsák meg a gép légi alkalmassági tanúsítványát. Természetesen csak akkor, amikor már az összes javítási elvárásnak eleget tettek.
+<P>
+A skandináv hatóságok tájékoztatták a légitársaságot azokról a feltételekről, amelyeknek eleget kell tenni az adott típusú flotta légi alkalmassági tanúsítványa újra-érvényesítéséhez. Mindmáig azonban a társaság nem nyújtotta be azokat a dokumentumokat, amelyek révén igazolást nyerne, hogy a gépeknél a kívánt ellenőrzések és módosítások megtörténtek.
+<P>
+Jelenleg ott tartunk, hogy az Európai Repülésbiztonsági Ügynökség még nem kapott tájékoztatást arról, hogy a dán hatóságok ismét kiadták volna a repülés-alkalmassági bizonyítványokat az SAS Q400s típusú flotta számára. Az EASA tartja a kapcsolatot a dán hatóságokkal, megkísérelve tisztázni e kérdést.
+<P>
+Elnök úr, ezt a választ kívántam adni Jensen asszonynak.
+<SPEAKER ID="281" NAME="Anne E. Jensen" AFFILIATION="ALDE">
+(DA) Elnök úr! Szeretném megköszönni Barrot alelnök úrnak beszámolóját. Igaz, az a nézeteltérés, amelyre én kérdésemben utaltam, részlegesen feloldást nyert. Azonban, még mindig úgy áll a dolog, hogy a dán légügyi hatóságok a műszaki problémák orvoslása előtt nem engedélyezik az SAS gépek felszállását, miközben más légitársaságok használják az ugyanezen műszaki problémával rendelkező gépeiket. Úgy gondolom, hogy az alapvető probléma - eltekintve attól a diszkriminációtól, amely az SAS Skandináv Légitársaság esetében érvényesül, olyan társaságok ellenében, mint a Flybe, az Augsburg, a Tyrolean és a Luxair - az, hogy a polgárok nem bízhatnak a repülésbiztonságban. Mit tenne ön, Barrot úr, annak érdekében, hogy ugyanazzal a bizalommal viseltessek a közös légügyi hatóság, mint a nemzeti légihatóság irányában. Mert hiszen végül is ezekről a hatóságokról beszélünk most.
+<SPEAKER ID="282" NAME="Jacques Barrot">
+a Bizottság alelnöke. - (FR) Az EASA konkrét utasításokat adott ki, amelyeknek végrehajtása biztosítja a gépek légi alkalmasságát. Ez tehát nem repülésbiztonsági probléma. Mindössze arról van szó, hogy a dán hatóságok még nem tájékoztatták az EASA-t az érintett légitársaság válaszáról.
+<P>
+Jensen asszony, az ügy lényege, hogy az EASA teljes körű utasításokat adott ki azon problémák kezelésére, amelyek e géptípus használatakor jelentkezhetnek.
+<P>
+Most az EASA-nak, végső álláspontjának kialakítása előtt, várnia kell a vizsgálatok eredményeire. Azt azonban kihangsúlyozom, hogy az Ügynökség egyértelműen teljes körű utasításokat adott ki ezeknek a gépeknek biztonságos használatához. Olyan gépekről van szó, amelyek mindmáig nem okoztak sérüléssel járó balesetet, de amelyek - mint ön is említette - mégis balesetben érintettek. Lépni kell a dolgok megoldása érdekében.
+<SPEAKER ID="283" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Biztos úr! Paradox módon, a helyzet olybá tűnik, hogy egy európai repülésbiztonsági ügynökség leparancsol egy gépet az égről, míg egy másik, mint az osztrák ügynökség, úgy véli, hogy a gépek nyugodtan repülhetnek. Kérdésem önhöz az, hogy miután e területen kiszélesítettük jogosítványait, könnyebb helyzetben lesz-e most az EASA akkor, ha - mint erre ön is utalt - egy repülőgépgyártó társaság bizonyos nehézségeket támaszt? Amennyiben az EASA ma megteheti azt, amiben döntést hoztunk - nevezetesen büntetést szab ki, és nem vonja vissza azonnali hatállyal az engedélyt - könnyebb lesz-e a dolga ekkor? Úgy vélem, az általunk elfogadott szélesebb jogkörök megkönnyítik a jövőben az EASA helyzetét.
+<SPEAKER ID="284" NAME="Jacques Barrot">
+a Bizottság alelnöke. - (FR) Hadd tegyem egyértelművé: az EASA utasításokat fogalmazott meg, és valamennyi légitársaság kötelezett az Ügynökség által lefektetett szabályokat betartani.
+<P>
+Az ön kérdése azonban tágabb értelmű. Igen, az EASA felelős a repülőgépek tanúsítványainak kiadásáért, és felelős akkor is mikor a világ egészére vonatkozóan kiad egy géptípust elfogadó igazolását. Az ellenőrzések terén azonban az uniós tagállamokra támaszkodik, kövessék nyomon azok, hogy a közös szabályok azonos módon kerülnek-e alkalmazásra.
+<P>
+Más szavakkal, ön helyesen állapította meg, hogy kiszélesítettük az Ügynökség hatáskörét, de ezzel az egyes tagállamok polgári repülésügyi hatóságai nem kaptak felmentést saját felelősségük viselése alól. A tagállamoknak, polgári légügyi hatóságaik révén, eleget kell tenni kötelességüknek.
+<P>
+Egy nap talán ennél is messzebb léphetünk, de jelenleg az EASA számos bonyolult problémával foglalkozik, és a közös szabályok alkalmazását csak a tagállamok által végzett ellenőrzések révén tudja nagyon szorosan követni.
+<P>
+E konkrét esetben, úgy gondolom, az EASA pontosan azt tette, ami szükséges volt a biztonság garantálásához.
+<SPEAKER ID="285" NAME="Elnök">
+
+<P>
+Tárgy: A vezetői javadalmazás átláthatósága
+<P>
+Európa egészében a vezetői fizetések fokozatosan emelkednek. Ausztriában, például, a vezetők alapfizetése 2006-2007 között 3,7%-kal emelkedett. A fizetések változó elemei azonban ennél sokkalta gyorsabban nőttek. A vezetői fizetések megugrása fokozta az érdeklődést az érintetteknek biztosított tényleges juttatások iránt. Különösen, miután a változó fizetési elemeket nem szükséges feltüntetni az egyenlegekben, és a részvényesek szeretnék tudni, hogy miként is használják fel pénzüket. Egyértelműen megfogalmazódik az európai polgárok igénye, hogy a vezetői bérezés terén nagyobb átláthatóság érvényesüljön.
+<P>
+Tudatában van-e a Bizottság e fejleményeknek? Tervezi-e valamiféle európai jogszabály kidolgozását a vezetői fizetések nagyobb átláthatóságának biztosítása érdekében, vagy van-e már ilyen rendelkezés?
+<SPEAKER ID="286" NAME="Charlie McCreevy">
+a Bizottság tagja. - Hosszabb ideje nagy figyelmet kiváltó kérdés a vezetők fizetése. Ezt érzékelve, a Bizottság már tett lépéseket a vezetői javadalmazás átláthatóságának növelése érdekében.
+<P>
+A Bizottság 2004-ben elfogadott ajánlása úgy rendelkezik, hogy a vállalatok tegyék közzé mind az igazgatók javadalmazását érintő vállalati politikájukat, mind az egyes igazgatók javadalmazását. A Bizottság ezen továbblépve azt is ellenőrizte, hogy a tagállamok ténylegesen alkalmazzák-e az ajánlásban foglaltakat. A közelmúltban újabb vizsgálat zajlott le.
+<P>
+A tagállamok nagy többsége, az állami vállalatok irányítására vonatkozó szabályozásban, vagy magas szintű, kötelező erejű jogszabályban rendelkezett az egyes vezetők javadalmazásának gyakorlatáról. A tagállamoknak azonban csak 60%-a követte a javadalmazási gyakorlat átláthatóságra vonatkozó ajánlást. Nagyon kevés karolta fel azt a javaslatot, hogy e kérdésben a vállalati közgyűlés döntsön. Van tere, tehát az előrelépésnek.
+<P>
+A Bizottság értékeli majd azt is, hogy a vállatok a gyakorlatban milyen mértékben igazodnak a javasolt átláthatósági szabványokhoz. A javadalmazás azon területek egyike, ahol néhány vállalat nagyon erős ellenállást mutat az adatok közzétételével szemben, a nemzeti vállalatirányítási szabályokban foglaltak ellenére is. Vizsgáljuk a kérdést.
+<SPEAKER ID="287" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Biztos úr, ön mondta, hogy a cégek 60%-a nem kíván semmit sem tenni. Kérdezem, mit akar tenni a Bizottság?
+<P>
+Rátérek második kérdésemre. Mostanában jutott el hozzánk, konkrét német példákon keresztül, hogy ezek az urak, mert főként urakról van szó, nemcsak igen szép pénzt keresnek, de adót sem akarnak fizetni ez után. Így elmennek Liechtensteinbe, vagy máshová. Mi a terve a Bizottságnak e gyakorlat megszüntetésére?
+<SPEAKER ID="288" NAME="Charlie McCreevy">
+a Bizottság tagja. - A tisztelt képviselő mindkét kérdésére az a válaszom, hogy ezeket az ügyeket a tagállamoknak kell rendezniük. A Bizottság által megtenni tervezett lépésekre vonatkozóan a válaszom az, hogy a Bizottság már lépett.
+<P>
+Már elődöm döntött az e területet érintő ajánlás kimunkálásáról. Miért döntött az ajánlás mellett, más eszközzel szemben? Nincs kétségem, hogy ennek számos oka lehetett, de azok között is az első helyen szerepelhetett, hogy nincs közmegegyezés egy univerzális európai vállalatirányítási vagy társasági jog kialakításának kérdésében. Talán sohasem leszünk képesek e területen megállapodásra jutni.
+<P>
+A terület egészén nagyon sok kulturális különbség érvényesül, és ez lehetett az egyik fő ok, ami arra késztethette elődömet, hogy ajánlás kidolgozása mellett döntsön.
+<P>
+Magát az ajánlást illetően, tanulmányunk azt mutatta, hogy a tagállamok többsége jelentős súlyú közzétételi szabályokat illesztett be az egyes vezetők javadalmazására vonatkozó vállalatirányítási szabályzatba, vagy akár még kötelező erejű jogszabályt is formált. A többség foglalkozott a javadalmazási politika átláthatóságát érintő javaslattal is.
+<P>
+A második, adózást érintő kérdésben, természetesen, a tagállamok dolga, hogy a számukra legalkalmasabbnak vélt módon, nemzeti jogszabályaikkal összhangban kezeljék az ügyet.
+<P>
+Tárgy: Nagysebességű vasúti vonal földalatti szakaszának megépítése a Sagrada Família templom közelében (Barcelona)
+<P>
+Amint az általánosan ismert, Barcelonában a nagysebességű vasúti vonal földalatti szakaszának megépítése során számos épület összeomlott vagy megcsúszott, ezáltal pedig házak és fontos épületek, köztük a Sagrada Família templom és más történelmi építmény kerültek veszélybe.
+<P>
+Miután ez egy uniós támogatást élvező projekt, adhat-e a Bizottság tájékoztatást a 85/337/EGK irányelv alapján elvégzett előzetes környezetvédelmi hatásvizsgálatokról, és közölné-e, hogy ezek a tanulmányok felmérték-e a Sagrada Famíliát és más történelmi épületeket fenyegető kockázatokat?
+<P>
+Fellelhető-e a Bizottsághoz eljuttatott dokumentumok között a Pompeu Fabra Egyetem tanulmánya, amely a súlyos kockázatokra tekintettel a földalatti építkezéssel szemben foglalt állást?
+<SPEAKER ID="290" NAME="Stavros Dimas">
+a Bizottság tagja. - (EL) Elnök úr! Elsőként is szeretnék emlékeztetni a Bizottság határozott álláspontjára, miszerint bármily hasznos vagy fontos is egy projekt, az sohasem valósítható meg a környezet, a közegészségügy, vagy a tagállamok kulturális öröksége rovására.
+<P>
+A tagállamok kötelessége, hogy a kulturális örökségek védelméhez elengedhetetlen lépéseket megtegyék. Ez különösen igaz történelmi városközpontjaik esetében, amelyekre esetenként különleges nyomás nehezedik a fokozódó urbanizáció következtében.
+<P>
+A tiszteletreméltó képviselő kérdését illetően arra szeretnék rámutatni, hogy a Madrid-Zaragoza-Barcelona nagysebességű vasúti vonal építését csak részben finanszírozzuk a kohéziós alapból.
+<P>
+A Transz-európai Közlekedési Hálózat Alap társfinanszírozza a vonal teljes hosszában, így a Barcelonatól Geronáig és Figueresig terjedő szárny projektjeinek előkészületi tanulmányait.
+<P>
+Ezzel együtt, európai alapokból származó forrásokkal nem számolhattak, ilyent nem használhattak fel a barcelonai földalatti vonallal kapcsolatban. Ugyancsak megjegyzendő, hogy a projektek tervezése és kivitelezése a tagállamok kizárólagos felelőssége, amellyel együtt jár az a követelmény, hogy meg kell felelni, és szigorúan be kell tartani a vonatkozó és érvényes közösségi jogszabályokat.
+<P>
+E konkrét ügyben, nem került sor közösségi finanszírozásra a Sants és Sagrega állomások közti pályaszakasz, illetve a Sagrada Família közelében épülő alagút előkészületi munkáival összefüggésben. Ezért a Bizottság nem kapott tájékoztatást e munkáról, amint nem kapott másolatot a spanyol hatóságok által végzett környezetvédelmi hatásvizsgálatból sem.
+<P>
+A Bizottság tudatában van annak, hogy az illetékes spanyol hatóság, nevezetesen a szennyezés elleni és éghajlatváltozással foglalkozó főigazgatóság 2007. május 30-i döntésében jóváhagyta a környezetvédelmi hatásvizsgálat. A jóváhagyó határozat szövege 2007 júniusában megjelent a spanyol hivatalos kormányzati közlönyben. A szövegben találhatók utalások arra vonatkozóan, hogy a projekt milyen hatásokkal járhat olyan kulturális örökségekre, mint amilyen a Sagrada Família is.
+<P>
+Végül, a Bizottság nem kapott tájékoztatást a Pompeu Fabra Egyetem tanulmányáról. A spanyol hatóságok felelőssége, hogy figyelembe vegyék a tanulmányok tartalmát, így az egyetemét is, valamint a közvélemény álláspontját.
+<P>
+A Bizottság figyelemmel kíséri a helyzet alakulását. Reméljük, hogy semmiféle károsodás nem éri Barcelona város történelmi jelentőségű kulturális örökségét.
+<SPEAKER ID="291" NAME="Cristina Gutiérrez-Cortines" AFFILIATION="PPE-DE">
+(ES) Elnök úr! Nincs kétségem afelől, hogy a jogi folyamatok szabályosan zajlottak, hogy úgy mondjam, minimális kényszer alatt. Azért keresem meg a Bizottságot, hogy mint a Szerződések őrétől segítséget kérjek, hogy lelkiismeretére hivatkozva kérjem, bizonyos intézkedések - e minőségében való - elutasítását, és a környezetvédelmi hatásokkal foglalkozó irányelv szigorú számonkérését.
+<P>
+Az a tény, hogy az alagút e szakaszát nem uniós forrásokból finanszírozzuk, mellékes körülmény, miután mindannyian tudjuk, hogy a projektek feldarabolása nem jó gyakorlat, és e tekintetben az Európai Uniónak számos alkalommal kellett élnie kritikával.
+<P>
+Miért történt, hogy az AVE nem ragaszkodott egy kiemelt projekt esetében részletes hatásvizsgálatokhoz, miközben tudjuk, hogy a vonal olyan, nagyon érzékeny területek alatt halad el, mint a Pedrera, és különösen a Sagrada Família környéke?
+<P>
+Az környezeti hatásvizsgálat irányelv 3. cikkének szellemében kötelező a hatásvizsgálatok elvégzése a kulturális örökségekre gyakorolt lehetséges káros következményekkel összefüggésben. A megépíteni tervezett 40 méter mély védőfal mindössze másfél méterre van a 40 000 tonnás Sagrada Família homlokzatától.
+<P>
+A terület adottságait ismerve, valamint azt tudván, hogy a katedrális egy zseni rendkívül bonyolult alkotása, én mindössze azt kérem, hogy minden oldal hallgattasson meg, mindenki észrevételeit vegyék figyelembe! Nagyon örülök, hogy az AVE a helyén van, de ez nem pártpolitikai ügy. A PP változtatta meg az útvonalat, és úgy gondolom, hogy ismét módosítani kellene azt, hogy a Valencia utca mentén haladjon a vonal.
+<SPEAKER ID="292" NAME="Stavros Dimas">
+a Bizottság tagja. - (EL) Szeretném még egyszer kihangsúlyozni, hogy a Bizottságnak nincs joga beavatkozni. Természetesen a tiszteletreméltó képviselő asszonynak igaza van, amikor azt mondja, hogy különös figyelmet kell fordítanunk kulturális értékeink megőrzésére, és még inkább védenünk kell az építészeti mesterműveket. Mindeddig azonban semmiféle veszélyről nem kaptunk értesítést, és a környezetvédelmi hatásvizsgálat-tervezetről sem állította senki, hogy megalapozatlan.
+<P>
+Mindaz, ami eddig a Bizottság figyelmébe lett ajánlva, nem más, mint egy, a Llave para Litoral szervezet által az Európai Parlament illetékes bizottságához küldött beadvány, amely szervezet tagjai egyébként a földalattitól eltérő nyomvonal kijelölését szorgalmazzák.
+<P>
+Ez azonban a helyi, a regionális és a nemzeti hatóságok számára marad, a környezetvédelmi hatásvizsgálatokra vonatkozó irányelv szellemében megválaszolandó kérdés.
+<SPEAKER ID="293" NAME="Maria Badia i Cutchet" AFFILIATION="PSE">
+(ES) Elnök úr! Szeretném néhány részlettel gazdagítani a vitát, és elmondani - talán az emberek megnyugtatása érdekében is -, hogy az építkezéssel összefüggésben teljes körű geológiai információk állnak rendelkezésünkre. Az építési technológia megfelel a helyszíni feltételeknek. Bármiféle, már létező épületszerkezet közelében elvégzendő munkát megelőzően preventív intézkedések történnek. Az ellenőrző mérések folyamatosan zajlanak, hogy még a legcsekélyebb mérvű földmozgás vagy föld-megcsúszás lehetőségét is azonnal be lehessen határolni. Semmiféle kedvezőtlen hatás nem éri a környező épületeket, és biztosított lesz az átláthatóság a közvélemény tájékoztatása során.
+<P>
+Amit mondani szeretnék, végül is az, hogy senkinek nem lehet nagyobb érdeke abban, mint a spanyol, a katalán és a helyi kormányzatnak, hogy se a történelmi emlékművek, se az emberek ne károsodjanak.
+<SPEAKER ID="294" NAME="Stavros Dimas">
+a Bizottság tagja. - (EL) Azt hiszem, nem szükséges bármivel is kiegészíteni a tiszteletreméltó képviselő asszony által hozzáfűzötteket.
+<P>
+II.rész
+<P>
+Tárgy:: Az ógörög és latin nyelvek felvétele az Európai Nyelvi Kompetenciamutatóba.
+<P>
+Tekintettel a Bizottság elképzelésére, hogy kidolgozza a "Európai Nyelvi Kompetenciamutatót” az öt, legszélesebb körben beszélt nyelvvel összefüggésben, megkérdezném, hogy amikor a kiemelten oktatni tervezett európai nyelvekről van szó, számításba veszik-e a latint és az ögörögöt, amelyek európai nyelvek alapját képezik, és számos belőlük eredő szó használatos az összes európai nyelvben, függetlenül azok eredetétől?
+<P>
+E nyelvek fontossága okán, a Klasszicisták Európai Uniója, az Euroclassica már megfelelő szintű és elismertségű latin-oktatást alakított ki, és hasonló program készül az ógörögre vonatkozóan is. A klasszikus ókor e két kulcsnyelvének oktatása lehetőséget teremt az európai civilizáció alapjainak együttes elmélyítéséhez, és az európai polgárok közötti kapcsolatok szorosabbá tételéhez. Eközben e nyelvek ismeretének tanúsítása újabb szakképzettséggel gazdagítja a szakmai életet.
+<SPEAKER ID="297" NAME="Leonard Orban">
+a Bizottság tagja. - (RO) A Bizottság 2005-ben elfogadott, Európai Nyelvi Kompetenciamutató című közleménye részletes stratégiai megközelítést javasol a nyelvi ismereteket felmérő európai vizsgálatokhoz. Mindezt olyan eszköznek tekinti, amely lehetővé teszi a szükséges adatok összegyűjtését egy kapcsolódó európai mutató kialakításához, másrészt növeli ismereteinket az idegen nyelvek oktatásáról.
+<P>
+Ezzel összhangban, 2006 májusában, a Tanács - következtetések formájában - egész sor komoly felvetést tett az európai nyelvi kompetenciamutatóval kapcsolatban. Ami a vizsgálatba vont idegen nyelveket illeti, a Tanács úgy döntött, hogy az európai nyelvi kompetenciamutató tekintetében kizárólag az Unió hivatalos nyelvei jöhetnek szóba. Azaz, a projekt csak élő nyelvekre terjed ki. Következésképpen, a latin és ógörög nyelvek vizsgálata nem vetődött fel.
+<P>
+Gyakorlati megfontolásokból, a Tanács úgy határozott, hogy a nyelvismeretet felmérő európai vizsgálat első szakaszában a diákok nyelvi ismeretei kerülnek értékelésre, az első és második nyelvként leginkább tanult uniós idegen nyelvek, tehát az angol, francia, német, spanyol, és olasz nyelvvel kapcsolatban. Három területen kerül sor adatgyűjtésre: az olvasásra, hallásra és írásra vonatkozóan.
+<P>
+Ezzel együtt, a mérési eszközök valamennyi olyan ország rendelkezésére állnak majd, amelyek szeretnék elérni, hogy a jelzett öt nyelven túl más nyelvek is - nemzeti változatként - beépüljenek a vizsgálatba. A Bizottság azt is kezdeményezi majd, hogy a vizsgálat következő szakaszában az Európai Unióban tanult valamennyi hivatalos nyelv bekerüljön a felmérésbe.
+<SPEAKER ID="298" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Elnök úr! Látom, hogy az oktatás nem tartozik az ön hatáskörébe, amint a tájékoztatás, de - amit én írásban felvetettem - a klasszikus nyelvekkel összekapcsolható kulturális örökségek megőrzése sem.
+<P>
+Végül is, hatásköréhez tartozik-e vagy sem? Ez az első kérdésem. A második, az európai kutatási programba beilleszthető-e az e nyelvekkel összefüggő kutatás, vagy sem? Rendelkezik ön ismeretekkel e tárgyban?
+<SPEAKER ID="299" NAME="Leonard Orban">
+a Bizottság tagja. - (RO) A nekem szegezett kérdés az európai nyelvi kompetenciamutatóra vonatkozott. Amint válaszoltam, kizárólag az Európai Unió hivatalos nyelvei alkotják részét e programnak. Másrészt, az Európai Bizottság nem rendelkezik információkkal arra vonatkozóan, hogy a tagállamokban vagy a tagállamok bármely térségében kutatások és tanulmányok folynának-e az említett nyelvekkel összefüggésben.
+<SPEAKER ID="300" NAME="Manolis Mavrommatis" AFFILIATION="PPE-DE">
+(EL) Biztos úr, mint az európai nyelvi kompetenciamutató előadója, szeretnék rámutatni, hogy a mutatóval szembeni elvárás az, hogy - rendszeres időközönként - értékelje a tagállamok körében a modern nyelvek általános ismeretének szintjét.
+<P>
+Egyetértettünk abban, hogy a mutató kezdetben, az EU oktatási rendszerén belül, az öt legszélesebb körben beszélt nyelv ismeretét méri fel. Tehát, az angolét, franciáét, németét, spanyolét, olaszét.
+<P>
+Egyidejűleg, a Parlament felkérte a Bizottságot és a Tanácsot, hogy tegyenek határozott lépéseket a vizsgálatok mielőbbi, az Unió hivatalos nyelveinek szélesebb körére való kiterjesztése érdekében. Feltéve, hogy ez a lépés nem gyakorol kedvezőtlen hatást a modern nyelvek oktatására és fejlesztésére.
+<P>
+Meg tudja-e mondani, biztos úr, hogy meddig jutottunk, és ha lehetséges, milyen nyelvek épülnek a programba a következő szakaszban?
+<SPEAKER ID="301" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Biztos úr! Működik egy lengyel-német-cseh találkozási pont Haindorf, Észak-Csehország egykori kolostorában, ahol minden felirat és jel latinul van. Nem tartja ezt utánozhatónak az európai intézmények épületeiben?
+<P>
+Második javaslat: nem írhatunk-e egy latin szöveget az európai himnuszhoz, amelyet mindenki, egységesen énekelhetne, amelyet minden tagállam majd lefordíthatna saját nyelvére, miközben a közös szöveg latin maradna?
+<SPEAKER ID="302" NAME="Leonard Orban">
+a Bizottság tagja. - (RO) Az európai nyelvi kompetenciamutatót illetően, amint elmondtam, és önök helyesen értelmezték, az első szakaszban mindössze öt nyelv értékelésére kerül sor.
+<P>
+Jelenleg a menetrend a következő: idén kísérleti projektet indítunk, majd 2009-ben minden előkészületet megteszünk az értékelésre, hogy 2010-ben már világos képpel rendelkezzünk az öt érintett nyelvet illetően. Azt követően, amint beszédemben jeleztem, a Bizottság szeretné kiterjeszteni a mutató alkalmazását valamennyi hivatalos nyelvre. Ezzel együtt, még túl korai arról beszélni, hogy ez a kiszélesítés pontosan mikor mehet végbe. Természetesen, látnunk, és alaposan elemeznünk kell a kezdeti öt nyelvvel összefüggő felmérés eredményeit.
+<P>
+Másrészt, az ön által felvetett második kérdést illetően, az Európai Bizottság célja, hogy megvédje a nyelvi sokszínűséget is. Ebből a szempontból, minden lépése során, az Európai Bizottság igyekszik védelmezni mind a hivatalos, mind az Unión belül beszélt egyéb nyelveket. 23 hivatalos nyelvünk van, és 60-nál több regionális nyelv, kisebbségi nyelv, kevésbé használt nyelv. Ebből a szempontból, az általunk megtett intézkedések elsődleges célpontjai ezek, az általunk élőnek nevezett nyelvek.
+<P>
+Ami az európai himnuszt illeti, az álláspontok különböznek. Nem az Európai Bizottság feladata döntést hozni e kérdésben.
+<P>
+Tárgy: A nyelvi kisebbségek támogatása
+<P>
+Mely nyelvi kisebbségek kaptak támogatást a Bizottságtól 2007 folyamán, és milyen lehetőségeket lát a Bizottság arra vonatkozóan, hogy 2008-2009-ben nagyobb támogatásban részesüljenek a német-nyelvű kisebbségek.
+<SPEAKER ID="304" NAME="Leonard Orban">
+a Bizottság tagja - (RO) A 2007-es pályázatok során a kisebbségi nyelvekkel összefüggésben egy hálózat és három projekt került kiválasztásra az egész életen át tartó tanulás finanszírozása keretében.
+<P>
+2. sz. kulcstevékenység: idegen nyelvek. A hálózat, amelyet a Walesi Nyelvészeti Testület koordinált, a nyelvi különbségek erősítését célozta a következő nyelvekre kiterjedően: baszk, breton, katalán, korni, kelet-fríz, skót-kelta, észak-fríz, walesi, nyugat-fríz, szlovák, ladin, gallikán, friauli, szárd, észt, ír, lett, litván, máltai, finn és svéd.
+<P>
+A kevésbé széles körben beszélt nyelvekkel foglalkozó európai hivatal egyik partnerünk abban a 3-éves projektben. A projekt célja az alkalmazott jó gyakorlatok kicserélésének, új és innovatív elképzelések fejlesztésének bátorítása az oktatás és a nyelv-tervezés terén, a regionális, a kisebbségi, a bennszülött, a határokon-átívelő nyelvek, a kisebb nemzetek nyelvei, és a kevésbé széles körben beszélt nyelvek összefüggésrendszerében. A 2007-ben indított három, több-éves projekt olyan kisebbségi és világnyelvekre terjed ki, mint a katalán, a baszk, a szárd, a szicíliai, az ír, az orosz, az arab és a hindi.
+<P>
+A 2008-2010-es időszakra vonatkozóan elsőbbséget élveznek majd azok a projektek, amelyek a kevésbé széles körben beszélt európai nyelvekhez kötődnek. A 2007-2013-as egész életen át tartó tanulási program keretében minden nyelv jogosult támogatásra, s ez érinti a német-nyelvű kisebbségeket is.
+<SPEAKER ID="305" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Biztos úr, helyesen értem-e önt, hogy német-nyelvű kisebbségek 2013-ig nem juthatnak támogatáshoz? Bizonyára ez a helyzet. Pedig valóságos kisebbséget alkotnak a németek a Cseh Köztársaságban, a lengyelek Litvániában, a lengyelek a Cseh Köztársaságban, stb. Tehát, ha média- vagy kulturális vállalkozásba fognak, akkor semmiféle támogatásra nem számíthatnak? Vagy félreértettem önt?
+<SPEAKER ID="306" NAME="Leonard Orban">
+a Bizottság tagja. - (RO) Talán nem fogalmaztam teljesen egyértelműen. Természetesen nem azt mondtam, hogy bizonyos nyelvek, így a német nyelv is, csak 2013-at követően kaphatnak támogatást. Válaszom egyértelmű. Az egész életen át tartó tanulás program keretében valamennyi beszélt uniós nyelv, így természetesen a német is, valószínűsíthetően pénzügyi támogatásban részesül. Az egyetlen dolog, ami számít, a benyújtott projekt vagy projektek minősége. Tehát a kategorikus válaszom, hogy azok a nyelvek, amelyek támogathatók az egész életen át tartó tanulás keretében, akár a mostani, 2008-2013-as ciklus során is, finanszírozhatók. Megismétlem, még a mostani időszakban is.
+<P>
+Tárgy: Ritkábban használt európai nyelvek
+<P>
+Kijelentheti-e az Európai Bizottság, hogy olyan új programok beindítását tervezi a közeljövőben, amelyek a ritkábban használt európai nyelvek használatát ösztönzi? Nyilatkozhat-e az ilyen programok természetét, és az ilyen programoknak esetleg nyújtandó pénzügyi támogatás mértékét illetően?
+<P>
+A 45. sz. kérdés megválaszolása írásban történik.
+<SPEAKER ID="308" NAME="Leonard Orban">
+a Bizottság tagja. - (RO) A Bizottság a közeljövőben nem tervezi olyan konkrét, új program indítását, amelynek célja a kevésbé széles körben beszélt európai nyelvek használatának erősítése. A Bizottság 2007-2013-as új-generációs programjai, mint az egész életen át tartó tanulás programja is, a finanszírozási lehetőségek széles körét nyitja meg e nyelvek számára is. Valamennyi nyelv jogosult bekapcsolódni e programba.
+<P>
+A finanszírozás elérhető az egész életen át tartó tanulás mind a négy alprogramjában, a COMENIUS, az ERASMUS, a Grundvig, és a Leonardo da Vinci keretében. A finanszírozás ugyancsak biztosítható az egész életen át tartó tanulás program újra-formált, keresztirányú szegmensében is, és különösen annak - az idegen nyelvekre - alapozó kulcstevékenysége révén. Itt ugyanis tudatosan olyan projektek és hálózatok finanszírozása áll a középpontban, amelyek az idegen nyelvek tanulásának és a nyelvi változatosságnak ösztönzését célozzák.
+<P>
+A 2007-es pályázati felhívást követően egy hálózati és 3, ritkábban használatos nyelvekkel kapcsolatos projekt került kiválasztásra a 2. sz. kulcstevékenység keretében. A 2008-2010-es időszakban olyan programok élveznek prioritást, amelyek a kevésbé széles körben használt európai nyelvekhez kötődnek. 2008-ban, a 2. sz. kulcsaktivitásra fordítható költségkeret 9,9 millió eurót tesz ki, de figyelembe véve, hogy a nyelvvel kapcsolatos tevékenységek és projektek finanszírozása egy markánsabb folyamat részét alkotják, további források is elérhetők az egész életen át tartó tanulás programja keretében.
+<SPEAKER ID="309" NAME="Seán Ó Neachtain" AFFILIATION="UEN">
+(GA) Elnök úr! Szeretném megköszönni biztos úr válaszát. Elfogadja-e azonban nézetemet, hogy fontos, hogy a támogatást e ritkábban használt nyelvek saját feltételrendszereiken belül kapják meg, és az ne kötődjön túl erősen az egész életen át tartó tanuláshoz? Ezek a nyelvek sérülékenyek, és amennyiben nem jutnak megfelelő támogatáshoz, a jövőben még sebezhetőbbé válnak. Természetesen, a pénzügyi támogatás fontos, de a jelképes támogatás még fontosabb. Egyetért-e a biztos úr abban, hogy ezt is erősítenünk kell?
+<SPEAKER ID="310" NAME="Leonard Orban">
+a Bizottság tagja. - (RO) Csak azt ismételhetem, amit az előbbiekben elmondtam. Tehát, hogy az Európai Bizottság által a nyelvi sokszínűség támogatása keretében tett lépések révén nemcsak a 23 hivatalos nyelv jut támogatáshoz, hanem az összes, Európai Unión belül beszélt nyelv is. Így a regionális nyelvek, és a kevésbé széles körben használt nyelvek is. Továbbá, az általam közreadott adatokkal kimutattam, hogy ez a segítség kézzelfogható, fontos támogatás ezen nyelvek fejlesztése tekintetében.
+<SPEAKER ID="311" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+(GA) Elnök úr! Képviselőtársam, Seán Ó Neachtain úr tökéletesen beszél írül. Én azonban nem. Sajnálom.
+<P>
+Feltehetek egy kérdést önnek? Egyetértek válaszának kiindulási pontjával. A pénz fontos, de ennél is fontosabb az, hogy tudjuk, a nyelvek miként taníthatók hatékonyabban. Olyan országokban, mint Írország is, ahol az emberek, mint magam is, végtelenül szeretnék beszélni az adott nyelvet, de olyan rendszerben nevelődtek, amely ezt nem tette lehetővé, meg kell találnunk az útját-módját annak, hogy megtanítsák nekünk anyanyelvünket. Mert nagyon, de nagyon szeretnénk ezt.
+<SPEAKER ID="313" NAME="Leonard Orban">
+a Bizottság tagja. - (RO) Az Európai Bizottság 2008 második felében tervezi a többnyelvűséggel kapcsolatos új stratégiáját bemutatni. Ebben a stratégiában az oktatási elem nagyon fontos helyet foglal majd el. Az idegen nyelv összetétele és tanulásának módszere szintén nagyon fontos szerephez jut.
+<P>
+Ami az ír nyelvet illeti, szeretném tájékoztatni önöket, hogy a közelmúltban jártam Dublinban, és alkalmam volt az ír hatóságokkal megvitatni - akkor, majd azt követően is - e témát. Magam ragaszkodtam annak igényléséhez, hogy a lehető legszélesebb képzést nyújtsunk a képességeiket uniós szinten is, és nem csak tolmácsként, kamatoztatni képes emberek számára. Ez alapvető követelmény ahhoz, hogy a többi hivatalos nyelvvel teljesen azonos elbánást biztosítsunk az ír nyelvnek
+<SPEAKER ID="314" NAME="Evgeni Kirilov" AFFILIATION="PSE">
+Elnök úr! Nagyon, szerettem volna ma este megfelelő választ kapni a biztos úrtól. A mikrofont azért kéri az ember, hogy nyilatkozatokat tegyen és kérdéseket vessen fel. Van egy kérdésem, és szeretnék arra választ kapni. Ez ilyen egyszerű. Ma este csak az időt vesztegetjük némely nyilatkozattal. Megengedné, ebben az esetben, hogy a biztos úr nagyon gyorsan reagáljon? Azt követően egyetlen kérdést sem teszek fel.
+<SPEAKER ID="315" NAME="Elnök">
+Tisztelt képviselők! Amikor valaki szólásra jelentkezik, én nem tudhatom, hogy nyilatkozatokat tesz-e, vagy kérdéseket vet fel. Szellemi kapacitásaim ennek kitalálását még nem teszik lehetővé. Nem rendelkezem ilyen beleérző képességekkel. Amit kötelességem tenni az az, hogy a képviselőház szabályaival és szokásaival összhangban gazdálkodom az idővel. Sajnos, nincs módom most időt biztosítani önnek. Ez ugyanis sértené a többi, már szót kérő képviselőt. Rámutatnék, hogy ezen ülés keretében 70 kérdés érkezett a Bizottsághoz. Egyértelmű, hogy nincs lehetőség mind a 70 kérdés megválaszolására. Vannak szabályaink, és azokhoz ragaszkodnunk kell. Őszintén sajnálom, és megértem csalódottságát. Amennyiben az ön helyzetében volnék, amikor hasonló helyzetben vagyok, én is csalódottságot érzek. De nem adhatok önnek most választ. Biztos úr mindenesetre írásos választ ad majd önnek, így felelet kap kérdésére. Remélem, megérti ezt!
+<P>
+Tárgy: A Regionális Fejlesztési Alap és a kisebbségi csoportok
+<P>
+A 2007-2013-as időszakra vonatkozóan a strukturális alapok regionális fejlesztésre szánt forrásainak túlnyomó részéről már megállapodások születtek. Ennek fényében, miként biztosítja a Bizottság, hogy a források ne hátrányosan megkülönböztető módon kerüljenek felhasználásra, és miként garantálja, hogy az etnikai kisebbségek, mint a romák is, szintén részesedjenek az alapokból?
+<P>
+Közzé tesz-e majd a Bizottság egy összeállítást arról, hogy miként oszlik meg az alapok felhasználása, a különböző etnikai csoportok között?
+<SPEAKER ID="317" NAME="Danuta Hübner">
+a Bizottság tagja. - Elnök úr! Szeretném elmondani, hogy amikor a 2007-2013-as időszakra a kohéziós politikai programok új generációjának előkészítő munkálatait végeztük, a Bizottság - a tárgyalások során - ragaszkodott ahhoz hogy a roma kérdés, amely különösen fontos a tisztelt képviselő számára, épüljön be a tervezésbe, de magába a programba is. Be kell vallanom, hogy a tagállamok igen kedvezően reagáltak. A roma kérdés számos nemzeti stratégiai hivatkozási alapon végig húzódik, és közvetlen utalásokkal megjelenik az operatív programokban is. Ez különösen egyértelműen látható olyan országoknál, mint Magyarország, a Cseh Köztársaság, Szlovákia, Románia, Bulgária, Észtország, és Spanyolország, de a kérdés megjelenik Lengyelország, Szlovénia, Litvánia és Finnország esetében is.
+<P>
+A strukturális alapok kezelésének decentralizált volta következtében nem lehetséges, hogy a Bizottság egyértelműen beazonosítsa, hogy mely projektek célozzák meg, vagy majd a jövőben megcélozzák a roma kérdést, és mekkora összegek állnak majd rendelkezésre. Azonban, jelenlétünk - 2000 és 2006 között - a monitoring bizottságokban tisztán igazolta, hogy igen tekintélyes számú, nagyon érdekes és egymást kiegészítő program és projekt van, amelyek a romák beilleszkedését szolgálják. Nagyon sok ESZA és ERFA programunkban lelhetők fel, a társadalmilag sebezhető csoportokra való utalással, speciális teljesítési kifizetések, vagy - közvetett - roma beilleszkedési támogatások. Ilyen esetekre szolgáltat példát Észtország, Finnország és Lengyelország.
+<P>
+Az adatok közzétételét illetően azt kell mondanom, hogy a 2007-2013-as időszakra vonatkozóan a tagállamok, mint azt önök bizonyára tudják, már kötelezettek valamennyi program esetében a kedvezményezettek adatait publikálni. Ez a rendszer azonban nem terjed ki odáig, hogy egyértelműen beazonosítani lehessen a kedvezményezettek etnikai hátterét. Mindazonáltal, a számunkra megadott listák alapján, képesek leszünk meghatározni azokat a területeket, amelyeken az európai politika aktívan érvényesül.
+<P>
+Hadd fűzzem a fentiekhez, hogy a 2007-2013-as időszakra a Regionális Főigazgatóság egy, a Bizottság belső tevékenységéhez kapcsolódó romaügyi iránymutatást állított össze. Ezt, a programkészítési időszakban, az illetékes részlegek mindegyike használta. Működik a strukturális alapokhoz kapcsolódóan egy romaügyi szolgálatközi csoport is, amelyet a Regionális Főigazgatóság elnököl.
+<P>
+Engedjék azt is megjegyeznem, hogy számos tagállamban, és Magyarország jó példa erre, alakultak ki irányítási mechanizmusok, kifejezetten az új regionális politika érdekében. Magyarországon, például, roma származású tanácsadók hálózata segíti a roma pályázókat - a folyamat különböző fázisaiban - projektek előkészítésében. A Bizottság jelenleg dolgozik a teljes közösségi eszköztárra és politikára vonatkozó felülvizsgálati anyagán, amelyet 2008 júniusában kíván előterjeszteni. Ebben helye lesz a strukturális alapokat, és azoknak a roma beilleszkedésre való hatását érintő elemzésnek is.
+<SPEAKER ID="318" NAME="Claude Moraes" AFFILIATION="PSE">
+Köszönöm biztos asszony nagyon kimerítő válaszát. Szeretném önnek megköszönni azt a fáradozást is, amelyet a közelmúltban, választókerületemben, Londonban végzett, és amelynek eredményeként megoldotta a strukturális alapokkal kapcsolatos problémáinkat.
+<P>
+Továbbléphetünk-e együtt annak feltárásában, hogy az etnikai kisebbségekkel való foglalkozás megfelelő-e? Decemberben, az Európai Tanács külön is felkérte önt, és a Bizottságot, foglalkozzon behatóbban e témával. Gondolja-e, hogy - az előbb adott átfogó válaszában foglaltakon túl is - van még lehetőség annak megállapítására, hogy a romákat és más csoportokat megfelelően kezeljük-e, vagy esetleg a pénz máshová "szűrődik át”? Van-e önnek hatásköre, hogy alaposabban megvizsgálja ezt a kérdést?
+<SPEAKER ID="319" NAME="Danuta Hübner">
+a Bizottság tagja. - Ténylegesen Špidla biztos úr foglalkozik a Tanács megkeresésére adandó bizottsági válasz előkészítésével. Ugyanakkor, a szolgálatközi csoporton keresztül mindannyian érintettek vagyunk a folyamatban.
+<P>
+Amint mondtam, a végső kedvezményezettekről szóló jelentés alapján rendelkezésünk majd információval. Látjuk, hogy mi történik a romákkal, más kisebbségekkel. Nem rendelkezünk azonban, etnikailag elkülönült adatokkal a kedvezményezettek hátterét illetően. Viszont, miután az a környezet, amelyben egy projekt hatását kifejti, egyértelműen áttekinthető lesz számunkra, 2007-2013-ra vonatkozóan sokkal többet tudunk majd, mint most.
+<P>
+Hadd tegyem fentiekhez, hogy a Bizottság, amely megfigyelői minőségben jelen van a tagállamok programkezelő rendszerében működtetett bizottságokban, követi a folyamatokat, és aktívan közreműködik az etnikai kisebbségek számára fontos területekre irányuló források elosztásának értékelésében. Tehát, hozzájutunk különböző információkhoz. El kell azonban ismernem, hogy nem rendelkezünk olyan komplex eszközzel, amelynek révén teljes képpel bírnánk beavatkozásunk kiterjedéséről. Javunkra szól viszont, hogy nagyon is tudatában vagyunk a problémáknak, és minden lehetőséget megragadunk a célok eléréséhez.
+<P>
+Várjuk ki, mi történik. Dolgozunk a Tanácsnak szóló bizottsági dokumentumba építendő anyagunkon. Keressük, hol vannak fehér foltok, hol hiányoznak az információk, és milyen lépések megtétele szükséges.
+<SPEAKER ID="320" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Elnök úr, szeretném megkérdezni a biztos asszonytól, hogy az egyedül álló szülőkre épülő családok, és a sokgyermekes szegény családok, fogalmilag, a veszélyeztetett csoportba sorolódnak-e, esetleg kisebbségi csoportok, vagy nem? Továbbá, összekapcsolhatók-e kritériumok, és az ilyen jellegű csoportok támogatása fokozható-e?
+<SPEAKER ID="321" NAME="Danuta Hübner">
+a Bizottság tagja. - Mindössze azt jegyezném meg, hogy semmit sem zártunk ki. Az önök segítségével, végighaladtunk a szabályozás előkészítésének szakaszán. Érzékenyen fordultunk a sebezhető csoportok felé, és egyértelmű utalások történnek erre az általános ERFA-szabályozásban, például, az esélyegyenlőség politikában. Azaz, e kérdés számunkra prioritás.
+<P>
+Ott van még a jelentéstételi rendszer, amelyen keresztül nyomon követhetjük, hogy az esélyegyenlőségi politika miként valósul meg a kohéziós politikai programok új nemzedékének keretein belül. Hogy a tagállamok, a régiók milyen mértékben élnek ezzel az eszközzel, az attól is függ, hogy az alapok irányítási rendszerében résztvevő partnerek milyen súllyal bírnak e folyamatban. Itt közös erőfeszítések kellenek.
+<P>
+A Bizottság megteremtette az általános kereteket ahhoz, hogy egyetlen veszélyeztetett csoport se rekesztődjék ki. A keretek alkalmazása azonban nemcsak a Bizottságtól, hanem a tagállamoktól is függ. Határozottan bátorítok minden jelenlévőt, mozdítsa elő, hogy erre a kérdésre megfelelő figyelem forduljon!
+<P>
+A tagállamokban is most folyik a kiválasztási feltételek meghatározása. A Bizottság is résztvevője e folyamatnak. Ezzel együtt, a feltételek összeállítása a tagállamokon és a partnereken múlik, hiszen a monitoring bizottságokban az összes szociális partner is jelen van. Remélem, hogy minden érintett, a Bizottsággal együtt, a tagállamok figyelmébe ajánlja e kérdéseket, és a kiválasztási feltételek tartalmaznak majd olyan feltételeket is, amelyek lehetővé teszik programjainkban valamennyi sérülékeny csoport teljes körű képviseletét.
+<P>
+Tárgy: Az EU regionális finanszírozása Írország számára, 2007-2013 között
+<P>
+Elégedett-e a Bizottság a regionális kiegyensúlyozottság elvének érvényesülésével, a most jóváhagyott, 2007-2013-as időszakot érintő, írországi EU finanszírozás kapcsán? S nem aggasztja-e a Bizottságot, hogy az adatok szerint Írország két régiója nemhogy nem közeledik egymáshoz, de határvidéki, központi és nyugati, azaz a BMW régió még inkább leszakad a déli és keleti, azaz az S&E régióhoz képest, miközben utóbbiban koncentrálódnak a kormányzati kiadások?
+<SPEAKER ID="323" NAME="Danuta Hübner">
+a Bizottság tagja. - Ami Írországot, a 2007-2013-as megajánlásokat, és a két nagy térség közötti megosztást illeti, hadd jegyezzem meg, hogy a BMW régió, amely a második célkitűzéshez kapcsolható felzárkózó régió, az egy főre kivetített számítások szerint négyszer akkora támogatást kap, mint szomszédja, a köztársaság tehetősebb déli és keleti régiója.
+<P>
+Az Írországnak megajánlott 901 millió euróból 457 millió jut a BMW régiónak, és 293 millió a déli és keleti területeknek.
+<P>
+Rendelkezésre áll még együttműködési programokra 150 millió euró, amely lebontva megközelítőleg 400 euró/fős értéket jelent a BMW, és közel 95 eurót a déli és keleti térség esetében.
+<P>
+Hadd mondjam el, hogy a BMW-régió - az uniós strukturális alapok segítségével is - kiválóan teljesített az elmúlt programozási időszakban. A régió a 27-tagú EU átlag GDP-jét tekintve, 2004-re, egy főre számítva, 102,9%-ot ért el. El kell ismernem azonban, hogy a BMW-térség és szomszédja közötti jövedelmi különbségek továbbra is kihívást jelentenek. Reméljük azonban, hogy a 2007-2013-as, ESZA és ERFA keretekben megvalósuló programok révén a szakadék tovább szűkül.
+<SPEAKER ID="324" NAME="Jim Higgins" AFFILIATION="PPE-DE">
+(GA) Elnök úr! Szeretném megköszönni a biztos asszony válaszát. Szeretném azonban a figyelem középpontjába a kieső térségek számára kiemelkedően fontos főút tervet állítani. 2006-ban, 14 kiemelt út-projekt zárult le, de ezek egyike sem érintette a BMW-régiót. Ugyanazon évben, más útépítések is folytak, de azok közül csak egyik valósul meg nyugaton, a BMW térségben.
+<P>
+Még 2006-ban 11 útépítés kezdődött el, összesen 222 kilométeres hosszúságban. Nyugaton azonban csak kettő található ezek közül, 25 kilométert jelentve. Önnek igaza van, hogy a GDP-t vagy GVP-t vizsgálva a szakadék szélesedik, és valamit tenni kell.
+<SPEAKER ID="325" NAME="Danuta Hübner">
+a Bizottság tagja. - Nagyra értékelem megjegyzését. Szeretném megnyugtatni, hogy az elkövetkező években is ott leszünk a BMW-régióban. Amint tudja, 2007-2013-ra vonatkozóan jelentősen lecsökkent az Írországnak megajánlott juttatások összege, és ez nyilvánvalóan kihat arra, hogy mit tehetünk együtt az előttünk álló években.
+<P>
+Megemlíteném még, jó hír Írország számára, hogy érvényesül a két térség között, de a BMW-régión belül is, az Ír Nemzeti Térségfejlesztési , amely a gazdasági fejlettségben mutatkozó eltéréseket figyelembe vevő nemzeti program. Reméljük, hogy az európai, illetve az ír közreműködéssel kibontakozó együttes erőfeszítések révén a BMW térség gyorsabb növekedési ütemet ér majd el.
+<P>
+Engedjen meg egy személyes megjegyzést! Mindannyian tudjuk, hogy Írország az európai források kiváló felhasználójának bizonyult az évek során, és olyan bölcs stratégiát választott, amely az általános fejlettség terén - az egy főre jutó GDP-t tekintve - hatalmas előrelépést eredményezett. Az is közismert azonban, hogy a választás nem az infrastrukturális fejlesztésekre esett. Az infrastruktúra persze most kérdés, de itt mi nem igen segíthetünk. Ugyanis Írország már nem jogosult az 1. sz. célkitűzés programjaira, ahol infrastrukturális beruházások támogathatók. Írország, Spanyolországtól és Portugáliától igen jelentősen eltérő utat választott, de a választás megítélése nem rám tartozik.
+<P>
+Tárgy: Az írországi békefolyamat uniós támogatása
+<P>
+Közölné-e a Bizottság, hogy 2007-2013 között milyen strukturális alapból származó pénzügyi támogatás jut Észak-Írországnak, illetve 1994 óta milyen összegű támogatással segítette az Európai Bizottság az észak-ír békefolyamatot a strukturális alapokhoz kötődő és az Interreg határokon átnyúló programjai, továbbá az EU Béke Alap, valamint az Írországért Nemzetközi Alap, az IFI révén?
+<SPEAKER ID="327" NAME="Danuta Hübner">
+a Bizottság tagja. - E Képviselőházban mindenki tudja, hogy évek óta a Bizottság rendkívül markánsan jelen lévő partner az észak-írországi béke- és megbékülési folyamatokban.
+<P>
+A 2007-2013-as időszakot tekintve, összességében valamivel több mint 1,2 milliárd euró kerül beruházásra Észak-Írországban. Ennek forrása az Európai Szociális Alap és az Európai Regionális Fejlesztési Alap, de további 477 millió euró érkezik a Béke 3 programhoz. Elérhetők még az IFI és az Interreg 4 programok is, amelyek nemcsak Észak-Írországot, hanem az írországi határterületeket is érintik.
+<P>
+A múltba, az 1994-1999 és a 2000-2006-os időszakokra visszatekintve, hiszen a kérdés erre is vonatkozott, az EU több mint 2 milliárd eurót ruházott be az előbbi, és közel 1,8 milliárd eurót az utóbbi periódusban. Tehát a teljes, 1994-2013-as időszakot vizsgálva, közel 5 milliárd euró kerül befektetésre Észak-Írországban.
+<P>
+Ami szintén fontos ma az az, hogy az Európai Bizottság új munkacsoportja, új megközelítése, és elkötelezettsége segítségével a pénzügyi megajánlásokon is túlmutató előnyökre tehetünk szert. Nevezetesen, Észak-Írországnak az európai politikába való markánsabb bevonására gondolok. Ennek érdekében működünk együtt az észak-írországi végrehajtó hatalommal, és más partnerekkel.
+<SPEAKER ID="328" NAME="Seán Ó Neachtain">
+a kérdés beterjesztőjét helyettesítve.- (GA) Biztos asszony, az Észak-Írországot és a határ-régiót érintő békefolyamatnak nyújtott támogatás nagyon sikeres volt. Biztos asszony, megmondhatja-e, hogy ez a kezdeményezés továbbél-e a pénzügyi időszak 2013-as lezárulta után?
+<SPEAKER ID="329" NAME="Jim Higgins" AFFILIATION="PPE-DE">
+(GA) Elnök úr! Teljes mértékben egyetértek képviselőtársammal, Seán Ó Neachtainnal, és igen hálásak vagyunk az Európai Uniónak azért, hogy pénzügyileg kiállt Észak-Írország, és különösen annak határrégiója mellett. Csodálatos, hogy most béke van, és mindannyian szeretnénk köszönetet mondani az Európai Uniónak hozzájárulásáért. Az adatokat vizsgálva - és a közelmúltban összeállítottam egy írásos jelentést az Írországért Nemzetközi Alappal kapcsolatban - azt látjuk, hogy az Alapnak köszönhetően több mint 5 000 munkahely létesült. Ezzel együtt, teljes mértékben egyetértek a képviselőtársam, Seán Ó Neachtain által felvetett kérdéssel is.
+<SPEAKER ID="330" NAME="Danuta Hübner">
+a Bizottság tagja. - Hadd mondjam el, azon kérdésre vonatkozóan, hogy fenntartjuk-e jelenlétünket 2013 után is Észak-Írországban, hogy tudjuk, az IFI, amely nem olyan bizottsági program, amelyhez a Bizottság és a Tanács hozzájárul, 2010-ben lezárul. Emiatt nem tudhatjuk, hogy a nemzetközi közösség hajlandó-e kialakítani egy második szakaszt, megvalósítani a program második kiadását.
+<P>
+Az európai programokat illetően, Észak-Írország a 2. sz. célkitűzés alá tartozó program. Őszintén remélem, hogy fenntartjuk majd a 2. célkitűzést, mert nem hiszek egy olyan regionális politikában, amely kizárólag Európa egyik felére szorítkozik, és a másik felét magára hagyja. Ha nincs 2. sz. célkitűzés, nem lesz megmérettetés Észak-Írország számára.
+<P>
+Hiszem azonban azt is, hogy a határon átnyúló és transznacionális együttműködés, amelyekben Észak-Írország részt vesz - és különösen a "C” révén megvalósuló, új, határon átnyúló program formájában - ugyancsak nagyon fontos. Már csak azért is, mert meggyőződésünk, hogy ez az interregionális együttműködés - különösen annak határokon átnyúló kiterjesztésével - ugyancsak nagyon fontos abban a tekintetben, hogy Észak-Írországot közelebb hozza Európához, a más térségekkel való együttműködéshez, és így más tagállamokhoz is. A kérdés tehát nyitott. A Bizottság azonban, egyértelműen síkra száll amellett, hogy ez a jelenlét folytatódjék.
+<SPEAKER ID="331" NAME="Elnök">
+
+<P>
+Tárgy: Európai strukturális finanszírozás
+<P>
+Tudatában van-e a Bizottság annak, hogy az új skóciai működési irányelvek értelmében a projekteknek minimálisan 200 000 font értékű költségvetéssel kell rendelkezniük, hogy az európai strukturális alapokra pályázhassanak? Elfogadja-e a Bizottság, hogy ez tisztességtelen módon diszkriminálja a kisebb, de még értékes projekteket?
+<P>
+Az 50-54. kérdések írásban kerülnek megválaszolásra.
+<SPEAKER ID="332" NAME="Danuta Hübner">
+a Bizottság tagja. - A Bizottság tudatában van annak a küszöbértéknek, amelyet a skót hatóságok meghatároztak. Ki kell hangsúlyoznom, hogy a skót hatóságok a küszöbérték bevezetésével kapcsolatban folytatott tárgyalások során mindvégig nyitottak voltak. A hatóságok nemcsak a Bizottsággal szemben tanúsítottak nyíltságot, átláthatóságot, hanem Skócián belül, az összes skóciai érintettel és partnerrel folytatott konzultációk folyamán is.
+<P>
+Szeretném kiemelni, hogy van egy kristálytiszta értelmezés, miszerint a bevezetett küszöb nem zárja ki a kis projekteket, hanem csak bátorítja azok pályázóit, hogy tematikus vagy regionális vonalak mentén csoportosulva érjék el a kívánt értékhatárt. A skót hatóságok kötelezték magukat annak biztosítására, hogy a kisebb pályázókat is támogatják, illetve a küszöbhatárnál kisebb értékű projektek benyújtói bármikor jelentkezhetnek a középszintű közigazgatási testületnél, amely - amikor lehetséges - kapcsolatot teremt köztük annak érdekében, hogy markánsabb stratégiai tervek születhessenek.
+<P>
+A cél az, hogy minimalizálni lehessen a kis projektek finanszírozásának pénzügyi és könyvvizsgálói kockázatát. Ugyancsak cél a kisebb projektek közötti kapcsolódások erősítése, és így azoknak egy átfogóbb stratégiai keretbe való beillesztése, továbbá a kisebb vállalkozások számára gyakran akadályként jelentkező adminisztratív költségek mérséklése is. Tehát az elképzelés jó szándékú, és létrehozásra került egy olyan mechanizmus is, amely segíti a kis projektek nagyobb csomaggá való összeállítását, amely majd ezután finanszírozásra pályázhat.
+<SPEAKER ID="333" NAME="David Martin" AFFILIATION="PSE">
+Nagyon röviden, biztos asszony, mert látom, kifutunk az időből. Amennyiben a skót hatóságok felkeresnék önt, és egy alacsonyabb küszöböt javasolnának, lehetséges volna-e ez, illetve jó szándékúan közeledne-e ehhez a kéréshez?
+<SPEAKER ID="334" NAME="Danuta Hübner">
+a Bizottság tagja. - Egyértelműen, igen. Válaszom határozott igen volna.
+<P>
+Tárgy: Szabályozó hatóság létrehozása az európai hírközlési szektorban
+<P>
+A Bizottság számos javaslatot készített az elkövetkezőkben megreformálni tervezett hírközlési keretszabályozással kapcsolatban, beleértve az európai hírközlési szabályozó hatóság létrehozásának kérdését is. A hatóság funkciói közé illeszkednek a ma még az Európai Szabályozók Csoportja (ERG) által betöltöttek is, továbbá a nemzeti szabályozó hatóságok összehangolása.
+<P>
+Ismeri-e a Bizottság az EU nemzeti szabályozó hatóságai egészének reagálását a javasolt közösségi hatóság jogkörével és felelősségével kapcsolatban? Hol húzódnak majd meg az elválasztó határok a nemzeti szabályozó hatóságok és az új európai hatóság hatásterületei között?
+<SPEAKER ID="336" NAME="Viviane Reding">
+a Bizottság tagja. - A tiszteletreméltó képviselő úr arra a bizottsági javaslatra utal, amely az európai elektronikus hírközlési piacfelügyeleti hatóság létrehozását célozza. Úgy véljük, hogy szükség volna egy elkülönült testületre, amely független a Bizottságtól, beszámolási kötelezettséggel tartozik az Európai Parlament felé, és amely segíthetné a Bizottságot a szabályozásban még mindig jelenlévő ellentmondásokból eredő, az európai piac széttöredezettségét eredményező problémák kezelésében.
+<P>
+Folyamatosan kapcsolatban állok a nemzeti szabályozó hatóságokkal, figyelembe veszem a javasolt hatóság jogkörére és felelősségére vonatkozó nézeteiket.
+<P>
+Az Európai Szabályozók Csoportját illetően - amely síkra szállt saját modelljének erősítése mellett az Európa egészén érvényesített szabályok minőségének, szakmai tartalmának, és összehangolásának érdekében - hadd idézzem magát az ERG-t! "Amennyiben Európa vezető szerepre törekszik a világgazdaságban, 27 tagállamának szorosan együtt kell működnie, hogy gazdálkodóik teljes mértékben kihasználhassák az európai piacból fakadó előnyöket.” Amiből következik, hogy ez ma nem így van, és hogy e kérdésre választ kell találnunk a jövőre vonatkozóan.
+<P>
+A felülvizsgálati anyagban foglalt javaslatokat kiegészítő hatásvizsgálat azt állítja, hogy az európai hatóság növelné a döntéshozatal hatékonyságát, különösen a határon átnyúló projektekkel kapcsolatos döntéseknél. Szükségünk van erre a belső piac felépítéséhez!
+<P>
+Mi, mint Bizottság, arra a következtetésre jutottunk, hogy valóban szükséges egy elkülönült testület, a Közösség már létező intézményi infrastruktúráján belül. Mert ugyanis az ERG ma e struktúrán kívül helyezkedik el. A lényegében nem más, mint egy magánszervezet. Miután megkapnák az ERG bizonyos funkcióit, és beékelődnének a közösségi jogi alapokba, az intézményi struktúrán belül megerősödne a nemzeti szabályozó hatóságok jogköre.
+<P>
+A hatáskörök megosztásának kérdését illetően, a hatóság olyan kérdések terén segítené a Bizottságot, amelyek érintik a belső piacot, önmagában határokon átnyúló jelleggel bírnak, és - természetesen - a nemzeti szabályozók tapasztalatát és napi szabályozó tevékenységét igényelnék. Ez a rendszer, a 27 nemzeti szabályozó tapasztalatára, valamint az Európai Hálózat- és Információbiztonsági Ügynökségnél felhalmozódott tapasztalatokra támaszkodva törekszik az uniós szabályok összhangját és koherenciáját megteremteni, a döntéshozatali folyamatok, és a hálózati valamint információbiztonság magas szintjének és hatékony működésének elérését előmozdítani.
+<SPEAKER ID="337" NAME="Georgios Papastamkos" AFFILIATION="PPE-DE">
+(EL) Biztos asszony! Amennyiben egy európai polgárt egy közigazgatási aktus érint, akkor jogos érdekei védelmében az intézményi háromszög melyik csúcsához közeledjék? A nemzeti szabályozó hatóságokhoz, a most születőben lévő európai hírközlési piaci hatósághoz, vagy a Bizottsághoz?
+<P>
+A jelenleg megszületőben lévő hatóság döntése érvényesíthető lesz-e? A Bizottság felvállalja-e a pótlólagos költségeket, amelyek a jogszabályi keretek javasolt felülvizsgálatából származnak, különös tekintettel az újabb és korábbi tagállamok hírközlési struktúráiban megmutatkozó aszimmetrikus fejlődésre.
+<SPEAKER ID="338" NAME="Viviane Reding">
+a Bizottság tagja. - valamennyi polgárunknak joga van panaszt emelni, ha valami nem megy jól. Ha én egy átlagpolgár volnék, az első hely, ahol panaszt tennék, az az Európai Parlament Petíciós Bizottsága volna, hiszen ez az a hely, ahol a Parlament hangja hallatszik. A második járható út, az átláthatóság elvének alkalmazása, amely valamennyi szabályunk igen fontos eleme.
+<P>
+A Bizottság megpróbálja ezt az átláthatóságot helyre tenni. Emlékezhetnek arra, például, a hívásokért fizetett barangolási díjak, a voice roaming ügyében, hogy a polgárok semmiféle tájékoztatást nem kaptak arról, hogy hol találnak tájékoztatást az árszerkezetre vonatkozóan, egészen addig, amíg a Bizottság maga nem hozott létre egy weboldalt és adta közre az információkat. Ez volt az első alkalom, hogy az átláthatóság így működött.
+<P>
+Az új reformok során szintén az átláthatóságot tekintjük a szabálynak, és nem a kivételnek. Nemcsak az árakra vonatkozóan, hanem például, a biztonság, a magántitok megsértése esetén is. Ilyen esetekben a szolgáltatókat kötelezettség terheli, hogy tájékoztassák a fogyasztót. Ezzel együtt, a polgároknak továbbra is lehetőségük lesz panaszt emelni a szokványos módon, mint a korábbi hírközlési szabályozás alatt.
+<P>
+Tárgy: Nagysebességű internet hozzáférés a tagállamok minden polgára számára
+<P>
+2007. november 13-án a Bizottság javaslatot fogadott el az elektronikus hírközlés keretszabályozásának reformjáról. Meg tudja-e mondani a Bizottság, hogy kíván-e, és ha igen, milyen formában, gyors és hatékony lépéseket tenni a tagállamok felé annak érdekében, hogy a nagysebességű internet elérhető legyen minden polgár számára, tekintve, hogy az árakban megmutatkozó éles különbségek következtében ma nem ez a helyzet?
+<P>
+Továbbá, miként biztosíthatja a Bizottság, hogy valódi verseny érvényesüljön, illetve a piac megnyitását akadályozó, verseny-ellenes gyakorlatok büntetésben részesüljön?
+<SPEAKER ID="340" NAME="Viviane Reding">
+a Bizottság tagja - A nagysebességű internet a jövő internetje, és nem szeretnénk, ha az csak kevesek számára volna elérhető. Ezért is, a lisszaboni stratégia egyik legfőbb követelménye a nyitott és versenyen alapuló piacon belüli, mindenki számára elérhető információs társadalom. Szabályozó eszközeink ma, de már a reformokat megelőzően is - az általános versenyszabályok által is alátámasztottan - beengedték a szavad versenyt a hírközlési területre. Ez a piacokon végtelenül nyitottá tette a versenyt, amely viszont a szélessávú hozzáférési hálózatok megszaporodását eredményezte.
+<P>
+Attól félek, hogy ez csak egyes országokban működik jól. Ott, ahol a verseny érvényesül, ahol az elterjedtségi arány a 37, vagy akár 40%-ot is elér. Másutt viszont ez az az elterjedtségi arány igen alacsony. Szeretnék felszámolni ezeket az eltéréseket. Szeretném a legalsó kategóriához tartozókat feljebb húzni a létrán. Ezért javasolta a Bizottság, a reform keretében, hogy kapjon felhatalmazást a nemzeti szabályozó hatóságok által alkalmazott módszerek áttekintésére, annak lehetőségét sem zárva ki, hogy a nemzeti szabályozó hatóságok révén - amennyiben azt szükségesnek ítélik a piacok megnyitása érdekében - kikényszerítsék a funkcionális elhatárolást is.
+<P>
+Párhuzamosan, a Bizottság a versenyellenes magatartással szembeni fellépést prioritásnak tekinti. Például, 2003-ban büntetést szabtunk ki a France Télécomra és a Deutsche Telekomra, mert piac-sértő magatartást tanúsítottak a szélessávú piacon. Vagy, éppen a közelmúltban, 2007. július 4-én, a Bizottság megbüntette a Telefónicat, mert visszaélve meghatározó piaci helyzetével egyoldalúan játszott az árrés szabályozásával a spanyol szélessávú piacon.
+<P>
+Szeretném azt is elmondani, hogy 2006 márciusában közleményt tettünk közzé a szélessávú piacon tapasztalható szakadékok áthidalását szorgalmazva. Hiszem, hogy szükségünk van a mindenki számára elérhető szélessávra. Amint, szükségünk van nemzeti szélessávú stratégiára, amely a regionális és helyi szükségleteket tükrözi.
+<P>
+Az átláthatóságra utaló kérdésre térve, a Bizottság a közeljövőben, 2008 május-júniusi beüzemeléssel nyitja meg weboldalát, a szélessávú internet és a polgárok kérdése tárgyában.
+<P>
+Végül, de nem utolsó sorban, a Bizottság támogatja a kormányzati, így többek között uniós alapok, a strukturális alapok felhasználását is a szélessávú internet elterjesztésére, oda, ahol a kereskedelmi célú telepítés nem megfelelő. Számos ilyen projekt valósult már meg.
+<P>
+Ugyancsak támogatjuk - a regionális politikán keresztül - az információs társaságok fejlesztését. Nem-hivatalos becslések szerint az itt eszközölt beruházások értéke 15 milliárd eurót tesz ki, amely a 2007-2013-as időszak teljes kiadásainak 4,4%-a. Ebből, várhatóan, 2,2 milliárd fordítódik a szélessávú infrastruktúra kiépítésére. Reméljük, hogy a közös erőfeszítésekkel az elterjedtségi adatok alapján - amelyek szerint egyébként ma négy világelsőt számlálunk a szélessávú elterjedtségben - még több országot a világ, de Európa élvonalába is emelünk.
+<SPEAKER ID="341" NAME="Giovanna Corda" AFFILIATION="PSE">
+(FR) Biztos asszony, önöknek a maximális árakat kellett meghatározniuk a roaming esetében, és múlt héten azt közölte, hogy rákényszerülhet hasonlóra az emailezés terén is.
+<P>
+Nem kényszerül-e a közeljövőben arra is, hogy európai szinten ellenőrizze az internet hozzáférési díjait is?
+<P>
+Tudok arról, hogy egyes országok a harmonizáció gondolatával foglalkoznak, amely a szolgáltatók számának csökkenésével járhat. Jelentheti-e azt, hogy az árak mérséklődnek? Kétlem, ha nem haragszik.
+<SPEAKER ID="342" NAME="Viviane Reding">
+a Bizottság tagja. - (FR) Elnök úr! Corda asszony kérdésére válaszolva szeretnék rámutatni arra, hogy nem egykönnyen avatkozunk be a piaci árakba. Mi rendszerint a piacra hagyjuk, hogy megoldjon ilyen problémákat. Amennyiben, azonban, a piac képtelen erre, akkor a politikusoknak gondolni kell kötelezettségeikre. Ez történt a voice-roaming esetében, és ez az, amit nem szeretnék megtenni az SMS és az adat roaming esetében.
+<P>
+Ezért történt, hogy - a voice roaming rendelet értelmében reám háruló, egyébként éppen a Parlament felkérése által keletkezett kötelezettség alapján 2008-ban esedékessé vált helyzetértékelés előterjesztésével - az ipart csak enyhe figyelmeztetésben részesítettem. Igaz, valóban egyértelmű szavakba foglaltam, hogy amennyiben az ipar nem mérsékli maga az árakat, akkor a szabályozók, köztük az Európai Parlament is, lépni kényszerül. A piacnak azonban először kell adnunk egy esélyt, és csak, ha a piac nem orvosolja a problémát, akkor szabad a politikusoknak közbelépniük.
+<P>
+Mi történik a szélessávú piaccal? Nem tudom. Amit per pillanat tudok, az az, hogy itt Európában négy ország vezet a piaci elterjedtség terén, utcahosszal megelőzve Japánt, Dél-Koreát, és mérföldekkel az USA előtt. Amit látunk, hogy ezek versenyképes piacok. Piacok, ahol több ajánlat fekszik az asztalon, és a fogyasztó teljesen szabadon választ a számára legmegfelelőbb szolgáltatás között.
+<P>
+Ez az, ahogy a piacnak működnie kell. Csak amikor a piac nem működik, akkor kell nekünk szabályozni. Ez az, amit a nemzeti szabályozók tesznek. Annak érdekében, hogy még hatékonyabban és gyakorlatiasabban működhessünk közre az egységes piac magasabb szintre emelésében - és ez Európa egyik aduja a globalizált világban - azt javaslom, hogy reformáljuk meg a hírközlési piacokat szabályozó törvényt. Ezt javaslom annak érdekében, hogy a fogyasztónak valóban választási lehetősége legyen. A Parlament éppen most foglalkozik előterjesztésemmel.
+<P>
+Jelenleg túl sok ember van - és nemcsak egyének, de KKV-k is - amelyeknek nincs szélessávú összeköttetése. Ez azt jelenti, hogy a későbbiekben nem élhetnek - a szélessáv nyújtotta lehetőségen keresztül - a szociális fejlődés lehetőségével. Ez elfogadhatatlan. Ezért is, a mindenki számára elérhető szélessávú hozzáférést politikai célként kell kezelni. Elérhető e cél, ha oly módon sikerül megreformálnunk a hírközlési piacot, hogy az valóságos versenyt indukál a szolgáltatók között, és ezzel szolgáltatási választékot is nyújt a polgárok számára.
+<P>
+Tárgy: Az internet biztonsága
+<P>
+Miközben az információs- és hírközlési technológia fejlődése továbbra is kiemelkedően hasznos, drámaian megnőtt annak kockázata, hogy a gyerekek számukra nem megfelelő vagy illegális anyagokba ütköznek. Az EU 2005-ben elfogadta a Biztonságosabb Internet Plusz programot, hogy felvegye a küzdelmet - a különösen a gyermekek számára - alkalmatlan és nem kívánatos tartalmakkal szemben.
+<P>
+Ad-e a Bizottság tájékoztatást arról, hogy milyen eredmények születtek eddig e fontos politikai területen, és specifikusan arról, hogy milyen eredményekkel támasztható alá az internet biztonságának javulása a tagállamokban?
+<SPEAKER ID="344" NAME="Viviane Reding">
+a Bizottság tagja. - Elnök úr! Ez a téma nagyon közel áll szívemhez, hiszen a gyerekekről, az ő biztonságukról van szó. Úgy gondolom, hogy az új technológia csodálatos haszonnal járhat a gyerekek számára, de veszélyei is vannak, amelyek ellen küzdenünk kell.
+<P>
+Ezért hoztunk létre két kiterjedt európai hálózatot: a forródrótok INHOPE hálózatátát, ahol a polgárok bejelentést tehetnek az illegális tartalmak esetén, valamint a tudat-ébresztő INSAFE-hálózatot, amely az on-line technológiák biztonságosabb használatáról terjeszt ismereteket, főként a gyermekek, szülők, iskolák, döntéshozók, és a média körében. Mindennek szervezése a Biztonságosabb Internet Program keretében történik. Ez egy páratlan össz-európai kezdeményezés.
+<P>
+INHOPE-forródrótok működnek 24 európai országban, és a hálózat nemzetközi leágazással bír Ázsiában és az Egyesült Államokban. A gyermek kárára elkövetett esetekről szóló, a hálózat által feldolgott és a bűnüldöző szerveknek átadott jelentések száma az elmúlt években 15%-kal emelekedett. Tehát meggyőződhettünk e forródrótok jelentőségéről.
+<P>
+A második az INSAFE-hálózat, amely 23 európai ország tudat-ébresztő központjának tevékenységét koordinálja. Ez a hálózat szervezi évente a Biztonságosabb Internet Napját, amelyre idén február 12-én került sor. Pán-európai Ifjúsági Fórumot szerveztünk, ahol a Parlament néhány tagja és az ipar képviselői osztották meg, közvetlen formában, tapasztalataikat a szociális hálózatok építéséről és a mobiltelefon használatával kapcsolatban.
+<P>
+Az "EU-gyerekek online” (EU Kids Online) hálózat 21 ország, gyerekek biztonságos online tevékenységével foglalkozó kutatóinak munkáját hangolja össze. A hálózat évente a Biztonságosabb Internet Fórum keretében köt össze NGO-kat, ipari kutatókat és politikacsinálókat, és teszi lehetővé az illegális tartalom elleni hatékony küzdelem, a Web 2.0, és más hasonló témák megvitatását. A program bátorítja a magánszektor bekapcsolódását is. A Biztonságosabb Internet Plusz 2008 decemberében véget ér. Így a Parlamentnek nagyon gyorsan lehetősége lesz megismerkedni a program értékelésével, a 2009-2013-as kitekintéssel. Biztos vagyok abban, hogy a Parlament aktív szerepet vállal majd ebben a döntéshozatali folyamatban.
+<P>
+Eddig jó eredményeket értünk el, és tovább fokozhatjuk tevékenységünket. Ezzel együtt, a probléma nem zsugorodik, hanem folyamatosan növekszik. A programoknak tehát folytatódniuk kell.
+<SPEAKER ID="345" NAME="Gay Mitchell" AFFILIATION="PPE-DE">
+Biztos asszony! Köszönöm válaszát. Miután a probléma növekszik, és további felerősödése várható, meg tudja erősíteni, hogy önök javasolják a költségvetési tétel növelését? Az elmúlt öt év költségvetése 45 millió euró volt.
+<P>
+Tudja-e, hogy egy 2003-as felmérés szerint a gyerekek 40%-a szerint az általuk csak online megismert személyek személyes találkozót is kértek. 2006-ban a gyerekek 22%-a ténylegesen találkozott is az új ismerőssel. 51%-uk sohasem beszélt erről szüleinek vagy tanárainak. Ebben a tekintetben milyen célokat tűzött önmaga elé? Milyen intézkedésekkel tervezi a célokat elérni, és milyen haladásról tehet említést, ha legközelebb beszámol a Parlamentnek a program felülvizsgálata és 2013-ig tartó végrehajtása kapcsán? Határozottan támogatom ezt a programot, és sürgetem önt, biztos asszony, teremtsen elő minden forrást, amely a program teljesítéséhez szükséges..
+<SPEAKER ID="346" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+Köszönöm válaszát biztos asszony, Megkérdezhetem, hogy a Bizottság milyen lépéseket tervez a szülőkkel való intenzívebb foglalkozás érdekében? Ez a valós probléma! A gyerekek, sajnálatos módon, fényévekkel előttünk járnak e téren. Engem megriaszt, hogy a program 2008-ban véget ér, és tudom, hogy nem mindenki van ennek tudatában, még ha sokan tudják is. Remélem, hogy ezt is figyelembe veszi a kérdés felvetésekor, és úgy gondolom, hogy proaktív módon többet kell tennie, a probléma tudatosulását elősegítendő.
+<SPEAKER ID="347" NAME="Viviane Reding">
+a Bizottság tagja. - Teljes mértékben egyetértek a tisztelt képviselőkkel. Ez valóban súlyos probléma. Hiszen páratlan módon, most először a gyerekek többet tudnak, mint szüleik. Ez nem rossz dolog, de gondot okoz a szülőknek, miként segítsék gyerekeiket e probléma leküzdésében. Megállva egy pillanatra, ez a kérdés nemcsak a szülőket, hanem a nagyszülőket is érinti, hiszen gyakran a nagyszülők azok, akik az unokák számára az első mobiltelefont veszik, hogy kapcsolatot tarthassanak egymással. És, persze, érinti a pedagógusokat is.
+<P>
+Ezért is nemcsak a program kiterjesztését szorgalmazom majd, megnövelt, 55 millió eurós költségvetéssel, amelyet - remélem - a Parlament segít megemelni, de együtt kívánok működni civil szervezetekkel is, mint amilyen a SchoolNet is. A SchoolNet program számos európai iskolánkban fellelhető, és foglalkozik e kérdéssel, annak a gyerekekben való tudatosítása érdekében, hogy nem mindenki, akivel kapcsolatba kerülnek olyan ember, akivel valóban kapcsolatba is kellene kerülniük. Ugyancsak információt szolgáltat e program a forródróton, valamint a Biztonságosabb Internet Program közbeiktatásával, illetve kapcsolatot teremt olyan központokkal , amelyek segíthetnek a szülőknek megérteni, hogy miről is van szó. Nagyon gyakran, a szülőknek fogalmuk sincs arról, hogy milyen előnyökkel és hátrányokkal járnak az új technológiák.
+<P>
+Én vagyok az új technológiákért felelős személy, és őszintén hiszem, hogy az új technológiákkal összekapcsolható események többsége pozitív tartalmú. Nem szeretném, ha bizonyos kedvezőtlen fejlemények miatt az ifjabb nemzedéket teljesen elzárnánk az új technológiától. Ezért is hiszek, mély meggyőződéssel, a piac önszabályozó képességében.
+<P>
+Egy évvel ezelőtt felkértem a mobilszolgáltatókat, hogy a mobiltelefonok harmadik nemzedékénél biztosítsák azt, az internetnél megtapasztalt problémák nem jelennek meg közvetlenül a mobiltelefonokon. Nagyon örülök, hogy idén a mobiltelefon-ipar igen konkrét javaslatokat terjesztett elő a szülők és gyermekek tájékoztatására a jelentkező problémákról, valamint a gyermekek számára veszélyes programok blokkolásáról a harmadgenerációs mobiltelefonoknál.
+<P>
+Tehát van előrelépés. Azt gondolom, talán az európai választások igen kedvező alkalmat teremtenek az Európai Parlament számára, hogy a polgárok figyelme ráirányuljon a megtett intézkedésekre. Ezek konkrét programok. Igazuk van, nem mindenki tud azokról. Miért is ne élnénk akkor azzal a kiváló lehetőséggel, amelyet a polgárok széles tömegét megmozgató parlamenti választási kampány biztosít annak elmagyarázására, hogy milyen konkrét lépésekkel is szolgálja az Európai Közösség a társadalmat?
+<SPEAKER ID="348" NAME="Elnök">
+Az idő hiányában megválaszolatlanul maradt kérdések írásban kerülnek megválaszolásra (lásd a mellékletet).
+<P>
+Ezzel a kérdések órája véget ér.

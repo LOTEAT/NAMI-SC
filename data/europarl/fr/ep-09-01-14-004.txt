@@ -1,0 +1,8 @@
+<CHAPTER ID="004">
+Heure des votes
+<SPEAKER ID="097" NAME="Le Président">
+L'ordre du jour appelle le vote.
+<P>
+Je voudrais informer l'Assemblée que, au cours du vote, à la demande expresse de l'association des journalistes parlementaires, pour chaque série de résultats, nous devons également expressément indiquer le nombre de voix pour et contre et le nombre d'abstentions. Nous aurions voulu simplifier les choses pour vous, mais ce n'est pas possible.
+<P>
+(Pour les résultats détaillés du vote: voir procès-verbal)

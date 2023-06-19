@@ -1,0 +1,639 @@
+<CHAPTER ID=1>
+Aprovação da acta
+<SPEAKER ID=1 NAME="Presidente">
+A acta da sessão de ontem já foi distribuída.
+<P>
+Há alguma observação?
+
+<SPEAKER ID=2 LANGUAGE="NL" NAME="Wijsenbeek">
+Senhor Presidente, com respeito ao ponto 4 da acta da sessão de ontem e ao artigo 24º do Regimento, sobre as funções da Conferência dos Presidentes, gostaria de dizer que o nº 5 desse artigo diz que cabe à mesma elaborar o projecto de ordem do dia dos períodos de sessões do Parlamento, ou seja, que cabe à Conferência dos Presidentes definir quais os relatórios que serão inscritos na ordem do dia em cada semana, e não que os presidentes dos grupos parlamentares podem decidir se um determinado relatório é agradável ou não. Ora, tenho a sensação de que isso acontece, designadamente em relação ao meu relatório sobre a sessão plenária, que já foi tratado esta semana, e sobretudo também em relação ao seu próprio relatório, em matéria de sistema eleitoral. Pergunto-me por isso, realmente, se Conferência dos Presidentes não estará assim a violar, clara e grosseiramente, o nosso Regimento.
+
+<SPEAKER ID=3 NAME="Presidente">
+Senhor Deputado Wijsenbeek, também o senhor é presidente em exercício, presidente da Comissão do Regimento, da Verificação de Poderes e das Imunidades, há já bastante tempo, e é daqueles colegas, como muitos outros que se encontram nesta sala, que têm uma experiência parlamentar muito grande. O senhor sabe, como todos nós, e não reivindico nenhum privilégio nesse conhecimento, que também a Conferência dos Presidentes, em última análise, é controlada pela assembleia, e quando há casos de alterações à ordem do dia, a última palavra pertence sempre ao plenário, o qual decide por votação. Por conseguinte, não se preocupe, pois não existe um órgão da assembleia eleita que não seja controlado por ela.
+
+<SPEAKER ID=4 LANGUAGE="FR" NAME="Herman">
+Senhor Presidente, trata-se do texto relativo a um relatório Randzio-Plath.
+<P>
+Foi aprovado ontem que as palavras "controlo democrático» seriam substituídas por "responsabilidade democrática». Foi o que se fez num dos títulos, mas não no texto, em todos os seus números. Assinalo, nomeadamente que no nº 8, continua a constar "controlo democrático». Será necessário, doravante, substituir sempre as palavras "controlo democrático» por "responsabilidade democrática». Foi esse o resultado da votação de ontem.
+
+<SPEAKER ID=5 NAME="Presidente">
+Tomo nota, Senhor Deputado Herman, e verificaremos a totalidade dos textos para garantir que assim seja.
+
+<SPEAKER ID=6 LANGUAGE="NL" NAME="Martens">
+Ao olhar para a lista de presenças, verifiquei que o meu nome não constava, sendo possível que me tenha esquecido de assinar, mas o certo é que ontem tomei parte em todas as votações.
+
+<SPEAKER ID=7 NAME="Presidente">
+Senhor Deputado Martens, pode ter-se esquecido de assinar, mas somos muitos os que aqui estamos e que podemos confirmar a sua presença permanente nesta sala, presença essa que, julgo eu, muito o honra.
+
+<SPEAKER ID=8 LANGUAGE="EN" NAME="Corbett">
+Senhor Presidente, acaba de responder ao senhor deputado Wijsenbeek, afirmando que ele foi presidente da Comissão do Regimento, da Verificação de Poderes e das Imunidades. Permita-me informá-lo de que o meu colega, o senhor deputado Fayot, é o presidente da Comissão do Regimento.
+
+<SPEAKER ID=9 NAME="Presidente">
+Senhor Deputado Corbett, o senhor deve ter em conta que o senhor deputado Wijsenbeek presidiu durante muito tempo à Comissão do Regimento, da Verificação de Poderes e das Imunidades e é um dos colegas que melhor conhecem os regulamentos.
+
+<SPEAKER ID=10 LANGUAGE="FR" NAME="Hory">
+Senhor Presidente, uma simples correcção. Estou registado como ausente na acta da sessão de segunda-feira; ora acontece que estava presente e que participei em votações por verificação electrónica. Deverá ser simples de confirmar. Agradeço que solicite que o façam.
+
+<SPEAKER ID=11 NAME="Presidente">
+Muito obrigado. Tomo nota.
+
+<SPEAKER ID=12 LANGUAGE="EN" NAME="Ford">
+Senhor Presidente, há uma omissão na acta. Na página 19, verá que o senhor deputado Lataillade interveio. Não está registada a sua profunda preocupação e compaixão pela difícil situação da senhora deputada Randzio-Plath! Devemos assegurar-nos de que ele será objecto da mesma compaixão no futuro ...
+
+<SPEAKER ID=13 LANGUAGE="EN" NAME="Falconer">
+Senhor Presidente, não vou fazer o meu ponto de ordem habitual, mas vou, sim, referir-me a algo que advém do que afirmou o senhor deputado Herman. Devo recordar-lhe que a questão que o senhor deputado Herman levantou ontem durante a sessão foi exactamente a mesma que a senhora deputada Randzio-Path sugeriu numa alteração oral. Doze deputados foram contra esta alteração. Em seguida procedemos à votação e a opinião geral foi: "Responsabilizar o BCE». É essa a decisão que foi tomada ontem, que está registada em acta e que espero que se mantenha.
+
+<SPEAKER ID=14 NAME="Presidente">
+Senhor Deputado Falconer, o senhor esteve cá ontem. Muitos de nós estiveram cá ontem.
+
+<SPEAKER ID=15 LANGUAGE="FR" NAME="Lataillade">
+Senhor Presidente, gostaria simplesmente de dizer que não é necessário que o meu nome apareça. Foi a assembleia inteira que manifestou o seu cuidado relativamente à senhora deputada Randzio-Plath.
+<P>
+Agradeço ao senhor deputado Ford o facto de ter referido a minha presença, mas não era necessário. Agradeço-lhe, Senhor Presidente.
+<P>
+(O Parlamento aprova a acta)
+
+<SPEAKER ID=16 LANGUAGE="EN" NAME="Hallam">
+Senhor Presidente, levantei a seguinte questão na sexta-feira do último período de sessões. Refiro-me à discriminação em termos da cobertura televisiva da sessão de sexta-feira de manhã. Estamos aqui no desempenho de uma missão que deve ser registada, como qualquer outra sessão, tanto para os arquivos como para a televisão. Que medidas tomou o senhor presidente quanto a este pedido?
+
+<SPEAKER ID=17 NAME="Presidente">
+Senhor Deputado Hallam, estou plenamente de acordo. Eu diria que existe ainda um outro motivo relativamente à sexta-feira de manhã e iremos examiná-lo. Mas gostaria de lhe pedir que me permitisse observar que as televisões, habitualmente, não estão sujeitas a regras estabelecidas pela Mesa; oxalá estivessem sujeitas às regras da Mesa e às regras da assembleia. As televisões têm as suas próprias normas e os seus próprios regulamentos e a nossa posição permite-nos influenciá-las muito pouco, e receio que por vezes soframos a sua influência, nem sempre no melhor sentido. De qualquer forma, vamos ver isso.
+
+<SPEAKER ID=18 LANGUAGE="FR" NAME="Bourlanges">
+Senhor Presidente, verifico com mágoa que o meu nome não figura na lista de presenças. Tenho, no entanto, a sensação de ter estado presente com regularidade, tal como de ter assinado. Seja como for, creio que estive presente, como o testemunham um certo número de intervenções públicas e de votações nominais.
+
+<SPEAKER ID=19 NAME="Presidente">
+Acrescentarei que tenho a impressão de que interveio na sessão plenária. Assim sendo, é um pouco de mais.
+
+<CHAPTER ID=2>
+Votações
+<SPEAKER ID=20 LANGUAGE="DE" NAME="Schulz">
+Senhor Presidente, estando presentes os representantes do Conselho, queria, no fim desta votação, chamar a atenção para um pormenor muito importante antes da votação final. O Conselho transmitiu-nos um texto, elaborado pelo senhor deputado Buffetaut, em relação ao qual tomámos a nossa posição e votámos hoje, na votação final, a versão da comissão competente. Durante este processo e ainda antes da votação de hoje, o Conselho voltou a introduzir, por sua vez, alterações ao texto que nos transmitiu e sobre o qual nos tínhamos também debruçado, fazendo-o, por conseguinte, antes de ouvir o resultado do Parlamento. Considero esta atitude uma grave desconsideração ao Parlamento e solicito que transmitam o nosso repúdio ao Conselho.
+<P>
+
+<SPEAKER ID=21 NAME="Presidente">
+Senhor Deputado Schulz, registo a sua observação e a Mesa não deixará de proceder às devidas diligências.
+<P>
+(Por votações sucessivas, o Parlamento aprova as duas resoluções legislativas)
+
+<SPEAKER ID=22 NAME="Reding">
+Senhor Presidente, queria fazer duas observações. Em primeiro lugar, a comissão competente eliminou a proposta de alteração nº 4 relativa ao nº 1, alínea b, do artigo 4º do projecto do Conselho. Porém, entretanto, chegámos à conclusão que neste artigo se estabelece apenas o princípio que ninguém deverá ser punido duas vezes devido à mesma infracção. Trata-se, por conseguinte, do princípio básico do Estado de direito ne bis in idem e é por esta razão que solicitamos que votem contra esta eliminação, ficando assim reconstituído o texto original.
+<P>
+É a primeira coisa. A segunda coisa para que gostaria de chamar a vossa atenção é o facto de a língua do relator, a língua de base, ser o francês, e de a alteração nº 7, tal como está formulada, ser a que faz fé. Esta refere-se a situações em que não tenha sido possível a alguém defender-se perante a justiça de determinado país, designadamente por problemas linguísticos. Este "designadamente», que significa que isso não é exclusivo, mas que permite também outras possibilidades, está inscrito no texto francês. Sei que não figura noutras versões linguísticas, mas é mais abrangente do ponto de vista do interesse dos cidadãos. É, portanto, o texto francês que faz fé, e solicito que se introduzam as necessárias correcções.
+
+<SPEAKER ID=23 NAME="Presidente">
+Pedia à assembleia que tivesse em conta estas observações da relatora, a senhora deputada Reding.
+
+<SPEAKER ID=24 LANGUAGE="DE" NAME="Schulz">
+Senhor Presidente, faço um apelo insistente para que votem a favor da proposta oral de alteração da colega Reding. Temos de chamar a atenção para o facto de termos cometido um erro na comissão competente e que este teria como consequência irmos piorar, da nossa parte, o que seria uma situação fora do habitual, uma apresentação muito boa do Conselho. Por este motivo, é imprescindível apoiar a proposta de alteração oral da colega Reding.
+
+<SPEAKER ID=25 NAME="Presidente">
+Senhor Deputado Schulz, a senhora deputada Reding não fez uma alteração oral, fez observações orais, as quais irão ser tidas em consideração, suponho eu, pela assembleia, mas não fez alterações. Não faça confusão, senão vamos ter problemas.
+
+<SPEAKER ID=26 LANGUAGE="SV" NAME="Thors">
+Congratulo-me particularmente por a senhora deputada Reding ter reparado nesta questão, tendo nomeadamente em conta os Estados cujas autoridades administrativas já desenvolvem uma estreita cooperação. O nosso grupo tenciona, pois, votar favoravelmente a sua proposta.
+
+<SPEAKER ID=27 NAME="Presidente">
+Senhora Deputada Thors, não vamos agora entrar em debate. A relatora tem sempre o direito de fazer uma observação, e muitas mais, mas não repetimos o debate realizado na comissão.
+<P>
+(O Parlamento aprova a resolução legislativa)
+
+<SPEAKER ID=28 NAME="Posselt">
+Senhor Presidente, queria chamar a atenção para o facto de a colega Thors ter apresentado uma boa proposta de alteração, de acordo com a qual se deveria inserir os progressos obtidos na transposição dos direitos da criança. Contudo, não pretendemos frisar mais este facto do que os outros domínios como direitos humanos e direitos das minorias, solicitando por este motivo que se omita o texto até à formulação "da convenção sobre os direitos da criança». Queríamos inserir esta passagem entre direitos humanos e direitos das minorias sem qualquer outra formulação.
+<P>
+(O Parlamento aprova a resolução)
+
+<SPEAKER ID=29 LANGUAGE="DE" NAME="Posselt">
+Senhor Presidente, não queria, há momentos atrás, retardar o decorrer desta votação de sexta-feira. Um colega neerlandês chamou a atenção para o facto de se ter deixado escapar por lapso, na versão neerlandesa, um erro no número 16 da minha proposta de resolução, faltando as palavras "em relação a países terceiros». Solicito que as versões em todas as línguas sejam revistas no que diz respeito a esta questão, tomando por base o texto original alemão.
+
+<SPEAKER ID=30 NAME="Presidente">
+Senhor Deputado Posselt, naturalmente, registo a sua observação e a Mesa vai procurar assegurar o controlo das versões linguísticas deste relatório.
+
+<SPEAKER ID=31 NAME="Kirsten Jensen, Blak, Sindal e Iversen">
+Os sociais-democratas dinamarqueses no Parlamento Europeu votaram hoje a favor do alargamento da cooperação judiciária mútua em matéria penal. Este é um elemento crucial na luta contra a criminalidade organizada.
+<P>
+Somos a favor de uma cooperação prática melhorada e mais eficaz entre os Estados-Membros. Um esforço alargado deverá assegurar uma apreciação mais célere dos processos e uma resolução mais eficaz das questões práticas. Isto poderá verificar-se, por exemplo, através do auxílio judicial mútuo por meio do contacto directo entre as autoridades envolvidas. No entanto, é importante insistir em que as tradições e as práticas nacionais sejam respeitadas, tanto quanto possível, devendo a segurança judiciária estar sempre em primeiro lugar.
+<P>
+Relatório Reding (A4-0121/98)
+<SPEAKER ID=32 NAME="Lindqvist">
+É positivo que a questão da inibição do direito de conduzir seja regulamentada através de uma convenção e não por harmonização legislativa. Consideramos, porém, que suscita muitas dúvidas que o Estado de residência seja obrigado a aplicar uma decisão de inibição do direito de conduzir imposta devido a uma infracção cometida noutro Estado e de acordo com a legislação desse Estado.
+<P>
+Relatório Posselt (A4-0107/98)
+<SPEAKER ID=33 NAME="Berthu (I-EDN)">
+A União Europeia vai encontrar-se, no próximo decénio, perante um dos maiores desafios de sua história: acolher a adesão de dez novos países, quase simultaneamente, e numa altura em que os próprios candidatos atravessam uma fase de transição difícil. Com efeito, estes devem controlar a desordem que se seguiu à queda do comunismo - desestabilização social, desorganização dos controlos, corrupção, crime organizado, migração das populações - e criar o quadro jurídico que lhes permita tornarem-se verdadeiros Estados de direito.
+<P>
+A articulação desta transição e da adesão à União Europeia anuncia-se particularmente delicada de gerir para ambas as partes. Para facilitar a tarefa, o Grupo dos Independentes pela Europa das Nações vinha propondo desde há muito a criação de uma Europa de "geometria variável», organizada em diversos círculos de cooperação, que teria permitido aos países candidatos aderir à União passando progressivamente de um círculo para outro em função da suas possibilidades. Salientámos então que o primeiro círculo de cooperação a criar, o mais urgente, seria o da segurança interna.
+<P>
+Devemos, portanto, congratular-nos por constatar que os ministros da Justiça e do Interior da União, reunidos a 30 de Janeiro último, convidaram os seus homólogos dos países candidatos a concluírem "pactos de adesão» para que se pudesse organizar melhor a luta contra a criminalidade. Vemos nesta medida um eco das nossas posições ou, pelo menos, um certo espírito comum.
+<P>
+Todavia, o Tratado de Amesterdão, caso entre em vigor, não virá facilitar a tarefa, pois não favorece muito a flexibilidade. Por exemplo, seria desejável que, para se lutar melhor contra a criminalidade internacional, os países da Europa Oriental candidatos pudessem, desde já, aderir à Europol. Mas integrando a Europol nos procedimentos da União, não estaremos efectivamente a complicar o problema?
+<P>
+De igual modo, discerne-se mal o alcance da proposta do Parlamento Europeu que visa a criação de um serviço europeu especializado, que comunitarize as experiências dos serviços nacionais competentes em matéria de controlos das fronteiras externas. Se esta proposta significa que seria preciso criar, a nível europeu, um sistema de entre-ajuda financeira, com vista a apoiar os países membros que se debatam com graves problemas no controlo das suas fronteiras externas, então estamos de acordo. Aliás, tínhamo-lo já proposto. Mas parece-nos essencial que cada país permaneça directamente responsável pelas suas fronteiras. Caso contrário, o sistema integrado desmotivaria toda a gente e poderia conduzir ao inverso do resultado pretendido.
+
+<SPEAKER ID=34 NAME="Holm">
+Votei contra este relatório porque não apoio a posição arrogante que a UE adopta em relação aos Estados da Europa Central e Oriental candidatos à adesão.
+<P>
+A UE não pode exigir, nomeadamente, que os Estados candidatos se adaptem à sua política em matéria de vistos face a países terceiros, antes de estes Estados se tornarem membros da UE e de as determinações comunitárias neste domínio, no âmbito do Tratado de Amesterdão, terem sido aprovadas. O Tratado de Amesterdão ainda não foi ratificado por todos os Estados-Membros, pelo que não pode servir de base jurídica nesta matéria.
+<P>
+Quanto à cooperação policial, considero que a Europol não deve desenvolver-se nem ser imposta aos Estados candidatos. Já existe actualmente uma organização, a Interpol, competente para os domínios que a UE pretende atribuir à Europol. Considero que, na luta contra a criminalidade organizada, deve investir-se mais na Interpol e não na Europol.
+<P>
+Tendo em conta a situação existente em importantes domínios nos Estados candidatos à adesão, considero que a UE deve aceitar várias regras de transição, no caso de esses Estados se tornarem membros da União. Pessoalmente, preferiria que a UE abrisse mão de algumas das suas competências a favor dos parlamentos nacionais, o que facilitaria o alargamento. Na situação actual, parece que a UE quer anexar os Estados da Europa Central e Oriental, pois estes Estados terão de adoptar toda a legislação comunitária sem influenciar o seu conteúdo. Não posso aceitar isto.
+
+<SPEAKER ID=35 NAME="Kirsten Jensen, Blak, Sindal e Iversen">
+Os sociais-democratas dinamarqueses votaram hoje a favor do relatório Posselt. A nossa posição teve como base a ideia de que devemos assegurar que os países candidatos da Europa Central e Oriental consigam desenvolver sociedades adequadas, governadas pela justiça e por regras democráticas. O relatório abre caminho ao alargamento da cooperação no domínio da justiça e dos assuntos internos entre os actuais Estados-Membros. A Dinamarca possui uma derrogação nesta matéria, mas não queremos impedir que outros países estabeleçam uma colaboração mais estreita neste domínio. No entanto, reservamo-nos o direito de ficar de fora.
+<P>
+Para nós, o mais importante é assegurar que os países candidatos da Europa Central e Oriental sejam apoiados, tanto económica como politicamente, nos seus esforços para desenvolver as instâncias democráticas. Isto aplica-se igualmente ao apoio aos projectos de formação dos funcionários administrativos e da polícia. Com vista a assegurar o cumprimento do acervo democrático, é preciso que as pessoas que irão aplicar as novas leis possuam a formação necessária para o efeito.
+<P>
+Os sociais-democratas dinamarqueses são contra a proposta apresentada no parecer e que exige que as modificações institucionais tenham sido implementadas antes do alargamento. Isto porque entendem que o Parlamento não deve criar obstáculos ao alargamento. Deve ser assegurada a adesão à União Europeia aos países candidatos, assim que cumprirem os objectivos do acordo individual de parceria. O processo de alargamento não deve ser protelado por causa de o Parlamento Europeu exigir que a distribuição dos mandatos e a ponderação dos votos tenham lugar antes de os primeiros países poderem ser admitidos.
+
+<SPEAKER ID=36 NAME="Parigi">
+Uma vez que o regime comunista, durante o seu domínio, destruiu todas as regras da vida civilizada, a adesão à União Europeia dos países ex-comunistas pressupõe uma espécie de »Risorgimento» por parte dos candidatos, por forma a tornar os sistemas internos desses mesmos países compatíveis com as regras e o espírito próprios da União Europeia.
+<P>
+Isto também se aplica às relações entre polícias, em matéria judiciária, ao domínio da circulação de bens, serviços e cidadãos, bem como ao domínio dos direitos civis e da protecção de menores.
+<P>
+Quando este laborioso processo de ajustamento estiver documentadamente amadurecido, constataremos que terá certamente chegado o momento da adesão desses Estados à União Europeia.
+<P>
+Resolução comum (B4-0424, 0426, 0427, 0428 et 0429/98)
+<SPEAKER ID=37 LANGUAGE="EN" NAME="Corbett">
+Senhor Presidente, posso aceitar com prazer esta resolução que solicita um estudo, quanto mais não seja porque um estudo pode até demonstrar que algumas das alegações mais absurdas para despedimentos são talvez muito exageradas. De qualquer modo, não há qualquer mal em tirar isso a limpo.
+<P>
+Admiro o senhor comissário Monti e o modo como resistiu à pressão das indústrias do álcool e do tabaco para conseguir inverter esta decisão. Espero que os ministros da Economia e das Finanças sejam igualmente resolutos. Do ponto de vista de um ministro das Finanças, não faz sentido reintroduzir uma redução da taxa para as indústrias do álcool e do tabaco: uma redução da taxa que curiosamente só está disponível para as pessoas que viajam para o estrangeiro, normalmente pessoas que, em média, têm um nível de vida superior ao do cidadão comum.
+<P>
+Espero, portanto, que esta resolução, mesmo solicitando um estudo que pode vir a fornecer factos mais objectivos do que alguns dos estudos realizados por organizações partidárias com interesses nesta questão, venha, ainda assim, ajudar a confirmar a decisão tomada há muito pela União Europeia.
+
+<SPEAKER ID=38 NAME="Presidente">
+Senhor Deputado Corbett, também eu observei que as suas posições não são apenas suas mas são também apoiadas por outros colegas. Evidentemente, também há muitos outros que defendem o contrário.
+
+<SPEAKER ID=39 NAME="Querbes">
+Tendo em conta o seu volume de negócios e a sua taxa de emprego, o comércio das vendas isentas de impostos é um sector dinâmico da economia europeia. Desempenha um importante papel no desenvolvimento de redes de transportes eficazes na União Europeia.
+<P>
+A supressão das vendas isentas de impostos, a partir de 1 de Julho de 1999, teria graves consequências no plano económico e social. Com efeito, o comércio das vendas isentas de impostos é uma importante fonte de receitas para os aeroportos e as companhias de ferry-boats , receitas que lhes permitem, nomeadamente, manter os seus preços a níveis mais baixos.
+<P>
+As vendas isentas de impostos desempenham igualmente um papel essencial no financiamento das infra-estruturas e dos serviços de transportes. Ora, as necessidades em matéria de infra-estruturas de transportes, e os investimentos de que carecem, não vão parar de crescer: duplicação dos transportes aéreos na Europa até ao ano 2010, construção de navios, respeito pelas normas de segurança, respeito pelo ambiente, etc.
+<P>
+Para além disso, a abolição das vendas isentas de impostos diminuiria os rendimentos das transportadoras e traduzir-se-ia num aumento das tarifas, o que não deixaria de prejudicar o desenvolvimento do turismo e das viagens.
+<P>
+Por último, dezenas de milhares de empregos estariam ameaçados, nomeadamente, nas regiões onde a taxa de desemprego já é elevada. As regiões periféricas seriam particularmente atingidas. De acordo com as estimativas, 80 000 postos de trabalho desapareceriam nas indústrias de transformação, nos transportes, no comércio a retalho e em serviços afins. Algumas organizações sindicais tomaram consciência destes perigos e mobilizaram-se contra a proposta da Comissão de supressão das vendas isentas de impostos em 30 de Junho de 1999.
+<P>
+Bem vistas as coisas, os Estados-Membros e os cidadãos não teriam qualquer vantagem com a abolição do comércio isento de impostos. Pelo contrário. Por essa razão, o nosso grupo pronuncia-se a favor da manutenção das vendas isentas de impostos.
+<P>
+De qualquer maneira, não deveria ser tomada qualquer decisão antes de se conhecerem os resultados de um estudo sobre o impacto económico e social da abolição das vendas isentas de impostos e antes de se efectuar um debate sobre o assunto no Parlamento Europeu, como o solicita a resolução de compromisso adoptada pela nossa assembleia.
+
+<CHAPTER ID=3>
+Sistema Global de Navegação por Satélite
+<SPEAKER ID=40 NAME="Presidente">
+Segue-se na ordem do dia o relatório (A4-0109/98) da deputada Langenhagen, em nome da Comissão dos Transportes e do Turismo, sobre a proposta de Decisão do Conselho relativa ao acordo entre a Comunidade Europeia, a Agência Espacial Europeia e a Organização Europeia para a Segurança da Navegação Aérea sobre uma contribuição europeia para o desenvolvimento do sistema global de navegação por satélite (COM(97)0442 - C4-0043/98-97/0231(CNS)).
+
+<SPEAKER ID=41 NAME="Langenhagen">
+Senhor Presidente, os sistemas de localização e de navegação assistidos por satélite tiveram uma grande divulgação nos anos transactos. Esta tecnologia aponta no sentido de uma mobilidade duradoura, compatível com o meio ambiente, segura e garantida, de pessoas e bens, através de uma melhor gestão do tráfego e dos transportes. Não é apenas o caso na navegação aérea e marítima. Esta nova tecnologia tem igualmente aplicação em outras áreas, tais como os transportes públicos suburbanos, os caminhos de ferro, o transporte de mercadorias, mas também em veículos ligeiros de passageiros, na agricultura e na pesca.
+<P>
+Não é preciso ser profeta para prever que esta tecnologia continuará a fazer progressos. Assim, certamente se irá reforçar também a sua aplicação no domínio dos tempos livres. Futuramente, o velejador e o caminhante amador talvez só se dediquem ao seu passatempo com esta alta tecnologia. Já existem dois sistemas a operar a nível mundial, o global positioning system americano, o chamado GPS, e o sistema global de navegação via satélite russo, chamado GLONAS. Estes dois sistemas não satisfazem, no entanto, todas as necessidades dos utilizadores civis. São controlados a nível nacional e concebidos para fins militares, sendo-lhes artificialmente introduzidas limitações parciais de desempenho quando se destinam a aplicações civis.
+<P>
+A falta de precisão, a excessiva probabilidade de ocorrência de erros técnicos, os tempos de alerta demasiado longos em caso de falhas do sistema, a falta de garantia quanto à sua permanente disponibilidade e o facto de ninguém ser responsável pelo seu funcionamento, obrigam os europeus a tomar a sua própria iniciativa. É sob este prisma que a proposta da Comissão deverá ser encarada .
+<P>
+Já em 1994, a Comissão e o Conselho, com o apoio do Parlamento, tomaram uma iniciativa neste domínio. O acordo sobre o qual temos de hoje tomar uma posição é uma continuação coerente da evolução observada até à data. O acordo hoje em apreço destina-se a regulamentar a cooperação entre a União Europeia, a Agncia Espacial Europeia ESA e a Organização Europeia para a Segurança da Navegação Aérea EUROCONTROL. Estas três instituições europeias deverão cooperar no sentido de dar um contributo para o desenvolvimento de um sistema global de navegação por satélite. Pretende-se em especial coordenar e encaminhar ideias e projectos dos participantes. Num primeiro passo, haverá que complementar os sistemas russos e americanos existentes, compensando assim as falhas e imprecisões técnicas por mim descritas. Os problemas técnicos ficam assim solucionados, mantendo-se, no entanto, o problema institucional de fundo, nomeadamente a falta de controlo civil e de garantia para o sistema.
+<P>
+Por este motivo, é necessária uma segunda fase com o objectivo de desenvolver um sistema civil próprio e independente com a garantia de um desempenho optimizado relativamente a todos os horários e locais. Estamos a trabalhar afincadamente neste projecto. Numa situação em que o mercado mundial da navegação por satélite poderia ser dominado pelos Estados Unidos, este acordo certamente contribuirá para proteger os interesses europeus e para facilitar a mobilização concreta de todo o potencial da tecnologia para a navegação por satélite.
+<P>
+Está-se constantemente a frisar a importância das tecnologias de ponta para a implantação empresarial da Europa. É com este acordo que poderemos reconquistar terreno perdido e estabelecer, de futuro, normas europeias próprias para a tecnologia via satélite.
+<P>
+Contudo, ainda subsiste o aspecto orçamental e, por este motivo, reivindiquei no meu relatório um plano de acção para o financiamento de um projecto desta índole. Os futuros utilizadores civis ainda mostram bastante cepticismo em relação a este projecto, tenho de o admitir. Porém, sem a participação da indústria europeia e de outros parceiros é obviamente impossível financiar um projecto desta envergadura. Para garantir um número elevado de participantes no desenvolvimento de um sistema global de navegação por satélite, dever-se-ia preparar o mais depressa possível uma estratégia coerente com perspectiva financeira. A União Europeia é hoje chamada à cooperação internacional, sendo a maior vantagem os custos e investimentos mais reduzidos. Potenciais parceiros são e serão neste contexto os EUA e a Rússia, já referidos, e ainda o Japão.
+<P>
+O acordo hoje em apreço tem também um carácter simbólico, uma vez que frisa a determinação e a vontade dos europeus em dar um contributo próprio neste domínio e, por esta razão, solicito a vossa aprovação para o presente acordo.
+
+<SPEAKER ID=42 LANGUAGE="SV" NAME="Stenmarck">
+Senhor Presidente, em primeiro lugar, quero agradecer à senhora deputada Langenhagen o excelente relatório que apresentou.
+<P>
+Actualmente, as novas técnicas no domínio da navegação aérea estão em desenvolvimento acelerado. A sua utilização adequada tornará a navegação aérea ainda mais segura e criará condições para resolver muitos dos problemas que estão na origem dos repetidos e frequentes atrasos que hoje se verificam.
+<P>
+O que está neste momento em causa é saber se queremos que a Europa participe neste desenvolvimento técnico ou se preferimos deixá-la à margem desse processo. Estamos perante uma escolha acentuadamente estratégica que pode ter importantes consequências para o desenvolvimento futuro do sistema de navegação aérea. A questão que se coloca é a seguinte: deveremos desenvolver um sistema de navegação próprio ou apenas participar e exercer a nossa influência nos que já existem?
+<P>
+Há inúmeras indicações de que sai mais barato participar no desenvolvimento de um sistema existente, pois o desenvolvimento de um sistema próprio implicaria um grande investimento em investigação e desenvolvimento. Simultaneamente constitui uma segurança não depender permanentemente de terceiros.
+<P>
+Penso que, nas circunstâncias actuais, se justifica que encaremos de forma positiva a continuação do desenvolvimento, participando no acordo entre a Comunidade Europeia, a Agência Espacial Europeia e a Organização Europeia para a Segurança da Navegação Aérea. Este acordo cria condições para que a UE participe e influencie o desenvolvimento futuro, o que me parece positivo.
+<P>
+Existem, porém, razões para estarmos atentos ao risco de nos envolvermos num projecto extremamente dispendioso, que talvez não proporcione os resultados que justificadamente esperamos. Há, pois, motivos para nos mantermos atentos. Considero, assim, que o plano de acção abordado pela senhora deputada Langenhagen no seu relatório é muitíssimo importante.
+<P>
+Neste contexto, gostaria de referir uma carta da Associação Europeia das Companhias de Transporte Aéreo, a Association of European Airlines . Nesta carta, de 6 de Março último, diz-se designadamente: »improvements, if any, could be achieved in a much cheaper way» (admitindo que seja possível introduzir melhorias, estas poderiam ser alcançadas de forma muito mais económica). Agradecia ao senhor comissário que comentasse se é possível alcançar melhorias equivalentes de forma mais económica do que a que temos hoje de decidir. Se não for possível obter hoje resposta a esta questão, agradecia que o senhor comissário responsável por este pelouro a comentasse por escrito.
+
+<SPEAKER ID=43 LANGUAGE="IT" NAME="Malerba">
+Senhor Presidente, caros colegas, o GNSS, Global Navigation Satellite System, é um caso de escola da dupla aplicação de tecnologias para uso militar e civil. Com efeito, a localização via satélite, nascida nos meios militares, na época da guerra fria, para a vigilância dos mísseis balísticos, oferece actualmente a possibilidade, no domínio civil, de permitir que os navios se orientem, já não pelas estrelas, pelos faróis ou pelos radares, mas sim pelos satélites.
+<P>
+Na realidade, o segmento via satélite só representa, em termos de valor, uma parte mínima dos potenciais serviços que podem ser fornecidos em terra no que respeita à elaboração do sinal via satélite para a ajuda à navegação, aos socorros, à segurança, ao conselho na escolha de itinerário para as rotas e para as estradas e à gestão das frotas; os próprios táxis já começam a ter sinais via satélite a bordo.
+<P>
+O documento de hoje não é um documento estratégico, mas cria condições prévias para uma estratégia europeia para a navegação via satélite, que iremos debater num futuro próximo. Este documento estabelece as regras do acordo entre a Comissão Europeia, a AEE e o Eurocontrol no que diz respeito às regras da colaboração, parecendo-me, portanto, um primeiro passo bastante positivo.
+<P>
+Aquilo que é objecto da nossa votação é o reconhecimento de que a Comissão, enquanto instituição europeia, exerce a função de impulsionador político, que a AEE desempenha o papel de arquitecto tecnológico e que o Eurocontrol é o primeiro de uma série de fornecedores de serviços aos utentes dos serviços aéreos.
+<P>
+Penso que, nesta organização estrutural, há duas coisas que devem também ser recomendadas e que são referidas pela relatora, a senhora deputada Langenhagen. Primeiro ponto: que o acordo a três continue aberto a outros parceiros, a fim de assegurar o rápido alargamento dos serviços de localização via satélite a todos os serviços de mar e de terra e, segundo ponto, que se crie uma autoridade ou uma agência europeia - escolham o nome que preferirem - responsável pela certificação do serviço e pela homologação dos equipamentos. Com estas duas observações, que foram tomadas em linha de conta pela relatora, aprovo este relatório e continuo a aguardar outro debate, que iremos ter em breve, relativamente ao documento da Comissão sobre a navegação via satélite.
+
+<SPEAKER ID=44 NAME="Presidente">
+Senhor Deputado Malerba, julgo que terá uma maior especialização para nos falar dessas questões, pela maneira como viu as coisas.
+
+<SPEAKER ID=45 LANGUAGE="FR" NAME="Scarbonchi">
+Senhor Presidente, a navegação por satélite é um sector estratégico que faz parte, juntamente com as auto-estradas da informação, das batalhas tecnológicas do futuro. A Europa tem o dever de nelas participar. Possui todas as potencialidades para o fazer. Será apenas preciso que manifeste a vontade política necessária e, por conseguinte, que faça finalmente a opção por uma estratégia clara. É aí que reside todo o interesse do relatório da nossa colega Brigitte Langenhagen, que preconiza um acordo entre a Comissão Europeia, a Agência Espacial Europeia e o Eurocontrol para a criação de um sistema global de navegação.
+<P>
+Hoje, a escolha põe-se claramente entre: um sistema europeu autónomo e independente, cujo custo estimado se situa entre os 400 milhões e os quatro mil milhões de ecus, ou a cooperação com sistemas existentes, o americano GPS e o russo GLONAS.
+<P>
+O Grupo da Aliança Radical Europeia é favorável ao que preconiza a nossa colega relatora, por várias razões, sendo a principal a seguinte: por que razão deveremos confiar os nossos interesses, num sector sensível, a outros, se possuímos a capacidade de o fazermos nós próprios; por que razão depender, uma vez mais, dos americanos num domínio tecnológico e científico para o qual dispomos, na Europa, dos meios para a nossa independência?
+<P>
+É certo que o custo considerável deste sistema europeu exigirá uma parceria com a indústria pública e privada europeia. Mas se queremos, num sector tão importante como este, tão essencial e tão rentável a prazo para a Europa devido às perspetivas que abre, permanecer independentes, é preciso que muito rapidamente, sem perda de tempo, façamos uma verdadeira escolha estratégica como o preconiza a relatora. Nesta perspectiva, associamo-nos ao senhor comissário Kinnock, que teme que, não tomando rapidamente uma decisão, fiquemos atrasados na rota do progresso. Por outras palavras, seremos excluídos desta batalha tecnológica e científica. Por isso, não devemos perder tempo.
+
+<SPEAKER ID=46 LANGUAGE="NL" NAME="Van Dam">
+Senhor Presidente, o acordo entre a Comunidade Europeia, a Agência Espacial Europeia e a Organização Europeia para a Segurança da Navegação Aérea visa fornecer uma contribuição europeia para o desenvolvimento de um sistema global de navegação por satélite, designado, em inglês, pela sigla GNSS, no âmbito do qual as partes definiram três objectivos. O primeiro prende-se com o desenvolvimento das estruturas básicas para o European Gestionary Navigation Overlay Service (EGNOS). O actual sistema GNSS será dotado, e passo citar "de possibilidades adicionais de localização geográfica por satélite, integridade e informação wide-area aos utilizadores».
+<P>
+O segundo objectivo prende-se com uma versão totalmente operacional do GNSS-1 e o terceiro com o desenvolvimento de um novo sistema europeu de navegação por satélite, o GNSS-2.
+<P>
+No que diz respeito ao EGNOS, as companhias aéreas deram já a entender não estarem minimamente interessadas num produto dessa natureza. Se forem necessários aperfeiçoamentos do sistema, segundo elas, estes poderão ser realizados de forma muito mais económica. Por isso, pergunto à Comissão Europeia quem são os utilizadores realmente interessados no desenvolvimento do EGNOS e se os mesmos estarão dispostos a participar nos custos operacionais aí envolvidos.
+<P>
+Se o interesse pelo EGNOS for, de facto, limitado, não será preferível, pergunto-me, que orientemos os nossos esforços para o desenvolvimento do GNSS-2? Aparentemente, as vantagens proporcionadas pela nova geração de sistemas de navegação por satélite não são contestadas.
+<P>
+Por último, o parecer da Comissão dos Orçamentos merece ainda a nossa atenção. Ele constata que os custos que ficam a cargo da Comunidade não foram ainda estabelecidos definitivamente, tendo porém as verbas sido já, em grande parte, afectadas. Por isso, a Comissão dos Orçamentos procurou não dar ainda luz verde ao relatório Langenhagen, antes de a situação financeira ter sido cabalmente investigada.
+<P>
+No entanto, o relatório foi debatido e aprovado em sede da Comissão dos Transportes e do Turismo e, assim sendo, gostaria que a senhora relatora me dissesse por que razão não acatou o parecer da Comissão dos Orçamentos.
+
+<SPEAKER ID=47 LANGUAGE="DE" NAME="Rübig">
+Senhor Presidente, eu próprio sou piloto e senti a mudança. As vantagens que trazem os sistemas de navegação por satélite são sensacionais. Significam um considerável aumento da segurança, além de que, também a capacidade de cálculo e o software em que se baseiam estes sistemas, trazem grandes vantagens para um piloto, uma vez que o desempenho no cockpit passa a ter uma qualidade consideravelmente superior. É com satisfação que constato que a Comissão nos comunicou que o financiamento se processará com verbas existentes, entre outras também as da linha orçamental BS-700. Creio que esta decisão desempenha um papel muito importante para a concorrência na Europa e que uma concorrência neste mercado é, de facto, indispensável a nível mundial.
+<P>
+Sabemos que precisamente o desenvolvimento económico depende muito de três factores, nomeadamente da formação e do aperfeiçoamento profissionais, da investigação e das infra-estruturas. Com estes sistemas, estes três domínios são abordados de forma optimizada. As minhas felicitações à colega Langenhagen pelo seu relatório.
+
+<SPEAKER ID=48 NAME="Presidente">
+Senhor Deputado Rübig, vejo que a assembleia tem a sorte de possuir muitas experiências, as quais, de facto vêm juntar-se aos nossos próprios dados na apreciação das matérias, o que constatamos com muito interesse.
+
+<SPEAKER ID=49 NAME="Gradin">
+Senhor Presidente, Senhores Deputados, em nome da Comissão, congratulo-me pelo apoio do Parlamento a este acordo que permite uma contribuição europeia para o desenvolvimento de um sistema global de navegação por satélite. O acordo em apreço constituirá a primeira base formal para um acordo a celebrar entre a Comunidade Europeia, a Agência Espacial Europeia e a Organização Europeia para a Segurança da Navegação Aérea, a Eurocontrol, tendo em vista o desenvolvimento em conjunto de uma contribuição para uma infra-estrutura global de navegação por satélite. Uma contribuição europeia neste domínio é importante por vários motivos. Em primeiro lugar, um sistema global de navegação por satélite contribuirá para o desenvolvimento sustentável do tráfego crescente dos transportes aéreos e marítimos. Em segundo lugar, um sistema deste tipo permitirá grandes melhorias em matéria de segurança. Finalmente, a matéria em apreço significará a abertura de novos mercados à indústria europeia que, presentemente, está excluída desses mercados em consequência da posição dominante dos EUA.
+<P>
+A utilização de satélites para a navegação é um domínio muito dinâmico e promissor. O êxito neste domínio exige, porém, uma cooperação ampla e profunda. Através deste acordo esperamos criar uma estrutura de cooperação eficaz com vista a aproveitar da melhor forma os recursos de todos os participantes.
+<P>
+A Comissão prepara um outro passo, através de uma comunicação que aprovámos em Janeiro passado. Nesta comunicação aborda-se a estratégia geral para a contribuição da Europa para a infra-estrutura global de navegação por satélite. Gostaria apenas de dizer ao senhor deputado Stenmarck que apresentarei a sua pergunta ao membro da Comissão responsável por esta matéria e que receberá posteriormente uma resposta escrita ou oral à sua pergunta, pois eu não sou a pessoa indicada para o informar sobre os aspectos relacionados com os custos neste contexto. A Comissão aguarda com interesse um amplo debate com o Parlamento em matéria de estratégia, em ligação com a próxima discussão em torno da referida comunicação, pois é importante tomarmos posição sobre o modo como a UE participará em todo este trabalho.
+
+<SPEAKER ID=50 NAME="Presidente">
+Está encerrado o debate.
+<P>
+Vamos agora proceder à votação.
+<P>
+(O Parlamento aprova a resolução legislativa)
+
+<SPEAKER ID=51 NAME="Nicholson">
+O sistema global de navegação procura estabelecer cooperação entre a União Europeia, a Agência Espacial Europeia e a Organização Europeia para a Segurança da Navegação Aérea. Estamos decididos a garantir que alcançaremos, acima de tudo, um nível de segurança total.
+<P>
+O sistema actual permite a localização geográfica e o controlo da navegação em qualquer tipo de transporte. Estamos agora perante a opção de desenvolver esta nova forma de controlo dos transportes ou de continuar a manter todos os sistemas do passado.
+<P>
+Não há soluções fáceis para resolver o problema com que nos deparamos, mas temos de aceitar a proposta mais eficaz e segura, para garantir a diminuição do congestionamento do tráfego, no interesse de todos.
+
+<CHAPTER ID=4>
+Realização de um sistema de protecção em Chernobyl
+<SPEAKER ID=52 NAME="Presidente">
+Segue-se na ordem do dia o relatório do deputado Adam (A4-0076/98), em nome da Comissão dos Orçamentos, sobre a proposta de Decisão do Conselho relativa a uma contribuição comunitária para Banco Europeu para a Reconstrução e o Desenvolvimento destinada ao fundo de protecção de Chernobyl (COM(97)0448 - C4-0499/97-97/0235 (CNS))
+
+<SPEAKER ID=53 NAME="Adam">
+Senhor Presidente, a cobertura ou sarcófago que foi construído por cima do reactor nº 4 de Chernobyl depois do catastrófico acidente de Abril de 1986 foi construído num espaço de tempo muito curto. Permitiu atingir o objectivo primordial de proteger a população mais próxima e de manter os outros reactores em funcionamento.
+<P>
+Contudo, reconheceu-se que a obra não era a mais adequada a longo prazo. Em particular, nenhuma das vigas que foram colocadas para sustentar o tecto da cobertura tem um suporte seguro dentro do sarcófago. Há problemas com poeiras radioactivas na antiga sala do reactor e há acumulação de águas radioactivas nas caves situadas na área do reactor. Até agora não houve um projecto aceite por todas as partes para estabilizar esta estrutura. O risco de doses extremamente elevadas de radiação para os trabalhadores tem sido o maior problema a ultrapassar.
+<P>
+O Memorando de Acordo que foi assinado em Dezembro de 1995 entre os países do G7, a Comissão e o Governo da Ucrânia previa o encerramento da central nuclear de Chernobyl até ao ano 2000 e reconhecia que a estrutura sobre o reactor nº4 tinha de ser revista.
+<P>
+No entanto, não foi acordado qualquer plano, nem foi feita uma estimativa dos custos envolvidos. Temos agora o «Plano de Protecção», que foi aprovado como resultado de discussões técnicas detalhadas, e devemos reconhecer que o programa TACIS participou de forma particularmente activa no desenvolvimento desse plano.
+<P>
+O propósito deste relatório é o de explicitar a contribuição financeira da União Europeia, que não ultrapassará o montante de 100 milhões de dólares para um custo total estimado em 750 milhões de dólares. O Plano de Protecção é invulgar, na medida em que surge de uma decisão política do G7, e será implementado pelo Banco Europeu para a Reconstrução e o Desenvolvimento. É importante referir que a configuração final do projecto não será conhecida antes de uns quatro ou cinco anos, uma vez que alguns aspectos da sua concepção final são parte do plano: a concepção final e a natureza da protecção; a questão da remoção do combustível que contem material radioactivo; o modo como lidar com as poeiras radioactivas dentro do sarcófago, e o tratamento das águas acumuladas são questões que apenas emergirão durante a fase de implementação. A configuração final depende igualmente da capacidade que os países membros do G7 tenham de angariar os fundos considerados necessários. De momento, estamos apenas a meio caminho.
+<P>
+Este relatório trata das questões de financiamento e gestão relacionadas com a construção da cobertura de protecção. Há trabalhos de engenharia a ela associados, tais como as instalações de tratamento de resíduos radioactivos, que são essenciais para que as obras da protecção possam começar. Por isso, foi necessário que o Parlamento, como ramo da autoridade orçamental, se certificasse do facto de as obras associadas estarem a realizar-se a par do projecto da cobertura de protecção.
+<P>
+Devemos ter em conta que, relativamente à implementação do Memorando de Acordo, a reforma do sector energético na Ucrânia é a questão mais importante: a questão de a electricidade ser produzida por centrais nucleares ou por centrais térmicas. A menos que o mercado da electricidade funcione de forma a permitir o acesso a fundos por parte dos operadores, não poderão atingir-se os níveis de manutenção e de optimização que a situação exige.
+<P>
+O texto do Memorando, o enquadramento e todos os textos legais relacionados com esta matéria são apresentados em anexo ao meu relatório. Estão apenas escritos em inglês, mas espero que sejam úteis aos meus colegas como material de referência.
+<P>
+O plano não existe no vácuo: enquanto foi preparado fizeram-se consideráveis progressos por parte da Administração de Regulamentação da Ucrânia, cujo presidente é o senhor Smyshlyayev, chefe daquele organismo, que será responsável pelas normas de segurança, sob as quais se efectuarão os trabalhos da protecção. A indústria nuclear foi reorganizada sob a direcção do senhor Nigmatullin, e a Energoatom, a empresa que opera no sector nuclear da Ucrânia, em condições de mercado livre, produziu 47 % da electricidade no ano passado. Foi criado um grupo de trabalho ao mais alto nível, liderado pelo primeiro-ministro adjunto para a Reforma Económica, Tigipko, para elaborar um plano para a modernização do sector energético. Estes progressos não podem ser desprezados num país cuja economia ainda sofre as consequências do colapso da União Soviética.
+<P>
+O nº 54 do meu relatório apresenta as condições para que o Parlamento aceite as transferências de fundos da reserva orçamental de 1998. A maioria destas condições, e certamente as mais importantes, já se encontram satisfeitas.
+<P>
+O nº 55 indica qual a informação que deve ser fornecida ao Parlamento pela Comissão e pelo BERD durante a implementação do plano.
+<P>
+No nº 56 enumera-se uma série de actividades nas quais, em minha opinião, a Comissão podia e devia dar maior assistência ao plano. É minha convicção que as orientações contidas nestes números fornecem uma base para consideração das decisões orçamentais que o Parlamento tome nos próximos anos do projecto.
+<P>
+O BERD tomou medidas positivas com vista à participação de especialistas russos. Afinal de contas, o reactor é de concepção russa. O Instituto Kurchatov, conhecido por alguns de nós na Comissão da Investigação, do Desenvolvimento Tecnológico e da Energia, terá um papel a desempenhar.
+<P>
+Este relatório é muito técnico e complexo, mas gostaria de concluir com algumas considerações políticas mais gerais e de assinalar que a indústria nuclear na Ucrânia é uma indústria relativamente jovem, pelo que muitos dos reactores têm um potencial de funcionamento a longo prazo. É absolutamente evidente que a política nacional vai no sentido da continuidade da indústria nuclear, em parte como forma de reduzir a dependência da Rússia quanto ao fornecimento de gás, petróleo e carvão. Mas também temos de ter em atenção que a ligação com a Rússia não pode ser ignorada, pois, através dos programas SYNERGY e TACIS, as ligações entre a União e a Ucrânia em termos de petróleo, gás e electricidade estão a ganhar maior importância, havendo também relações muito estreitas com os países vizinhos. Por esta razão, faz sentido que incentivemos a adopção de normas nucleares que sejam aceitáveis em toda a Europa e há que reconhecer que os russos estão decididos a desenvolver os seus próprios reactores.
+<P>
+O recém-nomeado ministro da Energia Nuclear na Rússia, Evgeni Adamov, é conhecido de alguns de nós e sabemos que ele dá muita importância à melhoria das condições de segurança das centrais nucleares e se preocupa com a colaboração entre cientistas russos e cientistas da União Europeia. Todas estas facetas do sector energético da Ucrânia devem ser tidas em conta. Embora o governo esteja firmemente empenhado em encerrar a central, deveremos recordar que nem todas as forças políticas da Ucrânia apoiam este facto. Isto aplica-se em especial àqueles que representam a área de Chernobyl, onde o desemprego já é elevado. Por esta razão, é importante que, ao implementar o plano, o BERD aproveite todas as oportunidades para garantir que a implementação do projecto gere tanto emprego quanto possível para as pessoas de Slavutich, a cidade vizinha onde vive a maioria dos trabalhadores da central.
+<P>
+Também é importante reconhecer que a central não será totalmente encerrada enquanto o segundo reactor de Khmelnitsky e o quarto reactor de Rovno não estiverem concluídos. Recentemente a Ucrânia fez acordos para conseguir fundos da Rússia, pelo que se torna imperativo que o BERD se decida quanto à contribuição do G7 para este projecto.
+<P>
+Muito concretamente, a Ucrânia considera que o compromisso de terminar os dois reactores era inerente ao Memorando de Acordo. Eles vêem a recusa do empréstimo para financiar este trabalho por parte da União Europeia como um incumprimento do acordo. Sem o empréstimo, o K2 e o R4 não serão concluídos segundo as normas de segurança ocidentais. A assembleia dos países dadores elegeu o Dr. Hans Blix como presidente. O Dr. Blix é o antigo secretário-geral da Agência Internacional de Energia Atómica e é muito considerado nessa área. Já me comunicou que estaria disposto a encontrar-se com a comissão do Parlamento numa ocasião oportuna, e os funcionários do BERD responsáveis pela gestão do financiamento também já concordaram em fazer o mesmo, de forma a que possamos manter-nos ao corrente dos desenvolvimentos. A edição de um boletim informativo do BERD para manter os deputados informados é uma medida bem vinda.
+<P>
+O Parlamento tem um papel importante a desempenhar para garantir que este projecto avance a tempo e dentro do orçamento, e eu sugeri no relatório que talvez seja conveniente nomear dois peritos para nos ajudarem na avaliação do trabalho. Essa proposta está contida no nº 64 e espero que a Comissão dos Orçamentos considere esta ideia numa próxima ocasião. Durante todas as discussões e reuniões relacionadas com a preparação deste relatório, insisti no facto de que o Memorando de Acordo deveria ser implementado o mais rapidamente possível.
+<P>
+Não me foram apresentadas provas que indiquem que haja vantagens em alterar, nesta altura, os acordos relacionados com o Plano de Protecção. Assim sendo, exorto a Assembleia a aprovar o relatório na forma como foi unanimemente aprovado em sede de Comissão dos Orçamentos.
+
+<SPEAKER ID=54 NAME="Holm">
+Senhor Presidente, não fui eu o autor do parecer da Comissão da Investigação, do Desenvolvimento Tecnológico e da Energia, mas sim a minha colega, senhora deputada Bloch von Blottnitz. Infelizmente, porém, ela não pôde estar hoje aqui presente.
+<P>
+O parecer da senhora deputada Bloch von Blottnitz foi aprovado por unanimidade na comissão. Os aspectos principais do relatório não dizem apenas respeito às questões económicas, mas também a questões técnicas importantes nesta matéria. A proposta da Comissão aborda principalmente o financiamento, na sequência da Conferência de Angariação que teve lugar em Nova Iorque, no ano passado. Está em causa a realização de uma cobertura de protecção do reactor de Chernobyl, que se avariou na Primavera de 1986.
+<P>
+É um dado adquirido que a UE deve participar no financiamento desse projecto. Constitui também motivo de satisfação que o Banco Europeu para a Reconstrução e o Desenvolvimento, que administra o actual fundo, venha a receber uma contribuição comunitária. Resta, porém, apurar o montante que deverá provir do Programa TACIS, pois a Comissão, na sua proposta, apenas refere o montante máximo de 100 milhões de ecus. Espero que a Comissão venha a especificar o montante que será previsto para o efeito. Devemos assinalar ainda, neste contexto, que seria razoável e mais simples do ponto de vista organizativo que a Comissão adaptasse o mais depressa possível os seus critérios internos de concessão de ajuda financeira aos estatutos estabelecidos pelo BERD (Banco Europeu para a Reconstrução e o Desenvolvimento) para a execução dos seus projectos financeiros.
+<P>
+No que se refere concretamente ao reactor, a proposta da Comissão tem como objectivo converter a actual cobertura do reactor danificado num sistema seguro para o ambiente. Este objectivo é irrealista. Ninguém poderá dar garantias de segurança total, ainda que os planos em questão possam levar à melhoria da actual situação catastrófica e extremamente perigosa de Chernobyl.
+<P>
+A Comissão da Investigação, do Desenvolvimento Tecnológico e da Energia considera também que é necessário extrair toda a água que se encontra no interior do reactor danificado no âmbito dos trabalhos de construção de um novo manto de confinamento, devendo o novo sarcófago envolver apenas o reactor IV, que foi destruído, sem influenciar os futuros trabalhos de desmantelamento do bloco do reactor III.
+
+<SPEAKER ID=55 LANGUAGE="DE" NAME="Tillich">
+Senhor Presidente, quero felicitar o relator, colega Gordon Adam, pelo seu excelente relatório. Quero também referir que, ao elaborar este relatório, assumiu uma enorme responsabilidade, pois ele próprio se deslocou inclusivamente a Chernobyl para se inteirar, no próprio local, dos progressos, bem como das condições em que se encontra o sarcófago, o que evidentemente também implicou um certo risco pessoal. Há que constatar e registar este facto.
+<P>
+Entre ele, como relator para o presente relatório, e eu próprio, como relator do orçamento para 1998, houve uma colaboração excelente. Com efeito, voltou a ser decidido noutra instância qualquer, para onde deveria a União Europeia dar o seu contributo financeiro. Durante o processo orçamental de 1998, fomos confrontados com o facto de estar previsto disponibilizar no front loading , portanto, imediatamente, 100 milhões de ecus para a segurança do sarcófago. A este respeito, realizámos em 1997, em conjunto com a Comissão e com o Banco Europeu para a Reconstrução e o Desenvolvimento, uma audição em Londres, onde fomos informados sobre os pormenores do processo e do projecto.
+<P>
+Nós, como orçamentistas, mas também como representantes do PPE, somos a favor da segurança do sarcófago. Porém, é evidentemente necessário formular algumas condições. Disponibilizamos também em front loading verbas à ex-Jugoslávia para a reconstrução devido aos danos causados pela guerra. Reconhecemos esta problemática. Ainda esta semana estivemos a discutir o assunto. Por este motivo, o primeiro pressuposto é o cumprimento do acordo celebrado entre a Ucrânia, a União Europeia e os EUA sob a égide do G7. Isto significa que o compromisso assumido para a disponibilização das verbas deverá ser cumprido por todos em simultâneo e que, no caso dos 100 milhões de ecus que agora vamos disponibilizar, estamos a partir do princípio de que vão estar disponíveis para o projecto global até ao ano 2005, uma vez que sabemos que no referido projecto falta cobrir uma verba superior a 300 milhões de ecus ou a 300 milhões de dólares americanos. Certamente que numa altura qualquer ainda voltaremos a ser confrontados com este problema. Por esta razão, referimos expressamente que a União Europeia, por seu lado, está disposta a disponibilizar 100 milhões de ecus, conforme estipulado contratualmente, e isto ocorrerá nos próximos dois anos, em 1998 e 1999.
+<P>
+Criámos uma linha especial no processo orçamental. Ao fazê-lo, tivemos a intenção - o que também participámos à Comissão - de impedir que a Comissão, por um lado, transformasse o programa TACIS, de certo modo, num programa de segurança nuclear e, por outro, reduzisse os seus elevados atrasos no programa TACIS a uma assinatura no valor de 100 milhões de ecus. Neste contexto, pretendemos maior transparência, o que também acaba por nos dar a possibilidade de demonstrar à opinião pública quanto vale a segurança nuclear na Europa, além de demonstrar o que nós realizamos neste domínio. É por esta razão que surge uma linha orçamental própria! O colega Adam chamou a atenção para o facto de ser muito, mesmo muito importante receber informaçes em quantidade e qualidade, relativamente correcta utilização das verbas no local.
+<P>
+Estamos conscientes de que, apenas uma actuação coordenada em todo o mundo, pode trazer verdadeiros progressos no que diz respeito ao aumento da segurança nuclear do sarcófago de Chernobyl e de que a chave para o sucesso deste projecto está na mão da própria Ucrânia e dos seus responsáveis políticos, pelo que o PPE aprovará o presente relatório do deputado Gordon Adam, bem como as suas propostas de alteração. A única proposta do grupo dos Verdes que aprovaremos é alteração 17 da colega Bloch von Blottnitz.
+
+<SPEAKER ID=56 LANGUAGE="EL" NAME="Kaklamanis">
+Senhor Presidente, caros colegas, o problema da utilização da energia nuclear e dos perigos de acidente nuclear decorrentes dessa utilização tem três dimensões no que se refere à União Europeia. A primeira dimensão diz respeito às centrais nucleares dentro da União Europeia. É óbvio que raramente falamos delas, e mais raramente falamos dos seus resíduos nucleares. A segunda diz respeito a centrais nucleares que se encontram em países que fazem fronteira com países da União Europeia, como é o caso de Koslodouy, e a terceira dimensão diz respeito a centrais nucleares que se encontram em países afastados, como a Ucrânia, e refiro-me mais especificamente à questão tratada no excelente relatório do senhor deputado Adam, a Chernobil.
+<P>
+As radiações, porém, não têm fronteiras. Em caso de acidente nuclear, todos corremos perigo. Nesse sentido, portanto, a Comissão Europeia e o Parlamento Europeu decidiram, e bem, contribuir com outros dadores de ajuda para a criação de uma cobertura de protecção do reactor de Chernobil. Mas há dois problemas que persistem. O primeiro tem a ver com a contribuição económica dos outros dadores, os quais não demonstraram, pelo menos até ao momento, a sensibilidade e a coerência que se impõem e que a Comissão Europeia demonstrou. Isto é, Senhora Comissária, repete-se o que aconteceu na Bósnia, onde a Comissão Europeia parece ser o único dador que até agora tem pago. O segundo diz respeito ao correcto aproveitamento das verbas que até agora foram dadas à Ucrânia por causa de Chernobil. Impõe-se, portanto, que haja transparência e um controlo permanente no que respeita à gestão dessas verbas. Existe uma suspeita, Senhora Comissária, de que a ajuda concedida até ao momento não tenha sido correctamente utilizada pelo Governo da Ucrânia. A resposta dada pelo senhor comissário Van den Broek, competente na matéria, a duas perguntas que eu dirigi à Comissão a propósito deste assunto reforçou em mim essas suspeitas. Não me assegurou de forma alguma de que as verbas concedidas até este momento foram para o objectivo para que as destinámos. Evidentemente, o objectivo final deve ser o encerramento do reactor de Chernobil e quero lembrar a todos nós que havia uma cobertura protectora antes de 1986, quando ocorreu o conhecido acidente nuclear. Não se trata de algo que nunca existiu e que agora vamos arranjar. Também não sei que forças políticas são essas a que o senhor deputado Adam aludiu, forças políticas da Ucrânia que se opõem ao encerramento do reactor. Mas o que eu sei é que mesmo essas forças políticas não contribuíram com um ecu sequer para a questão do reactor que está no seu país. Nós, portanto, devemos ignorar quaisquer forças políticas, e, já que pagamos, e fazemos bem em pagar, repito, o nosso objectivo final deverá ser o encerramento do reactor.
+<P>
+Para terminar, quero felicitar o relator, senhor deputado Adam, porque era um relatório difícil, do ponto de vista técnico, e muito sensível, do ponto de vista político, e é um relatório muito bom. O meu grupo político irá apoiá-lo, assim como quase todas as alterações.
+
+<SPEAKER ID=57 LANGUAGE="FI" NAME="Virrankoski">
+Senhor Presidente, o senhor deputado Adam elaborou um relatório bastante competente sobre a participação da UE na construção da protecção que deverá cobrir para sempre a central nuclear de Chernobil. Os meus melhores agradecimento por esse trabalho. O relatório aborda em profundidade um tema difícil e permitiu que esta matéria fosse apresentada de forma diversificada e fundamentada.
+<P>
+O relatório demonstra a dificuldade do problema. Além do reactor que explodiu, existem em Chernobil mais três reactores nucleares obsoletos, cuja segurança de funcionamento é frágil. Esses reactores têm que ser constantemente submetidos a reparações. Embora isso pouco adiante, este trabalho gasta seis por cento do rendimento nacional bruto da Ucrânia. Considerando as verbas que são precisas para garantir pelo menos os níveis mínimos de segurança, a Ucrânia não é capaz de executar esta tarefa sozinha e necessita da ajuda externa.
+<P>
+Uma vez que Chernobil representa um risco para toda a Europa, justifica-se que também a UE participe nestes custos. Por isso, o montante de cem milhões de ecus proposto no relatório como a parte da UE é justificado. Os custos totais deste projecto são bastante elevados. Por isso, a distribuição de custos pelas diferentes entidades, da forma apresentada no relatório, é correcta. O que é preocupante é que só metade do financiamento esteja clarificado. Sendo assim, a proposta apresentada no relatório no sentido de o financiamento da UE ser feito à medida que o projecto se vai concretizando é uma solução segura e acertada.
+<P>
+Nas questões de segurança nuclear, é válido o ditado que diz de que o óptimo é inimigo do bom. Isto serve também para a indústria nuclear da Ucrânia. Naquele país, estão quase prontas duas centrais nucleares razoavelmente modernas, Hmelnitski 2 e Rovno 4. Pô-las em condições de funcionar significaria que seria possível deixar de utilizar as centrais mais velhas. Ao mesmo tempo, a economia da Ucrânia assentaria em bases mais saudáveis, porque seria possível orientá-la para outros assuntos em vez da reparação das velhas centrais. Por estas razões, deve apressar-se o financiamento do Banco Europeu para a Reconstrução e o Desenvolvimento a estes projectos, para que se possa avançar nesta questão.
+<P>
+No relatório do deputado Adam propõe-se que uma parte do financiamento seja garantida através dos fundos do TACIS e através do orçamento. Esta proposta é correcta. Também é correcto exortar a Comissão a examinar os fundos do TACIS após esta eventual decisão de financiamento. Por outro lado, até esta data, uma grande parte das verbas do TACIS, 13 %, foram gastas com a segurança nuclear. Justifica-se que assim seja. Os acidentes nas centrais nucleares serão sempre enormes e causam estragos incalculáveis.
+<P>
+A unidadeTACIS alcançou resultados importantes nesta matéria. O TACIS tem apoiado o aumento do nível tecnológico e da segurança. A comunicação tem melhorado consideravelmente porque em todas as centrais nucleares há um funcionário da União Europeia em ligação directa com o exterior da central nuclear. Desta forma, o atraso na comunicação pode ser evitado e será até possível actuar rapidamente em situações imprevisíveis. Nesta base, quero agradecer à unidade TACIS o trabalho realizado até esta data. Apoio a proposta do deputado Adam.
+
+<SPEAKER ID=58 LANGUAGE="FI" NAME="Seppänen">
+Senhor Presidente, durante o debate desta questão, ficou para nós bem claro qual é o tipo de problemas que a futura política externa e de segurança comum pode trazer para os países pequenos. É que na reunião dos países do G7 os representantes dos maiores países da UE tomaram a decisão política de os dinheiros comunitários poderem ser utilizados para a construção da protecção do reactor número 4 de Chernobil. A decisão relativa à construção da protecção é correcta. O problema surge apenas porque os dirigentes dos maiores países da UE não foram mandatados pela UE para tomar uma decisão sobre o seu financiamento.
+<P>
+O cumprimento da promessa careceu durante muito tempo de uma base jurídica. Por isso, as verbas necessárias para o efeito foram tiradas das verbas do programa de apoio, o TACIS, que inicialmente não estavam destinadas à construção da protecção do reactor de Chernobil.
+<P>
+Conforme o relatório especial do Tribunal de Contas da UE, não temos a certeza de que a transferência dos dinheiros do TACIS para melhorar a segurança nuclear da Ucrânia tenha sempre servido o objectivo desejado. A utilização dos dinheiros não foi devidamente controlada. Sendo assim, todas as exigências que o senhor deputado Adam e a Comissão dos Orçamentos propõem são justificadas. Há que acompanhar a eficácia da administração dos dinheiros.
+<P>
+Uma vez que as decisões do clube não oficial do G7 não têm nenhum vínculo jurídico, há legitimidade para verificar se também todas as outras partes do acordo cumprem as suas vagas promessas. Falta ainda metade do financiamento. Se o G7 e a UE não dão mais dinheiro, de onde será que vem essa metade que ainda falta? A exigência de que a parte da UE seja só de cem milhões de ecus parece irrealista, mas há que tentar manter esse montante inalterado.
+<P>
+Considerando a questão sob o ponto de vista da Ucrânia, há que dizer que esse país necessita de energia da mesma maneira que todos os outros. Por essa razão, a carta de intenções sobre o encerramento da central de Chernobil assinada em Dezembro de 1995 precisa de ser reforçada por outras decisões relativas à produção energética. Neste contexto, é preciso tomar posições sobre a conclusão da construção dos reactores Hmelnitski 2 e Rovno 4. Se a central de Chernobil for encerrada, estas novas centrais de energia nuclear entrarão em funcionamento ou então a Ucrânia deverá receber uma enorme ajuda energética externa.
+<P>
+Pessoalmente, sou contra a produção de mais energia nuclear. No entanto, exigir que a Ucrânia encerre Chernobil e interrompa a construção dos dois novos reactores parece ser um exagero, a não ser que lhe prestemos apoio financeiro, o que será para nós insustentável. Como o deputado Adam disse, de qualquer forma, a Ucrânia considera que a referida carta de intenções, a conclusão da construção dos novos reactores nucleares e o seu financiamento são questões interligadas.
+<P>
+Em todo o caso, se os novos reactores vão ser construídos, põe-se a questão de saber como garantir a sua segurança. Ao resolver este problema, surgem novos problemas de financiamento, nos quais o papel do BERD é decisivo. Mesmo que a central nuclear de Chernobil viesse a ser encerrada e nós a apoiássemos financeiramente, estaríamos a caminhar para uma situação em que seríamos obrigados a apoiar a utilização da energia nuclear na Ucrânia.
+
+<SPEAKER ID=59 LANGUAGE="SV" NAME="Holm">
+Senhor Presidente, o senhor deputado Adam dedicou muito trabalho a este relatório, como é revelado na exposição de motivos. Contudo, o Grupo dos Verdes no Parlamento Europeu apresentou algumas propostas de alteração através da senhora deputada Bloch von Blottnitz para melhorar mais ainda este relatório já de si satisfatório.
+<P>
+A Comissão tem por objectivo converter a actual cobertura do reactor danificado num sistema seguro para o ambiente. Como eu já disse anteriormente, este objectivo é perfeitamente irrealista. Os planos elaborados pelo grupo de peritos internacionais poderão, certamente, levar à melhoria da actual situação catastrófica e extremamente perigosa de Chernobyl, mas ninguém poderá dar garantias de segurança total. É absolutamente impossível instalar ali um sistema seguro para o ambiente, dada a existência de radiação radioactiva. Para que tal fosse possível, seria necessário proceder à descontaminação total tanto do reactor danificado, com a sua elevada radiação, como dos arredores. Este projecto seria desejável, mas é extremamente dispendioso, tornando-se secundário do ponto de vista da melhoria da segurança do reactor destruído. Para se obter um sistema verdadeiramente seguro para o ambiente deveriam ser confinados de forma exaustiva e segura todos os elementos radioactivos do reactor destruído bem como da sua cobertura. Além disso, os outros três reactores de Chernobyl deveriam ser neutralizados e todos os elementos contaminados por radioactividade da região de Chernobyl armazenados em segurança. Ainda não existem, porém, as técnicas necessárias para a neutralização do reactor danificado nem para a armazenagem segura das substâncias radioactivas.
+<P>
+A radioactividade subsiste. Recordo-me que, por ocasião do acidente de Chernobyl, na Primavera de 1986, o Serviço Nacional de Inspecção Nuclear, na Suécia, assegurou que após meio ano deixaria de existir qualquer problema de radioactividade. Não podiam estar mais enganados! Pelo contrário, há duas semanas foi publicado um relatório que revela que a radiação tem aumentado em certas regiões da Suécia. O problema é, pois, de enorme gravidade e não pode de modo algum ser ignorado.
+<P>
+No que se refere às disposições financeiras e à gestão dos recursos financeiros, a administração da UE tem-se revelado, repetidamente, mestra na burocracia e na realização de despesas desnecessárias. Também não se compreende a criação de uma rubrica específica para a informação ao público. Exceptuando o controlo rigoroso da utilização dos recursos, a gestão dos mesmos deve processar-se com a menor burocracia possível, para que partes importantes do fundo não se percam em despesas de administração, em vez de serem aplicados nos fins a que se destinam.
+<P>
+É necessário dar a máxima prioridade à rápida melhoria dos riscos de Chernobyl, inaceitáveis para a segurança, devendo a percentagem das despesas burocráticas necessárias para atingir este objectivo limitar-se a um mínimo absoluto.
+<P>
+A Comissão destaca que a contribuição comunitária para o fundo destinado à realização de uma cobertura de protecção do reactor assegura a execução das medidas previstas no plano de protecção, no contexto do Memorando de Acordo assinado entre os governos dos países membros do G-7 e o Governo da Ucrânia relativo ao encerramento da central nuclear de Chernobyl até ao ano 2000. Para além da melhoria imediata do reactor destruído, é da maior importância proceder ao encerramento de toda a central nuclear de Chernobyl.
+<P>
+A contribuição da UE para o financiamento de um novo sarcófago deve, além disso, processar-se independentemente da conclusão da construção das duas centrais nucleares ucranianas actualmente em curso. Deve ser claramente dito à Ucrânia que deverá contar com uma diminuição sensível da contribuição se a promessa de encerramento de Chernobyl não for cumprida. Deste modo, durante o período que antecede o encerramento definitivo, é necessário insistir na apresentação de provas de que estão a ser adoptadas medidas técnicas e organizativas tendentes ao encerramento.
+<P>
+As centrais nucleares não são seguras, seja dentro da UE ou fora dela, como por exemplo em Chernobyl. As centrais nucleares não têm lugar no futuro. Necessitamos de novas técnicas e de não sermos pessimistas em relação a um desenvolvimento tecnológico que beneficie todos e que se enquadre no objectivo da sociedade ecologicamente sustentável que a UE tão bem declara no novo Tratado de Amesterdão. As centrais nucleares não têm aí lugar!
+
+<SPEAKER ID=60 LANGUAGE="FR" NAME="Blot">
+Senhor Presidente, caros colegas, também eu considero o relatório do nosso colega Gordon Adam de grande qualidade técnica e votarei favoravelmente as disposições que contém. Verifico que não temos verdadeiramente escolha e que, no que se refere a Chernobyl, somos obrigados, por razões de segurança imperativas, a conceder a ajuda da União Europeia de forma algo prioritária.
+<P>
+Não é, contudo, proibido que nos interroguemos quando à racionalidade económica e política da situação em que fomos involuntariamente colocados e estudemos as alternativas possíveis. É certo que o Governo ucraniano alega que para encerrar Chernobyl seria necessário construir o mais rapidamente possível outras centrais. Encontramo-nos numa situação em que, económica e financeiramente, a ajuda que o Governo ucraniano poderá solicitar é, evidentemente, muito considerável. É lamentável que em momento algum seja prevista a possibilidade de estudar verdadeiramente a alternativa de uma solução não nuclear.
+<P>
+Ora, essa solução existe, é muito menos onerosa e mais racional sob todos os pontos de vista, mas pressupõe uma cooperação acrescida entre a Ucrânia e a Federação Russa, uma vez que é essencialmente a Federação Russa que pode, a muito curto prazo, levar à Ucrânia o gás e o petróleo de que esta necessitaria para o funcionamento das centrais térmicas que permitiriam substituir a central de Chernobyl. Lamento que a União Europeia, que, aliás, fomenta sempre a cooperação entre os diferentes Estados europeus, não o faça no que se refere à Ucrânia e à Rússia, respeitando simultaneamente, como é evidente, a soberania ucraniana.
+<P>
+Verifico, para além disso, que certas potências mundiais no plano diplomático fazem um jogo discutível, que consiste em exacerbar as contradições entre a Ucrânia e a Rússia. Penso que não é do interesse seja de quem for, nem do ponto de vista geo-estratégico, nem económico, e que será necessário abandonar esta política irracional para, ao invés, favorecer a cooperação entre a Ucrânia e a Rússia, o que permitirá, entre outras coisas, solucionar o problema energético.
+
+<SPEAKER ID=61 LANGUAGE="EN" NAME="Gilis">
+Senhor Presidente, gostaria de agradecer ao senhor deputado Adam este relatório excepcional.
+<P>
+Em 1986, assistimos ao início de uma terrível tragédia com a explosão do reactor 4. As pessoas que trabalhavam no local ou que viviam nas proximidades pagaram um preço muito elevado por falhas no projecto, manutenção muito deficiente e um ambiente de trabalho muito arriscado. Ainda hoje estão a pagar esse preço. Muitos perderam os seus filhos, a sua saúde, habitações e subsistência. Esta experiência demonstrou que o prejuízo ambiental resultante de um desastre como este não conhece barreiras nem respeita fronteiras. Por isso, os problemas de Chernobyl são também problemas nossos.
+<P>
+Desejo apoiar o relatório do senhor deputado Adam sobre o Fundo de Protecção de Chernobyl e partilho a sua opinião de que o Memorando de Acordo entre o G7, a Comissão e o Governo da Ucrânia deve ser implementado tão rapidamente quanto possível.
+<P>
+O principal objectivo do "Plano de Protecção» deve ser o de encerrar e desactivar a central completamente e o mais depressa possível. Infelizmente, é evidente que a energia nuclear continuará a ser o plano energético da Ucrânia para o futuro, de forma que são da maior importância normas rigorosas de engenharia e segurança em todas as centrais nucleares se quisermos evitar uma repetição do desastre de 1986. Infelizmente, mesmo que todas estas reparações profundas e a construção de uma cobertura eficiente e segura para o reactor 4 possam ser rapidamente concluídas, não haverá garantias e, a meu ver, o projecto continuará a ser inseguro do ponto de vista ambiental, porque a tecnologia que permitiria tornar seguro o reactor desmantelado, por um lado, e eliminar os resíduos radioactivos, por outro, ainda não existe. Precisamos de investigação constante em matéria de concepção de centrais seguras e uma resposta mais cabal a estes problemas tão difíceis. De outra forma, a humanidade continuará a viver com riscos inaceitáveis.
+
+<SPEAKER ID=62 LANGUAGE="NL" NAME="Boogerd-Quaak">
+Senhor Presidente, Senhora Comissária, penso que temos aqui um excelente relatório da autoria do senhor deputado Adam, que vem demonstrar que a política tem de manter-se alerta e bem informada neste domínio, um objectivo que conseguirá certamente realizar por via deste procedimento. O senhor deputado Adam aponta alguns aspectos críticos. Assim, é possível que o Banco Central para a Reconstrução e o Desenvolvimento não possua experiência suficiente. A forma pela qual o controlo será efectuado continua a ser difusa. O senhor deputado Adam diz, com razão, que muito dinheiro vai parar às empresas do Ocidente. Estão aqui em jogo interesses particularmente complexos, sendo por conseguinte da maior importância que nos mantenhamos atentos e, nesse sentido, o processo agora escolhido pela Comissão dos Orçamentos constitui uma jogada bastante perspicaz. Seja como for, nomeadamente a questão da responsabilidade continua a causar-me preocupação. Será que, nesse domínio, a alteração nº 3 constitui uma garantia suficiente? A energia nuclear é, em si, uma actividade cujos riscos são extremamente difíceis de segurar e, por isso, julgo que no caso de ocorrerem novos acidentes, o seguro não os cobrirá e que, tendo em conta os grandes interesses aqui envolvidos, a responsabilidade continuará a impender sobre os países do Ocidente. Daí, pois, a elevada importância de que o controlo da segurança e a vigilância se revestem.
+<P>
+Senhor Presidente, gostaria de dedicar os últimos minutos de que disponho ao tema político da independência da Ucrânia. Também lá estive, e se, por um lado, a Ucrânia diz querer ser independente da Rússia - um argumento que é bastante razoável, por outro lado, penso que ainda há questões que a Ucrânia descura, como por exemplo o da poupança energética, pois mesmo assim ainda é possível poupar aí muita energia. Com efeito, em nenhum país do mundo, por exemplo, através de um método termoeléctrico de produção, é possível poupar tanta energia como na Ucrânia. Porém, durante todo este processo de negociações, não conseguimos ainda resolver inteiramente este problema. Por isso mesmo, penso que nesta área, também a União Europeia deverá pugnar por uma nova política energética na Ucrânia.
+
+<SPEAKER ID=63 LANGUAGE="FI" NAME="Piha">
+Senhor Presidente, quero agradecer ao senhor deputado Adam pelo seu relatório que foi muito bem preparado. A eventualidade de um desastre nuclear é um bom exemplo de um perigo que ameaça os cidadãos comunitários vindo do lado de fora das fronteiras da União, e contra o qual não é possível defenderem-se com os canos das armas. Na minha opinião, o Parlamento deve assegurar que a carta de intenções seja posta em prática com a maior brevidade possível. Essa é a melhor maneira de diminuir o risco de os nossos cidadãos serem submetidos às radiações em caso de um desastre nuclear.
+<P>
+O encerramento da central nuclear de Chernobil está ligado à renovação de todo o sector energético da Ucrânia. Uma vez que as forças políticas da Ucrânia, pelos vistos, não apoiam unanimemente o encerramento da central nuclear de Chernobil, justifica-se que se concorde com a posição do relator acerca da responsabilidade da Comissão. A Comissão, cada vez que faz transferências de verbas comunitárias para a Ucrânia, deve receber do Governo desse país provas da preparação do encerramento no prazo estabelecido. Concordo com a opinião do deputado Adams, quando diz que a Comissão só pode transferir verbas para uso do fundo quando os outros financiadores do acordo tiverem pago as suas partes.
+<P>
+Seria razoável que a parte do financiamento que cabe à UE abrangesse todo o período em que o projecto de construção da protecção do reactor vai ser executado. Desta forma, será mais fácil garantir que à União não sejam constantemente exigidos financiamentos suplementares para este importante projecto, devendo o problema ficar resolvido de uma vez por todas no âmbito deste financiamento antecipadamente acordado.
+<P>
+A opinião expressa pelo deputado Seppänen após a utilização, boa ou má, dos dinheiros e antes de ser possível concluir se os mesmos são suficientes, revela uma hipocrisia perfeitamente desnecessária. Após o ano 2005, a situação financeira pode certamente ser de novo avaliada, em função do risco que ameaça a segurança dos nossos cidadãos, e, na minha opinião, temos de assumir a nossa quota de responsabilidades. O relatório é bom e eu apoio-o.
+
+<SPEAKER ID=64 LANGUAGE="SV" NAME="Lindqvist">
+Senhor Presidente, seguramente que muitos ainda se recordam do dia 26 de Abril de 1986. Nesse dia, eu encontrava-me numa ilha do arquipélago sueco de Sandhamn. Tomámos conhecimento via rádio de que tinha havido uma fuga radioactiva numa central nuclear sueca próxima, em Forsmark. Lembro-me muito bem. Foram precisos três dias para que as informações fossem corrigidas, tendo-se revelado que as radiações provinham de um reactor russo a centenas de quilómetros do arquipélago onde eu e os meus camaradas nos encontrávamos. O centro e o norte da Suécia foram fortemente afectados: os cogumelos, a caça, os frutos silvestres e os animais foram contaminados pela radioactividade. Consequentemente, muita gente das regiões afectadas, que dependia dos produtos da natureza, compreendeu que as centrais nucleares eram uma fonte de energia insegura e muitíssimo perigosa.
+<P>
+A Suécia já então tinha decidido desmantelar as suas centrais nucleares. Essa decisão foi, de facto, tomada antes de 1986. Tudo deve ser feito para que a proposta contida neste relatório seja levada à prática. O confinamento do reactor, o financiamento, a informação, a formação, a segurança ambiental, etc., devem ser levados à prática. Certamente que teremos de mobilizar recursos, juntamente com a Ucrânia e os países membros do G-7. É necessário proporcionar ao Banco Europeu para a Reconstrução e Desenvolvimento aconselhamento, conhecimentos e recursos financeiros tendo em vista a reconstrução e o desenvolvimento.
+<P>
+É muitíssimo importante que todo este processo seja marcado pela abertura, a informação e o contacto próximo com os trabalhadores e o público, e que os recursos financeiros não sejam afectados à exploração e à construção de novas centrais nucleares. Durante todo o período do projecto, de 1998 a 2005, a segurança ambiental, o controlo e o acompanhamento devem ter a maior eficácia. Gostaria de perguntar aos senhores comissários: como tencionam acompanhar este excelente relatório?
+
+<SPEAKER ID=65 NAME="Gradin">
+Senhor Presidente, Senhores Deputados, gostaria de felicitar o senhor deputado Adam pelo seu muito bem elaborado relatório. Nele se apoia a proposta da Comissão relativa a uma contribuição comunitária para o Banco Europeu para a Reconstrução e o Desenvolvimento destinada ao Fundo de Protecção de Chernobyl.
+<P>
+Através da constituição deste fundo, a comunidade internacional chamou a si a responsabilidade de ajudar a Ucrânia a pôr um ponto final à catástrofe de 1986 em Chernobyl e a tornar as centrais nucleares seguras de um ponto de vista ambiental. Através do Programa TACIS, a União Europeia tem-se colocado na vanguarda destes esforços. O Programa TACIS será sempre objecto de seguimento e de avaliação.
+<P>
+O BERD tem desempenhado igualmente um papel importante ao assumir a difícil a tarefa de administrar o projecto por conta dos financiadores, tendo conseguido dar-lhe rapidamente início. Tenho esperança de que a Ucrânia, após as eleições legislativas que se realizarão no próximo domingo, considere a contribuição da União como um sinal das nossas relações de amizade e da nossa solidariedade.
+<P>
+A Comissão deve aceitar a maioria das propostas de alteração. Resta, porém, uma questão importante, designadamente a de saber quando a União entregará a sua contribuição para o Fundo de Chernobyl. A Comissão propõe que a contribuição comunitária seja paga durante o primeiro ano do projecto. A razão principal para esta calendarização deve-se ao facto de os maiores custos terem lugar precisamente durante a fase inicial do projecto.
+<P>
+A actividade do Fundo de Chernobyl teve um arranque rápido, o que indicia uma rápida realização do projecto. Vários processos de convite à apresentação de propostas para as fases preparatórias e para a administração do projecto foram já desencadeados, pelo que em breve será possível passar à assinatura de contratos. Mas o mais importante é que as autoridades ucranianas tencionam encerrar, finalmente, a central nuclear de Chernobyl no ano de 2000. A realização de passos significativos nesse sentido, antes dessa data, é uma exigência política declarada.
+<P>
+No relatório do Parlamento propõe-se que os pagamentos se desdobrem de modo a abranger o período de 1998 a 2005. Isso justifica-se, segundo o Parlamento, porque, se a União desse a sua contribuição numa fase inicial, os outros financiadores recuariam nos seus compromissos. Creio poder tranquilizar o Parlamento. Dos cerca de 400 milhões de dólares americanos prometidos para o Fundo de Chernobyl, um montante de 178 milhões de dotações afectadas já foi pago em 1997 e 1998. Os Estados Unidos são o segundo maior financiador, a seguir à União Europeia. As dotações afectadas para o período 1997/1998 elevam-se a 54 milhões de dólares. A liquidez actual da conta do fundo já se eleva a quase 50 milhões de ecus. No entanto, a contribuição da União Europeia ainda não foi entregue. Neste contexto, a Comissão reafirma que é necessário e adequado que a contribuição europeia seja paga numa fase inicial.
+
+<SPEAKER ID=66 NAME="Presidente">
+Muito obrigado, Senhora Comissária Gradin.
+<P>
+Está encerrado o debate.
+<P>
+Vamos agora proceder à votação.
+
+<SPEAKER ID=67 LANGUAGE="SV" NAME="Holm">
+Gostaria de retirar o termo »principalmente» referido no primeiro parágrafo, passando o texto a ser o seguinte: »com a construção de uma nova nave de betão, com a ajuda financeira da UE, deverão ser alcançados os seguintes objectivos técnicos». A palavra principalmente deve, pois, ser eliminada, o que, segundo creio, poderá merecer a aceitação do senhor deputado Adam.
+
+<SPEAKER ID=68 NAME="Presidente">
+Senhores Deputados, alguém se opõe a esta alteração oral?
+
+<SPEAKER ID=69 NAME="Adam">
+Senhor Presidente, aceito com agrado a alteração com a eliminação dessa palavra. O que importa é que estamos a aprovar o plano como um todo e por isso não podemos seleccionar algumas partes como sendo prioritárias. Se a palavra "primarily», como aparece em inglês, for retirada, o texto ficará mais adequado. Nesse caso darei o meu apoio.
+
+<SPEAKER ID=70 NAME="Presidente">
+Senhores Deputados, ouvimos a opinião do relator. Uma vez que ninguém se opõe à introdução desta alteração oral, submeto-a à votação.
+<P>
+(O Parlamento aprova a alteração oral)
+<P>
+(O Parlamento aprova a resolução legislativa)
+
+<SPEAKER ID=71 NAME="Flemming, Habsburg-Lothringen, Pirker, Rack, Rübig, Schierhuber, Stenzel">
+Como deputados austríacos do Grupo PPE, e a propósito do "Shelter Implementation Plan» e do acordo sobre a desactivação de Chernobyl até ao ano 2000, celebrado entre os países do G7 e a Ucrânia, consideramos importante declarar que optámos por uma votação em consonância com a política anti-nuclear coerente que prosseguimos no Parlamento Europeu.
+<P>
+Com base no acervo comunitário, defendemos decididamente todas as medidas que garantam uma maior segurança no domínio nuclear. Contudo, qualquer associação entre a desactivação de reactores nucleares antigos e altamente perigosos e uma possível conclusão de novas centrais nucleares deverá ser rejeitada categoricamente.
+<P>
+Nesta conformidade, reconhecemos também a necessidade de um procedimento coerente do Parlamento Europeu na implementação do acordo e da resolução do problema de Chernobyl, sem, contudo, dar o aval à conclusão de outros projectos de construção no domínio nuclear, em especial nesta região.
+
+<CHAPTER ID=5>
+Acordo CE-Estados Unidos relativo aos princípios de concorrência
+<SPEAKER ID=72 NAME="Presidente">
+Segue-se na ordem do dia o relatório (A4-0104/98) do deputado Malerba, em nome da Comissão dos Assuntos Económicos e Monetários e da Política Industrial, sobre a comunicação da Comissão ao Conselho respeitante ao Acordo entre as Comunidades Europeias e os Estados Unidos da América relativo aos princípios de cortesia positiva na aplicação dos respectivos direitos de concorrência (COM(97)0233 - C4-0559/97-97/0178(CNS)).
+
+<SPEAKER ID=73 NAME="Malerba">
+Senhor Presidente, Senhora Comissária, caros colegas, na sociedade da economia global são cada vez mais numerosas as empresas de carácter multinacional e, por conseguinte, as fusões. A criação de posições dominantes e as práticas restritivas de mercado são também mais frequentes e produzem efeitos transnacionais.
+<P>
+As autoridades de defesa da concorrência têm à sua disposição alguns instrumentos para combater as práticas restritivas de relevo internacional - o ambiente por excelência será a Organização Mundial do Comércio - mas, efectivamente, um dos métodos mais praticados é o da aplicação extraterritorial da lei nacional da concorrência. Isso significa que as sanções são aplicadas, mesmo quando actividades no território de um país terceiro têm efeitos negativos sobre os respectivos mercados.
+<P>
+Em 1991, a Comissão e o Governo dos Estados Unidos estabeleceram um acordo bilateral respeitante à aplicação das regras de concorrência entre as duas partes. Esse acordo foi aprovado por este Parlamento, tendo sido eu o seu relator há uns anos atrás. O acordo de 1991 introduziu, no capítulo 5, pela primeira vez nas relações entre a União Europeia e os Estados Unidos, o conceito de comitas gentium - »cortesia activa» - positive comity em inglês. Um conceito um pouco estranho, que talvez mereça ser explicado. Um conceito em função do qual, quando uma parte é lesada por actividades anti-concorrenciais postas em prática no território de uma segunda parte, a primeira parte pode pedir à segunda parte que tome medidas de aplicação das suas - da segunda parte, evidentemente - leis anti-concorrência.
+<P>
+O presente acordo, sobre o qual, neste momento, esta assembleia é chamada a dar o seu voto, representa um novo progresso em relação ao acordo de 1991, porque não só fornece directivas acerca da forma como devem ser tratados os pedidos de cortesia activa, de positive comity , como também implica, em termos de presunção, que, quando uma parte considera que é vítima de práticas anti-concorrenciais no âmbito do território da outra parte, a primeira parte deverá, por norma, suspender as disposições previstas no seu próprio sistema; por outras palavras, abster-se de pôr em prática medidas extraterritoriais.
+<P>
+A questão essencial reside, portanto, na aplicação extraterritorial das regras de concorrência. De tempos a tempos, os Estados Unidos e a União Europeia procuram também aplicar as suas regras de concorrência a actividades que têm lugar noutros países; em especial, os Estados Unidos reivindicam o poder de aplicar as suas regras de concorrência sempre que houver prejuízo para as suas exportações, e não apenas quando há prejuízo para o consumidor. Assim, o presente acordo pretende substituir os métodos de aplicação extraterritorial das regras de concorrência no tratamento das práticas anti-concorrenciais pela cooperação internacional. Deste modo, ainda que apenas bilateral, o acordo parece-me apontar para a direcção certa e eu recomendo a sua aprovação.
+<P>
+No entanto, uma palavra de cautela e de preocupação foi pronunciada nos meios económicos da União Europeia relativamente às disposições em matéria de confidencialidade na troca de informações entre as autoridades de concorrência. Isso, sobretudo, porque as informações de que a Comissão Europeia dispõe são mais numerosas do que as informações de que dispõem as autoridades de concorrência americanas.
+<P>
+Nestas circunstâncias, recomendo à Comissão que tenha em linha de conta, na próxima elaboração de um acordo de segunda geração, que está em vias de ser redigido, a possibilidade de se permitir a troca de informações confidenciais sem o consentimento das partes.
+
+<SPEAKER ID=74 LANGUAGE="EL" NAME="Karamanou">
+Senhor Presidente, Senhora Comissária, caros colegas, não é a primeira vez que vêm a debate na assembleia questões que dizem respeito às novas relações euro-americanas, e sempre são expressas por todas as alas do Parlamento sérias reservas, já que permanece ainda difuso o clima de desconfiança entre ambas as partes do Atlântico.
+<P>
+Todavia, não se pode deixar de apreciar os esforços difíceis do vice-presidente da Comissão, Sir Leon Brittan, para promover o projecto de um novo mercado trans-sectorial e isso apesar das dificuldades que encontra tanto nas questões técnicas como nas questões políticas, como se observou no último Conselho "Assuntos Gerais» que teve lugar na passada segunda-feira.
+<P>
+É sabido que foram manifestadas objecções muito sérias por parte da França, as quais não podem, como é evidente, ser ignoradas, bem como as reservas formuladas por outros Estados-Membros, os quais, embora não discordem do princípio, colocam condições e requisitos para a promoção de um mercado comum euro-atlântico, designadamente a salvaguarda das regras da OMC, a resolução de problemas resultantes da aplicação das famosas leis extraterritoriais Helms-Burton e D'Amato-Kennedy e, evidentemente, sempre na condição de sectores da economia agrícola e do audiovisual permanecerem fora do projecto.
+<P>
+Em relação à cooperação na aplicação das regras de concorrência proposta no relatório do senhor deputado Malerba, não há dúvida de que a proposta do Conselho e da Comissão é positiva e ninguém pode opor-se a que haja um quadro de disposições regulamentares. Todavia, o acordo apresenta graves deficiências, na medida em que a sua aplicação não tem nem carácter obrigatório nem assenta numa base jurídica forte, antes constitui um compromisso político em matéria de cooperação, o qual ainda por cima exclui as fusões das empresas.
+<P>
+Desta forma, é natural que as empresas europeias manifestem reservas e preocupações especialmente no que se refere ao intercâmbio de informações económicas e às disposições em matéria de sigilo. Os empresários europeus estão preocupados com a possibilidade de os seus interesses legítimos serem prejudicados, se os Estados Unidos obtiverem o livre acesso a todas as informações secretas, e é natural que haja receio e desconfiança, uma vez que o nosso parceiro do outro lado do Atlântico é acusado de um número enorme de violações a nível internacional que mostram que não respeita as normas e os acordos internacionais, enquanto a sua insistência em manter as leis extraterritoriais, apesar do recente abrandamento das medidas contra Cuba, ilustra bem a sua mentalidade. É um facto que os Estados Unidos exigem que os outros respeitem as regras de concorrência e do mercado livre, reservando sempre para si próprios o direito de as violarem.
+<P>
+Existe ainda um outro problema sério: embora tenhamos decidido que em cada acordo assinado entre a União Europeia e os países terceiros são incluídas cláusulas relativas ao respeito pelos direitos humanos de acordo com os valores humanistas europeus, tenho a impressão de que essa exigência é sistematicamente posta de lado quando se trata do nosso parceiro poderoso da outra margem do Atlântico. Concretamente, refiro-me à questão da pena de morte que continua a existir num grande número de Estados e que tanto choca a opinião pública mundial de cada vez que há uma execução; pessoalmente, chocam-me de igual modo as execuções públicas nos Emirados Árabes Unidos e nos Estados Unidos.
+<P>
+E uma outra coisa igualmente grave diz respeito à redução das contribuições dos Estados Unidos para a ajuda aos países do Terceiro Mundo, de que resulta que as mortes infantis atingem anualmente os 12 milhões. Isto é, enquanto hoje a União Europeia dá 0, 4 % do produto interno bruto à ajuda humanitária, os Estados Unidos dão apenas 0, 1 %, menos do que o Japão que dá 0, 28 %. Também é sabido como é um mau pagador em relação à Organização das Nações Unidas.
+<P>
+Não são estas questões que impedem a criação de uma concepção comum e de uma agenda comum para as questões da democracia, da cooperação internacional e de uma ordem mundial viável e justa com que sonhamos no Parlamento Europeu e na União Europeia? Apesar de tudo isto, porém, vamos votar a favor do acordo.
+
+<SPEAKER ID=75 LANGUAGE="DE" NAME="Kittelmann">
+Senhor Presidente, Senhores Deputados, antes do mais, os meus sinceros agradecimentos ao relator pelo seu excelente relatório. O acordo aqui em apreço representa uma nova tentativa dos dois maiores mercados do mundo, dos dois parceiros comerciais mais importantes, no sentido de conseguirem um acordo, onde até à data sempre houve dificuldades.
+<P>
+Em nome do Grupo do Partido Popular Europeu, queria declarar que aprovamos este acordo. Contudo, uma atitude autocrática por parte dos Estados Unidos da América tem frequentemente como consequência a aplicação duvidosa, sob o prisma do direito internacional, de disposições legislativas americanas, sendo Helms-Burton e d'Amato apenas dois exemplos. Também no âmbito do direito internacional em matéria de concorrência, no Texas ou em qualquer outro lugar pensa-se que é possível aplicar as próprias regras, não sendo necessário ter em consideração as disposições do direito internacional. Porém, tudo isso não nos deverá impedir de, passo a passo, fazermos a tentativa de convencer os americanos, na sua globalidade, a celebrar acordos que acabem por cumprir.
+<P>
+Aliás, não compreendo muito bem o que a pena de morte ou a ajuda ao desenvolvimento em termos não satisfatórios tem a ver com isto. Se forem analisar as rubricas orçamentais europeias nos parlamentos nacionais, constatarão que também sob responsabilidade socialista se reduz progressivamente a ajuda ao desenvolvimento. Não devemos misturar alhos com bugalhos.
+<P>
+A atitude autocrática americana é um dos aspectos que devemos ter em consideração. No entanto, também devemos ter em consideração que os americanos conseguiram, em colaboração connosco, pôr em prática muitas coisas em muitos domínios. De facto, sem a solidariedade entre a Europa e a América nunca teria existido o alargamento no âmbito do GATT-OMC. É preciso ver as questões também sob um prisma positivo e não estar sempre a bater nos americanos.
+<P>
+A nossa ideia do direito da concorrência dever-se-á, portanto, impor a nível internacional. Se os americanos e os europeus chegarem a um acordo, teremos de facto dado um passo decisivo. Por esta razão, o alargamento através de um acordo-quadro bem definido é necessário, e é isso que se está a tentar aqui. O acordo, por si só, é apenas uma declaração de compromisso a nível político. Porém, no seu seguimento, as normas comerciais acordadas levarão pelo menos a que, em caso de litígio, sejam envidados esforços para chegar a um resultado racional. O que merece aplausos. Por este motivo, não é necessário fazer qualquer esforço especial, fora do comum, para aprovar o presente acordo.
+<P>
+Com o acordo entramos felizmente num domínio que, com a crescente globalização, se reveste de importância decisiva para a manutenção de uma economia livre, a nível mundial. A cooperação internacional no domínio da concorrência será uma das principais tarefas da economia externa no princípio do século XXI.
+<P>
+A globalização - todos nós o sabemos - conduz a uma concorrência a nível mundial. A Europa faz parte integrante desta concorrência a nível mundial. Após a introdução do euro, desempenharemos um papel ainda mais importante na concorrência internacional. Devemos, por conseguinte, envidar os maiores esforços para conseguir chegar a um entendimento. A celebração do presente acordo é um passo - se bem que seja apenas um pequeno passo - na via de uma ampla liberalização de todos os domínios do comércio transatlântico. Das minhas observações poderão depreender qual a razão que leva o Grupo do Partido Popular Europeu a aprovar o acordo e faço um apelo ao plenário para que o aprove na sua globalidade.
+
+<SPEAKER ID=76 LANGUAGE="FI" NAME="Seppänen">
+Senhor Presidente, a concorrência e a liberdade de concorrência estão a ser consideradas muitas vezes como temas apolíticos de que o capitalismo global necessita para poder existir. Os Estados Unidos procuram muitas vezes estender as suas leis internas ao território dos outros países. Exemplos disto são as leis de Helms-Burton e de D'Amato. Desta forma, os Estados Unidos fizeram leis políticas. Essas leis contrariam a liberdade de concorrência. Assim, afinal, os mercados e a concorrência não são assuntos apolíticos, e a liberdade de concorrência absoluta não existe.
+<P>
+Nós, os políticos europeus, devemos tomar decisões políticas e fazer leis, pois é essa a função dos políticos. A liberdade dos consumidores significa que nós não somos obrigados a comprar a carne americana criada com hormonas ou a soja geneticamente manipulada. Nestas questões, a liberdade de concorrência dos produtores americanos vai contra a saúde dos consumidores europeus.
+<P>
+As empresas americanas e as empresas multinacionais pretendem uma liberdade de concorrência baseada unicamente na caça ao lucro, sem nenhumas responsabilidades sociais ou ecológicas. A concorrência pode causar doenças ou matar, e por isso cabe aos políticos assumir responsabilidades em matérias de interesse comum, cabe-lhes proteger as pessoas e a natureza.
+<P>
+Com tudo isto quero eu dizer que não existe uma liberdade de concorrência apolítica. As regras do jogo podem ser clarificadas pelo acordo que agora está em debate e faz sentido aprová-las. Mas já se está a dar um novo passo. Trata-se do acordo AMI. Desta forma, os políticos submetem-se pouco a pouco à ditadura dos mercados. A liberdade de concorrência absoluta é isso mesmo, uma ditadura dos mercados.
+
+<SPEAKER ID=77 NAME="Presidente">
+Muito obrigado, Senhor Deputado Seppänen.
+<P>
+Senhores Deputados, esta presidência solicita aos senhores deputados que desliguem os telefones durante o debate para que possam concentrar-se nas coisas importantes que aqui são ditas nas manhãs de sexta-feira. Não se trata de uma proibição, de facto, mas constitui um elemento de distorção, e seria bom poder prescindir do mesmo.
+
+<SPEAKER ID=78 LANGUAGE="FR" NAME="Souchet">
+Senhor Presidente, o relatório do senhor deputado Malerba advoga a actualização de um acordo negociado pela Comissão num sector particularmente sensível das nossas relações com os Estados Unidos: as consequências extraterritoriais de diferentes direitos da concorrência. Mas este acordo deixa intacto o problema de princípio colocado pelo carácter extraterritorial das recentes disposições legislativas federais ou locais americanas.
+<P>
+Portanto, a principal questão que hoje se levanta é a de saber se a Comissão vai recuar relativamente à suspensão do painel da OMC, relativo à Lei Helms-Burton, que solicitou há cerca de um ano na perspectiva nunca concretizada de que o Congresso alterasse o seu título 4. Esta suspensão deixou, portanto, de ter sentido, e se não for levantada antes de meados de Abril será o conjunto do processo, tal como foi conduzido pela Comissão, que se terá malogrado em prejuízo dos interesses europeus.
+<P>
+De qualquer maneira, uma violação do direito internacional jamais poderá ser objecto de transacções, como acaba de o indicar a presidente da nossa Comissão para as Relações Económicas Externas, a senhora deputada Castellina. Esta atitude laxista da Comissão leva a que nos interroguemos fortemente sobre os possíveis resultados de uma negociação conduzida pela mesma e destinada a realizar uma zona de comércio livre transatlântica. O exercício seria, de qualquer modo, desigual, uma vez que um grande número de domínios visados por este projecto é, deste lado do Atlântico, da competência comunitária, e da responsabilidade dos Estados federados do lado de lá.
+<P>
+E como obter de Washington uma diminuição das barreiras alfandegárias quando os organismos normativos e de controlo são independentes do poder político?
+<P>
+Os Estados Unidos procuraram desde sempre, e por diversas vias, obter uma espécie de direito de observação sobre o funcionamento interno da União Europeia. Se hoje se associam à iniciativa pessoal do senhor comissário Brittan é porque vêem nela uma oportunidade, numa altura em que o euro e o alargamento passarão a ser uma realidade, para se inserirem no processo de decisão europeu.
+<P>
+Não se trata aqui de criticar os americanos por defenderem com vigilância e inteligência os seus interesses. Não, o que espanta é a fraca resistência que opõem às tentativas daqueles uma Comissão dividida, o que conduz a que nos interroguemos sobre o funcionamento da colegialidade, e um Conselho receoso, que se deixa levar pelo projecto pessoal de Sir Leon Brittan. Senhor Presidente, esta União Europeia defenderá realmente os interesses dos europeus?
+
+<SPEAKER ID=79 LANGUAGE="DE" NAME="von Habsburg">
+Senhor Presidente, o presente relatório do senhor deputado Malerba é, sem dúvida, um excelente relatório. Está bem redigido. Mas, mesmo assim, vejo-me obrigado a fazer algumas observações no que diz respeito a toda a orientação, mas também a algumas intervenções neste debate. Aprecio muito o que o senhor comissário Leon Brittan fez, por saber que os seus esforços foram no sentido de conseguir, de alguma forma, que criássemos, juntamente com os EUA, uma comunidade mais ou menos aceitável neste domínio específico. Trata-se, portanto, de uma tentativa muito válida. Apesar disso, tenho de dizer que muitos aspectos demonstram que esta tentativa não poderá ser muito bem sucedida, e isto por uma simples razão: os americanos são certamente os nossos amigos. Devemos estar-lhes muito gratos. Mas, por outro lado, uma potência que até se tem arrogado o direito de se sobrepor aos usos e costumes e às leis internacionais, intervindo em casos que não lhe dizem respeito, não poderá continuar eternamente a impor-se no domínio económico.
+<P>
+Queria chamar sobretudo a atenção para aquilo que é implementado frequentemente através da legislação extraterritorial. Com efeito, é realmente genial como os interesses económicos americanos conseguem sempre encontrar algum meio - precisamente o que se censura os japoneses - de não terem de cumprir na prática os compromissos que assumiram por escrito, uma questão que se coloca sobretudo na legislação internacional. Gostaria aqui de fazer referência, por exemplo, a um facto que atinge, sem dúvida, o nosso comércio: trata-se das recentes medidas americanas, de acordo com as quais já não é permitido transmitir na televisão eventos desportivos realizados na Europa, pelo facto de aparecer publicidade a bebidas alcoólicas, como vinho e outras. Esta medida atinge fortemente os nossos interesses, uma vez que nos exclui, a priori , da concorrência. Creio que, a este respeito, devíamos ter presente um aspecto - e, neste caso, concordo com o senhor deputado Souchet, se bem que não partilhe em tudo a sua opinião -: a verdade é que, infelizmente, os americanos têm um governo forte, que sabe o que quer, que traçou uma linha política, e nós ainda não temos nenhuma entidade dotada de verdadeiros poderes de decisão que oriente a política externa. Se tivéssemos esta entidade, estaríamos, sem dúvida, muito melhor!
+<P>
+
+<SPEAKER ID=80 NAME="Gradin">
+Senhor Presidente, muitas empresas desenvolvem actualmente a sua actividade por todo o mundo. Várias delas estabelecem alianças estratégicas para, através de um parceiro internacional, consolidar a sua posição nos mercados externos. Deste modo, as consequências económicas das concentrações, as práticas anti-concorrenciais ou o abuso de uma posição dominante afectam, frequentemente, outros países para além daqueles onde as empresas envolvidas têm a sua sede.
+<P>
+Uma das formas de as autoridades reguladoras da concorrência porem termo às práticas anti-concorrenciais no plano internacional será a aplicação extraterritorial das regras de concorrência. Isto significa que um país afectado negativamente por práticas anticompetitivas noutro país procura aplicar as suas próprias regras de concorrência para resolver o problema. Muitos sistemas jurídicos adoptam este procedimento, e isso também na União Europeia. Os EUA recorrem bastante à aplicação extraterritorial das regras de concorrência. Como sabem, este procedimento, tem gerado tensões políticas entre a União e os EUA. A aplicação extraterritorial das regras de concorrência conduz também a vários problemas de ordem prática. A jurisdição sobre pessoas fora do próprio país não é aplicável, sendo igualmente difícil recolher provas no estrangeiro.
+<P>
+Em 1991 celebrou-se um acordo entre a UE e os EUA relativo à aplicação dos respectivos direitos de concorrência. Este acordo veio introduzir o princípio do positive comity , ou seja da «cortesia positiva». A aplicação deste princípio permite que, caso qualquer das partes do acordo considere que importantes interesses seus são negativamente afectados por actividades anticoncorrenciais no território da outra parte, pode requerer às autoridades competentes da outra parte que tomem as medidas de execução apropriadas. Apesar da introdução deste princípio no acordo de 1991, os EUA continuam a recorrer à aplicação extraterritorial das regras de concorrência. Para aprofundar a cooperação, é necessária uma aplicação melhor e mais eficaz do princípio da cortesia positiva.
+<P>
+Em 1996, a Comissão encetou negociações com os Estados Unidos. A proposta do novo acordo contém, principalmente, orientações sobre a forma como os pedidos de cortesia positiva devem ser tratados. Além disso, o acordo define determinadas circunstâncias em que as partes adiarão ou suspenderão a aplicação das suas medidas de execução. Em vez disso, o país prejudicado pode requerer às autoridades competentes do país onde se verificam as actividades anti-concorrenciais que tomem as medidas de execução apropriadas.
+<P>
+Nesta proposta de acordo excluem-se as actividades de concentração e de fusão de empresas. Tanto a legislação americana como a europeia relativas aos procedimentos de fusão impedem o seu adiamento ou suspensão. As informações confidenciais fornecidas à Comissão são fortemente protegidas pela legislação comunitária. Posso, assim, tranquilizar o Parlamento. A Comissão apenas pode ignorar a exigência de confidencialidade se obtiver previamente autorização da empresa envolvida.
+<P>
+As autoridades competentes devem cooperar para que os problemas resultantes de práticas anti-concorrenciais entre as empresas no mercado mundial possam ser eficazmente resolvidos. A proposta de acordo constitui uma expressão do empenho político de ambas as partes em cooperarem, em vez de aplicarem as respectivas legislações anti-monopolistas no território da outra parte. Deste modo, o acordo em apreço representa uma evolução importante nas relações entre a UE e os EUA. Este aspecto também é claramente referido no bem elaborado relatório do senhor deputado Malerba.
+
+<SPEAKER ID=81 NAME="Presidente">
+Muito obrigado, Senhora Comissária Gradin.
+<P>
+Está encerrado o debate.
+<P>
+Vamos proceder agora à votação.
+<P>
+(O Parlamento aprova a resolução legislativa)
+
+<SPEAKER ID=82 NAME="Presidente">
+O senhor deputado Rübig pede para usar da palavra, nos termos do artigo 19º do Regimento.
+
+<SPEAKER ID=83 LANGUAGE="DE" NAME="Rübig">
+Senhor Presidente, nos termos do artigo 19º do nosso Regimento, queria informar que hoje expira o prazo para a inscrição da declaração escrita "Sign against crime» . Até ao momento, 154 deputados assinaram esta declaração, em conformidade com o artigo 48º do Regimento, pelo que lhes queria expressar os meus sinceros agradecimentos. Neste contexto dirijo-lhe também os meus agradecimentos, Senhor Presidente, pela disponibilidade manifestada no sentido de apoiar activamente os nossos propósitos. Bruxelas tem de ser a capital mais segura da Europa.
+<P>
+Como observou acertadamente, necessitamos, em particular, de um reforço das forças policiais no bairro da Europa, de uma esquadra de polícia própria e de um número de telefone de emergência internacional, em várias línguas, como apoio em caso de problemas relacionados com a criminalidade. Nos termos do nº 4 do artigo 19º do Regimento, é o senhor presidente quem representa o Parlamento também em assuntos externos. Permita-me, pois, dirigir-lhe o pedido para que continue a defender empenhadamente os nossos interesses. Espero que, dentro em breve, possa dar ao plenário informações positivas.
+<P>
+
+<SPEAKER ID=84 NAME="Presidente">
+Muito obrigado, Senhor Deputado Rübig.
+<P>
+Pede agora o uso da palavra o senhor deputado Manisco.
+
+<SPEAKER ID=85 LANGUAGE="IT" NAME="Manisco">
+Senhor Presidente, gostaria apenas de dizer que votei contra o relatório Malerba. O senhor presidente só mencionou duas abstenções.
+
+<SPEAKER ID=86 NAME="Presidente">
+Muito obrigado, Senhor Deputado Manisco. Apresento-lhe as minhas desculpas; não olhei para a esquerda, o que, no meu caso, Senhores Deputados, é ainda mais difícil de compreender. Apresento-lhe, por conseguinte, as minhas desculpas duplamente: ao senhor deputado pessoalmente, e ao lugar que ocupa. Olhei para a direita, para o centro, para a esquerda, mas não para a extrema esquerda. Apresento-lhe as minhas desculpas, Senhor Deputado Manisco, e tomo nota do seu voto contra.
+<P>
+Tem a palavra o senhor deputado Schulz para um ponto de ordem.
+
+<SPEAKER ID=87 NAME="Schulz">
+- (DE) Permita-me uma observação a respeito da intervenção do colega Rübig.
+
+<SPEAKER ID=88 NAME="Presidente">
+Senhor Deputado Schulz, a questão que levanta não é um ponto de ordem. Poderia, inclusivamente, abrir um debate, e eu peço-lhe que não abra agora um debate. Permita-nos simplesmente tomar nota das observações do senhor deputado Rübig, que as apresentou nos termos do artigo 19º do Regimento e que constarão em acta, como compete. Mas se o senhor deputado insiste, como as manhãs de sexta-feira são muito especiais, concedo-lhe o uso da palavra pelo tempo de um minuto.
+
+<SPEAKER ID=89 LANGUAGE="DE" NAME="Schulz">
+Senhor Presidente, sabia que é uma pessoa compreensiva. Certamente ainda encontrará um artigo que me permita falar durante um minuto e meio. Ocupando-me eu da cooperação policial e judiciária na União Europeia, apoio em princípio o propósito do colega Rübig.
+<P>
+Não aplaudam antes do tempo. Senhor Presidente, peço-lhe que deduza o tempo dos aplausos e dos apartes do meu tempo de uso da palavra. Por princípio, apoio a iniciativa, colega Rübig, uma vez que o senhor deputado também é defensor da segurança dos colegas desta assembleia. No entanto, queria colocar à consideração do colega um aspecto que me parece muito importante nas negociações com as autoridades belgas. A insegurança no bairro Leopold tem também algo a ver connosco. Tem alguma coisa a ver com o facto de, aos olhos de muitos, evidentemente também de criminosos, sermos pessoas que vale a pena assaltar, o que tem como consequência - o seu apoio com o martelo insere-se correctamente na situação, Senhor Presidente - que os moradores do referido bairro - as pessoas que ali vivem no seu dia-a-dia, ou seja os belgas, que aliás já estão a sofrer com a nossa presença, devido à especulação que o Parlamento Europeu ali originou no que diz respeito a rendas de casa e preços de terrenos - sejam também, evidentemente, vítimas da criminalidade. Por esta razão, agradecia que futuramente não nos referíssemos apenas a nós, mas também às pessoas que ali vivem. A esquadra de polícia que se pretende instalar nesse bairro também servirá os cidadãos belgas. Considero justo, colega Rübig, mencionarmos todas as pessoas atingidas.
+
+<SPEAKER ID=90 NAME="Presidente">
+Senhores Deputados, por favor, não vamos abrir um debate. Foram emitidos dois pareceres. Penso que deveríamos preparar-nos para terminar calmamente o final desta sessão.
+<P>
+O Parlamento esgotou os assuntos inscritos na ordem do dia. A acta da presente sessão será submetida à aprovação do Parlamento no início da próxima sessão.
+<P>
+Senhores Deputados, permitam-me que sinta, mais uma vez, a satisfação de agradecer, à sexta-feira, a colaboração de todos os serviços da assembleia, sobretudo na perspectiva de que nos esperam alguns dias de descanso. Descanso das gargantas, descanso dos músculos, mas, fundamentalmente, descanso da tensão decorrente da responsabilidade do trabalho quotidiano nesta importante instituição. Esta manhã, o senhor deputado Hallam, ao iniciar os nossos trabalhos, propiciou-me mais um motivo de reflexão para avaliar o trabalho dos senhores deputados nas manhãs de sexta-feira. Recordou-nos que nas manhãs de sexta-feira não há cobertura televisiva. É uma irregularidade sobre a qual me debruçarei e que tentarei suprir, mas, de todas as formas, não deixa de ser também um mérito que os senhores deputados estejam aqui sem a possível gratificação de ver o seu trabalho e a sua imagem aparecer na televisão.
+<P>
+Por conseguinte, Senhores Deputados, declaro-os egrégios membros do clube das sextas-feiras.
+
+<CHAPTER ID=6>
+Interrupção da sessão
+<SPEAKER ID=91 NAME="Presidente">
+Dou por interrompida a sessão do Parlamento Europeu.
+<P>
+(A sessão é suspensa às 11H35)
+

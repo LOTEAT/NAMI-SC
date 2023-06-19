@@ -1,0 +1,114 @@
+<CHAPTER ID="018">
+Az egységes eurófizetési térség (SEPA) megvalósítása (vita)
+<SPEAKER ID="479" NAME="Elnök">
+A következő napirendi pont az egységes eurofizetési térség (SEPA) megvalósítására vonatkozó, a Gazdasági és Monetáris Bizottság nevében Berès asszony által a Bizottsághoz intézett szóbeli választ igénylő kérdés vitája.
+<SPEAKER ID="480" NAME="Pervenche Berès" LANGUAGE="FR">
+Elnök úr! A Gazdasági és Monetáris Bizottság nevében beszélek. Biztos asszony, az Európai Parlament előadónk, Gauzès úr felügyelete mellett sokat tett azért, hogy a SEPA - Single Euro Payment Area - egységes eurofizetési térség - projekt megvalósításához szükséges jogalkotási intézkedések megszülethessenek.
+<P>
+A kísérő jogszabály - a fizetési szolgáltatásokról szóló irányelv - megalkotásakor felmerült bennünk néhány kérdés. Ma úgy látjuk, hogy ezek a kérdések valószínűleg megalapozottak voltak.
+<P>
+Ma, amikor a projektet el kell indítani, van néhány aggályunk, mert nem az a benyomásunk, hogy a mobilizáció szintje - amely számomra úgy tűnik, hogy nincs összefüggésben a válság kihívásaival - nem éppen olyan, mint amilyennek lennie kellene.
+<P>
+Az a helyzet azonban, hogy e projekt esetében - amely sok támogatást kapott az ágazat szereplőitől és a jogalkotótól, de amelynek mindenekelőtt korszerű, közös valutánk, az euró létezéséhez illeszkedő fizetési eszközt kell biztosítania - fennáll annak a veszélye, hogy nem éri el a teljes hatékonyságához szükséges kritikus tömeget.
+<P>
+Különösen aggaszt bennünket, hogy a SEPA-projekt automatikus terhelési rendszerének bevezetése - amely kétségtelenül e projekt legeredetibb megoldása - bizonyos nehézségekbe ütközik.
+<P>
+Úgy tűnik számunkra, hogy a Bizottság feladataira vonatkozóan két kérdés merül fel. Először is, a Bizottság hogyan kívánja előmozdítani és támogatni a SEPA-fizetőeszközökre való áttérést? Az ütemtervet meghatározták, és egyértelműen látszik, hogy az nem vesz figyelembe minden gyakorlati elemet. Másodszor, a Bizottság azon a véleményen van-e, hogy a tranzakciók kritikus tömege esetében a SEPA-eszközökre való áttérésnek 2010-ig meg kell történnie, és ha nem, mit kell tenni ennek elérése érdekében?
+<P>
+E jogszabály elfogadásakor a SEPA-eszközökre való áttérésre vonatkozóan nem határoztunk meg egyértelmű és kötelező időpontot. Úgy gondoljuk, hogy kétségtelenül itt az ideje, hogy ezt megtegyük. Megértjük, hogy maradt még néhány nyitott kérdés a nemzeti rendszerek és a SEPA-rendszer összeegyeztethetőségével, valamint azzal kapcsolatosan, hogy mit jelent a végleges áttérés, de úgy gondoljuk, hogy a Bizottság feladata az iparág támogatása abban, hogy fennmaradó kérdéseikre megoldást találjanak.
+<P>
+Itt van továbbá a bankközi díjak kérdése, amelyet nyilvánvalóan nem vettek figyelembe, vagy elhanyagoltak, miközben ez a SEPA-projekt sikere vonatkozásában számos szereplő számára központi kérdés. Ebből a szempontból néha úgy tűnik, hogy a különböző illetékes szervek - legyen szó a banki szakágazatról, a Belső piaci és Szolgáltatási Főigazgatóságról vagy a Versenypolitikai Főigazgatóságról - némiképp egymásra hárítják a felelősséget.
+<P>
+Lehet, hogy a jogalkotó feladata, hogy beszéljen ezekkel a szereplőkkel, és bizonyos felelősségérzetet kérjen számon rajtuk. Úgy érezzük, hogy ezen a ponton nem kérdőjelezhetünk meg egy következetes jogszabályt anélkül, hogy ne támogatnánk a piaci szereplőket az alternatív rendszer kialakítására irányuló erőfeszítéseikben. Pontosan ez az a nehézség, amely a bankközi díjak kérdése ügyében felmerül.
+<P>
+A Versenypolitikai Főigazgatóság bizonyos esetekben jelezte, hogy úgy ítéli meg, hogy e jogszabály a versenyszabályokkal ellentétes, viszont úgy látja, hogy az iparágnak kell alternatív megoldást találnia. A helyzet az, hogy a tagállamok szintjén meglévő alternatív megoldásokat a Versenypolitikai Főigazgatóság nem próbálta ki. Ezért nem lehet tudni, hogy a Versenypolitikai Főigazgatóság támogatná-e azokat, vagy hogy egyes megoldások alkalmasak-e az előttünk álló problémák megoldására.
+<P>
+Például, képzeljük el, hogy egy bankközi rendszer finanszírozása a jogszabály alapján bevezetett szankciókon, azaz az elkövetett hibákon nyugszik. A gyakorlatban ez igen sokszor azt jelentené, hogy a legkiszolgáltatottabb embereknek kellene fizetni, ami nekem nem tűnik ésszerűnek, vagy társadalmilag igazságosnak.
+<P>
+Ezért felszólítom a Bizottságot, hogy két fontos pontra vonatkozóan hozzon intézkedést: határozza meg az áttérés végső határidejét és segítsen egy alternatív rendszer, vagy a Szerződés bankközi cserére vonatkozó szabályai szempontjából elfogadható rendszer meghatározásában.
+<SPEAKER ID="481" NAME="Androulla Vassiliou">
+a Bizottság tagja. - Elnök úr! Mindenekelőtt McCreevy biztos úr sajnálkozását szeretném tolmácsolni, amiért nem tud jelen lenni.
+<P>
+Tehát, ez valóban egy hosszú kérdés, de úgy gondolom, hogy mind a kérdés, mind pedig a SEPA megvalósítására vonatkozó állásfoglalástervezet helyesen határozza meg azokat a kulcsfontosságú kérdéseket, amelyeket a SEPA sikere érdekében meg kell oldanunk.
+<P>
+Az első kérdés arra vonatkozik, hogy a Bizottság hogyan kívánja előmozdítani és elősegíteni a SEPA-eszközökre való áttérést.
+<P>
+A SEPA elsősorban egy piacvezérelt projekt, de figyelembe véve a szélesebb értelemben vett gazdaság számára nyújtott jelentős előnyöket, a Bizottság törekedett a SEPA-ra való áttérés ösztönzésére, például azáltal, hogy a SEPA-ról szóló előrehaladási jelentésünkön keresztül a SEPA politikai profiljának növelése érdekében katalizátorként lép fel, és a hatóságokat a korai áttérésre ösztönzi. Ezenkívül arra törekedett, hogy maga is a SEPA korai alkalmazójává váljon. Végül, amint az a Bizottság múlt heti, "Impulzusok az európai gazdaság élénkítéséhez” című javaslatában szerepel, a SEPA megvalósításából eredő előnyök biztosítása érdekében javaslatokat terjeszt elő.
+<P>
+A második kérdés arra vonatkozik, hogy a fizetések kritikus tömege 2010 végéig áttér-e. Mi az áttérés alatti többletköltségek minimalizálása érdekében egyértelműen a gyors áttérést támogatjuk. Bár a SEPA átutalási rendszert (SCT) sikeresen bevezették, a fizetések kevesebb mint 2%-a tért át. Ezenkívül a SEPA automatikus terhelést csak az év későbbi időszakában vezetik be. Tehát az áttérés jelenlegi üteme túl lassú ahhoz, hogy a kritikus tömeget 2010-ig elérjük.
+<P>
+A harmadik kérdés az egyértelmű és kötelező végső időpont szükségességére vonatkozott. Látjuk, hogy milyen előnyei vannak egy végső határidő meghatározásának, és természetesen 2012 nem tűnik ésszerűtlennek. Számos tagállam esetében azonban ez továbbra is igen kényes kérdés. Ezért e kérdés vizsgálatára egy világos folyamat létrehozását támogatjuk, amelynek során összegyűjtjük azokat az információkat, hogy a végső határidő milyen hatással van a különböző érdekelt felekre, és körültekintő vitát indítunk velük.
+<P>
+Ez elősegíthet valamiféle politikai jóváhagyást, és szükség esetén egy lehetséges jogalkotási javaslatot, például az év végén.
+<P>
+Negyedik kérdése arra vonatkozik, hogy a SEPA automatikus terhelés esetében a multilaterális bankközi díjakkal és a meglévő megbízásokkal kapcsolatosan hogyan lehet fokozni a jogbiztonságot.
+<P>
+Az egyértelmű jogi megítélés biztosítása, valamint a SEPA automatikus terhelés sikeres bevezetése érdekében az üzleti modell problémájának ideiglenes megoldására van szükségünk. A Bizottság ezért teljes mértékben támogatja azokat az erőfeszítéseket, amelyeket a Parlament és a Tanács a határokon átnyúló fizetésekről szóló rendelet felülvizsgálatának keretében az ideiglenes megoldás érdekében fejt ki.
+<P>
+A Bizottság támogatja továbbá a meglévő nemzeti automatikus terhelési megbízások folyamatos jogérvényességét a SEPA-ra való áttérés alapján. Ez azonban egy olyan jogi kérdés, amit a nemzeti hatóságoknak kell megoldani, például a fizetési szolgáltatásokról szóló irányelv végrehajtása által biztosított lehetőség kihasználásával.
+<P>
+Az ötödik kérdés arra vonatkozott, hogy a Bizottság hogyan oldja meg a kártyás fizetésekre vonatkozóan a multilaterális bankközi díjak kérdését.
+<P>
+Ez a munka elsősorban a két jelentős nemzetközi kártyarendszer, nevezetesen a MasterCard és a Visa versenyszabályai alapján, egy bizottsági vizsgálaton keresztül folyik.
+<P>
+2007. december 19-én a Bizottság úgy határozott, hogy a MasterCard multilaterális bankközi díjai a MasterCard és Maestro márkanévvel ellátott fogyasztói hitel- és betéti kártyákkal történő, határokon átnyúló kártyás fizetések esetében nem egyeztethetők össze a versenyszabályokkal. A MasterCard a bizottsági határozatot megfellebbezte.
+<P>
+2008 márciusában a Bizottság eljárásokat indított annak megállapítására, hogy a Visa Europe multilaterális bankközi díja sérti-e a 82. cikket? A Visa-val is folynak a tárgyalások.
+<P>
+A Bizottság arra törekszik, hogy egyenlő esélyeket teremtsen a MasterCard és a Visa Europe, valamint a jövőben jelentkező más bankkártya-rendszerek számára.
+<P>
+Utolsó előtti kérdése arra vonatkozik, hogy a Bizottságnak van-e konkrét megoldási javaslata a multilaterális bankközi díjak kérdésére. Piacgazdaságban az iparágak feladata, hogy megfelelő üzleti modellt javasoljanak. A kártyákkal kapcsolatban, amint említettem, a Mastercarddal és a Visa-val folynak a megbeszélések. A SEPA automatikus terheléssel kapcsolatban a Bizottság a banki szférával folytatott állandó párbeszéd keretében nyújtott sürgős iránymutatással és az érintett piaci szereplők hozzájárulása alapján kívánja segíteni az iparágat. Ennek az iránymutatásnak legkésőbb 2009 novemberéig rendelkezésre kell állnia.
+<P>
+Végül utolsó kérdése arra vonatkozik, hogy milyen konkrét intézkedéseket kíván javasolni a Bizottság annak érdekében, hogy a SEPA-ra való áttérés eredménye ne egy drágább fizetési rendszer legyen?
+<P>
+A Bizottság véleménye szerint ez nem történhet meg. Először is, a SEPA elősegíti a versenyt, és a méretgazdaságosság miatt növeli a működés hatékonyságát - mindkettőnek árcsökkentő hatása van.
+<P>
+Másodszor, a SEPA növeli továbbá az átláthatóságot, ami korlátozza a kereszttámogatást és a rejtett árképzést, bár optikailag bizonyos felhasználók áremelkedésként érzékelhetik a magas rejtett árképzésről az alacsony rejtett árképzésre való áttérést. Ebben az esetben fontos, hogy a bankok egyértelmű tájékoztatást nyújtsanak.
+<P>
+Harmadszor, a Bizottság tanulmányok elindításával gondosan ellenőrzi a SEPA fogyasztókra gyakorolt hatását.
+<P>
+Végül, egyetértünk abban, hogy aggodalom kíséri, hogy a hatékony nemzeti betéti kártya-rendszerek helyébe drágább alternatívák léphetnek. Vannak azonban olyan kezdeményezések, amelyek egy új pán-európai betéti kártya-rendszerré alakulhatnak, valamint a hatáskörrel rendelkező meglévő uniós szervek és a nemzeti versenyhatóságok általános óvintézkedéseket hoznak.
+<P>
+Végezetül ezért a SEPA hatékonyabb fizetési rendszert eredményezhet, valamint az uniós és a nemzeti versenypolitika megfelelő biztosítékokat nyújt.
+<P>
+Ezért nagyon örülök ennek az állásfoglalásnak, és annak, hogy a Parlament határozottan támogatja a SEPA-t.
+<SPEAKER ID="482" NAME="Jean-Paul Gauzès" LANGUAGE="FR">
+Elnök úr, biztos asszony, hölgyeim és uraim! Sok minden hangzott el éppen arról, hogy mi lett ebből a fizetési szolgáltatásokról szóló irányelvből, amelynek én voltam a parlamenti előadója, és amelyet első olvasatban 2007-ben fogadtak el.
+<P>
+Ezen irányelv célja többek között az volt, hogy az EPC-n belül tömörülő különböző banki intézmények megkapják a SEPA megvalósításához szükséges jogi eszközöket. Ezért a bankkártyákra, az átutalásokra és az automatikus terhelésekre vonatkozó európai rendeletet fogadtak el.
+<P>
+A SEPA euróban történő fizetési szolgáltatásokra vonatkozó integrált piac, ahol nem lesz különbség a határokon átnyúló fizetések és a nemzeti fizetések között. Ez a rendszer a bankszektor és a fogyasztók számára is előnyökkel jár.
+<P>
+Amint említette, a Bizottság kötelezettséget vállalt annak biztosítására, hogy a SEPA-eszközökre való áttérés az Európai Unió polgárai számára nem eredményez drágább fizetési rendszert.
+<P>
+E jelentés elfogadása óta a SEPA-ra való áttérés nagyon lassan, túl lassan haladt előre. 2008. október 1-jén a tranzakciók mindössze 1,7%-át bonyolították a SEPA átutalási rendszerben.
+<P>
+Ezért ma jóváhagyjuk az Európai Parlament állásfoglalását, amely felszólítja a Bizottságot, hogy a SEPA-termékekre való áttérésre vonatkozóan határozzon meg egy végső időpontot. Ez az időpont nem eshet 2012. december 31. utánra, amelytől kezdve minden euróban történő fizetést a SEPA-előírások szerint kell teljesíteni.
+<P>
+Az áttérés hatálybalépése előtt azonban meg kell oldani egy kényes problémát, a multilaterális bankközi díjak kényes kérdését. Nem szabad eltörölni ezeket a díjakat. A fizetési szolgáltatás kereskedelmi tevékenység. A költségek fedezése és a résztvevők haszonkulcsának felszámolása jogos.
+<P>
+Ezzel szemben azonban kerülni kell az átláthatatlanságot és az önkényességet. Helyénvaló tehát, hogy a Bizottság ezeknek a bankközi díjaknak az alkalmazására vonatkozó iránymutatásokat határozzon meg.
+<P>
+A nagyobb jogbiztonság érdekében ezeket az iránymutatásokat az automatikus terhelésre vonatkozó SEPA-rendszer bevezetése előtt ismerni kell. E jogbiztonság nélkül a bankok számos országban nem biztos, hogy be tudják vezetni az automatikus terhelési rendszert, és ez megállíthatja a SEPA megvalósítását.
+<P>
+Az Európai Néppárt (Kereszténydemokraták) és az Európai Demokraták Képviselőcsoportja, valamint az Európai Parlament Szocialista Képviselőcsoportja a holnapi szavazásra ehhez nagyon hasonló módosításokat terjesztett elő. Természetesen reméljük, hogy figyelembe veszik azokat.
+<SPEAKER ID="483" NAME="Margarita Starkevičiūt" AFFILIATION="ALDE">
+(LT) Ebben a nehéz időszakban nagyon fontos, hogy megtaláljuk a gazdasági növekedés lehetséges forrásait. Európai pénzügyi piacunk az európai gazdaság számára pontosan egy ilyen lehetséges növekedési forrás. Jelen esetben a fizetési piacról beszélünk, és sajnálatos, hogy az általunk hozott határozatokat meglehetősen lassan hajtják végre. Általában a bankok technikai lehetőségeit említik fő okként, mivel ezek főként technikai megoldások, de azt szeretném mondani, hogy a bankok technikai modernizálása a bankszektor és maguknak a bankoknak az érdeke, és ily módon modernizálhatják piacukat, fizetési rendszereiket és növelhetik hasznukat. Ezért nagyon fontos, hogy a tagállamok nagyobb határozottsággal hajtsák végre az egységes eurofizetési térség megvalósítási tervét.
+<SPEAKER ID="484" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Elnök úr, hölgyeim és uraim! Tudjuk, hogy az egységes eurofizetési térség épp a kis- és középvállalkozások számára valódi kihívást jelent. Az utóbbi időben igen intenzíven dolgoznak együtt a hitelkártyarendszerekkel, és az ezekből a rendszerekből adódó árak és költségek nagyon eltérőek. Úgy gondolom, hogy a megkívánt átláthatóság itt nincs jelen.
+<P>
+Pontosan válság idején van szükségünk az üzleti vállalkozások megfelelő támogatására. A költségek csökkentésével lehetővé kell tenni a vállalatok hitelképességét, mert ezáltal természetesen ismét hitelhez juthatnak. Úgy gondolom, hogy a SEPA ebben az esetben megfelelő eszköz lenne. A lehető leggyorsabban alkalmazni kell annak érdekében, hogy ne csak a kis- és középvállalkozások tudjanak olcsón és hatékonyan dolgozni, hanem ez a kis- és nagyvállalkozások közötti ügyletekre is érvényes legyen.
+<SPEAKER ID="485" NAME="Androulla Vassiliou">
+a Bizottság tagja. - Elnök úr! Szeretném megköszönni a Gazdasági és Monetáris Bizottságnak és elnökének, Berès úrnak ezt a vitát. A Bizottság üdvözli, hogy a Parlament támogatja a SEPA-t, amely nemcsak egy önszabályozó kezdeményezés, hanem a gazdasági és monetáris uniót, valamint a lisszaboni menetrendet erősítő jelentős közpolitikai kezdeményezés is. A Parlament és a Bizottság a SEPA-ra vonatkozóan egyértelműen ugyanazt az elképzelést képviseli és egyformák a céljaik.
+<P>
+Engedjék meg azonban, hogy három fontos pontra visszatérjek! Először is, amint korábban is említettem, a Bizottság igen aktívan segített a SEPA-ra való áttérés folyamatának előrevitelében, különösen azzal, hogy nyomást gyakorolt a hatóságokra, hogy korai elfogadókká váljanak. A SEPA katalizátoraként hajthatatlanul folytatjuk ezeket az erőfeszítéseket.
+<P>
+Másodszor - bár osztjuk a Parlament szándékát, hogy a SEPA-ra vonatkozóan egy végső időpontot szeretne látni - nem hisszük, hogy itt az ideje annak, hogy kőbe véssünk egy végső időpontot. Mozgásba kell hoznunk a folyamatot, és meg vagyunk győződve arról, hogy egy ilyen kötelezettség kitűzése előtt még sok alapozó munkára van szükség.
+<P>
+Harmadszor, megerősítem, hogy a Bizottság a multilaterális bankközi díjazásnak a versenyszabályokkal való összeegyeztethetőségére vonatkozóan iránymutatást fog meghatározni. Tudjuk, hogy kevés idő maradt a SEPA automatikus terhelés hatálybalépéséig, és hogy iránymutatásunknak ezért 2009 novembere előtt rendelkezésre kell állnia. Engedjék meg azonban, hogy egy pontot hangsúlyozzak: az iránymutatás csak akkor biztosítható, ha a lehetséges üzleti modellekre az iparág először konkrét elképzelésekkel áll elénk.
+<SPEAKER ID="486" NAME="Elnök">
+Egy állásfoglalási indítványt kaptam az eljárási szabályzat 108. cikkének (5) bekezdésének megfelelően.
+<P>
+A vitát lezárom.
+<P>
+A szavazásra holnap, 2009. március 12-én kerül sor.

@@ -1,0 +1,228 @@
+<CHAPTER ID="017">
+A számítógépes helyfoglalási rendszerek ügyviteli szabályzata (vita) 
+<SPEAKER ID="375" NAME="Elnök">
+A következő napirendi pont Timothy Kirkhope jelentése a Közlekedési és Idegenforgalmi Bizottság nevében a számítógépes helyfoglalási rendszerek ügyviteli szabályzatáról szóló Európai Parlamenti és Tanácsi rendeletre irányuló javaslatról - C6-0418/2007 -.
+<SPEAKER ID="376" NAME="Peter Mandelson">
+a Bizottság tagja. - Elnök úr, az a javaslat, amelyet ma a tiszteletreméltó képviselők megvitatnak, megkísérli az 1989-ben a légi közlekedési szolgáltatások elosztása piacára vonatkozóan elfogadott szabályokat korszerűsíteni.
+<P>
+A számítógépes helyfoglalási rendszerek (CRS) közvetítőként működnek a légitársaságok és az utazási irodák között a repülőjegyek értékesítési láncában. A 90-es évek elején a számítógépes helyfoglalási rendszerek gyakorlatilag a repülőjegy értékesítés egyedüli csatornája voltak. Ezen kívül valamennyi CRS-t a légitársaságok ellenőrizték. Ez utóbbiakat ezért nagyban kísértette a CRS-ben lévő helyzetükkel való visszaélés, például azzal, hogy a kijelzőkön saját javukra részrehajló információt mutattak be.
+<P>
+A CRS használatának ügyviteli szabályzata a visszaélések megelőzése érdekében számos biztosítékot hoz létre. Kiegészíti a versenyjogot, mivel az ágazatspecifikus kockázatok kezelésére további intézkedésekkel egészíti azt ki. Előírja, hogy valamennyi, a rendszerben résztvevő társaságot megkülönböztetés nélkül kezeljék. Például, valamennyi légitársaságnak ugyanazt a díjat kell fizetnie. A szabályzat speciális kötelezettségeket határoz meg a tulajdonos fuvarozók számára - azok számára, amelyek CRS-t tulajdonolnak vagy ellenőriznek.
+<P>
+Az ügyviteli szabályzat nagyon hatékony volt mindenféle visszaélés megelőzésében. Azonban az ügyviteli szabályzat bevezetése óta a repülőjegyek értékesítésének piaca lényegesen megváltozott, mivel alternatív értékesítési csatornák alakultak ki. Ma már az összes helyfoglalásnak mintegy fele már nem CRS-en keresztül valósul meg, hanem internet oldalakon vagy a légitársaságok híváscentrumain keresztül történik. Ezeknek az alternatív értékesítési módszereknek a versenye lényegesen csökkentette a CRS-en keresztül történő visszaélés kockázatát.
+<P>
+Az új helyzet az ügyviteli szabályzat kiigazítását is igényli. Az ügyviteli szabályzatban lefektetett szabályok lényegesen korlátozzák a CRS és a légitársaságok közötti alku lehetőségét. A CRS-ek ezért nem állnak valódi versenyben egymással, és a légitársaságok és az utasok által nekik fizetett díjak egyre inkább emelkednek.
+<P>
+A Bizottság javaslata megpróbál nagyobb teret adni az alkunak, és különösen a CRS használatáért járó díj tekintetében az árak meghatározása lehetőségének. Ez lehetővé teszi a légitársaságok számára, hogy a díjak csökkentéséről tárgyaljanak a CRS-ekkel. A verseny felerősítése a CRS-ek között segít a költségek csökkentésében és az általuk nyújtott szolgáltatások minőségének javításában.
+<P>
+Ugyanakkor a javaslat fenntartja, sőt megerősíti a visszaélés megelőzésének biztosítékait, és a fogyasztók védelmét, különösen a nyújtott információ semlegességét és a személyes adatok védelmét.
+<P>
+Ezen kívül a javaslat továbbra is speciális kötelezettségeket ró a CRS-ek tulajdonos fuvarozóira. A "tulajdonos fuvarozó” meghatározása heves vitákhoz vezetett, mivel az ilyen társaságokra rótt kötelezettségek igen terhesek.
+<P>
+Az ügyviteli szabályzat korszerűsítése lehetővé teszi szolgáltatásaik elosztási költségeinek csökkentését, miközben garantálja a fogyasztói érdekek védelmét. Erre sürgős szükség van iparunk versenyképessége szempontjából, mivel társaságaink versenytársai már most élvezik a liberalizált környezet és az alacsonyabb értékesítési költségek előnyeit.
+<P>
+Ezért is örülök annak, hogy a Parlament milyen gyorsan vette napirendjére ezt a kérdést. Szeretném kifejezni nagyrabecsülésemet az előadójuk, Tim Kirkhope, és a TRAN Bizottság által végzett munka iránt, valamint a véleményüket kifejtő bizottságok munkája iránt.
+<SPEAKER ID="377" NAME="Timothy Kirkhope">
+előadó. - Elnök úr, nagyon örülök, hogy lehetőségünk van ennek a fontos ügynek a megvitatására ma este, és én büszkén mutatom be ezt az új javaslatot az európai fogyasztók helyzetének javítására.
+<P>
+A CRS ügyviteli szabályzatának felülvizsgálata és az itt lévő megoldás egy fontos munka korai és sikeres lezárásának esélyét adja. Az új ügyviteli szabályzat célja, hogy újra lendületbe hozza az utazási ágazatot, így minél hamarabb bevezetjük, annál hamarabb láthatjuk a hasznait - alacsonyabb repülőjegyárak, nagyobb választék és nagyobb fokú átláthatóság. A CRS-eknek természetesen szabadon kell tudniuk kialkudni a légitársaságok szolgáltatásai elosztásának feltételeit, de az én felülvizsgálatom alapján a CRS-eknek agresszívebben kell majd egymás ellen versenyezniük a légi fuvarozók részvételéért az alacsonyabb foglalási díjak és a jobb minőségű szolgáltatások alapján. Ez nagyon előnyös lesz az európai fogyasztók számára.
+<P>
+Először is, választék: a fogyasztóknak nagyobb választékhoz és jobb szolgáltatásokhoz kell jutniuk az utazási irodáktól. Az erőteljesebb verseny fellendíti majd az utazási irodák és ezáltal a fogyasztók rendelkezésére álló információ minőségét.
+<P>
+Másodszor, ár: ez azt jelenti, hogy a jelenlegi rendszer által művileg magasan tartott repülőjegy árak akár 10%-kal is csökkenhetnek ennek eredményeként a Bizottság kutatása szerint.
+<P>
+Harmadszor, átláthatóság: a keményebb biztosítékok révén az utazási irodák és a fogyasztók fokozottabb védelemben részesülnek a piaci visszaélés és a piactorzítás ellen. A javaslat két biztosítékot épít be. Az egyik az auditálási rendelkezésekre vonatkozik. Én szükségesnek tartottam ezeknek a rendelkezéseknek az újragondolását, és ennek eredményeként ezek hatékonyabbnak bizonyulnak majd, és így a rendelet fontos eszközt biztosít a Bizottság számára, hogy figyelemmel kísérje a CRS-ek tevékenységeit.
+<P>
+Negyedszer, annak a meghatározása, hogy ki tulajdonos fuvarozó és ki nem az. Ez a kérdés uralta az egész jelentést, és az én vele kapcsolatos munkámat. Fontos, hogy ezt helyesen határozzuk meg, mert nem akarjuk, hogy a légitársaságok azért fektessenek be CRS-ekbe, hogy befolyásolják a vállalkozás működtetését esetlegesen mások kárára.
+<P>
+Hadd mondjam el kollégáimnak, akik nagyon keményen dolgoztak ezen a jelentésen, hogy úgy vélem, hogy az előttünk lévő megállapodással egy robusztus, de rugalmas tesztet sikerült elérnünk, egy olyat, amelyik az önök által kifejtett valamennyi aggályt rendezi. Néhányan azt javasolták, hogy holnap javasoljunk megosztott szavazást, de őszintén ez túlságosan tág meghatározást eredményezhet. Megismétlem, amit írásban lefektettem ezeknek az embereknek. A "döntő befolyásra” való hivatkozás törlése nem biztosítja a 12. módosítás elemeinek hasznos pontosítását, ami annak célja volt. Sőt egy ilyen törlést követően, az értelmezhető lehetne úgy is, hogy bármely befektető tulajdonos fuvarozónak lenne tekinthető, mivel "a rendszerszolgáltató bármilyen más irányító testülete” bármit jelenthet. Vajon minden olyan légi fuvarozót, amely részt vesz valamely CRS-ben olyan jogokkal, hogy például információt kapjon az éves döntésekről vagy csak az éves beszámolókról, tulajdonos fuvarozónak számít? Bizonyára nem.
+<P>
+Ami az ALDE képviselőcsoportjának javaslatát illeti, hogy a kérdést utaljuk vissza a bizottsághoz - azaz, hogy alaposan vizsgáljuk meg az érintett CRS-ek tulajdonosi és irányítási struktúráit - ehhez a Bizottságnak egy új rendeletre volna szüksége. Amikor a Bizottság azt mondja, hogy ezt esetről esetre kell vizsgálnia, én ezt nem a gyenge meghatározás bizonyítékának látom. Éppen ellenkezőleg, ezt hosszasan tárgyaltuk a bizottságban, és én egy független tanulmányt rendeltem meg, hogy segítse a bizottságot. Gondoskodtam arról, hogy az árnyékelőadókat mindig teljes körűen tájékoztassuk a Tanáccsal való informális kapcsolatfelvételek állapotának valamennyi fázisáról. Ők kifejezetten egyetértettek azzal, amit a megállapodás tartalmaz. Én szándékosan visszatartottam ezt az ügyet egy hónapig, miközben gondoskodtam arról, hogy minden nézetet teljes mértékben figyelembe vegyünk - környezeti kérdéseket, Lichtenberger asszony; teljes körű liberalizálást, Evans úr.
+<P>
+Így holnap a támogatásukat kérem. Meg kell szavaznunk az alacsonyabb repülőjegyárakat, a nagyobb választékot és a nagyobb átláthatóságot. Mindannyian kötelesek vagyunk a fogyasztók jogainak védelmére és tájékoztatásukra, és hogy számukra a lehető legjobb megállapodásokat szerezhessük meg. Ez marad a prioritás. A gesztuspolitika nem tartozik az én prioritásaim közé, de első helyen szerepel nálam az, hogy a legjobb megállapodást szerezhessük meg mindazon fogyasztók számára, akiket itt képviselünk Európában.
+<SPEAKER ID="378" NAME="Wolfgang Bulfon" LANGUAGE="DE">
+Elnök úr, az európai fogyasztók nyögnek a magas élelmiszerárak terhei alatt, és én úgy vélem, hogy ennek a szerfölött magas áremelkedésnek az egyik oka a kiskereskedelmi piac néhány nagy szereplő kezében történt koncentrálódása.
+<P>
+Indokoltnak tartom az aggódást, hogy hasonló sorsra juthatnak az utazási irodák. Az ebben a jelentésben javasolt a számítógépes helyfoglalási rendszerek ügyviteli szabályzatának liberalizálása a piacon erőteljesebb versenyt kellene, hogy biztosítson. Attól tartok azonban, hogy csak a nagy utazási irodák maradhatnak fenn a jövőben azzal, hogy több CRS-szolgáltatóval szerződést kötnek. Erre lesz szükség ahhoz, hogy a fogyasztóknak átfogó választékot biztosíthassanak. A kis irodák, amelyek nem tudják megengedni maguknak a CRS szolgáltatókkal a több szerződést, elhullanak útközben.
+<P>
+Amikor az Egyesült Államokat hívják fel a fogyasztóbarát verseny példája gyanánt ebben az összefüggésben, mindig emlékezni kell arra, hogy a tagállamokban nincs olyan légitársaság, amely még mindig részt venne számítógépes helyfoglalási rendszerben. Ezért állok ki a "tulajdonos fuvarozó” kifejezés merev meghatározása mellett.
+<SPEAKER ID="379" NAME="Georg Jarzembowski" LANGUAGE="DE">
+Elnök úr, hölgyeim és uraim, képviselőcsoportom nevében szeretnék őszinte köszönetet mondani az előadónak, Kirkhope úrnak. Nagyon kiegyensúlyozott jelentést terjesztett elénk, és igen szorosan együttműködött az árnyékelőadókkal. Az ő változata, amelyet a francia elnökséggel tárgyalt meg, jobb védelmet biztosít a fogyasztóknak a kétes repülési és vasúti kínálatokkal szemben az átláthatóságra vonatkozó egyértelmű szabályozás alapján és ugyanakkor tisztességes versenyt biztosít a vasúti társaságok és a légitársaságok között.
+<P>
+Közbevetőleg, az átdolgozott változat dokumentálja azt a tényt, hogy az Európai Néppárt (Kereszténydemokraták) és az Európai Demokraták Képviselőcsoportja első képviselőcsoportként nagyon helyesen megállította a Bizottságnak a kísérletét, hogy elavultként eltörölje ezt a szabályzatot már 2005-ben. Szükségünk van rá - és ezt szavazatunkkal bizonyítani fogjuk - a fogyasztók védelme érdekében. Akkor is, ha egyre több utas a jegyét közvetlenül a légitársaságoknál vagy az interneten foglalja le, a fogyasztók többsége továbbra is az utazási irodákra támaszkodik, nekik pedig támaszkodniuk kell a számítógépes helyfoglalási rendszerben a megkülönböztetésmentes, valódi alkalmi vételt jelentő ajánlatokra. A megjelölt áraknak a jövőben tartalmazniuk kell minden adót és díjat, így az utazási irodák valóban átlátható és összehasonlítható ajánlatokat adhatnak a fogyasztóknak.
+<P>
+A tulajdonos fuvarozóknak az átláthatóságra és a versenyre vonatkozó szigorúbb szabályozásnak kell megfelelniük a jövőben annak érdekében, hogy a rendszerek ne kínálhassanak kedvezményes ajánlatokat a többi légitársaság és a fogyasztók kárára.
+<P>
+Itt vissza kell térnem az előadóhoz és képviselőtársaimhoz kell fordulnom. Úgy vélem, hogy az a változat, amit mi egyeztettünk a francia elnökséggel a tulajdonos fuvarozókkal kapcsolatban megfelelő védelmet kínál az egyes légitársaságok javára történő pozitív diszkrimináció ellen. Ezért a 48. módosítás híres módosításának bárminemű változtatása teljesen fölösleges, és ha ez átmegy holnap, akkor az az egésznek az elfogadását késleltetné, sőt akár meg is kérdőjelezheti. Arra kérem önöket, hogy hozzanak egyértelmű végleges döntést holnap a fogyasztók védelmében.
+<SPEAKER ID="380" NAME="Robert Evans">
+a PSE képviselőcsoportja nevében. - Elnök úr, én is köszönetet szeretnék mondani Kirkhope úrnak állandó együttműködéséért és a bizottság valamennyi tagjának támogatásáért.
+<P>
+Két évvel ezelőtt megnéztem egy internetre alapozott utazási irodát, egy utazási honlapot, ahol is Londonból San Franciscóba kerestem jegyet. A honlap, vagyis a számítógép azt mondta nekem, hogy nem volt közvetlen járat Londonból San Franciscóba, és New Yorkon keresztül javasolt egy csatlakozó járatot, ha jól emlékszem, a Uniteddel. Természetesen vannak közvetlen járatok, csak éppen az adott honlap területébe nem tartozott ezeknek a kiadása.
+<P>
+Ez azonban egyszerűsített formában megvilágította számomra azt a problémát, amit megpróbálunk ezzel a felülvizsgálattal megoldani: amint Mandelson biztos elmondta, ez egy olyan felülvizsgálat, ami 20 évre vagy még korábbra megy vissza.
+<P>
+El kell ismernünk azokat a valódi változásokat, amelyek a technológiában ez alatt az időszak alatt végbementek. Most az emberek nagy része és valamennyi utazási iroda hozzáfér az internethez, és egyetértek az előző felszólalókkal, akik azt mondták, hogy kötelességünk biztosítani a tisztességet és a piachoz való egyenlő hozzáférést, és amint Mandelson biztos mondta, tisztességes szabályokat, hatékony szabályokat és védenünk kell a fogyasztókat, meg biztosítani a versenyt. De Mandelson úr ön azt is mondta, hogy ön örül annak, hogy milyen gyorsan sikerült mindezt végig vinni. Bár én osztom az ön céljait, és mindig a lehető leggyorsabban szeretem megoldani a dolgokat - és osztom Kirkhope úr árakra, átláthatóságra és fogyasztóvédelemre vonatkozó céljait is - úgy gondolom, hogy nagy sietségünkben eltértünk minden bizonnyal attól az állásponttól, amit a Közlekedési Bizottság május végén elfogadott, és attól az állásponttól, amivel a Tanács előállt, az úgynevezett kompromisszumos állásponttól, amely eltér attól, amit mi a Közlekedési Bizottságban elfogadtunk. Tegnap a bizottsági pontosításban ő így szólt: "Minden múltbéli elemzést újra el kell végezni az új perspektívából és a Bizottságnak minden egyes esetet eseti alapon kell megvizsgálnia”. Ez véleményem szerint azt jelenti, hogy ez nem eléggé egyértelmű, és nem arra a helyre jutottunk, ahol legalább is ezen az oldalon, de más képviselőcsoportokban is, sok képviselő lenni szeretne, ahol teljes bizonyossággal azt mondhatnánk, hogy az az álláspont, amit Kirkhope úr elérni remélt, valóban ilyen lenne. Ezért javaslom képviselőcsoportomnak, hogy támogassa azt a javaslatot, amelyet tudomásom szerint Lichtenberger asszony nemsokára előterjeszt.
+<SPEAKER ID="381" NAME="Eva Lichtenberger" LANGUAGE="DE">
+Elnök úr, biztos úr, hölgyeim és uraim, ha lovas küldönccel kellett volna megbirkóznunk mindazzal a levelezéssel, amit ez a jelentés generált az elmúlt hetekben, kétségtelenül kimerítettünk volna néhány lovat. A modern hírközlés lehetővé teszi számunkra, hogy folyamatosan kapcsolatban legyünk, és mindig naprakészek maradjunk.
+<P>
+A legnagyobb elismerés ezért azonban Kirkhope úrnak jár, aki valóban példás módon folyamatosan tájékoztatta a képviselőket, levelezett az árnyékelőadókkal és mindent megtett, amit csak tudott, hogy a bizottság kéréseit továbbítsa a Tanácsnak. A Tanács azonban nem könnyítette meg az ő munkáját. Épp ellenkezőleg. Olyan szövegezést javasoltak - mi jól tudtuk követni az eljárást - amely semmi más nem tett volna, minthogy hatékonyabban fedett volna el versenyt torzító gyakorlatokat - és én tiltakozom ez ellen!
+<P>
+Őszintén azt kell mondanom, hogy a versenytorzító légitársaságok hazai országai is jobban tennék, ha komolyabban vennék a fogyasztóvédelmet azzal, hogy biztosítják számukra a tisztességes információt, valamint követik javaslatainkat, amelyekkel biztosítani lehet ennek megvalósulását. Az ügyviteli szabályzat nem a legerőteljesebb eszköz, ami a rendelkezésünkre áll. Tegyük ezt egyértelművé. Ennél fontosabb az egyértelmű szövegezés, amely biztosítja számunkra, hogy nem nyitnak ki egy másik hátsó ajtót.
+<P>
+Kollégámmal, Hennis-Plasschaert asszonnyal együtt szeretném garantálni ezt az egyértelműséget azzal, hogy visszautalnám a jelentést a bizottság elé. Én ezt fontos kérdésnek tartom. Ragaszkodnunk kell ahhoz, hogy mi a fogyasztókat védjük, és el kell fogadnunk ennek nyilvánvaló következményeit.
+<P>
+Köszönöm képviselőtársaimnak és különösen az előadónak, hogy a környezetvédelemmel kapcsolatos aggályok visszhangra leltek ebben a jelentésben amennyire lehetséges volt ebben az ágazatban. Ismételten őszinte köszönetem képviselőtársaimnak és az előadónak.
+<SPEAKER ID="382" NAME="Stanisław Jałowiecki" AFFILIATION="PPE-DE">
+(PL) Elnök úr, biztos úr, Liberadzki kollégám és én benyújtottunk egy módosító indítványt ehhez a jelentéshez. Célja, hogy a légitársaságok három éven belül vonuljanak ki a központi repülőjegy helyfoglalási rendszerből. Ezt a módosítást radikálisnak tekintették, és nem kapta meg a szükséges többséget. Megjegyzendő, hogy ez a radikalizmus semmivel sem több mint annak az úgy tűnik az Európai Unióban általános elfogadott elvnek a végrehajtása, ami az egyenlő esélyek a versennyel jellemezhető piacon.
+<P>
+A Közlekedési és Idegenforgalmi Bizottság a közelmúltban elfogadott egy olyan verziót, amelyet átmenetileg nagyon jónak lehet tekinteni. Átmenetileg, útközben - igen ez a jó szó - a részvételből való teljes kivonulás felé. Ugyanakkor az ügy megváltozott a Tanácsban: a benyújtott módosítások még az Európai Bizottság által eredetileg benyújtott változatnál is jobban erősítik három légitársaság - a Lufthansa, az Iberia és az Air France pozícióját. Úgy halljuk, hogy ez siker, és hogy emiatt további ügyfeleket nyernek.
+<P>
+Valószínűleg további siker, hogy az előadó ellenállt a lobbisták hatalmas nyomásának. Ezt el tudom képzelni, mert ránk egyéni Európai Parlamenti képviselőkre is az nehezedett. Ezek a lobbisták viszont olyan társaságoknak a képviselői, akik az egyenlő esélyekért küzdenek. Nem kapták meg azonban, mivel néhány nemzeti vállalkozás érdekei érvényesültek. Másrészről mi nem nevezzük ezeket a vállalkozásokat lobbistának, különösen, amikor ezeket az érdekeket egy olyan ország képviseli, amely jelenleg az Európai Unió elnökségét tölti be. Akkor minden rendben van, és ami megemlítődik, az a kiváló együttműködés a Tanáccsal.
+<P>
+Ez nem álszentség? Nem még nagyobb álszentség ezt a jelentést magatartási kódexnek nevezni? Kire vonatkozik ez a kódex módosított változatában, amikor a tulajdonos fuvarozó új meghatározása hatékonyan megszünteti ezt a fuvarozót?
+<SPEAKER ID="383" NAME="Gilles Savary" AFFILIATION="PSE">
+(FR) Elnök úr, az álszentség elsősorban abban áll, amikor azt mondjuk, hogy a fogyasztók sérelmet szenvednek. Egyetlen egy fogyasztó sincs Európa utcáin, aki tudná, hogy mi az a légi közlekedési számítógépes helyfoglalási rendszer. Egy sincs! Valamennyi fogyasztó a magán helyfoglalási rendszereket, az internetet vagy a telefont használja.
+<P>
+Amiről ma szó van, az a légitársaságok és a között az információ közötti kapcsolat, amelyet ők saját járataikról kiadnak, elsősorban az utazási irodáknak. Ez a szöveg moralizál, és nagyon erős átláthatósági és kizárólagosságot kizáró elveket vezet be. Ez egy olyan szöveg, amely a hagyományos nézetet teszi magáévá, amikor versenyjogról és a fúziók ellenőrzéséről van szó.
+<P>
+Számos lobbi arra használja a jelentést, hogy megpróbálja kikényszeríteni az igazgatótanácsból azokat, akik Európában a legnagyobb számítógépes helyfoglalási rendszert létrehozták. Ez egy nagyon súlyos ügy lenne, mert soha semmi mást nem csináltunk itt, mint versenyszabályokat alkottunk és módszereket azok ellenőrzésére. Soha nem kényszeríttettünk senkit, hogy adott státuszt vagy adott részvényesi bázist fogadjon el. Hölgyeim és uraim, én ezért fogom megszavazni az ügyesen és sok munkával Kirkhope által létrehozott kompromisszumot a Tanács és a Tanács valamennyi tagállama - amint emlékszem - az Európai Parlament és az Európai Bizottság között.
+<P>
+Jobb lenne megszavazni ezt a kompromisszumot, mint újrakezdeni a háborút a lobbikkal tekintve, hogy milyen sok érdek forog kockán, és jobb lenne megakadályozni, hogy ezt a szöveget végső soron lényegesen módosítsák, ami igen csak rosszul szolgálná a fogyasztókat.
+<SPEAKER ID="384" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Elnök úr, ma már nagyon helyesen többször is köszönetet mondtak Kirkhope úrnak, az előadónak, amiért egyértelmű konszenzust sikerült elérnie egy nagyon bonyolult kérdésben a bizottságban, és együttműködve az árnyékelőadókkal, valamint más képviselőtársakkal, és én remélem, hogy ez folytatódni fog ma reggel is.
+<P>
+Éppen most mondták, hogy még a "CRS” kifejezés sem volt világos sok képviselőnek a vita elején. Ma már tudjuk, hogy az mit jelent, és ma már tudjuk, hogy milyen fontos kérdéseket vitattunk meg nagyon helyesen. Őszinte köszönet még egyszer ezért a kiváló munkáért, és remélhetőleg egy jó európai jogi instrumentumért.
+<P>
+Ez a jelentés sok mindent tartalmaz, amelynek most már szükségszerűen fontos funkciója van a jelentés erősen műszaki jellegén túlmenően is, más összefüggésben is. A fogyasztók védelemben részesülnek, miközben a végleges teljes árat az ármegjelenítési módszerrel ténylegesen meg lehet jeleníteni, és ezt nem fedhetik el különféle speciális vagy kiegészítő árakkal.
+<P>
+Mi - csak mert képviselőcsoportunknak mindig emiatt tesznek szemrehányást - figyelemreméltó haladást értünk el. Kifejtettük, hogy nem csak beszélni akarunk a vasút preferenciális kezeléséről, hanem biztosan tudni akarjuk a rövid és hosszú távú repülőjáratokra vonatkozóan, hogy a vasúti szállításnak legyen tisztességes esélye arra, hogy itt szerepelhessen. Amint erről már szó volt, bizonyítottuk a CO2 fogyasztást, illetve követeltük, hogy azt bizonyítsák - szintén - azért, hogy összehasonlítással meg lehessen állapítani, amit el akarunk érni, és amihez a fogyasztó hozzájárulhat.
+<SPEAKER ID="385" NAME="Ulrich Stockmann" AFFILIATION="PSE">
+(DE) Elnök úr, a tulajdonos fuvarozó meghatározásának ellentmondásos problémájára szeretnék összpontosítani. A meghatározás célja valóban az, hogy megakadályozza a CRS-ben részesedéssel rendelkező légitársaságokat abban, hogy visszaéljenek helyzetükkel. Jelenleg, ez megfoghatóan érinti az Air France-ot, az Iberiát és a Lufthansát, amelynek kisebbségi részese van az Amadeusban. A Bizottság jelenlegi gyakorlatát, azaz visszaélés gyanúja esetén ennek eseti vizsgálatát bizonyították. A befolyással való visszaélés eseteit megoldották, és büntették. Ez idáig ez két alkalommal történt meg. Nincs ésszerű indok arra, hogy bármit is megváltoztassunk ebben a lényegileg bizonyított gyakorlatban.
+<P>
+A tulajdonos fuvarozó azon meghatározása, ami a versenyjogra tekintettel a meghatározó befolyás kifejezésre épül, megfelel ennek a bizonyított gyakorlatnak. Ez a kifejezés immáron 40 éve bizonyítja magát. Egyes képviselők azonban azt szeretnék, ha minden légitársaság, amelynek van valamilyen tőkerészesedése, automatikusan tulajdonos fuvarozónak minősüljön. A légiközlekedési piacon ez masszív és szükségtelen beavatkozást jelent a jelenlegi versenyhelyzetben. Ebből a fogyasztóknak semmilyen előnye nem származna. A négy győztes lenne például a British Airways, az American Airlines és mások, akik számára a versenyhelyzet ilyen eltolódása hasznos lenne. Ezen kívül az egyetlen európai számítógépes helyfoglalási rendszernek el kellene fogadnia egy versenyhátrányt az amerikai konkurenciával szemben azon az európai piacon, ahol ádáz küzdelem folyik. Ezt politikailag ésszerűtlennek, sőt akár hanyagnak tartom, és ezért azt ajánlom, hogy a kompromisszumot fogadjuk el.
+<SPEAKER ID="386" NAME="Marian-Jean Marinescu" AFFILIATION="PPE-DE">
+(RO) Kollégánk, Kirkhope úr által kialkudott kompromisszum a diszkriminációmentesség, a hatékonyság és az átláthatóság elveinek megerősítésére épül, amelyek mindegyike a végső kedvezményezett, nevezetesen az európai polgár előnyére válik.
+<P>
+Először is, megakadályozza mindkét a légi fuvarozók elleni potenciális visszaélést, és az utóbbiak potenciális beavatkozását az ügynökségek tevékenységének megfelelő működésével.
+<P>
+Másodszor, biztosítja az átláthatóságot és megakadályozza a fogyasztó félrevezetését a járatok kiválasztását, időtartamát, üzemeltetőjét, és utoljára, de nem utolsósorban az árát illetően, biztosítva egyben a személyes adatok védelmét.
+<P>
+Harmadszor, a kedvezményezettek számára biztosítja rövid utakra a vasúti közlekedés választásának lehetőségét, ami a széndioxid kibocsátások csökkentésével idővel környezeti haszonnal járhat.
+<P>
+Sajnálatos módon azonban van néhány olyan vonatkozás, amelyet az ügyviteli szabályzat nem szabályoz, és amelyek nem tartoznak hatókörébe. Ezek az alacsony költségű - fapados - társaságok díjtételpolitikája, amely nem tartozik a számítógépes helyfoglalási rendszerekkel való együttműködés körébe. Úgy vélem, hogy az ügyviteli szabályzat mögött meghúzódó egészséges elveket minden helyfoglalási és jegyvásárlási rendszernek el kellene fogadnia, beleértve a fapados társaságokat is.
+<P>
+Fogyasztói szempontból sajnálatos, hogy ezek a társaságok nem integrálódtak a CRS-be. A mellett, hogy az utasok számára a választási lehetőségek megsokszorozódnának, ez az integráció pozitív módon nyomást gyakorolna annak érdekében, hogy biztosítsák a szolgáltatások minőségét és az árak átláthatóságát.
+<P>
+Megragadom ezt az alkalmat, hogy kérjem az Európai Bizottságot és a tagállamokat, hogy erősítsék meg az ellenőrzést és alkalmazzanak szankciókat az illetékes szerveken keresztül, ahol szükséges, a fogyasztók valódi védelme érdekében, akik számára a CRS-ben nem jegyzett társaságok megfizethető, ám megtévesztő mobilitási eszközt jelentenek. Én is támogatom és ajánlom azt a javaslatot, hogy a jövőben a CRS fontolja meg a menetrendszerű autóbusz-szolgáltatások rendszerbe történő bevezetésének lehetőségét is.
+<SPEAKER ID="387" NAME="Brian Simpson" AFFILIATION="PSE">
+Elnök úr, amikor köszönetet mondok az előadónak jelentéséért, elismerem arra irányuló erőfeszítéseit, hogy megpróbált az első olvasatban megállapodást elérni erről a fontos dossziéról.
+<P>
+A megállapodás első olvasatban valóban lehetséges lett volna, ha a Tanács elfogadta volna a közlekedési bizottság álláspontját. Az előadónak igaza van. Mi valóban nagy részletességgel vitattuk meg azt a közlekedési bizottságban, és ott véleményt is kialakítottunk. De ami utóbb történt az az, hogy a közlekedési bizottság véleményét megváltoztatták.
+<P>
+Sajnos a Tanács intervenciója és később a tanácsi módosítások nem csak a vizek összezavarását szolgálták, hanem súlyos aggályokat okoztak a fogyasztói szervezeteknek, az utazási irodáknak és az utasszövetségeknek.
+<P>
+Ezután amit az előadó most javasol a Tanácson keresztül, annak súlyos következményei vannak nemcsak jogalkotási szempontból, hanem nemzetközileg is. Az EU-jogalkotás terén még soha sem okozott két módosítás annyi zűrzavart és felfordulást a közlekedési bizottság demokratikus álláspontjának sérelmére.
+<P>
+Egyeseket ez nem érdekel, de a valóság az, hogy a Tanács intervenciója súlyos bizonytalanságot okozott mind erkölcsileg, mind jogilag.
+<P>
+Fennáll az a gyanú, hogy a Tanács kiskapukat hoz létre, hogy védelmet nyújtson bizonyos nagy légi fuvarozóknak, különösen, mivel az a tulajdonos fuvarozókra vonatkozik. Ezen kívül a megállapodás elérésére irányuló szükségtelen sietség rossz jogszabályhoz vezethet. Ezért támogatom azt a felhívást, hogy ez a jelentés kerüljön újra a bizottság elé, hogy foglalkozhassunk minden felmerült aggállyal, helyrehozhassuk ezt a jogszabályt nem a mi nagy légitársaságaink, hanem a fogyasztóink érdekében, akiknek a képviseletei azt mondják nekünk, hogy nem tetszik nekik a Tanács kiegészítése.
+<SPEAKER ID="388" NAME="Zita Pleštinská" AFFILIATION="PPE-DE">
+(SK) Először is szeretnék köszönetet mondani az előadónak, Timothy Kirkhope-nak, amiért a számítógépes helyfoglalási rendszerek ügyviteli szabályzatáról szóló rendeletbe felvette a kijelzőre vonatkozó rendelkezéseket. Az utazási irodák kijelzőket, képernyőket használnak a CRS-információ megjelenítéséhez, ezért létfontosságú, hogy az utazási irodák semleges és kiegyensúlyozott tájékoztatást kapjanak.
+<P>
+Úgy vélem, hogy a semleges kijelzők használata növeli a résztvevő fuvarozók által kínált utazási termékek és szolgáltatások átláthatóságát, és növeli a fogyasztók bizalmát. Az utazási irodák tisztességes értékelési kritériumok alkalmazásával a fogyasztóknak a választási lehetőségek legátláthatóbb skáláját tudják majd kínálni; például a főkijelző lehetővé teszi a leginkább alkalmas utazási lehetőség értékelését, amelyet a menetrendszerű légi vagy vasúti fuvarozó kínál.
+<P>
+Én nagyra értékelem az előadó erőfeszítéseit, hogy a termék ÁRÁRA való közvetlen hivatkozással biztosítsa az árak átláthatóságát, mert a DÍJTÉTEL jelenlegi meghatározása nem tartalmazza az ár valamennyi elemét, ami gyakran félrevezető a fogyasztók számára.
+<P>
+Úgy vélem, hogy ez a jelentés hozzá fog járulni a CRS-ek közötti tisztességes versenyhez, ami elsősorban a fogyasztók javára válik, akik jó minőségű szolgáltatásokkal kedvező áron tudnak megszerezni utazási termékeket.
+<SPEAKER ID="389" NAME="Silvia-Adriana Ţicău" AFFILIATION="PSE">
+(RO) A számítógépes helyfoglalási rendszerek ügyviteli szabályzatáról szóló rendelet meghatározza azokat a szabályokat, amelyeket a légi és vasúti fuvarozóknak be kell tartaniuk helyfoglaláskor.
+<P>
+A jelenlegi helyzet azt jelzi, hogy az utazási irodák által használt számítógépes helyfoglalási rendszereken keresztüli helyfoglalások magasabb árakhoz vezetnek. Én ragaszkodom az utasok személyes adatai védelmének szükségességéhez. Azt hiszem, az utasoknak rendelkezniük kell a legmegfelelőbb jegy megválasztásának lehetőségével, és e végett kellően és teljes körűen tájékoztatni kell az utast.
+<P>
+Ragaszkodom annak előírásához is, hogy ne legyen megkülönböztetés sem az elosztási csatornák között, sem pedig az utazási irodák utasai lakhelye szerint. Bizonyos elosztási csatornák, például az internet betartják a diszkrimináció tilalmának elvét, de a számítógépes helyfoglalási rendszerek bizonyos feltételeket követelnek meg az idegenforgalmi operátoroktól, ami gyakran magasabb árakhoz, és az utasok lakóhelye alapján diszkriminációhoz vezet.
+<P>
+Ezt a rendeletet fontosnak tartom; mindig figyelembe kell vennünk a fogyasztót és ismételten ragaszkodom a személyes adatok védelméhez.
+<SPEAKER ID="390" NAME="Marian Zlotea" AFFILIATION="PPE-DE">
+(RO) A PPE-DE tagjaként az INFO Bizottságban e dossziéra vonatkozó vélemény árnyékelőadójaként először is az előadónak szeretnék gratulálni munkájához, valamint az elkészült jelentéshez. Szeretném hangsúlyozni ennek a jelentésnek a fontosságát a számítógépes helyfoglalási rendszerek terén a valódi verseny biztosításában.
+<P>
+Soha nem szabad figyelmen kívül hagynunk a fogyasztói jogokat, és biztosítanunk kell, hogy ezen ügyviteli szabályzat módosításai az ő javukat szolgálják. A fogyasztóknak meg kell adni a tervezett út valamennyi részletét. Az is nagyon fontos, hogy ismerjék a jegyek pontos árát, és potenciális rejtett költségek ne vezessék őket félre.
+<P>
+Szeretném azt is hangsúlyozni, hogy ami a leglényegesebb, az az, hogy az ilyen honlapokért felelős vállalatok ne lehessenek ott az igazgatótanácsokban, mert azoknak mindig vannak rejtett költségeik.
+<P>
+Végezetül szeretném biztosítani az előadót teljes támogatásomról holnap a szavazásnál.
+<SPEAKER ID="391" NAME="Bogusław Liberadzki" AFFILIATION="PSE">
+(PL) Elnök úr, teljes mértékben támogatni kívánom Simpson úr álláspontját. Ő bizonyította, hogy a tulajdonos fuvarozó új meghatározása egyáltalán nem egyértelmű. A kiegészítő kifejezés "döntő befolyás gyakorlása” felveti a kérdést: vajon a Lufthansa az Amadeusban való 22%-os részesedésével döntő befolyást gyakorol-e? Mi van a Lufthansával, az Air France-szal és az Iberiával, egymás között 44%-kal: ez vajon döntő befolyás? Ezt minden szemszögből meg kell vizsgálni: vagy elfogadjuk a 48. módosítást, vagy visszaküldjük ezt a tervezetet átdolgozásra a bizottságnak. Egyébként a verseny eszménye minden bizonnyal sérülni fog.
+<SPEAKER ID="392" NAME="Inés Ayala Sender" AFFILIATION="PSE">
+(ES) Elnök úr, én szeretném üdvözölni ezt a megállapodást, amely konszenzusra épül, amellyel azonban nem mindenki teljes mértékben elégedett.
+<P>
+Szeretném elismerni a Bizottság, a Tanács és természetesen a Parlament erőfeszítéseit, amelyet a közlekedési bizottság, az előadója és az árnyékelőadók képviselnek.
+<P>
+Úgy vélem, hogy a fogyasztóknak az értékesítési adatokat tároló szalagok (MIDT-k) problémájával kapcsolatos aggályai megválaszolásra kerültek, ide értve a vonatokra és a kibocsátásokra vonatkozó új fejleményeket, amelyek szellemesek és választ adnak erre az új problémára.
+<P>
+Úgy vélem, hogy az ellenőrzési rendszert, amelybe bevezették a versenyt, megerősítették. Ezért az a kísérlet, hogy három társaságot kizárjanak a rendszerből, csak a verseny csökkenéséhez vezetne, ami, amint mindannyian jól tudjuk, a fogyasztók javára válik.
+<SPEAKER ID="393" NAME="Peter Mandelson">
+a Bizottság tagja. - Elnök úr, szeretném dicsérni a tiszteletreméltó képviselőket e vita magas színvonaláért. Üdvözlöm a legtöbb javasolt módosítást. Ezek több pontot hasznosan egyértelműsítenek, különösen, ami az utazási lehetőségek semleges megjelenítését az utazási iroda képernyőjén, és a személyes adatok védelmét illeti.
+<P>
+Szeretnék köszönetet mondani a Parlamentnek, hogy volt bátorsága felvetni a tulajdonos fuvarozók kényes kérdését. E tekintetben szeretném kifejteni a Bizottság álláspontját. Mindannyian tudjuk, ez egy rendkívül érzékeny kérdés, ami nagyon intenzív lobbizáshoz vezetett. Ezen a ponton a Bizottság támogatja az elnökség és az előadó között elért kompromisszumot, amelyet a tagállamok egyhangúan támogattak.
+<P>
+Az új meghatározás, amint azt a 13. módosítás javasolja, megszüntet minden kétértelműséget vagy jogi bizonytalanságot. A Bizottság így képes lesz elvégezni az elemzést annak meghatározására, hogy vajon az adott társaság ellenőrzi-e a CRS-t, és hogy az a társaság, amelynek jogai vannak és részt vesz a CRS irányításában, döntő módon befolyásolja-e. Ez a koncepció a Bizottságnak a versenyjog terén szerzett gazdag tapasztalataira támaszkodik, amely lehetővé teszi számára, hogy megbizonyosodjon arról, hogy egy adott részvényes milyen valós hatalommal és befolyással bír, például a részvénytulajdonláshoz kapcsolódó jogok és a részvényesek közötti megállapodások elemzésével. Erre tekintettel, úgy vélem, hogy az előttünk álló szöveg lehetővé teszi a Bizottságnak, amikor a neki benyújtott panasz miatt vagy saját kezdeményezésére eljár, hogy előjogait teljes körűen gyakorolja, lényegesen megerősítse hatáskörét, és minden egyes egyedi esetben és bármikor meghatározza, hogy mely társaságok a tulajdonos fuvarozók, és melyek kötelesek az ebből a státuszból adódó fő kötelezettségeket viselni.
+<P>
+Ami a CRS MIDT által biztosított statisztikai adatokban az utazási iroda azonosítását illeti, én is támogatom a kompromisszumos szöveget, amely egyensúlyt teremt az utazási irodáknak adataik nem megfelelő felhasználásával szembeni védelmének szükségessége, és az adatok hasznossága között, amikor azokat a légitársaságok stratégiai tervezéshez használják fel. Úgy vélem, ezzel a szöveggel létrehozzuk azt a szabályozási keretet, amely figyelembe veszi a piaci fejlődést és lehetővé teszi az utasok számára, hogy hasznot húzzanak a repülő és vasúti jegyek elosztása esetén a verseny bevezetéséből, miközben a biztosítékokkal megakadályozza a visszaéléseket.
+<P>
+Ennek alapján én valóban úgy gondolom, hogy fontos előre lépni ezzel a megállapodással már első olvasatban ebben a törvényhozó testületben. Valamennyi szereplő várja már az új jogszabályt, ami csökkenteni fogja az üzemeltetők számára az adminisztrációs költségeket. Ami pedig a tulajdonos fuvarozó meghatározásával kapcsolatban kifejtett aggályokat illeti, én vállalom azt a kötelezettséget, hogy a jelenlegi kompromisszum keretében a Bizottság kiad egy hivatalos értesítést, amelyben elmagyarázza, hogy hogyan szándékozza értelmezni ezt a meghatározást, amikor a rendeletet alkalmazza. Ez az értesítést hasonló lesz azokhoz, amelyeket a Bizottság versenyjogi ügyekben időről időre kiad. Ezt az értesítést a Hivatalos Lapban tennénk közzé a rendelet hatályba lépése előtt, hogy valamennyi érdekelt fél számára biztosítsuk a szükséges jogbiztonságot. Őszintén remélem, hogy önök kedvezően mérlegelik ezt a javaslatot.
+<P>
+Azt hiszem beszéltem a vita során felvetett fő pontokról. Szokás szerint megküldöm a módosítások teljes listáját, és a Bizottság álláspontját valamennyi módosításról a Parlament Titkárságának.
+<P>
+a Bizottság tagja. - A Bizottság álláspontja a Parlament módosításairól
+<P>
+Kirkhope jelentés
+<P>
+A Bizottság el tudja fogadni a 4, 5, 6, 7, 8, 9, 11, 14, 16, 17, 20, 21, 22, 23, 27, 30, 31, 32, 34, 35, 36, 37, 38, 43, 44, 45 és a 48. módosítást
+<P>
+A Bizottság elvben el tudja fogadni a 10, 19, 26 és a 28. módosítást.
+<P>
+A Bizottság átfogalmazva el tudja fogadni az 1, 2, 3, 18, 25 és a 47. módosítást.
+<P>
+A Bizottság részben el tudja fogadni a 33. módosítást.
+<P>
+A Bizottság nem tudja elfogadni a 12, 13, 15, 24, 29, 39, 40, 41, 42 és a 46. módosítást.
+<SPEAKER ID="395" NAME="Timothy Kirkhope">
+előadó. - Elnök asszony, szeretnék köszönetet mondani a biztosnak álláspontja nagyon egyértelmű kifejtéséért, és annak megerősítéséért, hogy amint mi befejezzük eljárásunkat a Parlamentben (remélem holnap pozitív módon), további feladatok vannak, amelyeket ő maga illetve mások a Bizottságban elvégezhetnek és elvégeznek annak biztosítására, hogy a Parlament akarata érvényesüljön.
+<P>
+Szeretnék köszönetet mondani kollégáimnak hozzászólásaikért, annak ellenére, hogy nem minden értelmezéssel értek egyet. Ez valószínűleg érthető, mert kétségtelenül ez egy nagyon bonyolult ügy. Annak ellenére, hogy a munka során én nagyon nyitott módon jártam el, elkerülhetetlen, hogy az eredmény néhány értelmezését átpolitizálják vagy akár félreértsék.
+<P>
+Én úgy vélem azonban, hogy a fogyasztók és az egyértelműsítés tágabb érdekében áll, hogy a megállapodott módon haladjunk előre. Büszke vagyok arra a munkára, amit én elvégeztem. Büszke vagyok arra a munkára is, amit mások végeztek, hogy segítsenek nekem. Az árnyékelőadók mosolya és elfogadása az eljárás során arra biztatott, hogy nem csak ma este támogatnak engem, hanem képviselőcsoportjaikkal holnap is.
+<P>
+Mindezt mérlegelve és a biztos nagyon ésszerű és pozitív hozzájárulását meghallgatva ma este remélem, hogy holnap visszatérnek, és teljes egységben lehetővé teszik számunkra az előrelépést, hogy Európát az utasok számára, a fogyasztók számára, és a jövőben a versenypolitika érvényre juttatása szempontjából jobb hellyé tegyük.
+<SPEAKER ID="396" NAME="Elnök">
+A vitát lezárom.
+<P>
+A szavazásra szeptember 4-én csütörtökön déli 12 órakor kerül sor.
+<P>
+Írásbeli állásfoglalások (142. cikk)
+<SPEAKER ID="397" NAME="Christine De Veyrac  " AFFILIATION="PPE-DE">
+írásban. - (FR) Hölgyeim és uraim, a ma este tárgyalt szöveg élénk vitánk tárgya volt a Közlekedési és Idegenforgalmi Bizottságban, és nem indok nélkül, hiszen fontos jogszabályról van szó az idegenforgalom és a légi közlekedés számára, és az állampolgáraink számára is.
+<P>
+Nem volt könnyű megtalálni az egyensúlyt a légitársaságok közötti verseny fenntartása és az utazási irodák függetlenségének garantálása között, közben lehetővé téve, hogy az utasok hasznos és pártatlan tájékoztatásban részesüljenek.
+<P>
+Az a szöveg, amelyben az előadó és a francia elnökség megállapodtak, tiszteletben tartja ezeket a követelményeket és ennek örülök.
+<P>
+Megállapodás született a "tulajdonos fuvarozó” fogalmának kiegyensúlyozott meghatározásáról, ez pedig lényeges a különféle számítógépes helyfoglalási rendszerek közötti egészséges verseny biztosításához.
+<P>
+Remélem, hogy a holnapi szavazáson jóváhagyjuk a szöveget első olvasatban, hogy azt gyorsan alkalmazni lehessen.
+<P>
+Köszönöm a figyelmüket.
+<SPEAKER ID="398" NAME="Małgorzata Handzlik  " LANGUAGE="PL">
+A számítógépes helyfoglalási rendszerek (CRS-ek) elsődleges célja az ügyfelek kiszolgálása. Ezért olyan fontos az átláthatóság biztosítása a repülőjegy-foglalási piacon, különösen, amikor a légitársaságok azzal, hogy részesedésük van a számítógépes helyfoglalási rendszerekben, korlátozhatják a versenyt a piacon.
+<P>
+Nyilvánvaló, hogy a légi közlekedési piac helyzete lényegesen megváltozott az elmúlt néhány évben és a legtöbb légitársaság elidegenítette a CRS-ekben való részvényeit, ami nem jelenti azt, hogy ezt valamennyi légitársaság megtette volna. A legfontosabb azonban az, hogy a helyfoglalási rendszerekben való részvénytulajdontól eltekintve, a légitársaságoknak ne legyen lehetőségük olyan befolyást gyakorolni a rendszerek működésére, ami preferenciális kezelést biztosíthat az általuk üzemeltetett útvonalaknak, és ennek megfelelő módon tükröződnie kell a "tulajdonos fuvarozó” meghatározásában.
+<P>
+Az ügyviteli szabályzat egyszerűsítése növeli a piaci résztvevők közötti tárgyalási lehetőséget (a légitársaságok és a CRS-ek szabadon tárgyalhatnak a helyfoglalásért a CRS-nek járó fizetés szintjéről). A jelenlegi rendelkezések növelik a CRS-ek költségét, és korlátozzák a CRS-ek rugalmasságát abban, hogy szolgáltatásaikat a légitársaságok és az utazási irodák konkrét igényeire szabják azzal, hogy az egyes CRS-ek nem differenciálhatják díjtétel skálájukat.
+<P>
+Remélem, hogy a bevezetett módosítások nagyobb versenyt tesznek lehetővé a repülőjegy értékesítési piacon a fogyasztók javára, különösen a jelenlegi skála bővülését és a repülőjegyek alacsonyabb végleges árát illetően.
+<SPEAKER ID="984" NAME="James Nicholson  " AFFILIATION="PPE-DE">
+írásban. - Támogatom ezt a jelentést, amely azt ajánlja, hogy a városi utazási irodák által repülőjegyek lefoglalásához használt számítógépes helyfoglalási rendszerekre vonatkozó szabályokat egyszerűsítsük és korszerűsítsük.
+<P>
+A CRS-ekre vonatkozó jelenlegi szabályok csak a verseny elfojtását és a magas díjtételek fenntartását szolgálják. Ezek a javaslatok előmozdítják az ilyen rendszereket üzemeltető társaságok közötti versenyt, és remélhetőleg alacsonyabb díjakat és az utasok számára nagyobb választékot eredményeznek.
+<P>
+Jelenleg a fogyasztók számára a legvonzóbb lehetőség, ha közvetlenül a légitársaságnál foglalnak helyet. Az új ügyviteli szabályzat az árak nagyobb fokú átláthatóságát biztosítja, amely fellendíti az utazási ágazatot és tisztességes megállapodást biztosít a fogyasztók számára.

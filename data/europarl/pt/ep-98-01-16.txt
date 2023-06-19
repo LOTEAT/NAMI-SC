@@ -1,0 +1,631 @@
+<CHAPTER ID=1>
+Aprovação da acta
+<SPEAKER ID=1 NAME="Presidente">
+A acta da sessão de ontem já foi distribuída.
+<P>
+Há alguma observação?
+
+<SPEAKER ID=2 LANGUAGE="EN" NAME="Sturdy">
+Senhor Presidente, gostaria de chamar a sua atenção para a ordem do dia. A ordem do dia de ontem indicava claramente que, depois das questões urgentes, a votação começava às 17H30. Dado que os deputados vão passar a usar etiquetas electrónicas a partir de Fevereiro, gostaria de sugerir que a Assembleia tentasse impor alguma disciplina no que se refere ao horário das votações. Muitos deputados tiveram de sair ontem às 18H00, quando a votação já devia ter acabado. É por isso que gostaria de pedir que, de futuro, tentássemos impor alguma disciplina em matéria de horários.
+
+<SPEAKER ID=3 NAME="Presidente">
+Muito obrigado, Senhor Deputado Sturdy, mas a sua observação não se refere à acta.
+<P>
+No entanto, tomámos nota da mesma e transmiti-la-emos à Mesa.
+
+<SPEAKER ID=4 LANGUAGE="EN" NAME="Hardstaff">
+Senhor Presidente, o meu nome não consta na lista de presenças de ontem, embora apareça em todas as listas de registo dos votos. Agradecia que isso fosse corrigido.
+
+<SPEAKER ID=5 NAME="Presidente">
+Muito obrigado, Senhora Deputada Hardstaff. Basta-me a sua palavra. Corrigir-se-á a acta em causa.
+
+<SPEAKER ID=6 LANGUAGE="FR" NAME="Pasty">
+Senhor Presidente, o problema diz-me igualmente respeito. O meu nome não aparece, embora tenha participado em todas as votações na Conferência dos Presidentes.
+
+<SPEAKER ID=7 NAME="Presidente">
+Muito obrigado, Senhor Deputado Pasty. Repito-lhe o que acabei de dizer à senhora deputada Hardsaff. A sua palavra é suficiente e iremos corrigir a acta.
+<P>
+(O Parlamento aprova a acta)
+
+<CHAPTER ID=2>
+Votações
+<SPEAKER ID=8 LANGUAGE="DE" NAME="Habsburg-Lothringen">
+Senhor Presidente, no debate de ontem, foi discutido um ponto que a senhora deputada Stenzel, hoje ausente, me pediu que apresentasse. Trata-se de uma alteração oral de aditamento ao nº 4, a qual foi decidida com o acordo dos outros grupos, e em especial do senhor deputado Swoboda; requeremos o seguinte aditamento: »Solicita à Comissão que zele por que nenhum Estado-Membro receba, em matéria de trânsito, pior tratamento do que a Suíça».
+
+<SPEAKER ID=9 LANGUAGE="DE" NAME="Swoboda">
+Senhor Presidente, esta alteração traduz a opinião de princípio que esta casa e sobretudo a Comissão dos Transportes e do Turismo sempre defenderam, razão pela qual a apoiarei.
+
+<SPEAKER ID=10 LANGUAGE="NL" NAME="Wijsenbeek">
+Senhor Presidente, não entendo em absoluto o que isto quer dizer. O que é que, por exemplo, o trânsito através da Irlanda tem a ver com a Suíça? Isto parece-me uma aposição desnecessária.
+
+<SPEAKER ID=11 NAME="Presidente">
+O senhor deputado Wijsenbeek opõe-se à alteração oral.
+<P>
+Há 12 membros do Parlamento que se oponham a esta alteração oral?
+<P>
+(Não havendo 12 membros do Parlamento que se oponham à alteração oral, o presidente submete-a a votação)
+<P>
+(O Parlamento aprova a resolução)
+
+<SPEAKER ID=12 NAME="Presidente">
+O senhor deputado Rehder pede a palavra para um ponto de ordem.
+
+<SPEAKER ID=13 LANGUAGE="DE" NAME="Rehder">
+Senhor Presidente, peço desculpa mas tenho, em poucas palavras, de falar de algo que li aqui no relato integral das sessões. Infelizmente, algo foi mal reproduzido. Segundo se diz aqui, terá havido ontem um concurso das mais parvas conversas de café; isto não se referia, evidentemente, aos deputados alemães, nem a todos os deputados do Grupo PPE. Para reabilitação da honra de muitos, tinha de dizê-lo; isto referia-se apenas a dois deputados, que tentaram, quais cavaleiros salteadores, fazer política medieval numa Europa moderna.
+<P>
+Segundo ponto: este megatúnel de que falei não tem, infelizmente, apenas 20 km, mas 50 km. É esse o problema, o facto de esta lúgubre conduta ser tão longa e impraticável. Peço desculpa por me ter intrometido, mas, para mim, era importante esclarecer isto.
+
+<SPEAKER ID=14 NAME="Presidente">
+Senhores Deputados, antes de passar ao relatório Goerens, e uma vez que me informaram que hoje é o aniversário da senhora deputada Nicole Fontaine, permitam-me que lhe expresse, em nome da assembleia, os nossos melhores votos e que saliente, mais uma vez, a sua extraordinária capacidade para dirigir as sessões deste Parlamento. Senhora Deputada Fontaine, espero que possa presidir este plenário durante muitos anos e espero, igualmente, que o seu aniversário calhe numa sexta-feira, para poder felicitá-la desta tribuna.
+<P>
+
+<SPEAKER ID=15 NAME="Cot">
+Manifesto o vivo desejo de que se chegue a um acordo sobre o trânsito alpino. Reconheça-se que os nossos amigos suíços expressaram hoje uma sensibilidade ecológica, amplamente partilhada em todas as regiões alpinas em questão. Nada seria pior do que prejudicar o vizinho com o tráfego poluente, através de um aumento excessivo de medidas unilaterais.
+<P>
+A solução, a prazo, é a do transporte combinado através dos túneis suíços, mas igualmente do Brenner e do túnel de Fréjus, entre a França e a Itália. Tornam-se indispensáveis, no quadro das redes europeias, um financiamento prioritário e um calendário de realizações. A sua adopção contribuiria para sanear as relações entre a Suíça e a Comunidade, por meio de uma definição comum de uma solução que respeitasse o interesse das populações afectadas e o património europeu, que constitui a cordilheira dos Alpes.
+
+<SPEAKER ID=16 NAME="Holm">
+As negociações em curso entre a UE e a Suíça causam-nos apreensão. Penso que a UE deve, em grande medida, respeitar a posição da Suíça, tendo principalmente em conta a protecção do ambiente alpino.
+<P>
+No contexto do Livro Verde da Comissão relativo ao impacto dos transportes sobre o ambiente e do Livro Branco sobre o desenvolvimento futuro da política comum de transportes, tem sido declarada em diversas ocasiões a necessidade de adaptar a política de transportes da UE ao ambiente.
+<P>
+A Comissão tem agora a oportunidade de transformar essas belas palavras em política concreta. A UE deve, assim, adoptar posições no sentido de desenvolver grandes esforços com vista a reduzir a poluição atmosférica, reestruturando o tráfego através dos Alpes no sentido da sua transferência para o caminho-de-ferro. A UE deve dar, igualmente, o seu apoio às propostas suíças de imposição de taxas sobre os veículos rodoviários pesados e uma taxa especial de circulação através dos Alpes, de modo a que seja possível atingir o objectivo de transferir os transportes rodoviários para o caminho-de-ferro.
+<P>
+A construção de auto-estradas na região dos Alpes não é adequada. Em vez disso, deve proceder-se de imediato à construção de vias ferroviárias.
+<P>
+relatório Goerens (A4-0388/97)
+<SPEAKER ID=17 NAME="Caudron">
+O relatório do nosso colega Goerens é bom. Aprovo-o nas suas grandes linhas.
+<P>
+Partilho da ideia de associar os beneficiários e as ONG aos programas. Esta medida favorece uma maior transparência e deverá permitir uma gestão mais eficaz dos fundos atribuídos à ajuda humanitária.
+<P>
+Nesse sentido, subscrevo a criação de uma unidade central que tenha por missão a avaliação dos programas de ajuda ao desenvolvimento. Considero que este instrumento deverá trabalhar em estreita colaboração com as ONG sobre a pertinência das acções autorizadas.
+<P>
+Seria igualmente desejável uma gestão interna dos projectos, a fim de eliminar os fenómenos de inércia inerentes a qualquer dissociação das tarefas.
+<P>
+Quanto ao conteúdo e às propostas do senhor deputado Goerens, levanto uma objecção e faço uma pergunta. Interrogo-me, com efeito, sobre a noção de "rentabilidade económica e social». Qual é a realidade coberta por esta expressão? Parece-me importante associar as ONG à aplicação de indicadores coerentes e legítimos por parte das mesmas. Isso permitira uma visão mais clara dos problemas e, por conseguinte, aumentaria a qualidade das futuras decisões.
+<P>
+Esta reflexão sobre a eficácia das ajudas comunitárias é salutar, mas deveremos ter o cuidado de não cairmos numa abordagem de merceeiro.
+<P>
+Não nos esqueçamos que o objectivo final é a existência de formas de desenvolvimento equilibradas e adaptadas a cada país e a cada região.
+<P>
+A ajuda humanitária deverá permitir que se chegue a um momento em que a mesma deixe de ser necessária. Teremos sido bem sucedidos, quando deixar de haver necessidade daquela, ou seja, quando a mesma tiver desaparecido.
+
+<SPEAKER ID=18 NAME="Gillis">
+A União Europeia e os seus Estados-Membros são os maiores doadores de ajuda ao Terceiro Mundo. As nossas contribuições excedem em muito as dos EUA e do Japão. Claro que é muito importante, para nós e para quem recebe essa ajuda, que esse grande esforço produza benefícios máximos. Apesar dos elevados níveis de desemprego e dos níveis inaceitáveis de pobreza que existem nos nossos países, a ajuda aos países em desenvolvimento suscita um apoio generalizado, o que dá testemunho da generosidade dos cidadãos da Europa.
+<P>
+A ajuda directa aos governos do Terceiro Mundo é muitas vezes desperdiçada, por ineficiência e, por vezes, por corrupção. Este método de prestar ajuda às populações dos países em causa falha com frequência, limitando-se a enriquecer um punhado de dirigentes governamentais. É o método menos eficaz de prestação de ajuda, que deve ser evitado, sempre que possível.
+<P>
+Temos tido ocasião de verificar que alguns programas de ajuda europeus são muito bem sucedidos, e devemos consolidar esses êxitos. Temos também de verificar se a ajuda atingiu os destinatários previstos.
+<P>
+O programa europeu de ajuda alimentar tem sido muito bem sucedido. Milhões de vidas foram salvas através desse esforço e, atendendo ao elevado nível de «know-how» que existe agora nesse domínio, tenho a certeza de que esses êxitos se podem repetir.
+<P>
+A ajuda de emergência deve ser prestada quando e onde é necessária, sem condições. Contudo, no que se refere à ajuda ao desenvolvimento em geral e ao ajustamento estrutural, julgo que devemos insistir em que os países beneficiários estejam dispostos a respeitar os direitos humanos de todos os seus cidadãos, inclusive das minorias, e a promover a democracia. Não podemos deixar que ditaduras cruéis e corruptas desviem para os bolsos de alguns a ajuda destinada aos mais necessitados.
+<P>
+Os nossos esforços nem sempre têm sido bem sucedidos. As importações da Europa provenientes dos países em desenvolvimento diminuíram substancialmente nestes últimos 20 anos. O fenómeno deve ser analisado em pormenor, pois só o comércio poderá permitir que os países pobres se desenvolvam e dêem resposta às necessidades dos seus cidadãos.
+<P>
+As organizações não governamentais estão no centro da política de desenvolvimento em geral. A taxa de eficiência das ONG é muito elevada, reflectindo a experiência adquirida no terreno. Atendendo a que persiste o problema dos fluxos comerciais com os países em desenvolvimento, creio que deveríamos pedir às ONG que estudassem esta questão e sugerissem soluções aceitáveis para todos os interessados.
+<P>
+Congratulo-me com o Livro Verde da Comissão sobre a ajuda ao desenvolvimento, que identifica claramente os êxitos e as falhas das nossas políticas. Gostaria de felicitar a Comissão pelo seu contributo tão importante para o desenvolvimento do Terceiro Mundo. Tem conseguido obter excelentes resultados, com recursos humanos limitados, e os seus esforços são apreciados em todo o Terceiro Mundo.
+
+<SPEAKER ID=19 NAME="Holm">
+Tenho muitas dúvidas de que a UE deva administrar a actividade de cooperação para o desenvolvimento dos Estados-Membros. A experiência tem revelado, até agora, que a cooperação se dirige em grande medida às ex-colónias de alguns Estados-Membros, fazendo com que certos países que precisam de ajuda sejam inscritos numa outra lista de espera. Isto é lamentável.
+<P>
+É, todavia, importante que passe a existir uma melhor coordenação entre os Estados-Membros, na medida em que isso é susceptível de proporcionar melhores resultados para os países ou regiões necessitados de ajuda. Essa melhor coordenação, que não necessita de se processar através de uma regulamentação comunitária, pode contribuir também para diminuir os custos administrativos dos países doadores. Relativamente aos problemas que o Tribunal de Contas, nomeadamente, apontou no seu relatório, é verdade que existem irregularidades. Certamente que é preciso evitar estes problemas, mas deve compreender-se que é fácil surgirem irregularidades em regiões «perturbadas», onde as estruturas da sociedade entraram mais ou menos em colapso.
+<P>
+A assistência actualmente administrada pela UE deve concentrar-se mais em torno de medidas preventivas, visando evitar catástrofes.
+<P>
+Por último, oponho-me ao argumento do relator, senhor deputado Goerens, segundo o qual «uma maior coordenação tornaria mais reconhecidos (visíveis em sueco) os esforços consideráveis da União e dos Estados-Membros em matéria de ajuda ao desenvolvimento.... Esforços esses que, no entanto, escapariam, na maioria das vezes, à atenção da opinião pública.» Creio que não devemos tentar marcar pontos políticos através da ajuda a pessoas necessitadas. Consideramos que «agir sem visibilidade» é uma orientação preferível.
+
+<SPEAKER ID=20 NAME="Presidente">
+Senhores Deputados, acabo de ser informado de que hoje é, também, o aniversário do senhor deputado Telkämper, pelo que desejaria felicitá-lo, como fiz com a senhora deputada Fontaine.
+<P>
+Muitas felicidades, Senhor Deputado Telkämper.
+
+<CHAPTER ID=3>
+Redução da dívida dos países ACP altamente endividados
+<SPEAKER ID=21 NAME="Presidente">
+Segue-se na ordem do dia o relatório (A4-0382/97) do deputado Torres Couto, em nome da Comissão para o Desenvolvimento e a Cooperação, sobre a Comunicação da Comissão intitulada «Apoio ao ajustamento estrutural e à redução da dívida dos Estados ACP altamente endividados - Resposta comunitária à iniciativa relativa à dívida dos PPAE (Países Pobres Altamente Endividados)» e sobre uma proposta de decisão do Conselho relativa a uma assistência de carácter excepcional a conceder aos países ACP altamente endividados (COM(97)0129 - C4-0243/97).
+<P>
+Tem a palavra o senhor deputado Vecchi, que substitui o deputado Torres Couto como relator.
+
+<SPEAKER ID=22 NAME="Vecchi">
+Senhor Presidente, com o debate de hoje, o Parlamento Europeu pretende expressar a sua satisfação pelo facto de, pela primeira vez, a Comissão ter podido lançar uma iniciativa no sentido do início de uma intervenção concreta relativamente ao problema da dívida externa multilateral dos países ACP mais pobres e mais fortemente endividados.
+<P>
+Gostaria de recordar que se trata de uma proposta que tanto o Parlamento Europeu como a Assembleia Paritária ACP-UE formularam há já muitos anos e que, até hoje, ainda não tinha conseguido o apoio do Conselho e dos governos dos Estados da União. É sabido de todos que, desde finais dos anos 70, o peso da dívida externa tem vindo a condicionar fortemente a vida de numerosíssimos países do hemisfério sul, e tem prejudicado - e, na maior parte dos casos, impedido - o desenvolvimento das zonas mais pobres do planeta.
+<P>
+O pagamento do serviço da dívida continua a ser, para muitos países, a principal despesa dos cofres públicos em reservas de divisas, o que determinou uma situação que está na base de uma "transferência negativa líquida» de enormes volumes de recursos financeiros do Sul para o Norte, ou seja, dos pobres para os ricos.
+<P>
+É um facto que as dívidas devem, por princípio, ser honradas. Muitas das causas da falta de desenvolvimento dos países do Sul residem, certamente, na má gestão que caracterizou muitos governos e grupos de poder nos países do terceiro e do quarto mundos.
+<P>
+Todavia, é preciso ter também presente que esses governos foram, muitas vezes, apoiados por governos e por grupos políticos e económicos dos países mais desenvolvidos, e que a gestão dos créditos internacionais nem sempre foi caracterizada pela honestidade e pela correcção. Na realidade, em muitos casos, os montantes reembolsados pelos países do Sul, sob forma de pagamento de juros, são, neste momento, muito superiores aos recebidos, a seu tempo, a título de empréstimo. Além disso, muitas das causas internacionais que contribuíram fortemente para agravar a dívida e os custos da sua gestão não foram, certamente, determinadas pelos países do Sul.
+<P>
+Chamo a atenção para estes aspectos para salientar que as iniciativas tendentes à redução do peso da dívida não são uma esmola gratuita, mas uma necessidade imperiosa, e que, sob muitos pontos de vista, visam o restabelecimento de condições de maior equidade.
+<P>
+É preciso, além disso, ter em conta que os países mais pobres nunca poderão, nas actuais condições, extinguir a sua dívida externa, e que, de qualquer modo, a manutenção dessa dívida ou o seu acréscimo automático não permitirá nunca nem fazer seriamente face às raízes do subdesenvolvimento nem reintegrar aqueles países no comércio internacional e numa dinâmica de relações económicas e comerciais em que, aliás, os países europeus estão fortemente interessados.
+<P>
+Com a votação de hoje, o Parlamento dará luz verde à adesão da União à iniciativa internacional, promovida pelo Banco Mundial e pelo Fundo Monetário Internacional, tendente a apoiar o ajustamento estrutural e as políticas de redução da dívida, não só porque se trata de uma iniciativa globalmente positiva - ainda que seguramente insuficiente - mas também porque consideramos que a União deve nela assumir um papel político importante.
+<P>
+Trata-se de uma excelente ocasião para demonstrarmos que a abordagem mais humana e racional, que deve ter em conta os objectivos prioritários da luta contra a pobreza e do desenvolvimento humano sustentável que temos sempre salientado nos nossos documentos comunitários, se pode tornar também um ponto de referência para as grandes instituições financeiras internacionais.
+<P>
+Além disso, é preciso construir, igualmente com este instrumento, uma estratégia de diálogo político e de colaboração concreta, que possa ver a União Europeia, conjuntamente com os seus parceiros do hemisfério sul, e, em particular, com os países ACP, empenhada no relançamento de efectivas políticas de cooperação para o desenvolvimento.
+<P>
+O montante da dívida dos 11 países ACP objecto da iniciativa comunitária para com a Comunidade é relativamente limitado. A iniciativa prevê a possibilidade de usar com flexibilidade várias formas de remissão, de amortização ou de redução da dívida. O Parlamento solicita à Comissão que o mantenha constantemente informado e o consulte relativamente à evolução futura da acção comunitária, a que damos o nosso apoio, subordinando-a, contudo, aos objectivos de reforma democrática, de desenvolvimento e de justiça de que a Europa deve ser protagonista.
+<P>
+Esta iniciativa deverá ser o primeiro passo importante no caminho a percorrer para fazer face, de um modo mais global, aos problemas associados à dívida externa, incluindo a dívida multilateral, dos países mais pobres do planeta, como condição para o restabelecimento das condições mínimas de solvibilidade e de viabilidade económica e financeira para muitos países do mundo.
+<P>
+Neste contexto, o papel da União e dos seus Estados-Membros, tanto directamente como nas instâncias internacionais, é, evidentemente, decisivo.
+
+<SPEAKER ID=23 NAME="d'Aboville">
+Senhor Presidente, o relatório da Comissão para o Desenvolvimento e a Cooperação sobre o apoio ao ajustamento estrutural e à redução da dívida dos países ACP mais endividados mereceu a aprovação da Comissão dos Orçamentos por razões óbvias.
+<P>
+É do mais elementar bom senso, no âmbito da cooperação com estes países, dar-lhes os meios para recomeçarem da melhor forma e evitar que todos os esforços que já fizeram - pelo menos, alguns deles - não se vejam anulados pelo peso de uma dívida excessiva. O apoio que lhes concedemos através deste relatório destina-se, por conseguinte, a dar uma resposta duradoura aos seus problemas, e a União Europeia, que é o mais importante doador a estes países, pode actuar em três direcções: conceder uma ajuda suplementar ao processo de ajustamento estrutural, caso a caso; prever, casuisticamente, uma ajuda com vista à redução da dívida comercial e reforçar o apoio à gestão da dívida; tomar as medidas adequadas à redução do valor líquido actual da dívida dos países elegíveis face à Comunidade.
+<P>
+O artigo 3º prevê, concretamente, que a ajuda, sob a forma de ajuda não reembolsável, visada no artigo 1º, seja retirada de uma conta única, que renda juros, a abrir junto do Banco Europeu de Investimento e designada por "conta de redução da dívida». Solicitamos que a Comunidade divulgue anualmente, no documento de informações financeiras relativo aos fundos europeus para o desenvolvimento, o montante dos juros conseguidos a título da referida conta junto do BEI.
+
+<SPEAKER ID=24 LANGUAGE="ES" NAME="Pomés Ruiz">
+Senhor Presidente, a presente iniciativa, que esta assembleia irá, sem dúvida, aprovar, deveria levar-nos a fazer uma consideração inicial sobre a necessidade de incluir o Fundo Europeu de Desenvolvimento no orçamento comunitário. Estar-se-ia, desse modo, a insistir sobre o objectivo da União de tornar cada vez mais coerente a sua acção externa. O controlo orçamental destes fundos permitiria reforçar a eficácia da acção da União Europeia.
+<P>
+Alguém duvida de que a prossecução de uma política eficaz de desenvolvimento duradouro exige, em muitos casos, a redução da dívida de um país, quando este não a possa reembolsar, nem os respectivos juros, sem pôr em causa o seu desenvolvimento económico futuro? Insistir em obrigar determinados países a realizarem reembolsos impossíveis torna inviável a ajuda ao desenvolvimento e, inclusivamente, a execução de reformas económicas.
+<P>
+O elevado nível de endividamento de algunds países tem, além disso, um efeito dissuasor sobre os investimentos, provoca a fuga de capitais, faz com que a produção se oriente excessivamente para a exportação, provocando desequilíbrios, a desertificção das zonas rurais e, até, rupturas do abastecimento interno. Tem, igualmente, efeitos sobre a própria estabilidade política destes países do Terceiro Mundo, para não falar das democracias saídas de regimes autoritários.
+<P>
+Creio, por isso, que esta assembleia deve apoiar a proposta da Comissão no sentido de manter este tipo de ajuda a países como o Burundi, a Etiópia, a Guiné-Bissau, Madagascar, Moçambique, o Níger, o Uganda, S. Tomé e Príncipe, o antigo Zaire, a Zâmbia e o Uganda. Não podemos exigir a estes países do Terceiro Mundo que coloquem o reembolso da dívida acima do seu próprio desenvolvimento económico. Temos de assegurar que este reembolso é compatível com o desenvolvimento autónomo destes países, se não queremos ser obrigados a dar com uma mão o que recebemos com a outra, forçados que seríamos a aumentar a ajuda humanitária e a ajuda ao desenvolvimento.
+
+<SPEAKER ID=25 NAME="Girão Pereira">
+Senhor Presidente, Senhores Deputados, o Grupo União para a Europa, em nome do qual intervenho, acolhe favoravelmente a participação da União Europeia na iniciativa sobre dívida dos países mais pobres lançada em 1996, por ocasião da Cimeira do G7-Lyon.
+<P>
+Com efeito, apesar das medidas de redução da dívida já concedidas a alguns destes países, um certo número deles, a maior parte dos quais situados na África subsariana, estão confrontados com um nível de endividamento total que corre o risco de desencorajar os esforços de ajustamento e de reformas estruturais absolutamente necessárias para o seu desenvolvimento.
+<P>
+A União Europeia deve, pois, contribuir para este esforço concertado dos principais doadores internacionais no sentido de reduzir a dívida, problema de uma particular acuidade nos nossos parceiros ACP. Também nós, como o relator, manifestamos o nosso apoio claro à resposta comunitária. Como o relator, penso que é indispensável reforçar o empenhamento da União Europeia no processo de ajustamento estrutural levado a cabo nos países ACP. Como o relator, penso que será necessário acentuar o problema fundamental do desenvolvimento económico e social e tomar em conta os indicadores do desenvolvimento humano. Como o relator, finalmente, consideramos importante que o Conselho adopte a proposta de decisão dentro do melhor prazo possível e que os Estados membros da União possam contribuir rapidamente com a sua participação financeira para as instituições encarregadas de levar por diante esta iniciativa.
+
+<SPEAKER ID=26 LANGUAGE="IT" NAME="Fassa">
+Senhor Presidente, a dívida contraída pelos países ACP junto dos países membros da União Europeia, para além da dívida junto da própria União Europeia, constitui, sob muitos aspectos, um caso paradigmático da heterogénese dos fins cujo mecanismo o economista austríaco Von Mises tão bem nos mostrou.
+<P>
+O nível da dívida global foi aumentando gradualmente, o peso dos juros ultrapassa, muitas vezes, o montante do capital originariamente emprestado, e tal ónus acaba por impedir o desenvolvimento que, pelo contrário, se afirma querer incentivar. Como se isso não bastasse, a todos estes inconvenientes de natureza económica vieram, depois, juntar-se outros. Muitas vezes não esteve envolvida a população, mas apenas os governos, privilegiaram-se os objectivos dos segundos e não os da primeira. Muitas vezes, inclusivamente, favoreceram-se, pura e simplesmente, os interesses da classe política no poder. Daí fenómenos ambíguos de interesses partilhados entre classe política europeia e classe política dos países ACP, fenómenos que vão sempre em detrimento dos povos que, contraditoriamente, se afirma querer proteger. Daí também fenómenos de profundíssima desconfiança relativamente aos países europeus por parte, precisamente, das populações dos países em desenvolvimento, que deveriam, pelo contrário, ficar mais ligadas aos seus irmãos europeus. Daí, finalmente, uma espécie de renovada dependência económica e financeira dos países em desenvolvimento relativamente aos países europeus, dependência com um sabor claramente neocolonialista.
+<P>
+A redução da dívida impõe-se, portanto, mas com algumas condições. A primeira é não tocar na regra fundamental expressa no dito latino pacta sunt servanda ; a redução da dívida deve servir, em suma, para permitir que os países em desenvolvimento cumpram os seus compromissos dentro dos limites do que é realisticamente possível. A segunda é que esses países dêem prova de efectiva boa vontade, através de uma boa gestão das finanças e de reformas estruturais das suas economias. Só assim contribuiremos para ajudar os países em desenvolvimento a saírem, verdadeiramente, de um estado que, de outro modo, continuará a ser sempre um estado de menoridade.
+
+<SPEAKER ID=27 NAME="Ribeiro">
+Senhor Presidente, caros colegas, começamos por apoiar a reclamação com que o colega relator abre a proposta de resolução exigindo que o Parlamento seja consultado formalmente sobre esta comunicação da Comissão, não só porque trata de política comunitária no âmbito da Convenção de Lomé, como porque existe uma Assembleia Parlamentar Paritária da União Europeia com os países ACP. Posta esta questão prévia, uma outra se levantaria logo provocada pelo título da comunicação, mas deixamo-la para o fim da intervenção de tal modo nos parece importante começar por caracterizar a situação a que esta comunicação pretende responder.
+<P>
+Houve tempo em que muito se usava a imagem da bomba ao retardador para retratar a dívida do chamado «terceiro mundo», e o facto é que tem havido necessidade de fazer funcionar mecanismos de segurança para que a situação explosiva não redunde em incontrolável tragédia do ponto de vista social.
+<P>
+Este é mais o momento em que parece que as válvulas de escape ou bóias de salvação, como se escreve na explicação de motivos, terão de funcionar, e a resposta comunitária pretenderá ser isso mesmo, depois dos reescalonamentos bilaterais terem esgotado as suas virtudes de panaceia. Aliás, muito mais reforçando as relações de dependência que resolvendo reais problemas de endividamento. A análise da situação mais parecerá diagnóstico pois os dados de que se dispõe e de que a mesma explicação de motivos deixa algumas amostras configuram tal desequilíbrio que se pode afirmar estar o mundo doente. Só assim se caracteriza o crescente agravamento do fosso entre países ricos e países pobres, e nestes, entre países pobres e países ainda mais pobres, entre países endividados e países altamente endividados, países empobrecidos e endividados de fora para dentro, por deterioração de relações de troca, por promoção e estímulo ao endividamento por parte dos credores com excesso ou com incontinente produção de excessos de liquidez.
+<P>
+Os auxiliares diagnósticos são verdadeiras denúncias. Embora os números exijam actualização, é significativo que os últimos referidos anotem o acréscimo de seis novos países no tristemente chamado «clube dos muito endividados» e que só um dos antigos tenha conseguido sair dessa indesejável categoria. A situação tem-se agravado perigosamente nalgumas regiões, sobretudo na África subsariana, atingindo rácios técnicos que levantam a premente questão da suportabilidade.
+<P>
+Por isso, a proposta da Comissão diz respeito apenas aos países cuja dívida para com a Comunidade é considerada insuportavelmente elevada. São onze, e muito custa para um português, como decerto para o relator que também o é, que entre esses países três tenham a língua oficial que é a nossa. Mas o diagnóstico, se estático, se se queda pela situação, é sempre insatisfatório e, sobretudo é-o quando não identifica com toda a clareza as causas, ou foge a fazê-lo, e por isso não pode servir para o ataque às raízes do mal.
+<P>
+Esta analogia com um quadro clínico será pertinente, até porque as receitas e o tratamento que a Comissão prescreve, para além de só se dirigirem aos doentes em fase terminal ou quase, como ajuda de emergência chamada «assistência excepcional» a quem está à beira da inanição para que não morra de fome e para que com fome continue a viver, numa outra imagem, apropositada nesta semana de plenário, também se assemelha a dizer-se a um drogado que se endividou e está desesperado porque não tem droga nem dinheiro: »vendi-te o meu produto a crédito, mesmo quando não o querias comprar, e agora não tens dinheiro para me pagar até porque fui aumentando os preços à medida da dependência. Estás mesmo em carência mas não te mates, não mates ninguém, não roubes, perdoo-te parte da dívida e empresto-te mais algum dinheiro que te tirei e assim poderás comprar umas novas doses e ao preço que eu estabeleci, por agora, depois logo se verá quando o aumentarei».
+<P>
+Que fique, aliás, muito claro que não se fala de extinção de dívida. Trata-se tão-somente de redução, e até se justificará que cumprimentemos a Comissão, e mais ainda o colega que procura melhorar a proposta, quando o Conselho, ao que consta, como se diz na referida explicação de motivos, não atribui grande prioridade a este projecto, se é que lhe presta alguma atenção. E esta sexta-feira do plenário do Parlamento Europeu não é vista como tempo para exercício catártico. Esta perspectiva não nos leva a desistir e a abdicar de tão largo tempo de palavra, que desta vez e inabitualmente dispomos. Mas ela faz com que neste contexto quase perca significado uma questão fundamental: é que, tal como a Comissão propõe e tal como o relatório dá parecer, não se coloca minimamente em causa o que está na origem da situação que actualmente se confronta. Mais: toda a estratégia económica continuará e quer-se que continue a assentar nos mesmos pressupostos ou até a reforçá-los. Toda a dita recuperação económica, todo o crescimento económico desses países (e nem de desenvolvimento económico se pode falar) passa pelas receitas do Banco Mundial e do FMI, já em muitas oportunidades experimentadas com os resultados que agora se constatam e que levam à proposta de aumento das doses.
+<P>
+Por isso mesmo aguardámos para o fim a observação sobre o título da comunicação: este título não dá prioridade à resposta comunitária à iniciativa relativa à dívida destes países, que é remetida para subtítulo. Dá, sim, prioridade ao apoio, ao ajustamento estrutural e só depois à redução da dívida dos Estados ACP altamente endividados. Por ordem: primeiro o tratamento, depois o diagnóstico, por último o doente. Bem sabemos que a época não está para solidariedades e cooperações. No entanto, na nossa perspectiva nem é disso que se trata. Mas ficamos por aqui, não adiantando mais. E talvez até tenhamos de nos dar por felizes por termos podido estar tanto tempo a falar sobre uma temática e com uma abordagem que se desejariam em vias de extinção, mas que a realidade e os níveis de insuportabilidade impõem que se tragam para a praça pública e que sejam confrontadas, embora na Comissão e neste Parlamento haja maneira de fuga para a frente, talvez incómodo e algum desfastio por parte do Conselho. Em português diz-se «para grandes males, grandes remédios». O nível de consciência da gravidade dos males ainda não levou a procurar grandes remédios. Sublinhamos de novo e para terminar o aspecto positivo de estar a ter de encarar uma situação, embora nos seus limites de suportabilidade, e tão-só na busca de panaceias e de continuidade e reforço do que consideramos ser as suas causas.
+
+<SPEAKER ID=28 LANGUAGE="NL" NAME="Aelvoet">
+Senhor Presidente, caros colegas, o presente relatório prende-se com as dívidas de diversos países do Sul e, como todos sabemos, isto constitui uma enorme sobrecarga para um desenvolvimento positivo e dinâmico desse países. O Parlamento Europeu e também a Assembleia Paritária ACP/UE já se pronunciaram, por diversas vezes, a favor de iniciativas neste domínio. Neste caso concreto, foi a própria Comissão Europeia a avançar com uma proposta muito interessante, nomeadamente no sentido fornecer uma ajuda séria, por conta do orçamento da União Europeia, a onze países ACP altamente endividados. Apoiamos inteiramente que a União Europeia tome uma iniciativa deste género, sobretudo porque sabemos que muitas acções que são empreendidas num número de países ACP acabam por ser sistematicamente inviabilizadas, em virtude da pesada amortização da dívida que impende sobre estes países.
+<P>
+Regozijamo-nos pelo facto de o presente relatório apoiar inteiramente a iniciativa da Comissão e pensamos também ser importante o facto de, no relatório, ter sido incluído um número de alterações em relação à proposta inicial da Comissão, por exemplo, atribuindo maior realce à importância do estabelecimento de um nível de dívida sustentável, em que sejam tidos em atenção os indicadores sociais. O relator pode, pois, contar com a promessa do Grupo dos Verdes no Parlamento, no que diz respeito a este dossier .
+
+<SPEAKER ID=29 LANGUAGE="FR" NAME="Barthet-Mayer">
+Senhor Presidente, gostaria de apresentar as desculpas do meu grupo pela ausência do senhor deputado Scarbonchi, que teve seguramente um impedimento de última hora.
+
+<SPEAKER ID=30 LANGUAGE="DA" NAME="Sandbæk">
+Senhor Presidente, a iniciativa PPAE, que visa a redução das dívidas dos países em vias de desenvolvimento, marca uma nova orientação por parte do FMI e do Banco Mundial. Reconheceu-se que os problemas das dívidas constituem um impedimento grave para o desenvolvimento saudável dos países mais endividados. Só posso dar o meu total e sincero apoio a esta iniciativa. É importante que a UE participe activamente no trabalho em torno da resolução dos problemas ligados às dívidas. E é importante, porque a dívida impede o crescimento dos países em vias de desenvolvimento e porque envia um sinal político aos Estados-Membros e aos outros credores, no sentido de que a Europa está a levar a sério os problemas com que se defrontam aqueles países. Por esse motivo, a redução das dívidas deve ser acompanhada de outras formas de auxílio para o combate à pobreza.
+<P>
+Com base nisto, os resultados da discussão no Conselho são decepcionantes. Em vez de afectar verbas adicionais para a redução das dívidas, chegou apenas a acordo quanto à utilização de fundos do actual orçamento. Isto significa que haverá apenas meios para os primeiros cinco dos onze países ACP que necessitam de sanear as suas dívidas. Será, portanto, necessário encontrar outros meios, quando for aprovada a redução das dívidas dos restantes seis países.
+<P>
+Concordo com os números 6 e 7 do relatório Torres Couto que insta para que não se exija o cumprimento rigoroso das condições para ser aprovado ao abrigo da iniciativa PPAE. Obviamente, deve-se verificar uma adaptação estrutural nos países em vias de desenvolvimento e, de preferência, um envolvimento de aspectos de ordem ambiental e política. Se se fizer depender a redução das dívidas da realização bem sucedida de programas de reforma trianuais, os países mais frágeis ficam logo excluídos. Precisamente nestes países, a redução do peso da dívida facilita a execução do programa estrutural. Em minha opinião, o programa estrutural deve andar de mãos dadas com a redução da dívida, e não ser apenas uma condição para a mesma. Tanto as reformas estruturais como a redução das dívidas são uma condição para a questão essencial, designadamente, atenuar a pobreza e as perspectivas económicas desfavoráveis.
+
+<SPEAKER ID=31 LANGUAGE="DE" NAME="Schiedermeier">
+Senhor Presidente, Senhor Comissário, caros colegas, quem ler com atenção o relatório Torres Couto terá de chegar à conclusão, pelo menos em parte, de que o relator vê os problemas com alguma ingenuidade e talvez demasiado sob a perspectiva dos países em desenvolvimento. Desde há anos, senão mesmo desde há décadas, que a questão do endividamento dos países pobres é um problema presente na nossa cooperação. Por um lado, para muitos países, isso representa uma grande ajuda e acesso a crédito. Por outro lado, os desenvolvimentos imprevisíveis que ocorrem nestes países são, muitas vezes, a causa que os leva a cair na armadilha das dívidas. Não devemos, contudo, ignorar que o conflito Leste/Oeste também deixou, infelizmente, as suas marcas neste domínio.
+<P>
+É de saudar a proposta da Comissão no sentido da criação de um fundo para o desendividamento dos países pobres. No entanto, não se deveria tomar uma decisão apenas com base no actual estado de endividamento, havendo também que tomar em consideração os esforços em prol de uma boa gestão. Importa também assinalar que países com grandes recursos minerais, nomeadamente o antigo Zaire, recebem a mesma ajuda que a Etiópia, entre outros. É certo que se pretende conceder a Kabila, na República Democrática do Congo, um período probatório, mas interessa saber se existe a consciência de que só uma clara mudança da ditadura para a democracia pode conduzir a uma generosa redução da dívida. No entanto, convém sublinhar que as dívidas não podem ser reduzidas sem obrigações, pois, a par da questão de um regime mais ou menos democrático, há também a questão da corrupção e das excessivas despesas de armamento.
+<P>
+No relatório do colega Torres Couto, há que destacar as propostas de alteração que dizem respeito à participação do Parlamento Europeu. Embora as verbas previstas na proposta provenham do Fundo Europeu de Desenvolvimento, elas não estão sujeitas, infelizmente, ao controlo orçamental do Parlamento Europeu. Não obstante, a participação do Parlamento é absolutamente necessária de modo a garantir um controlo democrático. Para além disso, torna-se algo problemático quando a democratização assume um papel importante na argumentação com os países em desenvolvimento e, do lado europeu, o Parlamento não é incluído.
+<P>
+A proposta de decisão aponta na direcção certa, se as exigências da Comissão não forem entretanto demasiado enfraquecidas. Espero que as ideias base contidas na comunicação da Comissão sejam implementadas rápida e eficazmente, em prol das populações dos países em questão.
+
+<SPEAKER ID=32 LANGUAGE="NL" NAME="Van Bladel">
+Senhor Presidente, posso subscrever as boas intenções do relatório Torres Couto. Gostaria, no entanto, de fazer algumas observações marginais. Em primeiro lugar, pergunto-me se esta abordagem, que tem algo daquilo a que nos Países Baixos designamos por "pappen en nathouden» - ou seja, não há outro remédio senão aguentar - realmente nos irá libertar desse círculo vicioso das dívidas. Falamos aqui de 5 % do total da dívida global. Isto é muito dinheiro, sem dúvida, mas parece-me ser uma postura algo neocolonialista fazer depender de uma boa política ambiental a redução da dívida. Penso que não podemos pedir isso a esses países que estão nessas circunstâncias - ou pelo menos, ainda não.
+<P>
+O mesmo acontece em relação à remissão para os 7 % do PIB - prometidos há mais de 20 anos. Todos sabemos que a maioria dos países nunca quererão realmente chegar aí. Não acho bem que os países que têm dívidas em suspenso não sejam elegíveis para essa redução. Em minha opinião, seria melhor que, a pouco e pouco, fôssemos pensando num perdão dessas dívidas mas, nesse caso, será lícito estabelecer algumas condições. Nesse caso, teremos de abrir os nossos mercados aos seus produtos, de insistir numa despesa mínima em armamento por parte desses países e de encorajar especialistas formados no Ocidente a regressarem aí. Só assim esses países terão uma verdadeira hipótese de desenvolvimento.
+
+<SPEAKER ID=33 LANGUAGE="FI" NAME="Virrankoski">
+Senhor Presidente, as dívidas dos países em vias de desenvolvimento totalizam, actualmente, 2 mil milhões de dólares. O relatório agora em debater diz respeito aos onze países do ACP altamente endividados, países pobres, chamados países PPAE. Os créditos concedidos a estes países somam 5, 6 mil milhões de dólares, e os custos que esta iniciativa acarreta para a União Europeia cifram-se em 150 milhões de ecus.
+<P>
+A comunicação da Comissão parte de um princípio correcto, ao defender uma subvenção parcial dos empréstimos. A situação dos países pobres em vias de desenvolvimento é lamentável. Estes países são obrigados a pagar os empréstimos não só em dinheiro mas também, em especial, com os preços baixos dos seus produtos. O nível dos preços fica tanto mais baixo, quanto maior a necessidade do vendedor em vender. A necessidade dos países pobres é imposta. Esta situação dificulta fortemente a sua situação. Não é possível fazer investimentos, embora até uma pequena acção possa causar um efeito bastante significativo. Este beco sem saída continua a dificultar fortemente o desenvolvimento dos países pobres. A enorme pobreza, que chega a ser miséria, só por si, imobiliza todo o desenvolvimento.
+<P>
+Por outro lado, a estrutura da sociedade não se desenvolve porque não há dinheiro para a educação, e a formação até regista um retrocesso. Esta situação também põe em perigo um desenvolvimento democrático e pacifíco. Isto pode causar agitações várias e debilitar as possibilidades de crescimento da democracia, quando as pessoas compreendem que a maior parte dos seus dinheiros vai para os países ricos, para aqueles que emprestam dinheiro, em vez de ir para os doentes do seu próprio país.
+<P>
+A nível da agricultura, a situação destes países também é muito difícil. As suas culturas têm de orientar-se para produtos de exportação e para produtos non-food , enquanto o próprio povo sofre de subnutrição. Por estas razões, apoio fortemente as ideias apresentadas na comunicação da Comissão.
+
+<SPEAKER ID=34 NAME="Oreja Aguirre">
+Senhor Presidente, gostaria de felicitar pessoalmente o relator, senhor deputado Torres Couto, e o senhor deputado Vecchi pela sua intervenção, bem como de agradecer a este Parlamento o seu interesse e o seu apoio à proposta da Comissão sobre uma participação comunitária na iniciativa relativa à dívida dos países altamente endividados.
+<P>
+Esta iniciativa representa um progresso importante na forma como a comunidade internacional tem abordado, até ao momento, os problemas da dívida dos países mais pobres.
+<P>
+Pela primeira vez, existe um enquadramento que permite levar a cabo uma acção global e coordenada por parte de todos os financiadores, no sentido de ajudar os países pobres altamente endividados que se estão a esforçar por aplicar programas de reforma económica. Este enquadramento abrange não apenas a redução da dívida, mas também medidas a adoptar individualmente em cada caso e destinadas a reduzir o peso da dívida multilateral destes países.
+<P>
+A Comunidade Europeia ajuda os países altamente endividados, através da concessão de subsídios não reembolsáveis. Embora o montante em causa seja modesto, a Comunidade não pode, de forma alguma, ficar à margem de iniciativas como esta.
+<P>
+É evidente que a importância política de uma participação da Comunidade nesta iniciativa é muito superior à contribuição a prestar em números absolutos.
+<P>
+A proposta da Comissão foi discutida em profundidade com os Estados-Membros, que manifestaram o seu total apoio à participação da Comunidade nesta iniciativa.
+<P>
+Apesar disto, procurámos, durante os debates, uma solução alternativa ao financiamento da redução da dívida à escala comunitária, que pretende responder às preocupações manifestadas pelos Estados-Membros, reticentes em assumirem um encargo adicional sobre os orçamentos nacionais, mas assegurando, ao mesmo tempo, que os recursos afectados a esta iniciativa serão adicionais.
+<P>
+Tenho a satisfação de vos anunciar que já se chegou a acordo, pelo que esperamos que o Conselho aprove as suas conclusões dentro em breve. Este acordo inclui diversos elementos positivos.
+<P>
+O Conselho comprometeu-se a assegurar uma participação plena da Comunidade nesta iniciativa. No caso dos países que cumpriam as condições para beneficiar dela em 1997 - ou que venham a cumpri-las em 1998 -, o financiamento da redução da dívida por parte da Comunidade está assegurado mediante uma afectação a partir dos rendimentos anuais dos juros dos fundos do FED. Este financiamento respeita o princípio da adicionalidade dos recursos e assegura que a assistência da Comunidade será superior aos níveis actuais da ajuda concedida aos países em questão.
+<P>
+No decurso do ano de 1998, o Conselho irá reconsiderar, com base num relatório da Comissão, as necessidades de financiamento ulteriores e adoptará uma decisão sobre o financiamento da participação futura da Comunidade nesta iniciativa, incluindo a possibilidade de financiamento através de amortizações de empréstimos concedidos anteriormente pelo Fundo Europeu de Desenvolvimento.
+<P>
+Senhor Presidente, as nossas duas instituições, o Parlamento e a Comissão, apoiam a participação comunitária nesta iniciativa, mas a proposta de resolução parlamentar propõe uma aplicação mais flexível, de forma a alargar o grupo de países beneficiários e a garantir uma redução da dívida mais rápida e mais profunda.
+<P>
+Nos seus contactos com o Fundo Monetário Internacional, com o Banco Mundial e com os governos credores, a Comissão defendeu sempre uma aplicação desta iniciativa baseada em critérios amplos, de forma a que se possa conceder um apoio adequado e oportuno aos países pobres altamente endividados que estão a esforçar-se por aplicar reformas económicas com o objectivo de aumentar o crescimento económico e de reduzir o nível de pobreza.
+<P>
+Por conseguinte, é encorajador constatar que esta iniciativa tem vindo a evoluir e que a sua perspectiva de base tem sido aperfeiçoada. Talvez não seja perfeita, mas baseia-se num amplo consenso a nível internacional no sentido de assistir um grupo de países cujos esforços de desenvolvimento estão limitados pelo pesado encargo da dívida. Além disso, esta iniciativa deve ser vista como uma componente da colaboração a nível internacional com o objectivo de ajudar os países altamente endividados.
+<P>
+Por conseguinte, a redução da dívida deverá ser acompanhada por um nível de assistência ao desenvolvimento contínuo e suficiente.
+
+<SPEAKER ID=35 NAME="Presidente">
+Muito obrigado, Senhor Comissário.
+<P>
+Está encerrado o debate.
+<P>
+Vamos proceder à votação.
+<P>
+(O Parlamento aprova a resolução)
+
+<SPEAKER ID=36 LANGUAGE="NL" NAME="Blokland">
+Senhor Presidente, ontem tivemos um debate neste Parlamento sobre o problema da eficácia da ajuda humanitária. A ineficácia da ajuda não se deve apenas ao facto de as circunstâncias macroeconómicas, em muitos países em vias de desenvolvimento, serem desfavoráveis. Uma das razões dessa ineficácia reside também no enorme peso das dívidas, que impende sobre esses países.
+<P>
+É com razão que o excelente relatório Torres Couto - que posso apoiar calorosamente - atribui a responsabilidade dessas dívidas, não só aos países em via de desenvolvimento, mas também às instituições de crédito, na medida em que concederam, com demasiada facilidade, créditos a ditaduras corruptas ou atribuíram empréstimos para o financiamento de projectos económicos duvidosos.
+<P>
+Embora, na generalidade, se tenha reconhecido que os países em vias de desenvolvimento não têm qualquer possibilidade de amortizar estas dívidas, a questão do perdão ou do reajustamento, nomeadamente das dívidas multinacionais, nunca foi abordável. Felizmente, com a iniciativa do Banco Mundial e do FMI, essa situação mudou e, com a presente proposta da Comissão, será dada execução a esta iniciativa na União Europeia.
+<P>
+Tal como o relator, penso também que o conceito de "dívida sustentável» não deve abranger apenas os indicadores macroeconómicos, mas também os indicadores sociais.
+<P>
+Os países ricos não podem continuar a fornecer ajuda humanitária aos países pobres, com uma mão, cobrando com a outra os juros relativos às enormes dívidas desses países. Além disso, o perdão das dívidas pode constituir um princípio para a recuperação económica de muitos países em vias de desenvolvimento.
+
+<SPEAKER ID=37 NAME="Lindqvist">
+É bom que a UE leve a sério os problemas dos países em desenvolvimento e contribua para reduzir o peso da dívida destes países. Só existem recursos disponíveis para realizar a redução da dívida em cinco de onze países. Isto, porém, não é suficiente. O objectivo deve ser eliminar toda a dívida para que esses países possam sair do círculo vicioso em que caíram. Além disso, a redução das dívidas deve evoluir a par de programas políticos estruturais de fomento do crescimento, do emprego e do desenvolvimento sustentável a longo prazo, através do desenvolvimento das ligações comerciais. Mesmo assim, votei a favor do relatório.
+
+<SPEAKER ID=38 NAME="Titley">
+Senhor Presidente, dado que o meu governo está a assumir um papel de primeiro plano na iniciativa de redução da dívida dos países mais pobres do mundo, prestando assim um contributo positivo para o início do próximo milénio, congratulo-me por poder apoiar hoje este relatório.
+<P>
+Na Grã-Bretanha, o ministro das Finanças, Gordon Brown, e Clare Short, que é a primeira titular do novo cargo ministerial que corresponde ao recém-criado Departamento de Desenvolvimento Internacional, reuniram-se com dirigentes religiosos e outros, para discutir o problema da dívida. Espero que os meus numerosos colegas desta assembleia que detêm influência sobre as suas Igrejas lhes peçam para pressionar os respectivos governos nacionais, pois por enquanto nem todos partilham do entusiasmo britânico por esta tarefa importante.
+<P>
+O relatório tem razão quando associa a necessidade de reformas económicas sustentáveis nos países mais pobres ao problema da redução da dívida por parte dos países mais desenvolvidos. Norte e Sul podem colaborar no que a este ponto se refere, para que os esforços de protecção do ambiente e redução da pobreza feitos pelos países endividados possam ser acompanhados pela redução da dívida.
+<P>
+Os numerosos cidadãos do meu círculo eleitoral que me colocaram este problema congratular-se-ão por saber que o senhor deputado Torres Couto e o Parlamento se associaram à campanha a favor da redução da dívida.
+
+<CHAPTER ID=4>
+Relações em matéria de pesca com a Letónia
+<SPEAKER ID=39 NAME="Presidente">
+Segue-se na ordem do dia o relatório (A4-0397/97) do deputado Macartney, em nome da Comissão das Pescas, sobre uma proposta de regulamento (CE) do Conselho relativo à conclusão do Protocolo I do Acordo sobre as relações em matéria de pesca entre a Comunidade Europeia e a República da Letónia, que estabelece as condições aplicáveis às sociedades mistas previstas no referido Acordo (COM(97)0323 - C4-0364/97-97/0177(CNS)).
+
+<SPEAKER ID=40 NAME="Macartney">
+Senhor Presidente, tal como felicitamos as pessoas quando fazem anos, gostaria de felicitar também o povo da Letónia pelos êxitos alcançados em prol da liberdade na Europa. Devemos felicitá-los, bem como aos estónios e aos lituanos. À sua maneira, contribuíram para manter acesa a chama da liberdade e da democracia, numa região da Europa onde as dificuldades têm sido muitas.
+<P>
+É importante que o acordo com a Letónia seja considerado nesta óptica. Queremos todos incentivar os povos dos Estados bálticos a pensar em termos da sua identidade europeia e em termos da preparação para a adesão à União Europeia, o que é tanto mais importante, quanto a mensagem transmitida pela Comissão nestas últimas semanas é um tanto ou quanto dúbia. A ideia de que um destes três Estados poderá ser incluído na primeira vaga das negociações de adesão, ao mesmo tempo que os outros dois ficam para trás, suscitou a consternação nas capitais das repúblicas vizinhas. Não compreendem a lógica dessa posição, e eu também a não compreendo.
+<P>
+Porém, o facto de ter prevalecido posteriormente, no Conselho de Ministros, a ideia de uma abordagem de tipo regata é já mais encorajante. Neste contexto, devemos congratular-nos com todas as iniciativas, e este acordo de pesca é uma delas, no sentido de incluir nessas negociações todos os países da Europa Oriental, desde a Estónia, a Letónia e a Lituânia até à República Eslovaca e à Bulgária, e assim por diante; não devemos dizer que há duas categorias de Estados-Membros potenciais, mas antes encetar o diálogo com todos os candidatos à adesão.
+<P>
+Os antecedentes deste relatório são os acordos de 1993 com os três Estados bálticos. Foram celebrados acordos separados com a Suécia e a Finlândia, que à época ainda não eram membros da União Europeia. Estamos encantados por a Suécia e a Finlândia terem votado a favor da adesão à UE e estarem agora plenamente integrados na União. Mas é evidente que tinha de haver uma renegociação, em que a União Europeia negociaria em nome dos seus membros primitivos, mas também no da Suécia e no da Finlândia, que são vizinhas da Letónia, do outro lado do Báltico.
+<P>
+Essa renegociação teve lugar em 1996 e, no que se refere à Lituânia, foi imediatamente aprovado um protocolo, que já entrou em vigor. Chegou agora a vez da Letónia. Os lituanos deram o exemplo, e agora seguem-se os letões. A frota de pesca da Letónia é relativamente pequena: de acordo com os números mais recentes, consiste em 186 navios de pesca costeira e 15 navios de alto mar, que pescam geralmente ao largo da costa da Mauritânia. A frota não é grande, e é importante sublinhar que este acordo não prevê o aumento do número de navios da frota de pesca letã.
+<P>
+O principal aspecto desta proposta consiste na constituição de sociedades mistas entre a Comunidade Europeia e a Letónia, assim como no facto de ser disponibilizada uma subvenção no montante de 2, 5 milhões de ecus para apoiar o processo de modernização. Parecerá talvez surpreendente, mas vale a pena observar que os letões não esgotam a sua quota de pesca nas suas próprias águas. Portanto, é possível pescar mais nessas águas sem prejuízo dos objectivos globais de conservação dos recursos haliêuticos que levamos tão a peito. Nos termos do acordo, está prevista a criação de um comité misto (e esta disposição é muito positiva) para negociar a transferência de navios comunitários, a modernização da frota letã, etc.
+<P>
+Gostaria de chamar a atenção para dois objectivos que deveriam ser objecto de maior atenção. Um deles consiste na apresentação de um relatório anual ao Parlamento, uma vez que a fase de pré-adesão desses países nos merece um interesse muito especial. O segundo é que deveriam ser dedicados mais recursos à investigação. Não são questões controversas, e espero que o senhor comissário, na sua resposta, confirme que a Comissão está de acordo com estes dois pontos.
+
+<SPEAKER ID=41 LANGUAGE="EN" NAME="Hardstaff">
+Senhor Presidente, em nome do Grupo do Partido Socialista Europeu, gostaria de felicitar o relator, o senhor deputado Macartney, pelo seu excelente relatório, que evidencia com grande clareza as questões em causa neste acordo de pesca com a Letónia. Também gostaria de manifestar a minha concordância com as suas observações desta manhã sobre os Estados bálticos e o seu progresso comum, rumo à adesão à UE.
+<P>
+É importante atingir o equilíbrio entre a necessidade de permitir que os Estados bálticos candidatos à adesão à União Europeia modernizem as suas frotas de pesca (no caso da Letónia, como já foi dito, os navios têm em média 20 anos) e a necessidade de preservar os recursos haliêuticos e de não aumentar a capacidade global de pesca. Este projecto de venda de navios comunitários (que devem ter pelo menos cinco anos), que passarão a arvorar o pavilhão letão, deverá contribuir para alcançar esse equilíbrio, desde que seja efectuado um controlo apertado, para verificar que esses navios não sejam depois reintegrados nas frotas comunitárias, e também que as quotas sejam respeitadas. É por isso que será necessário um relatório anual sobre esta questão.
+<P>
+Se for possível criar sociedades mistas e pôr em prática projectos bilaterais entre a Letónia e a UE no âmbito da modernização e da privatização da velha frota de pesca letã, tal só poderá ser vantajoso para o progresso da Letónia rumo à adesão à União Europeia. Neste contexto, congratulamo-nos com as propostas da Comissão e aguardamos com expectativa a ratificação rápida do protocolo, para permitir que essa cooperação se inicie a nível comunitário, para além das iniciativas bilaterais de Estados-Membros individuais.
+
+<SPEAKER ID=42 LANGUAGE="DE" NAME="Langenhagen">
+Senhor Presidente, já passaram quase sete anos e, tal como hoje, era uma sexta-feira. Fiz, nesse dia, a primeira intervenção sobre a pesca neste hemiciclo. Na Alemanha, dizemos "sexta-feira é dia de comer peixe ". Só no domingo é que há o saboroso assado de carne. O que é que mudou desde então? No que respeita ao dia da semana, pouca coisa. Estou muito desiludida. Mesmo se observarmos a ordem do dia das sessões plenárias do próximo semestre até Julho de 1998, nada se altera de um modo geral no que respeita à marcação de datas. Isto não está bem. E porquê? Peguem simplesmente no relatório de hoje. Ele aponta para o futuro da UE após o ano 2000. Como é que eu posso fazer-vos ver isso?
+<P>
+Antes de iniciar as negociações sobre um novo acordo e antes da sua renovação, a Comissão deve apresentar uma apreciação dos elementos fundamentais, nomeadamente: a situação dos recursos haliêuticos, os efeitos do acordo no orçamento comunitário, ou a repartição da contribuição financeira da Comunidade Europeia e dos armadores. O presente acordo com a Letónia, por exemplo, refere no seu protocolo precisamente esta contribuição financeira através da criação de sociedades mistas. Com o Tratado de Amsterdão, o alargamento da União Europeia será uma realidade. Além dos Estados bálticos da Estónia e da Lituânia, este alargamento inclui naturalmente também a Letónia. No contexto do Tratado de Amesterdão, os acordo de pesca concluídos até agora - ou seja, os acordos da UE com estes países terceiros - adquirem uma nova importância. Com o alargamento pretende-se também, além da consolidação de valores democráticos fundamentais, a criação de postos de trabalho mais competitivos que permitam superar deficiências estruturais, a promoção de pequenas e médias empresas e a melhoria da qualidade ambiental europeia. Esta última, aliás, deixa muito a desejar na bacia do Báltico.
+<P>
+A experiência adquirida na gestão das verbas da UE e na criação de emprego, bem como na constituição de sociedades mistas, ajudarão a Letónia - disso estou convencida - a evoluir para uma rápida privatização e, pelo menos, a rentabilizar os seus esforços no sentido de preparar a sua gestão da pesca para a futura adesão. Na estratégia de aproximação destes países candidatos à Comunidade, o acordo de pesca com a Letónia é um factor não só a considerar favoravelmente, como a saudar expressamente. Espero que os colegas estejam agora convencidos de que não devíamos debater estas questões aqui apenas à sexta-feira.
+
+<SPEAKER ID=43 LANGUAGE="EN" NAME="Gallagher">
+Senhor Presidente, gostaria de felicitar o senhor deputado Macartney pela preparação e apresentação do seu relatório. Claro que todos os relatórios por que é responsável são bem preparados, e este não é excepção.
+<P>
+Nos termos do acordo de pesca celebrado a 16 de Dezembro entre a UE e a Letónia, as partes contratantes acordaram em promover a constituição de empresas mistas, tal como está estipulado nas disposições do protocolo. Creio ser da maior importância que essas empresas existam, e penso que os participantes da UE poderão dar um contributo importante para o desenvolvimento do sector na Letónia. É importante para esse país, e é também importante para as zonas costeiras das regiões periféricas onde, como acontece no meu próprio país, não há outras oportunidades de emprego.
+<P>
+O protocolo será muito vantajoso para a União e para a Letónia. A criação de empresas mistas e a participação financeira da União contribuirão para que a Letónia possa realizar alguns dos principais objectivos do sector, tais como: modernizar a frota, melhorar a administração das pescas e promover as importações destinadas à sua indústria transformadora. A UE beneficiará da transferência dos navios para o pavilhão letão e, principalmente, terá acesso aos pesqueiros, o que contribuirá, ainda que em pequena medida, para aliviar a pressão que se faz sentir sobre as frotas e sobre os recursos haliêuticos, tendo em conta, nomeadamente, o facto de a Letónia não estar a esgotar a sua quota de pesca.
+
+<SPEAKER ID=44 LANGUAGE="EN" NAME="McKenna">
+Senhor Presidente, também gostaria de felicitar o senhor deputado Macartney pelo seu relatório. O protocolo em apreço destina-se a transferir capacidade da União Europeia para a Letónia, promovendo a constituição de empresas mistas.
+<P>
+Os navios serão transferidos de pavilhão, teoricamente nos termos de uma disposição que evitará o aumento da capacidade global da frota pesqueira letã. Mas a questão consiste em saber como é que isso vai ser garantido. A frota letã tem em média 20 anos, ao passo que os navios comunitários que vão ser transferidos podem ter apenas cinco anos. Mesmo que a tonelagem total da frota não aumente com essa transferência de navios, a substituição de navios velhos por navios novos provocará inevitavelmente um aumento da capacidade efectiva de pesca da frota letã.
+<P>
+Uma das conclusões do meu relatório sobre a PCP foi que nem sequer os registos dos navios comunitários eram fidedignos. Assim sendo, como é que é possível saber ao certo qual é a capacidade da frota letã e se essas transferências não vão contribuir para um aumento do esforço de pesca e para agravar a situação em termos de esgotamento dos recursos?
+<P>
+Em comparação com os acordos celebrados com os países ACP, este acordo com a Letónia é muito mais equitativo, na medida em que não explora o país em questão e em que dá emprego aos letões. Este é um aspecto muito importante, que gostaria que fosse transferido para os acordos com os países ACP, na medida em que é muito mais equitativo.
+
+<SPEAKER ID=45 LANGUAGE="ES" NAME="Fraga Estévez">
+Senhor Presidente, as minhas felicitações ao senhor deputado Macartney. Os acordos de pesca devem ser bem acolhidos sempre que são benéficos e justos para ambas as partes. Lamentamos, por isso, que o artigo 6º do Protocolo com a Letónia arruine o que poderia ter sido um bom começo de uma nova fase das relações com os países bálticos em matéria de pesca, constituindo, além disso, o que é mais grande ainda, um grave precedente.
+<P>
+Este artigo, que a Comissão nunca deveria ter aceite por ser discriminatório e claramente prejudicial para os interesses comunitários, estabelece que as sociedades mistas são obrigadas a trabalhar com uma tripulação exclusivamente residente na Letónia. Deste modo, Senhor Presidente, os actuais tripulantes dos barcos em causa irão perder os seus postos de trabalho.
+<P>
+Na altura da cimeira sobre o emprego, que pôs em relevo que este é um dos mais graves problemas da União e a sua resolução o nosso objectivo prioritário, não se compreende que as autoridades aceitem cláusulas que irão aumentar o número de desempregados.
+<P>
+Por outro lado, encontra-se em adiantada fase de preparação o novo regulamento sobre os fundos estruturais que tem por principal objectivo a criação de emprego. Poderá, pois, acontecer que um empresário interessado, em princípio, em promover uma sociedade mista não tenha acesso aos fundos comunitários uma vez que, como é o caso deste acordo, não apenas não serão criados empregos, como inclusivamente serão destruídos alguns.
+<P>
+Que as autoridades competentes não apenas tenham ignorado estas consequências, mas também as tenham fomentado com acordos deste tipo, é, Senhor Presidente, lamentável e perigoso. Tanto mais que estamos a falar de um país, a Letónia, que é um exportador líquido de produtos da pesca para a União, de cuja produção é um concorrente directo.
+<P>
+Por estes motivos, Senhor Presidente, creio que não deveríamos, no futuro, admitir este tipo de cláusulas e instamos a Comissão a que não as inclua, daqui para a frente, nos acordos de pesca.
+
+<SPEAKER ID=46 NAME="Oreja Aguirre">
+Senhor Presidente, em primeiro lugar, gostaria de felicitar o senhor deputado Macartney pelo seu relatório que me compraz ver acolher com satisfação a conclusão deste protocolo.
+<P>
+Como os senhores deputados sabem, na sequência do alargamento da Comunidade em 1995, a Comissão negociou novos acordos de pesca com uma série de países terceiros. As directrizes de negociação do Conselho previam o estabelecimento de sociedades mistas no sector das pescas, como um novo elemento a incluir nestes acordos.
+<P>
+A presente proposta consiste num protocolo sobre a criação de sociedades mistas com a Letónia e sobre a aplicação do acordo de pesca que foi ratificado o ano passado. Uma vez aprovado o presente protocolo, serão actualizados todos os acordos de pesca com os Estados bálticos de acordo com as directrizes de negociação do Conselho.
+<P>
+Deste modo, estaremos a contribuir para o alinhamento a que aludia, esta manhã, o senhor deputado Macartney, relativamente à negociação da adesão à Comunidade Europeia por parte de todos os países que a solicitaram, podendo informar-vos, também, que encaramos favoravelmente a proposta que apresentou sobre a investigação.
+<P>
+No que se refere à intervenção da senhora deputada Fraga Estévez, gostaria de lhe dizer que, de acordo com o plano de sociedades mistas permanentes, os barcos são retirados do registo comunitário e passam a arvorar a bandeira de um país terceiro. Por conseguinte, estão sujeitos à legislação deste país. A Letónia declarou de forma expressa que a tripulação e o capitão dos barcos letões deveriam ser cidadãos nacionais ou residentes na Letónia, em conformidade com a legislação em vigor nesse país. O protocolo negociado com a Lituânia contém disposições idênticas a esta. Uma vez que este protocolo foi aceite pelos Estados-Membros e ratificado sem grandes dificuldades, a Comissão conduziu as negociações com a Letónia de acordo com a mesma linha de orientação que havia seguido com a Lituânia. No entanto, desejo tranquilizar a senhora deputada Fraga Estévez, dizendo-lhe que a Comissão tem a firme intenção de fazer o possível, no âmbito de acordos como este, para salvaguardar o emprego comunitário.
+
+<SPEAKER ID=47 NAME="Presidente">
+Muito obrigado, Senhor Comissário.
+<P>
+Está encerrado o debate.
+<P>
+Vamos proceder à votação.
+<P>
+(O Parlamento aprova a resolução legislativa)
+
+<CHAPTER ID=5>
+Zonas de montanha e Fundos Estruturais
+<SPEAKER ID=48 NAME="Presidente">
+Segue-se na ordem do dia a discussão conjunta das seguintes perguntas orais dirigidas à Comissão:
+<P>
+B4-1016/97, do deputado Ebner, em nome do Grupo PPE, sobre a necessidade de ter em conta a especificidade das regiões de montanha na reforma dos fundos estruturais; -B4-0008/98, dos deputados Azzolini, Podesta e Santini, em nome do Grupo UPE, sobre as zonas de montanha; -B4-0009/98, do deputado Ephremedis, em nome do Grupo GUE/NGL, sobre os problemas acrescidos das regiões de montanha da UE; -B4-0006/98, dos deputados Bontempi e Cot, em nome do Grupo PSE, sobre as zonas de montanha e os fundos estruturais; -B4-0007/98, dos deputados Macartney e Ewing, em nome do Grupo ARE, sobre a reforma dos fundos estruturais e os problemas das zonas de montanha; -B4-0010/98, dos deputados Lindholm e Schroedter, em nome do Grupo V, sobre as regiões de montanha e a reforma dos fundos estruturais.
+<SPEAKER ID=49 LANGUAGE="IT" NAME="Ebner">
+Senhor Presidente, quando se fala de regiões e de zonas de montanha, pensa-se, normalmente, na agricultura. Mas essa é apenas uma parte da problemática da montanha: há muitos mais problemas, como o ambiente, o emprego e tantos outros. É preciso esclarecer que a montanha não é apenas o arco alpino, como muitas vezes se afirma e ainda ontem foi dito; há zonas montanhosas em quase todos os países da União Europeia.
+<P>
+Está já em curso o debate sobre a reforma dos fundos estruturais da UE para o período após 1999. Tendo em conta a relação directa da política regional e estrutural com as regiões e o seu impacto sobre o ordenamento territorial, bem como a crescente importância das regiões, permanentemente salientada no âmbito da subsidiariedade, considera-se oportuno e necessário completar esses esforços através da formulação e inclusão dos interesses específicos de cada região. Toda uma série de convenções, acordos e modelos internacionais e transfronteiriços - entre os quais, por exemplo, a Convenção Alpina, da qual a União Europeia é signatária - têm em conta as especificidades do espaço alpino e promovem em particular acções integradas para salvaguardar e desenvolver os Alpes como espaço vital, económico, de lazer e, sobretudo, como espaço natural.
+<P>
+A implementação destes objectivos requer também uma actuação concreta ao nível da União Europeia e pressupõe uma estratégia de desenvolvimento integrado e sustentável que promova o aproveitamento da dinâmica interna das regiões de montanha.
+<P>
+O Parlamento Europeu aprovou o último relatório sobre as zonas de montanha em 1988, ou seja, há dez anos. O sistema até agora em vigor, que limita as ajudas dos fundos estruturais a regiões específicas, não permitiu aprovar medidas relativas a uma zona de intervenção própria para as regiões de montanha.
+<P>
+Na Agenda 2000, a Comissão expôs também os seus projectos sobre a reforma acima referida para o período de 2000 a 2006. É positivo que o enquadramento financeiro tenha sido alargado e existam mais recursos disponíveis para esse período - mais precisamente, 75 mil milhões de ecus - do que para o período de 1993 a 1999.
+<P>
+Para a atribuição das dotações no âmbito da nova definição de objectivos, importa no entanto ter em conta que a globalização dos mercados agrícolas e alimentares põe em perigo, particularmente, as pequenas explorações agrícolas de montanha, que desempenham uma função ecológica absolutamente prioritária, se não forem previstas medidas especiais e programas de acção de longo prazo para a agricultura de montanha.
+<P>
+De acordo com a intervenção de ontem do comissário van den Broek sobre o trânsito alpino, o Conselho "Transportes» procurou estabelecer uma cláusula sobre os Alpes. Pretender-se-ia aprovar uma convenção sobre os Alpes e determinar que o conjunto das regiões alpinas seja declarado "zona sensível». Segundo o senhor comissário, a Comissão acolheu positivamente esse resultado do Conselho de Ministros. A Comissão ficaria, assim, também em condições de poder zelar pela protecção dos Alpes. Observa-se aqui uma mudança de rumo. Só que essa ideia tem de ser consequentemente levada até ao fim. Neste contexto, solicito-lhe, caro Senhor Comissário, que nos informe de que forma tenciona a Comissão intervir na próxima revisão dos fundos estruturais e regionais, em Março deste ano, por forma a que as regiões montanhosas sejam tidas especialmente em consideração, tendo em vista a salvaguarda deste espaço natural, vital, económico e de lazer.
+
+<SPEAKER ID=50 LANGUAGE="IT" NAME="Santini">
+Senhor Presidente, o debate em curso sobre a reforma dos fundos estruturais tem dois objectivos fundamentais. O primeiro é melhorar o funcionamento dos próprios fundos e preparar a União para os grandes desafios que a aguardam e que todos conhecemos já de cor: o alargamento, a reforma da PAC, as políticas para o ambiente, as políticas para o emprego, a formação e a circulação dos jovens e a luta contra os males do século como o cancro, a SIDA e a droga - incluindo o mal novo que é tentar legalizá-la.
+<P>
+À parte estes problemas, porém, que são objecto de outros debates, é justo sublinhar aqui que a reforma dos fundos estruturais fala directamente a linguagem da montanha. Com efeito, o segundo objectivo é o reconhecimento, na repartição dos fundos, das chamadas zonas desfavorecidas. E as zonas de montanha contam-se, seguramente, entre elas, sobretudo aquelas em que a degradação, o abandono e a fuga dos jovens se tornaram um mal endémico e, aparentemente, inelutável, pelo menos até agora.
+<P>
+O último relatório do Parlamento Europeu relativo às regiões de montanha remonta já a 1988. Dez anos são muito tempo para uma política frágil e delicada como esta. Face à recente aprovação da Convenção Alpina por parte da Comissão, e, ao mesmo tempo, tendo em conta as importantes reformas contidas na Agenda 2000, é, efectivamente, necessário encontrar ideias novas, e isso é tarefa da Comissão. Poderá, pois, a Comissão informar-nos sobre as medidas que pensa empreender com vista à aplicação da Convenção Alpina, ao reconhecimento da especificidade das regiões de montanha, mas, sobretudo, à criação de um conjunto sério de medidas particulares que propiciem, pelo menos, uma abordagem correcta da problemática da montanha?
+<P>
+Digo isto face à reforma dos fundos estruturais, que nós, os habitantes da montanha, encaramos com grande apreensão: de sete fundos, estamos reduzidos a apenas três, e, lamentavelmente, deixaram de existir os dois fundos dedicados, essencialmente, à agricultura, o nº 5 a) e o nº 5 b), este último, precisamente, orientado para a agricultura em zonas desfavorecidas e de montanha.
+<P>
+Entre os três objectivos e o objectivo nº 2, que tem de se ocupar, ao mesmo tempo, das reformas e restruturações nos domínios industrial, urbano e agrícola, de 13 iniciativas mantêm-se apenas três; mantém-se o LEADER, ainda que com muitas críticas, e, sobretudo, no que respeita ao orçamento anual, em 30 mil milhões de ecus vão ser recuperados 2, que constituíam o fundo do antigo nº 5 b). Peço, pois, à Comissão, ao senhor comissário Oreja, que leve esta mensagem ao seu colega Fischler, para que, pelo menos, estes 5 mil milhões continuem a ser atribuídos à agricultura de montanha.
+
+<SPEAKER ID=51 LANGUAGE="EL" NAME="Ephremidis">
+Senhora Presidente, fazemos bastantes debates sobre os Alpes, sobre as zonas de montanha, e corremos o risco de se criar a ilusão de que nas zonas de planície não existem problemas, que é tudo uma maravilha. Não é assim! Mas a verdade é que, nas zonas de montanha, os problemas são múltiplos, são gravíssimos e exigem soluções imediatas e integradas. Todos sabemos que apresentam algumas características comuns: além da sua diversidade e particularidade, as zonas de montanha apresentam desvantagens naturais devidas ao clima e à fomação do terreno. Por outro lado, apresentam certos aspectos positivos: são uma reserva ecológica, são arcas que guardam tradições históricas, culturais, e tudo isso deve ser conservado. A abordagem desenvolvida até este momento é fragmentada e insuficiente.
+<P>
+As regiões em questão têm infra-estruturas insuficientes ou não têm nenhumas, sejam elas técnicas ou outras, a nível de segurança social, de Estado social, de ensino, de saúde, e é assim que começa a razia dessas regiões, o seu abandono e desertificação, que irão ter consequências ambientais devastadoras, e não só. De um modo mais vasto e geral, irão causar a destruição dessas raízes das tradições históricas e culturais. A pergunta que dirigimos à Comissão é se agora, com as alterações introduzidas nos fundos estruturais, serão tomadas em consideração essas necessidades extremamente grandes e urgentes das zonas de montanha, acima de tudo, para poderem fazer face às prescrições desfavoráveis e às limitações introduzidas pela Agenda 2000. Além do mais, agora, com o alargamento a leste, irão aumentar as regiões de montanha. Senhora Presidente, falo com base na experiência do meu próprio país, onde as planícies são raras, e onde existem muitas zonas de montanha ou meio montanhosas. Assim, pede-se ao senhor comissário que garanta que nas alterações aos fundos estruturais será tomada em consideração uma ajuda integrada para apoiar estas regiões.
+
+<SPEAKER ID=52 LANGUAGE="FR" NAME="Cot">
+Senhora Presidente, Senhor Comissário, o meu colega Bontempi - que me pediu que apresentasse as suas desculpas, mas ficou retido hoje na península Ibérica por razões que dizem indirectamente respeito aos problemas da montanha - e eu próprio constatámos, tal como outros colegas, a ausência de debate geral, neste Parlamento, sobre a política relativa à montanha nos últimos dez anos.
+<P>
+É certo que outras instituições se preocuparam com isso, nomeadamente o Comité das Regiões em 1995, mas verificam-se alterações significativas na paisagem de montanha, assim como no quadro mais geral que envolve esta questão. A modificação da política agrícola comum e as novas alterações previsíveis no quadro da Agenda 2000, a Convenção Alpina e o seu protocolo "trânsito», ligado ao debate de ontem sobre o trânsito alpino, e, por último, a reforma dos fundos estruturais, objecto principal do debate de hoje, principal porque os problemas da montanha são problemas de natureza transcendental, transversal e, portanto, afectados por todas as políticas comunitárias.
+<P>
+Em primeiro lugar, pela política agrícola comum, visto que sem agricultura de montanha, não preservamos o nosso património. É preciso cuidar dele. É preciso evitar que a nossa montanha seja transformada em baldio, degradada por avalanches e desmoronamentos de terreno. É preciso, por conseguinte, garantir um rendimento condigno aos agricultores de montanha.
+<P>
+Um estudo recente dos serviços franceses responsáveis pelo planeamento, sob o estímulo do senhor deputado Bazin, sobre os efeitos da reforma da política agrícola no rendimento agrícola, suscita, a este respeito, alguns problemas. No referido estudo, refere-se o efeito globalmente favorável da reforma da política agrícola comum para todas as zonas agrícolas, mas as explorações que mais lucram com isso são as situadas em zonas desfavorecidas, fora de montanha. Em segundo lugar, vêm as explorações situadas em zonas de planície. Em contrapartida, salienta-se o grave desfasamento das explorações em zona de montanha, cujo rendimento médio se distancia da média nacional, ou seja: o handicap montanha não é suficientemente compensado. Uma ligeira modificação dos mecanismos de atribuição das ajudas permitiria, sem dúvida, pôr cobro a esta situação, tendo, para além disso, um efeito favorável em termos de emprego agrícola. Terei todo o prazer em comunicar estas indicações à Comissão.
+<P>
+O segundo assunto a que gostaria de me referir diz respeito ao encorajamento à política de qualidade. É evidente que, nas regiões de montanha, se tem que apostar na qualidade das nossas produções, uma vez que a concorrência com as fábricas de leite da planície é impossível. Esta afirmação é válida para os nossos queijos, mas também para o nosso mel, os nossos presuntos, e mesmo o nosso artesanato artístico. Esta política foi encorajada, em França, pela Lei "montanha» de 1985, que instituiu uma denominação "montanha». A denominação foi declarada contrária ao Tratado pelo Tribunal de Justiça, no acórdão Pistre de 7 de Maio de 1997, que, com toda a pertinência, aliás, eliminou uma discriminação contra os produtos não franceses.
+<P>
+É por isso necessário encontrar uma forma de encorajar as produções de qualidade, a nível europeu. Porque não uma denominação "montanha europeia»? É uma fórmula que propõem os profissionais do meu país. Gostaria que a Comissão estudasse esta possibilidade.
+<P>
+Por último, os fundos estruturais devem poder ter por objecto a compensação dos handicaps naturais. Exclui-se hoje um objectivo específico "montanha»; isso iria contra a concentração dos fundos estruturais. Mas será necessária, pelo menos, uma afirmação da especificidade da identidade "montanha», ao abrigo do objectivo 2 e uma melhor ligação com o handicap físico, por oposição ao mero critério do rendimento, pois algumas actividades económicas podem ter um efeito nefasto sobre a preservação do ambiente, ou a manutenção da agricultura de montanha. É o caso do transporte rodoviário, ou ainda de certas formas de turismo intensivo. Deverá ser permitida uma maior flexibilização das condições de atribuição das ajudas, no respeito pelas disposições do Tratado, nomeadamente as relativas à concorrência.
+<P>
+Para concluir, Senhora Presidente, Senhor Comissário, direi uma palavra sobre os programas transfronteiriços, que dizem respeito a vários maciços montanhosos, certamente que não à totalidade da montanha europeia, mas a vários dos seus maciços, em particular aos Alpes e aos Pirinéus. A Comissão decidiu desenvolver estes programas e consagrar-lhes uma dotação acrescida. Congratulo-me com essa medida e manifesto o desejo de que estes programas tenham totalmente em conta a especificidade do ambiente montanha, enquanto tal, visto que a nossa montanha é um património comum a toda a Europa. Este património é frágil. É preciso protegê-lo, ou seja, encorajar os homens e mulheres que cuidam dele, no quadro de uma verdadeira política de desenvolvimento rural sustentado. É o que desejamos e o que esperamos que a reforma dos fundos estruturais venha a conseguir.
+
+<SPEAKER ID=53 LANGUAGE="EN" NAME="Macartney">
+Senhora Presidente, antes de mais nada, gostaria de dizer que me congratulo vivamente com as iniciativas dos meus colegas que se associaram a nós para colocar esta questão, sem dúvida da maior importância. E o momento é também muito oportuno, atendendo a que vai ser revista toda a questão dos fundos estruturais e regionais.
+<P>
+Um dos problemas que se colocam é o das definições. Autorizem-me a citar a pergunta oral que apresentei, juntamente com a senhora deputada Ewing: o que é exactamente uma montanha? Deveria ser fácil para um geólogo responder a esta pergunta, mas as características económicas de uma montanha dependem também da latitude, pelo menos tanto como da altitude. A meu ver, o principal critério deveria ser o do limite florestal. As árvores indicam até que altitude a montanha pode ser cultivada, e gostaria de exortar a Comissão a ter este facto em conta quando analisar esta proposta.
+<P>
+O segundo problema que se coloca em matéria de definições relaciona-se com os factores que exercem a sua influência nas regiões de montanha. Dado que a densidade demográfica das regiões de montanha é muito baixa, é muito fácil esquecer os problemas dos habitantes dessas regiões, que se diluem na região muito mais vasta abrangida pela definição. Sei que a Comissão está a braços com o problema da definição das regiões, e gostaria de aconselhar que os problemas destas regiões não ficassem diluídos nos de outra muito mais vasta, por uma questão de conveniência administrativa. É uma batalha que deve ser travada, e com ardor, em toda a Europa.
+<P>
+Espero que a Comissão considere de forma pragmática toda esta questão, e que comece a ter em conta a questão do clima, e não apenas alguns dos indicadores macroeconómicos. A tarefa parecerá talvez difícil, mas há precedentes favoráveis, como o caso das negociações de adesão da Suécia e da Finlândia, em que os suecos e os finlandeses defenderam muito justificadamente que é necessário definir o objectivo 6, como lhe chamamos agora, ou seja, que as desvantagens climáticas das regiões mais setentrionais desses países devem ser reconhecidas, através da definição de um objectivo específico. Essas regiões deverão ser integradas no objectivo 1.
+<P>
+Até aqui tudo bem, mas é preciso ir mais longe. Temos de defender a aplicação do mesmo princípio em toda a Europa, para que todas as regiões onde o clima é muito frio em certas épocas do ano, ou permanentemente, sejam elegíveis para o mesmo tratamento. O princípio aplicar-se-ia certamente às terras altas da Escócia, uma região montanhosa onde se vão treinar os alpinistas que tencionam escalar os Himalaias e onde, por definição, o clima é muito frio e as condições são muito difíceis. O mesmo se aplica também a outras regiões referidas pelos colegas, em França, na Itália e no Sul do Tirol. Tudo isto significa que deverá ser adoptada uma nova abordagem no que se refere à questão da compensação das desvantagens, que é o que está em causa numa política estrutural e regional.
+<P>
+Recomendo estas iniciativas à assembleia, e espero que a Comissão as adopte e lhes dê uma resposta positiva.
+
+<SPEAKER ID=54 LANGUAGE="SV" NAME="Lindholm">
+Senhora Presidente, é muito positivo que o Parlamento Europeu repare na situação especial e nos problemas das zonas de montanha da UE. Existem várias regiões dessas, designadamente na Europa do Sul, como aqui foi referido, na Grécia, Espanha e Itália. Além disso, existem zonas de montanha no Centro da Europa e no Norte da Europa. Também viremos, provavelmente, a ter zonas de montanha nos novos Estados-Membros.
+<P>
+Tal como o senhor deputado Macartney disse, é conveniente notar que os problemas não são os mesmos. Penso que é muito importante definir o que entendemos por zonas de montanha. A questão do clima não é das menos importantes. Como cidadão sueco, tenho, naturalmente, uma paixão especial pelos problemas das regiões escandinavas que são actualmente abrangidas pelo objectivo 6. Resumindo, o que entendemos por zonas de montanha? Creio que é por esta definição que devemos começar.
+<P>
+As zonas de montanha são o maior legado ecológico da Europa, um legado muito sensível, cujo carácter biológico único pode ser facilmente destruído por muitos anos, talvez mesmo para sempre. Em muitos locais, as zonas de montanha constituem os maiores reservatórios de água potável, que todos sabemos ser necessário preservar. Em alguns sítios, a grande ameaça é o turismo de massas, que causa destruição e sobrecarga, tanto a nível ecológico como biológico. É também a construção de vias de transporte pequenas ou grandes: estradas, auto-estradas, túneis, de que temos aqui falado, e também a rede transeuropeia de transportes no seu conjunto. A poluição ambiental do ar e da água aumenta. Os problemas inerentes às zonas de baixa densidade populacional levam as pessoas a mudar-se, as pequenas explorações agrícolas e florestais desagregam-se, a cultura específica e a herança cultural existentes em muitos locais são destruídas. Não estou a pensar na única minoria autóctone existente na UE, designadamente os lapões do Norte da Escandinávia. Nesta região, desenvolveu-se uma simbiose entre homem e natureza.
+<P>
+Todavia, nós, os Verdes, não somos favoráveis à criação de programas especiais ou zonas de objectivo específico nas regiões de montanha. Corremos um risco manifesto de que venha a verificar-se uma inflação de diferentes zonas, como, por exemplo, as zonas insulares, fluviais e marítimas, de montanha, urbanas, etc.. Não acreditamos nesse modelo.
+<P>
+A política regional do futuro deve, porém, encarar determinadas regiões de forma diferente do que acontece hoje, de acordo com uma visão de conjunto e não apenas de forma pontual. Isto também se aplica às zonas de montanha. Estas zonas devem ser ajudadas através do desenvolvimento de formas de produção e de estilos de vida ecológicos e adaptados ao ambiente. Talvez pudéssemos reflectir sobre a possibilidade de demarcar ambientalmente determinadas zonas onde as pessoas trabalham e vivem de uma determinada forma, prestando-lhes maior ajuda através dos fundos estruturais. Talvez seja possível desenvolver e alargar o programa Natura 2000. Podemos pensar em muitas coisas, mas nós perguntamos: o que quer a Comissão?
+
+<SPEAKER ID=55 NAME="Oreja Aguirre">
+Senhora Presidente, Senhoras e Senhores Deputados, esta série de perguntas permite à Comissão clarificar a sua posição sobre a reforma dos fundos estruturais e, mais concretamente, sobre a forma como serão tomadas em consideração no âmbito da mesma as características específicas das zonas de montanha.
+<P>
+No âmbito das reflexões sobre a adaptação da política agrícola e da política estrutural recolhidas na Agenda 2000, as perguntas dirigidas à Comissão tratam, fundamentalmente, da possibilidade de elaborar medidas específicas para as zonas de montanha, por exemplo, através da criação de um objectivo denominado «montanha», que viria acrescentar-se aos restantes objectivos estruturais.
+<P>
+A este propósito, a Comissão salienta que a adaptação das necessidades locais deve ter em conta a necessidade de evitar tornar excessivamente complexa a política estrutural e de assegurar uma melhor concentração dos fundos estruturais. O sistema proposto na Agenda 2000 permite, a nosso ver, conciliar a necessária simplificação com uma maior tomada em consideração dos problemas específicos das zonas de montanha, e isto a dois títulos.
+<P>
+Em primeiro lugar, a reorganização da política de desenvolvimento rural deve implicar uma descentralização profunda das políticas de apoio, questão a que aludiu o senhor deputado Macartney na sua intervenção, bem como uma maior integração dos diferentes instrumentos existentes, o que irá permitir, através da execução de programas regionais integrados, uma adaptação mais adequada às necessidades específicas das distintas regiões da União Europeia. As zonas de montanha deverão ser particularmente beneficiadas relativamente às suas necessidades concretas e em razão das mesmas.
+<P>
+Em segundo lugar, a tomada em consideração das medidas agro-ambientais no âmbito da Agenda 2000 permitirá, igualmente, optimizar o aproveitamento das características específicas das zonas de montanha. A promoção da conservação e da valorização do ambiente, que constitui uma resposta à consciencialização social sobre as ameaças que sobre este pesam e que encontra um campo de aplicação único nas zonas de montanha, poderá concretizar-se em duas direcções: por um lado, através do reforço do dispositivo das indemnizações compensatórias, que poderá vir a converter-se num instrumento de apoio básico às práticas agrícolas extensivas respeitadoras do ambiente; por outro lado, e com isto tento responder às preocupações manifestadas há pouco pelo senhor deputado Cot, através da promoção de medidas agro-ambientais com objectivos concretos. Refiro-me, por exemplo, entre outras medidas, à manutenção da pastorícia alpina, que poderá vir a receber maior apoio financeiro e, eventualmente, beneficiar de percentagens de co-financiamento mais elevadas.
+<P>
+Relativamente a este último ponto, devo salientar que outras zonas ecológicas sensíveis, como, por exemplo, as zonas húmidas, poderão, igualmente, vir a receber maior apoio.
+<P>
+À margem desta perspectiva geral, foram dirigidas à Comissão duas perguntas concretas relativas às zonas de montanha: a primeira diz respeito à Convenção Alpina e às medidas que a Comissão tenciona levar a cabo para a aplicar; a segunda tem a ver com os futuros critérios de classificação das zonas de montanha e, em particular, a altitude.
+<P>
+No que se refere à Convenção Alpina, desejaria sublinhar que, embora a Comunidade Europeia tenha ratificado esta convenção e assinado alguns dos seus protocolos, entre os quais o relativo à agricultura nas zonas de montanha, antes de se iniciar o processo de ratificação, é necessário aguardar a harmonização linguística dos protocolos. A actuação da Comissão traduz-se, pois, de momento, na sua participação activa nos trabalhos do Comité Permanente da Convenção Alpina e na coordenação do sistema de observação e de informação sobre os Alpes.
+<P>
+Por último, no que se refere aos critérios de classificação das zonas de montanha, a Comissão prefere aguardar a determinação dos princípios básicos da reforma dos fundos estruturais antes de abordar problemas mais concretos como este.
+
+<SPEAKER ID=56 LANGUAGE="DE" NAME="Bösch">
+Senhora Presidente, Senhor Comissário, caros colegas, as perguntas e os argumentos apresentados pelos diferentes grupos já mostraram a forma diversificada como é possível encarar as montanhas, que abrangem uma área que vai da Escandinávia à Grécia. Parto do princípio de que o primeiro orador se referiu antes aos Alpes e, como também eu resido nos Alpes, irei concentrar-me um pouco mais nessa região.
+<P>
+Ao mesmo tempo, porém, gostaria de alertar - e neste ponto estou em perfeita sintonia com a oradora precedente, a senhora deputada Lindholm - para o facto de não nos devermos dispersar muito nesta matéria, sobretudo numa altura em que, com o acordo desta assembleia e em seguimento da Agenda 2000, nos estamos antes a concentrar nas políticas estruturais da União.
+<P>
+Creio que devíamos insistir no facto de o móbil decisivo para as políticas estruturais e para as ajudas neste domínio ser, em última análise, o bem-estar das regiões em causa e, graças a Deus, as regiões alpinas não estão necessariamente entre as mais pobres da União. Por isso, na sequência de debates deste género, colocar-se-ia afinal também a questão: quem é que deve pagar isso? De onde é que deve vir o dinheiro, devemos cortar nalguns domínios ou devemos conseguir fundos adicionais, e quem é que os financia?
+<P>
+Do que precisamos, contudo - e isso, felizmente, já foi repetidas vezes referido esta semana -, é de uma política alpina mais clara por parte da União. A propósito do trânsito alpino, fica-se com a sensação de que, para muitos políticos europeus, os Alpes constituem sempre, simplesmente, uma espécie de obstáculo artificial. Gostaria de citar aqui um colega do Grupo dos Verdes que ontem também tomou a palavra, mais precisamente o senhor deputado Kreissl-Dörfler, que, referindo-se nomeadamente aos Países Baixos, afirmou o seguinte, e passo a citar: "depois de o espaço vital dos Alpes ter sido destruído, já não será necessário construir mais diques contra a fúria do mar, mas sim contra o Reno, pois, uma vez destruídos os Alpes, os Países Baixos poderão declarar todo o ano o estado de inundação no país, ou seja, a submersão de terras».
+<P>
+Creio que se vê, por este exemplo, como as coisas estão perfeitamente interligadas e como, por vezes, o princípio do mercado livre dentro da União colide com as bases de existência, em última análise, de todo este continente. Penso que devíamos aproveitar o ensejo deste debate, hoje iniciado pelo senhor deputado Ebner, para nos debruçarmos mais intensamente sobre estes princípios, também no âmbito das futuras políticas da União, não para cultivar este conflito entre economia e ecologia, mas para compreender que uma é impossível sem a outra.
+
+<SPEAKER ID=57 NAME="Presidente">
+Creio que a opinião pública não deve saber que, no Parlamento Europeu, temos tanto trabalho que nem sequer podemos celebrar o feriado nacional. Além disso, mesmo os nossos deputados que hoje fazem anos estão muito activos. O próximo orador é um dos nossos três aniversariantes de hoje. Tem agora a palavra o senhor deputado Bernard-Reymond, do Grupo do Partido Popular Europeu.
+
+<SPEAKER ID=58 LANGUAGE="FR" NAME="Bernard-Reymond">
+Senhora Presidente, Senhor Comissário, o projecto europeu é um projecto de civilização. Isso significa que, se a Europa aceitar a aposta e desejar enfrentar o desafio da mundialização, recusa-se a conceber que, sob o efeito do liberalismo puro e simples, o mecanismo das regras do mercado apenas conduz a um planeta uniforme, talhado unicamente pelas leis da concorrência.
+<P>
+O liberalismo, ao libertar as nossas economias, ao estimular a inovação, ao conduzir outros países ao crescimento, é um poderoso motor de progresso. Mas conhecemos igualmente os desequilíbrios a que pode conduzir no plano social, e também territorial. É por isso que cada um dos povos se esforça por nele introduzir as correcções que se adaptam de melhor forma à sua cultura. E é nesta perspetiva que é necessário reposicionar a política social europeia, é certo, mas também a política de ordenamento territorial, da qual uma das vertentes diz respeito à montanha.
+<P>
+A montanha é um local específico, bastante frágil, onde a prática de uma agricultura muito viva é a melhor forma de a cuidar. É um local onde a noção de equilíbrio entre os diversos imperativos é essencial. Há o desenclave dessas regiões - e não hesito em dizê-lo ainda hoje, com o risco de passar por um velho resmunguento. Desenclave, por estrada e auto-estradas, às quais não podemos renunciar, nos sítios onde ainda fazem falta. Em segundo lugar, é óbvio, por caminho-de-ferro, pelas telecomunicações. Há o desenvolvimento agrícola de qualidade, o acolhimento turístico, o respeito pelo ambiente, tantas são as noções que deverá ser possível conjugar nos maciços transfronteiriços à escala europeia.
+<P>
+Para isso, o reconhecimento da especificidade da montanha é indispensável, a nível conceptual, jurídico e financeiro. Não se trata de cobrir o espaço europeu com uma manta de arlequim de estatutos. Não se trata de encerrar a montanha por trás de protecções e privilégios. Trata-se simplesmente de ajudar a montanha a inovar, a investir num desenvolvimento duradouro que lhe permita participar plenamente na aventura da construção de uma sociedade europeia equilibrada e, por conseguinte, de qualidade.
+
+<SPEAKER ID=59 LANGUAGE="EL" NAME="Kaklamanis">
+Senhor Presidente, Senhor Comissário, ouvi com muita atenção a sua resposta aos redactores da pergunta comum sobre as zonas de montanha. Permita-me que lhe diga, porém, que foi uma resposta muito genérica. O senhor não responseu às perguntas muito concretas colocadas pelos colegas, designadamento pelo senhor deputado Santini e outros dos restantes grupos políticos. Como complemento do que foi dito pelos colegas, que aceito e subscrevo, também eu gostaria de lhe perguntar se a Comissão Europeia pensou na forma de encarar mais dois problemas que eventualmente irão aparecer no futuro. Concretamente, refiro-me, em primeiro lugar, aos problemas que poderão vir a ocorrer após a liberalização dos serviços postais, especialmente nas zonas de montanha, e, em segundo lugar, aos problemas que poderão vir a sugir na sequência da liberalização dos caminhos-de-ferro europeus.
+<P>
+O senhor comissário sabe que, relativamente a esta matéria, o Parlamento apresentou e votou propostas muito concretas, através dos relatórios que apresentou, e sabe também que a Comissão Europeia não as aceitou integralmente, pelo menos no que respeita aos serviços postais. Gostaria que me dissesse se voltaram a reflectir sobre estas questões e de que maneira tencionam resolvê-las.
+
+<SPEAKER ID=60 LANGUAGE="IT" NAME="Fassa">
+Senhora Presidente, caros colegas, as perguntas orais apresentadas pelos colegas relativamente às zonas de montanha e, designadamente, às zonas alpinas colocam, a todos nós, uma série de problemas de extrema actualidade. As razões desse grande interesse são, fundamentalmente, duas. A primeira é que se trata de zonas de montanha, ou seja, zonas cuja especificidade geomorfológica, com todas as consequências positivas em matéria de ambiente e de economia - dois termos que, como foi salientado antes, não são antitéticos mas sim complementares -, apenas há pouco tempo começou a ser reconhecida.
+<P>
+A montanha não é, efectivamente, uma realidade à parte, sendo, pelo contrário, também fundamental para as regiões que a circundam. E este facto permite-nos introduzir a segunda razão da sua importância, que toca de perto a alguns de nós, e refiro-me à especificidade da zona alpina, uma zona que constitui - permitam-me dizê-lo - uma espécie de especificidade na especificidade. Ao contrário de outras zonas de montanha, a zona alpina nunca foi uma barreira, pelo contrário, sempre constituiu uma verdadeira encruzilhada, ou seja, um lugar de intercâmbio fecundíssimo de povos, de economias e de culturas, e é também - apraz-me salientá-lo - mãe de culturas específicas, muitas vezes esquecidas, como a cultura dos Walser ou a cultura dos montes sagrados.
+<P>
+É por isso que deve ser reconhecido um estatuto particular da área alpina no âmbito das zonas de montanha, inclusivamente através dos fundos estruturais, estatuto que não poderá deixar de ter em conta tanto a economia como a cultura, tanto o facto de essas áreas pertencerem a Estados particulares como o seu carácter especificamente transnacional, um verdadeiro paradigma daquilo a que costumamos chamar a Europa das regiões, a Europa dos povos.
+<P>
+Teria muito interessante em saber qual é o parecer da Comissão quanto a este aspecto.
+
+<SPEAKER ID=61 LANGUAGE="FR" NAME="Souchet">
+Senhora Presidente, Senhor Comissário, caros colegas, congratulo-me vivamente com a realização, em plenário, deste debate que se inscreve na perspectiva da reforma da política estrutural e da PAC, pois parece-me particularmente importante que possamos reflectir em conjunto, nesta assembleia, na forma como a União Europeia poderá, juntamente com os Estados-Membros, contribuir, através de uma política voluntarista, para preservar as zona de produção agrícola ecologicamente sensíveis.
+<P>
+Com efeito, se nos limitarmos a deixar obrar exclusivamente a pressão do mercado mundial, dificilmente uma agricultura viva e responsável poderá manter-se nas regiões com limitações específicas, geradoras de características comuns a essas diferentes zonas, e ligadas à natureza dos seus solos, ao seu clima, à sensibilidade particular do seu ecossistema ou da sua rede hidráulica, à distância e aos problemas de acessibilidade. O duplo objectivo de uma política específica para estas regiões deveria ser evitar, a todo o preço, uma desertificação destas zonas, prevenir o seu despovoamento progressivo, permitindo a manutenção de actividades agrícolas duradouras que possibilitem uma remuneração condigna, e apoiando o desenvolvimento do turismo não agressivo, com vista a equilibrar de forma positiva os duros custos do desenvolvimento.
+<P>
+Longe de colocar em causa as disposições próprias da política a favor das zonas de montanha, as reformas futuras deveriam, pelo contrário, ser consideradas como uma primeira pedra de base, a aperfeiçoar e a complementar, com vista a ultrapassar o estádio das acções pontuais e experimentais, a fim de conduzir, no âmbito de um novo objectivo 2, a um verdadeiro dispositivo duradouro, por conseguinte previsível, e, dessa forma, impulsionador, que permita, nomeadamente, atrair jovens activos.
+<P>
+Congratulo-me vivamente, a este respeito, com as afirmações do senhor comissário Oreja, indicando que, como as zonas húmidas são de igual modo zonas agrícolas ecologicamente sensíveis, relativamente às quais a nossa assembleia demonstra um vivo interesse, deveriam beneficiar, da mesma maneira que as zonas de montanha, de um apoio específico e mais significativo no quadro da reforma da política estrutural.
+
+<SPEAKER ID=62 LANGUAGE="ES" NAME="Cabezón Alonso">
+Senhora Presidente, como este debate evidenciou, as zonas de montanha da União Europeia apresentam características idênticas e semelhantes às das regiões de montanha dos países que irão ser abrangidos pelo próximo alargamento.
+<P>
+Trata-se de zonas vinculadas, normalmente, ao mundo rural e, nalguns casos, com um certo nível de desenvolvimento no sector turístico; a sua população é em número reduzido e dispersa, sentem dificuldades em desenvolverem-se e tudo isto impede a fixação da população, através de dotações, de infra-estruturas e de serviços suficientes. Trata-se de zonas muito atractivas pelo seu ambiente natural e pelas possibilidades do seu património e do seu contexto.
+<P>
+Já foram levadas à prática iniciativas comunitárias dirigidas a outras regiões europeias com características comuns, como, por exemplo, as regiões ultraperiféricas ou marítimas, mas as zonas de montanha não beneficiaram, até ao momento, de nenhuma iniciativa concreta, a não ser, talvez, uma ou outra iniciativa muito pontual, relacionada com a política agrícola.
+<P>
+Nas vésperas do debate sobre a reforma dos fundos estruturais, a pergunta que estamos a debater é oportuna e tivemos ocasião de constatar que a Comissão já iniciou as suas reflexões sobre este assunto. Seria útil, precisamente, que a Comissão apresentasse uma comunicação sobre possíveis experiências inovadoras levadas a cabo nos últimos anos nos diferentes Estados-Membros da União, no âmbito das quais tenham sido utilizados os fundos estruturais em zonas de montanha. Isso poderia permitir-nos verificar se a utilização dos fundos estruturais nestas regiões representou uma valor acrescentado para as mesmas.
+<P>
+No âmbito da reforma dos fundos estruturais, deverão ser tidas em consideração as especificidades destas regiões, as formas de actuar para manter, proteger e potenciar o ambiente, aproveitando o seu desenvolvimento endógeno e tendo em conta a própria fragilidade deste ambiente quando é agredido pela intrusão ou pelo abuso por parte de elementos estranhos, que podem degradar o território e as características naturais do mesmo.
+<P>
+O mesmo tipo de preocupações deveriam estar presentes, não apenas nos fundos estruturais, mas também nas reflexões sobre as propostas de reforma da política agrícola comum.
+<P>
+As regiões com zonas de montanha importantes, como é aquela onde vivo, que, aliás, é próxima de zonas marítimas, constituem uma parte importante da realidade da União Europeia. Por este motivo, será necessário que os regulamentos que irão reger os fundos estruturais, na direcção exposta pelo senhor comissário ou numa forma ampliada, prevejam as modalidades de actuação positivas e integradas sobre este património comum, no âmbito de uma política regional rigorosa e norteada pelo objectivo de progredir na coesão entre as nossas regiões e entre os nossos povos.
+
+<SPEAKER ID=63 LANGUAGE="ES" NAME="Imaz San Miguel">
+Senhora Presidente, encontramo-nos num período de definição das novas políticas comunitárias de desenvolvimento regional, no âmbito da Agenda 2000, sendo este o momento oportuno para discutir este tema e para formular propostas, de forma a assegurar que as zonas de montanha serão incluídas nas políticas comunitárias de desenvolvimento regional.
+<P>
+Trata-se de regiões com problemas de despovoamento, nalguns casos com falta de alternativas económicas e com necessidades de desenvolvimento, que deve, aliás, ser adaptado ao ambiente, a fim de preservar o equilíbrio no futuro.
+<P>
+Efectivamente, não existiu, até ao momento, um objectivo específico para estas zonas. Referia-se o senhor comissário à necessidade de não complicar excessivamente as políticas regionais comunitárias, mas, dentro desta simplificação, seria interessante potenciar estas áreas, como fará, estou seguro, a Comissão, no âmbito das suas propostas futuras. Estas propostas deverão incluir medidas integradas e específicas de desenvolvimento destas regiões como áreas vitais, através do seu desenvolvimento económico, do desenvolvimento do lazer e do desenvolvimento natural.
+<P>
+Além disso, muitas destas regiões são fronteiriças, pois, embora as cadeias montanhosas tenham dividido os Estados, continuaram a existir de ambos os lados das fronteiras contextos de convivência, contextos naturais e contactos entre as populações. Neste sentido, seria interessante potenciar estas experiências transfronteiriças, em colaboração com as zonas de montanha.
+<P>
+Actualmente, estão em curso inúmeras experiências-piloto que a Comissão Europeia poderia aproveitar para desenvolver nas suas propostas e para se inspirar. Refiro-me a experiências de colaboração na região dos Pirinéus. Estou certo de que o senhor comissário, que, para além de ser basco, conhece bem o seu país, tem conhecimento das mesmas. Efectivamente, existem modelos na montanha alavesa, nos vales dos Pirinéus, de Navarra, do País Basco francês, etc., nos quais se poderia inspirar a criação de actividades económicas respeitadoras do ambiente. Neste sentido, desejaria felicitar o senhor comissário, sobretudo pelo comentário que fez na sua última intervenção sobre o desenvolvimento da pastorícia de montanha, na medida em que, para além de gerar actividades económicas, contribui para a preservação do ambiente e de determinados hábitos culturais.
+
+<SPEAKER ID=64 LANGUAGE="SV" NAME="Lindqvist">
+Senhora Presidente, este debate é sobre política regional e uma Europa igualitária. São questões que pertencem ao domínio da solidariedade. Todos deverão poder beneficiar de uma vida boa na nossa Europa. Estão em causa zonas que, como muitos já disseram, dispõem de condições muito especiais. No meu caso, trata-se da Suécia, da Finlândia e do Norte da Europa, 2 000 a 2 500 km para norte. É, em grande medida, uma zona ecologicamente sensível, que dispõe de recursos naturais imensos e de uma grande diversidade biológica. Todas as questões relativas à ajuda a este tipo de zonas devem partir das condições locais e regionais próprias, pois é muito fácil que formas de ajuda e de exploração em grande escala, não adaptadas a essas zonas, causem mais danos do que benefícios. É evidente que isto se aplica a outras zonas de montanha.
+<P>
+Prosseguirei descrevendo um pouco as condições da minha terra. Como é natural, estamos particularmente preocupados com a eliminação das zonas de objectivo 6, na sequência das alterações às disposições sobre os fundos estruturais. O que sucede às zonas de objectivo 6 na Suécia e na Finlândia, se forem abolidas e passarem a ser abrangidas pelo objectivo 1?
+<P>
+Esta questão é muito importante. Nós obtivemos as possibilidades de ajuda a atítulo do objectivo 6 no contexto das negociações de pré-adesão, principalmente devido ao rigor do clima - presentemente fazem-se sentir 30º a 40º negativos no Norte da Suécia. É muito difícil para quem nunca tenha lá estado imaginar uma zona rural aproximadamente com o aspecto que passo a descrever. A povoação mais próxima pode encontrar-se a uma distância de 100 km; a densidade populacional é de 1 a 3 pessoas por quilómetro quadrado; os habitantes vivem de ocupações múltiplas, da agricultura e da silvicultura em muito pequena escala e gerando muito poucos rendimentos; nesta zona vivem suecos, finlandeses e lapões; vive-se próximo da natureza e da natureza, e a sobrevivência das pessoas depende da sobrevivência dos recursos naturais; em muitos locais verifica-se grande estagnação e despovoamento.
+<P>
+Infelizmente, a política agrícola comum concentrou-se nas grandes explorações agrícolas - tanto na Europa como no Sul da Suécia, enquanto os pequenos agricultores do Norte da Suécia se debatem com grandes problemas.
+<P>
+Há uma questão para a qual gostaria de obter resposta da Comissão, se ela me estiver a ouvir. A pergunta é: que propostas tem a Comissão para as zonas de objectivo 6 quando forem estabelecidos novos critérios, no fim do período actual, em 1999, e início do novo período? Gostaria muito de obter uma resposta.
+
+<SPEAKER ID=65 LANGUAGE="DE" NAME="Habsburg-Lothringen">
+Senhora Presidente, devo dizer que estou muito satisfeito por efectuarmos hoje esta discussão conjunta sobre a especificidade das zonas de montanha. Afinal, a região montanhosa é a região mais sensível do espaço rural e, por isso, continua a necessitar do nosso apoio, caso deva ser preservada na sua integridade e multifuncionalidade. Assim, o elevado valor do espaço rural deve também ser consagrado com toda a clareza na Agenda 2000. Concretamente, precisamos de reforçar a indemnização compensatória para as regiões desfavorecidas, de intensificar a protecção de marcas e denominações de origem de produtos típicos destas regiões e de promover mais fortemente a silvicultura.
+<P>
+Um outro ponto digno de apoio é, sem dúvida, o melhor aproveitamento das energias renováveis. Não devíamos esquecer, no que respeita justamente a este ponto, que qualquer forma de colocação de terras úteis em pousio significa uma declaração de falência do nosso sistema. Uma exploração agrícola não se pode instalar como, por exemplo, uma unidade industrial e deve ser encarada a muito mais longo prazo. É precisamente por isso que essas superfícies deviam ser incluídas nas considerações relativas às energias renováveis.
+<P>
+A par de uma maior valorização do seu contributo para a cultura regional e a ecologia, há naturalmente que compensar também as desvantagens naturais, a fim de assegurar a exploração das zonas de montanha. Isso também é no interesse do turismo. A Áustria é o país da União Europeia onde a percentagem dos que praticam a agricultura como actividade secundária é mais elevada. A grande maioria dos agricultores tem o turismo como actividade principal e, em ambas as profissões, asseguram a preservação da atractividade e também da produtividade económica das regiões montanhosas, evitando ainda uma emigração contínua dos espaços rurais e, consequentemente, a desertificação dessas regiões. Isso demonstra igualmente o profundo significado social e a multifuncionalidade da agricultura.
+<P>
+Na Áustria, quase 70 % das áreas agrícolas, i.e., 2 323 mil hectares, estão inseridas na categoria de regiões desfavorecidas da União Europeia. A média, na União Europeia, é de 56 %. Concretamente, isto significa que na Áustria, por exemplo, 150 000 explorações estão situadas numa região desfavorecida. Na perspectiva do alargamento a Leste da nossa Comunidade, o melhor seria prosseguir com a orientação agrícola. Apenas assim se garante que o alargamento não se efectuará à custa dos agricultores nacionais, mas que todos têm, pela sua parte, de contribuir para a construção deste grande modelo de unificação europeia.
+
+<SPEAKER ID=66 LANGUAGE="DE" NAME="von Habsburg">
+Senhora Presidente, em primeiro lugar, gostaria de agradecer ao senhor deputado Ebner por ter colocado esta questão e, em segundo lugar, de tecer uma consideração. Fica demonstrado que as sessões de sexta-feira fazem sentido, pois, à sexta-feira, fala-se de coisas mais sérias, em vez de se fazer demagogia e, além disso, prevalece entre os vários grupos um consenso bastante maior do que noutras alturas!
+<P>
+Gostaria de prosseguir na linha do que disse o senhor deputado Macartney. Mencionou um ponto muito importante, designadamente, que não se devem utilizar apenas critérios burocráticos na determinação das regiões, que não se deve assim fazer depender isso apenas da altitude ou da profundidade, mas que o clima e as realidades sociais também desempenham um papel importante.
+<P>
+Em segundo lugar, gostaria de sublinhar também aqui o seguinte: é que - e esta constatação é generalizada - não é só a economia que é determinante. Há apenas uma função social da economia que é a única que representa verdadeiramente o futuro. Isso significa em primeiro lugar, especialmente para nós, nas zonas de montanha - e também há muitas zonas de montanha na região onde vivo; embora em geral isso não seja conhecido, a Alta Baviera é constituída em parte por zonas montanhosas -, que é preciso preservar a todo o custo os pequenos agricultores, pois sem essas pessoas deixa de haver montanhas. Nesse caso, tudo acaba por ser destruído, como se vê, por exemplo, em muitos locais da América. Em segundo lugar, ao definir os eixos rodoviários, temos de colocar sempre os aspectos ecológicos em primeiro plano, pois quando vemos o que certas estradas - as que atravessam, por exemplo, o Tirol do Sul - já fizeram em termos de destruição, quando se sabe quanto alguns projectos são perigosos para nós, é preciso insistir na necessidade de atribuir uma enorme prioridade ao aspecto ecológico, pois só desta forma podemos preservar o que é o coração da Europa!
+
+<SPEAKER ID=67 LANGUAGE="DE" NAME="Rübig">
+Senhora Presidente, a Áustria é conhecida por esses Alpes maravilhosos e também pelos parques nacionais recém-criados. Apesar disso, está em curso nessas regiões uma enorme transformação estrutural. Por um lado, procuramos preservar as tradições, a beleza do campo, a naturalidade e genuinidade, por outro, pensamos intensamente no futuro, na segurança do futuro e nas oportunidades que o futuro trará. Creio que temos de intensificar a investigação também nesse domínio. Temos que determinar com que produtos e serviços podemos encarar o futuro, temos de fazer pesquisa de mercado para ver que tipo de visitantes poderão vir a esta região e o que nela é apreciado, que serviços se podem oferecer nessa região e que produtos podem ser enviados dessa região.
+<P>
+O segundo ponto, que talvez seja ainda mais importante, é a formação inicial e contínua nessas regiões. Devíamos ponderar que estrutura de formação inicial e contínua poderíamos oferecer nessas regiões.
+
+<SPEAKER ID=68 NAME="Oreja Aguirre">
+Senhora Presidente, duas palavras apenas. Em primeiro lugar, para dizer aos senhores deputados que tomei nota das suas intervenções desta manhã. Referi-me a algumas delas na intervenção que fiz a meio da sessão e, de qualquer forma, informarei o colégio de comissários e, em particular, o comissário responsável, o senhor Fischler, sobre o que aqui foi dito.
+<P>
+O senhor deputado Kaklamanis referiu-se a temas diferentes dos que são tratados na pergunta, uma vez que estamos a falar de fundos estruturais e de agricultura e o senhor deputado referiu-se à liberalização dos correios e às redes ferroviárias. Trata-se de dois temas que nos preocupam e que são objecto de outras perguntas formuladas pelo Parlamento, às quais a Comissão, consciente que está destes problemas, dará a devida resposta no momento oportuno.
+<P>
+Sobre as zonas alpinas, gostaria de salientar duas questões: por um lado, tudo o que se refere ao reforço das indemnizações compensatórias em benefício das zonas desfavorecidas, e, por outro lado, ao reforço do apoio à pastorícia alpina no âmbito das medidas agro-ambientais.
+<P>
+Gostaria, também, de tranquilizar o senhor deputado Lindqvist, pois, embora só tenha um dos auriculares posto, ouvi-o e, aliás, com o meu apelido, não tenho outro remédio senão ouvir os outros. Compreenderá que sigo com muita atenção todas as intervenções e, em particular as suas, Senhor Deputado Lindqvist, quando se referiu a todos os problemas existentes nas regiões nórdicas e salientou o contraste entre as regiões alpinas e as regiões nórdicas. Abordou um tema muito concreto sobre o qual não lhe posso dar uma resposta, embora o tenha escutado, que é o dos critérios de classificação das zonas de montanha, que ainda não estão definidos. Iremos fazê-lo.
+<P>
+Como sabe, Senhor Deputado Lindqvist, estamos a analisar neste momento a reforma dos fundos estruturais. O senhor deputado Imaz, por exemplo, referiu-se à ideia de simplificação, à qual sou muito sensível, bem como às montanhas da zona comum, da região comum, da pátria comum que temos no País Basco. O senhor deputado Imaz sabe que eu percorri todas essas montanhas, que escalei os seus cumes ao longo de toda a minha vida e que sou, por isso, particularmente sensível aos argumentos que invocou.
+<P>
+Neste sentido, gostaria de lhe dizer que, embora a Comissão prossiga o objectivo de simplificar os fundos estruturais, isso não quer dizer que não seja possível conciliar esta simplificação com uma maior tomada em consideração dos problemas específicos das zonas de montanha.
+<P>
+Sobre este tema, o senhor deputado von Habsburg fez, igualmente, uma referência específica e eu gostaria de a abordar. Vamos ter especialmente em consideração estes assuntos e eu irei transmitir o que aqui foi dito ao senhor comissário Fischler e aos outros comissários competentes.
+<P>
+Creio que é, efectivamente, muito útil, como referiu o senhor deputado von Habsburg há momentos, que se possam discutir temas importantes à sexta-feira.
+<P>
+Senhoras e Senhores Deputados, muito obrigado.
+
+<SPEAKER ID=69 LANGUAGE="EN" NAME="Macartney">
+Senhora Presidente, tenho de colocar uma questão muito preocupante, porque acabo de ouvir, neste dia em que estamos a debater os problemas das regiões marginais da Europa, que a Escócia vai perder um lugar no Comité das Regiões, e que o mesmo vai acontecer ao País de Gales. Considero que o facto é muito preocupante, e gostaria que o meu protesto ficasse registado nesta assembleia. Também gostaria de perguntar ao senhor comissário Oreja, que sei interessar-se muito por estes assuntos, se não está de acordo em que isto vai enfraquecer a voz da Escócia e do País de Gales, nomeadamente num momento em que estamos a debater a evolução futura da Agenda 2000 e todas estas questões vitais.
+
+<SPEAKER ID=70 NAME="Presidente">
+Quanto ao lugar da Escócia: efectivamente, os Estados-Membros foram informados do número de pessoas que podem mandatar para o Comité das Regiões e a composição desses representantes no Comité das Regiões é uma decisão dos Estados nacionais.
+<P>
+Pretende no entanto, Senhor Comissário Oreja, responder a esta questão?
+
+<SPEAKER ID=71 NAME="Oreja Aguirre">
+Senhora Presidente, estou plenamente de acordo com o que acaba de dizer e digo-o na minha qualidade de comissário responsável pelos assuntos institucionais: a decisão compete aos Estados-Membros. É desta forma que se constitui o Comité das Regiões. Pessoalmente, fui sempre um grande defensor do Comité das Regiões na Conferência Intergovernamental. Creio que desempenha um papel muito importante. Parece-me importante que uma região como a Escócia tenha uma presença suficiente e significativa no Comité. No entanto, é uma decisão que cabe aos Estados-Membros. São eles que designam os membros do Comité.
+
+<SPEAKER ID=72 LANGUAGE="ES" NAME="Imaz San Miguel">
+Senhora Presidente, sei que o senhor comissário Oreja sempre defendeu o Comité das Regiões, a sua composição e o reforço desta instituição e gostaria de lho agradecer. Sei também que se trata de um assunto da competência dos Estados-Membros. Gostaria apenas de sugerir que, no âmbito das reformas futuras, trabalhássemos no sentido de assegurar que o Comité das Regiões garanta melhor, dentro do respeito por todas as regiões e por todas as partes da Europa, a participação e a presença das regiões que têm assembleias legislativas e que, por isso, possuem legitimidade democrática. Estou certo, aliás, de que o senhor comissário Oreja, que é responsável por esta área, defende a mesma posição e que, por isso, avançaremos substancialmente neste domínio, no futuro.
+
+<SPEAKER ID=73 NAME="Presidente">
+Está encerrado o debate.
+
+<CHAPTER ID=6>
+Interrupção da sessão
+<SPEAKER ID=74 NAME="Presidente">
+Dou por interrompida a sessão do Parlamento Europeu.
+<P>
+(A sessão é suspensa às 11H29)
+

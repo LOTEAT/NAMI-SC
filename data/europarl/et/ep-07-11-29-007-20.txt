@@ -1,0 +1,4 @@
+<CHAPTER ID="007-20">
+20. Kontrollikoja liikme ametisse nimetamine (David Bostock) (hääletus) 
+<P>
+- Raport: Inés Ayala Sender

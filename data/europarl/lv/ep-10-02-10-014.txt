@@ -1,0 +1,452 @@
+<CHAPTER ID="014">
+Ķermeņa skeneri - Izlūkdienestu darbība saistībā ar pretterorisma stratēģijām (debates) 
+<SPEAKER ID="510" NAME="Priekšsēdētājs">
+Nākamais darba kārtības punkts ir kopīgas debates par terorisma apkarošanu un Padomes un Komisijas paziņojumi par ķermeņa skeneriem un izlūkdienestu darbību saistībā ar pretterorisma stratēģijām.
+<SPEAKER ID="511" NAME="Alfredo Pérez Rubalcaba" LANGUAGE="ES">
+Priekšsēdētāja kungs, dāmas un kungi! Es gribētu sākt šīs debates ar pateicību Parlamentam par iespēju sarīkot mierīgas diskusijas par pretterorisma politiku un jo īpaši atsevišķiem pretterorisma politikas elementiem. Es arī atzinīgi vērtēju šīm debatēm izvēlēto brīdi, jo ir pagājis pienācīgs laiks kopš vispasaules satraukuma, ko pagājušā gada decembrī radīja neveiksmīgais uzbrukums Detroitā.
+<P>
+Protams, es uzskatu, ka tad, kad notiek kaut kas tāds, kad ir jānovērš tādi draudi kā iespējams terorisms, ir jāreaģē, taču es vēl vairāk atbalstu klusu un pastāvīgu darbu, kā manā valstī saka - lēnu, bet pamatīgu. Es gribētu Parlamentam uzsvērt, ka terorisma draudi visās ES valstīs joprojām ir tikpat reāli, kā agrāk.
+<P>
+Mēs zinām, ka teroristi mūs novēro, mēs zinām, ka viņi ir novatoriski un mēģina mainīt savas metodes, lai apietu mūsu pretterorisma stratēģijas. Tādēļ arī mūsu stratēģijai jābūt novatoriskai un daudzveidīgai. Tā ir jāuzlabo un, pats svarīgākais, mums jāmācās no savām kļūdām, jo mēs tādas noteikti pieļaujam.
+<P>
+Ņemot vērā pateikto, mēs visi saprotam, ka, ja nebūtu noticis neveiksmīgais uzbrukums Detroitai, visticamāk Parlamenta debatēm par šo jautājumu būtu pilnīgi citi noteikumi. Citiem vārdiem sakot, šo debašu iemesls ir vajadzība pēc piesardzības un it īpaši secinājumiem, kurus mēs visi esam izdarījuši, pārskatot tikko minētos panākumus Detroitā.
+<P>
+Šodienas debašu pamatā ir arī analīze par mūsu neveiksmēm saistībā ar varbūtējā uzbrukuma novēršanu un dažādu valstu pieņemtie pasākumi, lai novērstu šādu kļūdu atkārtošanu. Tādēļ mēs runājam par datu analizēšanu un pretterorisma dienestiem, mēs runājam par datu apmaiņu un ķermeņa skeneriem. Mēs runājam par uzbrukumā, kurš par laimi nenotika, pieļautajām kļūdām.
+<P>
+Tā kā tas ir mūsu debašu temats, es gribētu minēt dažus acīmredzamākos secinājumus, kurus, manuprāt, varam izdarīt saistībā ar neveiksmīgo uzbrukumu Detroitai. Ir pieci secinājumi.
+<P>
+Pirmkārt, notikumi Detroitā apliecina faktu, ka teroristi turpina uzskatīt civilo aviāciju par prioritāti.
+<P>
+Otrkārt, notikumi Detroitā apliecina datu apkopošanas, kā arī to integrēšanas un analīzes nozīmi.
+<P>
+Treškārt, notikumi Detroitā apliecina, ka al-Qaeda sabiedrotie spēj uzsākt uzbrukumus ārpus vietas, ko mēs varētu dēvēt par viņu teritoriju. Tas attiecas uz al-Qaeda Arābijas pussalā (teroristu organizāciju, kuru tur aizdomās par neveiksmīgo uzbrukumu Detroitā) vai al-Qaeda musulmaņu Magribas valstīs, kas apdraud mūs visus.
+<P>
+Mans ceturtais secinājums ir šāds - notikumiem Detroitā mums ir jāatgādina par to, cik svarīgi ir strādāt pie radikalizācijas procesa pavēršanas pretējā virzienā. Manuprāt, ļoti būtisks ar šo jautājumu saistīts faktors ir aizdomās turēto teroristu personība.
+<P>
+Visbeidzot, notikumi Detroitā liek mums pievērst lielu uzmanību nestabilajām valstīm vai jebkurai valstij, kura apstākļu dēļ var kļūt par nestabilu valsti.
+<P>
+Pirmais un otrais secinājums attiecas uz pašreizējo civilās aviācijas apdraudējumu un vajadzību integrēt visus mums pieejamos datus; šie secinājumi noved mūs tieši pie šajā pēcpusdienā notiekošajām debatēm par datiem, to izmantošanu un ķermeņa skeneriem.
+<P>
+Man jāteic, ka šīs nav jaunas debates un šī nav pirmā reize, kad par to debatējam Parlamentā. Parlamenta debatēs par šo tematu 26. novembrī terorisma apkarošanas koordinators De Kerchove kungs savā interesantajā un spilgtajā ziņojumā runāja par informācijas pārvaldību un personas datu aizsardzību. Dati un to analīze ir galvenais elements darbā pie terorisma novēršanas un apkarošanas, kas šajā pēcpusdienā ir debašu temats.
+<P>
+Mums ir jāidentificē teroristi, mums jāzina, kur viņi plāno uzbrukt, kas viņiem nodrošina ieročus; mums ir jāzina, kāda ir viņus atbalstošā materiālā infrastruktūra; mums ir jāzina, kādas ir viņu sakaru sistēmas, un mēs to varam uzzināt, izmantojot datubāzes un specializētus avotus. Lai mēs varētu iegūt visu nepieciešamo informāciju, mums ir vajadzīga datu apmaiņa, un mums tā ir pareizi jāpārvalda.
+<P>
+Man jāpiebilst, ka no dažiem agrāk piedzīvotajiem uzbrukumiem varēja izvairīties, ja par pretterorisma pasākumiem atbildīgās personas būtu savlaicīgi saņēmušas informāciju, citiem vārdiem sakot, ja informācija būtu apstrādāta integrētā un, atvainojiet par izteicienu, inteliģentā veidā, kā ne vienmēr notiek. Tas mūs noved pie debatēm par informācijas pārvaldību.
+<P>
+Mūsu rīcībā ir ES struktūra, kuras ietvaros varam īstenot pienācīgu informācijas apmaiņu. Mūsu nesen pieņemtā stratēģija veidoja daļu no secinājumiem, kurus pagājušā gada novembrī pieņēma Padome. Tās mērķis ir drošības spēku un izlūkdienestu nodrošināšana ar vajadzīgajiem datiem, lai uzlabotu pretterorisma stratēģijas noderību un efektivitāti. Tikai vajadzīgos datus un neko vairāk, jo liels datu apjoms reizēm nelabvēlīgi ietekmē pašu datu vērtību un efektivitāti.
+<P>
+Kā liecina šī stratēģija, lēmumiem par datu apmaiņu ir jābūt saskaņotiem, profesionāliem, efektīviem, dzīvotspējīgiem, uzticamiem, kā arī visiem pilsoņiem un ar datiem strādājošajiem ekspertiem saprotamiem. Saskaņā ar stratēģijas pamatnostādnēm tajā jāņem vērā šajā Parlamentā izskatītie paziņojumi un bažas, vajadzība apkarot terorismu, kā arī jautājumi saistībā ar cilvēktiesībām, tiesībām uz privātumu un personas datu aizsardzību.
+<P>
+Kā jau teicu debašu sākumā, pēc varbūtējā uzbrukuma Detroitai mēs varam secināt arī to, ka komerciālās lidmašīnas joprojām ir būtisks teroristu mērķis. Ir acīmredzams, ka iespējamajam teroristam izdevās iekāpt lidmašīnā ar pietiekamu sprāgstvielu daudzumu, lai varētu izraisīt tās eksploziju gaisā, tādējādi apejot visas mūsu novērošanas sistēmas, kā arī visas mūsu lidostu drošības sistēmas un mehānismus. Citiem vārdiem sakot, mums noteikti ir jāpārskata šie drošības mehānismi, jo tie nenoliedzami nebija pietiekami, lai novērstu tādu uzbrukumu kā varbūtējais uzbrukums Detroitai, kas. par laimi, nenotika.
+<P>
+Īsumā, mums ir jāturpina uzlabot mūsu drošības sistēmas un jāmēģina novērst teroristu vai aizdomās turēto teroristu iekāpšanu komerciālās lidmašīnās. Mums jāpanāk, lai neviens nevarētu ienest lidmašīnā ieročus, sprāgstvielas vai sprāgstvielu ķīmiskos prekursorus. Ja šie divi drošības pasākumi mūs pieviļ, mums ir jāiegulda lielāks darbs, lai uzlabotu mūsu lidmašīnu aizsardzību un novērstu incidentus lidojuma laikā.
+<P>
+Tieši tāds ir konteksts mūsu debatēm Parlamentā un Padomē par šo satraucošo jautājumu - jautājumu par ķermeņa skeneriem
+<P>
+Kā jau godājamie deputāti zina, Komisijai ir vajadzīgās pilnvaras noteikt mērķus un izstrādāt noteikumus ar gaisa satiksmes drošību saistītos jautājumos. Šie jautājumi tiek apspriesti gan oficiālajā, gan neoficiālajā Transporta ministru padomē. Taču es gribētu piebilst, ka gaisa satiksmes drošība bija debašu temats neoficiālajā Ministru padomes sanāksmē, kas pirms dažām nedēļām notika Toledo.
+<P>
+Šajā Padomē mēs vienojāmies par dažādiem jautājumiem - pirmkārt, par to, ka ir pareizi un adekvāti, ka ES ir vienota nostāja par ķermeņa skeneriem un, raugoties plašāk, par visiem mūsu lidostu aizsardzības mehānismiem; ir bezjēdzīgi, ka dažas lidostas ir aizsargātas mazāk nekā citas, jo tas uzreiz nozīmē, ka mēs visi esam mazāk aizsargāti. Tāpēc mēs būtu gandarīti, ja Eiropas Savienība varētu panāk vienošanos un šajās debatēs paust vienotu nostāju.
+<P>
+Otrkārt, par sarežģītāku un delikātāku jautājumu, kurā ietilpst dažādi vērā ņemami aspekti - pirmkārt un galvenokārt, ir jānoskaidro, cik efektīvi šāda veida ķermeņa skeneri var novērst to, ka teroristi ienes lidmašīnās sprāgstvielas vai to ķīmiskos prekursorus. Otrkārt, mums ir jānoskaidro un jāanalizē tas, kas satrauc Padomi, Komisiju un Parlamentu - vai šo skeneru izmantošana atbilst cilvēku tiesībām uz privātumu un intimitāti. Trešā lieta, par ko mēs vienojāmies - ir jānoskaidro, vai cilvēkiem, kuri pirms iekāpšanas komerciālajās lidmašīnās iziet cauri šai iekārtai, rodas risks veselībai.
+<P>
+Saistībā ar šiem trim jautājumiem Komisija strādā pie trīs pētījumiem par ķermeņa skeneru efektivitāti, to ietekmi uz veselību un to atbilstību cilvēktiesībām un cilvēku pamatbrīvībām. Tuvākajā laikā šie pētījumi būs pieejami Padomei un Parlamentam.
+<P>
+Tādēļ neoficiālajā Padomes sanāksmē Toledo tika panākta vienošanās par pētījumiem un šīs informācijas sniegšanu, lai mēs varam sarīkot detalizētas debates un, cerams, kā arī ļoti vēlams, panākt vienprātīgu nostāju par šo jautājumu.
+<P>
+Kad būsim panākuši kopēju nostāju, mēs pilnībā ņemsim vērā rezolūciju, ko Parlaments pēc debatēm par ķermeņa skeneriem pieņēma 2008. gada 23. oktobrī. Debatēs mēs apspriedām nepieciešamību novērtēt ietekmi uz cilvēktiesībām, riskus veselībai un ekonomisko ietekmi, kā arī nepieciešamību apspriesties ar Eiropas Datu aizsardzības uzraudzītāju. Šie apsvērumi ir jāņem vērā mūsu nākamajās debatēs.
+<P>
+Es gribu vēlreiz pateikties Parlamentam par iespēju debatēt par šiem jautājumiem un es pateicos Parlamentam par elastību saistībā ar šo debašu laiku.
+<SPEAKER ID="512" NAME="Siim Kallas">
+Komisijas loceklis. - Priekšsēdētāja kungs, mēs esam šeit, lai sniegtu vienotu skatījumu uz konkrētiem terorisma apkarošanas aspektiem. Man kā transporta komisāram prioritāte noteikti ir pasažieru drošība. Tā ir mūsu kopējās transporta politikas galvenā prioritāte, un tā vienmēr ir bijusi īpaši svarīga.
+<P>
+Teroristu uzbrukuma mēģinājums aviosabiedrības Northwest Airlines lidojumā Nr. 253 uz Detroitu, kas notika 25. decembrī, vēlreiz apliecināja, ka draudi civilajai aviācijai ir reāli. Es gribētu uzsvērt, ka 25. decembrī Amsterdamas lidostā Schiphol pašreizējie ES aviācijas drošības standarti tika īstenoti pareizi.
+<P>
+Incidents, pirmkārt, liecināja par izlūkdienestu neveiksmi, nespēju "saskatīt sakarības”. Aviācija joprojām ir teroristu mērķis. Mēs nedrīkstam šo faktu ignorēt. Tādēļ ar visiem iespējamiem līdzekļiem, pilnībā ievērojot cilvēktiesības, ir jāgarantē aviācijas drošība.
+<P>
+Cilvēki, kuri ceļo , plašsaziņas līdzekļi un aviācijas nozares ieinteresētās personas mums pamatoti jautā, vai pašreizējie drošības pasākumi ir pietiekami labi un vai mums ir jāveic papildu darbības. Saistībā ar to patlaban visur tiek apspriesta jaunā pārmeklēšanas tehnoloģija, tā sauktie "ķermeņa skeneri”.
+<P>
+Aviācijas drošības eksperti saistībā ar ķermeņa skeneru izmantošanu lidostās uzskata, ka šīm iekārtām ir labāka uztveršanas spēja nekā pašreizējam pārmeklēšanas aprīkojumam. Daži uzskata, ka tie ir ievērojami labāki. Citi uzskata, ka tā nav nemaz tik liela priekšrocība, taču šobrīd vēl nav pilnīgi skaidrs, cik lielā mērā šīs iekārtas var palielināt drošību lidostās un kāda ir to ietekme uz veselību un privātumu.
+<P>
+Kā Parlaments minēja 2008. gadā, ķermeņa attēlveidošanas tehnoloģija rosina vairākus jautājumus, galvenokārt par privātumu, datu aizsardzību un veselību. Esmu paredzējis jūs aprīlī iepazīstināt ar ziņojumu par attēlveidošanas tehnoloģiju un tās lietojumu ES lidostās. Šajā ziņojumā tiks aplūkoti jautājumi, kas izvirzīti Eiropas Parlamenta 2008. gada rezolūcijā.
+<P>
+Mums šie jautājumi ir jāuztver nopietni. Mums arī ir jāizlemj, vai šīs bažas labāk var risināt valstu vai Eiropas mērogā. Manuprāt, labāks būtu ES mēroga regulējums. Es to saku, pamatojoties uz mūsu pieredzi par vienotu nostāju pēc 11. septembra notikumiem un domājot par efektivitāti aviācijas vienotajā tirgū. ES mēroga regulējums garantē vienotus standartus gan attiecībā uz drošību, gan privātpersonu tiesību ievērošanu.
+<P>
+Visbeidzot es vēlos uzsvērt, ka lidostu drošība ir daudz plašāks jautājums nekā jaunās pārmeklēšanas tehnoloģijas ieviešana. Lai cīnītos pret terorismu, kura mērķis ir civilā aviācija, mums ir vajadzīgs plašs kombinētu un saskaņotu pasākumu klāsts - izlūkošana, profilēšana, dažādas meklēšanas metodes un starptautiskā sadarbība. Kā tikko sacīja ministrs, teroristi attīstās. Arī mums ir jāattīstās, un ķermeņa skeneri ir tikai viena no šī klāsta sastāvdaļām.
+<P>
+Es gaidīšu jūsu viedokļus un pateicos jums par uzmanību.
+<SPEAKER ID="513" NAME="Cecilia Malmström">
+Komisijas locekle. - Priekšsēdētāja kungs, šī ir Komisijas jaunā divējādā pieeja. Kā liecināja iepriekšējās debates, tagad, kad ir spēkā Lisabonas līgums, darbā ES mērogā sākas jauns posms. Esmu ļoti gandarīta un pagodināta par to, ka strādāšu kopā ar jums, lai cīnītos pret terorismu un risinātu citus ar drošību saistītus jautājumus. Mēs to darīsim un, protams, vienlaikus pilnībā ievērosim, ka galīgā atbildība par operatīvo un izlūkošanas darbu šajā jomā gulstas uz dalībvalstu pleciem.
+<P>
+Es gribētu jums atgādināt - daži no jums pirms pāris nedēļām apmeklēja manu noklausīšanos -, ka es solīju novērtēt visas pretterorisma politikas. Mans pirmais solis bija lūgums maniem dienestiem sagatavot pārskatu un novērtējumu par visu līdz šim sasniegto. Pamatojoties uz to, es pieņemšu lēmumu par turpmāko virzību. Lai varētu ierosināt jaunus un pārdomātākus pasākumus, mums ir jānovērtē un pilnībā jāizprot tas, kas ir mūsu rīcībā, kādas ir sekas, kādi ir iespējamie trūkumi un kur notiek pārklāšanās. Es ceru iepazīstināt jūs ar šo novērtējumu un kopīgi to apspriest.
+<P>
+Taču šī novērtēšana nenozīmē, ka es pilnībā neapzinos, ka terorisma draudi nav mazinājušies. Kā sacīja mans kolēģis Kallas kungs un Padomes prezidentūra, mēs zinām, ka terorisms joprojām ir viens no lielākajiem mūsu vērtību un demokrātiju apdraudētājiem. Lidojumā uz Denveru tas nesen tika apliecināts.
+<P>
+Europol statistika liecina, ka 2008. gadā ES dalībvalstis informēja par kopā 515 neveiksmīgiem vai veiksmīgi īstenotiem teroristu uzbrukumiem Eiropā; 187 tiesas sēdēs 359 personām tika izvirzītas apsūdzības terorismā; 50 % no šiem gadījumiem bija saistīti ar al-Qaeda vai islāma terorismu, bet 39 % - ar separātistu terorismu, piemēram, ETA darbības Spānijā. Mēs arī zinām, ka 2008. gadā bija traģiski notikumi un šausminoša spridzināšana Mumbajā, kas bija vērsta arī pret Eiropas pilsoņiem, tostarp šī Parlamenta deputātiem. Šie notikumi un Europol sniegtie skaitļi skaidri apliecina, ka terorisms joprojām pastāv, un ir būtiski, lai mēs nezaudējam modrību un nodrošinām visu instrumentu izmantošanu cīņā pret terorismu, vienlaikus, protams, pilnībā ievērojot cilvēktiesības.
+<P>
+Ja aplūkojam mums pašlaik pieejamos instrumentus, mums ir ES pretterorisma stratēģija, kas izstrādāta pēc uzbrukumiem Madridē un Londonā. Šajā stratēģijā ir uzsvērta ES apņemšanās globāli apkarot terorismu, vienlaikus ievērojot cilvēktiesības un padarot Eiropu drošāku, sniedzot tās pilsoņiem iespēju dzīvot brīvā, drošā un taisnīgā teritorijā. Protams, šī apņemšanās joprojām ir spēkā.
+<P>
+Brīvība nevar pastāvēt bez drošības, un drošība nevar pastāvēt bez brīvības. Tādēļ cilvēktiesību ievērošana cīņā pret terorismu ir ne tikai katras demokrātiskas sabiedrības prasība, bet arī nepieciešamība, lai mēs saglabātu mūsu politikas uzticamību, likumību un ilgtspējību. Tādēļ Komisija ierosinās tikai tādus pasākumus, uz kuriem arī turpmāk attieksies atbilstības ES tiesību aktiem pārbaude, jo īpaši saistībā ar pamattiesībām un stingru ietekmes, tostarp ietekmes uz personas datiem un privātpersonām, novērtējumu.
+<P>
+Terorisms, kā mēs zinām, ir globāls fenomens, un tādēļ mēs turpināsim veidot sadarbību ar mūsu sabiedrotajiem, partneriem un starptautiskajām organizācijām no visas pasaules.
+<P>
+Runājot par iekšējām terorisma apkarošanas un novēršanas dimensijām, mūsu pretterorisma stratēģijā ir iekļauti vairāki galvenie mērķi saistībā ar to, kā Eiropas Savienība var veicināt cīņu pret terorismu. Es pilnībā atbalstu šos mērķus, jo īpaši vajadzību izbeigt vardarbīgo radikalizāciju, aizsargāt mūsu kritisko infrastruktūru, atbalstīt upurus, uzlabot valstu iestāžu apmaiņu ar informāciju un sadarboties ar visām atbilstīgajām ieinteresētajām personām. Mums ir jāreaģē uz netradicionāliem draudiem un jāuzlabo draudu atklāšana. Mums ir jāliedz teroristiem finanšu līdzekļi un vairāk jāiegulda pētniecībā un tehnoloģijas attīstībā.
+<P>
+Šādas politikas izstrādi, protams, ir ļoti atbalstījusi Eiropas Komisija, sadarbojoties ar dalībvalstīm. Pagājušā gada laikā Komisija daudz ieguldīja, lai šajā darbā tuvinātu dalībvalstu tiesisko regulējumu. Mums ir, piemēram, Eiropas aresta orderis, kas radīja kopēju ES mēroga izpratni par terorisma noziegumu un ES dalībvalstīs veicināja noziedznieku izdošanas procedūras. Mēs arī esam sākuši svarīgas darbības, lai cīnītos pret to, ka teroristi ļaunprātīgi izmanto internetu, pievēršamies apstākļiem, kas veicina teroristu radikalizāciju, uzsākam Eiropas programmu par svarīgās infrastruktūras aizsardzību un ierobežojam teroristu piekļuvi teroristu uzbrukumu īstenošanai vajadzīgajiem līdzekļiem - finansējumam un sprāgstvielām.
+<P>
+ES rīcības plānā par drošības pastiprināšanu attiecībā uz sprāgstvielām ir paredzēti svarīgi pasākumi, lai palielinātu grūtību pakāpi teroristiem, kuri uzbrukumā vēlas izmantot sprāgstvielas. Es vēlos ierosināt tiesiskajā regulējumā iekļaut bīstamību saistībā ar prekursoriem, ko var izmantot pašdarinātu spridzekļu izgatavošanā. Es to šogad izdarīšu.
+<P>
+Mums ir arī CBRN rīcības plāns, ko pagājušā gada jūnijā ierosināja Komisija un par kuru vienojās Padome. Šajā rīcības plānā ir iekļauti 130 pasākumi. Komisija ir paredzējusi līdz EUR 100 miljonus lielu finansējumu, ko varētu piešķirt no pašreizējās finansiālās programmas, lai veicinātu īstenošanu.
+<P>
+Esmu pilnībā apņēmusies panākt, lai tuvākajos gados Eiropas Komisija turpinātu veicināt un veidot sadarbību, ekspertu tīklus, labākās prakses apmaiņu, resursu apvienošanu, izpētes uzlabošanu un kopēju pieeju starptautiskām problēmām izstrādāšanu. Mums arī būs jāpārskata veids, kā izmantojam savus finansiālos resursus. Tas varētu notikt, izveidojot Stokholmas programmā paredzēto iekšējās drošības fondu.
+<P>
+Plašā mērogā, veicot starptautisku informācijas apmaiņu saistībā ar tūkstošiem pilsoņu datu apkopošanu un uzglabāšanu, ir jāņem vērā - un to ļoti labi varēja redzēt mūsu iepriekšējās debatēs - ļoti augstie datu aizsardzības standarti, lai novērstu datu ļaunprātīgu un nepareizu izmantošanu. Mums arī, kā sacīja komisārs Kallas kungs, jāpanāk, lai mēs pareizi saskatītu sakarības. Kopā ar kolēģi Viviane Reding es tuvākajā laikā iesniegšu priekšlikumu apvienotam datu aizsardzības režīmam, kas attieksies arī uz policijas un tiesu iestāžu sadarbību.
+<P>
+Tas viss tiks izskatīts novērtējumā un būs iekļauts iekšējās drošības stratēģijā, ko jums tuvākajā laikā iesniegsim.
+<P>
+Visbeidzot, ļaujiet man noslēgumā uzsvērt, ka ilgākā laika posmā mēs gūsim panākumus terorisma apkarošanā tikai tad, ja nezaudēsim spēju aizstāvēt savas vērtības un turpināsim ievērot pamattiesības. Mēs nedrīkstam pieļaut, ka mūsu politiku uzskata par divdomīgu vai tādu, kurā piemēro dubultus standartus. Mēs varam aizstāvēt augstākās morālās vērtības un novērst atsvešināšanos no sabiedrības un mūsu dzīvesveida, tikai turpinot ievērot demokrātiskās vērtības un tiesiskumu.
+<SPEAKER ID="514" NAME="Priekšsēdētājs">
+Jūs mums sniedzāt ļoti cerīgu skatījumu. Varbūt kādu dienu jūs, Kallas kungs un Reding kundze, pārstāvēsiet Komisiju vienā reizē.
+<SPEAKER ID="515" NAME="Manfred Weber">
+PPE grupas vārdā. - (DE) Priekšsēdētāja kungs, Rubalcaba kungs, komisāri! Esmu gandarīts, ka mēs šodien runājam ne tikai par SWIFT un ķermeņa skeneriem, bet arī vispārīgi debatējam par karu pret terorismu, jo šis temats attiecas uz mums visiem. Paraugoties pagātnē, mums jāteic, ka terorisms ir reāls drauds Eiropas iedzīvotājiem. Mūsu darbība ir pozitīvi vērtējama, un es gribētu no sirds pateikties arī valstu iestādēm. Par drošību atbildīgie cilvēki pēdējo gadu laikā ir paveikuši labu darbu. Es arī gribētu pateikties mūsu partneriem.
+<P>
+Tagad mums ir jāraugās nākotnē. Kas mūs sagaida dažu turpmāko gadu laikā? Saistībā ar to man ir trīs konkrētas prasības vai priekšlikumi. Pirmais attiecas uz Eiropas iestāžu sadarbību. Katra dokumenta nosaukumā ir uzsvērta mūsu sadarbības un tās nostiprināšanas nozīme. Tie ir skaisti vārdi, taču realitātē nekas nav noticis. Saistībā ar praktisku sadarbību nekas nenotika arī Toledo. Notikumi Detroitā apliecināja, ka problēma nav bezdarbībā. Mums trūkst iestāžu sadarbības. Tas ir problēmas cēlonis. Tādēļ es gribētu lūgt Padomei beidzot darīt savu darbu šajā jomā un aicināt Komisiju iesniegt pienācīgus priekšlikumus.
+<P>
+Mans otrs priekšlikums - mums vajadzētu pārbaudīt pašreizējos tiesību aktus par datu un mobilo tālruņu datu apkopošanu, piemēram, datu saglabāšanas gadījumā. Tādēļ Eiropas Tautas partijas (Kristīgo demokrātu) grupa sniedz jums savu atbalstu šāda novērtējuma veikšanai. Pēc tam, kad ir pagājuši daži gadi, ir svarīgi to pārbaudīt.
+<P>
+Treškārt, tikko mēs diskutējām par SWIFT. Es gribu jautāt Parlamentam, kādēļ mūsu sadarbība ar ASV ir jāorganizē šādi. Tā ir jāorganizē šādi tādēļ, ka mēs, eiropieši, nevaram paši novērtēt datus. Tāpēc rodas jautājums par to, vai mēs esam pietiekami pašpārliecināti, lai tos novērtētu paši. Tā ir vēl viena viela turpmākām pārdomām.
+<SPEAKER ID="516" NAME="Saïd El Khadraoui" LANGUAGE="NL">
+Īsajā man dotajā laikā es vēlos Eiropas Parlamenta sociālistu un demokrātu progresīvās apvienības vārdā izklāstīt trīs svarīgus pamatnosacījumus, kuri, mūsuprāt, ir būtiski, novērtējot ķermeņa skeneru, kurus vēl nesen reklamēja kā brīnumlīdzekli, iespējamo ieviešanu.
+<P>
+Pirmkārt, mums ir vajadzīga koordinēta un saskaņota Eiropas pieeja. Tādēļ mums ir vajadzīgi Eiropas mēroga noteikumi, pretējā gadījumā drošības problēma tiks vienkārši pārvietota un radīsies haoss, to jau pieminēja Padomes priekšsēdētājs, taču es vēlos norādīt Spānijas prezidentūrai, ka pa šo laiku vairāki Padomes locekļi ir pieņēmuši individuālu pieeju, un es atklāti jūs lūdzu to nosodīt.
+<P>
+Otrkārt, mums ir vajadzīga globāla nostāja attiecībā uz drošību un terorisma apkarošanu, un tas nozīmē, ka mums ir jāizvairās no pārsteidzīgiem secinājumiem, jāpārtrauc paziņojumu politika un arī to, ka ķermeņa skeneru iespējamo ieviešanu nedrīkst aplūkot ārpus plašāka citu pašreizējo vai iespējamo pasākumu loka un ka mums tas jāaplūko arī saistībā ar citiem aspektiem, piemēram, sabiedrības veselību un ietekmi uz budžetu.
+<P>
+Treškārt, mums arī jāpārtrauc radīt priekšstatu, ka ķermeņa skeneri garantēs simtprocentīgu drošību. Jūs noteikti zināt, piemēram, to, ka ar šo aprīkojumu var atrast sprāgstvielas, kas piestiprinātas ķermenim, taču ne tādas, kas atrodas ķermenī.
+<P>
+Priekšsēdētāja kungs, noslēgumā es gribu sacīt, ka tādēļ arī es atbalstu Komisijas nostāju par izmēģinājumu veikšanu pirms priekšlikuma iesniegšanas.
+<SPEAKER ID="517" NAME="Gesine Meissner" LANGUAGE="DE">
+Priekšsēdētāja kungs, Rubalcaba kungs pareizi norādīja, ka patlaban mūsu gaisa satiksmes sistēma nav droša. Šajā jomā ir vajadzīga lielāka drošība. Notikumi Detroitā un Minhenē ir apliecinājuši, ka pastāv ar drošību saistītas nepilnības. Tādēļ ārkārtīgā steigā tiek ieviesti ķermeņa skeneri, it kā tie būtu brīnumlīdzeklis. Tos jau izmanto ASV, Nīderlandē un citās valstīs.
+<P>
+Taču tas rada jautājumu - vai ķermeņa skeneri patiešām padarīs gaisa satiksmi drošāku? Tas ir viens no būtiskiem jautājumiem, kas mums pašiem sev ir jāuzdod. Patiesībā ir vesela ar ķermeņa skeneriem saistītu jautājumu virkne. Kāda veida tehnoloģija tiek izmantota? Kāda veida radiāciju tie izstaro? Vai tie var kaitēt veselībai? Ko cilvēks tajos var ieraudzīt? Tikai dažus zaļus vai sarkanus punktiņus vai arī visu pārmeklētā cilvēka ķermeni? Visbeidzot, vai mēs varam nodrošināt datu aizsardzību? Turklāt šie skeneri ir dārgi. Ja mēs tos uzstādīsim, kurš par to maksās?
+<P>
+Ir jāsniedz atbildes uz daudziem jautājumiem, un mēs pie tā strādājam. Jūs arī vēlaties to darīt un piedāvāt mums risinājumu. Lai kas arī notiktu, mums ir vajadzīgs risinājums, kas attiecas uz visu Eiropu. Mums ir arī jāņem vērā Telaviva un iespējama citas metodes izmantošana. Mums ir jāmeklē spridzinātāji, nevis spridzekļi. Mēs nedrīkstam izmantot šo metodi plaši, jo tā ietver diskrimināciju, taču mums ir jāpārbauda visas iespējas, vienlaicīgi aizsargājot mūsu pamattiesības.
+<SPEAKER ID="518" NAME="Judith Sargentini" LANGUAGE="NL">
+Pirms neilga laika Parlaments noteica prasības, kādām jāatbilst ķermeņa skeneriem, ja tos ieviestu. Šajos nosacījumos ietilpa privātums, datu aizsardzība, cilvēka cieņa, veselība un izvēles brīvība.
+<P>
+Pastāv tehnoloģijas, kas visām šīm prasībām atbilst, un tas nozīmē, ka rentgenstari, rentgenogrammas un kaila ķermeņa attēli ir jāuzskata par novecojušiem, un saistībā ar to mēs patlaban rīkojamies nepareizi. Londonas Hītrovas lidostā šo aprīkojumu izmanto, neievērojot izvēles brīvību. Jauno aprīkojumu ievieš Itālijā. Holandes tieslietu ministrs aicina ieviest šo aprīkojumu visās Eiropas lidostās ne tikai lidojumiem uz ASV, bet pilnīgi visiem lidojumiem.
+<P>
+Ja mēs turpināsim tās pašas vecās debates par tehnoloģiju, mēs turpināsim izvairīties no reālā, nopietnā jautājuma uzdošanas, proti, vai tas patiešām palīdz un vai šī ir sabiedrība, kuru mēs vēlamies redzēt? Es piekrītu kolēģim no Eiropas Parlamenta sociālistu un demokrātu progresīvās alianses grupas, kurš patiešām uzdod šos jautājumus. Mums ir jādomā par to, kādā Eiropā mēs vēlamies dzīvot, jo pilnīga drošība nepastāv.
+<SPEAKER ID="519" NAME="Peter van Dalen" LANGUAGE="NL">
+Jaunākie skeneri atbilst Parlamenta noteiktajām prasībām. Drošības dienesta darbinieki redz cilvēka ķermeņa kontūras, uz kurām parādās punkti vietās, kur ir novietoti šķidrumi, ieroči vai citi aizliegti priekšmeti. Ja tiek ieraudzīti šādi punkti, attiecīgo pasažieri turpat uz vietas atsevišķi pārmeklē.
+<P>
+Jaunākajiem skeneriem arī nav nekādas ietekmes uz veselību. Tie izstaro mazāku radiāciju nekā mobilie tālruņi. Turklāt skeneri ir arī lietotājiem draudzīgi. Rindas pie drošības kļūs mazākas, jo stundas laikā varēs pārbaudīt vairāk pasažieru. Tādējādi tiks ietekmētas arī lidmašīnu pasažieru izmaksas.
+<P>
+Tomēr, priekšsēdētāja kungs, jaunākie skeneri ir papildu drošības instrumenti. Ir ļoti vajadzīga arī profilēšana un laba izlūkdienestu informācijas apmaiņa. Pēc manām domām, mēs varam ātri turpināt ieviest šos instrumentus kā papildu rīkus.
+<SPEAKER ID="520" NAME="Rui Tavares">
+GUE/NGL grupas vārdā. - (PT) Pirms dažām dienām es saņēmu e-pastu no lobētāja, kurš pārdod ķermeņa skenerus. Šajā e-pasta ziņojumā tika runāts par "ēru pēc Detroitas”. Nekas pārsteidzošs. Katra iekārta maksā EUR 250 000. Pārdodot ķermeņa skenerus, var nopelnīt veselu bagātību, taču, lasot e-pastu un domājot par šo ēru pēc Detroitas - nemākulīga uzbrukuma, ko mēģināja īstenot terorists, kuru uzveica pārējie lidmašīnas pasažieri, es sev jautāju, vai šis uzbrukums patiešām ir pelnījis, ka tā vārdā nosauc vēsturisku ēru?
+<P>
+Es tā nedomāju, ja vien nav runa par klajas nekaunības ēru. Ne visu var izmantot par attaisnojumu, lai palielinātu iejaukšanos sabiedrības privātajā dzīvē. Eiropas pilsoņiem ir jāzina arī tas, ka mēs, Parlaments, esam atbildīgi. Jā, mums patiešām ir jāizmeklē terorisms. Taisnība, ka policijai, tāpat kā lidostām, vienmēr vajag vairāk datu, taču būtiski ir arī pamatot pētījumus ar skaidriem pieņēmumiem, un Padome un Komisija izsaka daudzus pieņēmumus. Man ar nožēlu jāteic, ka tie nav pareizi.
+<P>
+Uzskats, ka terorisma drauds nav mazinājies, ir diskutabls, un par to šeit ir jādebatē. Uzskats, ka terorisms attīstās un ka arī mums vajadzētu attīstīties, ir patiess, taču vispirms ir labi jāizdara mūsu darbs, jo uzbrukumu vai drīzāk uzbrukuma mēģinājumu Detroitai pavisam vienkārši varēja novērst. Tagad mēs debatējam par datu bāzēm un turpmāko policijas praksi.
+<P>
+Vai tad, kad tiks atklāts, ka teroristi var norīt spridzekļu pagatavošanai vajadzīgās izejvielas, lidostās sāks veikt endoskopiju? Vai mēs vēlamies nonākt tik tālu? Tuvojas brīdis, kad Parlamentam būs jāapsēžas un uzmanīgi jāapspriež šis jautājums, ievērojot sabiedrības tiesības.
+<SPEAKER ID="521" NAME="Rolandas Paksas" LANGUAGE="LT">
+Eiropas Parlamentam ir jādara viss iespējamais, lai nepieļautu, ka izlūkdienesti izmanto karu pret teroru kā attaisnojumu spīdzināšanai, slepenām ieslodzījuma vietām vai pat coup d'état pretošanās gadījumā.
+<P>
+Priekšsēdētāja kungs, ļaujiet man citēt pierādījumus, kurus Eiropas Parlamenta pagaidu komitejai sniedza Lielbritānijas vēstnieks Uzbekistānā Craig Murray: "Esmu redzējis daudzus pierādījumus par spīdzināšanu Uzbekistānā. Es sastapos ar lietu par kādu ieslodzīto, kurš nomira izmeklēšanas laikā, jo tika gremdēts verdošā ūdenī.” Sniedzot liecību, vēl viena amatpersona, sers Michael Wood, paziņoja, ka "ar spīdzināšanu iegūtas ziņas saskaņā ar ANO Konvenciju pret spīdzināšanu nav nelikumīgas, ja spīdzināšanu neesam veikuši mēs.”
+<P>
+Vai ir iespējama vēl lielāka ņirgāšanās par cilvēktiesībām?
+<P>
+Priekšsēdētāja kungs, es jūs aicinu atsākt parlamentāro izmeklēšanu un vēlreiz sasaukt pagaidu komiteju saistībā ar CIP ieslodzīto ārkārtas pārvietošanu un ieslodzīšanu Eiropā.
+<SPEAKER ID="522" NAME="Philip Claeys" AFFILIATION="NI">
+(NL) Mums ir jāpiesargās, lai debates par terorismu neaprobežotos ar debatēm par ķermeņa skeneriem vai datu aizsardzību. Pārsteidzoši, ka savā paziņojumā Padome un Komisija nepieminēja radikālo islāmismu, kas joprojām rada augsni un pamatu starptautiskajam terorismam. Tā kā politkorektuma dēļ mēs vairs nedrīkstam saskatīt patiesību, ikviena pieeja ir nolemta neveiksmei pirms tā vēl uzsākta.
+<P>
+Komisija un Parlaments uzsver cilvēktiesību ievērošanu, tas ir pareizi un vajadzīgi, taču tas, ka mēs sevi pazaudējam formalitātēs, ir bīstami, un to mēs redzējām debatēs par finansējuma izsekošanas programmu. Atsevišķas aprindas var vainot sabiedrības sentimenta uzkurināšanā pret jebkādu iespējamo terorisma apkarošanas pieeju, un tas nav veids, kā kalpot Eiropas pilsoņiem.
+<SPEAKER ID="523" NAME="Werner Kuhn" AFFILIATION="PPE">
+(DE) Priekšsēdētāja kungs, dāmas un kungi! Eiropas Tautas partijas (Kristīgo demokrātu) grupai karš pret terorismu ir galvenā 21. gadsimta problēma. Mēs ar šo problēmu saskaramies gan tehniskā, gan parlamentārā mērogā.
+<P>
+Transporta un tūrisma komiteja ir ne tikai īstenojusi noteikumus par šķidrumu aizliegšanu rokas bagāžā, bet arī rūpīgi izskata jautājumu par ķermeņa skeneriem. Vispirms es gribētu pateikt vienu lietu. Patlaban nav pilnīgas drošības, kā jau uzsvēra vairāki citi runātāji, un arī nākotnē tādas nebūs. Tomēr mēs varam izstrādāt dabiskas tehnikas, kas ļaus mums asimptomātiski pietuvoties pilnīgai drošībai.
+<P>
+Gan ārpus Parlamenta, gan tajā mums ir jāņem vērā daži pamatnoteikumi. Grupas jau ir vienojušās, ka ietekmei uz pasažieru veselību ir jābūt pēc iespējas mazākai. Tādēļ mums ir jāievieš uzlaboti ķermeņa skeneri, kuri darbojas atbilstoši konkrētam principam. Protams, pats par sevi saprotams, ka ir jāaizsargā personiskās tiesības. Turklāt, sniedzot izmantojamo pārbaudes metožu piemērus, mēs nedrīkstam aprobežoties tikai ar ķermeņa skeneriem, kuri pārmeklē kailu ķermeni.
+<P>
+Transporta un tūrisma komiteja ir vienojusies ar Pilsonisko brīvību, tieslietu un iekšlietu komiteju par to, ka Komisija līdz marta beigām vai aprīļa sākumam, jebkurā gadījumā pirms vasaras brīvdienām, mums iesniegs priekšlikumu tiesību aktam par ķermeņa skeneriem. Šajā jomā ir jāņem vērā vairāki faktori. To vidū ir pastāvīga Transporta un tūrisma komitejas, kurai ir vadošā loma, un Pilsonisko brīvību, tieslietu un iekšlietu komitejas sadarbība, aprīkojuma uzticamība, Eiropas mēroga sertificēšana un vienādu nosacījumu paredzēšana visā Eiropā, lai mēs varētu garantēt drošību Eiropas kontinentā.
+<SPEAKER ID="524" NAME="Claude Moraes" AFFILIATION="S&amp;D">
+Priekšsēdētāja kungs, jūs sacījāt, ka par šo jomu ir atbildīgi trīs komisāri. Mēs par to esam ļoti gandarīti. Ļaujiet man citēt vienīgo komisāri, kuras nav klāt. Komisāre Reding kundze pagājušajā nedēļā teica "mēs zinām, ka ķermeņa skeneriem var būt ievērojams privātuma pārkāpšanas potenciāls, un tādēļ mums ir vajadzīgs pilnīgs to ietekmes novērtējums.”
+<P>
+Tieši šādi paziņojumi šajā agrīnajā posmā mums ir jāizsaka. Mēs, sociālisti un demokrāti, ticam, ka pret terorismu var cīnīties ar tehnoloģiju, un Malmström kundze pareizi rīkojās, iekļaujot to plašākā tiesiskajā regulējumā, par kuru viņa runāja.
+<P>
+Notiek nopietna cīņa Lidostās mani vairākkārt ir apturējuši. Ja, izmantojot tehnoloģiju, var paātrināt pārbaudes procesu, kļūdaini nenoturot mani par kādu citu, tā ir ļoti laba lieta, taču daudzie cilvēki, kurus pārstāvu no sava vēlēšanu apgabala, pret kuriem slikti vai diskriminējoši izturas lidostās, vēlas drošību. Atbilstīgi šai labajai un kopējai pieejai mēs to gūsim no Transporta komitejas, taču šie cilvēki vēlas, lai viņu pilsoniskās brīvības aizsargā no terorisma sekām, lai nevienā lidostā nebūtu vājā posma. Dalībvalstīm, kas to ir uzsākušas, vajadzētu apzināties, ka ir jābūt Eiropas mēroga pieejai, kas ir efektīva un droša.
+<SPEAKER ID="525" NAME="Sarah Ludford" AFFILIATION="ALDE">
+Priekšsēdētāja kungs, es gribu runāt par tiesiskuma ievērošanu izlūkdienestos. Ar Apvienotās Karalistes Apelācijas tiesas šodien sniegto nolēmumu atklātībā nonāca tas, ko Lielbritānijas valdība centās saglabāt slepenībā. Tā apstiprināja to, ko pirms trim gadiem sacīja Parlaments, - šokējošu patiesību par Apvienotās Karalistes slepeno dienestu dalību Lielbritānijas iedzīvotāja un pārvietošanas upura Binyan Mohamed spīdzināšanā.
+<P>
+Ko Padome domā par pilnīgu ES līguma 6. punkta un Konvencijas pret spīdzināšanu pārkāpšanu? Es 2006. gadā vadīju Pagaidu komitejas saistībā ar ārkārtas pārvietošanu un spīdzināšanu EP deputātu delegāciju Londonā. Tā brīža Apvienotās Karalistes Aizsardzības ministrs Geoffrey Hoon pusi sanāksmes pavadīja, veltot man pārmetumus tikai par to, ka pateicu, ka izmeklējam Apvienotās Karalistes līdzdalību. Viņš man un, vēl svarīgāk, Lielbritānijas un Eiropas sabiedrībai, ir parādā atvainošanos.
+<P>
+Tagad Apvienotajā Karalistē ir jāveic četras darbības: pilnīgi un neatkarīgi jāizmeklē Apvienotās Karalistes līdzdalība ar karu pret terorismu saistītos noziegumos, kas notika to gadu laikā, kad Apvienotās Karalistes leiboristu valdība pildīja G. Bush klēpjsunīša funkcijas; jāveic ātra policijas izmeklēšana un vajadzības gadījumā jāizvirza apsūdzības par Konvencijas pret spīdzināšanu pārkāpšanu; jāatklāj, kādas instrukcijas tika sniegtas Apvienotās Karalistes izlūkdienesta darbiniekiem un vai viņiem tika pavēlēts klusēt par saskari ar spīdzināšanu; kā arī jāparedz pilnīga parlamentārā atbildība, kura Apvienotajā Karalistē uz izlūkdienestiem neattiecas.
+<SPEAKER ID="526" NAME="Philip Bradbourn" AFFILIATION="ECR">
+Priekšsēdētāja kungs, atgriezīsimies pie jautājuma par ķermeņa skeneriem. Es joprojām uzskatu, ka jebkurš pasākums, kas palielina ceļojošo cilvēku drošību, ir jāvērtē atzinīgi.
+<P>
+Tomēr tam ir jābūt proporcionālam un jānodrošina nevainīgajiem ceļotājiem - lielākajai to daļai - cieņa, ko tie ir pelnījuši. Pēc Ziemassvētku dienā notikušā mēģinājuma uzspridzināt lidmašīnu ASV, mēs esam redzējuši, kāda ir automātiskā reakcija, mēģinot ieviest jebkādus iespējamos drošības palielināšanas līdzekļus. Atsevišķās dalībvalstīs, jo īpaši manā valstī, šādu iekārtu izmantošana tagad ir obligāta un nav pieejama nekāda alternatīva, piemēram, pārmeklēšana ar rokām, - tiek pielietota tā dēvētā "bez skenēšanas nebūs lidojuma” taktika.
+<P>
+Es kategoriski iebilstu pret šādu politiku. Saistībā ar privātumu man jāteic, ka Apvienotās Karalistes valdības lēmums atcelt bērnu tiesību aizsardzības tiesību aktus nav nekas cits kā skandāls. Mums ir jāatzīst, ka Ziemassvētku dienā notikušo - problēmu, kas izraisīja šo debašu atsākšanu, - neizraisīja vāja drošība lidostās. Tā bija, citējot ASV prezidentu "kļūda izlūkdienestu pareizas informācijas apmaiņas sistēmā”.
+<P>
+Daži eksperti jau ir paziņojuši, ka šādi skeneri nebūtu uztvēruši izmantotās sprāgstvielas.
+<P>
+Visbeidzot, man ar nožēlu jāteic, ka patlaban es uzskatu, ka mums ir vajadzīga pienācīga pasažieru profilēšanas sistēma.
+<SPEAKER ID="527" NAME="Mario Borghezio" AFFILIATION="EFD">
+(IT) Priekšsēdētāja kungs, dāmas un kungi! Terorisms pastāvīgi attīstās, un mēs nedrīkstam zaudēt līdera pozīcijas mainīgajā situācijā.
+<P>
+Ir grūti identificēt atsevišķus teroristus, un mēs šeit apspriežam tiesību aktus par privātumu un to, vai īstenot tehnoloģiski modernākus pasākumus. Es uzskatu, ka tā vietā mums vajadzētu vairāk uztraukties par atsevišķiem spriedumiem, ko Luksemburgā pasludina Kopienu Tiesa, kura atklāj pārkāpumus Rietumu apvienotajā frontē pret terorismu jeb, saucot to īstajā vārdā, islāma terorismu, un mums arī jāuzmanās no tiesiskā politkorektuma.
+<P>
+Tiesiskais politkorektums nenāk par labu nevienam, ar to mēs nekur nenonāksim, un tas mūs vājina brīdī, kad ir jārīkojas ļoti noteikti , jo pastāv pastāvīgi draudi, kuri patlaban, kad teroristus ir tik grūti identificēt, ir vēl nopietnāki. Tiktāl par ķermeņa skeneriem. Viņi var nonākt jebkur - rīt no rīta viņi var atrasties lidmašīnā, ar kuru grasāmies lidot.
+<P>
+Ja Eiropa neatkāpsies no pārmērīgu pilsonisko brīvību garantēšanas, mēs radīsim ārkārtīgi bīstamu mūsu valstu iekšējās drošības plaisu, un tas ir aspekts, par ko komisāram vajadzētu satraukties. Tā vietā es redzu, ka viņš ir pārāk vispārīgs un gļēvs, neidentificējot islāma terorismu un bīstamību, ko sevī nes tā nosaukums.
+<SPEAKER ID="528" NAME="Martin Ehrenhauser" AFFILIATION="NI">
+(DE) Priekšsēdētāja kungs, 2000. gadā visā pasaulē teroristu uzbrukumos bojā gāja 1 200 cilvēki. Pēc astoņiem gadiem, 2008. gadā, šis skaitlis bija 16 000 cilvēku. Salīdzinājumam - ik dienas 6 000 cilvēku mirst no AIDS.
+<P>
+Par ko šie skaitļi liecina? Pirmkārt, terorisms rada histēriju, kuras rezultāts ir nepamatota pilsoņu tiesību ierobežošana - kā ķermeņa skeneru vai pašreizējā SWIFT nolīguma gadījumā. Otrkārt, karš pret terorismu ir neveiksmīgs. Tam ir izdevies tikai palielināt problēmu. Par Eiropas Savienības drošības dienestu sadarbību es gribētu teikt, ka Eiropas Parlamentam šajā jomā ir steidzami vajadzīgas demokrātiskas kontroles tiesības, kas ir katras demokrātiskas dalībvalsts norma. Turklāt es gribu ieteikt Komisijai atbalstīt Kopējas standartizētas lietotāju saskarnes (CSUI) ieviešanu. Mums ir jāveicina šādas saskarnes izstrāde, un Komisijai tā ir jāfinansē.
+<SPEAKER ID="529" NAME="Teresa Jiménez-Becerril Barrio" AFFILIATION="PPE">
+(ES) Priekšsēdētāja kungs, aplūkojot tik nopietnu jautājumu kā terorisms, mums nevajadzētu gaidīt, līdz kaut kas notiek, lai sāktu rīkoties. Mums vajadzētu būt gataviem notikumiem, taču tā nav. Diemžēl mēs maināmies, tikai reaģējot uz katru uzbrukumu, piemēram, uz neveiksmīgo uzbrukumu Detroitā, kas mums šodien liek pieņemt lēmumus, lai nodrošinātu gaisa transporta drošību.
+<P>
+Lēmuma pieņemšana par ķermeņa skeneriem lidostās ir atbildība, no kuras mēs nevaram izvairīties, dāmas un kungi. Mēs nevaram vairs ilgāk gaidīt, jo teroristi negaida.
+<P>
+Attiecīgi Komisijai pēc iespējas drīzāk ir jāsniedz garantijas, ka personu cieņa un privātums tiks saglabāts un ka nebūs veselībai kaitīgu seku.
+<P>
+Līdzko tas tiks nodrošināts, mums būs jāpieņem lēmumi attiecībā uz Eiropas Savienību kopumā. Tiem, kurus māc bažas par mūsu pamattiesību aizskaršanu, vēlos teikt, ka nav svarīgāku tiesību par tiesībām uz dzīvību, un tiem no mums, kam brīvība ir dārga, jāspēj dzīvot drošībā, lai justos patiesi brīvi.
+<SPEAKER ID="530" NAME="Juan Fernando López Aguilar" AFFILIATION="S&amp;D">
+(ES) Priekšsēdētāja kungs, terorisms ir globāls drauds, un cīņa pret to ir mūsu visu kopīga atbildība. Šajā sakarā Lisabonas līgums nosaka pamatus, lai mēs visbeidzot varētu izstrādāt kopēju pretterorisma politiku Eiropas Savienībā.
+<P>
+Es pilnībā piekrītu Padomes pašreizējā priekšsēdētāja komentāriem un vēlos izcelt dažus elementus, uz kuru pamata būtu jāveido kopīgā politika.
+<P>
+Pirmkārt, ir nepieciešams uzlabot informācijas apmaiņu, jo īpaši attiecībā uz centieniem novērst teroristu uzbrukumus, un veikt pētījumus par finansēšanas mehānismiem.
+<P>
+Otrkārt, ir nepieciešams pielietot visus zinātniskos un tehnoloģiskos sasniegumus, lai apkarotu terorismu, pienācīgi ievērojot personu pamattiesības.
+<P>
+Treškārt, ir nepieciešams sadarboties ar trešām valstīm, jo īpaši ar Afganistānu, Pakistānu un Āfrikas raga valstīm.
+<P>
+Ceturtkārt, debatēs par gaisa satiksmes drošību mums ir jānodrošina, ka tehnoloģiskie panākumi, proti, ķermeņa skeneri, ir savietojami ar cilvēku veselību un privātumu un, kas ir būtiskākais, lai tie neietekmē lidostā veicamo formalitāšu laiku vai pasažieru ērtības.
+<P>
+Taču ir arī trīs institucionālie elementi. Pirmais ir COSI, Iekšējās drošības jautājumu komiteja. Otrais - pretterorisma pasākumu deklarācija, kas tika izdota pēdējā Eiropas Savienības Tieslietu un iekšlietu (JHA) padomes neoficiālajā sanāksmē Toledo pilsētā. Trešais elements ir transatlantiskā drošības zona, kurai ir jānodrošina ciešas sadarbības attīstība ar Amerikas Savienotajām Valstīm cīņā pret šo kopīgo draudu.
+<SPEAKER ID="531" NAME="Charles Goerens" AFFILIATION="ALDE">
+(FR) Priekšsēdētāja kungs, viens no veidiem, kā novērst terorismu, ir informācija. Turklāt ir nepieciešama informācijas aprite. Vai tā šobrīd patiesi notiek? Nekas nav vēl neskaidrāks. Vai ASV informācijas dienesti uztur Eiropas kolēģus lietas kursā? Ņemot vērā Amsterdamas-Detroitas reisā arestētā terorista gadījumu, vēl joprojām rodas pamats šaubām.
+<P>
+Neatkarīgi no šī atgadījuma, pastāv jautājums par to, vai, vispārīgi runājot, pretterorisma datu apmaiņas sistēmas ietvaros patiešām tiek ievērots savstarpējas apmaiņas princips. Šī jautājuma risināšanai ir nekavējoties nepieciešama parlamentāras uzraudzības padome.
+<P>
+Patiesībā nav nepieciešamības pieprasīt mūsu Parlamentam atbalstīt arvien vairāk mūsu pilsoņu personisko datu nodošanu, ja ASV iestādes turpretī nesniedz mūsu dienestiem būtisku pretterorisma informāciju. Tas ietver parlamentāras uzraudzības komitejas izveidošanu Eiropas Parlamenta ietvaros.
+<SPEAKER ID="532" NAME="Mara Bizzotto" AFFILIATION="EFD">
+(IT) Priekšsēdētāja kungs, dāmas un kungi, man ir jāatzīst, ka, runājot par terorisma apkarošanu tikai no informācijas un tehnoloģiju viedokļa, man rodas priekšstats, ka mēs vēl joprojām neaplūkojam lietas pēc to būtības, kas ir tā, it kā mēs vēlētos izārstēt slimību, koncentrējoties uz tās simptomiem, nevis cēloņiem.
+<P>
+Vai nav pienācis laiks risināt terorisma problēmu, aplūkojot lietas būtību, nevis ierobežojot sevi ar tās ārējām izpausmēm? Lietas būtības risināšana nozīmē, piemēram, izprast, ka terorisms ir arī etnisko grupu nespējas vai nevēlēšanās integrēties Eiropas sabiedrībā tieša izpausme.
+<P>
+Es vēlos uzzināt un es vaicāju Parlamentam: vai mēs vēlamies diskusiju par terorismu? Vai Parlamentam ir pietiekami daudz drosmes stāties pretī politiskai debatei par musulmaņu integrācijas līmeni Eiropā un to vēlmi pieņemt rietumu vērtības, tiesības un brīvības? Šajā sakarā esmu iesniegusi Komisijai jautājumu par burkas valkāšanu, lai veicinātu Parlamentu atklāti pievērsties šim jautājumam. Šķiet, ka neviens nevēlas nodarboties ar šo jautājumu.
+<P>
+Es vēlos uzzināt un es vaicāju jums, dāmas un kungi, kas pārstāv visas politiskās grupas: ja politiskais forums, kas pārstāv Eiropas iedzīvotājus, nevar izteikt savu viedokli par šiem jautājumiem, par ko tad tas var izteikt viedokli?
+<SPEAKER ID="533" NAME="Diane Dodds" AFFILIATION="NI">
+Priekšsēdētāja kungs, būdama Ziemeļīrijas pārstāve, es pārāk labi zinu, cik briesmīga ir terorisma ietekme uz nevainīgiem civiliedzīvotājiem: slepkavība un miesas bojājumi nodarīti laikā, kamēr cilvēki veic sestdienas iepirkšanos Shankhill Road Belfāstā; gan jauni, gan veci cilvēki uzspridzināti Enniskillen piemiņas pasākuma laikā, kas veltīts pasaules karā kritušajiem - teroristu uzbraukumi, kas paveikti Īrijas republikānisma vārdā. Šeit mēs runājam par drošības spēku sadarbību. Ņemot vērā Ziemeļīrijas pieredzi, mēs varam redzēt, ka to ieguldījums ir pasargājis daudzu cilvēku dzīvības; par to man šaubu nav. Mums jāatbalsta savi drošības spēki ar tiem nepieciešamo aprīkojumu, lai novērstu terorismu.
+<P>
+Tiem, kas šodien ir pretstatījuši drošību un aizsardzību izvēles brīvībai un datu aizsardzībai, nepieciešams izvērtēt savu pozīciju. Ticiet man, terorisms iznīcina dzīvības un sagrauj kopienas. Šodien šajā Parlamentā esmu dzirdējusi, ka terorisms ir histērija. Kas par muļķībām! Ticiet man, kad terorists cenšas atņemt dzīvību, tā ir auksta un nāvējoša realitāte - kaut kas tāds, ko mani vēlētāji labi zina.
+<SPEAKER ID="534" NAME="Carlos Coelho" AFFILIATION="PPE">
+(PT) Priekšsēdētāja kungs, domāju, ka visi esam vienisprātis par nepieciešamību aizsargāt cilvēkus un īpašumu, kā arī nodrošināt sabiedriskā transporta drošību. Pastāv pamatotas bažas par ķermeņa skeneriem. Es ceru, ka trīs no tām tiks atrisinātas, Komisijai noslēdzot pētījumus. Vēlētos lūgt, lai tos drīz pabeidz un iesniedz Parlamentam. Pirmkārt, vai tie ir nepieciešami un iedarbīgi? Otrkārt, vai skeneri ir vai nav kaitīgi veselībai? Treškārt, vai ar to izmantošanu tiek aizskarts personu privātums un cieņa?
+<P>
+Taču pastāv vēl citas bažas. Sākotnēji mums teica, ka skeneru izmantošana būšot brīvprātīga. Cilvēki varētu izvēlēties, vai pakļaut sevi skeneru pārbaudēm vai agrākajai personīgās pārbaudes sistēmai. Taču šķiet, ka dažas dalībvalstis ievieš "ja nepārbaudies, nelido” principu obligātā kārtā.
+<P>
+Vēlētos apsveikt Komisijas locekli Cecilia Malmström ar vispusīgo novērtējumu, ko viņa iztirzās ar Parlamentu, un es vēlētos uzsvērt, ka mēs esam atbildīgi par risinājumu atrašanu, kas veicinātu drošību, neapdraudot personu tiesības.
+<SPEAKER ID="535" NAME="Nathalie Griesbeck" AFFILIATION="ALDE">
+(FR) Priekšsēdētāja kungs, mēs visi vēlamies cīnīties pret terorismu un draudiem, ko tas rada demokrātijām; uzskatu, ka par to mūsu Parlamentā ir vienots viedoklis. Lai gan izteiciens "cilvēki, kas ir gatavi upurēt nedaudz brīvības, lai gūtu nedaudz drošību, beigās zaudē abus” man šķiet pārspīlēts, es tomēr esmu pārliecināta, ka mums ir jādara viss iespējamais, lai rastu līdzsvaru starp brīvību un drošību, jo tas ir demokrātijas pamats un bez šī līdzsvara teroristi būs uzvarējuši, ja tiem izdosies pakļaut bailēm mūs visus.
+<P>
+Man ir divi jautājumi par ķermeņa skeneriem. No drošības viedokļa, vai šobrīd šie skeneri patiešām spēj garantēt atbilstību drošības prasībām? No brīvības viedokļa, būdama Pilsonisko brīvību, tieslietu un iekšlietu komitejas locekle, es vēlos zināt, vai pastāv veselības riski un, protams, riski attiecībā uz personu privātumu un attiecīgi pamattiesību aizskaršanu un šo attēlu lietošanu. Nogaidīsim, kamēr Komisija pabeidz savu darbu, lai mēs varam virzīties tālāk un lai varam to darīt kā Eiropas Savienība - visi kopīgi, garantējot savu drošību Eiropas demokrātiskajā teritorijā.
+<SPEAKER ID="536" NAME="Priekšsēdētājs">
+Laika trūkuma dēļ nevaru pieņemt citas iejaukšanās saskaņā ar "zilās kartītes” vai "brīvā mikrofona” procedūru.
+<SPEAKER ID="537" NAME="Gerard Batten" AFFILIATION="EFD">
+Priekšsēdētāja kungs, terorismu definē kā vardarbības un iebiedēšanas pielietošanu, lai sasniegtu politiskus mērķus.
+<P>
+Tiem no mums, kam ir svarīgs miers, brīvība un demokrātija, ir pamats raizēties par terorismu, jo tas darbojas. Sinn Féin/IRA šobrīd ieņem vietas Ziemeļīrijas valdībā. Viņi spridzināja, šāva un nogalināja, lai gūtu panākumus vēlēšanu iecirkņos.
+<P>
+Vai ir labāki veiksmīga terorisma piemēri par komunismu Krievijā, Austrumeiropā un Āzijā?
+<P>
+Ķīnu pēc 61 gadu ilgas valdīšanas vēl joprojām terorizē Ķīnas komunistiskā partija. Nav labāka veiksmīga terorisma piemēra par šo.
+<P>
+Eiropas Komisijā, par ko Parlaments vakar balsoja, ir pārstāvēti komunisti, bijušie Austrumeiropas brutālo komunistisko režīmu aparāta darbinieki un viņu līdzgaitnieki. Un, protams, Eiropas Komisijas priekšsēdētājs Barroso kungs ir bijušais maoists. Bez šaubām, nākotnes teroristiem tas liksies sevišķi iedrošinošs fakts.
+<SPEAKER ID="538" NAME="Carlo Fidanza" AFFILIATION="PPE">
+(IT) Priekšsēdētāja kungs, dāmas un kungi, mūsu sabiedrību drošība ir neapšaubāma vērtība, uz ko mums vajag apņēmīgi tiekties.
+<P>
+Ir skaidrs, ka iedarbīgākas drošības pārbaudes ir jāatbalsta ar augstāku sadarbības līmeni starp informācijas sistēmām un progresīvo tehnoloģiju instrumentu pielietojumu. Eiropas ministriem ir izdevies neļauties emociju vilnim un tā vietā koncentrēties uz to, kā koordinēt šo darbību.
+<P>
+Dažas valdības ir pamatoti sākušas izmēģināt ķermeņa skenerus maršrutos, kas ir pakļauti lielākam riskam. Ja vien nevēlamies, lai Eiropas gaisa telpā tiktu piemēroti atšķirīgi standarti, mums pēc iespējas drīzāk nepieciešams iegūt šobrīd veikto pētījumu rezultātus. Protams, mums ir jāaizstāv personu tiesības, taču tas nedrīkst notikt uz cilvēku baiļu rēķina.
+<P>
+Apspriedīsim jautājumu par veselību, atkārtoti apstiprināsim piesardzības principu, prasīsim apstiprinājumu iespējamam kaitējumam, ko rada pakļaušana radioviļņiem vai rentgenstariem, taču pārtrauksim zūdīties par privātuma izskaršanu tikai dažu izplūdušu ķermeņu attēlu bez sejas dēļ, kas tiek nekavējoties izdzēsti, it kā GPS, mobilie telefoni un TV kameras nebūtu bijušas daļa no mūsu dzīves gadiem ilgi.
+<P>
+Kamēr starptautiskie terorisma centri nav iznīcināti, mums ir jāiemācās sadzīvot ar šiem upuriem, sniedzot pilsoņiem skaidras atbildes un iedarbīgus risinājumus, ievērojot vienu ierobežojumu: personu fizisko integritāti.
+<SPEAKER ID="539" NAME="Priekšsēdētājs">
+Dāmas un kungi, ir pienācis laiks brīvā mikrofona runām. Es nosaukšu vārdus. Pēc vienas minūtes es vienkārši izslēgšu mikrofonu. Es nesitīšu āmuriņu, nelūgšos un nevēlos būt pārprasts.
+<P>
+Izsaucu runātājus šādā kārtībā:
+<P>
+Zasada kungs
+<P>
+Iacolino kungs
+<P>
+Matula kungs
+<P>
+Leichtfried kungs
+<P>
+Enciu kungs
+<P>
+Flašíková Beňová kundze
+<P>
+Tannock kungs
+<P>
+Ernst kundze
+<P>
+Rivasi kundze
+<P>
+un Mölzer kungs.
+<P>
+Katram ir viena minūte, un viss. Atvainojos pārējiem.
+<SPEAKER ID="540" NAME="Artur Zasada" AFFILIATION="PPE">
+(PL) Priekšsēdētāja kungs, ņemot vērā šodienas debates, ķermeņa skeneru lietošana lidostās vēl joprojām nesniedz atbildes uz daudziem jautājumiem. Ceļotāju drošība, protams, ir prioritāte, taču mums nevajadzētu aizmirst par mēra sajūtu, pielietojot aizsardzības metodes. Šāda veida aprīkojuma lietošana vēl joprojām atstāj daudz jautājumus neatbildētus. Kāda ir skeneru iedarbība uz skenēšanai pakļauto pasažieru veselību? Kā tiks nodrošināta skenēšanai pakļauto cilvēku attēlu aizsardzība? Vai nav labāk uzlabot esošo sistēmu, nevis tērēt miljardiem euro aprīkojumam, ja ir zināms, ka aprīkojums nespēj konstatēt sprāgstvielas, kas paslēptas cilvēka ķermenī? Mums vajadzētu iebilst pret skeneru obligātu ieviešanu Eiropas lidostās, kamēr neesam saņēmuši atbildes uz šiem jautājumiem.
+<P>
+Visbeidzot, vēlos piebilst - man ir radies iespaids, ka esam atraduši risinājumu, un tagad mēs meklējam problēmu, ko ar to varētu atrisināt. Iespējams, ka skeneri ir risinājums, taču tie noteikti neatrisinās drošības problēmu lidostās.
+<SPEAKER ID="541" NAME="Salvatore Iacolino" AFFILIATION="PPE">
+(IT) Priekšsēdētāja kungs, dāmas un kungi, īsumā es vēlējos teikt sekojošo: nav nopietnākas problēmas par personiskām tiesībām un privātuma aizsardzību, ja tas netiek pienācīgi nodrošināts.
+<P>
+Ja pirms dažām nedēļām šai pašā Parlamentā mēs pieņēmām rezolūciju par Stokholmas programmu, tas bija tāpēc, ka mēs sasniedzām līdzsvaru starp dažādām vajadzībām: pirmkārt, personu brīvību, otrkārt, privātumu, treškārt, drošību.
+<P>
+Ja šobrīd esam nobažījušies par to, lai nodrošinātu, ka Eiropas Savienība risina šo kopīgo problēmu tāpēc, ka dalībvalstis ir gājušas soli uz priekšu, tas droši vien ir tāpēc, ka būtiskais izaicinājums, piemēram, robežpunktu aizsardzība, kā arī citi jautājumi, var netikt nodrošināti praksē.
+<P>
+Tāpēc es aicinu Spānijas prezidentūru un komisārus savstarpēji sadarboties, balstoties uz uzlabotu sadarbību un informācijas kultūru.
+<SPEAKER ID="542" NAME="Iosif Matula" AFFILIATION="PPE">
+(RO) Es vēlētos precizēt jau savas runas sākumā, ka ar šīm debatēm mēs ne tikai apstiprinām terorisma riska eksistenci, bet arī uzsveram nepieciešamību būt soli priekšā cīņā ar šo fenomenu.
+<P>
+Taču debatēm par ķermeņa skeneru ieviešanu visu Eiropas Savienības dalībvalstu lidostās ir plašāka rezonanse. Šī pasākuma iedarbīgums ir apšaubāms tāpēc, ka šī tehnoloģija nevar konstatēt norītas vielas vai pulverveida sprāgstvielas. Taču tā arī rada jautājumu par drošību attiecībā uz pasažieru veselību, īpaši to, kuri bieži veic drošības pārbaudes šajās ierīcēs.
+<P>
+Mēs nevaram ignorēt arī jautājumu par pilsoņu pamattiesībām, tiesībām uz privātumu un cieņu, ciktāl ķermeņa skeneri nodrošina cilvēka ķermeņa detalizētu attēlu. Manuprāt, ir nepieciešams veikt neatkarīgus pētījumus, lai noteiktu ne tikai izmantoto tehnoloģiju drošumu, bet arī to iedarbīgumu ...
+<P>
+(Priekšsēdētājs pārtrauca runātāju)
+<SPEAKER ID="543" NAME="Jörg Leichtfried" AFFILIATION="S&amp;D">
+(DE) Priekšsēdētāja kungs, viens princips, kas ir piemērojams gaisa satiksmes drošībai, ir tāds, ka Eiropas atbildība nepārtraukti pieaug. Atsevišķām dalībvalstīm vairs nav iespējams darīt, ko tās vēlas. Tas īpaši attiecas uz ķermeņa skeneriem. Mums ir vienas pieturas drošības princips, kas nozīmē, ka ir jābūt vai nu Eiropas noteikumiem par ķermeņa skeneriem, vai arī nedz noteikumiem, nedz ķermeņa skeneriem. Alternatīvs princips ir tāds, ka katrs dara, ko vēlas, un neviens nedara, ko vajadzētu, bet visi dara kaut ko nebūt.
+<P>
+Ja ir jāievieš šāda veida pasākums, mums ir jāapspriež, kas par to maksās un kā tas tiks finansēts, jo gan šķidrumu skeneri, gan ķermeņa skeneri ir ļoti dārgi. Tā ir sanācis, ka esmu ziņotājs šai jomā, un es būtu gandarīts redzēt, ka Padome pamazāk sāk virzīt šo jautājumu, jo ir būtiski nodibināt principu, ka sabiedrības drošība ir sabiedrisks jautājums, un to ir vismaz daļēji jāfinansē no publiskiem līdzekļiem.
+<SPEAKER ID="544" NAME="Ioan Enciu" AFFILIATION="S&amp;D">
+(RO) Vēlos pievērst Komisijas, Padomes un savu kolēģu, Komisijas locekļu, uzmanību blakusparādībām un paaugstinātiem kancerogēnas vides riskiem un ģenētiskām mutācijām, kas seko atkārtotai pakļaušanai gammas, rentgenstaru un T staru iedarbībai.
+<P>
+Rentgenstaru radiācijas ietekme un riski medicīnā ir labi zināmi, un atkārtota pakļaušana šāda veida radiācijai ir nevēlama. Sabiedrība zina mazāk par terahercu radiācijas ietekmi. Papildus tam, ka T-staru skeneri var izveidot precīzus cilvēka ķermeņa trīsdimensiju attēlus, kas ir pretrunā personu tiesībām uz privātumu, atkārtota pakļaušana šāda veida radiācijas iedarbībai var radīt DNS ķēžu bojājumus un veicināt ģenētiskas patoloģijas, kas var izpausties vēlāk.
+<P>
+Es vēlētos uzsvērt, ka riski un briesmas, kam varam tikt pakļauti, ja ķermeņa skeneri tiktu izmantoti plašākā mērogā, kā arī neskaidrība par to iedarbīgumu neattaisno šādu risinājumu ...
+<P>
+(Priekšsēdētājs pārtrauca runātāju)
+<SPEAKER ID="545" NAME="Monika Flašíková Beňová" AFFILIATION="S&amp;D">
+(SK) Terorismam nav vērtību, un tam nav arī nekādas dziļākas jēgas. Vienīgais terorisma mērķis ir nāve. Civiliedzīvotāju nāve ar maksimāli zemām izmaksām. Iespējams, tāda ir dažādu teroristu-pašnāvnieku situācija. Skumjš ar šo mērķi saistīts apstāklis ir arī fakts, ka terorisms ir licis mums ieviest dažādus pasākumus, kas ir vērsti uz civiliedzīvotāju aizsardzību, izmantojot metodes, kas dažos veidos samazina civiliedzīvotāju tiesības.
+<P>
+Tādēļ būtu labi, ja šajā plenārsēdē apstiprinātu skenerus un mēs varētu sākt domāt par tiesību aktu pieņemšanu un saskaņošanu tieslietu un iekšlietu sfērā, jo tikai jaunu tehnoloģisku pasākumu ieviešana patiešām palīdzēs mums cīņā pret terorismu.
+<SPEAKER ID="546" NAME="Charles Tannock" AFFILIATION="ECR">
+Priekšsēdētāja kungs, nesenais premjerministra Gordon Brown paziņojums par obligāto atstarojošo rentgenstaru tehnoloģijas ķermeņa skeneru ieviešanu Lielbritānijas lidostās, manuprāt, ir liela kļūda.
+<P>
+Šī ir pirmā reize vēsturē, kad jonizējošu radiāciju uzspiež cilvēkiem, tostarp bērniem un grūtniecēm, kā arī plaši piemēroto veseliem cilvēkiem nemedicīnisku iemeslu dēļ.
+<P>
+Vāji, zemas enerģijas rentgenstari patiesībā absorbējas vairāk nekā lielākas enerģijas kosmiskie stari, ko cilvēki saņem lidojot, un tāpēc tie ir bīstamāki, nevis mazāk bīstami ādai un mīkstajiem audiem. Turklāt diagnostiskie medicīniskie rentgenstari ļauj lietotājam, pacientam, izmantot gonādu svina aizsargu, lai samazinātu devas kopējo apjomu, kas rada DNS bojājumus un turpmākas ģenētiskas mutācijas - arī tas nav iespējams ar šīm ierīcēm.
+<P>
+Būdams ārsts un biežs gaisa satiksmes pasažieris, es pilnībā noraidu šo drakonisko līdzekli veselības apsvērumu dēļ, nemaz nerunājot par privātuma un neefektivitātes iemesliem, un es ceru, ka ES noraidīs šo obligāto pasākumu Eiropas mērogā. Tā vietā es iesaku ieviest pasažieru profilēšanu, kas ir līdzīga Izraēlā izmantotajai.
+<SPEAKER ID="547" NAME="Cornelia Ernst" AFFILIATION="GUE/NGL">
+(DE) Priekšsēdētāja kungs, ir skaidrs, ka ķermeņa skeneri nozīmē privātuma aizskaršanu, turklāt nopietnu. Mums ir sev jāuzdod divi jautājumi. Pirmais jautājums ir par to, cik lielā mērā šāda reakcija ir atbilstoša, un vai tā var pilnībā palīdzēt sasniegt terorisma apkarošanas mērķi. Mums šobrīd nav konkrētu atbilžu uz šo jautājumu. Tāpēc es atbalstu Malmström kundzes teikto par nepieciešamību novērtēt visu veidu skenerus. Vēlētos, lai šis novērtējums būtu pabeigts, pirms mēs darām ko citu.
+<P>
+Nākamais jautājums attiecas uz veselības riskiem. Ikvienam šajā telpā un visiem deputātiem, kuri šobrīd atrodas citviet, nāksies iziet ķermeņa skeneru pārbaudes vairākas reizes nedēļā. Man to nāktos darīt vismaz divreiz nedēļā. Tas ir ilgtermiņa pasākums, un es vēlētos zināt, kādā mērā tas kaitēs manai veselībai. Šajā jomā nav veikti nopietni novērtējumi. Vēlētos pavisam skaidri norādīt, ka es neesmu gatava pakļaut sevi ķermeņa skeneru pārbaudēm, kamēr šādi novērtējumi nav veikti. Tāpēc es lūdzu skaidras atbildes, nevis pārsteidzīgu reakciju.
+<SPEAKER ID="548" NAME="Michèle Rivasi" AFFILIATION="Verts/ALE">
+(FR) Priekšsēdētāja kungs, vēlētos sasaistīt skenerus, veselību un terorismu. Ko saka Starpaģentūru komiteja aizsardzībai pret radiāciju, kas apvieno Eiropas Komisiju, IAEA - Starptautisko Atomenerģijas aģentūru - un Kodolenerģijas aģentūru? Tā saka, ka grūtnieces un bērnus nedrīkst pakļaut ķermeņa skeneriem, pat ja devas ir sevišķi mazas.
+<P>
+Patiešām, mums vajadzētu zināt, ka bieža pakļaušana mazām radiācijas devām var izraisīt vēzi un deformācijas. Tāpēc mans jautājums attiecas uz risku pamatotību. Ņemot vērā to, ka pastāv alternatīvas tehnoloģijas, kas ļauj sasniegt tos pašus vēlamos mērķus, šiem skeneriem patiešām ir jābūt pamatotiem attiecībā uz konkrēto mērķi, un mums ir jāzina ...
+<P>
+(Priekšsēdētājs pārtrauca runātāju)
+<SPEAKER ID="549" NAME="Andreas Mölzer" AFFILIATION="NI">
+(DE) Priekšsēdētāja kungs, mēs nedrīkstam aizmirst, ka kļūdaina informācija un slikti lēmumi, ko pieņēmis ASV slepenais dienests, ir vairākkārt ļāvuši notikt starptautiskā terorisma aktiem. Neraugoties uz to, dažādu pretterorisma pasākumu derīgums nekad nav ticis apstrīdēts. Tā vietā ikkatram uzbrukumam seko arvien lielāki civiltiesību un brīvību ierobežojumi. Eiropas Parlaments tikai tagad sāk aptvert, kad ES pilsoņiem gan burtiskā, gan finansiālā nozīmē ir jāizģērbjas ASV priekšā. Caurspīdīgais pilsonis arvien vairāk kļūst par realitāti, un tas viss notiek, balstoties uz slepeno dienestu datiem un informāciju, kuru nozīme un uzticamība ir kļuvusi ļoti pretrunīga, vēl jo vairāk kopš kariem Afganistānā un Irākā.
+<P>
+Papildus šaubām par ķermeņa skeneru sniegtiem ieguvumiem, to iespējamību un savietojamību ar personu tiesībām, šķiet, ir ļoti mazticami, ka tie novērsīs radikālos musulmaņus no to terorisma nodomiem. Mums ir jāveic konsekventi pasākumi, lai cīnītos pret musulmaņu terorismu, taču mums ir jāpārtrauc ES pilsoņu nepārtraukti ...
+<P>
+(Priekšsēdētājs pārtrauca runātāju)
+<SPEAKER ID="550" NAME="Alfredo Pérez Rubalcaba" LANGUAGE="ES">
+Priekšsēdētāja kungs, esmu uzmanīgi klausījies grupu un locekļu runas par šo tēmu. Esam uzklausījuši sevišķi interesantus viedokļus, un es tos vērtēju atzinīgi.
+<P>
+Vēlētos jums atgādināt, kā jau es minēju savā pirmajā runā, ka es noteikti neatbalstu debates par tādiem sarežģītiem un jūtīgiem jautājumiem kā cīņa pret terorismu pēc uzbrukumiem vai uzbrukuma mēģinājumiem.
+<P>
+Mums, bez šaubām, ir nepieciešams izmeklēt šos uzbrukumus vai uzbrukuma mēģinājumus, lai noskaidrotu, kāda problēma radās mūsu drošības sistēmās, taču nav šaubu, kā jau tas šodien ir vairākkārt minēts, ka pretterorisma politikai ir jābūt rūpīgi pārdomātai, mierīgai un mērķtiecīgai, un to ir jāpiemēro samērīgā veidā.
+<P>
+Ja mēs pieņemam pasākumus, kas grauj mūsu principus, mēs visticamāk pieļaujam nopietnu kļūdu. Attiecīgi mums ir jāanalizē, piemēram, notikumi Detroitā, lai mēģinātu novērst kļūdas, taču mēs nevaram automātiski reaģēt pēc katra uzbrukuma, jo tas, visticamāk, novestu pie tādu pasākumu pieņemšanas, kam dažkārt gluži vienkārši nebūtu jēgas.
+<P>
+Eiropai ir sava pretterorisma politikas stratēģija. Mums Eiropas Savienībā ir laba terorisma apkarošanas stratēģija, kas pēdējos gados ir pierādījusi savu efektivitāti. Mums atliek palūkoties uz drošības spēku rīcību dažādās valstīs, lai redzētu, cik lielā mērā bieži vien šī rīcība ir balstīta uz vienotas stratēģijas piemērošanu, ko ieviesām pirms vairākiem gadiem.
+<P>
+Ar mums sadarbojas svarīga persona - pretterorisma koordinators, kura runas ir ļoti interesantas. Es vēlreiz gribētu ieteikt detalizēti izskatīt viņa pēdējo runu šajā Parlamentā, jo, manuprāt, tā ir izcila runa, kas uzsver mūsu stratēģijas mērogu. Mēs pēdējā laikā tiešām esam centušies šai stratēģijai piešķirt konkrētu veidolu ar novēršanas palīdzību pretēji tam, kā tas bija piemērošanas sākuma gados, kad mēs daudz vairāk uzmanību pievērsām atklāšanai.
+<P>
+Protams, visbūtiskākais elements cīņā pret terorismu ir novēršana, respektīvi, uzbrukumu novēršana. Tāpēc mēs koncentrējam kopīgas pūles, kā jau minēju, uz novēršanu. Tas ir arī iemesls, kāpēc mēs koncentrējamies uz tādiem aspektiem, kā radikalizācija, ko es, tāpat kā komisārs, minēju savā runā. Mēs vēlamies analizēt politikas, ko katrā valstī ievieš, lai novērstu radikalizāciju, kas, bez šaubām, ir galvenais cēlonis daudziem teroristu uzbrukumiem, ko pēdējos gados esam piedzīvojuši.
+<P>
+Mēs arīdzan vēlamies nodrošināt adekvātu informācijas apmaiņu. Tas Parlamentā ir uzsvērts vairākkārt. Svarīgi ir nevis nodot visu informāciju, kas ir jūsu rīcībā, bet gan nodot informāciju, kas ir būtiska tās saņēmējam. Tā ir informācija, ko nepieciešams nodot. Mērķis nav pārpludināt sevi ar informāciju, bet gan nodrošināt informācijas pārvaldības rīkus, kas padara apmaiņu pēc iespējas efektīvāku.
+<P>
+Eiropas Savienībā šajā sakarā pēdējā laikā ir notikuši nozīmīgi uzlabojumi. Mums ir stratēģija, kas pēc ieviešanas, piemēram, uzlabos mūsu apmaiņas sistēmu darbību. Runājot par apmaiņu, es domāju Eiropolu, Eurojust, COSI, ko daži locekļi jau ir pieminējuši, un visbeidzot, es runāju par informācijas apmaiņu un par to, kā to padarīt efektīvāku.
+<P>
+Galu galā, pretrunīgais ķermeņa skeneru jautājums tagad ir dienas kārtībā, un, manuprāt, kā jau minēju pirmajā runā un kā to minēja arī komisārs, tas ir jautājums, kas mums ir jārisina. Ideālā gadījumā mēs spēsim pieņemt lēmumu par vienotu risinājumu Eiropas līmenī. Protams, ja mēs tā nedarīsim, katrai valstij būs iespējams ieviest savu politiku, un, pat ja mēs lemsim par kopīgu risinājumu, iespējams, būs tādas valstis, kas virzīs pašas savu politiku saskaņā ar saviem likumiem. Taču nav lielu šaubu, ka kopēja nostāja par šo jautājumu būtu īpaši noderīga.
+<P>
+Lai šādu nostāju pieņemtu un, ņemot vērā manis teikto runas sākumā, mums ir nepieciešamas mierīgas un mērķtiecīgas debates, kas koncentrētas uz trīs elementiem, ko Komisija šobrīd pēta: pirmkārt, skeneru iedarbīgums (vai tie ir vai nav iedarbīgi, kādi ir to ierobežojumi un vai tie var veikt to, ko mēs no tiem sagaidām); otrkārt, to savietojamība ar pamattiesībām un personu brīvībām; treškārt, to savietojamība ar to cilvēku veselību, kam nāksies iet cauri šiem skeneriem.
+<P>
+Manuprāt, mums ir jāaplūko šie trīs jautājumi. Līdzko būs pieejami pārskati, mēs pieņemsim kopīgu nostāju, kas, manuprāt, ir nepieciešama.
+<P>
+Priekšsēdētāja kungs, es vēlreiz vēlētos pateikt, cik ļoti es novērtēju šeit Parlamentā sniegtās runas, kuras es uzskatu par ļoti noderīgām Padomes darbā.
+<SPEAKER ID="551" NAME="Sarah Ludford" AFFILIATION="ALDE">
+Priekšsēdētāja kungs, es uzdevu tiešu jautājumu Padomei un es vēlētos saņemt atbildi. Es vaicāju, ko Padome domā par ES līguma 6. panta - pamattiesību panta - rupjo pārkāpumu, ņemot vērā, ka Apvienotās Karalistes Apelācijas tiesa atzina Apvienoto Karalisti par vainīgu ...
+<P>
+(Priekšsēdētājs pārtrauca runātāju)
+<SPEAKER ID="552" NAME="Siim Kallas">
+Komisijas loceklis. - Priekšsēdētāja kungs, dāmas un kungi, paldies par jūsu ieguldījumu, taču man ir jāsaka, ka šodien mēs neesam saņēmuši ierosinājumu obligātā kārtā visās dalībvalstīs un visās lidostās ieviest kādas jaunas ierīces. Tā nebūt nav. Mēs esam tikai šo jauno tehnoloģiju rūpīgas izvērtēšanas procesā, un mēs atgriezīsimies pie jums pēc aprīļa - pēc tam, kad tiks pabeigts nozīmīgais ziņojums, kas aplūkos šīs jaunās tehnoloģijas visos aspektos.
+<P>
+Man pašam ir zināmas šaubas, īpaši par šīs jaunās tehnoloģijas lietošanas iedarbīgumu un, kā to kāds šeit norādīja, tās samērīgumu, taču mums nevajadzētu pilnībā noraidīt jaunās tehnoloģijas. Terorisms attīstās, un arī mums ir jāizmanto visi tehnoloģiskie sasniegumi, lai aizstāvētu savus pilsoņus un pasažierus. Tāpēc nepakļausim jaunās tehnoloģijas demonizācijai. Mēs kopīgi ar kolēģēm Cecilia Malmström un Viviane Reding piedāvāsim kopīgu Eiropas pieeju, ievērojot visas nepieciešamās prasības attiecībā uz tehnoloģiju, juridiskiem, pamattiesību un privātuma jautājumiem un aspektiem. Mēs noteikti ierosināsim kādu kopīgu Eiropas pieeju, - tādu pieeju, par ko, manuprāt, ir vienprātīga izpratne un kam šeit un, cik noprotu, arī daudzās dalībvalstīs tiek dota priekšroka.
+<P>
+Tātad šāds ir mūsu rīcības plāns tuvākai nākotnei. Mēs sniegsim ziņojumu un tad turpināsim šīs debates. Ticiet man, šeit nav nekādas sazvērestības ar nolūku nekavējoties ieviest jaunas ierīces; nav tādu tehnoloģisku risinājumu, kas būtu pilnībā ložu necaurlaidīgi vai kas garantētu 100 % drošību, un aviācijas drošība ir īpaši sarežģīta joma, kurā mums vajag daudz dažādu apvienotu līdzekļu, kā arī ļoti spēcīgu starptautisko sadarbību.
+<P>
+Tātad pēc šī ziņojuma mēs nāksim klajā ar konkrētiem ierosinājumiem un noteikti ierosināsim kopēju Eiropas pieeju par iespējamiem standartiem un par to, kādas varētu būt prasības, ja dalībvalstis izvēlēsies ieviest vai izmantot jaunās pārbaužu tehnoloģijas.
+<SPEAKER ID="553" NAME="Cecilia Malmström">
+Komisijas locekle. - Priekšsēdētāja kungs, šīs ir patiešām ļoti būtiskas debates. Pretterorisma pasākumi ir svarīgs instruments cīņā pret terorismu. Mums Eiropas Savienībā ir sāpīga pieredze attiecībā uz terorisma ietekmi un draudiem, ko tas rada ne tikai privātpersonām, bet sabiedrībai, demokrātijai un mūsu pamatvērtībām.
+<P>
+Dalībvalstis, protams, ir atbildīgas par rīcību un par informāciju, taču esmu pārliecināta, ka Eiropas līmenī mēs varam paveikt daudz vairāk, lai koordinētu un uzlabotu mūsu rīcībā esošos instrumentus. Tāpēc esmu lūgusi saviem dienestiem ļoti ātri veikt analīzi par politiku, tiesisko ietvaru, mūsu rīcībā jau esošajiem instrumentiem, lai redzētu, ko var uzlabot un kā mēs tos varam izmantot vēl prasmīgāka veidā. Es piekrītu konkrētiem locekļiem, kas to jau teica. Es arīdzan esmu pārliecināta, ka Eiropols, Eurojust un dalībvalstu varas iestādes var strādāt daudz labāk un daudz saskaņotākā veidā. Katrā ziņā tam nepieciešamie līdzekļi ir pieejami.
+<P>
+Tādi notikumi kā Detroitas gadījums ir būtiski, jo tie kalpo kā sava veida modinātājpulkstenis, kas mūs brīdina par to, ka terorisms vēl joprojām pastāv; tas vēl arvien ir ļoti nozīmīgs drauds. Mums, politiķiem, izvirza prasības un uz mums izdara spiedienu rīkoties ātri, ieviest uzlabojumus un nekavējoties aizsargāt pilsoņus. Tas ir pilnīgi normāli. Uz mums gulstas atbildība par drošības aizsardzību, taču arī par rīcību pēc rūpīgas analīzes, novērtēšanas un debatēm, lai mēs ierosinātu piemērotus un samērīgus pasākumus, kā minēja komisārs Siim Kallas un arī Padome. Mēs tā arī darīsim. Mums arīdzan būs vispusīgi jāapsver pamattiesību aspekts.
+<P>
+Tātad tāds ir šīs Komisija darba plāns. Mēs atgriezīsimies ar detalizētākiem ierosinājumiem pēc novērtējuma pabeigšanas un turpināsim pārrunas ar jums. Liels paldies par ļoti būtisko un rosinošo diskusiju.
+<SPEAKER ID="554" NAME="Priekšsēdētājs">
+Debates tiek slēgtas.
+<SPEAKER ID="555" NAME="Inés Ayala Sender" AFFILIATION="S&amp;D">
+(ES) Priekšsēdētāja kungs, pirms mēs beidzam, es vēlētos uzdot jautājumu par procedūrām un izteikt savu pārsteigumu, jo, kad sākās brīvā mikrofona procedūra, es pacēlu roku, domādama, ka tobrīd tā sākas, taču jums jau bija gatavs saraksts. Es tikai vēlētos, lai brīvā mikrofona procedūras kritēriji tiktu standartizēti, lai mums visiem rodas iespēja izteikties, jo šķita, ka runā citi deputāti, lai gan jūs teicāt, ka jūsu saraksts ir pilns.
+<P>
+Tāpēc es tikai vēlējos izteikt savu pārsteigumu un lūgt, lai nākamreiz mēs visi būtu informēti, kas ir jādara, lai varētu izteikties.
+<SPEAKER ID="557" NAME="Elena Oana Antonescu  " LANGUAGE="RO">
+Terorisms vēl joprojām ir augsta līmeņa drauds Eiropas Savienībā. Tāpēc visas dalībvalstis ir pastiprinājušas savus centienus, lai uzlabotu līdzekļus tā novēršanai un apkarošanai. Lisabonas līguma pieņemšana nodrošina iespēju daudz efektīvāk reaģēt ikkatrā jomā, kas ir tieši vai netieši saistīta ar terorisma apkarošanu. Ķermeņa skeneru izmantošana ir jūtīgs jautājums. Es uzskatu, ka pastāv vairāki būtiski faktori, ko nepieciešams rūpīgi aplūkot pirms jebkāda lēmuma pieņemšanas šajā jomā. Tie ietver skeneru iedarbīgumu, tiesību uz privātumu ievērošanu, to izmantošanas finansiālo ietekmi, ņemot vērā to sevišķi augsto iepirkšanas maksu, un svarīgākais - kā šo ierīču pielietošana ietekmē to cilvēku veselību, kurus ar tiem pārbauda. Eiropas Komisijai ir jāveic trīs pētījumi par ķermeņa skeneru izmantošanu un ietekmi. Tādēļ, manuprāt, ir būtiski nogaidīt ekspertu slēdzienus un detalizēti tos analizēt, un tikai tad pieņemt lēmumu par kopēju nostāju šai jautājumā.
+<SPEAKER ID="942" NAME="John Attard-Montalto  " AFFILIATION="S&amp;D">
+rakstiski. - Kad rodas jautājums par pretterorisma pasākumiem, debates vienmēr koncentrējas uz to, kā tiek ietekmētas pilsoņu brīvības. Es vienmēr esmu paudis uzskatu, ka tas ir jautājums par prioritātēm. Tas ir jautājums par to, vai pasažieri ir gatavi upurēt ērtības savas drošības labad. Pilsoņu brīvību grupu pienākums ir novērtēt visus atbalstītos jaunos līdzekļus. Tiem, kas ierosina jaunus līdzekļus, piemēram, ķermeņa skenerus, ir pienākums pierādīt to nepieciešamību. Lai gan risinājumi parasti balstās uz kompromisu, šajā gadījumā kompromisi ir neiespējami. Ir skaidrs, ka tagadējās procedūras, sevišķi fiziskās pārbaudes, nav pietiekamas. Ir noskaidrots, ka ķermeņa skeneri ir efektīvāki. Problēma ir tāda, ka tie var aizskart pasažieru cieņu. Tāpēc tas ir jautājums, ko nepieciešams risināt. Pastāv daudz iespēju.
+<P>
+Piemēram, dažādi ķermeņa skeneri atšķirīgu dzimumu pasažieriem, ar kuriem strādā tā paša dzimuma personāls.
+<SPEAKER ID="558" NAME="Vilija Blinkevičiūt " LANGUAGE="LT">
+Nodrošināt gaisa satiksmes drošību cīņā pret terorismu, bez šaubām, ir būtisks uzdevums, taču mums ir jānoskaidro, kādu iespaidu izstrādātie līdzekļi atstāj uz veselību, pamattiesībām un pamatbrīvībām, privātumu un cieņu. Ķermeņa skeneru izmantošana kā viens no iespējamiem tehniskajiem risinājumiem ir ļoti nopietns jautājums attiecībā uz jauno tehnoloģiju lietošanu pilsoņu drošības garantēšanai, tādēļ es ceru, ka Komisija beidzot sniegs novērtējumu par ķermeņa skeneru ietekmi uz personu veselību, cilvēku pamattiesībām un pamatbrīvībām. Es vēlētos pievērst uzmanību faktam, ka, izmantojot jaunus tehnoloģiskus līdzekļus, kas paredzēti augsta līmeņa drošības garantēšanai lidostās, ir būtiski noteikt robežas starp cilvēktiesībām un drošību, jo minētie līdzekļi nav saistīti tikai ar pilsoņu aizsardzību, bet arī ar ietekmi uz to tiesībām un brīvībām. Komisijai vēl ir jāsniedz ietekmes novērtējuma ziņojums, kas apstiprinātu, ka tieši ķermeņa skeneri nodrošinās iedarbīgu aizsardzību cilvēkiem, kas ceļo ar gaisa transportu, un tāpēc vēl joprojām pastāv šaubas par to, vai šie tehniskās aizsardzības līdzekļi patiešām būs droši, iedarbīgi un nekaitīgi veselībai. Tāpēc, līdz ko būsim novērtējuši esošo situāciju, mums ir jāturpina savs darbs šajā jūtīgajā jomā.
+<SPEAKER ID="559" NAME="Nessa Childers  " AFFILIATION="S&amp;D">
+rakstiski. - Eiropas Parlaments nevar piekrist ķermeņa skeneru ieviešanai, kas principā ir rentgenstaru paveids, pirms Eiropas varas iestādes nav atbilstoši pievērsušās veselības un privātuma jautājumiem, kas saistīti ar šiem skeneriem. Es apzinos, ka to pasažieru vidū, kuri bieži izmanto avio pakalpojumus, pastāv bažas, un es raizējos par citu pasažieru, piemēram, grūtnieču un bērnu, pakļaušanu ķermeņa skeneru pārbaudēm. Pastāv arī būtiskas bažas par attēlu privātumu aizskarošu raksturu, un, pirms mēs piekrītam šo laikietilpīgo un dārgo aparātu plašākai izplatīšanai, mums ir jānodrošina, lai tiktu aizsargāts Eiropas pilsoņu privātums. Ņemot vērā to, ka ASV varas iestādes pieļauj iespējamību, ka Detroitas teroristu uzbrukuma mēģinājums notika viņu drošības dienestu kļūdas dēļ, nevis lidostu tehnoloģiju dēļ, es uzskatu, ka, pirms mēs veicam ieguldījumus šajā pretrunīgajā tehnoloģijā, ir nepieciešams aplūkot dažādas ne tik dārgas metodes, piemēram, uzlabota informācija, citas pārmeklēšanas metodes un uzlabota starptautiskā sadarbība. ASV pamatlicējs Bendžamins Franklins reiz tika teicis, ka "tas, kurš drošību vērtē daudz augstāk par brīvību, nav pelnījis ne vienu, ne otru”, un es uzskatu, ka Eiropa darītu pareizi, ja ņemtu vērā šo konkrēto padomu turpmāko mēnešu laikā.
+<SPEAKER ID="941" NAME="Proinsias De Rossa  " AFFILIATION="S&amp;D">
+rakstiski. - Starptautiskā Žurnālistu federācija, kas ietver 600 000 žurnālistus no 125 valstīm, ir vērsusies pie Izraēlas varas iestādēm ar lūgumu atcelt deportācijas rīkojumu par žurnālistu Jared Malsin, kas tika deportēts par to, ka viņa reportāžas par situāciju Rietumkrastā un Gazā kritizēja Izraēlas valdību. Viņi ir nosodījuši deportāciju kā nepieņemamu preses brīvības aizskaršanu. Turklāt 13 Izraēlas cilvēktiesību organizācijas ir iesniegušas protestus Izraēlas Knesetam un premjerministram Netnanyahu kungam par arvien sistemātiskāko kampaņu pret cilvēktiesību organizācijām Izraēlā. Ir ziņots, ka Izraēla tagad pieprasa, lai Eiropas Savienība pārtrauktu finansiālās palīdzības sniegšanu cilvēktiesību organizācijām, kas darbojas Izraēlā un okupētajās palestīniešu teritorijās. Es vēlos jūs lūgt, Priekšsēdētāja kungs, lai jūs sazinātos ar premjerministru Netanyahu kungu, lai paskaidrotu, ka ES balstās uz runas brīvības tiesību ievērošanu, tiesībām kritizēt savu valdību, brīvu presi un tiesībām uz nevardarbīgu protestu kā būtiskām lietām demokrātiskā valstī. Premjerministram Netanyahu kungam arīdzan ir jāatgādina par to, ka ES tirdzniecības līgumos ir noteikts, ka puses, ar ko sadarbojamies, ievēro minētās tiesības.
+<SPEAKER ID="560" NAME="Christine De Veyrac  " LANGUAGE="FR">
+Gandrīz 10 gadus pēc 11. septembra notikumiem vēl joprojām pastāv terorisma draudi, un lidmašīnas ir viens no teroristu iecienītākajiem instrumentiem, lai uzbruktu mūsu valstīm. Mums ir nepieciešams atrast veidu, kā aizsargāt savus pilsoņus un nodrošināt, lai tie nekļūtu par teroristu uzbrukumu upuriem. Ķermeņa skeneri var būt viens no veidiem, kā stiprināt drošību lidostās un lidmašīnās. Taču pirms lēmuma pieņemšanas mums ir jāpārliecinās, ka šīs ierīces neaizskar personu brīvības un ka tās nav kaitīgas ceļotāju vai lidostas darbinieku veselībai. Ar interesi gaidu pētījumu, ko Eiropas Komisija martā sniegs šajā jautājumā. Risinot dažādos aspektus, kas saistīti ar skeneru lietošanu, šim ziņojumam vajadzētu nodrošināt iespēju sertificēt skenerus visur Eiropā, garantējot pilsonisko brīvību un veselības aizsardzību, vienlaicīgi uzlabojot drošību. Lai visi pilsoņi gūtu labumu no līdzvērtīgas aizsardzības, es ceru, ka pēc tam, kad Eiropas Komisija būs iesniegusi šo pētījumu, mēs mudināsim dalībvalstis vienoties par šo jautājumu.
+<SPEAKER ID="561" NAME="Kinga Gál" AFFILIATION="PPE">
+rakstiski. - (HU) Priekšsēdētāja kungs, dāmas un kungi, drošības pasākumu kopums, ko izmanto starptautiskās lidostās, tiek nepārtraukti paplašināts, tā kā aviācijas drošība - mūsu drošība - saskaras ar arvien lielākām problēmām. Tajā pašā laikā virkne tādu pasākumu elementu, kas jau ir veikti, plānoti vai pārbaudīti, lai uzlabotu aviācijas drošību, pārsniedz strikti aeronautikas vai aviācijas drošības prasības. Tāpēc šos jautājumus vajadzētu izpētīt vispārējā kontekstā. Drošība ir mūsu dzīves galvenais jautājums - tas ir vissvarīgākais jautājums. Taču mēs jūtamies droši, ja drošības pasākumi nesamērīgi neierobežo mūsu tiesības, neaizskar mūsu personiskās tiesības un dažos gadījumos nekaitē mūsu veselībai, un, ja šādi pieņemtie pasākumi, lai nodrošinātu mūsu drošību kopumā, nav nesamērīgi, tos nevar apiet un tiem ir piemērots efektivitātes līmenis. Mums vajag iekārtas, piemēram, ķermeņa skenerus, kas nodrošina iedarbīgu pasažieru kustības novērošanu un kas tiek lietoti, pamatojoties uz brīvprātīgu piekrišanu, ņemot vērā, cita starpā, pasažierus, kam ir dzīvībai svarīgi medicīniski implanti (elektrokardiostimulatori vai metāla implanti), nav kaitīgi veselībai, bērniem, grūtniecēm vai biežiem avio pasažieriem, un, visbeidzot, kas neuzglabā attēlu informāciju un tiek lietoti tikai nolūkā nodrošināt piemērotu brīdinājumu riska gadījumā. Tāpēc jebkādas turpmākas debates par izmēģinājuma skeneru ieviešanu ir noderīgas tikai, ja ir veikts pietiekami detalizēts augstākminēto apstākļu ietekmes novērtējums. Mums ir pieņemama tikai tādu iekārtu lietošana, kas atbilst šim prasību kopumam.
+<SPEAKER ID="562" NAME="Jim Higgins  " AFFILIATION="PPE">
+rakstiski. - Mēs nevaram gaidīt, kamēr notiek vēl kāda katastrofa, pirms rīkoties gaisa pasažieru aizsardzībai. Dublinas lidosta (DA) ir izsludinājusi konkursu par līgumu līdz pat 2 miljonu euro vērtībā par ķermeņa skeneriem šajā lidostā. DA pauda, ka, ja Transporta departaments viņiem dod zaļo gaismu, kas, šķiet, ir visai ticami, un ja aprīkojums būs atzīts par piemērotu, skeneri tiks ieviesti arī Korkas un Šenonas lidostās. Taču datu aizsardzības komisārs ir noraizējies, ka jebkāda rīcība no Īrijas varas iestāžu puses, lai ieviestu skenerus, jāveic pēc pienācīgas apsvēršanas, un tai ir jālīdzsvaro drošības vajadzības ar personu privātuma tiesībām. Mančestras lidosta, kurā notiek viena ķermeņa skenera izmēģināšana, apgalvo, ka melnbaltie attēli nav nedz pornogrāfiski, nedz erotiski, un tos aplūko viens darbinieks attālinātā telpā, un pēc tam tie tiek nekavējoties iznīcināti. Ķermeņa skeneri nav nekļūdīgi, taču tie ir šobrīd vislabākā pieejamā tehnoloģija, tāpēc mums ir nepieciešams izmantot tos līdzekļus, kas ir mūsu rīcībā, lai samazinātu terorisma draudus. Mums ir nepieciešama Eiropas mēroga nostāja par ķermeņa skeneriem - lidostu drošībai ir jābūt vienotai. Es ar nepacietību gaidu Komisijas ziņojuma slēdzienus par ķermeņa skeneru ietekmi.
+<SPEAKER ID="940" NAME="Danuta Jazłowiecka  " LANGUAGE="PL">
+Dāmas un kungi, klausoties šodienas debates, varētu rasties iespaids, ka galvenā problēma, ar ko šobrīd saskaras Eiropas valstis, ir lēmums, vai paplašināt ķermeņa skeneru lietošanu lidostās vai ierobežot to ieviešanas iespējas. Man šķiet, ka tā tomēr nav pareiza šī jautājuma izpratne. No šī viedokļa cilvēktiesību aizsardzības nodrošināšanas problēma arīdzan nav sevišķi būtiska. Pamatjautājums, ko mums vajadzētu uzdot, ir, vai jaunās metodes un rīki, ko ierosina specdienesti, tiks efektīvi izmantoti. Ja mēs ziedojam daļu savas brīvības par labu drošībai, vai tiešām mūsu drošība būs garantēta? Informācija, ko saņemam par šo jautājumu, padara mūs ļoti skeptiskus. Ja atbilstošie dienesti nevar nodrošināt pat efektīvu pasu kontroli un ja tie nevar izmantot savā rīcībā esošo informāciju, kā to lieliski parāda atgadījums reisā uz Detroitu, tad kāda ir garantija tam, ka viņi spēs efektīvi izmantot jaunos rīkus? Vēsture mums māca, ka krīzes situācijās specdienesti vēlas iet pa vieglāko ceļu. Viņi pieprasa jaunas pilnvaras, vairāk naudas un labākus rīkus, lai gan tie nespēj pilnībā izmantot jau esošos resursus. Kādam vajadzētu iestāties par veselo saprātu un veselīgu skepsi, un man šķiet, ka Eiropas Parlamentam šajā sakarā ir būtiska nozīme.
+<SPEAKER ID="563" NAME="Elżbieta Katarzyna Łukacijewska  " LANGUAGE="PL">
+Pēdējo gadu notikumi ir likuši mums meklēt jaunus risinājumus, kas nodrošinās vislabāko iespējamo drošību ceļotājiem. Terorisma draudi ir mums likuši vieglāk piekrist pašu brīvības ierobežošanai. Es ceru, ka pirms tiks izlemts par ķermeņa skeneru vispārēju ieviešanu lidostās, tiks veikta rūpīga analīze par to iedarbīgumu un drošību, kā arī par izmaksām, ko tie radīs. Mēs nevēlamies atkārtot to, kas notika ar plaša mēroga A1/H1N1 gripas vakcīnu ieviešanu, kad valdības panikas vilnī iepirka vakcīnu krājumus par augstu cenu, nesaņemot no ražotājiem garantijas par to drošību, un tagad šie krājumi netiek izmantoti. Iespējams, būtu efektīvāk izmantot izraēliešu izstrādātos risinājumus, kuros uzsvars tiek likts uz pasažieru uzvedības novērošanu un rūpīgu tādu pasažieru pārbaudīšanu, kuri rada lielākās aizdomas, nevis visu pasažieru pārbaudi. Šī sistēma ir pierādījusi savu efektivitāti vairāku gadu laikā.
+<SPEAKER ID="564" NAME="Petru Constantin Luhan  " LANGUAGE="RO">
+Tas ir mūsu kā Parlamenta deputātu pienākums iesaistīties to jautājumu risināšana, kas rodas saistībā ar ķermeņa skeneru tēmu, kā attiecībā uz terorisma apkarošanu, tā uz eiropiešu pilsoniskajām un personīgajām tiesībām.
+<P>
+Es pilnībā piekrītu tam, ka ir nepieciešams rast dzīvotspējīgus risinājumus, lai uzlabotu mūsu pilsoņu drošību. Taču mums ir pienākums nodrošināt mūsu pilsoņu tiesību aizsargāšanu visā Eiropas Savienībā. Tas ietver tiesības uz privātumu un personiskās cieņas pamattiesības, kam jābūt līdzsvarā ar lidostas ierīču drošības koncepciju. Jautājums, kas rodas šajā kontekstā, liek vaicāt, vai šie ķermeņa skeneri ir vispiemērotākie lidostu drošības problēmu risināšanai.
+<P>
+Es domāju, ka Eiropai ir jāatbalsta risinājumu meklēšana terorisma un organizētās noziedzības apkarošanai un tai ir jānoraida privātuma un personiskās cieņas tiesību, kas ir demokrātijas pamatprincips, aizskārums.
+<SPEAKER ID="565" NAME="Ioan Mircea Paşcu  " AFFILIATION="S&amp;D">
+rakstiski. - Katru reizi, kad lidmašīnā iekāpj esošais vai topošais terorists, apmānot mūsu drosmīgo drošības sargu un lielisko ierīču modrību, miljoniem pasažieru iegūst nožēlojamas dzīves perspektīvu nākamajiem gadiem. 11. septembra teroristi bija ārkārtīgi sekmīgi: viņiem izdevās izmainīt mūsu dzīves - uz sliktāko pusi - uz visiem laikiem! Mēs austrumos vēlējāmies atbrīvoties no sava "lielā brāļa”, un apmaiņā pret to mēs ieguvām "rietumu” variantu, daudz izsmalcinātāku, bet nebūt ne mazāk draudīgu. Daudzi "drošības sargi” dažās lidostās rīkojas neatbilstoši; viņi uzskata, ka ir pārāki par likumu, raugoties uz katru pasažieri kā uz aizdomās turamo, atļaujoties aplūkot visus pasažiera bagāžas elementus bez paskaidrojumiem, un, protams, atvainojoties, ja viņu "aizdomas” ir izrādījušās nepamatotas. Un, ja jūs mēģināt protestēt, viņi smejas jums tieši sejā. Jūs piekristu, ka tā ir ļaunprātīga attieksme. Tāpēc ir pēdējais brīdis, lai Komisija izskatītu šo kompāniju rīcību un ieviestu kādas uzvedības normas attiecībā uz godīgo pilsoņu vairākumu. Galu galā mums ir Pamattiesību harta, kas vienādā mērā ir jāievēro ikkatram eiropietim, tostarp tiem, kas ir atbildīgi par drošību mūsu lidostās.
+<SPEAKER ID="566" NAME="Joanna Senyszyn  " LANGUAGE="PL">
+Lai efektīvi apkarotu terorismu, mums ir nepieciešama saskaņota rīcība, tostarp ES noteikumi par skeneriem. Principiem, ko mēs pieņemam, ir jāietver pamattiesību un personu datu, kā arī kā ne mazāk svarīga - pilsoņu veselības - aizsardzība. Ir nepieciešams pieņemt lēmumu par skenēšanas aprīkojuma obligātu izmantojumu. Nav vērts runāt par to visu, ja skeneru lietojums būs brīvprātīgs. Maz ticams, ka teroristi piekritīs pārbaudei ar skeneri. Protams, ļoti būtisks jautājums ir skeneru nekaitīgums veselībai. Viedokļi par to dalās, sākot ar Čehijas Kodoldrošības biroja viedokli, kas apgalvo, ka skenēšanas aprīkojums izstaro radiāciju, kas ir bīstama cilvēka veselībai, līdz Francijas Centrālajam civilās aviācijas direktorātam, kas uzskata, ka aprīkojums ir pilnīgi drošs. Turpmākas pārbaudes ir būtiskas, lai parādītu, kādi skeneri ir nekaitīgi veselībai, kā arī lai noskaidrotu to lietošanas iespējamās blakus parādības. Šo izpēti vajadzētu koordinēt Eiropas Komisijai sadarbībā ar dalībvalstīm. Izmantotajiem skeneriem ir nepieciešami drošības sertifikāti, kas ļautu tos izmantot visās dalībvalstīs. Tādējādi mēs izvairīsimies no katras atsevišķas dalībvalsts izpētes izmaksu dublēšanas, un būsim pārliecināti, ka pilsoņu veselība ir vienlīdzīgi aizsargāta katrā dalībvalstī.
+<SPEAKER ID="567" NAME="Joanna Katarzyna Skrzydlewska  " LANGUAGE="PL">
+Priekšsēdētāja kungs, dažās Eiropas lidostās ir ieviesta jaunā pasažieru pārbaudes metode. Papildus esošajiem drošības pasākumiem ir ieviesti ķermeņa skeneri. Lielākā daļa avio pasažieru neapšaubāmi ir pret to, uztverot šo pārbaudes veidu kā pamattiesību aizskārumu, ieskaitot privātuma tiesību un personiskās cieņas aizsardzības aizskārumu. Turklāt ļoti būtiski, ka šo nepatiku pastiprina neziņa par ietekmi, kādu atstāj skeneri uz to cilvēku veselību, kuri tiek pārbaudīti ar šo ierīci.
+<P>
+Nav skaidru noteikumu par to, kā skenēšanā ievāktie dati uzglabājami un aizsargājami. Ir izteikti argumenti arī par to, ka skeneri ne tuvu nav tik efektīvi, kā to apgalvo ražotāji. Gribētos cerēt, ka to iedarbība neizrādās kas līdzīgs cūku gripas vakcīnai, kas saskaņā ar pēdējiem pētījumiem ir efektīva tikai, lai paaugstinātu ienākumus farmācijas koncerniem. Ņemot vērā visas šīs pamatotās šaubas, es uzskatu, ka Eiropas Komisijai vajadzētu precizēt principus pasažieru tiesību aizsargāšanai, kas vienlaicīgi nodrošinātu viņu drošību.

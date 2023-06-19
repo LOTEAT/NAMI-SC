@@ -1,0 +1,12 @@
+<CHAPTER ID="005-06">
+6. Interoperabilita služieb interaktívnej digitálnej televízie (hlasovanie) 
+<P>
+- Správa: Weber
+<P>
+Pred hlasovaním:
+<SPEAKER ID="090" NAME="Henri Weber  " AFFILIATION="PSE">
+spravodajca. - (FR) Pán predsedajúci, dámy a páni, na základe zbližovania televízie, telekomunikácií a internetu sa televízia stáva interaktívnym médiom a televízni diváci "aktérmi".
+<P>
+Divák teraz môže vyhľadávať obsah, voliť programy a reagovať na vysielanie; to však vyžaduje čoraz väčší počet zariadení. Na zjednodušenie používania týchto zariadení a na zabránenie zbytočným nákladom pre spotrebiteľov je nevyhnutné, aby boli tieto zariadenia schopné vzájomne komunikovať a pracovať spoločne. To sa nazýva "interoperabilita".
+<P>
+Predložená správa sa snaží presadiť interoperabilitu v rámci Európskej únie. Jej cieľom je tiež zabezpečiť dodržiavanie plurality informácií a rozmanitosti obsahu v novej technologickej ére, čo vyžaduje aktívnu, dlhodobú a bdelú politiku verejných orgánov na vnútroštátnej i európskej úrovni.

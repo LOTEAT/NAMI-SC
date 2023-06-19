@@ -1,0 +1,4 @@
+<CHAPTER ID="005-12">
+12. Lokale myndigheder og udviklingssamarbejde (afstemning) 
+<SPEAKER ID="111" NAME="Formanden">
+Afstemningen er afsluttet.

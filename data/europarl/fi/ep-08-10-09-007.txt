@@ -1,0 +1,24 @@
+<CHAPTER ID="007">
+Äänestykset
+<SPEAKER ID="078" NAME="Puhemies">
+(FR) Esityslistalla on seuraavana äänestykset.
+<P>
+(Äänestysten tulokset ja niiden kulkua koskevat yksityiskohdat: ks. pöytäkirja).
+<P>
+
+<SPEAKER ID="079" NAME="Alain Hutchinson" AFFILIATION="PSE">
+(FR) Arvoisa puhemies, pyydän anteeksi, en ole varma minkä työjärjestyksen artiklan perusteella minun olisi puhuttava parlamentille, mutta haluaisin esittää parlamentin johdolle lausuman parlamentissa nykyisin vallitsevasta tilanteesta: parlamentti on muuttumassa jatkuvaksi sirkukseksi, mikä vaikeuttaa rauhallista työskentelyä vakavien kysymysten ratkaisemiseksi.
+<P>
+(Suosionosoituksia)
+<P>
+Eilen illalla tilanne kärjistyi mielestäni sietämättömäksi, ja pyydän johtoa ryhtymään toimiin rauhallisen ja asiallisen ilmapiirin palauttamiseksi parlamenttiin, jonka tulisi olla esimerkkinä koko maailmalle ja vakavasti otettava edustuslaitos eikä mikään sirkus.
+<P>
+(Suosionosoituksia)
+<SPEAKER ID="080" NAME="Puhemies">
+(FR) Otaksun, että tarkoitatte käytävillä olevia erilaisia näyttelyitä. Kuten tiedätte, kvestorit ovat vastuussa tällaisista asioista. Välitämme luonnollisesti kommenttinne eteenpäin.
+<SPEAKER ID="081" NAME="Pervenche Berès" AFFILIATION="PSE">
+(FR) Arvoisa puhemies, minäkin haluan kommentoida työrauhaamme. Eilisen iltapäivän istunnossa kuultiin erittäin liikuttava todistus, mutta esityslistan muuttamisen vuoksi puheenvuoroja rahoituskriisin kaltaisista tärkeistä aiheista siirrettiin yli kahdella tunnilla, mikä sotki täysin puhujien järjestyksen. Näin ei edistetä parlamentin työskentelyn sujuvuutta.
+<SPEAKER ID="082" NAME="Puhemies">
+(FR) Tässä tapauksessa välitän kommenttinne kvestorien sijasta puheenjohtajakokoukselle, sillä se on tällaisista kysymyksistä vastaava elin.
+<P>
+

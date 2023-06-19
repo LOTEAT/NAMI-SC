@@ -1,0 +1,12 @@
+<CHAPTER ID="004">
+Godkendelse af protokollen fra foregående møde
+<SPEAKER ID="010" NAME="Formanden">
+Protokollen fra mødet den 22.maj er omdelt.
+<P>
+Hvis ingen gør indsigelse, betragter jeg den som godkendt.
+<SPEAKER ID="011" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Hr. formand! Jeg vil gerne takke parlamentets medarbejdere for det arrangement, hvor "Energy Globe Awards" blev uddelt. Det var forbilledligt for denne verden og efterlod et vældigt godt indtryk af dette parlament. Tak til alle, der har arbejdet med det!
+<SPEAKER ID="012" NAME="Formanden">
+Det er legitimt at takke for dette. Det var ikke til protokollen, men alligevel.
+<P>
+(Protokollen fra foregående møde godkendtes).

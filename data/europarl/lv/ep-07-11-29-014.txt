@@ -1,0 +1,6 @@
+<CHAPTER ID="014">
+Sesijas pārtraukums
+<SPEAKER ID="289" NAME="Priekšsēdētājs">
+Paziņoju, ka Eiropas Parlamenta sēde ir pārtraukta.
+<P>
+(Sēdi slēdza plkst. 12.20)

@@ -1,0 +1,6 @@
+<CHAPTER ID="006">
+Votare
+<SPEAKER ID="125" NAME="Preşedinte">
+Următorul punct pe ordinea de zi îl reprezintă votarea.
+<P>
+(Pentru rezultate şi alte detalii cu privire la vot: vă rugăm să consultaţi procesul-verbal)

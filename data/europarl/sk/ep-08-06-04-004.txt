@@ -1,0 +1,12 @@
+<CHAPTER ID="004">
+Schválenie zápisnice z predchádzajúceho rokovania
+<SPEAKER ID="010" NAME="Predseda">
+Zápis zo zasadnutia zo štvrtka 22. mája 2008 bol rozdaný.
+<P>
+Sú k nemu pripomienky?
+<SPEAKER ID="011" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Pán predseda, chcel by som poďakovať Parlamentu za organizáciu slávnostného odovzdávania ceny Energy Globe, pretože to bol skvelý príklad pre celý svet a na náš Parlament to urobilo ohromný dojem. Ďakujem všetkým, ktorí sa tejto akcie zúčastnili.
+<SPEAKER ID="012" NAME="Predseda">
+Tieto slová vďaky sú samozrejme vítané, aj keď to nebolo súčasťou zápisnice.
+<P>
+(Zápisnica z predchádzajúceho rokovania bola schválená.)

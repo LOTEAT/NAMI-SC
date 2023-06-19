@@ -1,0 +1,22 @@
+<CHAPTER ID="005-03">
+3. Euroopan lentoturvallisuusvirasto (äänestys) 
+<P>
+- Ennen äänestystä:
+<SPEAKER ID="102" NAME="Jörg Leichtfried " AFFILIATION="PSE">
+esittelijä. - (DE) Arvoisa puhemies, haluan vain sanoa muutaman sanan tarkistuksen 10 käännöksestä. Tarkistus koskee 6 b artiklan 4 kohtaan liittyvää 1 artiklan 5 kohtaa. Näyttää siltä, että täysistuntoäänestystä varten laadittuun lopulliseen mietintöön on päässyt livahtamaan virhe siinä vaiheessa, kun mietinnöstä äänestettiin valiokunnassa. Alkuperäisessä asiakirjassa tarkistus kuuluu seuraavasti - siteeraan kyseistä kohtaa englanniksi:
+<P>
+(EN) "those involved in commercial operations shall hold an attestation as referred to in"
+<P>
+(DE) mutta valiokunnan hyväksymä teksti kuuluu seuraavasti:
+<P>
+(EN) "those involved in commercial operations shall hold an attestation as initially described in"
+<P>
+(DE) ja niin edelleen, ja pyydänkin, että tämä otetaan huomioon.
+<P>
+(Parlamentti hyväksyi pyynnön.)
+<P>
+- Ennen liitteestä II toimitettua äänestystä:
+<SPEAKER ID="108" NAME="Jaromír Kohlíček" AFFILIATION="GUE/NGL">
+(CS) Arvoisa puhemies, liitteessä II olevasta e kohdasta on ilmeisesti puhtaaksikirjoitusvaiheessa jäänyt pois yksi rivi eli 7 alakohta, joka kuuluu seuraavasti: "600 kilogrammaa ultrakevyiden ilma-alusten osalta ei-kaupallisessa lentotoiminnassa".
+<P>
+(Parlamentti hyväksyi suullisen tarkistuksen.)

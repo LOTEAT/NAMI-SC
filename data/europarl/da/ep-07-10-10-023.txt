@@ -1,0 +1,126 @@
+<CHAPTER ID="023">
+Bekæmpelse af cigaretsmugling (forhandling)
+<SPEAKER ID="229" NAME="Formanden">
+Næste punkt på dagsordenen er betænkning af Bart Staes for om virkningerne af aftalen mellem Fællesskabet, medlemsstaterne og Philip Morris om at intensivere bekæmpelsen af svig og cigaretsmugling og fremskridt med hensyn til gennemførelsen af henstillingerne fra Parlamentets Midlertidige Undersøgelsesudvalg om Ordningen for Fællesskabsforsendelse.
+<SPEAKER ID="230" NAME="Bart Staes  " LANGUAGE="NL">
+Hr. formand, hr. kommissær, mine damer og herrer! Betænkningerne fra Udvalget om Budgetkontrol indeholder ofte ret dårlige nyheder - det er trods alt EP's udvalg for bekæmpelse af svig. Der er ofte tale om svagheder, uregelmæssigheder, snyderi - undertiden også svig og bedrageri. Jeg er glad for, mine damer og herrer, at jeg i dag kan rapportere om noget positivt, en succeshistorie, en historie, der viser, hvordan samarbejdet mellem Kommissionen, Europa-Parlamentet og medlemsstaterne kan sikre, at problemer bliver løst.
+<P>
+Hvad er baggrunden? I begyndelsen af 1990'erne fandt man ud af, at svindel, der omfattede cigaretsmugling, var en god forretning. Hundreder af millioner ecu - dengang talte vi stadig om ecu og ikke euro - forsvandt ned i lommerne på kriminelle på bekostning af EU's og medlemsstaternes budget. Tilbage i 1994 oprettede UCLAF - forløberen for OLAF - en cigarettaskforce. I 1996 og 1997 undersøgte et EP-undersøgelsesudvalg - som i øvrigt var det allerførste undersøgelsesudvalg, der blev oprettet under traktaten om EU - alle aspekter af svindel i forbindelse med forsendelser.
+<P>
+Undersøgelsesudvalget fandt, at overvågningssystemet inden for forsendelsessektoren var arkaisk. Lastbiler i transit skulle have et dokument stemplet på det toldkontor, hvor varerne kom ind i Unionen, derefter køre gennem Unionen, og så få det samme dokument stemplet igen på det toldkontor, hvor varerne forlod Unionen. Dokumentet skulle sendes tilbage til importtoldkontoret. Der opstod mange problemer i denne forbindelse. Dokumenterne kom tilbage alt for sent: nogle gange tre eller fire måneder. Der var et problem med forfalskede dokumenter og ligeledes med forfalskede stempler. Derfor var en af de vigtigste anbefalinger fra undersøgelsesudvalget at erstatte hele dette arkaiske system med papirer og stempler med et edb-baseret system.
+<P>
+Dette nye edb-baserede forsendelsessystem (NCTS) blev indført gradvis og er nu operationelt i alle medlemsstater. Det hjælper toldmyndighederne med tidstro at konstatere, om varerne ulovligt har undgået toldinspektion - og det er et kolossalt fremskridt. Dette udelukker naturligvis ikke, at der stadig afgives falske erklæringer, og derfor beder vi Kommissionen oprette et system også til dette, for at undgå falske indberetninger af varer. Vi beder også om, at OLAF får direkte adgang til dette edb-baserede system.
+<P>
+Som sagt koncentrerede undersøgelsesudvalget sig om problemet med cigaretter. Cigaretter blev transporteret tværs over området fra en grænseovergang til en anden, men meget ofte endte disse varer, disse cigaretter, på det sorte marked. Desuden blev disse varer meget ofte smuglet tilbage til Unionen. Dette førte til kolossale problemer, nogle gange endda til vold. I Italien blev to embedsmænd fra toldvæsenet sågar myrdet.
+<P>
+Den overordnede efterforskning viste også, at nogle tobaksvirksomheder var i ledtog med smuglerne, og på grundlag af disse oplysninger anlagde Kommissionen sammen med en række medlemsstater sag mod Philip Morris ved en domstol i New York. Det blev gradvis klart, at Philip Morris ville få særdeles vanskeligt ved at vinde denne retssag, og i 2004 indgik man forlig med virksomheden. Til gengæld for 1,25 milliarder amerikanske dollars fordelt over en 12-årig periode afstod Kommissionen og medlemsstaterne fra at gå videre med retssagen ved domstolen i New York.
+<P>
+Den anden del af aftalen med Philip Morris var måske endnu vigtigere. Den indeholdt bestemmelser om samarbejde mellem Philip Morris og EU om sporing af cigaretter. Hvis toldvæsenerne fandt cigaretlaster, og aftalens bestemmelser ikke var blevet fuldt, skulle Philip Morris erlægge de ubetalte toldafgifter øjeblikkelig - det kan dreje sig om op til 1,5 millioner euro pr. container med cigaretter.
+<P>
+Jeg vil gentage, at dette er en succeshistorie: Den viser, hvordan Parlamentet og Kommissionen kan samarbejde. Jeg har dog et par kritikpunkter. Da de 1,25 milliarder amerikanske dollars blev fordelt mellem Kommissionen og medlemsstaterne, gik kun 9,7 % til Kommissionen og broderparten til medlemsstaterne. Jeg mener ikke, at det er retfærdigt, især ikke, fordi OLAF og Kommissionen udfører størstedelen af arbejdet.
+<P>
+Et andet kritikpunkt er, at i henhold til ånden i aftalen skulle disse penge bruges i kampen mod svig. Kommissionen har gjort sit arbejde. Den har brugt en del af disse penge på Herkules II-programmet. Medlemsstaterne har på den anden side blot ladet pengene indgå i deres statsbudget, selv om de i virkeligheden skulle have brugt dem til at udstyre deres efterforskningstjenester, f.eks. deres toldvæsener, bedre og til at intensivere kampen mod denne type svig.
+<P>
+Jeg vil gentage, hr. formand, dette er virkelig en succeshistorie, som udmærket kan bruges på andre produkter som f.eks. alkohol og visse landbrugsprodukter. Jeg håber ligeledes, at denne betænkning har kastet et positivt lys over det vigtige arbejde, der udføres af hr. Kallas og Kommissionen og ligeledes af Parlamentet i kampen mod svig.
+<SPEAKER ID="231" NAME="Siim Kallas">
+næstformand i Kommissionen. - (EN) Hr. formand! Jeg vil takke hr. Staes for denne initiativbetænkning og Europa-Parlamentet for dets støtte til disse spørgsmål og til at finde løsninger på disse vanskelige spørgsmål.
+<P>
+I mit indlæg vil jeg først tale om systemet for fællesskabsforsendelse, som min kollega Lázló Kovács er ansvarlig for. Europa-Parlamentet glæder sig over den vellykkede indførelse af det nye edb-baserede forsendelsessystem. Det er virkelig en kolossal forandring sammenlignet med den arkaiske, papirbaserede procedure. Det ajourførte system vil være gennemført fuldt ud den 1. juli 2009.
+<P>
+Risikostyring er et moderne kontrolredskab. Kommissionen gennemfører aktivt risikostyringsrammer på toldområdet for at blive bedre til at målrette kontrollerne. Vi er i øjeblikket ved at udforme kriterier, prioritering og it-platformen sammen med medlemsstater. Det nye system vil også give mulighed for en regelmæssig overvågning af effektiviteten af de udførte risikoanalyser. Den planlagte udvikling af forsendelesinformationssystemet til bekæmpelse af svig vil styrke mulighederne for at analysere og imødegå risikoen for svig i forbindelse med forsendelser, først i forbindelse med følsomme varer og senere for alle typer af varer under forsendelse. Dette er betinget af, at medlemsstaterne giver Kommissionen yderligere adgang til NCTS-data for varebevægelser. Men en fastfrysning af yderligere finansiering til NCTS som foreslået i betænkningen vil virke mod hensigten med hensyn til den nødvendige videreudvikling af en mere effektiv forsendelseskontrol.
+<P>
+Et par ord om momssvindel. I sin rapport påpegede Overhuset i Det Forenede Kongeriges mange faktorer bag fænomenet "missing trader fraud". Men vi har ikke beviser for, at svagheder i forsendelsessystemet fører til svindel i form af karruseller. Jeg vil gerne præcisere, at selv om forsendelse ikke var en prioritering ved de traditionelle inspektioner af egne indtægter mellem 2001 og 2006, da forandringerne var i gang, men man ignorerede det heller ikke. Som følge af mange inspektioner krævede man betaling af egne indtægter samt renter. Denne fremgangsmåde er udtryk for en effektiv udnyttelse af Kommissionens inspektionsressourcer og undgår, at man falder tilbage på ex anterevisioner.
+<P>
+Nu vil jeg gerne komme ind på aftalen med Philip Morris International om bekæmpelse af svindel, som hører under mit ansvarsområde. Jeg må takke Parlamentet for dets fortsatte stærke opbakning. Kommissionen har hele vejen igennem erklæret, at den håber, at aftalen kan fungere som model for tilsvarende aftaler med andre selskaber. Med hensyn til de midler, der kommer ud af denne aftale, har det nye Herkules-program i Grækenland modtaget finansiering til bekæmpelse af cigaretsmugling og forfalskede varer, to nytilføjede mål. Vi overvejer, hvorvidt programmet kan bruges til at finansiere oprettelsen af et laboratorium, der kan kontrollere cigaretternes autenticitet.
+<P>
+Men jeg må også sige - og det ved hr. Staes ganske udmærket - at fordelingen af pengene var et sandt mareridt, og det bliver også et mareridt i de næste finansår. Naturligvis er jeg meget glad for støtten og den konstante interesse fra Parlamentets side med hensyn til anvendelsen af disse midler, for jeg er også interesseret i, at pengene anvendes til bekæmpelse af cigaretsmugling og andre former for svindel.
+<P>
+Med hensyn til beslaglæggelsesstatistikkerne underretter de fleste medlemsstater Kommissionen om beløbet hvert kvartal. Men ikke alle medlemsstater angiver, hvilke mærker de har beslaglagt, og derfor findes der ikke nogen fuldstændige data. Desuden skelnes der i meddelelserne om beslaglæggelser fra medlemsstaterne ikke altid mellem ægte og falske cigaretter, dels fordi det ikke er nødvendigt for at kunne retsforfølge lovovertræderne og med henblik på indkrævningen af skatter og afgifter, og dels fordi det undertiden er fantastisk vanskeligt at skelne mellem falske og ægte cigaretter. Vi opfordrer fortsat medlemsstaterne til at levere mere fuldstændige tal.
+<P>
+Endelig er Kommissionen indstillet på at udarbejde en OLAF-beretning om dette emne som foreslået af Parlamentet, men jeg mener, at det vil være mere gavnligt at vente til 2010 med en omfattende gennemgang. Dette skyldes, at der er mange betydningsfulde ændringer på vej inden for toldområdet, og en beretning i 2008 vil kun kunne være en midlertidig beretning, der afspejler situationen på det pågældende tidspunkt.
+<SPEAKER ID="232" NAME="Jean-Pierre Audy">
+for PPE-DE-Gruppen. - (FR) Hr. formand, hr. kommissær, mine damer og herrer! Først vil jeg lykønske ordføreren, Bart Staes, som har evnet at udarbejde en fremragende betænkning om dette vanskelige emne, som skæmmer vores system for fællesskabsforsendelser. Jeg er også meget taknemmelig over for Revisionsretten, som i sin beretning fra december 2006 meget klart understregede problemets omfang.
+<P>
+I den sammenhæng skuffer det mig, at vi sammenblander følgerne af Philip Morris-aftalen, som vi skal huske er en aftale om at droppe retssager og ikke en partnerskabsaftale, med de alvorlige problemer med fællesskabsforsendelserne. Det er baggrunden for det ændringsforslag, jeg fremlagde for PPE-Gruppen, som ønsker at hindre, at der opstår forvirring.
+<P>
+Med hensyn til branchen foreslår jeg, at EU og hele tobaksindustrien sammen finansierer et program om bekæmpelse af cigaretsmugling og -forfalskning.
+<P>
+Men jeg vil koncentrere mine bemærkninger om manglerne ved vores system for fællesforsendelser. Kommissionen fortæller os, at den har styrket det fælles forsendelsessystem med indførelsen af et moderne, solidt computersystem. Men de glemmer, at selv om et edb-system er nødvendig, er det aldrig nok, og i virkeligheden er det systemet selv, der er behæftet med fejl. Det skyldes, at det forvaltes af medlemsstaternes myndigheder, hvilket betyder, som vores ordfører og Revisionsretten med rette har påpeget, at medlemsstaterne anvender de nye regler for fællesskabsforsendelser med alvorlige fejl.
+<P>
+I 1997 nedsatte Parlamentet et undersøgelsesudvalg, som klart slog fast, at EU skal udarbejde rammer for toldtjenesterne, så de kan fungere som en fælles tjeneste. Det er vi stadig meget langt fra at nå.
+<P>
+I 2005 belyste vores kollega Herbert Bösch i sin fremragende betænkning problemernes omfang og nødvendigheden af at bekæmpe svig og fejl. I virkeligheden, mine damer og herrer, opfordres vi med denne betænkning til at tænke meget bredere over kvaliteten af vores toldsystemer, vores finansielle kredsløb og mere generelt beskyttelsen af EU's finansielle interesser.
+<P>
+På dette område, hr. kommissær, har De medlemmernes fulde støtte.
+<SPEAKER ID="233" NAME="Herbert Bösch">
+for PSE-Gruppen. - (DE) Hr. formand! Vi bifalder denne betænkning, som er fremragende. Ordet "initiativbetænkning" er ikke helt korrekt. Det, vi gør her i dag, er at videreføre arbejdet fra Parlamentets første undersøgelsesudvalg - og det skal vi også gøre. Jeg ønsker ikke at klage, men det er en skam, at vi skal gøre det på så sent et tidspunkt. Jeg bemærker med interesse, hvilke grupper der er opført på talerlisten og har bedt om ordet for at tale om dette emne i dag. Det er altid meget lettere at klage over skandaler i EU end at arbejde med specifikke, positive løsninger. Vejen er undertiden lang - vi taler om cigaretter - men det er den rette. Vi gør fremskridt, og det viser Staes-betænkningen meget klart.
+<P>
+Naturligvis skal vi kæmpe med den ufuldstændige europæiske integration på dette område. Forskellige finansministre kan stadig ikke modstå fristelsen til bare at hæve tobaksafgiften lidt, når statskassen begynder at se lidt tom ud, og dermed med urette bliver rost af denne eller hin sundhedspolitiker i processen. Jeg sagde med urette, fordi cigaretrygere simpelthen går over til smuglercigaretter eller i stigende grad til forfalskede cigaretter. Overskuddet fra denne form for svig går direkte til organiseret kriminalitet.
+<P>
+At der virkelig er grund til at fejre vores fremskridt her i aften gør mig endnu mere tilbøjelig til at minde Parlamentet om en episode, som ikke tjener Europa og især ikke Kommissionen til ære. Det er påvist, at ca. 10.000 lastbiler med cigaretter blev smuglet ind i EU via Montenegro på vej mod især Italien i perioden 1992-2000. Det er sandsynligvis det største tab for EU's budget nogensinde. Statsanklageren i Augsburg i Tyskland, har 60 gange anmodet om juridisk bistand i den sammenhæng. I Schweiz er der aflagt tilståelser, der er afsagt domme og alt muligt. Alligevel har EU ikke fremsat et eneste krav om geninddrivelse af egne indtægter over for Republikken Montenegro. Hr. kommissær, jeg vil gerne kunne stå foran vores skatteydere og sige "Vi har også undersøgt denne sag".
+<P>
+Der findes almindelige toldmedarbejdere i Tyskland, Østrig og Centraleuropa, som har gjort et stort arbejde på dette område, men som faktisk ser ud til at være blevet svigtet af Kommissionen. Vi er nødt til at tage os af denne enorme sag, for forældelsesfristen er endnu ikke overskredet. Det er mit ønske i forbindelse med, hvad der i det store og hele er en meget positiv begivenhed under drøftelserne i dag.
+<SPEAKER ID="234" NAME="Ingeborg Gräßle" AFFILIATION="PPE-DE">
+(DE) Hr. formand, hr. kommissær, mine damer og herrer! Parlamentet er meget gladere for at tale om udgifter end indtægter - så derfor er det i dag hr. Staes' store fortjeneste, at vi for en gangs skyld taler lidt om indtægter. Det drejer sig om 17 milliarder euro i moms og egne indtægter og 14 milliarder euro i told - dvs. næsten 30 %. Jeg synes, det er godt, at vi drøfter dette spørgsmål i dag.
+<P>
+Der er kun vindere i denne sag, og også kommissæren fortjener et tillykke. Det glæder os, at det er lykkedes at finde vejen - i samarbejde med medlemsstaterne. Det er vigtigt at sikre fremtiden for OLAF, Det Europæiske Kontor for Bekæmpelse af Svig, så det kan udfylde sin funktion endnu bedre og mere effektivt i EU. Der er grund til at sige tillykke med det, som OLAF hidtil har vist os, og med det, vi nu ser på. Vi er meget stolte over disse succeser, da det naturligvis var disse eksperter, der gjorde det muligt. Det er ikke en utidig konklusion, især i lyset af emnet, at vi kan gøre et reelt fremskridt med sagen om forfalskede tobaksprodukter, eller at også medlemsstaterne er rede til at samarbejde.
+<P>
+Vi vil gerne se dette scenario gentaget med andre sager vedrørende beskyttelse af Unionens finansielle interesser, f.eks. i bekæmpelsen af momssvig. For så ville vi nå frem til de rigtige vindere: de europæiske skatteydere, som har valgt os og har visse forventninger til os.
+<P>
+Jeg mener, at fortsat bekæmpelse af cigaretsmugling er en vigtig opgave, at der findes et presserende behov for at indkalde en ekspert fra OLAF til Beijing, og at vi skal styrke vores tilstedeværelse på dette område i hele verden. Spørgsmål til Kommissionen nu er, hvordan vi lægger øget pres på de andre cigaretproducenter for at få dem til at tilslutte sig aftalen mellem Philip Morris og EU. Jeg mener, at vi skal overveje meget nøje, hvordan vil kan følge op på dette, og hvordan vi fortsat kan arbejde med det, for hvis vi ikke gør det, sætter vi vores troværdighed på spil.
+<SPEAKER ID="235" NAME="Paulo Casaca" AFFILIATION="PSE">
+(PT) Hr. formand! Vores ordfører og også Kommissionen fortjener et stort tillykke. Dette var den største succes, som jeg kan huske, at EU til dato har haft i bekæmpelsen af smugleri og skattesvig.
+<P>
+Budskabet fra vores ordfører, som nu mødes med tilslutning af alle de øvrige talere, er imidlertid, at vi også skal føre denne kamp på andre områder. Det drejer sig i bund og grund om at sikre, at transport af alle former for stoffer gennem hele toldsystemet skal forvaltes korrekt for at beskytte EU's og alle medlemsstaternes finansielle interesser, og ud fra den synsvinkel har vi stadig langt igen. Men frem for alt vil jeg opfordre Kommissionen til at gå ind i sagen med større ildhu.
+<SPEAKER ID="236" NAME="Monica Maria Iacob-Ridzi" AFFILIATION="PPE-DE">
+(RO) Hr. formand! Aftalen mellem Kommissionen og Philip Morris er et meget godt eksempel på et af Fællesskabets finansielle instrumenter, som skal opfylde flere forskellige mål.
+<P>
+For det første begrænses fremstillingsindustriens frie adgang ikke til markedet, mens skatteunddragelser foretaget af de personer, der importerer forfalskede varer, bekæmpes med et program til 1,25 milliarder amerikanske dollars, som helt er finansieret af den europæiske virksomhed.
+<P>
+Alligevel burde langt flere medlemsstater deltage i denne aftale.
+<P>
+Aftalen blev indgået i 2004, og i mellemtiden er Rumænien og Bulgarien, der begge grænser op til tredjelande, blevet medlemsstater.
+<P>
+Efter at der er kommet produkter på markedet, som ikke er godkendt i alle EU's medlemsstater, har EU's budget lidt store tab på punktafgifter og de nationale budgetter i form af manglende overskudsskat.
+<P>
+Det er et faktum, at de, der forsøger at importere forfalskede varer til Fællesskabet, vælger de europæiske havne, som ikke er udstyret med avanceret teknologi såsom scanning og registrering af paller med varer.
+<P>
+Da situationen påvirker EU's skatte- og afgiftsindtægter, synes jeg, det er på sin plads, at moderniseringen af havneanlæggene sker med økonomisk støtte fra EU.
+<P>
+På grund af forfalskede produkter på markedet til lave priser er flere og flere unge begyndt at ryge, hvilket naturligvis med tiden vil koste mange penge for medlemsstaternes socialsikrings- og sundhedssystemer.
+<P>
+Rapporter fra Verdenssundhedsorganisationen viser, at forfalskede cigaretter i de fleste tilfælde indeholder op til 75 % mere tjære, 29 % mere nikotin og 63 % mere kulilte.
+<P>
+Da vi taler om de skadelige følger af rygning, bør vi også, uanset om cigaretterne er lovlige eller ej, også overveje et andet aspekt: Mens EU med den ene hånd styrker politikker til bekæmpelse af rygning giver Unionen med den anden store penge til tobaksafgrøder, hvilket i min mening er i strid med EU's sundhedspolitik.
+<SPEAKER ID="237" NAME="Szabolcs Fazakas" AFFILIATION="PSE">
+(HU) Tak for ordet, hr. formand! Kommissær Kallas, mine damer og herrer, hr. Staes har ret, og jeg vil hermed lykønske ham med hans arbejde, som er grundigt, men alligevel kompromissøgende, og med denne betænkning.
+<P>
+EU og EU-institutionerne - herunder Kommissionen, Revisionsretten, OLAF, Europa-Parlamentet og ikke mindst Budgetkontroludvalget - opfatter med rette aftalen med Philip Morris fra 2004 og dens efterfølgende liv og opfølgning som en succes.
+<P>
+Ved bekæmpelsen af smugleri og svig er det lykkedes os at opnå et rigtig flot resultat, ikke kun for erhvervsdrivende og forbrugere som sidste led i kæden, men også for en stor international producent som det første led. Denne aftale kompenserer ikke blot økonomisk for fortidens tab, men dækker også fremtidens forebyggelse.
+<P>
+Det er lykkedes for os at få Philip Morris til at forstå, at de også har en interesse i at udarbejde en fælles strategi mod smugleri og svig og at sikre de finansielle instrumenter, der er nødvendige for at få den gennemført. Det er særligt positivt og for os, de nye medlemsstater, meget vigtigt, at samarbejdet ikke blot kommer til at dække de 10 medlemsstater i aftalen, men også de nye lande, som i høj grad trues af smugleri og svig, og dermed også at sikre de finansielle og tekniske betingelser for bekæmpelsen af smugleri og svig, om end dog med varierende succes. Tak.
+<SPEAKER ID="238" NAME="Bogusław Liberadzki" AFFILIATION="PSE">
+(PL) Hr. formand, hr. kommissær, jeg accepterer og bifalder hr. Staes' betænkning, som først og fremmest vil betyde den størst mulige begrænsning af kontrabande. Det er denne betænknings stærke side. For det andet indeholder den gode råd til, hvordan vi så effektivt som muligt kan opkræve told.
+<P>
+Jeg kommer fra et land, som har en meget lang grænse mod øst, nemlig Polen, og jeg vil gerne henlede opmærksomheden på de ydre grænser. Herbert Bösch har helt ret i, at det er vigtigt at bruge erfarne toldmedarbejdere. Disse mennesker får faktisk større betydning end udstyr og systemer, og derfor, hr. kommissær, vil jeg indtrængende bede Dem se på disse forslag og henstillinger med dyb alvor og tage dem til Dem. Effektivitet og målrettethed i bekæmpelsen af kontrabande bliver en afgørende faktor for vores Fællesskabs ry.
+<SPEAKER ID="239" NAME="Siim Kallas">
+næstformand i Kommissionen. - (EN) Hr. formand! Tak for Deres konstante støtte til de spørgsmål, der her drøftes. Jeg mener, at det største problem er, at al kompetencen inden for told og moms ligger i hænderne på medlemsstaterne.
+<P>
+Jeg forstår virkelig ikke, hvorfor nogle medlemsstater er så tøvende over for at skabe muligheder for at udnytte de faciliteter, der findes i EU's institutioner. OLAF har f.eks. været ekstremt effektiv i flere sager, i Philip Morris-sagen og i Diabolobekæmpelsen af forfalskede varer, og dette kan ikke lade sig gøre uden samarbejde på europæisk plan og kan kun ske med støtte fra Kommissionens forskellige tjenestegrene.
+<P>
+Men juridisk er det helt og aldeles medlemsstaternes ansvar, og det samme gælder en styrkelse af toldvæsenet ved at stille de nødvendig ressourcer til rådighed. Kommissionen gør alt, den kan, for at fremme dette samarbejde. Uden samarbejde mellem medlemsstaterne er det umuligt at opbygge en effektiv bekæmpelse af cigaretsmugling og især momssvig.
+<P>
+Her har vi fælles interesser, og vi skal hele tiden rejse dette emne for at styrke samarbejdet. Det kan være, at jeg ikke rigtig forstod tolkningen, men Philip Morris-aftalen blev indgået mellem 10 medlemsstater og Kommissionen på den ene side og Philip Morris på den anden, hvilket er ganske enestående. Det var Kommissionen, den juridiske tjeneste og OLAF, der fik denne aftale i hus, og med fru Gräßle fortsætter dette. Så jeg tror, at vi vil have noget at tale om i fremtiden.
+<P>
+Men det vigtigste er virkelig nogle medlemsstaters manglende lyst til at vedtage forslaget om gensidig administrativ bistand, som kan fungere som platform. Vi tilbyder en samarbejdsplatform, og der er stadig nogle medlemsstater, nogle af de store medlemsstater (jeg har selv prøvet at overtale nogle ministre i den største medlemsstat til at være mere åbne over for dette forslag). Af en eller anden grund findes der stadig stor mistænksomhed, men samtidig ved jeg i min egenskab af tidligere finansminister, at det kun er muligt at bekæmpe momssvig i samarbejde med de andre medlemsstater.
+<SPEAKER ID="240" NAME="Formanden">
+Forhandlingen er afsluttet.
+<P>
+Afstemningen finder sted torsdag den 11. oktober 2007.
+<P>
+Skriftlig erklæring (artikel 142)
+<SPEAKER ID="745" NAME="Francesco Musotto  " AFFILIATION="PPE-DE">
+skriftlig. - (IT) Som ordfører for bekæmpelse af svig i EU glæder jeg mig over den vigtige aftale med Philip Morris om bekæmpelse af cigaretsmugling i tolden. Toldsvig er en af hovedårsagerne til ødelæggelse af Fælleskabets finansielle interesser, og svig i forbindelse med cigaretter er en af de mest sårbare sektorer.
+<P>
+OLAF's seneste operationer - såsom Diabolo (135 millioner cigaretter beslaglagt, anslået tab på 220 millioner euro) - har vist, at toldsvig kan og skal bekæmpes. Det er vigtigt at styrke de europæiske myndigheders operationelle kapacitet. Aftalen med Philip Morris kan måske fungere som et eksempel, ikke kun på tobaksområdet, men også på andre områder for bekæmpelse af falskneri. Overskuddet fra den kompensation, som Philip Morris skylder, og som svarer til ca. 1 milliard euro, bør bruges til at tage kampen op mod falskneri i EU.

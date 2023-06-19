@@ -1,0 +1,4 @@
+<CHAPTER ID="019">
+Istunnon päättäminen
+<SPEAKER ID="531" NAME="Puhemies">
+(Istunto päättyi klo 00.10.)

@@ -1,0 +1,16 @@
+<CHAPTER ID="006-31">
+31. Torjunta-aineiden levityskoneet (
+<P>
+Ennen tarkistuksesta 39 toimitettua äänestystä:
+<SPEAKER ID="125" NAME="Leopold Józef Rutowicz" LANGUAGE="PL">
+Heinäkuussa 2006 komissio esitteli strategian, jonka tavoitteena oli vähentää torjunta-aineiden yleistä riskiä ja haittavaikutuksia ihmisten terveydelle ja ympäristölle. Kyseisen strategian viimeinen osatekijä on ehdotus direktiiviksi torjunta-aineiden levityskoneista, jolla muutetaan koneita koskevaa direktiiviä 2006/42/EY. Direktiivissä annetaan vaatimuksia, jotka soveltamisalaan kuuluvien koneiden olisi täytettävä, jotta voidaan rajoittaa torjunta-aineiden haittavaikutuksia ympäristölle, koneen käyttäjälle ja lähiympäristölle. Näillä vaatimuksilla pienennetään asetusten ja joidenkin jäsenvaltioiden noudattamien menettelyjen välisiä eroja torjunta-aineiden käytössä, varmistetaan ympäristönsuojelun yhdenmukainen taso yhteisössä ja mahdollistetaan kyseisten koneiden vapaa liikkuminen EU:n markkinoilla, mikä on erityisen merkittävää pk-yrityksille, jotka useimmiten tuottavat tämäntyyppisiä laitteita.
+<P>
+Ehdotusluonnos ja ehdotetut tarkistukset olivat keskustelun aiheena työpajoissa, kokouksissa neuvoston, komission, varjoesittelijöiden ja sidosryhmien edustajien kanssa sekä kolmikantakeskusteluissa. Koska erityyppisten koneiden tekniset erot ovat suuret - koneet vaihtelevat yksinkertaisista käsikäyttöisistä koulutetun henkilöstön käyttämiin koneisiin - joitakin tarkistuksia ei hyväksytty, ja päätettiin että ne sisällytetään Euroopan standardointikomitean kehittämiin normeihin komission pyynnöstä. Sen ansiosta päästiin yksimielisyyteen, tarkistus 39 hyväksyttiin, ja neuvosto on vahvistanut tämän kannan.
+<P>
+Kiitän erityisesti varjoesittelijöitä, komission ja neuvoston edustajia, sisämarkkina- ja kuluttajansuojavaliokunnan hallintoa sekä sidosryhmiä avusta ja yhteistyöstä. Ehdotan direktiivin hyväksymistä, millä edistetään ympäristön, toimijoiden ja heidän lähiympäristönsä suojelua torjunta-aineita käytettäessä.
+<SPEAKER ID="126" NAME="Charlie McCreevy">
+komission jäsen. - (EN) Arvoisa puhemies, komissio kiittää esittelijää Leopold Józef Rutowiczia työstä ja ponnisteluista ehdotuksen käsittelyssä.
+<P>
+Komissio on tyytyväinen kompromissitarkistukseen 39 ja odottaa ehdotuksen nopeaa hyväksymistä sen suuntaisesti.
+<P>
+Komissio haluaisi antaa seuraavan lausunnon: "Komissio tukee liitteen I 2.4 kohdan sisältämiä keskeisiä vaatimuksia ja antaa Euroopan standardointikomitean tehtäväksi kehittää yhdenmukaiset normit kullekin torjunta-aineiden levityskoneiden luokalle parhaiden käytettävissä olevien tekniikoiden pohjalta ympäristön tahattoman torjunta-aineille altistumisen välttämiseksi. Normeilta vaaditaan erityisesti kriteereitä ja teknisiä erittelyjä, jotka koskevat mekaanisten suojien asennusta, tunnelimenetelmää ja ilma-avusteisia laitteita vesilähteen saastumisen estämiseksi täytön ja tyhjennyksen aikana, sekä täsmällisiä erittelyjä valmistajan ohjeita varten torjunta-aineiden kulkeuman estämiseksi ottaen huomioon kaikki olennaiset parametrit, kuten suuttimen paine, puomin korkeus, tuulen nopeus, ilman lämpötila ja kosteus sekä ajonopeus."

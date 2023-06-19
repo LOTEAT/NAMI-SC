@@ -1,0 +1,6 @@
+<CHAPTER ID="008-13">
+13. Międzynarodowa polityka handlowa w kontekście nadrzędnych potrzeb związanych ze zmianami klimatu (
+<SPEAKER ID="101" NAME="Yannick Jadot" LANGUAGE="FR">
+Panie Przewodniczący! Proponujemy zmianę końcowej części punktu 22 poprzez zastąpienie sformułowania "zakazania agencjom” sformułowaniem "informowania Parlamentu Europejskiego”, by ostatnie zdanie brzmiało:
+<P>
+"przypomina ponadto wniosek Parlamentu Europejskiego przedstawiony Komisji i państwom członkowskim dotyczący informowania Parlamentu Europejskiego o pożyczkach udzielanych przez agencje kredytów eksportowych i Europejski Bank Inwestycyjny na projekty, które mają negatywne skutki dla klimatu”.

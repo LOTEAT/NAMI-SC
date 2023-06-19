@@ -1,0 +1,50 @@
+<CHAPTER ID="025">
+Info- ja kommunikatsioonitehnoloogia aktiveerimine, et hõlbustada üleminekut energiatõhusale ja vähem süsinikdioksiidiheidet tekitavale majandusele (arutelu) 
+<SPEAKER ID="622" NAME="Juhataja">
+Järgmine päevakorrapunkt on Patrizia Toia raport tööstuse, teadusuuringute ja energeetikakomisjoni nimel info- ja kommunikatsioonitehnoloogia aktiveerimise kohta, et hõlbustada üleminekut energiatõhusale ja vähem süsinikdioksiidiheidet tekitavale majandusele -.
+<SPEAKER ID="623" NAME="Patrizia Toia">
+raportöör. - (IT) Austatud juhataja! Head kolleegid! Raport, mida täna õhtul arutame ja mille üle homme hääletame, on osa suuremast jõupingutusest rakendada algatust 20-20-20, mis on minu arvates üks Euroopa Parlamendi eelmisel ametiajal saavutatud ettenägelikemaid ja olulisimaid asju. Kui minult küsitaks, mis ma eelmisest viiest aastast alles jätaks, seaksin loendi etteotsa kindlasti algatuse 20-20-20.
+<P>
+Arvan, et on oluline lisada, et raport nõudis väga intensiivset tööd, nii Euroopa Komisjoni - raportile eelnes teatis ja soovitus - kui ka tööstuse, teadusuuringute ja energeetikakomisjoni ja teiste tööd. Nad rikastasid algset raportit ja meie tööd paljude ettepanekute, lisandite ja parandustega.
+<P>
+Arvan, et parlamendis on ühe punkti osas ikka veel pisike arvamuse erinevus, ja loodan, et homse hääletusega on võimalik see ületada. See puudutab enam-vähem siduvat iseloomu, mida soovime anda raporti sisule, mis - soovin seda välja tuua - pandi kokku suure mõistmise ja suure üksmeele kontekstis.
+<P>
+Side- ja infotehnoloogia esindab olulist sektorit ning tegelikult ei mängi siin mitte väikest rolli tähtsus, mis neil Euroopa majanduses on: nad moodustavad 7% tööjõust - Euroopa tööjõust - ja 6% SKTst, niisiis olulise osa Euroopa majandusest ja ka Euroopa tootlikest jõududest ja tööjõust.
+<P>
+Need on ka väga olulised täpselt mitte ainult sellepärast, mida esindavad, vaid ka panuse pärast, mis need võivad anda, ja olulise, tähtsa rolli pärast, mida need võivad etendada püüdluses saavutada üleminek meie majandusest olukorda, kus majandus, mis on ikka veel arenenud, tekitab vähem heitkoguseid ja on madalama süsinikdioksiidisisaldusega ning seega saastab vähem meie tuleviku ning tulevaste põlvede tulevikus seisukohast. Ühesõnaga need esindavad - mitte sõnade, vaid konkreetsete meetmete kujul - muutusi, mis võivad näidata teed tootmise, elamise, reisimise ja tarbimise viisini meie ühiskonnas ning selle tööstusrevolutsioonini, mis tegelikult iseloomustab ühiskonna ja majanduselu tulevikku mitte ainult meie mandril, vaid terves maailmas.
+<P>
+Kuidas saab teha info- ja sidetehnoloogia selle olulise panuse majanduse ümberkujundamisse? Esiteks sektori enda muutmisega: raport on mõeldud tõestama, kuidas sektor saab eelkõige enda sisse vaadata, et leida, kuidas ta suudaks toota side-, mikroelektroonilisi- ja muid seadmeid, mis tarbiks vähem energiat ja oleksid seega iseenesest tõhusamad.
+<P>
+Järgmisena saavad nad anda tohutu panuse suuremates sektorites, eluaseme- ja transpordisektorites. Viimased kaks - tsiteerin andmeid komisjonilt - on sektorid, kus suurem tõhusus, mis lähtuks Euroopa eeskirjadest ja samuti algatusega 20-20-20 määratud sihtmärkidest, võiks viia väga olulise vähenemiseni nende heitkoguste puhul - kuna praegu tarbib transpordisektor 26% energiast Euroopast ja 40% tarbitakse kodudes kütteks ja toiduvalmistamiseks, olenevalt aastaajast - ning võiks saavutada väga kõrge tõhususe taseme.
+<P>
+Seda kõike, rääkimata sellest, et rakendusala puudutab suuremate sektorite puhul meie elusid väga olulistes valdkondades. Pean silmas tervet pangandussektorit, suhteid avalikus halduses, tervet e-valitsuse sektorit ja kõiki teenuseid, mis kokkuvõtlikult öeldes nende tehnoloogiate rakendamise puhul mitte ainult ei suuda vähendada süsinikdioksiidiheidet, vaid ka säästa aega, mille tagajärjel paraneks eurooplaste elukvaliteet ja ühiskondliku elu kvaliteet.
+<P>
+Seetõttu on see äärmiselt oluline. Arvan aga, et raport kujuneb veelgi olulisemaks, kui parlament homme selle siduva iseloomu kinnitab. Sooviksin pakkuda vaid kaks näidet, austatud juhataja, kui tohin: arukad mõõdikud ja arukas võrk ning arukad linnad. Alles eile sõlmisid 700 Euroopa linnapead siin täiskogul meie presidendi ja voliniku ees uue lepingu, mille eesmärk on just tõhususe täiustamine linnades, mis on koduks enam kui 70% Euroopa kodanikest ja mis suudavad nõnda anda olulise panuse tõhususe tõstmisse ja majandus- ning ühiskondlikku arengusse.
+<SPEAKER ID="626" NAME="Silvia-Adriana Ţicău" AFFILIATION="S&amp;D">
+(RO) Soovin tervitada Euroopa Ülemkogu 2010. aasta 25. ja 26. märtsil peetud kohtumise järeldusi, kus selgelt nähakse esimest korda Euroopa Liidu eesmärgina ette energiatõhususe 20% suurenemist. Energiatõhusust saab parandada hoonetesektoris, kasutades info- ja sidetehnoloogiat ning tõhusaid mõõtesüsteeme, ning transpordisektoris, rakendades Euroopa tasandil intelligentseid transpordisüsteeme. Tegelikult suudavad side- ja infotehnoloogiapõhised süsteemid vähendada energiatarbimist hoonetes kuni 17% ja transpordisektori heitkoguseid kuni 27%.
+<P>
+Arvan, et energiatarbimise 20% vähendamise saavutamiseks 2020. aastakse peaks muutuma elektrivõrgud arukaks, pakkudes paindlikku energiavoogu, samas juhituna ja rajanedes side- ja infotehnoloogia kasutamisel. EL peab tegema ELi majandusele tõuke andmise prioriteediks investeeringute kaudu sidusteenuste, uute tehnoloogiate arendamise ja iseäranis lairibaühenduse arendamise kaudu kõikides liikmesriikides.
+<SPEAKER ID="628" NAME="John Dalli">
+komisjoni liige. - Austatud juhataja! Komisjon tervitab väga teie huvi, toetust ja väärtuslikke soovitusi kommunikatsioonitehnoloogia aktiveerimise kohta, et hõlbustada üleminekut energiatõhusale ja vähem süsinikdioksiidiheidet tekitavale majandusele, ja on Toia raporti hoolikalt läbi lugenud.
+<P>
+Oluline on tunnistada olulist rolli, mida side- ja infotehnoloogia sektor võib etendada kasvuhoonegaaside heitkoguste vähendamisele kaasaaitamisel, ja meil on tarvis tagada, et see potentsiaal kasutataks ära ja tehtaks tegelikkuseks.
+<P>
+Komisjon kavatseb teha küsimusest prioriteedi Euroopa digitaalsest tegevuskavast lähtuvalt, mille Euroopa Komisjon varsti vastu võtab.
+<P>
+Nagu raportis mainite, võib side- ja infotehnoloogia aidata parandada oluliselt energiatõhusust teistes valdkondades, nagu - iseäranis - hooned ja transport. Oleme samuti nõus teiega, et arukad võrgud ja arukate mõõdikute väljaarendamine liikmesriikides on selle potentsiaali teostamise võti. Liikmesriikides on tarvis edendada väljaarendamist, et saavutada rohkem aktiivseid tarbijaid, kes suudaksid ekspluateerida taastuva energia tootmist ja energiatõhusat tehnoloogiat.
+<P>
+Samuti on oluline ühine raamistik side- ja infotehnoloogiatööstuse enda heitkoguste mõõtmiseks. Range mõõtmisraamistik, millele on ulatuslik kokkulepe ja mida ulatuslikult tööstuses kasutusele on võetud, on vältimatu info- ja sidetehnoloogiate tegelike hüvede kvantinfitseerimiseks. Kasutatava side- ja infotehnoloogia kasuliku mõju kaalumisel peab seda arvesse võtma.
+<P>
+Alates selleteemalise soovituse vastuvõtmisest 2009. aasta oktoobris on komisjon rakendanud sidusrühmadega tegevuskava edendamiseks mitmeid meetmeid. Lubage mul mainida mõnda, mis puudutavad teie raportis tõstatatud kaalutlusi.
+<P>
+2010. aasta veebruaris käivitus foorum "Info- ja sidetehnoloogia kasutamine energiatõhususe tõstmiseks”. Foorum ühendab juhtivad ELi, Jaapani ja USA kõrgtehnoloogiatööstuse assotsiatsioonid. Nad seavad sihtmärgid lähtuvalt ühisest raamistikust info- ja sidetehnoloogiasektori oma energia- ja süsinikdioksiidijalajälje mõõtmiseks, mis töötatakse välja 2010. aasta lõpuks.
+<P>
+Foorum vaatab ka panust, mille info- ja sidetehnoloogiasektor võib anda teiste sektorite, nagu ehituse ja transpordi, tõhususe parandamisel. Suuremad Euroopa linnad on allkirjastanud rohelise digitaalse harta. Need linnad võtavad kohustuseks vähendada oma info- ja sidetehnoloogia süsinikdioksiidijalajälgi 2020. aastaks 30% ja rakendada linnade lõikes 2015. aastaks mastaapseid info- ja sidetehnoloogiapiloote. End rohelise digitaalse hartaga sidunud linnade koguarv on tõusnud 14-lt 21-le.
+<P>
+Energiajaeturu küsimused muutuvad üha olulisemaks, kuna turud liiguvad lähemale tarbijaile, uue tehnoloogia ja uute süsteemide kasutuselevõtule arukate mõõdikute ja arukate võrkude kujul. Koostöö komisjoni arukate võrkude rakkerühmaga edeneb samuti. Eesmärk on nõustada komisjoni poliitika, reguleeriva raamistiku teemal ja lisaks ka koordineerida esimesi samme arukate võrkude rakendamiseks kolmanda energiapaketi sätetest lähtuvalt. Soovituste kogumite esitamist eeldatakse 2011. aasta lõpuks.
+<P>
+Kokkuvõtteks lubage mul rõhutada, et komisjon on väga pühendunud, et panustada 2020. aastaks algatuse 20-20-20 sihtmärkide saavutamisse riigipeade ja valitsusjuhtide määratud kujul, ning side- ja infotehnoloogial on selles oluline roll etendada. Tänan teid väärtusliku sisendi eest, mille andis teie raport, ja ootan huviga teiega koostööd, et tagada, et võtame nende sihtmärkide saavutamiseks kasutusele hea poliitika.
+<SPEAKER ID="629" NAME="Juhataja">
+Arutelu on lõppenud.
+<P>
+Hääletus toimub homme.

@@ -1,0 +1,10 @@
+<CHAPTER ID="001">
+Reanudación del período de sesiones
+<SPEAKER ID="004" NAME="Presidente">
+Declaro reanudado el período parcial de sesiones del Parlamento Europeo, interrumpido el 22 de abril de 2010.
+<P>
+El Acta de la sesión de 22 de abril de 2010 se ha distribuido.
+<P>
+¿Hay alguna observación?
+<P>
+(Se aprueba el Acta de la sesión anterior).

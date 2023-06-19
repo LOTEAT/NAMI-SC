@@ -1,0 +1,8 @@
+<CHAPTER ID="001">
+Reinício da sessão
+<SPEAKER ID="999" NAME="Presidente">
+Declaro reaberta a sessão do Parlamento Europeu, que tinha sido interrompida na quinta-feira, 17 de Janeiro de 2008.
+<P>
+A sessão não poderá começar antes das 12H30, uma vez que o Presidente da Comissão não estará disponível antes dessa hora. Por conseguinte, é previsível que termine às 14H00.
+<P>
+(A sessão, suspensa às 12H05, é reiniciada às 12H30)

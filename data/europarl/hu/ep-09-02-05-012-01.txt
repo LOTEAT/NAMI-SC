@@ -1,0 +1,30 @@
+<CHAPTER ID="012-01">
+1. - A helyzet Srí Lankában (szavazás) 
+<P>
+A 2. bekezdésről szóló szavazás előtt:
+<SPEAKER ID="242" NAME="Manuel Medina Ortega">
+szerző. - (ES) Én jelen vagyok ezen az ülésen, de az Európai Parlament szocialista képviselőcsoportjának megállapodása értelmében nem fogok részt venni a szavazásban. Mindazonáltal, jelen vagyok.
+<SPEAKER ID="243" NAME="Charles Tannock">
+szerző. - Elnök asszony, a szóbeli módosítás megszövegezésének változtatását kérem - amennyiben a Ház hozzájárul -, mert sikerült tisztáznunk, mi okozta a félreértést a közös állásfoglalásban.
+<P>
+Az eredeti szövegben "tűzmentes időszak” szerepelt, amely számunkra értelmetlennek tűnt, ezért "ideiglenes fegyverszünetre” változtattuk azt. Mostanra kiderült, hogy az Európai Uniót is magukban foglaló társelnökök nyilatkozatának hivatalos szövege úgy fogalmaz - ami szintén furcsa, de végül is ezt használják írásban -, hogy "ideiglenes tűzszünet”. Megváltoztathatnánk tehát az "tűzmentes időszakot” "ideiglenes tűzszünetre” a "fegyverszünet” helyett, hogy a szöveg tükrözze a társelnökök hivatalos szövegét?
+<SPEAKER ID="244" NAME="Marios Matsakis" AFFILIATION="ALDE">
+Elnök asszony, úgy vélem van még valami, lentebb a szövegben, amiről jó lenne, ha Tannock úr mondana néhány szót, még mielőtt szavaznánk. Még egy apró változtatás.
+<SPEAKER ID="245" NAME="Charles Tannock  " AFFILIATION="PPE-DE">
+szerző. - Elnök asszony, foglaljuk bele a szövegbe, hogy "humanitárius” segély, csak hogy világossá tegyük, milyen segélyről beszélünk.
+<P>
+De ami lényeges, az az "ideiglenes tűzszünet” bejelentése, amely a társelnökök nyilatkozatának szóhasználata.
+<SPEAKER ID="246" NAME="Raül Romeva i Rueda">
+szerző. - (ES) Igen, van még valami, de nem tudom, hogy ez félreértés-e, vagy sem. Elméletileg, a szóbeli módosítás rendelkezésünkre álló változatának szövegében a "fegyverszünet” szerepel, nem "tűzmentes időszak”. Ez így van, vagy félreértek valamit?
+<P>
+A szövegben annak kellene állnia, hogy "fegyverszünet”.
+<SPEAKER ID="247" NAME="Charles Tannock">
+szerző. - Elnök asszony, csak most vettem észre, hogy a módosítások szavazási listán szereplő nyomtatási sorrendje miatt én tulajdonképpen a K preambulumbekezdés szóbeli módosítását olvastam fel. Elnézést kérek a keveredésért, de valójában a 2. bekezdést módosítjuk. Ez megmagyarázza, mi okozta a zűrzavart. Felcserélhetnénk a szavazási lista sorrendjét? Még egyszer elnézést kérek, de az én listámon rossz sorrendben szerepelnek a dolgok. Azt a módosítást olvastam fel, amelyet a K preambulumbekezdéshez szántam, ahelyett, amelyet a 2. bekezdéshez, így erről majd a következőkben fogunk szavazni. Elnézést kérek a félreértésért.
+<P>
+A 2. bekezdés módosítása, amelyről az előbb kellett volna beszélnünk, a következő: "úgy véli, hogy a sri lanka-i kormány által remélt, az LTTE feletti katonai győzelem, nem szünteti meg annak szükségességét, hogy a tartós béke biztosítása érdekében politikai megoldást keressenek.” Ez szerepel a szavazási listán.
+<SPEAKER ID="249" NAME="Marios Matsakis" AFFILIATION="ALDE">
+Elnök asszony, csak hogy pontosak legyünk, szerintem most kellene szavaznunk a K preambulumbekezdésről.
+<SPEAKER ID="251" NAME="Charles Tannock">
+szerző. - Elnök asszony, most megismétlem pontosan, Romeva i Rueda úr kedvéért.
+<P>
+A K preambulumbekezdésnek, amelyet szóban módosítunk, így kell hangoznia: "mivel a tokiói társelnökök közösen hívták fel a Srí Lanka-i kormányt és az LTTE-t, hogy hirdessenek ideiglenes tűzszünetet a betegek és a sérültek evakuálásának lehetővé tétele és a polgári lakosságnak nyújtott humanitárius segélyek biztosítása érdekében”.

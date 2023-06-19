@@ -1,0 +1,12 @@
+<CHAPTER ID="007">
+Szavazások órája
+<SPEAKER ID="068" NAME="Elnök">
+A következő napirendi pont a szavazás.
+<P>
+(A szavazással kapcsolatos eredmények és egyéb részletek: lásd a jegyzőkönyvet.)
+<SPEAKER ID="069" NAME="Véronique De Keyser" AFFILIATION="PSE">
+(FR) Tisztelt elnök asszony! Szeretném felhívni a figyelmét arra, hogy a kártyám nem működik, mivel behelyeztem egy kártyát, amelyről azt hittem, hogy az irodában hagytam, és az jelenik meg, hogy nem érvényes. Itt vagyok, szeretnék szavazni, megvan a kártyám, de nem működik. Nem tudom, mit kellene tennem, de azt szeretném, hogy ez kerüljön be a jegyzőkönyvbe.
+<SPEAKER ID="070" NAME="Elnök">
+Küldünk egy műszaki szakembert, hogy Ön is részt tudjon venni a szavazásban.
+<P>
+Mielőtt elkezdjük a szavazást, szeretnék rámutatni arra, hogy a név szerint szavazás számszerű eredményét nem fogom felolvasni: csak azt mondom majd el, hogy a szavazás eredménye elfogadás vagy elutasítás.

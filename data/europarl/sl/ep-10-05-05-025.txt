@@ -1,0 +1,50 @@
+<CHAPTER ID="025">
+Uporaba informacijskih in komunikacijskih tehnologij za olajšanje prehoda na energetsko učinkovito gospodarstvo z nizkimi emisijami ogljika (razprava) 
+<SPEAKER ID="622" NAME="Predsednik">
+Naslednja točka je poročilo gospe Toia v imenu Odbora za industrijo, raziskave in energetiko o uporabi informacijskih in komunikacijskih tehnologij za olajšanje prehoda na energetsko učinkovito gospodarstvo z nizkimi emisijami ogljika -.
+<SPEAKER ID="623" NAME="Patrizia Toia">
+poročevalka. - (IT) Gospod predsednik, gospe in gospodje, poročilo, o katerem razpravljamo nocoj in o katerem bomo glasovali jutri, je del velikih prizadevanj za izvedbo svežnja 20-20-20, ki je po mojem mnenju še vedno ena izmed najbolj daljnovidnih in pomembnih stvari, ki so bile dosežene v zadnjem parlamentarnem mandatu. Če bi me vprašali, kaj bi ohranila iz zadnjih petih let, bi sveženj 20-20-20 nedvomno postavila na vrh seznama.
+<P>
+Mislim, da je pomembno dodati, da sta to poročilo zelo intenzivno pripravljala tako Evropska komisija - sporočilo in priporočilo pred tem poročilom - kot Odbor za industrijo, raziskave in energetiko, pa tudi drugi. Prvotno poročilo in naše delo sta obogatila s številnimi predlogi, dodatki in spremembami.
+<P>
+Mislim, da je mnenje v Parlamentu nekoliko neenotno glede ene točke in upam, da se bo to lahko rešilo z jutrišnjim glasovanjem. Zadeva bolj ali manj zavezujočo naravo, ki jo želimo pripisati vsebini tega poročila, za katerega bi rada poudarila, da je bil sestavljen v sklopu velikega razumevanja in soglasnosti.
+<P>
+Informacijske in komunikacijske tehnologije (IKT) predstavljajo pomemben sektor, tudi zaradi pomena, ki ga imajo za evropsko gospodarstvo: predstavljajo 7 % delovne sile - evropske delovne sile - in 6 % BDP ter s tem bistven delež evropskega gospodarstva ter tudi evropske produktivne in delovne sile.
+<P>
+Zelo pomembne so tudi ne le zgolj zaradi tega, kar predstavljajo, temveč tudi zaradi svojega možnega prispevka ter ključne, pomembne vloge, ki jo lahko imajo pri prizadevanjih za ta prehod iz našega gospodarstva v razmere, kjer gospodarstvo, sicer še vedno razvito, proizvaja manj emisij in ima manjšo vsebnost ogljika ter bo zato v naši prihodnosti in prihodnosti naslednjih generacij manj onesnaževalo. Na kratko, predstavljajo lahko - ne v besedah, temveč konkretnih dejanjih - spremembe, ki lahko vodijo k načinu proizvajanja, življenja, potovanja in potrošništva v naši družbi in k tisti industrijski revoluciji, ki bo za mnoge dejansko označevala prihodnost našega družbenega in gospodarskega življenja, ne le na naši celini, temveč po celotnem svetu.
+<P>
+Kako lahko IKT zagotovijo ta velik prispevek k preoblikovanju našega gospodarstva? Prvič, s spremembo samega sektorja: namen poročila je prikazati, kako lahko ta sektor predvsem uperi pogled navznoter in ugotovi, kako lahko izdela komunikacijske, mikroelektronske in druge instrumente, ki potrošijo manj energije in so zato sami po sebi bolj učinkoviti.
+<P>
+Zatem lahko ogromno prispevajo v velikih sektorjih, v stanovanjskem in prometnem sektorju. Zadnja dva - citiram podatke Komisije - sta sektorja, kjer lahko v skladu z evropskimi predpisi in cilji, ki jih določa tudi sveženj 20-20-20, večja učinkovitost privede do bistvenega zmanjšanja teh emisij - saj prevozni sektor danes porabi 26 % energije v Evropi, 40 % pa je porabijo gospodinjstva za ogrevanje in hlajenje, odvisno od letnega časa - in se lahko doseže visoko učinkovitost.
+<P>
+Pri tem niti ne omenjam obsega, ki v primeru velikih sektorjev vpliva na naša življenja na zelo pomembnih področjih. V mislih imam celoten bančni sistem, razmerja v javni upravi, celoten sektor e-uprave in vseh storitev, ki bodo, na kratko, z uporabo teh tehnologij lahko ne le zmanjšali svoje emisije ogljika, temveč tudi prihranili čas, posledično pa se bo izboljšala kakovost življenja Evropejcev in kakovost socialnega življenja.
+<P>
+To je torej izjemno pomembno. Toda verjamem, da bo to poročilo še toliko pomembnejše, če Parlament jutri odobri njegovo zavezujočo naravo. Gospod predsednik, če dovolite, bi navedla samo dva primera: pametne števce in pametno omrežje ter pametna mesta. Ravno včeraj je 700 evropskih županov sklenilo nov sporazum v tem parlamentu, pred našim predsednikom in evropskim komisarjem, namenjen natanko izboljšanju učinkovitosti mest, kjer živi več kot 70 % evropskih državljanov, in ki lahko tako bistveno prispeva k povečanju učinkovitosti ter gospodarskemu in socialnemu razvoju.
+<SPEAKER ID="626" NAME="Silvia-Adriana Ţicău" AFFILIATION="S&amp;D">
+(RO) Rada bi pozdravila sklepe z zasedanja Evropskega sveta 25. in 26. marca 2010, kjer je 20-odstotno povečanje energetske učinkovitosti prvič jasno določeno kot cilj Evropske unije. Energetsko učinkovitost je mogoče izboljšati v gradbenem sektorju z uporabo informacijskih in komunikacijskih tehnologij ter učinkovitih merilnih sistemov, v prevoznem sektorju pa z izvajanjem pametnih prevoznih sistemov na evropski ravni. Dejansko lahko sistemi, temelječi na IKT, zmanjšajo porabo energije v stavbah za do 17 % in emisije v prevoznem sektorju za do 27 %:
+<P>
+Mislim, da morajo za 20-odstotno zmanjšanje porabe energije do leta 2020 električna omrežja postati pametna, zagotoviti prožen pretok energije ter jih je treba nadzirati z uporabo IKT in na podlagi teh tehnologij. EU mora spodbujanje evropskega gospodarstva opredeliti kot prednostno nalogo prek naložb v razvoj spletnih storitev, novih tehnologij in zlasti prek razvoja širokopasovnih komunikacij v vseh državah članicah.
+<SPEAKER ID="628" NAME="John Dalli">
+član Komisije. - Gospod predsednik, Komisija toplo pozdravlja vaše zanimanje, podporo in koristna priporočila o uporabi IKT za olajšanje prehoda na energetsko učinkovito gospodarstvo z nizkimi emisijami ogljika in je skrbno prebrala poročilo gospe Toia.
+<P>
+Pomembno je zavedati se znatne vloge, ki jo ima lahko sektor IKT kot akter, ki omogoča zmanjšanje emisij toplogrednih plinov, zato moramo poskrbeti, da se ta potencial sprejme in uresniči.
+<P>
+Komisija namerava to vprašanje določiti kot prednostno nalogo v sklopu evropske digitalne agende, ki jo bo kmalu sprejela.
+<P>
+Kot ste omenili v poročilu, lahko IKT pomagajo bistveno izboljšati energetsko učinkovitost na drugih področjih, na primer v sektorju stavb in prevoza. Strinjamo se tudi z vami, da je ključno za izkoriščanje tega potenciala, da države članice uvedejo pametna omrežja in pametne števce. Uvedbo je treba spodbujati v državah članicah, da postanejo potrošniki aktivnejši ter lahko tako izkoristijo obnovljivo proizvodnjo in energetsko učinkovito tehnologijo.
+<P>
+Nujen je tudi skupen merilni okvir za lastne emisije industrije IKT. Strog merilni okvir, ki bi ga industrija široko odobrila in sprejela, je nujen za količinsko opredelitev pravih koristi informacijskih in komunikacijskih tehnologij. To je treba upoštevati pri razmisleku o koristnem vplivu uporabljene IKT.
+<P>
+Od sprejetja priporočila o tej temi oktobra 2009 je Komisija z zainteresiranimi stranmi izvedla številne ukrepe, da bi dosegla napredek pri agendi. Naj jih omenim nekaj, ki se nanašajo na pomisleke, izražene v vašem poročilu.
+<P>
+Februarja 2010 je bil uveden forum IKT za energetsko učinkovitost. Forum združuje vodilna visokotehnološka industrijska združenja iz EU, Japonske in ZDA. Ta združenja bodo določila cilje na podlagi skupnega merilnega okvira za lastno energijo in ogljikove odtise sektorja IKT, ki bo razvit konec leta 2010.
+<P>
+Forum preučuje tudi prispevek, ki ga lahko ima sektor IKT pri izboljšanju učinkovitosti drugih sektorjev, kot sta sektorja stavb in prevoza. Velika evropska mesta so podpisala Digitalno zeleno listino. Ta mesta so se zavezala, da bodo do leta 2020 zmanjšala ogljikov odtis lastnih IKT za 30 % in do leta 2015 razvila pet obsežnih pilotnih projektov IKT v vsakem mestu. Skupno število mest, ki so se zavezala k Digitalni zeleni listini, se je povečalo s 14 na 21.
+<P>
+Vprašanja glede maloprodajnega energetskega trga postajajo vse pomembnejša, saj se trgi približujejo potrošnikom, uvedbi novih tehnologij in sistemov v obliki pametnih števcev in pametnih omrežij. Napreduje tudi delo z delovno skupino Komisije za pametna omrežja. Cilj je svetovati Komisiji o politiki, regulativnem okviru, kot tudi usklajevati prve korake v smeri izvajanja pametnih omrežij skladno z določbami tretjega energetskega svežnja. Do konca leta 2011 se pričakuje sklop priporočil.
+<P>
+Na koncu naj poudarim, da je Komisija zelo predana temu, da prispeva k doseganju ciljev 20-20-20 do leta 2020, kot so določili voditelji držav in vlad, in IKT bo pri tem igrala pomembno vlogo. Zahvaljujemo se vam za koristen prispevek v obliki vašega poročila in se veselimo sodelovanja z vami, da bi zagotovili sprejetje dobre politike za doseganje teh ciljev.
+<SPEAKER ID="629" NAME="Predsednik">
+Razprava je zaključena.
+<P>
+Glasovanje bo potekalo jutri.

@@ -1,0 +1,4 @@
+<CHAPTER ID="002">
+Istunnon avaaminen
+<P>
+(Istunto avattiin klo 9.00.)

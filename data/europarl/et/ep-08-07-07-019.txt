@@ -1,0 +1,262 @@
+<CHAPTER ID="019">
+Toidu lisaainete, toiduensüümide ning toidu lõhna- ja maitseainete lubade andmise ühtne menetlus - Toidu lisaained - Lõhna- ja maitseomadustega toidu koostisosad - Toiduensüümid (arutelu) 
+<SPEAKER ID="165" NAME="Juhataja">
+Järgmine päevakorrapunkt on ühine arutelu keskkonna-, rahvatervise- ja toiduohutuse komisjoni poolt teisele lugemisele esitatud õigusaktide üle:
+<P>
+toidu lisaainete, toiduensüümide ning toidu lõhna- ja maitseainete lubade andmise ühtse menetluse kohta (16673/2/2007 - C6-0138/2008 - (raportöör: proua Westlund);
+<P>
+toidu lisaainete kohta (16675/2/2007 - C6-0141/2008 - (raportöör: proua Westlund);
+<P>
+toidus kasutatavate lõhna- ja maitseainete ning teatavate lõhna- ja maitseomadustega toidu koostisosade kohta ning millega muudetakse nõukogu määrusi (EMÜ) nr 1576/89 ja (EMÜ) nr 1601/91, määrust (EÜ) nr 2232/96 ja direktiivi 2000/13/EÜ(16677/3/2007 - C6-0139/2008 - (raportöör: proua Drčar Murko);
+<P>
+toiduensüümide kohta ning millega muudetakse nõukogu direktiivi 83/417/EMÜ, nõukogu määrust (EÜ) nr 1493/1999, direktiivi 2000/13/EÜ ja nõukogu direktiivi 2001/112/EÜ (16676/1/2007 - C6-0140/2008 - (raportöör: proua Doyle).
+<SPEAKER ID="166" NAME="Åsa Westlund" LANGUAGE="SV">
+Härra juhataja, soovin alustada komisjoni, volinik Vassiliou' ja tema alati abivalmi personali, eesistujariigi Sloveenia, ministrite nõukogu, minu kaasraportööride Avril Doyle'i ja Mojca Drčar Murko ning loomulikult kõikide fraktsioonide variraportööride tänamisega suurepärase koostöö eest nende aastate jooksul, mil oleme kõnealuse küsimusega tööd teinud.
+<P>
+Mul on hea meel, et oleme nüüd jõudnud kompromissini, mis toob tööstusele kaasa lihtsustamise ja samal ajal tugevdab tarbijakaitset mitmetes valdkondades. Varem ei olnud näiteks allergikuid õigusaktides üldse mainitudki. Nüüd saavad nad mainitud, kui me kiidame täna kompromissi heaks; siis on tulevikus lihtsam arvestada sellega, kuidas lisaained mõjutavad allergikuid.
+<P>
+Samuti olen ma väga uhke selle üle, et meie parlamendist oleme kindlustanud kolm otsustavat muudatust uutesse eeskirjadesse. Esimene neist on seotud nn asovärvainetega. Neid leidub näiteks karastusjookides ja maiustustes, olenemata asjaolust, et teaduslikult on tõestatud, et teatud asovärvaineid muudavad lapsed hüperaktiivseteks. Seepärast oli minu ja parlamendi keskkonna-, rahvatervise- ja toiduohutuse komisjoni jaoks tähtis, et need ained keelustataks. See meil ei õnnestunud, sest liikmesriigid olid väga vastu nii keelustamisele kui ka erimärgistusele. Olenemata sellest vastuseisust saime vähemalt kohustused, et kõnealuseid asovärvaineid sisaldavatele toiduainetele lisatakse selgesõnaline hoiatav tekst.
+<P>
+Teine muudatus on seotud lisaainete keskkonnamõjuga. Näide lisaainete võime kohta mõjutada keskkonda on magusaine sukraloos. On leitud, et sukraloos läbib organismi ning kanalisatsioonisüsteemid seda ei töötle. Kui kompromiss vastu võetakse, on selge, et me peame lisaainete osas otsuse tegemisel võtma arvesse keskkonda.
+<P>
+Kolmas muudatus on seotud nanotehnoloogiaga. Kui juba heaks kiiretud lisaainet muudetakse nanotehnoloogia abil, siis kompromissi kohaselt peab seda lugema uueks lisaaineks ning see peab läbima uue heakskiitmismenetluse.
+<P>
+Lubade andmise ühtset menetlust käsitleva määruse osas soovime me esiteks tervitada asjaolu, et meil saab nüüd selline ühtne menetlus olema. Teiseks oli tähtis tagada, et EFSAle antaks piisavalt aega erinevate ainete hindamiseks.
+<P>
+Roheliste fraktsioon on esitanud muudatusettepaneku keelustada asovärvained, mis seega on vastuolus nõukoguga saavutatud kompromissiga lisaainete kohta. Seda tehes seavad nad ohtu kõik nimetatud parandused, sealhulgas värvainete kohta käiva erihoiatustesti. Mulle oleks keelustamine meeldinud, kui ministrite nõukogus ei saa sellele heakskiitu. Seepärast olen ma valmis hääletama keelustamise vastu, sest vastasel juhul on oht, et jääme ilma nii keelustamisest kui hoiatavast tekstist, mis ei oleks kindlasti mitte laste huvides.
+<P>
+Lõpetuseks nõuan tungivalt, et kõik liikmed siin saalis toetaksid täna kompromissi ja hääletaksid kõikide teiste muudatusettepanekute vastu.
+<SPEAKER ID="167" NAME="Mojca Drčar Murko">
+raportöör. - Härra juhataja, lõhna- ja maitseaineid määratletakse kui toidu lõhna- või maitselisandeid ning need on enamasti segu väga erinevatest aromaatsetest preparaatidest.
+<P>
+Euroopa Parlament nõudis muudatusettepanekuid, mida ta pidas olevat aluseks tasakaalustatud ja jõustatavale määrusele, mis võtaks arvesse teaduse ja tehnoloogia arengut. On teada, et nõukogu ja parlament olid ürtide ja vürtside küsimuses erinevatel seisukohtadel. Parlament uskus, et siiani ei ole veel piisavalt põhjendatud, et valmistatud toidul, mis sisaldab loomulikult teatud ebasoovitavaid koostisosi, on sama toksikoloogiline mõju, kui neid koostisosi katsetatakse isolatsioonis. Ürte ja vürtse on kasutatud niikaua, kui me mäletame ja seda teadaolevate kõrvaltoimeteta.
+<P>
+Raportöörina ei soovinud ma ürtide ja vürtside puhul III lisas sätestatud piirangutest täielikku erandit. Asjakohaste erandite andmist nõuti ainult siis, kui teaduslikud uuringud ei olnud lõpetatud ning seepärast on võimalik, et olukord ei ole piisavalt küps Euroopa tasandil ühtlustamiseks.
+<P>
+Teise lugemise kompromiss koosnes seepärast ürtidele ja vürtsidele antavatest asjakohastest tagatistest, millega nad arvati III lisas sätestatud piirangute alt välja. See aitab säilitada nõukogu kavandatud piiranguid: nelja puhastatud toimeainet 11-st, enam-vähem 30 puhul 40-st toidukategooriast. See on parim, mille me suutsime saavutada ning seepärast palun ma Euroopa Parlamendil hääletada selle poolt.
+<P>
+Olles siiski individuaalne parlamendiliige, on mul siiski muresid, millega ma loodan, et komisjon rakendamise etapis tegeleb. Kompromissi joonealuses märkuses ei kohaldata, kui ürdid ja vürtsid esinevad koos lõhna- ja maitseainetega toidu koostisosades. Selle ettekavatsemata mõju võib olla see, et toiduainete tööstus loobuks ürtide ja vürtside kasutamisest, sest ekstrakte ning lõhna- ja maitseaineid on palju lihtsam standardida. Ürtides ja vürtsides esinevate toimeainete eri osakaalude tõttu peavad toiduainetootjad muutma oma retsepte partiide kaupa ning see oleks väga kulukas. Võib isegi juhtuda, et ürtide ja vürtside tööstus pühitakse Euroopa turult minema.
+<P>
+Seda ei tohi juhtuda, sest Euroopa tarbijad ei taha, et nende õigust valida niimoodi piirataks ning samuti ei soovi nad seda tervishoiukaalutlustel. Paradoksaalselt tarbiks tarbija sel juhul rohkem lõhna- ja maitseaineid, mis vastavalt nn puhastamise hierarhiale on lähemal soovimatu toime põhimõtetele kui ürdid ja vürtsid. Ma oleksin tänulik, kui komisjon võiks veel kord kinnitada mulle, et võimalikke negatiivseid arenguid jälgitakse nõuetekohaselt ning vajadusel need peatatakse.
+<SPEAKER ID="168" NAME="Pilar Ayuso" LANGUAGE="ES">
+Härra juhataja, ma võtan sõna raportöör proua Doyle'i nimel. Vabandan tema nimel, et ta ei saa täna siin viibida, kuna ta on Strasbourgis. Proua Doyle tervitab nõukoguga saavutatud kompromissi nii tähtsa toidukvaliteedi parandamise vahendite paketi osas.
+<P>
+Toiduainetesse lisatakse ensüüme, et teostada erinevaid tehnoloogilisi funktsioone kõnealuste toiduainete tootmisel, töötlemisel, valmistamisel, käitlemisel, pakendamisel, transportimisel või ladustamisel. Enamasti kasutatakse neid küpsetamisel, õlle valmistamisel, juustuvalmistamisel ning alkoholi ja teiste jookide tootmisel. Nende roll toiduainetööstuses on üha suurem ning neid võib kasutada alternatiivina kemikaalidele toiduainete tekstuuri, kaubandusliku välimuse, toiteväärtuse ja maitse parandamisel. Samuti aitavad nad kaasa teatud tootmisprotsessidele.
+<P>
+Kõnealune ettepanek on tegelikult esimene konkreetne toiduaineensüümidele suunatud Euroopa Liidu õigusakt. Ühenduse tasandil puuduvad praegu ühtlustatud eeskirjad ensüümide kasutamise kontrollimise kohta ning see ei tekita mitte ainult kaubandustõkkeid ja õiguskindluse puudumist, vaid takistab ka erinevaid tarbijakaitsestandardeid 27 liikmesriigis. Ainult kolmel liikmesriigil on oma riskihindamismenetlused: Ühendkuningriigil, Prantsusmaal ja Taanil.
+<P>
+Uue, homme hääletusele tuleva õigusakti kohaselt kehtestatakse Euroopa Liidus ühtlustatud eeskirjad toiduainetes kasutatavate ensüümide hindamiseks, heakskiitmiseks ja kontrollimiseks.
+<P>
+Raportöör leiab, et kõik see on väga tähtis, sest parandatakse toiduohutust ning suurendatakse tarbijate valikut ning tarbijatel on rohkem teavet selle kohta, mis on nende söödava toidu sees.
+<P>
+Eelkõige tervitab ta asjaolu, et nõukogu on kokku leppinud, et kahte lubade andmise menetlust geneetiliselt muundatud organismidest toodetud mis tahes ainetele võib teostada samaaegselt, vältides seega kõnealustele toodetele kahekordset lubade andmist.
+<P>
+Samuti on tal väga hea meel, et nõukogu on nõustunud parlamendi sooviga kasutada ühtset õiguslikku alust, nimelt siseturgu käsitlevat EÜ asutamislepingu artiklit 95 kooskõlas tema poolt esimesel lugemisel esitatud muudatusettepanekuga. Tööstuse jaoks on eriti kasulik see, te nõukogu on ette näinud üheaastase üleminekuperioodi alates kavandatud määruse jõustumise kuupäevast ning selle aja jooksul võib selle aasta jooksul turustatud või märgistatud toitu müüa kuni minimaalse kõlblikkusaja või kehtivusaja lõpuni.
+<P>
+Kokkuvõtteks soovib raportöör tänada oma kolleege nende toetuse ja koostöö eest, eelkõige proua Westlundi ja proua Drčar Murkot ning kõikide variraportööre, aga ka eesistujariiki Sloveeniat nende tubli töö eest. Oleme edukalt kooskõlastanud neli õigusakti ettepanekut ning parandame seepärast siseturgu selles valdkonnas, mis aitab kaasa Euroopa innovatsioonile ja konkurentsivõimele, tagades samas kõrge toiduohutuse ja keskkonnakaitse.
+<SPEAKER ID="169" NAME="Androula Vassiliou">
+komisjoni liige. - Härra president, kõigepealt sooviksin ma tänada parlamenti ja eelkõige kolme raportööri - proua Drčar Murkot, proua Doyle'i ja proua Westlundi - nende märkimisväärse panuse eest ja aja eest, mille nad pühendasid sellele tähtsale õigusloomepaketile. Eelkõige hindan ma jõupingutusi hoida ettepanekuid ühtse paketina, saavutades seega tervikliku lähenemisviisi neile sarnastele juhtudele.
+<P>
+Kõnealune õigusloomepakett annab tähtsa panuse komisjoni lihtsustamise programmi. Sellega nähakse ette ühtlustamine vastavates valdkondades ning samuti suurendatakse terviklikkust kolme valdkonna vahel. Lubade andmise ühtse menetlusega kehtestatakse süsteem lisaainete, ensüümide ning lõhna- ja maitseainete hindamiseks ja neile lubade andmiseks järjepideval viisil.
+<P>
+See on äärmiselt tähtis tarbijaohutuse ja toiduainetööstuse konkurentsivõimele. Tootjad saavad eelkõige kasu tsentraliseeritud, läbipaistava ja lühikese aja jooksul toimuva menetluse eelistest.
+<P>
+Toidu lisaainete ettepaneku osas on selliste ainete reguleerimine tähtis, et tagada toiduohutus ja ka see, et tarbijaid ei eksitataks. Need kriteeriumid koos tõenditega toidu lisaainete kasutamise tehnoloogilise vajaduse kohta on tähtsad eeltingimused toiduainete kasutamiseks. Kuigi need põhimõtted on kehtestatud ka praegustes õigusaktides, tervitan ma muudatusi ja täiendavaid selgitusi, mis on kehtestatud nende tähtsate aspektide tugevdamiseks. Tegemist on ka nõudega, õigusakti uuendatakse teaduslikku ja tehnoloogilist arengut silmas pidades.
+<P>
+Seoses sellega võin eelkõige toetada muudatusettepanekut, mis on sisse viidud pärast seda, kui EFSA hindas Southamptoni uuringu tulemusi. Nende kohaselt nõutakse, et märgistatud oleksid teatud toiduvärvidega seostatavad võimalikud kõrvatoimed laste käitumisele. Selline märgistus tagab, et tarbijatele, kes võivad soovida kõnealuseid värve vältida, antakse asjakohast teavet.
+<P>
+Kõnealuse ettepaneku alaste arutelude jooksul on väljendatud ka muret mõne üldiselt asovärvaineteks nimetatava toiduvärvi võimalike allergeensete mõjude suhtes. Konkreetseid menetlusi ja õigusakte kohaldatakse võimalike allergeensete toiduainete suhtes ning seepärast võin väga selgelt öelda, et komisjon palub Euroopa Toiduohutusameti käsitleda konkreetselt asovärvainete võimalikke allergeenilist toimet nende toidu lisaainete taashindamise jooksul. Vajadusel kaalub komisjon selle taashindamise tulemusena asjakohaste meetmete võtmist Euroopa Parlamendi ja nõukogu direktiivi 2000/13/EÜ II lisa A osa muutmiseks, et anda toiduallergia käes kannatavatele tarbijatele asjakohast teavet.
+<P>
+Ensüüme on traditsiooniliselt kasutatud selliste toiduainete tootmises, nagu leib, juust, õlu ja vein. Ensüümid võivad parandada toiduaine tekstuuri, kaubanduslikku välimust ja toiteväärtust ning neid võib kasutada alternatiivina keemial põhinevale tehnoloogiale. Siiani ei ole toiduensüümide alased õigusaktid ELi tasandil täielikult harmoniseeritud ning selle tulemusena on see ühtlustamise puudumine tekitanud kaubandustõkkeid ja takistanud kasvu selles valdkonnas.
+<P>
+Kavandatud määruse menetlemise edukas lõpulejõudmine täidab tühimikud praeguses regulatsioonid, kehtestades ühtlustatud eeskirjad toiduensüümide teaduslikuks hindamiseks, kasutamiseks ja neile lubade andmiseks ühenduses.
+<P>
+Sooviksin tervitada muudatusi, mis tugevdavad ettevaatusprintsiipi ja tarbijate mitteeksitamise kriteeriumit, mis on kavandatud määruse aluspõhimõteteks. Samuti tervitan ma muudatust, millega selgitatakse täiendavalt ensüüme käsitleva määruse ning geneetiliselt muundatud toidu ja sööda alaste õigusaktide vastastikust mõju.
+<P>
+Lõhna- ja maitseainete puhul pakutakse ettepanekuga tarbijatele kõrgetasemelist kaitset, lubades samas tööstusel jätkata uute lõhna- ja maitseainete ja uute kasutusalade arendamist, et vastata tarbijatele üha kasvavale nõudlusele käepärasemate toiduainete järele. Raamistik lubab Euroopa tööstusel säilitada ja konsolideerida oma juhtiv positsioon ülemaailmsel turul.
+<P>
+Lõhna- ja maitseaineid kasutatakse toiduainete lõhna ja/või maitse väljatoomiseks või muutmiseks tarbija jaoks. Lõhna- ja maitseainete kasutamine ei tohiks eksitada tarbijat tema toiduaine laadi või kvaliteedi osas. Lõhna- ja maitseainete märgistamist käsitlevad uued eeskirjad teavitavad tõesti tarbijat paremini ja aitavad vältida tarbijate eksitamist.
+<P>
+Arutelude jooksul esines erimeelsusi vajaduse üle lisada ürdid ja vürtsid määruse reguleerimisalasse. Komisjon tervitab saavutatud kokkulepet, millega parandatakse tarbijakaitset ja võetakse samal ajal arvesse võimalikku mõju tavapärastele kasutusvaldkondadele.
+<P>
+Kuulasin hoolikalt proua Drčar Murko't ning ma soovin talle tagada ja ühtlasi ka kinnitada, et määruse jõustumisest alates jälgib komisjon liikmesriikide esitatud teabe alusel põhjalikult arenguid vürtside ja ürtide ja looduslike lõhna- ja maitseekstraktide vastavas kasutamises. Selle teabe alusel ja võttes arvesse hiljutist teaduslikku arengut toksikoloogilise küsimuse ja tarbijate kokkupuute osas, esitab komisjon vajadusel ettepaneku III lisa B osa muutmiseks.
+<SPEAKER ID="170" NAME="Pilar Ayuso" LANGUAGE="ES">
+Härra juhataja, volinik, räägin nüüd enda nimel ning sooviksin alustada raportööri proua Drčar Murko õnnitlemisega tehtud tubli töö puhul; samuti soovin õnnitleda variraportööre ning samuti eesistujariiki Sloveeniat ja komisjoni, et nad olid valmis läbi rääkima, et saavutada teisel lugemisel selle aruande osas kokkulepe. Samuti sooviksin tänada teiste paketi raportite raportööre proua Westlundi ja proua Doyle'i ning samuti variraportööre nende abi ja koostöö eest ettepanekutes tõstatatud horisontaalsetele probleemidele lahenduste otsimisel.
+<P>
+Lõhna- ja maitseaineid käsitlevas ettepanekus tõstatatud kõige vastuolulisemaks teemaks juba arutelu algusest on olnud bioloogilised toimeained, mis on loomulikul kujul juba ürtides ja vürtsides olemas ja mis kujutasid ürtide ja vürtside tootjatele suurt probleemi, sest nad leidsid, et nad ei suuda ettepanekus sisalduvaid nõudeid järgida, pidades silmas oma toodete erilist laadi: erinevaid saagikoristuskohti, aastaaega, mil nad koristatakse, söömisharjumusi erinevates riikides jne.
+<P>
+Seoses selle aspektiga sooviksin öelda, et Euroopa Rahvapartei (Kristlike Demokraatide) ja Euroopa Demokraatide fraktsiooni eesmärk on algusest peale olnud tarbijakaitse. Seepärast ma arvan, et on positiivne, et nõukogu ja komisjoniga on jõutud kokkuleppele, et maksimaalseid määrasid ei kohaldata teatud ainete suhtes, kui liittoiduaine ei sisalda ühtegi lisatud lõhna- ja maitseainet ning ainsad lõhna- ja maitseomadustega toiduaine lisatud koostisosad on värsked, kuivatatud või külmutatud ürdid ja vürtsid.
+<P>
+Kokkuvõtteks sooviksin tervitada asjaolu, et homme hääletatakse kõnealuste toidu kvaliteedi parandamise vahendite paketi õigusaktide ettepanekute üle, sest lisaks sellele, et need ajakohastavad õigusakte, tehakse võimalikuks ka lõhna- ja maitseainete turustamise riski hindamise, mis pakub Euroopa tarbijatele märkimisväärset kaitset.
+<SPEAKER ID="171" NAME="Edite Estrela" LANGUAGE="PT">
+Härra juhataja, volinik, daamid ja härrad, esiteks ja Euroopa Parlamendi sotsiaaldemokraatide fraktsiooni nimel soovin õnnitleda raportööri tema töö puhul, samuti selle puhul, et ta püüdis leida üksmeelt variraportööridega ja tegi jõupingutusi, et püüda saavutada osapoolte vahel soovitud kokkulepet.
+<P>
+Lõhna- ja maitseaineid käsitleva määruse ettepaneku eesmärk on selgitada ja ajakohastada lõhna- ja maitseainete ning lõhna- ja maitseomadustega toiduainete koostisosade kasutamise eeskirju, võttes arvesse lõhna- ja maitseainete valdkonnas toimunud tehnoloogilist ja teaduslikku arengut, arenguid Euroopa Liidu toiduainete alastes õigusaktides ning samal ajal inimtervise kaitse alaseid nõudeid.
+<P>
+Määruses sätestatakse lõhna- ja maitseainete või lõhna- ja maitseomadustega toiduainete koostisosade kasutamise üldised tingimused, selles sisalduvad lõhna- ja maitseainete selged mõisted, üldised eeskirjad nende kasutamiseks ning inimtervisele ohtlike ainete märgistamise ja maksimaalmäärade eeskirjad. Teise lugemise käigus saavutatud kompromiss on komisjoni, nõukogu ja parlamendi vahelise koostöö tulemus. Toimunud on mitmed kohtumised, läbi on räägitud vastuolulisemate küsimuste osas ning mööndusi on teinud kõik pooled. Sellest olenemata peegeldab kokkulepe erinevate parlamendi esitatud muudatusettepanekute põhimõtteid, mis võtab arvesse kahte peamist eesmärki: tarbijate teavitamine ja nende huvide kaitsmine ning ka rahva tervise kaitse.
+<P>
+Lõhna- ja maitseained ning lõhna- ja maitseomadustega ained peavad olema ohutud ning nende kasutamine ei tohiks tarbijaid eksitada. Seoses sellega sätestatakse uues õigusaktis lõhna- ja maitseainete ning lõhna- ja maitseomadustega toiduainete koostisosades sisalduvate teatud ainete maksimaalmäärad, mis võivad olla inimtervisele mürgised ja ohtlikud, võttes arvesse Euroopa Toiduohutusameti teaduslikke arvamusi. Maksimaalmäärasid ei kohaldata kolme aine suhtes: estragoli, safrooli ja metüüleugenooli suhtes, kui need esinevad liittoitudes, millele ei ole lisatud lõhna- ja maitseaineid, kuid on lisatud ainult lõhna- ja maitseomadustega toiduaine koostisosad ürtide ja/või vürtside kujul. Sellest olenemata vaadatakse see erand läbi, kui ilmnevad teadusliku tõendid selle kohta, et nende tarbimine kujutab endast ohtu tervisele.
+<P>
+Loodusliku mõiste on ikka veel tarbijatele segadust tekitav, kuid uus ettepanek looduslike lõhna- ja maitseainete märgistamise kohta ei vasta paremini tarbijate ootustele, kuna mõiste "looduslik” kasutamine piirdub nende lõhna- ja maitseainetega, mis on saadud looduslikest lõhna- ja maitseühenditest, kus vähemalt 95% lõhna- või maitsekomponendist peab olema saadud osutatud looduslikust allikast.
+<SPEAKER ID="172" NAME="Mojca Drčar Murko">
+fraktsiooni ALDE nimel. - Härra juhataja, lisaainete määruse puhul tervitas minu fraktsioon ettepanekut ajakohastada ja ühtlustada Euroopa õigusakte ning toetas raportööri proua Westlundi tema püüdlustest tagada tarbijate ja nende tervise pidev kaitse, seda eelkõige elanikkonna haavatavate rühmade puhul.
+<P>
+Tõsiasi on, et toiduainete tootjad vastavad kasvavale nõudlusele, arendades pidevalt välja uusi tooteid ning nende mitmekesistamine saavutatakse peamiselt lisaainete lisamisega. Toiduainete alased õigusaktid peaksid olema proportsionaalsed ja tasakaalustatud, kaitstes samas rahvatervist ja tagades toiduainete tootjatele võrdsed võimalused.
+<P>
+See põhimõte on lihtne, kuid ilmselgelt tõlgendatakse seda erinevalt. Kuidas me saame saavutada rahvatervise tõusu samal ajal Euroopa toiduainetetööstuse tehnoloogilist arengut takistama?
+<P>
+Leian, et me leppisime kokku veatutes muudatusettepanekutes - eesmärgiga kaitsta tarbijate huve, eelkõige täpse märgistuse osas -, kuid me tahtsime kaasa aidata ka tarbijate teadlikkuse tõstmisele. Olen veendunud, et teadlikud, tähelepanelikud tarbijad võivad vägagi mõjutada valmistoidu tootmist Euroopa Liidus. Toetasime muudatusettepanekuid, mille eesmärk oli toetada komisjoni ettepanekut, eelkõige kolmes punktis: osalemine lisaainetele lubade andmise menetluses, lubade andmise menetluse läbipaistvus ning lubade andmise eritingimused.
+<SPEAKER ID="173" NAME="Carl Schlyter" LANGUAGE="SV">
+Härra juhataja, meie valijad tahavad head, turvalist toitu, mida nad võivad usaldada. Kas nad saavad selle nende määrustega? Parlamendil on õnnestunud saavutada mõne paranduse heakskiitmine. Minul isiklikult on eriti hea meel selle üle, et eelkõige nanotehnoloogia saab lõpuks reguleeritud ning seda ei saa enam turule nihverdada ilma nõuetekohase kontrollita. Keskkonna lisamine ühe kriteeriumina lisaainete heakskiitmisel on edasiminek. Asjaolu, et asovärvainete olemasolu peab märgistusel näitama, on edasiminek. Seega on, mille üle heameelt tunda. Lisaks on lõhna- ja maitseainete puhul õnnestunud parlamendil tagada, et looduslikult lõhnastatud ja maitsestatud tooted ei ole jäetud täielikult kehva seisu võrreldes kuntslike lõhna- ja maitseainete tööstusega.
+<P>
+Hoolimata sellest olen ma üllatunud, et nõukogu läheb vastuollu oma valijate soovidega. Kuidas saavad meie valitsused olla aktiivselt vastu tekstile, milles öeldakse, et lisaained ei tohi ekslikult suunata tarbijat mõtlema, et toit sisaldab muid koostisosi peale nende, mis seal tegelikult sees on? Kuidas nad saavad sellele aktiivselt vastu olla? Ministrid on aktiivselt vastu arvamusele, et muidu värvusetutes ainetes värvainete kasutamiseks peab olema konkreetne põhjus. Ministrite nõukogu oli aktiivselt vastu asovärvainete keelustamisele. Nad olid aktiivselt vastu nõudele, et toodete märgistus peab näitama, et on lisatud säilitusainetena kasutatud pestitsiidide, et tarbijad oleksid sellest asjaolust teadlikud.
+<P>
+Arvan, et kui me kiidame heaks roheliste ettepaneku keelustada asovärvainete kasutamine lastele mõeldud toodetes, sunnime nõukogu kaitsma oma seisukohta avalikus arutelus. Lõppude lõpuks, nõukogul on lihtne oma seisukoha juurde jääda sellistes küsimustes, kui ta peab meiega läbirääkimisi kinniste uste taga, kuid milline valitsus tõuseb püsti ja kiidab heaks lisaained, mille puhul me teame, et need toovad kaasa laste hüperaktiivsuse ja mille puhul on vägagi alust arvata, et need tekitavad lastel allergiaid? Huvitav, kas komisjon ei saaks kohe keelustamise juurde asuda. Värvained ei ole just tähtsad ja asendamatud lisaained. Pealegi on olemas muid värvaineid peale asovärvainete. Kui me nõuame ettevaatusprintsiibi kohaldamist, niipea kui EFSA on näidanud, et on allergia tekkimise risk ja kõrgendatud allergiarisk, siis peamegi need vaid keelustama. Pärast seda ei pea me enam asovärvainete üle arutlema.
+<SPEAKER ID="174" NAME="Kartika Tamara Liotard" LANGUAGE="NL">
+Sooviksin alustuseks väljendada oma siirast tänu raportööridele ja variraportööridele koostöö eest selles kuratlikus töös. Lõpptulemus ei pruugi olla täiesti selline, nagu ma soovinud oleksin, kuid ma usun, et see kujutab endast parimat, mida neis poliitilistes tingimustes oli võimalik saavutada.
+<P>
+Ma näen seda nii, et kõikides toimikutes on kaks esilekerkivat asja: maksimaalne tarbijakaitse ja täielik läbipaistvus. Mis minusse puutub, siis majanduslikud huvid on nende kahe põhilise idee kõrval teisejärgulised. Maksimaalne tarbijakaitse tähendab ettevaatusprintsiibi süstemaatilist kohaldamist. Kui 100%lilse kindlusega ei ole teada, et mõni asi on kindel, ei tohiks turustamisluba anda. Tarbija eksitamist ostu sooritamise ajal peab samuti iga hinnaga ära hoidma. Maksimaalne läbipaistvus tähendab, et me ei anna alla toiduainete suurtootjate survele hoida oma valemid ja tootmismeetodid saladuses. Tarbijatel on õigus teada täpselt, mis on nende toidu sees, ning toidu tootmistingimusi.
+<P>
+Hinnates nelja raportit nende kahe põhimõtte valguses, pean ma märkima, et kuigi need raportid ei ole alati täiuslikud, on nende puhul näha selget paranemist esialgsete ettepanekutega võrreldes. Need aitavad kaasa tarbijakaitsele ja läbipaistvusele ning seega kavatsen mina kompromisse toetada. Kahju, et me ei suutnud reguleerida ka otseselt GM-märgistust.
+<P>
+Sooviksin kokkuvõtteks lisada veel ühte asja. Arvan, et kõige erakordsem on see, et uutes ettepanekutes näiteks uute toiduainete kohta algatab komisjon ühetaolised menetlused isegi enne, kui sellele on antud parlamendi heakskiit. Kui nüüd leebelt öelda, siis see ei tundu mulle Euroopa demokraatia suure austamisena.
+<SPEAKER ID="175" NAME="Irena Belohorská" AFFILIATION="NI">
+(SK) Sooviksin kõigepealt ära märkida proua Doyle'i tehtud töö ning tänada teda katse eest esitada tasakaalus dokument, mille peamine eesmärk on kaitsta kodanike tervist.
+<P>
+Toiduensüüme sisaldavad paljud iga päev igal ühiskonnatasandil tarbitavad tooted, näiteks saiad ja leivad. Seepärast on väga tähtis jälgida nende tootmist. Samuti on väga tähtis tagada nende ohutus tervisele ja ühtlustada selline kontroll kogu Euroopa Liidus.
+<P>
+On väga tähtis saavutada Euroopa Liidu kodanike usaldus Euroopa direktiivide koostamisse, eelkõige ajal, mil Euroopat on raputanud "halvaks läinud juustu taaskasutamise" skandaal. Et vältida selle olukorra taastekkimist, peame keskenduma mitte ainult direktiivi ettevalmistamisele, vaid ennekõike selle rakendamise jälgimisele erinevates liikmesriikides. Kuna me teame, et kuni 80% toiduensüümidest toodavad neli ettevõtet, siis ma arvan, et tootmise kvaliteedikontroll ei tohiks olla probleem. Tootmismeetodid võivad siiski probleemiks osutuda ning seepärast ma usun, et proua Doyle'i raport on õige tõmbamaks tähelepanu sellele põhiprobleemile.
+<SPEAKER ID="176" NAME="Françoise Grossetête" AFFILIATION="PPE-DE">
+(FR) Härra juhataja, ajal, mil mõnedes ELi liikmesriikides on vallandunud järjekordne toiduskandaal, isegi kui on kaheldamatu pettuse massilise tõttu, pole ime, et tarbijad seavad küsimärgi alla kõike ja väljendavad kahtlusi kõige suhtes, mis võib tunduda "kunstlik". Kaitset pakkuv Euroopa tagab ühtlasi tarbijakaitse ja rahvatervise.
+<P>
+Toidulisanditel, lõhna- ja maitseainetel ja ensüümidel on tähtis roll meie toidu valmistamisel. Seepärast vajame selgesõnalisi, ühtlustatud eeskirju nende ainete ohutuse, neile lubade andmise ja nende müügi kohta, et kaitsta tarbijaid ja ennekõike suurendada avalikkuse usaldust neid aineid kasutades toodetud toidu suhtes. Seepärast on tähtis, et eeskirjad tugineksid usaldusväärsetele teaduslikele hinnangutele.
+<P>
+Peame täitma ka õigusliku tühiku, mis on alati Euroopa tasandil olemas olnud ensüümide puhul, mida kasutatakse näiteks leiva või piimatoodangu valmistamisel. Mul on hea meel näha, et seepärast on kehtestatud täiendavad kaitsemeetmed eesmärgiga tagada läbipaistvus selgesõnalise ja arusaadavama märgistuse abil. See on eriti tähtis, kui väidetakse, et need tooted on "looduslikud".
+<P>
+Õigusaktide eelnõu peamiseks aspektiks on toidu lisaainete, lõhna- ja maitseainete ning ensüümide lubade andmise ühtne menetlus koos ohutushinnanguga, mille teeb Euroopa Toiduohutusamet kõikide nende kohta, mida kindlasti kasutatakse toiduainetetööstuses ühe rohkem.
+<P>
+Loomulikult hoiab parlament silma peal, et teada, kas neid aineid jälgitakse. Mitte mingil juhul ei tohiks toidu lisaained ohustada tarbijate tervist või neid eksitada, sest on äärmiselt tähtis, et me tagame tarbijakaitse ja toiduohutuse, säilitades samal ajal toiduainetetööstuse innovaatilisuse ja konkurentsivõime.
+<SPEAKER ID="177" NAME="Linda McAvan" AFFILIATION="PSE">
+Härra juhataja, sooviksin rääkida volinikuga ühest raportist toidu lisaainete kohta ning eelkõige asovärvainetena tuntud toiduvärvidest. Mul on äärmiselt hea meel, et meil on väga häid uudiseid: praegusest hetkest alates peab nende kohta märgistuse lisama kõikidel toiduainetele. Soovin õnnitleda Åsa Westlundi, kes on selle saavutamise nimel väga kõvasti tööd teinud. Kui ta seda tööd alustas, ei osanud keegi ette näha selliseid edusamme ning ometi oleme me neid saavutanud. Tegemist on suure edasiminekuga status quo'st. Kuid ma arvan, et ei minda piisavalt kaugele.
+<P>
+Te olete kindlasti teadlikud Southamptoni ülikooli eelmise aasta augusti uuringust, mis näitab seost erinevaid maiustusi söönud ja karastusjooke joonud laste käitumise ja asovärvainete vahel. Tegemist on väga tõsise uuringuga; see avaldati ajakirjas The Lancet. Sellele on antud vastikune eksperthinnang ning see on nii tõsine, et Ühendkuningriik on oma standardimisametite kaudu kutsunud üles keelustama nende värvainete kasutamine toiduainetes. Paljud Euroopa ettevõtted on kahe käega poolt ja lõpetavad nende kasutamise vabatahtlikult.
+<P>
+Siseturg on juba selles küsimuses läbi kukkumas. On üsna hästi teada, et kõnealustel toodetel ei ole toiteväärtust ning olemas on looduslikud lõhna- ja maitseained. Nägin ühes meie ajakirjas kedagi küsimas: "Kas me vajame Smarties'e lõppu?” (need on väga kriiskavat värvi maiustused), kuid olemas on väga head looduslikud alternatiivid neile värvainetele. Me ei pea neid värvaineid kasutama.
+<P>
+Tervitame täna juhtunut, kuid loodame, et te jätkate tööd Euroopa Toiduohutusametiga, et kiirendada tööd nende ainete läbivaatamisel. Ma ei usu, et Euroopa inimesed soovivad neid kunstlikke värvaineid ning ma arvan, et me peaksime rohkem tähelepanu pöörama sellele, mida inimesed tahavad oma toidus näha ja mitte sellele, mida ettevõtted sinna lisada soovivad. Loodan, et panete EFSA kiiremini tööle, et leida sellele probleemile lahendus.
+<SPEAKER ID="178" NAME="Marios Matsakis" AFFILIATION="ALDE">
+Härra juhataja, soovin rääkida toiduensüümide ettepanekust, mille variraportöör ma olin. Seoses sellega sooviksin edasi anda oma õnnitlused proua Doyle'ile - ning ma loodan, et ta jõuab täna Iirimaalt siia turvaliselt - suurepärast raporti puhul.
+<P>
+Samuti sooviksin avaldada tänu väga hea koostöö eest variraportööridega; see koostöö toimus alati mõistmise ning nii poliitiliste kui ka asjakohaste teaduslike teadmiste vahetamise tähe all.
+<P>
+See koostöö oli nii hea, et selle tulemusena koostati kauaoodatud kompromiss, millel on selle täiskogu fraktsioonide lai toetus ning mis minu arvates sisaldab paljusid ülimalt tundlikke parameetreid, mis tugevdab kaalutavat õigusakti ning muudab selle tulemuslikumaks ja kergemini kohaldatavaks.
+<P>
+Seda kompromisspaketti silmas pidades leian, et suures osas saavutatakse kavandatud määruse eesmärk, milleks teadaolevalt on ühtlustada ELi toiduainete töötlemises ensüümide kasutamise kontrollimise alaseid õigusakte, kaitstes peamise eesmärgina inimtervist, aga teisena punktina edendades ka õiglast kaubandust ja konkurentsi.
+<P>
+Meil on eriti hea meel selle üle, et raportis on oma koht ka ettevaatusprintsiibil, mida ei pea pühaks mitte ainult minu fraktsiooni parlamendiliikmed, vaid ka üldiselt enamik parlamendiliikmeid, ning see peaks panema Euroopa tarbijad tundma, et palju on ära tehtud tagamaks nende tervise kaitse toiduensüümide osas.
+<P>
+Lisaks on eriline rõhk asetatud selle tagamisele, et tarbijale antud teave oleks täpne ja kasulik.
+<P>
+Nagu arvata oli, on geneetiliselt muundatud organismide kaasamise küsimus tekitanud mõningaid vaidlusi. Jõutud on siiski piisava kompromissini.
+<P>
+Kokkuvõttes soovin öelda, et tegemist on hea raportiga ning minu fraktsioon kavatseb seda vägagi toetada.
+<SPEAKER ID="179" NAME="Kathy Sinnott" AFFILIATION="IND/DEM">
+Härra juhataja, me räägime väga palju laste kaitsmisest. On küllaga tõendeid, mis näitavad, et kunstlikud lõhna- ja maitseained ning lisandid on mitmel juhul kahjulikud laste tervisele. Esiteks võime vaatluse alla võtta selle, et autismiga laste osakaal ning tähelepanupuudulikkuse ja hüperaktiivsuse häire (ADHD) osakaal on tõusnud viimase 15 aasta jooksul 435%, mis mõjutab hetkel 3-5% lastest. Siis võime vaadelda lõhna- ja maitseainetega seotud sümptomeid ning neid on palju, kuid võtkem näiteks maitsetugevdaja MSG, mida leidub nii laste maiustustes, jookides, suupistetes kui lõunasöökides. On 92 sümptomit, kuid nende seas on ka hüperaktiivsus ja tujukõikumised.
+<P>
+Minu kui ema peamine mure toidu puhul on seotud selle ohutuse ja läbipaistvusega. Tunnen, et seame tõsiselt ohtu oma lapsed ja nende võime õppida, kui lubame nende toidulauale värvainete, säilitusainete ja lisaainete laadungi. Lapsed vajavad head värsket toitu, mis oleks kasvatatud võimalikult lähedal ja võimalikult looduslikult. Seepärast hakakem tõesti oma lapsi kaitsma.
+<SPEAKER ID="180" NAME="Anja Weisgerber" AFFILIATION="PPE-DE">
+(DE) Härra juhataja, daamid ja härrad, minu tänud kõikidele raportööridele, eelkõige proua Drčar Murko'le ja proua Ayuso'le, nende konstruktiivse koostöö ja usalduse eest. Toidu kvaliteedi parandamise vahendite pakett toob kaasa ühetaolised, ühtlustatud eeskirjad lisaainete kasutamise kohta, mida hakatakse kohaldama kogu Euroopas. Tulevikus kaitstakse lisaainete, ensüümide ning lõhna- ja maitseainete kasutamisel toidus tarbijate tervist kõrgel tasemel - ja just nii see olema peabki.
+<P>
+Paketiga kohandatakse praeguseid õigusakte vastavalt toidu lisaainete valdkonnas toimunud tehnilisele ja teaduslikule arengule. Kui on teaduslik alus, mis näitab ohtu tervisele, peab sätestama künnised nii, et ennetada igasuguseid ohte.
+<P>
+Me ei tohi siiski muutuda hüsteeriliseks või tekitada alusetut paanikat. On olemas sellised toidu lisaained, nagu Rivieri titaanjuur, niiskusesäilitaja, ning mesilasvaha, paakumisvastane aine, mida on sajandeid kasutatud toitude ja jookide valmistamisel. Lisaks sisaldavad teatud luuviljad, nagu kirsid, virsikud ja aprikoosid looduslikult väikeses koguses vesiniktsüaniidhapet ning ometi oleme neid vilju söönud ilma igasuguste probleemideta tuhandeid aastaid. Samamoodi sisaldavad mõned ürdid ja vürtsid looduslikult aineid, mis suures koguses võivad põhjustada terviseprobleeme. Siiski oleme selliseid ürte ja vürtse, nagu basiilik, estragon ja muskaatpähkel, kasutanud oma toidu valmistamisel kauem, kui mäletada suudame, ja seda ilma igasuguste probleemideta, kuid loomulikult ainult väikestes, ohutustes kogustes.
+<P>
+Seepärast tervitan ma kompromissi uue määruse osas, mis käsitleb lõhna- ja maitseaineid ning teatud lõhna- ja maitseomadustega toiduaine koostisosi toidus ja toidul kasutamiseks. Kui pole põhjust muretsemiseks, tehakse künnise väärtustesse erandeid, kuigi vaid siis, kui toidu valmistamisel kasutatakse ainult värskeid või kuivatatud ürte. Sel moel saame kaasa aidata looduslike toodete ja looduslike koostisosade kasutamisele, et tuhandeid aastaid vanad retseptid, näiteks Itaalia pesto retsept, säiliksid ka tulevikus.
+<SPEAKER ID="181" NAME="Gyula Hegyi" AFFILIATION="PSE">
+(HU) Tervitan asjaolu, et pärast REACHi määrust ja pestitsiide käsitlevat määrust jõuame määruseni, mis käsitleb sageli hukka mõistetud keemilisi aineid ja toidu lisaaineid.
+<P>
+Skandaalide üha kasvav arv on toonud kaasa selle, et Euroopa avalikkus mõtleb nende tarbijate jaoks kahtlaste ainete peale suurema murega kui eales varem. Keskmine inimene tarbib igal aastal umbes 3 kg laias laastus 2600 erinevat E-numbriga toidu lisaainet, ilma et ta teaks, et need on kahjulikud.
+<P>
+Juba on esitatud mõned hästi põhjendatud süüdistused seoses lisaainete märkimisväärsete kogustega. Lisaained tekitavad tarbijates vale mulje ning annavad toidule elavad, säravad värvid, mida looduses ei leidu. Lisaks sellele terviseriskile põhjustavad nad ka psühholoogilist kahju lastele, harjutades neid mitteloodusliku toiduga, samas kui just tagasipöördumine loodusliku toidu juurde on see, mida me peame populariseerima nii noorte kui täiskasvanute hulgas.
+<P>
+Soovin õnnitleda proua Westlundi tema raporti puhul - tal on õnnestunud uue õigusaktiga saavutada see, et inimtervisele ja loodusele kahjulikke lisaaineid ei tohi enam tulevikus kasutada. On tähtis, et ohtlikud ained, nagu lapsepõlves hüperaktiivsust põhjustavad asovärvained, oleksid vähemalt siltidel märgitud, kuigi ma nõustun ka oma kaasliikmetega, et me oleksime pidanud need keelustama.
+<P>
+Mul on siiski kahju sellest, et vaatamata parlamendi soovitusele ei pea otseselt märgistusele kandma geneetiliselt muundatud organisme sisaldavaid lisaaineid. Suur osa Euroopa elanikkonnast ei taha tarbida geneetiliselt muundatud organisme sisaldavat toitu ning vastavalt küsitlustele soovib 90% neist teada, kas teatud toit sisaldab geneetiliselt muundatud organisme või mitte. Me ei saa kõrvale jätta oma kodanike tervet huvi ning sellega seoses õigust teabele.
+<P>
+Muide, mõned minu kolleegid ja mina protestime avalduses selle vastu, et komisjon soovib Euroopasse salaja sisse tuua uusi geneetiliselt muundatud organisme. Me peame kaitsma igaühe õigust looduslikule, tervislikule toidule.
+<SPEAKER ID="182" NAME="Horst Schnellhardt" AFFILIATION="PPE-DE">
+(DE) Härra juhataja, volinik, daamid ja härrad, me oleme tänu võlgu raportöörile proua Westlundile. Ta töötas suure pühendumusega ja väga koostööaltilt. Ma tervitan seda ning see tähendab, et me võime tulemusega rahul olla. Usun, et uue, toidu lisaaineid käsitleva määrusega on saavutatud rahuldav tulemus nii tootjate kui tarbijate jaoks.
+<P>
+Praegused õigusaktid toidu lisaainete kohta on peaaegu 20 aastat vanad. Uue direktiivi ja kahe otsuse muutumisega kaheks määruseks on teksti lihtsustatud ja ajakohastatud kooskõlas uue tehnoloogilise ja teadusliku arenguga. On väga hea tulemus, et meil on positiivne nimekiri, milles sätestatakse selgesõnaliselt ained, mida võib kasutada. Pean seda heaks asjaks ning ma nõustun ka komiteemenetluse kasutamisega uute ainete lisamisel. Me peaksime siin kähku tegutsema.
+<P>
+Olen rahul eeskirjadega GM-toodete kohta. Vajame mõlemat lubade andmise menetlust - see tähendab hindamisi - ning seepärast ma ei mõista, miks me ei võiks siin vastavalt jätkata, nagu mõned liikmed on öelnud. Pidades silmas asovärvaineid - Southamptoni uuringu tulemused on tõesti kättesaadavad -, peame arvesse võtma ka asjaolu, et Euroopa Toiduohutusamet on läbi viinud uuringu, mille tulemusena on avaldatud esialgne hinnang, milles märgitakse selgesõnaliselt, et Southamptoni ülikooli uuring ei ole veatu. See ei ole 100% usaldusväärne. Me ei tohi muutuda hüsteeriliseks ja hakata ründama selle pärast, et loodud on menetlus.
+<P>
+Lubade andmise menetlus toiduohutusameti kaudu on suurepärane, kuid mulle teeb muret see - ja siinkohal ma paluksin komisjonilt ümber mõelda -, et me anname toiduohutusametile üheksa kuud loa andmiseks või riskianalüüsiks. Ka komisjon vajab üheksat kuud riskijuhtimisotsuse tegemiseks. Seepärast peavad ettevõtted ootama 18 kuud enne toote turuleviimiseks loa saamist. See on väga kaugel bürokraatia vähendamisest, seega peaksime tõsiselt mõtlema, kuidas seda saaks teha kiiremini.
+<SPEAKER ID="183" NAME="Czesław Adam Siekierski" AFFILIATION="PPE-DE">
+(PL) Härra juhataja, kunstlike lisaainete (ensüümide, lõhna- ja maitseainete) toiduainetes kasutamise põhimõtteid käsitlevate uute määruste jõustumine mitte ainult ei ühtlusta selle valdkonna õigusakte, vaid toetab ka tarbijakaitset ja lihtsustab toidukaupade müüki Euroopa Liidus. Ensüümide kasutamise lihtsustamist ELis toetab Euroopa toiduainetetööstus, mis ei ole mures mitte ainult põhimõtete ühtlustamise pärast, vaid ennekõike ka selle pärast, et tarbijad ei kaotaks usku nende toodetesse.
+<P>
+Olles ise üks sellistest tarbijatest, tahaksin olla kindel, et minu ostetav toit on ohutu. Toiduainetele lisatud sajad kunstlikud lisaained ja tuhanded lõhna- ja maitseained ei tohi meie tervist kahjustada. Kvaliteedinõuded peavad tagama, et ohutus oleks tagatud täiel määral. On tähtis, et toitudes säiliks nende loomulik olemus võimalikult suurel määral.
+<SPEAKER ID="184" NAME="Zbigniew Krzysztof Kuźmiuk" AFFILIATION="UEN">
+(PL) Härra juhataja, selles arutelus on kolm küsimust, millele ma sooviksin tähelepanu juhtida.
+<P>
+Esiteks peab toetama Euroopa Komisjoni tema jõupingutustes ühendada menetlused toidu lisaainete - ensüümide ning lõhna- ja maitseainete - kasutamise lubade väljastamiseks Euroopa Liidus ning eelkõige suurendada nende menetluste läbipaistvust.
+<P>
+Teiseks peavad lubade väljastamise menetlused olema suunatud otse tarbijate tervise maksimaalsele kaitsele. Tarbija peaks olema veendunud, et nii Euroopa kui riigiinstitutsioonid on valvel, et pakkuda talle maksimaalset tarbijakaitset ning et tänu nende tegutsemisele saab ta tervislikku toitu, mis on võimalikult looduslik ja ohutu.
+<P>
+Kolmandaks ja lõpetuseks peab järgima põhimõtteid, mille kohaselt tarbijat teavitatakse täiel määral toidus sisalduvatest lisaainetest. Teave selle kohta peab olema selgesõnaliselt pakendile märgitud ning koostatud ka keeles, mis on tarbijale selge ja arusaadav.
+<SPEAKER ID="185" NAME="Hiltrud Breyer" AFFILIATION="Verts/ALE">
+(DE) Härra juhataja, sooviksin väga toetada Roheliste / Euroopa Vabaliidu fraktsiooni esitatud ettepanekuid, sest me soovime asovärvainete keelustamist. Euroopa tarbijakaitsepoliitikat iseloomustab ohutus, kuid ka ettevaatusprintsiibi kohaldamine. Keeluta trambitakse ettevaatusprintsiip jalge alla. Lisaks puudub tehniliselt vajadus asovärvainete järele, sest on olemas alternatiivid. Seega on tegemist tarbija petmisega; see paneb inimesi uskuma midagi, mis tegelikult on hoopis teisiti.
+<P>
+Ma soovitan teil taas kord tungivalt seda hoiatavat uuringut tõsiselt ja tõesti kohaldada ettevaatusprintsiipi - mida Euroopa õiguses ikkagi pühaks peetakse. Samuti soovitan ma tungivalt kõrvaldada geenitehnoloogiat kasutades toodetud lisaainete märgistuses valitsev puudujääk - püüame praegu kõrvaldada puudujääki loomset päritolu GM-toodete märgistuses valitsevat puudujääki ning oleks lausa naeruväärne, kui me ei kasutaks seda võimalust.
+<P>
+Vajame hästi kohandatud lubade andmise menetlust, mis võtaks piisavalt määral arvesse ettevaatusprintsiipi, kuid milles puuduksid märgistusalased puudujäägid ning milles tarbijatel oleks võimalik vabalt otsustada, mida nad söövad.
+<SPEAKER ID="186" NAME="Miroslav Mikolášik" AFFILIATION="PPE-DE">
+(SK) Ma hindan väga jõupingutusi, mida raportöör on teinud eesmärgiga saavutada suuremat läbipaistvust toidu lisaainete, lõhna- ja maitseainete ja ensüümide heakskiitmise protsessis ning suurendada tarbijakaitset ja seda eelkõige teatud ainete suhtes allergiliste jaoks.
+<P>
+Toidu lisaaineid peaks pidevalt jälgima ja üle hindama, tuginedes muutuvatele kasutamistingimustele ja uutele teaduslikele andmetele. Paljusid neist toodetakse kemikaalidest ning pikaajalisel kasutamisel võib neil olla tervisele negatiivne mõju. Seepärast on väga tähtis märgistada tooted selgel ja ilmsel viisil. See hõlmab tarbekaupu ning ebapiisava või puuduva märgistusega võivad kaasneda tagajärjed.
+<P>
+Samuti sooviksin rõhutada oma seisukohta, et näiteks geneetiliselt muundatud toiduained peaksid olema selgesõnaliselt ja loetavalt märgistatud, nagu näiteks Kanadas, kus tarbitakse Canola õli või rapsiseemneõli.
+<SPEAKER ID="187" NAME="Androula Vassiliou">
+komisjoni liige. - Härra juhataja, ma tervitan selle ettepanekute paketi edukat lõpuleviimist ning loodan, et parlament toetab homme kompromissettepanekut. Mis veelgi tähtsam, kõnealune pakett tugevdab tarbijakaitset ja toiduohutust. Pean eelkõige silmas mõningaid raskemaid küsimusi, mida on arutatud ning ma hindan soovi saavutada kompromiss. Seoses sellega sooviksin veel kord väljendada oma tänu kolmele raportöörile nende raske töö ning väga hea koostöö eest, mis neil oli komisjoniga, et jõuda selle kompromissettepanekuni.
+<P>
+Eelkõige sooviksin tänada proua Westlundi tema jõupingutuste eest seoses värvainetega. Ta teab väga hästi, et komisjon toetas tema ettepanekuid. Oleme jõudnud kompromissettepanekuni, kuid ma kinnitan teile, et me ei jää loorberitele puhkama. Oleme juba palunud EFSAl üle hinnata kõik nende lubatud lisaained ning kui EFSA arvamus näitab seda, ei kahtle me kohaldada neid lisaaineid käsitlevaid uusi eeskirju.
+<P>
+Sooviksin öelda seda nii üldiselt kui ka sellepärast, et nagu ma ütlesin, hindab EFSA kõik ained üle. Kui mis tahes ajal näitab EFSA seisukoht mis tahes aine puhul, et inimtervisele valitseb mingi oht, ei kõhkle me kasutada oma eesõigust esitada muudatusettepanek.
+<P>
+Esitati küsimus ensüümide ning geneetiliselt muundatud toidu ja sööda määruse kohta. Kui ensüüm eraldatakse geneetiliselt muundatud organismist, mis on hõlmatud määrusega (EÜ) nr 1829/2003 geneetiliselt muundatud toidu ja sööda kohta, siis märgitakse selle päritolu geneetiliselt muundatud organismist märgistusel. Määruse (EÜ) nr 1829/2003 reguleerimisala ei hõlma siiski toitu, sealhulgas ensüüme, mis on toodetud kääritamise teel, kasutades geneetiliselt muundatud mikroorganisme. Kõnealuse ettepaneku eesmärk on saada neile ensüümidele jälile ohutushindamise loa jaoks, mitte aga konkreetse GM-märgistuse jaoks.
+<P>
+Mainiti ka komisjonile riskijuhtimiseks antud üheksakuulist ajavahemikku. Ettepanekus nähakse komisjonile ette üheksa kuud, et esitada alalisele komiteele ettepanek arvamuse kohta. See on maksimaalne kavandatav aeg ning loomulikult esitatakse paljudel juhtudel ettepanekud loetelu ajakohastamiseks lühema aja jooksul. Siiski on juhtumeid, nimelt toidu lisaainete puhul, kui komisjon vajab üheksat kuud liikmesriikide ja kõikide sidusrühmadega erinevates küsimustes konsulteerimiseks. Seda saab saavutada vaid siis, kui sidusrühmadel on vastamiseks piisavalt aega, seega ma arvan, et maksimaalne üheksakuuline ajavahemik ei ole liialdatud.
+<P>
+Sooviksin lõpetuseks tänada teid veel kord koostööd eest ning ootan põnevusega ettepaneku vastuvõtmist homselt istungil.
+<SPEAKER ID="188" NAME="Åsa Westlund" LANGUAGE="SV">
+Härra juhataja, lubage mul veel kord tänada volinik Vassilioud tema abi eest seoses asovärvainetega. Me tõesti väärtustame seda, et tegemist oli ühe esimese küsimusega, millega te pidite ametisse asudes tegelema. See näitas, et te olete valmis oma kohustusteks komisjonis mitte lihtsalt järgida EFSA soovitusi, vaid muuta see meie kohustuseks teostada õigusaktidega seotud kõikide aspektide sõltumatuid hindamisi. Olete tõesti näidanud, et olete vastutuseks valmis.
+<P>
+Ma arvan, et tänaõhtuse arutelu käigus on saanud selgeks, et ka Euroopa Parlament hakkab põhjalikult jälgima EFSA ülevaateid asovärvainete allergilise toime kohta ning jälgib põhjalikult ka komisjoni seisukohta selle hinnangu puhul. Pole vaja öelda, et vaatame ka teisi uuringuid, mis asovärvainete poolt laste käitumisele avalduva toime kohta esitatakse ning seda näiteks selleks, et tulla selle küsimuse juurde hiljem tagasi.
+<P>
+Lõpetuseks sooviksin öelda, et üks asi on koostada õigusakt, kuid seda peab ka kohaldama. Arvan, et paljud tarbijad nõustuvad minuga, et meid petetakse tänapäeval poodides sageli. Sooviksin, et liikmesriigid - ning ma pean seda õigustatud nõudeks - tugevdaksid oma kontrollisüsteemi ning tagaksid koos komisjoniga, et õigusakte, mille üle me homme hääletama hakkame, tõesti ka jälgitakse ja järgitakse, et tarbijad ei läheks koju näiteks paki puuviljajogurtiga, uskudes, et see sisaldab palju puuvilju või marju, et siis pakendit hoolikalt lugedes avastada, et see ei sisalda midagi muud peale värvainete.
+<SPEAKER ID="189" NAME="Jean-Claude Martinez" AFFILIATION="NI">
+(FR) Härra juhataja, toiduainetööstus kasutab 300 toidu lisaainet, 2600 looduslikku või kunstlikku lõhna- ja maitseainet ning lisaks veel traditsioonilisi diastaase või ensüüme ning samuti asovärvaineid. Seepärast peab meie õigusakte ühtlustama. Kui me räägime hane- või pardimaksast, konserveeritud trüflitest või tigudest, siis me saame ilusti aru, miks on tosinaid õigusakte pluss neli määrust lubade andmise ühtseks menetluseks koos toodete loeteluga.
+<P>
+Jah, kõnealused lisaained suurendavad vahepeal tõsiste allergiate ohtu, kuid võib-olla on ettevaatusprintsiibiga mindud natuke kaugele. Härra juhataja, 2008. aastal, mil valitseb ülemaailmne toidukriis, kui Itaalia müüb dioksiini sisaldavat mozzarellat, mis on 10 miljonit eurot väärt tootmisharu, on mul raske uskuda, et 15 miljonit Euroopa töötut peaksid olema eriti mures ensüümide ning lõhna- ja maitseainete pärast, kuigi Euroopa Liidule on omane muretseda lõpmatult väikeste asjade üle lõpmatult suures maailmas.
+<SPEAKER ID="190" NAME="Mojca Drčar Murko" AFFILIATION="ALDE">
+Härra juhataja, lisaks täna juba öeldule sooviksin veel kord kinnitada, et lõhna- ja maitseainetel on märkimisväärne turuväärtus. Ühtlustades riiklikke eeskirju eesmärgiga tagada valmistatud toidu mikrobioloogiline ohutus, peavad Euroopa seadusandjad olema teadlikud valdkonna tundlikkusest ja püüdma vältida turumoonutusi. Loodan, et nii see läheb, ning tänan volinik Vassilioud tema tänase avalduse eest.
+<P>
+Oleme teinud nõukogu ja komisjoniga ära suure töö, lahendades vaieldavad valdkonnad, välistades võimalikult palju mitmetähenduslikud kohad ja jõudes teise lugemise kokkuleppele.
+<P>
+Lisaks toiduohutusele ja siseturu tugevdamisele peab arvesse võtma ka teisi tarbijate huve. Tähtsal kohal nende hulgas oli soov, et toit oleks võimalikuld looduslik. See ei ole tingimata nii, et kõik lõhna- ja maitseained on toksikoloogilisest vaatenurgast ohutud ja samal ajal tarbijatele kasulikud. Parlament soovis rõhutada eelkõige tarbijate õigust valida.
+<P>
+Lõhna- ja maitseainete heakskiitmise menetluses võitleb "mõistlik tehnoloogiline vajadus” näiteks teiste Euroopa strateegiatega, näiteks võitlus ülekaaluga, kuna ülemäära võimsate lõhna- ja maitseainete lisamine võib varjata valmistatud toidu halva kvaliteedi. Arvan, et seda on põhjendustes piisavalt selgitatud.
+<P>
+Kokkuvõttes soovin ma tänada kõiki, kes olid seotud toidu kvaliteedi parandamise vahendite paketi alases töös ja aitasid meil koostada kasutatavad ja jõustatavad määrused.
+<SPEAKER ID="192" NAME="Juhataja">
+Arutelu on lõppenud.
+<P>
+Hääletus toimub homme.
+<P>
+Kirjalikud avaldused (kodukorra artikkel 142)
+<SPEAKER ID="193" NAME="Gábor Harangozó  " AFFILIATION="PSE">
+kirjalikult. - Sooviksin kõigepealt õnnitleda raportööre toidu lisaaineid, ensüüme ning lõhna- ja maitseaineid käsitlevate raportite puhul. On äärmiselt oluline, et meie parlament pööraks rohkem tähelepanu neile määrustele, kuna neil on tohutu mõju rahvatervisele ning me peaksime seepärast tagama, et meie poolt esimesel lugemisel toetatud muudatusettepanekud lisataks lõppteksti.
+<P>
+Tarbijate huvide kaitsmine ja toiduohutuse tagamine peavad jääma meie esimesteks prioriteetideks. Peaksime kooskõlas ettevaatusprintsiibi austamisega vältima teatud komponentide kasutamist, mille kohta meil puuduvad usaldusväärsed andmed ja sõltumatu teaduslik hinnang nende tagajärgede kohta tarbijate tervisele. Peaksime tõesti tagama oma kodanikele kvaliteetse ja ohutu toidu ning seepärast peaksime välja töötama tulemuslikud meetodid võimalike ohtlike komponentide poolt tarbijate tervisele avaldatava mõju loetlemiseks ja jälgimiseks.
+<P>
+Lisaks peame suurendama läbipaistvust tootmises, märgistamisel ja lubade andmise menetlustes, aga ka lisaaineid, ensüüme ning lõhna- ja maitseaineid käsitlevate määruste ühtlustamisel, et sätestada sidus regulatiivne pakett, millega tagatakse tarbijate parem kaitse ja rahvatervis. Tarbijakaitse tagamisel on tõeliseks väljakutseks tõesti võita tarbijate usaldus ja tagada kvaliteetse toidu tootmine nende heaks.

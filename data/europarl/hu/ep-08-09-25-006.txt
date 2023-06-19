@@ -1,0 +1,26 @@
+<CHAPTER ID="006">
+Az elnök nyilatkozata
+<SPEAKER ID="076" NAME="Elnök">
+Hölgyeim és uraim, az Elnökök Értekezlete arra kért, hogy tegyek egy rövid nyilatkozatot a holnapi nappal kapcsolatban, amely a Nyelvek Európai Napja lesz. A felkérésnek örömmel eleget teszek, de kérem, legyenek elnézőek velem szemben, mivel ez a nyilatkozat sok nyelven íródott, ezáltal nekem is ijesztő ez a feladat. Kérem, vegyék tudomásul ezt a nyilatkozatot.
+<P>
+2008. szeptember 26-án ünnepeljük a Nyelvek Európai Napját. Ennek keretében az Európai Unió az Európai Tanáccsal együtt több európai kezdeményezést is támogat a nyelvek és kultúrák értékelése céljával, illetve annak érdekében, hogy felhívja az európai nyilvánosság figyelmét a nyelvtanulás fontosságára.
+<P>
+(DE) Európa nyelvi sokszínűsége szellemi örökségünk egyik alapvető eleme és kulturális kincseink egyike. Az európai egyesítés folyamán a nyelvi sokféleség egyre kevésbé jelent akadályt, sokkal inkább lehetőséget. A többnyelvűségről szóló legutóbbi bizottsági közlemény ezért a nyelvi sokszínűséget nagyon helyesen az egyik ütőkártyánknak nevezi.
+<P>
+(FR) A többnyelvűség és a nyelvi sokszínűség előmozdítása mindennapos tevékenységeink sarokköve az Európai Parlamentben. Mottónk: "Nincs jogalkotási munka fordítás nélkül”.
+<P>
+(IT) Az európai emberek képviselőiként végzett munkánk fordítása és tolmácsolása létfontosságú szerepet játszik legitimitásának és átláthatóságának biztosításában, és abban, hogy parlamentünket egyre közelebb tudjuk vinni az európai polgárokhoz.
+<P>
+(ES) Ezzel összefüggésben meg kell jegyezni, hogy az Európai Parlament az egyetlen olyan nemzetközi intézmény, amely saját weboldalt és webtelevíziót működtet 23 különböző nyelven.
+<P>
+(PL) A sokszínűségében is egységes Európai Uniónak nem kell tartania a jövőtől.
+<P>
+(DE) Hölgyeim és uraim, köszönöm a figyelmet.
+<P>
+(Taps)
+<P>
+
+<SPEAKER ID="084" NAME="Elizabeth Lynne" AFFILIATION="ALDE">
+Elnök úr, ügyrendi javaslatot szeretnék tenni. Amennyiben Ön rendelkezik a megfelelő információval ahhoz, hogy azt mondhassa nekünk, nyugodtan visszamehetünk Strasbourgba, miért nem tehet egy nyilatkozatot még most, mielőtt ennek a plenáris ülésnek vége lesz, miért kockáztatja, hogy egy olyan épületbe menjünk vissza, amely egyesek szerint továbbra sem biztonságos?
+<SPEAKER ID="085" NAME="Elnök">
+Lynne asszony, minden általam megkapott információ arra mutat, hogy a strasbourgi épület éppen olyan biztonságos, mint ez a brüsszeli.

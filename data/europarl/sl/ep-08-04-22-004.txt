@@ -1,0 +1,536 @@
+<CHAPTER ID="004">
+Razrešnica za leto 2006 (razprava)
+<SPEAKER ID="020" NAME="Predsednik">
+Naslednja točka je skupna razprava o:
+<P>
+poročilu Dana Jørgensena v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja splošnega proračuna Evropske unije za proračunsko leto 2006, Oddelek III - Komisija
+<P>
+(SEC(2007)1056 - C6 0390/2007 - (SEC(2007)1055 - C6 0362/2007 -,
+<P>
+poročilu Joséja Javierja Pomésa Ruiza v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja splošnega proračuna Evropske unije za proračunsko leto 2006, Oddelek I - Evropski parlament (C6-0363/2007 -,
+<P>
+poročilu Nilsa Lundgrena v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja splošnega proračuna Evropske unije za proračunsko leto 2006, Oddelek II - Svet C6-0364/2007 -,
+<P>
+poročilu Nilsa Lundgrena v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja splošnega proračuna Evropske unije za proračunsko leto 2006, Oddelek IV - Sodišče Evropskih skupnosti (C6-0365/2007 -,
+<P>
+poročilu Nilsa Lundgrena v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja splošnega proračuna Evropske unije za proračunsko leto 2006, Oddelek V - Računsko sodišče (C6-0366/2007 -,
+<P>
+poročilu Nilsa Lundgrena v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja splošnega proračuna Evropske unije za proračunsko leto 2006, Oddelek VI - Evropski ekonomsko-socialni odbor (C6-0367/2007 -,
+<P>
+poročilu Nilsa Lundgrena v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja splošnega proračuna Evropske unije za proračunsko leto 2006, Oddelek VII - Odbor regij (C6-0368/2007 -,
+<P>
+poročilu Nilsa Lundgrena v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja splošnega proračuna Evropske unije za proračunsko leto 2006, Oddelek VIII - Evropski varuh človekovih pravic (C6-0369/2007 -,
+<P>
+poročilu Nilsa Lundgrena v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja splošnega proračuna Evropske unije za proračunsko leto 2006, Oddelek IX - Evropski nadzornik za varstvo podatkov (C6-0370/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske fundacije za izboljšanje življenjskih in delovnih razmer za proračunsko leto 2006 (C6-0372/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske fundacije za usposabljanje za proračunsko leto 2006 (C6-0381/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropskega centra za razvoj poklicnega usposabljanja za proračunsko leto 2006 (C6-0371/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Prevajalskega centra za organe Evropske unije za proračunsko leto 2006 (C6-0378/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropskega centra za preprečevanje in obvladovanje bolezni za proračunsko leto 2006 (C6-0386/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropskega centra za spremljanje drog in zasvojenosti z drogami za proračunsko leto 2006 (C6-0375/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Agencije Evropske unije za temeljne pravice (prej Evropski center za spremljanje rasizma in ksenofobije) za proračunsko leto 2006 (C6-0374/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske agencije za obnovo za proračunsko leto 2006 (C6-0373/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske agencije za okolje za proračunsko leto 2006 (C6-0376/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske agencije za varnost in zdravje pri delu za proračunsko leto 2006 (C6-0377/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske agencije za zdravila za proračunsko leto 2006 (C6-0379/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske agencije za varnost hrane za proračunsko leto 2006 (C6-0384/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske agencije za pomorsko varnost za proračunsko leto 2006 (C6-0382/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske agencije za varnost v letalstvu za proračunsko leto 2006 (C6-0383/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske agencije za železniški promet za proračunsko leto 2006 (C6-0387/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske agencije za varnost omrežij in informacij za proračunsko leto 2006 (C6-0385/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske agencije za upravljanje in operativno sodelovanje na zunanjih mejah držav članic Evropske unije za proračunsko leto 2006 (C6-0389/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Eurojusta za proračunsko leto 2006 (C6-0380/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropske policijske akademije za proračunsko leto 2006 (C6-0388/2007 -,
+<P>
+poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna šestega, sedmega, osmega in devetega evropskega razvojnega sklada za proračunsko leto 2006 - C6-0118/2007 -,
+<P>
+(prejšnji poročevalec: gospod Stubb)
+<P>
+in o poročilu Hans-Petra Martina v imenu odbora za proračunski nadzor o razrešnici glede izvrševanja proračuna Evropskega nadzornega organa za GNSS za proračunsko leto 2006 (C6-0049/2008 - 2008/2000 (DEC)),
+<SPEAKER ID="021" NAME="Dan Jørgensen">
+poročevalec. - (DA) Gospod predsednik, začeti moram z opozorilom za vse, da se približujemo zaključku zelo pomembne naloge. Na splošno, je morda mogoče reči, če se preuči vloga Parlamenta v zvezi z vlogo drugih institucij, da imamo tri glavne naloge. Vključeni smo v pripravo zakonodaje za evropske države in njihove državljane. Vključeni smo v ustanovitev proračuna, tj. določanje za kaj je treba uporabiti sredstva EU. Končno, zadnja naloga je delovanje v smislu nadzornega organa. Parlament je nadzornik v imenu državljanov, če se lahko tako izrazimo. Naloga, ki jo bomo danes izpolnili, je verjetno najpomembnejši del vloge nadzornega organa: v tem delu natančno pregledujemo Komisijo in druge institucije v zvezi z upravljanjem sredstev in ne nazadnje ocenjujemo potek delovanja v državah članicah, pri čemer vemo, da upravljajo z 80 % sredstev EU.
+<P>
+Ob tem je prav tako naravno, da pohvalim svoje kolege poslance iz drugih skupin. Danes bo o poročilu glasoval Parlament kot celota. Verjamem, da smo v okviru odbora za proračunski nadzor odlično sodelovali. Zlasti želim omeniti poročevalce v senci, ki so po mojem mnenju zelo ustvarjalno prispevali k zadevi. Zato smo seveda lahko na Komisijo izvajali tako velik pritisk in imeli zelo ustvarjalen dialog.
+<P>
+Naj najprej navedem nekaj pozitivnih točk. Zagotovo bom govoril tudi o negativnih vidikih, vendar naj začnem z nekaj pozitivnimi točkami v zvezi s prejšnjimi leti. Ni dvoma, da smo v okviru kmetijskega sektorja opravili velik napredek v povezavi z nadzorom nad sredstvi. Integrirani sistem finančnega nadzora seveda pomeni, da je bil uveden popolnoma nov in veliko bolj prožen način nadzora nad kmetijskimi sredstvi EU, kar verjetno ni stališče mnogih državljanov v Evropi, ki spremljajo ta govor. Ta sistem je zelo učinkovit. Evropsko računsko sodišče je to pogosto poudarilo. Že zdaj vemo, da bodo v nekaj letih vsa glavna sredstva v okviru kmetijske politike zajeta v tem zelo učinkovitem sistemu, kar zagotovo zasluži pohvalo. Vendar smo v zadnjih letih poslušali ostre kritike v zvezi s točkami, ki so povezane z raziskovalno politiko. Razen tega je treba ob tem opozoriti, da je Komisija zelo resno obravnavala našo kritiko in izvedla akcijski načrt, ki je zagotovil reševanje veliko težav. Komisija si za to zasluži veliko pohvalo. Nazadnje smo seveda zelo zadovoljni zaradi pobud, ki so bile predstavljene. Zdaj je v zvezi s prejemniki podpore EU večja odprtost v povezavi s socialnimi skladi in kmetijskimi stroški. Razen tega bomo spoznali imena sodelujočih iz različnih delovnih skupin v Svetu in Komisiji, za kar si je ta parlament prizadeval veliko let. Komisija je zdaj soglašala, da razkrije te informacije.
+<P>
+Omeniti je treba, da je to zelo pozitiven razvoj. Seveda je jasno, da ta postopek zadeva področja na katerih je bilo nekaj kritik. Vsak, ki je spremljal postopek, ve, da to posebej zadeva dve področji: strukturne sklade in vprašanja zunanje politike, tj. zunanje zadeve. V zvezi s strukturnimi skladi je Računsko sodišče zelo jasno ugotovilo, da se 12 % sredstev, ki so bila izplačana, nikoli ne bi smelo izplačati: 12 % ali skoraj 4 milijarde EUR. Jasno je, da je to popolnoma nesprejemljivo.
+<P>
+To je bilo izhodišče za nalogo, ki jo bomo danes končali. Potekalo je več posvetovanj, pri čemer sem sam skupaj z odborom užival v tesnem dialogu s Komisijo. Le zato, ker smo dosegli veliko rezultatov, lahko zdaj kot poročevalec zaključim s podelitvijo razrešnice. Komisija je dejansko izvedla veliko število reform, pri čemer se je izkazalo, da bo izvedenih 37 posebnih točk. To je kolegij komisarjev sprejel. Na nekaterih področjih se pojavlja vprašanje uvedbe več in strožjega nadzora, medtem ko je na drugih področjih vprašanje poenostavljanja nadzora zaradi večje učinkovitosti. Na vseh področjih so bili uvedeni zelo jasni skrajni roki. V zvezi z načinom odzivanja smo dobili zelo jasna merila, zato imamo mi in javnost možnost preveriti, da ima to zares pozitiven učinek. Ne smemo pozabiti dveh vprašanj: prvič, dejstvo, da je treba denar, ki je bil nepravilno izplačan leta 2006, vrniti, kar je predmet tega postopka. Menimo, da je to zdaj zagotovljeno. Vendar je treba prav tako zagotoviti, da se to v prihodnje ne bo ponovilo. Verjetno je to ravno tako pomembno. Menimo, da je bil ta cilj s predložitvijo novih postopkov Komisije dosežen.
+<P>
+Jasno je, da le lepe besede niso dovolj. Čeprav smo dejali, da sprejemamo predložene reforme, bomo to vprašanje spremljali in zelo natančno opazovali postopek. Zato želim danes predložiti predlog spremembe, ki ga je, kot razumem, Komisija pripravljena podpreti. Gospod Kallas mi je namignil, da bi bilo sprejemljivo, če se Komisija enkrat na mesec sestane z odborom za proračunski nadzor in nam omogoči razpravo o opravljenem napredku na tem področju. To bi bilo za obe stranki izjemno koristno.
+<P>
+Naj povem še nekaj o drugem področju na katerem smo imeli velike težave. To zadeva vprašanja zunanje politike. Podrobneje, to zadeva vprašanje o Iraku. Vemo, da EU prispeva nekaj sredstev za obnovo Iraka, za to zagotovo obstaja veliko dobrih političnih razlogov. Kot primer smo izbrali Irak. Želeli bi seznam posebnih projektov v Iraku, ki jih delno ali v celoti financira EU prek ZN in Svetovne banke. Pridobivanje takšnega seznama je bilo izjemno težavno. Potekalo je več mesecev. Že znane informacije bi morale biti na seznamu, vendar jih ni bilo, o čemer je potekala dolgotrajna razprava, dokler nismo nedavno končno pridobili informacij, ki bi jih morali že na začetku. Zato zdaj lahko končno dejansko podelimo razrešnico na tem področju. Najpomembnejše vprašanje v zvezi s tem je seveda, kaj storiti v prihodnosti? Irak je le en primer. Kaj pa druge države, ki jih je več kot 100 in v katerih EU zagotavlja podporo za različne dejavnosti? Komisija se je zdaj zavezala, da bo končnim upravičencem, tj. končnim upravičencem podpore, zagotavljala javni dostop od leta 2007 naprej, kar odobravam in menim, da je v celoti nujno.
+<P>
+Zaradi vseh teh razlogov priporočam, da podelimo razrešnico. V zvezi s Komisijo in načini opravljanja zadev v državah članicah lahko opozorimo na veliko kritik. Prav tako želim povedati, da smo z dobrim dialogom s Komisijo dosegli rezultat. To pomeni, da lahko predlagamo podelitev odobritev za finančna poročila za leto 2006. Vendar so še vedno področja na katerih si želimo nadaljnjega napredka. Zelo si želimo pridobiti nacionalne izjave o zanesljivosti, kot jih imenuje Parlament, tj. nacionalne letne izjave o reviziji, ki jih podpiše finančni minister zadevne države. Še vedno menimo, da bi bilo to zelo koristno orodje za boj proti zavajanju, goljufijam in tajnosti v zvezi s sredstvi EU v posameznih državah. S to sklepno željo se želim zahvaliti za priložnost, da sem spregovoril v prvem krogu.
+<SPEAKER ID="022" NAME="José Javier Pomés Ruiz">
+poročevalec. - (ES) Gospod predsednik, pozdravljeni v tej razpravi, ki se je udeležuje generalni sekretar, pri čemer pozdravljam tudi gospoda Kallasa. Nikogar iz Sveta ne morem pozdraviti, ker se zdi, da ga finančna poročila in prevzemanje odgovornosti za politično razpravo o razrešnici ne zadevajo. Upam, da bomo, ko bo Svet imel predsednika po lizbonski pogodbi, dobili zagotovila za prisotnost Sveta na tej razpravi.
+<P>
+Najprej čestitam kolegu Danu Jørgensenu za odlično poročilo in poudarjam njegove besede o dobrem delovanju Evropske unije in o vsakoletnem izboljšanju tega delovanja. Večkrat je omenil pobudo komisarja Kallasa in Komisije o preglednosti. Pred dvema mesecema sem bil poročevalec za poročilo na lastno pobudo o podpori politike preglednosti. Komisija seveda napreduje glede politike preglednosti, tako kot Parlament.
+<P>
+Poudariti želim, da ima Parlament pri podeljevanju razrešnice politično vlogo ter da nismo in niti ne smemo biti računovodje. To je politična vloga, pri čemer moramo za državljane odgovoriti na naslednje vprašanje: ali smo z denarjem Parlamenta lahko izpolnili proračunske izzive za proračunsko leto 2006? Izzivi, kot so priprave Parlamenta na širitev, za sprejem novih držav članic, širitev informacijske politike, boljše opravljanje dela, lastne priprave na lizbonski izziv, pri čemer bomo morali to bolj in na najboljši možen način zakonsko urediti.
+<P>
+Kakšen je politični sklep glede teh finančnih obveznosti? Pozitiven. Dobro smo opravili. Poudaril bi nekaj točk iz tega proračunskega leta. Prvič, na pobudo predsednika Hansa Pötteringa smo začeli politični dialog med predsedstvom in postopkom podelitve razrešnice, ki se do zdaj ni zdel možen. Zdaj je možen, pri čemer je bil podpredsednik prisoten na razpravi in se soočil z vprašanji, ki mu jih je v živo in neposredno postavil odbor. Prav tako bo na pobudo predsednika v Predsedstvu potekal redni postopek dela z odborom za proračun in odborom za proračunski nadzor, zato se vam zahvaljujem.
+<P>
+Veliko vidikov preglednosti v Parlamentu se je izboljšalo, kot je razvidno iz poročila. Izboljšali smo predstavitev vlog naših pomočnikov. Letos ni bilo mogoče končno oblikovati statuta za pomočnike, kar smo zahtevali. Res je, da smo kot poslanci Evropskega parlamenta potrebovali dolgo časa za svoj statut. Skratka, prosimo za potrpežljivost, vendar moramo poudariti, da tega cilja še nismo dosegli. Vendar je bilo leta 2006, v referenčnem letu, 99 % dokumentov predloženih pravilno, zato menim, da se to vprašanje usmerja v pravo smer.
+<P>
+Imamo velike težave, pri čemer se bolj ali manj trudimo po najboljših močeh. Državljani ne razumejo, zakaj mora biti Parlament na treh lokacijah, pri čemer tega ne razumejo in ne bodo razumeli, ker ni enostavno za razumevanje. To je še en izziv za Svet, ko bo imel predsednika: iskanje rešitve. Seveda je Parlament opravil svojo dolžnost in zmanjšal stroške vseh treh lokacij z 203 milijonov EUR iz leta 2002 na 155 milijonov EUR. Račun smo zmanjšali za 24 %, kar je dobro.
+<P>
+Katere izzive, ki jih omenjam v poročilu, bomo obravnavali? Kot sem navedel, oblikovanje dokončnega statuta za pomočnike, kot ga imamo tudi sami. Prav tako obstaja izziv boljše pravne ureditve. Parlament bo imel veliko večjo kvalitativno vlogo in veliko večjo delovno obremenitev z lizbonsko pogodbo, ko se bo pojavila.
+<P>
+Upajmo, da bo belgijska vlada, zdaj ko jo imamo, delovala malo bolje v smislu nepremičninske politike kot do zdaj, ker je bilo njeno delovanje povprečno.
+<P>
+Zaključiti želim s tem, da je bilo leto v smislu proračunskih obveznosti varčno, zato vas pozivam, da glasujete za poročila za leto 2006.
+<SPEAKER ID="023" NAME="Nils Lundgren">
+poročevalec. - (SV) Gospod predsednik, bil sem poročevalec drugih institucij, kot so imenovali sedem od njih, torej Sveta, Sodišča, Računskega sodišča, Evropskega ekonomsko-socialnega odbora, Odbora regij, Evropskega nadzornika za varstvo podatkov in Evropskega varuha človekovih pravic.
+<P>
+Pri obravnavi nisem imel nobenih resnih pripomb. Oblikoval sem običajne pripombe, kaj je mogoče in kaj je treba izboljšati. Odkril nisem nobenih posebnosti, ki bi lahko kakor koli povzročile dvome o podelitvi razrešnice kateri koli od teh sedmih institucij.
+<P>
+Kljub temu želim to priložnost izkoristiti za opozorilo vsem, da je podelitev razrešnice, ki zahteva odgovornost, temeljna za demokracijo. Načinu obravnave te naloge v tem parlamentu ne zaupam, ker sem imel pred dvema letoma natančno enako delo pri preučevanju teh sedmih institucij, pri čemer sem takrat, gospe in gospodje, odkril precej grozno dogajanje v Odboru regij. Ugotovil sem, da je bila v tej instituciji zagrešena najhujša prevara. Zbral sem gradivo, ki ste ga lahko vsi prebrali v skrivni čitalnici.
+<P>
+V zvezi s tem so potekale tri ločene preiskave: ena v Evropskem uradu za boj proti goljufijam, OLAF, druga v Računskem sodišču, notranjo preiskavo pa je sprožil tudi sam Odbor regij. Odpustili so svoje notranje revizorje. Seznam pritožb je bil neskončen.
+<P>
+Seveda sem zato predlagal, da v teh razmerah ne podelimo razrešnice. To sem povedal v odboru. Odbor je še vedno glasoval za razrešnico. Enako sem povedal tukaj, v Parlamentu, pred dvema letoma, pri čemer ste z veliko večino glasovali za razrešnico.
+<P>
+To pomeni, da če bi danes na moje priporočilo glasovali za razrešnico, tega ne boste storili zaradi mojega priporočila, ampak le iz navade. Ta skupščina ne prevzema svoje odgovornosti. Bolj jo skrbi ugled EU. Bolj razmišljate o zavajanju državljanov, volivcev. Državljani ne smejo vedeti, kaj se dogaja. Zato zelo žalostno izjavljam, da je tokrat mogoče tem drugim institucijam podeliti razrešnico. To lahko storim s čisto vestjo. Večina od vas tega ne zmore.
+<SPEAKER ID="024" NAME="Hans-Peter Martin">
+poročevalec. - (DE) Gospod predsednik, kakšen tiran ste. Danes je moj govor namenjen vsem tistim ...
+<P>
+(Predsednik je prekinil govornika.)
+<SPEAKER ID="025" NAME="Predsednik">
+Že drugič ste spregovorili na ta način. Pravico imam, da proti vam ukrepam.
+<SPEAKER ID="026" NAME="Hans-Peter Martin  " AFFILIATION="NI">
+poročevalec. - (DE) Danes bom predstavil šolski primer za vse tiste, ki vas zanima dejanski način političnega odločanja, poučno igro o neuspešnem nadzoru nad delovanjem v tem parlamentu. Ko se bodo prihodnji študenti političnih ved ali državljani, ki se zanimajo za politiko, naveličali, bo to postal klasičen primer. Kot del poročila o razrešnici, smo dobesedno prevzeli odstavke, ki so jih posredovali člani glavnih skupin in ki izražajo kritična mnenja za agencije. Na primer, jasno je, da sta bila decentralizacija in prenos pristojnosti ena od glavnih rezultatov postopka reforme Komisije, ki se je začel leta 1999, vendar Komisija še vedno ni pripravila študije ali poročila ali vmesnega finančnega izkaza o tej obliki upravnega poslovodenja. To sem nato vključil v glavne pripombe.
+<P>
+Avtorica tega besedila, gospa Gräßle, prihaja iz velike skupine. Namen njenega predloga spremembe k poročilu je bilo točno odstraniti te navedbe. Obstaja veliko drugih primerov, vključno s prispevkom gospe Haug, ki prav tako zadeva kritične pripombe o agencijah in na primer poudarja, da sta le dve agenciji popolnoma neodvisni od subvencij EU, medtem ko se večina financira izključno s sredstvi EU, kar navaja eden od dokumentov gospe Haug. Vendar je bilo to tukaj izločeno.
+<P>
+Predsednik odbora za proračunski nadzor, gospod Bösch, ima pogosto zelo kritične pripombe o agencijah, vendar ne v odboru. Potem, ko je zares pomembno in je čas primeren, ko je dejansko prava priložnost, da se opozori na neodgovorno širjenje med agencijami in na veliko stvari v slabem stanju, pa se na zahtevo velikih skupin to preprosto izbriše. Kot da to ni dovolj, si sam kot poročevalec ne smem dovoliti tega, kar si lahko drugi dovolijo,. Tako je celotna obrazložitev preprosto cenzurirana, zato si bom dovolil prebrati, kar sicer javnosti po zasedanju ne bo več omogočeno.
+<P>
+Del, ki je bil izbrisan, je naslednji: "Decentralizacija in prenos pristojnosti sta bila ključna cilja reformnega procesa Komisije, ki se je začel leta 1999. Do danes niso predložili še nobene ocene tega procesa. Razen tega Komisija ni nikoli podala prepričljive razlage o dodani vrednosti, ki so jo zagotovile decentralizirane agencije, zakaj njihovih nalog ni mogoče enako dobro opraviti v okviru Komisije ali, v veliko primerih, zakaj se je na zadevnem področju sploh zahtevalo ukrepanje Evropske unije.
+<P>
+Namesto tega je bila posledica neodgovorno širjenje. Na podlagi nenavadnih političnih odločitev so bile ustanovljene nove agencije. Nove agencije niso nadzorovane in jih pogosto ni mogoče nadzorovati, so večinoma neučinkovite in predvsem obremenjujejo evropske davkoplačevalce.
+<P>
+Hkrati uslužbenci uživajo toliko privilegijev kot še nikoli. Drugače povedano, reformna prizadevanja Komisije, ki so imela cilje povezane z zagotavljanjem zanesljivosti, odgovornosti, učinkovitosti, nove evropske službe za kulturo in preglednost, so se izkazala kot popoln neuspeh. Nesprejemljiva zmeda na področju prenosa pristojnosti in politike decentralizacije je zdaj vsem razvidna. To ni odgovorno ukrepanje."
+<P>
+Tudi poročevalcu ni dovoljeno vključiti tega v obrazložitev. Seveda se ujema s političnim scenarijem, da vsakič ko je govoril nekdo drug, ko se je začela razprava o dvajsetih poročilih, ki sem jih predstavil odboru, so bili predlogi sprememb pripravljeni in tudi cenzorirani brez vednosti govorca.
+<SPEAKER ID="027" NAME="Christofer Fjellner">
+poročevalec. - (SV) Gospod predsednik, začenjam z razpravo v zvezi z razrešnico za Evropski razvojni sklad. Veliko vas je morda pričakovalo, da bo to delo opravljal drugi, visok Nordijec, in sicer naš kolega Alexander Stubb, vendar, kot nekateri veste, Alexander danes ne more biti prisoten, ker je bil imenovan za novega finskega ministra za zunanje zadeve. Zato me je prosil, da prevzamem to nalogo in danes predstavim njegovo delo ter to poročilo. Verjamem, da govorim v imenu večine, če povem, da smo žalostni zaradi odhoda Alexandra, vendar je to dobro zanj in zlasti za Finsko.
+<P>
+Seveda želim najprej čestitati njemu za delo, ki ga je opravil v zvezi z Evropskim razvojnim skladom. Delo v odboru je potekalo zelo dobro, pri čemer združeni odbor razpravlja o današnji razrešnici za razvojni sklad. Evropski razvojni sklad je seveda eno od sredstev za spodbujanje demokracije in gospodarskega razvoja v državah AKP (afriških, karibskih in pacifiških državah). Zato menim, da je razveseljivo, ko lahko vidimo, kako se denar porablja pravilno in odgovorno. Leta 2006 je bilo na voljo veliko sredstev, 3 milijarde EUR za dodelitev sredstev, pri čemer so uspeli plačati le malo pod 90 % tega zneska.
+<P>
+Vendar dejstvo, da smo danes zadovoljni z možnostjo podelitve in predlagamo podelitev razrešnice Komisiji, ki je upravljala te razvojne sklade, pri čemer smo s tem resnično zadovoljni, ne pomeni, da ni več izzivov ali nobenega področja, ki ga moramo v prihodnosti izboljšati. Opozoril bi le na nekaj od teh področij. Na primer, za razliko od lanskega leta, lahko trdimo, da Računsko sodišče ni predstavilo popolnoma jasne izjave o zanesljivosti, ampak je poudarilo veliko težav, na primer, v zvezi z dokazom o prenosih, ki bi lahko bili bolje dokumentirani, in v zvezi s plačili iz različnih delegacij. Seveda želim pohvaliti Komisijo za resno obravnavo teh težav in predstavitev dejanskih, pravilnih in pomembnih rešitev za te izzive.
+<P>
+Razen tega v našem poročilu poudarjamo tudi težave zaradi zamude pri izvajanju sodobnega informacijskega sistema. To je vprašanje, ki ga resno obravnavamo, pri čemer upamo, da ga bo Komisija še naprej obravnavala.
+<P>
+Dovolj je govorjenja o upravnih in gospodarskih vidikih, ker je veliko pomembnih političnih vprašanj, ki jih želim sprožiti. Najprej dejstvo, da bi bilo delo Evropskega razvojnega sklada bistveno enostavnejše, če bi bil vključen v redni proračun. Podobno menimo, da bi se delo prav tako olajšalo, če bi imeli eno finančno uredbo, ki bi nadzorovala vse sedanje in prihodnje razvojne sklade.
+<P>
+Dovolj o Evropskem razvojnem skladu. Ob tej priložnosti želim na kratko omeniti nekaj o razrešnici neodvisnih agencij. Delno to omenjam zato, ker sem bil odgovoren za to delo v Skupini Evropske ljudske stranke in Evropskih demokratov, vendar predvsem zaradi poročevalca, ki se milo rečeno, kot smo ravno slišali, nenavadno vede, in ni natančno upošteval smernice, ki jo je izbral odbor. Menim, da je zelo čudno, da Hans-Peter Martin ni odstranil svojega imena z vseh teh poročil, glede na to, da danes na plenarnem zasedanju ne bomo glasovali o njegovem mnenju.
+<P>
+Če vseeno povem nekaj o samem delu, o nekaterih pomembnih mnenjih, ki so kljub vsemu v teh poročilih, pri čemer smo jih pridobili zaradi uspešnega in tesnega sodelovanja med našo skupino socialdemokratov, skupino zavezništva liberalcev in demokratov za Evropo in skupino Zelenih/Evropske svobodne zveze, želim le poudariti dejstvo, da podeljujemo razrešnico zato, ker menimo, da v izjavi Računskega sodišča obstajajo vzroki za odobritev upravljanja financ teh neodvisnih agencij. Vendar so ob tem tudi težave, ki jih bomo, upamo, v prihodnje obravnavali. To zlasti zadeva vse institucije, Svet, Komisijo in Evropski parlament, da bolje preučijo zahteve agencij. Upam, da bomo za to vsi prevzeli odgovornost.
+<P>
+Prihodnje leto, ko bom poročevalec za to vprašanje, se bom vrnil in upam, da bom lahko o tem poglobljeno razpravljal s Komisijo.
+<SPEAKER ID="028" NAME="Siim Kallas">
+podpredsednik Evropske komisije. - (ET) Gospod predsednik, gospod Jørgensen, poročevalci, spoštovani poslanci Parlamenta, dovolite mi, da se zahvalim Parlamentu, odboru za proračunski nadzor, poročevalcu gospodu Jørgensenu in njegovim kolegom poročevalcem za poročilo, ki so ga pripravili, in za priporočilo odbora, da je treba proračunu za leto 2006 podeliti razrešnico. Prav tako se zahvaljujem Alexandru Stubbu za poročilo o razrešnici v zvezi z uporabo instrumentov v okviru Evropskega razvojnega sklada.
+<P>
+Kljub dejstvu, da Evropsko računsko sodišče ni uspelo podati izjave o polni zanesljivosti, zaradi zanesljivosti poslovnih knjig ter zakonitosti in pravilnosti osnovnih transakcij za leto 2006, so rezultati te revizije najboljši od začetka izvajanja prakse podajanja izjav o zanesljivosti. Računsko sodišče je potrdilo napredek, ki smo ga dosegli. Veseli me, da je to potrdil tudi odbor Parlamenta za proračunski nadzor.
+<P>
+Letošnja razprava je osredotočena na strukturne sklade, obveznosti držav članic, izterjave in prilagoditve ter na občutljiva področja zunanje pomoči. Prizadevati si je treba za napredek na vseh teh področjih. Strinjamo se, da je treba redno sprejemati spremljevalne ukrepe, ne le zaradi postopka razrešnice, ampak tudi zaradi pogojev iz ustanovne Pogodbe in njihovega pomena.
+<P>
+Predlagam, da se člani ali predstavniki Komisije redno udeležujejo parlamentarnih srečanj za razpravljanje o enem od treh področij v središču letošnjega postopka razrešnice in o tem poročajo. Ta področja so: večja odgovornost držav članic na področjih, kjer si odgovornost delijo z Evropsko unijo, izvajanje strukturnih skladov in spremljanje financiranja zunanjih ukrepov (prvotno nadzor nad financiranjem, ki je usmerjeno prek mednarodnih organizacij).
+<P>
+Meseca maja se načrtuje odprtje običajne razprave o politični strategiji za prihodnje leto v sektorjih, ki so v moji pristojnosti.
+<P>
+Junija morajo komisarji, odgovorni za strukturne sklade, ali njihovi predstavniki in odbor za proračunski nadzor preučiti predhodne rezultate v okviru akcijskega načrta za strukturne sklade. Prvo četrtletno poročilo o akcijskem načrtu za strukturne sklade bo Parlamentu posredovano maja.
+<P>
+Julija ali septembra morajo komisarka za zunanje odnose ali njen predstavnik spoštovanim poslancem posredovati nekaj novejših informacij o skrbniških skladih, ki so namenjeni izboljšanju zunanjim ukrepom, preglednosti financiranja Evropske unije, usmerjenega prek mednarodnih organizacij, in nadzora, ki se nad tem izvaja.
+<P>
+V zvezi z zbirnim poročilom Komisije za leto 2007 in rezultati poročila notranjih revizorjev za leto 2007 bom lahko posredoval informacije julija ali septembra, pri čemer moramo nadaljevati z razpravo o razrešnici proračuna, izterjavah in stroških preverjanj skupaj s tem. Komisija bo oktobra izdala poročilo o teh področjih. To poročilo bo temelj za razvoj medinstitucionalne razprave o vprašanju dopustnega tveganja za napake.
+<P>
+Uradni odgovori Komisije na priporočila Parlamenta in Sveta bodo Parlamentu in Svetu posredovani jeseni, kot je običajno.
+<P>
+Moja kolega Danuta Hübner in Vladimír Špidla sta Parlamentu že posredovala pregled akcijskega načrta za izboljšanje upravljanja sredstev za strukturne ukrepe.
+<P>
+Komisija in države članice načrtujejo izvajanje prilagojenih ukrepov za zmanjšanje večkratnih napak pri izvajanju strukturnih ukrepov.
+<P>
+V zvezi s strukturnimi skladi je bila Komisija z državami članicami, ki so odgovorne za preverjanje stroškov, odločna in je po potrebi ustavila plačila ter izvedla finančne popravke. Komisija je zavezana h krepitvi teh ukrepov in k doseganju stvarnih, izmerljivih rezultatov.
+<P>
+Na področju deljenega upravljanja so države članice predstavile povzetke izjav in revizij. Za države članice, ki niso uspele predstaviti poročil, veljajo pravni ukrepi iz člena 226 ustanovne Pogodbe.
+<P>
+Dosledna zahteva, da države članice predstavijo te povzetke na začetku vsakega leta že prinaša rezultate.
+<P>
+Komisarka Benita Ferrero-Waldner je Parlamentu razložila načela financiranja Evropske unije prek pomoči za Irak in je vložila predloge o tem, kako je treba oblikovati boljša preverjanja za posebno financiranje in kako zagotoviti večjo sledljivost in preglednost pri financiranju. Direktor, ki je zadolžen za ta postopek, bo poleti poročal Parlamentu.
+<P>
+Nekateri rezultati so se že pojavili.
+<P>
+Na začetku aprila je v Ženevi potekalo srečanje med Komisijo in ZN, pri čemer so bile pred srečanjem razprave med poslanci Parlamenta in predstavniki Komisije, kjer je bil dosežen dogovor o skupnih smernicah, ki se bodo upoštevale v vseh zunanjih uradih, s ciljem povečanja prepoznavnosti skupnega dela. ZN in Komisija sta se zavezala izvajanju posebnih smernic in natančnemu spremljanju izvajanja.
+<P>
+Komisija pripisuje veliko vrednost odločitvam, ki jih potrdi Parlament. Te odločitve državljanom sporočajo o komunikaciji in praktični uporabi finančnih instrumentov. Na tej poti moramo vztrajati in javnost prepričati, da je njen denar, ki sestavlja proračun Evropske unije, v dobrih rokah.
+<SPEAKER ID="029" NAME="Ralf Walter" AFFILIATION="PSE">
+, pripravljavec mnenja odbora za razvoj. - (DE) Gospod predsednik, gospe in gospodje, poslanci, zahvaljujem se Danu Jørgensenu in Alexandru Stubbu, da sta v celoti povzela namene odbora za razvoj. Za to smo jima zelo hvaležni, ker smo v odboru za razvoj trdo delali na tem vprašanju.
+<P>
+Evropska unija - proračuni Evropske unije skupaj s proračuni držav članic - je največja dajalka razvojne pomoči na svetu. Kljub temu glede na trenutne razmere menimo, da moramo storiti še več. Ne moremo čakati, da nas doleti pomanjkanje hrane in energije v svetu, ter biti nato presenečeni, da ljudje protestirajo. Denar moramo namenjati - kot sem že rekel, smo največja dajalka pomoči na svetu - bolj ciljno usmerjeno, zato, da se ne porabi za druge namene in izgine, ampak da ga prejmejo tisti, ki ga potrebujejo. Zato smo veliko pozornosti namenili preverjanju, ali se sredstva, ki jih namenjamo, dejansko porabijo za predvidene namene. Parlament in odbor poudarjata, da je treba 20 % sredstev nameniti za osnovno zdravstveno oskrbo ter osnovno in nadaljnje izobraževanje, da se ustvari podlaga za prihodnost. Tako smo dosegli napredek, ampak Komisija še ni izpolnila naših pričakovanj. V zvezi s tem morate še veliko storiti, pri čemer bomo vztrajali.
+<P>
+Pozvali smo vas k zmanjšanju zaostankov plačil iz preteklosti in dejansko so se zaostala plačila iz obdobja pred letom 2001 zmanjšala za 39 % za program Europe Aid in 49 % za evropski razvojni sklad. To so zadovoljive številke, ampak le začasne. V zvezi z razvojno politiko smo večkrat poudarili, da ni smiselno vzdrževati vzporedna sistema - enega za evropski razvojni sklad in drugega za razvojno pomoč. Treba ga je vključiti v proračun. To zahtevamo zdaj in bomo zahtevali na prihodnjih pogajanjih o finančnih napovedih.
+<P>
+Na koncu bom spregovoril o proračunski pomoči. Komisija vedno pogosteje državam dodeljuje splošno proračunsko pomoč. To je izvedljivo, vendar bodite previdni, da se vam ne bo zgodilo tako kot nam s sedanjimi državami članicami v zvezi s strukturnimi skladi, pri čemer smo najprej odgovornost prenesli, ker jo morajo države prevzeti, ter nato ugotovili, da sistemi ne delujejo in "nihče" za to ni odgovoren. Zato vam svetujem, da ste že od začetka prepričani, kaj počnete.
+<P>
+Spremljali vas bomo kritično, ampak tudi pozitivno. Na splošno čestitam poročevalcem in se jim najlepše zahvaljujem za sodelovanje.
+<SPEAKER ID="030" NAME="Jamila Madeira">
+pripravljavka mnenja odbora za zaposlovanje in socialne zadeve. - (PT) Gospod predsednik, gospe in gospodje, v imenu odbora za zaposlovanje in socialne zadeve naj v zvezi z upravljanjem proračuna najprej povem, da smo zaskrbljeni, da se neporavnane proračunske obveznosti povečujejo, pri čemer lahko to, skupaj z zamenjavo pravila n+2 s pravilom n+3, kar bodo nekatere države članice uvedle za obdobje 2007-2013, povzroči poslabšanje razmer, zaradi česar bodo prejemniki na sredstva morda čakali dlje. Obravnavamo politike, kot je evropski socialni sklad, ki neposredno vplivajo na državljane, pri čemer bi lahko imele zamude katastrofalne posledice za učinkovito in uspešno uporabo sredstev.
+<P>
+V zvezi s strukturnimi politikami se strinjamo z Računskim sodiščem, da je treba izboljšati kontrolne sisteme za preprečevanje napak pri projektih na področju strukturnih skladov. Za pravočasno odpravo pomanjkljivosti ali napak so potrebni okrepljen nadzor, učinkovitejše revizije in uspešno spremljanje projektov od začetka do konca. Zato mora imeti Evropska komisija logistične zmogljivosti in ustrezna sredstva, da zagotovi resnično delovanje mehanizmov povratnih informacij in ustrezen pregled revizijskih postopkov.
+<P>
+Bistveno je, da se kratkoročno uporabijo pomembni kazalniki in cilji, ki so primerni za primerjavo, ter, kolikor je mogoče, seštevanje, zato da se lahko izvede takšna analiza trendov na področju strukturne politike, ki ne vključuje grobih in nejasnih ocen, saj takšne ocene ne omogočajo učinkovite uporabe teh sredstev.
+<P>
+Pomembno je omeniti, da je Komisija državam članicam pravočasno predložila priporočilo, da morajo uporabiti poenostavitve, predpisane z novo zakonodajo na področju strukturnih skladov, na primer z uporabo pavšalnega zneska za posredne stroške v okviru evropskega socialnega sklada.
+<P>
+Evropski komisiji čestitam tudi za naložbo v omrežje EURES in pozdravljam organizacijo evropskega leta mobilnosti delavcev. Izpostavljena so bila vprašanja, ki jih vsi priznavamo in s katerimi se še vedno spopadamo. Kar zadeva evropske agencije, ki jih analizira odbor za zaposlovanje in socialne zadeve, se jim zahvaljujem za opravljeno delo, pri čemer lahko, kot smo videli, na splošno zelo pozitivno ocenimo njihove dejavnosti.
+<P>
+Vendar na koncu opozarjam, da je treba povečati proračunska sredstva za agencijo v Dublinu, ki analizira predvidene razmere na področju zaposlovanja in poslovnega sveta, pri čemer je namen družbenogospodarskem projektu zagotoviti podporo z ocenjevanjem vlog v okviru Evropskega sklada za prilagoditev globalizaciji. Vsi vemo, kako pomembno bi to lahko bilo. Zato je to zelo občutljivo in pomembno področje, ki mu mora Evropska unija nameniti posebno pozornost, in sicer s to analizo dublinske agencije, ki lahko pripomore k napovedovanju možnih kriz, ki lahko nastanejo v kateri koli državi od 27 držav članic.
+<SPEAKER ID="031" NAME="Jutta Haug">
+pripravljavka mnenja odbora za okolje, javno zdravje in varnost hrane. - (DE) Gospod predsednik, komisar, odbor za okolje je bil zadovoljen z delom generalnega direktorata za okolje in generalnega direktorata za zdravje. Vem, da to ni v moji navadi. Običajno kritiziram Komisijo, vendar v tem primeru ni nobenega razloga za to. Odgovorni za proračun pri obeh generalnih direktoratih dobro sodelujejo. Najlepša hvala.
+<P>
+Zahvaljujem se tudi poročevalcu Danu Jørgensenu. Trdo je delal na celotnem postopku razrešnice za proračun, predložil izjemno poročilo in upošteval vse sklepe odbora za okolje v zvezi s podelitvijo razrešnice za leto 2006. Odbor za proračunski nadzor je s tem priznal to, kar je odbor za okolje sprejel soglasno. Najlepša hvala tudi za to.
+<P>
+Nekaj besed bom namenila našim agencijam. Tudi v odboru za okolje smo bili zadovoljni z delom in upravljanjem proračuna štirih agencij: Evropske agencije za okolje, Evropske agencije za varnost hrane, Evropskega centra za preprečevanje in obvladovanje bolezni ter Evropske agencije za zdravila.
+<P>
+Odločitev, da odboru za proračunski nadzor svetujemo, da podeli razrešnico za proračunsko leto 2006, ni bila sprejeta zlahka. Ravno nasprotno. Člani upravnega odbora in direktorji v odboru so pogosto izmenjali informacije.
+<P>
+Poleg tega je več delegacij iz našega odbora obiskalo agencije, da so se sami prepričali o dejavnostih. Zato je bilo toliko bolj nerazumljivo, da poročevalec odbora za proračunski nadzor ni želel podeliti razrešnice trem od štirih agencij iz najbolj neverjetnih razlogov, zlasti zato, ker tudi če bi bili resnični, agencije niso odgovorne za tiste točke, na primer kadrovske predpise v zvezi z začasnimi uslužbenci institucij, lokacijo sedeža zadevne agencije ali celo način upoštevanja načela subsidiarnosti. Fraze, kot so: "prišlo je do neodgovornega širjenja", "na podlagi nenavadnih političnih odločitev so bile ustanovljene nove agencije, ki niso nadzorovane, jih pogosto ni mogoče nadzorovati, so večinoma neučinkovite in predvsem obremenjujejo evropske davkoplačevalce" ter "hkrati uslužbenci uživajo toliko privilegijev kot še nikoli" so namenjene le šokiranju. Vsi dobro vemo, da gre za načrtno spodbujanje škandala v zvezi z delom na evropski ravni. Ostro obsojam to podpihovanje k škandalu.
+<P>
+Kljub svoji edinstveni naravi so agencije evropske upravne enote. Ne ustanovijo se same in ne umisli si jih Komisija sama, ampak se ustanovijo z ustreznim regulativnim postopkom, tj. soodločanjem ali posvetovanjem ali, odvisno od področja politike, z uredbo, tj. zakonodajo. To pomeni, da te agencije ustanavlja evropski zakonodajalec, kar pomeni, da smo omenjeni "pustolovci" mi. Proračun agencij je del proračuna Evropske unije. Vsako proračunsko leto direktorju podelimo razrešnico. Menim, da noben del uprave ni tako dobro nadzorovan kot agencije, zato sem vesel in hvaležen, da je odbor preprečil poskus povzročitve škandala.
+<SPEAKER ID="032" NAME="Luca Romagnoli">
+pripravljavec mnenja odbora za promet in turizem. - (IT) Gospod predsednik, gospe in gospodje, poudarjam, da lahko v zvezi z izvajanjem proračuna evropskih agencij za proračunsko leto 2006 podpremo besede Računskega sodišča, saj so računovodski izkazi in transakcije zakoniti in pravilni.
+<P>
+Vendar kot sem povedal v odboru za promet in turizem, predlagam večjo skladnost z načeli in pravili v naslednjih letih. V primeru Evropske agencije za pomorsko varnost je bilo 43 % odobritev plačil razveljavljenih, pri čemer je bilo največ transakcij zabeleženih konec proračunskega leta. Izrazil sem tudi zaskrbljenost zaradi nizke stopnje uporabe odobritev plačil za ukrepe proti onesnaževanju morja, kljub temu da Parlament nenehno podpira te ukrepe.
+<P>
+V zvezi z agencijo za varnost v letalstvu sta bili ugotovljeni tudi visoka stopnja prenosov sredstev, ki je znašala 40 % odhodkov za poslovanje, ter uporaba prenosov nediferenciranih odobrenih sredstev, kar je v nasprotju s proračunskim načelom enoletnosti. Zato pozivamo Komisijo, naj pregleda strukturo pristojbin agencije, da bodo stroški in prihodki za dejavnosti potrjevanja uravnoteženi.
+<P>
+Končno, kar zadeva agencijo za železniški promet, zaradi uporabe pogodb, ki so se iztekle, in nepravilnih podaljšanj veljavnih pogodb ni mogoče trditi, da so bile vse transakcije zakonite.
+<P>
+Zato predlagam večjo preglednost in natančnost v prihodnosti; vendar glede na ugotovitve Računskega sodišča predlagam, da Parlament podeli razrešnico izvršnim direktorjem agencij.
+<SPEAKER ID="033" NAME="Helga Trüpel">
+pripravljavka mnenja odbora za kulturo in izobraževanje. - (DE) Gospod predsednik, gospe in gospodje, v imenu odbora za kulturo poudarjam, da je naš cilj spodbujati kulturno raznolikost v Evropi. Naši kulturni programi se izvajajo tam, kjer državljani živijo, kar je naš omenjeni cilj. Zato od nacionalnih kulturnih agencij pričakujemo izredno dobro upravljanje, pri čemer dodajam, da bomo lahko z revizijo finančne uredbe bolj ciljno usmerjeno financirali in podpirali manjše projekte, za katere državljani zaprosijo v svojem območju.
+<P>
+Vendar to prav tako pomeni, da moramo najti pravo ravnovesje med zmanjševanjem birokracije in preprečevanjem goljufij, kar pomeni, da potrebujemo ustrezne predpise. Da državljanom, ki za izvajanje kulturnih projektov potrebujejo manjše zneske, ne bi bilo treba izpolnjevati obsežne prijavne dokumentacije, moramo poenostaviti postopke in preiti na pavšalno financiranje. Tako bodo evropski državljani bolj sprejemali naše kulturne programe.
+<SPEAKER ID="034" NAME="Bárbara Dührkop Dührkop">
+pripravljavka mnenja odbora za državljanske svoboščine, pravosodje in notranje zadeve. - (ES) Gospod predsednik, odbor za državljanske svoboščine, pravosodje in notranje zadeve se je odločil podpreti podelitev razrešnice Komisiji na tem področju ter petim agencijam, za katere je odgovorna.
+<P>
+V zvezi s poslovodenjem Komisije pozdravljamo znatno povečanje izvajanja plačil ter upamo, da se bo ta trend nadaljeval v letu 2007, čeprav vemo, da se bo to leto začelo novo programsko obdobje, pri čemer nam izkušnje kažejo, da je težje izpolniti ta cilj in da prihaja do zamud.
+<P>
+Odbor za državljanske svoboščine pozdravlja dejstvo, da se je v zvezi s petimi agencijami, za katere je pristojen odbor za državljanske svoboščine, Računsko sodišče - citiram - "lahko ustrezno prepričalo, da so računovodski izkazi za proračunsko leto, ki se je končalo 31. decembra 2006, zanesljivi".
+<P>
+Ob tem imam v zvezi z izvrševanjem proračunov nekaj pripomb o nekaterih točkah, ki so še vedno nejasne. Prva pripomba zadeva agencijo Frontex, ki je imela nizko stopnjo izvrševanja dodeljenih sredstev, vendar zaradi tega ne smemo biti pesimistični. Upoštevati moramo, da je šele leta 2006 začela dejansko delovati ter je v naslednjem letu dokazala, da lahko porabi celoten proračun.
+<P>
+Obisk odbora za državljanske svoboščine na sedežu agencije Frontex je bil zelo pozitiven. Zato upamo, da ji bo v naslednjih proračunskih letih razrešnica podeljena brez pridržkov, kljub dejstvu, da je zaradi pomanjkanja politične vizije Sveta in Komisije proračun te agencije v nevarnosti.
+<P>
+Čeprav morda ta razprava ni najbolj primerno mesto, jo bom izkoristil ter poudaril, da je glede na hibridno naravo agencije Frontex njeno pravilno delovanje v veliki meri odvisno od sodelovanja držav članic. Če države članice ne bodo zagotovile ustreznih sredstev, agencija Frontex ne bo mogla izpolniti svojih obveznosti.
+<P>
+Kar zadeva agencijo Eurojust, imam samo eno negativno pripombo v zvezi z velikim številom prenosov med postavkami, ki bi morali biti bolje utemeljeni.
+<P>
+Kritizirali smo tudi nekatere težave v zvezi z zaposlovanjem pri Evropski agenciji za temeljne pravice ter obžalujemo, da Računsko sodišče meni, da vprašanje, izpostavljeno leta 2005, v zvezi s članom osebja Evropskega centra za spremljanje drog in zasvojenosti z drogami, ki je bil za opravljanje dolgoročne naloge napoten v Bruselj brez jasno določenega cilja, še ni rešeno.
+<P>
+Na koncu bom omenil še primer Evropske policijske akademije, v zvezi s katero imamo nekaj dvomov. Gospod Kallas, Evropsko komisijo smo pozvali, da pozorno spremlja izvrševanje proračuna te akademije, saj se sumi, da ne upošteva popolnoma in dosledno evropske zakonodaje o javnih naročilih.
+<SPEAKER ID="035" NAME="Lidia Joanna Geringer de Oedenberg" LANGUAGE="PL">
+Gospod predsednik, kar zadeva letošnji postopek razrešnice za proračun, smo lahko zadovoljni z napredkom Komisije v zvezi z učinkovitejšo uporabo sredstev EU, zlasti na področju skupne kmetijske politike. Podporo si zasluži tudi pobuda, ki so jo sprejele nekatere države članice, v zvezi z oblikovanjem in objavo nacionalnih izjav, ki predstavljajo nov element v okviru procesa upravljanja sredstev Skupnosti, pri čemer morajo tudi preostale države čim prej sprejeti to pobudo.
+<P>
+Pomembno je tudi prizadevanje Komisije, da reši vse primere kršitve postopkov oddaje javnih naročil, omenjene v letnem poročilu Računskega sodišča, ter uvede politiko začasne ustavitve plačil v primeru resnih prekrškov v sistemu.
+<P>
+Kot strokovnjakinja v odboru za pravice žensk in enakost spolov poudarjam, da se pri načrtovanju proračuna vprašanje enakosti spolov ne upošteva, pri čemer znova pozivam k vključitvi tega vprašanja v načrtovanje proračuna in financiranje programov Skupnosti. Informacije o ukrepih, namenjenih spodbujanju enakosti spolov, ki so prejeli sredstva iz socialnega sklada, je treba vključiti v prihodnja poročila o izvrševanju proračuna.
+<P>
+(Ploskanje.)
+<SPEAKER ID="036" NAME="Ingeborg Gräßle">
+v imenu skupine PPE-DE. - (DE) Gospod predsednik, gospe in gospodje, komisar, najprej bom govorila o razrešnici Parlamentu, pri čemer se zahvaljujem našemu poročevalcu in vsem poslancem, ki so si prizadevali za napredek na področju dodatka za pisarniško pomoč, ker je ta točka za javnost bistvena, zato mora biti tudi v središču naše razprave. Vsi poslanci Evropskega parlamenta si prizadevamo za rešitev vprašanja korupcije.
+<P>
+Evropska ljudska stranka je predlagala, kako bi lahko v prihodnosti učinkoviteje upravljali z dodatki za pisarniško pomoč. Ti predlogi so bili odobreni z veliko večino v odboru za proračunski nadzor, vključno s predlogom, da mora plačilne posrednike v državah članicah obvestiti Parlament, pri čemer se s tem zagotovi večja strokovnost. Ti plačilni posredniki bi nato upravljali tudi pogodbe o storitvah ter zagotovili, da so davki plačani in prispevki za socialno varnost odšteti. Ti predlogi sprememb, vključno s točko, da poslanci Evropskega parlamenta v prihodnosti ne smejo več zaposlovati družinskih članov, ščitijo ugled Parlamenta.
+<P>
+V skladu s predpisi EU gre za močno navzkrižje interesov. Zato pozivam vse poslance, da v prihodnosti ne ogrožajo več svojega ugleda ali ugleda Parlamenta. Zaskrbljena sem, da želi skupina socialdemokratov, vključno z nekaterimi liberalci, glasovati proti temu odlomku besedila. Če bodo imeli večino, to pomeni, da bomo končali postopek razrešnice brez napredka na tem zelo pomembnem področju, kar bi bil za vse nas najslabši izid, ker se z veselim "še tako naprej" ne bomo mogli izogniti negativnemu poročilu Računskega sodišča o dodatku za pisarniško pomoč.
+<P>
+V zvezi z dodatkom za parlamentarne pomočnike, ki smo ga sprejeli skupaj, menimo, da ni rešitev za vse težave. Predlagam, da vsi preberete droben tisk. Nič še ni dorečeno, zato bi lagali - tudi javnosti - če bi na tej točki trdili, da bomo z dodatkom za parlamentarne pomočnike rešili vse težave.
+<P>
+Na koncu še pripomba v zvezi s proračunom Komisije. Komisar, šlo je za las in upam, da so vas kolegi povabili na pijačo, ker ste si jo zaslužili. Najlepša hvala za dobro sodelovanje.
+<SPEAKER ID="037" NAME="Paulo Casaca" LANGUAGE="PT">
+Gospod predsednik, podpredsednik Komisije, tudi jaz se zahvaljujem poročevalcu, vsem kolegom iz skupine socialdemokratov in tistim iz drugih skupin, ki so sodelovali pri tem postopku razrešnice in so zagotovili, da je bil zaključen. Prav v zvezi s tem vprašanjem glede Evropskega parlamenta imam nekaj pripomb. Menim, da so iz poročila o notranji reviziji razvidne resne pomanjkljivosti sistema plačil za parlamentarne pomočnike. Nedvomno je treba uvesti statut za pomočnike, medtem ko mora odgovornost za naloge finančnega poslovodenja v zvezi s plačili prevzeti uprava Evropskega parlamenta.
+<P>
+V naslednjem parlamentarnem mandatu ni dovolj, da bodo le poslanci imeli statut, ampak mora biti tudi delo njihovih pomočnikov urejeno in financirano v okviru evropskega institucionalnega okvira, pri čemer obstoj prostovoljnega pokojninskega sistema, financiranega iz javnih sredstev, ni več upravičen; poleg tega je treba bolj pojasniti tudi pravila v zvezi s potnimi stroški in drugimi splošnimi stroški. Svet mora glasovati za to zadevo ter preprečiti, da nepomembne ugodnosti funkcije ne bodo omejevale delovanja Evropskega parlamenta. Prav tako je bistveno, da se poslancem zagotovijo najboljši delovni pogoji, pri čemer mora biti to področje urejeno s predpisi o popolni preglednosti ter v skladu s splošnimi pravili, ki veljajo za družbo.
+<P>
+Pozivam zlasti kolege iz Evropske ljudske stranke (Krščanske demokrate) in Evropske demokrate, da ne ovirajo tega reformnega procesa. Bistveno je, da dosežemo soglasje v tem Parlamentu o statutu za pomočnike, ki je jasen in ureja vprašanje, zaradi katerega je naša institucija po nepotrebnem izgubila ugled. Zelo pomembno je, da to dosežemo, pri čemer bomo potrebovali podporo vseh.
+<SPEAKER ID="038" NAME="Jan Mulder" LANGUAGE="NL">
+Gospod predsednik, najprej se zahvaljujem vsem poročevalcem, ki so prispevali k temu postopku razrešnice. Dve minuti, ki jih imam na voljo, bom izkoristil za komentiranje poročila o razrešnici Komisiji, ki ga je sestavil gospod Jørgensen. Računsko sodišče je novembra lani objavilo poročilo, ki je bilo boljše od prejšnjih, zato ker so bili v njem tokrat navedeni odstotki. To morajo vključevati tudi prihodnja poročila. Ob objavi poročila se je zdelo, da je Komisija zmagala. Poročilo še nikoli ni bilo tako dobro. Računsko sodišče je odobrilo 44 % odhodkov Komisije. Menil sem, da si ne smemo zadovoljno odpočiti in reči: "še nikoli nismo bili tako uspešni". Ne, še več lahko storimo.
+<P>
+Presenetljivo je, da Komisija ni upoštevala priporočil Parlamenta v prejšnjih resolucijah o razrešnici. Kaj je bilo za Parlament pomembno v zadnjih treh letih? Nacionalne izjave. Medtem ko se je Komisija odločila, da ne bo upoštevala nacionalnih izjav. To ni sprejemljivo. Poleg tega je to vključeno v finančni perspektivi, medinstitucionalnem sporazumu. Na srečo je Komisija preklicala svoj ukrep, pri čemer bodo nacionalne izjave zdaj upoštevane.
+<P>
+Izpostavil bom še eno vprašanje. Komisarji ne smejo sopodpisati izjave generalnih direktorjev. Ne razumem, zakaj ne. Komisarji lahko sodelujejo na sestankih odbora za proračunski odbor, kot omogoča Komisija, ter poročajo o napredku, medtem ko jim ni dovoljeno podpisati ničesar s Parlamentom. Kakšna je pravna obrazložitev? Gospod predsednik, upamo, da bomo naslednje leto še uspešnejši. Skupina zavezništva liberalcev in demokratov za Evropo bo k temu sprejela konstruktiven pristop tako kot v preteklosti.
+<SPEAKER ID="039" NAME="Mogens Camre">
+v imenu skupine UEN. - (DA) Gospod predsednik, že devetič sodelujem pri postopku, s katerim Parlament odobri računovodske izkaze Komisije, Sveta, Parlamenta in drugih organov EU. To leto smo znova ugotovili velike nepravilnosti. Razmere so slabe zlasti v zvezi z upravljanjem denarja Komisije v okviru strukturnih skladov, pri čemer je bilo skoraj 4 milijarde EUR izplačanih nepravilno. Zato se bom osredotočil na to vprašanje.
+<P>
+Letos znova opozarjamo na napake in znova nam zagotavljajo, da se bodo stvari izboljšale. Takšna zagotovila prejmemo vsako leto, kljub temu se stanje ni izboljšalo, ker je celoten sistem podpore zapleten in nerazumen, pri čemer ga je nemogoče upravljati. V odboru za proračunski nadzor smo postavili ključno vprašanje: kakšen je učinek prerazporeditve velikih količin denarja med državami članicami na EU kot celoto? Navsezadnje v državah, ki prejemajo podporo, ni vidnega napredka. Naslednje leto bodo znava zaostajale in znova bodo prejele podporo. Od 15 starih držav članic EU Grčija, Španija, Portugalska in Irska vsako leto od pristopa k EU prejemajo podporo. Celotno neto razliko plačuje 11 starih držav članic. Seveda tudi vse nove države članice prejemajo podporo.
+<P>
+Države, ki izvajajo gospodarske reforme in delujejo učinkovito ter v katerih so državljani pripravljeni plačati visoke davke, morajo podpirati države, ki ne želijo reformirati zastarelih struktur ali zlasti zahtevati visoke davke. Politika podpore EU je v veliki meri neučinkovita. Zakaj bi države izvajale reforme, če lahko račun za neukrepanje izstavijo državljanom drugih držav? Prerazporeditev je nesmiselna. Veliko milijard konča v napačnih rokah, pri čemer je filozofija podpore zgrešena, ker nagrajuje države, ki ne izvajajo reform in kaznuje tiste, ki jih izvajajo, tj. države, ki jih EU potrebuje. EU bi lahko naloge opravljala s 15 % sedanjega proračuna. Poleg tega bi se izognili vsem tem primerom gospodarskega škandala. Zato bom glasoval proti sprejetju računovodskih izkazov Komisije.
+<P>
+Ob tej priložnosti se zahvaljujem kolegom iz odbora za proračunski nadzor za dobro opravljeno delo.
+<SPEAKER ID="040" NAME="Bart Staes">
+v imenu skupine Verts/ALE. - (NL) Gospod predsednik, komisar, gospe in gospodje, govoril bom o razrešnici Komisiji in Parlamentu.
+<P>
+V zvezi z razrešnico Komisiji se soočamo s težavami, ki so jih natančno razložili zlasti poročevalci: dejstvo, da je Računsko sodišče navedlo veliko težav v zvezi s strukturnimi skladi, pri čemer 12 %sredstev ne bi smelo biti izplačanih (tj. 4 milijarde EUR, kar je ogromna vsota), ter dejstvo v zvezi z zunanjimi odnosi, da je med drugim sodelovanje z Združenimi državami slabo in okorno. To so težave, o katerih smo razpravljali.
+<P>
+To je bila pomembna razrešnica, ker je zadnja pred volitvami. Naslednje leto nas čaka še en postopek razrešnice, vendar bo potekal v predvolilnem obdobju. Zato je bila to pomembna razrešnica, pri čemer smo morali vzpostaviti dialog. Vesel sem, da je bil ta dialog med skupinami zelo konstruktiven. Organizirali smo dve razpravi s komisarjem Špidlo in komisarko Hübner ter - gospod Jørgensen, gospod Mulder, gospa Gräßle in jaz - od Komisije pridobili informacije na podlagi skupnega pisma, kar je omogočilo, da je bil dosežen odličen rezultat. Iskreno upam, da bomo naslednje leto dosegli boljši rezultat.
+<P>
+V zvezi s Parlamentom se bom osredotočil na dva velika problema. Kar zadeva statut za pomočnike, imamo notranjo revizijo, ki jo izvaja notranji revizor. Čestitati mu moram za odličen dokument. Gospod predsednik, še vedno ne razumem, zakaj niste vi in predsedstvo objavili tega revizijskega poročila. Razlogi ostajajo skrivnost, kar ni potrebno, ker smo se mi kot Parlament vedno zavzemali za izvedbo te revizije ter preiskave o upravljanju dodatkov sekretariata. Prepričan sem, da moramo uvesti ta statut. Predložil sem številne druge predloge sprememb za okrepitev obstoječega besedila gospoda Pomesa Ruiza. To je treba doseči v sodelovanju s Komisijo ter zlasti Svetom, kajti če v bližnji prihodnosti Svet soočimo s problemom, ki ga ne reši, ne bomo dosegli to, za kar si prizadevamo. Zato je treba to doseči v sodelovanju s Komisijo in Svetom.
+<P>
+Zadnja točka je prostovoljni pokojninski sklad, v zvezi s katerim sem zelo zaskrbljen. Prvič, aktuarski primanjkljaj še naprej narašča, in drugič, želim, da se končno objavi seznam oseb, vključenih v prostovoljni pokojninski sklad.
+<SPEAKER ID="041" NAME="Umberto Guidoni">
+v imenu skupine GUE/NGL. - (IT) Gospod predsednik, gospe in gospodje, celoten Parlament in vsi moji kolegi so zadovoljni z napredkom na področju učinkovitejše uporabe odobrenih evropskih proračunskih sredstev. Vendar je treba hkrati izpostaviti nekatere velike nepravilnosti. Komisija mora začeti postopke za ugotavljanje kršitev in uvesti kazni za države članice, ki ne uporabljajo, ali le delno uporabljajo predpisov v zvezi s strukturnimi skladi. Države članice morajo zagotoviti vse informacije o popravkih in finančnih izterjavah, zlasti za prihodnje finančno poslovodenje.
+<P>
+Komisija mora Parlamentu predložiti oceno kakovosti letnih poročil posameznih držav za področja intervencije in različne politike. Najpomembnejše področje so strukturni skladi, pri čemer neustrezna poplačila znašajo 12 %.
+<P>
+Komisija mora pojasniti, kako bo zagotovila izterjavo tega denarja, zlasti v primerih, ko projekti niso bili izbrani v razpisnem postopku. Proti državam, ki ne izvajajo ustreznega nadzora, je treba uvesti hitrejše in učinkovitejše postopke ukinitve.
+<P>
+Menim, da so največja pomanjkljivost tega proračuna zunanji ukrepi, o katerih ni navedenih dovolj informacij, kljub temu da prejemajo podporo v okviru številnih evropskih dejavnosti. Komisija mora zagotoviti zlasti večjo preglednost projektov, namenjenih obnovi v Iraku leta 2006, ki jih je financirala Evropska unija, pri čemer mora na primer navesti projekte, njihov namen, predvidene stroške in zadevne agencije.
+<P>
+Te informacije so bile predložene prepozno, pri čemer menim, da še vedno niso dovolj izčrpne. Menim, da bi za tovrstno uporabo sredstev morali preučiti možnost financiranja v okviru Evropske agencije za obnovo, kot je Parlament poudaril v preteklosti.
+<P>
+Na kratko bom komentiral razrešnico Parlamentu. Prvič, poročevalec je izpostavil vprašanje v zvezi s tremi območji, za katere je treba okoljske stroške prišteti finančnim. Zadnja pripomba zadeva notranje poročilo o upravljanju odhodkov za pomočnike. Menim, da je bila odločitev v zvezi z zaupnostjo poročila napačna, ker so bili zato objavljeni številni časopisni članki, ki škodujejo preglednosti in delovanju Parlamenta. Zato pozivamo k objavi tega poročila o notranji reviziji.
+<SPEAKER ID="042" NAME="Jeffrey Titford">
+v imenu skupine IND/DEM. - Gospod predsednik, v tem omejenem času, ki ga imam na voljo, bom v zvezi s tem dolgim poročilom podal dve ugotovitvi. Prvič, vsebuje veliko praznih besed o tem, da morajo poslanci za nadomestila za parlamentarno pomoč poslancem predložiti ustrezna dokazila. Glede na nedavne dogodke je jasno, do so veljavni predpisi popolnoma neustrezni, saj jih veliko poslancev redno zlorablja. Prav tako je jasno, da se v zvezi s temi zlorabami ne bo ukrepalo, saj se sistem pred sklicem novega Parlamenta jeseni 2009 ne bo spremenil. Zato kritike poročila ne jemljem resno.
+<P>
+Drugič, poslance opozarjam na določbo 55 poročila, ki določa, da se lahko evropske politične stranke od leta 2008 dalje financirajo iz proračuna Parlamenta do višine 85 %. V nadaljevanju poudarja, da imajo stranke zaradi takega odstotka denarne pomoči Parlamenta večjo odgovornost za svoje dejavnosti. Z drugimi besedami, EU financira politične stranke ter nadzoruje njihove dejavnosti.
+<P>
+To še dodatno dokazuje, da zaradi vedno bolj totalitarne Evropske unije demokracija v Evropi propada. Kot demokrat obsojam to poročilo, medtem ko je lahko tiste, ki ga podpirajo, sram.
+<SPEAKER ID="043" NAME="Ashley Mote" AFFILIATION="NI">
+Gospod predsednik, prav je, da Parlament in Evropsko investicijsko banko, katerih računovodske izkaze danes pregledujemo, obvestimo, da je v zvezi z njihovimi 200 milijonov vrednimi ugodnimi posojili britanski javni radioteleviziji British Broadcasting Corporation (BBC) - zdaj znani kot Brussels Broadcasting Corporation - britanska policija uvedla kazensko preiskavo. BBC obtožujejo kršitve njegove kraljeve ustanovne listine Royal Charter, zlasti zaradi neuravnoteženega in neobjektivnega poročanja o dnevnih novicah.
+<P>
+Ne gre verjeti trditvam Evropske investicijske banke, da ta posojila niso vplivala na uredniško politiko BBC-ja. Rezultati dolgoletnih raziskav, vključno z raziskavami Lorda Pearsona, ki jih je izvedel na lastne stroške, so pokazali, da je Evropska investicijska banka dejansko kupila BBC v imenu EU. Zaradi tega višje vodstvo BBC zdaj meni, da je nad zakonom. Kmalu bo znano, ali se s tem strinja britanska kriminalistična policija Scotland Yard.
+<SPEAKER ID="044" NAME="Gabriele Stauner" AFFILIATION="PPE-DE">
+(DE) Gospod predsednik, gospe in gospodje, govoril bom o poročilu o razrešnici drugim institucijam, pri čemer se zahvaljujem poročevalcu gospodu Lundgrenu za sodelovanje.
+<P>
+V zvezi z institucijami poudarjam, da moramo za podelitev razrešnice najprej zagotoviti pravno podlago v okviru finančne uredbe. Sedanja praksa, da Parlament podeli razrešnico generalnemu sekretarju Sveta in drugim institucijam, ni določena v finančni uredbi in je v nasprotju s členom 274 Pogodbe.
+<P>
+Zlasti za občutljiva področja, kot je proračunski nadzor, sklicevanje na "neformalni sporazum" iz sedemdesetih let 20 stoletja ni več ustrezno ter je v nasprotju z načeloma pravne jasnosti in pravne resnice. Zato pozivamo Komisijo, da do septembra 2008 predloži ustrezen predlog za odpravo te pomanjkljivosti. Prav tako pozivam vse poslance, da podprejo naš predlog spremembe št. 1 v zvezi s podelitvijo razrešnice Svetu.
+<P>
+Zdaj bom znova spregovoril o odhodkih za skupno zunanjo in varnostno politiko. Nujno je, da za zagotavljanje čim večje preglednosti Svet v prihodnosti ne da prednosti upravnim odhodkom v škodo teh odhodkov.
+<P>
+Kot vsako leto se je tudi letos proračunski nadzor izkazal kot koristen na področju nepremičninskih politik institucij. Računsko sodišče na primer za gradnjo prizidka ni izvedlo javnega razpisa ali se pogajalo o sklenitvi pogodb, čeprav je pristojno za financiranje.
+<P>
+Znova opozarjam tudi na predpise v zvezi z javnimi naročili. Težko bomo državljanom povedali, da mora vsaka majhna občina za naročilo nad 200 000 EUR objaviti javni razpis na ravni EU, če institucije ne spoštujejo predpisov o javnih naročilih.
+<P>
+Dovolite mi, da na koncu povem nekaj besed o Računskem sodišču. Obžalujem, da mora biti v skladu z našim poročilom Računsko sodišče organizirano po vzoru Evropske centralne banke. Bojim se ponovne nacionalizacije te institucije, na katero države članice ne bi smele imeti političnega vpliva.
+<SPEAKER ID="045" NAME="Herbert Bösch" AFFILIATION="PSE">
+(DE) Gospod predsednik, najprej se zahvaljujem vsem, ki so sodelovali pri pripravi te pomembne razrešnice za leto 2006 in podpirali našega poročevalca.
+<P>
+To je morda najpomembnejša razrešnica v tem mandatu. Poznamo probleme in še vedno je čas, da jih rešimo. Posebej se zahvaljujemo Evropskemu računskemu sodišču, katerega poročila vsako leto dobivajo vse večjo veljavo. Dobro bi bilo, da bi se računsko sodišče občasno izognilo populizmu. Spomnimo se združenj kobilarn in golf klubov ter vsega, kar spada zraven. To so bile bolj politične ocene kot ocene računskega sodišča.
+<P>
+Zahvaljujem se Evropski komisiji, ki je tudi pod pritiskom neomajnega poročevalca na koncu pogajanj z nami dosegla dogovor o nadaljnjem ukrepanju. Komisar Kallas je že omenil naše načrte za prihodnje mesece. Nacionalne izjave držav članic so pomembne. Kot vidimo Sveta danes ni tukaj, pri čemer ga ne zanima, kako se porabi denar davkoplačevalcev, zato se mora s tem ukvarjati mi.
+<P>
+Napredovali bomo na področju strukturnih politik. Komisar Kallas, še naprej bomo imeli težave na področju zunanje politike. Že prvič smo poudarili, da zunanja politika ni ustrezno nadzorovana, čeprav za njo namenjamo milijarde EUR. Na področju mednarodnih financ je običajno, da se glasovalne pravice dodelijo glede na obveznosti o plačilu prispevkov. Če na primer Evropska unija prispeva več kot 40 % za obnovo Iraka, potem pričakujem, da bomo imeli več kot 40 % pravic do sodelovanja in soodločanja. Do uresničitve tega je še zelo daleč, pri čemer je treba za to še veliko narediti.
+<P>
+Danes bomo glasovali o dobrih poročilih, ki jih moramo podpreti.
+<SPEAKER ID="046" NAME="Kyösti Virrankoski" AFFILIATION="ALDE">
+(FI) Gospod predsednik, najprej se zahvaljujem poročevalcem in predsedniku odbora za proračunski nadzor. Pred nami je 30 poročil o razrešnici za leto 2006. Najbolj pomembno je poročilo Komisije, ki zadeva 97 % proračuna EU. Preostala zadevajo druge institucije EU in posamezne agencije.
+<P>
+Menim, da je treba izboljšati način, na katerega Parlament obravnava vprašanje razrešnice. Odbor za proračunski nadzor ne more delovati kot računsko sodišče, še manj pa kot računovodsko podjetje. Z vidika osebja je neizvedljivo, da bi podrobno obravnaval upravljanje in izkaze 30 organov. Parlament mora zaupati strokovnjakom in mnenju uradnih organov, zlasti Evropskemu računskemu sodišču, organom za notranje spremljanje in Evropskemu uradu za boj proti goljufijam.
+<P>
+Tudi najstrožji in najpodrobnejši pregled izkazov in upravljanja je le na videz točen, pri čemer rezultat ni zanesljivejši. Med načinom obravnavanja razrešnice in številom predloženih poročil ni neposredne povezave. Nasprotno, razrešnica, ki jo podeli Parlament, še ni ustrezno zagotovilo za natančno obravnavo računovodskih izkazov in upravljanja.
+<P>
+Če želi Parlament dejansko okrepiti svojo vlogo v okviru postopka razrešnice, mora spremeniti svoje delovanje. Drugače bo odbor za proračunski nadzor preobremenjen z delom.
+<SPEAKER ID="047" NAME="Janusz Wojciechowski" AFFILIATION="UEN">
+(PL) Gospod predsednik, poročilo gospoda Jørgensena pravilno opozarja - v skladu z mnenjem računskega sodišča - na problem v zvezi s financiranjem skupne kmetijske politike, pri čemer se nekateri upravičenci ne ukvarjajo s kmetijstvom. Nič ni narobe, da golf klubi, kriket klubi, šole jahanja in rekreacijski parki uspešno poslujejo, vendar ne na podlagi sredstev skupne kmetijske politike.
+<P>
+Popoldan bomo v tem Parlamentu razpravljali o krizi s hrano in povišanju cen hrane, pri čemer je eden od razlogov za to krizo zagotovo dejstvo, da se sredstva EU namesto za podporo kmetijstvu namenjajo za podporo popolnoma drugim dejavnostim, ki teh sredstev ne potrebujejo. Zato v celoti podpiram sklepe iz člena 99 in člena 100 poročila gospoda Jørgensena, ki opozarjajo, da je treba spremeniti financiranje skupne kmetijske politike, da bodo sredstva dodeljena dejanskim kmetom, ki zemljo uporabljajo za kmetijske namene, pri čemer je treba te spremembe uvesti čim prej.
+<SPEAKER ID="048" NAME="Paul van Buitenen" AFFILIATION="Verts/ALE">
+(NL) Najbolj učeni človek vseh časov, Einstein, je rekel, da svet ni nevaren zaradi ljudi, ki so zlobni, ampak zaradi tistih, ki v zvezi s tem ne naredijo ničesar. Tako je tudi v tem parlamentu. Že desetletja vemo za nepravilnosti v zvezi z dodatki za pomoč poslancem, potnimi stroški, nadomestili splošnih stroškov, dnevnicami, sredstvi za gostujoče skupine in sredstvi za politične skupine. Upam, da bo Parlament v zvezi s tem ukrepal pred volitvami leta 2009 in da to za razliko od prejšnjih nekaj desetletij ne bodo le prazne obljube. V pričakovanju tega menim, da bi morali podelitev razrešnice preložiti. Menim, da volivci podelitve razrešnice Parlamentu ne bi odobravali.
+<SPEAKER ID="049" NAME="Esko Seppänen" AFFILIATION="GUE/NGL">
+(FI) Gospod predsednik, pod vodstvom Siima Kallasa, podpredsednika Evropske komisije, je bilo opravljeno odlično delo za zagotovitev, da bodo računovodski izkazi EU bolj odprti in preglednejši. Posebej je treba pohvaliti poziv k objavi enotnih plačil. Na Finskem državne subvencije kljub temu znašajo dvakrat več od pomoči EU. Na žalost podatki o prejemnikih pomoči EU ne odražajo dejanskega stanja o enotnih plačilih.
+<P>
+Komisija je pod pritiskom odbora za proračunski nadzor izboljšala pregled računovodskih izkazov in obljubila, da si bo bolj prizadevala za izterjavo neupravičeno izplačanih zneskov. Prav tako so zdaj na voljo kvalitetnejše informacije o financiranju v okviru zunanjih ukrepov, za kar so zaslužni poročevalci in poročevalci v senci.
+<P>
+Upam, da bosta v prihodnosti zagotovljena strožji pristop k spremljanju vseevropskih političnih strank ter skladnost s pravili o teh strankah, pri čemer lahko na podlagi ravnanja Parlamenta ugotovimo, da to zdaj ni vedno zagotovljeno.
+<SPEAKER ID="050" NAME="Jens-Peter Bonde" AFFILIATION="IND/DEM">
+(DA) Gospod predsednik, v EU smo dosegli velik napredek na področju odprtosti in boja proti goljufijam. Ko sem bil leta 1979 prvič izvoljen, je imel predsednik skupine glavno vlogo pri zapravljanju denarja. Privoščil si je limuzino s šoferjem, ki jo je plačal Parlament, ter nato s sredstvi držav članic še potovanje v prvem razredu za isto pot, povrh pa še dodatek. Zdaj ima predsednik vodilno vlogo pri reševanju teh problemov. Vendar nas čaka še veliko dela, pri čemer je odločitev večine, da se poročilo o notranji reviziji ne objavi, velik korak nazaj. Kako lahko nadzorujemo druge, če si ne upamo rešiti svojih problemov. Velike skupine imajo veliko odgovornost, saj lahko volilna udeležba na naslednjih evropskih parlamentarnih volitvah znaša manj kot 40 %, kar bi resno ogrozilo legitimnost volitev.
+<P>
+Upal sem, da bom lahko nekoč glasoval za letne računovodske izkaze, ker ne bo več odprtih vprašanj. Vendar velike skupine znova predlagajo, da odobrimo računovodske izkaze Komisije, čeprav še vedno nimamo popolnega dostopa do njih, da bi jih lahko pregledali. Kako bi revizor ocenil izkaze, če ne bi imel dostopa do vseh prilog? Računsko sodišče je v zadnjih 14 letih vsakič izjavilo, da ne more potrditi pravilnosti poslovnih dogodkov, zato bom na žalost že 29. leto po vrsti glasoval proti odobritvi.
+<P>
+Zahvaljujem se kolegom poslancem iz odbora za proračunski nadzor in drugim v Parlamentu za njihovo dolgoletno prizadevanje za odpravo nepravilnosti v EU. Ko sem začel delati v Parlamentu, sem med obravnavo proračuna srečal človeka, znanega pod imenom "Posneto mleko". Prejel je 1,3 milijone danskih kron, pri čemer je bil največji prejemnik sredstev EU na Danskem. Na voljo ni bilo niti statističnih podatkov o višini sredstev, dodeljenih največjim prejemnikom. Naslednje leto bodo vsi prejemniki kmetijske podpore objavljeni v internetu. Pred štirimi je bilo delo delovnih skupin Komisije velika skrivnost. Zahvaljujoč našim skupnim naporom bomo zdaj lahko v internetu preverili, kdo so svetovalci. Poleg tega nam je gospod Kallas v okviru Komisije nudil dobro podporo, za kar se mu zahvaljujem. Pogrešal bom sodelavce, ko bom 9. maja zapustil Parlament. Hvala lepa, gospe in gospodje. Veliko smo dosegli, ampak ne dovolj. Vendar prepričan sem, da boste delo nadaljevali.
+<SPEAKER ID="051" NAME="Daniel Hannan" AFFILIATION="NI">
+Gospod predsednik, Friedrich Hayek je leta 1944 podal daljnosežno ugotovitev, da je dodelitev posebnih tehničnih nalog različnim organom sicer nekaj običajnega, ampak hkrati prvi korak, s katerim se demokracija postopoma odpove svojim pristojnostim.
+<P>
+Kolegi se morajo vprašati, v kolikšni meri se izvaja demokratični nadzor nad različnimi evropskimi agencijami. Mogoče bi jih lahko obiskali v okviru odbora ali podali splošna mnenja o tem, katere so njihove pristojnosti, vendar je na splošno vloga tega Parlamenta, da vsako leto in brezpogojno glasuje o potrebnih sredstvih. Tako Evropsko unijo vodi stalni aparat.
+<P>
+Če smo odkriti, ni edina. V veliko državah članicah, tudi v moji, poteka podoben proces, pri čemer so izvoljeni predstavniki predali svoje pristojnosti. Vendar je v zvezi z EU nenavadno to, da ti različni organi nimajo prave pravne podlage. Drži, da bi jo dobili z evropsko ustavo. Vendar so to ustavo volivci zavrnili, na kar je treba ta Parlament večkrat spomniti. Zato je delovanje teh agencij, tj. agencije za človekove pravice, obrambne agencije, agencije Frontex itd., v najboljšem primeru nepravilno in v najslabšem nezakonito.
+<P>
+Če želite urediti njihov status ter jim določiti ustrezen mandat, potem prepustite ljudem, da o ustavi odločajo na referendumu, kot ste obljubili. Pactio Olisipio censenda est.
+<SPEAKER ID="052" NAME="Esther De Lange" AFFILIATION="PPE-DE">
+(NL) Gospod predsednik, danes smo že veliko slišali o razrešnici Parlamentu. Zato bom le pripomnila, da kot nekdanja pomočnica upam, da bo statut za pomočnike, o katerem smo že podrobno razpravljali, končno uveden, kajti če smo iskreni, veljavni predpisi omogočajo preveč manevrskega prostora. Prav to je težava. Veliko poslancev ravna ustrezno, vendar trenutno ni nobenega zagotovila. Predpise je treba poostriti, pri čemer bodo morali oddelki Parlamenta skladnejše ukrepati v primerih nepravilne uporabe predpisov. Na tem področju so tudi v preteklosti naši oddelki včasih naredili napake.
+<P>
+V nadaljevanju se bom osredotočila na podelitev razrešnice Komisiji ter glavno težavo, s katero se spopadamo vsako leto, tj. težak položaj med evropsko in nacionalno ravnjo, v katerem smo se znašli zato, ker je za evropske odhodke v celoti odgovorna Komisija, medtem ko 80 % teh odhodkov upravljajo države članice. Rečeno je že bilo, da je bil dosežen pozitiven napredek, na primer na področju kmetijstva. Vendar lahko to težavo rešimo le z izjavami o nacionalnem upravljanju, ki so jih štiri države članice že predložile. V poročilu gospoda Jørgensena, Parlament jasno določa, da so v tem smislu veljavni letni povzetki le začeten previden korak k tem izjavam o upravljanju. Vendar se prav tako zavedam, da so za izvajanje nacionalnih izjav potrebne spremembe medinstitucionalnega sporazuma in finančne uredbe. Na splošno sem trenutno zadovoljna z obljubo, ki jo je Komisija dala prejšnji mesec, da bo tudi ostale države članice spodbudila k predložitvi nacionalnih izjav. Komisar, namenoma sem rekla "trenutno zadovoljna", ker je treba počakati, ali bodo države dejansko predložile izjave, pri čemer bo moja skupina spremljala, ali bo Komisija v prihodnjih mesecih z dejanskimi ukrepi izpolnila to obljubo. Poleg tega današnja odsotnost Sveta kaže, da je treba še veliko doseči. Te sklepe bomo preučili, če bomo tudi naslednje leto sodelovali pri obravnavi razrešnice za leto 2007. Ta zadeva torej še ni končana.
+<SPEAKER ID="053" NAME="Edit Herczog" AFFILIATION="PSE">
+(HU) Hvala, gospod predsednik. Govorila bom o poročilu v zvezi z evropskimi agencijami. Vsako leto Evropski parlament na podlagi dela, ki ga opravita Evropsko računsko sodišče in Evropski urad za boj proti goljufijam, pregleda upravljanje evropskih agencij. Zaradi našega skupnega, natančnega, analitičnega in pripravljalnega dela smo zdaj pripravljeni sprejeti odločitev o upravljanju agencij Skupnosti v letu 2006, pri čemer lahko s soglasjem Evropskega računskega sodišča predlagamo podelitev razrešnice agencijam. To ne pomeni, da pri upravljanju nismo našli nobenih napak, ampak, da nismo našli dovolj resnih napak, ki bi onemogočale podelitev razrešnice. Prav tako poudarjam, da so politične skupine z veliko večino že glasovale za, pri čemer zdaj na plenarnem zasedanju predlagam, da sprejmemo delo agencij, čeprav se poročevalec v celoti ne strinja s poročilom. Hvala za vašo pozornost.
+<SPEAKER ID="054" NAME="Margarita Starkevičiūt" AFFILIATION="ALDE">
+(LT) Gospod predsednik, vse od začetka mandata v imenu skupine zavezništva liberalcev in demokratov za Evropo analiziram rezultate dela agencij EU. Poudarjam, da se je v tem letu število agencij skoraj podvojilo. Kljub nekaterim kritičnim pripombam poročevalca, ki jih je izpostavil v svojem govoru, menim, da je treba v primerjavi z lanskim letom omeniti nekatere pozitivne spremembe v primerjavi z lanskim letom. Zaradi izvajanja predloga Parlamenta, da naj delo agencij ocenijo ustrezni odbori, sta se povečali preglednost in demokratična odgovornost.
+<P>
+Kljub temu nekatere težave ostajajo. V zvezi s tem moramo določiti položaj dejavnosti agencij v okviru sistema upravljanja EU. Kot sem že omenila, se je število agencij zelo povečalo, pri čemer smo za to krivi mi; celo Parlament včasih meni, da se na ta način posredno povečuje birokracija. Vendar mogoče opozarja, da je treba pregledati sistem upravljanja EU, vključno s sistemom upravljanja Evropske komisije, zlasti sistem vodenja in upravljanja. Trenutno se izvajajo številni projekti, katerih namen je izboljšati sistem. Zdi se, da moramo razmisliti o bolj koreniti reformi, ki bi prinesla pozitivne rezultate ter prispevala k večji preglednosti dela agencij in Komisije.
+<SPEAKER ID="055" NAME="Zbigniew Krzysztof Kuźmiuk" AFFILIATION="UEN">
+(PL) Gospod predsednik, komisar, v tej razpravi želim opozoriti na tri zadeve.
+<P>
+Računsko sodišče je sicer potrdilo, da finančno poročilo Evropskih skupnosti v splošnem prikazuje dejansko finančno stanje konec decembra 2006, pri čemer niso bile ugotovljene nobene očitne nepravilnosti v zvezi s sredstvi in odhodki, vendar je ugotovilo veliko napak v zvezi z navedenimi zneski v računovodskih knjigah in poročilih, ki so jih predložile države članice. Zlasti zaskrbljujoče je, da se nekatere nepravilnosti kljub kritičnim pripombam računskega sodišča in Evropskega parlamenta ponavljajo vsako leto.
+<P>
+Prav tako zaskrbljujoče je, da se vedno bolj povečujejo neporavnane proračunske obveznosti, zlasti kar zadeva stare države članice.
+<P>
+Tretjič, v zvezi s temi pripombami naj povem, da sem na splošno zadovoljen z izboljšavami na področju odhodkov za skupno kmetijsko politiko, ki so bile dosežene zlasti z uporabo sistema AJAX, ki znatno zmanjša tveganje neustreznih odhodkov.
+<SPEAKER ID="056" NAME="Antonio De Blasio" AFFILIATION="PPE-DE">
+(HU) Hvala, gospod predsednik. Gospe in gospodje, Evropska unija je leta 2006 za strukturne sklade namenila 39 % proračuna, tj. 38,9 milijard EUR. Letno poročilo Evropskega računskega sodišča navaja, da je Evropska komisija v okviru daljnosežnega nadzora sprejela številne ukrepe v zvezi z uporabo strukturnih in kohezijskih skladov. Medtem ko se je finančna absorpcija vidno izboljšala, poročilo opozarja, da leta 2006 vsaj 12 % sredstev, dodeljenih za strukturne projekte, ni bilo mogoče izterjati. To znaša približno 4 milijarde EUR, poleg tega je bilo 20 % projektov izvedenih nepravilno.
+<P>
+Že več let imamo številne težave z večplastnim in deljenim upravljanjem strukturnih skladov. Vzrok za razmeroma velik delež ugotovljenih nepravilnosti in nepravilnih nadomestil so zlasti neučinkoviti kontrolni sistemi držav članic in nadzorni sistemi, ki na njih temeljijo. Menim, da je največja težava, da nimamo enotnega modela vrednotenja in sistema meril ali primerjalnih analiz, pri čemer nimamo učinkovitega načina vrednotenja projektov.
+<P>
+Čeprav so strukturni skladi zelo pomemben vir sredstev za skupni razvoj, lahko zagotovimo zmanjšanje števila zlorab skupne blagajne le, če si bodo države članice in Evropska komisija skupaj in usklajeno prizadevale za zmanjšanje nezakonite porabe denarja. Izboljšati in standardizirati je treba tudi nadzorne sisteme držav članic. Poleg tega je pomembno, da Komisija izboljša učinkovitost nadzora nad uporabo strukturnih sredstev, pri čemer mora vzpostaviti postopke za prilagoditev in začasno opustitev ter razviti nov sistem poročanja držav članic ob upoštevanju, da 40 % revizij Komisije ni brez nepravilnosti. Glede na povedano, naša delegacija predlaga podelitev razrešnice. Hvala za vašo pozornost.
+<SPEAKER ID="057" NAME="Inés Ayala Sender" AFFILIATION="PSE">
+(ES) Gospod predsednik, zadovoljni smo, da se je tudi to leto preglednost v zvezi z računovodskimi izkazi EU izboljšala, kljub temu, da nam računsko sodišče še vedno pomaga pri bolj temeljnih vidikih sistema. Vendar je treba priznati, da je bil na podlagi težavnega, a zelo konstruktivnega dialoga s Komisijo, pri čemer moramo priznati zlasti napore komisarjev za regionalni razvoj in zaposlovanje, dosežen napredek pri izboljšanju spremljanja vseh vidikov v zvezi z zaposlovanjem in strukturnimi skladi.
+<P>
+Enakega sodelovanja si želimo tudi s komisarko za zunanje odnose, pri čemer upamo, da bo prispevala k tem naporom ali pri njih sodelovala.
+<P>
+V zvezi z odborom regij smo zelo zadovoljni, ker smo dosegli pomemben napredek, pri čemer ob nadaljnjem spremljanju in vrednotenju zadev menimo, da je bil dosežen velik napredek.
+<P>
+V zvezi z računskim sodiščem si želimo večje preglednosti na področju njegove izjave o interesih, medtem ko se v zvezi s Svetom strinjamo, da je treba zagotoviti učinkovitejšo in preglednejšo notranjo revizijo, vendar ne s povečanjem birokratskih ovir, kot to predlaga predloženi predlog spremembe.
+<SPEAKER ID="058" NAME="Chris Davies" AFFILIATION="ALDE">
+Gospod predsednik, imam nekaj vprašanj. Zakaj organi Parlamenta, ki je zavezan odprtosti in preglednosti, hranijo tajna, sramotna poročila, ki razkrivajo nepošteno ravnanje poslancev? Zakaj poslanci niso odgovorni za svojo porabo splošnih stroškov? Koliko denarja se steka v zasebne žepe? Zakaj se ne objavijo imena 407 poslancev, vključno z mojim, ki imajo koristi od 27 000 EUR, ki jih vsako leto vsak prispeva v prostovoljni pokojninski sklad? Zakaj ne izvajamo nadzora nad tistimi poslanci, ki vsako leto poneverijo skoraj 14 000 EUR, pri čemer v ta pokojninski sklad vlagajo denar iz javne blagajne? Kaj, razen pohlepa, preprečuje tistim, od katerih pričakujemo, da nas bodo usmerjali - predsedstvu in včasih celo konferenci predsednikov - da uvedejo resnične reforme, ki bi jih bilo treba uvesti že veliko prej. Ta neuspeh sramoti nas in ta Parlament.
+<SPEAKER ID="059" NAME="Astrid Lulling" AFFILIATION="PPE-DE">
+(FR) Gospod predsednik, gospodu Daviesu želim le reči, da je on tisti, ki "sramoti ta parlament".
+<P>
+Kljub temu, gospod predsednik, bom glasovala za razrešnico 2006. Žal so v priloženem predlogu resolucije vprašanja in pripombe, ki so samoumevni (odstavek 58) ali pa nepravilni, kot so odstavki v zvezi s prostovoljnim pokojninskim skladom.
+<P>
+Kljub stalnemu prizadevanju, da bi predsednik sklada zagotavljal pravilne informacije, se še naprej ponavljajo laži o aktuarskem primanjkljaju sklada. Zaradi zglednega upravljanja sklad zdaj lahko zagotavlja pridobljene pravice do leta 2060. Po mojem bomo mnogi od nas do takrat že mrtvi!
+<P>
+V zvezi s posodobitvijo aktuarskega stanja (odstavek 71) lahko rečem, da obstaja, vendar bo najprej predstavljena upravnemu odboru sklada. V zvezi s tem naj opozorim, da je Parlament zapravil 36 000 EUR za pripravo tako imenovanega neodvisnega aktuarskega poročila. Kje je? Kakšni so njegovi sklepi? Kot vem, niso nič drugačni od sklepov, ki so jih navedli aktuarji sklada.
+<P>
+Pri odstavkih 72 in 73 je treba ločiti med željami nekaterih članov Odbora za proračunski nadzor in realnostjo, ki izhaja iz statuta poslancev. Trditev, da niti sedanji poslanci Evropskega parlamenta niti drugi zavarovanci ne morejo še naprej prispevati v sklad, je preprosto nezdružljiva s členom 27 statuta. Na srečo tukaj ne štejejo želje manjšine, čeprav gre za odločanje v okviru resolucij, ampak statut.
+<P>
+
+<P>
+Delovna skupina predsedstva za statut poslancev, katere članica sem, je opravila svoje delo in pripravila ustrezne ukrepe, ne v skladu z željami, izraženimi v resolucijah, ampak v skladu s členom 27 statuta poslancev, objavljenega 7. oktobra 2005 v Uradnem listu.
+<SPEAKER ID="060" NAME="Bogusław Liberadzki" AFFILIATION="PSE">
+(PL) Gospod predsednik, dodal bi svoj glas tistim, ki so podprli razrešnico za leto 2006. Komisija in komisarji so se odlikovali z visoko in stalno naraščajočo ravnijo sodelovanja. Velika zahvala gre Računskemu sodišču. Preprosto rečeno, sodišče je dobro opravilo svoje delo.
+<P>
+Ocenili smo uresničevanje ciljev v EU skupaj z upravljanjem virov. To je prav tako zelo pozitiven znak. Zelo poudarjam, da Parlament dejansko sodeluje pri postopku razrešnic s presojanjem zahtevkov in prek posameznih odborov, ki obravnavajo določena področja. Zahvaljujem se predsedniku Odbora za proračunski nadzor, gospodu Böschu, za njegovo celotno delo in potrpljenje, ter tudi poročevalcem, gospodu Jørgensenu, gospodu Pomés Ruizu in gospodu Stubbu.
+<P>
+Izredno težko se je izogniti nepravilnostim, še pomembneje pa jih je odkriti in jih preprečiti. Uspešno smo opravili to nalogo.
+<SPEAKER ID="061" NAME="Péter Olajos" AFFILIATION="PPE-DE">
+(HU) Hvala, gospod predsednik. Kot poročevalec v senci za mnenje ENVI (Odbor za okolje, javno zdravje in varnost hrane) o izjemah za leto 2006 se zahvaljujem Jutti Haug in poročevalcu za zelo dobro delo. Menim, da je delo štirih agencij, ki smo jih obravnavali, izredno pomembno, da je njihovo delo brez dvoma velika pomoč Evropskemu parlamentu in različnim organom EU ter da se tako izboljšuje kakovost življenja državljanov EU.
+<P>
+Evropski center za preprečevanje in nadziranje bolezni ima pomembno vlogo pri oblikovanju stališč o nadziranju bolezni ter o tveganju za nove in nastajajoče nalezljive bolezni. Vesel sem tudi, da je bila Madžarska letos na prvem mestu glede preprečevanja bolezni, saj je bilo pri nas število oseb, okuženih z boleznimi, za katere se je izvajala akcija cepljenja, najnižje.
+<P>
+Delo Evropske agencije za okolje je nepogrešljivo pri zbiranju in primerjavi informacij o varstvu okolja, medtem ko ima Evropska agencija za zdravila pomembno vlogo pri varstvu javnega zdravja in zdravja živali. Menim, da je sodelovanje agencije pri razvoju novih zdravil izredno pomembno. Evropska agencija za varnost hrane zagotavlja nepogrešljivo podporo na področju zdravja živali in varstva rastlin.
+<P>
+Pomembno je, da so vse agencije prerazporedile razpoložljiva letna proračunska sredstva. Kot poudarja poročevalec, je razlog v zapletenosti nalog. Pri prihodnjem načrtovanju bi bilo dobro to bolj poudariti. Pozdravljam predloge poročevalca o pomenu notranjega nadzora in potrebi, da se ta okrepi. Končno želim opozoriti na pomen gradiva odbora, ki pojasnjuje vlogo agencij. Agencije imajo nujno vlogo, vendar je treba zaradi preglednosti in učinkovitosti pojasniti njihov položaj pri upravljanju Unije. Hvala.
+<SPEAKER ID="062" NAME="Szabolcs Fazakas" AFFILIATION="PSE">
+(HU) Gospod predsednik, hvala za besedo. Prispeli smo do konca dolgega in napetega postopka ter do dolgo pričakovanega današnjega glasovanja o razrešnici 2006, ki se lahko zasluženo obravnava kot znamenit dan in mejnik v zgodovini Evropskega parlamenta. Znamenit dan, ker je to prvič, da nas je Evropsko računsko sodišče soočilo z 12-odstotno stopnjo napak za strukturne sklade, kar so senzacij željni tabloidi seveda servirali kot štiri milijarde manjkajočih eurov. Odbor za proračunski nadzor, ki je za to odgovoren, je deloval ob popolnem upoštevanju svojih političnih in poklicnih odgovornosti s pomočjo gospoda Jørgensena, danskega poročevalca. Njegov cilj ni bil povzročiti škandal ali narediti senzacijo z nepredvidljivimi posledicami, ampak uporabiti načela preglednega razkritja in pripraviti predloge, ki bi zagotovili preprečevanje takšnih težav v prihodnosti. Pri tem nam je zelo pomagal podpredsednik Siim Kallas, ki se mu še posebno zahvaljujem, in prepričan sem, da bomo v prihodnosti najverjetneje lahko rešili vsa takšna vprašanja. Hvala.
+<SPEAKER ID="063" NAME="Pierre Pribetich" AFFILIATION="PSE">
+(FR) Gospod predsednik, gospe in gospodje, omenil bi pomemben vidik v zvezi z razrešnico, to je ocena ukrepov z vzorčenjem.
+<P>
+Ko sem pripravljal delovni dokument o upravljanju programa CARDS za pomoč Balkanu s strani Komisije, v okviru razrešnice, je Računsko sodišče lahko revidiralo le 2,32 % delovanja, da bi ocenilo metode upravljanja, ki jih je Evropska unija uporabila za zunanje ukrepe v tej evropski regiji. Ena od posledic majhnega vzorca je bila, da Računsko sodišče ni moglo analizirati učinka zunanjih ukrepov za Črno goro, ker od 256 financiranih ukrepov niti eden ni bil preučen.
+<P>
+Kako se lahko v takšnih okoliščinah učinki dejansko izmerijo? Kakšno znanstveno in finančno zanesljivost naj pripišemo tem ocenjevalnim poročilom? Čeprav se s statističnega vidika lahko majhni vzorci uporabljajo za oceno vedenja sistemov, morajo biti vzorci vseeno reprezentativni, kar pa se ni zgodilo v primeru proračunskih sredstev za finančne ukrepe v Črni gori v okviru programa CARDS. Na splošno bi izboljšanje metod Računskega sodišča za analizo vzorcev, s katerimi bi se bolje opredelila učinkovitost sredstev iz našega proračuna, za evropske davkoplačevalce pomenilo pridobitev.
+<SPEAKER ID="064" NAME="Monica Maria Iacob-Ridzi" AFFILIATION="PPE-DE">
+(RO) Poudarila bi dve vprašanji, za kateri menim, da sta zelo pomembni v zvezi z razrešnico Evropske komisije.
+<P>
+Prvo vprašanje se nanaša na sodelovanje držav članic pri izvajanju evropskega proračuna. Čeprav se postopek skupnega upravljanja Komisije in držav članic uporablja za 80 % evropskega proračuna, menim, da je treba uvesti nove ukrepe za povečanje sodelovanja na vseh stopnjah proračunskega postopka.
+<P>
+V zvezi z nadzorom podpiram uvedbo nacionalnih izjav, ki bi jih potrdila računska sodišča posameznih držav ter bi prisilile vlade in plačilne agencije, da prevzamejo odgovornost za pravilno in objektivno dodelitev sredstev Skupnosti.
+<P>
+Vseeno je treba ukrepe opustitve vseh plačil v primeru odkritja pomanjkljivosti uporabljati zelo pazljivo in le če se pri upravljanju evropskih sredstev ugotovijo hude težave.
+<P>
+Zaskrbljujoče nizke stopnje absorpcije v novih državah članicah so drug izredno pomemben vidik proračunske razrešnice. Neobičajno je, da imajo vse nove države članice za 30 % manjše stopnje absorpcije od povprečnih stopenj, pričakovanih na začetku.
+<P>
+Po mojem mnenju to ne kaže na njihovo nesposobnost črpanja evropskih sredstev, ampak na morebitno čezmerno birokracijo evropskih institucij.
+<SPEAKER ID="065" NAME="Richard Corbett" AFFILIATION="PSE">
+Gospod predsednik, znašel sem se v zelo neobičajnem položaju, saj se delno strinjam s tem, kar je malo prej povedal gospod Hannan, ko je izrazil zaskrbljenost o širjenju agencij. Zdi se, da ustanavljamo agencije bolj v skladu z željo vsake države članice, da bi imela eno na svojem ozemlju, in jih delimo kot konfete po vsej Uniji, ne pa v skladu z dejansko in pravo potrebo po njih.
+<P>
+Če se bo ta trend nadaljeval, bo zagotovo povzročil upravljanje s strani agencij na račun, iskreno rečeno, Komisije, ki je naš izvršilni organ in je odgovorna Parlamentu veliko bolj neposredno kot agencije, čeprav imamo več sredstev za njihov nadzor, kot priznava gospod Hannan.
+<P>
+Moje strinjanje z njim pa se seveda konča, ko začne kot običajno pretiravati in trditi, da so bile te agencije ustanovljene nezakonito. To je seveda popoln nesmisel. Vse so bile ustanovljene na podlagi veljavnih pogodb, s pravilno in ustrezno pravno podlago. Če je bilo to pametno, je drugo vprašanje in zagotovo moramo biti zelo previdni, preden v prihodnosti ustanovimo nove agencije.
+<SPEAKER ID="066" NAME="Costas Botopoulos" AFFILIATION="PSE">
+(EL) Gospod predsednik, Evropski parlament je politični organ in menim, da moramo vprašanja, o katerih razpravljamo, obravnavati politično. Ukrep, ki bi moral povezati naše dejavnosti, nam po mojem mnenju prikazuje dve stvari. Navedel bom primera iz naših razprav. V prvem primeru gre za neodvisne organe ali agencije. Seveda se postavlja vprašanje velikega širjenja vseh teh agencij, vendar ni mogoče reči, da decentralizacija neodvisnih agencij ni posebno koristna. Ali bomo zato, ker imamo težavo zaradi velikega širjenja, odklonili vse neodvisne agencije? To seveda ne bi bilo mogoče.
+<P>
+Drug primer se nanaša na nizkotno vprašanje plač naših kolegov. To seveda je težava in tako smo tudi povedali v odboru. Vendar obstaja velika razlika med tem, da rečemo, da obstaja težava in da Parlamentu celo leto ne priznamo izvzetja, ter tudi med tem, da dajemo zelo populistične pripombe, kot na primer, da smo vsi odgovorni, in da trdimo, da ni preglednosti. Kako ni preglednosti? Člani odbora smo videli poročilo.
+<SPEAKER ID="067" NAME="Siim Kallas">
+podpredsednik Komisije. - Gospod predsednik, zahvaljujem se poslancem, poročevalcu in članom Odbora za proračunski nadzor.
+<P>
+Razprava o razrešnici je bila letos zelo intenzivna in Komisija se je večkrat zavezala, da bo upoštevala ugotovitve in priporočila Parlamenta. S tem intenzivnim procesom bomo nadaljevali maja, ko bo v Odboru za proračunski nadzor potekala razprava o naših načrtih za prihodnje leto.
+<P>
+To je intenziven proces in Parlamentu zagotavljam, da svoje zaveze jemljemo zelo resno ter da nadaljujemo s skupnimi predlogi in zamislimi o večji odgovornosti, sodelovanju z državami članicami in večji odgovornosti držav članic pri vprašanjih deljenega upravljanja. To je naš skupni pristop in resno bomo delali na vseh teh akcijskih načrtih in predlogih.
+<P>
+Obstajajo različne vrste agencij. Prvič, imamo izvršilne agencije, za katere je jasno odgovorna Komisija in za katere damo razrešnico Komisiji. Imamo nekaj izvršilnih agencij, vendar smo se odločili za moratorij na ustanavljanje novih izvršilnih agencij.
+<P>
+Kakšne so težave v zvezi s tradicionalnimi agencijami? Problem upravljanja je resen in obstaja več šibkih točk v zvezi z upravljanjem in obravnavanjem teh agencij. Verjetno bi morali imeti resne razprave o vprašanjih upravljanja, vendar tudi političnih ugotovitev v zvezi z njihovim delom ne smemo podcenjevati - kaj delajo in kakšne so dejanske koristi -, pri čemer ima Parlament zelo pomembno vlogo pri ocenjevanju in vrednotenju njihove uspešnosti. Prav tako ne smemo podcenjevati pozitivnih vidikov decentralizacije in razširjenosti evropskih organov po vsej Evropi. To ni tako slaba zamisel, če vsak gleda z vidika svoje države.
+<P>
+Še enkrat se vam zahvaljujem za vse prispevke, pripombe in razprave. Nadaljevali bomo s svojimi obveznostmi in akcijskimi načrti.
+<SPEAKER ID="068" NAME="Dan Jørgensen">
+poročevalec. - (DA) Gospod predsednik, zahvaljujem se komisarju Kallasu. Jasno je, da smo šli skozi proces, v katerem je bilo morje včasih razburkano. Imeli smo konflikt med Parlamentom in Komisijo. Vendar smo ta konflikt uspeli preoblikovati v dialog. Dosegli smo nekaj dobrih rezultatov in nekaj dobrih obljub Komisije ter tudi nekaj zelo konkretnih akcijskih načrtov z določenimi roki in določenimi merili uspešnosti. Vztrajati moramo v času, ko nekateri poslanci iz skupin, ki so skeptične do EU, pravijo: "to so le besede in besede smo slišali že prej". To ne drži! Zagotovo ne gre le za besede, ampak za posebne ukrepe, za katere Komisija zdaj obljublja, da jih bo izvajala. Nekateri ukrepi so se že izvajali. Poleg tega so bili zelo natančno določeni nekateri roki, ki jih bomo lahko spremljali. Ključni element je, da se bo komisar zdaj enkrat mesečno srečeval z odborom in spremljal ta proces. To je zares velik korak naprej.
+<P>
+Vendar želim za konec opozoriti, zakaj te težave nastajajo. Eden od razlogov je, da se znaten delež sredstev upravlja z deljenim upravljanjem, tj. 80 % sredstev EU upravljajo države članice. Odgovornost Komisije je, da upošteva Pogodbo, in to je križ, ki ga mora nositi. Zato ostro kritiziramo Komisijo. Vendar so dejansko za velik del težave odgovorne države članice. To je razlog, zakaj tukaj v Parlamentu tako zvesto podpiramo zamisel o letnih nacionalnih revizijskih izjavah, ki jih podpiše oseba na ustrezni politični ravni, tj. finančni minister. To se že izvaja v številnih državah: na Danskem, Nizozemskem, v Združenem kraljestvu in na Švedskem. Če bi lahko nekaj podobnega dosegli v vseh državah EU, bi videli, da bi se v posameznih državah te revizijske obveznosti resneje obravnavale. Menim, da bi dejansko pridobili zelo dobro orodje za odpravo področij, na katerih v posameznih državah stvari ne delujejo.
+<SPEAKER ID="069" NAME="José Javier Pomés Ruiz">
+poročevalec. - (ES) Gospod predsednik, včasih zaradi dreves ne vidimo gozda. V postopku razrešnice moramo povedati, kaj je narobe, in včasih pozabimo, koliko stvari poteka dobro, koliko izredno usposobljenega osebja imamo v Komisiji in v tem parlamentu, vključno z osebjem v dvorani, različnimi službami, prevajalci, tolmači, ki opravljajo odlične storitve. Pozabljamo, kako znamo raztegniti naš proračun, zato da bi uresničili cilje, ter kako Parlament in Komisija dosegata vedno večji napredek glede politike preglednosti.
+<P>
+Še vedno obstaja izziv, zelo pomemben izziv za Parlament, to je komunikacijska in informacijska politika. Ta politika je bila eden od ciljev Parlamenta za leto 2006 in z njenim razvojem nisem zadovoljen. Čez eno leto bomo imeli volitve in vedeti moramo, kako jo bomo dosegli, kar pomeni izboljšati postopke obveščanja in imeti še naprej takšno preglednost, kot jo imamo sedaj. Preglednost, in bil sem poročevalec za to poročilo, je združljiva s tem, da imamo dokumente, ki niso javni, kot se dogaja v državah članicah, za novinarje, v podjetjih in družinah. Za naše delo je dobro, da imamo stopnje meril za osnutke, ki niso uspeli priti skozi sito javne odobritve, in morajo zato seveda ostati skrivnost tistih, ki so zadevo obravnavali.
+<P>
+Popolnoma sem zadovoljen z dostopom, ki sem ga imel do vseh informacij, in menim, da je poročilo o računovodskih izkazih Parlamenta, ki ga predstavljam, odgovorno poročilo. Menim, da bi bilo treba računovodske izkaze Parlamenta zaključiti, ker Parlament, če smem povedati, deluje zelo dobro in veliko bolje od nekaterih nacionalnih parlamentov, veliko bolj pregledno in z osebjem, ki dela po več ur, kot se dela v podobnih parlamentih.
+<P>
+Vendar to še ne pomeni, da je popoln: z delom moramo nadaljevati. Še veliko moramo narediti, vendar lahko v tem političnem letu pozitivno gledamo na to, kako smo uporabili denar, ki so nam ga dali naši državljani; uporabili smo ga dobro, pregledno in skladno.
+<SPEAKER ID="070" NAME="Hans-Peter Martin">
+poročevalec. - (DE) Jutta Haug je za moje kritične pripombe v obrazložitvi in glavnem delu besedila navedla, da so zoprne in da podpihujejo škandale. Prebral bom nekaj citatov: "Predsedniki držav in vlad ustanavljajo eno agencijo za drugo. Agencije trošijo naš denar. Ustreznega preverjanja, ali so agencije dejansko potrebne, ni. Gre za veliko področje brez nadzora, kjer nihče ni zares odgovoren. Načrtovanja ni videti. Ustanavlja se ena agencija za drugo, da se zadevnim agencijam plača za soglasje o težkih temah."
+<P>
+Vse to so besede Herberta Böscha. Veliko bolj kritične so od mojih. Aha! Če to napišem jaz, podpihujem škandale, Herbert Bösch pa je seveda član stranke in zato si to lahko privošči. Da, to se mi je že zgodilo. Na to mislim, kadar govorim o "dvojnem govoru", ki tukaj vlada. To je hinavščina posebne vrste, ko ljudje rečejo "grozno je, da se škandal izrecno omeni v uradnem parlamentarnem dokumentu", vendar potem javno dajejo kritične pripombe. To je eden od temeljnih problemov tega parlamenta.
+<P>
+Seveda imamo lahko različna mnenja o tem, ali podeliti razrešnico ali ne, vendar odlomki, ki sem jih prebral na začetku, niso bili namenjeni temu - sploh ne. Namenjeni so bili osnovnim razmislekom glede tega, da ljudje, če se ponudi dejanska priložnost za prikaz resnice, vedno znova prikrivajo, kaj se dogaja. Velik problem za demokracijo v Evropi je, da sistem ni samoregulativen, da vključuje le vzajemno dobrikanje.
+<P>
+Gospod predsednik, prosim še za dovoljenje, da na koncu razprave podam osebno izjavo v skladu s členom 145.
+<SPEAKER ID="071" NAME="Christofer Fjellner">
+poročevalec. - (SV) Ob tej priložnosti bi podal majhno konstruktivno kritiko Komisije in decentraliziranih agencij, ker še vedno menim, da poročevalec Hans-Peter Martin tega ni uspel narediti. Kot poročevalec, ki bo za to vprašanje odgovoren naslednje leto, se želim osredotočiti na tri glavna vprašanja. Navedena so tudi v poročilih.
+<P>
+Pri prvem vprašanju gre za oceno možnosti združevanja upravnih funkcij večine manjših agencij, s čimer bi se sprostila sredstva ter znanje in izkušnje ob upoštevanju zapletenega regulativnega okvira, ki se uporablja za agencije. Veliko decentraliziranih agencij ima na primer težave z upoštevanjem glavnih proračunskih načel ali finančne uredbe, zakonodaje javnih naročil itd. To stališče je bilo tukaj večkrat izraženo in upam, da bo Komisija ukrepala.
+<P>
+Predlagamo tudi, da se neodvisnim agencijam tako kot pri ostalih institucijah odobrena proračunska sredstva za zaposlene zmanjšajo za odstotek, ki ustreza delovnim mestom, za katera se predvideva, da ne bodo zasedena. Menim, da bi se tudi tako sprostilo veliko sredstev.
+<P>
+Nenazadnje predlagamo tudi, da se namenski prejemki, ki jih agencije vsako leto plačajo Komisiji in se potem povrnejo, odbijejo od predloga v proračunu, glede katerega Evropski parlament sprejema odločitev.
+<P>
+To so tri vprašanja, v zvezi s katerimi želim stalno razpravljati s Komisijo in decentraliziranimi agencijami, dokler ne prevzamem postopka razrešnice.
+<P>
+Končno želim nekaj povedati o posebnem poročilu Računskega sodišča o sistemih nadzora, inšpekcij in sankcij v zvezi s pravili o ohranjanju ribolovnih virov Skupnosti. Konec koncev gre za pomemben sestavni del razrešnice Komisije, ki jo obravnavamo danes, in Računsko sodišče je izredno kritično, kar mora povzročiti obsežne reforme skupne ribiške politike.
+<P>
+Trije sklepi, ki sem jih ugotovil in jih je mogoče najti tudi v poročilu, o katerem bomo glasovali, so, prvič, da je nesprejemljivo za države članice, da se leto za letom določajo kvote na višji ravni, kot jo priporočajo raziskovalci na področju trajnostnega ribolova, drugič, da morajo biti Komisija in države članice odločnejše pri preprečevanju kršitev ali goljufij v zvezi s kvotnim sistemom, ter tretjič, da moramo oblikovati novo ribiško politiko, ki bo povečala spodbude in razloge za to, da poklicni ribiči varujejo staleže. To so tri dodatne misli, za katere želim, da jih v poročilu, o katerem danes glasujemo, resno preučite.
+<SPEAKER ID="072" NAME="Hans-Peter Martin">
+poročevalec. - (DE) Prekinili ste me, gospod predsednik, ko sem vas imenoval despot. Želim razložiti, zakaj sem to rekel.
+<P>
+Že od marca 2007 čakam na ta odgovor, ki je povezan z izjemno pomembno zadevo v zvezi z napako tega parlamenta, ki je pomembna zame osebno in za moje politično delo - ko sem bil dodeljen skupini, proti kateri sem se vedno boril, ker zanje menim, da so prikriti nacisti - in na vas osebno sem se obrnil obsežno vlogo. Medtem sem vložil pritožbo pri varuhu človekovih pravic.
+<P>
+Pri enominutnih govorih, gospod predsednik, znate na pamet vsa pojasnila, ko pa pridem jaz na vrsto, mi ne daste možnosti, zato sem vas imenoval despot. Despotski predsednik sem vas imenoval tudi zato, ker ste samovoljno izbrali nekatere poslance v tako imenovanih incidentih 12. decembra, ne tistih, ki so bili člani stranke, kateri ste takrat še pripadali, ampak očitno tiste, ki so vam padli v oči.
+<P>
+Despot vas imenujem tudi zato, ker me stalno prekinjate, medtem ko govorim, in pravite "ne, ne boste mi dali tega odgovora". Čudi me, da mi zdaj pustite dokončati govor.
+<P>
+Poleg tega vas imenujem despotski predsednik zato, ker se na podlagi te dodatne razlage, pri čemer nisem edini, ki meni, da je to nevzdržno, tukaj lahko izvajajo postopki, ki dejansko ne spadajo v pravi parlament, vsaj kot sem se jaz o tem učil v šoli. Vendar je bilo to že pred davnimi leti - če ste prebrali moj življenjepis. Veliko se je moralo zgoditi, da je do tega prišlo.
+<P>
+Vseeno sem prepričan, da tak despotski pristop dovolite natanko zato, ker dejansko ni šlo za iskanje pojasnila v zvezi z vprašanjem dodatka za pisarniško pomoč. Dovolili ste, da sem bil v posmeh zaradi smešnih napak, ki se lahko zgodijo vsakomur - da, vsakomur, in prepričan sem, da se zgodijo vsem poslancem tega parlamenta. Vendar prikrijejo dejstvo, da bi bilo treba v skladu z notranjimi preiskavami od poslancev Parlamenta zahtevati nazaj vsaj 80 milijonov EUR, če bi veljala enako obravnavanje in sorazmernost sredstev. To dvoje ne obstaja in zato vztrajam, da ste po mojem mnenju dejansko - kot politični predstavnik 14 % avstrijskih volivcev - na žalost despotski predsednik, ki povzroča nepotrebno škodo temu parlamentu in pomembni temeljni ideji Evrope. Želim si videti pravičen, pošten in demokratičen Parlament, v katerem ne bo niti potrebno niti zaželeno uporabiti takšnega izraza.
+<SPEAKER ID="073" NAME="Predsednik">
+Gospod Martin, to je svoboden parlament. Zato sem vam po svoji dolžnosti dovolil govoriti v skladu s členom 145. Ne želim presojati vaše razlage, pripomnil bi le, da sem pravično upošteval Poslovnik in vam dal možnost povedati, kar ste povedali. Zase bi povedal, da poskušam biti pravičen in objektiven - in to mi uspeva - pri obravnavanju vseh poslancev Parlamenta.
+<P>
+Ta razprava je končana. Glasovanje bo potekalo danes.
+<P>
+(Seja je bila prekinjena ob 11.35 in se je nadaljevala ob 12.00.)

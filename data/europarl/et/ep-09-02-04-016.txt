@@ -1,0 +1,242 @@
+<CHAPTER ID="016">
+Tarvitatud PCBd sisaldavate õlide kasutamine toiduainete ümbertöötlemistehases Iirimaal (arutelu)
+<SPEAKER ID="369" NAME="Juhataja">
+- Järgmine päevakorrapunkt on komisjoni avaldus tarvitatud PCBd sisaldavate õlide kasutamise kohta toiduainete ümbertöötlemistehases Iirimaal.
+<SPEAKER ID="370" NAME="Androulla Vassiliou">
+komisjoni liige. - Härra juhataja, komisjon on täiesti teadlik polüklooritud bifenüülide (PCBd) suurest ohust inimeste tervisele ja keskkonnale.
+<P>
+Sellised vahejuhtumid nagu 1999. aastal Belgias ja eelmisel aastal Iirimaal on taas näidanud, et isegi väike kogus PCBsid võib tekitada söödas ja toiduahelas tõsise saastumise.
+<P>
+Viimase kolmekümne aasta jooksul on EL kehtestanud õigusnorme, et vähendada PCBde ja dioksiinide sattumist keskkonda, eesmärgiga vähendada inimeste kokkupuudet sellega ning kaitsta inimeste tervist ja keskkonda.
+<P>
+Ent kuna PCBsid sisaldavatel seadmetel on tavapäraselt pikk kasutusiga, siis isegi pärast PCBde keelamist 1985. aastal on suured kogused endiselt kasutuses ning need on üheks võimalikuks inimesega kokkupuutumise allikaks.
+<P>
+Eelkõige on PCBde kõrvaldamist käsitlevas direktiivis, 1996. aasta septembri direktiivis 96/59/EÜ nähtud ette asjakohased vahendid, et tagada PCBsid sisaldavate seadmete ja jäätmete kõrvaldamine nii kiiresti kui võimalik ning suurte seadmete kõrvaldamine 2010. aasta lõpuks.
+<P>
+Ent selle õigusakti täielikus rakendamises esinevad siiski suured lüngad. Komisjon pidi enamiku liikmesriikide vastu käivitama rikkumismenetluse seoses kohustusega koostada suurte PCBd sisaldavate seadmete inventarinimekirjad ja PCBde kõrvaldamise kavad.
+<P>
+Nende rikkumismenetluste tulemusena on üldine olukord paranenud. Praegu on vaid kaks sellist juhtumit lahendamisel, aga need lõpetatakse peagi.
+<P>
+Kõik liikmesriigid on edastanud oma saastest vabastamise ja/või inventarinimekirjadesse kantud seadmete ja neis sisalduvate PCBde kõrvaldamise kavad ning selliste seadmete kogumise ja hilisema kõrvaldamise kavad, mis sisaldavad vähem kui viis kuupdetsimeetrit PCBsid (nagu on nõutud direktiivi artiklis 11).
+<P>
+Sellegipoolest on vaja lisapingutusi. Selleks et tagada PCBde kõrvaldamise kavade tõhusus, peavad liikmesriigid veelgi parandama PCBsid käsitlevate kehtivate õigusaktide ja Euroopa üldiste jäätmeõigusnormide rakendamist.
+<P>
+Komisjon pöörab aina rohkem tähelepanu ELi jäätmeõigusnormide nõuetekohasele rakendamisele ning toetab aktiivselt liikmesriike nende riiklike jäätmeõigusnormide rakendamise parandamisel.
+<P>
+Söödahügieeni määruses nr 183/2005 on sätestatud söödahügieeni miinimumnõuded, mida kohaldatakse alates sööda esmatootmisest (põllumajandusettevõtte tasandil) kogu tootmise, töötlemise ja turustamise jooksul kuni loomade söötmiseni.
+<P>
+Söödakäitlejad peaksid kehtestama, rakendama ja hoidma jõus menetlusi, mis põhinevad HACCP põhimõtetel. See tähendab kriitiliste kontrollpunktide kindlaksmääramist ja muu hulgas võimaliku keemilise saastumise tuvastamist, kui söödamaterjalide kuivatamiseks kasutatakse otsest kuumutamist.
+<P>
+Nende nõuete täitmise eest vastutavad söödakäitlejad, kuigi söödakäitlejate kehtestatud meetmete piisavust peavad kontrollima liikmesriikide pädevad asutused. Enamikul juhtudel tuleb seda teha kohapealse kontrolli kaudu.
+<P>
+Lisaks sellele nõuavad toidu ja sööda ametliku kontrolli määruses sätestatud ametlike kontrollide korraldamise üldpõhimõtted, et liikmesriigid tagaksid, et kontrollid viiakse läbi korrapäraselt, riskile tuginedes ja nõuetekohase sagedusega. Need ametlikud kontrollid peavad hõlmama söödaettevõtete kontrollimist.
+<P>
+Komisjoni roll on sätestatud toidu ja sööda ametliku kontrolli määruse (EÜ) nr 882/2004 artiklis 45. Komisjoni eksperdid viivad liikmesriikides läbi pädevate asutuste auditeid, et teha kindlaks, kas kontrollid toimuvad kooskõlas ühenduse õigusega.
+<P>
+Iirimaal viidi selle artikli kohane üldine audit läbi 2008. aastal mitmes sektoris ning lähiajal avaldatakse aruanne. Auditeeritavate asutuste loetelu otsustatakse riiklike pädevate asutuste ja Toidu- ja Veterinaarameti audiitorite poolt ühiselt.
+<P>
+Küsimuses nimetatud tehas ei olnud üks neist, mida 2008. aasta üldise auditi käigus kontrollima oleks pidanud.
+<P>
+Iirimaa dioksiinidega saastumise juhtumi puhul leiti, et saasteallikaks oli loomasöödana kasutatav saastatud leivasegu. Leivasegu toodeti pagaritööstuse jäätmetest (vanad küpsised), mida kuivatatakse otsese kuumutamise teel. Otsesel kuumutamisel on põlemisgaasid otseses kokkupuutes kuivatatava söödamaterjaliga. Kasutatav kütus oli ilmselt saastatud PCB trafoõliga. Eri osaliste vastutus, alates leivasegu tootjast kuni kütusetarnijani ja nii edasi, määratakse kindlaks käimasoleva õigusliku uurimise käigus.
+<P>
+Sooviksin rõhutada, et on ülimalt tähtis võtta vastu ulatuslik lähenemisviis riskide liigitamiseks, mis hõlmab võimalikke riske, mis on seotud mitte üksnes saabuva materjali laadiga, käesoleval juhul leivaseguga, vaid ka protsessi endaga.
+<SPEAKER ID="371" NAME="Mairead McGuinness">
+fraktsiooni PPE-DE nimel. - Proua juhataja, sooviksin tänada komisjoni väga üksikasjaliku avalduse eest sel teemal.
+<P>
+Ma arvan, et põhjus, miks täna õhtul seda arutame, on see, et soovime sellest õppida ja tagada, et see ei korduks. Keeruline on see, et 1999. aastal, kui avastasime probleemi Belgias, siis arvasime, et oleme muutnud oma eeskirjad piisavalt rangeks, et ei toimuks järgmist vahejuhtumit. Ent nüüd oleme selles olukorras ja teame, millised on süsteemi läbikukkumise tagajärjed, mitte vaid rahalises mõttes - kuigi see on äärmiselt oluline Euroopa Liidu, Iiri rahandusministri, maksumaksjate jaoks - vaid seoses tarbijate usalduse kaotusega ja üldise kahjuga Iiri toiduainete tootmise sektorile eri turgudel.
+<P>
+Olen rõõmus, et oleme nüüd edusamme teinud ja taastame oma nime rahvusvahelisel turul, aga olen ka täiesti teadlik, et kogu Euroopa Liidu põllumajandustootjatel on samuti Iirimaa raskuste tõttu probleeme. Seepärast arvan, et tänane arutelu ei puuduta vaid Iirimaad. Minu arvates on teie avalduse põhjal selge, et see Iirimaal tekkinud probleem võib juhtuda ka teistes liikmesriikides. Seega arvan, et siit peaks seda arutelu alustama.
+<P>
+Teame, et see õli ei oleks pidanud sattuma loomade söödaahelasse. Püüame selgitada välja, kuidas see juhtus, ning - teil on õigus - see on piiriülese mõõtmega politseiuurimise teema. Loodan, et me teeme kindlaks täpse sündmuste jada, nii et saame samasugused juhtumeid ära hoida.
+<P>
+Ent see tekitab ka teise küsimuse, millele te vihjasite, ning see küsimus, kuidas me käitleme toidujäätmeid või -ülejääke. Ümbertöötlemine on praegu nii-öelda oluline asi. Igaüks on selle poolt, kuna me kõik soovime olla keskkonnasõbralikud ja säästvad. Seega on siin kaks küsimust: esiteks õlide ümbertöötlemise küsimus - millele te vihjasite - ning ma arvan, et see nõuab rohkem tähelepanu mitte üksnes seoses PCBdega, vaid üldisemalt seoses tarvitatud õlide kogumise, turustamise, käitlemise ja muu kasutamisega, kuigi ilmselgelt valmistavad PCBd erilist muret.
+<P>
+Mis puutub toiduülejääkidesse - või toidujäätmetesse, nagu neid vahel kutsutakse -, siis minu arvates on asjakohane, et me kasutame neid loomade söödaahelas, aga soovin öelda väga selgelt, et kui me ei suuda tagada nende ohutust ja seda, kuidas neid töödeldakse ja käideldakse, siis kardan, et peame hakkama neid toidu- ja söödaahelas keelama.
+<P>
+Ma ei soovi, et see juhtuks, aga samuti ei soovi ma Iirimaal toimunu kordumist ja sellega kaasnevaid tagajärgi. Meie soovime, et neid toiduülejääke või -jäätmeid kasutataks, sest need on kvaliteetsed ja mitte seetõttu, et loomade söödaahel on nende prügimägi - ma arvan, et see on tähtis punkt.
+<P>
+Me peame väga avameelselt rääkima ka tervest loomasöötade segamise teemast. Põllumajandustootjad eelistavad osta söödatooraineid ja segada oma ratsioonid ise ning üldiselt teevad seda suuremad põllumajandustootjad. See on asjakohane, kui meil on range kontroll selle üle. Ma saan aru, et viiakse läbi korrapäraseid kontrolle, aga käesoleval juhul esines sellel turul ilmselgelt mõningaid lünki. Tõepoolest - need põllumajandustootjad, kes tabati ja kes kannatasid tagajärgede käes, kuna nad kasutasid seda toodet, ütlesid mulle: "Miks ei tulnud keegi ega kontrollinud, mis tooted meile saabuvad?”.
+<P>
+Reguleerimise puhul ma usun, et litsentseeritud loomasöödakäitlejate üle - Euroopa Liidu segajõusööda tööstuses - kehtib väga range kontroll ning see kehtestati varasemate tavade rangemaks muutmise vajaduse tõttu.
+<P>
+Mul on tunne, et liikmesriikides me reguleerime seaduste täitmist suhteliselt rangelt ega jäta väljavaateid võimalikuks mittetäitmiseks. Me ei välju raamidest. Võib-olla esineb tendents, et kui paberites on kõik õigesti ja lahtrid on märgistatud, siis paneme teema lukku ega süvene sellesse rohkem.
+<P>
+Ma arvan, et peaksime reguleerimise läbi vaatama. Me vaatame selle läbi finantssektoris ja peame selle läbi vaatama ka toiduainete sektoris. Samuti arvan, et põllumajandusettevõtte tasandil peetakse kontrollijaid vahetevahel ettevõttesse saabuvateks pahadeks vaimudeks. Miks põllumajandustootjad ei soovi kontrollijaid, kuigi näevad neid oma ettevõtete kaitsjana?
+<P>
+Ma arvan, et me peame selle kogemuse põhjal muutma suhtumist kogu toiduahelas. Mul on väga hea meel Iirimaa põllumajandustootjate ühenduse teate üle, et nad kavatsevad luua toiduainete rakkerühma. On ülim aeg, et põllumajandustootjad võtaksid mõningase kontrolli toiduahela üle, mille esimene aste nad on.
+<P>
+Lõpetuseks ütlen, et odavate söödatoorainete teema ei ole praegu arutusel, aga surve tootjatele toota aina odavamalt on selle teema osa ja seda tuleb käsitleda.
+<SPEAKER ID="372" NAME="Proinsias De Rossa">
+fraktsiooni PSE nimel. - Proua juhataja, mul on mitu punkti, mida seoses selle teemaga arutada, ning muidugi ei ole ma eriti nõus sellega, mida ütles proua McGuinness sõnadega "see ei puuduta Iirimaad”. Muidugi puudutab see Iirimaad. See on kõige hiljutisem skandaal seoses toiduriskidega.
+<P>
+Inimeste tervise kaitse peab olema sel teemal esmane mure ning me räägime siin 1996. aasta direktiivi rakendamisest. Jah, kahjuks oli Iirimaa üks neist liikmesriikidest, keda pidi õiguslike meetmete ähvardustega sundima seda direktiivi tegelikult rakendama viis aastat hiljem, 2001. aastal. Muidugi on selle rakendamise protsess, nagu selgub, endiselt käimas ning kontrollimenetlused selle järgimise tagamiseks tunduvad olevat üsna nõrgad. Arvestades seda, mida saan aru sel teemal loetu põhjal, on üks üllatavaid asju teabe puudumine selle kohta, mis täpselt sel konkreetsel juhul seoses sealiha saastamisega toimus. Selgub, et asjaomast tehast, kes sööda tootis, ei ole mõnda aega kontrollitud.
+<P>
+Samuti pean ütlema - ning olen kindel, et valitsus üllatuks, kuuldes mind seda ütlemas -, et ma arvan, et tehti õige otsus, piirates viivitamata sealiha turustamist ja tõepoolest kõrvaldades sealiha poelettidelt. Muidugi see solvas mitmeid süütuid ja õigusnorme täitvaid tootjaid, lihatöötlejaid ja teisi isikuid: 90% või rohkem toodetest ei ole üldse saastatud. Asjaomane tehas tarnis üksnes ligi kümnele ettevõttele, seega oli see väga ulatuslik liigutus, aga see oli õige liigutus. Kõige tähtsam on, et me püüdleme selle poole ja tagame, et üldsus ja tarbija saavad olla kindlad, et toit, mida nad selvehallidest ja oma kohalikest kauplustest ostavad, on söömiseks ohutu. Kui me ei võta viivitamatuid ja rangeid meetmeid, et seda tagada, siis ma arvan, et me ei suuda oma kohust täita.
+<P>
+Mul on volinikule kaks küsimust. Üks on see, nagu ma ütlen, et me räägime siin 1996. aasta direktiivi rakendamisest. Kas nüüd ei ole argumenti, et see direktiiv läbi vaadata? Kas selles direktiivis sätestatud normid ei ole praegu piisavad või ebapiisavad? Kas me ei peaks suhtuma tõsisemalt sellesse, et need PCBd ringlusest kõrvaldada palju kiiremini kui ette nähtud, eelkõige seetõttu, et mitu liikmesriiki viivitas direktiivi tegeliku rakendamisega?
+<P>
+Minu teine küsimus on seotud juhtimiskavaga, mida Iirimaa keskkonnakaitseamet hilinenult 2008. aastal kehtestab, kui ta räägib tegevusjuhisest, mida see kava samuti hõlmab, PCBde ja PCBsid sisaldavate seadmete siseseks haldamiseks. Soovin teada seda, kas tegevusjuhis on tegelikult direktiiviga kooskõlas. Kas me ei peaks taotlema eeskirjade rangemat kohaldamist seoses PCBde haldamisega? Ma ei ole selle poolt, et süüdistada igaüht, kes siin või seal eeskirju rikub, aga ma arvan, et kui on tegemist toiduohutusega, siis tuleks kriminaalkorras karistada neid, kes hoolimatult oma olukorda kuritarvitavad.
+<SPEAKER ID="373" NAME="Liam Aylward">
+fraktsiooni UEN nimel. - Proua juhataja, Iiri sealihatööstusel on Iirimaa põllumajandusliku toidutööstuse sektoris tähtis roll. Selle tööstusharu väärtus on ligikaudu üks miljard eurot ning see vastutab otse ja kaudselt 10 000 inimese töökoha eest.
+<P>
+Arvestades praegust majanduskeskkonna halvenemist ja toiduainete hindade tõusu, on väga tähtis, et me anname Iirimaal endast parima, et kaitsta Iirimaa sealihasektorit, mis tegutseb kõrgeimate Euroopa Liidu ja rahvusvaheliste normide kohaselt.
+<P>
+See, et riikliku jääkainete seire programmi alusel avastati searasva proovis miinimummäära ületav dioksiinitase, võimaldas kiiresti teha kindlaks saasteallika kuni kindla söödatootmistehaseni väljaselgitamiseni. Kuigi meie toidu saastamine on igal juhul kahetsusväärne, siis näitab see vahejuhtum väga kõrget toiduohutuse kontrolli taset, mille Iiri ametiasutused on kehtestanud, et tagada toiduahela terviklikkus. Teisisõnu need kontrollid toimisid.
+<P>
+Seetõttu sooviksin avaldada tunnustust Iirimaa valitsuse ja põllumajandusministeeriumi pädevusele ja kiiretele meetmetele, arvestades kogu toodangu turult tagasivõtmise otsust. See võeti Euroopa ja rahvusvahelistel turgudel ning kindlasti ka Euroopa Komisjonis väga hästi vastu. See näitas, kui tõsiselt meie riik suhtub toiduohutuse küsimustesse, ning aitas hoida kodu- ja välismaal meie kui kvaliteetseid toiduaineid tootva riigi mainet.
+<P>
+Iirimaa tarbijad jätkasid sealiha ostmist, kui see saabus poelettidele, ning kiiresti taastus kauplemine ka enamikul Euroopa ja rahvusvahelistel turgudel. Ilmselgelt tuleb teha lisatööd, et taastada kauplemine täielikult, näiteks korraldada ulatuslikumaid turunduskampaaniad ja nii edasi.
+<P>
+Sooviksin tunnustada Oireachtase põllumajanduskomisjoni tema põhjaliku uurimise eest dioksiinide vahejuhtumi puhul, mis hõlmas mitmeid ärakuulamisi, millesse olid kaasatud ministeeriumid, riigiasutused ja sealihatööstuse esindajad. Samuti olen rõõmus, et põllumajandusministeerium viib läbi täiendava uurimise Euroopa ringkondades väga tuntud isiku, professor Patrick Walli juhtimisel.
+<SPEAKER ID="374" NAME="Friedrich-Wilhelm Graefe zu Baringdorf" LANGUAGE="DE">
+Proua juhataja, lugupeetud volinik, Iirimaal see juhtum vähemalt avastati kontrollide abil. Kümme aastat tagasi Belgias tulid juhtumid väga kiirelt. Mõlemal juhul kuuleme, et juhtus õnnetus, aga neid õnnetusi ei ole tõendatud. Pärast 10 aastat on juhtum Belgias nüüd lõpetatud. Üht isikut karistati tingimisi ühe ja poole aasta pikkuse katseajaga. Ent see, kuidas aine sattus toodetesse, ei ole selge. Seetõttu peame jätkuvalt eeldama, et toksilised ained olid meelega sisse segatud ja et sööta kasutati kõrvaldamiskuludelt kokku hoidmiseks. Seega õli lahjendatakse ja lisatakse söödale. Mõlemal juhul oli tegemist trafoõliga.
+<P>
+Seni kuni neid õnnetusi ei ole lahti seletatud ja jääb tõendamata, et see oli tõepoolest põletamise tulemus, tuleb ka Iirimaal eeldada, et pandi toime kuritegu, mille käigus segati juurde toksilisi aineid, nimelt PCBsid. See tähendab, et peame suurendama kontrollide sagedust, et kurjategijad ei keskenduks sellistele söötadele, arvates, et see on lihtne viis kulusid kokku hoida.
+<P>
+Seetõttu on avalik deklaratsioon, mille siin homme vastu võtame, täiendav võimalus mitte koondada rohkem tähelepanu kurjategijate pingutustele, vaid suurendada kontrollide sagedust. Riske ei tohi pealegi määrata kindlaks üksnes selle põhjal, millised tehased on seotud, vaid ka seoses sellega, kes neid tehaseid juhib ja millistest kahtlastest allikatest see õli saadakse. Me teame, kellega meil siin tegemist on, ning institutsioonid peavad seega olema kontrollide puhul teadlikud, et nad kujutavad suuremat riski ja tuleb seetõttu allutada rangemale kontrollile.
+<SPEAKER ID="375" NAME="Bairbre de Brún">
+fraktsiooni GUE/NGL nimel. - (GA) Vahejuhtum, mille puhul oli tegemist kõrge dioksiinitasemega Iirimaa tehastes, tekitab suuri majandusraskusi põhja- ja lõunapoolsetele põllumajandustootjatele. See on halb uudis praeguses keerulises majanduskliimas. Kuna tegutseti nii kiiresti, siis saab turul väita, et Iirimaa sealiha on ohutu. Olgu kuidas on, aga ei tohiks eeldada, et kannatanud isikud tegeleksid nende tagajärgedega ise. Ma tean, et mõned neist majandusküsimustest on seotud teiste volinikega, aga oluline tõstatada järgmised teemad. Iirimaa valitsuse poolt 2008. aasta detsembris välja kuulutatud sealiha turult tagasivõtmise kava eesmärk oli Iiri saastatud sealiha turult kõrvaldada. Olgu sellega kuidas on, ei ilmne, et selle kavaga nähakse ette 4000 saastatud sea saatmine Vioni sealiha töötlemise tehasesse Cookstownis minu valimisringkonnas Tyrone'i maakonnas ajavahemikul 1. septembrist kuni 6. detsembrini 2008.
+<P>
+Õnneks saame tingimusteta väita, et Iirimaa sealiha on täiesti ohutu. Kui sellel tehasel ei ole õigust saada hüvitist ELi toetuskava alusel, siis esineb tõsine oht, et ta ei suuda tegevust jätkata.
+<P>
+EL peab tagama, et seda töötlemistehast ei jäeta 4000 saastatud sea vastuvõtmise tagajärgedega tegelema.
+<P>
+Kui tal ei ole õigust saada hüvitist komisjoni ja Iirimaa valitsuse vahel kokkulepitud sealiha turult tagasivõtmise kava alusel, siis tuleb samalaadne kava leppida kokku komisjoni ja põllumajandus- ja maaelu arengu ministeeriumi vahel assamblees Belfastis.
+<P>
+Solidaarsuse vaimus peaks Euroopa Liit kiitma heaks hüvitise kaasrahastamise nende jaoks, keda see on mõjutanud. 2009. aasta tuleb kõigile keeruline - ärgem unustagem äärmiselt erandlikke asjaolusid, mis jätsid paljud inimesed toiduainete sektoris kimbatusse, mida nad ei tekitanud.
+<P>
+Belfasti assamblee ja Iirimaa valitsuse ministrid esitavad varsti kogu saart hõlmava loomatervishoiu strateegia.
+<P>
+Meil peab olema kogu Iirimaad hõlmav lähenemisviis, mis ulatub loomatervishoiust kaugemale ja sisaldab ühtest õiguslikku lähenemisviisi kogu saarel. See tähendab, et ELi määrusi tuleks hallata ja rakendada kogu saarel ühtmoodi. Iga Iirimaa põllumajandustootja peaks sellisest olukorrast kasu lõikama ning dubleerimise puudumine suurendaks ELi määruste jälgimise tõhusust.
+<SPEAKER ID="376" NAME="Kathy Sinnott">
+fraktsiooni IND/DEM nimel - Härra juhataja, minu kolleeg mainis kahtlasi kanaleid, mille kaudu PCBd sattusid Iirimaal toiduahelasse. Ma arvan, et asi võib olla hullem, kui vaatame PCBde ajalugu. Polüklooritud bifenüülid pärinevad ligikaudu 100 aasta tagant. Need on inimese loodud ja päris algusest saadik oli selge, et need on väga ohtlikud.
+<P>
+Neid kasutati mitu aastat kondensaatorites, hüdraulilistes kütustes, puitpõranda viimistlusmaterjalides: on selge, et selliseid asju me toiduahelasse ei soovi. Aga enam-vähem alates 1900ndate algusest kuni 1966. aastani, kui Rootsi teadlane tõestas tegelikult nende ohtlikkust, suhtusid inimesed teisiti ning lubasid neid kasutada, ehkki ikka ja jälle juhtus arvukaid tööstusõnnetusi.
+<P>
+Aga isegi siis, kui teaduslik tõestus oli olemas, keelati PCBd avalikes kohtades alles 1970. aastatel - 1972. aastal - ja ka seejärel lubati neid endiselt kasutada kuni täieliku keeluni alles 2000. aastal. Seega on endiselt kasutuses hulgaliselt PCBsid ning me lõpetasime nende kasutamise alles ligikaudu 100 aastat pärast probleemist teada saamist.
+<P>
+Seega vaatamata komisjoni 1996. aasta direktiivile, mis nõudis PCBde kõrvaldamist, leiame neid ikka ja jälle, näiteks Belgias ja viimati Iirimaal.
+<P>
+Aga ma avastasin, et üks asi ajas inimesed Iirimaal päris segadusse. Mäletan, et käisin tol perioodil lihamüüja juures ning ta lihtsalt ei mõistnud. Ta ütles, et oleme kehtestanud nii ulatusliku jälgitavuse. Me teame täpselt, kust näiteks üks muna pärineb, millisel päeval see muneti ning, kui tahame veelgi kaevuda, siis saame täpselt teada, millises põllumajandusettevõttes ja nii edasi. Ent siiski, isegi kui teadsime PCBde allikat, siis see lihamüüja, kes hangib kogu oma sealiha ise, kellel olid kõik koodnumbrid jne, oli siiski sunnitud sealiha ära viskama ja hävitama.
+<P>
+Ma ei mõista, kuidas see juhtus, kuna oleme keskkonnakomisjonis tõesti palju tööd teinud; olete teinud palju tööd, et tagada jälgitavus, aga kui mäng algas, siis neid süsteeme ei kasutatud. Võib-olla neid kasutati, et leida põllumajandustootjad, aga neid ei kasutatud, et süütute inimeste nimi puhtaks pesta ning see läks inimestele maksma määratult palju - minu riigile läks see maksma oluliselt rohkem, kuna ei mustatud üksnes kindlaid tarneahelaid, vaid kogu riiki.
+<P>
+Esineb segadus ka muudes asjades. Räägime praegu PCBdest ja dioksiinidest ning see on õige, aga kas meil kulub veel 100 aastat, enne kui saame aru dioksiinide ja põletamise seosest? See on asi, mida ma samuti üritan pidevalt teha, nimelt hoida põletamisest tulenevaid dioksiine toiduahelast eemal.
+<SPEAKER ID="377" NAME="Jim Allister" AFFILIATION="NI">
+- Proua juhataja, mitmed põllumajandustootjad ja üks töötlemisettevõte minu valimisringkonnas kannatavad miljoneid naelasid kahju kellegi teise süü tõttu, kuna heas usus ostetud saastatud sööt tarniti söödatehasest, kus esines raske hooletus headele tavadele vaatamata. Ei tule üllatusena, et kannatanud valijad on väga vihased.
+<P>
+Mul on volinikule palju küsimusi. Kui neile ei vastata täna, siis sooviksin, et neile vastatakse kirjalikult, kui see on võimalik.
+<P>
+Esiteks, kuidas on süüdistatav sööda ümbertöötlemistehas ELi määruseid varem täitnud? Kas ta tegutses omapead, nagu on arvatud?
+<P>
+Teiseks, kas Millstreamil oli luba kasutada kõnealust õli? Kui ei, siis kas ei olnud liikmesriigi kohustus tagada, et selline oluline reguleerivate nõuete eiramine avastatakse ja sellega tegeletakse?
+<P>
+Kolmandaks, kas Millstream rakendas HACCP-l põhinevat riskianalüüsi ja enesekontrolli kava, mida nõutakse toiduhügieeni määrusega?
+<P>
+Neljandaks, kas komisjon on rahul liikmesriigi poolt selle tehase ja tema toodangu suhtes kehtestatud kontrollide ja järelevalve taseme ja sagedusega, arvestades liikmesriigi kohustust järgida riskil põhinevat ametlikku kontrollikava? Kas see oli Iirimaa ametiasutuste poolne tegematajätmine söödaseaduse ja toiduohutuse nõuete rangel jõustamisel?
+<P>
+Viiendaks, minu valimisringkonnas peavad seaduslikud toiduainete tootjad järgima rangeid kontrolle ja norme kvaliteedi tagamise kavade alusel. Miks ei toimunud samaväärset kontrolli Millstreami ümbertöötlemistehases?
+<P>
+Kuuendaks, kas tugineti söödatehaste ohutuse enesesertifitseerimisele ja kui see oli nii, siis miks - kuna see peaks olema lubatud üksnes väikeettevõtete puhul - oli lubatud seda seal kohaldada?
+<P>
+Lõpetuseks tahaksin teada, milline on täpne õiguslik alus, mille põhjal komisjon otsustas teha suure väljamakse Iirimaale, kuna esialgu ütles komisjoni kõneisik, et sellist alust ei eksisteeri? Kas võetakse järelmeetmeid seoses rikkumisega, kui leitakse, et see liikmesriik rikkus oma nõudeid?
+<SPEAKER ID="378" NAME="Maria Petre" AFFILIATION="PPE-DE">
+(RO) See on hea, et saame täna õhtul arutada, tuginedes deklaratsioonile, mille komisjon ja teie, lugupeetud volinik, tegite seoses tarvitatud õlide kasutamisega söödatootmises Iirimaal.
+<P>
+Sooviksin arutelu veidike laiendada, et öelda teile, et väga suur hulk liikmesriike, sealhulgas Rumeenia, millest ma kavatsen kõneleda, on sellest vahejuhtumist mõjutatud, või täpsemalt öeldes: vahejuhtum on mõjutanud lihatööstust, aga eelkõige tarbijaid. See mõjutas tööstust, mis on saanud suurt kahjumit väga lühikese aja jooksul, ning tarbijaid ajal, mil vähemalt Rumeenias on tavaliselt märkimisväärne sealiha tarbimine seoses jõulude pidamise traditsiooniga.
+<P>
+Üks asi, mis on äärmiselt hästi toiminud, on veterinaarasutuste teavitamine Euroopa kiirteavitamissüsteemi kaudu. Ent sellele meetmele vaatamata on kogu teave kadunud. Milline oli saastatud liha kogus, kus seda turustati ja kus on toiduained - need on küsimused, millele vastati osaliselt, kuigi osadel juhtudel ei antudki vastust. Milline on olnud selle mõju? Paaniline reaktsioon tarbijate hulgas ja tootjate ulatuslikud kahjumid, samuti vastutavate ametiasutuste suhteliselt kehv suutlikkus sellise vahejuhtumiga tõhusalt toime tulla.
+<P>
+Minu arvates on meil vähemalt kaks probleemi. Esimene on dioksiinisaaste tarvitatud õlide kasutamise tõttu, arvestades, et dioksiin on, nagu me kõik teame, aine, mis kujutab suurt ohtu, kuna see on inimorganismile väga toksiline isegi väga väikestes kogustes. Mida saame teha, et selline vahejuhtum ei korduks kunagi?
+<P>
+Teine probleem on: kuidas parandame liikmesriikide vastutavate asutuste suutlikkust sellistes ohtlikes olukordades reageerida ja meetmeid võtta?
+<P>
+Lõpetuseks loodan, et see arutelu annab meile mõned vastused, vähemalt neile kahele küsimusele.
+<SPEAKER ID="379" NAME="Petya Stavreva" AFFILIATION="PPE-DE">
+- (BG) Härra juhataja, lugupeetud volinik, daamid ja härrad, probleem seoses polüklooritud bifenüüle sisaldavate tarvitatud õlide kasutamisega toidujäätmete ümbertöötlemistehases on taas tõstatanud vajaduse tagada toiduohutus Euroopa Liidus.
+<P>
+Esiteks peame toonitama, et probleem ei tulene mõnest loomahaigusest, vaid Euroopa Liidus söödahügieeni ja ohutuse tagamiseks sätestatud meetmete ebapiisavast seirest. Kehtestatud kontrollidele vaatamata avastati kõrge dioksiinitase siis, kui see oli jõudnud sealihasse. Loogiline küsimus on: miks see ei juhtunud varem?
+<P>
+Paljud Euroopa kodanikud küsivad täna, kas Euroopa Liidus on vajalikud õigusnormid, mis nõuaksid liikmesriikidelt nõuetekohase seire kohaldamist loomadele söödetava sööda ohutuse üle. Sellele küsimusele on vaja kiiret vastust, võttes arvesse asjaolu, et ohutusnormide mittekohaldamine kasvõi ainult ühes toiduainete töötlemise tehases võib olla saatuslike tagajärgedega ja tuua kaasa sadadesse miljonitesse eurodesse ulatuva kahju.
+<P>
+Sooviksin kutsuda Euroopa Komisjoni üles võtma vajalikud meetmed, et intensiivistada seiret, mis on Euroopa Liidu tarbijaohutuse kaitse poliitika lahutamatu osa. Kõrge toksiinisisaldusega sealiha jõudis Iirimaalt ka Bulgaariasse ning paljudesse teistesse Euroopa riikidesse. Ent selliseid vahejuhtumeid ei tohi edaspidi lubada, kuna finants- ja sotsiaalkulud, mida pärast kandma peab, on liiga suured.
+<P>
+Lõpetuseks sooviksin avaldada tunnustust proua McGuinnessile seoses tema algatusega lasta seda küsimust komisjonil kontrollida.
+<SPEAKER ID="380" NAME="Elisabeth Jeggle" AFFILIATION="PPE-DE">
+- (DE) Proua juhataja, lugupeetud volinik, arutame täna PCBsid sisaldavate tarvitatud õlide kasutamist toiduainete ümbertöötlemistehases Iirimaal. Homme arutame loomasööda turuleviimist ja kasutamist. Homme näeme, et oleme koos saavutanud juba mitmed tähtsad ja otstarbekad meetmed selles sektoris. Ent selles valdkonnas on endiselt probleeme. Seetõttu tuleb proua McGuinessi viit küsimust, mille ta oma suulises küsimuses esitas, võtta tõsiselt ning neile tuleb anda tõsine vastus.
+<P>
+Lugupeetud volinik, teie ise rääkisite lünkadest, mis tuleb täita meie õigusnormide rakendamisel mitmes liikmesriigis. On tõsi, et kogu söödasektor on põhjalikult tõestanud oma usaldusväärsust viimastel aastatel, aga teatavad ettevõtted kas ei ole riskidest teadlikud või ei soovi neid näha. Lisaks tundub, et on endiselt väga palju arenguruumi mitmes liikmesriigis seoses kontrollimisega riskidele tuginedes.
+<P>
+Me kõik, Euroopa Parlament, kahanevas arvus põllumajandustootjad ja ka tarbijad - ootame ELi õigusnormide nõuetekohast kohaldamist koos sel eesmärgil tehtavate kontrollidega. Seetõttu usun, et tuleks vaadelda üldist toiduõigust, toidu- ja söödahügieeni ja litsentseerimistingimusi toidu ümbertöötlemistehastes.
+<P>
+Jah, me soovime kasutada toiduainete ülejääke. Vähemalt mina isiklikult sooviksin seda ning kõnealuseid toiduainete ülejääke ei tohiks hävitada. Ent tuleb tagada jälgitavus. Soovimatud ained ja tooted tuleb välistada turvalisel ja kontrollitud viisil. Kui söödaettevõtteid litsentseeritakse, siis tuleb tagada nende töötajate professionaalne pädevus toidu- ja söödaohutuse valdkonnas.
+<P>
+Sööt on toiduohutuse alus ning põllumajandustootjad peavad kindlustama, et tarbijatele saab tagada ohutu ja nõuetekohase toidu.
+<SPEAKER ID="381" NAME="James Nicholson" AFFILIATION="PPE-DE">
+- Proua juhataja, kas võiksin esiteks avaldada heameelt võimaluse üle pidada seda arutelu. Põllumajandustootjatele on saanud selgeks, kui haavatavad nad on selle suhtes, mida teised teevad.
+<P>
+Nii juhtus Iiri Vabariigis, aga irooniline on see, et tarvitatud õli, mis oli probleemi oletatav põhjus, pärines Põhja-Iirimaalt. Ent see sattus segajõusööta, mis pärines Iiri Vabariigist.
+<P>
+Minu arvates seisneb tekkinud probleem selles, et Iiri Vabariigi põllumajandustootjad, olenemata sellest, kas tegemist on sea- või loomalihaga, on saanud Euroopalt hüvitist, abi ja toetust. Samal ajal on Põhja-Iirimaa põllumajandustootjad jäänud abi ja toetuseta. Põhja-Iirimaa põllumajandustootjad on hävitatud ja mitmed neist on kaotamas oma põllumajandusettevõtteid ja jäämas tööta kellegi teise süül. Nad ei ole teinud midagi valesti, ei ole toime pannud rikkumist ning ma pean ütlema täna otse Euroopa Parlamendile ja volinikule, et minu arvates on Põhja-Iirimaa põllumajandustootjaid tõsiselt alt veetud mitte üksnes meie enda põllumajandusministeeriumi poolt, mis Põhja-Iirimaal on tuntud kui DARD, ja kõige rohkem ministri poolt, kes tundub olevat suutmatu, nõrk ja võimetu probleeme lahendama.
+<P>
+Iiri Vabariigi põllumajandusminister on näidanud selgelt, et ta hoolitseb eelkõige omade eest. Ma mõistan seda. Kas võiksin esitada selle küsimuse volinikule: kas saate mingit teavet uurimisest, mille politsei peaks mõlemal pool piiri läbi viima? Kas olete valmis saadud teabe põhjal tegutsema ning kas olete valmis tagama, et Põhja-Iirimaa tootjad saavad samasugust toetust nagu Iiri Vabariigi põllumajandustootjad ning et nad ei jää ilma ühestki finantsõigusest? Pealegi, ja see on minu viimane sõnum, kas tagate, et selline probleem ei korduks enam kunagi? Sellega saavutame vaid tarbija kindlustunde kadumise ja lisaks kõigele tootja hävimise.
+<SPEAKER ID="382" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+- Proua juhataja, üks allikas, mille kaudu inimesed võivad PCBdega kokku puutuda, on toiduahel, nagu ütleb volinik. Ent lahtine tuli ja sigaretisuits on palju suurem allikas palju rohkemate inimeste jaoks. Olgem proportsionaalsed ja jätkem hüsteeria sellest arutelust välja, rohkem mõistust ja vähem tundeid.
+<P>
+Söödahügieeni miinimumnõuded on tõepoolest väga tähtsad ja neid tuleb rangelt järgida, aga nendega peab kaasnema ka kõigi lihatoodete täielik määratlemine ja jälgitavus - mitte vaid loomaliha puhul, vaid ka linnu-, sea- ja lambaliha puhul. Olen pannud kirja kehtivate õigusnormide sellekohased muudatused ning me arutame neid siin Euroopa Parlamendis lühidalt.
+<P>
+Asjaomane seasööt oli tõesti saastatud leivasegu poolt, kuna Millstream Recycling kasutas tahtmatult selle leivasegu kuivatamiseks kütust, olles ostnud selle heas usus ettevõttelt, kellega ta oli teinud koostööd aastaid ja kellega tal polnud varem probleeme olnud. Käimas on politseiuurimine ning asjaomane ettevõte teeb nendega täielikku koostööd.
+<P>
+Sooviksin täielikult kummutada härra Allisteri väite, et äriühing näitas üles rasket hooletust? Tõestatakse, et see ei olnud nii, seega jälgigem hoolikamalt, mida siin ütleme.
+<P>
+Suurim probleem oli see, et pidime 100%-liselt kõrvaldama kõik sealihatooted ning need hävitama, ehkki väga lühikese aja jooksul. Paljude Iiri põllumajandustootjate elatis ning ka Iirimaa toiduainete maine välismaal kannatas, kuna pidime kasutama nii ebaproportsionaalset reaktsiooni, mil üksnes kuus kuni seitse protsenti meie seafarmidest oli saastatud, sest Iiri identifitseerimis- ja jälgitavussüsteem piirdus tapamajade tasandiga. Iirimaal peavad kõik sead olema märgistatud kõrvamärgi või tätoveeringuga, aga mingil põhjusel ei suutnud me tapamajade tasandil eristada sigu, kes olid saanud saastatud sööta, ja valdavat enamikku sigu, kes ei olnud.
+<P>
+Me peame seda teemat uurima. Komisjon peab uurima tervet identifitseerimis- ja jälgitavuskorda ning eelkõige laskma meil oodata politseiuurimist, mis, ma usun, üllatab inimesi.
+<P>
+Asjaomased ettevõtted on siiralt vabandanud, ja seda avalikult, toiduahelale ja Iirimaa mainele tehtud kahju pärast ning tegelikult ka majandusliku kahju pärast, mis on põhjustatud paljudele põllumajandustootjatele, kes on ostnud nende siiani suurepäraseid söödatooteid. Praegu nad tegutsevad taas ja toodavad, võiks öelda, suurepäraseid söödaratsioone, mida põllumajandustootjad saavad segada.
+<P>
+See oli kohutav vahejuhtum. Mitte keegi ei soovinud, et see aset leiaks.
+<SPEAKER ID="383" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+- Proua juhataja, olen üritanud Iirimaa juhtumi üle mitte kohut mõista, kuna see ei ole põhjus, miks oleme täna siin, aga sooviksin küsida volinikult kolm küsimust: millises mahus PCBsid on endiselt ringluses; kas saate tagada, et ükski neist ei saastaks toiduahelat järgmise 23 kuu jooksul, kui need on endiselt kõrvaldamisel; ning kas komisjon esitaks raporti toiduhügieeni määruse rakendamise seisu kohta, mida Euroopa Parlament soovib kuulda?
+<P>
+Samuti sooviksin öelda Jim Allisterile, et see on piiriülene teema. Saastamine, nagu meie aru saame, tulenes - nagu Jim Nicholson õigesti ütles - piiri tagant. Seepärast ei ole ma nõus Proinsiasega. See on Euroopa probleem, kuna sellel on piiriülene mõju. Mis juhtus Iirimaal, võib juhtuda mis tahes liikmesriigis, kuna meil on - nagu ma aru saan - tuhandeid tonne PCBsid ringluses. Võib-olla võiks volinik seda punkti selgitada.
+<SPEAKER ID="384" NAME="Friedrich-Wilhelm Graefe zu Baringdorf" AFFILIATION="Verts/ALE">
+(DE) Proua juhataja, lugupeetud volinik, kas komisjon on õnnetuseni viinud sündmuste käiku uurinud või rekonstrueerinud? Ma pean väidet, et tarvitatud õli põletamine ja suits, mis seejärel pihkub osasse leivasegusse, võis põhjustada sellises ulatuses dioksiinidega saastumise, mil sealihas oli dioksiinitase 200 korda suurem - mitte söödas, vaid sealihas endas - üsna naeruväärseks. Ma eeldan jätkuvalt, seni kuni või välja arvatud juhul kui tõestatakse vastupidist, et siin oli tegemist tahtliku juurdesegamisega.
+<P>
+Iga liiklusõnnetuse asjaolud rekonstrueeritakse ning uuritakse, kuidas sai selline õnnetus juhtuda. Selle õnnetuse asjaolud - kui see oli õnnetus - tuleks samuti rekonstrueerida ning tuleks uurida, kas selline põletamine ja suits, mis selle kaudu lihani jõuab, võib tegelikult põhjustada nii suure hulga dioksiinide sattumise lihasse. Praktikuna ütleksin, et kõik sellega seoses öeldu on nonsenss. See, millest siin räägime, oli tahtlik juurdesegamine ning meid muudetakse selle mürgi hoiukohtadeks; mürgi, mis ei lagune iseenesest ja mis seetõttu kestab põlvest põlve.
+<SPEAKER ID="385" NAME="Jan Mulder" AFFILIATION="ALDE">
+- (NL) See on olnud väga huvitav arutelu. Kardan, et meil tuleb selliseid juhtumeid ette ka tulevikus. Me ei saa kunagi välistada kuritegevust ning seda, et inimesed kasutavad süsteemi ära.
+<P>
+Üks teemasid, mida täna õhtul ei arutatud, on eraldusmärkide süsteem. Miks ei julgusta komisjon tööstust rohkem enda uurimisi läbi viima ning töötama välja kvaliteedi eraldusmärgid? Komisjon võib siis öelda: "me saame viia läbi kontrolle lõpus, aga esiteks peate teie tagama, et kontrollite oma kolleege, ning tagama, et sellised asjad ei juhtu. Kui töötate välja mõistliku süsteemi, siis julgustame ja tunnustame seda.” Mulle tundub, et me peame julgustama altpoolt ülespoole, et selline teguviis ei tulevikus korduks.
+<SPEAKER ID="386" NAME="Jim Allister" AFFILIATION="NI">
+- Proua juhataja, me ei arutle selle üle, et õli pärines ilmselt Põhja-Iirimaalt. Selles ei ole küsimus.
+<P>
+Asjakohane küsimus on, et Millstream otsustas selle õli osta, teades, et ta soovib kasutada õli kuivatites - et töödelda sööta ja kuivatada leivasegu - seega, miks ta ostis sellist õli, olenemata selle päritolust?
+<P>
+Miks seda ei kontrollinud riiklikud inspektorid ja ettevõte ise? Õli kasutamine sellistel asjaoludel on, nagu mulle tundub, ebaseaduslik, toidu- ja hügieenimääruste rikkumine. Seega, kust see pärines, ei ole oluline - oluline on, miks see sinna sattus ja miks seda kasutati just sel eesmärgil?
+<SPEAKER ID="387" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+- Proua juhataja, härra Graefe zu Baringdorfi väide, et seda saasteainet segati tahtlikult sööda sisse on põlastusväärne ja professionaalse poliitiku jaoks sobimatu. Oodakem õigusliku uurimise lõppu.
+<P>
+Asjaomane ettevõte, Millstream Recycling, teeb täielikku koostööd. Neil on kõik dokumentaalsed tõendid, et tõestada, et nad ostsid selle õli Dublini litsentseeritud ettevõttelt, mis tarnib õli. Nad ostsid selle kui ümbertöödeldud kergkütteõli, mis oleks olnud õige õli selles kuivatusprotsessis kasutamiseks. Selle müüs neile litsentseeritud ettevõte ning nemad ostsid enda arvates ümbertöödeldud kergkütteõli; nad kinnitavad siiski, et neile anti trafoõli, mis tekitas dioksiinid.
+<P>
+Toimub õiguslik ja politseiuurimine. Oodakem nõuetekohane menetlus ära ja lõpetage selliste väidete väljaütlemine, kuna see on väga tõsine küsimus, millele ei aita kaasa hüsteeriline ja ülekeev reaktsioon.
+<SPEAKER ID="388" NAME="James Nicholson" AFFILIATION="PPE-DE">
+- Proua juhataja, kõik on nõus - keegi ei eita - et, jah, õli pärines Põhja-Iirimaalt. Me ei saa seda eitada. Aga sel ajal, kui me vaidleme, jääb Põhja-Iirimaal kaheksa põllumajandustootjat tööta ja sama juhtub Iiri Vabariigis. Nad on ka kannatanud, ma olen sellega nõus. See ei ole poliitiline. Tegemist on tavainimeste kannatustega ning meie põllumajandustootjad kannatavad rahaliselt.
+<P>
+Tõsi on see - ja me peame sellele vastu astuma ning teie, lugupeetud volinik, peate sellele vastu astuma - et meil oli tonnide viisi sealiha, mis oli tuvastamatu. Keegi ei teadnud, kust see pärines, millistelt sigadelt see saadi või kust see tuli. Lugupeetud volinik, on aeg, juba ammu, et te kehtestaksite otsese selge päritolumärgistuse nõude. Vähemalt kui meil oleks olnud sellega tegemist, siis oleksime teadnud, mis seisus oleme ja kus see on.
+<P>
+Ma ei soovi seda poliitiliseks muuta, kuna minu jaoks see ei ole poliitiline. Ma kõnelen oma põllumajandustootjatega iga päev ning väga tõenäoliselt jäävad mõned neist oma põllumajandusettevõtetest ilma. Seega see on tõsine küsimus. Kui peame jälgima õiguslikku uurimist kuni selle lõpliku järelduseni, siis soovin näha, et see juhtub - aga ma soovin näha, et minu põllumajandustootjaid kaitstakse, ning ma ei soovi näha neid reedetuna. Soovin näha neid teie poolt nõuetekohaselt kaitstuna, nii et nad saavad samasuguse seisuse ja kaitse nagu Iiri Vabariigi põllumajandustootjad.
+<SPEAKER ID="389" NAME="Androulla Vassiliou">
+komisjoni liige. - Proua juhataja, see arutelu on olnud päris elav ja on esitatud mitu küsimust. Samuti on tehtud mitmeid oletusi ning ma nõustuksin proua Doyle'iga, et me peame olema kannatlikud ja ootama selle uurimise lõppu. Seejärel saame teha järeldusi ja võtta vastu otsused edaspidiseks. Pean ütlema ühte asja - ma ei olnud siis asjaga seotud, aga olen sellest kuulnud -, et samasuguseid vahejuhtumeid on esinenud Saksamaal ja Belgias ning kõigis liikmesriikides teavitati ulatuslikult nendest vahejuhtumitest. Seega oleksin arvanud, et arukas liikmesriik oleks kasutanud rangemaid kontrollimeetmeid. Aga isegi kõige rangemate kontrollimeetmetega võib selline asi juhtuda kas pettuse või hooletuse või mille iganes tõttu. Meie kohustus on tagada, et meil on õigusnormid - mis on minu arvates praegu rahuldavad -, ning tagada, et liikmesriigid järgivad neid õigusnorme. Meie kui komisjoni ülesanne on kontrollida ja tagada, et liikmesriigid täidavad oma kohust.
+<P>
+Veterinaar- ja toiduametid viivad läbi oma kontrolle ning veterinaar- ja toiduametite aruanded on üldsusele kättesaadavad, seega seda, mil määral meie seadusi täidetakse, saab järeldada neist aruannetest, mida koostatakse lausa riigi kaupa.
+<P>
+Mitmed teist tõstatasid jälgitavuse küsimuse, mis on tõepoolest üks peamistest üldise toiduõiguse alustaladest ning käitlejate kohustus, kes peavad olema suutelised tõendama, kellelt nad on ostnud ja kellele nad müüvad. Ent sisese jälgitavuse üksikasjalikkus või täpsus, mille käitleja on valinud, määrab lõpliku majandusliku kahju, mida käitleja peab turult tagasivõtmise korral kandma. Käesoleval juhul nõuti jälgitavuse eeskirjadega Iirimaal üksnes tootmiskuupäeva ja mitte põllumajandustootjat, kust liha pärines. Seetõttu tuli turult tagasi võtta kogu liha, mis oli nende kahe kuu jooksul toodetud. Kui oleks kehtinud rangemad jälgitavuse eeskirjad (mis oleksid muidugi rohkem maksma läinud), oleks tagasi võetud üksnes sellelt teatavalt põllumajandusettevõtjalt pärineva lihana tuvastatud liha. Seega tuleb otsustada, kas maksta rohkem ja saavutada paremad jälgitavuse eeskirjad või maksta vähem ja lõppkokkuvõttes kanda kahju.
+<P>
+Mainiti, et oleme andnud abi, komisjoni nimel - kuigi hüvitise maksmine ei ole minu vastutusala, vaid volinik Fischer Boeli oma - ning isiklikult pean ütlema, et käesoleval juhul tehti samadel alustel makseid nii Iiri Vabariigis kui ka Põhja-Iirimaal. Mul on mõned näitajad. Komisjon on kehtestanud Põhja-Iirimaal eraladustusabi kava ja selle kava alusel võib ladustada kuni 15 000 tonni maksimaalselt kuueks kuuks. Selle meetme eelarve on 6,9 miljonit eurot. Samasugune eraladustuskava võeti vastu ka Iiri Vabariigis. Selle kava alusel võib kuni 30 000 tonni ladustada kuni kuueks kuuks, maksimumeelarvega 13,9 miljonit eurot. Iiri Vabariigis oli ka kõrvaldamiskava, mida kaasrahastas ühendus ning mille maksumus oli 20,6 miljonit eurot. Komisjon ei ole teinud makseid otse põllumajandustootjatele ei Iiri Vabariigis ega Põhja-Iirimaal, kuna puudus õiguslik alus selliseks hüvitiseks.
+<P>
+Kokkuvõtteks ütleksin, et meil on head õigusnormid, aga tulevikus peame alati olema valvel. Peame tagama, et neid õigusnorme kohaldatakse liikmesriikide poolt, ning vajame liikmesriikide koostööd. Komisjon omalt poolt peab nõuetekohasel tasemel kontrollima ja tagama, et liikmesriigid täidavad meie määrusi.
+<P>
+Lisaks sellele, kui saame järelepärimiste ja uurimiste tulemused, siis saame mõelda tulevikule. Kui usume, et meie määruste puhul on arenguruumi, siis kahtlemata arendame neid.
+<SPEAKER ID="390" NAME="Juhataja">
+Arutelu on lõppenud.

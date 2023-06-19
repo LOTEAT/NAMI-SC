@@ -1,0 +1,4 @@
+<CHAPTER ID="013">
+Turno de votaciones
+<SPEAKER ID="246" NAME="Presidente">
+Vamos a proceder a las votaciones.

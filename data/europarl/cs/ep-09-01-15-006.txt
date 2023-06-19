@@ -1,0 +1,6 @@
+<CHAPTER ID="006">
+Hlasování
+<SPEAKER ID="068" NAME="Předseda">
+Dalším bodem je hlasování.
+<P>
+(Výsledky a další podrobnosti hlasování: viz zápis)

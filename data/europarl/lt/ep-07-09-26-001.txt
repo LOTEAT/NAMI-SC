@@ -1,0 +1,16 @@
+<CHAPTER ID="001">
+Posėdžio pradžia
+<P>
+(Posėdis prasidėjo 9.00 val.)
+<SPEAKER ID="004" NAME="Pirmininkė">
+Gerbiamieji nariai, labas rytas! Šiandien, rugsėjo 26 d., yra Europos kalbų diena. Mūsų pareiga priminti žmonėms Europos Parlamente, kalbų šventovėje, apie šios dienos svarbą Europos Sąjungos filosofijai ir esmei bei darbą, korį mes atliekame, norėdami sukurti daugiakultūrę Europą, kurioje gerbiami žmonių saviti bruožai, kultūros ir dvasia.
+<SPEAKER ID="005" NAME="Josu Ortuondo Larrea" AFFILIATION="ALDE">
+- (ES) Gerb. Pirmininke, labai ačiū, kad suteikėte man žodį. Šiandien švenčiame Europos kalbų dieną ir aš noriu išreikšti daugelio Ispanijos valstybės piliečių jausmus, kurie nesupranta, kodėl juos diskriminuoja Europos Parlamento biuras, nes katalonams, galicijams ir baskams, kaip ir man, piliečių atstovams, Parlamente neleidžiama naudoti savo kalbos.
+<P>
+Ne taip, kaip Komisijoje, Taryboje ir Regionų komitete, kuriuose žmonių atstovai gali pasisakyti šiomis bendrosiomis oficialiomis kalbomis, biuras atsisako priimti baskų, katalonų arba galicijų kalbas - bendrąsias oficialios Ispanijos valstybės kalbas.
+<P>
+Gerb. Pirmininke ...
+<P>
+(Kalbėjusysis kalbėjo baskų kalba)
+<SPEAKER ID="006" NAME="Pirmininkė">
+Josu Ortuondo Larrea, pirmininkaujančioji valstybieškos informacijos šiuo klausimu, net jeigu tai yra kažkas tokio, apie ką diskutavome daug kartų ir atsakymai gerai žinomi.

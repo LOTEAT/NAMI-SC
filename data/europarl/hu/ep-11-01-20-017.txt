@@ -1,0 +1,6 @@
+<CHAPTER ID="017">
+A jelen ülésen elfogadott szövegek továbbítása: lásd a jegyzőkönyvet
+<SPEAKER ID="413" NAME="Robert Sturdy" AFFILIATION="ECR">
+Elnök úr, az imént tartottunk két név szerinti szavazást. Ma délelőtt, ebéd előtt csak két név szerinti szavazás volt. Az a szabály itt a Parlamentben, hogy az idő több mint 50%-ában és a név szerinti szavazások 50%-ában szavazni kell ahhoz, hogy valaki megkapja az egész napi napidíjat. Ez ebben az esetben is így van, vagy mi a helyzet?
+<SPEAKER ID="414" NAME="Elnök">
+Ez így van. Az idő 50%-ában itt kell lenni.

@@ -1,0 +1,146 @@
+<CHAPTER ID="013">
+Väärtpaberite üldsusele pakkumine ja läbipaistvuse nõuete ühtlustamine (direktiivide 2003/71/EÜ ja 2004/109/EÜ muutmine) (arutelu)
+<SPEAKER ID="473" NAME="Juhataja">
+Järgmine päevakorrapunkt on majandus- ja rahanduskomisjoni nimel Wolf Klinzi koostatud raport ettepaneku kohta võtta vastu Euroopa Parlamendi ja nõukogu direktiiv, millega muudetakse direktiivi 2003/71/EÜ väärtpaberite üldsusele pakkumisel või kauplemisele lubamisel avaldatava prospekti muutmise kohta ja direktiivi 2004/109/EÜ läbipaistvuse nõuete ühtlustamise kohta teabele, mis kuulub avaldamisele emitentide kohta, kelle väärtpaberid on lubatud reguleeritud turul kauplemisele - C7-0170/2009 -.
+<SPEAKER ID="474" NAME="Wolf Klinz">
+raportöör. - (DE) Lugupeetud juhataja, austatud volinik! Kui mul kulub üle nelja minuti, teen lõppsõna lühemalt, et ma ei ületaks oma kuut minutit.
+<P>
+Prospektidirektiiv pandi algselt kokku 2003. aastal, tingimusega, et see vaadatakse 2009. aasta septembris uuesti läbi. Seda on ka tehtud. Prospektidirektiiv käsitleb prospektide täiendamist, kinnitamist ja avaldamist kui eeltingimusi väärtpaberite üldsusele pakkumiseks või reguleeritud turule emiteerimiseks Euroopa Liidus. Üldjoontes puudutab praegune ülevaatamine tehnilisi aspekte ning selle eesmärk on kaotada õiguslik ebakindlus ja põhjendamatult koormavad nõuded.
+<P>
+Alustuseks tahaksin tänada südamest kõiki parlamendiliikmeid, kes on siin koos meiega tööd teinud, ja samuti variraportööre. Meil on olnud väga hea koostöö, ka komisjoniga. Ilma niisuguse hea koostööta poleks me tegelikult suutnud jõuda selle paketiga esimesel lugemisel vähem kui kümne kuuga eduka kokkuleppeni. Tahaksin nüüd tutvustada lühidalt sõlmitud kokkulepet - ja see hõlmab ka kolmepoolseid läbirääkimisi -, tuues välja kaheksa põhipunkti, milles me jõudsime üksmeelele.
+<P>
+Esiteks oli üks meie eesmärkidest hõlbustada väikeste ja keskmise suurusega ettevõtete juurdepääsu kapitaliturule. Te teate, et USAs hangib märksa suurem protsent ettevõtteid, sealhulgas VKEsid, rahalisi vahendeid turu kaudu, samas kui Euroopas on üldine tava, eriti väikeste äriühingute hulgas, et rahalised vahendid tulevad pangalaenude teel. Tahame siin anda väikestele äriühingutele võimaluse kasutada turgu rohkem kui varem. Seepärast tõstsime VKEsid bürokraatia ja kuludega koormavast prospektinõudest vabastamise künnise 2,5 miljonilt eurolt 5 miljonile eurole.
+<P>
+Teine punkt puudutab investorite kaitset. Tahame olla kindlad, et saame anda sellise hõlbustamise käigus väikesele erainvestorile piisavaid tagatisi. Seetõttu tõstsime väärtpaberite puhul prospektinõudest vabastamise künnise nimiväärtuselt 50 000 nimiväärtusele 100 000.
+<P>
+Kolmas punkt, mille tahaksin esile tuua, puudutab küsimust, kuidas võimaldada töötajatel osaleda äriühingu aktsiakapitalis, ilma et see äriühing peaks kandma suhteliselt suuri prospekti väljaandmise kulusid. Tegemist on niisiis prospektinõude lõdvendamisega, kui pakutakse töötajate osalusprogramme. Siin oleme toonud sisse proportsionaalsusklausli, milles oleme kõrvaldanud ebavajaliku avalikustamisnõude. Samal ajal oleme siiski taganud, et on olemas dokument, milles on esitatud üksikasjalikult põhiteave, nii et sedalaadi osaluse võimalust ära kasutavad töötajad kujutaksid ette, mis neid ootamas on. Samuti oleme hoolitsenud selle eest, et ka äriühingud, mis on noteeritud kolmandas riigis, s.t väljaspool Euroopa Liitu, vabastatakse sarnaselt Euroopa äriühingutega prospektinõudest, kui nad pakuvad oma töötajatele aktsiaid, tingimusel, et nad suudavad tõendada vastavust avalikustamisnõudele.
+<P>
+Neljas teema, mida me arutasime ja milles kokkuleppele jõudsime, on üldiselt tuntud niinimetatud prospekti kokkuvõttena. Seda võib käsitleda järgmisel moel: prospekt on tavaliselt üks paks ja mahukas dokument, mis sisaldab sageli mitusada lehekülge. Lisaks on sellel kokkuvõte, mis koosneb tihti veel 50, 60 või 70 leheküljest. Me tahame, et Euroopa Parlament lühendaks seda nii, et alles jääks niinimetatud investori põhiteave või dokument, mis sisaldab sellist investoritele olulist teavet, mida esitavad traditsioonilised investeerimisfondid nagu eurofond. Komisjon ei olnud tegelikult selle peale mõelnud ja soovis vaid tagada, et kokkuvõte tõepoolest ka sisaldaks põhiteavet.
+<P>
+Oleme nüüd kokku leppinud, et kui kokkuvõte säilitab oma praeguse kuju, peame ühtlasi tagama, et selles leiduks tõesti põhiteave, mis sätestatakse lõplikult direktiivi nõuete ja teisel astmel toimuva väljatöötamise kaudu. See aitaks lühendada kokkuvõtet märgatavalt, kahandades praegust 60-, 70- või 80-leheküljelist mahtu vahest 20 või 30 leheküljeni, ja muudaks selle loetavamaks, eelkõige väikeinvestoritele. See on oluline, sest me ei taha, et väikeinvestorid kõrvale jääksid.
+<P>
+Viiendaks vastutuse küsimus: kes tagab prospekti koostamisel sisu täpsuse? Kui seda prospekti kasutab vahendaja ja kui ta teeb omavolilisi sisumuudatusi, siis on vastutajaks vahendaja. Prospektinõue aegub kas pakkumisperioodi lõppedes või kauplemise alates, sõltuvalt sellest, kumb kuupäev on hilisem.
+<P>
+Seitsmendaks läbivaatamisklausel: nii nagu eelminegi, tuleb ka see direktiiv viie aasta pärast läbi vaadata.
+<P>
+Minu viimane tähelepanek on see, et kõnealuse dokumendi näol on meil tegemist esimese õigusaktiga, mis on viidud kooskõlla Lissaboni lepingu sätetega. Lõpetuseks lubage mul öelda, et majandus- ja rahanduskomisjoni juhatus on suutnud kanda hoolt selle eest, et Euroopa Parlamendile antakse piisavalt aega. Meil on komisjonile vastamiseks kolm kuud ja vajaduse korral antakse veel kolm kuud pikendust. Sellele vaatamata oleme võtnud endale kohustuse anda, juhul kui muud variandid ebaõnnestuvad, kiire heakskiit, see tähendab suruda see õigusakt läbi võimalikult ruttu.
+<P>
+See rahuldab kõiki asjaosalisi.
+<SPEAKER ID="475" NAME="Michel Barnier" LANGUAGE="FR">
+Lugupeetud juhataja, austatud parlamendiliikmed! Kui mul oli au esineda Euroopa Parlamendi ees 13. jaanuaril, enne Euroopa Komisjoni liikmeks nimetamist, võtsin ma endale kohustuse parandada investorite kaitset ja vähendada halduskulusid, mis tekivad ettevõtetele, eriti väikestele ja keskmise suurusega ettevõtetele, kes - nagu me teame - moodustavad ühtsel turul 80-90% majandussektorist. Seetõttu on mul hea meel, et parlament on selle läbivaadatud prospektidirektiivi esimesel lugemisel vastu võtnud. Tegemist on muudetud direktiiviga, milles lihtsustatakse ja selgitatakse väärtpaberite emiteerimise eeskirju, millega toetatakse väikesi ja keskmise suurusega ettevõtteid - nagu Wolf Klinz meile äsja õigesti meelde tuletas -, hõlbustades nende juurdepääsu kapitaliturgudele, ning millega aidatakse tugevdada kapitali siseturgu. Läbirääkimistes selle direktiivi üle oli palju kasu tihedast koostööst Euroopa Parlamendiga ja enamgi veel, sest parlament ja nõukogu on esitanud olulisi täiustusi, kuid ka komisjonil on endastmõistetavalt oma osa.
+<P>
+Seepärast tahaksin komisjoni nimel südamest tänada teie raportööri Wolf Klinzi ning majandus- ja rahanduskomisjoni tõhusa töö ja edasiviiva koostöö eest. Me oleme praeguse kompromisstekstiga rahul, sest see on koostatud esialgse ettepaneku vaimus.
+<P>
+2003. aasta prospektidirektiivil olid väga selged ja vaieldamatud voorused. Selles sätestati ühtlustatud eeskirjad (mis sisaldasid üht olulist uuendust) selle kohta, mida Euroopa äriühingud peavad väärtpaberite emiteerimisel avaldama. Kui prospekt on ühes liikmesriigis heaks kiidetud, kehtib see kogu liidus. 2003. aasta raamistikku tuli siiski ümber kohandada, et parandada prospektisüsteemi õiguslikku selgust ja tõhusust ning vähendada halduskulusid.
+<P>
+See on põhjus, miks edaspidi kehtivad tänu teile ja tänu sellele läbivaatamisele teatud liiki väärtpaberite emissioonide korral väikestele ettevõtetele, väikelaenajatele ning eelisostuemissioonidele ja riiklikele tagatistele lihtsustatud deklareerimise kohustused. Prospekti kokkuvõtte vormi ja sisu täiustatakse. Prospekti avaldamise kohustusest vabastamise erandeid on selgitatud juhtudel, kui äriühingud müüvad vahendajate või jaeturustusahelate kaudu või annavad aktsiad üle töötajatele. Lisaks tühistatakse deklareerimiskohustused, mis praegu kattuvad osaliselt läbipaistvusdirektiivi nõuetega.
+<P>
+See on meie ühistöö tulemus. Selle läbivaadatud direktiiviga nähakse niisiis ette tasakaalustatud vahend, mida on kohandatud vastavalt keerukatele küsimustele, mille on tõstatanud kapitaliturgude investorid ja emitendid, olgu tegemist väikeste ja keskmise suurusega ettevõtetega või suurte soliidsete äriühingutega. Selle dokumendi vastuvõtmine esimesel lugemisel annab kindlalt märku, et Euroopa Liit peab kinni oma kohustusest lihtsustada ja vähendada halduskoormust, kuid samal ajal säilitada ja isegi parandada investorite kaitset. See on põhjus, miks ma tahaksin veel kord tänada teie raportööri ning tänada teid selle eest, et kiitsite selle paindliku kompromissi heaks, soosides lihtsustamist ja eelkõige soosides kogu Euroopas väikesi ja keskmise suurusega ettevõtteid.
+<SPEAKER ID="476" NAME="Diogo Feio" LANGUAGE="PT">
+Alustuseks tahaksin mainida tõhusat tööd, mida oleme saanud majandus- ja rahanduskomisjonis teha tänu mitmete selle liikmete ettepanekutele, ja tuua esile raportööri, meie kolleegi Wolf Klinzi rolli hea tulemuse saavutamisel. Rääkides prospektidest, räägime me mõistagi avalikustamisest, turu turvalisusest ja paremast juurdepääsust investeerimisele. Just sel põhjusel olen ma mõnikord tundnud, et tarbijatele vajaliku kaitse ja investorite kaitse vahel, mis on samuti vajalik, on selgesti tajutav konflikt.
+<P>
+Meie suutsime leida tasakaalu. Lahendused ei olnud sageli ühesugused, ent olulisem on see - ja see väärib ka rõhutamist -, et lõppkokkuvõttes pöörati läbivaatamisel tähelepanu väikestele ja keskmise suurusega ettevõtetele, vajadusele austada väikeinvestoreid, pidades silmas suurema lihtsustamise võimalust, suuremat selgust erandite osas ja äriühingute väiksemaid kulusid, milleks tuli vähendada tihti ülemäärast halduskoormust.
+<P>
+Nõukogu, komisjoni ja parlamendi vastavad seisukohad ei ole kolmepoolsetel läbirääkimistel endastmõistetavalt sageli täpselt samad. Sellegipoolest oli võimalik saavutada ELi tasandil turu tulevase turvalisuse huvides tasakaal ja ma tahaksin siinkohal rõhutada, et see on hea.
+<SPEAKER ID="477" NAME="Catherine Stihler">
+fraktsiooni S&D nimel. - Lugupeetud juhataja! Tahaksin tänada raportööri ja kõiki variraportööre koostöö eest.
+<P>
+Usun, et fraktsioon S&D kiidab saavutatud kompromissid heaks, sest need on õiglased ja toovad meie arvates kaasa investorite suurema kaitse, eriti väikeste jaeinvestorite puhul. Ma leian, nagu ütles ka volinik, et need on saavutatud esialgse direktiivi vaimus.
+<P>
+Kui vaadelda kokkuvõtet ja põhiteavet sisaldavat dokumenti - Wolf Klinz rääkis sellest ja vajadusest saavutada selgus -, leian ma, et oleme jõudnud sõnastuseni, millega tagatakse selgus ja väljendatakse samas arusaadavalt, et tsiviilvastutus jääb põhiprospektiga seotuks.
+<P>
+Lisaks oleme täpsustanud prospekti või lisateabe avaldamise tähtaega ning selgitanud ka prospektiga seotud nõudeid ja kohustusi, kui väärtpabereid ei müü otse emitent, vaid see toimub vahendajate kaudu.
+<P>
+Künnistest. Tuleb tunnistada, et tegemist oli pigem väikese sõrmenipsu kui järsu muutusega, kuid saavutatud kompromissid olid õiglased ja tasakaalus ning fraktsioon S&D toetab neid.
+<P>
+Leian, et kiiduväärt samm on saada selgust kutselise investori määratluses ja samuti kolmandate riikidega kauplemise järelevalve mõjus.
+<P>
+Kooskõlas parema reguleerimisega tundub mõistlikuna ka otsus, et töötajate osalusskeemide puhul ei nõuta prospekti. Lõppude lõpuks, kui töötajad ei soovi investeerida omaenda firmasse, peaks juhtkond vahest tegema sellest omad järeldused.
+<P>
+Töö delegeeritud õigusaktidega - Wolf Klinz mainis seda. Kolme kuu kompromiss on ülioluline ja see on samm parlamendi võetud suunas.
+<P>
+Ma kasutan prospektidirektiivi otsust kindlasti mõõdupuuna töös, mida hakkan tegema ehitustoodete raportöörina, samas kui nõukogu kasutab mõõdupuuna pigem lemmikloomade direktiivi kui prospektidirektiivi.
+<P>
+Mis puudutab prospekti elektroonilist avaldamist, siis minu meelest on ka see teretulnud. Seda on ka klausel, milles nõutakse direktiivi läbivaatamist viie aasta pärast.
+<P>
+Nii et kokkuvõttes, lugupeetud juhataja ja austatud raportöör, toetab fraktsioon S&D saavutatud kompromisse ja me jääme rõõmuga ootama võimalust toetada homsel hääletusel esimese lugemise kokkulepet.
+<SPEAKER ID="478" NAME="Olle Schmidt" LANGUAGE="SV">
+Lugupeetud juhataja! Finantskriisi taustal nõutakse põhjendatult finantsturu suuremat läbipaistvust ja paremat reguleerimist. Minul pole selle vastu midagi, ent nagu alati uute eeskirjade sisseseadmisel, tuleb seda teha tasakaalustatult. Euroopa majanduse kasvuvõimet ei suurenda ebamõistlikud ettepanekud, isegi kui neil on õiguspärased eesmärgid.
+<P>
+Seetõttu tahaksin tänada raportööri, kolleeg doktor Klinzi suurepärase töö eest, milles võetakse seisukoht nende ülemäärastesse peensustesse langevate eeskirjade ja määruste suhtes. Tema ettepanek suurendab õiguskindlust ja kaotab põhjendamatult ranged nõuded, et vähendada 2012. aastaks äriühingute halduskoormust 25%. Minu fraktsioon ja loomulikult ka mina oleme rahul kompromissiga, milleni doktor Klinzi ja teistega jõuti. Ettepanek vähendab väikeste ja keskmise suurusega ettevõtete halduskoormust, kuid - ja ma leian, et on oluline seda öelda - ta teeb seda investorite kaitset vähendamata. Seda mainis ka Michel Barnier.
+<P>
+Arutelu on muidugi keskendunud künnistele, mida tuleb kohaldada prospektide avaldamisel seoses näiteks eelisostuemissioonidega. Arvan, et need on hästi tasakaalustatud ja võimaldavad siseturul paremini toimida. Ettepanek tähendab mõistagi seda, et väikesed ja keskmise suurusega ettevõtted ei pea prospekti koostama ja seetõttu on neil lihtsam kapitali ligi meelitada. Künnis tõstetakse 2,5 miljonilt eurolt 5 miljonile eurole. See on tasakaalustatud ettepanek. See hõlbustab ka regionaalpankadel võlakirju välja võtta, sest selliste mittekapitaliväärtpaberite nagu intressi kandvate laenude ja struktureeritud toodete puhul tõstetakse künnised 50 miljonilt eurolt 75 miljonile eurole.
+<P>
+Kokkuvõttes tahaksin sarnaselt kolleegiga Sotsiaaldemokraatide ja demokraatide fraktsioonist Euroopa Parlamendis tänada doktor Klinzi tõesti suurepärase töö eest. See raport on suur samm edasi miljonite väikeste Euroopa äriühingute tingimuste parandamiseks.
+<SPEAKER ID="479" NAME="Vicky Ford">
+fraktsiooni ECR nimel. - Lugupeetud juhataja! Tean, et see pole meil just kõige esileküündivam raport, kuid ta võiks seda olla, sest prospektidirektiiv on tegelikult aidanud otsustavalt reguleerida Euroopa firmade juurdepääsu kapitalile. See iseenesest on Euroopa tulevase majanduskasvu arenguvaru jaoks äärmiselt tähtis.
+<P>
+On olnud suur rõõm töötada koos variraportööridega, kuid eriti Wolf Klinzi juhendusel. Ta on andnud algsele komisjoni ettepanekule ja nõukogu seisukohale tõelise väärtuse. Leian, et tulemusena saadud dokument pole mitte üksnes tehniliselt toimiv, vaid sellega on saavutatud Euroopas ka hea tasakaal investorite kaitse ja ettevõtete kapitaliturule juurdepääsu lihtsustamise vahel. Oleme teinud õiguskindluse nimel suurt tööd ning selgeid edusamme on tehtud ka prospektide ajakohastamisel ja lisadega täiendamisel. Oleme püüdnud aidata investoreid seoses kokkuvõtte sisu ja põhiteabe mõistega.
+<P>
+Mul on eriti hea meel selle üle, et eelisostuemissioonide avalikustamise kord muutub lihtsamaks. Usun, et see aitab nii suuremaid kui ka väiksemaid äriühinguid. Ajal, mil turud on ebastabiilsed, võib prospekti hind olla see, mis paneb mõne äriühingu loobuma isegi katsest hankida lisakapitali. Praegusel hetkel peame seda eriti meeles pidama.
+<P>
+See on väga rõõmustav pretsedent. Ma jään ootama edasist valdkondlikku analüüsi, kui vaatleme aasta lõpu poole finantsinstrumentide turgude direktiivi. Nagu ma ütlesin, on see näide konkreetsest meetmest, mille me võtame, et parandada Euroopa keskkonda ettevõtjate jaoks ja meie tulevikku investeerimiseks.
+<SPEAKER ID="480" NAME="José Manuel García-Margallo y Marfil" LANGUAGE="ES">
+Austatud juhataja, lugupeetud volinik! Me teame mitut asja. Me teame, et see kriis on olnud kui muteeruv viirus: see algas kinnisvarakriisina, muutus hiljem panganduskriisiks, seejärel majanduskriisiks ja lõppes riigivõlakirjade kriisina, mis võib tuua selles sektoris enda kannul teisigi kriise.
+<P>
+Teame ka seda, et see kriis on olnud väga kulukas. Teie talituste andmetel moodustavad finantssektorile antava abiga seotud kohustused 3,5 miljardit eurot, teisisõnu ühe kolmandiku ELi sisemajanduse koguproduktist. Samuti teame, et üks kriisi peamisi põhjusi oli toodete, institutsioonide ja turgude läbipaistvuse puudumine.
+<P>
+Seepärast on raport, mida me praegu arutame, nii tähtis. Kui te soovite statistikat, siis tuletaksin teile meelde, et ainuüksi Ameerika Ühendriikides suurenes aastatel 2000-2006 varaga tagatud väärtpaberite maht neli korda ja hüpoteegiga tagatud väärtpaberite maht seitse korda. Pealegi ütlesid ühe lugupeetud panga nõustajad alles hiljuti kohtu ette ilmudes, et neil ei olnud eriti head ettekujutust sellest, mida nad müüsid.
+<P>
+Teame ka seda - ja see on kolmas tõdemus -, et paljud nendest kohustustest, mille me endale G 20 kohtumisel võtsime, pole jõudnud - nagu ütleb üks Hispaania poeet - muusade juurest teatrisaali, nad ei ole jõudnud kujutelmast kirjasõnani.
+<P>
+Samuti teame, et kogu selle finantssektori ümberkujundamise juures on kolm põhimõtet, mida mina pean peamisteks: üleeuroopaliste üksuste üle peavad teostama järelevalvet üleeuroopalised asutused; meie käsutuses peavad olema vajalikud meetmed, et avastada viirus ja vältida nakkust; ja viimaseks, me peame vältima olukorda, kus rahvas peab maksma nende nakkuste eest, mida ta ei ole ise põhjustanud.
+<P>
+Lugupeetud volinik, teil on teha suur töö, kui me ei taha, et järgmine kriis tabaks meid kõige ootamatumal hetkel.
+<P>
+Lõpetan prantsuse keeles, soovides teile teie ülesande täitmisel de l'audace, encore de l'audace et toujours de l'audace - vaprust, vaprust ja veel kord vaprust.
+<SPEAKER ID="482" NAME="George Sabin Cutaş" AFFILIATION="S&amp;D">
+(RO) Läbipaistvuse topeltkohustuste kaotamise ja avalikustamisnõuete vähendamisega väikese turukapitalisatsiooniga äriühingute puhul saavutatakse hinnanguline kokkuhoid 110 miljonit eurot aastas. Seetõttu aitab prospektidirektiivi läbivaatamine anda taganttõuke Euroopa Liidu väikeste ja keskmise suurusega ettevõtete konkurentsile. Me ei tohi unustada, et väikesed ja keskmise suurusega ettevõtted on Euroopa Liidu majanduse edasiviiv jõud. Aastatel 2002-2008 lõid nad Euroopa Liidus 9,4 miljonit töökohta ja praegu pakuvad tööd 90 miljonile Euroopa kodanikule.
+<P>
+Samas tuleks finantsläbipaistvuse nõudeid Euroopa Liidu tasandil ühtlustada, et vähendada Euroopa äriühingute halduskoormust. Sellest tulenevalt peab vastloodud Euroopa Väärtpaberiturujärelevalve Asutus kontrollima prospektide läbivaatamise ja kinnitamisega seotud liikmesriikide õigusaktide ühtlustamist.
+<SPEAKER ID="483" NAME="David Casa" AFFILIATION="PPE">
+Lugupeetud juhataja! Mitmel viimasel aastal oleme näinud Euroopa turgudel suurt ebastabiilsust ja paljud on kandnud suurt kahju. Seega peame tagama, et investorid, eriti jaeinvestorid, saaksid Euroopa Liidus piisavat kaitset. Investoritel peaks olema võimalus saada teadlike otsuste tegemiseks vajalikku teavet. Hästi struktureeritud raamistiku olemasolu muudab ühtlasi Euroopa turgu turvalisemaks ja järelikult tõsiseid investoreid ligimeelitavaks.
+<P>
+Prospektidirektiiv on olnud põhjapanev, sest sellega on kehtestatud kogu Euroopa Liidus selle sektori normid, nagu on tehtud ka eurofondide direktiiviga. Tehnilisi õigusakte, millega seda muutuvat sektorit reguleeritakse, tuleks korduvalt läbi vaadata, kohandada ja ajakohastada, et tagada nende jätkuv asjakohasus ja päevakajalisus. Olen nõus, et mõned direktiivi sätted olid ebavajalikud ja mitmed ettevõtete kohustused tuleks kaotada. Kasu, mida need investorile toovad, on tühine, samas kui nad koormavad äriühingut märkimisväärselt. Määratluste tõhustamine tõlgendamisprobleemide vältimiseks eri liikmesriikides tõhustaks ka asjaomast sektorit.
+<P>
+Lõpetuseks tahaksin tunnustada meie raportööri Wolf Klinzi suurepärase töö eest. Tahaksin kiita ka kõiki variraportööre. Leian, et see raport on tasakaalukas ja proportsionaalne.
+<SPEAKER ID="484" NAME="Sari Essayah" AFFILIATION="PPE">
+(FI) Lugupeetud juhataja, austatud volinik! Minu arvates on raport prospektidirektiivi muutmise kohta rõõmustav, sest paljud nendest muudatustest vähendavad äriühingute halduskoormust. Raportöör ja variraportöörid on teinud niisiis suurepärast tööd.
+<P>
+Prospektinõudeid vähendades peab vastukaaluks arvestama alati investori kaitse küsimust. Prospekti kokkuvõtte õiguslikku alust selgitati ja laialdase õigusliku aluse mõttest loobuti ning see on hea, sest pikk prospekti kokkuvõte oleks raskesti mõistetav ja investoril oleks võinud tekkida tunne, et tegelikku prospekti pole vaja hoolikalt läbi lugedagi. Nüüd peab prospekti kokkuvõte vastama lihtsalt prospektile, nende vahel ei tohi olla vasturääkivusi. Tegelik õiguslik vastutus peitub prospektis endas leiduva teabe tõetruuduses. Tahan avaldada ka tunnustust prospekti sisu käsitlevate nõuete selgitamise eest, sest nõuete ühtne ülesehitus saab üksnes suurendada nende kokkuvõtete arusaadavust.
+<P>
+Oma teises muudatusettepanekus tahtsin, et prospektinõue jääks töötajate kapitalipaigutuste puhul alles. See põhines arusaamal, et kõiki investoreid tuleb kohelda võrdselt. Ei saa kogu aeg järjekindlalt eeldada, et äriühingu töötajate hulka kuuluv väikeinvestor teab äriühingust ja selle väärtpaberitest piisavalt. Tulevikus on selle teema juurde vahest veel põhjust tagasi tulla ja selle üle mõtiskleda.
+<P>
+Sellel direktiivil on tähtis eesmärk: see, et investor võiks tugineda oma investeerimisotsustes lihtsalt ligipääsetavale selgele ja arusaadavale teabele. Usun, et direktiivi muutmine aitab eelnimetatud probleemist hoolimata kaasa muutustele õiges suunas.
+<SPEAKER ID="485" NAME="Elena Băsescu" AFFILIATION="PPE">
+(RO) Tahaksin kiita Wolf Klinzi erakordsete pingutuste eest selle raporti koostamisel ja teha järgnevad täpsustused. Komisjoni ettepanek lihtsustada ja täiustada prospektidirektiivi võimaldab investoritele paremat kaitset, sest neile antakse piisavat asjakohast teavet. Ainulaadne Euroopa pass kehtib igal Euroopa Liidu turul, kui mõne liikmesriigi asjaomased asutused on selle registreerinud ja kinnitanud.
+<P>
+Bürokraatia vähendamiseks on minu arvates vaja asjakohast õiguslikku raamistikku, et kaotada vastuvõtva liikmesriigi teavitamisega seotud ebakindlus. Lisaks võime äriühinguid mõjutavatest üleliigsetest ülesannetest vabanedes saavutada 2012. aastaks asjaomaste põhjendamatult suurte kulude ja halduskoormuse 25% vähenemise. Lõpetuseks tahaksin öelda, et uute eeskirjadega nähakse ette investorite parem kaitse, milleks pakutakse neile võimalust analüüsida enne investeeringu tegemist paremini väärtpaberiga seotud riske.
+<SPEAKER ID="486" NAME="Franz Obermayr" AFFILIATION="NI">
+(DE) Lugupeetud juhataja! Vastutuse küsimuse selge reguleerimine on endastmõistetavalt läbipaistva väärtpaberituru loomulik osa. Sealjuures peame pöörama tähelepanu eelkõige väikeinvestorite kaitsele. Väärtpaberite edasimüügi korral on investoril vaja teada, kes vastutab teabe täpsuse ja kehtivuse eest. Kui me suhtume investorisse kui kaitset väärivasse tarbijasse, on oluline, et talle antakse juurdepääs olulisele teabele, mida toote, antud juhul väärtpaberite hindamiseks vaja on. Ainult siis on investor võimeline tegema teadlikke otsuseid.
+<P>
+Samavõrd on ELi ühisel kapitaliturul tähtis, et me koostaksime võrdleva loetelu riikidevahelistest erinevustest tsiviilvastutuse korras. Praegusel kriisi ja eelkõige ebakindluse ajal tähendab see, et investorile antakse väärtpaberituru vastava läbipaistvusega tagasi korralik kindlustunne.
+<SPEAKER ID="487" NAME="Angelika Werthmann" AFFILIATION="NI">
+(DE) Lugupeetud juhataja, kallid kolleegid! Prospektiga reguleeritakse väärtpaberite pakkumist üldsusele ja nende emiteerimist ühenduse reguleeritud turule. See on omamoodi pass, mis võimaldab juurdepääsu kõikidele ELi turgudele. Kontrolli ja läbipaistvuse huvides pean ma õigeks väikeinvestorile pakutavat kaitset ja eriti teavitamisnõuet. Selles, et haldustõkete kaotamise teel parandatakse väikeste ja keskmise suurusega ettevõtete juurdepääsu väärtpaberitele, näen ma investeeringut tulevikku.
+<SPEAKER ID="488" NAME="Michel Barnier" LANGUAGE="FR">
+Austatud juhataja! Lubage mul veel kord tänada kõiki kõnelejaid heakskiidu ja lisamärkuste eest. On selge, et edastatav dokument on paindlik kompromiss. Sel kujul ei saa see sisaldada iga esitatud mõtet ja ettepanekut, kuid samas leian, et Euroopa Parlamendil, härra Klinz, teie komisjonil, õiguskomisjonil ja teistel on põhjust rahul olla, sest praeguse dokumendi koostamisel oli kogu läbirääkimisprotsessi jooksul palju kasu - ja mul on tõsi taga - teie märkustest, ettepanekutest ja edasiviivast kriitikast.
+<P>
+Dokumenti on lisatud suur hulk muudatusettepanekuid, mille te koos kolleegidega majandus- ja rahanduskomisjonist esitasite. Need puudutavad eelkõige - ma kordan, lugupeetud parlamendiliikmed - direktiivi reguleerimisala, sätet prospekti kokkuvõttesse lisatava põhiteabe kohta, töötajate suhtes kohaldatavat korda või isegi prospektidirektiivi "lissaboniseerimist”, kui kasutada uut väljendit.
+<P>
+Diogo Feio nimetas konflikti investorite kaitse ning väikeste ja keskmise suurusega ettevõtete vajaduste vahel. Lubage mul talle meelde tuletada, et väikeste ja keskmise suurusega ettevõtete jaoks töötatakse välja proportsionaalne prospekt. Ka George Sabin Cutaş tõstatas selle ülesande, väikeste ja keskmise suurusega ettevõtete erikohtlemise teema. Niisiis, härra Feio, töötatakse väikeste ja keskmise suurusega ettevõtete jaoks välja proportsionaalne prospekt, teise astme prospekt, mis austab siiski investorite kaitse vajadust.
+<P>
+Teine küsimus, mille Sari Essayah äsja tõstatas, oli kutselised investorid ja eraisikute kohtlemine. Direktiiv võtab nende kahe erinevust täiel määral arvesse. Tahaksin teile meelde tuletada, et kokkuvõtte ülesanne on kindlustada eraisikute nõuetekohane ja korralik kaitse.
+<P>
+Lugupeetud parlamendiliikmed, komisjon saab vastu võtta kõik muudatusettepanekud ning seega toetab seda dokumenti, mida teevad, nagu ma märkisin, ka Wolf Klinz, sõnavõtjad eri fraktsioonidest, Diogo Feio, Catherine Stihler, Olle Schmidt ja Vicky Ford, kes kiitsid selle suurepärase kompromissi oma fraktsioonide nimel heaks. Oleme kindlad, et selle direktiiviga tugevdatakse investorite kaitset ja vähendatakse emitentide halduskulusid ning et see aitab veelgi rohkem kaasa tõelise kapitalituru väljakujunemisele Euroopa Liidus. Me ei tohi seda võimalust kasutamata jätta.
+<P>
+Lõpetuseks tahaksin tänada parlamendiliige García-Margallot tema panuse eest, sest lisaks sellele tekstile, mis tähistab tõelisi edusamme, on ta asetanud need edusammud märksa üldisemasse konteksti, millega ta pealegi järelevalvepaketi, arutelu all oleva läbipaistvuspaketi puhul väga tõhusalt tegeleb. Lubage mul teile meelde tuletada, et selle läbivaatamisega parandatakse läbipaistvust ja kohandatakse seda emitentide, eriti väikeste ja keskmise suurusega ettevõtete vajadustega, samas austades - ma kordan - investorite kaitset. Järelevalve osa lisati järelevalvepaketti, koondteksti, ja just selle tekstiga tegeleb koos teiste kolleegidega parlamendiliige García-Margallo, kes kutsub meid näitama üles ühist vaprust.
+<P>
+Teie ise olete näidanud seda üles selles dokumendis, mis tähistab tõelisi edusamme, ja ma usun, et meil kõigil õnnestub tõestada seda koos nõukoguga kompromissides, mis on sama paindlikud, kompromissides, mille me peame lähipäevil saavutama, käsitledes muid arutluse all olevaid dokumente, riskifondide ja erakapitali investeerimisfondide reguleerimist ning eelkõige selle teksti jaoks vajalikku tähtsat Euroopa järelevalve projekti, varem kõne all olnud reitinguagentuure ning arvukaid muid reguleerimise, läbipaistvuse ja kontrolli küsimusi, mida me peame võtma selle kriisi õppetunnina. See on meie ülesanne.
+<SPEAKER ID="489" NAME="Wolf Klinz">
+raportöör. - (DE) Lugupeetud juhataja! Mul on ainult paar lühikest märkust. Esiteks tahan tänada volinikku ja kõiki parlamendiliikmeid sõbralike kommentaaride eest. Mul on hea meel, et te jagate minu vaateid. Meie koostöö on tegelikult võimaldanud meil tasakaalustada eri eesmärgid, nimelt ühelt poolt VKEde kergem juurdepääs kapitalile ja haldustõkete kõrvaldamine ning teiselt poolt investori kaitse parandamine ja tagamine ning edasiminek tõelise Euroopa siseturu loomisel.
+<P>
+Loodan, et kui seda prospektidirektiivi uut versiooni hakatakse viie aasta pärast läbi vaatama, saame luua seose prospektidirektiivi ning turu kuritarvitamise ja läbipaistvuse direktiivide vahel ning et me jõuame vahest nii kaugelegi, et ei vali mittekapitaliväärtpaberite puhul emissiooni lähtekohaks mitte koduturu, vaid mõne teise Euroopa Liidu liikmesriigi.
+<SPEAKER ID="490" NAME="Juhataja">
+Arutelu on lõppenud.
+<P>
+Hääletus toimub kolmapäeval, 16. juunil 2010.

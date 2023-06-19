@@ -1,0 +1,10 @@
+<CHAPTER ID="010">
+Tervetulotoivotukset
+<SPEAKER ID="128" NAME="Puhemies">
+(IT) Hyvät parlamentin jäsenet, luen nyt viestin Jerzy Buzekilta.
+<P>
+"Olen iloinen saadessani ilmoittaa, että meillä on tänään kunnia toivottaa tervetulleeksi Puolan senaatin puhemies Bogdan Borusewicz, Liettuan tasavallan parlamentin puhemies Irena Degutiensekä Ukrainan parlamentin puhemies Volodimir Litvin.
+<P>
+Nämä kolme puhemiestä saapuivat tänään parlamenttiin Liettuan, Puolan ja Ukrainan parlamentaarisen edustajakokouksen ylimääräistä kokousta varten. Kokous perustuu Puolan ja Liettuan muodostamaan perinteikkääseen valtioliittoon, joka on yli kahden vuosisadan ajan toiminut Euroopan raja-alueena ja joka katsotaan politiikkaan, kulttuuriin ja kansalaisiin liittyväksi hankkeeksi.
+<P>
+Tänään Strasbourgissa pidetään parlamentaarisen edustajakokouksen kokous, jolla juhlistetaan Euroopan ensimmäisen perustuslain - toukokuun 3 päivän perustuslain - 220. vuosipäivää."

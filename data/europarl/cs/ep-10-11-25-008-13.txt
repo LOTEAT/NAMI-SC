@@ -1,0 +1,6 @@
+<CHAPTER ID="008-13">
+13. Politiky mezinárodního obchodu v kontextu naléhavých otázek spojených se změnou klimatu (
+<SPEAKER ID="101" NAME="Yannick Jadot" LANGUAGE="FR">
+Pane předsedají, navrhujeme pozměnit závěr bodu 22 tím, že nahradíme výraz "zabránit" výrazem "informovat", takže konečné znění bude následující:
+<P>
+zpravodaj. "připomíná mimo jiné žádost Evropského parlamentu Komisi a členským státům, aby informovaly Evropský parlament o půjčkách poskytovaných úvěrovými vývozními agenturami a Evropskou investiční bankou na projekty, které mají negativní dopady na klima".

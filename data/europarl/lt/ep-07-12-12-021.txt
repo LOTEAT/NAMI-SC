@@ -1,0 +1,118 @@
+<CHAPTER ID="021">
+Avių ir ožkų elektroninio identifikavimo įdiegimo data (diskusijos) 
+<SPEAKER ID="404" NAME="Pirmininkas">
+Kitas klausimas yra F. W. Graefe zu Baringdorfo pranešimas Žemės ūkio ir kaimo plėtros komiteto vardu dėl pasiūlymo dėl Tarybos reglamento, iš dalies keičiančio Reglamentą (EB) Nr. 21/2004 dėl avių ir ožkų elektroninio identifikavimo įdiegimo datos. - C6-0448/2007 -
+<SPEAKER ID="405" NAME="Markos Kyprianou">
+Komisijos narys. - Gerb. pirmininke, kaip visuotinai žinoma, atsekamumas yra pagrindinsudedamoji dalis, norint užtikrinti aukštus gyvulių sveikatos ir maisto saugos standartus.
+<P>
+Neseniai įgijome patirties su tam tikromis ligomis Europos Sąjungoje, pvz., kanopų ir snukio liga ir mėlynojo liežuvio liga, kai dar kartą įsitikinome veiksmingų identifikavimo sistemų svarba. Individuali identifikacija gali tinkamai veikti tik įdiegus elektroninę identifikaciją.
+<P>
+Komisijos buvo paprašytas patvirtinti ar pakeisti savo pranešimu elektroninio identifikavimo įgyvendinimo datą; jos nebuvo prašyta kelti klausimo dėl reglamento principų. Todėl prieš mus techninis pranešimas apie įvairius susijusius metodus ir technologiją.
+<P>
+Komisijos ataskaitoje pagrindinis dėmesys skiriamas būdant optimaliai įgyvendinti elektroninį identifikavimą. Tačiau ataskaitai parengti mums buvo reikalingi duomenys ir indėlis iš valstybių narių pusės, visų pirma jau sistemą taikančių valstybių narių. Ataskaitai parengti reikalingos studijos ir bandymai užtruko gerokai ilgiau, nei planuota iš pradžių, todėl uždelsta ir pateikti pačią ataskaitą.
+<P>
+Labai vertiname ir dėkojame Parlamentui už sutikimą svarstyti šį klausimą skubos tvarka. Tokiu būdu pavyks išvengti teisinio netikrumo 2008 m. sausio mėn.
+<P>
+Ataskaitoje daroma išvada, kad techninės elektroninio avių ir ožkų identifikavimo sąlygos įvykdytos, tačiau valstybėms narėms reikia suteikti protingą terminą pasirengti elektroninio identifikavimo įgyvendinimui.
+<P>
+Sutinkame ir priimame Parlamento poziciją nustatyti tvirtą sistemos įvedimo datą. Kita vertus negalime sutikti su kitais siūlomais pakeitimais, nes juose kvestionuojami pagrindiniai reglamento principai, o iš tikrųjų dabar svarstomas tik faktinės įgyvendinimo datos klausimas.
+<P>
+Norėčiau dar kartą padėkoti pranešėjui už sparčiai atliktą darbą ir Parlamentui už sutikimą svarstyti klausimą skubos tvarka.
+<SPEAKER ID="406" NAME="Friedrich-Wilhelm Graefe zu Baringdorf">
+pranešėjas. - (DE) Gerb. pirmininke, gerb. Komisijos nary M. Kyprianou, mes patenkinome prašymą skubiai svarstyti šį klausimą. Mes svarstome kai ką neatidėliotino, ir todėl ir užtrukome iki vėlumos.
+<P>
+Be abejo, kilo klausimas, kaip atsirado ši neatidėliotina situacija. Jūs jau kai ką apie tai minėjote. Aš peržvelgiau dokumentaciją ir pamačiau reglamentą, kurį mes šiandien norime pakeisti. Jo data yra 2003 m. gruodžio 17 d. Tas reglamentas nurodo, kad nuo 2008 m. sausio 1 d. "elektroninio identifikavimo sistema, pagal straipsnio [...] 1-ojoje dalyje nurodytas rekomendacijas visiems gyvuliams bus privaloma". Toliau yra nurodomi vienas ar du išimčių atvejai, kuriuos aš praleisiu, ir tęsiama: "Iki 2006 m. birželio 30 d. Komisija turi pateikti Tarybai ataskaitą dėl elektroninio identifikavimo projekto įgyvendinimo ir atitinkamus pasiūlymus, dėl kurių Taryba balsuos kvalifikuota balsų dauguma".
+<P>
+Trumpai tariant, klausimas yra labai senas. Komisijos ataskaita Tarybai akivaizdžiai nebuvo niekada pateikta, todėl nebuvo ir jokio Tarybos atsakymo. Ar jūs norite ką nors pasakyti? Jeigu jūs tikrai pateikėte ataskaitą, tuo geriau, tačiau tada nebuvo jokio valstybių narių atsako. Tada mes patekome į bėdą suvokdami, kad šis galutinis terminas negali būti įgyvendintas. Kuo toliau, tuo blogiau, tačiau tada jūs pasiūlėte tai, kad vietoj naujo termino nustatymo patiems, mes šį klausimą turėtume palikti komitologijos procedūrai. Kitais žodžiais tariant, galutinės datos nustatymo klausimas turėtų būti jūsų sprendimas. Mes veltui stengėmės, o tada komitetas nusprendė, kad privalomojo elektroninio žymėjimo nuostatos įsigalios nuo 2009 m. gruodžio 31 d. ir bus taikomos nuo 2010 m. sausio 1 d., t. y. dviem metais vėliau, negu yra nurodyta pirmajame reglamente. Kad ir kaip ten bebūtų, svarbiausia, kad mes turime nustatytą datą. Komitetas taip pat paskelbė, jog šiuo klausimu bus pateiktas pranešimas.
+<P>
+Žinoma, jūsų pasiūlymo problema yra ta, kad jūs vis daugiau ir daugiau sprendimų priėmimų procedūrų atiduodate komitologijos sričiai. Taip jūs pasielgėte ir su senuoju 2003 m. gruodžio 17 d. reglamentu, kurio nuostatos ir taikomieji susitarimai, susiję su elektroninio identifikavimo režimu, per komitologijos procedūrą buvo pavesti Komisijai. Tuo metu turėjo būti pateikta ataskaita Tarybai, tačiau jokios ataskaitos Parlamentui. Šios praktikos pateikti viską komitologijai rezultate iš Parlamento yra atimamos sprendimų priėmimo ir patikrinimo teisės, taigi apie neįvykdytus įsipareigojimus mes sužinome gerokai pavėluotai.
+<P>
+Jeigu jūs su šiais pakeitimais nebūtumėt dabar atėję ir pareikalavę svarstyti visko skubos tvarka todėl, kad jus spaudžia galutinis terminas, mes būtume pagalvoję: viskas gerai. Tačiau juk nėra gerai! Tai turėtų būti perspėjimas mums Parlamente ne pernelyg pasitikėti Komisija, o toliau naudotis savo patikrinimo teisėmis.
+<P>
+Buvo pora pakeitimų. Jūs sakėte, kad negalite su jais sutikti. Komitetas nustatė, jog nuostatai turi būti privalomi. Tai iš tikro yra nustatyta ir pagrindiniame reglamente, kuris, kaip mums visiems yra žinoma, nėra panaikinamas, o tik keičiamas. Yra pakeitimų, pasiūlytų Jūsų, gerb. S. Stevensonai, iš kurių vienas pasiūlytas kartu su m. McGuiness, ir kuris siūlo sistemą įvesti savanoriškai. Jei mes sistemą diegsime savanoriškai, galime pamiršti visą reikalą. Kam tuomet reikėtų ją paskirti? Mes tokiu atveju galėtume susitaikyti su mintimi, kad naktį visos katės yra juodos. Todėl aš manau, kad mes privalome likti ištikimi privalomiems nuostatams ir tam, kad šiuose privalomuose nuostatuose turi būti nurodyta data ir ataskaita Europos Parlamentui.
+<P>
+Mums bus gera pamoka, kad šis pranešimas privertmus daugmaž atsitiktinai susidurti su šia tikrai neįprasta iš Komisijos ir Tarybos pusės įvykių eiga.
+<P>
+Aš tikiuosi, gerb. M. Kyprianou, kad pernelyg aršiai jūsų nekritikavau. Tačiau galite įsivaizduoti, kad aš, rengdamas šį pranešimą, ruošdamasis šiam vakarui ir ieškodamas informacijos atitinkamuose dokumentuose turėjau pasitrinti akis, kai pamačiau, kokie dalykai dedasi mūsų Europos institucijose. Ir Parlamentas, ir Komisija - ir mes, kaip asmenys, ir aš, - esame suinteresuoti, kad tokie dalykai nebepasikartotų ir netaptų įpročiu.
+<SPEAKER ID="407" NAME="Struan Stevenson">
+PPE-DE frakcijos vardu. - Gerb. pirmininke, iš pradžių norėčiau atsakyti į man F. W. Graefe zu Baringdorfo pateiktą klausimą. Jis klausė, kodėl savo pakeitimais siekiu įtvirtinti savanorišką sistemą. Todėl galiu labai glaustai F. W. Graefe zu Baringdorfo nurodyti to priežastis.
+<P>
+Praėjusią savaitę mano rinkimų apygardoje Škotijoje, senos avys (paaiškinu su žemės ūkiu nesusijusiems Parlamento nariams, nors tokių mažuma) buvo parduodamos po 2 svaro sterlingo už vienetą. Praėjusiais metais kaina siekia 60 svarų sterlingų, o šiemet - 2. Todėl klausiu pranešėjo, kaip ūkininkui, kuriam už avį mokama tik du svarai sterlingų, įmontuoti mikroschemas ir įsigyti brangius skenerius ir skaitytuvus, norint vykdyti privalomos elektroninės identifikavimo sistemos reikalavimus? Tai ekonominproblema.
+<P>
+Pradinis Komisijos pasiūlymas buvo visiškai pagrįstas; juo buvo siekiama konsultuotis su suinteresuotais asmenimis ir ketinta atlikti ekonominio poveikio ir išlaidų bei naudos analizę. Su šiais duomenimis susipažinti neteko. Nežinau mano rinkimų apygardos avis auginančių ūkininkų ketinimų. Turiu priminti šio Parlamento nariams, kad visoje Europoje JK auginamas didžiausias avių skaičius. Tai sukeltų tragiškus ekonominės padėties pokyčius, jei šiuos pakeitimus paliktume. Tai iš tiesų reikštų (nustačius privalomą taikymą ir vadovaujantis žemės ūkio ir kaimo plėtros komiteto nustatyta data balsuojant pirmadienį vakare ir mums nustačius 2009 m. gruodžio 31 d. kaip datą pereiti prie privalomo nustatymo), kad visa Didžiosios Britanijos avis auginančių ūkininkų grupbus priversta palikti šią verslo sritį. Tuomet kalnuotos vietovės ir kalvos, kurias prižiūrėjo avis auginantys ūkininkai, o daugelį amžių maitinosi avys, sulaukės, o visuomensupras padarytą žalą.
+<P>
+Nors ketiname taip neigiamai paveikti šią sritį, kuri ir taip pasižymi geriausiu atsekamumu Europoje (mes esame užtikrinę visišką atsekamumą JK šiuo metu, o avis auginantys ūkininkai negali suprasti, kodėl siekiama nustatyti naują elektroninio identifikavimo sistemą, jei jau įdiegtoji leidžia gauti labai kokybiškus atsekamumo duomenis) importuojame avieną į ES iš trečiųjų šalių, kuriose mūsų higienos ir gerovės normų bei griežtų mūsų avis auginančių ūkininkams taikomų reikalavimų nesilaikoma.
+<P>
+Todėl prašau šioje vietoje vadovautis protingumo kriterijumi. Tikiuosi, kad mums balsuojant šiuo klausimu rytoj Parlamento nariai supras, kodėl mes siūlome taikyti savanorišką sistemą ir nepritariame siūlymui nustatyti privalomą elektroninio identifikavimo sistemos įvedimo datos.
+<SPEAKER ID="408" NAME="Rosa Miguélez Ramos">
+PSE frakcijos vardu. - (ES) Gerb. pirmininke, aš esu ta, kuri visuomet atidžiai klausosi S. Stevensono pasisakymų, kad ir kur jis kalbėtų. Iki šiol aš jo klausiausi jau kelerius metus, tačiau šis pasisakymas mane iš tikro nustebino, kadangi jis galėjo būti perskaitytas 2003, o ne 2007, beveik 2008 m.
+<P>
+F. W. Graefe zu Baringdorf labai gerai pasakė: tai yra 2004 metų reglamentas. Mes Parlamente jį svarstėme 2003 m., o reglamentas numato, kad avių ir ožkų elektroninio identifikavimo sistema įsigalios nuo 2008 m. sausio 1 d.
+<P>
+Taigi, gerb. S. Stevensonai, aš nkiek neabejoju, kad savo rinkimų apygardoje turite avių; aš pati jų turiu: penkios valstybės narės, auginančios didžiausias avių ir ožkų bandas, be jūsų ir mano šalių, yra Prancūzija, Italija ir Graikija. Šios keturios valstybės narės ėmėsi uždavinio, kuris jums atrodo nesuderinamas, įtikinti savo šalies gyvulių augintojus pritvirtinti avims ir ožkoms įsagus, nes mums buvo pasakyta, kad reglamentas numato, jog elektroninis identifikavimas nuo 2008 m. sausio 1 d. bus privalomas.
+<P>
+Aš, kaip šio Parlamento narė, visiškai tai suprantu. Aš taip pat suprantu, kad yra valstybių narių - tokių, kaip jūsišk(būtent todėl aš visuomet klausausi jūsų pasisakymų), kurios neįvykdsavo įsipareigojimų. Turėdama tai omenyje, aš savanoriškai pasiūliau datą - kurią, be to, priėmŽemės ūkio komitetas - nedaug pratęsdama tą galutinį terminą, tačiau, kaip jums yra žinoma, jūsų rinkiminėje apygardoje už gyvulį yra mokami du svarai, o maniškėje mokamas tik vienas.
+<P>
+Šiuo metu gyvulių ligoms taip paplitus Europoje, aš manau, kad tokia sistema, kaip ši, suteikia garantijų ir būdą, kaip padidinti mūsų gyvulių augintojų produkcijos vertę. Ši identifikacijos sistema suteikia mums galimybę žinoti bet kokio Bendrijos teritorijoje vežamo gyvulio kilmės vietą ir užtikrina, kad tas gyvulys yra geros sveikatos. Tai yra garantija vartotojui ir tai turi būti naudinga gyvulių augintojams, kadangi už savo mėsą jie gaus daugiau pajamų.
+<P>
+Jie negaus daugiau pajamų už mėsą tokių ligų kaip mėlynojo liežuvio, snukio ir kanopų liga ar "Chikungunya" virusą platinančių uodų atvejais. Tokiu atveju mes nebeturime vilties. Taigi, prašau, leiskite pasiekti, kad sistema dirbtų, leiskite mus būti nuosekliems, perskaityti ir išnagrinėti F. W.Graefe zu Baringdorfo pasiūlytą reglamentą, kuris, pasikartosiu, yra 2004 m. reglamentas. Leiskite mums jį atidžiai perskaityti, leiskite pripažinti, kad jame yra keletas išimčių, tačiau tai nėra "darykit, kaip jums patinka" atvejis, nes datos nustatymas negali būti savanoriškas. Jis negali būti savanoriškas, nes mes, Komisija ir Taryba nusprendėme, kad jis turi būti privalomas.
+<P>
+Kitais žodžiais tariant, aš negaliu persukti laikrodžio trimis metais atgal ir pasakyti gyvulių augintojams, kad visos jų pastangos, dėtos iki šios dienos, yra visiškai beprasmiškos, nes britai pamiršo paprašyti savo šalies gyvulių augintojų padaryti tą patį. Ar jūs mane suprantate?
+<P>
+Aš prašau jūsų atidžiai perskaityti mano pakeitimą. Mano frakcija visiškai neketina abejoti privalomuoju sistemos pobūdžiu, nes savanoriška sistema sukurtų neteisėtą diskriminaciją tarp valstybių narių ir pačios Europos Sąjungos viduje. Nors manęs nenustebintų - aš neturiu omenyje jūsų, gerb. S. Stevensonai, - kad kažkas, kas šiuose Rūmuose turėjo įžūlumo atmesti Pagrindinių teisių chartiją, šiandien galėtų pademonstruoti tokį pat ar dar didesnį įžūlumą ir atmesti avių ir ožkų identifikavimą.
+<P>
+Na štai: aš manau, kad mes turime reglamentą; Komisija mums pateikpriimtiną pasiūlymą, o mes taip pat pateikėme Komisijai priimtiną pasiūlymą. Taigi, pabandykime užbaigti šį klausimą nepridarydami per daug žalos nvienai iš pusių.
+<SPEAKER ID="409" NAME="Neil Parish" AFFILIATION="PPE-DE">
+Gerb. pirmininke, aš visokeriopai sutinku su S. Stevenson teiginiais ir taip pat visiškai remiu Komisijos pastangas. Manau, būtina suprasti avių auginimo mastus ir gyvulių skaičių. JK yra apie 25 mln. avių, 8,5 mln. Prancūzijoje, 3 mln. Airijoje ir nemažai Ispanijoje ir kitose šalyse. Mums reikia tinkamos sistemos. Nusprendus įvesti elektroninę sistemą, ši turi būti praktiškai ir reikalaujanti mažai išlaidų, nes ūkininkams reikės ją naudoti praktiškai. Kaip teisingai pastebėjo S. Stevenson, avis nėra labai vertingas gyvulys, todėl šis darbas veikiausiai teks ne veterinarams. Didesnę jo dalį veikiausiai atliks patys ūkininkai, o kai jiems reikės nuskaityti ausies įsagus, tai turi būti įmanoma padaryti ant kalno, lietui lyjant ir panašiomis aplinkybėmis.
+<P>
+Man teko matyti, kaip veikia nemažai šių sistemų viešbučio kambariuose, asmenims judant pro duris, o štai jie teigia, kad skirtingi įsagai nesikerta tarpusavyje. Taip pat norite sistemos, kuri leistų idealiomis aplinkybėmis elektroniniu būdu patikrinti visas sunkvežimyje esančias avis šias atvežus į turgų. To galima tikėtis tik iš idealios sistemos. O aš noriu pasakyti, kad visiškai nėra prasmės imtis tolesnių žingsnių elektroninio ženklinimo srityje, neturint praktiškos mažai išlaidų reikalaujančios ir naudoti parengtos sistemos. Todėl, manau, jūs visiškai teisūs, sakydami "grįžkime prie šio klausimo 2009 m. pabaigoje ir pažiūrėsime". Kaip pagrįstai nurodS. Stevenson, siūlau šią sistemą valstybėms narėms naudoti savanoriškai, kai jos bus pasirengusios, esant dideliam avių judėjimui ir kai sistema bus parengta veikti. Siūlau jos neįvesti mums dar nesant pasirengusiems.
+<SPEAKER ID="410" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Gerb. pirmininke, dar kartą kalbamės apie avių ženklinimą. Galiu pasakyti tik tiek, kad man labai gaila, jog Komisija neįsiklausį mūsų nuomonę gerokai anksčiau, kai kėlėme klausimą dėl jų siūlom dalykų ir pateikėme savo nuomonę. R. Miguélez Ramos pasakyčiau tiek: taip, iš tiesų mes taip kalbėjome gerokai anksčiau vykstant diskusijoms apie avių ženklinimą. Tačiau, deja, į mus visiškai neįsiklausyta, net į mūsų teiginius, kad tai bus neįgyvendinama.
+<P>
+Taigi mes jus įspėjome, tačiau jūs nesiklausėte. Faktiškai avių augintojams visuomet elektroninio ženklinimo kaina buvo pernelyg didelė, nes jie šiuo metu už ėriukus gauna mažesnes išmokas nei prieš 20 metų! Ar galite man nurodyti bet kurią kitą pramonės sritį, kurios prašoma skirti didžiules išlaidas, tačiau už pagamintą produkciją mokama mažiau nei prieš 20 metų. Apie šį atvejį galiu kalbėti iš asmeninės savo patirties.
+<P>
+Dabartinsistema nepakankama. Taigi siūlau tai nukelti į vėlesnę ateitį. Sutinku prie šio klausimo grįžti ir jį aptarti 2009 m. Galbūt praėjus šiam laikui elektroninženklinimo technologija, kuri šiuo metu yra gerokai per brangi taps kaip ir daugelis technologijos sričių gerokai prieinamesnė, sumažėjus išlaidoms ir užtikrinus geresnę grąžą avių augintojams. Tada galėtume šį klausimą aptarti iš naujo.
+<P>
+Taigi avių gamyba susiduria su didžiuliu iššūkiu: siekti pelno ir tik tada galime su pasitikėjimu eiti į priekį. Privalau pripažinti, kad mane labai sudomino R. Miguélez Ramos ir S. Stevenson pasikeitimas nuomonėmis avių klausimu, nes jie paprastai keičiasi nuomonėmis apie žuvis, o tai visiškai skirtingi dalykai! Šį vakarą jų dialogas buvo dar įdomesnis.
+<P>
+Tačiau ūkininkams, auginantiems avis ir gaunantiems tokį nedidelį atlyginimą už savo darbą yra, kaip nurodN. Parish, labai sudėtinga padėtis. Kalnų viršūnėse visą vasarą laikomi tūkstančiai avių. Galite pamėginti jas sugauti; galite pamėginti jas paženklinti; galiausiai pamėginkite jas pasekti. Komisijos nariui turiu pasakyti: siūlau nusiųsti keletą savo tarnautojų, kurie rengia šiuos planus į minėtas vietas ir pažiūrėti, kokia yra ūkininkų, auginančių avis, padėtis ir pamatyti, koks darbas jų laukia. Tuomet galbūt geriau suprasite mus ir mūsų išsakomą nuomonę.
+<P>
+Taip, siūlau įtvirtinti savanoriškumo principą. Siūlau prie to pereiti tik tada, kai būsime pasirengę. Siūlau eiti tinkamu greičiu, tokiu, kuris mums prieinamas
+<SPEAKER ID="411" NAME="Markos Kyprianou">
+Komisijos narys. - Gerb. pirmininke, kalbėsiu labai trumpai, nes jau vėlu. Norėčiau priminti gerbiamiesiems Parlamento nariams, kad šiandien tariamės dėl sistemos įvedimo datos. Priimtas pagrįstas sprendimas įvesti sistemą, tačiau dėl datos nenuspręsta arba tiksliau sakant nustatyta data, kuriai dar turime pritarti ar ją pakeisti.
+<P>
+Iš valstybių narių pateiktų duomenų matyti du dalykai. Pirmiausia įgyvendinimas yra reali užduotis tiek technine, tiek ekonomine prasme, kaip nurodyta ir pranešime; taip pat valstybėms narėms reikėjo daugiau laiko sistemai įvesti, vadinasi reikėjo nustatyti realesnę datą.
+<P>
+Tiesą sakant, Komisija iš tiesų siūlšią datą nukelti. Užtikrinus jus, kad nebuvo jokio ketinimo apeiti Parlamento, todėl ir elgėmės atitinkamai ir surengėme šias diskusijas užuot paprasčiausiai į reglamentą įrašę šią datą, nors šiuo atveju mums būtų užtekę susitarti vien tik su Taryba.
+<P>
+Komisija niekada neketino pašalinti ar neįtraukti Parlamento į šių sprendimų priėmimo procesą. Data laikyta viso labo techniniu klausimu. Kadangi dėl principo jau susitarta, manėme, kad šį techninį klausimą galima išspręsti pasitelkus komitologijos procedūra ir, kaip dar kartą pasikartosiu, mums pakeitimas, kuriuo nustatoma konkreti data yra priimtinas ir manau, kad valstybėms narėms pakaks dviejų metų tam pasirengti.
+<P>
+Tačiau nenorėtume sutikti su savanoriškomis sistemomis, nes reglamentas susijęs su atsekamumu, kuris turi būti veiksmingas ir taikomas visose valstybėse narėse vienodai. Tai taip pat susiję su gyvulių sveikatos padėtimi Europos Sąjungoje. Galime nagrinėti tiesioginės sistemos išlaidas, tačiau pažvelgę į ilguoju laikotarpiu sistemos sutaupytas lėšas dėl gyvulių ligų, manome, kad galiausiai tai bus pagrįsta ir ekonomine logika.
+<P>
+Tačiau esame pasirengę sutikti su Parlamento pakeitimu ir tikimės jam Tarybos pritarimo kitą savaitę.
+<SPEAKER ID="412" NAME="Pirmininkas">
+F. W. Graefe zu Baringdorf kalbės darbotvarkės klausimu.
+<SPEAKER ID="413" NAME="Friedrich-Wilhelm Graefe zu Baringdorf">
+pranešėjas. - (DE) Leiskite užduoti Komisijos nariui dar vieną klausimą. Gerb. Komisijos nary M. Kyprianou, aš pasiūliau pakeitimą, numatantį tam tikras išimtis, kurios nėra numatytos būti įgyvendinamomis savanorišku pagrindu, o originalios priemonės leidžia nukrypimus, atnaujinimą, jei jis yra atliekamas pagal 9 straipsnio 4 dalį. Tam tikromis aplinkybėmis - kurios neturi apimti savanoriškų susitarimų, kurie visą įgyvendinimą paverstų beprasmiu - turėtų būti galima apsvarstyti būdus, kuriais susirūpinimas, kurį išreiškmano kolegos Parlamento nariai, galėtų būtų išspręstas praktiškai. Tai yra tik pasiūlymas ir klausimas, kurį jūs galbūt norėsite pakomentuoti.
+<SPEAKER ID="414" NAME="Pirmininkas">
+Tai nebuvo darbotvarkės klausimas, tačiau gal Komisijos narys norės į jį atsakyti?
+<SPEAKER ID="415" NAME="Markos Kyprianou">
+Komisijos narys. - Gerb. pirmininke, kaip sakiau, mums gana sudėtinga sutikti su pakeitimais, kurie turės įtakos pagrindiniams reglamento principams ir aspektams.
+<P>
+Ketiname pakartotinai grįžti prie šio klausimo, tačiau tai vis tiek kelia susirūpinimą.
+<SPEAKER ID="416" NAME="Pirmininkas">
+Diskusijos baigtos.
+<P>
+Balsavimas vyks 2007 m. gruodžio 13 d., ketvirtadienį.
+<P>
+Raštiški pareiškimai (142 straipsnis)
+<SPEAKER ID="417" NAME="Mairead McGuinness  " AFFILIATION="PPE-DE">
+raštu. - Nemanau, kad pateikta informacija apie avių ir ožkų elektroninį identifikavimą (eID) yra pateikta pakankamai. Be to, esu tikra, kad būtina atlikti poveikio gamintojams ekonominį įvertinimą; tik tada bus galima nustatyti eID taikymo datą.
+<P>
+Nemanau, kad yra pateisinamų priežasčių nustatyti šios programos taikymo datą neatlikus eID poveikio įvertinimo, visų pirma atsekamumo ir ligų kontrolės srityje.
+<P>
+Airijoje avių sektorius sparčiai mažėja, nes daugelis ūkininkų palieka šį sektorių, todėl šių priemonių ir išlaidų taikymas sektoriaus atžvilgiu šiuo metu nėra pageidaujamas.
+<P>
+Radus teisėtą eID šiame sektoriuje pagrindimą, gyvulių savininkai atsakytų ir pasirengtų ją taikyti savanoriškai. Taigi eID programa turėtų būti įvesta ir taikoma savanoriškai, o ne privalomai.
+<P>
+Be to, įvestas eID būtų taikoma tik po tam tikros datos atvestiems gyvuliams, o ne auginamiems šiuo metu.

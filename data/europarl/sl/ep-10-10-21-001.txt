@@ -1,0 +1,10 @@
+<CHAPTER ID="001">
+Otvoritev seje
+<P>
+(Seja se je začela ob 9.00)
+<SPEAKER ID="005" NAME="Mario Pirillo" AFFILIATION="S&amp;D">
+(IT) Gospod predsednik, gospe in gospodje, ponoči 18. oktobra je v mestu Paola, rojstnem kraju Svetega Frančiška, divjala huda nevihta, ki je prizadela vso Kalabrijo: veliko škodo so utrpeli javne zgradbe, zasebna stanovanja, vodovodna in kanalizacijska omrežja ter električna in telefonska omrežja, da ne omenjamo zemeljskih plazov in blatnih tokov. Številne družine so morale zapustiti domove in šole so ostale zaprte.
+<P>
+Do takih dogodkov v Kalabriji prihaja že dolgo, morda zaradi učinkov podnebnih sprememb. Kmalu bo razglašena naravna nesreča in upamo, da bo mogoče uporabiti sredstva Evropskega solidarnostnega sklada. Rad bi izrazil svojo solidarnost - in upam, da tako čuti tudi Parlament, - z vsemi prebivalci, tudi s tistimi iz sosednjih mest, ki so utrpeli škodo.
+<SPEAKER ID="006" NAME="Predsednik">
+Seveda smo zelo pozorni na informacije, ki nam jih posredujete. Radi bi izrazili svojo solidarnost in zaskrbljenost v zvezi z nesrečo, ki je prizadela Kalabrijo, in seveda vsi poslanci tega parlamenta izražamo svojo podporo prizadetim v tej lepi italijanski in evropski regiji.

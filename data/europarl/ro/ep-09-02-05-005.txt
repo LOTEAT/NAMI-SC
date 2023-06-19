@@ -1,0 +1,4 @@
+<CHAPTER ID="005">
+Votare
+<SPEAKER ID="064" NAME="Preşedintele">
+Următorul punct este votarea.

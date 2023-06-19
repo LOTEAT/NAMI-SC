@@ -1,0 +1,4 @@
+<CHAPTER ID="006">
+Głosowanie
+<SPEAKER ID="069" NAME="El Presidente">
+El punto siguiente es el turno de votaciones.

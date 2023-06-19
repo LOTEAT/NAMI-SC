@@ -1,0 +1,6 @@
+<CHAPTER ID="009">
+Votare
+<SPEAKER ID="130" NAME="President">
+The next item is the vote.
+<P>
+(For the results and other details of the vote: see Minutes)

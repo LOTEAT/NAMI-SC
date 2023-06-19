@@ -1,0 +1,6 @@
+<CHAPTER ID="001">
+Ouverture de la séance 
+<SPEAKER ID="004" NAME="PRZEWODNICZY: JERZY BUZEK">
+Przewodniczący
+<P>
+(Posiedzenie zostało otwarte o godz. 9.00)

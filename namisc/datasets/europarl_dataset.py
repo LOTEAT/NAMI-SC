@@ -1,0 +1,71 @@
+'''
+Author: LOTEAT
+Date: 2023-05-31 16:34:26
+'''
+# TODO 
+# This is a temporary version, there may be a more elegant solution
+# I will modify these codes soon later
+import pickle
+import torch
+from .base import BaseDataset
+from .builder import DATASETS
+# from .load_data import load_data, load_rays
+
+@DATASETS.register_module()
+class EuroparlDataset(BaseDataset):
+    def __init__(self, path, length=-1):
+        data = pickle.load(open(path, 'rb'))
+        data = data[:length]
+        self.data = torch.nn.utils.rnn.pad_sequence([torch.LongTensor(seq) for seq in data], batch_first=True)
+        
+
+    def __getitem__(self, index):
+        return torch.tensor(self.data[index]), torch.tensor(self.data[index])
+
+    def __len__(self):
+        return len(self.data)
+    
+    def __init__(self, cfg, pipeline):
+        super().__init__()
+        self.iter_n = 0
+        self.cfg = cfg
+        self.data = pickle.load(open(cfg.path, 'rb'))
+        # self.data = torch.nn.utils.rnn.pad_sequence([torch.LongTensor(seq) for seq in data], batch_first=True)
+        self._init_pipeline(pipeline)
+
+    def get_info(self):
+        res = {}
+        return res
+
+    def _fetch_train_data(self, idx):
+        data = {
+            'data': self.data,
+            'idx': idx
+        }
+        return data
+
+    def _fetch_val_data(self, idx):  
+        return {}
+
+    def _fetch_test_data(self, idx): 
+        return {}
+
+    def __getitem__(self, idx):
+        if self.mode == 'train':
+            data = self._fetch_train_data(idx)
+            data = self.pipeline(data)
+            return data
+        elif self.mode == 'val':  # for some complex reasons，pipeline have to be moved to network.val_step() in val phase
+            return self._fetch_val_data(idx)
+        elif self.mode == 'test':  # for some complex reasons，pipeline have to be moved to network.val_step() in test phase
+            data = self._fetch_test_data(idx)
+            return data
+
+    def __len__(self):
+        if self.mode == 'train':
+            return len(self.data)
+        elif self.mode == 'val':
+            return None
+        elif self.mode == 'test':
+            return None
+

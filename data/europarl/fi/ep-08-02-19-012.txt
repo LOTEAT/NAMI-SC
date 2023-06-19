@@ -1,0 +1,440 @@
+<CHAPTER ID="012">
+Kyselytunti (kysymykset komissiolle)
+<SPEAKER ID="278" NAME="Puhemies">
+(PT) Esityslistalla on seuraavana kyselytunti (B6-0010/2008).
+<P>
+Käsittelemme komissiolle osoitettuja kysymyksiä.
+<P>
+Osa I
+<SPEAKER ID="279" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Euroopan lentoturvallisuusviraston (EASA) arvio lentokelpoisuudesta
+<P>
+Kolme Dash 8 Q400 -tyyppisellä koneella lennettyä lentoa (Aalborgiin, Vilnaan ja Kööpenhaminaan) epäonnistui syksyllä 2007. Asiaa tutkivan viranomaisen alustavista selvityksistä käy ilmi, että 9. ja 12. syyskuuta lennettyjen lentojen laskutelineonnettomuudet johtuivat rakenneviasta, ja Skandinavian ilmailuviranomaiset ja Euroopan lentoturvallisuusvirasto ovat tästä yhtä mieltä. Lokakuun 27. päivänä tapahtuneesta lennon epäonnistumisesta syytettiin rakennevikaa ja sitä seurannutta vian etsintää. Skandinavian ilmailuviranomaiset määräsivät skandinaaviset lentokoneet lentokieltoon ja ovat asettaneet joukon ehtoja lentojen jatkamiselle, kun taas EASA katsoo, että kyseinen rakennevika on melko vähäpätöinen.
+<P>
+Eikö EASA:n tehtävänä ole taataa korkea turvallisuustaso?
+<P>
+Miten EASA ja Skandinavian ilmailuviranomaiset voivat arvioida asian niin eri tavoin, kun lentoyhtiön tutkimuksesta, jossa tarkastettiin 16 sen 18 Dash 8 Q400 -koneesta, käy ilmi, että kaikissa näissä koneissa on sama rakennevika tai samoja puutteita kuin koneessa, joka teki pakkolaskun Kööpenhaminaan?
+<SPEAKER ID="280" NAME="Jacques Barrot">
+komission varapuheenjohtaja. - (FR) Vastaan mielelläni Anne Jensenin esittämään kysymykseen.
+<P>
+Koska lopullisia tutkimusraportteja ei ole vielä saatu niistä onnettomuuksista, joissa DASH8 Q400 -koneet olivat osallisina, komissio katsoo olevan ennenaikaista pohtia nämä tietyt tapaukset aiheuttaneita tekijöitä tai mahdollisia suunnitteluvirheitä ja puutteita.
+<P>
+Euroopan lentoturvallisuusviraston (European Aviation Safety Agency, EASA) tehtävänä on tietenkin varmistaa korkein mahdollinen turvallisuustaso. Virasto on seurannut tätä tapausta hyvin tiiviisti, ja se jatkaa samalla tavalla, sillä tämän tyypin lentokoneita on toimitettu 170 kappaletta ympäri maailmaa, ja ne ovat tällä hetkellä käytössä.
+<P>
+EASA:sta saatujen yksityiskohtaisten tietojen mukaan EASA:n, Norjan, Tanskan ja Kanadan ilmailuviranomaisten sekä näiden lentokoneiden valmistajan välillä on ollut lukuisia yhteydenottoja. Niiden seurauksena on toteutettu useita toimia ja EASA on muun muassa julkaissut lentokelpoisuusmääräyksiä, joissa määrätään korjaavia toimia.
+<P>
+Lentokonetyypin laskutelinejärjestelmän yksityiskohtaisen arvioinnin jälkeen EASA päätteli, ettei lentokoneiden turvallisuus ole kyseenalainen. Skandinavian ilmailuviranomaisille suositeltiin tämän vuoksi lentokoneiden lentokelpoisuustodistusten palauttamista - luonnollisesti korjaavien toimien toteuttamisen jälkeen.
+<P>
+Skandinavian ilmailuviranomaiset ilmoittivat lentoyhtiölle edellytyksistä, jotka oli täytettävä lentokelpoisuustodistusten palauttamiseksi kyseisille koneille. Lentoyhtiö ei kuitenkaan ole vielä toimittanut vaadittua näyttöä siitä, että sen kalusto on tarkastettu ja vaaditut muutokset tehty.
+<P>
+Tällä hetkellä Euroopan lentoturvallisuusvirastolle ei ole ilmoitettu, että Tanskan ilmailuviranomaiset olisivat palauttaneet SAS:in Q400 -koneille lentokelpoisuustodistukset. EASA on edelleen yhteydessä Tanskan ilmailuviranomaisiin pyrkiessään selventämään tätä seikkaa.
+<P>
+Arvoisa puhemies, tässä oli vastaukseni Anne Jensenin esittämään kysymykseen.
+<SPEAKER ID="281" NAME="Anne E. Jensen" AFFILIATION="ALDE">
+(DA) Arvoisa puhemies, kiitän varapuheenjohtaja Barrotia vastauksesta. On totta, että erimielisyys, johon kysymyksessäni viittasin, on kenties osittain korjaantunut. Tanskan ilmailuviranomaiset eivät kuitenkaan anna SAS:in lentää näillä koneilla ennen teknisten ongelmien ratkaisemista, vaikka toiset lentoyhtiöt tosiasiassa käyttävät koneita, joissa on samoja teknisiä ongelmia. Minusta keskeinen ongelma tässä on se - sen lisäksi että syrjitään Skandinavian Airlinesia suhteessa Flybeen, Augsburgin, Tyroleanin ja Luxairin kaltaisiin lentoyhtiöihin - että me kansalaiset emme voi luottaa ilmailun turvallisuuteen. Arvoisa varapuheenjohtaja Barrot, kuinka te vakuuttaisitte minulle, että voin luottaa aivan yhtä paljon yhteisön lentoturvallisuusvirastoon kuin kansallisiin ilmailuviranomaisiin, sillä loppujen lopuksihan on kyse näistä viranomaisista?
+<SPEAKER ID="282" NAME="Jacques Barrot">
+komission varapuheenjohtaja. - (FR) EASA on antanut selvät ohjeet, ja jos niitä noudatetaan, se tarkoittaa, että kone on lentokelpoinen. Näin ollen turvallisuusongelmaa ei ole, Tanskan ilmailuviranomaiset eivät vain ole ilmoittaneet EASA:lle kyseisen lentoyhtiön vastauksia.
+<P>
+Hyvä Anne Jensen, tosiasiassa EASA on antanut täydelliset ohjeet näiden lentokoneiden käytöstä mahdollisesti syntyvien ongelmien korjaamiseksi.
+<P>
+Nyt EASA:n on odotettava tutkimustuloksia ennen kuin se voi esittää lopullisen kantansa asiasta, mutta haluan korostaa, että lentoturvallisuusvirasto on selvästi antanut kattavat ohjeet näiden lentokoneiden turvallisesta käytöstä. Onnettomuuksissa ei ole loukkaantunut ketään, mutta kuten sanoitte, onnettomuuksia on tapahtunut, ja on toimittava tilanteen korjaamiseksi.
+<SPEAKER ID="283" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Arvoisa komission varapuheenjohtaja, tilanne vaikuttaa nyt paradoksaalisesti olevan sellainen, että Euroopan lentoturvallisuusvirasto on kieltänyt lentokoneita lentämästä, kun taas esimerkiksi Itävallan ilmailuviranomaisten mukaan se on kuitenkin mahdollista. Kysyn teiltä seuraavaa: onko EASA:n nyt helpompi toimia, kun olemme päättäneet sen laajemmista toimivaltuuksista alalla, koska vaikuttaa siltä, kuten sanoitte, että näitä lentokoneita valmistava yritys aiheuttaa tällä hetkellä tiettyjä ongelmia. Jos EASA voi nyt toimia kuten päätimme, nimittäin myös määrätä sakkoja toimiluvan välittömän peruuttamisen sijaan, onko sen toiminta helpompaa? Uskon, että päätöksemme laajentaa EASA:n toimivaltuuksia helpottaa sen toimintaa vastaisuudessa.
+<SPEAKER ID="284" NAME="Jacques Barrot">
+komission varapuheenjohtaja. - (FR) Haluan tehdä täysin selväksi, että EASA on antanut ohjeet, ja kaikkien lentoyhtiöiden on noudatettava viraston laatimia sääntöjä.
+<P>
+Kysymyksenne on kuitenkin laajempi. Kyllä, EASA:lla on vastuunsa lentokoneiden hyväksymisessä, ja se vastaa myös suunnittelun hyväksyntätodistusten antamisesta kaikkialla maailmassa, mutta se tukeutuu EU:n jäsenvaltioissa toteutettaviin tarkastuksiin seuratessaan sitä, noudatetaanko yhteisiä sääntöjä yhdenmukaisesti.
+<P>
+Toisin sanoen, ja kuten aivan oikein totesitte, olemme laajentaneet viraston toimivaltuuksia, mutta emme niin paljoa, ettei jäsenvaltioiden ilmailuviranomaisilla olisi enää lainkaan vastuuta. Jäsenvaltioiden on kannettava vastuunsa ilmailuviranomaistensa kautta.
+<P>
+Kenties jonain päivänä onnistumme edistymään, mutta tällä hetkellä EASA:lla on lukuisia vaikeita tehtäviä suoritettavana, ja sen on kyettävä edelleen seuraamaan yhteisten sääntöjen noudattamista hyvin tiiviisti jäsenvaltioissa toteutettavien tarkastusten avulla.
+<P>
+Tässä nimenomaisessa tapauksessa katson, että EASA on toiminut juuri niin kuin pitääkin turvallisuuden varmistamiseksi.
+<SPEAKER ID="285" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Yritysjohtajien palkkojen avoimuus
+<P>
+Yritysjohtajien palkat nousevat koko ajan kaikkialla Euroopassa. Esimerkiksi Itävallassa johtajien peruspalkat nousivat vuosien 2006 ja 2007 välisenä aikana noin 3,7 prosenttia. Olennaisesti enemmän nousivat tosin johtajien palkkojen muuttuvat osuudet. Yritysjohtajien palkkojen nousun vuoksi myös yleinen mielenkiinto johtajien työstä todellisuudessa maksettavaan korvaukseen kasvaa. Palkkojen muuttuvia osuuksia ei tarvitse mainita tilinpäätöksissä, joten osakkaat haluavat tietää, mihin heidän rahansa joutuvat. Tästä syystä Euroopan unionin kansalaiset vaativat äänekkäästi lisää avoimuutta yritysjohtajien palkkoihin.
+<P>
+Onko komissio tietoinen tästä kehityksestä? Suunnitteleeko komissio säädöksiä, joiden seurauksena yritysjohtajien palkkatiedoista tulee avoimempia, tai onko asiasta jo annettu säädöksiä?
+<SPEAKER ID="286" NAME="Charlie McCreevy">
+komission jäsen. - (EN) Yritysjohtajien palkkaus on ajankohtainen kysymys, on ollut jo jonkin aikaa. Tämän vuoksi komissio on toteuttanut toimia lisätäkseen yritysjohtajien palkkoja koskevaa avoimuutta.
+<P>
+Komission vuonna 2004 antamassa suosituksessa edellytetään niin yhtiön palkka- ja palkkiopolitiikan kuin yksittäisten johtajienkin palkkojen ilmoittamista vuosittain. Komissio on myös seurannut suosituksen tosiasiallista noudattamista jäsenvaltioissa. Olemme hiljattain laatineet tätä asiaa koskevan katsauksen.
+<P>
+Suurin osa jäsenvaltioista on ottanut käyttöön yksittäisten johtajien palkkauksen avoimuutta koskevat korkeat standardit kansallisessa yritysjohdon valvontaa koskevassa säännöstössään tai sitovassa lainsäädännössä. Kuitenkin vain noin 60 prosenttia jäsenvaltioista on noudattanut suositusta palkka- ja palkkiopolitiikan avoimuuden osalta. Vain harvoissa jäsenvaltioissa suositellaan tästä äänestettävän yhtiökokouksessa. Tässä on parantamisen varaa.
+<P>
+Komissio aikoo myös arvioida, missä määrin yritykset noudattavat suositeltua avoimuusstandardia käytännössä. Palkkaus on ala, jolla eräät yritykset ovat olleet hyvin haluttomia antamaan tietoja, huolimatta kansallisessa yritysjohdon valvontaa koskevassa säännöstössä esitetyistä suosituksista. Tutkimme asiaa edelleen.
+<SPEAKER ID="287" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Arvoisa komission jäsen, sanoitte itse, että 60 prosenttia yrityksistä ei aio tehdä mitään. Kysyn siis teiltä: mitä komissio aikoo tehdä.
+<P>
+Tästä siirryn toiseen kysymykseeni. Olemme saaneet tietää todellisen tapauksen perusteella Saksasta, että nämä herrat - sillä he ovat pääasiassa herroja - sekä ansaitsevat erinomaisen hyvin että ovat myös haluttomia maksamaan ansioistaan veroja, minkä vuoksi he asettuvat Liechtensteinin kaltaisiin valtioihin. Mitä komissio aikoo tulevaisuudessa tehdä lopettaakseen tämän käytännön?
+<SPEAKER ID="288" NAME="Charlie McCreevy">
+komission jäsen. - (EN) Vastauksena arvoisan parlamentin jäsenen molempiin kysymyksiin totean, että näitä asioita on käsiteltävä jäsenvaltioiden tasolla. Vastauksena kysymykseen siitä, mitä komissio aikoo tehdä, totean, että komissio on jo toiminut.
+<P>
+Edeltäjäni päätti laatia suosituksen tälle alalle. Miksikö hän päätti laatia juuri suosituksen? Varmasti monestakin syystä, mutta ensisijainen syy on se, ettei sopimusta yleisestä kansallisen yritysjohdon valvontaa koskevasta säännöstöstä tai yhtiölainsäädännöstä yhteisön tasolla ole tehty. Sellaista sopimusta ei koskaan saataisi aikaan.
+<P>
+Alalla on hyvin paljon kulttuurisia eroavuuksia, ja se on varmasti ollut yksi peruste edeltäjäni päätökselle laatia tätä nimenomaista asiaa koskeva suositus.
+<P>
+Suositusta koskeva selvityksemme on osoittanut, että suurin osa jäsenvaltioista on ottanut käyttöön yksittäisten johtajien palkkausta koskevat korkean tason tiedottamisstandardit yritysjohdon valvontaa koskevassa säännöstössä, ja jotkut ovat sisällyttäneet ne sitovaan lainsäädäntöön. Suurin osa on käsitellyt myös suositusta palkkapolitiikan avoimuudesta.
+<P>
+Toinen, verotusta koskeva kysymys, on todellakin asia, josta jokaisen jäsenvaltion on päätettävä sopivaksi katsomallaan tavalla ja kansallisen lainsäädännön mukaan.
+<SPEAKER ID="289" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Suurnopeusjunaradan maanalaiset kaivutyöt Sagrada Familia -temppelin lähistöllä
+<P>
+Kuten kaikki tietävät, suurnopeusjunaradan maanalaiset kaivutyöt Barcelonan alla ovat aiheuttaneet lukuisia sortumia ja vajoamia, mikä asettaa vaaraan suuret asuintalot ja rakennukset, kuten Sagrada Familia -temppelin ja lukuisia muita historiallisia monumentteja.
+<P>
+Koska kyseessä on EU:n tukema hanke, haluaisimme tietää, mitä ensisijaisia ympäristövaikutustutkimuksia (direktiivi 85/337/ETY) on tehty ja onko tutkimuksissa arvioitu Sagrada Familialle ja muille historialliselle rakennuksille aiheutuvia riskejä?
+<P>
+Haluaisimme myös tietää, onko EU:n saamiin asiakirjoihin sisällytetty Pompeu Fabran yliopiston tutkimus, jossa kehotetaan luopumaan maanalaisesta rataosuudesta sen koko alueelle aiheuttamien vaarojen ja riskien vuoksi?
+<SPEAKER ID="290" NAME="Stavros Dimas">
+komission jäsen. - (EL) Arvoisa puhemies, aluksi haluan muistuttaa komission vakaasta päätöksestä: olipa hanke kuinka hyödyllinen tai tarpeellinen tahansa, sitä ei koskaan saa toteuttaa ympäristönäkökohtia, kansanterveyttä ja jäsenvaltion kulttuuriperintöä huomioimatta.
+<P>
+Jäsenvaltioiden on toteutettava kaikki vaadittavat toimenpiteet kulttuuriperinnön suojelemiseksi ja turvaamiseksi. Tämä koskee erityisesti kaupunkien historiallisia keskuksia, joihin toisinaan kohdistuu lisääntyvän kaupungistumisen aiheuttamia lisäpaineita.
+<P>
+Arvoisan parlamentin jäsenen kysymyksen osalta haluan korostaa seuraavaa: Madrid-Saragossa-Barcelona-reitin suurnopeusjunaradan rakennushankkeet on vain osittain yhteisrahoitettu koheesiorahastosta.
+<P>
+Euroopan laajuisen liikenneverkoston rahastosta myönnetään yhteisrahoitusta hankeselvitysten valmisteluun koko rataosuudella, myös jatkolle Barcelonasta Gironaan ja Figueresiin.
+<P>
+Yhteisön rahastojen varoja ei kuitenkaan ole voitu käyttää tai osoittaa Barcelonan maanalaiseen verkostoon liittyviin hankkeisiin. On myös todettava, että hankkeiden suunnittelu ja toteutus on yksinomaan jäsenvaltion vastuulla, ja sen on noudatettava ja pantava tiukasti täytäntöön sovellettavia yhteisön lainsäädännön säännöksiä.
+<P>
+Tässä nimenomaisessa tapauksessa yhteisön rahoitusta ei ole myönnetty Sants- ja Sagrega-asemat yhdistävän osuuden valmistelutöihin, tai Sagrada Familian lähelle avattavaan tunneliin. Komissiolle ei näin ollen ole ilmoitettu asiasta, eikä se ole saanut Espanjan viranomaisilta jäljennöstä ympäristövaikutusten arvioinnista.
+<P>
+Komissio on tietoinen siitä, että toimivaltainen Espanjan viranomainen, saastumisen ja ilmastonmuutoksen ehkäisemisestä vastaava pääsihteeristö, on hyväksynyt ympäristövaikutusten arvioinnin 30. toukokuuta 2007 tekemällään päätöksellä. Hyväksymispäätöksen teksti on julkaistu Espanjan hallituksen virallisessa lehdessä kesäkuussa 2007. Tekstissä viitataan hankkeen Sagrada Familian kaltaiseen kulttuuriperintöön kohdistuviin vaikutuksiin.
+<P>
+Lopuksi, komissiolle ei ole ilmoitettu Pompeu Fabran yliopiston tutkimuksesta. Espanjan viranomaisten on otettava huomioon niin tutkimusten sisältö kuin tässä tapauksessa myös julkinen mielipide.
+<P>
+Komissio seuraa edelleen tilannetta. Toivomme, ettei minkäänlaista vahinkoa aiheuteta tälle Barcelonan kaupungin kulttuuriperintöön kuuluvalle historialliselle rakennukselle.
+<SPEAKER ID="291" NAME="Cristina Gutiérrez-Cortines" AFFILIATION="PPE-DE">
+(ES) Arvoisa puhemies, epäilemättä laillisia menettelyjä on noudatettu asianmukaisesti, varmasti pakollisilta osin. Käännyn komission puoleen pyytääkseni siltä apua perustamissopimusten vartijana ja vetoan sen omatuntoon, jotta se tuomitsisi toimenpiteet ja soveltaisi ympäristövaikutuksia koskevaa direktiiviä perusteellisesti tässä ominaisuudessaan.
+<P>
+Se, ettei Euroopan unioni rahoita juuri tätä tunnelin osaa, ei ole merkityksellistä, sillä me kaikki tiedämme, että hankkeiden jakaminen osuuksiin on huono käytäntö, jota Euroopan unioni on usein arvostellut.
+<P>
+Miksi suurnopeusjuna-hanketta ei julistettu sellaiseksi merkittäväksi hankkeeksi, joka edellyttää yksityiskohtaisia tutkimuksia vaikutuksista, kun tiedämme sen kulkevan Pedreran ja näin ollen myös Sagrada Familian hyvin herkkien alueiden alitse?
+<P>
+YVA-direktiivin 3 artiklan henki edellyttää arviointia mahdollisista vaikutuksista kulttuuriperintöön. Rakennettava 40 metriä syvä suojaseinämä sijaitsee vain puolentoista metrin päässä Sagrada Familian julkisivusta, joka painaa 40 000 tonnia.
+<P>
+Lisäksi ottaen huomioon maaston ominaispiirteet sekä sen, että katedraali on äärimmäisen monimutkainen mestariteos, pyydän vain, että kaikkia osapuolia kuultaisiin ja kannat otettaisiin huomioon. Olen hyvin iloinen siitä, että suurnopeusjuna-hanketta toteutetaan, mutta tämä ei ole puoluepoliittinen kysymys, kansanpuolue muutti reittiä, ja minusta sitä olisi nyt muutettava uudelleen kulkemaan Valencia-kadun suuntaisesti.
+<SPEAKER ID="292" NAME="Stavros Dimas">
+komission jäsen. - (EL) Haluan vielä kerran korostaa, ettei komissiolla ole valtuuksia puuttua asiaan. Arvoisa parlamentin jäsen on todellakin oikeassa todetessaan, että meidän on pyrittävä erityisen huolellisesti säilyttämään kulttuuriperintömme ja varsinkin arkkitehtoniset mestariteokset. Tähän mennessä meitä ei kuitenkaan ole varoitettu mistään vaarasta, sillä toteutetun ympäristöarvioinnin luonnosta ei ole osoitettu meille vääräksi.
+<P>
+Komission tietoon on saatettu vain Llave para Litoral -yhdistyksen Euroopan parlamentin asiasta vastaavalle valiokunnalle toimittamat vetoomukset. Yhdistyksen jäsenet toivovat maanalaisesta reitistä poikkeavaa rantaviivareittiä.
+<P>
+Nämä ongelmat kuuluvat kuitenkin paikallisviranomaisten, alueviranomaisten ja keskushallinnon ratkaistaviksi ympäristövaikutusten arviointia koskevan direktiivin mukaisesti. Niillä on velvoite toimia näin kulttuuriperintömme säilyttämiseksi.
+<SPEAKER ID="293" NAME="Maria Badia i Cutchet" AFFILIATION="PSE">
+(ES) Arvoisa puhemies, haluan vain lisätä joitakin yksityiskohtia ja todeta, kenties ihmisten rauhoittamiseksi, että rakennustöistä on saatavilla täydelliset geologiset tiedot, rakennustekniikka soveltuu paikallisiin olosuhteisiin, ennaltaehkäisevää hoitoa toteutetaan ennen töiden aloittamista olemassa olevien rakennusten lähellä, luotauksia toteutetaan jatkuvasti, jotta havaittaisiin välittömästi pieninkin mahdollisuus maan liikkumisen ja vajoamisen osalta, kielteisiä vaikutuksia ympäristön rakenteisiin ei ole ja kansalaisille suunnatun tiedotuksen avoimuudesta annetaan vakuudet.
+<P>
+Yritän sanoa tällä, ettei kenelläkään ole Espanjan, Katalonian ja paikallisten viranomaisten intressejä suurempia intressejä sen varmistamiseksi, että niin tämä historiallinen rakennus kuin alueella asuvat ihmisetkin suojataan kaikilta mahdollisilta haitoilta.
+<SPEAKER ID="294" NAME="Stavros Dimas">
+komission jäsen. - (EL) Minulla ei nähdäkseni ole mitään lisättävää arvoisan parlamentin jäsenen meille esittämiin tietoihin.
+<P>
+Osa II
+<SPEAKER ID="296" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Klassisen kreikan ja latinan sisällyttäminen eurooppalaiseen kielitaitoindikaattoriin
+<P>
+Komissio on ilmoittanut aikovansa ottaa käyttöön eurooppalaisen kielitaitoindikaattorin viiden eniten puhutun kielen osalta, jonka johdosta kysyn komissiolta, aikooko se sisällyttää latinan ja klassisen kreikan kielen eurooppalaisten kielten opetusohjelmaan, koska ne muodostavat eurooppalaisten kielten perustan ja monia niistä peräisin olevia sanoja käytetään kaikissa eurooppalaisissa kielissä niiden alkuperästä riippumatta?
+<P>
+Näiden kielten merkityksen vuoksi Euroopan filologiyhdistys Euroclassica on jo määrittänyt latinan kielen taidon tasot ja tutkinnot ja tutkii mahdollisuutta luoda vastaavanlainen järjestelmä klassisen kreikan osalta. Näiden kahden klassisen kielen opiskelu antaa yhteisen mahdollisuuden laajentaa eurooppalaisen kulttuurin perustan tuntemusta ja lujittaa eurooppalaisten kansalaisten yhteenkuuluvaisuutta, ja näin hankitut tutkinnot tuovat lisäedun ammatillisessa elämässä.
+<SPEAKER ID="297" NAME="Leonard Orban">
+komission jäsen. - (RO) Vuonna 2005 antamassaan tiedonannossa nimeltä Eurooppalainen kielitaitoindikaattori komissio ehdotti yksityiskohtaista strategista lähestymistapaa eurooppalaisen kielitaitotutkimuksen toteuttamiseksi. Komissio ehdotti välinettä, jonka avulla saadaan kerättyä tarvittavat tiedot eurooppalaisen indikaattorin laatimiseksi tällä alalla ja parannetaan vieraiden kielten opetusta koskevaa tietämystä.
+<P>
+Tämän seurauksena neuvosto antoi toukokuussa 2006 päätelmänsä, jotka koskivat useita perustavaa laatua olevia ongelmia eurooppalaisen kielitaitoindikaattorin osalta. Testattavista vieraista kielistä neuvosto päätti, että eurooppalaisesta kielitaitoindikaattorista päätetään Euroopan unionin virallisten kielten osalta. Tämä tarkoittaa, että hanke koskee vain eläviä kieliä. Näin ollen mahdollisuutta testata latinaa tai klassista kreikkaa ei ole pohdittu.
+<P>
+Neuvosto päätti käytännön syistä, että eurooppalaisen kielitaitotutkimuksen ensimmäisessä vaiheessa oppilaan kielitaitoa arvioidaan Euroopan unionin virallisista kielistä eniten opiskelluissa ensimmäisessä ja toisessa vieraassa kielessä, toisin sanoen englannissa, ranskassa, saksassa, espanjassa ja italiassa. Tietoja kerätään kolmen kielitaitovaatimuksen osalta: lukeminen, kuullun ymmärtäminen ja kirjoittaminen.
+<P>
+Testausvälineet ovat kuitenkin kaikkien valtioiden saatavilla, jotta voidaan varmistaa, että myös muita kuin näitä viittä vierasta kieltä koskevat testit voidaan sisällyttää kansallisiin vaihtoehtoihin. Komissio tekee myös aloitteen varmistaakseen, että tutkimuksen seuraavaan vaiheeseen sisällytetään kaikki Euroopan unionissa opiskeltavat viralliset kielet.
+<SPEAKER ID="298" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Arvoisa puhemies, ymmärrän, ettei opettaminen kuulu vastuualaanne, kuten ei myöskään tietojen välittäminen tai, kuten totesin kirjallisestikin, klassisista kielistä juontavan yhteisen kulttuuriperinnön vaaliminen.
+<P>
+Kuuluuko tämä teidän vastuualaanne vaiko ei? Se on ensimmäinen kysymykseni. Toinen kysymykseni on, liittyykö eurooppalainen tutkimusohjelma näiden kielten tutkimiseen vaiko ei? Tiedättekö tästä mitään?
+<SPEAKER ID="299" NAME="Leonard Orban">
+komission jäsen. - (RO) Minulle esitettiin kysymys, joka koski eurooppalaista kielitaitoindikaattoria. Kuten vastasin, toiminta koskee ainoastaan Euroopan unionin virallisia kieliä. Toisaalta komissiolla ei ole tietoja jäsenvaltioissa tai niiden alueilla mahdollisesti toteutetuista mainittuja kieliä koskevista tutkimuksista.
+<SPEAKER ID="300" NAME="Manolis Mavrommatis" AFFILIATION="PPE-DE">
+(EL) Arvoisa komission jäsen, eurooppalaista kielitaitoindikaattoria koskevan mietinnön esittelijänä haluan korostaa, että tällä indikaattorilla on tarkoitus arvioida yleistä kielitaitoa nykykielien osalta kaikissa jäsenvaltioissa.
+<P>
+Sovimme, että indikaattorilla mitataan aluksi kielitaitoa EU:n opetusjärjestelmien viidessä yleisimmässä kielessä: englannissa, ranskassa, saksassa, italiassa ja espanjassa.
+<P>
+Parlamentti kehotti kuitenkin komissiota ja neuvostoa siirtymään mahdollisimman pian seuraavaan vaiheeseen ryhtymällä tarvittaviin toimiin, joiden avulla testit voidaan ulottaa koskemaan laajempaa valikoimaa Euroopan unionin virallisia kieliä, kunhan siitä ei aiheudu haittaa nykykielten opettamiselle ja kehitykselle.
+<P>
+Voiko arvoisa komission jäsen kertoa meille, missä vaiheessa nyt ollaan ja mahdollisesti mitä kieliä seuraava vaihe kattaa?
+<SPEAKER ID="301" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Arvoisa komission jäsen, Pohjois-Böömin Haindorfissa entisessä luostarissa on puolalais-saksalais-tsekkiläinen kokoontumiskeskus, jossa kaikki kirjoitukset ja kyltit ovat latinaksi. Emmekö voisi tehdä niin myös yhteisön toimielinten rakennuksissa?
+<P>
+Toinen ehdotus: emmekö voisi laatia Eurooppa-hymniin latinankielisen tekstin, jota kaikki voisivat laulaa yksiäänisesti? Jokainen jäsenvaltio voisi sitten kääntää sanat omalle kielelleen, mutta yhteinen teksti olisi latinaa.
+<SPEAKER ID="302" NAME="Leonard Orban">
+komission jäsen. - (RO) Mitä tulee eurooppalaiseen kielitaitoindikaattoriin, kuten aiemmin sanoin ja kuten oikein totesitte, ensimmäisessä vaiheessa arvioidaan vain viittä kieltä.
+<P>
+Tällä hetkellä aikataulu on seuraavanlainen: tänä vuonna valmistelemme pilottihanketta ja vuonna 2009 toteutamme arvioinnin kaikki valmistelut, jotta vuonna 2010 saamme selvät tulokset tilanteesta näiden viiden kielen osalta. Sen jälkeen, kuten puheenvuorossani totesin, komissio haluaa laajentaa indikaattorin soveltamista kaikkiin virallisiin kieliin. On kuitenkin vielä liian aikaista sanoa tarkkaa hetkeä, jolloin tämä laajennus toteutuu. Meidän on luonnollisesti odotettava ja tutkittava yksityiskohtaisesti indikaattorin arviointitulokset niiden viiden kielen osalta, joilla aloitamme.
+<P>
+Toisaalta, mitä tulee toiseen esittämäänne kysymykseen, Euroopan komission tavoitteena on suojella kielten moninaisuutta. Tältä kannalta Euroopan komissio pyrkii kaikilla toimillaan suojelemaan sekä virallisia kieliä että muita Euroopan unionissa puhuttuja kieliä. Meillä on 23 virallista kieltä, yli 60 alueellista kieltä, vähemmistökieliä ja vähemmän käytettyjä kieliä. Tältä kannalta toimemme liittyvät erityisesti eläviksi kieliksi kutsumiimme kieliin.
+<P>
+Näkökannat Eurooppa-hymniin vaihtelevat tietenkin kovasti. Euroopan komission tehtävä ei ole päättää tästä asiasta.
+<SPEAKER ID="303" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Kielivähemmistöjen tukeminen
+<P>
+Mitä kielivähemmistöjä komissio tuki vuonna 2007, ja millaisia mahdollisuuksia on vahvistaa saksankielisille vähemmistöille osoitettua tukea vuosina 2008 ja 2009?
+<SPEAKER ID="304" NAME="Leonard Orban">
+komission jäsen. - (RO) Vuoden 2007 ehdotuspyynnössä valittiin elinikäistä oppimista koskevasta ohjelmasta rahoitettavaksi yksi vähemmistökieliä koskeva verkosto ja kolme hanketta.
+<P>
+Avaintoimi 2: vieraat kielet. Kielellisen monimuotoisuuden edistämiseksi suunniteltu verkosto, jota koordinoi Welsh Language Board, kohdistaa toimintansa seuraaviin kieliin: baski, bretoni, katalaani, korni, itäfriisi, gaeli, pohjoisfriisi, kymri, länsifriisi, slovakia, retoromania, galicia, friuli, sardi, viro, iiri, latvia, liettua, malta, suomi ja ruotsi.
+<P>
+Yhteisön kielellistä monimuotoisuutta käsittelevä virasto on yksi tähän kolmevuotiseen hankkeeseen osallistuvista kumppaneista. Hankkeen tarkoituksena on helpottaa nykyisten hyvien käytäntöjen vaihtoa sekä uusien ja innovatiivisten ajatusten kehittämistä opetus- ja kielisuunnittelun alalla alueellisten kielten, vähemmistökielten, alkuperäiskielten, rajat ylittävien kielten, pienten kansakuntien kielten ja vähemmän käytettyjen kielten osalta. Vuonna 2007 rahoitettuihin kolmeen monivuotiseen hankkeeseen sisältyy vähemmistökieliä sekä maailmankieliä, kuten katalaani, baski, sardi, sisilia, iiri, venäjä, arabia ja hindi.
+<P>
+Ajanjaksolla 2008-2010 ensisijaisiksi katsotaan hankkeet, jotka koskevat vähemmän käytettyjä eurooppalaisia kieliä. Elinikäistä oppimista koskevassa ohjelmassa ajanjaksolla 2007-2013 kaikki kielet ovat tukikelpoisia, siis myös saksankieliset vähemmistöt.
+<SPEAKER ID="305" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Arvoisa komission jäsen, ymmärsinkö oikein, etteivät saksankieliset vähemmistöt voi saada tukea ennen vuotta 2013? Aivan varmasti on olemassa todellisia vähemmistöjä, kuten Tšekin tasavallan saksankieliset, Liettuan puolankieliset, Tšekin tasavallan puolankieliset ja niin edelleen. Jos heillä siis on tiedotusvälineitä tai kulttuuria koskevia hankkeita, he eivät juuri nyt voi saada lainkaan tukea. Vai olenko ymmärtänyt väärin?
+<SPEAKER ID="306" NAME="Leonard Orban">
+komission jäsen. - (RO) En kenties puhunut riittävän selvästi. En todellakaan sanonut, että tietyt kielet, saksan kieli mukaan luettuna, voisivat saada tukea vasta vuoden 2013 jälkeen. Vastaus on aivan selkeä. Kaikki Euroopan unionissa puhutut kielet, näin ollen tietysti myös saksan kieli, voivat saada rahoitusta elinikäistä oppimista koskevasta ohjelmasta. Vain ehdotetun hankkeen tai ehdotettujen hankkeiden laadulla on merkitystä. Vastaan siis aivan suoraan, että näitä kieliä voidaan rahoittaa elinikäistä oppimista koskevasta ohjelmasta, myös nykyisellä kaudella vuodesta 2008 vuoteen 2013. Toistan vielä, myös nykyisellä kaudella.
+<SPEAKER ID="307" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Vähemmän käytetyt kielet Euroopassa
+<P>
+Voiko komissio ilmoittaa, aikooko se esittää lähitulevaisuudessa uusia ohjelmia, joilla edistetään vähemmän käytettyjen kielten käyttämistä Euroopassa? Millaisia nämä mahdolliset ohjelmat olisivat luonteeltaan ja millaista taloudellista tukea niille voitaisiin antaa?
+<P>
+Kysymykseen numero 45 vastataan kirjallisesti.
+<SPEAKER ID="308" NAME="Leonard Orban">
+komission jäsen. - (RO) Komissio ei aio esittää lähiaikoina uutta ohjelmaa vähemmän käytettyjen kielten käytön konkreettiseksi edistämiseksi Euroopassa. Itse asiassa komission ohjelmien uusi sukupolvi kaudella 2007-2013 - etenkin elinikäistä oppimista koskeva ohjelma - tarjoaa laajan valikoiman rahoitusmahdollisuuksia näille kielille. Kaikki kielet ovat tukikelpoisia tässä ohjelmassa.
+<P>
+Rahoitusta on saatavilla kaikista elinikäistä oppimista koskevan ohjelman neljästä alaohjelmasta, jotka ovat Comenius, Erasmus, Grundvigja Leonardo da Vinci. Rahoitusta on mahdollista saada myös elinikäistä oppimista koskevan ohjelman hiljattain luodusta poikittaisesta osiosta, erityisesti vieraisiin kieliin liittyvä avaintoimen kautta. Siinä tarjotaan rahoitusta sellaisille hankkeille ja verkostolle, joiden tarkoituksena on edistää vieraiden kielten oppimista ja kielellistä moninaisuutta.
+<P>
+Vuoden 2007 yleisen ehdotuspyynnön jälkeen rahoitusta myönnettiin avaintoimesta 2 yhdelle verkostolle ja kolmelle hankkeelle, jotka koskevat vähemmän käytettyjä kieliä. Ajanjaksolla 2008-2010 ensisijaisiksi katsotaan Euroopan vähemmän käytettyjä kieliä koskevat hankkeet. Vuonna 2008 avaintoimelle 2 saatavilla olevat määrärahat ovat 9,9 miljoonaa euroa, mutta kun otetaan huomioon, että kieliin liittyvien toimien ja hankkeiden rahoitus on osa vallalla olevaa suuntausta, lisää varoja on saatavilla elinikäistä oppimista koskevasta ohjelmasta.
+<SPEAKER ID="309" NAME="Seán Ó Neachtain" AFFILIATION="UEN">
+(GA) Arvoisa puhemies, kiitän komission jäsentä vastauksesta. Myöntääkö hän kuitenkin, että on tärkeää tukea vähemmän käytettyjä kieliä niiden elinympäristössä ja ettei niitä saa liikaa sitoa elinikäiseen oppimiseen? Nämä kielet ovat haavoittuvia, ja jos niitä ei tueta riittävästi, ne ovat vastaisuudessa entistäkin haavoittuvampia. Taloudellinen tuki on tietenkin tärkeää, mutta symbolinen tuki vielä tärkeämpää. Onko komission jäsen samaa mieltä siitä, että symbolista tukea olisi lisättävä?
+<SPEAKER ID="310" NAME="Leonard Orban">
+komission jäsen. - (RO) Voin vain toistaa juuri sanomani, nimittäin että Euroopan komission toimissa kielellisen monimuotoisuuden tukemiseksi tuetaan sekä 23 virallista kieltä että myös muita Euroopan unionissa puhuttuja kieliä, ja tämä koskee myös alueellisia kieliä ja vähemmän puhuttuja kieliä. Lisäksi olen osoittanut toimittamissani tiedoissa, että tuki on todellista, merkittävää tukea näiden kielten kehityksen tukemiseksi.
+<SPEAKER ID="311" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+(GA) Arvoisa puhemies, kollegani Seán Ó Neachtain puhuu sujuvasti iiriä. Minä en kuitenkaan puhu. Pyydän anteeksi.
+<P>
+(EN)Voinko esittää kysymyksen? Olen samaa mieltä vastauksenne lähtökohdasta. Raha on tärkeää, mutta eikö tärkeämpää ole, että opimme opettamaan kieliä entistä paremmin? Irlannin kaltaisessa valtiossa, jossa minun kaltaiseni ihmiset kovasti haluaisivat osata kieltä, mutta ovat käyneet läpi koulujärjestelmän, joka ei antanut oppimiseen mahdollisuutta, on löydettävä keinot opettaa meille äidinkieltämme, koska me todella haluaisimme osata sitä.
+<SPEAKER ID="313" NAME="Leonard Orban">
+komission jäsen. - (RO) Euroopan komissio aikoo esittää vuoden 2008 loppupuoliskolla uuden monikielisyyttä koskevan strategian. Tässä strategiassa opetuksella on hyvin merkittävä asema, ja vieraiden kielten erilaiset oppimismenetelmät ovat hyvin etusijalla.
+<P>
+Iirin kieleen liittyen voin kertoa, että matkustin hiljattain Dubliniin ja minulla oli tilaisuus keskustella Irlannin viranomaisten kanssa tuolloin ja myöhemminkin, ja olen korostanut mahdollisimman laajan koulutuksen tarvetta sellaisten ihmisten osalta, jotka kykenevät työskentelemään yhteisön tasolla ja muuallakin kielenkääntäjinä tai tulkkeina. Tämä on keskeinen tekijä, jotta voidaan taata iirin kielen täysin yhdenvertainen asema muiden unionin virallisten kielten joukossa.
+<SPEAKER ID="314" NAME="Evgeni Kirilov" AFFILIATION="PSE">
+(EN) Arvoisa puhemies, minä todellakin odotin saavani komission jäseneltä vastauksen tänään. Puheenvuoro annetaan ihmisille lausumien ja kysymysten esittämiseksi. Minulla on kysymys, ja haluaisin saada siihen vastauksen. Se on aivan yksinkertaista. Täällä tuhlataan tänään aikaa lausumiin. Voisitteko ystävällisesti tässä tapauksessa antaa komission jäsenen vastata hyvin lyhyesti? En esitä sen jälkeen mitään lisäkysymyksiä.
+<SPEAKER ID="315" NAME="Puhemies">
+(PT) Arvoisat parlamentin jäsenet, kun ihmiset pyytävät puheenvuoroa, en voi tietää aikovatko he esittää lausuman vai kysymyksiä. Aivokapasiteettini ei vielä riitä sellaiseen, eikä minulla ole ennustustaitoja. Minun on kuitenkin noudatettava aikataulua parlamentin sääntöjen ja käytäntöjen mukaan, eikä minulla valitettavasti ole antaa teille puheaikaa. Siitä olisi haittaa niille kollegoillemme, jotka ovat esittäneet kysymyksiä. Minun on korostettava, että komissiolle on esitetty pelkästään tätä kyselytuntia varten 70 kysymystä. Ei luonnollisesti ole mahdollista vastata 70 kysymykseen. Meillä on säännöt, ja meidän on noudatettava niitä. Olen vilpittömän pahoillani ja ymmärrän turhautuneisuutenne. Jos olisin asemassanne - ja kun olen asemassanne, minäkin olen turhautunut - mutta en voi luvata teille vastausta. Komission jäsen tietenkin vastaa teille joka tapauksessa kirjallisesti, joten tulette saamaan vastauksenne. Toivon ymmärrystänne.
+<SPEAKER ID="316" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Aluekehitysrahastot ja vähemmistöryhmät
+<P>
+Aluekehitykseen tarkoitetuista rakennerahastoista vuosina 2007-2013 on sovittu suurimmalta osin. Kun tämä otetaan huomioon, miten komissio aikoo varmistaa, ettei varoja käytetä syrjivällä tavalla ja että niistä hyötyvät myös etniset ryhmät, kuten romanit?
+<P>
+Aikooko komissio julkistaa tiedot siitä, miten erilaiset etniset ryhmät ovat saaneet varoja?
+<SPEAKER ID="317" NAME="Danuta Hübner">
+komission jäsen. - (EN) Arvoisa puhemies, haluan kertoa, että vuosien 2007-2013 uuden sukupolven koheesiopolitiikan ohjelmien valmisteluprosessin yhteydessä komissio on vaatinut, että romanikysymys, joka on arvoisalle parlamentin jäsenelle erityisen tärkeä, sisällytetään suunnitteluun ja ohjelmointiin. Minun on todettava, että jäsenvaltiot ovat vastanneet hyvin myönteisesti sisällyttämällä romanikysymyksen monialaisena kysymyksenä moniin kansallisiin strategisiin viitekehyksiin ja myös suorilla viittauksilla toimintaohjelmissa. Tämä on erityisen vahvasti havaittavissa Unkarin, Tšekin tasavallan, Slovakian, Romanian, Bulgarian, Viron ja Espanjan kaltaisissa valtioissa, mutta myös Puolassa, Sloveniassa, Liettuassa ja Suomessa.
+<P>
+Rakennerahastojen hajautetun hallintotavan vuoksi komissio ei pysty selvästi sanomaan, mitkä hankkeet koskevat ja tulevat vastaisuudessa koskemaan romanikysymystä tai kuinka paljon rahaa on saatavilla. Koska osallistumme kuitenkin seurantakomiteaan ajanjaksolla 2000-2006, voin kertoa olevan selvää, että romanien integraatiota tukevia hyvin mielenkiintoisia ja täydentäviä ohjelmia ja hankkeita on paljon. Monissa ESR:n ja EAKR:n ohjelmissa romanien integraatiota tuetaan joko erityisten täytäntöönpanomäärärahojen tai epäsuorien, haavoittuvia ryhmiä koskevien tukien kautta. Näin on esimerkiksi Virossa, Suomessa ja Puolassa.
+<P>
+Tietojen julkistamisen osalta minun on todettava, että kuten todennäköisesti tiedättekin, jäsenvaltioiden on ajanjaksolla 2007-2013 julkaistava yksityiskohtaisia tietoja jokaisen ohjelman tuensaajista, mutta järjestelmä ei koske selkeästi edunsaajien etnisen taustan selvittämistä. Tämän meille toimitettavan luettelon perusteella voimme kuitenkin tunnistaa aloja, joilla yhteisön politiikka on aktiivista.
+<P>
+Haluan myös todeta, että aluepolitiikan pääosasto on laatinut ajanjaksolle 2007-2013 romanikysymystä käsittelevän oppaan komission sisäistä työskentelyä varten, ja sitä on hyödynnetty yksiköissä suunnittelukaudella. Yksiköiden välinen romaniasioiden työryhmä toimii rakennerahastojen yhteydessä, ja sen puheenjohtajuudesta vastaa aluepolitiikan pääosasto.
+<P>
+Haluan myös kertoa, että monissa jäsenvaltioissa - joista Unkari on hyvä esimerkki - on myös ohjausjärjestelmiä, jotka on luotu erityisesti uuden aluepolitiikan prosessia varten. Esimerkiksi Unkarissa on romanineuvonantajien verkosto, joka auttaa romanihakijoita hankkeen valmistelun eri vaiheissa. Komissio työstää parhaillaan ja esittää kesäkuuhun 2008 mennessä yleiskatsauksen kaikista yhteisön välineistä ja politiikan aloista, mukaan lukien rakennerahastot, ja niiden vaikutuksista romanien integraatioon.
+<SPEAKER ID="318" NAME="Claude Moraes" AFFILIATION="PSE">
+(EN) Arvoisa komission jäsen, kiitos hyvin tyhjentävästä vastauksestanne. Haluan kiittää teitä myös hiljattain vaalipiirissäni tekemästänne työstä omien rakennerahasto-ongelmiemme selvittämisessä.
+<P>
+Voinko vielä tarkentaa kysymystäni, joka koskee toiminnan asianmukaisen kohdentamisen etnisiin vähemmistöihin? Eurooppa-neuvosto pyysi joulukuussa teitä ja komissiota nimenomaan tarkastelemaan tätä asiaa tarkemmin. Katsotteko, että minulle antamanne tyhjentävän vastauksen lisäksi olisi mahdollista määrittää, onko tuki kohdennettu oikein romaneihin ja muihin ryhmiin, vai suodattuuko rahaa muihin kohteisiin? Onko teidän mahdollista kertoa vielä lisää tästä asiasta?
+<SPEAKER ID="319" NAME="Danuta Hübner">
+komission jäsen. - (EN) Itse asiassa komission jäsen Špidla vastaa neuvoston pyyntöön vastaamiseksi annettavien asiakirjojen laatimisesta. Osallistumme kuitenkin kaikki prosessiin yksiköiden välisten työryhmien kautta.
+<P>
+Kuten sanoin, saamme tiedot lopullisia edunsaajia koskevasta raportista, joten saamme tietää, mitä tehdään romanien tai muiden vähemmistöjen hyväksi. Emme saa etnisesti eroteltuja tietoja edunsaajien taustoista. Ala, jolla hanke toteutetaan, on kuitenkin täysin selkeä, joten tämän perusteella saamme kaudesta 2007-2013 paljon enemmän tietoa kuin tähän mennessä.
+<P>
+Haluan myös todeta, että jäsenvaltioiden komiteoiden hallintojärjestelmän tarkkailijan ominaisuudessa komissio myös tarkastelee ja osallistuu aktiivisesti varojen jakautumisen arviointiin etnisten vähemmistöjen kannalta merkittävien alojen osalta, joten meillä on monipuolisia tietoja. Minun on kuitenkin myönnettävä, ettei meillä ole täysin kehittynyttä välinettä, jolla voisimme määrittää politiikanalan tukitoimien koko laajuuden, mutta olemme täysin tietoisia kaikista mahdollisuuksistamme ja käytämme niitä kaikkia.
+<P>
+Aika näyttää. Valmistelemme nyt komission asiakirjaa neuvostolle. Selvitämme myös, mitkä alat ovat epäselviä, mistä meillä ei ole tietoa ja minkälaisia toimia voidaan vielä tarvita.
+<SPEAKER ID="320" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Arvoisa puhemies, haluan kysyä komission jäseneltä kuuluvatko yksinhuoltajien perheet ja köyhät perheet haavoittuvien ryhmien määritelmään, ovatko he vähemmistöryhmiä vaiko eivät. Lisäksi kysyn, voidaanko kelpoisuusvaatimuksia yhdistää ja tällaisten ryhmien tukea lisätä.
+<SPEAKER ID="321" NAME="Danuta Hübner">
+komission jäsen. - (EN) Haluaisin sanoa, ettei mitään ole jätetty ulkopuolelle. Teidän avullanne olemme valmistelleet asetukset. Olemme ottaneet tarkkaan huomioon haavoittuvat ryhmät, ja EAKR-asetuksessa on tämän osalta selkeät viittaukset esimerkiksi yhdenvertaisia mahdollisuuksia koskeviin politiikkoihin. Se on siis painopisteala.
+<P>
+On myös olemassa järjestelmä, jonka avulla raportoidaan siitä, kuinka yhdenvertaisia mahdollisuuksia koskevaa politiikkaa pannaan täytäntöön koheesiopolitiikan uuden sukupolven ohjelmissa. Se, missä määrin jäsenvaltiot ja alueet tätä käyttävät, riippuu siitä, kuinka vahvoja ovat hallintorahaston kaikkiin rakenteisiin osallistuvat kumppanit. Tämä on yhteishanke.
+<P>
+Komissio on luonut yleiset puitteet ottaakseen huomioon kaikki haavoittuvat ryhmät. Niiden hyödyntäminen ei riipu pelkästään komissiosta vaan myös jäsenvaltioista. Kehotan voimakkaasti kaikkia paikan päällä olevia huolehtimaan siitä, että tämä asia otetaan huomioon.
+<P>
+Jäsenvaltiot päättävät nyt valintaperusteista, ja komissio osallistuu tähän prosessiin. Prosessin onnistuminen riippuu kuitenkin jäsenvaltioista ja kumppaneista, sillä kaikki työmarkkinaosapuolet ovat edustettuina seurantakomiteassa. Toivon kaikkien kumppaneiden komission kanssa kiinnittävän jäsenvaltioiden huomiota näihin kysymyksiin ja siihen, että valintaperusteisiin sisältyy perusteita, joiden avulla saamme ohjelmiimme kaikkien haavoittuvien ryhmien edustajia.
+<SPEAKER ID="322" NAME="Puhemies">
+(PT)
+<P>
+Aihe: EU:n aluerahoitus Irlannille vuosina 2007-2013
+<P>
+EU:ssa hyväksyttiin hiljattain Irlannille tarkoitettu rahoitus ajanjaksolle 2007-2013. Voiko komissio kertoa, onko se tyytyväinen rahoituksen alueelliseen tasapuolisuuteen? Onko komissio huolissaan siitä, että lukujen mukaan Irlannin kaksi aluetta eivät lähesty toisiaan vaan BMW-alue (Border, Midland and Western region) on edelleenkin jäljessä eteläistä ja itäistä aluetta (Southern and Eastern region), joka on hallituksen rahoituksen kohteena?
+<SPEAKER ID="323" NAME="Danuta Hübner">
+komission jäsen. - (EN) Irlannille tarkoitetusta rahoituksesta ajanjaksolle 2007-2013 ja sen jakautumisesta kahden alueen kesken haluan todeta, että BMW-alue (Border, Midland and Western region), johon sovelletaan vaiheittain tavoitetta 2, saa rahoitusta asukasta kohden neljä kertaa enemmän kuin naapurinsa, tasavallan vauras eteläinen ja itäinen alue.
+<P>
+Irlannille myönnetyistä kaikkiaan 901 miljoonasta eurosta 457 miljoonaa euroa myönnettiin BMW-alueelle ja 293 miljoonaa euroa eteläiselle ja itäiselle alueelle.
+<P>
+Myös yhteistyöohjelmiin on myönnetty 150 miljoonaa euroa, mikä merkitsee, että BMW-alueella rahoitusta asukasta kohden on noin 400 euroa ja eteläisellä ja itäisellä alueella noin 95 euroa.
+<P>
+Haluan myös kertoa, että BMW-alue on suoriutunut erinomaisesti viime suunnittelukaudella EU:n rakennerahastotukien osalta. Asukaskohtainen BKT oli vuonna 2004 jo 102,9 prosenttia EU 27:n keskimääräisestä asukaskohtaisesta BKT:sta. Myönnän kuitenkin, että BMW-alueen ja naapurialueen välinen ero alueellisessa BKT:ssa on edelleen haaste, ja tämän vuoksi toivonkin, että niin ESR:n kuin EAKR:nkin kauden 2007-2013 ohjelmissa ero tulee edelleen pienenemään.
+<SPEAKER ID="324" NAME="Jim Higgins" AFFILIATION="PPE-DE">
+(GA) Arvoisa puhemies, kiitän komission jäsentä. Haluan asettaa kontekstiinsa merkittävän tiehankkeen, joka on erittäin tärkeä syrjäisille alueille. Vuonna 2006 saatettiin päätökseen 14 suurta tiehanketta, mutta yksikään niistä ei sijainnut BMW-alueella. Samana vuonna rakenteilla oli uusia tiehankkeita, mutta niistä vain yksi sijaitsi lännessä, BMW-alueella.
+<P>
+Samana vuonna käynnistettiin 11 tiehanketta, jotka kattavat 222 kilometriä, mutta vain kaksi hanketta sijaitsee lännessä ja kattaa 25 kilometriä. Olette oikeassa todetessanne, että kun tarkastellaan esimerkiksi BKT:ta tai BKTL:a, on selvää, että ero kasvaa ja että sille on tehtävä jotakin.
+<SPEAKER ID="325" NAME="Danuta Hübner">
+komission jäsen. - (EN) Arvostan kovasti huomiotanne. Haluan myös sanoa, että me autamme BMW-aluetta tulevina vuosina. Kuten tiedätte, Irlannin määrärahoja leikattiin hyvin paljon kaudelle 2007-2013, ja tällä on tietenkin selvä vaikutus siihen, kuinka paljon voimme yhdessä tehdä tulevina vuosina.
+<P>
+Totean myös, että Irlannin kannalta valtakunnallinen aluekehitysstrategia on hyvä uutinen, sillä tässä kansallisessa ohjelmassa otetaan huomioon talouskasvun erilaiset tasot niin alueiden välillä kuin BMW-alueen sisällä. Toivomme, että tämä yhteisön ja Irlannin yhteinen panostus saa BMW-alueen kasvun nopeampaan vauhtiin.
+<P>
+Esitän henkilökohtaisen huomautuksen. Me kaikki tiedämme, että Irlanti on vuosien ajan käyttänyt yhteisön rahoitusta nerokkaasti ja noudattanut hyvin viisasta strategiaa, mikä on johtanut tähän valtavaan parannukseen yleisessä kehityksessä, kun sitä tarkastellaan asukaskohtaisen BKT:n kannalta. On kuitenkin totta, että valinta ei ole kohdistunut infrastruktuuriin, josta nyt on kysymys, ja jossa emme voi auttaa, sillä Irlanti on saanut päätökseen tavoitteen 1 ohjelman, josta olisi mahdollista saada lisärahoitusta infrastruktuuriin. Valinta oli siis hyvin erilainen kuin Espanjassa ja Portugalissa, mutta minun tehtäväni ei ole ottaa siihen kantaa.
+<SPEAKER ID="326" NAME="Puhemies">
+(PT)
+<P>
+Aihe: EU:n tuki Irlannin rauhanprosessille
+<P>
+Voiko Euroopan komissio kertoa kuinka paljon rahallista tukea se antaa Pohjois-Irlannille rakennerahastosta vuosina 2007-2013? Kuinka paljon Euroopan komissio on antanut rahallista tukea Pohjois-Irlannin rauhanprosessille vuoden 1994 jälkeen rakennerahastojen ohjelmista, Interreg Cross Border -ohjelmasta, EU:n rauhanrahastosta ja Irlannin kansainvälisestä rahastosta?
+<SPEAKER ID="327" NAME="Danuta Hübner">
+komission jäsen. - (EN) Kaikki täällä istuntosalissa tietävät, että komissio on ollut hyvin voimakas ja osallistuva kumppani Pohjois-Irlannin rauhan ja sovinnon prosessissa vuosien ajan.
+<P>
+Kaudella 2007-2013 Pohjois-Irlannille osoitetaan kaikkiaan hieman yli 1,2 miljardia euroa. Varat tulevat Euroopan sosiaalirahastosta ja Euroopan aluekehitysrahastosta, mutta kolmanteen rauhanohjelmaan myönnetään myös ylimääräinen 477 miljoonan euron määräraha. Myös kansainvälisten rahoituslaitosten ohjelmasta ja neljännestä Interreg-ohjelmasta kohdistetaan investointeja sekä Pohjois-Irlantiin että Irlannin raja-alueille.
+<P>
+Menneisyyden osalta - tämä oli myös osa kysymystä - ajanjaksoilla 1994-1999 ja 2000-2006 EU:n investoinnit olivat yli kaksi miljardia euroa ajanjaksolla 1994-1999 ja lähes 1,8 miljardia euroa ajanjaksolla 2000-2006. Koko ajanjaksolla 1994-2013 olemme siis investoineet Pohjois-Irlantiin lähes viisi miljardia euroa.
+<P>
+Tällä hetkellä uuden työryhmän ja komission uuden lähestymistavan ja sitoutumisen myötä on tärkeää, että taloudellisen tuen antamisen lisäksi myös hyötyjä on saatavilla, kun Pohjois-Irlanti osallistuu entistä voimakkaammin yhteisön politiikkaan. Tämän parissa me teemme nyt työtä yhdessä Pohjois-Irlannin hallinnon ja muiden kumppanien kanssa.
+<SPEAKER ID="328" NAME="Seán Ó Neachtain" AFFILIATION="UEN">
+laatijan sijainen. - (GA) Arvoisa komission jäsen, tuki Pohjois-Irlannin ja raja-alueen rauhanprosessille on ollut hyvin menestyksekästä. Voiko arvoisa komission jäsen kertoa jatketaanko aloitetta rahoituskauden päättyessä vuonna 2013?
+<SPEAKER ID="329" NAME="Jim Higgins" AFFILIATION="PPE-DE">
+(GA) Arvoisa puhemies, olen täysin samaa mieltä kollegani Seán Ó Neachtainin kanssa, ja olemme hyvin kiitollisia Euroopan unionille sen Pohjois-Irlannille, erityisesti raja-alueelle, myöntämästä rahoituksesta. On ihanaa, että siellä on nyt rauha, ja me kaikki haluamme kiittää Euroopan unionia sen panoksesta. Kun tarkastellaan lukuja - ja olen laatinut hiljattain Irlannin kansainvälisestä rahastoa koskevan mietinnön - havaitsemme, että rahaston avulla on luotu yli viisi tuhatta työpaikkaa. Olen kuitenkin täysin samaa mieltä kollegani Seán Ó Neachtainin esittämästä kysymyksestä.
+<SPEAKER ID="330" NAME="Danuta Hübner">
+komission jäsen. - (EN) Vastauksena kysymykseen siitä, jatkuuko läsnäolomme Pohjois-Irlannissa vuoden 2013 jälkeen, totean, että kansainvälisten rahoituslaitosten ohjelma, joka kuten tiedämme ei ole komission ohjelma, johon komissio ja neuvosto osallistuvat, päättyy vuonna 2010. Emme siis tiedä, onko kansainvälinen yhteisö halukas jatkamaan ohjelmaa toisella vaiheella tai uusimaan ohjelman.
+<P>
+Yhteisön ohjelmissa Pohjois-Irlanti kuuluu tavoitteen 2 ohjelmaan. Toivon vilpittömästi, että jatkamme tavoitteen 2 ohjelmaa, sillä en usko aluepolitiikkaan, joka koskee vain osaa Euroopasta ja jonka ulkopuolelle muut osat jäisivät. Jos tavoitteen 2 ohjelmaa ei jatketa, Pohjois-Irlannin tuelle ei ole edellytyksiä.
+<P>
+Uskon kuitenkin myös, että rajat ylittävä ja kansainvälinen yhteistyö - etenkin rajat ylittävän ohjelman osa C - johon Pohjois-Irlanti osallistuu, on hyvin tärkeää, sillä uskomme alueiden välisen yhteistyön, varsinkin rajat ylittävän ulottuvuuden kautta, olevan hyvin merkittävää Pohjois-Irlannin saattamiseksi lähemmäs yhteisöä sekä muiden alueiden ja jäsenvaltioiden kanssa tehtävän yhteistyön edistämiseksi. Tulevaisuus on siis avoin. Komissio osallistuu varmasti tämän läsnäolon jatkon kannatukseen.
+<SPEAKER ID="331" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Euroopan rakennetuet
+<P>
+Onko komissio tietoinen, että uusien toimintaohjeiden mukaisesti hankkeilla on Skotlannissa oltava vähintään 200 000 punnan talousarvio, jotta ne täyttävät Euroopan rakennerahaston vaatimukset? Katsooko komissio, että tällä syrjitään epäoikeudenmukaisesti pieniä mutta hyödyllisiä hankkeita?
+<P>
+Kysymyksiin 50-54 vastataan kirjallisesti.
+<SPEAKER ID="332" NAME="Danuta Hübner">
+komission jäsen. - (EN) Komissio on tietoinen Skotlannin viranomaisten käyttöön ottamasta kynnyksestä. Totean myös, että Skotlannin viranomaiset olivat täysin avoimia koko neuvottelujen ajan tämän kynnyksen käyttöönotosta. Viranomaiset olivat avoimia sekä yhteydenpidossa komissioon päin että myös Skotlannissa kaikkien sidosryhmien ja kumppanien kanssa toteutetussa kuulemismenettelyssä.
+<P>
+Haluan korostaa, että on täysin selvää, että käyttöön otettu kynnys ei sulje pois pieniä hankkeita, vaan sillä kannustetaan näiden hankkeiden ryhmittämistä aihe- tai aluekohtaisesti vaaditun kynnyksen saavuttamiseksi. Skotlannin viranomaiset ovat sitoutuneet varmistamaan, että tukea myönnetään pienille hankkeille, siten että sellaiset pienet hankkeet, jotka eivät ylitä kynnystä, voidaan esittää koska tahansa välittävälle hallintoelimelle, joka saattaa niitä mahdollisuuksien mukaan yhteen entistä strategisemman ehdotuksen aikaansaamiseksi.
+<P>
+Itse asiassa tällä pyritään minimoimaan pienten hankkeiden rahoituksen sisältämät taloudelliset ja tilintarkastukseen liittyvät riskit. Sillä pyritään myös edistämään pienten hankkeiden välisiä yhteyksiä, jotta niistä tulisi osa laaja-alaista strategiaa, sekä keventämään hallinnollista taakkaa, joka usein nähdään esteenä pienille hankkeille. Aikomus on siis hyvä, ja käytössä on mekanismi, jolla autetaan muodostamaan pienistä hankkeista suurempia kokonaisuuksia, joita voidaan esittää rahoitettaviksi.
+<SPEAKER ID="333" NAME="David Martin" AFFILIATION="PSE">
+(EN) Arvoisa komission jäsen, esitän kysymykseni hyvin lyhyesti, sillä tiedän ajan juoksevan. Jos Skotlannin viranomaiset tulisivat ehdottamaan teille matalampaa kynnystä, olisiko se mahdollista ja suhtautuisitteko siihen myönteisesti?
+<SPEAKER ID="334" NAME="Danuta Hübner">
+komission jäsen. - (EN) Ilman muuta, kyllä. Vastaukseni olisi ehdottomasti kyllä.
+<SPEAKER ID="335" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Euroopan telemarkkinaviranomaisen perustaminen
+<P>
+Komissio on ehdottanut telemarkkinoita koskevan sääntelyn tulevan uudistamisen yhteydessä myös Euroopan telemarkkinaviranomaisen perustamista. Kyseisen viranomaisen on määrä muun muassa ryhtyä hoitamaan tehtäviä, joista Euroopan sääntelyviranomaisten ryhmä (ERG) on tähän saakka vastannut, ja koordinoida kansallisten sääntelyviranomaisten toimintaa.
+<P>
+Onko komissio ottanut huomioon, että kaikki EU:n kansalliset sääntelyviranomaiset ovat ilmaisseet vastustavansa ehdotetun yhteisön viranomaisen toimivaltaa? Mitkä ovat tärkeimmät erot kansallisten sääntelyviranomaisten ja uuden Euroopan telemarkkinaviranomaisen toimivaltojen välillä?
+<SPEAKER ID="336" NAME="Viviane Reding">
+komission jäsen. - (EN) Arvoisa parlamentin jäsen viittaa komission ehdotukseen Euroopan sähköisen viestinnän markkinaviranomaisen perustamisesta. Katsomme, että olisi oltava erillinen komissiosta riippumaton taho, joka olisi tilivelvollinen Euroopan parlamentille, ja että tämä taho voisi auttaa komissiota ratkaisemaan jäljellä olevat sääntelyn epäjohdonmukaisuuteen liittyvät ongelmat, jotka johtavat Euroopan markkinoiden hajanaisuuteen.
+<P>
+Olen jatkuvasti yhteydessä kansallisiin sääntelyviranomaisiin ja otan huomioon niiden näkemykset ehdotetun viranomaisen toimivallasta ja vastuualoista.
+<P>
+Mitä tulee Euroopan sääntelyviranomaisten ryhmään (European Regulators Group, ERG), joka on ilmaissut kannattavansa oman mallinsa vahvistamista sääntelyn laadun, johdonmukaisuuden ja koordinoinnin parantamiseksi edelleen kaikkialla Euroopassa. Haluaisin lainata Euroopan sääntelyviranomaisten ryhmän lausuntoa: ”Jos Eurooppa haluaa johtoaseman globaalissa taloudessa, sen 27 jäsenvaltion on tehtävä tiivistä yhteistyötä sen varmistamiseksi, että liike-elämä voi hyödyntää täysimääräisesti yhteisön markkinoita”. Tämä tarkoittaa, ettei näin ole tällä hetkellä, ja että meidän on löydettävä ratkaisuja, jotta tämä toteutuisi tulevaisuudessa.
+<P>
+Tarkistusehdotuksiin liittyvässä vaikutustenarvioinnissa todetaan, että Euroopan sähköisen viestinnän markkinaviranomainen edistäisi osaltaan päätöksenteon tehokkuutta, varsinkin rajat ylittäviä toimia koskevan päätöksenteon tehokkuutta. Me tarvitsemme tätä sisämarkkinoiden kehittämiseksi.
+<P>
+Komissio teki tämän vuoksi päätelmän, että tarvitaan yhteisön nykyiseen toimielinrakenteeseen sijoittuvaa erillistä elintä, sillä tällä hetkellä ERG on rakenteen ulkopuolella, mikä tarkoittaa, että se on pelkkä yksityinen järjestö. Toimielinrakenteeseen kuuluva elin vahvistaisi kansallisten sääntelyviranomaisten toimivaltaa ottamalla vastuulleen ERG:n tehtävät ja antamalla niille perustan yhteisön lainsäädännössä.
+<P>
+Kysymykseen toimivallan jakautumisesta vastaan, että viranomainen auttaisi komissiota kysymyksissä, joilla on vaikutusta sisämarkkinoihin ja jotka ovat luonteeltaan rajat ylittäviä, ja luottaisi luonnollisesti kansallisten sääntelyviranomaisten asiantuntemukseen ja jokapäiväiseen sääntelytyöhön. Järjestelmällä, joka perustuu 27 kansallisen sääntelyviranomaisen kokemukseen sekä Euroopan verkko- ja tietoturvaviraston (ENISA) hankkimaan kokemukseen, pyritään vahvistamaan EU:n sääntöjen yhtenäisyyttä ja johdonmukaisuutta, parantamaan päätöksentekoprosessia sekä edistämään korkeatasoista ja tehokasta verkko- ja tietoturvaa.
+<SPEAKER ID="337" NAME="Georgios Papastamkos" AFFILIATION="PPE-DE">
+(EL) Arvoisa komission jäsen, jos hallinnollinen toimi kohdistuu Euroopan kansalaiseen, mihin kolmesta elimestä hänen on otettava yhteyttä puolustaakseen laillisia etujaan, kansalliseen sääntelyviranomaiseen, hiljattain perustettuun Euroopan sähköisen viestinnän markkinaviranomaiseen vaiko komissioon?
+<P>
+Ovatko parhaillaan perusteilla olevan viranomaisen päätökset täytäntöönpanokelpoisia? Aikooko komissio itse vastata lisäkuluista, joita syntyy lainsäädäntökehyksen ehdotetusta tarkistuksesta, kun otetaan huomioon uusien ja vanhempien jäsenvaltioiden televiestintärakenteiden nykyinen epäsymmetrinen kehitys?
+<SPEAKER ID="338" NAME="Viviane Reding">
+komission jäsen. - (EN) Kaikilla kansalaisilla on valitusoikeus, jos jokin ei suju hyvin. Tavallisena kansalaisena valittaisin ensin Euroopan parlamentin vetoomusvaliokuntaan, sillä se on taho, jonka kautta kuullaan parlamentin kanta. Toinen keino on avoimuus, joka on hyvin merkittävä osatekijä kaikissa säännöissämme.
+<P>
+Komissio on pyrkinyt toteuttamaan avoimuutta. Muistatte kenties verkkovierailupuhelujen osalta, että kansalaisille ei kerrottu lainkaan, mistä he voivat saada hintarakenteita koskevia tietoja, ennen kuin komissio perusti verkkovierailuja koskevan Internet-sivuston. Tuolloin avoimuus toteutui ensimmäistä kertaa.
+<P>
+Uudessakin uudistuksessa avoimuus on sääntö eikä poikkeus, niin hintarakenteiden kuin myös esimerkiksi turvallisuuteen tai yksityisyyteen kohdistuvien rikkomisten osalta. Tällaisissa tapauksissa operaattoreiden on tiedotettava kuluttajille. Totean vielä lopuksi, että kansalaisilla on edelleen mahdollisuus valittaa tavanomaisella tavalla, kuten vanhojenkin televiestintäsääntöjen mukaan.
+<SPEAKER ID="339" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Laajakaistayhteyksien käyttömahdollisuus jäsenvaltioiden kansalaisille
+<P>
+Komissio hyväksyi 13. marraskuuta 2007 uudistusehdotuksia sähköistä viestintää koskevaan lainsäädäntöön. Voiko komissio tarkentaa, miten se aikoo toimia tehokkaasti ja nopeasti jäsenvaltioissa, jotta laajakaistayhteyksien markkinat olisivat kaikkien kansalaisten käytettävissä, vaikka tämän hetkiset merkittävät hintaerot viittaavat siihen, että tästä tavoitteesta ollaan vielä kaukana.
+<P>
+Toisaalta, miten komissio aikoo varmistaa tehokkaan kilpailun ja sen, että kyseisten markkinoiden avoimuuden estävistä kilpailunvastaisista käytännöistä rankaistaan?
+<SPEAKER ID="340" NAME="Viviane Reding">
+komission jäsen. - (EN) Nopeat Internet-liittymät ovat Internetin tulevaisuus, emmekä halua sen olevan vain joidenkin saatavilla. Tämän vuoksi kaikille yhteinen tietoyhteiskunta on yksi Lissabonin strategiassa esitetty avointen ja kilpailukykyisten markkinoiden edellytys. Koska nykyiset sääntelyvälineemme jo ennen uudistustakin mahdollistavat tämän avoimen lähestymistavan sähköisen viestinnän kehykseen - myös yleiset kilpailusäännöt tukevat sitä - markkinoista on tullut liian avoimet kilpailulle, mikä vuorostaan on lisännyt laajakaistaverkkojen tarjontaa markkinoilla.
+<P>
+Olen huolissani siitä, että joissakin valtioissa se on toiminut hyvin - nämä ovat niitä valtioita, joissa kilpailu toimii hyvin, joissa verkot kattavat 37 prosenttia ja jopa 40 prosenttia väestöstä - kun taas joissakin toisissa valtioissa kattavuus on hyvin alhainen. Toivoisin tästä eriarvoisuudesta päästävän eroon. Haluaisin parantaa tilannetta hyvin alhaisen kattavuuden alueilla. Tämän vuoksi komissio osana uudistusta ehdottaa valvontavallan antamista komissiolle, jotta se voi valvoa kansallisten sääntelyviranomaisten korjaavia toimenpiteitä. Tätä tuetaan kansallisten sääntelyviranomaisten mahdollisuudella erottaa palveluja toiminnallisesti, jos viranomaiset katsovat sen tarpeelliseksi markkinoiden avaamisen kannalta.
+<P>
+Komissio katsoo vastaavasti myös kilpailunvastaisiin käytäntöihin kohdistuvat toimet ensisijaisiksi. Esimerkiksi vuonna 2003 France Télécomille ja Deutsche Telekomille määrättiin sakkoja kohtuuttomasta menettelystä laajakaistamarkkinoilla, ja hiljattain 4. heinäkuuta 2007 komissio määräsi sakkoja Telefónicalle, joka oli käyttänyt väärin määräävää asemaansa Espanjan laajakaistamarkkinoilla ja soveltanut kohtuuttoman pieniä marginaaleja.
+<P>
+Haluan myös todeta, että komissio antoi maaliskuussa 2006 tiedonannon laajakaistaverkkojen kattavuuserojen umpeen kuromisesta. Uskon todellakin, että tarvitsemme kaikkien saatavilla olevan laajakaistan, ja tämän vuoksi katson, että tarvitsemme kansallisia laajakaistastrategioita, jotka heijastavat alueellisia ja paikallisia tarpeita.
+<P>
+Siirryn avoimuutta koskevaan kysymykseen. Komissio on aikeissa avata laajakaistaa ja kansalaisia käsittelevän verkkosivuston, jonka on määrä ottaa käyttöön touko-kesäkuussa 2008.
+<P>
+Viimeisenä muttei vähäisimpänä, komissio suhtautuu myönteisesti julkisten varojen, myös EU:n rakennerahastojen varojen, käyttöön laajakaistan levittämiseksi alueille, joilla kaupallinen hyödyntäminen on riittämätöntä. Tällaisia hankkeita on jo käynnistetty useita.
+<P>
+Tuemme myös tietoyhteiskunnan kehittämistä aluepolitiikan avulla. Alustavan arvion mukaan investoinnit ovat noin 15 miljardia euroa, joka on 4,4 prosenttia kokonaismenoista kaudella 2007-2013, ja tästä määrästä 2,2 miljardia euroa on tarkoitus käyttää laajakaistainfrastruktuureihin. Näiden pyrkimysten avulla toivomme nykyisen kattavuuden - meillä on itse asiassa laajakaistan kattavuuden osalta neljä maailman johtavaa valtiota - tekevän yhä useammasta valtiosta johtavia maailmassa ja varsinkin Euroopassa.
+<SPEAKER ID="341" NAME="Giovanna Corda" AFFILIATION="PSE">
+(FR) Arvoisa komission jäsen, olette joutuneet määräämään verkkovierailulle enimmäishinnan, ja sanoitte viime viikolla, että joudutte kenties toimimaan samoin myös sähköpostien osalta.
+<P>
+Ettekö joudu myös lähitulevaisuudessa valvomaan Internetin käyttömaksuja yhteisön tasolla?
+<P>
+Tiedän, että joissain valtioissa suunnitellaan yhdenmukaistamista, mikä vähentää operaattorien määrää. Tarkoittaako tämä, että hinnat laskevat? Arvoisa komission jäsen, sallinette minun todeta, että epäilen sitä.
+<SPEAKER ID="342" NAME="Viviane Reding">
+komission jäsen. - (FR) Arvoisa puhemies, vastatakseni Giovanna Cordalle korostan, ettemme puutu kevyesti markkinahintoihin, vaan annamme tavallisesti markkinoiden ratkaista nämä ongelmat. Jos markkinat eivät kuitenkaan pysty tähän, on poliitikkojen kannettava vastuunsa. Näin me teimme verkkovierailupuheluiden osalta, enkä halua toimia samoin tekstiviestien ja tiedonsiirron verkkovierailujen osalta.
+<P>
+Tämän vuoksi - tämä perustuu verkkovierailupuheluita koskevan asetuksen mukaiseen velvoitteeseeni, kun parlamentti pyysi minua esittämään analyysin tilanteesta vuonna 2008 - olen juuri antanut alalle varoituksen, jossa tein täysin selväksi, että jos se ei itse saa laskettua hintoja, lainsäätäjien, myös Euroopan parlamentin, on ryhdyttävä toimiin. Markkinoille on kuitenkin aina annettava ensin mahdollisuus, ja vasta jos markkinat eivät pysty ratkaisemaan ongelmaa, on poliitikkojen puututtava asiaan.
+<P>
+Kuinka laajakaistamarkkinoilla käy? En tiedä. Tällä hetkellä tiedän vain, että täällä Euroopassa on neljä valtiota, jotka ovat maailman johtajia laajakaistan kattavuuden suhteen, paljon edellä Japania ja Etelä-Koreaa ja kaukana edellä Yhdysvaltoja. Voimme todeta, että markkinat ovat kilpailukykyiset, markkinoilla on runsaasti tarjouksia, ja kuluttajat voivat täysin vapaasti valita heille parhaiten sopivan tarjouksen.
+<P>
+Näin markkinoiden kuuluukin toimia. Meidän on säänneltävä vain, jos markkinat eivät toimi. Näin toimivat kansalliset sääntelijät. Jotta ne voisivat toimia edelleen entistä tehokkaammin ja käytännöllisemmin edistämällä yhtenäismarkkinoita, sillä tämä on Euroopan valttikortti globaalissa maailmassa, ehdotan televiestintämarkkinalainsäädännön uudistamista. Minä teen tämän, ja nyt parlamentti keskustelee asiasta, jotta kuluttajilla olisi todellinen valinnanvapaus.
+<P>
+Tällä hetkellä on liikaa ihmisiä - eikä vain ihmisiä, vaan myös pk-yrityksiä - joilla ei ole laajakaistaa saatavilla. Tulevaisuudessa heillä ei ole laajakaistan tarjoamia mahdollisuuksia sosiaaliseen kehitykseen, ja tämä on mielestäni tilanne, jota on mahdoton hyväksyä. Tämän vuoksi kaikkien saatavilla olevan laajakaistan on oltava poliittinen tavoite. Se on toteutettavissa, jos onnistumme uudistamaan televiestintämarkkinat siten, että operaattorien välille syntyy aitoa kilpailua, ja niiden kuluttajille tarjoamiin palveluihin valinnanvaraa.
+<SPEAKER ID="343" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Internetin turvallisuus
+<P>
+Samalla, kun tieto- ja viestintätekniikan kehitys tuo edelleen merkittäviä etuja, on olemassa entistä suurempi vaara, että lapset altistuvat sopimattomalle tai laittomalle sisällölle. EU hyväksyi vuonna 2005 Safer Internet plus -ohjelman vastustaakseen laittoman ja ei-toivotun aineiston päätymistä erityisesti lasten ulottuville.
+<P>
+Voiko komissio kertoa, millaisia tuloksia on saavutettu tällä tärkeällä politiikan alalla ja erityisesti millaista todellista edistystä jäsenvaltioissa on saavutettu Internetin turvallisuuden parantamisessa?
+<SPEAKER ID="344" NAME="Viviane Reding">
+komission jäsen. - (EN) Arvoisa puhemies, tämä aihe on sydäntäni lähellä, sillä se koskee lapsia ja heidän turvallisuuttaan. Katson uuden teknologian olevan lasten kannalta erinomaista, mutta siihen liittyy myös vaaroja, joita vastaan meidän on taisteltava.
+<P>
+Tämän vuoksi olemme perustaneet kaksi laaja-alaista eurooppalaista verkostoa: INHOPE-vihjelinjaverkoston, johon kansalaiset voivat ilmoittaa laittomasta sisällöstä, sekä INSAFE-tiedotusverkoston, joka pyrkii levittämään lapsille, vanhemmille, kouluille, poliittisten päätösten tekijöille ja tiedotusvälineille tietoa verkkoteknologian turvallisesta käytöstä. Kaikki tämä kuuluu Safer Internet -ohjelmaan. Kyseessä ovat ainutlaatuiset yleiseurooppalaiset hankkeet.
+<P>
+INHOPE-vihjelinjoja on 24:ssä eurooppalaisessa valtiossa ja aasialaisten ja yhdysvaltalaisten jäsenten ansiosta sillä on myös kansainvälinen ulottuvuus. Verkoston käsittelemien ja lainvalvontaviranomaisille toimitettujen lasten hyväksikäyttöön liittyvää aineistoa koskevien vihjeiden määrä on lisääntynyt viime vuosina 15 prosenttia, joten näiden vihjelinjojen merkitys on selvästi havaittavissa.
+<P>
+Toinen verkosto on INSAFE, joka koordinoi tiedotuskeskuksia 23:ssa eurooppalaisessa valtiossa ja järjestää myös vuosittain Turvallisempi Internet -päivän, joka oli tänä vuonna 12. helmikuuta. Järjestimme yleiseurooppalaisen nuorisofoorumin, jossa useat Euroopan parlamentin jäsenet ja alan edustajat kertoivat suoraan sosiaalista verkostoitumista ja matkapuhelimen käyttöä koskevista kokemuksistaan.
+<P>
+EU:n Lapset verkossa -verkosto koordinoi tutkijoita 21 valtiosta keskittyen lasten turvallisuuteen verkossa, ja Turvallisempi Internet -foorumi kokoaa yhteen kansalaisjärjestöjä, alan tutkijoita ja poliittisia päätöksentekijöitä keskustelemaan laittoman sisällön entistä tehokkaammista torjuntakeinoista, Web 2.0:sta ja muista olennaisista aiheista. Ohjelmassa kannustetaan myös yksityisen sektorin osallistumista. Safer Internet Plus -ohjelma päättyy joulukuussa 2008, minkä vuoksi parlamentilla on hyvin pian mahdollisuus tutustua ohjelman arviointiin ajanjaksolle 2009-2013. Olen varma, että parlamentti ottaa aktiivisesti osaa tähän päätöksentekoprosessiin.
+<P>
+Tähän mennessä olemme saaneet hyviä tuloksia, ja voimme vahvistaa niitä edelleen. Ongelma ei ole pienenemässä, se jatkaa kasvamistaan, joten katson, että näiden ohjelmien olisi jatkuttava.
+<SPEAKER ID="345" NAME="Gay Mitchell" AFFILIATION="PPE-DE">
+(EN) Arvoisa komission jäsen, kiitos vastauksestanne. Koska ongelma kasvaa ja jatkaa kasvamistaan, voitteko vahvistaa, että suosittelette myös määrärahojen kasvattamista? Viimeisten viiden vuoden määrärahat olivat 45 miljoonaa euroa.
+<P>
+Oletteko tietoinen vuonna 2003 tehdyn tutkimuksen tuloksesta, jonka mukaan 40 prosenttia lapsista kertoi verkossa tapaamiensa ihmisten ehdottaneen henkilökohtaista tapaamista ja että vuonna 2006 lapsista 22 prosenttia todella tapasi tällaisen henkilön? Heistä 51 prosenttia ei koskaan kertonut asiasta vanhemmilleen tai opettajilleen. Minkälaisia tavoitteita olette asettanut tämän osalta, kuinka mittaatte näiden tavoitteiden saavuttamista ja minkälaista edistymistä voitte raportoida parlamentille, kun käynnistämme ohjelman uudelleen ajanjaksolle, joka päättyy vuonna 2013? Tuen ohjelmaa voimakkaasti ja kehotan teitä, arvoisa komission jäsen, hankkimaan kaikki tarvittavat resurssit sen edistämiseksi.
+<SPEAKER ID="346" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+(EN) Arvoisa komission jäsen, kiitos vastauksestanne. Voinko kysyä, mihin toimiin komissio ryhtyy tehostaakseen yhteistyötään vanhempien kanssa? Se on todellinen ongelma. Lapset ovat valitettavasti kaukana edellämme tällä alalla. Olen huolestunut siitä, että ohjelma päättyy vuonna 2008, ja tiedän myös, että kaikki eivät sitä tiedä, vaikka monet tietävätkin. Toivon teidän ottavan tämän asian huomioon, ja minusta teidän on tehtävä oma-aloitteisesti enemmän tietoisuuden lisäämiseksi.
+<SPEAKER ID="347" NAME="Viviane Reding">
+komission jäsen. - (EN) Olen täysin samaa mieltä arvoisten parlamentin jäsenten kanssa. Tämä on todellakin suuri ongelma. Ensinnäkin yhteiskunnassamme lapset tietävät vanhempiaan enemmän, mikä ei sellaisenaan ole huono asia, mutta siitä syntyy ongelmia vanhemmille, jotka haluavat auttaa lapsiaan ongelmissa. Ongelma ei sitä paitsi koske pelkästään vanhempia, vaan myös isovanhempia, sillä hyvin usein isovanhemmat ostavat lastenlapsilleen matkapuhelimia voidakseen pitää näihin yhteyttä. Asia koskee tietysti myös opettajia.
+<P>
+Tämän vuoksi ehdotamme ohjelman laajentamista lisättyjen, 55 miljoonan euron määrärahojen avulla - ja toivon parlamentin lisäävän määrärahoja - ja teemme myös yhteistyötä yksityisten järjestöjen, kuten SchoolNetin kanssa. SchoolNet -ohjelmaa toteutetaan monissa eurooppalaisissa kouluissa, ja siinä todella puututaan tähän ongelmaan, jotta lapset tulisivat tietoisiksi ongelmista ja ymmärtäisivät, että kaikki, joiden kanssa he voivat olla yhteydessä, eivät ole sellaisia, joiden kanssa heidän kuuluu olla yhteydessä. Ohjelma tarjoaa tietoja myös vihjelinjojen ja Turvallisempi Internet -ohjelman toimintojen kautta, ja tiedotuskeskukset auttavat vanhempia ymmärtämään mistä on kysymys. Vanhemmilla ei hyvin usein ole lainkaan käsitystä uuden teknologian eduista ja haitoista.
+<P>
+Vastaan komissiossa uudesta teknologiasta ja uskon todella, että suurin osa uuden teknologian tarjoamista mahdollisuuksista on myönteistä. En haluaisi muutaman kielteisen seikan kokonaan estävän nuorempia sukupolvia tutustumasta uuteen teknologiaan. Tämän vuoksi uskon vahvasti myös alan itsesääntelyvalmiuteen.
+<P>
+Vuosi sitten pyysin matkapuhelinoperaattoreita tekemään jotain sen varmistamiseksi, että Internetiin liittyvät ongelmat eivät siirry suoraan kolmannen sukupolven matkapuhelimiin. Olen hyvin iloinen voidessani kertoa, että tänä vuonna matkapuhelinteollisuus on ryhtynyt hyvin konkreettisiin toimiin tiedottaakseen lapsille ja vanhemmille vaikeuksista ja estämään lapsille vaaralliset ohjelmat kolmannen sukupolven matkapuhelimissa.
+<P>
+Edistymistä siis tapahtuu. Uskon, että Euroopan parlamentin vaalit voisivat olla hyvä tilaisuus kiinnittää kansalaisten huomiota toteutettuihin toimiin. Nämä ovat konkreettisia toimia. Olette oikeassa siinä, että kaikki eivät tiedä niistä. Eikö siis olisi syytä hyödyntää parlamentin vaalikampanjaa ja sen suomaa mahdollisuutta päästä lähelle kansalaisia ja selittää heille, mitä konkreettisia toimia Euroopan yhteisö toteuttaa yhteiskuntamme hyväksi?
+<SPEAKER ID="348" NAME="Puhemies">
+(PT) Kysymyksiin, joihin ei ajanpuutteen vuoksi voitu vastata, vastataan kirjallisesti (ks. liite).
+<P>
+Julistan kyselytunnin päättyneeksi.

@@ -1,0 +1,12 @@
+<CHAPTER ID="007">
+Hääletused
+<SPEAKER ID="068" NAME="Juhataja">
+Järgmine päevakorrapunkt on hääletused.
+<P>
+(Hääletuse tulemused ja muud üksikasjad on esitatud protokollis)
+<SPEAKER ID="069" NAME="Véronique De Keyser" AFFILIATION="PSE">
+(FR) Proua juhataja, ma tahan öelda, et mu kaart ei toimi, sest ma sisestasin praegu kaardi, mille ma arvasin, et olin kontoris ära kaotanud ja masin näitab, et kaart on kehtetu. Ma olen kohal, ma tahan hääletada, mul on kaart olemas, aga see ei tööta enam. Ma ei tea, mida ma peaksin tegema, aga ma tahan, et see protokolli kirja saaks.
+<SPEAKER ID="070" NAME="Juhataja">
+Me saadame tehniku, et te saaksite hääletuses osaleda.
+<P>
+Tahan enne hääletama hakkamist märkida, et ma ei loe ette nimelise hääletamise arvulist tulemust, vaid lihtsalt ütlen, kas punkt on vastu võetud või mitte.

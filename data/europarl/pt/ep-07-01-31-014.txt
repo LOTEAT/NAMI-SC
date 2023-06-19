@@ -1,0 +1,6 @@
+<CHAPTER ID="014">
+Boas-vindas
+<SPEAKER ID="025" NAME="Presidente">
+Apraz-me dar as boas-vindas ao Presidente da Comissão das Relações Externas do Senado Mexicano, que se encontra na tribuna oficial de convidados.
+<P>
+Seja bem-vindo, Senador. Queremos desejar-lhe uma agradável e frutuosa estadia entre nós.

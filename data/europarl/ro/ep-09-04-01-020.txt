@@ -1,0 +1,82 @@
+<CHAPTER ID="020">
+Stabilirea limitelor reziduurilor substanţelor farmacologic active în alimentele de origine animală (dezbatere)
+<SPEAKER ID="253" NAME="Preşedinte">
+Urmează recomandarea în a doua lectură prezentată de Comisia pentru mediu, sănătate publică şi siguranţă alimentară referitoare la poziţia comună a Consiliului în vederea adoptării unui Regulament al Parlamentului European şi al Consiliului de stabilire a procedurilor comunitare în vederea stabilirii limitelor maxime de reziduuri de substanţe farmaceutice active din alimentele de origine animală, de abrogare a Regulamentului (CEE) nr. 2377/90 al Consiliului şi de modificare a Directivei 2001/82/CE a Parlamentului European şi a Consiliului şi a Regulamentului (CE) nr. 726/2004 al Parlamentului European şi al Consiliului [15079/2/2008 - C6-0005/0009 - (Raportoare: Avril Doyle).
+<SPEAKER ID="254" NAME="Avril Doyle">
+raportoare. - Dle preşedinte, permiteţi-mi să încep prin a le mulţumi tuturor raportorilor alternativi cu care am colaborat şi preşedinţiei franceze pentru facilitarea unui acord rapid în a doua lectură.
+<P>
+Aceasta este o propunere destul de tehnică, urmărind să actualizeze sistemul existent la nivelul UE şi al cărei obiectiv principal constă în protecţia sănătăţii publice prin limitarea expunerii consumatorilor de produse alimentare de origine animală la reziduuri de substanţe farmaceutice active prezente în medicamentele de uz veterinar şi în produsele biocide. Acest lucru se poate realiza prin stabilirea unor niveluri de siguranţă sau a unor limite maxime de reziduuri (LMR) pentru substanţele aprobate şi prin interzicerea substanţelor care fie sunt considerate nesigure, fie al căror profil de siguranţă nu poate fi stabilit în mod ştiinţific.
+<P>
+Doar LMR nu pot proteja consumatorii. Consumatorii sunt protejaţi în mod direct prin stabilirea unei perioade de retragere corespunzătoare înainte de sacrificare şi prin efectuarea unor controale la faţa locului pentru monitorizarea acesteia. În practică, perioadele de retragere se stabilesc folosind un factor ridicat de siguranţă care reflectă toate datele disponibile în faza actuală a dezvoltării produsului.
+<P>
+Am ajuns la un acord asupra principalelor aspecte. În primul rând, extrapolarea unui set de LMR de la o specie la alta; în al doilea rând, adoptarea în cadrul UE a unor LMR stabilite la nivel internaţional în cadrul Codex Alimentarius; şi în al treilea rând, crearea unui cadru de stabilire a LMR pentru alimentele importate din ţări terţe.
+<P>
+Am reuşit să definim clar măsurile care trebuie luate atunci când se găsesc substanţe neautorizate fie în produsele alimentare fabricate în UE, fie în cele importate din ţări terţe şi să stabilim în mod clar baza de revizuire a acestor valori de referinţă pentru acţiune (VRA): şi anume, nivelul maxim stabilit în vederea verificării oricărei substanţe neautorizate în cazul apariţiei unor informaţii noi.
+<P>
+De asemenea, s-a ajuns la un acord asupra stabilirii LMR pentru anumite produse biocide precum substanţele dezinfectante folosite în mediul animal, în special în ceea ce priveşte aspectele legate de finanţarea autorizării acestora şi dosarelor aferente.
+<P>
+Stabilirea unei LMR pentru o substanţă farmaceutică activă necesită un pachet scump de informaţii colectate pe baza unor studii toxicologice şi metabolice. Acesta este prea costisitor pentru anumite specii mai puţin întâlnite, aşa-numitele "specii minore”, deoarece piaţa medicamentelor de uz veterinar destinate acestora este restrânsă - este vorba de "utilizările minore”. Stabilirea unei LMR este prima măsură care trebuie luată înainte de a prezenta autorităţii de reglementare o cerere de autorizare a unui medicament de uz veterinar care conţine o substanţă farmaceutică activă şi care destinat unei specii de animale din care se produc alimente.
+<P>
+Prin urmare, această problemă a utilizărilor minore/speciilor minore necesită o rezolvare rapidă deoarece poate genera probleme în ceea ce priveşte bunăstarea animalelor şi siguranţa alimentară. Veterinarii au datoria de a trata şi vor încerca întotdeauna să trateze un animal bolnav. În contextul actualei legislaţii, ei sunt adesea obligaţi să folosească medicamente neautorizate.
+<P>
+De asemenea, lipsa unei LMR reprezintă un obstacol pentru autorităţi în ceea ce priveşte stabilirea unei perioade corespunzătoare de retragere pentru un medicament. Actualul regulament privind LMR nu prevede stabilirea unor LMR pentru fiecare specie în parte. Comitetul pentru medicamente de uz veterinar (CVMP) din cadrul Agenţiei Europene pentru Medicamente stabileşte LMR pentru fiecare specie, conform unei abordări iniţiale precaute. În 1997 şi în urma unei experienţe de cinci ani, CVMP a revizuit toate LMR stabilite anterior şi a concluzionat că nu este necesar să se stabilească LMR pentru fiecare specie deoarece LMR-urile pentru o anumită substanţă sunt aproape întotdeauna similare sau identice. În acelaşi an, CVMP a întocmit orientări pentru stabilirea unor LMR pentru speciile minore. Acesta a definit ca specii minore din care se produc alimente toate speciile, cu excepţia bovinelor, porcinelor şi păsărilor, incluzând salmonidele.-
+<P>
+A permis o extrapolare de la speciile majore la speciile minore din aceeaşi familie, de la rumegătoare la rumegătoare, de la peşti la peşti, de la pui la alte păsări. În 2008, după o experienţă de opt ani, CVMP a emis noi orientări. Abordarea bazată pe analiza riscului pentru reziduurile de produse medicinale de uz veterinar din produsele alimentare de origine animală. Aceasta descrie o abordare bazată pe risc a extrapolării unei LMR pentru o substanţă de la una sau mai multe specii la alte specii. Aceste orientări permit extrapolarea LMR de la informaţiile referitoare la cele trei specii principale la toate speciile, cu condiţia ca LMR stabilite pentru cele trei specii principale să fie similare sau identice.
+<P>
+Acest text revizuit din faţa noastră oferă pur şi simplu o bază juridică pentru actuala practicare a extrapolării în scopul disponibilităţii medicamentelor de uz veterinar şi al bunăstării animalelor.
+<P>
+Două amendamente se referă exclusiv la lipsa medicamentelor specifice pentru ecvide (sunt interesată de această specie) în cadrul mai multor nevoi terapeutice şi de bunăstare a animalelor, inclusiv conceptul de "beneficiu clinic” şi nu doar prevederea că este "esenţial” să se adauge un produs medicinal pe lista pozitivă a substanţelor pentru ecvide, menţionată de directiva privind medicamentele de uz veterinar. În condiţii clar definite, existenţa LMR pentru anumite produse folosite pentru ecvide nu este obligatorie, dar aceste produse vor trebui să respecte o perioadă de retragere de şase luni.
+<P>
+Poate că există o declaraţie - permiteţi-mi să adresez această întrebare prin intermediul preşedinţiei - pe care dl comisar o va face în mod oficial: îmi aduc aminte de o discuţie de acum câteva luni referitoare la această problemă a revizuirii directivei privind medicamentele de uz veterinar.
+<SPEAKER ID="255" NAME="Günter Verheugen">
+vicepreşedintele Comisiei. - (DE) Dle preşedinte, onorabili membri, revizuirea legislaţiei privind limitele de reziduuri de substanţe farmaceutice active din produsele alimentare de origine animală constituie o iniţiativă importantă a Comisiei Europene. Obiectivul său constă în protecţia consumatorilor împotriva reziduurilor de produse medicinale din alimente, concomitent cu ameliorarea disponibilităţii medicamentelor de uz veterinar în cadrul Comunităţii. De asemenea, este un element important al programului de simplificare legislativă al Comisiei.
+<P>
+Anul trecut la 21 octombrie, Consiliul şi Parlamentul au încheiat un acord care se reflectă în actuala poziţie comună. Prin urmare, s-a obţinut acum o poziţie comună nu numai a Consiliului şi a Parlamentului, ci şi a Comisiei. Sunt deosebit de încântat de reuşita Comisiei în ceea ce priveşte includerea modificărilor prezentate atât de Parlamentul European, cât şi de Consiliu, pentru că acestea respectă spiritul şi substanţa propunerii iniţiale a Comisiei.
+<P>
+Astfel, Comisia şi-a afirmat sprijinul deplin în favoarea poziţiei comune în comunicarea adresată Parlamentului European anul acesta la 8 ianuarie. Adoptarea poziţiei comune va face posibilă finalizarea cu succes a dosarului înainte de sfârşitul actualei legislaturi.
+<P>
+Finalizarea acestuia pe baza poziţiei comune actuale va permite celor implicaţi zi de zi în controlul produselor alimentare şi al produselor medicinale de uz veterinar să desfăşoare această activitate într-un mod mai eficient, în beneficiul sănătăţii animalelor şi al protecţiei consumatorilor din Comunitate. Aceste persoane aşteaptă cu nerăbdare, de foarte mult timp, revizuirea legislaţiei privind limitele de reziduuri şi consider că au aşteptat destul, iar acum pot fi mulţumiţi cu toţii că s-a găsit o soluţie.
+<P>
+Sunt conştient de importanţa deosebită a disponibilităţii produselor medicinale de uz veterinar. Prin urmare, indiferent de progresul pe care îl reprezintă în acest domeniu regulament privind limitele de reziduuri de substanţe farmaceutice active, Comisia va prezenta în 2010 o evaluare a problemelor întâlnite în aplicarea directivei privind produsele medicinale de uz veterinar şi, după caz, va prezenta noi propuneri legislative în domeniu.
+<P>
+Aş dori să profit de ocazie pentru a mulţumi în special raportoarei, dna Doyle, ale cărei eforturi neobosite ne-au permis să ajungem la un acord asupra acestei probleme importante. Încă o dată, sincere mulţumiri pentru munca dvs. excelentă, dnă Doyle.
+<P>
+Raportul Doyle
+<P>
+Comisia cunoaşte preocupările exprimate de cetăţeni, medici veterinari, statele membre şi de cei din industria sănătăţii animalelor în ceea ce priveşte directiva care stabileşte normele de autorizare a produselor medicinale de uz veterinar, în special importanţa abordării problemelor actuale legate de disponibilitatea medicamentelor de uz veterinar şi folosirea produselor medicinale în cazul speciilor pentru care nu sunt autorizate şi orice povară legislativă disproporţionat de mare care împiedică inovarea, concomitent cu asigurarea unui nivel înalt de siguranţă a consumatorilor în raport cu produsele alimentare de origine animală. Comisia subliniază faptul că se iau măsuri pozitive în această direcţie, precum simplificarea normelor referitoare la diferite produse medicinale de uz veterinar şi actuala revizuire a legislaţiei privind limitele maxime de reziduuri din produsele alimentare.
+<P>
+În afară de acestea, în vederea îndeplinirii obiectivelor legate de siguranţa consumatorilor şi protecţia sănătăţii animalelor, de competitivitatea sectorului veterinar, incluzând IMM-urile şi de reducerea obligaţiei administrative, în 2010, Comisia va prezenta o evaluare a problemelor întâlnite în punerea în aplicare a directivei privind produsele medicinale de uz veterinar cu scopul de a prezenta, după caz, propuneri legislative.
+<SPEAKER ID="257" NAME="Avril Doyle">
+raportoare. - Dle preşedinte, aş dori să declar oficial că există o modificare pe care nu o susţin pentru că ar duce de fapt la un impas juridic. Dacă un medicament în curs de testare se poate administra animalelor doar cu condiţia să aibă deja o LMR, atunci nu se pot efectua testele necesare pentru a obţine informaţiile pe baza cărora se stabilesc LMR-urile şi perioada de retragere.
+<P>
+Aş dori să-i mulţumesc dlui comisar pentru cooperarea sa în acest domeniu şi să subliniez necesitatea urgentă a revizuirii directivei privind medicamentele de uz veterinar. Într-un fel, ne folosim de revizuirea acestor LMR pentru a "petici” o problemă majoră ignorată, dar de care suntem foarte conştienţi. Disponibilitatea unei game corespunzătoare de medicamente de uz veterinar pentru a trata numeroase specii animale din Comunitatea Europeană reprezintă o provocare din ce în ce mai mare în ultimele două decenii. În această perioadă, părţile interesate, incluzând autorităţile de reglementare, industria şi medicii veterinari au depus eforturi semnificative în vederea rezolvării problemelor legate de disponibilitatea medicamentelor.
+<P>
+În ciuda acestor eforturi, situaţia a continuat să se deterioreze. Lipsa de medicamente autorizate ameninţă serios sănătatea şi bunăstarea animalelor, precum şi siguranţa consumatorilor. De asemenea, creează probleme semnificative şi proprietarilor de animale, fermierilor, medicilor veterinari şi guvernelor în cazul în care animalele nu sunt tratate sau sunt tratate cu un produs neautorizat sau neadecvat - inclusiv riscul unei zoonoze generate de animate netratate sau tratate inadecvat în rândul proprietarilor de animale, consumatorilor şi cetăţenilor.
+<P>
+În egală măsură, există implicaţii de natură financiară, juridică şi comercială pentru părţile implicate, iar lipsa medicamentelor poate avea efecte negative asupra economiilor rurale şi a agriculturii în general. De exemplu - şi este foarte important - efectul asupra polenizării generat de numărul redus al coloniilor de albine. Albinele constituie o problemă deosebit de importantă legată de utilizări minore/specii minore.
+<P>
+Cu toate acestea, problema actuală a disponibilităţii medicamentelor în UE nu are doar efecte generale asupra sănătăţii şi bunăstării animalelor, asupra siguranţei aprovizionării cu alimente şi a sănătăţii publice în Comunitate, ci subminează capacitatea UE de a îndeplini obiectivele stabilite în cadrul Agendei de la Lisabona şi de a profita de potenţialul enorm prezentat de agricultura europeană şi de acvacultura din largul mării de a atrage activităţi de cercetare şi dezvoltare în domeniul farmaceutic veterinar.
+<P>
+Le mulţumesc încă o dată colegilor şi dlui comisar pentru cooperarea din cadrul acestui raport.
+<SPEAKER ID="258" NAME="Preşedinte">
+Dezbaterea este închisă.
+<P>
+Votarea va avea loc mâine.
+<P>
+Declaraţii scrise (articolul 142 din Regulamentul de procedură)
+<SPEAKER ID="259" NAME="Péter Olajos  " AFFILIATION="PPE-DE">
+în scris. (HU) Auzim adesea reproşul că UE încearcă să reglementeze orice lucru, nereuşind, în acelaşi timp, să abordeze probleme importante.
+<P>
+Este posibil ca mulţi dintre noi să considere că acest raport se încadrează în această categorie. Însă ar fi o greşeală. Deoarece, în cazul de faţă, este vorba despre produse alimentare consumate de oameni - dorim ca aceste produse să devină mai sigure, spre binele cetăţenilor noştri.
+<P>
+Reglementările existente sunt depăşite şi le creează probleme medicilor veterinari în ceea ce priveşte aprovizionarea stocului de medicamente. Din acest motiv, este nevoie de o reglementare care să se vizeze caracteristicile specifice acestui domeniu.
+<P>
+În prezent, din ce în ce mai multe societăţi farmaceutice au un departament care se ocupă de produsele pentru animale, care generează venituri considerabile. Cererea este în continuă creştere pentru că şi animalele se îmbolnăvesc, iar acum, când produsele alimentare sunt din ce în ce mai valoroase, merită să prevenim îmbolnăvirile.
+<P>
+Cu toate acestea, în ultima vreme, au fost aduse în atenţia noastră mai multe informaţii referitoare la faptul că unele companii studiază modul în care se poate "obţine” mai mult de la animale. Pui care cresc rapid, porci care ajung la dimensiuni enorme în doar câteva luni. Toate acestea se realizează cu produse (medicinale) care dăunează adesea sănătăţii oamenilor.
+<P>
+Acesta este motivul pentru care fiecare preparat administrat animalelor trebuie testat în colaborare cu Agenţia europeană pentru evaluarea medicamentelor (EMEA) pentru a stabili dacă reziduurile acestor produse care rămân în corpul animalelor şi sunt consumate ulterior de oameni prezintă sau nu vreun pericol.
+<P>
+Costul testării este suportat de companie. Trebuie subliniată, de asemenea, posibilitatea unei proceduri rapide de depistare, care reduce timpul necesar de administrare, lucru important şi pentru medicii veterinari care astfel au acces mai rapid la produsele medicinale.
+<P>
+Nimic nu este mai important decât sănătatea oamenilor şi, prin urmare, trebuie să stopăm "doparea animalelor” motivată de câştigul material.

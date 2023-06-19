@@ -1,0 +1,6 @@
+<CHAPTER ID="009">
+Turno di votazioni
+<SPEAKER ID="078" NAME="Presidente">
+Passiamo ora al turno di votazioni.
+<P>
+(Per i risultati dettagliati del turno di votazioni: vedasi processo verbale)

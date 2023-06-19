@@ -1,0 +1,4 @@
+<CHAPTER ID="001">
+Az ülésszak megnyitása
+<SPEAKER ID="004" NAME="Elnök">
+Ezennel megnyitom az Európai Parlament 2010-2011. évi ülésszakát.

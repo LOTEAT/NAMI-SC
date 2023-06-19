@@ -1,0 +1,64 @@
+<CHAPTER ID="021">
+Ratingové agentúry (stručná prezentácia) 
+<SPEAKER ID="197" NAME="Predsedajúca">
+Ďalším bodom programu je správa pána Klinza v mene Výboru pre hospodárske a menové veci o ratingových agentúrach: budúce perspektívy.
+<SPEAKER ID="198" NAME="Wolf Klinz">
+spravodajca. - (DE) Ratingové agentúry zaiste nespôsobili globálnu finančnú krízu, ale podľa môjho názoru boli do značnej miery zodpovedné za jej závažnosť. Keď boli v Amerike na základe rizikových hypoték vytvorené takzvané štruktúrované finančné produkty, ratingové agentúry podporili tento proces tým, že každý deň skoro ako na bežiacom páse vydávali rating pre desiatky, ak nie stovky produktov. Tým zároveň tolerovali konflikt záujmov, pretože podporovali emitentov radami a pomocou pri navrhovaní týchto produktov.
+<P>
+Stále vyhlasovali, že len vyjadrujú názor, hoci veľmi dobre vedeli, že ich ratingy v podstate slúžili ako súhlasné stanovisko. Moja správa sa zaoberá mnohými nedostatkami a predkladá návrhy v nádeji, že Komisia možno niektoré z nich zahrnie do svojho legislatívneho návrhu, ktorý bude predkladať na jeseň.
+<P>
+Predkladám päť návrhov. Prvým návrhom je, že sa musí znížiť závislosť od ratingov. V praxi sa ukázalo, že regulačné prostredie viedlo k tomu, že využívanie ratingov sa stalo absolútne rozhodujúce pre banky, poisťovacie spoločnosti, dôchodkové fondy atď., ktoré investujú svoje peniaze. V dohode Bazilej II sa to hovorí veľmi jasne a ratingové agentúry sa v podstate stali regulačnými certifikačnými orgánmi.
+<P>
+Musíme subjektom na trhu, najmä inštitucionálnym investorom, ktorí disponujú vlastnými odbornými poznatkami, umožniť opäť prevziať zodpovednosť za investičné rozhodnutia, aby ju nemuseli delegovať na iných. Musí sa jasne povedať, že investori by mali investovať len vtedy, keď naozaj rozumejú produktu, a že nemôžu používať výhovorku, že do určitej miery môže byť produkt s ratingom AAA automaticky cieľom ich investičnej stratégie.
+<P>
+Po druhé, musíme zaistiť, aby informácie, na základe ktorých ratingové agentúry prijímajú svoje rozhodnutia, boli dostupné verejnosti, aby boli zrozumiteľné a aby boli známe aj používané modely. To bude viesť k transparentnosti a uľahčí to inštitucionálnym investorom, ktorí chcú investovať, prijímanie vlastných rozhodnutí. Umožní to aj udeľovať nevyžiadané ratingy. V tejto súvislosti by sme tiež mali zvážiť, či je rozumný návrh, o ktorom uvažujú Spojené štáty, teda že v prípade, že emitenti vyberú len jednu ratingovú agentúru, by mohol byť o udelenie ratingu požiadaný aj druhý, nezávislý orgán, ktorý by vychádzal z verejne dostupných informácií.
+<P>
+Po tretie, potrebujeme viac hospodárskej súťaže. Fakticky tu máme oligopol. Tri jestvujúce ratingové agentúry, ktoré pôsobia celosvetovo, ovládajú 95 % globálneho trhu. Majú takzvaný monopolný príjem 40 % návratnosti obratu, takže navrhujem zriadenie európskej ratingovej agentúry. Mala by mať formu nadácie a finančný sektor by jej mal poskytnúť počiatočné financovanie prostredníctvom úrokovaných pôžičiek. Po piatich rokoch budeme vidieť, či to funguje, a potom bude musieť táto ratingová nadácia splatiť aj finančné prostriedky, ktoré dostala.
+<P>
+Som si však istý, že sú tu aj ďalšie možnosti. Možno by tiež malo význam umožniť vnútroštátnym a regionálnym ratingovým agentúram pôsobiť vo forme európskej siete.
+<P>
+Po štvrté, stále prebieha diskusia o platobnom modeli. Podľa súčasného modelu platí emitent. Tento model funguje v podstate na celom svete. Platí teda emitent, ale je tu jednoznačný konflikt záujmov, ktorý by sme mohli znížiť, keby už neexistovalo poradenstvo pre emitentov a keby zamestnanci orgánov dohľadu boli skutočne nezávislí. Medzi ďalšie možné modely patrí model, podľa ktorého platí predplatiteľ. Tu jednoznačne hrozí riziko konfliktu záujmov i toho, že to priláka príživníkov. Takže to treba zvážiť. Treťou možnosťou je platba na základe výkonnosti, inými slovami, najskôr zálohová platba a potom konečná platba, až keď sa ukáže, či je rating kvalitný.
+<P>
+Posledným, ale dôležitým bodom je, že musíme zaviesť zodpovednosť. Ratingové agentúry musia prijať zodpovednosť za to, čo naozaj robia, takže si myslím, že by sme mali zaistiť, aby prevzali zodpovednosť, a to, samozrejme, nie za ratingy ako také, ale za chyby a nedbanlivosť vo svojej práci.
+<SPEAKER ID="200" NAME="Elena Băsescu" AFFILIATION="PPE">
+(RO) Odvetvie ratingových agentúr má mnohé nedostatky, z ktorých najdôležitejšie sú nedostatočná hospodárska súťaž a transparentnosť a oligopolné štruktúry. Hospodárskej súťaži by prospelo vytvorenie regulačného prostredia, ktoré by podporovalo vstup na trh. To by vyvolalo vznik podrobnej analýzy súčasných prekážok. Chcem zdôrazniť význam monitorovania pokroku systému Bazilej III a procesu týkajúceho sa kapitoly 4 smernice o kapitálových požiadavkách. Treba rozšíriť zodpovednosť a právomoci v súvislosti s monitorovaním vnútorných modelov a zavádzaním preventívnych opatrení. Všetky ratingové agentúry musia spĺňať prísne normy, pokiaľ ide o zverejňovanie informácií, transparentnosť a riadenie konfliktov záujmov.
+<P>
+Rating Rumunska má momentálne stabilný výhľad. To by sa mohlo zlepšiť, ak sa zachová tempo štrukturálnych reforiem a udrží sa stabilita finančného sektora.
+<SPEAKER ID="201" NAME="Georgios Papanikolaou" AFFILIATION="PPE">
+(EL) Ratingové agentúry už dávno stratili dôveryhodnosť. V tomto bode má náš spravodajca úplnú pravdu. Zvyšujú a znižujú rating takmer každému: krajinám, bankám, obciam a dokonca aj verejným korporáciám, teda úplne každému, ale ich ratingy sú z väčšej časti založené na tajných, nezverejnených, a teda netransparentných informáciách.
+<P>
+Problém nedostatočnej transparentnosti, a teda dôveryhodnosti údajov používaných ratingovými agentúrami, otvára dôležitú otázku, či je spravodlivé, logické a morálne správne, aby ratingy, ktoré ovplyvňujú hospodárstvo a zo dňa na deň rozvracajú životy miliónov našich spoluobčanov, boli netransparentné a potenciálne nespoľahlivé. Samozrejme, že nie.
+<SPEAKER ID="202" NAME="Jaroslav Paška" AFFILIATION="EFD">
+(SK) Ratingové agentúry prinášajúce hodnotenie bezpečnosti finančných produktov sa po vypuknutí finančnej krízy stali terčom kritiky za neprofesionálne či účelové hodnotenie finančných produktov.
+<P>
+Ukázalo sa, že mechanizmy ich fungovania nie sú dostatočne transparentné, čo vyvolávalo pochybnosti o korektnosti či profesionálnosti hodnotení. Preto je na mieste hľadať cesty ako zlepšiť mechanizmy umožňujúce permanentné posudzovanie a hodnotenie finančných produktov.
+<P>
+Z tohto pohľadu považujem túto správu predloženú pánom spravodajcom za veľmi dôležitú a myslím, že cesty, ktoré naznačil v svojej správe vedú k tomu, aby sme dokázali zmeniť mechanizmus posudzovania finančných produktov tak, aby závery, ktoré budú ponúkané, či už ratingovými agentúrami alebo inými mechanizmami, viedli k objektívnejšiemu hodnoteniu jednotlivých finančných produktov.
+<SPEAKER ID="203" NAME="Ilda Figueiredo" AFFILIATION="GUE/NGL">
+(PT) Skúsenosti jasne ukazujú, že ratingové agentúry nie sú dôveryhodné a že ich činnosť aj naďalej škodí niektorým krajinám a ich hospodárstvam alebo štátnemu dlhu. Dnes to má vplyv najmä na krajiny s pomerne slabými hospodárstvami. Preto sa zásahy ratingových agentúr, ktoré sú stále mimoriadne škodlivé napriek tomu, že stratili všetku svoju dôveryhodnosť, musia riadne kontrolovať. Táto kontrola by sa nemala obmedziť len na pravidlá transparentnosti, ale mala by ísť ďalej až po úplnú kontrolu medzinárodného finančného systému, pričom zároveň by sa mali zrušiť daňové raje, mal by sa riadne regulovať finančný sektor prostredníctvom daní z pohybu špekulatívneho kapitálu a malo by sa zabrániť tomu, aby finančný kapitál naďalej...
+<P>
+(Predsedajúci prerušil rečníčku.)
+<SPEAKER ID="204" NAME="Nikolaos Salavrakos" AFFILIATION="EFD">
+(EL) Úplne súhlasím so spravodajcom vo všetkých piatich bodoch jeho návrhov o takzvaných ratingových agentúrach a prehnanom vplyve, ktorý majú na globálne a európske hospodárstvo. Tieto firmy sa nesmú zároveň zapájať do komerčnej činnosti, ktorá je podobná ich úlohe dohľadu alebo vydávania ratingu alebo s nimi súvisí.
+<P>
+Žiadame, aby správy týchto agentúr podliehali kontrole, aby sa prijali určité základné zásady a aby sa zaviedla zodpovednosť za náhradu strát spôsobených štátom, ktoré boli zle alebo zavádzajúco ohodnotené. Navrhujem tiež, aby sa zaviedli základné účtovné zásady a aby sa uplatňovali vo všetkých členských štátoch Európskej únie, aby sa tak zdôraznila hodnota, oficiálne ohodnotenie majetku týchto štátov, takže by sme poznali aktíva a pasíva a tieto štáty by sa nemohli stať obeťou vrtochov ratingových agentúr a strán, ktoré zastupujú.
+<SPEAKER ID="205" NAME="Viviane Reding">
+podpredsedníčka Komisie. - Komisár Barnier je momentálne v USA na stretnutí so svojimi náprotivkami a požiadal ma, aby som vám tlmočila nasledujúce vyhlásenie v odpovedi na iniciatívnu správu pána Wolfa Klinza o ratingových agentúrach, ktorú v marci prijal Výbor pre hospodárske a menové veci.
+<P>
+Komisár súhlasí s tým, že nedostatky v pracovných metódach ratingových agentúr sa dnes všeobecne považujú za faktor, ktorý prispel k finančnej kríze. S cieľom riešiť tieto problémy a v súlade so záväzkami skupiny G20 EÚ veľmi rýchlo reagovala prijatím nariadenia o ratingových agentúrach už v roku 2009. Toto nariadenie zavádza prísne požiadavky, ktoré musia agentúry spĺňať, aby sa odstránili potenciálne konflikty záujmov a aby sa zlepšila kvalita ratingov a metodiky, ako aj transparentnosť ratingov.
+<P>
+V druhom kroku bude po zriadení troch nových európskych agentúr finančného dohľadu posilnené nariadenie o ratingových agentúrach zavedením centralizovaného dohľadu prostredníctvom európskeho orgánu trhového dohľadu. Pozmeňujúce nariadenie nadobudlo platnosť 1. júna 2011. Budeme veľmi pozorne dohliadať na správne uplatňovanie tohto právneho predpisu.
+<P>
+Európsky regulačný rámec je dnes vzorom pre iné jurisdikcie. Vývoj na európskych trhoch po kríze štátnych dlhov na jar 2010 však jasne ukázal, že je potrebná ďalšia revízia a posilnenie. Z tohto dôvodu sa v júni 2010 Komisia pustila do podrobnej analýzy tejto témy. Vykonala sa verejná konzultácia, útvary Komisie vyhodnotili odpovede a pracujú na posúdení vplyvu s cieľom predložiť legislatívne návrhy v priebehu tohto roka. V tejto súvislosti Komisia preskúma opatrenia na zníženie nadmernej závislosti od vonkajších ratingov, zlepšenie transparentnosti, podporu hospodárskej súťaže, zavedenie zásady zodpovednosti a zníženie rizika potenciálnych konfliktov záujmov v dôsledku platobného modelu, podľa ktorého platí emitent.
+<P>
+Vieme, že sú to veľmi zložité otázky, a chceme si byť istí, že ich vyriešime správne. Preto sa s veľkým záujmom pozeráme na iniciatívnu správu pána Klinza, ktorá sa týka tém, ktoré v súčasnosti skúmame, a je obrovským príspevkom k našej legislatívnej iniciatíve.
+<P>
+V neposlednom rade na globálnej úrovni Rada pre finančnú stabilitu v októbri 2010 vydala niekoľko zásad zameraných na zníženie závislosti finančných inštitúcií od úverových ratingov. V súlade s týmito zásadami chceme v našom nasledujúcom legislatívnom návrhu pre bankový sektor, takzvanom CRD4, zaviesť opatrenia proti nadmernej závislosti od ratingov.
+<SPEAKER ID="206" NAME="Predsedajúci">
+Rozprava sa skončila.
+<P>
+Hlasovanie sa uskutoční v utorok 7. júna o 12.00 hod.
+<P>
+Písomné vyhlásenia (článok 149)
+<SPEAKER ID="207" NAME="George Sabin Cutaş" LANGUAGE="RO">
+Investičná banka Lehman Brothers dostala pred svojím krachom od hlavných ratingových agentúr najvyšší rating. Mysleli si tiež, že tri najväčšie komerčné banky na Islande boli len niekoľko dní pred krachom v dobrom stave. Zníženie ratingu Grécka navyše nevzalo do úvahy začatie jeho programu hospodárskej obnovy. Hospodárska a finančná kríza zvýraznila oligopolnú štruktúru ratingových agentúr, ako aj ich nedostatok hospodárskej súťaže, transparentnosti a zodpovednosti. Vo svete, ktorému dominujú tri takéto inštitúcie, je potrebná väčšia rozmanitosť, ako aj nové pracovné metódy. Preto podporujem myšlienku vytvoriť verejnú európsku ratingovú agentúru ako alternatívu voči súkromným inštitúciám tohto druhu. Bolo by povinné získať rating od európskej agentúry, ktorý by dopĺňal ratingy poskytované tradičnými agentúrami, čím by sa posilnila hospodárska súťaž o dosiahnutie najspravodlivejšieho ratingu.

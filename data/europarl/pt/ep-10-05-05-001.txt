@@ -1,0 +1,10 @@
+<CHAPTER ID="001">
+Reinício da sessão
+<SPEAKER ID="004" NAME="Presidente">
+Declaro reaberta a sessão do Parlamento Europeu, que tinha sido interrompida em 22 de Abril de 2010.
+<P>
+A acta da sessão de 22 de Abril de 2010 já foi distribuída.
+<P>
+Há alguma observação?
+<P>
+(A acta da sessão anterior é aprovada)

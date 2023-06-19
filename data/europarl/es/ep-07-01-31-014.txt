@@ -1,0 +1,6 @@
+<CHAPTER ID="014">
+Bienvenida
+<SPEAKER ID="025" NAME="El Presidente">
+Me complace saludar al Presidente de la Comisión de Relaciones Exteriores del Senado mexicano, Sr. D. José Guadarrama, que se encuentra presente en la tribuna oficial de invitados.
+<P>
+Sea usted bienvenido, señor senador. Le deseamos una feliz y fructífera estancia entre nosotros.

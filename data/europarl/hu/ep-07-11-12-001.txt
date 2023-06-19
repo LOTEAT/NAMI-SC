@@ -1,0 +1,4 @@
+<CHAPTER ID="001">
+Az ülésszak folytatása
+<SPEAKER ID="004" NAME="Elnök">
+A 2007. október 25-én berekesztett ülésszakot ezennel megnyitom.

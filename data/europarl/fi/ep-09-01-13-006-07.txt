@@ -1,0 +1,4 @@
+<CHAPTER ID="006-07">
+7. Lissabonin sopimuksen mukaisen kansalaisvuoropuhelun kehitysnäkymät (
+<SPEAKER ID="061" NAME="Christopher Beazley" AFFILIATION="PPE-DE">
+(EN) Arvoisa puhemies, meillä näyttää nyt todella olevan sangen paljon nimenhuutoäänestyksiä, mikä on hieman ärsyttävää minun kaltaisilleni ihmisille, joiden koneet eivät toimi. Voisinko siksi kirjauttaa kyllä-äänet kaikkiin ja pyytää teknikkoa apuun?

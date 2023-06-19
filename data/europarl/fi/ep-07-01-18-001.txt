@@ -1,0 +1,8 @@
+<CHAPTER ID="001">
+Istunnon avaaminen
+<P>
+(Istunto avattiin klo 10.00)
+<SPEAKER ID="005" NAME="Puhemies">
+Julistan istunnon avatuksi.
+<P>
+Olen hyvin iloinen, että tulin valituksi tehtävään. Tämä on ensimmäinen kerta, kun toimin parlamentin puhemiehenä. Minusta on ehdottoman tärkeää ja hyvin symbolista, että avaan tämän istuntojakson sukupuolten yhdenvertaisuutta ja tasa-arvoa koskevalla keskustelulla. On todettava, että parlamenttimme on edistynyt merkittävästi, ja toivon, että se tekee niin vastakin.

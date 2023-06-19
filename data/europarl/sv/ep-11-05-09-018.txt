@@ -1,0 +1,228 @@
+<CHAPTER ID="018">
+Radiospektrumpolitik (debatt)
+<SPEAKER ID="074" NAME="Talmannen">
+Nästa punkt är ett betänkande av Gunnar Hökmark, för utskottet för industrifrågor, forskning och energi, om förslaget till Europaparlamentets och rådets beslut om inrättande av det första programmet för radiospektrumpolitik - C7-0270/2010 -.
+<SPEAKER ID="075" NAME="Gunnar Hökmark">
+föredragande. - (EN) Herr talman! Detta betänkande handlar om att se till att EU blir ledande på det här området. Därför är det ganska passande att vi har denna diskussion här i kväll. År 1950, då Robert Schuman föreslog att EU skulle grundas handlade det om kol och stål. I dag handlar det om informationsteknik och vetskapen om att den kommer att vara avgörande för EU:s framtid.
+<P>
+Jag är glad över att säga att det betänkande vi lägger fram här i dag har uppstått ur ett mycket gott samarbete med skuggföredragandena Catherine Trautmann, Jens Rohde, Giles Chichester och Philippe Lamberts som har gett sitt stöd till förslaget. Jag är mycket tacksam för detta, eftersom vi i dag diskuterar ett förslag som kan göra det möjligt för EU att återta ledningen inom mobiltelefoni, mobilt internet och modern informationsteknik.
+<P>
+För mig handlar diskussionen kring de olika förslagen i betänkandet om huruvida EU ska bli nummer ett eller nummer tre. För mig är valet enkelt. Ibland när vi talar om världens största ekonomier nämner vi USA och Kina, och vi glömmer att EU är den största ekonomin, även om vi inte har de största marknaderna. Det är upp till oss i dag att diskutera om vi ska vidta de åtgärder som kan ändra på detta.
+<P>
+Om vi ska göra det - för att säkra ledningen på område efter område när det gäller telekommunikation och utvecklingen av bredband - då vill jag att EU ska ha den bästa bredbandskapaciteten och de högsta hastigheterna. Då kan vi vara platsen för utveckling av alla de nya tjänster som kommer att vara avgörande för den moderna ekonomin och för vår konkurrenskraft. Jag vill att EU ska vara platsen för nästa generation av Google, Yahoo, Apple och alla andra företag som skapar både konkurrenskraft och innovation. Vi kan vara det, men det är också möjligt att andra ekonomier som USA, Kina eller Indien kommer att ta ledningen. Därför måste vi göra ett val.
+<P>
+I detta betänkande har jag föreslagit att vi håller fast vid årtalet 2013 när det gäller band på 800 MHz. Dessutom har jag föreslagit att vi ska vara mer ambitiösa och säga att EU bör frigöra 1 200 MHz i 1,5 GHz-bandet och i 2,3 GHz-bandet och att vi också bör inleda diskussionen om 700 MHz-bandet - för om vi inte börjar nu kommer vi inte att ha möjlighet att ta diskussionerna i framtiden - och vi bör använda 5 GHz-bandet för vanlig licensfri användning för alla mobila internetkommunikationer på kort distans.
+<P>
+Här har vi förslaget. Jag skulle vilja har starkast möjliga stöd från parlamentet, för då kan vi diskutera detta med medlemsstaterna och ta upp frågan om de alla vill vara nummer ett eller om de nöjer sig med att vara nummer tre. Jag anser att valet är enkelt och jag ser fram emot den här debatten och omröstningen på onsdag.
+<SPEAKER ID="076" NAME="Neelie Kroes">
+kommissionens vice ordförande. - (EN) Herr talman! Detta är en tydlig tankeställare och jag anser att det verkligen är det språk som EU behöver. Jag vill särskilt tacka föredraganden Gunnar Hökmark för hans hårda arbete med det första programmet för radiospektrumpolitik.
+<P>
+Detta handlar om information och teknik, och det handlar om att bestämma vilken ståndpunkt EU bör ta. Fjärran Östern, fjärran västern, mitt emellan. Det finns några viktiga aktörer i det här spelet, men EU kan helt klart bli nummer ett.
+<P>
+Programmet är nödvändigt för ett digitalt Europa, för den europeiska ekonomin och för vårt samhälle som helhet. Det framgår tydligt av betänkandet att parlamentet delar kommissionens uppfattning om vikten av en samordnad och effektiv spektrumpolitik för att uppfylla målen på bredbandsområdet.
+<P>
+Det är verkligen nödvändigt att upprätthålla och förbättra EU:s ekonomiska ställning och konkurrenskraft och att maximera dess sociala och kulturella inverkan genom att möjliggöra innovativa tjänster till förmån för medborgarna. Jag skulle dessutom vilja lägga till termen ”kulturell” inverkan, eftersom detta är mycket viktigt. Om vi talar om internet handlar ett av de viktigaste instrumenten om att ge fler möjligheter till EU-medborgarna, så att de får kunskap om och en inblick i de kulturella effekterna.
+<P>
+Det stämmer verkligen att detta handlar om att göra ett val. Det handlar inte längre om vackra ord, för detta är sanningens stund och nu måste vi ta vårt ansvar. Man tar inte förstaplatsen - som verkligen är ledarens roll - om man inte gör de val som måste göras.
+<P>
+När vi talar om de kulturella aspekterna så är det den frågan som jag vill betona först, eftersom jag vet att den har varit av särskilt intresse för ledamöterna.
+<P>
+Jag ser förresten flera synergier mellan användningen av spektrum för spridning av innehåll och kultur, och då talar jag särskilt om audiovisuellt medieinnehåll och om trådlöst bredband. Digital-tv och trådlöst bredband kan utvecklas framgångsrikt parallellt, och vi får inte glömma att bredbandsåtkomst till internet också ger ett högt kulturellt och socialt värde. Dessutom är trådlöst bredband nödvändigt i områden som för närvarande inte har tillgång till internet.
+<P>
+Förslaget skyddar inte bara förekomsten av, utan garanterar även den framtida utvecklingen för dessa värdefulla kulturella och ekonomiska tjänster som förresten producerar rikligt medieinnehåll och matar framtida datamotorvägar med ett attraktivt kulturellt utbud. De återstående hindren måste förstås lösas, t.ex. störningar i radio eller kabel-tv - det råder ingen tvekan om det.
+<P>
+Vi är alla medvetna om att radio- och tv-sändningar inte känner några gränser. EU-politiken kommer att behöva lämpligt stöd i internationella förhandlingar och medlemsstaterna kan också behöva stöd i förhandlingen med angränsande länder som inte är medlemmar i EU. När jag planerar hela diskussionen står jag förstås redan i kontakt med ministrarna i de medlemsstater som berörs mer av frågan om grannländer.
+<P>
+För att återgå till betänkandets innehåll kan kommissionen stödja - ibland med små ändringar - i stort sett hela parlamentets synsätt. Det finns ett antal frågor i betänkandet där kommissionen särskilt välkomnar och samtycker till den ståndpunkt som intas. För det första handlar det om spektrumets betydelse för den digitala agendans mål, dvs. höghastighetsbredband för alla. Det råder ingen tvekan om det - vi står helt på er sida.
+<P>
+För det andra handlar det om att fortsätta undersöka möjligheterna för ytterligare spektrum för att möta den växande konsumentefterfrågan på trådlöst bredband. Här står vi helt på er sida, och även om er hastighet kanske är lite högre kan ni vara säkra på att vi är medvetna om att detta är nästa steg.
+<P>
+För det tredje bekräftar vi 2013 som datumet för att frigöra den digitala utdelningen för bandet 800 MHz samtidigt som vi erkänner behovet av avvikelser fram till 2015. År 2013 är alltså målet, men med möjlighet för avvikelser till 2015 i tekniska undantagsfall liksom ytterligare avvikelser på grund av samordningsfrågor med tredjeländer som jag nämnde tidigare.
+<P>
+För det fjärde handlar det om andra viktiga berörda politikområden utöver elektronisk kommunikation. Här talar jag om miljö, transport eller forskning och behovet av att göra en stor del av spektrumet tillgängligt.
+<P>
+För det femte vikten av en effektiv förteckning av spektrumanvändningen, som är en viktig del när man skapar ett effektivt och förutseende politiskt program.
+<P>
+För det sjätte behovet av att samordna främjandet av EU-politiken på internationell nivå och att stödja medlemsstaterna i deras förhandlingar med länder utanför EU.
+<P>
+Det finns ett antal andra viktiga frågor där betänkandet stöder eller förstärker kommissionens förslag, och det är uppmuntrande. Men det finns vissa ändringsförslag där kommissionen anser att det krävs en noggrannare avvägning. När det gäller omstruktureringsfrågorna får de principer och mål som fastställs inte överskugga principen om effektivt utnyttjande av spektrumet, något som bör tillämpas på alla sektorer i så stor utsträckning som möjligt. En annan fråga som kräver ett klargörande är att samtidigt som jag förstår tillägget om behovet av att garantera tillräckligt spektrum för audiovisuella tjänster, så bör detta inte skilja ut specifika leveranssätt.
+<P>
+En annan nyansskillnad mellan kommissionens förslag och föredragandens betänkande rör konkurrens. Att reservera spektrum för nya aktörer kan vara ett lämpligt instrument i vissa fall, men i syfte att undvika onödiga förfaranden. Då skulle våra ståndpunkter närma sig varandra. En annan fråga med en nyansskillnad är att samtidigt som medlemsstaternas kompensation för migrationskostnader är en mycket viktig fråga - det råder det ingen tvekan om - så måste detta överensstämma med bestämmelserna om statligt stöd. Som jag ser det finns det ingen skillnad mellan våra ståndpunkter, och det måste framgå.
+<P>
+Kommissionen har lite svårt att godta två förslag. Det första handlar om spektrum som redan har harmoniserats tekniskt sett. Här bör en skyldighet att godkänna dess användning senast 2012 inte ersättas av en lindrigare skyldighet om att göra sådant spektrum tillgängligt. Enligt de nuvarande ståndpunkterna krävs det redan, och vi måste gå över till en faktisk licensiering av spektrumet: gå framåt och inte bakåt.
+<P>
+Den andra frågan som vi har skilda åsikter om och som vi har svårt att godta rör spektrum för åtkomst till bredbandbaserad satellit. Kommissionen vill ha möjlighet att faktiskt garantera tillgängligheten. Vi måste finna en lösning för att godkänna och garantera tillgängligheten på båda dessa områden, och jag är säker på att vi kan göra det.
+<P>
+Avslutningsvis har jag bara några kommentarer. Både parlamentet och kommissionen inser att det skulle vara bra om förslaget antogs snabbt med tanke på det viktiga arbete som vi har framför oss för att kunna genomföra programmet. Det krävs ett tydligt uttalande, ju förr desto bättre. Kommissionen kommer att göra sitt bästa för att stödja processen, och jag är helt säker på att parlamentet kommer att inleda en dialog med rådet redan i ett tidigt skede för att nå ett snabbt och framgångsrikt slutförande.
+<P>
+Tiden rinner iväg. Tiden är inte vår vän i det här fallet, och om vi vill ha en lösning och om vi vill inta den ledande roll som Gunnar Hökmark efterfrågar, måste vi så snabbt som möjligt gå i den riktningen.
+<SPEAKER ID="078" NAME="Petra Kammerevert" LANGUAGE="DE">
+Fru talman, fru kommissionsledamot, mina damer och herrar! Politiska initiativ för utveckling av snabbare internetanslutningar över hela linjen ska i princip välkomnas. Men spektrumet är en bristvara och först och främst är det en offentlig vara. Därför var det en särskild angelägenhet för utskottet för kultur och utbildning att tydliggöra att spektrumet är och förblir viktigt för att ett brett urval samhälleliga, kulturella och sociala tjänster ska kunna utföras. Av denna anledning var det särskilt viktigt för oss att kraven i telekommunikationspaketet för att skydda mediepluralismen och den kulturella mångfalden inte slängdes ut bakvägen.
+<P>
+Både offentliga och privata sändningar är viktiga garantier för mediepluralism och åsiktsmångfald i Europa. Vi måste se till att de kan fortsätta fullgöra sina viktiga funktioner obehindrat även i framtiden. Utskottet för kultur och utbildning hade därför föreslagit att 790 MHz-bandet inte skulle öppnas i första hand, men tyvärr följde utskottet för industrifrågor, forskning och energi inte vårt förslag. Även om det nämns på flera ställen att sändningsintressen ska tas under övervägande skulle utskottet för kultur och utbildning ha velat ha mycket tydligare formuleringar i detta avseende.
+<P>
+Det var särskilt viktigt för oss att tydliga bestämmelser fastställs före spektrumfördelningen för att exempelvis förhindra att teatrar och alla som använder trådlösa mikrofoner belastas med kostnaden för en frekvensändring eller för ny teknik.
+<P>
+Det är allas ansvar att se till att alla berörda parters intressen garanteras i lika hög grad även i fortsättningen. Jag hoppas att vi kommer att lyckas med detta i framtiden också.
+<SPEAKER ID="079" NAME="Pilar del Castillo Vera" LANGUAGE="ES">
+Fru talman, fru kommissionsledamot! Jag skulle vilja börja med att gratulera föredraganden, vår kollega Gunnar Hökmark, eftersom hans arbete är utmärkt och inte minst för att det har en storartad framtidsvision, något som gör det särskilt värdefullt i mina ögon. Jag vill dock även tacka - precis som han gjorde - alla skuggföredragande. Resultatet av allt detta arbete var det enhälliga stöd som betänkandet fick i utskottet för industrifrågor, forskning och energi.
+<P>
+Betänkandet vi har framför oss styrs förstås av ett överskuggande mål, nämligen att göra EU:s ekonomi mer konkurrenskraftig i en global värld. Detta är betänkandets viktigaste mål, och jag anser därför att det är utomordentligt lämpligt.
+<P>
+Jag kommer inte att gå in på detaljerna, men jag vill gärna inrikta mig på två eller tre frågor som enligt min mening är avgörande. För det första befinner vi oss i en situation - vilket också betonas i betänkandet - där trådlöst bredband genom 800 MHz-fördelning för mobil kommunikation över hela Europa kommer att bli verklighet. Men betänkandet går mycket längre än så: det är mer framtidsinriktat.
+<P>
+Vi talar om 700 MHz-frekvensbandet som också har en utomordentlig kapacitet för mobiltelefoni och dess utveckling. Därför måste vi se betänkandets förslag som mycket positiva. Det är inte någon bagatellartad fråga. Det spektrum som rör ekonomiska aktiviteter utgör för närvarande 3 procent av EU:s BNP, och det är bara början.
+<P>
+Jag vill lyfta fram betydelsen av videons mycket starka tillväxt som en kommunikationsfaktor mellan människor och mellan institutioner och företag. Just nu står video för 40 procent av världstrafiken, och det är bara början. År 2014 kommer den att utgöra 91 procent av slutanvändartrafiken.
+<P>
+Betänkandet ger en realistisk vision om en fantastisk framtid på det här området, och jag anser därför att vi bör ge det vårt fulla stöd i övermorgon.
+<SPEAKER ID="080" NAME="Catherine Trautmann" LANGUAGE="FR">
+Fru talman, fru kommissionsledamot, mina damer och herrar! Vi ska nu yttra oss i första behandlingen av förslaget till ett program för radiospektrumpolitik, och jag skulle vilja tacka kommissionen för att den har gett sitt stöd till och omvandlat detta förslag som först lades fram under våra debatter om telekommunikationspaketet.
+<P>
+Jag vill också berömma vår föredragande Gunnar Hökmark och skuggföredragandena för vårt goda samarbete kring ett betänkande som avslöjar några stora politiska frågor som ligger dolda bakom de ytterst tekniska aspekterna. Vi har haft många diskussioner, vilket verkligen har fått mig att inse att parlamentet och kommissionen helt naturligt delar samma uppfattning och ambition.
+<P>
+Uppfattningen är att spektrum är en knapp resurs som inte har några gränser. Alla verkar vara eniga om detta. De största meningsskiljaktigheterna handlar emellertid om vilka lösningar som krävs för att förbättra förvaltningen och om den allmänna ambitionen, och det är särskilt medlemsstaterna som har avvikande åsikter, som historiskt sett har haft ett oinskränkt ansvar - det förnekar jag inte.
+<P>
+Även om inte alla kompromisser som lagts fram och antagits i utskottet för industrifrågor, forskning och energi är så välavvägda som jag personligen skulle ha önskat, stöder jag uppriktigt det allmänna målet att inrätta en strategi för spektrumhantering som är mer integrerad, realistisk och lyhörd för medborgarnas sociala, kulturella och ekonomiska behov. Fru kommissionsledamot, det finns en röd tråd i alla ståndpunkter som parlamentet har antagit, antingen det handlar om initiativbetänkandet av Patrizia Toia eller de förslag som jag själv försvarade som en av föredragandena för telekommunikationspaketet.
+<P>
+När det gäller programmet för radiospektrumpolitik lade min grupp och jag särskild vikt vid flera punkter i våra ändringsförslag. Ändringsförslagen handlar därför om införandet av insynsvänliga kriterier för att ta reda på hur spektrumet fördelas och hanteras just nu - det vill säga förteckningsprincipen - och även att finna innovativa och originella lösningar på den elektroniska kommunikationssektorns växande efterfrågan på användning av frekvenser. Det måste vara kvalitativa, inte bara kvantitativa, lösningar. Genom att betona spektrumeffektivitet kommer vi att råda bot på denna situation utan att begränsa mångfalden av de tjänster som finns tillgängliga i spektrumet.
+<P>
+Genom att göra detta använder vi också spektrumet som ett medel för att överbrygga den digitala klyftan och utveckla nya tjänster som ligger inom räckhåll inte bara för de stora telekommunikationsföretagen, utan även för de små och medelstora företag och nyetablerade företag som kommer att behöva dem. Jag anser att denna ekonomiska dimension är nödvändig.
+<P>
+Avslutningsvis skulle jag vilja säga några ord om nästa steg. Som du själv påpekade var det uppenbart redan från början att en överenskommelse i första behandlingen var utesluten, men vi måste absolut enas om detta till årsslutet. Det är viktigt för våra offentliga tjänster, för att uppfylla konsumenternas förväntningar och för att utveckla internet oavsett vilken infrastruktur som används. Det är också viktigt för att planera EU:s ekonomiska återhämtning tack vare denna resurs.
+<SPEAKER ID="081" NAME="Jens Rohde">
+för ALDE-gruppen. - (EN) Fru talman! Bättre och billigare dataöverföring genom höghastighetsbredband för alla senast 2020. Det måste jag säga är ett ambitiöst politiskt mål, och något jag stöder fullt ut. Men vi måste erkänna att det inte blir enkelt. Jag tror ändå att vi med parlamentets ståndpunkt vid första behandlingen kommer att kunna ta ett stort första steg mot detta mål.
+<P>
+Vi måste också tala klarspråk och förklara att bredband för alla inte handlar om att se till att alla har en profil på Facebook. Det handlar om att säkra EU:s plats i världen som ledande kunskapsbaserad ekonomi. Om vi lyckas förena 500 miljoner människor kommer våra medborgare och företag att kunna skörda alla fördelar och möjligheter i den digitala ekonomin. Om EU ska nå det målet finns det särskilt två saker som måste förändras.
+<P>
+För det första behöver vi en välfungerande konkurrensvänlig telekommunikationsmarknad på EU-nivå. Därför har vi infört bestämmelser om konkurrensgarantier. Medlemsstaterna får inte fördela nytt frigjort spektrum till en specifik marknadsaktör om det skulle minska eller snedvrida konkurrensen på denna marknad.
+<P>
+För det andra behöver vi en effektivare fördelning av spektrum. Denna fördelning måste också mer aktivt återspela dagens olika krav och behov för spektrumet. Därför är syftet med detta politiska program inte bara att frigöra 800 MHz-bandet, utan att också frigöra band som uppgår till åtminstone 1 200 MHz år 2015.
+<P>
+Avslutningsvis vill jag tacka kommissionen, kommissionsledamoten, föredraganden och skuggföredragandena för deras utomordentligt goda samarbete. Utan det skulle denna ambitionsnivå inte ha varit möjlig.
+<SPEAKER ID="082" NAME="Giles Chichester">
+för ECR-gruppen. - (EN) Fru talman! Först och främst vill jag gratulera föredraganden Gunnar Hökmark till att skickligt ha lotsat betänkandet genom utskottet och till det mycket breda samförståndet. Jag ansluter mig till de andra skuggföredragandena när jag tackar honom för hans arbete.
+<P>
+Jag stöder i hög grad hans önskan om att lagstifta för att se till att EU möter de tekniska utmaningarna i denna sektor och behåller sin ledarställning i världen. Detta är spjutspetsteknik och det är mycket viktigt. Nyckelfrågan handlar om att nå rätt balans mellan de olika inblandade intressena - nuvarande programföretag, mobiloperatörer, bredbandsleverantörer och officiella användare, inklusive militären och civila beredskapstjänster.
+<P>
+Jag vill bara framföra en liten varning om att vi måste respektera subsidiariteten och de nationella behörigheterna på det här området och i den här processen. Det är särskilt svårt att lagstifta på detta politiska område, eftersom den berörda tekniken förändras och avancerar mycket snabbt, vilket innebär att vi alltid leker ta fatt i stället för att lagstifta i förväg. Jag anser dock att vi måste bana väg för den nya tekniken, för utnyttjandet och användningen av spektrumet, och jag hoppas att detta förslag och detta betänkande kommer att bidra till just detta.
+<SPEAKER ID="083" NAME="Philippe Lamberts" LANGUAGE="FR">
+Fru talman! Jag skulle vilja fortsätta genom att besvara några saker som har sagts, och jag börjar med det som Catherine Trautmann sade. Vi har fått veta - och det är sant - att radiospektrum är en bristvara.
+<P>
+Jag vill först och främst betona att det är en delad tillgång. Det är en tillgång som ingen kan kräva exklusiv äganderätt till. Såvitt vi vet kan ingen intressent, oavsett vem han eller hon är, kräva att ha någon slags företrädesrätt - en slags ovillkorlig rätt - över spektrumet, och jag anser att detta också fastställs tydligt i betänkandet.
+<P>
+Just eftersom spektrumet är både en delad och en sällsynt tillgång måste vi för det första ha en god förståelse för hur spektrumet används i dag. Det är också tanken bakom förslaget om en långtgående och heltäckande undersökning av hur spektrumet för närvarande används av alla intressenter, inklusive dem som Giles Chichester just nämnde, dvs. civila beredskapstjänster och till och med militära tjänster. Det är verkligen viktigt att förstå hur denna bristvara faktiskt används i dag, eftersom vi inte anser att den används optimalt - långtifrån. För det andra måste vi ha ett öppet förfarande för fördelningen av denna bristvara, men förfarandet måste också vara tillräckligt dynamiskt så att vi kan förhindra att egenintressena tar över igen.
+<P>
+Jag vill även uppmärksamma er på principerna om att fördela och auktionera bort spektrum, eftersom det inte alltid nödvändigtvis används i kommersiellt syfte och därmed för att skapa vinst. Jag tänker förstås på den kulturella dimensionen som har nämnts, men också på spektrumanvändningen för offentliga tjänsteändamål - vi bör faktiskt ha en diskussion om civila beredskapstjänster - och inte minst för militära ändamål.
+<P>
+Om vi intar ett rent marknadsbaserat synsätt finns det en uppenbar risk för att vi ger prioritet - eller åtminstone överdrivna rättigheter - till marknadsaktörer som vi vet kan snedvrida marknaden på grund av sin storlek. Med andra ord vet vi att små aktörer inte alltid kan konkurrera med dem.
+<P>
+Avslutningsvis vill jag också uppmärksamma er på att den drastiska ökningen av användningen av radiospektrumet också har följder för folkhälsan. Jag vet att denna fråga inte ingår i betänkandet, men jag anser att vi måste övervaka denna fråga mycket noga, eftersom den berör medborgarna.
+<SPEAKER ID="084" NAME="Sabine Verheyen" AFFILIATION="PPE">
+(DE) Fru talman, Neelie Kroes! Spektrumet är en värdefull och begränsad resurs som måste hanteras med omsorg och förutseende genom att ta hänsyn till samhället som helhet. Programmet för radiospektrumpolitik är därför av särskild vikt. Spektrumet måste användas effektivt genom att man tar hänsyn till ekonomiska, sociala och kulturella frågor. I detta syfte måste vi till fullo utnyttja de tekniska medel som står till vårt förfogande på alla band för att uppnå största möjliga effektivitet.
+<P>
+Det telekommunikationspaket som antogs förra året måste ligga till grund för vår radiospektrumpolitik, eftersom det också fastställer att EU:s och medlemsstaternas spektrumhantering måste ta lika stor hänsyn till kulturella, sociala och ekonomiska intressen. Detta måste vi beakta särskilt i samband med harmoniseringen av spektrumanvändningen i EU.
+<P>
+I detta avseende skulle jag vilja påpeka att den första digitala utdelningen i medlemsstaterna har genomförts i mycket olika hastigheter. Att öppna UHF-bandet ytterligare, särskilt under 800 MHz, bör därför endast övervägas efter det att man har tagit hänsyn till vår erfarenhet av frekvensluckor (”vita fläckar”) i detta band.
+<P>
+Många tekniska och ekonomiska frågor har fortfarande inte lösts slutgiltigt. Särskilt problemet med störning och frågan om kostnadskompensation för kulturella resurser och lokala myndigheter i samband med teknisk utrustning, i fråga om exempelvis radiomikrofoner, har inte lösts på ett tillfredsställande sätt.
+<P>
+När man fördelar frekvensband måste olika intressen vägas mot varandra på ett ansvarsfullt sätt. Å ena sidan är tillhandahållande av mobila bredbandsnät över hela linjen ett grundläggande krav som ligger i EU-medborgarnas intressen, men å andra sidan måste man ta hänsyn till utvecklingen på området för offentliga och privata sändningar som ett viktigt instrument för kulturell mångfald och tillhandahållande av information. Vi måste sätta rätt kurs för den tekniska utvecklingen och för EU:s ställning på området för digital informationsteknik och kulturell mångfald.
+<SPEAKER ID="085" NAME="Teresa Riera Madurell" AFFILIATION="S&amp;D">
+(ES) Fru talman, fru kommissionsledamot! Vi borde verkligen gratulera oss själva i dag för att vi håller den här debatten.
+<P>
+Alltför ofta har vi hört att spektrumplanering och spektrumhantering är en teknisk fråga som ligger inom medlemsstaternas exklusiva behörighet. Tack vare parlamentets beslutsamhet under förhandlingen om telekommunikationspaketet som genomfördes så storslaget av Catherine Trautmann, diskuteras spektrumfrågan nu i det forum där den hör hemma: inom EU:s politiska sfär.
+<P>
+Det faktum att det är en knapp offentlig resurs och att det har en gränsöverskridande karaktär gör vårt ingripande som EU-lagstiftare värdefullt, men vi borde inte innefatta den här processen som en konfrontation mellan de olika användningsområdena för frekvensband.
+<P>
+Den ständiga tekniska utvecklingen innebär att vi i allt högre grad kan överföra mer data med hjälp av mindre spektrum och med mindre störningar. Vårt mål måste därför vara att lägga grunden för en dynamisk planering där vi utnyttjar de tekniska framstegen för att göra de olika användargrupperna mer kompatibla och därigenom få större ekonomiskt och socialt utbyte av denna värdefulla resurs.
+<P>
+Vi vill inte ha vinnare eller förlorare i det här sammanhanget, utan snarare aktörer som har engagerat sig i en process där man ständigt förbättrar användningen och fördelningen av spektrumet, och ser till att det i första hand inriktas på den offentliga sociala och ekonomiska utvecklingen.
+<SPEAKER ID="086" NAME="Jean-Pierre Audy" AFFILIATION="PPE">
+(FR) Fru talman, Neelie Kroes, Gunnar Hökmark, mina damer och herrar! Jag vill börja med att gratulera min vän Gunnar Hökmark till hans utmärkta betänkande och till den anda av öppenhet som han har visat under våra diskussioner.
+<P>
+Detta förslag till betänkande stöder på bred front kommissionens förslag, särskilt behovet att senast den 1 januari 2013 frigöra 800 MHz-bandet genom övergången till digital-tv och det fullständiga upphörandet av analoga tv-sändningar.
+<P>
+Till följd av digitaliseringen av markbundna tv-sändningar görs ett stort antal frekvenser - som kallas digital utdelning - tillgängliga. De kvaliteter som dessa frekvenser har när det gäller täckning och genomträngande av byggnader har erkänts allmänt - de kallas gyllene frekvenser.
+<P>
+Det är i det här sammanhanget som kommissionen föreslår ett första program för att utveckla ett synsätt för åren 2011-2015 kring de strategiska radiospektrumfrågor som EU står inför.
+<P>
+Neelie Kroes och Gunnar Hökmark, jag vill gärna lyfta fram två frågor som jag anser vara viktiga. För det första anser jag att vi borde skapa den förteckning som föreslås i artikel 8. Det är att föredra att förlita sig på en exakt och sakkunnigt utarbetad förteckning för att identifiera nya band innan man uttryckligen nämner harmoniserade frekvensband. Om syftet med att finna fler frekvenser för trådlösa bredbandskommunikationer ska fullföljas och stimuleras vore det lämpligt att arbeta utifrån denna förteckning, utan att föregripa resultatet genom att utan föregående teknisk expertis välja ut ett eller flera specifika frekvensband.
+<P>
+Den sista frågan som jag skulle vilja diskutera gäller användningen av frekvensband som för närvarande används i militära syften. Kommissionen har förvisso ingen behörighet att undersöka räckvidden för att dela spektrumet med militära användningar. Jag motsätter mig därför ändringsförslaget till artikel 7.3 som handlar om radiofrekvensbehov för specifik EU-politik och som föreslår att man använder civila frekvenser i militära syften.
+<SPEAKER ID="087" NAME="Silvia-Adriana Ţicău" AFFILIATION="S&amp;D">
+(RO) Fru talman! Det beslut som debatteras i dag markerar lanseringen av det första europeiska programmet för radiospektrumpolitik. Syftet är strategisk planering och harmonisering av användningen av radiospektrum för att se till att den inre marknaden fungerar. I praktiken kommer programmet att bidra till att underlätta spektrumets tillgänglighet, öka flexibiliteten och effektiviteten i användningen utifrån allmänna tillstånd, undvika snedvridning av konkurrensen och förhindra skadliga störningar och konflikter samt harmonisera tekniska villkor och skydda hälsan.
+<P>
+I enlighet med beslutet kommer kommissionen tillsammans med medlemsstaterna att utarbeta en förteckning över den befintliga spektrumanvändningen och över möjliga framtida spektrumkrav i unionen, särskilt i området från 300 MHz till 3 GHz.
+<P>
+Med våra ändringsförslag vill vi bidra till att överbrygga den digitala klyftan så att alla EU-medborgare har tillgång till infrastrukturen för bredbandskommunikation med minst 30 Mbps senast 2020. Vi vill dessutom säkra möjligheter för både näringslivet och offentliga tjänster med hjälp av ökad bredbandskapacitet. Vi har också begärt att man ser till att ny utrustning och teknik finns tillgänglig för konsumenterna så att vi vinner deras stöd för övergången till digital teknik och säkrar en effektiv användning av den digitala utdelningen. Jag välkomnar att man betonar betydelsen av att se till att nödvändigt radiospektrum finns tillgängligt för övervakning av atmosfären och jordytan. Detta gör det möjligt att utveckla och använda rymdtillämpningar och att förbättra transportsystem, särskilt Galileo- och GMS-systemen samt smarta säkerhets- och styrsystem för transportsektorn.
+<SPEAKER ID="088" NAME="Patrizia Toia" AFFILIATION="S&amp;D">
+(IT) Fru talman, mina damer och herrar! Jag anser att en fråga som vi alla är överens om och har fastställt är att detta program för frekvensharmonisering och samordnad spektrumanvändning kan tjäna dubbla syften.
+<P>
+Jag anser att detta är en viktig fråga som vi alltid måste ha i minnet. Med andra ord ger programmet stora ekonomiska utvecklingsmöjligheter inom det här området av telekommunikationssektorn, den audiovisuella sektorn och när det gäller nya tjänster, samtidigt som vi ger den ekonomiska utvecklingen och andra sektorer kopplade till telekommunikationssektorn en knuff framåt. Vi kan även stimulera den kulturella och sociala utveckling som detta dubbla syfte tillåter och kräver.
+<P>
+Enligt min mening bör detta program också ses som en möjlighet, så att vi respekterar och upprätthåller vissa grundläggande principer genom de val vi gör.
+<P>
+För det första principen om mediepluralism. Översynen av systemet för att hantera radiofrekvenser på EU-nivå är mycket viktig. Jag anser att vi starkt måste förhindra anhopning av frekvensrättigheter och skapandet av monopol och oligopol, något som tyvärr förekommer i vissa EU-länder och som blir starkare och får fotfäste i radio- och tv-sektorn.
+<P>
+För det andra principen om balans mellan avreglering och öppnande av marknaden för nya aktörer samt rättvisa villkor, så att de åtaganden som ingås med aktörer som har gjort betydande investeringar också kan främjas, stödjas och upprätthållas på marknaden.
+<P>
+Slutligen krävs det insyn och garantier för välskötta och välförvaltade frekvensfördelningar. Vi talar om auktioner, inte bara för att prioritera marknadsaspekter som överensstämmer med alla tänkbara sociala användningar för spektrumet, utan även för att klargöra att det inte får finnas någon bestämmanderätt eller orättvisa förmåner när det gäller radiofrekvenser. Den här frågan förtjänar också omedelbar uppmärksamhet.
+<P>
+Avslutningsvis hinner jag tyvärr inte gå in på de sociala aspekterna, men de har diskuterats utförligt av alla ledamöter i min grupp.
+<SPEAKER ID="089" NAME="Lambert van Nistelrooij" AFFILIATION="PPE">
+(NL) Fru talman, Neelie Kroes! I dag firar vi Europadagen. EU söker oupphörligt efter lösningar för att skapa välstånd och välbefinnande för EU:s medborgare. Detta ämne, detta betänkande av Gunnar Hökmark, stämmer perfekt in på denna beskrivning. Det är ett detaljerat betänkande som även behandlar de sociala och ekonomiska dimensionerna. Offentliga kanaler som är en bristvara kommer att frigöras och det behöver vi i högsta grad, om vi ska kunna möta efterfrågan på fler och snabbare trådlösa internetanslutningar.
+<P>
+Bra samordning på EU-nivå är ett uppenbart krav i detta hänseende. År 2013 kommer 800 MHz att frigöras, 2015 kommer 1 200 MHz att frigöras, och det behöver vi i högsta grad om EU ska kunna behålla sin plats bland de globala ledarna. Dessa tjänster har ett enormt ekonomiskt värde på 200 miljoner euro per år. Det innebär att omkring 3-4 procent av den ekonomiska tillväxten är beroende av att det finns tillräckligt spektrum. Och den procentsiffran kommer bara att fortsätta öka.
+<P>
+Titta exempelvis på GSM-standarden som vi gemensamt införde på 1990-talet. Det var också rätt åtgärd vid rätt tidpunkt. Det är sådana storskaliga fördelar som uppnås. Varje år kan de göra en skillnad på 80 miljarder euro. Mitt hemland Nederländerna - som jag och de andra nederländska ledamöterna företräder här - är redo för detta. Vi har redan frigjort utrymme för den fjärde generationen mobilt internet.
+<P>
+I korthet kommer både problemen med räddningstjänster, tv-stationer, offentliga programföretag och de varaktiga problemen med störningar som kan uppstå, det vill säga problem med lokala mikrofoner, att tillhöra det förgångna. Jag hoppas därför uppriktigt att vi utifrån detta utmärkta och lovande betänkande kommer att kunna enas med kommissionen redan i första behandlingen. Lycka till med det!
+<SPEAKER ID="090" NAME="Paul Rübig" AFFILIATION="PPE">
+(DE) Fru talman! För det första skulle jag vilja be om ursäkt för att några ledamöter lämnar kammaren just nu. Men en omröstning äger rum i utskottet för industrifrågor, forskning och energi samtidigt som vi håller denna debatt, och vi har ännu inte uppfunnit ett sätt att dela oss i två delar.
+<P>
+Gunnar Hökmark har funnit en bra kompromiss här. Men när det gäller denna fråga måste vi alltid ta med den prestationsnivå vi vill se i framtiden i beräkningen, å ena sidan för första generationens nät och å andra sidan för kabeloperatörer och alla andra parter med intresse i spektrumet, i synnerhet s.k. blue light-organisationer.
+<P>
+Denna prestationsnivå måste definieras. Den viktigaste frågan när det gäller dessa data är datakvantitet. Den näst viktigaste frågan är tiden det tar för dem att överföras, styrkan som de överförs med för att även möjliggöra samexistens här och slutligen de prioriteter som skapas med hjälp av programvaran. Inför framtiden behöver vi en detaljerad rapport om dessa frågor för att avsevärt öka hastigheten på första generationens GSM-nät. Kabelnätoperatörer uppnår redan mycket höga hastigheter på upp till 100 megabits/s, vilket är en avsevärd hastighet som kan ökas i framtiden.
+<P>
+Men vi har stora problem när det gäller prisnivån, i synnerhet för dataroaming. I vissa medlemsstater är det för närvarande möjligt att köpa en gigabyte för mindre än 1 euro. Jag tittade nyligen på hur mycket min mobiltelefon kostar mig. Hemma kostar en gigabyte 1 euro. När jag är här kostar en gigabyte 9 900 euro, och när jag reser till en annan medlemsstat kan det kosta 14 900 euro. Vi måste omgående vidta åtgärder i detta avseende. Fru kommissionsledamot, jag vill be dig att se till att detta beslut inte bara tar hänsyn till prestationsområdet och prestationsnivån, utan att vi först och främst upprättar gemensamma priser på EU-marknaden som gör det möjligt för människor att använda datatjänster även när de inte befinner sig i sin egen medlemsstat. Vi har brådskande prioriteringar att hantera i detta avseende.
+<SPEAKER ID="091" NAME="Andreas Mölzer" AFFILIATION="NI">
+(DE) Fru talman! EU kommer endast att kunna försvara sin ledande roll som världens största ekonomiska område om det tar ledningen i utvecklingen och användningen av nya tekniker.
+<P>
+Bredbandsteknik är otvivelaktigt en viktig del av detta. Vår nya radiospektrumpolitik måste garantera stora överföringskapaciteter och höga överföringshastigheter. Övergripande frekvensplanering och frekvenshantering på EU-nivå är utan tvekan ett mindre lämpligt alternativ för att uppnå detta mål, eftersom kommissionen själv anser att detta kan utföras bra och effektivt i de enskilda medlemsstaterna. En samordnande funktion skulle dock säkert vara önskvärd.
+<P>
+Trots höga kostnader bör tillhandahållandet av optiska fibernät enligt min mening stimuleras. EU släpar för närvarande efter sina konkurrenter Förenta staterna och Kina. Detta är troligen en följd av en obeslutsam politik och för mycket byråkrati.
+<P>
+Jag instämmer därför med föredraganden Gunnar Hökmark om att vi absolut måste följa den tidtabell som har fastställts för frigörande av spektrumet.
+<SPEAKER ID="092" NAME="Neelie Kroes">
+kommissionens vice ordförande. - (EN) Fru talman! Jag skulle vilja tacka alla som har deltagit i denna fascinerande debatt, för även om frågan kan tyckas vara mycket teknisk, är detta när allt kommer omkring en helt vanlig fråga - för radiospektrum är ju lika vanligt som vatten eller frisk luft. Det är som Catherine Trautmann har sagt en bristvara, det är en offentlig vara och det är också en nödvändig vara. Föredraganden och hans skuggföredragande har lyckats göra frågan mycket tydlig, och de har helt enkelt lagt fram för oss vad som måste göras för att uppnå ett positivt resultat.
+<P>
+Detta är förstås en demokrati. Vi diskuterar frågan och det är en mycket intressant debatt. För inte så länge sedan diskuterade vi dock den digitala agendan. Vi samtycker alla till den digitala agendan, och spektrumfrågan är en viktig fråga i den digitala agendan. För om vi inte tar vårt ansvar och intar en tydlig ståndpunkt kan vi glömma det som sades tidigare av Patrizia Toia. Vi måste vara medvetna om att alla européer år 2020 - och det har vi fastställt i den digitala agendan - ska kunna värna om sina intressen genom de möjligheter som spektrumet faktiskt ger.
+<P>
+Vi har också talat om att skapa digitala möjligheter för alla européer 2013. Om det är detta vi har i åtanke måste vi vara konsekventa och vi måste kunna ta konsekvenserna av detta.
+<P>
+Jag skulle vilja tacka alla ledamöter som har talat klarspråk i debatten och framfört prioriteringar samtidigt som de ändå har samtyckt till exakt vad vi måste göra i vår regleringsstrategi när det gäller hanteringen av radiospektrumet. Det finns fortfarande hinder som måste övervinnas - det råder det ingen tvekan om. Men med tanke på vad som står på spel är jag övertygad om att vi kommer att lyckas övervinna hindren.
+<P>
+Vi respekterar fullständigt användningen av spektrum för programsändningar och kulturella aktiviteter. Det får inte finnas några missförstånd kring detta. Vi kommer att hantera den frågan om det fortfarande kvarstår frågetecken i det avseendet. När det gäller ytterligare spektrum för bredband och den andra digitala utdelningen, tror jag att alla är medvetna om att vi måste ta itu med denna fråga också förr eller senare - och de flesta ledamöter anser nog förr. Detta är en situation som alla vinner på och när vi nu frigör 800 MHz-bandet valde vi det alternativ som påverkade den minsta mängden spektrum. Vi kan alltså se detta som det första steget på vår resa.
+<P>
+Låt oss se tillbaka ett ögonblick. Vem kunde för 15 år sedan ha förställt sig vad som står på spel i dag? Om vi hade väntat 15 år och tvekat att fatta beslut som politiker skulle vi ha misslyckats. I så fall skulle vi nu inte ha diskuterat om vi vill vara nummer ett eller nummer tre, utan om hur vi skulle undvika sistaplatsen.
+<P>
+Spektrum är en nationell behörighet. Det är jag medveten om. Kommissionen samtycker till detta, och förteckningen är en fråga för medlemsstaterna. Men vi är alla överens om att spektrumet är en mycket värdefull resurs och att vi måste inse att när vi talar om en digital inre marknad får vi också en möjlighet och har ett ansvar att tänka gränsöverskridande - och om det finns ett område där vi bör tänka gränsöverskridande så är det spektrumpolitiken.
+<P>
+När det gäller tidsfrister och vad som har stått och står på spel är det uppenbart - åtminstone för mig - att 2013 inte är för tidigt. Vi bör också vara medvetna om att inskränkningar föreslås för två typer av situationer - i händelse av svårigheter med grannländer och i händelse av omständigheter som ingen kunde ha förutsett. Jag anser dock att vi måste inse att tiden inte står på vår sida och att inskränkningarna inte får missbrukas.
+<P>
+Sammantaget ser jag fram emot diskussionerna med rådet, jag ser fram emot resultatet av er omröstning och jag ser med tillförsikt på framtiden i förhoppningen om att en av de pelare som vi har talat om kommer att avslutas före årsslutet.
+<P>
+Jag vill avsluta med att än en gång tacka inte bara föredraganden och skuggföredragandena, utan även ledamöterna i de olika berörda utskotten för deras konstruktiva och mycket positiva insatser.
+<SPEAKER ID="093" NAME="Gunnar Hökmark">
+föredragande. - (EN) Fru talman! Vi måste vara medvetna om att vi talar om en samhällsaspekt som utvecklas extremt snabbt. Förändringstakten har varit, och kommer att fortsätta vara, oerhört snabb. Vi talar i själva verket om hur vi vill att saker ska vara år 2020.
+<P>
+Därför är det viktigt att påpeka att vi i diskussionen om 700 MHz-bandet inte säger något mer än att vi ska ha möjlighet att fatta beslut senare om hur vi bäst använder det. Som man har sagt är spektrum en bristvara, men det är också en offentlig vara, och vi har ansvar för att använda det så bra och så effektivt som möjligt - såsom Catherine Trautmann sade.
+<P>
+Jag skulle också vilja betona att det inte finns någon konflikt mellan kulturell och kommersiell användning. Jag vill att vi ska ha ambitionen att föra in kulturen i denna nya teknik, i stället för att reservera tekniken för kommersiell användning, vilket kommer att bli resultatet om vi inte är tillräckligt ambitiösa. I detta fall blir kulturen bortglömd, och jag tror inte att kulturen i Europa skulle få de bästa möjligheterna om den är instängd i de gamla teknikerna.
+<P>
+Jag anser att det är möjligt att inte bara säkra dagens radio- och tv-sändningar, utan också att skapa nya möjligheter för en ny tid. Men vi måste kunna fatta beslut. Jag måste säga - utan ironi och med stor tillfredsställelse - att ingen här i kväll har ifrågasatt det faktum att vi måste vara nummer ett. I den globala världens konkurrens och kunskap kan man bara vinna om man är nummer ett. Det borde vara vårt mål.
+<SPEAKER ID="094" NAME="Talmannen">
+Debatten är härmed avslutad.
+<P>
+Omröstningen kommer att äga rum onsdagen den 11 maj 2011.

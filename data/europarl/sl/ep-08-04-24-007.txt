@@ -1,0 +1,12 @@
+<CHAPTER ID="007">
+Čas glasovanja
+<SPEAKER ID="068" NAME="Predsednica">
+Naslednja točka je glasovanje.
+<P>
+(Za rezultate glasovanja in druge informacije v zvezi z njim: glej zapisnik.)
+<SPEAKER ID="069" NAME="Véronique De Keyser" AFFILIATION="PSE">
+(FR) Gospa predsednica, želela sem vas opozoriti, da moja kartica ne deluje, ker sem ravnokar vstavila kartico, za katero sem mislila, da sem jo izgubila v pisarni, in se pokaže kot neveljavna. Torej, prisotna sem, želim glasovati, imam kartico, vendar ne deluje več. Ne vem, kaj naj storim, vendar želim, da se to zabeleži v zapisniku.
+<SPEAKER ID="070" NAME="Predsednica">
+Poslali bomo tehnika, da boste lahko glasovali.
+<P>
+Preden začnemo glasovati, želim le opozoriti, da ne bom glasno brala številčnih izidov poimenskega glasovanja: Povedala vam bom le, ali gre za sprejetje ali zavrnitev.

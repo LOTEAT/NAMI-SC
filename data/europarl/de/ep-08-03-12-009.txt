@@ -1,0 +1,8 @@
+<CHAPTER ID="009">
+Genehmigung des Protokolls der vorangegangenen Sitzung: siehe Protokoll
+<SPEAKER ID="210" NAME="Die Präsidentin">
+Das Protokoll der Sitzung vom 11. März wurde verteilt.
+<P>
+Gibt es Einwände?
+<P>
+(Das Protokoll der vorangegangenen Sitzung wird genehmigt.)

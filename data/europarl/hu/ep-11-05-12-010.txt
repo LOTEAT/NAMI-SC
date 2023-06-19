@@ -1,0 +1,16 @@
+<CHAPTER ID="010">
+Az elnök nyilatkozata
+<SPEAKER ID="114" NAME="Elnök">
+Tegnap délután földrengés rázta meg a spanyolországi Murcia régiót. Legalább hét ember életét vesztette. Sokan megsérültek. Három órával ezelőtt Martínez Martínez úr nyilatkozatott tett erről. Az Európai Parlament nevében az áldozatok családjainak is szeretnék részvétet nyilvánítani. A sérülteknek gyors felépülést kívánunk. Tisztelettel adózunk a régió lakosságának, akik képesek voltak azonnal cselekedni, és részt vesznek a mentési műveletben. Részvétnyilvánító levelet fogok küldeni ez ügyben a spanyol hatóságoknak.
+<SPEAKER ID="115" NAME="Cristina Gutiérrez-Cortines" AFFILIATION="PPE">
+(ES) Elnök úr, nagyon köszönjük együtt érző és támogató szavait.
+<P>
+A lorcai tragédiáról egyre többet tudunk. Jelenleg arról értesültünk, hogy a halottak száma nyolc, köztük van két várandós asszony és egy tizenkét éves fiú is. Több mint kétszázötvenen sérültek meg, és a földrengés a házak 80 százalékában kárt okozott. Sok lorcai polgár hajléktalanná fog válni. A polgárok egy jelentős részének a munkahelye is elpusztult, így ők reményeiket, várakozásaikat és lehetőségeiket is elveszítették.
+<P>
+Lorca városának 70 000 lakosa van, ennek 20 százaléka bevándoroló, akiket a város befogadott, és akiknek megadta az új élet és az új célok lehetőségét. Tudom, hogy Lorca város új és régi lakosai együtt, az intézmények és az emberek segítségével képesek lesznek új életet kezdeni. Kérem az Európai Uniót, hogy senkit nem hagyjon magára, hogy segítsen az érintetteknek, hogy értse meg fájdalmunkat, és álljon mellettük a nehéz időkben, támogassa őket és kínáljon fel nekik lehetőségeket.
+<P>
+Szeretnék mindannyiuknak köszönetet mondani, és kérem, adózzunk egyperces néma csenddel az áldozatok emlékének.
+<P>
+(Taps)
+<SPEAKER ID="116" NAME="Elnök">
+Kérem, álljanak fel. Most pedig egyperces néma csenddel adózunk az áldozatok emlékének.

@@ -1,0 +1,6 @@
+<CHAPTER ID="006">
+Turno de votaciones
+<SPEAKER ID="067" NAME="Presidente">
+El siguiente punto es el turno de votaciones.
+<P>
+(Para conocer los resultados y más detalles de la votación: véase el Acta)

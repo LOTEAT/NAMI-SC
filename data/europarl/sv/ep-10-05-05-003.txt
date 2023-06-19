@@ -1,0 +1,6 @@
+<CHAPTER ID="003">
+Meddelande från talmannen: se protokollet
+<SPEAKER ID="007" NAME="Talmannen">
+Jag vill informera ledamöterna om att ett antal extra inspelningstekniker som använder en särskild utrustning kommer att närvara i kammaren under denna sammanträdesperiod. Dessa tekniker kommer att spela in debatterna och omröstningarna för att producera ett panorama i 360° över parlamentets arbete.
+<P>
+Denna film kommer att visas som en del av en permanent utställning om parlamentets arbete i en interaktiv modell av kammaren i det nya besökscentret i Bryssel. Jag har fått en tydlig försäkran om att teknikerna kommer att vara oerhört diskreta och inte orsaka något avbrott i vårt arbete. Tack för er förståelse.

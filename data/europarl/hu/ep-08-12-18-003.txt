@@ -1,0 +1,370 @@
+<CHAPTER ID="003">
+Európai közokirat - E-igazságszolgáltatás - A felnőttek jogi védelme: határokon átnyúló kérdések (vita) 
+<SPEAKER ID="022" NAME="Elnök. - A következő napirendi pontok: együttes vita a következőkről:">
+Manuel Medina Ortega jelentése a Jogi Bizottság nevében az európai közokiratra vonatkozó ajánlásokkal a Bizottság számára,
+<P>
+Diana Wallis jelentése a Jogi Bizottság nevében a Bizottságnak szóló ajánlásokkal az e-igazságszolgáltatásról, és
+<P>
+Antonio López-Istúriz White jelentése a Jogi Bizottság nevében a Bizottságnak szóló ajánlásokkal a felnőttek jogi védelméről és annak határokon átnyúló vonatkozásairól.
+<SPEAKER ID="023" NAME="Manuel Medina Ortega" LANGUAGE="ES">
+Elnök úr, a Parlament Jogi Bizottsága szeretné elérni az európai közokiratok elismerését; ezért állt elő ezzel a kezdeményezéssel.
+<P>
+A Parlament kezdeményezésében felkéri a Bizottságot, hogy hozza meg a szükségesnek ítélt intézkedéseket. A javaslat a hágai programon alapul, nevezetesen nem csak a bírósági döntések, hanem a közokiratok elismerésén.
+<P>
+A kezdeményezés célja az, hogy megkönnyítse a fogyasztók helyzetét az Európai Unióban.
+<P>
+A közokiratok elismertetéséhez szükséges hivatalos eljárások sok időt és pénzt emésztenek fel.
+<P>
+Logikusnak tűnik tehát, hogy meg kell könnyíteni a közokiratok mozgását; elismerését, hogy a határokon átnyúló hivatalos ügyintézést igénylő eljárások, például házasságok, szerződéskötések és más hasonló ügyek esetében ne kelljen a körülményes ügymenetet végigcsinálni.
+<P>
+A jelentéssel kapcsolatos fő nehézség az európai közokirat jellegéből adódhat, mivel azt az Unió legtöbb országában elismerik, de nem mindegyikben.
+<P>
+Vannak olyan országok, ahol a közhivatalnokok által kibocsátott európai közokiratok rendszere nem is létezik. Ehelyett a magánszemélyek egyszerű dokumentumait közjegyző hitelesíti, bár a dokumentum jellege nem változik.
+<P>
+A javaslat precedense az Európai Bíróság Unibank-ügyben hozott ítélete, amelyben a közokiratok elismerésével kapcsolatos több előírás is szerepel. Az első előírás, hogy a dokumentumokat hivatalos személy állítsa ki. Más szóval a közokiratot hitelesítő személynek egyfajta hivatalos személynek kell lennie; csakhogy ez a kategória egyes EU-tagállamokban nem létezik, így aztán ezen országokban ez nem megvalósítható.
+<P>
+Másodszor, a közokiratok esetében biztosítani kell, hogy a felek akarata megfeleljen valamilyen konkrét jogi célnak. A közjegyzői okiratok - legalábbis a kontinentális jogban - bizonyos értelemben új jogi tényállást hoznak létre, mivel a felek ezen dokumentum útján fejezik ki akaratukat, de az okiratot a közjegyző hozza létre.
+<P>
+Harmadszor pedig, a közokirat a származási országában elismerten kívül nem járhat más eredménnyel. Ez azt jelenti, hogy ha egy dokumentum a származási országában csak a bizonyítás célját szolgálja, az más országban nem tekinthető végrehajtható rendelkezésnek.
+<P>
+Véleményem szerint ez a három tényező létfontosságú: először is, az okiratot hitelesítő személy legyen hivatalos személy; másodszor, az okirat új jogi helyzetet teremt és nem pusztán egy aláírás igazolásával egyenértékű; harmadszor pedig, nem járhat attól eltérő eredménnyel, mint amelyet a származási országában kivált.
+<P>
+Egy területet mindenképpen ki kell zárni a fentiek hatálya alól: a tulajdonjoghoz kapcsolódó ügyeket. Az ingatlantulajdon joga szorosan kötődik a tulajdon helyéhez. Ezen a területen az átalakításokat akadályozza a földhivatalok rendszere, és az, hogy ez a terület minden országban szigorú szabályozás alá esik és különleges előírások vonatkoznak rá.
+<P>
+Remélem, hogy a Bizottság megfontolja ezt a javaslatot, és összeállít egy kezdeményezést. A javaslat konkrét jogalapja az EK Szerződés 65. cikke (a) bekezdése és 67. cikke (5) bekezdésének második francia bekezdése.
+<P>
+Úgy gondolom, hogy a jogalap megfelelő, és egy ilyen kezdeményezés megkönnyítené a polgárok jogi ügyeit és - ami a legfontosabb - jobbá tenné az életüket.
+<P>
+A Bizottság bizonyosan fel fogja hívni a figyelmet egy nehézségre is: arra, hogy a tagállamok jogrendszerei mennyire eltérőek, de én azt gondolom, hogy ezt a kérdést bőven lesz időnk megvitatni később, majd azután, hogy a Bizottság benyújtotta javaslatát.
+<SPEAKER ID="024" NAME="Diana Wallis">
+előadó. - Elnök úr, úgy érzem, hogy az e-igazságszolgáltatás ügyét mind a szlovén, mind a francia elnökség kiemelten kezelte, és azt is tudni lehet, hogy a soron következő cseh elnökség szintén folytatni kívánja az e-igazságszolgáltatás terén végzett hasznos munkát.
+<P>
+Az e-igazságszolgáltatás kérdése a Parlamenten belül, és különösen a Jogi Bizottságon belül, összefonódik egy régóta sokat emlegetett témával: az igazságszolgáltatáshoz való joggal és annak határokon átnyúló aspektusaival. Az igazságszolgáltatáshoz való jognak még az országhatáron belül is éppen elég nehéz érvényt szerezni; gondoljanak csak az ügyvédi védelemhez való jogra, az anyagi nehézségekre, vagy arra, hogy mekkora nehézséget jelenthet az igazságszolgáltatási rendszer átlátása, megértése. Ha ehhez az európai határokon átnyúló ügyek esetében hozzáadódnak még az eltérő jogi kultúrákból és nyelvekből adódó bonyodalmak is, akkor a polgároknak még nehezebb lesz hozzáférniük az igazságszolgáltatáshoz.
+<P>
+De a modern technológia nyújtotta lehetőségek kihasználásával ezeket a hátrányokat semlegesíteni lehet. Európában nincsenek határok, de az interneten sincsenek; a nyelvek nehézséget okoznak, de már vannak olyan technológiai eszközök, amelyek azonnali fordításra képesek. A technológiai lehetőségek fejlesztése révén a polgárok számára egy jobb minőségű, határokon átívelő igazságszolgáltatást teremthetünk.
+<P>
+Látható, hogy egyes tagállamok már felfedezték az ebben rejlő lehetőségeket, és saját rendszer kifejlesztésébe kezdtek. Ez nagyon helyes. Az egyes projekteken belül már együttműködésre is van példa - ilyen az összekapcsolt cég- és földnyilvántartási rendszerek esete.
+<P>
+Mi, parlamenti képviselők azonban olyasmit szeretnénk, ami közvetlenül a polgárok érdekeit szolgálja és segít az igazságszolgáltatással kapcsolatos napi szintű gondjaik megoldásában. Azt szeretnénk, hogy a polgárok egész Európában érezzék az e-igazságszolgáltatás projekt előnyeit.
+<P>
+Az igazságügyi portál megvalósíthatja ezt a célt: választ adhat a Ki? Mi? Hol? Hogyan működik? kérdésekre; információt szolgáltathat arról, hogy hol lehet ügyvédet vagy tolmácsot fogadni, esetleg jogi tanácsot kapni - mindenféle információ feltűntethető rajta. A projekt nagyratörő, de ez így is van rendjén.
+<P>
+Sőt, nem is akarjuk beérni csak a puszta információszolgáltatással. Azt szeretnénk, ha a határokon átnyúló igazságszolgáltatáshoz elektronikus úton is hozzá lehetne férni; ha a fizetési megbízás vagy éppen a kis értékű követelések behajtásának európai eljárása az interneten is követhető lenne. Köztudott, hogy egyes tagállamok jelenleg közös projekteken dolgoznak, és ezt a lelkesedést, ezt az ambíciót ki kell használnunk. De az európai perspektíva megtartásához, ahhoz, hogy ez európai projekt legyen, szükség van a Bizottság részvételére és koordináló szerepére is. Ezért a Parlament jelentéséhez egy cselekvési tervet csatoltunk, amely ezeket a témákat taglalja. Most lehetőségünk van megvalósítani a határok nélküli európai igazságszolgáltatást. Éljünk ezzel a lehetőséggel!
+<SPEAKER ID="025" NAME="Antonio López-Istúriz White" LANGUAGE="ES">
+Üdvözlöm az elnök urat, a miniszter asszonyt és a bizottság alelnökét! A jelentés, amelyet ma bemutatok Önöknek, az Európai Unióban a felnőtteknek nyújtott védelemmel foglalkozik. Nem volt könnyű ezt a témát ilyen rövid idő alatt feldolgozni, különösen úgy, hogy ilyen szerteágazó célokat kellett figyelembe venni.
+<P>
+A jelentés általános jellegével kapcsolatban a Jogi Bizottságban nem volt egységes vélemény.
+<P>
+A mai együttes vita során ez a szöveg a Jogi Bizottság két másik jelentésével együtt kerül terítékre: az egyik - Medina Ortega úr munkája - az európai közokiratokról szól; a másik Diana Wallis jelentése az e-igazságszolgáltatásról.
+<P>
+A Bizottságunk által jegyzett három jelentés elkészítésének összehangolása kétségtelenül hatásosabb javaslatokat eredményezett, és így mindenképpen előnyös az európai polgárok szempontjából.
+<P>
+Először is, szeretnék gratulálni a francia elnökségnek az Európai Unió vezetőjeként az elmúlt hat hónapban végzett kiváló munkájához. Külön köszönet jár a francia igazságügy-miniszternek, Rachida Datinak, aki igen nagy érdeklődést mutatott aziránt, hogy ezt a kérdést a már létező rendelkezéseken túlmutató, gyakorlatias és minden tagállam számára eredményes intézkedések irányába vigyük tovább.
+<P>
+Ha már Franciaország került szóba, megemlíteném Amélie Durand bírónőt, az igazságügy-miniszter asszony tanácsadóját is; csakúgy, mint a jelentések elkészítésében aktív szerepet vállaló francia kollégáimat, köztük Gauzès és Toubon urat.
+<P>
+A Jogi Bizottság osztja az elnökség aggodalmait mai témánkkal, a kiszolgáltatott felnőttekkel kapcsolatban. Ezért úgy döntött, hogy az előrelépés érdekében saját kezdeményezésű jogalkotási jelentést dolgoz ki, melynek célja, hogy olyan új megoldások szülessenek, amelyek a felnőtt polgárok számára a lehető legnagyobb előnnyel járnak.
+<P>
+A Bizottság nemrégiben részt vett a polgári jogi intézkedéscsomag elfogadásában, amelyben szerepelt a közvetítés, az dokumentumok kézbesítése és a kártérítési jog is.
+<P>
+Erre mutat az is, hogy a polgári igazságügyi együttműködés fóruma december 2-dikai meghallgattatott az Állampolgári Jogi, Bel- és Igazságügyi Bizottság együttműködve a Jogi Bizottsággal. Ezen meghallgatáson napirendi pont volt a felnőttek védelmének szükségessége is.
+<P>
+Hölgyeim és uraim, ez olyan kérdés, amely minden tagállamot érint, hiszen az Európai Unió lakossága egyre öregszik. 2050-re a lakosság 37%-a lesz 60 év fölötti, 10%-a pedig 80 évnél is idősebb lesz.
+<P>
+Nem szabad elfelejteni, hogy ez a helyzet nem csak gazdasági, hanem költségvetési és egészségügyi következményekkel is jár mindannyiunkra nézve. A lehető leghamarabb el kell kezdenünk megoldásokat keresni ezekre a problémákra.
+<P>
+Ez a jelentés két utat kínál fel a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség létrehozásának elősegítésére: az egyik a jogalkalmazás, a másik pedig a tagállamok illetékes hatóságainak együttműködése.
+<P>
+Ahogy korábban már említettem, ez a jelentés hosszú utat járt be, mire a Jogi Bizottság december 17-én egyhangúlag elfogadta.
+<P>
+A bizottság tagjainak különböző nézőpontjait összebékítő, kompromisszumos módosító javaslat született. Ez a módosítás, amelyből a 2. cikk létrejött, a jelentés kulcsfontosságú része, mivel ez ad lehetőséget arra, hogy az egyes tagállamok a 2000. január 13-i Hágai Egyezményt beépítsék saját jogszabályaikba.
+<P>
+Ezenkívül a jelentés arról is rendelkezik, hogy majd a jövőben, amikor elégséges tapasztalat áll rendelkezésre, a Bizottság kapjon felkérést egy jogalkotási javaslat kidolgozására a tagállamok együttműködésének megerősítéséről és a felnőttek védelméről szóló, valamint a cselekvőképtelenséget kimondó határozatokra vonatkozó döntések elismerésének és betartásának javítása érdekében.
+<P>
+Szeretnék rámutatni, hogy eddig csak négy ország írta alá a Hágai Egyezményt, és csak nyolc ország ratifikálta azt. Arra kérjük a tagállamokat, hogy ratifikálják ezt az egyezményt, hogy ebben a mindannyiunkat érintő kérdésben egységesebb és hatékonyabb módon tudjunk fellépni.
+<P>
+Azt sem szabad elfelejtenünk, hogy az Európai Közösséget létrehozó szerződés értelmében a jogalkotási hatalom az Európai Bizottság kezében van. Mint tudjuk, van azonban egy apró kitétel - a Szerződés 192. cikke - amely szerint a Parlamentnek joga van felkérni a Bizottságot egy jogalkotási javaslat kidolgozására.
+<P>
+Hölgyeim és uraim, most ezt a cikket kívánjuk alkalmazni. Végezetül még annyit szeretnék elmondani, hogy, amint azt a jelentés kimondja, a Bizottságnak a jövőben jobban kellene figyelnie a Hágai Egyezmény kapcsán szerzett tapasztalatokra, és közösségi rendelkezéseket kellene javasolnia az Egyezmény kiegészítésére és más jövőbeni jogi eszközökre.
+<SPEAKER ID="026" NAME="Rachida Dati">
+a Tanács soros elnöke. - (FR) Elnök úr, Barrot úr, hölgyeim és uraim! Nagy örömömre szolgál, hogy újra a Parlamenthez szólhatok, és az elnökség nevében is szeretnék köszönetet mondani az igazságügy területén elért eredményekért.
+<P>
+Az előző vita után, mely az üzleti vállalkozások működéséhez kapcsolódott, most olyan jelentések vitája kezdődik, amelyek az európai polgárok mindennapi életét befolyásolhatják. Ezekkel a kérdésekkel a francia elnökség alatt több alkalommal foglalkoztunk, különösen a közokiratok mozgásával és a felnőttek jogi védelmével kapcsolatos egyeztetések során.
+<P>
+Mint tudják, a francia elnökség számos gyakorlati projekt segítségével sokat tett az európai igazságügy fejlesztéséért. A cél az volt, hogy az európai intézmények közelebb kerüljenek állampolgárainkhoz. Amint Diana Wallis az imént rámutatott, a szlovén elnökség is kiváló munkát végzett ezen a területen, melyet nagyra értékelünk.
+<P>
+A ma napirenden lévő három szöveg is ezt mutatja: a Medina Ortega-jelentés az európai közokiratokról, a Wallis-jelentés az e-igazságszolgáltatásról és a López-Istúriz White-jelentés a felnőttek jogi védelméről szól. Ezek a jelentések olyan javaslatokat tartalmaznak, amelyek egybeesnek az elnökség szándékaival: nem elég csupán új eszközöket bevezetni, hanem meg kell ismerkednünk egymás módszereivel, össze kell hasonlítanunk a különböző országok gyakorlatát és a jövőbe kell tekintenünk.
+<P>
+A közokiratokról szóló jelentésről szólva: az elnökség támogatja Medina Ortega úr kezdeményezését és a jelentését kiválónak tartja. A Parlament nagy érdeklődést mutatott a közokiratok európai mozgásának és elismerésének kérdése iránt; ez is jelzi, hogy a polgári igazságügyi együttműködés egyik fontos kérdéséről van szó. A cél ebben az esetben is az, hogy polgártársaink és az üzleti vállalkozások mindennapi életét minél könnyebbé tegyük. A törvény fő célkitűzése, hogy a társadalmi viszonyokat átláthatóbbá tegye, és így csak kivételes esetekben legyen szükség bírósági megoldásra.
+<P>
+Fontos, hogy az Európai Unió ebben a kérdésben kötelezettséget vállaljon. A közokiratok a családok és a vállalkozások életében központi szerepet játszanak: a házassági okiratok, ajándékozást tanúsító iratok, végrendeletek, adásvételi vagy egyéb cégek közötti szerződések létfontosságúak. Ezek teszik lehetővé, hogy az emberek egy szerződésen kívüli viszony keretében egy elismert hatóságot megbízzanak azzal, hogy a vállalt kötelezettségeket hitelesítse, mégpedig olyan formában, hogy a jogi következmények a végrehajthatóság miatt már előzetesen rögzítve legyenek. Az Ön munkája azonban arra is rávilágít, hogy át kell gondolnunk, milyen feltételeket határozzunk meg a közokiratok Európán belüli szabad mozgásához, területtől függetlenül.
+<P>
+Nem kétséges, hogy ezt az elgondolást figyelembe fogják venni az Európai Bizottság következő jogalkotási programjában. A közokiratokról szóló vita nem szabhat gátat annak, hogy átgondoljuk, hogyan lehetne javítani a más jellegű iratok mozgásának körülményeit. Fokozatosan kell előrehaladnunk, s ugyanakkor egyértelműen meg kell húznunk a határokat. A közokiratok esetében például lazíthatunk a feltételeken, és megkönnyíthetjük a kölcsönös elismerés eljárását, mivel ezek a dokumentumok különleges garanciákat nyújtanak.
+<P>
+Ha valaki a rendszerbe olyan iratokat kívánna bejuttatni, amelyek nem rendelkeznek a többivel azonos szintű garanciákkal, akkor a céljainkból engednünk kellene, ami nyilvánvalóan problematikus lenne. A Parlament nézőpontja a jelentésből ítélve nagyrészt egybeesik az elnökség által kidolgozott és javasolt irányelvekkel. Medina Ortega úr jelentése a jövőbeli munka egyik fő kiindulópontját képezi, hiszen a mai vitát az elnökség mindenképpen figyelembe veszi majd.
+<P>
+Az európai igazságügyi térség fejlesztéséhez és megerősítéséhez szükséges az igazságszolgáltatás működésének javítása, modernizálása is. Ez utóbbihoz viszont elengedhetetlen az új kommunikációs módszerek felhasználása: erről szól az e-igazságszolgáltatással foglalkozó jelentés. A projekt célja az új információs és kommunikációs technológiák határokon átívelő felhasználásának fejlesztése Európában, melynek segítségével megerősíthetjük igazságügyi rendszereink kapcsolatait és megkönnyíthetjük a kommunikációt. Ezen túl a tervben fontos szerepet kap a bűnügyi nyilvántartások hálózatba kapcsolásáról elfogadott kerethatározat is. Az európai e-igazságszolgáltatási cselekvési tervet, amelyet a november 28-i IB Tanács elé terjesztettek be, a német elnökségtől kezdve már több egymást követő elnökség is támogatta.
+<P>
+Az utóbbi hat hónapban arra törekedtünk, hogy kidolgozzuk az európai e-igazságszolgáltatás cselekvési tervének első változatát, mégpedig a lehető legjobban szem előtt tartva az egyensúlyt, tekintettel a projektben résztvevő tagállamokra, a Parlament álláspontjára és a Bizottság szerepére is. Céljainkkal a Parlament is egyetért, s az elnökség szeretne ismét köszönetet mondani az előadónak, Diana Wallisnak az elkötelezettségéért és gratulál magas színvonalú jelentéséhez. Az Európai Parlamentben zajlott heves vita nagyban gazdagította az elnökségi dokumentumot, és végül sikerült olyan javaslatot kidolgozni, amely minden fél támogatását élvezi.
+<P>
+A hozzáférés biztosítása, a személyek és az igazságügyi döntések szabad mozgásának védelme csak akkor érhető el teljes mértékben, ha szem előtt tartjuk a társadalom legkiszolgáltatottabb tagjainak körülményeit. A francia elnökség ezért is akart javítani a jogi védelemre szoruló felnőttek helyzetén.
+<P>
+A védelemre szoruló felnőtteknek is joguk van a szabad mozgáshoz, mint minden más polgárnak. Az elnökség örömmel látja, hogy a Parlament is foglalkozik ezzel a kérdéssel, és köszönetet mond az előadónak, López-Istúriz White úrnak a felnőttek jogi védelmével kapcsolatos javaslataiért. Nyilvánvaló, hogy ez a kérdés mindkét intézmény érdeklődésére számot tart.
+<P>
+A 2000. január 13-ai Hágai Egyezmény Franciaországban, Németországban és az Egyesült Királyságban a tervek szerint január 1-én lép életbe. Az utóbbi hat hónapban más EU-tagállamok is aláírták. Az új aláíró országok a következők: Finnország, Görögország, Írország, Luxemburg és Lengyelország. Fontos, hogy minden tagállam részt vehessen ennek az eszköznek az alkalmazásában. Tudom, hogy a soron következő cseh és svéd elnökségek szintén elkötelezik majd magukat ezen a területen - ezt már a francia elnökség alatt jelezték -, de a felnőttek jogi védelméhez kötődő igazságügyi döntések mozgásának általánosságban is szerepelnie kell a célkitűzéseink között.
+<P>
+Ezáltal demonstrálhatjuk, hogy Európa képes megfelelni polgárai igényeinek - a legkiszolgáltatottabbak igényeinek is. Az Ön jelentése ezt nagyban elősegíti. A francia elnökség bízik abban, Barrot úr, hogy ezt a kérdést sikerül beemelni a Bizottság jövőbeni jogalkotási programjába. Ez egy elsőrendűen fontos társadalmi kérdés. Tudom, hogy ezt a kérdést a Bizottság és különösen Ön, Barrot úr, kiemelten kezeli. Ez is mutatja, hogy Európa azáltal, hogy biztosabb jogi környezetet teremt, a legkiszolgáltatottabb polgárait is védelmezi.
+<P>
+Az elnökség szeretne köszönetet mondani az Ön munkájáért, és a vita során elhangzott megjegyzéseket természetesen figyelembe fogom venni.
+<SPEAKER ID="027" NAME="Jacques Barrot">
+a Bizottság alelnöke. - (FR) Elnök úr, hölgyeim és uraim! Nagy örömömre szolgál, hogy én is gratulálhatok a három jelentés szerzőinek, és szeretném elmondani, Dati asszony, hogy ezek a jelentések tökéletesen összeegyeztethetőek a francia elnökség munkájával, melyet természetesen a legteljesebb mértékben elismerünk. Úgy gondolom, hogy sikerült lefektetni az európai jogi és igazságügyi térség alapjait, amely mellett én személyesen is elköteleztem magam. Ezt a térséget elsősorban a stockholmi program keretében fogjuk megalapozni.
+<P>
+Ez a mai vita tehát a lehető legjobb időzítéssel zajlik. Dati asszony már alapos áttekintést adott a három jelentésről, de azért én is röviden elismétlem, amit tőle hallhattunk, már csak azért is, hogy ezzel megerősítsem a Bizottság szándékait.
+<P>
+Először is, hadd mondjak köszönetet Medina Ortega úrnak, aki igen kiváló jelentést állított össze az európai közokiratról, amely kérdésben a fogyasztók és a polgárok mindennapi élete a tét. Emiatt az Ön Bizottságnak tett javaslatai valóban hatással vannak polgártársaink életére, mind közvetlenül, mind a vállalkozásokon keresztül.
+<P>
+Az egyének és a vállalkozások a családi ügyekkel vagy üzleti tranzakciókkal kapcsolatos lépéseket gyakran egy hivatalos szerv által hitelesített önkéntes nyilatkozat útján teszik meg, és nyilvánvaló, hogy egy ilyen közokiratnak a szabad mozgás szellemében nem csak a származási országban kell érvényesnek lennie.
+<P>
+Ez a szabad mozgás azonban ma még csak részben teljesül, emiatt - mint Önök is tudják - a meglévő eszközeink mellé új intézkedéseket is hoztunk. Jelenleg ezeken dolgozom. Vannak olyanok, amelyek a közelmúltban kerültek elfogadásra - itt köszönném meg Rachida Datinak a tartási kötelezettséggel kapcsolatos munkáját -, míg számos másik csak most van előkészületben, Medina Ortega úr, mint például az örökléssel kapcsolatos intézkedés, amelyet 2009 márciusára ütemeztünk. Nagyon jól tudom azonban, hogy még mindig sok munka van hátra: a Bizottság éppen ezért zöld könyvet fog összeállítani a közokiratokról, és esetleg más hivatalos iratokról is, hogy valóban széles körű konzultációt kezdhessünk a kérdésről.
+<P>
+Egyértelmű azonban, hogy ebben a kérdésben az Ön most elkészült jelentése és az Európai Parlament által készített tanulmány egyaránt nagyon hasznosnak bizonyul majd. Ezenkívül, ahogy Ön is kiemelte, véleményem szerint is szükség van egy olyan jogalapra, amely alapján egy új kezdeményezés indulhat, figyelembe véve azt is, hogy a tagállamok jogrendszereinek sokfélesége miatt egy ilyen intézkedés mindenképpen alapos előkészítést igényel. Mindenesetre még egyszer köszönöm kiváló munkáját.
+<P>
+Most Diana Wallishoz fordulok, aki kiemelte, hogy modernizálni kell az igazságszolgáltatás működését. Tény, hogy a cseh elnökség igen fontosnak tartja a francia elnökség alatt nemrég elfogadott cselekvési tervet. Ezért jelentése segítségével, Wallis asszony, jobban átláthatjuk majd, hogy hogyan lehet kihasználni az e-igazságszolgáltatásban rejlő lehetőségeket.
+<P>
+Külön kiemelte azokat az eseteket, amikor az e-igazságszolgáltatás különösen hasznos lehet, például a kis összegű követelések rendezésében. Nem kétséges, hogy javaslatai segítenek majd jobbá tenni a Bizottság intézkedéseit, és gazdagítják az Európai Tanács vitáit és döntéseit.
+<P>
+Az együttműködés révén biztosíthatjuk, hogy az európai e-igazságszolgáltatás segítségével könnyebbé váljon az európai joggal, a nemzeti jogrendszerekkel és az európai eljárásokkal kapcsolatos információkhoz való hozzáférés. Arra is rá szeretnék mutatni, hogy a tervezett portál legkésőbb 2009 decemberében megkezdi működését Természetesen a munka során szorosan együttműködünk majd a Parlamenttel. Az európai e-igazságszolgáltatási portál tehát 2009 decemberére mindenképpen elkészül majd. A portál az európai polgárok számára készül, de vizsgáljuk azt is, hogy a segítségével hogyan lehetne azokat a kérdéseket megoldani, amelyek közvetlenül az igazságügyi hatóságokat érintik.
+<P>
+Ismét nagy örömmel látom az európai intézmények, a Tanács, a Parlament és a Bizottság szinergiáját; úgy gondolom, Wallis asszony, hogy a francia elnökség és Rachida Dati teljesítették az Ön kérését, hogy legyünk óvatosak és ambícióink terjedjenek ki az e-igazságszolgáltatásra is. Afelől nyugodt lehet, hogy ebben a kérdésben biztosként teljes mértékben elkötelezett vagyok.
+<P>
+Végül következzen López-Istúriz White úr jelentése. Nagyon hálás vagyok neki azért, hogy Rachida Dati kiváló kezdeményezését követve Lille-ben együtt dolgozott velünk ezen a társadalom számára oly fontos kérdésen. Tudjuk, hogy a 65 éven felüliek száma egyre nő - ők már most is az európai lakosság 16%-át teszik ki -, így tisztában vagyunk a kiszolgáltatott felnőttek védelmének fontosságával. Ezért támogattuk határozottan azt a francia kezdeményezést, amely felkérte a tagállamokat, hogy ratifikálják a 2000. január 13-i Hágai Egyezményt. Rachida Dati elszántságának köszönhetően az Egyezmény 2009. január 1-jén életbe lép majd.
+<P>
+Rachida Dati felsorolta az Egyezményhez eddig csatlakozott országokat. Úgy gondolom, hogy ezen országok egyfajta dominóhatást indítanak majd el, és belépésük segít meggyőzni az összes tagállamot, hogy ratifikálják az egyezményt.
+<P>
+Igaz, hogy ehhez egyelőre nem állnak rendelkezésre létező, közösségi szintű jogi eszközök, viszont mindeddig nem érintettük egy meglévő eszköz fejlesztésének lehetőségét. Gondosan körül fogjuk járni az egyezmény alkalmazásának kérdését, és természetesen ezt a javaslatot be fogjuk építeni a stockholmi programba. Meg fogunk vizsgálni minden olyan intézkedést, amely lehetővé teszi a tagállamok együttműködését, és így talán lehetségessé válik egy ilyen irányú közösségi kezdeményezés is.
+<P>
+Erről az általam igen fontosnak tartott kérdésről ennyit tudok mondani. Mindenesetre köszönöm, hiszen ez a Rachida Dati jelenlétében lezajlott ma reggeli vita mindenképpen segített tisztábban látni, hogyan tehetnénk a stockholmi programot még nagyratörőbbé, hogy eleget tegyen az európai polgárok elvárásainak, akik az európai igazságügyi térség kialakítását várják tőlünk. Köszönöm a figyelmet.
+<P>
+
+<SPEAKER ID="029" NAME="Panayiotis Demetriou">
+az Állampolgári Jogi, Bel- és Igazságügyi Bizottság véleményének előadója. - (EL) Elnök úr, először is engedje meg, hogy gratuláljak a francia elnökségnek az eddigi - különösen az igazságügy területén elért - eredményeihez. Szeretnék gratulálni a biztos úrnak is. Az Állampolgári Jogi, Bel- és Igazságügyi Bizottság támogatja Antonio López-Istúriz White előadó a jelentésben kifejtett álláspontját. Idős embertársaink, akiknek a képességei korlátozottak, nem maradhatnak jogi védelem nélkül, csakúgy, mint ahogy semmilyen más, problémákkal küszködő csoport sem. Nem hagyhatjuk őket sorsukra, opportunista "védelmezők” kezében, akik esetenként megalázzák, kihasználják őket. Minden társadalom, minden jogállam köteles igazságügyi és egyéb hivatalos csatornákon keresztül megvédeni az idősek méltóságát és tulajdonát; az Európai Uniónak pedig határokon átnyúló kötelezettségei vannak. Kérem a Bizottságot, hogy segítsen nyomást gyakorolni a tagállamokra annak érdekében, hogy azok írják alá és ratifikálják a Hágai Egyezményt, amely ennek a védelemnek a kereteit adja meg. Kérem azon képviselőtársaimat is, akiknek országa még nem írta alá és ratifikálta az egyezményt, hogy tegyenek lépéseket a folyamat előmozdítása érdekében.
+<SPEAKER ID="030" NAME="Luca Romagnoli" LANGUAGE="IT">
+Elnök úr, hölgyeim és uraim! Szeretnék gratulálni a francia elnökségnek, Barrot biztos úrnak és minden előadónak, mert a technológiai fejlesztés megállíthatatlanul halad előre, és ezzel a fejlődéssel az igazságügynek is lépést kell tartania.
+<P>
+Úgy gondolom, hogy az infokommunikációs technológiáknak az igazságügyi adminisztratív folyamatokba történő bevezetése sok lehetőséget rejt magában: javíthatja az igazságügy működését, segíthet racionalizálni, egyszerűsíteni az eljárásokat és csökkenteni a költségeket. Az e-igazságszolgáltatás kétségtelen előnyökkel járhat és sokféle igényt kielégíthet, főleg az igazságszolgáltatáshoz való hozzáférés és a hatékonyság növelése, valamint az idő- és pénzmegtakarítás terén. Ezért nagyon fontos, hogy az e-igazságszolgáltatás keretében fejlesszék az információtechnológia használatát az igazságszolgáltatáson belül, főként, ha tekintetbe vesszük, hogy jelenleg tízmillió európai polgár érintett valamilyen határokon átnyúló polgári jogi ügyben, és ez a szám a jövőben várhatóan csak nőni fog.
+<P>
+A polgárok érdekein túl nem feledkezhetünk meg azokról sem, akik a jogi szektorban dolgoznak; nem feledkezhetünk meg az igazságügyi és büntetőjogi együttműködés területéről. Ahogyan már az Európai Bűnügyi Nyilvántartási Információs Rendszerről szóló (ECRIS) jelentés előadójaként is láthattam, az elektronikus igazságszolgáltatás lehetséges alkalmazási területe igen széles, és az európai igazságügyi térség fejlődésével és a technológiai fejlesztések haladásával párhuzamosan remélhetőleg még tovább fog bővülni. Ezért üdvözlöm Barrot biztos úr korábbi bejelentését, hogy a portál 2009 végére megkezdi működését.
+<P>
+Végezetül szeretném elmondani, hogy remélem, a mi Európánk végre képes lesz igazságos igazságszolgáltatási rendszert létrehozni, és hogy az érintettek megosztva vállalják majd a felelősséget. Saját országomban például sajnos gyakran előfordul, hogy a nyomozó fél túl magas árat fizet és az elhúzódó eljárás végül felmentésbe torkollik. Olaszországban a bíróknak nincs polgári jogi felelőssége a bírói tévedések kapcsán - ezt a súlyos társadalmi igazságtalanságot orvosolni kell. Remélem, hogy az európai igazságügyi térség előbb vagy utóbb segít felszámolni ezt a hatalmas igazságtalanságot.
+<P>
+Még egyszer köszönöm a francia elnökség erőfeszítéseit ebben a kérdésben, és köszönöm Diana Wallis munkáját is.
+<SPEAKER ID="031" NAME="Jean-Paul Gauzès">
+a PPE-DE képviselőcsoport nevében. - (FR) Elnök úr, Dati asszony, Barrot úr! Először is, szeretném kifejezni elismerésemet a francia elnökség és személy szerint Rachida Dati erőfeszítései kapcsán, melyeket polgártársaink érdekében a jogi terület szabadságának és hatékonyságának javításáért tett.
+<P>
+Az előadók remek munkát végeztek. Ezért támogatja az Európai Néppárt (Kereszténydemokraták) és az Európai Demokraták Képviselőcsoportja ezt a három jelentést: a Wallis-jelentést, a López-Istúriz White-jelentést és a Medina Ortega-jelentést. Szeretnék azonban néhány részletet tisztázni képviselőcsoportunknak a Medina Ortega-jelentéssel kapcsolatos álláspontjáról - megjegyzem, hogy az előadóval egyébként szoros együttműködésben dolgoztam.
+<P>
+Miként Rachida Dati és Jacques Barrot is elmondta, a jelentés azt javasolja, hogy tegyünk komoly erőfeszítéseket a közokiratok kölcsönös elismerése érdekében. A jelentés közzétételekor vita alakult ki a terminológiával kapcsolatban.
+<P>
+Mi a magunk részéről azt gondoljuk, hogy ez a jelentés a közokiratokról szól, melyek jellegzetességeit az esetjog lefekteti; s ezért figyelmünknek csak a közokiratokra kellene korlátozódnia, elkerülve a jogi zavarokat, melyeket az okozhat, ha szerencsétlen kifejezésekkel próbáljuk kitágítani a közokirat fogalmát.
+<P>
+Dati asszony és Barrot úr elmondta a közokiratok jellegzetességeit, nem kívánom elismételni az elhangzottakat. Annyit szeretnék csak elmondani, hogy ha vita alakul ki más iratokkal kapcsolatban, amelyek gyakorlatilag személyek közötti szerződésnek tekinthetők, az nem képezi a saját kezdeményezésű jelentés témáját, amely csakis az esetjogban közokiratnak tekintett dokumentumok kölcsönös elismerésével foglalkozik. Végül pedig még egyszer szeretnék köszönetet mondani Medina Ortega úrnak remek munkájáért.
+<SPEAKER ID="032" NAME="Manuel Medina Ortega" LANGUAGE="ES">
+Elnök úr, hirtelen új szerepben találtam magam, hiszen most nem jelentésem előadójaként beszélek, hanem a szocialista képviselőcsoport nevében mondok véleményt mindhárom jelentésről.
+<P>
+Egy dolog mind a háromban közös: mindegyik célja a polgárok helyzetének javítása. Az igazságügy területén a polgárok helyzetét csak bizonyos egyensúlyi elvek alapján lehet javítani, bizonyos tényezők figyelembevételével. Az elektronikus igazságszolgáltatás területén például az új technológiák iránti lelkesedésünkben nem szabad túlzott elragadtatásba esnünk, ha ezek a polgároknak nyújtott garanciákat fenyegetik. Más szóval, ha például mindenkinek email-címet szeretnénk adni, azzal kizárhatjuk az igazságszolgáltatásból azokat, akiknek nincs internet-hozzáférése.
+<P>
+Ami a közokiratokról szóló jelentésemet illeti, mind a Tanács hivatalban lévő elnöke, Rachida Dati, mind Barrot úr kiemelte a jogi garanciák fontosságát. A jogi erővel rendelkező dokumentumok több országban történő elfogadása a cél, de nem fogadhatunk el bármilyen dokumentumot, ha annak hatályosságával kapcsolatban kételyek merülnek fel. Tehát, még ha egy magánokiratot közjegyző hitelesít is egy olyan országban, ahol nincsenek közokiratok, az nem lehet olyan végrehajtható értékű, mint a kontinentális jogban a közjegyzői dokumentumok, hiszen ezeknek teljesen más kötelező végrehajtható értéke van.
+<P>
+Az a fontos tehát, hogy a piacok hatékony működésének igénye és az Európai Unión belüli szabad mozgás igénye közötti egyensúly keresése során nem szabad megfeledkeznünk a kulcsfontosságú jogi garanciákról. Jogi garanciák nélkül, az embereknek nyújtott garanciák nélkül nincs törvény. Ez tehát az oka annak, hogy a jelentésekről való szavazáskor a szocialista képviselőcsoport tovább fogja finomítani álláspontját, elsősorban a polgárok - az átlagpolgár, nem pedig a legnagyobb hatalmúak - érdekeinek védelmében.
+<SPEAKER ID="033" NAME="Diana Wallis">
+az ALDE képviselőcsoport nevében. - Elnök úr, úgy gondolom és remélem, hogy képviselőcsoportom támogatni fogja jómagam és López-Istúriz White úr jelentését is.
+<P>
+Most a Medina Ortega-jelentésről szeretnék szólni, mert azzal kapcsolatban jónéhány képviselőnek vannak ellenvetései. Mindannyiunk szeme előtt ugyanaz a cél lebeg: mivel az ítéletek szabad mozgása, elismerése már megvalósult, most a közokiratok szabad mozgását szeretnénk elérni. Ez utóbbihoz hozzátenném: "és az azokkal egyenértékű dokumentumokét”. Sokan beszéltek ma a polgárok életének megkönnyítéséről. Számomra ez azt jelenti, hogy könnyítsük meg az összes európai polgár életét; nem lenne helyes, ha több ország és jogi hagyomány ki lenne zárva a közös igazságügyi térségből. Ez történik majd akkor, ha nem vagyunk nyitottak, türelmesek és toleránsak az olyan jogrendszerek iránt, amelyek első ránézésre nagyon különbözőnek tűnnek, de valójában eléggé hasonló módon működnek.
+<P>
+Sikerült elérni például az okmányok kölcsönös elismerését. Nincs racionális oka, hogy a közokiratokat miért ne lehetne kölcsönösen elismerni, amikor mindegyik szerződés vagy közjegyzői eljárás útján jön létre, csak némileg más módon és formában.
+<P>
+Annyit kérek, hogy fogadják el a ma benyújtott módosító indítványokat. Lehet, hogy ezek nem kerülnek elfogadásra, de valamennyi azon az eszmén alapul, hogy Európa minden polgárának és minden jogi kultúrájának igazságos bánásmódot kell biztosítani. Senkit sem szabad kizárnunk.
+<SPEAKER ID="034" NAME="Ryszard Czarnecki" LANGUAGE="PL">
+Elnök úr, három nagyon fontos jelentés fekszik előttünk. Külön köszönetet szeretnék mondani Diana Wallisnak rendkívül széles körű, alapos, hozzáértő és magas színvonalú jeletéséért, amely a probléma minden aspektusára kitér. A Parlament egyetért Diana Wallisszal abban, hogy milyen fontos ez a probléma, amely az uniós tagállamok polgárainak legalább 2%-át érinti. Az Európai Unió 500 millió polgára közül 10 millió érintett valamilyen, a határokon átnyúló peres ügyben. Az ő számukra a legmodernebb IT rendszerek alkalmazása az igazságszolgáltatásban döntő jelentőségű lehet, hiszen ez a jogi eljárásokat hatékonyabbá, egyszerűbbé és gyorsabbá teheti.
+<P>
+A javaslataink, amennyiben az Európai Bizottság azokat elfogadja, megkönnyíthetik az igazságszolgáltatáshoz való hozzáférést, és ezenkívül csökkentik majd a bírósági eljárások költségeit is, ami minden polgár számára fontos eredmény. Indokoltnak tűnik az igény, hogy két e-igazságszolgáltatási portált hozzunk létre. Az első a polgárokat szolgálná és biztosítaná, hogy az üzletemberek több nyelven kaphassanak jogi tanácsokat. A másik portál a jogi szakma képviselői számára készülne: jogászoknak, bíróknak, ügyészeknek, ügyvédeknek és az igazságszolgáltatásban dolgozó tisztviselőknek.
+<P>
+Az új technológiák segíthetnek a nemzetközi bűnözés elleni küzdelemben és a bűnmegelőzésben is, arról már nem is szólva, hogy a videokonferenciáknak a bírósági eljárások során történő széles körű alkalmazása milyen kézenfekvő módon segítheti a vallomástételt.
+<SPEAKER ID="035" NAME="Rareş-Lucian Niculescu" AFFILIATION="PPE-DE">
+(RO) Létfontosságú, hogy az új technológiákat a lehető legszélesebb körben alkalmazzák az igazságszolgáltatásban. Nem hagyhatjuk, hogy az igazságszolgáltatás ebből a szempontból ilyen messzire lemaradjon a többi terület mögött. Azt már szinte mondanom sem kell, hogy ebben a témában nagyon alaposan át kell gondolnunk a követendő stratégiát. A jelenlegi helyzetet vizsgálva azonban a realitások talaján kell maradnunk.
+<P>
+A XXI. század Európájában - ahogy a jelentés is rámutat - még vannak olyan bíróságok, ahol nincs számítógép, nincs internetkapcsolat. Bármilyen keresési módszert alkalmazzunk is, még mindig eléggé nehéz hozzájutni a jogi információkhoz, és ez érvényes a jog területén dolgozókra és a jogaikat védeni kívánó polgárokra egyaránt. Meg vagyok győződve arról, hogy ezen hiányosságok pótlására további források állnak majd rendelkezésre, mind a polgári, mind a bűnügyi igazságszolgáltatás európai finanszírozási rendszerében. Hasonlóképpen a tagállamok részéről további erőfeszítésekre lesz szükség a jelenleg is elérhető források hatékonyabb felhasználása érdekében.
+<P>
+A jelentés kiemeli azt is, hogy nagyon hasonló problémák állnak fenn a polgári és kereskedelmi ügyek kapcsán az Európai Igazságügyi Hálózatban, amelyről mindössze két napja szavaztunk. Sajnálom, hogy erről a jelentésről nem volt vita. A hálózat működésének javítása kétségtelenül fontos, és Európa polgárai számára hozzáadott értéket jelent. Mindennek dacára ezen a területen az általam említett problémák továbbra is fennállnak: nem áll rendelkezésre elég információ, a fordítások nem érhetők el minden hivatalos nyelven, és általában véve a határokon átnyúló ügyekben nehezen hozzáférhető az igazságszolgáltatási rendszer.
+<P>
+Köszönöm a figyelmet. Remélem, hogy ezek a problémák, amelyeket a Parlament kiemelten kezel, a jövőben a Bizottság és a Tanács programjában is magasabb prioritást kapnak, már csak azért is, mert a polgárok konkrét intézkedéseket várnak az Európai Uniótól - olyan intézkedéseket, amelyek megkönnyítik mindennapi életüket.
+<SPEAKER ID="036" NAME="Neena Gill" AFFILIATION="PSE">
+Elnök úr, én mindhárom jelentést támogatom, de először is a gyámságról szeretnék beszélni. A legkiszolgáltatottabb polgárok védelmét rendkívül fontosnak érzem. Mindannyian tudjuk, hogy Európa lakossága egyre öregszik: mára a születéskor várható élettartam 80 évre nőtt, és 2050-re a lakosság 37%-a lesz 60 éven felüli. A lakosság egyre mobilisabb. Tavaly 400 000 ember vándorolt ki szülőhazámból, hogy nyugdíjas éveire más országban telepedjen le; fontos tehát, hogy nekik ugyanazt a védelmet biztosítsunk, mint amelyet otthon élveznének.
+<P>
+Ezek a demográfiai változások sok kihívás elé állítják az európai társadalmat; az egészségügyi és szociális ellátással kapcsolatos kérdéseket már korábban érintettük. Én úgy gondolom, hogy az idősebb generáció számára mindenképpen lehetővé kell tenni, hogy függetlenül, méltósággal élhessen.
+<P>
+Tavaly egy jelentés előadója voltam, amely annak biztosítására volt hivatott, hogy az idősebb polgárok hosszabb ideig megőrizzék egészségüket, és tovább élhessenek függetlenül. A ma megvitatásra kerülő jelentés véleményem szerint nagyon jól illik azokhoz a javaslatokhoz, amelyek azt célozzák, hogy az idősek, akárhol éljenek is, képesek maradjanak vigyázni tulajdonukra és gondoskodni magukról, anélkül, hogy kihasználnák őket, vagy visszaélnének a helyzetükkel. Aggódom azonban a Hágai Egyezmény miatt. Üdvözlöm a miniszter asszony ebben a kérdésben tett lépéseit, ugyanakkor viszont nem csak azt kell elérni, hogy a meglévő rendelkezéseket ratifikálják, hanem azt is, hogy azok valóban hatékonyak legyenek.
+<P>
+Hadd szóljak néhány szót a közokiratokról is. Örömmel látom a polgárokra nehezedő adminisztratív terhek csökkentésére irányuló kezdeményezéseket, de engem is aggaszt, hogy ez a jelentés nem veszi figyelembe, hogy az unióban mennyire különböző jogi hagyományok vannak, ideértve az eltérő jogi eszközöket, mint például az angliai közjegyzői okiratok, vagy éppen azt, hogy Angliában többféle közjegyzői szakma létezik. Úgy vélem, hogy a jelentés jelenlegi formájában alááshatja egyes tagállamok - különösen a saját országom - nemzeti jogát a vagyonok kezelése terén. Úgy gondolom, hogy az ilyen különbségek figyelmen kívül hagyása ellenkezik a kölcsönös elismerés elvével és azzal a céllal, hogy az igazságszolgáltatáshoz való jog minden polgár esetében érvényesülhessen. Ezért jómagam és delegációm támogatjuk Diana Wallis módosító indítványait.
+<P>
+Diana Wallisnak az e-igazságszolgáltatásról szóló jelentését támogatom. Úgy gondolom, hogy a másik két jelentésben felmerülő néhány kérdés is kapcsolódik ehhez a témához: arról van szó, hogy az Európai Unió polgárai az Unión belül mindenhol hozzáférhessenek az igazságszolgáltatáshoz.
+<SPEAKER ID="037" NAME="Cristian Silviu Buşoi" AFFILIATION="ALDE">
+(RO) Szeretnék gratulálni az előadóknak, Diana Wallisnak, Manuel Medina Ortegának és Antonio López-Istúriz White-nak kiváló jelentéseikhez. Az e-igazságszolgáltatásra egyértelműen szükség van, hiszen a becslések szerint 10 millió európai érintett valamilyen határokon átnyúló bírósági ügyben. Az információtechnológia használata az igazságszolgáltatásban igen nagy mértékben hozzájárulhat az európai jog és igazságszolgáltatás hozzáférhetőségének és hatékonyságának javításához. Ezért érdemel figyelmet Diana Wallis jelentése és munkája.
+<P>
+Ezenkívül úgy gondolom, hogy a közokiratokról szóló állásfoglalás különösen fontos. Román jogászként ki kell emelnem, hogy milyen hatalmas előnyökkel járhatna a közös közokiratok használata és a baráti, súrlódások nélkül működő igazságszolgáltatás. Igazság szerint Romániában - mint ahogy más, polgári jogot alkalmazó európai országokban is - a megelőző igazságszolgáltatás fő eszköze a közjegyző által kiállított közokirat. Megértem tehát, hogy Medina Ortega úr kizárólag a közokiratokkal kíván foglalkozni, és különbséget tenne a hatóságot képviselő szakértő által kiadott közokiratok és a magánszemélyek által aláírt iratok között.
+<P>
+Mindazonáltal, függetlenül a viták kimenetelétől és attól, hogy az egyenértékű iratok bekerülnek-e a javaslatba vagy egy másik kezdeményezés foglalkozik-e velük, úgy gondolom, hogy ennek a jelentésnek a polgárok és jogi biztonságuk védelmét, valamint a határokon átnyúló család- és tulajdonjogi kérdések rendezését kellene célul kitűznie, mégpedig a közokiratok kölcsönös elismerése útján.
+<SPEAKER ID="038" NAME="Bogusław Rogalski" AFFILIATION="UEN">
+(PL) Elnök úr, az Európai Uniónak foglalkoznia kell a lakosság elöregedésének problémájával, melynek forrása a születéskor várható élettartam számottevő növekedése. A folyamat eredményeképpen 2050-re az európai lakosság körülbelül 40%-a lesz 60 év feletti, 10%-a pedig 80 év feletti.
+<P>
+Ezek a demográfiai változások komoly kihatással lesznek a gazdaságra, a társadalomra, az egészségügyre és a költségvetésre. Ezért meg kell találnunk a megfelelő, konkrét védő mechanizmusokat, amelyek egyenlő jogokat garantálnak mindenkinek. A védelmet élvező személyek egyre több időt töltenek a lakóhelyük szerinti országon kívül, vagy kapnak kórházi kezelést külföldön; más országban tartózkodnak tehát, mint ahol tulajdonaik vannak. Ezért kell a jogi védelmi rendszernek biztosítania a bírósági döntések, a közigazgatási határozatok és az érintett személyek döntéseinek folyamatos érvényességét. Ez különösen a jövőbeni jogi védelemhez kötődő meghatalmazások szempontjából fontos, amelyeket minden tagállamban érvényesíteni kell.
+<P>
+Létre kell hozni tehát egy, a dokumentumok mozgását hatékonyan biztosító rendszert, különösen vészhelyzetek esetére, például arra az esetre, ha egy védelmet élvező személynek egy rövidebb külföldi tartózkodás alatt kórházi kezelésre van szüksége. Így az európaiak akadály nélkül élhetnének más tagállamokban, anélkül, hogy az orvosi kezeléshez való hatékony és gyors hozzáférés lehetőségét elveszítenék.
+<SPEAKER ID="039" NAME="Dushana Zdravkova" AFFILIATION="PPE-DE">
+(BG) Miniszter asszony, biztos úr, hölgyeim és uraim! Szeretném biztosítani Önöket arról, hogy a mai vitát igen fontosnak tartják mind az Európai Unió polgárai általában, mind jogásztársaim. Ezért is szeretnék gratulálni a jelentések előadóinak.
+<P>
+Egészen mostanáig karrierem az igazságügyben zajlott: az egyik legnagyobb bolgár bíróság elnöke voltam, ahol egyébként elsőként vezettük be az online technológiát az ügyek feldolgozásában; majd 2000-ig az Európa Tanácsban voltam az Információs és Jogi Szakértők Bizottságának elnöke. Ezért nagyon jól ismerem az e-igazságszolgáltatáshoz kapcsolódó kérdéseket. Amikor 1995-ben bevezettük az információtechnológiát, nem is gondoltam volna, hogy erre a témára felfigyel majd az Európai Parlament is. Ezért aztán nagy örömömre szolgál, hogy ma lehetőségem van ebben a témában felszólalni.
+<P>
+Külön szeretnék gratulálni Wallis asszonynak az e-igazságszolgáltatásról szóló jelentéséhez, mert úgy gondolom, hogy az információtechnológia és az új kommunikációs technológiák használata az igazságügyben a határokon átnyúló igazságügyi együttműködés további fejlődését hozza majd magával, s ugyanakkor megkönnyíti majd az Európai Unió polgárai számára az igazságszolgáltatáshoz való hozzáférést.
+<P>
+Szeretném azonban aláhúzni, hogy ezen a területen egy hatékony európai térség kialakításához létfontosságú, hogy intézményi szinten kidolgozásra kerüljön egy általános stratégia, és kidolgozásra kerüljenek a nemzetek közötti hatékony kommunikációt segítő általános szabványok is. Arról sem szabad megfeledkezni, hogy sok magasan képzett szakértőre is szükség lesz.
+<P>
+Csak ezen előfeltételek teljesítése esetén leszünk képesek kihasználni az új technológiák nyújtotta előnyöket a határokon átnyúló bűnözés elleni küzdelemben; és ugyanerre van szükség ahhoz is, hogy az igazságszolgáltatást mind a polgári, mind a kereskedelmi ügyekben hozzáférhetőbbé tehessük a polgárok számára.
+<P>
+Ennek tudatában azt kérem, hogy minden ide vonatkozó projekt kapjon támogatást: az online bűnügyi nyilvántartások rendszere, a fizetésképtelenségi nyilvántartások, vagy éppen a polgári és kereskedelmi ügyekben illetékes Európai Igazságügyi Hálózat. Csak így érhetjük el az Európai Unió egyik fő célját: a szorosabb kapcsolatot a polgárokkal.
+<SPEAKER ID="040" NAME="Lidia Joanna Geringer de Oedenberg" AFFILIATION="PSE">
+- (PL) Elnök úr, egy 2005. május 10-ei, a Parlamentnek és a Tanácsnak címzett, a hágai programról szóló közleményben a Bizottság leszögezte annak elsőrendű fontosságát, hogy 2011-re garantálni kell egy hatékonyan működő európai polgári jogi térség kialakítását a bírósági ítéletek elismerése és végrehajtása, valamint a kölcsönös elismerés elve tekintetében, hiszen az Európai Unió polgárai számára ezek az intézkedések jelentik a határokon átnyúló jogi védelem valódi eszközét.
+<P>
+Az Európai Unió egyre bővül, és polgárai egyre jobban hajlanak a mobilitásra. Mindeközben a közokiratok szempontjából a közösségi területen belüli mozgások problémákat okoznak. A tagállamok a közokiratok kölcsönös elismerésének problémájára sokféle megoldást alkalmaznak, emiatt azok mozgása igen bonyolult kérdéssé vált, s az átvihető dokumentumok száma és típusa korlátozódott.
+<P>
+A Bizottságnak azonnali és konkrét lépéseket kell tennie a közokiratoknak a tagállamokban történő végrehajtása és kölcsönös elismerése terén egy egységes, külön erre a célra tervezett rendszer bevezetésére, amely a polgárok és a vállalkozások mindennapi életét egyaránt megkönnyíti majd.
+<P>
+Ugyanakkor az ingatlantulajdon-regisztrációs rendszerek szerkezete és szerveződése az egyes tagállamokban oly mértékben eltér, hogy az ilyen bejegyzéseket ebbe a közösségi rendszerbe nem szabad bevonni. Ettől a kivételtől eltekintve fontos, hogy a közokiratok hitelességének, bizonyító erejének és végrehajthatóságának az adott tagállambeli felhasználás céljából történő elismerése csak olyan esetben legyen visszautasítható, ha komoly és megalapozott gyanú merül fel a közokirat hitelességét illetően, vagy elismerése ellenkezik az érintett tagállam közrendjével.
+<P>
+Végezetül szeretnék köszönetet mondani az előadónak, Medina Ortega úrnak alapos munkájáért.
+<SPEAKER ID="041" NAME="Toomas Savi" AFFILIATION="ALDE">
+Elnök úr, nagy örömmel fogadom azt a gondolatot, hogy a Bizottság dolgozzon ki egy e-igazságszolgáltatási cselekvési tervet. Igen nagy meglepetéssel hallottam, hogy ilyen irányú kezdeményezés eddig nem volt. Szeretnék köszönetet mondani Diana Wallis kollégámnak, hogy jelentésében ilyen kiválóan kezelte ezt a sürgős kérdést. A gyors technológiai fejlődés hatékony eszközöket ad a kezünkbe, amelyeket ki kell használni.
+<P>
+Sajnos azonban a fejlődés új kihívásokkal is jár, ideértve az elektronikus bűnözést, például a nem engedélyezett megfigyeléseket, a csalásokat, a kiberhadviselést és sok más jelenséget. Rég itt volt már az ideje, hogy az Európai Unió jogi eszközt hozzon létre az e-bűncselekmények definíciójáról, nyomozásáról és büntetéséről. Az e-bűnözés átlépi a határokat, ezért szupranacionális szinten kell foglalkozni vele. Bízom benne, hogy a Bizottság hamarosan jogalkotási kezdeményezéssel áll elő ezen a téren.
+<SPEAKER ID="042" NAME="Costas Botopoulos" AFFILIATION="PSE">
+Elnök úr, az e-igazságszolgáltatás - az elektronikus igazságszolgáltatás - a témánk; de vajon lehetséges-e egyáltalán ilyesmi egy olyan területen, amelyet alapvetően meghatároznak az emberi gyengeségek és erények, vagyis a mélyen emberi tulajdonságok? Nem! Lehetséges-e határok nélküli igazságszolgáltatás? Ahogy mondták, nem! Ez egy emberi tevékenység, amely a világ minden táján másképp zajlik.
+<P>
+De ez a két "nem” vajon azt is jelenti, hogy hátat kell fordítanunk a technológia fejlődésének? Természetesen nem! Ki kell használnunk az emberi innováció adta lehetőségeket. Információs portálra szükség van, adatcserére úgyszintén, akárcsak az igazságszolgáltatási rendszerek kölcsönös függetlenségének tudomásul vételére. Egy európai démosz létrehozása szintén kívánatos. De egy közös arctalan igazságszolgáltatás - bár nem állítom, hogy a jelentés ezt célozná - azt már nem!
+<P>
+Édesapám, aki bíró volt, nem örülne, ha az Európai Parlamentben én az elektronikus igazságszolgáltatást védelmezném. Ha innen kellene szólnom édesapámhoz, aki már a mennyben van, azt mondanám, hogy tudom, hogy az igazságszolgáltatásban mindig egy ember, a védője és a bíró áll - nem Isten színe előtt, hanem a saját lelkiismerete előtt.
+<SPEAKER ID="043" NAME="Nicolae Vlad Popa" AFFILIATION="PPE-DE">
+(RO) Szeretnék gratulálni a közokiratok Európán belüli mozgásáról szóló kezdeményezéshez, mivel ez tovább javítja majd a személyek és üzleti vállalkozások szabad mozgását az Európai Unióban. Habár a fizikai határok megszűntek, jogi határok továbbra is vannak, ezt mutatják azok a komplex, a hatóságok előtt aláírt szerződések alkalmazásához szükséges eljárások is, amelyek minden országban másképpen zajlanak.
+<P>
+Minden polgár számára meg kell adnunk annak lehetőségét, hogy az Európai Unió valamely tagállamában kiállított európai közokiratok rendelkezései további eljárások nélkül érvényesek legyenek a többi tagállamban is.
+<P>
+Üdvözlöm Wallis asszony e-igazságszolgáltatásról szóló kezdeményezését és jelentését, mivel úgy gondolom, hogy ennek a jelentésnek az elfogadása biztosítja majd, hogy Európa polgárai az információs és kommunikációs technológia segítségével is hozzáférhessenek az európai jogi és igazságszolgáltatási rendszerhez. A bizonyítékok gyors és minimális költségű feldolgozása és az igazságügyi eljárások egyszerű, gyakorlatias eszközök útján történő leegyszerűsítése megkönnyíti majd az igazságszolgáltatás rendszeréhez való hozzáférést a polgárok számára a határokon átnyúló peres ügyek esetén. Ennek elérése érdekében...
+<SPEAKER ID="044" NAME="Armando França" AFFILIATION="PSE">
+(PT) Elnök úr, biztos úr, Dati asszony! Az e-igazságszolgáltatás fontos lépés a joghoz, igazságszolgáltatáshoz és a bírósági eljáráshoz való hozzáférés biztosításában. Üdvözlöm ezt a kezdeményezést és gratulálok az előadónak és a francia elnökségnek. Az e-igazságszolgáltatási projekt a portugál elnökség alatt is megvitatásra került, így Portugáliáé lett a feladat, hogy irányítsa a mintaprojekt kidolgozását és végrehajtását, amely lehetőséget ad majd a polgároknak arra, hogy a szolgáltatásokat más tagállamokból is elérjék, a saját nyelvükön, ráadásul egyszerűbben, olcsóbban és kényelmesebben.
+<P>
+Ezt a többnyelvű portált úgy kell kialakítani, hogy tájékoztatást nyújtson a jogi segítséget és általános jogi tanácsokat kereső polgároknak és vállalkozásoknak a határokon átnyúló jogi problémák kapcsán. Az e-igazságszolgáltatási portált egy olyan egységnek kellene koordinálnia és kezelnie, amely a különböző tagállamokból érkező hozzájárulásokat is koordinálja, biztosítva azok interoperabilitását. Az e-igazságszolgáltatási projekt segítséget jelent majd a polgároknak és megerősíti demokratikus értékeinket. Nagy örömmel hallottam a hírt, hogy a portál 2009 decemberére beindul.
+<SPEAKER ID="045" NAME="Marcin Libicki" AFFILIATION="UEN">
+(PL) Elnök úr, először is szeretnék gratulálni Wallis asszonynak remek jelentéséhez, és egyben felhívnám a figyelmet néhány kérdésre. A Petíciós Bizottság elnökeként feltűnt nekem, hogy az Európai Unió polgárai milyen sok esetben nincsenek tisztában a jogaikkal; más esetekben pedig azt gondolják, hogy beavatkozhatnak egy-egy olyan ügybe, amelybe valójában nincs joguk beleszólni. Ezért ez az internetes portál, az e-igazságszolgáltatási portál kétségtelenül hasznos lehet majd; segíthet az Európai Unió polgárainak kapcsolatba lépni az Európai Parlamenttel és a Petíciós Bizottsággal.
+<P>
+Szeretném felhívni a figyelmet egy másik kérdésre is, amelyet Wallis asszony a beszédében megemlített: arra, hogy a helyi törvényeket tiszteletben kell tartanunk. Ezt a kérdést 250 éve is felvetette a nagy francia filozófus, Charles de Montesquieu, aki azt mondta, hogy a magasabb területi szintű törvényhozás folyamán sohasem szabad elfelejteni, hogy a kis régiók, a kisebb területek - ebben az esetben az Európai Unió tagállamai - saját hagyományokkal rendelkeznek, amelyeket tiszteletben kell tartani.
+<SPEAKER ID="046" NAME="Elnök">
+Hölgyeim és uraim, az Európai Parlament Elnökségében néhány napja zajlott vita során az a vélemény alakult ki, hogy azok a képviselők, akik egy vitában már felszólaltak, még egyszer ne kapjanak szót. Ennek dacára, a karácsony szellemében - ahogy Spanyolországban mondjuk - most kivételt teszek, és megadom a szót Luca Romagnolinak.
+<SPEAKER ID="047" NAME="Luca Romagnoli" AFFILIATION="NI">
+(IT) Elnök úr, hölgyeim és uraim! Nem szólhatok mindenki nevében, de remélem, hogy a független képviselők egyetértenek velem abban, hogy a közös igazságügyi térség vitathatatlan előnyt jelent az uniós polgárok számára, és ennek megfelelően támogatni fogják a kezdeményezést.
+<P>
+Hölgyeim és uraim, majdnem mindannyian jelen voltunk a teremben néhány perccel ezelőtt, így nem kívánom még egyszer elismételni, ami az imént elhangzott. Inkább mindannyiuknak, és külön Európának és az unió sok-sok polgárának, akik életminőségüket veszélyben érzik, jólétet és főleg igazságot kívánok az újévre.
+<SPEAKER ID="048" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Elnök úr, jó, hogy az Európai Unióban folyamatosan halad az igazságszolgáltatás integrációja, jóllehet ez a terület eddig hagyományosan a nemzetállamok hatáskörébe tartozott. Ez a trend összevág az unió polgárainak életkörülményeiben beállt változásokkal. De - és ezt ma már több alkalommal is megjegyezték - ez az integráció nem befolyásolhatja túlzottan nagy mértékben a hagyományos, és ami még fontosabb, jól működő, meglévő szerkezeteket. Nem lehet mindent szabványosítani.
+<P>
+A közokiratok és állami nyilvántartások rendszere sok tagállamban teljesen eltér. Ausztriában és máshol is a közjegyzői hivatal nagy hagyományokkal rendelkező, megbízható, elismert nyilvántartó intézmény is egyben. Ezt nyomós ok nélkül nem szabad veszélybe sodorni; amiatt semmiképpen, hogy más országokban más a gyakorlat. Ezért tehát én igent mondok az integrációra és a kölcsönös nyitásra, de mindezt kiegyensúlyozott módon kell végrehajtani.
+<SPEAKER ID="049" NAME="Czesław Adam Siekierski" AFFILIATION="PPE-DE">
+(PL) Elnök úr, minden tagállamban más a jogrendszer, és mások az adminisztratív dokumentumok elismerésének elvei. Ezért a közokiratok lehető legegyszerűbb módon megvalósítható, határokon átnyúló elismerését kell megcéloznunk. Nem szabad azonban elfelejtenünk, hogy a helyzetek és okiratok bizonyossága és biztonsága elsőbbséget élvez a dokumentumok mozgásának megkönnyítésével szemben.
+<P>
+Harmonizálni kell az közigazgatási dokumentumok elismerésének elveit is annak érdekében, hogy a polgárok mindennapi élete és az üzleti vállalkozások működése könnyebbé váljon. Ezt el is várják tőlünk. Bizonyos, hogy ezen szabályok a polgárok számára idő- és pénzmegtakarítással járnak. Ki kell dolgoznunk a közokiratok kölcsönös elismerésének harmonizált alapjait, de ezt a rendszert semmiképpen sem szabad kiterjeszteni azokra a dokumentumokra, amelyek nem felelnek meg az alapvető elvárásoknak.
+<SPEAKER ID="050" NAME="Rachida Dati">
+a Tanács soros elnöke. - (FR) Elnök úr, biztos úr, hölgyeim és uraim! Az elnökség nagy figyelemmel követte az Önök munkáját ebben a három témában.
+<P>
+Jelentéseik mindenekelőtt azt mutatják, hogy milyen fontosnak tartják ezeket a témákat, és tudom, hogy máskor is lesz még alkalmunk megvitatni őket. Még egyszer szeretnék köszönetet mondani Medina Ortega úrnak az általa elmondottakért. A közokiratok mozgása és elismerése terén előrelépésekre van szükség.
+<P>
+Joggal hivatkozott az Unibank-ítéletre, amely valóban meghatározza a közokiratok definícióját és kijelöli az új intézkedések keretét. Ahogy azt Gauzès úr az imént elmondta, ez a kiváló jelentés hozzájárul majd az igazságügyi együttműködés javításához. Egyvalamit elmondanék azonban Wallis asszonynak: ennek az intézkedésnek minden európai polgárra vonatkoznia kell, de ehhez a valódi, kölcsönös bizalom feltételeit is meg kell teremtenünk. Ez a jogbiztonság előfeltétele.
+<P>
+Szeretném kiemelni Wallis asszony elektronikus igazságszolgáltatás terén végzett munkáját is. Igaza van abban, hogy ez az igazságszolgáltatáshoz való hozzáférés javítását eredményezheti. Ne felejtsük el azonban, hogy a becslések szerint 10 millió ember érintett határokon átnyúló jogvitákban; szükség van tehát a hatékony kommunikációs módszerekre. Egyetértek Barrot úrral; tovább fogunk dolgozni ezért a célért. Zdravkova asszony is hasonló szellemben szólalt fel, hiszen az igazságügyi rendszerek összekapcsolása sok új lehetőséget nyit majd meg előttünk.
+<P>
+Egyetértek López-Istúriz White úrral is: többet kell tennünk a kiszolgáltatott felnőttek, s különösen az idősek védelméért, és üdvözlöm a jelentés elfogadását, ami teljesen egybevág az ajánlásokkal és saját ambícióinkkal is. Hálás vagyok Gill asszony felszólalásáért is, hiszem hozzájárulása rendkívül nagy gyakorlati értékkel ruházta fel a jelentést.
+<P>
+Biztos úr, Ön is nagy érdeklődést mutatott a témák iránt, és remélem, hogy a mai vita gazdagítja majd azt a konzultációt, melyet, ha jól tudom, éppen jelenleg szervez.
+<P>
+Elnök úr, biztos úr, hölgyeim és uraim! Az elnökség nevében szeretnék köszönetet mondani az összes mai felszólalónak. Kiváló színvonalú és nagyon gyakorlatias felszólalásokat hallhattunk. Sőt, mi több: ezen felszólalások a jövőre nézve nagyon biztatóak, és mutatják, hogy az EU milyen fontosnak tartja az európai polgárok védelmét.
+<P>
+Véleményem szerint a francia elnökség az igazságügyben gyakorlati szempontok szerint járt el: a döntések és különösen a kitűzött célok gyakorlatiasak voltak. Nagyra értékelem a mai párbeszédet a Parlamenttel; ez nem csupán az Önök plenáris üléseken és a bizottságokban végzett munkájának továbbvitele, hanem egybevág a Franciaországban ilyen kérdésekben rendezett tematikus konferenciák témájával is.
+<P>
+Hálás vagyok a Tanács és a Parlament között kialakult remek együttműködésért, amely igen gyors előrelépéseket tett lehetővé. Emlékszem az elnökség elejére, amikor a célokról és a prioritásokról folyt a vita. A célokat sikerült elérni, a prioritásokat megerősíteni, és úgy gondolom, hogy a francia elnökséget követő elnökségek mindenképpen folytatni fogják ezt a munkát.
+<SPEAKER ID="051" NAME="Elnök">
+Kedves Dati asszony, elnökként köszönettel tartozom Önnek és a Tanács elnökségének az elmúlt hat hónapban tett erőfeszítéseikért és az elért eredményekért; de külön személyesen Önnek is szeretnék köszönetet mondani.
+<SPEAKER ID="052" NAME="Jacques Barrot">
+a Bizottság alelnöke. - (FR) Elnök úr, Dati asszony, hölgyeim és uraim! Először is a Medina Ortega-jelentéssel kapcsolatban arra szeretnék rámutatni, hogy a Brüsszel-I rendelet keretében a közokiratok elismeréséről külön üléseket fogunk tartani. A rendelet végrehajtásáról szóló jelentést 2009 elején fogjuk elfogadni, és akkor megvizsgáljuk majd az esetlegesen a 2009. év során történő későbbi felülvizsgálat lehetőségét is.
+<P>
+Másodszor pedig, ahogy elmondtam, az örökléssel és a házassággal kapcsolatos kérdésekkel foglalkozó rendelkezésről szintén lesz egy ülés. A közokiratok kérdése így napirendre kerül majd a zöld könyv kapcsán is, amely a tervek szerint általában véve minden hivatalos irattal foglalkozik majd, és várhatóan 2009 végére készül majd el.
+<P>
+Nem is lehet kérdés, hogy az okiratok és dokumentumok szabad mozgásán javítani kell, de - ahogy Rachida Dati nagyon helyesen mondta -, garantálni kell a jogbiztonságot is, ami csak a kölcsönös bizalom megléte mellett lehetséges. Ennyit szeretnék elmondani a közokiratokról szóló ülésekről, amelyekre igen nagy figyelmet fogunk fordítani az előttünk álló 2009-es évben.
+<P>
+Az e-igazságszolgáltatással kapcsolatban megerősíthetem, hogy a Bizottság jelenleg valósítja meg azokat a szerződéseket, amelyek alapján a megegyezés szerinti időkereten belül kifejleszthető az európai e-igazságszolgáltatási portál első változata; és, amint az korábban elhangzott, a bűnügyi nyilvántartások hálózatba kapcsolása már most igen jó előjel a jövőbeni e-igazságszolgáltatási kezdeményezés sikerére nézve.
+<P>
+Végül pedig, ahogy mondtam, nagy figyelemmel fogjuk követni a kiszolgáltatott személyek védelméről szóló Hágai Egyezmény végrehajtását. A 2009-es év során kiderül majd, hogy milyen javításokra lehet szükség, és hogy szükség lesz-e egy közösségi kezdeményezésre a Hágai Egyezményben foglalt rendelkezések formális végrehajtásának megkönnyítésére. Itt elsősorban a kiszolgáltatott személyek jogaival kapcsolatos iratoknak és információknak az érintettekhez való eljuttatására gondolok. Ennyi a Bizottság válasza.
+<P>
+Engedjenek meg még egy személyes megjegyzést is: ha lehet, elnök úr, gratulálnék Rachida Datinak, mivel a francia elnökség rendkívül aktív tevékenységet folytatott az igazságügy területén; ott voltak például a szemináriumok, amelyekre minket, a Parlament és a Bizottság képviselőit is meghívták. Ezek a szemináriumok nagyban gazdagították a vitát, és véleményem szerint ezek fektették le a stockholmi program alapjait.
+<P>
+Rendkívül hálás vagyok Önnek személyes elkötelezettségéért, a francia elnökség nyitottságáért és azért a munkáért, amelyet a tartási kötelezettséggel, a bűnügyi nyilvántartások megosztásával és az Eurojust megerősítésével kapcsolatban végzett. Szép munka volt, tiszta szívből gratulálok!
+<SPEAKER ID="053" NAME="Manuel Medina Ortega" LANGUAGE="ES">
+Habár a Parlamentben szükségszerűen nem áll rendelkezésre sok idő a felszólalásokra, azért az igazságügyre szánt egy óra alatt sikerült megvitatni a legfontosabb függőben lévő ügyek jó részét. A közokiratokkal kapcsolatban azt hiszem, egy dolgot mindenképpen tisztázni kell. A közokiratok az egy dolog, a magánokirat egész más, még akkor is, ha közjegyző közreműködésével készül.
+<P>
+A közjegyző közreműködésével készült magánokirat elismerhető, mint a felek akaratnyilatkozata. Vannak olyan jogrendszerek, ahol a közjegyző hatásköre erre is korlátozódik. Ez általánosan elismert dolog a szabad akarat elve és létezésének elismerése alapján.
+<P>
+Itt viszont egy egészen más fogalomról van szó. Közokiratokra, azaz olyan dokumentumokra vonatkozik a jelentés, amelyek hivatalos személy beavatkozásával jöttek létre - a kontinentális jogban ez általában közjegyzőt jelent. Ez az eljárás dokumentumot a bírósági ítélethez hasonló szintre emeli.
+<P>
+Szó sincsen az országok közötti diszkriminációról. Ha az európai közokiratokról szabályozás születik, akkor bármely európai ország elérheti egy ilyen dokumentum elismerését, de ehhez az kell, hogy az érintett jogrendszerben az irat ugyanolyan elismerést kapjon, mint a többiben.
+<P>
+Más szóval a közokiratok elismeréséhez szükséges harmadik elem az, hogy az nem járhat más jogi következményekkel származási országán kívül, mint azon belül. Eszerint tehát egy angol közjegyzői dokumentumot elismernének a kontinensen is, de csak ugyanabban a mértékben és módon, ahogyan az az angol jogban szerepel. Azon túlmenő elismerés nem lehetséges. Egy angol jogi dokumentum nem ismerhető el például Franciaországban úgy, mintha francia közokirat lenne, mivel teljesen más jellegű és nem rendelkezik a francia közokiratokéval azonos tulajdonságokkal.
+<P>
+Ez tehát nem jelent diszkriminációt. Csak arról van szó, hogy közös rendszert szeretnénk bevezetni az egész Európai Unióban, és véleményem szerint lehetséges az is, hogy néhány olyan országban, ahol jelenleg nincs ilyen dokumentum, azt bevezessék. Ebből a szempontból nagy előrelépést jelentene az egységes európai közokirat bevezetése.
+<SPEAKER ID="054" NAME="Diana Wallis">
+előadó. - Elnök úr, sajnos már nem állom meg, hogy fel ne szólaljak. Medina úr azt mondja, hogy a közokirat hivatalos személy által kiállított irat kell hogy legyen. Én magam is ezért emeltem ki, hogy a közokirattal kapcsolatban különleges körültekintéssel kell eljárni. Viszont, ha alaposan megvizsgáljuk az angol jogot, akkor kiderül, hogy az angol okiratokat kiállító ügyvéd a bíróság képviselőjeként és felhatalmazásával jár el, tehát igenis készíthet hivatalos iratnak számító iratot. Értsék meg kérem, így van. Vannak olyan dolgok, amelyek a különböző jogrendszerekben és jogi kultúrákban közösek, s emiatt több utánajárást és megfontolást igényelnek.
+<P>
+A jogi érvelésem után a francia elnökséghez fordulok: miniszter asszony, nagyon köszönöm együttműködését és a munkát, amelyet beosztottai és mások az elnökség alatt elvégeztek. Fantasztikus teljesítményt nyújtottak. Sok mindenen mentünk keresztül ez idő alatt, és nagyra értékelem az Ön elszántságát, elhivatottságát arra nézve, hogy az igazságszolgáltatás segítségével javítson a polgárok életén. Köszönöm. Hiányozni fog.
+<SPEAKER ID="055" NAME="Elnök">
+Most López-Istúriz White úrnak járna a szó, de honfitársam azt mondja, hogy idejéből egy percet át szeretne adni Toubon úrnak.
+<SPEAKER ID="056" NAME="Jacques Toubon" AFFILIATION="PPE-DE">
+- (FR) Elnök úr, hölgyeim és uraim, igazságügy-miniszter asszony! Pontosan ez utóbbi minőségemben szeretnék Önökhöz szólni a vita végén. Úgy gondolom - és ezt egykori igazságügy-miniszterként szerzett tapasztalataim alapján mondom -, hogy a portugál, a szlovén és a mostani, Rachida Dati által vezetett francia elnökség alatt Európa mérföldkőhöz érkezett, ahonnan már nem fog visszakanyarodni a korábbi állapothoz.
+<P>
+Ma arra teszünk kísérletet, hogy a jog- és az igazságügyi rendszert, amelyek természetükből adódóan gyanakvóak egymás felé, közelebb hozzuk, elismertessük egymással és harmonizáljuk. Egyes pontokon olyan jogszabályok meghozatalára is törekszünk, amelyek részben vagy egészében közösségi jellegűek, mint például a tartási kötelezettségre vonatkozó jogszabályok. Ebből következik, hogy most túllépünk azon, amit eddig elértünk, mert így kívánja a szükség: a biztonság, a büntetőjog vagy a terror elleni küzdelem terén egyaránt. Most olyan kérdésekkel foglalkozunk, amelyek kapcsán egész Európában érvényes szabályokat, a jogviták rendezésének módját kell lefektetnünk; mivel a polgárok egy része nem csak eredeti lakóhelyén él, hanem máshol is, vagy külföldön dolgozik, és egész Európában mindenkivel kapcsolatban áll.
+<P>
+Ezt ki kell emelni, elnök úr. Nem kétséges, hogy ez a francia elnökség védjegye. Ahogy az összes képviselőtársam elmondta, az igazságügyi együttműködésben és a jogalkotásban történelmi pillanathoz érkeztünk. Európa véleményem szerint teljesen megváltozik, ha az emberek valóban azt érzik majd, hogy az európai igazságügyi térség már több a puszta szép szavaknál.
+<SPEAKER ID="057" NAME="Antonio López-Istúriz White" LANGUAGE="ES">
+Elnök úr, azt hiszem, nagyon jó megoldás született, és hálás vagyok az Ön jómagam és a kollégám felé mutatott udvariasságáért.
+<P>
+A magam részéről köszönetet mondok az elhangzott felszólalásokért, és különösen azokért a kedves szavakért, amelyekkel néhányan jelentésemet méltatták. Köszönöm az Állampolgári Jogi, Bel- és Igazságügyi Bizottság tagjainak a jelentésem készítése során nyújtott együttműködését.
+<P>
+Külön szeretném megemlíteni Rogalski úr felszólalását. Spanyol és Baleár-szigeteki képviselőként a jelentésemet egyértelműen azon idősebb emberek megsegítése céljából írtam, akik helyi lakosként vagy turistaként Spanyolországban, a mi szigeteinken élnek. Rendkívül fontosnak érzem, hogy ők megkapják ezt a védelmet.
+<P>
+Bizonyára senkinek nem kerülte el a figyelmét, hogy saját országomat említettem, mint olyan országot, amely szeretném, ha hamarosan aláírná és ratifikálná a Hágai Egyezményt.
+<P>
+A miniszter asszonytól csak egyvalamiben különbözik a véleményem. Ahogy hallhatta, nem említettem meg más elnökségeket. Csatlakozom mindazokhoz, akik azt mondták, hogy szerettük volna, ha ez a francia elnökség jóval tovább tart. Sokunknak túl rövidnek tűnt.
+<P>
+Csak ennyi a véleménykülönbségünk.
+<SPEAKER ID="058" NAME="Elnök">
+A vitát lezárom.
+<P>
+A szavazásra ma délelőtt 11:30-kor kerül majd sor.
+<P>
+(Az ülést 11.00-kor felfüggesztik, és 11.35-kor újra megnyitják.)
+<P>
+Írásbeli nyilatkozatok (az eljárási szabályzat 142. cikke)
+<SPEAKER ID="059" NAME="Louis Grech  " AFFILIATION="PSE">
+írásban. - Ez a kezdeményezés világos és átfogó jogi keretet kíván létrehozni a közokiratok elismerésének általánossá tétele és végrehajtásuk elősegítése érdekében.
+<P>
+Eddig a közokiratok elismerése a tagállamok között rendszertelenül zajlott, bizonytalan jogi helyzetet, kiszámíthatatlanságot teremtve a polgárok és az üzleti vállalkozások számára.
+<P>
+A közokiratok kölcsönös elismerését és végrehajtását biztosító európai uniós rendszer létrehozása idő- és pénzmegtakarítást, sőt, ami még fontosabb, egyszerűbb eljárásokat jelent majd. Ez a lépés a közokiratok mozgását azáltal is megkönnyítené, hogy azokat biztonságosabbá tenné.
+<P>
+A közokiratok végrehajthatósága és nagyobb bizonyító ereje az áruk és szolgáltatások mozgásának elősegítésével hozzájárulna az unió gazdasági fejlődéséhez és integrációjához. Ez gazdasági válság idején különösen fontos; annál jobb, minél hamarabb sikerül alkalmazni ezt a jogszabályt.
+<P>
+Az is nagy megelégedésemre szolgál, hogy a jelentés hatóköre a közokiratokra korlátozódik, tiszteletben tartva a magánszemélyek közötti megállapodások és más köztes dokumentumkategóriák sajátosságait.

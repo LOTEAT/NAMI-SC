@@ -1,0 +1,6 @@
+<CHAPTER ID="007">
+Afstemningstid
+<SPEAKER ID="112" NAME="Formanden">
+Næste punkt på dagsordenen er afstemningen.
+<P>
+(Afstemningsresultat: se protokollen)

@@ -1,0 +1,12 @@
+<CHAPTER ID="001">
+Ouverture de la séance
+<P>
+(La séance est ouverte à 9h05)
+<SPEAKER ID="004" NAME="Le Président">
+Monsieur Carnero González, vous avez demandé la parole. Je suppose que c'est pour une motion de procédure. Quel article du règlement invoquez-vous?
+<SPEAKER ID="005" NAME="Carlos Carnero González" AFFILIATION="PSE">
+(ES) Oui, Monsieur le Président, je voudrais simplement signaler le fait que les médias indiquent qu'un citoyen européen, de nationalité espagnole, M. Emilio Morenatti, a été kidnappé ce matin par un groupe d'hommes armés. Je voudrais vous demander d'intervenir auprès de la présidence du Conseil et de la Commission pour qu'elles fassent tout ce qui est en leur pouvoir...
+<P>
+(Le Président retire la parole à l'orateur)
+<SPEAKER ID="006" NAME="Le Président">
+Il ne s'agit pas d'une motion de procédure. Je comprends votre inquiétude, mais le règlement doit être respecté. Je prends bonne note de votre intervention, merci.

@@ -1,0 +1,6 @@
+<CHAPTER ID="011">
+Hääletused (jätkamine) 
+<SPEAKER ID="150" NAME="Juhataja">
+Me jätkame hääletusega.
+<P>
+(Hääletuse tulemused ja muud üksikasjad: vt protokoll)

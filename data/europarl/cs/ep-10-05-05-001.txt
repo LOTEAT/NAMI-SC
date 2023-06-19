@@ -1,0 +1,10 @@
+<CHAPTER ID="001">
+Pokračování zasedání
+<SPEAKER ID="004" NAME="Předsedající">
+Prohlašuji přerušené zasedání Evropského parlamentu ze dne 22. dubna 2010 za obnovené.
+<P>
+Zápis z jednání ze dne 22. dubna 2010 byl rozdán.
+<P>
+Má někdo připomínky?
+<P>
+(Zápis z předchozího zasedání byl schválen)

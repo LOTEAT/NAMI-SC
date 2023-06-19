@@ -1,0 +1,12 @@
+<CHAPTER ID="008">
+Čas glasovanja
+<SPEAKER ID="106" NAME="Predsednik">
+Naslednja točka je glasovanje.
+<P>
+(Za podrobne izide glasovanja: glej zapisnik)
+<SPEAKER ID="107" NAME="Robert Goebbels" AFFILIATION="S&amp;D">
+(FR) Gospod predsednik, prosil bi vas, da še malo počakate, kajti številni poslanci še vedno tičijo v dvigalih. Nekdo je imel izjemno zamisel, da bi popravljali dvigala v edinem tednu v mesecu, ko smo v Strasbourgu, čeprav bi to lahko opravili v preostalih treh.
+<SPEAKER ID="108" NAME="Predsednik">
+Gospod Goebbels, ura je že več kot 12.00. Čakali smo že pet minut. Mislim, da lahko preidemo na glasovanje.
+<P>
+(Aplavz)

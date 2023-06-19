@@ -1,0 +1,114 @@
+<CHAPTER ID="019">
+Mobila satellittjänster (MSS) (debatt)
+<SPEAKER ID="452" NAME="Talmannen">
+Nästa punkt är ett betänkande av Fiona Hall, för utskottet för industri, forskning och energi, om förslaget till Europaparlamentets och rådets beslut om urval och tillståndsgivning avseende system som tillhandahåller mobila satellittjänster - C6-0257/2007 -.
+<SPEAKER ID="453" NAME="Viviane Reding">
+kommissionsledamot. - (EN) Herr talman! Först och främst vill jag tacka parlamentet för att det har prioriterat behandlingen av kommissionens förslag. Jag vet att det inte är så lätt gjort. Parlamentet har gått utöver det möjligas gräns för att nå fram, och har gjort ett bra arbete.
+<P>
+Mobila satellittjänster är en sektor som har en stor potential i Europa. Bland tillämpningarna märks allt ifrån snabba Internetanslutningar till mobil rundradio och räddningstjänster.
+<P>
+Utvecklingen av en konkurrenskraftig inre marknad för mobila satellittjänster kommer att resultera i betydande stordriftsfördelar och en effektivare spektrumanvändning. Detta kommer att gagna såväl företag som konsumenter i hela Europa. Tidsaspekten är dock synnerligen viktig om vi inte ska försitta det gyllene tillfälle som vi i dag har att främja mobila satellittjänster.
+<P>
+Genom detta initiativ, som i flera avseenden definitivt bryter ny mark, inrättas ett alleuropeiskt, bindande förfarande för urval av satellitoperatörer. Jag tackar varmt föredraganden Fiona Hall, liksom alla hennes kollegor i Europaparlamentet, för deras arbete med att ena parlamentet och rådet under en tidsram som förblir ytterst knapp.
+<P>
+Många av betänkandets ändringsförslag går ut på att lagstiftningsbeslutet ska innehålla detaljer som ursprungligen var avsedda att utarbetas under urvalsförfarandet. Hit hör bland annat en detaljerad beskrivning av urvalskriterierna, hur dessa kriterier ska viktas, tidsfristen för de tillstånd som de behöriga nationella myndigheterna beviljar, och mycket mer.
+<P>
+Normalt brukar lagstiftningstexter inte vara så här detaljerade. Kommissionen är ändå beredd att godta parlamentets ändringsförslag. Ändringarna kommer givetvis att bidra till att göra öppenheten ännu större än i förslaget. Förslagets huvuddrag kvarstår ju för övrigt i stort sett oförändrade, särskilt urvalsmekanismens konkurrensprägel, urvalsförfarandets grundläggande utformning och de viktigaste milstolparna och urvalskriterierna.
+<P>
+Men utöver dessa detaljer kräver parlamentet och rådet specifika kommittéförfaranden då ett antal moment i urvalsförfarandet utarbetas.
+<P>
+Jag måste påpeka att dessa förfaranden, som kan vara antingen föreskrivande eller med kontroll, är mindre flexibla och mer tidskrävande än de som kommissionen har föreslagit. Kommissionen är visserligen beredd att vara flexibel och godta dessa ändringsförslag, men alla måste vara på det klara med att detta kan göra urvalsförfarandet i sin helhet mer tidskrävande. Tidsaspekten är avgörande. Jag vill därför verkligen med kraft uppmana alla parter som deltar i genomförandet att vara flexibla angående de praktiska åtgärder som måste vidtas, så att urvalet av satellitoperatörer kan slutföras framgångsrikt så snart som möjligt.
+<P>
+Av samma orsak uppmanar jag rådet att göra allt som krävs för att nå en färdig överenskommelse innan rådet (telekommunikation) sammanträder i juni, så att ett beslut kan fattas. Jag är fullt medveten om att det ännu återstår mycket arbete för rättsexperterna i kommissionen, parlamentet och framför allt rådet.
+<P>
+Avslutningsvis uttrycker kommissionen sitt stöd för de ändringsförslag som Fiona Hall har lagt fram. De överensstämmer med det slovenska ordförandeskapets kompromisstext och är ett steg i riktning mot en överenskommelse vid första behandlingen.
+<P>
+Jag hyser gott om hopp om att parlamentet ger ett brett stöd till denna förnuftiga kompromiss.
+<SPEAKER ID="454" NAME="Fiona Hall">
+föredragande. - (EN) Herr talman, låt mig först och främst tacka alla som medverkat i arbetet med MSS-beslutet. Det här är inte den gamla vanliga artighetsfrasen. Att beslutet har kunnat föreläggas kammaren den här veckan som en överenskommelse vid första behandlingen beror i mångt och mycket på stödet från mina kollegor här i parlamentet och på att kommissionen varit så hjälpsam med att tillhandahålla kompletterande text. Jag skulle också varmt vilja tacka det slovenska ordförandeskapet, som i likhet med parlamentet var fast beslutet att främja Europas konkurrensförmåga genom en snabb överenskommelse.
+<P>
+I februari 2007 enades medlemsstaterna om att göra ett antal radiofrekvensband i 2 GHz-området tillgängliga för ett harmoniserat tillvägagångssätt med avseende på mobila satellittjänster. Man ville undvika störningar och fragmentering av den inre marknaden och skapa möjligheter för att göra europeisk MSS-teknik globalt konkurrenskraftig. Syftet med MSS-beslutet i dag är att fastställa hur operatörerna av dessa alleuropeiska mobila satellittjänster ska väljas ut och hur tillståndsgivningen ska gå till.
+<P>
+I diskussioner och förhandlingar om beslutet har skiljelinjerna inte så mycket varit partipolitiska som institutionella och geografiska. En del Europaparlamentariker har befarat att vissa moment i urvalet och tillståndsgivningen, i kommissionens förslag till beslut, var av politisk snarare än rent teknisk natur, och att dessa därför inte borde avgöras genom enkla kommittéförfaranden. Parlamentsledamöter och ministrar från medlemsstater i EU:s utkant var framför allt mycket oroliga för att urvalskriterierna skulle gynna operatörer som bara kunde erbjuda tjänster med täckning i centrala Europa.
+<P>
+Parlamentsledamöterna var också oroliga för att urvalskriterierna eventuellt inte beaktade att parlamentet ofta uttryckt sitt engagemang för tjänster av allmänt intresse och för att sprida dessa till landsbygden och till mindre utvecklade regioner. Dessa svårigheter löstes genom att detaljerade och tydlig formuleringar infördes i texten om vikten av geografisk täckning, av säkerhets- och räddningstjänster och av att även konsumenter på landsbygden och i ytterregioner omfattas av tjänsterna.
+<P>
+Särskilt viktig var den kompromiss som uppnåddes före omröstningen i utskottet för industrifrågor, forskning och energi, och som innebär att samtliga sökande förbinder sig att tillhandahålla tjänster som omfattar åtminstone 50 procent av befolkningen och åtminstone 60 procent av varje medlemsstats samlade landyta. Det är förvisso en bit kvar till den hundraprocentiga täckning som jag vet att somliga kollegor skulle ha föredragit, men med hänsyn till branschens tekniska och ekonomiska begränsningar anser jag att detta är en realistisk kompromiss. Medlemsstaterna har kvar sin rätt att för andra ändamål utnyttja den del av spektrumet som inte används för mobila satellittjänster, och får ta mobila satellitsystem i anspråk för räddningstjänster om större katastrofer inträffar.
+<P>
+Sammanfattningsvis anser jag att vi snabbt har nått en mycket bra överenskommelse som gagnar både medborgarna och företagen i branschen. Jag räknar med att uppgörelsen undertecknas slutgiltigt i juni, så att en första inbjudan att inkomma med ansökningar kan offentliggöras före sommaren. Och om medlemsstaterna och kommissionen i framtiden bestämmer sig för att de behöver en alleuropeisk tjänst i något särskilt frekvensband, hoppas jag att de i MSS-beslutet ser ett föredöme för hur en snabb överenskommelse kan uppnås genom att parlamentet får medverka då texten utformas.
+<SPEAKER ID="455" NAME="Ruth Hieronymi">
+föredragande av yttrandet för utskottet för kultur och utbildning. - (DE) Herr talman, jag vill också inleda med att tacka Fiona Hall för hennes ytterst ambitiösa arbete med att färdigställa detta besvärliga betänkande i tid. Hon lyckades!
+<P>
+Betänkandet var besvärligt eftersom det har handlat om att fastställa särskilda regler för alleuropeiska mobila satellittjänster innan översynen av telekompaketet har avslutats. Parlamentet, och i synnerhet föredraganden, förtjänar beröm för att ha lyckats formulera preliminära bestämmelser som ändå möjliggör en tillräcklig öppenhet, och som särskilt påpekar att undantagsbestämmelserna motiveras av ett enskilt undantagsfall.
+<P>
+Detta gläder mig verkligen. Vi i utskottet för kultur och utbildning stöder det uppnådda resultatet, eftersom det tar upp tre punkter som utskottet anser är särskilt viktiga. För det första respekterar beslutet medlemsstaternas behörighet att besluta om frekvenstilldelningen. För det andra hänvisar beslutet till direktivet för audiovisuella medietjänster, vilket för det tredje främjar mediapluralismen och den kulturella mångfalden inom dessa tjänster.
+<P>
+Nu återstår det bara att hoppas att arbetet faktiskt ger den utdelning vi önskar, och att vi verkligen får se de alleuropeiska mobila satellittjänster som detta beslut skapar sådana förväntningar på.
+<SPEAKER ID="456" NAME="Jean-Pierre Audy" LANGUAGE="FR">
+Herr talman, fru kommissionsledamot, mina damer och herrar! Först vill jag gratulera min kollega i kammaren Fiona Hall, som är föredragande i detta invecklade ärende, till den samarbetsanda hon visat gentemot föredragandena från de politiska grupperna. Bland dem märks min utomordentliga kollega Angelika Niebler, ordförande i det ansvariga utskottet för industrifrågor, forskning och energi, som uträttar ett enastående arbete.
+<P>
+Kompromissförslaget är acceptabelt. Det är frukten av många diskussioner med det slovenska ordförandeskapet, som jag gratulerar till ett väl genomfört arbete. Förslaget innebär sannolikt att vi når en överenskommelse vid första behandlingen, så att mobila satellittjänster snabbt kan bli verklighet.
+<P>
+Fru kommissionsledamot, detta ärende är en stor framgång för Europa. Det har hanterats väl, eftersom urvalet av framtidens mobila satellittjänster, exempelvis dataöverföring via bredband eller mobil-TV, sker på europeisk nivå. Det talar för högre effektivitet och lägre kostnader, samtidigt som gemenskapen kan påverka utbudet.
+<P>
+Vi inser att detta är en kompromiss. Resan har varit lång, och jag uppskattar att kommissionen har godtagit att fler medborgare får möjlighet att utnyttja de tjänster som tillhandahålls, genom att varje system redan från början måste täcka 60 procent av unionens samlade landyta, och hela unionens yta senast sju år efter start. Det gläder mig att det viktigaste täckningskriteriet är landyta och inte enbart befolkningsmängd. Det innebär att landsbygden och randområdena omfattas. För mig känns detta mycket angeläget. Det har dröjt länge innan den landsbygdsregion som jag själv kommer ifrån har börjat omfattas av samma tekniska infrastruktur som storstäderna, och vi är inte helt framme ännu. Vad det handlar om är att alla unionsmedborgare ska ha samma möjligheter, oavsett var i unionen de bor.
+<P>
+När parlamentet och rådet har godkänt texten uppmanar jag kommissionen att göra allt som står i dess makt för att snabbt få fart på de mobila satellittjänsterna. Prissättningen måste vara rimlig och behöver övervakas. Dessa tjänster utgör stora finansiella och tekniska utmaningar, men de ger Europa en chans att bygga upp en avancerad bransch för satellittjänster.
+<P>
+Slutligen hoppas jag att Europas djärva och snillrika leverantörer demonstrerar sin beprövade och enastående tekniska anpassningsförmåga genom att godta denna politiska kompromiss.
+<SPEAKER ID="457" NAME="Catherine Trautmann" LANGUAGE="FR">
+Herr talman, fru kommissionsledamot, mina damer och herrar! Äntligen är kvällen här då parlamentet ska rösta om S-bandet. Både operatörerna och flertalet av medlemsstaterna har sett fram emot denna omröstning med stor förväntan. Dessa frekvenser är mycket betydelsefulla. Hittills har de inte använts, men i dag är alla på det klara med att de kan användas för att överföra mobil-TV, data eller räddningstjänster. Parlamentet har uttryckt sitt särskilda engagemang för detta.
+<P>
+Den metod som valts är inte perfekt. Principen att inrätta en frekvensplan med många korta penseldrag är lite ”impressionistisk” och har sina begränsningar. Vi ska försöka åtgärda detta när vi granskar telekompaketet. Vad mobila satellittjänster beträffar är slutresultatet i princip en avvägning mellan politisk ambitionsnivå och vad som är ekonomiskt genomförbart. För att undvika risken för att det uppstår digitala klyftor mellan eller inom medlemsstaterna har parlamentet särskilt framhållit vikten av en stor geografisk täckning. Viktningen av kriterierna i ”skönhetstävlingen” ger uttryck för vad parlamentet och de europeiska medborgarna anser är viktigt, särskilt beträffande tjänster av allmänt intresse.
+<P>
+Slutligen överensstämmer möjligheten att delvis ta tilldelade frekvenser i anspråk vid katastrofsituationer med diskussioner som förs inom ITU. Vid förra årets världskonferens utvärderades hur telekommunikationsområdet kan bidra till att skydda människoliv.
+<P>
+Som skuggföredragande för socialistgruppen måste jag framhålla hur trevligt det var att arbeta ihop med den ytterst beslutsamma föredraganden Fiona Hall. Jag vill också ge det slovenska ordförandeskapet en eloge för dess insats, som gav resultat. Ordförandeskapet genomgick ett riktigt elddop när det fick ta itu med ett så svårhanterat ärende.
+<P>
+Slutligen vill jag berömma kommissionsledamoten Viviane Reding för hennes tillmötesgående inställning, det tekniska samarbetet mellan kommissionens avdelningar och sekretariatet i utskottet för industrifrågor, forskning och energi, samt de rätts- och språkexperter från de båda lagstiftarna som hjälpte oss att få till stånd en text med hög kvalitet. Det var också ett nöje att vara ordförande i de två trepartsöverläggningar som bidrog till att reda ut vilka frågor som skulle diskuteras och lösas.
+<P>
+Tidsfristen har varit kort i förhållande till vad som står på spel på satellitområdet, såväl ekonomiskt som för branschen. Ändå har parlamentet slutfört överenskommelsen med rådet i en anda av samförstånd. Den finansiella investeringen är stor och innebär ett risktagande, och vi vill alla att den kröns med framgång. Jag avslutar därför mitt inlägg med att uppmana ordförandeskapet och kommissionen att utfästa sig att iaktta tidsfristen för att anta texten, så att en inbjudan att inkomma med ansökningar kan offentliggöras före sommaren.
+<SPEAKER ID="458" NAME="Jaromír Kohlíček">
+för GUE/NGL-gruppen. - (CS) Herr talman, mina damer och herrar! I dag är Europeiska unionen en ledande samarbetspartner i rymdsektorn i världen. Det visar den ambitiösa planen att skjuta upp ett nät av satelliter för satellitnavigationssystemet Galileo. Alla satellitbaserade system bör använda samma radiofrekvensintervall, från 1980 till 2010 MHz och från 2170 till 2200 MHz. Denna resolution strävar förnuftigt nog efter att konsolidera splittrade bestämmelser i de enskilda länderna till en sammanhängande ram, och att införa gemensamma principer för hur tilldelningen av kommunikationsfrekvenser ska gå till. För varje enskild satellit bör frekvenserna vara desamma i alla EU:s medlemsstater. På så vis undanröjs risken för skadliga störningar samtidigt som satellitkommunikationssektorn kan utvecklas enhetligt. Europeiska unionen svarar i dag för 40 procent av världsmarknaden på satellitkommunikationsområdet. Det är därför lätt att inse att unionens viktiga roll i sektorn kan stärkas betydligt genom en gemensam, icke-diskriminerande politik.
+<P>
+Vi anser att lösningsförslaget starkt främjar utvecklingen av tekniska och ekonomiska komponenter för kommunikationen. Dagens nationella förvaltningstekniska hinder kan bara undanröjas genom en enhetlig lösning som omfattar samtliga 27 medlemsstater. Denna sektor utgör en möjlighet för den kvalificerade arbetskraften, och förtjänar därför vårt stöd. GUE/NGL-gruppen stöder enhälligt resolutionen.
+<SPEAKER ID="459" NAME="Nikolaos Vakalis" AFFILIATION="PPE-DE">
+(EL) Herr talman, mina damer och herrar! Låt mig först säga hur stolt jag är över Europaparlamentets arbete med det betänkande som vi debatterar just nu.
+<P>
+Detta är inte bara en fråga om teknisk innovation. Det handlar om att en rad nya tekniska tillämpningar kan spela en viktig roll, både för att förstärka EU:s sociala, ekonomiska och territoriella sammanhållning, och för att omvandla EU:s konventionella ekonomi till en kunskapsbaserad ekonomi.
+<P>
+I dag säger vi följande till de europeiska medborgarna: Sju år efter att MSS-systemet har genomförts kommer varje invånare i unionens mest avlägset belägna byar att kunna åtnjuta satellit- och markbaserade mobila tjänster. Det betyder höghastighetsanslutningar till Internet, mobil-TV och satellittelefoni, och framför allt att staten kan ge invånarna bättre skydd och hjälpinsatser vid naturkatastrofer.
+<P>
+Vi i utskottet för industrifrågor, forskning och energi har envist slagits för att inga regioner ska utestängas från dessa tjänster. Det skulle ha vidgat de digitala klyftorna mellan städer och randområden inom medlemsstaterna, och mer allmänt mellan EU:s regioner.
+<P>
+Jag vill avslutningsvis uppriktigt gratulera och tacka föredraganden Fiona Hall, liksom skuggföredragandena, för att de kämpat så hårt i parlamentet och med rådet för att dessa mycket viktiga bestämmelser ska införas i den slutliga lagstiftningstext som vi röstar om i morgon.
+<SPEAKER ID="460" NAME="Atanas Paparizov" AFFILIATION="PSE">
+(BG) Herr talman! Jag vill gratulera föredraganden Fiona Hall till att hon verkat för att samtliga unionsmedborgare i samtliga medlemsstater ska ha tillgång till mobila satellittjänster.
+<P>
+Vi har kammarens ansträngningar att tacka för att kriteriet alleuropeisk täckning tillmäts störst vikt. Övriga kriterier rör huruvida operatörernas tjänster omfattar randområden och glesbygd, eller andra tjänster av allmänt intresse som räddningstjänst och katastrofinsatser.
+<P>
+Med resolutionen som utgångspunkt skapas en verklig möjlighet för enskilda personer och företag från länder i EU:s utkant, exempelvis mitt hemland Republiken Bulgarien, att få tillgång till alleuropeiska mobila satellittjänster: bredbandsanslutning till Internet, mobila multimediatjänster och tjänster som skyddar befolkningen vid naturkatastrofer och industriolyckor. Härigenom blir det givetvis lättare för länder i utkanten av Europeiska unionen att stärka sin konkurrenskraft.
+<SPEAKER ID="461" NAME="Anni Podimata" AFFILIATION="PSE">
+(EL) Herr talman, fru kommissionsledamot! Radiospektrumet tillhör alla, men om vi förlitar oss enbart på marknadskrafterna kommer inte alla att få tillgång till denna kommunikationsvärld. Här behövs en blandad politisk och konsumentekonomisk ansats. Vid tilldelningen av spektrumfrekvenser bör man först och främst se till det sociala, kulturella och ekonomiska värdet, snarare än enbart till att öka MSS-leverantörernas eller statens intäkter.
+<P>
+Fru kommissionsledamot, jag får erkänna att jag först blev besviken när jag såg vilka kriterier som ska styra urvalet av MSS-operatörer. Särskilt otillräckligt är kravet på 60 procents geografisk täckning i unionen, jämfört med alleuropeisk geografisk täckning respektive alleuropeiskt utbud av mobila satellittjänster. I länder som Grekland, där det finns vidsträckta bergs- och skärgårdsområden, är det svårt att investera i heltäckande fiberoptiska nät. Där blir MSS-utbudet särskilt viktigt. MSS gör det möjligt att tillhandahålla täckning överallt i medlemsstaterna. Det gagnar den ekonomiska utvecklingen, och överensstämmer med den reformerade Lissabonstrategin.
+<P>
+Jag vill framföra mitt tack till föredraganden Fiona Hall och till skuggföredraganden från min grupp, Catherine Trautmann. Tack vare deras insatser och rådets samarbetsvilja har vi nått fram till ett klart förbättrat förslag till resolution.
+<SPEAKER ID="462" NAME="Zdzisław Kazimierz Chmielewski" AFFILIATION="PPE-DE">
+(PL) Herr talman, målet för det kommissionsbeslut som parlamentet utvärderar är att lägga fram ett harmoniserat tillvägagångssätt med avseende på mobila satellittjänster i samtliga medlemsstater. Satellitkommunikation är inte bunden till några gränser, vilket gör det uppenbart att frågan måste lösas på europeisk nivå. Men vi får inte glömma de särskilda konsekvenserna av denna lösning, som innebär att vi måste vara mycket observanta när förfarandet sedan genomförs. Vi måste ge särskild akt på att de aktuella frekvensbanden utgör ett märkbart tillskott till de landbaserade kommunikationsnäten, framför allt i områden som hotas av fenomenet med digitala klyftor. Vi får inte handfallet låta denna del av spektrumet fragmenteras alltför mycket, så att vi kastar bort de ekonomiska fördelar som vi räknar med.
+<SPEAKER ID="463" NAME="Viviane Reding" LANGUAGE="FR">
+Herr talman, jag vill bara säga tack. Tack till parlamentet och tack till dess fölredragande Fiona Hall. De har förtjänat förtroendet från satellitbranschen, som är en näringsgren, och i synnerhet från de europeiska medborgarna, som får åtnjuta fördelarna av de digitala satellittjänsterna. Det handlar om telefoni, Internet, TV och dessutom säkerhetstjänster som kan bli särskilt betydelsefulla vid katastrofer. Detta är tjänster som kommer att få stor betydelse för vårt stora Europa.
+<P>
+Kommissionen kommer att göra sitt yttersta för att snarast offentliggöra en inbjudan att inkomma med ansökningar. Snarast betyder före sommarens slut.
+<P>
+Jag uppmanar därför rådet att handla snabbt, mycket snabbt, så att ministrarna kan besluta i juni. Därefter kan vi vidta de åtgärder som är förutsättningen för att de beslut som Europaparlamentet fattar i morgon - i halsbrytande fart, måste jag säga - genomförs till gagn för näringslivet och medborgarna.
+<P>
+Tack för ett föredömligt uträttat arbete!
+<SPEAKER ID="464" NAME="Fiona Hall">
+föredragande. - (EN) Herr talman! Det var verkligen bra att höra att kommissionsledamoten har för avsikt att driva på i denna fråga före sommaren. Både medborgarna och industrin skulle välkomna detta.
+<P>
+Jag vill hur som helst tacka alla för deras synpunkter i denna debatt och än en gång säga att det här inte hade varit möjligt om inte samarbetet varit så bra mellan alla som varit engagerade i att förhandla fram detta beslut.
+<SPEAKER ID="465" NAME="Talmannen">
+Debatten är härmed avslutad.
+<P>
+Omröstningen kommer att äga rum klockan 12 i morgon.

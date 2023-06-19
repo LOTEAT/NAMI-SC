@@ -1,0 +1,12 @@
+<CHAPTER ID="004">
+Approvazione del processo verbale della seduta precedente
+<SPEAKER ID="010" NAME="Presidente">
+Il processo verbale della seduta di giovedì 22 maggio 2008 è stato distribuito.
+<P>
+Vi sono osservazioni?
+<SPEAKER ID="011" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Signor Presidente, desidero ringraziare il personale di quest'Aula per aver organizzato la cerimonia di premiazione degli Energy Globe Awards, perché ha dato un prezioso esempio al mondo e ha suscitato un'eccellente impressione del nostro Parlamento. Grazie a tutti coloro che vi hanno partecipato.
+<SPEAKER ID="012" NAME="Presidente">
+Le è consentito esprimere queste parole di ringraziamento. Non figurava tra i punti del processo verbale, ma non importa.
+<P>
+(Il Parlamento approva il processo verbale della seduta precedente)

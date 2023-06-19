@@ -1,0 +1,16 @@
+<CHAPTER ID="004">
+Hääletused
+<SPEAKER ID="056" NAME="Juhataja">
+Järgmine päevakorrapunkt on hääletamine.
+<P>
+(Üksikasjalikud hääletustulemused: vt protokoll)
+<P>
+
+<SPEAKER ID="057" NAME="Monica Frassoni" AFFILIATION="Verts/ALE">
+(IT) Härra juhataja, lühike kõrvalmärkus seniks, kuni parlamendiliikmed istet võtavad.
+<P>
+Me muutsime kodukorda, sest liiga palju aega kulus kasututele aruteludele, ning otsustasime mitte arutada proua Aukeni koostatud raportit. Me oleme raisanud mittemillelegi tubli pooltunni, mida oleks võinud kasutada hulga paremini, arutades kodanike jaoks äärmiselt tähtsat dokumenti.
+<SPEAKER ID="058" NAME="Juhataja">
+Teie märkus edastatakse pädevatele organitele.
+<P>
+

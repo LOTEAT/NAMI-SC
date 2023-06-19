@@ -1,0 +1,10 @@
+<CHAPTER ID="002">
+Genehmigung des Protokolls der vorangegangenen Sitzung
+<SPEAKER ID="006" NAME="Der Präsident">
+Das Protokoll der Sitzung vom 26. Oktober 2006 wurde verteilt. Gibt es Einwände?
+<SPEAKER ID="007" NAME="Françoise Grossetête" AFFILIATION="PPE-DE">
+(FR) Herr Präsident! Ich möchte lediglich anmerken, dass ich am Donnerstag vergessen habe, mich in die Anwesenheitsliste einzutragen, doch habe ich an allen namentlichen Abstimmungen am Donnerstag Mittag und Donnerstag Abend teilgenommen.
+<SPEAKER ID="008" NAME="Der Präsident">
+Es werden entsprechende Schritte zur notwendigen Korrektur eingeleitet.
+<P>
+(Das Protokoll der vorangegangenen Sitzung wird genehmigt.)

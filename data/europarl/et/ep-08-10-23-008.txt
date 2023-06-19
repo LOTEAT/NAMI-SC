@@ -1,0 +1,4 @@
+<CHAPTER ID="008">
+Hääletused (jätkamine)
+<SPEAKER ID="060" NAME="President">
+Jätkame nüüd hääletamistega.

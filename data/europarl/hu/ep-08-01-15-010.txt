@@ -1,0 +1,14 @@
+<CHAPTER ID="010">
+Szavazások órája (folytatás) 
+<SPEAKER ID="110" NAME="Elnök">
+A következő napirendi pont a szavazások órája.
+<P>
+(A szavazás eredményei és részletei: lásd a jegyzőkönyvet)
+<SPEAKER ID="111" NAME="Graham Booth" AFFILIATION="IND/DEM">
+Elnök úr! Röviden fogalmazva úgy gondolom, hogy Ön valójában nem követte pontosan az eljárási szabályzatot a korábbi szavazás során.
+<P>
+Ön azt mondta "a szavazás megkezdődik”, de mielőtt bejelentette, hogy a "szavazás lezárult”, nem tette fel azt a kérdést, hogy "minden képviselő szavazott?”, és nem olvasta fel az eredményeket.
+<P>
+Úgy gondolom, hogy Ön nem követte sorrendet.
+<SPEAKER ID="112" NAME="Elnök">
+Booth úr, a szavazás eredménye látható a kijelzőn. Az Ön kérésének megfelelően a mai napon minden üggyel kapcsolatban név szerinti szavazást tartunk, pontosan ezt tesszük; én arra törekszem, hogy ez a szavazási forma minél zökkenőmentesebb legyen a Parlament számára, ha ez megfelel Önnek, Booth úr.

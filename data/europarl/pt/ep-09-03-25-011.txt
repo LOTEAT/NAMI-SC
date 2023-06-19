@@ -1,0 +1,270 @@
+<CHAPTER ID="011">
+Reforço da segurança e das liberdades fundamentais na Internet (debate) 
+<SPEAKER ID="415" NAME="Presidente">
+- Segue-se na ordem do dia o relatório de Stavros Lambrinidis, em nome da Comissão das Liberdades Cívicas, da Justiça e dos Assuntos Internos, que contém uma proposta de recomendação do Parlamento Europeu ao Conselho referente ao reforço da segurança e das liberdades fundamentais na Internet.
+<SPEAKER ID="416" NAME="Stavros Lambrinidis">
+relator. - (EL) Senhor Presidente, vivemos numa era em que toda a gente - governos, empresas privadas e até criminosos - procura o maior acesso possível aos nossos dados electrónicos, à nossa vida privada.
+<P>
+A Internet, em particular, fornece dados sobre as nossas vidas privadas, algo que era inimaginável há escassos anos. Paralelamente, é evidente que a Internet facilita o exercício dos direitos fundamentais, como a liberdade de expressão, a liberdade de acção política, a liberdade de conhecimento e educação e a liberdade de associação.
+<P>
+É menos evidente que corremos o perigo de estas mesmas liberdades serem violadas, em consequência da utilização da Internet, por meio da vigilância secreta, por parte dos governos, de empresas privadas ou até de criminosos, daquilo que fazemos ou visualizamos na Internet. Consequentemente, a forma de alcançarmos um equilíbrio nesta matéria, de regulamentarmos a Internet de maneira que permita tirar proveito dos seus benefícios e limitar os seus perigos óbvios, é ainda menos evidente.
+<P>
+O meu relatório tenta responder a estas questões. Entre outras coisas:
+<P>
+em primeiro lugar, solicita uma iniciativa europeia com vista a criar uma Carta dos Direitos da Internet global;
+<P>
+em segundo lugar, aponta a necessidade de uma luta eficaz mas proporcionada contra as velhas e novas formas de cibercriminalidade, como a usurpação de identidade e a protecção dos direitos de propriedade intelectual, enquanto salienta que a legislação não pode resultar na vigilância sistemática de todos os cidadãos, suspeitos ou não, inocentes ou culpados, uma vez que isto constituiria, evidentemente, uma notória invasão da sua privacidade;
+<P>
+em terceiro lugar, no que respeita ao direito de acesso à Internet dos cidadãos, insta os governos a garantirem o acesso à Internet dos cidadãos mais desfavorecidos nas regiões mais remotas;
+<P>
+em quarto lugar, salienta que a iliteracia digital será a nova iliteracia do século XXI, tal como não saber ler ou escrever foi no século XX, e que, por conseguinte, o acesso à Internet é um direito fundamental equivalente ao direito de acesso à escolarização;
+<P>
+em quinto lugar, solicita medidas para limitar o consentimento dos utilizadores, questão de grande relevância que discutirei em seguida.
+<P>
+A questão do consentimento é extremamente complicada e, se não a resolvermos de imediato, sofreremos as suas consequências mais tarde. Permitam-me dar-vos um exemplo: há algumas décadas, ninguém sabia qual era o jornal que eu lia; só a minha família e, talvez, alguns dos meus amigos. Por este motivo - e isto aplica-se principalmente às ditaduras -, os serviços secretos tentaram descobri-lo, para poderem criar um ficheiro com os meus dados. Para que pudessem dizer, "o Sr. Lambrinidis lê este ou aquele jornal, pelo que deve ser comunista ou pró-americano". Hoje, sempre que leio um jornal, deixo um rasto. Isto significa que as empresas privadas podem compilar "ficheiros" similares, podem traçar o meu perfil, com as políticas em que acredito, os meus hábitos alimentares e até a minha saúde. Significará o facto de eu visitar estes sítios Web que consinto que a minha sociedade retroceda 40 anos?
+<P>
+Precisamos urgentemente de aprovar leis sensatas que reflictam um equilíbrio entre o combate à criminalidade e a protecção dos direitos na era electrónica. Este equilíbrio parece difícil, mas não é. É exequível. Temos de parar de tratar o ciberespaço como se fosse algo exterior à nossa vida quotidiana, algo à parte. É a nossa vida. Isto significa que quaisquer direitos ou barreiras que se apliquem à polícia e às empresas privadas na Internet, têm também de se aplicar fora dela, caso contrário corremos o risco de suprimir liberdades por motivos de segurança e, no fim de contas, de nos vermos sem liberdades e sem segurança real.
+<P>
+Para terminar, dirijo os meus sinceros agradecimentos aos relatores-sombra de todos os grupos políticos que vejo aqui presentes pelo seu apoio considerável. Os meus agradecimentos a todos os deputados da Comissão das Liberdades Cívicas, da Justiça e dos Assuntos Internos, pelo apoio unânime que este relatório recebeu de todos os partidos. Aguardo com expectativa a sua aprovação em plenário.
+<SPEAKER ID="417" NAME="Ján Figeľ">
+Membro da Comissão. - (EN) Senhor Presidente, gostaria de agradecer não só ao Parlamento em geral, mas, sobretudo, ao senhor deputado Stavros Lambrinidis, pelo seu importante relatório, que contribui muito oportunamente para a promoção das liberdades fundamentais e da segurança na Internet.
+<P>
+Enquanto a Internet adquire um peso cada vez maior nas sociedades e economias modernas, reflectindo-se em muitas áreas das nossas vidas, o ritmo tremendo dos desenvolvimentos tecnológicos cria, paralelamente, desafios importantes que têm de ser abordados devidamente, se queremos tirar partido de todas as oportunidades da Internet e da sociedade da informação.
+<P>
+Partilhamos, em especial, as apreensões do senhor deputado Lambrinidis relativas à protecção dos dados pessoais, questão extremamente importante para os utilizadores da Internet. Permitam-me assegurar-vos que a Comissão continua empenhada no reforço dos direitos e das liberdades fundamentais dos cidadãos, e, em particular, em garantir um nível elevado de protecção da privacidade e dos dados pessoais, na Internet e noutros contextos.
+<P>
+Acredito firmemente que a busca da protecção da privacidade adequada não é contrária à necessidade de garantir um nível mais elevado de segurança. Com efeito, estes dois objectivos podem e devem ser perseguidos em sinergia.
+<P>
+A estabilidade e a segurança da Internet foram as nossas prioridades durante a Cimeira Mundial da Sociedade da Informação, em 2005, e continuamos a apostar nestes objectivos. Estas questões serão brevemente apresentadas no contexto de uma nova estratégia para a protecção das infra-estruturas de informação críticas e para aumentar o grau de preparação da Europa contra os ciberataques e as perturbações em grande escala. Esta estratégia engloba um plano de acção que define um roteiro com vista a promover princípios e directrizes para a estabilidade e a resiliência da Internet.
+<P>
+A cooperação estratégica com países terceiros será desenvolvida no âmbito desta estratégia, sobretudo através de diálogos sobre a sociedade da informação, enquanto meio para a construção de um consenso global nesta área. Paralelamente, a Comissão está convencida de que é necessário garantir o respeito pelas liberdades fundamentais, como a liberdade de expressão na Internet.
+<P>
+Repito que estes dois objectivos não são mutuamente exclusivos. O relatório analisa mais detalhadamente a possibilidade de desenvolver normas globais, a protecção de dados e a liberdade de expressão. A Comissão participa nas conferências internacionais anuais dos comissários europeus para a protecção de dados e acompanha os trabalhos em curso para a elaboração de possíveis normas internacionais relativas à protecção da privacidade e dos dados pessoais. Estamos plenamente empenhados na promoção dos níveis elevados de protecção de que os cidadãos da UE gozam actualmente.
+<P>
+Em matéria de liberdade de expressão, a Comissão continuará a promover este direito fundamental em fóruns internacionais. Por enquanto, consideramos que a elaboração de nova legislação nesta área não é o caminho a seguir. Já dispomos de uma série de instrumentos internacionais vinculativos nesta matéria. Nesta altura, acredito que seria útil promover um período de reflexão sobre as formas mais adequadas para fazer cumprir a legislação existente. O problema está na aplicação. Esta reflexão deve incluir e ajudar os actores comerciais globais a definirem melhor os seus papéis e as suas responsabilidades na promoção e no reforço da liberdade fundamental de expressão no ambiente em linha da Internet a nível mundial.
+<P>
+Permitam-me concluir com um comentário geral. Penso que devemos combater os graves desafios para os quais o relatório nos alerta e zelar por que o exercício concreto dos direitos e das liberdades não seja indevidamente limitado na Internet.
+<P>
+Por exemplo, desde 2006, um elemento essencial da estratégia da Comissão para uma sociedade da informação segura tem sido uma abordagem holística, que garante a coordenação entre as partes interessadas, mas que também reconhece que cada uma delas tem um papel e responsabilidades específicas a cumprir. É da responsabilidade de todos nós zelar por que as nossas acções na Internet não limitem indevidamente - e, se possível, promovam - a segurança de terceiros que utilizem este suporte.
+<P>
+Portanto, é num espírito de cooperação que a Comissão saúda e apoia o relatório em questão.
+<SPEAKER ID="418" NAME="Manolis Mavrommatis">
+relator de parecer da Comissão da Cultura e da Educação. - (EL) Senhor Presidente, Senhor Comissário, Senhoras e Senhores Deputados, em primeiro lugar, gostaria de agradecer ao relator, Stavros Lambrinidis, pelo importante relatório redigido e pelo seu empenho na protecção dos dados pessoais, princípio que a maioria de nós respeita, incluindo eu.
+<P>
+Na qualidade de relator de parecer da Comissão da Cultura e da Educação, considero que a Internet é uma plataforma excepcional para a disseminação da cultura e do conhecimento; saliento este facto para felicitar todos os meus ilustres amigos da Comissão da Cultura que votaram a favor do meu parecer.
+<P>
+Exemplos, como arquivos digitais de museus, livros, música e material audiovisual electrónico, podem ser acedidos em qualquer canto do mundo. Infelizmente, porém, no vasto mundo do ciberespaço, o material cultural não é devidamente protegido. A pirataria tende a ser a regra e não a excepção e são os autores que ficam a perder com a distribuição ilegal da sua propriedade intelectual. Ou seja, poetas, compositores, produtores e todos aqueles ligados ao processo criativo em geral.
+<P>
+Três coisas ajudam a pirataria a disseminar-se: os meios tecnológicos e o baixo custo das cópias, condições económicas adversas e a penetração da Internet.
+<P>
+A alteração 4 recupera a recomendação da Comissão da Cultura, no sentido de haver um equilíbrio equitativo entre os direitos e as liberdades de todas as partes envolvidas e de todos os direitos fundamentais dos indivíduos, com base na Carta dos Direitos Fundamentais da União Europeia, serem salvaguardados e protegidos no quadro da utilização generalizada da Internet.
+<P>
+Por este motivo, apoiamos esta alteração, que reitera que os direitos fundamentais têm todos o mesmo valor e devem ser todos protegidos na mesma medida.
+<SPEAKER ID="419" NAME="Nicolae Vlad Popa">
+em nome do grupo PPE-DE. - (RO) O relatório em apreço é o resultado da colaboração entre os membros deste Parlamento. Em consequência, gostaria de agradecer aos meus caros colegas, em especial ao senhor deputado Lambrinidis, assim como à senhora deputada Gacek, ao senhor deputado Alvaro, à senhora deputada Segelström e ao senhor deputado Mavrommatis, com quem tive o prazer de trabalhar, também na qualidade de relator-sombra.
+<P>
+Penso que o relatório aborda os principais assuntos de interesse em matéria de reforço da segurança e dos direitos humanos fundamentais na Internet, referindo-se à protecção dos direitos estipulados pela legislação específica em vigor, incluindo os seus aspectos digitais, e ao reconhecimento e desenvolvimento de novos princípios para controlar a Internet.
+<P>
+O texto conserva um bom equilíbrio entre a protecção da liberdade de expressão e da privacidade e a necessidade de dar continuidade à luta contra a cibercriminalidade, e salienta também o grave problema do controlo excessivo da actividade na Internet, que pode degenerar em novas formas de censura.
+<P>
+O relatório também aborda as questões relacionadas com a vertente educativa da Internet, a aprendizagem digital, a definição de identidade digital e o reconhecimento dos direitos dos utilizadores sobre os conteúdos publicados na Internet, assim como a protecção de dados de natureza pessoal, dando aos utilizadores a oportunidade de apagarem definitivamente os conteúdos que eles próprios publicam.
+<P>
+Estes são assuntos delicados, tendo em conta o contexto actual, em que as redes sociais são cada vez mais frequentadas pela nova geração, mas não só. Por este motivo, instei os meus colegas a votarem a favor do relatório com toda a convicção.
+<SPEAKER ID="420" NAME="Inger Segelström" LANGUAGE="SV">
+Senhor Presidente, gostaria de começar por agradecer ao senhor deputado Lambrinidis e a todos os membros da Comissão das Liberdades Cívicas, da Justiça e dos Assuntos Internos por este relatório tão construtivo e bem ponderado. Gostaria, também, de manifestar o meu agradecimento pelo apoio que recebi às minhas alterações. Este apoio representa precisamente a aprovação do reforço dos direitos dos utilizadores e consumidores.
+<P>
+A secção referente às aplicações da tecnologia - por exemplo, a monitorização do tráfego de dados na Internet - é muito importante. É positivo que o Parlamento Europeu esteja a afirmar enfaticamente que a privacidade e os direitos humanos dos cidadãos assumem prioridade.
+<P>
+O relatório deixa claro que o tráfego de dados na Internet só pode ser monitorizado quando houver suspeitas de um crime e no âmbito de um procedimento jurídico no seguimento de uma decisão judicial. Esta será uma base importante para a monitorização dos direitos civis. O relatório apresenta medidas necessárias na altura certa.
+<P>
+Fiquei surpreendida com as alterações apresentadas por membros do Grupo do Partido Popular Europeu (Democratas-Cristãos) e dos Democratas Europeus e do Grupo da Aliança dos Democratas e dos Liberais pela Europa. Estas propostas prejudicam os direitos civis e a privacidade dos cidadãos. As consequências possíveis da falta de controlo dos progressos técnicos não foram analisadas de forma crítica.
+<P>
+Evidentemente, a criminalidade na Internet e a exploração de crianças e jovens têm de ser combatidas. Contudo, as questões essenciais neste contexto são, por exemplo, o facto de o governo conservador da Suécia ter aprovado a chamada "Lei FRA", que implica a vigilância de cidadãos que não são criminosos nem cometeram qualquer crime, enquanto deveriam ser os cidadãos a escrutinar-nos. O relatório é uma forte crítica ao governo conservador da Suécia, que ignorou toda oposição e introduziu a Lei FRA no país. As autoridades da Suécia têm, agora, o direito de monitorizar o tráfego de dados na Internet, sem que se suspeite de que foi cometido um crime ou que haja qualquer risco para a segurança dos cidadãos ou da sociedade.
+<P>
+No seguimento da decisão de amanhã, parto do princípio que o governo sueco irá reconsiderar e alterar a lei. Caso contrário, estará em oposição ao Parlamento Europeu e aos representantes eleitos dos 27 países da UE.
+<SPEAKER ID="421" NAME="Alexander Alvaro">
+em nome do grupo ALDE. - (DE) Senhor Presidente, gostaria de começar por felicitar o senhor deputado Lambrinidis por um trabalho bem feito. O senhor deputado Lambrinidis envolveu todos os relatores-sombra na elaboração do relatório e fez tudo ao seu alcance para obter compromissos.
+<P>
+O relatório, que aborda as problemáticas relevantes da sociedade da informação, constitui um passo importante para a criação de uma Internet que garanta a segurança dos nossos cidadãos e as suas liberdades fundamentais. As fronteiras entre a liberdade e a segurança não terminam nas fronteiras do mundo virtual. O senhor deputado Lambrinidis teve em consideração, no seu relatório, a luta contra o cibercrime, a pornografia infantil, a usurpação de identidade e a fraude nesse domínio, assim como a violação dos direitos de autor. O relator tentou envolver a Europol e torna claro que as leis actuais do mundo físico se têm de aplicar também ao mundo virtual.
+<P>
+Paralelamente, o senhor deputado conseguiu estabelecer um equilíbrio entre a protecção dos direitos civis, a liberdade de expressão, a protecção de dados e o direito de apagar definitivamente o rasto digital pessoal na Internet. Até hoje, a Internet não esquece. Alguns de nós podem dar graças por a Internet ainda não existir quando tínhamos 13, 14, 15 ou 16 anos, altura em que cometemos os pecados da juventude, que não gostaríamos de encontrar no YouTube ou no Facebook.
+<P>
+O relator salientou a necessidade de acesso à informação e, acima de tudo, de acesso à Internet e de respeito pela propriedade intelectual. Sei que para muitos deputados o relatório não é suficientemente ambicioso no que respeita à protecção da propriedade intelectual e dos direitos de autor. Proponho que trabalhemos esta vertente com a directiva relativa à aplicação efectiva dos direitos de propriedade intelectual e sublinhemos estes pontos nessa mesma directiva.
+<P>
+O relatório evidencia que a censura na Internet ou o bloqueio do acesso à rede, como previsto ou aplicado por alguns Estados-Membros, são medidas indignas da nossa sociedade esclarecida e que a União Europeia não está a seguir o exemplo de Estados totalitários, impedindo o acesso dos cidadãos à informação ou fornecendo-lhes apenas a informação indispensável.
+<P>
+Estou muito satisfeito por dispormos de um relatório equilibrado, que tem em conta as necessidades da sociedade da informação, e ficaria muito contente se os grupos, incluindo o meu, apoiassem ao máximo o relatório na votação de amanhã, para que possamos desenvolver uma Internet que sirva os interesses da sociedade.
+<SPEAKER ID="422" NAME="Roberta Angelilli">
+em nome do grupo UEN. - (IT) Senhor Presidente, Senhoras e Senhores Deputados, já outros oradores antes de mim o disseram, mas gostaria de sublinhar que a Internet não deve ser criminalizada nem censurada, por ser fonte de oportunidades de comunicação, de socialização, de informação e de conhecimentos; no entanto, é necessário desenvolver uma estratégia global de combate à cibercriminalidade.
+<P>
+É necessário, em especial, proteger as crianças e educar e informar os pais e os educadores no que se refere aos novos riscos potenciais da Internet. Trata-se de objectivos relativamente aos quais a Europa deve poder agir com eficácia, e gostaria, por isso, de felicitar o relator pelo óptimo trabalho que desenvolveu.
+<P>
+No entanto, apesar de as legislações dos Estados-Membros preverem sanções e um nível de protecção bastante elevado contra os abusos, a exploração sexual de crianças e a pedopornografia em linha, é necessário aumentar o nível de protecção dos menores, dada a evolução contínua das novas tecnologias, nomeadamente da Internet, e o uso de novas formas de aliciamento sexual de menores por parte de pedófilos.
+<P>
+Justamente por este motivo pareceu-me oportuno propor uma alteração ao relatório, exortando explicitamente os Estados-Membros a actualizarem a legislação de protecção de menores no uso da Internet, em particular criminalizando o grooming, na definição que lhe é dada pela Convenção do Conselho da Europa relativa à Protecção das Crianças contra a Exploração Sexual e o Abuso Sexual, de Outubro de 2007.
+<SPEAKER ID="423" NAME="Eva-Britt Svensson" LANGUAGE="SV">
+Senhor Presidente, gostaria de agradecer ao senhor deputado Lambrinidis por ter conseguido respeitar a segurança na Internet e, ao mesmo tempo, proteger e respeitar os inestimáveis direitos fundamentais. Parto do princípio que a protecção dos direitos fundamentais, conforme consta do relatório, também será apoiada quando decidirmos sobre o pacote Telecom. Existe uma relação óbvia entre o relatório e o pacote Telecom. Espero que, nessa altura, também estejamos de acordo que é importante proteger as liberdades civis.
+<P>
+Como já vários intervenientes disseram, a Internet trouxe consigo novas oportunidades para a liberdade de expressão. Os cidadãos que, normalmente, não têm acesso aos fóruns de debate dos meios de comunicação de grande escala, podem agitar a opinião pública e defender causas. É uma nova arena para a troca de opiniões que é muito necessária para a mobilização política. A Internet proporciona aos cidadãos melhores possibilidades de escrutinarem os decisores políticos. O importante é que os cidadãos tenham a possibilidade de escrutinar os legisladores e outros detentores de poder. A Internet disponibilizou mais conhecimento. Acima de tudo, podemos contactar pessoas de diferentes culturas e de diferentes partes do mundo.
+<P>
+Neste debate, é importante zelarmos pela liberdade de expressão e por garantias contra a censura e o controlo da opinião, da informação e da formação da opinião, por exemplo. Os direitos humanos fundamentais, a liberdade de expressão e a privacidade são elementos importantes da democracia e têm de ser sempre protegidos e respeitados. Portanto, a Internet é um factor importante da sociedade democrática actual e assim deve permanecer.
+<P>
+Em consequência, gostaria que votássemos contra a alteração 5, que visa eliminar o texto "Assegure que a expressão de convicções políticas controversas através da Internet não constitua matéria penal". Se esta alteração for aprovada, representará um passo atrás para a democracia. Quem decide quais são as convicções políticas controversas? É um direito democrático poder expressar opiniões políticas diferentes.
+<P>
+O direito de os utilizadores da Internet poderem apagar definitivamente dados pessoais encontrados nos sítios Web também é importante. Evidentemente, temos de combater a criminalidade na Internet, como todas as actividades criminosas, mas isto tem de ser feito com segurança jurídica, em conformidade com o direito penal, como acontece com outros tipos de crime.
+<P>
+Os crimes na Internet cometidos contra crianças são particularmente graves. Nesta matéria, regemo-nos pela Convenção do Conselho da Europa relativa à Protecção das Crianças contra a Exploração Sexual e o Abuso Sexual. Outros grupos também foram afectados. Estou a pensar, em particular, nas mulheres que caíram nas malhas do comércio de escravos sexuais. A indústria do sexo instrumentaliza actualmente a Internet e a violência sexual que muitas mulheres e crianças sofrem. Neste contexto, gostaria de recordar aos meus colegas que podem apoiar uma declaração escrita que visa pôr fim a esta violência, ou seja, a Declaração Escrita n.º 94.
+<P>
+Finalmente, gostaria de referir o perigo que representa a chamada luta contra o terrorismo. Isto conduziu, ocasionalmente, a restrições governamentais insensatas à liberdade de expressão e à privacidade dos indivíduos. Estas restrições resultaram num risco de segurança para os cidadãos. Os serviços de segurança de vários países trocaram entre si dados pessoais obtidos através da monitorização da Internet. Isto colocou vidas em perigo, por exemplo das pessoas obrigadas a fugir dos seus próprios países por motivos de opressão política. Exorto-vos a apoiar veementemente o relatório na votação de amanhã.
+<SPEAKER ID="424" NAME="Hélène Goudin" LANGUAGE="SV">
+Senhor Presidente, fico fascinada, diariamente, com a ferramenta fantástica que a Internet é, mas, por mais que a UE o conteste, uma rede global de computadores não é uma rede europeia. Acreditar que uma lei de Bruxelas ou de Estrasburgo pode alterar isso é inacreditável e traduz um afastamento da realidade. Podemos argumentar, justificadamente, que a UE é o fórum errado para resolver o tipo de problema salientado no relatório. Permitam-me dar-vos dois exemplos. O relatório compara o direito à Internet com o direito à escolarização. Isto é, de certa maneira, ridículo quando sabemos que o direito ou a oportunidade de ir à escola não é um dado adquirido em muitos países da UE.
+<P>
+A protecção e a promoção dos direitos dos indivíduos na Internet e o equilíbrio que deve ser encontrado entre a privacidade e a segurança são extremamente importantes, mas também não são questões que devam ser resolvidas ao nível da UE. Este é um problema internacional que tem de ser abordado, em primeiro lugar, ao nível internacional.
+<P>
+Outra questão que me é muito cara é a da partilha de ficheiros. Nesta matéria, somos instados a aplicar medidas penais comuns para proteger os direitos de propriedade intelectual. Acredito convictamente que cabe aos Estados-Membros decidir o que constitui crime e quais, a haver, as consequências. É totalmente inaceitável que a UE enverede pelo caminho da indústria musical e cinematográfica, sobretudo tendo em conta que estamos a tentar criminalizar toda uma geração.
+<P>
+Por último, gostaria de dizer que qualquer tentativa de legislar nestas áreas se vai revelar difícil, uma vez que a tecnologia evolui muito mais depressa do que a política.
+<SPEAKER ID="425" NAME="Urszula Gacek" AFFILIATION="PPE-DE">
+- (EN) Senhor Presidente, gostaria de agradecer ao relator por ter acatado a minha sugestão, ao incentivar os fabricantes de software a tomarem medidas adicionais para bloquear o acesso a sítios Web pornográficos e violentos.
+<P>
+Este é um assunto que preocupa particularmente os pais. Faz parte da vida os nossos filhos terem mais noções de informática do que nós. Os pais podem ter uma vaga ideia de que é possível activar filtros nos programas de navegação na Internet, mas isto exige alguns conhecimentos desse software, assim como uma decisão consciente de activar o sistema.
+<P>
+Se, por omissão, o filtro fosse activado pelo fabricante, é provável que muitas mais crianças - incluindo os mais novos, que cada vez mais utilizam a Internet sem supervisão - estivessem protegidas contra a visualização involuntária de sítios Web de conteúdo prejudicial para elas. Apelo aos fabricantes que adoptem a nossa sugestão. Não devem ver isto como uma imposição ou uma restrição, mas sim como uma oportunidade de marketing. Se eu pudesse optar entre dois computadores idênticos, em que um deles ostenta um rótulo indicando que está preparado para crianças, confirmando a pré-instalação de um filtro, enquanto mãe, optaria por comprar este produto. Com o tempo, os pais que fizessem esta opção garantiriam que esta se tornaria a prática corrente na indústria. Espero verdadeiramente que consigamos lá chegar com a cooperação dos fabricantes.
+<SPEAKER ID="426" NAME="Alin Lucian Antochi" AFFILIATION="PSE">
+. - (RO) A Internet entrou numa nova fase, em que é não só considerada uma ferramenta vital nos negócios, mas também um fórum global para expressar diferentes opiniões.
+<P>
+Contudo, esta evolução gerou atitudes ambivalentes. Por um lado, a Internet continua a oferecer oportunidades fantásticas, agindo como catalisador do desenvolvimento educacional, cultural, económico e social; por outro lado, é vista como uma plataforma que pode ser usada para promover comportamentos violentos com consequências para a liberdade e a segurança dos indivíduos.
+<P>
+Além disso, devido à sua natureza global, a Internet tornou-se um perigo para a privacidade, pois as actividades dos cidadãos na Internet são, frequentemente, monitorizadas por governos, autoridades policiais, empresas e até por criminosos e terroristas, resultando, por vezes, na usurpação de identidade.
+<P>
+Nesta situação, temos de identificar a fronteira jurídica entre a protecção da segurança e das liberdades fundamentais dos cidadãos na Internet e a monitorização ilimitada das suas actividades por parte de várias autoridades, para que a legislação seja eficaz e proporcionada nas medidas adoptadas para combater a criminalidade. Por este motivo, é necessário definir normas globais em matéria de protecção de dados, segurança e liberdade de expressão através da cooperação permanente entre operadores e utilizadores da Internet.
+<P>
+Também é importante, e neste aspecto apoio plenamente o relator, examinar e estabelecer limites ao consentimento que pode ser solicitado aos utilizadores, por governos ou empresas privadas, no sentido de renunciarem a uma parte da sua privacidade em troca de certos serviços ou privilégios na Internet.
+<P>
+Por último, mas não menos importante, penso, Senhor Presidente, que os Estados-Membros têm de envidar esforços para alinhar as legislações nacionais em matéria de protecção dos direitos fundamentais na Internet, uma vez que isto também poderá ajudar a delinear uma estratégia conjunta de combate à cibercriminalidade ou ao terrorismo.
+<P>
+Quero felicitar o senhor deputado Lambrinidis e toda a equipa que contribuiu para a elaboração do relatório.
+<SPEAKER ID="427" NAME="Sophia in 't Veld" AFFILIATION="ALDE">
+- (NL) Senhor Presidente, também quero elogiar o relator, que preparou um relatório fantástico. Vou salientar com brevidade alguns pontos.
+<P>
+Primeiro que tudo, nos últimos anos, assistimos ao aumento do armazenamento de dados pessoais por parte das empresas e dos governos. Os governos utilizam as bases de dados das empresas, mas ainda vemos que se aplicam níveis diferentes de protecção ao primeiro e ao terceiro pilar - o que considero extremamente preocupante.
+<P>
+O segundo ponto - e estou satisfeita por a minha alteração nesta matéria ter sido aprovada - é que os criminosos também utilizam a Internet a seu favor, de todas as maneiras possíveis. A usurpação de identidade está a aumentar assustadoramente, pelo que temos de pedir à Comissão Europeia que crie um ponto de contacto para este tipo de roubo - não só para facilitar o intercâmbio de informações, mas também para ajudar as vítimas.
+<P>
+Em terceiro lugar, é verdade que são necessárias normas globais. Estamos a trabalhar com esse fim, mas estas normas têm de ser elaboradas no quadro de um processo democrático aberto e não de negociações entre representantes da Comissão Europeia e dos Estados Unidos.
+<P>
+Por último, enquanto a Comissão Europeia fala de liberdade e direitos civis, reparei que, sob a chefia do senhor Comissário Frattini e com a ajuda do Conselho, foram aprovadas inúmeras medidas nos últimos anos que tornam possível espiar os cidadãos vinte e quatro horas por dia e limitar as suas liberdades. Está na altura de avaliarmos o que tem estado a acontecer e as consequências daí resultantes. Por conseguinte, quero concluir com uma sugestão dirigida à Comissão: convido-a a instituir um comissário exclusivo para os direitos e liberdades civis na próxima legislatura.
+<SPEAKER ID="428" NAME="Presidente">
+- Concedi à senhora deputada in 't Veld algum tempo suplementar porque ela tem 400 seguidores no Twitter. Eu só tenho nove. Quatrocentos e cinquenta, agora.
+<SPEAKER ID="429" NAME="Jean-Paul Gauzès" AFFILIATION="PPE-DE">
+- (FR) Senhor Presidente, Senhor Comissário, Senhoras e Senhores Deputados, falo em nome do nosso colega, o senhor deputado Toubon.
+<P>
+Em primeiro lugar, quero agradecer ao senhor deputado Popa, que realizou um excelente trabalho ao alcançar um compromisso aceitável para todos, apesar das posições extremas adoptadas nesta matéria por alguns membros do Grupo Socialista no Parlamento Europeu e do Grupo dos Verdes/Aliança Livre Europeia.
+<P>
+O relatório levanta a importante questão de encontrar um equilíbrio entre a segurança e as liberdades fundamentais na Internet. Com efeito, apesar de, para muitos, esta nova tecnologia ser sinónimo de progresso e oportunidades, ela não é isenta de riscos. Por exemplo, é essencial garantir a liberdade de expressão e de informação neste novo meio de comunicação, ao mesmo tempo que se garante o respeito por outras liberdades fundamentais, como a protecção da vida privada e dos dados pessoais, e pela propriedade intelectual.
+<P>
+O relator, senhor deputado Lambrinidis, que realizou um trabalho excelente, teve em conta os novos tipos de crime na Internet e os perigos que representam, sobretudo para as crianças. Infelizmente, o relatório continua ambíguo e até perigoso noutros pontos.
+<P>
+O objectivo das alterações apresentadas pela senhora deputada Hieronymi, pelo senhor deputado Mavrommatis e pelo senhor deputado Toubon é tornar claro que os ataques às liberdades fundamentais não devem ser apoiados em nome da liberdade de expressão e de informação.
+<P>
+Os Estados-Membros e os operadores da Internet devem conservar algum espaço de manobra para que possam encontrar as melhores soluções para garantir que os direitos de alguns não impedem o exercício dos direitos de outros. As leis têm de se aplicar à Internet como se aplicam a todas as outras esferas. A Internet não pode ser um espaço virtual em que os actos que são considerados crime no mundo real são tidos como admissíveis e até são protegidos simplesmente em consequência da tecnologia e da maneira como é utilizada. É o Estado de direito que está em jogo nas nossas sociedades democráticas.
+<SPEAKER ID="430" NAME="Manuel Medina Ortega" AFFILIATION="PSE">
+- (ES) Senhor Presidente, gostaria de felicitar o meu colega e amigo, senhor deputado Lambrinidis, pelo relatório redigido e, além disso, pela explicação oral equilibrada sobre os objectivos do mesmo.
+<P>
+Trouxe comigo um livro, o Tratado que estabelece uma Constituição para a Europa. Este livro foi aprovado por 90% dos eleitores espanhóis e pela maioria dos parlamentos nacionais dos países a que pertencem os deputados europeus.
+<P>
+Não entrou em vigor devido a certas dificuldades de natureza política, mas é um texto essencial, porque incorpora - e, pessoalmente, vejo isto como um mandato atribuído pelos meus eleitores - a Carta dos Direitos Fundamentais da União Europeia. Penso que a Carta reúne os princípios definidos pelo senhor deputado Lambrinidis no seu relatório.
+<P>
+Em primeiro lugar, a Internet é uma área de liberdade, modernidade e igualdade de oportunidades, onde as pessoas comunicam umas com as outras, trocam informações e ideias e partilham conhecimentos. Este direito é reconhecido pelo artigo II-71.º do Tratado que estabelece uma Constituição para a Europa.
+<P>
+Em segundo lugar, a Internet deve proteger a liberdade e o desenvolvimento da sociedade da informação de uma maneira compatível com o respeito pela propriedade intelectual e a protecção da privacidade dos utilizadores. Especificamente, o direito à propriedade intelectual e o direito dos utilizadores à privacidade estão reconhecidos no artigo II-77.º do projecto de constituição europeia.
+<P>
+Em terceiro lugar, temos de procurar um equilíbrio adequado entre a protecção dos direitos, dos conteúdos disponíveis e do mercado legal de conteúdos digitais e a evolução que está aberta aos novos modelos empresariais que surgem na Internet. Temos, também, de abordar a questão da protecção dos dados pessoais, reconhecida pelo artigo II-68.º do projecto de constituição.
+<P>
+Portanto, penso que o relatório Lambrinidis aborda estas preocupações. Claramente, não se estende sobre as condições, os requisitos, as consequências e as sanções que resultam da utilização indevida da Internet, mas penso que esse papel caberia a um documento legislativo, que não é o que estamos a debater agora.
+<SPEAKER ID="431" NAME="Claire Gibault" AFFILIATION="ALDE">
+- (FR) Senhor Presidente, Senhor Comissário, Senhoras e Senhores Deputados, enquanto artista, fico triste e muito chocada com a falta de interesse demonstrada no relatório do senhor deputado Lambrinidis pelo sector cultural.
+<P>
+Sublinho que devemos, em todas as ocasiões, salvaguardar e proteger o conjunto dos direitos dos indivíduos, em conformidade com a Carta dos Direitos Fundamentais da União Europeia, e garantir os direitos e liberdades de todas as partes em questão. A sociedade da informação é um sector económico cada vez mais importante, mas também é uma fonte significativa de inovação e criatividade, em que assenta a economia moderna.
+<P>
+Isto implica, entre outras coisas, assegurar o acesso de todos a uma cultura diversificada e à educação, num contexto de respeito pelo direito comunitário, e reconhecer devidamente o valor do trabalho criativo dos autores e dos artistas intérpretes ou executantes, incluindo na economia digital. Contudo, este reconhecimento implica a remuneração dos artistas pela utilização diversificada da sua contribuição criativa, para que possam viver da sua profissão e a ela se possam consagrar com toda a liberdade.
+<P>
+Neste contexto, os direitos de propriedade intelectual não devem ser vistos como um obstáculo, mas sim como um propulsor de actividades criativas, sobretudo no contexto do desenvolvimento de novos serviços em linha.
+<P>
+Por outro lado, acredito que, mesmo na Internet, o discurso racista, do ódio ou revisionista deve ser objecto de procedimentos penais. A liberdade de expressão tem de ser exercida responsavelmente. Tem de se encontrar um equilíbrio entre a liberdade de acesso à Internet, o respeito pela privacidade e a protecção da propriedade intelectual. Por conseguinte, exorto todos os presentes a apoiarem as alterações 2 a 6, por mim apresentadas.
+<SPEAKER ID="432" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+- (EL) Senhor Presidente, tornou-se quase um hábito analisarmos em todas as sessões plenárias um relatório sobre a Internet. Isto é positivo, porque dá, finalmente, aos Estados-Membros e à União Europeia uma oportunidade de abordarem eficazmente as questões actuais relacionadas com a utilização da Internet. Felicito o meu ilustre amigo, senhor deputado Lambrinidis, por ter concordado incluir as alterações dos deputados no seu relatório exaustivo, adicionando, deste modo, vários aspectos novos à questão em debate.
+<P>
+Na última vez, o Parlamento examinou questões relacionadas com os jogos de vídeo na Internet e os perigos para os menores e o mecanismo de financiamento da União Europeia para uma Internet segura para os menores. O debate de hoje cada vez mais me convence que, em última análise, tudo se resume a uma questão de abordagem jurídica.
+<P>
+Por este motivo, penso que a única coisa que devemos solicitar é um estudo de natureza jurídica sobre os múltiplos problemas que surgem com a utilização da Internet. O relatório será útil enquanto catálogo daquilo que deve ser analisado em profundidade pelos peritos juristas, que realizarão o trabalho de investigação com vista a fornecer às várias partes interessadas referidas no relatório as ferramentas necessárias para elaborar legislação, a fim de salvaguardar o princípio do Estado de direito no que respeita à utilização da Internet de forma democrática. Naturalmente, não podemos falar de democracia quando nem todos os cidadãos têm o direito, independentemente da sua situação financeira, de utilizar a Internet. Hoje as coisas não são assim, mas esperamos que um dia venham a ser.
+<SPEAKER ID="433" NAME="Katrin Saks" AFFILIATION="PSE">
+- (ET) Senhoras e Senhores Deputados, conseguem imaginar a vida sem a Internet? Eu, pessoalmente, já não consigo. Venho da Estónia, que é um líder mundial na disponibilidade de acesso à Internet. Provavelmente por este motivo, temos mais experiência em matéria de perigos da Internet, comprovada pela guerra cibernética que atingiu o nosso país há dois anos e pelo facto de, segundo estudos internacionais, haver entre as nossas crianças mais vítimas de assédio cibernético do que em muitos outros países.
+<P>
+Através de vários relatórios aprovados nos últimos anos, o Parlamento Europeu tem tentado responder à pergunta "O que é a Internet?". Hoje, uma pergunta mais relevante seria se o mundo da Internet é um espaço à parte, ou seja, um mundo virtual que não pertence à vida real, ou se integra a esfera pública? Esta questão é discutida pelo senhor deputado Lambrinidis no relatório, no qual afirma que a nossa principal tarefa é encontrar um equilíbrio conveniente entre privacidade e segurança.
+<P>
+A liberdade de expressão é imediatamente invocada quando se fala em limitar a liberdade na Internet - a liberdade de expressão é o direito de disseminar ideias, opiniões, convicções e outra informação, mas também implica responsabilidade. Quero agradecer ao relator e espero que todos tenhamos força para encontrar a resposta às seguintes perguntas: O que é a Internet? Pode a Internet ser regulamentada? Em caso afirmativo, como deve essa regulamentação ser feita? Uma vez que a Internet é um dos sinais mais óbvios da globalização, a nossa abordagem também tem de ser internacional.
+<SPEAKER ID="434" NAME="Filiz Hakaeva Hyusmenova" AFFILIATION="ALDE">
+- (BG) Senhoras e Senhores Deputados, o conteúdo do relatório em apreço é plenamente merecedor do seu título. Abrange os direitos consagrados na Carta dos Direitos Fundamentais da União Europeia e na Convenção das Nações Unidas sobre os Direitos da Criança e tem como objectivo proteger as crianças da criminalidade. Parabéns ao relator.
+<P>
+A Internet é um mundo onde têm lugar acções que não estão explicitamente definidas como violações ou crimes contra os direitos e as liberdades. As oportunidades de expressão, de procura de informação e de entabular contactos sociais são muitas vezes substituídas pelos seus extremos opostos. A Internet é um terreno propício à ultrapassagem das regras e à ausência de restrições à expressão.
+<P>
+Em condições de anonimato e sem qualquer controlo, o resultado é uma negação da responsabilidade quanto à escolha e utilização de termos linguísticos. Frequentemente, estes termos são infiltrados pelo calão, pelo cinismo e até pela grosseria. Evoluem para uma linguagem de desconfiança e ódio, penetram no uso corrente, tornam-se um modelo a imitar e moldam uma certa atitude.
+<P>
+Esta linguagem não contribui para o bem-estar social, espiritual e moral das crianças, não cria cultura, nem forma valores. Por este motivo, foco a minha atenção na necessidade de realizar uma análise separada da linguagem utilizada na Internet e da sua influência no desenvolvimento pessoal das crianças.
+<SPEAKER ID="435" NAME="Csaba Sógor" AFFILIATION="PPE-DE">
+- (EN) Senhor Presidente, sou uma daquelas pessoas que gostaria de assegurar a continuidade da liberdade na Internet. Os criadores da Internet tinham muita fé na bondade do ser humano, e eu partilho essa fé. Infelizmente, temos de encarar o triste facto de que, tal como acontece em qualquer sociedade humana, também na Internet são necessárias leis para garantir que aqueles que não se conseguem proteger a si próprios também sejam protegidos. A segurança do indivíduo é um direito fundamental, na mesma medida que o direito à liberdade de expressão.
+<P>
+Abominações como a pornografia infantil e a pedofilia, assim como a fraude na Internet, têm de ser travadas. Não podemos tolerar predadores de qualquer tipo na Internet, e, enquanto debatemos este assunto de grande interesse, quero chamar a vossa atenção para um facto muito menos discutido: a Internet está repleta de sítios que incitam ao ódio, à violência e à intolerância para com todos os tipos de minorias, incluindo minorias étnicas. É um aspecto da Internet que merece a nossa atenção. Temos de zelar por que as minorias também se sintam protegidas. É inaceitável que muitos grupos extremistas utilizem a Internet para instigar o ódio e a xenofobia.
+<SPEAKER ID="436" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
+- (PL) Senhor Presidente, gostaria de chamar a atenção dos presentes para vários problemas relacionados com a Internet.
+<P>
+Em primeiro lugar, quero referir a protecção dos dados pessoais e a protecção da confidencialidade em relação ao voto electrónico, que permite às pessoas com deficiências exercerem os seus direitos enquanto cidadãos. Em segundo lugar, devo mencionar a protecção da propriedade intelectual associada ao material artístico que pode ser facilmente reencaminhado através da Internet. Outro assunto respeita à protecção das crianças contra conteúdos prejudiciais, como cenas de brutalidade e pornografia, por meio de filtros adequados e da educação dos pais. A quarta questão é o problema da protecção das crianças contra pedófilos e raptores e a possibilidade de localizar criminosos utilizando os rastos deixados na Internet, como endereços de pedófilos, ou filmagens de crimes em telemóvel, posteriormente publicadas na Internet. Se as declarações publicadas na Internet por um jovem alemão não tivessem sido ignoradas, as suas vítimas ainda estariam vivas, nomeadamente os estudantes e professores por ele alvejados. A questão seguinte, que é a mais importante, tem que ver com o respeito pela liberdade de expressão, e, nesta matéria, a lei deve ser respeitada tal como em todas as outras áreas. Alguns destes problemas exigem soluções técnicas novas. Felicito o relator.
+<SPEAKER ID="437" NAME="Ján Figeľ">
+Membro da Comissão. - (EN) Senhor Presidente, gostaria de agradecer a todos os intervenientes pelas contribuições empenhadas e interessantes. Quero, apenas, acrescentar dois pontos ao que disse no início. Partilhamos, por exemplo, preocupações quanto aos direitos de propriedade intelectual e à abordagem equilibrada necessária nesta matéria. Isto é importante para a evolução e para o desenvolvimento global da sociedade da informação. A salvaguarda dos direitos de propriedade tem de ser devidamente equilibrada com os direitos e liberdades fundamentais, que são enumerados no relatório, incluindo o direito à privacidade, à protecção dos dados pessoais e a participar na sociedade da informação.
+<P>
+Muitos de vós mencionaram a protecção das crianças - dos menores -, que são provavelmente aqueles que mais se vêem confrontados com estes desafios e que se sentam diariamente ao computador. Não só recomendo, como também convido os parceiros, os Estados-Membros e as instituições a cooperarem com o programa "Para uma Internet mais segura" 2009-2013. Este programa tem um orçamento considerável. Já foram realizadas acções em matéria de conteúdos impróprios ou ilegais, mas também contra comportamentos e condutas nocivas, como o aliciamento e o assédio, que foram mencionados.
+<P>
+São muitas as questões, mas advogaria a aplicação de políticas sérias relativamente aos compromissos, quer nacionais quer internacionais. Dispomos de uma directiva relativa à privacidade e às comunicações electrónicas, de muita acção concreta ou de planos de acção e de um programa europeu para a protecção das infra-estruturas críticas. Foi por este motivo que afirmei que não precisamos de mais legislação, mas sim de uma aplicação adequada e apropriada, e, claro, de continuar a evoluir e melhorar. Alguém referiu, justificadamente, o pacote Telecom. O trílogo de ontem dá-nos muita esperança de que será alcançado um acordo final.
+<P>
+Quero concluir dizendo que este ano foi designado Ano Europeu da Criatividade e Inovação e o lema é: imaginar, criar, inovar. Talvez não consigamos imaginar o mundo sem a Internet, mas é importante imaginar, criar e inovar para aumentarmos a segurança e a responsabilidade da humanidade.
+<SPEAKER ID="438" NAME="Stavros Lambrinidis">
+relator. - (EN) Senhor Presidente, quero agradecer à Comissão. Para facilitar a vida aos intérpretes - uma vez que estou a improvisar -, vou, excepcionalmente, falar em inglês.
+<P>
+Respeito as apreensões daqueles que estão preocupados com a protecção da propriedade intelectual. Mas fico com a impressão de que estão a travar uma batalha no relatório errado. O meu relatório não aborda só uma questão; é um relatório que fala, de forma geral, sobre a protecção dos direitos fundamentais e da segurança na Internet, e, com efeito, foi justamente por isso que recebeu o apoio de todos.
+<P>
+Contudo, na medida em que se refere aos direitos de propriedade intelectual, poderia pensar-se, ao ouvir-se algumas das intervenções, que o relatório os ignora. Permitam-me ler, em particular, até que ponto tentámos ser equilibrados com este relatório. Na alínea k) do n.º 1, instamos o Conselho a proceder "à adopção da directiva relativa a medidas penais, que tem por objectivo a aplicação dos direitos de propriedade intelectual, na sequência de uma avaliação, efectuada à luz da actual investigação em matéria de inovação, da medida em que são necessárias e proporcionais". É isto que está escrito no relatório.
+<P>
+As alterações, porém, são tudo menos equilibradas. Alterações que eliminam aquilo que o relatório solicita, ou seja, uma proibição da vigilância sistemática de todos os utilizadores de modo a proteger o direito à segurança e independentemente de eles serem ou não suspeitos ou culpados, são tudo menos equilibradas. Estas alterações instam-nos a abandonar completamente os direitos fundamentais para proteger outra coisa.
+<P>
+Em segundo lugar, alterações que apagam ou suavizam uma referência muito precisa e específica constante do relatório - que o discurso político controverso não deve ser criminalizado -, são alterações a que me oponho, e fico muito satisfeito por ouvir que muitos de vós partilham a minha posição.
+<P>
+O discurso político tem de ser protegido, sobretudo quando é controverso. Se todos os presentes nesta sala concordassem uns com os outros, não necessitaríamos de legislação em matéria de liberdade de expressão. É justamente para as ocasiões em estamos em desacordo - e, em especial, para proteger o discurso que pode ser particularmente revoltante para pessoas como eu ou outros - que temos essas leis. A referência constante do relatório não fala em discurso "criminoso". Fala especificamente em discurso "político controverso". Em consequência, insto todos os presentes a apoiar este parágrafo específico do relatório e a apoiar o relatório em geral.
+<P>
+Estou profundamente grato a todos os que estiveram hoje aqui presentes, até àqueles que discordam de mim. Sei que não é fácil. Obrigado pelo vosso apoio ao longo de todos os meses que conduziram a este relatório. Aguardo com expectativa a oportunidade de trabalhar convosco nos vossos relatórios e de vos retribuir a compreensão e o apoio na mesma medida.
+<SPEAKER ID="439" NAME="Presidente">
+- Obrigado, colegas. Obrigado, Senhor Deputado Mavrommatis, pelo seu parecer; agradeço especialmente ao relator, senhor deputado Lambrinidis, pelo sucesso alcançado e por um relatório importante e interessante.
+<P>
+Está encerrado o debate.
+<P>
+A votação terá lugar na quinta-feira, 26 de Março de 2009.
+<P>
+Declarações escritas (Artigo 142.º)
+<SPEAKER ID="440" NAME="Neena Gill  " LANGUAGE="EN">
+Felicito o relator por este relatório. Acredito que a Internet veio melhorar a vida dos europeus de variadíssimas formas. A Internet veio aumentar a nossa capacidade de aceder ao conhecimento, ajudar-nos a compreender o mundo à nossa volta e reforçar as nossas ligações sociais com os outros.
+<P>
+Mas os meus eleitores dizem-me que se encontram igualmente preocupados com os perigos da Internet. Dispomos de tecnologias notáveis, mas a própria liberdade que estas tecnologias nos proporcionam tem igualmente permitido abusos por parte de criminosos. Este relatório, com a sua ênfase nos direitos fundamentais, constituirá um passo significativo para tornar a Internet mais segura. No último período de sessões falámos sobre a necessidade de combater a pornografia infantil. Através de um equilíbrio entre liberdade e segurança, as propostas hoje votadas constituirão mais um instrumento vital na luta contra esta ameaça.
+<P>
+O relatório suscita igualmente preocupações sobre a literacia digital. Não podemos progredir enquanto sociedade se, ao promover liberdades para uns, estivermos a limitar os direitos daqueles que estão menos familiarizados com a Internet. Temos vindo a registar com satisfação as profundas mudanças trazidas pela Internet. Para que possamos evoluir ainda mais, a nossa ênfase deve agora ser colocada com o mesmo empenho no combate aos aspectos negativos desta revolução.
+<SPEAKER ID="983" NAME="Daciana Octavia Sârbu  " LANGUAGE="RO">
+É do conhecimento geral que a Internet está a tornar-se cada vez mais difícil de controlar; porém, a protecção do direito fundamental à privacidade na Internet e a garantia de uma Internet mais segura devem figurar entre as prioridades dos governos dos Estados-Membros.
+<P>
+O acesso à Internet oferece inúmeros benefícios, no entanto não podemos esquecer-nos dos perigos de abuso a que alguns utilizadores da Internet estão expostos.
+<P>
+Por essa razão, a fim de limitar esses abusos, é nosso dever definir normas em matéria de protecção de dados, segurança e liberdade de expressão tanto a nível europeu como a nível dos Estados-Membros.
+<P>
+Por outro lado, é urgente tomar medidas para combater a cibercriminalidade e, quanto a esta matéria, gostaria de sublinhar a importância do desenvolvimento de uma estratégia global.
+<P>
+Insisto em que, na luta contra a cibercriminalidade, haja uma cooperação activa entre as autoridades policiais, os prestadores de serviços de Internet, os utilizadores e outros agentes envolvidos.
+<P>
+Permitam-me concluir dizendo que o direito à educação e ao acesso à Internet, bem como a segurança e a protecção dos direitos dos utilizadores de serviços de Internet, têm de ser garantidos.

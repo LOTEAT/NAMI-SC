@@ -1,0 +1,12 @@
+<CHAPTER ID="005-06">
+6. Interoperabilität digitaler interaktiver Fernsehdienste (Abstimmung) 
+<P>
+- Bericht Weber
+<P>
+Vor der Abstimmung:
+<SPEAKER ID="090" NAME="Henri Weber">
+Berichterstatter. - (FR) Herr Präsident, verehrte Kolleginnen und Kollegen! Im Zuge der Konvergenz zwischen Fernsehen, Telekommunikation und Internet ist das Fernsehen interaktiv und der Zuschauer zum "Fernsehakteur" geworden.
+<P>
+Er kann nun Inhalte suchen, Programme auswählen, auf Sendungen reagieren, aber er benötigt dafür immer mehr Empfangsgeräte. Um deren Nutzung zu erleichtern und Mehrkosten für den Verbraucher zu vermeiden, müssen diese Geräte miteinander kommunizieren und arbeiten können. Dies nennt man Interoperabilität.
+<P>
+Der Ihnen vorgelegte Bericht hat die Förderung dieser Interoperabilität innerhalb der Europäischen Union zum Ziel. Außerdem soll die Wahrung des Informationspluralismus und der Vielfalt der Inhalte in diesem neuen technologischen Umfeld gewährleistet werden, was eine aktive, konstante und wachsame Politik von Seiten der Behörden auf nationaler und europäischer Ebene erforderlich macht.

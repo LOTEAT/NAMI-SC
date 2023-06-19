@@ -1,0 +1,12 @@
+<CHAPTER ID="004">
+Abstimmungsstunde
+<SPEAKER ID="078" NAME="Der Präsident">
+Das Wort hat Herr Rack für eine Frage zur Geschäftsordnung.
+<SPEAKER ID="079" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+Herr Präsident! Wenn ich es richtig sehe, sollte der Präsident die Abstimmung leiten. Er hat mehr als ein Dutzend Stellvertreter. Wenn er tatsächlich verhindert ist, dann sollte zumindest einer dieser Stellvertreter hier sein.
+<SPEAKER ID="080" NAME="Der Präsident">
+Nein, Herr Rack. Ich war beauftragt, die Abstimmungsstunde zu leiten. Ich kam ein wenig zu spät, weil ich auf dem Flughafen war, um den Emir von Katar zu empfangen, und sowohl auf dem Hin- als auch auf dem Rückweg ist eine kleine Verzögerung eingetreten.
+<P>
+Als nächster Punkt folgt die Abstimmungsstunde.
+<P>
+(Abstimmungsergebnisse und sonstige Einzelheiten der Abstimmung: siehe Protokoll)

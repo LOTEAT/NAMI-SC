@@ -1,0 +1,20 @@
+<CHAPTER ID="007">
+Heure des votes
+<SPEAKER ID="087" NAME="Le Président">
+L'ordre du jour appelle l'heure des votes.
+<P>
+(Pour les résultats des votes et autres détails les concernant: voir procès-verbal)
+<SPEAKER ID="088" NAME="Robert Atkins" AFFILIATION="ECR">
+(EN) Monsieur le Président, c'est une motion de procédure, je pense que si vous lanciez le premier vote à 12 heures, les gens s'assiéraient pour y participer, au lieu de devoir attendre qu'ils s'asseyent et qu'ils participent avant de procéder au vote.
+<P>
+(Applaudissements)
+<SPEAKER ID="089" NAME="Le Président">
+Je suis très prévenant.
+<SPEAKER ID="090" NAME="Sergio Paolo Francesco Silvestris" AFFILIATION="PPE">
+(IT) Monsieur le Président, je vous prie de m'excuser pour cette intervention, mais en tant que député élu en Italie, je considère qu'il est de mon devoir de présenter, depuis cette Assemblée, mes salutations respectueuses au président de mon pays, Giorgio Napolitano, gardien des valeurs constitutionnelles de l'Italie et de l'unité nationale.
+<P>
+Dans cette enceinte, le président italien doit toujours être traité avec respect.
+<P>
+(Applaudissements)
+<SPEAKER ID="091" NAME="Le Président">
+Nous allons maintenant passer au vote.

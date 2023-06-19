@@ -1,0 +1,14 @@
+<CHAPTER ID="001">
+Az ülés megnyitása
+<P>
+(Az ülést 9.00 órakor megnyitják.)
+<SPEAKER ID="005" NAME="Daniel Cohn-Bendit" AFFILIATION="Verts/ALE">
+- (FR) Elnök asszony, szeretnék valamit ellenőrizni. Úgy tűnik, hogy a francia elnökség kérésére felügyelni fogják a képrögzítést Sarkozy elnök hozzászólása alatt.
+<P>
+Szeretném megtudni, ki hozta ezt a döntést, kinek a kérésére, és ki felel a képrögzítésért az Európai Parlamentben: maga az Európai Parlament vagy a francia elnökség? Hálás lennék, ha még az ülés megnyitása előtt választ kapnék.
+<SPEAKER ID="006" NAME="Elnök">
+Cohn-Bendit úr, kérdéseire még az ülés megnyitása előtt választ kap, de egyelőre folytassuk a szavazást, ha nem bánja.
+<SPEAKER ID="007" NAME="Astrid Lulling" AFFILIATION="PPE-DE">
+- (FR) Elnök asszony, mint parlamenti quaestor, felhívnám figyelmét arra, hogy a Parlament bejáratához vezető út egyik oldalát rohamrendőrök zárják el. Nem engedik be a hivatali autókat, ezért ha egyes képviselőknek újabb kerülőt kell tenniük, és esetleg késéssel érkeznek, nem kellene megbüntetni őket, amennyiben nem tudnak a szavazáson részt venni.
+<SPEAKER ID="008" NAME="Elnök">
+Lulling asszony, természetesen ezt figyelembe vesszük, hiszen néhány képviselő valóban nehezen jut be a Parlamentbe.

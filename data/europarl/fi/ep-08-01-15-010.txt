@@ -1,0 +1,14 @@
+<CHAPTER ID="010">
+Äänestykset (jatkoa) 
+<SPEAKER ID="110" NAME="Puhemies">
+Esityslistalla ovat seuraavana äänestykset.
+<P>
+(Äänestysten tulokset ja äänestysten kulkua koskevat yksityiskohdat: ks. pöytäkirja.)
+<SPEAKER ID="111" NAME="Graham Booth" AFFILIATION="IND/DEM">
+Arvoisa puhemies, sanon hyvin lyhyesti, että ette mielestäni itse asiassa noudattaneet työjärjestystä oikein aiemmin toimitetun äänestyksen aikana.
+<P>
+Sanoitte: "Äänestys voi alkaa", mutta ette kysynyt: "Ovatko kaikki jäsenet äänestäneet?", ennen kuin sanoitte: "Äänestys on päättynyt", ettekä lukenut äänestystuloksia ääneen.
+<P>
+Toimitte mielestäni sääntöjenvastaisesti.
+<SPEAKER ID="112" NAME="Puhemies">
+Jäsen Booth, äänestyksen tulokset ovat näytöllä. Koska olette pyytäneet, että kaikki tämän päivän äänestykset toimitetaan nimenhuudon mukaan, teemme niin. Yritän tehdä tästä äänestystavasta parlamentille mahdollisimman kivutonta, jos se teille sopii, jäsen Booth.

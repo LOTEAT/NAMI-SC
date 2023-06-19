@@ -1,0 +1,6 @@
+<CHAPTER ID="001">
+Otvorenie rokovania
+<SPEAKER ID="007" NAME="Daniel Hannan" AFFILIATION="NI">
+Vážený pán predsedajúci, odkedy sme sa naposledy stretli, boli zverejnené správy o stretnutí vedúcich predstaviteľov politických strán s prezidentom Českej republiky, na ktorom niektorí vedúci predstavitelia politických strán prejavili svoju nezdvorilosť a hrubosť, ktorá podľa môjho názoru do určitej miery robí hanbu nám všetkým. Rád by som sa opýtal, či by ste nechceli využiť túto príležitosť na to, aby ste prehlásili, že ako dnešný predsedajúci potvrdzujete, že tento Parlament si váži všetky názory bez ohľadu na to, či sú za Lisabonskú zmluvu alebo proti nej, a že rešpektujeme dôstojnosť tohto úradu Českej republiky.
+<SPEAKER ID="008" NAME="Predsedajúci">
+Vážený pán Hannan, nie je na mne, aby som tu niečo potvrdzoval, a rád by som vám pripomenul, že Parlament teraz nerokuje o tejto téme. Som si však istý, že sa vo vhodnom čase ujmete slova a vyzvete príslušné orgány, aby za túto vec prebrali zodpovednosť.

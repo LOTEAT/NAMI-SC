@@ -1,0 +1,4 @@
+<CHAPTER ID="010">
+Schválenie zápisnice z predchádzajúceho rokovania: pozri zápisnicu
+<P>
+(Zápisnica z predchádzajúceho rokovania bola schválená.)

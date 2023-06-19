@@ -1,0 +1,6 @@
+<CHAPTER ID="017">
+Tämän istuntojakson aikana hyväksyttyjen tekstien edelleen välittäminen: ks. pöytäkirja
+<SPEAKER ID="413" NAME="Robert Sturdy" AFFILIATION="ECR">
+(EN) Arvoisa puhemies, olemme juuri osallistuneet kahteen nimenhuutoäänestykseen. Aamupäivällä ennen lounasta meillä oli vain kaksi nimenhuutoäänestystä. Parlamentin sääntö on, että on äänestettävä 50 prosentissa äänestyksistä ja 50 prosentissa nimenhuutoäänestyksistä, jotta saa koko päivän palkan. Onko näin tässä tapauksessa, vai mikä on tilanne?
+<SPEAKER ID="414" NAME="Puhemies">
+(EN) Se pitää paikkansa. On oltava läsnä 50 prosenttia ajasta.

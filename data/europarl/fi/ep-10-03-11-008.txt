@@ -1,0 +1,12 @@
+<CHAPTER ID="008">
+Äänestykset
+<SPEAKER ID="106" NAME="Puhemies">
+(IT) Esityslistalla ovat seuraavana äänestykset.
+<P>
+(Äänestysten tulokset ja niiden kulkua koskevat yksityiskohdat: ks. pöytäkirja)
+<SPEAKER ID="107" NAME="Robert Goebbels" AFFILIATION="S&amp;D">
+(FR) Arvoisa puhemies, pyytäisin teitä odottamaan vielä hetken, sillä monet jäsenet ovat vielä jumissa hisseissä. Joku on saanut päähänsä ryhtyä korjaamaan hissejä juuri tällä viikolla, kun me olemme Strasbourgissa, kun se olisi yhtä hyvin voitu tehdä kolmen muun viikon aikana.
+<SPEAKER ID="108" NAME="Puhemies">
+(IT) Hyvä jäsen Goebbels, kello on jo yli 12. Olemme odottaneet jo viisi minuuttia. Minusta voimme jo siirtyä äänestyksiin.
+<P>
+(Suosionosoituksia)

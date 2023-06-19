@@ -1,0 +1,68 @@
+<CHAPTER ID="022">
+Finantsinstrumentidega kauplemise reguleerimine - anonüümsed kauplemisplatvormid jne (lühiettekanne)
+<SPEAKER ID="235" NAME="Juhataja">
+Järgmine päevakorrapunkt on majandus- ja rahanduskomisjoni nimel Kay Swinburne'i koostatud raport finantsinstrumentidega kauplemise (sh anonüümsete kauplemisplatvormide jne) reguleerimise kohta.
+<SPEAKER ID="236" NAME="Kay Swinburne">
+raportöör. - Austatud juhataja! Neile, kes ei ole rahandusslängiga kursis, on mul keeruline selgitada, millest minu raport anonüümsete kauplemisplatvormide kohta täpselt räägib. Ametlikult käsitleb raport kauplemist finantsinstrumentidega, sealhulgas anonüümsete kauplemisplatvormidega, s.t hõlmab kauplemiseelse läbipaistvuseta tehtud finants- ja aktsiatehinguid, mida nimetatakse ka varjatud kauplemiseks. Üldisemalt kujutab raport endast 2007. aasta finantsinstrumentide turgude direktiivi (MiFID) rakendamise hindamist aktsiate suhtes ja sellega püütakse lahendada praegu aktsiaturgudel ilmnenud struktuurseid küsimusi.
+<P>
+Hoolimata sellest, et tegemist on väga tehnilise raportiga, innustab mind majandus- ja rahanduskomisjonis peetud kõrgetasemeline arutelu. Mul on hea meel, et minu kolleegide raskel tööl on õnnestunud saada fraktsioonides lai toetuspind, nii et 194 muudatusettepanekut on muutunud 26 kompromissmuudatusettepanekuks, millele enamik fraktsioone said alla kirjutada.
+<P>
+Arvestades selle algatusraporti ajastust ja kulminatsiooni selle nädala täiskogu hääletusel, on Euroopa Parlament minu arvates oluliselt täiendanud ka hiljuti välja kuulutatud komisjoni arutelu MiFIDi läbivaatamise (MiFID II) üle, kus võetakse arvesse paljusid majandus- ja rahanduskomisjoni aruteludes tõstatatud küsimusi. Euroopa Parlament on selle raporti kaudu palunud uurida mitmeid kauplemiskohti, mille suhtes praegu kohaldatakse MiFIDit, ja nõuab põhjalikumat analüüsi, et tagada ühesuguseid teenuseid pakkuvate kauplemiskohtade ühesugune reguleerimine.
+<P>
+Ma arvan, et komisjon on ehk oma konsulteerimisdokumendis astunud sammu edasi ja laiendanud organiseeritud kauplemisvõimaluste määratlust, et see hõlmaks kõiki kohti, kus ostjad ja müüjad kohtuvad. See tähendab, et võib täita olulise seaduselünga. Ometi lubab see lahendus säilitada proportsionaalsuse, sest võimaldab märkimisväärset eristamist reguleeritud turgude, mitmepoolsete kauplemissüsteemide, ühingusiseste täitjate, maaklerite ristumisvõrgustike ja tuletisinstrumentide kauplemisplatvormide kategooriate raames.
+<P>
+Anonüümsetel kauplemisplatvormidel tegutsejate jaoks välja pakutud uue kontrollitaseme üle peaksid heameelt tundma investorid, sest ehkki need pakuvad kaitset laiema turu eest, võimaldavad need siiski turu kuritarvitamist. Reguleerivatele asutustele võimaldatav täielik juurdepääs ärimudelitele peaks tagama, et need kauplemisplatvormid jäävad ka edaspidi vabalt valitavaks kliendi korralduste ristumiskohaks, ilma et neil oleks võimalik laieneda nii palju, et see mõjutaks hindade kindlaksmääramist, või varjata turu kuritarvitamist.
+<P>
+Lisaks lepivad Euroopa Parlament ja komisjon MiFIDi nõuetest vabastamise kohta kokku, et need tuleb uuesti määratleda ja nende rakendamine tuleb kogu ELis ühtlustada. Praegune võimalus õigusnormide erinevusi kõigis ELi liikmesriikides ära kasutada, et leida sama eeskirja parim tõlgendus, ei tohiks enam võimalik olla. Käesoleva raporti ja selle muudatusettepaneku koostamisel oli selge, et MiFIDi rakendamise nõrgim koht oli Euroopa konsolideeritud börsiteabe turul kehtiva versiooni puudumine. USA investorid ei saa aru, kuidas me Euroopas ilma selle vahendita tegutseme. Kõnealuses majandusharus, eelkõige investorite hulgas, on üldine nõusolek selle hädavajalikkusega olemas olnud, kuid kolm aastat pärast MiFIDi rakendamist ei ole turuosalised suutnud kokku tulla, et Euroopa konsolideeritud börsiteavet pakkuda. Nagu Euroopa Komisjon, ei taha ka majandus- ja rahanduskomisjon minna kinnitatud avaldamiskorra rakendamise nõudmisest kaugemale, ent kui turul sobivat lahendust ei leita, tuleks toetada õigusloomet.
+<P>
+Praegu aktsiaturge mõjutavad mikrostruktuursed küsimused on põhjustanud majandus- ja rahanduskomisjonis tuliseid vaidlusi. Lepiti kokku, et sellised tavad nagu välkkauplemise tehingud, tüssamine ja pingimine on ebaausad või isegi kuritahtlikud. Ent parlamendikomisjoni arvates on palju raskem jõuda kokkuleppele teatud turuosaliste rollis, eriti välkkauplemise strateegiate kasulikkuses või mittekasulikkuses. Selgete andmete puudumisel on raske nende positiivse või negatiivse osatähtsuse kohta kindlaid järeldusi teha, nii et enne kui pakume välja seadusandlikud meetmed, peame veenduma andmete olemasolus, et me ei kehtestaks õigusakte, mis võivad kahjustada Euroopa turgude tõhusat toimimist.
+<P>
+Põhimõtteliselt peame tagama oma finantsturgude terviklikkuse. Need ei ole olemas selleks, et vahendajad ja loata kaubitsejad saaksid üksteisega suhelda. Need on selleks, et oleks turg, kus investorid saavad suunata kapitali meie reaalmajanduses tegutsevatesse ettevõtetesse ja kontsernidesse. Seda turu põhifunktsiooni tuleb hoida meie kõigi tähelepanu keskmes, kui läbime MiFID II õigusloomeprotsessi.
+<SPEAKER ID="237" NAME="Philippe Juvin" AFFILIATION="PPE">
+(FR) Austatud juhataja, kallid kolleegid, lugupeetud raportöör! Loomulikult on see dokument väga keeruline, kuid milles seisneb selle sisu? Jällegi on asi kriisist õppuse võtmises. Ei, me ei tohi teha seda, mida tegime varem. Jah, me peame muutma mängureegleid ja süsteemis uuesti korra majja lööma.
+<P>
+Liidu eri riikides on neid, kes kasutavad praegu kriisi ja inimeste ärevust ära selleks, et süüdistada kõiges Euroopat. Kõikjal räägitakse, et Euroopa on süüdi selles, miks asjad ei toimi, et süüdi on euro, ja et lahendus oleks lahkumine Euroopa Liidust, eurole lõpu tegemine... Me peame kõigile neile inimestele järjest kordama, et jah, me vajame ühiseid eeskirju, me peame neile kogu aeg ütlema, et kui Euroopa riigid ei oleks ühinenud, kui nad oleksid lahus, oleksid nad nüüdseks surnud. Jah, me vajame reguleerimist, ühist poliitikat, ühiseeskirju ning oma eeskirjade põhjalikku läbivaatamist ja süsteemi paremat toimimist.
+<P>
+Kallid kolleegid, asi on lõppkokkuvõttes üsna lihtne: koos oleme tugevad, eraldi oleme surnud!
+<SPEAKER ID="238" NAME="Csanád Szegedi" AFFILIATION="NI">
+(HU) Austatud juhataja! Tahaksin teid tänada selle eest, et te nii heldelt aega annate. Edaspidi jälgin eriti tähelepanelikult, milliseid istungeid te juhatate, ja püüan neist kõigist osa võtta. Kay Swinburne'i raport on väga oluline selle poolest, et viimaks ometi arutame finantsinstrumentidega kauplemise reguleerimist. Selle raporti esimene ja suurim viga on see, et raport ja täiendava reguleerimise nõudmine on hilinenud. Teiseks, kui reguleeriv raamistik on seni olnud ebaselge, peame uurima tagasiulatuvalt ja põhjalikult kõike, mis on juhtunud. Minu arvates on suurte investeeringute väljajätmine rangema järelevalve alt mõttetu ja lausa ekslik. Uurida ei tule mitte ainult kauplemise olemust, vaid ka emiteeritud tuletisinstrumente, ja uusi emissioone tuleb rangemalt reguleerida.
+<P>
+Tegelikult ergutavad inflatsiooni finantsturu tuletistooted. Selle koorem jääb rahva kanda, samas kui mitmed rahvusvahelised juriidilised isikud, kelle taust ei ole alati selge, teevad tulu rahaks. Pealegi ei oleks kasulik sellisel moel omastatud tulu reaalmajandusse ümber suunata, sest selle tulemusena võib tasapisi kogu planeet jõukaimate taskutesse libiseda.
+<SPEAKER ID="239" NAME="Elena Băsescu" AFFILIATION="PPE">
+(RO) Austatud juhataja! Kay Swinburne'i raporti keskmes on tagamine, et mitmepoolsetel kauplemissüsteemidel oleksid võrdsed võimalused. Minu arvates on sama oluline kohaldada nende suhtes ühesugust järelevalvet. Ma tahaksin rõhutada vajadust sobivamate õigusaktide järele, et vähendada süsteemset riski ja tagada aus turukonkurents.
+<P>
+Praegu on murettekitavalt vähe teavet kauplemisstrateegiate kohta. Ainsa võimaluse tõeliselt mõista, kas turg toimib korralikult, annab see, kui reguleerivatel asutustel on piisavalt teavet. Euroopa Väärtpaberiturujärelevalve Asutus peaks koostama kõigi andmete, sealhulgas nii organiseeritud kauplemiskohtade kui ka börsiväliste tehingute andmete jaoks ühised aruandlusstandardid ja -vormid.
+<P>
+Minu arvates oleks kasulik uurida kõikidele anonüümsetele tehingutele miinimumsuuruse määramist. Sellega saaks kindlaks teha, kas piisavad kauplemisvood on säilinud.
+<SPEAKER ID="240" NAME="Johannes Hahn">
+komisjoni liige. - Austatud juhataja! Ma vastan komisjoni ja eelkõige volinik Barnier' nimel, et komisjoni ja G20 riikide põhieesmärgid on parandada finantsturgude läbipaistvust ja tagada kõikide asjaomaste turuosaliste reguleerimine nõutaval määral.
+<P>
+Ma tänan dr Swinburne'i ning majandus- ja rahanduskomisjoni raporti eest, mis käsitleb finantsinstrumentidega kauplemist (anonüümseid kauplemisplatvorme jne). See raport tähendab olulist sammu finantsinstrumentide turgude direktiivi (MiFID) käimasolevas läbivaatamises. Raporti soovitused seotakse tihedalt komisjoni käsitlusega kehtiva direktiivi muutmisettepaneku koostamisel 2011. aastal. MiFIDi läbivaatamisel on oluline koht komisjoni tegevuskavas, mille sihiks on kogu ühiskonna ja majanduse huvides toimiv kindlam ja läbipaistvam finantssüsteem. Palju asju on juba paika pandud, sealhulgas uue ELi järelevalveasutuse avamine järgmisel kuul.
+<P>
+Komisjon kohustub 2011. aasta suveks esitama ettepanekud ülejäänud valdkondades. Me loodame Euroopa Parlamendi toetusele vajalike reformide kiirel vastuvõtmisel, et tagada seejärel võimalikult ruttu nende kohaldamine.
+<P>
+Nagu teate, on MiFID ELi finantsturgude reguleeriva raamistiku nurgakivi. See võeti vastu enne finantskriisi, kuid on üldkokkuvõttes osutunud hästi toimivaks, isegi viimaste aastate rasketel ja rahututel aegadel.
+<P>
+Loomulikult on ilmnenud ka puudusi. Tehnoloogia arengu ja finantsturgude kiire muutumise tõttu on mõni aasta tagasi veel ajakohased olnud reguleerivad vahendid praegu selgelt iganenud.
+<P>
+8. detsembril tõi komisjon konsulteerimiseks välja ettepanekute projekti. Me kavatseme olla kõikide probleemide lahendamisel nõudlikud ja põhjalikud. Tunnistades küll, et MiFIDi algsed eesmärgid kehtivad siiani, arutatakse samal ajal selliste kriitiliste tegurite üle nagu see, kuidas meie finantsturud toimivad, kui avatud ja läbipaistvad nad peavad olema ning kuidas pääsevad investorid ligi finantsinstrumentidele ja investeerimisvõimalustele.
+<P>
+Nagu majanduskomisjon oma raporti projektis, näeme ka meie vajadust täiustada uut tüüpi kauplemisplatvormide ja -meetodite reguleerimist. Selles peaks nõuetekohaselt arvesse võtma tegevuse olemust, et tagada osalistele võrdsed võimalused ja investoritele asjakohane kaitse segadust tekitavate turutavade eest.
+<P>
+Samuti nõustume vajadusega parandada aktsiatehingute suhtes kohaldatavaid läbipaistvuseeskirju ja kehtestada uued nõuded muude instrumentidega kauplemise kohta. Veel üks oluline valdkond, mida dr Swinburne'i raportis käsitletakse, on kaupade tuletisinstrumentide turgude toimimise ja reguleerimise täiustamine G20 riikide põhimõtete kohaselt.
+<P>
+Peale selle on meie eesmärk täiustada sihiteadlikult kehtivaid investorite kaitset käsitlevaid eeskirju. Investorite usalduse taastamiseks tuleb tagada, et kõikide toodete ja müügitavade suhtes kohaldatakse asjakohaseid eeskirju võrdselt.
+<P>
+Lisaks muutub läbivaatamise tulemusel finantsturgude järelevalve ja eeskirjade jõustamine tõhusamaks sellega, et tähtsad ülesanded saab uus Euroopa Väärtpaberiturujärelevalve Asutus. Töö jätkamisel teevad komisjoni talitused tihedalt koostööd meie rahvusvaheliste partneritega, eriti Ameerika Ühendriikide samu küsimusi käsitlevate vastutavate reguleerivate asutustega, et tagada rahvusvaheline ühtlustamine ja hoida ära õigusnormide erinevuste ärakasutamise oht.
+<P>
+Kay Swinburne'i raport on esitatud õigusloomereformi otsustaval hetkel. Euroopa Parlamendi liikmete pühendumus ja asjaolu, et teie mõttekäigud ja soovitused langevad väga palju kokku meie omadega, on julgustav. See raport loob meie tulevasele tööle kindlama aluse.
+<SPEAKER ID="241" NAME="Juhataja">
+Arutelu on lõppenud.
+<P>
+Hääletus toimub homme kell 12.00.
+<P>
+Järgmine istung toimub homme, neljapäeval, 14. detsembril 2010 kella 9.00-13.00, 15.00-20.30 ja 21.00-24.00.
+<P>
+Päevakord on avaldatud ja kättesaadav Euroopa Parlamendi veebilehel.
+<P>
+Istung on lõppenud.

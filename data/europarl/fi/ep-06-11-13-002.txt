@@ -1,0 +1,10 @@
+<CHAPTER ID="002">
+Edellisen istunnon pöytäkirjan hyväksyminen
+<SPEAKER ID="006" NAME="Puhemies">
+Edellisen 26. lokakuuta 2006 pidetyn istunnon pöytäkirja on jaettu. Onko huomautettavaa?
+<SPEAKER ID="007" NAME="Françoise Grossetête" AFFILIATION="PPE-DE">
+(FR) Arvoisa puhemies, haluan huomauttaa, että unohdin allekirjoittaa läsnäololuettelon torstaina. Osallistuin kuitenkin kaikkiin torstaina keskipäivällä ja torstai-iltana toimitettuihin nimenhuutoäänestyksiin.
+<SPEAKER ID="008" NAME="Puhemies">
+Asianmukaisiin toimiin ryhdytään tarvittavan korjauksen tekemiseksi.
+<P>
+(Edellisen istunnon pöytäkirja hyväksyttiin.)

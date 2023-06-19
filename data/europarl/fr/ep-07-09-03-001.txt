@@ -1,0 +1,4 @@
+<CHAPTER ID="001">
+Reprise de la session
+<SPEAKER ID="999" NAME="Le Président">
+Je déclare à nouveau ouverte la séance interrompue le jeudi 12 juillet 2007.

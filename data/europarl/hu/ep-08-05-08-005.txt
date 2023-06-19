@@ -1,0 +1,26 @@
+<CHAPTER ID="005">
+Szavazások órája
+<SPEAKER ID="101" NAME="Elnök">
+Elsőként, nagy örömmel jelentem a Háznak, hogy a litván Parlament ma reggel ratifikálta a Szerződést.
+<P>
+(Taps)
+<P>
+Következik a szavazások órája.
+<P>
+(A szavazás eredményeire és egyéb részleteire vonatkozóan lásd a jegyzőkönyvet)
+<P>
+- A szavazás előtt:
+<SPEAKER ID="102" NAME="Jens-Peter Bonde" AFFILIATION="IND/DEM">
+Elnök asszony, ma szavazom utoljára a Parlamentben. Holnaptól Hanne Dahl képviseli a dán Júniusi Mozgalmat. Hadd köszönjem meg Önöknek az átláthatóságért folyó küzdelemben megvívott, az alkotmányról, népszavazásokról, jó együttműködésről szóló élvezetes csatákat.
+<P>
+Sikerült felnyitnunk a Bizottság titkos telefonkönyvét. Az interneten ott tudjuk napirendjüket és jegyzőkönyveiket. Nemsokára látni fogjuk, hogy ki ad tanácsokat a Bizottságnak, és ki kap támogatást. Ezek a győzelmek annak köszönhetők, hogy sikerült a politikai határvonalakon túllépve együttműködnünk.
+<P>
+A Konventben 23 kormány, az összes nemzeti parlamenti képviselő, és egy kivételével az összes európai parlamenti képviselő aláírását bírtuk egy igen egyszerű, az átláthatóságon változtató javaslaton. Azt mondta ki, mindennek nyíltnak és átláthatónak kell lenni, hacsak nem döntünk ettől eltérően.
+<P>
+Köszönöm továbbá az F-gázokkal, az éghajlattal, növényvédő-zerekkel, ivóvízzel, közlekedéssel, "biokolbászok” nitrát tartalmával kapcsolatos módosításoknál nyújtott támogatásukat!
+<P>
+Második kívánságom az, hogy a jogszabályokat a jövőben ne közalkalmazottak hozzák, zárt ajtók mögött! Kérem, biztosítsák, hogy valamennyi európai jogszabálynak keresztül kelljen haladnia e Parlamenten és a képviselői szavazáson!
+<P>
+Képviselőtársak, köszönöm a 29 évet közös parlamentünkben ...
+<P>
+... és köszönöm a dán szavazóknak, akik mindezt lehetővé tették!

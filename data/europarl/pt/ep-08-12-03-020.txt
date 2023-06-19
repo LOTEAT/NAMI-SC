@@ -1,0 +1,190 @@
+<CHAPTER ID="020">
+Luta contra a fraude fiscal ligada às operações intracomunitárias (sistema comum do imposto sobre o valor acrescentado - Luta contra a fraude fiscal ligada às operações intracomunitárias - Relatório Especial n.º 8/2007 do Tribunal de Contas relativo à cooperação administrativa no domínio do IVA (debate) 
+<SPEAKER ID="257" NAME="Presidente">
+Segue-se na ordem do dia a discussão conjunta dos seguintes relatórios:
+<P>
+do deputado José Manuel García-Margallo y Marfil, em nome da Comissão dos Assuntos Económicos e Monetários, sobre uma proposta de directiva do Conselho que altera a Directiva 2006/112/CE do Conselho relativa ao sistema comum do imposto sobre o valor acrescentado com vista a lutar contra a fraude fiscal ligada às operações intracomunitárias - C6-0154/2008 -,
+<P>
+do deputado José Manuel García-Margallo y Marfil, em nome da Comissão dos Assuntos Económicos e Monetários, sobre uma proposta de regulamento do Conselho que altera o Regulamento (CE) nº 1798/2003 com vista a lutar contra a fraude fiscal ligada às operações intracomunitárias
+<P>
+- C6-0155/2008 -, e
+<P>
+do deputado Bart Staes, em nome da Comissão do Controlo Orçamental, sobre o Relatório Especial n.º 8/2007 do Tribunal de Contas relativo à cooperação administrativa no domínio do IVA
+<P>
+.
+<SPEAKER ID="258" NAME="José Manuel García-Margallo y Marfil">
+relator. - (ES) Senhora Presidente, devo começar deplorando a ausência do Comissário responsável, muito embora não esteja realmente surpreendido com esse facto, porque em relação a este tema tem-se falado muito e feito muito pouco: grandes declarações retóricas para combater a fraude associada ao IVA e muito poucas medidas para fazer esse combate.
+<P>
+Nas comunicações que o Senhor Comissário nos apresentou, a última das quais no passado dia 1 de Dezembro deste ano, criou-se um caso sobre os danos causados pela fraude fiscal. Afecta a suficiência, afecta a equidade e causa distorções no mercado com números verdadeiramente importantes. A fraude relativa ao imposto sobre o valor acrescentado chega a atingir um valor entre 60 000 e 100 000 milhões de euros por ano.
+<P>
+Como podemos impedir a fraude? Também o diagnóstico dado nestas comunicações é, de uma forma geral, correcto, retórico e grandiloquente. Afirma-se que cumpre às autoridades nacionais combater a fraude, mas que as operações em que o fornecedor e o cliente não residem no mesmo país requerem a cooperação entre os Estados-Membros. Recordam ainda que o Tribunal de Contas, no seu Relatório especial n.º 8, afirma que essa cooperação foi claramente insatisfatória e que, por essa razão, é preciso actuar. O problema surge quando o Comissário começa a dizer-nos quais são os tipos de acção que devem empreender-se. Afirma, o que é razoável, que existem duas estratégias: uma estratégia, que ele classifica como ambiciosa, que consta de uma reforma total do imposto sobre o valor acrescentado, que incluiria um sistema de autoliquidação ou um sistema de retenção na fonte com uma câmara de compensação, e outra estratégia que o Comissário denomina "medidas convencionais".
+<P>
+Da sua comparecência aqui no dia 24 de Junho, inferiu-se que não ponderava a hipótese de, sob nenhuma circunstância, abordar uma reforma ambiciosa e que se limitaria às denominadas "medidas convencionais". Todavia, mais tarde, quando descreveu as medidas convencionais, apresentou quatro que, em princípio, não estão mal. Falou em reduzir os prazos da declaração obrigatória, de reforçar a cooperação entre as autoridades administrativas, de estabelecer a responsabilidade solidária quando o adquirente dos bens não tenha fornecido a informação sobre quem lhos vendeu, e de melhorar a informação disponível sobre os sujeitos passivos de IVA. Concluiu então afirmando que nem sequer estas quatro medidas fazem parte das medidas concretas que pensa adoptar. Hoje aparece com duas propostas de modificação de directiva e de regulamento. Afirma que o objectivo da primeira é reduzir o período de que os sujeitos passivos de IVA dispõem para apresentar as declarações de três meses para um mês, e o objectivo da segunda é reduzir o prazo de transmissão da informação ao Estado-Membro que tem de exigir o imposto de três meses para um mês. Ponto final. Isto é tudo o que a proposta estabelece.
+<P>
+A Comissão dos Assuntos Económicos e Monetários tentou apimentar um pouco mais esta história realmente insípida, e nós apresentámos as seguintes alterações: aprovámos uma alteração a favor das pequenas e médias empresas, cuja finalidade é reconciliar o combate à fraude fiscal com a simplificação dos encargos administrativos sobre as pequenas empresas, com as quais este Parlamento, e a União Europeia no seu conjunto, assumiu um compromisso. Por conseguinte, preconizamos que a Comissão, a breve trecho, num prazo de dois anos, terá de nos apresentar um relatório que descreva o funcionamento destas medidas, de que forma afectaram os custos administrativos das empresas e até que ponto se revelaram úteis para combater a fraude fiscal.
+<P>
+Salientamos também que a Comissão deve envolver-se mais quando faz a legislação; que deve ter um protagonismo maior. Convidamo-la ainda a centralizar os dados que sejam transferidos pelos Estados-Membros envolvidos, para elaborar um manual de boas práticas, para que as autoridades administrativas possam funcionar melhor, para estabelecer indicadores de zonas de risco e de zonas que não o são, e para nos dizer quem cumpre e quem não cumpre. Por último, para facilitar a perseguição dos responsáveis pela fraude, estabelecemos um registo de pessoas singulares que não poderão cometer evasão fiscal através da constituição de empresas.
+<P>
+Lamento que o Comissário não possa responder às alterações que formulámos.
+<SPEAKER ID="259" NAME="Bart Staes">
+relator. - (NL) Senhora Presidente, Senhor Comissário, Senhoras e Senhores Deputados, fraude fiscal e fraude no domínio do IVA constituem crimes puníveis. Podem ser crimes de "colarinho branco", não obstante, são crimes, que por vezes estão relacionados com a criminalidade organizada.
+<P>
+Quais são os montantes envolvidos, porque isso sempre os torna interessantes? Em 2007, o Comissário Kovács calculou o total da fraude fiscal em duas a duas vezes e meia o orçamento europeu, ou seja um montante entre 200 e 250 mil milhões de EUR, sendo a parte da fraude no domínio do IVA calculada em 40 mil milhões de EUR. Tudo isto constitui um cálculo, provavelmente muito abaixo do valor real, porquanto o Tribunal de Contas calculou a perda da receita do IVA em 2005 em 17 mil milhões de EUR na Alemanha e 18,5 mil milhões no Reino Unido, responsáveis no seu conjunto por um pouco mais de 35 mil milhões de perda da receita do IVA.
+<P>
+É, por conseguinte, de aplaudir o facto de a Comissão ter financiado um estudo, de que esse estudo esteja em pleno curso e de que os resultados irão ser tornados públicos, de molde a podermos avaliar a verdadeira extensão do problema.
+<P>
+Há dois problemas básicos, no que diz respeito às políticas a praticar. Em primeiro lugar, cumpre melhorar a cooperação entre as autoridades fiscais; em segundo lugar, devíamos procurar encurtar os intervalos entre as reuniões dos órgãos administrativos dos Estados-Membros, em que estes reúnem e trocam informações, de molde a permitir que as coisas se processem mais rapidamente.
+<P>
+O meu relatório analisa sobretudo a investigação levada a cabo pelo Tribunal de Contas em matéria da fraude no domínio do IVA. O Tribunal de Contas procedeu a averiguações em sete países: França, Itália, Luxemburgo, Países Baixos, Polónia, Eslovénia e Reino Unido, países que cooperaram bem. A Alemanha, porém, recusou-se a prestar qualquer colaboração. Em Setembro, a Comissão deu início a um processo por infracção contra a Alemanha, coisa que, devo dizer, Senhor Comissário, apoio plenamente.
+<P>
+O Tribunal de Contas verificou em alguns Estados-Membros ausência absoluta das condições essenciais para uma cooperação efectiva quando se trata de controlar esta forma de fraude. O meu co-relator fez notar que são necessários mais de três meses para tratar dos pedidos de informação. Na realidade, isto é, de facto, indesculpável, porque estes crimes deviam ser tratados em tempo real. Não obstante, a organização interna dos países também ficou sob fogo. Os Países Baixos e a Alemanha, em particular, deixam algo a desejar. Além disso, existe uma absoluta falta mecanismos de controlo suficientemente fortes.
+<P>
+O motivo por que os Estados-Membros se recusam a tomar uma atitude firme, muito embora saibam que perdem milhares de milhões de receita, continua a ser um mistério para mim. Isto ultrapassa-me, realmente. A livre circulação de criminosos é uma realidade. Uma Europa unida na luta contra a fraude fiscal continua, em grande parte, a ser uma utopia.
+<P>
+Todavia, há também boas notícias. O meu próprio Estado-Membro, a Bélgica, criou a Rede Europeia Carrossel (rede Eurocanet), que garante um intercâmbio espontâneo de informações. Não obstante, também isto tem falhas, uma vez que apenas 24 Estados-Membros deram a sua cooperação, tendo-se recusado a cooperar três dos maiores Estados-Membros, isto é, a Alemanha, a Itália e o Reino Unido.
+<P>
+O Conselho Ecofin de 7 de Outubro lançou um novo mecanismo, designadamente o mecanismo Eurofisc, destinado a melhorar a cooperação entre os Estados-Membros no controlo da fraude no domínio do IVA. Trata-se de uma iniciativa que, em minha opinião, é sensata, mas que apenas será um valor acrescentado se todos os Estados-Membros nela participarem e se isso for algo mais do que simples cooperação intergovernamental. Creio firmemente que a Comissão devia ser envolvida nesta iniciativa. Em todo o caso, podia tomar parte nela e, inclusive, desempenhar um papel coordenador.
+<P>
+Finalmente, também penso que devíamos trabalhar unidos muito mais estreitamente, inclusivamente no campo jurídico. Necessário seria remover imediatamente todos os obstáculos jurídicos existentes na legislação nacional à perseguição criminal transfronteiriça. No meu relatório inclui uma lista de medidas a tomar. Gostaria de receber uma resposta, ou reacção, da Comissão. Lamento que o Conselho se não encontre presente, porque, no fim de contas, é ao Conselho que cabe actuar neste domínio.
+<SPEAKER ID="260" NAME="Louis Michel" LANGUAGE="FR">
+Senhora Presidente, minhas senhoras e meus senhores, gostaria de agradecer ao Parlamento Europeu e, muito especialmente, aos dois relatores, os senhores deputados García-Margallo y Marfil e Bart Staes, os relatórios construtivos que apresentaram sobre o tema delicado da luta contra a fraude ao IVA na União Europeia, nomeadamente no que diz respeito à primeira proposta concreta da Comissão neste domínio.
+<P>
+Encontramo-nos hoje num ponto de viragem na execução da nossa estratégia de combate à fraude ao IVA. Os três relatórios que deverão ser aprovados pelo Parlamento amanhã contêm uma série de recomendações sobre a forma de melhorar a luta contra a fraude e reflectem o vosso parecer sobre a primeira daquela que será uma longa série de medidas.
+<P>
+No dia 1 de Dezembro, a Comissão adoptou uma comunicação que especifica as medidas que irá apresentar nos próximos meses, bem como uma directiva inicial contendo algumas dessas medidas. As propostas previstas respondem também às preocupações e recomendações expressas no relatório do senhor deputado Staes.
+<P>
+As medidas que a Comissão tenciona adoptar podem ser subdivididas em três categorias:
+<P>
+A primeira reúne medidas destinadas a prevenir a fraude ao IVA. Uma delas consiste em estabelecer padrões mínimos para registo e cancelamento de registo em bases de dados nacionais, a fim de melhorar a fiabilidade e a comparabilidade das informações nelas contidas.
+<P>
+Estão também previstas melhorias no procedimento utilizado para obter a confirmação electrónica dos números de IVA dos operadores e os correspondentes nomes e moradas, de modo a garantir uma maior segurança jurídica para os fornecedores.
+<P>
+Finalmente, a Comissão propõe uma simplificação das regras de facturação e a racionalização das regras relativas à exigibilidade do imposto, a fim de garantir a sua melhor aplicação, uma medida que irá facilitar o controlo.
+<P>
+A segunda categoria diz respeito a medidas destinadas a melhorar a eficácia das autoridades fiscais, com vista a detectar fraudes ao IVA. A medida relativa à redução dos prazos, que é abordada nos dois relatórios do deputado García-Margallo y Marfil, pertence a esta categoria. Para melhorar a detecção de fraudes, é também necessário garantir que as isenções ao IVA nas importações são mais bem controladas, como a Comissão propôs segunda-feira passada, e alargar o âmbito das informações que os Estados-Membros terão de pôr à disposição das autoridades fiscais dos outros Estados-Membros, através do acesso automatizado às suas bases de dados.
+<P>
+Finalmente, como indicou, esta categoria inclui também a criação de uma rede europeia, conhecida como Eurofisc. Esta rede destina-se a melhorar a cooperação operacional entre os Estados-Membros na luta contra a fraude ao IVA, com base no modelo da rede Eurocanet, que foi criada pelas autoridades fiscais belgas e que é apoiada pela Comissão e pelo Organismo Europeu de Luta Antifraude.
+<P>
+A terceira categoria envolve medidas destinadas a reforçar as capacidades das autoridades fiscais no que diz respeito ao lançamento e cobrança de impostos. Estas medidas incluem, nomeadamente, uma medida que especifica os casos em que fornecedores e clientes que fazem transacções transfronteiriças são solidariamente responsáveis pelo pagamento do imposto, e que se destina, indubitavelmente, a reforçar o quadro jurídico que rege a cobrança de impostos transfronteiras.
+<P>
+Finalmente, esta categoria inclui uma medida destinada a estabelecer a responsabilidade partilhada entre os Estados-Membros, a fim de proteger as receitas fiscais globais.
+<P>
+A Comissão faz também notar que o Parlamento tem demonstrado uma preocupação constante em garantir a protecção dos interesses financeiros da Comunidade Europeia, dado que a fraude ao IVA tem também consequências para os recursos próprios do orçamento europeu.
+<P>
+Congratulo-me com o apoio dado à proposta de regulamento relativo à assistência administrativa mútua no domínio da luta contra a fraude e, em particular, contra a fraude ao IVA.
+<P>
+A Comissão congratula-se igualmente com o pedido formulado pelo Parlamento ao Conselho para prosseguir as negociações sobre esta proposta, que irá criar um quadro circunstanciado que permitirá à Comissão e ao Organismo Europeu de Luta Antifraude proporcionar aos Estados-Membros apoio operacional e informações, como parte da sua luta contra a fraude ao IVA.
+<P>
+O parecer positivo expresso pelo Parlamento no projecto de relatório sobre a redução dos prazos e o rápido progresso dos trabalhos realizados sobre esta questão no seio do Conselho constituem um bom prenúncio para as propostas mais abrangentes que a Comissão irá adoptar no futuro próximo.
+<SPEAKER ID="261" NAME="Lidia Joanna Geringer de Oedenberg">
+relatora de parecer da Comissão dos Assuntos Jurídicos. - (PL) Senhora Presidente, o controlo da fraude, até aqui principalmente dentro do território dos Estados-Membros, é um problema que não pode ser resolvido unicamente a nível nacional. O combate à fraude fiscal deve implicar uma cooperação mais estreita entre as autoridades administrativas dos Estados-Membros, bem como a cooperação com a Comissão.
+<P>
+As propostas de directiva e de regulamento objecto dos relatórios em apreço decorrem apenas em parte das recomendações prioritárias formuladas pelo Conselho Ecofin em Junho de 2007. As alterações propostas têm como objectivo principal acelerar a recolha e o intercâmbio de informações sobre procedimentos intracomunitários, através da normalização dos procedimentos e da redução, para um mês, da periodicidade das declarações relativas às transacções intracomunitárias e do prazo para a troca de informações sobre essas transacções entre os Estados-Membros.
+<P>
+A harmonização dos requisitos do IVA assegurará a verificação eficaz da informação fornecida. A obrigatoriedade de os Estados-Membros aceitarem a apresentação electrónica das declarações de IVA também simplificará o processo de forma significativa.
+<P>
+Os instrumentos legislativos propostos representam apenas os primeiros passos no sentido de pôr em prática as propostas do Conselho Ecofin atrás mencionadas. Ainda não temos uma avaliação pormenorizada do impacto dos novos requisitos formais nos prestadores de serviços, e seria aconselhável elaborar um relatório que tratasse especificamente desta questão, sobretudo no que respeita aos custos administrativos suportados pelos contribuintes e pelas autoridades administrativas e à eficácia do combate à fraude fiscal.
+<P>
+Tendo em mente a crítica justificada feita pelo Tribunal de Auditores acerca da falta de cooperação administrativa eficaz nesta área, a Comissão Europeia deve considerar desempenhar um papel mais preponderante, especialmente no que se refere a preparar análises e a fornecer bons modelos.
+<SPEAKER ID="262" NAME="Gabriele Stauner">
+em nome do Grupo PPE-DE. - (DE) Senhora Presidente, Senhoras e Senhores, aproximadamente 2,25% do produto interno bruto da UE, num valor aproximado de 200 mil milhões de euros por ano - tal como disse já o Senhor Deputado Staes -, é perdido em evasões ao imposto sobre o valor acrescentado, esquemas para contornar o imposto e fraudes. São esses os factos em que o relatório do Sr. Deputado Staes correctamente se baseia.
+<P>
+Das respostas às cinco perguntas escritas que formulei sobre este tema ao Conselho e à Comissão - e a propósito, também lamento que o Conselho esteja tão parcimoniosamente representado - deduz-se, entre outros aspectos, que os prejuízos no imposto sobre o valor acrescentado em 2005 só na Alemanha orçaram os 17 mil milhões de euros e no Reino Unido 18 mil milhões de euros. Estes números deixam à vista de todos os danos consideráveis infligidos à economia nacional e a necessidade de pôr termo a esta situação logo que possível.
+<P>
+Mas como é que isto pode ser conseguido? A resposta tem passado até agora - segundo o Tribunal de Contas, que consagrou a este tema um relatório especial - pela cooperação entre as autoridades administrativas nacionais que detêm a responsabilidade nesta matéria, mas isso é precisamente o que não funcionou de forma alguma nos últimos anos.
+<P>
+Mais uma vez os europeus se vêem numa situação em que perseguem um objectivo bem-intencionado mas contam as suas galinhas antes do abate. Ora neste caso as galinhas são os Estados-Membros, que são incapazes de reprimir a evasão internacional ao imposto sobre o valor acrescentado através de medidas administrativas.
+<P>
+É assim, por exemplo, que existem grandes diferenças por explicar no número de pedidos de informação recebidos e respondidos. As diferenças reflectidas pelas estatísticas para o comércio intracomunitário comunicadas pela Comissão em resposta à minha pergunta escrita de 6 de Maio, que supostamente teriam alcançado a bonita soma de 77 mil milhões de euros em 2007, podem também ser um indício de fraude no imposto sobre o valor acrescentado. Queria aproveitar esta oportunidade para perguntar à Comissão quando é que nos irá apresentar os resultados do estudo.
+<SPEAKER ID="263" NAME="Vladimír Maňka" LANGUAGE="SK">
+Caros colegas, imaginem que não havia fraude fiscal na União Europeia. Se os fundos arrecadados deste modo fossem distribuídos de forma justa, cada cidadão da União Europeia, incluindo crianças e reformados, teriam mais 500 euros na sua carteira todos os anos.
+<P>
+Nenhum país pode combater sozinho a fraude fiscal com eficácia. A cooperação internacional constitui um imperativo, em especial no domínio de IVA, onde o sistema actual complica a monitorização das operações intracomunitárias. A criação de um sistema de IVA no qual se aplicasse às operações entre os Estados-Membros uma taxa que não fosse zero constituiria uma solução com efeito positivo a longo prazo na luta contra a fraude fiscal. A aplicação da taxa zero a exportações de mercadorias está a ser utilizada abusivamente por burlões e grupos criminosos que, por exemplo, criam operações fictícias e sugam, de forma fraudulenta, milhares de milhões de euros dos orçamentos estatais.
+<P>
+A morosidade dos prazos actuais para a apresentação de declarações fiscais também permite que sejam cometidas fraudes fiscais deste tipo. O relatório sobre a proposta de directiva que estamos a debater agora representa uma aceleração do intercâmbio de informações necessárias para a luta contra a fraude fiscal. Esta é uma das razões pelas quais estamos a reduzir o prazo para a apresentação de declarações fiscais relativas a transacções intracomunitárias.
+<P>
+O sistema de IVA criado em 1993 é apenas transitório. Acredito que, no início do próximo mandato, a Comissão apresentará medidas mais ambiciosas destinadas a uma reforma definitiva e abrangente do IVA. A natureza provisória do sistema actual é uma das razões pelas quais, na minha alteração, aprovada pela Comissão competente, peço que a Comissão Europeia avalie o impacto das medidas adoptadas três anos mais cedo de que foi proposto na alteração original. O objectivo consiste em evitar uma situação em que o sistema seria avaliado num momento em que já não estaria em vigor.
+<P>
+Para terminar, quero agradecer ao relator e felicitá-lo por um relatório equilibrado. A proposta permite uma resposta atempada à fraude fiscal. É igualmente positivo que os próprios empresários tenham afirmado que os encargos administrativos serão mínimos.
+<SPEAKER ID="264" NAME="Miguel Portas">
+em nome do Grupo GUE/NGL. - Senhora Presidente, quando o Tribunal de Contas diz que o volume da fraude no IVA poderá ultrapassar o volume do orçamento comunitário e o Colega Staes afirma que esses valores devem ser multiplicados por mais de dois, estão plenamente justificados os relatórios em discussão. Em particular, é óbvio que os Estados têm a obrigação de apoiar a criação de um registo das pessoas singulares que usam empresas-fantasma para a evasão fiscal. E apoio também as propostas do Colega Staes.
+<P>
+Dito isto, não é na fuga ao IVA que se joga o essencial da evasão fiscal na Europa, porque há uma evasão legal, a que é permitida e facultada pelos Governos e que se materializa nos offshores financeiros. É aí que se reciclam dinheiros do crime, é aí que se criminalizam dinheiros legais. Quando o dinheiro dos nossos impostos anda a ser usado para resgatar bancos e banqueiros, o fim dos paraísos fiscais é a verdadeira prova de coragem que se coloca à Europa nos próximos tempos. É por ela que seremos julgados e estamos ainda a anos-luz do que é necessário em matéria de evasão fiscal.
+<SPEAKER ID="265" NAME="Sergej Kozlík" AFFILIATION="NI">
+(SK) Senhora Presidente, Senhoras e Senhores Deputados, estimados convidados, é indiscutível que a fraude fiscal causa uma perturbação significativa da concorrência e do funcionamento do mercado interno, reduzindo as receitas públicas. A exposição de motivos não é completamente convincente quando afirma que as medidas propostas, que visam exclusivamente a aceleração e intercâmbio de dados relacionados com as operações intracomunitárias, não representarão encargos excessivos para o sector empresarial.
+<P>
+A exposição de motivos da Comissão reconhece, simultaneamente, a existência de dúvidas no sector empresarial no que diz respeito à capacidade das autoridades fiscais de utilizar a informação fornecida. A exposição de motivos não dissipa estas dúvidas. Apesar disso, as medidas que visam o combate à fraude fiscal têm de começar em algum lado. É provável que apenas a prática venha a mostrar se a medida proposta funciona ou se não passa de mais um encargo administrativo para o sector empresarial.
+<SPEAKER ID="266" NAME="Bogusław Liberadzki" AFFILIATION="PSE">
+(PL) Senhora Presidente, gostaria de considerar tanto o relatório como o problema em si sob o ponto de vista da fraude, em primeiro lugar, das perdas orçamentais, em segundo lugar, e, em terceiro lugar, da distorção da concorrência, uma vez que a fraude fiscal mina os princípios de uma concorrência equitativa.
+<P>
+Desejo exprimir o meu especial apreço pelo relatório e pelo relator, o senhor deputado Staes, que produziu um excelente relatório. É um dos poucos relatórios que não só refere os montantes como também aponta os Estados-Membros onde essas irregularidades ocorrem. Desejo igualmente exprimir a minha gratidão ao Tribunal de Auditores, que destacou dois grupos principais de motivos. Em primeiro lugar, os motivos associados aos Estados-Membros, que poderíamos interpretar como uma espécie de passividade por parte do Conselho ou de inércia por parte dos Estados-Membros, os quais poderiam dar uma contribuição significativa para a resolução do problema tomando medidas aparentemente simples, tais como o intercâmbio pronto e fiável de informação, e demonstrando vontade para identificar e eliminar as causas do actual estado de coisas.
+<P>
+Há também uma segunda questão importante a que não foi dada suficiente relevância na intervenção do Senhor Comissário, e que é a seguinte: o que pode a Comissão, juntamente com os serviços que lhe estão subordinados, como a Direcção-Geral da Fiscalidade e da União Aduaneira e o Organismo Europeu de Luta Antifraude (OLAF), de facto fazer, em vez de insistir nas explicações, tantas vezes burocráticas, no sentido de, por mais esforços que façam, estes ainda não terem produzido resultados?
+<SPEAKER ID="267" NAME="Louis Michel" LANGUAGE="FR">
+Senhora Presidente, minhas senhoras e meus senhores, gostaria de vos agradecer as observações e pontos de vista que manifestaram ao longo deste debate.
+<P>
+A Comissão terá em conta as sugestões feitas pelo Parlamento Europeu nas suas propostas legislativas actuais e futuras.
+<P>
+Apraz-me constatar que os pareceres do Parlamento Europeu são semelhantes aos da Comissão no que diz respeito às medidas a tomar para melhorar a luta contra a fraude ao IVA no seio da União Europeia. Sinto-me particularmente satisfeito com o vasto apoio ao principal objectivo da primeira proposta concreta da Comissão, ou seja, acelerar, até Janeiro de 2010, a recolha e o intercâmbio de informações relativas às transacções intracomunitárias.
+<P>
+Falámos sobre a avaliação de impacto. A Comissão analisou os efeitos sobre os custos das empresas e parece que tais custos são limitados. A fim de analisar os efeitos reais com maior precisão, a Comissão está pronta a produzir um relatório de avaliação. Os resultados preliminares da avaliação em curso, a que se referiu a senhora deputada Stauner, serão conhecidos no decorrer das próximas semanas e serão depois validados em cooperação com os Estados-Membros.
+<P>
+Segundo me disseram, a Comissão só poderá aceitar as alterações 4 e 7 do relatório...
+<P>
+Por consequência, não poderão aceitar as alterações 4 e 7 do relatório?
+<P>
+Na verdade, podemos aceitar as alterações 4 e 7 do relatório do senhor deputado García-Margallo y Marfil.
+<P>
+Peço desculpa por estar a proceder desta maneira, mas eu não sou, como já devem ter notado e como sabem, o Comissário responsável, e estou, portanto, muito menos à-vontade nestas questões, que são extremamente exigentes para mim, do que noutras.
+<SPEAKER ID="268" NAME="José Manuel García-Margallo y Marfil">
+relator. - (ES) Pode estar certo, Senhor Comissário Michel, de que agradeço a sua presença aqui para abordar temas que, efectivamente, são duros para todos.
+<P>
+A Comissão solicitou-nos celeridade e actuámos com rapidez. A Comissão dos Assuntos Jurídicos emitiu atempada e devidamente o seu parecer e a Comissão dos Assuntos Económicos e Monetários, numa rara demonstração de unanimidade, aprovou este relatório objecto do nosso debate de hoje.
+<P>
+Senhor Comissário, o senhor leu-nos as propostas que o Conselho adoptou a 1 de Dezembro, com base nas notas que lhe foram preparadas nos respectivos serviços, propostas que não são exactamente as que estamos aqui a debater. O que estamos a debater aqui é outra coisa. Não me surpreende que nos tenham dito o que pensam fazer, porque o que de facto fizeram é muito pouco, como já referi antes.
+<P>
+A celeridade com que o Parlamento actuou nesta matéria realmente importante, como salientaram os meus colegas, não foi correspondida nem com o entusiasmo da Comissão nem com o entusiasmo do Conselho.
+<P>
+Um presidente de comissão muito importante disse uma vez que esperava da Comissão "de l'audace, encore de l'audace et toujours de l'audace" (coragem, mais coragem e sempre coragem). A Comissão detém o monopólio da iniciativa legislativa, e este Parlamento assim o quis, mas deter este monopólio exige que estas iniciativas sejam mostradas e que sejam propostas com coragem e sem receios, sem recuar por temor a que o Conselho possa não as aprovar.
+<P>
+É preciso lançar, fazer avançar e defender iniciativas, e o Conselho terá de responder perante a Comissão e perante este Parlamento se essas propostas não tiveram bons resultados. Não foi esse o caso. O que descrevi na minha intervenção anterior é a história de uma ambição em declínio, das propostas mais absolutas às medidas convencionais, a um pacote de medidas das quais apenas se seleccionam duas, as mais modestas.
+<P>
+Agradeço ao Senhor Comissário Michel e peço-lhe que transmita ao Comissário responsável os meus agradecimentos por ter aceite algumas alterações, embora me sinta realmente frustrado pelo que aqui foi debatido.
+<SPEAKER ID="269" NAME="Bart Staes">
+relator. - (NL) Senhora Presidente, Senhor Comissário, Senhoras e Senhores Deputados, não posso senão subscrever as palavras do senhor deputado García-Margallo y Marfil. Em minha opinião, os dois relatórios, na realidade, os três relatórios que temos presentes, e o modo como foram aprovados, pela Comissão dos Assuntos Económicos e Monetários, por um lado, e, por outro, pela Comissão do Controlo Orçamental, demonstra o elevado nível de determinação - determinação de não tomar isto levianamente.
+<P>
+Há muito dinheiro envolvido. Imaginem só que podíamos recuperar apenas um quarto desse dinheiro. Iríamos acabar com um fundo de 60 mil milhões de EUR nos Estados-Membros e na União Europeia. E temos necessidade desse dinheiro! O senhor Vice-Presidente da Comissão, que hoje se encontra aqui presente, sabe que tem uma importante missão a cumprir. Sabemos, por conseguinte, aquilo por que estamos a lutar. Estamos a lutar também contra a desonestidade e a injustiça. No fim de contas, quem não paga os seus impostos, quem tenta esquivar-se a pagá-los, dá mostras de um comportamento anti-social, coisa que exige determinação nesta Casa.
+<P>
+Gostaria de dizer ao senhor Comissário Michel que compreendo a sua resposta. O senhor Comissário tem as suas próprias competências. Encontra-se aqui em substituição de outra pessoa, e compreendo que está simplesmente a ler uma resposta. Isso não é problema. Vou levar o seu texto comigo, e vamos trabalhar com ele.
+<P>
+Gostaria, porém, de pedir à Comissão que não se limitasse a discutir com os Estados-Membros o estudo sobre a extensão da fraude, que devia estar pronto no fim do ano, mas que também o apresentasse à Comissão dos Assuntos Económicos e Monetários e à Comissão do Controlo Orçamental, de molde a podermos incluir também outros aspectos.
+<SPEAKER ID="270" NAME="Presidente">
+Está encerrado o debate.
+<P>
+A votação terá lugar na quinta-feira, dia 4 de Dezembro de 2008, às 12H00.
+<P>
+Declarações escritas (Artigo 142.º)
+<SPEAKER ID="271" NAME="Sebastian Valentin Bodu  " LANGUAGE="RO">
+O relatório em apreço é particularmente importante pelo facto de introduzir mecanismos que visam eliminar ou reduzir as possibilidades de defraudar o orçamento da UE através de transacções intracomunitárias fraudulentas passíveis de IVA.
+<P>
+Presentemente, calcula-se que as perdas anuais resultantes de transacções fictícias que envolvem empresas-fantasma se elevam a 100 milhões de euros (16% dos actuais recursos da UE).
+<P>
+A redução dos prazos, tanto de recolha como de transmissão de dados entre as autoridades fiscais dos Estados-Membros, poderá ajudar a melhorar o controlo de transacções desta natureza.
+<P>
+Nos termos de uma alteração apresentada pela Comissão ao relatório em apreço, e aprovada, as autoridades fiscais nos Estados-Membros ficarão ligadas a uma base de dados comum que conterá os elementos de identificação das pessoas singulares por detrás das empresas-fantasma envolvidas em transacções fraudulentas desta natureza.
+<P>
+Isto dissuadirá tais operadores de estabelecer outras empresas em qualquer outro ponto da União Europeia, e não apenas num único Estado-Membro como acontece actualmente. Isto conseguir-se-á na medida em que os operadores serão identificados em tempo real ao ser feita uma verificação na base de dados, e também porque os dados serão enviados à Conservatória do registo comercial onde o pedido de registo de uma nova empresa foi entregue.
+<SPEAKER ID="272" NAME="Zbigniew Krzysztof Kuźmiuk  " LANGUAGE="PL">
+Ao tomar a palavra num debate dedicado ao combate à fraude fiscal, gostaria de chamar a atenção para as seguintes questões. A perda de receitas resultante da evasão ao IVA nos diferentes Estados-Membros é extremamente elevada e aumenta todos os anos. Por exemplo, na Alemanha, no ano de 2005, as perdas ascenderam a cerca de 17 mil milhões de euros e, no Reino Unido, durante o ano fiscal de 2005-2006, foram superiores a 18 mil milhões de euros.
+<P>
+Apesar de a União Europeia ter introduzido muitas iniciativas para combater a evasão ao IVA, tal como a Eurocanet (uma rede de intercâmbio de informação sobre empresas suspeitas de fraude ao IVA, que infelizmente não inclui a Alemanha, o Reino Unido nem a Itália), e do trabalho de instituições como a Europol, a Eurojust e a OLAF, as perdas de receitas aumentam significativamente de ano para ano.
+<P>
+Nestas circunstâncias, deveríamos abandonar acções conducentes à criação de novas agências intergovernamentais e, em vez disso, reforçar o papel da Comissão Europeia como coordenador central da cooperação administrativa entre os Estados-Membros preocupados com a luta contra a evasão ao IVA. Consequentemente, podemos pelo menos debater se não deveríamos criar um novo mecanismo, o Eurofisc, concebido como uma nova rede descentralizada na qual os Estados-Membros participariam numa base voluntária.
+<SPEAKER ID="993" NAME="Andrzej Jan Szejna  " AFFILIATION="PSE">
+por escrito. - (PL) O relatório sobre o combate à fraude fiscal no domínio das transacções intracomunitárias é um acto jurídico muito importante.
+<P>
+A fraude fiscal é equivalente a um ataque ao princípio da tributação justa e transparente. Mina também em que assenta o funcionamento da União. Menos dinheiro a entrar no orçamento da União significa que não poderemos implementar as políticas na íntegra.
+<P>
+O combate à fraude fiscal inscreve-se essencialmente nas competências dos Estados-Membros. Contudo, estes não devem actuar isoladamente. Há uma necessidade óbvia de coordenar o trabalho a nível comunitário e de fortalecer a cooperação entre as administrações nacionais dos Estados-Membros e a Comissão Europeia.
+<P>
+A reforma do IVA é um processo moroso e a longo prazo. Consequentemente, o relatório em apreço afirma que devem ser utilizados os recursos convencionais. Estes implicam alterações à legislação no domínio da responsabilidade do contribuinte no caso de os documentos necessários não serem apresentados a tempo ou serem apresentados de forma incorrecta. Outras alterações incluem a redução do prazo de recolha de informação e correcções rápidas de dados inexactos, a par da aceleração do intercâmbio de informação relativa a transacções intracomunitárias.

@@ -1,0 +1,28 @@
+<CHAPTER ID="012">
+Hääletused
+<SPEAKER ID="231" NAME="Juhataja">
+Päevakorra järgmine punkt on hääletus.
+<P>
+(Hääletuse tulemus ja muu hääletust puudutav info: vaata protokolli)
+<P>
+- Enne hääletust:
+<SPEAKER ID="232" NAME="Martine Roure" AFFILIATION="PSE">
+(FR) Proua juhataja, peate mind nüüd kergesti ärrituvaks, kuid arvan, et kui nii vähe liikmeid hääletab selliste oluliste raportite üle, selliste oluliste resolutsioonide üle - ja süüdi pole muidugi need, kes on siin -, on ausalt öelda minu arvates olukord lootusetu ja õigupoolest sean ma kahtluse alla meie tõsiseltvõetavuse.
+<P>
+Seetõttu, kõneldes isiklikult, ei saa ma leppida kauem sellega, et meid on kohal nii vähe, ning teatud hetkel tuleb esitada küsimus, kas ei peaks olema kvoorum. Olen teadlik, et peab olema 40 liiget, enne kui saab nõuda kvoorumit. Kuna meid on natuke üle 40, on see raske, kuid arvan siiski, et midagi tuleb ette võtta.
+<P>
+(Aplaus)
+<SPEAKER ID="233" NAME="Juhataja">
+Kuna asja on tõstatanud vähem kui 40 liiget, jätkame hääletusega.
+<SPEAKER ID="234" NAME="Marios Matsakis" AFFILIATION="ALDE">
+Proua juhataja, seda on juhtunud viimased viis aastat. Pole ainult täna, et seda on juhtunud. On veidi hilja seda täna tähele panna.
+<SPEAKER ID="235" NAME="Zuzana Roithová" AFFILIATION="PPE-DE">
+(CS) Sooviksin vaid rõhutada, et antud probleem käib sotsialistide ja võib-olla mõnede teiste rühmituste kohta ka, kuid mitte Euroopa rahvapartei fraktsiooni kohta, kes on oma vastutusaladest kõnealuse olulise teema puhul teadlik ning on siin kohal tunduvalt suuremal arvul kui teised.
+<SPEAKER ID="236" NAME="Gérard Onesta" AFFILIATION="Verts/ALE">
+(FR) Proua juhataja, teil on täiesti õigus. Kvoorumiprotseduuri saab kohaldada ainult 40 liikme nõudel või istungi juhataja poolt. Seetõttu, kui soovite, kui arvate, nagu pr Roure ütles, et antud arutelu on praegu lõpetamiseks liiga oluline, võite ise nõuda kvoorumi ja lasta antud hääletuse ära jätte, kui arvate, et asi seda väärt on.
+<SPEAKER ID="237" NAME="Mario Mauro">
+autor. - (IT) Proua juhataja, tänan härra Onestat, kuid arvan, et kaduma on läinud järjekordne katse päästa in extremis mitu korda hukka mõistetud terroristi.
+<SPEAKER ID="238" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Proua juhataja, tahan vaid öelda, et just neljapäeva pärastlõunati arutatakse kõige olulisemaid küsimusi ning et seetõttu tuleb nende kiireloomulisuse tõttu nende oluliste küsimustega tõepoolest neljapäeva pärastlõunati tegeleda. Ainukesed, kes süüdi on, on need, kes neljapäeviti puuduvad. Nad on kõrvalehiilijad ning peaks järele mõtlema, kas nad uuesti Euroopa Parlamenti kandideerida soovivad.
+<SPEAKER ID="239" NAME="Juhataja">
+Asjal on laiem poliitiline mõõde. Süüdi on suur hulk inimesi: poliitilised fraktsioonid ja iga liige eraldi. Ma ei saa minna protseduuriga vastuollu, härra Onesta. Eeskiri ütleb, et võin vastata 40 liikme nõudele, mis käesoleval hetkel ei kohaldu.

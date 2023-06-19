@@ -1,0 +1,8 @@
+<CHAPTER ID="002">
+Przyjęcie protokołu poprzedniego posiedzenia
+<SPEAKER ID="006" NAME="Przewodniczący">
+Protokół z dnia 27 października 2011 r. został rozdany.
+<P>
+Czy ktoś zgłasza uwagi?
+<P>
+(Protokół poprzedniego posiedzenia został zatwierdzony)

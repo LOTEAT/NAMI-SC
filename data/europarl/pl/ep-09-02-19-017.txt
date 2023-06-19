@@ -1,0 +1,6 @@
+<CHAPTER ID="017">
+Przerwa w obradach
+<SPEAKER ID="348" NAME="President">
+Ogłaszam przerwę w obradach Parlamentu Europejskiego.
+<P>
+(Posiedzenie zostało zamknięte o godz. 12.50)

@@ -1,0 +1,6 @@
+<CHAPTER ID="006">
+Votare 
+<SPEAKER ID="108" NAME="Preşedinte">
+Vom trece la vot acum.
+<P>
+(Pentru rezultate şi alte detalii privind votul: a se vedea procesele-verbale)

@@ -1,0 +1,16 @@
+<CHAPTER ID="004">
+Äänestykset
+<SPEAKER ID="056" NAME="Puhemies">
+(FR) Esityslistalla on seuraavana äänestykset.
+<P>
+(Äänestysten tulokset ja niiden kulkua koskevat yksityiskohdat: ks. pöytäkirja).
+<P>
+
+<SPEAKER ID="057" NAME="Monica Frassoni" AFFILIATION="Verts/ALE">
+(IT) Arvoisa puhemies, esitän vain pienen huomion, koska kollegat juuri istuutuvat.
+<P>
+Muutimme työjärjestystä, koska liian paljon aikaa käytettiin tuloksettomiin keskusteluihin ja päätimme, että emme käy keskustelua Margrete Aukenin mietinnöstä. Kulutimme turhaan puoli tuntia, jonka olisimme voineet käyttää paljon paremmin keskustelemalla kansalaisille erittäin tärkeästä tekstistä.
+<SPEAKER ID="058" NAME="Puhemies">
+(FR) Huomautuksenne välitetään eteenpäin asiasta vastaaville yksiköille.
+<P>
+

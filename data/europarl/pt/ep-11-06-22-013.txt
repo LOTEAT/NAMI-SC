@@ -1,0 +1,4 @@
+<CHAPTER ID="013">
+Boas-vindas
+<SPEAKER ID="030" NAME="Presidente">
+Gostaria de dar as boas-vindas à delegação do México presente na tribuna oficial, composta por membros da Câmara dos Deputados e do Senado.

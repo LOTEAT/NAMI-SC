@@ -1,0 +1,6 @@
+<CHAPTER ID="020">
+Unterbrechung der Sitzungsperiode
+<SPEAKER ID="287" NAME="Der Präsident">
+Ich erkläre die Sitzung für unterbrochen.
+<P>
+(Die Sitzung wird um 16.20Uhr geschlossen.)

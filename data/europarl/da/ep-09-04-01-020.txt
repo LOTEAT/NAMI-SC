@@ -1,0 +1,84 @@
+<CHAPTER ID="020">
+Fastsættelse af grænseværdier for restkoncentrationer af farmakologisk virksomme stoffer i animalske fødevarer (forhandling) 
+<SPEAKER ID="253" NAME="Formanden">
+Næste punkt på dagsordenen er indstilling ved andenbehandling af Udvalget om Miljø, Folkesundhed og Fødevaresikkerhed om Rådets fælles holdning med henblik på vedtagelse af Europa-Parlamentets og Rådets forordning om fællesskabsprocedurer for fastsættelse af grænseværdier for restkoncentrationer af farmakologisk virksomme stoffer i animalske fødevarer og om ophævelse af forordning (EØF) nr. 2377/90 og om ændring af Europa-Parlamentets og Rådets direktiv 2001/2/EF og Europa-Parlamentets og Rådets forordning (EF) nr. 726/2004 (15079/2/2008 - C6-0005/2009 - (Ordfører: Avril Doyle).
+<SPEAKER ID="254" NAME="Avril Doyle">
+ordfører. - (EN) Hr. formand! Jeg vil gerne starte med at takke alle mine skyggeordførere og også det franske formandskab for at have gjort det lettere at opnå enighed under andenbehandlingen.
+<P>
+Formålet med dette temmelig tekniske forslag er at ajourføre den eksisterende EU-ordning, hvis hovedmålsætning er at beskytte folkesundheden ved at begrænse eksponeringen af forbrugere af animalske fødevarer for restkoncentrationer af farmakologisk virksomme stoffer i veterinærlægemidler og biocidholdige produkter. Dette opnås ved at indføre sikkerhedstærskler eller maksimale grænseværdier (MRL) for godkendte stoffer og ved at forbyde stoffer, der enten er usikre, eller for hvilke der ikke har kunnet udarbejdes en videnskabeligt baseret sikkerhedsprofil.
+<P>
+MRL alene kan ikke beskytte forbrugerne. Forbrugerne beskyttes direkte ved, at der fastsættes en hensigtsmæssig tilbageholdelsesperiode før slagtning og ved at indføre kontroller til overvågning heraf. I praksis fastsættes tilbageholdelsesperioderne under anvendelse af en høj sikkerhedsfaktor, som afspejler mængden af data, der er tilgængelige på det indeværende produktudviklingstrin.
+<P>
+Vi har opnået enighed om de centrale aspekter. For det første ekstrapolering af MRL fra en art til en anden, for det andet vedtagelse på EU-plan af MRL, der er fastsat internationalt under Codex Alimentarius, og for det tredje etablering af rammer for fastsættelse af MRL for fødevarer, der importeres fra tredjelande.
+<P>
+Vi fik afklaret, hvilke foranstaltninger der skal træffes, når der findes ikkegodkendte stoffer enten i fødevarer produceret i EU eller importeret fra tredjelande, samt afklaret grundlaget for at revidere dette såkaldte referencegrundlag for foranstaltninger (RPA), dvs. det maksimale niveau, der fastsættes med henblik på kontrol af ikkegodkendte stoffer i lyset af eventuelle nye data.
+<P>
+Der blev også opnået enighed om spørgsmålet om fastsættelse af MRL for visse biocidholdige produkter såsom desinfektionsmidler brugt i dyremiljøet, især i henseende til finansieringsaspekterne ved deres godkendelse og dossierer.
+<P>
+Fastsættelsen af en MRL for et farmakologisk virksomt stof kræver en dyr pakke af data fra toksikologi- og stofskifteundersøgelser. Det er for dyrt for nogle mindre almindelige, mindre udbredte dyrearter, da markedet for veterinærlægemidler er begrænset - såkaldte anvendelser af mindre betydning. Fastsættelse af en MRL er det første, der skal gøres, før der kan indsendes en ansøgning til myndighederne om godkendelse af et veterinærlægemiddel til dyrearter, der er beregnet til fødevareproduktion, som indeholder et farmakologisk virksomt stof.
+<P>
+Så dette spørgsmål om mindre udbredte sygdomme og mindre udbredte arter (MUMS) er et problem, som skal løses hurtigst muligt, fordi det kan påvirke dyrevelfærden og fødevaresikkerheden. Dyrlæger har pligt til at udvise omhu og vil altid søge at behandle et sygt dyr. I henhold til den nugældende lovgivning tvinges de ofte til at ty til ikkegodkendte lægemidler.
+<P>
+Findes der ikke en MRL, kan myndighederne heller ikke fastsætte en relevant tilbageholdelsesperiode for et lægemiddel. Ifølge den nugældende MRL-forordning skal der ikke fastsættes en MRL for individuelle arter. Udvalget for Veterinærlægemidler under Det Europæiske Lægemiddelagentur (CVMP) fastsætter MRL for individuelle arter i henhold til forsigtighedsprincippet. I 1997 reviderede CVMP efter fem års erfaringer alle fastsatte MRL og konkluderede, at det ikke var nødvendigt at fastsætte MRL for individuelle arter, da MRL'erne for et bestemt stof næsten altid ligner hinanden eller er identiske. Samme år udsendte CVMP retningslinjer for fastsættelse af MRL for mindre udbredte arter. Det definerede mindre udbredte arter, der anvendes til levnedsmiddelproduktion, som alle arter undtagen kvæg, svin og fjerkræ, herunder slægten salmonidae.
+<P>
+Herefter kan der ekstrapoleres fra en mere til en mindre udbredt art af samme familie, dvs. drøvtygger til drøvtygger, fisk til fisk og kylling til andet fjerkræ. I 2008 udstedte CVMP efter otte års erfaringer nogle nye retningslinjer, nemlig en risikoanalyse for reststoffer af veterinærlægemidler i animalske fødevarer. Her beskrives en risikobaseret tilgang til ekstrapolering af en MRL for et stof fra en eller flere arter til andre arter. Disse retningslinjer gør det muligt at ekstrapolere MRL fra data om de tre største arter til alle arter, forudsat at MRL for disse tre største arter ligner hinanden eller er identiske.
+<P>
+Den tekst, vi har foran os, er blot et retsgrundlag for den nuværende praksis med ekstrapolering, der sigter mod at gøre veterinærlægemidler tilgængelige og fremme dyrs velfærd.
+<P>
+To ændringsforslag sigter specifikt mod at udvide denne manglende tilgængelighed af artsspecifikke lægemidler til hovdyr (og her må jeg sige, at jeg har en personlig interesse), som skal opfylde en række behandlingsmæssige og velfærdsrelaterede behov, herunder begrebet "kliniske fordele", og ikke blot kravet om, at det er "vigtigt" at få et lægemiddel føjet til positivlisten for hovdyr som nævnt i direktivet om veterinærlægemidler. Under klart definerede forhold skal visse produkter, der bruges til hovdyr, ikke have MRL, men skal overholde en tilbageholdelsesperiode på seks måneder.
+<P>
+Jeg vil gerne spørge formanden, om der måske findes en erklæring, som kommissæren vil have ført til protokols. Jeg kan i hvert fald huske en diskussion om dette emne for nogle måneder siden i forbindelse med revisionen af direktivet om veterinærlægemidler.
+<SPEAKER ID="255" NAME="Günter Verheugen" LANGUAGE="DE">
+Hr. formand, mine damer og herrer! Revisionen af lovgivningen om grænseværdier for restkoncentrationer af farmakologisk virksomme stoffer i animalske fødevarer er et vigtigt initiativ for Kommissionen. Målet er at beskytte forbrugerne mod restkoncentrationer af lægemidler i fødevarer og samtidig forbedre tilgængeligheden af veterinærlægemidler i hele EU. Det er også en vigtig del af Kommissionens program om forenkling af lovgivningen.
+<P>
+Den 21. oktober sidste år indgik Rådet og Parlamentet en aftale, som er afspejlet i denne fælles holdning. Derfor har vi nu en holdning, som ikke kun er fælles for Rådet og Parlamentet, men som også Kommissionen tilslutter sig. Det glæder mig, at Kommissionen har indarbejdet ændringsforslagene fra både Parlamentet og Rådet, da begge parters forslag stemmer overens med både ånden i og indholdet af det oprindelige forslag fra Kommissionen.
+<P>
+Kommissionen gav derfor sin fulde støtte til den fælles holdning i sin meddelelse til Europa-Parlamentet af 8. januar i år. Vedtagelsen af den fælles holdning vil nu gøre det muligt at få afsluttet sagen med et godt resultat inden denne valgperiodes afslutning.
+<P>
+At få afsluttet den på grundlag af denne fælles holdning vil gøre det muligt for de aktører, der arbejder med fødevarekontrol og produktion af veterinærlægemidler i det daglige, at udføre et bedre arbejde, hvilket fremmer dyrevelfærden og forbrugerbeskyttelsen i Fællesskabet. Disse mennesker har ventet meget længe og meget utålmodigt på at få ændret lovgivningen om restkoncentrationer, og nu synes jeg faktisk, at de har ventet længe nok og kan glæde sig over, at der er fundet en løsning.
+<P>
+Jeg ved udmærket godt, at det er af særlig stor vigtighed at have adgang til veterinærlægemidler. Selv om der allerede er gjort store fremskridt med denne forordning om restkoncentrationer af farmakologisk virksomme stoffer, vil Kommissionen derfor i 2010 fremlægge en vurdering af de problemer, der opstår i kølvandet på direktivet om veterinærlægemidler, og vil om nødvendigt også fremsætte forslag om ny lovgivning.
+<P>
+Jeg vil gerne benytte lejligheden til især at takke fru Doyle, hvis utrættelige indsats har gjort det muligt for os at nå til enighed om dette vigtige spørgsmål.
+<P>
+Doyle-betænkningen
+<P>
+Kommissionen er klar over, at borgere, dyrlæger, medlemsstaterne og dyresundhedssektoren nærer betænkeligheder ved direktivet om bestemmelser for godkendelse af veterinærlægemidler. Især er den bevidst om, hvor vigtigt det er at løse de eksisterende problemer med udbuddet af veterinærlægemidler og anvendelsen af lægemidler på arter, som de ikke er godkendt til, og at imødegå de uforholdsmæssigt store byrder, der kan være forbundet med lovgivningen, og som kan være en hæmsko for innovation, samtidig med at der skal sikres et højt forbrugersikkerhedsniveau i forbindelse med animalske fødevarer. Kommissionen gør opmærksom på de positive tiltag, der i øjeblikket gennemføres på dette område, f.eks. forenklingen af bestemmelserne om ændringer af markedsføringstilladelser for veterinærlægemidler og nærværende revision af lovgivningen om maksimalgrænseværdier i fødevarer.
+<P>
+For at opfylde målene om forbrugersikkerhed og dyresundhed, konkurrenceevne i veterinærlægemiddelindustrien, for herunder små og mellemstore virksomheder, og begrænsning af den administrative byrde vil Kommissionen desuden i 2010 forelægge en vurdering af problemerne i forbindelse med anvendelsen af direktivet om veterinærlægemidler og om nødvendigt fremsætte forslag til lovgivning.
+<SPEAKER ID="257" NAME="Avril Doyle">
+ordfører. - (EN) Hr. formand! Jeg vil gerne have ført til protokols, at der er ét ændringsforslag, som jeg ikke kan støtte, fordi det ville skabe en juridisk blindgyde. Hvis man ikke kan give et lægemiddel under test til dyr, medmindre det allerede har en MRL, kan man overhovedet ikke udføre de test, der er nødvendige for at indhente de data, der skal bruges til at fastlægge MRL og tilbageholdelsesperioden.
+<P>
+Tak til kommissæren for hans samarbejde på dette område, og fordi han har fokuseret på det presserende behov for en revision af direktivet om veterinærlægemidler.
+<P>
+På sin vis bruger vi denne revision af MRL som en lappeløsning på et stort problem, som endnu ikke er blevet løst, men hvis eksistens vi alle kender. Tilgængeligheden af tilstrækkelig mange og forskellige veterinærlægemidler til behandling af de mange forskellige dyrearter i EU er blevet en stedse større udfordring i de sidste 20 år. I denne periode har de forskellige interessenter, herunder lovgivere, industrien og dyrlæger, gjort en stor indsats for at løse problemet med lægemidlers tilgængelighed.
+<P>
+Trods disse bestræbelser er situationen ikke blevet bedre, tværtimod. Manglen på godkendte lægemidler er en reel trussel mod dyrs sundhed og velfærd og forbrugernes sikkerhed. Det skaber også store problemer for dyreejere, landmænd, dyrlæger og myndigheder, hvis dyr ikke behandles eller er truet på grund af et ikkegodkendt eller uegnet produkt, herunder den risiko, som zoonotiske sygdomme på grund af ubehandlede eller fejlbehandlede dyr udgør for dyreejerne, forbrugerne og borgerne.
+<P>
+Der er også økonomiske, juridiske og handelsmæssige følger for de forskellige interessenter, og manglen på lægemidler kan få negative følger for landdistrikternes økonomi og for landbruget generelt. Et meget vigtigt eksempel er indvirkningen på bestøvning som følge af det faldende antal bifamilier. Bier er et meget vigtigt aspekt af MUMS (mindre udbredte sygdomme, mindre udbredte arter).
+<P>
+De nuværende problemer med tilgængelighed i EU har imidlertid ikke kun generelt betydning for dyrs sundhed og velfærd, for en sikker fødevareforsyning i EU og for folkesundheden, de underminerer også EU's evne til at opfylde Lissabondagsordenens målsætninger og udnytte det enorme potentiale, som europæisk landbrug og offshore akvakultur har for at tiltrække forskning og udvikling inden for veterinærlægemidler.
+<P>
+Tak igen til alle kollegerne og til kommissæren for samarbejdet om denne betænkning.
+<SPEAKER ID="258" NAME="Formanden">
+Forhandlingen er afsluttet.
+<P>
+Afstemningen finder sted i morgen.
+<P>
+Skriftlige erklæringer (artikel 142)
+<SPEAKER ID="259" NAME="Péter Olajos  " AFFILIATION="PPE-DE">
+skriftlig. (HU) Vi hører ofte klager over, at EU forsøger at regulere alting og samtidig ikke forholder sig til alvorlige spørgsmål.
+<P>
+Mange af os synes måske, at dette også gælder for denne betænkning, men det ville være forkert. For i denne sag taler vi om fødevarer, der forbruges af mennesker - det er det, vi gerne vil gøre mere sikkert for borgerne.
+<P>
+De eksisterende bestemmelser er forældede og gør det svært for dyrlæger at få fyldt deres lager af lægemidler op. Derfor er der behov for god regulering på netop dette område.
+<P>
+Nu til dags har flere og flere medicinalvirksomheder en afdeling, som arbejder med produkter til dyr, og som giver dem betydelige indtægter. Efterspørgslen er stadigt stigende, for dyr bliver jo også syge, og nu, hvor fødevarer blive dyrere og dyrere, kan det betale sig at forebygge dette.
+<P>
+I den seneste tid har vi imidlertid flere gange hørt, at nogle virksomheder arbejder på, hvordan man kan få mere ud af dyr, f.eks. hurtigtvoksende kyllinger eller svin, som opfedes til enorme størrelser på bare et par måneder. Alt dette gøres med (læge)midler, der ofte er skadelige for mennesker.
+<P>
+Derfor skal hvert eneste præparat, der gives til dyr, testes i samarbejde med Det Europæiske Lægemiddelagentur (EMEA) for at få fastslået, om de restkoncentrationer af disse produkter, der forbliver i dyr, som efterfølgende forbruges af mennesker, udgør en fare.
+<P>
+Det er virksomheden, der betaler for testen. Vi skal også fremhæve, at der nu findes en hasteprocedure, som reducerer den tid, der bruges til administration, og det er også vigtigt, at dyrlægerne får meget hurtigere adgang til lægemidlerne.
+<P>
+Intet er vigtigere end menneskers sundhed, og derfor skal vi forhindre "dyredoping" motiveret af økonomisk vinding.

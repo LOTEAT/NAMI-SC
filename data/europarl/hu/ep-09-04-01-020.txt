@@ -1,0 +1,86 @@
+<CHAPTER ID="020">
+Az állati eredetű élelmiszerekben előforduló farmakológiai hatóanyagok maradékanyag-határértékeinek meghatározása (vita) 
+<SPEAKER ID="253" NAME="Elnök">
+A következő napirendi pont az állati eredetű élelmiszerekben előforduló farmakológiai hatóanyagok szermaradék-határértékeinek meghatározására irányuló közösségi eljárásokról, a 2377/90/EGK rendelet hatályon kívül helyezéséről, valamint a 2001/82/EK európai parlamenti és tanácsi irányelv és a 726/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló európai parlamenti és tanácsi rendelet elfogadására vonatkozó tanácsi közös álláspontról szóló, második olvasatra előterjesztett ajánlás (15079/2/2008 - C6-0005/0009 - (előadó: Avril Doyle).
+<SPEAKER ID="254" NAME="Avril Doyle">
+előadó. - Elnök úr, kezdhetném azzal, hogy köszönetet mondok valamennyi árnyékelőadómnak, és tulajdonképpen a francia elnökségnek azért, hogy elősegített egy korai második olvasatra vonatkozó megállapodást?
+<P>
+Ez egy meglehetősen technikai javaslat, mivel az a célja, hogy naprakésszé tegye azt a meglévő uniós rendszert, melynek legfőbb rendeltetése, hogy védje a közegészséget, korlátozva az állati eredetű élelmiszereket fogyasztók állatgyógyászati készítményekben és biocid termékekben előforduló farmakológiai hatóanyagoknak való kitettségét. Ez a jóváhagyott anyagok vonatkozásában biztonsági küszöbértékek vagy maradékanyag-határértékek (MRL) megállapításával, vagy az olyan anyagok betiltásával érhető el, amelyeket vagy nem biztonságosnak találnak, vagy amelyek tekintetében biztonsági profil tudományosan nem állapítható meg.
+<P>
+Az MRL-ek önmagukban nem védik a fogyasztókat. A fogyasztók közvetlen védelme a vágás utáni megfelelő várakozási idő megállapításával, valamint annak felügyeletére irányuló érvényben lévő ellenőrzésekkel biztosított. A gyakorlatban a várakozási idők megállapítása magas biztonsági tényező használatával történik, amely tükrözi a termékfejlesztés aktuális szakaszában rendelkezésre álló adatmennyiséget.
+<P>
+Megállapodásra jutottunk a kulcskérdésekkel kapcsolatban. Először is, az egy adott fajra megállapított MRL-ek másik fajra történő extrapolálása; másodszor az EU-n belül a Codex Alimentarius-ban nemzetközileg megállapított MRL-ek elfogadása; harmadszor pedig MRL-eket megállapító keretrendszer létrehozása a harmadik országokból importált élelmiszerekre.
+<P>
+Sikerült egyértelművé tennünk azokat az intézkedéseket, amelyeket akkor kell meghozni, ha nem engedélyezett anyagokat találnak vagy az EU-ban előállított élelmiszerekben, vagy harmadik országokból importált élelmiszerekben, továbbá azokat az intézkedéseket, amelyek tisztázzák ezen intézkedési referenciapontok felülvizsgálatának az alapját: azaz bármely nem engedélyezett anyag - bármely új adat fényében történő - ellenőrzése céljára megállapított maximális szintet.
+<P>
+Bizonyos biocid termékek, például az állati környezetben használt fertőtlenítőszerek vonatkozásában az MRL-ek megállapításának kérdése szintén megállapodás tárgyát képezte, különösen az engedélyezésük és a dokumentációjuk finanszírozási szempontjai tekintetében.
+<P>
+Valamely farmakológiai hatóanyaghoz tartozó MRL megállapítása toxikológiával és anyagcserével kapcsolatos tanulmányok költséges adatcsomagját teszi szükségessé. Ez túlságosan költséges egyes nem általánosan elterjedt élelmiszertermelő fajok, úgynevezett "kisebb jelentőségű élelmiszertermelő fajok”esetében, mivel ezek esetében az állatgyógyászati készítmények piaca kicsi - úgynevezett "jelentéktelenebb felhasználásokra” szánt piacok. Az MRL megállapítása az első végrehajtandó lépés, amelyet meg kell tenni azelőtt, mielőtt farmakológiai hatóanyagot tartalmazó élelmiszertermelő fajoknak szánt állatgyógyászati készítmény engedélyezésére irányuló kérelem nyújtható be a szabályozó hatóságoknak.
+<P>
+Tehát ez a kevésbé elterjedt alkalmazásokkal/kevésbé jelentős fajokkal (Minor Use/Minor Species; MUMS) kapcsolatos kérdés sürgősen megoldásra szoruló probléma, mivel potenciális állatjólléti és élelmiszerbiztonsági kérdéseket vet fel. Az állatorvosoknak ellátási kötelezettségük van, és mindig megpróbálják kezelni a beteg állatokat. A jelenlegi jogszabályok értelmében gyakran nem engedélyezett gyógyszerekhez kénytelenek folyamodni.
+<P>
+Az MRL hiánya megakadályozza a hatóságokat abban is, hogy egy adott gyógyszer vonatkozásában megfelelő várakozási időt állapíthassanak meg. A jelenlegi MRL-rendelet nem írja elő, hogy egyes fajokra MRL-eket kell megállapítani. Az Európai Gyógyszerügynökségen belül működő állatgyógyászati készítmények bizottsága - kezdeti óvatos megközelítést követve - MRL-eket állapít meg az egyes fajok vonatkozásában. 1997-ben és az azt követő öt év során szerzett tapasztalatok szerint az állatgyógyászati készítmények bizottsága felülvizsgált minden megállapított MRL-t, és azt a következtetést vonta le, hogy az egyes fajok vonatkozásában nem szükséges MRL-eket megállapítani, mivel egy adott anyagra vonatkozó MRL-ek csaknem mindig hasonlóak vagy azonosak. Ugyanabban az évben az állatgyógyászati készítmények bizottsága iránymutatást adott ki a kevésbé jelentős fajokra vonatkozó MRL-ek megállapításáról. A kevésbé jelentős élelmiszertermelő fajokat úgy határozta meg, hogy a szarvasmarha, a sertés és a baromfi kivételével valamennyi fajt magában foglalják, sőt a lazacalakúakat is.
+<P>
+Lehetővé tette az ugyanazon családhoz tartozó jelentősebb fajok kevésbé jelentős fajokra - kérődző kérődzőre, hal halra, csirke más baromfira - történő extrapolálását. 2008-ban, nyolc év tapasztalatot követően az állatgyógyászati készítmények bizottsága új iránymutatást adott ki. Az állatgyógyászati készítmények maradékanyagokra vonatkozó kockázatelemzési megközelítése állati eredetű élelmiszerekben. Ez a megközelítés egy vagy több fajból származó anyag MRL-je további fajokra történő extrapolálásának kockázaton alapuló megközelítése. Ez az iránymutatás lehetővé teszi a három főbb fajra vonatkozó adatokból származó MRL-ek minden fajra történő extrapolálását - feltéve, ha a három főbb fajra megállapított MRL-ek hasonlóak vagy azonosak.
+<P>
+Ennek az előttünk lévő felülvizsgált dokumentum szövege jogalapot biztosít az állatgyógyászati készítmények hozzáférhetősége és az állatjóllét érdekében végzett jelenlegi extrapolálási gyakorlathoz.
+<P>
+Két módosítás kifejezetten a lóféléknek szánt fajspecifikus gyógyszerek hiányára irányul (be kell vallanom, e területen érdekelt vagyok) számos gyógyászati és jólléti szükségletre kitérve, többek között a "klinikai előny” fogalmára is, és nem csak arra a követelményre, amely "elengedhetetlen” ahhoz, hogy valamely gyógyszer hozzáadódjon az állatgyógyászati irányelvben említett, lófélékre vonatkozó anyagok pozitív listájához. Egyértelműen meghatározott körülmények között a lófélék esetében használt bizonyos termékeknél nem lesznek MRL-ek, hanem be kell majd tartani a hathónapos várakozási időszakot.
+<P>
+Létezik talán egy nyilatkozat - tisztelettel kérem az elnökségen keresztül -, amelyet a Bizottság jegyzőkönyvbe fog vétetni: eszembe jut egy ezzel a kérdéssel kapcsolatos, néhány hónappal ezelőtti vita az állatgyógyászati készítményekről szóló irányelv felülvizsgálatára vonatkozóan.
+<SPEAKER ID="255" NAME="Günter Verheugen" LANGUAGE="DE">
+Elnök úr, tisztelt képviselőtársak, az állati eredetű élelmiszerekben előforduló farmakológiai hatóanyagok maradékanyag-határértékeire vonatkozó jogszabályok felülvizsgálata fontos kezdeményezés az Európai Bizottság számára. Célja, hogy megvédje a fogyasztókat az élelmiszerekben előforduló állatgyógyászati készítmények maradékanyagaival szemben, miközben javítja az állatgyógyászati készítmények Közösségen belüli hozzáférhetőségét is. Fontos eleme a Bizottság jogszabály-egyszerűsítési programjának is.
+<P>
+Tavaly október 21-én a Tanács és a Parlament között létrejött egy megállapodást, amely tükröződik a jelenlegi közös álláspontban is. Így most egy olyan közös álláspontunk van, amely nemcsak tanácsi és parlamenti, hanem bizottsági is. Nagy örömömre szolgál, hogy a Bizottság be tudta építeni mind az Európai Parlament, mind pedig a Tanács módosításait, mivel megőrzik az eredeti bizottsági javaslat szellemét és lényegét is.
+<P>
+A Bizottság tehát az idén január 8-án az Európai Parlamenthez intézett közleményében kifejezésre juttatta, hogy teljes mértékben támogatja a közös állásfoglalást. A közös állásfoglalás elfogadása immár lehetővé fogja tenni, hogy ezt a dossziét sikeresen lezárjuk még ennek a parlamenti ciklusnak a vége előtt.
+<P>
+A jelenlegi közös állásfoglalás alapján történő lezárása lehetővé fogja tenni az élelmiszerek és az állatgyógyászati készítmények ellenőrzésében érintettek számára, hogy nap mint nap jobb munkát végezzenek a közösségi állategészségügy és fogyasztóvédelem érdekében. Ezek az emberek a maradékanyag-határértékekre vonatkozó jogszabályokra régóta igen türelmetlenül vártak, és úgy gondolom, hogy most már valóban kellően hosszú ideig vártak, és mindannyian örülhetnek annak, hogy mostanra találtunk megoldást.
+<P>
+Nagyon is tisztában vagyok az állatgyógyászati készítmények hozzáférhetőségének fontosságával. Ezért az állati eredetű élelmiszerekben előforduló farmakológiai hatóanyagok maradékanyag-határértékeiről szóló jelenlegi rendelet által e tekintetben képviselt előrehaladástól függetlenül a Bizottság 2010-ben értékelést terjeszt elő az állatgyógyászati készítményekről szóló irányelv alkalmazásával járó problémákról, és adott esetben új jogalkotási javaslatokat is előterjeszt ezzel kapcsolatban.
+<P>
+Szeretném megragadni ezt a lehetőséget arra, hogy külön köszönetemet fejezzem ki az előadónak, Doyle asszonynak, akinek valóban fáradhatatlan erőfeszítései lehetővé tették számunkra, hogy megállapodásra jussunk ebben a fontos kérdésben. Még egyszer őszintén köszönöm az Ön kiváló munkáját, Doyle asszony.
+<P>
+a Bizottság alelnöke.
+<P>
+A Bizottság nyilatkozata
+<P>
+Doyle-jelentés
+<P>
+A Bizottság tudatában van az állampolgárok, az állatorvosok, a tagállamok és az állat-egészségügyi ipar által az állat-egészségügyi készítmények engedélyezésére vonatkozó szabályok megállapításáról szóló irányelvvel kapcsolatban kifejezésre juttatott aggodalmakkal, különösen az állatgyógyászati készítmények elérhetőségével kapcsolatos, meglévő problémák kezelésének fontosságával, valamint az állatgyógyászati készítmények olyan fajoknál történő felhasználásával, amely fajokra nem engedélyezettek, továbbá az innovációt gátló bármely aránytalan szabályozási teherrel, miközben magas szintű fogyasztói biztonságot garantál az állati eredetű élelmiszerek tekintetében. A Bizottság hangsúlyozza, hogy ebben az irányban jelenleg pozitív lépések vannak, mint például az állatgyógyászati készítmények változataira vonatkozó szabályok egyszerűsítése, valamint az élelmiszerekben előforduló maradékanyag-határértékekre vonatkozó jogszabályok szóban forgó felülvizsgálata.
+<P>
+Ezen túlmenően, a fogyasztók biztonságára és az állatok egészségének védelmére irányuló célkitűzések kezelése, az állat-egészségügyi ipar - azon belül a kkv-k - versenyképessége, valamint az adminisztrációs teher csökkentése érdekében a Bizottság 2010-ben értékelést fog előterjeszteni az állat-egészségügyikészítményekről szóló irányelv alkalmazása során jelentkező problémákról, adott esetben jogalkotási javaslatokat.
+<SPEAKER ID="257" NAME="Avril Doyle">
+előadó. - Elnök úr, csak azt szeretném jegyzőkönyveztetni, hogy van egy módosítás, amelyet nem tudok támogatni, mivel az tulajdonképpen jogi zsákutcát teremtene. Ha egy kísérletezés alatt álló gyógyszert csak úgy lehet beadni állatoknak, ha már rendelkezik MRL-lel, akkor nem végezhetők el olyan kísérletek, amelyek az MRL-ek, és elsősorban a várakozási időszak megállapítására szolgáló adatok megszerzéséhez szükségesek.
+<P>
+Szeretném megköszönni a Biztos úrnak az e területen tanúsított együttműködését, és jegyzőkönyveztetni szeretném, hogy sürgősen szükség van az állatgyógyászati készítményekről szóló irányelv felülvizsgálatára. Bizonyos értelemben ezt az MRL-felülvizsgálatot némiképp egy olyan fontos probléma "toldozgatásaként-foltozgatásaként” használjuk, amely megfigyelés alatt áll, ugyanakkor amellyel mindannyian nagyon is tisztában vagyunk. Az Európai Közösségben élő igen változatos állatfajok kezelését célzó megfelelő skálájú állatgyógyászati készítmények elérhetősége növekvő kihívás volt az elmúlt két évtizedben. Ebben az időszakban különböző érdekelt felek, köztük a jogalkotók, az iparág és az állatorvosok - jelentős erőfeszítéseket tettek a gyógyszerek elérhetőségével kapcsolatos problémák kezelésére.
+<P>
+Ezen erőfeszítések ellenére a helyzet tovább romlott. Az engedélyezett gyógyszerek hiánya valódi fenyegetést jelent az állategészségügyre és -jóllétre, valamint a fogyasztók biztonságára. Jelentős problémákat vet fel az állattulajdonosok, a gazdálkodók, az állatorvosok és a kormányok számára, ha az állatokat nem kezelik, vagy nem engedélyezett, vagy nem megfelelő készítménnyel kezelik, beleértve a nem kezelt vagy nem megfelelően kezelt állatok zoonózisos megbetegedésének az állattulajdonosokra, a fogyasztókra és az állampolgárokra jelentkező kockázatát is.
+<P>
+A különböző érdekelt felekre nézve vannak emellett pénzügyi, jogi és kereskedelmi kihatások, míg a gyógyszerek hiánya negatív hatással lehet a vidéki gazdaságokra és általában a mezőgazdaságra. Egy példa - és egy rendkívül fontos észrevétel - a csökkent számú méhkolóniák következményeként a beporzás hatása. A méhek nagyon fontos kevésbé elterjedt alkalmazásokkal/kevésbé jelentős fajokkal (Minor Use/Minor Species; MUMS) kapcsolatos kérdést jelentenek.
+<P>
+Az EU-beli jelenlegi hozzáférhetőségi problémának azonban nemcsak az állatok egészségére és jóllétére, a Közösség élelmiszerellátásának biztonságára és közegészségére mindenütt jelentkező hatásai vannak, hanem veszélyezteti az EU arra való képességét is, hogy eleget tegyen a lisszaboni menetrendnek, és hasznára fordítsa azokat az európai mezőgazdaságban és a tengeri akvakultúrában rejlő hatalmas lehetőségeket, hogy kutatást és fejlesztést vonzzanak az állatgyógyászati területre.
+<P>
+Köszönettel tartozom valamennyi kollégának és a Biztos úrnak az e jelentés során tanúsított együttműködésért.
+<SPEAKER ID="258" NAME="Elnök">
+A vitát lezárom.
+<P>
+A szavazásra holnap kerül sor.
+<P>
+Írásbeli nyilatkozatok (az eljárási szabályzat 142. cikke)
+<SPEAKER ID="259" NAME="Péter Olajos  " AFFILIATION="PPE-DE">
+írásban. (HU) Sokszor elhangzó panasz, hogy az EU mindent szabályozni akar, és közben fontos kérdésekkel nem foglalkozik.
+<P>
+Sokan gondolhatnák, hogy ez a jelentés is ilyen. Ez azonban tévedés. Itt ugyanis emberek által fogyasztott "élelmiszerről" van szó - ezt szeretnénk biztonságosabbá tenni a polgárok érdekében.
+<P>
+Az eddigi szabályozás elavult valamint megnehezíti az állatorvosok gyógyszerkészleteinek feltöltését. Ezért van szükség az ágazat jelenlegi sajátosságainak megfelelő szabályozásra.
+<P>
+Manapság egyre több gyógyszercégnek van állat-készítményekkel foglalkozó részlege, jelentős bevételt produkálva. És az igény folyamatosan nő, hisz az állatok is megbetegszenek, és ma, amikor az élelmiszer egyre többet ér, ezt megéri elkerülni.
+<P>
+Azonban az utóbbi időben több olyan információ is eljutott hozzánk, miszerint egyes cégek azon dolgoznak, hogy hogyan lehetne minél többet "kinyerni" az állatokból. Gyorsan növő csirkék, néhány hónap alatt óriásra hízó disznók. Teszik mindezt olyan (gyógy)szerekkel, amelyek sokszor károsak az emberre nézve.
+<P>
+Ezért kell minden egyes állatokba bejuttatott készítményt bevizsgáltatni, az EMEA közreműködésével, hogy ezek a szerek az állatban maradva és majdan emberi fogyasztásra kerülve jelentenek-e bármilyen veszélyt
+<P>
+A vizsgálatot a cég fizeti. Ki kell még emelni a gyorsított eljárás lehetőségét, mely csökkenti az adminisztráció idejét, valamint fontos, hogy az állatorvosok így sokkal könnyebben juthatnak gyógyszerekhez.
+<P>
+Az emberek egészségénél nincs fontosabb -ezért gátat kell szabni a pénz-vezérelt "állat-doppingnak".

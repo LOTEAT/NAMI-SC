@@ -1,0 +1,166 @@
+<CHAPTER ID="019">
+Napredek na področju SIS II in VIS (razprava) 
+<SPEAKER ID="119" NAME="Predsednica">
+Naslednja točka je izjava Komisije o napredku na področju SIS II in VIS.
+<SPEAKER ID="120" NAME="Jacques Barrot" LANGUAGE="FR">
+Gospa predsednica, ne želim skušati potrpljenja Parlamenta, kljub temu moram prisotnim poslancem v EP in Parlamentu pojasniti številne zadeve.
+<P>
+Ko sem pred letom in pol prevzel delo komisarja, odgovornega za svobodo, varnost in pravico, sem na svoji mizi našel dva obsežna projekta informacijske tehnologije, katerih namen je bil državam članicam zagotoviti sodobno in učinkovito orodje za sodelovanje.
+<P>
+Ta dva projekta, SIS II in VIS, sta predstavljala del iste pogodbe, sklenjene leta 2003 med Komisijo in konzorcijem podjetij v informacijski tehnologiji. Oba projekta sta tehnološko zahtevna. Med seboj moramo povezati centralni sistem in nacionalno opremo s še posebno zahtevnimi specifikacijami in zagotoviti, da bodo med seboj sodelovali.
+<P>
+Parlament sem o tem vedno skušal obveščati. Po Svetu za pravosodje in notranje zadeve februarja in junija 2009, sem pisal gospodu Deprezu, predsedniku parlamentarnega Odbora za državljanske svoboščine, pravosodje in notranje zadeve, ter ga obvestil o napredku SIS II. Gospod Coelho, poslal sem vam kopijo korespondence, ker ste običajno poročevalec za vprašanja, povezana s SIS, in ta vprašanja redno spremljate.
+<P>
+Ta duh odprtosti me je spodbudil, da vam danes še enkrat podam čim več informacij. Res je, da kot pri večini industrijskih projektov, tudi pri SIS II in VIS obstaja nevarnost, da bosta prekoračena proračun in predviden rok izvedbe. Res je, da so razmere nezadovoljive v zvezi s SIS II in tudi z VIS.
+<P>
+Kljub sodelovanju strokovnjakov iz Komisije in držav članic se pri SIS II še naprej vedno znova pojavljajo različne ovire. Pri VIS je bila dosežena pomembna faza. Prvotne specifikacije so zelo otežile izvedbo predvidenih preskusov, vendar bi lahko s ponovnim pregledom teh specifikacij ob soglasju držav članic naslednjič uspešno izvedli preskuse.
+<P>
+Najprej se bom dotaknil SIS II. Komisija tesno sodeluje s predsedstvom, državami članicami in pogodbenimi izvajalci, da bi izvedla smernice, določene v posvetovanjih s Svetom za pravosodje in notranje zadeve 4. in 5. junija.
+<P>
+Vse vpletene stranke aktivno sodelujejo pri tehničnih pripravah za prvi "mejni" preskus, s katerim naj bi zagotovili, da je trenutna tehnična rešitev pripravljena na trdni podlagi. Ob upoštevanju tega se je Komisija s konzorcijem, ki vodi projekt, dogovorila o potrebnih spremembah pogodbe. Pri prvem mejniku je prišlo do dodatnega stroška v višini 1 026 000 EUR. Istočasno so naše službe poostrile vodenje in spremljanje projekta. Uvedle so pogodbene kazni, da bi tako ustvarile dodaten pritisk na pogodbenega izvajalca.
+<P>
+V petek zvečer sem povabil in se srečal z izvršnim direktorjem podjetja, ki vodi projekt, da me je lahko osebno seznanil z ukrepi, ki jih izvaja za odpravo tehničnih težav.
+<P>
+Iz previdnosti, kot je bilo predvideno na junijskem Svetu, je Komisija začela s pripravljalnim delom, katerega namen je morebiten prehod na alternativni načrt, če trenutna tehnična rešitev ne bi bila uspešna.
+<P>
+Da bi lahko upoštevali te podatke in nov časovni načrt, moramo več kot očitno prenesti te okoliščine v zakonodajo. Zato je Komisija 29. septembra predlagala nekaj sprememb instrumentov za prehod na SIS II, sprememb, o katerih s Parlamentom trenutno poteka posvetovanje. To nam bo omogočilo, da vprašanje ponovno podrobno preučimo.
+<P>
+V zvezi z VIS je aprila 2009 pogodbeni izvajalec začel s serijo preskusov na centralnem sistemu, da bi ocenil dosežen napredek. Pogodbenemu izvajalcu še ni uspelo izpolniti vseh pogodbenih pogojev, ki so potrebni za dokončanje teh serij preskusov, čeprav je bil njegov rok podaljšan.
+<P>
+Komisija je seveda uveljavila pogodbene kazni, ki so predvidene za to zamudo. Pogodbenemu izvajalcu je naložila, da izvede vse ustrezne korektivne ukrepe.
+<P>
+Ne verjamem, da je težava v načrtovanju, vendar se lahko izkaže, da se motim. Po drugi strani se zdi, da STT dobro napreduje. Preskusi naj bi bili zaključeni 11. novembra. Vendar pa morajo vzporedno s tem države članice prav tako prilagoditi svoje nacionalne sisteme, da bi lahko uporabile VIS. Vsaj tri države članice se spopadajo z velikimi težavami in zamude zaradi teh treh sistemov so še večje, kot težave, ki jih povzroča centralni sistem.
+<P>
+Zato trenutno izvajamo podrobno analizo s temi državami članicami, da bi določili nov časovni načrt za zagon VIS. Da bi lahko to storili, pa moramo imeti jasno predstavo o rezultatu serije preskusov na centralnem sistemu.
+<P>
+Zaradi sestanka, ki sem ga imel v petek, verjamem, da bi lahko bil 11. november datum, ko bomo izvedeli, ali so bili izvedeni preskusi uspešni. Kakor koli že, pred zagonom sistema morajo v celoti delovati nacionalni sistemi in tudi centralni sistem. Seveda bom takoj, ko nam bo uspelo pripraviti osnutek, obvestil Parlament o tem novem časovnem razporedu.
+<P>
+Tu bom zaključil - oprostite mi za nekoliko daljši govor, vendar sem res želel podati podrobno sliko napredka SIS II in VIS. Obstaja resen razlog za zaskrbljenost in ni smiselno, da to skrivamo. Tehnični, proračunski in politični profili tveganj obeh projektov upravičujejo sodelovanje vseh nas, ob hkratnem upoštevanju naših ustreznih odgovornosti. Uporabljena so bila znatna finančna sredstva. Skupni znesek proračunskih obveznosti Komisije za SIS II znaša nekaj več kot 80 milijonov EUR, do sedaj pa je bilo plačano le nekaj več kot polovica, ali 44,5 milijonov EUR. Skupni znesek, ki ga je Komisija do sedaj že namenila za VIS, je nekje okrog 74,5 milijona EUR. Z vidika proračunskega izvajanja je bilo do danes porabljeno približno 43,3 milijona EUR. Te številke so v skladu s številkami, navedenimi pri podobnih obsežnih projektih, ki so bili razviti v Evropi in drugje po svetu.
+<P>
+Gospa predsednica, povedati želim, da bom vsekakor obvestil Parlament o vseh novih dogodkih, ki bi lahko vplivali na proračun ali na sam datum zagona teh sistemov.
+<P>
+Če bomo uspeli z VIS in SIS II, bomo s tem opremili Evropo z najučinkovitejšim sistemom na svetu. Zato moramo odpraviti ovire na jasen, miren in praktičen način, v zvezi s tem si bom dovolil in pozval Parlament, naj mi pomaga, kadar bom to potreboval, da bi tako pazljivo spremljali ti dve vprašanji in zaključili njuno uspešno izvedbo.
+<SPEAKER ID="122" NAME="Simon Busuttil" LANGUAGE="MT">
+Najprej se želim zahvaliti podpredsedniku Evropske komisije za pojasnila, ki jih je pravkar podal, prav tako pa želim pojasniti, zakaj smo zahtevali to razpravo.
+<P>
+Zahtevali smo jo, ker je schengensko območje za nas izjemno pomembno ob upoštevanju prostega pretoka naših državljanov. Čeprav smo uvedli schengensko območje, da bi našim državljanom omogočili popolno svobodo, tega privilegija ne želimo dati kriminalcem. Zaradi tega smo vzpostavili schengenski informacijski sistem, ki naj bi bil nadgrajen s sistemom nove generacije, poznanim pod imenom SIS II, da bi lahko tako okrepili svobodo naših državljanov ter hkrati onemogočili kriminalcem, da bi to izkoriščali. Zaradi tega nas skrbi dejstvo, da ta sistem nove generacije SIS II zamuja in še vedno ni videti, da bi bil kmalu dokončan. Zato naslavljamo ta vprašanja v zvezi z razlogi za zamudo na vas in vas prosimo za zagotovilo datuma, do katerega bo sistem vzpostavljen in bo deloval. Vendar pa želim jasno povedati, da si kot končni cilj prizadevamo za sodelovanje z Evropsko komisijo, da bi zagotovili brezhibno delovanje schengenskega območja in da ga bo mogoče uporabljati v najboljšem interesu naših državljanov, ne da bi puščal proste roke osebam s slabimi nameni.
+<SPEAKER ID="123" NAME="Claude Moraes">
+v imenu skupine S&D. - Gospa predsednica, komisarju bi se rad zahvalil, da nam je podrobneje posredoval najnovejše informacije v zvezi s temi vprašanji. Cenimo način, kako je to storil.
+<P>
+Tako kot gospod Busuttil želim tudi sam podati pojasnilo - gre za skupno pojasnilo - glede naših resnih pomislekov v zvezi z znatnimi zamudami pri prehodu s SIS na SIS II in razvoju VIS. Mislim, da boste razumeli, zakaj smo predložili skupno pojasnilo, saj gre tu za resnično zaskrbljenost. Gospod Coelho in drugi že nekaj časa izražajo to zaskrbljenost in v zapisnik je vredno zapisati, da so, kot veste, pri tem ključna vprašanja za Parlament, čeprav te znatne zamude same po sebi več kot očitno povzročajo resne skrbi, povezana s preglednostjo in odgovornostjo, predvsem pri ravnanju z zaupnimi podatki in zaupnimi podatki na tem področju. Kot sozakonodajalec in edina neposredno izvoljena institucija v EU mora biti Parlament seznanjen z razvojem teh sistemov, kar je v preteklosti tudi velikokrat zahteval.
+<P>
+Ne želimo, da bi zaradi naše odločnosti na nas gledali, kot da postavljamo nerazumne zahteve. Želimo biti razumni in želimo se odzvati na tak način, kot ste nam danes podali informacije. Preprosto želimo biti seznanjeni s trenutnim rezultatom igre, dobiti pojasnila o razlogih za zamudo in dobiti ponovna zagotovila, da bodo ti problemi odpravljeni. Ključnega pomena je, da tako pomemben projekt, kot je ta, ki bo vlival na veliko število ljudi - državljanov in tudi nedržavljanov EU - poteka na pregleden način.
+<P>
+Vendar pa je treba poleg teh vprašanj preglednosti in odgovornosti izpostaviti tudi nekaj širših učinkov. Tehnični problemi, ki smo jim priča, in razvoj teh obsežnih zbirk podatkov ne vzbujajo širšega zaupanja. Številne naše države članice - tudi država članica, iz katere prihajam - so imele znatne težave pri svojem razvoju pomembnih zbirk podatkov, pri razvoju podatkovnih zbirk ID in tako dalje. Zaupanje javnosti v te sisteme je ključnega pomena.
+<P>
+Zaradi tega moramo vsekakor pozabiti na razlike med političnimi strankami in ugotoviti, kako so ti problemi nastali in kako jih je mogoče v prihodnje preprečiti že v fazi načrtovanja, ne pa v fazi razvoja. Iz tega se moramo nekaj naučiti; zaupati moramo v te sisteme, predvsem pa moramo imeti poln in učinkovit pregled. Na koncu bodo ti sistemi delovali le tehničnim sodelovanjem - pa tudi z zaupanjem javnosti v ta sistem in dejstvom, da Parlament te zadeve obravnava odprto in na koncu tudi zagotovi rezultate.
+<SPEAKER ID="124" NAME="Sarah Ludford">
+v imenu skupine ALDE. - Gospa predsednica, v vseh 10 letih v Evropskem parlamentu še nisem imela na voljo toliko časa za govor v enem večeru! Deset minut skupaj je neobičajno razkošje in nisem prepričana, da ga bom uspela izkoristiti.
+<P>
+Tudi jaz se zahvaljujem podpredsedniku Barrotu, da nam je poročal o problemih, čeprav imam občutek, da ne bi smeli nenehno prositi za te informacije. Vsakdo, ki se le malo spozna na izvedbo velikih del IT v javnem sektorju v svoji državi članici ve, da pogosto nastanejo takšni tehnični in proračunski problemi. Žal pa, kadar sta prizadeta dva tako odmevna, velika sistema - schengenski informacijski sistem (SIS) II in vizumski informacijski sistem (VIS) - to ne vpliva le na verodostojnost notranje varnosti Unije - na to se bom vrnila kasneje - ampak tudi na vizumsko politiko EU.
+<P>
+Kot poročevalka za VIS lahko povem, da smo bili pod velikim časovnim pritiskom pri pripravi zakonodaje, saj smo želeli nadaljevati, da bi VIS bil vzpostavljen in bi začel delovati - kot bi do sedaj že moral - in vsak odmik v programu pomeni globoko razočaranje.
+<P>
+Komisarja Barrota bi rada vprašala, kakšne posledice bo to imelo za prosilce za vizum. Ali bo to pomenilo veliko zbeganih ljudi, saj naj bi bilo s sistemom VIS obdelanih 20 milijonov zahtevkov za vizume na leto, zamude pa imajo verjetno verižni učinek? Kaj pa se dogaja z dogovori o zunanjem izvajanju, ki so bili sklenjeni? Omenili ste, da so bile naložene pogodbene kazni zaradi zamud pri vizumskem informacijskem sistemu. Ali nam lahko poveste, kakšne so te kazni? Koliko znašajo predvideni dodatni stroški? In ali nam lahko poveste, gospod Barrot, ali v celoti gledano še naprej zaupate pogodbenemu izvajalcu ali pa ste že preučili možnost razveljavitve pogodbe?
+<P>
+To ima verjetno posledice tudi za vzpostavitev agencije za skupno upravljanje SIS in VIS - in morebitnih drugih zbirk podatkov v prihodnje. Mogoče bi bilo dobro ponovno pregledati nekatere ambicije v zvezi z zbiranjem podatkov in obsežnimi nadzornimi sistemi, kar ne bi bilo slabo s stališča zasebnosti, če bomo imeli še naprej vse te tehnične in infrastrukturne težave.
+<P>
+Zadnje, kar sem želela vprašati komisarja, je: po trenutnih ocenah naj bi SIS II začel delovati v zadnjem četrtletju 2011. Verjetno lahko pričakujemo dodatne zamude. Poleti 2012 bodo v Londonu potekale olimpijske igre. Vlada Združenega kraljestva le iz njej poznanih razlogov ni izkoristila priložnosti in se ni vključila v SIS I. Na voljo ji je bilo kar nekaj let, ko bi se lahko vključila v SIS I, vendar smo slišali le: "Oh, ne, ne, počakali bomo na SIS II".
+<P>
+V odgovorih na moja vprašanja je vlada zatrjevala, da je ne skrbijo nobene posledice za varnost. Vendar pa bi bila ogrožena ne le varnost Združenega kraljestva, ampak tudi Evrope, če Združeno kraljestvo ne bo sodelovalo pri policijskih dejavnostih - kar lahko počne - schengenskega informacijskega sistema že pred samimi olimpijskimi igrami v Londonu leta 2012.
+<P>
+Ali nam lahko poveste, komisar Barrot, kakšne so lahko po vašem mnenju posledice za varnost na olimpijskih igrah, kar me zelo skrbi, saj bodo potekale v Londonu in nenazadnje tudi v mojem volilnem območju. Mislim, da bi nas morala vse skrbeti varnost na olimpijskih igrah. To je le nekaj vprašanj, ki vam jih želim zastaviti. Še enkrat hvala, da ste prišli.
+<SPEAKER ID="125" NAME="Tatjana Ždanoka">
+v imenu skupine Verts/ALE. - Gospa predsednica, v imenu svoje skupine se zahvaljujem komisarju Barrotu za njegova pojasnila. Seveda tudi mi obžalujemo trenutne razmere pri SIS II in VIS.
+<P>
+Vendar pa želim izpostaviti tudi nekatere druge pomisleke, saj veste, da ima moja skupina posebno stališče glede uporabe biometričnih podatkov, predvsem v VIS in SIS II.
+<P>
+To priložnost želim izkoristiti, da bi izpostavila naše stališče. Kot Sarah Ludford, sem tudi sama zelo hvaležna za dodaten čas pri današnjem govoru. Tudi sama bom verjetno imela preveč časa, čeprav mi je na voljo le šest minut in ne deset.
+<P>
+Tudi mi obžalujemo, da ima vse več organov dostop do teh sistemov. Trenutno nas skrbi, da bo SIS preoblikovan iz tehničnega orodja v splošni sistem za nadzor in spremljanje.
+<P>
+Zato želimo opomniti Komisijo, da sta usklajen pravni okvir za varstvo podatkov, ki temelji na najvišjih standardih, in sprejetje pravnega instrumenta o minimalnih zaščitnih ukrepih v postopkovnem pravu nujen predpogoj za popolno izvajanje teh novih sistemov.
+<P>
+Prav tako obžalujemo pomanjkanje sodelovanja s strani Sveta, predvsem zavrnitev uporabe postopka soodločanja za izvedbene projekte. Upamo, da bo v prihodnje Evropski parlament redno prejemal zanesljive informacije o preskusih, stroških, itd.
+<P>
+Ne želim ponavljati vprašanja prejšnje govornice, ampak tudi mi želimo od komisarja Barrota informacije o pogodbi in obveznostih, ki izhajajo iz nje, ter kaj se bo zgodilo, če preskus ne bo zadovoljiv, prav tako pa želimo vedeti, kakšni so morebitni stroški.
+<P>
+Mogoče za vprašanje potrebujemo odobritev: številnim vprašanjem bi se izognili, če bi bilo Parlamentu dovoljeno aktivno sodelovanje v postopku že od samega začetka. Zato upam, da bo ta primer prav tako dokazal, da je sedaj res čas za sodelovanje.
+<SPEAKER ID="126" NAME="Timothy Kirkhope">
+v imenu skupine ECR. - Gospa predsednica, kot podpisnik PEK skupnega predloga sem zelo zadovoljen, da smo začeli s to razpravo. Zelo pomembno je, da v Evropskem parlamentu pozovemo Komisijo na odgovornost, ko razpravljamo o zadevah, ki vključujejo porabo znatnih zneskov denarja evropskih davkoplačevalcev. Res je, da se splošna javnost posebej zanima za tako občutljivo področje, ki se nanaša na varstvo in izmenjavo podatkov. Prišlo je do številnih problemov in zamud, kar pomeni, da nov sistem še vedno ne deluje. Resnično ni nobenega dvoma glede smiselnosti projekta.
+<P>
+Komisijo želim vprašati, zakaj je prišlo do takšnih zamud in prekomerne porabe sredstev. Kakšni ukrepi so bili izvedeni za odpravljanje teh pomanjkljivosti? Želimo si popolne preglednosti v zvezi z izvedbenim procesom, kot tudi v zvezi z finančnimi vidiki, na katere sem se skliceval. Kot navaja naša resolucija, Združeno kraljestvo - seveda sedaj še ne kot polnopravni član Schengena, skupaj s številnimi drugimi državami članicami, ne želi postati del sistema, dokler ne bodo najdene rešitve.
+<P>
+Prav tako želim vprašati, kakšni ukrepi so bili sprejeti proti pogodbenim izvajalcem, da bi bilo mogoče izterjati vsaj nekaj škode. Želimo, da se Komisija in Svet odzoveta na vprašanja, ki od njiju zahtevajo, da pojasnita razloge za nadaljnje zaupanje v trenutnega pogodbenega izvajalca in njegov uspešen razvoj sistemov. Ali obstaja prihodnost za ta projekt ali pa bi morali ponovno razmisliti o celotni pobudi? Kot je povedal komisar Barrot, nekatere države zamujajo,vendar jih glede na pomanjkanje zaupanja ne moremo obsojati. Evropski parlament mora biti stalno obveščen o poteku razvoja teh sistemov. Z veseljem pričakujem odziv Komisije na vprašanja, ki sem jih zastavil skupaj s kolegi.
+<SPEAKER ID="127" NAME="Cornelia Ernst">
+v imenu skupine GUE/NGL. - (DE) Gospa predsednica, najprej želim povedati, da nas ne skrbijo iste stvari, kot skupino Evropske ljudske stranke (Krščanskih demokratov). Zelo preprosto je: verjamemo, da dodatna prizadevanja za razvoj SIS II niso potrebna in da je to politično napačna odločitev. Tako menimo iz treh razlogov: prvič zaradi tega, ker meša podatke tajne službe in policije, kar daje sistem podatkov, za katerega ni več mogoče jamčiti obvladljivosti in v katerem osebni podatki dejansko niso zaščiteni.
+<P>
+Drugi razlog so biometrični podatki, ki so sem umeščeni kot obsežen poskus, in tretjič, SIS II naj bi se uporabljal proti tako imenovanemu nezakonitemu priseljevanju. Zato smo pripravili predloge: kot vsi vemo, imamo SIS I. Menimo, da ga je smiselno razviti dalje v "različico, primerno za vse". Gre za pragmatičen pristop, čeprav smo zaradi tega deležni ostrih kritik. Vendar pa verjamemo, da s takšnim pristopom, ki mu sledimo sedaj, ni mogoče doseči nič več. Če povem na preprost način: SIS II je dejansko neuspeh in nadaljnje plazenje okoli njega - če se tako izrazim - je nesmiselno. Pomembno je, da se denar, ki se napačno porablja, privarčuje, kar pomeni, da bomo imeli manj problemov s celotno zadevo in nas ne bo več skrbelo zaradi zamud s SIS II. To pravim tudi s stališča Saške, regije v Nemčiji, ki leži blizu Poljske in Češke republike. Zelo dobro vem, da bi bilo vsekakor bolj smiselno, če bi ukrenili nekaj za stabilizacijo s policijo, kot pa je uvedba takšne zadeve.
+<SPEAKER ID="128" NAME="Carlos Coelho" AFFILIATION="PPE">
+(PT) Gospe in gospodje, najprej se želim zahvaliti podpredsedniku Barrotu za njegovo izjavo, čeprav je v neenakopravnem položaju, saj bi bilo dobro slišati tudi izjavo Sveta. Jasno je, da je enostavneje izvajati parlamentarni nadzor Komisije, kot Sveta.
+<P>
+Decembra 2001 je bil Komisiji podeljen mandat, da uvede drugo generacijo schengenskega informacijskega sistema (SIS), ki naj bi po pričakovanjih začel delovati marca 2007. Prišlo je do številnih problemov in zamud. Nov sistem še vedno ne deluje. Nekateri ljudje napovedujejo, da ne bo vzpostavljen pred letom 2012, medtem ko drugi dvomijo v samo smiselnost projekta. Sedaj do zamud ne prihaja samo pri SIS, ampak tudi pri vizumskem informacijskem sistemu (VIS), saj oba projekta razvija isto podjetje.
+<P>
+Povedati moram, da še vedno zaupam podpredsedniku Barrotu. V svojem političnem življenju se je vedno izkazal kot kompetenten, resen in Evropi naklonjen človek. Vemo, da ni začel projekta SIS, ampak ga je podedoval, ko je sprejel spremembo funkcije na zahtevo predsednika Barrosa. Vendar pa je treba službe Evropske komisije in podjetje, ki naj bi po pogodbi razvilo centralni sistem, pozvati k odgovornosti.
+<P>
+Parlament ima proračunski organ, mi pa imamo pravico in dolžnost, da od Evropske komisije zahtevamo pojasnilo. Zakaj potrebujemo SIS II? Potrebujemo boljši nadzor na naših zunanjih mejah, potrebujemo večjo varnost, potrebujemo biometrične podatke in potrebujemo medsebojno povezan sistem opozoril. Predvidena sta dva globalna tehnična preskusa, tako imenovana mejna preskusa, prvi 22. decembra in drugi poleti 2010. Namen prvega preskusa je preveriti brezhibno, zanesljivo in učinkovito delovanje SIS II pod obratovalnimi pogoji za obdobje 72 ur in preveriti, ali lahko ključne pomembne lastnosti in usklajenost podatkov potekajo brez kakršnih koli problemov ali prekinitev.
+<P>
+V zvezi s tem se pojavljajo številna vprašanja. Ali obstaja kakršno koli tveganje, ki bi lahko ogrozilo izvedbo preskusa v decembru tega leta? Drugič, ali je bila preučena možnost zmanjšanja obsega zahtev ali celo zmanjšanja števila sodelujočih držav, da bi tako zmanjšali tveganje? Tretjič, ali je mogoče na te teste gledati kot na del letne pogodbe s podjetjem ali pa bodo obravnavani kot dodatne zahteve, kar bi povzročilo dodatne stroške? Četrtič, ali so bile v pogodbo zaradi ugotavljanja problemov in tehničnih napak vključene dodatne storitve? Koliko denarja je bilo na ta račun izplačanega? Petič, koliko znaša skupen znesek kazni, naloženih pogodbenemu izvajalcu - kot je omenil podpredsednik Barrot - za zamude in tehnične napake, zaradi katerih so bili prejšnji preskusi neuspešni? Na šestem mestu, ali Komisija meni, da bi prišlo do prekinitve pogodbe s podjetjem Steria, če bi prišlo do prehoda na izvedbo alternativne rešitve? Če je tako, kakšne posledice bo to imelo za VIS?
+<P>
+Na koncu , gospa predsednica, še zadnje vprašanje: Ali je res, da sta Bolgarija in Romunija nehali čakati na SIS II, ter da se že načrtuje njuna vključitev v SIS I?
+<SPEAKER ID="129" NAME="Ernst Strasser" AFFILIATION="PPE">
+(DE) Hvala, gospa predsednica. Skušal se bom držati svojega časa za govor. Načeloma pozdravljamo uvedbo SIS II in njegovo funkcionalnost. Ko sem bil minister za notranje zadeve na začetku tisočletja, sem intenzivno lobiral za ta sistem. Takrat so nam obljubili, da bo uveden leta 2007, in eden izmed razlogov naj bi bil, da ga nujno potrebujemo za nove države članice, da bodo lahko sodelovale v tej varnostni arhitekturi.
+<P>
+Nove države članice so tu, še vedno pa čakamo na SIS II. Zamudo je treba neizprosno analizirati in preiskati. Prav tako mora priti do jasnih posledic. Učiti se moramo na preteklih napakah.
+<P>
+Priznati moramo, da je Komisija storila vse, da bi prišlo do napredka pri projektu SIS II, sprijaznila se je celo z manj kot brezhibnimi rezultati. Vendar ne smemo pozabiti, da ni smiselno sklepati prevelikih kompromisov, saj bi to šlo na račun stabilnosti in zanesljivosti sistema. Zato moramo preprečiti vsa dodatna finančna bremena za države članice, ki bi lahko nastala kot posledica analiz, preskusov ali kakršnih koli dodatnih zamud pri sistemu. V zvezi s tem potrebujemo 100-odstotno preglednost in tudi jasno stališče za tiste, ki izvajajo projekt v imenu Komisije, to pa mora hkrati tudi pomeniti, kjer je to potrebno, da bo prišlo do finančnih posledic za te vodje projekta.
+<SPEAKER ID="130" NAME="Edit Bauer" AFFILIATION="PPE">
+(HU) Gospa predsednica, komisar, leta 2006, ko so nove države članice čakale na pridružitev v schengensko območje, smo se vzajemno dogovorili, da je eden izmed pogojev delovanje SIS II. V tem času je postalo jasno, da sistem sploh ne bo mogel delovati. Potem smo slišali, da tla niso bila dovolj močna, da bi lahko nosila težo tehnične opreme, in če portugalsko predsedstvo ne bi našlo rešitev za izvajanje sistema "SIS ena za vse", bi osem novih držav članic še sedaj čakalo na vključitev v schengensko območje.
+<P>
+Pri tem ne smemo pozabiti, da je treba skleniti nove pogodbe, poiskati je treba nove finančne svežnje za razvoj sistema SIS II, medtem ko je treba še naprej financirati delovanje sistema SIS I+. Zato v praksi financiramo dva sistema, ki evropske davkoplačevalce staneta kar zajeten znesek denarja. Očitno govorimo o veliki naložbi, povezani z zagotavljanjem varnosti evropskih državljanov. V nasprotju z mojim levičarskim kolegom poslancem, menim, da lahko prinese velike spremembe z vidika kakovosti v korist evropske varnosti.
+<P>
+Prav tako me zanima zamuda, glede na to, da naj bi po predvidevanjih iz leta 2001 razvoj sistema trajal pet let, od 2002 do 2007. Sedaj govorimo o tem, da bo mogoče razvit čez 10 let. Komisar, takšna negotovost in podvojitev časa pri tehničnem sistemu ni sprejemljiva. Dobro se zavedamo, da lahko tehnični škrati zavirajo dela in da je prišlo do zamud pri javni naložbi, vendar moramo zastaviti vprašanje: kaj je razlog za to? Ali nekatere države, nekatere države članice mogoče namerno zavlačujejo z razvojem sistema SIS II? Če zaključim vprašanje, kakšno jamstvo imamo, da se ista zgodba ne bo ponovila pri sistemu VIS?
+<SPEAKER ID="131" NAME="Elżbieta Katarzyna Łukacijewska" AFFILIATION="PPE">
+(PL) Gospa predsednica, zaradi zamud in težav pri izvedbi dela na sistemu SIS II in napovedi, po katerih ne bo popolnoma funkcionalen do konca leta 2011, nekateri pravijo, da celo do leta 2015, je bila sprejeta odločitev o izvedbi preskusov SIS II pred koncem tega leta, s katerimi bo mogoče oceniti njegovo funkcionalnost. Če se izkaže, da ima SIS II napake, naj bi bil izveden alternativni načrt, ki bi temelji na izboljšavah SIS I.
+<P>
+Zaradi tega se pojavljajo številna vprašanja. Ali je Evropska komisija pripravljena izvesti alternativni načrt? Kaj se bo zgodilo z naložbami držav članic, ki so nosile stroške, povezane z nakupom opreme, na kateri naj bi deloval nov sistem? Ali se bo ta oprema lahko uporabila v alternativnem načrtu? Kako namerava Komisija naložiti pogodbene kazni tistim, ki so odgovorni za projekt?
+<SPEAKER ID="132" NAME="Jacques Barrot" LANGUAGE="FR">
+Gospa predsednica, ne morem odgovoriti na vsa vprašanja, ki so mi bila zastavljena, glede na to, da smo trenutno v težkem položaju. V zvezi z VIS gre za preskuse, ki se nanašajo na centralni sistem in morajo biti izvedeni do 11. novembra, pri SISI II pa gre za mejnik, se pravi za merilo, ki mora biti izpolnjeno do konca leta.
+<P>
+Prvič, vsem govornikom se zahvaljujem. Želim, da ima Evropski parlament popoln dostop do vseh informacij. Rad bi vas spomnil, da so ta dva glavna sistema vzpostavile države članice ravno zaradi tega, da bi bilo mogoče uživati prost pretok ljudi pod varnimi pogoji, kot sta posebej izpostavila gospod Busuttil in gospod Moraes.
+<P>
+Najprej se bom skušal odzvati na VIS, še posebej na vprašanja gospe Ludford, ki se kot poročevalka še posebej zanima za ta problem. Povemo lahko to, da bodo preskusi na VIS izvedeni do 11. Novembra, in ti preskusi nam bodo povedali, ali naj spremenimo smer. Zaenkrat lahko še vedno predpostavljamo, da ima VIS trdno strukturo, pa tudi nekaj napak, ki pa jih je mogoče odpraviti. Vendar bodo ravno ti preskusi pokazali, ali moramo razveljaviti pogodbo s pogodbenim izvajalcem. Še vedno je prehitro, da bi o tem govorili, vendar bi v tem primeru ponovno preučili časovni načrt.
+<P>
+Izpostaviti želim, da se je leta 2005 Svet odločil, naj države članice uvedejo VIS na dosleden in usklajen način. Prav zaradi tega uredba o VIS nalaga, da bo sistem začel delovati v prvi regiji na datum, ki ga bo določila Komisija, ko jo bodo vse države članice obvestile, da so izvedle vse tehnične in pravne spremembe, potrebne za uporabo VIS v tisti regiji.
+<P>
+To pomeni, da bo VIS začel delovati v prvi regiji - Severni Afriki, kamor spadajo države, ki predstavljajo največje tveganje z vidika nezakonitega priseljevanja in varnosti - hkrati za vse države članice. Zato je res pomembno, da vsem državam članicam uspe vzpostaviti in upravljati VIS, saj bi imelo izjemne negativne posledice, če bi se izkazalo, da centralni sistem deluje normalno, kljub temu pa bi bili prisiljeni podaljšati rok samo zaradi teh zamud pri nekaterih državah članicah. Zaradi tega vztrajam pri tem stališču.
+<P>
+Gospa Ludford se je posebej sklicevala na problem olimpijskih iger. Iskreno upam, da bo do takrat prišlo do napredka. Vendar drži, da je bila pripravljena uredba, v skladu s katero bi se Združeno kraljestvo vključilo v SIS I + pred olimpijskimi igrami, če bi se to izkazalo za potrebno.
+<P>
+Prav tako želim povedati, da v zvezi s prosilci za vizum iskreno upamo, da ne bo prišlo do prevelikih odstopanj od zastavljenega roka, saj je to za nas zelo pomembno, prav tako pa se lahko poveča resno tveganje, da bodo ljudje "nakupovali" vizume na veleposlaništvih, če bomo preveč odlašali z VIS.
+<P>
+Gospa Ždanoka je govorila o biometričnih podatkih in nadzorovanju dostopa do sistema. Mislim, da bomo o tem še imeli priložnost razpravljati, vendar pa bodo za ta preverjanja veljala številna jasna pravila. Opazil sem, da gospa Ernst nasprotuje sistemu, prav tako pa ne želim pozabiti, kaj mi je povedal gospod Kirkhope. Sedaj se bom obrnil na gospoda Coelha. Gospod Coelho dobro pozna SIS II in skušal bom odgovoriti na nekatera njegova vprašanja, hkrati pa bi rad pustil odprto možnost, da mu odpišem in tako odgovorim na njegovih sedem vprašanj.
+<P>
+Povem lahko, da je Komisija začela pogodbena pogajanja s svojimi sopogodbeniki in da so bila ta pogajanja osredotočena na dve področji: izvajanje dodatnih storitev in zagotavljanje opreme, potrebne za izvedbo preskusov v povezavi s prvim mejnikom ter sprememba osnovne pogodbe, da bo tako mogoče mejnike znotraj SIS II formalizirati tudi s pogodbo. Okvirni dogovor smo dosegli konec julija. Konec julija smo dosegli splošen dogovor in sopogodbenik je res izpostavil, da obstajajo specifikacije, zaradi katerih se zdi doseganje tega prvega mejnika zelo zahtevno delo. Kljub temu smo podpisali pogodbo s pogodbenim izvajalcem, ki predvideva, da mora biti ta mejnik dosežen.
+<P>
+Vendar sta analiza in obdobje za odpravo napak pokazala, da je bil SIS II zgrajen na trdnih, čeprav občasno prekomerno zapletenih temeljih, in da je sistem mogoče popraviti, čeprav bo v to treba vložiti nekoliko truda.
+<P>
+Ta podrobna analiza nam je omogočila, da smo našli nekaj poti za izboljšavo sistema, je pa res, gospod Coelho - in to povem tudi celotnemu Parlamentu - da je pred nami zelo ambiciozen projekt na tem področju in da je zelo težko napovedati, kaj se bo zgodilo.
+<P>
+Vendar lahko povem, da smo naložili pogodbene kazni konzorciju Hewlett-Packard-Steria, da bi ga tako kaznovali na eni strani zaradi njegove nezmožnosti, da bi zagotovil sistem, ki bi ustrezal zahtevni pogodbeni ravni ob koncu pogodbenega obdobja operativnih preskusov na ST, ter na drugi strani - vsaj začasno - zaradi zamud, do katerih je prišlo pri notranjih preskusih VIS.
+<P>
+Za oba ta projekta velja ista pogodba, tako da se kazni enako odbijejo na računih za SIS II in VIS. Višina teh kazni znaša 3,5 milijona EUR in v primeru VIS se še vedno povečujejo, medtem ko je bilo to za SIS II zaustavljeno, ker so se januarja začela izvajati popravila in analiza. Če bi morali te projekte opustiti, bi moral sopogodbenik vsekakor nositi ustrezne stroške.
+<P>
+Gospa predsednica, glede na trenutne razmere in ob upoštevanju tega, kar sem povedal v zvezi z VIS, o preskusih, ki bodo potekali 11. Novembra, in v zvezi s SIS II glede namena potrjevanja prek mejnika ob koncu leta, ne morem podati natančnejšega odgovora, ali je arhitektura res smiselna, ,saj smo zdaj v fazi izvajanja teh preskusov in priprav na mejnik.
+<P>
+Povedati želim, da bomo veseli, če nam bo Parlament pomagal spodbosti sopogodbenika. Kot ste lahko opazili, sem zelo odločen in sem osebno vpleten v to zadevo. Upam, da bom, tako kot v primeru projekta Galileo, bolj ali manj uspešen pri reševanju teh projektov, ki sta s tehnološkega vidika zelo zanimiva in ki bi Evropi zagotovila prednosti, ki jih daje visoko učinkovit sistem, vendar pa tega nocoj še ne morem z gotovostjo trditi.
+<P>
+Prav tako bomo veseli, če bo Parlament spodbudil države članice: v zvezi s VIS ugotavljamo, da trenutno največje zamude povzroča nekaj držav članic.
+<P>
+Gospa predsednica, dobro se zavedam, da nisem odgovoril na vsa vprašanja, vendar sem Parlamentu na razpolago, da poslancem v EP, predvsem pa tistim, ki so mi zastavili vprašanja, zagotovim zahtevane informacije, takoj ko jih bom imel na voljo.
+<SPEAKER ID="133" NAME="Predsednica">
+Najlepša hvala za vaš odgovor, komisar. Prejela sem tri predloge za resolucijo, s katerimi zaključujem to razpravo.
+<P>
+Razprava je zaključena.
+<P>
+Glasovanje bo potekalo v četrtek, 22. oktobra 2009, ob 11.00.

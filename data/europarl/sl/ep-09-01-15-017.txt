@@ -1,0 +1,6 @@
+<CHAPTER ID="017">
+zasedanja
+<SPEAKER ID="247" NAME="Predsednik">
+Razglašam, da je zasedanje Evropskega parlamenta prekinjeno.
+<P>
+(Seja se je zaključila ob 16.10)

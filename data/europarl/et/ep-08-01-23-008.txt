@@ -1,0 +1,6 @@
+<CHAPTER ID="008">
+Istungjärgu katkestamine
+<SPEAKER ID="875" NAME="President">
+Ma kuulutan Euroopa Parlamendi istungjärgu katkestatuks.
+<P>
+(Istung lõpetati kell 14.05)

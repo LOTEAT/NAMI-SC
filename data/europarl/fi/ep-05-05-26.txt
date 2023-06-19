@@ -1,0 +1,876 @@
+<CHAPTER ID="1">
+<SPEAKER ID="1" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="2" LANGUAGE="" NAME="" AFFILIATION="(Istunto avattiin klo 9.05.)">
+<SPEAKER ID="3" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Esityslistalla on seuraavana yhteiskeskustelu seuraavista mietinnöistä:
+<P>
+- Goebbelsin laatima talous- ja raha-asioiden valiokunnan mietintö A6-0150/2005 komission suosituksesta kasvua ja työllisyyttä koskeviin yhdennettyihin suuntaviivoihin sisältyvistä jäsenvaltioiden ja yhteisön talouspolitiikkojen laajoista suuntaviivoista;
+<P>
+- Mato Adroverin laatima työllisyyden ja sosiaaliasioiden valiokunnan mietintö A6-0149/2005 ehdotuksesta neuvoston päätökseksi jäsenvaltioiden työllisyyspolitiikkojen suuntaviivoista;
+<P>
+- Oomen-Ruijtenin laatima työllisyyden ja sosiaaliasioiden valiokunnan mietintö A6-0142/2005 ajanjakson 2006–2010 sosiaalipoliittisesta ohjelmasta. 
+<SPEAKER ID="4" LANGUAGE="FR" NAME="Robert Goebbels (PSE )," AFFILIATION="esittelijä">
+<P>
+   . – Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, yhdennettyjen suuntaviivojen laatiminen kolmen vuoden välein parantaa kansallisten talouspolitiikkojen koordinointia. Uuden yhdennetyn lähestymistavan ansiosta päästään eroon 300 vuosittaisesta kertomuksesta, jotka jäsenvaltiot ovat tähän mennessä joutuneet laatimaan. Tulevaisuudessa kustakin maasta toimitetaan vain yksi kansallinen yhteenvetoasiakirja. Yritys- ja ammattijärjestöjen sekä kansallisten parlamenttien omaksuessa Lissabonin strategian eurooppalainen demokratia lujittuu. Suuntaviivat itsessään ovat kuitenkin liian yleisluonteiset, eikä niissä oteta huomioon jäsenvaltioiden välisiä huomattavia eroja. Siksi komissiota on kehotettava esittämään tiedonanto, jossa käsitellään kunkin jäsenvaltion tärkeimpiä haasteita. Talouden ongelmien selvittämiseksi tarvitaan myös eriytetympää alakohtaista lähestymistapaa.
+<P>
+Komission tehtävä ei ole helppo. Nykyisiin monimutkaisiin talous-, sosiaali- ja ympäristöpoliittisiin haasteisiin ei ole yksinkertaisia ratkaisuja. Unionin laajentuminen on vain lisännyt sen heterogeenisyyttä. Lainsäädäntötoiminnan yhä teknisempi luonne ei mitenkään helpota kanssakäymistä kansalaisten kanssa. Perustuslakisopimuksesta käydyt keskustelut ovat osoittaneet, että unionin toimielinrakenne ymmärretään huonosti. Yhteisön ammattikielessä sivuutetaan monien kansalaisten jokapäiväiset huolenaiheet. Euroopan unionia syytetään yhä useammin kaikista nykyisistä ongelmista.
+<P>
+Olipa asia miten tahansa, uhkakuvat EU:n hajoamisesta eivät kestä lähempää tarkastelua. Ulkoapäin tarkasteltuna unioni ei ole vain maailmanhistorian menestyksekkäin rauhanaloite: se on myös poliittinen yksikkö, jossa ihmisoikeudet on parhaiten turvattu. Sosiaalinen markkinataloutemme turvaa korkean elintason, ja samanaikaisesti noudatetaan maailman korkeimpia sosiaalisia normeja ja ympäristönormeja. Euroopalla on tietenkin parantamisen varaa, ja se juuri onkin Lissabonin strategian tarkoitus. Unionissa on kolmessa vuodessa luotu 6,5 miljoonaa uutta työpaikkaa, mutta niiden avulla ei ole onnistuttu vähentämään työttömyyttä. Talouskasvu on edelleen liian hidasta etenkin Ranskassa, Saksassa ja Italiassa. Siitä huolimatta EU on maailman johtava viejä ja tärkein markkina-alue koko muulle maailmalle. Unionin vaihtotase on tasapainossa, kun taas Yhdysvallat kärsii sekä ulkoisesta että sisäisestä vajeesta.
+<P>
+Alue, jonka osuus maailmankaupasta on melkein neljännes, on ilman muuta kilpailukykyinen. Ollakseen kilpailukykyinen on oltava kilpailijoita tuottavampi. Korkea elintaso on tulosta hyvästä kilpailukyvystä ja korkeasta työllisyysasteesta, mutta se ei sinänsä ole väline kilpailukyvyn mittaamiseksi. Erot Yhdysvaltojen ja Euroopan asukasta kohti ilmoitetuissa keskimääräisissä tuloissa eivät tarkoita, että Eurooppa jäisi jälkeen Yhdysvalloista, vaan ne ovat osoitus siitä, että Yhdysvaltojen rikkaimman viidenneksen tulot ovat kasvaneet kohtuuttomasti. Euroopassa suuremman tuottavuuden tavoittelu liittyy kiinteästi pyrkimykseen jakaa kasvun tulokset oikeudenmukaisesti, lisätä sosiaalista yhteenkuuluvuutta ja suojella ympäristöä tehokkaasti. Ei ole sattumaa, että Pohjoismaiden sosiaaliturva on korkeatasoinen ja ympäristönsuojelu tehokasta. Niistä johtuvat suuret julkiset menot eivät kuitenkaan ole estäneet Pohjoismaiden talouksia edistymästä jatkuvasti kansainvälisessä suorituskyvyssä ja innovointitoimissa.
+<P>
+Euroopan tulos maailmanmarkkinoilla ei suinkaan ole katastrofaalinen. Komission yksiköiden tekemästä analyysistä on käynyt ilmi, että kaksi kolmasosaa Yhdysvaltojen tuottavuuden kasvusta syntyy palvelualalla, erityisesti tukkukaupassa, vähittäiskaupassa, kiinteistökaupassa ja rahoitusvälityksessä. Näillä markkinoilla ei ole suoraa kilpailua amerikkalaisten ja eurooppalaisten välillä. Primaari- ja sekundaarisektorilla Eurooppa on menestynyt Yhdysvaltoja paremmin, ja tarkastelluista 56 alasta sen tuottavuus oli parempi 37 alalla. Sen sijaan Yhdysvalloilla oli selkeä etumatka puolijohteiden ja toimistolaitteiden valmistuksessa. Viestintään ja tietotekniikkaan liittyvissä palveluissa tuottavuus oli kuitenkin parempi Euroopassa. Eurooppa jää jälkeen vain tietyillä huipputekniikan aloilla, joihin kuuluvat tieto- ja viestintätekniikka, biotekniikka, lääkkeet ja muuntogeeniset tuotteet.
+<P>
+Ala, jolla Eurooppa on eniten jäljessä, on tutkimus. Absoluuttisina lukuina Yhdysvallat käyttää vuosittain tutkimukseen ja kehitykseen noin 110 miljardia dollaria enemmän kuin Eurooppa, mikä vastaa EU:n budjettia. Jäljessä on erityisesti eurooppalainen teollisuus. Yhdysvaltojen 1,3 miljoonasta tutkijasta 80 prosenttia työskentelee yksityisellä sektorilla, kun taas Euroopan miljoonasta tutkijasta vain 48 prosenttia on yksityisen sektorin palveluksessa.
+<P>
+Yhdennettyjä suuntaviivoja on hiottava tulevan kolmivuotiskauden kuluessa. Euroalueella on nykyään vakaat makrotaloudelliset puitteet, joille ovat ominaisia heikko inflaatio, vahva valuutta ja matalat korot. Kasvu on suurempaa niissä kolmessa jäsenvaltiossa, jotka eivät kuulu euroalueeseen, vaikka niiden rahapoliittisen riippumattomuuden hintana onkin korkeampi korkotaso. Kasvu on huomattavaa kahdeksassa kymmenestä uudesta jäsenvaltiosta, mutta niillä on rakenteellisia ongelmia. Arvoisa puhemies, yhdennetyissä suuntaviivoissa on otettava paremmin huomioon jäsenvaltioiden erilaiset tilanteet ja ongelmat. 
+<SPEAKER ID="5" LANGUAGE="ES" NAME="Ana Mato Adrover (PPE-DE )," AFFILIATION="esittelijä">
+<P>
+   . – Arvoisa puhemies, hyvät kollegat, vuonna 2000 kokoontuneen Lissabonin Eurooppa-neuvoston jälkeen useat tapahtumat ovat vaikuttaneet kielteisesti Euroopan unionin talouteen, ja niiden takia kasvu on ollut paljon odotettua vähäisempää. Lisäksi olemme edelleen huomattavasti jäljessä Lissabonissa asetetuista tavoitteista. Viime helmikuussa komissio hyväksyi asiakirjan nimeltä "Kasvua ja työtä Euroopan tulevaisuuden hyväksi – Uusi alku Lissabonin strategialle", jossa korostettiin selvästi, että jos tavoitteena on edelleen tehdä Euroopasta maailman dynaamisin ja kilpailukykyisin talousalue vuoteen 2010 mennessä, Lissabonin strategiaa on kohdennettava uudelleen ja siinä on keskityttävä kahteen tarkoin rajattuun tavoitteeseen: ensinnäkin talouskasvuun ja toiseksi työllisyyteen.
+<P>
+Yhtenä seurauksena tästä on ensimmäisten yhdennettyjen talous- ja työllisyyspolitiikan suuntaviivojen esittäminen kolmivuotiskaudeksi; nämä suuntaviivat on yhdistettävä niin ikään innovatiivisiin kansallisiin uudistusohjelmiin. Suuntaviivojen perusajatuksena on, että talouskasvu voi edistää olennaisesti työllisyyttä ja että sen avulla voidaan antaa parhaat takeet sosiaaliselle järjestelmälle.
+<P>
+Kiitän teitä esittämistänne yli 90 tarkistuksesta, joista on muokattu 14 kompromissia. Työllisyyden ja sosiaaliasioiden valiokunta hyväksyi ne lähes yksimielisesti, ja aion tänään pitää niistä kiinni johdonmukaisuuden vuoksi ja kunnioittaakseni niitä jäseniä, jotka ovat ne allekirjoittaneet. Hylkään näin ollen vihreiden ryhmän esittämät seitsemän tarkistusta, jotka on itse asiassa jo käsitelty ja otettu osittain huomioon kompromisseissa ja jotka parlamenttiryhmät ovat hyväksyneet. Koska annoimme kaikki kovan uurastuksen jälkeen periksi päästäksemme yhteisymmärrykseen laadukkaasta mietinnöstä, jonka enemmistö voisi hyväksyä, vaikuttaisi johdonmukaiselta tukea tuota mietintöä tänään. Kiitän erityisesti naisten oikeuksien ja sukupuolten tasa-arvon valiokuntaa, jonka esittelemässä tekstissä tasa-arvonäkökulma otettiin erinomaisesti huomioon. Kyseinen teksti on otettu käytännöllisesti katsoen kokonaisuudessaan mukaan tarkistuksissa tehtyihin kompromisseihin ja suuntaviivoihin. Suuret kiitokset tekemästänne työstä.
+<P>
+Hyvät kollegat, mielestäni olemme parlamentin neuvotteluissa onnistuneet parantamaan komission ehdotusta laajentamalla sitä ja liittämällä siihen uusia näkökohtia.
+<P>
+Ensinnäkin työn ja perhe-elämän yhdistäminen: erityisen tärkeitä näkökohtia ovat perheeseen liittyvän vastuun tasapuolinen jakaminen pariskuntien kesken, osa-aikatyön kaltaisten joustavien työmallien tukeminen, isyysloma tai lastenhoitopalvelut taikka muita huollettavana olevia henkilöitä, kuten vanhuksia, koskevat hoitopalvelut Barcelonan huippukokouksessa vuonna 2002 asetettujen tavoitteiden mukaisesti.
+<P>
+Toiseksi työtapaturmien torjuminen. Mietinnössä puolletaan ennaltaehkäisyä, ja suosittelemme laajan eurooppalaisen sopimuksen laatimista, jotta Euroopan lukuisia uhreja vaativat työtapaturmat voidaan torjua.
+<P>
+Kolmanneksi erittäin merkittävä ilmiö eli maahanmuutto. Kannatamme laillisten maahanmuuttajien kotouttamista ja kaiken rasististen käyttäytymisen kitkemistä perin pohjin.
+<P>
+Neljänneksi yleissivistävä ja ammatillinen koulutus: kaikkien koulutusmuotojen parantaminen ja ammatillisen koulutuksen tukeminen – sitä on lakattava pitämästä korkeakoulutusta huonompana vaihtoehtona – elinikäinen oppiminen, uusi teknologia ja yrittäjyyden edistäminen, kielet sekä opettaja- ja opiskelijavaihto-ohjelmat.
+<P>
+Viidenneksi perheväkivallan torjuminen: sukupuoleen perustuvan väkivallan uhreiksi joutuneiden naisten työllistämisohjelmat.
+<P>
+Kuudenneksi meidän on sitouduttava sosiaalisen yhteenkuuluvuuden ja osallisuuden edistämiseen sekä työssä tapahtuvan syrjinnän torjumiseen tukemalla yhtenäistettyjä toimia ja toteuttamalla kaikki tarvittavat toimet, joilla työmarkkinat pidetään avoimina työnhakijoille, varsinkin naisille, nuorille, ikääntyville ja vammaisille.
+<P>
+Mietinnössä sekä naisten oikeuksien ja sukupuolten tasa-arvon valiokunnan lausunnossa on esitetty monenlaisia toimenpiteitä todellisen sukupuolten välisen tasa-arvon takaamiseksi. Ne eivät liity ainoastaan työllistymiseen vaan myös muihin kysymyksiin, kuten palkkoihin, uralla etenemiseen ja häirintään.
+<P>
+Seitsemänneksi ikääntyvien työnsaanti ja vähittäinen ja joustava eläkkeelle siirtyminen. Tuemme ikääntyvien osallistumista työmarkkinoille ja työuran vapaaehtoista jatkamista työhön kannustavilla toimenpiteillä ja ehkäisemällä varhaiseläkkeelle siirtymistä.
+<P>
+Lopuksi mietinnössä tuodaan esiin muita kysymyksiä, kuten ympäristö, kestävä kehitys ja sosiaalinen talous, sekä tuetaan osuuskuntien työtä ja vapaaehtoisia aloja, alue- ja paikallisviranomaisten asemaa ja uusien työllistymismahdollisuuksien etsimistä, mikä on erittäin tärkeää.
+<P>
+Hyvät kollegat, mielestäni mietintö, josta tänään keskustelemme, monipuolistaa ja parantaa komission alkuperäistä ehdotusta. Siksi kiitän vielä kerran lämpimästi kaikkia niitä jäseniä, jotka ovat esittäneet tarkistuksia, eivät ainoastaan oman etunsa vuoksi vaan myös edistääkseen yhteisymmärrystä. Heidän työnsä ansiosta suuntaviivat, jotka vihdoin tänään hyväksymme, parantavat mahdollisuuksia saavuttaa eurooppalaisen työllisyysstrategian avulla Lissabonissa asetetut tavoitteet, jotka työllisyyden alalla ovat yksinkertaisesti täystyöllisyys ja parempilaatuiset työpaikat vuoteen 2010 mennessä. 
+<SPEAKER ID="6" LANGUAGE="NL" NAME="Ria Oomen-Ruijten (PPE-DE )," AFFILIATION="esittelijä">
+<P>
+   . – Arvoisa puhemies, sosiaalinen Eurooppa maailmantaloudessa, työtä ja mahdollisuuksia kaikille: näin Euroopan komissio tiivisti helmikuussa lähivuosien sosiaalipoliittisen ohjelman. Tänään yritämme jatkaa siitä, mihin asiakirjoissa jäätiin. Siksi toivon, että niin komissio kuin neuvostokin mukautuvat myönteisellä tavalla niihin painotuksiin, joita me asetamme tänään mietinnössä, josta myöhemmin äänestämme.
+<P>
+Joskus minusta tuntuu, että sosiaalipolitiikkaan osallistumista pidetään pehmoiluna. Sosiaalipolitiikalla ei enää ole paljonkaan merkitystä nyky-Euroopassa. Jos kuitenkin haluamme saavuttaa tavoitteet, palauttaa luottamuksen yhteiskuntaamme ja varmistaa työttömien palaamisen työmarkkinoille – jos haluamme saavuttaa kaiken tämän – tarvitsemme Euroopan sosiaalista mallia.
+<P>
+Tarkastellessani uutta perustuslakisopimusta niiden keskusteluiden valossa, joita käydään parhaillaan niin Ranskassa kuin Alankomaissakin, panin merkille, että sosiaalista markkinataloutta pidetään tärkeimpänä periaatteena, ja sillä on vaikutusta kaikkiin Euroopan unionissa toteuttamiimme toimiin. Näin ollen meidän on sovellettava sosiaalista markkinataloutta kaikkeen päätöksentekoomme.
+<P>
+Se merkitsee, että pohtiessamme tätä sosiaalipoliittista ohjelmaa meille on tärkeintä Lissabonin tavoitteiden saavuttaminen, toisin sanoen uudet työpaikat ja vakaan ja laadukkaan työllisyyden varmistaminen. Se merkitsee myös, että pienille ja keskisuurille yrityksille annetaan mahdollisimman paljon tilaisuuksia, sillä ne ovat joka tapauksessa liikkeellepaneva voima uusien ja parempien työpaikkojen takana. Siitä Lissabonin tavoitteissa on kyse.
+<P>
+Lissabonin strategian tarkoituksena on kuitenkin myös varmistaa, että niille ihmisille, jotka ovat syrjäytyneet työkyvyttömyyden tai vammaisuuden takia eivätkä siksi pysty sovittamaan yhteen työtä ja ammattiuraa, annetaan myös mahdollisuus päästä työmarkkinoille sen sosiaalisen järjestelmän avulla, jonka me haluamme Euroopassa toteuttaa. Näin myös työkyvyttömille annetaan uusi mahdollisuus työmarkkinoilla joko uudelleen- tai lisäkoulutuksen avulla heidän nykyisen kapasiteettinsa mukaisesti. Jo vuosia – luullakseni muutamia vuosikymmeniä – olemme puhuneet uudelleen- ja lisäkoulutuksen edistämisestä, jatkuvasta aktiivisesta toiminnasta työmarkkinoiden tarpeita vastaavan lisäkoulutuksen järjestämiseksi. Muutamia poikkeuksia lukuun ottamatta tätä alaa koskevat suunnitelmat kuitenkin toteutuvat aivan liian harvoin. Olenkin vakaasti sitä mieltä, että komission jäsenen on pidettävä koulutus asialistan kärjessä.
+<P>
+Samaan yhteyteen kuuluu myös sosiaalinen markkinatalous. Taloutemme on sovelluttava kaikille. Sen vuoksi meidän on myös tarkasteltava perinpohjaisesti väestörakenteen muutoksen vaikutuksia yhteiskuntamme sosiaaliturvajärjestelmään. Jos tiedämme, että lähivuosina nuorten määrä työikäisestä väestöstä vähenee ja ikääntyvien määrä kasvaa, meidän on mukautettava sosiaaliturvajärjestelmiämme väestötekijöiden mukaisesti.
+<P>
+Euroopan komissio on hyvä analysoimaan, mutta se on epäonnistunut selkeiden toimien suunnittelussa tässä muistiossa. Toivon, että äänestyksessä painottamillamme seikoilla onnistumme tekemään sosiaalipoliittisesta ohjelmasta käytännönläheisemmän. 
+<SPEAKER ID="7" LANGUAGE="ES" NAME="Joaquín Almunia," AFFILIATION="komission jäsen">
+<P>
+   . Arvoisa puhemies, kiitän esittelijöitä niiden kolmen mietinnön esittelystä, joista keskustelemme yhtenä kokonaisuutena. Komissio on tyytyväinen tähän ratkaisuun.
+<P>
+Puolitoista kuukautta sitten, 12. huhtikuuta, komission varapuheenjohtaja Verheugen, komission jäsen Špidla ja minä saimme tilaisuuden esitellä Euroopan parlamentille Lissabonin strategian arviointiin ja soveltamiseen tarkoitetut yhdennetyt suuntaviivat, joissa kaksi perustamissopimuksessa määrättyä välinettä yhdistettiin yhdeksi tiedonannoksi, yhdeksi keskusteluksi ja yhdeksi strategiaksi: talouspolitiikan laajoiksi suuntaviivoiksi ja työllisyyssuuntaviivoiksi.
+<P>
+Komission mielestä on oleellista säilyttää tämä yhdennetty lähestymistapa. Vaikka perustamissopimuksessa määrättyjen välineiden – talouspolitiikan laajojen suuntaviivojen ja työllisyyssuuntaviivojen – toimintamalli on erilainen ja ne toteutetaan eri tasoilla, niiden tavoite on sama: kasvun lisääminen ja työllisyysasteen nostaminen ja sosiaalisen yhteenkuuluvuuden parantaminen näiden tekijöiden pohjalta, Lissabonin strategian tavoitteissa esitetty sosiaalinen malli sekä kestävä sosiaalinen ja ympäristötekijät huomioon ottava kehitys – nämäkin kuuluvat Lissabonin strategian perustekijöihin. Tietenkin kaikki tämä olisi toteutettava niin, että se parantaa kilpailu- ja kasvukykyämme. Siksi halusin mainita tämän yhdennetyn lähestymistavan ensimmäiseksi ja vieläpä parlamentin lausunnon mukaisesti.
+<P>
+Puheenvuoroni lopuksi, ennen kollegani Špidlan puheenvuoroa – varapuheenjohtaja Verheugen ei valitettavasti voi osallistua tähän keskusteluun – kommentoin jäsen Goebbelsin mietintöä talouspolitiikkojen laajoista suuntaviivoista.
+<P>
+Mietinnössään jäsen Goebbels kiinnittää huomiota siihen, että toimijoilla, sijoittajilla ja kuluttajilla on liian synkkä kuva Euroopan taloudesta. Olen täysin samaa mieltä tästä arviosta, ja esittelijän tavoin olen huolissani luottamuksen puutteesta. Euroopan taloudella on tällä hetkellä mahdollisuudet nykyistä parempaan kasvuun. Erityisesti joidenkin euroalueen suurimpien kansantalouksien pitäisi lisätä kasvuaan, ja siksi meidän on lisättävä luottamusta sijoittajien ja kuluttajien keskuudessa, koska siihen on objektiiviset edellytykset.
+<P>
+Luottamuksen puutteen lisäksi ongelmanamme ovat erilaiset tilanteet, jotka yhteisesti sopimamme rahapolitiikan vuoksi ovat haasteellisia sekä komissiolle että neuvostolle ja varsinkin euroryhmälle: kuinka vastata kurinalaisen budjettipolitiikan rajoissa – keskustelemme vakaus- ja kasvusopimuksen uudistamisesta parlamentissa lähipäivinä – ja talouspolitiikan laajoissa suuntaviivoissa määrätyn talouspolitiikkojen koordinoinnin pohjalta erilaisiin tilanteisiin niin, että kunkin kansantalouden erityisolosuhteisiin mukautettuja suosituksia soveltamalla koko euroalue ja koko Euroopan unioni voivat koordinoida talouspolitiikkansa ja että saavutamme kaikki parempia tuloksia.
+<P>
+Keskustelemme näistä erilaisista tilanteista euroryhmän tulevassa kokouksessa käyttäen tausta-aineistona komissiolta pyydettyä kertomusta. Haluamme kuitenkin myös jokaisen maan määrittelevän omat painopisteensä ja tällä tavoin ottavan itse enemmän vastuuta; siksi syksyllä jäsenvaltioissa hyväksyttävät kansalliset ohjelmat ovat niin tärkeitä. Lissabonin strategian viiden ensimmäisen soveltamisvuoden aikana olemme oppineet ainakin sen, että kaikki vakuuttavat yksimielisyyttään tavoitteista ja strategioista mutta kaikki eivät siltikään sovella näiden tavoitteiden ja strategioiden yhteisen arvioinnin pohjalta annettuja suosituksia.
+<P>
+Siksi kansallisilla suunnitelmilla on merkitystä, ja niistä keskustellaan uudelleen neuvoston ja komission lisäksi epäilemättä myös parlamentissa. Näin ollen – tässä suhteessa olen eri mieltä yhdestä jäsen Goebbelsin mietinnössä esitetystä huomautuksesta – komissio ei ole sisällyttänyt suositukseensa jäsenvaltioiden suuntaviivoja, koska se haluaa lisätä jäsenvaltioiden vastuunottoa ja antaa niille mahdollisuuden poliittiseen keskusteluun, jossa hallitukset ja kansanedustuslaitokset määrittelevät poliittiset painopisteet ja poliittisen toiminnan välineet vielä kuluvana vuonna tämän yhdennetyn paketin esittelyn yhteydessä. Kesä–heinäkuussa pidämme kuitenkin alustavan kokouksen, jonka tavoitteena on suunnitella kansalliset ohjelmat 25 jäsenvaltiolle, ja noissa kokouksissa komission yksiköt luonnollisesti tekevät komission jäsenten kollegion hyväksymien sekä parlamentin ja neuvoston käsittelemien suuntaviivojen pohjalta kullekin jäsenvaltiolle joukon kansallisia painopisteitä koskevia ehdotuksia auttaakseen niitä laatimaan kansalliset ohjelmat mahdollisimman tehokkaasti. Toivon, että nuo ohjelmat auttavat meitä todella tajuamaan ne yhteiset tavoitteet, jotka on tuotu esiin myös jäsenten Goebbels, Mato Adrover ja Oomen-Ruijten mietinnöissä. 
+<SPEAKER ID="8" LANGUAGE="CS" NAME="Vladimír Špidla," AFFILIATION="komissio">
+<P>
+   .  Arvoisa puhemies, hyvät parlamentin jäsenet, saanen aluksi kiittää työllisyyden ja sosiaaliasioiden valiokuntaa. Kiitän erityisesti esittelijä Oomen-Ruijtenia erinomaisesta työstä sosiaalipoliittisen ohjelman parissa ja esittelijä Mato Adroveria laadukkaasta työstä ja aktiivisesta lähestymistavasta suuntaviivoja koskevan parlamentin kannan valmisteluun.
+<P>
+Olen iloinen siitä, että talouspolitiikan suuntaviivoja koskevassa parlamentin kannassa otetaan huomioon kasvua ja työllisyyttä edistävän Lissabonin strategian uusi painotus ja että siinä kiinnitetään huomiota myös työllisyyspolitiikan kolmeen painopisteeseen, nimittäin työllisyysasteen nostamiseen, joustavuuteen ja inhimilliseen pääomaan tehtäviin investointeihin.
+<P>
+Hyvät parlamentin jäsenet, en ole samaa mieltä niiden kanssa, joiden mielestä Euroopan sosiaalinen malli on epäonnistunut ja Eurooppa jää aina vain enemmän jälkeen muista alueista. On selvää, että meidän on vielä ahkeroitava ja ponnisteltava kovasti kehittääksemme tätä mallia ja ollaksemme kilpailukykyisiä ja ajanmukaisia, mutta ei tarvitse kuin verrata olennaisimpia rajoitteitamme niihin rajoitteisiin, joita muilla samassa tilanteessa olevilla maailman alueilla on, huomatakseen, että Eurooppa on sittenkin menestynyt kohtalaisesti. 
+<P>
+Hyvät parlamentin jäsenet, olen iloinen siitä, ettei parlamentin esittämillä tarkistuksilla pyritä muuttamaan suuntaviivojen rakennetta. Sen sijaan niiden tavoitteena on panna enemmän painoa tietyistä kysymyksistä käytävälle keskustelulle. Näitä kysymyksiä ovat sekä tiettyjen ryhmien, kuten naisten, nuorten, ikääntyvien työntekijöiden ja vammaisten, erityisongelmat ja määrätyt keskeisinä pidetyt kysymykset, kuten kumppanuustoiminta, työllisyyden edistäminen, työtapaturmien ennaltaehkäisy sekä joustavuuden ja työn varmuuden välisen tasapainon löytäminen.
+<P>
+Komissio on tyytyväinen parlamentin kannan yleissävyyn ja tekee voitavansa varmistaakseen, että tähän kantaan kiinnitetään asianmukaista huomiota lopullisissa suuntaviivoissa, joista sosiaaliasioiden neuvosto päättää 2. ja 3. kesäkuuta.
+<P>
+Käytännössä komissio tekee kaiken mahdollisen varmistaakseen, että parlamentin tarkistusten pääsisältöön kiinnitetään huomiota tässä keskustelussa. Komissio kannattaa johdanto-osan kappaleiden tarkistamista korostaakseen, etteivät uudistukset ole edistyneet riittävästi kuluneiden viiden vuoden aikana, ja varmistaakseen, että sosiaaliseen yhteenkuuluvuuteen ja Lissabonin strategian mukaiseen ympäristöulottuvuuteen kiinnitetään enemmän huomiota. Näkemykseni mukaan tämä on Lissabonin strategian ydin: tietoisuus siitä, että käsittelemme yhden ulottuvuuden sijasta pikemminkin kolmea ulottuvuutta ja että meidän on tunnistettava nämä ulottuvuudet ja otettava ne huomioon kaikissa tulevissa toimissamme.
+<P>
+Palatakseni yksittäisiä suuntaviivoja koskevaan kysymykseen voin vakuuttaa teille, että komissio kannattaa EU:n aktiivisempaa puuttumista esimerkiksi kumppanuustoiminnan, sukupuolten tasa-arvon, nuorten ongelmien ja työllisyyden lisäämisen kaltaisiin kysymyksiin. Komissio ei kuitenkaan halua laatia erillisiä suuntaviivoja työtapaturmien ennaltaehkäisystä, sillä ne jäisivät neuvoston päätelmissä määritellyn soveltamisalan ulkopuolelle.
+<P>
+Saanen nyt sanoa muutaman sanan sosiaalipoliittisesta ohjelmasta. Se on ilman muuta keskeinen tekijä, sillä se on olennainen osa sekä Lissabonin strategiaa että kestävän kehityksen strategiaa. Siinä annetaan suuntaviivat niille toimenpiteille, joita meidän on toteutettava edistääksemme uusia ja parempia työpaikkoja ja tasapainoisempaa yhteiskuntaa, jossa yhteisvastuu on keskeisemmässä asemassa. Eurooppa-neuvosto myönsi tämän keväällä pidetyssä huippukokouksessaan puoltamalla sosiaalipoliittista ohjelmaa päätelmissään. Samalla se korosti, että ohjelmalla lujitetaan Euroopan sosiaalista mallia, jonka keskeiset tavoitteet ovat täystyöllisyys ja suurempi sosiaalinen yhteenkuuluvuus, ja että se auttaa EU:ta Lissabonin tavoitteiden saavuttamisessa.
+<P>
+Vaikka kasvu ja työllisyys ovat välittömiä painopisteitä, kilpailukyvyn lisääminen ja nopeampi kasvu ovat siitä huolimatta pikemminkin keinoja kuin päämääriä sinänsä. Pelkkä kasvu ei takaa solidaarisuutta eikä sosiaalista kestävyyttä. Meidän on tehtävä myös poliittisia päätöksiä varmistaaksemme, että lukuisat tavoitteemme täydentävät toisiaan. Jo pelkästään nämä yhdennetyt suuntaviivat ovat askel tähän suuntaan.
+<P>
+Tämä lähestymistapa on valittu sosiaalipoliittisessa ohjelmassa, jonka tavoitteena on auttaa Eurooppaa selviytymään suurimmista rakenteellisista ongelmistaan, joihin kuuluvat väestörakenteen muutos, maailmanlaajuinen kilpailu ja teknologian muutokset sekä innovaatiot. Komissio päätti tietoisesti esittää sosiaali- ja työllisyyspoliittiset tavoitteensa eri tavalla kuin edellisessä sosiaalipoliittisessa ohjelmassa.
+<P>
+Tärkeimpien ongelmien korostamisen ja tulevia toimenpiteitä varten ehdotettujen ajatusmallien lisäksi uudessa ohjelmassa edellytetään kaikilta suunniteltavilta toimintalinjoilta avoimuutta ja läpinäkyvyyttä sekä kaikkien sidosryhmien osallistumista niihin. Siinä ei esitetä yksityiskohtaista ja tyhjentävää luetteloa toimenpiteistä, sillä olisi täysin epäloogista päättää nyt sellaisista toimista, joita toteuttaisimme vasta neljän tai viiden vuoden kuluttua, vaikka on tietenkin hyödyllistä asettaa suuntaviivoja ja strategisia tavoitteita. Sen vuoksi meidän ei myöskään tarvitse alusta asti vahvistaa käyttämiämme poliittisia ja teknisiä välineitä. Yhteisössä toteutettavia toimenpiteitä varten käytössämme on lukuisia välineitä, muun muassa lainsäädäntö, avoin koordinointimenetelmä, rahoitusvälineet, joista mainittakoon erityisesti Euroopan sosiaalirahasto, sekä työmarkkinaosapuolten välinen vuoropuhelu.
+<P>
+Kaikkein tehokkainta välinettä tai välineiden yhdistelmää ei pitäisi valita etukäteen ennakkokäsitysten perusteella, eikä mitään välinettä pitäisi ennakolta asettaa muiden edelle. Vaikka lainsäädäntö on jatkossakin keskeinen väline, pelkkään lainsäädäntöön turvautuminen on monestakin syystä epäsuotavaa. Tiedämme kaikki, että monissa tapauksissa täytäntöönpano ja sääntöjenmukaisuus ovat hyvin puutteellisia. Siksi tietyillä aloilla, esimerkiksi syrjinnän torjumisessa, onkin tässä vaiheessa asetettava etusijalle nykyisten toimien täytäntöönpano, joka on oikeudelliselta kannalta sekä tärkeää että hyödyllistä.
+<P>
+En aio paneutua perusteellisemmin yksittäisiin kysymyksiin, mutta olen halukas kuulemaan kysymyksiänne ja odotan kiinnostuneena keskustelun loppuosaa. 
+<SPEAKER ID="9" LANGUAGE="FR" NAME="Astrid Lulling (PPE-DE )," AFFILIATION="naisten oikeuksien ja sukupuolten tasa-arvon valiokunnan lausunnon valmistelija.">
+<P>
+   – Arvoisa puhemies, naisten oikeuksien ja sukupuolten tasa-arvon valiokunnan työllisyyspolitiikan suuntaviivoja koskevan lausunnon valmistelijana minua surettaa, että suurin osa alkuperäisistä ideoistamme on jätetty pois työllisyyden ja sosiaaliasioiden valiokunnan lopullisesta mietinnöstä.
+<P>
+Lausunnossa korostin, että on edistettävä nuorten naisten monipuolisempia ammatinvalintamahdollisuuksia, sillä naisten työllistyvyyden lisääminen on ainoa tapa parantaa heidän työnäkymiään. Siksi suosittelimme myönteisiä toimia naisten työllisyystilanteen parantamiseksi. Emme unohtaneet myöskään itsenäisiä ammatinharjoittajia ja heidän apunaan toimivia puolisoita – miljoonia näkymättömiä työntekijöitä, jotka jätetään huomiotta naisten työllisyysasteesta laadituissa tilastoissa. On järjetöntä unohtaa heidät ja jättää huolehtimatta siitä, että he kuuluvat sosiaaliturvajärjestelmiin ja saavat osan liikevoitosta: sitä varten on ehdotettava toimenpiteitä, esimerkiksi määräyksiä, joilla lopetettaisiin perheyrityksissä työskentelevien puolisoiden pitäminen tilapäisenä työvoimana. Parlamentti hyväksyi tämän ajatuksen vuonna 1997 perheyrityksissä työskenteleviä puolisoita koskevan mietintöni jälkeen, mutta komissio ei ole vielä suhtautunut siihen suopeasti. Käsiteltävänä oleva mietintö tarjosi tilaisuuden muistuttaa tästä, mutta valitettavasti se jätettiin käyttämättä.
+<P>
+Lausunnossani esitettiin myös ajatus "työaikavalinnasta" ja vapaaehtoisesta osa-aikatyöstä. On sääli, ettei työllisyyden ja sosiaaliasioiden valiokunta kannattanut kumpaakaan näistä ajatuksista. Kenties Euroopan komissio harkitsee niitä. Arvoisa komission jäsen, toivon sitä todella, sillä jos pidämme mielessä, että parlamentin yksimielisesti hyväksymät ehdotukset ovat peräisin vuodelta 1997 ja että tasa-arvoisen kohtelun periaatteen soveltamisesta itsenäisiin ammatinharjoittajiin ja perheyrityksissä työskenteleviin puolisoihin vuonna 1986 annetun direktiivin tarkistamiseksi ei vielä vuonna 2005 ole tehty mitään, odotusaikaa voidaan pitää melkoisen pitkänä. 
+<SPEAKER ID="10" LANGUAGE="EN" NAME="Zita Gurmai (PSE )," AFFILIATION="naisten oikeuksien ja sukupuolten tasa-arvon valiokunnan lausunnon valmistelija">
+<P>
+   . – Arvoisa puhemies, kiitän kollegaani sosiaalipoliittista ohjelmaa koskevasta huomionarvoisesta puheenvuorosta. Kyseisellä ohjelmalla on erittäin suuri merkitys Lissabonin kriteerien täyttämiselle sekä talouskasvun ja sosiaalisen Euroopan välisen tasapainon saavuttamiselle. Haluan tuoda esiin tärkeimmät alat, joita tässä ohjelmassa on syytä korostaa.
+<P>
+Olen vakuuttunut siitä, että olemme onnistuneet yhteistyössämme ja hahmotelleet vision ja pitkän aikavälin strategian sosiaaliselle Euroopalle. Nämä olivat joka tapauksessa ensimmäiset tärkeät askeleet, ja nyt meidän pitäisi toteuttaa teoreettiset ideat ja strategiat käytännössä. Haluan kiinnittää huomionne muutamiin tärkeisiin seikkoihin lausunnossani.
+<P>
+Ensinnäkin uusi sosiaalipoliittinen ohjelma on vastaus uudistettuun Lissabonin toimintaohjelmaan. Sosialidemokraattien näkemyksen mukaan sosiaalipolitiikka on yksi eurooppalaisen järjestelmän kulmakivistä.
+<P>
+Toiseksi meidän pitäisi ottaa käyttöön eri sukupolvet huomioon ottava uusi toimintamalli, jolla selvitettäisiin tehokkaammin sosiaalisesti syrjäytyneiden ryhmien ongelmat – ei ainoastaan nuorten vaan myös eläkeläisten, vammaisten ja naisten. Työmarkkinaosapuolten vuoropuhelu on yksi tärkeimmistä tavoitteistamme. On huolestuttavaa, että naisten kansalaisjärjestöjen on vaikea saada yhteisön varoja, ja mielestämme tarvitaan laaja-alaista ja tulevaisuuteen suuntautunutta puitestrategiaa sukupuolten tasa-arvon edistämiseksi.
+<P>
+Tehtävien täytäntöönpanon seurantaprosessiin tarvitaan yhdenmukaistettua tavoitetta, johon kuuluvat täsmälliset, kattavat ja yksityiskohtaiset tilastot. Olemme tietoisia Eurostatin tilastoista, mutta ne perustuvat kansallisiin tilastotietoihin. Pienten ja keskisuurten yritysten valtavaa potentiaalia pitäisi kehittää, ja se pitäisi ottaa huomioon ohjelmassa, sillä niiden osuus Euroopan taloudesta on yli 90 prosenttia ja niiden palveluksessa on 79 prosenttia työntekijöistä.
+<P>
+Tarvitaan lisää yhteisöohjelmia ja kansallisia strategioita, joiden tavoitteena on luoda suotuisat toimintaedellytykset esimerkiksi erityisohjelmien kautta. Tästä olisi valtavasti apua uusien työpaikkojen luomisessa. Suhtaudun myönteisesti Euroopan tasa-arvoinstituutin perustamiseen, sillä sen avulla voidaan valvoa sukupuolten tasa-arvon edellytyksiä jäsenvaltioissa. 
+<SPEAKER ID="11" LANGUAGE="PT" NAME="José Albino Silva Peneda," AFFILIATION="PPE-DE-ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, hyvät kollegat, haluamme puhua työllisyydestä. Työpaikkoja ei pystytä luomaan ilman yrityksiä, eikä yrityksiä perusteta ilman yrittäjiä – ihmisiä, joilla on aloitekykyä ja halua ottaa riskejä.
+<P>
+Aloitekykyyn vaikuttavat monet tekijät: esimerkiksi vakaa makrotalous, hyvä hallintotapa ja tärkeimpänä yleistä yrittäjähenkisyyttä tukevat toimet, jotka perustuvat toimintalinjoja ja toimielimiä kohtaan tunnettuun luottamukseen.
+<P>
+Luottamusta ei kuitenkaan saada aikaan lainsäädännöllä. Vain tärkeimmät päätöksentekijät voivat saavuttaa vankan luottamuksen osaamisyhteiskunnassa. Tämä koskee tietenkin suuria rahoitusryhmittymiä ja suuryrityksiä, mutta pienet ja keskisuuret yritykset (pk-yritykset), joiden osuus eurooppalaisista yrityksistä on yli 90 prosenttia ja jotka työllistävät kaksi kolmasosaa työvoimasta, ovat selvästi huonommassa asemassa ja pystyvät saavuttamaan luottamusta ainoastaan kasvattamalla kokoaan. Tähän vaikuttaa se, kuinka tehokkaasti niitä kannustetaan aktiiviseen yhteistyöhön yliopistojen ja osaamiskeskusten kanssa. Ne alueet, jotka osoittautuvat poliittisiksi liikkeellepanijoiksi, pystyvät ratkaisevasti edistämään tämänkaltaista yhteistyötä. Näin tehdessään ne laajentavat luottamusta, joka on olennainen tekijä investointien ja työllisyyden lisäämisessä.
+<P>
+Siksi totean, että työpaikkojen lisääminen Euroopassa riippuu suuresti siitä, miten alueilla toimitaan. Samat ihmiset, jotka kieltäytyvät myöntämästä, että Euroopan tulevaisuus riippuu alueista ja pk-yrityksistä, vaativat myös koheesiopolitiikan määrärahojen vähentämistä ja kannattavat tunnetun peruskirjan vaatimusta, jonka mukaan jäsenvaltioiden rahoitusosuuksien enimmäismääräksi rahoitusnäkymissä on asetettava 1 prosentti BKT:sta. Tehtäköön täysin selväksi, että jos toimimme tällä tavoin, Eurooppa jää paitsi sekä talouskasvusta että uusista työpaikoista. 
+<SPEAKER ID="12" LANGUAGE="NL" NAME="Anne Van Lancker," AFFILIATION="PSE-ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, kiitän aluksi jäsen Oomen-Ruijtenia siitä, että hänen mietinnössään parlamentti vetoaa voimakkaasti Euroopan unionin kunnianhimoisen sosiaalipoliittisen ohjelman puolesta. Mielestäni on erittäin tärkeää, että käymme tätä keskustelua yhdennetyistä talous- ja työllisyyssuuntaviivoista käytävän keskustelun yhteydessä, sillä talous ja työllisyys eivät ole ristiriidassa laadukkaiden ja sosiaalisesti kunnianhimoisten toimien kanssa. Sanoisin, että työntekijöiden sosiaalisten oikeuksien suojelu, sosiaalisen syrjäytymisen torjuminen ja investoinnit elinikäiseen oppimiseen ovat päinvastoin oleellisia, jos haluamme antaa taloudelle ja työllisyydelle piristysruiskeen.
+<P>
+Arvoisa komission jäsen, komission sosiaalipoliittisessa ohjelmassaan esittämistä väitteistä huolimatta Lissabonin strategian esittelyssä ei rehellisesti sanoen näkynyt jälkeäkään sosiaalipolitiikasta, ja kyse on hukkaan heitetystä tilaisuudesta. Osallistuttuani lisäksi keskusteluihin, joita käytiin Ranskan EU:n perustuslaista järjestämästä kansanäänestyksestä, on mielestäni selvää, että Euroopan kansalaiset muuallakin kuin Ranskassa vaativat voimakkaasti Euroopan unionilta laajempaa sosiaalista näkemystä, ja mielestäni meidän olisi hyvä tehostaa toimia tällä alalla.
+<P>
+Komissio painotti ohjelmassaan oikeita asioita, vaikka se olisikin voinut tehdä sen käytännönläheisemmin ja antaa meille hiukan enemmän. Arvoisa komission jäsen, mielestäni on esimerkiksi oikein, että komissio korostaa lainsäädännön täytäntöönpanoa tai noudattamista, mutta laajentuneessa unionissa meidän pitäisi asettaa myös korkeita sosiaalisia tavoitteita. Tarvitsemme vielä uusia säädöksiä. Parlamentti on esimerkiksi jo pitkään pyytänyt eurooppalaista yritysneuvostoa tai työntekijöiden suojelua yksittäisiltä irtisanomisilta koskevien direktiivien tarkistamista.
+<P>
+Euroopan unionin pitäisi mielestäni edelleen toimia edelläkävijänä myös syrjinnän torjumisessa, ja vammaiset laskevat hyvin paljon sen varaan, että Euroopan unioni antaa lisää tätä alaa koskevia säädöksiä. Arvoisa komission jäsen, perustuslaki luo uskomattoman suuria sosiaalisiin oikeuksiin liittyviä odotuksia, ja kehotan teitä täyttämään ne nyt. Mielestäni unionin sosiaalipoliittinen ohjelma hyötyisi hienoisesta vahvistamisesta, ja odotan innokkaasti erinomaista toimielinten välistä vuoropuhelua, jolla komission esittämää ohjelmaa lujitetaan entisestään. 
+<SPEAKER ID="13" LANGUAGE="LT" NAME="Margarita Starkevičiūtė," AFFILIATION="ALDE-ryhmän puolesta">
+<P>
+   . – Arvoisat komission jäsenet, olen tyytyväinen siihen, että talousnäkymistä käydyt keskustelut ovat monitahoisia. Olemme kuitenkin harvoin keskustelleet siitä, miten nyky-Euroopassa yhdistyvät ainutlaatuisella tavalla teknisesti kehittyneet vanhat jäsenvaltiot ja nopeasti kasvavat uudet jäsenvaltiot tai siitä, miten tällainen tilanne antaa meille huomattavan kilpailuedun. Tämä kulttuurin ja henkisen pääoman monimuotoisuus on tärkeintä maailmassa. Uusi teknologia leviää yleensä hyvin nopeasti, ja johtavassa asemassa olevat pystyvät käyttämään luovaa energiaa ripeämmin ja tehokkaammin. Jotta voisimme käyttää tuota luovaa energiaa ja muuttaa kulttuurisen potentiaalimme ja kulttuuriperintömme kilpailueduksi, tarvitsemme tarkasti määritellyt painopisteet.
+<P>
+Yksi Euroopan unionin talouspolitiikan ongelmista on se, etteivät kansalaiset, eivätkä toisinaan myöskään päättäjät, pääse selville kaikista painopisteistä, koska niitä on niin paljon – ja haluamme niin kovasti tehdä kaiken heti paikalla – että on vaikeaa nähdä Euroopan valitsemaa tietä. Olen vakaasti sitä mieltä, että jos rajaamme valitsemallemme tielle kolme tarkkaa pääsuuntaa, selkeytämme asioita kaikkien kannalta. Ensinnäkin meidän pitäisi erottaa joukosta talouden ja sen rakenteiden uudistaminen. Haluamme tietenkin edistää luovia teollisuudenaloja ja uusien toimialojen kehittämistä, ja Lissabonin toimintaohjelma voi auttaa meitä saavuttamaan tämän tavoitteen. Luonnollisesti haluamme saattaa ajan tasalle osaamisemme ja sosiaalisen rakenteemme, sillä vain korkealaatuisen uuden tiedon ja uudenlaisen sosiaalisen ympäristön avulla voidaan vapauttaa ihmisen luova energia ja pystymme hyödyntämään eurooppalaista kulttuuriperintöämme. Kolmas asia, josta meidän on keskusteltava ja jota emme aina ole halukkaita käsittelemään, on Euroopan unionin toimielinjärjestelmän uudistaminen. Uuden perustuslain hyväksyminen antaisi mahdollisuuden tällaisiin uudistuksiin, vaikka meidän pitäisikin todennäköisesti keskustella myös komission, parlamentin ja kaikkien muiden toimielinten toimintatavoista, sillä ohjelmien ja virastojen suuri määrä antaa kansalaisille väärän kuvan, eivätkä he yksinkertaisesti tiedä, kenen puoleen kääntyä. Säädöstulvan sekä yritysten ja kansalaisten hallinnollisten rasitteiden vähentämisen lisäksi painopisteiksi pitäisikin asettaa selkeämpi hallintorakenne ja selkeämmät tukien jakamiseen tarkoitetut rakenteet. 
+<SPEAKER ID="14" LANGUAGE="EN" NAME="Jean Lambert," AFFILIATION="Verts/ALE-ryhmän puolesta">
+<P>
+   – Arvoisa puhemies, haluan aluksi kommentoida tarkastelemiamme talouspolitiikan laajoja suuntaviivoja. Ryhmäni ei usko, että talouskasvu itsessään lisäisi merkittävästi työllisyyttä, eikä se myöskään automaattisesti edistä kestävää kehitystä. Mielestämme tätä seikkaa ei ole otettu riittävästi huomioon nykyisissä ehdotuksissa.
+<P>
+Myönnämme, että taloutemme kehittämisessä on tehtävä valintoja ja että kilpailukyvyn ja suuremman vapauttamisen tavoittelu on väärä toimintatapa, jos todella haluamme hyödyntää täysimääräisesti Lissabonin toimintaohjelmaa. Näin ollen olemme tyytyväisiä siihen, että mietintöön lisättiin ympäristöön liittyvää innovointia koskevat tarkistuksemme, muun muassa siksi, että mielestämme se ilmentää niitä valintoja, joita meidän on tehtävä, jos haluamme kestävään kehitykseen perustuvan talouden.
+<P>
+Olemme huolissamme myös tutkimukseen liittyvistä seikoista tässä nimenomaisessa mietinnössä. Emme kannata biotekniikan tutkimuksen lisäämistä, jos se merkitsee alkion kantasoluilla tai muuntogeenisillä organismeilla tehtävää tutkimusta. Emme hyväksy myöskään ydinenergian yhdistämistä Kioton strategiaan. Itse asiassa ihmiset olisivat luultavasti erittäin järkyttyneitä, jos tekisimme niin.
+<P>
+Yksi Lissabonin toimintaohjelman osatekijöistä on myös sosiaalinen yhteenkuuluvuus, joka usein unohdetaan, ja siten myös tarkastelemamme sosiaalisen toimintaohjelman merkitys. Olemme erittäin tyytyväisiä jäsen Oomen-Ruijtenin käytännönläheiseen mietintöön ja siinä esitettyyn toteamukseen, jonka mukaan syrjinnän torjumiseksi on todellakin hyödynnettävä kaikkia käytettävissä olevia kykyjä, olipa kyse sukupuolten palkkaeroista, mustien ja etnisten vähemmistöryhmien syrjinnästä tai vammaisuuteen tai ikään perustuvasta syrjinnästä. Kannatamme alkuperäisessä mietinnössä puollettuja lisätoimia. Myös yleishyödylliset palvelut ovat ratkaisevan tärkeitä sosiaalisen yhteenkuuluvuuden kannalta, ja siksi olemme tyytyväisiä siihen, että mietinnössä on suositeltu tällä alalla kaivattua puitedirektiiviä.
+<P>
+Olemme tyytyväisiä globalisaation sosiaalista ulottuvuutta koskeviin komission lisätoimiin, sillä tähän kysymykseen on mielestämme kiinnitetty liian vähän huomiota. Siksi toivomme Euroopan parlamentin osallistuvan täysimääräisesti tätä alaa koskeviin tuleviin toimiin. 
+<SPEAKER ID="15" LANGUAGE="PT" NAME="Ilda Figueiredo," AFFILIATION="GUE/NGL-ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, arvoisat komission jäsenet, hyvät kollegat, käsittelemme kaikkien EU:n jäsenvaltioiden taloudellisen ja sosiaalisen tilanteen kehittämiseen liittyviä tärkeimpiä kysymyksiä. Valitettavasti jäsenvaltioiden ja yhteisön talouspolitiikkojen epämääräiset laajat suuntaviivat ja sosiaalipoliittista ohjelmaa koskevat rajoittavat ehdotukset eivät täytä niitä edellytyksiä, joita vaaditaan talouskasvun piristämiseen, 22 miljoonan uuden ja oikeudenmukaisen työpaikan perustamiseen ja sen myötä Lissabonin toimintaohjelman tavoitteiden saavuttamiseen sekä 70 miljoonan köyhyysrajan alapuolella elävän kansalaisen sosiaalisen osallisuuden edistämiseen.
+<P>
+Aikana, jona tarvitsemme sosiaaliseen osallisuuteen aidosti sitoutunutta sosiaalipoliittista ohjelmaa, neuvoston menettely kevään huippukokouksessa poikkesi täysin tästä tavoitteesta: neuvosto rajoitti sosiaaliseen osallisuuteen ja lasten köyhyyden torjumiseen liittyviä tavoitteita sivuuttaen sen, että lapsia on mahdotonta auttaa parantamatta aikuisten tilannetta. Se ei myöskään toteuttanut käytännön toimenpiteitä tukeakseen ja arvioidakseen edistymistä sukupuolten tasa-arvon alalla – esimerkiksi oikeudenmukaisten ja palkkaehtoja noudattavien työpaikkojen saatavuutta – jolla tilanne on yhtä paha, ellei pahempi, kuin aikaisemmin.
+<P>
+Poliittiset suuntaviivat kulkevat jatkuvasti suuntaan, jonka tiedämme vääräksi. Tätä asiaa ei olisi pitänyt ratkaista jatkamalla samaa linjaa. On selvää – ja jollakin tavoin tämä myönnetään käsittelemissämme mietinnöissä – ettei valitsemamme toimintamalli ole tuottanut myönteisiä tuloksia. Ongelmana on se, ettemme tee oikeita johtopäätöksiä ja että noudatamme edelleen vanhaa toimintalinjaa ja toteutamme vanhoja toimenpiteitä pakkomielteenomaisen hintavakauden sekä työvoiman sopeutumiskyvyn ja joustavuuden sanelemilla ehdoilla. Vaadimme itsepintaisesti sekä sisäisten että ulkoisten markkinoiden vapauttamista suuntaamalla nyt huomion palveluihin ja sosiaaliturvan ja – mikä pahinta – eläkkeiden yksityistämiseen.
+<P>
+Suurimmat päähänpinttymät koskevat edelleen alijäämää sekä kasvu- ja vakaussopimusta, vaikka ongelmamme liittyy pikemminkin talouteen kuin rahoitukseen. Tavoitteena on tietenkin edistää maltillista palkkakehitystä ja varmistaa, että tuottavuuden kasvu siirretään suurille taloudellisille ryhmittymille samalla, kun lakaistaan maton alle todella häpeällinen nykykäytäntö eli voittojen uusjako niiden ollessa korkeimmillaan 25 vuoteen. Arvoisa puhemies, hyvät kollegat, siksi EU:n on muutettava perinpohjaisesti toimintalinjaansa ja suuntaansa. 
+<SPEAKER ID="16" LANGUAGE="EN" NAME="John Whittaker," AFFILIATION="IND/DEM-ryhmän puolesta">
+<P>
+   – Arvoisa puhemies, esitän muutamia huomioita talouspolitiikan suuntaviivoista. Käytämme paljon aikaa suurten eurotalouksien heikon tuloksen voivotteluun, mutta auttavatko talouspolitiikan suuntaviivat niitä parantamaan tulostaan? Suuntaviivoja voisi paremminkin nimittää toivomuslistaksi.
+<P>
+Hallituksia kehotetaan noudattamaan vakaata finanssipolitiikkaa, lisäämään joustavuutta, hillitsemään palkkakehitystä, tehostamaan kilpailua, edistämään tutkimusta ja kehitystä sekä luomaan vahva teollisuuspohja. Nämä kaikki ovat kannatettavia tavoitteita, jotka hallitukset haluaisivat joka tapauksessa saavuttaa, mutta tarvitsevatko ne siihen Euroopan unionin määräyksiä?
+<P>
+Tämän neuvon sijaan minulla on parempi suunnitelma. Jättäkää yksityiset ihmiset ja yritykset rauhaan ja vähentäkää säädöksiä sen sijaan, että laaditte uusia tai tiukennatte nykyisiä säädöksiä, kuten rahoitusoperaatioiden byrokraattista valvontaa, josta keskustelimme parlamentissa edellisiltana. Useimmat niistä toimivat huonosti, ja kaikki niistä lisäävät yritysten kustannuksia ja tuhoavat työpaikkoja.
+<P>
+Valitettavasti unionin toimielimet ovat hyviä ainoastaan laatimaan uusia sääntöjä. Jos vain antaisimme yritysten rauhassa tuottaa vaurautta, EU:lla voisi tosiaankin olla varaa moniin ohjelmiinsa, joilla esimerkiksi suojellaan ympäristöä ja huolehditaan korkeasta sosiaaliturvasta. 
+<SPEAKER ID="17" LANGUAGE="IT" NAME="Luca Romagnoli (NI )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, hyvät kollegat, kiitän esittelijä Mato Adroveria hänen suuresta vaivannäöstään laadittaessa tätä mietintöä, joka karkeasti ottaen koostuu periaatejulistuksista. Vaikka näistä julistuksista voidaankin olla pääosin yksimielisiä, ne ovat toisinaan epäjohdonmukaisia – varsinkin silloin, kun niissä yritetään yhdenmukaistaa työllisyyden lisäämistä ja työllisyyttä kehittäviä toimia ja ennen kaikkea silloin, kun niissä yritetään sovittaa yhteen työn joustavuutta ja työn varmuutta täsmentämättä tämän päämäärän saavuttamiseen tarvittavia keinoja.
+<P>
+Siksi olemme samaa mieltä monista käsiteltäväksi jätetyistä tarkistuksista, joilla täydennetään ja parannetaan mietintöä. Tämä pätee esimerkiksi Mato Adroverin mietinnön tarkistuksiin 12, 20 ja 23 sekä lausunnon valmistelijan Astrid Lullingin naisten oikeuksien ja sukupuolten tasa-arvon valiokunnan puolesta esittämään tarkistukseen 13.
+<P>
+Olen vakaasti sitä mieltä, että parlamentin aikaansaannosten avulla voidaan täydentää alkuperäistä mietintöä. Siitä huolimatta toivon, että lainsäädäntömenettelyn aikana toteutetaan kaikki tarvittavat toimet työn epävarmuuden vähentämiseksi ja sosiaaliturvan varmistamiseksi ja että tilapäistyötä rajoitetaan – olipa kyse sitten urakkatyöstä tai määräaikaisesta työstä – varsinkin silloin, kun työntekijät turvautuvat siihen jatkuvasti.
+<P>
+On ratkaisevaa kehittää menettelyitä, joiden avulla työntekijät voivat osallistua yritysten johtamiseen ja saada osansa niiden voitoista, sillä nämä ovat parhaita mahdollisia keinoja parantaa sekä työtuloksen laatua että työntekijöiden itseluottamusta. 
+<SPEAKER ID="18" LANGUAGE="SV" NAME="Gunnar Hökmark (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, keskustelimme tänään jäsen Goebbelsin mietinnön yhteydessä taloussuuntaviivoista, ja haluankin todeta, miten tärkeää on, ettemme koskaan aliarvioi Aasian ja Amerikan talouksien aiheuttamaa kasvavaa kilpailua. Kymmenen vuoden kuluttua näissä maissa on 800 miljoonaa keskituloista. Tämä muuttaa taloussuhteita ja asettaa kovalle koetukselle kykymme hyödyntää tätä tilannetta.
+<P>
+Toisinaan myös yliarvioimme kykymme selviytyä tästä muutoksesta. Minusta tuntuu joskus, että unohdamme, miten paljon työttömiä todellisuudessa onkaan Euroopassa ja jopa monissa sellaisissa maissa, joissa on mittapuidemme mukaan korkea työllisyys. Ruotsissa 20–25 prosenttia ihmisistä ei joko käy töissä tai on työttömänä, ja syynä tähän ovat joko sairaudesta johtuvat poissaolot, varsinainen työttömyys tai suuri varhaiseläkkeelle jääneiden määrä. Tämä on paitsi sosiaalinen myös taloudellinen ongelma, joka vaikuttaa kykyymme tuottaa vaurautta, sillä kuten parlamentissa aiemmin todettiin, kasvu ei synnytä työpaikkoja, vaan työpaikat ja yritykset synnyttävät kasvua. Olemme toiveikkaita siitä yksinkertaisesta syystä, että menestymme niissä maissa ja niillä toimialoilla, joissa olemme toteuttaneet uudistuksia. Vapautetuilla televiestintämarkkinoilla menestymme parhaiten niissä maissa, joiden taloutta säännellään kaikkein vähiten. Työllisyyskehitys on parempaa niissä maissa, jotka ovat uudistaneet työmarkkinoitaan, ja yrittäjyyttä on enemmän niissä maissa, joissa yritysten toimintaa helpotetaan verotuksen keinoin.
+<P>
+Euroopan ongelmana eivät ole liian korkeat korot ja riittämätön kysynnän kannustaminen. Korot ovat päinvastoin ennätyksellisen alhaiset, ja niiden sekä suurten julkisten menojen vuoksi kysynnän kannustaminen on erittäin vaativa tehtävä. Tarvitsemme nimenomaan uudistuksia. Talous- ja raha-asioiden valiokunnan yksimielisesti laatimissa suuntaviivoissa korostamme joustavampia työmarkkinoita, parempia liiketoimintaedellytyksiä ja keskittymistä tuottavuuteen ja kilpailuun avoimempien markkinoiden kautta. Siksi kannatamme tätä mietintöä ja pidämme huolen siitä, että saamme tukea siihen esittämillemme ehdotuksille. 
+<SPEAKER ID="19" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="20" LANGUAGE="SV" NAME="Jan Andersson (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, kiitän aluksi molempia esittelijöitä ja erityisesti esittelijä Mato Adroveria rakentavasta yhteistyöstä, jota hän teki työllisyyden ja sosiaaliasioiden valiokunnassa vaikeissa olosuhteissa.
+<P>
+Haluan ensinnäkin todeta, että yhdennetyt suuntaviivat ovat erittäin hyödylliset, sillä työllisyys- ja talouspolitiikka liittyvät tosiasiassa yhteen. Meidän on myös – ja tämä on tuotu esiin ehdotuksissamme – huolehdittava kestävästä kehityksestä sekä taloudessa että ympäristö- ja sosiaaliasioissa.
+<P>
+Euroopan tilanne ei tällä hetkellä ole valoisa. Kasvu on liian hidasta ja työttömyys liian korkea. Talouspolitiikassa meidän pitäisi mielestäni painottaa voimakkaammin kasvua edistäviä toimenpiteitä kaikkialla Euroopassa, jotta kasvu saataisiin käyntiin. Vakauttamistoimet ovat tärkeitä, ja tällä alalla olemme onnistuneet yli odotusten. Nyt meidän pitäisi kuitenkin keskittyä tarmokkaammin kasvua edistäviin toimenpiteisiin.
+<P>
+Maailmanlaajuinen kilpailu kiristyy. Kysymys kuuluu, miten pysymme siinä mukana. Pitääkö meidän kilpailla Kiinan ja Intian kanssa heikentämällä työoloja ja laskemalla palkkoja? Vastaus on ei. Meidän on selviydyttävä kasvavasta kilpailusta edistämällä tutkimusta ja kehitystä sekä parantamalla työmahdollisuuksia ja investoitava työvoimaan kehittämällä sen ammattitaitoa. Rakennemuutoksia tapahtuu. Niitä on tapahtunut ennenkin ja tapahtuu myös vastaisuudessa. Tärkeää onkin, miten toteutamme ne. On myös tärkeää saada yritykset hyväksymään yhteiskuntavastuunsa ja aktivoimaan työntekijät, ottamaan heidät mukaan toimintaan sen sijaan, että heidät jätettäisiin syrjään kehityksestä. Jos emme tee näin, kadut täyttyvät jälleen mielenosoittajista. Työntekijöiden osallistuminen kehityskulkuun parantaa myös rakennemuutoksia. Meidän on kehitettävä työmarkkinat, joilla työelämän ja vanhemmuuden yhdistäminen on mahdollista. Siksi työajat eivät voi olla kohtuuttoman pitkiä, eikä yhteisön säännöissä voida sallia rajatonta vapautta määrätä työajoista, koska se on epäoikeudenmukaista toista sukupuolta kohtaan. Meidän on luotava työmarkkinoille sellaiset olosuhteet, joiden turvin sekä miehet että naiset voivat osallistua niihin. Lopuksi käsittelen heikommassa asemassa olevia ryhmiä. Meidän on tehostettava toimiamme sellaisten ihmisten parissa, jotka tulevat Eurooppaan pakolaisina ja jäävät usein työmarkkinoiden ulkopuolelle, sekä vammaisten ja muiden ryhmien parissa, jotta hekin voivat osallistua työmarkkinoille huomattavasti nykyistä enemmän. 
+<SPEAKER ID="21" LANGUAGE="IT" NAME="Patrizia Toia (ALDE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, hyvät kollegat, keskustelemme tänään monista ehdotuksista ja toimenpiteistä, joissa yhdistyvät sosiaalinen kasvu, työllisyys ja talouskasvu.
+<P>
+Tämä merkitsee, että tiedostamme ne merkittävät haasteet, joita maailmanlaajuinen kilpailu ja nykykehitys asettavat Euroopan tulevaisuudelle.
+<P>
+Kun ajatellaan erityisesti sosiaalipoliittista ohjelmaa ja työllisyyttä koskevaa asiakirjaa, tiedämme noiden haasteiden panevan vakavasti koetukselle Euroopan sosiaalisen mallin, jota usein ylpeinä esittelemme maailmalle tyyppiesimerkkinä yhteiskunnasta, jossa on onnistuttu yhdistämään talouskasvu teollisuuden ja innovaatioiden kehittämiseen ja samalla säilyttämään sosiaalinen malli sekä talousmallin ja institutionaalisen mallin vahva sosiaalisen ulottuvuus.
+<P>
+Aiempien puhujien tapaan olen itsekin sitä mieltä, että Euroopan on kohdattava nuo haasteet erittäin selkeiden tavoitteiden ja äärimmäisen tehokkaiden menetelmien avulla mutta myös hyvin kunnianhimoisesti, sillä jos haasteet ovat suuria, tarvitaan myös korkeita tavoitteita. Siksi olen samaa mieltä edellisten puhujien kanssa siitä, että sosiaalipoliittisella ohjelmallamme on oltava tavoitteelliset tulevaisuudennäkymät. On siis suunniteltava sellainen kansalaisille, yrityksille ja työmarkkinaosapuolille suunnattu ohjelma, jossa kerrotaan, että Eurooppa haluaa yhdessä kansalaistensa kanssa luoda varmuutta ja tarjota välineitä, joiden avulla edistetään luottamusta ja turvallisuutta.
+<P>
+Välineistä ja tämänpäiväisestä Lissabonin strategian uudelleentarkastelusta mainittakoon, että olemme kaikki ymmärtäneet yhdentymisen merkityksen. Lisäksi ymmärrämme, että pk-yritysten kehittämistoimien sekä yritysten ja teollisuuden innovatiivisen toiminnan välille on kyettävä luomaan synergiaa, jotta saadaan aikaan elinvoimaisempi taloudellinen toimintaympäristö yhdessä ja yhteisvaikutuksessa sosiaalisen ulottuvuuden ja sosiaalipolitiikan kanssa – ei niistä erillään tai niiden rinnalla.
+<P>
+Olen vakaasti sitä mieltä, että yhteiskunta menestyy pystyessään tarjoamaan kansalaisilleen mahdollisuuksia. Luotan myös siihen, että tarkoituksenmukainen väline sekä sosiaalisen yhteenkuuluvuuden että talouskasvun ja hyvinvoinnin edistämiseen on inhimillisen pääoman kasvattaminen auttamalla heikommassa asemassa olevia, edistämällä naisten uusia koulutus- ja työllistymismahdollisuuksia ja tarjoamalla monipuolisia koulutusmahdollisuuksia nuorille, jotka ovat nykyisin kaikkein alttiimpia epävarmuuden vaikutuksille.
+<P>
+Yhteiskunta ei voi olla taloudellisesti vahva, jos sen perusteisiin kuuluvat jyrkkä eriarvoisuus ja suuret erot ja jos sen inhimilliset voimavarat hupenevat.
+<P>
+Siksi koko sosiaalista osallisuutta edistävä toimintalinja, naisten työllisyyttä korostavat toimet ja nuoria koskevat kysymykset kuuluvat mielestäni olennaisena osana vahvaa yhteenkuuluvuutta korostavaan sosiaalipolitiikkaan ja samanaikaisesti Euroopan talouskasvua ja kehittämistä edistäviin toimiin. Kuten poliittiseen ryhmääni kuuluva kollega korosti, uudenlaisen Euroopan on toteutettava toimia erojen kaventamiseksi ja kehotettava jokaista jäsenvaltiota edistämään yhteenkuuluvuutta koskevia toimia ja sisäistä yhdentymistä tämän katsantokannan mukaisesti. 
+<SPEAKER ID="22" LANGUAGE="DE" NAME="Elisabeth Schroedter (Verts/ALE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisat komission jäsenet, hyvät kollegat, aivan aluksi haluan todeta, että yhdennetyt talous- ja työllisyyspoliittiset suuntaviivat ovat askel oikeaan suuntaan. On kuitenkin virhe pitää kestävän kehityksen suuntaviivat niistä erillään. Siksi emme voi muuta kuin todeta, ettei yhdentyminen ole niin tehokasta kuin se voisi olla.
+<P>
+Käsittelen seuraavaksi työllisyyspolitiikan suuntaviivojen sisältöä ja mietintöä, jonka laatimiseen jäsen Mato Adrover on paneutunut todella huolellisesti. Pohjimmiltaan komission ehdotuksessa jätetään työmarkkinat vapauttamistoimien armoille. Tavoitteena eivät enää ole kohtuullisen toimeentulon takaava työ ja laadukkaat työpaikat vaan pikemminkin työoloja ja palkkoja koskevan sääntelyn purkaminen. En voi käsittää, miksei vastustusta syntynyt, kun kävi ilmi, että korkein poliittinen auktoriteetti vaatii näissä suuntaviivoissa palkkakehityksen hillitsemistä.
+<P>
+Mielestäni on myös vastuutonta yrittää poistaa työnantajien maksamat työntekijöiden sairausvakuutusmaksut. Lisäksi on sääli, että esittelijä hylkäsi ehdotuksemme työllisyyspolitiikkaa koskevan neljännen pilarin käyttöönotosta, sillä siten olisi parannettu naisten työllistymismahdollisuuksia. Tasa-arvon valtavirtaistaminen on pikemminkin vain tärkeä lisäys tähän asiaan kuin sen korvike. Neljännen pilarin puuttuessa jäsenvaltiot ovat luopuneet aktiivisista toimista naisten työllistämiseksi, ja sitä emme voi hyväksyä.
+<P>
+Naisten työllistäminen on edelleen asetettava etusijalle, ja toistan parlamentin jäsenille kiireellisen vetoomukseni neljännen pilarin käyttöönotosta, sillä vain sen avulla varmistetaan, että pystymme valvomaan, miten vakavasti jäsenvaltiot suhtautuvat naisten aseman parantamiseen. Pyydän heitä tukemaan esittämäämme tarkistusta 30. 
+<SPEAKER ID="23" LANGUAGE="EL" NAME="Dimitrios Papadimoulis (GUE/NGL )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, tiedämme kaikki, että sosiaalipoliittisen ohjelman edistämiseen sekä työllisyyden aktiiviseen tukemiseen tarkoitetut toimet ja etenkin niihin käytettävissä olevat voimavarat ovat riittämättömät. Valitettavasti Lissabonin strategian väliarvioinnissa ja ehdotuksessa uusiksi rahoitusnäkymiksi heikennetään sosiaalipoliittisen ohjelman merkitystä ja vähennetään tämän painopisteen määrärahoja, vaikka meidän pitäisi investoida enemmän osaamiseen, tutkimukseen, innovaatioihin, koulutukseen ja yhteiskunnan vähäosaisimpien ryhmien tukemiseen: vammaisiin, maahanmuuttajiin ja heikommassa asemassa oleviin ryhmiin, kuten nuoriin, ikääntyviin, naisiin, ammattitaidottomaan työvoimaan ja työttömiin.
+<P>
+Kiitän jäsen Mato Adroveria erinomaisesta työstä työllisyyspolitiikkojen suuntaviivoja koskevissa kysymyksissä. Työllisyyden ja sosiaaliasioiden valiokunnan tarkistukset parantavat komission alkuperäistä ehdotusta. Vihreät / Euroopan vapaa allianssi -ryhmän esittämissä tarkistuksissa vaaditaan selkeämpiä tavoitteita, ja niillä parannetaan ehdotusta entisestään, joten tuemme niitä. 
+<SPEAKER ID="24" LANGUAGE="NL" NAME="Johannes Blokland (IND/DEM )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, parlamentti keskustelee vuosittain toukokuussa EU:n talouspolitiikan suuntaviivoista. Tänään näyttää siltä, että olisi tarkoituksenmukaisempaa keskustella etiikasta kuin taloudesta. Jäsen Goebbelsin mietinnössä on monia asioita, joihin voin samastua. Hyväksyn sosiaalipolitiikan yhdentämisen ja huolenilmauksen siitä, etteivät investoinnit Kioton tavoitteiden saavuttamiseksi ole edistyneet riittävästi.
+<P>
+Tähän jäsen Goebbelsin olisi kuitenkin pitänyt lopettaa. Olen samaa mieltä jäsen Lambertin kanssa siitä, että tässä mietinnössä mennään aivan liian pitkälle yhdellä erityisalalla. Muutoksessa 12 esittelijä kannattaa objektiivisempaa tietoa kiistellyimmistä tutkimusaiheista, kuten muuntogeenisistä organismeista ja alkion kantasolututkimuksesta. Mielestäni meillä on parempaakin tekemistä kuin kiistanalaisen tutkimuksen edistäminen. Itselleni on ratkaisevan tärkeää, että kantasolututkimuksessa ihmiselämän arvo on ydinkysymys, ja tämä on ristiriidassa sen kanssa, että tutkimusta tehdään alkioilla, jotka tuhoutuvat tutkimusprosessissa.
+<P>
+Aiemmin hyväksytyissä asiakirjoissa parlamentti on ottanut selkeästi kantaa kantasolututkimuksen asemaan. Näin ollen tämä päätöslauselma ei ole yhdenmukainen noiden asiakirjojen kanssa. Esimerkiksi 10. maaliskuuta parlamentti antoi päätöslauselman ihmisen munasoluilla käytävästä kaupasta, ja kyseisen päätöslauselman 15 kohdassa todetaan painokkaasti, että alkioiden kantasolututkimus voidaan jättää niille jäsenvaltioille, joissa tällainen tutkimus on sallittu. Jäsenvaltiossa "voidaan" tehdä tällaista tutkimusta, mutta niiden ei tarvitse tehdä sitä. Tästä päätöslauselmasta puuttuu tällainen selkeä ero.
+<P>
+Epään tukeni tältä päätöslauselmalta, jos jäsen van den Burgin muutos 12 ja tarkistus 24 hyväksytään nykyisessä muodossaan. 
+<SPEAKER ID="25" LANGUAGE="PL" NAME="Ryszard Czarnecki (NI )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, hyvät kollegat, neuvosto on tehnyt lukuisia tarkoituksenmukaisia, järkeviä ja perusteltuja ehdotuksia. Valitettavasti sen ehdotuksissa jätetään kokonaan mainitsematta seikka, joka on uusien jäsenvaltioiden kansalaisille erittäin tärkeä, eli todella yhtäläinen oikeus työhön.
+<P>
+Euroopan yhdentymiseen vakavasti ja innokkaasti suhtautuvat uusien jäsenvaltioiden kansalaiset eivät voi eivätkä aiokaan sietää sitä, että 12:ssa EU:n vanhassa jäsenvaltiossa – Yhdistynyttä kuningaskuntaa, Irlantia ja Ruotsia lukuun ottamatta – kohdellaan edelleen uusista jäsenvaltioista, kuten Puolasta, Tšekin tasavallasta, Unkarista, Slovakiasta, Liettuasta, Latviasta ja Virosta kotoisin olevia ihmisiä toisen luokan kansalaisina. Työpaikan he kyllä saavat mutta senkin vain harmaan talouden piiristä. He pystyvät ansaitsemaan rahaa mutta huomattavasti vähemmän kuin EU:n kansalaiset ennen vuonna 2004 tapahtunutta laajentumista.
+<P>
+Neuvosto ei saa väistellä vastuutaan ja toivoa, että tämä ongelma häviää. Tämä asia ei kuulu komission vaan neuvoston toimivaltaan. Työmarkkinoiden täydellinen ja välitön vapauttaminen todella mullistaisi EU:n talouden ja osoittaisi EU:n uusien jäsenvaltioiden kansalaisille, ettei Eurooppa jakaudu ensimmäiseen ja toiseen luokkaan. 
+<SPEAKER ID="26" LANGUAGE="EN" NAME="Piia-Noora Kauppi (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, kiitän jäsen Goebbelsia hänen mietinnöstään. Siinä esitetään oleellisia huomioita siitä, mihin toimiin eurooppalaisten päättäjien pitäisi keskittyä lähivuosina.
+<P>
+Kiinnitän huomiota muutamiin mietinnössä mainittuihin seikkoihin. Ensinnäkin juuri suuret euroalueen maat ovat vakavasti uudistamisen tarpeessa. Saksan viimeviikkoiset vaalit ja Ranskan tuleva kansanäänestys antavat voimakkaita signaaleja siitä, että äänestäjät ovat tyytymättömiä hallitustensa taloudenhoitoon. Toinen tärkeä signaali on se, että Suomen reaalikorot ovat nyt Euroopan alhaisimmat, ja se pärjää pääoman hintavertailussa jopa perinteiselle mallimaalle Saksalle.
+<P>
+Uudistukset ovat ratkaisevia Euroopan kilpailukyvyn ja työllisyyden kasvun kannalta. Työehtosopimusneuvotteluita pitäisi uudistaa, jotta niissä kiinnitettäisiin suurempaa huomiota tuottavuuden kasvuun. Myös naisten työmarkkinoille pääsyä on tehostettava.
+<P>
+Tuen myös voimakkaasti tarkistuksia, joita kollegani Hökmark esitti mietintöön PPE-DE-ryhmän puolesta. Meidän on edelleen korostettava, että on tärkeää vähentää työttömyyttä vahvistamalla kasvua ja lisäämällä investointeja ja kilpailukykyä sekä parantamalla palvelutasoa ja kansalaisten valinnanmahdollisuuksia. Yrittäjyyttä on kannustettava esimerkiksi pk-yritysten kannalta suotuisilla verotuspuitteilla, ja sekä naisille että miehille on annettava yhtäläiset mahdollisuudet.
+<P>
+Ajatus kaikille kansalaisille avoimista joustavista ja turvallisista työmarkkinoista on erinomainen. Emme saa antaa jäykkien sääntöjemme ja käytäntöjemme estää työhaluisia pääsemästä työmarkkinoille ja pysymästä siellä. Eurooppa tarvitsee työhaluisia ihmisiä tänään ja lähivuosina entistä enemmän. Meidän pitäisi kannustaa kansalaisiamme työntekoon uudistamalla verotusjärjestelmiämme siten, että esimerkiksi alennamme matalapalkka-alojen verorasitusta. Toivon, että komissio suhtautuu vakavasti parlamentin esittämiin näkökohtiin. 
+<SPEAKER ID="27" LANGUAGE="NL" NAME="Ieke van den Burg (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, kuten useat ryhmäni kollegat ovat jo todenneet, kannatamme kaikki näitä suuntaviivoja koskevaa yhdennettyä lähestymistapaa. Lisäisin kuitenkin, ettei tämä saa johtaa pinnalliseen keskusteluun vaan että on erittäin tärkeää mennä pintaa syvemmälle ja etenkin antaa erityisvaliokunnalle sen omaa erityisalaa koskevia tehtäviä.
+<P>
+Ryhmämme painottaa talous- ja raha-asioiden valiokunnassa tehokkaampaa taloudellista koordinointia, ja kehotan myös komission jäsentä Almuniaa tutkimaan, miten pystymme johdonmukaistamaan suuntaviivapaketeista käytävää keskustelua. Lisää johdonmukaisuutta kaivataan myös vuotuisiin talousarviota koskeviin kertomuksiin, joissa käsitellään lähentymistä vakaus- ja kasvusopimuksen yhteydessä.
+<P>
+Kolmanneksi huomautan, että on tärkeää antaa Euroopan parlamentille täysivaltainen asema näissä prosesseissa ja varmistaa, että menettelyitä koskevissa kysymyksissä meidän panoksellemme annetaan lähivuosina riittävästi aikaa ja liikkumavaraa. Vaikka tämä on pikemminkin menettelyihin ja aikatauluihin liittyvä tekninen kysymys, toivon, että pystymme pääsemään järkevään yhteisymmärrykseen ensi vuonna, sillä nämä kysymykset osoittautuivat melko hankaliksi tänä vuonna. Tämä on tärkeää sisällön kannalta, koska mielestäni komissio saa parlamentilta paljon enemmän tukea etsimällä aidosti eurooppalaista näkökulmaa.
+<P>
+Lopuksi ilmaisen huoleni siitä, että neuvosto käyttää tätä eurooppalaista näkökulmaa pääperiaatteena edelleen vain muutamissa tapauksissa, ja pyydänkin komissiota tutkimaan asiaa tarkemmin. Tässä tapauksessa kohdistan sanani erityisesti komission jäsenelle Špidlalle, sillä olin erittäin ärtynyt tavasta, jolla työaikadirektiivistä esittämäämme kantaa käsiteltiin edellisessä täysistunnossa: parlamentin kantaan reagoitiin heti erittäin kielteisesti, ja eräs jäsenvaltio kannatti voimakkaasti veto-oikeutta saatuaan muutamia muitakin jäsenvaltioita mukaan työaikadirektiiviä koskevaan kysymykseen. Mielestäni komission ei pitäisi kohdella parlamenttia tällä tavoin. 
+<SPEAKER ID="28" LANGUAGE="DE" NAME="Gabriele Zimmer (GUE/NGL )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, mielestäni oli väärin väittää, että yhdennetyt suuntaviivat, joista tänään parlamentissa keskustelemme, sysäisivät kerralla Euroopan unionin yritykset ja työllisyyden kasvuun. Suuntaviivoissa asetetaan kuitenkin jälleen etusijalle hallitsevat markkinat, joilla on yksi päämäärä ylitse muiden, nimittäin sen varmistaminen, että työntekijät alasta riippumatta vastaavat markkinoiden tarpeita.
+<P>
+Tämä ei missään nimessä tarjoa ratkaisua yhteiskunnan ja talouden rakenneongelmiin. Sellaiset poliittiset kriisit, jollainen Saksaakin parhaillaan koettelee, osoittavat selvästi, etteivät tällaiset välineet toimi ja että ne ovat epäonnistuneita. En pysty lainkaan käsittämään, miten pelkkiä aiemmin hyödyttömiä toimia yhdistämällä onnistuttaisiin yhtäkkiä ratkaisevasti parantamaan työllisyyttä ja talouskasvua Euroopan unionissa.
+<P>
+Siksi pyydänkin pikaisesti pohtimaan uudelleen tähän kysymykseen liittyviä periaatteita. 
+<SPEAKER ID="29" LANGUAGE="DE" NAME="Andreas Mölzer (NI )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, hyvät kollegat, työttömyys on käytännöllisesti katsoen nelinkertaistunut EU:n jäsenvaltioissa 1970-luvun alun jälkeen, ja tilapäistyövoimaa välittävistä yrityksistä on tulossa pääasiallinen työllistäjä monissa maissa. Globalisaation voimakas eteneminen vähentää työpaikkoja rajusti, ja tällaisen alamäen jälkeen työttömien määrä ei koskaan palaudu lamaa edeltävälle tasolle. 
+<P>
+Tuottavien alojen kuten maatalouden, kaivostoiminnan ja raskaan teollisuuden merkitys vähenee entisestään. Jäljelle jää palvelusektori, joka ei pitkällä aikavälillä riitä ja jonka palveluksessa on nykyisen lähes 67 prosenttia työvoimasta. Jos ostovoima edelleen hiipuu, syöksykierre jatkuu ja sosiaaliturvaan liittyvät nykyiset ongelmat kärjistyvät varmasti entisestään.
+<P>
+Siksi pohdinkin, miten suureksi virheeksi osoittautuu käynnissä oleva julkisten palvelujen, kuten rautateiden ja postipalvelujen, yksityistäminen, jolla ei ole saavutettu kaikkia toivottuja tuloksia. Infrastruktuuri lukeutuu joka tapauksessa ammattitaitoisten työntekijöiden ohella niihin seikkoihin, jotka houkuttavat yrityksiä sijoittumaan Eurooppaan. Mielestäni on erittäin kyseenalaista ajatella, että alhaiset verot ja palkkatason polkeminen auttaisivat meitä käytännössä saavuttamaan täystyöllisyyden, jonka olemme asettaneet tavoitteeksemme. 
+<SPEAKER ID="30" LANGUAGE="ES" NAME="José Manuel García-Margallo y Marfil (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, en aio käyttää liikaa aikaa puhuakseni kahteen käsittelemäämme mietintöön sisältyvistä toimenpiteistä.
+<P>
+Olen täysin samaa mieltä jäsen Hökmarkin esittämistä huomioista.
+<P>
+Arvoisa puhemies, haluan hetkeksi kiinnittää tarkempaa huomiota analyysiin. Eurooppa ei toimi kunnolla. Jäsen Goebbels ei ole halunnut ripotella suolaa haavoihin, joten hän on antanut tilanteesta todellisuutta paremman kuvan, kuten komission jäsen Almuniakin. Hän sanoo, että Euroopalla on kaikki mahdollisuudet toimia kunnolla, mutta kansalaiset tietävät, että tilanne ei ole hyvä.
+<P>
+Kansalaistemme keskuudessa vallitseva pessimismi on ollut selvästi havaittavissa keskusteluissa, joita parhaillaan käydään Ranskan ja Alankomaiden kansanäänestyksistä. Kasvumme on hitaampaa kuin Yhdysvalloissa, perustamme vähemmän uusia työpaikkoja, tuottavuutemme on alhaisempi ja olemme erittäin kaukana Lissabonin tavoitteista. 
+<P>
+Tämä valtava pessimismi on saanut kansalaisemme tuomaan esiin täysin ymmärrettäviä pelkoja. Miten selviydymme globalisaation asettamista haasteista? Miten pystymme vastaamaan kehittyvien maiden kilpailuun? Keskustelemme parhaillaan tekstiiliteollisuuden ongelmista, ja idän valtioiden kilpailu aiheuttaa pian lisää vaikeuksia. Miten aiomme estää yritysten uudelleensijoittumisen? Miten selviämme maahanmuuton haasteista? Miten turvaamme hyvinvointivaltion uhkaavalta väestön ikääntymiseltä?
+<P>
+Nämä pelot lisääntyvät, koska toimielimet ovat reagoineet laimeasti. Olemme keskustelleet vakaus- ja kasvusopimuksesta – ja teemme niin edelleenkin – ja meidän on tuotava selvästi esiin, että määräysten noudattamatta jättäminen on nykyisin laajamittaista – käytössä on eräänlainen yleinen armahdus – ja olemme laiminlyöneet tiukimmat säännöt, joiden tarkoituksena on vakaan julkisen talouden varmistaminen.
+<P>
+Emme pysty vahvistamaan rahoitusnäkymiä, ja kaikki merkit viittaavat siihen, että haluamme käyttää unioniin vähemmän rahaa. Vähemmällä rahalla emme kuitenkaan rakenna vahvempaa Eurooppaa vaan pikemminkin heikennämme sitä.
+<P>
+Kuten kollegani huomauttivat, olemme vielä hyvin paljon jäljessä niistä uudistuksista, jotka meidän on toteutettava. Parlamentti on näyttänyt myönteistä esimerkkiä yhdistämällä kaksi mietintöä, joista tänään keskustelemme, ja yrittämällä vähentää niiden epäjohdonmukaisuutta sanoman selkeyttämiseksi. Nyt on komission ja neuvoston vuoro velvoittaa jäsenvaltiot noudattamaan täällä tehtyjä päätöksiä. Pitää paikkansa, että keskustelemme kansallisista ohjelmista niiden valmistuttua, mutta toivon, ettei komissio tyydy vain toimimaan postilaatikkona tai rajoitu vain kehumaan kohteliaasti kansallisia ohjelmia vaan vaatii jäsenvaltioita osoittamaan rohkeutta, päättäväisyyttä ja uskallusta, joita tarvitaan sen valtavan pessimismin torjumiseksi, jota tarkoitukseni on ollut kuvailla. 
+<SPEAKER ID="31" LANGUAGE="FR" NAME="Pervenche Berès (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisat komission jäsenet, haluan esittää kolme huomautusta. Ensimmäinen niistä koskee menetelmiä. Euroopan parlamentti ymmärtää täysin jäsenvaltioiden oman vastuun parhaillaan keskusteltavista kysymyksistä. Siksi järjestimme 25. huhtikuuta tapaamisen kansallisissa parlamenteissa toimivien kollegoidemme kanssa. Luullakseni tämä oli ensimmäinen tapaaminen, ja niitä pitäisi järjestää lisää, jos on määrä käydä todellista poliittista keskustelua yhdessä jäsenvaltioiden kanssa suunnitelluista, koko unionin kattavista laajoista suuntaviivoista, joita jäsenvaltiot soveltavat.
+<P>
+Käsittelen vielä menettelyitä. Tiedätte parlamentin levottomuuden, sillä se pelkää, ettei se pysty aina osallistumaan näiden laajojen suuntaviivojen suunnitteluun ja toteuttamiseen istuntoaikataulunsa takia. Toivon, että pääsemme tyydyttävään yhteisymmärrykseen tästä seikasta tulevaisuutta ajatellen.
+<P>
+Toinen huomautukseni koskee yleistä ilmapiiriä. Luottamusta ei saada aikaan pakottamalla, ja nykyisin sitä ei ole. Puhuimmepa siis rakenneuudistuksista kuinka paljon tahansa, niihin ei suhtauduta suopeasti; kansalaiset eivät hyväksy niitä nykyisessä tilanteessa. Ensisijaisena tavoitteena on kasvun edistäminen, ja palaamalla takaisin kasvu-uralle pystymme selviämään tarvittavista rakenneuudistuksista. Haluan todeta arvoisalle kollegalleni Kaupille – ja hän varmasti tietää tämän – etteivät kasvuun liittyvät kysymykset ole samoja suurissa ja pienissä valtioissa. Kaikkien yhteistä yksikköämme koskevien suunnitelmien on perustuttava tähän tosiseikkaan. Kun OECD antaa signaaleja Euroopan keskuspankille ja EKP vastaa siten kuin se äskettäin teki, on aika tuntea huolta unionin makrotaloudesta käytävän keskustelun laadusta.
+<P>
+Kolmanneksi huomautan, että vallitsevassa ilmapiirissä työvälinettämme – talouspolitiikan laajoja suuntaviivoja – pitäisi käyttää keskeisenä välineenä ennakkoarvioinnissa. Aivan liian usein suuntaviivat osoittautuvat kuitenkin vain tyhjiksi sanoiksi, jotka jäävät toteutumatta. Meidän on tehtävä näistä suuntaviivoista tiukka talouspolitiikan koordinoinnin väline, mikäli Lissabonin strategian on määrä onnistua ja aiomme välttää sellaisen mitäänsanomattoman arvioinnin, jonka yleensä saimme ennen strategian tarkistamista.
+<P>
+Laajat suuntaviivat ovat kokonaisstrategian tukiväline, mutta niistä ei ole mitään hyötyä, ellei niitä vahvisteta uudistamalla määrätietoisesti vakaus- ja kasvusopimusta sekä rahoitusnäkymillä, joiden tavoitteena on yleishyödyllisen yhteisvastuun rahoittaminen. 
+<SPEAKER ID="32" LANGUAGE="DE" NAME="Othmar Karas (PPE-DE )." AFFILIATION="(Suosionosoituksia)">
+<P>
+   – Arvoisa puhemies, hyvät kollegat, meidän on epäröimättä toteutettava talous-, sosiaali- ja ympäristöpolitiikkaamme koskevia toimia. Tämä johtuu siitä, että muutokset ovat tarpeen, jos halutaan säilyttää ne hyödylliset seikat, joita tarvitaan näiden kolmen politiikan alan mukauttamiseksi niille asetettuihin uusiin vaatimuksiin ja samalla minimoida riskit ja hyödyntää tarjoutuvia tilaisuuksia.
+<P>
+Tarvitaan uutta riippumattomuutta. Vaikka meidän onkin huolehdittava esteiden poistamisesta ja byrokratian karsimisesta, välttämättömät suojamekanismit on säilytettävä; yritysten perustamista on helpotettava, tutkimusta lisättävä ja sisämarkkinat toteutettava.
+<P>
+Oikeastaan minua surettaa se vaikutelma, jonka olen viime viikkoina ja kuukausina saanut: jäsenvaltiot ja parlamentin poliittiset ryhmät eivät ole komission tavoin hyödyntäneet talous- ja työllisyyssuuntaviivoja saadakseen yritykset ja työvoiman kohtaamaan, vaan sen sijaan ne ovat turvautuneet keskustelussa vanhanaikaisen luokkasodan keinoihin asettamalla vastakkain työnantajat ja työntekijät sekä toisaalta sosiaalisen suojelun järjestelmät ja vapauttamistoimet. Tällä tavoin emme pysty ratkaisemaan ongelmia ja lisäämään ihmisten luottamusta poliittiseen päätöksentekoprosessiin.
+<P>
+Markkinat eivät ole meille itsetarkoitus vaan keino tavoitteen saavuttamiseksi. Niistä on kuitenkin tehtävä kilpailukykyisemmät: tavoitteenamme on kasvattaa kilpailukykyä, lisätä työllisyyttä ja suhtautua vakavasti ympäristöä koskeviin velvoitteisiimme. Järkevä sosiaali- ja ympäristöpolitiikka ei suinkaan väistämättä haittaa kilpailua, vaan se voi lisätä kilpailukykyämme, edistää kasvua ja aikaansaada uusia työpaikkoja.
+<P>
+Tästä pääsenkin seuraavaan aiheeseeni eli siihen, että tarvitsemme perustuslakia turvataksemme sosiaaliset perusoikeudet. Meidän on luovuttava yksimielisestä päätöksenteosta finanssipolitiikassa. Sisämarkkinat on toteutettava. Euroopan unioni tarvitsee sosiaalisia perusoikeuksia ja perusnormeja, jos aiotaan edistää vapauttamista ja markkinataloutta, sillä emme suinkaan halua heittää lasta pesuveden mukana, vaan elvyttää ympäristöystävällisen sosiaalisen markkinatalouden mallin.
+<SPEAKER ID="33" LANGUAGE="DA" NAME="Poul Nyrup Rasmussen (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisa komission jäsen, Euroopan kasvu on hidasta, ja nyt jopa OECD:n talousjohtajat toteavat sen selkeästi ja yksiselitteisesti. Sen huomaa jokainen, joka on vakavissaan kiinnostunut Euroopan taloudesta. Todellisuudessa Eurooppa ei pärjää niinkään huonosti vientimarkkinoilla. Eurooppa on viime vuosina suoriutunut nimenomaan viennissä Yhdysvaltoja ja Japania paremmin. En väitä, että se riittäisi. Totean kuitenkin, ettei se ole kaikkein merkittävin ongelma ja totean, että eniten ongelmia tuottaa nykyisin Euroopan sisäisen talouden tai sisämarkkinoiden riittämätön kasvu. Tällainen kasvu ei myöskään tapahdu itsestään. Sitä ei saada aikaan puolitiehen jätetyillä uudistuksilla, jotka eivät saa kansalaisten luottamusta ja tukea. Tällainen kasvu syntyy vain yhdistelemällä moderneja uudistuksia, jotka eivät suinkaan saa maita kilvan leikkaamaan sosiaalietuuksia vaan jotka perustuvat inhimilliseen näkökulmaan ja jotka toteutetaan ajanmukaisempien ja sosiaalisesti tehokkaiden työmarkkinatoimien ja niihin yhdistettyjen koordinoitujen investointien avulla.
+<P>
+Arvoisa komission jäsen Almunia, olette esittänyt järkevän talousohjelman. Voin antaa täyden tukeni sen sisällölle. Haluan vain sanoa, että lisäisin siihen hyvin mielelläni yhden ulottuvuuden. Minua ilahduttaisi kuulla, että taloussuuntaviivoissa välitetään kaikille jäsenvaltioille rakentava viesti, jonka mukaan meidän kaikkien pitäisi yhdessä – ja erikseen kussakin maassa – investoida Lissabonin tavoitteisiin seuraavien kolmen tai neljän vuoden ajan samanaikaisesti, sillä yhteistoiminta on Euroopan salainen ase. Tällä tavoin voisimme hyödyntää taloudellista riippumattomuuttamme ja yhdistää sosiaaliturvan kilpailukykyiseen talouteen ja vakaaseen kasvuun. Näin me olemme Pohjoismaissa toimineet, ja voimme laajentaa tätä käytäntöä myös koko Eurooppaan. 
+<SPEAKER ID="34" LANGUAGE="CS" NAME="Tomáš Zatloukal (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, hyvät kollegat, EU:n talous on useassa suhteessa kauempana maailman kilpailukykyisimmän talouden tavoitteesta kuin se oli vuonna 2000. EU:n jatkuvasti heikko talouskasvu johtuu varsinkin nuorten ja ikääntyvien työntekijöiden verrattain alhaisesta työpanoksesta. Toinen ongelma on vähäinen tuottavuuden kasvu, johon on syynä teknologian ja innovaatioiden kehitysvauhdin hidastuminen sekä tieto- ja viestintätekniikan hidas käyttöönotto.
+<P>
+Tässä tilanteessa Euroopan unionin ja sen jäsenvaltioiden on painotettava osaamiseen tehtäviä investointeja. Inhimilliseen pääomaan, koulutukseen, tutkimukseen ja innovaatiotoimiin perustuvan osaamisyhteiskunnan toteuttaminen on välttämätöntä kasvupotentiaalin lisäämiseksi ja tulevaisuutta ajatellen. Euroopan on lisättävä investointeja inhimilliseen pääomaan ja elinikäiseen oppimiseen yksilöiden, yritysten ja koko yhteiskunnan edun vuoksi.
+<P>
+On muistettava, että osaamisyhteiskunnassa tarvitaan perinteisistä teollisuudenaloista poikkeavaa ammattitaitoa ja että tätä ammattitaitoa on jatkuvasti päivitettävä teknologian muuttumisen ja innovaatioiden myötä. Jos työntekijät haluavat pysyä työssä ja edetä urallaan, heidän on täydennettävä osaamistaan ja ammattitaitoaan säännöllisesti. Siksi koulutusjärjestelmien on vastattava talouden tarpeisiin.
+<P>
+Tutkimukseen ja kehitykseen sekä innovaatioihin ja koulutukseen tehtävillä investoinneilla kartutettu osaaminen on tärkein kasvua edistävä tekijä pitkällä aikavälillä. Silti puheenjohtajavaltio Luxemburgin esittelemässä vuosien 2007–2013 talousarvioesityksessä leikataan jyrkästi tieteeseen, tutkimukseen, koulutukseen ja liikenteeseen varattuja menoja. Nämä leikkaukset laskisivat määrärahoja yli 40 prosenttia alkuperäiseen ehdotukseen verrattuna, toisin sanoen 50 miljardia euroa.
+<P>
+Mielestäni meidän ei pitäisi asettaa itsellemme korkeita tavoitteita, jos emme sen jälkeen huolehdi niihin tarvittavasta rahoituksesta. 
+<SPEAKER ID="35" LANGUAGE="ES" NAME="Joaquín Almunia," AFFILIATION="komission jäsen">
+<P>
+   . Arvoisa puhemies, keskustelun lopuksi haluan vielä kerran kiittää esittelijöitä ja varsinkin talouspolitiikan laajoista suuntaviivoista mietinnön laatinutta jäsen Goebbelsia erinomaisesta työstä. Mielestäni näistä mietinnöistä käydyn keskustelun aikana on esitetty monia muitakin myönteisiä puheenvuoroja.
+<P>
+Haluan kommentoida määrättyä menettelyyn liittyvää seikkaa. Tänä vuonna keskustelulle varattu aika, jonka puitteissa komissio ja neuvosto ottavat huomioon parlamentin näissä mietinnöissä ilmaiseman kannan, on ollut erityisen lyhyt. Tämä puolestaan johtuu jakson alkamisesta ja erittäin tiukasta aikataulusta, jota kaikkien toimielinten on noudatettava tämän talouspolitiikkojen uuden koordinointijakson alussa Lissabonin strategian arvioinnin yhteydessä. Olen varma, että ensi vuonna aikataulut ovat väljempiä ja pystymme työskentelemään tehokkaammin, ja parlamentin näkemykset otetaan varmasti huomioon.
+<P>
+Toiseksi puheenvuoroista on mielestäni käynyt ilmi, että hyvin laaja ja perustava yksimielisyys vallitsee niistä kolmesta edellytyksestä, jotka ovat välttämättömiä koko Euroopan unionin talouskasvun ja kasvupotentiaalin lisäämiselle ja siten sen mahdollisuuksille nostaa työllisyyttä ja edistyä kaikkien Lissabonin strategian tavoitteiden saavuttamisessa. Meidän on parannettava julkisen talouden ja julkisten menojen laatua – ja tässä suhteessa olen samaa mieltä joistakin puheenvuoroista ja esitetyistä huomautuksista – ja otettava kestävän kehityksen ulottuvuus huomioon julkisissa toimissa, rakenneuudistuksissa ja julkisen talouden tilinpidossa – kuten useat jäsenet ovat maininneet – mutta meidän on myös pidettävä kiinni talousarvion kurinalaisuuden ja terveen julkisen talouden periaatteista, sillä ilman niitä ei voida saavuttaa muitakaan tavoitteita.
+<P>
+Tähän toimintalinjaan kuuluvat Lissabonin strategian arviointi, vakaussopimuksen uudistaminen, josta keskustelemme parlamentissa muutaman päivän kuluttua, ja toivoakseni myös kesäkuun Eurooppa-neuvostosta alkaen uudet rahoitusnäkymät vuosiksi 2007–2013.
+<P>
+Haluan vielä lopuksi huomauttaa, että kuten todettiin, rakenneuudistuksia on vaikea käynnistää ja panna täytäntöön hitaan kasvun aikana, mutta toisaalta on myös niin, että kasvu on suurinta niissä maissa, jotka ovat toteuttaneet uudistuksia, kuten keskustelussa tuotiin julki. Emme siis saa tehdä tässä keskustelussa asioista vaikeampia kuin ne ovat: kasvua on lisättävä, ja uudistukset ovat siinä keskeinen osatekijä. Meidän on siis päätettävä toteutettavista uudistuksista ja niiden toteuttamistavasta, mutta ei ole epäilystäkään siitä, että uudistuksia tarvitaan. Myös hyödyke- ja työmarkkinoiden toimintaa ja julkisen talouden tilinpidon laatua on parannettava, ja julkisiin toimiin on yhdistettävä enemmän tutkimusta, kehitystä, innovaatioita ja osaamista. Välttämättömien uudistusten yhdistämisestä ja näiden uudistusten tarvitsemasta hyväksynnästä ei voida määrätä tiedonannossa, vaan kyseiset seikat kuuluvat pikemminkin olennaisesti poliittiseen johtajuuteen. 
+<SPEAKER ID="36" LANGUAGE="CS" NAME="Vladimír Špidla," AFFILIATION="komissio">
+<P>
+   .  Hyvät parlamentin jäsenet, tämä keskustelu on viestittänyt komission jäsenelle Almunialle ja minulle, että komission ehdotuksista vallitsee pääasiassa yleinen yksimielisyys. Mielestäni olisi hyödyllistä korostaa muutamia tärkeimpiä toimintalinjoja, jotka ovat nousseet selvästi esiin tässä keskustelussa, ja lisäisin, että ne on itse asiassa esitetty komission ehdotuksissa, vaikkakin eri muodossa.
+<P>
+Ensimmäinen niistä on se, että jos Euroopan on määrä pystyä kilpailemaan menestyksekkäästi maailmanmarkkinoilla, sen on kilpailtava laadulla. Kilpailukykymme ei saa perustua pieniin palkkoihin tai suuriin määriin vaan innovaatioiden, tutkimuksen ja kehityksen lisäämiseen sekä ammattitaidon kehittämiseen tai, ammattikieltä käyttääkseni, niin sanotun inhimillisen pääoman kehittämiseen.
+<P>
+Toinen hyvin selkeästi korostuva seikka, joka on myönnetty keskustelun aikana, on yleisen tai koordinoidun toimintamallin tarve. Tällaisessa toimintamallissa otettaisiin huomioon se, että käsittelemämme kysymykset muodostavat vaikeasti hahmotettavan kokonaisuuden ja ettei tämän kokonaisuuden yksittäisiä osia pidä irrottaa taustayhteydestä jonkinlaisen menestyksen toivossa. Lisäksi on selvää, että vaikka komissio onkin vakuuttunut laatuun perustuvan ja kasvua edistävän kilpailukyvyn ratkaisevasta merkityksestä, kasvu- ja työllisyysstrategiasta käy tarkoin ilmi, ettei komissio pidä pelkkää kasvua patenttiratkaisuna kaikkeen vaan että sen mielestä siihen on yhdistettävä muitakin aktiivisia toimia. 
+<P>
+Mielestäni koko keskustelu on osoittanut, että on mahdollista esittää äärimmäisen vaikeita kysymyksiä siitä, missä määrin esitetyt ehdotukset ovat yleisen edun mukaisia. Nähdäkseni on selvää, että tästä kysymyksestä voidaan aina keskustella. Olen myös varma, että parlamentissa käyty keskustelu parantaa näiden EU:n strategia-asiakirjojen lopullista muotoilua, sillä niillä on kaksi tavoitetta. Ensimmäiseksi halutaan tietenkin suunnitella arvoihimme perustuva johdonmukainen toimintalinja. Näihin arvoihin kuuluu muun muassa sellaisen sosiaaliseen yhteenkuuluvuuteen perustuvan ja taloudellisesti kannattavan yhteiskunnan edistäminen, jonka jäsenten elämä on laadukasta. Mielestäni kukaan ei voi kiistää tätä päämäärää. Samalla kun pohdimme tapoja laatia tehokkaita strategia-asiakirjoja, tavoitteenamme on myös muodostaa yhteinen eurooppalainen tahto, ja tämä on tosiaankin mainittu useasti parlamentissa. Sen avulla voisimme työskennellä yhdessä ja yhteisymmärryksessä arvoihimme perustuvien tavoitteiden puolesta ja selvittää eteemme tulevat ongelmat.
+<P>
+Hyvät parlamentin jäsenet, komission puolesta vakuutan teille, että teemme kaiken voitavamme varmistaaksemme, että parlamentissa käydyn keskustelun tulokset otetaan asianmukaisesti huomioon lopullisissa asiakirjoissa, joista neuvosto keskustelee kesäkuun alussa. 
+<SPEAKER ID="37" LANGUAGE="EN" NAME="Ieke van den Burg (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, useat puhujat ovat esittäneet komission jäsenelle Špidlalle kysymyksen työaikadirektiivistä ja tavasta, jolla hän suhtautui parlamentin kantaan edellisessä täysistunnossa. En kuullut vastausta tähän. 
+<SPEAKER ID="38" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Hyvä jäsen van den Burg, emme voi muuttaa tätä keskustelua täysin toiseksi keskusteluksi. Voin antaa teille uuden puheenvuoron vain, mikäli käytätte työjärjestyspuheenvuoron. 
+<SPEAKER ID="39" LANGUAGE="CS" NAME="Vladimír Špidla," AFFILIATION="komissio">
+<P>
+    On selvää, että työaikadirektiivi on erittäin tärkeä asiakirja, ja mielestäni toimin äärimmäisen vastuullisesti esittäessäni näkemykseni, kun tästä direktiivistä edellisen kerran keskusteltiin. Yksi Euroopan yhdentymismallin tunnusomaisista piirteistä on unionin toimielinten, jäsenvaltioiden, parlamentin, neuvoston ja komission välisen monitahoisen kompromissin etsiminen. Olen valmis tekemään velvollisuuteni varmistaakseni, että tästä direktiivistä käytävissä tulevissa keskusteluissa saavutetaan kompromissi, joka takaa sille mahdollisimman laajan tuen, ja tämä on tosiasiassa suurin haasteeni. 
+<SPEAKER ID="40" LANGUAGE="" NAME="Puhemies." AFFILIATION="Kirjallinen lausuma (työjärjestyksen 142 artikla)">
+<P>
+   Keskustelu on päättynyt.
+<P>
+Äänestys toimitetaan klo 11.00.
+<SPEAKER ID="41" LANGUAGE="IT" NAME="Alessandro Battilocchio (NI )." AFFILIATION="">
+<P>
+   – Kiitos, arvoisa puhemies. Puhun Italian uuden sosialistipuolueen nimissä. Uudistusmielisinä haluamme korostaa joitakin seikkoja, joiden on mielestämme ohjattava toimintaa.
+<P>
+Ensinnäkin on edistettävä toimia, joiden avulla työmarkkinoille pääsy, niillä pysyminen ja niille osallistuminen on helpompaa ja oikeudenmukaisempaa varsinkin niille ryhmille – nuorille, naisille, vammaisille, maahanmuuttajille ja yleensä vähemmistöille – joilla on nykyisin muita enemmän vaikeuksia integroitua tuotantojärjestelmään. 
+<P>
+Työturvallisuutta koskevat toimintalinjat on pantava täytäntöön ja yhdenmukaistettava, ja samalla on vähennettävä terveysriskejä: aivan liian usein sanomalehdissä kerrotaan tapahtumista, joiden ei pitäisi olla mahdollisia eurooppalaisessa yhteiskunnassa.
+<P>
+Yhdenvertaista kohtelua on edistettävä käytännön toimilla.
+<P>
+Koulutusjärjestelmiä on jatkuvasti sopeutettava ja ajanmukaistettava markkinoiden tarpeita vastaaviksi, koska markkinoiden kehitys on jatkuvaa ja dynaamista.
+<P>
+Lopuksi totean, että hyvistä työmarkkinasuhteista on huolehdittava parantamalla tiedottamista ja työntekijöiden kuulemista, ja lisäksi on turvattava nykyistä laajempi ja tehokkaampi vuorovaikutus ja yhteistyö työmarkkinaosapuolten kanssa, jotta aito sosiaalinen ja alueellinen yhteenkuuluvuus toteutuisi.
+<P>
+Vaikka paljon onkin jo tehty, vielä enemmän tekoja tarvitaan, jotta voidaan luoda perusta oikeudenmukaisemman ja puolueettomamman eurooppalaisen järjestelmän rakentamiselle.
+<SPEAKER ID="42" LANGUAGE="" NAME="" AFFILIATION="puhemies">
+<SPEAKER ID="43" LANGUAGE="" NAME="" AFFILIATION="(Useat jäsenet nostivat kylttejä, joissa luki &quot;KYLLÄ&quot;.)">
+<SPEAKER ID="44" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Vaihtelevia reaktioita)">
+<P>
+   Hyvät parlamentin jäsenet, olkaa hyvät ja istukaa ja laskekaa nuo kyltit alas. Tämä ei ole oikea aika eikä paikka tällaiseen tukenne ilmaisemiseen.
+<P>
+Pyydän teitä noudattamaan työjärjestystä, istumaan alas ja laskemaan nuo kyltit.
+<P>
+Mikäli näin ei tapahdu, pyydän parlamentin turvallisuudesta vastaavaa henkilökuntaa tekemään niin. 
+<SPEAKER ID="45" LANGUAGE="" NAME="Puhemies. –" AFFILIATION="(Äänestysten tulokset ja muut äänestysten kulkua koskevat yksityiskohdat: ks. pöytäkirja)">
+<P>
+   Toimitamme nyt äänestykset.
+<SPEAKER ID="46" LANGUAGE="" NAME="" AFFILIATION="- Ennen äänestyksiä:">
+<SPEAKER ID="47" LANGUAGE="FR" NAME="Astrid Lulling (PPE-DE )," AFFILIATION="esittelijä">
+<P>
+   . Arvoisa puhemies, haluan esittelijän ominaisuudessa vain muistuttaa parlamenttia siitä, mistä tässä toisessa käsittelyssä on kyse. Käsiteltävänämme on tilastoja koskeva asetusehdotus, jonka tavoitteena on säätää institutionaalisen sektorin mukaan jaotellun, muita kuin rahoitustilejä koskevan neljännesvuositilinpidon laatimista ja toimittamista koskevat Euroopan laajuiset puitteet. Tilinpito on tärkeä väline euroalueen rahapolitiikan ohjaamisessa ja jäsenvaltioiden talouspolitiikan seuraamisessa, ja toivon teidän kaikkien olevan sitoutuneita yhtenäisvaluuttaan. Ensimmäisessä käsittelyssä 30. maaliskuuta 2004 Euroopan parlamentti ehdotti ainoastaan yhtä tarkistusta, jonka tarkoituksena oli selventää johdanto-osan viidettä kappaletta.
+<P>
+Haluan korostaa, että Euroopan unionin toimielinten tilinpito sisällytetään kyseessä olevan alueen tilinpitoon, oli se sitten euroalue tai koko Euroopan unioni. Neuvosto, jossa asian käsittely on kestänyt ikuisuuden, nimittäin yli vuoden, on myös esittänyt ainoastaan yhtä tarkistusta asetuksen 2 artiklaan. Neuvoston yhteinen kanta hyväksyttiin viimein 8. maaliskuuta 2005, kiitos puheenjohtajavaltio Luxemburgin, joka tähdensi asian käsittelyn kiireellisyyttä. On kuitenkin käsittämätöntä, että neuvostolla kesti vuoden esittää meille yhteinen kantansa asetusehdotuksesta, johon parlamentti ja neuvosto tekivät kumpikin vain yhden tarkistuksen.
+<P>
+Koska nyt on jo kulunut vuosia yhtenäisvaluutan käyttöönotosta, Euroopan unionin pitäisi kehittää itselleen välineitä, jotka mahdollistavat sellaisten vuotta lyhyemmältä aikaväliltä kerättyjen tilastojen kokoamisen, jotka kattavat kaikki transaktiot kullakin keskeisellä talouden sektorilla. Neuvosto on hyväksynyt tarkistuksemme, ja kehotan parlamenttia hyväksymään neuvoston yhteisen kannan talous- ja raha-asioiden valiokunnan yksimielisen suosituksen mukaisesti, jotta asetus voi tulla voimaan. Tämän on määrä tapahtua 1. kesäkuuta 2005. 
+<SPEAKER ID="48" LANGUAGE="" NAME="Puhemies. –" AFFILIATION="">
+<P>
+   Olette osoittaneet jäsen Lullingin puheenvuoron aikana täydellistä kunnioituksen puutetta parlamentin toimintaa kohtaan, minkä johdosta minun on kehotettava kaikkia parlamentin jäseniä palaamaan järjestykseen. Pyydän hiljaisuutta. Istukaa alas ja pysykää rauhallisina. Seuraavana ovat vuorossa äänestykset, eivätkä parlamentin jäsenet saa kulkea edestakaisin istuntosalin käytävillä. Muuten on mahdotonta tietää, kuka äänestää ja kuka ei. 
+<SPEAKER ID="49" LANGUAGE="" NAME="" AFFILIATION="- Ennen äänestyksiä:">
+<SPEAKER ID="50" LANGUAGE="DE" NAME="Jo Leinen (PSE )," AFFILIATION="esittelijä">
+<P>
+   .  Arvoisa puhemies, hyvät kollegat, edessänne on parlamentin ja komission välinen uusi puitesopimus. Äänestämällä sopimuksen puolesta autatte kehittämään näiden kahden toimielimen välistä yhteistyötä. Se olisi myös oikea tapa reagoida eilen käytyyn tuhoisaan keskusteluun, jonka tarkoituksena oli romuttaa tämä yhteistyö.
+<P>
+Haluan kiittää kaikkia niitä, jotka ovat viimeisen puolen vuoden aikana osallistuneet sopimusta koskeviin neuvotteluihin, sillä tällä sopimuksella lujitetaan parlamentin oikeuksia sekä lainsäädäntövallan että budjettivallan käyttäjänä. Tämä avoin menettely, jota ei ole käynnistetty vain näön vuoksi, on myös selventänyt komission puheenjohtajan ja jäsenten poliittista vastuuta. Pidän puitesopimusta todellisena harppauksena eteenpäin, koska siinä luodaan uusi yhteistyökulttuuri, jossa pyritään avoimiin työskentelyprosesseihin, joka ilmentää molemminpuolista kunnioitusta toimielintemme toimintoja kohtaan ja jossa Euroopan unionin politiikan toivotaan perustuvan rakentavaan vuoropuheluun. Pyydän teitä äänestämään puitesopimuksen hyväksymisen puolesta. 
+<SPEAKER ID="51" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi mietinnön.)">
+<P>
+ Hyvät parlamentin jäsenet, ennen kuin puheenjohtaja Barroso ja minä allekirjoitamme toimielinten välisen sopimuksen, jonka parlamentti juuri hyväksyi, haluan onnitella komissiota ja parlamenttia tästä järjestyksessään neljännestä puitesopimuksesta, jossa luodaan perusta yhteistyöllemme.
+<P>
+Uskon, että sopimuksen ansiosta molempien toimielinten työstä tulee entistä avoimempaa. Tämä sopimus myös lujittaa Euroopan parlamentin asemaa valvontaelimenä ja Euroopan unionin demokratian ilmentymänä ja siten vahvistaa yhteisen hankkeemme demokraattista legitimiteettiä ja määrittelee täsmällisemmin komission poliittisen vastuun.
+<P>
+Uuden sopimuksen myötä on selvää, että kollegiaalisuuden periaatteesta riippumatta jokainen komission jäsen on vastuussa toimivaltaansa kuuluvista aloista. Sopimuksessa määrätään, että mikäli komission jäsen vaihtuu toimikauden aikana, hänen on osallistuttava Euroopan parlamentissa järjestettävään kuulemistilaisuuteen ennen tehtäviensä hoidon aloittamista. Sopimuksessa myös määrätään, että komission puheenjohtaja tai toimielinten välisistä suhteista vastaava varapuheenjohtaja tapaa kolmen kuukauden välein puheenjohtajakokouksen varmistaakseen, että toimielimet käyvät säännöllistä vuoropuhelua.
+<P>
+Sopimuksen kirjaimen noudattamisen lisäksi aikomuksenamme on kuitenkin ylläpitää sen avulla jatkuvaa yhteistyötä parlamentin lainsäädäntötoimissa. Tämän yhteistyön on perustuttava selkeään strategiaan ja johdettava parempiin tuloksiin. Meillä on aivan pian mahdollisuus todeta, miten laajasti sopimuksen henki ohjaa myös toimielintemme toimia.
+<P>
+Unionin toimielinten toiminnalle ovat ominaisia monimutkaiset menettelyt, ja toisinaan niiden päätökset pakottavat meidät tekemään tiettyjä valintoja ja määräävät näin ennalta tietyssä mielessä lopputuloksen. Tämä käy pian ilmi esimerkiksi parlamentin äskettäin hyväksymän työaikadirektiivin kohdalla. Komission direktiivin osalta tekemät päätökset määräävät noudatettavan menettelyn ja tietyssä määrin myös lopputuloksen.
+<P>
+Tänään allekirjoitettavan sopimuksen tarkoituksena on kaikesta huolimatta vahvistaa Euroopan unionin toiminnan demokraattisuutta, mitä Euroopan kansalaiset myös yksiselitteisesti vaativat.
+<P>
+Kiitän ja onnittelen kaikkia lämpimästi tämän sopimuksen johdosta.
+<SPEAKER ID="52" LANGUAGE="FR" NAME="José Manuel Barroso," AFFILIATION="komission puheenjohtaja">
+<P>
+   . Arvoisa puhemies, arvoisat parlamentin jäsenet, olen iloinen parlamentin äänestyksen tuloksesta. Yhteisen päätöksemme ansiosta parlamentti ja komissio saavat nyt käyttöönsä uudistetun välineen, joka avaa uusia yhteistyön ja yhteistoiminnan näkymiä.
+<P>
+Tämä sopimus kattaa kaikki toimielimillemme tärkeät näkökohdat, jotka muodostavat eurooppalaisen demokratian ytimen, nimittäin komission poliittisen vastuun parlamentille sekä avoimuuden ja yhteistyön lainsäädännön, talousarvion ja kansainvälisten suhteiden osalta. Olemme vahvistaneet molempien toimielinten asemaa. Olemme myös osoittaneet, että eurooppalaiset toimielimet pystyvät toimimaan yhdessä oikeudenmukaisen ja hedelmällisen yhteistyön hengessä voimassa olevia sopimuksia täysimääräisesti noudattaen. Komissio on toteuttanut aikeen, joka minulla on ollut toimikautemme alusta saakka, eli kehittää rakentavaa yhteistoimintaa ja kestävää strategista kumppanuutta Euroopan parlamentin kanssa.
+<P>
+Arvoisa puhemies, olen iloinen voidessani allekirjoittaa sopimuksen teidän kanssanne ja suhteista parlamenttiin vastaavan varapuheenjohtajan Wallströmin ollessa läsnä. Komissio uskoo vakaasti, että sopimus merkitsee uutta edistysaskelta toimielintemme välisessä yhteistyössä, jota ne tekevät rakentaessaan Eurooppaa. 
+<SPEAKER ID="53" LANGUAGE="" NAME="" AFFILIATION="(Parlamentin puhemies Borrell ja komission puheenjohtaja Barroso allekirjoittivat toimielintenvälisen puitesopimuksen komission varapuheenjohtajan Wallströmin ja esittelijä Leinenin ollessa läsnä.)">
+<SPEAKER ID="54" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="55" LANGUAGE="" NAME="" AFFILIATION="- Ennen äänestyksiä:">
+<SPEAKER ID="56" LANGUAGE="IT" NAME="Guido Sacconi (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, minun on esitettävä vastalauseeni 3 artiklan a kohdan ja 4 artiklan äänestysjärjestyksestä, joten tiedustelen, pitäisikö minun tehdä se nyt vai odottaa tarkistuksesta 29 toimitettavaa äänestystä. 
+<SPEAKER ID="57" LANGUAGE="" NAME="Puhemies." AFFILIATION="- Ennen tarkistuksesta 99 toimitettua äänestystä:">
+<P>
+   Äänestysjärjestyksestä on sovittu jo aiemmin, mutta voitte käyttää puheenvuoronne, kun pääsemme asianomaiseen kohtaan äänestyksissä.
+<SPEAKER ID="58" LANGUAGE="IT" NAME="Adriana Poli Bortone (UEN )," AFFILIATION="esittelijä">
+<P>
+   . Arvoisa puhemies, vaikka en olekaan pyytänyt puheenvuoroa, haluaisin huomauttaa parlamentin jäsenille 4 artiklan mahdollisesta palauttamisesta mietintöön. Tässä artiklassa otetaan uudelleen käyttöön elintarvikkeiden ravintosisältötyyppi, jonka ympäristön, kansanterveyden ja elintarvikkeiden turvallisuuden valiokunta päätti sitä vastoin poistaa.
+<P>
+Suositan lämpimästi tämän tarkistuksen hyväksymistä sikäli, että se tekee koko asetuksesta mielekkäämmän. 
+<SPEAKER ID="59" LANGUAGE="IT" NAME="Guido Sacconi (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, en ota kantaa kyseisen tarkistuksen ansioihin vaan haluan vain esittää yhden huomautuksen. Menettely, jossa äänestetään ensin tarkistuksissa 99 ja 32 käsitellystä uudesta 3 artiklasta, on ehkä hyväksyttävä muodolliselta kannalta muttei sisällöllisesti, koska 3 artikla on vain uusi versio 4 artiklasta ja temppu, jolla 4 artiklan sisältö palautetaan mietintöön.
+<P>
+Tämä on niin päivänselvä tosiasia, että jos esimerkiksi te uskaltautuisitte, tai vaihtoehtoisesti joutuisitte, lukemaan tarkistuksen 99 ja vertaamaan sitä tarkistukseen 88, huomaisitte, että ne ovat identtisiä pientä päivämääriä koskevaa yksityiskohtaa lukuun ottamatta.
+<P>
+Näin ollen on mielestäni tarkoituksenmukaisempaa äänestää 4 artiklaa koskevista tarkistuksista sellaisinaan ja vasta sen jälkeen ja ainoastaan tarvittaessa tarkistuksista, jotka koskevat uutta 3 artiklaa; sen tarkoituksena on palauttaa 4 artikla peitellysti mietintöön. 
+<SPEAKER ID="60" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Tarkistukset on jätetty asianmukaisesti ja jätän päätöksen parlamentin tehtäväksi. 
+<SPEAKER ID="61" LANGUAGE="" NAME="" AFFILIATION="- Ennen äänestyksiä:">
+<SPEAKER ID="62" LANGUAGE="EN" NAME="Proinsias De Rossa (PSE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, kiitos, että annoitte minulle puheenvuoron tässä vaiheessa, koska ymmärrän, että parlamentilla on tänään paljon äänestettävää. On tärkeää huomata tämän nimenomaisen päätöslauselman ainutlaatuisuus. Päätöslauselma koskee molempien rautatieliikennealan osapuolten eli työnantajien ja työntekijäjärjestöjen välistä sopimusta. Kyseessä on ensimmäinen sopimus, joka edustaa 95:tä prosenttia rautatieliikennealan työntekijöistä ja työnantajista.
+<P>
+Parlamentilla ei totta puhuen ole välitöntä osaa tässä asiassa, vaan sopimuksen hyväksyminen on neuvoston tehtävä. Toivon kuitenkin, että jos saamme sopimukselle tänään parlamentin ylivoimaisen enemmistön tuen, neuvosto hyväksyy sopimuksen mahdollisimman pian ja asiaa viivyttämättä. Kyse on tärkeästä aloitteesta, ja meidän pitäisi kannustaa rautatieliikennealan lisäksi myös muita aloja tekemään tällaisia työoloja koskevia työmarkkinaosapuolten välisiä sopimuksia. 
+<SPEAKER ID="63" LANGUAGE="" NAME="" AFFILIATION="- Ennen tarkistuksesta 42 toimitettua äänestystä:">
+<SPEAKER ID="64" LANGUAGE="PL" NAME="Wojciech Roszkowski (UEN )." AFFILIATION="">
+<P>
+    Ehdotan tarkistukseen 42 suullista tarkistusta. Pyydän, että seuraava ilmaisu, jonka luen ääneen englanniksi:
+<P>
+"tarkastelemaan Venäjän asennetta EU:n jäsenvaltioihin ja erityisesti uusiin jäsenvaltioihin Euroopan unioniin suuntautuvia suhteita koskevan Venäjän hyväntahtoisuuden koetinkivenä" 
+<P>
+ korvataan seuraavalla ilmaisulla, jonka luen jälleen ääneen englanniksi:
+<P>
+"osoittamaan solidaarisuutta ja yhteishenkeä EU:n keskuudessa samalla tavoin vanhojen ja uusien jäsenvaltioiden välillä sen varalta, että Venäjä aikoisi eriyttää suhtautumistaan niihin". 
+<P>
+ Tämä sanamuoto korostaa solidaarisuuden periaatteen tärkeyttä EU:n ulkopolitiikassa. Kehotankin parlamentin jäseniä tukemaan tarkistukseen 42 esittämääni suullista tarkistusta.
+<SPEAKER ID="65" LANGUAGE="" NAME="" AFFILIATION="(Puhemies totesi, ettei kukaan vastustanut suullista tarkistusta.)">
+<SPEAKER ID="66" LANGUAGE="EN" NAME="Cecilia Malmström (ALDE )," AFFILIATION="esittelijä">
+<P>
+   . Arvoisa puhemies, jotta mietintö vastaisi viimeaikaisia tapahtumia, ehdotan tarkistuksen 7 ensimmäiseen osaan suullista tarkistusta, joka kuuluu seuraavasti: "toistaa Venäjälle osoittamansa kehotuksen ratifioida Viron kanssa äskettäin tehty rajasopimus sekä allekirjoittaa ja ratifioida rajasopimus Latvian kanssa enää viivyttelemättä". Tarkistuksen loppuosa säilyy ennallaan. 
+<SPEAKER ID="67" LANGUAGE="" NAME="" AFFILIATION="(Puhemies totesi, ettei kukaan vastustanut suullista tarkistusta.)">
+<SPEAKER ID="68" LANGUAGE="EN" NAME="Vytautas Landsbergis (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, haluan lisätä päätöslauselmaesityksen 31 kohdan jälkeen uuden kohdan, joka koskee Venäjän erittäin vanhentunutta voimassa olevaa sosiaaliturvalainsäädäntöä. Kyseisessä laissa säädetään Venäjän sotilaallisesta toiminnasta Baltian valtioissa, jotka kuuluvat Euroopan unioniin, ja annetaan takeet Venäjän armeijan käyttämisestä tähän tarkoitukseen. Tämä laki säädettiin vuonna 1993, ja sitä on muutettu sen jälkeen useita kertoja, viimeksi vuonna 2003. Baltian valtiot mainitaan kuitenkin laissa edelleen Venäjän mahdollisen sotilaallisen toiminnan kohteena.
+<P>
+Pahoittelen, että komissiolta saamani vastaus oli hyvin laimea. Teidän tukeanne tarvitaan, mikäli parlamentin halutaan ottavan johdonmukaisemmin kantaa tällaiseen järjenvastaisuuteen.
+<P>
+Suullinen tarkistus kuuluu seuraavasti: "ehdottaa, että Venäjä poistaa nykyisestä sosiaaliturvalainsäädännöstään viittauksen Baltian valtioihin alueena, minne Venäjän armeija voidaan vielä nykyäänkin sijoittaa ja missä sille voi koitua vahinkoa sotilastoimien yhteydessä".
+<P>
+Pyydän teitä tukemaan tätä tarkistusta. 
+<SPEAKER ID="69" LANGUAGE="" NAME="" AFFILIATION="(Puhemies totesi, ettei kukaan vastustanut suullista tarkistusta.)">
+<SPEAKER ID="70" LANGUAGE="EN" NAME="Vytautas Landsbergis (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, esitän seuraavaa suullista tarkistusta: "kehottaa tekemään Venäjän hallituksen määräysvallassa olevan LUKOIL-yhtiön ja Liettuan hallituksen välisen sopimuksen korvausten varmistamisesta Kuronian hiekkasärkän (UNESCOn julkistamaan maailmanperintöluetteloon sisältyvä kohde) läheisyydessä toimivalla D-6-öljynporausasemalla sattuvan ympäristövahingon varalta". 
+<SPEAKER ID="71" LANGUAGE="" NAME="" AFFILIATION="(Puhemies totesi, ettei kukaan vastustanut suullista tarkistusta.)">
+<SPEAKER ID="72" LANGUAGE="EN" NAME="Maciej Marian Giertych (IND/DEM )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, ehdotan, että lisäämme sanan "natsien" eteen sanan "saksalaisten" niin, että kyseinen kohta kuuluisi "saksalaisten natsien". 
+<SPEAKER ID="73" LANGUAGE="" NAME="" AFFILIATION="(Koska yli 37 jäsentä vastusti suullista tarkistusta, sitä ei hyväksytty.)">
+<SPEAKER ID="74" LANGUAGE="" NAME="" AFFILIATION="- Ennen päätöslauselmaesityksen 14 kohdan alkuperäisestä tekstistä toimitettua äänestystä:">
+<SPEAKER ID="75" LANGUAGE="EN" NAME="Maria Carlshamre (ALDE )." AFFILIATION="voi">
+<P>
+    Arvoisa puhemies, suullinen tarkistus koskee päätöslauselmaesityksen 14 kohtaan tehtävää yhden sanan muutosta. Kyseisessä kohdassa tulisi lukea "pitäisi" sanan tilalla "voi". Luen suullisen tarkistuksen teille ääneen: "muistuttaa, että jäsenvaltioilla ja unionin toimielimillä on laillisuuden varmistamiseksi yhteisöjen tuomioistuimessa etuoikeutettu kanneoikeus, ja katsoo, että parlamentti tätä keinoa käyttäen puolustaakansalaisten oikeuksia, silloin kun joku unionin säädös uhkaa olla perusoikeuksien vastainen". 
+<SPEAKER ID="76" LANGUAGE="" NAME="" AFFILIATION="(Puhemies totesi, ettei kukaan vastustanut suullista tarkistusta.)">
+<SPEAKER ID="77" LANGUAGE="" NAME="" AFFILIATION="- Ennen tarkistuksesta 6 toimitettua äänestystä:">
+<P>
+PSE-ryhmä haluaa käsitellä tarkistusta 6 lisäyksenä 5 kohtaan. Vastustaako joku tällaista menettelyä? 
+<SPEAKER ID="78" LANGUAGE="EN" NAME="Gunnar Hökmark (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, emme halua, että tarkistus 6 lisätään 5 kohtaan, vaan haluamme sen korvaavan 5 kohdan. Sen puolesta haluaisimme äänestää. Ryhmäni äänestää siis sen puolesta, että tarkistuksella 6 korvataan 5 kohdan teksti. Toivon selventäneeni näin tilannetta. Tämä tarkistus koituu Euroopan hyväksi. 
+<SPEAKER ID="79" LANGUAGE="FR" NAME="Robert Goebbels (PSE )," AFFILIATION="esittelijä.">
+<P>
+    Arvoisa puhemies, mikäli jäsen Hökmark ja Euroopan kansanpuolueen (kristillisdemokraatit) ja Euroopan demokraattien ryhmä eivät halua käsitellä tätä tarkistusta lisäyksenä, pyydän parlamenttia äänestämään jäsen Hökmarkin tarkistusta vastaan. 
+<SPEAKER ID="80" LANGUAGE="" NAME="" AFFILIATION="- Ennen tarkistuksesta 24 toimitettua äänestystä:">
+<SPEAKER ID="81" LANGUAGE="EN" NAME="Jean Lambert (Verts/ALE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, haluan ilmoittaa parlamentille, että äänestysluettelossa on virhe, joka liittyy tarkistuksen 24 jakautumiseen. Halusimme jakaa tekstin siten, että sana "biotekniikan" poistetaan. Tarkistus päättyy siis sanoihin "ennaltaehkäisevän terveydenhoidon". 
+<SPEAKER ID="82" LANGUAGE="" NAME="" AFFILIATION="- Ennen äänestyksiä:">
+<SPEAKER ID="83" LANGUAGE="EN" NAME="Sophia in ‘t Veld (ALDE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, kyseessä ei ole varsinainen työjärjestyspuheenvuoro. Haluan vain kiinnittää parlamentin huomion tarkistukseen 8, jossa vaaditaan, ettei yleishyödyllisiin palveluihin sovelleta valtiontukipolitiikassa ilmoitusvelvollisuutta. Me itse asiassa hyväksyimme helmikuussa tätä aihetta käsittelevän mietinnön, jonka esittelijänä toimin, ja kyseinen tarkistus olisi räikeässä ristiriidassa parlamentin helmikuussa vakuuttavalla enemmistöllä hyväksymän mietinnön päätelmien kanssa. 
+<SPEAKER ID="84" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Jäsen in 't Veld, suuret kiitokset huomautuksistanne, jotka panemme merkille. 
+<SPEAKER ID="85" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="86" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Vahva talous edellyttää, että saatavilla on mahdollisimman tarkkoja tietoja talouden eri indikaattoreista, samalla kun tietysti kunnioitetaan oikeutta yksityisyyteen. Tässä mietinnössä täytetään jotkin näistä tarpeista, joten äänestin sen puolesta. 
+<SPEAKER ID="87" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="88" LANGUAGE="SV" NAME="Hélène Goudin ja Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Kesäkuun lista katsoo, ettei yritysten ja yrittäjyyden hyväksi toteutettavaa viisivuotista ohjelmaa pitäisi pidentää vuodella. Ohjelmalla ei ole rajatylittävää luonnetta, joka on edellytyksenä sille, että voitaisiin uskoa siihen, että toissijaisuusperiaatetta on tässä yhteydessä kunnioitettu. Vastuu yritysten ja yrittäjyyden tukemisesta pitäisi olla jäsenvaltioilla, jotka voivat halutessaan helpottaa pienten ja keskisuurten yritysten rahoituksen ja riskipääoman saatavuutta sekä auttaa niitä antamalla tietoa EU:n lainsäädännöstä, eurooppalaisista standardeista ja yhteistyökumppaneista. On erittäin tärkeää, että pienillä yrityksillä on kaikkialla Euroopassa mahdollisuus kokeilla erilaisia ratkaisuja instituutioiden välistä kilpailua koskevan periaatteen mukaisesti.
+<P>
+Äänestämme mietintöä vastaan ohjelman pidentämisestä aiheutuvien kustannusten vuoksi. 
+<SPEAKER ID="89" LANGUAGE="PT" NAME="Sérgio Marques (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Monivuotisen ohjelman yritysten ja yrittäjyyden, erityisesti pienten ja keskisuurten yritysten (pk-yritykset), hyväksi oli alun perin määrä olla voimassa 1. tammikuuta 2001 ja 31. joulukuuta 2005 välisenä aikana.
+<P>
+Ohjelma on keskeinen osa yhteisön toimia, joilla edistetään yrittäjyyden ja eurooppalaisten pk-yritysten innovaatiotoiminnan tukemista, minkä vuoksi äänestin mietinnön puolesta. Mietinnössä suositetaan ohjelman voimassaoloajan pidentämistä 31. joulukuuta 2006 asti ja korostetaan tarvetta nostaa ohjelman rahoituskehystä 91 miljoonaan euroon.
+<P>
+Näillä toimilla parannetaan kyseisen monivuotisen ohjelman, sen seuraajana toimivan "innovaatiotoimintaa ja kilpailukykyä koskevan puiteohjelman" (CIP) ja tutkimuksen seitsemännen puiteohjelman yhteensovittamista.
+<P>
+On tärkeää, että Euroopan unionissa jatketaan ja laajennetaan yritysten ja yrittäjyyden sekä erityisesti pk-yritysten toiminnan tukemista, koska pk-yritykset muodostavat EU:n kansantalouden selkärangan ja koska niiden kasvun jatkuminen on Lissabonin strategian saavuttamisen ennakkoehto. Voimassa olevan ohjelman rahoitusvälineet on myös säilytettävä, koska ne vastaavat suurelta osin uusien jäsenvaltioiden tarpeita ja koska varainkäytön rajoittaminen estää uusien jäsenvaltioiden integroimisen eurooppalaiseen talouteen. 
+<SPEAKER ID="90" LANGUAGE="SL" NAME="Zita Pleštinská (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   .Arvoisa puhemies,
+<P>
+saanen selittää syyt, joiden vuoksi kannatin äänestyksessä Britta Thomsenin mietintöä monivuotisesta ohjelmasta yritysten ja yrittäjyyden hyväksi.
+<P>
+Lähes 20,5 miljoonalle yritykselle, jotka työllistävät noin 122 miljoonaa ihmistä, tämä vuosina 2001–2005 voimassa oleva monivuotinen ohjelma on ollut osa EU:n rahoituspolitiikkaa yrittäjyyden alalla ja väline pienyrityksiä koskevassa eurooppalaisessa peruskirjassa asetettujen tavoitteiden saavuttamiseksi. Ohjelmalla on myös autettu kymmentä uutta jäsenvaltiota rakentamaan euroneuvontakeskusten verkkoa, jossa koordinoidaan pienten ja keskisuurten yritysten tukemiseen ja kehittämiseen tähtääviä toimia. Mietinnössä vuodeksi 2006 hyväksytty ohjelman rahoituskehys yhdistää nykyisen ohjelman ja tulevan rakenteellisen ohjelman eli innovaatiotoimintaa ja kilpailukykyä koskevan puiteohjelman (CIP), jonka on määrä olla voimassa vuosina 2007–2013.
+<P>
+Euroopan parlamentti on näyttänyt äänestyksessä "vihreää valoa" pk-yrityksille lupaavimpana työpaikkojen luomisen, talouskehitykseen kuuluvan innovaatiotoiminnan ja laajemman sosiaalisen osallistumisen välineenä. 
+<SPEAKER ID="91" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Käsiteltävänämme olevan ohjelman tulokset ja sen rahoituskehyksen lisäämistä koskevasta ehdotuksesta vallitseva laaja yhteisymmärrys huomioon ottaen äänestin mietinnön puolesta. Uskon lisäksi vilpittömästi, että tällä ohjelmalla on myönteinen vaikutus kilpailukyvyn ja yritysten innovaatiotoiminnan lisääntymiseen. 
+<SPEAKER ID="92" LANGUAGE="PT" NAME="José Albino Silva Peneda (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . EU on perustanut vuosien 2007–2013 rahoitusnäkymien puitteissa "innovaatiotoimintaa ja kilpailukykyä koskevan puiteohjelman" (CIP), jonka tarkoituksena on tukea yrityksiä ja yrittäjyyttä sekä innovaatiotoimintaa pienissä ja keskisuurissa yrityksissä (pk-yritykset). Täyttääkseen nykyisten, vuonna 2005 päättyvien ohjelmien ja tulevan puiteohjelman väliin jäävän aukon parlamentti on korottanut tukeaan 91 miljoonaan euroon vuodeksi 2006.
+<P>
+Pidän tätä aloitetta myönteisenä, koska pk-yritykset muodostavat EU:n kansantalouden selkärangan, ja ne ovat keskeisessä asemassa pyrittäessä saavuttamaan Lissabonin strategia. Jos tavoitteena on lisätä EU:n kilpailukykyä ja talouskasvua sekä luoda uusia työpaikkoja, unionin on hyödynnettävä pk-yritysten yrittäjyystaitoja.
+<P>
+Hyödyntääkseen täysimääräisesti yritystoiminnan tarjoamia mahdollisuuksia EU:n on hyväksyttävä aloitteita, joilla lisätään yrittäjyyden houkuttelevuutta. Tällaisten toimien on koskettava muun muassa yrittäjyyskulttuurin edistämistä, riskinottoon liittyvien pelkojen hälventämistä sekä yksinkertaisen ja tehokkaan hallintokehyksen luomista.
+<P>
+Vaikka pk-yrityksiä tukevien ohjelmien arvioinnissa todettiin, että ohjelmille asetetut tavoitteet oli saavutettu, on tärkeää parantaa tulevan CIP-ohjelman ja rakennerahastojen yhteensovittamista osana alueellista kehitystä, jota tuetaan perustamalla paikallisia ja alueellisia kumppanuuksia. 
+<SPEAKER ID="93" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="94" LANGUAGE="SV" NAME="Hélène Goudin ja Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Mietinnössä paheksutaan sitä, ettei Euroopan parlamenttia ole kuultu eikä sille ole ilmoitettu Europolin työtä ja organisaatiota koskevista toimenpiteistä, ja siinä vaaditaan neuvostoa ryhtymään toimiin Europolin demokraattisen valvonnan tehostamiseksi lisäämällä parlamentin osallistumista. Kesäkuun lista pitää Europolin tehokkaampaa demokraattista, oikeudellista ja talousarviota koskevaa valvontaa toivottavana, mutta koska Europol-yleissopimus on osa hallitustenvälistä yhteistyötä, valvonnan pitäisi kuulua kansallisten parlamenttien, ei Euroopan parlamentin tehtäviin.
+<P>
+Olemme näin ollen äänestäneet mietintöä vastaan. 
+<SPEAKER ID="95" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="96" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Puollan käsiteltävänämme olevaa mietintöä, koska alalla tarvitaan sääntelyä ja sopimuksia ja koska yhteisöjen tuomioistuin on antanut tuomion, jonka mukaan yhteisöllä on yksinomainen toimivalta asianomaisella alalla. 
+<SPEAKER ID="97" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="98" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Kannatan tämän tehokkaan kalastuspolitiikan kannalta huomattavan tärkeän mietinnön keskeistä sisältöä, joten minun on annettava tukeni ehdotetulle viiteajanjakson muuttamiselle, joka mahdollistaa ohjelmalle asetettujen tavoitteiden saavuttamisen. Äänestin näin ollen mietinnön puolesta. 
+<SPEAKER ID="99" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="100" LANGUAGE="SV" NAME="Hélène Goudin ja Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Euroopan unionin kalastussopimuksia koskevaa politiikkaa on mielestämme tarkasteltava uudelleen. Kalastusvesien liikahyödyntäminen ajaa kehitysmaiden väestön yhä suurempaan köyhyyteen ja riistää meriympäristöltä elintärkeän lenkin ravintoketjussa.
+<P>
+Jos EU tekee kalastussopimuksen jonkin kolmannen maan kanssa, asianomaiselle maalle maksettavan taloudellisen korvauksen on mielestämme tultava kokonaisuudessaan niiltä EU:n jäsenvaltioilta, joiden alukset hyödyntävät kyseisen sopimuksen tarjoamia kalastusmahdollisuuksia. Näiden jäsenvaltioiden on sitten itse päätettävä, onko niiden puolestaan rahoitettava nämä menot perimällä maksuja kalastusaluksiltaan. Tämä on Kesäkuun listan periaatteellinen kanta EU:n kalastussopimuksiin kolmansien maiden kanssa.
+<P>
+Parlamentti on tehnyt mietintöön yksittäisiä myönteisiä tarkistuksia; mainittakoon esimerkiksi kestävää kalavarojen hoitoa koskevat ehdotukset, jotka ovat kuitenkin hyvin rajallisia. 
+<SPEAKER ID="101" LANGUAGE="PT" NAME="Pedro Guerreiro (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestimme mietinnön puolesta taataksemme yhteisön laivastolle ja siihen kuuluville viidelle portugalilaiselle pintasiima-alukselle kalastusmahdollisuudet kyseisillä vesillä 30. kesäkuuta 2007 asti. Edellisen pöytäkirjan voimassaolo päättyi 30. kesäkuuta 2003, ja sitä jatkettiin vielä vuodella.
+<P>
+Sopimus tarjoaa noin miljoonan euron taloudellisen korvauksen, 9 000 tonnin vuosittaiset kalastusoikeudet, 1 300 bruttotonnin kuukausittaiset kalastusmahdollisuudet pohjakalalajien osalta sekä työtä 48 ranskalaiselle, espanjalaiselle ja portugalilaiselle kalastusalukselle. Komissio teki sopimuksesta kustannushyötyanalyysin, jonka mukaan pöytäkirja hyödytti merkittävästi näillä vesillä kalastavia Euroopan unionin tonnikala-aluksia: aluksille aiheutunut lisäarvo oli suuruudeltaan 1,7 miljoonaa euroa. Norsunluurannikon taloudelle aiheutuneeksi lisäarvoksi arvioitiin 2,5 miljoonaa euroa.
+<P>
+Pöytäkirjassa kannetaan kiitettävästi huolta kalastuksen kestävyydestä Norsunluurannikolla ja paikallisen perinteisen kalastuksen suojelemisesta. Tästä huolimatta pöytäkirjan tarjoamia kalastusmahdollisuuksia on nuottaa käyttäviä tonnikala-aluksia lukuun ottamatta hyödynnetty riittämättömästi, mikä on myös osoitus kaukaisilla kalastusalueilla toimivien yhteisön laivastojen nykytilasta erityisesti Portugalissa. On ehdottoman välttämätöntä arvioida tätä tilannetta ja kalastusmahdollisuuksien jakautumista. 
+<SPEAKER ID="102" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Kuten olen todennut useissa yhteyksissä, kalastus on erityisen tärkeä kysymys Portugalille. Kansallisten etujen puolustaminen on siten etusijalla tätä mietintöä koskevissa näkemyksissäni.
+<P>
+Koska viiden pintasiima-aluksemme kalastusmahdollisuudet on säilytetty, Portugalin kansallista etua on mielestäni suojeltu asianmukaisesti, minkä vuoksi äänestin mietinnön puolesta. 
+<SPEAKER ID="103" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="104" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Olen samaa mieltä esittelijän kanssa tavoitteesta yksinkertaistaa rahoitusjärjestelmää määrärahojen maksamisen tehostamiseksi ja avoimuuden parantamiseksi. Epäilen esittelijän tavoin, yksinkertaistuuko rahoitushallinto todella tulevaisuudessa. Unionissa on nimittäin otettava käyttöön kaksi rahoitushallintajärjestelmää, jotka eroavat toisistaan maksatustapojen ja maksusitoumusten osalta, ja jäsenvaltioiden on myös laadittava uusia asiakirjoja. Tämä edellyttää puolestaan hallinnollisten toimien mukauttamista, millä voi olla kielteisiä vaikutuksia maataloustuottajille ja kaikille maaseudun kehittämiseen osallistuville.
+<P>
+Yhteisen maatalouspolitiikan rahoituksen keskeinen sisältö kiteytyy sanoihin "eriyttäminen ja degressiivisyys". Tämä koskee sekä rahoituksen myöntämisen kriteerejä että yhteisen maatalouspolitiikan määrärahoja, jotka siirretään kahteen uuteen rahastoon, Euroopan maatalouden tukirahastoon ja Euroopan maaseudun kehittämisen maatalousrahastoon. Parlamentissa ja neuvostossa vuosien 2007–2013 rahoitusnäkymistä parhaillaan käytävän keskustelun perusteella näihin kohtiin ei ole odotettavissa muutoksia, itse asiassa aivan päinvastoin. Tähän mennessä ehdotetut summat ovat osoitus suurempien jäsenvaltioiden harjoittamasta omia rahoitusosuuksiaan koskevasta painostuksesta, ja kyseiset summat romuttavat tehokkaasti koheesiopolitiikan ja yhteisen maatalouspolitiikan, jolla suojellaan elintarvikeomavaraisuutta, pieniä ja keskisuuria maataloustuottajia ja maaseutua. Tämän politiikan suurimpia häviäjiä ovat Portugali sekä pienet ja keskisuuret maataloustuottajat. 
+<SPEAKER ID="105" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Yhteisen maatalouspolitiikan rahoitus on asia, josta on keskusteltava sopivana ajankohtana, ja tälle keskustelulle on asetettava selkeät tavoitteet. Koko maatalous- ja maaseutukysymys edellyttää asianmukaista harkintaa ja yksityiskohtaista keskustelua. Tässä yhteydessä on keskusteltava myös ympäristöstä ja siitä, miten voimavarojen ja taloudellisten mahdollisuuksien hyödyntämisen sekä tällaisen toiminnan kestävyyden välinen tärkeä tasapaino voidaan säilyttää. Mietinnön todelliset poliittiset vaikuttimet ansaitsevat tukeni. Kyse on yksinkertaistamisen politiikasta, jolla voidaan mahdollisesti tehostaa ja helpottaa kyseisten ohjelmien täytäntöönpanon ja varojen käytön valvomista. Tuen näin ollen käsiteltävänämme olevaa ehdotusta yhteisen maatalouspolitiikan tulevasta suunnasta huolimatta. 
+<SPEAKER ID="106" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="107" LANGUAGE="SV" NAME="Hélène Goudin ja Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen">
+<P>
+   . Tuemme periaatteessa puitesopimusta, jolla varmistetaan Euroopan parlamentin käytännön työn sujuminen sekä komission ja esimerkiksi sen asiantuntijaryhmien toimintaa koskevien tietojen saatavuus.
+<P>
+Olemme päättäneet puoltaa mietintöä huolimatta johdanto-osan A kappaleen sanamuodosta, joka on harhaanjohtava ja jossa väitetään, että perustuslain laatiminen Euroopalle syventäisi demokratiaa Euroopan unionissa. 
+<SPEAKER ID="108" LANGUAGE="EN" NAME="Timothy Kirkhope (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Kannatamme konservatiiviryhmän brittikollegojeni kanssa Euroopan parlamentin ja Euroopan komission suhteiden parantamista ja pidämme avoimuuden lisäämistä koskevia vaatimuksia erityisen myönteisinä.
+<P>
+Joissakin näistä prosesseista on kuitenkin edelleen puutteita, jotka liittyvät komission jäsenten valintaan, ja komission vastuuta on tältä osin lisättävä.
+<P>
+Näin ollen äänestin yhdessä kollegoideni kanssa tyhjää tätä mietintöä koskevassa lopullisessa äänestyksessä. 
+<SPEAKER ID="109" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Minulla on ollut useissa yhteyksissä tilaisuus puhua huomattavan yksityiskohtaisesti toimielinmallista, jota pidän tarkoituksenmukaisimpana Euroopan unionin kannalta. En näin ollen halua jälleen tehdä niin, mutta minusta oli tärkeää mainita tämä seikka.
+<P>
+Vaikka unionin ja sen toimielinten toiminnasta voidaan olla montaa mieltä, on yksi näkökohta, josta meidän on oltava yksimielisiä: yhteisön toimielinten on työskenneltävä yhdessä yhteistyön hengessä, koska siten edistetään EU:n sujuvaa toimintaa, jota minä taas kannatan täydestä sydämestäni.
+<P>
+Katson näin ollen, että edellä kuvailemieni kriteerien perusteella mietintö ansaitsee tukeni ja puoltavan ääneni. 
+<SPEAKER ID="110" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="111" LANGUAGE="EN" NAME="Seán Ó Neachtain (UEN )," AFFILIATION="kirjallinen">
+<P>
+   . Liikennevaliokunnan jäsenenä annan sataprosenttisen tukeni Kochin mietinnölle, jonka tarkoituksena on tehdä istuinten kiinnityspisteistä ja pääntuista pakollisia kaikissa ajoneuvoissa: minibusseissa, linja-autoissa, kevyissä hyötyajoneuvoissa ja tavarankuljetusajoneuvoissa. Tällaiset turvajärjestelmät otetaan käyttöön kaikissa ajoneuvoissa vuodesta 2006 alkaen.
+<P>
+Kyseinen direktiivi olisi pitänyt mielestäni antaa jo ajat sitten. On erittäin valitettavaa, että direktiivi tulee monien irlantilaisten kuljetusten käyttäjien kannalta yksinkertaisesti liian myöhään, ja olen varma siitä, että tilanne on sama myös muissa jäsenvaltioissa. Tieliikenne- ja kuljetusturvallisuuden parantamisen kannustimena toimivat valitettavasti liian usein kantapään kautta opitut järkyttävät opetukset. 
+<SPEAKER ID="112" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="113" LANGUAGE="EN" NAME="Proinsias De Rossa (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Irlantilaisessa Meathin kreivikunnassa äskettäin sattuneet traagiset tapahtumat, joissa viisi nuorta sai surmansa koulubussiturmassa, ovat osoitus siitä, että muihin toimiin ryhtymisen ohella turvavyöt ja lasten turvalaitteet on otettava pikaisesti käyttöön kaikissa linja-autoissa ja siis myös koulubusseissa. Tämä direktiivi on hyväksyttävä ja pantava täytäntöön mahdollisimman nopeasti. Komission on tutkittava perinpohjaisesti väliaikaisia poikkeuksia koskevia pyyntöjä, joita jäsenvaltioiden on esitettävä erittäin maltillisesti. Direktiivin täytäntöönpanon yhteydessä jäsenvaltioiden on myös noudatettava täysimääräisesti direktiiviä 2003/23/EY, jonka mukaan turvavöiden käyttö tulee toukokuusta 2006 alkaen pakolliseksi sellaisissa linja-autoissa, jotka on varustettu turvavöillä. Irlannissa maanantaina tapahtunut onnettomuus ei saa enää toistua. 
+<SPEAKER ID="114" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="115" LANGUAGE="EN" NAME="Piia-Noora Kauppi (PPE-DE )." AFFILIATION="">
+<P>
+    Arvoisa puhemies, olisin mieluummin äänestänyt poliittisesti vaikutusvaltaisia henkilöitä koskevaa tarkistusta 61 vastaan. Olisin halunnut säilyttää komission alkuperäisen ehdotuksen, jossa todetaan, että vain monimutkaisiin ja huomattaviin rahoitus- tai liiketoimiin osallistuneiden tai osallistuvien henkilöiden pitäisi kuulua poliittisesti vaikutusvaltaisten henkilöiden ryhmään. Komission alkuperäinen ehdotus olisi tässä kohdin ollut paljon parempi kuin nyt hyväksytty kompromissi. 
+<SPEAKER ID="116" LANGUAGE="FR" NAME="Astrid Lulling (PPE-DE )," AFFILIATION="kirjallinen.">
+<P>
+    Pelkään, että Euroopan parlamentti on tehnyt suuren virheen antamalla niin sanotun poliittisen korrektiuden sanella ratkaisujaan.
+<P>
+Rahanpesunvastainen kansainvälinen toimintaryhmä (FATF) on antanut "poliittisesti vaikutusvaltaisia henkilöitä" koskevia suosituksia. Varojen väärinkäytöksiä, joita esiintyy tietyissä maissa toisinaan jopa aivan hallinnon ylimmillä tasoilla, on tietysti torjuttava.
+<P>
+Euroopan unionilla on velvollisuus panna kyseiset suositukset täytäntöön, mutta se ei saa ryhtyä tätä pitemmälle meneviin toimiin, jotta vältetään muut mahdolliset hankaluudet. Pidän nyt hyväksyttyä "poliittisesti vaikutusvaltaisten henkilöiden" määritelmää itse asiassa yllättävän epätarkkana. Määritelmä, jonka mukaan poliittisesti vaikutusvaltaisilla henkilöillä tarkoitetaan luonnollisia henkilöitä, jotka toimivat tai ovat toimineet merkittävässä julkisessa tehtävässä, sekä heidän lähisukulaisiaan ja jopa läheisiä yhtiökumppaneitaan, on niin laaja, että herää kysymys, kukapa ei itse asiassa sopisi tähän kuvaukseen. Euroopan unionin kansalaisten ja kolmansien maiden kansalaisten rinnastaminen on vastoin kaikkia periaatteita, joihin yhteisön oikeus perustuu. Unionin jäsenvaltio ei voi rinnastaa muita jäsenvaltioita EU:n ulkopuolisiin kolmansiin maihin.
+<P>
+Talous- ja raha-asioiden valiokunta on esittänyt tältä osin erittäin tarkoituksenmukaisen ehdotuksen. Pahoittelen suuresti, että ehdotus on jäänyt vaille huomiota, koska rahanpesun vastaista taistelua ei voida käydä epämääräisellä välineellä, joka johtaa vain tehottomuuteen ja toimien hajanaisuuteen.
+<P>
+Edellä mainitsemistani syistä äänestin Nassauerin mietintöä vastaan. 
+<SPEAKER ID="117" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Pidän myönteisenä pyrkimystä ottaa asianomaisten toimien perustaksi vuonna 1991 annettu ensimmäinen rahanpesun vastainen direktiivi. On ehdottoman tärkeää ryhtyä toimiin torjuaksemme näitä rikoksia, joilla on valta heikentää EU:n rahoitusjärjestelmiä kohtaan tunnettua luottamusta ja joilla on tunnetusti läheiset yhteydet terrorismin rahoitukseen.
+<P>
+Kannatan riskeihin perustuvaa lähestymistapaa, jonka komissio on omaksunut direktiivin soveltamisalaan kuuluvia laitoksia ja henkilöitä koskevien velvollisuuksien osalta. Tämä tarkoittaa sitä, että direktiivissä ei edellytetä asiakkaan henkilöllisyyden todentamista, kun kyseessä olevissa rahasiirroissa on vain pieni rahanpesun riski. Pieni rahanpesun riski on lisäksi perusteena sille, että vain toisinaan ja rajoitetusti toimivat rahoituspalveluiden tarjoajat jätetään direktiivin soveltamisalan ulkopuolelle.
+<P>
+Vaikka rahanpesu on määritelty rikokseksi, josta seuraa rikosoikeudellisia pakotteita, direktiivin pitäisi rajoittua vain rahanpesun ja terrorismin rahoittamisen kieltämiseen ja jättää jäsenvaltioille vapaus päättää, millaisia pakotteita ne määräävät rahanpesusta ja terrorismin rahoittamisesta. 
+<SPEAKER ID="118" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Vaikka rahanpesu ei liitykään yksinomaan terrorismin rahoitukseen, totuus on, että tämä "oikeiden rikollisten rikollisuus" on avainasemassa terroristien toiminnan rahoittamisessa.
+<P>
+Eurooppa ei saa koskaan unohtaa, että terrorismi on todellinen ja jatkuva uhka, jota meidän on torjuttava. Tämä koskee sekä niin sanottua uutta terrorismia, joka on saavuttanut uudet mittasuhteet ja uudenlaista merkitystä 11. syyskuuta tehtyjen iskujen jälkeen, että vanhempia terrorismin muotoja, joita esimerkiksi ETA harjoittaa edelleen aktiivisesti Euroopassa.
+<P>
+Terrorismin torjunta edellyttää näin ollen herkeämätöntä valppautta ja järkähtämätöntä päättäväisyyttä. Lainsäädäntöä on mukautettava, mikä ei saa kuitenkaan johtaa vapauksien rajoittamiseen, oli kyse sitten yksilöllisistä tai yhteisöllisistä vapauksista. Tämä koskee sekä ilmaisunvapautta että taloudellista vapautta. Meidän on kuitenkin myös oltava tietoisia siitä, mitkä taloudellisille toimijoille asetetut vaatimukset ovat oikeudenmukaisia, järkeviä ja tehokkaita ja mitkä taas toteuttamiskelvottomia, tehottomia tai yksinkertaisesti kohtuuttomia. Meidän on varmistettava, että vapaus ja turvallisuus ovat tasapainossa keskenään ja ettei turvallisuus johda vapauden vähenemiseen tai toisinpäin. 
+<SPEAKER ID="119" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="120" LANGUAGE="SV" NAME="Hélène Goudin ja Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Mietinnössä käsitellään yhteisön strategiaa, jolla edistetään erittäin tärkeän tavoitteen eli naisten ja miesten tasa-arvon saavuttamista.
+<P>
+Olemme äänestäneet mietintöä vastaan, koska luotamme siihen, että jäsenvaltioiden kansalliset parlamentit huolehtivat tästä kysymyksestä asianmukaisesti. Vastustamme periaatteessa yleistä suuntausta, jossa EU:n toimielimet pyrkivät saamaan vaikutusvaltaa ja toimivaltaa yhä useammilla aloilla. 
+<SPEAKER ID="121" LANGUAGE="PT" NAME="Sérgio Marques (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Haluan onnitella jäsen Kratsa-Tsagaropoulouta hänen tärkeästä mietinnöstään, jossa käsitellään ehdotusta Euroopan parlamentin ja neuvoston päätökseksi naisten ja miesten tasa-arvoon liittyvää yhteisön strategiaa koskevan toimintaohjelman perustamisesta tehdyn neuvoston päätöksen 2001/51/EY ja yhteisön toimintaohjelman perustamisesta miesten ja naisten tasa-arvon alalla toimivien eurooppalaisten järjestöjen toiminnan edistämiseksi tehdyn Euroopan parlamentin ja neuvoston päätöksen N:o 848/2004/EY muuttamisesta. Pidän myönteisenä mietintöä ja erityisesti mainintaa, jonka mukaan näiden kahden ohjelman voimassaoloaikaa on tarpeen jatkaa vuoteen 2006 asti.
+<P>
+Vaikka näihin ohjelmiin onkin odotettavissa muutoksia tulevaisuudessa, tällä hetkellä on erittäin tärkeää, että Euroopan unionin kyseisellä alalla tekemää työtä tuetaan jatkuvalla ja laajennetulla toiminnalla, kunnes vuosien 2007–2013 rahoitusnäkymät hyväksytään. Tämä on tärkeää, erityisesti nyt, kun EU:ssa on 25 jäsenvaltiota. 
+<SPEAKER ID="122" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Pidän erittäin myönteisenä aloitetta naisten ja miesten tasa-arvon edistämiseksi Euroopan tasolla. Jos sukupuolten tasa-arvossa halutaan saavuttaa parempi tasapaino, meidän on varmastikin tehtävä kaikilla tasoilla työtä saman päämäärän saavuttamiseksi.
+<P>
+On tärkeää, että näissä kahdessa ohjelmassa tehtyä työtä tuetaan senkin jälkeen, kun niiden voimassaoloaika päättyy 31. joulukuuta 2005, jotta ohjelmien tärkeitä painopistealueita voidaan edistää jatkossakin. Näitä ovat esimerkiksi sama palkka, työn ja perhe-elämän yhteensovittaminen sekä sukupuoliroolit ja -stereotypiat.
+<P>
+Yhdyn tästä syystä esittelijän vaatimukseen selkeiden ja asianmukaisten varainhoitoa koskevien toimien toteuttamisesta uusien eli vuosiksi 2007–2013 laadittujen rahoitusnäkymien puitteissa kahta yhteisön toimintaohjelmaa varten. Niitä ovat naisten ja miesten tasa-arvoon liittyvää yhteisön strategiaa koskeva toimintaohjelma sekä yhteisön toimintaohjelma miesten ja naisten tasa-arvon alalla toimivien eurooppalaisten järjestöjen toiminnan edistämiseksi. 
+<SPEAKER ID="123" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Kysymystä toimintaohjelmien voimassaoloajan mukauttamisesta on käsiteltävä, jotta ohjelmien rahoitus voidaan taata, kunnes vuosien 2007–2013 rahoitusnäkymät on hyväksytty. Tämä seikka ja toimintaohjelmien suunta huomioon ottaen katson, että äänestyspäätökseni pitäisi kuvastaa mietinnön sisältöä, minkä vuoksi annan tukeni mietinnölle. 
+<SPEAKER ID="124" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="125" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Olen erityisen kiinnostunut tieliikenneturvallisuuteen liittyvistä kysymyksistä liikennevaliokunnan jäsenenä ja varapuheenjohtajana sekä yleisemmällä tasolla.
+<P>
+Tästä syystä, ja kun otetaan huomioon, että mietinnössä esitetään järkeviä ja toteuttamiskelpoisia ehdotuksia, äänestin mietinnön puolesta. 
+<SPEAKER ID="126" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="127" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Olemme erittäin pettyneitä siihen, että kun mietinnöstä äänestettiin, siitä poistettiin tärkeä artikla, joka koski ravitsemus- ja terveysväittämiin liittyviä rajoituksia. Kyseissä artiklassa komissiota kehotettiin vahvistamaan eri elintarvikkeiden ravintosisältötyyppi, jota niiden on vastattava, jotta ravitsemus- tai terveysväittämiä voidaan esittää. Ravintosisältötyyppi vahvistetaan viittauksilla rasvan, tyydyttyneiden rasvahappojen, sokereiden ja suolan/natriumin määriin elintarvikkeissa.
+<P>
+Pahoittelemme myös sitä, että parlamentti on vesittänyt sellaisia tilanteita koskevat säännökset, joissa terveysväittämät ovat sallittuja. Komission alkuperäisessä ehdotuksessa terveysväittämät olisi hyväksyttävä tai todistettava tieteellisesti. Äsken hyväksytyssä tarkistuksessa taas todetaan, että vain toimivaltaiset viranomaiset saavat tiedon terveysväittämien käytöstä ja että terveysväittämiä tutkitaan vain, jos niiden todenmukaisuudesta on epäilystä. Tätä menettelyä perustellaan sen vaivattomuudella, mutta totuus on, että häviäjiä tässä prosessissa ovat kuluttajat.
+<P>
+On erittäin tärkeää, että kuluttajille annetaan tietoa ja että heitä suojellaan. Tätä oikeutta on puolustettava sellaisten tahojen taloudellisia etuja vastaan, jotka asettavat kustannusten leikkaamisen etusijalle välittämättä kuluttajille mahdollisesti aiheutuvasta vahingosta. 
+<SPEAKER ID="128" LANGUAGE="SV" NAME="Hélène Goudin ja Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen">
+<P>
+   . Sisämarkkinat edellyttävät yhteistyötä ja jäsenvaltioiden lainsäädännön yhdenmukaistamista. On kuitenkin tärkeää ottaa huomioon suhteellisuusperiaate lainsäädännössä sekä kansallisten parlamenttien asema ja merkitys. Katsomme, että jäsenvaltioiden pitäisi ensisijaisesti päättää elintarvikkeiden ravitsemus- ja terveysväittämiä koskevista säännöistä.
+<P>
+Suhtaudumme kriittisesti joihinkin komission ehdotukseen sisältyviin artikloihin, kuten esimerkiksi 4 artiklaan; sen mukaan komissiolla pitäisi olla oikeus vahvistaa eri elintarvikkeiden ravintosisältötyyppi, jota niiden on vastattava, jotta terveysväittämiä voidaan esittää mainonnassa. Sama pätee 11 artiklaan, jossa säädetään, mitkä epäsuorat terveysväittämät ovat kiellettyjä. Euroopan parlamentti on kuitenkin esittänyt mietintöön useita myönteisiä tarkistuksia, minkä vuoksi olemme päättäneet tukea mietintöä kokonaisuutena. 
+<SPEAKER ID="129" LANGUAGE="FR" NAME="Françoise Grossetête (PPE-DE )," AFFILIATION="kirjallinen.">
+<P>
+    Äänestin tämän asetuksen puolesta.
+<P>
+Elintarvikkeista esitetään nykyään aivan liian monia väittämiä, mikä vain hämmentää kuluttajia heidän tehdessä valintojaan. Joillakin hyvin yleisillä väittämillä, kuten "terveellinen" tai "hyväksi sinulle", ei ole lisäksi mitään tieteellistä pohjaa, ja ne voivat jopa johtaa ostajia harhaan.
+<P>
+Tästä syystä minusta on aivan oikeudenmukaista, että ravitsemusväittämillä varustettuja elintarvikkeita myyvien pitäisi myös pystyä perustelemaan väittämät. Juuri tässä hengessä asetus laadittiin.
+<P>
+Kyseisessä järjestelmässä ei kuitenkaan saa rangaista paikallisia tuottajia eikä pieniä ja keskisuuria yrityksiä. Kannatankin toimia, jotka koskevat erityisen tuen antamista pienille ja keskisuurille yrityksille asiakirjojen laatimista ja menettelyn aiheuttamia kustannuksia varten. 
+<SPEAKER ID="130" LANGUAGE="FR" NAME="Astrid Lulling (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Vastustan viinin sisällyttämistä elintarvikkeiden ravitsemus- ja terveysväittämiä koskevaan asetusehdotukseen, jonka 4 artiklassa kielletään kaikki ravitsemus- ja terveysväittämät juomissa, jotka sisältävät yli 1,2 tilavuusprosenttia alkoholia.
+<P>
+Viinien päällysmerkintöjä säädellään jo erittäin tiukoilla säännöillä. Tutkijat ovat lisäksi tunnustaneet kohtuullisen viininkäytön hyödyt. Viini on elintarvike ja hyvää oloa tuottava juoma: se rauhoittaa hermoja, edistää ruoansulatusta, ei aiheuta allergioita ja voi ennaltaehkäistä tehokkaasti verisuonisairauksia, syöpää ja dementiaa.
+<P>
+Lienette kanssani samaa mieltä siitä, että olisi sääli, jos kuluttajille ei voitaisi painottaa viinin hyödyllisiä vaikutuksia eikä kertoa sitä tosiasiaa, että viini voi minkä tahansa elintarvikkeen tai juoman tavoin olla osa terveellistä ruokavaliota ja edistää kohtuullisesti käytettynä henkilön yleistä hyvinvointia.
+<P>
+Totean lopuksi, että viini on osa eurooppalaista perinnettä, joka ulottuu tuhansien vuosien päähän. Kukin Euroopan maa on vuosien saatossa omaksunut tämän tavan omien ruokailutottumustensa mukaisesti.
+<P>
+Ravitsemus- ja terveysväittämien kieltäminen kaikissa EU:n jäsenvaltioissa tarkoittaisi sen suhteen sivuuttamista, joka kullakin EU:n jäsenvaltiolla on tähän perinteiseen tuotteeseen. Tällainen kielto voisi lisäksi vahingoittaa tärkeää eurooppalaista teollisuudenalaa, joka on parhaillaan ennennäkemättömässä kriisissä. 
+<SPEAKER ID="131" LANGUAGE="NL" NAME="Toine Manders (ALDE )," AFFILIATION="kirjallinen">
+<P>
+   . Katsoin tarpeelliseksi puoltaa äänestyksessä tarkistusta 29, jossa poistetaan komission ehdottama elintarvikkeiden ravintosisältötyyppi. Ymmärrän jäsen Maatenin eriävän näkemyksen, koska hänen odotetaan Euroopan liberaalidemokraattien liiton ryhmän varjoesittelijänä tukevan sovittua ryhmäkantaa.
+<P>
+Elintarvikkeiden ravitsemus- ja terveysväittämiä koskevana pääperiaatteena pitäisi olla se, ettei ole olemassa hyviä tai huonoja elintarvikkeita, vain hyviä tai huonoja ruokavalioita. Elintarvikkeiden ravitsemus- ja terveysväittämien on perustuttava tieteelliseen näyttöön, eikä niiden tarvitse vastata hallinnon määräämää eri elintarvikkeiden ravintosisältötyyppiä. Elintarvikkeiden yhdenmukaiset ravintosisältötyypit ovat lisäksi ristiriidassa EU:n jäsenvaltioiden erilaisten elintapojen ja ruokailutottumusten kanssa. Ravintosisältötyyppien käyttöönotto edellytyksenä ravitsemus- ja terveysväittämien esittämiselle elintarvikkeissa loukkaa siis toissijaisuus- ja suhteellisuusperiaatetta. Vastustan ravintosisältötyyppejä myös siksi, että niiden käyttöönotto merkitsee kohtuutonta hallinnollista taakkaa pienille ja keskisuurille yrityksille, joilla on todellakin vahva asema elintarviketeollisuudessa. 
+<SPEAKER ID="132" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="133" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Kannattamamme talousmalli mahdollistaa toisaalta vapauden ja aloitteellisuuden ja toisaalta valtiollisen valvonnan. Tällä valvonnalla varmistetaan niiden perussääntöjen noudattaminen, joilla luodaan objektiiviset edellytykset sille, että kuluttajat voivat tehdä valintansa tietäen, mitä valitsevat.
+<P>
+Äänestin käsiteltävänämme olevan asetusehdotuksen puolesta, koska se on yhdenmukainen tämän tavoitteen kanssa. 
+<SPEAKER ID="134" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="135" LANGUAGE="DA" NAME="Jens-Peter Bonde (IND/DEM )," AFFILIATION="kirjallinen">
+<P>
+   . Ravitsemus- ja terveysväittämät.
+<P>
+Tänään on äänestetty ratkaisevista kysymyksistä, jotka liittyvät Tanskan ympäristö- ja terveysoloihin.
+<P>
+Meillä Tanskassa harjoitetaan terveyspolitiikkaa, joka perustuu terveellisiä ja luonnonmukaisia elintarvikkeita sisältävään tasapainoiseen ruokavalioon. Tämä tarkoittaa sitä, että olemme Tanskassa toistaiseksi onnistuneet pitämään voimassa kieltomme, jotka koskevat terveysväittämiä, keinotekoisesti lisättyjä ainesosia sisältäviä elintarvikkeita sekä vitamiinien ja kivennäisaineiden lisäämistä elintarvikkeisiin.
+<P>
+Elintarvikkeita koskeva laaja-alainen vapauttaminen on vähitellen tehnyt elintarvikealan tiukasta sääntelystä ehdottoman tarpeellisen hyvin monessa EU:n jäsenvaltiossa. Sääntelyn tarkoituksena on taata kuluttajien turvallisuus ja terveys sekä suojella sitä. Kansanterveys ja kuluttajansuoja kulkevat käsi kädessä.
+<P>
+Haluamme ylläpitää Tanskassa korkean suojelun tason, mikä kuitenkin edellyttää kansallisten järjestelyjemme säilyttämistä. Tanskassa on muun muassa kielletty terveydelle haitallisten vitamiinien ja kivennäisaineiden tarpeeton lisääminen elintarvikkeisiin. Vain näin voimme varmistaa, että kansalaisillamme on terveystakeet, joihin heillä on oikeus.
+<P>
+Kiitos äänistänne ja kiitos tästä puheenvuorosta. 
+<SPEAKER ID="136" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="137" LANGUAGE="SV" NAME="Hélène Goudin ja Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Päätöslauselmassa esitetään jäsenvaltioiden työllisyyspolitiikkojen suuntaviivat. Vaikka monet ehdotuksista ovat järkeviä, EU:n ei mielestämme pitäisi puuttua tähän alaan. Työllisyyspolitiikasta päätetään parhaiten jäsenvaltioissa jokaisen maan erityisolojen mukaisesti. 
+<SPEAKER ID="138" LANGUAGE="FR" NAME="Carl Lang (NI )," AFFILIATION="kirjallinen">
+<P>
+   . Lissabonin Eurooppa-neuvostossa vuonna 2000 meille luvattiin, että Euroopan unionin taloudesta tulisi maailman kilpailukykyisin talous vuoteen 2010 mennessä. Mato Adroverin mietinnössä puolestaan todetaan, ettei Lissabonissa asetettuja kasvu- ja työllisyystavoitteita ole saavutettu, mikä ei yllätä meitä lainkaan. Emme siis näe ihmettä, jonka oli määrä tapahtua vuonna 2010.
+<P>
+Tässä ehdotuksessa uusiksi suuntaviivoiksi on lisäksi pelkästään kyse jo ties kuinka monennesta yleviä ajatuksia sisältävästä julistuksesta, joka loukkaa kädestä suuhun sosiaalisessa epävarmuudessa ja köyhyydessä eläviä miljoonia ihmisiä.
+<P>
+Näillä populistisilla ja mielikuvituksellisilla ajatuksilla hämätään ihmisiä, jotta he eivät näkisi työntekijöitä odottavaa sietämätöntä tulevaisuutta, jossa työntekijöiden oikeuksia poljetaan ja jossa yksilöiden on myytävä itsensä parhaaseen saatavilla olevaan hintaan. Samaan aikaan Kiinan tehtaat ja Brasilian viljelmät tuhoavat taloutemme, joka on harkitusti uhrattu vapaakaupan ja hallitsemattoman globalisoitumisen alttarilla.
+<P>
+Eurooppalaista todellisuutta on työpaikkojen menettäminen ja suuryritysten itään suuntautuva kultakuume, joka on vasta alkusoittoa niiden lopulliselle lähdölle Euroopasta. Todellisuutta on työpaikkojen häviäminen Euroopasta, samaan aikaan kun maahanmuuttajien virta Eurooppaan jatkuu. Hienojen sanojen sijasta on aika ryhtyä toimiin, jotta kansalliset ja yhteisön tuotteet sekä työntekijät asetettaisiin vihdoin etusijalle ja jotta näitä tuotteita ja työntekijöitä suojeltaisiin tiukemmin säännellyssä taloudessa ja työmarkkinoilla. 
+<SPEAKER ID="139" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="140" LANGUAGE="SV" NAME="Hélène Goudin ja Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen">
+<P>
+   . Emme yhdy Euroopan parlamentin perussopimus-, työjärjestys- ja toimielinasioiden valiokunnan näkemyksiin unionin ulkoisten toimien yksikön perustamisesta.Tällaisen yksikön perustaminen olisi askel kohti EU:n yhteistä ulko- ja turvallisuuspolitiikkaa, jossa jäsenvaltiot ovat luovuttaneet asianomaisen politiikan alan kokonaan EU:lle.
+<P>
+Jokaisen EU:n jäsenvaltion pitäisi mielestämme harjoittaa edelleen toivomaansa ulkopolitiikkaa, joka on muotoutunut joko kansallisen parlamentin edustajien tai vaihtoehtoisesti presidentin valinnan tai kansallisten kansanäänestysten kautta. 
+<SPEAKER ID="141" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="142" LANGUAGE="NL" NAME="Jeanine Hennis-Plasschaert (ALDE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin rajatylittäviä yhteentoimivia palveluja suorittavien, liikkuvassa työssä olevien työntekijöiden työoloja koskevaa päätöslauselmaesitystä vastaan. Päätöslauselmaesityksessä pidetään myönteisenä neuvoston direktiiviä, jolla työmarkkinaosapuolten välinen sopimus muutetaan osaksi lainsäädäntöä. Kyseinen Euroopan rautatieyhteisön (työnantajat) ja Euroopan kuljetustyöntekijöiden liiton (työntekijäjärjestöt) välinen sopimus on tarpeeton, koska meillä on jo työaikadirektiivi (2003/88), jonka soveltamisalaan liikkuvassa työssä olevat työntekijät on hienosti sisällytetty. Lisäksi Euroopan rautatieyhteisö edustaa vain niitä rautatieyhtiöitä, joilla on kansallinen monopoli jäsenvaltioissa. Komissio ei tunnustanut pienempiä rautatieyhtiöitä edustavaa Euroopan rautateiden rahtiliikennejärjestöä työmarkkinaosapuoleksi, vaikka uudessa direktiivissä asetetaan mahdottomia vaatimuksia näille pienille rautatieyhtiöille. Siinä esimerkiksi edellytetään, että liikkuvassa työssä olevan työntekijän, joka on ollut työnsä takia yhden yön poissa kotoa, on vietettävä seuraava yö kotona hinnalla millä hyvänsä. Direktiivi merkitsee jo sinänsä liiallista sääntelyä mutta myös estettä uusille markkinatoimijoille, jotka todella tarjoavat rajatylittäviä rahtikuljetuksia. Lyhyesti sanottuna tätä direktiiviä ei voida soveltaa EU:ssa, mikäli se haluaa siirtyä vähitellen tieliikennekuljetuksista rautatiekuljetuksiin ja tehdä EU:sta kilpailukykyisemmän Lissabonin strategian mukaisesti. Tämän vuoksi äänestin päätöslauselmaesitystä vastaan. 
+<SPEAKER ID="143" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="144" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Mielestäni on hyvä, että mietinnössä keskitytään EU:n ja läheisen naapurimme Venäjän suhteiden tärkeyteen. EU:n laajentumisen myötä Venäjästä on tulossa yhä läheisempi naapuri unionille. Olen samaa mieltä esittelijän kanssa siitä, että on meidän molempien etujen mukaista integroida Venäjä paremmin eurooppalaisiin rakenteisiin ja omaksua yhteinen lähestymistapa maihin, jotka kuuluvat naapuruusstrategian piiriin.
+<P>
+Jos Venäjä kuitenkin haluaa WTO:n jäseneksi, Venäjän on noudatettava WTO:n sääntöjä ja erityisesti tehtävä loppu väärentämisestä ja tavaroiden laittomasta valmistamisesta.
+<P>
+Olen esittelijän tavoin pettynyt Venäjän demokratiakehityksen ilmeiseen taantumiseen ja maan piittaamattomaan suhtautumiseen joihinkin Etyjin ja Euroopan neuvoston asiakirjoihin sisältyviin periaatteisiin. 
+<SPEAKER ID="145" LANGUAGE="PT" NAME="Luis Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Valiokunnassa käydyn mietintöä koskeneen keskustelun selkeä johtopäätös oli, että EU:lla on nyt äskettäisen laajentumisen vuoksi erilainen käsitys Venäjästä ja erilainen kokemuspohja, joka leimaa sen suhteita Venäjään.
+<P>
+EU on perinteisesti korostanut demokratisoitumista, vapauksien kunnioittamista, kansainvälisten vaatimusten noudattamista ja sellaisen talousmallin tukemista, jossa aloitevapautta ei saa sekoittaa vain harvoille kuuluvaan absoluuttiseen vapauteen tai vapauteen, joka vaihtelee sen mukaan, kuka on vallassa. Näiden perinteisten Venäjään liittyvien huolenaiheiden lisäksi useimmat EU:n uusista jäsenvaltioista esittävät omia huolenaiheitaan, joiden on ehdottomasti sisällyttävä kiinteästi suhteeseemme Venäjään.
+<P>
+Lisäksi viimeaikaisia uutisia Venäjältä voidaan tuskin kuvailla rohkaiseviksi. Maan tilanne herätti kansainvälisessä yhteisössä aluksi vähäistä huolestuneisuutta ja johti asianmukaiseen kannanottoon. Nyt kansainvälisellä yhteisöllä on kuitenkin erittäin hyvä syy olla huolissaan Venäjän tilanteesta ja suunnitelmista kansainvälisellä näyttämöllä.
+<P>
+On kuitenkin todettava, että hyvät suhteet valtavaan naapuriimme ovat erittäin tärkeät. 
+<SPEAKER ID="146" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="147" LANGUAGE="PT" NAME="Carlos Coelho (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Perusoikeuksien puolustaminen ja edistäminen on ratkaisevaa vapauteen, turvallisuuteen ja oikeuteen perustuvan alueen luomisen kannalta.
+<P>
+On vältettävä tilannetta, jossa useilla virastoilla on päällekkäisiä toimintoja ja jossa työmäärä näin ollen kasvaa. Uudesta perusoikeusvirastosta on hyötyä vain, jos sen avulla voidaan korvata tietojen keräystä koskevien mekanismien vajaus sekä seurata suuntauksia ja prosesseja, jotka eivät ole osoittautuneet toimiviksi jäsenvaltioissa. Muutoin on vaikeaa arvioida edessämme olevan haasteen todellista laajuutta ja yhteisön näitä aloja koskevan lainsäädännön tehokkuutta.
+<P>
+Tässä tehtävässä on hyödynnettävä olemassa olevia virastoja (kuten Euroopan rasismin ja muukalaisvihan seurantakeskusta, jonka toiminta on jättänyt paljon toivomisen varaa).
+<P>
+Perusoikeusviraston tehtävänä on antaa lausuntoja ja suosituksia ja olla puuttumatta päätöksenteosta vastuussa olevien toimielinten työhön.
+<P>
+Lisäksi olisi vältettävä ei-toivottuja ristiriitoja samantapaisten elinten, kuten Euroopan neuvoston ihmisoikeuskomission, kanssa.
+<P>
+Pidän myös myönteisenä sitä, että puheenjohtaja Barroso on asettanut perusoikeuksia, syrjinnän torjuntaa ja yhtäläistä kohtelua käsittelevän komission jäsenten muodostaman ryhmän laatimaan ihmisoikeuksien suojelua koskevan kattavan ja johdonmukaisen strategian. 
+<SPEAKER ID="148" LANGUAGE="SV" NAME="Hélène Goudin ja Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Mietinnössä on kyse Euroopan rasismin ja muukalaisvihan seurantakeskuksen toimivaltuuksien laajentamisesta siten, että siitä tulee ihmisoikeusvirasto. Parlamentti ei ole kunnioittanut jäsenvaltioissa järjestettyjen kansanäänestysten tuloksia ehdottaessaan perusoikeusviraston asemaa ja tehtäviä koskevia suuntaviivoja, aivan kuin perustuslaki olisi tullut jo voimaan. Uuden EU:n elimen perustaminen antamaan lausuntoja ja suosituksia ja työskentelemään tietoisuuden lisäämiseksi ihmisoikeuksien alalla, jolla Euroopan neuvosto, Etyj ja useat YK:n elimet tekevät jo erinomaista työtä, olisi lisäksi hyödytöntä ja merkitsisi tarpeetonta toimien päällekkäisyyttä.
+<P>
+Kesäkuun lista on tämän vuoksi äänestänyt mietintöä vastaan. 
+<SPEAKER ID="149" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="150" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestimme mietintöä vastaan, koska siinä keskitytään pakkomielteenomaisesti alijäämään ja vakaus- ja kasvusopimukseen, kun unionin ongelmana on enemmänkin talous kuin rahoitus. Mietinnössä ei oteta huomioon, että unionin ongelmana on kysyntä, joka edellyttää lisääntynyttä ostovoimaa ja sitä kautta korkeampia palkkoja. Mietinnössä sivuutetaan kokonaan se seikka, että meillä on todellinen taloudellinen ongelma ja että teollisuudelle annettavaa tukea on näin ollen lisättävä. Meidän on myös pikaisesti hyödynnettävä tekstiilialaa koskevia suojalausekkeita, millä voidaan pelastaa tuhansia yrityksiä sulkemiselta ja estää työttömyyttä riistäytymästä hallinnasta.
+<P>
+Meidän on myös tehtävä mahdollisimman pian perinpohjainen arvio talous- ja rahaliiton ja euron arvonnousun vaikutuksista Euroopan talouden kilpailukyvyn heikkenemiseen sekä taloudelliseen ja sosiaaliseen yhteenkuuluvuuteen.
+<P>
+Nyt tarvitaan rohkeutta hylätä vakaus- ja kasvusopimus ja korvata se kasvu- ja työllisyyssopimuksella, jossa asetetaan painopisteiksi teollisuuteen tehtävät investoinnit ja sosiaalinen kehitys.
+<P>
+EU:n on siis tehtävä radikaali politiikan- ja suunnanmuutos. 
+<SPEAKER ID="151" LANGUAGE="SV" NAME="Hélène Goudin ja Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+    Jäsen Goebbelsin valiokunta-aloitteinen mietintö on jälleen räikeä esimerkki tavasta, jolla Euroopan parlamentti yrittää muuttaa kansallisen politiikan yhteiseksi EU:n politiikaksi. Mietinnössä esitetään mielestämme monia jokseenkin järkeviä näkemyksiä siitä, miten kasvua pitäisi elvyttää, miten tärkeitä asianomaiset investoinnit ovat, miten ympäristöaloitteilla voidaan edistää talouskasvua ja miten työttömyys luo sosiaalista epäoikeudenmukaisuutta.
+<P>
+Kesäkuun lista kuitenkin katsoo, että kunkin jäsenvaltion on päätettävä itse, millaisen verojärjestelmän se haluaa tai miten siitä voisi tulla "kilpailukykyinen" maa. Jäsenvaltioiden keskinäinen instituutioiden välinen kilpailu osoittaa tulevaisuudessa, mikä järjestelmä on osoittautunut menestyksellisimmäksi. Muut jäsenvaltiot omaksuvat sitten tällaisen vakiintuneen parhaan käytännön, koska ymmärtävät sen olevan omien etujensa mukaista. 
+<SPEAKER ID="152" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="153" LANGUAGE="SV" NAME="Jan Andersson (PSE )," AFFILIATION="kirjallinen.">
+<P>
+    Tuemme mietintöä ajanjakson 2006–2010 sosiaalipoliittisesta ohjelmasta. Tulkitsemme sanamuodon, jonka mukaan lainsäädäntöaloitteella "varmistetaan vähimmäisansiot", tarkoittavan toimia, joita me Ruotsissa kutsumme sosiaaliturvaetuuksiksi, eikä minimipalkkajärjestelmän käyttöönottamista. 
+<SPEAKER ID="154" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Kuten totesimme täysistunnossa pitämässämme puheenvuorossa, sosiaalipoliittiseen ohjelmaan sisältyvät rajoittavat ehdotukset eivät ole läheskään riittäviä, mikäli aiomme luoda yli 22 miljoonaa uutta työntekijöiden oikeudet takaavaa työpaikkaa ja täyttää näin Lissabonin strategiassa asetetut tavoitteet sekä edistää köyhyysrajan alapuolella elävien 70 miljoonan ihmisen sosiaalista osallistumista.
+<P>
+Unionissa tarvitaan nyt sosiaalipoliittista ohjelmaa, jossa sitoudutaan aidosti sosiaalisen osallistumisen edistämiseen. Kevään Eurooppa-neuvoston kokouksessa sovitut suuntaviivat ja toimet olivat kuitenkin aivan päinvastaisia. Eurooppa-neuvosto nimittäin rajoitti sosiaalista osallistumista ja köyhyyden vastaista taistelua koskevat tavoitteet lasten köyhyyttä koskeviin toimiin sivuuttaen sen tosiasian, että lapsia on mahdotonta auttaa auttamatta samalla aikuisia. Eurooppa-neuvosto ei myöskään ryhtynyt käytännön toimiin edistääkseen ja arvioidakseen naisten ja miesten tasa-arvon alalla saavutettua edistystä, esimerkiksi työntekijöiden oikeudet takaavien työpaikkojen saatavuuden ja palkkojen osalta. Juuri palkkojen kohdalla tilanne on yhtä huono, ellei huonompikin, kuin aiemmin.
+<P>
+Tulojen jakautumiseen liittyvä tilanne on edelleen vakava tai jopa entisestään huonontunut. Myös työntekijöiden, eläkeläisten, käyttäjien ja kuluttajien oikeuksia on rajoitettu. Nyt heitä uhataan käsiteltävänämme olevilla direktiiviehdotuksilla, jotka koskevat työajan järjestämistä ja palvelujen sisämarkkinoiden luomista. 
+<SPEAKER ID="155" LANGUAGE="NL" NAME="Toine Manders (ALDE )," AFFILIATION="kirjallinen">
+<P>
+   . Hollannin kansanpuoluetta vapauden ja demokratian puolesta edustavat Euroopan parlamentin jäsenet katsoivat aiheelliseksi äänestää Oomen-Ruijtenin mietintöä vastaan, jossa käsitellään ajanjakson 2006–2010 sosiaalipoliittista ohjelmaa. Mietinnössä mainitaan useita asioita, joita ei pitäisi säännellä Euroopan tasolla. Tällainen on esimerkiksi ehdotus lainsäädäntöaloitteeksi eurooppalaisesta minimipalkasta. Hollannin kansanpuolue vapauden ja demokratian puolesta ei lisäksi näe, mitä hyötyä eurooppalaisen yleissivistävän ja ammatillisen koulutuksen mallin edistämisestä olisi. Nämä ovat tyypillisiä esimerkkejä Brysselin ei-toivotusta puuttumisesta asioihin; tämä heikentää jäsenvaltioiden suvereniteettia, mitä Hollannin kansanpuolue vapauden ja demokratian puolesta ei voi hyväksyä.
+<P>
+Komissiolle esitetty kehotus luoda vapaaehtoinen kehys rajatylittäville kollektiivisille neuvotteluille on yhtä lailla turha. Työmarkkinaosapuolet toimivat jo Euroopan tasolla ja voivat sopia näistä asioista keskenään paljon tehokkaammin. Pisteenä i:n päällä ovat lukuisat mietinnössä ehdotetut uudet direktiivit, joista monet estävät yrittäjiä kehittämästä toimintaansa siinä määrin, että ne vaikeuttavat merkittävästi heidän liiketoimintaansa. Tällä voisi puolestaan olla kielteinen vaikutus työllisyyteen, minkä ei pitäisi mielestäni koskaan olla sosiaalipolitiikan tarkoituksena. Hollannin kansanpuolueelle vapauden ja demokratian puolesta parasta eurooppalaista sosiaalipolitiikkaa on uusien työpaikkojen luominen. 
+<SPEAKER ID="156" LANGUAGE="PT" NAME="José Albino Silva Peneda (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Lissabonin strategian uudelleenarviointi perustuu kolmeen tekijään: kilpailukykyyn, kasvuun ja työllisyyteen.
+<P>
+Elvyttääkseen strategian sosiaalista ulottuvuutta neuvosto on esittänyt uuden sosiaalipoliittisen ohjelman (2006–2010), joka ei mielestäni vastaa ohjelmalle perustellusti asetettuja odotuksia.
+<P>
+En vastusta ohjelman perusajatusta eurooppalaisten "työmarkkinoiden" luomisesta enkä useita ehdotettuja toimia, kuten kollektiivisten rajatylittävien neuvottelujen käymistä, naisten työllistymisen edistämistä ja köyhyyden torjuntaa.
+<P>
+Kritiikkini kohdistuu muihin seikkoihin. Tämä epämääräinen, ei varsinaisesti sitova väline ei mielestäni ole tarkoituksenmukaisin tai oikeasuhtaisin vastaus kiireelliseen nykyaikaistamistarpeeseen. Nykyaikaistamisen tavoitteena on lisätä kasvua ja kilpailukykyä.
+<P>
+Sosiaalipoliittisessa ohjelmassa annetaan esimerkiksi vähän painoarvoa paikallisille talouksille sekä pienille ja keskisuurille yrityksille, joilla on keskeinen asema talouskehityksessä ja työpaikkojen luomisessa ja jotka vastaavat yli 90 prosentista Euroopan liiketoiminnasta.
+<P>
+Päällimmäinen vaikutelma tästä ohjelmasta on, että se on hyvien poliittisten aikeiden luettelo. Toisin sanoen, vaikka olenkin samaa mieltä diagnoosista, pelkään, ettei ohjelmassa suositeltu hoito ole paras mahdollinen.
+<P>
+Äänestin mietinnön puolesta, koska olen samaa mieltä siihen sisältyvistä näkemyksistä, joita komissio on esittänyt kyseisestä aloitteesta. 
+<SPEAKER ID="157" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Istunto päättyi klo 13.00.)">
+<P>
+   Julistan Euroopan parlamentin istuntokauden keskeytetyksi.

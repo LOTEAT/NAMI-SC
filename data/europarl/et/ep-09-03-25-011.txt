@@ -1,0 +1,270 @@
+<CHAPTER ID="011">
+Turvalisuse ja põhivabaduste tugevdamine Internetis (arutelu)
+<SPEAKER ID="415" NAME="Juhataja">
+- Järgmine päevakorrapunkt on kodanikuvabaduste, justiits- ja siseasjade komisjoni nimel Stavros Lambrinidise koostatud raport ettepaneku kohta võtta vastu Euroopa Parlamendi soovitus nõukogule turvalisuse ja põhivabaduste tugevdamise kohta Internetis.
+<SPEAKER ID="416" NAME="Stavros Lambrinidis">
+raportöör. - (EL) Härra juhataja, me elame ajal, mil kõik - valitsused, erafirmad ja isegi kurjategijad - püüavad leida võimalikult ulatuslikku juurdepääsu meie elektroonilistele andmetele, meie eraelule.
+<P>
+Just Internetist saab andmeid meie eraelu kohta; see on midagi, mida mõned aastad tagasi ei osatud ette kujutadagi. Samal ajal on selge, et Internet on vahend, mille abil saame kasutada oma põhiõigusi - sõnavabadust, poliitilise tegevuse vabadust, teadmiste ja hariduse vabadust ning ühinemisvabadust.
+<P>
+Vähem selge on aga see, et neid vabadusi võidakse Interneti kasutamise tagajärjel rikkuda - valitsused, erafirmad ja koguni kurjategijad võivad salaja jälgida, mida me Internetis teeme või vaatame. Ja seepärast on veelgi vähem selge see, kuidas me võime siin tasakaalu saavutada, kuidas reguleerida Internetti nii, et ühest küljest võime kasutada selle hüvesid ning teisest küljest vähendada võimalikke ohte.
+<P>
+Minu raportis püütakse nendele küsimustele vastata. Muu hulgas käsitletakse järgmist:
+<P>
+esiteks kutsutakse Euroopat üles näitama algatusvõimet üleilmse Interneti-õiguste deklaratsiooni loomisel;
+<P>
+teiseks antakse raportis märku vajadusest tõhusa, kuid proportsionaalse võitluse järele küberkuritegevuse vanade ja uute vormide vastu, nagu identiteedivargus ja intellektuaalomandi õiguste kaitse, ning tuuakse samal ajal esile, et see õigusakt ei tähenda järjekindlat järelevalvet kõikide kodanike, kahtlusaluste ja mittekahtlusaluste, õige ja vale üle, sest see oleks otse loomulikult jultunud tungimine nende eraellu;
+<P>
+kolmandaks, mis puudutab kodanike õigust kasutada Internetti, siis raportis kutsutakse valitsusi üles võimaldama sellist juurdepääsu ka kaugemate piirkondade vaesematele kodanikele;
+<P>
+neljandaks toonitatakse, et e-kirjaoskamatus on 21. sajandi uus kirjaoskamatus, nii nagu selleks olid oskamatus lugeda ja kirjutada 20. sajandil, ning seetõttu on õigus kasutada Internetti põhiõigus, mis on samaväärne õigusega saada kooliharidust;
+<P>
+viiendaks palutakse raportis võtta meetmed, et määrata kasutajate nõustumise piirid - see on oluline teema, mida ma selgitan kohe lähemalt.
+<P>
+Nõusoleku küsimus on ülimalt keeruline ja kui me ei lahenda seda praegu, valmistab see meile hiljem probleeme. Lubage mul tuua üks näide: paarkümmend aastat tagasi ei teadnud peale minu perekonna ja võib-olla ka mõne mu sõbra keegi, missugust ajalehte ma loen. Just sellepärast - see kehtib iseäranis diktatuuri oludes - püüdis salateenistus seda välja uurida, et nad saaksid minu kohta toimiku avada. Et nad saaksid öelda, et härra Lambrinidis loeb niisugust ja niisugust ajalehte, järelikult peab ta olema kas kommunist või Ameerika-meelne. Praegu jätan ma endast maha jälje iga kord, kui ma ajalehte loen. See tähendab, et erafirmad saavad koostada samalaadseid toimikuid, nad saavad luua minu profiili, võttes arvesse minu poliitilisi veendumusi, söömisharjumusi ja isegi minu tervislikku seisundit. Kas asjaolu, et ma neid veebilehti külastan, tähendab seda, et ma annan oma ühiskonnale nõusoleku minna tagasi 40 aasta tagusesse aega?
+<P>
+Meil tuleb kiiresti vastu võtta mõistlikud õigusaktid, millega saavutatakse elektroonilisel ajastul tasakaal kuritegevuse vastase võitluse ja õiguste kaitsmise vahel. Selle tasakaaluni jõudmine näib olevat keeruline, kuid tegelikult ei ole see nii. See on teostatav. Meil tuleb lõpetada küberruumi käsitlemine millenagi, mis ei kuulu meie igapäevaellu, mis on eraldiseisev. See ongi aga meie elu. See tähendab, et igasuguseid õiguseid ja tõkkeid, mida kohaldatakse õiguskaitseorganitele ja erafirmadele Internetis, tuleb kohaldada ka väljaspool seda, muidu tekib oht, et kaotame turvalisuse nimel vabadused ning lõpuks ei ole meil kumbagi - ei vabadusi ega tegelikku turvalisust.
+<P>
+Lõpetuseks edastan siirad tänusõnad kõikide fraktsioonide variraportööridele, keda ma siin parlamendis näen, nende erakordse toetuse eest. Tänan kõiki kodanikuvabaduste, justiits- ja siseasjade komisjoni parlamendiliikmeid ühehäälse toetuse eest, mille raport sai kõikidelt osapooltelt. Ootan juba väga selle heakskiitmist täiskogus.
+<SPEAKER ID="417" NAME="Ján Figeľ">
+komisjoni liige. - Härra juhataja, ma ei soovi tänada mitte ainult kogu Euroopa Parlamenti, vaid eraldi ka Stavros Lambrinidist selle olulise raporti eest, mis annab väga ajakohase panuse põhivabaduste ja turvalisuse edendamisse Internetis.
+<P>
+Samal ajal kui Internet on saavutanud tänapäeva ühiskonna- ja majanduselus järjest suurema osakaalu ning mõjutab paljusid meie eluvaldkondi, tekitab tehnika arengu tohutu kiirus märkimisväärseid probleeme, millele tuleb leida sobiv lahendus, kui me soovime kasutada kõiki Interneti ja infoühiskonna võimalusi.
+<P>
+Me jagame härra Lambrinidise muret eeskätt isikuandmete kaitse pärast, mis on Interneti-kasutajate jaoks olulisim teema. Lubage mul kinnitada, et komisjon peab jätkuvalt väga oluliseks kodanike põhiõiguste ja -vabaduste edendamist ning püüab tagada iseäranis eraelu puutumatuse ja isikuandmete kõrgetasemelise kaitse nii Internetis kui ka mujal.
+<P>
+Olen veendunud, et eraelu puutumatuse piisava kaitse poole püüdlemine ei ole vastuolus suurema turvalisuse tagamisega. Nende kahe eesmärgi suunas võib ja tulekski püüelda korraga.
+<P>
+Interneti stabiilsus ja turvalisus olid meie prioriteedid 2005. aastal infoühiskonna maailma tippkohtumisel ning me jätkame tööd nende eesmärkide nimel. Kõnealuseid teemasid tutvustatakse peagi uues strateegias, millega tahetakse kaitsta elutähtsat infoinfrastruktuuri ja suurendada Euroopa valmisolekut astuda vastu ulatuslikele küberrünnakutele ja katkestustele. Strateegia hõlmab tegevuskava, milles määratletakse Interneti stabiilsuse ja paindlikkuse põhimõtete ja juhiste propageerimise suunised.
+<P>
+Strateegia raames arendatakse koostööd kolmandate riikidega eelkõige infoühiskonna teemaliste dialoogide abil, millega suurendatakse üleilmset üksmeelt nimetatud valdkonnas. Samas on komisjon veendunud, et tagada tuleb sõnavabaduse ja teiste põhivabaduste austamine Internetis.
+<P>
+Taas ei välista need kaks eesmärki üksteist. Teie raportis käsitletakse põhjalikult võimalust arendada üleilmseid standardeid, andmekaitset ja sõnavabadust. Komisjon osaleb igal aastal andmekaitsevolinike rahvusvahelisel konverentsil ning jälgib käimasolevat tööd võimalike rahvusvaheliste tulevikustandardite kallal, mis käsitlevad eraelu puutumatust ja isikuandmete kaitset. Me oleme täielikult pühendunud ELi kodanike suhtes praegu kohaldatava kõrgetasemelise kaitse edendamisele.
+<P>
+Kui rääkida sõnavabadusest, siis püüab komisjon tugevdada seda põhiõigust rahvusvahelistel foorumitel ka edaspidi. Uusi õigusakte ei peeta selles valdkonnas praegu kuigi heaks edasiliikumise võimaluseks. Meil on juba palju sellealaseid siduvaid rahvusvahelisi dokumente. Usun, et hetkel on otstarbekas kaaluda põhjalikult hoopis seda, kuidas olemasolevaid õigusakte nõuetekohaselt jõustada. Seega seisneb küsimus rakendamises. Eelnimetatud põhjalikku kaalumisse peaks kaasama ka üleilmses kaubanduses osalejad, kellel tuleks aidata määratleda paremini oma ülesanded ja vastutuse sõnavabaduse tugevdamisel ja edendamisel üleilmses Interneti-keskkonnas.
+<P>
+Lubage mul lõpetada üldise märkusega. Arvan, et me peaksime lahti harutama need rasked probleemid, millele see raport valgust heidab, ning veenduma, et konkreetsete õiguste ja vabaduste kasutamist Internetis ei piirata ülemäära.
+<P>
+Näiteks on komisjoni 2006. aastal vastuvõetud turvalise ühiskonna strateegia põhiaspektiks olnud terviklikkus, millega tagatakse sidusrühmade vaheline koordineeritus ning tunnistatakse samal ajal, et igaüks neist rühmadest peab oma ülesandeid ja kohustusi täitma. Me kõik peame veenduma, et meie tegevus Internetis ei vähenda liialt teiste turvalisust samas keskkonnas, vaid vastupidi, suurendab seda võimalust mööda.
+<P>
+Seetõttu väljendab komisjon koostööaltilt raporti üle heameelt ja toetab seda.
+<SPEAKER ID="418" NAME="Manolis Mavrommatis">
+kultuuri- ja hariduskomisjoni arvamuse koostaja. - (EL) Härra juhataja, volinik, daamid ja härrad, kõigepealt soovin tänada raportööri Stavros Lambrinidist tema vastutusel sündinud olulise raporti eest ja tema eesmärgi eest püüda kaitsta isikuandmeid - seda põhimõtet austab enamik meist, mina isiklikult kaasa arvatud.
+<P>
+Kultuuri- ja hariduskomisjoni arvamuse koostajana olen seisukohal, et Internet on erakordne platvorm kultuuri ja teadmiste levitamiseks; ma toonitan seda sellepärast, et õnnitleda ja tänada kõiki oma austatud sõpru kultuurikomisjonist, kes hääletasid minu arvamuse poolt.
+<P>
+Näiteks muuseumide digitaalsetele arhiividele, elektroonilistele raamatutele, muusikale ja audiovisuaalsetele materjalidele pääsevad inimesed ligi igalt poolt maailmast. Kahjuks ei kaitsta suuremas osas küberruumist kultuurimaterjale piisavalt. Piraatlus on pigem reegel kui erand ning intellektuaalomandi ebaseadusliku levitamise tõttu kannatavad teoste autorid, s.t luuletajad, laulude kirjutajad, heliloojad, produtsendid ja kõik teised loomeprotsessis osalejad.
+<P>
+Piraatluse levikut soodustab kolm tegurit: tehnoloogilised vahendid ja kopeerimise madalad kulud, halvad majandusolud ja Interneti ulatuslik levik.
+<P>
+Muudatusettepanekus 4 taastatakse kultuurikomisjoni soovitus, mille kohaselt peaks kõikide asjaosaliste õiguste ja vabaduste vahel valitsema õiglane tasakaal ning Interneti laialdasest kasutusest lähtudes peaks kõik Euroopa Liidu põhiõiguste hartale tuginevad isikute põhiõigused olema alati tagatud ja kaitstud.
+<P>
+Seetõttu toetame me seda muudatusettepanekut, milles rõhutatakse, et põhiõigused on kõik võrdselt väärtuslikud ja neid tuleb ühtemoodi kaitsta.
+<SPEAKER ID="419" NAME="Nicolae Vlad Popa" LANGUAGE="RO">
+Käesolev raport on selle parlamendi liikmete koostöö tulemus. Seetõttu soovin tänada kolleege, eriti härra Lambrinidist, aga ka proua Gacekit, härra Alvarot, proua Segelströmi ja härra Mavrommatist, kellega mul oli variraportöörina meeldiv võimalus koos töötada.
+<P>
+Arvan, et raport hõlmab kõiki peamisi teemasid, mis on seotud turvalisuse ja peamiste inimõiguste tugevdamisega Internetis, sealjuures viidatakse asjakohastes kehtivates õigusaktides sätestatud õiguste kaitsele, muu hulgas nende digitaalsetele aspektidele, ning Interneti kontrollimise uute põhimõtete tunnustamisele ja arendamisele.
+<P>
+Tekstis hoitakse head tasakaalu sõnavabaduse ja eraelu puutumatuse kaitse ning vajaduse vahel jätkata võitlust küberkuritegevuse vastu; selles toonitatakse ka suurt probleemi Interneti-tegevuse liigse järelevalvega, mis võib muutuda uueks tsensuurivormiks.
+<P>
+Raportis käsitletakse ka Interneti hariduslikku külge, e-õpet, digitaalse identiteedi määratlust, tunnustatakse kasutaja õigusi tema poolt Internetis avaldatud sisule, kuid pööratakse tähelepanu ka isiklikku laadi andmete kaitsele - näiteks pakutakse kasutajale võimalust kustutada tema avaldatud sisu alatiseks.
+<P>
+Need on tundlikud teemad praeguses olukorras, kus sotsiaalsetes võrgustikes osaleb järjest enam noori - kuid mitte ainult noori. Seepärast palusin ma kolleegidel seda raportit täie kindlusega toetada.
+<SPEAKER ID="420" NAME="Inger Segelström" LANGUAGE="SV">
+Härra juhataja, ma soovin kõigepealt tänada Stavros Lambrinidist ja kõiki teisi kodanikuvabaduste, justiits- ja siseasjade komisjoni liikmeid, kes koostasid selle tulemusliku ja hästi läbi mõeldud raporti. Tahaksin avaldada tänu ka minu muudatusettepanekutele avaldatud toetuse eest. See tähendab ühtlasi ka toetust kasutajate ja tarbijate õiguste tugevdamisele.
+<P>
+Tehnoloogilisi rakendusi, näiteks Interneti-tegevuse järelevalvet käsitlev osa on väga oluline. See on hea, et Euroopa Parlament peab praegu kõige olulisemaks kodanike eraelu puutumatust ja inimõigusi.
+<P>
+Raportis tuuakse selgelt välja, et inimeste tegevust Internetis võib jälgida üksnes kuriteokahtluse korral ja kohtuotsuse alusel mingi õigusmenetluse raames. See on kodanikeõiguste järelevalve põhialus. Raport tagab vajalikud meetmed täpselt õigel ajal.
+<P>
+Mind üllatasid Euroopa Rahvapartei (Kristlike Demokraatide) ja Euroopa Demokraatide fraktsiooni ning Euroopa demokraatide ja liberaalide liidu fraktsiooni liikmete esitatud muudatusettepanekud. Need nõrgendavad kodanikuõigusi ja kahjustavad kodanike eraelu puutumatust. Nad ei ole mõelnud kriitiliselt sellele, mida tehnika areng kaasa võib tuua, kui me ei pööra sellele tähelepanu.
+<P>
+Mõistagi tuleb võidelda Interneti-kuritegevuse vastu ja niisuguse kuritegevuse vastu, kus kasutatakse ära lapsi ja noori. Siiski on selles kontekstis põhiteemaks näiteks asjaolu, et Rootsi konservatiivide valitsus võttis vastu nn FRA-seaduse, kus käsitletakse nende kodanike jälgimist, kes ei ole kurjategijad ega ole kuritegu sooritanud, ehkki olukord peaks olema vastupidi ja kodanikud peaksid jälgima hoopis meid. Selle raportiga kritiseeritakse valjuhäälselt Rootsi konservatiivide valitsust, kes trotsis kõiki vastuväiteid ja kehtestas Rootsis FRA-seaduse. Rootsi ametiasutustel on nüüd õigus jälgida inimeste tegevust Internetis ka ilma kuriteokahtluseta või üksikisikuid või ühiskonna turvalisust ähvardava ohuta.
+<P>
+Ma eeldan, et pärast homset otsust mõtleb Rootsi valitsus järele ja teeb kõik selleks, et seadus ära muudetaks. Vastasel korral on nad opositsioonis Euroopa Parlamendi ja ELi 27 liikmesriigi valitud esindajatega.
+<SPEAKER ID="421" NAME="Alexander Alvaro">
+fraktsiooni ALDE nimel. - (DE) Härra juhataja, ma soovin kõigepealt õnnitleda Stavros Lambrinidist hästi tehtud töö puhul. Ta kaasas raporti koostamisse täiel määral kõik variraportöörid ja andis endast kõik, et kompromissile jõuda.
+<P>
+Infoühiskonna tähtsaid küsimusi käsitleva raportiga tehakse suur samm niisuguse Interneti loomise suunas, mis tagab nii meie kodanike turvalisuse kui ka nende põhiõigused. Piirid vabaduse ja turvalisuse vahel ei lõppe virtuaalmaailma piiridega. Lambrinidis on võtnud oma raportis arvesse nii võitlust küberkuritegevuse vastu, lapspornot, identiteedivargust ja -pettust kui ka autoriõiguse rikkumist. Ta on püüdnud sellesse kaasata Europoli ja selgitanud, et füüsilises maailmas kehtivaid õigusakte tuleb kohaldada ka virtuaalmaailmas.
+<P>
+Samal ajal on tal õnnestunud saavutada tasakaal kodanikuõiguste kaitse, sõnavabaduse, andmekaitse ja Interneti-andmete täieliku kustutamise õiguse vahel. Kuni tänaseni talletab Internet kõik igaveseks. Mõned meist võivad olla õnnelikud, et Internetti ei olnud olemas siis, kui me olime veel 13, 14, 15 või 16 aastat vanad ja tegime nooruse rumalusi, mida me praegu ei sooviks YouTube'ist või Facebookist leida.
+<P>
+Lambrinidis on toonitanud teabe kättesaadavuse vajadust ning mis veelgi olulisem, Internetile ligipääsu ja intellektuaalomandi austamise vajadust. Ma tean väga hästi, et paljude parlamendiliikmete jaoks ei ole raport intellektuaalomandi ja autoriõiguse kaitse poolest piisavalt põhjalik. Lubage meil neid küsimusi täiendada ja esile tuua intellektuaalomandi jõustamise direktiivis.
+<P>
+Raportis selgitatakse, et mõnedes Euroopa Liidu liikmesriikides kavandatav või juba ellu viidud Interneti-tsensuur ja võrgule juurdepääsu tõkestamine on meetmed, mis ei ole meie aruka ühiskonna väärilised; samuti tehakse selles selgeks, et Euroopa Liit ei järgi totalitaarsete riikide eeskuju ega tõkesta oma kodanike juurdepääsu teabele ega kirjuta neile ette, mida nad teadma peavad.
+<P>
+Mul on hea meel, et meil on tasakaalukas raport, mis võtab arvesse infoühiskonna nõudmisi, ning ma oleksin rõõmus, kui nii minu fraktsioon kui ka teised fraktsioonid annaksid sellele homme suurima võimaliku toetuse, et me saaksime arendada välja ühiskonna huve teeniva Interneti.
+<SPEAKER ID="422" NAME="Roberta Angelilli" LANGUAGE="IT">
+Härra juhataja, daamid ja härrad, teised parlamendiliikmed on seda juba öelnud, kuid ma soovin siiski üle korrata, et Internetti ei tohiks kriminaliseerida või tsenseerida, sest see annab võimaluse suhelda, ühiskonnaelus osaleda, pakub teavet ja teadmisi; sellest hoolimata on aga vaja välja töötada üleilmne küberkuritegevuse vastu võitlemise strateegia.
+<P>
+Eelkõige tuleb kaitsta lapsi ning harida vanemaid ja õpetajaid uute võimalike võrguohtude vallas ja teha sel teemal nende hulgas teavitustööd. Need on eesmärgid, mille nimel peab Euroopa aktiivselt tegutsema, ning ma soovin õnnitleda raportööri hästi tehtud töö puhul.
+<P>
+Kuigi liikmesriikide õigusaktid sätestavad Interneti kuritarvitamise ning laste seksuaalse ärakasutamise ja lapsporno eest karistused ja suhteliselt kõrgetasemelise kaitse, tuleb lapsi veelgi paremini hoida, sest uued tehnoloogiavaldkonnad, eriti Internet, jätkavad arengut ning pedofiilid võtavad kasutusele uusi laste peibutamise viise.
+<P>
+Just sellepärast otsustasin ma esitada raporti jaoks muudatusettepaneku, milles kutsutakse eeskätt liikmesriike üles ajakohastama oma õigusakte, mis käsitlevad alaealiste Interneti-kasutust, et muuta eelkõige laste peibutamine Internetis kuriteoks, nagu on sätestatud Euroopa Nõukogu 2007. aasta oktoobri konventsioonis laste kaitse kohta seksuaalse ärakasutamise ja kuritarvitamise eest.
+<SPEAKER ID="423" NAME="Eva-Britt Svensson" LANGUAGE="SV">
+Härra juhataja, ma soovin siiralt tänada Stavros Lambrinidist tema edusammude eest, mis tagavad Interneti turvalisuse, kuid kaitsevad ja austavad samal ajal hindamatu väärtusega põhiõigusi. Ma eeldan, et nii nagu kõnealuses raportis, toetatakse meie põhiõiguste kaitsmist ka siis, kui me teeme otsuse telekommunikatsiooni paketi kohta. Selle raporti ja telekommunikatsiooni paketi vahel on selge seos. Loodan, et me oleme ühel meeles ka selles, et kodanikuvabadusi tuleb kaitsta.
+<P>
+Nagu paljud parlamendiliikmed juba ütlesid, on Internet suurendanud märkimisväärselt sõnavabaduse kasutamise võimalusi. Kodanikud, kellel puudub muidu juurdepääs kõikehõlmava meedia arutelufoorumitele, saavad Internetis võimaluse õhutada arvamust avaldama ja tõstatada teemasid. Internet on uus arvamuste vahetamise areen, mida on väga vaja poliitiliseks koondumiseks. See annab kodanikele parema võimaluse otsusetegijaid jälgida. Oluline on see, et kodanikud saavad jälgida ise seaduseandjaid ja teisi võimukandjaid. See on suurendanud teadmisi. Ennekõike annab see aga võimaluse vahetada arvamust ja võtta ühendust eri kultuuridest ja maailma eri osadest pärit inimestega.
+<P>
+Kui me seda teemat arutame, tuleb veenduda, et meil on ka tegelik sõnavabadus ja kaitse näiteks tsensuuri eest, samuti seisukohtade, teabe ja arvamuse kujundamise kontrollimise eest. Peamised inimõigused - sõnavabadus ja eraelu puutumatus - on demokraatia olulised osad ning neid tuleb kaitsta ja austada igas olukorras. Internet on seega meie moodsas demokraatlikus ühiskonnas oluline tegur ning see peab selleks ka jääma.
+<P>
+Seetõttu soovin, et me hääletaksime muudatusettepaneku 5 vastu, millega soovitakse jätta välja tekst "tagada, et vaieldavate poliitiliste veendumuste väljendamine Internetis ei too kaasa kriminaalvastutusele võtmist”. Kui see muudatusettepanek läheks läbi, vähendaks see demokraatiat. Kes otsustab, missugused on vaieldavad poliitilised veendumused? Võimalus avaldada erinevaid poliitilisi seisukohti on demokraatlik õigus.
+<P>
+Samuti on oluline Interneti-kasutajate õigus kustutada alatiseks veebilehtedel leiduvad isikuandmed. Mõistagi tuleb meil võidelda Interneti-kuritegevuse vastu, nii nagu igasuguse kriminaalse tegevuse vastu, kuid seda tuleb samuti teha juriidiliselt kehtestatud viisil kooskõlas kriminaalõigusega, nagu muud liiki kuritegude puhul.
+<P>
+Lastevastane Interneti-kuritegevus on iseäranis tõsine teema. Selles küsimuses järgime Euroopa Nõukogu konventsiooni laste kaitse kohta seksuaalse ärakasutamise ja kuritarvitamise eest. Ka teistele rühmadele avaldatakse mõju. Siinjuures pean silmas eelkõige naisi, kes on langenud seksikaubanduse ohvriks. Tänapäeva seksitööstus kasutab Internetti ja seksuaalvägivalda, mille tõttu kannatavad paljud naised ja lapsed. Sellega seoses soovin oma kolleegidele meelde tuletada, et nad saavad toetada kirjalikku deklaratsiooni, millega tahetakse see vägivald lõpetada; see on kirjalik deklaratsioon nr 94.
+<P>
+Lõpetuseks soovin veel mainida üht ohtu, mida oleme märganud seoses nn terrorivastase sõjaga. See on mõnikord toonud kaasa valitsuse põhjendamatud sõnavabaduse ja üksikisikute eraelu puutumatuse piirangud. Need on aga kujutanud endast turvariski kodanike jaoks. Eri riikide julgeolekuteenistused on vahetanud omavahel Interneti jälgimise teel saadud isikuandmeid. See on seadnud inimeste elu ohtu näiteks juhtudel, kui nad on pidanud oma kodumaalt poliitilise tagakiusamise tõttu põgenema. Ma palun tungivalt, et te toetaksite homme seda raportit.
+<SPEAKER ID="424" NAME="Hélène Goudin" LANGUAGE="SV">
+Härra juhataja, Interneti fantastilised omadused paeluvad mind ikka ja jälle, kuid üleilmne arvutivõrk ei ole Euroopa oma, ükskõik kui palju Euroopa Liit ei prooviks ka protestida. On üsna naiivne ja ebareaalne loota, et Brüsselist või Strasbourgist tulev määrus võib seda muuta. Võib õigusega väita, et Euroopa Liit ei ole see koht, kus raportis esile toodud probleeme lahendada. Lubage mul tuua mõned näited. Raportis võrreldakse õigust kasutada Internetti õigusega käia koolis. See võrdlus on siiski liiast, liiatigi kuna me teame, et õigus või võimalus käia koolis ei ole paljudes Euroopa Liidu riikides iseenesestmõistetav.
+<P>
+Üksikisikute Interneti-kasutuse õiguse kaitse ja edendamine ning tasakaal, mis tuleks saavutada eraelu puutumatuse ja turvalisuse vahel, on ülimalt olulised, kuid ka neid küsimusi ei peaks lahendama ELi tasandil. See on rahvusvaheline probleem, millega tuleks tegeleda rahvusvahelisel tasandil.
+<P>
+Teine mulle südamelähedane teema on failide jagamine. Siin palutakse meil intellektuaalomandi kaitsmisel kohaldada ühiseid karistusmeetmeteid. Olen täiesti veendunud, et liikmesriigid peaksid ise otsustama, mis on kuritegu ja missugused võivad olla selle tagajärjed, kui neid üldse on. See, et Euroopa Liit järgib täielikult muusika- ja filmitööstuse reegleid, on vastuvõetamatu, eriti kui arvestada asjaolu, et me püüame kriminaliseerida tervet põlvkonda.
+<P>
+Lõpetuseks ütlen, et igasugune katse kõnealust valdkonda reguleerida on raske, sest tehnoloogia muutub kiiremini kui poliitika.
+<SPEAKER ID="425" NAME="Urszula Gacek" AFFILIATION="PPE-DE">
+- Härra juhataja, soovin tänada raportööri selle eest, et ta võttis arvesse minu soovitust, kus arvutite tarkvara tootjaid julgustatakse võtma lisameetmeid juurdepääsu tõkestamiseks pornograafiat ja vägivalda sisaldavatele lehekülgedele.
+<P>
+See on küsimus, mille pärast tunnevad muret eelkõige lapsevanemad. On tõsi, et meie lapsed on arvutiasjades sageli asjatundlikumad kui meie. Lapsevanemad võivad teada midagi ähmaselt Interneti-brauserite filtrite aktiveerimise kohta, kuid tegelikult on vaja brauseritarkvara mõningast tundmist, samuti teadlikku otsust selline süsteem aktiveerida.
+<P>
+Kui see filter oleks aktiveeritud kujul eelinstallitud, oleks kahjuliku mõjuga veebisaitidele kogemata sattumise eest kaitstud tõenäoliselt palju rohkem lapsi, sealhulgas just kõige nooremaid, kes kasutavad Internetti järjest sagedamini omapäi. Ma pöördun tootjate poole, et nad reageeriksid meie soovitusele. Nad ei peaks suhtuma sellesse kui kohustusse või piirangusse, vaid kui turustusvõimalusse. Kui mul oleks ostmisel valida kahe võrdse arvuti vahel ja ühel neist oleks lapse turvamärgis, mis kinnitab, et filtrid on eelinstallitud, siis lapsevanemana valiksin ma viimase toote. Aja jooksul muudaksid lapsevanemad niisuguse valiku tegemisega filtrite eelinstallimise tööstusstandardiks. Loodan siiralt, et me jõuame selleni koostöös asjaomase sektoriga.
+<SPEAKER ID="426" NAME="Alin Lucian Antochi" AFFILIATION="PSE">
+- (RO) Internet on nüüdseks jõudnud uude etappi; seda ei peeta enam üksnes oluliseks majandustegevuse vahendiks, vaid üleilmseks foorumiks, kus saab avaldada erinevaid arvamusi.
+<P>
+Niisugune areng on aga kaasa toonud mitmesugust suhtumist. Ühest küljest pakub Internet jätkuvalt suurepäraseid võimalusi, kiirendades hariduslikku, kultuurilist, majanduslikku ja sotsiaalset arengut, kuid teisalt tajutakse seda vahendina, mille abil saab õhutada inimeste vabadusi ja turvalisust mõjutavatele vägivallategudele.
+<P>
+Lisaks on Internet hakanud oma üleilmse olemuse tõttu ohustama inimeste eraelu puutumatust, sest kodanike Interneti-toiminguid jälgivad sageli valitsused, politseiorganid, ettevõtted ning isegi kurjategijad ja terroristid, kelle tegevuse tagajärjeks on mõnikord koguni identiteedivargus.
+<P>
+Niisuguses olukorras tuleb kindlaks määrata juriidiline piir, millega eristatakse ühest küljest kodanike Interneti-turvalisuse ja -põhiõiguste kaitset ning teisalt nende tegevuse piiramatut jälgimist mitmesugustes ametiasutustes nii, et asjakohased õigusaktid oleks tulemuslikud ning tasakaalus kuritegevuse vastases võitluses võetavate meetmetega. Seetõttu tuleb pidevas koostöös Interneti-operaatorite ja -kasutajatega töötada välja üleilmsed andmekaitse, turvalisuse ja sõnavabaduse standardid.
+<P>
+Samuti on oluline - ja selles osas toetan ma täielikult raportööri - vaadata üle ja määrata piirangud nõusoleku suhtes, mida valitsused või eraettevõtted võivad kasutajatelt nõuda, et nood loovutaksid osa oma eraelu puutumatusest teatavate Interneti-teenuste või eeliste eest.
+<P>
+Lõpetuseks usun, härra juhataja, et liikmesriigid peavad tegema jõupingutusi, viimaks riiklikud õigusaktid vastavusse põhiõiguste kaitsmise põhimõtetega Internetis, sest see võib olla abiks küberkuritegevuse ja terrorismi vastast võitlust käsitleva ühise strateegia koostamisel.
+<P>
+Ma soovin õnnitleda härra Lambrinidist ja kogu meeskonda, kes aitas seda raportit koostada.
+<SPEAKER ID="427" NAME="Sophia in 't Veld" AFFILIATION="ALDE">
+- (NL) Härra juhataja, ma soovin lisada oma kiidusõnad nendele komplimentidele, mis on selle suurepärase raporti koostanud raportöörile juba öeldud. Ma tahaksin lühidalt peatuda mõnedel punktidel.
+<P>
+Esiteks oleme viimastel aastatel näinud, kuidas erafirmad ja valitsused talletavad järjest enam isikuandmeid. Valitsused kasutavad ettevõtete andmebaase, kuid me näeme, et esimese ja kolmanda samba raames kohaldatakse kaitset ikka veel erineval määral - see on minu jaoks väga murettekitav.
+<P>
+Teine punkt - mul on hea meel minu sellekohase muudatusettepaneku vastuvõtmise üle - käsitleb asjaolu, et ilmselgelt kasutavad ka kurjategijad Internetti igasugusel moel enda huvides. Identiteedivargused sagenevad ärevakstegeva kiirusega; seega peame paluma Euroopa Komisjonil luua sedalaadi varguste jaoks ühenduspunkt, mida ei peaks kasutama mitte ainult teabe vahetamise eesmärgil, vaid ka ohvrite abistamiseks.
+<P>
+Kolmandaks, üleilmsed standardid on tõepoolest vajalikud. Selle nimel tehakse ka juba tööd; kuid need standardid tuleb koostada avatud demokraatliku protsessi käigus, mitte Euroopa Komisjoni ametnike poolt koostöös USA ametnikega.
+<P>
+Ja lõpuks, ehkki Euroopa Komisjon räägib sageli ilusaid sõnu vabaduse ja kodanikeõiguste kohta, olen ma märganud, et volinik Frattini eestvedamisel ja nõukogu abiga on viimastel aastatel võetud lugematu hulk meetmeid, mis muudavad võimalikuks kodanike järel nuhkimise ööpäev läbi ja mille alusel piiratakse nende vabadusi. On viimane aeg, et me hindaksime toimunut ja sellest tulenevaid tagajärgi. Seetõttu tahan anda lõpetuseks komisjonile ühe soovituse: palun tulevaseks ametiajaks valida kodanikeõiguste ja -vabaduste jaoks eraldi volinik.
+<SPEAKER ID="428" NAME="Juhataja">
+- Ma andsin preili in't Veldile veidi rohkem aega, sest tal on Twitteris nelisada poolehoidjat. Minul on ainult üheksa. Nüüdseks on tal neid nelisada viiskümmend.
+<SPEAKER ID="429" NAME="Jean-Paul Gauzès" AFFILIATION="PPE-DE">
+- (FR) Härra juhataja, volinik, daamid ja härrad, ma räägin meie kolleegi Jacques Toubon' nimel.
+<P>
+Soovin kõigepealt tänada kolleeg Vlad Popat, kes on teinud suurepärast tööd, et saavutada meile kõigile vastuvõetav kompromiss, hoolimata mõnede Euroopa Parlamendi Sotsiaaldemokraatide fraktsiooni ja Roheliste / Euroopa Vabaliidu fraktsiooni liikmete äärmuslikest seisukohtadest selle teema suhtes.
+<P>
+Raportis tõstatatakse oluline küsimus, kuidas saavutada Internetis tasakaal turvalisuse ja põhivabaduste vahel. Tõepoolest, ehkki see uus tehnoloogia on paljude jaoks edu ja võimaluste sünonüüm, hõlmab see siiski teatavaid riske. Näiteks on tähtis tagada sõna- ja teabevabadus selles uues keskkonnas, kuid samal ajal kindlustada teiste põhiõiguste - näiteks inimeste eraelu puutumatuse ja isikuandmete kaitsmise ning intellektuaalomandi õiguste - austamine.
+<P>
+Raportöör Lambrinidis, kes on teinud suurepärast tööd, on võtnud seega arvesse uusi Interneti-kuritegevuse liike ning ohte, mida see kätkeb endas eelkõige laste jaoks. Kahjuks on aga raport teistes küsimustes ebamäärasem ja isegi ohtlik.
+<P>
+Proua Hieronymi, härra Mavrommatise ja Jacques Toubon' esitatud muudatusettepanekute eesmärk on teha selgeks, et põhivabaduste rünnakuid ei tohiks õigustada sõna- ja teabevabadusega.
+<P>
+Liikmesriigid ja Interneti-operaatorid peaksid jätma veidi manööverdamisruumi parimate lahenduste leidmiseks, tagamaks, et ühtede inimeste õigused ei takista teistel täielikult enda omasid kasutamast. Õigusakte tuleb Interneti puhul kohaldada samamoodi nagu igal pool mujal. Internet ei saa olla virtuaalne ruum, kus tegelikus maailmas kuritööks peetav tegu oleks lubatav ning seda saaks isegi kaitsta lihtsalt tehnoloogia mõjuga ja viisiga, kuidas seda kasutatakse. Kaalul on meie demokraatlike ühiskondade õigusriigi põhimõte.
+<SPEAKER ID="430" NAME="Manuel Medina Ortega" AFFILIATION="PSE">
+- (ES) Härra juhataja, soovin õnnitleda kolleegi ja sõpra härra Lambrinidist tema koostatud raporti puhul ja samuti üsna tasakaaluka suulise selgituse puhul selle kohta, millised on tema püüdlused seoses selle raportiga.
+<P>
+Ma võtsin kaasa ühe raamatu; selleks on "Euroopa põhiseaduse leping”. Raamatu sisu kiitis heaks 90% Hispaania valijatest ja enamik meie, Euroopa Parlamendi liikmete kodumaade parlamentidest.
+<P>
+Teatavate poliitilist laadi keerukuste tõttu jäi see leping jõustamata, kuid see kujutab endast otsustava tähtsusega teksti, sest see sisaldab - mina isiklikult näen seda valijate antud volitusena - Euroopa Liidu põhiõiguste hartat. Minu arvates kätkeb see harta põhimõtteid, mida härra Lambrinidis on oma raportis käsitlenud.
+<P>
+Esiteks on Internet vabaduse, modernismi ja võrdsete võimaluste keskkond, kus inimesed suhtlevad üksteisega, käivad üksteisega läbi, edastavad üksteisele teavet, vahetavad mõtteid ja jagavad teadmisi. Seda õigust tunnustatakse Euroopa põhiseaduse lepingu artiklis II-71.
+<P>
+Teiseks peaks Internetis kaitsma infoühiskonna vabadust ja arengut nii, et see oleks vastavuses intellektuaalomandi austamise ja kasutajate eraelu puutumatuse kaitsmise põhimõtetega. Intellektuaalomandi õigusi ja ka kasutaja õigust eraelu puutumatusele on konkreetselt nimetatud Euroopa põhiseaduse lepingu artiklis II-77.
+<P>
+Kolmandaks tuleb meil leida tasakaal ühest küljest õiguste kaitse, pakkumise sisu edendamise ja õigusteenuste Interneti-turu digitaalse sisu ning teisest küljest uusi, Internetis tutvustatavaid ettevõtlusmudeleid soosiva arengu vahel. Samuti peame tegelema isikuandmete kaitsega, mis sätestatakse põhiseaduse eelnõu artiklis II-68.
+<P>
+Seega arvan, et Lambrinidise raport hõlmab neid probleeme. Selles ei peatuta küll Interneti kuritarvitamise tingimuste, nõuete, tagajärgede ja karistuste üksikasjadel, kuid ma arvan, et seda tuleks teha õigusloomega seotud dokumendis, mille üle me praegu veel ei arutle.
+<SPEAKER ID="431" NAME="Claire Gibault" AFFILIATION="ALDE">
+- (FR) Härra juhataja, volinik, daamid ja härrad, kunstnikuna kurvastab ja rabab mind härra Lambrinidise raportis puuduv huvi kultuurisektori vastu.
+<P>
+Rõhutaksin, et me peame kooskõlas Euroopa Liidu põhiõiguste hartaga kaitsma kogu aeg kõiki üksikisikute õigusi ning meil tuleks tagada iga asjaosalise õigused ja vabadused. Infoühiskond on järjest olulisem majandussektor, kuid samas ka tähtis uuenduste ja loovuse allikas, mis toetab tänapäevast majandust.
+<P>
+See tähendab muu hulgas, et ühenduse õiguse järgi peab olema tagatud juurdepääs mitmekesisele kultuurile ja haridusele ning autorite ja artistide loomingut tuleb ka digitaalmajanduses nõuetekohaselt tunnustada. Niisugune tunnustamine tähendab aga neile tasu maksmist nende loomingu kasutamise eest mis tahes viisil, et nad saaksid elatuda oma kutsetegevusest ja pühenduda täielikult sellele.
+<P>
+Sellega seoses ei tohiks intellektuaalomandi õigusi pidada takistuseks, vaid vastupidi, loometöö tõukejõuks - eriti uute võrguteenuste arendamise taustal.
+<P>
+Samas aga arvan, et isegi Internetis tuleks rassistlike, vihkamisele õhutavate ja revisionistlike sõnumite levitamise eest vastutust kanda. Sõnavabadust tuleb kasutada vastutustundlikult. Interneti kättesaadavuse vabaduse, eraelu puutumatuse austamise ja intellektuaalomandi kaitsmise vahel tuleb saavutada õige tasakaal. Seetõttu, daamid ja härrad, kutsun teid üles toetama minu muudatusettepanekuid 2-6.
+<SPEAKER ID="432" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+- (EL) Härra juhataja, meie jaoks on saanud juba peaaegu harjumuseks vaadelda iga täiskogu ajal Interneti-teemalist raportit. See on hea, sest see annab liikmesriikidele ja Euroopa Liidule võimaluse leida viimaks tõhus lahendus Interneti kasutamisega seotud päevakajalistele probleemidele. Õnnitlen oma head sõpra härra Lambrinidist selle puhul, et ta nõustus lisama parlamendiliikmete muudatusettepanekud oma põhjalikku raportisse, tänu millele tekkis teema arutellu mitu uut aspekti.
+<P>
+Viimasel korral vaatles Euroopa Parlament küsimusi, mis olid seotud videomängudega Internetis, alaealisi ähvardavate ohtudega ja Euroopa Liidu rahastamismehhanismidega, mille abil muudetakse Internet alaealistele ohutuks. Tänane arutelu veenab mind järjest enam selles, et lõppanalüüsis taandub kõik lõpuks õiguspõhimõtetele.
+<P>
+Seetõttu arvan, et ainus, mida me peaksime nõudma, on paljude Interneti kasutamise probleemide juriidilise tasandi uuring. Raport oleks seega kasulik dokument, mida peaksid põhjalikult analüüsima õiguseksperdid, kes viiksid seejärel uuringu tulemused ellu; need tulemused oleksid mitme raportis nimetatud sidusrühma jaoks kasulik vahend, mille abil koostada õigusakt, mis kaitseb Interneti kasutamisel demokraatlikult õigusriigi põhimõtet. Mõistagi ei saa me rääkida demokraatiast, kui kõikidel kodanikel, hoolimata nende finantsolukorrast, ei ole õigust Internetti kasutada. Praegu ei ole need asjad veel korras, kuid loodame, et tulevikus on.
+<SPEAKER ID="433" NAME="Katrin Saks" AFFILIATION="PSE">
+- (ET) Head kolleegid. Kas teie kujutate elu ette ilma Internetita? Mina igatahes enam ei kujuta. Ma olen Eestist, mis on Interneti levi poolest maailmas esirinnas. Ja ilmselt seetõttu on meil ka rohkem kogemusi Interneti-ohtudega, alates kaks aastat tagasi riigi vastu suunatud kübersõjast, kuni selleni, et meie lapsed on langenud sagedamini kui paljud teised küberkiusamise ohvriks, nagu näitavad rahvusvahelised uuringud.
+<P>
+Mitme viimasel ajal vastuvõetud raportiga on Euroopa Parlament otsinud tegelikult vastust küsimusele: mis on Internet? Aktuaalsem küsimus täna on ehk see, kas Interneti-maailm on justkui eraldiseisev ruum - virtuaalne maailm - mis ei kuulugi pärisellu, või on see osa meie avalikust maailmast? Seda kajastab ka kolleeg Lambrinidis oma raportiga, kui ütleb, et meie põhiülesanne on leida sobiv tasakaal privaatsuse ja turvalisuse vahel.
+<P>
+Interneti-õiguste piiramise puhul kasutatakse koheselt sõnavabadust, see kätkeb endas õigust vabalt levitada ideid, arvamusi, veendumusi ja muud informatsiooni, aga see tähendab ka vastutust. Tänan raportööri ja soovin kõigile meile jõudu, et me suudaksime leida vastuse küsimusele: mis asi on Internet ja kas ja kuidas seda reguleerida? Et Internet on globaliseerumise üks selgemaid märke, siis on siin vaja ka rahvusvahelist lähenemist.
+<SPEAKER ID="434" NAME="Filiz Hakaeva Hyusmenova" AFFILIATION="ALDE">
+- (BG) Daamid ja härrad, raporti sisu on täielikus vastavuses selle pealkirjaga. See hõlmab Euroopa Liidu põhiõiguste hartas ja ÜRO lapse õiguste konventsioonis sätestatud õigusi ning selle eesmärk on kaitsta lapsi kuritegevuse eest. Õnnitlused raportöörile.
+<P>
+Internet on maailm, kus ilmnevaid asjaolusid ei määratleta otseselt õiguste ja vabaduste rikkumisena või nendevastaste kuritegudena. Võimalused avaldada arvamust, leida teavet ja sõlmida sotsiaalseid sidemeid asenduvad sageli vastupidise tegevusega. Internet on viljakas keskkond, kus saab regulatsioonidest mööda minna ja mõtteid piiranguteta avaldada.
+<P>
+Anonüümsust pakkuvates ja kontrollivabades oludes käitutakse keelevahendite valimisel ja kasutamisel sageli vastutustundetult. Keelepruuk on sageli läbi imbunud slängist, küünilistest ja isegi vulgaarsetest väljenditest. Need kasvavad umbusalduse ja viha kandjateks, need võetakse üle igapäevasesse tarvitusse, nad muutuvad järeleaimatavaks eeskujuks ja kujundavad teatavat hoiakut.
+<P>
+Niisugune keelekasutus ei edenda lapse sotsiaalset, vaimset ja moraalset heaolu ega raja teed kultuuri ja väärtusteni. Seetõttu juhin ma tähelepanu vajadusele koostada Interneti-keele kohta eraldi analüüs ja uurida selle mõju lapse isiksuse arengule.
+<SPEAKER ID="435" NAME="Csaba Sógor" AFFILIATION="PPE-DE">
+- Härra juhataja, ma olen üks nendest inimestest, kes soovib, et Interneti-vabadus jääks kestma. Interneti loojatel oli suur usk inimeste loomulikku headusse ja ma kaldun nende usku jagama. Kahjuks peame aga Internetis, nagu ka igasuguses inimühiskonnas, seisma sageli vastamisi kurva tõsiasjaga, et nende kaitsmiseks, kes ei suuda ennast ise kaitsta, tuleb kehtestada õigusnormid. Üksikisiku turvalisus on samasugune põhiõigus nagu õigus sõnavabadusele ja eneseväljendusele.
+<P>
+Lõpetada tuleb niisugused põlastusväärsed nähtused nagu lapsporno ja pedofiilia, aga ka Interneti-pettused. Me ei saa sallida mitte ühtegi Interneti-kurjategijat ja kuna see teema on praegu meie huvi keskmes, soovin juhtida teie tähelepanu ühele tunduvalt vähem arutamist leidnud asjaolule - nimelt on Internetis hulgaliselt lehekülgi, mis õhutavad vihkamisele, vägivallale ja sallimatusele igasuguste vähemuste, sealhulgas etniliste vähemuste vastu. See on üks Internetiga seonduvaid aspekte, mis vajab meie tähelepanu. Me peame veenduma, et ka vähemused tunnevad end kaitstuna. See on vastuvõetamatu, et paljud äärmuslikud rühmitused kasutavad Internetti vihkamise ja ksenofoobia õhutamiseks.
+<SPEAKER ID="436" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
+- (PL) Härra juhataja, soovin juhtida tähelepanu mitmele Internetiga seotud probleemile.
+<P>
+Esiteks soovin nimetada isikuandmete ja konfidentsiaalsuse kaitset e-hääletusel, mis võimaldab puudega inimestel kasutada oma kodanikuõigusi. Teiseks mainin intellektuaalomandi kaitset seoses loominguga, mida saab Interneti kaudu hõlpsasti edastada. Kolmas teema puudutab laste kaitsmist brutaalse ja pornograafilise sisuga stseenide ja muu kahjuliku sisu eest asjaomaste filtrite ja lapsevanemate harimise kaudu. Neljas küsimus on laste kaitsmine pedofiilide ja inimröövijate eest ning võimalus jälitada kurjategijaid Internetti jäetud jälgi mööda, näiteks pedofiili aadressi või kuritegude salvestiste järgi, mis on mobiiltelefonidega tehtud ja seejärel Internetti postitatud. Kui ühe Saksamaa noormehe Interneti-avaldustele oleks tähelepanu pööratud, oleksid tema ohvrid - õpilased ja õpetajad, keda ta tulistas - veel elus. Järgmine küsimus, mis on tegelikult kõige olulisem, puudutab sõnavabaduse austamist ja selles osas tuleb seadust järgida täpselt samamoodi nagu kõikides teistes valdkondades. Mõned nendest probleemidest nõuavad uusi tehnilisi lahendusi. Ma õnnitlen raportööri.
+<SPEAKER ID="437" NAME="Ján Figeľ">
+komisjoni liige. - Härra juhataja, ma soovin tänada kõiki sõnavõtjaid nende asjakohaste ja huvitavate märkuste eest. Ma soovin lisada vaid kaks tähelepanekut selle kohta, mida ma alguses ütlesin. Me oleme näiteks ühel meelel intellektuaalomandi õiguste ja tasakaalustatuse vallas, mis on selles valdkonnas vajalik. See on oluline infoühiskonna üldise evolutsiooni - või arengu - pärast. Nende omandiõiguste jõustamine peab olema sobivas tasakaalus raportis loetletud põhivabaduste ja -õigustega, sealhulgas õigusega eraelu puutumatusele, isikuandmete kaitsele ja infoühiskonnas osalemisele.
+<P>
+Paljud teist nimetasid lapsi - alaealisi -, kes puutuvad tõenäoliselt nende probleemidega enim kokku, sest nad istuvad iga päev arvuti taga, ja nende kaitset. Siinjuures ma mitte ainult ei soovita, vaid palun tungivalt partneritel, liikmesriikidel ja institutsioonidel teha koostööd ajavahemikuks 2009-2013 koostatud turvalisema Interneti programmi raames. Selle eelarve on üsna märkimisväärne. Võetud on juba meetmeid kaitseks kohatu ja ebaseadusliku sisu eest, kuid ka kahjuliku käitumis- või toimimisviisi, näiteks juba nimetatud laste peibutamise või Interneti-kiusamise eest.
+<P>
+Probleeme on palju, kuid mina toetaksin riiklikke või rahvusvahelisi kohustusi käsitlevate põhjalike tegevuskavade rakendamist. Meil on direktiiv eraelu puutumatuse ja elektroonilise side kohta, palju konkreetseid meetmeid või tegevuskavasid ning Euroopa elutähtsate infrastruktuuride kaitse programm. Sellepärast ei vaja me rohkem õigusakte, vaid pigem nende nõuetekohast ja piisavat rakendamist ning seejärel loomulikult täiendusi ja parandusi. Keegi nimetas asjakohaselt telekommunikatsiooni paketti. Eilne kolmepoolne kohtumine annab lootust, et lõplik kokkulepe saavutatakse.
+<P>
+Tahan lõpetuseks öelda, et tänavune aasta on kuulutatud Euroopa loovuse ja innovatsiooni aastaks ja selle tunnuslause on "Kujutle. Loo. Uuenda.”. Me ei kujuta maailma küll ilma Internetita ette, kuid see tuleks muuta kujutlemise, loomise ja uuendamise teel turvalisemaks, humaansemaks ja vastutustundlikumaks.
+<SPEAKER ID="438" NAME="Stavros Lambrinidis">
+raportöör. - Härra juhataja, ma soovin komisjoni tänada. Kuna ma loen paberilt maha, siis teen ma seda erandkorras inglise keeles, et teha tõlkide elu lihtsamaks.
+<P>
+Ma austan nende inimeste tundmusi, kes on mures intellektuaalomandi kaitse pärast. Mulle on jäänud aga mulje, et nad peavad lahingut vale raporti raames. Minu raport ei käsitle vaid üht teemat; see on raport, milles räägitakse põhiõiguste ja turvalisuse kaitsest Internetis üldiselt ja seetõttu on see saanud ka ühehäälse toetuse.
+<P>
+Kuna aga raportis ei käsitleta intellektuaalomandi õigusi, võib mõnda sõnavõttu kuulates jääda mulje, et raportis eiratakse neid. Lubage mul teile ette lugeda, kui tasakaalukad püüdsime me selle raportiga olla. Lõike 1 punktis k palume me nõukogul "jätkata tööd, et võtta vastu direktiiv kriminaalmeetmete kohta intellektuaalomandi õiguste jõustamiseks, lähtudes tänapäevastel innovaatilistel teadusuuringutel põhinevast hinnangust selle kohta, millisel määral see on vajalik ja proportsionaalne”. Niimoodi on raportis kirjas.
+<P>
+Muudatusettepanekud on aga kõike muud kui tasakaalustatud. Ettepanekud, mis tühistavad raportis esitatud nõude keelata kõikide kasutajate süstemaatiline jälgimine hoolimata sellest, kas nad on kahtlusalused või mitte ja kas nad on süüdi või mitte, et kaitsta igasugust õigust turvalisusele, on kõike muud kui tasakaalustatud. Need kutsuvad meid üles täielikult loobuma põhiõigustest, et kaitsta midagi muud.
+<P>
+Teiseks, muudatusettepanekud, millega tühistatakse või nõrgendatakse raporti ülimalt täpset ja konkreetset väidet - mille kohaselt ei tohiks vaieldava poliitilise kõnepruugi eest kriminaalvastutusele võtta -, on sellised, millega ma ei nõustu, ja mul on hea meel kuulda, et ka paljud teised siin saalis mitte.
+<P>
+Poliitilist kõnepruuki tuleb kaitsta, eriti kui see on vaieldav. Kui kõik siin saalis oleksid ühel meelel, ei vajaks me sõnavabadust käsitlevaid õigusakte. Kui me aga ei ole ühel meelel - just sel eesmärgil, et kaitsta mõtteavaldusi, mis võivad olla eriti ärritavad minusugustele või teistele inimestele - on meil vaja neid õigusakte. See koht raportis ei puuduta kriminaalset kõnepruuki. See puudutab üksnes vaieldavat poliitilist kõnepruuki. Seetõttu palun ma kõigil toetada seda raporti lõiget ja samuti kogu raportit üldiselt.
+<P>
+Olen väga tänulik kõigile, kes täna siin olid; ka neile, kes minuga ei nõustu. Ma tean, et see ei ole kerge. Suur tänu teile kõikide nende kuude pikkuse toetuse eest raporti koostamise ajal. Ootan väga, et saaksin töötada teiega tulevikus teie raportite kallal ning näidata üles samasugust mõistmist ja toetust.
+<SPEAKER ID="439" NAME="Juhataja">
+- Aitäh, kolleegid. Aitäh, härra Mavrommatis, teie arvamuse eest ja iseäranis suur tänu raportöör Lambrinidisele tema edu ning olulise ja huvitava raporti eest.
+<P>
+Arutelu on lõppenud.
+<P>
+Hääletus toimub neljapäeval, 26. märtsil 2009.
+<P>
+Kirjalikud avaldused (kodukorra artikkel 142)
+<SPEAKER ID="440" NAME="Neena Gill  " AFFILIATION="PSE">
+kirjalikult. - Ma õnnitlen raportööri selle raporti puhul. Usun, et Internet on parandanud eurooplaste elu lugematuid kordi. See on suurendanud meie juurdepääsu teadmistele, aidanud meil maailma paremini mõista ning tugevdanud meie sotsiaalseid sidemeid teiste inimestega.
+<P>
+Valijad on aga mulle öelnud, et nad on mures ka Interneti-ohtude pärast. Meie kasutuses on märkimisväärne tehnoloogia, kuid vabadus, mille see meile annab, pakub ühtlasi kurjategijatele võimalust seda tehnoloogiat kuritarvitada. Kõnealune raport, milles keskendutakse põhiõigustele, on suur samm Interneti turvalisemaks muutmise suunas. Eelmisel osaistungjärgul kõnelesime vajadusest tegeleda lapspornograafiaga. Täna hääletusel olnud muudatusettepanekud, mille eesmärk on leida tasakaal vabaduse ja turvalisuse vahel, moodustavad olulise vahendi selle ohu vastu võitlemisel edaspidi.
+<P>
+Raportis avaldatakse muret ka e-kirjaoskuse pärast. Me ei saa ühiskonnana edasi liikuda, kui soosime ühtede inimeste uusi vabadusi nende inimeste õiguste arvelt, kes on Internetiga vähem tuttavad. Me oleme rõõmuga võtnud omaks põhjalikud muutused, mida Internet on meile pakkunud. Et veelgi kaugemale minna, peaksime sama innukalt keskenduma nüüd selle murrangulise vahendi negatiivsetele külgedele.
+<SPEAKER ID="983" NAME="Daciana Octavia Sârbu  " AFFILIATION="PSE">
+kirjalikult. - (RO) Asjaolu, et Internetti on järjest raskem kontrollida, on hästi teada, kuid põhiõiguste, sealhulgas eraelu puutumatuse kaitsmine Internetis ja turvalisema Interneti tagamine peaksid olema liikmesriikide valitsuste eelisteemadeks.
+<P>
+Interneti kasutamine pakub lugematuid hüvesid, kuid me ei tohi unustada Interneti kuritarvitamisega kaasnevaid ohtusid, millega mõned kasutajad kokku puutuvad.
+<P>
+Seetõttu on meie kohustus määrata kuritarvitamise piiramise eesmärgil kindlaks andmekaitse, turvalisuse ja sõnavabaduse standardid nii Euroopa kui ka liikmesriikide tasandil.
+<P>
+Teisest küljest tuleb kiiresti võtta meetmeid, et võidelda küberkuritegevuse vastu ning selle koha pealt soovin ma toonitada üleilmse strateegia väljatöötamise tähtsust.
+<P>
+Ma nõuan, et võitluses küberkuritegevuse vastu teeksid politseiametid, internetioperaatorid, kasutajad ja teised asjaosalised pidevalt koostööd.
+<P>
+Lõpetuseks ütlen, et tagada tuleb nii õigus haridusele ja õigus kasutada Internetti kui ka Interneti-teenuste kasutajate turvalisus ja õigused.

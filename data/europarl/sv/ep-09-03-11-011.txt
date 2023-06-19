@@ -1,0 +1,166 @@
+<CHAPTER ID="011">
+Lägesrapportering om SIS II (debatt)
+<SPEAKER ID="310" NAME="Talmannen">
+Nästa punkt är en gemensam debatt om
+<P>
+en muntlig fråga till rådet från Carlos Coelho för gruppen för Europeiska folkpartiet (kristdemokrater) och Europademokrater, Martine Roure för socialdemokratiska gruppen i Europaparlamentet och Henrik Lax för gruppen Alliansen liberaler och demokrater för Europa, om lägesrapportering om SIS II - B6-0010/2009), och
+<P>
+en muntlig fråga till kommissionen från Carlos Coelho för gruppen för Europeiska folkpartiet (kristdemokrater) och Europademokrater, Martine Roure för socialdemokratiska gruppen i Europaparlamentet och Henrik Lax för gruppen Alliansen liberaler och demokrater för Europa, om lägesrapportering om SIS II - B6-0011/2009).
+<SPEAKER ID="311" NAME="Carlos Coelho" LANGUAGE="PT">
+Herr talman, herr rådsordförande, herr vice kommissionsordförande, mina damer och herrar! I Europaparlamentet är vi klart för ett snabbt drifttagande av SIS II (Schengens informationssystem), vilket skulle ha skett under 2007. Den andra generationen av SIS är en reaktion från gemenskapen på behovet av att öka säkerheten vid de yttre gränserna och dela viktiga innovationer som biometriska uppgifter och länkning mellan registreringar. Vi förstår att systemet inte kan tas i drift förrän det är stabilt och kan fungera dygnet runt. Enligt min mening är det dags att ta reda på vem som är ansvarig för denna försening, göra en ordentlig utvärdering av läget och hitta lösningar för att göra detta projekt tekniskt genomförbart samt återställa dess redan försvagade trovärdighet.
+<P>
+Vi känner till att olika tester har utförts under det senaste året, vars slutresultat var negativa, särskilt testet av operativsystemet. Rådet och kommissionen beslöt att anslå en period på fyra månader för att försöka lösa de kvarstående problemen, dock utan någon större framgång, som vi kan se från de resultat som uppnåddes i december 2008 när testen upprepades. Trots att vissa förbättringar så vitt vi vet har gjorts finns det fortfarande stora problem med systemets prestanda och stabilitet, förlust av meddelanden, datakvalitet och synkroniseringen av de nationella kopiorna av det centrala systemet. SIS II kan uppenbart inte tas i drift förrän dessa problem har lösts. Jag tvivlar på att det kontrakterade företaget kan lösa alla dessa problem på så kort tid, eftersom man inte har lyckats lösa dem tidigare fast man hade mycket längre tid på sig. Jag hoppas att en oberoende granskning av projektet kommer att inledas för att ta reda på vem som är ansvarig. Jag har inga invändningar mot scenariot att utveckla systemet ”SIS I för alla” som alternativ till SIS II, förutsatt att det fastställda regelverket för SIS II till fullo respekteras. I slutet av mars kommer en rapport att läggas fram där de två scenarierna utvärderas och jämförs. Parlamentet vill ha tillgång till den undersökningen och bli informerat om den nya inriktningen för projektet, både vad gäller den tekniska tillförlitligheten och de rättsliga förutsättningarna, den nya tidsplanen och budgetkonsekvenserna. Jag vill påminna rådet och kommissionen om att ökad insyn i hela processen är särskilt tillrådligt på detta stadium.
+<SPEAKER ID="312" NAME="Martine Roure" LANGUAGE="FR">
+Herr talman! SIS II är som vi vet ett mycket viktigt medel för att garantera Schengenområdets säkerhet, särskilt efter utvidgningen med tio nya länder.
+<P>
+Sedan de rättsliga grunderna antogs 2007 har vi inte vid ett enda tillfälle fått se en detaljerad rapport om utvecklingen eller om de tekniska eller politiska problem som sägs hindra att systemet tas i drift.
+<P>
+Det var genom pressen som vi fick veta att alla tester som krävdes för en helt säker start av det centrala systemet hade misslyckats i december 2008.
+<P>
+Vi känner till att kommissionen har försökt att utarbeta en åtgärdsplan för att lösa huvudproblemen och vi vet att flera medlemsstater inom rådet redan överväger ett alternativ som skulle bestå i en enkel uppgradering av det SIS-system som redan är i drift.
+<P>
+Problemet är således inte tekniskt, utan politiskt. Parlamentet blev ombett att genom medbeslutandeförfarandet godkänna utformningen av SIS II, som i sig skulle ha garanterat den nödvändiga säkerheten för vårt område med frihet, säkerhet och rättvisa. Vi har arbetat på detta utan att förlora säkerheten och skyddet av våra medborgares grundläggande rättigheter ur sikte.
+<P>
+I detta fall är det EU-institutionernas politiska ansvar som står på spel, och särskilt rådets och kommissionens, eftersom vi anser att parlamentet har uppfyllt sina skyldigheter gentemot medborgarna.
+<P>
+Vi väntar, nu och i framtiden, på att få veta de politiska skälen till denna drastiska ändring av inriktningen. Detta kan naturligtvis få mycket allvarliga konsekvenser för den budget som hittills har öronmärkts för projektet, vilket till att börja med kan medföra att om så krävs dra in de tillgängliga resurserna tills projektets framtid och dess rättsliga grund har fastställts ordentligt.
+<SPEAKER ID="313" NAME="Henrik Lax">
+frågeställare. - Herr talman, rådsordförande, kommissionär! Vi här i Europaparlamentet måste få veta om rådet och kommissionen fortfarande tror på att SIS II kommer att förverkligas. Kommer kommissionen att framhärda och försöka att hitta en teknisk lösning på de problem som nu finns? Vilken är vägen framåt? Som det har kommit fram i de två föregående inläggen så vill vi i Europaparlamentet kontinuerligt bli underrättade om problemen, och det har vi inte blivit nu.
+<P>
+Om SIS II i sin nuvarande form inte kan förverkligas, finns det en plan B - kommer det att presenteras en sådan? Som Roure egentligen var inne på är frågan om SIS II ytterst en fråga om unionens trovärdighet när det gäller att garantera den inre säkerheten i unionen. Men vi ska också komma ihåg att samma infrastruktur ska användas för visuminformationssystemet VIS. I förlängningen står därför trovärdigheten i unionens visumpolitik också på spel, dvs. förmågan att sköta relationerna med omvärlden på ett människovärdigt sätt.
+<P>
+Och till sist: Har kommissionen fortfarande medlemsländernas fulla stöd för det här projektet? Är de villiga att stå för kostnaderna för ett projekt som aldrig tycks bli verklighet?
+<SPEAKER ID="314" NAME="Alexandr Vondra">
+rådets ordförande. - (EN) Herr talman! Innan jag går in på ämnet för dagens debatt vill jag framföra mitt djupaste beklagande till de anhöriga till offren för den tragiska händelsen i Baden-Württemberg i dag.
+<P>
+Jag går nu över till ämnet för dagens debatt. Vi är inledningsvis tacksamma för möjligheten att föra denna debatt. Detta är som bekant en viktig fråga. En rad operativa svårigheter har lett till specifika problem med att få SIS II på fötter.
+<P>
+Ordförandeskapet vill tillmötesgå er begäran om fullständig öppenhet om frågans bakgrund och historia. De negativa resultaten av de ursprungliga testerna av systemet ledde till att ytterligare test genomfördes i november och december 2008. Slutresultaten av dessa test av det operativa systemet blev kända först under den andra halvan av januari 2009.
+<P>
+Vid sitt informella sammanträde i Prag den 15 januari 2009 informerade kommissionen EU:s justitie- och inrikesministrar om att resultatet av testerna hade varit allt annat än positiva. Ministrarna enades omedelbart om att det krävdes en ny global förvaltning av SIS II, där medlemsstaterna ingår och samarbetar med kommissionen. Den nya förvaltningen kommer att leda till en bättre styrning av projektet och till att eventuella problem uppmärksammas redan i ett tidigt skede. Vid ett efterföljande möte med rådet (rättsliga och inrikes frågor) den 26-27 februari 2009 enades man även om att ytterligare åtgärder skulle vidtas. Vid detta möte kom rådet överens om att uppmana kommissionen att kontinuerligt informera parlamentet och rådets ordförandeskap om problemen med SIS II och hur de ska lösas.
+<P>
+Parlamentet har undrat om de hittills uppkomna problemen kommer att innebära att systemet måste omarbetas. Enligt den information som rådet har om läget för SIS II-projektet kvarstår en rad problem. Vi förstår det emellertid som så att kommissionen anser att alla återstående frågor kan lösas utan någon genomgripande omarbetning av SIS II.
+<P>
+Vid sammanträdet i februari stödde rådet genomförandet av en analys- och underhållsplan för SIS II, där samtliga problem och hur de snabbt ska kunna lösas kommer att tas upp och där den tekniska uppbyggnaden ska utvärderas, så att ett stabilt och felfritt SIS II-system kan garanteras. Rådet beslutade emellertid även att beredskapsplanen ska följas om allvarliga problem uppstår som inte kan lösas. När det gäller ett alternativ till SIS II välkomnade rådet (rättsliga och inrikes frågor) i februari att en genomförbarhetsstudie skulle tas fram som en del i beredskapsplanen och ligga till grund för ett fungerande, alternativt tekniskt scenario för utveckling av SIS II, med utgångspunkt i utvecklingen av SIS I+.
+<P>
+Rådet begärde även att ordförandeskapet och kommissionen så snart som möjligt och senast i maj 2009 ska lämna in en rapport till rådet med en ingående bedömning av och jämförelse mellan de båda scenarierna. Rapporten kommer att ligga till grund för rådets bedömning av de framsteg som gjorts i utvecklingen av SIS II, och rådet kommer, när det gäller det alternativa scenariot, att undersöka möjligheten att uppnå målsättningen i SIS II som den anges i den rättsliga ramen för inrättande, drift och användning av SIS II, med utvecklingen av SIS I+ som teknisk grund. Analysen kommer att genomföras så snart som möjligt och senast vid rådets sammanträde den 4-5 juni 2009.
+<P>
+När det gäller den detaljerade information som parlamentet begärt om hur de återstående problemen, i första hand de ekonomiska aspekterna, ska lösas uppmanade rådet kommissionen att inte bara informera parlamentet om problemen i anslutning till SIS II utan också ge parlamentet och rådet regelbunden och uttömmande information om utgifterna för det centrala SIS II-projektet och om de åtgärder som vidtagits för att garantera fullständig ekonomisk insyn.
+<P>
+Med anledning av den rapport som begärts från ordförandeskapet och kommissionen kommer rådet senast vid sammanträdet i juni 2009 att diskutera en tidsplan för när SIS II kan tas i bruk. Man kommer i detta sammanhang att beakta de bestämmelser om tidsplaner som anges i parlamentets resolution av den 24 september 2008 om utkastet till rådets förordning (EG) nr 1104/2008 av den 24 oktober 2008 om migrering från Schengens informationssystem - SIS 1+ - till andra generationen av Schengens informationssystem - SIS II. Detta införlivades i artikel 19 i rådets förordning av den 24 oktober.
+<P>
+Jag är övertygad om att kommissionen kommer att kunna lämna ytterligare information som svar på de uppkomna frågorna. Jag vill endast försäkra er parlamentsledamöter om att ordförandeskapet kommer att bevaka frågan noga och se till att de åtgärder som justitie- och inrikesministrarna enades om förra månaden noggrant iakttas.
+<SPEAKER ID="315" NAME="Jacques Barrot" LANGUAGE="FR">
+Herr talman! Jag vill bekräfta det som Alexandr Vondra sa. Jag måste också lägga till att tillsammans med Ivan Langer, ordföranden för rådet (inrikes frågor), har vi gett detta SIS II-problem absolut prioritet.
+<P>
+Jag ska i min tur försöka bidra med vissa klargöranden. Kommissionens huvudentreprenör för utvecklingen av SIS II har utfört en rad driftstest av det centrala systemet, som körs interaktivt med vissa nationella system. Mellan november och december 2008 ledde resultaten av dessa tester till slutsatsen att det centrala systemet inte hade uppnått den nivå som föreskrevs i kontraktet.
+<P>
+I mitten av november inledde kommissionen en ingående analys av SIS II-lösningen, som för närvarande utvecklas av Hewlett-Packard/Steria, i samarbete med experter från medlemsstaterna och med hjälp och stöd från två välkända IT-konsultbyråer.
+<P>
+Efter de misslyckade driftstesterna tog vi fram en analys- och reparationsplan som kommer att ta uppskattningsvis fyra månader att genomföra. Målet med denna plan är att få genomförandet av SIS II till en tillfredsställande nivå i fråga om stabilitet och prestanda.
+<P>
+Målet med planen är för det första att rätta till de kända programfelen i det centrala systemet - en del av dessa fel har redan åtgärdats - och för det andra att verifiera att genomförandet av SIS II inte dras med oöverstigliga strukturella svagheter.
+<P>
+Målinriktade tester utförs inom en rad prioriterade områden för att undanröja osäkerhetsfaktorerna kring arkitekturen i den nuvarande lösningen. Denna verksamhet pågår parallellt med slutförandet av den tekniska analysen av de underliggande problemen.
+<P>
+Kommissionen har också infört en övergripande strategi för förvaltningen av projektet så att de centrala och nationella komponenterna i SIS II kan integreras bättre, i enlighet med de befogenheter som fastställts rättsligt av kommissionen och medlemsstaterna.
+<P>
+I praktiken innebär detta att kommissionen samordnar en gemensam förvaltningsstruktur för projektet. Genom denna gemensamma förvaltningsstruktur sammanförs de nationella och de centrala projektledarna och de leverantörer som kommissionen har anlitat. Förvaltningsstrukturen kommer att följa projektet genom analys- och reparationsfasen och sedan under kvalificerings- och överflyttningsfasen till dess att SIS II är igång.
+<P>
+När analys- och reparationsfasen har slutförts kommer vi att ha en tydlig uppfattning om de resurser som fortfarande behöver tillföras innan SIS II kan tas i drift och om motsvarande tidsplan, som Alexandr Vondra just sa. Givetvis råder det ingen tvekan om att målet att ta SIS II i drift i september 2009 kommer att bli försenat.
+<P>
+De nuvarande svårigheterna med SIS II diskuterades vid ministrarnas informella möte den 15 januari och vid rådets (rättsliga och inrikes frågor) möte den 26-27 februari. Huvuddragen i den uppläggning som rekommenderades av kommissionen för fortsättningen av SIS II godkändes.
+<P>
+För det första gav rådet sitt stöd till behovet av att fortsätta med genomförbarhetsstudien om en alternativ teknisk lösning baserad på det nuvarande systemet SIS I+. Vi kan därför fortsätta med denna genomförbarhetsstudie som en alternativ lösning.
+<P>
+Varje alternativ teknisk lösning måste självklart överensstämma med det regelverk som upprättats för SIS II och som antagits av parlamentet och rådet. Det är naturligtvis mycket viktigt att återanvända så mycket som möjligt av investeringarna och övervaka läget i de medlemsstater och associerade länder som planerar att ansluta sig till Schengenområdet under de kommande åren.
+<P>
+Ministrarna har som sagt beslutat att samlas igen senast i juni - i början av juni - för att bedöma de framsteg som gjorts, fastställa nya riktlinjer om det behövs och enas om en eventuell övergång till en alternativ lösning. Rådet har därför bett ordförandeskapet och kommissionen att i nära samarbete med SIS II-gruppen och i samråd med berörda parter lägga fram en rapport för rådet med en detaljerad utvärdering och jämförelse av de båda scenarierna. Denna rapport ska läggas fram så snart som möjligt, dock senast i maj 2009.
+<P>
+För detta ändamål har man kommit överens om gemensamma jämförelsekriterier för utvärderingen av lösningarnas fördelar respektive nackdelar. Detta innebär närmare bestämt att vi kommer att få ett rådsbeslut i början på juni. Beslutet kommer att fattas med hänsyn till de tester som då har slutförts och detta anser vi kommer att göra det möjligt att antingen fortsätta med SIS II eller att gå över till en alternativ lösning, som dock fortfarande måste uppfylla de mål som ni har fastställt.
+<P>
+Jag är naturligtvis mycket medveten om att det, som Carlos Coelho och Martine Roure sa, krävs en hög grad av öppenhet. Jag vill säga att vi skickar och kommer att fortsätta att regelbundet skicka protokollen från SIS II-kommittén. Jag vill också nämna att jag har skrivit till Gérard Deprez, ordföranden för utskottet för medborgerliga fri- och rättigheter samt rättsliga och inrikes frågor, för att ge honom detaljerad information om läget för SIS II. En kopia av denna korrespondens har skickats till Carlos Coelho.
+<P>
+Jag vill också säga till Henrik Lax att problemen med SIS II inte berör informationssystemet för viseringar, VIS. Problemen med SIS II berör inte den infrastruktur som är gemensam för SIS II och VIS. Det enda jag kan säga här är att VIS löper på i stort sett enligt den plan som medlemsstaterna kommit överens om.
+<P>
+Jag vill påpeka för er att vi faktiskt tillsammans med arbetsgruppen och inom kommissionen har ordnat mycket regelbundna möten med avtalsparten och de båda avtalsparterna, särskilt Steria. Vi kan verkligen hoppas att denna fråga kommer att avslutas under de närmaste månaderna i och med detta beslut om ett slutdatum i början på juni då rådet faktiskt måste fatta sitt beslut.
+<P>
+Jag åtar mig här och nu att hålla parlamentet informerat om hur alla dessa frågor utvecklar sig.
+<SPEAKER ID="316" NAME="Marian-Jean Marinescu" LANGUAGE="RO">
+Driftproblemet med SIS II diskuterades nyligen under rådets möte i februari 2009. Det betonades ännu en gång att man omedelbart måste finna en lösning på problemet med den återvändsgränd som SIS II för närvarande befinner sig i.
+<P>
+Jag har dock fått intrycket att i stället för svar har ännu fler frågor uppkommit till följd av diskussionerna om SIS II. Rådet stöder genomförandet av analys- och reparationsplanen för att identifiera problemen med SIS II-systemets tekniska arkitektur i syfte att göra det stabilt och tillförlitligt. Rådet utesluter dock inte heller möjligheten att anta en alternativ teknisk lösning för att uppfylla målen för SIS II.
+<P>
+Vilket av alternativen som än tillämpas får det inte ha några återverkningar på planen för att inbegripa de länder som fortfarande befinner sig utanför Schengenområdet. Jag vill veta vilka åtgärder kommissionen kommer att vidta för att undvika alla eventuella förseningar och hur de merkostnader som uppkommer genom dessa förändringar kommer att täckas. Exemplet Rumänien talar för sig självt. Rumäniens yttre gräns är 2 000 km lång. Landets planerade integrering i Schengenområdet i mars 2011 är en viktig prioritering. All denna obeslutsamhet kan få konsekvenser i fråga om möjligheterna att hålla denna tidsfrist.
+<P>
+Jag vill nämna en annan sak. Vid en tidpunkt då kommissionen utarbetar ett lagstiftningsförslag om de kommande etapperna i gränsförvaltningen vill jag be kommissionen att först utvärdera hela effektiviteten hos de system som för närvarande används för förvaltningen av gränserna för att uppnå bästa möjliga samverkan mellan dessa system och därefter utvärdera om det är lämpligt att investera i gränslogistik.
+<P>
+För att uppnå EU:s strategiska mål borde kommissionen inte börja utveckla nya verktyg från grunden förrän de befintliga, exempelvis SIS II eller VIS, är helt funktionsdugliga och tillförlitliga.
+<SPEAKER ID="317" NAME="Genowefa Grabowska" LANGUAGE="PL">
+Herr talman! Den situation som vi diskuterar är ett talande exempel på att det bland är enklare att uppnå samförstånd och politisk enighet om öppnandet av gränser än att övervinna tekniska problem.
+<P>
+Anslutningen av nya medlemsstater till Schengen den 23 december 2007 var en stor händelse för medborgarna i dessa stater. Det vet jag eftersom jag kommer från Polen. Mitt land utnyttjade denna positiva möjlighet och värdesätter öppnandet av gränserna mycket högt, eftersom det innebar att de sista diskriminerande villkoren som skilt oss från medlemsstaterna i det gamla EU försvinner.
+<P>
+Dessutom är det i mitt land som Frontex-byrån finns. Jag vet att Jacques Barrot har varit i Polen, där han har besökt Frontex och gjort uttalanden, och han har även besökt den del av EU:s yttre gränser som Polen ansvarar för. Jag vet att det i praktiken inte finns några allvarligare problem med skyddet av den gränsen och att den är säker. Vi har dock problem med tekniska frågor, och lösningen av dem håller på att växa till ett politiskt problem, precis som min kollega Martine Roure sa. Jag instämmer helt med henne.
+<P>
+Om det således finns tekniska problem, om det finns svårigheter, då antar jag att varje EU-institution måste vända sig med sina frågor till det organ som har tagit så lång tid på sig för att genomföra SIS II. Det är beklagligt att så inte har skett och att insynen i den här frågan har varit en aning begränsad.
+<P>
+När det gäller lösningen på problem som är viktiga för de berörda medborgarna kan Europaparlamentet enligt min mening inte finna sig i att åtgärder vidtas oberoende av parlamentet eller att det nonchaleras, särskilt inte när det gäller säkerhetsfrågor.
+<P>
+Jag vill avsluta med en mycket kort kommentar. Om det finns problem, om Hewlett-Packard inte skulle klara att lösa de tekniska problemen, borde man betänka att vi har utmärkta specialister i Polen, unga människor som är fantastiska IT-tekniker och som har högt anseende i hela världen. De borde kunna vara till nytta och nå det önskade resultatet betydligt billigare, snabbare och bättre.
+<SPEAKER ID="318" NAME="Hubert Pirker" AFFILIATION="PPE-DE">
+(DE) Herr rådsordförande, herr kommissionsledamot! Schengen är och har alltid varit synonymt med kopplingen mellan å ena sidan säkerhet och å andra sidan frihet och avreglering. För EU:s medborgare och för oss alla har detta varit en del av det mervärde som EU erbjuder. Det har alltid fungerat mycket bra och har tillämpats effektivt i väntan på en ”en-för-alla-lösning”.
+<P>
+Det som sker nu är irriterande. Det är lika irriterande att parlamentet, som alltid har varit mycket samarbetsvilligt, inte har fått den nödvändiga informationen. Vi har alltid hållit medborgarna i EU informerade. SIS II ska fungera perfekt enligt tidsplanen och nu får vi veta att det har uppstått problem och att det inte finns något slut i sikte på dilemmat.
+<P>
+Jag vill veta om de siffror som cirkulerat i medierna, att omkring 100 miljoner euro hittills har förbrukats på att utveckla SIS II, stämmer. Kommer företaget att få ta konsekvenserna? Varför har kommissionen, rådet eller något annat organ inte infört ett kontrollsystem i god tid?
+<SPEAKER ID="319" NAME="Mihael Brejc" AFFILIATION="PPE-DE">
+(SL) Det är faktiskt egendomligt att problem med systemets funktionsduglighet gång på gång ska dyka upp så fort vi har att göra med stora och viktiga tekniska frågor av detta slag. Vi har redan behandlat de tekniska problemen med databehandling. Det är därför allmänheten av goda skäl frågar sig varför vi inte har några professionella institutioner på EU-nivå som är tillräckligt kompetenta för att ta itu med alla tekniska problem som kan uppkomma vid driften av ovanligt stora och omfattande databaser.
+<P>
+Jag har deltagit i dessa diskussioner ända från början. Jag har också arbetat tillsammans med föredraganden Carlos Coelho och jag är medveten om att vissa tekniska svårigheter och brister kvarstår, bland annat sådana som gäller den tillgängliga kompetensnivån. Jag har därför en känsla av att vi måste genomföra en ordentlig teknisk och ekonomisk granskning av systemet och ställa dem som ansvarar för projektet till svars. Det är faktiskt inte bara jag som har den känslan, den delas av den breda allmänheten.
+<SPEAKER ID="320" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Herr talman, herr kommissionsledamot! Personligen högaktar jag er, men det som händer här är verkligen en oacceptabel röra med ett oacceptabelt mått av slöseri och inkompetens. Därför uppmanar jag inte bara kommissionen utan även utskottet för medborgerliga fri- och rättigheter samt rättsliga och inrikes frågor och budgetkontrollutskottet att granska frågan i detalj.
+<P>
+Jag är glad över att Tjeckien innehar ordförandeskapet för rådet eftersom Bayern och Tjeckien har exakt samma säkerhetsintressen. Vi vet att trots alla farhågor i samband med öppnandet av gränserna har säkerhetsläget förbättrats i grunden sedan gränserna öppnades till följd av utmärkt polissamarbete. Detta kunde vara en modell för andra delar av EU och jag skulle vilja tacka Tjeckien för detta på Bayerns vägnar. Vi väntar oss att Schengens informationssystem till sist ska täcka alla områden och att det inte kommer att begränsas till de typiska enskilda bilaterala överenskommelserna.
+<SPEAKER ID="321" NAME="Alexandr Vondra">
+rådets ordförande. - (EN) Herr talman, jag vill tacka för den här debatten. Jag tycker att den visar att det finns ett problem som måste lösas. Rådet gjorde under vårt ordförandeskap vad det kunde i januari. Vi tog initiativet att ta fram en beredskapsplan eller en alternativ plan och att främja en lösning genom att besluta om en tidsfrist på största allvar.
+<P>
+Det är vad vi kan göra. När det gäller de finansiella frågorna överlåter jag till kommissionen att besvara dem. Samarbetet mellan minister Ivan Langer och kommissionsledamot Jacques Barrot är nu utmärkt och vi är övertygade om att vi kommer att kunna hantera dessa frågor.
+<P>
+När det gäller frågan om huruvida detta är ett politiskt eller tekniskt problem anser vi att det enbart är ett rent tekniskt problem. Det är inte, som några har påpekat, ett sätt att dölja vissa politiska problem. Tvärtom måste systemet vara driftfärdigt så fort som möjligt.
+<P>
+Rörande Genowefa Grabowskas kommentarer: ja, vi kommer ihåg hur det var att vänta, vi diskuterade detta för ett år sedan. Alla länder som vill se framsteg på området har plötsligt upplevelser som liknar de vi hade. Vi arbetar för att ta fram en teknisk lösning för att göra det möjligt för industrier i ytterligare länder att delta, i enlighet med den specifika tidsplanen.
+<P>
+Jag begränsar mig till dessa avslutande kommentarer. Jag sa mycket i början och nu går vi vidare.
+<SPEAKER ID="322" NAME="Jacques Barrot" LANGUAGE="FR">
+Herr talman, herr Vondra! Tack för det tjeckiska ordförandeskapets engagemang för denna fråga. Ert stöd har varit mycket uppskattat.
+<P>
+Jag vill först av allt svara Marian-Jean Marinescu genom att säga att det inte är något särskilt problem eftersom de medlemsstater som ännu inte är medlemmar i Schengen också kommer att kunna ansluta sig till SIS II-systemet. Vi kommer att ha flera ”slussar” eller tidsperioder då nya medlemsstater som ännu inte är Schengenmedlemmar kommer att kunna ansluta sig till SIS II, så om allt går som det ska kommer det inte att vara några särskilda problem.
+<P>
+Fru Grabowska! Jag måste också tacka er för allt som Polen gör för att skydda de yttre gränserna. Jag har faktiskt haft möjlighet att konstatera kvaliteten på det arbete som Frontex utför tillsammans med de polska teamen vid den ukrainska gränsen.
+<P>
+Som svar till Martine Roure och Genowefa Grabowska vill jag helt enkelt säga att det i grunden är ett tekniskt problem. Som Alexandr Vondra påpekade så är det inte ett politiskt problem. Sanningen är helt enkelt att medlemsstaterna, eller vissa medlemsstater, har ställt allt större krav. Därför måste det konstateras att SIS II har varit tvunget att uppfylla allt mer sofistikerade mål. Följaktligen har systemet blivit mer komplext och trots alla era hyllningar av informationstekniken har genomförandet visats sig vara mycket svårare än väntat. Icke desto mindre är det sant att problemet i allt väsentligt förblir ett tekniskt problem och att det därför borde gå att lösa.
+<P>
+Till Hubert Pirker vill jag säga att parlamentet kommer att hållas väl informerat, och jag åtar mig härmed att göra det. Jag har personligen åtagit mig detta under loppet av projektet och det är verkligen en prioritering för mig. Jag vill också försäkra Mihael Brejc om att vi tydligt har identifierat dem som är ansvariga. I samarbete med kommissionen har vi inrättat denna arbetsgrupp där medlemsstaterna är nära involverade. Jag anser att vi nu har en definitiv styrgrupp, men vår avtalspart måste också uppfylla de krav vi har fastställt.
+<P>
+Jag vill också svara på den ekonomiska fråga som Hubert Pirker och Bernd Posselt just ställde. Kommissionens totala budgetåtagande för SIS II-projektet uppgår till cirka 68 miljoner euro. I de berörda kontrakten ingår genomförbarhetsstudier, utveckling av det faktiska centralsystemet, support och kvalitetskontroll, s-Testa-nätverket, förberedelser för driften i Strasbourg, säkerhet, förberedelser i samband med biometriska frågor samt kommunikation. Detta är alltså åtagandet: 68 miljoner euro.
+<P>
+När det gäller betalningar har 27 miljoner euro faktiskt förbrukats hittills på teknisk utveckling: 20 miljoner på utveckling av systemet, 7 miljoner euro på att tillhandahålla ett nätverk som ligger i linje med den senaste tekniska utvecklingen och 4 500 000 euro på kvalitetssäkring.
+<P>
+Det måste sägas att om rådet, efter det att vi har fått en tydlig uppfattning om tillförlitligheten eller avsaknaden av tillförlitlighet hos SIS II, beslutar att gå över till formeln SIS I+R, kan vi vid den tidpunkten överväga att återanvända det kommunikationsnätverk som har installerats för SIS II, vilket innebär att motsvarande investeringar till största delen kan bevaras.
+<P>
+Vårt verkliga problem är att utrusta Schengen, Schengenområdet med fri rörlighet, med ett verkligt effektivt verktyg. Det är sant att om vi fortsätter med Schengen II, kommer det att bli det mest effektiva systemet i världen, med tanke på de resultat som vi kommer att kunna nå med systemet. Informationstekniken måste dock finnas på plats.
+<P>
+Jag vill dock påpeka att jag anser att vi tillsammans med det sittande tjeckiska ordförandeskapet - och jag tackar återigen Alexandr Vondra för det tjeckiska ordförandeskapets engagemang i denna komplicerade fråga - har gjort allt vi kan för att undvika alla ytterligare förseningar och verkligen göra det möjligt för vår avtalspart att uppfylla våra förväntningar. I vilket fall som helst ska vi ha ett definitivt datum fastställt så att rådet kan fatta de nödvändiga besluten. Ännu en gång åtar jag mig självklart att hålla parlamentet informerat.
+<SPEAKER ID="323" NAME="Talmannen">
+Debatten är härmed avslutad.
+<P>
+Skriftlig förklaring (artikel 142)
+<SPEAKER ID="324" NAME="Alin Lucian Antochi  " LANGUAGE="RO">
+Jag anser att detta projekt för att förbättra mekanismen för förvaltningen av Europeiska unionens yttre gränser inte ska betraktas som ett försök att hejda migrationen som företeelse. Det verkliga syftet med åtgärderna för att göra EU:s gränser säkrare har inget som helst att göra med att strypa inflödet av invandrare utan om att kontrollera det noga. Rätt skött är invandring till nytta för EU-medlemsstaternas samhällen och ekonomier.
+<P>
+Jag måste framhålla att EU bör fästa större uppmärksamhet vid förvaltningen av sina yttersta gränser, där det finns konfliktområden. De aktiviteter som exempelvis hittills har genomförts av EU:s gränsövervakningsuppdrag i Moldavien och Ukraina (EUBAM) är värda ett särskilt erkännande. I detta ingår att upprätta ett enkelt tullförfarande vid gränsen, hindra smuggling och minska de kriminella gruppernas verksamheter.
+<P>
+Eftersom man hittills inte har lyckats lösa Transnistrien-konflikten är det emellertid svårt för de moldaviska myndigheterna att kontrollera detta gränsavsnitt, där det fortfarande finns ett stort flöde av olagliga invandrare.
+<P>
+Jag är fast övertygad om att EU har tillräckligt politiskt, ekonomiskt och säkerhetsmässigt inflytande för att stoppa de ovannämnda olagliga verksamheterna, vilket också innebär att vi måste engagera oss mer aktivt i att reda ut de olösta konflikterna vid våra yttre gränser.

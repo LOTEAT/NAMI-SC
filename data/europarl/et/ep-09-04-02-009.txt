@@ -1,0 +1,6 @@
+<CHAPTER ID="009">
+Hääletused
+<SPEAKER ID="062" NAME="President">
+Päevakorra järgmine punkt on hääletused.
+<P>
+(Hääletuse tulemuste ja muude üksikasjadega tutvumiseks: vt protokoll)

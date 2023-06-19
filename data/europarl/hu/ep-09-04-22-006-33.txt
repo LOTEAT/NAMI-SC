@@ -1,0 +1,6 @@
+<CHAPTER ID="006-33">
+33. A 717/2007/EK rendelet (mobiltelefonok) és a 2002/21/EK irányelv (elektronikus hírközlés) módosítása (
+<P>
+- A szavazás előtt:
+<SPEAKER ID="130" NAME="Adina-Ioana Vălean" AFFILIATION="ALDE">
+Elnök úr! Ez egy kisebb módosítás, amelyet a Tanács kért az SMS-tarifákra és a megszakítási limitre vonatkozó átváltási árfolyamok közötti összeegyeztethetetlenség megszüntetése érdekében. Ezért a Tanáccsal történt megállapodás alapján a következő szöveget be kell illeszteni az eredeti rendelet 1. cikk (4) bekezdésének végére, ami a módosító rendelet 1. cikkének 2(b) pontja: "Ugyanezeket a referencia átváltási árfolyamokat kell alkalmazni a 4a, 4b és 6a(3) cikk hatálya alá tartozó díjak értékének évenkénti felülvizsgálata során, ha ezeket a díjakat nem euróban denominálják.”

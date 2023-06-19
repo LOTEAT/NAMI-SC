@@ -1,0 +1,12 @@
+<CHAPTER ID="008">
+Hlasování
+<SPEAKER ID="106" NAME="Předsedající">
+Dalším bodem je hlasování.
+<P>
+(Podrobnosti o výsledku hlasování: viz zápis)
+<SPEAKER ID="107" NAME="Robert Goebbels" AFFILIATION="S&amp;D">
+(FR) Pane předsedající, chtěl bych vás požádat, abychom ještě chvíli počkali, protože mnoho poslanců je stále zdrženo ve výtazích. Někdo měl ten výjimečný nápad opravovat výtahy v průběhu jediného týdne, kdy jsme ve Štrasburku, i když by to mohlo být uděláno ve zbývajících třech týdnech.
+<SPEAKER ID="108" NAME="Předsedající">
+Pane Goebbelsi, již je po 12:00. Už jsme čekali pět minut. Domnívám se, že můžeme přistoupit k hlasování.
+<P>
+(Potlesk)

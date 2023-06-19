@@ -1,0 +1,6 @@
+<CHAPTER ID="005">
+Turno de votaciones
+<SPEAKER ID="066" NAME="El Presidente">
+De conformidad con el orden del día, se procede al turno de votaciones.
+<P>
+(Para los resultados y otros detalles de las votaciones: véase el Acta)

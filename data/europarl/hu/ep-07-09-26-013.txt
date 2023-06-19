@@ -1,0 +1,442 @@
+<CHAPTER ID="013">
+Kérdések órája (a Tanácshoz intézett kérdések)
+<SPEAKER ID="264" NAME="">
+A következő napirendi pont a kérdések órája (B6-0316/2007).
+<P>
+A következő kérdéseket intézték a Tanácshoz.
+<P>
+Az 1. kérdés: elfogadhatatlannak nyilvánítva (az eljárási szabályzat II. melléklete A részének 2. bekezdése).
+<P>
+A
+<P>
+Tárgy: A Galileo program jövője
+<P>
+Az Európai Unió számára a Galileo projekt rendkívül fontos, mivel ez a project az űrrel kapcsolatos kutatás és a tagállamok együttműködésének eredménye, ezenkívül számos területen, beleértve a közlekedést is, alkalmazható.
+<P>
+Minthogy a projekt finanszírozása holtponton van, az Európai Unió Tanácsát kérdezem arról, milyen lépéseket szándékozik tenni a helyzet megoldása érdekében, továbbá a projekttel kapcsolatosan milyen együttműködésre készül harmadik országokkal, mint pl. Indiával?
+<SPEAKER ID="265" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Amint az a tisztelt képviselő asszony előtt is ismeretes, a Tanács 2007. június 6-8. közötti ülésén alaposan megvizsgálta a Galileo projekt előrehaladásának helyzetét, és állásfoglalást fogadott el. Az állásfoglalásban a Tanács felkérte a Bizottságot, hogy nyújtson be különböző szempontú javaslatokat a Galileo projektre vonatkozóan. A Bizottság azóta elfogadta ezeket a javaslatokat (november 19-én), és most reméljük, hogy az illetékes tanácsi szervek megvizsgálják ezeket annak érdekében, hogy az év vége előtt integrált döntést hozzanak a Galileo projekt végrehajtásáról, beleértve a közfinanszírozást és a nyilvánosság részvételi módozatait.
+<P>
+A harmadik országokkal való együttműködést illetően, szeretném Önöket emlékeztetni, hogy a Tanács rendkívül nagy fontosságot tulajdonít az Európai Unión kívüli országokkal való együttműködésnek. 2001 óta, mint tudják, a Galileóval kapcsolatos különböző együttműködési megállapodást írtak alá olyan, nem az Európai Unióhoz tartozó országokkal, mint például Kína, Izrael és Ukrajna. Ezek az országok a Galileo programban a rendszerdefiníció, a kutatás és az ipari együttműködés területén működnek közre.
+<P>
+India konkrét esetében a Bizottság és indiai tárgyaló felek 2005. szeptember 7-én Új Delhiben írtak alá együttműködési megállapodást. Mindazonáltal a Bizottság elhatározta, hogy folytatja a tanácskozást az indiai hatóságokkal annak érdekében, hogy a megállapodást összehangolja a Galileóra vonatkozó szabványos EK együttműködési szerződésekkel, és figyelembe vegye a projekt utóbbi időkben való fejlődését. Az alkalmazandó szabályokat illetően a Tanácsnak várnia kell a Bizottság javaslatára, mielőtt dönt ebben a kérdésben.
+<P>
+A harmadik országok helyzetének jobb meghatározása céljából ez év március 22-én a Tanács elfogadott egy határozatot, amely felhatalmazza a Bizottságot, hogy tárgyalhasson az Európai Unión kívüli országokkal annak érdekében, hogy aláírják a társult tagságról szóló, az Európai GNSS (Globális Navigációs Műholdrendszerek) Felügyeleti Hatóságában (GSA) való részvételre vonatkozó megállapodást.
+<P>
+A határozat fő célja, hogy gondoskodjon egy minden Európai Unión kívüli államra vonatkozó harmonikus megközelítésről az által, hogy világosan meghatározza a GSA-n belüli részvételük módozatait.
+<SPEAKER ID="266" NAME="Silvia-Adriana Ţicău" AFFILIATION="PSE">
+(RO) Elnök úr, szeretném megköszönni az államtitkár úrnak a tájékoztatást. Mindazonáltal szeretnék visszatérni kérdésem első felére, nevezetesen a GALILEO projekt finanszírozására. Szeretném, ha az államtitkár úr kifejtené a projekt finanszírozásának jelenlegi módját, továbbá azt, hogy milyen módon vizsgálták meg a Bizottság javaslatát, és hogy mi lesz a Tanács aktuális határozata a következő időszakban.
+<SPEAKER ID="267" NAME="Manuel Lobo Antunes">
+(PT) Nem tudhatom előre, mi lesz a Tanács határozata a terítéken lévő kérdéseket, különösen a finanszírozást illetően. Ezt a kérdést természetesen meg kell vitatnia a Tanácsnak, a Bizottság legutóbbi javaslatában megfogalmazott egyéb kérdésekkel egyetemben. Két dologról biztosíthatom a tisztelt képviselő asszonyt: először is, az elnökség számára kétségtelen, hogy a Galileo stratégiai projekt az Európai Unió számára, és ennek fényében fog a kérdéssel foglalkozni, más szóval az Európai Unió stratégiai projektjének tekinti; másodszor, az elnökség minden lehetőt megtesz annak érdekében, hogy a Galileo projekt főbb szempontjait illetően a portugál elnökség ideje alatt eredményre jusson.
+<SPEAKER ID="268" NAME="Josu Ortuondo Larrea" AFFILIATION="ALDE">
+- (ES) Elnök úr, a Tanács elnöke, egyetértek abban, hogy a Galileo sürgős prioritású projekt az EU számára, de a mezőgazdasági termelők különösen érintettek, mivel a Bizottság azzal az ötlettel állt elő, hogy a Galileo projekt pénzelésére a KAP finanszírozás többletét használja fel. És ami a 2007-es évet illeti, úgy tűnik, valóban termeltek többletet, ennek ellenére aggódnak a jövőjükért.
+<P>
+A kérdésem a Tanácshoz a következő: vajon a különböző kormányok, az EU 27 tagállamának kormánya egyetért-e abban, hogy ez prioritást élvező projekt legyen, és hogy támogatni kelljen, akár rendkívüli hozzájárulásokkal, akár a Közösség költségvetéséből évente megmaradt összegekből?
+<SPEAKER ID="269" NAME="Manuel Lobo Antunes">
+(PT) Köszönöm, elnök úr. Úgy gondolom, erre a kérdésre már az előző válaszommal feleltem. A finanszírozás kérdéséről még tárgyalunk. A Tanácsnak még meg kell vitatnia, mivel döntés még nem született ez ügyben. Természetesen várható, hogy a tagállamok eltérő szempontokból közelítik majd meg a kérdést. Mindazonáltal úgy vélem, a projekt stratégiai jellege tekintetében egyetértés van közöttünk.
+<SPEAKER ID="270" NAME="Elnök">
+A
+<P>
+Tárgy: Alkotmányreform Bosznia-Hercegovinában
+<P>
+Mi a Tanács véleménye a reformok jelenlegi állásáról, különös tekintettel az alkotmányreformra és a daytoni megállapodásra Bosznia-Hercegovinában, és milyen intézkedéseket szándékozik tenni az ország megújulásának és integrációjának előmozdítása érdekében?
+<SPEAKER ID="271" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Hölgyeim és uraim, a haladásról szóló éves jelentésében, amely mint mindig, most is novemberben készül majd el, az Európai Unió meg fogja vizsgálni a Bosznia-Hercegovinában jelenleg zajló reformokat.
+<P>
+A Tanács számos alkalommal hangoztatta annak jelentőségét, hogy a stabilizációs és társulási megállapodásról szóló tárgyalások lezárulásának négy alapvető feltétele gyorsan megvalósuljon, ahogyan ezt a Tanács 2005. december 12-i következtetéseiben megállapította, különös tekintettel a rendőrségre vonatkozó reform megvalósítására. Mindazonáltal, mint tudják, a politikai helyzet továbbra is feszült maradt az utóbbi hónapokban a főbb bosnyák politikai vezetők által betöltött pozíciók radikalizálódása következtében. Pillanatnyilag úgy tűnik, rendkívül nehéz lesz konszenzusra jutni a reformok ütemtervét illetően, különös tekintettel a rendőrség szerkezetének átalakítására.
+<P>
+Solana főképviselő úr szeptember 10-én találkozott Miroslav Lajčákkal, az EU bosznia-hercegovinai különleges képviselőjével. A Brüsszelben történt találkozó alatt Solana úr feltétlen támogatását fejezte ki az EU különleges képviselőjének munkája és azon erőfeszítések iránt, amelyeket a képviselő azért tett, hogy kompromisszumot találjon a bosznia-hercegovinai politikai vezetőkkel a rendőrségi reformról.
+<P>
+Solana főtitkár és főképviselő úr arra ösztönözte a bosnyák vezetőket, hogy építő módon kapcsolódjanak be a legutóbbi, a különleges képviselő által ismertetett kezdeményezésbe, hogy ezáltal elgördítsék az utolsó akadályt, amely a Bosznia-Hercegovina és az Európai Unió közötti stabilizációs és társulási megállapodás megkötésének útjában áll. Felkérte továbbá az ország hatóságait, hogy felelősségteljes tevékenységükkel végül mutathassanak fel hasznos eredményeket Bosznia-Hercegovina népe számára.
+<P>
+A Tanács is kifejezte támogatását a Bosznia-Hercegovinában az alkotmányreformok területén kifejtett erőfeszítések iránt, amelyek a hatékonyabb, az európai modellt jobban megközelítő állami struktúrák kiépítésre irányulnak. Újabb erőfeszítések szükségesek a végrehajtó és jogalkotó testületek hatékonyságának további növelésére, és fejlesztenünk kell az állam és szervei közti adminisztráció és összehangolás teljesítőképességét is.
+<P>
+Az Európai Unió 1 millió eurót szánt előcsatlakozási támogatási eszközként a bosznia-hercegovinai alkotmány reformjára. Közismert, hogy a Tanács 2007. február 7-én együttes fellépést is elfogadott, amely módosítja és bővíti az EU bosznia-hercegovinai különleges képviselőjének megbízási körét. A módosított megbízatás értelmében az EU különleges képviselője politikai tanácsot nyújt, és felajánlja szolgálatait az alkotmányreform kidolgozásában.
+<SPEAKER ID="272" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Bosznia-Hercegovinának csak akkor van jövője, ha föderációvá válik, amely egyenlő alapon kezeli mindhárom nemzetét, amelybe nemcsak a hercegovinai, hanem a közép-boszniai horvátoknak is bele kell tartozniuk. A kérdésem meglehetősen konkrét: mit lehet tenni abban az esetben, ha egy entitás, mint például a Boszniai Szerb Köztársaság belülről akadályozza a rendőrség reformját és a menekültek hazatértét, ám az EU csak az államra, mint egészre tud külső nyomást gyakorolni? Az egyes államokhoz is szólnak, és gyakorolnak rájuk nyomást, vagy ezt csak a központi államon keresztül lehet megtenni? Ha így van, az igen megnehezíti a feladatot.
+<SPEAKER ID="273" NAME="Manuel Lobo Antunes">
+(PT) Nos, Elnök úr, tisztelt képviselő úr, e tekintetben annyit mondhatok, hogy az Európai Unió minden lehetőt megtesz a rendelkezésre álló diplomáciai eszközök segítségével, és legfőképp különleges képviselőjének intézkedései által az alkotmányreformmal és különösen a rendőrségi reformmal kapcsolatos jelenlegi patthelyzet sikeresen áthidalása, valamint a felmerült akadályok felszámolása érdekében. Emellett kötelezzük el magunkat.
+<P>
+A Tanács természetesen figyelembe fogja venni a különleges képviselő által a helyszínen való tartózkodása eredményeképpen esetlegesen tett javaslatokat és indítványokat. Ahogy azt a tisztelt képviselő úr gondolhatja, a Tanács tudatában van a helyzet összetettségének, és különösen annak, hogy sürgősen felül kell kerekednünk a jelenlegi patthelyzeten.
+<SPEAKER ID="274" NAME="Richard Seeber" AFFILIATION="PPE-DE">
+(DE) Amint azt az államtitkár úr is tudja, a várható EU-tagság a Balkán minden országában fontos hajtóerőt szolgáltat a politikai és gazdasági reformok végrehajtásához. Végtére is, Horvátországgal meglehetősen intenzív tárgyalások folynak. Tud-e a Tanács áttekintést adni a Horvátországgal folyó tárgyalások pontos állásáról, valamint a többi országgal kötött társulási megállapodások végrehajtásáról, és arról, hogy ezek jól működnek-e?
+<SPEAKER ID="275" NAME="Manuel Lobo Antunes">
+(PT) Seeber úr, amint tudja, a Tanács rendszeresen, időről időre bemutatta nézőpontját és véleményét a csatlakozási folyamatokról és a különböző országok, különösen a balkáni országok európai perspektívájáról. A Tanács világosan kifejtette, hogy a balkáni országok előtt van európai perspektíva. Valójában egyikükkel, nevezetesen Horvátországgal már tárgyalunk az ország Európai Unióhoz való csatlakozásáról.
+<P>
+Amint azt már korábban említettem, novemberben, mint rendesen, a Bizottság közleményt nyújt be a Tanácsnak, amelyben a tárgyalások, különösen a Horvátországgal folyó tárgyalások állásáról tesz jelentést, és megteszi javaslatait.
+<P>
+Ekkor érkezik el pillanat, hogy részletes és naprakész beszámolót készítsünk a csatlakozási tárgyalásokról. Mindazonáltal, még ha bizonyos nehézségek, problémák vagy késedelmek itt-ott felmerülhetnek is, én személy szerint úgy ítélem meg, hogy a tárgyalások jó ütemben haladnak.
+<SPEAKER ID="276" NAME="Elnök">
+A
+<P>
+Tárgy: Innovációfejlesztési intézkedések
+<P>
+Milyen konkrét javaslatokat szándékozik a portugál elnökség tenni, hogy elérje a 3%-os innovációs beruházást?
+<P>
+Milyen módon fognak a KKV-k, különösen a hegyes vidéken, szigeten vagy nagyon távoli régiókban találhatók, részt venni az innováció és a kutatás fejlesztését finanszírozó intézkedésben?
+<SPEAKER ID="277" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Amint azt a tisztelt képviselő asszony is tudja, az Európai Unió jelenleg még semmilyen számszerűsített összegben nem egyezett meg azzal kapcsolatban, mennyit kell fordítani az innovációra. Egy ilyen célösszeget egyébként is szinte lehetetlen volna meghatározni, és a gyakorlatban kivitelezni, mivel az innováció széles körű tevékenységet jelent, amelyet nagyon nehéz körülhatárolni és mérni.
+<P>
+Ezért az Európai Unió 2002-ben úgy döntött, iránymutatást fogad el a kutatásra és fejlesztésre, más szóval K+F-re fordítandó kiadások mennyiségileg meghatározott céljához. Ez a közismert 3%-os barcelonai cél. Ezt a célt lehetett rögzíteni, mivel az OECD Frascati kézikönyve nemzetközileg elismerten definiálja a K+F tevékenységeket, amelyeket ezért könnyebb mérni és mennyiségileg meghatározni.
+<P>
+Meg kell jegyezni, hogy az utóbbi időben ezt a célkitűzést előnyben részesített referenciamutatóként használták, minthogy az utóbbi években az üzleti ágazat jelentős szegmenseiben merültek fel nehézségek a magán K+F erőfeszítések növelése terén.
+<P>
+Mindazonáltal az innováció és kutatás előmozdítása elsőrendű fontosságú az Európai Unió politikájában. Ennek kivitelezése olyan különböző eszközök által történik, mint például a keretprogram és a versenyképességi és innovációs keretprogram (CIP) vagy a strukturális alapok.
+<P>
+A hetedik keretprogramot (FP7) és a CIP-et ez utóbbi fő kedvezményezettjei, a KKV-k szükségleteit szem előtt tartva fogalmazták meg. A kis- és középvállalkozások kutatási tevékenységekben való részvételére 15%-os minimális kvótát vezettek be a hetedik keretprogramban, amelyet az "együttműködés”-ről szóló egyedi programban kifejtett tematikus prioritások foglalnak magukban.
+<P>
+Meg kell említeni, hogy a kis- és középvállalkozások hetedik keretprogramon belüli támogatása segíthet versenyképességük és innovációs potenciáljuk növelésében. A hegyes vidéken lévő, szigetet alkotó vagy nagyon távoli régiók a strukturális alapok támogatását élvezik. További támogatást kapnak az FP7-ben szereplő, az "együttműködés”-ről szóló egyedi program rájuk vonatkozó tematikus prioritásai alapján, amely támogatás különösen e vidékek közlekedési, információs, kommunikációs helyzetének és energiaellátásának fejlesztésére irányul.
+<P>
+A "kapacitás”-ról szóló egyedi program értelmében az EU konvergencia- és legkülső régióiban meglévő kutatási potenciált kell felszabadítani. Az aktuális programokon és kezdeményezéseken felül az innovációt egy sor kezdeményezésen keresztül is fejleszteni fogják, amelyekről jelenleg is egyeztet az Európai Parlament és a Tanács. E javaslatok közé tartozik az Európai Innovációs és Technológiai Intézet létrehozására, vagyis az EUROSTARS kezdeményezés, amely aktívan magában foglalja az innovatív kis- és középvállalkozásokat, az EK-Szerződés 169. cikke által meghatározott kezdeményezéseket és az EK-Szerződés 171. cikke által előírt együttes technológiai kezdeményezéseket.
+<P>
+Hozzá kell tenni, hogy a Bizottság jelenleg is dolgozik a stratégiai energiatechnológiákra vonatkozó stratégiai cselekvési terv javaslatán, amely széles körű nyilvános konzultáción alapul. A Bizottság 2007 végén szándékozik bemutatni a javaslatot. Ugyanezen vonalak mentén, szeretném felhívni a figyelmet az új iparpolitikai megközelítésre, amely a fenntartható fejlődéssel összefüggésben az éghajlatváltozásra összpontosít, amelyben az innováció és a kis- és középvállalkozások európai gazdaságban betöltött szerepe alapvető fontossággal bírnak.
+<P>
+A kis- és középvállalkozások az említett kezdeményezések mindegyikében rendkívül fontos szerepet töltenek majd be. E kezdeményezések közül néhány a tisztelt képviselő asszony által említett régiók egyedi érdekeire irányul majd, mint például a "bónusz” kezdeményezés, amelyet már tervbe vettek, és amelynek a balti-tengeri térség tengerkutatásának irányításában lesz szerepe.
+<P>
+A portugál elnökség nem tévesztett szem elől a K+F költségvetésére vonatkozó 3%-os célkitűzésre való törekvést, és ezzel kapcsolatban meg kell említeni a júliusi Lisszabonban tartott informális versenyképességi tanács megbeszélését, amikor az állami és magánbefektetések K+F-ben betöltött szerepét elemezték, az adott célkitűzések elérését segíteni tudó közpolitikai intézkedésekkel együtt.
+<P>
+Az említett informális tanács az innovációra és a finanszírozásra, a nemzetközivé válásra és az energiahatékonyságra különös hatással lévő kis- és középvállalkozásokra vonatkozó politikát is mérlegelte.
+<P>
+Továbbá, rámutatva arra, hogy a tudomány és technológia emberi erőforrásának területén különleges intézkedésekre van szükség, és hogy az információs társadalom területén is újabb intézkedések szükségesek, a portugál elnökség reméli, hogy kedvező körülményeket teremt az egyre több kutatási, fejlesztési és innovációs törekvés számára az Európai Unió egész területén.
+<SPEAKER ID="278" NAME="Maria Panayotopoulou-Kassiotou" AFFILIATION="PPE-DE">
+(EL) Elnök úr, azt kérdezném még a Tanács képviselőjétől - akinek köszönöm a válaszát -, hogy vajon a tagállamok infrastruktúrája és a helyes kormányzásra való felkészültsége lehetővé teszi-e, hogy ez az ambiciózus program fejlessze az innovációt. Ellenőrzik-e a tagállamokat az innovációs program keretében kapott támogatási rendszerek megvalósítása során?
+<SPEAKER ID="279" NAME="Manuel Lobo Antunes">
+(PT) Remélem, jól értem a tisztelt képviselő asszony kérdését. Ha nem így van, kérem, javítson ki vagy világosítson fel, mire gondolt pontosan.
+<P>
+A következőt mondhatom: amint az a tisztelt képviselő asszony előtt is ismeretes, mindezek a kérdések közvetlenül kapcsolódnak a lisszaboni stratégiához, különösen annak "gazdasági” aspektusához.
+<P>
+Jelen pillanatban a lisszaboni stratégia új ciklusával kapcsolatos különböző szempontokat értékeljük. Az egyik kérdés, amelyet meg kell vizsgálnunk és vitatnunk, az pontosan a tagállamok szerepe az ezen a területen javasolt célok és célkitűzések elérésében. Ez főként a kis- és középvállalkozások innovációjával és fejlesztésével kapcsolatos intézkedéseket érinti, és természetesen, az irányításukról szóló fejezetben, a módot is, amely által elérik ezeket a célkitűzéseket.
+<P>
+Úgy gondoljuk, hogy a kormányzatoknak és a tagállamoknak alapvető szerepet kell játszaniuk ebben, és természetesen az is hasznos a Bizottság számára, ha szorosan nyomon követi, hogyan fejlesztik és fogadják el politikáikat a tagállamok a kitűzött cél elérése érdekében.
+<SPEAKER ID="280" NAME="Justas Vincas Paleckis" AFFILIATION="PSE">
+Soros elnök úr, a kérdésre válaszolva Ön említette az energiahatékonyságot, és magam is úgy vélem, ez a helyes megközelítés. Tegnap Potočnik biztos úr szintén hangsúlyozta, hogy az első számú prioritás az energiahatékonyság és az éghajlatváltozás elleni küzdelem. Azt kérdezném Öntől, milyen további intézkedéseket tud a Tanács hozni annak érdekében, hogy minden forrását és figyelmét hatékonyság és az éghajlatváltozás e létfontosságú problémáira irányítsa?
+<SPEAKER ID="281" NAME="Manuel Lobo Antunes">
+(PT) Amint az a tisztelt képviselő úr előtt is ismeretes, márciusban a Tanács elfogadott egy programot, amelyet mind az energia-, mind az éghajlati kérdésekben világvezetőnek tekintenek. Nekünk, az Európai Uniónak, mondhatom, csaknem történelmi felelősségünk lesz a bali konferencián, amely remélhetőleg új célkitűzéseket állít fel a Kiotói Jegyzőkönyv 2012-es lejárta utáni CO2 kibocsátására vonatkozóan. Az Európai Uniónak nagy felelőssége lesz abban, hogy támogassa és/vagy bátorítsa a nemzetközi közösséget, hogy olyan ambiciózus célkitűzéseket állítson fel magának, amilyeneket magunknak javasoltunk.
+<P>
+Így hát, Paleckis úr, már rendelkezünk egy igen nagyra törő, az Európai Unió egész területén megvalósítandó programmal. A konkrét energetikai kérdések között az energiamegtakarítás kérdése mind EU-szinten, mind az önálló tagállamokon belül napirenden van. Elmondhatom Önnek, hogy Portugáliában - ezzel kapcsolatban közvetlen tapasztalatom van - ez rendkívül fontos kérdés, amelybe nagyon sok energiát fektettünk. Mindazonáltal az új energetikai technológiákba és az alternatív energiaforrásokkal kapcsolatos tudományokba való befektetés kérdése is felmerült.
+<P>
+Sok a tennivalónk. Reméljük, hogy a teendőket gyorsan és jól el lehet végezni. Természetesen most arra az energiáról és éghajlatváltozásról szóló ambiciózus programra kell koncentrálnunk, amelyben megegyeztünk.
+<SPEAKER ID="282" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) A mai napon szavaztunk itt az Európai Parlamentben az ETI-ről (Innovációs és Technológiai Intézet), és de facto megegyeztünk, hogy elsőrendű prioritást kell, hogy kapjon. Mikorra lesz képes a portugál elnökség arra, hogy közzétegyen egy finanszírozási javaslatot, amelyet aztán a Parlamenttel együtt megvalósítanak, amilyen gyorsan csak lehetséges? Gondolja, hogy az ETI szerepel majd a félidős értékelésben és az állapotfelmérésben is?
+<SPEAKER ID="283" NAME="Manuel Lobo Antunes">
+(PT) Rübig úr, meg kell mondanom Önnek, - elnök úr, engedelmével - meg kell mondanom Önnek, hogy az Innovációs és Technológiai Intézet, hatékony beindítása és működésbe léptetése a portugál elnökség prioritása. Ennélfogva arra fogunk törekedni, hogy biztosítsuk, hogy az Intézet még a portugál elnökség lejárta előtt létrejöjjön.
+<P>
+Természetesen, miközben az elnökség cselekszik és tesz javaslatokat, az EU intézményeitől függ, hogy elfogadják-e azokat. Arról biztosíthatom Önöket, hogy az elnökség igyekezni fog a lehető leggyorsabban cselekedni. Léteznek egyéb témák és kérdések, amelyek a Tanács egészének és az intézmények hatáskörébe tartoznak, és ez is olyan tény, amelyet nem hagyhatunk figyelmen kívül.
+<SPEAKER ID="284" NAME="Elnök">
+Az
+<P>
+Tárgy: A koszovói helyzet alakulása
+<P>
+A Tanács főtitkára, Javier Solana, 2007. július 10-én az ENSZ főtitkárával való találkozásán azt mondta Koszovóval kapcsolatban: "... a kérdés további halasztása nem volna jótékony hatással a térségre”. Ezen felül a francia hírügynökség, diplomáciai forrásokat idézve, azt állította, hogy Brüsszel nagyon komolyan fontolgatja Koszovó elismerésének lehetőségét, de csakis "a lehető legrendezettebb módon”.
+<P>
+Mik a Tanács hozzáfűznivalói ezekhez a fejleménykehez? Elutasíthatja-e határozottan az egyoldalú elismerés lehetőségét, különösen, ha ezzel megelőzi az ezzel kapcsolatos ENSZ-eljárásokat?
+<SPEAKER ID="285" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Elnök úr, hölgyeim és uraim, mint Önök is tudják, a Tanács 2007. június 18-án megismételte azon álláspontját, amely szerint az ENSZ különleges megbízottja, Martti Ahtissari elnök által kidolgozott átfogó javaslat szolgáltatja az alapot Koszovó kérdésének rendezéséhez az Egyesült Nemzetek Biztonsági tanácsának új állásfoglalása által. Az Európai Tanács támogatását fejezte ki a megélénkült törekvések iránt, amelyek biztosítják, hogy az ENSZ Biztonsági Tanácsa kellő időben fogadhassa el az állásfoglalást.
+<P>
+Amint az Önök előtt is ismeretes, jelenleg az ENSZ Biztonsági Tanácsának az új állásfoglalásról való konzultációit felfüggesztették, az ENSZ Biztonsági Tanácsa azonban készen áll a kérdés megvitatására. Ban Ki-moon, az ENSZ főtitkára augusztusi nyilatkozatában kiemelte a kapcsolattartó csoport azon kezdeményezését, hogy a Pristina és Belgrád közti új tárgyalásokat egy trojka vezesse, amely az Európai Unió, az Orosz Föderáció és az Egyesült Államok képviselőjéből álljon. Az ENSZ főtitkára felkérte a kapcsolattartó csoportot, hogy december 10-ig tegyen neki jelentést. Az új tárgyalási szakasz mögötti szándék az, hogy mivel a résztvevőknek új elképzelésekkel előállniuk, a trojka előmozdítja a folyamatokat.
+<P>
+Amint Önök is tudják, 2007. július 29-én Solana főtitkár és főképviselő úr Wolfgang Ischinger nagykövetet nevezte ki a trojkába az EU képviselőjének. A trojka azóta augusztus 10-én és 11-én Belgrádban és Pristinában, augusztus 30-án Bécsben, és szeptember 18-19-én Londonban külön-külön találkozott a felekkel. A miniszteri szintű kapcsolattartó csoport ülésén, amelyet szeptember 27-én tartanak New Yorkban az ENSZ Közgyűlésével egybekötve, a miniszterek megvitatják a tárgyalások állását, és nyilatkozatot fognak kiadni, amelynek célja a folyamat ösztönzése lesz. Szeptember 28-án szintén New Yorkban, további külön ülések folynak majd a trojka és a felek között, amelyeket talán ugyanazon a napon követi majd a felek közti első közvetlen tárgyalás is.
+<P>
+Ahogyan arra Solana úr rávilágított, immár elengedhetetlen, hogy a felek is konstruktívan közreműködjenek az eljárásban, és hogy lényegi tárgyalásokat folytassanak. A trojka-eljárás végeztével az ENSZ főtitkárának jelentést kell tennie a kérdésről az ENSZ Biztonsági Tanácsa előtt. Ahogy azt Önök is láthatják, az eljárásnak ebben a szakaszában még túl korai bármit is mondani annak kimeneteléről.
+<SPEAKER ID="286" NAME="Dimitrios Papadimoulis" AFFILIATION="GUE/NGL">
+(EL) Elnök úr, Condoleezza Rice éppen tegnap jelentette ki, hogy Koszovó független lesz. Az USA forgatókönyve világos: a függetlenség egyoldalú kihirdetése decemberben, és az USA általi azonnali elismerése.
+<P>
+Mi a Tanács álláspontja ezzel az eljárással kapcsolatban? Foglalkozik-e a szélesebb régiónak az albán nacionalizmus miatti egyre növekvő destabilizációjával? Szándékozik-e a Tanács végre lényegileg és egységesen cselekedni?
+<P>
+Azt olvastam a New York Timesban, hogy az európai diplomaták igyekeznek elébe menni a Tanács álláspontjának, amely aztán szolgaian követi az Egyesült Államokét. Miért nem mondja el a Tanács diplomatáinak véleményét? Világos választ kérünk.
+<SPEAKER ID="287" NAME="Manuel Lobo Antunes">
+(PT) Nem olvastam és nem hallottam Riis-Jørgensen asszony nyilatkozatait, ezért nem szeretnék közvetlenül rájuk reagálni. Mindazonáltal, a következőt mondanám: elkezdtünk egy folyamatot, amelyet a trojka vezet, és amelynek tagjai az Európai Unió, az Orosz Föderáció és az Egyesült Államok képviselőiből állnak.
+<P>
+Hagynunk kell a trojkát, hadd végezze a feladatát, mégpedig nyugalmas és bizalommal teli légkörben. Ami az Európai Uniót illeti, teljes mértékben támogatja a trojka munkáját. Ezenfelül a trojka világos megbízást kapott, hogy decemberben jelentést tegyen a következtetésekre vonatkozólag. Ez a jelentés minden valószínűség szerint az elkövetkező hónapokban folyó munkákból következő ajánlásokat is tartalmazni fogja. Ezért reméljük, amint az imént mondtam, hogy a munka befejeződik, a jelentést nyilvánosságra hozzák, és amennyiben a trojka tesz valamilyen ajánlást, azt tudomásunkra hozzák.
+<P>
+Az Európai Unió számára alapvetően fontos, hogy bármilyen következtetések és ajánlások szülessenek is, és bármilyenek legyenek is Koszovó jövőbeni kilátásai a Trojka jelentése szerint, az Európai Unió minden döntés esetén egységes és összetartó maradjon. Ez az állandó elhivatottság jellemezte a portugál elnökséget, és bízunk benne, hogy eredménnyel fog járni.
+<SPEAKER ID="288" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Soros elnök úr, tudja-e Ön, hogy Papadimoulis úr teljesen egyedül van itt a véleményével? Ismert-e Ön előtt a Ház által elfogadott állásfoglalás, amelyben a tagok 75%-os többsége kedvezően fogadta az Ahtisaari-Rohan-tervet, továbbá világosan a nemzetközi felügyelet alatti szuverenitás mellett foglaltunk állást? Tudja-e, hogy egyértelműen elvetettük Koszovó megosztásának lehetőségét? Azt kérdezném, továbbá, mit gondol a szóbeszédről, amely Koszovó megosztását rebesgeti, amelye lehetőségét mind a kapcsolattartó csoport, mind ez a Parlament elvetette.
+<SPEAKER ID="289" NAME="Manuel Lobo Antunes">
+(PT) Koszovó megosztásának vagy felosztásának kérdése semmiképpen sem tartozik a napirendi pontok közé, és a trojka munkájának sem képezi részét.
+<SPEAKER ID="290" NAME="Elnök">
+A
+<P>
+Tárgy: Kazahsztán EBESZ- elnökségi jelöltsége
+<P>
+Jelentések szerint Kazahsztán jelöltetni szeretné magát 2009-re az EBESZ elnökségi posztjára. Az elnökséget betöltő ország külügyminisztere képviseli a szervezetet, és irányítja az EBESZ minden tevékenységét.
+<P>
+Kazahsztán olyan ország hírében áll, amely még soha nem tartott nemzetközi színvonalú választásokat, és ahol az emberi jogokat sem tartják kellően tiszteletben.
+<P>
+Az EU-tagországok az EBESZ-en belül igen gyakran együttesen, egy tömbben cselekszenek. Az egyhangú döntés különösen elvárható egy ilyen lényegi kérdésben, amikor egy nem demokratikus ország akar az EBESZ soros elnöke lenni. Ezt a nehéz döntést novemberben kell meghozni.
+<P>
+Létezik-e az Általános Ügyek Tanácsán belül konszenzus arra vonatkozólag, hogy Kazahsztán jelöltsége elfogadhatatlan? Egységes frontot fognak-e alkotni a tagállamok?
+<SPEAKER ID="291" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Köszönöm, elnök úr, tisztelt képviselő úr. Az Európai Unió nem hozott még döntést Kazahsztán 2009-es EBESZ-elnökségi jelöltségéről. Az EU úgy látja, hogy Kazahsztán jelöltsége még inkább megerősíti majd annak szükségességét, hogy az ország törekedjen a reformokra, és minden dimenzióban tiszteletben tartsa az EBESZ szabályait és a vele járó kötelezettségeket. A Tanács többször megerősítette, hogy az EBESZ elnökségét betöltő bármely ország köteles példamutatóan tiszteletben tartani a szervezet alapelveit.
+<P>
+Kazahsztán politikai hatóságaival folytatott megbeszélésein az Európai Unió, a Tanács és a Bizottság hangsúlyozta, hogy Kazahsztánnak meg kell mutatnia, hogy készen áll és képes arra, hogy maradéktalanul megfeleljen EBESZ szabályainak és kötelezettségeinek a szervezet mindhárom dimenziójában, nevezetesen az emberi dimenzióban, a politikai és katonai dimenzióban, valamint a gazdasági és környezetvédelmi dimenzióban.
+<SPEAKER ID="292" NAME="Koenraad Dillen  " AFFILIATION="ITS">
+a szerző helyettese. - (NL) Köszönöm a válaszát, Miniszter úr. Feltételezhetem, hogy arra céloz, hogy Kazahsztán jelenleg nem felel meg ezeknek a feltételeknek?
+<SPEAKER ID="293" NAME="Manuel Lobo Antunes">
+(PT) Kénytelen vagyok magyarázatot fűzni az előzőekhez, mert a tisztelt képviselő úr olyan következtetést vont le szavaimból, amely nem egészen felel meg annak, amit mondtam. Annyit mondtam, hogy nem született még döntés Kazahsztán jelöltségéről, és hogy a Kazahsztán jelöltségéről szóló döntés, az erre alkalmas időpontban, figyelembe fogja venni, hogy Kazahsztán megfelel-e az általam említett feltételeknek. A vizsgálat és tanácskozás a megfelelő helyen és időben fog zajlani.
+<SPEAKER ID="294" NAME="Elnök">
+A 7. kérdés tárgytalan, mivel szerzője nincs jelen.
+<P>
+A
+<P>
+Tárgy: A kékúszójú tonhal földközi-tengeri halászata
+<P>
+2007. június 11-én a Tanács elfogadta a 41/2006/EK rendeletet módosító 643/2007/EK rendeletet, amely az Atlanti Tonhal Védelmére Létrehozott Nemzetközi Bizottság által ajánlott kékúszójútonhal-állomány helyreállítási tervre vonatkozik. Mindazonáltal a szöveg nem veszi figyelembe az egyenlő bánásmód alapelvét az európai unióbeli kékúszójútonhal-halászokkal szemben. A kifogott halak minimum súlyát és a halászati időszakot meghatározó szabályok különböznek a halfogás földrajzi területei szerint.
+<P>
+Mi az oka annak, hogy ilyen eltérő bánásmódban részesülnek a földközi-tengeri és az Atlanti-óceán keleti részén dolgozó halászok?
+<P>
+A francia földközi-tengeri kékúszójútonhal-halászokra vonatkozó korlátozások komolyan felboríthatják az ágazat társadalmi-gazdasági egyensúlyát. Az új rendelet által megkövetelt 30 kg-os határérték felett a tonhal nehezen eladható. A halászati időszak kéthetes csökkentése lényeges bevételkiesést jelent a halászok számára. Körülbelül ezer halászt és családjukat érintik közvetlenül ezek az intézkedések.
+<P>
+Milyen tekintetben károsabb a kékúszójútonhal-halászat a Földközi-tengeren, mint az Atlanti-óceán keleti részén?
+<SPEAKER ID="295" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Köszönöm, elnök úr, Navarro úr. Szeretném megköszönni a Tanács nevében a tisztelt képviselő úrnak, hogy feltette a kékúszójútonhal-állomány helyreállítási tervére vonatkozó kérdését. A tervet az ICCAT (Atlanti Tonhal Védelmére Létrehozott Nemzetközi Bizottság) tudósainak véleménye alapján dolgozták ki. A vélemény azonnali és kiterjedt intézkedéseket javasolt a földközi-tengeri és az Atlanti-óceán keleti részén található kékúszójútonhal-állomány pusztulásának megmentésére. Az ICCAT a 2006 novemberében Dubrovnikban tartott éves ülésén elfogadta a 15 éves helyreállító tervet tartalmazó javaslatot. Ennek eredményeképpen az Európai Bizottság, mint az ICCAT tagja, elfogadta a nemzetközi kötelezettséget, és átültette a közösségi jogba az említett helyreállítási tervet.
+<P>
+A kötelezettség tökéletes figyelmen kívül hagyásának következménye kereskedelmi téren meglehetősen hátrányos helyzetbe hozná az Európai Közösséget az ázsiai piacokon. Kötelezettségünket 2007-ben a 643/2007/EK tanácsi rendelet elfogadásával teljesítettük, amely módosítja a teljes kifogható mennyiségekről és kvótákról szóló rendeletet. Egy bizottsági javaslat alapján a Tanács jelenleg a szükséges rendeleteket vizsgálja, hogy a tervet 2008. január 1-jétől további 14 évig folyamatosan alkalmazhassák. A különböző területekre más-más szabályok vonatkoznak, hogy tükrözzék a halászattípusok, a tevékenységi szintek és a halállományegységek helyzetének eltéréseit. Emlékeztetem Önöket, hogy e halászatok között a csúcstechnológiával folyó ipari halászat és a nem ipari, hagyományos halászat is megtalálható.
+<P>
+Az ICCAT csoportok elfogadták a tudományos véleményen alapuló tervet, amely tett bizonyos megkülönböztetéseket a Földközi-tenger és az Atlanti-óceán keleti része között. A Tanács ezért úgy véli, hogy az ICCAT megpróbált a tudományos vélemény alapján eljárni azzal, hogy a társadalmi-gazdasági következmények csökkentése végett különbséget tett a helyreállító terv elemei között.
+<P>
+A Tanács tökéletesen tudatában van, hogy ennek a fontos helyreállító tervnek vannak társadalmi-gazdasági következményei a szóban forgó halászközösségekre nézve. Ezeket a következményeket azonban akkor is érezni lehetne, ha a kékúszójútonhal-állomány újra kipusztulóban volna. A 643/2007/EK tanácsi rendelet elfogadásáról szóló tárgyalások folyamán a Tanács és a Bizottság egyetértett egy olyan rendelkezés bevezetésében, amely biztosítja, hogy a helyreállító tervet, mint olyat, az Európai Halászati Alap elismerje. Ez lehetővé teszi a tagországok számára, hogy az Alapból származó forrásaik egy részéből az érintett halászközösségeket sújtó gazdasági hatásokat mérsékeljék. A tervek szerint ez a rendelkezés 2014. december 31-ig hatályban marad.
+<SPEAKER ID="296" NAME="Josu Ortuondo Larrea  " AFFILIATION="ALDE">
+a szerző helyettese. - (ES) Elnök úr, most Navarro úr helyett mondanék néhány szót, majd feltenném saját kérdésemet, vagy inkább megismételnék egy kérdést.
+<P>
+A Navarro úr nevében feltett kérdésem a következő: a 2371/2002/EK tanácsi rendelet 23. cikk (4) bekezdése, amely előírja a kékúszójútonhal-állományt helyreállító terv bevezetését, lehetővé teszi, hogy egy tagállam által az egyik évben az éves kvótához képest termelt többletet levonják a következő év halászati lehetőségeiből. A kérdésem a Tanácshoz a következő: mi történik azokkal a halászokkal, akik ebben az évben az éves kvótájuknál kevesebbet fogtak, mivel a Bizottság a múlt héten lezárta a halászterületeket?
+<SPEAKER ID="297" NAME="Elnök">
+Ortuondo úr, nem adhatok Önnek több alkalmat a felszólalásra, mivel már két felszólaló is várakozik a sorára. Mindazonáltal adok Önnek további 15 másodpercet, amennyiben azonnal fel kívánja tenni kérdését, mivel az eljárási szabályzat értelmében, nem engedhetek meg három kiegészítő kérdést. Kivételesen, és a jelenlévők türelmét kérve, további 15 másodpercet kap a folytatásra.
+<SPEAKER ID="298" NAME="Josu Ortuondo Larrea" AFFILIATION="ALDE">
+(ES) Elnök úr, engedelmével és elnézését kérve azt kérdezném a Tanács elnökségétől, hogyan lehet alkalmazni a 2371/2002/EK rendeletet, ha a tagállamok nem működtek együtt a Bizottsággal, mivel nem küldték meg neki a halászati év halfogásairól szóló kötelező dokumentációt.
+<SPEAKER ID="299" NAME="Manuel Lobo Antunes">
+(PT) A tisztelt képviselő úr által feltett kérdések közül az egyik igen konkrét és részletekbe menő. Megpróbálok legjobb tudásom szerint válaszolni rá, de őszintén úgy vélem, az első kérdés közvetlenül a Bizottságra tartozik, ezért nekik kellene feltenni. Azt hiszem, a Bizottság a Tanácsnál minden bizonnyal kedvezőbb helyzetben van, hogy a kívánt felvilágosítást megadja Önnek.
+<P>
+A tagállamok és a Bizottság közti állítólagos együttműködési hiányra vonatkozó második kérdését tekintve, természetesen, ha ez így van, akkor a Bizottság dolga, hogy megvizsgálja a helyzetet, és megtalálja a legjobb módot, amellyel, hogy úgy mondjam, kényszerítheti a tagállamokat, hogy betartsák a korábban feltehetőleg saját maguk által megszabott kötelezettségeket. Ezért aztán úgy vélem, ezt a kérdést jobb volna inkább a Bizottságnak, mint a Tanácsnak feltenni.
+<SPEAKER ID="300" NAME="Richard Seeber" AFFILIATION="PPE-DE">
+(DE) Megkérdezném az elnökséget, hogy a halászati kvótákkal összefüggésben hogyan kezeli az éghajlatváltozás jelenségét. Mindannyian tudjuk, hogy az éghajlatváltozást jelenleg az óceánok erős hőelnyelése fékezi; az energia 80%-át még mindig az óceánok nyelik el. Mindazonáltal természetesen azt is meg kell vizsgálni, hogy a jövőben a tengeri környezet is erősen fel fog melegedni. Hogyan biztosítja az elnökség, hogy megfelelő módon számba veszik ezeket a tudományos eredményeket, és hogy a halászati kvóták kidolgozásakor figyelembe veszik a vízi környezetet?
+<SPEAKER ID="301" NAME="Manuel Lobo Antunes">
+(PT) Úgy gondolom, ez is olyan kérdés, amelyet inkább a Bizottsághoz kellene intézni, mint a Tanácshoz, minthogy a Bizottságnak természetes vezető és lényegi szerepe van ebben a tekintetben. Újra csak azt mondhatom a képviselő úrnak, hogy a környezetvédelmi kérdések, különösen az éghajlatváltozással kapcsolatosak, prioritásként szerepelnek az elnökség és a Tanács napirendjén. Az év végi bali konferencia után komoly kihívással nézünk majd szembe, de reméljük, hogy az egész eljárást követően, 2009-ben új CO2 kibocsátással kapcsolatos célkitűzésekről tudunk majd dönteni.
+<SPEAKER ID="302" NAME="Rosa Miguélez Ramos" AFFILIATION="PSE">
+(ES) Elnök úr, a Tanács soros elnöke, szeretnék én is néhány megjegyzést tenni a kékúszójú tonhal kérdését illetően, konkrétabban a halászati területek bezárásáról, amelyet nemrégiben rendelt el a Bizottság, mióta az Európai Uniónak kiutalt kvótát elérték.
+<P>
+A Bizottságtól kapott információ alapján arra lehet következtetni, hogy a halászati területek bezárásakor egyes tagállamok, köztük Spanyolország és Portugália, még nem fogták ki a kvótájukat, míg mások, mint például Franciaország és Olaszország meg is haladták, sőt, valójában meg is kétszerezték a sajátjukat, ezáltal abba a kellemetlen helyzetbe hozva az Európai Uniót, hogy az megszegte a nemzetközi szabályokat.
+<P>
+A Tanács felé irányzott kérdésem a következő: milyen intézkedéseket tud tenni a Tanács, hogy kárpótolja azokat az államokat, amelyek nem merítették ki a halászati kvótájukat azoktól az államoktól vett levonásokkal, amelyek meghaladták a sajátjukat? Tehet-e ilyen intézkedéseket a Tanács?
+<P>
+Egy másik kérdést is szeretnék feltenni: mit szándékozik tenni a Tanács? Milyen intézkedésekkel fogja biztosítani, hogy ne fordulhasson elő még egyszer hasonló helyzet?
+<SPEAKER ID="303" NAME="Manuel Lobo Antunes">
+(PT) Elnök úr, Miguélez asszony, még egyszer arra kell kérnem, hogy ezeket a kérdéseket a Bizottságnak tegye fel. Nyilvánvalóan a Bizottság van olyan helyzetben, hogy pontos választ adjon az imént feltett kérdéseire.
+<SPEAKER ID="304" NAME="Elnök">
+A
+<P>
+Tárgy: Az európai jogszabályok nyilvános kidolgozása
+<P>
+Tud-e a Tanács bármilyen negatív következményről, amely abból fakad, hogy a Tanács 2006. júniusi határozatának értelmében a Tanács honlapján közvetítik azokat az üléseket, amelyeken a miniszterek a jogszabályokat vitatják meg?
+<SPEAKER ID="305" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) A képviselő úr kérdésére válaszolva az elnökség felhívná a figyelmet az átláthatóság átfogó politikájának végrehajtásáról szóló jelentésre, amelyet az ezt megelőző finn elnökség nyújtott be a Tanácsnak 2006. december 11-én. A jelentés tartalmazta a Tanács legutóbbi értékelését a Tanács munkájának hatékonyságára vonatkozó új, átláthatósági intézkedések hatásáról. Az előzetes jelentés szintén előzetes következtetéseinek értelmében, 2007. év vége előtt alaposabb értékelést kell tenni az átláthatósági intézkedések hatásáról, amikor már több gyakorlati tapasztalat áll a rendelkezésünkre arról, milyen hatással vannak azok a Tanács munkájára.
+<P>
+Elmondhatom Önöknek, hogy 2006 első felében összesen 98 tanácskozást és vitát tettek nyilvánossá, az Európai Tanács 2006. június 16-i következtetéseinek és a Tanács eljárási szabályzata 8. cikkének megfelelően.
+<SPEAKER ID="306" NAME="Chris Davies" AFFILIATION="ALDE">
+Köszönöm az elnök úr válaszát, és örömömre szolgál, hogy a Tanács úgy döntött, intézkedik az ülések közvetítéséről, elébe menvén a reformszerződésben esetlegesen található bármely rendelkezésnek.
+<P>
+Hozzátenném a soros elnök úr válaszához, hogy 2007. év vége előtt értékelést készítenek és tesznek közzé, amely remélem, megmutatja, hogy a nyitottság és átláthatóság elveit hogyan lehetne kiterjeszteni ezen a területen. Meg tudná-e erősíteni a soros elnök úr, hogy valóban közzé tesznek egy ilyen áttekintést az elnökség lejárta előtt?
+<SPEAKER ID="307" NAME="Manuel Lobo Antunes">
+(PT) Amit megerősíthetek, és amiről biztosítani tudom Önt, az az, hogy a portugál elnökség számára fontos ez a téma, és minden tőlünk telhetőt megteszünk, hogy keresztülvigyük ezt a folyamatot. Ebben a pillanatban nem tudok konkrét határidőt mondani az áttekintésre, ám arról biztosíthatom, hogy a portugál elnökség nagyon szeretné előbbre vinni az átláthatóság kérdését, és elkötelezett mellette.
+<SPEAKER ID="308" NAME="Elnök">
+A
+<P>
+Tárgy: Az afganisztáni helyzet
+<P>
+Hogyan látja a Tanács az EU szerepét az afganisztáni helyzet stabilizációjában, tekintettel arra, hogy az EU bizonyos tagállamainak csapatai ott állomásoznak?
+<SPEAKER ID="309" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Az Európai Unió megközelítése lényegében a szigorú összhangon alapul. Az EU-n belül különös figyelem irányult arra, hogy az Európai Közösség, a Tanács, és a tagállamok intézkedéseinek egymást kiegészítő jellegét és kölcsönös megerősítését biztosítsák. Kifelé az Európai Unió egyike volt az Afganisztánnal való 2006-os együttműködési megállapodással létrehozott koordináló és felügyelő testület fő tagjainak.
+<P>
+A Tanács 2007. február 12-i, az EBVP (európai biztonsági és védelmi politika) afganisztáni missziójának továbbviteléről szóló határozatát ennek a szélesebb körű stratégiának keretében kell értelmezni. Az EU Rendőri Missziója (EUPOL) jelenleg tervezési szakaszban van. Az Európai Unió ezen a misszión keresztül jelzi a tágabb értelemben vett jogállamisághoz kapcsolódó területen való aktívabb részvételi szándékát. Ez a misszió természetesen illeszkedik a Bizottságnak az igazságszolgáltatás megreformálása melletti elkötelezettségéhez. Mindezen törekvések közös célja az afgán intézmények szuverenitásának erősítése.
+<P>
+Afganisztán 2001 óta igen jelentős haladást ért el a következő területeken: képviseleti intézményeket állított fel, felszabadította a sajtót, intézményeket létesített a biztonsági ágazatban, javított az egészségügy, az oktatás, az emberi jogok és a nők helyzetén, kinevezte a legfelsőbb bíróság tagjait és tanácsadó testületet állított fel magas rangú tisztviselők kinevezésére. Az Európai Unió alapvető szerepet játszott ebben a folyamatban, és 2002 óta 3,7 milliárd euróval járult hozzá. Az Európai Unió továbbra is törekszik annak biztosítására, hogy fejlesztési támogatása az ország egész területén eljusson az afgán néphez.
+<P>
+Jelenleg nagyobb hangsúlyt fektetnek a kormányzásra és a jogállamiságra, aminek célja, hogy más területeken is erősítsék a megtett lépéseket. A Bizottság programokat dolgozott ki a vidékfejlesztés, az egészségügy és a kormányzás területére, és minden olyan civil tevékenységet is támogat majd pénzügyileg, amelyet a tagállamok a tartományi helyreállító csapatokon keresztül végrehajtanak. Az Európai Unió szilárdan hisz abban, hogy amint azt az Európai Tanács 2006. december 14-én kijelentette, Afganisztán biztonsága és fejlesztése független. Ezért van, hogy az Európai Unió mindig is hosszú távon kötelezte el magát erős és kiegyensúlyozott stratégiájával Afganisztán ügye mellett.
+<SPEAKER ID="310" NAME="Ryszard Czarnecki" AFFILIATION="UEN">
+(PL) Nagyon köszönöm a felvilágosítást, Antunes úr. Mindössze egyetlen kulcskérdésre szeretnék utalni, amely az Afganisztánban működő Európai Bizottság képviselőinek azon nyilatkozatait érinti, amelyek a Parlament külügyi bizottsága előtt hangzottak el.
+<P>
+Arról szeretnék tájékozódni, hogy a Tanács szándékozik-e növelni az afganisztáni humanitárius segélyeket, és fokozza-e a civil társadalom újraépítésére tett erőfeszítéseit a térségben. Véleményem szerint a katonai jelenlétnél többre van szükség Afganisztánban. Mivel az én hazám is katonái is jelen vannak Afganisztánban, érthető, hogy szeretnénk elérni a térség bizonyos fokú stabilitását.
+<SPEAKER ID="311" NAME="Manuel Lobo Antunes">
+(PT) Egyetértek a képviselő úrral: Afganisztánban a biztonság és a katonai értelemben vett stabilitás előmozdítása alapvető fontosságú, ám ez csak része annak, amit az országban tennünk kell. Dolgoznunk kell még az afganisztáni demokratikus intézmények megerősítésén, és az afgán civil társadalomról sem feledkezhetünk meg. Be kell ruháznunk az egészségügybe, az oktatásba és a szakképzésbe. És természetesen továbbra is el kell nyernünk az afgánok jóindulatát.
+<P>
+Éppen ezért stratégiánk két szempontot tart szem előtt, melyek közül az egyik a térség biztonságát és stabilitását magában foglaló katonai szempont. Biztonság és stabilitás nélkül nem lehetséges a béke, és a gazdasági és társadalmi fejlődés is minden bizonnyal lehetetlen. Ennélfogva gondoskodnunk kell erről a szempontról, miközben munkát és pénzt kell fektetnünk az afgán civil társadalomba és a demokratikus intézményekbe is, ami az afgán állam adminisztratív kapacitásának újjáépítését jelenti.
+<SPEAKER ID="312" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Afganisztán gazdasági stabilitása a működő demokráciának és az ország békéjének legfontosabb előfeltétele. Az Európai Unióban a vállalkozói ismertek oktatására irányuló oslói menetrend segíti a KKV-k elindítását, támogatja a vállalkozói szellemet és elősegíti az exportot és az importot. Megvalósítható-e az oslói menetrend Afganisztánban is?
+<SPEAKER ID="313" NAME="Manuel Lobo Antunes">
+(PT) Rübig úr, amint azt az előbb is említettem, úgy gondolom, hogy az afgán társadalom minden területén be kell fektetnünk. Kétségtelen, hogy egy olyan országban, mint Afganisztán, amely jelenleg biztonsági és gazdasági nehézségekkel küzd, továbbá különleges a társadalmi szerkezete, a kis- és középvállalkozások rendkívül fontos szerepet játszhatnak.
+<P>
+Ezért úgy tűnik, hogy ez valóban olyan ágazat, amelybe az afganisztáni gazdasági és társadalmi struktúra alakításának szempontjából lehet és kell is befektetnünk. Természetesen arról már lehet vitázni, hogy a pénzügyi eszközt konkrétan hogyan használjuk fel, ám kétségtelen, hogy jelenleg senki sem számít nagy vállalkozások kiépítésére Afganisztánban, legalábbis most még nem. Ennek még nem érkezett el az ideje.
+<P>
+Az afgán gazdaság újjáélesztése érdekében, úgy vélem, különösen a képzés, és egyben a kis- és középvállalkozások területére kell összpontosítani.
+<SPEAKER ID="314" NAME="Elnök">
+A
+<P>
+Tárgy: Az európai szervezett bűnözés elleni európai uniós kezdeményezések
+<P>
+Tud-e az Európai Tanács nyilatkozni az Európán belüli szervezett bűnözés mai szintjéről, és arról, hogy milyen koordinált kezdeményezéseket valósítanak meg EU-szinten az egyre növekvő szervezett bűnözés elleni küzdelem érdekében?
+<SPEAKER ID="315" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) A Tanács szeretné a képviselő úr figyelmét felhívni a szervezett bűnözésre vonatkozó kockázatértékelésre (OCTA), amelyet az Europol évenként készít a Tanács részére, és amelynek egy verzióját minden évben nyilvánosságra hozzák, és az Európai Parlament számára is benyújtják.
+<P>
+Idén június 13-án, az OCTA 2007-ről szóló következtetéseiben a Tanács újból kifejtette azon meggyőződését, hogy a szervezett bűnözés elleni küzdelemnek a veszély és a kár csökkentésére kell összpontosítania, és különösen a következő problémákkal kell megbirkóznia: a nemzetközi szintű vagy befolyásos szervezett bűnözői csoportok felszámolását gátló akadályokkal, a szervezett bűnözés társadalomba és gazdaságba való beszivárgásának mértékével, különösen a törvényes vállalati struktúrával és a közlekedési ágazattal való visszaéléssel, és végül, a szervezett bűnözői csoportok technológiával való visszaélésével.
+<P>
+A Tanács továbbá hangsúlyozta, hogy az Európai Unió 2007-es prioritásai a következő bűnügyi piacok lesznek: drogkereskedelem, különösen a szintetikus kábítószerek; csempészet és emberkereskedelem, különösen az illegális bevándorláshoz kapcsolódóan; csalás, különösen a fokozottan adóztatott árukkal és a HÉA-val való visszaélés; euróhamisítás, árucikk-hamisítás, a szellemi tulajdon lopása és a pénzmosás.
+<P>
+Mint már az OCTA 2006 esetében is történt, a következtetések rávilágítottak az operatív információn alapuló multidiszciplináris megközelítés szükségességére, amelynek célja nemcsak a bűncselekmények felderítése, hanem a bűnszervezetek felszámolása, a bűnözők bíróság elé állítása, és bűncselekményekből származó javaktól való megfosztásuk.
+<P>
+Ehhez különleges források és szervező struktúrák szükségesek, amelyek célja minden, a végrehajtó szervek rendelkezésre álló információ felhasználása, s ezáltal a legveszélyesebb bűnöző csoportok azonosítása és leszerelése.
+<P>
+Következtetéseiben a Tanács egy olyan új, operatív információn alapuló ellenőrző stratégia további fejlesztésére is felszólít, amely a teljes ország - és lehetőleg az egész EU - területét lefedné, útközbeni vagy a célországban történő vizsgálatokkal egészítené ki a külső határellenőrzéseket, felügyelné a pénzügyi mozgásokat és kiterjesztené a nemzeti és az uniós bűnüldöző szervek elemző kapacitását.
+<SPEAKER ID="316" NAME="Eoin Ryan" AFFILIATION="UEN">
+A kérdésem két részből áll. Az elsőt megválaszolta, amikor a megvalósított kezdeményezésekről beszélt, azt a részt azonban nem érintette, amelyben a szervezett bűnözés mértékére kérdezek. Sokan úgy érzik, hogy ezt jelenleg erősen alulbecsülik, és hogy a szervezett bűnöző bandák az Európai Unió számos, ha nem minden országába beszivárogtak. Ez egy szűnni nem akaró probléma, és sokan vélik úgy, hogy a jelenleginél sokkal koordináltabb módon kellene kezelni. A kérdésem tehát a szervezett bűnözés európai mértékére vonatozik.
+<SPEAKER ID="317" NAME="Manuel Lobo Antunes">
+(PT) Ryan úr, amint azt már említettem, úgy gondolom, hasznos, vagyis szükséges, sőt elengedhetetlen volna, hogy beletekintsen az európai szervezett bűnözésre vonatkozó kockázatértékelésbe. Nem szállhatok vitába azzal kapcsolatban, hogy növekszik, vagy éppen csökken a bűncselekmények száma, minthogy erről semmilyen információval nem tudok szolgálni Önnek, ám gyakran előfordul, hogy pszichológiailag a bűncselekmények számának növekvését érzékelik, miközben a tények ezt nem támasztják alá.
+<P>
+Egy dolog azonban kétségtelen: jobban összpontosított erőfeszítésre és szorosabb együttműködésre van szükségünk a tagállamok részéről, különösen az európai intézmények és a tagállamok közötti együttműködés terén, hogy megszüntethessük a szervezett bűnözésből fakadó sokféle, kiterjedt veszélyt. Amint jeleztem, a rendelkezésre álló új technológiák következtében a szervezett bűnöző csoportok rendkívül kifinomult eszközökkel rendelkeznek, amelyekkel rendkívül nehéz felvenni a harcot. Úgy vélem, minden tagállam tisztában van ezekkel az új technológiákkal és a technológiai fejlődés kínálta lehetőségekkel, amelyek kétségkívül sajátságos problémákat okoznak a szervezett bűnözés elleni küzdelemben.
+<P>
+A portugál elnökség, természetesen, minthogy ez feladata, minden, az intézmények által tett javaslatot és ajánlatot megfontol, hogy hatékonyabban tudjon fellépni e szervezett bűnöző csoportok ellen, amelyek az elkövetett bűncselekmények révén elkerülhetetlenül hatással vannak társadalmunkra.
+<SPEAKER ID="318" NAME="Jim Allister" AFFILIATION="NI">
+Felteszem, a soros elnök úr megdöbbenne azon, ha kiderülne, hogy a szervezett bűnözés és egy tagállam kormánya közt bármi kapcsolat lehetséges. Mégis, sajnos, pontosan ez történik Észak-Írországban, ahol a Sinn Féint, a kormány egy vezető pártját, szétbogozhatatlan szálak fűzik IRA-hoz, és amelynek illegális haditanácsa kezében van az IRA szervezett bűncselekményeiből származó több százmillió euró. Ez az egyik oka, amiért még nem számolták fel a haditanácsot. Csatlakozni fog-e a Tanács ezen ocsmányság elítéléséhez, és fel fogja-e szólítani az IRA-t/Sinn Féint, hogy haladéktalanul számolja fel haditanácsát?
+<SPEAKER ID="319" NAME="Manuel Lobo Antunes">
+(PT) Bevezető beszédem tartalmazta a szervezett bűnözés elleni küzdelem kérdésére adott válaszomat és a Tanács helyzetértékelését. Nincs több mondanivalóm a kérdéssel kapcsolatban.
+<SPEAKER ID="320" NAME="Elnök">
+A
+<P>
+Tárgy: Közúti biztonság
+<P>
+Fel tudná vázolni az Európai Tanács, milyen intézkedéseket foganatosít annak érdekében, hogy nagyobb legyen a közúti biztonság az Európai Unió területén?
+<SPEAKER ID="321" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Elnök úr, Ó Neachtain úr, bizonyára a képviselő úr is tisztában van vele, hogy miután a Bizottság előadta a 2006. márciusi európai közlekedésbiztonsági cselekvési program félidős értékelését, a Tanács a 2006. június 8-i és 9-i ülésén következtetéseket fogadott el. A következetésekben az Európai Unió közlekedésügyi miniszterei és az Európai Bizottság egyetértettek abban, hogy közösségi vagy tagállami szinten szigorítani kell a közútbiztonsági intézkedéseket és kezdeményezéseket.
+<P>
+Ennek eredményeképpen 2006 októberében az Európai Bizottság két jogalkotási javaslatot is elfogadott a közúti biztonság javítása érdekében, és az Európai Parlament és a Tanács közti kitűnő együttműködésnek köszönhetően, a két társjogalkotó hamar megegyezésre jutott egy, a nehéz tehergépjárművek visszapillantó tükrökkel való utólagos felszereléséről szóló irányelvre vonatkozó javaslatot illetően. Az irányelv 2007 augusztusában lépett hatályba, és 2009. március 31-éig kell végrehajtani.
+<P>
+A Bizottság becslései szerint ez az új jogalkotási intézkedés mostantól 2020-ig akár 1200 életet is megmenthet a Közösség közútjain. A Tanács jelenleg a közúti infrastruktúra biztonságos üzemeltetéséről szóló irányelv javaslatát vizsgálja, amelyről az Európai Parlament véleményétől függően, remélhetőleg általános megközelítést fogadnak el a Tanács október 1-jei és 2-i ülésén. A Bizottság úgy ítéli, hogy megközelítőleg 7 000 sérülést előzhetne meg, és 600 életet menthetne meg évente, ha a jogi eszköz tervezetében javasolt intézkedéseket bevezetnék.
+<P>
+Továbbá biztosíthatom a képviselő urat, hogy a Tanácsnak szándékában áll pozitívan értékelni az Európai Bizottság által javasolt minden, a Közösség közútjain előforduló halálesetek és sebesülések számának csökkentésére tett erőfeszítéseivel kapcsolatos közútbiztonsági intézkedést és kezdeményezést.
+<SPEAKER ID="322" NAME="Seán Ó Neachtain" AFFILIATION="UEN">
+Köszönöm a választ, én azonban arra volnék kíváncsi, hogy az Ön véleménye szerint nem volna-e szükség egy összehangoltabb megközelítésre, tekintve azoknak az uniós polgárok számát, akik egyik országból a másikba utaznak, különösen hazám, Írország esetében, ahol sok Kelet-Európából érkező telepedik le, és hozza magával saját gépkocsiját. Úgy vélem, hogy sem a Tanács, sem a Bizottság nem hozott eddig megfelelő rendelkezést az effajta utazásra vonatkozólag.
+<SPEAKER ID="323" NAME="Manuel Lobo Antunes">
+(PT) Portugálként, magam is drámai változásokat vettem észre hazámban a közúti biztonság terén. Portugáliának problémája van vagy volt e téren, ezért igen fontos erőfeszítéseket tettünk. Ezek az utóbbi években nagyon jelentősen csökkentették a portugál utakon bekövetkező halálesetek számát. Mindez a kormány következetes és kitartó intézkedésének köszönhető.
+<P>
+Mindannyian nagyon jól ismerjük a problémát, amely igen közvetlenül és érzékenyen érint bennünket. Beszédem végén azt mondtam, hogy a Tanács, jelen esetben annak portugál elnöksége, jelentős figyelmet fog szentelni ez ügynek, és tökéletesen készen áll arra, hogy a Bizottság által a Tanácsnak tett bármely olyan javaslatot megvizsgáljon, és figyelembe vegyen, amely a jelenlegi, a Közösség közúton bekövetkező halálesetek és sérülések számának csökkentéséért tett erőfeszítések további fejlesztését célozza. Amint mondtam, az elnökség, más szóval az elnökséget betöltő tagállam, különösen érzékeny e kérdéssel kapcsolatban, mert magának Portugáliának is meg kell küzdenie ezzel a problémával. Ebből kifolyólag, mint mondtam, az elnökség különös figyelmet kíván szentelni minden, a Bizottság által a Tanácsnak benyújtott javaslatnak.
+<SPEAKER ID="324" NAME="Elnök">
+A
+<P>
+Tárgy: Horvátország uniós csatlakozása
+<P>
+Be tud-e nagyvonalakban számolni az Európai Tanács arról, hogyan haladnak Horvátország Európai Unióhoz való csatlakozásért tett erőfeszítései?
+<SPEAKER ID="325" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Elnök úr, Crowley úr, ma már volt alkalmam rövid említést tenni Horvátország csatlakozási folyamatának állásáról. Most részletesebben fogok szólni róla, mindamellett igyekszem tömör lenni az idő rövidsége miatt.
+<P>
+Elmondhatom Önnek, Crowley úr, hogy a csatlakozási tárgyalások Horvátországgal jó úton haladnak, és ebben az évben jelentős előrelépés történt. Összefoglalva, két fejezetet nyitottunk meg és zártunk le ideiglenesen: ezek a 25. fejezet - Tudomány és kutatás és a 26. fejezet - Oktatás és kultúra. Mindeközben megnyitottunk további 10 fejezetet. Ezek a következők: 3. fejezet - Szolgáltatásnyújtás szabadsága; 6. fejezet - Társasági jog; 7. fejezet - Szellemi tulajdonjog; 9. fejezet - Pénzügyi szolgáltatások; 10. fejezet - Információs társadalom és média; 17. fejezet - Gazdasági és monetáris politika; 18. fejezet - Statisztika; 20. fejezet - Vállalkozás- és iparpolitika; 29. fejezet - Vámunió, és végül a 32. fejezet - Pénzügyi ellenőrzés.
+<P>
+Ezen felül a Tanács október 15-én meg kívánja tartani a Horvátországgal zajló csatlakozási konferencia 5. miniszteri szintű ülését, hogy megnyissa a 28. fejezetet - amely a Fogyasztó- és egészségvédelem. A további fejezetek az év végén következnek. Sok még a tennivalónk, különösen azokon a területeken, amelyek a jelölt országok sikerének szempontjából mindig kritikusak, mint például az igazságszolgáltatási rendszer és a közigazgatás reformja, a korrupció elleni küzdelem és a gazdasági reformok. A Tanács továbbra is sürgeti Horvátország közigazgatási kapacitásának javítását és a közösségi vívmányok hatékony átültetését és végrehajtását, annak érdekében, hogy a kötelezettségeket időben teljesítse. A lendület fenntartása és a minőségi előrehaladás biztosítása céljából fel kell hívnunk a figyelmet arra, hogy további erőfeszítések szükségesek a tárgyalási keret követelményeinek teljesítéséhez, beleértve Horvátország kötelezettségeit a stabilitási és társulási megállapodás, és a csatlakozási partnerség megvalósítása tekintetében.
+<SPEAKER ID="326" NAME="Brian Crowley" AFFILIATION="UEN">
+Annyit szeretnék csak mondani, mielőtt a kérdésemet feltenném, hogy szerintem nagyszerű, hogy a soros elnök ilyen sok időt töltött ma az ülésteremben és ilyen remekül részt vett ennyi vitában. Köszönöm a Ház nevében.
+<P>
+Ismerve Horvátország időkeretét, tudjuk, hogy a horvát kormánnyal való megállapodás során néhány fejezetében merültek fel nehézségek, de tudna-e a soros elnök időkeretet mondani arra vonatkozólag, hogy mikorra várható, hogy befejeződnek a tárgyalások? Kétéves vagy hároméves időkeretről beszélünk? Lehet-e pontos időkeretet adni, számításba véve az esetleges nehézségeket?
+<P>
+Másodszor, tekintettel a még megnyitásra váró területekre - a horvátországi igazságszolgáltatás függetlensége és a rendőrségi szolgálatok egész területe - milyen konkrét intézkedések történtek e területekkel kapcsolatban?
+<SPEAKER ID="327" NAME="Manuel Lobo Antunes">
+(PT) Crowley úr, nagyon köszönöm a kedves szavait. Meg kell mondanom, nagy megelégedésemre szolgált és megtiszteltetés volt ma itt lenni Önökkel, és az európai menetrend és az Európai Unió számára fontos kérdésekben vitázni, tanácskozni, és esetenként nem egyetérteni.
+<P>
+Mindazonáltal, a képviselő úr lehetetlent kér tőlem: mondjam meg Horvátország csatlakozásának időpontját. Nem tehetem, mert a csatlakozás vagy az időpont minden valószínűség szerint sokkal inkább Horvátországon fog múlni, mint az Európai Unión. Valójában Horvátország van abban a helyzetben, hogy ezt meghatározza, azon egyszerű oknál fogva, mint ahogyan ezt Önök természetesen tudják, hogy egy országnak az Unióba való belépése azon múlik, hogyan halad előre a kritériumoknak és a feltételeknek való megfelelésben. Amit teljesen egyértelműen kijelenthetek, az Horvátország határozott európai perspektívája, az Európai Unióba való belépésének határozott perspektívája, és az, hogy a portugál elnökség elkötelezett az eljárásnak az elnökség ideje alatt való előbbre vitele mellett, és természetesen a Bizottsággal együtt amellett is, hogy minden, esetlegesen felmerülő akadályt elhárítsunk.
+<P>
+Novemberben, mint ahogyan ezt már egy másik kérdésre adott válaszomban elmondtam, felül fogják vizsgálni a Horvátországgal folyó tárgyalások állását. A Bizottság ennek eredményét egy javaslattal egyetemben fogja nekünk benyújtani. Ezek a dokumentumok, mint bizonyára sejtik, lényeges szerepet fognak játszani a végbement munkáról szóló jelentésben és a munka ellenőrzésében. Elkészítésük a Bizottság hatáskörébe tartozik, és az elvárt részletességgel fog megtörténni. A Bizottság véleményének, valamint a felülvizsgálatában szereplő javaslatainak és ajánlásainak fontos szerepe lesz a Tanácsnak a jövőre és a Horvátországgal folyó tárgyalási folyamat folytatására vonatkozó döntésében.
+<P>
+Igaz, gyakran a közigazgatási és igazságügyi kérdéseket a legnehezebb megoldani, mivel lényegükben ezek a kérdések vonatkoznak a tagállam konkrét belső szervezetére. Ezek azok a területek, amelyekben a tagállamoknak, konkrét szervezetüket tekintve, nagyobb beruházást, és feltehetőleg szélesebb körű, s talán mondhatjuk, hogy fájdalmasabb és nehezebb reformokat kell végrehajtaniuk. De bizonyosak vagyunk benne, hogy Horvátország felül tud kerekedni ezeken a nehézségeken, és hogy a saját és az Európai Unió óhajával összhangban, a nem túl távoli jövőben Uniónk része lesz.
+<SPEAKER ID="328" NAME="Elnök">
+A
+<P>
+Tárgy: Éghajlatváltozás
+<P>
+Tud-e az Európai Tanács átfogóan nyilatkozni arról, milyen struktúrákat alakítanak ki EU-szinten annak érdekében, hogy magasabb fokú együttműködés alakulhasson ki Európa és Amerika között azon törekvéseink kapcsán, hogy 2020-ra biztosan elérjük a CO2-kibocsátás 20%-os csökkenésére vonatkozó célkitűzést?
+<SPEAKER ID="329" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Elnök úr, Aylward úr, kétségtelen, hogy az éghajlatváltozás globális kihívás, amely globális megoldásokat követel. Az európai vezetők úgy határoztak, hogy saját nevükben világosan jelzik a nemzetközi közösségnek az éghajlatváltozás elleni harc iránti eltökéltségüket, a következő kötelezettségeket vállalva, annak érdekében, hogy tárgyalásokat indítsanak a 2012 utáni időszakra vonatkozó átfogó megállapodásról: míg egy ilyen megállapodás megszületik, az Európai Unió függetlenül és határozottan vállalja azt a kötelezettséget, hogy 2020-ra eléri, hogy az üvegházhatású gázok kibocsátását az 1990-es szinthez képest legalább 20%-kal csökkenti. Másodszor, az Unió kész vállalni 30%-os csökkentést is, amennyiben más fejlett országok hasonló csökkentést vállalnak, és ha ehhez a gazdaságilag fejlettebb fejlődő országok is hozzájárulnak a megfelelő mértékben.
+<P>
+Az Európai Unió úgy véli, ideje felmérni a 2012. utáni időszakban teendő lépéseket, és olyan átfogó megközelítést kidolgozni, amelyben sok ország működik közre. Az Egyesült Államokkal való állandó párbeszéd elengedhetetlen lesz a 2012. utáni időszakra vonatkozó tárgyalások előkészítéséhez, amelyeknek ez év végén, a Balin tartandó éghajlat-változási konferencián kell megkezdődniük, amelyre már az előző kérdésre adott válaszomban utaltam.
+<P>
+Ezzel összefüggésben két fontos találkozót terveznek a konferencia előtt, amelyek eredménye kétségtelenül kedvező hozzáadott értékkel gazdagítja a Bali tárgyalásokat. Az első az ENSZ Közgyűlésének az éghajlatváltozással kapcsolatos magas szintű találkozója, amelyet szeptember 24-én tartottak New Yorkban. A második a főbb gazdasági hatalmak találkozója szeptember 27-én és 28-án Washingtonban, amelyen az Európai Unió arra számít, hogy jelentősen hozzájárulhat az ENSZ-en belüli nemzetközi folyamatok előmozdításához. Ezenkívül az Európai Unió és az Egyesült Államok a 2006. június 26-i bécsi csúcson megegyezett, hogy magas szintű párbeszédet folytatnak majd az éghajlatváltozásról, a tiszta energiaforrásról és a fenntartható fejlődésről. A cél a már létező kétoldalú és többoldalú kezdeményezések továbbvitele, valamint a bécsi csúcs nyilatkozata és a G8-vezetők által elfogadott gleneagles-i, éghajlatváltozásra, tiszta energiára és a fenntartható fejlődésre vonatkozó cselekvési terv megvalósításának folytatása.
+<SPEAKER ID="330" NAME="Brian Crowley  " AFFILIATION="UEN">
+a szerző helyettese. - Szeretném megköszönni a soros elnök úr válaszát.
+<P>
+Mindazonáltal, a kérdés arra utalt, hogy az Egyesült Államok adminisztrációja és az Európai Unió szemléletmódja közti különbség, ami a megoldáskeresést és a világ többi országával való partneri együttműködés kialakítását illeti, úgy tűnik, növekedett; az utóbbi években megnőtt a kettő közti távolság. Nyilvánvalóan kevés, hogy mi, az Európai Unió, jóra törekszünk. Az is szükséges, hogy a többi nemzet is kövessen bennünket, különösen most, hogy azt látjuk, hogy Kína, India és egyéb érdekeltségei mellett Amerika újra messze elmarad mögöttünk.
+<P>
+Ezért olyan törekvéseket szeretnénk látni, hogy az Európai Unió konkrét intézkedéseket tesz, és arra bátorítja az óceán másik partján lévő amerikai rokonainkat, hogy csatlakozzanak hozzánk, hogy a tárgyalásokon bátran szembeszállhassunk India és Kína hatalmával.
+<SPEAKER ID="331" NAME="Manuel Lobo Antunes">
+(PT) Crowley úr, tökéletesen egyetértek Önnel. Meg kell győznünk rokonainkat, és minthogy rokonaink, elvárjuk tőlük, hogy hagyják meggyőzni magukat, vagy legalábbis, hogy nyitottak legyenek az érveinkre. Meg kell mondjam Önnek, hogy a Bali felé vezető út, és a konferencia utáni út bonyolult lesz, és nehézségekkel teli. E felől senki nem kételkedhet, ám világos, hogy kitartó és összehangolt cselekvéssel, remélem, sikeresek lehetünk. Mindenesetre, úgy vélem, a kifejezetten az Atlanti-óceán másik partján élő rokonainkkal folytatott állandó párbeszédnek köszönhetően, az éghajlatváltozás kérdésében meglévő minden különbözőség és nézeteltérés legyőzhető.
+<P>
+E tekintetben, úgy gondolom, hogy a Németországban lezajlott G8-találkozónak az éghajlatváltozásról szóló következtetései, a találkozón megteremett lehetőség, illetve az ott született, az éghajlatváltozás kérdésében az ENSZ alapvető szerepét megfogalmazó megállapodás voltak a bizonyítékai annak, hogy lehetőség van az éghajlatváltozás kérdésében előrébb jutni, és további megállapodásokat kötni. Mint már említettem, elengedhetetlen, hogy az Európai Unió fenntartsa, talán mondhatjuk, vezető és ösztönző szerepét, mások számára is kiépítve az utat környezetünk és bolygónk védelmére.
+<SPEAKER ID="332" NAME="Elnök">
+Hölgyeim és uraim, amint azt észre fogják venni, a következő három kérdés mindegyike Pakisztánra irányul. Az eljárási szabályzat értelmében sajnos nem kérhetem fel a Tanácsot, hogy a három kérdésre együtt válaszoljon, mivel a Tanács másképp szervezte a munkáját. Fel kell hívnom a figyelmüket a parlamenti reform szükségességére, és különösen arra, amit Önöknek kell, hölgyeim és uraim, tenniük a kérdések órája lényeges átalakításával kapcsolatban, amelyben, úgy gondolom, mindnyájan egyet értünk. Mindazonáltal, sajnos, nem alkalmazhatunk rugalmasabb szabályokat, mivel az eljárási szabályzatunkat be kell tartanunk. Ezért a kérdéseket egyesével kell feltennem, ami azt jelenti, hogy valószínűleg nem mindre kapunk választ. Meglátjuk, hogy haladunk, és hogy mennyire vagyunk eredményesek.
+<P>
+A Pakisztán katonai eszközeiről szóló 15. kérdéssel kezdem. A kérdést Rutowicz úr teszi fel, és arra ösztönzöm a Tanácsot, hogy válasza közvetlenül a kérdésre irányuljon.
+<P>
+A
+<P>
+Tárgy: A pakisztáni katonai vagyon
+<P>
+Köztudott, hogy Pakisztánban a hadsereg uralja az ország gazdaságát és közigazgatását. Szándékozik-e a Tanács elemzést készíteni annak az eszközállománynak a felméréséről, amelyet a hadsereghez fűződő üzleteken keresztül építettek ki, miközben a pakisztáni társadalom elszegényedett?
+<SPEAKER ID="333" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Az Európai Unió és Pakisztán közt folyó, az országról és a katonai erők által játszott szerepről szóló többszöri párbeszéd részét képezi annak az átfogó elemzésnek, amelyen a Tanács pakisztáni vonatkozású politikája alapul.
+<P>
+A pakisztáni gazdaság általános állapota és fejlettségi foka további két részét képezi ugyanennek az elemzésnek. Pakisztáni politikánk általános meghatározásakor természetesen mindkettőt figyelembe vesszük, és a jövőben is így kívánunk tenni.
+<SPEAKER ID="334" NAME="Leopold Józef Rutowicz" AFFILIATION="UEN">
+(PL) Szeretném megköszönni az elnök úrnak és Antunes úrnak a választ. Ha jól értettem, a kérdés alapvetően arra irányult, részesítik-e majd valamilyen humanitárius segélyben Pakisztán szegény népét. Hálás lennék, ha Antunes úr tudna erről némi felvilágosítást adni.
+<SPEAKER ID="335" NAME="Manuel Lobo Antunes">
+(PT) Rutowicz úr, mint Ön is tudja, a humanitárius segély, az együttműködési segély és a fejlesztési segély kérdése az Európai Unió prioritásai közt szerepelnek. Ha a világon bárhol emberek szenvednek vagy élnek szegénységben, az Európai Unió, a Tanács és a Parlament minden hatalmában lévő dolgot megtesz, hogy megpróbáljon segíteni az efféle helyzetek megoldásában. Az Európai Unió az egyik legnagyobb, ha nem a legnagyobb nemzetközi segélyt osztó ország, és ezt a tényt ne tévesszük szem elől.
+<SPEAKER ID="336" NAME="Elnök">
+A 16. és 17. kérdés tárgytalan, mivel szerzőik nincsenek jelen.
+<P>
+A
+<P>
+Tárgy: Az Európai Unió Szolidaritási Alapja
+<P>
+Tudna a Tanács nyilatkozni az Európai Unió Szolidaritási Alapjának hatékonyságáról?
+<SPEAKER ID="337" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Elnök úr, McGuinness asszony, amint azt a képviselő úr is tudja, a Bizottság felelős a Szolidaritási Alapról szóló rendelet alkalmazásáért, a rendelet hatékonyságát pedig a benne lefektetett kritériumok alapján kell felmérni.
+<P>
+A Tanács tudomása szerint a rendeletet a benne foglalt katasztrófák esetében hatékonyan alkalmazták. Az Európai Bizottság időszakos jelentéseket készít, amelyekben részletesen kifejti a Szolidaritási Alap felhasználását.
+<SPEAKER ID="338" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+Köszönöm a tömör választ. Feltételezem, a Tanácsnak van arról elképzelése - mivel a tagállamoknak biztos, hogy lesz - hogyan hat ez az egyes országokra. Gondolja, hogy az egymilliárdos költségvetés elégséges, és hogy az Alap elég gyorsan reagál a különböző válságokra, amelyekkel meg kell küzdenie?
+<SPEAKER ID="339" NAME="Manuel Lobo Antunes">
+(PT) McGuinness asszony, mint mondtam, a Tanács értékelése szerint a rendelet alkalmazása, más szóval a Szolidaritási Alap felhasználása, hatékony volt. Minden bizonnyal kitűnő javaslat volt alapot létesíteni a tagállamok bármely természeti vagy más jellegű katasztrófa esetén való megsegítésére, minthogy korábban ilyen alap nem létezett. Az alap természetesen hasznos, mivel az efféle katasztrófák különösen nehéz és ínséges helyzetbe hozzák a tagállamokat.
+<P>
+Ideális esetben mindig volna rá lehetőség, hogy többet kérjenek, többet használjanak. Nekünk azonban reálisan, és egyben ambiciózusan kell kezelnünk e kérdést. Biztos vagyok benne, hogy a Tanács a kellő időben és a Bizottság javaslata alapján, át fogja gondolni ezt a lehetőséget. Mindazonáltal, jelenleg megvan a jogi keretünk, amely használatával reálisan működhetünk, üdvözölvén az alap létrejöttét, és hatékonyan játszott szerepét, amely valóban igazolja a kezdeményezés indokoltságát.
+<SPEAKER ID="340" NAME="Elnök">
+A
+<P>
+Tárgy: Béketeremtés a Közel-Keleten
+<P>
+Elég hasznát veszi-e a Tanács a brit jeruzsálemi főkonzul, Makepeace úr névadó tehetségének?
+<SPEAKER ID="341" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Megválaszolom a szóbeli választ igénylő kérdést, habár biztos vagyok benne, hogy Newton Dunn úr azt korábban már feltette. Nos, szeretném elmondani, hogy a tagállamok diplomáciai és konzulátusi képviseletei és Bizottság harmadik országbeli küldöttségei együttműködnek annak biztosítása érdekében, hogy a közös kül- és biztonságpolitikáról szóló, a Tanács által elfogadott közös álláspontokat és együttes fellépéseket az Európai Unióról szóló szerződésnek megfelelően figyelembe veszik és végrehajtják. Ebben természetesen a brit jeruzsálemi főkonzul is közreműködik, akire a képviselő úr a kérdésében utalt.
+<SPEAKER ID="342" NAME="Bill Newton Dunn" AFFILIATION="ALDE">
+A 20. kérdést feltenni szándékozó kollégám érdekében lemondok a kiegészítő kérdés jogáról.
+<SPEAKER ID="343" NAME="Elnök">
+A
+<P>
+Tárgy: Az Európai Parlament képviselői helyeinek országonkénti felosztása
+<P>
+Fog-e a Tanács változásokat javasolni az Európai Parlament minden tagállama képviselői helyeinek kiosztására vonatkozóan?
+<SPEAKER ID="344" NAME="Manuel Lobo Antunes">
+a Tanács soros elnöke. - (PT) Elnök úr, Mitchell úr, örülök, hogy válaszolhatok a kérdésére, annál is inkább, mert a reformszerződéssel kapcsolatos kérdések számomra, kezdve a sok évvel ezelőtti Uniós szerződés kérdésével, különösen érdekesek és fontosak. Ezért örülök, hogy megpróbálhatok válaszolni a kérdésére. Szeretném emlékeztetni, hogy a 2007-es kormányközi konferenciának adott június 22-i megbízás alapján, a reformszerződésbe foglalandó, a szóban forgó kérdésről szóló rendelkezések egy olyan határozatot írnak elő az Európai Parlament összetételének meghatározására vonatkozólag, amelyet az Európai Tanács az Európai Parlament kezdeményezésére és azzal egyetértésben fogad el.
+<P>
+Amint azzal a képviselő úr is nyilván tisztában van, és hogy ne fecséreljük az időt, az Európai Tanács júniusban felkérte az Európai Parlamentet, hogy 2007 októberére terjessze elő kezdeményezésének tervezetét. Tudomásunk szerint az októberi ülésen, pontosan október 10-én, jelentést nyújtanak be az Európai Parlament jövőbeni összetételéről, amelynek előadói Lamassoure asszony és Severin asszony lesznek.
+<SPEAKER ID="345" NAME="Gay Mitchell" AFFILIATION="PPE-DE">
+Szeretném megköszönni a kollégámnak, hogy lemondott kiegészítő kérdéséről, és köszönöm a soros elnöknek, hogy fogadta a kérdést.
+<P>
+Azért hozom fel ezt a kérdést, mert Írországnak 15 helyett már csak 13 helye van. Ez az ország egy kis sziget távol, Európa nyugati partján. Ez a legszélső pont, amelyet elhagyva a legközelebbi szárazföld már az Egyesült Államok. Létezik egy javaslat, amely 13-ról 12-re csökkentené a képviselői helyeink számát, most, amikor a népességünk 12%-kal növekedett, és további erőteljes növekedése várható.
+<P>
+A következőket szeretném mondani a soros elnöknek: minthogy 16 további helyet fognak kiosztani, arra kérem Önöket, ne feledkezzenek meg Írországról, hadd tartsa meg az ország a 13 helyét. Úgy gondolom, ha a számadatokra tekintenek, látni fogják, hogy ez nagyon is indokolt, és az a kérésem, vegyék ezt figyelembe.
+<SPEAKER ID="346" NAME="Manuel Lobo Antunes">
+(PT) Elnök úr, fel kell hívnom a figyelmet arra, hogy Európa legnyugatibb pontja Portugáliában található, a neve pedig Cabo da Roca, vagyis Roca-fok. Ennek fényében talán vitatnám a képviselő úr állítását országának földrajzi elhelyezkedését illetően, mivel a valóságban Európa legnyugatibb pontja az én országomban található.
+<P>
+A kérdésére, kifejezetten annak második részére a képviselő úr természetesen elsősorban az Európai Parlamenttől és a képviselőtársaitól kapja majd meg a választ. Mindazonáltal, feljegyzem az álláspontját.
+<SPEAKER ID="347" NAME="Elnök">
+Az idő hiányában megválaszolatlanul maradt kérdések írásban kerülnek megválaszolásra (lásd a mellékletet).
+<P>
+A 31. kérdés: elfogadhatatlannak nyilvánítva (az eljárási szabályzat II. melléklete A részének 2. bekezdése).
+<P>
+A Tanácshoz intézett kérdések óráját lezárom.
+<P>
+(Az ülést este 19.35-kor felfüggesztik, majd 21 órakor folytatják.)

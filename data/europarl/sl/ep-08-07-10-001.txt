@@ -1,0 +1,14 @@
+<CHAPTER ID="001">
+Otvoritev seje
+<P>
+(Seja se je začela ob 9.00.)
+<SPEAKER ID="005" NAME="Daniel Cohn-Bendit" AFFILIATION="Verts/ALE">
+- (FR) Gospa predsednica, prosim, če mi lahko odgovorite na naslednje vprašanje. Očitno je bilo na zahtevo francoskega predsedstva odločeno, da se med govorom predsednika Sarkozyja nadzoruje fotografiranje.
+<P>
+Želel bi izvedeti, kdo se je tako odločil, kdo je to zahteval in kdo je odgovoren za fotografiranje v Evropskem parlamentu. Evropski parlament ali francosko predsedstvo? Prosim za odgovor pred začetkom seje.
+<SPEAKER ID="006" NAME="Predsednica">
+Gospod Cohn-Bendit, odgovorili vam bomo pred začetkom seje, vendar bomo zdaj, če dovolite, nadaljevali z glasovanjem.
+<SPEAKER ID="007" NAME="Astrid Lulling" AFFILIATION="PPE-DE">
+- (FR) Gospa predsednica, kot kvestor tega parlamenta želim opozoriti na dejstvo, da pot do vhoda v Parlament na eni strani zapirajo policisti. Prepovedujejo dostop službenim vozilom. Če poslanci zamudijo, ker se morajo peljati po obvozu in tako niso prisotni na glasovanju, ne bi smeli biti za to kaznovani.
+<SPEAKER ID="008" NAME="Predsednica">
+Gospa Lulling, seveda bomo to upoštevali, ker imajo nekateri poslanci težave z dostopom do Parlamenta.

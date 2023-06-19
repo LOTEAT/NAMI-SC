@@ -1,0 +1,6 @@
+<CHAPTER ID="006">
+Hääletamine
+<SPEAKER ID="061" NAME="President">
+Nüüd alustame hääletamisega.
+<P>
+(Hääletamise tulemused ja muud üksikasjad: vt protokoll)

@@ -1,0 +1,12 @@
+<CHAPTER ID="004">
+Turno di votazioni
+<SPEAKER ID="078" NAME="Presidente">
+Do la parola all'onorevole Rack per una mozione di procedura.
+<SPEAKER ID="079" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Signor Presidente, se ho ben capito, il Presidente deve presiedere la seduta. In sua vece può intervenire oltre una dozzina di vicepresidenti. Se è davvero impossibilitato a prendere parte alla seduta, al suo posto dovrebbe essere presente almeno uno di questi vicepresidenti.
+<SPEAKER ID="080" NAME="Presidente">
+No, onorevole Rack. Ero io incaricato di presiedere il turno di votazioni. Il mio lieve ritardo è dovuto al fatto che mi trovavo all'aeroporto per ricevere l'Emiro del Qatar e nel tragitto di andata e ritorno si è verificato un leggero ritardo.
+<P>
+Passiamo ora al turno di votazioni.
+<P>
+(Per i risultati e ulteriori dettagli della votazione: vedasi il processo verbale)

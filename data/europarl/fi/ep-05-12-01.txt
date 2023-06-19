@@ -1,0 +1,769 @@
+<CHAPTER ID="1">
+<SPEAKER ID="1" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="2" LANGUAGE="" NAME="" AFFILIATION="(Istunto avattiin klo 9.05.)">
+<SPEAKER ID="3" LANGUAGE="" NAME="Puhemies. –" AFFILIATION="">
+<P>
+   Esityslistalla on seuraavana yhteiskeskustelu
+<P>
+– Becseyn laatimasta talous- ja raha-asioiden valiokunnan mietinnöstä (A6-0323/2005) ehdotuksesta neuvoston direktiiviksi yhteistä arvonlisäverojärjestelmää koskevan direktiivin 77/388/ETY muuttamisesta yleisen verokannan vähimmäistason soveltamisajan osalta (KOM(2005)0136 – C6-0113/2005 – 2005/0051(CNS)),
+<P>
+– Becseyn laatimasta talous- ja raha-asioiden valiokunnan mietinnöstä (A6-0324/2005) ehdotuksesta neuvoston direktiiviksi yksityiskohtaisista säännöistä direktiivissä 77/388/ETY säädetyn arvonlisäveron palautuksen suorittamiseksi maan alueelle sijoittautumattomille mutta toiseen jäsenvaltioon sijoittautuneille verovelvollisille (KOM(2004)0728 – C6-0251/2005 – 2005/0807(CNS)) ja
+<P>
+– Berèsin laatimasta talous- ja raha-asioiden valiokunnan suullisesta kysymyksestä komissiolle alennettua arvonlisäverokantaa erityisen työvaltaisiin palveluihin sovellettavan direktiivin 1999/85/EY umpeutumisesta (O-0106/2005 – B6-0342/2005). 
+<SPEAKER ID="4" LANGUAGE="HU" NAME="Zsolt László Becsey (PPE-DE )," AFFILIATION="esittelijä">
+<P>
+   . Keskusteltavanamme on kaksi kysymystä, ja aloitan arvonlisäveron yleisen verokannan vähimmäistasosta. Keskustelemme nyt oikeudellisesti ja poliittisesti äärimmäisen arkaluonteisesta kysymyksestä. Komission tiedonannon mukaan nykyisen, kuudenteen arvonlisäverodirektiivin perustuvan väliaikaisen järjestelmän – joka päättyy 31. joulukuuta 2005 – jatkaminen olisi perusteltua. Tarkoitan, että voisimme asettaa vain arvonlisäveron yleisen verokannan vähimmäistason nykyiseen 15 prosenttiin ja jatkaa tämän järjestelmän soveltamista edelleen väliaikaisesti vuoteen 2010 saakka. Parlamentin talous- ja raha-asioiden valiokunta on keskustellut tästä ehdotuksesta ja on periaatteessa samaa mieltä komission lähestymistavasta. Niinpä myös me kannatamme ehdotusta ja siinä ehdotettua aikataulua, nimittäin soveltamisen jatkamista vuoteen 2010. Hyväksyimme myös sen, että tästä kysymyksestä on välttämätöntä keskustella poikkeuksellisen nopeassa tahdissa ennen Ecofin-neuvoston 6. joulukuuta pidettävää viimeistä kokousta, jotta neuvostolla on käytettävissään parlamentin lausunto ja jotta se voi ottaa parlamentin lausunnon huomioon päätöstä tehdessään. Valiokunnassa käydyn keskustelun perusteella tarkistamme valiokunnan alkuperäistä ehdotusta yhden kysymyksen osalta. Yleisen verokannan vähimmäistason lisäksi haluaisimme nimittäin myös asettaa enimmäistason 25 prosenttiin, mikä olisi korkein jäsenvaltioissa tällä hetkellä sovellettava verokanta. Tämän ansiosta yhdenkään jäsenvaltion ei tarvitsisi turvautua lainsäädäntömuutoksiin tai talousarviota koskeviin korjauksiin hyvin lyhyellä aikavälillä. Omaksumalla tämän toimintalinjan parlamenttimme enemmistö kuitenkin osoittaa, että mielestämme on välttämätöntä ehkäistä yleisen arvonlisäverokannan eroja. Parlamentti on kuitenkin myös hyväksynyt tässä kysymyksessä toisen tärkeän kannan, joka ei vaikuta nyt pikaisesti tehtävään päätökseen järjestelmän soveltamisen jatkamisesta mutta joka on tärkeä meille. Haluaisimme itse asiassa välttää nykyisenkaltaista tilannetta, jossa meidän on kiireesti jatkettava sekä arvonlisäveron yleisen verokannan vähimmäistason soveltamista että vuoden lopussa umpeutuvaa erityisen työvaltaisiin palveluihin sovellettavaa sääntelyä, jota on sovellettu useissa jäsenvaltioissa, jotka ovat kaikki saaneet arvokasta myönteistä kokemusta tämän prosessin kuluessa. Näin ollen pyydämme komissiota valmistelemaan tutkimuksen vuoden 2007 alkuun mennessä, jotta parlamentti voi aloittaa vuosina 2007–2008 hyvissä ajoin ja kaikessa rauhassa keskustelun, jossa käsitellään jäsenvaltioiden tulevaisuudessa soveltaman arvonlisäveropolitiikan suuntaa ja laajuutta sekä tältä osin vaadittavaa Euroopan unionin sääntelyä.
+<P>
+Ehdotuksessamme, jonka valmisteluun osallistuivat kaikki parlamentin poliittiset ryhmät, pyydämme komissiota arvioimaan nykyisen yleisen alv-kannan ja implisiittisen alv-kannan – eli keskimääräisen todellisen arvonlisäverokannan – eroja ja niiden talousarvioon kohdistuvia seurauksia erityisesti viimeisimmän laajentumisen yhteydessä EU:hun liittyneissä jäsenvaltioissa havaitun eriytymisen osalta. Näillä jäsenvaltioilla ei ole mahdollisuutta soveltaa yksittäisiä alennettuja verokantoja, ja ne voivat ainoastaan myötävaikuttaa siihen, että alennettuja verokantoja ryhdytään soveltamaan erityisaloilla, jotka eivät sisälly kuudenteen arvonlisäverodirektiiviin (toisin sanoen Liitteeseen K tai Liitteeseen H), vuoteen 2007 mennessä. Komission valmisteleman aineiston perusteella voimme sitten määritellä parlamentin kannan joko lähdeveron tapaan tai kuluttajalta perittävään arvonlisäveroon ja sen jälkeen tutkia, onko meidän toissijaisuuden hengessä tarpeen asettaa yhteisön tasolla vähimmäis- ja enimmäistaso, ja jos vastaus on myöntävä, pitäisikö meidän soveltaa näihin arvonlisäverokantoihin tavanomaista yleistä verokantaa vai implisiittistä verokantaa eli keskimääräistä todellista verokantaa. Toinen kysymys, josta parlamentin on keskusteltava tulevina vuosina vakaus- ja kasvusopimuksen tehokkuus huomioon ottaen, on se, miten laaja vapaus jäsenvaltioille tulisi antaa mahdolliseen arvonlisäverokantojen vähentämiseen ja vääristävätkö markkinoita (mikäli näin ylipäätään tapahtuu) kaikkein todennäköisimmin yleiset verokannat vai niistä myönnettävät yksittäiset poikkeukset. Samalla voisimme myös tarkastella kysymystä siitä, voiko kulutusverolle – välittömien verojen ja pääasiassa työvoimaan vaikuttavien verojen kustannuksella – annettu etusija todellakin auttaa jäsenvaltioita Lissabonin työllisyystavoitteiden saavuttamisessa. Näitä kysymyksiä olisi käsiteltävä seuraavassa keskustelussa, johon tulisi varattava riittävästi aikaa. Olen vakuuttunut, että valiokunnan laatima hyvä tausta-asiakirja voi auttaa parlamenttia tässä kysymyksessä ja että voimme hyväksyä harkitun kannan jopa ennen vuotta 2010, mutta tässä vaiheessa ehdotamme kuitenkin nykyisen järjestelmän soveltamisen jatkamista ja tarkistusta, jonka mukaan meidän on myös asetettava alv:n yleisen verokannan enimmäistaso 25 prosenttiin.
+<P>
+Toisessa mietinnössäni käsitellään arvonlisäveron palautuksia. Meille esitetty ehdotus kahdeksannen arvonlisäverodirektiivin muuttamisesta on osa erittäin merkittävää, komission lokakuussa 2004 esittelemää kolmen ehdotuksen pakettia, jonka vaikutusalaa nykyinen komissio on – oikeutetusti – laajentanut ja joka on tullut kuuluisaksi kokonaispalvelujärjestelmästä, niin sanotusta yhden luukun järjestelmästä (one-stop-shop). Parlamentti on jo omaksunut kannan tähän kysymykseen samoin kuin jäsenvaltioiden väliseen verotusyhteistyöhön kahden parlamentissa käsitellyn mietinnön yhteydessä, ja olenkin nyt tyytyväinen, että voimme neuvoston pyynnöstä myös ilmaista näkemyksemme, joskin takautuvasti, arvonlisäveron palautuksia koskevasta kahdeksannesta direktiivistä. Ensinnäkin toteaisin, että yhdymme täysin komission lähestymistapaan koko ehdotuspakettiin ja myös kahdeksannen direktiivin muuttamiseen, koska tämä auttaa yrityksiä hakemaan palautusta perimättömästä arvonlisäverosta muista jäsenvaltioista ja myös nopeuttaa palautusprosessia sähköisten menetelmien käytön avulla. Alv-palautuksen hakeminen on ollut toistaiseksi mahdollista vain, jos yritys on ollut alv-rekisterissä toisessa jäsenvaltiossa. Monet kieltäytyivätkin noudattamasta pitkällistä ja kallista menettelyä, ja valtaosassa tapauksista perimättömästä arvonlisäverosta ei ole vaadittu palautusta lainkaan, koska hallinnollinen menettely olisi tullut maksamaan enemmän kuin varsinainen perimättömän arvonlisäveron määrä. Nyt tehtävä muutos parantaa ensisijaisesti pienten ja keskisuurten yritysten tilannetta, sillä niillä oli eniten vaikeuksia ylläpitää kustannustehokkaasti palautusten hakemisessa tarvittavaa järjestelmää.
+<P>
+Neuvoston lähestymistapa, jossa toimivaltaisille viranomaisille annetaan kolme kuukautta aikaa arvioida hakemusta, on myös myönteinen pienten yritysten kannalta. Tuemme myös ehdotusta, jonka mukaan toimivaltaisen veroviranomaisen on maksettava hyvin ankara kuukausittainen rangaistusmaksu jokaiselta määräajan ylittävältä kuukaudelta. Emme hyväksyneet ehdotettua tarkistusta, jolla tämän säänteleminen olisi jätetty yksittäisten jäsenvaltioiden tehtäväksi. Tarkistusehdotuksemme on myös muotoiltu tämän komission lähestymistavan mukaisesti, koska olemme korostaneet, että yritysten suojelemisen ohella jäsenvaltioiden veroviranomaisten tehtävät on myös määritettävä selkeästi ja että niitä on tarpeen vaatiessa tarkistettava. Lisäksi on asetettava erityiset määräajat hakemusten jättämiselle, hakemusten käsittelylle, päätöksenteolle ja palautusten maksamiselle. Näitä kysymyksiä käsitellään tarkistuksissamme. Määritimme myös erikseen, ettei kolme kuukautta kestävä hakemuksen käsittelyaika voi alkaa alusta myöskään siinä tapauksessa, että viranomainen tekee tiedusteluja, pyytää lisätietoja tai käsittelyssä ilmenee muita ongelmia – kuten olemme ymmärtäneet komission ehdotuksesta – koska koko menettely ei mielestämme voi kestää yli neljää kuukautta, vaikka tällaisia ongelmia ilmenisikin. Ehdotuksellamme pyritään välttämään tarpeettomat viivytykset palautuksen siirrossa ja rahojen pitämistä valtion kassassa. Vaikka emme oikeudellisista syistä voineetkaan sisällyttää tätä lausuntoomme virallisena tarkistusehdotuksena, toivon silti, että osana tätä pakettia ja osana yhden luukun järjestelmää koskevaa kokonaispakettia viranomaisyhteistyö nopeutuu, koska tämä auttaa välttämään pienten yritysten kassavirtaongelmia, alv-palautusoikeuteen ja palautussuhteen määrittämiseen liittyviä ongelmia sekä jopa väärinkäytöksiä. Petosten ja tekaistujen yritysten perustamisen taustalla on nimittäin hyvin usein yritys vaatia perusteettomasti palautusta viennin yhteydessä perittävästä arvonlisäverosta.
+<P>
+Toivon, että neuvoston keskustelujen kuluessa asuinjäsenvaltion veroviranomaisille annettua 10–40 päivän määräaikaa sähköiselle tiedonsiirrolle voidaan lyhentää 40 päivän ylärajan osalta. Ensisijaisena tavoitteena on kuitenkin panna paketti täytäntöön mahdollisimman nopeasti, ja toivomme, että muutaman vuoden kuluttua (pyysimme yhden luukun järjestelmää koskevan paketin yhteydessä neljää vuotta) voimme arvioida täytäntöönpanoa komission kertomuksen pohjalta. Olen vakuuttunut, että menettelyä (ja väärinkäytösten tutkimista) voidaan nopeuttaa tulevaisuudessa käyttämällä jonkinlaista yhteistä tietokantaa – tai helpottamalla pääsyä muiden jäsenvaltioiden tietokantoihin – mutta tämä edellyttää lukuisten oikeudellisten, tietosuojaan liittyvien ja muiden kysymysten ratkaisemista. Näitä kysymyksiä tulisi tarkastella ensimmäisen arvioinnin jälkeen.
+<P>
+Näin ollen tällä hetkellä tärkeintä on, että tämä rakentava ehdotus toteutetaan mahdollisimman nopeasti ja että yrityksemme pääsevät nauttimaan sen eduista. 
+<SPEAKER ID="5" LANGUAGE="FR" NAME="Pervenche Berès (PSE )," AFFILIATION="laatija.">
+<P>
+   Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, totean talous- ja raha-asioiden valiokunnan puolesta, että halusimme hyödyntää arvostetun kollegamme Becseyn laatimaa kahta arvonlisäveroa käsittelevää mietintöä esittääksemme täysistunnossa suullisen kysymyksen, jota toivoakseni seuraa päätöslauselman hyväksyminen. Työvaltaisilla aloilla sovellettavan alennettua arvonlisäverokantaa koskevan järjestelmän osalta olemme itse asiassa taloudellisessa, sosiaalisessa, poliittisessa ja oikeudellisessa tilanteessa, joka on vähintäänkin epämiellyttävä, ellei suorastaan sekava.
+<P>
+Käsiteltävänämme on tänään järjestelmä, jonka soveltamista on jatkettu kahdesti. Tämän jälkeen komissio esitti meille vuonna 2003 ehdotuksen, jonka puolesta parlamentin jäsenet äänestivät lähes yksimielisesti 4. joulukuuta 2003 ja jonka toteuttamisen neuvosto on siitä lähtien estänyt. Meille sanotaan hyvin usein, että sääntelyn parantaminen edellyttää parlamentin nopeampaa työskentelyä, mutta olen toisinaan saanut sen käsityksen, että meidän pitäisi tarkastella asioiden etenemistä myös neuvoston näkökulmasta.
+<P>
+Olemme täällä parlamentissa tältä osin yksimielisiä, ja samalla kun tietyt jäsenvaltiot ajavat puhtaasti kansallisia etujaan käyttämällä häikäilemättä hyväkseen arvonlisäverokantoja, ne estävät neuvostossa tämän järjestelmän laajentamisen; järjestelmän, joka on osoittanut hyödyllisyytensä. Itse asiassa tämä järjestelmä antaa meille mahdollisuuden ylläpitää työllisyyttä, torjua pimeää työtä ja järjestää verotusjärjestelmä yhdenmukaisemmin jäsenvaltioiden tasolla. Tämän vuoksi valiokuntamme halusi esittää tämän suullisen kysymyksen, jolla annamme täyden tukemme sekä komission aloitteelle että puheenjohtajavaltio Luxemburgin ja sen seuraajan Yhdistyneen kuningaskunnan ponnisteluille. Molemmat puheenjohtajavaltiot ovat esittäneet kompromissiehdotuksen, joka vastaa täysin parlamentin vuonna 2003 esittämiä toiveita.
+<P>
+Olemme nyt selkä seinää vasten: tämä kahdesti jatkettu järjestelmä päättyy vuoden lopussa, eikä yhdeksän jäsenvaltion kokonaisilla toimialoilla tiedetä tällä hetkellä edelleenkään, mitä verojärjestelmää niihin sovelletaan 1. tammikuuta 2006 alkaen. Muutaman päivän kuluttua kokoontuu Ecofin-neuvosto, jossa jäsenvaltioiden valtiovarainministerit kuulevat toivoakseni sen erittäin voimakkaan viestin, jonka tämä täysistunto haluaa heille lähettää suullisen kysymyksen ja useiden kirjallisten kannanottojen välityksellä, jotka on toimitettu parlamentin sihteeristölle ja jotka suuri määrä jäseniä on allekirjoittanut.
+<P>
+Luxemburgin ehdotus, johon puheenjohtajavaltio Yhdistynyt kuningaskunta on yhtynyt, mahdollistaa tähän saakka vasta kokeiluasteella olleen järjestelmän selventämisen, yksinkertaistamisen, yhdenmukaistamisen ja laaja-alaisen soveltamisen. Rakennusalan ja kodinhoivapalvelujen kannalta kyse on ensisijaisesti alennettujen alv-kantojen soveltamisen jatkamisesta. Kysymys on joustavamman mekanismin laajentamisesta ja suunnitelmien tekemisestä tämän mekanismin soveltamisen jatkamiseksi vuoteen 2015 saakka. Samoin kyse on surullisenkuuluisan Liitteen H sisällön johdonmukaisesta hylkäämisestä. Puheenjohtajavaltio Yhdistyneen kuningaskunnan aloitteesta kyse on koko mekanismin arvioimisesta joka viides vuosi. Minusta vaikuttaa siltä, että meillä on nyt edessämme tasapainoiset ehdotukset, joiden ansiosta on mahdollista, kuten jo aiemmin totesin, ylläpitää työllisyyttä työvaltaisilla aloilla – juuri tässä ehdotetun veromekanismin johdonmukaisuus astuu kuvaan – torjua pimeää työtä ja edistää parlamentin, ja toivoakseni myös neuvoston, työn seuraavaa johtoajatusta, nimittäin sääntelyn parantamista ja Lissabonin tavoitteita.
+<P>
+Sallikaa minun sanoa vielä kerran neuvostolle, vaikka näenkin, ettei se ole edustettuna parlamentissa tänä aamuna, miten tärkeää on, että valtiovarainministerit pääsevät sopimukseen asiasta. Siinä tapauksessa, ettei Luxemburgin ja Yhdistyneen kuningaskunnan ehdotus saisi valitettavasti neuvoston yksimielistä hyväksyntää, yhteisvastuullisuuden, jonka on ohjattava myös tämän kollegion työtä, pitäisi nähdäkseni johtaa vähintäänkin järjestelmän jatkamiseen jälleen vuodella nykyisessä muodossaan. Tämä olisi "pienin paha" -ratkaisu. 
+<SPEAKER ID="6" LANGUAGE="EN" NAME="László Kovács," AFFILIATION="komission jäsen">
+<P>
+   . Arvoisa puhemies, ennen kuin esitän alustavat huomautukseni haluan esittää pahoitteluni teille ja arvoisille jäsenille myöhästymisestäni. Meillä oli hieman ongelmia liikenteessä, mutta olen nyt täällä ja kerron teille komission kannan.
+<P>
+Haluaisin esittää kiitokseni esittelijä Becseylle hänen kahdesta mietinnöstään ja jäsen Berèsille suullisen kysymyksen esittämisestä erittäin tärkeästä aiheesta, joka on hyvin lähellä sydäntäni. Kommentoin ensin arvonlisäveron yleisen verokannan vähimmäistasoa koskevaa ehdotusta. Jatkan sitten suullista kysymystä ja alennettua arvonlisäverokantaa koskevaa päätöslauselmaesitystä käsittelevillä huomautuksilla. Lopuksi tarkastelen lyhyesti kahdeksatta arvonlisäverodirektiiviä koskevaa ehdotusta, joka on osa yhden luukun järjestelmä -pakettia, josta keskusteltiin parlamentissa pitkään syyskuussa.
+<P>
+Komissio kiittää Euroopan parlamenttia alv:n yleisen verokannan vähimmäistasoa koskevan ehdotuksen nopeasta käsittelystä ja erityisesti esittelijä Becseytä hänen aktiivisesta ja myönteisestä panoksestaan. Tämä ehdotus on hyväksyttävä kiireellisesti, koska nykyinen sääntely umpeutuu 31. joulukuuta 2005. Päätöksen viivästyminen merkitsisi oikeudellisen tyhjiön syntymistä EU:n lainsäädännössä.
+<P>
+Yleistä arvonlisäverokantaa koskevat voimassa olevat säännöt yhdistettyinä siirtymävaiheen mekanismeihin ovat toimineet toistaiseksi tyydyttävästi. Näin ollen on tarkoituksenmukaista säilyttää nykyinen yleisen verokannan vähimmäistaso 15 prosentissa vielä viiden vuoden ajan, jotta turvataan yhteisön nykyisen arvonlisäverolainsäädännön yksinkertaistamiseen ja nykyaikaistamiseen tähtäävän strategian toteuttaminen, joka on parhaillaan käynnissä.
+<P>
+Tiedoksenne annettakoon, että ehdotus on saanut myönteisen vastaanoton Euroopan talous- ja sosiaalikomiteassa. Komitea on tunnustanut, että nykyisessä ympäristössä – jossa pätee päätöksenteon yksimielisyysperiaate – komission ehdotus on paras etenemistapa. Haluaisin korostaa, että vaikka ymmärränkin täysin arvoisien jäsenten huolestuneisuuden siitä, ettei neuvosto ole tehnyt asiasta päätöstä, kun työvaltaisiin palveluihin sovellettavan alennettuja alv-kantoja koskevan sääntelyn umpeutumiseen on aikaa enää yksi kuukausi, nyt käsiteltävänä olevaa ehdotusta ei mielestäni voida käyttää tämän ongelman ratkaisemiseen. Kehotankin arvoisia jäseniä painokkaasti välttämään tämän asiakirjan ja neuvostossa parhaillaan komission vuonna 2003 esittämän kompromissiehdotuksen pohjalta käytävien alennettujen alv-kantojen soveltamisalaa koskevien keskustelujen yhteen nivomista.
+<P>
+Käsittelen seuraavaksi työvaltaisiin palveluihin sovellettavia alennettuja alv-kantoja koskevaa suullista kysymystä ja päätöslauselmaesitystä. Haluan kiittää teitä tämän kysymyksen esittämisestä komissiolle. Olen tietoinen siitä, että tämä kysymys on hyvin tärkeä kansalaisille ja yritystoiminnalle. Olen myös hyvin huolestunut tästä kysymyksestä, koska nykyinen sääntely, jossa työvaltaisiin palveluihin sovelletaan alennettuja alv-kantoja, umpeutuu tämän vuoden lopussa. Annan suurta arvoa puheenjohtajavaltio Yhdistyneen kuningaskunnan ponnisteluille alennettuja alv-kantoja koskevan kompromissin löytämiseksi. Tästä kysymyksestä keskusteltiin Ecofin-neuvostossa 8. marraskuuta ja keskustellaan jälleen 6. joulukuuta. Mikäli neuvosto ei pysty tekemään päätöstä alennettujen alv-kantojen soveltamisesta työvaltaisiin palveluihin ennen tämän vuoden loppua, tämä olisi erittäin huono lopputulos. Yritykset ovat hyvin huolissaan, koska ne tarvitsevat oikeusvarmuutta. Vakuutan teille, että komissio tekee kaikkensa auttaakseen puheenjohtajavaltiota tämän asian päätökseen saattamisessa.
+<P>
+Menemättä puheenjohtajavaltion kompromissin yksityiskohtiin haluan selittää vaikeuksia, joita aiemmissa tästä kysymyksestä käydyissä keskusteluissa on ilmennyt. Jotkin valtuuskunnat torjuvat Liitteen H kaikenlaisen laajentamisen periaatteellisena kysymyksenä. Minun on todettava, etten oikeastaan ymmärrä tällaista kantaa. Liitteessä H lueteltujen alennettujen alv-kantojen soveltaminen on vapaaehtoista, joten lukuun ottamatta muutamia tavaroiden ryhmiä, joiden osalta alennettuja alv-kantoja sovelletaan laajasti koko Euroopassa, jäsenvaltioiden välillä on jo nyt valtavia eroja.
+<P>
+Jos otamme huomioon joillekin jäsenvaltioille myönnetyt useat erityispoikkeukset, nämä erot kasvavat entisestään. Ravintolapalvelut ovat tästä erittäin hyvä esimerkki. Tällä hetkellä puolet jäsenvaltioista soveltaa ravintolapalveluihin alennettuja alv-kantoja erityispoikkeusten muodossa, eikä tämä ole antanut aihetta valituksiin tai vääristänyt kilpailua. Miksi emme näin ollen antaisi kaikille jäsenvaltioille mahdollisuutta soveltaa alennettua alv-kantaa tällä alalla, jos ne niin haluavat? Jotkin jäsenvaltiot vaativat toissijaisuusperiaatteen soveltamisen laajentamista. Uusien alennettujen alv-kantojen soveltamisen talousarviovaikutus tulee myös kuvaan mukaan. Nähdäkseni vain hyvin harvat alat ovat todella merkityksellisiä tässä suhteessa. Periaatteessa vain ravintolapalveluilla ja rakennuspalveluilla saattaisi olla merkittävä talousarviovaikutus. Esimerkiksi rakennusalan osalta neuvosto voisi tarkastella kriteerejä, joilla rajataan alennettujen alv-kantojen soveltamisalaa, jotta rajoitetaan niiden mahdollista talousarviovaikutusta, esimerkiksi määrittämällä, että alennettua alv-kantaa voidaan soveltaa ainoastaan tietynikäisiin rakennuksiin.
+<P>
+Haluan korostaa rakennusalan taloudellista merkitystä. Te tiedätte, että komissio on suhtautunut aina epäillen alennettujen alv-kantojen käyttöönoton myönteisiin työllisyysvaikutuksiin. Tämä pitää edelleen paikkansa. Meidän on kuitenkin oltava täysin selvillä siitä, että ainakin asianomaisella alalla alv-kannalla on tärkeä rooli. Päinvastoin kuin alv-kannan alentamisen kohdalla, alv-kannan nostaminen yleisen verokannan uuden käyttöönoton myötä saattaisi hyvinkin kääntää kuluttajahinnat välittömästi nousuun. Tällä olisi kielteisiä vaikutuksia työllisyyteen, ja se saattaisi jopa kannustaa harmaata taloutta asianomaisissa jäsenvaltioissa. Olen tietoinen, että yritykset, asianomaiset jäsenvaltiot ja Euroopan parlamentti ovat hyvin huolestuneita tästä asiasta. Katson näin ollen, että ainakin vallitsevan tilanteen säilyttämiseen tällä alalla on hyvät poliittiset ja taloudelliset perusteet.
+<P>
+Tähän liittyy kuitenkin muutamia ehtoja. Ensinnäkin alennettuja alv-kantoja koskevien säännösten nykyiseen soveltamisalaan tulisi lisätä vain paikallisesti tuotettavat palvelut. Alennettujen alv-kantojen laajentamista koskemaan uusia tavaroiden ryhmiä tulisi välttää, koska uhka kilpailun vääristymisestä on liian suuri.
+<P>
+Toiseksi ei ole mahdollista eikä suotavaa pelkästään jatkaa nykyisten työvaltaisia palveluja koskevien kokeiluluonteisten alennettujen alv-kantojen soveltamista. Vaikka tämä ratkaisu houkuttikin minua aluksi, meidän on myönnettävä, että on harhaluulo, että pelkällä sääntelyn jatkamisella on paremmat mahdollisuudet tulla hyväksytyksi yksimielisesti neuvostossa kuin parhaillaan keskusteltavana olevalla kompromissilla. Lisäksi tämä kokeilu on koskenut ainoastaan yhdeksää jäsenvaltiota, ja pelkkä kokeilun jatkaminen pitkittäisi vain jäsenvaltioiden eriarvoista kohtelua. Minun on korostettava, että neuvostolla on ollut jo yli kaksi vuotta aikaa tehdä päätös. Sen ei pitäisi vältellä velvollisuuksiaan jälleen kerran.
+<P>
+Kolmanneksi kompromissin on oltava oikeudenmukainen siinä mielessä, että sen tulisi merkitä edistysaskelta kohti kaikkien jäsenvaltioiden tasavertaista kohtelua. Puheenjohtajavaltio Yhdistyneen kuningaskunnan ehdotus uusille jäsenvaltioille myönnettävien määräaikaisten poikkeusten jatkamisesta vuoteen 2015 saakka edistäisi mielestäni nimenomaan tämän tavoitteen saavuttamista.
+<P>
+Tiedän, etteivät kaikki arvoisat jäsenet ole välttämättä täysin samaa mieltä tästä linjasta erityisesti työvaltaisia palveluja koskevan sääntelyn jatkamisen osalta. Sallikaa minun näin ollen käyttää tätä tilaisuutta muistuttaakseni heitä siitä, että kun neuvosto sopi työvaltaisiin palveluihin sovellettavia alennettuja alv-kantoja koskevan sääntelyn jatkamisesta toisen kerran vielä kahden vuoden ajan, komissio katsoi, että uusille jäsenvaltioille pitäisi antaa samat mahdollisuudet. Liittymistä edeltäneissä neuvotteluissa mahdollisuutta soveltaa alennettuja alv-kantoja työvaltaisiin palveluihin ei pidetty merkityksellisenä, koska kokeilun oli määrä päättyä 31. joulukuuta 2003, toisin sanoen ennen EU:n laajentumista. Näin ollen toimenpiteiden jatkaminen muodosti uuden elementin, joka edellytti tilanteen uudelleentarkastelua. Tilanne ei ole selvästikään sama kuin vuonna 2003, joten on erittäin epätodennäköistä, että neuvosto pyytää yksimielisesti – kuten se teki aiemmin – komissiota ehdottamaan sääntelyn jatkamista. Lisäksi työvaltaisia palveluja koskevan kokeilun pelkkä jatkaminen ei ole ratkaisu laajaan vaatimukseen myös ravintolapalvelujen sisällyttämisestä alennettujen alv-kantojen soveltamisalaan, koska ne eivät tällä hetkellä sisälly Liitteeseen K.
+<P>
+Haluan vielä todeta pitäväni välttämättömänä, että neuvosto hahmottelee nyt toteuttamiskelpoisen kompromissin tavoitteenaan poliittisen päätöksen tekeminen viimeisessä Yhdistyneen kuningaskunnan puheenjohtajakauden Ecofin-neuvostossa joulukuussa. Komissio on kuitenkin neuvoston käsissä, emmekä voi tehdä muuta kuin auttaa neuvostoa mahdollisimman paljon sopimukseen pääsemisessä.
+<P>
+Verotuksesta vastaavana komission jäsenenä vakuutan teille, että komissio on valmistautunut tekemään kaikkensa ja toimimaan mahdollisimman joustavasti Ecofin-neuvoston kokouksessa 6. joulukuuta auttaakseen yksimielisen päätöksen syntymistä Yhdistyneen kuningaskunnan kompromissin pohjalta.
+<P>
+Lopuksi haluaisin kommentoida lyhyesti kahdeksatta direktiiviä koskevaa ehdotusta. Olen useissa yhteyksissä korostanut, että yksi tapa saavuttaa Lissabonin toimintasuunnitelman tavoitteet on vähentää rajat ylittäviä hallinnollisia velvoitteita ja säännösten noudattamisesta aiheutuvia kustannuksia ja edistää näin yritysten toimintaa koko yhteisön alueella. Tänään on mahdollista ottaa seuraava askel kohti tätä tavoitetta. Tänään esitelty ehdotus on osa laajempaa pakettia, joka tunnetaan yhden luukun järjestelmänä. Ehdotuskokonaisuuden muut osat – yksinkertaistamistoimet, joilla verotettavat henkilöt voivat täyttää arvonlisäverovelvoitteensa sijoittautumisjäsenvaltiossa, ja säännöt, joihin sisältyy jäsenvaltioiden välinen tietojenvaihto – hyväksyttiin parlamentissa syyskuussa. Nyt käsiteltävänä olevalla ehdotuksella pyritään uudistamaan arvonlisäveron palautusmenettelyä sellaisten elinkeinonharjoittajien osalta, joiden on haettava palautusta niiltä perittävästä arvonlisäverosta sellaisessa jäsenvaltiossa, johon ne eivät ole sijoittautuneet. Kokonaan sähköinen palautusmenettely korvaa nykyisen, hankalan paperipohjaisen kahdeksanteen direktiiviin sisältyvän palautusjärjestelmän. Uuden ehdotuksen ansiosta on mahdollista nopeuttaa huomattavasti arvonlisäveron palautusmenettelyä. Tästä on erityistä hyötyä pienille ja keskisuurille yrityksille. Tässä suhteessa olen tyytyväinen esittelijän myönteiseen panokseen, vaikken voikaan hyväksyä ehdotettuja tarkistuksia. Useimpia näistä kysymyksistä on itse asiassa jo käsitelty komission yhden luukun järjestelmää koskevassa ehdotuksessa. Pyydän teitä näin ollen tukemaan komission alkuperäistä kantaa.
+<P>
+Nyt odotan malttamattomana kuulevani teidän näkemyksenne tämänpäiväisen istunnon esityslistaan sisältyvistä kolmesta arvonlisäveroa käsittelevästä asiakirjasta ja otan loppuhuomautuksissani kantaa esitettyihin tarkistuksiin. 
+<SPEAKER ID="7" LANGUAGE="NL" NAME="Marianne Thyssen," AFFILIATION="PPE-DE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, arvoisa komission jäsen, olen kiitollinen teille siitä, että annoitte meille puheenvuorollanne toivoa. Katson, että arvonlisäverolainsäädännössä on käyttöä kaikelle mahdolliselle optimismille, koska vaikka kaikki puhuvat sääntelyn parantamisesta ja hyvästä hallintotavasta, huomaamme, ettei tämä koske kahta esityslistaan sisältyvästä kolmesta aiheesta.
+<P>
+Pidän myönteisenä arvonlisäveron palautuksia koskevien säännösten yksinkertaistamista niiden verovelvollisten osalta, jotka ovat sijoittautuneet toiseen jäsenvaltioon. Kaikille yrityksille, myös kaikkein pienimmille ja myös kaikille pk-yrityksille, annetaan nyt mahdollisuus todellakin vaatia rahojaan takaisin tyydyttävässä ajassa. Ne meistä, jotka kuuluvat Euroopan kansanpuolueen (kristillisdemokraatit) ja Euroopan demokraattien ryhmään, voivat vain antaa tälle tukensa.
+<P>
+Tässä yhteydessä on kuitenkin myös ehdotettu arvonlisäveron yleisen verokannan vähimmäistason soveltamisen jatkamista. On tietysti hyvä asia, että vähimmäistason soveltamisen jatkamista ehdotetaan, ja tuemme tätä ehdotusta, mutta pidämme jokseenkin dramaattisena tämänkaltaisen toimen käyttöönottoa nyt, kun sääntelyn umpeutumiseen ja uuden sääntelyn voimaantuloon on aikaa alle kuukausi. Kaikki kuitenkin tietävät, mitä on tulossa. Päätös tehdään myöhempänä ajankohtana, jonka jälkeen kaikki voivat taas ottaa rennommin vielä viiden vuoden ajan.
+<P>
+Pahempia ovat kuitenkin vaikeudet – enkä voi kuvailla niitä millään muulla sanalla – jotka liittyvät kuudennen arvonlisäverodirektiivin Liitteeseen K ja välillisesti myös Liitteeseen H. Työvaltaisiin palveluihin sovellettavaa alennettua alv-kantaa koskeva kokeilu on jatkunut kaksi kertaa kauemmin kuin alun perin suunniteltiin. Neuvosto ei vain onnistu arvioimaan kokeilua ja tekemään sen pohjalta päätöksiä.
+<P>
+Kaikki ne alat, joille me, siis komissio ja parlamentti, olimme vuonna 2003 antaneet toiveita alennetun alv-kannan soveltamisesta – hotelli- ja ravintola-ala, rakennusteollisuus mutta myös pesula- ja puutarhapalveluja tarjoavat yritykset – ovat jääneet siitä paitsi. Neuvosto ei sano juuta eikä jaata. Neuvosto ei tee päätöksiä eikä ole läsnä täällä salissa. Luomme näin epävarmuutta, joka on haitallista talouskehitykselle. Tätä ei voida hyväksyä aikana, jolloin tarvitsemme erittäin kipeästi talouskasvua ja lisää työllisyyttä. Arvoisa komission jäsen, luotamme teidän tukeenne neuvoston kanssa käytävissä keskusteluissa. Lopuksi totean, että annamme täyden tukemme kahdelle Becseyn laatimalle mietinnölle ja suulliseen kysymykseen liittyvälle päätöslauselmalle. 
+<SPEAKER ID="8" LANGUAGE="NL" NAME="Ieke van den Burg," AFFILIATION="PSE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, äskeinen taputtaja olin minä, ja osoitin suosiota siksi, että olin täysin samaa mieltä jäsen Thyssenin kanssa. Sallikaa minun ensinnäkin antaa tunnustusta esittelijä Becseylle, joka on kamppaillut tämän vaikean aiheen kanssa ja josta on nyt tullut arvonlisäveroasiantuntijamme talous- ja raha-asioiden valiokunnassa. Tuemme hänen mietintöään ja myös sitä, mitä muut ovat todenneet arvonlisäveron palautuksesta. On todellakin erittäin tärkeää, että tämä järjestelmä otetaan käyttöön nopeammin ja yksinkertaisemmassa muodossa rajatylittävää toimintaa harjoittavien yritysten kannalta, sillä muutoin eurooppalaiset sisämarkkinat ovat pelkkä farssi.
+<P>
+Toinen mietintö liittyy esittämäämme suulliseen kysymykseen ja määräaikoihin, joiden kuluessa tietyt asiat on hoidettava. Olen täysin samaa mieltä jäsen Thyssenin kanssa siitä, että on naurettavaa, että nyt, kun sääntelyn umpeutumiseen on aikaa enää kuukausi, tilanne on edelleen epävarma erityisesti työvaltaisilla palvelualoilla, joilla ei edelleenkään tiedetä, missä mennään. Komission jäsentä ei voida syyttää tästä. Neuvosto on se oikeudellinen elin, joka on vastuussa tästä asiasta, eikä se onnistu antamaan sääntelyä.
+<P>
+Seison edessänne näiden työvaltaisten palvelujen puolestapuhujana. Ihanteellista olisi, että ne sisällytettäisiin Liitteeseen H, nimittäin rakenteelliseen ratkaisuun. Toivon, että täällä parlamentissa esittämämme vetoomus on joka tapauksessa viimeinen sysäys, jota sopimuksen syntymisen varmistaminen edellyttää, ja että tästä aiheesta keskustelemiseen löydetään aikaa ensi vuonna. Minä puolestani kannatan tämän keskustelun käymistä paljon laajemmalla pohjalla. Katson, että koko välillisestä verotuksesta välittömään verotukseen siirtymisestä käytävä keskustelu, johon pääministerinne Verhofstadt on jälleen verran nimenomaisesti viitannut, liittyy kaikin tavoin siihen tapaan, jolla käsittelemme näitä alv-kantoja rakenteellisesti.
+<P>
+Tästä syystä yhdyn jäsen Becseyn näkemykseen todetessani, etten kannata enimmäistason määrittämistä tällä väliaikaiskaudella ja että annan täyden tukeni sille, että mahdollisuudesta soveltaa alhaisia alv-kantoja tehdään rakenteellinen. Jos halutaan siirtyä välittömästä verotuksesta välilliseen verotukseen, mikä voi todellakin olla erittäin hyödyllistä, on myös eriytettävä verokannat. Alhaisia verokantoja sovelletaan sosiaalisten ja työllisyyteen liittyvien perusteiden nojalla sekä pimeän työn sääntelemiseksi ja ehkäisemiseksi. Nämä kaikki ovat tekijöitä, jotka tulisi ottaa huomioon. Korkeampia verokantoja pitäisi ehkä soveltaa tiettyihin ylellisyystavaroihin tai ympäristöä saastuttaviin tekijöihin.
+<P>
+Katson, että tätä rakenteellista keskustelua pitäisi todellakin käydä ensi vuonna, ja toivon, että komission jäsen voi antaa alkusysäyksen tälle keskustelulle. Toivon, etteivät jäsenvaltiot piiloudu joka kerta yksimielisyysperiaatteen ja niillä olevan mahdollisuuden taakse pystyttää kaikenlaisia esteitä ja tehdä salakähmäisiä sopimuksia. Seuraan jäsen Berèsin esimerkkiä todetessani, etten pidä tätä hyvänä hallintotapana tai hyvänä lainsäädäntönä. 
+<SPEAKER ID="9" LANGUAGE="LT" NAME="Margarita Starkevičiūtė," AFFILIATION="ALDE-ryhmän puolesta">
+<P>
+   . Minäkin haluaisin ilmaista kiitollisuuteni kollega Becseylle hänen työstään arvonlisäverokysymyksessä ja siihen liittyvien asiakirjojen valmistelussa. Keskustelemme tänään verosta, joka on merkittävä koko Euroopan kannalta. Vaikka Euroopan unionilla ei olekaan yhteistä veropolitiikkaa, arvonlisävero on keskeinen rahoituslähde Euroopan unionin talousarviossa. Jo vuonna 1977, kun kuudes arvonlisäverodirektiivi hyväksyttiin, pyrittiin luomaan, yleisessä merkityksessä, yhteinen arvonlisäverokanta, jotta turvattaisiin Euroopan unionin talousarvioon suoritettavien maksujen vakaus.
+<P>
+Tällä alalla tehty työ on tuottanut merkittäviä tuloksia. Nykyiseen arvonlisäverokantojen järjestelmään sisältyy kuitenkin edelleen poikkeuksia, joiden nojalla tiettyihin tavaroihin ja palveluihin voidaan soveltaa huomattavasti alhaisempia alv-kantoja. Lisäksi kyse ei ole vain niistä yksittäisistä tuotteista, joihin alennettuja alv-kantoja sovelletaan eri jäsenvaltioissa, vaan myös näiden poikkeusten erilaisista voimassaoloajoista. Tällainen monimutkainen järjestelmä aiheuttaa ongelmia pitkän aikavälin talousarvion rahavirtojen ennustamiselle ja myös luo jäsenvaltioissa mahdollisesti erilaiset edellytykset arvonlisäverodirektiivin säännösten soveltamiselle.
+<P>
+Näin ollen haluaisin ehdottaa, ja antaa tukeni tällaisille ehdotuksille, että Euroopan komissio ottaisi uudelleentarkastelun kohteeksi ja laatisi yhteisen luettelon tavaroista ja palveluista, joihin sovellettaisiin alhaisempia alv-kantoja. Lisäksi komission pitäisi arvioida makrotaloudellisia vaikutuksia eri jäsenvaltioihin ja eri jäsenvaltioissa saatuja kokemuksia varmistaakseen, että kyseinen luettelo on voimassa pitkällä aikavälillä eikä ainoastaan väliaikaisesti, ellei sitä täsmennetä muutoin kahdenvälisellä sopimuksella. Yhteisen luettelon käyttöönotto auttaisi välttämään puutteellista käytäntöä siltä osin kuin joillekin jäsenvaltioille on myönnetty poikkeus alhaisempien verokantojen soveltamiseen, kun taas toiset jäsenvaltiot eivät voi soveltaa alhaisempia alv-kantoja lainkaan. Yhteinen luettelo varmistaisi myös kiistatta Euroopan unionin talousarvioon virtaavien maksujen vakauden, koska se helpottaisi pitkän aikavälin rahoitusvirtojen ennustamista. 
+<SPEAKER ID="10" LANGUAGE="EN" NAME="Ian Hudghton," AFFILIATION="Verts/ALE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, työvaltaisiin palveluihin sovellettavien alennettujen alv-kantojen osalta totean, että on kulunut lähes vuosi siitä, kun parlamentti hyväksyi mietinnön, jonka esittelijänä toimin ja jossa tuettiin voimakkaasti periaatetta, jonka mukaan kaikilla jäsenvaltioilla olisi oltava oikeus soveltaa tätä järjestelmää. On pettymys, ettei viimeisen vuoden aikana ole edistytty lainkaan.
+<P>
+Totesin tuolloin, että jäsenvaltioiden pitäisi tietysti olla tasavertaisia mutta että meidän pitäisi myös painostaa neuvostoa, jotta se ottaisi tämän periaatteen pysyvästi osaksi pyrkimyksiämme saavuttaa Lissabonin strategian tavoitteet. Ymmärrän, että tämän järjestelmän myönteisiä vaikutuksia työllisyyteen voi olla vaikeaa mitata, mutta olen myös vakuuttunut siitä, että täyden arvonlisäveron äkillisellä soveltamisella työvaltaisiin palveluihin on kielteinen vaikutus.
+<P>
+Pienessä rakennusalan yrityksessä saamastani kokemuksesta tiedän, että täyden arvonlisäveron maksaminen vaikuttaa kuluttajan valintoihin. Huomattavassa osassa tapauksista kuluttajat päättävät mennä sinne, missä arvonlisäveroa ei sovelleta. Tämä päätöslauselma, jota kaikki poliittiset ryhmät ovat tukeneet ja josta äänestetään tänään, on järkevä. Tämä on vähintä, mitä voimme odottaa neuvostolta, mikäli emme halua nähdä tämän järjestelmän päättymisen johtavan äkilliseen sokkiin asianomaisilla aloilla. Toivoisin, että jäsenvaltioita voidaan kannustaa osallistumaan täysipainoisemmin tähän järjestelmään, jotta voimme kerätä tietoa sen myönteisistä vaikutuksista, jotka voidaan varmasti myös mitata. 
+<SPEAKER ID="11" LANGUAGE="EL" NAME="Diamanto Μanolakou," AFFILIATION="GUE/NGL-ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, välillinen verotus on perusväline tavallisten kansalaisten tulojen riistämiseen ja siten tavallisten kansalaisten vastainen järjestelmä.
+<P>
+Samaan aikaan kun suuryrityksille ja niiden hankkimille voitoille myönnetään jatkuvia veropoikkeuksia, joiden verukkeena käytetään investointien lisäämistä, välillisiä veroja lisätään ja tavallisten kansalaisten tuloja leikataan. Tämän vuoksi tuomme julki kaikkia välillisen verotuksen muotoja ja erityisesti nykyisenmuotoista arvonlisäverojärjestelmää koskevan vastustuksemme.
+<P>
+Aivan äskettäin kotimaassani Kreikassa hallitus korotti arvonlisäveroa yhdellä prosentilla noudattaessaan kuuliaisesti vakaussopimuksen määräyksiä. Samaan aikaan jotkut sanovat, että veroa saatetaan komission painostuksesta joutua korottamaan vielä lisää. Hallitus on tietysti tukenut yritysten voittoihin kohdistuvien verojen leikkaamista kymmenellä prosentilla. Ironista kyllä, saatamme päätyä lopulta paradoksaaliseen tilanteeseen, jossa kannatamme arvonlisäveron enimmäistason asettamista 25 prosenttiin, koska silloin voimme olla varmoja, ettei se nouse enää sitä korkeammaksi.
+<P>
+Arvonlisäveron 15–25 prosentin verokannat, jotka eivät mahdollista välttämättömyystarvikkeiden ja ylellisyystavaroiden erottelemista, ja yhdenmukaiset verokannat, jotka edellyttävät, että köyhä työläinen ja rikas liikemies maksavat saman veron ja että hammastahnaa verotetaan saman verokannan mukaan kuin huvialusta, ovat usein korkeampia kuin suuryrityksiin välittömässä verotuksessa sovellettavat verokannat. On jopa ehdotettu progressiivisesta välittömästä verotuksesta luopumista ja yleisen verokannan määrittämistä, joka on sama kuin välillisten verojen kohdalla.
+<P>
+Se, ettei kokeiluluonteista direktiiviä, jossa sallitaan alhaisemman alv-kannan soveltaminen työvaltaisiin palveluihin, voida soveltaa yleisesti, on tyypillistä suuryritysten yhtenäiselle strategialle ja kapitalistien sisäiselle valtataistelulle. Tämän direktiivin, jossa jäsenvaltioiden sallitaan soveltaa alennettuja alv-kantoja tiettyihin toimintoihin, jotta asianomaiset työpaikat voidaan samalla säilyttää, voimassaoloaikaa on jatkettu kahdesti. Direktiiviä ei toistaiseksi ole ollut mahdollista soveltaa yleisesti kaikkiin jäsenvaltioihin, mikä on juuri se syy, miksi kyseinen direktiivi edustaa erimielisyyttä.
+<P>
+Taistelemme yhdessä työntekijöiden kanssa tavallisten kansalaisten tulojen suojelemisen, välillisten verojen lakkauttamisen sekä progressiivista tulo- ja pääomaverotusta koskevan politiikan soveltamisen puolesta. Tavoitteenamme on estää työväestöä, eläkeläisiä, työttömiä ja ruohonjuuritason yhteiskuntaluokkia yleisesti joutumasta maksumiehiksi ja verotuksen käyttämistä yhtenä välineenä työväestön tulojen uudelleenjakoon suuryritysten hyväksi. 
+<SPEAKER ID="12" LANGUAGE="EN" NAME="John Whittaker," AFFILIATION="IND/DEM-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, jäsen Becseyn alv:n yleisen verokannan vähimmäistasoa käsittelevässä mietinnössä todetaan, että Euroopan parlamentin perimmäisenä tavoitteena on edistää EU:n taloudellista tuottavuutta ja kasvuastetta. Vaikka nämä ovatkin yleviä ajatuksia, toivon, että sallitte minun antaa muutamia yleisluonteisia neuvoja.
+<P>
+Kansainvälinen valuuttarahasto on arvioinut euroalueen vuoden 2006 talouden kasvuennusteeksi 1,8 prosenttia suurimpien jäsenvaltioiden talouskasvun ollessa kaikkein heikointa. Tämä heikko talouskasvu ei ole läheskään riittävä EU:n sosiaalisen ohjelman jatkamiseen. Komissio esittää, että tuloveron leikkaaminen prosentilla BKT:stä lisäisi vastaavasti talouskasvua yli prosentilla. Yhdenmukaistettua arvonlisäverojärjestelmää pitäisi näin ollen käyttää komission mukaan siirtymiseen välittömästä verotuksesta välilliseen verotukseen. Valitettavasti ei ole kiistattomia todisteita siitä, että tällaista kasvua tapahtuisi. Lisäksi välilliseen verotukseen siirtyminen merkitsee tulojen uudelleenjakoa köyhiltä rikkaille, kuten yhteinen maatalouspolitiikkakin, jossa palkitaan viljelijöiden sijaan maanomistajat. Tätäkö me todella haluamme?
+<P>
+Haluaisin ehdottaa, että verotuksen yhdenmukaistamispyrkimysten sijaan kumppaniemme komissiossa pitäisi pikemminkin jättää verotus rauhaan. Eivätkö he ymmärrä, että heidän pakkomielteenomainen pyrkimyksensä luoda tasapuolinen toimintaympäristö, jollaista ei todellisuudessa ole olemassakaan, ja sisäänpäin kääntynyt, sääntelyjohtoinen politiikkansa vahingoittavat talouskasvua sen vauhdittamisen sijaan? Työaikadirektiivi, vuokratyövoimadirektiivi ja yhteinen maatalouspolitiikka ovat kaikki esimerkkejä Euroopan unionista, joka kieltäytyy havahtumasta maailmanlaajuisten markkinoiden, vapaan kaupan ja tehokkuuden todellisuuteen ja joka keskittyy sen sijaan tavoittelemaan vanhentunutta sosiaalista mallia, jolle ei ole sijaa maailmanlaajuisessa taloudessa.
+<P>
+Yhdenmukaistamisen tulisi olla viimeinen asia sellaisen kansallisen hallituksen asialistalla, joka haluaa maansa talouden kasvavan. Päinvastoin, annos todellista sääntelyn purkamista tuottaisi ihmeellisiä tuloksia. 
+<SPEAKER ID="13" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Muistuttaisin jäsen Whittakeria siitä, että maailmanlaajuiset tutkimukset osoittavat Euroopan olevan vetovoimaisin alue koko maailmassa. Useimmat maailman ihmisistä eläisivät mieluummin Euroopassa ja asettavat sen jopa Amerikan edelle. Eurooppalainen järjestelmä ei näin ollen voi olla sittenkään kovin huono! 
+<SPEAKER ID="14" LANGUAGE="DE" NAME="Hans-Peter Martin (NI ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, tapa, jolla käytätte johtoasemaanne poliittisten lausumien esittämiseen, lienee imagokysymys. Nämä kysymykset, vaikka kuulostavatkin erittäin teknisiltä, liittyvät kuitenkin yhteisönä toimimisemme perusteisiin. Arvonlisäverokysymyksissä on aina kyse myös oikeudenmukaisuudesta. On todettava, että yhteinen Euroopan unionimme on heikkoudessaan – sillä olemme organisaationa menettäneet vaikutusvaltaamme –turvautumassa arvonlisäveron tarjoamaan keinotekoiseen apuun voidakseen koota tietyn määrän verotuloja, joista voidaan käyttää tätä nimitystä. Tämä on erittäin epäoikeudenmukainen menettelytapa, sillä kuten tiedämme, arvonlisävero kohdistuu hyvin usein vääriin henkilöihin.
+<P>
+Tältä osin esikuvana voisi toimia kaksi itävaltalaista henkilöä. Toisen heistä – Bruno Kreiskyn – varmaan jo tunnettekin, kun taas toiseen eli Karl-Heinz Grasseriin pääsette todennäköisesti tutustumaan myöhemmin. Juuri Kreisky näki monia vuosia sitten erittäin selvästi, ettemme pääsisi tämänkaltaisilla lähestymistavoilla eteenpäin. Meidän on sen sijaan keskitettävä toimemme – ennen kaikkea alv-kantojen osalta – sellaisiin aloihin sovellettavaan arvonlisäveroon, joilla meidän on mahdollista saada takaisin osa siitä, minkä menetämme muilla aloilla, esimerkiksi asioihin, joista rikkaat todella pitävät: ylellisiin limusiineihin, huvialuksiin ja kakkosasuntoihin. Tämä tarkistuksella pyritään estämään, mikä on minusta väärin. Karl-Heinz Grasser pyrkii estämään, ainakin Itävallassa – ja tässä suhteessa hän toimii mielestäni esimerkillisesti – sen, että kansainvälisellä tasolla toimivat yritykset voivat siirrellä ostoihin sisältyvää veroa paikasta toiseen joutumatta tosiasiassa koskaan maksamaan arvonlisäveroa. Yksi neuvoston seuraavan puheenjohtajavaltion mahdollisuus voisi olla edistyä arvonlisäverotuksen porsaanreikien sulkemisessa ainakin Euroopan tasolla. 
+<SPEAKER ID="15" LANGUAGE="DE" NAME="Othmar Karas (PPE-DE ). –" AFFILIATION="Steuer">
+<P>
+   Arvoisa puhemies, useimmat edellisistä puhujista ovat osoittaneet, että tapa, jolla tätä asiaa käsitellään, on epäammattimainen, paljastaa vastuuttoman asenteen markkinaosallistujia – sekä yrityksiä että niiden asiakkaita – kohtaan ja pikemminkin luo epävarmuutta kuin selventää tilannetta.
+<P>
+Luotettavalle etukäteissuunnittelulle ei näytä mielestäni olevan edellytyksiä, eivätkä neuvosto ja komissio ole nähtävästi tehneet kotitehtäviään riittävän huolellisesti. Mikäli ne olisivat tehneet niin, aikataulumme ei koostuisi tällaisesta kertomusten, lykkäysten ja väliaikaisten järjestelyjen jatkamisen sillisalaatista todellisen ratkaisun jäädessä löytymättä.
+<P>
+Saksan kielessä sanalla on kaksi eri merkitystä: se liittyy verotuksen lisäksi myös ohjaamiseen. Veroilla ohjataan. Veropolitiikka on poliittinen väline talouden ohjaamiseen. Ellei veropolitiikkaa selvennetä Euroopan tasolla, ellemme saa lisää toimivaltaa verotuksen alalla, ellei verotuksesta käydä laaja-alaista keskustelua, ellemme saa yhdenmukaista määräytymisperustetta yritysverotuksen osalta, ellemme sulje verotuksen porsaanreikiä ja ellei ammatillisiin lisäeläkejärjestelmiin sovelleta yhdenmukaisia verotusjärjestelyjä – emme voi saavuttaa monia kasvua ja työllisyyttä koskevia poliittisia tavoitteitamme, sillä meillä ei ole käytettävissämme siihen tarvittavia keinoja.
+<P>
+Vaadin näin ollen laaja-alaista verotuskeskustelua, jossa ei lisäksi käsitellä ainoastaan yksittäisiä verotukseen liittyviä näkökohtia. Kannatan pitkän aikavälin verotusta koskevaa lähestymistapaa, josta sovitaan jäsenvaltioiden kesken. Pidän tätä parempana vaihtoehtona kuin aivan viime hetkillä kokoon raavittua järjestelyä, jota lopulta jatketaan ja joka ei siten johda mihinkään ratkaisuun. Molemmat esimerkit osoittavat, että parhaillaan käymämme keskustelun lopputuloksena on pelkästään väliaikainen järjestely, joka ei auta meitä tältä osin eteenpäin. 
+<SPEAKER ID="16" LANGUAGE="PL" NAME="Dariusz Rosati (PSE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, olemme nyt tilanteessa, jossa alv-kannat vaihtelevat suuresti Euroopan unionin sisällä. Jäsenvaltiot soveltavat erilaisia alv:n yleisiä verokantoja, erilaisia alv:n alennettuja verokantoja ja erilaisia sääntöjä näiden verokantojen soveltamiseen. Kaiken tämän lopputuloksena on hintojen vääristyminen Euroopan unionissa. Erilaisilla verokannoilla on myös kielteinen vaikutus resurssien kohdentamiseen, ja pitkällä aikavälillä ne heikentävät EU:n kasvupotentiaalia.
+<P>
+Samaan aikaan on kuitenkin esitetty monia epäilyjä siitä, onko alv-kantojen yhdenmukaistaminen tarpeen, ja tällaisia näkemyksiä on myös ilmaistu tänään täällä istuntosalissa. Minä näen asian siten, että meidän on nyt aika keskustella vakavasti ja laajasti Euroopan unionin verojärjestelmästä. Ehdottaisin komissiolle, että sen pitäisi teettää yksityiskohtainen tutkimus alv-kantojen asteittaisen EU:n laajuisen lähentämisen ja tällaisten alv-kantojen soveltamisen vaikutuksista, olivat ne sitten myönteisiä tai mahdollisesti kielteisiä. Tarvitsemme vankkaa analyyttista tietoa tätä asiaa koskevan vakavan pohdinnan perustaksi.
+<P>
+Siirtyessäni tarkastelemaan työvaltaisiin palveluihin sovellettavia alennettuja alv-kantoja haluaisin toistaa, että nämä alv-kannat otettiin käyttöön kuusi vuotta sitten kokeiluluonteisesti. Olen aidosti hämmästynyt siitä, etteivät jäsenvaltiot ole vielä kyenneet arvioimaan tämän kokeilun tuloksia.
+<P>
+Nykyinen asiaintila johtaa uusien jäsenvaltioiden räikeään syrjimiseen tällä alalla, emmekä saa antaa sen jatkua. 
+<SPEAKER ID="17" LANGUAGE="DE" NAME="Wolf Klinz (ALDE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, arvoisa komission jäsen, kuten minua ennen puhunut jäsen Rosati totesi, on melkoinen yllätys ja pettymys, että keskustelemme neljä viikkoa ennen vuodenvaihdetta asiasta, joka olisi oikeastaan pitänyt ratkaista jo ajat sitten.
+<P>
+Alennettuja alv-kantoja koskevia erityissääntöjä, jotka otettiin käyttöön vuonna 1999 aluksi kolmeksi vuodeksi, sovellettiin ainoastaan muutamiin jäsenvaltioihin ja tiettyihin työvaltaisiin palveluihin. Sääntöjen alkuperäistä voimassaoloaikaa jatkettiin sen umpeutumisen jälkeen toistuvasti, mikä on osoitus siitä, ettei lopullisen ratkaisun löytäminen ollut mahdollista myöskään aiemmin. Ellei sääntelyä päätetä jälleen jatkaa, tätä sääntöä ei enää sovelleta kuluvan vuoden päätyttyä. Tiedämme, että erityissääntöjen käyttöönoton herättämät odotukset täyttyivät vain osittain, jos lainkaan.
+<P>
+Vuonna 2003 komissio totesi, etteivät alennetut alv-kannat ilmenneet alhaisempina hintoina eikä niillä ollut käytännössä havaittavaa vaikutusta työllisyystilanteeseen.
+<P>
+Juuri tästä syystä ryhmäni asetti yhteisen, kaikkien poliittisten ryhmien päätöslauselmaesityksen tukemisen ehdoksi useiden edellytysten täyttymisen. Ensimmäinen näistä edellytyksistä oli se, että kokeilua pitäisi jatkaa vain kerran ja ainoastaan seuraavan vuoden loppuun saakka. Toiseksi edellytimme, että komissio käynnistää kattavan tutkimuksen toimenpiteen tehokkuudesta. Kolmanneksi jatkokauden päätyttyä seuraavan vuoden lopussa alennetusta alv-kannasta hyötyisivät ainoastaan ne alat, joilla alv-kannan alentamisella oli ollut todistettavasti myönteinen vaikutus hintoihin ja työllisyyteen. Näillä aloilla erityisjärjestelystä tulisi siten pysyvä, ja muut alat, joilla erityisjärjestely oli osoittautunut tehottomaksi, jätettäisiin lopullisesti sen ulkopuolelle. Uusien jäsenvaltioiden sallittaisiin myös soveltaa alennettua alv-kantaa, jotta kilpailu ei vääristyisi EU:ssa.
+<P>
+Vaadimme kohta kohdalta -äänestystä yhteisen päätöslauselmaesityksen 2 kohdasta, koska säännöt ovat olleet voimassa huomattavan pitkään ja mainittu arviointi on mielestämme riittävän yksityiskohtainen ja täsmällinen. 
+<SPEAKER ID="18" LANGUAGE="FR" NAME="Marie Anne Isler Béguin (Verts/ALE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, kuka uskaltaisi nykypäivänä ilmoittaa 170 000 työpaikan leikkaamisesta maissa, jotka ovat olleet pitkään unionimme jäseniä? Onko tämä hulluutta? Mielenhäiriö? Ei, näin tällä hetkellä vain tapahtuu. Jos 6. joulukuuta kokoontuva Ecofin-neuvosto ei jatka alennettua alv-kantaa koskevaa sääntelyä, tämä katastrofaalinen tilanne on itse asiassa edessä vuonna 2006.
+<P>
+Työvaltaisiin palveluihin sovellettavia alennettuja alv-kantoja koskeva, vuonna 1999 käyttöönotettu kokeilu on osoittautunut tehokkaaksi. Se on luonut työpaikkoja. Esimerkiksi Ranskassa BTP (rakennusala ja julkiset hankkeet) arvioi, että alalla on syntynyt 60 000 pitkäaikaista työpaikkaa. Kokeilu on myös auttanut torjumaan laitonta työtä. Edelleen Ranskan osalta totean, että rakennusalalla tehtyjen rikosten määrä on puolittunut. Lisäksi tästä toimenpiteestä on hyötyä maapallon ilmaston lämpenemisen torjunnassa. Alennettujen alv-kantojen soveltaminen energiansäästötyön yhteydessä hyödyttäisi niin kuluttajia kuin yrityksiäkin ja loisi mahdollisesti työpaikkoja, joita ei voida siirtää muualle. Mitä vakuuttavampia perusteluja neuvosto voisi siten esittää alennettuja alv-kantoja koskevan sääntelyn jatkamista vastaan?
+<P>
+Hyvät kollegat, Ranskassa kansalaiset ovat jo ilmaisseet suuttumuksensa Eurooppaa kohtaan, koska se ei enää täytä heidän odotuksiaan. Odotamme näin ollen todellakin neuvostolta myönteisiä signaaleja tulevaisuudessa. 
+<SPEAKER ID="19" LANGUAGE="FR" NAME="Patrick Louis (IND/DEM ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, 4. toukokuuta 2005, vain muutama päivä ennen Euroopan perustuslaista järjestettyä kansanäänestystä, EU:n puheenjohtajavaltio ilmoitti tulevasta sopimuksesta, jonka mukaan alennettuja alv-kantoja sovellettaisiin ravintola-alaan Ranskassa, minkä myötä alv-kannat laskisivat 19,6 prosentista 5,5 prosenttiin. Saadakseen ihmiset äänestämään perustuslain puolesta Ranskan hallituksen oli rohkeasti vahvistettava koko perustuslain puolesta käymänsä kampanjan ajan tämä itse asiassa vanha lupaus, sillä se oli sisältynyt presidenttiehdokas Chiracin ohjelmaan jo vuosina 1995 ja 2002. Ilmoittaessaan vuoden 2006 talousarvioesityksessä, että alennetun alv-kannan soveltamista kunnostustöihin jatketaan vuodella, Ranskan hallitus laski samoin sen varaan, että asiasta päästään yhteisymmärrykseen EU:n tasolla. On selvää, että tämä kaksinaamainen lupaus lisää jatkuvaa epävarmuuden tunnetta verotuksen suhteen sekä hämmentää kuluttajia ja ennen kaikkea kyseisten alojen ammattilaisia.
+<P>
+Nyt kun kansalaisemme ovat torjuneet supervaltion, eikö ole näin ollen tullut aika kertoa eurooppalaisille totuus? Kaiken toiminnan ja sääntelyn ulottamisella koskemaan kaikkia 25 jäsenvaltiota, hinnalla millä hyvänsä, on lamauttava vaikutus. Eikö nyt ole aika suunnitella toisenlaista Eurooppaa, jossa tiettyihin toimintoihin osallistuu vain osa jäsenvaltioista ja jolle on tunnusomaista "vaihteleva maantiede"? 
+<SPEAKER ID="20" LANGUAGE="ES" NAME="José Manuel García-Margallo y Marfil (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, olen täysin samaa mieltä jäsen Becseyn kanssa ja keskityn näin ollen puheenvuorossani täysin erityisen työvaltaisiin palveluihin sovellettavaan alennettuun arvonlisäverokantaan.
+<P>
+Kaikki Euroopassa tehdyt mielipidetutkimukset osoittavat, että eurooppalaiset ovat huolissaan kahdesta asiasta: työn löytämisestä ja varmuuden saamisesta siitä, että hyvinvointivaltion ylläpitämiseen on riittävästi resursseja. Jotta kansalaiset saataisiin vakuuttuneiksi tästä, on kirjoitettu paljon mutta tehty vähän. Paljon sanoja eikä lainkaan toimintaa.
+<P>
+Luultavasti yksi harvoista konkreettisista aloitteista, joita tällä alalla on tehty, on ollut alennetun arvonlisäverokannan soveltaminen palveluihin, jotka luovat työpaikkoja ja joilla edistetään työntekijöiden ja erityisesti vähiten koulutettujen työntekijöiden työllistymistä. Alennettu arvonlisäverokanta tuo myös esiin resursseja, jotka olivat aiemmin piilossa ja joita voidaan käyttää tulevien eläkkeiden rahoittamiseen. Alennetun arvonlisäverokannan avulla voimme tasapainottaa uudelleen pääomaverotuksen ja tuloverotuksen epätasapainoista suhdetta.
+<P>
+Tilanne on tällä hetkellä se, että tämä vuonna 2000 alkanut kokeilu saattaa päättyä, ellei sitä jatketa. Neuvostolla ei ole edelleenkään mielipidettä asiasta; neuvosto ei tiedä eikä sillä ole vastausta.
+<P>
+Haluaisin sanoa komission jäsenelle, että hän voi tehdä paljon enemmän kuin mitä hän totesi puheenvuorossaan. Komission jäsen voi painostaa neuvostoa. Hän voi sanoa neuvostolle, ettei ole hyvä ajatus päättää tätä kokeilua, juuri kun siihen ollaan ottamassa mukaan uusia jäsenvaltioita, joissa ongelmat, joita olemme pyrkineet ratkaisemaan – työttömyys ja harmaa talous – ovat pahempia kuin vanhoissa jäsenvaltioissa. Komission jäsen voi sanoa, ettei ole hyvä ajatus päättää kokeilua ja ottaa sen myötä riskiä hintojen noususta ja työllisyyden alenemisesta. Hän voi edelleen sanoa neuvostolle, ettei ole hyvä ajatus päättää tätä kokeilua, juuri kun alamme keskustella palveludirektiivistä, joka on herättänyt jäsenvaltioissa suurta huolta työllisyydestä. Komission jäsen voi myös sanoa neuvostolle, että Euroopan parlamentti on yksimielinen asiasta eikä pidä siitä, että sitä kohdellaan vitsinä, erityisesti kun neuvosto ei tarjoa vastineeksi mitään hyvin perusteltua mielipidettä. 
+<SPEAKER ID="21" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="22" LANGUAGE="MT" NAME="Joseph Muscat (PSE ). –" AFFILIATION="">
+<P>
+   Kiitoksia, arvoisa puhemies. Minulle on syntynyt sellainen vaikutelma, että täällä me saarnaamme käännytetyille siitä yksinkertaisesta syystä, ettei neuvosto ole läsnä, ja että komission jäsen on samaa mieltä tiukasta kannastamme, vaikka sanookin, ettei pidä kokeilun jatkamista riittävän hyvänä ratkaisuna. Nyt kun eletään jo joulukuun alkua, meidän pitäisi mielestäni pohtia myös tätä ratkaisua. Neuvoston tulisi ehdottomasti ottaa huomioon kantamme, jossa puollamme voimakkaasti tämän erityisen työvaltaisiin palveluihin sovellettavan järjestelyn jatkamista, sillä se on osoittautunut onnistuneeksi kokeiluksi, jolla luotiin uusia työpaikkoja. Kokeilua pitäisi myös laajentaa, ja uusille jäsenvaltioille pitäisi antaa mahdollisuus osallistua siihen. Ironista tässä kaikessa on se, että samaan aikaan kun me puhumme parlamentissa alv-kannan alentamisesta ja näiden alhaisten alv-kantojen kokeilemisesta, joissakin jäsenvaltioissa, kotimaani Malta mukaan lukien, hallitus ei Euroopan unioniin liittymisen jälkeen kokeillut alhaisten verokantojen soveltamista lainkaan vaan korotti arvonlisäveroa, Maltan tapauksessa 15 prosentista 18 prosenttiin. Katson myös, että palveluvalikoimaa tulisi laajentaa ja että järjestelyä pitäisi soveltaa myös muihin palveluihin, kuten ympäristö- ja ravintolapalveluihin. Tämä kokeilu on osoittautunut onnistuneeksi, ja turvatakseen uskottavuutemme niiden ihmisten silmissä, jotka valitsivat meidät ja joita edustamme, komission ja neuvoston olisi pantava enemmän painoarvoa yhdelle niistä harvoista kokeiluista, jotka ovat olleet todella onnistuneita. 
+<SPEAKER ID="23" LANGUAGE="IT" NAME="Paolo Costa (ALDE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, seuraan kollegoideni esimerkkiä samojen perustelujen ja näkemysten toistamisen uhallakin.
+<P>
+Alennettuja alv-kantoja koskevaa kokeilua on toteutettu muutamissa jäsenvaltioissa, mutta näiden kaikkien maiden kannalta valitettavaa on se, että kokeilu on ollut käynnissä aikana, jolloin Euroopan talouden suorituskyky ei ole ollut erityisen vaikuttava erityisesti monissa suurimmissa jäsenvaltioissa.
+<P>
+Työvaltaisilla aloilla tällä kokeilulla on itse asiassa ollut jopa suurempi myönteinen vaikutus kuin osattiin koskaan kuvitella, sikäli että se on ylläpitänyt merkittävää työllisyystasoa.
+<P>
+Kokeilun jatkamista puoltaa lisäksi muuan muassa se, että Euroopan talouden kokonaistilanne on jossain määrin muuttumassa, joskin muutos on ainoastaan hyvin vähäistä tällä hetkellä, mikä tarkoittaa sitä, että kokeilun päättämisellä olisi tuhoisat vaikutukset.
+<P>
+Toiseksi kokeilu on ollut myönteinen siinä mielessä, että se on saanut joissakin jäsenvaltioissa aikaan lähes rakenteellisia muutoksia kuuden vuoden kuluessa. Esimerkiksi kotimaassani Italiassa samanaikaisesti alennettuja alv-kantoja koskevan kokeilun kanssa on ollut käynnissä toimi, jolla tarjotaan tuloverotuksessa kannustimia rakennusten kunnostamiseen – mikä on ollut valtava menestys. Tämä toimi on todellinen menestys, koska se on sekä mahdollistanut Italian rakennusperinnön suuren osan nopean kunnostamisen että parantanut maan talous- ja rahoitustilannetta.
+<P>
+Rahoituksen näkökulmasta tämä "tulovero – alennettu alv" -malli on tuonut päivänvaloon valtavan määrän pimeää työtä – jonka verottamisesta hyötyy kyseinen jäsenvaltio – kun taas talouden näkökulmasta kyseinen malli on luultavasti ollut tärkein osatekijä maan kokonaiskysynnän ylläpitämisessä aikana, jolloin kulutus on hyvin vähäistä, tuotantoinvestoinnit pysähdyksissä ja vienti laskussa Italiassa.
+<P>
+Erittäin monien esitettyjen ajatusten jatkeeksi lisään kaksi omaa näkemystäni, joissa kannatetaan kokeilun jatkamista. Toivon näin ollen, että myös komission myötävaikutuksella neuvosto kuuntelee viimeinkin Euroopan parlamenttia. 
+<SPEAKER ID="24" LANGUAGE="FR" NAME="Astrid Lulling (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, vaikka tuenkin mietinnön päätelmiä arvonlisäveron yleisen verokannan vähimmäistason osalta, velvollisuuteni on kertoa teille, että pidän joitakin esittelijän mainitsemia perusteluja ongelmallisina. Olen tyytyväinen, että minulla on tässä asiassa ryhmäni suuren enemmistön tuki.
+<P>
+Pohdittuani asiaa pitkään ajatus 25 prosentin ehdottamisesta alv:n yleisen verokannan enimmäistasoksi vaikuttaa minusta viisaalta. Meillä olisi siten eräänlainen 15 prosentin ja 25 prosentin välinen käytävä, joka muistuttaa jossain määrin aikoinaan käytössä ollutta valuuttakäärmettä.
+<P>
+Palauttakaamme mieliin, että lähtökohtana vuonna 1992 oli todellakin lähennettyjen alv-kantojen suuntaan siirtyminen yhtenäismarkkinoiden yhteydessä. Tällaista lähentymistä ei todellisuudessa tapahtunut, mutta parlamentin ehdotus alv:n yleisen verokannan enimmäistason asettamisesta 25 prosenttiin voisi ratkaisevasti kannustaa meitä siirtymään siihen suuntaan ja siten ehkäistä alv-kantojen liian suurta epätasapainoa, joka on haitallista. Tästä syystä tuen tätä ehdotusta, jonka talous- ja raha-asioiden valiokunta on hyväksynyt ja jota Euroopan komissio on kahteen otteeseen tukenut.
+<P>
+En myöskään peittele sitä, että suhtaudun varauksella esittelijän mietinnön perusteluissa esittämään yleisluonteiseen ajatukseen siitä, että verotusjärjestelmiä tulisi muuttaa perusteellisesti lisäämällä välillistä verotusta välittömän verotuksen kustannuksella. Tällä hetkellä näen siinä paljon enemmän haittaa kuin hyötyä: vaarana on, että näin luodaan entistäkin enemmän inflaatiopaineita, jotka ovat jo nyt liiankin ilmeisiä, ja heikennetään usein jo valmiiksi heikkoa sisäistä kysyntää. Ongelmana on myös tällaisen uudelleenjärjestelyn sosiaalinen oikeudenmukaisuus. Lyhyesti sanottuna pohtikaamme asiaa hyvin huolellisesti ennen kuin lähdemme tälle tielle.
+<P>
+Sallikaa minun sanoa lopuksi muutama sana alennetuista alv-kannoista muun muassa työvaltaisten palvelujen yhteydessä. Olivatpa jäsen Klinz ja muut tästä asiasta mitä mieltä tahansa, tämän työllisyyteen myönteisesti vaikuttavan toimenpiteen uudistamatta jättäminen olisi paitsi valitettavaa, kuten arvoisa komission jäsen totesi, myös todellinen katastrofi kaikille asianomaisille aloille. Tuen jäsen Bérèsiä, joka selitti huolenaiheemme erittäin pätevästi painostaakseen neuvostoa löytämään viimeisessä mahdollisessa kokouksessaan 6. joulukuuta ratkaisun, jonka perustana on Luxemburgin ehdotus, johon puheenjohtajavaltio Yhdistynyt kuningaskunta on yhtynyt ja jota se on vahvistanut. Toivon näin ollen, että tätä asiaa käsittelevä päätöslauselmamme tekee ainakin vaikutuksen neuvostoon, jolla ei ole edelleenkään edustajia täällä istuntosalissa.
+<P>
+Arvoisa puhemies, tässä tilanteessa jäsenvaltioiden pitäisi mielestäni voida käyttää paljon suurempaa harkintavaltaa sen määrittämisessä, mitkä alat hyötyvät alennetusta alv-kannasta. Ranskalaisten ravintola-alan työntekijöiden asia, vain tämä yksi esimerkki mainitakseni, on mielestäni yksi kaikkein arvokkaimmista. Vetoan näin ollen Saksan uuteen hallitukseen, että se osoittaisi suurempaa joustavuutta. 
+<SPEAKER ID="25" LANGUAGE="EN" NAME="Richard Howitt (PSE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, haluan erityisesti korostaa tarvetta hyvittää voittoa tavoittelemattomille organisaatioille tai hyväntekeväisyysjärjestöille niiden maksama arvonlisävero. Pyytäisin komission jäsentä Kovácsia toistamaan tukensa tälle ajatukselle, jonka hän esitti täällä Brysselissä kaksi kuukautta sitten pidetyssä European Charities Committee on VAT:n konferenssissa.
+<P>
+Home Farm Trust -järjestön – joka tukee 900 oppimisvaikeuksista kärsivää henkilöä ja jolla on kauppoja vaalipiiriini alueella Braintreessä, Colchesterissa, Newmarketissa, Saffron Waldenissa ja Sudburyssä – kaltaiset hyväntekeväisyysjärjestöt eivät voi kerätä valtavia voittoja, koska ne eivät peri arvonlisäveroa ja koska ne tarjoavat palvelujaan suuren julkisen tuen turvin tai ilmaiseksi.
+<P>
+Irlannissa ja Tanskassa samoin kuin Yhdistyneessä kuningaskunnassa tehdyt tutkimukset osoittavat, että tämä nielee noin neljä prosenttia hyväntekeväisyysjärjestöjen kokonaismenoista. Ottaen huomioon, että hyväntekeväisyysjärjestöt tarjoavat palveluja lähes poikkeuksetta paikallisella tasolla, niihin pitäisi soveltaa ensisijaisesti toissijaisuusperiaatetta ja päätökset niiden maksamasta arvonlisäverosta olisi tehtävä kansallisella tasolla. Euroopan parlamentti on jo hyväksynyt tämän periaatteen Randzio-Plathin mietinnössä, ja vaadin komission tukea päätöksille, jotka on määrä tehdä ennen tämän vuoden loppua. Ilman sitä hyväntekeväisyysjärjestöt menettävät miljoonia euroja vuosittain. 
+<SPEAKER ID="26" LANGUAGE="EN" NAME="Avril Doyle (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, pidän komission esittämää ehdotuspakettia myönteisenä erityisesti yritysten ja etenkin pk-yritysten, jotka tuottavat tavaroita ja palveluja muille jäsenvaltioille, hallinnollisen taakan vähentämisen osalta. Näitä yrityksiä koskevien alv-menettelyjen virtaviivaistaminen lisää tehokkuutta ja kannustaa toimintojen lisäämistä sisämarkkinoilla sekä edistää siten Lissabonin toimintasuunnitelmaa, joka on oletettavasti kaikkien meidän huomion keskipiste ja tavoite tällä hetkellä.
+<P>
+Yhden luukun järjestelmät, jotka muodostavat paketin ytimen, mahdollistavat viime kädessä monikansallisia yrityksiä koskevien uusien sääntöjen ja yritykseltä kuluttajalle -palvelujen käyttöönoton. Tästä on erityistä hyötyä sellaisille kotimaani Irlannin yrityksille, jotka tuottavat palveluja sähköisesti Internetin välityksellä muissa jäsenvaltioissa asuville kuluttajille.
+<P>
+Nykyistä alv:n yleisen verokannan 15 prosentin vähimmäistasoa on määrä soveltaa tämän vuoden loppuun saakka. Komissio ehdottaa sen soveltamisen jatkamista vuoteen 2010. Tuen yleisesti ottaen tätä ehdotusta ja erityisesti talous- ja raha-asioiden valiokunnan päätöstä, jonka mukaan arvonlisäveron implisiittisen verokannan ja yleisen verokannan makrotaloudellisista vaikutuksista jäsenvaltioille tehdään yleinen arvio, jossa olisi myös kiinnitettävä huomiota siihen, että kaikille jäsenvaltioille tarjotaan yhtäläiset mahdollisuudet soveltaa tiettyihin tavaroihin ja palveluihin arvonlisäveron alennettua verokantaa. Meidän on arvioitava uudelleen alennettuja alv-kantoja koskevia erityispoikkeuksia. Kotimaani ei ole missään vaiheessa pyytänyt saada soveltaa alennettuja alv-kantoja. Nähdäkseni vain yhdeksän jäsenvaltiota – jos tietoni ovat oikeat – pääsee hyötymään tästä järjestelystä.
+<P>
+Meidän on tehtävä jotakin tältä osin. Matkailu- ja ravintolapalveluihin on kiinnitettävä erityistä huomiota kaikissa jäsenvaltioissa. Työpaikkojen ja palvelujen osalta nämä ovat aloja, jotka voisivat todellakin elvyttää taloutta koko Euroopassa nyt, kun otetaan huomioon, että matkailu on yksi kasvavista aloista. Elintarvikkeiden arvonlisäverokanta on tällä hetkellä joissakin jäsenvaltiossa todellakin kohtuuttoman korkea, ja sitä on tarkasteltava pikaisesti.
+<P>
+Huomautan, että yhden luukun järjestelmiä ja arvonlisäveron palautuksia yleisesti käsittelevä ehdotus tuli parlamentin käsiteltäväksi vain siksi, että ehdotuksen oikeusperusta muuttui. Olen huolissani siitä, miten harvoin oikeusperustaan liittyviä kysymyksiä nousee esille täällä parlamentissa. Kyse on tapauksista, joissa parlamenttia ainoastaan kuullaan. Mitä kuitenkin tapahtuu oikeusperustoille? Mitä tapahtuu komission eri oikeusperustoihin pohjautuville ehdotuksille, joita neuvosto myöhemmin muuttaa tai tarkistaa tai joiden osalta se ottaa käyttöön toisen oikeusperustan, kuten monissa tapauksissa on tehty? Tarvitsemme varmuutta lainsäädännössämme. Epämääräinen lainsäädäntö on huonoa lainsäädäntöä. Meidän on käytävä avointa keskustelua oikeusperustan kysymyksestä täällä parlamentissa mitä pikimmiten. 
+<SPEAKER ID="27" LANGUAGE="EN" NAME="László Kovács," AFFILIATION="komission jäsen">
+<P>
+   . Arvoisa puhemies, kiitän vielä kerran parlamenttia alv:n yleisen verokannan vähimmäistasoa koskevan ehdotuksen nopeasta käsittelystä – ottaen huomioon, että voimassa olevat säännöt umpeutuvat 31. joulukuuta 2005 – ja esittelijän myönteisestä panoksesta. Ymmärrän arvoisien jäsenten huolen siitä, että meiltä on loppumassa aika, mutta haluan muistuttaa teitä siitä, että komissio esitti ehdotuksensa jo vuonna 2003 ja ettei neuvosto ole kyennyt tekemään asiasta yksimielistä päätöstä.
+<P>
+Kommentoin lyhyesti muutamia esitettyjä tarkistuksia. Ensimmäinen tarkistus koskee alv:n yleisen verokannan rajoittamista asettamalla sen enimmäistasoksi 25 prosenttia, jotta estetään jäsenvaltioiden soveltaman yleisen arvonlisäverokannan kasvavat erot. Tämä edellyttäisi uutta ehdotusta komissiolta ja estäisi siten alv:n yleisen verokannan vähimmäistason, jota on määrä soveltaa 1. tammikuuta 2006 alkaen, hyväksymisen ajoissa. Lisäksi aiemmat kokemukset huomioon ottaen sillä ei ole mitään mahdollisuutta tulla hyväksytyksi yksimielisesti neuvostossa.
+<P>
+Toisella tarkistuksella pyritään lisäämään arvonlisäverokantaa koskevien säännösten joustavuutta, jotta jäsenvaltioille tarjotaan mahdollisuus reagoida taloudellisen tilanteen muutoksiin. Tämä ei ole linjassa ensimmäisen tarkistuksen kanssa, jossa pyritään nimenomaan estämään tällainen joustavuus alv:n yleisen verokannan soveltamisen osalta. Yleisesti ottaen tämä ehdotus ei ole vielä tarkoituksenmukainen väline yleisen arvioinnin tekemiseen arvonlisäveron implisiittisen verokannan ja yleisen verokannan makrotaloudellisista vaikutuksista ja niihin liittyvistä talousarvion tuloja koskevista vaikutuksista jäsenvaltioille.
+<P>
+Olen tyytyväinen, että yhden luukun järjestelmää koskevaan pakettiin sisältyvällä ehdotuksella, jossa käsitellään arvonlisäveron palautusjärjestelmää, on arvoisien jäsenten tuki. Komissio ei valitettavasti voi hyväksyä ehdotettuja tarkistuksia seuraavista syistä.
+<P>
+Tarkistukset 1 ja 2 liittyvät asetukseen ja palautusmenettelyä koskeviin yhteistyöjärjestelyihin. Palautusmenettely muodostaa yhden luukun järjestelmää koskevan ehdotuksen toisen osan. Tarkistuksella 3 pyritään pidentämään määräaikaa, mikä ei ole mielestäni tarpeen. Tarkistus 4 ei puolestaan ole toteuttamiskelpoinen, koska toisaalta jäsenvaltioille asetettaisiin tiukka neljän kuukauden määräaika palautushakemusten käsittelylle, mutta toisaalta verotettavalle henkilölle ei asetettaisi määräaikaa pyydettyjen lisätietojen toimittamiselle. Tarkistus on lisäksi ristiriidassa saman artiklan toisen alakohdan kanssa, jonka mukaan uusi kolmen kuukauden määräaika alkaa kulua siitä hetkestä, kun lisätiedot saadaan verotettavalta henkilöltä.
+<P>
+Olen vakuuttunut, että parlamentin myönteinen lausunto myötävaikuttaa siihen, että alv:n yleistä verokantaa koskeva ehdotus hyväksytään neuvostossa ajoissa, ja helpottaa yhden luukun järjestelmää koskevista ehdotuksista käytävää keskustelua näiden ehdotusten Itävallan puheenjohtajakaudella tapahtuvaa hyväksyntää silmällä pitäen.
+<P>
+Työvaltaisten palvelujen osalta olen kuunnellut tarkkaavaisesti kaikkia puheenvuoroja ja voin vain muistuttaa teitä siitä, että komissio on jo ryhtynyt tarvittaviin toimiin tukeakseen niiden sisällyttämistä alennettujen arvonlisäverokantojen soveltamisalaan, sellaisena kuin se on määritelty Liitteessä H. Neuvostossa parhaillaan käytävät keskustelut eivät kuitenkaan ole helppoja.
+<P>
+Selitin ensimmäisessä puheenvuorossani laajasti sitä, miksi en pidä kokeilun jatkamista todella mahdollisena etenemistapana. Meidän on lisäksi oltava hyvin varovaisia, sillä neuvoston yksimielinen sopimus kokeilun jatkamisesta näyttäisi yhtä vaikeasti saavutettavalta kuin todellinen yhteisymmärrys alennetun arvonlisäverokannan soveltamisalasta sinänsä.
+<P>
+Tuen parlamentin päätöslauselmassa ilmaistua yksimielisyyttä. Tämä on hyvin tärkeä signaali neuvostolle tarpeesta saada aikaan sopimus, jossa otetaan huomioon koko Euroopan unionin samoin kuin kaikkien jäsenvaltioiden edut. 
+<SPEAKER ID="28" LANGUAGE="" NAME="Puhemies. " AFFILIATION="Kirjallinen lausuma (työjärjestyksen 142 artikla)">
+<P>
+    Olen vastaanottanut yhden työjärjestyksen 108 artiklan 5 kohdan mukaisesti käsiteltäväksi jätetyn päätöslauselmaesityksen(1).
+<P>
+Keskustelu on päättynyt.
+<P>
+Äänestys toimitetaan tänään klo 11.00.
+<SPEAKER ID="29" LANGUAGE="FR" NAME="Bruno Gollnisch (NI ). –" AFFILIATION="">
+<P>
+   Presidentti Chirac valehteli tietoisesti ranskalaisille ravintola-alan työntekijöille uskottelemalla heille, että hänen oli mahdollista alentaa ravintolapalveluiden arvonlisäveroa pyytämättä siihen Brysseliltä lupaa.
+<P>
+Ei ole varmaa, pääseekö neuvosto ennen vuoden loppua sopimukseen arvonlisäverodirektiivin tarkistamisesta ja erityisesti työvaltaisiin palveluihin sovellettavan alennetun arvonlisäverokannan soveltamisesta. Ellei näitä alennettuja arvonlisäverokantoja koskevaa valtuutusta jatketa tavalla tai toisella 1. tammikuuta 2006, kokonaiset toimialat, ennen kaikkea rakennusala, tuntevat sen seuraukset täydellä painollaan.
+<P>
+Miksi olemme päätyneet tähän tilanteeseen? Työvaltaisten palvelujen osalta kyseessä on juoni, jolla neuvostoa painostetaan hyväksymään arvonlisäverodirektiivin kattava uudistus. Ravintola-alan osalta direktiivin liitteitä on muutettava, mitä Saksa vastustaa. Se ei halua, että samantapaisia vaatimuksia esitetään sen omalla maaperällä aikana, jolloin se suunnittelee nostavansa välillistä veroaan 20 prosentilla. Onko Saksa väärässä? Ei.
+<P>
+Näitä ongelmia ei olisi, jos jäsenvaltiot olisivat pitäneet kiinni verotusta koskevasta itsemääräämisoikeudestaan ja voisivat käyttää verotusta työllisyyden elvyttämiseen. Todellisen virheen tekivät ne, jotka pyrkivät riisumaan jäsenvaltioilta niiden itsemääräämisoikeuden. 
+<SPEAKER ID="30" LANGUAGE="FR" NAME="Dominique Vlasto (PPE-DE ). –" AFFILIATION="">
+<P>
+   Euroopan unioni on asettanut työllisyyden painopistealueekseen eikä pysty kuitenkaan tekemään päätöstä alennetun arvonlisäverokannan soveltamisesta työvaltaisiin aloihin.
+<P>
+Neuvosto estää jatkuvasti tämän päätöksen syntymisen, minkä vuoksi jäsenvaltioiden on nyt mahdotonta muokata niiden alojen luetteloa, jotka voivat hyötyä alennetusta arvonlisäverokannasta. Neuvoston päätöksen uudistaminen kiireellä vuosi toisensa jälkeen ei ole vastuullinen lähestymistapa. Näiden toimialojen yllä leijuvaa oikeudellista ja taloudellista epävarmuutta ei voida enää hyväksyä.
+<P>
+Rakennusalalla ja julkisissa hankkeissa kunnostustöihin sovellettu alennettu arvonlisäverokanta on antanut tuhansille pienille yrityksille, joihin tämä toimi eniten vaikuttaa, mahdollisuuden lisätä toimintaansa ja rekrytoida työntekijöitä.
+<P>
+Kodinhoivapalvelujen alalla alennettu arvonlisäverokanta on mahdollistanut laittoman työn karsimisen ja työhönottoperusteiden parantamisen.
+<P>
+Ravintola-ala on tärkeä työllistäjä Euroopassa, eikä sen osalta ole mitään epäilystä siitä, että alennetun arvonlisäverokannan soveltaminen tuottaa samat edulliset vaikutukset jäsenvaltioissa, jotka pyrkivät soveltamaan tätä toimenpidettä.
+<P>
+Kehotan näin ollen neuvostoa kantamaan vastuunsa ja tekemään sopimuksen, joka mahdollistaa työvaltaisten alojen työllistymismahdollisuuksien hyödyntämisen. 
+<SPEAKER ID="31" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Esityslistalla on seuraavana komission julkilausuma poliisivoimien tilannetta koskevasta kehityksestä Slovakiassa. 
+<SPEAKER ID="32" LANGUAGE="EN" NAME="László Kovács," AFFILIATION="komission jäsen">
+<P>
+   Arvoisa puhemies, komissio on hyvin selvillä niistä huolenaiheista, joita parlamentin jäsenet ovat esittäneet Slovakian poliisivoimista. Koska asia on monitahoinen ja arkaluonteinen ja komission kannan muodostaminen kestää kauan, kysymyksen analysointiin ja objektiivisen ja puolueettoman tiedon hankkimiseen tarvitaan lisäaikaa.
+<P>
+Asiasta vastaavat komission yksiköt ovat olleet yhteydessä Slovakian tasavallan pysyvään edustustoon Brysselissä, ja se yrittää saada vaadittuja tietoja. Lisäksi eurooppalaisen poliisin European Confederation of Police -järjestö antoi komissiolle perusteellisen selvityksen asiasta.
+<P>
+Valitettavasti komissio ei voi tässä vaiheessa antaa teille kattavampaa vastausta. Komissio tekee kaiken voitavansa tehdäkseen päätelmät tästä asiasta mahdollisimman pian, ja se ilmoittaa teille viipymättä tuloksistaan. Näin ollen komissio olisi valmis vastaamaan suulliseen kysymykseen myöhemmässä istuntojaksossa, mikäli parlamentti päättää lisätä kysymyksen esityslistalleen. 
+<SPEAKER ID="33" LANGUAGE="SK" NAME="Ján Hudacký," AFFILIATION="PPE-DE-ryhmän puolesta.">
+<P>
+   – Voisimme luonnehtia, että puheenvuorollaan ja ehdotuksellaan ottaa esityslistalle keskustelu Slovakian poliisivoimien tilanteesta jäsen Beňová häpäisee kotimaansa saavuttaakseen omat poliittiset päämääränsä.
+<P>
+Poliisivoimien ammattiyhdistysjohtajien poliittinen taktikointi ei millään tavoin liity työolosuhteiden ja ihmisoikeuksien turvaamiseen. Nämä johtajat turvautuivat valheisiin ja puolitotuuksiin ja salasivat tietoja palkoista, joita muuten korotettiin kaksi viikkoa ennen kyseistä kokousta. Tarkoituksena oli manipuloida rehellisiä poliiseja ja heikentää poliisin tehokkuutta ja tällä tavoin riistää kansalaisilta oikeus suojeluun ja turvallisuuteen. Slovakian hallituksen aikomus myöntyä ammattiyhdistysjohtajien vaatimuksiin vetää poliisivoimat vaarallisella tavalla mukaan poliittisiin kiistoihin.
+<P>
+Ammattiyhdistysjohtajien poliittinen juonittelu ei saa heikentää niitä erinomaisia tuloksia, joita poliisi on saavuttanut järjestäytyneen rikollisuuden ja korruption torjunnassa Slovakiassa. Viimeisimmässä kokouksessa esitetyt iskulauseet, kuten "Jos hallitus ei maksa poliisille, mafia tekee sen mielihyvin", rikkovat kaikkia riippumattoman ammattiyhdistystoiminnan tunnustettuja periaatteita.
+<P>
+Poliisin kokoontumisvapautta ei ole koskaan rajoitettu tai asetettu kyseenalaiseksi, kuten ensi lauantaiksi sovittu kokous osoittaa. Myöskään Euroopan parlamentin tai muiden Euroopan unionin toimielinten ei pitäisi antaa sotkea itseään tällaiseen vastenmieliseen poliittiseen taktikointiin, jonka tarkoituksena on saattaa huonoon valoon Slovakian hallituskoalition saavutukset. 
+<SPEAKER ID="34" LANGUAGE="SK" NAME="Monika Beňová," AFFILIATION="PSE-ryhmän puolesta.">
+<P>
+   – Arvoisa komission jäsen, vastauksenne oli minulle pikemminkin pettymys kuin yllätys. Vaadin jatkossakin komissiota seuraamaan tätä asiaa erittäin tiiviisti. En voi esittää lisähuomautuksia siitä, mitä kerroitte meille, koska ette tosiasiassa kertonut mitään. Pyydän, ettette ottaisi tätä henkilökohtaisesti, sillä tarkoitus on pikemminkin kritisoida komission toimittaman aineiston sisältöä.
+<P>
+Kollegani Hudacký on kotoisin Slovakiasta, kuten minäkin. Hän puhui siitä, miten poliittinen kinastelu on laajentunut Euroopan parlamentin istuntosaliin. Haluan ehdottomasti todeta, että jopa turvallisuus- ja puolustuspolitiikan valiokunnan varapuheenjohtaja, joka on pääministeri Dzurindan puoluetoveri hallituskoalitiossa, tuomitsi selvin sanoin sisäministeriön tapahtumat. Tämä osoittaa, ettei asiaa voida sivuuttaa sisäisenä poliittisena kiistana. Euroopan komission on nyt ilmaistava kantansa siitä, onko hyväksyttävää rajoittaa poliisien oikeuksia Slovakiassa. Poliisi on EU:n kansalainen ja työntekijä, siinä missä kuka tahansa muukin EU:n kansalainen ja työntekijä.
+<P>
+Olemme esittäneet komissiolle kaksi tärkeää kysymystä. Näillä kysymyksillä on meille erityisen suuri merkitys siksi, että Euroopan ihmisoikeussopimusta ja Euroopan neuvoston hyväksymää poliisin eettistä säännöstöä on saatettu rikkoa. Mielestämme Euroopan komissio on velvollinen antamaan lausuntonsa siitä, onko jonkin EU:n jäsenvaltion kansalaisten oikeuksia loukattu. Parlamentti antoi eilen luvan jättää tämän kysymyksen komission käsiteltäväksi viestittäen siten voimakkaasti, ettei se hyväksy tällaisia käytäntöjä missään EU:n jäsenvaltiossa. Arvoisa komission jäsen, siksi pyydän jälleen kerran, ettei tätä asiaa sivuutettaisi ja että palaisimme siihen seuraavassa parlamentin istunnossa ja että ilmoittaisitte Euroopan parlamentin jäsenille komission kannan. 
+<SPEAKER ID="35" LANGUAGE="DE" NAME="Angelika Beer," AFFILIATION="Verts/ALE-ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, arvoisa komission jäsen Kovács, oma ryhmäni – vihreät – kannatti tämän keskustelun järjestämistä tänään. Olemme tällä kannalla niiden kesäkuusta lähtien hallussamme olleiden tietojen takia, jotka olemme saaneet Slovakialta ja nimenomaan European Confederation of Police -järjestöltä. Koska olemme syvästi huolissamme asiasta, jota emme pidä Slovakian sisäisenä asiana, pyydämme teitä tutkimaan näitä syytöksiä mahdollisimman pian. On päivänselvää, että Slovakian poliisin joutuminen sotilastuomioistuimen tuomiovallan alaisuuteen on vastoin Euroopan neuvoston antamia määräyksiä, poliisin eettisestä säännöstöstä puhumattakaan. Rinnastamalla poliisien ja sotilaiden kohtelu rikotaan Geneven yleissopimusta ja Yhdistyneiden Kansakuntien yleissopimusta.
+<P>
+Poliisin saama siviilioikeudellinen asema on yksi demokratian saavutuksista Euroopassa. Olemme taistelleet sen puolesta erityisesti Balkanin maissa, joissa poliisi osallistui sotilaallisiin toimiin etnisten selkkausten aikana. Jos saamiamme selvityksiä on uskominen, meidän on vaadittava Slovakian hallitusta – kuten myös maan parlamenttia – kumoamaan tämä harkitsematon päätös, joka merkitsee paluuta sellaiseen aikakauteen ja sentyyppisiin menettelytapoihin, jotka ovat ristiriidassa unionin demokraattisten periaatteiden kanssa, ja palaamaan demokraattiseen yhteisöön.
+<P>
+Poliiseillakin on oikeus osoittaa mieltä! Heidän oikeutensa siihen on vapaan yhteiskuntamme ja demokratian tunnusmerkki. Tästä syystä pyydämme komissiota tutkimaan nämä syytökset mahdollisimman pian ja ilmaisemaan kantansa niistä. 
+<SPEAKER ID="36" LANGUAGE="DE" NAME="Tobias Pflüger," AFFILIATION="GUE/NGL-ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, tämä kysymys koskee kahta alaa. On käynyt ilmi, että Slovakiassa poliisivoimat palautettiin sotilastuomioistuimen tuomiovallan alaisuuteen, mikä merkitsee uudelleenmilitarisointia eikä ole hyväksyttävää. Poliisi ja asevoimat ovat suoraan sanottuna kaksi täysin eri asiaa. On kuitenkin todettava, että juuri tällainen siviili- ja sotilasasioiden sotkeminen toisiinsa on tyypillistä Euroopan unionille silloin, kun se valjastaa käyttöönsä ase- tai poliisivoimia ulkomailla. Seuraava puheenjohtajavaltio Itävalta on jopa määritellyt tämän yhdeksi painopisteistään.
+<P>
+Toiseksi tähän kysymykseen liittyy myös poliisien ammatillista järjestäytymistä koskevien oikeuksien rajoittaminen, mikä ei myöskään ole hyväksyttävää. Euroopan parlamentti nostaa aina suuren metelin ihmisoikeusloukkauksista Euroopan unionin ulkopuolella, mutta se ei myöskään saa kaunistella ilmiselviä ihmisoikeusrikkomuksia Euroopan unionissa. Arvoisa komission jäsen, toteankin, että tältä osin julkilausumanne ei mene riittävän pitkälle: tässä asiassa on parantamisen varaa, ja juuri tällä alalla teidän on toteutettava parannuksia; nimenomaan tästä asiasta teidän on annettava lisätietoja. Emme myöskään saa lakata tuomasta painokkaasti esiin ihmisoikeusloukkauksia muissa maissa. Annan teille yhden esimerkin Saksasta, sillä sielläkin ihmisiltä evätään yleisesti mahdollisuus päästä tiettyihin työpaikkoihin ja poliisi käyttää liikaa voimakeinoja, ja tämä on tuotava avoimesti julki Euroopan parlamentissa. 
+<SPEAKER ID="37" LANGUAGE="SK" NAME="Sergej Kozlík (NI )." AFFILIATION="">
+<P>
+   Olen seurannut Slovakian sisäministerin Palkon viimeaikaisia toimia erittäin huolestuneena ja levottomana. Nämä toimet heikentävät suoraan demokratian perusperiaatteita ja kansalaisoikeuksia Slovakiassa.
+<P>
+Sisäministeri on puuttunut, ja puuttuu edelleenkin, ammattiliittoon kuuluvien slovakialaisten poliisien lailliseen mielenosoitukseen. Erottamalla poliisiliiton puheenjohtajan ja alentamalla hänet tavallisen poliisin arvoasemaan hän on paitsi puuttunut poliisin edustajan henkilökohtaisiin oikeuksiin myös siten uhannut kansalaisten, kansalaisyhdistysten ja ammattiyhdistysten perustuslailla turvattuja oikeuksia mielipidevapauteen. Kansanpuolueemme HZDS pitää ministeri Palkon uhkauksia rangaistustoimien määräämisestä järjettömänä osoituksena röyhkeästä vallankäytöstä.
+<P>
+Hyvät kollegat, ministeri Palko on Euroopan kansanpuolueeseen kuuluvan poliittisen ryhmittymän korkea-arvoinen edustaja. Siksi vaadin, ettei tämän ryhmän johto pistä päätään pensaaseen vaan tutkii asian tarkoin. Ilmaisen Slovakian kansanpuolueen HZDS:n riippumattomien jäsenten puolesta tukemme European confederation of police (EUROCOP) -järjestön vetoomukselle Slovakian poliisivoimien hallinnointijärjestelmän muuttamisen puolesta ja välitän pyyntömme, että Euroopan komissio tutkisi asiaa. 
+<SPEAKER ID="38" LANGUAGE="SK" NAME="Anna Záborská (PPE-DE )." AFFILIATION="">
+<P>
+   – Tämänpäiväiset keskustelumme poliisien mielenosoituksiin ja niille osoitettuihin tuenilmauksiin liittyvistä kysymyksistä ovat osa opposition vaalikampanjaa ja mustamaalauskampanjaa, joka on suunnattu menestynyttä Slovakian hallituksen ministeriä vastaan.
+<P>
+Ei pidä paikkaansa, että sodan aikana poliiseja kohdellaan oikeudessa kuten sotilaita. Ei pidä paikkaansa, että vuodesta 2006 alkaen Slovakian poliisia johtaa armeija. Ei pidä paikkaansa, että poliiseilta riistetään heidän oikeutensa, sillä sotilastuomioistuinten oikeudenkäynnit ovat siviililainsäädännön mukaisia ja sodan aikana poliiseja kohdellaan oikeudessa tavallisten kansalaisten tavoin.
+<P>
+Slovakian poliisi toimii samojen sääntöjen mukaisesti kuin Ranskan santarmit ja Italian karabinieerit. Poliisien tekemien rikosten käsittely sotilasoikeudessa on jo pitkään ollut vakiintunut käytäntö. Kaikki väitteet poliisivoimien uudelleenmilitarisoinnista pitäisi kumota, koska ne ovat – suonette anteeksi tällaiset ilmaukset – roskapuhetta ja kansankiihotusta. Huomautan arvoisalle kollegalleni Beňoválle, että enemmistö hänen puolueeseensa kuuluvista parlamentin jäsenistä kannatti tätä lainsäädäntöluonnosta Slovakian parlamentissa ja vieläpä epäsi tukensa järjestelmän muuttamiseen tarkoitetulta tarkistusehdotukselta. 
+<SPEAKER ID="39" LANGUAGE="EN" NAME="Poul Nyrup Rasmussen (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, pidän ehdottomasti kiinni siitä, että komissio antaa täydellisen vastauksen Strasbourgin istuntojaksolla. Kiitän komission jäsentä hänen tarjouksestaan. Valitettavasti hän ei voi antaa vastaustaan tänään, mutta meidän on saatava selkeä vastaus.
+<P>
+Haluan huomauttaa edelliselle puhujalle, ettei tässä ole kysymys propagandasta. Keskustelumme käsittelee Euroopan unionin uutta jäsenvaltiota Slovakiaa, jolla on Kööpenhaminan kriteerien mukaisesti täsmälleen samat velvollisuudet ja oikeudet kuin muillakin jäsenillä.
+<P>
+Euroopan unionista tehdyn sopimuksen 6 artiklan 1 kohdassa määrätään demokraattisista oikeuksista ja perusvapauksista. Sopimuksen 6 artiklan 2 kohdassa Euroopan unioni takaa Euroopan ihmisoikeussopimuksen mukaiset oikeudet. Kyseisessä sopimuksessa käsitellään tasavertaista mahdollisuutta oikeussuojakeinoihin ja yhdenvertaista kohtelua tuomioistuimessa. Sotilasoikeus ei koostu riippumattomista tuomareista: se on hallituksen nimittämä, mikä on ristiriidassa Euroopan unionista tehdyn sopimuksen perusarvojen kanssa.
+<P>
+Siksi pyydän komission jäsentä vastaamaan kahteen kysymykseen: olemmeko ensinnäkin oikeassa todetessamme, että poliisilla ei ole Slovakiassa samanlaista mahdollisuutta oikeudenmukaiseen oikeudenkäyntiin kuin muilla Slovakian kansalaisilla? Olenko toiseksi oikeassa todetessani, että jokaisen jäsenvaltion – myös Slovakian – on täytettävä Kööpenhaminan kriteerit ja että Slovakian hallitus toimii vastoin Kööpenhaminan kriteereitä asettuessaan vastustamaan poliisien vapaata ammattijärjestöä kieltämällä siltä neuvottelu-, kokoontumis- ja toimintaoikeuden?
+<P>
+Nämä ovat ne kaksi olennaista kysymystä, joihin haluan komission jäseneltä selkeän vastauksen. Minulla ei ole epäilystäkään siitä, että Slovakian ja sen hallituksen – varsinkin sen hallituksen – on kunnioitettava näitä perusoikeuksia. Siksi olen täysin samaa mieltä jäsen Beňován kanssa siitä, että tämä on vakava tapaus, ja meidän on saatava varteenotettava ja kunnollinen vastaus komissiolta, jotta Slovakian kansalaiset tietävät Euroopan unionin olevan heidän puolellaan. 
+<SPEAKER ID="40" LANGUAGE="EN" NAME="László Kovács," AFFILIATION="komission jäsen">
+<P>
+   Arvoisa puhemies, haluan vain vastata niille parlamentin jäsenille, jotka vaativat komissiolta asianmukaista vastausta. Haluan ilmoittaa teille, että tarvitsemme lisätietoja. Lisätietojen saamiseksi tarvitsemme enemmän aikaa, ja ennen kuin yksikään komission jäsenistä esittää parlamentille asiaan liittyvän kannan, komission jäsenten kollegion on luonnollisesti keskusteltava tarvitsemiemme tietojen pohjalta.
+<P>
+Se on vastaukseni tässä vaiheessa, mutta se ei varmastikaan ole komission viimeinen sana tästä asiasta. 
+<SPEAKER ID="41" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Parlamentti on ilmaissut selvin sanoin toiveensa, että täällä tänään esitettyihin kysymyksiin vastattaisiin myöhempänä ajankohtana, ja toivon, että komission jäsen välittää tämän toiveen eteenpäin. 
+<SPEAKER ID="42" LANGUAGE="EN" NAME="Poul Nyrup Rasmussen (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, haluan ainoastaan esittää menettelytapoja koskevan virallisen kysymyksen. Komission jäsenen Kovácsin puheenvuorosta ymmärsin, että komissio on valmis vastaamaan kysymykseen Strasbourgissa pidettävällä istuntojaksolla kahden viikon kuluttua. Ymmärsinkö tämän oikein? On tärkeää ja välttämätöntä, että saamme pikaisesti ymmärrettävän vastauksen. Slovakian kansalaiset todellakin tarvitsevat komissiolta selkeän vastauksen, joten asia on kiireellinen. Kysyisinkin teiltä, voimmeko luottaa tällaiseen aikatauluun – puhummehan kuitenkin kahdesta viikosta. 
+<SPEAKER ID="43" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Istunto keskeytettiin klo 10.40 ja sitä jatkettiin klo 11.00.)">
+<P>
+   Huomautan, että Strasbourgin istuntojakson ja kaikkien muidenkin istuntojaksojen esityslistasta päättää puheenjohtajakokous. Ymmärtäisin asian siis niin, että jos komissio on valmis vastaamaan tähän kysymykseen Strasbourgissa, puheenjohtajakokous voi päättää tämän kohdan lisäämisestä esityslistalle.
+<P>
+Keskustelu on päättynyt.
+<SPEAKER ID="44" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="45" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Yksityiskohtaiset äänestystulokset: ks. pöytäkirja)">
+<P>
+   – Esityslistalla on seuraavana äänestykset.
+<SPEAKER ID="46" LANGUAGE="" NAME="" AFFILIATION="– Ennen äänestystä">
+<SPEAKER ID="47" LANGUAGE="EN" NAME="Gay Mitchell (PPE-DE )," AFFILIATION="esittelijä">
+<P>
+   . – Arvoisa puhemies, käsittelemässämme ehdotuksessa yritetään yhdistää taloudelliset tavoitteet kehitystavoitteisiin. Siinä yritetään päästä eroon parlamentin 20 vuoden taistelulla saavuttamasta yhteispäätösmenettelystä poistamalla 16 asetusta ja korvaamalla ne yhdellä asetuksella, jossa parlamentti jätetään täysin sivustakatsojaksi. Kehitysyhteistyövaliokunnan vahva ja yksimielinen toiminta, joka sai kolmen muun valiokunnan tuen, merkitsi jonkinasteista järjen voittoa.
+<P>
+Voimme nyt yrittää tarkistaa tätä ehdotusta palauttamalla sen takaisin kehitysyhteistyövaliokuntaan, ja arvostan suuresti puheenjohtajavaltion ja niiden komission jäsenten työtä, jotka esittivät uutta ehdotusta.
+<P>
+Iirin kielellä sanottaisiin , eli ole valmis, ole valpas. Parlamentti ei ole kumileimasin, vaan se osallistuu päätöksentekoon. Se on periaate, joka ei ole kauppatavaraa. Valiokuntani jäsenistä 37 on allekirjoittanut minun kehotuksestani suosituksen tämän ehdotuksen palauttamiseksi tarkistamista varten. Toivon, että parlamentti suostuu tähän. 
+<SPEAKER ID="48" LANGUAGE="DE" NAME="Hannes Swoboda (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, haluan antaa tälle ehdotukselle varauksettoman tukeni. Ei ole hyväksyttävää, että komissio ehdottaisi parlamentin toimivallan heikentämistä, ja niinpä tuen ehdotusta tämän asian palauttamisesta takaisin valiokuntaan. 
+<SPEAKER ID="49" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi pyynnön asian palauttamisesta valiokuntaan.)">
+<SPEAKER ID="50" LANGUAGE="" NAME="" AFFILIATION="Ennen äänestystä">
+<SPEAKER ID="51" LANGUAGE="NL" NAME="Johan Van Hecke (ALDE )," AFFILIATION="esittelijä">
+<P>
+   . – Arvoisa puhemies, saattaa olla, että muutamat puhemiehistön laatimaan nimilistaan pujahtaneet virheet ovat aiheuttaneet jonkin verran sekaannusta. Sekaannusten välttämiseksi haluan tehdä selväksi, että kaikki ne, jotka kannattavat neuvoston ja komission kanssa saavutettua kompromissia, tukevat ryhmän 1 tarkistuksia ja hylkäävät kaikki muut tarkistukset. Eilisessä keskustelussa komissio ja neuvosto ilmoittivat jälleen kerran selväsanaisesti, ettei kompromissia synny, ellei koko ryhmää 1 hyväksytä ilman muita tarkistuksia.
+<P>
+Kaikki ryhmät Euroopan yhtyneen vasemmiston konfederaatioryhmää / Pohjoismaiden vihreää vasemmistoa lukuun ottamatta ilmoittivat eilen kannattavansa tätä kompromissia. On ratkaisevan tärkeää, että Hongkongissa pidettävän WTO:n kokouksen kynnyksellä meillä on asetus valmiina. Tämä kompromissi on kovan työn tulos. Muiden ryhmien varjoesittelijöiden tekemän yhteistyön ansiosta olemme pystyneet saavuttamaan kompromissin, jolla on lähes yksimielinen hyväksyntä ja kannatus. Mielestäni on tärkeää, että se hyväksytään nyt, ja jos niin ei mahdollisen sekaannuksen vuoksi tapahdu, on toimitettava vielä toinen äänestys. Tämä ei ehkä ole sitä, mitä halumme, mutta se on siitä huolimatta todennäköistä.
+<P>
+Toistan näin ollen, että jos kannatamme kompromissia, meidän on hyväksyttävä ryhmä 1 kaikkien muiden tarkistusten kustannuksella. 
+<SPEAKER ID="52" LANGUAGE="" NAME="" AFFILIATION="Ennen äänestystä">
+<SPEAKER ID="53" LANGUAGE="EN" NAME="Neil Parish (PPE-DE )," AFFILIATION="esittelijä">
+<P>
+   . – Arvoisa puhemies, olen erittäin tyytyväinen tähän lintuinfluenssan torjuntaa ja seurantaa EU:ssa koskevaan komission direktiiviin. Tarvitsemme tiukan valmiussuunnitelman pitääksemme taudin poissa EU:sta, ja jos kävisi niin onnettomasti, että tauti leviäisi Eurooppaan, tarvitsemme asianmukaiset menettelytavat sen tukahduttamiseksi nopeasti.
+<P>
+Tässä direktiivissä on uutta Euroopassa ensimmäistä kertaa toteutettava matalapatogeenisen lintuinfluenssan seuranta. Kannatan tätä lämpimästi, koska matalapatogeenisesta viruksesta voi kehittyä korkeapatogeeninen tautimuoto, joka on erittäin tarttuva ja siipikarjalle tappava. Olen kuitenkin komission kanssa eri mieltä yhdestä kohdasta. Heti kun matalapatogeenista lintuinfluenssaa tavataan siipikarjassa, linnut on hävitettävä hyvin nopeasti, jotta estetään välittömästi taudin mahdollinen leviäminen ja muuttuminen korkeapatogeeniseksi.
+<P>
+Direktiivin mukaan siipikarjan lihaa, jossa on todettu matalapatogeeninen lintuinfluenssa (LPAI), voidaan turvallisesti käyttää ravinnoksi. En kiistä tieteellisiä lausuntoja, mutta tällaisen lihan jalostaminen ja markkinointi on lähestulkoon mahdotonta. Sitä paitsi se turmelisi kansalaisten luottamuksen erittäin korkealaatuiseen eurooppalaiseen siipikarjanlihaan. Kehotan kaikkia parlamentin jäseniä tukemaan PPE-DE-ryhmän esittämiä tarkistuksia, jotta LPAI-taudin hävittämiseen Euroopan unionista suhtauduttaisiin terveellä järjellä ja säilytettäisiin kansalaisten ja kuluttajien ehdoton luottamus siipikarja-alaan.
+<P>
+Puheenvuoroni yhteydessä haluan esittää jäsen Ebnerin minulle ehdottaman suullisen tarkistuksen, jota kannatan varauksetta. Ymmärtääkseni hän on puhunut parlamentin muille ryhmille ja saanut niiden tuen. Tarkoituksena on saada metsästäjät osallistumaan LPAI-taudin valvontaan. Myös komission jäsen tuki tätä eilen illalla. Suullisella tarkistuksella lisätään johdanto-osaan uusi 11 b kappale: "Eurooppalaisia metsästäjiä olisi kannustettava avustamaan lintuinfluenssatapausten valvonnassa ja ilmoittamaan toimivaltaisille viranomaisille epäilemistään lintujen saamista tartunnoista". Haluan jättää tämän tarkistuksen parlamentin käsiteltäväksi. 
+<SPEAKER ID="54" LANGUAGE="" NAME="" AFFILIATION="(Suullinen tarkistus hyväksyttiin.)">
+<SPEAKER ID="55" LANGUAGE="" NAME="" AFFILIATION="Ennen 4 kohdan f alakohdasta toimitettua äänestystä">
+<SPEAKER ID="56" LANGUAGE="DE" NAME="Jo Leinen (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, 4 kohdan f alakohta liittyy Euroopan unionin virastojen hallintoneuvostojen kokoonpanoon. Teksti kuuluu seuraavasti: 
+<P>
+"Parlamentti omasta puolestaan hallintoneuvostoon kaksi jäsentä". 
+<P>
+ Ehdotan tekstin muuttamista seuraavasti: 
+<P>
+"Parlamentti omasta puolestaan hallintoneuvostoon kaksi jäsentä". 
+<P>
+ Miten tätä perustellaan? Vaikka parlamentin ei lainsäädäntöön osallistuvana elimenä pitäisikään vaatia itselleen oikeutta kahteen viralliseen edustajaan kaikissa alaisuudessaan toimivissa toimeenpanovirastoissa, sen pitäisi säilyttää oikeus lähettää luotettavia asiantuntijoita haluamiinsa virastoihin, kuten se tekee Kööpenhaminassa sijaitsevan Euroopan ympäristökeskuksen ja Wienissä sijaitsevan rasismin ja muukalaisvihan seurantakeskuksen tapauksessa.
+<P>
+Tämän kohdan laatinut ympäristön, kansanterveyden ja elintarvikkeiden turvallisuuden valiokunnan jäsen Florenz ja sääntelyvirastoja koskevan asiakirjan esittelijä Papastamkos tukevat tarkistustani. Pyydän sille parlamentin tukea. 
+<SPEAKER ID="57" LANGUAGE="" NAME="" AFFILIATION="(Suullinen tarkistus hyväksyttiin.)">
+<SPEAKER ID="58" LANGUAGE="" NAME="" AFFILIATION="Ennen tarkistuksesta 3 toimitettua äänestystä">
+<SPEAKER ID="59" LANGUAGE="FR" NAME="Harlem Désir (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, tekstissä ilmenneen käännösvirheen takia englanninkielistä versiota pidetään oikeana. Äänestämällä tarkistuksen 3 puolesta emme poista 13 kohdassa olevasta virkkeestä sitä osaa, jossa todetaan, että palvelujen alalla terveydenhuolto-, koulutus- ja audiovisuaaliala on rajattava palvelukaupan ulkopuolelle. Äänestämällä tarkistuksen 3 puolesta tuomme näin ollen selvästi esiin, että kaupallisten ja julkisten palveluiden välillä on tehtävä selvä ero ja ettei vedensaannin, jätevesihuollon ja energiansaannin kaltaisia julkisia palveluita pidä purkaa tai heikentää. Pysymme myös kannassamme, jonka mukaan koulutus-, terveydenhuolto- ja audiovisuaalialan suhteen on tehtävä poikkeus. 
+<SPEAKER ID="60" LANGUAGE="FR" NAME="Puhemies." AFFILIATION="Ennen kohdasta 19 toimitettua äänestystä">
+<P>
+   – Hyvä jäsen Désir, tämä merkitsee, että alkuperäistä englanninkielistä versiota pidetään oikeana. Tarkistamme kaikki käännökset yhdenmukaistaaksemme ne alkuperäisen tekstin kanssa.
+<SPEAKER ID="61" LANGUAGE="EN" NAME="Robert Sturdy (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, esitän suullisen tarkistuksen tarkistukseen 19. Ymmärrän, että sosialistit saattavat haluta tästä kohta kohdalta -äänestystä. Tarkoituksena on selkeyttää kohtaa, jossa käsitellään teollis- ja tekijänoikeuksien kauppaan liittyviä näkökohtia (TRIP) ja kauppaan liittyviä investointitoimia (TRIM). Saatatte sanoa, että kaikenlaiset TRIM- ja TRIP-akronyymit ovat saaneet meidät sekoamaan sanoissamme. Akronyymit ovat väärin päin. Luen tarkistuksen teknisine muutoksineen: "kehottaa etsimään mahdollisimman nopeasti pysyvän ratkaisun TRIM:n (kauppaan liittyvät investointitoimet) ja TRIP:n (teollis- ja tekijänoikeuksien kauppaan liittyvät näkökohdat) alalla, jotta varmistetaan lääkkeiden saatavuus sellaisissa maissa, joissa ei ole lääkealan tuotantokapasiteettia ja joilla on kansanterveydellisiä huolenaiheita".
+<P>
+Noiden kahden sanan paikkaa on siis vaihdettava. 
+<SPEAKER ID="62" LANGUAGE="FR" NAME="Harlem Désir (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, pelkään, että on tapahtunut hienoinen sekaannus. Olen jäsen Sturdyn kanssa samaa mieltä yhdestä kohdasta. Investointisopimus todellakin mainitaan 19 kohdassa, ja se on virhe, koska tämä kohta liittyy lääkkeiden saatavuutta koskeviin toimenpiteisiin. Näin ollen tässä kohdassa pitäisi ehdottomasti mainita teollis- ja tekijänoikeuksia koskeva sopimus – ranskaksi ADPIC-sopimus ja englanniksi TRIP-sopimus – eikä investoinneista tehtyä TRIM-sopimusta. Siksi pyysimme erillistä äänestystä poistaaksemme virkkeestä investointisopimukseen liittyvän kohdan. Mielestäni tätä osaa virkkeestä ei voida liittää uudestaan kohdan alkuun, koska tämä kohta ei todellakaan liity millään tavoin kyseiseen investointisopimukseen. 
+<SPEAKER ID="63" LANGUAGE="" NAME="" AFFILIATION="(Suullista tarkistusta ei hyväksytty.)">
+<SPEAKER ID="64" LANGUAGE="" NAME="" AFFILIATION="Ennen 5 kohdasta toimitettua äänestystä">
+<SPEAKER ID="65" LANGUAGE="EN" NAME="Charles Tannock (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, 5 kohdan 2 luetelmakohdan loppuosan sanamuoto on melkoisen kömpelö: "toteuttamaan demokratiaan ja oikeusvaltioon johtavat poliittiset uudistukset monipuoluejärjestelmästä ja kaikkien mielipidesuuntausten ilmaisuvapaudesta alkaen". Haluan selkeyttää ja sujuvoittaa sitä korvaamalla sen seuraavasti: "laatimaan ja panemaan mahdollisimman pian täytäntöön tarvittavat uudistukset maan demokratisoimiseksi, takaamaan poliittisen opposition rauhanomaisen ilmaisunvapauden ja varmistamaan monipuoluejärjestelmään perustuvien, kansainvälisten tarkkailijoiden valvomien vaalien pikaisen järjestämisen kansallisen yhtenäisyyden luomiseksi". 
+<SPEAKER ID="66" LANGUAGE="" NAME="" AFFILIATION="(Suullinen tarkistus hyväksyttiin.)">
+<SPEAKER ID="67" LANGUAGE="" NAME="" AFFILIATION="Ennen 10 kohdasta toimitettua äänestystä">
+<SPEAKER ID="68" LANGUAGE="EN" NAME="Jana Hybášková (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, selvyyden vuoksi luen ensin tarkistuksen: "tunnustaa naisten täysimääräisen oikeuden osallistua vapaasti urheilutoimintaan ja kannustaa naisia osallistumaan enenevässä määrin… urheiluun". 
+<P>
+ Arvoisa puhemies, haluan tarkistuksellani selkeyttää ja parantaa tekstiä. Mielestäni on ratkaisevan tärkeää, että parlamentti ja Euroopan unioni tunnustavat naisten oikeuden osallistua täysimääräisesti urheilutoimintaan kehitysmaissa ja Saudi-Arabian kaltaisissa islamilaisissa maissa. Toivon parlamentin miespuolisten jäsenten sekä myös naispuolisten jäsenten äänestävän tänään tarkistukseni puolesta. 
+<SPEAKER ID="69" LANGUAGE="" NAME="" AFFILIATION="(Suullinen tarkistus hyväksyttiin.)">
+<SPEAKER ID="70" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   – Äänestykset ovat päättyneet. 
+<SPEAKER ID="71" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="72" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin tämän kehitysyhteistyötä ja taloudellista yhteistyötä koskevan virheellisen ehdotuksen valiokuntaan palauttamisen puolesta. Koska komissio on nyt ilmoittanut selvästi, ettei se aio esittää uutta ehdotusta, tarvitaan sisältömuutoksia, jotta parlamentti säilyttää oikeutensa valvoa kehitysyhteistyöpolitiikan suunnittelua ja täytäntöönpanoa.
+<P>
+Mielestäni on olennaista, että Euroopan parlamentti puolustaa tässä asiassa yksimielisesti osallistumistaan kehitysyhteistyöpolitiikkaa koskevaan päätöksentekoon, sillä sitä horjutetaan nykyisestä tässä ehdotuksessa. Köyhyyden poistamisen pitäisi perustellusti olla keskipisteenä kaikissa kehitysyhteistyön välineissä, ja näin ollen asiasta olisi tässä yhteydessä käytävä lisäkeskusteluja asiaa käsittelevissä valiokunnissa, toisin sanoen kehitysyhteistyövaliokunnassa ja kansainvälisen kaupan valiokunnassa.
+<P>
+Epäilen edelleenkin, hyötyisivätkö kehitysmaat tämän välineen kehitystä ja taloutta koskevien lukujen erottamisesta, sillä EU:n kehitysyhteistyöpolitiikalla, joka on enimmäkseen kehitysapua ja ulkoista taloudellista yhteistyötä, on perustamissopimuksessa yhteinen oikeusperusta. 
+<SPEAKER ID="73" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="74" LANGUAGE="" NAME="Zita Pleštinská (PPE-DE )." AFFILIATION="(SK) (En ole varma pystynkö puhumaan tässä metelissä.)">
+<P>
+   – Äänestin esityksen puolesta sen ammatillisen kokemuksen perusteella, jota olen saanut Slovakian ja Puolan välisestä rajaseutuyhteistyöstä Tatran Euroregions-alueella. Useat Euroregions-aloitteet ovat tietenkin syntyneet alhaalta ylöspäin. Nykyiset Euroregions-alueet ovat yhdistyksiä, joilla on oikeushenkilöllisyys ja omat rajatylittävät rakenteensa, ja niillä on paras asiantuntemus kestävän aluekehityksen alalla. Niillä on lisäksi merkittävä asema unionin yhteenkuuluvuudelle olennaisen tärkeässä rajatylittävässä yhteistyössä, jossa noudatetaan paikallisten ja alueellisten viranomaisten yhteistyöstä yli valtakunnan rajojen tehdyn eurooppalaisen puiteyleissopimuksen ehtoja.
+<P>
+Kun otetaan huomioon Euroregions-alueiden tietämys raja-alueiden ongelmista, on ratkaisevan tärkeää, että ne osallistuvat vuosiksi 2007–2013 suunniteltujen strategioiden kehittämiseen ja että ne antavat merkittävämmän panoksen yhteistyöhön, jota tehdään kansallisten elinten kanssa EU:n ohjelmien hallinnoinnissa. Tämä mietintö on Euroopan parlamentin tärkeä aloite, sillä tukemme Euroregions-alueille auttaa saavuttamaan nopeammin yhden EU:n keskeisistä tavoitteista: alueellisten erojen poistamisen. 
+<SPEAKER ID="75" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="76" LANGUAGE="FR" NAME="Anne Ferreira (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . – Puheenjohtajavaltio Yhdistyneen kuningaskunnan ja Euroopan parlamentin esittelijöiden sitoutuneisuuden ansiosta on ollut mahdollista päästä yhteisymmärrykseen tästä asetuksesta, joka liittyy lääkkeitä koskevien patenttien pakkolisensointiin.
+<P>
+Tämän yhteisymmärryksen avulla saadaan uudelleen tasapainoon Euroopan komission ehdotus, joka yhdessä WTO:n päätöksen kanssa vaikeutti entisestään lääkkeiden saatavuutta vakavista kansanterveysongelmista kärsivissä maissa.
+<P>
+Neuvoston kanssa tehty kompromissi on tyydyttävä, koska pakkolisensointijärjestelmää laajennetaan kansalaisjärjestöihin, kansainvälisiin järjestöihin ja Maailman kauppajärjestöön kuulumattomiin maihin. Kompromissi mahdollistaa viennin samaan alueelliseen ryhmittymään kuuluviin maihin.
+<P>
+Pahoittelen sitä, että teknologian siirron edistäminen eteläisiin maihin torjuttiin sekä sitä, että jäsenvaltiot voivat edelleen määrätä lisävaatimuksia.
+<P>
+Tämä lainsäädäntö, joka tulee kuitenkin voimaan vasta kaksi ja puoli vuotta WTO:n päätöksen jälkeen, on tarpeen suurelle määrälle kehitysmaita, joissa on vakavia kansanterveysongelmia. Olen iloinen tämän päätöksen samanaikaisuudesta maailman aids-päivän kanssa. 
+<SPEAKER ID="77" LANGUAGE="PT" NAME="Pedro Guerreiro (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   .  Vaikka parlamentin ehdotukset tuovatkin joitakin parannuksia komission asetusehdotukseen, niissä ei millään tavoin puututa siihen raudanlujaan otteeseen, jonka ylikansalliset lääkealan yritykset ovat saaneet markkinoista lääkkeiden patenttikäytännön ansiosta. Tässä yhteydessä tämä on ratkaiseva kysymys.
+<P>
+Parlamentin esittämissä ehdotuksissa ajetaan läpi mallia, jolla "laillistettaisiin" ja tehtäisiin "pakolliseksi" tärkeiden lääkkeiden toimittaminen suurille ihmismäärille. Tavoitteeksi on ilmoitettu sääntely, ja silti toimitaan hyvin kyynisesti, sillä ehdotuksissa ei edellytetä tutkimusta edistävien mekanismien käyttöä eikä kehitetä – näiden yhteisöjen avulla ja niitä varten –tutkimus-, valmistus- ja toimituskapasiteettia sellaisille lääkkeille, jotka ovat kyseisille yhteisöille tärkeitä ja joihin niillä on oikeus.
+<P>
+Ajatuksena on "säännellä" lääkkeiden saatavuutta niin kutsutuissa alikehittyneissä maissa siten, että ylikansalliset yhtiöt voivat myydä halvemmalla ja näin kasvattaa markkinoitaan menettämättä etuoikeutettua asemaansa.
+<P>
+Tämä strategia on kuitenkin vastoin Maailman kauppajärjestön Dohan kokouksen päätelmiä, joiden mukaan maiden pitäisi "rikkoa" patentteja kansanterveyssyistä. Hyvänä esimerkkinä tästä ovat Brasilia ja Etelä-Afrikka, jotka ovat onnistuneet toimittamaan aids-potilaille maksuttomia lääkkeitä.
+<P>
+Äänestän näin ollen mietintöä vastaan. 
+<SPEAKER ID="78" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Tämä asetus on tärkeä virstanpylväs lääkkeiden saatavuuden parantamiseksi kehitysmaissa, ja annan sille täyden tukeni. Se päästää EU:n ulos WTO:n nykyisestä umpikujasta, joka koskee lääkkeille myönnettäviä "pakkolisenssejä", ja mahdollistaa EU:n toimet miljoonia kehitysmaiden ihmisiä vaivaavien tautien torjumiseksi.
+<P>
+Asetuksen antaminen merkitsee, että maailman suurin yhtenäismarkkina-alue EU voi nyt sekä toimittaa köyhille ihmisille näiden tarvitsemia välttämättömiä lääkkeitä kohtuulliseen hintaan että tukea elintärkeän paikallisen tuotannon kehittämistä siirtämällä teknologiaa ja asiantuntemusta kehitysmaiden julkisille kansanterveysjärjestelmille.
+<P>
+Tuen erityisesti esittelijän ja valmistelijan yrityksiä laajentaa tämän asetuksen soveltamisalaa WTO:hon kuulumattomiin maihin, joista ainakin 40 on kehitysmaita. Tuen niin ikään yrityksiä varmistaa, että tämän uuden asetuksen myötä myös kansalaisjärjestöt ja YK:n järjestöt saavat merkittävän roolin terveydenhoitotoimien toteuttamisessa. 
+<SPEAKER ID="79" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   .  Vaikka minusta tuntuukin, että emme ole vielä löytäneet ihanneratkaisuja, annan kiitosta käsittelemässämme päätöslauselmaesityksessä saavutetuille tuloksille. Olen erityisen tyytyväinen joihinkin parlamentin tekemiin tarkistuksiin, joiden tavoitteena on valtuuttaa köyhimmät maat jatkamaan kauhistuttavia ihmisuhreja vaativien vakavien tautien torjumista mahdollisimman tehokkailla ja halvoilla keinoilla.
+<P>
+Tekijänoikeuden ja varsinkaan teollis- ja tekijänoikeuksien suoja ei ole ristiriidassa terveydensuojelun kanssa eikä sen sitoumuksen kanssa, joka meidän on tehtävä parantaaksemme kaikkein välttämättömimpien lääkkeiden saatavuutta köyhimmissä maissa. 
+<SPEAKER ID="80" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="81" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Olen tyytyväinen tähän ehdotukseen direktiiviksi toimenpiteistä lintuinfluenssan torjumiseksi. Ehdotetun direktiivin tavoitteena on saattaa ajan tasalle EU:n toimet, jotka perustuvat viimeaikaisista epidemiauhkista saatuihin kokemuksiin ja uusimpiin tutkimustuloksiin siitä, miten tauti leviää ja vaarantaa ihmisten terveyden. Nykyisessä direktiivissä määrätään valvontatoimet ainoastaan "korkeapatogeenisia" lintuinfluenssaviruksia vastaan, toisin sanoen niitä viruksia vastaan, jotka ovat siipikarjan suurimpia taudinaiheuttajia ja voivat myös satunnaisesti tarttua ihmisiin.
+<P>
+Nämä korkeapatogeeniset virukset ovat kuitenkin todistettavasti kehittyneet niin kutsutuista "matalapatogeenisista" lintuinfluenssaviruksista virusmutaation kautta. Lintuinfluenssaepidemian puhkeamisen estämiseksi uudessa lainsäädännössä otettaisiin käyttöön pakolliset valvonta- ja torjuntatoimet matalapatogeenisille lintuinfluenssaviruksille, jotka voivat levitä kotieläiminä pidettyyn siipikarjaan luonnonvaraisista linnuista, kuten ankoista ja hanhista. Matalapatogeenisia viruksia ei voida hävittää luonnonvaraisista linnuista, mutta tartunnat kotieläiminä pidettävään siipikarjan voidaan torjua tehokkaasti ja vaaralliset virusmutaatiot voidaan estää.
+<P>
+Tuen varauksetta uuden lainsäädännön tavoitetta, sillä sen avulla varmistetaan kaikkein tarkoituksenmukaisimpien lintuinfluenssan valvonta- ja torjuntatoimien toteuttaminen sekä terveysriskien, taloudellisten kustannusten ja kielteisten.......
+<SPEAKER ID="82" LANGUAGE="FR" NAME="Jean-Claude Martinez (NI )," AFFILIATION="kirjallinen">
+<P>
+   . – Jo vuonna 1989 voitiin aavistaa ne vaarat, joita naudan spongiformisen enkefalopatian (BSE) aiheuttaman taudin tarttuminen ihmisiin saattaisi aiheuttaa. Komissio ja jäsenvaltiot, kuten Ranska, odottivat vuoteen 1996 saakka ennen kuin aloittivat suojatoimet. 
+<P>
+Samalla tavoin Margaret Thatcherin hallituksen ääriliberalismi oli saanut brittihallinnon purkamaan kansalliset eläinlääkintäalan verkostot. Kun suu- ja sorkkatauti levisi Ison-Britannian karja- ja sikatiloille vuonna 2003, ei ennakkosuojatoimista ollut enää tietoakaan. Miljoonia eläimiä teurastettiin kaiken varalta, ja ne poltettiin jättiläismäisissä rovioissa. Ainoastaan ääriliberalismin järjetön ideologia ja harkitsematon vapaakauppa jätettiin rauhaan.
+<P>
+Leväperäisen ja holtittoman toiminnan jälkeen olemme nyt omaksumassa toimintamallin, jossa asioita yritetään tarkoituksella peitellä lintuinfluenssatapausten yhteydessä käyttämällä hyväksi ihmisten perimmäisiä pelkoja. Kaiken tämän verukkeena käytetään ennalta varautumisen periaatetta, joka on pelkkä eurooppalaisen vanhakantaisen eliitin taantumuksellinen reaktio.
+<P>
+Virusta, joka muka uhkaa ihmiskuntaa Hollywood-tyylisellä, espanjantautiin verrattavalla pandemialla, ei tällä hetkellä ole olemassa. Se on vain sellaisten poliittisten piirien kuvitelmaa, jotka yrittävät sattumanvaraisilla terveydensuojelutoimenpiteillä hyvittää aiempia virheitään terveydenhuollon alalla.
+<P>
+Tämän perusteella varastoimme Tamiflun kaltaisia tehottomia vastalääkkeitä samalla kun lisäämme ihmisten pelkoja saadaksemme heidät unohtamaan ne riittämättömät toimet, joita toteutetaan uudelleensijoittamisen, islamilaistumisen ja muiden sellaisten todellisten ongelmien varalta, jotka puolestaan jäävät huomiotta. 
+<SPEAKER ID="83" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   .  Kuten esittelijä oikeutetusti huomauttaa, paras tapa ennaltaehkäistä ihmisiin tarttuvan lintuinfluenssapandemian mahdollisuus on taudin täydellinen hävittäminen linnuista.
+<P>
+Näin ollen yhteisön toimet on kohdistettava tutkimukseen ja varojen myöntämiseen sellaisten suun kautta otettavien rokotteiden kehittämiseksi ja käyttöön ottamiseksi, joiden avulla voidaan tehokkaasti torjua useita viruskantoja kaikista tärkeimmistä lintulajeista.
+<P>
+Olemme tyytyväisiä myös nykyiseen voimassa olevaan direktiiviin tehtyyn tarkistukseen siipikarjan matalapatogeenisiin viruksiin kohdennettujen toimien tukemiseksi, jotta estetään riski viruksen muuttumisesta korkeapatogeeniseksi.
+<P>
+Mietinnössä käsitellään toimenpidekokonaisuutta, jonka tavoitteena on estää tartunta ihmisiin, ja niinpä äänestimme mietinnön puolesta. 
+<SPEAKER ID="84" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="85" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   .  Olen iloinen siitä, että mietintöni hyväksyttiin. Yhteisön on myönnettävä lisätukea eri viruskantojen torjuntaan tarkoitettujen suun kautta otettavien rokotteiden tutkimuksen kehittämiseen ja tarvittaessa niiden käytön edistämiseen. Yhteisön pitäisi vastata kaikista rokotteisiin liittyvistä kustannuksista.
+<P>
+Lisäksi jäsenvaltioille on annettava yhteisön tukea, jotta ne voivat kehittää taudin valvontajärjestelmän laboratoriodiagnooseineen ja sopivine rokotteineen. Kolmansista maista etenkin Aasian maiden kanssa on myös toteutettava yhteistyötoimia ja teknisen avun toimia, jotta varmistetaan ennaltaehkäisevien toimien ja kartoitustoimien toteuttaminen niissä maissa, joissa lintuinfluenssa on puhjennut.
+<P>
+Olin pettynyt siihen, että ehdotukseni yhteisön taloudellisen tuen nostamisesta 50 prosentista 60 prosenttiin jäsenvaltioiden maksamista kustannuksista sekä korkea- että matalapatogeenisen lintuinfluenssan osalta hylättiin.
+<P>
+Lisäksi hylättiin ehdotus 50 prosentin tukiosuudesta, jolla korvattaisiin tulonmenetykset uuden tilan perustamiseen saakka, luonnollisesti markkinoiden toimintaa heikentämättä.
+<P>
+Näitä näkökohtia lukuun ottamatta luotan siihen, että komissio ja neuvosto ottavat asianmukaisesti huomioon hyväksytyt ehdotukset kansanterveyden suojelemiseksi. 
+<SPEAKER ID="86" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   .  Kansanterveystoimet maksavat. Ne on suunniteltu valtavien ihmismäärien auttamiseen ja niihin kuuluu tutkimusta, ennaltaehkäisyä ja valvontaa. Lintuinfluenssatapausten yhteydessä on ajantasaistettava sitä menettelyä, jolla myönnetään taloudellista tukea tarvittavien eläinlääkintätoimien toteuttamiskustannusten kattamiseen. 
+<P>
+Maailmanlaajuinen pandemia saattaa puhjeta, mutta luonnonvaraisten lintujen muuttoreitillä sijaitsevat jäsenvaltiot ovat muita jäsenvaltioita suuremmassa vaarassa.
+<P>
+Laskemalla yhteen ennaltaehkäisytoimet, jotka liittyvät erityisesti valvontajärjestelmien kehittämiseen, laboratoriokustannuksiin ja uusien rokotteiden tutkimukseen ymmärretään, miten valtavat taloudelliset sitoumukset ovat tarpeen. Siksi äänestin mietinnön puolesta. 
+<SPEAKER ID="87" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="88" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   .  Tämän komission ehdotuksen tarkoituksena on muuttaa asetusta (EY) N:o 974/98, joka oli oikeudellinen kehys siirtymäkaudella, jonka aikana kaikki nykyiset euroalueen maat ottivat euron käyttöön. Tarkoituksena on nyt hyödyntää samaa oikeudellista kehystä niiden maiden osalta, jotka liittyivät EU:hun 1. toukokuuta 2004 ja joilla oli oikeudellinen velvoite liittyä euroalueeseen. Yksi tärkeimmistä ehdotuksista on lyhentää siirtymäkauden kestoa toteuttamalla "Big Bang" -tyyppinen kertarysäysratkaisu ottamalla eurosetelit ja -kolikot käyttöön samalla, kun euro otetaan käyttöön yhtenäisvaluuttana.
+<P>
+Mietinnössä noudatetaan kyseistä linjaa ja yritetään varmistaa, ettei yksikään jäsenvaltio pysty eroamaan euroalueesta. Mielestämme se ei ole hyväksyttävää, ja jäsenvaltioilla on halutessaan täysi oikeus erota euroalueesta. On käytännöllisesti katsoen syrjintää yrittää asettaa tällaisia rajoituksia uusille jäsenvaltioille, kun kahdella maalla, Tanskalla ja Yhdistyneellä kuningaskunnalla, on mahdollisuus jättäytyä pois alueesta (opt-out clause) ja kun Ruotsi on päättänyt jättäytyä euroalueen ulkopuolelle.
+<P>
+Näin ollen äänestämme mietintöä vastaan. Vastustamme edelleen periaatteessa euroa. Rahapolitiikka on selvästi johtanut talouskasvun pysähtymiseen ja työttömyyteen, joka myös...
+<SPEAKER ID="89" LANGUAGE="FR" NAME="Bruno Gollnisch (NI )," AFFILIATION="kirjallinen">
+<P>
+   . – Mitä annettavaa euroalueella on nykyisin? Teollisuusmaiden hitain talouskasvu. Työttömyys. Kohonneet elinkustannukset. Järjettömät budjettirajoitukset. Julkisen velan jyrkkä kasvu. Olematon valuuttakurssipolitiikka ja yliarvostettu euro. Euroopan keskuspankki, joka takertuu inflaatiopelkoon siinä määrin, että se valmistautuu tänään nostamaan ohjauskorkojaan silläkin uhalla, että taloudellinen toiminta ja työllisyys vaarantuvat. Euro on aiheuttanut paljon pettymyksiä ja vahinkoja, jotka pahenevat, jos alueen taloudet ajautuvat yhä kauemmas toisistaan.
+<P>
+Uusien jäsenvaltioiden liityttyä Euroopan unioniin länsimaisessa lehdistössä julkaistut tutkimukset osoittivat, että vaikka näiden maiden kansalaiset kannattivat jäsenyyttä, joka yhdistää heidät lopullisesti demokratioihin, he eivät ymmärtäneet kaikkea, mitä tällaiseen jäsenyyteen kuuluu. Osa heistä oli, ja on epäilemättä edelleenkin, vakuuttuneita siitä, että siirtyminen euroon oli vapaaehtoista eikä pakollista.
+<P>
+Kyse ei ole niinkään siitä, siitä, voiko jokin maa ottaa eurosetelit ja -kolikot käyttöön heti otettuaan käyttöön yhtenäisvaluutan. Pikemminkin on kyse siitä, hyväksyvätkö ja ymmärtävätkö kyseisen maan ihmiset kaikki tällaisen toimenpiteen seuraukset. On välttämätöntä kuulla heitä kansanäänestyksessä. 
+<SPEAKER ID="90" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Olen tyytyväinen tähän mietintöön, jossa tarkastellaan jäsenvaltioiden aiempia euron käyttöönottostrategioita ja tehdään niihin parannusehdotuksia ja ehdotuksia niiden käyttöönotosta euroalueen jäsenyyttä harkitsevissa jäsenvaltioissa sitten, kun ne tekevät päätöksensä.
+<P>
+Toivottavasti se on jonain päivänä ajankohtaista Yhdistyneessä kuningaskunnassa. 
+<SPEAKER ID="91" LANGUAGE="DE" NAME="Andreas Mölzer (NI )," AFFILIATION="kirjallinen">
+<P>
+   . Jossain mielessä on ymmärrettävää, että uusien jäsenvaltioiden pitäisi niin innokkaasti olla ottamassa euroa käyttöön ilman suurempia viivytyksiä.
+<P>
+On kuitenkin pidettävä mielessä, että vaivaiset 38 prosenttia kymmenen uuden jäsenvaltion kansalaisista on vakuuttunut euron käyttöönoton suotuisista vaikutuksista ja että lähes puolet kansalaisista kannattaa sen käyttöönottoa mahdollisimman myöhäisessä vaiheessa.
+<P>
+Meidän pitäisi hyväksyä jälkimmäinen vaihtoehto, sillä se antaa kyseisille maille tilaisuuden toteuttaa tarvittavat uudistukset verkkaisempaan tahtiin ja ihmisille enemmän aikaa totuttautua ajatukseen muuttuvista olosuhteista.
+<P>
+Ei ole myöskään syytä vähätellä sitä näkökohtaa, että aiempien kokemusten perusteella euron käyttöönotto nostaa hintoja, vaikka sitä yritetäänkin kaikin keinoin kieltää. Yritykset pyrkivät saamaan takaisin niille siirtymäkauden aikana aiheutuneet kustannukset.
+<P>
+Komission on osoitettava ottaneensa opikseen EU:n perustuslain epäonnistumisesta. Tämän se tekee tukemalla kansalaisten tahdon selvittämiseen tarkoitettuja kansanäänestyksiä – jollaista suunniteltiin esimerkiksi Puolassa – pikemminkin kuin vastustamalla heidän tahtoaan väitteellä, jonka mukaan euron käyttöönotto on pakollista Puolassa. Koska Yhdistyneen kuningaskunnan, Tanskan ja Ruotsin kaltaiset valtiot ovat säilyttäneet itsenäisen rahapolitiikan, muidenkin on annettava tehdä samoin. 
+<SPEAKER ID="92" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   .  Tuen vapaaehtoisen rajatylittävän yhteistyön käsitettä, ja mielestäni sitä on tuettava. 
+<P>
+Yleisesti ottaen suhtaudun varauksettoman myönteisesti eri jäsenvaltioiden useiden hallintotasojen väliseen yhteistyöhön. Kannatan sitä varsinkin, kun se on tulosta kyseisten hallintoelinten käynnistämistä vapaaehtoisista aloitteista – joita voidaan siitä huolimatta edistää – ja kun se ei johda uusien hallinto- tai viranomaisrakenteiden muodostumiseen. Suhtaudun myönteisesti myös siihen, että tässä nimenomaisessa tapauksessa toimintaan sisältyy rajatylittävää naapuruuspolitiikkaa EU:n ulkopuolella.
+<P>
+Siksi äänestin tämän mietinnön puolesta.
+<P>
+Minun on kuitenkin selvennettävä yhtä näkökohtaa.
+<P>
+Näitä aloitteita ei saa edistää tai laatia sellaisen toimintamallin pohjalta, joka on ristiriidassa keskushallinnon kanssa. Toisin sanoen EU:n ei pidä tällaisilla edistämistoimilla pyrkiä romahduttamaan yksittäisten jäsenvaltioiden sisäisiä rakenteita, mistä on niille ainoastaan haittaa. Tämä ei ole, eikä siitä saa tulla, unionin tehtävä tai tarkoitus. 
+<SPEAKER ID="93" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   .  Euron käyttöönotosta annettu asetus on osoittautunut vakaaksi oikeudelliseksi kehykseksi kaikissa nykyisissä euroalueen maissa sillä siirtymäkaudella, jonka aikana nämä maat ovat ottaneet euron käyttöön yhteisenä valuuttana. Sitä voi siksi pitää sopivana perustana tuleville osallistuville maille, vaikka joitakin teknisiä mukautuksia tarvitaankin. Mikä tärkeintä, euroon siirtymisestä saatujen kokemusten jälkeen on toteutettava parempi tiedotusstrategia, jossa varaudutaan ilmoittamaan kansalaisille hintojen merkitsemisestä sekä euroissa että kansallisessa valuutassa, tekemään muutoksia kahden valuutan rinnakkaiskäyttöjaksolla ja pidentämään määräaikaa, joka pankeille annetaan euroon siirtymisen toteuttamista varten.
+<P>
+Siksi äänestin Rosatin mietinnön puolesta. 
+<SPEAKER ID="94" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="95" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   .  Neuvosto on säilyttänyt EU:n yleisen arvonlisäverokannan vähimmäistason 15 prosentissa lokakuusta 1992 alkaen, ja sen jälkeen jatkamalla määräaikaa kolmesti, vuoden 2005 loppuun saakka. Tämän komission ehdotuksen tarkoituksena on jatkaa määräaikaa vielä lokakuun 2010 loppuun, ja sille voimme antaa tukemme.
+<P>
+Vähimmäistason määräämisen alkuperäisenä tausta-ajatuksena oli muodostaa vaihteluväli, jonka enimmäistaso yhdenmukaistettaisiin yhtenäiseksi arvonlisäverokannaksi koko yhteisön alueella. Vaikka arvonlisäverokannan vaihteluväli on kaikissa jäsenvaltioissa 15–25 prosenttia, sen vahvistaminen vaikuttaisi jäsenvaltioiden verotukselliseen riippumattomuuteen ja niiden rahoitusvaihtoehtoihin yhteisön talousarvion yhteydessä.
+<P>
+Mietintöön sisältyy myös kysymys, joka nostaa jälleen kerran päätään ja on saanut meidät äänestämään mietintöä vastaan. Arvonlisäveron yhdenmukaistamisesta käytävää keskustelua yritetään hienovaraisesti vauhdittaa. Yhdenmukaistaminen kuitenkin heikentäisi nykyisten järjestelyiden muita joustotekijöitä, kuten alennettua arvonlisäverokantaa, jota sovelletaan yksittäisten jäsenvaltioiden erilaisten sosiaalisten ja kulttuuristen tarpeiden mukaisesti. Siksi olemme entistä painokkaammin päättäneet äänestää mietintöä vastaan. 
+<SPEAKER ID="96" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Tuen tätä mietintöä, jossa ollaan yksimielisesti komission ehdotuksen kannalla. Sen mukaan "liitteessä K" tarkoitettua kokeilua alennetun arvonlisäverokannan soveltamisesta tiettyihin erityisen työvaltaisiin palveluihin on laajennettava.
+<P>
+Valitettavasti Euroopan parlamentti on antanut arvonlisäveroa koskevan lausunnon, ja neuvosto jarruttaa edelleen tätä kysymystä. Tämän ehdotuksen tekee kiistanalaiseksi se, että mikäli neuvosto ei onnistu pääsemään yksimielisyyteen ennen joulukuun loppua, kokeiluluonteinen alennetun verokannan järjestelmä menettää laillisuutensa yhdeksässä jäsenvaltiossa. Tämä ei vaikuta Yhdistyneeseen kuningaskuntaan, ja siellä sovelletaan omia alennettuja verokantoja liitteen H mukaisesti. Olisin kaikesta huolimatta pettynyt, jos tämä järjestelmä epäonnistuisi.
+<SPEAKER ID="97" LANGUAGE="FR" NAME="Jean-Claude Martinez (NI )," AFFILIATION="kirjallinen">
+<P>
+   . – Ranskalaiset Maurice Lauré ja Georges Egret keksivät 50 vuotta sitten ihmiskunnan verotuksen historian suurimman teknisen ratkaisun: arvonlisäverojärjestelmän, jota sovelletaan yli 123 maassa, myös EU:n jäsenvaltioissa vuonna 1967 laaditusta ensimmäisestä direktiivistä alkaen.
+<P>
+Yhtenäismarkkinoilla pyrittiin 1990-luvulla perin yksisilmäisesti yhteiseen arvonlisäverokantaan, jonka rajat ylittävän oikeusjärjestelmän oli noudatettava kulutus- tai kohdejäsenvaltion oikeusjärjestelmän sijasta sen jäsenvaltion oikeusjärjestelmää, jossa liiketoimintaa harjoitettiin.
+<P>
+Vaarana oli, että perustettaisiin mantereen laajuinen korvausrahasto, sokkeloinen mammuttijärjestelmä yhteisön sisäisestä kaupasta saatavien arvonlisäverotulojen jakamiseksi.
+<P>
+Jäsenvaltioiden yksimielisyyden avulla neuvosto pystyi määräämään täysivaltaisessa kulutusmaassa kannettavia "tilapäisesti jatkuvia" veroja.
+<P>
+Nykyisessä tilanteessa olisi järkevää asettaa eurooppalaiset työntekijät verotuksellisesti samalle lähtöviivalle kansainvälisen työvoiman kanssa poistamalla sadan vuoden erehdyksen jälkeen järjetön työhön kohdistuva verotus.
+<P>
+Samoin nerokasta alennettuun arvonlisäverokantaan perustuvaa järjestelmää on käytettävä tuontitullien tavoin, jotta voidaan kantaa ostoihin sisältyvää vähennyskelpoista arvonlisäveroa viejämaiden hyväksi ja siten korjata globalisaation aiheuttamia taloudellisia ja sosiaalisia ongelmia, kuten uudelleensijoittamista ja työttömyyttä. 
+<SPEAKER ID="98" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="99" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   Tässä mietinnössä, jolle annan tukeni, kehitetään pk-yritysten rajatylittävää arvonlisäveron palautusjärjestelmää määräämällä aikaraja tiedonsaannille ja maksujen palauttamiselle. Toivottavasti se keventää pk-yritysten hallinnollista rasitusta. 
+<SPEAKER ID="100" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="101" LANGUAGE="EN" NAME="Mairead McGuinness (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, haluan kollegojeni puolesta todeta, että äänestimme tämän WTO:ta koskevan päätöslauselman puolesta sillä edellytyksellä, että 6 kohdassa mainittu YMP:n uudistus liittyy komission jäsenen Fischlerin johdolla vuonna 2003 toteutettuihin YMP:n uudistuksiin. 
+<SPEAKER ID="102" LANGUAGE="EN" NAME="Proinsias De Rossa (PSE )," AFFILIATION="kirjallinen">
+<P>
+   Tuen tätä WTO:n kokouksen valmisteluja koskevaa yhteistä päätöslauselmaa ja toivon sen tukevan kansainvälisen kaupan merkittävää panosta talouskehityksen edistämisessä ja köyhyyden lievittämisessä. Tuen erityisesti tarkistusta, jossa vaaditaan kaikkia teollisuusmaita poistamaan yhtäläisesti kaikenlainen vientikilpailu, kuten ruoka-apu, vientituet ja valtion kauppayhtiöt, asteittain vuoteen 2010 mennessä. On ratkaisevan tärkeää erottaa toisistaan kaupalliset ja julkiset palvelut, eikä vedensaannin, jätevesihuollon ja energian kaltaisia julkisia palveluita pidä purkaa tai heikentää GATS-neuvotteluissa.
+<P>
+Dohan kierroksen on onnistuttava, jotta monenvälinen kauppajärjestelmä vahvistuisi ja sen avulla varmistettaisiin maailmantalouden edistyminen ja sopusointuinen kehitys. Kauppa yhdistettynä kehitysapuun ja velkahuojennukseen on olennaisen tärkeä tekijä vuoden 2015 vuosituhattavoitteiden saavuttamisen kannalta, joten Dohan kierroksen kehitysnäkökohdissa on saavutettava konkreettisia edistysaskeleita Hongkongin ministerikokouksen aikana. 
+<SPEAKER ID="103" LANGUAGE="FR" NAME="Bruno Gollnisch (NI )," AFFILIATION="kirjallinen">
+<P>
+   . – Komissio valmistautuu uhraamaan maataloutemme ja elintarviketurvallisuutemme Dohan kierroksella. Se valmistautuu tukemaan palveluiden kauppaa koskevaa sopimusta – surullisenkuuluisaa GATS-sopimusta – joka ei ole mitään muuta kuin Bolkesteinin direktiivi maailmanlaajuisessa mittakaavassa. Komissio aikoo edelleen alentaa tuontitullejamme, jotka kuitenkin ovat jo maailman alhaisimmat, ja se puolustaa vain laimeasti unionin etuja kaikkia polkumyynnin muotoja, laitonta kopiointia ja väärentämistä vastaan tai unionin kilpailijoille asetettua ehdotonta vaatimusta noudattaa sosiaali- ja ympäristöalan vähimmäisnormeja.
+<P>
+Euroopan parlamentti puolustaa huomattavan itsepäisesti ja lyhytnäköisesti maailmanlaajuistumisen etuja ja käsittelee ainoastaan kehitysmaiden näkökulmasta talouden suojelemista ja monipuolistamista, välttämättömien kansallisten etujen tunnustamista, oikeutta päättää kaupan vapauttamisen rytmistä ja vauhdista tai vaikkapa työpaikkojen säilyttämistä.
+<P>
+Koska Euroopan parlamentti toistaa itseään, minäkin aion tehdä niin. Maailmankauppa on epäoikeudenmukaista. Se on epäreilua. Sen suurimpia uhreja ovat kuitenkin Euroopan maat ja niiden kansalaiset. 
+<SPEAKER ID="104" LANGUAGE="PT" NAME="Pedro Guerreiro (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   .  Tällä päätöslauselmalla Euroopan parlamentin enemmistö, Portugalin sosialistit, sosialidemokraatit ja kristillisdemokraatit mukaan luettuina, on jälleen vahvistanut haluavansa vapauttaa maailmankaupan, toisin sanoen avata markkinat talouskehityksessä toisistaan suunnattomasti poikkeavien maiden väliselle kilpailulle. Tämä ilahduttaa erityisesti suuria taloudellisia toimijoita ja finanssiryhmittymiä, jotka saavat jatkossakin suunnattomia voittoja. Enemmistö on yrittänyt hämätä ihmisiä vakuuttamalla, että kehitys edellyttää jyrkkälinjaisen kapitalismin mukaista kaupan vapauttamista, kun todellinen seuraus on ollut köyhyyden pahentuminen maailmanlaajuisen eriarvoisuuden lisääntyessä. YK:n kehitysohjelman varoitusten mukaisesti tämä suuntaus pahenee edelleen, jos jatkamme nykyisen vapaakauppapolitiikan linjaa.
+<P>
+Kaupan vapauttamisen tuloksena työntekijöiden ansiotaso heikkenee, ihmisten itsemääräämisoikeus vaarantuu, suuret monikansalliset yhtiöt omivat luonnonvarat ja luonnon monimuotoisuuden, ympäristö tuhoutuu, työttömyys lisääntyy, miljoonat pienviljelijät tekevät vararikon ja elintarvikeomavaraisuus ja -turvallisuus vaarantuvat.
+<P>
+Siksi tarvitaan erilaista kansainvälistä järjestystä, jolla vastataan kaikkia osapuolia hyödyttävän yhteistyön pohjalta jokaisen yhteisön tarpeisiin. Sen avulla varmistetaan, että ihmisillä on mahdollisuus kaikkein tärkeimpiin perusoikeuksiin kuten ruokaan, terveyteen, asuntoon, koulutukseen, kulttuuriin ja vapaa-aikaan. Jokainen valtio pystyy myös hyödyntämään voimavarojaan täysimittaisesti säilyttäen itsemääräämisoikeutensa, ja lisäksi varmistetaan ympäristönsuojelun edistäminen.
+<P>
+Kaikki tämä on vaakalaudalla... 
+<SPEAKER ID="105" LANGUAGE="DE" NAME="Jörg Leichtfried (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Tuomitsen Hongkongissa järjestettävän WTO:n kuudennen ministerikokouksen valmisteluista annetun päätöslauselman siinä muodossa kuin se yhteisesti hyväksyttiin ja esitettiin. Sen sisältämät vaatimukset ja perustelut ovat liian kapeakatseisia, ja haluaisin, että siinä esitettäisiin paljon pidemmälle meneviä vaatimuksia WTO:n sosiaalisesta ulottuvuudesta.
+<P>
+Dohan kierroksella pitäisi pohtia yhteiskunnan, ympäristön ja kulttuurin kaltaisia kysymyksiä, jotka eivät kuulu kaupan alaan. Kansainvälisesti tunnustettuja sosiaalisia vähimmäisnormeja ei pitäisi pitää yhtenä kaupan alan protektionismin muotona. Ne päinvastoin tekevät "reilumman" kaupan mahdolliseksi sillä edellytyksellä, että kaupan ja sosiaalialan välillä on vuorovaikutusta.
+<P>
+Mielestäni reilu ja oikeudenmukainen taloudellinen ja sosiaalinen kehitys riippuvat siitä, sisällytetäänkö työelämää koskevat vähimmäissäännöt sitovina määräyksinä WTO:n sopimuksiin.
+<P>
+Lapsityövoiman käytön kieltäminen, miesten ja naisten oikeus samapalkkaisuuteen, pakkotyön poistaminen, ammattiyhdistysten laillisuus sekä vapaus tehdä työehtosopimuksia kuuluvat kaikkein perustavimpiin työelämää koskeviin vähimmäissääntöihin, ja ILO edellyttää jo nyt useimpien maiden noudattavan niitä. Jos aiotaan kehittää oikeudenmukainen maailmankauppajärjestelmä, tämänkaltaisille työelämän vähimmäissäännöille on kansainvälisten ympäristönormien noudattamisen ohella annettava tasaveroinen asema vallitsevien WTO:n kauppasääntöjen kanssa. Säänneltyjen työnormien laatimisella on pelkästään myönteisiä vaikutuksia maiden talouteen, eikä niitä pidä ajatella haittana. 
+<SPEAKER ID="106" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin WTO:n ministerikokousta koskevan julkilausuman puolesta. Siinä viestitetään voimakkaasti, että kehityksen on säilyttävä keskeisenä keskustelunaiheena Dohan kierroksella.
+<P>
+Se merkitsee, että rikkaiden osapuolten, kuten EU:n, on toteutettava tarvittavat uudistukset vääristävien maataloustukien poistamiseksi ja maatalousmarkkinoidemme avaamiseksi köyhempien, maataloudesta riippuvaisten maiden tuotteille. Samanaikaisesti kaikkein köyhimpiä maita ei saisi epäoikeudenmukaisesti vaatia avaamaan kotimarkkinoitaan muille alueille.
+<P>
+Hongkongissa panokset ovat korkeat, eikä vähäisin niistä ole se, että meidän on osoitettava sitoutumisemme kehitysmaiden keskinäisen kaupan edistämiseen. Etelä–etelä-akselilla käytävällä kaupalla on edelleen merkittävä vaikutus maiden kehitykseen pitkällä aikavälillä, sillä kehitysmaat maksavat 70 prosenttia tullimaksuistaan toisille kehitysmaille. Lisäksi kehitysmaat saavat tällä alalla suuria voittoja, sillä kehitysmaiden välisen kaupan arvioidaan kasvavan kaksi kertaa maailmankauppaa nopeammin, ja sen osuus kehitysmaiden viennistä on jo noin 40 prosenttia. 
+<SPEAKER ID="107" LANGUAGE="FR" NAME="Jean-Claude Martinez (NI )," AFFILIATION="kirjallinen.">
+<P>
+   – Seattlen, Dohan ja Cancúnin jälkeen on Hongkongin ministerikokouksen vuoro jatkaa 60 vuotta kestäneitä virheellisiä ajattelutapoja ja menettelyjä tuontitullien vähentämiseksi, ja pitkällä aikavälillä niiden poistamiseksi. Tämä toimintamalli perustuu Ricardon teoriaan, joka on paitsi vailla varteenotettavaa tieteellistä perustaa myös jatkuvasti ristiriidassa tosiasioiden kanssa.
+<P>
+Tuontitullien jatkuvan alentamisen tarkoituksena on edistää taloudellista hyvinvointia. Silti, vuosikymmenien olemattomien tulliesteiden jälkeen, Afrikka köyhtyy köyhtymistään. Tuontitullien poistamisella on määrä rakentaa "kansakuntien vaurautta". Tästä huolimatta Pohjois-Amerikan vuoden 1994 vapaakauppasopimus – niin kutsuttu NAFTA-sopimus – tuhosi meksikolaiset maanviljelijät.
+<P>
+Ihmisten oletetaan kannattavan tätä tuontitullien alentamista. Silti Andien alkuperäiskansat esimerkiksi Ecuadorissa torjuivat marraskuussa 2005 vapaakauppasopimuksen, johon Bushin hallinto yrittää painostaa Kolumbiaa, Perua ja Ecuadoria liittymään.
+<P>
+Maailmanpankki, OECD, Kansainvälinen valuuttarahasto ja WTO selittävät vuolaasti, että tulliesteitä alentamalla nostetaan elintasoa. Banaanialan esimerkki kuitenkin kumoaa tämän väitteen. WTO ja WTO:n kokous edustavat yhdessä Ricardon, Adam Smithin ja muiden petollisten viidakon lain saarnamiesten kaunistelemia orjamarkkinoita. 
+<SPEAKER ID="108" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   .  Panen tyytyväisenä merkille, että näkemys kansainvälisen kaupan kehittämisen myönteisestä vaikutuksesta talouskasvuun, kehitykseen, työllisyyteen ja etenkin kansainvälisen suhdeympäristön parantamiseen saa laajaa kannatusta. Silti jotkut ryhmät esittävät vieläkin ohjelmia ja asialistoja, joilla vastustetaan yhtenä rintamana vapaampaa ja avoimempaa maailmankauppaa. Koska olisi harkitsematonta yhtyä niiden kuoroon, meidän on myös ymmärrettävä tämän tyytymättömyyden syyt, sillä politiikkaa harjoitettaessa ei voida sulkea silmiä tosiasioilta.
+<P>
+Tätä taustaa vasten nykyisessä yhteisessä päätöslauselmassa vastataan kaikkein tärkeimpiin huolenaiheisiin ja tehdään joitakin hyvin olennaisia huomioita. Omasta mielestäni EU:n on sekä omaksuttava selvä ja vankka neuvottelukanta että osoitettava vilpitöntä halua tukea talouden kehittämistä ja maailmankaupan kasvua. Siksi suhtaudun myönteisesti siihen, että tässä päätöslauselmassa puolustetaan kehitysmaiden talouskasvun tukemista ja korostetaan sosiaaliasioihin, ympäristöön, työhön, kulttuuriin ja, mikä tärkeintä, talouteen liittyviä näkökohtia.
+<P>
+Maailmankauppaa on lisättävä ja siitä on tehtävä oikeudenmukaisempaa pitäen samalla kuitenkin mielessä velvollisuutemme kansalaisia kohtaan. 
+<SPEAKER ID="109" LANGUAGE="EL" NAME="Georgios Toussas (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . – Päätöksiä, jotka EU tekee WTO:n ministerikokousta silmällä pitäen, luonnehtii erityisesti Yhdysvaltojen ja EU:n imperialistien tavoite käyttää maailmankaupan sääntöjä teollisuus- ja kehitysmaiden markkinoiden riistämiseen kansakuntien kustannuksella ja ympäristön kannalta katastrofaalisin seurauksin.
+<P>
+Euroopan kansanpuolueen (kristillisdemokraatit) ja Euroopan demokraattien ryhmän, Euroopan parlamentin sosialidemokraattisen ryhmän, Euroopan liberaalidemokraattien liiton ryhmän ja Unioni kansakuntien Euroopan puolesta -ryhmän tukema yhteinen päätöslauselmaesitys vahvisti EU:n vihamielisen toiminnan kansakuntien kustannuksella.
+<P>
+EU on valinnut palveluiden vapauttamisen, jota edistetään EU:n jäsenvaltioissa "Bolkesteinin direktiivin" mukaisesti WTO:ssa noudatettavaksi kansainväliseksi strategiaksi hyökätäkseen työehtosopimuksia ja työntekijöiden yleisiä oikeuksia vastaan.
+<P>
+Leikkaamalla rajusti maataloustuotteiden tukia YMP:n tarkistamisen ja maataloustuotannon yleisen rakenneuudistuksen perusteella monopoliyritysten hyödyksi EU aikoo tehdä selvää jälkeä pienistä ja keskisuurista maatiloista.
+<P>
+Samalla lääkekonsernien hallitseva monopoliasema jatkuu.
+<P>
+WTO on imperialistinen kansainvälinen elin, jonka tarkoituksena on varmistaa suuryritysten valta-asema ja niiden kannattavuuden säilyminen.
+<P>
+Näistä syistä Kreikan kommunistiseen puolueeseen kuuluvat Euroopan parlamentin jäsenet äänestivät WTO:ta koskevaa päätöslauselmaa vastaan edistäen samalla työntekijöiden taistelunhalun kehittymistä ja vahvistaen imperialismin ja monopolien torjuntaa, jotta ihmiset saisivat itse päättää omasta tulevaisuudestaan laatimalla yhteiseen etuun perustuvia sopimuksia. 
+<SPEAKER ID="110" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="111" LANGUAGE="EL" NAME="Athanasios Pafilis (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . – Yhteisessä päätöslauselmaesityksessä pyritään loukkaavalla ja anteeksiantamattomalla tavalla parjaamaan Vietnamin sosialistista tasavaltaa syyttämällä sitä ihmisoikeusloukkauksista.
+<P>
+Tavoitteena on painostaa ja saada aikaan otollinen ilmapiiri sosialististen ja ruohonjuuritason saavutusten mitätöinnille, jotta voidaan luoda edellytykset maan riistämiselle. EU:n rahoittaman "opposition" muodostamiseen perustuva toimintastrategia on hyvin tiedossa.
+<P>
+On häikäilemättömän röyhkeää mainita Vietnamin kansan amerikkalaisesta imperialismista saavuttaman suurenmoisen voiton 30. vuosipäivä ja syyttää hallitusta demokratiavajeesta. Vietnamin sankarillinen kansa maksoi itsenäisyydestään miljoonilla imperialistien murhatöiden vaatimilla ihmisuhreilla. Miksi kukaan ei puolusta kymmenientuhansien surmattujen vietnamilaisten ja Agent Orange -kemikaalin käytön takia tuhansien syntymästään saakka vaikeasti vammautuneiden lasten ihmisoikeuksia? Miksi muuten niin herkästi reagoiva EU ei pyydä Yhdysvaltoja ja monikansallista Monsanto-yhtymää maksamaan korvauksia kemiallisen ja biologisen sodankäynnin uhreille?
+<P>
+Euroopan ja Yhdysvaltojen imperialistit eivät koskaan anna anteeksi maalle, joka pystyi murskaamaan kolme imperialismin mahtitekijää, Yhdysvallat, Ison-Britannian ja Ranskan. Ilmaisemme tukemme ja solidaarisuutemme tälle sankarilliselle kansalle, joka symboloi ihmiskunnan historiaa. 
+<SPEAKER ID="112" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="113" LANGUAGE="FR" NAME="Mario Borghezio (IND/DEM )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, mielestäni on erittäin valitettavaa, että de Palacio on komission puolesta jo lakkauttanut olympiarauhan noudattamisen valvonnan Val di Susassa vuoden 2006 talviolympialaisten aikana. Jopa Piemonten alueella toivottiin tätä rauhaa, jotta jännitteet ja levottomuudet, joita parhaillaan rakenteilla olevan Lyonin ja Torinon välisen suurnopeusrautatieyhteyden yleinen vastustus aiheuttaa, saataisiin loppumaan kisojen ajaksi. Itsenäisyys Val di Susalle, vapaa Piemonte! 
+<SPEAKER ID="114" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Suhtaudun myönteisesti tähän Torinon vuoden 2006 talviolympialaisiin liittyvään päätöslauselmaan olympiarauhasta. Rauha on olympiahengen keskeinen vertauskuva, ja sitä on vaalittava ja kunnioitettava. 
+<SPEAKER ID="115" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="116" LANGUAGE="FR" NAME="Jean-Pierre Audy (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . – Äänestin ilomielin kollegani Martensin esittämän ja kannattaman kehitystä ja urheilua koskevan päätöslauselman puolesta, sillä urheilu on yksi niistä aloista, joka yhdistää ihmiset ja ohjaa heitä eteenpäin kohti suurempaa viisautta ja edistystä. Tämän päätöslauselman pitäisi toimia lähtökohtana EU:n kunnianhimoiselle urheilupolitiikalle, jossa turvaudutaan jäsenvaltioiden kansallisiin urheiluliittoihin varsinkin nuorisotoiminnassa. 
+<SPEAKER ID="117" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin tämän päätöslauselman puolesta. Mielestäni tarvitaan lisätoimia, jotta kannustetaan nuorison aktiivista osallistumista urheilutoimintaan. Myös naisia olisi rohkaistava osallistumaan entistä enemmän aiemmin miesvaltaiseen toimintaan. Lopuksi totean, että vaikka asia ei kuulukaan EU:n toimivaltaan, jäsenvaltioita olisi kannustettava lisäämään toimia viheralueiden ja urheilukenttien säilyttämiseksi suurkaupunkien taajama-alueilla. 
+<SPEAKER ID="118" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="119" LANGUAGE="NL" NAME="Frank Vanhecke (NI )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, mielestäni jotain olennaista puuttuu mietinnöstä, jonka esittelijä Duff laati Euroopan komission hyväksymistä koskevista suuntaviivoista. Muistutan teitä etenkin siitä, miten Italian valitsema komission jäsenehdokas Buttiglione suorastaan teilattiin häntä vastaan kohdistuneen häpeällisen parjauksen takia. Toiminta muistuttaa pitkälti Espanjan inkvisitiota, sillä syynä eivät olleet jäsenehdokas Buttiglionen mahdollisesti noudattamat toimintalinjat vaan kysymys siitä, kätkeytyikö hänen syvimpiin ja sisimpiin uskomuksiinsa sellaisia näkemyksiä, jotka uhmaisivat tätä kammottavaa poliittista korrektiutta.
+<P>
+Buttiglionen teilaaminen oli jälleen yksi vasemmistototalitarismin saarnamiesten käyttämistä tukahduttamistoimista. Jos Euroopan parlamentti toimisi rehellisesti ja johdonmukaisesti, tässä mietinnössä todettaisiin, ettei Euroopan komission jäsenillä saa olla muita kuin poliittisesti korrekteja ajatuksia. 
+<SPEAKER ID="120" LANGUAGE="NL" NAME="Philip Claeys (NI )." AFFILIATION="(Puhemies keskeytti puhujan.)">
+<P>
+   – Arvoisa puhemies, Duffin mietintö tuo mieleeni William Shakespearen kuolemattomat sanat "paljon melua tyhjästä". Riippumattomuus, pätevyys ja Euroopan asiaan sitoutuminen ovat kaikki hienoja ominaisuuksia, mutta olen pannut merkille, että käytännössä parlamentti voi muitta mutkitta hyväksyä sellaisia henkilöitä kuin Louis Michel, joka aiemmin Belgian ulkoasiainministerinä toimiessaan hyökkäsi juuri eurooppalaisen yhteistyön käsitettä vastaan mustamaalaamalla Itävaltaa. Komission jäsenen Michelin tiedetään yleisesti pitävän Euroopan unionin aseidenviennin käytännesääntöjä pelkkänä paperinpalana. Michel totesi maaliskuisella pikavierailullaan Kuubaan, etteivät asiat siellä ole niin huonosti ja että ihmisoikeusjärjestöjen pitäisi lakata uhmaamasta presidentti Castroa. Onneksi etiikka ja ihmisoikeuksien kunnioittaminen eivät ole nimenomaisia edellytyksiä komission jäsenen virkaan nimittämiselle.
+<SPEAKER ID="121" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   .  Siitä huolimatta, että parlamentti arvioi ne periaatteet, perusteet ja vaatimukset, joita komission jäsenten kollegion on noudatettava, on anteeksiantamatonta, että parlamentti hyväksyy mietintöjä, joissa todetaan, että "perustuslaki tulee voimaan 1. marraskuuta 2006". Vain sairaalloinen liittovaltiota ja uusliberalismia koskeva päähänpinttymä voi saada parlamentin enemmistön pitämään itsepintaisesti kiinni tästä ajatuksesta jopa sen jälkeen, kun Ranskassa ja Alankomaissa kärsityt tappiot estivät niin kutsutun Euroopan perustuslakisopimuksen hyväksymisen.
+<P>
+Arviointikriteereistä ja -periaatteista on esitetty joitakin tervetulleita näkökohtia, mutta emme saa unohtaa sitä, että ehdokkaiden pätevyyden, sitoutuneisuuden ja soveltuvuuden taustalla ovat heidän joko yksilökohtaiset tai yhteiset toimintalinjansa. Tämä on arviointiperusteidemme tärkein kriteeri. 
+<SPEAKER ID="122" LANGUAGE="FR" NAME="Bruno Gollnisch (NI )," AFFILIATION="kirjallinen">
+<P>
+   – Huomautan, että Ranskan ja Alankomaiden kansalaisten torjuttua Euroopan perustuslakisopimuksen selkeällä enemmistöllä kansanäänestyksessä tämä teksti mitätöitiin lopullisesti. Toistuvat viittaukset perustuslakitekstiin parlamentin mietinnöissä ovat demokratian kieltämistä. Niiden, jotka väittävät edustavansa eurooppalaisia, pitäisi ennen muita ottaa huomioon eurooppalaisten selvästi ilmaisemat toiveet.
+<P>
+Toiseksi kannattaessaan esimerkiksi Turkin jäsenyyttä, väestön lisäämiseen tarkoitettua maahanmuuttoa ja vieläpä Bolkesteinin direktiivin alkuperämaaperiaatetta Euroopan parlamentti ei edusta Euroopan yleistä mielipidettä eikä valitettavasti takaa unionin kitkatonta toimintaa. Parlamentti ei hyväksynyt Santerin komissiota. Se ryhtyi valikoivaan ajojahtiin Barroson komission nimittämisen yhteydessä – ei unionin hyväksi vaan ideologisista syistä ja toimielinten välisen valtataistelun takia.
+<P>
+Olennaisinta on se, ettei unioni ole valtio. Komissio ei ole hallitus, eikä ehdottomasti saakaan olla sellainen. Se on ainoastaan virkamieskollegio. Se, että parlamentti antaa hyväksyntänsä komission kokoonpanolle ja sen puheenjohtajalle, on edelleen pelkkä veruke. Se ei anna komissiolle minkäänlaista demokraattista legitiimiyttä. 
+<SPEAKER ID="123" LANGUAGE="DE" NAME="Andreas Mölzer (NI )," AFFILIATION="kirjallinen">
+<P>
+    Komission viimevuotisen nimityksen yhteydessä tehdyistä virheistä ja erehdyksistä on otettava opiksi.
+<P>
+Kritiikki on tarpeen etenkin siitä syystä, että pätevää ehdokasta vaadittiin vetäytymään, koska hän piti tiukasti kiinni vanhoillisesta uskonnollisesta vakaumuksestaan, kun taas epäpätevä stalinisti sai pitää virkansa. Ei voida mitenkään hyväksyä, että arveluttavilla ehdokkailla – esimerkiksi niillä, jotka salaavat osallistumisensa hämäräperäiseen puoluerahoitukseen – ei ole mitään vaikeuksia tulla hyväksytyksi. Tulevien komission jäsenten pitäisi kuitenkin täyttää korkeimmat moraalivaatimukset. Tähän joukkoon eivät sovi ne, jotka on tuomioistuimessa todettu syyllisiksi.
+<P>
+On myös kiusallista, ettei tulevien komission jäsenten pätevyyden ja soveltuvuuden arviointimenetelmistä ole päästy yksimielisyyteen, ja sen vuoksi arviointiperusteet vaihtelevat. Tämä pätee sitäkin suuremmalla syyllä, kun yhdenmukaiset perusteet ja vaatimukset olisivat mitätöineet joidenkin ehdokkaiden mahdollisuudet.
+<P>
+Parlamentille on viimeinkin annettava tilaisuus arvioida komission jäsenehdokkaita yksilöinä sen sijaan, että meille tyrkytetään kertaäänestystä koko komissiosta. Lisäksi on oleellista, että me parlamentin jäsenet sovimme heille yhdenmukaiset arviointiperusteet. Myös jäsenvaltioiden on valittava ehdokkaat huolellisemmin ja ilmoitettava mukaan ainoastaan ne haastajat, jotka todella kykenevät tehtävään. Tähän päästäisiin varmasti laatimalla lista, josta sopivimmat ehdokkaat voitaisiin valita. Tämä on ainoa tapa estää tulevat farssit. 
+<SPEAKER ID="124" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="125" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   .  Meriliikenne on Portugalille olennaisen tärkeää merkittävän rannikkoalueemme takia. Yhtä lailla se on tärkeää koko unionille, jolla on valtavan pitkä meriraja.
+<P>
+Siksi on mielestäni ratkaisevan tärkeää varmistaa Euroopan merien tuottavuus ja kilpailukyky Lissabonin strategian mukaisesti.
+<P>
+Meriliikenteen alan kilpailukykyä koskevissa yhteisön toimissa on otettava huomioon uudet merenkulkuvaltiot kuten Kiina, Korea ja Taiwan. Siksi tarvitsemme välineitä, joilla suojataan liiketoiminnan uusia yhteistyöpuitteita unioniin ja sieltä pois suuntautuvien linjaliikennepalvelujen harjoittajien välillä.
+<P>
+Näin ollen äänestin Kratsan mietinnön puolesta. 
+<SPEAKER ID="126" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="127" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   .  Haluamatta sekaantua verotuksen yhdenmukaistamista ja yleistä arvonlisäverojärjestelmää koskevaan keskusteluun totean, että tämän päätöslauselman tärkein tavoite on jatkaa vielä vuodella – vuoden 2006 loppuun – niiden jäsenvaltioiden koeaikaa, jotka päättivät kokeilla alennetun arvonlisäverokannan soveltamista tiettyihin työvaltaisiin palveluihin.
+<P>
+Koska tämä on kertaluonteinen toimenpide, sillä voidaan mielestämme edistää työllisyyskehitystä ja vähentää harmaata taloutta. Tässä vaiheessa on liian aikaista arvioida tämän toimenpiteen sosioekonomista vaikutusta, sillä se lisää myös epäsuoran verotuksen joustavuutta.
+<P>
+On pidettävä mielessä, että tämän toimenpiteen äkillinen lopettaminen saattaisi nostaa hintoja. Näitä järjestelyitä pitäisi soveltaa kaikkiin nykyisiin jäsenvaltioihin, sillä uusia jäsenvaltioita ei pitäisi syrjiä. Sitä ei voitaisi hyväksyä. 
+<SPEAKER ID="128" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Istunto päättyi klo 11.50.)">
+<P>
+   – Julistan Euroopan parlamentin istuntokauden keskeytetyksi.

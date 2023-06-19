@@ -1,0 +1,66 @@
+<CHAPTER ID="023">
+Hälsoproblem i samband med elektromagnetiska fält (kortfattad redogörelse)
+<SPEAKER ID="274" NAME="Talmannen">
+Nästa punkt är en kort presentation av ett betänkande av Frédérique Ries, för utskottet för miljö, folkhälsa och livsmedelssäkerhet, om hälsoproblem i samband med elektromagnetiska fält.
+<SPEAKER ID="275" NAME="Frédérique Ries" LANGUAGE="FR">
+Herr talman! Innan jag går in på själva sakfrågan skulle jag vilja säga ett par ord om det formella, om ni tillåter. Jag är inte den första och kommer säkerligen inte att bli den sista som sjunger ut om artikel 45 i arbetsordningen, som förhindrar att vi i kväll debatterar en fråga som icke desto mindre är ytterst viktig för människor inom EU.
+<P>
+Ingen debatt, inga talare som företräder de politiska grupperna, ingenting. Jag vill därför trots allt - och även om de inte är här, vilket jag beklagar - tacka Inés Ayala Sender, Caroline Lucas, Adamos Adamou, Kathy Sinnott, Anne Ferreira och även Lambert van Nistelrooij. De har ingen kammare, eftersom kammaren är så gott som tom när klockan närmar sig elva på kvällen. Snyggt jobbat också att lägga en punkt som är av stort intresse och berör miljoner medborgare i EU klockan elva på kvällen.
+<P>
+Nu till själva sakfrågan. På tio år har parlamentet inte berört denna fråga. Därför var det på tiden, för tio år är närmast en evighet när det gäller ny teknik, då vi har sett en explosion av trådlösa apparater, mobiltelefoner, wi-fi, bluetooth, basstationer och högspänningsledningar. Dessa vågor finns överallt omkring oss och medför obestridliga fördelar, som jag inte för ett ögonblick ifrågasätter i detta betänkande, men de väcker också allvarliga frågor om hur de påverkar vår hälsa, och det måste komma fram.
+<P>
+Låt oss därför vara tydliga med att det är inom ett rätt minerat fält som jag har fått utarbeta det här betänkandet, med en allt större oenighet kring dessa lågfrekventa vågors hälsorisker och en oförmåga att komma överens även inom forskarsamhället.
+<P>
+Här följer några exempel på de ambitiösa förslag som jag hoppas kommer att vinna stöd i morgon: skydd av riskutsatta områden och sårbara personer, det vill säga skolor, daghem, ålderdomshem, konvalescenthem och givetvis hälsovårdsinrättningar.
+<P>
+Etiska överväganden är också viktiga i denna fråga, och vi måste införa förfaranden för att garantera att den vetenskapliga forskningen och expertisen är oberoende. Vi måste också verka för ett förändrat beteende när det gäller mobiltelefoner genom att uppmuntra användningen av headset, begränsa användningen av mobiltelefoner bland barn och ungdomar, lära dem säkrare tekniker, övervaka vissa marknadsföringskampanjer och förmå operatörer och elbolag att använda basstationer och master gemensamt.
+<P>
+Det är emellertid en sak jag beklagar, och den är viktig eftersom den berör det inledande stycket i mitt betänkande där jag kräver en översyn av gränsvärdena. Tyvärr fick jag inget stöd från mina kolleger i utskottet för miljö, folkhälsa och livsmedelssäkerhet, trots att - vilket jag måste påpeka - samma text ord för ord och praktiskt taget vann enhälligt stöd vid vårt plenarsammanträde den 2 september förra året, då i samband med ett annat betänkande om den europeiska handlingsplanen för miljö och hälsa 2004-2010.
+<P>
+Kommissionens nuvarande politik att sticka huvudet i sanden - jag hoppas att kommissionsledamoten ursäktar den formuleringen - bidrar verkligen inte till att skapa den klarhet EU-medborgarna väntar på, tvärtom fortsätter oenigheten bland experterna och antalet fall som går till domstol ökar, där domarna i vissa fall gynnar operatörerna och i andra fall lokala boendeföreningar.
+<P>
+Sammanfattningsvis är det en status quo-strategi som förespråkas av Världshälsoorganisationen och även av kommissionen, med rendez-vous-klausulen om en översyn 2015 - i själva verket ytterligare ett decennium - för att se om en ständig exponering för denna blandning av lågfrekventa vågor kan orsaka cancertumörer. Därför är detta inte rätt strategi. Jag tycker att det verkar lättsinnigt och jag hoppas av hela mitt hjärta att vi inte ska behöva höra att det var ansvarsfullt när vi konfronteras med eventuella hälsoproblem i framtiden.
+<P>
+Försiktighetsprincipen som vårt förslag bygger på är ingen vänta och se-strategi, utan en princip grundad på åtgärder och sakkunskap för att minska osäkerheten. Det är denna dynamiska och progressiva definition vi i dag försvarar inom de elektromagnetiska vågornas känsliga område. Därför har det alternativa resolutionsförslag som lagts fram av Gruppen De gröna/Europeiska fria alliansen mitt fulla stöd - det måste jag klargöra. Jag kan tillägga att det går tillbaka på mitt ursprungliga förslag om att sänka gränsvärdena, något som nio medlemsstater och en rad regioner - varav två i min omedelbara närhet, nämligen Flandern och Bryssel - redan nu gör, vilket innebär att de tillämpar ett gränsvärde på tre volt per meter i stället för de 41 volt per meter som är tillåtna enligt 1999 års rekommendation.
+<P>
+Icke desto mindre är jag Europaparlamentets föredragande i denna fråga, och jag vill framför allt framhålla övriga framsteg i detta betänkande, som har antagits i utskottet. Det är självklart också dem jag vill be er att rösta ja till i morgon.
+<P>
+Avslutningsvis vill jag sända två budskap. Frågan om elektromagnetiska fält och deras påverkan är fortfarande öppen, och jag är övertygad om att nästa Europaparlament kommer att ta upp frågan igen. EU måste lugna sina medborgare och ta över den här diskussionen, som för närvarande endast förs i olika domstolar.
+<SPEAKER ID="276" NAME="Günter Verheugen">
+kommissionens vice ordförande. - (DE) Herr talman, ärade ledamöter! Jag vill uppriktigt tacka Europaparlamentet och i synnerhet Frédérique Ries, föredraganden för detta initiativbetänkande om elektromagnetiska fält.
+<P>
+Frågan om elektromagnetiska fält är verkligen mycket kontroversiell i många EU-medborgares ögon, även om många andra, inklusive vi själva, även ser den som synnerligen viktig.
+<P>
+Komplexiteten i denna fråga och de starka känslor som är förknippade med den gör det särskilt viktigt att inhämta exakta uppgifter och utvärdera dem noggrant, balanserat och objektivt.
+<P>
+Därför följer kommissionen denna fråga fortlöpande och mycket uppmärksamt, eftersom det faktiskt är kommissionens skyldighet att göra detta enligt rådets rekommendation 1999/519.
+<P>
+Av det skälet inhämtar kommissionen regelbundet information från de oberoende vetenskapliga kommittéerna för att hålla sig à jour med de möjliga riskerna med elektromagnetiska fält. Det nyligen avgivna yttrandet om denna fråga från vetenskapliga kommittén för nya och nyligen identifierade hälsorisker - som är den behöriga vetenskapliga kommittén -antogs så sent som i januari i år.
+<P>
+Här skulle jag vilja lägga till att kommissionen mycket uppmärksamt följer händelseutvecklingen i medlemsstaterna och de senaste rättsliga avgörandena mot mobiltelefonbolag i Frankrike, och noga bevakar de sänkta gränsvärdena för exponering vid basstationerna i huvudstadsregionen Bryssel.
+<P>
+Jag kan försäkra parlamentet att kommissionen omsorgsfullt kommer att uppfylla de krav som ställs i resolutionen.
+<P>
+Låt mig bara i all korthet beröra ett par punkter.
+<P>
+För det första finns det redan ett ramverk på EU-nivå där vi fastställer gränsvärden för exponering och produktionsstandarder samt en skyddsnivå i termer av kända effekter.
+<P>
+För det andra ger aktuella vetenskapliga studier inget stöd för att ändra den vetenskapliga grunden för dessa gränsvärden.
+<P>
+Kommissionen kommer också att fortsätta att noga följa de vetenskapliga framstegen inom detta område för att kunna fastställa om gränsvärdena för exponering behöver justeras.
+<P>
+För det tredje har kommissionen åtagit sig att intensifiera dialogen med aktörerna om elektromagnetiska vågors eventuella hälsoeffekter. Dessutom vill kommissionen samarbeta med huvudaktörerna för att göra det möjligt att bemöta allmänhetens oro på ett bra sätt.
+<P>
+Jag vill vara tydlig med att vi också strävar efter att främja forskningen inom detta område för att undanröja återstående osäkerhet.
+<SPEAKER ID="277" NAME="Talmannen">
+Punkten är härmed avslutad.
+<P>
+Omröstningen kommer att äga rum i morgon.
+<P>
+Skriftliga förklaringar (punkt 142)
+<SPEAKER ID="278" NAME="Véronique Mathieu  " LANGUAGE="FR">
+Vi måste tillstå att det för närvarande finns få tillförlitliga och erkända vetenskapliga rön om hur människokroppen påverkas av magnetfält. Icke desto mindre ingår de i vår vardagstillvaro (mobiltelefoner och trådlös teknik), 80 procent av medborgarna anser sig inte vara tillräckligt informerade om deras möjliga påverkan och 50 procent säger sig vara oroade.
+<P>
+Hittills har forskarsamhället endast kunnat avge splittrade och ibland motsägelsefulla yttranden och de offentliga myndigheterna har inte på allvar uppmärksammat problemet. Jag ger därför mitt fulla stöd till detta betänkande, i vilket medlemsstaterna uppmanas att regelbundet justera gränsvärdena inom dessa områden och där man i enlighet med försiktighetsprincipen rekommenderar ett förbud mot att installera antenner i sårbara områden (skolor och hälsovårdsinrättningar).
+<P>
+Jag är också positiv till att kommissionen lanserar en vetenskaplig studie för att bättre bedöma effekterna av exponering för elektromagnetiska fält. Offentliga myndigheter, tillverkare och konsumenter måste få korrekt information för att kunna bedöma riskerna och om så krävs vidta lämpliga skyddsåtgärder. Det är också viktigt att utfärda rekommendationer grundade på bästa praxis för att förbättra hälsoskyddet för medborgarna, vare sig det gäller användare av utrustning eller boende i närheten av basstationer och högspänningsledningar.

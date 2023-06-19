@@ -1,0 +1,6 @@
+<CHAPTER ID="009">
+Balsošanas laiks
+<SPEAKER ID="904" NAME="Priekšsēdētājs">
+Nākamais jautājums ir balsošanas laiks.
+<P>
+(Balsojuma rezultāti un informācija par balsojumu ( sk. protokolu))

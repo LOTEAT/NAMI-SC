@@ -1,0 +1,244 @@
+<CHAPTER ID="016">
+PCB atkritumeļļu izmantošana Īrijas pārtikas otrreizējās pārstrādes rūpnīcā (debates) 
+<SPEAKER ID="369" NAME="Priekšsēdētāja">
+Nākamais punkts ir Komisijas ziņojums par PCB atkritumeļļu izmantošanu Īrijas pārtikas otrreizējās pārstrādes rūpnīcā.
+<SPEAKER ID="370" NAME="Androulla Vassiliou">
+Komisijas locekle. - Priekšsēdētājas kundze, Komisija pilnībā apzinās polihlorbifenilu (PCB) draudus cilvēka veselībai un videi.
+<P>
+Tādi incidenti kā Beļģijā 1999. gadā un Īrijā pagājušajā gadā vēlreiz pierāda, ka pat neliels daudzums PCB var radīt nopietnu barības un pārtikas ķēdes piesārņojumu.
+<P>
+Pēdējās trīs desmitgadēs Eiropas Savienība ir pieņēmusi tiesību aktus, lai samazinātu PCB un dioksīnu nonākšanu vidē, tādējādi mazinot to ietekmi uz cilvēkiem un aizsargājot cilvēku veselību un vidi.
+<P>
+Tomēr, tā kā PCB saturošas iekārtas parasti ir ar garu paredzamo mūža ilgumu, pat pēc 1985. gada PCB izmantošanas aizlieguma ievērojams tā daudzums joprojām atrodas lietošanā un ir viens no iespējamajiem avotiem ietekmei uz cilvēku.
+<P>
+It sevišķi 1996. gada septembra Direktīva 96/59/EK par polihlorbifenilu apglabāšanu piedāvā piemērotus instrumentus, lai nodrošinātu, ka PCB saturošu iekārtu un atkritumu apglabāšana notiek pēc iespējas ātrāk, bet lielgabarīta iekārtu apglabāšana - līdz 2010. gadam.
+<P>
+Tomēr šo tiesību aktu īstenošanā ir vērojamas būtiskas nepilnības. Komisijai bija jāuzsāk pienākumu neizpildes procedūras pret lielāko daļu dalībvalstu jautājumā par pienākumu veikt PCB saturošu lielgabarīta iekārtu uzskaiti un PCB apglabāšanas plāniem.
+<P>
+Šo pienākumu neizpildes procedūru rezultātā kopējā situācija uzlabojās. Patlaban joprojām tiek veikta izmeklēšana tikai divās šādās lietās, un jau tuvākajā laikā ir plānota to izbeigšana.
+<P>
+Visas dalībvalstis ir informējušas par saviem plāniem attiecībā uz uzskaitīto iekārtu un tajās esošo PCB attīrīšanu un/vai apglabāšanu, kā arī par tādu iekārtu savākšanu un tālāku apglabāšanu, kuras satur mazāk nekā 5 kubikdecimetrus PCB (kā noteikts minētās direktīvas 11. pantā).
+<P>
+Tomēr ir jāpieliek papildu pūles. Lai nodrošinātu PCB apglabāšanas plānu efektivitāti, dalībvalstīm turpmāk kopumā jāuzlabo esošo tiesību aktu par PCB un Eiropas tiesību aktu par atkritumiem īstenošana.
+<P>
+Komisija īpašu uzmanību pievērš pienācīgai ES tiesību aktu par atkritumiem īstenošanai un aktīvi atbalsta dalībvalstīs pieņemto tiesību aktu par atkritumiem īstenošanu.
+<P>
+Regula Nr. 183/2005 par barības higiēnu nosaka obligātās prasības barības higiēnai vispirms barības primārajā ražošanā (lauku saimniecībās), tālāk ražošanā, pārstrādē un izplatīšanā, kā arī, visbeidzot, dzīvnieku barošanā.
+<P>
+Barības nozares uzņēmumiem (FBO) būtu jāievieš un jāievēro procedūras saskaņā ar riska analīzes un kritisko kontrolpunktu noteikšanas (HACCP) principiem. Tas nozīmē kritisko kontrolpunktu noteikšanu un arī iespējamā ķīmiskā piesārņojuma noteikšanu gadījumos, kad izmanto tiešās karsēšanas procesu barības sastāvdaļu žāvēšanā.
+<P>
+Barības nozares uzņēmumi paši ir atbildīgi par šo nosacījumu ievērošanu, lai gan par šo uzņēmumu piemēroto pasākumu atbilstību jāpārliecinās dalībvalstu kompetentajām iestādēm. Vairumā gadījumu tas būtu jādara, apmeklējot uzņēmumu.
+<P>
+Savukārt Regulā par pārtikas un barības oficiālo kontroli paredzētie oficiālo kontroļu organizēšanas pamatprincipi nosaka, ka dalībvalstīm jāveic regulāras kontroles, pamatojoties uz iespējamo apdraudējumu un tam atbilstošā biežumā. Šajās oficiālajās kontrolēs jābūt iekļautām arī barības uzņēmumu kontrolēm.
+<P>
+Komisijas līdzdalība ir noteikta Regulas (EK) Nr. 882/2004 par pārtikas un barības oficiālo kontroli 45. pantā. Komisijas eksperti veic revīzijas dalībvalstu kompetentajās iestādēs, lai pārliecinātos, ka kontroles notiek saskaņā ar Kopienas tiesību aktiem.
+<P>
+Saskaņā ar šo pantu Īrijā 2008. gadā tika veikta vispārēja revīzija vairākās nozarēs, un ziņojums drīzumā būs pieejams. Par revidējamajām iestādēm kopīgi lemj katras valsts kompetentās iestādes un Pārtikas un veterinārā dienesta (FVO) revidenti.
+<P>
+Šeit apspriestā rūpnīca nebija no tām, kuras bija paredzēts pārbaudīt 2008. gada vispārējā revīzijā.
+<P>
+Incidentā ar dioksīna piesārņojumu Īrijā par piesārņojuma avotu tika atzīta dzīvnieku barošanai izmantotā piesārņotā rīvmaize. Rīvmaizi ražoja no konditoreju atkritumiem (cepumiem, kam beidzies derīguma termiņš), izmantojot tiešās karsēšanas procesu. Tiešās karsēšanas procesā degšanas gāzes ir tiešā kontaktā ar žāvējamo barības materiālu. Acīmredzot izmantotā degviela bija piesārņota ar PCB transformatoreļļu. Katra atsevišķa posma atbildība - no rīvmaizes ražotāja līdz eļļas piegādātājam - tiks noteikta notiekošajā oficiālajā izmeklēšanā.
+<P>
+Es vēlos uzsvērt visaptverošas pieejas milzīgo nozīmi risku klasificēšanā, kas ietver arī iespējamos riskus ne tikai no ienākošā materiāla, šajā gadījumā - rīvmaizes, bet arī no paša procesa.
+<SPEAKER ID="371" NAME="Mairead McGuinness">
+PPE-DE grupas vārdā. - Priekšsēdētājas kundze, vēlos pateikties Komisijai par ļoti detalizēto ziņojumu, kuru tā sniedza par šo jautājumu.
+<P>
+Uzskatu, ka iemesls šāvakara debatēm ir vēlēšanās mācīties no savām kļūdām un pārliecināties, ka tās vairs neatkārtosies. Problēma ir apstāklī, ka 1999. gadā, kad saskārāmies ar šo situāciju Beļģijā, uzskatījām, ka tiesību aktus esam sakārtojuši tādā veidā, ka šāds incidents vairs nevar atkārtoties. Tomēr patlaban mēs esam tur, kur esam, un apzināmies sistēmas nepilnību sekas ne tikai naudas izteiksmē, kas ir ļoti nozīmīgi gan Eiropas Savienībai, gan Irish Exchequer, gan nodokļu maksātājiem, bet arī kā patērētāju uzticēšanās zaudēšanu un kopējos zaudējumus Īrijas pārtikas ražošanas nozarei saistībā ar tirgu.
+<P>
+Esmu priecīga, ka patlaban progresējam un atgūstam mūsu labo vārdu starptautiskajā tirgū, bet es arī labi apzinos, ka lauksaimnieki visā Eiropas Savienībā saskaras ar problēmām, kuras radījuši sarežģījumi Īrijā. Tādēļ uzskatu, ka šāvakara debates nav tikai par situāciju Īrijā. Manuprāt, no jūsu ziņojuma ir skaidrs, ka šāda problēma, kas radās Īrijā, var rasties arī citās dalībvalstīs. Tā ka tieši ar to, es domāju, arī būtu jāsāk debates.
+<P>
+Mēs zinām, ka šai eļļai nevajadzēja nonākt dzīvnieku barības ķēdē. Tagad mēs cenšamies noskaidrot, kā tas varēja notikt, un, kā jūs pareizi sakāt, to jāizmeklē policijai starpvalstu līmenī. Es ceru, ka mēs atklāsim precīzu notikumu secību, lai varētu izvairīties no līdzīgas situācijas atkārtošanās nākotnē.
+<P>
+Bet šajā sakarībā rodas vēl viens jautājums, uz kuru jūs norādījāt, - kā mums rīkoties ar atkritumiem jeb pārtikas pārpalikumiem. Pašreiz otrreizējā pārstrāde ir "lieta, kas jādara”. Ikviens to atbalsta, jo mēs visi vēlamies būt ilgtermiņā videi draudzīgi. Līdz ar to ir divi jautājumi - vispirms jau jautājums par eļļu otrreizējo pārstrādi, uz kuru jūs norādījāt, un es uzskatu, ka tam jāpievērš lielāka uzmanība ne tikai attiecībā uz PCB, par kuru mēs esam īpaši noraizējušies, bet arī uz atkritumeļļu savākšanu, izplatīšanu un izmantošanu kopumā.
+<P>
+Runājot par pārtikas pārpalikumiem jeb pārtikas atkritumiem, kā tos dažreiz sauc, mans personīgais viedoklis ir, ka šos produktus varam izmantot dzīvnieku barības ķēdē, bet tomēr vēlos skaidri uzsvērt, ja mēs nevaram garantēt to drošumu un veidu, kā tie tiek pārstrādāti un izmantoti, baidos, ka varētu rasties vajadzība aizliegt to izmantošanu.
+<P>
+Es nevēlos, lai tā notiek, bet nevēlos arī, lai atkārtojas Īrijā notikušais un tā sekas. Mēs vēlamies, lai šie pārtikas pārpalikumi jeb atkritumi tiek izmantoti to labās kvalitātes dēļ, nevis tāpēc, ka dzīvnieku barības ķēde uzskatāma par to izgāztuvi, - manuprāt, tas ir būtisks aspekts.
+<P>
+Ļoti atklāti jārunā arī par dzīvnieku barības jaukšanas jautājumu. Lauksaimniekiem patīk iepirkt sastāvdaļas un jaukt tās ar viņu rīcībā esošās barības sastāvdaļām - lielākā daļa lauksaimnieku tā rīkojas -, un ir pareizi, ja mēs to stingri kontrolējam. Saprotu, ka notiek regulāras pārbaudes, bet šajā gadījumā bija acīmredzamas nepilnības tirgus kontrolē. Patiešām, tie lauksaimnieki, kuri cieta un izjuta šo produktu lietošanas sekas, man jautāja: "Kādēļ neviens nenāca un nepārbaudīja, kas nonāk mūsu saimniecībās?”
+<P>
+Attiecībā uz tirgus regulēšanu, es uzskatu, ka, pateicoties pagātnes pieredzei, licencētie dzīvnieku barības ražotāji Eiropas Savienības barības maisījumu nozarē tiek ļoti stingri kontrolēti.
+<P>
+Man ir sajūta, ka dalībvalstīs mēs īpaši stingri regulējam atbilstību tiesību aktiem, bet nevēršam savu uzmanību uz iespējamiem pārkāpumiem. Mēs nedomājam radoši un oriģināli. Ir vērojama tendence, ka, ja vien papīri ir kārtībā un formālās prasības izpildītas, mēs visu noliekam malā, pat nemēģinādami iedziļināties.
+<P>
+Uzskatu, ka mums atkārtoti jāizvērtē regulējuma jautājumi. Mēs par tiem atkal runājam saistībā ar finanšu sektoru, bet mums vajadzētu tiem pievērsties arī saistībā ar pārtikas nozari. Domāju, ka dažreiz lauku saimniecību līmenī inspektorus uztver kā nelabā iemiesojumus. Kādēļ lauksaimnieki viņus neuztver kā savas uzņēmējdarbības aizstāvjus?
+<P>
+Uzskatu, ka, balstoties uz līdzšinējo pieredzi, mums jāmaina domāšana attiecībā uz visu pārtikas ķēdi. Īpaši vēlos uzsvērt Īrijas Lauksaimnieku asociācijas paziņojumu par darba grupas izveidi pārtikas aprites jautājumos. Šajā sarežģītajā laikā lauksaimnieki ir spēruši pirmo soli, lai pārņemtu kontroli pār barības ķēdi savās rokās.
+<P>
+Visbeidzot, jautājums par lētajām sastāvdaļām patlaban netiek apspriests, bet spiediens uz ražotājiem, lai tie ražotu arvien lētāk, ir daļa no problēmas, kas arī jāizskata.
+<SPEAKER ID="372" NAME="Proinsias De Rossa">
+PSE grupas vārdā. - Priekšsēdētājas kundze, man šajā jautājumā ir vairākas piezīmes, un, protams, es vēlētos nedaudz nepiekrist McGuinness kundzes izteiktajam viedoklim, ka "debates nav tikai par Īriju”. Protams, ka jautājums ir par Īriju. Tas ir visnesenākais skandāls, kas saistīts ar pārtikas riskiem.
+<P>
+Rūpēm par cilvēka veselību šajā jautājumā jābūt pirmajā vietā, bet mēs runājam par 1996. gada direktīvas īstenošanu. Un diemžēl Īrija bija viena no tām dalībvalstīm, kuru nācās piespiest, piedraudot ar tiesvedības uzsākšanu, lai tā īstenotu šo direktīvu, un tas notika pēc pieciem gadiem, 2001. gadā. Protams, var šķist, ka īstenošanas process vēl turpinās un kontroles procedūras, kas nodrošina atbilstīgu īstenošanu, varētu būt gluži nepilnīgas. No tā, ko es esmu lasīju par šo gadījumu, es sapratu, ka vispārsteidzošākais ir tas, ka trūkst informācijas, kas patiesībā notika šajā konkrētajā cūkgaļas piesārņojuma gadījumā. Izskatās, ka šī rūpnīca, kas ražoja barību, kādu laiku nebija pārbaudīta.
+<P>
+Zinu, ka valdība būs pārsteigta to dzirdēt, bet uzskatu, ka tika pieņemts pareizs lēmums nekavējoties veikt stingrus pasākumus attiecībā uz cūkgaļas izplatīšanu un tās izņemšanu no veikalu plauktiem. Protams, tas ietekmēja daudzus nevainīgus un tiesību aktus ievērojošus ražotājus un miesniekus, jo vairāk nekā 90 % produktu nebija piesārņoti. Iesaistītā rūpnīca piegādāja preci tikai kādām 10 tirdzniecības vietām, bet veiktie pasākumi bija ļoti vērienīgi, un tomēr tas bija pareizs lēmums. Svarīgākais ir mēģinājums nodrošināt, ka sabiedrība un patērētāji var būt droši - pārtika, kuru viņi iegādājas lielveikalos vai mazajos veikaliņos, ir droša ēšanai. Ja mēs neveicam tūlītējus un stingrus pasākumus, lai to nodrošinātu, tad, manuprāt, mēs neuzņemamies pietiekamu atbildību.
+<P>
+Man ir divi jautājumi komisāram. Pirmais, kā jau minēju, mēs runājam par 1996. gada direktīvas īstenošanu. Vai patlaban nav pietiekamu iemeslu šo direktīvu pārskatīt? Vai tajā noteiktie standarti pašreiz ir vai nav piemērojami? Vai mums nevajadzētu nopietnāk apsvērt drīzāku PCB izņemšanu no aprites, nekā tas paredzēts direktīvā, it īpaši tāpēc, ka daudzas dalībvalstis reālu īstenošanu uzsāka tik vēlu?
+<P>
+Mans otrais jautājums ir par vadības plānu, kuru Īrijas Dabas aizsardzības aģentūra ar nokavēšanos ievieš 2008. gadā un kur tā runā par prakses kodeksu izmantošanā esošu PCB un PCB saturošu iekārtu vadībai. Es vēlos zināt, vai šis prakses kodekss atbilst direktīvai. Vai mums nevajadzētu stingrāk ievērot PCB vadības noteikumus? Es neatbalstu, ka tiek sodīti visi, kas šad un tad neievēro noteikumus, tomēr uzskatu, ka attiecībā uz pārtikas drošību ir jāpiemēro kriminālsodi tiem, kuri ļaunprātīgi izmanto savu stāvokli.
+<SPEAKER ID="373" NAME="Liam Aylward">
+UEN grupas vārdā. - Priekšsēdētājas kundze, Īrijas cūkgaļas nozarei ir būtiska nozīme Īrijas pārtikas lauksaimniecības sektorā. Šī nozare tiek vērtēta apmēram EUR 1 miljarda apmērā un gan tieši, gan netieši nodarbina 10 000 cilvēku.
+<P>
+Stājoties pretī pašreizējai ekonomiskajai lejupslīdei un pieaugošajām pārtikas cenām ir būtiski, ka mēs darām visu, lai aizsargātu Īrijas cūkgaļas nozari, kura atbilst augstākajiem Eiropas Savienības un starptautiskajiem standartiem.
+<P>
+Atklājot virsnormas dioksīnu cūku tauku paraugā, Nacionālā Atlieku kontroles programma ļāva ātri noteikt piesārņojuma avotu konkrētajā barības ražošanas rūpnīcā. Lai arī mēs nožēlojam ikvienu mūsu pārtikas piesārņojuma gadījumu, šis incidents parādīja ļoti augsto Īrijas iestāžu pārtikas drošības kontroles līmeni, kas garantē pārtikas ķēdes integritāti. Citiem vārdiem sakot, šis kontroles mehānisms nostrādāja.
+<P>
+Tādēļ es vēlētos atzīmēt Īrijas valdības un Lauksaimniecības departamenta kompetenci un ātro rīcību lēmuma pieņemšanā par visu produktu atsaukšanu. Gan Eiropas un starptautiskie tirgi, gan Eiropas Komisija to uzņēma ļoti labi. Tas parādīja, cik nopietni mēs kā valsts uztveram pārtikas drošības jautājumus, un ļāva saglabāt mūsu kā pārtikas ražošanas valsts reputāciju gan mājās, gan ārpus valsts robežām.
+<P>
+Patērētāji Īrijā atsāka pirkt cūkgaļu, tiklīdz tā parādījās lielveikalu plauktos, un arī lielākā daļa Eiropas un starptautisko tirgu ātri atjaunoja tirdzniecību. Acīmredzot, tomēr jāveic vēl papildus pasākumi, piemēram, plašas mārketinga kampaņas, lai atjaunotu tirdzniecību pilnībā.
+<P>
+Es vēlos paslavēt Oireachtas Lauksaimniecības komiteju par tās visaptverošo izmeklēšanu dioksīna incidenta lietā, rīkojot vairākas noklausīšanās ar valdības departamentu, valsts aģentūru un cūkgaļas nozares pārstāvju piedalīšanos. Esmu priecīgs, ka Lauksaimniecības departaments turpina izmeklēšanu Eiropā plaši pazīstamā profesora Patrick Wall vadībā.
+<SPEAKER ID="374" NAME="Friedrich-Wilhelm Graefe zu Baringdorf">
+Verts/ALE grupas vārdā. - (DE) Priekšsēdētājas kundze, komisār, vismaz Īrijas gadījumā tas tika atklāts ar izmeklēšanas palīdzību. Pirms desmit gadiem Beļģijā viss notika pēkšņi un ātri. Abos gadījumos tiek runāts par negadījumiem, lai gan tas nekad netika pierādīts. Lieta Beļģijā tagad, pēc 10 gadiem, ir izbeigta. Vienam cilvēkam piesprieda pusotru gadu ilgu nosacīti atliktu sodu. Tomēr joprojām nav skaidrs, kā viela nokļuva produktos. Tādēļ mums jāpieņem, ka toksiskās vielas tika piemaisītas apzināti, lai ietaupītu uz barības apglabāšanas izmaksām - eļļa tika atšķaidīta un pievienota barībai. Abos gadījumos runa iet par transformatoreļļu.
+<P>
+Tikmēr, kamēr šie negadījumi nav rekonstruēti un nav pierādīts, ka tas tiešām bija dedzināšanas rezultāts, jāpieņem, arī Īrijas gadījumā, ka tika veiktas nelikumīgas darbības ar šo toksisko vielu PCB piejaukšanu barībai. Tas nozīmē, ka mums jāpalielina pārbaužu biežums, lai nerastos iespaids, ka ar šādām nelikumīgām darbībām iespējams viegli samazināt izmaksas.
+<P>
+Šī iemesla dēļ atklātā deklarācija, kuru šeit rīt pieņemsim, atspoguļo iespēju nevis koncentrēties uz nelikumīgām darbībām, bet gan palielināt pārbaužu biežumu. Riski jānovērtē ne tikai iesaistīto rūpnīcu kontekstā, bet jāpārliecinās, kas vada šīs rūpnīcas un no kādiem neskaidriem avotiem eļļas tiek iegūtas. Mēs zinām, ar kādiem cilvēkiem mums ir darīšana, tādēļ iestādēm jāapzinās paaugstināto risku un jāveic stingrākas pārbaudes.
+<SPEAKER ID="375" NAME="Bairbre de Brún">
+GUE/NGL grupas vārdā. - (GA) Incidents ar virsnormas dioksīnu Īrijas rūpnīcās rada nopietnas ekonomiskas grūtības lauksaimniekiem ziemeļos un dienvidos. Tās ir sliktas ziņas pašreizējā ekonomiskajā situācijā. Tā kā pasākumi tika veikti ātri, tirgus var būt pārliecināts, ka Īrijas cūkgaļa ir droša lietošanai. Lai kā arī nebūtu, mēs nevaram gaidīt, ka cietušajām pusēm pašām jātiek galā ar sekām. Es zinu, ka daži no šiem ekonomiskajiem jautājumiem attiecas uz citiem komisāriem, bet ir svarīgi, lai tiktu izskatīti tālāk minētie jautājumi.
+<P>
+Īrijas valdības 2008. gada decembrī izziņotās cūkgaļas atsaukšanas shēmas mērķis bija izņemt piesārņoto Īrijas cūkgaļu no tirgus. Lai kā arī nebūtu, neizskatās, ka šī shēma ir attiecināta uz tām 4 000 piesārņotajām cūkām, kas tika nosūtītas uz Vionas cūku pārstrādes rūpnīcu manā vēlēšanu apgabalā, Tyrone grāfistes pilsētā Cookstown laikā no 2008. gada 1. septembra līdz 6. decembrim.
+<P>
+Par laimi, mēs uzskatām, ka Īrijas cūkgaļa ir pilnībā droša. Tomēr, ja šai rūpnīcai nepienākas kompensācijas Eiropas Savienības atbalsta shēmas ietvaros, pastāv liela iespēja, ka tā nevarēs turpināt savu darbību.
+<P>
+Eiropas Savienībai jānodrošina, ka šī pārstrādes rūpnīca necietīs no sekām, pieņemot šīs 4 000 piesārņotās cūkas.
+<P>
+Ja rūpnīcai nepienāksies kompensācija, kas paredzēta cūkgaļas atsaukšanas shēmā, par kuru vienojās Komisija un Īrijas valdība, Komisijai un Lauksaimniecības un lauku attīstības departamentam jāvienojas par līdzīgu shēmu asamblejā Belfāstā.
+<P>
+Vienotības vārdā Eiropas Savienībai jāapstiprina līdzfinansējums nepieciešamajām kompensācijām cietušajiem. 2009. gads būs grūts ikvienam, tādēļ neaizmirsīsim ārkārtējos apstākļus, kuri daudzus cilvēkus pārtikas nozarē nostādīja situācijā, kuru viņi paši nebija radījuši.
+<P>
+Belfāstas asamblejas un Īrijas valdības ministri drīzumā piedāvās stratēģiju dzīvnieku veselības jomā visiem salas reģioniem.
+<P>
+Ir nepieciešama vienota pieeja visai Īrijai, kas sniedzas ārpus dzīvnieku veselības jomas robežām un ietver sevī vienotu regulējošu pieeju visiem salas reģioniem. Citiem vārdiem sakot, Eiropas Savienības noteikumus jāievieš vienoti visos salas reģionos. Ikviens Īrijas lauksaimnieks gūtu labumu no šādas situācijas, savukārt izvairīšanās no dublēšanas paaugstinātu ES noteikumu ievērošanas uzraudzības efektivitāti.
+<SPEAKER ID="376" NAME="Kathy Sinnott">
+IND/DEM grupas vārdā. -Priekšsēdētājas kundze, mans kolēģis jau minēja neskaidros kanālus, pa kuriem PCB nonāca Īrijas pārtikas ķēdē. Dažreiz, atskatoties uz PCB vēsturi, man šķiet, ka situācija ir vēl sliktāka. Polihlorbifenili ir gandrīz 100 gadus veci. Tos ir radījis cilvēks, un jau sākotnēji bija acīmredzams, ka tie ir ārkārtīgi bīstami.
+<P>
+Daudzus gadus tos izmantoja kondensatoros, hidrauliskajās eļļās, koka grīdu lakās - acīmredzami ne tajos produktos, kurus vēlamies redzēt pārtikas ķēdē. Bet no 20. gadsimta sākuma līdz 1966. gadam, kad zviedru zinātnieks apstiprināja PCB bīstamību, cilvēki uz tiem skatījās pilnīgi savādāk un pieļāva to izmantošanu, lai arī notika neskaitāmi rūpnieciskie negadījumi.
+<P>
+Bet pat pēc zinātniskajiem atklājumiem vēl līdz 70. gadiem PCB tika izmantoti sabiedriskajā sfērā, kur to izmantošanu aizliedza tikai 1972. gadā, bet pat pēc tam to izmantošana pārējās sfērās tika atļauta līdz 2000. gadam, kad tos beidzot aizliedza pilnībā. Līdz ar to joprojām visapkārt ir liels daudzums PCB, jo tā izmantošana tika pieļauta gandrīz 100 gadus, lai arī zinājām, cik tas ir bīstami.
+<P>
+Tātad, par spīti Komisijas 1996. gada direktīvai par PCB apglabāšanu, tie uzrodas atkal un atkal kā, piemēram, nesenajos incidentos Beļģijā un Īrijā.
+<P>
+Noskaidroju arī, ka viens fakts tomēr radīja neizpratni cilvēkos Īrijā. Es tajā laikā apmeklēju kādu miesnieku, un viņš nekādi nevarēja saprast - ir izveidota izsekojamības sistēma, mēs varam precīzi uzzināt, no kurienes nāk šī ola, kurā dienā tā ir izdēta un, ja vēlamies vēl detalizētāku informāciju, varam uzzināt, kurā fermā, un tā joprojām. Un tomēr pat pēc tam, kad mēs zinājām PCB izcelsmes avotu, šis miesnieks, kurš pārstrādā pats savu cūkgaļu, kuram ir visi kodu numuri utt., bija spiests izmest un iznīcināt visu cūkgaļu.
+<P>
+Es nesaprotu, kā tas varēja notikt, jo mēs Vides komitejā strādājām tik smagi, un arī jūs smagi strādājāt, lai panāktu izsekojamību, bet izšķirošajā brīdī šīs sistēmas netika izmantotas. Varbūt tās tika izmantotas, lai atrastu konkrētās fermas, bet tās netika izmantotas, lai glābtu nevainīgu ražotāju reputāciju, un tas cilvēkiem maksāja daudz - tas maksāja daudz arī manai valstij, jo nomelnotas tika ne tikai atsevišķas piegādes ķēdes, bet gan visa valsts.
+<P>
+Pastāv neizpratne arī citos jautājumos. Šodien mēs pareizi runājam par PCB un dioksīniem, bet vai mēs atkal zaudēsim 100 gadus, lai apzinātos sakarību starp dioksīniem un sadedzināšanu? Tas ir tas, ko pastāvīgi cenšos skaidrot, runājot arī par tādu dioksīnu nepieļaušanu pārtikas ķēdē, kuri rodas sadedzināšanas rezultātā.
+<SPEAKER ID="377" NAME="Jim Allister" AFFILIATION="NI">
+Priekšsēdētājas kundze, vairāki lauksaimnieki un pārstrādes uzņēmumi manā vēlēšanu apgabalā cieta miljoniem mārciņu lielus zaudējumus, pie kuriem nebija vainīgi, jo iegādājās piesārņoto barību labā ticībā no pārtikas dzirnavām, kurās tika pieļauta nepiedodama nevērība un labas prakses trūkums. Nav pārsteidzoši, ka starp cietušajiem vēlētājiem valda dusmas.
+<P>
+Man ir vairāki jautājumi komisāram. Ja nesaņemšu atbildes šovakar, es vēlētos saņemt rakstiskas atbildes, ja iespējams.
+<P>
+Pirmkārt, kāda ir vainīgo otrreizējās pārstrādes barības dzirnavu vēsture attiecībā uz atbilstību Eiropas Savienības prasībām? Vai arī incidenta pamatā tiešām bija tikai tiesību aktu nepilnības, kā tiek minēts?
+<P>
+Otrkārt, vai Millstream ir licence izmantot ziņojumā minēto eļļu? Ja nav, vai tā nebija attiecīgās dalībvalsts atbildība nodrošināt, ka pamata regulatīvo prasību neievērošana tiek atklāta un tiek veikti attiecīgi pasākumi?
+<P>
+Treškārt, vai Millstream ieviesa riska analīzē un kritisko kontrolpunktu noteikšanā (HACCP) balstīto riska analīzi un pārtikas higiēnas noteikumos prasīto automātiskās kontroles plānu?
+<P>
+Ceturtkārt, vai Komisiju apmierina dalībvalsts veikto pārbaužu līmenis un biežums, kā arī šīs rūpnīcas un tās ražojumu uzraudzība, ņemot vērā dalībvalsts pienākumu attiecībā uz formālo kontroles plānu, kas balstīts risku izvērtēšanā? Vai bija vērojama nolaidība no Īrijas varas iestāžu puses, ieviešot tiesību aktus barības aprites jomā un pārtikas drošības prasības ar visu likuma bardzību?
+<P>
+Piektkārt, manā vēlēšanu apgabalā likuma prasībām atbilstošās pārtikas dzirnavas pakļaujas stingrai kontrolei un standartiem kvalitātes nodrošināšanas shēmas ietvaros. Kādēļ ar līdzīgu rūpību netika uzraudzīta otrreizējā pārstrāde Millstream ražotnē?
+<P>
+Sestkārt, vai varēja paļauties uz barības dzirnavu pašu apliecināto drošību un, ja jā, kādēļ, jo tas ir pieļaujams tikai mazajiem uzņēmumiem, un vai to drīkstēja piemērot šajā situācijā?
+<P>
+Visbeidzot, ja drīkstu jautāt, uz kāda konkrētā juridiskā pamata Komisija piekrita veikt lielas izmaksas Īrijas valstij, ja sākotnēji Komisijas pārstāvis apgalvoja, ka šāds pamats nepastāv? Vai tiks veikti papildus pasākumi attiecībā uz pārkāpumiem, ja dalībvalsts nebūs ievērojusi tai izvirzītās prasības?
+<SPEAKER ID="378" NAME="Maria Petre" AFFILIATION="PPE-DE">
+(RO) Vai šī vakara debates par deklarāciju par atkritumeļļu izmantošanu barības ražošanā Īrijā ir lietderīgas, ja Komisija un jūs, komisār, jau esat pieņēmuši lēmumu?
+<P>
+Es vēlos nedaudz izvērst debates, lai pastāstītu, ka šī incidenta rezultātā cieta daudzas dalībvalstis, tai skaitā Rumānija, par kuru runāšu tālāk, vai, precīzāk sakot, šis incidents negatīvi ietekmēja gaļas nozari un visvairāk patērētājus. Tas ir ietekmējis nozari, kura cieta būtiskus zaudējumus ļoti īsā laika periodā, kā arī patērētājus laikā, kad vismaz Rumānijā, parasti ir nozīmīgs cūkgaļas patēriņš, svinot Ziemassvētkus saskaņā ar tradīcijām.
+<P>
+Ārkārtīgi labi nostrādāja veterināro iestāžu paziņošana Eiropas ātrās brīdināšanas sistēmas ietvaros. Tomēr, izņemot šos pasākumus, visa pārējā informācija vienkārši pazuda. Kāds bija piesārņotās gaļas daudzums, kur tā tika izplatīta un kur šie pārtikas produkti ir tagad - uz dažiem jautājumiem tika sniegtas daļējas atbildes, bet dažos gadījumos atbilžu nebija vispār. Kāda bija šīs situācijas ietekme? Paniska reakcija no patērētāju puses un milzīgi zaudējumi ražotājiem, kā arī atbildīgo iestāžu nespēja efektīvi tikt galā ar šādu incidentu.
+<P>
+Uzskatu, ka mums ir vismaz divas problēmas. Pirmā ir dioksīna piesārņojums, izmantojot atkritumeļļas, ņemot vērā, ka dioksīns ir ārkārtīgi bīstama viela un ārkārtīgi toksiska cilvēka organismam pat niecīgos daudzumos. Ko mēs varam darīt, lai nodrošinātu, ka šādi incidenti nekad vairs neatkārtojas?
+<P>
+Otra problēma ir, kā lai mēs uzlabojam dalībvalstu atbildīgo iestāžu spēju reaģēt un rīkoties šādās bīstamās situācijās?
+<P>
+Visbeidzot, ceru, ka šīs debates sniegs dažas atbildes, vismaz uz šiem diviem jautājumiem.
+<SPEAKER ID="379" NAME="Petya Stavreva" AFFILIATION="PPE-DE">
+(BG) Priekšsēdētājas kundze, komisār, dāmas un kungi, problēma ar polihlorbifenilu saturošu atkritumeļļu izmantošanu pārtikas atkritumu otrreizējās pārstrādes rūpnīcās liek atgriezties pie jautājuma par nepieciešamību garantēt pārtikas aprites drošību Eiropas Savienībā.
+<P>
+Pirmkārt jāuzsver, ka šī problēma rodas nevis kādas dzīvnieku slimības rezultātā, bet gan no Eiropas Savienībā noteikto lopbarības higiēnas un drošības prasību neievērošanas. Par spīti kontroles mehānismiem, līdz cūkgaļai nonāca liels daudzums dioksīna. Rodas loģisks jautājums - kādēļ tas nenotika jau ātrāk?
+<P>
+Šodien daudzi Eiropas pilsoņi jautā, vai Eiropas Savienībai ir visi nepieciešamie tiesību akti, kas dalībvalstīm pieprasītu ievērot drošu dzīvnieku barošanu ar lopbarību. Šim jautājumam nepieciešama steidzama atbilde, ņemot vērā, ka drošības normu neievērošana tikai vienā rūpnīcā var radīt liktenīgas sekas un zaudējumus simtiem miljonu eiro apmērā.
+<P>
+Es vēlos aicināt Eiropas Komisiju veikt nepieciešamos pasākumus uzraudzības pastiprināšanai, kas ir neatņemama Eiropas Savienības patērētāju aizsardzības politikas sastāvdaļa. Dioksīnu saturošā cūkgaļa no Īrijas nonāca Bulgārijā un citās Eiropas valstīs. Tomēr šādus incidentus nākotnē nedrīkst pieļaut, jo tiem sekojošās finansiālās un sociālās sekas ir pārāk nozīmīgas.
+<P>
+Visbeidzot, es atzinīgi novērtēju M. McGuinness iniciatīvu nodot šo jautājumu Komisijas vērtējumam.
+<SPEAKER ID="380" NAME="Elisabeth Jeggle" AFFILIATION="PPE-DE">
+(DE) Priekšsēdētājas kundze, komisār, šovakar mēs apspriežam PCB atkritumeļļu izmantošanu Īrijas pārtikas otrreizējās pārstrādes rūpnīcā. Rīt mēs debatēsim par dzīvnieku barības izmantošanu un izplatīšanu tirgū. Rīt mēs redzēsim, ka mēs kopīgiem spēkiem esam paveikuši vairākus nozīmīgus un noderīgus pasākumus šajā nozarē. Tomēr dažas problēmas joprojām pastāv. Tādēļ M. McGuinness pieci uzdotie jautājumi jāuztver nopietni, un tie ir pelnījuši nopietnas atbildes.
+<P>
+Komisār, jūs pats runājāt par nepilnībām, kuras vēl jānovērš tiesisko aktu ieviešanā vairākās dalībvalstīs. Taisnība, ka kopumā barības nozare pēdējos gados ir pierādījusi savu uzticamību, bet atsevišķi uzņēmumi vai nu neapzinās iespējamos riskus vai arī nevēlas tos saskatīt. Šķiet, ka daudzās dalībvalstīs vēl arī jāuzlabo pārbaudes, pamatojoties uz iespējamo risku izvērtējumu.
+<P>
+Mēs visi - Parlaments, kā arī lauksaimnieki un patērētāji, kuru skaits arvien samazinās - sagaidām, ka tiks piemēroti attiecīgie ES tiesību akti, lai nodrošinātu efektīvas pārbaudes. Šī iemesla dēļ uzskatu, ka mums rūpīgi jāpārskata vispārīgie pārtikas aprites tiesību akti, pārtikas un barības higiēnas prasības un licencēšanas nosacījumi pārtikas otrreizējās pārstrādes rūpnīcām.
+<P>
+Jā, mēs vēlamies lietderīgi izmantot pārtikas produktu pārpalikumus. Katrā ziņā es vēlos, lai tā notiek un lai šeit apspriestie pārtikas produktu pārpalikumi netiktu iznīcināti. Tomēr jānodrošina izsekojamība. Nevēlamas vielas un produkti jāizslēdz drošā un kontrolētā veidā. Licencējot barību ražojošos uzņēmumus, jāpārliecinās par to personāla profesionālajām kompetencēm pārtikas un barības drošības jomā.
+<P>
+Dzīvnieku barība ir pārtikas drošības pamatā, un lauksaimniekiem jāpārliecina patērētāji par pārtikas drošumu.
+<SPEAKER ID="381" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Priekšsēdētājas kundze, pirmkārt, es atzinīgi vērtēju šīs debates. Tagad lauksaimnieki zina, cik ļoti viņus ietekmē citu nodarījums.
+<P>
+Incidents aizsākās Īrijā, bet ironiski, ka atkritumeļļa, kas radīja problēmu, sākotnēji nāca no Ziemeļīrijas. Bet paziņojumā parādījās barības maisījums no Īrijas.
+<P>
+Mani uztrauc problēma, ka Īrijas lauksaimnieki, neatkarīgi no tā, vai viņi audzē cūkas vai liellopus, ir saņēmuši kompensācijas un palīdzību no Eiropas. Tajā pašā laikā lauksaimnieki Ziemeļīrijā ir atstāti vieni bez palīdzības un atbalsta. Ziemeļīrijas lauksaimnieki ir iznīcināti, un liela daļa var zaudēt savas fermas un uzņēmējdarbību ne savas vainas dēļ. Viņi nav izdarījuši neko sliktu, nav paveikuši noziegumu, un es šovakar Parlamentam un komisāram vēlos skaidri pateikt, ka lauksaimniekus Ziemeļīrijā nodeva ne tikai Lauksaimniecības departaments jeb Lauksaimniecības un lauku attīstības departaments (DARD), kā to sauc Ziemeļīrijā, bet īpaši ministrs, kurš šķiet vājš un nespējīgs risināt problēmas.
+<P>
+Īrijas lauksaimniecības ministrs ir skaidri parādījis, ka par savējiem rūpējas pirmām kārtām, un to es saprotu. Vai drīkstu jautāt komisāram - vai jūs saņemsiet informāciju, kas tiks iegūta policijas robežas abās pusēs veiktās izmeklēšanas gaitā? Vai būsiet gatavs rīkoties, balstoties uz šo informāciju, un vai būsiet gatavs nodrošināt, ka ražotāji Ziemeļīrijā saņem tādu pašu atbalstu kā lauksaimnieki Īrijā un ka viņi netiek nostādīti finansiāli neizdevīgākā situācijā? Un, visbeidzot, vai jūs varat nodrošināt, ka šī problēma nekad vairs neatkārtosies? Viss, ko iegūstam, ir patērētāju uzticības zaudēšana un, pats svarīgākais, ražotāju iznīcināšana.
+<SPEAKER ID="382" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Priekšsēdētājas kundze, viens no veidiem, kā cilvēki tiek pakļauti PCB iedarbībai, ir pārtikas ķēde, kā to jau minēja komisārs. Tomēr atklāta uguns un cigarešu dūmi ir daudz pieejamāks apdraudējuma avots daudz lielākam skaitam cilvēku. Saglabāsim mēra sajūtu un izvairīsimies no histēriskām debatēm, koncentrējoties uz problēmām ar vēsu prātu.
+<P>
+Obligātās prasības barības higiēnai ir patiešām ļoti svarīgas un būtu stingri jāievēro, bet tās būtu jāpapildina ar visu gaļas produktu - ne tikai liellopu gaļas, bet arī putnu gaļas, cūkgaļas un jēra gaļas produktu - pilnīgu identifikāciju un izsekojamību. Šim mērķim piedāvāšu izmaiņas esošajos tiesību aktos, kuras drīzumā apspriedīsim arī Parlamentā.
+<P>
+Apspriesto cūku barību tiešām piesārņoja rīvmaize, jo Millstream Recycling bez iepriekšēja nodoma šīs rīvmaizes žāvēšanai izmantoja degvielu, kuru tā labticīgi iegādājās no kompānijas, ar kuru tā bija strādājusi gadiem un ar kuru tai iepriekš problēmu nebija. Notiek policijas izmeklēšana, un iesaistītais uzņēmums pilnībā sadarbojas.
+<P>
+Es vēlos pilnībā atspēkot J. Allister pretenzijas, ka uzņēmums ir pieļāvis nepiedodamu nevērību. Tiks pierādīts pretējais, tādēļ mums jābūt uzmanīgiem savos izteicienos.
+<P>
+Lielākā problēma bija prasība izņemt no apgrozības un iznīcināt 100% cūkgaļas produktu ļoti īsā laika periodā. Cieta gan Īrijas lauksaimnieku ienākumi, gan Īrijas pārtikas produktu reputācija ārpus valsts robežām, jo mēs reaģējām tik neadekvāti - piesārņoti bija tikai seši vai septiņi procenti mūsu cūku fermu, bet Īrijas identifikācijas un izsekojamības sistēma nenostrādāja attiecībā uz kautuvēm. Īrijā visas cūkas tiek identificētas ar krotālijām vai tieši (slap marked), bet kautuvju līmenī mēs kaut kādā veidā vairs nevarējām atšķirt tās cūkas, kas bija saņēmušas piesārņotu barību, no tām, kuras nebija.
+<P>
+Mums šis jautājums ir jāizskata. Komisijai ir jāizskata visa identifikācijas un izsekojamības sistēma, bet, galvenais, jāsagaida policijas izmeklēšanas rezultāti, kuri, pēc manām domām, cilvēkus pārsteigs.
+<P>
+Iesaistītie uzņēmumi ārkārtīgi nožēlo - ko ir pauduši arī publiski - pārtikas ķēdei un Īrijas reputācijai nodarīto kaitējumu, kā arī tiem daudzajiem lauksaimniekiem nodarītos ekonomiskos zaudējumus, kuri līdz šim pirka šo uzņēmumu lieliskos barības produktus. Viņi ir atsākuši uzņēmējdarbību un, man jāsaka, augstvērtīgu barības piedevu ražošanu.
+<P>
+Tā bija briesmīga pieredze, un neviens nevarētu būt vēlējies, lai tā notiek.
+<SPEAKER ID="383" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+Priekšsēdētājas kundze, es centos netiesāt šo Īrijas gadījumu, jo ne tādēļ mēs esam šeit šovakar, bet es vēlētos uzdot komisāram trīs jautājumus - kāds daudzums PCB joprojām ir apritē, vai jūs varat garantēt, ka tas nepiesārņos barības ķēdi nākamo 23 mēnešu laikā, kamēr nav beidzies to apglabāšanas process, un vai Komisija piedāvās statusa ziņojumu par Regulas par barības higiēnu ieviešanu, ko Parlaments noteikti vēlētos dzirdēt?
+<P>
+Es vēlos arī norādīt J. Allister, ka šis ir starpvalstisks jautājums. Kā J. Nicholson pareizi atzīmēja, piesārņojums radās ārpus Īrijas robežām. Tādēļ es nepiekrītu P. Da Rossa. Tā ir Eiropas problēma, jo tai piemīt starpvalstiska dimensija. Tas, kas notika Īrijā, var notikt jebkurā dalībvalstī, jo, kā es saprotu, apritē joprojām ir tūkstošiem tonnu PCB. Varbūt komisārs varētu izskaidrot šo situāciju.
+<SPEAKER ID="384" NAME="Friedrich-Wilhelm Graefe zu Baringdorf" AFFILIATION="Verts/ALE">
+(DE) Priekšsēdētājas kundze, komisār, vai Komisija ir izmeklējusi vai rekonstruējusi to notikumu gaitu, kas noveda pie šī negadījuma? Uzskatu, ka ideja par to, ka atkritumeļļas dedzināšanas un tās radīto dūmu ietekme uz nelielo daudzumu rīvmaizes var radīt piesārņojumu, kas līdzvērtīgs 200-kārtīgam dioksīna līmeņa pieaugumam cūkgaļā - un tieši gaļā, nevis barībā - ir smieklīga. Līdz brīdim, kamēr netiks pierādīts pretējais, turpināšu uzskatīt, ka šis bija apzinātas piejaukšanas gadījums.
+<P>
+Ikviens ceļu satiksmes negadījums tiek rekonstruēts, un notiek izmeklēšana, kā šāds negadījums varēja notikt. Šis negadījums, ja tas tāds patiešām ir, arī jākonstruē un jāizmeklē, vai šāda sadedzināšana un tās radītie dūmi, kas nonāk saskarē ar gaļu, patiešām var koncentrēt tādu daudzumu dioksīna šajā gaļā. Kā praktiķis es teiktu, ka līdz šim nav izskanējis neviens vērā ņemams viedoklis. Tas, par ko mēs šeit runājam, ir apzināta piejaukšana, un arī mēs paši esam šīs indes krātuves, jo pati tā nesadalās un tādēļ turpina pastāvēt paaudzēs.
+<SPEAKER ID="385" NAME="Jan Mulder" AFFILIATION="ALDE">
+- (NL) Šīs bija ārkārtīgi interesantas debates. Baidos, ka šādi gadījumi būs arī nākotnē. Mēs nedrīkstam izslēgt kriminālu darbību iespēju un to, ka cilvēki var izmantot sistēmu sava labuma gūšanai.
+<P>
+Viens no jautājumiem, kuru šovakar neapspriedām, ir privātās marķēšanas sistēma. Kādēļ Komisija neiedrošina nozari pašu veikt pārbaudes un attīstīt privāto marķēšanu? Tad Komisija varēs teikt - mēs varam veikt gala pārbaudes, bet pirmām kārtām tas ir jūsu pienākums pārbaudīt savus kolēģus un nodrošināt, ka šādi gadījumi neatkārtojas. Ja jūs izveidosiet saprātīgu sistēmu, mēs to veicināsim un atzīsim. Šķiet, ka mums jāsāk ar pašiem pamatiem, lai šādi gadījumi neatkārtojas nākotnē.
+<SPEAKER ID="386" NAME="Jim Allister" AFFILIATION="NI">
+Priekšsēdētājas kundze, strīds nav par faktu, ka eļļa acīmredzot nāca no Ziemeļīrijas. Tā nav jautājuma būtība.
+<P>
+Piemērotāk būtu runāt par to, ka Millstream nolēma iepirkt šo eļļu, kaut zināja, ka tā tiks izmantota kaltēs barības apstrādei, žāvējot rīvmaizi - tad kādēļ viņi iegādājās šāda veida eļļu neatkarīgi no tās izcelsmes vietas?
+<P>
+Kādēļ to nepārbaudīja ne valsts inspektori, ne pats uzņēmums? Es saprotu, ka eļļas izmantošana šādos apstākļos ir nelikumīga un pārkāpj pārtikas un higiēnas noteikumus. Tādēļ nav svarīgi, no kurienes tā nāk - svarīgi, kā tā tur nokļuva un kādēļ tika izmantota tā, kā tika.
+<SPEAKER ID="387" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Priekšsēdētājas kundze, F. W. Graefe zu Baringdorf apgalvojumu par apzinātu piesārņoto vielu piejaukšanu barībai atstās bez ievērības ikviens profesionāls politiķis. Lai savu darbu paveic likumīgs izmeklēšanas process.
+<P>
+Iesaistītais uzņēmums Millstream Recycling pilnībā sadarbojas. Viņiem ir visa dokumentācija, lai izsekotu izcelsmi un pierādītu, ka eļļa tika iepirkta no licencētas kompānijas Dublinā, kas piegādā eļļas. Viņi to nopirka kā otrreiz pārstrādātu vieglo degvielu, kas būtu pareizā degviela izmantošanai šajā konkrētajā žāvēšanas procesā. To viņiem pārdeva licencēta kompānija, un pēc viņu rīcībā esošās informācijas tā bija otrreiz pārstrādāta vieglā degviela, tomēr viņi atzīst, ka viņiem tika piegādāta transformatoreļļa, kura izraisīja dioksīna piesārņojumu.
+<P>
+Notiek gan juridiska, gan policijas izmeklēšana. Ļausim šim procesam notikt un beigsim mētāties ar nepamatotiem apgalvojumiem, jo tas ir ļoti nopietns jautājums, kura risināšanā histēriska vai pārspīlēta reakcija nepalīdzēs.
+<SPEAKER ID="388" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Priekšsēdētājas kundze, visi piekrīt un neviens nenoliedz, ka eļļa patiešām nāk no Ziemeļīrijas. To mēs nevaram noliegt. Bet, kamēr mēs šeit strīdamies, astoņi lauksaimnieki Ziemeļīrijā zaudē savu uzņēmējdarbību, un tas pats notiek arī Īrijā. Es piekrītu, ka arī viņi ir cietuši. Tas nav politisks jautājums. Cieš vienkāršie cilvēki, un lauksaimnieki cieš finansiālus zaudējumus.
+<P>
+Patiesība, kas jāatzīst gan mums, gan jums, komisār - ir tāda, ka bija tonnām cūkgaļas, kuras izcelsmi nevarēja izsekot. Neviens nezināja, no kurienes un no kādām cūkām tā nāk. Komisār, jau sen ir pienācis laiks ieviest skaidru izcelsmes valsts marķēšanu. Ja tā būtu bijis šajā gadījumā, mēs skaidri zinātu izejas pozīcijas.
+<P>
+Es nevēlos šo jautājumu padarīt politisku, jo man tas tāds nav. Es katru dienu runāju ar saviem lauksaimniekiem, un, visticamāk, viņi zaudēs savas fermas. Tas ir nopietni. Ja mums jāgaida likumīgās izmeklēšanas slēdziens, es to vēlos redzēt, bet es vēlos arī aizsargāt savus lauksaimniekus un nevēlos redzēt, ka viņus pieviļ. Es vēlos, lai jūs viņus aizsargājat, lai viņiem ir tieši tādas pašas pozīcijas un aizsardzība kā lauksaimniekiem Īrijā.
+<SPEAKER ID="389" NAME="Androulla Vassiliou">
+Komisijas locekle. - Priekšsēdētājas kundze, šī bija dzīva diskusija un tajā tika apspriesti daudzi jautājumi. Ir izteikti daudzi pieņēmumi, un es piekrītu A. Doyle, ka mums jābūt pacietīgiem un jāgaida izmeklēšanas beigas. Tad mēs varēsim izdarīt secinājumus un pieņemt lēmumus par rīcību nākotnē. Lai arī nebiju tajos iesaistīta un par tiem tikai dzirdēju, man tomēr jāsaka, ka līdzīgi incidenti notika arī Vācijā un Beļģijā, un visām dalībvalstīm bija pieejama plaša informācija par šiem incidentiem. Es pieņemu, ka apdomīga dalībvalsts ieviestu stingrākus kontroles mehānismus. Bet pat ar visstingrākajiem kontroles pasākumiem šādas lietas var notikt vai nu krāpšanas, vai nevērības vai jebkādu citu iemeslu dēļ. Mūsu atbildība ir uzraudzīt, lai dalībvalstis atbilstu tiesību aktiem, kuri, pēc maniem uzskatiem, pašreiz ir apmierinošā līmenī. Mūsu kā Komisijas pienākums ir kontrolēt un pārliecināties, ka arī dalībvalstis pilda savus pienākumus.
+<P>
+Pārtikas un veterinārie dienesti veic savas pārbaudes, viņu ziņojumi ir publiski pieejami, līdz ar to atbilstība likumam var tikt novērtēta pēc šiem ziņojumiem, kuri tiek gatavoti katrai valstij atsevišķi.
+<P>
+Vairāki no jums pievērsās arī jautājumam par izsekojamību, kas patiešām ir viens no stūrakmeņiem vispārējā regulējumā par pārtiku un ir pārtikas nozares uzņēmumu atbildība, kuriem pašiem jāspēj identificēt, no kā viņi pērk un kam pārdod. Tomēr pārtikas nozares uzņēmumu izvēlētā detalitāte vai specifika iekšējai izsekojamībai noteiks viņiem radīto zaudējumu apmēru produktu atsaukšanas gadījumā. Šajā konkrētajā gadījumā izsekojamības noteikumi Īrijā pieprasīja tikai izgatavošanas datumu un nevis fermu, no kuras gaļa ir nākusi. Tādēļ vajadzēja atsaukt visu gaļu, kas tika saražota šo divu mēnešu laikā. Ja tiktu piemēroti stingrāki izsekojamības noteikumi (kas arī vairāk izmaksātu, protams), tiktu atsaukta tikai tā gaļa, kura tiktu identificēta kā nākusi no šīs konkrētās fermas. Tādēļ jāizlemj, vai maksāt vairāk un ieviest labākus izsekojamības noteikumus vai maksāt mazāk un kopsummā ciest zaudējumus.
+<P>
+Tika minēts, ka mēs kā Komisija sniedzām palīdzību - kaut arī kompensāciju izmaksa nav mana atbildība, bet gan komisāra F. Boel atbildība - un man jāsaka, ka izmaksas gan Īrijai, gan Ziemeļīrijai tika veiktas pēc līdzvērtīgiem principiem. Man šeit ir daži skaitļi. Komisija Ziemeļīrijā īstenoja privātās uzglabāšanas atbalsta shēmu, un šīs shēmas ietvaros var uzglabāt līdz 15 000 tonnām gaļas termiņā līdz 6 mēnešiem. Šī pasākuma budžets ir EUR 6,9 miljoni. Līdzīga privātās uzglabāšanas shēma tika īstenota arī Īrijā. Šīs shēmas ietvaros var uzglabāt līdz 30 000 tonnām gaļas termiņā līdz 6 mēnešiem, un tās maksimālais budžets ir EUR 13,9 miljoni. Īrijā ieviesa arī apglabāšanas shēmu, kuru līdzfinansēja Kopiena un kura izmaksāja EUR 20,6 miljonus. Komisija neveica tiešus maksājumus ne lauksaimniekiem Īrijā, ne Ziemeļīrijā, jo šādām kompensācijām nebūtu likumīga pamata.
+<P>
+Kopumā es teiktu, ka mums ir labi tiesiskie akti, bet nākotnē mums jābūt ļoti piesardzīgiem. Mums jāpārliecinās, kā šie tiesību akti tiek piemēroti dalībvalstīs, un mums ir vajadzīga dalībvalstu sadarbība. Savukārt Komisijai jāturpina kontrole un jāpārliecinās, ka dalībvalstis ievēro mūsu noteikumus.
+<P>
+Vēl vairāk, tiklīdz mēs saņemam pieprasījumu vai izmeklēšanas rezultātus, mēs varam domāt par nākotni. Ja mēs uzskatām, ka mūsu noteikumi ir jāuzlabo, mums tas nekavējoties arī jādara.
+<SPEAKER ID="390" NAME="Priekšsēdētāja">
+Debates tiek slēgtas.

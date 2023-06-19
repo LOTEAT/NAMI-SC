@@ -1,0 +1,8 @@
+<CHAPTER ID="009">
+Aprovação da acta da sessão anterior: Ver Acta
+<SPEAKER ID="210" NAME="Presidente">
+A acta da sessão de terça-feira, dia 11 de Março de 2007, já foi distribuída.
+<P>
+Há alguma observação?
+<P>
+(A Acta é aprovada)

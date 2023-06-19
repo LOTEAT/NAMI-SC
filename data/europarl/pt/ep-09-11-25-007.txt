@@ -1,0 +1,6 @@
+<CHAPTER ID="007">
+Período de votação
+<SPEAKER ID="078" NAME="Presidente">
+Segue-se na ordem do dia o período de votação.
+<P>
+(Resultados pormenorizados das votações: ver Acta)

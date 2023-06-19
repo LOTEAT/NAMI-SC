@@ -1,0 +1,6 @@
+<CHAPTER ID="011">
+Čas hlasovania
+<SPEAKER ID="157" NAME="Predsedajúci">
+Nasledujúcim bodom je hlasovanie.
+<P>
+(Výsledky a ďalšie podrobnosti o hlasovaní: pozri zápisnicu)

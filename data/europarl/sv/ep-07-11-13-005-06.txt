@@ -1,0 +1,12 @@
+<CHAPTER ID="005-06">
+6. Interoperabiliteten för digitala interaktiva televisionstjänster (omröstning)
+<P>
+- Betänkande: Weber
+<P>
+Före omröstningen:
+<SPEAKER ID="090" NAME="Henri Weber  " LANGUAGE="FR">
+Herr talman, mina damer och herrar! I och med att televisionen, telekommunikation och Internet flätas samman har televisionen blivit ett interaktivt medium och tv-tittarna har blivit ”aktörer”.
+<P>
+Tittaren kan nu söka på innehåll, välja program och komma med synpunkter på sändningar. För att göra detta krävs det dock allt fler apparater. För att underlätta användningen av denna utrustning och för att undvika ytterligare kostnader för konsumenten måste apparaterna kunna kommunicera med varandra och fungera tillsammans. Detta kallas ”kompabilitet”.
+<P>
+Det betänkande som presenteras idag är ett försök att främja kompabiliteten inom EU. Syftet är också att garantera respekten för mångfald i information och innehåll i den nya tekniska eran. Detta innebär att offentliga myndigheter på både nationell nivå och EU-nivå måste bedriva en aktiv, stabil och försiktig politik.

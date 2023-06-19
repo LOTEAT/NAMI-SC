@@ -1,0 +1,4 @@
+<CHAPTER ID="013">
+Hääletused
+<SPEAKER ID="246" NAME="Juhataja">
+Jätkame hääletamisega.

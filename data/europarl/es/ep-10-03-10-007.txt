@@ -1,0 +1,20 @@
+<CHAPTER ID="007">
+Turno de votaciones
+<SPEAKER ID="087" NAME="Presidente">
+El siguiente asunto del día son las votaciones.
+<P>
+(Para los resultados y otros detalles de la votación: véase el Acta)
+<SPEAKER ID="088" NAME="Robert Atkins" AFFILIATION="ECR">
+Señor Presidente, en un punto de orden, creo que verá que si comienza la primera votación a las 12.00 horas, la gente se sentará entonces y participará, en vez de esperar a que se sienten y luego participen y después voten.
+<P>
+(Aplausos)
+<SPEAKER ID="089" NAME="Presidente">
+Estoy siendo muy considerado.
+<SPEAKER ID="090" NAME="Sergio Paolo Francesco Silvestris" AFFILIATION="PPE">
+(IT) Señor Presidente, me disculpo por esta intervención pero como miembro de este Parlamento elegido en Italia, considero mi deber el ofrecer, desde esta Cámara, un saludo respetuoso y deferencial al Presidente de mi país, Giorgio Napolitano, guardián de los valores constitucionales italianos y de la unidad nacional.
+<P>
+En esta Cámara se debe hacer referencia al Presidente italiano con respeto y deferencia.
+<P>
+(Aplausos)
+<SPEAKER ID="091" NAME="Presidente">
+Ahora procedamos a la votación.

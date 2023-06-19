@@ -1,0 +1,136 @@
+<CHAPTER ID="019">
+Akcijski načrt za inteligentne prevozne sisteme - Inteligentni prometni sistemi v cestnem prometu in vmesniki do drugih vrst prevoza (razprava) 
+<SPEAKER ID="497" NAME="Predsednica">
+Naslednja točka je skupna razprava o
+<P>
+poročilu gospe Anne E. Jensen v imenu Odbora za promet in turizem o akcijskem načrtu za inteligentne prevozne sisteme, in
+<P>
+poročilu gospe Anne E. Jensen v imenu Odbora za promet in turizem o predlogu Direktive Evropskega parlamenta in Sveta o določitvi okvira za uvajanje inteligentnih prometnih sistemov v cestnem prometu in vmesnike do drugih vrst prevoza - C6-0512/2008 -.
+<SPEAKER ID="498" NAME="Anne E. Jensen">
+poročevalka. - (DA) Gospa predsednica, nisem prepričana, da lahko govorim s takšnim navdušenjem kot gospod Savary, a inteligentni prometni sistemi so zelo razburljiva tema. Kaj torej so inteligentni prometni sistemi? No, ni preprosto odgovoriti na to vprašanje, ker govorimo o celi množici različnih sistemov: sistemov, ki omogočajo varnejši, učinkovitejši in okoljsko tehtnejši prevoz z izkoriščanjem sodobnih informacijskih in komunikacijskih tehnologij. ITS, kakor je prav tako znan inteligentni prometni sistem, je zato splošni izraz, ki zajema mnogo različnih stvari. Pod ITS lahko najdemo tako raznolike stvari kot so e-klic, ki vzpostavi samodejni klic na center za klice v sili v primeru prometne nesreče, cestninske sisteme, ki so sistemi, namenjeni za pobiranje cestnin, in že zelo znane sisteme GPS, ki jih imamo mnogi med nami v svojih avtomobilih, da se lahko usmerjamo po neznanem prostoru.
+<P>
+Vendar pa ima ITS mnogo drugih neizkoriščenih možnosti: možnosti za komuniciranje med vozili, med vozilom in cesto in med vozilom in informacijskih centrom. Torej, zakaj preprosto ne začnemo v večji meri uporabljati te tehnologije, če je tako dobra? No, tu se soočamo z vprašanjem, kaj je prej: kokoš ali piščanec? Ali bi morala imeti prednost tehnologija, nameščena v avtomobil, ki lahko komunicira z obcestnim oddajnikom? Proizvajalci avtomobilov se zavedajo možnosti, a ne bodo mogli pridobiti naložb v takšne tehnologije, če ne bodo najprej nameščeni obcestni oddajniki. Na drugi strani pa oblasti nočejo vlagati v oddajnike, dokler avtomobili ne bodo opremljeni za sprejemanje signalov. Vendar pa se bo moralo nekaj zgoditi in začeti bomo morali premikati stvari.
+<P>
+V tem okviru je Komisija izdelala Akcijski načrt za uvajanje inteligentnih prometnih sistemov in predložila predlog za direktivo, ki bi morala spodbujati uporabo ITS z zagonom standardizacije. Glede tega bi morali Komisijo pohvaliti. Ta pobuda je potrebna. Poročili o inteligentnih prometnih sistemih, o katerih bomo razpravljali danes, akcijski načrt in direktiva, sta nerazdružljivo povezana. Tako bi moralo biti, ker nam akcijski načrt brez direktive ne bi dal ničesar zelo novega. Mnogo stvari, ki so vključene v akcijski načrt, so projekti, ki so že v teku. Vendar pa je ključnega pomena direktiva, ker bo povečala razvoj pomembnih standardov v EU. Po drugi strani pa je akcijski načrt namenjen določanju obsega direktive in zagotavljanju, da bomo usmerili izkušnje, ki smo jih pridobili pri skupnih projektih, v standardizacijo.
+<P>
+Sprejetje skupnih standardov preko Evropskega odbora za ITS se uporablja za štiri posebna področja: prvo je optimalna uporaba cestnih, prometnih in potovalnih podatkov, drugo je kontinuiteta storitev ITS na evropskih prometnih koridorjih in v somestjih, tretje sta cestna varnost in zanesljivost, in četrto je vključitev vozila v prometno infrastrukturo. Poleg tega se prav tako ukvarjamo z zelo pomembnim vprašanjem varnosti podatkov. Nočemo družbe velikega brata, zato morajo biti varnost podatkov in pravice posameznika od samega začetka vključeni v standarde. Drugo zelo pomembno vprašanje so odgovornosti in delitev odgovornosti. Če gre kaj narobe, bi morali biti sposobni ugotoviti, v čem je problem pri vozniku, v satelitskem navigacijskem sistemu ali v tehnologiji v vozilu. Drugače ne bomo več napredovali. Posledično pa ne bomo zagotovili nujnih naložb.
+<P>
+Rada bi se zahvalila poročevalcem v senci iz drugih skupin za njihovo tesno sodelovanje. Imeli smo nekaj različnih mnenj glede mere, do katere bi se morali osredotočiti na alternativne načine cestnega prometa, a mislim, da smo dosegli ravnotežje med zagotavljanjem uporabe tehnologije ITS in cestnega prometa in njegovim vmesnikom do drugih načinov prevoza. Obstaja možnost uporabe informacijske tehnologije za izdelavo enostavnih primerjav med različnimi načini potovanja od točke A do točke B in za pregled najhitrejših, najcenejših in najbolj okoljsko tehtnih možnosti. Želela sem, da bi s Svetom glede tega dosegli hitri dogovor, a to ni bilo mogoče. Češko predsedstvo je opravilo zelo dobro delo, a upam, da bo način, kako smo poostrili predlog Komisije, pomagal k temu, da bo predlog bolj všeč Svetu, saj želimo direktivo.
+<SPEAKER ID="499" NAME="Antonio Tajani" LANGUAGE="IT">
+Gospa predsednica, gospe in gospodje, rad bi se zahvalil Parlamentu, predvsem poročevalki, gospe Jensen, in vsem poročevalcem v senci za njihovo odlično delo in način, kako so pozdravili predloge Komisije.
+<P>
+Seveda sem zadovoljen z izbirami in upoštevam predlagane spremembe k osnutku direktive. Predvsem pa sem vesel, ko vidim, da je Parlament potrdil pomembnost satelitskih sistemov pozicioniranja EGNOS in Galileo za uporabo inteligentnega prevoznega sistema (ITS). Vendar pa bi rad Parlamentu postavil nekaj vprašanj in poskusil dati nekaj odgovorov glede tega, zakaj je Komisija predstavila direktivo za spodbujanje uvajanja ITS, in drugič, glede tega, ali lokalne in nacionalne pobude na tem področju ne zadostujejo.
+<P>
+Komisija že od leta 1988 financira posebne raziskovalne in razvojne programe za inteligentne prevozne sisteme, ki so nedvomno prinesli pozitivne rezultate in navdihnili mnoga priporočila. Ti raziskovalni in razvojni projekti so tvorili pomembno podlago za tehnološki napredek, usklajevanje ukrepov in na splošno za spodbujanje predhodnega uvajanja po delih.
+<P>
+Zato je sedaj čas, da se od priporočil pomaknemo h konkretnim ukrepom, da bi lahko želi koristi uporabe inteligentnih prevoznih sistemov: koristi, ki lahko prevzamejo obliko varnosti v cestnem prometu, lajšanja prometnih zastojev in zmanjšanja okoljskih vplivov cestnega sistema. To je namen za tem ključnim osnutkom direktive za spodbujanje ukrepov, usmerjenih v odpravljanje ovir do širšega in boljšega uvajanja usklajenega ITS.
+<P>
+Rad bi dal nekaj primerov, ki bodo pomagali pojasniti, zakaj prostovoljne ali lokalne strategije niso vedno dovolj: danes je vlačilec, ki potuje med Barcelono in Frankfurtom, opremljen ne le z mobilnim telefonom in navigacijskim sistemom, ampak tudi z najmanj tremi različnimi elektronskimi terminali za plačevanje cestnine za države, ki jih mora prečkati, ali pa da se izogne vožnji skozi stanovanjska območja. Leta 2001 je Komisija priporočila državam članicam, naj objavijo podrobne informacije o vrstah cest v omrežju in o območjih umirjenega prometa. Žal je le nekaj lokalnih in nacionalnih oblasti to priporočilo upoštevalo. Nazadnje se zgodi, da vozniki z navigacijskimi sistemi uporabljajo celotno cestno omrežje in prepogosto so težka tovorna vozila usmerjena na popolnoma neprimerne ceste ali nevarne poti, na primer blizu šol ali po zelo strmih cestah.
+<P>
+Nova direktiva bo omogočila sprejetje nujnih ukrepov za izogibanje takšnim situacijam, s tem pa bo zmanjšala vse probleme, s katerimi smo se srečevali do sedaj. Komisija pričakuje sporazum med Parlamentom in Svetom o osnutku direktive, ki predstavlja ključno orodje za izvajanje akcijskega načrta.
+<P>
+Tesno bomo sodelovali z vami in s Svetom, da bi čim prej dosegli sporazum, in upam, da bo k temu prispeval neformalni sestanek Sveta, ki bo prihodnji teden v mestu Litoměřice v Češki republiki, kjer je ITS na dnevnem redu. Mislim, da je bila gospa Jensen povabljena in bo zato tam tudi prisotna, četudi le neformalno, a bistvo je, da bomo lahko primerjali stališča Komisije, Parlamenta in Sveta, da bi poskusili pospešiti to, kar upam, da bo preprost dogovor, da bomo lahko praktično odgovorili državljanom in čim prej odobrili skupno besedilo.
+<SPEAKER ID="500" NAME="Giovanni Robusti" LANGUAGE="IT">
+Gospa predsednica, gospe in gospodje, kot pripravljavec mnenja Odbora za regionalni razvoj sem spremljal načrt ITS. Mnenje našega odbora, ki je bilo soglasno sprejeto, je Odbor za promet in turizem v veliki meri posnemal v duhu sodelovanja, ki smo ga uspeli ustvariti pri dolgoročnih projektih. Rad bi se zahvalil vsem tistim, ki so prispevali svoje delo in zamisli.
+<P>
+Vsi smo se poskušali izogniti zapletenim dolgim besedam, ki so prepogosto značilne za izjave o načelih. Poskušali smo pojasniti dejstvo, da nismo razpravljali o tem, koliko ali katere ceste načrtovati, ampak preprosto ugotavljali, kako se lahko gibljemo na bolj usklajen, varen, ljudem in okolju prijazen in zato inteligenten način, česar pa ni malo. Poskušali smo prikazati vlogo tehnologije, varnosti, obrobnih območij, plovnih poti in najpomembneje usklajevanja s strukturnimi skladi, da bodo načrtovani urniki in cilji združljivi in usklajeni. Poskušali smo načrtovati vse pomembnejšo vlogo za varnost in celosten pristop, ne le za prevoz, ampak predvsem za ljudi, ki se prevažajo. Mislim, da smo uspeli zagotoviti usklajen in prepričljiv pristop.
+<P>
+Sedaj upam na dvoje: da Komisija tega ne bo le "zabeležila" in potem ubrala tisto pot, ki se ji zdi primerna, ko bo prišel čas za praktične odločitve, in da bodo praktične strategije, začrtane v načrtu, predstavljale podlago za izbiro vseh drugih programov sorodnih dejavnosti. Prepogosto smo v kristalnih kroglah videli vrsto čudovitih načrtov, a vsak je za naslednjega nerazumljiv.
+<P>
+Žalostno bi bilo, če bi še naprej financirali ceste, ko smo se odločili, da bi moralo biti na cestah manj avtomobilov, žalostno bi bilo, če bi še naprej financirali vozila, pri izdelavi katerih ni upoštevana medsebojna povezanost ali pasivna varnost ali potrošnja ne le goriva, pač pa tudi okolja, žalostno bi bilo, če bi skupaj načrtovali eno pot, denar in sredstva, za katera smo odgovorni, pa bi potem šla po drugi in bi se potrošila brez časovne usklajenosti.
+<SPEAKER ID="501" NAME="Etelka Barsi-Pataky">
+v imenu skupine PPE-DE. - (HU) Gospa predsednica, Skupina Evropske ljudske stranke (Krščanskih demokratov) in Evropskih demokratov meni, da je eden najpomembnejših stebrov evropske prometne politike inteligentna prometna tehnologija. Pred dvema letoma, ko smo o tej zadevi razpravljali tu v Parlamentu med vmesnim pregledom Bele knjige o prometni politiki, za katero sem bila poročevalka, smo kot enega ključnih ciljev določili uvajanje inteligentnih tehnologij kot orodja, ki nam bo pomagalo izboljšati učinkovitost na naših cestah in dvigniti raven storitev. A sedaj že obstaja inteligentni razvoj, zaradi katerega bodo naše ceste varnejše, cestni promet pa bolj okolju prijazen.
+<P>
+Vendar pa, da bi zagotovili uvajanje našega tehnološkega razvoja, potrebujemo ta akcijski načrt to in direktivo. V ureditvi sem predlagala, da določimo najnižjo raven za inteligentne aplikacije, da bomo lahko za naše omrežje TEN-T zagotovili vsaj minimalno raven. Te aplikacije bodo potem podpirale učinkovitost in varnost. Od Komisije seveda pričakujemo predloge za financiranje za tiste inteligentne rešitve, ki ne bodo izvajane s pomočjo zasebnega financiranja. Podobno prav tako pričakujemo predloge Komisije glede tega, kako je mogoče promet, ki prečka zunanje meje, brez ovir prilagoditi inteligentni infrastrukturi Evrope, kar si želimo. V okviru direktive je Evropska komisija glede na to, da je direktiva okvirna direktiva, dobila neobičajno veliko zaupanja. Zato je pomembno, da Parlament, kot del postopkov komitologije, sodeluje pri pripravi izvedbenih predpisov.
+<P>
+Gospa predsednica, danes smo glasovali o pregledu Zelene knjige o prihodnosti politike TEN-T. Lahko smo prepričani, da prihodnost evropskega omrežja TEN-T leži v inteligentnem prometu. Hvala lepa.
+<SPEAKER ID="502" NAME="Silvia-Adriana Ţicău">
+v imenu skupine PSE. - (RO) Gospa predsednica, gospod komisar, gospe in gospodje, rada bi začela tako, da gospe Jensen čestitam za kakovostno delo, ki ga je opravila, in za njeni poročili.
+<P>
+Inteligentni prometni sistemi so napredne aplikacije, ki so namenjene zagotavljanju inovativnih storitev na področju načinov prevoza in upravljanja prometa, prav tako pa različnim uporabnikom omogočajo boljšo obveščenost ter varnejšo, bolj usklajeno in "pametnejšo" uporabo prometnih omrežij. Vendar pa mislim, da je pomembno, da se inteligentni prometni sistemi povezujejo z vsemi vrstami prevoza in ne le z mestnim prevozom, zato sem ob upoštevanju tega predlagala spremembe. Poleg tega sta mestni promet in mobilnost v mestih v veliki meri del mestnega razvoja. Zato sem vesela, da imamo v dvorani tudi našega kolega iz Odbora za regionalni razvoj. Mislim, da je pomembno, da lahko uporaba inteligentnih prometnih sistemov učinkovito prispeva k zmanjšanju porabe goriva in posledično k izboljšani kakovosti zraka v mestih in k prometnemu toku.
+<P>
+Mislim, da je pomembno potnikom priskrbeti informacije, zaščititi podatke osebne narave in seveda zagotoviti anonimnost podatkov, da bo mogoče zaščititi uporabnike. Nenazadnje menim, da je to korak naprej, a na tem področju so potrebna velika vlaganja.
+<SPEAKER ID="503" NAME="Sepp Kusstatscher">
+v imenu skupine Verts/ALE. - (DE) Gospa predsednica, načeloma se moramo strinjati s splošnim ciljem direktive. Seveda so boljši informacijski sistemi za potnike in upravljavce cestne infrastructure, na primer z namenom zmanjšanja nesreč v cestnem prometu in zagotavljanja cenejšega in učinkovitega prevoza, dobra zamisel, enako pa velja tudi za objekt za zbiranje okoljskih podatkov. Vendar pa me skrbijo tri glavne zadeve.
+<P>
+Najprej, vera v tako imenovano pametno tehnologijo z lahkoto premami ljudi, da svojo odgovornost predajo strojem in instrumentom.
+<P>
+Drugič, obstaja vse večja nevarnost, da se vsi zbrani podatki zlorabijo. Zasebnost ljudi je v vse večji nevarnosti.
+<P>
+Tretjič, direktiva je preveč usmerjena v avtomobile. Interoperabilnost z drugimi sistemi prevoza, kot je javni prevoz, bi morala biti mnogo pomembnejša kot dovršena igra mačke in miši, ki se jo poskuša z nami igrati industrija.
+<SPEAKER ID="504" NAME="Dieter-Lebrecht Koch" AFFILIATION="PPE-DE">
+(DE) Gospa predsednica, brezpogojno podpiram cilj Komisije, da ustvari pravni okvir za usklajeno uvedbo in uporabo inteligentnih prometnih sistemov na področju cestnega prometa. Moj osebni dolgotrajni boj za množično uvedbo e-klica, elektronskega sistema za klic v sili, mi skoraj dan na dan ponazarja nujnost tega in inteligentni prometni sistemi lahko storijo mnogo več. Prispevajo k okoljski trajnosti, izboljšani učinkovitosti, okrepljeni varnosti in nediskriminacijski konkurenčnosti v cestnem potniškem in tovornem prometu. Prav tako podpirajo somodalnost, vključno z razvojem vmesnikov do drugih načinov prevoza, kot so železnice, plovne poti in letala, kjer se je vključevanje inteligentnih prometnih sistemov začelo že dolgo nazaj.
+<P>
+Vsega tega države članice ne morejo doseči same, to je mogoče doseči le v obliki naloge Skupnosti. Inteligentni prometni sistemi, ki temeljijo na obveznih minimalnih standardih in specifikacijah na ravni EU, izboljšujejo okolje za inovacije in ustvarjajo varnost načrtovanja, predvsem za mala in srednje velika podjetja. Predvsem pozdravljam načrtovano odprto platformo za storitve inteligentnega prometnega sistema, ki vključuje vozila.
+<P>
+Akcijski načrt vključuje vsaj časovni razpored za uvedbo posameznih sistemov a) za varnost v cestnem prometu, kot sta ESP in e-klic, b) za kontinuiteto upravljanja prometa, na primer, informacije o pristojbinah za zastoje ali upravljanje parkirišč zmanjšujejo število avtomobilov, ki se vozijo in iščejo parkirišče, c) za uporabo cestnih, prometnih in potovalnih podatkov v realnem času, kar bo pridobitev tako za poklicne voznike tovornjakov, kot tudi za vse druge, ki uporabljajo ceste.
+<P>
+Direktiva določa podrobne zahteve za obvezno in usklajeno uvedbo standardnih inteligentnih prometnih sistemov po EU in njihovo uporabo v državah članicah. Prav tako varuje uporabo osebnih podatkov. A pazite, uvedba inteligentnih prometnih sistemov bo zelo draga, ker bo treba infrastrukture in vozila opremiti s potrebno informacijsko in komunikacijsko tehnologijo. Še vedno vemo premalo o tem, ali so potencialni uporabniki to pripravljeni oziroma zmožni plačati.
+<SPEAKER ID="505" NAME="Gilles Savary" AFFILIATION="PSE">
+(FR) Gospa predsednica, najprej bi se rad zahvalil gospe Jensen za njeno skladno in odlično delo, saj je to zelo odprto in zelo je pozorna na vsa izražena mnenja.
+<P>
+Najprej bi rad povedal, da so za inteligentnimi prometnimi sistemi ista evropska sredstva in da sem nekoliko presenečen ob ugotovitvi, kako so praktično vsa usmerjena proti avtomobilom.
+<P>
+Mislim, da imajo avtomobili seveda svoje dobre strani, avtomobilski sektor je v Evropi izredno močan gospodarski sektor. Vendar pa mislim, da moramo dodati nekaj razumevanja vsem načinom prevoza.
+<P>
+Nisem spregledal dejstva, da obstajajo ERTMS za železniški sektor, SESAR in GALILEO, a po mojem mnenju nam primanjkuje pristop, usmerjen v uporabnika, glede uporabniških informacij, glede dostopnosti za osebe z zmanjšano mobilnostjo in z možnostjo, da se danes prilagodijo mestna vozila, glede uvedbe energetsko varčnega mestnega vozila, glede varnosti na področju prevoza, predvsem v zvezi z javnim prevozom, kar je zelo pomembno vprašanje, glede uporabniških informacij in do izdajanja vozovnic. To so področja, kjer je pogosto potrebno doseči pomemben napredek.
+<P>
+Zato verjamem, da bi morali postati viri v prihodnjih letih bolj raznoliki. Predvsem bi rad, da vašo pozornost posvetite spoštovanju osebnih podatkov, preprečiti moramo položaj, kjer se bomo ponovno znašli v Orwellovem delu 1984, kjer poskušamo uresničiti groteskno idejo popolne nadomestitve ljudi z roboti. Videli smo, kaj se je lansko zimo zgodilo na reki Hudson: če ne bi bilo pilota, nedvomno ne bi bilo nobenega mehanizma, ki bi poravnal letalo. Da zaključim, mislim, da je treba prednost dati tudi drugim načinom prevoza in ne le avtomobilom.
+<P>
+Kljub tem pridržkom podpiram poročilo, ki je bilo predloženo.
+<SPEAKER ID="506" NAME="Zita Gurmai" AFFILIATION="PSE">
+(HU) Gospa predsednica, gospod komisar, gospe in gospodje. Uvedba inteligentnih prometnih sistemov ponuja številne očitne koristi. Zaradi tega bo promet v Evropi varnejši in učinkovitejši, pri tem pa se bosta prav tako spodbujala varstvo okolja in energetska učinkovitost. Priznavamo tudi akcijski načrt Komisije in jasen rok, ki je bil določen. Prav tako mislim, da je pomembno, da bodo, ko bodo sistemi uvedeni, uporabljani tudi vidiki, povezani z združljivostjo, skladnostjo in ureditvijo. Kar zadeva potrošnike, morajo poleg tega, da si lahko prevoz privoščijo, imeti na voljo tudi priložnost za svobodno izbiro, uvesti pa je treba ustrezne zakone, ki bodo zagotovili, da ne bo nikakršne možnosti za zlorabo zasebnih podatkov. Razviti je treba logični inteligentni sistem na visoki ravni, ki ga je mogoče razvijati naprej in lahko učinkovito izvaja nove tehnološke napredke. V interesu vseh nas je, da to uresničimo. Hkrati pa je za evropsko avtomobilsko industrijo prav tako ključnega pomena, da se lahko še naprej gibljemo. Želela bi se zahvaliti poročevalki za njeno delo.
+<SPEAKER ID="507" NAME="Den Dover" AFFILIATION="PPE-DE">
+Gospa predsednica, govorim kot gradbenik, moj sin pa ima podjetje za raziskovanje prometa, ki se razteza čez celo Združeno kraljestvo.
+<P>
+Ta zadeva je izredno pomembna, ker lahko iz Evrope poskrbimo, da bo zadnja tehnologija vplivala na uporabnost in učinkovitost cestnega prometa v vseh oblikah. Leto za letom je to področje velike rasti. Tudi v času recesije napovedujemo približno 55-odstotno rast od danes do leta 2020 za tovorna in 35-odstotno rast za potniška vozila, s tem pa se seveda poveča poraba energije.
+<P>
+Kot izvoljeni poslanci zelo pogosto potujemo po naših volilnih okrožjih in se znajdemo v prometnih zastojih in zelo pogosto moramo klicati za informacije o razmerah, ki so pred nami. Na naših vetrobranih potrebujemo več podatkov, da bomo lahko našli svoje lastne rešitve na uspešnejši in učinkovitejši način.
+<P>
+Gospe Jensen in gospodu komisarju želim veliko uspeha.
+<SPEAKER ID="508" NAME="Antonio Tajani" LANGUAGE="IT">
+Gospa predsednica, poslanci, mislim, da moramo na prihodnost gledati optimistično, saj mislim, da v zvezi s potrditvijo direktive poleg močnega sodelovanja s strani češkega predsedstva obstaja tudi volja švedskega predsedstva, da sklene pozitiven dogovor med Komisijo, Parlamentom in Svetom. Zato mi to daje upanje in mislim, da bi lahko bilo to tudi nekaj, kar bo jutri Parlamentu dalo navdih, da bo glasoval za sprejetje besedil, o katerih razpravljamo.
+<P>
+Rad bi odgovoril na nekatere pripombe in gospo Ţicău pomiril glede naših ciljev: najprej začnemo z akcijskim načrtom in direktivo, ki prometni sistem obravnava generično, in s to perspektivo potem obravnavamo mestno razsežnost ter se osredotočamo na njo, a da bi prišli do konkretnega, moramo najprej obravnavati splošno.
+<P>
+Prav tako sem želel odgovoriti gospodu Kusstatcherju o temi cestnega sektorja in drugih prometnih sistemov. Trenutno ne obstaja skladen evropski okvir za uvedbo in uporabo inteligentnih prometnih sistemov (ITS) v cestnem sektorju, za druge načine prevoza pa so bili, kot je poudaril gospod Savary, ustvarjeni posebni načrti: SESAR, nova generacija sistema za upravljanje zračnega prometa, RIS za rečni promet in VTMIS za pomorski promet, in da ne pozabimo sistema RTMS za železniški promet. Akcijski načrt ITS se tako prvotno nanaša na cestni sektor, prav tako pa vključuje posebne ukrepe in pobude, ki so usmerjeni v zagotavljanje in izboljšavo medsebojne povezanosti cestnega prometa z drugimi načini prevoza z ustreznimi vmesniki.
+<P>
+Moral sem poudariti, nenazadnje gospodu Savaryju, da akcijski načrt ITS vključuje ne le ukrepe za starejše voznike, pač pa tudi za uporabnike cest, ki so opredeljeni kot " ranljivi", in sicer za kolesarje in pešče. Med drugim ti predstavljajo pomemben del seznama ukrepov, ki jih lahko Odbor sprejme za inteligentne prometne sisteme, določene v direktivi. Predvsem se ukvarjajo z uporabo ITS za varnost uporabnikov, kot je na primer pri inteligentnih znakih za slepe ali slabovidne.
+<P>
+V luči tega lahko z direktivo uvedemo določena pravila, a problem je tudi v inteligentnih voznikih; niso dovolj inteligentni sistemi, prav tako moramo zagotoviti, da bo tisti, ki sedi za volanom avtomobila ali tovornjaka ali vozi motor ali kolo, uporabljal svoj um. Žal je to nekaj, česar ni mogoče urediti z direktivo, uredbo ali akcijskim načrtom, preprosto moramo uporabljati razumna pravila, da prepričamo evropske državljane, da bodo uporabljali svoj razum in da ne bodo uporabljali alkohola ali drog, ko se odpravljajo na cesto.
+<SPEAKER ID="509" NAME="Anne E. Jensen">
+poročevalka. - (DA) Gospa predsednica, mislim, da je komisar Tajani ravno s prstom pokazal na tisto, za kar gre pri vsem tem. Poskrbeti moramo, da bodo vozniki inteligentneje ukrepali. O tem smo na dolgo razpravljali in gospod Kusstatscher je prav tako mnogokrat povedal, da moramo namesto tega, da dovolimo, da nam ti sistemi omogočijo, da se vedemo še bolj neumno, poskrbeti, da nam bodo dejansko pomagali, da bomo bolje obveščeni in da bomo ravnali pametneje. To je zelo pomembno. Prav tako mislim, da je pomembno, da ne pozabimo primera tovornjaka, ki prevozi celotno dolžino in širino Evrope - danes imamo voznike tovornjakov, ki se pritožjujejo, da kmalu ne bodo več videli skozi vetrobrane zaradi vseh naprav, ki jih potrebujejo za komunikacijo s cestninskimi sistemi, pa tudi z drugimi informacijskimi sistemi. Potrebujemo skupno platformo, da bodo vsi podatki, ki se naložijo na računalnik ponovno posredovani vozniku tovornjaka v njegovem jeziku. Možnosti imamo. Dejansko obstaja neverjetno število dobrih možnosti.
+<P>
+Prav tako smo nekaj časa razpravljali o količini sredstev, ki jih je treba nameniti temu. Mislimo, da bo to zneslo približno 300 milijonov EUR, večino tega pa bo usmerjenega v EasyWay - predvsem s strani Komisije. Lahko bi omenila, da smo v moji lastni državi, na Danskem, ravno sprejeli načrt za dodelitev 40 milijonov EUR za ITS v naslednjih petih letih. 40 miljonov EUR je mnogo za malo državo s 5 milijoni prebivalcev, a dejansko nam bodo omogočili velik napredek. Zato mislim, da je mogoče, če bomo začeli gledati na različne države članice, da bomo glede tega dobili določeno perspektivo. To je natanko tisto, s čimer moramo začeti, in upam, da bo ravno ta tema vključena v dnevni red ministrov za promet, ko se bomo 29. sestali.
+<P>
+Na koncu bi rada nekaj besed posvetila spremembam: za ta predlog za direktivo imamo pomembno podporo in le štiri spremembe za poročilo, ki je pomembno za jutri. Osebno sem za spremembo 57, ki jo je predložila Skupina socialdemokratov, in za spremembo 59, ki so jo predložili Zeleni, nasprotujem pa spremembama 58 in 60. Mislim, da je dejstvo, da imamo tako malo sprememb, dokaz močne podpore Parlamenta za to zadevo. Torej, gospod Tajani, začeli ste s čvrstim pogajalskim mandatom.
+<SPEAKER ID="510" NAME="Predsednica">
+Razprava je zaključena.
+<P>
+Glasovanje bo potekalo jutri.
+<P>
+Pisne izjave (člen 142)
+<SPEAKER ID="978" NAME="Mieczysław Edmund Janowski" AFFILIATION="UEN">
+v pisni obliki. - (PL) V današnjem času so potrebne hitre prilagoditve prevoza v smislu eksponentnega povečevanja njegove uporabe in pričakovanj družbe. Zato mislim, da je uvedba inteligentnih prometnih sistemov (ITS) izredno uporabna. Zavedati bi se morali, da so trenutne razmere v cestnem prometu izredno zaskrbljujoče. Na to kaže naslednja statistika:
+<P>
+število smrti na cestah je bilo leta 2006 v EU približno 43.000, od tega 5.500 na Poljskem;
+<P>
+letni stroški zastojev v cestnem prometu v EU znašajo približno 1 % BDP;
+<P>
+emisije CO2, ki jih povzroča cestni promet, znašajo približno 70 % vseh emisij CO2, povezanih s prometom.
+<P>
+Zato je nujno naslednje:
+<P>
+optimalna uporaba podatkov o cestah in cestnem prometu;
+<P>
+zagotavljanje kontinuitete in zanesljivosti storitev ITS na evropskih prometnih koridorjih in v somestjih;
+<P>
+obsežna uporaba telematskih aplikacij, ki združujejo vprašanja o prometu z informacijsko tehnologijo in telekomunikacijami, na velikih mestnih območjih;
+<P>
+hitra in usklajena uvedba aplikacij, ki podpirajo varnost v cestnem prometu, kot so e-klic, ADAS in druge;
+<P>
+boljše povezovanje prometne infrastrukture z vozili in med vozili;
+<P>
+usklajevanje na evropski ravni z uporabo izkušenj in dobrih praks vodilnih držav.
+<P>
+Zato poskusimo ITS izvajati po vsej EU v povezavi z vsemi prevoznimi sredstvi in vsemi potniki in z upoštevanjem javnega in zasebnega prevoza.

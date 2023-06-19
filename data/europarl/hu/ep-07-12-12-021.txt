@@ -1,0 +1,118 @@
+<CHAPTER ID="021">
+Juh- és kecskefélék elektronikus azonosítása (vita) 
+<SPEAKER ID="404" NAME="Elnök">
+A következő napirendi pont Graefe zu Baringdorf úrnak a Mezőgazdasági és Vidékfejlesztési Bizottság nevében készített jelentése, a 21/2004/EK rendeletnek a juh- és kecskefélék elektronikus azonosítása bevezetésének időpontja tekintetében történő módosításáról szóló tanácsi rendeletre irányuló javaslatról - C6-0448/2007 -.
+<SPEAKER ID="405" NAME="Markos Kyprianou">
+a Bizottság tagja. - Tisztelt Elnök úr! Mint ahogy mindannyiunk előtt ismeretes, a nyomonkövethetőség az állategészségügy és a növényegészségügy magas színvonalának egyik kulcsfontosságú tényezője.
+<P>
+A közelmúltban olyan járványokat tapasztaltunk az Európai Unión belül mint a száj és körömfájás és a kéknyelv-betegség, ami ismételten megmutatta a hatékony azonosító rendszer jelentőségét. Elektronikus azonosító rendszer hiányában az egyedi azonosítás nem képes megfelelően működni.
+<P>
+Az elektronikus azonosítás bevezetési időpontjának a jelentésében történt megerősítésére illetve módosításra kérték a Bizottságot, nem pedig a rendelet alapelveinek megkérdőjelezésére. Ezért ez a különböző alkalmazott technikákról és technológiákról szóló technikai jelentés.
+<P>
+A bizottsági jelentés kizárólag az elektronikus azonosítás legkedvezőbb módon történő bevezetésével foglalkozik. Azonban egy jelentés elkészítéséhez a tagállamoktól, elsősorban a rendszert már működtető tagállamoktól adatokra és inputra van szükségünk. A jelentés elkészítéséhez szükségek tanulmányok és kísérletek a tervezettnél sokkal hosszabb időt vettek igénybe, ezért késett a jelentés.
+<P>
+Nagyra értékeljük és megköszönjük a Parlamentnek, hogy hajlandó volt sürgősséggel kezelni az ügyet. Ezáltal elkerülhető lesz 2008. januárjában a jogi bizonytalanság.
+<P>
+A jelentés megállapítja, hogy a juh- és kecskefélék elektronikus azonosításának technikai feltételei teljesültek, azonban a technikai azonosítás végrehajtására való felkészüléshez a tagállamoknak ésszerű időkeretre van szükségük.
+<P>
+Egyetértünk a rendszer egy előre kijelölt időpontban történő bevezetésére vonatkozó parlamenti állásponttal és elfogadjuk azt. Másrészről nem tudjuk elfogadni a többi javasolt módosítást, amelyek a rendelet alapelveit kérdőjelezik meg, mivel most a kérdés a bevezetés tényleges időpontjának meghatározása.
+<P>
+Ismét szeretném megköszönni az előadónak a gyors munkáját és a Parlament jóváhagyását, hogy sürgősséggel kezeljük a témát.
+<SPEAKER ID="406" NAME="Friedrich-Wilhelm Graefe zu Baringdorf">
+előadó. - (DE) Elnök úr, Kyprianou biztos úr, a témát a kérésnek megfelelően sürgősséggel kezeltük. Egy rendkívül fontos kérdésről van szó és pontosan ezért vagyunk még ilyen késői órában is itt.
+<P>
+Természetesen az a kérdés, hogy hogyan alakult ki ez a sürgető helyzet. Ön mondott valamit ezzel kapcsolatban. Végignéztem a dokumentációt és megtaláltam azt a 2003. december 17-i rendeletet, amit a mai napon akarunk módosítani. Az a rendelet előírja, hogy 2008. január 1-i hatállyal "a (1) bekezdésben említett iránymutatásoknak megfelelően elektronikus azonosítás [...] valamennyi állat esetében kötelezővé válik”. Egy vagy két mentességi záradék van, amit kihagyok és akkor a szöveg így hangzik, "A Bizottság 2006. június 30-ig egy jelentést nyújt be a Tanácsnak az elektronikus azonosítási rendszer végrehajtásáról a megfelelő javaslatokkal együtt, amiről a Tanács minősített többséggel fog szavazni”.
+<P>
+Röviden, a dolog nagyon régre vezethető vissza. Nyilvánvaló, hogy a Bizottság jelentését nem terjesztették a Tanács elé, és a Tanács részéről sem történt visszajelzés. Valamit jelezni akarnak ezzel? Ha valóban beterjesztették a jelentést, akkor viszont a tagállamok részéről nem történt reagálás. És kínos helyzetbe kerültünk, mivel rájöttünk, hogy nem tudjuk a határidőket tartani. Ez eddig elég rossz, egy új határidő helyett azt javasolták, hogy a komitológiai eljárásra kellene bízni a határidő meghatározását. Más szóval, a határidő kijelölése az Önök feladat lett volna. Akkor nem kellett volna ezzel foglalkoznunk, a Bizottság tehát elhatározta, hogy a kötelező elektronikus azonosításra vonatkozó rendelkezés 2009. december 31-én lép hatályba és 2010. január 1-jétől alkalmazandó, ez pontosan két éves csúszást jelent az eredeti rendeletben meghatározott időponthoz képest. De akárhogy is legyen, az a fontos, hogy van egy időpont. A Bizottság elmondta, hogy ezzel a témával kapcsolatban is jelentést kell készíteni.
+<P>
+Az a gond az Önök javaslatával, hogy egyre több és több döntéshozatalt utalnak a komitológia területére, pontosan úgy, mint a 2003. december 17-i régi rendelkezés esetében, amikor komitológiai eljárással utalták a Bizottsághoz az elektronikus azonosítás rendszerével összefüggő rendelkezéseket és alkalmazásokat. Akkor a Tanács számára igen, viszont a Parlament számára nem kellett jelentést készíteni. Annak a gyakorlatnak a következtében, hogy mindent a komitológia alá rendelnek, a Parlamentet megfosztják döntéshozó jogától és ellenőrzési hatáskörétől, és egyszer csak egy későbbi időpontban azt vesszük észre, hogy a kötelezettségek nem teljesültek.
+<P>
+Ha most nem álltak volna elő ezekkel a módosításokkal és a kérdés sürgős kezelését kérték volna a szoros határidő miatt, akkor azt gondoltuk volna, hogy minden rendben van. De a dolgok nem voltak rendben! Ennek, arra kell minket itt a Parlamentben figyelmeztetnie, hogy ne adjunk túl sok felhatalmazást a Bizottságnak, hanem gyakoroljuk továbbra is ellenőrzési hatáskörünket.
+<P>
+Volt itt néhány módosítás. Azt mondták, hogy nem tudják elfogadni azokat. A Bizottság előírta, hogy a szabályok kötelező érvényűek legyenek. Ez az alaprendeletben is szerepel, amelyről mindannyian tudjuk, hogy nem eltörlésre csak módosításra került. Most itt vannak az Önök által benyújtott módosítások Stevenson úr, az egyiket McGuinness asszonnyal közösen nyújtotta be, amely javasolja, hogy a rendszer önkéntes alapon legyen választható. Nos, amennyiben önkéntes alapon választhatóvá válik jobban tesszük, ha az egészet elfelejtjük. Akkor mire vonatkozna az előírás? Megmaradhatnánk annál a megállapításnál, hogy a sötétben minden tehén fekete. Ezért gondolom, hogy a kötelező érvényű szabályok mellett kell kitartanunk, amiknek tartalmazniuk kell egy időpontot és az Európai Parlament részére készített jelentést.
+<P>
+Tanulságként fog szolgálni, hogy ez a jelentés véletlenül, többé-kevésbé átsegített minket a Bizottság és a Tanács részéről lefolytatott igazán szokatlan eljárási módján.
+<P>
+Remélem Kyprianou úr, hogy a kritikámat nem találja indokolatlanul nyersnek, de képzelheti, hogy mivel én fogalmaztam meg ezt a jelentést, és felkészültem a ma estére és megvizsgáltam a vonatkozó dokumentációt, meg kellett dörzsölnöm a szemem, amikor láttam, hogy mi minden történhet a mi európai intézményeinkben. Mind a Parlamentnek és a Bizottságnak is - és nekünk mind, legalábbis ami engem érint - érdekében áll annak biztosítása, hogy a jövőben ilyen dolgok ne fordulhassanak elő és ne válhassanak gyakorlattá.
+<SPEAKER ID="407" NAME="Struan Stevenson">
+a PPE-DE képviselőcsoport nevében. - Tisztelt Elnök úr! Engedje meg, hogy először a Graefe zu Baringdorf úr által hozzám intézett kérdésre válaszoljak. Azt kérdezte, hogy módosításaim miért törekednek a rendszer önkéntesen választhatóvá tételére. Röviden elmondhatom Graefe zu Baringdorf úrnak, hogy miért kívánom önkéntességen alapulóvá tenni a rendszert.
+<P>
+Választókörzetemben, Skóciában, múlt héten az anyajuh - nem-mezőgazdasági országokból jövők számára (kevés ilyen van az ülésteremben) ezek idősebb nőstény juhok - darabonként 2 GBP összegért kelt el. Egy évvel ezelőtt darabonként 60 GBP összegért, míg idén 2 GBP összegért keltek el. Kérdezem én az előadótól: hogyan várható el egy tenyésztőtől, aki juhonként mindössze két font sterlinget kap, hogy mikrochipeket ültessen be és a kötelezően előírt elektronikus azonosító rendszernek megfelelő drága, letapogatókat és leolvasókat vásároljon? Ez a probléma gazdasági oldala.
+<P>
+Az érdekelt felekkel való konzultációra és a gazdasági hatások költség-haszon elemzésére irányuló eredeti bizottsági javaslat tökéletesen helytálló volt. Még nem láttam az összes számot. Nem tudom, hogy mit jelentene az elképzelés a választókörzetemhez tartozó tenyésztők számára. Emlékeztetnem kell a Ház képviselőit, hogy az Egyesült Királyság rendelkezik a legnagyobb - messze a legnagyobb - juhállománnyal egész Európában. Az amúgy is rossz gazdasági helyzet mellett ennek katasztrofális hatása lenne. Valójában azt jelentené - amennyiben kötelező érvényűvé válik és követjük a Mezőgazdasági és Vidékfejlesztési Bizottság által hétfő este megszavazott határidőket, valamint 2009. december 31-ét jelöljük meg a kötelező érvényű bevezetés időpontjának - hogy Nagy Britanniában a juhtenyésztők egész csoportjai leállnának és felhagynának a gazdasági tevékenységgel. A hegyvidéki és dombos területek, amin évszázadok óta birkák legelnek és amit juhtenyésztők gondoznak, vadonná válnak és akkor fog az emberekben tudatosulni, hogy mekkora kár keletkezett.
+<P>
+Miközben mérgelődünk egy olyan nyájat érő kár miatt, amely eddig is legjobb nyomonkövethetőséggel rendelkezik Európában - az Egyesült Királyságban jelenleg tökéletesen biztosított nyomonkövethetőséggel rendelkezünk és az angol tényesztők nem értik, hogy miért akarunk új elektronikus azonosítást rájuk erőltetni, amikor ők már magas minőségű nyomonkövethetőséggel rendelkeznek - olyan Unión kívüli országoktól vásárolunk juhhúst, amelyek sem az egészségügyi és jóléti színvonalunknak, sem a juhtenyészőinknél alkalmazott szigorú rendeleteknek nem felelnek meg.
+<P>
+Ezért mutassunk itt egy kis érzékenységet. Remélem, hogy holnap, amikor szavazásra kerül sor, a képviselők érteni fogják miért az önkéntes alapon működő rendszert kérjük és nem az elektronikus azonosító rendszer bevezetésére vonatkozó kötelező érvényű időpont meghatározását.
+<SPEAKER ID="408" NAME="Rosa Miguélez Ramos">
+a PSE képviselőcsoport nevében. -(ES) Tisztelt Elnök úr! Én olyan vagyok, aki mindig figyelmesen meghallgatja Stevenson urat, ha szólásra emelkedik és már jónéhány éve hallgatom őt, de ez a beszéd meglep, mert ezt inkább 2003-ban kellett volna elmondania, nem 2007-ben, valójában majdnem 2008-ban.
+<P>
+Graefe zu Baringdorf úr most nagyon jól mondta: ez egy 2004-es rendelet, amiről 2003-ban vitatoztunk a Parlamentben és a rendelet kimondja, hogy a juh- és kecskefélék elektronikus azonosítása bevezetésének időpontja 2008. január 1-je legyen.
+<P>
+Ezért Stevenson úr - nem kétlem, hogy az Ön választókörzetében, mint ahogy az enyémben is, vannak juhfélék - az öt tagállam, amely a legnagyobb juh- és kecskeállománnyal rendelkezik, az Ön és az én országom valamint Franciaország, Olaszország és Görögország. Nos, ez a négy tagállam elvállalta, ami rémisztőnek tűnik az Ön számára, hogy meggyőzze a tenyésztőket, hogy megjelöljék a juh- és kecskeállományukat, mivel azt mondták nekünk, hogy a rendelet kimondja, hogy az elektronikus azonosítás 2008. január 1-jétől lesz kötelező.
+<P>
+Én, mint a Parlament képviselője, teljes mértékben megértem ezt. Azt is megértem, hogy vannak olyan tagállamok - mint az Öné, ezért is hallgattam meg Önt - amelyek nem teljesítették kötelességüket, és ennek ismeretében ajánlottam egy olyan időpontot - amit a Mezőgazdasági Bizottság már el is fogadott - amely egy kicsit kitolja az időhatárt, de mint ahogy Ön is tudja, lehet, hogy az Ön választóköretében két fontot fizetnek egy állatért, az én körzetemben mindössze egyet adnak érte.
+<P>
+Most, amikor gyakoriak az állatbetegségek Európában, úgy gondolom egy ehhez hasonló rendszer garanciát nyújt és biztosítja a gazdálkodók által megtermelt javak értékének növekedését. Ez egy olyan azonosítási rendszer, amely lehetővé teszi számunkra, hogy megismerjük a Közösség területén átmenő állatok eredetét és biztosak lehessünk annak megfelelő egészsége felől; garanciát jelent a fogyasztó számára és ez biztos, hogy a gazdálkodó javát szolgálja, mert többet fog kapni az eladott húsért.
+<P>
+Pont most tartunk ott, hogy nem kapnak többet az általuk előállított húsért a kéknyelv-betegség és a száj- és körömfájás és a chikungunya szúnyog miatt. Kérem Önöket, fogjunk hozzá a munkához, legyünk összeszedettek és olvassuk el, illetve vizsgáljuk meg a Graefe zu Baringdorf úr által említett rendeletet - megint jelzem, hogy ez egy 2004-es rendelet - olvassuk el figyelmesen, ismerjük el, hogy szerepel benne néhány kivétel, de ez nem ahogy-teszik alapon működik, mert a határidő napja nem lehet önkéntes alapon eldöntendő. Nem lehet önkéntés, mivel a Bizottság és a Tanács a határidő napját kötelezővé tette.
+<P>
+Más szóval nem tudom visszaforgatni az időt a három évvel ezelőtti állapothoz, és nem mondhatom azt a gazdálkodóknak, hogy teljesen hiábavaló volt minden eddigi erőfeszítésük, mert a britek elfelejtették ugyanezt kérni a saját gazdáiktól. Értenek?
+<P>
+Azt kérem Önöktől, hogy figyelmesen olvassák el a módosításomat. A képviselőcsoportom biztos, hogy nem fogja megkérdőjelezni a rendszer kötelező jellegét, mert az jogtalan megkülönböztetéshez vezetne a tagállamok között és magán az Európai Unión belül is, habár nem lepődnék meg azon - és itt nem Önre utalok Stevenson úr - ha valaki, akinek itt a mai napon volt mersze elutasítani az Alapjogi Chartát, hasonló vagy még nagyobb pofátlanságot követne el a juh- és kecskefélék azonosításának elutasításával.
+<P>
+Itt tartunk: úgy gondolom, hogy van egy rendeletünk, a Bizottság egy ésszerű javaslattal állt elő, mi is tettünk a Bizottságnak egy ésszerű javaslatot, tehát próbáljuk meg ma délelőtt úgy lezárni ezt a kérdést, hogy egyik oldalt sem éri túl nagy kár.
+<SPEAKER ID="409" NAME="Neil Parish" AFFILIATION="PPE-DE">
+Tisztelt Elnök úr! Nagyon támogatom a Stevenson úr által imént elmondottakat és nagyon támogatom azt amit a Bizottság próbál csinálni. Tisztában kell lennünk a juhtenyésztés méretével és az érintett állatok számával. A szóban forgó juhok száma körülbelül 25 millió az Egyesült Királyságban, 8,5 millió Franciaországban, 3 millió Írországban, jelentős számú Spanyolországban és más országokban is. A rendszernek megfelelőnek kell lennie. Az elektronikus rendszer bevezetésének feltétele, hogy praktikus és költséghatékony és a tenyésztők számára a gyakorlatban is használható legyen. Ahogy Stevenson úr nagyon helyesen mondta, a juh nem egy nagyon nagy értéket képviselő állat, ezért ezt nem az állatorvosok fogják végrehajtani. A munka nagy részét a tenyésztőknek kell elvégezniük és amikor a jelölések leolvasására kerül a sor, azt gyakorlatilag a hegyoldal tetején, esős körülmények és sok minden más között kell megtenniük.
+<P>
+Már számos ilyen elektronikus rendszert láttam működni szállodaszobákban, amikor az ember a különböző folyósokon áthalad és azt mondják, hogy a különböző jelölések között nem keletkezik zavar. Olyan rendszerre van szükség, amelyben ha egy teherautónyi juhot szállítunk a piacra, ideális esetben képesek legyünk a szállítmány minden egyes juhát elektronikusan ellenőrizni. Ez az ideális rendszer. Világosan megmondom Önöknek, nincs értelme az elektronikus jelölés irányába elmozdulni, amíg nem rendelkezünk egy praktikus, költséghatékony és használatba állítható rendszerrel. Ezért gondolom, hogy tökéletesen igaza van, amikor azt mondja: "Jöjjön vissza 2009 végén és nézze meg, hogy hol tartunk.” Ahogy Stevenson úr helyesen megjegyezte, alkalmazzuk ezt önkéntes alapon választható rendszerként majd akkor, amikor az államok készen állnak, amikor a juhokat nagy számban mozgatják, és amikor már van egy működőképes rendszerünk. Kérem, ne hozzák fel idő előtt a témát, azelőtt, hogy készen állnánk.
+<SPEAKER ID="410" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Tisztelt Elnök úr! Ismét azért vagyunk itt, hogy megvitassuk a juhok megjelölését. Csak annyit tudok mondani, hogy nagyon nagy kár, hogy a Bizottság nem hallgatott ránk, amikor réges-régen a kezdetekkor mégkérdőjeleztük akkori javaslatukat és elmondtuk az ezzel kapcsolatos véleményünket. Miguélez Ramos asszonynak mondom: igen, mi akkor régen, a juhok megjelöléséről folytatott eszmecserék kezdetén elmondtuk mindezt. De sajnos süket fülekre talált, még akkor is, amikor elmondtuk, hogy nem működőképes.
+<P>
+Mi figyelmeztettük Önöket, de Önök egyszerűen nem figyeltek ránk. A realitásokból kiindulva, a tenyésztők sohasem tudnák megfizetni az elektronikus megjelölést, mert jelenleg kevesebbet kapnak bárányonként, mint 20 évvel ezelőtt! Nevezzenek meg egyetlen olyan iparágat, egyetlen üzleti tevékenységet, amelytől azt kérik, hogy óriási kiadások mellett termékeiért kevesebb bevételhez jusson, mint 20 évvel ezelőtt. Személyes tapasztalatból tudom, hogy most ez a helyzet.
+<P>
+A jelenlegi rendszer megfelelő. Söpörjük hát egy időre ezt az asztal alá. Azzal tudok egyetérteni, hogy 2009-ben vegyük újra elő a témát és akkor beszéljünk róla megint. Lehetséges, hogy 2009-re az elektronikus megjelölés technológiája, ami jelenleg túlságosan drága, a technológia egyéb területeihez hasonlóan az alacsony költségek és juhtenyésztők kedvezőbb megtérülésének eredményeként megfizethetőbb lesz. Ebben az esetben újra megvizsgálhatjuk a kérdést.
+<P>
+A juhtenyésztők számára nagy kihívást a jövedelmező működés jelenti, csak ennek teljesülése esetén tudunk biztonsággal továbblépni. Nagy érdeklődéssel hallgattam Miguélez Ramos asszony és Stevenson úr juhokkal kapcsolatos eszmecseréjét, mert ők általában a halakról szoktak eszmét cserélni, ami viszont teljesen más! Valószínűleg ott még több okoskodás hangzik el, mint a juhokkal kapcsolatos ma esti eszmecseréjük során.
+<P>
+Mint ahogy Parish úr az imént vázolta, a kevés haszonnal járó sok munka nagyon megnehezíti a juhtenyésztők számára ezt a feladatot. A teljes nyári időszakban több ezer juh van a hegyek tetején. Próbálják csak megfogni; próbálják csak megjelölni; próbálják csak követni azokat. A biztos úrnak azt kell mondanom: bárcsak elküldené a terveket kidolgozó tisztviselőit ezekre a területekre, hogy lássák, mivel kell a tenyésztőknek megbirkózniuk, min kell keresztülmenniük. Akkor talán megértheti, hogy mit érzünk és miért vetjük fel ezeket a szempontokat.
+<P>
+Igen, csináljuk önkéntes alapon. Csináljuk akkor, amikor már felkészültünk. Megfelelő ütemben és csak olyan mértékben haladjunk előre, amit meg is engedhetünk magunknak.
+<SPEAKER ID="411" NAME="Markos Kyprianou">
+a Bizottság tagja. - Tisztelt Elnök úr! Rövid leszek, mivel későre jár. Emlékeztetni szeretném a tisztelt képviselőket, hogy ma a rendszer bevezetésének időpontjáról beszélünk. Megfelelő módon döntés született a rendszer beindításáról, mindössze az időpont kérdése maradt nyitva, pontosabban megjelöltünk egy időpontot és arról határoztunk, hogy a későbbiek során ezt az időpontot vagy módosítjuk vagy megerősítjük.
+<P>
+Több tagországból érkezett adatok két dolgot mutattak. Először is azt mutatták, hogy a bevezetés mind technikailag mind gazdaságilag megvalósítható - ahogy az a jelentésben is szerepel - és azt, hogy a rendszer bevezetéséhez a tagállamoknak több időre van szükségük, amiből az következik, hogy egy reálisabb időpontra van szükség.
+<P>
+Az az igazság, hogy a Bizottság valóban javasolta, hogy az időpont egy későbbi szakaszhoz kötődjön. Biztosíthatom Önöket, hogy nem állt szándékunkban a Parlament megkerülésére és pontosan ezért választottuk ezt az eljárásmódot - azaz a kérdés megvitatását ahelyett, hogy egy cikket illesztettünk volna a rendeletbe, ami lehetővé tette volna, hogy kizárólag a Bizottság hozza meg a döntést.
+<P>
+A Bizottságnak soha nem állt szándékában ezekből a döntésekből kihagyni a Parlamentet. Az időpont meghatározását technikai kérdéskent kezeltük. Mivel az alapelvek már elfogadásra kerültek, úgy gondoltuk, hogy ez a technikai kérdés elfogadható komitológiai eljárással, és hogy megismételjem, amit már korábban mondtam, semmi kifogásunk sincs egy konkrét időpont kijelölő módosítás elfogadása ellen, amely szerintem elégséges időt - két évet - biztosít a tagállamoknak a felkészülésre.
+<P>
+Azonban nem látnánk szívesen egy önkéntes alapon működő rendszert, mivel a rendelet a nyomonkövethetőségre vonatkozik, a nyomonkövethetőségnek pedig hatékonynak kell lennie és azt minden tagállamban egyformán kell alkalmazni. Ugyanakkor különleges képet nyújt az állategészségügy Európai Unión belüli helyzetéről. Meg lehet nézni a jelenlegi rendszer közvetlen költségeit, de ha a hiány és az állatbetegségek csökkenésének köszönhető megtakarítások hosszabb távú hasznát nézzük, akkor úgy gondoljuk, hogy gazdasági szemszögből végül előnyökkel fog járni.
+<P>
+Mindemellett készek vagyunk a Parlament módosítását elfogadni és úgy gondoljuk, hogy jövő héten a Tanács részéről is elfogadásra kerül majd.
+<SPEAKER ID="412" NAME="Elnök">
+Graefe zu Baringdorf úr most egy ügyrendi javaslattal kapcsolatban kap szót.
+<SPEAKER ID="413" NAME="Friedrich-Wilhelm Graefe zu Baringdorf">
+előadó. - (DE) Engedjék meg, hogy feltegyek még egy kérdést a biztos úrnak. Kyprianou biztos úr, néhány olyan kivételről szóló módosítást nyújtottam be, amelyek nem önkéntes alapon kerülnek végrehajtásra, de valójában az eredeti eszköz engedélyez eltérést, aktualizálást, amennyiben ez a 9. cikk (4) bekezdés szerint történik. Bizonyos körülmények között - és ezek között nem szerepelhetnek az önkéntes intézkedések, amelyek az egészet értelmetlenné tennék- lehetőség lenne annak megvizsgálására, hogy milyen módon lehetne kiküszöbölni a képviselőtársaim által felvetett aggodalmakat. Ezt csak egy javaslatnak, egy olyan kérdésnek szánom, amivel kapcsolatban talán szívesen elmondanák véleményüket.
+<SPEAKER ID="414" NAME="Elnök">
+Ez nem ügyrendi javaslat volt, de válaszolna rá a biztos úr?
+<SPEAKER ID="415" NAME="Markos Kyprianou">
+a Bizottság tagja. - Elnök úr! Mint ahogy már mondtam, gondunk van olyan módosítások elfogadásával, amelyek a rendelet legfőbb alapelveit és szempontjait érinti.
+<P>
+Újra megvizsgáljuk majd, de ennek ellenére ez aggályos.
+<SPEAKER ID="416" NAME="Elnök">
+A vitát lezárom.
+<P>
+A szavazásra 2007. december 13-án, csütörtökön kerül sor.
+<P>
+Írásbeli nyilatkozat (142.cikk)
+<SPEAKER ID="417" NAME="Mairead McGuinness  " AFFILIATION="PPE-DE">
+írásban. - Nem hiszem, hogy a juhok és kecskék elektronikus azonosításának (eID) hatékonyságával és hatásosságával kapcsolatban elégséges információval rendelkezünk. Úgy gondolom továbbá, hogy egy gazdasági értékelésre, elsősorban a termelőkre gyakorolt hatás költség-haszon elemzésére van szükség az eID bevezetési időpontjának meghatározása előtt.
+<P>
+Semmi sem indokolja, hogy kitűzzék a rendszer bevezetésének időpontját, amíg nem történt meg az eID hatásainak, különösképpen a nyomonkövethetőséggel és a betegség ellenőrzéssel kapcsolatos hatásoknak az értékelése.
+<P>
+Írországban a juh ágazat egyre kisebb lesz, sok tenyésztő elhagyja az iparágat, ezért nem kívánatos most az ágazatot érintő intézkedések és költségek bevezetése.
+<P>
+Amennyiben az ágazatban ténylegesen fennállna az eID bevezetésének indokoltsága, akkor erre reagálnának a tenyésztők és önkéntes alapon maguk vezetnék be ezt a rendszert. Ha és amikor bevezetésre kerülne ez a rendszer, annak inkább önkéntes, mint kötelező alapon kellene megtörténnie.
+<P>
+Továbbá, amennyiben az eID bevezetésre kerülne, az kizárólag egy meghatározott időpont után született állatokra és nem a már meglévő állatállományra vonatkozhat csak.

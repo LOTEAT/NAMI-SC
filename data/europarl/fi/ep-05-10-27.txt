@@ -1,0 +1,932 @@
+<CHAPTER ID="1">
+<SPEAKER ID="1" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="2" LANGUAGE="" NAME="" AFFILIATION="(Istunto avattiin klo 10.05.)">
+<SPEAKER ID="3" LANGUAGE="DE" NAME="Hans-Gert Poettering," AFFILIATION="PPE-DE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, hyvät kollegat, olette luultavasti panneet merkille Iranin presidentin Ahmadinejadin eilisen lausunnon. Hänen toiveenaan on Israelin valtion pyyhkäiseminen pois maailmankartalta, mitä hän väitti Ajatollah Khomeinin tahdoksi. Tällainen lausunto on kauhistuttava, ja näin sanoessaan Iranin presidentti rinnastaa itsensä terroristeihin. Pidämme Israelin koskemattomuutta ja turvallisuutta hyvin arvokkaana asiana ja puolustamme sitä.
+<P>
+Haluan ilmoittaa ryhmäni puolesta, että aiomme puuttua tähän asiaan. Ehdotamme asiaa käsiteltäväksi parlamentin seuraavalla istuntojaksolla, ja toivon saavani muiden ryhmien tuen. Huomaan, että läsnä ovat jäsenet Koch-Mehrin ja Swoboda, ja heidän lisäkseen näen muitakin, jotka voisivat olla halukkaita antamaan tukensa. 
+<SPEAKER ID="4" LANGUAGE="DE" NAME="Hannes Swoboda," AFFILIATION="PSE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, jos tämä lausunto oli todella tällainen, kukaan tässä parlamentissa ei voi tietenkään hyväksyä sitä, eikä sitä voida painaa villaisella. Koska lausuntoon on suhtauduttava asianmukaisella vakavuudella, haluan ryhmäni puolesta ilmoittaa tukevani vahvasti jäsen Poetteringin ajatusta siitä, että asia olisi otettava seuraavan istuntojakson esityslistalle. 
+<SPEAKER ID="5" LANGUAGE="DE" NAME="Silvana Koch-Mehrin," AFFILIATION="ALDE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, jos tällaisia lausuntoja on todella annettu, niitä on meidänkin mielestämme mahdotonta hyväksyä, sillä ne ovat kauheita ja vaarallisia. Sekin on järkyttävää, että presidentti ylipäänsä pitää puheen kokouksessa, jonka aiheena on "maailma ilman sionismia", ja esittää sitten tällaisia lausuntoja. Tällaista ei voida mitenkään hyväksyä, ja tuemme esitystä siitä, että parlamentissa käydään asiasta keskustelu. 
+<SPEAKER ID="6" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Ehdotuksenne on merkitty muistiin, kuten myös aikomuksenne ottaa tämä asia aikanaan esiin esimerkiksi puheenjohtajakokouksessa. 
+<SPEAKER ID="7" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Esityslistalla on seuraavana keskustelu Mavrommatisin laatimasta vetoomusvaliokunnan mietinnöstä (A6-0276/2005), joka koskee oikeusasiamiehen vuosikertomusta 2004 (2005/2136(INI)). 
+<SPEAKER ID="8" LANGUAGE="EN" NAME="Nikiforos Diamandouros," AFFILIATION="oikeusasiamies">
+<P>
+   . Arvoisa puhemies, haluan kiittää teitä siitä, että voin puhua parlamentille ja esitellä vuosikertomuksen 2004. Vuosi 2004 on minulle ensimmäinen kokonainen vuosi tehtävässäni.
+<P>
+Vuosi 2004 oli Euroopan unionille erittäin merkittävä vuosi: historiallinen laajentuminen toteutui, Euroopan parlamentin vaalit pidettiin, uusi komissio koottiin ja perustuslakisopimuksesta käytiin vilkasta keskustelua. Näillä tapahtumilla ja kansalaisten kiinnostuksella niitä kohtaan oli merkittäviä vaikutuksia oikeusasiamiehen kannalta, kuten kohta kerron.
+<P>
+Vuosikertomuksessa kerrotaan edistymisestämme kantelujen käsittelyssä, hyvän hallintotavan levittämisessä ja oikeusasiamiehen työn tekemisessä tunnetummaksi kansalaisten keskuudessa. Kanteluja vastaanotettiin yhteensä 3 726, mikä on 53 prosenttia enemmän kuin edellisenä vuonna. Kantelujen määrän lisäys ei johdu toimielinten hallinnollisen toiminnan heikentymisestä, vaan se kuvastaa pikemminkin kansalaisten lisääntynyttä tietoisuutta eurooppalaisista kysymyksistä ja heidän alati kohenevaa tietämystään omista oikeuksistaan ja siitä, kuinka he voivat näitä oikeuksiaan käyttää.
+<P>
+Kuten olen maininnut, vuonna 2004 eurooppalaiset kysymykset olivat näkyvästi otsikoissa kaikkialla unionissa. Lisäksi tein paljon työtä tiedottaakseni kansalaisille heidän oikeudestaan kannella Euroopan oikeusasiamiehelle ja levittääkseni tietoa saavutetuista myönteisistä tuloksista. Kaiken kaikkiaan pidin yli 30 julkista luentoa ja esitystä ja järjestin yli 150 kokousta oikeusasiamiesten, julkishallinnon virkamiesten ja muiden jäsenvaltioissa ja ehdokasvaltioissa toimivien kumppaniemme kanssa.
+<P>
+Vuonna 2004 pystyin auttamaan minulle kantelun esittäneitä henkilöitä lähes 70-prosenttisesti. Auttaminen tapahtui kolmella tavalla: tutkimukset aloitettiin tai asia toimitettiin toimivaltaisen elimen käsiteltäväksi tai kantelijaa opastettiin kääntymään sellaisen tahon puoleen, joka pystyisi ratkaisemaan ongelman nopeasti ja tehokkaasti. Vuoden aikana saatoin päätökseen 251 tutkimusta, ja tapauksista 45 prosenttia oli sellaisia, joissa hallinnollisia epäkohtia ei ilmennyt. Tällainen tulos ei ole aina kantelijan kannalta kielteinen, sillä ainakin hän saa kyseiseltä elimeltä täydellisen selvityksen tämän toimista. Lisäksi niissäkin tapauksissa, joissa hallinnollisia epäkohtia ei ilmene, saatan ehdottaa kyseiselle elimelle tapoja, joilla se voi parantaa hallintonsa laatua tulevaisuudessa. Jos näin on, tuon asian esiin lopulliseen päätökseen sisällyttämässäni lisähuomautuksessa.
+<P>
+Aina hallinnollisten epäkohtien ilmetessä pyrin mahdollisuuksien mukaan saavuttamaan sekä kantelijaa että kyseessä olevaa toimielintä tyydyttävän myönteisen lopputuloksen. Tutkimusteni johdosta 28 prosentissa tapauksia kyseinen toimielin joko sopi asian kantelijaa tyydyttävällä tavalla tai teki sovintoratkaisun. Mikäli sovintoratkaisu ei ole mahdollinen, lopetan asian käsittelyn kriittiseen huomautukseen tai laadin suositusluonnoksen.
+<P>
+Vuonna 2004 hyväksytyistä suositusluonnoksista mainitsen esimerkkinä tapauksen, jossa komissio myönsi ex gratia -perusteisesti korvauksen pienelle yritykselle, jolle oli annettu liian vähän aikaa tutkimus- ja kehitystoimintaa koskevan sopimusehdotuksen laatimista varten.
+<P>
+Jos yhteisön toimielin ei reagoi tyydyttävällä tavalla suositusluonnokseen, oikeusasiamiehen viimeisenä aseena on Euroopan parlamentille toimitettava erityiskertomus. Vuonna 2004 laadittiin ainoastaan yksi erityiskertomus, jonka syynä oli komission kieltäytyminen tarkistamasta komission edustustojen lehdistöedustajien palkkaamista koskevia sääntöjä. Laadin tässä asiassa suositusluonnoksen, koska komissio ei antanut johdonmukaista ja vakuuttavaa selitystä nykykäytäntöjensä kirjavuudesta siitä huolimatta, että tämä oli sille täysin mahdollista tutkimusteni aikana.
+<P>
+Mielestäni on tärkeää, että eurooppalaiset toimielimet ovat valmiita harkitsemaan asioita uudelleen ja etteivät ne anna vaikutelmaa siitä, että niiden toiminta on mielivaltaista. Olen kiitollinen parlamentille siitä, että se tukee tätä tärkeää periaatekysymystä, kuten Mavrommatisin mietinnön 11 kohdasta ilmenee.
+<P>
+Vuoden kuluessa saatettiin päätökseen kaksi rakenteellisia kysymyksiä koskevaa oma-aloitteista tutkimusta, joiden lopputulokset olivat myönteisiä. Komissio myönsi Eurooppa-koulujen hallinnon parantamisen tarpeellisuuden ja sitoutui tekemään yhteistyötä vanhempien kanssa. Kannustin komissiota huolehtimaan siitä, että myös koulut myöntävät, että vanhemmille on annettava valtuuksia ja että heidän luottamuksensa on voitettava. Lisäksi komissio hyväksyi ja pani täytäntöön suositusluonnoksen, joka liittyi kansallisten asiantuntijoiden asettamista koskevan sisäisen kantelumenettelyn käyttöönottoon.
+<P>
+Seuraavaksi haluan kommentoida muutamalla sanalla tulevia painopistealueitani. Ensimmäisenä painopisteenäni on sen edistäminen, että EU:n toimielimet ja laitokset omaksuvat kansalaiskeskeisen lähestymistavan kaikissa toimissaan. Tämän vuoksi pyrin olemaan aina tilaisuuden tullen järjestelmällisesti yhteydessä toimielimiin kannustaakseni niitä noudattamaan parhaita käytäntöjä ja edistääkseni sovintoratkaisuja. Toimielinten ja laitosten aktiivinen yhteistyö on olennaisen tärkeää, jotta oikeusasiamiehen toimet kansalaisten hyväksi onnistuvat. Vuosikertomukseen sisältyy monia esimerkkejä siitä, että toimielimet ovat ryhtyneet ripeästi toimiin niiden käsiteltäväksi saatettujen asioiden ratkaisemiseksi ja vastanneet myönteisesti ehdotuksiini ja suosituksiini.
+<P>
+Toimielimissä ja laitoksissa vieraillessani olen korostanut sitä, että on tärkeää reagoida kanteluihin ripeästi ja rakentavasti. Meidän kaikkien perimmäisenä tavoitteena on oltava se, että kansalaisia palvellaan mahdollisimman hyvin. Aion jatkossakin pyrkiä määrätietoisesti siihen, että pääsemme eroon nykyisestä sekavasta tilanteesta, jossa eri toimielimet ja laitokset noudattavat erilaisia hyvän hallintotavan sääntöjä.
+<P>
+Parlamentti on jo hyväksynyt – 6. syyskuuta 2001 – Euroopan yhteisön hyvän hallintotavan säännöstön. Tähän tekstiin on sisällytetty sääntöjä ja periaatteita, joita kaikkien unionin toimielinten ja laitosten on noudatettava. Säännöstö on saanut laajaa kansainvälistä tunnustusta jäsenvaltioissa ja ehdokasvaltioissa, Euroopan neuvostossa ja muuallakin maailmassa. Kyseessä on joka tapauksessa eurooppalainen menestystarina, josta sekä parlamentti että oikeusasiamies voivat olla perustellusti ylpeitä.
+<P>
+Tavatessani kuluvan vuoden toukokuussa komission jäsenten kollegion minusta oli rohkaisevaa saada komission puheenjohtajalta myönteistä palautetta tässä asiassa. Katson, että komission tehdessä yhteistyötä yhteinen säännöstö on mahdollista ottaa käyttöön vuonna 2006.
+<P>
+Lisäksi aion ottaa tarkasteltavaksi oikeusasiamiehen ohjesäännön. Tältä osin päätavoitteenani on sen varmistaminen, että kansalaiset voivat luottaa täysin oikeusasiamiehen toimivaltaan selvittää totuus kuultaessa todistajia tai tutkittaessa asiakirjoja. Lisäksi haluan tehdä yhteistyötä parlamentin kanssa sen varmistamiseksi, että perusoikeuskirjassa mainittujen perusoikeuksien loukkauksia koskevat kansalaisten kantelut voidaan saattaa yhteisöjen tuomioistuimen käsiteltäviksi, jos tärkeää periaatekysymystä ei voida muulla tavoin ratkaista. Parlamentilla on jo toimielimenä täydet valtaoikeudet saattaa asia yhteisöjen tuomioistuimen käsiteltäväksi. Tässä mielessä voisi olla hyötyä siitä, että näissä tapauksissa oikeusasiamiehellä olisi toimivalta puuttua asiaan. Mainitsen vielä, että tämä toimivalta on jo annettu Euroopan tietosuojavaltuutetulle, jonka kanssa minulla oli viime viikolla hyvin ystävällismielinen ja hyödyllinen tapaaminen.
+<P>
+Kolmantena painopisteenäni on jäsenvaltioiden oikeusasiamiesten kanssa tekemäni tiiviin yhteistyön syventäminen Euroopan oikeusasiamiesverkoston kautta. Verkosto mahdollistaa tapausten nopean siirtämisen ja parhaiden käytäntöjen jakamisen, ja lisäksi verkoston avulla on mahdollista edistää sellaisen tiedon vapaata kulkua, joka koskee eurooppalaista lainsäädäntöä ja sen täytäntöönpanoa kansallisella, alueellisella ja paikallisella tasolla. Tarkoituksena on edistää hyvää hallintotapaa kaikkialla unionissa siten, että kansalaiset voivat hyödyntää kaikkia eurooppalaisen lainsäädännön heille takaamia oikeuksia. Minua ilahduttaa se, että De Rossan viimevuotiseen mietintöön sisältyneen mainion ehdotuksen ansiosta vetoomusvaliokunta on osallistunut verkoston toimintaan sen täysivaltaisena jäsenenä ja lähettänyt edustajansa Haagissa syyskuussa pidettyyn kansallisten oikeusasiamiesten kokoukseen.
+<P>
+Haluan kiittää vetoomusvaliokunnan jäseniä ja erityisesti tämänvuotista esittelijää Manolis Mavrommatisia heidän tuestaan ja rakentavista ehdotuksista sellaisina kuin ne esitetään parlamentin mietinnössä.
+<P>
+Tänään olen jo maininnut monia niistä kysymyksistä, joista mietinnössä annetaan viisaita neuvoja – ainakin oikeusasiamiehen kannalta. Muiden seikkojen osalta olen jo lupautunut pyytämään, että voin saapua vetoomusvaliokuntaan aina, kun katson viisaaksi ja tarpeelliseksi esittää erityiskertomuksen parlamentille sovintoratkaisun tai suositusluonnoksen hylkäämisen jälkeen.
+<P>
+Esitin valiokunnalle aiemmin tässä kuussa kaksi erityiskertomusta. Ensimmäinen koski komission niiden työntekijöiden taloudellista kohtelua, joiden lapset eivät voi vammaisuutensa vuoksi osallistua Eurooppa-koulujen opetukseen. Toisessa kertomuksessa todettiin, että neuvosto ei ole antanut päteviä perusteluja sille, että se säätää lakeja edelleen suljetuin ovin. Neuvoston olisi helppoa muuttaa työjärjestystään siten, että sen lakia säätävät kokoukset olisivat avoimia.
+<P>
+Olen lisäksi sitoutunut parantamaan kansalaisille tiedottamista eurooppalaisen oikeusasiamiesverkoston jäsenten tarjoamista palveluista. Aion ottaa verkkosivustollamme käyttöön interaktiivisen opastajan, joka auttaa kantelijoita löytämään sopivan oikeusasiamiehen, jonka puoleen he voivat kääntyä, olipa kyseessä sitten eurooppalainen, kansallinen tai alueellinen taso.
+<P>
+Pari viikkoa sitten tuli täyteen ensimmäinen vuosikymmen siitä, kun Euroopan oikeusasiamiehen toimisto perustettiin. Tätä vuosipäivää juhlistaaksemme julkaisimme toimiston historiaa valottavan teoksen. Lisäksi olemme järjestäneet useita onnistuneita juhlatilaisuuksia, joista yksi järjestettiin Euroopan parlamentille 27. syyskuuta. Lähiviikkojen aikana sekä Strasbourgissa että Brysselissä järjestetään lisää tapahtumia.
+<P>
+Mielestäni kuluneen vuosikymmenen aikana kehittyneet vilpittömät, luottamukselliset ja ymmärtävät suhteet ovat arvokas voimavara parannettaessa julkishallinnon laatua Euroopassa kansalaisten hyväksi. Euroopan parlamentti ja parlamentin vetoomusvaliokunta ovat tältä osin elintärkeitä kumppaneita Euroopan oikeusasiamiehelle. 
+<SPEAKER ID="9" LANGUAGE="EL" NAME="Manolis Mavrommatis (PPE-DE )," AFFILIATION="esittelijä">
+<P>
+   . – Arvoisa puhemies, kiitän oikeusasiamies Diamandourosia siitä yhteistyöstä, jota hän on tehnyt kanssamme tämän mietinnön koko valmistelun ja laadinnan ajan. Kiitän vilpittömästi myös vetoomusvaliokuntaa, jäsen Libickiä, kaikkia tänään läsnä olevia kollegojani, jäsen Robert Atkinsia ja kaikkia niitä, jotka ovat olleet avuksi tämän mietinnön valmistelussa.
+<P>
+Arvoisa komission jäsen, arvoisa oikeusasiamies Diamandouros, hyvät parlamentin jäsenet, oikeusasiamiehen toimisto on riippumaton toimielin ja väline Euroopan unionin hallinnon valvomiseksi. Oikeusasiamies Diamandourosin meille vetoomusvaliokunnan kokouksessa Strasbourgissa esittelemä kertomus on olennainen lähde laatiessamme Euroopan parlamentin vuosikertomusta oikeusasiamiehen toiminnasta.
+<P>
+On tosiasia, että vuonna 2004 kantelujen määrä kasvoi 53 prosenttia edellisvuodesta. Vaikka arveltiin, että suurin syy Euroopan oikeusasiamiehelle tehtyjen kantelujen lisääntymiseen olisi laajentuminen, vain 51 prosenttia lisäyksestä johtui kymmenen uuden valtion liittymisestä unioniin. Kantelujen määrän lisääntyminen ei kuitenkaan välttämättä tarkoita sitä, että Euroopan unionin toimielimissä olisi enemmän hallinnollisia epäkohtia, vaan sitä, että kansalaiset ovat paremmin perillä oikeuksistaan. Tämä on pääasiassa oikeusasiamiehen tarmokkaan toiminnan ansiota. Oikeusasiamiehen jäsenvaltioihin ja kolmansiin maihin tekemien lukuisten vierailujen, julkisten luentojen, lehdistöhaastattelujen ja vuonna 2004 järjestettyjen muiden kokousten myötä kansalaiset ovat tulleet tietoisemmiksi julkisasiamiehen tehtävistä ja omasta kanteluoikeudestaan. Vaikka oikeusasiamies Diamandouros on pyrkinyt valistamaan kansalaisia, Euroopan oikeusasiamiehen toimivallan rajat ovat edelleen epäselvät. Tarkoitan tällä sitä, että vuonna 2004 Euroopan oikeusasiamiehelle tehdyistä kanteluista 74,8 prosenttia ei kuulunut hänen toimivaltaansa. Näin ollen myös meidän, Euroopan parlamentin jäsenten, on pyrittävä selkiyttämään toimivaltajakoa niiden yhteisön toimielinten osalta, joiden puoleen Euroopan kansalaiset voivat kääntyä käyttääkseen oikeuksiaan.
+<P>
+Lisäksi haluan ottaa esiin eräitä oikeusasiamiehen vuosikertomukseen sisältyviä tilastotietoja. Vuonna 2004 saatettiin päätökseen 251 tutkimusta, joista neljä käynnistettiin oikeusasiamiehen omasta aloitteesta. Kaiken kaikkiaan ehdotettiin 12:ta sovintoratkaisua, 36 asiaa johti kriittisten huomioiden antamiseen – muun muassa Euroopan parlamentille huomautettiin siitä, ettei se ole ryhtynyt asianmukaisiin toimiin noudattaakseen olennaisella tavalla niitä sääntöjä, jotka koskevat tupakointia parlamentin tiloissa – 17 suositusluonnosta esitettiin ja yksi erityiskertomus jätettiin käsiteltäväksi.
+<P>
+Tärkeä tekijä oikeusasiamiehen toimiston tehokkuudessa on se, että oikeusasiamies tekee yleisesti ottaen yhteistyötä Euroopan unionin toimielinten ja Euroopan parlamentin kanssa. Viittaan tällä esimerkiksi oikeusasiamies Diamandourosin ja vetoomusvaliokunnan ja vetoomusvaliokunnan puheenjohtajan välillä pidettyihin säännöllisiin tiedotustilaisuuksiin ja kokouksiin, kuten myös oikeusasiamiehen ja komission kollegion välillä 25. toukokuutta 2005 pidettyyn kokoukseen. Tämän kokouksen päätelmissä korostetaan, että komissiolla ja Euroopan oikeusasiamiehellä on aidosti yhteiset tavoitteet niiden pyrkiessä siihen, että oikeusasiamiehen toimeen liittyvä korjaava ja puuttuva toiminta toteutuvat onnistuneesti.
+<P>
+On tosiasia, että useimmat kantelut koskevat hallinnollisia epäkohtia. Oikeusasiamiehen vuoden 1997 vuosikertomuksen mukaan yhtenä hallinnollisena epäkohtana on pidettävä sitä, ettei julkinen elin toimi sitä sitovan säännön tai periaatteen mukaisesti. Hallinnollisista epäkohtatapauksista 22 prosenttia johtui avoimuuden puutteesta ja tiedon antamisesta kieltäytymisestä, 19 prosenttia syrjinnästä ja 12 prosenttia vältettävissä olevasta viivästyksestä. Lisäksi 9 prosenttia liittyi epätyydyttäviin menettelyihin, 7 prosenttia epäoikeudenmukaisuuteen tai vallan väärinkäyttöön, 6 prosenttia laiminlyönteihin ja 5 prosenttia oikeudellisiin virheisiin.
+<P>
+Kun nämä tilastotiedot pidetään mielessä, oikeusasiamiehen olisi siis määriteltävä hallinnollisten epäkohtien käsite siten, että siinä otetaan huomioon sekä ne toimielimet ja laitokset, joihin käsitettä sovelletaan, että ne asiat, jotka voivat olla kantelujen kohteena.
+<P>
+Arvoisa puhemies, arvoisa komission varapuheenjohtaja Wallstöm, haluan tähdentää – kuten mietinnössäni mainitsin – myös sitä, että olisi erittäin hyödyllistä, jos oikeusasiamies voisi saapua Euroopan parlamentin vetoomusvaliokuntaan keskustelemaan kaikista toimielimen kieltäytymisen muodoista tai sovintoratkaisun tekemiseksi. Lisäksi oikeusasiamiehen vuosikertomuksesta ilmenevät muun muassa oikeusasiamiehen toimet kansallisista ja alueellisista oikeusasiamiehistä muodostuvan verkoston laajentamiseksi ja tämän verkoston toiminnan tehostamiseksi tietojenvaihdon ja parhaiten käytäntöjen kehittämisen avulla.
+<P>
+Euroopan parlamentin vetoomusvaliokunnan osallistumisella tämän verkoston toimintaan voitaisiin helpottaa käytännön yhteistyötä Euroopan toimielinten sekä kansallisten ja alueellisten oikeusasiamiesten välillä, ja sillä tehtäisiin mahdolliseksi säännöllisen yhteydenpidon lisääminen kansallisten parlamenttien vetoomusvaliokuntien ja jäsenvaltioiden oikeusasiamiesten välillä.
+<P>
+On erityisen kiinnostavaa, että 69 prosenttia kanteluista kohdistui komissioon. Euroopan komission olisi omalla tahollaan tutkittava rikkomista koskevat kantelut kohtuullisessa ajassa sen varmistamiseksi, että kansalaisten kantelut tutkitaan välittömästi ja tehokkaasti.
+<P>
+Lopuksi totean vielä sen, että mietintöni laatimisessa kiinnekohtana oli myös Euroopan oikeusasiamiehen kertomusta 2003 koskeva viimevuotinen De Rossan mietintö. Kun oikeusasiamiehen kertomusta 2003 verrataan kertomukseen 2004, lopputulos on myönteinen, ja se saa meidät keskittymään vetoomusvaliokunnan kannalta erityisen kiinnostaviin seikkoihin. Lisäksi voimme huomata tällä tavoin, kuinka konkreettista edistyminen on ollut vuoden kuluessa.
+<P>
+Lopuksi haluan kiittää kaikkia teitä ja tietenkin vetoomusvaliokunnan sihteeristöä sekä kaikkia niitä kunnianarvoisia ystäviäni, jotka edesauttoivat tarkistuksillaan tämän mietinnön laatimista. 
+<SPEAKER ID="10" LANGUAGE="EN" NAME="Margot Wallström," AFFILIATION="komission varapuheenjohtaja">
+<P>
+   . Arvoisa puhemies, haluan aluksi kiittää esittelijää Manolis Mavrommatisia hänen mietinnöstään, joka on hyvin hyödyllinen asiakirja. Sen avulla komissio voi ottaa huomioon Euroopan parlamentin näkemykset oikeusasiamiehen vuosikertomuksessaan 2004 esiin ottamista monista tärkeistä kysymyksistä.
+<P>
+Haluaisin todeta, että komission ja oikeusasiamiehen väliset suhteet tarkoittavat mielestäni kummankin lujaa sitouttamista hyvän hallintotavan ja avoimuuden sekä viime kädessä myös demokratian takaamiseen. Sama koskee suhteitamme parlamentin vetoomusvaliokuntaan. Mielestäni Euroopan oikeusasiamiehen olennaisena tehtävänä on siltojen rakentaminen kansalaisten ja Euroopan unionin välille. Oikeusasiamiehen toimilla voidaan tehostaa komission ja kansalaisten välistä vuorovaikutusta ja parantaa kansalaisille tiedottamista. Näin ollen komissio aikoo jatkossakin perehtyä niihin eri tapoihin, joilla voidaan entisestään parantaa komission yhteistyötä Euroopan oikeusasiamiehen kanssa ja komission sitoutumista Euroopan oikeusasiamiehen tukemiseen.
+<P>
+Kuten jäsen Mavrommatis toteaa perustellusti mietinnössään, oikeusasiamiehen käsittelemien Euroopan toimielimiä ja laitoksia koskevien kantelujen määrä nousi 53 prosenttia vuonna 2004. Yhdyn siihen, mitä oikeusasiamiehen vuosikertomuksessa todetaan siitä, että tämä kuvastaa eurooppalaisten lisääntyvää tietoisuutta Euroopan oikeusasiamiehen olemassaolosta, ja tähän kehitykseen meidän on syytä olla tyytyväisiä.
+<P>
+Koska komissio on lupautunut parantamaan ja edistämään entisestään oikeusasiamiehen kanssa tekemäänsä yhteistyötä, haluan tässä yhteydessä ottaa esiin komission sisäisiä menettelyjä koskevan uunituoreen uudistuksen. Uudistuksella pyritään vahvistamaan takeita siitä, että kukin komission jäsen on poliittisesti vahvasti sitoutunut siihen, että oikeusasiamies voi tehdä tutkimuksia kunkin vastuualueella.
+<P>
+Komissio on päättänyt korvata nykyisen toimivallan – joka on tällä hetkellä ainoastaan puheenjohtajalla – toimivallalla, joka on oikeusasiamiehen tutkittavaksi saatetusta asiasta vastaavalla komission jäsenellä. Samalla komission pääsihteeristö vahvistaa omaa tehtäväänsä poliittisen ja hallinnollisen johdonmukaisuuden sekä komission oikeusasiamiehelle antamien lopullisten vastausten johdonmukaisuuden valvojana. Uudistus tulee voimaan 1. marraskuuta 2005.
+<P>
+Lisäksi komission on nähtävä enemmän vaivaa Euroopan oikeusasiamiehen ehdottamien sovintoratkaisujen hyväksymiseksi. Komission on otettava heti huomioon sille osoitetut tiettyjen kohtien noudattamista koskevat suositukset eri tapauksien yhteydessä ilmenneiden ongelmien ratkaisemiseksi. Oikeusasiamiehen tärkeimpiä keinoja on kansalaisia ja hallintoa tyydyttävien ratkaisujen ehdottaminen.
+<P>
+Korostettakoon vielä kerran, että oikeusasiamiehen tutkimukset johtavat usein kantelijoiden kannalta myönteiseen tulokseen, mutta lisäksi niiden avulla voidaan parantaa hallinnollisten palvelujemme laatua.
+<P>
+Mavrommatisin mietinnössä käsitellään avoimuutta erityisesti asiakirjojen antamisesta tutustuttavaksi – joka on kansalaisten perusoikeus – annetun asetuksen (EY) N:o 1049/2001 täytäntöönpanon osalta. Lisäksi mietinnössä todetaan, että asetusta 1049/2001 sovelletaan nykyään yhteisön virastoihin.
+<P>
+Voimme lisäksi vakuuttaa, että tutkimme asiakirjojen antamista tutustuttavaksi koskevat hakemukset erittäin huolellisesti ja että poikkeuksia oikeuteen saada asiakirjoja tutustuttavaksi sovelletaan tapauskohtaisesti.
+<P>
+Oikeusasiamiehellä on tällä alalla todella tärkeä tehtävä. Olemme edistyneet merkittävästi paremman ja suuremman avoimuuden saavuttamisessa. Tämä koskee erityisesti asiakirjojen antamista tutustuttavaksi rikkomismenettelyissä. On olennaisen tärkeää, että komissiolla on riittävästi liikkumavaraa menettelyn suorittamiseksi täysin itsenäisesti. Näissä tapauksissa on löydettävä tasapaino avoimuusperiaatteen ja luottamuksellisuuden välille. Päätökseen saatettujen rikkomismenettelyjen osalta komissio on arvioinut uudelleen käytäntöjään, ja asiakirjat ovat nykyään pääsääntöisesti saatavissa tutustuttavaksi.
+<P>
+Komissio on päättänyt soveltaa menettelyjä, joiden avulla Euroopan oikeusasiamies kykenee tekemään työnsä. Nykyään oikeusasiamies voi esimerkiksi tutkia tiedostoja. Tällä tavoin hän voi tarkistaa kyseessä olevan yhteisön toimielimen tai laitoksen toimittamien tietojen täydellisyyden ja tarkkuuden. Tämä on siten merkittävä tae kantelijalle ja kansalaisille siitä, että oikeusasiamies voi suorittaa tutkimuksensa perusteellisesti ja täysimääräisesti.
+<P>
+Komissio pitää erittäin tärkeänä asiana hyvän hallintotavan säännöstöä, jolla on EU:n toimielimiä ja laitoksia sitovat vaikutukset. Suhtaudumme tähän asiaan avoimin mielin.
+<P>
+Komission oma hyvän hallintotavan säännöstö tuli voimaan marraskuussa 2000. Aiomme raportoida asianomaisille elimille tässä asiassa käymiemme pohdintojen tuloksista. EU:n hallintokorkeakoulun äskettäinen perustaminen lisää entisestään tämän asian tärkeyttä.
+<P>
+Uudessa perustuslakisopimuksessa unionille annettaisiin erityinen oikeusperusta tällä alalla tehtäviä toimia varten. Kun tilanne otetaan huomioon, asiaa on kuitenkin tarkasteltava eri tavoin. Tässä asiassa myönteinen lopputulos on kaikesta huolimatta mahdollinen, ja toivon, että voimme saavuttaa oikeusasiamiehen ja esittelijän ehdottaman tuloksen.
+<P>
+Lopuksi sanon muutaman sanan oikeusasiamiehen ohjesäännöstä. Oikeusasiamies Diamandourosin ollessa 25. toukokuuta 2005 komission kollegion vieraana hän ilmoitti komissiolle pyytäneensä Euroopan parlamenttia arvioimaan eräiltä osin uudelleen oikeusasiamiehen ohjesääntöä. Oikeusasiamies haluaisi erityisesti saada oikeuden osallistua yhteisöjen tuomioistuimessa vireillä oleviin menettelyihin niissä tapauksissa, jotka liittyvät perusoikeuskirjassa vahvistettujen oikeuksien väitettyihin loukkauksiin.
+<P>
+On todettava, että tässä asiassa Euroopan parlamentilla on aloiteoikeus ja että se tekee päätöksiä äänten enemmistöllä neuvoston antaessa hyväksyntänsä ja komission esittäessä asiassa pelkästään lausunnon. Komissio aikoo tässä asiassa tutustua kaikkiin uusiin aloitteisiin erittäin huolellisesti ja avoimin mielin.
+<P>
+Halumme tehdä yhteistyötä oikeusasiamiehen kanssa ei ole pelkästään velvollisuutemme, vaan se on hyvin tärkeää myös hyvän hallintotavan kannalta. Tämän vuoksi suhtaudumme myönteisesti kertomukseenne. Voin vakuuttaa teille, että aiomme jatkossakin sitouttaa komission tekemään entistä tiiviimmin yhteistyötä oikeusasiamiehen ja parlamentin vetoomusvaliokunnan kanssa. 
+<SPEAKER ID="11" LANGUAGE="DE" NAME="Richard Seeber," AFFILIATION="PPE-DE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, arvoisa komission jäsen, arvoisa oikeusasiamies Diamandouros, olen tyytyväinen oikeusasiamiehen kertomukseen ja haluan lisäksi onnitella sydämellisesti kollegaani Mavrommatisia hänen mietintöluonnoksestaan.
+<P>
+Oikeusasiamies on kiistatta yksi tärkeimmistä välineistä, joilla turvataan kansalaisten asema heidän ollessaan yhteydessä toimielimiin. Aina, kun kansalaiset ovat tekemisissä suurten hallinnollisten yksikköjen kanssa, riippumaton, suoraviivainen ja ennen kaikkea vapaa ulkoinen valvoja on välttämätön. En pidä suinkaan sattumana sitä, että Pohjoismaissa otettiin käyttöön tällainen väline hyvin varhaisessa vaiheessa ja että jo 1970-luvulla esitettiin ensimmäisen kerran ajatus tällaisen toimiston perustamisesta yhteisöön, mikä toteutettiin lopullisesti Maastrichtin sopimuksella.
+<P>
+Alkuperäisenä ajatuksena oli, että Euroopan oikeusasiamies toimisi pääasiassa neuvovana ja valvovana "parlamentin komissaarina", mutta käytännössä kehitys on ollut nopeaa, ja se on tarkoittanut sitä, että nykyään oikeusasiamies toimii Euroopan julkishallinnon ulkoisena valvojana, joka kiinnittää huomiota toistuviin väärinkäytöksiin.
+<P>
+Kun katsotaan kantelujen määriä, huomataan, että määrä on noussut jatkuvasti, mutta mielestäni olennainen merkitys ei ole se, että eurooppalainen hallinto olisi huonontunut, vaan se, että yhä useammat kansalaiset pyrkivät vetoamaan oikeuksiinsa. Tämän vuoksi ei ole kovin merkityksellistä, että niiden kantelujen määrä, jotka eivät täytä tutkittavaksi ottamisen edellytyksiä, on säilynyt jatkuvasti korkealla tasolla eli että niitä on keskimäärin noin 70–75 prosenttia kanteluista. Tämä luku osoittaa kuitenkin sen, että joidenkuiden kansalaisten mielestä heitä on kohdeltu epäoikeudenmukaisesti ja että he haluavat tehdä asialle jotakin.
+<P>
+Jos näiden asioiden kanssa ei joudu tekemisiin päivittäin, oikean muodon löytäminen ei ole aina helppoa, ja moni esittää mielessään seuraavia kysymyksiä: "Olenko esittänyt täydellisesti kaikki asian tosiseikat?" "Mikä saa minut käytännössä olemaan sitä mieltä, että minulla on valitettavaa?’ "Mitä oikeutta on loukattu?" "Minkä toimielimen olisi ryhdyttävä toimiin?" Ne kantelut, joita ei voida ottaa tutkittavaksi, olisi ymmärrettävä pikemminkin mahdollisuudeksi pohtia sitä, kuinka voimme luoda järjestelmiä, joiden avulla kansalaisille tarjotaan selkeä ja varma vastaus tai ratkaisun alku sekä nopeasti että ilman turhaa byrokratiaa.
+<P>
+Tämän vuoksi meidän on syytä antaa täysi tukemme oikeusasiamiehen toimille tiiviin verkoston luomiseksi kansallisten valituselinten välille ja näiden valituselinten ja oikeusasiamiehen itsensä välille sekä hänen toimilleen tiedotuksen parantamiseksi. Vain näillä keinoilla voimme tulla kansalaisia vastaan kulloisessakin tilanteessa ja pystymme hälventämään heidän tuntemiaan pelkoja sellaista yhteisöä kohtaan, joka on valitettavasti yhä edelleen enimmäkseen kasvoton toimija. On asioita, joihin EU:n on ehdottoman välttämätöntä puuttua tällä alalla: sen on parannettava hallintoaan, lisättävä avoimuutta, nopeutettava menettelyjä ja helpotettava lainsäädännön saatavuutta myös sellaisten ei-oikeudellisten välineiden avulla, joita ovat esimerkiksi oikeusasiamies ja tietenkin myös parlamentin vetoomusvaliokunta.
+<P>
+Tämänkään vuoksi en ole erityisen tyytyväinen mietintöluonnoksen siihen lukuun, jonka otsikkona on "Pohdintoja oikeusasiamiehen roolin kehityksestä" ja jossa viitataan nykyiseen ajankohtaan, "jona käydään keskustelua siitä, ovatko yhteisön toimielimet ja kansalliset hallitukset epäonnistuneet sivistämään unionin kansoja kahden, Ranskassa ja Alankomaissa Euroopan perustuslakisopimuksesta järjestetyn kansanäänestyksen jälkeen" ja niin edelleen.
+<P>
+Mitä tämä tarkoittaa? Tässä asiassa ei ole varmastikaan kyse epäonnistumisesta sivistämisessä vaan pikemminkin siitä, miten voimme parantaa yhteisön tiedotustoimintaa ja politiikkoja. Tarkoituksenahan ei ole, että opettaisimme ylhäältä päin jotakin sellaista, jota kansan syvät rivit eivät tue.
+<P>
+Tässä mielessä meille esitetään mietinnössä sekä tilanneanalyysi että toimeksianto, eikä jälkimmäisellä tarkoiteta pelkästään parempien sääntöjen ja kansalaisten tukemien sääntöjen laatimista vaan myös sitä, että samalla varmistetaan näiden sääntöjen asianmukainen täytäntöönpano siten, että yhdelle näistä välineistä – oikeusasiamiehelle – annetaan ne valtuudet ja vastuut, jotka hän tarvitsee suorittaakseen itsenäisesti valvojan tehtäväänsä tuomioistuinten ulkopuolella, maksuttomasti ja kansalaisia lähellä. 
+<SPEAKER ID="12" LANGUAGE="EN" NAME="Proinsias De Rossa," AFFILIATION="PSE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, suhtaudun myönteisesti Mavrommatisin mietintöön ja toivotan samalla Euroopan oikeusasiamiehen tervetulleeksi Euroopan parlamenttiin tänään. Oikeusasiamiehen toimiston kautta kansalaisilla on suora yhteys Euroopan toimielimiin, ja sen kautta kansalaiset voivat tuoda julki huolenaiheensa, jotka koskevat Euroopan tasolla ilmeneviä hallinnon epäkohtia.
+<P>
+Tämän mietinnön laatinut vetoomusvaliokunta, jonka jäsen olen, on samalla lailla taho, johon kansalaiset voivat olla suoraan yhteydessä, mutta sillä on erilainen tehtävä siinä mielessä, että sen kautta kansalaiset voivat varmistaa, että jäsenvaltioiden viranomaiset noudattavat eurooppalaisia sääntöjä, sääntelyä, rahoitusta ja niin edelleen. Näin ollen oikeusasiamies ja Euroopan parlamentin vetoomusvaliokunta eräällä tapaa täydentävät toinen toisiaan.
+<P>
+Mielestäni sillä, että oikeusasiamiehen toimisto on olemassa, on hallinnollisia epäkohtia estävä vaikutus, ja sen kunniaksi, että toimiston perustamisesta tulee kuluneeksi 10 vuotta, ohjesääntöä olisi syytä tarkistaa. Toivon toden teolla, että Euroopan parlamentti, joka on tästä asiasta vastuussa, ryhtyy tuumasta toimeen seuraavien 12 kuukauden kuluessa.
+<P>
+On selvää, että oikeusasiamiehen toimisto on ratkaissut monia ongelmia, mutta se ei ole pystynyt ratkaisemaan kaikkia. Se, ettei 75 prosenttia oikeusasiamiehen toimistoon saapuneista kanteluista liity suoraan Euroopan unionin toimielimiin ja niitä koskeviin ongelmiin, ei ole mielestäni välttämättä huono asia. Tilanne osoittaa, että kansalaiset ovat tietoisia siitä, että on olemassa elin, joka pystyy auttamaan heitä. Se, että oikeusasiamiehen toimisto ilmoittaa heille, mikä on asianmukainen taho, jonka avulla he saattavat löytää ratkaisun ongelmaansa, on tärkeä palvelu.
+<P>
+Tältä osin haluaisin mainita useitakin seikkoja. Yksi liittyy Eurooppa-kouluihin. Parhaillaan on valmisteilla mietintö Eurooppa-koulujen rahoituksesta: lapsille, joilla on erityistarpeita, on voitava tarjota oppivelvollisuuden mukainen perusopetus samalla tavoin kuin se tarjotaan maksutta kaikille Eurooppa-kouluja käyville lapsille. Tämän asian hoitaminen kuuluu komissiolle ja erityisesti Eurooppa-koulujen talousarviosta vastaavalle komission jäsenelle. Jollei komissio esitä yksityiskohtaista selvitystä määrärahoista, joita nämä koulut tarvitsevat voidakseen suoriutua tehtävästään asianmukaisesti joko tarjoamalla erityisopetusta näissä kouluissa tai näiden koulujen ulkopuolella, olemme epäonnistuneet unionina ja itse asiassa näiden lasten vanhempien työnantajana.
+<P>
+Toinen asia, jonka haluan mainita, koskee hyvän hallintotavan säännöstöä. Kuten edellä on todettu, parlamentti on hyväksynyt säännöstön, ja se noudattaa sitä itse samoin kuin neuvostokin noudattaa sitä. Ei ole kerta kaikkiaan perustetta sille, ettei komissio hyväksyisi tätä hyvän hallintotavan säännöstöä. Hyväksynnän myötä kaikki kolme toimielintä saisivat yhteisen säännöstön. Vetoan komission jäseneen Margot Wallströmiin, jotta hän ryhtyy hoitamaan asiaa ja ottaa sen esiin komission kollegion kanssa.
+<P>
+Viimeiseksi haluan ottaa esiin asian, joka liittyy tuoreimpaan erityiskertomukseen. Kyseessä on harvinainen tapaus – oikeusasiamiehen erityiskertomukset ovat harvinaisia – joka liittyy siihen, että neuvoston lakia säätävien kokousten olisi oltava julkisia. Toimianne, joilla pyritte edistämään keskustelua, demokratiaa ja vuoropuhelua koskevaa suunnitelmaa D, heikentää se, että neuvosto kieltäytyy edelleen säätämästä lakeja julkisesti. Emme sietäisi tällaista Euroopan parlamentilta emmekä miltään kansalliselta parlamentilta, eikä tällaista pidä sietää myöskään neuvostolta. 
+<SPEAKER ID="13" LANGUAGE="IT" NAME="Luciana Sbarbati," AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, kiitän jäsen Mavrommatisia hänen loistavasta mietinnöstään ja kiitän myös oikeusasiamiestä.
+<P>
+Euroopan ensimmäinen oikeusasiamiehen virka perustettiin 1809 Ruotsiin. Italian kansalaisena haluan kuitenkin mainita, että Giuseppe Mazzini – jonka syntymästä tulee tänä vuonna kuluneeksi 200 vuotta – loi vetoomusjärjestelmän, jossa kansalaiset saivat sekä yksittäin että yhdessä esittää vetoomuksia vuoden 1849 roomalaisen tasavallan perustuslain 10 pykälän nojalla. Mazzini kehitti ajatuksen Euroopan kansojen poliittisesta yhdistymisestä Euroopaksi, joka koostuisi yhteen liittyneistä vapaista kansallisvaltioista. Tämä edelsi Eurooppa-ajatusta, joka sai vuosisata myöhemmin muotonsa ja sisältönsä nykyisen unionin alkuperäisen ytimen syntyessä.
+<P>
+Oikeusasiamiehemme vuosikertomuksesta, jota tänään käsittelemme, saamme käsityksen siitä, missä määrin kansalaiset haluavat vuorovaikutusta yhteisön toimielinten kanssa. Tosiasia, joka meidän on kuitenkin otettava huomioon, on, että 72 prosenttia vastaanotetuista 3 726 kantelusta ei kuulunut oikeusasiamiehen toimivaltaan. Myös se on merkityksellistä, että 51 prosenttia tapauksista tuli uusien jäsenvaltioiden kansalaisilta. Tämä tarkoittaa, että kansalaisilla on edelleen epäselvä käsitys unionista ja sen edustajista, yhteisön kansalaiset ovat kiistattomasti hyvin tietoisia oikeuksistaan ja he haluavat käyttää kansalaisuuttaan kantelemalla. Lisäksi on ilmeistä, etteivät he kuitenkaan pysty erottamaan sitä, keille heidän kantelunsa olisi osoitettava.
+<P>
+Oikeusasiamiehen virka ja vetoomukset ovat olleet menestyksiä. Tätä tosiseikkaa ei voida jättää huomiotta. Tällä hetkellä meidän on kuitenkin perehdyttävä tarkemmin virheiden syihin ja siihen, miksi niitä hyödynnetään väärin. Mielestäni kantelujen käsittelyyn tarvittavaa aikaa olisi myös pyrittävä lyhentämään – mikä mainittiin Mavrommatisin mietinnössä – siten, että parannetaan tietojen vaihtoa ja yhteistyötä toimielinten välillä aina, kun se on mahdollista.
+<P>
+Hyvät kollegat, Euroopan oikeusasiamiehen toimisto perustettiin Maastrichtin sopimuksella osaksi Euroopan kansalaisuutta. Tämä on edelleen avoinna oleva kysymys, joka edellyttää uusia oikeuksia laajentumisen sekä maahanmuuton ja maailmanlaajuistumisen monimutkaisen todellisuuden seurauksena. Mielestäni oikeusasiamiehemme on onnistunut täydellisesti kolmessa itselle asettamassaan tavoitteessa, jotka ovat ensinnäkin oikeusvaltion edistäminen, toiseksi hyvän hallinnon edistäminen ja ihmisoikeuksien kunnioittaminen sekä kolmanneksi laajentuminen ja siten tiiviimmät yhteydet kaikkiin kansalaisiin ja myös pysyvät yhteydet oikeusasiamiehiin kaikkialla Euroopassa. Kun tietoja tarkastellaan poliittisesti, on kuitenkin ilmeistä, että eurooppalaiset tunnustavat yhteisön toimielimet ja siten kantelevat yhteisön toimielimiin ohittaen samalla tosiasiallisesti kansalliset toimielimet. Näin ollen vaikka kansalaiset näkevät Euroopan erilaisena – he kuvittelevat, että sillä on valtaoikeuksia ja toimivaltaa – tämä näkemys ei useinkaan vastaa todellisuutta. Tämän vuoksi meidän on parannettava Euroopan kansalaisten yhteyksiä toimielimiimme ja otettava vastaan kansalaisten antama valtuutus kehottaa hallituksia olemaan avoimempia ja luopumaan toimivallassaan olevista aloista eurooppalaisen toiminnan tehostamiseksi.
+<P>
+Kuten edellä on todettu, oikeusasiamiehen toimisto on riippumaton ja puolueeton elin. Oikeusasiamiehen on tehtävä yhteistyötä kaikkien muiden toimielinten kanssa, ja katson, että hän toimii näin parhaimman kykynsä mukaan meidän ja kaikkien toimielinten tehdessä hänen kanssaan yhteistyötä. 
+<SPEAKER ID="14" LANGUAGE="ES" NAME="David Hammerstein Mintz," AFFILIATION="Verts/ALE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, haluan aluksi kiittää esittelijää hänen erinomaisesta mietinnöstään ja Euroopan oikeusasiamiestä hänen päivittäin tekemästään työstä ja hänen vuosikertomuksestaan.
+<P>
+Arvoisa komission jäsen Wallström, vaikka meidän on syytä tukea teidän niin sanottua suunnitelmaanne D, jolla pyritään lähentymään Euroopan kansalaisia, avaamaan tämän toimielimen ovia ja edistämään vuoropuhelua, tämä ei sulje pois oikeutta kannella oikeusasiamiehelle, koska hän voi tarjota kansalaisille riippumattoman arvion heidän halutessaan kannella hallinnollisista epäkohdista tai Euroopan toimielinten huonosta toiminnasta.
+<P>
+Ei ole pienintäkään epäilystä siitä, että yksi Ranskassa ja Alankomaissa pidetyn kansanäänestyksen johtopäätöksistä on, etteivät kansalaiset halua, että heitä kohdellaan pelkkinä Euroopan yhdentymisprosessin passiivisina katselijoina. He ovat dynaamisia osallistujia, jotka haluavat lisää avoimuutta ja enemmän mahdollisuuksia osallistua.
+<P>
+Mielestäni oikeusasiamies tekee varsin hyvää työtä. Haluan kuitenkin mainita joitakin ilmi tulleita ongelmia ja erityisesti erään tietyn ongelman: haluan kertoa olevani huolestunut siitä ja katsovani karsaasti sitä, miten puheenjohtajakokouksessa käsiteltiin oikeusasiamies Diamandourosin hiljattaista hyvin tärkeää erityiskertomusta.
+<P>
+Tässä kertomuksessa käsitellään kansalaisten kannalta erittäin merkityksellistä asiaa: Euroopan petostentorjuntavirasto (OLAF) ei ilmeisesti ole tehnyt täysimittaista yhteistyötä oikeusasiamiehen kanssa tämän tutkiessa OLAFin toimista tehtyä kantelua.
+<P>
+Näin ollen vetoomusvaliokunta, joka on asiasta vastaava valiokunta, päätti laatia mietinnön ja kuunnella sekä oikeusasiamiestä että OLAFin pääjohtajaa.
+<P>
+Minun on kerrottava olevani hämmästynyt ja yllättynyt siitä, kuinka kahden tärkeimmän poliittisen ryhmän johtajat torjuivat kertomuksen eivätkä antaneet mahdollisuutta järjestää kuulemistilaisuutta. Kaiken kukkuraksi kahden tärkeimmän ryhmän vaatimuksesta puheenjohtajakokouksessa vetoomusvaliokuntaa estettiin kuulemasta oikeusasiamiestä ja OLAFin pääjohtajaa, mikä ei mielestäni ole parlamentin työjärjestyksen mukaan sallittua.
+<P>
+Mielestäni annetut perustelut – OLAFin uuden pääjohtajan valintaprosessin keskeneräisyys – eivät riitä, ja Euroopan parlamentin olisi tutkittava tämä tapaus, koska tämä ei ole ollut hyvä asia avoimuuden eikä kansalaisten kanteluihin vastaamisen kannalta.
+<P>
+Mielestäni näistä tapahtumista aiheutuu sivutuotteena vahinkoa: ne heikentävät Euroopan oikeusasiamiehen asemaa, mikä on täysin vastuutonta.
+<P>
+Vastauksena tähän olen esittelijä Mavrommatisin kanssa asiasta sovittuani esittänyt hänen mietintöönsä useita tarkistuksia, jotta parlamentti voisi vastata oikeusasiamiehelle aina, kun hän esittää meille erityiskertomuksen.
+<P>
+Koska kollegani vetoomusvaliokunnassa tukivat esittämiäni tarkistuksia, ne ovat nyt osa parlamentin käsiteltäväksi jätettävää mietintöä. On tietenkin parlamentin tehtävänä päättää, kannattaako se oikeusasiamiehen suosituksia vai ei.
+<P>
+Kestämätöntä on se, jos jätetään ottamatta kantaa. Tällä vahingoitetaan ja heikennetään Euroopan oikeusasiamiehen ratkaisevan tärkeää ja olennaista tehtävää. 
+<SPEAKER ID="15" LANGUAGE="IT" NAME="Mario Borghezio," AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, Euroopan oikeusasiamiehen vuosikertomukseen 2004 ei mielestämme sisälly yleistä näkemystä asiaankuuluvista periaatteista, vaikka tällainen olisi varmasti tarpeen. Kuten monet puhujat ovat korostaneet, kansanäänestyksen tulokset, jotka kaatoivat Euroopan perustuslakisopimuksen muutamissa tärkeissä maissa, joilla on pitkät demokraattiset perinteet, osoittavat, että Euroopan kansalaiset suhtautuvat varsin malttamattomasti Euroopan toimielinten demokraattisuuteen ja ovat siihen laajasti tyytymättömiä.
+<P>
+Euroopan kansalaisten suuri enemmistö näkee Euroopan unionin Moolokin kitana, ja Euroopan oikeusasiamiehen olisi kuulunut antaa äänensä näkemykselle, joka on ilmaistu näin selkeästi. Käsiteltävänämme oleva mietintö muistuttaa kuitenkin tilastokeskuksen julkaisemaa asiakirjaa: se on steriili, eikä siitä ilmene lainkaan se taistelu, jota käydään käsiteltyjen aiheiden taustalla olevista periaatteista ja perusteista.
+<P>
+Riittää, kun ajattelemme esimerkiksi valtiontukien ja julkisen rahoituksen kaltaista arkaluonteista alaa. Edellä mainitut ovat kenties suurimpia syyllisiä siihen, että Euroopan toimielinten avoimuus näyttäytyy Euroopan kansalaisille puutteellisena. Kenen puoleen Euroopan kansalaiset voivat kääntyä, kun he näkevät taulun, jossa kerrotaan valtavasta ja kenties hyödyttömästä hankkeesta, jota "Euroopan unioni rahoittaa", ja heille tulevat mieleen heidän veroina maksamansa rahat? Miksi ette ole koskaan ajatelleet vaatia, että aina, kun tällaisia tauluja pystytetään tai EU:n rahoittamia hankkeita toteutetaan, kansalaisille – tavallisille ihmisille – olisi annettava ohjeet, joiden avulla he voivat ottaa yhteyttä toimielimeen, jonka olisi noudatettava heidän tahtomaansa avoimuutta?
+<P>
+Kun ajattelen sitä, mitä tapahtuu aina, kun mafiantorjuntayksikkö puuttuu kotimaassani eurooppalaisten rahojen käyttöön eräillä alueilla, ihmettelen, mitähän Sisilian, Apulian, Calabrian tai Campanian alueiden rehelliset asukkaat ajattelevat nähdessään tällaisia julkisia hankkeita, joihin liittyvät tarjouskilpailumenettelyt eivät ole välttämättä avoimia.
+<P>
+Katson, että Euroopan oikeusasiamiehen toimiston on tehtävä suunnanmuutos ja että on pohdittava olennaista ja ajankohtaista kysymystä uudenaikaisen demokratian roolista Euroopassa. Kertomuksessa puhutaan yleisesti yhteyksistä kansallisten oikeusasiamiesten kesken ilman, että siinä tarkennetaan, mistä tällaisissa kokouksissa keskustellaan, tai selventämättä sitä, millainen on tämän yhteistyön taustalla oleva henki. Vaikka tämä verkosto on varmasti hyödyllinen – ja suhtaudumme siihen myönteisesti – selvittämättä jää myös se, mitä vaikutuksia tässä verkostossa tehdyllä työllä on sitä kautta, että yksittäisissä jäsenvaltioissa toimivat kansalliset oikeusasiamiehet.
+<P>
+Ajatus, joka kertomuksessa esitetään Euroopan oikeusasiamiehen roolista, on vaihteen vuoksi lähinnä "ylibyrokraattinen". Arvoisa oikeusasiamies Diamandouros, lisäksi viiden ensimmäisen työvuoden osalta ilmaisemanne tavoite on varsin yleinen: toteatte pelkästään, että kansalaisten on tunnettava oikeutensa, mainitsematta sitä, että parhaillaan toteutetaan erästä toimenpidettä, joka on tavattoman vaarallinen kansalaisten vapauden kannalta. Tarkoitan tällä eurooppalaista pidätysmääräystä. Tämän takia kehotan: puolustakaamme Euroopan kansalaisten vapautta! 
+<SPEAKER ID="16" LANGUAGE="PL" NAME="Marcin Libicki," AFFILIATION="UEN-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, minua ilahduttaa käyttää puheenvuoro tässä keskustelussa, koska keskusteluun osallistuu minun lisäkseni syvästi kunnioittamiani henkilöitä. Viittaan tällä oikeusasiamies Diamandourosiin, jonka kanssa vetoomusvaliokunta, jonka puheenjohtaja olen, tekee hyvin tiivistä yhteistyötä, esittelijä Mavrommatisiin, joka on yksi valiokuntamme kaikkein aktiivisimmista jäsenistä, ja komission jäseneen Wallströmiin, johon valiokunnallamme on tiiviit ja läheiset yhteydet.
+<P>
+Mielestäni oikeusasiamiehellä on oltava kolme ominaisuutta voidakseen suoriutua tehtävistään hyvin. Ensinnäkin hänen on osattava ammattinsa ja oltava pätevä. Oikeusasiamies Diamandourosia nämä ominaisuudet kuvaavat mitä suurimmassa määrin. Toiseksi hänen on oltava objektiivinen ja puolueeton, ja on kiistatonta, että oikeusasiamieheen soveltuvat myös nämä luonnehdinnat. Emme ole tietoisia siitä, että kukaan olisi koskaan syyttänyt häntä siitä, ettei hän suorittaisi tehtäviään objektiivisesti, ja olisimme kyllä saaneet tietoomme, jos asia ei olisi näin. Toistan vielä, ettemme ole koskaan kuulleet tällaisia syytteitä. Kolmatta ominaisuutta ei nykyään mainitakaan yhtä usein, ja tarkoitan sillä sitä, että Diamandouros hoitaa tehtäväänsä arvokkaasti. Oikeusasiamies Diamandouros on osoittanut paljon arvokkuutta tehtäviään hoitaessaan. Oikeusasiamiehen tehtäviin kuuluu myös se, että hänen on kyettävä tekemään työtään itsenäisesti. Tämä toteutuu erinomaisesti oikeusasiamies Diamandourosin tarmokkaassa suhtautumisessa työhönsä, ja olemme iloisia tästä asiasta.
+<P>
+Jokaisen virkamiehen olisi nautittava toisten virkamiesten kunnioitusta, ja tämä pätee oikeusasiamies Diamandourosiin. Olen tästä hyvin tietoinen, koska olen tiiviisti yhteydessä kansallisiin oikeusasiamiehiin, jotka ovat asiassa parhaita tuomareita. Puolan oikeusasiamies Zoll on aina osoittanut kunnioittavansa oikeusasiamies Diamandourosin toimintaa, ja me pidämme tätä hyvin vakuuttavana todisteena. Vetoomusvaliokuntamme on sangen tietoinen oikeusasiamies Diamandourosin työn korkeatasoisuudesta, ja lisäksi hänet valittiin tehtäväänsä uudelleen äänten ylivoimaisella enemmistöllä. Arvoisa oikeusasiamies Diamandouros, haluamme kiittää teitä kaikista näistä ansioistanne, ja haluan kiittää myös esittelijää. 
+<SPEAKER ID="17" LANGUAGE="FR" NAME="Jean-Claude Martinez (NI ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, arvoisa oikeusasiamies Diamandouros, tänä vuonna tulee kuluneeksi kymmenen vuotta Euroopan oikeusasiamiehen viran perustamisesta, kuten esittelijämme Mavrommatis toteaa laatimassaan hyvin perusteellisessa ja mainiossa mietinnössä.
+<P>
+Arvoisa oikeusasiamies Diamandouros, olen pahoillani joutuessani sanomaan teille, että teillä on toimivaltaa käsitellä ainoastaan hallinnollisia epäkohtia. Mitä tulee kreikkalaisten ystävieni valmistamaan feta-juustoon, teille ei näin ollen ole myönnetty toimivaltaa sen feta-juuston osalta, jota valmistetaan Lozèressa Etelä-Ranskasta peräisin olevasta vuohenmaidosta.
+<P>
+Toisaalta teillä on toimivaltaa käsitellä perusoikeuksien loukkauksia Euroopan parlamentissa, johon 10 prosenttia työstänne liittyy. Otan esimerkiksi kansalaisen perusoikeuden puhua omaa äidinkieltään: 35 sitoutumattomalle jäsenelle ei ole tarjolla tulkkauspalveluja ryhmien kokouksissa. Miksi on näin? Koska juuri sitoutumaton jäsen on puuttuva lenkki apinan ja homo sapiens politicuksen välillä. Viestiessämme keskenämme me sitoutumattomat jäsenet raavimmekin kainaloitamme, työnnämme kielemme ulos ja murahtelemme. Tämän vuoksi me emme ilmeisestikään tarvitse tulkkeja.
+<P>
+Toinen esimerkki: kaikillahan on täällä parlamentissa oikeus työtilaan, veteen ja käymälään. No, miellä sitoutumattomilla jäsenillä ei ole toimistoissamme käymälöitä eikä vettä. Tämän vuoksi vaadimme, että poliittisten vankien oikeuksia koskeva Geneven yleissopimus ja etenkin oikeus käydä vessassa pannaan täytäntöön. Arvoisa oikeusasiamies Diamandouros, tämän vuoksi asetan teidät ensi vuonna ehdolle Saharov-palkinnon saajaksi, jos puututte ihmisoikeusloukkauksiin, jotka kohdistuvat niihin 35 parlamentin jäseneen, joilta on riistetty heidän oikeutensa käyttää käymälää.
+<P>
+On totta, että turkkilaisten saapuminen ratkaissee sitoutumattomien jäsenten ongelmat, koska me saamme varmaan oikeuden käyttää turkkilaisten jäsenten käymälöitä. Tutkimattomat ovat siis Herran tiet. Vasta Turkin liittyminen EU:hun tuonee mukanaan sen, että poliittista vähemmistöä – sitoutumattomia jäseniä – kunnioitetaan Euroopan parlamentissa…
+<SPEAKER ID="18" LANGUAGE="DE" NAME="Andreas Schwab (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, arvoisa komission varapuheenjohtaja, arvoisa oikeusasiamies Diamandouros, hyvä esittelijä Mavrommatis, haluan todeta aluksi olevani hyvin tyytyväinen vetoomusvaliokunnan ja sen esittelijän Mavrommatisin laatimaan mietintöön. Varsin onnistuneeksi mietinnön tekee se, että siinä arvioidaan oikeusasiamiehen kertomuksessaan käsittelemiä tärkeimpiä ongelmia ja pyritään löytämään niihin ratkaisu.
+<P>
+Viime vuonna vetoomusvaliokunta ja oikeusasiamies tekivät menestyksekkäästi yhteistyötä. Mielestäni sen, miten nämä tahot tässä onnistuivat, olisi oltava esimerkkinä oikeusasiamiehen ja komission väliselle yhteistyölle ja lisäksi – ja tähän seikkaan aion palata myöhemmin – oikeusasiamiehen ja neuvoston väliselle yhteistyölle. Vaikka tälle työskentelylle oli vuonna 2004 valtaosassa tapauksia ominaista suuri yhteistyöhalu, on todettava, että ilmeni myös joitakin tapauksia, joissa asiat olisivat voineet sujua paremminkin.
+<P>
+Oikeusasiamiehen tehtävät – omassa jäsenvaltiossani tätä virkaa ei ole – ovat olennaisen tärkeitä Euroopan unionille, koska oikeusasiamies on suoraan yhteydessä Euroopan unionin kansalaisiin ja lähentää heitä näin Euroopan unionin toimielimiin. Kaikista jäsen Seeberin mainitsemista vaikeuksista huolimatta paljon on tämän ansiosta jo saavutettu, mutta meidän olisi kuitenkin edelleen pyrittävä saamaan kansalaiset vakuuttuneiksi niistä eduista, joita oikeusasiamies voi tarjota ottaessaan esiin eurooppalaisessa hallinnossa ilmenneitä väärinkäytöksiä, jotka ovat pääsääntöisesti vakavampia kuin jäsen Martinezin mainitsemat väärinkäytökset, ja valvoessaan näiden ongelmien ratkaisemista.
+<P>
+Työllään oikeusasiamies varmistaa mahdollisimman korkeiden hallinnollisten normien noudattamisen Euroopan unionissa, sen toimielimissä ja laitoksissa. Niissäkin 113 tapauksessa – yhteensä 251 tapauksesta – joissa ei voitu näyttää toteen hallinnollista epäkohtaa, oikeusasiamies tekee hyödyllistä työtä, koska asianomainen toimielin – esimerkiksi komissio – voi havaita tapoja, joilla laatua voitaisiin tulevaisuudessa parantaa. Yksittäisissä tapauksissa oikeusasiamies voi säästää toimielimen perusteettomalta arvostelulta, koska hän voi eräänlaisena ulkopuolisena toimijana väittää olevansa täysin objektiivinen.
+<P>
+Kuten esittelijä Mavrommatis totesi, luvut ovat olleet viime vuosina jatkuvassa kasvussa. Olen varma, että tämä kuvastaa teihin kohdistuvaa luottamusta. Meidän olisi kuitenkin pyrittävä liittämään tiiviimmin toisiinsa niiden kansalaisten etujen ajaminen, jotka ottavat yhteyttä edustajiinsa Euroopan parlamentissa, ja teidän toimistonne tekemä työ, jolloin voisimme paremmin ja tehokkaammin vastata kansalaisten huolenaiheisiin.
+<P>
+On vielä yksi asia, josta haluan kiittää teitä sydämellisesti, ja tarkoitan tällä myönteistä reagointianne saksalaisen Junge Unionin – jonka jäsen yhä olen – kysymykseen, jonka esitti jäsen Brok. Aion tässä yhteydessä mainita, että neuvosto, johon arvosteluni tässä asiassa kohdistuu, loistaa valitettavasti jälleen tänään poissaolollaan. Pitäessään kokouksensa suljetuin ovin neuvosto ei pane tikkua ristiin saavuttaakseen Euroopan perustuslakisopimuksessa – jonka hyväksymiseen se itse osallistui – vahvistetun tavoitteen mahdollisimman avoimesta suhtautumisesta kansalaisten etujen puolustamiseen ja Euroopan kansalaisten ja asukkaiden äänitorvena toimimiseen. On todellakin myönteinen merkki, että yksi Euroopan toimielimistä pystyy suhtautumaan kriittisesti toisen toimielimen toimiin ja että näin toimiessaan sitä ohjaavat vain Euroopan perustuslakisopimuksen tavoitteet. Arvoisa oikeusasiamies Diamandouros, tämän vuoksi haluan kiittää teitä sydämellisesti. 
+<SPEAKER ID="19" LANGUAGE="HU" NAME="Alexandra Dobolyi (PSE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, haluan ensinnäkin kiittää oikeusasiamiestä hänen erinomaisesta kertomuksestaan ja esittelijä Mavrommatisia hänen erinomaisesta mietinnöstään, ja esitän aluksi henkilökohtaisen huomion. Olen uudesta jäsenvaltiosta kotoisin oleva Euroopan parlamentin jäsen, ja keskustellessamme viime vuonna oikeusasiamiehen vuosikertomuksesta minulla ei ollut henkilökohtaista kokemusta vetoomusvaliokunnasta tai oikeusasiamiehen toimistosta.
+<P>
+Kuten jäsen Mavrommatis mietinnössään toteaa, oikeusasiamiehen harjoittaessa viime vuonna toimintaansa ja kampanjoidessa uusissa jäsenvaltioissa monet Unkarin kansalaiset tulivat kuitenkin tietoisiksi oikeudestaan esittää vetoomus Euroopan unionille. Olen iloinen huomatessani, että he myös käyttävät tätä oikeuttaan käytännössä, ja vaikka esitetyt vetoomukset eivät aina vastaakaan unionin odotuksia ja emme aina tiedä, mitä tehdä niille, uusien jäsenvaltioiden kansalaisille on huomattavaa hyötyä siitä, että on toinenkin foorumi, johon he voivat ottaa yhteyttä.
+<P>
+Kuten varapuheenjohtaja Wallström mainitsi puheessaan, komissiolla on uudistussuunnitelma, jolla se tukee toimiamme. Euroopan kansalaisilla on oikeus odottaa, että julkiset toimielimet tekevät työtä tehokkaasti ja avoimesti. Toivon, että tulevaisuudessa komissio toteuttaa puheessa mainitut uudistuspyrkimykset.
+<P>
+Yhdyn monien kollegojeni tämän keskustelun aikana ilmaisemiin käsityksiin, ja minäkin haluan – kuten oikeusasiamies erityiskertomuksessaan – kehottaa neuvostoa harkitsemaan neuvoston istuntojen avaamista muiden EU:n toimielinten henkilöstölle. Jos neuvosto vaatii jatkossakin, että sen on voitava tehdä kaikki poliittiset päätökset suljetuin ovin, ainakin lainsäädäntömenettely olisi tehtävä meille avoimeksi ja meidän olisi voitava olla läsnä, kun tällaisia päätöksiä tehdään. Oikeusasiamies Diamandouros laati viime vuonna aineiston, joka johti yhteistyön tiivistymiseen oikeusasiamiehen ja vetoomusvaliokunnan välillä, ja loi johdantopuheenvuorossa mainitsemansa niin sanotun Euroopan oikeusasiamiehen verkoston. Myös tämä on ilahduttavaa, ja olen hyvin tyytyväinen siihen, että tänä vuonna myös vetoomusvaliokunnan edustajat ovat voineet osallistua tämän verkoston kokouksiin.
+<P>
+Yhteenvetona haluan tähdentää meille kaikille, että Euroopan oikeusasiamiehen toiminta on ollut kymmenen viime vuoden aikana todellinen menestys mutta että vielä on hoidettavana paljon tehtäviä. Meidän kaikkien, kuten myös kaikkien EU:n toimielinten ja laitosten, on suhtauduttava vakavasti näihin tehtäviin, jotta Euroopan kansalaiset voisivat tuntea, että me teemme työtä heidän hyväkseen, heidän oikeuksiensa varmistamiseksi ja ratkaisujen löytämiseksi heitä koskettaviin julkisiin kysymyksiin. 
+<SPEAKER ID="20" LANGUAGE="PL" NAME="Mieczysław Edmund Janowski (UEN ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, arvoisa oikeusasiamies Diamandouros, haluan kiittää oikeusasiamiestä hänen yksityiskohtaisesta selostuksestaan omasta toiminnastaan vuonna 2004. Tämä vuosi oli erityisen merkityksellinen, kun otetaan huomioon EU:n laajentuminen 10 uudella jäsenvaltiolla. Lisäksi haluan osoittaa kunnioitustani esittelijä Mavrommatisille ja kiittää häntä hänen erinomaisesta mietinnöstään.
+<P>
+Euroopan oikeusasiamies viittasi kolmeen edessään olevaan haasteeseen. Ne ovat kansalaisten oikeuksien täytäntöönpano sellaisena kuin ne on vahvistettu EU:n lainsäädännössä, korkeiden hallintostandardien noudattaminen ja sen varmistaminen, että ne toimet, joihin kansalaisten puolesta ryhdytään, ovat tehokkaita ja mahdollisimman korkealaatuisia. Oikeusasiamies Diamandouros on vastannut myönteisesti kaikkiin näihin keskeisiin haasteisiin. Näin ollen haluan osoittaa hänelle kunnioitusta erityisesti sen vuoksi, että hän pyrkii auttamaan kansalaisia myös hänen toimivaltansa ulkopuolelle jäävissä asioissa.
+<P>
+Se, että tämä toimielin on ollut olemassa 10 vuotta, on erinomainen esimerkki yhteisössämme alati lisääntyvästä tietoisuudesta kansalaisten oikeuksista. Totean tämän uuden jäsenvaltion, Puolan, edustajana. Kotimaani on saanut kokemusta tällä alalla Puolan oikeusasiamiehen ja Puolan lapsioikeusasiamiehen kautta. Kaikkien näiden tekijöiden avulla on helpompi luoda sellainen eurooppalainen kansalaisyhteiskunta, jossa kansalaiset ovat tietoisia oikeuksistaan ja velvollisuuksistaan, ja tätä seikkaa haluan painottaa.
+<P>
+On sanomattakin selvää, että tehtävää on vielä paljon. Olen huomannut, että erityisesti nuoret ovat tietoisia perusoikeuskirjasta ja hyvän hallintotavan säännöstöstä, ja tämän vuoksi on syytä olla toiveikas. Lisäksi on ratkaisevan tärkeää, että avoimuusperiaatetta noudatetaan aina, kun se vain on mahdollista.
+<P>
+Haluaisin oikeusasiamiehen kiinnittävän huomiota erääseen pikkuseikkaan. Mielestäni hän teki virheen viitatessaan perustuslakisopimukseen, koska kyseisellä asiakirjalla ei ole lain voimaa. Me kaikki olemme hyvin tietoisia tilanteesta kahden kansanäänestyksen jälkeen. Maastrichtin sopimuksessa vahvistetut nykyiset järjestelyt ovat käsittääkseni edelleen voimassa. Lopuksi haluan korostaa sitä, että olisi hienoa, jos tämä toimielin muuttuisi tarpeettomaksi sen vuoksi, että lainsäädännön täydellinen noudattaminen olisi toteutunut. Lopuksi rohkenen vielä onnitella oikeusasiamies Diamandourosia hänen merkkipäivänään ja toivottaa hänelle paljon lisää vuosia! 
+<SPEAKER ID="21" LANGUAGE="PL" NAME="Ryszard Czarnecki (NI ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, arvoisa oikeusasiamies Diamandouros, kotimaanne Kreikka voitti pari viikkoa sitten ensimmäisen kerran yli vuosikymmeneen Euroopan mestaruuden koripallossa. Mainitsen tämän, koska parlamentin päätöslauselmaesityksessä todetaan, että miltei 70 prosenttiin kaikista oikeusasiamiehen toimistolle osoitetuista asioista on toimitettu tehokasta apua. Voin vakuuttaa oikeusasiamiehelle, että hänen maanmiehensä, jotka ovat Euroopan parhaita koripalloilijoita, ovat sitä mieltä, että kahden tai kolmen pisteen korien osalta 70 prosentin onnistumisaste on ennenkuulumattoman hyvä tulos, ja haluan onnitella häntä hänen saavutuksestaan. Lisäksi haluan onnitella häntä siitä, että kantelujen määrä on kasvanut, koska tämä osoittaa, että kansalaiset suhtautuvat hänen toimistoonsa vakavasti ja pitävät sitä aidosti tarpeellisena.
+<P>
+En hyväksy väitettä siitä, että vain puolet tästä lisäyksestä johtuu 10 uuden jäsenvaltion liittymisestä, kuten päätöslauselmaesityksessä todetaan. Sana "vain" olisi tässä lauseessa korvattava sanalla "jopa", koska Euroopan oikeusasiamiehen toimisto on hyvin uusi käsite uusien jäsenvaltioiden kansalaisille. Oikeusasiamiehellä ei ole syytä huoleen, koska hän saa meiltä jatkossa vielä roppakaupalla kanteluja. 
+<SPEAKER ID="22" LANGUAGE="HU" NAME="Péter Olajos (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, ensimmäiseksi haluan onnitella kollegaani, esittelijä Manolis Mavrommatisia, joka on arvioinut hyvin huolellisesti Euroopan parlamentin käsiteltäväksi jätettyä Euroopan oikeusasiamiehen vuosikertomusta 2004. Minäkin tuen oikeusasiamiehen tiivistä yhteistyötä Euroopan parlamentin vetoomusvaliokunnan kanssa, koska tällä tavoin kansalaisten vetoomukset saapuvat suoraan Euroopan parlamentin päätöksentekijöille, jolloin EU:n lainsäädännön tehokkuudesta saadaan suoraa palautetta.
+<P>
+Euroopan oikeusasiamiehen julkaisemasta vuosikertomuksesta 2004 ilmenee, että vastaanotettujen kantelujen määrä on lisääntynyt 53 prosentilla vuodesta 2003 vuoteen 2004. Vielä yllättävämpää on se, että vain puolet tästä lisäyksestä johtuu kymmenestä EU:hun vastikään liittyneestä jäsenvaltiosta. Voisi toisin sanoen näyttää siltä, että uusien jäsenvaltioiden kansalaisilla ja yrityksillä on vähemmän valitettavaa EU:ssa tai nämä eivät ole niin halukkaita kantelemaan.
+<P>
+Yhden vastikään EU:hun liittyneen jäsenvaltion edustajana voin kertoa teille omasta kokemuksestani, ettei kumpikaan näistä väitteistä pidä paikkaansa. Vaikka on totta, että kymmenestä uudesta jäsenvaltiosta esitettiin enimmäkseen vähemmän kanteluja kuin mitä väestömäärän perusteella voisi olettaa, suurin syy tähän on Euroopan oikeusasiamiehen toimiston suhteellinen tuntemattomuus näissä maissa eikä se, että valitettavaa olisi vähemmän.
+<P>
+Valitettavasti kahdeksassa vastikään EU:hun liittyneessä sosialismista toipuvassa valtiossa vallalla ovat edelleen tiedonpuute ja aiemmista kokemuksista johtuva syvään juurtunut tapa pelätä kantelemista. On valitettava tosiasia, että kansalaiset ottavat meihin, Euroopan parlamentin jäseniin, yhä nykyäänkin epävirallisesti yhteyttä kertoakseen meille Euroopan toimielimissä kokemastaan syrjinnästä. Näin ollen tiedän kokemuksesta, että jopa meillä on vaikeuksia saada heidät esittämään kantelunsa oikeusasiamiehelle.
+<P>
+Koska olen Euroopan parlamentin jäsen, en EU:n virkamies, huomaan usein syrjintää, vaikka liittymisestä on kulunut puolitoista vuotta. Yhtenä esimerkkinä mainitsen parlamentissa vallitsevan käytännön, jonka mukaan kirjallisesti esittämämme kysymykset käännetään ainoastaan äidinkielellemme ja 15 vanhan jäsenvaltion kielille ja saadut vastaukset käännetään ainoastaan äidinkielellemme sekä englanniksi ja ranskaksi.
+<P>
+Haluan oikeusasiamies Diamandourosin kiinnittävän huomiota erityisesti syrjintäilmiöihin, joita ilmeni otettaessa virkamiehiä Euroopan toimielinten palvelukseen. Yksi 25 jäsenvaltiolle suunnattujen kilpailujen ehdoista oli kokeen suorittaminen kahdella EU:n 15 kielestä. Tämä tarkoittaa, että vanhasta jäsenvaltiosta kotoisin oleva ehdokas voi suorittaa kokeen omalla äidinkielellään ja vieraalla kielellä, mutta uudesta jäsenvaltiosta kotoisin oleva ehdokas ei voi käyttää äidinkieltään.
+<P>
+Lukemattomia vastaavia kanteluja saapuu päivittäin. Parlamentti keskusteli tiistaina Ruotsin Vaxholm-tapauksesta, mutta olemme huomanneet, että samanlaista syrjintää kohdistuu yrityksiin myös uusissa jäsenvaltioissa. Haluan mainita koodinimet Soko Bunda ja Soko Pannonia, joihin liittyy lukuisten unkarilaisten yritysten sulkeminen pois Saksan markkinoilta menetelmin, joita loppujen lopuksi tuomioistuimetkin pitävät väärinä. Mainitsen ohimennen, että olen yhdessä Euroopan parlamentissa istuvien kollegojeni kanssa ollut tässä asiassa yhteydessä myös toimivaltaiseen komission jäseneen.
+<P>
+Kun nämä seikat otetaan huomioon, katson, että jatkuva kansalaisille tiedottaminen on erittäin tärkeää. Minua ilahdutti lukea, että kansalaiset ovat jäsenvaltioissa yhä tietoisempia oikeudestaan ottaa yhteyttä oikeusasiamieheen kaikkien heidän kokemiensa hallinnollisten epäkohtien vuoksi. Minusta on erityisen tärkeää korostaa sitä, ettei oikeusasiamiehen toimisto ole ainoastaan yksi monista korkeista viranomaisista tai lainvalvontavirasto vaan erityinen toimisto, joka on perustettu auttamaan kansalaisia heidän huolissaan ja valituksenaiheissaan. Oikeusasiamiehen vuosikertomuksen 2004 lisäansioksi on luettava se, että sen lisäksi, että kertomuksessa esitellään tapaukset ja tutkimukset, siinä myös arvioidaan aihekohtaisesti tehtyä työtä. Minua ilahduttaa erityisesti se, että oikeusasiamies on ottanut aktiivisen julkisen tiedottamisessa roolin kansalaisille. 
+<SPEAKER ID="23" LANGUAGE="PL" NAME="Genowefa Grabowska (PSE ). –" AFFILIATION="">
+<P>
+   Arvoisa oikeusasiamies Diamandouros, oikeusasiamiehenä te edustatte 450:tä miljoonaa Euroopan unionin kansalaista. Näin on sekä silloin, kun he kirjoittavat teille yksittäisinä kansalaisina, että heidän ryhtyessään toimiin yhteisesti. Lainsäädännön mukaan jokainen EU:n kansalainen ja jokainen jäsenvaltiossa asuva luonnollinen henkilö voi esittää teille kantelun. Tämä koskee sekä aikuisia, jotka kykenevät suojelemaan omia oikeuksiaan, että niitä EU:n kansalaisia, jotka eivät ole vielä aikuisia, eli lapsia. Kertomukseenne sisältyy tiettyjä seikkoja, joilla annatte ymmärtää, että toimistonne on kiinnostunut tästä asiasta, mutta haluan esittää yleisemmän kysymyksen. Missä määrin katsotte henkilökohtaisesti tehtäviinne kuuluvan EU:n nuorten kansalaisten edustamisen ja heidän etujensa ja tarpeidensa ajamisen heidän yhteyksissään EU:n toimielimiin?
+<P>
+Ennen kuin esitän oikeusasiamiehelle seuraavan kysymykseni, haluan onnitella häntä siitä, että hän on soveltanut johdonmukaisesti hyvän hallintotavan säännöstöä. Jäsenvaltioiden julkishallinnot ovat ottaneet tämän säännöstön käyttöön, ja sen suosio kasvaa koko ajan kaikkialla Euroopassa, muun muassa kotimaassani Puolassa. Hyvä hallinto alkaa kuitenkin asianmukaisella henkilöstön valinnalla ja siten, että virkamiesten palvelukseenotto ja rekrytointi tapahtuvat täysin syrjimättömästi ja yhdenvertaisuuden periaatetta täysin noudattaen. Tässä yhteydessä haluan siis kysyä, mitä mieltä olette niistä menettelyistä, joilla kansalaisia otetaan EU:n toimielinten palvelukseen uusista jäsenvaltioista. Eikö se ole syrjintää, että näistä maista otetaan virkamiehiksi vain vähän kansalaisia – tai ei ketään – ja erityisesti se, ettei heitä oteta EU:n korkeisiin virkoihin?
+<P>
+Arvoisa oikeusasiamies Diamandouros, tavoitteenamme on EU, joka on lähempänä kansalaisiaan, ja te olette ottanut ensimmäisen askeleen tähän suuntaan. Te olette lähimpänä EU:n kansalaisia, ja he sekä tarvitsevat että arvostavat teitä. Haluan onnitella teitä tästä. 
+<SPEAKER ID="24" LANGUAGE="PL" NAME="Lidia Joanna Geringer de Oedenberg (PSE ). –" AFFILIATION="(Suosionosoituksia)">
+<P>
+   Arvoisa puhemies, Euroopan oikeusasiamiehellä on erittäin tärkeä rooli demokraattisessa eurooppalaisessa yhteiskunnassa. Kansalaiset voivat olla häneen suoraan yhteydessä kannellakseen Euroopan toimielimissä ilmenneistä hallinnollisista epäkohdista. Vaikka kantelujen suuri enemmistö, tarkkaan ottaen 75 prosenttia kanteluista, koskee asioita, jotka eivät kuulu oikeusasiamiehen toimivaltaan, tämä osoittanee sen, että oikeusasiamies nähdään usein viimeiseksi keinoksi taistella kansallisten viranomaisten epäasianmukaisia toimia vastaan. Kun tämä otetaan huomioon, ensisijaiseksi asiaksi olisi otettava se, että kansalaisille annetaan luotettavaa ja yksityiskohtaista tietoa heidän oikeuksistaan ja Euroopan oikeusasiamiehen tehtävästä.
+<P>
+Oikeusasiamies Diamandouros ansaitsee paljon kiitosta tähänastisista toimistaan, joihin kuuluvat vuosikertomusten laatiminen ja jakaminen ja vahva julkinen läsnäolo kansalaisten valistajana. On kuitenkin ehdottoman välttämätöntä, että tätä toimintaa pyritään tehostamaan entisestään. Oikeusasiamiehen olisi oltava Euroopan toimielimissä vallitsevan hyvän hallintotavan valvoja, ja hänen olisi tehtävä yhteistyötä jopa entistäkin tiiviimmin paikallisella ja alueellisella tasolla toimivien kollegojensa kanssa. Kansalaisten kantelut on käsiteltävä nopeasti ja tehokkaasti, ja tämän vuoksi oikeusasiamiestä on tuettava hänen pyrkiessään kannustamaan Euroopan toimielimiä käsittelemään kanteluja ripeämmin. Nämä kantelut liittyvät muun muassa asiakirjoihin tutustumista koskevan oikeuden epäämiseen. Euroopan toimielimiin liittyvän tiedon julkinen saatavuus on osoitus siitä, että näiden toimielinten toiminta on avointa ja läpinäkyvää, ja näin ollen tavoitteenamme olisi oltava myös tämän oikeuden takaaminen kaikille Euroopan unionin kansalaisille. Heitä vartenhan nämä toimielimet ovat loppujen lopuksi olemassa.
+<P>
+Aivan erityisesti esitän ensinnäkin, että Euroopan komission olisi lakattava kieltäytymästä asiakirjojen antamisesta tutustuttavaksi. Toiseksi komission olisi otettava viipymättä käyttöön Euroopan hyvän hallintotavan säännöstö. Tämä tekisi lopun nykyisestä tilanteesta, jossa Euroopan toimielimet soveltavat eri toimintaohjeita.
+<SPEAKER ID="25" LANGUAGE="EN" NAME="Nikiforos Diamandouros," AFFILIATION="oikeusasiamies">
+<P>
+   . Arvoisa puhemies, aluksi haluan kiittää parlamentin jäseniä heidän ystävällisistä huomioistaan, jotka ovat liittyneet oikeusasiamiehen viimevuotiseen työskentelyyn. Arvostan syvästi tarkkaavaisuuttanne ja hyvin tarkkoja ja rakentavia kommenttejanne. Panen merkille sen, että varsin monet kommentit tulivat uusista jäsenvaltioista, minkä katson kertovan paljolti niiden sitoutumisesta tämän toimielimen toimintaan. Yhdyn komission varapuheenjohtajan Margot Wallströmin huomioiden sävyyn, luonteeseen, pyrkimykseen ja tarkoitukseen. Minusta oli ilahduttavaa kuulla häneltä virallisesti se, että komissio on aikeissa ottaa 1. marraskuuta käyttöön uudistuksen, jonka avulla kanteluja on mahdollista käsitellä aiempaa korkeammalla tasolla, millä lisätään toiminnan vastuullisuutta ja yhdenmukaisuutta.
+<P>
+Arvostan komission jäsenen sitoutumista yhteistyön lisäämiseen ja erityisesti sitä, miten rohkaisevasti hän kommentoi ohjesäännön ehdotettua tarkistamista. Lopuksi huomautan siitä, että uskaltanemme odottaa sitovaa säännöstöä. Oletan näin kuultuani myönteiset huomionne ja olen hyvin kiitollinen siitä poliittisesta tahdosta, jota olette osoittanut oikeusasiamieheen liittyvissä kysymyksissä. Odotan komissiolta juuri tällaista yhteistyötä. Haluan kiittää komission jäsentä tästä julkisesti.
+<P>
+Parlamentin jäsenten esittämistä monista huomioista haluan palata lyhyesti jäsen Seeberin huomioihin. On totta, että niiden kantelujen prosenttiosuus, joita ei voida ottaa tutkittavaksi, on suuri, mutta olemme pystyneet auttamaan 70-prosenttisesti niitä, jotka ovat kääntyneet puoleemme ja joiden kanteluja ei ole voitu ottaa tutkittavaksi. Mielestäni niiden kansalaisten prosentuaalinen osuus, joita olemme pystyneet auttamaan, on riittävän korkea, vaikkei heidän asiansa kuuluisikaan toimivaltaamme.
+<P>
+Haluan kiittää jäsen De Rossaa hänen huomioistaan. Haagissa syyskuussa pidetyssä kansallisten oikeusasiamiesten tuoreimmassa kokouksessa teimme päätöksiä erityisesti siitä, millä keinoilla voimme verkoston kautta jouduttaa toimivallan ulkopuolelle jäävien kysymysten käsittelyä. Toivon voivani jatkossa vähentää niiden kantelujen määrää, joiden kohdalla tutkittavaksi ottamisen edellytykset eivät täyty.
+<P>
+Jäsen Hammerstein Mintzille, jota kiitän hänen huomioistaan, totean, että hänen mainitsemansa kertomus koskee vuotta 2005. Näin ollen se ei sisälly parlamentille laatimaani kertomukseen 2004. Kyseessä on OLAFia koskeva kertomus, jota käsitellään ensi vuonna. Olen omasta puolestani täyttänyt velvollisuuteni parlamenttia kohtaan ja jättänyt käsiteltäväksi erityiskertomuksen. Jatkotoimet riippuvat nyt siitä, miten tämä korkea-arvoinen elin katsoo parhaaksi toimia.
+<P>
+Arvostan sitä, mitä jäsenet Borghezio ja Martinez totesivat, mutta minun on korostettava, ettei oikeusasiamies ole parlamentin tavoin poliittinen elin. Näin ollen toimivallassani ei ole ryhtyä sellaiseen poliittiseen toimintaan, johon pyydätte minua ryhtymään. Pelkäänpä, että jos toimisin tällä tavalla, tämä elin – jolle olen viime kädessä tilivelvollinen – asettuisikin vastustamaan sitä, että tekisin poliittisia aloitteita, jotka eivät kuulu toimivaltaani. 
+<P>
+Arvoisa jäsen Martinez, olen tietoinen niistä ongelmista, joita teille aiheutuu siitä, että olette sitoutumaton jäsen. Jälleen kerran aion kuitenkin keskittyä vain huomioidenne sisältöön. Teidän huomionne eivät kuulu toimivaltaani, koska ne liittyvät pikemminkin poliittisiin kysymyksiin. 
+<P>
+Haluan kiittää jäsen Libickiä hänen vetoomusvaliokunnan puheenjohtajana tekemästään yhteistyöstä. Olen lisäksi kiitollinen koko vetoomusvaliokunnan väelle sen avusta, ja toivon tämän yhteistyön jatkuvan.
+<P>
+Jäsenten Dobolyin ja Olajosin kommentit olivat hyvin rakentavia. Haluan vielä todeta jäsen Olajosille, että käsittelen parhaillaan tapausta, joka liittyy ehdokkuuteen ja kieliin. Olen pyytänyt asiasta lisätietoja. Tätä tapausta käsitellään edelleen, ja toivon, että voin raportoida lopputuloksesta ensi vuonna tälle toimielimelle.
+<P>
+Lopuksi haluan sanoa jäsen Grabowskalle, että olen, kuten tiedätte, erityisen kiinnostunut lapsiin liittyvistä kysymyksistä. Yksi tälle elimelle tänä vuonna esittämistäni erityiskertomuksista liittyi vaikeasti vammaisten lasten erityisopetustarpeisiin. Olenkin erittäin huolestunut asiasta ja otan mielelläni huomioon kaikki muutakin kantelut. En ole itse asiassa saanut muita lapsiin liittyviä kanteluja. En ole myöskään tietoinen siitä, että minulle olisi esitetty palvelukseenottoon ja korkeisiin virkoihin liittyviä kanteluja. Koska minulle kuitenkin esitetään paljon palvelukseenottoon liittyviä kanteluja, aion olla tässä asiassa hyvin valppaana.
+<P>
+Lopuksi totean tietäväni kyllä, että ensimmäisen oikeusasteen tuomioistuimessa on vireillä palvelukseenottoa koskeva asia. Näin ollen asia on automaattisesti toimivaltani ulkopuolella, ja minun on odotettava oikeusviranomaisten päätöstä.
+<P>
+Haluan kiittää parlamentin jäseniä ja komission jäsentä vielä kerran heidän huomioistaan ja tuestaan. 
+<SPEAKER ID="26" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Istunto keskeytettiin klo 11.25 ja sitä jatkettiin klo 11.30.)">
+<P>
+   Keskustelu on päättynyt.
+<P>
+Äänestys toimitetaan huomenna klo 11.30.
+<SPEAKER ID="27" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="28" LANGUAGE="DE" NAME="Hannes Swoboda (PSE ). –" AFFILIATION="(Suosionosoituksia)">
+<P>
+   Arvoisa puhemies, haluan käyttää puheenvuoron työjärjestyksen 142 ja 143 artiklan mukaisesti. Monista parlamentin jäsenistä oli hämmästyttävää huomata, että eilinen talousarviokeskustelu oli ohi jo hieman yli klo 11.00, vaikka sille oli varattu aikaa klo 12.00:een asti. Voi hyvin olla, ettei aikaa ollut laskettu kunnolla. Lisäksi eräät parlamentin jäsenet jättivät tulematta paikalle, ja esimerkiksi komission ja neuvoston edustajat puhuivat yllättävän lyhyesti.
+<P>
+Haluan kuitenkin pyytää parlamentin puhemiehistöä harkitsemaan, olisiko mahdollista toimia tällaisessa tilanteessa joustavammin, ja kysyn etenkin, voitaisiinko puheenvuoroja antaa niille jäsenille, jotka ovat läsnä istuntosalissa keskustelun loppuun asti – heidän niin toivoessaan – tai voisivatko jäsenet puhua pitempään. Jäsenet saivat eilen vain minuutin puheaikaa kukin, ja me tuhlasimme lähes kokonaisen tunnin siihen, ettemme pitäneet istuntoa.
+<P>
+Voisiko puhemies kenties ottaa käyttöön tähän liittyvän säännön, jotta keskustelua voidaan johtaa joustavasti ja kaikki aika voidaan käyttää hyväksi?
+<SPEAKER ID="29" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Paljon kiitoksia, hyvä jäsen Swoboda. Panen pyyntönne tarkasti merkille. 
+<SPEAKER ID="30" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Arvoisat parlamentin jäsenet, ennen äänestysten aloittamista minun on annettava parlamentin käsiteltäväksi eräs asia: eilisessä kokouksessaan puheenjohtajakokous päätti ehdottaa, ettei ihmisoikeuksia Länsi-Saharassa käsittelevän keskustelun päätteeksi poikkeuksellisesti äänestettäisi päätöslauselmaesityksestä, jottemme aiheuttaisi haittaa väliaikaisen valiokunnan vierailulle, jonka se tekee kyseiselle alueelle 11.–15.1.2006.
+<P>
+Työjärjestyksemme mukaisesti minun on jätettävä tämä puheenjohtajakokouksen tekemä poikkeuksellinen päätös parlamentin käsiteltäväksi, ja aion antaa yhden jäsenen puhua ehdotuksen puolesta ja yhden jäsenen sitä vastaan. 
+<SPEAKER ID="31" LANGUAGE="DE" NAME="Hans-Gert Poettering (PPE-DE ). –" AFFILIATION="(Suosionosoituksia)">
+<P>
+   Arvoisa puhemies, esitän päätöslauselmasta toimitettavaan äänestykseen liittyvän vetoomuksen. Katsoin puheenjohtajakokouksessa parhaaksi ehdottaa päätöslauselmasta luopumista, ja perusteluni oli se, että meidän olisi odotettava valtuuskunnan työn tuloksia ennen päätöslauselman laatimista.
+<P>
+Puheenjohtajana olen tietenkin riippuvainen ryhmäni tuesta, ja niinpä kerroin sille tänä aamuna asiasta. Ryhmä olikin yksimielisesti sillä kannalla, että meidän olisi tänään hyväksyttävä päätöslauselma. Tämä tarkoittaa sitä, että ryhmäni oli kanssani eri mieltä – enkä häpeä myöntää tätä.
+<P>
+Minun on toimittava ryhmäni äänestystuloksen mukaisesti. Kunnon demokraattina olen kyllä puolesta...
+<P>
+...ja haluaisin muidenkin olevan puolesta ja sanovan, että he tukevat sitä, mitä puheenjohtajan ryhmä estää puheenjohtajaansa tukemasta. Ryhmämme kanta on kuitenkin, ettei meidän pidä odottaa valtuuskunnan tuloksia, vaan että meidän on sen sijaan otettava kantaa asiaan nyt. Tämän vuoksi Euroopan kansanpuolueen (kristillisdemokraattien) ja Euroopan demokraattien ryhmä kannattaa sitä, että teemme tänään päätöksen päätöslauselmasta.
+<SPEAKER ID="32" LANGUAGE="FR" NAME="Francis Wurtz (GUE/NGL ). –" AFFILIATION="(Suosionosoituksia)">
+<P>
+   Arvoisa puhemies, tilanne on muuttunut, koska Euroopan kansanpuolueen (kristillisdemokraattien) ja Euroopan demokraattien ryhmän jäsen Hans-Gert Poettering on vihdoin hyväksynyt ryhmänsä kannan, jota minä itse kannatin puheenjohtajakokouksessa ja joka tarkoittaa, etteivät mitkään taktiset näkökohdat saa estää parlamenttia ottamasta kantaa Länsi-Saharan ihmisoikeustilanteen kiireellisyyteen
+<P>
+ja että ennen valtuuskunnan lähettämistä olisi järkevämpää, että parlamentti ottaisi kantaa erityisesti äskettäisiin ja vakaviin joukkohautojen löytymistä koskeviin paljastuksiin tämän asian selventämiseksi ja Marokon viranomaisten ja todellakin kaikkien kehottamiseksi tekemään yhteistyötä YK:n uuden edustajan kanssa. Näin ollen kannatan äsken esitettyä kantaa, josta tulee epäilemättä koko täysistuntomme kanta, eli äänestyksen toimittamista tämän iltapäivän keskustelumme päätteeksi. 
+<SPEAKER ID="33" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hylkäsi esityslistaan ehdotetun muutoksen.)">
+<SPEAKER ID="34" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Seuraavana ovat vuorossa äänestykset. 
+<SPEAKER ID="35" LANGUAGE="" NAME="" AFFILIATION="- Ennen äänestystä:">
+<SPEAKER ID="36" LANGUAGE="IT" NAME="Giovanni Pittella (PSE )," AFFILIATION="">
+<P>
+   Arvoisa puhemies, ennen kuin ehdotan muutamia teknisiä korjauksia, haluan kiittää kaikkia kollegojani eilisestä erinomaisesta keskustelustamme, joka oli tiivis ja asiallinen, ja lisäksi vilpittömästä yhteistyöstä, jota he ovat tähän asti tehneet ja jota toivon heidän tekevän jatkossakin äänestysten aikana ja sitä seuraavissa vaiheissa.
+<P>
+Kuten aiempinakin vuosina, ennen äänestyksiin siirtymistä pyydän, että hyväksyisimme muutamia teknisiä korjauksia. Vuosittaisia erityistapahtumia koskevassa budjettikohdassa 15 06 06 olisi tekstin toisesta luetelmakohdasta poistettava sanat "uudessa Eurooppa-museossa". Euroopan unionin erityisedustajia koskevassa budjettikohdassa 19 03 06 sana "lähettiläs" olisi selvitysosassa korvattava sanalla "edustaja" nimikkeen johdonmukaisuuden säilyttämiseksi. Samaa kohtaa koskevan selvitysosan loppu on teknisen virheen vuoksi vedetty yli. Tämän tekstikohdan ei siis pidä jäädä pois.
+<P>
+Osiossa 4 olevassa tarkistuksessa 771 budjettikohtaa 22 02 01 01 koskevien maksumäärärahojen kokonaismäärä olisi kirjattava budjettikohtaan, ja lopuksi Euroopan kehitysrahastoa koskeviin budjettikohtiin on lisättävä maininta "pro memoria" alustavan talousarvioesityksen palauttamiseksi. Tämä koskee erityisesti budjettikohtia 21 03 01–21 03 015. 
+<SPEAKER ID="37" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi esittelijän ehdottamat tekniset korjaukset.)">
+<SPEAKER ID="38" LANGUAGE="FR" NAME="Catherine Guy-Quint (PSE ). –" AFFILIATION="(Suosionosoituksia)">
+<P>
+   Arvoisa puhemies, aion ehdottaa jotakin epätavallista. Seuraavassa kohdassa on kaksi tarkistusta: yksi on budjettivaliokunnan esittämä, ja toinen, harvinaislääkkeitä koskeva tarkistus, on ympäristön, kansanterveyden ja elintarvikkeiden turvallisuuden valiokunnan esittämä. Meidän on äänestettävä budjettivaliokunnan esittämän tarkistuksen puolesta. Toisessa tarkistuksessa vaaditaan 1 miljoonan euron suuruista lisärahoitusta harvinaislääkkeille Euroopan lääkearviointiviraston tarpeisiin. Haluaisin tietää, voisimmeko äänestää tarkistuksesta 231 niin, että virasto voisi saada tämänvuotiseen työskentelyynsä kaikki tarpeelliset voimavarat.
+<P>
+Huomaatte, ettei tämä ole teknisesti ottaen oikea menettely. Olen samaa mieltä asiasta. Budjettivaliokunnassa toimitetun äänestyksen jälkeen olemme kuitenkin saaneet lisää huomioonotettavaa. Jos olisi mahdollista äänestää tarkistuksen 231 puolesta – jolloin marginaalissa vielä oleva 1 miljoona euroa otettaisiin lisäksi käyttöön – voisimme merkittävästi parantaa työskentelyolosuhteita tällä meille hyvin tärkeällä alalla.
+<SPEAKER ID="39" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Jos olen ymmärtänyt oikein, haluatte, että äänestämme ensin tarkistuksesta 231 ja vasta sen jälkeen tarkistuksesta 779. 
+<SPEAKER ID="40" LANGUAGE="FR" NAME="Catherine Guy-Quint (PSE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, voimme äänestää myös tarkistuksen 779 puolesta. Toivoisin kuitenkin, että voisimme tarkistuksen 779 lisäksi äänestää sen puolesta, että Euroopan lääkearviointivirastolle myönnetään harvinaislääkkeitä varten 1 miljoonan euron suuruinen lisärahoitus. Haluan korostaa teille, että jos joku vastustaa tätä, meidän on pakko hyväksyä hänen vastalauseensa. 
+<SPEAKER ID="41" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Vastustavatko poliittiset ryhmät tätä? 
+<SPEAKER ID="42" LANGUAGE="ES" NAME="Salvador Garriga Polledo (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, meistä on parempi noudattaa menettelyllisiä periaatteita. Pidämme siis parempana äänestyslistan alkuperäistä järjestystä. 
+<SPEAKER ID="43" LANGUAGE="" NAME="Puhemies." AFFILIATION="- Ennen tarkistuksesta 446 toimitettua äänestystä:">
+<P>
+   Siinä tapauksessa etenemme suunnitelman mukaan.
+<SPEAKER ID="44" LANGUAGE="IT" NAME="Giovanni Pittella (PSE )," AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, jos tämä tarkistus hyväksytään, kehotan meitä hyväksymään myös kaikissa vastaavissa tarkistuksissa käyttämämme vakioilmauksen, joka kuuluu "osa rahoista on tarkoitettu", koska emme voi varata erityismäärärahoja. 
+<SPEAKER ID="45" LANGUAGE="" NAME="" AFFILIATION="Ennen tarkistuksista 74 ja 223 toimitettua äänestystä:">
+<SPEAKER ID="46" LANGUAGE="IT" NAME="Giovanni Pittella (PSE )," AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, äänestystä haittaavien sekaannusten välttämiseksi ehdotan, että äänestämme tarkistuksesta 74 selvitysosan osalta ja tarkistuksesta 223 rahamäärien osalta. 
+<SPEAKER ID="47" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Vastustaako joku tätä? 
+<SPEAKER ID="48" LANGUAGE="ES" NAME="Salvador Garriga Polledo (PPE-DE ). –" AFFILIATION="(Suosionosoituksia)">
+<P>
+   Arvoisa puhemies, olemme taas samassa tilanteessa. Meistä on parempi noudattaa menettelyyn kirjattua äänestysjärjestystä. Emme ymmärrä tällaisia viime hetken muutoksia.
+<SPEAKER ID="49" LANGUAGE="EN" NAME="Kathalijne Maria Buitenweg (Verts/ALE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, käsittelemissämme tarkistuksissa määriä ei ole muutettu. Emme äänestä määristä. Kyse on ainoastaan selvitysosasta. Ainoa muutos koskee selvitysosaa, ja aiomme äänestää ainoastaan siitä. Luvuista äänestämme myöhemmin. 
+<SPEAKER ID="50" LANGUAGE="" NAME="Puhemies." AFFILIATION="- Ennen tarkistuksesta 292 toimitettua äänestystä:">
+<P>
+   Te olette aivan oikeassa. Etenemme suunnitelman mukaan.
+<SPEAKER ID="51" LANGUAGE="IT" NAME="Giovanni Pittella (PSE )," AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, se, mitä edellä totesin, pätee myös tähän tarkistukseen: jos se hyväksytään, meidän olisi otettava käyttöön vakiolause, koska emme voi varata määrärahoja erityisesti: näin ollen "osa rahoituksesta on tarkoitettu". 
+<SPEAKER ID="52" LANGUAGE="" NAME="Puhemies." AFFILIATION="- Ennen tarkistuksista 473 ja 475 toimitettua äänestystä:">
+<P>
+   Koska tämä on otettu huomioon, aiomme seuraavaksi äänestää tarkistuksesta 292.
+<SPEAKER ID="53" LANGUAGE="LV" NAME="Valdis Dombrovskis (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, vuoden 2006 talousarviossa pääluokan "muut toimielimet" osalta on tarpeen tehdä seuraava tekninen korjaus. Tarkistuksissa 473 ja 475 mainittu päivämäärä — 31. joulukuuta 2005 — olisi poistettava huomautuksista ja lisättävä selvitysosaan. 
+<SPEAKER ID="54" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi Valdis Dombrovskisin ehdottamat tekniset korjaukset.)">
+<SPEAKER ID="55" LANGUAGE="" NAME="" AFFILIATION="- Lopullisen äänestyksen jälkeen:">
+<SPEAKER ID="56" LANGUAGE="ES" NAME="Raül Romeva i Rueda (Verts/ALE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, meillä on ongelma: tällä rivillä meillä ei ole tulkkausta eikä meillä ole mikrofonipalvelua. Tämä koskee koko riviä. 
+<SPEAKER ID="57" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Kehotan teknistä palvelua tulemaan paikalle ratkaisemaan tämän teknisen ongelman. 
+<SPEAKER ID="58" LANGUAGE="" NAME="" AFFILIATION="- Ennen äänestystä:">
+<SPEAKER ID="59" LANGUAGE="EN" NAME="Valdis Dombrovskis (PPE-DE )," AFFILIATION="esittelijä">
+<P>
+   . Arvoisa puhemies, teknisten ongelmien vuoksi aion puhua englanniksi, jotta ne kollegani, joilla myös on teknisiä ongelmia, voivat ymmärtää minua paremmin.
+<P>
+Yleisestä talousarvioesityksestä toimitetun äänestyksen vuoksi olisi tehtävä seuraavat tekniset korjaukset. Ensinnäkin kohdassa 5 määrän olisi oltava 7,7 miljoonaa euroa. 27 kohdan b alakohdan alussa olisi luettava "perustetaan 46 virkaa (21 A*-virkaa, 1 väliaikainen A*-toimi, 19 B*-virkaa, 5 C*-virkaa). 41 kohdassa määrän olisi oltava 3 398 000 euroa. Lisäksi 17, 23 ja 25 kohdassa mainittu päivämäärä olisi korvattava päivämäärällä 30. marraskuuta 2005. 
+<SPEAKER ID="60" LANGUAGE="IT" NAME="Francesco Enrico Speroni (IND/DEM )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, hyvät kollegat, jäsen Dombrovskis puhui englanniksi eikä puolaksi. Olen tietoinen siitä, että monet kollegat osaavat paremmin englantia kuin puolaa, mutta kaikki kielet ovat yhtä arvokkaita, ja näin ollen tulkkaus on tarjottava kaikille tai ei kenellekään. 
+<SPEAKER ID="61" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Meillä on ollut parlamentin tahdosta riippumaton tekninen ongelma, ja jäsen Dombrovskis halusi ystävällisesti tehdä yhteistyötä kollegojensa kanssa. 
+<SPEAKER ID="62" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Äänestykset ovat päättyneet. 
+<SPEAKER ID="63" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="64" LANGUAGE="DE" NAME="Agnes Schierhuber (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, yleinen talousarvio oli tänään ensimmäisessä käsittelyssä, ja äänestin tarkistuksia 543, 301, 344 ja 345 vastaan, koska niissä ei eroteta toisistaan siitoseläimiä, tuotantoeläimiä ja teuraseläimiä. En puhu vain omasta puolestani vaan myös Itävallan puolesta todetessani, että vastustan kyllä elävien eläinten maastavientiä teurastusta varten, mutta koska eroa ei tehdä siitoseläinten ja teuraseläinten välille, vientitukien poistaminen tarkoittaa eurooppalaisen tuotannon ja karjankasvattajien toimeentulon tuhoamista.
+<P>
+Toiseksi äänestin tarkistuksen 99 puolesta, koska tupakan yhteinen markkinajärjestely on yhä olemassa ja voimassa. 
+<SPEAKER ID="65" LANGUAGE="SV" NAME="Jan Andersson, Ewa Hedkvist Petersen, Inger Segelström ja Åsa Westlund (PSE )," AFFILIATION="kirjallinen.">
+<P>
+   Haluamme, että talousarviolla edistetään talouden, yhteiskunnan ja ympäristön kannalta kestävää kehitystä EU:ssa Lissabonin strategian mukaisesti. Tämän vuoksi päätimme tukea äänestyksessä tarkistuksia, joissa asetetaan etusijalle tutkimus, kehitys ja koulutus. Emme aio kuitenkaan tukea niitä tarkistuksia, joilla pyritään myöntämään lisää rahaa suoraa maataloustukea varten, koska tämä tuki on jo ylimitoitettua ja johtaa tehottomaan ja ympäristöä vahingoittavaan maatalouteen, joka ylijäämien polkumyynnin kautta on omiaan kasvattamaan kuilua maailman köyhien ja rikkaiden välillä.
+<P>
+Emme aio myöskään myöntää rahaa tupakanviljelyn tukemiseen, koska tällä aiheutetaan suoraan kansanterveydellisiä ongelmia. Mielestämme tätä tukea on pikaisesti vähennettävä, ja ennen pitkää se on lakkautettava kokonaan. Tällä tavoin säästyvät rahat voidaan käyttää esimerkiksi toimiin, joilla pyritään vähentämään tupakan käyttöä ja tupakkariippuvuutta. Haluamme, että sokerinviljelijöille maksettavaa suoraa tukea uudistetaan, koska emme voi pitkällä aikavälillä tukea tuotantoa, josta suuri osa on ylituotantoa. Emme halua viedä kehitysmaiden viljelijöiden toimeentuloa, ja tämän vuoksi tuimme äänestyksessä sellaista siirtymäkauden tukijärjestelyä, jossa näille viljelijöille maksetaan korvauksia siihen asti, että he ovat siirtyneet muuhun tuotantoon. 
+<SPEAKER ID="66" LANGUAGE="SV" NAME="Hélène Goudin, Nils Lundgren ja Lars Wohlin (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+   Kesäkuun lista katsoo, että EU:n talousarvion ylärajaksi on asetettava 1,00 prosenttia jäsenvaltioiden keskimääräisestä bruttokansantulosta, ja näin ollen tuemme periaatteessa neuvoston kantaa. Talousarvio 2006 on viimeinen talousarvio nykyisten rahoitusnäkymien puitteissa, ja sen vuoksi on erityisen valitettavaa, että Euroopan parlamentti yrittää tulevien neuvottelujen edellä tuoda esiin omia kantojaan ehdottamalla tuntuvia korotuksia. Tämän vuoksi päätimme äänestää kaikkia Euroopan parlamentin ehdottamia korotuksia vastaan, ja samalla olemme suhtautuneet myönteisesti niihin harvoihin säästöihin, joita budjettivaliokunta tai talousarvion valvontavaliokunta tai yksittäiset jäsenet ovat tarkistusehdotuksissaan esittäneet.
+<P>
+Talousarviossa on useita harmillisia budjettikohtia, mutta Kesäkuun lista on erityisen pahoillaan siitä, että EU:ssa tuetaan voimakkaasti maatalouspolitiikkaa, koheesiorahastoa, kalastusalaa ja niitä budjettikohtia, joista myönnetään tukea erilaisia tiedotuskampanjoja varten. 
+<SPEAKER ID="67" LANGUAGE="EN" NAME="Alyn Smith (Verts/ALE )," AFFILIATION="kirjallinen">
+<P>
+Tarkistus 263:
+<P>
+Tällä budjettikohdalla olisi sallittu määrärahojen käyttäminen euro-valuutan eduista tiedottamiseen. Koska Skotlanti ei Yhdistyneen kuningaskunnan osana ole tällä hetkellä euroalueen jäsen, äänestin sen mukaisesti tyhjää, sillä asia ei koske minua.
+<P>
+Tarkistus 440:
+<P>
+Tällä budjettikohdalla AKT-edustajakokouksen käännöspalvelut olisi laajennettu kattamaan kaikki kielet tämän edustajakokouksen nykyisten työkielten lisäksi. Vaikka periaatteessa voisin kannattaa käännöspalvelujen laajentamista kaikkien kielten samanarvoisuuden perusteella, näin valtavan kielimäärän käyttöönotosta aiheutuvat kustannukset olisivat liian suuret. Luulen lisäksi, että tällainen olisi tarpeetonta, koska nykyinen järjestelmä on toiminut toistaiseksi riittävän hyvin. 
+<SPEAKER ID="68" LANGUAGE="EN" NAME="Catherine Stihler (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . On todella harmillista, että parlamentti on tänään äänestänyt tupakkatukien säilyttämisen puolesta. Vuosittain puoli miljoonaa EU:n kansalaista kuolee turhaan tupakkaan liittyviin sairauksiin. Voimme torjua tupakkateollisuutta ja suojella kansanterveyttä ainoastaan yhteisillä toimilla. 
+<SPEAKER ID="69" LANGUAGE="NL" NAME="Corien Wortmann-Kool (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Ilmoitan täten kannattaneeni äänestyksessä budjettikohtaan 04 03 03 02 liittyvää tarkistusta, joka koskee CESI 446:ta. 
+<SPEAKER ID="70" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="71" LANGUAGE="EN" NAME="Richard James Ashworth (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Yhdistyneen kuningaskunnan konservatiivien linjana on luja sitoutuminen siihen, ettei talousarviositoumusten määrä saa ylittää 1,0:tä prosenttia BKTL-perusteisten maksujen osalta. Haluamme sellaisen EU:n, joka käyttää veronmaksajien rahoja viisaasti Lissabonin tavoitteita tukeviin aloitteisiin siten, että petokset, huono hallinto ja tuhlaavaisuus – mitä tupakkatuet ilmentävät – estetään.
+<P>
+Näiden syiden vuoksi äänestimme niitä 1,0 prosentin ylärajan kanssa ristiriidassa olevia tarkistuksia tai ehdotuksia vastaan, joilla ei mielestämme edistettäisi Euroopan kestävää kehitystä ja työpaikkojen syntymistä Eurooppaan. Tuemme kuitenkin niitä hankkeita, joilla edistetään seuraavan sukupolven energiaratkaisujen kehittämistä ja tarjontaa. 
+<SPEAKER ID="72" LANGUAGE="DA" NAME="Niels Busk ja Anne E. Jensen (ALDE )," AFFILIATION="kirjallinen.">
+<P>
+   Euroopan parlamentissa olevat Tanskan liberaalisen puolueen jäsenet äänestivät jäsen Bonden Itsenäisyys ja demokratia -ryhmän puolesta käsiteltäväksi jättämää tarkistusta 7 vastaan. Liberaalinen puolue vastustaa elävien eläinten maastavientiä ja äänesti budjettikohtaa 05 02 13 04 vastaan. Jäsen Bonden ehdotusta ei voida kuitenkaan käytännössä toteuttaa, ja sitä on pidettävä epärealistisena ehdotuksena, jota ei ole harkittu loppuun asti. 
+<SPEAKER ID="73" LANGUAGE="EN" NAME="Proinsias De Rossa (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Tuen Pittellan mietintöä ja siihen tehtyjä tarkistuksia 3004 ja 3005, joilla PEACE 11 -ohjelman vuoden 2006 rahoituksen osalta 12 miljoonaa euroa palautetaan teknistä tukea ja innovatiivisia toimenpiteitä koskevaan otsakkeeseen. Jäsenvaltioiden on varmistettava, etteivät vaaditut talousarviojoustot millään tavalla vahingoita PEACE 11-ohjelman täyttä jatkorahoitusta, josta sovittiin viime vuonna, kun ohjelman rahoitus taattiin vuoteen 2006 asti.
+<P>
+Sosialidemokraattien ryhmä oli keskeisessä asemassa, kun 108 miljoonaa euroa osoitettiin Irlannin PEACE 11 -ohjelmaa varten vuodeksi 2006, ja ryhmä on edelleen täysin ohjelman takana. Sosialidemokraattisen ryhmän entinen jäsen, John Hume oli PEACE-ohjelman luoja, ja ohjelman vaikutus sovinnon saavuttamisessa on ollut huomattava. Jos haluamme onnistua lähentämään kumpaakin tämän lahkojaon eri puolilla olevaa yhteisöä, PEACE-ohjelmalle myönnettävän rahoituksen jatkuminen on ratkaisevan tärkeää.
+<P>
+Lisäksi meidän on tuettava PEACE 111 -ohjelmaan kuuluvaa SDLP-kampanjaa osoittamalla vuosien 2007–2013 talousarviossa sitä varten 200 miljoonaa euroa. Toivon, että ministeri Noel Tracy ottaa asian esiin kiireellisesti ja että kaikki jäsenvaltiot huolehtivat niiden järjestelyjen sujuvasta hallinnoinnista, joilla saatetaan päätökseen PEACE 11 -ohjelman rahoitus, varmistaen PEACE 111 -ohjelman rahoituksen jatkuvuuden vuosina 2007–2013. 
+<SPEAKER ID="74" LANGUAGE="PT" NAME="Ana Maria Gomes (PSE )," AFFILIATION="kirjallinen">
+<P>
+   .  Äänestin tupakantuotannolle myönnettävien tukien lakkauttamisen puolesta. Mielestäni tupakantuotantoa, joka on tupakkateollisuuden olennainen osatekijä, ei pidä enää tukea. Koska tupakan käyttö on kansanterveydellisesti vahingollista (tupakan käyttöön liittyviin sairauksiin kuolee vuosittain 500 000 henkilöä) ja siten vahingollista myös jäsenvaltioiden ja EU:n taloudelle, olen sillä kannalla, että näiden tuottajien tukeminen YMP:n kautta yli 100 000 eurolla on moraalisesti, poliittisesti ja taloudellisesti kestämätöntä. Mielestäni meidän olisi paitsi lakattava tukemasta tupakantuotantoa ja tupakkateollisuutta myös lopetettava se asteittain ja ripeästi. Parlamentin on painostettava jäsenvaltioita ja komissiota tekemään tällainen muutos hyväksymänsä EU:n talousarvion kautta.
+<P>
+Olen luonnollisesti tietoinen siitä, että 3 500 työpaikkaa on Portugalissa tupakantuotannon varassa. Olen näin ollen sitä mieltä, että tämän alan rakenneuudistustoimet on kaksinkertaistettava, jotta voidaan taata työpaikat ja taloudellinen toimeentulo Portugalin ja kaikkien Euroopan tupakkaa tuottavien maiden tuottajille. Tämän vuoksi tuen kaiken taloudellisen tuen myöntämistä heille yhteisön tai kansallisten instituutioiden toimesta. Eurooppalaisten tukien säilyttäminen on kuitenkin...
+<SPEAKER ID="75" LANGUAGE="PT" NAME="Pedro Guerreiro (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   .  Tämän äänestysselityksen tarkoituksena on tuomita parlamentin enemmistön tekopyhyys, koska parlamentti on aiemmin hyväksynyt suunnitelman sellaisen tekstiili- ja vaatetusalaa koskevan "yhteisön ohjelman" perustamisesta, joka on tarkoitettu "erityisesti heikoimmassa asemassa oleville alueille" ja "johon sisältyy asianmukaiset tukimahdollisuudet tutkimuksen, innovaatioiden, ammatillisen koulutuksen sekä pienten ja keskisuurten yritysten tukemiseksi", mutta nyt se on hylännyt selkeän ehdotuksen, jolla pyrittiin panemaan tämä ohjelma täytäntöön yhteisön talousarviosta 2006. Parlamentin enemmistön on toisin sanoen syytä hävetä epäjohdonmukaisuuttaan.
+<P>
+Olemme tahollamme suuresti pettyneitä esittämiemme ehdotusten hylkäämiseen, joita monet parlamentin jäsenet tukivat. Ehdotuksilla pyrittiin:
+<P>
+- luomaan tekstiili- ja vaatetusalan toimia koskeva pilottihanke tulevan yhteisön ohjelman laatimiseksi,
+<P>
+- laatimaan kalavaroja koskevat elvytyssuunnitelmat siten, että rauhoitusaikojen sosiaaliset ja taloudelliset vaikutukset otetaan huomioon;
+<P>
+- edistämään monikielisyyttä erityisesti AKT:n ja EU:n parlamentaarisissa edustajakokouksissa.
+<P>
+Lisäksi kannatimme sitä, että muutkin esittämämme ehdotukset, jotka koskivat metsitystä ja metsäpalojen ehkäisyä, kulttuuriperinnön säilyttämistä ja pk-yritysten keskinäisen yhteistyön tukemista, olisi hyväksytty. 
+<SPEAKER ID="76" LANGUAGE="EN" NAME="David Martin, (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Talousarviota koskevassa äänestyksessä kannatin YMP:n uudistamista, tupakkatukien leikkauksia ja elävien eläinten yli 8 tuntia kestävien kuljetusten lopettamista, vastustin Pohjois-Irlannin rauhanohjelmaan esitettyjä leikkauksia ja kannatin AKT-maiden banaanin- ja sokerinviljelijöille maksettavia tukia. 
+<SPEAKER ID="77" LANGUAGE="EN" NAME="Claude Moraes (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin tänään talousarviota koskevassa äänestyksessä otsakkeen 3 puolesta, koska haluan lisätä jopa 200 miljoonalla eurolla Lissabonin strategiaa koskevien eri budjettikohtien maksumäärärahoja, joita neuvosto supisti ensimmäisessä käsittelyssä.
+<P>
+EU:n kilpailukyvyn lisäämisessä tärkeimpiä asioita ovat muun muassa pieniä ja keskisuuria yrityksiä koskeviin tukiohjelmiin tehtävät korotukset ja ennen kaikkea tutkimuksen kuudenteen puiteohjelmaan tehtävät korotukset. Myös koulutusohjelmien maksumäärärahoja on lisätty: 35 miljoonalla eurolla Sokrates-ohjelman osalta, 20 miljoonalla eurolla Leonardo da Vinci -ohjelman osalta ja 3 miljoonalla eurolla e-learning-ohjelman osalta. Tuen tätä täysin. 
+<SPEAKER ID="78" LANGUAGE="EN" NAME="Alyn Smith (Verts/ALE )," AFFILIATION="kirjallinen">
+<P>
+   . Kannatin äänestyksessä tämän budjettikohdan poistamista, koska en katso, että meidän olisi enää nykyään rahoitettava elävien eläinten maastavientiä usein kammottavissa olosuhteissa. Tämän mukaisesti äänestin tämän käytännön lopettamisen puolesta. 
+<SPEAKER ID="79" LANGUAGE="EL" NAME="Georgios Toussas (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . – Kreikan kommunistinen puolue vastustaa jyrkästi ruohonjuuritason vastaista alustavaa talousarvioesitystä Euroopan unionille vuodeksi 2006.
+<P>
+Se, että Euroopan kansanpuolueen (kristillisdemokraatit) ja Euroopan demokraattien ryhmän jäsenet, sosialidemokraatit ja niin edelleen hyväksyvät esityksen, kuvastaa Euroopan unionin ja jäsenvaltioiden urbaanien hallitusten työtä tekevää luokkaa ja ruohonjuuritasoa vastaan kohdistaman ruohonjuuritason vastaisen hyökkäyksen voimaa euroon siirtyvien suuryritysten voittojen lisäämiseksi.
+<P>
+Tämä on "jatkoa" sille ruohonjuuritason vastaiselle, taantumukselliselle toimintaohjelmalle, josta keskusteltiin Englannissa pidetyssä epävirallisessa huippukokouksessa Lissabonin strategian kehyksessä toteutettavien kapitalististen rakennejärjestelyjen lisäämiseksi, rajujen leikkausten tekemiseksi sosiaalietuuksiin, maataloustuotantoon ja pienten ja keskisuurten yritysten osalta ja voimavarojen siirtämiseksi militarististen, kapitalististen mekanismien vahvistamiseen.
+<P>
+Tupakanviljelijät ovat tulilinjalla, koska heitä koskevat 1 miljardin euron suuruiset leikkaukset. Sillä varjolla, että tupakanviljely yhdistetään tupakanvastaisiin kampanjoihin, yhteisön tupakantuotantoa pidetään vaarallisena ja maahantuotua tupakkaa "viattomana". Näillä EU:n tekemillä päätöksillä, jotka koskevat YMP:n uudistamista ruohonjuuritason vastaisesti, osoitetaan lisäksi piittaamattomuutta vuoteen 2013 myönnettävää rajoitettua maataloustukea kohtaan.
+<P>
+Samalla, kun työttömyys ja köyhyys lisääntyvät räjähdysmäisesti ja kansanterveyteen, koulutukseen ja niin edelleen kohdistuu valtavia vaatimuksia, pääomaa siirretään tiedotuspolitiikkaan EU:n imperialistisen ja ruohonjuuritason vastaisen luonteen kätkemiseksi.
+<P>
+Työväenliikkeen taisteluun alustavaa talousarvioesitystä vastaan on sisällytettävä myös taistelu koko EU:n ruohonjuuritason vastaista politiikka vastaan. 
+<SPEAKER ID="80" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="81" LANGUAGE="DA" NAME="Niels Busk ja Anne E. Jensen (ALDE )," AFFILIATION="kirjallinen.">
+<P>
+   Euroopan parlamentissa olevat Tanskan liberaalisen puolueen jäsenet äänestivät jäsen Bonden Itsenäisyys ja demokratia -ryhmän puolesta käsiteltäväksi jättämää tarkistusta 4 vastaan. Liberaalinen puolue kannattaa kulukorvausten uudistamista siten, että kaikki kohtuulliset ja tarpeelliset matkakustannukset korvataan. Jäsen Bonden ehdotus on kuitenkin järjetön, eikä sitä voida käytännössä toteuttaa. 
+<SPEAKER ID="82" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen.">
+<P>
+   Haluan muistuttaa siitä, että äänestin tyhjää niiden tarkistusten osalta, jotka koskivat kustannusten mukaisia kulukorvauksia, koska mielestäni tämä sisältyy jäsenten asemaa koskeviin sääntöihin. 
+<SPEAKER ID="83" LANGUAGE="DE" NAME="Mechtild Rothe (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Vaikka SPD:hen kuuluvat Euroopan parlamentin jäsenet kannattavat todellisia kuluja vastaavaa matkakustannusten ilmoittamista, emme aio kannattaa sellaisia tarkistuksia, joissa puhemiestä kehotetaan rikkomaan parlamentin sääntöjä. 
+<SPEAKER ID="84" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="85" LANGUAGE="FR" NAME="Marie-Arlette Carlotti (PSE )," AFFILIATION="kirjallinen">
+<P>
+   .Barcelonassa on yhden kuukauden aikana määrä uudistaa Euro–Välimeri-kumppanuus perusteellisesti muutamien johtoajatusten pohjalta.
+<P>
+Ensinnäkin köyhyyden torjunnan alalla on laadittava Välimeren versio vuosituhannen kehitystavoitteista ja sille on myönnettävä rahoitus ja lisäksi on edistyttävä Euroopan aluepolitiikan alalla olemassa oleviin solidaarisuusrakenteisiin verrattavien rakenteiden luomisessa.
+<P>
+Demokratian ja ihmisoikeuksien edistäminen on otettava kumppanuuksissa keskeiseksi asiaksi siten, että assosiaatiosopimusten 2 artikla pannaan käytännössä täytäntöön ja että otetaan laajasti käyttöön ihmisoikeuksia käsittelevät alakomiteat.
+<P>
+Naisiin kohdistuvan syrjinnän torjuminen ja sukupuolten tasa-arvon edistäminen on otettava EU:ssa erityiseksi ja ensisijaiseksi politiikan alaksi. Nimenomaan naiset toimivat Välimeren alueella erilaisten kansojen ja kulttuurien todellisen lähentämisen airueina.
+<P>
+Tarvitaan yhteisiä vastauksia maahanmuuton kysymyksiin. Lakatkaamme olemasta tekopyhiä ja kyynisiä. Älkäämme kuvitelko, että omat kätemme ovat puhtaat, kun annamme eteläisissä maissa olevien kumppaneidemme tehdä likaisen työn. Meidän on luotava perusta yhteiselle maahanmuuttovirtojen hallinnalle siten, että omaksumme suurpiirteisen ja yksituumaisen lähestymistavan henkilöiden liikkumiseen Välimeren alueella.
+<P>
+Vaadimme "kestävän kehityksen alueen" perustamista Välimerelle, mihin liittyy ohjelma, jolla pyritään torjumaan Välimeren pilaantuminen vuoteen 2020 mennessä ja johon sisältyy tarkka aikataulu siitä, miten tämä toteutetaan.
+<SPEAKER ID="86" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Olen tyytyväinen tähän mietintöön. Haluaisin, että Barcelonan prosessia ja sen rakenteita käytettäisiin laajemmin vuoropuhelun ja (taloudellisen, yhteiskunnallisen, kulttuurisen, opetuksellisen, teknisen ja niin edelleen) vuorovaikutuksen edistämiseen Israelin ja sen naapurimaiden välillä. Olen vakuuttunut siitä, että tämä on ainoa tapa, jolla alueen kansat voivat löytää sovun. Muureilla ei voida luoda turvallisuutta. 
+<SPEAKER ID="87" LANGUAGE="DE" NAME="Andreas Mölzer (NI )," AFFILIATION="kirjallinen">
+<P>
+   . Äskettäin yhden ainoan yön aikana yli 1 000 mustaa afrikkalaista yritti ylittää Melillan rajan päästääkseen "luvattuun maahan". Varsin monet heistä maksoivat tästä yrityksestä hengellään, ja samalla suuri joukko muita asettui alttiiksi armottomille ihmisten salakuljettajille, jotka tekevät heille yhä houkuttelevampia tarjouksia mahdollisesta tulevaisuudesta heidän unelmoimassaan Euroopan onnelassa.
+<P>
+Niinpä nämä epätoivoiset ihmiset huomaavat joutuneensa toivottomaan tilanteeseen erityisesti sen vuoksi, että kotiinpaluu on usein pois suljettu. On kuitenkin sanottava, että paikallisten päätöstentekijöiden on muistettava oma vastuunsa tässä murhenäytelmässä, sillä ne edistävät tätä kehitystä salliessaan vaivihkaa oleskelun suurelle joukolle laittomia maahanmuuttajia.
+<P>
+Kohtuuttoman liberaalista ja naiivista suhtautumisesta laittomaan maahanmuuttoon, jota valitettavasti havainnollistaa erityisesti äskettäinen Kiovan tapaus, ei ole hyötyä kenellekään, ja sillä luodaan vain lisää ongelmia sitä kautta, että siitä hyötyvät ennen kaikkea ihmisten salakuljettajat ja muut järjestäytyneeseen rikollisuuteen sekaantuneet henkilöt.
+<P>
+Hallitsematon väestönkasvu lisää entisestään taloudellisten pakolaisten tulvaa Marokon rajoille sekä Italian ja Maltan rannikolle, minkä vuoksi ongelmaa on ratkottava EU:n laajuisesti ja lisäksi toimilla, joilla hälvennetään epärealistisia kuvitelmia eurooppalaisesta paratiisista niissä maissa, joista pakolaiset ovat peräisin, siten, että myönnämme voimavaroja elinolojen kohentamiseen paikan päällä. Juuri tämän vuoksi on hyvin tärkeää säilyttää Barcelonan prosessi keinona, jolla torjutaan köyhyyttä ja edistetään maakohtaisten toimintaohjelmien kehittämistä. 
+<SPEAKER ID="88" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   .  Barcelonan prosessin tarkoituksena oli toimia käännekohtana EU:n ja sen eteläisten naapurien välisissä suhteissa ja toimia lisäksi kehyksenä Välimeren maiden yhteisessä ja keskinäisesti tuetussa kehityksessä.
+<P>
+Koska prosessin käynnistymisestä tulee kuluneeksi kymmenen vuotta, sen täytäntöönpanoa on ehdottomasti tarkistettava ja tehostettava, jotta kumppanuudella voidaan kohdata nykyiset haasteet ja sopeutua muuttuneeseen alueelliseen ja kansainväliseen ympäristöön..
+<P>
+Koska Barcelonan prosessissa on otettu huomioon taloudellisen ja yhteiskunnallisen vuoropuhelun kahdenvälinen ja alueellinen taso sekä mahdollisuudet keskinäiseen vaikuttamiseen, sillä edistetään siltojen ja luottamuksen rakentamista kansojen välillä.
+<P>
+Mielestäni kaikkein olennaisin seikka on ehdotetun Euro–Välimeri-vapaakauppa-alueen perustaminen. Tämä alue on määrä toteuttaa vuoteen 2010 mennessä, ja siihen kuuluu noin 40 maata ja noin 700 miljoonaa kuluttajaa.
+<P>
+Mielestäni on päivänselvää, että laajentuneeseen vapaakauppa-alueeseen perustuva suhde on tehokkaampi suhde, ja sillä piristysruiskeella, jonka eteläisten maiden taloudet tästä saavat, edistettäneen alueen kehittymistä, ja näin sillä autettaneen myös ehkäisemään esimerkiksi viime aikoina ilmenneitä maahanmuuttoon liittyviä jännitteitä.
+<P>
+Äänestin Jäätteenmäen mietinnön puolesta. 
+<SPEAKER ID="89" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="90" LANGUAGE="SV" NAME="Hélène Goudin, Nils Lundgren ja Lars Wohlin (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+   Mielestämme EU:lla on tärkeä tehtävä demokratian ja ihmisoikeuksien edistämisessä omalla lähialueellaan. Kumpikin päätöslauselma koskee kuitenkin maita ja alueita, joiden ei voida katsoa sijaitsevan EU:n lähialueilla. On selvää, että tarkoituksena on kohottaa EU:n ulko- ja turvallisuuspoliittista profiilia. Näihin tarkoituksiin soveltuvat muut järjestöt, esimerkiksi YK, ETYJ ja Euroopan neuvosto. Kaksi jälkimmäistä järjestöä on asetettava etusijalle, kun kyse on vaalitarkkailusta ja ihmisoikeuksien suojelemisesta Euroopassa.
+<P>
+Edellä esitetyn perusteella halusimme äänestää tyhjää näistä kahdesta päätöslauselmasta toimitetussa lopullisessa äänestyksessä. Päätimme kuitenkin tukea eräitä ehdotuksia, jotka eivät mielestämme kuulu EU:n ulko- ja turvallisuuspolitiikkaan. Tämä koskee esimerkiksi ehdotuksia vapaakauppa-alueen perustamisesta EU:n ja Välimeren alueen välille vuoteen 2010 mennessä ja yhteistyön kehittämistä väestön- ja ympäristönsuojelun alalla. 
+<SPEAKER ID="91" LANGUAGE="" NAME="" AFFILIATION="">
+<SPEAKER ID="92" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   .  Vaikka tässä mietinnössä viitataan työhön, jota edellinen oikeusasiamies teki päättyneen virkakautensa aikana, olemme tyytyväisiä nykyisen oikeusasiamiehen tapaan tehdä työtään. Hän on pyrkinyt saattamaan kansalaisten kantelut toimielinten tietoon, ja joissakin tapauksissa hän on onnistunut ratkaisemaan nämä kantelut.
+<P>
+Lisäksi oikeusasiamies on tehnyt ehdotuksia asianomaisten Euroopan toimielinten ripeämmän reagoimisen varmistamiseksi, ja mikäli ehdotukset hyväksytään, tällä lisätään oikeusasiamiehen mahdollisuuksia ryhtyä toimiin ja ratkaista kansalaisten ongelmia.
+<P>
+Lisäksi olemme esittelijän kanssa samaa mieltä siitä, että Euroopan oikeusasiamiehen ja parlamentin vetoomusvaliokunnan on tehtävä aiempaa enemmän yhteistyötä keskenään ja että kansalaisten oikeudet olisi pyrittävä ottamaan aiempaa paremmin huomioon.
+<P>
+Näin ollen äänestimme mietinnön puolesta. 
+<SPEAKER ID="93" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Olen tyytyväinen tähän mietintöön, jossa annetaan perustellusti tunnustusta oikeusasiamiehelle vuodesta 2004. Oikeusasiamies on osoittanut tarmoa ja voimaa käsitellessään EU:n kansalaisten hänelle esittämiä kanteluja EU:n toimielinten toimista. Oikeusasiamies on osoittanut puolustavansa toden teolla kansalaisten oikeuksia siihen, että toimielimet kohtelevat heitä tasapuolisesti ja avoimesti. 
+<SPEAKER ID="94" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   .  Euroopan ja sen kansalaisten vuoropuhelu on kriisissä. Euroopan oikeusasiamiehelle saapuu jatkuvasti kanteluja, jotka eivät kuulu hänen toimivaltaansa.
+<P>
+Tämän vuoksi on mielestäni äärettömän tärkeää, että vuoropuhelu kansalaisten kanssa aloitetaan uudelleen siten, että toimielinten toimivaltuudet selvitetään yksinkertaisesti ja selkeästi.
+<P>
+Euroopan oikeusasiamies on ollut tässä asiassa aloitteellinen, ja näin hänen on toimittava myös jatkossa. Lisäksi nykyinen oikeusasiamies on osoittanut meille olevansa hyvin tietoinen omasta tehtävästään ehdottaessaan yhteistyön lisäämistä kansallisten tai alueellisten kollegojensa kanssa ja toimia yhteisön julkishallinnon korkeimpien standardien edistämiseksi.
+<P>
+Lopuksi haluan korostaa, että on tärkeää säilyttää tämän Euroopan julkishallinnon ja kansalaisten välillä sovittelijana toimivan ja tuomioistuinten ulkopuolella riitoja ratkaisevan vaikutusvaltaisen elimen puolueettomuus. 
+<P>
+Tämän vuoksi äänestin Mavrommatisin mietinnön puolesta. 
+<SPEAKER ID="95" LANGUAGE="EL" NAME="Georgios Toussas (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . – Euroopan oikeusasiamiehen toimiston perustamisesta päätettiin Maastrichtin huippukokouksessa, ja se on ollut toiminnassa kymmenen vuotta. Oikeusasiamiehen toimiston tarkoituksena on tutkia kanteluja, jotka koskevat EU:n toimielimistä ja jäsenvaltioiden hallituksista johtuvia hallinnollisia epäkohtia.
+<P>
+On selvää, että tämän toimiston tarkoituksena on kaunistaa EU:ta kansalaisten silmissä ja kanavoida ruohonjuuritason vastaisen politiikan nostattamat reaktiot harmittomampaan kohteeseen eli siihen, onko kaiken yksityistäminen, työntekijöiden palkan ja sosiaalisten oikeuksien lakkauttaminen, ammattiliittojen valvonta ja tukahduttaminen ja poliittiset toimet ja niin edelleen toteutettu hyvin vain huonosti.
+<P>
+Hyvää hallintotapaa ja ruohonjuuritason vastaista ja epädemokraattista politiikkaa on mahdotonta sovittaa yhteen.
+<P>
+Emme aliarvioi työntekijöiden kärsimyksiä heidän kokemiensa hallinnollisten epäkohtien vuoksi emmekä sen arvoa, että työntekijöillä on sujuvammat yhteydet Brysselin byrokratiaan tai jäsenvaltioiden hallituksiin. Tällä toimistolla on kuitenkin hyvin vähän tekemistä ruohonjuuritason laajojen kansankerrosten kanssa, eikä sitä ole perustettu ratkomaan heidän ongelmiaan. Sitä käytetään pehmentämään tyytymättömyyttä itse ruohonjuuritason vastaiseen politiikkaan ja niihin hallinnollisiin keinoihin, joilla tätä politiikkaa ajetaan läpi.
+<P>
+Työntekijöiden pahenevien ongelmien ratkaisemiseksi on yleisesti ottaen tehostettava työväenliikkeen ja ruohonjuuritason liikkeen taistelua EU:n ruohonjuuritason vastaista politiikkaa vastaan. 
+<SPEAKER ID="96" LANGUAGE="" NAME="" AFFILIATION="(Istunto keskeytettiin klo 12.55 ja sitä jatkettiin klo 15.00.)">
+<SPEAKER ID="97" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="98" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Esityslistalla on seuraavana keskustelu kuudesta Länsi-Saharan ihmisoikeuksia koskevasta päätöslauselmaesityksestä(1).
+<SPEAKER ID="99" LANGUAGE="DE" NAME="Karin Scheele (PSE )," AFFILIATION="laatija">
+<P>
+   . Arvoisa puhemies, vaikka Länsi-Saharan ihmisoikeuksia koskevan päätöslauselmaesityksen luomisprosessi olikin mielestäni niin vaikea, että kaikki siihen osallistuvat ovat varmaankin melko uupuneita, olen iloinen, että parlamentti on kestänyt Marokon painostuksen ja että täysistunnossa päätettiin tänään lähes yksimielisesti jättää tämä kohta käsittelyjärjestykseen eikä poistaa sitä siitä, kuten puheenjohtajakokous eilen päätti. Se oli hyvin tärkeää itseluottamuksemme kannalta ja ajatellen sitä itsevarman parlamentin kuvaa, jonka annamme itsestämme maailmalle.
+<P>
+Päätöslauselmassa on eräs tärkeä seikka, nimittäin se, että siinä kehotetaan vapauttamaan Saharan poliittiset vangit. Heistä huomattavin on Aminatou Haidar, joka loukkaantui vakavasti ja otettiin vangiksi 17. kesäkuuta El Ayounissa ja joka vietiin siellä olevaan niin sanottuun laittomaan vankilaan. Parlamentti on tehnyt hänen puolestaan aloitteen ennenkin, sillä 178 parlamentin jäsentä allekirjoitti heinäkuussa hänen vapauttamistaan koskevan vaatimuksen. Erittäin hyvää tässä tekstissä kuitenkin on, että siinä tuodaan esiin todellinen ongelma eli se, ettei Länsi-Saharassa edelleenkään noudateta kansainvälistä lakia eikä tähän konfliktiin ole löytynyt poliittista ratkaisua.
+<P>
+Olen hyvin iloinen, että edes yritämme sisällyttää päätöslauselmaan maininnan raaka-aineista, koska tiedämme, että yhtenä syynä konfliktiin Länsi-Saharassa ovat alueen runsaat raaka-aine- ja kalavarat. Parlamentin tehtävänä on myös lausua selvästi julki tämän konfliktin syyt, jos se haluaa auttaa parantamaan tilannetta. 
+<SPEAKER ID="100" LANGUAGE="ES" NAME="Raül Romeva i Rueda (Verts/ALE )," AFFILIATION="laatija">
+<P>
+   . Haluan aluksi sanoa, että pidän valitettavana juuri näkemäämme käsittämätöntä yritystä estää parlamenttia antamasta lausuntoaan niinkin tärkeästä asiasta kuin Länsi-Saharan ihmisoikeudet.
+<P>
+Jos tällä hankkeella olisi onnistuttu estämään lausunnon antaminen, se olisi ollut hyvin huolestuttava ennakkotapaus ajatellen tulevia kiireellisiä keskusteluja ja päätöslauselmia muista ihmisoikeuksiin liittyvistä aiheista.
+<P>
+Olen siksi iloinen, että terve järki on lopulta päässyt voitolle, ja tyytyväinen, ettemme tänään vain keskustele tärkeästä päätöslauselmasta vaan toivoakseni myös hyväksymme sen.
+<P>
+Päätöslauselma on lisäksi kiireellinen syistä, joista muutaman jäsen Scheele jo mainitsi. Haluan korostaa näiden syiden merkitystä, koska mielestäni meidän on tässä yhteydessä myös vedottava marokkolaisiin, jotta he antaisivat merkittävän panoksensa tämän konfliktin ratkaisemiseen.
+<P>
+Useat ihmiset viruvat tällä hetkellä Marokon vankiloissa täysin epäinhimillisissä olosuhteissa. Tämä asiaintila on tunnistettu, sitä on arvosteltu ja se on tuomittu Amnesty Internationalin ja kidutuksen vastaisen maailmanjärjestön laatimissa kertomuksissa.
+<P>
+Lisäksi Polisario-rintama vapautti elokuussa useita poliittisia vankeja, satoja marokkolaisia sotavankeja. Marokolla olisi ollut tuolloin sopiva tilaisuus osoittaa hyvää tahtoa konfliktin hoitamisessa. Se olisi voinut tehdä myönteisen eleen vapauttamalla vankeja ja antamalla tietoja vankien kohtelusta marokkolaisissa vankiloissa.
+<P>
+Näin ei ole tehty. Tämän vuoksi Euroopan parlamentin oli annettava lausuntonsa. Tämä päätöslauselma on tärkeä, ja on välttämätöntä, että puhumme selväsanaisesti sen puolesta, että Euroopan unionin ja Marokon suhteet paranisivat ja että voitaisiin ratkaista — korostan tätä — ei ainoastaan vankeja koskeva erityisongelma vaan myös koko Länsi-Saharan konflikti lopullisesti. 
+<SPEAKER ID="101" LANGUAGE="EN" NAME="Simon Coveney (PPE-DE )," AFFILIATION="laatija">
+<P>
+   . Arvoisa puhemies, olen tyytyväinen ja helpottunut voidessani puhua yhteisen päätöslauselman puolesta. Haluan tehdä aivan selväksi, että vastustan ehdottomasti parlamentin puhemiehen ja puheenjohtajakokouksen yrityksiä panna Länsi-Saharan ihmisoikeuksia koskeva esitys syrjään siksi, kunnes jokin EU:n valtuuskunta on tehnyt sinne vierailun ja antanut päätelmänsä. Tehtiin päätös, että Länsi-Saharan konfliktin käsittelyssä edetään kiireellistä menettelyä noudattaen ja käyttäen tavanomaisia ja asianmukaisia kanavia. Eri ryhmien esityksistä keskusteltiin, yhteinen kompromissiteksti hyväksyttiin ja täysistunnossa tehtiin päätös. Viime hetken yritykset jättää esitys käsittelemättä ilman kuulemista uhkasivat muodostaa vaarallisen ennakkotapauksen, joka olisi mielestäni vahingoittanut huomattavasti kiireellisen menettelyn ja, mikä on ehkä vielä merkittävämpää, ihmisoikeusasioita koskevan parlamentin työn uskottavuutta yleensä.
+<P>
+Ihmisoikeuskysymyksissä olisi pidettävä poliittisten näkökohtien sijasta tärkeämpänä luotettaviin tosiasioihin perustuvien huolenaiheiden ja kritiikin – jos ne ovat oikeutettuja – kartoittamista. Länsi-Saharan kysymykseen liittyvät poliittiset näkökohdat ovat monimutkaisia, ja haluan kohdistaa huomioni ensisijaisesti ihmisoikeuksiin, vaikka nämä kaksi asiaa todennäköisesti ovatkin päällekkäisiä.
+<P>
+Esityksessä pannaan tyytyväisenä merkille marokkolaisten sotavankien vapauttaminen ja annetaan sille tunnustusta, mutta vaaditaan Marokon viranomaisia vapauttamaan ihmisoikeuksien puolustajat. Siinä vaaditaan myös vapauttamaan Länsi-Saharan poliittiset vangit ja antamaan viranomaisapua kadonneita ihmisiä koskevan kysymyksen ratkaisemiseen. Kehotamme molempia osapuolia tekemään täysimääräistä yhteistyötä kansainvälisen Punaisen Ristin kanssa jo konfliktin alussa kadonneiksi ilmoitettujen henkilöiden kohtalon selvittämiseksi.
+<P>
+Esityksessä vaaditaan Länsi-Saharan väestön suojelemista yleensä ja tavalla, joka on ihmisoikeuksien yleismaailmallisen julistuksen mukainen, erityisesti ilmaisunvapauden ja liikkumisvapauden osalta. Lisäksi siinä vaaditaan, että lopullisen poliittisen ratkaisun on oltava kansainvälisen oikeuden ja YK:n turvallisuusneuvoston asiaa koskevan päätöslauselman mukainen.
+<P>
+Lopuksi esityksessä vaaditaan riippumattomien tarkkailijoiden, ihmisoikeusjärjestöjen edustajien ja vapaan lehdistön vapaata pääsyä kaikille Länsi-Saharan alueille. Olen iloinen voidessani kannattaa esitystä ja suositella sitä parlamentille. 
+<SPEAKER ID="102" LANGUAGE="EN" NAME="Marios Matsakis (ALDE )," AFFILIATION="laatija">
+<P>
+   . Arvoisa puhemies, haluan ensin yhtyä edellisten puhujien kommentteihin ja todeta, kuinka mainiota on ollut huomata, että eräiden henkilöiden yritykset estää parlamenttia käsittelemästä Länsi-Saharaa koskevaa yhteistä päätöslauselmaa tänään eivät onnistuneet. Olkoon tämä ennakkotapauksena ja varoituksena tulevaisuuden varalta: tekopyhyys ja valheellinen, mahtaileva taktiikka eivät koskaan voi estää meitä, kun olemme päättäneet tuomita ihmisoikeuksien rikkomuksia missä päin maailmaa tahansa.
+<P>
+Pakolaisia suojellaan useilla YK:n päätöslauselmilla, pöytäkirjoilla ja yleissopimuksilla. Joissakin tapauksissa suojelu on tehokasta ja monissa tapauksissa se pelastaa ihmishenkiä. Valitettavasti kuitenkin joissakin tapauksissa tilanne ei ole sellainen kuin pitäisi, ja viattomat siviilit kärsivät nälästä, huonosta kohtelusta ja sairauksista ja jopa menehtyvät.
+<P>
+Suuri osa Länsi-Saharan pakolaisista on tällä hetkellä juuri tällaisessa tilanteessa. Luotettavalta taholta on kerrottu, että Marokon viranomaiset ovat kohdelleet satoja ihmisiä epäinhimillisesti Ceutassa ja Melillassa, jotka ovat niin kutsuttuja Espanjan erillisalueita. Siellä useita siirtolaisia on ammuttu kuoliaiksi heidän yrittäessään päästä Espanjan alueelle. Se, miksi Marokossa on Espanjaan kuuluva alue, on tietysti asia erikseen. Siihen on käsittääkseni samanlainen syy kuin siihen, miksi Kyproksella on brittiläistä maaperää tai siihen, miksi kaukaisilla valtamerentakaisilla alueilla on tai on viime aikoihin asti ollut ranskalaista maata.
+<P>
+Ehkä uuden ajan siirtomaavalta ei olekaan kokonaan päättynyt, mutta toisaalta, kuka haluaisi puhua noista arkaluontoisista asioista? Ovathan eräät vanhoista siirtomaavalloista – kuten meitä kaikkia parlamentissa jatkuvasti muistutetaan – loppujen lopuksi loistavia esimerkkejä demokratian, vapauden ja ihmisoikeuksien kunnioittamisen periaatteiden puolustajista. Se riittää.
+<P>
+Palaan päätöslauselman aiheeseen ja totean lopuksi, että tästä yhteisestä päätöslauselmasta käy Marokon hallitukselle ja kaikille muille asianosaisille ehdottoman selväksi, että emme odota niiltä sen vähempää kuin että ne tekevät kaiken voitavansa turvatakseen pakolaisten oikeudet Länsi-Saharassa. 
+<SPEAKER ID="103" LANGUAGE="PT" NAME="Pedro Guerreiro (GUE/NGL )," AFFILIATION="laatija">
+<P>
+   . – Haluan ensiksi ilmaista iloni siitä, että yritykset romuttaa Länsi-Saharaa koskeva päätöslauselma ovat epäonnistuneet. Mielestämme meidän olisi keskustelun päätteeksi osoitettava solidaarisuutemme Länsi-Saharan kansan oikeutetulle itsemääräämispyrkimykselle Yhdistyneiden Kansakuntien päätöslauselmien mukaisesti. Kuten päätöslauselmaesityksessä todetaan, oikeudenmukaiseen ja kestävään ratkaisuun on kuuluttava se, että puretaan siirtomaahallinto, jonka uhri Länsi-Sahara on, ja perustetaan itsenäinen ja elinkelpoinen Länsi-Saharan valtio.
+<P>
+Huolimatta Länsi-Saharan kansan intressejä laillisesti edustavan Polisario-rintaman sinnikkäistä pyrkimyksistä, yksipuolisista myönnytyksistä ja hyvän tahdon eleistä, muun muassa äskettäin tapahtuneesta kaikkien sotavankien vapauttamisesta, prosessia vaikeuttaa Marokon hallituksen myöntymätön asenne – olkoonkin, että se on vähäisin sen rikoksista – sillä hallitus kieltäytyy myöntämästä perusoikeuksia Länsi-Saharan kansalle. Olisikin kiireellisesti toteutettava tehokkaita toimia, joiden selvänä tavoitteena on saattaa Länsi-Saharan itsenäistämisprosessi päätökseen. Lisäksi olisi tehtävä aloitteita, joissa tuomitaan Länsi-Saharan kansan sortaminen vallatuilla alueilla ja vaaditaan Marokon viranomaisten vangitsemien Länsi-Saharan patrioottien vapauttamista.
+<P>
+Länsi-Saharan kansalle on myös taattava kunnolliset elinolosuhteet. Kaikki pakolaisleireillä oleskelevat tarvitsevat huomattavaa avustusta ruoan, terveydenhoidon ja koulutuksen muodossa. 
+<SPEAKER ID="104" LANGUAGE="DE" NAME="Bernd Posselt," AFFILIATION="PPE-DE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, myös minä olen iloinen, että käymme tänään tätä keskustelua. Olkoon se puhemiehen ja puheenjohtajakokouksen huomioitavaksi tarkoitettu ilmeinen varoituslaukaus, sillä ilman sitä olisi syntynyt vaarallinen ennakkotapaus. Puheenjohtajakokous ilmoitti vielä torstaina kantanaan, että Länsi-Sahara on yksi kolmesta kiireellisimmästä ihmisoikeusongelmasta, joita joudumme käsittelemään, eikä tästä näkökulmasta ollut erimielisyyttä maanantainakaan.
+<P>
+Sitten täällä kävi eräs suurlähettiläs, ja pian sen jälkeen kävi ilmi, että suunniteltiin valtuuskunnan vierailua. Näin olisi luotu ennakkotapaus. Seuraavaksi olisi saattanut käydä niin, että jokin ihmisoikeusasia olisi mielivaltaisesti jätetty pois käsittelyjärjestyksestä Putinin kanssa syödyn päivällisen vuoksi, ja sen jälkeen syynä olisi voinut olla lounas kiinalaisen pääkonsulin kanssa tai jokin muu vastaava seikka, ja olisi jatkettu samaan tapaan. Tällaista ei mikään parlamentin ryhmä voi sietää.
+<P>
+Siirryn käsillä olevaan asiaan. Olen Marokon suuri ystävä ja uskon, että molemmat osapuolet tekevät velvollisuutensa konfliktin selvittämiseksi. Sekä Marokko että Länsi-Sahara ovat olleet siirtomaavallan uhreja. Siirtomaavallan edustajat piirsivät maiden rajat autiomaahan yksinkertaisesti viivoittimella, ja sen vuoksi asia on niin ongelmallinen ja voidaan ratkaista vain neuvottelemalla ja keskinäisellä sopimisella. On molempien osapuolien edun mukaista, että valtuuskuntamme voi tehdä työnsä siellä ilman esteitä. Se on todellakin vähintä, mitä voidaan vaatia, ja sen pitäisi olla itsestään selvää. On törkeää esittää uhkauksia, ettei valtuuskunta ehkä voisikaan tehdä työtä rauhassa. Kunnioitamme kumpaakin osapuolta ja haluamme tehdä oman osamme rauhan vakiinnuttamiseksi, ja sen vuoksi ei saa olla epäilystäkään, että rauha on mahdollinen vain lakia, eli tässä tapauksessa kansainvälistä lakia, noudattaen ja erityisesti ihmisoikeuksia korostaen. Rauhanneuvotteluja ei voida aloittaa, ellei varauksetta kunnioiteta ihmisoikeuksia ja ellei vapauteta kaikkia poliittisia vankeja. Siksi olemme valmiita toimimaan kumppanina ja välittäjänä ja siksi tuemme molempia osapuolia. Emme asetu kummankaan puolelle – Euroopan kansanpuolue ei todellakaan tee mitään sellaista – mutta sanomme kaunistelematta, että mielestämme ihmisoikeudet ovat ihmisoikeuksia ja poliittiset vangit ovat poliittisia vankeja, jotka on vapautettava ilman ehtoja ja vastaväitteitä, jos tämä visainen ongelma halutaan ratkaista. 
+<SPEAKER ID="105" LANGUAGE="ES" NAME="Luis Yáñez-Barnuevo García," AFFILIATION="PSE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, haluaisin tarkastella joitakin esitettyjä mielipiteitä. Niitä ovat esittäneet eräät hyvät ystäväni, joiden kanssa minulla on paljon yhteistä – arvot, ajatukset ja tavoitteet.
+<P>
+Pitkä poliittinen kokemukseni erityisesti ulkopolitiikassa on opettanut minulle, että kovaäänisimmät ja määrätietoisimpia päätöksiä tekevät eivät aina saa aikaan parhaita tuloksia. Lausuntoa annettaessa on otettava huomioon monia tekijöitä. Keskustelemme menettelyllisestä seikasta, mutta kukaan ei ole kiinnittänyt huomiota siihen, että muu maailma näkee tässä parlamentaarisen äänestyksen tekopyhyyden: 600 parlamentin jäsentä on sitä mieltä, että keskustelu on käytävä ― juuri niin minäkin äänestin, ja tässä olen ― mutta sitten meitä on vain 20 keskustelemassa, ja äänestyksessä on 70. Onko asia todella niin kuin pitäisi, vai olemmeko ainoat, jotka pitävät näitä torstai-iltapäivien keskusteluja tärkeinä? Meidän on oltava hieman realistisempia ja otettava huomioon nämä tekijät.
+<P>
+Yhdyn yhteiseen päätöslauselmaan ja siihen, että tavoitteena on oltava tukea Länsi-Saharan kansan vaatimuksia, jotka koskevat ennen kaikkea sen itsemääräämisoikeutta, jota se ei ole vielä kolmenkymmenen vuoden pyrkimyksistä huolimatta saanut. Katson kuitenkin, että samalla on aina huomioitava se turvallisuutta ja vakautta uhkaava ongelma, joka vaanii Euroopan unionin etelärajalla, ja että meidän on otettava huomioon yksi tekijä, 30 miljoonan asukkaan Marokko, jossa piilee vaara islaminuskon taantumisesta.
+<P>
+Meidän on edistettävä maan poliittista uudistusta ja demokratisoitumista, vaatii se sitten toimintaa tai siitä pidättäytymistä. 
+<SPEAKER ID="106" LANGUAGE="EN" NAME="Alyn Smith," AFFILIATION="Verts/ALE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, allekirjoitan täysin ryhmätoverini Romeva i Ruedan äsken esittämät kommentit ja lisään niihin omat epäilykseni siitä, että Länsi-Saharan tilanne pysyy aivan yhtä huonona kuin se selvästikin edelleen on näiden vuosien jälkeen, joiden aikana Eurooppa on vain väännellyt käsiään ja ollut olevinaan sitoutunut asiaan. Tilanne on yhä tänään yhtä vaikea kuin se on ollut monta vuotta. Puheenjohtajakokouksessa eilen käyty sopimaton, ilkeämielinen keskustelu näytti Euroopan pahimmillaan.
+<P>
+Silloin kun meillä eurooppalaisilla on huolenamme taktiikka, sisäpolitiikka tai oman maamme edun huomioon ottaminen, olemme heikkoja ja erimielisiä. Jos muistamme, että tärkeimpänä periaatteenamme on edistää demokratiaa, ihmisoikeuksia, kidutuksen lopettamista ja ennen kaikkea vuoropuhelua, puhumme asioista selväsanaisesti. Tämä esitys on askel siihen suuntaan.
+<P>
+Meidän on muodostettava kanta tänään käsiteltävänämme olevasta esityksestä – mitä merkitystä parlamentilla muuten olisi? Esitys on arvokas ja järkevä, ja toivon, että parlamentin valtuuskunta puhuu tarpeeksi selvästi vieraillessaan alueella. 
+<SPEAKER ID="107" LANGUAGE="CS" NAME="Jaromír Kohlíček," AFFILIATION="GUE/NGL-ryhmän puolesta">
+<P>
+   . – Afrikassa ei ole tätä nykyä siirtokuntia eikä niiden jäänteitä; tämä on ainakin tiettyjen konservatiivisten parlamentin jäsenten usein esittämä teoria. Todellisuus on tietenkin täysin toisenlainen. Kaksi erillisaluetta, Ceuta ja Melilla, ovat yhä siirtomaavallan alla, ja Länsi-Saharan, joka aiemmin oli Espanjan siirtokunta Rio de Oro, valloitti Marokko noin 20 vuotta sitten. Käsiteltävänämme olevassa päätöslauselmassa parlamentti antaa tukensa maan tulevaisuutta koskevalle kansanäänestykselle, jota on lykätty jo huomattavan kauan. Hyvät kollegat, älkäämme unohtako, että on välttämätöntä tukea kansanäänestyksen toteutumista, mutta myös määritellä tekniset seikat, kuten se, kuka voi osallistua äänestykseen.
+<P>
+Panen tyytyväisenä merkille tänään julkistetun päätöksen parlamentin valtuuskunnan vierailun järjestämisestä maahan ensi tammikuussa. Mielestäni siihen osallistuvien parlamentin jäsenten olisi pidettävä mielessä se tosiasia, että kyseessä on aavikkovaltio, jossa on runsaasti fosfaattiesiintymiä. Heidän olisi otettava ongelman kaikki näkökohdat esille Polisario-rintaman edustajien, Marokon hallituksen ja kahden muun naapurivaltion, erityisesti Algerian kanssa. Tämä on ainoa tapa, jolla voimme taata tasapuolisen näkemyksen kokonaistilanteesta. Olisi hyödyllistä myös ottaa huomioon Afrikan unionin mielipiteet.
+<P>
+On tärkeää määrätä kansanäänestykseen osallistumista koskevat säännöt. Maassa asuu esimerkiksi suuri Marokosta peräisin oleva siirtolaisyhteisö, kun taas suuri määrä entisestä Espanjan siirtokunnasta peräisin olevia ihmisiä asuu alueen ulkopuolella. Asiaan liittyy monia vastaamatta jääneitä kysymyksiä, ja mielestäni päätöslauselmassa esitettyjen vaatimusten täyttäminen voi tasoittaa tietä sille, että noita kysymyksiä voidaan esittää, ja toisaalta sille, että löydetään ratkaisu Länsi-Saharan itsenäistämiselle. 
+<SPEAKER ID="108" LANGUAGE="EN" NAME="Charles Tannock (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, Länsi-Saharassa oli vuosina 1975–1991 Marokon ja Polisarion välisen verisen konfliktin aikakausi, joka päättyi YK:n tuella aikaan saatuun aselepoon. Sen edellytyksenä oli, että järjestetään Minurso-rauhanturvaoperaation valvoma itsenäisyyttä koskeva kansanäänestys, jota ei vieläkään ole järjestetty, kuten on todettava. Tähän mennessä Länsi-Saharan demokraattisen tasavallan on tunnustanut 76 maata.
+<P>
+James Baker ehdotti vuonna 2001 viiden vuoden autonomiaa Marokon yhteydessä ennen kansanäänestyksen järjestämistä, mutta Polisario hylkäsi ehdotuksen lähinnä äänestysoikeuteen liittyvien syiden vuoksi. Näin ollen vuoden 1991 YK:n rauhansopimussuunnitelma on yhä laillisesti voimassa. Marokko on tällä välin jatkanut sortotoimia. Viime aikoina on kuultu muun muassa hälyttäviä väitteitä mielivaltaisista pidätyksistä ja vankien pahoinpitelyistä ja jopa kidutuksesta.
+<P>
+Algeria on nyt päässyt osalliseksi suurista satunnaisvoitoista, jotka johtuvat sen runsaista öljytuloista, ja pystyy sen vuoksi varustamaan uudelleen Polisariota. Se on äärimmäisen vaarallista, koska vihollisuudet voivat herätä uudelleen eloon. Meidän on estettävä vihollisuudet ja sodan puhkeaminen uudelleen millä hinnalla hyvänsä. 
+<SPEAKER ID="109" LANGUAGE="ES" NAME="Iratxe García Pérez (PSE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, keskustelimme muutama kuukausi sitten juuri tässä istuntosalissa tarpeesta antaa Länsi-Saharan kansalle humanitaarista apua. Tuolloin korostimme sitä, että tilanne johtuu poliittisesta konfliktista, jota emme ole toistaiseksi pystyneet ratkaisemaan.
+<P>
+Puhumme tänään vakavasta ja huolestuttavasta tilanteesta, joka liittyy Länsi-Saharan kansan ihmisoikeuksien kuten ilmaisunvapauden, mielenosoitusvapauden ja liikkumisvapauden loukkauksiin, joista olemme viime kuukausina kuulleet ihmisoikeusjärjestöiltä ja tiedotusvälineistä.
+<P>
+Me parlamentin jäsenet vetoammekin tänään voimakkaasti Marokon viranomaisiin, jotta he vapauttaisivat Länsi-Saharan poliittiset vangit. Mielestämme myös Euroopan parlamentin valtuuskunnan vierailu olisi välttämätön täsmällisen ensikäden tiedon saamiseksi Saharan alueen nykytilanteesta.
+<P>
+On selvää, että kansainvälisten tahojen ja Euroopan unionin päättäväinen väliintulo on välttämätöntä kolme vuosikymmentä kestäneen vääryyden ja kärsimyksen lopettamiseksi. Yhdistyneiden Kansakuntien uuden edustajan nimittäminen Minurso-rauhanturvaoperaatioon on hyvä merkki. Nyt on aika luoda olosuhteet, joissa konfliktin ratkaisu on mahdollinen ja Länsi-Saharan kansan oikeutettu toive saada päättää omasta tulevaisuudestaan voidaan tunnustaa.
+<P>
+Hyvät kollegat, tänään käytävä keskustelu ei saa jäädä vain yhdeksi monista, eikä tämänpäiväinen päätöslauselma saa olla vain yksi päätöslauselma niiden monien lisäksi, joita olemme tästä aiheesta antaneet. Velvollisuutemme on pyrkiä tähän, jotta ihmisoikeudet ja yhteiskunnallinen tasa-arvo toteutuvat. 
+<SPEAKER ID="110" LANGUAGE="EN" NAME="Olli Rehn," AFFILIATION="komission jäsen">
+<P>
+   . Arvoisa puhemies, komissio antaa edelleen täyden tukensa Yhdistyneille Kansakunnille sen pyrkiessä saamaan aikaan poliittisen ratkaisun Länsi-Saharan konfliktiin.
+<P>
+Mekin toivomme, että Yhdistyneiden Kansakuntien pääsihteerin uusi erityislähettiläs Peter Van Walsum sekä uusi erityisedustaja Francesco Bastagli antavat uutta vauhtia poliittisen ratkaisun etsintään. Komissio kannustaa kaikkia osapuolia ja kansainvälistä yhteisöä tekemään heidän kanssaan täysipainoista yhteistyötä tämän tavoitteen saavuttamiseksi.
+<P>
+Komissio panee tyytyväisenä merkille myös sen, että Polisario-rintama on vapauttanut 404 marokkolaista sotavankia. Tämä on hyvin myönteinen toimenpide, joka epäilemättä myötävaikuttaa ratkaisun löytymiseen.
+<P>
+Länsi-Saharan viimeaikaisten jännitteiden osalta voin todeta, että komissio seurasi hyvin tiiviisti viime kuun mielenosoituksia, pidätyksiä ja nälkälakkoja ja että se jatkaa tilanteen tarkkailua.
+<P>
+Komission korkean tason virkamiehet ovat olleet virallisesti yhteydessä Marokon viranomaisiin ja muihin osapuoliin Rabatissa olevan valtuuskunnan välityksellä ja yhteistyössä jäsenvaltioiden kanssa. Se on ilmaissut huolensa ja vaatinut suoraa tietoa tilanteesta ja toimista, joihin ryhdytään. Lisäksi komissio jatkaa määrätietoista ihmisoikeustyötä, koska ihmisoikeuksien kunnioittaminen on Euroopan unionin ulkosuhteiden keskeinen periaate.
+<P>
+Marokon kanssa ylläpitämiemme kahdenvälisten suhteiden puitteissa perustetaan ihmisoikeuksien, demokratiakehityksen ja hyvän hallintotavan alakomitea. Sen ensimmäisen kokouksen ajankohta sovitaan todennäköisesti Marokon kanssa assosiaationeuvostossa marraskuussa. Alakomitea antaa komissiolle mahdollisuuden lähestyä ihmisoikeuskysymystä kokonaisuutena niin, että siihen sisällytetään ilmaisuvapaus ja kokoontumisvapaus.
+<P>
+Näitä asioita – ihmisoikeuksia, demokratiakehitystä, poliittista ja institutionaalista uudistusta – tarkastellaan myös komission ja Marokon välisessä toimintasuunnitelmassa, josta sovittiin Euroopan unionin naapuruuspolitiikan yhteydessä. 
+<SPEAKER ID="111" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Keskustelu on päättynyt.
+<P>
+Äänestys toimitetaan tänään klo 16.00. 
+<SPEAKER ID="112" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Esityslistalla on seuraavana kuusi päätöslauselmaesitystä ihmisoikeuksista Uzbekistanissa(1).
+<SPEAKER ID="113" LANGUAGE="PL" NAME="Józef Pinior (PSE )," AFFILIATION="laatija">
+<P>
+   Arvoisa puhemies, Uzbekistan on yli 20 miljoonan asukkaan kotimaa, ja se oli legendaarisen Timur Lenkin syntymäpaikka. Maa sijaitsee silkkitiellä, ja historiallisesta perinnöstään varsin tietoisena sillä on tärkeä geostrateginen tehtävä alueella, jolla Eurooppa kohtaa Lähi-idän ja Aasian. Uzbekistanin kansan ja maan rikkaan kulttuurin vuoksi maalla on keskeinen osa rauhaan, demokratiaan ja ihmisoikeuksien kunnioitukseen perustuvan kansainvälisen poliittisen järjestyksen vakiinnuttamisessa.
+<P>
+Islam Karimovin autoritaarinen hallitus tukahduttaa Uzbekistanin kansan demokraattiset pyrkimykset. Se rikkoo perusihmisoikeuksia ja oli vastuussa Andijanin verilöylystä. Viime lauantaina 22. lokakuuta 2005 opposition johtaja, liikemies Sanjar Umarov otettiin vangiksi. Hänen asianajajansa Vitali Krasilovski on antanut huolestuttavia lausuntoja Umarovin nöyryyttävästä kohtelusta hänen vankeutensa aikana. Krasilovski on huolissaan päämiehensä hyvinvoinnista, sillä hän sai tavata tätä vankilassa vain muutaman minuutin, eikä Umarov pystynyt tuolloin antamaan johdonmukaisia vastauksia hänen kysymyksiinsä. Tämä on yksi monista ihmisoikeuksien rikkomisista, joihin Karimovin hallitus on syyllistynyt.
+<P>
+Euroopan unioni ei voi olla reagoimatta Uzbekistanin tilanteeseen. Toimenpiteemme on kohdistettava Uzbekistanin kansalaisyhteiskuntaan, ja niillä on voitava vakiinnuttaa hyvät suhteet Uzbekistanin kansaan ja auttaa autoritaarisen hallituksen vainon kohteeksi joutuneita. On olennaisen tärkeää, että Euroopan parlamentin edustajat vierailevat Uzbekistanissa. Uzbekistanin viranomaisten on suostuttava siihen, että käymme Andijanissa ja tapaamme tiedotusvälineiden, opposition ja kansalaisjärjestöjen edustajia. Haluaisin esittää toiveeni, että Euroopan unionin ja Uzbekistanin suhteet kehittyvät jatkossakin, sillä näillä suhteilla tuetaan Uzbekistanin kansan kehitystä ja vaurautta. Niillä edistetään myös demokratiaa ja ihmisoikeuksia Uzbekistanissa ja Keski-Aasiassa yleensäkin. 
+<SPEAKER ID="114" LANGUAGE="SV" NAME="Carl Schlyter (Verts/ALE )," AFFILIATION="laatija.">
+<P>
+   Arvoisa puhemies, neuvosto teki 3. lokakuuta hyvän päätöksen aseidenvientikiellosta. Uzbekistan ei tarvitse aseita, joita voidaan käyttää sen oman kansan sortamiseen. On hyvä, että vaadimme nyt riippumattoman tutkinnan suorittamista Andijanin tapahtumista.
+<P>
+Tiedotusvälineet ovat tiukasti hallinnassa, ja oppositiota ja kansanliikkeiden jäseniä estetään kokoontumasta. Presidentti Karimoville esittämiämme vaatimuksia ei pitäisi olla kovin vaikea täyttää. Hänen täytyy vain noudattaa oman maansa perustuslakia, jonka mukaan on vallittava liikkumis-, yhdistymis- ja kokoontumisvapaus ja tuomioistuinten on oltava riippumattomia. Ei ole kohtuutonta vaatia, että presidentti noudattaa oman maansa perustuslakia, ja juuri sitä vaadimme täällä parlamentissa tänään. 
+<SPEAKER ID="115" LANGUAGE="EN" NAME="Simon Coveney (PPE-DE )," AFFILIATION="laatija">
+<P>
+   . Arvoisa puhemies, pyydän anteeksi, etten pannut merkille komission jäsenen läsnäoloa viimeksi puhuessani. Teen sen kuitenkin tällä kerralla.
+<P>
+Olen iloinen, että minulla on tilaisuus puhua lyhyesti Uzbekistania koskevasta esityksestä. Uzbekistan on suuri ja hyvin vaikutusvaltainen maa Keski-Aasiassa. Sen vakaus vaikuttaa suoraan koko alueeseen, ja EU on hyvällä syyllä pyrkinyt rakentamaan yhteyksiä ja luomaan suhteita tähän maantieteellisesti läheiseen ja merkittävään naapuriin. Omasta mielestäni tällä aloitteella pyritään aivan erityisesti kysymään uudestaan, mitä Andijanissa tapahtui viime toukokuussa, ja vaatimaan toistamiseen avointa ja riippumatonta tutkimusta. Yleisesti näytetään ajattelevan, että vaatimalla totuutta asetumme jollain tavoin Uzbekistanin viranomaisia vastaan. EU:n arvojärjestelmässä ihmisoikeudet ja kansainvälinen oikeus ovat hyvin keskeisiä, ja velvollisuutemme on vaatia, että saamme tietää totuuden tästä murhenäytelmästä.
+<P>
+Tähän mennessä "totuudesta" on esitetty kolme eri versiota. Ensimmäinen on Uzbekistanin virallinen ja presidentti Karimovin versio, jonka mukaan verilöyly oli harkittu vastareaktio kiihkoislamilaiseen kansannousuun, ja siinä kuoli 187 rikollista. Toinen on tiedotusvälineiden ja kansalaisjärjestöjen versio. Niiden mukaan verilöylyssä aseistettu poliisi tappoi naisia ja lapsia, raahasi ruumiit läheiseen kouluun ja jätti ne sinne makaamaan seuraavaan päivään. Silloin osa oli vielä hengissä, ja heidät vietiin sairaalaan. Emme edes tiedä surmansa saaneiden määrää. Selontekojen mukaan määrä vaihtelee 500:sta 1 500:aan. Kolmannen version mukaan Andijanin paikkakuntalaisista suurin osa on vaiennettu tai he kärsivät muistinmenetyksestä. Tosiasiassa he eivät uskalla puhua, koska jotkut niin tehneet ovat kadonneet.
+<P>
+EU:n on vaadittava riippumatonta tutkimusta ja toimiin on ryhdyttävä sen varmistamiseksi, että jos tutkimukset kielletään, se vaikuttaa Uzbekistanin ja Euroopan unionin suhteisiin. 
+<SPEAKER ID="116" LANGUAGE="LT" NAME="Ona Juknevičienė (ALDE )," AFFILIATION="laatija">
+<P>
+   . Uzbekistanin presidentti Islam Karimov jättää avoimesti ja täysin peittelemättä huomiotta kansainvälisen yhteisön toiveen paljastaa koko totuus Andijanin tämän vuoden toukokuun tapahtumista. Hän esittää totuudesta omaa versiotaan. Presidentti Karimov luo tätä totuutta loukkaamalla avoimesti ihmisoikeuksia, hävittämällä verilöylyn jäljet ja eliminoimalla todistajia ja heidän sukulaisiaan. Nähtävästi totuuksia voi olla Uzbekistanissa vain yksi. Se on totuus, jonka viranomaiset ovat perin pohjin sensuroineet. Terrorismi ja talousrikollisuus ovat molemmat epämääräisiä käsitteitä, joita käytetään niin kutsuttujen valtion vihollisten avoimen väkivaltaisen kohtelun salaamiseksi. Mielestäni turvallisuuden varmistamisen ja sorron välillä on oltava kuitenkin selvä ero. Koska oppositio kiellettiin, se on omaksunut radikaalin muodon. Yhteiskunnallinen epäoikeudenmukaisuus ja eriävien mielipiteiden tukahduttaminen ruokkivat uskonnollisia ääriliikkeitä. Uzbekistanin voidaan myöntää olevan houkutteleva kohde islamilaisille ääriliikkeille. Viranomaisten toimet eivät kuitenkaan pysäytä islamilaista radikalismia, sillä radikalismin torjunnassa auttaa vain demokratia ja riippumaton oikeuslaitos, ei sorto. Arvoisa puhemies, hyvät kollegat, kehotan teitä äänestämään tänään päätöslauselman puolesta, koska sillä tavoin mielestäni edistetään pyrkimyksiä tukea Uzbekistanin kansalaisten mielipiteenvapautta, puhevapautta ja ihmisoikeuksia. Tämä on todellinen tie demokratiaan. 
+<SPEAKER ID="117" LANGUAGE="NL" NAME="Erik Meijer (GUE/NGL )," AFFILIATION="laatija">
+<P>
+   . Arvoisa puhemies, Neuvostoliiton hajoamisen jälkeen autoritaariset hallitukset eivät ottaneet valtaa ainoastaan Ukrainassa, Georgiassa tai Kirgisistanissa, vaan erityisesti myös Valko-Venäjällä, Turkmenistanissa ja Uzbekistanissa. Siellä ei voittanut demokratia, vaan pikemminkin ihmisryhmä, joka oli hankkinut kokemusta vanhassa valtion koneistossa ja tiedustelupalveluissa. Koska näiden ihmisten ainoa tavoite on pysyä vallassa, he muuttavat valtion yrityksiä yksityisomaisuudekseen, väärentävät vaalituloksia, antavat oppositiolle mahdollisimman vähän tilaa, estävät vapaan järjestäytymisen, rajoittavat lehdistöä ja käyttävät tarvittaessa väkivaltaa omaa kansaansa vastaan.
+<P>
+Uzbekistan on valmis radikaaliin muutokseen, mutta alkusysäys, jonka mielenosoittajat antoivat tähän suuntaan, tukahdutettiin tyystin 13. toukokuuta satoja ihmishenkiä vaatineella raa’alla voimankäytöllä. Tämän jälkeen ulkomaailma on ollut huomiota herättävän hiljainen. Olisikohan sillä jotain tekemistä sen taloudellisten ja sotilaallisten etujen kanssa? Pitääkö Uzbekistanin diktatuurin valtakauden antaa jatkua, koska se todisti hyödyllisyytensä sotilaallisessa väliintulossa Afganistanissa? Olemmeko jättämässä sen asukkaat oman onnensa nojaan? EU ei saa antaa minkään seikan mennä oikeuksiensa ja vapauksiensa edelle. Päätöslauselmaluonnos auttaa meitä omaksumaan tarvittavan kannan. 
+<SPEAKER ID="118" LANGUAGE="PL" NAME="Marcin Libicki (UEN )," AFFILIATION="laatija">
+<P>
+   . Arvoisa puhemies, on valitettavaa, että historiallinen läpimurto, joka johti Puolassa demokraattisen hallituksen muodostamiseen vuonna 1989 ja aiheutti myöhemmin Berliinin muurin kaatumisen ja koko Moskovasta johdetun kommunistisen blokin hajoamisen, ei johtanut ihmisoikeuksia kunnioittavan demokraattisen hallituksen syntyyn kaikissa entisen kommunistisen blokin maissa. Puolassa, Slovakiassa, Tšekin tasavallassa ja Unkarissa koettuja muutoksia, joiden aikana ihmisoikeuksien kunnioittamiseen perustuvat järjestelmät vakiintuivat, ei tapahtunut Ukrainassa. Näitä muutoksia odotamme vieläkin Valko-Venäjällä. Valitettavasti niistä ei ole merkkiäkään myöskään Uzbekistanissa.
+<P>
+Vuoden 2005 toukokuun 13. päivän tapahtumat olivat osoitus vallitsevista oloista Uzbekistanissa. Asenne hallituksessa, joka ei salli ulkomaisten tarkkailijoiden tutkia, minkä vuoksi niin monet saivat surmansa, toimittajien pelottelu ja ulkoisen tarkkailun estäminen ovat syitä, joiden vuoksi parlamentin on oltava asiassa horjumaton. Juuri siksi vaadimme tutkimuksia kaikissa näissä kysymyksissä ja demokratian vakiinnuttamista Uzbekistaniin. 
+<SPEAKER ID="119" LANGUAGE="DE" NAME="Bernd Posselt," AFFILIATION="PPE-DE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, Uzbekistan on vanhaa kulttuurimaisemaa, joka synnytettyään Buharan Khanatesin ja Kokandin kaltaiset valtiot joutui vihamielisen kolonialismin kohteeksi. Olemme puhuneet tänään eurooppalaisesta kolonialismista Afrikassa, mutta tässä tapauksessa kolonialismi oli luonteeltaan neuvostoliittolaista ja kommunistista, ja se seurasi tsaarilaista kolonialismia Keski-Aasiassa. Vasta kommunistisen järjestelmän kukistuttua Keski-Euroopassa vuonna 1989 tämä kolonialismi päättyi, minkä haluan todeta jäsen Kohlíčekin hyväksi.
+<P>
+Meidän on ehdottomasti tarkasteltava alueen tilannetta realistisesti. Nämä maat kokivat kovia kun ne muutettiin monokulttuureiksi, niitä ryösteltiin ja niiden varat ehtyivät, ja nyt ne ovat ryhtyneet etenemään vaivalloisella tiellä kohti itsenäisyyttä. Niiden tilannetta kohtaan on tunnettava tiettyä myötätuntoa, ja ne tarvitsevat myös kaiken tehokkaan avun, jota voimme tarjota. Se ei kuitenkaan merkitse sitä, että voimme sulkea silmämme ihmisoikeuksien loukkauksilta.
+<P>
+Vaatimuksemme on siis selvä ja yksiselitteinen: vaadimme Uzbekistanin hallitusta lopettamaan jo viivästyneiden tutkimusten estämisen, vapauttamaan kaikki poliittiset vangit sekä tunnustamaan perusoikeudet ja ihmisoikeudet. Jos kuitenkin aiomme edistyä tässä, se tapahtuu vuoropuhelun välityksellä, ei kohtelemalla toista osapuolta kuin lasta.
+<P>
+Meidän on oltava tietoisia terroristien läsnäolosta ja koko aluetta epävakauttavista tekijöistä puhumattakaan Venäjän jatkuvasta vaikutuksesta. Venäjä on toimittanut viime aikoina Uzbekistaniin suuria määriä telamiinoja, joista meillä on usein ollut aihetta keskustella myös täällä parlamentissa ja joilla pyritään muun muassa lujittamaan rajoja entisestään. Venäjän joukot ovat vieläkin läsnä ja toimivat ikään kuin alue olisi yhä siirtomaa-aluetta. Tätäkään ei voida hyväksyä, sillä juuri tällä alueella valtojen elintärkeät geostrategiset edut törmäävät yhteen etenkin energian alalla.
+<P>
+Sanottakoon siis kovaan ääneen ja selvästi, että alueella on kaksi vastakohtaa: yhtäältä ihmisoikeudet ja avoin ja rehellinen kumppanuus, ja toisaalta kolonialismi kaikissa muodoissaan. 
+<SPEAKER ID="120" LANGUAGE="DE" NAME="Karin Scheele," AFFILIATION="PSE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, tämänpäiväisellä päätöslauselmalla tuomitaan se, että Uzbekistanin hallitus kieltää kaiken avoimuuden toukokuun 2005 tapahtumien tutkinnassa, ja siinä korostetaan sellaisen riippumattoman kansainvälisen tutkintalautakunnan merkitystä, joka voi tehdä viipymättä seikkaperäisen selvityksen ja tarkastella meneillään olevaa kehitystä kenenkään sitä estämättä.
+<P>
+Maailmanlaajuinen yleisö ei ole vieläkään saanut selville, kuinka moni tarkalleen menetti henkensä noina toukokuun päivinä Andijanissa. Ihmisoikeusjärjestöjen luvut vaihtelevat 500:sta 1 000:een, kun taas Uzbekistanin hallituksen antama luku kuolleiden määrästä on 176. Presidentti Karimov käyttää yhä uudestaan islaminuskoa lyömäaseena kaikkien poliittisten vastustajiensa saamiseksi pois pelistä. Sen vuoksi on olennaisen tärkeää, että vaadimme vielä vangittuina olevien ihmisoikeusaktivistien, toimittajien ja poliittisen opposition jäsenten ehdotonta vapauttamista. 
+<SPEAKER ID="121" LANGUAGE="DE" NAME="Tobias Pflüger," AFFILIATION="GUE/NGL-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, kaikki, jotka ovat panneet merkille räikeät ihmisoikeusrikkomukset Uzbekistanissa, odottaisivat terävää kritiikkiä maan hallituksesta, eivät rikkomusten vähättelemistä, kuten olemme juuri kuullet jäsen Posseltin tekevän. Sen sijaan Uzbekistan saa tehdä erittäin tiivistä yhteistyötä erään EU:n jäsenvaltion kanssa. Kyseinen valtio on Saksa, jolla on erityisesti Afganistanissa toteutettujen sotilaallisten toimien kannalta geopoliittisesti erittäin tärkeä sotilastukikohta Termezissä. Olen kuullut Natolta, että Termez ei kuulu sen sotilastukikohtiin, vaikka sitä käyttävät Nato-valtiot ja myös Alankomaat, Belgia, Ruotsi, Norja, Tanska, Yhdistynyt kuningaskunta, Ranska, Kreikka ja Espanja, jotka ovat kaikki EU:n jäsenvaltioita.
+<P>
+Saksa antaa Uzbekistanille huomattavaa taloudellista ja sotilaallista tukea jopa 2 miljardin euron arvosta, mukaan lukien esimerkiksi asetehtaat ja vanhat aseet. EU:n ihmisoikeuspolitiikka on tekopyhää, jos räikeitä ihmisoikeusrikkomuksia arvostellaan perustellusti, mutta samalla Uzbekistanin hallitus saa geopoliittisten tekijöiden vuoksi sotilaallista ja taloudellista tukea. 
+<SPEAKER ID="122" LANGUAGE="PL" NAME="Urszula Krupa," AFFILIATION="IND/DEM-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, joulukuussa pidettävien Uzbekistanin parlamenttivaalien edellä Euroopan parlamentti keskustelee jälleen ihmisoikeuksien rikkomisista.
+<P>
+Uzbekistan on entinen neuvostotasavalta. Se on kuitenkin vain osittain itsenäistynyt kommunistisesta järjestelmästä, sillä valtaa käytetään vieläkin samalla tavoin. Entinen kommunistipuolueen pääsihteeri Islam Karimov, joka on nyt presidenttinä, on osoittanut olevansa oikea diktaattori. Hän yrittää lepyttää Venäjän, Euroopan ja Yhdysvaltojen kilpailevia mahteja. Näistä Yhdysvalloilla on ollut maassa sotilastukikohtia viime aikoihin asti. Uzbekistanin alueella on strategista, poliittista ja taloudellista merkitystä sekä Venäjälle että Yhdysvalloille, mikä mutkistaa tasavallan tilannetta entisestään. Maa on ollut vuodesta 2001 Yhdysvaltojen tärkeimpiä liittolaisia terrorismin torjunnassa Aasiassa.
+<P>
+Uzbekistan on yhdessä Venäjän kanssa myös terrorismia Aasiassa torjuvan foorumin Shanghai Fiven jäsen. Venäjä käyttää islamilaisen fundamentalismin uhkaa välineenä Uzbekistanin pelottelemiseksi, jotta maa pysyisi Venäjän vaikutuspiirissä.
+<P>
+Uzbekistanissa on runsaasti luonnonvaroja öljy ja kaasu mukaan luettuina. Lähinnä Yhdysvaltojen tuen johdosta maan talous on kasvanut jonkin verran. Uzbekistan on myös maa, jossa etnisesti erilaiset, islamilaista, ortodoksista ja katolista uskoa edustavat väestöt elivät ennen yhdessä rauhanomaisesti. Muun muassa ulkomaisen paineen ja Karimovin autoritaaristen käytänteiden yhteentörmäyksen vuoksi maa on joutunut kuitenkin viime aikoina todistamaan ihmisoikeuksien rikkomisia ja erityisesti islamilaisen opposition vainoa.
+<P>
+Andijanissa toukokuun 13. päivänä pidetty mielenosoitus tukahdutettiin väkivaltaisesti, ja satojen siviilien uskotaan menettäneen henkensä. Vastalauseista huolimatta joukkomurhaan syyllistyneitä ei ole tuotu oikeuden eteen, ja lehdistö on sivuuttanut murhenäytelmän vaieten. Ulkomaisten tarkkailijoiden, Amnesty Internationalin ja Human Rights Watchin selonteoissa puhutaan hallituksen vastustajien ennen näkemättömästä ja raakalaismaisesta kidutuksesta Uzbekistanin vankiloissa, ihmisoikeusrikkomuksista ja totuuden toukokuun 13. päivän tapahtumista paljastaneiden riippumattomien toimittajien ja poliittisten aktivistien vainoamisesta. Useiden presidentti Karimoviin kohdistuneiden epäonnistuneiden murhayritysten johdosta presidentti nimittää nyt muslimeja fanaatikoiksi ja terroristeiksi ja perustelee tällä tavoin oppositiosta edustavien riippumattomien poliittisten ajattelijoiden vainon.
+<P>
+Paavi Johannes Paavali II muistutti, että vapaus on aina haaste. Hän sanoi myös, että valta on haaste vapaudelle ja sitä voi käyttää taitavasti vain palvelemalla toisia. Kansainvälisen yhteisön ja valtaapitävien olisi aina asetettava ihmisarvo ja ihmisoikeudet taloudellisten etujen edelle. Tämän vuoksi vaadimme vainon lopettamista, ihmisarvon kunnioittamista sekä perusoikeuskirjan ja demokraattisen periaatteiden mukaisten perusvelvoitteiden noudattamista. 
+<SPEAKER ID="123" LANGUAGE="EN" NAME="Olli Rehn," AFFILIATION="komission jäsen">
+<P>
+   . Arvoisa puhemies, Andijanin joukkomurhan ja sen johdosta, että Uzbekistan on jatkuvasti torjunut riippumattoman kansainvälisen tutkinnan suorittamisen näistä tapahtumista, Euroopan unioni on valinnut hyvin päättäväisen Uzbekistania koskevan kannan hyväksymällä 3. lokakuuta tehdyt neuvoston päätelmät toukokuussa annettujen päätelmien jälkeen.
+<P>
+Rajoittavien toimenpiteiden pakettiin kuuluu osittainen kumppanuus- ja yhteistyösopimuksen toteuttamisen keskeyttäminen, aseidenvientikielto, valikoiva viisumikielto sekä YK:n ja Etyjin toimien harkitseminen. Tämä on hyvin selvä ja voimakas poliittinen viesti EU:lta Uzbekistanille.
+<P>
+Komissio tukee täysin jäsenvaltioita viisumikiellon määräämisessä, jonka täytäntöönpanon järjestelyjä viimeistellään parhaillaan. Niin ikään komissio tukee täysin aseidenvientikiellon täytäntöönpanoa ja on valmistellut neuvoston hyväksyttäväksi lainsäädäntöä, joka tulee voimaan välittömästi.
+<P>
+Komissio on kumppanuus- ja yhteistyösopimuksen mukaisesti peruuttanut välittömästi kaikki Uzbekistanin kanssa pidettävät tekniset kokoukset. Olemme siis peruuttaneet kaupan ja investoinnin alan alakomitean, oikeuden, vapauden ja turvallisuuden alan alakomitean sekä yhteistyökomitean kokoukset.
+<P>
+Vaikka aloite yhteistyöneuvoston kokouksen koolle kutsumisesta on jäsenvaltioilla, komission mielestä kokous voitaisiin pitää, jottei poliittinen vuoropuhelu Uzbekistanin kanssa täysin katkea.
+<P>
+Komissio panee merkille päätöksen lykätä kuudetta EU:n ja Uzbekistanin välisen parlamentaarisen yhteistyökomitean kokousta ja pahoittelee, ettei valtuuskunnan sallita matkustaa Andijanin alueelle eikä tavata esteettä opposition jäseniä tai kansalaisjärjestöjen ja riippumattomien tiedostusvälineiden edustajia.
+<P>
+Komissio on sopinut yhteisön tuen vähentämisestä 11 miljoonasta eurosta 9,25 miljoonaan euroon tänä vuonna ja 9 miljoonasta eurosta 7,25 miljoonaan euroon ensi vuonna sekä tuen uudelleensuuntaamisesta. Uskomme vakaasti näistä leikkauksista huolimatta, että kohdennettua EU:n tukea olisi edelleen myönnettävä. Tuessa olisi keskityttävä köyhyyden vähentämiseen Ferghanan laaksossa, kansalaisyhteiskunnan kehittämiseen, laillisiin ja oikeudellisiin uudistuksiin sekä korkeakouluopetuksen kehittämiseen.
+<P>
+Haluan tässä yhteydessä korostaa, että jo ennen toukokuun tapahtumia ihmisoikeustilanne oli hyvin synkkä ja aiheutti merkittävää huolta komissiolle. Komissio esimerkiksi toivoo erittäin kovasti julkista sitoutumista presidentti Karimovin tuomitsemiseksi kidutuksesta.
+<P>
+Komissio jatkaa Uzbekistanin painostamista, jotta se keskeyttäisi välittömästi kuolemantuomioiden täytäntöönpanon kunnes kuolemantuomio lakkautetaan vuonna 2008. Komissio on myös huolissaan selonteoista, joiden mukaan viranomaisten version tapahtumista kyseenalaistaneita ihmisoikeuksien puolustajia, toimittajia ja paikallisia aktivisteja on pidätetty ja heitä ahdistellaan.
+<P>
+Komissio jatkaa pyrkimyksiään huumekaupan torjumiseksi sekä rajojen hallinnan ja energia- ja liikenneverkkojen toiminnan tehostamiseksi. Uzbekistanin sulkeminen alueellisten ohjelmien ulkopuolelle vahingoittaisi enemmän Uzbekistanin naapureita kuin Uzbekistania itseään. 
+<SPEAKER ID="124" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Keskustelu on päättynyt.
+<P>
+Äänestys toimitetaan tänään klo 16.00. 
+<SPEAKER ID="125" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Esityslistalla on seuraavana keskustelu kuudesta Tenzin Delek Rinpochen tapausta käsittelevästä päätöslauselmaesityksestä(1).
+<SPEAKER ID="126" LANGUAGE="PL" NAME="Lidia Joanna Geringer de Oedenberg (PSE )," AFFILIATION="laatija">
+<P>
+   . Arvoisa puhemies, yksi viimeisistä suurista tiibetiläisistä lamoista, Tenzin Delek Rinpoche, on jo 20 vuotta toiminut tiibetiläisen kulttuurin suojelun puolesta. Hän on Tiibetin uskonnollinen johtohahmo, joka on toiminut aktiivisesti myös talous-, kulttuuri- ja sosiaalielämässä. Tämä tiibetiläinen lama on ollut jo pitkään piikki Kiinan viranomaisten lihassa, vaikkei hän ole koskaan osallistunut poliittisiin mielenosoituksiin.
+<P>
+Tenzin Delek Rinpoche on henkinen johtaja, joka ajaa väsymättä keskeisten yhteiskunnallisten toimien toteuttamista, kuten orpolapsien koulujen, vierasmajojen ja paikallisteiden rakentamisen sekä ikääntyneiden palvelujen puolesta. Hän on merkittävä rauhan puolestapuhuja, jonka toimet eivät ole millään lailla aggressiivisia. Kiinan viranomaiset ovat kuitenkin luokitelleet hänet uhkatekijäksi hänen suosionsa vuoksi, ja ne pidättivät hänet sillä tekosyyllä, että hän olisi organisoinut useita iskuja. Häntä syytettiin terrorismista ja hänet tuomittiin kuolemaan ilman minkäänlaista oikeudenmukaista oikeudenkäyntiä. Häntä on pidetty kuolemansellissä epäinhimillisissä oloissa jo kuukausien ajan, ja hänen heikko terveydentilansa johtuu suoraan tästä jatkuvasta kidutuksesta.
+<P>
+Edellä mainitun vuoksi vaadimme Kiinan viranomaisia parantamaan Tenzin Delek Rinpochen vankilaoloja. Vaadimme myös Kiinan hallitusta toteuttamaan toimia muiden vankien olojen parantamiseksi, kidutuksen lakkauttamiseksi ja ennen kaikkea kuolemantuomion lakkauttamiseksi. EU:n on kansainvälisen yhteisön jäsenenä tehtävä täysin selväksi, ettei se hyväksy ihmisten vangitsemista, jos heitä ei ole todistettu syyllisiksi. Kiinan on kunnioitettava kansainvälisiä ihmisoikeusnormeja, ihmisarvoa ja kansalaisvapauksia. Siksi vetoan myös kansainvälisiin järjestöihin, jotta ne painostaisivat Kiinaa ryhtymään vihdoin rakentavaan vuoropuheluun, jotta Tiibetin kysymys voidaan ratkaista lopullisesti. 
+<SPEAKER ID="127" LANGUAGE="DE" NAME="Eva Lichtenberger (Verts/ALE )," AFFILIATION="laatija">
+<P>
+   . Arvoisa puhemies, hyvät parlamentin jäsenet, olemme jo aiemminkin joutuneet käsittelemään Tenzin Delek Rinpochen järkyttävää tapausta ja huomaamaan, ettei Kiina halua lähteä sovittelun tielle. Kaukana siitä: Tenzin Delek Rinpochelle ei edelleenkään ole taattu avointa ja oikeudenmukaista oikeudenkäyntiä. Mikä pahempaa, kidutus ja epäinhimilliset vankilaolot – korostettakoon vielä, että hänet vangittiin ilman asianmukaista oikeudenkäyntiä – ovat aiheuttaneet sen, että Tenzin Delek Rinpoche on nyt kuolemanvaarassa. Tästä on todellakin puhuttava julkisesti jälleen kerran.
+<P>
+Meidän parlamentin jäsenten on nyt toimittava, sillä olemme jo aiemmin vaatineet oikeudenmukaista kohtelua tälle miehelle, joka on lähes kuoleman oma ja jonka ainoa rikos oli olla rakastettu opettaja ja henkinen johtaja. Meidän on nyt toimittava ja painostettava Kiinan hallitusta uusin vaatimuksin.
+<P>
+Tämä on erityisen tärkeää, koska vaikuttaa siltä, että mitä enemmän Kiinan markkinat houkuttavat jäsenvaltioita ja niiden hallituksia, sitä varovaisemmin ne suhtautuvat ihmisoikeuskysymysten esille ottamiseen kiinalaisten keskustelukumppaniensa kanssa. Tällaisena ajankohtana ja tällaisessa tilanteessa meidän on puolustettava arvojamme. Meidän parlamentin jäsenten on tehtävä se, mihin hallituksemme eivät pysty.
+<P>
+Tiibet on autonominen ainoastaan paperilla eikä käytännössä, Dalai Laman kanssa lupaavasti alkanutta vuoropuhelua ei joko ole jatkettu tai sitä lykätään kerta toisensa jälkeen, eikä Kiina edelleenkään takaa ihmisoikeuksien noudattamista. Tällaisessa tilanteessa meidän on puhuttava suoraan ja otettava kantaa ja vaadittava, että asiaintila muuttuu ja että järjestys palautetaan. 
+<SPEAKER ID="128" LANGUAGE="DE" NAME="Thomas Mann (PPE-DE )," AFFILIATION="laatija">
+<P>
+   . Arvoisa puhemies, 18. marraskuuta 2004 ja 13. tammikuuta 2005 antamillamme päätöslauselmilla sekä valtavalla diplomaattisella protestilla ja ihmisoikeusjärjestöjen toimilla oli jotain tuloksia, sillä niiden johdosta kunnioitetun lama Tenzin Delek Rinpochen kuolemantuomio muutettiin elinkautiseksi. Kiinan viranomaiset pitävät häntä rikollisena sekä syyttävät häntä valtion turvallisuuden horjuttamisesta ja osallisuudesta pommi-iskuihin, täysin ilman todisteita. Ne kieltävät häneltä sellaisen oikeudenmukaisen oikeudenkäynnin, johon osallistuisi kansainvälisiä tarkkailijoita.
+<P>
+Olen täysin samaa mieltä kahden edellisen puhujan kanssa siitä, että todellinen syy Tenzin Rinpochen vangitsemiseen on hänen suuri vaikutusvaltansa tiibetiläisiin ja Dalai Laman tukeminen. Kuolemantuomio voi olla kumottu, mutta näyttää siltä, että se toteutetaan toisella tapaa: Tenzin Rinpoche ei pysty enää puhumaan eikä liikkumaan kidutuksen ja eristyssellissä pidon vuoksi, ja hänen henkensä on vaakalaudalla.
+<P>
+Kaikki parlamentin poliittiset ryhmät vaativat Kiinan viranomaisia parantamaan välittömästi Tenzin Rinpochen vankilaoloja ja noudattamaan tiukasti vankien kohtelua koskevaa YK:n sopimusta. Vaadimme, että kidutustapauksia käsittelevän YK:n erityisvaltuutetun Manfred Nowakin annetaan vierailla Tenzin Rinpochen luona. Hän saapuu Kiinaan tiedustelukäynnille kolmen viikon kuluttua.
+<P>
+Euroopan komission, neuvoston ja jäsenvaltioiden on pystyttävä liittämään läheisesti toisiinsa poliittisten vankien kohtalo Kiinassa ja maalle asetettu aseidenvientikielto. Vientikieltoa on jatkettava ilman mitään myönnytyksiä niin kauan kuin ihmisoikeusrikkomuksia tapahtuu. Kiinan Brysselin-edustusto on yrittänyt väittää, että tämä on Kiinan sisäinen asia, eikä ulkopuolisilla järjestöillä tai yksilöillä ole oikeutta puuttua asiaan. Nämä ylimieliset toteamukset ovat jälleen yksi esimerkki siitä, ettei 5. syyskuuta järjestetystä EU:n ja Kiinan huippukokouksesta saatu tyydyttäviä tuloksia, eikä ihmisoikeusvuoropuhelu ole johtanut konkreettisiin parannuksiin. Euroopan kansanpuolueen (kristillisdemokraatit) ja Euroopan demokraattien ryhmä haluaa korostaa, että kansainvälisiä normeja ja arvoja on kunnioitettava.
+<P>
+EU voi lähettää vahvan viestin kaikille niille, joita vainotaan poliittisista, uskonnollisista tai kulttuurisista syistä, vaatimalla, että minkä tahansa maan kanssa tehtävän yhteistyön edellytys on poikkeuksetta se, että maa noudattaa ihmisoikeuksia. Niiden maiden, jotka haluavat vastakkainasettelun sijasta yhteistyötä, on noudatettava ihmisoikeuksia ja varottava rikkomasta niitä, sillä ihmisoikeudet ovat universaaleja.
+<SPEAKER ID="129" LANGUAGE="EN" NAME="Elizabeth Lynne (ALDE )," AFFILIATION="laatija">
+<P>
+   . Arvoisa puhemies, meidän tehtävämme ei ole päättää, onko Tenzin Delek Rinpoche syyllinen vai syytön. Meidän tehtävämme kuitenkin on puuttua havaitsemiimme ihmisoikeusrikkomuksiin. Tenzin Delek Rinpochen pidättäminen, oikeudenkäynti ja tuomitseminen aiheuttavat todellista huolta, sillä mielestäni ne tapahtuivat oikeuden vastaisesti.
+<P>
+Kiinan hallitus totesi 24. lokakuuta antamassaan tiedonannossa, että asia on Kiinan sisäinen asia, eikä meillä ole oikeutta puuttua siihen. Meillä on täysi oikeus puuttua, jos kyseessä on ihmisoikeusasia, sillä se on työmme. On epäselvää, saiko Tenzin Delek Rinpoche oikeudellista neuvontaa oikeudenkäynnin aikana. Kiinan viranomaiset totesivat, että hänellä oli kaksi asianajajaa. Minun lähteideni mukaan hän ei saanut minkäänlaista oikeudellista neuvontaa. Lähteideni mukaan hän ei myöskään ole koskaan tunnustanut häneen kohdistettuja väitteitä oikeiksi, vaikka häntä kidutettiin jo kuukausien ajan ennen oikeudenkäyntiä. Tenzin Delek Rinpoche tuomittiin kolme vuotta sitten, jolloin tuomio aiheutti voimakasta kansainvälistä paheksuntaa, ja tuolloin Kiinan hallitus käsittääkseni lupasi, että asia käsitellään uudelleen korkeimmassa oikeudessa. Näin ei kuitenkaan ole tapahtunut. Tenzin Delek Rinpochelle on annettava oikeus oikeudenmukaiseen oikeudenkäyntiin täysin kansainvälisten oikeudenmukaista oikeudenkäyntiä koskevien normien mukaisesti tai muuten hänet on vapautettava välittömästi. Muita vaihtoehtoja ei ole. 
+<SPEAKER ID="130" LANGUAGE="NL" NAME="Erik Meijer (GUE/NGL )," AFFILIATION="laatija">
+<P>
+   . Arvoisa puhemies, Tiibetin sorto on usein parlamentin esityslistalla. Kiina pitää Tiibetiä tyhjänä alueena, joka on asutettava ja josta on tehtävä helppopääsyisempi, minkä jälkeen sitä voidaan ryhtyä kehittämään nyky-Kiinaa vastaavaksi. Tällä hetkellä Kiinassa ajatellaan ainoastaan kurinalaisuutta ja talouskasvua, eikä toisinajattelijoille ole tilaa. Tämä on ristiriidassa tiibetiläisten kulttuurin, perinteiden ja etujen kanssa, sillä he ovat oppineet selviämään karuissa oloissa ja haluavat, että heidät jätetään rauhaan.
+<P>
+Tämä ongelma koskee Kiinassa myös muita kansoja, joilla on valtaväestöstä poikkeava kieli ja kulttuuri, kuten uiguureilla, jotka ovat sukua Keski-Aasian entisissä neuvostotasavalloissa eläville turkkilaisille. Huomio on kuitenkin keskittynyt Tiibetiin siitä lähtien, kun Dalai Lama pakeni Intiaan.
+<P>
+Tavassa, jolla Kiina kohtelee tiibetiläisiä, ei juurikaan ole tapahtunut parannusta. Vaikkei parlamentissa annetuilla julistuksilla todellakaan ole saavutettu haluttuja tavoitteita, meidän on jatkettava toimiamme väsymättä. Kiinalle ei pidä antaa sellaista käsitystä, että Eurooppa hyväksyy vallitsevan tilanteen omien talousintressiensä vuoksi.
+<P>
+Kuolemantuomiot on lisäksi lakkautettava Kiinassa samoin kuin Yhdysvalloissa ja muualla maailmassa. Tätä asiaa ja ihmisoikeuksia on ajettava maailmanlaajuisesti. 
+<SPEAKER ID="131" LANGUAGE="PL" NAME="Marcin Libicki (UEN )," AFFILIATION="laatija">
+<P>
+   . Arvoisa puhemies, arvoisa komission jäsen, parlamentissa keskustellaan jälleen kerran Tiibetistä. Tämänpäiväisessä keskustelussa on pohdittava, ovatko parlamentin ja komission toteuttamat toimet olleet tehokkaita. Se, että keskustelemme asiasta taas kerran, viittaisi valitettavasti siihen, ettei näin ole.
+<P>
+Jotkut parlamentin jäsenet ovat väittäneet, että tällaiset asiat ovat Kiinan sisäisiä asioita, ja tämä on myös Kiinan Brysselin-edustuston kanta. Näin ei kuitenkaan ole. Sisäisten asioiden käsite, jolla oikeutetaan rikokset omaa kansakuntaa vastaan, on tyrannien keksimä, eikä siihen ole koskaan vedottu sivistyneessä Euroopassa. Viime vuosisatoina katolinen kirkko ja muut uskonnot vaativat kansalaisten asianmukaista kohtelua ja vastustivat sitä, että valtaapitävät voisivat toimia oman päänsä mukaan kansalaistensa suhteen. Nykyisin kansainväliset järjestöt korostavat poikkeuksetta, että moraalisten perusperiaatteiden vastainen sisäisten asioiden hoito koskee koko ihmiskuntaa.
+<P>
+On ymmärrettävä, että tässä on kyse muustakin kuin yhdestä lamasta. Kyse on suoraan sanottuna koko Tiibetin, sen kulttuurin ja kansakunnan tuhoamisesta ainoastaan siksi, että tämä rauhanomainen kansa on olemassa. Kiinan viranomaisille Tiibetin tuhoamisyritysten syyksi riittää se, että tämän kansakunnan kulttuuri, historia ja yhteiskunta eroavat täysin sen omista. Sen sijaan, että suhtaudumme myönteisesti Tiibetin ja Kiinan yhdistävän rautatieverkon päätökseen saattamiseen, meidän olisi oltava erityisen huolissamme tästä kehityksestä, sillä tarkoituksena on tuhota Tiibet miehittämällä se Kiinan kansalaisilla ja yrityksillä.
+<P>
+Parlamentti toimii erittäin aktiivisesti tässä asiassa, ja Tiibetiä käsittelevällä parlamentin laajennetulla työryhmällä on erittäin sitoutunut ja energinen puheenjohtaja, jäsen Mann. Meidän on kuitenkin tehtävä enemmän. Haluan muistuttaa komission jäsentä siitä, että komission on aika toteuttaa päättäväisiä toimia Kiinan ongelmien ratkaisemiseksi lopullisesti, koska sillä on vaikutusvaltaisena EU:n toimielimenä epäilemättä mahdollisuus tähän. Sen olisikin ensiksi pelastettava tämä tiibetiläismunkki.
+<SPEAKER ID="132" LANGUAGE="EN" NAME="Olli Rehn," AFFILIATION="komission jäsen">
+<P>
+   . Arvoisa puhemies, Tiibetin ihmisoikeustilanne aiheuttaa EU:lle jatkuvaa huolta, ja se on ensisijainen aihe EU:n ja Kiinan välisessä ihmisoikeusvuoropuhelussa. EU on tässä yhteydessä ottanut aina esille vähemmistöjen oikeudet erityisesti Tiibetissä, ja se kehottaa Kiinan viranomaisia säilyttämään Tiibetin kansan kulttuurisen, uskonnollisen ja kielellisen identiteetin.
+<P>
+Kiinan viranomaisille on vuoropuhelun yhteydessä säännöllisesti huomautettu tiibetiläismunkki Tenzin Delek Rinpochen tilanteesta. Myös EU:n troikka on kolmeen otteeseen keskustellut asiasta Kiinan hallituksen kanssa, kahdesti viime vuonna ja kerran tämän vuoden alussa, kun troikka tapasi Kiinan ulkoasiainministerin Tang Jiaxuanin.
+<P>
+EU vaati kaikissa yhteyksissä, että kuolemantuomio lakkautetaan Kiinassa välittömästi, pyysi Tenzin Delek Rinpochen kuolemantuomion kumoamista sekä tietoja hänen vankilaoloistaan ja terveydentilastaan. EU suhtautuu myönteisesti Kiinan viranomaisten 26. tammikuuta 2005 tekemään päätökseen Tenzin Delek Rinpochen kuolemantuomion muuttamisesta elinkautiseksi, mutta se on edelleen hyvin huolestunut oikeudenkäyntiä koskevista epäselvyyksistä ja hänelle annetusta kovasta tuomiosta. EU on täysin sitoutunut seuraamaan tarkkaan tilanteen kehittymistä EU:n ja Kiinan ihmisoikeusvuoropuhelun yhteydessä.
+<P>
+Tiibetiä koskevissa poliittisissa toimissaan EU on yleisemmin vaatinut ja vaatii edelleen, että Dalai Laman ja Kiinan viranomaisten on ryhdyttävä suoraan vuoropuheluun, sillä se on ainoa realistinen keino löytää pysyvä ratkaisu Tiibetin ongelmaan. Dalai Laman erityisedustajien kolmas vierailu parlamentissa viime vuoden lopulla oli rohkaiseva kehitysaskel, ja tällä tiellä olisi jatkettava eteenpäin. 
+<SPEAKER ID="133" LANGUAGE="" NAME="Puhemies." AFFILIATION="KIRJALLINEN LAUSUMA (Työjärjestyksen 142 artikla">
+<P>
+   Keskustelu on päättynyt.
+<P>
+Äänestys toimitetaan tänään klo 16.00.
+<SPEAKER ID="134" LANGUAGE="PL" NAME="Filip Andrzej Kaczmarek (PPE-DE ). –" AFFILIATION="">
+<P>
+   Kannatan vapaakauppaa, mutta meidän on pohdittava, onko vapaakauppaa harjoitettava sellaisen maan kanssa, joka ei välitä lainkaan muunlaisista vapauksista. Mielestäni Kiinan toimia ei voida perustella kulttuurieroin. Kuolemantuomiota ei voida hyväksyä missään kulttuurissa, sillä se on loukkaus koko ihmisyyttä vastaan. Kiina ylpeilee uudella rautatiellä Tiibetiin, sillä se kulkee korkeammalla kuin mikään muu rautatie maailmassa. On kuitenkin huomautettava, että infrastruktuuriin investoiminen ei ole ainoa suuren kansakunnan arvon mitta.
+<P>
+Jos Kiina osaa rakentaa tällaisia rautateitä, se voi varmasti myös parantaa vankiensa elinoloja. Siihen tarvitaan vain poliittista tahtoa. On keskeisen tärkeää jatkaa Kiinaa koskevaa asevientikieltoa, sillä Tenzin Delek Rinpochen tilanne on hyvä osoitus siitä, ettei maa ole oppinut mitään kesäkuun 4. päivän 1989 tapahtumista. Päivämäärä on merkittävä sekä Puolassa että Kiinassa. Puolalle se symboloi toivoa, sillä silloin maassa järjestettiin ensimmäiset osittain vapaat parlamenttivaalit.
+<P>
+Kiinassa tästä päivämäärästä on sen sijaan tullut sorron symboli, koska se on Tiananmenin aukion traagisten tapahtumien vuosipäivä. Käytin vuonna 1989 rintamerkkiä, johon oli kiinalaisin kirjaimin kirjoitettu sanat "vapaus" ja "demokratia". Tänä päivänä toivotan näitä kahta asiaa tiibetiläisille ja kiinalaisille. 
+<SPEAKER ID="135" LANGUAGE="SV" NAME="Carl Schlyter (Verts/ALE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, tämän istuntojakson aikana on ainakin viisi kertaa käynyt niin, että kuulokkeet ja sitä kautta tulkkauspalvelu eivät ole toimineet istumapaikkani takana olevalla istuinrivistöllä. Myöskään mikrofonit eivät ole toimineet, joten asiasta ei ole voitu ilmoittaa puhemiehelle. Olemme toimineet erittäin joustavasti äänestysten aikana ja jatkaneet niitä kyseiseltä istuinriviltä. Ensi kerralla käsitellään kuitenkin useita tärkeitä asioita, kuten REACH-asetusta, joten on varmistettava, että tekniikka toimii. Muutoin istuntojakso voi keskeytyä erittäin ikävästi. Toivonkin, että saatte tilanteen korjattua ensi kuuhun mennessä. 
+<SPEAKER ID="136" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Tämä on valitettavasti toistuva ongelma. Puutumme asiaan, eikä ongelma toivottavasti toistu seuraavalla istuntojaksolla. 
+<SPEAKER ID="137" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Tulokset ja äänestysten kulkua koskevat yksityiskohdat: ks. pöytäkirja)">
+<P>
+   Esityslistalla on seuraavana äänestykset.
+<SPEAKER ID="138" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Äänestykset ovat päättyneet. 
+<SPEAKER ID="139" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Istunto päättyi klo 16.20.)">
+<P>
+   Julistan Euroopan parlamentin istuntokauden keskeytetyksi.

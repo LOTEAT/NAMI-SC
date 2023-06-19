@@ -1,0 +1,8 @@
+<CHAPTER ID="001">
+Pokračování zasedání
+<SPEAKER ID="999" NAME="Předsedající">
+Prohlašuji zasedání Evropského parlamentu přerušené ve čtvrtek 17. ledna 2008 za obnovené.
+<P>
+Zasedání může být zahájeno až ve 12:30, protože předseda Komise se nemůže dostavit dříve. Proto je jeho ukončení naplánováno na 14:00.
+<P>
+(Zasedání bylo přerušeno ve 12:05 a obnoveno ve 12:30.)

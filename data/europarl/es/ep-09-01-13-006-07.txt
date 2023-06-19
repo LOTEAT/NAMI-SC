@@ -1,0 +1,4 @@
+<CHAPTER ID="006-07">
+7. Desarrollo del diálogo civil en el marco del Tratado de Lisboa (
+<SPEAKER ID="061" NAME="Christopher Beazley" AFFILIATION="PPE-DE">
+Señora Presidenta, parece que en este momento estamos teniendo un montón de votaciones nominales, lo que resulta un poco molesto para personas como yo, cuya máquina no funciona. ¿Podría por ello registrar los votos de "sí" para cada asunto y solicitar la presencia de un técnico?

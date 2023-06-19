@@ -1,0 +1,166 @@
+<CHAPTER ID="011">
+Schengenin tietojärjestelmän (SIS II) tilanne (keskustelu)
+<SPEAKER ID="310" NAME="Puhemies">
+(FR) Esityslistalla on seuraavana yhteiskeskustelu:
+<P>
+Carlos Coelhon Euroopan kansanpuolueen (kristillisdemokraatit) ja Euroopan demokraattien ryhmän puolesta, Martine Rouren Euroopan parlamentin sosiaalidemokraattisen ryhmän puolesta ja Henrik Laxin Euroopan liberaalidemokraattien liiton ryhmän puolesta neuvostolle laatimasta suullisesta kysymyksestä: Schengenin tietojärjestelmän (SIS II) tilanne - B6-0010/2009),
+<P>
+Carlos Coelhon Euroopan kansanpuolueen (kristillisdemokraatit) ja Euroopan demokraattien ryhmän puolesta, Martine Rouren Euroopan parlamentin sosiaalidemokraattisen ryhmän puolesta ja Henrik Laxin Euroopan liberaalidemokraattien liiton ryhmän puolesta komissiolle laatimasta suullisesta kysymyksestä: Schengenin tietojärjestelmän (SIS II) tilanne - B6-0011/2009).
+<SPEAKER ID="311" NAME="Carlos Coelho" LANGUAGE="PT">
+Arvoisa puhemies, arvoisa neuvoston puheenjohtaja, arvoisa komission puheenjohtaja, hyvät kollegat, tuimme Euroopan parlamentissa selkeästi Schengenin tietojärjestelmän (SIS II) nopeaa käyttöönottoa, jonka piti tapahtua vuonna 2007. Schengenin tietojärjestelmän toinen sukupolvi edustaa yhteisön lähestymistapaa tarpeeseen parantaa turvallisuutta ulkorajoilla ja jakaa biometristen tietojen kaltaisia merkittäviä innovaatioita sekä liittää tietoja toisiinsa. Ymmärrämme, että järjestelmä voidaan ottaa käyttöön vasta kun se on kestävä ja voi toimia 24 tuntia vuorokaudessa. Minusta nyt on aika selvittää, kuka on vastuussa tästä viivästymisestä, toteuttaa syvällinen arviointi tilanteesta ja löytää ratkaisuja, joilla hankkeesta tehdään teknisesti kestävä ja palautetaan sen heikentynyt uskottavuus.
+<P>
+Tiedämme, että viime vuonna tehtiin erilaisia testejä, joiden lopputulema oli kielteinen, erityisesti toiminnallisen järjestelmän testauksessa. Neuvosto ja komissio päättivät neljän kuukauden määräajasta jatkuvien ongelmien selvittämiseksi, tosin ilman suurta menestystä, kuten voidaan havaita joulukuussa 2008 saaduista testituloksista, kun testit toistettiin. Huolimatta joistakin parannuksista tietääksemme vieläkin on suuria ongelmia, jotka koskevat järjestelmän suorituskykyä ja vahvuutta, viestien häviämistä, tietojen laatua sekä ongelmia, joita esiintyy synkronoitaessa jäsenvaltioiden tietoja keskusjärjestelmään. SIS II ei selvästikään voi käynnistyä ennen kuin nämä asiat on ratkaistu. Haluan ilmaista epäilyni valitun yrityksen kyvystä ratkaista näin lyhyessä ajassa kaikki nämä ongelmat, joita ei ole kyetty ratkaisemaan paljon pidemmässä määräajassa. Toivon, että voidaan käynnistää hankkeen riippumaton tarkastus sen selvittämiseksi, kuka on vastuussa. En vastusta vaihtoehtoista teknistä suunnitelmaa SIS I+:n kehittämisestä SIS II:ksi, kunhan noudatetaan täysimääräisesti SIS II:n osalta hyväksyttyä lainsäädäntökehystä. Maaliskuun loppuun mennessä esitetään selvitys, jossa arvioidaan ja vertaillaan kahta skenaariota. Parlamentti haluaa tustustua tutkimukseen ja saada tietoa hankkeen uusista suuntauksista, niin teknisen puolen luotettavuuden tasosta ja oikeudellisista vaikutuksista ja uudesta aikataulusta kuin talousarviovaikutuksista. Haluan muistuttaa neuvostoa ja komissiota, että erityisesti tänä aikana koko prosessin suurempi avoimuus on erityisen suositeltavaa.
+<SPEAKER ID="312" NAME="Martine Roure">
+laatija. - (FR) Arvoisa puhemies, kuten tiedämme, SIS II on hyvin tärkeä väline Schengen-alueen turvallisuuden varmistamisessa erityisesti kymmeneen uuteen jäsenvaltioon laajentumisen jälkeen.
+<P>
+Sen jälkeen kun oikeusperustat hyväksyttiin vuonna 2007, emme ole kertaakaan saaneet mahdollisuutta tarkastella yksityiskohtaista raporttia edistymisestä tai järjestelmän käyttöönoton estävistä teknisistä tai poliittisista ongelmista.
+<P>
+Olemme lukeneet lehdistä, että kaikki keskusjärjestelmän täysin turvallista käynnistämistä koskeneet testit epäonnistuivat joulukuussa 2008.
+<P>
+Tiedämme, että komissio on pyrkinyt laatimaan suunnitelmaa suurimpien ongelmien ratkaisemiseksi, ja tiedämme, että neuvostossa useat jäsenvaltiot pohtivat jo vaihtoehtoa, joka muodostuisi nykyisin toiminnassa olevan SIS-järjestelmän pelkästä päivittämisestä.
+<P>
+Ongelma ei siis ole tekninen vaan poliittinen. Parlamenttia pyydettiin määrittämään SIS II-järjestelmän arkkitehtuuri yhteispäätösmenettelyssä. Järjestelmä itsessään olisi varmistanut vapauteen, turvallisuuteen ja oikeuteen perustuvaa aluetta varten tarvittavan turvallisuuden. Olemme tehneet sen eteen työtä pitäen mielessä turvallisuuden sekä kansalaisten perusoikeuksien suojelun.
+<P>
+Tässä yhteydessä kyseessä on yhteisön toimielinten ja erityisesti neuvoston ja komission poliittinen vastuu, sillä katsomme, että parlamentti on vapauttanut itsensä vastuusta suhteessa kansalaisiin.
+<P>
+Odotamme nyt ja tulevaisuudessa poliittisia perusteluita tälle radikaalille suunnanmuutokselle. Tällä voi tietenkin olla hyvin vakavia vaikutuksia hankkeelle tähän mennessä osoitettuihin määrärahoihin, alkaen tarvittaessa käytettävissä olevien varojen siirtämisestä siihen tulevaan hetkeen asti, jolloin hankkeen tulevaisuus ja sen oikeusperusta on asianmukaisesti määritetty.
+<SPEAKER ID="313" NAME="Henrik Lax">
+laatija. - (SV) Arvoisa puhemies, arvoisa neuvoston puheenjohtaja, arvoisa komission jäsen, meidän on Euroopan parlamentissa saatava tietää, uskovatko neuvosto ja komissio edelleen SIS II -järjestelmän koskaan käynnistyvän ja toimivan. Pyrkiikö komissio lujasti löytämään teknisen ratkaisun nykyisiin ongelmiin? Kuinka tästä edetään? Kuten kahdessa edellisessä puheenvuorossa todettiin, me haluamme täällä Euroopan parlamentissa olla ajan tasalla ongelmista, ja näin ei nyt ole tapahtunut.
+<P>
+Jos SIS II -järjestelmää ei nykymuodossaan voida ottaa käyttöön, onko olemassa suunnitelma B ja esitelläänkö se meille? Kuten jäsen Roure mainitsi, SIS II -järjestelmässä on viime kädessä kyse unionin uskottavuudesta EU:n sisäisen turvallisuuden takaamisessa. Meidän on kuitenkin muistettava, että samaa infrastruktuuria on määrä soveltaa VIS-viisumitietojärjestelmään. Pitkällä ajanjaksolla myös unionin viisumipolitiikka on siis vaarassa, toisin sanoen unionin kyky huolehtia suhteistaan ympäröivään maailmaan ihmisarvoisella tavalla.
+<P>
+Lopuksi kysyn komissiolta, onko sillä edelleen jäsenvaltioiden täysi tuki hankkeelle. Ovatko ne halukkaita vastaamaan sellaisen hankkeen kustannuksista, joka ei näytä koskaan edistyvän käyttöönottoon?
+<SPEAKER ID="314" NAME="Alexandr Vondra" LANGUAGE="EN">
+Arvoisa puhemies, ennen tämänpäiväisen keskustelun aiheen tarkastelua haluan ilmaista syvän osanottoni Baden-Württembergin tämänpäiväisten traagisten tapahtumien uhrien omaisille.
+<P>
+Siirryn nyt tämänpäiväiseen keskustelunaiheeseemme. Ensinnäkin olemme kiitollisia mahdollisuudesta käydä tätä keskustelua. Kuten kaikki tietävät, tämä on tärkeä asia. Useat suorituskykyyn liittyvät ongelmat ovat johtaneet erityisiin ongelmiin SIS II -järjestelmän käyttöönotossa ja toiminnassa.
+<P>
+Puheenjohtajavaltio haluaa, kuten vaaditte, olla täysin avoin asian menneisyydestä ja taustoista. Alkuperäisten testien kielteisten tulosten vuoksi marraskuussa ja joulukuussa 2008 tehtiin lisää testejä. Toiminnallista järjestelmää koskevien testien lopulliset tulokset saatiin vasta tammikuun 2009 loppupuolella.
+<P>
+Komissio kertoi oikeus- ja sisäasiainministereille näiden epävirallisessa tapaamisessa Prahassa 15. tammikuuta 2009, että testitulokset eivät olleet tyydyttäviä. Ministerit tunnustivat välittömästi tarpeen soveltaa uutta globaalia lähestymistapaa SIS II -järjestelmän hallintoon, jossa jäsenvaltiot tekevät yhteistyötä komission kanssa. Hallinnon uusi lähestymistapa kattaa hankkeen tiiviimmän seurannan, joten on mahdollista saada varhain tietoa mahdollisista vaikeuksista. Sovittiin myös seuraavassa oikeus- ja sisäasioiden neuvoston kokouksessa 26. ja 27. helmikuuta 2009 toteutettavista toimenpiteistä. Kyseisessä kokouksessa neuvosto kehotti päätelmissään komissiota tiedottamaan parlamentille ja neuvoston puheenjohtajavaltio kaikista SIS II -järjestelmään liittyvistä ongelmista ja edistymisestä.
+<P>
+Parlamentti kysyi, edellyttävätkö tähän mennessä havaitut ongelmat järjestelmän uudelleenrakentamista. Neuvoston SIS II -hankkeen tilanteesta saamien tietojen mukaan joitakin ongelmia on ratkaisematta. Ymmärrämme kuitenkin, että komission mukaan kaikki ratkaisematta olevat asiat ovat ratkaistavissa ilman suuria suunnittelumuutoksia SIS II -sovellukseen.
+<P>
+Helmikuun kokouksessaan neuvosto hyväksyi SIS II -järjestelmää koskevan analysointi- ja korjaussuunnitelman täytäntöönpanon. Suunnitelman tarkoituksena on määritellä kaikki ongelmakysymykset ja niiden välittömät ratkaisut ja arvioida järjestelmän teknistä arkkitehtuuria vakaan ja virheettömästi toimivan SIS II-järjestelmän varmistamiseksi. Neuvosto kuitenkin hyväksyi myös varautumissuunnitelman noudattamisen tapauksessa, jossa ilmeneviä vakavia ongelmia ei voida ratkaista. Mitä tulee SIS II -järjestelmän vaihtoehtoon, oikeus- ja sisäasioiden neuvosto oli helmikuussa tyytyväinen siihen, että toteutettavuustutkimus oli valmistunut. Sen pohjalta voidaan luoda toimiva vaihtoehtoinen tekninen skenaario SIS I+ -järjestelmän kehittämiseen perustuvan SIS II -järjestelmän kehittämiselle osana varautumissuunnitelmaa.
+<P>
+Neuvosto pyysi myös, että puheenjohtajavaltio ja komissio antavat mahdollisimman pian ja viimeistään toukokuuhun 2009 mennessä neuvostolle selvityksen molempien skenaarioiden perusteellisesta arvioinnista ja niiden vertailusta. Neuvosto arvioi selvityksen perusteella SIS II -järjestelmän kehittämisen edistymistä ja tutkii vaihtoehtoisen skenaarion osalta kykyä toteuttaa tavoitteet, jotka SIS II -järjestelmälle on annettu sen perustamista, toimintaa ja käyttöä koskevissa säännöksissä, SIS I+ -järjestelmän kehittämisen tekniseltä perustalta. Tarkastelu tehdään mahdollisimman pian ja viimeistään 4.-5. kesäkuuta 2009 pidettävässä neuvoston istunnossa.
+<P>
+Parlamentin jäljellä olevien ongelmien ratkaisemista pyytämien yksityiskohtien ja erityisesti rahoitusnäkökohtien osalta neuvosto kehotti komissiota sekä antamaan Euroopan parlamentille kattavat tiedot SIS II -järjestelmään liittyvistä ongelmista että toimittamaan Euroopan parlamentille ja neuvostolle säännöllisesti kattavia tietoja SIS II -keskusjärjestelmää koskevaan hankkeeseen liittyvistä menoista ja rahoituksen avoimuuden varmistamiseksi toteutetuista toimista.
+<P>
+Puheenjohtajavaltiolta ja komissiolta pyydetyn selvityksen perusteella neuvosto keskustelee viimeistään heinäkuun 2009 istunnossaan aikataulusta SIS II -järjestelmän saattamiseksi toimintavalmiiksi. Keskustelussa otetaan huomioon ehdotuksesta neuvoston asetukseksi siirtymisestä Schengenin tietojärjestelmästä (SIS 1+) toisen sukupolven Schengenin tietojärjestelmään (SIS II) 24. syykuuta 2008 annetun Euroopan parlamentin päätöslauselman aikataulua koskevat kohdat. Ne sisällytettiin 24. lokakuuta annetun neuvoston asetuksen 19 artiklaan.
+<P>
+Olen varma, että komissio pystyy esittämään lisätietoja vastauksena esitettyihin kysymyksiin. Arvoisat parlamentin jäsenet, haluan vain vakuuttaa teille, että puheenjohtajavaltio seuraa tiiviisti asiaa ja varmistaa, että oikeus- ja sisäasiainministerien viime kuussa hyväksymää edistymissuunnitelmaa noudatetaan.
+<SPEAKER ID="315" NAME="Jacques Barrot">
+komission varapuheenjohtaja. - (FR) Arvoisa puhemies, haluan vahvistaa neuvoston puheenjohtaja Vondran sanat. Minun on lisättävä, että yhdessä sisäasiainministerien neuvoston puheenjohtaja Langerin kanssa olemme asettaneet SIS II -järjestelmän ensisijaiseksi painopistealaksi.
+<P>
+Yritän vuorostani esittää joitakin selvennyksiä. Komission päätoimeksisaaja SIS II -järjestelmän kehittämisessä on toteuttanut lukuisia keskusjärjestelmän toiminnallisia testejä interaktiivisesti joidenkin kansallisten järjestelmien kanssa. Marraskuun ja joulukuun 2008 välisenä aikana näiden testien tulokset johtivat päätelmään, ettei keskusjärjestelmä ollut sopimuksen mukaisella tasolla.
+<P>
+Marraskuun puolivälissä komissio käynnisti SIS II -järjestelmän yksityiskohtaisen analyysin, jota parhaillaan kehittää Hewlett-Packard/Steria yhteistyössä jäsenvaltioiden asiantuntijoiden kanssa sekä kahden tunnetun tietoteknologian konsulttialan yrityksen tuella.
+<P>
+Toiminnallisen järjestelmän testausten kielteisten testitulosten jälkeen siirryimme analyysi- sekä korjaussuunnitelman laatimiseen ja soveltamiseen. Sen loppuunsaattaminen kestää arviolta neljä kuukautta. Suunnitelman tavoitteena on saattaa SIS II-järjestelmä vakaalle ja suorituskykyiselle tasolle.
+<P>
+Suunnitelmalla pyritään aluksi korjaamaan keskusjärjestelmään liittyvät tiedossa olevat viat - jotkut viat on jo korjattu - ja seuraavaksi varmistamaan, ettei SIS II-järjestelmän käyttöönottoon liity ylittämättömiä rakenteellisia heikkouksia.
+<P>
+Kohdennettuja testejä suoritetaan useilla painopistealoilla nykyisen ratkaisun arkkitehtuuriin liittyvien epävarmuustekijöiden poistamiseksi. Samaan aikaan finalisoidaan taustalla olevien ongelmien teknistä analyysia.
+<P>
+Komissio on myös ottanut käyttöön kokonaisvaltaisen hankehallintomallin SIS II -keskusjärjestelmän ja kansallisten järjestelmien integroimiseksi entistä paremmin komission ja jäsenvaltioiden laillisesti vahvistetun toimivallan mukaisesti.
+<P>
+Käytännössä komissio koordinoi hankkeen yhteistä hallintorakennetta. Yhteinen hallintorakenne yhdistää kansalliset hankevastaavat, komission hankejohtajat ja urakoitsijat. Hallintorakenne seuraa hanketta koko analyysi- ja korjausvaiheen ajan, sitten laadullisten testien ajan, sitten siirtymisvaiheen ajan, kunnes SIS II -järjestelmätilaus on toimitettu.
+<P>
+Analyysi- ja korjausvaiheen lopussa meillä on tarkka käsitys vielä täytäntöönpantavista resursseista ennen kuin SIS II -järjestelmä voidaan ottaa käyttöön sekä sen mukaisesta aikataulusta, kuten neuvoston puheenjohtaja Vondra juuri totesi. Ei tietenkään ole epäilystä siitä, että tavoite SIS II -järjestelmän käyttöönotosta syyskuussa 2009 viivästyy.
+<P>
+SIS II-järjestelmän nykyisistä ongelmista keskusteltiin 15. tammikuuta ministerien epävirallisessa tapaamisessa ja 26. ja 27. tammikuuta oikeus- ja sisäasiainministerineuvoston istunnossa. Komission suosittelemat lähestymistavan laajat suuntaviivat SIS II -järjestelmän jatkoa varten hyväksyttiin.
+<P>
+Ensinnäkin neuvosto tuki tarvetta jatkaa nykyiseen SIS I+-järjestelmään perustuvan vaihtoehtoisen teknisen ratkaisun toteutettavuustutkimusta. Voimme siis jatkaa vaihtoehtoisen ratkaisun toteutettavuustutkimusta.
+<P>
+Mahdollisen vaihtoehtoisen teknisen ratkaisun on kuitenkin luonnollisesti oltava SIS II -järjestelmää varten laaditun, parlamentin ja neuvoston hyväksymän oikeudellisen kehyksen mukainen. On luonnollisesti tarkasteltava hyvin huolellisesti investointien maksimaalista uudelleenkäyttöä sekä tulevina vuosina Schengen-alueen jäseniksi aikovien jäsenvaltioiden ja assosioituneiden maiden tilannetta.
+<P>
+Ministerit päättivät kokoontua uudelleen, kuten juuri todettiin, viimeistään kesäkuussa - kesäkuun alussa - arvioimaan toteutunutta edistymistä ja määrittämään tarvittaessa uusia suuntaviivoja tai mahdollista vaihtoehtoisen ratkaisun valintaa. Neuvosto pyysi tämän vuoksi, että puheenjohtajavaltio ja komissio toimien kiinteässä yhteistyössä SIS II -erityistyöryhmän ja asiaankuuluvien alinten kanssa antavat neuvostolle selvityksen, johon sisältyy molempien skenaarioiden perusteellinen arviointi ja niiden keskinäinen vertailu. Selvitys laaditaan mahdollisimman pian ja viimeistään toukokuussa 2009.
+<P>
+Tämän vuoksi on sovittu yhteisistä vertailuperusteista molempien ratkaisujen hyöty- ja haittapuolien arvioimiseksi. Selvyyden vuoksi kerron, että tämä tarkoittaa, että saamme neuvoston päätöksen kesäkuun alussa. Päätös tehdään toteutettavien testien tulosten perusteella, ja uskomme, että tämä antaa mahdollisuuden joko jatkaa SIS II -järjestelmän kehittämistä tai siirtyä vaihtoehtoiseen ratkaisuun, jonka on tietenkin täytettävä sille asettamanne tavoitteet.
+<P>
+Olen tietenkin täysin tietoinen siitä, mitä jäsen Coelho ja jäsen Roure sanoivat korkean tason avoimuuden tarpeesta. Haluan kertoa, että toimitamme nyt ja jatkossakin SIS II -komitean pöytäkirjat säännöllisesti. Totean myös, että olen kirjoittanut kansalaisvapauksien, oikeus- ja sisäasioiden valiokunnan puheenjohtaja Deprezille antaakseni hänelle yksityiskohtaista tietoa SIS II -järjestelmän tilanteesta. Kirjeenvaihdosta on toimitettu jäljennös myös jäsen Coelholle.
+<P>
+Haluan myös kertoa jäsen Laxille, etteivät SIS II -järjestelmän ongelmat vaikuta viisumitietojärjestelmään. SIS II -järjestelmän ongelmat eivät koske sen VIS:n kanssa jakamaa infrastruktuuria. Voidaan sanoa, että VIS-järjestelmä etenee melko lailla jäsenvaltioiden kanssa hyväksytyn suunnitelman mukaisesti.
+<P>
+Haluan kertoa teille, että olemme itse asiassa järjestäneet niin erityistyöryhmän kanssa kuin komissiossakin hyvin säännöllisiä tapaamisia päätoimeksisaajan ja kahden muun toimeksisaajan, varsinkin Sterian kanssa. Arvoisa puhemies, hyvät parlamentin jäsenet, voimme todellakin toivoa, että asia ratkaistaan tulevien kuukausien aikana, kun neuvoston tekee kesäkuun alkuun sovittuna ajankohtana päätöksen lopullisesta päivämäärästä.
+<P>
+Sitoudun tässä ja nyt pitämään parlamentin ajan tasalla kaikista tapahtumista.
+<SPEAKER ID="316" NAME="Marian-Jean Marinescu">
+PPE-DE-ryhmän puolesta. - (RO) Schengenin tietojärjestelmä II:n toiminnallisista ongelmista keskusteltiin viimeksi neuvoston istunnossa helmikuussa 2009. Jälleen kerran korostettiin sitä, että on löydettävä välitön ratkaisu SIS II-järjestelmän umpikujaan.
+<P>
+Minulla on kuitenkin vaikutelma, että vastausten sijaan tämän SIS II -järjestelmää koskeneen keskustelun jälkeen on esitetty vain lisää kysymyksiä. Neuvosto tukee analyysi- ja korjaussuunnitelman täytäntöönpanoa, joka auttaisi määrittämään SIS II-järjestelmän teknisen arkkitehtuurin ongelmat tarkoituksena tehdä siitä vakaa ja luotettava. Toisaalta neuvosto ei sulje pois mahdollisuutta päättää vaihtoehtoisen teknisen ratkaisun valinnasta, jolla voidaan saavuttaa SIS II -järjestelmän tavoitteet.
+<P>
+Valitaanpa mikä tahansa vaihtoehto, sillä ei saa olla vaikutusta Schengen-alueen ulkopuolisten maiden liittymisaikatauluun. Haluan tietää, mitä toimenpiteitä komissio toteuttaa välttääkseen mahdollista viivästymistä ja kuinka näiden muutosten aiheuttamat ylimääräiset kustannukset katetaan. Romanian esimerkki puhuu puolestaan. Romanian ulkoraja on 2 000 kilometriä pitkä. Sen maaliskuulle 2011 suunniteltu liittyminen Schengen-alueeseen on merkittävä ensisijainen tavoite. Tällainen päättämättömyys voi vaikuttaa määräajan noudattamiseen.
+<P>
+Haluan mainita toisenkin seikan. Kun komissio nyt valmistautuu laatimaan uutta lainsäädäntöehdotusta rajaturvallisuuteen liittyvistä tulevista toimista, pyydän komissiota ensin arvioimaan nykyisten rajaturvallisuusjärjestelmien tehokkuuden parhaan mahdollisen synergian saavuttamiseksi niiden välillä ja arvioimaan vasta sitten mahdollisuutta investoida rajalogistiikkaan.
+<P>
+Jotta EU:n strategiset tavoitteet voitaisiin saavuttaa, komission ei pitäisi aloittaa tyhjästä uusien työkalujen kehittämistä, ennen kuin SIS II:n ja VIS:n kaltaiset nykyiset järjestelmät ovat täysin toimintakuntoisia ja luotettavia.
+<SPEAKER ID="317" NAME="Genowefa Grabowska" LANGUAGE="PL">
+Arvoisa puhemies, tilanne josta keskustelemme on paljon puhuva esimerkki, joka osoittaa, että toisinaan on helpompaa saavuttaa yhteisymmärrys ja poliittinen sopimus rajojen avaamisesta kuin ratkaista teknisiä ongelmia.
+<P>
+Uusien jäsenvaltioiden liittyminen Schengen-alueeseen 23. joulukuuta 2007 oli suuri tapahtuma näiden valtioiden kansalaisille. Tiedän sen, koska olen kotoisin Puolasta. Kotimaani käytti hyväkseen tätä siunausta ja arvostaa kovasti rajojen avautumista, koska se merkitsi viimeisen meitä vanhan Euroopan unionin jäsenvaltioista erottavan syrjivän seikan katoamista.
+<P>
+Myös Frontexin virasto sijaitsee kotimaassani. Tiedän komission varapuheenjohtaja Barrot'n käyneen Puolassa, jossa hänellä oli tapaamisia Frontexissa ja jossa hän myös vieraili Puolan vastuulla olevalla EU:n ulkorajalla. Tiedän, että rajavalvonnassa ei ole käytännössä vakavia ongelmia ja että raja on turvallinen. Meillä on kuitenkin teknisiä ongelmia, joiden ratkaisusta on tulossa poliittinen ongelma, kuten kollegani Roure totesi. Olen täysin samaa mieltä hänen kanssaan.
+<P>
+Jos teknisiä vaikeuksia ja ongelmia on, oletan kuitenkin, että jokaisen EU:n toimielimen vastuulla on keskustella asiasta sen elimen kanssa, jolla on mennyt niin kauan SIS II -järjestelmän käyttöönotossa. On vahinko, ettei näin ole tehty ja että avoimuus on tässä asiassa ollut hieman väkinäistä.
+<P>
+Katson, että aina kun on kyse kansalaisille merkittävien asioiden ratkaisemisesta, Euroopan parlamentti ei voi hyväksyä sitä, että toteutetaan toimia siitä riippumatta tai ettei siitä piitata, varsinkaan turvallisuusasioissa.
+<P>
+Lopuksi haluan esittää pienen huomion. Jos ilmeni ongelmia, jos Hewlett-Packard ei kyennyt selviytymään teknisistä ongelmista, on muistettava, että meillä on Puolassa loistavia asiantuntijoita, nuoria kaikkialla maailmassa tunnustusta saaneita loistavia tietotekniikkainsinöörejä. Uskon, että heistä voisi olla hyötyä ja että he voisivat tuottaa toivotun tuloksen halvemmalla, nopeammin ja paremmin.
+<SPEAKER ID="318" NAME="Hubert Pirker" AFFILIATION="PPE-DE">
+(DE) Arvoisa neuvoston puheenjohtaja, arvoisa komission jäsen, Schengen on ja on aina ollut synonyymi toisaalta turvallisuuden ja toisaalta vapauden ja suvaitsevaisuuden väliselle yhteydelle. Euroopan kansalaisille ja meille kaikille tämä on ollut osa Euroopan unionin tuomaa lisäarvoa. Se on aina toiminut oikein hyvin, ja sitä on sovellettu tehokkaasti "yksi kaikkien puolesta" -periaatteella.
+<P>
+Se mitä nyt tapahtuu, on huolestuttavaa. On myös huolestuttavaa, ettei parlamentille, joka on aina ollut hyvin yhteistyökykyinen, ole annettu tarvittavia tietoja. Me olemme aina tiedottaneet Euroopan kansalaisille. Schengenin tietojärjestelmä II tulee toimimaan täydellisesti ja aikataulussa, ja nyt meille paljastuukin, että on ilmennyt ongelmia, eikä ongelman ratkaisua vaikuta olevan näköpiirissä.
+<P>
+Minusta olisi kiinnostavaa saada tietää, ovatko tiedotusvälineissä kiertävät luvut, joiden mukaan Schengenin tietojärjestelmä II:n kehittämiseen on tähän mennessä käytetty noin 100 miljoonaa euroa, paikkansapitäviä. Vastaako yritys seurauksista? Miksi komissio, neuvosto tai mikään muu elin ei ole ajoissa soveltanut tarkistusjärjestelmää?
+<SPEAKER ID="319" NAME="Mihael Brejc" AFFILIATION="PPE-DE">
+(SL) Itse asiassa on outoa, että järjestelmän toiminnalliset ongelmat tulevat esiin aina uudelleen, kun käsittelemme tällaisia suuria ja merkittäviä teknisiä kysymyksiä. Olemme tähän mennessä jo tarkastelleet tietojenkäsittelyyn liittyviä teknisiä ongelmia. Tämän vuoksi kansalaiset kysyvät nyt perustellusti, miksi meillä ei ole EU:n tason ammattitaitoisia elimiä, jotka olisivat riittävän päteviä tarkastelemaan poikkeuksellisen laajojen ja kattavien tietokantojen toiminnassa mahdollisesti ilmeneviä ongelmia.
+<P>
+Olen osallistunut näihin keskusteluihin alusta alkaen. Olen myös tehnyt yhteistyötä esittelijä Coelhon kanssa, ja olen tietoinen tietyistä teknisistä vaikeuksista ja puutteista, myös niistä, jotka liittyvät saatavilla olevaan asiantuntemukseen. Olen siis sitä mieltä, että meidän on toteutettava todellinen järjestelmän tekninen tarkistus ja rahoituksen tarkistus ja vaadittava hankkeen hallinnosta vastaavia vastuuseen. Itse asiassa tämä ei ole minun mielipiteeni, vaan suuren yleisön mielipide.
+<SPEAKER ID="320" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Arvoisa puhemies, arvoisa komission jäsen, henkilökohtaisesti arvostan teitä kovasti, mutta se mitä nyt tapahtuu on sietämätön sotku, johon liittyy sellainen määrä tuhlausta ja epäpätevyyttä, ettei sitä voida hyväksyä. Tämän vuoksi kehotan sekä komissiota että kansalaisvapauksien sekä oikeus- ja sisäasioiden valiokuntaa ja talousarvion valvontavaliokuntaa tutkimaan tarkasti asiaa.
+<P>
+Olen iloinen siitä, että Tšekin tasavalta toimii neuvoston puheenjohtajana, sillä Baijerin ja Tšekin tasavallan turvallisuusintressit ovat täsmälleen samat. Tiedämme, että kaikista rajojen avaamiseen liittyneistä peloista huolimatta turvallisuustilanne on parantunut huomattavasti ja perusteellisesti rajojen avaamisen jälkeen erinomaisen poliisiyhteistyön tuloksena. Tämä voisi toimia mallina muille Euroopan osille, ja haluan Baijerin puolesta kiittää tästä Tšekin tasavaltaa. Odotamme Schengenin tietojärjestelmän lopulta kattavan kaikki alueet ja ettei se rajoitu yksittäisiin, esimerkillisiin ja kahdenvälisiin järjestelyihin.
+<SPEAKER ID="321" NAME="Alexandr Vondra" LANGUAGE="EN">
+Arvoisa puhemies, haluan kiittää teitä tästä keskustelusta. Katson sen osoittaneen, että on ongelma, joka on ratkaistava. Puheenjohdollamme neuvosto teki voitavansa tammikuussa. Se suhtautui vakavasti aloitteeseen varautumissuunnitelman tai vaihtoehtoisen suunnitelman laatimisesta sekä ratkaisun edistämisestä asettamalla määräaikoja.
+<P>
+Se oli kaikki, mitä voimme tehdä. Rahoituskysymyksissä jätän vastauksen antamisen komissiolle. Yhteistyö on nyt erinomaista ministeri Langerin ja komission jäsen Barrot'n välillä, joten uskomme kykenevämme tähän.
+<P>
+Kysymykseen siitä, onko ongelma poliittinen vai tekninen, vastaan meidän uskovan sen olevan vain tekninen ongelma. Kyse ei ole hämäyksestä, jolla peiteltäisiin poliittisia ongelmia. Ei. Järjestelmä on saatava toimimaan mahdollisimman pian.
+<P>
+Jäsen Grabowskan huomautuksiin vastaan, että mekin muistamme, millaista oli olla odotushuoneessa. Keskustelimme tästä vuosi sitten. Kaikki ne valtiot, jotka odottavat tässä asiassa edistymistä, ovat yllättäen niitä, joilla on samanlaisia kokemuksia kuin meillä. Olemme sitoutuneet esittämään teknisen ratkaisun, joka antaa muiden maiden aloille osallistumismahdollisuuden tiettyjen aikataulujen mukaisesti.
+<P>
+Lopetan näihin muutamiin huomioihin. Sanoin paljon keskustelun alussa. Nyt meidän on jatkettava eteenpäin.
+<SPEAKER ID="322" NAME="Jacques Barrot" LANGUAGE="FR">
+Arvoisa puhemies, arvoisa neuvoston puheenjohtaja Vondra, kiitän teitä puheenjohtajavaltio Tšekin tasavallan paneutumisesta asiaan. Tukeanne arvostetaan paljon.
+<P>
+Aluksi haluan vastata jäsen Marinesculle, ettei ole mitään erityistä ongelmaa, koska myös jäsenvaltiot, jotka eivät vielä kuulu Schengen-alueeseen, voivat liittyä SIS II -järjestelmään. Meillä on useita "aikavarauksia", tai määräaikoja, jolloin uudet jäsenvaltiot, jotka eivät kuulu Schengen-alueeseen, voivat liittyä SIS II -järjestelmään, joten kun kaikki on hyvin, ei erityisiä ongelmia pitäisi olla.
+<P>
+Hyvä jäsen Grabowska, kiitän myös teitä kaikesta siitä, mitä Puolan tasavalta tekee ulkorajamme valvomiseksi. Minulla on itse asiassa ollut mahdollisuus havaita Frontexin puolalaisten ryhmien kanssa tekemän työn laatu Ukrainan rajalla.
+<P>
+Vastauksena jäsen Rourelle ja jäsen Grabowskalle haluan vain sanoa, että ongelma on pohjimmiltaan tekninen. Se ei ole poliittinen ongelma, kuten neuvoston puheenjohtaja Vondra totesi. Totuus on aivan yksinkertaisesti se, että jäsenvaltiot, tai eräät jäsenvaltiot, ovat esittäneet yhä suurempia vaatimuksia. Tämän vuoksi on todettava, että SIS II -järjestelmän odotetaan täyttävän mitä monimutkaisempia tavoitteita. Tämän vuoksi järjestelmästä on tullut yhä monimutkaisempi, ja huolimatta ylistämästänne tietoteknologiasta, sen täytäntöönpano on osoittautunut odotettua vaikeammaksi. On kuitenkin totta, että ongelmat ovat pääasiassa teknisiä ja että ne tämän vuoksi pitäisi pystyä ratkaisemaan.
+<P>
+Jäsen Pirkerille ilmoitan, että parlamentille tiedotetaan täysimääräisesti, ja sitoudun tähän nyt itse. Hankkeen edetessä olen ottanut itse tämän vastuun, ja uskon voivani sanoa katsovani sen aivan ensisijaiseksi tavoitteeksi. Haluan myös vakuuttaa jäsen Brejcille, että olemme osoittaneet henkilöt, jotka ovat vastuussa. Olemme komission yhteistyöllä perustaneet erityistyöryhmän, jonka toimintaan jäsenvaltiot osallistuvat tiiviisti. Minusta meillä on nyt kasassa lopullinen ohjausryhmä, mutta myös toimeksisaajan on kyettävä täyttämään asettamamme vaatimukset.
+<P>
+Haluan vastata myös jäsen Pirkerin ja jäsen Posseltin juuri esittämiin rahoitusta koskeviin kysymyksiin. Komission SIS II -hanketta koskevat kokonaismäärärahat ovat noin 68 miljoonaa euroa. Niitä vastaaviin sopimuksiin sisältyy toteutettavuustutkimuksia, varsinaisen keskusjärjestelmän kehittäminen, tuki ja laadunvalvonta, s-Testa-verkosto, operatiivisen hallinnon valmistelut Strasbourgissa, turvallisuus, biometrisiin seikkoihin liittyvät valmistelut ja viestintä. Määrärahat ovat siis 68 miljoonaa euroa.
+<P>
+Maksujen osalta puolestaan 27 miljoonaa euroa on tosiasiassa käytetty tähän mennessä tekniseen kehittämiseen, josta 20 miljoonaa euroa järjestelmän kehittämiseen, 7 miljoonaa teknisen edistyksen etulinjassa olevan verkoston luomiseen ja 4 500 000 euroa laadunvarmistamiseen.
+<P>
+On todettava, että jos neuvosto saatuaan selkeän käsityksen SIS II -järjestelmän luotettavuudesta tai epäluotettavuudesta päättää siirtyä SIS I+R -malliin, voimme siinä vaiheessa harkita SIS II -järjestelmää varten luodun viestintäverkoston käyttämistä uudelleen, joten vastaavat investoinnit voitaisiin suurimmalta osin säästää.
+<P>
+Arvoisat parlamentin jäsenet, todellinen ongelmamme on Schengenin vapaan liikkuvuuden alueen varustaminen aidosti tehokkaalla välineellä. On totta, että jos onnistumme luomaan Schengen II -järjestelmän, siitä tulee maailman tehokkain järjestelmä niiden tulosten ansiosta, jotka se meille mahdollistaa. Tarvitaan kuitenkin tietotekniikkaa.
+<P>
+Joka tapauksessa haluan sanoa teille puheenjohtajavaltio Tšekin tasavallan puheenvuoron jälkeen - ja toistan vielä olevani kiitollinen neuvoston puheenjohtaja Vondralle puheenjohtajavaltio Tšekin tasavallan panostuksesta tähän vaikeaan asiaan - että minä todella uskon, että yhdessä nykyisen puheenjohtajavaltion kanssa olemme tehneet kaikkemme välttääksemme lisäviivästyksiä ja antaaksemme toimeksisaajalle aidon mahdollisuuden täyttää odotuksemme. Saamme joka tapauksessa lopullisen määräajan vahvistettua, jotta neuvosto voi tehdä tarvittavat päätökset. Lupaan vielä kerran tietenkin tiedottaa asiasta parlamentille.
+<SPEAKER ID="323" NAME="Puhemies">
+(FR) Keskustelu on päättynyt.
+<P>
+Kirjalliset lausumat (työjärjestyksen 142 artikla)
+<SPEAKER ID="324" NAME="Alin Lucian Antochi  " LANGUAGE="RO">
+Tätä hanketta, jolla pyritään parantamaan Euroopan unionin ulkorajojen hallintamenettelyä, ei saa mielestäni pitää yrityksenä pysäyttää muuttoliikeprosessia. EU:n rajaturvallisuuden parantamistoimien tosiasiallisella tarkoituksella ei ole mitään tekemistä maahanmuuttotulvan hillitsemisen kanssa. Tarkoituksena on ainoastaan valvoa maahanmuuttoa tiukasti. Asianmukaisesta maahanmuuton hallinnasta on hyötyä Euroopan unionin jäsenvaltioiden yhteiskunnille ja kansantalouksille.
+<P>
+On korostettava, että Euroopan unionin on kiinnitettävä aiempaa enemmän huomiota konfliktialueilla sijaitsevien syrjäisten rajojensa valvontaan. Esimerkiksi Moldovan ja Ukrainan rajalla toteutettavan Euroopan unionin rajavalvonnan avustusoperaation (EU BAM) yhteydessä tähän mennessä toteutetut toimet ansaitsevat erityistä tunnustusta. Sen yhteydessä on muun muassa perustettu rajoilla sovellettava yhtenäinen tullimenettely, torjuttu salakuljetusta ja estetty rikollisryhmien toimintaa.
+<P>
+Koska Transnistrian ongelmaa ei ole toistaiseksi onnistuttu ratkaisemaan, Moldovan viranomaisten on toisaalta melko vaikeaa valvoa kyseistä raja-aluetta, jolla esiintyy edelleen paljon laitonta maahanmuuttoa.
+<P>
+Uskon vakaasti, että Euroopan unionilla on riittävästi poliittista, taloudellista ja turvallisuuspoliittista vaikutusvaltaa lopettaa edellä mainitut laittomat toimet, mikä tarkoittaa myös entistä aktiivisempaa osallistumista itärajoilla olevien ratkaisemattomien konfliktien selvittämiseen.

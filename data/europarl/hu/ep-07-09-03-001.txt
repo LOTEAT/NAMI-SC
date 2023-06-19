@@ -1,0 +1,4 @@
+<CHAPTER ID="001">
+Az ülésszak folytatása
+<SPEAKER ID="999" NAME="Elnök">
+Újból megnyitom a 2007. július 12-én berekesztett ülést.

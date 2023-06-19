@@ -1,0 +1,6 @@
+<CHAPTER ID="007">
+Heure des votes
+<SPEAKER ID="074" NAME="Président">
+(EN) Le prochain point est le vote.
+<P>
+(Pour les résultats et autres informations sur le vote: se référer au procès-verbal)

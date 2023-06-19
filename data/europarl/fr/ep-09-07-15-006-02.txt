@@ -1,0 +1,4 @@
+<CHAPTER ID="006-02">
+2. Composition numérique des commissions parlementaires
+<SPEAKER ID="117" NAME="Le Président">
+L'heure des votes est close.

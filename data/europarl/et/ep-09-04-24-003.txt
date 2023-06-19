@@ -1,0 +1,120 @@
+<CHAPTER ID="003">
+Välismaksed ühenduses - Elektronrahaasutuste tegevus (arutelu)
+<SPEAKER ID="019" NAME="Juhataja">
+Järgmine päevakorrapunkt on ühisarutelu järgmistel teemadel:
+<P>
+proua Starkevičiūtmajandus- ja rahanduskomisjoni nimel koostatud raport ettepaneku kohta võtta vastu Euroopa Parlamendi ja nõukogu määrus välismaksete kohta ühenduses - C6-0352/2008 - ning
+<P>
+- härra Purvise majandus- ja rahanduskomisjoni nimel koostatud raport ettepaneku kohta võtta vastu Euroopa Parlamendi ja nõukogu direktiiv, milles käsitletakse elektronrahaasutuste asutamist ja tegevust ning usaldatavusnormatiivide täitmise üle teostatavat järelevalvet ning millega muudetakse direktiive 2005/60/EÜ ja 2006/48/EÜ ning tunnistatakse kehtetuks direktiiv 2000/46/EÜ - C6-0350/2008 -.
+<SPEAKER ID="020" NAME="Margarita Starkevičiūtė">
+raportöör. - (LT) Praegu, kui Euroopa Liidu majandus on languses, on väga oluline ergutada majanduskasvu. Üks Euroopa Liidu majanduse kasvu allikaid on ühisturu laienemine, sest see on endiselt väga killustunud, eelkõige finantsteenuste valdkonnas. Ettepanek meie ees peaks aitama seda probleemi lahendada ja luua Euroopas ühtne makseala. Inglise keeles on see Single Euro Payments Area.
+<P>
+Sel dokumendil on juba mõningane ajalugu. Niipea kui euro kasutusele võeti ja valuutavahetuskursid euroala riikides kadusid, sai selgeks, et välismaksete ja kohalike maksete hinnad on endiselt erinevad. Sellepärast võeti vastu Euroopa Parlamendi ja nõukogu määrus (EÜ) nr 2560 eurodes tehtavate välismaksete kohta, mis jõustus 2001. aasta lõpus. Selles sätestati võrdsed teenustasud kohalike, riigisiseste ja välismaksete eest ning see tugevdas seda põhimõtet. Selle eesmärk oli vähendada tarbijate jaoks hindu ja tagada suurem konkurents makseteenuste turul.
+<P>
+Selle määruse rakendamine vähendas maksete teenustasusuid: näiteks 100eurone välismakse maksis Euroopa Liidus keskmiselt 24 eurot, aga nüüd maksab 2,50 eurot. Teisalt ilmnesid dokumendis mõned puudujäägid. Sellepärast otsustati, et seda tuleb muuta.
+<P>
+Dokument meie ees on määruse nr 2560 parandatud versioon. Mis selles uut on? Esiteks on välismaksete ja kohalike maksete teenustasude võrdsuse põhimõtet laiendatud otsearveldusele. Varem see võimalik ei olnud. Euroopa maksekeskkond muutus, kui loodi ühtne euromakseala ja võeti vastu makseteenuste direktiiv; sellepärast on oluline, et alates 2009. aasta novembrist oleks võimalik kasutada populaarset elektroonilist maksemeetodit - otsearveldust - ka piiriüleselt. Selle ühtse otsearveldusmudeli loomisele kaasaaitamiseks on määruses sätestatud, et kui maksja ja makse saaja makseteenuste osutajate vahel puudub kahepoolne leping, on kuni 2012. aastani kestva üleminekuperioodi jooksul esialgne minimaalne vaikimisi mitmepoolne vahendustasu otsemaksete korral 0,08 eurot.
+<P>
+Dokumendis on ka kirjas, kuidas parandada tarbijaõiguste kaitset ja kaotada äritegevuse takistused. Välja on pakutud, et liikmesriigid määravad määruse rakendamise üle järelevalvet teostavad pädevad asutused, kes peaksid tegema ka piiriülest koostööd, et äritegevuse takistusi oleks vähem; nad võiksid ka sätestada suunised selle kohta, kuidas hinnata menetlusi, millega määrata kindlaks, kas põhimõtet järgitakse või mitte.
+<P>
+Muudetud dokumendis on uus ka ettepanek kaotada järk-järgult teatud riikides pankadele pandud kohustus esitada maksebilansistatistikat ja muud menetlused maksebilansistatistika esitamiseks.
+<P>
+Mul on väga kahju, et selles suhtes ei olnud võimalik nõukoguga üksmeelele jõuda, ja praegu on maksebilansiga seotud muudetud ja rakendamise menetlused veel määratlemata. Euroopa Parlament ja komisjon on teatanud, et kehtestatakse karm tähtaeg.
+<SPEAKER ID="021" NAME="John Purvis">
+raportöör. - Proua juhataja, see direktiiv on vastus elektroonilise kaubanduse ja elektroonilise raha kasvavale olulisusele ning selge õigusliku raamistiku vajadusele. Selle eesmärk on lihtsustada elektroonilise raha kasutamist online-maksekontode, ettemakstud mobiilikontode, ettemakstud reisikaartide ja kinkekaartide jaoks.
+<P>
+E-raha ei erine tavalisest rahast, sest sellel on rahaline väärtus ja see on mugav maksevahend. Ent erinevalt sellistest kontopõhistest makseinstrumentidest nagu krediit- ja deebetkaardid toimib see ettemakstud esitajainstrumendina. Seda kasutatakse ettevõttele tehtavate maksete katmiseks (tavaliselt küllaltki väikestes kogustes) kasutajast erineva isiku poolt, mis eristab seda üheotstarbelistest ettemaksekaartidest, nagu näiteks telefonikaardid. E-raha kasutamiseks ei ole vaja pangakontot, seega on see eriti oluline neile ühiskonnaliikmetele, kellel pangakontot ei ole või ei saa olla.
+<P>
+Tervelt kaheksa aastat tagasi kirjutas Benjamin Cohen artiklis "Electronic Money: New Day or False Dawn?” ("Elektrooniline raha: uus päev või libakoit?”), et varsti saabub elektroonilise raha ajastu. Kahjuks oli see ennustus nii liigoptimistlik kui ka enneaegne, vähemalt Euroopa jaoks. Elektroonilise raha saabumine on Euroopas veel kaugel, kuigi selle täit kasu oodati siis, kui esimene e-raha direktiiv 2001. aastal vastu võeti.
+<P>
+Võib-olla olid süüdi suure algkapitali nõue ja liigettevaatlikud piirangud. E-rahaasutuste arv on liikmesriigiti väga erinev. Näiteks Tšehhi Vabariigis on üle 40 elektroonilise raha asutuse, aga Prantsusmaal ja Saksamaal on neid kahe peale kokku ainult 12. Õigupoolest pidid kaks Saksamaa e-rahaasutust minema Ühendkuningriiki, sest õigusaktid olid isegi sellest direktiivist hoolimata väga erinevad. Kaks aastat tagasi - 2007. aasta augustis - oli elektroonilist raha ainult üks miljard eurot, võrreldes käibel oleva 600 miljardi euro sularahaga.
+<P>
+Seega on selge, et e-rahal on veel pikk tee käia, et saada tõsiseltvõetavaks alternatiiviks sularahale. Ent see suureneb piirangutest hoolimata oluliselt ja see uus direktiiv peaks võimaldama uute uuenduslike ja turvaliste elektroonilise raha teenuste toimimist, et võimaldada uute tegijate turuletulekut ning soodustada reaalset ja efektiivset konkurentsi turuosaliste vahel. Turulepääsu võimalus tekib uutel väiksematel ettevõtjatel, sest nõutava algkapitali summat vähendatakse miljonilt 350 000 eurole. Majandus- ja rahanduskomisjon oleks muidugi eelistanud väiksemat summat.
+<P>
+Teenuseosutajad saavad laiendada e-maksete tegemise võimalusi: näiteks saaks klient, kes ostab metroopileti e-rahaga, osta jaamakioskist ka kohvi, ajalehe või lillekimbu, mis on juba võimalik näiteks Hongkongis ja on osutunud seal väga edukaks.
+<P>
+Meid on seadusloomeprotsessis tagant kihutatud, et saavutada kokkulepe esimesel lugemisel, et see meede jõustuks enne Euroopa Parlamendi valimisi. Soojad tänusõnad väga positiivse koostöö eest Ivole ja Melaniele majanduskomisjonist, sotsialistide ja liberaalide variraportööridele, härra Pittellale ja proua Raevale, komisjoni teenistustele ja eesistujariik Tšehhile, täpsemalt Tomáš Trnkale ja tema meeskonnale. Keegi meist ei saavutanud kõike soovitut, aga arvan, et oleme teinud olulise sammu edasi, ja oleksin väga rõõmus, kui Euroopa Parlament seda projekti toetab.
+<SPEAKER ID="022" NAME="Antonio Tajani">
+komisjoni asepresident. - (IT) Proua juhataja, daamid ja härrad, kõigepealt tahaksin öelda, et komisjon hindab Euroopa Parlamendi kiiret tegutsemist nende kahe teemaga, mis on nii olulised, ja sellega seoses tahaksin tänada mõlemat raportööri ning majandus- ja rahanduskomisjoni esimeest proua Berèsi, kes aitasid töö kiirusele oluliselt kaasa.
+<P>
+Praegu on makseteenuste direktiivi liikmesriikide poolt ülevõtmise lõpptähtajani jäänud vaid paar kuud. Need kaks meedet koos maksesektori märkimisväärsete püüetega töötada välja ühtse euromakseala tooteid on oluline ja ajakohane samm ühtse makseturu loomise suunas. Need meetmed on koos direktiiviga õiguslik alus, mis on turu selgemaks, kindlamaks ja stabiilsemaks muutmiseks hädavajalik. Viimastel nädalatel toimunud läbirääkimised on võimaldanud saada väga kiire kokkuleppe neis kahes küsimuses.
+<P>
+Seoses muudetud välismaksete määrusega on mul hea meel teatada, et komisjon on kompromissi tulemusel esitatud muudatusettepanekuga nõus. Komisjonil on eriti hea meel, et algses ettepanekus on artiklid mitmepoolse pankadevahelise vahendustasu kohta otsearvelduse korral. Turg ootas neid sätteid ja meie arvates on need Euroopa pankade poolt ühtse euromakseala otsearvelduse õigeaegseks käivitamiseks olulised.
+<P>
+Nende eeskirjade kohaselt antakse maksesektorile automaatsete debiteerimiste jaoks konkurentsieeskirju järgiva pikaaegse kaubandusmudeli esitamiseks kolm aastat. Kompromissina on komisjon nõus asendama nende kohustuste tingimusteta kaotamise läbivaatamissättega, mille pakkusid välja Euroopa Parlament ja nõukogu.
+<P>
+Muudetud elektroonilise raha direktiiv on eriti kõrgelennuline õigusakt, mis pakub tõeliselt kasuliku e-rahaturu loomiseks teretulnud teise võimaluse. Direktiivi eesmärk on anda turule selge ja tasakaalus õiguslik ja usaldatavusraamistik, kaotades tarbetud, ebaproportsionaalsed või ülemäärased takistused turule sisenemiseks ja muutes elektroonilise raha väljastamise ligitõmbavamaks.
+<P>
+Uus direktiiv peaks edendama tõelist ja efektiivset konkurentsi kõikide turuosaliste vahel ning samas tagama võrdsed tingimused kõigile makseteenuste osutajatele ja kõrgetasemelise tarbijakaitse. Saavutatud kompromiss loob suurepärase tasakaalu, kaitstes täiel määral meie algseid eesmärke ja andes samas sobiva vastuse vastuvõtmisprotsessi ajal väljendatud õigustatud muredele. Sellepärast toetame seda ettepanekut täiel määral.
+<SPEAKER ID="023" NAME="Aloyzas Sakalas">
+õiguskomisjoni arvamuse koostaja. - Proua juhataja, õiguskomisjon toetab ettepanekut võtta vastu Euroopa Parlamendi ja nõukogu määrus välismaksete kohta ühenduses.
+<P>
+Komisjoni algatuse eesmärgid on järgmised: esiteks olemasoleva määruse asendamine, et kohandada seda turu arengule, teiseks tarbijaõiguste parem kaitsmine ning ELis tänapäevase ja tõhusa maksesüsteemi väljakujundamiseks piisava õigusliku raamistiku loomine ning kolmandaks euromakseteenuste siseturu loomine.
+<P>
+Õiguskomisjonil paluti esitada arvamus juhtivale majandus- ja rahanduskomisjonile. Arvamuses pakuti välja, et liikmesriigid võivad määrata olemasolevad asutused pädevateks asutusteks ja kasutada olemasolevaid menetlusi välismakseteenuste jaoks või neid menetlusi neile laiendada. Oluline on kohaldada ja parandada juba olemasolevaid meetmeid ja kaebustega tegelemise organeid, et ettepanekuga seotud kaebused ja vaidlused tulemuslikult lahendada.
+<P>
+Pean oluliseks rõhutada, et proportsionaalsuse ja subsidiaarsuse põhimõte ning eelkõige välismaksete teenustasude võrdsuse laiendatud põhimõte peab olema kooskõlas EÜ asutamislepingu artikli 95 lõikega 1. Eurodes tehtavate välismaksete jaoks on vaja ühenduseülest käsitlust, sest kohaldatavad eeskirjad ja põhimõtted peavad olema kõikides liikmesriikides samad, et tagada kõikidele Euroopa makseturu sidusrühmadele võrdne mängumaa ja õiguskindlus.
+<SPEAKER ID="024" NAME="José Manuel García-Margallo y Marfil">
+fraktsiooni PPE-DE nimel. - (ES) Proua juhataja, räägin ainult välismaksete määrusest ja proua Starkevičiūtkoostatud raportist.
+<P>
+Nagu ta väga kenasti selgitas, on määrus vastuseks euro kasutuselevõtmise tulemusena tekkinud vajadustele ja selles on sätestatud küllaltki selge põhimõte, et riigisiseste ja välismaksete teenustasu peab olema ühesugune. See on siseturul tervet mõistust väljendav eeskiri, aga enne määrust ei järgitud seda üldse.
+<P>
+Seega on määrusest saanud ühtse euromakseala käivitaja, millele viitas ka raportöör, ning seetõttu on mul mõned lisatähelepanekud.
+<P>
+Aja jooksul on see määrus aegunud ja seda oli vaja muuta, et kohandada seda finantsturgudel toimunud muudatustele ja samuti makseteenuste direktiivile.
+<P>
+Komisjon seadis muutmiseks endale kolm eesmärki: esiteks piiriülese otsearvelduse lisamine määruse rakendusalasse, teiseks määruse kohaldamisega seoses tekkida võivate probleemide kohtuvälise lahendamise korra loomine ja kolmandaks maksebilansistatistika esitamise kohustuste lõdvendamine.
+<P>
+Euroopa Parlament on selle lähenemisega üldiselt nõustunud, aga teinud kolm olulist muudatust: määruse juriidiliste mõistete täpsustamine, hoiatus või meeldetuletus liikmesriikidele järgida määrust tulemuslikumalt kui seni ja kolmandaks palve suurendada oluliselt liikmesriikidevahelist koostööd.
+<P>
+Mulle tegi muret maksebilansistatistikaga seotud kohustuste küsimus, mis on leidnud lahenduse erinevate institutsioonide kokkuleppes. Seetõttu võin öelda, et olen saavutatud tulemusega täiesti rahul.
+<SPEAKER ID="025" NAME="Pervenche Berès" LANGUAGE="FR">
+Proua juhataja, tahaksin rääkida härra Purvise raportist elektroonilise raha kohta.
+<P>
+Kõigepealt arvan, et kui mõelda põhjustele, miks elektrooniline raha on siin vähem arenenud kui Hongkongis, on see nii kahtlemata sellepärast, et Euroopa kodanikud on palju lihtsamini harjunud kasutama pangakaarte.
+<P>
+Euroopa Parlamendil on selle õigusakti koostamisel olnud kaks muret: esiteks ei taha me ajal, kui järelevalveküsimus on kõigi huulil, elektroonilise raha järelevalve eeskirju kaotada lihtsalt sellepärast, et elektroonilise raha asutused on teinud sellesuunalist lobitööd. Seepärast on Euroopa Parlament eelkõige nõudnud elektroonilist raha väljastavate ja haldavate asutuste tõelist järelevalvet ja arvan, et oleme selles valdkonnas saanud mitu tagatist. Mul on selle üle hea meel.
+<P>
+Samamoodi tahtsime arvestada kodanike ja elektroonilise raha kasutajate huvidega, eelkõige lepingute lõpetamisel, et elektroonilist raha haldavad asutused ei kehtestaks neile piiranguid ja tasusid, mis on meie arvates ülemäärased.
+<P>
+Selles vaimus oleme ettepanekut toetanud, lootes, et see teeb meie kaaskodanike elu elektroonilise raha kasutamise abil lihtsamaks ega viiks ekstsessideni, eelkõige järelevalvemehhanismide puhul.
+<SPEAKER ID="026" NAME="Mariela Velichkova Baevа" LANGUAGE="BG">
+Ettepanek võtta vastu Euroopa Parlamendi ja nõukogu määrus välismaksete kohta ühenduses, mille eesmärk on vahetada välja praegu kehtiv määrus, on seotud Euroopa ühtse makseturu loomisega. Samuti on ettepaneku eesmärk suurendada tarbijate huvide ja õiguste kaitset ning lihtsustada statistiliste andmete esitamise koormat.
+<P>
+Maksebilanssi käsitleva artikli 5 ja läbivaatamissätet sisaldava artikli 12 suhtes püüab raportöör Margarita Starkevičiūtsaavutada kompromissi, mida Bulgaaria toetab. Kompromiss pakub ajakohase piisava hindamise võimalust.
+<P>
+Praegune üleilmne majanduskriis suunab tähelepanu asjakohaste statistiliste andmete saamise vajadusele. Bulgaaria pooldab seda, et alla 50 000 euro suuruste tehingute puhul kaotataks makseteenuste osutajate kohustus esitada tehingupõhist maksebilansistatistikat.
+<P>
+Bulgaaria toetab artikli 5 lõike 2 väljajätmist, sest väljendatud kõhklused on seotud võimaliku teabekaoga ja maksebilansistatistika kvaliteedi halvenemisega, samuti vajadusega otsearuandlussüsteemile ülemineku rakendamise tehnilise perioodi järele.
+<SPEAKER ID="027" NAME="Antonio Tajani">
+komisjoni asepresident. - (IT) Proua juhataja, daamid ja härrad, taas kord tahaksin öelda, et hindan seda, kuidas Euroopa Parlament on nende kahe teemaga tegelenud. See tähendab, et uus välismaksete määrus hakkab kehtima nii, nagu oli kavandatud - selle aasta 1. novembril -, ja e-rahaturul on teine võimalus elavneda.
+<P>
+Paralleelselt makseteenuste direktiiviga loovad need kaks Euroopa õigusakti võimaluse luua ühenduse makseturu jaoks tänapäevane, kõikehõlmav õiguslik raamistik ja siluvad Euroopa maksesektori teed ühtse euromakseala projekti väljatöötamisel. See projekt annab Euroopa tarbijatele ja ettevõtetele täielikult integreeritud makseturu, mis on kulutõhus ja väga kvaliteetne.
+<P>
+Seega ütlen erilise heameelega edasi komisjoni tänusõnad Euroopa Parlamendile selle viimase märgi eest, mis näitab huvi ühtse euromakseala vastu.
+<SPEAKER ID="028" NAME="Nils Lundgren">
+fraktsiooni IND/DEM nimel. - (SV) Proua juhataja, piiriülese kasutusvõimalusega elektrooniline raha on suur edasiminek. EL peab selle kasutamise propageerimisega parandama siseturgu. Ent tahaksin kasutada võimalust ja meenutada, millest me õieti räägime.
+<P>
+Kui võtsime paljudes Euroopa riikides kasutusele euro, võtsime selle aluseks rahaliidu väärtuse analüüsid. Väärtus on selles, et rahavahetuse kulud ja ka teised tehingukulutused vähenevad. Ühtse valuutaga vähenevad ka teabekulud. Selle hind on ebastabiilsem majandus. Meil on raskem säilitada ühtset kõrget hõivatusemäära ja stabiilseid riiklikke finantse. Seda on praegu näha, kui sellistes riikides nagu Iirimaa, Hispaania, Itaalia ja Kreeka kõik nendes valdkondades vormist välja läheb.
+<P>
+Pange tähele, et ohvritele vastukaaluks peaks olema ühisvaluutast tingitud madalamatest tehingukulutustest saadav kasu, aga see kasu väheneb pidevalt ja just sellepärast, et maksesüsteemi areng on nii kiire. Mõne aja pärast oleme olukorras, kus leiame, et meie maksesüsteem on nii efektiivne, et kulud on muutunud tähtsusetuks. Siis on meil ühisvaluuta, mis tegelikult tagab meile ainult Euroopa majanduse ebastabiilsuse. Olen sellest juba varem rääkinud ja nüüd näete seda juhtumas. Palun teil kõigil mõelda selle üle!
+<SPEAKER ID="029" NAME="Margarita Starkevičiūtė">
+raportöör. - (LT) Tahaksin öelda, et tekst meie ees on kompromiss, mis on saavutatud nõukogu, komisjoni ja Euroopa Parlamendi keeruliste läbirääkimiste tulemusena.
+<P>
+Ent tulemus on positiivne ja tahaksin tänada nõukogu esindajat härra Trinkat ja komisjoni esindajaid koostöö eest ning samuti tahaksin tänada majandus- ja rahanduskomisjoni liikmeid, kes seda dokumenti koostada aitasid. See vastab härra Lungreni tõstatatud küsimustele - see tähendab, et see aitab tugevdada kogu euroala, sest parandatakse eurotehingute menetlusi. Euroalasse mittekuuluva riigi esindajana on mul hea meel, et seda määrust saab kohaldada ka riiklikus valuutas tehingutele (näiteks Leedus lititehingutele), kui euroalasse mittekuuluvad liikmesriigid seda soovivad.
+<P>
+Praegu on meie riikides riiklikus valuutas välismaksete ja riigisiseste maksete teenustasud endiselt erinevad. See on osaliselt tingitud sellest, et me ei ole euroala liikmesriigid. Arvan, et esimene samm ja üks euroala suunas viivatest sammudest oleks meil - euroalasse mittekuuluvatel liikmesriikidel - hakata kohaldama seda põhimõtet riiklikule valuutale. Teine oluline asi on see, et määrusega välismaksete soodustamine avab võimaluse Euroopa pangandussektori kaasajastamiseks, sest pankadele antakse kolmeaastane üleminekuperiood, et töötada välja uus ärimudel, mis muudaks maksed tõhusamaks.
+<P>
+See on väga oluline, sest räägime ju sageli uuendustest, uutest algatustest ja kaasajastamisest. Selle dokumendiga loome selle jaoks just õiged tingimused.
+<SPEAKER ID="030" NAME="John Purvis">
+raportöör. - Proua juhataja, proua Berèsi mainitud usaldatavuse mure kaotamiseks tahaksin öelda, et nõuame direktiivis ja raportis, et e-raha fondid ei ole deposiidid; nendele ei saa krediiti. Oleme e-raha ust vaid veidi rohkem avanud.
+<P>
+Nõutava algkapitali summat on vähendatud 350 000 euroni, kuigi majandus- ja rahanduskomisjon oleks eelistanud 200 000 eurot. Nõutav omakapital on 2% e-rahast; meie oleks eelistanud 1,6%, aga lubatud 20% kõikumist arvestades võivad liberaalsemad liikmesriigid alandada seda nõuet 1,6%ni ja konservatiivsemad tõsta 2,4%ni.
+<P>
+Ei ole ideaalne, et mängumaa jääb Euroopa Liidus endiselt ebavõrdseks, eelkõige kui oleme nõudnud e-raha kasutajate vahendite täielikku tagamist ja on teisigi kasutajasõbralikke kaitsemeetmeid, näiteks seoses tagastamisega, mida proua Berès mainis. Vajamineva kapitali koguse tõttu oli vaja vaid riigisisese e-raha ettevõtjatele kehtestada ka erandite piirmäär, mis on kahe asemel viis miljonit eurot.
+<P>
+Üldkokkuvõttes on see väga ettevaatlik samm edasi. See ei ole ideaalne. Kompromissid on seda harva. Peaaegu kindlasti tuleb see kolme-nelja aasta pärast uuesti läbi vaadata ja loodan, et selleks ajaks on turule tulnud rohkem ettevõtjaid. Kasutajad ja kaupmehed hakkavad valjult nõudma suuremat valikuvõimalust. Kõhklevamad seadusandjad, pangad, proua Berès - ja isegi Euroopa Keskpank - jõuavad kokkuleppele, et see on kasulik, kasutajasõbralik teenus, mis ei tekita mingeid ohte Euroopa majandusele. Saame Euroopas lõpuks ometi kasutada kõiki e-raha võimalusi.
+<SPEAKER ID="031" NAME="Juhataja">
+Ühisarutelu on lõppenud.
+<P>
+Hääletamine toimub täna.

@@ -1,0 +1,82 @@
+<CHAPTER ID="020">
+Farmakologiškai aktyvių medžiagų leistinų likučių kiekio nustatymas gyvūninės kilmės maisto produktuose (diskusijos) 
+<SPEAKER ID="253" NAME="Pirmininkas">
+Antras klausimas yra Aplinkos, visuomenės sveikatos ir maisto saugos komiteto rekomendacija dėl antrojo svarstymo dėl Tarybos bendrosios pozicijos, siekiant priimti Europos Parlamento ir Tarybos reglamentą, nustatantį Bendrijos farmakologiškai aktyvių medžiagų leistinų liekanų kiekių nustatymo gyvūninės kilmės maisto produktuose tvarką, panaikinantį Tarybos reglamentą (EEB) Nr. 2377/90 ir iš dalies keičiantį Europos Parlamento ir Tarybos direktyvą 2001/82/EB ir Europos Parlamento ir Tarybos reglamentą (EB) Nr. 726/2004 (15079/2/2008 - C6-0005/0009 - (Pranešėja: Avril Doyle).
+<SPEAKER ID="254" NAME="Avril Doyle">
+pranešėja. - Pone pirmininke, ar galėčiau pradėti, padėkodama visiems savo pagalbiniams pranešėjams, iš tikrųjų ir pirmininkaujančiai Prancūzijai, kad pavyko susitarti per antrąjį svarstymą?
+<P>
+Tai yra ganėtinai techninis pasiūlymas, kadangi juo siekiama atnaujinti galiojantį ES režimą, kurio svarbiausias tikslas - apsaugoti visuomenės sveikatą, užtikrinant, kad gyvūninės kilmės maisto vartotojų nepasieks farmakologiškai aktyvių medžiagų ir biocidinių produktų likučiai. Tai pasiekiama nustatant saugumo ribą arba didžiausius leistinus kiekius (DLK) aprobuotoms medžiagoms ir uždraudžiant medžiagas, kurios yra pavojingos arba kurių saugumo lygis negali būti moksliškai nustatytas.
+<P>
+Vien tik DLK vartotojai nebus apsaugoti. Vartotojai yra tiesiogiai apsaugoti, nustatant tam tikrą išlaukimo laikotarpį prieš skerdimą ir įsteigiant kontrolę jam stebėti. Praktikoje išlaukimo laikotarpiai nustatomi naudojant didelio saugumo veiksnius, kurie atspindės turimų duomenų kiekį dabartiniame produkto perdirbimo etape.
+<P>
+Pasiekėme susitarimą dėl pagrindinių klausimų. Visų pirma atskiroms rūšims nustatyta DLK ekstrapoliacija; antra, ES DLK paketas yra priimtas Codex Alimentarius tarptautiniu mastu; ir, trečia, kuriamos sistemos, nustatančios DLK iš trečiųjų šalių importuojamam maistui.
+<P>
+Sugebėjome patikslinti priemones, kurių būtina imtis, kai neleistinos medžiagos aptinkamos ES pagamintame maiste arba iš trečiųjų šalių importuojamame maiste, taip pat kaip patikslinti kontrolės atskaitos taškų (KAT) peržiūros pagrindus: t. y., didžiausias kiekis, nustatytas kontrolės tikslu bet kokiai draudžiamai medžiagai atsižvelgiant į bet kokius naujus duomenis.
+<P>
+Klausimas dėl DLK nustatymo tam tikriems biocidiniams produktams, pvz., gyvūnų aplinkoje naudojamoms dezinfekavimo priemonėms, taip pat buvo suderintas, ypač jų leidimo ir jų dokumentų finansavimo aspektais.
+<P>
+Farmakologiškai aktyvios medžiagos DLK nustatyti reikalingas brangus toksikologijos ir metabolizmo tyrimų duomenų paketas. Tai yra per brangu tam tikroms mažiau įprastoms maisto rūšims, vadinamosioms "smulkioms rūšims", kadangi veterinarinių vaistų rinka - vadinamajam "smulkiam naudojimui" - yra maža. DLK nustatymas yra pirmas žingsnis, kuris turi būti įgyvendintas prieš reguliavimo institucijoms pateikiant prašymus suteikti leidimą maistui skirtos rūšies farmakologiškai aktyvioms medžiagoms.
+<P>
+Taip, šis smulkaus naudojimo / smulkios rūšies (angl. MUMS) klausimas yra problema, kurią būtina skubiai spręsti, nes ji kelia galimus gyvūnų gerovės ir maisto saugos klausimus. Veterinarai turi pareigą rūpintis ir visada mėgins gydyti sergantį gyvūną. Pagal dabartinius teisės aktus jie dažnai verčiami griebtis nelicencijuotų vaistų.
+<P>
+DLK trūkumas taip pat neleidžia valdžios institucijoms nustatyti vaistų tinkamo išlaukimo laikotarpio. Dabartiniame DLK reglamente nereikalaujama, kad DLK būtų nustatyti atskiroms rūšims. Vadovaudamasis pradiniu atsargumo metodu Europos vaistų vertinimo agentūros veterinarinių vaistų komitetas (VVK) nustato DLK atskiroms rūšims. 1997 m. ir praėjus penkeriems metams VVK persvarstvisus nustatytus DLK ir nusprendė, kad nebūtina nustatyti DLK atskiroms rūšims, nes DLK kai kurioms medžiagoms yra neretai panašūs arba identiški. Tais pačiais metais VVK išleido gaires dėl DLK nustatymo smulkioms rūšims. Jis apibrėžsmulkias maistui skirtas rūšis kaip visas rūšis, išskyrus galvijus, kiaules ir naminius paukščius, ir jos apėmlašišines rūšis.
+<P>
+Tai sudarsąlygas vykdyti ekstrapoliaciją nuo tos pačios šeimos pagrindinių rūšių iki smulkių rūšių, nuo atrajojančių iki atrajojančių rūšių, nuo žuvų iki žuvų rūšių, nuo vištų iki kitokių naminių paukščių. Po aštuonerių metų patirties, t. y. 2008 m., VVK išleido naujas gaires - Rizikos analizės metodas veterinarinių vaistų likučiams gyvūninės kilmės maiste. Jose apibūdinama rizika, pagrįsta DLK nuo vienos arba keleto rūšių iki papildomos rūšies medžiagos ekstrapoliacijos metodo. Šios gairės leidžia vykdyti DLK ekstrapoliaciją iš duomenų pagal tris pagrindines rūšis iki visų rūšių, jeigu DLK rinkinys trims pagrindinėms rūšims yra panašus arba identiškas.
+<P>
+Šiame prieš mus esančiame persvarstytame tekste tiesiog nustatomas teisinis pagrindas dabartinei ekstrapoliacijos praktikai veterinarinių vaistų tinkamumo ir gyvūnų apsaugos naudai.
+<P>
+Du pakeitimai specialiai skirti specialių arklinių šeimos gyvūnų rūšies vaistų prieinamumo (turiu pasakyti, suinteresuotumo) trūkumui terapinių ir gerovės poreikių srityje, įskaitant sąvoką "naudinga sveikatai", o ne tik reikalavimą, kuris yra "būtinas" pridedant vaistus prie tikslaus arklinių šeimos gyvūnų medžiagų sąrašo, nurodyto Veterinarinių vaistų direktyvoje. Aiškiai apibrėžtomis aplinkybėmis tam tikri arklinių šeimos gyvūnams naudojami produktai neturi turėti DLK, bet jiems bus taikomas šešių mėnesių išlaukimo laikotarpis.
+<P>
+Galbūt yra deklaracija, - ar galiu paprašyti pirmininko vardu, - kurią Komisijos narys ketina įtraukti į protokolą: prisimenu prieš kelis mėnesius vykusią diskusiją dėl šio klausimo dėl Veterinarinių vaistų direktyvos persvarstymo.
+<SPEAKER ID="255" NAME="Günter Verheugen">
+Komisijos Pirmininko pavaduotojas. - (DE) Pone pirmininke, ponai ir ponios, teisės akto dėl farmakologiškai aktyvių medžiagų leistinų likučių gyvūninės kilmės maisto produktuose persvarstymas yra svarbi Europos Komisijos iniciatyva. Jos tikslas - apsaugoti vartotojus nuo vaistų likučių maisto produktuose, taip pagerinant galimybę gauti veterinarinių vaistų Bendrijoje. Tai yra taip pat svarbi Komisijos teisės aktų supaprastinimo programos dalis.
+<P>
+Praėjusių metų spalio 21 d. Taryba ir Parlamentas sudarsusitarimą, kurį atspindi dabartinbendroji pozicija. Todėl dabar turime bendrąją ne tik Tarybos ir Parlamento, bet ir Komisijos poziciją. Esu sužavėtas, kad Komisija sugebėjo įtraukti Europos Parlamento ir Tarybos pakeitimus, kadangi jais išlaikoma pradinio Komisijos pasiūlymo dvasia ir esmė.
+<P>
+Taigi, Komisija visiškai pritarbendrajai pozicijai savo šių metų sausio 8 d. komunikate Europos Parlamentui. Bendrosios pozicijos priėmimas sudarys sąlygas dabar šį dokumentą sėkmingai parengti iki šios parlamentinės kadencijos pabaigos.
+<P>
+Jo parengimas dabartinės bendrosios pozicijos pagrindu leis maisto kontrolės ir veterinarinių vaistų srities dalyviams kasdien sėkmingiau dirbti gyvūnų gerovės ir vartotojų apsaugos Bendrijoje naudai. Šie žmonės laukteisės akto dėl likučių persvarstymo labai nekantriai ilgą laiką, manau, jie laukišties ilgai ir gali būti patenkinti, nes dabar sprendimas buvo rastas.
+<P>
+Labai gerai žinau ypatingą galimybės gauti veterinarinių vaistų svarbą. Todėl nepaisant pažangos, kurią dabartinis Reglamentas dėl farmakologiškai aktyvių medžiagų likučių išreiškia, Komisija pristatys problemų, kurios kilo dėl Direktyvos dėl veterinarinių vaistų taikymo 2010 m., vertinimą, o prireikus taip pat pristatys naujus teisės aktų pasiūlymus šiuo klausimu.
+<P>
+Norėčiau pasinaudoti šia proga ir išreikšti savo specialią padėką pranešėjai Avril Doyle, kurios nenuilstamos pastangos iš tikrųjų leido mums pasiekti susitarimą dėl šio svarbaus klausimo. Dar kartą nuoširdi padėka už jūsų puikų darbą, Avril Doyle.
+<P>
+Avril Doyle pranešimas
+<P>
+Komisija žino piliečių, veterinarų, valstybių narių ir gyvūnų sveikatos pramonės atstovų reiškiamą susirūpinimą dėl direktyvos, nustatančios taisykles dėl veterinarinių vaistų leidimo, ypač kad svarbu atkreipti dėmesį į esamas problemas, susijusias su galimybe gauti veterinarinių vaistų ir vaistų naudojimu rūšims, kurioms jie draudžiami, ir bet kokią neproporcingą reglamentavimo naštą, trukdančią naujovėms, taip užtikrinant aukštą vartotojų saugos lygį gyvūninės kilmės maisto atžvilgiu. Komisija pabrėžia, kad imamasi teigiamų žingsnių šia kryptimi, pvz., taisyklių dėl veterinarinių vaistų pakeitimo supaprastinimo ir šio teisės akto dėl didžiausio leistino likučių kiekio maiste persvarstymo.
+<P>
+Be to, kad būtų atkreiptas dėmesys į vartotojų saugumą ir gyvūnų sveikatos apsaugą, veterinarijos pramonės konkurencingumą, įskaitant MVĮ, ir administracinės naštos mažinimą, 2010 m. Komisija pristatys problemų taikant veterinarinių vaistų direktyvą vertinimą siekiant prireikus teikti teisinius pasiūlymus.
+<SPEAKER ID="257" NAME="Avril Doyle">
+pranešėja. - Pone pirmininke, norėčiau, kad būtų įtraukta į protokolą, jog yra vienas pakeitimas, kuriam nepritariu, nes iš tikrųjų juo bus sukurta teisinaklavietė. Jeigu negalima administruoti vaistų, išskyrus kai jau turima DLK pagal bandymus su gyvūnais, tuomet negalima atlikti bandymų, kurie pirmiausia būtini siekiant gauti duomenis nustatyti DLK ir išlaukimo laikotarpį.
+<P>
+Norėčiau padėkoti Komisijos nariui už jo bendradarbiavimą šioje srityje ir įtraukti į protokolą, kad neatidėliotinai būtina atlikti Veterinarinių vaistų direktyvos persvarstymą. Tam tikra prasme didžiausiai problemai, kurią matome ir puikiai žinome, naudojame šį DLK persvarstymą kaip metodą "lopome ir taisome". Europos bendrijoje galimybgauti įvairių atitinkamų veterinarinių vaistų labai įvairių rūšių gyvūnams gydyti daugiau kaip per praėjusius du dešimtmečius buvo augantis iššūkis. Šiuo laikotarpiu įvairūs suinteresuoti asmenys, įskaitant reguliuotojus, pramonės atstovus ir veterinarus, dėjo dideles pastangas, kad būtų atkreiptas dėmesys į galimybės gauti vaistų problemas.
+<P>
+Nepaisant šių pastangų, padėtis toliau blogėjo. Leistinų vaistų trūkumas kelia tikrą grėsmę gyvūnų sveikatai, gerovei ir vartotojų saugumui. Taip pat kyla rimtų problemų gyvūnų savininkams, ūkininkams, veterinarams ir vyriausybėms, jeigu gyvūnai yra negydomi arba gydomi draudžiamais arba netinkamais produktais - įskaitant riziką dėl negydomų arba netinkamai gydytų gyvūnų zoonozių ligų reikšmės gyvūnų savininkams, vartotojams ir piliečiams.
+<P>
+Vaistų trūkumas apskritai gali turėti neigiamus padarinius kaimo ekonomikai ir žemės ūkiui, taip pat esama finansinės, teisinės ir prekybinės reikšmės įvairiems dalyvaujantiems suinteresuotiems asmenims. Pvz., - ir svarbiausia, - apsidulkinimo padarinys yra sumažėjusio bičių kolonijų skaičiaus pasekmė. Bitės yra labai svarbi smulkaus naudojimo / smulkios rūšies (MUMS) klausimas.
+<P>
+Tačiau ne tik dabartingalimybės gauti problema ES turi reikšmę gyvūnų sveikatai ir gerovei, Bendrijos maisto tiekimui ir visuomenės sveikatai tarptautiniu mastu, ji taip pat mažina ES gebėjimą atitikti Lisabonos darbotvarkę ir sulaukti didžiulio potencialo Europos žemės ūkiui ir jūrų gyvių ir augalų veisimui, kad būtų pritraukti moksliniai tyrimai ir vystymasis veterinarijos farmacinėje srityje.
+<P>
+Dar kartą dėkoju visiems kolegoms ir Komisijos nariui už bendradarbiavimą dėl šio pranešimo.
+<SPEAKER ID="258" NAME="Pirmininkas">
+Diskusijos baigtos.
+<P>
+Balsavimas vyks rytoj.
+<P>
+Raštiški pareiškimai (Darbo tvarkos taisyklių 142 straipsnis)
+<SPEAKER ID="259" NAME="Péter Olajos  " AFFILIATION="PPE-DE">
+raštu. (HU) Dažnai girdime nusiskundimus, kad ES bando viską reguliuoti, kartu nepajėgdama atkreipti dėmesio į svarbius klausimus.
+<P>
+Daugelis mūsų mano, kad šis pranešimas yra tokio pobūdžio. Tačiau tai netiesa. Šiuo atveju kalbame apie žmonių vartojamus "maisto produktus" - tai, kaip mes norime, turėtų būti saugiau mūsų piliečiams.
+<P>
+Galiojantys reglamentai yra pasenę ir kelia problemų veterinarams norint papildyti vaistų atsargas. Dėl šios priežasties toks reglamentas specialioms šios šakos ypatybėms yra būtinas.
+<P>
+Dabar vis daugiau farmacinių įmonių turi skyrius, priskiriamus gyvūnų produktų sričiai, iš kurios gaunamos didelės pajamos. Paklausa auga nuolat, kadangi gyvūnai taip pat serga, o dabar, kai maistas tampa vis vertingesnis, verta jį saugoti.
+<P>
+Dar neseniai buvo atkreiptas dėmesys į informaciją, kad kai kurios įmonės dirba, siekdamos "išgauti" daugiau iš gyvūnų. Greitai augantys viščiukai, kiaulės yra nupenimi vos per keletą mėnesių. Visa tai pasiekiama (medicininiais) produktais, kurie dažnai yra žalingi žmonėms.
+<P>
+Todėl kiekvienas paruošimas, kuris teikiamas gyvūnams, turi būti patikrintas bendradarbiaujant su Europos vaistų agentūra (EMEA), kad būtų nustatyta, ar tokių produktų likučiai, liekantys gyvūnuose, o vėliau vartojami žmonių, kelią pavojų.
+<P>
+Už patikrinimą moka įmonė. Taip pat turime pabrėžti pagreitintos procedūros galimybę, kuri trumpina administracijai būtiną laiką, taip pat svarbu, kad veterinarai šitaip galėtų daug greičiau gauti vaistų.
+<P>
+Nieko nėra svarbiau už žmogaus sveikatą, todėl turime uždrausti pinigine nauda pagrįstą "gyvūnų dopingą".

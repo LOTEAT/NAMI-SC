@@ -1,0 +1,6 @@
+<CHAPTER ID="006">
+Turno di votazioni
+<SPEAKER ID="097" NAME="Agustín Díaz de Mera García Consuegra" AFFILIATION="PPE">
+(ES) Signor Presidente, vorrei cortesemente chiederle di sospendere per un minuto le votazioni, in quanto stanno distribuendo le liste di voto del Partido Popular, come può vedere lei stesso.
+<SPEAKER ID="098" NAME="Presidente">
+Procederemo ora alla votazione.

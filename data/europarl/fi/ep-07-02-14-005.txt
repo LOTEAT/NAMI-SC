@@ -1,0 +1,4 @@
+<CHAPTER ID="005">
+Äänestykset (jatkoa)
+<SPEAKER ID="104" NAME="Puhemies">
+Esityslistalla on seuraavana äänestykset.

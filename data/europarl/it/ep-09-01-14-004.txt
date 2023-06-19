@@ -1,0 +1,8 @@
+<CHAPTER ID="004">
+Turno di votazioni
+<SPEAKER ID="097" NAME="Presidente">
+L'ordine del giorno reca il turno di votazioni.
+<P>
+Con il turno di votazione avviso l'Aula che per richiesta esplicita dell'associazione dei giornalisti parlamentari, per ogni risultato di voto dobbiamo indicare esplicitamente anche il numero dei votanti a favore, contro o astenuti. Volevamo semplificarvi la vita, ma non è possibile.
+<P>
+(Per i risultati dettagliati della votazione: vedasi processo verbale)

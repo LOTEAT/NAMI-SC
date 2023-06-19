@@ -1,0 +1,887 @@
+<CHAPTER ID="1">
+<SPEAKER ID="1" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="2" LANGUAGE="" NAME="" AFFILIATION="(Istunto avattiin klo 9.00.)">
+<SPEAKER ID="3" LANGUAGE="IT" NAME="Antonio Tajani (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, haluan ilmoittaa täysistunnolle, että tänä aamuna Nassiriyassa Irakissa tehtiin isku eurooppalaista sotilassaattuetta vastaan: hyökkäyksessä kuoli kolme italialaista karabinieeria ja yksi romanialainen sotilas. Mielestäni parlamentin olisi muistettava, millaisen uhrauksen nämä EU:n kansalaiset ovat tehneet suorittaessaan palvelustaan ja tehdessään työtään rauhan edistämiseksi. 
+<SPEAKER ID="4" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Kiitos, jäsen Tajani, että kerroitte meille tästä. Olen varma, että parlamentti kannattaa sanomaanne. 
+<SPEAKER ID="5" LANGUAGE="IT" NAME="Monica Frassoni (Verts/ALE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, yhdyn tietenkin jäsen Tajanin toteamukseen, vaikkakin lisäisin tähän, että ehkä näiden joukkojen olisi todella jo aika poistua Irakista.
+<P>
+Olen kuitenkin pyytänyt työjärjestyksen 22 artiklan nojalla puheenvuoroa, joka liittyy puhemiehistön tehtäviin. Viittaan erityisesti siihen, mitä puhemiehistössä tapahtui eilen, kun Euroopan unionin kansalaisilta evättiin mahdollisuus ottaa kirjallisesti yhteyttä yhteisön toimielimiin oman maansa virallisilla kielillä. Tätä puhemiehistön tekemää päätöstä ei voida millään tavoin luonnehtia hallinnolliseksi, koska tästä ei olisi aiheutunut parlamentille minkäänlaisia kustannuksia.
+<P>
+Päätös on poliittinen, ja sellaisena ryhmäni asettaa sen kyseenalaiseksi ja aikoo ottaa sen esiin puheenjohtajakokouksessa. Parlamentti ei voi hyväksyä tällaista päätöstä, jolla estetään kansalaisia kommunikoimasta tavalla, jonka komissio ja neuvosto ovat jo hyväksyneet. Puheenvuoroni tarkoitus oli siis selittää kantaamme puhemiehistön tehtäviin. 
+<SPEAKER ID="6" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Kiitos, jäsen Frassoni. Viittasitte eilen illalla puheenjohtajakokouksessa esiin tulleeseen asiaan, josta kaikki parlamentin jäsenet eivät varmaankaan ole tietoisia.
+<P>
+Hyvä jäsen Frassoni, ehdotan, että ilmoitatte asiasta kirjallisesti sekä puhemiehelle että pääsihteeristölle ja puheenjohtajallenne ja otatte asian esiin puheenjohtajakokouksessa. Esittämänne asia ratkaistiin eilen puhemiehistössä äänestämällä – vaikkakin pienellä enemmistöllä. Mikäli haluatte ottaa asian uudelleen käsiteltäväksi, olen varma, että teidän on tehtävä se poliittisten ryhmien kautta, jotka varmasti ottavat asian puheeksi ja ilmoittavat siitä kirjallisesti puhemiehelle. 
+<SPEAKER ID="7" LANGUAGE="" NAME="Puhemies." AFFILIATION="">
+<P>
+   Esityslistalla on seuraavana Titleyn laatima liikenne- ja matkailuvaliokunnan mietintö (A6-0072/2006) tieliikenteen turvallisuudesta: eCall kansalaisten käyttöön (2005/2211(INI)). 
+<SPEAKER ID="8" LANGUAGE="EN" NAME="Gary Titley (PSE )," AFFILIATION="esittelijä">
+<P>
+   . Arvoisa puhemies, kuvitelkaapa mielessänne seuraava tapahtuma: on synkkä ja myrskyinen yö, on kylmää, märkää ja tuulista, ja te ajatte outoja teitä pitkin – saatatte olla jopa eksyksissä – kun yhtäkkiä auton eteen ilmestyy jotain. Teidän on pakko väistää, törmäätte puuhun ja menetätte tajuntanne. Sillä hetkellä kohtalaisen pieni onnettomuus saattaa muuttua erittäin vakavaksi: saatatte joutua sokkiin, teille voi tulla hypotermia tai teillä on ehkä verenvuoto, joka voi olla hengenvaarallinen, ellei sitä saada tyrehtymään. Ellette ole menettänyt tajuntaanne, tiedättekö, missä olette? Tiedättekö mitään hätänumerosta 112? Tosiaan, onko teillä matkapuhelinta käytössänne vai onko sen akusta loppunut virta? Näissä oloissa kohtalaisen pieni onnettomuus voi koitua kuolemaksenne. Niin sanotun kultaisen tunnin periaatteen mukaan henkenne nimittäin todennäköisesti pelastuu ja myös vammat ovat lievempiä, mikäli saatte hoitoa ensimmäisen tunnin aikana.
+<P>
+Tästä syystä tarvitsemme eCall-järjestelmää, joka on hätänumeroon 112 perustuva Euroopan laajuinen ajoneuvoihin asennettava hätäpuhelupalvelu. Jos joudutte onnettomuuteen, ajoneuvossa oleva laite aktivoituu turvatyynyn lauetessa, ajoneuvon lämpötilan noustessa äkillisesti, auton kaatuessa tai sen nopeuden hidastuessa äkillisesti. Aktivoituessaan laite lähettää tietoja – kuten tapahtuma-ajan, ajoneuvon sijainnin ja rekisteritiedot – PSAP-hälytyskeskukseen (112-numeroon kytketty Public Safety Answering Point -hälytyskeskus), josta sitten hälytetään pelastushenkilöstöä tulemaan pikaisesti avuksenne. Laite voidaan aktivoida myös manuaalisesti, ja silloin voitte soittaa itse äänipuhelun ja kommunikoida pelastushenkilöstön kanssa.
+<P>
+Tiedän, että tähän liittyy myös yksityisyyttä koskevia kysymyksiä, mutta teen selväksi, että järjestelmä toimii ainoastaan silloin, kun se aktivoituu onnettomuuden sattuessa, eikä sitä ole tarkoitettu jäljittämään olinpaikkaanne ja ajoreittiänne. Tämä kävi ilmi tieteen ja tutkimuksen viidennestä puiteohjelmasta rahoitetusta E-Merge-hankkeesta, ja haluan korostaa, että paljon tästä tekniikasta on nyt saatavilla, ja laite on jo käytössä joissakin autoissa. Yhteistä järjestelmää sitä varten ei kuitenkaan vielä ole.
+<P>
+Tarvitsemme eCall-järjestelmää, koska vuosittain maanteillämme kuolee 40 000 ihmistä ja loukkaantuu 1,6 miljoonaa ihmistä. Kustannukset ovat 160 miljardia euroa eli 2 prosenttia EU:n BKT:sta. Toivomme voivamme puolittaa kuolemien määrän vuoteen 2010 mennessä.
+<P>
+Näin ollen eCall-järjestelmä on älyautoa koskevan komission aloitteen ensimmäinen rakennuspalikka. Useimmilla toimilla on tarkoitus estää onnettomuuksia, mutta niitä kuitenkin väistämättä tapahtuu, ja silloin tarvitsemme eCall-järjestelmää. Tutkimukset ovat osoittaneet, että se vähentää onnettomuuksien vasteaikaa 50 prosenttia maaseudulla ja 40 prosenttia kaupunkialueilla. Näin voidaan pelastaa 2 500 ihmisen henki, vähentää vakavia vammoja 15 prosenttia ja vähentää tieliikenneonnettomuuksien kustannuksia 22 miljardia euroa vuodessa. Näin pienennetään myös onnettomuuksista johtuvien ruuhkien aiheuttamia kustannuksia 4 miljardia euroa vuodessa. Tästä syystä ajatus on loistava.
+<P>
+Valitettavasti ajatus on kuitenkin hyvin monimutkainen, sillä todella monien sidosryhmien – autoteollisuuden, teleoperaattoreiden, pelastuspalvelujen ja viranomaisten – on liityttävä yhteen, jotta laite voidaan ottaa käyttöön yhdenmukaisesti ja yhteisessä järjestelmässä. Tämän vuoksi perustettiin eCall-ohjausryhmä. Se on laatinut yhteistoimintamuistion, jossa sidosryhmät sitoutuvat noudattamaan yhtäläisiä ja hyväksyttyjä periaatteita sekä sovittua aikataulua, jonka mukaan täydet käyttökokeet tehdään vuonna 2007, PSAP-hälytyskeskuksia kehitetään vuoden 2007 loppuun mennessä ja järjestelmä otetaan käyttöön kaikissa uusissa ajoneuvoissa vuonna 2009.
+<P>
+Muistiolle on saatu yli 50 allekirjoittajaa, mutta valitettavasti vain seitsemän niistä on lähtöisin EU:n jäsenvaltiosta, ja ironista kyllä, yksi on muusta kuin EU:n jäsenvaltiosta, nimittäin Sveitsistä. Elleivät julkiset viranomaiset sitoudu hankkeeseen, se ei tule toteutumaan, koska ilman niiden sitoutumista autoteollisuus ei voi perustella tutkimuksia.
+<P>
+Mitä tarvitaan? Hätänumero 112 on tehtävä tunnetuksi, sillä moni ihminen ei tiedä siitä. Tässä järjestelmässä tarvitaan paranneltua 112-palvelua, joka antaa tietoja soittajan sijainnista. Vuoden 2002 direktiivillä jäsenvaltiot velvoitetaan luomaan tällainen järjestelmä, mutta monilla valtioilla sitä ei ole. Meidän on parannettava PSAP-hälytyskeskuksia, jotta ne voivat vastata tarpeeseen. Monissa maissa tämän hyväksi tehdään jo työtä, mutta tehtävää on vielä paljon.
+<P>
+Tämä maksaa paljon: autoon asennettava laite maksaa 150–450 euroa, mutta mikäli asiat hoidetaan kunnolla, hinta kyllä laskee. PSAP-hälytyskeskuksia on parannettava. Se maksaa noin 4,5 miljardia euroa vuodessa. Kun kuitenkin otetaan huomioon, että samalla säästetään 26 miljardia euroa, laitteen kustannushyöty on melkoinen.
+<P>
+Viestini on yksinkertainen: tämä on erinomainen laite, sen avulla pelastetaan ihmishenkiä ja sen avulla säästetään rahaa, mutta viranomaisten on lopetettava vitkastelu ja ryhdyttävä töihin, sillä juuri he hidastavat meitä.
+<SPEAKER ID="9" LANGUAGE="EN" NAME="Viviane Reding," AFFILIATION="komission jäsen">
+<P>
+   . Arvoisa puhemies, haluan kiittää lämpimästi parlamenttia ja varsinkin esittelijä Titleyä hänen mietinnöstään – enkä vain hänen mietinnöstään, vaan myös siitä tarmokkuudesta, jolla hän vie eteenpäin tätä kansalaisille erittäin tärkeää palvelua.
+<P>
+On erittäin rohkaisevaa nähdä, että parlamentti pitää eCall-järjestelmää yhtenä eSafety-aloitteen ensisijaisena ellei jopa tärkeimpänä tavoitteena sekä helmikuussa käynnistämäni älyautoa koskevan aloitteen ensimmäisenä rakennuspalikkana. Haluan kiittää parlamenttia myös siksi, että se tukee komissiota jatkuvasti tämän pyrkimyksissä saada jäsenvaltiot mukaan hankkeeseen. Kuten esittelijä totesi, hankkeen vaikein vaihe on saada jäsenvaltiot allekirjoittamaan yhteistoimintamuistio. Toivon todella, että mietintönne antaa jäsenvaltioille myönteisen viestin, niin että ne kaikki saadaan hankkeeseen mukaan.
+<P>
+Olen tyytyväinen myös siihen, että parlamentti yhtyy näkemyksiimme hätänumerosta 112 ja kehottaa jäsenvaltioita edistämään numeron käyttöä. Tiedätte, että komissio on jo ryhtynyt toimiin, ja se järjesti 112-numeroa koskevan korkean tason konferenssin viime vuoden lokakuussa sekä perusti hätäpuheluita käsittelevän asiantuntijaryhmän.
+<P>
+Parlamentti haluaisi sovittaa eCall-järjestelmän käyttöönoton yhteen Galileon käyttöönoton kanssa. Olen samaa mieltä siitä, että kun Galileon paikannusjärjestelmä otetaan käyttöön, paikannustoiminnosta saadaan tehokkaampi. Tavoitteemme on kuitenkin käynnistää eCall-järjestelmä mahdollisimman pian, ja siksi kannustan teollisuutta kehittämään ratkaisun, joka perustuu nykyisin käytössä olevaan tekniikkaan, esimerkiksi GPS-tekniikkaan.
+<P>
+Olen parlamentin kanssa samaa mieltä siitä, että kustannus–hyöty-analyysi on ratkaisevan tärkeä varsinkin, kun eCall-järjestelmästä pyritään tekemään liiketaloudellisesti vakuuttava. Haluaisin painottaa esittelijän juuri mainitsemia lukuja. Mielestäni kustannus–hyöty-analyysista käy ilmi, että järjestelmän avulla voidaan säästää paitsi ihmishenkiä myös paljon rahaa. Tietyt jäsenvaltiot, esimerkiksi Suomi, ovat käynnistäneet omat tutkimuksensa, mitä pidän myönteisenä. Myös komissio on käynnistänyt hyvin kattavan eImpact-nimisen tutkimuksen.
+<P>
+Komissio uskoo, että teollisuus voi tuottaa ajoneuvoihin asennettavia järjestelmiä, jotka täyttävät suorituskykyvaatimukset ja ovat kohtuuhintaisia, kun niitä tuotetaan suuria määriä. Kaikki riippuu nyt siis siitä, että hanke nyt aloitetaan ja järjestelmä otetaan käyttöön kaikissa autoissa. Komissio ei aio puuttua teollisuuden toimiin tässä asiassa, mutta kannustaa laitevalmistajia suunnittelemaan ajoneuvoihin asennettavia järjestelmiä yhteistyössä tietoliikennelaitteiden toimittajien ja teleoperaattoreiden kanssa, sillä järjestelmien on oltava luotettavia, kestäviä ja toimivia.
+<P>
+Suhtaudun myönteisesti siihen, että parlamentti kehottaa sidosryhmiä tarkastelemaan kannustimien käyttöä. Kuluttajatutkimuksista käy ilmi, että vaikka kuluttajat arvostavat suuresti turvallisuutta, he eivät ehkä halua maksaa ylimääräistä autojen turvaominaisuuksista. Parlamentin tuella aiomme jatkaa kannustimiin liittyvää keskustelua kahdella alalla, nimittäin rahallisista kannustimista jäsenvaltioiden kanssa sekä mahdollisista vakuutusmaksujen alennuksista vakuutusyhtiöiden kanssa.
+<P>
+Kun puhutaan eCall-järjestelmän ulottamisesta maaseudulla ja syrjäisillä alueilla eläville käyttäjille, haluan todeta, että järjestelmä on tarkoitettu kaikille, myös halvempiin ajoneuvomalleihin. Se ei ole autojen ylellisyystarvike vaan tarkoitettu kaikille kansalaisille ja kaikkiin autoihin. Järjestelmän käytön yleistymisen nopeus riippuu tietenkin monesta seikasta, esimerkiksi siitä, onnistummeko toteuttamaan kannustinohjelmia. Uskon, että tältä osin löydetään jälkiasennukseen liittyvä ratkaisu, joka nopeuttaa eCall-järjestelmän käyttöönottoa.
+<P>
+Voin vakuuttaa, että eCall on hyvin tärkeässä asemassa komission asialistalla, ja olen tyytyväinen siihen, että parlamentti on auttanut meitä tekemään siitä yhden ensisijaisista tavoitteistamme. Tämän vuoksi pyrimme jatkossakin saamaan yhdessä jäsenvaltiot sitoutumaan eCall-hankkeeseen. 
+<SPEAKER ID="10" LANGUAGE="DE" NAME="Dieter-Lebrecht Koch," AFFILIATION="PPE-DE-ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, haluan kiittää komissiota sen tekemästä aloitteesta sekä esittelijää hänen mietinnöstään, joka auttaa kiitettävästi lisäämään teidemme turvallisuutta.
+<P>
+On järjetöntä, miten paljon onnettomuuksia teillä tapahtuu päivittäin; edes nykyaikaisimmalla tekniikalla niitä ei voida kokonaan estää. Yli 41 000 ihmistä kuolee maanteillä vuosittain, ja yli 1,6 miljoonaa loukkaantuu, osa heistä vakavasti. Tulevaisuudessa eCall-hätäpuhelujärjestelmän asentamisella ajoneuvoihin säästetään ihmishenkiä, sillä vakavan onnettomuuden sattuessa ajoneuvo hälyttää itse apua. On tietenkin mahdollista aktivoida hälytys myös manuaalisesti esimerkiksi sellaisessa tapauksessa, että soittaja näkee onnettomuuden tapahtuvan tai joutuu itse hengenvaaralliseen tilanteeseen. Järjestelmän avulla pelastushenkilöstö pääsee onnettomuuspaikalle paljon nopeammin varsinkin silloin, kun onnettomuus on tapahtunut syrjäisellä ja vaikeapääsyisellä alueella. Tällä tavoin onnettomuuksien aiheuttamia kustannuksia vähennettäisiin 26 miljardia euroa vuodessa, joten alkuvaiheessa tarvittavat 4,5 miljardia euroa käytettäisiin varmasti hyvään tarkoitukseen.
+<P>
+Vuosittain eCall voi pelastaa noin 7 000 ihmisen hengen, ja sen avulla 45 000 ihmisen vammat voisivat jäädä lievemmiksi. Ellei tämän puolesta kannata kampanjoida, niin minkä sitten?
+<P>
+Useampi kuin joka kolmas henkilön loukkaantumiseen johtavista onnettomuuksista tapahtuu yöllä, ja yli puolet näistä tapahtuu henkilön ollessa yksin. Jopa nykyisin tällaisen onnettomuuden uhriksi joutuneen löytäminen ajoissa on onnen kauppaa. Talvella on hyvin tavallista, että autoilijat, jotka joutuvat onnettomuuteen syrjäisillä teillä, menehtyvät vammoihinsa. He kuolevat ennemminkin hypotermiaan kuin suoraan onnettomuuden seurauksena. Yleensä onnettomuutta seuraava ensimmäinen tunti – lääkärit nimittävät sitä kultaiseksi tunniksi – ratkaisee, johtaako onnettomuus kuolemaan.
+<P>
+Jotta eCall-hätäpuhelujärjestelmä saadaan käyttöön mahdollisimman pian, Euroopan unionin on tehtävä jäsenvaltioille selväksi, miten tärkeää on, että satelliittipohjaisia hälytyskeskuksia ja infrastruktuureja rakennetaan kaikkialle viipymättä. Tämän järjestelmän pitäisi olla toimintakunnossa vuoden 2009 loppuun mennessä.
+<P>
+Samalla, kun infrastruktuureja rakennetaan, ajoneuvoteollisuus olisi velvoitettava varustamaan tietystä päivämäärästä alkaen kaikki ajoneuvot eCall-tekniikalla. Koska erityisesti halvempihintaisten autojen ostajat käyttävät varovaisesti rahaa turvavarusteisiin, haluaisin, että ajoneuvoteollisuus ottaisi järjestelmän käyttöön kaikkien hintaluokkien autoissa, jotta kustannukset saataisiin laskettua minimiin mahdollisimman nopeasti.
+<P>
+Erityisesti myös moottoripyöräilijöiden eloonjäämismahdollisuuksien kannalta eCall on elintärkeä, sillä he eivät useinkaan pysty itse soittamaan apua. Sama koskee raskaan liikenteen ajoneuvoja ja busseja. Laivoissa ja ilma-aluksissa on tietenkin jo kauan ollut käytössä vastaava järjestelmä.
+<P>
+Minun vaalipiirissäni pelastuspalvelut, poliisi ja autoilijayhdistykset, aluepoliitikot, tiedostusvälineiden edustajat ja jopa eläkeläisjärjestöt toivovat kaikki, että eCall-järjestelmästä tehdään pakollinen. Niin pitkälle emme ole vielä päässeet. Pyydän parlamenttia hyväksymään mietinnön. 
+<SPEAKER ID="11" LANGUAGE="ES" NAME="Inés Ayala Sender," AFFILIATION="PSE-ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, minäkin haluan onnitella jäsen Titleyä hänen erinomaisesta mietinnöstään, jossa käsitellään tärkeää tieliikenneturvallisuutta. Tässä tapauksessa innovaatio ja tulevaisuuteen suuntautuva ajattelu yhdistetään mietinnössä turvallisuuteen ja liikennekuolemien vähentämiseen. Liikennekuolemia voidaan pitää vuosisatamme tuhoisimpana epidemiana.
+<P>
+Olen tyytyväinen siihen, että jälleen kerran parlamentti omistaa osan ajastaan tieliikenneturvallisuudelle ja etenkin vihdoin aikaisin aamulla eikä myöhään illalla. Kuten jäsen Titley selitti, meidän on autettava sekä autojen kuljettajia että matkustajia.
+<P>
+Kotimaassani on juuri vietetty kauhistuttavaa pääsiäislomaa, jonka aikana matkustettiin kotoa pois ja sinne takaisin. Luulimme, että muutama vuosi sitten alkanut liikennekuolemien laskusuuntaus, joka saatiin aikaan erityisillä toimilla liikenneonnettomuuksien torjumiseksi, olisi jatkunut. Niin ei tapahtunut, mikä on merkki siitä, että meidän on edelleen vaadittava ja edistettävä sellaisia järjestelmiä, joiden avulla inhimillisen tekijän aiheuttamat ongelmat voidaan ratkaista. Liikennekuolemien määrä ei ole vähentynyt, vaikka onnettomuuksien määrä onkin vähentynyt huomattavasti. On osoitettu, että tärkeimpiä kuolinsyitä ovat ajajan virheet – toisin sanoen inhimillinen tekijä – sekä pelastushenkilöstön saapuminen liian myöhään onnettomuuspaikalle.
+<P>
+Tästä syystä on tärkeää saada edistystä aikaan älyajoneuvojen alalla. Siksi haluan kiittää komission jäsentä hänen päättäväisyydestään ja innokkuudestaan jatkaa eSafety-ohjelmaa ja edistää tieliikenneturvallisuuden älykkäitä parantamiskeinoja koskevia ohjelmia.
+<P>
+Tämän vuoksi ei mielestäni tätä sekä ajoneuvoille että matkustajille ja kuljettajille tärkeää apua pidä rajoittaa vain tavallisiin ajoneuvoihin – ja ensisijaisesti hintaluokan kalleimpiin ajoneuvoihin, sillä ne hyötyvät varmasti eniten näistä uusista parannuksista – vaan se olisi ulotettava maatalousajoneuvoihin, metsänhoidossa ja yleisissä töissä käytettäviin ajoneuvoihin sekä hälytysajoneuvoihin. Lisäksi apu olisi ulotettava sellaisiin ajoneuvoihin, joiden kuljettajat ja matkustajat ovat työntekijöitä, jotka käyttävät tavanomaisesti näitä ajoneuvoja vaarallisissa ja hankalissa tilanteissa päästäkseen syrjäisiin paikkoihin ja jotka eivät ole sentyyppisiä ajoneuvoja, jotka tavallisesti varustetaan tällaisilla innovaatioilla.
+<P>
+Tästä syystä olemme pyytäneet, että tällaisten ajoneuvojen ja erityisesti niiden kuljettajien ja matkustajien hankkeeseen mukaan ottamista tutkittaisiin mahdollisimman pian, sillä he ovat meille erittäin tärkeitä.
+<P>
+Hinnan osalta olen täysin samaa mieltä siitä, että meidän olisi pyrittävä ottamaan käyttöön joko vakuutuksiin liittyviä tai muunlaisia kannustinjärjestelmiä, joita on jo otettu käyttöön muissa maissa esimerkiksi autokannan uudistamiseksi.
+<P>
+Haluan muistuttaa teille, että myös muiden liikenneturvallisuutta edistävien varusteiden – esimerkiksi turvavöiden ja turvatyynyjen – osalta on edetty nopeasti, ja ne ovat nykyisin täysin tavanomaisia ja hyväksyttyjä varusteita. Tämän vuoksi katson, että myös eCall-järjestelmän osalta on edettävä tähän suuntaan. 
+<SPEAKER ID="12" LANGUAGE="DE" NAME="Eva Lichtenberger," AFFILIATION="Verts/ALE-ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, arvoisa komission jäsen, mistä me keskustelemme tänään? Keskustelemme hätäpuhelujärjestelmästä, joka aktivoituu onnettomuustilanteessa tai joka voidaan aktivoida myös manuaalisesti. Keskustelemme myös tutkimuksista, joiden mukaan valtava määrä ihmisiä selviää tulevaisuudessa onnettomuuksista hengissä, mikäli tällainen järjestelmä asennetaan ajoneuvoihin ja mikäli jäsenvaltioilla on tarvittava infrastruktuuri – esimerkiksi hälytyskeskukset ja standardoidut hälytysnumerot. Minun on sanottava parlamentille, että suoraan sanottuna nämä luvut ovat mielestäni törkeän liioiteltuja.
+<P>
+Kun keskustelemme tieliikenneturvallisuudesta, tietyillä jäsenillä täällä salissa on erityisiä intressejä tässä kysymyksessä – mainitsen erityisesti jäsen Vatasen – ja he ajattelevat selvästi, että merkitystä on vain niillä asioilla, jotka liittyvät kustannuksiin ja elektronisten laitteiden asentamiseen. Liikenne- ja matkailuvaliokunta hylkää täysin ne tarkistukset, joissa pyritään esittämään toimenpiteitä, joilla todella voitaisiin puuttua onnettomuuksien syihin ja joilla ihmiset todella voitaisiin saada parantamaan ajotapaansa esimerkiksi olemalla juomatta alkoholia tai mukauttamalla ajonopeutensa ajo-olosuhteisiin.
+<P>
+On selvää, että turvallisuutta ajatellaan nykyisin vain teknisestä näkökulmasta, eikä se mielestäni ole tarpeeksi. Vaikka minulle onkin tärkeää, että pelastushenkilöstön saapumisaikaa onnettomuuspaikalle lyhennetään, on ensisijainen huolenaiheeni kuitenkin se, että jo onnettomuuksien tapahtuminen pyritään estämään. Jos tämä on tavoitteemme, on paljon tehokkaampaa tehdä jotain sille, että ihmiset ajavat alkoholin vaikutuksen alaisena tai että heidät saataisiin noudattamaan asianmukaisia nopeuksia – nämä ovat yleisimpiä onnettomuuksien syitä – kuin tehdä elektronisten turvajärjestelmien asentamisesta pakollista.
+<P>
+On todettu, että nämä järjestelmät maksavat paljon. Niiden asentamisen arvioidaan tällä hetkellä maksavan 150–300 euroa, ja hinnan toivotaan "mahdollisesti" siitä halpenevan.
+<P>
+Uskooko parlamentti todella, että näiden laitteiden asentaminen tulee yhtään halvemmaksi siten, että vakuutusyhtiöt tai jäsenvaltiot tekevät niiden käytöstä pakollista? Totuus on, että mikäli laitteet ovat pakollisia, teollisuudella ei todellakaan ole minkäänlaista syytä tuottaa niitä yhtään halvemmalla. Mielestäni on käsittämätöntä, että tämän kustannukset eivät kiinnosta niitä, jotka samanaikaisesti kritisoivat äänekkäästi eurooppalaisen ajokortin paljon alhaisempia kustannuksia ja jotka ovat kampanjoineet sitä vastaan tietyissä jäsenvaltioissa.
+<P>
+Tähän liittyy myös kysymys, joka koskee yksityisyyttä ja kaikkien elämänalojemme lisääntyvää valvontaa. Vaikka olenkin sitä mieltä, että joillakin harvoilla aloilla tällaiset toimet ovat hyödyllisiä, on mielestäni väärin puolustaa asiaa suurenmoisena mahdollisuutena säästää joka toisen onnettomuuden uhriksi joutuneen henki. En pidä näitä tutkimuksia uskottavina. Jos samalla jätetään pois laskuista kaikki muut onnettomuuksien ehkäisytoimet, joilla ei lyhennetä pelastukseen käytettävää aikaa, en voi pitää uskottavana liikenne- ja matkailuvaliokunnan yksinomaan hintaviin toimenpiteisiin nojautuvaa onnettomuuksien ehkäisystrategiaa. 
+<SPEAKER ID="13" LANGUAGE="CS" NAME="Jaromír Kohlíček," AFFILIATION="GUE/NGL-ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, hyvät kollegat, EU:n jäsenvaltioiden kansalaiset usein hätkähtävät tieliikennekuolemien suurta määrää. On tietenkin monia keinoja vähentää sekä tieliikennekuolemia että vammojen pitkäaikaisia vaikutuksia. Kuten kollegani jo totesi, näitä ovat teiden laatu, ajoneuvomallien turvallisuus sekä yksityiskohtaisemmat liikennettä koskevat säännökset, joiden noudattamista voidaan helposti valvoa. Pelastushenkilöstölle voidaan antaa paremmat mahdollisuudet saapua onnettomuuspaikalle nopeasti esimerkiksi lyhentämällä sitä aikaa, joka kuluu onnettomuuden tapahtumisen ja sitä – myös onnettomuuden tarkkaa tapahtumapaikkaa – koskevien tietojen perille saapumisen välillä. Suhtaudun erittäin myönteisesti siihen, että niiden seitsemän jäsenvaltion lisäksi, jotka ovat ilmoittaneet olevansa valmiita ottamaan järjestelmän käyttöön, neljä muuta on aloittanut sitä koskevan hyväksymismenettelyn. Päätöslauselmassamme kehotetaan 14:ää jäljellä olevaa maata liittymään järjestelmään, ja uskon, ettei siihen mene enää kauan. Lisäksi olen sitä mieltä, että EU:n jäsenvaltioiden lisäksi koko Euroopan talousalue liittyy tähän aloitteeseen.
+<P>
+Mielestäni eCall-aloitteen käynnistäminen on sovitettava yhteen vuonna 2010 tapahtuvan Galileo-satelliittipaikannusjärjestelmän täysimittaisen käyttöönoton kanssa. Siksi olisi hyvä ajatus saattaa myös eCall-järjestelmä täyteen toimintakuntoon tuohon päivämäärään mennessä. Toinen ennakkoedellytys järjestelmän täysimittaiselle käyttöönotolle on, että 112-hätänumeron käytössä tapahtuu huomattavaa edistystä, kuten komission jäsen aivan oikein huomautti. Koska kaikkiin uusiin laitteisiin liittyy aina huomattavia kustannuksia, olisi käytettävien laitteiden oltava sekä halpoja että luotettavia. Jos vakuutusyhtiöt vastaavat pyyntöön ottaa eCall-järjestelmän käyttö huomioon, se kannustaa entisestään nopeuttamaan aloitteen toteuttamista. On totta, että tietyt eCall-järjestelmän toteutusta koskevat kysymykset ovat vielä vailla vastausta. Ehdotetussa päätöslauselmassa kehotetaan nopeuttamaan prosessia, jolloin järjestelmä voitaisiin ottaa käyttöön tavoitevuonna 2009.
+<P>
+Hyvät kollegat, arvoisa komission jäsen, on harvinaista, että lähes kaikkien poliittisten ryhmien edustajat suhtautuvat mietintöön selkeän myönteisesti. Olemme nähneet näin tapahtuvan tänään. Mikäli todella pidätte liikenneonnettomuuksien uhrien määrän vähentämistä tärkeänä, kehotan teitä kannattamaan ehdotettua päätöslauselmaa. 
+<SPEAKER ID="14" LANGUAGE="EN" NAME="Michael Henry Nattrass," AFFILIATION="IND/DEM-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, jäsen Titley on hyvä mies, ja tämä mietintö on täynnä hyviä aikomuksia. Minä kuitenkin vastustan sitä.
+<P>
+Vastustan mietintöä siksi, että tämänsuuruisille julkisille menoerille on parempaakin käyttöä. Hankkeen merkitystä on liioiteltu, enkä pidä sitä taloudellisesti kannattavana. Yhdistyneessä kuningaskunnassa meillä on sanonta "hätä keinot keksii", ja tässä meillä on EU, tehottomuuden äiti, jolla ei ole minkäänlaista hätää vaan joka yrittää väkisin keksiä uutta keinoa. Te kaikki varmasti etsitte uusia käyttötapoja, joilla voidaan perustella Galileo-satelliittihankkeen valtavia kustannuksia.
+<P>
+Entä hankkeen veronmaksajille ja autoilijoille tuottamat lisäkustannukset? Kuinka monta väärää hälytystä eCall-järjestelmä saa aikaan? Ohjaako se tällä hetkellä alirahoitettujen julkisten palvelujen huomiota pois todellisista hätätapauksista? Mitä uusia kalliita palveluja se edellyttää? Tämä kaikki saa minulla hälytyskellot soimaan. Jos olette sitä mieltä, että Yhdistynyt kuningaskunta haaskaa valtion varoja, ajatelkaa se tehottomuus moninkertaisena, kun harkitsette tällaisia EU:n hankkeita.
+<P>
+Hankkeesta tulee mieleen ilmaisu "eikä tässä vielä kaikki, EU" tai jopa Pohjois-Englannissa tunnettu ilmaisu "Ee, did you call?" – "Soititteko?" 
+<SPEAKER ID="15" LANGUAGE="EN" NAME="Seán Ó Neachtain," AFFILIATION="UEN-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, haluan onnitella jäsen Titleyä hänen erinomaisesta mietinnöstään.
+<P>
+Arvio, jonka mukaan eCall voisi pelastaa kaikkialla EU:ssa 2 500 ihmishenkeä vuodessa, on merkittävä, ja siksi eCall-järjestelmään on suhtauduttava vakavasti yhtenä keinona pienentää tieliikenteen suurta kuolleisuutta. Jäsenvaltioissa tarvitaan ehdottomasti lainsäädäntöä hankkeen toteuttamiseksi. On ehdottoman tärkeää, että pelastuspalvelut, esimerkiksi ambulanssit, poliisi ja palokunta saapuvat onnettomuuspaikalle ensimmäisen tunnin – kultaisen tunnin – kuluessa onnettomuuden tapahtumisen jälkeen.
+<P>
+Irlannin teillä on kuluvan vuoden aikana menettänyt henkensä 134 ihmistä. Jotkut näistä olisi voitu pelastaa eCall-järjestelmän avulla. Valitettavasti minkäänlainen tekniikka ei voi korvata kuljettajan perustavanlaatuista vastuuta ajaa turvallisesti ja noudattaa liikennesääntöjä.
+<P>
+Viime aikoina suhteettoman suuri osa näistä Irlannin teillä kuolleista henkilöistä on surullista kyllä ollut Irlannissa työskenteleviä Itä-Euroopan kansalaisia. Suurin osa onnettomuuksista on tapahtunut sivuteillä, ja ne johtuivat siitä, että kuljettaja ajoi alkoholin vaikutuksen alaisena tai ylinopeutta, ja mielestäni myös siitä, että hän joutui Irlannissa ajamaan vasemmanpuoleisella kaistalla – tapa, johon kuljettajat eivät olleet tottuneet. Tilannetta pahensi se, että monet kuljettajat ajoivat autoa, jossa kuljettajan paikka on vasemmalla puolella ja jotka he olivat tuoneet mukanaan Itä-Euroopasta. Mille tahansa perheelle on suuri järkytys menettää jäsenensä tieliikenneonnettomuudessa, mutta vielä traumaattisempaa on se, kun ruhjoutunut ruumis on palautettava kotimaahan.
+<P>
+Kehotan vilpittömästi käynnistämään tiedotusohjelman, jonka avulla muita kuin Irlannin kansalaisia voidaan varoittaa tästä asiasta. EU:n jäsenvaltiot tarvitsevat kipeästi yhtenäistä tieliikenneturvallisuutta koskevaa politiikkaa. Tässä vaiheessa on myös tarkasteltava huolellisesti sitä, kummanpuoleinen liikenne kussakin jäsenvaltiossa on.
+<P>
+Lopuksi totean, että mekaanisista ajoneuvoista on tullut maanteidemme joukkotuhoaseita, ja olemme tulleet jokseenkin immuuneiksi tällä tuholle. Olemme vaaleilla valittuja lainsäätäjiä. Tehkäämme kaikki voitavamme, jotta tämä verilöyly maanteillämme saadaan päättymään. 
+<SPEAKER ID="16" LANGUAGE="FR" NAME="Fernand Le Rachinel (NI ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, minäkin haluan aivan aluksi onnitella esittelijää hänen erinomaisesta työstään ja hänen ehdotuksistaan. Kysymys on nyt sellaisen eurooppalaisen hätäpuhelujärjestelmän pikaisesta täytäntöönpanosta, joka antaa tarkkoja tietoja onnettomuuden tapahtumapaikasta ja hälyttää paikalle lähimmän pelastuspalveluyksikön. Mielestäni eCall-järjestelmän tärkeimpänä tehtävänä on oltava ihmishenkien pelastaminen. Erityisesti maanteillä ensiavulla on tärkeä merkitys vakavasti loukkaantuneiden henkiinjäämisen ja hoidon kannalta.
+<P>
+Tässä yhteydessä haluan kiinnittää huomionne tiettyyn tieliikenneonnettomuuksien osa-alueeseen: onnettomuuksiin, jotka on aiheuttanut raskaan liikenteen ajoneuvo tai joissa sellainen on ollut yhtenä osapuolena. Vuonna 2003 Ranskassa rekisteröidystä 90 220 onnettomuudesta, joissa kuoli 5 731 ihmistä, oli 4 472:ssa yhtenä osapuolena raskaan liikenteen ajoneuvo. Näissä kuoli 720 tienkäyttäjää, joista 107 oli raskaan liikenteen ajoneuvojen kuljettajia. Onnettomuuksissa, joissa raskaan liikenteen ajoneuvo on yhtenä osapuolena, kuolleisuus on 16,10 prosenttia. Osuus on kaksi ja puoli kertaa suurempi kuin kuolleisuus kaikissa onnettomuuksissa. Todellisena eurooppalaisten teiden tienhaarana Ranskan on harkittava eurooppalaisten kumppaneidensa kanssa mahdollisimman pian tieliikenteelle vaihtoehtoisten ratkaisujen toteuttamista, sillä nykyisin tieliikenne on kaikista vaarallisin ja kaikista saastuttavin liikennemuoto.
+<P>
+Lisätäksemme tienkäyttäjien turvallisuutta meidän on paitsi luotava hälytyspalveluja, jollaista tänään ehdotetaan, myös kevennettävä tieliikennettä siirtämällä maantiekuljetuksia merelle ja rautateille sisävesiväyliä unohtamatta. Pystymme vähentämään tieliikennekuolemien määrää huomattavasti, mikäli yhdistämme kaikki nämä toimet emmekä vain harjoita autoilijoihin kohdistuvaa järjestelmällistä poliisivalvontaa. 
+<SPEAKER ID="17" LANGUAGE="DE" NAME="Georg Jarzembowski (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisa komission jäsen, koska kaikki parlamentin järkevät poliittiset ryhmät ovat ilmoittaneet kannattavansa eCall-järjestelmää, en aio kerrata samoja perusteita ja niitä syitä, miksi järjestelmästä on hyötyä ihmiskunnalle. Sen sijaan keskityn siihen, mikä on edellytyksenä järjestelmän toimivuudelle, nimittäin hälytyskeskuksiin ja niiden uudenaikaisuuteen. Mielestäni 25 jäsenvaltion hätäpuhelujen käsittelyjärjestelmissä on nimittäin edelleen puutteita.
+<P>
+Tässäkin yhteydessä meidän olisi tarkasteltava kahta uutta valtiota, Bulgariaa ja Romaniaa, sillä mikäli järjestelmä on tarkoitus laajentaa myös näihin maihin, on niissä myös oltava toimiva hälytyskeskusjärjestelmä. Siksi kehotan komission jäsentä aloittamaan vakavat keskustelut jäsenvaltioiden kanssa yhteisten päätösten täytäntöönpanosta. En halua uhkailla, mutta yhteisön oikeudessa säädetään, että meillä on valtuudet säätää tieliikenneturvallisuutta koskevia lakeja, ja mielestäni tämä koskee myös hälytyskeskuksia, jotka ovat ehdoton edellytys tieliikenneturvallisuuden parantamiselle.
+<P>
+Tästä syystä meidän olisi pyydettävä jäsenvaltioita ainakin panemaan töpinäksi, sillä meidän ei kannata jättää tieliikenneturvallisuutta koskevia kysymyksiä ensisijaisesti niiden hoidettavaksi, elleivät ne pane täytäntöön asiassa tehtyjä yhteisiä päätöksiä. Arvoisa komission jäsen, pyydän teitä käymään vakavia keskusteluja jäsenvaltioiden kanssa ja hyödyntämään kaikki mahdolliset komission käytettävissä olevat vaihtoehdot, sillä tällaisella järjestelmällä ei ole mitään arvoa, ellei kaikkialla ole käytössä asianmukaisia hälytyskeskuksia. Kuten jäsen Titley totesi, onnettomuuden sattuessa apua tarvitaan useammin maaseudulla kuin kaupungeissa, mutta apua voidaan tarjota vasta sitten, kun hätäpuhelujärjestelmä on käytettävissä kaikkialla.
+<P>
+Arvoisa komission jäsen, kiititte esittelijää siitä tarmokkuudesta, jolla hän on tätä työtä tehnyt. Meidän taas on oltava kiitollisia siitä tarmokkuudesta, jolla te seuraatte hankkeen edistymistä. 
+<SPEAKER ID="18" LANGUAGE="SV" NAME="Ewa Hedkvist Petersen (PSE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, arvoisa komission jäsen, ensiksi kiitän jäsen Titleyä hänen kiinnostavasta ja erinomaisesta työstään sekä valiokunnassa käymistämme kiinnostavista keskusteluista. Tieliikenteen turvallisuus on tärkeä asia, ja tämä kysymys liittyy siihen. Euroopan teillä vallitsee jatkuva katastrofitila. Joka vuosi teillämme kuolee 42 000 ihmistä päivittäin tapahtuvissa onnettomuuksissa. Tämän vuoksi meidän on käytettävä kaikki mahdolliset toimet näiden onnettomuuksien ehkäisemiseksi. Yksi mahdollinen toimenpide henkien pelastamiseksi teillämme on eCall. Tiedämme ihmisten haluavan, että tämä toimenpide toteutetaan. Ihmiset haluavat, että onnettomuuksia voidaan estää ja että ihmishenkiä säästyy. Tiedämme myös, että ihmiset haluavat avun saapuvan nopeasti. Tämä on käynyt ilmi muissakin katastrofeissa kuin liikenneonnettomuuksissa, esimerkiksi Euroopassa ja muualla maailmassa tapahtuneiden luonnonkatastrofien yhteydessä. Avun ja pelastushenkilöstön on saavuttava paikalle nopeasti. Voimme tehdä tästä totta ottamalla käyttöön eCall-järjestelmän.
+<P>
+Jo vuonna 2001 Euroopan parlamentti painotti tieliikenneturvallisuutta koskevassa päätöslauselmassa, että EU:n tieliikenneturvallisuutta koskevaan politiikkaan on mielestämme sisällyttävä toimenpiteitä ensiavun, lääkinnällisen hoidon ja kuntoutuksen tarjoamista varten sekä suuntaviivat sille, miten onnettomuuksien uhreille annetaan parempaa lääkinnällistä hoitoa. Tässä eCall-järjestelmästä voi olla apua.
+<P>
+Komissio on kuunnellut, mitä parlamentti totesi vuonna 2001, ja nyt se haluaa ottaa käyttöön E112-hälytysnumeron kaikkialla EU:ssa, koska näin parannettaisiin tieliikenneturvallisuutta. Näin voidaan pelastaa ihmishenkiä ja vakavasti loukkaantuneille henkilöille voidaan antaa lääkintäapua nopeammin. Näin noudatetaan myös kultaisen tunnin periaatetta, jonka mukaan henkilöllä, joka saa lääkinnällistä apua tunnin kuluessa onnettomuuden tapahtumisesta, on paljon paremmat mahdollisuudet jäädä henkiin, ja myös hänen vammansa jäävät lievemmiksi.
+<P>
+Mikäli laitevalmistajien halutaan saavan edistystä aikaan tällä alalla, on tärkeää, että jäsenvaltiot sitoutuvat tähän toimenpiteeseen. Tiedämme nimittäin, että Euroopassa on nyt monia suuria autonvalmistajia, jotka kehittävät autoihinsa asiaankuuluvia teknisiä järjestelmiä. Jäsenvaltioilla on kuitenkin oltava myös infrastruktuurit näitä järjestelmiä varten, jotta puhelut voidaan myös ottaa vastaan. Tarve on siis olemassa, sillä autoteollisuus kehittää jo parhaillaan tarvittavaa tekniikkaa.
+<P>
+Tarkistus 3 on tärkeä, mikäli eCall-järjestelmää kehitetään edelleen ja mikäli jäsenvaltiot halutaan saada ymmärtämään sen merkitys. Mikäli Euroopan parlamentti päättää tukea tätä tarkistusta, saamme uuden mahdollisuuden painostaa jälkeen jääneitä jäsenvaltioita. Tieliikenteen turvallisuutta edistävässä työssään EU:n on otettava strategiakseen autojen varustaminen älykkäillä apulaitteilla, sillä autoja tuotetaan koko Euroopan markkinoille. Tiedämme, että mikäli älykkäitä järjestelmiä saadaan aikaan enemmän, voimme ottaa käyttöön myös esimerkiksi alkolukkoja, joilla rattijuoppoutta pystyttäisiin estämään erinomaisella tavalla. Lopuksi haluan kehottaa teitä kannattamaan sekä mietintöä että kyseistä tarkistusta. 
+<SPEAKER ID="19" LANGUAGE="DE" NAME="Helmuth Markov (GUE/NGL )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisa komission jäsen, keskustelimme vasta täysistunnossa tieliikenneturvallisuuden eurooppalaisen toimintaohjelman väliarvioinnista ja olimme yhtä mieltä siitä, että mahdollisuudet saavuttaa itsellemme asettamamme tavoitteet – nimittäin tieliikennekuolemien määrän vähentäminen puoleen vuoteen 2010 mennessä – ovat itse asiassa hyvin vähäiset.
+<P>
+Kuitenkin eCall voi auttaa meitä vähentämään tieliikennekuolemien määrää. Vaikka tiedämmekin hyvin, ettei eCall sinänsä ole keino vähentää onnettomuuksia – tälle asialle meidän on tehtävä paljon enemmän ja päästävä siinä ajan tasalle myös jatkossa – se on kuitenkin järjestelmä, jonka avulla voidaan vähentää ratkaisevasti onnettomuuksien aiheuttamia haittoja. Sen avulla voidaan myös luoda todella vahvat siteet komission, jäsenvaltioiden, autoteollisuuden, teleoperaattoreiden, vakuutusyhtiöiden ja tietenkin hätäpuhelupalvelujen välille.
+<P>
+Jos onnistumme saattamaan hätäpuhelupalvelut kaikkien saataville, se edistää jonkin verran loukkaantuneiden auttamista ja auttaa varmistamaan hieman paremmin, että harvemmat ihmiset loukkaantuvat vakavasti tai kuolevat. En halua kinastella luvuista tai siitä, ovatko kaikki tarkastelemamme luvut tosiasiassa tarkkoja vai eivät, koska sillä ei todellakaan ole merkitystä. Jos onnistumme vähentämään kuolemia ja kärsivien ihmisten määrää 7 000:lla, sen vuoksi kannattaa todella ponnistella. Tämän perusteella asiakirja saa minulta – ja tietenkin myös ryhmältäni – vahvan kannatuksen, ja haluan käyttää tilaisuuden hyväkseni ja esittää lämpimät kiitokset esittelijälle ja komissiolle tehdystä työstä. 
+<SPEAKER ID="20" LANGUAGE="DE" NAME="Reinhard Rack (PPE-DE )," AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, silloin, kun tekniikka voi auttaa tekemään elämästämme yksinkertaisempaa, mukavampaa ja turvallisempaa, meidän olisi hyödynnettävä sen tarjoamia mahdollisuuksia ja varmistettava, että mahdollisimman moni pystyy hyötymään niistä. Tästä on kysymys eCall-järjestelmän käyttöönottoa koskevassa ehdotuksessa; eCall auttaa tekemään elämästämme turvallisempaa, ja se varmasti auttaa myös säästämään ihmishenkiä, joten käyttäkäämme tämän uuden tekniikan tarjoamat mahdollisuudet hyväksemme.
+<P>
+Esitän kolme lyhyttä kommenttia seikoista, joista osaa onkin jo käsitelty. Yksi niistä on tietosuoja ja yksityisyyden kunnioittaminen. Jäsen Titley on varmasti oikeassa todetessaan, että järjestelmä voidaan – ja on myös tarkoitus – aktivoida vain tarvittaessa, eikä sillä ole tarkoitus vakoilla, mitä ihmiset tekevät yksityiselämässään. Sen sijaan, että vain otamme täydestä sen, mitä meille sanotaan, meidän olisi todella sisäistettävä tämä asia.
+<P>
+Seuraavaksi puhun hankkeen rahoituksesta. Puhutaan yhä enemmän – ja aivan syystä – siitä, että liikennejärjestelmää olisi hoidettava enemmän "käyttäjä maksaa" -periaatteen mukaisesti. Olen tänään kuullut puhuttavan jo paljon tästä asiasta ja olen havainnut myös voimakkaan halun maksattaa muilla ne kulut, jotka hyödyttävät välittömästi asianosaisia henkilöitä.
+<P>
+Sen osalta, pitäisikö järjestelmän käyttöönotto olla vapaaehtoista vai pakollista – vaikka onkin selvää, että koko järjestelmä voi toimia onnistuneesti vain, jos mahdollisimman moni osallistuu siihen – totean, että meidän olisi ensin ainakin yritettävä järjestelmän vapaaehtoista käyttöönottoa, sen sijaan että sen käytöstä määrätään suoralta kädeltä kovaotteisella lailla. 
+<SPEAKER ID="21" LANGUAGE="PL" NAME="Bogusław Liberadzki (PSE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, haluan kiittää komissiota sen erinomaisesta aloitteesta. Suhtaudun myönteisesti myös Titleyn mietintöön ja kiitän häntä hänen sitoutumisestaan koko tehtävään.
+<P>
+Nähdäkseni eCall-aloite on yksi monista toimenpiteistä, joilla pyritään toteuttamaan toimintasuunnitelmaa, jolla puolestaan pyritään vähentämään liikenneonnettomuuksien uhrien määrää vuoteen 2010 mennessä. Mielestäni ne puhujat, jotka vaativat, että eCall-hanketta olisi arvioitava komission ja Euroopan parlamentin pohdinnassa olevan koko toimenpidepaketin perusteella, ovat väärässä.
+<P>
+Kuljettajien ja matkustajien turvallisuus on erittäin tärkeää Euroopan unionille. Se on erittäin tärkeää myös jokaiselle jäsenvaltiolle. Kotimaassani Puolassa kuolee liikenneonnettomuuksissa vuosittain keskimäärin 5 600 ihmistä. Kaikki toimet, joilla vähennetään näiden tragedioiden aiheuttamaa surua ja kärsimystä, ansaitsevat täyden tuen.
+<P>
+Toinen myönteinen piirre tässä hankkeessa on se, että se vähentäisi ratkaisevasti kuolemantapauksia ja vakavia loukkaantumisia. Lisäksi kansalaisten maksamat tieliikenteen ulkoiset kustannukset vähenisivät huomattavasti. Suhtaudun myönteisesti komission jäsenen Redingin toteamukseen tämän hankkeen ja Galileo-järjestelmän yhdistämisestä. Sillä tavoin voimme hyödyntää Galileo-järjestelmän kehittämisestä aiheutuvaa mittakaavaetua.
+<P>
+Kannatan vahvasti niitä jäsen Titleyn mietinnön osia, joissa käsitellään kuljettajien ja matkustajien yksityisyyteen liittyviä kysymyksiä. Hanketta on selvästikin käsiteltävä alusta lähtien kokonaisuutena, kuten jäsen Jarzembowski aiemmin totesi.
+<P>
+Haluan kiinnittää parlamentin jäsenten huomion myös hankkeen kustannuksiin. Parlamentti kuitenkin harkitsee useita muitakin toimenpiteitä eCall-järjestelmän lisäksi. Esimerkkinä mainittakoon Euro 5 -standardit. Kaikkien toimenpiteiden kumulatiivinen vaikutus ajoneuvon hankintakustannuksiin voi olla merkittävä. Siksi haluan pyytää parlamenttia, komissiota, jäsenvaltioita ja ministerineuvostoa toteuttamaan asianmukaisen tiedotuskampanjan, jonka avulla EU:n kansalaiset onnistuttaisiin saamaan hankkeen kannalle. On väärin nuukailla eCall-järjestelmän kaltaisten turvavarusteiden asentamisessa autoihin. Tällä tavoin ei saa vaarantaa ihmishenkiä eikä terveyttä. Kaikesta huolimatta velvollisuutemme on hyväksyä ratkaisuja, joilla etenkin kansalaisillemme aiheutuvat kustannukset vähennetään minimiin, sillä haluamme, että he todellakin ostavat yhä enemmän uusia ajoneuvoja ja korvaavat vanhat ajoneuvonsa uusilla. 
+<SPEAKER ID="22" LANGUAGE="EL" NAME="Rodi Κratsa-Τsagaropoulou (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, ensiksi haluan onnitella jäsen Titleyä hänen aloitteestaan laatia tämä mietintö, jonka aihe tuo Euroopan unionin lähemmäs kansalaisia suojelemalla hyvin kallisarvoista elämän ja terveyden lahjaa.
+<P>
+Tämä eCall-järjestelmä osoittaa, että Euroopan unioni voi antaa lisäarvoa jäsenvaltioissa toteutettaville toimenpiteille, joilla pyritään estämään onnettomuuksia sekä selviytymään niistä ja niiden monenlaisista seurauksista. Tämä pitää paikkansa varsinkin, kun ajatellaan, että järjestelmän avulla voitaisiin pelastaa noin 2 500 henkeä vuodessa, vähentää vakavia vammoja ja auttaa säästämään onnettomuuksien seurausten kokonaiskustannuksissa miljardeja euroja.
+<P>
+Monet jäsenvaltiot ovat allekirjoittaneet yhteistoimintamuistion, kuten esittelijä totesi, ja olen iloinen, että yksi niistä on kotimaani Kreikka. Yhteistyötä on kuitenkin laajennettava koko Euroopan unionin alueelle vuoteen 2009 mennessä, mikäli haluamme yhtenäisen hälytysnumeron, jonka avulla voidaan määrittää onnettomuuspaikan sijainti. Mikäli tämä kunnianhimoinen mutta erittäin inhimillinen suunnitelma aiotaan toteuttaa, tarvitaan todellista tukea – kuten hyvät ystäväni ovat todenneet – autoteollisuudelta, kansalaisilta ja ministeriöiltä, jotta toimivaa yhteistyötä voidaan tehdä suunnitelman täytäntöönpanon kustannusten osalta sekä pelastus- ja hätäpalvelujen ja tietenkin kaikkien muiden järjestelmien, esimerkiksi Galileo-järjestelmän, kanssa. Tämä tarkoittaa, että voimme hyödyntää kaikkea tekniikkaa ja kaikkia Euroopan unionin saavutuksia, eikä vain taloudellisista syistä niiden laajimmassa merkityksessä vaan myös asioissa, jotka vaikuttavat kansalaisten elämään. 
+<SPEAKER ID="23" LANGUAGE="DE" NAME="Ulrich Stockmann (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, on selvää, että Euroopan unionilla ja sen kansalaisilla on mahdollisuudet hyötyä eCall-järjestelmästä. Vaikka sen päätarkoitus onkin ehkäistä kuolemia ja vähentää inhimillistä kärsimystä, sen tuomia taloudellisia etuja ja tieinfrastruktuurin tehokkuuden lisääntymistä ei pidä ylenkatsoa. Järjestelmä tuo Euroopan unionille lisäarvoa tieliikenneturvallisuuden alalla, joka EU:n liikenteen sisämarkkinoista huolimatta kuuluu edelleen pääasiassa – ehkä jäsen Jarzembowski haluaisi merkitä tämän muistiin – jäsenvaltioiden toimivaltaan.
+<P>
+Jäsen Titleyn hyvän valiokunta-aloitteisen mietinnön tarkoituksena on siis kehottaa jäsenvaltioita ensin allekirjoittamaan eCall-järjestelmää koskeva aiejulistus mahdollisimman pian, toiseksi aloittamaan hätänumeron 112 ja sen eritelmien tekninen täytäntöönpano, kolmanneksi tiedottamaan yleisölle järjestelmän eduista ja neljänneksi saattamaan tietosuojanäkökohtaa koskevat keskustelut pikaisesti päätökseen. Ennen kaikkea mietinnössä kehotetaan myös ottamaan välittömästi huomioon tämä uusi lähestymistapa hälytyskeskuksia ja hätätilanteiden hallintayksiköitä uudistettaessa.
+<P>
+Hätäpuhelujärjestelmä eCall antaa meille esimakua niistä mahdollisuuksista, joita Galileo-järjestelmä tarjoaa meille ja joista vähäisin ei liene monien työpaikkojen luominen tulevaisuuteen suuntautuvalla alalla. Tästä syystä meidän kannattaa sitoutua hankkeeseen. 
+<SPEAKER ID="24" LANGUAGE="PL" NAME="Stanisław Jałowiecki (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, haluan muistuttaa, että eCall-järjestelmää ei pitäisi käsitellä jo viimeisteltynä luonnoksena, joka odottaa tarkistuksineen enää vain äänestystä. Sen sijaan sitä olisi käsiteltävä vielä yleistasolla olevana ajatuksena.
+<P>
+Tässä tapauksessa kysymys on erittäin arvokkaasta parlamentaarisesta menettelystä, jossa ei pyritä mukauttamaan säädöksiä vallitsevaan todellisuuteen sellaisena kuin sen näemme. Sen sijaan tässä yritetään ensin luoda todellisuus. Tavallaan tämä on siis eräänlainen koe, eikä kokeen tuloksia voida koskaan ennustaa sen alkuvaiheessa. Tästä syystä kannatan kaikkia niitä kommentteja, jotka liittyvät tarkistusten vähentämiseen minimiin. Tässä vaiheessa ei ole sopivaa antaa säännöksiä asiasta, jonka luonne selkenee vasta käytännössä.
+<P>
+Vaikka eCall-järjestelmä onkin erityisen arvokas aloite, tiedostan täysin, että myös tämän viestintäketjun toisen renkaan on toimittava oikein, jotta aloitetta voitaisiin hyödyntää täysipainoisesti. Tarkoitan ensiapupalveluja. Ymmärrän, ettemme käsittele nyt niitä, mutta kun ajattelen Puolan ensiapupalvelujen puutteita, olen todella huolissani.
+<P>
+Näyttää kuitenkin siltä, että mikäli parlamentti hyväksyy eCall-ajatuksen, se voi kannustaa merkittävällä tavalla ensiapupalveluja niin Puolassa kuin muuallakin. Meidän on otettava tämä haaste vastaan, sillä panoksena on korvaamaton asia. Panoksena on ihmiselämä. Meidän on tuettava toimenpiteitä, joilla pyritään pelastamaan ihmishenkiä, ja on täysin selvää, että eCall-järjestelmän käyttöönotto on tällainen toimenpide. 
+<SPEAKER ID="25" LANGUAGE="PT" NAME="Emanuel Jardim Fernandes (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, ensiksi haluan todeta suhtautuvani myönteisesti komission aloitteeseen ja onnitella jäsen Titleyä hänen erinomaisesta mietinnöstään ja siitä dynamiikasta, jota hän toi valiokuntakeskusteluihin. On tullut aika asettaa tieliikenneturvallisuus taas etusijalle, sillä 42 000 ihmistä menettää vuosittain henkensä tieliikenteessä, kuten aiemmin mainittiin, ja tämä luku on saatava pienemmäksi.
+<P>
+Järjestelmän käyttöönotto takaa nopeamman avunsaannin onnettomuustapauksissa ja saattaa auttaa vähentämään onnettomuuksien ja liikennekuolemien määrää puoleen. Tämä on myös tavoite, jonka pitäisi olla yhteinen koko EU:lle ja kaikille jäsenvaltioille, varsinkin kotimaalleni, jonka on pyrittävä täyttämään velvollisuutensa nopeammin.
+<P>
+Tältä osin totean, että komission lausunnossa viitataan tutkimuksiin, jotka jäsenvaltioiden olisi toteutettava. Toivottavasti Portugalin, Espanjan ja Ranskan syrjäisimpien alueiden mainitsematta jättäminen ei tarkoita, että järjestelmän täytäntöönpanoa on lykätty näillä alueilla, joilla syntyy eniten pysyviä vammoja. Mielestäni järjestelmä olisi pantava täytäntöön koko EU:ssa ja siksi myös näillä alueilla.
+<P>
+Toinen keskusteluissa ilmi tullut seikka oli yksityisyyttä koskevan oikeuden säilyttäminen. Lisäksi mietinnössä on mielestäni tuotu tieliikenneturvallisuuteen uusi ulottuvuus, nimittäin onnettomuuksien ehkäiseminen sekä onnettomuuksien uhreille tarkoitettujen sellaisten infrastruktuurien ja laitteiden parantaminen ja kehittäminen, joiden avulla voidaan tarjota tärkeää apua ajoneuvo-onnettomuuksissa loukkaantuneille.
+<P>
+Näin ollen aloite on ehdottomasti sekä EU:n että jäsenvaltioiden edun mukainen. 
+<SPEAKER ID="26" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisa komission jäsen, on tehty monia aloitteita, jotka koskevat turvallista ja älykästä liikennettä ja joilla pyritään täyttämään Euroopan unionin tavoite vähentää tieliikennekuolemien määrä puoleen vuoteen 2010 mennessä. Tämä on päätavoitteemme.
+<P>
+Käytettävissämme on yhä enemmän teknisiä resursseja, joilla pystytään pelastamaan ihmishenkiä ja vähentämään vakavia vammoja. Tästä ovat esimerkkeinä tekniikassa, järjestelmissä, palveluissa ja turvallisuudessa tapahtunut huomattava edistyminen, Galileo-järjestelmän kehittämisen tarjoamista mahdollisuuksista puhumattakaan. Tässä keskustelussa ja sen jälkeen toimitettavassa äänestyksessä tehtävämme on antaa voimakas sysäys eCall-järjestelmän kehittämiselle ja sen käyttöönotolle kaikkialla Euroopan unionissa vuoteen 2009 mennessä.
+<P>
+Mielestäni on ehdottoman tärkeää tukea tätä järjestelmää, sillä onnettomuuksien vaikutuksia on lievennettävä ja uhreja on autettava. Jos onnettomuuspaikat voidaan löytää nopeasti, pelastusyksiköiden, poliisin ja hinauspalvelun saapumisaikaa voidaan selkeästi lyhentää. Järjestelmän avulla voidaan pelastaa tuhansia ihmishenkiä vuodessa ja auttaa vähentämään huomattavasti sekä vammojen vakavuutta että onnettomuuksista aiheutuvia kustannuksia.
+<P>
+Tähän eCall-hankkeeseen on suhtauduttava myönteisesti, ja se ansaitsee parlamentin tuen. Arvoisa puhemies ja arvoisa komission jäsen, tämä ei kuitenkaan riitä. Tällaisen aloitteen onnistuminen riippuu monien julkisten ja yksityisten organisaatioiden, mukaan lukien autoteollisuuden, teleoperaattoreiden, välinetoimittajien, moottoriteiden ylläpitäjien sekä vakuutusyhtiöiden, välisestä kilpailusta.
+<P>
+Kaikki sidosryhmät ovat suhtautuneet aloitteeseen erittäin myönteisesti. Sen vuoksi on tärkeää, että jäsenvaltiot, jotka eivät vielä ole allekirjoittaneet eCall-järjestelmän käyttöönottoa koskevaa yhteistoimintamuistiota, tekevät sen viipymättä. Silloin tämä hanke, jonka tarkoituksena on parantaa ja tehostaa tieliikenneturvallisuutta, on käyttökelpoisempi.
+<P>
+Kysymys on ennemminkin investoinnista kuin kustannuksista. Tähän haluan vedota. Haluan kiittää komissiota sen tekemästä aloitteesta ja jäsen Titleyä hänen erinomaisesta mietinnöstään. 
+<SPEAKER ID="27" LANGUAGE="NL" NAME="Corien Wortmann-Kool (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, on tärkeää tehdä Euroopan yhteisössä eCall-hanketta koskevia sopimuksia, sillä vain standardoitu järjestelmä voi taata avunsaannin ulkomailla tapahtuvissa onnettomuuksissa. Tämä on erittäin tärkeää, kun otetaan huomioon, että kansainvälinen liikenne kasvaa jatkuvasti.
+<P>
+Hätänumeron 112 lisäksi myös eCall-järjestelmällä voidaan vähentää huomattavasti Euroopan unionissa tapahtuvien liikennekuolemien määrää. Tämä kuitenkin edellyttää, että jäsenvaltiot nopeuttavat järjestelmän käyttöönottoa. Tämä pitää paikkansa 112-järjestelmän osalta, mutta se pitää ehdottomasti paikkansa myös eCall-järjestelmän osalta, kuten kollegani ovat jo todenneet. Onneksi Alankomaat voidaan mainita tässä yhteydessä hyvänä esimerkkinä, sillä se kiirehtii järjestelmän käyttöönottoa. Näin pitäisi kuitenkin tapahtua kaikkialla Euroopan unionissa.
+<P>
+Järjestelmän käyttöönotto ei saisi olla kallista onnistuakseen. Kustannuksia voidaan leikata hyödyntämällä käytettävissä olevaa tekniikkaa parhaalla mahdollisella tavalla. Tällä ei saa kuitenkaan vaarantaa ensiaputoimintoja.
+<P>
+Tämän vuoksi parlamentti on mielestäni menettämässä mahdollisuuden, koska se ei yksiselitteisesti tunnusta, että tarvitaan niin sanottua avointa järjestelmärakennetta, jonka avulla jokainen autonkuljettaja voi soittaa muun muassa tiepalveluun eCall-tekniikkaa apuna käyttäen. Palveluntarjoajat voisivat silloin maksaa teknisen infrastruktuurin käytöstä, ja näin kustannuksia voitaisiin jakaa paremmin. Toivon vilpittömästi, että jäsenvaltiot suostuvat käyttämään monia eri tekniikoita, tietenkin edellyttäen ettei tämä tapahdu turvallisuuden kustannuksella.
+<P>
+Olen tyytyväinen siihen, että parlamentti kehottaa yhtenäisesti jäsenvaltioita panemaan töpinäksi, ja me parlamentin jäsenet seuraamme tiiviisti asian edistymistä tulevaisuudessa. 
+<SPEAKER ID="28" LANGUAGE="HU" NAME="Etelka Barsi-Pataky (PPE-DE ). –" AFFILIATION="">
+<P>
+   Yksi liikennealan suurimmista haasteista on älykkäiden liikennejärjestelmien käytön mahdollisimman tehokas laajentaminen. Yksi näistä järjestelmistä on pitkälle kehitetty GPS-hätäpuhelujärjestelmä. Tämä tekniikka edustaa ensimmäistä edistysaskelta kohti älykkäitä ajoneuvoja eli turvallisempia ajoneuvoja ja näin ollen myös turvallisempaa liikennettä. Kiitän komission jäsentä Redingiä, ja toivomme, että tulevaisuudessa käytämme älykkäitä liikennejärjestelmiä yhä useammalla alalla.
+<P>
+GPS-satelliittipaikannusjärjestelmä mahdollistaa hätäpuhelut jopa ilman ihmisen toimintaa. Eurooppalainen GPS-järjestelmä Galileo edustaa jo kuitenkin seuraavaa sukupolvea ja tarjoaa enemmän toimintoja kuin nykyinen järjestelmä, sillä se varmistaa vuorovaikutteisen viestinnän. Euroopan laajimman uuden virtuaalisen infrastruktuurin Galileon käyttöönotto alkaa vuonna 2010.
+<P>
+Ehdotin, että hätäpuhelujärjestelmän käyttöönotto sovitettaisiin yhteen Galileo-järjestelmän käyttöönoton kanssa, ja liikenne- ja matkailuvaliokunta kannatti ehdotustani. Esitän saman pyynnön parlamentille. Tämä tietenkin käy kalliiksi, kuten mikä tahansa muu uusi tekniikka. Tästä syystä on erittäin tärkeää, että järjestelmä otetaan käyttöön asteittain. On myös kehitettävä toimenpiteitä, joilla tätä prosessia voidaan nopeuttaa ja edistää. Emme voi myöskään jättää huomiotta sitä luonnollista kannustinta, jonka vakuutusyhtiöt voivat tarjota alentamalla vakuutusmaksuja niiltä, jotka asennuttavat tämän älykkään hätäpuhelujärjestelmän autoihinsa. Liikenne- ja matkailuvaliokunta kannatti myös tätä ehdotusta.
+<P>
+Lopuksi mielestäni on välttämätöntä tutkia jäsenvaltioidemme kokemuksia yhteisen eurooppalaisen hätänumeron 112:n käyttöönotosta. Siitä, mitä voimme oppia näistä kokemuksista, on erittäin suurta hyötyä myös älykkään hätäpuhelujärjestelmän käyttöönotossa. 
+<SPEAKER ID="29" LANGUAGE="EN" NAME="Viviane Reding," AFFILIATION="komission jäsen">
+<P>
+   . Arvoisa puhemies, haluan jälleen kerran kiittää esittelijää ja erityisesti Euroopan parlamentin poliittisia ryhmiä, jotka yhdessä ja lähes yksimielisesti ovat sitä mieltä, että eCall on Euroopan unionin kansalaisten etujen mukainen tärkeä edistysaskel.
+<P>
+Tällä parlamentin vahvalla tuella komissio jatkaa ponnistelujaan Euroopan laajuisen eCall-järjestelmän käyttöön ottamiseksi vuoteen 2009 mennessä. Pyrimme erityisesti saamaan lisää allekirjoituksia eCall-järjestelmää koskevaan yhteistoimintamuistoon ja seuraamme myös, miten hätänumeroon 112 liittyvän asianmukaisen pelastuspalveluinfrastruktuurin täytäntöönpanossa edistytään. Olen muuten aloittanut 11 rikkomismenettelyä jäsenvaltioita vastaan, sillä näiden on pantava kyseinen järjestelmä täytäntöön. Parlamentti on oikeassa: pankaamme se täytäntöön välittömästi ja oikealla tavalla, niin että se palvelee kansalaisiamme.
+<P>
+Teen myös väsymättä työtä kaikkien muiden sidosryhmien kanssa, joiden sitoutuminen on tärkeää eCall-järjestelmän toteutumisen kannalta, ja haluan kertoa parlamentille, että 18. lokakuuta 2005 kutsuin kaikki jäsenvaltiot korkean tason kokoukseen keskustelemaan hankkeen edistymisestä ja saadakseni ne sitoutumaan entistä vahvemmin eCall-järjestelmän täytäntöönpanoon Euroopan laajuisena autoihin asennettavana ja 112-numeroon perustuvana hätäpuhelupalveluna. Kokoukseen osallistui 21 jäsenvaltiota sekä Norja, ja maiden edustajat kannattivat yksimielisesti autoihin asennettavan hätäpuhelujärjestelmän toteuttamista sekä autoteollisuuden laatimaa etenemissuunnitelmaa. Kokouksen jälkeen yksikköni on ollut jatkuvassa yhteydessä jäsenvaltioihin, ja useita eCall-järjestelmää koskevia kokouksia on pidetty jäsenvaltioissa: Helsingissä, Lissabonissa, Budapestissa, Madridissa ja muissa kaupungeissa. Näin ollen asioissa päästään eteenpäin. Olen varma, että parlamentin tämänpäiväinen toiminta vaikutta ratkaisevasti hankkeen vauhdittamiseen.
+<P>
+Käynnistämme myös Eurobarometri-kyselyn kerätäksemme kansalaisten näkemyksiä hätänumerosta 112, eCall-järjestelmästä ja muista vastaavista kysymyksistä. Toimitan kyselyn tulokset teille myöhemmin tänä vuonna heti, kun ne ovat saatavana.
+<P>
+Vaikka puhunkin kaikista sidosryhmistä, haluaisin mainita lyhyesti vakuutusalan. Sen edustajat totesivat, ettei ole minkäänlaisia pitäviä todisteita, jotka tukisivat näkemystä, että vakuutusyhtiöt hyötyisivät jollain tavoin eCall-järjestelmästä. Haluan muistuttaa vakuutusalaa siitä, että eCall-järjestelmässä ei ole kyse rahallisen voiton tavoittelusta vaan ihmishenkien pelastamisesta, ja toivon, että vakuutusyhtiöt tarkistavat kantaansa sen jälkeen, kun tätä tärkeä asiaa koskeva äänestys on toimitettu parlamentissa.
+<P>
+Haluan sanoa muutaman sanan myös standardoinnista. Tiedonsiirtoprotokollan ja signaalien standardointia tarvitaan kipeästi, jotta suunnittelutyössä ja investoinneissa päästään eteenpäin, ja tässä kohtaa kaupalliset intressit eivät saisi estää standardointielinten työtä. Olemme nyt täysin yksimielisiä eCall-järjestelmän eritelmistä ja toiminnoista, ja haluaisin kehottaa kaikkia sidosryhmiä ja varsinkin teleoperaattoreita tukemaan ETSIn ja CENin tekemää asianmukaista standardointityötä, jotta työ saadaan päätökseen mahdollisimman pian.
+<P>
+Haluan esittää vielä sydämelliset kiitokset esittelijälle sekä kaikkia poliittisia ryhmiä edustaville parlamentin jäsenille, jotka auttavat meitä nyt ja myöhemmin tekemään eCallista erittäin tärkeän eurooppalaisen hankkeen. Tässä tarvitaan kaikkien eurooppalaisten sidosryhmien tukea. Olemme tänään saavuttaneet tärkeän rajapyykin. 
+<SPEAKER ID="30" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<P>
+ – Keskustelu on päättynyt. Äänestys toimitetaan tänään klo 11.00. 
+<SPEAKER ID="31" LANGUAGE="IT" NAME="Francesco Musotto (PPE-DE ). –" AFFILIATION="">
+<P>
+   Tieliikenneturvallisuus koskee suoraan kaikkia Euroopan unionin kansalaisia. Lisääntyneellä liikkuvuudella on kallis hinta: joka vuosi 1 300 000 onnettomuudessa kuolee yli 40 000 ja loukkaantuu 1 700 000 ihmistä.
+<P>
+Erityisesti Italiassa joka toinen liikkuu paikasta toiseen omalla autollaan. Päivittäin 26 miljoonaa italialaista lähtee kotoaan kohti työpaikkaa tai koulua. Liikenne maksaa Italian kansantaloudelle yli 4 miljardia euroa vuodessa, joka on keskimäärin 200 euroa perhettä kohti. Italialaiset ovat sankoin joukoin hylkäämässä julkisia liikennevälineitä: vuonna 1991 niitä käytti 17 prosenttia mutta vuonna 2001 vain 12,9 prosenttia väestöstä. Roomassa jokaista 10:tä asukasta kohti on 7 autoa, mikä on ehdottomasti eniten koko Euroopassa.
+<P>
+Tästä syystä kotimaassani tiedostetaan tieliikenneturvallisuuteen ja onnettomuuksien aiheuttamiin liikenneruuhkiin liittyvät ongelmat. EU on asettanut itselleen tavoitteeksi vähentää liikenneonnettomuuksien uhrien määrän puoleen vuoteen 2010 mennessä. Kyseisen eCall-järjestelmän avulla voitaisiin pelasta jopa 2 500 ihmishenkeä vuodessa, vähentää liikenneruuhkien määrää ja auttaa tehostamaan Euroopan unionin tieliikennettä vähentämällä sen ulkoisia kustannuksia, joiden arvioidaan olevan 4 miljardia euroa Euroopan unionissa ja joiden osuus on noin 2 prosenttia Italian bruttokansantuotteesta. 
+<SPEAKER ID="32" LANGUAGE="" NAME="Puhemies. –" AFFILIATION="">
+<P>
+   Esityslistalla on seuraavana Mavrommatisin laatima kulttuuri- ja koulutusvaliokunnan mietintö (A6-0074/2006) toimenpiteistä monikielisyyden ja kielten oppimisen edistämiseksi Euroopan unionissa: eurooppalainen kielitaitoindikaattori (2005/2213(INI)). 
+<SPEAKER ID="33" LANGUAGE="EL" NAME="Manolis Mavrommatis (PPE-DE )," AFFILIATION="">
+<P>
+   Arvoisa puhemies, arvoisa komission jäsen, hyvät kollegat, monikielisyys on varsinkin nyt laajentuneessa Euroopan unionissa tärkeämpi kuin koskaan aikaisemmin. On tärkeää, että Euroopan kansalaisilla on tarvittava osaaminen ja taito viestiä tehokkaasti ja helpottaa näin keskinäistä ymmärtämystä. Pelkästään yhden yleisesti puhutun kielen, "lingua francan", oppiminen ei riitä, eikä se heijasta Euroopan todellista identiteettiä.
+<P>
+Komission meille toimittama ehdotus on jatkoa Barcelonan Eurooppa-neuvoston maaliskuussa vuonna 2002 tekemälle päätökselle, jossa valtioiden ja hallitusten päämiehet vaativat parannusta perustaitojen hallintaan siten, että lapsille opetetaan ainakin kahta vierasta kieltä jo hyvin varhaisessa iässä. He vaativat myös yhteistä kielitaitoa osoittavaa indikaattoria, toisin sanoen kielitaitotestiä, jolla mitataan objektiivisesti kansalaisten vieraiden kielten osaamista. Kolme vuotta myöhemmin komissio ehdottaa eurooppalaisen kielitaitoindikaattorin luomista. Se olisi yhteinen kaikille jäsenvaltioille, ja sen tarkkuus ja luotettavuus olisivat korkeaa tasoa. Indikaattorin tarkoituksena on mitata Euroopan unionin kansalaisten vieraiden kielten taitoa neljällä osa-alueella: lukemisessa, kuullun ymmärtämisessä, puhumisessa ja kirjoittamisessa. Indikaattorin on tarkoitus ilmaista kielitaitoa Euroopan neuvoston yhteisen eurooppalaisen kieliviitekehyksen mukaisella kuudella asteikkotasolla. Tämä asteikko on jo laajalti hyväksytty ja käytössä useissa jäsenvaltioissa.
+<P>
+Olen komission kanssa samaa mieltä siitä, että alkuvaiheessa vieraiden kielten osaamista pitäisi testata koko Euroopan unionissa yleisimmin opetettavassa viidessä kielessä. Määrärahat määrittävät sen, voidaanko puola ottaa alkuvaiheessa kuudenneksi kieleksi. Tällä viikolla julkaistu Eurobarometri-tutkimus osoittaa, että Euroopan unionissa englanti (38 prosenttia), ranska (14 prosenttia), saksa (myös 14 prosenttia), espanja (6 prosenttia) ja italia (3 prosenttia) ovat viisi suosituinta kieltä, joita Euroopan unionin kansalaiset haluavat oppia.
+<P>
+Korostan kuitenkin, että seuraavassa vaiheessa on tärkeää ulottaa tämä testi koskemaan muitakin Euroopan unionin kieliä. Haluaisin kuitenkin todeta, ettei indikaattoria sovelleta niihin kieliin, jotka eivät ole yhteisön virallisia kieliä, vähemmistökieliin eikä alueellisiin murteisiin. Ne voidaan kuitenkin sisällyttää monikielisyyttä koskevaan strategiaan, jota käsittelevää mietintöä parlamentti parhaillaan laatii ja jonka sisältöön ne sopivat paremmin. Tästä syystä en kannata tarkistuksia 1 ja 2, sillä ne eivät liity käsiteltävänä olevaan mietintöön. Ne eivät myöskään lisää testin yhdenmukaisuutta eivätkä ne ole sopusoinnussa kielitaitoindikaattorin tavoitteiden kanssa. Kielitaitoindikaattori on vain tekninen väline, jota rahoitetaan olemassa olevasta ohjelmasta, nimittäin elinikäistä oppimista koskevasta ohjelmasta, jonka päätavoitteena on lisätä huomattavasti kansalaisten, työntekijöiden ja opiskelijoiden liikkuvuutta Euroopan unionissa.
+<P>
+On myös syytä todeta, että uusimpien tilastojen mukaan tarjolla oleva kielivalikoima supistuu, vaikka vierasta kieltä opettelevien ala-asteen oppilaiden prosenttiosuus onkin kasvussa. Monissa maissa vieraan kielen opetteleminen tarkoittaa yksinkertaisesti englannin opettelua. Indikaattorin avulla voidaan myös tehdä poliittisia päätelmiä yhteisössä ja jäsenvaltioissa.
+<P>
+Vaikka komissio onkin mukana prosessissa, jäsenvaltioiden on osallistuttava aktiivisesti indikaattorin täytäntöönpanoon ja kehittämiseen, sillä vain ne voivat antaa tietoja erilaisista kielitaitoon vaikuttavista tekijöistä, esimerkiksi television ja kotiympäristön kielistä, kielenopetustuntien määrästä ja opettajien kokemuksesta.
+<P>
+Laajasti ottaen eurooppalaisen kielitaitoindikaattorin katsotaan olevan erittäin arvokas väline, jolla voidaan saada luotettavaa tietoa EU:n kansalaisten ja erityisesti nuorten kielitaidosta sekä vertailla jäsenvaltioiden toimintaa tällä alla. Sen avulla myös helpotetaan parhaiden käytäntöjen tunnistamista ja vaihtoa ja annetaan näin uutta pontta kieltenopetukselle.
+<P>
+Arvoisa puhemies, arvoisa komission jäsen, Euroopan unionissa asuvan, opiskelevan, työskentelevän ja yleensä liikkuvan tyypillisen Euroopan kansalaisen perustaitoihin pitäisi kuulua vähintään kahden vieraan kielen hallitseminen. On myös muistettava, että vuosi 2006 on Euroopan työntekijöiden liikkuvuuden teemavuosi, ja olen sitä mieltä, että tämä tarjoaa meille hyvin tärkeän mahdollisuuden korostaa Euroopan kansalaisten taitojen merkitystä. Teemavuosi kannustaa myös nuoria arvostamaan enemmän kielten oppimista ja kiinnittämään siihen enemmän huomiota.
+<P>
+Odotamme hyvin kiinnostuneina neuvoston 18. toukokuuta tekemiä kielitaitoindikaattoria koskevia päätöksiä. Toivon, että neuvosto antaa myönteisen vastauksen ja ymmärtää velvollisuutensa ottaa huomioon sekä muuttujat että kaikkien Euroopan parlamentin toimien arvioinnin.
+<P>
+Lopuksi haluan vielä mainita, että parlamentti itse on elävä esimerkki monikielisyydestä ja sen merkityksestä. Tarkoitan tulkkeja, joiden ansiosta Euroopan parlamentti on ainoa toimielin, jolla on 20 työkieltä. Näin pystymme tuomaan työtämme lähemmäs kansalaisia ja tehostamaan viestintäämme, ja kiitän heitä siitä. 
+<SPEAKER ID="34" LANGUAGE="EN" NAME="Ján Figeľ," AFFILIATION="komission jäsen">
+<P>
+   . Arvoisa puhemies, olen erittäin kiitollinen tästä mietinnöstä ja kiitän esittelijä Mavrommatisia hänen antamastaan panoksesta sekä hänen kommenteistaan ja erityisesti siitä työstä ja siitä hengestä, joka näkyy tässä mietinnössä.
+<P>
+Olen varma, että monimuotoisuus ja yhtenäisyys ovat paras perusta laajentuneelle Euroopan unionille 2000-luvulla, ja monikielisyys edustaa ja lujittaa entisestään tätä monimuotoisuutta.
+<P>
+Tulin juuri ensimmäisestä EU:n vähemmistökieliä ja alueellisia kieliä käsittelevästä konferenssista, joka pidettiin Centre Borschettessa. Mielestämme juuri monimuotoisuus on Euroopan unionin erityispiirre, ja kulttuuria ja kieltä ajatellen sitä on suojeltava ja edistettävä. Uusi monikielisyyden puitestrategia, joka hyväksyttiin marraskuussa 2005, on ensimmäinen monikielisyyttä koskeva toimenpide. Eurooppalainen kielitaitoindikaattori on erittäin tärkeä väline, jolla voidaan saada todellista edistystä aikaan monikielisyyden alalla. Tämä tarkoittaa kieltenopetusta, kielten oppimista ja viestintää EU:n eri kieliyhteisöjen välillä.
+<P>
+Jäsen Mavrommatis kehotti komissiota edistämään kielten oppimista varhaisessa iässä. Tällä hetkellä rahoitamme tutkimusta, joka koskee parhaita käytäntöjä varhaisessa kielten oppimisessa, ja tiedonannossa jäsenvaltioita kehotetaan tarkistamaan varhaisessa iässä tapahtuvaa kielten oppimista koskevia järjestelyjään koko EU:n parhaiden käytäntöjen mukaisesti. Kuten aivan oikein huomautitte, asia kuuluu jäsenvaltioiden toimivaltaan, ja siksi jäsenvaltioiden on oltava entistäkin aktiivisempia.
+<P>
+Panen myös merkille tiedottamistoiminnan muun muassa Euroopan kielten teemapäivän ja kielihankkeille myönnettävän eurooppalaisen laatuleiman kaltaisten aloitteiden avulla. Kannatamme vahvasti tällaista ruohonjuuritason toimintaa.
+<P>
+Seuraavaksi aiomme perustaa monikielisyyttä käsittelevän korkean tason työryhmän, jonka tehtävänä on kehittää alaa koskevia ideoita ja aloitteita. Korkean tason työryhmä aloittaa työnsä ennen kesää. Komission marraskuussa antaman tiedonannon nojalla jäsenvaltioiden toimittamien raporttien ja korkean tason työryhmän neuvojen perusteella aion esittää ensi vuonna parlamentille ja neuvostolle uuden tiedonannon, jossa ehdotetaan Euroopan unionin monikielisyyttä koskevaa kattavaa lähestymistapaa. Aiomme järjestää ensi vuonna myös monikielisyyttä käsittelevän ministerikokouksen, jotta voimme keskustella jäsenvaltioissa tapahtuneesta edistyksestä ja suunnitella tulevaa työtä.
+<P>
+Kielitaitoindikaattorilla on tässä hyvin tärkeä merkitys. Koska ei ole olemassa standardoitua tutkimusta, jolla voidaan mitata kielitaitoa kaikkialla Euroopan unionissa, on tärkeää saada tarkkaa ja ajantasaista tietoa vieraiden kielten opetuksen tehokkuudesta. Indikaattori osoittaa vieraiden kielten osaamisen yleisen tason. Tällaisella välineellä voimme parantaa huomattavasti vieraiden kielten opettamista ja oppimista ja tietenkin myös lisätä opiskelijoiden ja työntekijöiden liikkuvuutta Euroopan unionissa.
+<P>
+Lopuksi haluan toistaa kiitokseni esittelijälle sekä kulttuuri- ja koulutusvaliokunnalle ja sen puheenjohtajalle Sifunakisille siitä arvokkaasta ja jatkuvasta tuesta, jota he ovat antaneet ohjelmillemme ja toimillemme. Tämä monikielisyyttä koskeva mietintö osoittaa selvästi, miten parlamentti voi auttaa komissiota ja neuvostoa noudattamaan yhteistä sitoumustamme monimuotoisuuden edistämiseksi. 
+<SPEAKER ID="35" LANGUAGE="ES" NAME="Maria Badia i Cutchet," AFFILIATION="PSE-ryhmän puolesta">
+<P>
+   . – Arvoisa puhemies, arvoisa komission jäsen, aluksi haluaisin onnitella jäsen Mavrommatisia hänen mietinnöstään sekä komissiota siitä, että se on noudattanut Barcelonan Eurooppa-neuvoston vuonna 2002 tekemää päätöstä.
+<P>
+Olen vakuuttunut, että Euroopan yhdentymisprosessin onnistumisen ja Euroopan kansalaisuuden edistämisen kannalta on ratkaisevaa, että kansalaiset osaavat äidinkielensä lisäksi myös muita eurooppalaisia kieliä. Pidän tätä myönteisenä myös Euroopan unionin sisäisen liikkuvuuden kannalta.
+<P>
+Meillä ei tällä hetkellä ole käytettävissämme tietoja EU:n kansalaisten todellisista kieli- ja viestintätaidoista, vaikka tiedämmekin, että niissä on jäsenvaltioiden välillä suuria eroja. Olen siis sitä mieltä, että eurooppalainen kielitaitoindikaattori voi kannustaa tehokkaasti jäsenvaltioita parantamaan ja yhdentämään vieraiden kielten oppimista koskevia toimenpiteitään.
+<P>
+Järjestelmän avulla voidaan parantaa Euroopan kansalaisten viestintää ja keskinäistä ymmärrystä, ja se johtaa myös vieraiden kielten opetuksen laadun paranemiseen eurooppalaisissa koulutusjärjestelmissä. Tällä tavoin sillä voidaan edistää Lissabonin tavoitteiden saavuttamista. Indikaattori vauhdittaa hyvien käytäntöjen vaihtoa ja tuntemusta jäsenvaltioiden välillä, ja se on myös luotettava järjestelmä, jolla voidaan mitata edistymistä viiden unionissa useimmin opetettavan kielen oppimisessa. Nämä kielet ovat englanti, ranska, saksa, espanja ja italia.
+<P>
+Vaikka alkuvaiheeseen onkin valittu nämä viisi kieltä, ei se saisi heikentää muiden eurooppalaisten kielten asemaa, vaan tämän olisi koskettava vain prosessin alkuvaihetta. Tarkoitus ei ole tietenkään sulkea pois mahdollisuutta ottaa muita kieliä mukaan myöhemmissä vaiheissa. Erityisesti niiden tarkistusten ansiosta, joita olemme työstäneet esittelijän kanssa yhteistyössä, mietinnössä jätetään avoimeksi mahdollisuus arvioida myöhemmin muitakin EU:n virallisia kieliä aiheuttamatta kuitenkaan haittaa niiden kielten opetukselle, joita ei arvioida indikaattorin avulla.
+<P>
+Ennen kuin päätän puheenvuoroni, haluan tehdä selväksi seuraavan asian. Tämä mietintö ei ole oikea paikka käsitellä vähemmistökielten tai muiden sellaisten kielten asemaa, jotka eivät ole EU:n virallisia kieliä, vaan sen tarkoituksena on parantaa kansalaisten kielitaitoa, kieltenopetuksen laatua ja Euroopan unionin virallisten kielten oppimisjärjestelmiä. Tästäkään huolimatta mietintö ei saisi millään tavoin haitata niiden kielten tunnustamista ja suojelua, jotka eivät ole EU:n virallisia kieliä mutta jotka ovat virallisia joissakin jäsenvaltioissa.
+<P>
+Lopuksi haluan todeta, että olen tekstiin tyytyväinen, koska se merkitsee tärkeää edistysaskelta kohti lähempänä kansalaisiaan olevaa Euroopan unionia. Lisäksi se merkitsee erittäin hyviä koulutuksen parantamista koskevia uutisia Euroopan unionissa. 
+<SPEAKER ID="36" LANGUAGE="FR" NAME="Erna Hennicot-Schoepges," AFFILIATION="PPE-DE-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, aluksi haluan onnitella esittelijää hänen erinomaisesta työstään.
+<P>
+Kuten tiedätte, kotimaani Luxemburg puoltaa monikielisyyttä todennäköisesti useammastakin syystä. Se on itse asiassa maa, joka ei vaadi kansallisen kielensä luxemburgin käyttöä ja jossa ihmiset puhuvat epäröimättä saksaa, ranskaa ja englantia. Luxemburg varoo toimissaan korostamasta liikaa oman kielensä asemaa.
+<P>
+Tavallaan monikielisyys on paras keino edistää Euroopan unionin yhtenäisyyttä; se on paras keino edistää keskinäistä ymmärrystä. Monikielisyys on myös merkki monimuotoisuudesta, ja meidän on oltava huolissamme pienillä alueilla puhuttavien kielten katoamisesta. Meidän on varmistettava, että niillä kielillä, joita vielä puhutaan, on keinoja selviytyä, vaikka se merkitsisikin niiden käyttämistä monikielisessä ympäristössä. Muuten emme pysty ymmärtämään toisiamme. Komission toimet, joilla pyritään edistämään naapurimaiden kielten oppimista, ovat erittäin myönteisiä. Näin meidän on sekä tuettava puhuttuja kieliä että ryhdyttävä toimiin ymmärtääksemme toisiamme.
+<P>
+Arvoisa puhemies, en salaa teiltä sitä, että olen jonkin verran huolissani Euroopan unionin koulujen tulevaisuudesta. Tiedämme, että virkamiehiämme, joiden määrää kasvaa koko ajan, pyydetään usein muuttamaan; lisäksi vietämme työntekijöiden liikkuvuuden teemavuotta. Tämän vuoksi meidän olisi taattava koulujärjestelmä kaikissa jäsenvaltioissa sekä lisättävä erityisesti mahdollisuuksia monikielisyyteen. 
+<SPEAKER ID="37" LANGUAGE="SV" NAME="Henrik Lax," AFFILIATION="ALDE-ryhmän puolesta.">
+<P>
+   Arvoisa puhemies, arvoisa komission jäsen, arvoisat esittelijät, hyvät kollegat, edellisten puhujien tavoin haluan korostaa, miten suuri merkitys alueellisilla ja kansallisilla vähemmistöillä on tässä yhteydessä. Jokainen henkilön oppima kieli laajentaa hänen kulttuurista ulottuvuuttaan. Suomalaisena on suuri rikkaus voida lukea koko Skandinavian alueen sanomalehtiä. Näin voimme nykyisin tehdä Suomessa ruotsin kielen opetuksen ansiosta. Jos osaisimme vain suurimpia kieliä, emme pystyisi lukemaan skandinaavisia kieliä. Suomessa ruotsi on sekä äidinkieli että naapurimaan kieli.
+<P>
+Suurimmat kielet ovat tärkeitä ja tulevat aina sitä olemaankin, ja on hyvä, että monet osaavat niitä. Tästä huolimatta EU:n strategiassa ei voida keskittyä esimerkiksi vain viiteen suurimpaan kieleen tai vain EU:n virallisiin kieliin. Pohjoismaissa ja Itämeren alueella on hyvä osata esimerkiksi ruotsia, venäjää tai suomea. Näiden kielten osaamattomuus sekä etäännyttää ihmisiä toisistaan että luo eriarvoisuutta taloudellisiin oloihin. Tällä hetkellä Itämeren alue on EU:n nopeimmin kasvava alue.
+<P>
+Euroopan unionin vakauden kannalta on myös erittäin tärkeää kunnioittaa heitä, jotka puhuvat vähemmistökieltä tai alueellista kieltä. Monikielisissä yhteiskunnissa asuville on vain luonnollista, ettei EU:n monikielisyyttä koskevaa strategiaa saa rajoittaa vain muutamaan kieleen. Tästä syystä kannatan vahvasti jäsen Resetaritsin ehdotusta siitä, että naapurimaiden kielet sekä alueelliset kielet ja vähemmistökielet sisällytetään strategiaan.
+<P>
+Myös EU:n ulkopuoliset kielet ovat tärkeitä. EU:n kansalaisista 46 miljoonalla on äidinkielenään jokin muu kuin heidän kotimaansa enemmistön puhuma kieli. Heidän osuutensa on 10 prosenttia EU:n väestöstä. Olemme myös panneet merkille, että ne maat, joissa puhutaan useampaa kuin yhtä kieltä, menestyvät usein taloudellisesti muita paremmin. Myönteinen suhtautuminen monimuotoisuuteen tuottaa myös taloudellista etua. Oikoteitä ei ole. Euroopan unioni on monikulttuurinen ja monikielinen. Solidaarisuus on upea asia, mutta saavutamme sen vasta, kun pystymme kokemaan tasavertaisuutta ensinnäkin kahden maan välillä ja toiseksi myös usean erin maan kesken.
+<P>
+Kielivähemmistöt ja alueelliset vähemmistöt ovat perinteisesti puolustaneet voimakkaasti Euroopan unionia, ja ne ovat olleet valmiita oppimaan muita kieliä. Monet niistä ajetaan nyt hyvin ahtaalle. Selän kääntäminen suurelle osalle väestöstämme ei edusta kovin yleismaailmallista ajattelutapaa, eikä se ole myöskään EU:n etujen mukaista. Jäsenvaltioiden kielivähemmistöjen ja alueellisten vähemmistöjen kunnioittaminen ja vahvistaminen on tärkeää myös siksi, että sen avulla voidaan lisätä ja vahvistaa väestön luottamusta Euroopan unioniin. EU:n jäsenvaltioiden valtaväestöt haluavat nykyisin liian usein laiminlyödä alueellisia ja kansallisia kielivähemmistöjään. 
+<SPEAKER ID="38" LANGUAGE="PT" NAME="Miguel Portas," AFFILIATION="GUE/NGL-ryhmän puolesta">
+<P>
+   . – Me kaikki voimme puoltaa eurooppalaisen kielitaitoindikaattorin luomista. Tämän todettuani esittäisin muutaman huomautuksen. Komissio selittää, että "käytännön syistä" indikaattori selvitetään kirjallisten testien perusteella. Ymmärrän tämän, mutta sitä en ymmärrä, miksi samat käytännöt syyt ovat johtaneet päätökseen arvioida vain viittä unionissa yleisimmin puhuttavaa kieltä. Tällä tavoin saatu indikaattori olisi siis ristiriidassa Barcelonan huippukokouksen tavoitteiden kanssa, sillä kielivalikoimalla vahvistetaan niiden jäsenvaltioiden työskentelyn suuntaviivat, jotka haluavat saada tuloksia aikaan. Yhteistä tavoitettamme, jonka mukaan jokaisen lapsen pitäisi oppia puhumaan vähintään kahta vierasta kieltä, voidaan arvioida.
+<P>
+Arvoisa komission jäsen Figel', pankaa merkille, että indikaattori saadaan otoksen ja kirjallisten testien perusteella. Ei ole mitään käytännön syytä, miksi ihmisten ei pitäisi voida oppia mitä tahansa kieltä EU:n alueella. Jos testejä sovellettaisiin maailman eri kieliin, tulokset voisivat olla yllättäviä. Niistä voisi käydä ilmi esimerkiksi, että turkki, arabia, kiina ja venäjä ovat tärkeitä kieliä unionissa ja että maahanmuuttajien lapset ovat lähimpänä tavoitetta puhua kahta vierasta kieltä äidinkielensä lisäksi. Tämän vuoksi äänestimme Resetaritsin tarkistusten puolesta.
+<P>
+Haluaisin esittää lyhyesti toisenkin huomautuksen. Kielitaitoindikaattoria ei pitäisi sekoittaa kielitaitotodistukseen. Kielitaitotodistusten yhdenmukaistaminen ei ole kulttuuritoimenpide eikä se ole myöskään yhteiskunnallisesti neutraali toimenpide. Koska menettelyt ovat populistisia ja maahanmuuttoa koskeva yleinen mielipide on jakautunut, tällaisella toimenpiteellä saatettaisiin oikeuttaa syrjivä maahanmuuttajien valikointi, ja se vahingoittaisi unionin köyhimpiä maita. 
+<SPEAKER ID="39" LANGUAGE="EN" NAME="Thomas Wise," AFFILIATION="IND/DEM-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, monikielisyyttä olisi kannustettava ja kehitettävä. Viestintä on tarpeellinen ja voimakas väline. Huolimatta siitä, mitä EU ja monet muut huijarit yrittävät väittää, Yhdistynyt kuningaskunta on ainoa huomattava maailmanlaajuista kauppaa käyvä kansakunta. Näin ollen kansallisiin opetussuunnitelmiin – haluan korostaa sanaa "kansallisiin" – pitäisi sisältyä ne kielet, joita puhutaan laajoissa ja nopeasti laajenevissa maailmantalouksissa. Brasilian tapauksessa kyse on EU:n kielestä: portugalista. Kuitenkin mandariinin- tai kantoninkiinan, arabian, hindin tai venäjän kielen opetuksesta olisi Euroopan unionin maille paljon enemmän hyötyä kuin ahdasmielisestä keskittymisestä ainoastaan EU:n kieliin.
+<P>
+Ehdotetussa eurooppalaisessa kielitaitoindikaattorissa keskitytään vain EU:n kieliin. Näin todellinen maailma jätetään huomioimatta, mikä on EU:lle tyypillistä lyhytnäköisyyttä. Ei voida kieltää, että komissio on osittain kiinnostunut tästä kysymyksestä siksi, että monet, presidentti Chirac mukaan luettuna, pitävät vastenmielisenä sitä tosiasiaa, että liike-elämän "lingua franca" niin kaikkialla maailmassa kuin tosiaan myös Euroopan unionissa on englanti. Ihmiset nousevat puolustuskannalle, kun heidän oman kielensä asema voi olla uhattuna. Pääsyynä siihen, että komissio kampanjoi kielellisen monimuotoisuuden puolesta, ei ole mikään syvään juurtunut pelko, että kielten ja kulttuurien asema on heikkenemässä. Sen sijaan tärkeimpänä syynä on tietoisuus siitä, että komission lopullinen tavoite, Euroopan supervaltio, ei ole mahdollinen ennen kuin ihmisillä on mahdollisuus liikkua saadakseen työtä sieltä, missä sitä on tarjolla.
+<P>
+Kansallisten koulutusjärjestelmien sisältö ja organisointi on ala, jolla EU:lla ei teoriassa ole toimivaltaa, ja tässä mietinnössä tuodaan esiin miksi. Jäsenvaltioilla on erilaisia tavoitteita, erilaisia kauppayhteyksiä ja perinteitä siitäkin huolimatta, että EU pyrkii niitä näiden maiden vahingoksi muuttamaan. Juuri tästä syystä kaikkia EU:n laajuisia yhdenmukaistamisyrityksiä on vastustettava. Ehdotettu indikaattori ei tarjoa maailmankauppaa käyvälle kansakunnalle konkreettista etua vaan yksinomaan taas uuden välineen, jolla pyritään saavuttamaan Euroopan liittovaltion kauhistuttava tavoite. 
+<SPEAKER ID="40" LANGUAGE="PL" NAME="Zdzisław Zbigniew Podkański," AFFILIATION="UEN-ryhmän puolesta">
+<P>
+   . Arvoisa puhemies, kansakunnan kulttuurin, olemassaolon ja kehityksen juuret ovat sen kielessä. Kaikilla kielillä on kulttuurisen merkityksen lisäksi myös erityinen merkitys kansakunnan rakentamisessa sekä kansakunnan yhteiskunnassa ja taloudessa. Tästä syystä kielellä on tärkeä merkitys myös kanssakäymisessä viranomaisten kanssa sekä oikeudellisissa toimissa niiden laajimmassa merkityksessä.
+<P>
+Tutkimuksista käy ilmi, että lähes puolet tällä hetkellä maailman kansakuntien käyttämästä monesta tuhannesta kielestä katoaa seuraavan 100 vuoden aikana. Niiden mukana katoaa myös valtava määrä satojen vuosien aikana koottua tietoa. Niinpä yksittäiset valtiot ja kansakunnat suojelevat kieliään monenlaisilla toimilla. Joissakin maissa, esimerkiksi Saksassa, tämä on kirjattu maan perustuslakiin. Toisissa maissa, esimerkiksi Ranskassa, Puolassa ja Slovakiassa, kansalliset parlamentit ovat säätäneet asiaa koskevia lakeja.
+<P>
+Jäsen Mavrommatisin mietinnössä käsitellään yksinomaan Euroopan parlamentin päätöslauselmaesitystä toimenpiteistä monikielisyyden ja kielten oppimisen edistämiseksi Euroopan unionissa sekä kielitaidon vahvistamista. Siinä suositaan selvästi kahta tai viittä kieltä. Yksikään niistä ei ole slaavilainen kieli, vaikka yksi neljästä unionin kansalaisesta puhuu slaavilaista kieltä. Esimerkiksi puolaa puhuu yli 10 prosenttia unionin väestöstä.
+<P>
+Sen sijaan, että puhumme monikielisyydestä, meidän olisi puhuttava siitä, että kulttuurisessa valta-asemassa olevat kansakunnat rajoittavat ja syrjivät pienempiä kulttuureja. Meidän olisi puhuttava Euroopan toimielinten toiminnasta ja niissä työskentelevien virkamiesten valtuuksista sekä valmisteltava heitä tekemään työtään monikielisessä Euroopan unionissa.
+<P>
+Kielen hallinnollinen ulottuvuus on varsin erilainen kuin sen taloudellinen tai kulttuurinen ulottuvuus. Tutkimukset ja tarkastukset ovat paljastaneet, että kansallisten kielten suojelua koskevia säännöksiä rikotaan laajasti varsinkin uusissa jäsenvaltioissa. Tämä on helppo vahvistaa vierailemalla tavaratalossa ja katsomalla hyllyillä olevia tuotteita. Olisi poikkeuksellista huomata, että tuotteiden käyttöohjeet olisi käännetty. Näin järjestelmällinen monikielisyyden rajoittaminen hyödyttää vain yrittäjiä kuluttajien edun kustannuksella. Ajatustakaan ei uhrata sille, että Euroopan unioni voi vahvistua ja saada tarkoituksen olemassaololleen vain, jos siitä tulee käyttäjäystävällinen ja jos se antaa kansalaisille mahdollisuuden osoittaa kunnioitusta toisiaan ja toistensa kulttuurisia, myös kielellisiä, eroja kohtaan. 
+<SPEAKER ID="41" LANGUAGE="DE" NAME="Andreas Mölzer (NI )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, tässä verkottuneessa maailmassa ei ole muuta mahdollisuutta kuin opiskella tai hallita useampaa kuin yhtä kieltä. Olisi tietenkin käsittämätöntä, jos englannin kieli jonain päivänä syrjäytettäisiin liike-elämän ja tieteen aloilla, mutta koska saksa on noin 125 miljoonan ihmisen ensimmäinen tai toinen vieras kieli, se on yksi maailman tärkeimmistä kielistä. Koska se on myös 90 miljoonan ihmisen äidinkieli, se on myös eniten puhuttu kieli Euroopan unionissa. Sen sijaan esimerkiksi ranskaa puhuu tällä hetkellä vain 23 prosenttia unionin kansalaisista, joista vain 11 prosenttia puhuu sitä äidinkielenään.
+<P>
+On selvää, että yleisesti pyritään monikielisyyden tavoitteeseen, mutta viime aikoina on voitu havaita lisääntyvää taipumusta antaa etusija vain yhdelle kielelle. Tätä ei mielestäni voida hyväksyä, ja sitä on vastustettava. Toden sanoakseni ei ole minkäänlaisia demokraattisia perusteita sille, että EU:ssa suositaan englantia ja ranskaa. Varsinkin kun otetaan huomioon, että saksa on laajentumisen seurauksena niitä paljon tärkeämpi kieli, on mahdoton hyväksyä sitä, ettei EU piittaa pitkäaikaisista sopimuksista ja että se enemmän tai vähemmän väheksyy saksaa työkielenä.
+<P>
+On harmillista, että parlamentti on toistaiseksi ainoa toimielin, joka tekee päätöksensä avoimesti kansalaisten edessä ja asettaa ne vielä kaikkien saataville heidän omalla äidinkielellään. Virallisista työkielistä – englannista, ranskasta ja saksasta – viimeksi mainittu vetää aina lyhimmän korren.
+<P>
+Komissio joutuu kuitenkin taipumaan Saksan liittopäivien painostukseen ja on nyt käännättänyt ehdokasvaltioiden edistymistä koskevan kertomuksen. Kenties tämä antaa toiveita siitä, että saksaa käytetään enemmän Suomen puheenjohtajakaudella. 
+<SPEAKER ID="42" LANGUAGE="SL" NAME="Ljudmila Novak (PPE-DE ). –" AFFILIATION="(Suosionosoituksia)">
+<P>
+   Jokainen kansakunta on ylpeä kielestään ja haluaa säilyttää sen ja käyttää sitä myös yhdentyneessä Euroopassa. Euroopan kulttuurikuvaa rikastaa kielellinen monimuotoisuus. Oppimalla vieraita kieliä tutustumme myös kyseisen kansakunnan kulttuuriin, sen historiaan ja maahan, ja tämä lisää myös keskinäistä kunnioitusta.
+<P>
+Vieraiden kielten oppiminen on aikuisille varsin hankalaa, mutta lapsille se on enimmäkseen leikkiä. Tästä syystä olisi oikein ja asianmukaista, että kouluissa kielten opetusta annetaan jo aivan koulutuksen alkuvaiheessa. Muiden kielten osaaminen helpottaa myös ystävällisten suhteiden luomista muihin kansoihin, ja tämä on erityisen tärkeää naapurimaille, sillä yleensä juuri naapurimaittemme kanssa meillä on eniten yhteistä ja myös eniten ongelmia.
+<P>
+Tästä syystä on toisinaan käsittämätöntä, että tietyt poliitikot perustavat poliittisen valtansa siihen, että he rajoittavat vähemmistöjen oikeuksia käyttää äidinkieltään. Näin on käymässä Itävallan Kärntenin osavaltiossa ja Italiassa asuvalla slovenialaiselle vähemmistölle. Itävalta ja Slovenia tekevät tiivistä yhteistyötä monella alalla, ja olen varma, että siksi Itävallan demokraattinen kansa ei hyväksy Haiderin Slovenian-vastaisia toimia.
+<P>
+Itävalta on toiminut esimerkillisesti EU:n puheenjohtajavaltiona. Siksi haluaisin jälleen kerran kehottaa Itävallan hallitusta ja demokraattista kansaa noudattamaan Itävallan valtiosopimusta, jossa määrätään vähemmistöjen oikeuksista. Haluan kehottaa myös Italian hallitusta aloittamaan slovenialaista vähemmistöä suojelevan lain täytäntöönpanon.
+<P>
+Euroopan unionin toimielinten olisi myös puututtava aktiivisemmin vähemmistöjen oikeuksien loukkauksiin, ja niiden olisi annettava vakavia varoituksia niille maille, jotka takaavat vähemmistöjen oikeudet paperilla mutta jotka käytännössä rikkovat omia lakejaan sekä Euroopan unionin säännöksiä.
+<SPEAKER ID="43" LANGUAGE="ET" NAME="Marianne Mikko (PSE ). –" AFFILIATION="">
+<P>
+   Hyvät kollegat, minulla on ilo kiittää esittelijää tästä kipeästi kaivatusta mietinnöstä.
+<P>
+Kotimaassani Virossa yleistä lukutaitoa on pidetty perustavanlaatuisena hansaliiton ajoista lähtien. Jokaiselta kauppiaan oppipojalta edellytettiin sujuvaa taitoa neljässä paikallisessa kielessä. Tämä tarkoitti sitä, että äidinkielensä lisäksi hänen oli osattava puhua kolmen tärkeimmän kauppakumppanin kieltä. Mietinnössä todetaan aivan oikein, että kielitaito on tärkeä edellytys sille, että Euroopan unionin kansalaiset voivat nauttia perusoikeuksistaan. Koska palvelujen osuus on 70 prosenttia taloudestamme, viestintätaidoilla on erityisen tärkeä rooli talouskasvussa.
+<P>
+On kuitenkin epätodennäköistä, että Barcelonan tavoite saavutetaan nykyisillä toimilla, sillä kahden kielen oppiminen äidinkielen lisäksi on hyvin aikaa vievää ja vaikeaa. Vain harvat pystyvät siihen ilman selkeästi asetettua päämäärää. Jäsenvaltioiden olisi käytännössä motivoitava sekä omia että toisten jäsenvaltioiden kansalaisia esimerkiksi panemalla työvoiman liikkuvuus täysimääräisesti täytäntöön.
+<P>
+Eurooppalainen kielitaitoindikaattori on kuitenkin ensisijaisen tärkeä siksi, että se kannustaa jäsenvaltioiden omia kansalaisia luomaan tiettyä suhteellista etua ja kilpailuetua. Sekä Euroopan unionin että kielen itsensä kannalta olisi vaarallista keskittyä vain yhteen yleisesti käytettävään kieleen. Tämän seurauksena kieli revittäisiin irti juuristaan, jotka jäisivät maahan. Esimerkiksi Cambridgen kieltenopettajien on vaikea ymmärtää Brysselistä tulevia niin sanottuja englanninkielisiä tekstejä.
+<P>
+Tästä syystä haluan korostaa erityisesti, että kielten lisäksi yhteisön tasolla olisi edistettävä myös tiettyyn kieleen liittyvää kulttuuria. Valitettavasti voin puhua äidinkieltäni viroa vain joka kymmenennessä Euroopan parlamentin kulttuuri- ja koulutusvaliokunnan kokouksessa – melkoisen ironinen tilanne tässä monikulttuurisessa Euroopassa.
+<P>
+Toivottavasti mietintö auttaa käynnistämään todella tarpeellisen ohjelman monikielisyyden edistämiseksi Euroopan unionissa. 
+<SPEAKER ID="44" LANGUAGE="DE" NAME="Karin Resetarits (ALDE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, arvoisa komission jäsen, minäkin haluan kiittää lämpimästi esittelijä Mavrommatisia hänen omistautumisestaan työlleen.
+<P>
+Kuinka hyvin nuoret eurooppalaiset osaavat vieraita kieliä? Mitä kieliä puhutaan eniten? Onko monikielisyys lisääntymässä? Tätä kielitaitoindikaattorilla on tulevaisuudessa tarkoitus selvittää, mutta tehokkuusnäkökohdat ja rahoituksen puute merkitsevät sitä, että kielitaitoindikaattorilla aiotaan testata vain viiden vieraan kielen taitoa. Nämä kielet ovat ne, joita EU:ssa opetetaan oletettavasti eniten. Saadakseen hyvän arvosanan 15-vuotiaiden on jokaisessa jäsenvaltiossa osattava englantia, ranskaa, saksaa, espanjaa tai italiaa.
+<P>
+Paitsi että toisten tilastojen, esimerkiksi viimeisimmän Eurobarometri-kyselyn, mukaan viidennellä sijalla on venäjä eikä italia, tämä kielipolitiikka myös johtaa valitettavasti siihen, että tulevaisuudessa koulut tarjoavat mieluummin englannin, ranskan, saksan, espanjan ja italian opetusta. Eihän mikään maa halua kielitaitoindikaattorin – eikä myöskään PISA-testin – antavan sellaista kuvaa, että sen kansalaisten kielitaito on heikoimmasta päästä.
+<P>
+Tälläkin hetkellä monet opiskelijat haluavat osallistua vaihto-ohjelmiin todennäköisemmin Ranskassa, Italiassa ja Espanjassa kuin esimerkiksi Prahassa, Varsovassa tai Budapestissa. Tätäkö me todella haluamme? Eikö meidän pitäisi harkita asiaa uudelleen ja edistää sellaista politiikkaa, jolla meitä kannustetaan oppimaan naapurimaidemme kieliä paitsi viestinnän parantamista myös elinkeinoelämää ajatellen? Tälläkin hetkellä itävaltalaisella on paremmat mahdollisuudet työllistyä, jos hän puhuu mitä tahansa itäeurooppalaista kieltä. Siitä huolimatta Itävallan kouluissa ei väärin arvioidun koulutuspolitiikan seurauksena toistaiseksi kannusteta hankkimaan tällaista kielitaitoa. 
+<P>
+Kielitaitoindikaattori ei mitenkään kannusta myöskään muuttamaan tätä politiikkaa lähiaikoina, ja "myöhemmässä vaiheessa" saattaa hyvin tarkoittaa "liian myöhään". Elämme erittäin nopeasti kehittyvässä maailmassa. Sillä, kuinka moni ihminen puhuu Euroopan unionissa tiettyä kieltä, ei ole merkitystä. Merkitystä on sillä, millaiset ovat jäsenvaltioiden sosiaaliset ja taloudelliset suhteet. Menisin tätäkin pidemmälle ja toteaisin, että mikäli tarkastelemme asioita sekä eurooppalaisesta että maailmanlaajuisesta näkökulmasta, on erittäin hyvä asia, että lapsemme ja lapsenlapsemme suhtautuvat avoimesti kaikkiin maailman kieliin.
+<P>
+Totuus on se, että elämme nyt maailmankylässä, eikä sitä asiaa voida enää muuttaa. Tässä kylässä ne ihmiset, jotka saavat mitä haluavat, ovat niitä, jotka tekevät itsensä ymmärretyksi. Sillä, ettei kielitaitoindikaattori ota huomioon näitä tulevaisuuden tarpeita tai ole riittävän joustava mukautuakseen niihin, on kielteisiä vaikutuksia. Kehotan teitä siis jälleen kerran kannattamaan Euroopan liberaalidemokraattien liiton ryhmän esittämiä tarkistuksia. 
+<SPEAKER ID="45" LANGUAGE="PL" NAME="Jan Tadeusz Masiel (NI ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, Keski-Euroopan kansakunnat ovat oppineet kokemuksesta, miten tärkeää on osata vieraita kieliä.
+<P>
+Berliinin muuri olisi kaatunut jo aikaisemmin, jos olisimme opiskelleet länsimaisia kieliä 1960- ja 1980-luvulla. Vaikkei ranskan tai englannin opiskelua ollutkaan alueella kielletty, motivaatiota siihen ei todellakaan ollut. Tämän vuoksi Euroopan unionin kielipolitiikalla on todella tärkeä merkitys, sillä siinä vaaditaan jäsenvaltioita esimerkiksi aloittamaan ensimmäisen vieraan kieleen opetus jo 6–12 vuoden iässä ja toisen vieraan kielen opetus 12 ikävuoden jälkeen. Kahden vieraan kielen oppimista koskeva periaate on erinomainen. Se laajentaa henkisiä mahdollisuuksiamme etenkin kansankielten puhujina.
+<P>
+Eurooppalainen kielitaitoindikaattori on varsin asianmukainen väline, sillä arviointi, kokeet ja todistukset motivoivat ihmisiä. Ne palkitsevat tehdystä työstä ja kannustavat kehittymään lisää. Sitä en kuitenkaan voi hyväksyä, että alkuvaiheessa otetaan huomioon vain viisi yleisimmin puhuttavaa tai opetettavaa kieltä. Emme saa sitoa käsiämme heti alussa. Esimerkiksi puola ei ole tällä hetkellä kovin suosittu kieli, mutta Puola on suuri maa, ja tämä saattaa pian herättää suurta kiinnostusta myös kieltämme kohtaan. 
+<SPEAKER ID="46" LANGUAGE="SK" NAME="Milan Gaľa (PPE-DE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, kulttuuri- ja koulutusvaliokunnan jäsenenä totean, että valiokunta on kunnioittanut toissijaisuusperiaatetta ja ottanut kansalliset edut huomioon sekä kehittänyt menestyksekkäästi Euroopan unionin lainsäädäntökehystä poliittisilla vastuualueillaan. Näihin alueisiin kuuluu Europassia koskevien sääntöjen hyväksyminen, Euroopan kulttuuripääkaupunki -hanke, elinikäiseen oppimiseen liittyviä keskeisiä taitoja koskeva mietintö, eurooppalainen tutkintokehys, digitaaliset kirjastot ja monet muut alat. Jäsen Mavrommatisin mietintö toimenpiteistä monikielisyyden ja kielten oppimisen edistämiseksi Euroopan unionissa – eurooppalaisesta kielitaitoindikaattorista – on myös yksi esimerkki tästä, ja haluan tässä yhteydessä kiittää häntä hänen tekemästään työstä.
+<P>
+Mietinnössä keskitytään Lissabonin strategiassa asetettuun yhteiseen tavoitteeseen, nimittäin tietoon perustuvan yhteiskunnan luomiseen. Pidän kielitaitoa olennaisena osana EU:n kansalaisten elinikäistä oppimista, ja jäsen Mavrommatisin laatimassa mietinnössä lisätään uusi kivi eurooppalaisen koulutuksen mosaiikkiin täydentämällä oikealla tavalla olemassa olevia koulutukseen liittyviä suunnitelmia ja ohjelmia. Kielten oppiminen on tärkeä asia siksi, että se helpottaa opiskelijoiden ja työntekijöiden viestintää ja liikkuvuutta Euroopan unionissa. Lisäksi on tärkeää, arvioida kansalaisten elinikäisen oppimisen aikana hankkimia taitoja.
+<P>
+Olen eurooppalaisen tutkintokehyksen esittelijä kulttuuri- ja koulutusvaliokunnassa. Tämä kehys on suunniteltu pääasiassa tarjoamaan viitekehys tutkintojen siirtoa ja tunnustamista varten. Näin ollen mielestäni on erittäin tärkeää luoda luotettavia edistymisen mittaamiseen ja kielitaidon testaamiseen tarkoitettuja järjestelmiä. Koska tällä hetkellä meillä ei ole tarpeeksi tietoja voidaksemme arvioida EU:n kansalaisten kielitaitoa asianmukaisesti, olen varma, että ehdotetusta eurooppalaisesta kielitaitoindikaattorista tulee jäsenvaltioille tärkeä mittari tähän tarkoitukseen. 
+<SPEAKER ID="47" LANGUAGE="EN" NAME="Marios Matsakis (ALDE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, onnittelen esittelijä Mavrommatisia siitä, että hän on tehnyt kovasti töitä laatiessaan tätä erinomaista mietintöä.
+<P>
+On selvää, että 25:n ja pian 27:n eri kansakunnan muodostamassa unionissa, jossa elää lähes puoli miljardia asukasta ja jossa puhutaan yli 20:tä virallista kieltä, on erittäin tärkeää, että yksittäiset kansalaiset hallitsevat muitakin kieliä kuin oman äidinkielensä. Tässä tarkoituksessa eurooppalaisen kielitaitoindikaattorin avulla toteutettavat monikielisyyttä ja kielten oppimista edistävät toimet näyttävät välttämättömiltä. Siksi tänä aamuna käsiteltävänämme oleva mietintö ansaitsee täyden tukemme.
+<P>
+Pystytäänkö näin kuitenkaan saavuttamaan paras mahdollinen viestinnän taso EU:n kansalaisten välille? Olisiko tämä mahdollisimman tehokas ja taloudellinen keino saavuttaa tämä viestinnän taso? Vastaukseni kumpaankin kysymykseen on kielteinen. Kantani vahvistukseksi käytän esimerkkinä parlamenttiamme, joka on monikielisen EU:n pienoismalli.
+<P>
+Parlamentissa, joka edustaa 25:tä jäsenvaltiota, kommunikoimme 20:llä eri kielellä. Itse asiassa perustamissopimuksiin on kirjattu, että meillä on oikeus kommunikoida EU:n toimielimissä omalla äidinkielellämme. Tämä on selvää, mutta mitä se tarkoittaa käytännössä? Se tarkoittaa, että jokaisessa istunnossa täällä salissa tehdään jopa 400 tulkkausta.
+<P>
+Jotta voisin käyttää äidinkieltäni ja puhua virolaiselle kollegalleni kreikaksi, puheenvuoroni on ensin tulkattava todennäköisesti englantiin tai ranskaan ja sen jälkeen uudelleen englannista tai ranskasta viroon. Voidakseen vastata minulle, virolaisen kollegani on käytettävä samaa tulkkausjärjestystä käänteisesti. Tällainen viestintapa ei vastaa 2000-luvun vaatimuksia EU:ssa. Tämän lisäksi valtava asiakirjamäärä käännetään 20 kielelle, ja noin puolet Euroopan parlamentin juoksevien kulujen talousarviosta käytetään tulkkaukseen ja kääntämiseen.
+<P>
+Näin ollen todellinen ratkaisu viestinnän parantamiseksi yhdentyneessä Euroopassa on, että kaikki meistä käyttävät vain yhtä kieltä. Kyllä, meidän on suojeltava kansallista ylpeyttämme ja kulttuuriamme sekä säilytettävä ne, mutta meidän on myös seurattava aikaamme ja pyrittävä lisäämään eurooppalaisen perheemme yhtenäisyyttä ja tehokkuutta. Loppujen lopuksi, kuinka yhtenäinen perhe voi olla, jos jokainen sen jäsenistä puhuu eri kieltä? Euroopan unionin todellinen yhtenäisyys saavutetaan sitten, kun meillä on yhteinen työkieli. Tämä muuten myös tapahtuu tulevaisuudessa, pidimmepä siitä tai emme. Se on väistämätöntä.
+<P>
+Tämänhetkiset tilastot osoittavat, että noin 38 prosenttia EU:n kansalaisista voi käyttää englantia viestintäkielenään. Toisella sijalla on ranska, jota käyttää vain noin 14 prosenttia. Miksi emme näin ollen tekisi rohkeasti tervejärkistä päätöstä ja samalla kun kannatamme monikielisyyttä alkaisi jo pohjustaa päätöstä siitä, mikä vieras kieli valitaan Euroopan unionin yhteiseksi kieleksi? Kyllä, kohdatkaamme tosiasiat, olkaamme käytännöllisiä ja rehellisiä ja sanokaamme, että tämän kielen on oltava englanti. 
+<SPEAKER ID="48" LANGUAGE="SK" NAME="Ján Figel'," AFFILIATION="komission jäsen">
+<P>
+   . Hyvät parlamentin jäsenet, on aina kiinnostavaa keskustella kulttuurista ja kielistä. Tällä kertaa haluan kuitenkin huomauttaa, että kielitaitoindikaattori on väline, jolla arvioidaan pikemminkin kielen oppimista kuin kielen käyttöä sosiaalisessa, taloudellisessa tai muussa ympäristössä. On tietenkin välttämätöntä parantaa, nopeuttaa ja kehittää kieltenopetusta niin, että kielet muodostavat ennemminkin siltoja kuin muureja. Haluan korostaa, että kieli ja kielitaito muodostavat siltoja. Ilman näitä siltoja olisimme eristäytyneitä saaria, ja sillat auttavat meitä muodostamaan yhteisöjä.
+<P>
+Yksi kieli ei riitä – yksin englanti ei riitä – sillä monimuotoisuus on Euroopan unionia määrittävä ominaisuus. Monimuotoisuudessaan yhtenäinen on paras tapa kuvata yhteisöämme, mutta olen varma, ettei yhtenäisyyttä ole koskaan määrittänyt eikä sitä koskaan määritäkään yksi kieli. Perhe, seurue, pieni yhteisö tai kaupunki voi kommunikoida yhdellä kielellä, mutta yleensä ne eivät toimi hyvin, koska yhtenäisyyttä ei määritä kieli vaan ihmissuhteiden taustalla olevat arvot, vakaumukset ja periaatteet. Kielellä on tietenkin erityinen tehtävä tässä prosessissa, mutta se ei ole ratkaiseva tekijä.
+<P>
+Vahvistan, että monikielisyyttä koskevalla Euroopan komission politiikalla tuetaan vähemmistökieliä, alueellisia kieliä ja naapurimaiden kieliä. On kysytty, miksi testauksen alkuvaiheessa käytetään vain viittä kieltä. Kysymys on vain testauksen ensimmäisestä vaiheesta, jolla tasoitetaan tietä kaikille Euroopan unionin virallisille kielille. Jäsenvaltiot ovat keskustelleet asiasta ja päättävät siitä 19. toukokuuta kokoontuvassa ministerineuvostossa. On selvää, että Belgiassa puhuttava hollanti ja Suomessa puhuttava ruotsi lisätään näihin kieliin myöhemmin, koska niitä kumpaakin opetetaan kyseisissä maissa yleisesti. Pääkriteerinä on ollut, että varmistetaan riittävän laaja tilastollinen otanta, jonka avulla indikaattorin soveltuvuutta voidaan tutkia. Tässä ei ole mitään taka-ajatuksia, vaan tavoitteemme on täysin ammatillinen. Se on nimittäin korkeatasoisen eurooppalaisen indikaattorin kehittäminen. Lopuksi haluan vielä kiittää esittelijää ja koko valiokuntaa. Jäsen Mavrommatis on todellakin sisällyttänyt mietintöönsä kaiken, mitä EU:n monikielisyyttä koskevassa politiikassa tarvitaan. 
+<SPEAKER ID="49" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Istunto keskeytettiin klo 10.55, ja sitä jatkettiin äänestyksillä klo 11.10.)">
+<P>
+   – Keskustelu on päättynyt.
+<P>
+Äänestys toimitetaan tänään klo 11.00, eli aivan pian.
+<SPEAKER ID="50" LANGUAGE="HU" NAME="Katalin Lévai (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, hyvät kollegat, yksi Euroopan unionin suurimmista eduista on, että sen kansalaiset voivat EU:ta koskevissa asioissa ilmaista itseään äidinkielellään ja että yksi Euroopan unionin tavoitteista on kielellisen monimuotoisuuden ja kulttuurien säilyttäminen. Tämä etu kääntyy kuitenkin usein haitaksi, koska se aiheuttaa kommunikointiongelmia jäsenvaltioiden välillä. Tästä syystä kannatan jäsen Mavrommatisin mietintöä, jossa suositellaan aktiivisesti varhaista kielten oppimista.
+<P>
+Keski- ja Itä-Euroopassa on voitu nähdä, miten niillä nuorilla, jotka puhuvat useita kieliä ja joilla on lapsena mahdollisuus oppia koulussa yhtä tai kahta kieltä, ovat etulyöntiasemassa. Kielitaito antaa sosiaalisen etulyöntiaseman. Siksi meidän on käytettävä kaikkia mahdollisia menetelmiä varmistaaksemme, että varhainen kielten oppiminen sisältyy julkisiin opetusohjelmiin.
+<P>
+Mielestäni meidän on myös kannatettava Euroopan komission toimia eurooppalaisen kielitaitoindikaattorin käyttöön ottamiseksi. Indikaattori helpottaa kielitaidon vertailua ja todistusten keskinäistä tunnustamista.
+<P>
+Yhtäläisten mahdollisuuksien nimissä haluan kuitenkin kiinnittää huomiota siihen, että myös syrjäisillä ja alikehittyneillä alueilla asuville on tarjottava mahdollisuus kielten oppimiseen. Tarvittavassa tätä on tuettava lisätoimilla.
+<P>
+Kiitos tarkkaavaisuudestanne. 
+<SPEAKER ID="51" LANGUAGE="" NAME="" AFFILIATION="varapuhemies">
+<SPEAKER ID="52" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Äänestysten tulokset ja niiden kulkua koskevat yksityiskohdat: ks. pöytäkirja.)">
+<P>
+   – Esityslistalla on seuraavana äänestykset.
+<SPEAKER ID="53" LANGUAGE="" NAME="" AFFILIATION="Ennen äänestyksiä:">
+<SPEAKER ID="54" LANGUAGE="ES" NAME="José Ignacio Salafranca Sánchez-Neyra (PPE-DE )," AFFILIATION="esittelijä">
+<P>
+   . – Arvoisa puhemies, haluan vain todeta, että eilisessä mietintöä koskeneessa keskustelussa jotkut poliittisten ryhmien edustajat ehdottivat ilmauksen "vapaakauppa-alueen perustamiseen vuoteen 2010 mennessä" korvaamista ilmauksella "yleisen alueidenvälisen kumppanuuden perustamiseen keskipitkällä aikavälillä" mietinnön 6, 21 ja 66 kohdassa. Sama ehdotus sisältyy myös suulliseen tarkistukseen, jonka jäsen Lipietz haluaa esittää.
+<P>
+Arvoisa puhemies, mikäli parlamentti ei vastusta ehdotusta, en minäkään vastusta sen hyväksymistä. Näin ollen en ymmärrä, mitä järkeä on siinä, että tietyt ryhmät, kuten Vihreät / Euroopan vapaa allianssi -ryhmä ja Euroopan yhtyneen vasemmiston konfederaatioryhmä/Pohjoismaiden vihreän vasemmisto, pyytävät kohta kohdalta –äänestystä, vaikka parlamentti hyväksyy tämän sanamuodon, jota minäkin kannatan.
+<P>
+Arvoisa puhemies, lopuksi ehdotan teknistä mukautusta. Ulkoasiainvaliokunta hyväksyi mietinnön 77 kohtaa koskevan, eläkkeisiin liittyvän tarkistuksen, jota jäsen Fatuzzo ehdotti. Ehdotan vain, että jäsen Fatuzzon esittämästä tarkistuksesta otetaan osa, jonka luen, ja siirretään 35 kohtaan, jonne se soveltuu paremmin.
+<P>
+Esitämme siis, että 35 kohdan loppuun lisätään "joka mahdollistaa tehokkaammat sosiaaliturvajärjestelmät ja varmemmat ja korkeammat eläkkeet".
+<P>
+Pyydän siis vaihtamaan ilmauksen "Euroopan unionin ja Latinalaisen Amerikan vapaakauppa-alueen perustamiseen vuoteen 2010 mennessä" ilmaukseen "yleisen alueidenvälisen kumppanuuden perustamiseen keskipitkällä aikavälillä" mietinnön 6, 21 ja 66 kohdassa sekä siirtämään jäsen Fatuzzon ehdottaman tarkistuksen loppuosan 35 kohtaan. 
+<SPEAKER ID="55" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi suullisen tarkistuksen.)">
+<SPEAKER ID="56" LANGUAGE="" NAME="" AFFILIATION="Ennen äänestystä:">
+<SPEAKER ID="57" LANGUAGE="DE" NAME="Klaus-Heiner Lehne (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, hyvät kollegat, viittaan työjärjestyksen 168 artiklan 2 kohtaan ja totean kuulleeni, että kolme parlamentin ryhmää pitää tätä päätöslauselmaesitystä ongelmallisena. Tämän vuoksi on vaarana, että tälle tärkeälle asialle, joka tietenkin jossain määrin liittyy keskusteluun ja jäsenten asemaan, ei saada enemmistön – tai ainakaan suuren enemmistön – kannatusta, ja me nimenomaan haluaisimme sille suuren enemmistön kannatuksen.
+<P>
+Täten kannatan ehdotuksen palauttamista oikeudellisten asioiden valiokuntaan ja sisämarkkinavaliokuntaan. Jos näin ei voida tehdä tai jos emme pääse siitä yhteisymmärrykseen, ehdotan, että vaihtoehtoisesti äänestys siirretään toimitettavaksi seuraavalla täysistuntojaksolla. Ensimmäinen vaihtoehto on palauttaa päätöslauselmaesitys valiokuntakäsittelyyn, ja mikäli näin ei tehdä, toisena vaihtoehtona on äänestää tekstistä seuraavalla täysistuntojaksolla. 
+<SPEAKER ID="58" LANGUAGE="" NAME="" AFFILIATION="(Päätöslauselmaesitys palautettiin asiasta vastaavaan valiokuntaan.)">
+<SPEAKER ID="59" LANGUAGE="" NAME="" AFFILIATION="Ennen äänestystä:">
+<SPEAKER ID="60" LANGUAGE="EN" NAME="Jan Mulder (ALDE )," AFFILIATION="esittelijä">
+<P>
+   . Arvoisa puhemies, en tiedä, haluatteko minun lukevan suulliset tarkistukseni nyt vai 5 kohdan käsittelyn jälkeen, mutta haluaisin esittää kaksi suullista tarkistusta. 
+<SPEAKER ID="61" LANGUAGE="" NAME="" AFFILIATION="Päätösehdotuksesta toimitetun äänestyksen jälkeen:">
+<SPEAKER ID="62" LANGUAGE="" NAME="Jan Mulder (ALDE )," AFFILIATION="esittelijä">
+<P>
+   . (EN) Arvoisa puhemies, haluaisin lisätä tekstiin uuden 5 kohdan a alakohdan, joka kuuluu seuraavasti: "odottaa, että komission lokakuussa 2005 käynnistämien, sen toimintaan liittyvien tuntemattomien pankkitilien tarkastusten tulokset saatetaan kokonaisuudessaan parlamentin tietoon, ja että niitä seurataan."
+<P>
+Lisäksi 5 kohdan b alakohta kuuluisi seuraavasti: "odottaa, että näin tietoon tulleet tilit tarkastetaan ja että kyseisille tileille maksetut varat sisällytetään yleiseen talousarvioon." 
+<SPEAKER ID="63" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi suullisen tarkistuksen.)">
+<SPEAKER ID="64" LANGUAGE="" NAME="" AFFILIATION="Ennen äänestystä:">
+<SPEAKER ID="65" LANGUAGE="DE" NAME="Markus Ferber (PPE-DE )," AFFILIATION="esittelijä">
+<P>
+   . – Arvoisa puhemies, hyvät kollegat, aluksi totean, että oikeastaan halusimme tänään antaa vastuuvapauden Euroopan parlamentille ja hallintoviranomaisille, mutta kahtena edellisenä päivänä on tietoomme tullut uusia tapahtumia ja tosiasioita, joita emme ole ehtineet tarkastella mietintöä laatiessamme. Nämä uudet tiedot koskevat kahden Strasbourgissa sijaitsevan rakennuksen vuokraamista.
+<P>
+Talousarvion valvontavaliokunnan oli kokoonnuttava useita kertoja tarkastelemaan tilannetta ja työstämään ratkaisua. Tutustuimme huolellisesti työjärjestykseen mutta emme löytäneet tähän parhainta mahdollista oikeusperustaa, ja koska meidän on noudatettava varainhoitoasetusta, ehdotan, että äänestämme liitteen V 5 artiklan 1 kohdan a alakohdan nojalla vastuuvapauden myöntämistä vastaan. Tämä ei kuitenkaan tarkoita, että emme aio myöntää vastuuvapautta. Tällä tavoin saamme ilman erillisiä toimenpiteitä kuusi kuukautta aikaa tarkastella esille tulleita uusia tietoja ja siten mahdollisuuden ratkaista asianmukaisesti kaikki epäselviksi jääneet seikat.
+<P>
+Kehotan teitä siis äänestämään ensimmäisellä kierroksella "ei", jotta kaikkiin esitettyihin kysymyksiin voidaan saada kunnollinen vastaus.
+<SPEAKER ID="66" LANGUAGE="DE" NAME="Hannes Swoboda (PSE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, olisimme toivoneet, että mietintö olisi suoraan palautettu valiokuntakäsittelyyn, mutta koska, kuten jäsen Ferber selvensi, tämä ei ole lopullinen kielteinen päätös vastuuvapauden myöntämisestä, mekin äänestämme mietintöä vastaan, jotta ehdotukselle saadaan mahdollisimman laaja yksimielisyys. 
+<SPEAKER ID="67" LANGUAGE="DE" NAME="Hans-Gert Poettering (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, hyvät kollegat, myös minä olen samaa mieltä siitä, mitä esittelijä sanoi. Vaikka tämä on oikeudellisesta näkökulmasta valitettavaa, emme ole nyt millään tavoin oikeutettuja esittämään kielteisiä huomioita hallinnosta, Strasbourgin kaupungista tai kolmansista osapuolista. Toimimme näin menettelysyistä, emmekä vielä ilmaise kantaamme asiasisällöstä. Toivottavasti saamme pian tarvittavat tiedot, jotta voimme pian myöntää vastuuvapauden. 
+<SPEAKER ID="68" LANGUAGE="NL" NAME="Bart Staes (Verts/ALE ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, vihreät / Euroopan vapaa allianssi -ryhmän puolesta minäkin haluan korostaa, että mikäli jätämme myöntämättä parlamentille vastuuvapauden, kuten jäsen Ferber ehdottaa, välitämme selkeän poliittisen viestin siitä, että tarvitsemme vielä toiset kuusi kuukautta, jotta voimme tutkia asiaa perinpohjaisesti, selvittää tosiasiat ja käydä läpi perusteellisesti kahta Strasbourgissa sijaitsevaa rakennusta koskevat yksityiskohdat. Nyt ei keskustella sijaintipaikasta, sillä siitä ei ole kyse. Tässä on kyse siitä, että meidän on saatava tietää, käytetäänkö rahojamme oikein. Vain tämä on syynä viivästykseen. 
+<SPEAKER ID="69" LANGUAGE="FR" NAME="Francis Wurtz (GUE/NGL ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, kuten jäsen Poettering ja jäsen Swoboda totesivat, äänestystapamme, jonka osalta olemme samoilla linjoilla edellisten puhujien kanssa, ei tietenkään vaikuta toteutettavan tutkimuksen tuloksiin. Syytökset ovat kuitenkin hyvin vakavia, ja tutkimusten on oltava täysin avoimia, jotta voimme arvostella ja arvioida asioita täydellisten asiatietojen perusteella. 
+<SPEAKER ID="70" LANGUAGE="EN" NAME="Mogens N.J. Camre (UEN ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, Unioni kansakuntien Euroopan puolesta -ryhmän puolesta haluan todeta kannattavani jäsen Ferberin ehdotusta. Emme ole vielä tehneet minkäänlaisia johtopäätöksiä, mutta haluamme vielä kuusi kuukautta aikaa tutkiaksemme tapausta perinpohjaisesti. 
+<SPEAKER ID="71" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti päätti lykätä päätöstä vastuuvapauden myöntämisestä parlamentille vuoden 2004 talousarviosta.)">
+<SPEAKER ID="72" LANGUAGE="" NAME="" AFFILIATION="Ennen äänestystä:">
+<SPEAKER ID="73" LANGUAGE="SV" NAME="Nils Lundgren (IND/DEM )," AFFILIATION="esittelijä.">
+<P>
+   Arvoisa puhemies, hyvät kollegat, kiinnitän huomionne siihen, että äänestimme juuri parlamentille myönnettävää vastuuvapautta vastaan, koska saimme myöhäisessä vaiheessa lisätietoja, joita ei voitu ottaa aikaisemmin huomioon.
+<P>
+Tässä asiassa tilanne on samankaltainen. Olen ehdottanut, että lykkäämme päätöstä vastuuvapauden myöntämisestä alueiden komitealle. Talousarvion valvontavaliokunta on sivuuttanut tämän ehdotuksen jokseenkin omituisissa olosuhteissa. Päätöksenteon jälkeen on ilmennyt asioita, joista on nyt kerrottu valiokunnan jäsenille. Näin ollen pidän ehdottoman suositeltavana, että parlamentin jäsenet lykkäävät päätöstä samoin perustein, joita juuri sovellettiin parlamentin vastuuvapauteen, ja kieltäytyvät myöntämästä alueiden komitealle tänään vastuuvapautta sen toimista vuonna 2004.
+<SPEAKER ID="74" LANGUAGE="" NAME="" AFFILIATION="(Vastuuvapaus myönnettiin.)">
+<SPEAKER ID="75" LANGUAGE="SV" NAME="Nils Lundgren (IND/DEM )," AFFILIATION="esittelijä.">
+<P>
+   Arvoisa puhemies, hyvät kollegat, mielestäni parlamentti ei tässä tapauksessa toteuttanut tehtäväänsä, eli vaatinut tilintekovelvollisuutta. Nyt toimittamanne äänestyksen jälkeen en katso enää olevani vastuussa päätöslauselmasta ja suosittelen, että äänestätte sitä vastaan.
+<SPEAKER ID="76" LANGUAGE="" NAME="" AFFILIATION="Ennen äänestystä:">
+<SPEAKER ID="77" LANGUAGE="DE" NAME="Wolf Klinz (ALDE )," AFFILIATION="esittelijä">
+<P>
+   . – Arvoisa puhemies, hyvät kollegat, mietinnöstä keskusteltiin eilen hyvin myöhään illalla, joten harva jäsen oli paikalla. Käytän tilaisuutta hyväkseni ja käsittelen lyhyesti uudelleen yhtä tarkistuksista.
+<P>
+Mietintö herätti paljon kiinnostusta talous- ja raha-asioiden valiokunnassa, jossa siihen esitettiin noin 150 tarkistusta. Useimmista tarkistuksista selvittiin laatimalla kompromissitarkistuksia. Talous- ja raha-asioiden valiokunnassa keskusteltiin esimerkiksi siitä, olisiko komissiota kehotettava ratkaisemaan nykyisessä direktiivissä havaitut heikkoudet yksittäisillä lainsäädäntötoimenpiteillä ja alan oma-aloitteisilla toimilla, vai olisiko komissiota kehotettava laatimaan kokonaan uusi direktiivi. Valitsimme ensimmäisen vaihtoehdon ja hylkäsimme ajatuksen täysin uudesta direktiivistä. Vaikka valiokunta hyväksyi päätöksen vain yhden äänestäessä vastaan ja näin ollen käytännössä yksimielisesti, Euroopan parlamentin sosialidemokraattinen ryhmä esitti tarkistuksen 6, jonka tarkoituksena oli jälleen kyseenalaistaa päätös. Koska tarkistuksella 6 periaatteessa käännetään mietinnön sisältö ylösalaisin, pyydän parlamenttia hylkäämään kyseisen tarkistuksen. 
+<SPEAKER ID="78" LANGUAGE="" NAME="" AFFILIATION="Ennen tarkistuksesta 1 toimitettua äänestystä:">
+<SPEAKER ID="79" LANGUAGE="EN" NAME="Sophia in ‘t Veld (ALDE )," AFFILIATION="esittelijä">
+<P>
+   . Arvoisa puhemies, haluan esittää suullisella tarkistuksella lisäyksen alkuperäiseen tarkistukseen 1 ja tekstiin sellaisena kuin se hyväksyttiin valiokunnassa. Suullisen tarkistuksen ansiosta kohta kuuluisi seuraavasti: "pitää suuria yrityksiä tärkeinä tekijöinä innovointijärjestelmässä; katsoo kuitenkin, että valtiontuen myöntäminen suurille yrityksille on sallittavaa, jos ne tekevät yhteistyötä muiden (suurten yritysten, pienten yritysten, tutkimusinstituuttien) kanssa, mikäli ne täyttävät ennakkoarviointisäännöissä asetetut perusteet." 
+<SPEAKER ID="80" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi suullisen tarkistuksen.)">
+<SPEAKER ID="81" LANGUAGE="EN" NAME="Sophia in ’t Veld (ALDE )," AFFILIATION="esittelijä">
+<P>
+   . Arvoisa puhemies, haluan lisätä kaksi sanaa tarkistukseen 2, eli "ja pk-yrityksiä", jolloin kappaleen alku kuuluisi seuraavasti: "on samaa mieltä siitä, että valtiontuki pitäisi myöntää innovatiivisia vasta perustettuja yrityksiä ja pk-yrityksiä suosivin perustein", ja niin edelleen. 
+<SPEAKER ID="82" LANGUAGE="" NAME="" AFFILIATION="(Parlamentti hyväksyi suullisen tarkistuksen.)">
+<SPEAKER ID="83" LANGUAGE="" NAME="" AFFILIATION="Ennen Mavrommatisin mietinnöstä (A6-0074/2006 ) toimitettua äänestystä:">
+<SPEAKER ID="84" LANGUAGE="IT" NAME="Monica Frassoni (Verts/ALE ). –" AFFILIATION="(Suosionosoituksia)">
+<P>
+   Arvoisa puhemies, hyvät kollegat, haluan vain todeta, että äänestyksen kohteena on loistava monikielisyyden edistämistä Euroopan unionissa koskeva päätöslauselma, joka saa epäilemättä Euroopan parlamentin suuren enemmistön kannatuksen. Toisinaan parlamentti valitettavasti kuitenkin toimii ja puhuu ristiriitaisesti: puhemiehistö epäsi eilen Euroopan unionin kansalaisilta mahdollisuuden käyttää parlamentille osoitetuissa puheenvuoroissaan kieltä, jolla on yhtäläinen virallisen kielen asema. Tämä ei vastaa neuvoston ja komission käytäntöä. Mielestäni puhemiehistön päätös on täysin ristiriidassa sen tekstin kanssa, josta pian äänestämme, ja aiomme ryhmämme puolesta valittaa asiasta.
+<SPEAKER ID="85" LANGUAGE="" NAME="Puhemies." AFFILIATION="- Äänestysten jälkeen:">
+<P>
+   – Hyvä jäsen Frassoni, tämä oli jo toinen kerta tänään, ja tämä asia ei ole esityslistalla.
+<P>
+Oli miten oli, olemme vahvasti samaa mieltä siitä, mitä sanoitte. 
+<P>
+– Äänestykset ovat päättyneet. 
+<SPEAKER ID="86" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin Iranin valtuuskunnan nimen muuttamista vastaan, mutta en tehnyt sitä hankaloittaakseni suhteitamme Iraniin (päinvastoin toivon, että voimme ylläpitää hyvät ja myönteiset suhteet tähän maahan) vaan siksi, että mielestäni parlamentin on toimittava yhtenäisesti. Jos muuttaisimme tämän valtuuskunnan nimen, meidän olisi tehtävä sama kaikkien sellaisten valtuuskuntien nimille, joiden edustamien maiden nimet ovat monimutkaisia. Vakiintuneena käytäntönä on käyttää valtuuskunnista maantieteellistä nimeä. En vastusta käytännön muuttamista, mutta muutoksen on koskettava kaikkia maita. 
+<SPEAKER ID="87" LANGUAGE="NL" NAME="Erik Meijer (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Päätökset Euroopan parlamentin ja Iranin parlamentin suhteita ylläpitävän valtuuskunnan nimen muuttamisesta ovat aivan liian perustavanlaatuisia tehtäväksi ilman, että asiasta käydään asianmukainen alustava keskustelu. Mikäli valtuuskunnan nimessä tuodaan ilmi, että Iran kutsuu itse itseään islamilaiseksi tasavallaksi, tämä saattaa antaa ymmärtää, että Euroopan parlamentti ei olisi kiinnostunut suhteista toisenlaisen hallinnon Iraniin, vaikka hallinnon muuttuminen on sekä todennäköistä että toivottavaa. Nykyinen hallinto uhkailee omaa kansaansa kuolemanrangaistuksilla ja rajoittaa sen vapauksia. Ulkomaailmaa hallinto uhkailee ydinaseiden kehittämisellä ja Israelin valtion kieltämisellä. Hallinnon periaatteet ovat kaikki demokratiaa ja ihmisoikeuksia kunnioittavan toiminnan vastaisia. Nykyiseen hallintoon mukautumista ei voida pitää ratkaisuna eikä myöskään sotimista sen kanssa. Tilanne voi parantua ainoastaan, jos Iranin oppositiolle, joka osittain elää maanpaossa Euroopassa, annetaan mahdollisuus johtaa maataan normaalisti. Tätä odottaessa ei ole mitään syytä taipua nykyisen hallinnon toiveeseen, että valtion nykyinen rakenne säilyy ikuisesti ja on Jumalan sanelema. 
+<SPEAKER ID="88" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Vastustan täysin puheenjohtajakokouksen ehdotusta, että suhteista Iraniin vastaavan valtuuskunnan nimi muutetaan.
+<P>
+Ennen kaikkea ehdotuksen ajankohta on huono. Nyt on aika tehdä Iranille selväksi, ettei kansainvälinen yhteisö suostu sivuuttamaan Iranin hallinnon esittämää uhkaa, joten ehdotuksessa ei ole mitään järkeä. Ehdotuksen tarkasteluun olisi myös otettava mukaan kaikki osapuolet ja kaikki maat, joiden kanssa parlamentti on muodostanut valtuuskuntia ja joiden virallinen nimi on muu kuin parlamentaarisissa yhteyksissä käytetty nimi.
+<P>
+Koska näin ei tehdä – enkä siis sano, että meidän olisi näin toimittava – on yhä vähemmän perusteltua tehdä poikkeusta Iranin kohdalla. Ainoa, mikä Iranin osalta on tällä hetkellä poikkeuksellista, on sen asettama haaste ja uhka kansainväliselle yhteisölle. Nyt on aika pysyä tiukkana. Nyt on tietenkin aika neuvotella – päättäväisesti. Parlamentin valtuuskunnan nimen muuttaminen ei ole osoitus päättäväisyydestä. 
+<SPEAKER ID="89" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Bulgaria, Romania ja Itävalta pyysivät tukea vuoden 2005 huhtikuun ja elokuun välisenä aikana tapahtuneiden tulvien aiheuttamia vahinkoja varten, ja olen myös kannattanut solidaarisuusrahaston käyttöä tällaisissa katastrofitilanteissa. Näin ollen yhdynkin niihin, jotka pyytävät solidaarisuuden osoitusta näille maille. Tällaisissa tapauksissa tärkeintä on solidaarisuus, riskien jakaminen ja vastavuoroinen auttaminen, ja näille toimille annan tukeni. 
+<SPEAKER ID="90" LANGUAGE="DE" NAME="Andreas Mölzer (NI )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, Pretsin mietinnön yhteydessä kuulostaisi mielestäni lattealta, jos sanoisin, että kulttuurin moninaisuutta on edistettävä.
+<P>
+Olemme tähän asti keskittyneet aivan liian paljon kulttuurin moninaisuuden edistämiseen etenkin muslimimaahanmuuttajien keskuudessa, emmekä toisaalta ole varmistaneet, että oma kulttuurimme tunnustetaan islamilaisissa maissa. Nyt tilanne on muuttunut sellaiseksi, että heidän kulttuurinsa pyrkii, jopa omissa maissamme, syrjäyttämään oman kulttuurimme. Kyse ei ole vain siitä, että länsimaista kulttuuria painostetaan esimerkiksi vaatimalla koulujen opettajia käyttämään huiveja, vaan myös siitä, että muslimimaahanmuuttajat käyttäytyvät entistä vihamielisemmin kristinuskon symboleja ja perinteitä kohtaan.
+<P>
+Samanaikaisesti virheellinen suvaitsevaisuus ja aatteellinen monikulttuurisuus ovat johtaneet siihen, että rakennetaan yhä enemmän minareetteja ja että oma kielellinen kulttuurimmekin alkaa horjua koululuokissa, joissa yli puolet oppilaista on ulkomaalaisia. Tällainen kehitys on huolestuttavaa, ja mielestäni näitä asioita ei ole huomioitu Unescon yleissopimuksessa. 
+<SPEAKER ID="91" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Euroopan parlamentti osoitti olevansa sitoutunut tunnustamaan kulttuurin monimuotoisuuden kansainvälisessä oikeudessa, kun se hyväksyi Unescon kanssa Pariisissa 20. lokakuuta 2005 kulttuurin moninaisuutta koskevan yleissopimuksen.
+<P>
+Yleissopimuksen tarkoituksena on edistää ja suojella kulttuurisisältöjen ja taiteellisten ilmaisumuotojen moninaisuutta. Lisäksi sillä pyritään helpottamaan kulttuuripolitiikkojen ja sopivien kulttuuri-ilmaisujen suojeluun ja edistämiseen tarkoitettujen toimien hyväksymistä sekä kannustamaan kulttuurivaihdon laajentamista.
+<P>
+Yleissopimus on kansainvälinen tunnustus, että valtioilla ja hallituksilla on suvereeni oikeus omaksua ja toteuttaa sellaisia kulttuuripolitiikkoja, joiden avulla kukin maa voi kehittää omia kulttuurisektoreitaan.
+<P>
+Yleissopimuksessa tunnustetaan, että ajatusten vapaa kulku vahvistaa kulttuurien moninaisuutta, sekä korostetaan ajatuksenvapauden ja tiedotusvälineiden moninaisuuden tärkeyttä. Yleissopimuksessa tunnustetaan valtioiden oikeus omaksua erilaisia audiovisuaalipolitiikkoja sekä vaalia oman maan audiovisuaalialan teollisuutta. Siinä korostetaan myös julkisen yleisradiotoiminnan merkitystä kulttuurisen moninaisuuden ja tiedotusvälineiden moniarvoisuuden kannalta.
+<P>
+Näin ollen äänestimme mietinnön puolesta. 
+<SPEAKER ID="92" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Olen tyytyväinen Unescon yleissopimusta koskevaan mietintöön. Uudella yleissopimuksella pyritään helpottamaan kulttuuripolitiikkojen ja sopivien kulttuuri-ilmaisujen suojeluun ja edistämiseen tarkoitettujen toimien hyväksymistä sekä kannustamaan kulttuurivaihdon laajentamista. Yleissopimuksessa tunnustetaan, että ideoiden vapaa kulku vahvistaa kulttuurien moninaisuutta, sekä korostetaan ajatuksenvapauden ja tiedotusvälineiden moninaisuuden tärkeyttä. Olen tyytyväinen, että yleissopimuksessa tunnustetaan kulttuurituotteiden ja -palvelujen ainutlaatuinen merkitys arvojen ja identiteetin välittäjinä ja näin osoitetaan, että kyseisillä tuotteilla ja palveluilla on muutakin kuin kaupallista merkitystä. Tämä antaa oikeutuksen sekä kansallisille että kansainvälisille kulttuuripolitiikoille. 
+<SPEAKER ID="93" LANGUAGE="PT" NAME="Duarte Freitas (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Mietinnön aiheena on neuvoston päätöksen 90/424/ETY muuttaminen siten, että EU voi myöntää taloudellista tukea eläinlääkintäalan toimenpiteiden toteuttamiseen sekä vesieläinten että maaeläinten hyväksi.
+<P>
+Muutokset ovat välttämättömät, jotta jäsenvaltiot saavat kalatalousrahastolta varoja vesiviljelyssä esiintyvien vakavien eläintautien torjumiseen.
+<P>
+Mietinnössä ehdotetaan päätöksen voimaantulon päivämäärän muuttamista sellaiseksi, että se on yhdenmukainen erään toisen tarkistuksen kanssa, jota ehdotetaan vesiviljelyyn liittyvien tautien ehkäisemistä ja torjuntaa koskevaa direktiiviä käsittelevässä mietinnössä. Tämä on realistisempi vaihtoehto kuin komission edellinen ehdotus, ja näin ollen annan sille tukeni. 
+<SPEAKER ID="94" LANGUAGE="PT" NAME="Duarte Freitas (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Mietinnön tarkoituksena on saattaa ajan tasalle, järjestää uudestaan ja konsolidoida säännöt, jotka koskevat eläinten terveyttä käytäessä kauppaa vesiviljellyillä tuotteilla sekä tiettyjen tautien ehkäisemistä ja torjuntaa. Lisäksi sillä pyritään parantamaan EU:n vesiviljelyalan tuottajien kilpailukykyä.
+<P>
+Käsiteltäväksi jätettyjen lainmuutosten tavoitteena on yksinkertaistaa ja saattaa ajan tasalle nykyiset säännöt sekä lisätä innovaatioita alalla, jotta se olisi valmis vastaamaan tulevaisuuden haasteisiin.
+<P>
+Mielestäni jäsen Kindermannin mietintöön tehdyillä tarkistuksilla on parannettu komission alkuperäistä ehdotusta ja saatu ehdotus vastaamaan alan todellista tilannetta jäsenvaltioissa. 
+<SPEAKER ID="95" LANGUAGE="SV" NAME="Jan Andersson, Anna Hedh, Ewa Hedkvist Petersen, Inger Segelström ja Åsa Westlund (PSE )," AFFILIATION="kirjallinen.">
+<P>
+   Äänestimme analogisista digitaalisiin radio- ja televisiolähetyksiin siirtymistä koskevan mietinnön puolesta. Olisi kuitenkin lapsellista luulla, ettei siirtymisestä aiheutuisi lisäkuluja kuluttajille. Siirtymisestä todella aiheutuu tiettyjä kuluja esimerkiksi uusista laitteista. Jäsenvaltioiden olisi kuitenkin varmistettava, että kustannukset pysyvät maltillisella tasolla. On tärkeä torjua laitonta kopiointia, mutta suhtaudumme epäilevästi tekijänoikeuksien jatkuvaan yhdenmukaistamiseen. 
+<SPEAKER ID="96" LANGUAGE="SV" NAME="Charlotte Cederschiöld, Christofer Fjellner, Gunnar Hökmark ja Anna Ibrisagic (PPE-DE )," AFFILIATION="kirjallinen.">
+<P>
+   Äänestimme analogisista digitaalisiin radio- ja televisiolähetyksiin siirtymistä koskevaa mietintöä vastaan, koska katsomme, että tällaisten asioiden ei pitäisi olla EU:n päätettävissä. Vastustamme ehdottomasti myös aiheeseen liittyviä käytännön ratkaisuja. Viranomaiset eivät pysty takaamaan kulttuurien monimuotoisuutta, eikä sitä taata myöskään suojelemalla niin kutsuttuja julkisen palvelun tarjoajia kilpailulta. Vastustamme myös sitä, että TV-teknologian vaihtamisesta päätetään säädöksin ja poliittisin päätöksin ja jätetään kansalaisten mielipiteet huomiotta. 
+<SPEAKER ID="97" LANGUAGE="PT" NAME="Pedro Guerreiro (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Vaikka käsiteltävänämme olevaan päätöslauselmaan tehtiin yhdennellätoista hetkellä kosmeettisia tarkistuksista ja vaikka tekstiin sisällytettiin kohtia, joista olemme luonnollisesti samaa mieltä, siitä käy pitkälti ilmi EU:n todelliset aikeet sen niin kutsutussa "yhteistyössä" Latinalaisen Amerikan maiden kanssa.
+<P>
+Monista arvosteltavista näkökohdista ja kohdista, joita vastustamme, mainitsen seuraavat:
+<P>
+– käytetään niin kutsuttuja yhdentymisprosesseja – eli noudatetaan aina EU:n mallia – kapitalistisen yhdentymisen ja kaupan vapauttamisen välineenä suurvaltojen sekä suurten taloudellisten ryhmittymien ja finanssiryhmien eduksi
+<P>
+– luodaan mahdollisimman laajoja vapaakauppa-alueita kahden- ja monenvälisillä sopimuksilla, jotta kauppa saadaan vapaammaksi kuin tähän mennessä WTO:ssa on ollut mahdollista
+<P>
+– perustetaan niin kutsuttu alueiden kahdenvälinen kriisinehkäisykeskus, jotta EU voi puuttua Latinalaisen Amerikan asioihin (antamatta sille vastaavaa oikeutta).
+<P>
+– toimitaan valitettavan yhtenäisesti; ei tuomita millään tavoin Kuuban laitonta kauppasaartoa eikä Yhdysvaltain Kuuban vastaisia ekstraterritoriaalisia lakeja.
+<P>
+Toisin sanoen tämä päätöslauselma on ristiriidassa Euroopan parlamentin ja Latinalaisen Amerikan parlamentin edistysmielisten jäsenten Bregenzissä antaman julistuksen kanssa.
+<P>
+Näin ollen äänestimme mietintöä vastaan. 
+<SPEAKER ID="98" LANGUAGE="SV" NAME="Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+   Tässä valiokunta-aloitteisessa mietinnössä käsitellään sitä, millaiseksi EU:n ja Latinalaisen Amerikan yhteistyö muodostuu tulevaisuudessa. Tällä hetkellä on olemassa parlamentaarinen konferenssi, mutta nyt Euroopan parlamentti haluaa perustaa parlamentaarisen yleiskokouksen, jolla olisi pysyvä sihteeristö.
+<P>
+Mietintöön sisältyy myös koko joukko todella kehnoja ehdotuksia, jotka liittyvät aloihin, joilta Euroopan parlamentin ei todellakaan olisi lausuttava mielipidettään. Siinä ehdotetaan esimerkiksi, että perustetaan solidaarisuusrahasto ja laaditaan niin sanottu Latinalaista Amerikkaa koskeva rahoitussuunnitelma. Junilistan vastustaa tätä ehdotusta. On varmasti totta, että hyvin suuri osa Latinalaisen Amerikan väestöstä elää köyhyydessä, mutta EU ei ole ratkaisu ongelmaan. Tällaisissa tapauksissa tuen olisi tultava yksittäisiltä jäsenvaltioilta tai YK:n elimiltä.
+<P>
+Lisäksi mietinnössä ehdotetaan, että Latinalaisen Amerikan alueellisen yhdentymisen parlamentit käynnistävät mahdollisimman pian yleiset, välittömät vaalit näille parlamenteille, jotta voidaan luoda Euroopan parlamenttia vastaava järjestelmä. Asianomaiset maat saavat tietenkin itse päättää parlamenttiensa välisen yhteistyön järjestämisestä.
+<P>
+Näin ollen äänestin tänään mietintöä vastaan. 
+<SPEAKER ID="99" LANGUAGE="FR" NAME="Jean-Claude Martinez (NI )," AFFILIATION="kirjallinen">
+<P>
+   .Latinalaisesta Amerikasta julistettiin tulevan 1900-luvun lopun suurvalta. Nyt 60 vuotta myöhemmin Andeilla tai Rion slummialueilla voi nähdä seuraukset ultraliberaalista politiikasta, institutionaalisista puutteista ja huonoista suhteista naapurimaahan Yhdysvaltoihin.
+<P>
+Latinalainen Amerikka on kuitenkin rikas kaikin puolin, myös asukkailtaan, joilla on vahva kulttuuri. Euroopan unioni ei siis voi unohtaa sitä.
+<P>
+Meidän on näin ollen päästettävä mielikuvitus valloilleen Euroopan unionin ja Latinalaisen Amerikan suhteissa, sillä oikea malli suhteille löytyy "kristillisen kosmopoliittisuuden" ja "westfalenilaisen kosmopoliittisuuden" välimaastosta. Tämä diplomaattisen Platonin ja Machiavellin ajatusten välinen keskitie sijaitsee "humaanisuuden nelikulmiossa". Euroopan unionin on ehdotettava, että voimavarat – vesi, ruoka, koulutus ja lääkkeet – jaetaan latinalaisen maailman molemmille rannoille.
+<P>
+Euroopan unionin ja Latinalaisen Amerikan välisen transatlanttisen yleiskokouksen perustamista ehdotettiin Bregenzin huippukokouksessa 25. huhtikuuta 2006, mutta siihen on lisättävä talousturvaneuvosto. Neuvosto rahoitetaan lukuisista avaruuteen ja geostationaarisiin satelliitteihin liittyvistä palveluista saatavilla arvonlisäveroilla, ja sen avulla voitaisiin luoda kumppanuuksia, jotka keskittyvät veden jakeluun sekä välttämättömien lääkkeiden, peruskoulutuksen ja ruoan tarjoamiseen. Tällä humaanisuuden ytimessä olevalla nelikulmamallilla estettäisiin Ecuadorin kansalaisia virtaamasta Espanjaan ja Latinalaisen Amerikan lapsia jäämästä pelkiksi elintenluovuttajaksi järjettömän kapitalismin laittomassa kaupankäynnissä. 
+<SPEAKER ID="100" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Euroopan unionin olisi mielestäni keskityttävä ensisijaisesti alueelliseen yhteistyöhön. EU:lla on velvollisuus jäsenvaltioidensa kansalaisia kohtaan ja kansainvälisen yhteisön jäsenenä sillä on velvollisuus täyttää ainutlaatuinen tehtävänsä lähimmällä vaikutusalueellaan.
+<P>
+Nyt on kuitenkin aika ja tarve laajentaa tätä vaikutusaluetta muille aloille, ja luonnollisesti myös Latinalaiseen Amerikkaan. Tämä alue tarjoaa historiallisista, kulttuurisista ja kielellisistä syistä hienon mahdollisuuden edistää poliittista ja taloudellista yhteistyötä, ja mikä tärkeintä, luoda kansainvälisiä suhteita, joissa Atlantin molemminpuolisesta yhteistyöstä olisi todella paljon hyötyä.
+<P>
+Lopuksi haluan kommentoida yhtä seikkaa Portugalin näkökulmasta. Vaikka Portugalin velvollisuutena onkin asettaa Afrikka etusijalle ulkopolitiikassaan, se ei saa unohtaa transatlanttisten yhteyksien merkitystä. Portugalin on siis annettava täysi tuki erilaisille aloitteille, kuten Wienissä 12. ja 13. toukokuuta pidettävälle huippukokoukselle.
+<P>
+Toivonkin siis, että huippukokouksen lopputulos on myönteinen erityisesti Mercosurin kanssa käytävien neuvottelujen osalta. Olen useissa yhteyksissä ilmaissut tähän aiheeseen liittyvän huoleni ja kiinnostukseni. 
+<SPEAKER ID="101" LANGUAGE="PT" NAME="José Ribeiro e Castro (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Juhlimme tänä vuonna Portugalin ja Espanjan 20:ttä vuotta Euroopan yhteisöjen jäsenenä, ja nyt on soveliasta huomauttaa, että Euroopan unionilla on ollut mahdollisuus saada näiltä mailta erityistietoa elämästä Latinalaisessa Amerikassa. EU:n saama hyöty olisi entistä suurempi, jos se suosisi portugalin ja espanjan opetusta merkittävinä maailman kielinä.
+<P>
+Olen samaa mieltä esittelijän kanssa siitä, että EU:n on tiivistettävä taloudellista ja kulttuurista yhteistyötä Latinalaisen Amerikan kanssa, ja korostaisin, että tässä yhteydessä suhteet Brasiliaan ovat ratkaisevassa asemassa, sillä Brasilia on tärkeä jäsen tässä kumppanuusprosessissa.
+<P>
+Olen huolestuneena pannut merkille, että demokratiaan ja vapauksiin liittyvä edistys Latinalaisessa Amerikassa ei ole tuonut mukanaan parannusta köyhyyden ja sosiaalisen eriarvoisuuden torjuntaan.
+<P>
+Mielestäni EU:n ei pidä hyväksyä ihmisoikeuksien räikeitä loukkauksia eikä kansalaisoikeuksien supistamisia, joita on nähty tapahtuvan Kuubassa ja aivan hiljattain Hugo Chávezin Venezuelassa.
+<P>
+Odotan mielenkiinnolla Wienin huippukokouksen tuloksia ja toivon, että siellä onnistutaan todellakin tiivistämään EU:n ja Latinalaisen Amerikan suhteita. 
+<SPEAKER ID="102" LANGUAGE="PT" NAME="Duarte Freitas (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Komission ehdotuksessa ja parlamentin mietinnössä kalastusalan pöytäkirjaan esitettyjen muutosten ansiosta on jatkossa mahdollista mukauttaa pyyntiponnistukset kalavarojen epävakaisuuteen pääjalkaisten luokan osalta sekä korvata kalastusmahdollisuuksien menetykset lisäämällä lisenssien määrää pelagisen kalastuksen ja tonnikalanpyynnin luokissa.
+<P>
+Nämä muutokset eivät estä uusien jäsenvaltioiden lipun alla purjehtivien laivastojen integroitumista, ja ne turvaavat samalla tämän sopimuksen mukaisesti perinteisesti kalastusta harjoittavien yhteisön kalastusalusten alueelle pääsyn jatkumisen. Näin ollen kannatan mietintöä. 
+<SPEAKER ID="103" LANGUAGE="NL" NAME="Johannes Blokland (IND/DEM )," AFFILIATION="kirjallinen">
+<P>
+   . Tapa, jolla komissio hoiti raha-asioitaan vuonna 2004, riittää minun ja jäsen Belderin mielestä perusteluksi sille, että vastuuvapauden myöntämistä lykätään. Ensinnäkin komission on ilmoitettava äärimmäisen selvästi, mitä se aikoo tehdä aloitustaseeseen liittyville ongelmille. Viivästykset sisäisen valvonnan standardien laadinnassa, soveltamisessa ja täytäntöönpanossa eivät myöskään ole suvaittavia. Kolmanneksi komission on esitettävä toimintasuunnitelma, jossa esitetään määräaika myönteisen tarkastuslausuman saavuttamiselle. Neljänneksi todettakoon, että maksamatta jääneitä ennakkomaksuja on liian paljon. Meille on epäselvää, miten ja milloin komissio haluaisi tämän ongelman ratkaista. Lisäksi on uskomatonta, että Kreikka, joka on jäsenvaltio, saa yhä enimmäismäärän maataloustukia, vaikka se ei yli kymmeneen vuoteen ole pannut täysimääräisesti täytäntöön yhdistettyä hallinto- ja valvontajärjestelmää. 
+<SPEAKER ID="104" LANGUAGE="IT" NAME="Mario Borghezio (IND/DEM ). –" AFFILIATION="">
+<P>
+   Arvoisa puhemies, hyvät kollegat, pyysin puheenvuoroa selventääkseni äänestyspäätöstäni: äänestin parlamentin talousarviota koskevan vastuuvapauden myöntämistä vastaan, koska mielestäni päätöksessä, joka tehtiin Strasbourgissa sijaitsevista rakennuksista, vähätellään asioita. Tällaista asiaa, joka nimenomaan koskee rakennuksia, joissa Euroopan parlamentti tekee Strasbourgissa työtään, ei voida enää arkistoida sisäistä hallintoa koskevien papereiden joukkoon. Olen kuullut, että parlamentin puhemies on itse jo lähettänyt asianmukaisen kirjeen Strasbourgin kaupungille.
+<P>
+Euroopan unionin toimielinten noudattaman olennaisen avoimuusperiaatteen mukaisesti ehdotan, että perustetaan välittömästi väliaikainen tutkintavaliokunta selvittämään kaikki Strasbourgissa sijaitsevien rakennusten vuokraamiseen liittyvät seikat ja kuka vastaa Erasmo-yrityksestä. 
+<SPEAKER ID="105" LANGUAGE="NL" NAME="Bastiaan Belder (IND/DEM )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestimme kollegani, jäsen Bloklandin kanssa Euroopan parlamentin puhemiehelle talousarvion toteuttamisesta varainhoitovuonna 2004 myönnettävää vastuuvapautta vastaan.
+<P>
+Äänestäjät eivät ymmärrä parlamentin siirtämistä Strasbourgissa, vaikka parlamentti itse toimii Eurooppa-neuvoston päätöksen mukaisesti. Katsomme, että liiallisena maksettu vuokra, jonka määrä on 10 prosenttia vuosivuokrasta, olisi vaadittava takaisin Strasbourgin kaupunginvaltuustolta. Tämä on olennainen edellytys vastuuvapauden myöntämiselle. 
+<SPEAKER ID="106" LANGUAGE="EN" NAME="Glyn Ford (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin parlamentin talousarviota koskevan vastuuvapauden myöntämistä vastaan, mutta syynä eivät olleet minkäänlaiset parlamentin hallintoon liittyvät ongelmat, vaan väitteet, joiden mukaan Strasbourgin kaupunki on huijannut parlamenttia ja näin ollen Euroopan kansalaisia. Vuodelta 1992 muistamme silloiselta Britannian puheenjohtajuuskaudelta John Majorin älyttömän sopimuksen, jolla Saksa saatiin tunnustamaan Kroatia, ja kymmenet tuhannet kuolemat tätä seuranneissa sisällissodissa. Tämän ansiosta Britannia saattoi jättäytyä sosiaalipoliittisen luvun ulkopuolelle, sillä luvun myötä Britannian kansalaiset olivat vaarassa menettää riittävät sosiaaliset standardit – ennen kuin Tony Blairin Labour-hallitus tuli hätiin. Ranskan vaatimuksesta parlamentti tuomittiin tuolloin ikiajoiksi matkustamaan Strasbourgiin, mistä aiheutuu vuosittain 400 miljoonan euron kustannukset ja rikollista toiminnan tehottomuutta. Nyt saamme kaiken lisäksi kuulla, että Strasbourgin kaupunki on hyvinkin saattanut käyttää tämän päätöksen varjolla monopoliasemaansa hyväkseen ja huijata Euroopan kansalaisia. 
+<SPEAKER ID="107" LANGUAGE="FR" NAME="Fernand Le Rachinel (NI )," AFFILIATION="kirjallinen.">
+<P>
+   Jäsen Ferberin mietintö vuoden 2004 talousarvion toteuttamisesta Euroopan parlamentille myönnettävästä vastuuvapaudesta ei ole pohjimmiltaan rehellinen.
+<P>
+Jäsen Ferber ylittää tehtävänsä esittelijänä, kun hän käyttää hyväkseen anglosaksisten käynnistämää Strasbourgin vastaista lobbausta ja ryhtyy salakavalasti arvostelemaan Strasbourgia.
+<P>
+Euroopan parlamentti ei voi itse päättää sijainnistaan. Tämän valtioiden ja hallitusten päämiehet ovat päättäneet yksimielisesti, ja tämä päätös on sisällytetty perussopimuksiin vuonna 1999 tehdystä Amsterdamin sopimuksesta lähtien.
+<P>
+Strasbourg tai Ranska eivät myöskään ole valmiita vaihtamaan nykyisiä järjestelyjä epävarmaan vaihtoehtoon, eli siihen, että Euroopan parlamentti siirretään Brysseliin ja Strasbourg saa vastineeksi Euroopan teknologiainstituutin. Miksipä ei perustettaisi sinne Euroopan gerontologiakeskusta?
+<P>
+Aivan kuten toiset haluaisivat Ranskan ja Alankomaiden äänestävän uudestaan kuopatusta Euroopan perustuslaista, toiset antautuvat toiveajattelulle ja haluavat luopua Euroopan parlamentin päämajasta Strasbourgissa. Tällöin rikottaisiin räikeästi perussopimuksia.
+<P>
+Aiomme määrätietoisesti vastustaa tätä, ei ainoastaan Ranskan vaan myös Euroopan yleisen edun nimissä. 
+<SPEAKER ID="108" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin mietintöä vastaan, jotta talousarvion valvontavaliokunta saisi lisäaikaa tutkia, onko parlamentilta mahdollisesti peritty liikaa vuokraa Strasbourgissa sijaitsevista rakennuksista. On äärimmäisen tärkeää, että tämä todella harmittava asia tutkitaan perinpohjaisesti. Parlamentin on kaikin mahdollisin tavoin pyrittävä takaamaan, että veronmaksajien varoja käytetään asianmukaisesti. 
+<SPEAKER ID="109" LANGUAGE="NL" NAME="Erik Meijer (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Kaikki alankomaalaiset parlamentin jäsenet ovat vuodesta 1999 sitoutuneet siihen, etteivät liity eläkerahastoon. Toisaalta syynä on se, että rahastoon liittyvillä on oikeus kahteen eläkkeeseen, ja toisaalta se, että eläkkeet maksaa suurelta osin parlamentti – jos nyt ei käytännössä kuitenkaan ihan kokonaan. On todella raivostuttavaa, että Euroopan parlamentti joutuu kärsimään puutteista, joita on jo aiheutunut siitä, että jäsenvaltiot eivät ole hoitaneet eläkerahastoja asianmukaisesti. Veronmaksajat joutuvat tällöin maksamaan siitä, että heitä edustavat ihmiset toimivat vastuuttomasti ja että näiden edustajien ensisijaisena tavoitteena näyttää olevan ylimääräisten taloudellisten palkkioiden saaminen.
+<P>
+Vieläkin enemmän minua suututtaa se, että talousarvion valvontavaliokunta on suurelta osin poistanut tekstistä eläkerahastoon liittyvien tapahtumien aivan oikeutetun arvostelun, joka jäsen Ferberin mietintöön alunperin sisältyi. Näin tehdessään valiokunnan voidaan katsoa epäonnistuneen surkeasti valvontarakenteena, ja siksi en aiokaan äänestää vastuuvapauden myöntämisen puolesta. 
+<SPEAKER ID="110" LANGUAGE="NL" NAME="Erik Meijer (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Tällä viikolla kävi ilmi, että Euroopan parlamentilta on kaikella todennäköisyydellä 25 vuoden ajan peritty väärin perustein liikaa vuokraa Strasbourgissa sijaitsevien rakennusten käytöstä. Tämä riitti syyksi lykätä vuotuisen tilinpäätöksen hyväksymistä, kunnes asia on tutkittu perinpohjaisesti. Mielestäni tämä on aivan reilua.
+<P>
+Samaan aikaan vastaavaa tapahtuu alueiden komiteassa. Sielläkin on havaittu taloudellisia väärinkäytöksiä, ja tutkimus on käynnissä. Tämän vuoksi en millään ymmärrä, että enemmistö näyttää olevan valmis hyväksymään nämä vuotuiset tilinpäätökset, vaikka petostutkimukset ovat vielä kesken ja läheskään kaikkea totuutta ei tiedetä. Minusta on hyvin huolestuttavaa, että enemmistö talousarvion valvontavaliokunnan jäsenistä ei hyväksynyt suunniteltua alueiden komitean kuulemista väärinkäytöksistä.
+<P>
+Nyt näyttää siltä, että parlamentti vastustaa taloudellisia väärinkäytöksiä ainoastaan silloin, kun kyseessä ovat sen omat rahat. Tässä on kyse rahoista, joita kaikkien eurooppalaisten on yhdessä kerättävä hyödyllisiä tehtäviä varten, ja näitä varoja ei saisi tuhlata. Näin ollen äänestän alueiden komitean vuosittaisen tilinpäätöksen hyväksymistä vastaan. 
+<SPEAKER ID="111" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin oikeusasiamiehelle myönnettävän vastuuvapauden puolesta. Vetoomusvaliokunnan jäsenenä arvostan oikeusasiamiehen työtä ja katson hänen toimivan tehtävässään tehokkaasti ja ahkerasti. 
+<SPEAKER ID="112" LANGUAGE="EN" NAME="Glyn Ford (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Osallistun keskusteluun sillä olen osittain vastuussa Euroopan rasismin ja muukalaisvihan seurantakeskuksen perustamisesta. Toimin nimittäin parlamentin edustajana ministerineuvoston perustamassa rasismia ja muukalaisvihaa käsittelevässä neuvoa-antavassa komiteassa vuosina 1994–1999.
+<P>
+Minulla ei ole mitään suurta valittamisen aihetta seurantakeskusta koskevasta jäsen Guidonin mietinnöstä, mutta haluan todeta suhtautuvani varauksella siihen, että keskuksen rahoitus on puutteellista verrattuna suureen joukkoon muita keskuksia, kuten käännös- ja koulutusalan keskuksia, jotka eivät ole mielestäni yhtä tärkeitä eurooppalaisten kannalta. Toiseksi suhtaudun epäileväisesti siihen, että sitoudutaan laajentamaan keskuksen toimialaa ilman lisärahoitusta ja näin tehdään sen jo nykyiselläänkin vaikeasta tehtävästä käytännössä mahdoton.
+<P>
+Mielestäni näissä toimissa heijastuvat parlamentin omat poliittiset mielipiteet. Jotkut parlamentin jäsenet ovat samanhenkisiä rasistien ja muukalaisvihaajien kanssa, ja toiset taas suhtautuvat asiaan aivan liian väheksyvästi. En ymmärrä, kuinka he voivat ajatella näin, kun rasismi lisääntyy jalkapallossa niin Italiassa, Espanjassa kuin muuallakin, äärioikeisto saa vaalivoittoja Ranskassa, Belgiassa, Italiassa ja Tanskassa ja kun oma versiomme Le Penin , eli , uhkaa läpimurrolla 4. toukokuuta pidettävissä Britannian paikallisvaaleissa. 
+<SPEAKER ID="113" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin Euroopan rasismin ja muukalaisvihan seurantakeskukselle myönnettävän vastuuvapauden puolesta. Mietinnöstä käy selväksi, että seurantakeskus on käyttänyt ahkerasti nykyiset varansa. Koska rasististen poliittisten puolueiden kannatus on kuitenkin nousussa ja rasistisia tapahtumia tulee yhä enemmän ilmi, seurantakeskuksen rahoituksen lisäämiselle on vahvat perusteet. 
+<SPEAKER ID="114" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin Euroopan huumausaineiden ja niiden väärinkäytön seurantakeskukselle myönnettävän vastuuvapauden puolesta. Koska huumeiden tuonti näyttää ilmeisesti lisääntyvän ja riippuvuus huumeista kasvaa erityisesti joissakin Euroopan vähäosaisimmissa yhteisöissä, toivoisin, että seurantakeskus kohentaisi näkyvyyttään ja tekisi entistä enemmän työtä, jotta nämä ongelmat saataisiin ratkaistua. 
+<SPEAKER ID="115" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin Euroopan lääkevirastolle myönnettävän vastuuvapauden puolesta. Mielestäni virasto voi vaikuttaa merkittävästi siihen, että varmistetaan uusien lääkkeiden turvallinen saattaminen markkinoille ja että yksittäiset jäsenvaltiot tekevät mahdollisimman vähän päällekkäistä työtä. 
+<SPEAKER ID="116" LANGUAGE="PT" NAME="José Ribeiro e Castro (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Kap Verde on näyttänyt erinomaista esimerkkiä demokratian, hyvän hallintotavan ja ihmisoikeuksien kunnioittamisen aloilla, ja sillä on tiiviit historialliset, yhteiskunnalliset, poliittiset, kulttuuriset ja maantieteelliset siteet EU:hun. Näin ollen maalla on ainutlaatuisen tärkeä strateginen merkitys Euroopan ja Afrikan suhteiden kehittämisessä ja tiivistämisessä. Kap Verde tuo vakautta ja turvallisuutta yhdelle Euroopan alueen ulkorajalle.
+<P>
+Vaikka Kap Verde muodostaakin Euroopan rajan Kaakkois-Atlantilla, se on liitetty ohjelmiin, jotka eivät sinänsä vastaa maan todellista läheisyyttä tai tapaa, jolla maa on omaksunut yhteiset arvot, kuten oikeusvaltion periaatteen, hyvien ja läheisten naapuruussuhteiden edistämisen sekä markkinatalouden ja kestävän kehityksen periaatteet.
+<P>
+Kap Verden viranomaiset ja suurin oppositiopuolue ovat luoneet yhteyksiä saavuttaakseen erityisaseman tai kumppanuuden EU:n kanssa. Tätä voitaisiin edistää merkittävällä tavalla, jos maa otettaisiin mukaan naapuruuspolitiikkaan. Tämä olisi tärkeä askel naapuruuspolitiikassa, jonka merkitys heikkenee, jos siinä keskitytään ainoastaan Euroopan unionin eteläisiin ja itäisiin raja-alueisiin.
+<P>
+Olen tyytyväinen tarkistuksen 36 ja 38 hyväksymiseen. 
+<SPEAKER ID="117" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin Euroopan elintarviketurvallisuusviranomaiselle myönnettävän vastuuvapauden puolesta. Elintarvikkeisiin liittyvät pelot lisääntyvät, ja siksi viranomaisen tärkeä tehtävä on varmistaa sekä elintarvikkeidemme turvallisuus että kuluttajien luottamus elintarvikeketjuun. 
+<SPEAKER ID="118" LANGUAGE="EN" NAME="James Elles (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin konservatiivisten brittikollegoitteni kanssa talousarvioiden toteuttamista koskevien vastuuvapauksien myöntämistä käsitteleviä parlamentin mietintöjä vastaan, koska tämä on 11. vuosi, jona tilintarkastustuomioistuin ei ole voinut antaa myönteistä tarkastuslausumaa kaikista EU:n tilinpäätöksistä. Konservatiivijäsenten mielestä komission on kiireesti selvitettävä tämä asia. Kaikenlaisten hallintoon liittyvien epäselvyyksien ja petosten suhteen on noudatettava ehdotonta tinkimättömyyttä, ja seuraavaksi mainitsen kolme tärkeintä alaa, joihin on keskityttävä.
+<P>
+Ensiksikin on valvottava tiiviisti tammikuussa 2005 käyttöön otettuja uusia kirjanpitojärjestelmiä, jotta varmistetaan, että näillä järjestelmillä saadaan tuotettua maailmanluokan tasoista kirjanpitoa.
+<P>
+Toiseksi on paitsi puolustettava ilmiantajien oikeuksia myös kannustettava heitä astumaan esiin.
+<P>
+Kolmantena mainitsen seikan, joka huolestutti eniten tilintarkastajia, eli sen 80 prosenttia talousarviosta, joka käytetään jäsenvaltioissa. Komissio on vastuussa EU:n kaikkien varojen käyttämisestä, mutta tosiasiassa valta on siirretty jäsenvaltioiden maksajavirastoille. Kuten tilintarkastustuomioistuimen presidentti on esittänyt, tavoitteena on oltava, että noudatetaan periaatetta, jonka mukaan jäsenvaltiot ovat vastuussa varojen käyttämisestä. 
+<SPEAKER ID="119" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Mietintö antaa viitteitä siitä, että rahoitusala on valtaamassa alaa reaalitaloudelta. Esitetyillä toimenpiteillä, joilla muutetaan arvopapereihin kohdistuvaa yhteistä sijoitustoimintaa harjoittaviin yrityksiin (UCITS) liittyvää lainsäädäntöä, ja niihin tehtävillä sijoituksilla pyritään ensisijaisesti lisäämään sijoitusrahastojen rajatylittävää kauppaa. Lisäksi tarkoituksena on poistaa kaikki esteet, myös veroesteet, jotta nämä rahastot, myös rahastojen sulautumat, saataisiin mahdollisimman kannattaviksi.
+<P>
+Rahastojen kaupan helpottamiseksi ja kilpailun lisäämiseksi suunnitellaan tarjousesitteiden ja kuluttajansuojaa koskevien sääntöjen yhdenmukaistamista. Lisäksi mietinnössä esitetään sijoitustoiminnan laajentamista arvopapereihin, mikä lisää sijoittajille koituvaa riskiä.
+<P>
+Ehdotuksella pyritään muuttamaan rahoitusmarkkinoihin ja sijoitusrahastoihin liittyvä EU:n toimintamalli Yhdysvalloissa noudatetun toimintamallin kaltaiseksi. Tämä liittyy osana rahoitusalan globalisoitumiseen. Ei ole mikään yllätys, että eläkerahastot mainitaan yhtenä tärkeimpänä asiana.
+<P>
+Tällaisella rahantekojärjestelmällä, jolla tuotantotalous imetään kuiviin ja tallotaan monien työntekijöiden saavuttamat oikeudet, maksimoidaan pankkialan ja rahastoyhtiöiden voitot. Samalla lisätään rahoituksellisten ja taloudellisten kriisien mahdollisuutta. Näin ollen äänestimme mietintöä vastaan. 
+<SPEAKER ID="120" LANGUAGE="" NAME="Peter Skinner (PSE )," AFFILIATION="kirjallinen.">
+<P>
+   – (EN) EPLP hyväksyy esittelijän yleistavoitteen, että sääntely ja markkinoiden tarpeet pyritään saamaan tasapainoon. EPLP ei kuitenkaan hyväksy, että direktiivillä otettaisiin käyttöön Lamfalussy-menettely, mitä ehdotettiin tarkistuksessa 6.
+<SPEAKER ID="121" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Käsiteltävänämme oleva mietintö on uusliberalistinen suunnitelma Lissabonin strategian toteuttamiseksi. Mietinnössä esitetään, että valtiontukien olisi oltava poikkeus, ja vaaditaan sääntelyn vähentämistä, kilpailun varmistamista, pääoman saannin helpottamista, yrittäjyyden edistämistä sekä työntekijöiden ja tutkijoiden vapaata liikkuvuutta rajoittavien esteiden poistamista. Lisäksi siinä vaaditaan yhteisen maahanmuuttopolitiikan käyttöönottoa, jotta saataisiin poistettua esteet etenkin tieto- ja viestintätekniikan alan rekrytoinneilta. Samalla siinä kannustetaan yksityistä ja julkista sektoria luomaan kumppanuuksia ja tuomitaan pk-yrityksille suunnattu tuki tehottomaksi. Kaikki tämä todetaan innovaation nimissä!
+<P>
+Toisaalta mietinnössä kannatetaan strategiaa, jonka mukaan yhteisössä määriteltävä valtiontuki suunnataan horisontaalisiin tavoitteisiin, ja tämä tehtäisiin jälleen etenkin niin kutsutun innovaation nimissä. Tämä menetelmä on myös osa Bolognan koulutusalan prosessia, ja sen tarkoituksena on saada yliopistot ja oppilaitokset vastaamaan suurten monikansallisten yhtiöiden tarpeisiin sekä saada "koulutettua" yhtenäistä työvoimaa, joka osaa käyttää tieto- ja viestintätekniikkaa ja on kielitaitoista, mikä helpottaa ammatillista ja maantieteellistä liikkuvuutta sekä työhön sopeutumista. Samalla on tarkoitus kaupallistaa tieto ja tutkimustulokset. Tämän vuoksi äänestimme mietintöä vastaan. 
+<SPEAKER ID="122" LANGUAGE="EN" NAME="Glyn Ford (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin tyhjää tämän mietinnön osalta, koska mielestäni tekstissä epäsuorasti esitetty ero keksintöjen ja innovaation välillä tarkoittaa, ettei ole ymmärretty tieteellisten havaintojen merkitystä ja niiden taloudellisia vaikutuksia. Jos aiomme kilpailla korkean teknologian innovaatioiden maailmassa ja parantaa innovaatioiden jälkeisiä saavutuksiamme, jotka ovat tällä hetkellä surkealla tasolla kilpailijoihimme verrattuna, Euroopan on tuettava innovaatiotoimintaa julkisin varoin silloin, kun se on mahdollista. Jäsen in 't Veldin mietinnössä tätä ei hyväksytä, ja mielestäni valtiontukia rajoitetaan kohtuuttomasti. Näin ollen en voinut äänestää mietinnön puolesta. 
+<SPEAKER ID="123" LANGUAGE="CS" NAME="Tomáš Zatloukal (PPE-DE )." AFFILIATION="">
+<P>
+   – Arvoisa puhemies, jäsen Titleyn mietintö on myönteinen askel kohti tieliikenteen turvallisuuden parantamista. eCall-järjestelmällä pelastetaan ihmishenkiä Euroopan teillä ja vähennetään vakavia loukkaantumisia, ja järjestelmälle muodostuu erittäin suotuisa kustannus-hyötysuhde. Meidän on vastattava tieliikenteen kasvuun parantamalla passiivista ja aktiivista tieliikenteen turvallisuutta. eCall-järjestelmä on osa maailmankuulua eSafety-aloitetta ja ensisijainen tavoite ohjelmassa, jossa toteutetaan muun muassa kuljettajan tukijärjestelmiä, kaistavahtia ja törmäyksen seurauksia lieventävää järjestelmää. Yhdistämällä Galileo-järjestelmä eCall-järjestelmään saamme parannettua entisestään tätä viimeisintä tekniikkaa edustavaa järjestelmää. Tästä on hyötyä koko Euroopan liikenteelle. eCall-järjestelmästä on hyötyä niille sadoille miljoonille kansalaisille, jotka joka vuosi matkustavat ulkomaille autolla. Niinpä äänestin eCall-järjestelmän saamista kansalaisten käyttöön käsittelevän mietinnön puolesta. 
+<SPEAKER ID="124" LANGUAGE="EN" NAME="Richard Corbett (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin innolla kollegani Gary Titleyn loistavan aloitteen puolesta. Siinä ehdotetaan Euroopan laajuista automaattista hätäpuhelinpalvelua. Ajoneuvoon asennettu eCall-laite soittaa onnettomuustilanteessa automaattisesti hätäpuhelun suoraan lähimpään hälytyskeskukseen ja kertoo onnettomuuden tarkan tapahtumispaikan. Näin voidaan lyhentää huomattavasti onnettomuuden vasteaikaa ja hoitaa enemmän vammoja ratkaisevan "kultaisen tunnin" sisällä onnettomuudesta.
+<P>
+Järjestelmän ansiosta säästyy ihmishenkiä, mutta saadaan myös lyhennettyä onnettomuudesta johtuvaa ruuhka-aikaa sekä edistettyä tieliikenteen sujuvuutta Euroopassa vähentäen ulkoisia kustannuksia.
+<P>
+Järjestelmä on erinomainen esimerkki EU:n tason toiminnasta, ja se täydentää yleisen hätänumeron (112) toimintaa, jota minäkin olin ehdottamassa, kun olin nuorempi virkamies vuosia sitten. 
+<SPEAKER ID="125" LANGUAGE="FR" NAME="Brigitte Douay (PSE )," AFFILIATION="kirjallinen">
+<P>
+   .Annan vankan tukeni jäsen Titleyn mietinnössä esitetyille suosituksille, että "eCall kansalaisten käyttöön"-tiedonantoa aletaan noudattaa 25 jäsenvaltiossa. Tämä järjestelmä on itse asiassa avainasemassa tieliikenteen turvallisuuden lisäämisessä.
+<P>
+Onnettomuustilanteessa vasteajan lyhyys sekä onnettomuuspaikan turvallisuuden varmistamisessa että uhrien auttamisessa on kaikkein tärkein edellytys, jotta voidaan välttyä kaikkein järkyttävimmiltä seurauksilta. Yli 40 000 ihmistä saa joka vuosi surmansa Euroopan unionin teillä tapahtuvissa onnettomuuksissa.
+<P>
+Tällä järjestelmällä voitaisiin pelastaa 2 500 ihmishenkeä vuosittain, ja kaikkien maiden viranomaisten on tietenkin edistettävä järjestelmän toimintaa ja kansalaisten, jotka vaativat yhä useammin turvallisia teitä, on vaadittava järjestelmän käyttöönottoa.
+<P>
+Tämän vuoksi onkin valitettavaa, että jotkut jäsenvaltiot – kuten Ranska, jossa tieliikenteen turvallisuus on kuitenkin julistettu tärkeäksi kansalliseksi asiaksi – ovat myöhässä "eCall kansalaisten käyttöön"-tiedonannon täytäntöönpanossa. Toivokaamme, että jäsen Titleyn mietinnön hyväksyminen ja sen saama julkisuus Euroopan unionissa nopeuttavat tämän tärkeän älykkään ajoneuvojärjestelmän käyttöönottoa jokaisessa jäsenvaltiossa. 
+<SPEAKER ID="126" LANGUAGE="SV" NAME="Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+   On tärkeää, että tieliikenteen turvallisuuteen liittyvät asiat asetetaan etusijalle ja että työtä tehdään kuolemantapausten vähentämiseksi teillämme. Jäsenvaltioilla on hyvä syy harkita ajoneuvoihin asennettavan hätäpuhelujärjestelmän, eCall-järjestelmän, käyttöönottoa. En kuitenkaan ymmärrä, miksi Euroopan parlamentin ja EU:n muiden toimielinten olisi pyydettävä jäsenvaltioita allekirjoittamaan eCall-yhteistoimintamuistio. Jäsenvaltioiden on saatava päättää kannastaan ilman EU:n toimielinten poliittista saarnaa. eCall-järjestelmän käyttöönotosta aiheutuu kustannuksia ja teknisiä yhdenmukaistuksia. Jäsenvaltioiden on saatava päättää, mitkä tieliikenteen turvallisuuteen liittyvät toimenpiteet ovat tärkeimpiä ja realistisia ja mitkä toimenpiteet ne asettavat etusijalle. Olen näin ollen päättänyt äänestää mietintöä vastaan. 
+<SPEAKER ID="127" LANGUAGE="EN" NAME="David Martin (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Mietinnössä esitellään uusi järjestelmä, jossa autokolarin sattuessa autosta välittyy törmäyshetkellä digitaali- ja satelliittitekniikan avulla puhelu suoraan hätäpalveluun. Uusi järjestelmä on tarkoitus asentaa kaikkiin uusiin ajoneuvoihin vuodesta 2009, ja tämän avulla koko Euroopassa säästettäisiin jopa 2 500 ihmishenkeä vuosittain.
+<P>
+Ajoneuvoon asennettu anturi aktivoituu törmäyksen vaikutuksesta ja lähettää Euroopan laajuisen hätänumeron 112 kautta tiedon ajoneuvon sijainnista, nopeudesta ja omistajasta lähimmälle poliisille, palolaitokselle ja sairaanhoitopalveluun.
+<P>
+Olen tyytyväinen mietintöön, koska sen ansiosta voidaan pelastaa satoja auto-onnettomuuksien uhreja, jotka jäävät loukkuun autoonsa eivätkä pysty käyttämään matkapuhelimiaan vammojensa vuoksi. Vaikka tämä älyautojen järjestelmä maksaa 4 miljardia euroa, sen ansiosta säästetään lopulta 26 miljardia euroa onnettomuuksista ja ruuhkista aiheutuvia kuluja kaikkialla Euroopassa.
+<P>
+Komission arvion mukaan älyautojen järjestelmällä voitaisiin vähentää kuolemaan johtaneita liikenneonnettomuuksia jopa 15 prosenttia. 
+<SPEAKER ID="128" LANGUAGE="PT" NAME="Edite Estrela (PSE )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestin jäsen Mavrommatisin monikielisyyden ja kielten oppimisen edistämisestä Euroopan unionissa laatimaa mietintöä (A6-0074/2006) vastaan, koska Euroopan unionissa, joka perustuu yhteisöjen rinnakkaiseloon, on ratkaisevaa, että kansalaisilla on tarvittavat taidot tehokasta keskinäistä viestintää varten ja että he pystyvät näin lisäämään liikkuvuutta EU:ssa. On väärin myöntää tietyille kielille etuoikeutettu asema ja jättää muut seikat huomiotta.
+<P>
+Kun luodaan niin kutsuttu monikielinen yhteiskunta, jossa jokaisella kansalaisella on mahdollisuus oppia vähintään kahta kieltä äidinkielensä ohella, on helpompi lisätä EU:n eri jäsenvaltioiden kansalaisten yhteyksiä. Lisäksi on kuitenkin tärkeää, ettei tämä tapahdu kansallisten kielten kustannuksella. 
+<SPEAKER ID="129" LANGUAGE="PT" NAME="Ilda Figueiredo (GUE/NGL )," AFFILIATION="kirjallinen">
+<P>
+   . Äänestimme mietintöä vastaan, koska monikielisyyttä ei ole tarkasteltu kaikilta siihen liittyvien käytännön tilanteiden kannalta. Toteutettavat toimet saattavat johtaa siihen, että luodaan luettelo valittavista kielistä. On järkyttävää, ettei mietintöön hyväksytty ehdotuksia kielivalikoiman laajentamisesta myös maahanmuuttajien kieliin.
+<P>
+Lainaan komissiota: "EU:n toimielinten on löydettävä tasapainoinen suhde monikielisyydestä koituvien kulujen ja hyötyjen välille."
+<P>
+Tämän virke seuraa iäisiä esimerkkejä EU:n virallisten kielten käyttöön, kääntämiseen ja tulkkaukseen liittyvästä syrjinnästä sekä kymmenien komission yksiköissä työskennelleiden opettajien erottamisesta. Tämä lisää huolestuneisuuttamme tarpeesta edistää monikielisyyttä EU:n kulttuurisena arvona.
+<P>
+Näin ollen kannatamme toimielintenvälisen sopimuksen tekemistä EU:n kielijärjestelyjä koskevista lainsäädännöllisistä puitteista. Tällaisessa sopimuksessa olisi kunnioitettava kulttuurien ja kielten moninaisuutta, sillä kieli on välittömin kulttuurin ilmentymä. Siinä olisi myös taattava, että kaikkia virallisia kieliä kohdellaan tasavertaisesti, ja siten luovuttaisiin ehdotuksesta, että kielet eroteltaisiin "virallisiin kieliin" ja "työkieliin". Tämä erottelu on aiheuttanut tiettyjen kielten, kuten portugalin, syrjintää. 
+<SPEAKER ID="130" LANGUAGE="SV" NAME="Nils Lundgren (IND/DEM )," AFFILIATION="kirjallinen.">
+<P>
+   Junilistan on aiemmin huomauttanut Euroopan parlamentissa – ja huomauttaa jälleen –, että jäsenvaltiot ovat yksinomaan vastuussa opetuksen järjestämisestä ja koulutusjärjestelmiensä sisällöstä. Molemmissa nyt käsiteltävänä olevissa päätöslauselmissa Euroopan parlamentti yrittää häpeämättömästi puuttua kieltenopetukseen ja koulutusjärjestelmien mukauttamiseen esimerkiksi uuteen tekniikkaan ja digitalisointiin. Näin ollen äänestän kumpaakin päätöslauselmaa vastaan.
+<P>
+Ymmärrän kuitenkin, että jäsenvaltioiden on ehkä keskusteltava keskenään lukuisista seikoista, kuten analogisista digitaalisiin radio- ja televisiolähetyksiin siirtymisen seurauksista. Euroopan parlamentti kuitenkin menee, kuten tavallista, liian pitkälle ehdotuksissaan, kun sen tavoitteena on luoda EU:lle oma politiikka kaikista mahdollisista aiheista. Mielestäni ministerineuvosto on paras paikka päättää siitä, kuinka tiivistä yhteistyötä edellä mainitulla alalla on syytä tehdä. 
+<SPEAKER ID="131" LANGUAGE="FR" NAME="Jean-Claude Martinez (NI )," AFFILIATION="kirjallinen">
+<P>
+   .On hyvä, että Euroopan kielelliseen yhtenäistämiseen, eli siihen, että englanti toimii kansan foneettisena soppana, vastataan monikielisyydellä, jota Euroopan unioninkin olisi syytä noudattaa.
+<P>
+Ranskalaiset, jotka kuulevat Jean-Claude Trichet’n puhuvan Euroopan parlamentissa englantia, ja saksalaiset, jotka huomaavat, että heidän kielensä osuus Euroopassa käytetyistä kielistä jää 14 prosenttiin, vaikka saksalaisten osuus Euroopan unionin kansalaisista on 30 prosenttia, voivat vain hyväksyä monikielisyyden vahvistamisen. Euroopan tehtävä ei ole edistää kielellisen monimuotoisuuden tuhoutumista.
+<P>
+Tästä näkökulmasta katsottuna, katalaaneilla on joitakin järkeviä huomioita. Katalaanin puhujia on yli 15 miljoonaa, ja sitä käytetään enemmän kuin suomea, tanskaa, latviaa tai jopa hollantia. Sitä ei siis voida unohtaa Euroopan parlamentissakaan.
+<P>
+Katalaanin, oksitaanin tai bretonin kieliä voidaan pitää Ranskan kulttuuripuun juuriversoina. Samaa voitaisiin sanoa espanjalaista identiteettiä kuvaavasta puusta. Anglosaksisen globalisaation tuulissa nämä kansalliset puut tarvitsevat kaikki syvät kulttuuriset juurensa pysyäkseen pystyssä.
+<P>
+On totta, että ilman monikielisyyden välttämättömyyttä ranskalaiset Euroopan parlamentin jäsenet pyytäisivät muutaman vuoden kuluttua vähemmistöllemme oikeutta puhua alueellista kieltämme. 
+<SPEAKER ID="132" LANGUAGE="PT" NAME="Luís Queiró (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Jäsen Mavromatisin mietinnön aiheena on avaintekijä EU:n kansalaisten opettamisessa ja kouluttamisessa, eli kielitaito.
+<P>
+Tulevaisuuden Eurooppaan tarvitaan kansalaisia, jotka ovat valmiita vastaamaan tietoon perustuvan yhteiskunnan haasteisiin. Siksi onkin äärimmäisen tärkeää, että he voivat viestiä vähintään kahdella muulla kielellä kuin äidinkielellään.
+<P>
+Näin ollen katson, että on välttämätöntä hyväksyä kielitaitoa osoittava indikaattori, jotta saamme nykyistä paremman käsityksen EU:n kansalaisten kielitaidosta. Tiettyjen kielten suosimista muiden kielten kustannuksella ei kuitenkaan voida hyväksyä. Tämä koskee etenkin portugalia, jonka puhujia on 200 miljoonaa ja joka on EU:n kielistä kolmanneksi puhutuin kieli maailmassa.
+<P>
+Kielitaitoa mittaavan indikaattorin lisäksi mietinnöstä tulee esille aivan toisenlainen hälyttävä poliittinen indikaattori. Se liittyy Eurooppaan, joka keskittyy enemmän itseensä kuin ympäröivään maailmaan ja joka arvioi kieliään sisäisen väestörakenteensa perusteella. Tämä voi olla joillekin hyvä tapa toimia, mutta EU:n perusperiaatteiden nojalla se on poliittisesti sopimaton.
+<P>
+Näistä syistä äänestin Mavromatisin mietintöä vastaan. 
+<SPEAKER ID="133" LANGUAGE="PT" NAME="José Ribeiro e Castro (PPE-DE )," AFFILIATION="kirjallinen">
+<P>
+   . Kielitaidon lisääntyminen tuo lisäarvoa yksittäisille ihmisille, ja se on välttämätöntä maiden, yhteisöjen ja kulttuurien keskinäiselle ymmärtämiselle. Toisin sanoen se on ratkaisevaa Euroopan unionille, joka haluaa tuoda moninaisuuteen yhtenäisyyttä.
+<P>
+Puutteelliset tiedot kansalaisten kielitaidosta tarkoittavat, että tarvitaan järjestelmä, jolla voidaan mitata edistymistä Barcelonan Eurooppa-neuvostossa asetetun tavoitteen saavuttamisessa, eli siinä, että EU:n koulutusjärjestelmistä kehitetään maailmankuuluja.
+<P>
+Eurooppalainen kielitaitoindikaattori voisi olla hyödyllinen väline, jolla saataisiin luotettavaa tietoa eurooppalaisten kielitaidosta, helpotettaisiin hyvien toimintatapojen vaihtamista ja annettaisiin uutta pontta kieltenopetukseen.
+<P>
+Mielestäni on olennaista, että eurooppalaiseen kielipolitiikkaan ei saa sisällyttää ajatusta saarimaisesta Euroopasta. Tässä yhteydessä haluan toistaa, että keskustelussa olisi käsiteltävä ajatusta yhteisestä eurooppalaisesta viestinnän kielestä. Englanti, espanja, portugali ja ranska ovat tässä järjestyksessä, ja jossain määrin myös saksa ja italia, erityisiä viestinnän välineitä muun maailman kanssa ja ansaitsevat sinällään erityistukea ja kannustusta EU:lta. 
+<SPEAKER ID="134" LANGUAGE="" NAME="Puhemies." AFFILIATION="(Istunto päättyi klo 12.15.)">
+<P>
+   – Julistan Euroopan parlamentin istuntokauden keskeytetyksi.

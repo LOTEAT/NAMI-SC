@@ -1,0 +1,6 @@
+<CHAPTER ID="017">
+Posredovanje besedil, sprejetih na tej seji: gl. zapisnik
+<SPEAKER ID="413" NAME="Robert Sturdy" AFFILIATION="ECR">
+Gospod predsednik, pravkar smo imeli dve poimenski glasovanji. Danes zjutraj pred kosilom smo imeli samo dve poimenski glasovanji. Pravilo v tem parlamentu je, da moraš glasovati več kot 50 % časa in v 50 % poimenskih glasovanj, da zagotoviš plačilo za ves dan. Velja to v tem primeru ali kakšna je situacija?
+<SPEAKER ID="414" NAME="Predsednik">
+Res je. Prisotni morate biti 50 % časa.

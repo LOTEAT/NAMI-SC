@@ -1,0 +1,6 @@
+<CHAPTER ID="007">
+Istungjärgu vaheaeg
+<SPEAKER ID="068" NAME="President">
+Kuulutan Euroopa Parlamendi istungjärgu katkestatuks.
+<P>
+(Istungjärk lõppes kell 11.45)

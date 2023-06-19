@@ -1,0 +1,6 @@
+<CHAPTER ID="010">
+Parlamentin kokoonpano
+<SPEAKER ID="017" NAME="Francesco Enrico Speroni" AFFILIATION="NI">
+(IT) Arvoisa puhemies, hyvät parlamentin jäsenet, haluan tehdä huomautuksen kirjattavaksi pöytäkirjaan. Koska Italian viranomaisten tekemät päätökset Italiaa edustavien valittujen parlamentin jäsenten vaihtamisesta koskee vuoden 2004 vaaleja, mielestäni ei ole asianmukaista, että päätös tulee voimaan 8. marraskuuta. On todennäköistä, että päätös on saatettava voimaan takautuvasti, ja mielestäni Euroopan parlamentin toimivaltaisen valiokunnan olisi tutkittava asia.
+<SPEAKER ID="018" NAME="Puhemies">
+Huomautuksenne on pantu merkille. En tiedä, mitkä ovat päätöksen oikeudelliset vaikutukset, mutta parlamentin pääsihteeristö tutkii asiaa ja antaa tarvittaessa asiaankuuluvalle valiokunnalle tehtäväksi tutkia huomautuksenne perusteet.

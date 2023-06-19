@@ -1,0 +1,10 @@
+<CHAPTER ID="010">
+Oficiāla sveikšana
+<SPEAKER ID="128" NAME="Priekšsēdētāja">
+Dāmas un kungi! Es tagad nolasīšu Buzek kunga paziņojumu.
+<P>
+"Es ar prieku vēlos jūs informēt, ka šodien mums ir tas gods sveikt Polijas Senāta priekšsēdētāju Bogdan Borusewicz, Lietuvas Republikas Seima priekšsēdētāju Irena Degutienė, kā arī Ukrainas Verkovna Rada priekšsēdētāju Volodimir Litvin.
+<P>
+Šie trīs priekšsēdētāji šodien ir ieradušies Parlamentā uz Lietuvas, Polijas un Ukrainas parlamentu Parlamentārās asamblejas ārkārtas sesiju. Šīs asamblejas tradīcijas sakņojas Polijas - Lietuvas Savienībā, kura vairāk nekā divus gadsimtus tika uzskatīta par Eiropas politisko, kultūras un pilsonisko robežu.
+<P>
+Šī parlamentārās asamblejas tikšanās šodien Strasbūrā sakrīt ar dienu, kurā tiek atzīmēta 3. maija Konstitūcijas - Eiropas pirmās konstitūcijas - 220. gadadiena.”

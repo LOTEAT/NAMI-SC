@@ -1,0 +1,6 @@
+<CHAPTER ID="004">
+Tempo delle votazioni
+<SPEAKER ID="070" NAME="Presidente">
+L'ordine del giorno reca il Tempo delle votazioni.
+<P>
+(Per i risultati e altri dettagli della votazione: vedasi processo verbale)

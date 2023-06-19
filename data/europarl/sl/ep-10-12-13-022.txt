@@ -1,0 +1,68 @@
+<CHAPTER ID="022">
+Regulacija trgovanja s finančnimi instrumenti - "dark pools" itd. (kratka predstavitev)  
+<SPEAKER ID="235" NAME="Predsednik">
+Naslednja točka je poročilo gospe Swinburne v imenu Odbora za ekonomske in monetarne zadeve o regulaciji trgovanja s finančnimi instrumenti - "dark pools" itd. (2010/2075 (INI)).
+<SPEAKER ID="236" NAME="Kay Swinburne">
+poročevalka. - Gospod predsednik, tistim, ki ne razumejo finančnega žargona, težko pojasnim, na kaj se nanaša moje poročilo o "dark pools". Poročilo se uradno sklicuje na trgovanje s finančnimi instrumenti, vključno z "dark pools", ki so finančne transakcije in posli z delnicami brez zagotovljene preglednosti pred trgovanjem, imenovane tudi neprikazane transakcije. Poročilo je, širše gledano, ocena izvajanja Direktive o trgih finančnih instrumentov (MiFID) iz leta 2007 v zvezi z lastniškim kapitalom in skuša obravnavati strukturna vprašanja, ki so na kapitalskih trgih zdaj v ospredju.
+<P>
+Čeprav gre za zelo tehnično poročilo, je spodbudna visoka raven razprave, ki je potekala v odboru. Veseli me, da je bilo s trdim delom mojih kolegov mogoče doseči široko podporo v vseh političnih skupinah, pri čemer so 194 sprememb pretvorili v 26 kompromisov, ki jih je lahko podprla večina skupin.
+<P>
+Glede na čas tega poročila na lastno pobudo in na vrhunec, ki ga je doživelo s plenarnim glasovanjem ta teden, prav tako verjamem, da je Evropski parlament močno prispeval k nedavno objavljenemu posvetovanju Komisije o ponovnem pregledu MiFID II (MiFID II), ki upošteva mnoga vprašanja, izpostavljena med posvetovanjem v odboru. Evropski parlament je s tem poročilom pozval k številnim preiskavam različnih mest trgovanja, ki jih zdaj ureja MiFID in skuša zagotoviti podrobne analize, s katerimi bi bilo mogoče zagotoviti, da bodo mesta, ki ponujajo enakovredne storitve, ustrezno regulirana.
+<P>
+Menim, da bi lahko Komisija v svojem posvetovalnem dokumentu naredila še korak naprej pri razširitvi opredelitve organiziranega trgovanja, da bi tako vključila vsa mesta, kjer se srečujejo kupci in prodajalci. S tem bi lahko odpravili veliko vrzel. Kljub temu bo s to rešitvijo mogoče ohraniti sorazmernost ob dopuščanju znatnih razlik znotraj kategorij organiziranih trgov, MTF, SI, BCN in platform izpeljanih instrumentov.
+<P>
+Vlagatelji bodo pozdravili novo raven varnosti, ki jo predlagamo za upravljavce "dark pools ", ki zdaj sicer zagotavljajo zaščito pred širšim trgom, a vseeno omogočajo zlorabe. S tem, ko bomo zakonodajalcem zagotovili popoln dostop do poslovnih modelov, bo mogoče zagotoviti, da bodo lahko še naprej opravljali dejavnost kot mesta za neomejeno križanje naročil strank, ne da bi se pri tem širili v takšnem obsegu, da bi to vplivalo na oblikovanje cen ali zagotavljalo priložnost za zlorabo trga.
+<P>
+Z vidika odpovedi MiFID se Evropski parlament in Komisija strinjata, da jih moramo ponovno opredeliti, njihovo izvajanje pa moramo standardizirati v celotni EU. Možnost arbitraže v državah članicah EU z namenom iskanja najboljšega tolmačenja tega pravila mora biti odpravljena. Med pripravo tega poročila in njegove spremembe je bilo jasno, da je največja pomanjkljivost izvajanja MiFID pomanjkanje tržne različice usklajenega evropskega traka Vlagatelji v ZDA ne morejo razumeti, kako lahko v EU delujemo brez takšnega orodja. Industrija, predvsem skupine vlagateljev, se na splošno strinjajo, da ga potrebujemo, vendar pa udeležencem na finančnih trgih v treh letih od uveljavitve MiFID ni uspelo zagotoviti usklajenega evropskega traka. Komisija in Odbor za ekonomske in monetarne zadeve ne želita storiti več kot vzpostaviti obveznost objave, vendar moramo podpreti zakonodajo, če ne bo mogoče najti rešitve za trg.
+<P>
+V odboru je potekala vroča razprava o mikrostrukturnih vprašanjih, ki zdaj vplivajo na trge lastniških vrednostnih papirjev. Strinjamo se, da so prakse, kot so bliskovita naročila, triki in "pinganje", nepoštene ali celo zlonamerne. Vendar pa je odbor veliko težje dosegel sporazum glede vloge nekaterih udeležencev na finančnih trgih glede tega, ali strategije trgovanja z visoko frekvenco prinašajo prednosti ali ne. Ker ni jasnih podatkov, je težko sprejeti trdne sklepe o njihovi vlogi - pozitivni ali negativni - in preden predlagamo zakonodajne ukrepe, moramo poskrbeti, da bomo imeli podatke in ne bomo uvedli zakonodaje, ki bi lahko negativno vplivala na učinkovito delovanje evropskih trgov.
+<P>
+Zagotoviti moramo celovitost naših finančnih trgov. Niso namenjeni temu, da bi posredniki ali vsiljivci komunicirali med sabo. Vlagateljem, ki kapital usmerjajo v podjetja in družbe, ki poslujejo v našem realnem gospodarstvu, morajo zagotavljati trg. V zakonodajnem postopku MiFID II moramo glavno pozornost nameniti tej temeljni funkciji.
+<SPEAKER ID="237" NAME="Philippe Juvin" AFFILIATION="PPE">
+(FR) Gospod predsednik, gospe in gospodje, gospa Swinburne, to besedilo je zelo zapleteno, vendar čemu je v osnovi namenjeno? Še enkrat, gre za to, da bi se kar največ naučili iz krize. Ne, ne smemo ravnati tako, kot smo pred njo, da, spremeniti moramo pravila igre in v sistemu vzpostaviti red.
+<P>
+V različnih državah Unije obstajajo ljudje, ki zdaj izkoriščajo krizo in strah ljudi ter skušajo vso krivdo zvalili na Evropo. Povsod lahko slišite ljudi, ki govorijo: "stvari ne delujejo zaradi Evrope, zaradi evra, rešitev je v tem, da zapustimo Evropo, odpraviti moramo evro ..." Vsem tem ljudem moramo vedno znova sporočati, da res potrebujemo skupna pravila, ponavljati moramo, da če države Evrope ne bi bile združene, če bi bile osamljene, bi bile zdaj mrtve. Da, potrebujemo predpise, skupno politiko, skupna pravila ter prenovo naših pravil in boljše delovanje sistema.
+<P>
+Gospe in gospodje, zadeva je precej preprosta: skupaj smo močni, če bomo osamljeni, bomo propadli!
+<SPEAKER ID="238" NAME="Csanád Szegedi" AFFILIATION="NI">
+(HU) Gospod predsednik, rad bi se vam zahvalil za tako darežljivo dodeljen čas. Od zdaj naprej bom pozorno spremljal, katere seje boste vodili in skušal se bom udeležiti vseh. Poročilo gospe Swinburne je zelo pomembno zaradi tega, ker zdaj končno obravnavamo ureditev trgovanja s finančnimi instrumenti. Prva in največja napaka v zvezi s poročilom je ta, da poročilo samo in poziv k dodatni ureditvi prihajata prepozno. Drugič, če je bil zakonodajni okvir do zdaj nejasen, se moramo ozreti nazaj in podrobno obravnavati vse, kar se je zgodilo. Prepričan sem, da gre za nesmiselno in napačno odločitev, da tudi velike naložbe ne bodo strožje nadzirane. Preiskati moramo način trgovanja in izdajanje izvedenih finančnih instrumentov, za nove izdaje pa mora veljati strožja zakonodaja.
+<P>
+Produkti na trgu izvedenih finančnih instrumentov dejansko spodbujajo inflacijo. Breme tega nosi prebivalstvo, medtem ko dobičke poberejo razni mednarodni subjekti, pri katerih ozadje ni vedno jasno. Ne bi bilo dobro, če bi tako ustvarjene dobičke preusmerili v realno gospodarstvo, saj bi se lahko zgodilo, da bo postopoma celoten planet pristal v žepu najbogatejših.
+<SPEAKER ID="239" NAME="Elena Băsescu" AFFILIATION="PPE">
+(RO) Gospod predsednik, poročilo gospe Swinburne skuša zagotoviti enake pogoje med večstranskimi sistemi trgovanja. Prav tako pomembno je, da zanje vzpostavimo enako stopnjo nadzora. Poudariti želim, da potrebujemo ustreznejšo zakonodajo za zmanjšanje sistemskega tveganja in zagotovitev lojalne konkurence na trgu.
+<P>
+Imamo zaskrbljujoče malo informacij o strategijah trgovanja. Le z zagotavljanjem zadostnih informacij zakonodajnim organom bomo resnično lahko razumeli, ali trg pravilno deluje. Organ ESMA mora pripraviti skupne standarde poročanja in oblike, ki veljajo za vse podatke o organiziranih mestih trgovanja in prostih trgih.
+<P>
+Mislim, da bi bilo koristno, če bi izvedli študijo učinkov določanja minimalne velikosti naročil za vse temne transakcije. Tako bi lahko ugotovili, ali je zagotovljen ustrezen naložbeni tok.
+<SPEAKER ID="240" NAME="Johannes Hahn">
+član Komisije. - Gospod predsednik, v imenu Komisije, predvsem pa komisarja Barnierja, želim povedati, da sta izboljšanje preglednosti finančnih trgov in zagotavljanje, da so v ustreznem obsegu regulirani vsi ustrezni akterji na trgu, ključna cilja Komisije in vrha G20.
+<P>
+Rad bi čestital dr. Swinburne in Odboru za ekonomske in monetarne zadeve za poročilo o trgovanju s finančnimi instrumenti, "dark pools" itd. Poročilo je pomemben korak v sklopu stalnega pregleda Direktive o trgih finančnih instrumentov (MiFID). Njegova priporočila so močno vključena v razmišljanje Komisije pri pripravi predloga o spremembi veljavne direktive v letu 2011. Pregled MiFID je pomemben del načrta Komisije za doseganje stabilnejšega in preglednejšega finančnega sistema, ki deluje v korist družbe in celotnega gospodarstva. Veliko kosov smo že postavili na prava mesta, tudi začetek delovanja novega nadzornega organa EU naslednji mesec.
+<P>
+Komisija se je zavezala, da bo pripravila predloge na preostalih področjih do poletja 2011. Računamo, da nas bo Evropski parlament podprl pri hitri izvedbi potrebnih reform, da bomo čim prej zagotovili njihovo izvajanje.
+<P>
+Kot veste, je direktiva MiFID temelji del zakonodajnega okvira EU za finančne trge. Pripravljena je bila že pred krizo, vendar se je pokazalo, da dobro deluje tudi v težkih in nemirnih časih, ki smo jim priča v zadnjih letih.
+<P>
+Seveda so se pojavile nekatere pomanjkljivosti. Zaradi tehnološkega napredka in hitrega razvoja finančnih trgov so regulativni instrumenti, ki so bili še pred nekaj leti najsodobnejši, zdaj zastareli.
+<P>
+Komisija je 8. decembra objavila osnutek predloga za posvetovanje. Pri reševanju izzivov bomo ambiciozni in celoviti. Čeprav se zavedamo, da prvotni cilji MiFID še vedno veljajo, so ogroženi ključni vidiki o tem, kako delujejo naši finančni trgi, kako pregledni in odprti morajo biti in kako lahko vlagatelji pridobijo dostop do finančnih instrumentov in naložbenih priložnosti.
+<P>
+Kot izhaja iz osnutka Odbora za ekonomske in monetarne zadeve, tudi mi menimo, da moramo izboljšati urejanje novih oblik trgovalnih platform in metodologij trgovanja. Pri tem moramo ustrezno upoštevati naravo posla, da bi bilo tako mogoče zagotoviti enake pogoje med akterji in zaščititi vlagatelje tudi pred motečimi tržnimi praksami.
+<P>
+Prav tako se strinjamo, da moramo izboljšati pravila preglednosti, ki veljajo za trgovanje z delnicami, in uvesti nove zahteve za trgovanje z drugimi instrumenti. Drugo pomembno področje, ki je prav tako obravnavano v poročilu Dr Swinburne, je, kako izboljšati delovanje in ureditev trgov izvedenih blagovnih instrumentov v skladu z načeli G20.
+<P>
+Uvesti nameravamo tudi usmerjene izboljšave veljavnih pravil glede zaščite vlagateljev. Za povrnitev zaupanja vlagateljev je ključnega pomena, da vse produkte in prodajne prakse obravnavamo pod enakimi pogoji.
+<P>
+Ta ponovni pregled bo okrepil nadzor in uveljavljanje na finančnih trgih, pri čemer naj bi imel ključno vlogo Evropski organ za vrednostne papirje in trge. Da bi dosegli napredek, službe Komisije tesno sodelujejo z našimi mednarodnimi partnerji, predvsem odgovornimi zakonodajalci v Združenih državah Amerike, ki obravnavajo enaka vprašanja, da bi tako zagotovili mednarodno konvergenco in se izognili regulativni arbitraži.
+<P>
+Poročilo gospe Swinburne prihaja v pomembnem obdobju sprejemanja odločitev v postopku zakonodajne reforme. V pomoč sta nam zavezanost, ki so jo pokazali poslanci v EU, in dejstvo, da vaše analize in priporočila močno sovpadajo z našimi. Poročilo krepi podlago za naše delo, ki nas še čaka.
+<SPEAKER ID="241" NAME="Predsednik">
+Razprava je zaključena.
+<P>
+Glasovanje bo potekalo jutri ob 12.00.
+<P>
+Naslednja seja bo potekala jutri, v četrtek, 14 decembra 2010, od 9.00 do 13.00, od 15.00 do 20.30 in od 21.00 do 24. 00.
+<P>
+Dnevni red je objavljen na spletnem mestu Evropskega parlamenta.
+<P>
+Razprava je končana.

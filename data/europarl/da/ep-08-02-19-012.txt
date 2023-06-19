@@ -1,0 +1,418 @@
+<CHAPTER ID="012">
+Spørgetid (spørgsmål til Kommissionen)
+<SPEAKER ID="278" NAME="Formanden">
+Næste punkt på dagsordenen er spørgsmål til Kommissionen (B6-0010/2008).
+<P>
+Vi behandler en række spørgsmål til Kommissionen.
+<P>
+Del I
+<P>
+Om: EASA's vurdering af luftdygtighed
+<P>
+I efteråret 2007 havarerede tre fly af typen Dash8 Q400 i henholdsvis Aalborg, Vilnius og København. Foreløbige redegørelser fra havarimyndighederne viser, at havarierne 9. og. 12. september skyldtes konstruktionsfejl, hvilket de skandinaviske luftfartsmyndigheder (SLV) og Det Europæiske Luftfartsagentur (EASA) er enige om. Havariet den 27. oktober skyldtes kombinationen af en konstruktionsfejl og den efterfølgende fejlsøgning. De skandinaviske luftfartsmyndigheder indførte flyveforbud for de skandinaviske fly og har fastsat en række vilkår for fortsat flyvning, mens EASA finder, at den pågældende konstruktionsfejl kun var af mindre betydning. Kommissionen bedes svare på følgende:
+<P>
+Har EASA ikke som opgave at sikre et højt sikkerhedsniveau?
+<P>
+Hvordan kan EASA og SLV vurdere sagen så forskelligt, når flyselskabets undersøgelse af 16 ud af 18 af deres Dash8 Q400 viser samme konstruktionsfejl eller mangel som flyet, der nødlandede i København?
+<SPEAKER ID="280" NAME="Jacques Barrot" LANGUAGE="FR">
+Hr. formand! Jeg vil meget gerne besvare fru Jensens spørgsmål.
+<P>
+Eftersom de afsluttende undersøgelsesrapporter om de tre havarerede DASH8 Q400-luftfartøjer endnu ikke foreligger, finder Kommissionen, at det er for tidligt at spekulere over, hvilke faktorer der har forårsaget disse særlige begivenheder, og over eventuelle konstruktions- eller fabrikationsfejl.
+<P>
+Det Europæiske Luftfartssikkerhedsagenturs opgave er naturligvis at opretholde det højest mulige sikkerhedsniveau. Agenturet har fulgt sagen med opmærksomhed og er bevidst om, at 170 luftfartøjer af denne type er leveret over hele verden og altså i drift den dag i dag.
+<P>
+Ifølge nærmere informationer fra EASA har der ved flere lejligheder været kontakt mellem agenturet, de civile luftfartsmyndigheder i Norge og Danmark, de canadiske civilluftfartsmyndigheder og flyproducenten. Det har ført til en række initiativer, bl.a. har EASA udstedt luftdygtighedsdirektiver med afhjælpende foranstaltninger.
+<P>
+Efter en indgående vurdering af landingsstellets optrækningssystem på denne type fly konkluderede EASA, at der ikke var tvivl om flyets sikkerhed. Der blev derfor henstillet til de skandinaviske myndigheder at tillade, at luftfartøjet fik sit luftdygtighedsbevis igen, når de nødvendige afhjælpende foranstaltninger var udført.
+<P>
+De skandinaviske myndigheder gav luftfartselskabet besked om vilkårene for at få genudstedt luftdygtighedsbeviser for den pågældende flyflåde. Men selskabet har endnu ikke fremlagt de nødvendige beviser på, at flyene har gennemgået den påbudte kontrol og ombygning.
+<P>
+Indtil videre har EASA ikke fået besked om, at de danske myndigheder skulle have genudstedt luftdygtighedsbeviser for SAS' Q400-flåde. EASA er naturligvis fortsat i forbindelse med de danske myndigheder for at få afklaret dette spørgsmål.
+<P>
+Det var det svar, jeg ville give fru Jensen.
+<SPEAKER ID="281" NAME="Anne E. Jensen" AFFILIATION="ALDE">
+Hr. formand! Jeg vil gerne sige tak til hr. næstformand Barrot for denne redegørelse. Det er rigtigt, at den uenighed, jeg har nævnt i spørgsmålet, måske delvis er blevet rettet op, men det er stadigvæk sådan, at de danske luftfartsmyndigheder ikke tillader, at SAS' fly kommer i luften, før de har fået løst de tekniske problemer, mens andre flyselskaber faktisk flyver med fly, der har disse tekniske problemer. Og jeg synes, at det dybt principielle problem her - bortset fra forskelsbehandling mellem SAS Scandinavian Airlines på den ene side og andre flyselskaber som Flybe, Augsburg, Tyrolean og Luxair på den anden side - er, at vi som borgere måske ikke kan regne med flysikkerhed. Hvad vil De gøre, hr. Barrot, for at sikre, at jeg kan være lige så tryg ved den fælles luftfartsmyndighed som ved de nationale luftfartsmyndigheder, for det er jo det, det her handler om?
+<SPEAKER ID="282" NAME="Jacques Barrot" LANGUAGE="FR">
+Hr. formand, fru Jensen! EASA har givet formelle instrukser, som, hvis de bliver overholdt, betyder, at disse fly er luftdygtige. Derfor er der ikke noget sikkerhedsmæssigt problem, de danske myndigheder har blot ikke meddelt EASA det pågældende luftfartselskabs svar.
+<P>
+Vær forvisset om, fru Jensen, at EASA har givet de nødvendige instrukser for at afhjælpe de problemer, der kan opstå i forbindelse med anvendelse af disse fly.
+<P>
+EASA må nu vente med at tage endelig stilling, til resultaterne af undersøgelserne foreligger, men jeg understreger, at EASA naturligvis har givet de nødvendige anvisninger for, at disse fly kan anvendes med fuld sikkerhed. I øvrigt kom der ingen mennesker til skade ved havarierne, men som De påpeger, har flyene været ude for uheld, og det skal der rettes op på.
+<SPEAKER ID="283" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Hr. formand, hr. kommissær! Paradoksalt nok synes situationen nu at være således, at et europæisk luftfartssikkerhedsagentur forbyder luftfartøjer at flyve, mens et andet som f.eks. det østriske agentur mener, at de godt kan flyve alligevel. Mit spørgsmål til Dem er følgende: Vil EASA finde det lettere nu, som resultat af de bredere kompetencer, vi har vedtaget på dette område, i betragtning af at det - som De har sagt - forekommer, at det firma, der producerer disse luftfartøjer, skaber visse vanskeligheder for tiden? Hvis EASA nu kan gøre, hvad vi blev enige om, nemlig også at udstede bøder og ikke øjeblikkeligt fratage licensen, vil det så finde det lettere? Jeg tror, at disse bredere kompetencer, som vi har vedtaget, vil gøre det lettere for EASA i fremtiden.
+<SPEAKER ID="284" NAME="Jacques Barrot" LANGUAGE="FR">
+Hr. formand! Jeg pointerer, hr. Leichtfried, at EASA har givet sine instrukser. Alle luftfartselskaber formodes altså at overholde de af EASA opstillede regler.
+<P>
+Men Deres spørgsmål er bredere. Ja, EASA har et ansvar i forbindelse med certificering af fly og udstedelse af typegodkendelsesattester til designorganisationer i hele verden, men EASA overvåger kun ved hjælp af inspektioner i EU's medlemsstater, at de fælles regler bliver anvendt ensartet.
+<P>
+Med andre ord har vi - som De rigtigt påpeger - udvidet EASA's kompetencefelt, men ikke så meget, at de forskellige medlemsstaters civile luftfartsmyndigheder slet intet ansvar har. Medlemsstaterne skal altså udøve deres ansvar gennem deres civilluftfartsmyndigheder.
+<P>
+En dag kan vi måske gå videre, men foreløbig skal EASA løse nogle vanskelige opgaver og må derfor fortsat gennem inspektioner i medlemsstaterne nøje kunne overvåge, om de fælles regler bliver håndhævet.
+<P>
+I det foreliggende tilfælde tror jeg, at agenturet har handlet helt i overensstemmelse med kravene til sikkerhed.
+<SPEAKER ID="285" NAME="Formanden">
+
+<P>
+Om: Gennemskuelighed i forbindelse med direktørlønninger
+<P>
+I hele Europa stiger direktørlønningerne. I Østrig f.eks. er grundlønningerne til direktører steget med omkring 3,7 % fra 2006 til 2007. De variable elementer i direktørlønningerne steg imidlertid væsentligt mere. På grund af de større direktørlønninger vokser også den offentlige interesse for, hvad direktørerne rent faktisk får for deres arbejde. Da de variable lønninger ikke skal fremgå af balancerne, ønsker især aktionærerne at vide, hvordan deres penge bruges. Der er derfor et klart krav i den europæiske befolkning om mere gennemskuelighed i forbindelse med direktørlønningerne.
+<P>
+Er Kommissionen opmærksom på denne udvikling? Er der planlagt EU-lovgivning, der skal føre til mere gennemskuelighed i forbindelse med direktørlønningerne, eller findes der allerede regler på dette område?
+<SPEAKER ID="286" NAME="Charlie McCreevy" LANGUAGE="EN">
+Hr. formand, hr. Leichtfried! Direktørlønninger er et aktuelt emne og har været det i et godt stykke tid. Derfor har Kommissionen truffet foranstaltninger for at øge gennemskueligheden i forbindelse med direktørlønninger.
+<P>
+Den henstilling fra Kommissionen, som blev vedtaget i 2004, foreskriver en årlig offentliggørelse af både virksomhedens politik om direktøraflønning og af aflønningen af de enkelte direktører. Kommissionen har også fulgt op på denne henstilling ved at undersøge, hvorvidt den faktisk er gennemført i medlemsstaterne. Vi har for nylig lavet en oversigt herover.
+<P>
+Langt hovedparten af medlemsstaterne har indført høje standarder for offentliggørelse af aflønningen af de enkelte ledere i deres nationale kodeks for virksomhedsledelse eller i bindende lovgivning. Det er imidlertid kun omkring 60 % af medlemsstaterne, som har fulgt henstillingen, hvad angår gennemskuelighed i deres lønpolitikker. Kun meget få lande anbefaler at stemme om det på virksomhedens generalforsamling. Her er der plads til forbedring.
+<P>
+Kommissionen vil også vurdere, i hvilken grad virksomhederne følger de anbefalede gennemskuelighedsstandarder i praksis. Løn er et område, hvor nogle virksomheder har vist stærk modvilje mod at offentliggøre oplysninger på trods af henstillingerne i den nationale kodeks for virksomhedsledelse. Vi vil se nærmere på dette spørgsmål.
+<SPEAKER ID="287" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Hr. formand! De sagde selv, hr. kommissær, at 60 % af virksomhederne ikke har tænkt sig at gøre noget. Nu spørger jeg Dem: Hvad har Kommissionen tænkt sig at gøre?
+<P>
+Her er mit andet spørgsmål. Vi har nu erfaret fra en aktuel sag i Tyskland, at disse gentlemen - for de er hovedsagelig gentlemen - ikke blot tjener meget godt, men heller ikke vil betale skat af det, de tjener, hvilket er grunden til, at de tager til Liechtenstein og andre steder. Hvad har Kommissionen tænkt sig at gøre i fremtiden for at sætte en stopper for sådanne praksisser?
+<SPEAKER ID="288" NAME="Charlie McCreevy" LANGUAGE="EN">
+Hr. formand! Som svar på begge spørgsmål fra hr. Leichtfried vil jeg sige, at dette er sager, som bør tages op til behandling i medlemsstaten. Som svar på spørgsmålet om, hvad Kommissionen vil gøre, vil jeg sige, at Kommissionen allerede har gjort det.
+<P>
+Min forgænger besluttede at udarbejde en henstilling på dette område. Hvorfor besluttede han, at det skulle være en henstilling snarere end noget andet? Jeg er ikke i tvivl om, at det var af en hel række forskellige grunde, men en af de vigtigste måtte være, at der ikke er nogen enighed om at få en fælles kodeks om virksomhedsledelse eller regulering af selskabsretten i Europa. Vi ville aldrig kunne opnå en sådan enighed.
+<P>
+Der er rigtig mange kulturelle forskelle på hele dette område, og det har været en af de ting, der understøttede min forgængers beslutning om at komme med en henstilling i denne særlige henseende.
+<P>
+Med henblik på henstillingen har vores undersøgelse vist, at flertallet af medlemsstaterne har indført høje standarder for offentliggørelse af aflønningen af de enkelte direktører i deres kodeks for virksomhedsledelse, og nogle har omarbejdet dem til bindende lovgivning. Flertallet har også behandlet henstillingen vedrørende gennemskuelighed omkring lønpolitik.
+<P>
+Det andet spørgsmål om skatter og afgifter er afgjort en sag for hver enkelt medlemsstat, som de må håndtere på en hvilken som helst måde, de finder passende, og i overensstemmelse med deres nationale lovgivning.
+<P>
+Om: Nedgravning af højhastighedsforbindelsen i nærheden af La Sagrada Familia
+<P>
+Som alle ved, har nedgravningen af den spanske højhastighedsforbindelse under Barcelona forårsaget mange sammenstyrtninger og skred, som har bragt boliger og andre bygninger over jorden i fare, herunder bl.a. den ufuldendte kirke La Sagrada Familia og mange andre historiske monumenter.
+<P>
+Da der er tale om et EU-støttet projekt, bedes Kommissionen oplyse, hvilke miljøkonsekvensvurderinger der er blevet prioriteret (direktiv 85/337/EØF), og om der heri er foretaget vurderinger af risiciene for La Sagrada Familia og andre historiske bygninger?
+<P>
+Kommissionen bedes ligeledes oplyse, om de vurderinger, der er modtaget, omfatter undersøgelsen fra Universitat Pompeu Fabra, som fraråder nedgravningen på grund af de farer og risici, den indebærer for hele området?
+<SPEAKER ID="290" NAME="Stavros Dimas">
+medlem af Kommissionen. - (EL) Hr. formand! Jeg vil gerne indlede med at minde om Kommissionens ufravigelige holdning, nemlig at hvor nyttigt eller nødvendigt et projekt end er, må dets gennemførelse aldrig være til skade for miljøet, folkesundheden eller kulturarven i en medlemsstat.
+<P>
+Medlemsstaterne bør træffe alle nødvendige foranstaltninger til beskyttelse og bevarelse af kulturarven, især i deres historiske bycentre, som nogle gange er under hårdt pres på grund af den voksende urbanisering.
+<P>
+I det konkrete tilfælde, som det ærede medlems spørgsmål vedrører, vil jeg gerne påpege følgende: Anlægsarbejderne i forbindelse med højhastighedsjernbanen Madrid-Saragossa-Barcelona er kun delvist samfinansieret af Samhørighedsfonden.
+<P>
+Fonden for de transeuropæiske transportnet samfinansierer udførelsen af undersøgelserne i forbindelse med projekterne på hele jernbanestrækningen, herunder strækningen fra Barcelona til Gerona og Figueres.
+<P>
+Projekter i forbindelse med den underjordiske linje under Barcelona er imidlertid ikke finansieret, og der er ikke anvendt midler fra de europæiske fonde hertil. Det skal også understreges, at projekteringen og udførelsen af disse arbejder udelukkende hører under medlemsstatens ansvar, og denne har pligt til at overholde og fuldt ud anvende de relevante fællesskabsretlige regler.
+<P>
+I det konkrete tilfælde har der ikke været nogen EF-samfinansiering af forarbejdet i forbindelse med jernbanestrækningen mellem stationerne Sants og Sagrega og heller ikke i forbindelse med den tunnel, der skal opføres tæt på Sagrada Familia-kirken, og Kommissionen er derfor ikke blevet informeret og har ikke modtaget en kopi af den undersøgelse af miljøkonsekvenserne, som de spanske myndigheder har foretaget.
+<P>
+Det er Kommissionens opfattelse, at den kompetente spanske myndighed, nemlig generalsekretariatet for forebyggelse af forurening og klimaændring, har godkendt undersøgelsen af miljøkonsekvenserne i overensstemmelse med beslutningen af 30. maj 2007. Godkendelsesbeslutningen blev offentliggjort i Spaniens statstidende i juni 2007. Heri indgår også henvisninger til projektets konsekvenser for kulturarven. f.eks. Sagrada Familia.
+<P>
+Kommissionen er heller ikke blevet informeret om den undersøgelse, som er foretaget af Universitat Pompeu Fabra. De spanske myndigheder er ansvarlige for at tage hensyn til både indholdet af undersøgelser - som i dette tilfælde - og til offentligheden.
+<P>
+Kommissionen vil fortsat overvåge situationen, og vi håber ikke, der vil blive forrettet skade på denne historiske del af Barcelonas kulturrigdom.
+<SPEAKER ID="291" NAME="Cristina Gutiérrez-Cortines" AFFILIATION="PPE-DE">
+- (ES) Hr. formand! Jeg betvivler ikke, at de juridiske procedurer er blevet fulgt korrekt, om end med et vist mål af tvang. Jeg retter mig mod Kommissionen for at bede den om hjælp som vogter af traktaterne, og jeg appellerer til dens ansvarlighed, så den forkaster foranstaltningerne og gennemfører miljøindvirkningsdirektivet samvittighedsfuldt.
+<P>
+Den kendsgerning, at denne del af tunnellen ikke vil blive finansieret af EU, er ikke relevant, for vi ved alle, at det at opdele projekter i mindre dele er en dårlig praksis, som EU nogle gange har fordømt.
+<P>
+Hvorfor er hurtigtoget AVE ikke blevet erklæret for et stort projekt, som kræver nøje konsekvensundersøgelser, da vi alle ved, at det vil komme til at gå igennem meget følsomme områder som Pedrera og ikke mindst tæt ved Sagrada Familia-kirken?
+<P>
+I henhold til ånden i artikel 3 i EIA-direktivet skal de mulige indvirkninger på kulturarven vurderes. Den 40 meter dybe beskyttelsesmur, der skal opføres, ligger blot halvanden meter fra Sagrada Familia-kirkens facade, der vejer 40.000 ton.
+<P>
+På grund af terrænets karakteristika, og da kirken er et ganske særlig værk udtænkt af et geni, beder jeg derfor blot om, at man lytter til parterne og tager hensyn hertil. Jeg glæder mig meget over, at vi får AVE-toget, men det er ikke et spørgsmål om politiske partier, eftersom Folkepartiet i Spanien ændrede linjeføringen, og nu mener jeg oprigtigt, at vi bør ændre den igen, så den løber langs Valencia-gaden.
+<SPEAKER ID="292" NAME="Stavros Dimas">
+medlem af Kommissionen. - (EL) Hr. formand! Jeg vil endnu en gang understrege, at Kommissionen ikke har beføjelse til at intervenere. Medlemmet har naturligvis ret i, at vi bør være særligt opmærksomme på bevarelsen af vores kulturarv, og især den, der vedrører dette arkitektoniske mesterværk, men indtil nu er vi ikke blevet gjort opmærksom på nogen fare, og vi er ikke gjort opmærksom på, at den miljøundersøgelse, der er udarbejdet, ikke skulle være korrekt.
+<P>
+Det eneste, Kommissionen er blevet gjort opmærksom på, er spørgsmålet om de andragender, som er forelagt Parlamentets relevante udvalg af foreningen Llave para Litoral, hvis medlemmer ønsker en anden linjeføring langs kysten i stedet for den underjordiske.
+<P>
+Dette er imidlertid spørgsmål, som de lokale myndigheder, de regionale myndigheder og regeringen bør løse ved hjælp af direktivet om undersøgelser af miljøkonsekvenser. De er forpligtet til at gøre dette for at bevare kulturarven.
+<SPEAKER ID="293" NAME="María Badía I Cutchet" AFFILIATION="PSE">
+(ES) Hr. formand! Jeg vil blot komme med lidt ekstra oplysninger og sige - måske også for at berolige - at der i forbindelse med anlægsarbejderne er nogle særdeles fyldestgørende geologiske data til rådighed, at byggeteknikken passer til terrænets karakteristika, at der vil blive taget forebyggende tiltag, inden linjen føres gennem eksisterende strukturer, at der vil blive gennemført permanente undersøgelser for straks at kunne opdage selv den mindste bevægelse eller sætning i terrænet, at det ikke vil berøre de tilstødende boliger, og at der vil blive sikkerhed for gennemsigtighed i oplysningerne til borgerne.
+<P>
+Jeg vil gerne sige til Dem, at jeg ikke tror, at der er nogen, der har så lidt interesse i, at der sker nogen skade på dette historiske monument eller indbyggerne i nabolaget, som de spanske og catalanske myndigheder samt kommunen.
+<SPEAKER ID="294" NAME="Stavros Dimas">
+medlem af Kommissionen. - (EL) Hr. formand! Jeg tror ikke, jeg har noget at tilføje til de oplysninger, som det ærede medlem har givet os.
+<P>
+Anden del
+<P>
+Om: Optagelse af oldgræsk og latin i den europæiske indikator for sprogkundskaber
+<P>
+Agter Kommissionen som led i sin plan om at fastlægge en europæisk indikator for sprogkundskaber i de fem mest talte sprog i EU at optage latin og oldgræsk i programmet for målrettet indlæring af europæiske sprog, eftersom disse sprog udgør grundlaget for de europæiske sprog, og mange ord fra latin og oldgræsk bruges i samtlige europæiske sprog uanset oprindelse?
+<P>
+På grundlag af disse sprogs betydning har det europæiske filologforbund Euroclassica allerede fastsat kundskabsniveauer og certificering af kundskaber i latin, og der arbejdes på at skabe et tilsvarende program for oldgræsk. Indlæringen af de to klassiske sprog vil give mulighed for en fælles udbygning af grundlaget for den europæiske kultur og skabe tættere forbindelser mellem de europæiske borgere, mens certificeringen af kundskaber i disse sprog vil udgøre en yderligere kvalifikation i en erhvervssammenhæng.
+<SPEAKER ID="297" NAME="Leonard Orban">
+medlem af Kommissionen. - (RO) Hr. formand! Kommissionens meddelelse med titlen "Den europæiske indikator for sprogkundskaber", som blev vedtaget i 2005, foreslog en detaljeret strategi for at gennemføre en europæisk undersøgelse om sprogkundskaber, et redskab, som vil gøre det muligt at indhente de nødvendige data for at forberede en europæisk indikator på dette område og forbedre kundskaben om undervisning i fremmedsprog.
+<P>
+På grundlag heraf præsenterede Rådet i maj 2006 sine konklusioner om en række grundlæggende problemer vedrørende den europæiske indikator for sprogkundskaber. Hvad angår det fremmedsprog, som skal undersøges, besluttede Rådet, at den europæiske indikator for sprogkundskaber skal fastlægges for de officielle sprog i EU. Det betyder, at kun levende sprog er omfattet af dette projekt. Derfor har man ikke overvejet muligheden af at undersøge latin eller oldgræsk.
+<P>
+Af praktiske årsager besluttede Rådet, at elevernes sprogkundskaber i den første fase af den europæiske undersøgelse af sprogkundskaber vil blive vurderet for det første og andet fremmedsprog i de officielle fremmedsprog i EU, som der mest hyppigt undervises i, nemlig engelsk, fransk, tysk, spansk og italiensk, og at der skal indhentes data for tre færdigheder, nemlig at læse, lytte og skrive.
+<P>
+Prøveredskabet vil ikke desto mindre være tilgængeligt for alle de lande, som vil forsikre sig om, at prøverne, ud over dem for disse fem fremmedsprog, kan indlemmes som nationale valgmuligheder. Kommissionen vil også tage initiativ til at sørge for, at det næste trin i undersøgelsen omfatter alle de officielle sprog, der undervises i i EU.
+<SPEAKER ID="298" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Hr. formand! Jeg forstår, at undervisning ikke hører under Deres kompetenceområde, heller ikke formidling eller, som jeg nævnte i mit spørgsmål, bevarelsen af den fælles arv, der stammer fra de klassiske sprog, latin og oldgræsk.
+<P>
+Hører det under Deres kompetenceområde eller ikke? Det er mit første spørgsmål. Mit andet spørgsmål er, om det europæiske forskningsprogram vedrører forskning i disse sprog eller ikke? Ved De noget om dette?
+<SPEAKER ID="299" NAME="Leonard Orban">
+medlem af Kommissionen. - (RO) Hr. formand! Det spørgsmål, jeg blev stillet, var relateret til den europæiske indikator for sprogkundskaber. Som jeg svarede, er det kun de officielle EU-sprog, som er omfattet af denne foranstaltning. På den anden side har Kommissionen ingen oplysninger vedrørende eventuel forskning eller undersøgelser, som er gennemført i medlemsstaterne eller i medlemsstatsregioner for de nævnte sprog.
+<SPEAKER ID="300" NAME="Manolis Mavrommatis" AFFILIATION="PPE-DE">
+(EL) Hr. formand, hr. kommissær! Som ordfører for betænkningen om den europæiske indikator for sprogkundskaber vil jeg gerne gøre opmærksom på, at denne indikator tager sigte på at sørge for regelmæssig vurdering af de generelle fremmedsprogskundskaber i alle medlemsstaterne.
+<P>
+Vi er gået med til, at denne indikator i første omgang skal måle sprogkundskaber i de fem mest udbredte sprog inden for EU's uddannelsessystemer, nemlig engelsk, fransk, tysk, italiensk og spansk.
+<P>
+Parlamentet har imidlertid opfordret Kommissionen og Rådet til at træffe de nødvendige foranstaltninger med henblik på snarest muligt at udvide denne test til et bredere spektrum af de officielle EU-sprog, uden at dette påvirker undervisningen og udviklingen inden for fremmedsprog i negativ retning.
+<P>
+Kan kommissæren sige os, hvor langt vi er kommet, og eventuelt hvilke sprog der kommer med i næste omgang?
+<SPEAKER ID="301" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Hr. formand, hr. kommissær! Der er et polsk-tysk-tjekkisk konferencecenter i det tidligere Haindorf-kloster i Nordbøhmen, hvor alle inskriptioner og skilte er skrevet på latin. Kunne vi ikke gøre det samme i de europæiske institutioners bygninger?
+<P>
+Mit andet forslag er, om vi ikke kunne udarbejde en latinsk tekst til Europahymnen, som alle kan synge unisont, og som de enkelte medlemsstater derefter kan oversætte til deres eget sprog, mens den fælles tekst er på latin?
+<SPEAKER ID="302" NAME="Leonard Orban">
+medlem af Kommissionen. - (RO) Hr. formand! Hvad angår den europæiske indikator for sprogkundskaber, vil der, som jeg sagde, og som De rigtigt bemærkede, i første omgang kun blive evalueret fem sprog.
+<P>
+I øjeblikket er tidsrammen følgende: I år forbereder vi et pilotprojekt, og i 2009 vil vi træffe alle forberedelserne til denne evaluering, således at vi i 2010 vil have klare resultater for, hvordan det forholder sig med disse fem sprog. Dernæst vil Kommissionen, som jeg sagde i mit indlæg, udvide denne indikator til at omfatte alle de officielle sprog. Det er ikke desto mindre stadig for tidligt at sige præcis, hvornår denne udvidelse vil blive foretaget. Vi er naturligvis nødt til at se og undersøge resultaterne af evalueringen nærmere, hvad angår indikatoren for de fem sprog, vi starter med.
+<P>
+På den anden side er Kommissionens målsætning, hvad angår Deres andet spørgsmål, at forsvare den sproglige mangfoldighed. Ud fra det synspunkt har Kommissionen til hensigt med alle midler at forsvare både de officielle sprog og de andre sprog, der tales i EU. Vi har 23 officielle sprog og mere end 60 regionale sprog, minoritetssprog og mindre anvendte sprog. Ud fra det synspunkt sigter de foranstaltninger, vi træffer, især mod de sprog, som vi har kaldt levende sprog.
+<P>
+Hvad Europahymnen angår, varierer synspunkterne naturligvis. Det er ikke Kommissionens rolle at afgøre den sag.
+<P>
+Om: Støtte til sproglige mindretal
+<P>
+Hvilke sproglige mindretal støttede Kommissionen i 2007, og hvilke muligheder ser Kommissionen for i 2008 og 2009 også at øge støtten til tysksprogede mindretal?
+<SPEAKER ID="304" NAME="Leonard Orban">
+medlem af Kommissionen. - (RO) Hr. formand! I indkaldelsen af forslag for 2007 blev der udvalgt et netværk og tre projekter, som henvender sig til minoritetssprog, der skal finansieres under programmet for livslang læring.
+<P>
+Den anden nøgleaktivitet er fremmedsprog. Netværket, som er etableret for at fremme sproglig mangfoldighed, og som koordineres af det walisiske sprognævn, fokuserer på følgende sprog: baskisk, bretonsk, katalansk, cornisk, østfrisisk, skotsk-gælisk, nordfrisisk, walisisk, vestfrisisk, slovakisk, ladinsk, galicisk, friulisk, sardinsk, estisk, irsk, lettisk, litauisk, maltesisk, finsk og svensk.
+<P>
+Det Europæiske Kontor for Mindre Udbredte Sprog er en af parterne i dette treårige projekt, som skal fremme udvekslingen af nuværende god praksis og udviklingen af nye og innovative idéer inden for uddannelse og sprogplanlægning i forbindelse med regionale sprog, minoritetssprog, stammesprog, grænseoverskridende sprog, mindre nationers sprog og mindre udbredte sprog. De tre flerårige projekter, som blev bevilget i 2007, omfatter minoritets- og verdenssprog som f.eks. catalansk, baskisk, sardinsk, siciliansk, irsk, russisk, arabisk og hindi.
+<P>
+For perioden 2008-2010 vil man prioritere de projekter, som fokuserer på mindre udbredte europæiske sprog. I forbindelse med programmet for livslang læring 2007-2013 er alle sprog og dermed også de tysktalende minoriteter kvalificerede til støtte.
+<SPEAKER ID="305" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Hr. formand! Forstod jeg Dem korrekt, hr. kommissær, at tysktalende minoriteter ikke kan modtage støtte før i 2013? Det er helt sikkert tilfældet, f.eks., at der findes ægte minoriteter som tyskerne i Den Tjekkiske Republik, polakkerne i Litauen og polakkerne i Den Tjekkiske Republik osv. Så hvis de gennemfører medie- eller kulturprojekter, så kan de ikke modtage nogen støtte overhovedet for øjeblikket. Eller har jeg misforstået?
+<SPEAKER ID="306" NAME="Leonard Orban" LANGUAGE="RO">
+Hr. formand! Jeg udtrykte mig måske ikke klart nok, hr. Posselt. Jeg sagde afgjort ikke, at visse sprog og heriblandt tysk først kunne modtage støtte efter 2013. Svaret er kategorisk. I programmet for livslang læring er alle sprog, som tales i EU, og derfor naturligvis også det tyske, berettiget til at modtage støtte. Det eneste, der betyder noget, er kvaliteten af det projekt eller de projekter, som forelægges. Derfor er mit svar afgjort, at sådanne sprog kan finansieres under programmet for livslang læring, også i perioden 2008-2013. Jeg gentager, også i perioden 2008-2013.
+<P>
+Om: Mindre udbredte sprog i Europa
+<P>
+Kan Kommissionen oplyse, om den i den nærmeste fremtid agter at fremsætte nye programmer for at fremme mindre udbredte sprog i Europa, og hvilke programmer, der i så fald er tale om, samt den sandsynlige størrelse af den økonomisk støtte, der vil kunne gives til sådanne programmer?
+<P>
+Spørgsmål nr. 45 vil blive besvaret skriftligt.
+<SPEAKER ID="308" NAME="Leonard Orban" LANGUAGE="RO">
+Hr. formand! Kommissionen har ingen intentioner om at fremsætte et nyt program for konkret fremme af brugen af mindre udbredte sprog i Europa i nærmeste fremtid, hr. Neachtain. Faktisk tilbyder Kommissionens nye generation af programmer for 2007-2013, dvs. programmet for livslang læring, en bred vifte af finansieringsmuligheder for disse sprog. Alle sprogene er støtteberettigede i henhold til dette program.
+<P>
+Der er mulighed for finansiering i alle de fire delprogrammer af programmet for livslang læring, nemlig Comenius, Erasmus, Grundtvig og Leonardo da Vinci. Denne finansiering er også mulig i den nyetablerede tværgående del af programmet for livslang læring, særligt via nøgleaktiviteten - fremmedsprog - som tilbyder finansiering af projekter og netværk med det etablerede formål at fremme indlæringen af fremmedsprog og sproglig mangfoldighed.
+<P>
+Efter den generelle indkaldelse af forslag for 2007 blev der udvalgt et netværk og tre projekter udarbejdet for mindre udbredte sprog til at modtage støtte som en del af nøgleaktivitet 2. For perioden 2008-2010 vil projekter, som fokuserer på mindre udbredte sprog i Europa, blive prioriteret. I 2008 er budgettet for nøgleaktivitet 2 9,9 millioner euro, men i betragtning af, at finansieringen af sprogrelaterede aktiviteter og projekter er en del af en fremherskende tendens, er der tilgang til supplerende midler under programmet for livslang læring.
+<SPEAKER ID="309" NAME="Seán Ó Neachtain" AFFILIATION="UEN">
+(GA) Hr. formand! Jeg vil gerne takke kommissæren for hans svar. Imidlertid vil jeg gerne vide, om han accepterer betydningen af, at hjælpen gives til mindre udbredte sprog i deres egen kontekst, og at de ikke forbindes for meget med livslang læring? Disse sprog er udsatte, og hvis de ikke modtager en betydelig støtte, vil de blive endnu mere udsatte i fremtiden. Økonomisk støtte er naturligvis vigtig, men symbolsk støtte er endnu vigtigere. Er kommissæren enig i, at denne skal øges?
+<SPEAKER ID="310" NAME="Leonard Orban" LANGUAGE="RO">
+Hr. formand! Jeg kan kun gentage, hvad jeg netop har sagt, hr. Neachtain, nemlig at det gennem Kommissionens foranstaltninger til støtte af sproglig mangfoldighed ikke blot er de 23 officielle sprog, der støttes, men også de andre sprog, som tales i EU, inklusive de regionale sprog, de mindre udbredte sprog. Endvidere har jeg med de data, jeg fremlagde, vist, at denne støtte er konkret, en omfattende økonomisk støtte, som ydes til udviklingen af disse sprog.
+<SPEAKER ID="311" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+(GA) Hr. formand! Min kollega Seán Ó Neachtain taler flydende irsk. Det gør jeg imidlertid ikke. Beklager.
+<P>
+(EN) Kan jeg stille Dem et spørgsmål? Jeg er enig i forudsætningen for Deres svar. Penge er vigtigt, men er det ikke vigtigere, at vi ved, hvordan vi kan undervise bedre i sprog? I lande som Irland, hvor folk som jeg selv inderligt ville ønske, at de kunne tale sproget, men voksede op under et system, som ikke gav os evnen til at gøre det, er vi nødt til at finde måder, hvorpå vi kan lære os, hvordan vi taler vores modersmål, for det vil vi så inderligt gerne.
+<SPEAKER ID="313" NAME="Leonard Orban" LANGUAGE="RO">
+Hr. formand! Kommissionen har intentioner om at fremlægge en ny strategi for flersprogethed i anden halvdel af 2008, hr. McGuiness. I denne strategi vil uddannelseskomponenten indtage en meget vigtig plads. Stil og metoder for fremmedsprogsindlæring vil spille en meget stor rolle.
+<P>
+Hvad det irske sprog angår, vil jeg gerne informere Dem om, at jeg for nylig har aflagt besøg i Dublin, jeg har haft lejlighed til at tale med de irske myndigheder i den forbindelse og ved senere lejligheder, og jeg har insisteret på, at der er behov for den bredest mulige oplæring af folk, som er i stand til at arbejde på fællesskabsniveau, og ikke blot som oversættere eller tolke. Dette er afgørende for at kunne sikre en fuldstændig ligeværdig position for det irske sprog sammen med de andre officielle sprog i Unionen.
+<SPEAKER ID="314" NAME="Evgeni Kirilov" AFFILIATION="PSE">
+(EN) Hr. formand! Jeg forventede virkelig at få et svar fra kommissæren i aften. Folk får ordet for at komme med indlæg og stille spørgsmål. Jeg har et spørgsmål, og jeg vil gerne have et svar på det spørgsmål. Så enkelt er det. Vi spilder tiden på indlæg i aften. Kunne De være så venlig i dette tilfælde at lade kommissæren svare meget kortfattet? Jeg vil ikke stille nogen detailspørgsmål bagefter.
+<SPEAKER ID="315" NAME="Formand">
+Ærede parlamentsmedlem, når folk beder om ordet, kan jeg ikke gætte, hvorvidt de har tænkt sig at komme med indlæg eller stille spørgsmål. Dertil rækker mine mentale evner endnu ikke, jeg har ingen spådomsevner. Det jeg skal gøre, er at forvalte tiden i henhold til Parlamentets bestemmelser og praksis, og jeg har desværre ikke nogen tid at afsætte til Dem. Det ville være ufordelagtigt for vores fælles kolleger, som har stillet spørgsmål. Jeg må påpege, at der er blevet stillet 70 spørgsmål til Kommissionen alene til denne mødeperiode. Det er naturligvis ikke muligt at besvare 70 spørgsmål. Vi har regler, og dem må vi holde os til. Jeg undskylder oprigtigt og forstår Deres frustration. Hvis jeg var i Deres sted - og når jeg er i Deres sted, føler jeg mig også frustreret - men jeg kan ikke give Dem et svar. Kommissæren vil under alle omstændigheder naturligvis give Dem en skriftlig besvarelse, og De vil derfor få Deres svar. Jeg håber, De forstår.
+<P>
+Om: Regionaludviklingsfonde og minoritetsgrupper
+<P>
+Størsteparten af strukturfondsmidlerne til regional udvikling for den kommende periode 2007-2013 er blevet fordelt. Hvordan vil Kommissionen i betragtning heraf sikre, at midlerne ikke anvendes på diskriminerende vis, og at etniske minoriteter, herunder navnlig romaerne, også får gavn af dem?
+<P>
+Vil Kommissionen offentliggøre oplysninger om de forskellige etniske minoriteters udnyttelse af midlerne?
+<SPEAKER ID="317" NAME="Danuta Hübner">
+medlem af Kommissionen. - (EN) Hr. formand! Lad mig sige, at Kommissionen i processen med forberedelser til den nye generation af programmer for samhørighedspolitik 2007-2013 har insisteret på, at romaspørgsmålet, som er af særlig betydning for det ærede parlamentsmedlem, under forhandlingerne er inkluderet i planlægning og programmering. Jeg må indrømme, at nogle medlemsstater har reageret meget positivt ved at inddrage romaspørgsmålet som et tværgående spørgsmål i mange nationale strategiske referencerammer og også gennem direkte referencer i operationelle programmer. Dette er især stærkt synligt i lande som Ungarn, Den Tjekkiske Republik, Slovakiet, Rumænien, Bulgarien, Estland og Spanien, men også i Polen, Slovenien, Litauen og Finland.
+<P>
+Takket være den decentraliserede forvaltning af strukturfondene er det ikke muligt for Kommissionen klart at identificere, hvilke projekter der omhandler romaspørgsmålet både nu og i fremtiden, og hvor mange penge der står til rådighed for det. Vores tilstedeværelse i overvågningsudvalget for perioden 2000-2006 viser imidlertid klart, at der er talrige meget interessante og supplerende programmer og projekter, som støtter integration af romaer. Vi har i mange ESF- og EFRU-programmer enten specifikke gennemførelsesmidler eller indirekte støtte til integration af romaer gennem henvisninger til udsatte grupper. Det er f.eks. tilfældet i Estland, Finland og Polen.
+<P>
+Hvad angår spørgsmålet om offentliggørelse af data, må jeg sige, at medlemsstaterne for perioden 2007-2013, som De sikkert ved, skal offentliggøre detaljer om støttemodtagerne under hvert program, men dette system omfatter ikke eksplicit identificering af støttemodtagernes etniske baggrund. Vi vil ikke desto mindre på grundlag af denne liste, som vi modtager, være i stand til at identificere områder, hvor den europæiske politik er aktiv.
+<P>
+Lad mig også sige, at Generaldirektoratet for Regionalpolitik for perioden 2007-2013 har planlagt retningslinjer for internt Kommissionsarbejde om romaspørgsmålet, som er blevet anvendt på tværs af tjenestegrenene i programmeringsperioden. Der er en romafællesgruppe, som arbejder med strukturfondene, og som ledes af Generaldirektoratet for Regionalpolitik.
+<P>
+Lad mig også tilføje, at vi i mange medlemsstater - og Ungarn er et godt eksempel på dette - også har forvaltningsmekanismer, som er specielt udarbejdet til gennemførelsen af ny regionalpolitik. I Ungarn er der f.eks. et netværk af romarådgivere, som skal bistå romaansøgere i forberedelsen af projektet på forskellige stadier. Kommissionen arbejder også for øjeblikket på en oversigt over alle Fællesskabets instrumenter og politikker inklusive strukturfondene og deres betydning for integration af romaerne, som skal præsenteres i juni 2008.
+<SPEAKER ID="318" NAME="Claude Moraes" AFFILIATION="PSE">
+(EN) Hr. formand! Tak for Deres yderst omfattende svar, fru kommissær. Jeg vil også gerne takke Dem for Deres nylige indsats i min valgkreds i London med at udrede vores egne strukturfondproblemer.
+<P>
+Må jeg spørge nærmere ind til, hvorvidt etniske minoriteter faktisk prioriteres tilstrækkeligt? I december bad Det Europæiske Råd specifikt Dem og Kommissionen om at se nærmere på dette spørgsmål. Føler De, bortset fra det omfattende svar, De har givet mig, at der er en mulighed for at finde ud af, hvorvidt romanibefolkningen og andre grupper faktisk prioriteres ordentligt, eller hvorvidt der filtreres penge til andre steder? Har De mulighed for at gå videre med dette spørgsmål?
+<SPEAKER ID="319" NAME="Danuta Hübner" LANGUAGE="EN">
+Hr. formand! Det er faktisk kommissær Špidla, som leder udarbejdelsen af Kommissionens dokument som svar på Rådets anmodning. Vi deltager ikke desto mindre alle i denne proces gennem fællesgrupperne.
+<P>
+Som jeg sagde, får vi oplysningerne fra rapporten over de endelige støttemodtagere, så da ved vi, hvad der bliver gjort for romaerne eller for andre minoriteter. Vi får ikke etnisk-udskilte data med henblik på støttemodtagernes baggrund. Det område, hvor projektet kommer til at foregå i, vil ikke desto mindre være fuldstændigt klart, så på grundlag af dette kommer vi til at vide langt mere for perioden 2007-2013, end vi hidtil har vidst.
+<P>
+Lad mig også sige, at Kommissionen i sin egenskab af observatør i forvaltningssystemet i medlemsstaternes udvalg også ser på og aktivt deltager i vurderingen af støttetildelingen i de områder, som er vigtige for etniske minoriteter, så vi har forskellige former for information. Men jeg må indrømme, at vi ikke har et fuldt færdigt instrument til at fastslå den fulde rækkevidde af det indgreb, som foregår gennem politikken, men vi er i hvert fald meget opmærksomme, og vi udnytter alle de muligheder, vi har.
+<P>
+Nu ser vi. Vi er nu ved at forberede bidraget til Kommissionens dokument til Rådet. Vi får også at se, hvor de sorte huller er, der hvor vi ikke har nogen information, og hvilken form for foranstaltning vi eventuelt stadig mangler.
+<SPEAKER ID="320" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Hr. formand! Jeg vil gerne spørge Kommissionen, om sårbare grupper, uanset om det er minoritetsgrupper eller ikke, omfatter familier med kun én forælder og fattige familier med mange børn, og om kriterierne kan kombineres og ydelserne til disse grupper øges.
+<SPEAKER ID="321" NAME="Danuta Hübner" LANGUAGE="EN">
+Hr. formand! Jeg vil blot gerne sige, at intet er udelukket, fru Panayotopoulos-Cassiotou. Med Deres hjælp har vi været igennem udarbejdelsen af forordningerne. Vi har været ekstra opmærksomme på udsatte grupper, og der er klare referencer i den overordnede EFRU-forordning til f.eks. ligestillingspolitikker. Så det er en prioritet.
+<P>
+Der er også systemet med rapportering om, hvordan ligestillingspolitikker gennemføres i den nye generation af programmer for samhørighedspolitik. I hvor høj grad dette anvendes af medlemsstaterne og regionerne afhænger af, hvor stærke de parter, som deltager i alle strukturerne i forvaltningsfonden, er i denne proces. Det er en fælles indsats.
+<P>
+Kommissionen har skabt de overordnede rammer for at tage alle udsatte grupper i betragtning. Udnyttelsen af dem afhænger ikke kun af Kommissionen, men også af medlemsstaterne. Jeg vil stærkt opfordre alle de, der befinder sig på stedet, til at sørge for, at der bliver taget hånd om dette spørgsmål.
+<P>
+Medlemsstaterne gennemgår nu også processen med at fastlægge udvælgelseskriterier, og Kommissionen deltager i processen. Det afhænger ikke desto mindre af medlemsstaterne og de forskellige parter, for overvågningsudvalgene omfatter alle arbejdsmarkedets parter. Jeg håber, at alle parter samt Kommissionen vil gøre medlemsstaterne opmærksomme på disse spørgsmål, og at udvælgelseskriterierne vil indbefatte kriterier, som giver os mulighed for, at alle de udsatte grupper repræsenteres fuldt ud i vores programmer.
+<P>
+Om: EU's regionalstøtte til Irland 2007-2013
+<P>
+Er Kommissionen tilfreds med den regionale lighed, hvad angår EU's nyligt godkendte støtte til Irland for perioden 2007-2013? Er den bekymret over, at udviklingen i Irlands to regioner ifølge de foreliggende tal ikke er konvergerende, men at BMW-regionen (Border, Midland and Western Region) tværtimod fortsat er bagud i forhold til S&E regionen (South and East Region), som stadig modtager hovedparten af regeringsstøtten?
+<SPEAKER ID="323" NAME="Danuta Hübner" LANGUAGE="EN">
+Hr. formand! Hvad angår Irland og støttetildelingen for 2007-2013 og skellet mellem de to store regioner, vil jeg sige, hr. Higgins, at Border, Midlands og Western-regionen (BMW), som er en indfasningsregion under mål 2, vil modtage en økonomisk støtte pr. indbygger, som er fire gange højere end støtten til naboregionen, den mere velstående S&E-region i republikken (Southern and Eastern).
+<P>
+Ud af de samlede 901 millioner euro, der er afsat i støtte til Irland, vil de 457 millioner euro gå til BMW-regionen og de 293 millioner euro til S&E-regionen.
+<P>
+Vi har også 150 millioner euro, som skal gå til samarbejdsprogrammer, hvilket tilsvarer en støtte pr. indbygger på ca. 400 euro i BMW-regionen og ca. 95 euro i S&E-regionen.
+<P>
+Lad mig også tilføje, at BMW-regionen har klaret sig udmærket i løbet af den seneste programmeringsperiode med bistand fra EU's strukturfonde. Regionen var allerede nået op på 102,9 % af EU-27's gennemsnitlige BNP pr. indbygger i 2004. Men jeg indrømmer, at kløften i den regionale BNP mellem BMV-regionen og naboregionen stadig er en udfordring, hvilket er grunden til, at vi håber, at vi i 2007-2013-programmerne under både ESF og EFRU vil se en yderligere indsnævring af denne kløft.
+<SPEAKER ID="324" NAME="Jim Higgins" AFFILIATION="PPE-DE">
+(GA) Hr. formand! Jeg vil gerne takke kommissæren. Jeg vil gerne drage hovedvejsprojekterne, som er meget vigtige i fjerntliggende områder, ind i sammenhængen. I 2006 blev der fuldført 14 hovedvejsprojekter, men ingen af dem lå i BMW-regionen. Samme år var nye vejprojekter under udførelse, men kun ét af dem lå i vest - i BMW-regionen.
+<P>
+Samme år blev der påbegyndt 11 vejprojekter, som dækkede 222 km, men der er kun to projekter i vest, som dækker 25 km. De har ret, når De siger, at det er tydeligt, at hvis man undersøger BNP eller BVT f.eks., at kløften udvider sig, og at der må gøres noget ved det.
+<SPEAKER ID="325" NAME="Danuta Hübner" LANGUAGE="EN">
+Hr. formand! Jeg sætter stor pris på Deres kommentar, hr. Higgins. Lad mig også sige, at vi vil være der for BMW-regionen i årene fremover. Som De ved, var der en voldsom nedskæring i støtten til Irland for 2007-2013, og det har naturligvis haft en klar indflydelse på, hvor meget vi kan gøre i fællesskab i de kommende år.
+<P>
+Lad mig også tilføje, at de gode nyheder for Irland er, at det har den nationale irske strategi for regional udvikling, som er et nationalt program, der anerkender de divergerende niveauer af økonomisk vækst, både imellem regionerne, men også inden for BMW-regionen. Lad os håbe, at den fælles indsats med EU-bidrag og irske bidrag vil få BMW-regionen til at øge væksthastigheden.
+<P>
+Lad mig komme med en personlig bemærkning. Vi ved alle, at Irland har været fremragende til at udnytte EU-midlerne igennem årene og har fulgt en meget klog strategi, hvilket førte til denne enorme forbedring i form af generel udvikling, når den måles i BNP pr. indbygger. Det er imidlertid sandt, at valget ikke faldt på infrastrukturen, som nu er et problem, og hvor vi ikke kan hjælpe, fordi Irland har bestået mål 1-programmet, hvor der også var mulighed for yderligere investering i infrastrukturen. Så det har været et meget anderledes valg end det, Spanien og Portugal har truffet, men det skal jeg ikke bedømme.
+<P>
+Om: EU's støtte til fredsprocessen i Irland
+<P>
+Kan Kommissionen oplyse, hvor stor økonomisk støtte den vil give Nordirland i form af strukturfondsstøtte i årene 2007-2013, samt angive hvor meget Kommissionen har givet i økonomisk støtte til fredsprocessen i Nordirland siden 1994 inden for rammerne af EU's strukturfondsprogrammer, Interreg-programmet om grænseoverskridende samarbejde og EU's fredsfond samt gennem Den Internationale Fond for Irland?
+<SPEAKER ID="327" NAME="Danuta Hübner" LANGUAGE="EN">
+Hr. formand! Alle i Europa-Parlamentet vil vide, hr. Crowley, at Kommissionen i årevis har været en meget stærk og tilstedeværende part i freds- og forsoningsprocessen i Nordirland.
+<P>
+For perioden 2007-2013 vil der blive investeret lidt over 1,2 milliarder euro i Nordirland totalt. De vil komme fra Den Europæiske Socialfond, og Den Europæiske Fond for Regional Udvikling, men der vil også været et yderligere beløb på 477 millioner euro, som afsættes til Peace 3-programmet. Der er også IFI- og Interreg 4-programmerne, som vil investere ikke kun i Nordirland, men også i Irlands grænseområder.
+<P>
+Hvis vi ser på fortiden, som også indgik i spørgsmålet, med henblik på 1994-1999 og 2000-2006, har EU investeret over 2 milliarder euro for 1994-1999 og næsten 1,8 milliarder euro for 2000-2006. Så i løbet af hele perioden 1994-2013 kommer vi til at investere næsten 5 milliarder euro i Nordirland.
+<P>
+Det, der også er vigtigt nu med den nye taskforce og Europa-Kommissionens nye tiltag og engagement, er, at vi kan få fordele ud over den økonomiske støtte, som kommer af Nordirlands stærkere engagement i EU-politikker. Det er det, vi arbejder på sammen med den nordirske regering og andre parter.
+<SPEAKER ID="328" NAME="Seán Ó Neachtain" AFFILIATION="UEN">
+for spørgeren. - (GA) Hr. formand! Støtten til fredsprocessen i Nordirland og grænseområdet har været en stor succes, fru kommissær. Kan De sige, om dette initiativ vil blive forlænget, når udgiftsperioden ender i 2013?
+<SPEAKER ID="329" NAME="Jim Higgins" AFFILIATION="PPE-DE">
+(GA) Hr. formand! Jeg er helt enig med min kollega Seán Ó Neachtain, og vi er meget taknemlige over for EU for dets økonomiske støtte til Nordirland, især i grænseområdet. Det er vidunderligt, at der nu er fred her, og vi vil alle gerne takke EU for dets bidrag. Jeg har set på tallene, og jeg har udarbejdet en betænkning for nylig om Den Internationale Fond for Irland, og vi kan se, at der er blevet skabt mere end 5.000 arbejdspladser takket være denne fond. Jeg er ikke desto mindre helt enig i det spørgsmål, som min kollega Seán Ó Neachtain har stillet.
+<SPEAKER ID="330" NAME="Danuta Hübner" LANGUAGE="EN">
+Hr. formand! Lad mig som svar på hr. Higgins spørgsmål om, hvorvidt vi vil forlænge vores tilstedeværelse i Nordirland efter 2013, sige, at IFI, der jo ikke er et kommissionsprogram, som Kommissionen og Rådet bidrager til, vil blive afsluttet i 2010. Derfor ved vi ikke, hvorvidt det internationale samfund vil være villigt til at fortsætte med et nyt trin eller en ny udgave af dette program.
+<P>
+Med henblik på EU-programmerne er Nordirland et mål 2-program. Jeg håber inderligt, at vi fortsætter med mål 2-programmet, for jeg tror ikke på en regionalpolitik, som kun gælder dele af Europa, mens andre udelukkes. Hvis der ikke er noget mål 2, bliver der ikke nogen tiltrædelse for Nordirland.
+<P>
+Jeg tror imidlertid også, at det grænseoverskridende og transnationale samarbejde, som Nordirland deltager i - især det nye grænseoverskridende program gennem "C" - er meget vigtigt, fordi vi tror på, at dette interregionale samarbejde - særligt med en grænseoverskridende dimension - også er meget vigtigt for at bringe Nordirland tættere på Europa og på samarbejde med andre regioner og andre medlemsstater. Så det står åbent. Kommissionen vil helt sikkert støtte tanken om at forlænge denne tilstedeværelse.
+<SPEAKER ID="331" NAME="Formanden">
+(PT)
+<P>
+Om: Europæiske strukturfondsmidler
+<P>
+Er Kommissionen klar over, at man i Skotland i henhold til de nye operationelle retningslinjer kræver, at projekter skal have et minimumsbudget på 200 000 GBP for at kunne blive tildelt europæiske strukturfondsmidler? Mener Kommissionen, at dette er uretfærdigt diskriminerende over for små projekter, der dog er værd at støtte?
+<P>
+Spørgsmål nr. 50-54 vil blive besvaret skriftligt.
+<SPEAKER ID="332" NAME="Danuta Hübner" LANGUAGE="EN">
+Hr. formand! Kommissionen er opmærksom på den tærskel, der blev indført af de skotske myndigheder, hr. Martin. Lad mig tilføje, at de skotske myndigheder var helt åbne under forhandlingerne om spørgsmålet om at indføre tærskelen. Myndighederne var åbne ikke blot over for Kommissionen i vores kontakt, men også inden for Skotlands grænser i høringsprocessen med alle interessenter og partnere i Skotland.
+<P>
+Jeg vil gerne understrege, at der er en absolut klar forståelse af, at den tærskel, som blev indført, ikke udelukker små projekter, men sigter mod at anspore disse projekter til at gruppere sig tematisk eller regionalt for at nå over den fastlagte tærskel. De skotske myndigheder har forpligtet sig til at sikre, at der ydes bistand til koordinatorer af mindre projekter, således at mindre projekter under tærskelen til enhver tid kan blive præsenteret for det overordnede administrerende organ, som vil føre dem sammen når som helst, det er muligt, for at udarbejde et mere strategisk forslag.
+<P>
+Dette sigter i realiteten mod at minimere den økonomiske og revisionsmæssige risiko ved finansiering af mindre projekter. Det sigter også mod at knytte forbindelser mellem mindre projekter for at gøre dem til en del af en samlet strategi, og det sigter mod at reducere den administrative byrde, som ofte opleves som en forhindring for mindre projekter. Så intentionen er god, og der er en mekanisme, der skal hjælpe mindre projekter med at danne større enheder, som derefter vil blive præsenteret for en ansøgning om støtte.
+<SPEAKER ID="333" NAME="David Martin" AFFILIATION="PSE">
+Hr. formand! Jeg skal gøre det kort, fru kommissær, for jeg ved, at tiden løber: Hvis de skotske myndigheder skulle komme til Dem og foreslå en lavere tærskel, ville det så være muligt, og ville De se positivt på det?
+<SPEAKER ID="334" NAME="Danuta Hübner" LANGUAGE="EN">
+Hr. formand! Ja, absolut, hr. Martin. Svaret vil helt klart være ja.
+<P>
+Om: Oprettelse af en tilsynsmyndighed for den europæiske telekommunikationssektor
+<P>
+Kommissionen har fremsat en række henstillinger vedrørende den kommende reform af den lovgivningsmæssige ramme for telekommunikationssektoren, herunder oprettelsen af en tilsynsmyndighed for den europæiske telekommunikationssektor. Denne myndighed skal bl.a. overtage den rolle, som De Europæiske Tilsynsmyndigheders Gruppe har på nuværende tidspunkt, og samordne de nationale tilsynsmyndigheders arbejde.
+<P>
+Har Kommissionen kendskab til de reaktioner, der er kommet fra alle de nationale tilsynsmyndigheder i EU, vedrørende den foreslåede europæiske myndigheds beføjelser og ansvar? Hvor går grænsen mellem de nationale tilsynsmyndigheders beføjelser og den nye europæiske myndigheds beføjelser?
+<SPEAKER ID="336" NAME="Viviane Reding" LANGUAGE="EN">
+Hr. formand! Det ærede parlamentsmedlem refererer til Kommissionens forslag om at oprette en europæisk tilsynsmyndighed for markedet for elektronisk kommunikation. Vi mener, at der bør være en separat enhed, som er uafhængig af Kommissionen og ansvarlig over for Europa-Parlamentet, og at denne enhed kunne bistå Kommissionen med at håndtere de resterende problemer med manglende konsekvens i tilsynet, hvilket fører til fragmenteringen af de europæiske markeder.
+<P>
+Jeg har løbende kontakt med de nationale tilsynsmyndigheder, og jeg noterer mig deres synspunkter vedrørende den foreslåede myndigheds beføjelser og ansvar.
+<P>
+Hvad angår De Europæiske Tilsynsmyndigheders Gruppe (ERG), som har givet udtryk for, at den foretrækker at styrke sin egen model med henblik på fortsat at fremme kvaliteten, konsekvensen og koordineringen af tilsyn i hele Europa, vil jeg blot gerne citere ERG: "Hvis Europa vil spille en førende rolle i den globale økonomi, er dets 27 medlemmer nødt til at arbejde tæt sammen for at sikre, at erhvervslivet kan udnytte det europæiske marked fuldt ud". Det betyder, at det ikke kan det i dag, og at vi er nødt til at finde løsninger, så det kan i fremtiden.
+<P>
+Den konsekvensanalyse, der ledsager revisionsforslagene, fastslår, at den europæiske myndighed ville bidrage til at fremme en effektiv beslutningstagning og mest af alt beslutningstagningen vedrørende grænseoverskridende foranstaltninger. Det har vi behov for, hvis vi skal opbygge det indre marked.
+<P>
+Kommissionen konkluderede derfor med, at der er et behov for en separat enhed, som etableres inden for Fællesskabets eksisterende institutionelle struktur, for ERG står i dag uden for denne struktur - dvs. at den blot er en privat organisation. Inden for den institutionelle struktur ville den styrke de nationale tilsynsmyndigheders beføjelser ved at overtage ERG's funktioner og give dem et grundlag i fællesskabslovgivningen.
+<P>
+Vedrørende spørgsmålet om kompetencefordelingen skal myndigheden bistå Kommissionen i spørgsmål, som har indflydelse på det indre marked, den skal have en naturlig grænseoverskridende karakter, og den skal naturligvis trække på de nationale tilsynsmyndigheders ekspertise og daglige tilsynsarbejde. Dette system, som er baseret på erfaringen fra 27 nationale tilsynsmyndigheder og den erfaring, som er indhentet af Det Europæiske Agentur for Net- og Informationssikkerhed (ENISA), sigter mod at styrke EU-reglernes sammenhæng og konsekvens, styrke beslutningstagningsprocessen og bidrage til at fremme et højt og effektivt niveau af net- og informationssikkerhed.
+<SPEAKER ID="337" NAME="Georgios Papastamkos" AFFILIATION="PPE-DE">
+(EL) Hr. formand, hr. kommissær! Hvis en europæisk borger påvirkes af en administrativ handling, hvilken af de tre instanser skal han henvende sig til for at anfægte en handling, der berører hans legitime interesser, de nationale reguleringsmyndigheder, den myndighed for det europæiske telekommunikationsmarked, der er under oprettelse, eller Kommissionen?
+<P>
+Vil beslutningerne fra den myndighed, der er under oprettelse, kunne håndhæves? Vil Kommissionen selv påtage sig de ekstra omkostninger forbundet med den foreslåede revision af lovrammen i betragtning af den nuværende skævhed i udviklingen af telekommunikationsstrukturerne mellem de nye og de gamle EU-lande?
+<SPEAKER ID="338" NAME="Viviane Reding" LANGUAGE="EN">
+Hr. formand! Enhver borger har ret til at klage, hvis der er noget, der ikke fungerer, hr. Papastamkos. Hvis jeg var en almindelig borger, ville det første sted, jeg ville klage til, være Udvalget for Andragender i Europa-Parlamentet, for det er der, Parlamentets stemme intervenerer. Den anden måde er via gennemsigtighed, hvilket er et meget vigtigt element i alle vores bestemmelser.
+<P>
+Kommissionen har forsøgt at få etableret denne gennemsigtighed. De husker måske f.eks., hvad angår mobilroaming, at borgerne overhovedet ikke blev informeret om, hvor de kunne få oplysninger om prisstrukturer, før Kommissionen oprettede en hjemmeside, der gav information om roaming. Det var første gang, gennemsigtigheden virkede.
+<P>
+I den nye reform gør vi også gennemsigtighed til en regel og ikke kun en undtagelse, ikke kun med hensyn til prisstrukturer, men også f.eks. når der er brud på sikkerheden eller krænkelse af privatlivets fred. I sådanne tilfælde har operatørerne pligt til at informere forbrugerne. Når det er sagt, vil borgerne stadig kunne klage på normal vis som under de gamle telekombestemmelser.
+<P>
+Om: Adgang til højhastighed for alle borgere i medlemsstaterne
+<P>
+Kommissionen vedtog den 13. november 2007 forslag til reform af lovgivningsrammerne for elektronisk kommunikation. Kan Kommissionen præcisere, i hvilket omfang den effektivt og hurtigt vil gribe ind over for medlemsstaterne for at gøre højhastighedsmarkederne tilgængelige for alle borgere, da de meget store prisforskelle, der for øjeblikket er gældende, viser, at dette langtfra er tilfældet?
+<P>
+Hvordan kan Kommissionen desuden sikre, at konkurrencen bliver effektiv, og at de konkurrencebegrænsende metoder, der forhindrer åbningen af markederne, sanktioneres?
+<SPEAKER ID="340" NAME="Viviane Reding" LANGUAGE="EN">
+Hr. formand! Højhastighedsnet er fremtidens internet, og vi ville ikke bryde os om, hvis dette internet kun skulle være tilgængeligt for nogle, fru Corda. Det er grunden til, at informationssamfund for alle er en af Lissabonstrategiens forudsætninger for åbne og konkurrencedygtige markeder. Fordi vores reguleringsværktøjer i dag, selv inden reformen, tillader denne åbne tilgang til lovrammerne for elektronisk kommunikation - de er også suppleret med generelle konkurrenceregler - har det gjort markederne for åbne for konkurrence, hvilket dernæst har presset på udbygningen af offentlige bredbåndsnet i Europa.
+<P>
+Jeg er bekymret for, at det i nogle lande har fungeret godt - det er de lande, hvor konkurrencen fungerer, og hvor man har en markedsdækning på op til 37 %, ja endda 40 % - mens markedsdækningen i andre lande er meget lav. Jeg vil gerne være fri for denne variation. Jeg vil gerne bringe dem, som befinder sig i den laveste kategori, længere op ad stigen. Derfor foreslår Kommissionen som en del af reformen at give Kommissionen mulighed for at overvåge de tilsynsforanstaltninger, som etableres af nationale tilsynsmyndigheder, bakket op af muligheden af, at de nationale tilsynsmyndigheder kan kræve en adskillelse af funktioner, hvis de finder det nødvendigt for at åbne markedet.
+<P>
+Parallelt hermed prioriterer Kommissionen kontrollen med konkurrencebegrænsende adfærd. F.eks. udstedte vi i 2003 en bøde til France Télécom og Deutsche Telekom for utilbørlig opførsel på bredbåndsmarkedet, og for ganske nylig, den 4. juli 2007, udstedte Kommissionen en bøde til Telefónica for at have misbrugt sin ledende position med margenstramning på det spanske bredbåndsmarked.
+<P>
+Jeg vil også gerne sige, at der i marts 2006 blev udarbejdet en meddelelse om at slå bro over bredbåndskløften. Jeg mener virkelig, vi har brug for bredbånd til alle, og det er derfor, jeg mener, at vi er nødt til at have nogle nationale bredbåndsstrategier, som afspejler de regionale og lokale behov.
+<P>
+Hvis vi går videre til det spørgsmål, der blev stillet om gennemsigtighed, er Kommissionen på nippet til at lancere en webportal, som skal begynde at fungere omkring maj-juni 2008, for spørgsmålet om bredbånd og borgerne.
+<P>
+Sidst, men ikke mindst har Kommissionen et positivt syn på brugen af offentlige midler inklusive EU-midler - strukturfonde - til at udbrede bredbåndet i områder, hvor den kommercielle udnyttelse er utilstrækkelig. Flere af sådanne projekter er allerede oprettet.
+<P>
+Vi støtter også udviklingen af informationssamfundet via regionalpolitikken. En foreløbig vurdering anslår investeringerne til omkring 15 milliarder euro, hvilket er 4,4 % af de samlede udgifter for perioden 2007-2013, og af denne sum forventes 2,2 milliarder euro at blive brugt på bredbåndsinfrastrukturer. Via denne kombinerede indsats håber vi, at dagens markedsdækning - hvor vi for øvrigt har fire af verdens førende lande på bredbåndsdækning - vil gøre mange flere lande til nogle af de førende på verdensplan og særligt i Europa.
+<SPEAKER ID="341" NAME="Giovanna Corda" AFFILIATION="PSE">
+- (FR) Hr. formand! De er blevet nødt til at fastsætte maksimumspriser for roaming, fru kommissær. De erklærede i sidste uge, at De måske vil være tvunget til at gøre det samme med e-mail.
+<P>
+Vil De i den nærmeste fremtid ikke også være nødt til at regulere priserne for internetadgang på europæisk plan?
+<P>
+Jeg ved, at der i visse lande træffes forberedelser til tilnærmelser, som vil betyde færre operatører. Vil priserne så falde? Jeg vil tillade mig at tvivle.
+<SPEAKER ID="342" NAME="Viviane Reding" LANGUAGE="FR">
+Hr. formand! Jeg vil svare fru Corda med, at vi ikke griber ind i markedspriserne med let sind, men at vi normalt lader markedet løse de problemer. Men hvis markedet ikke kan løse dem, må politikerne træde til. Det gjorde vi med mobilroaming. Det ønsker jeg ikke at gøre med sms- og dataroaming.
+<P>
+Derfor har jeg netop - i øvrigt på grundlag af den forpligtelse, der er pålagt mig i forordningen om mobilroaming, hvor Parlamentet beder mig fremlægge en situationsanalyse i 2008 - advaret operatørerne og gjort det klart, at hvis de ikke selv sænker taksterne, bliver reguleringsinstanserne, deriblandt Europa-Parlamentet, tvunget til at gøre noget. Men markedet skal altid først have en chance, og det er kun, hvis markedet ikke kan løse problemet, politikerne skal gribe ind.
+<P>
+Hvad vil der ske med bredbåndsmarkedet? Det ved jeg ikke. På nuværende tidspunkt ved jeg kun, at der blandt vores europæiske lande er fire verdensmestre, hvad markedsindtrængning angår, som ligger langt foran Japan og Sydkorea og uendelig langt foran USA. Og det er netop konkurrencemarkeder. Det er markeder, hvor der er flere tilbud på bordet, og hvor forbrugerne i sidste ende kan vælge de tjenesteydelser, der passer dem bedst.
+<P>
+Det er sådan, et marked skal fungere. Kun hvis markedet ikke fungerer, skal der reguleres. Det gør de nationale reguleringsinstanser. For at deres indsats skal virke mere effektivt og hensigtsmæssigt og fremme det indre marked, som er Europas store chance i en globaliseret verden, foreslår jeg en reform af lovgivningen om telekommunikationsmarkederne. Det gør jeg - og Parlamentet drøfter det i øjeblikket - for at give forbrugerne et ægte valg.
+<P>
+I øjeblikket er der for mange borgere - ikke kun borgere, men også små og mellemstore virksomheder - som ikke har bredbåndsadgang. I fremtiden får de ikke adgang til samfundsudviklingen via bredbånd. Jeg synes, det er uacceptabelt. Derfor bør bredbånd til alle være et politisk mål. Det mål kan nås, hvis det lykkes os at gennemføre en omlægning af telekommunikationsmarkedet, så der bliver ægte konkurrence mellem operatørerne og dermed det udvalg af tjenester, de ønsker at tilbyde borgerne.
+<P>
+Om: Internetsikkerhed
+<P>
+Mens de fremskridt, der gøres inden for informations- og kommunikationsteknologien, fortsat giver store fordele, er risikoen for, at børn udsættes for upassende eller ulovligt materiale, steget drastisk, og i 2005 vedtog EU derfor Safer Internet plus-programmet for at bekæmpe ulovligt og uønsket indhold, navnlig af hensyn til børn.
+<P>
+Vil Kommissionen redegøre for, hvilke resultater man har opnået på dette vigtige politiske område, og navnlig hvilke konkrete forbedringer man kan foretage for at øge internetsikkerheden i medlemsstaterne?
+<SPEAKER ID="344" NAME="Viviane Reding" LANGUAGE="EN">
+Hr. formand! Dette emne ligger mig meget på sinde, hr. Mitchell, for det berører børn og deres sikkerhed. Jeg mener, at den nye teknologi er vidunderlig for børn, men den er også forbundet med farer, og dem er vi nødt til at bekæmpe.
+<P>
+Det er derfor, vi har etableret to omfattende europæiske netværk, nemlig Inhope-netværket af hotlines, hvor medlemmer af offentligheden kan rapportere om ulovligt indhold, og Insafe-oplysningsnetværket, som sigter mod at udbrede viden om en mere sikker brug af onlineteknologi til børn, forældre, skoler, beslutningstagere og medierne. Alt dette er lagt ind under Safer Internet-programmet og er unikke fælleseuropæiske initiativer.
+<P>
+Inhope's hotlines findes i 24 europæiske lande, og det har også en international gren med medlemmer i Asien og USA. Antallet af rapporter om børnemishandlingsmateriale, som behandles af netværket og videresendes til retshåndhævende myndigheder, er steget med 15 % i de seneste år, så vi kan virkelig mærke betydningen af disse hotlines.
+<P>
+Det andet netværk er Insafe, som koordinerer oplysningscentre i 23 europæiske lande og også arrangerer Sikkert Internet-dag hvert år - i år var det den 12. februar. Vi arrangerede Europæisk Ungdomsforum, hvor en række parlamentsmedlemmer og repræsentanter fra industrien var til stede for at tale direkte om deres erfaringer med deltagelse i sociale netværk og brug af mobiltelefonen.
+<P>
+EU Kids Online-netværket koordinerer forskere fra 21 lande, som fokuserer på børns onlinesikkerhed, og hvert år samler Safer Internet Forum ikkestatslige organisationer, industriforskere og beslutningstagere for at drøfte, hvordan man effektivt skal bekæmpe ulovligt indhold, Web 2.0 og andre relevante emner. Programmet opfordrer også til engagement i den private sektor. Safer Internet plus-programmet udløber i december 2008, hvilket er grunden til, at Parlamentet meget snart får lejlighed til at se på revisionen af programmet for perioden 2009-2013. Jeg er sikker på, at Parlamentet vil tage aktiv del i denne beslutningstagningsproces.
+<P>
+Vi har set gode resultater indtil videre, og vi kan underbygge disse yderligere. Problemet bliver ikke mindre, det fortsætter med at vokse, så jeg mener, at disse programmer bør fortsætte.
+<SPEAKER ID="345" NAME="Gay Mitchell" AFFILIATION="PPE-DE">
+(EN) Hr. formand! Tak for den respons, fru kommissær. Kan De bekræfte, eftersom problemet vokser og er skabt til at vokse, at De vil anbefale, at budgettet også fortsætter med at vokse? Budgettet for de seneste fem år var på 45 millioner euro.
+<P>
+Er De klar over, at en rundspørge i 2003 viste, at 40 % af alle børn sagde, at folk, de kun havde mødt online, bad dem om et personligt møde, og at 22 % af dem faktisk mødtes med vedkommende i 2006? 51 % af dem fortalte det aldrig til deres forældre eller lærere. Hvilke mål har De i den forbindelse sat Dem, hvilke måleenheder har De opstillet for disse mål, og hvilke fremskridt vil De kunne rapportere til Parlamentet, næste gang vi mødes for at forny programmet for perioden indtil 2013? Jeg støtter på det kraftigste dette program, og jeg vil indstændigt bede Dem om at finde uanset hvilke ressourcer, De har brug for for at gennemføre det.
+<SPEAKER ID="346" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+(EN) Hr. formand! Tak for Deres svar, fru kommissær. Må jeg spørge, hvilke foranstaltninger Kommissionen vil træffe for at intensivere sit arbejde med forældrene? Det er det egentlige problem. Børn er uheldigvis langt foran os på dette område. Jeg er urolig over, at dette program udløber i 2008, og jeg er også klar over, at det ikke er alle, der ved det, selv om mange gør. Jeg håber, at De vil tage denne pointe med, og jeg mener, at De bør gøre mere, proaktivt, for at fremme bevidstheden.
+<SPEAKER ID="347" NAME="Viviane Reding" LANGUAGE="EN">
+Hr. formand! Jeg er fuldstændig enig med det ærede parlamentsmedlem. Det er utvivlsomt et stort problem. For en gangs skyld ved børnene i vores samfund mere end forældrene, hvilket ikke er så dårligt, men det skaber problemer for forældrene, når de skal hjælpe deres børn med at løse problemet. For øvrigt gælder det ikke blot forældre, men også bedsteforældre - det er meget ofte bedsteforældrene, som er de første til at købe en mobiltelefon til deres børnebørn for at kommunikere med dem. Og det gælder naturligvis også undervisere.
+<P>
+Det er derfor, vi ikke blot foreslår at udvide programmet med et forhøjet budget på 55 millioner euro - og jeg håber, at Parlamentet vil forhøje budgettet - men også samarbejder med private organisationer som Det Europæiske Skolenetværk. Det Europæiske Skolenetværk-program findes i mange af vores europæiske skoler og behandler virkelig dette emne for at gøre børnene bevidste om problemerne og vise dem, at det ikke er alle, de kan komme i kontakt med, som de bør have kontakt med. Det yder også information gennem hotlines og aktiviteter i Safer Internet-programmet, og det træffer opmærksomhedsskabende foranstaltninger for at få forældre til at forstå, havd der foregår. Meget ofte har forældre ingen anelse om fordele og ulemper ved nye teknologier.
+<P>
+Jeg er ansvarlig for ny teknologi, og jeg tror virkelig, at de fleste handlinger via ny teknologi er positive handlinger. Jeg ville ikke bryde mig om, at nogle få negative aspekter fuldstændigt skulle forhindre den yngre generation i at have kontakt med ny teknologi. Det er derfor, jeg også har en virkelig fast tro på industriens evne til selvregulering.
+<P>
+For et år siden bad jeg mobiltelefonoperatører om at gøre noget for i 3G-mobiltelefoner at sikre, at problemerne med internettet ikke vil gå direkte over i mobiltelefonerne. Jeg er meget glad for at fortælle, at mobiltelefonindustrien dette år kom frem med nogle meget konkrete foranstaltninger til at informere forældre og børn om vanskelighederne og til at blokere programmer, som er farlige for børn i 3G-mobiltelefoner.
+<P>
+Så der sker fremskridt. Jeg tror, at EU-valget måske vil være et meget godt tidspunkt for Europa-Parlamentet til at henlede borgernes opmærksomhed på de foranstaltninger, som er etableret. Det er konkrete foranstaltninger. De har ret i, at det ikke er alle, der kender til dem. Så hvorfor ikke udnytte den store bevægelse ud mod offentligheden under Parlamentets valgkampagne til at forklare borgerne, hvilke konkrete foranstaltninger Det Europæiske Fællesskab træffer til fordel for samfundet?
+<SPEAKER ID="348" NAME="Formanden">
+Spørgsmål, der på grund af tidnød ikke var blevet besvaret, ville blive besvaret skriftligt (se bilag).
+<P>
+Spørgetiden er afsluttet.

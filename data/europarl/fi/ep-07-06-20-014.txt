@@ -1,0 +1,402 @@
+<CHAPTER ID="014">
+Neuvoston kyselytunti
+<SPEAKER ID="249" NAME="Puhemies">
+Esityslistalla on seuraavana kyselytunti (B6-0125/2007).
+<P>
+Käsittelemme neuvostolle osoitettuja kysymyksiä.
+<P>
+
+<P>
+Aihe: EU:n verotuspolitiikka
+<P>
+Jäsenvaltioiden harjoittaman verotuspolitiikan pitäisi vastata yhteisön tavoitteita uusien työpaikkojen luomisesta, EU:n kilpailukyvystä, yhtenäismarkkinoista sekä pääoman vapaasta liikkuvuudesta. 27 jäsenvaltiota ovat yksin vastuussa ainoastaan välitöntä verotusta koskevan politiikan suunnittelusta ja täytäntöönpanosta, kun taas kaikki päätökset, jotka koskevat yhteisön sääntöjä EU:n verotuspolitiikan yksittäisillä osa-alueilla, edellyttävät 27 jäsenvaltion yksimielisyyttä. Tuotteiden arvonlisäverosta (ALV) on tullut viime vuosina monimutkainen asia. ALV vaihtelee jäsenvaltioissa Luxemburgin 3 prosentista Tanskan 25 prosenttiin. Kertoisiko neuvosto, ollaanko EU:ssa siirtymässä lähemmäksi yhteistä arvonlisäverojärjestelmää, missä vaiheessa neuvottelut tällä hetkellä ovat ja millaisia aikeita jäsenvaltioilla on hyväksyä yhteinen arvonlisäverokanta?
+<SPEAKER ID="250" NAME="Günter Gloser">
+neuvoston puheenjohtaja. - (DE) Arvoisa puhemies, yhteinen arvonlisäverojärjestelmä otettiin käyttöön vuonna 1967 ensimmäisellä ja toisella arvonlisäverodirektiivillä. Kyseisissä direktiiveissä säädettiin järjestelmän yleisestä rakenteesta. Yksityiskohtaiset säännökset yhteisen arvonlisäverojärjestelmän soveltamisesta otettiin käyttöön vuonna 1977 annetulla kuudennella arvonlisäverodirektiivillä. Kyseiseen direktiiviin on sittemmin tehty lukuisia muutoksia, joista useimmat tehtiin yhteismarkkinoiden luomisen aikaan ja sen jälkeen poistettaessa jäsenvaltioiden välisiä veroesteitä.
+<P>
+Kuudes direktiivi kumottiin 1. tammikuuta 2007 ja korvattiin yhteisestä arvonlisäverojärjestelmästä annetulla direktiivillä 2006/112/EY, jossa alkuperäiseen direktiiviin sisällytettiin kaikki siihen tehdyt muutokset. Arvonlisäverokantojen osalta direktiivissä säädetään periaatteesta, jonka mukaan arvonlisäveroon sovelletaan yleistä verokantaa sekä yhtä tai kahta alennettua verokantaa. Yleisen verokannan on oltava vähintään 15 prosenttia. Tämä vähimmäiskanta vahvistetaan 31. joulukuuta 2010 saakka. Alennettujen kantojen on oltava vähintään 5 prosentin suuruisia, ja niitä sovelletaan direktiivissä määriteltyihin tavaroihin ja palveluihin. Direktiivissä säädetään myös tietyistä poikkeuksista tähän yleissääntöön sekä siirtymävaiheen järjestelyistä, joiden avulla jäsenvaltiot voivat reagoida tiettyihin tilanteisiin.
+<P>
+Jotta alennetuista verokannoista voitaisiin laatia tarkemmat arviot, direktiivissä säädetään myös, että komission on toimitettava 30. kesäkuuta 2007 mennessä Euroopan parlamentille ja neuvostolle riippumattoman taloudellisen mietintäryhmän selvitykseen perustuva yleisarviointi paikallisesti tarjottaviin palveluihin sovellettujen alennettujen verokantojen vaikutuksista erityisesti työpaikkojen lisäyksen, talouskasvun ja sisämarkkinoiden moitteettoman toiminnan kannalta.
+<SPEAKER ID="251" NAME="Manolis Mavrommatis" AFFILIATION="PPE-DE">
+(EL) Arvoisa puhemies, arvoisa ministeri, kuten komissio totesi, teillä on oltava käytettävissänne tietoa eri arvonlisäverokantojen vaikutuksista taloudelliseen hyvinvointiin ja työpaikkojen lisäykseen jäsenvaltioissa ja julkistettava tiedot 30. kesäkuuta 2007 mennessä.
+<P>
+Odotettavaa on, että erilaiset alv-kannat vaikuttavat merkittävästi sisämarkkinoiden eri osa-alueisiin ja elinkeinoelämän kukoistukseen jäsenvaltioissa. Ne vaikuttavat myös haitallisesti yksittäisiin talousindikaattoreihin sekä pahentavat eriarvoisuutta talous- ja yhteiskuntaelämässä.
+<P>
+Arvoisa ministeri, kysynkin teiltä, onko teillä jo tietoa eri alv-kantojen vaikutuksista, ja jos on, voisitteko kertoa sen meille?
+<P>
+Kysyn lopuksi, millaisia toimia neuvostossa harkitaan käytettävän näiden erojen aiheuttamien haitallisten vaikutusten lieventämiseksi?
+<SPEAKER ID="252" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Jäsen Mavrommatis, kerroin myös, että Euroopan unionissa on tämän asian osalta ollut erilaisia kehityssuuntia ja päätöksiä. Asiantuntijaryhmän raportista on varmastikin erityisen paljon hyötyä sen valmistuessa, jolloin saamme asioista konkreettista tietoa ja voimme arvioida, onko sisämarkkinoiden toiminnalle olemassa esteitä ja mikä vaikutus tällä on ollut tiettyihin aloihin, joihin on aiemmin sovellettu alennettuja verokantoja. Ymmärrätte varmaan, että meidän on odotettava raportin valmistumista. Sen jälkeen meidän - neuvoston ja parlamentin - on arvioitava sitä yhdessä.
+<SPEAKER ID="253" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Arvoisa puheenjohtaja, haluan hieman laajentaa kysymystä. Pyrkimykset saada EU:ssa aikaan yhtenäiset ja yhdenmukaistetut alv-kannat ovat ihailtavia, mutta eikö EU:n veropolitiikan lopullisena tavoitteena pitäisi olla yhdenmukaisten tai ainakin vertailukelpoisten verokantojen ja verojen aikaansaaminen koko Euroopan unionissa? Olisi kiinnostavaa kuulla, millaista keskustelua tästä on ylipäätään käyty neuvostossa, onko asiaa käsitelty ja miten sitä on käsitelty.
+<SPEAKER ID="254" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Jäsen Leichtfried, käsittääkseni aiemmin on jo keskusteltu verokannoista ja esimerkiksi yhtiöveroa koskevista erilaisista yhteisen veroperusteen indikaattoreista. Olette varmaankin tietoinen siitä, että tämän asian osalta on toteutettu joitakin toimia Saksan puheenjohtajakaudella, mutta asiasta ei ole vielä päästy sopimukseen.
+<P>
+Arvonlisäveron osalta toistan, että se on asialistallamme seuraavana. Millaisia havaintoja asiantuntijaraportissa tehdään? Millaisia ehdotuksia ja arviointeja komissio tekee? Millaisia ehdotuksia neuvostolle esitetään? Tällä hetkellä neuvostossa ei kuitenkaan käydä keskusteluja parlamentin jäsenen esittämästä asiasta.
+<SPEAKER ID="255" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: EU:n rajat ylittävä yhteistyö lasten suojelemiseksi hyväksikäytöltä - lasten parissa työskentelyä koskevan kiellon vastavuoroinen tunnustaminen
+<P>
+Euroopan unionissa tarvitaan kiireellisesti tehokkaita järjestelmiä, joilla varmistetaan, etteivät sopimattomat henkilöt saa työtä, jossa he pääsevät tekemisiin lasten kanssa.
+<P>
+Euroopan parlamentti hyväksyi 1. kesäkuuta 2006 mietinnön vuonna 2004 tehdystä Belgian kuningaskunnan aloitteesta neuvoston puitepäätöksen tekemiseksi lapsiin kohdistuvista seksuaalirikoksista annetuista tuomioista johtuvien ammattikieltojen tunnustamisesta ja täytäntöönpanosta Euroopan unionissa (14207/2004 - C6-0244/2004 -.
+<P>
+Miten neuvosto on edistynyt ehdotetun puitepäätöksen hyväksymisessä, joka on ratkaiseva lasten suojelemisen varmistamiseksi Euroopassa?
+<P>
+Jos hyväksymisessä ei ole edistytty, miten neuvosto aikoo varmistaa, että kaikki tavoitteet, jotka tällä aloitteella pyritään saavuttamaan, saavutetaan toisin? (Sen varmistaminen, että jäsenvaltiot tunnustavat ja saattavat voimaan lasten parissa työskentelyä koskevat kiellot, jotka on langetettu henkilöille toisessa jäsenvaltiossa.)
+<SPEAKER ID="256" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Belgian kuningaskunnan aloitteesta on käyty yksityiskohtaisia keskusteluja neuvostossa. Tarkoituksena on ollut, että neuvosto hyväksyisi puitepäätöksen lapsiin kohdistuvista seksuaalirikoksista tuomituille henkilöille määrättyjen ammatinharjoittamista koskevien kieltojen tunnustamisesta ja täytäntöönpanosta Euroopan unionin alueella. Keskustelujen seurauksena 36 artiklan komitea päätti 22.-23. maaliskuuta 2007 pidetyssä kokouksessaan käsitellä näitä aiheita samassa yhteydessä kuin puitepäätöstä rikosrekisteritietojen vaihdon järjestämisestä ja sisällöstä jäsenvaltioiden välillä ja muuttaa puitepäätösluonnosta sen mukaisesti.
+<P>
+Luxemburgissa 13. kesäkuuta 2007 kokoontunut oikeus- ja sisäasioiden neuvosto pääsi sopimukseen rikosrekisteritietojen vaihdon järjestämisestä ja sisällöstä jäsenvaltioiden välillä tehtävän puitepäätöksen yleisistä linjauksista ja vei Belgian kuningaskunnan aloitteen päätökseen yhteisymmärryksessä. Näin neuvosto otti huomioon erityisesti sen Belgian aloitteen tärkeän näkökohdan, jonka mukaan jäsenvaltioiden pitäisi saada käyttöönsä tiedot toisessa jäsenvaltiossa langetetuista tuomioista ja kielloista, jotta jokainen jäsenvaltio voisi tehdä näiden tietojen perusteella johtopäätöksiä, jotka ovat tarpeen lasten suojelemiseksi seksuaalisen hyväksikäytön vaaralta.
+<SPEAKER ID="257" NAME="Claude Moraes" AFFILIATION="PSE">
+(EN) Haluan kiittää neuvoston puheenjohtajaa hänen vastauksestaan, mutta haluan myös pyytää häntä myöntämään, että Saksan puheenjohtajakauden aikana koko Euroopan unionissa on oltu todella huolestuneita viimeaikaisista lasten kidnappauksista, jotka on tehty mahdollisesti hyväksikäyttötarkoituksessa. Haluan pyytää häntä myöntämään, että tämä on tällä hetkellä vakava asia Euroopan unionissa niin hänen kotimaalleen ja omalle kotimaalleni kuin muillekin maille, ja varmistamaan, että pääsemme ennen Saksan puheenjohtajakauden päättymistä sopimukseen lasten kanssa työskentelevien, lapsille vaarallisten henkilöiden rikosrekisteritietojen vaihtamisesta.
+<SPEAKER ID="258" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Jäsen Moraes, kuten aiemmin totesin, olemme todellakin ottaneet aloitteen käsittelyyn, ja myös oikeus- ja sisäministerit ovat hiljattain suostuneet tarttumaan Belgian aloitteeseen sisältyvään keskeiseen huolenaiheeseen. Huolimatta siitä, että luovuttamiskelpoisista tiedoista on vielä eriäviä mielipiteitä, EU on nyt löytänyt yhteisen ratkaisun Belgian aloitteen keskeisimmästä aiheesta, ja tämä on mielestäni merkittävä edistysaskel. Ymmärrätte varmaan, että Saksan puheenjohtajakaudesta jäljellä oleva aika ei luultavasti riitä sopimuksen aikaansaamiseen muilla osa-alueilla.
+<SPEAKER ID="259" NAME="Sarah Ludford" AFFILIATION="ALDE">
+(EN) Emmekö olekin surkeassa tilanteessa, kun meillä ei ole sopimusta, vaikka ehdotuksesta on jo kulunut kolme vuotta ja vaikka kaikki myöntävät, että seksuaalirikollisia koskevien tietojen kansainvälinen vaihto on yksi kiireellisimpiä asioita ja saa myös kansalaisten laajan tuen? Ja neuvosto sanoo, että se ottaa asian tarkasteltavaksi piakkoin!
+<P>
+Eikö ole myöskin melko järkyttävää, että Yhdistyneen kuningaskunnan hallitus pyrkii jäämään tämän EU:n lainvalvontayhteistyön alueen ulkopuolelle niin, että vaikka se hyväksyttäisiinkin, meidän lapsiamme ei suojeltaisi seksuaalirikollisten jäljittämistä koskevilla toimenpiteillä?
+<SPEAKER ID="260" NAME="Günter Gloser">
+neuvoston puheenjohtaja. - (DE) Paronitar Ludford, en mielellään lähtisi tällä hetkellä keskustelemaan perustuslaillisen sopimuksen muuttamista koskevasta merkittävästä päätöksestä, mutta olen kuitenkin tehnyt selväksi, että oikeusministerit pääsivät asiassa sopimukseen 13. kesäkuuta ja että ratkaisu on mukana puitepäätöstä koskevassa suunnitelmassa, johon on sisällytetty Belgian aloitteen keskeinen osa eli rikosrekisteritietojen vaihtaminen. On erityisesti muistettava, mitä tapahtuu, jos tietyn henkilön tiedot ovat vain yhdellä jäsenvaltiolla, ja tämä henkilö ottaa vastaan työtä muualta. Saavatko muut jäsenvaltiot siitä tiedon? Tämä asia on nyt puitepäätöksen hyväksymisen myötä taattu.
+<SPEAKER ID="261" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: Vammaisiin ja oppimisvaikeuksista kärsiviin lapsiin kohdistuva syrjintä
+<P>
+Vaikka vuosi 2007 on yhdenvertaisten mahdollisuuksien teemavuosi, vammaiset ja henkilöt, joilla on erityisiä rajoitteita, joutuvat edelleen kärsimään syrjinnästä, mikä johtuu heidän erilaisuudestaan. Esimerkkinä mainittakoon: a) vammaiset, jotka eivät pysty vakuuttamaan itseään ja joista omaiset joutuvat pitämään huolta onnettomuustapauksessa sekä b) lapset, joilla on oppimisvaikeuksia (esimerkiksi änkytys tai lukihäiriö) ja jotka joutuvat kärsimään kansallisten koulusäädösten heterogeenisyydestä. Joissain jäsenvaltioissa lukihäiriöstä kärsivät lapset saavat esimerkiksi mahdollisuuden suorittaa kokeet suullisesti, toisissa EU:n jäsenvaltioissa ja jopa Eurooppa-kouluissa he sitä vastoin eivät saa samaa mahdollisuutta.
+<P>
+Aikooko neuvosto ryhtyä toimenpiteisiin turvatakseen vammaisille mahdollisuuden vakuuttaa itsensä yksityisesti sekä täyttääkseen oppimisvaikeuksista kärsivien lapsien tarpeet erityisesti Eurooppa-kouluissa?
+<SPEAKER ID="262" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Haluan aluksi todeta, että neuvoston puheenjohtajamaa pitää tätä erittäin tärkeänä ja perusteltuna kysymyksenä. Neuvosto on täysin tietoinen siitä, miten tärkeää on varmistaa vammaisten ja oppimisvaikeuksista kärsivien lasten hyvinvointi.
+<P>
+Neuvosto haluaa käyttää tilaisuutta hyväkseen kiinnittääkseen huomion yleiseen lainsäädäntökehykseen, jonka tarkoituksena on torjua henkilön uskontoon tai vakaumukseen, vammaan, ikään tai seksuaaliseen suuntautumiseen perustuvaa syrjintää työpaikoilla ja ammatinharjoittamisessa. Kyseinen direktiivi perustuu EY:n perustamissopimuksen 13 artiklaan, ja siinä säädetään vähimmäisvaatimuksista, jotka jokaisen jäsenvaltion on täytettävä. Ongelmana on, että tämän lainsäädäntökehyksen soveltamisala ei ulotu vakuutuksiin eikä koulujärjestelmään. Jäsenvaltiot voivat kuitenkin ottaa käyttöön tai pitää edelleen voimassa säännöksiä, jotka tekevät tasa-arvoperiaatteelle oikeutta vielä enemmän kuin direktiivin säännökset ja joissa syrjintäsuoja ulotetaan kansallisen toimivallan piiriin kuuluville aloille.
+<P>
+Neuvosto toteaa tyytyväisenä, että komissio aikoo julkistaa Euroopan yhdenvertaisten mahdollisuuksien teemavuonna useita tutkimuksia, jotka ovat merkityksellisiä parlamentin jäsenen esittämän kysymyksen kannalta. Näiden tutkimusten tarkoituksena on tuoda esiin vammaisten tilanne myös yleissivistävässä ja ammatillisessa koulutuksessa ja tehdä yhteenvetoja varsinkin sosiaaliturvalaitosten toimittamista vammaistilastoista. Tavoitteena on saada realistinen yleiskuva vammaisten tilanteesta ja tarkastella sitä myös koulutuksellisen ulottuvuuden kannalta.
+<SPEAKER ID="263" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Arvoisa puhemies, arvoisa neuvoston puheenjohtaja, kiitos vastauksestanne.
+<P>
+Halusin vain huomauttaa, että Saksa on maa, jossa on jo osoitettu ymmärtämystä vammaisia kohtaan. Siellä on myös lainsäädäntöä, jonka nojalla vammaiset voivat hankkia vakuutuksia, jotta heitä kohdeltaisiin tasapuolisesti työelämässä.
+<P>
+Eurooppa-kouluissa ei ole samanlaisia vammaisten auttamistoimenpiteitä kuin jäsenvaltioissa, ja siksi pyydänkin, että neuvosto tekisi tästä aloitteita.
+<SPEAKER ID="264" NAME="Günter Gloser">
+neuvoston puheenjohtaja. - (DE) Jäsen Panayotopoulos-Cassiotou, minun on arvioitava juuri esittämänne asianhaarat uudelleen. Kuten jo äsken totesin, joidenkin asioiden osalta on kuitenkin pyrittävä kehittämään uusia aloitteita. Kun komissio esittää kertomuksensa, saamme tiedon siitä, missä on puutteita, ja olen varma, että nämä puutteet voidaan tämän jälkeen poistaa lainsäädännöllisin toimenpitein joko EU:n tai - luultavimmin - jäsenvaltioiden tasolla.
+<SPEAKER ID="265" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: Hallitusten välinen yhteistyö ja yhdyskäytävälausekkeet maahanmuuton alalla
+<P>
+Kun otetaan huomioon maahanmuuttoasioiden kasvava merkitys Euroopan unionin politiikoissa ja hallitusten välisten yhteistyömekanismien, kuten Frontex tai nopean toiminnan joukot, käyttöönotto, mitä toimia neuvosto harkitsee lujittaakseen yhteisöpilaria tällä alalla erityisesti soveltamalla Euroopan unionin perustamissopimuksissa olevia ns. yhdyskäytävälausekkeita?
+<SPEAKER ID="266" NAME="Günter Gloser">
+neuvoston puheenjohtaja. - (DE) Arvoisa puhemies, toivon parlamentilta suopeutta, sillä joudun mainitsemaan vastauksessani monia teknisiä näkökohtia, joita ei ole ehkä helppo ymmärtää. Ne, jotka toimivat aktiivisesti tämän aiheen parissa, ovat varmasti kuitenkin tietoisia siitä, miten tärkeitä periaatteet tässä asiassa ovat.
+<P>
+Tällä alalla - eli maahanmuutossa - voidaan nykyisin toteuttaa toimenpiteitä Euroopan yhteisön perustamissopimuksen kolmannen osan IV osaston nojalla. Niitä osa-alueita, joilla toimenpiteitä toteutetaan yhteispäätösmenettelyssä Euroopan parlamentin kanssa, on laajennettu EY:n perustamissopimuksen 67 artiklan 2 kohdan toisen luetelmakohdan mukaisesti 22 päivänä joulukuuta 2004 tehdyllä neuvoston päätöksellä 2004/927/EY, joka koskee Euroopan yhteisön perustamissopimuksen 251 artiklassa määrätyn menettelyn soveltamista tietyillä kyseisen perustamissopimuksen kolmannen osan IV osastoon kuuluvilla aloilla.
+<P>
+Useimmat näissä säännöksissä mainituista toimenpiteistä toteutetaan nykyisin yhteispäätösmenettelyssä. Eurooppa-neuvosto on kuitenkin ollut sillä kannalla, että kunnes sopimus Euroopan perustuslaista tulee voimaan, neuvoston pitäisi edelleen saavuttaa yksimielisyys EY:n perustamissopimuksen 63 artiklan 3 kohdan a alakohdassa ja 4 kohdassa mainituista toimenpiteistä, jotka koskevat kolmansien maiden kansalaisten muuttamista jäsenvaltioihin ja niiden välillä. Näitä ja muitakin kysymyksiä tarkastellaan yhä parhaillaan käynnissä olevassa perustamissopimuksen uudistusprosessissa.
+<SPEAKER ID="267" NAME="Manuel Medina Ortega" AFFILIATION="PSE">
+(ES) Arvoisa puhemies, haluan kiittää neuvoston puheenjohtajaa hänen antamistaan tiedoista, joista parlamentti on niiden teknisyydestä huolimatta selvästikin hyvin perillä.
+<P>
+Parlamentissa ollaan tällä hetkellä valtavan huolestuneita siitä, ettei neuvosto kykene ratkaisemaan maahanmuuttokysymyksiä hallitustenvälisen yhteistyön avulla. Mainitsen tässä ainoastaan yhden tapauksen eli Dublin II -asetuksen säilyttämisen, minkä vuoksi emme tällä hetkellä voi osoittaa solidaarisuutta Maltan tasavaltaa kohtaan maahanmuutto-ongelmien ratkaisemiseksi, vaikka ne voitaisiin ratkaista EY:n tavalla.
+<P>
+Olen huolissani siitä, että hallitustenvälinen menetelmä ei ole riittävä, ja meidän pitäisikin siirtyä ensimmäiseen pilariin. Yksi esimerkki tästä on Dublin II -asetus.
+<SPEAKER ID="268" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Jäsen Medina Ortega, maahanmuuttokysymyksestä on käyty useasti keskusteluja aiemmilla kierroksilla. Olen monta kertaa huomauttanut, ja myös tänään käydyn toisen keskustelun yhteydessä, että maahanmuuton tarkastelu maailmanlaajuiselta kannalta on varmasti keskeisessä asemassa huomenna ja ylihuomenna annettavissa neuvoston päätelmissä ja että se ei ole ainoastaan kysymys vaan asia, johon myös tartutaan. Parlamentin jäsen on oikeassa kysyessään, miten voimme auttaa Euroopan unionin jäsenvaltioita, kuten Maltaa. Meidän on kuitenkin myös yritettävä löytää alkuperämaiden kanssa ratkaisuja maahanmuuttoon liittyviin asioihin ja sen syihin, erityisesti laittomaan maahanmuuttoon.
+<P>
+Toinen kysymys on luonteeltaan tekninen, mutta tämä kaikki riippuu tietenkin siitä, miten me ratkaisemme uutta perustuslaillista sopimusta koskevan kysymyksen.
+<SPEAKER ID="269" NAME="Andreas Mölzer" AFFILIATION="ITS">
+(DE) Arvoisa neuvoston puheenjohtaja, laittomien maahanmuuttajien mittavat laillistamishankkeet eri jäsenvaltioissa on tulkittu usein kutsuksi, ja ne ovat johtaneet todellisiin pakolaisaaltoihin sekä toimineet kulissina ihmissalakuljetusta harjoittaville rikollisliigoille.
+<P>
+Millaisia suunnitelmia on olemassa takaisinottosopimusten laajentamiseksi etenkin maihin, jotka saavat EU:lta taloudellista tukea?
+<SPEAKER ID="270" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Takaisinotto on tärkeä kysymys, joka on ollut Euroopan unionin ja Afrikan maiden välisten yhteisten neuvottelujen asialistalla, ja sitä on käsitelty myös aivan hiljattain Tripolissa viime vuonna järjestetyssä yhteisessä maahanmuuttokonferenssissa. Sitä käsitellään tietenkin myös monilla muilla toiminta-aloilla, koska parhaillaan on käynnissä oikea maahanmuuttoaalto, joka suuntautuu myös idästä länteen eikä vain etelästä pohjoiseen, vaikka sillä ei olekaan ollut ratkaisevaa vaikutusta tämänhetkiseen keskusteluun. Kysymys siitä, voidaanko asianomaisiin takaisinottosopimuksiin lisätä asiaa koskevia määräyksiä, otetaan aina esiin viisumimääräyksiä koskevissa neuvotteluissa. Näin on tehty myös esimerkiksi Afrikan unionin maiden kanssa käydyissä neuvotteluissa. En voi tällä hetkellä antaa teille lukuja maista, joiden kanssa tällaisia sopimuksia on jo tehty, mutta olen varma, että pystymme toimittamaan niitä myöhempänä ajankohtana.
+<SPEAKER ID="271" NAME="Louis Grech" AFFILIATION="PSE">
+(MT) Vaikka olenkin puheenjohtajan kanssa samaa mieltä siitä, että neuvotteluissa on keskityttävä juuri siirtolaisuuden syihin, haluaisin tietää, mikä on puheenjohtajamaa Saksan kanta Maltan ehdotukseen vastuun jakamisesta. Olemme samaa mieltä siitä, että tästä asiasta on neuvoteltava viime kädessä perustuslaillisen sopimuksen valossa, mutta kyseessä on kiireellinen katastrofi, joka vaatii kiireellisiä toimia.
+<SPEAKER ID="272" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Nämä ovat kaksi eri osa-aluetta. Pakolaisvirtojen syyt ovat toinen tärkeä asia Portugalin puheenjohtajakaudella marraskuussa järjestettävän EU:n ja Afrikan huippukokouksen asialistalla. Miten tilannetta voidaan parantaa yhdessä alkuperämaiden kanssa? Parantamalla hallintoa ja sen rakenteita sekä työllistymis- tai koulutusmahdollisuuksia?
+<P>
+Toiseksi, mitä voi Euroopan unioni tehdä? Komission jäsen Frattini ja neuvoston puheenjohtajamaa ovat hiljattain harkinneet väliaikaisen työpaikan tarjoamista. Tätä lähestymistapaa noudatetaan edelleen. Lisäksi Frontex on epäilemättä ollut ensimmäinen keino auttaa niitä maita, jotka eivät ehkä kykene ratkaisemaan tiettyjä ongelmia paikallisesti ja saavat näin ollen tukea Frontexilta.
+<SPEAKER ID="273" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: Terrorismin vastustaminen ja ihmisoikeudet
+<P>
+Mitä strategiaa puheenjohtajamaa Saksa ehdottaa transatlanttisen yhteistyön varmistamiseksi EU:n ja Yhdysvaltain huhtikuussa vuonna 2007 pidetyn huippukokouksen pohjalta, jotta terrorismin ja rikollisuuden vastaisessa taistelussa käytettävien menetelmien yhteydessä kunnioitetaan ihmisoikeuksia ja kansalaisvapauksia?
+<P>
+Milloin ja miten puheenjohtajamaa ottaa Euroopan parlamentin mukaan transatlanttiseen turvallisuuskeskusteluun, jossa käsitellään myös terrorismin vastustamista koskevaa lainsäädäntökehystä?
+<P>
+Mitä vastauksia puheenjohtajamaa on pyytänyt ja saanut jäsenvaltioilta liittyen Euroopan maiden alueen epäiltyä käyttöä CIA:n vankikuljetuksiin ja laittomia vangitsemisia koskevaan Euroopan parlamentin mietintöön, joka hyväksyttiin 14. helmikuuta 2007?
+<P>
+Voiko puheenjohtajamaa antaa uusimmat tiedot terrorismin torjunnasta vastaavan koordinaattorin viran täyttämisestä? Aikooko puheenjohtajamaa tutkia, tarvitseeko virka enemmän painoarvoa neuvoston rakenteessa erityisesti Euroopan unionista tehdyn sopimuksen (SEU) 6 artiklan noudattamiseksi?
+<SPEAKER ID="274" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Euroopan unioni ja Yhdysvallat sopivat yhteisessä huippukokouksessaan vuonna 2007 seuraavaa: yhteisten arvojemme mukaisesti vakuutamme pyrkineemme jo pitkään varmistamaan, että terrorisminvastaisissa toimissa noudatetaan kansainvälisestä lainsäädännöstä johtuvia velvoitteitamme, kuten ihmisoikeusnormeja, pakolaislainsäädäntöä ja kansainvälistä humanitaarista lainsäädäntöä.
+<P>
+Tulemme jatkamaan ja lisäämään nykyistä vuoropuheluamme niistä kansainvälisen lainsäädännön mukaisista perusoikeuksista, jotka liittyvät yhteiseen terrorisminvastaiseen toimintaamme. Tämän vuoropuhelun avulla olemme saaneet parempaa tietoa toistemme lainsäädännöllisestä kehyksestä, ja vuoropuhelun on määrä edistää yhteistyötämme terrorisminvastaisessa toiminnassamme.
+<P>
+Puheenjohtajamaa toimittaa parlamentille säännöllisesti tietoa transatlanttisista suhteista, kuten kansainväliseen lainsäädäntöön liittyvistä asioista. Yksi tällainen tiedotustilaisuus pidettiin 24. huhtikuuta 2007 EU:n ja Yhdysvaltojen huippukokouksen aattona.
+<P>
+Lainsäätäjä osallistuu turvallisuutta käsittelevään transatlanttiseen vuoropuheluun. Neuvosto merkitsi poikkeuksellisista luovutuksista 14. helmikuuta 2007 annetun Euroopan parlamentin päätöslauselman 5. maaliskuuta 2007 kokoontuneen yleisten asioiden ja ulkosuhteiden neuvoston asialistalle. Puheenjohtajamaa ei ole yrittänyt saada eikä ole saanut jäsenvaltioilta vastauksia Euroopan parlamentin päätöslauselmaan. Terrorismin torjunnasta vastaavan koordinaattorin virka on parhaillaan arvioitavana, ja sopivan ehdokkaan etsintä on meneillään.
+<SPEAKER ID="275" NAME="Sarah Ludford" AFFILIATION="ALDE">
+(EN) Olisi ollut parempi, että CIA:n luovutuksista ja eurooppalaisten osallisuudesta niihin olisi käyty aivan oma keskustelunsa tällä istuntojaksolla, kuten liberaalit halusivat, mutta valitettavasti oikeiston ja vasemmiston suurimmat ryhmät kieltäytyivät oudosti kannattamasta ajatusta. Olisimme nimittäin voineet painostaa yhdessä neuvostoa vastaamaan vihdoinkin parlamentin ja Dick Martyn mietintöihin.
+<P>
+Miten neuvosto muka takaa huippukokouksen päätelmissäkin todetun ihmisoikeuksien noudattamisen, kun kerran tiedämme, että amerikkalaisten toimien tarkoituksena on suostutella EU:n jäsenvaltioita heikentämään oikeudellista suojaa? Aikooko neuvosto päästää parlamentin jäseniä mukaan noihin parhaillaan käytäviin salaisiin neuvotteluihin, kun kerran meidän oletetaan käyvän korkean tason kolmikantakeskustelua terrorismista? Meidän kanssamme ei ole koskaan neuvoteltu toimintasuunnitelmasta, ja neuvoston on mielestäni jo korkea aika parantaa yhteistyökumppanuuttaan parlamentin kanssa näissä asioissa.
+<SPEAKER ID="276" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Muistaakseni olen jo tästä asiassa käydyssä keskustelussa selittänyt, miten tärkeää transatlanttinen vuoropuhelu on ja miten Euroopan unioni ja myös neuvoston puheenjohtajamaa ovat osallistuneet tuohon keskusteluun. Vuoropuhelu on todellakin saanut uutta puhtia, ja asiaa koskevia neuvotteluja käydään parhaillaan - tosin alustavalla tasolla eikä korkealla tasolla. Toivon teidän ymmärtävän, että kyseessä ovat luottamukselliset keskustelut. Ottamalla transatlanttiset suhteet säännöllisesti asialistalle varmistetaan kuitenkin, että mahdollisuus vaihtaa mielipiteitä siitä, miten pitkälle molemmat osapuolet ovat edenneet päätöslauselman suuntaan, säilyy myös tulevaisuudessa.
+<SPEAKER ID="277" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Arvoisa puheenjohtaja, saanen todeta, että minun mielestäni toimenne tietyillä osa-alueilla eivät ole vielä osoittautuneet täysin onnistuneiksi varsinkaan omaan erikoisalaani kuuluvalla alueella eli eurooppalaisten matkustajien tarkastusten osalta. Tämä on mielestäni häpeällistä ja tietenkin myös vastoin ihmisoikeuksia. Uskon, että tilanne muodostuu ajan mittaan kestämättömäksi. Olisi kiinnostavaa kuulla, mitä puheenjohtaja aikoo tehdä näille toimenpiteille, joita Yhdysvalloissa on toteutettu terrorisminvastaisen toiminnan varjolla?
+<SPEAKER ID="278" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Jäsen Leichtfried, en halua nyt puhua arviostanne, joka koskee tarkastuksia Yhdysvalloissa, mutta tiedän kyllä, että Yhdysvaltojen toimet on toteutettu vastareaktiona tiettyihin tapahtumiin. Arvoisa parlamentin jäsen tietänee kuitenkin, että käymme Yhdysvaltojen kanssa jatkuvaa vuoropuhelua viisumivapausohjelmasta varmistaaksemme, että viisumivapausjärjestelyt koskevat myös muita jäsenvaltioita. Käytän kysymyksenne tarjoamaa tilaisuutta hyväkseni, jotta asia otetaan uudelleen esille, ja ehdotan ehkä myös, että neuvoston seuraava puheenjohtajamaa Portugali ottaa asian esille Yhdysvaltojen kanssa käymissään neuvotteluissa.
+<SPEAKER ID="279" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: Amerikkalaisen ohjuspuolustusjärjestelmän asentaminen EU:n jäsenvaltioihin
+<P>
+Yhdysvaltojen suunnitelmat asentaa ohjuspuolustusjärjestelmä Euroopan unionin jäsenvaltioihin - Puolaan ja Tšekin tasavaltaan - vedoten Iranin ja Pohjois-Korean ohjuksilta puolustautumiseen on herättänyt huolta eurooppalaisessa yleisessä mielipiteessä, jonka mukaan tällaiset suunnitelmat asettavat Euroopan mantereen maalitauluksi aiheuttaen samalla uusia erimielisyyksiä. Venäjän turvallisuusneuvosto on jo ilmoittanut, että tällaisten suunnitelmien myötä Venäjän puolustusoppia on tarkasteltava uudelleen, koska niiden katsotaan uhkaavan Venäjän federaatiota.
+<P>
+Miten neuvosto kommentoi tällaisen järjestelmän asentamista Euroopan unionin jäsenvaltioihin? Mihin toimiin se aikoo ryhtyä tällaisten suunnitelmien perumiseksi, jotka herättävät henkiin Euroopan kylmän sodan aikaisen tilanteen?
+<SPEAKER ID="280" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Jäsen Papadimoulis, neuvostossa ei ole vielä keskusteltu Yhdysvaltojen ohjuspuolustusjärjestelmästä eikä suunnitelmista sijoittaa Puolaan 10 ohjusta sekä tutkajärjestelmä Tšekin tasavaltaan. Yhdysvaltojen ja joidenkin EU:n jäsenvaltioiden kahdenvälinen yhteistyö, joka koskee amerikkalaisen kansallisen ohjuspuolustusjärjestelmän osien sijoittamista, kuuluu asianomaisen jäsenvaltion kansallisen toimivallan piiriin. Neuvosto ei ole näin ollen harkinnut ohjuspuolustuksen esiin ottamista Yhdysvaltojen tai Naton kanssa käytävissä neuvotteluissa. Ballistisin ohjuksin tapahtuvasta puolustuksesta neuvotellaan Naton sekä Naton ja Venäjän suhteista vastaavan neuvoston kokouksissa. Pohjois-Atlantin neuvoston sekä Naton ja Venäjän suhteista vastaavan neuvoston välillä järjestettiin 19. huhtikuuta erityiskokouksia, joissa käsiteltiin ohjuspuolustusta. Siitä keskusteltiin myös Naton ulkoministerien epävirallisessa kokouksessa Oslossa 26.-27. huhtikuuta.
+<SPEAKER ID="281" NAME="Dimitrios Papadimoulis" AFFILIATION="GUE/NGL">
+(EL) Arvoisa puhemies, olen hämmästynyt neuvoston vastauksesta. Selvä, ette siis halua keskustella asiasta amerikkalaisten ja Naton kanssa. Aiotteko keskustella siitä neuvostossa tšekkiläisten ja puolalaisten kollegoidenne kanssa? Vai oletteko jättäneet kaiken Naton vastuulle? Saksan ulkoministeri on tuonut julki huolestuneisuutensa. Samaten Solana. Saksa haluaa, että EU:n ja Venäjän suhteet ovat kitkattomat. Aiotteko keskustella asiasta tämän huippukokouksen aikana? Aiotteko keskustella siitä jossain vaiheessa? Mitä hyötyä neuvoston keskusteluista on, jos siellä ei keskustella aiheista, jotka huolestuttavat kaikkia EU:n kansalaisia?
+<SPEAKER ID="282" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Haluan jälleen kerran viitata lähtöasetelmaan. Yhteistyökumppanit sopivat muutama vuosi sitten Prahassa järjestetyssä Pohjois-Atlantin neuvoston kokouksessa vastassamme olevista uusista haasteista sekä - mahdollisista uusista - ratkaisuista, joita Naton on niihin löydettävä. Nato on perustanut niitä varten työryhmiä. Keskustelua jatkettiin Riiassa, mutta lopulliseen tulokseen ei ole vielä päästy. Olemme esimerkiksi päässeet sopuun yhteisestä uhka-analyysista.
+<P>
+Tässä vaiheessa Yhdysvallat kuitenkin teki ehdotuksensa kansallisesta ohjuspuolustusjärjestelmästä. Meidän mielestämme ohjuspuolustusjärjestelmästä pitäisi yleensä keskustella pikemminkin Naton kuin Euroopan unionin sisällä. Voin ainoastaan vakuuttaa teille uudelleen, että tästä asiasta ei ole keskusteltu eikä myöskään keskustella neuvostossa.
+<SPEAKER ID="283" NAME="Andreas Mölzer" AFFILIATION="ITS">
+(DE) Arvoisa puheenjohtaja, totesitte - aivan oikein - ettei neuvosto halua käsitellä tätä aihetta, mutta haluaisin kysyä, miksi kansalaisten toimintaryhmien vaatimus neuvoa-antavan kansanäänestyksen järjestämisestä on hylätty sillä perusteella, että kansanäänestystä ei voida käyttää tässä tapauksessa? Haastattelututkimusten mukaan kuitenkin 51 prosenttia puolalaisista vastustaa suunnitelmia amerikkalaisen ohjuspuolustusjärjestelmän sijoittamisesta maahan. Mikä on neuvoston kanta siihen, että kansalaiset osallistuisivat näinkin tärkeän päätöksen tekemiseen? Onko edes neuvottelumahdollisuus yhä olemassa?
+<SPEAKER ID="284" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Päätös kansalaisten osallistumisesta tehdään kansallisella tasolla, eikä neuvoston puheenjohtajamaan tarvitse antaa siitä ohjeita. Tämä on asia, joka on jäsenvaltioiden omalla vastuulla.
+<P>
+Haluaisin tässä yhteydessä kuitenkin toistaa, että asia on yleisesti ottaen johtanut toimiin varsinkin Venäjän ja Yhdysvaltojen välillä, ja ne ovat päättäneet vaihtaa sen tiimoilta vilkkaasti mielipiteitä ja ryhtyä luottamusta lisääviin toimenpiteisiin. Asiaa ei ole vielä ratkaistu. Kuten arvoisa parlamentin jäsen tietää, myös Putin teki hiljattain Yhdysvalloille tämänsuuntaisia ehdotuksia. Minun mielestäni meidän pitää odottaa näiden neuvottelujen tuloksia.
+<SPEAKER ID="285" NAME="Tobias Pflüger" AFFILIATION="GUE/NGL">
+(DE) Kysymykseni on suoraa jatkoa edelliseen. Onko EU:n neuvoston puheenjohtajamaa ottanut kantaa Vladimir Putinin ehdotukseen ottaa Azerbaidžan mukaan tähän ohjusjärjestelmään?
+<P>
+Toiseksi vastaako EU:n tai pikemminkin neuvoston kanta amerikkalaisesta ohjusjärjestelmästä Naton kantaa, vai ovatko ne erilaiset? Jos ovat, miten ne eroavat toisistaan?
+<P>
+Kolmanneksi aikooko neuvosto jossain vaiheessa käsitellä ohjusjärjestelmäkysymystä?
+<SPEAKER ID="286" NAME="Günter Gloser">
+neuvoston puheenjohtaja. - (DE) Neuvosto ei ole vielä käsitellyt asiaa, enkä osaa sanoa, käsitteleekö se sitä tulevaisuudessakaan. Kuten aiemmin totesin, neuvoston puheenjohtajamaan ei tarvitse ottaa asiaan kantaa, mutta olemme viime päivien keskustelujen jälkeen erittäin tyytyväisiä siihen, että Yhdysvaltojen ja Venäjän välinen tilanne, joka lähti alkujaan melkoisesta vastakkainasettelusta, on nyt asettunut eri tasolle ja että osapuolet ilmoittavat haluavansa neuvotella keskenään. Olemme tähän asti olleet sitä mieltä, että tästä asiasta on neuvoteltava Natossa eikä Eurooppa-neuvostossa.
+<SPEAKER ID="287" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: Itämeren kaasuputki
+<P>
+Liikkeellä on erilaisia huhuja siitä, onko neuvosto hyväksynyt Saksan ja Venäjän välisen, Itämeren pohjassa kulkevan kaasuputken rakentamisen. Kansalaisten on - varsinkin demokratian kannalta - tärkeää saada vastaus tähän asiaan. Olen keskustellut asiasta aiemmin sekä komission että neuvoston kanssa saamatta kuitenkaan tarkkaa ja tyydyttävää tietoa.
+<P>
+Onko neuvosto hyväksynyt virallisesti Itämeren pohjassa kulkevan, Saksan ja Venäjän välisen kaasuputken rakentamisen? Eikö hankkeen eteneminen edellytä neuvoston hyväksyntää? Jos Ruotsin vesillä suoritettavasta ympäristövaikutusten arvioinnista syntyy kiistaa, antaako lopullisen tuomion asiassa Euroopan yhteisöjen tuomioistuin vai Ruotsin ympäristötuomioistuin?
+<SPEAKER ID="288" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Huomauttaisin, ettei neuvostolla ole mitään oikeudellista perustetta hyväksyä tai hylätä virallisesti esimerkiksi arvoisan parlamentin jäsenen kysymyksessä mainittuja hankkeita. Toisin sanoen kyseisenlaisia hankkeita voidaan viedä eteenpäin ilman, että neuvoston tarvitsisi niitä etukäteen hyväksyä.
+<P>
+Arvoisa jäsen on varmaankin tietoinen siitä, että Euroopan laajuisia energiaverkostoja koskevien suuntaviivojen vahvistamisesta sekä päätöksen 96/391/EY ja päätöksen N:o 1229/2003/EY kumoamisesta tehdyssä Euroopan parlamentin ja neuvoston päätöksessä mainitaan useassa kohdassa Venäjän ja Saksan välinen kaasuputki, joka kulkee Itämeren halki vähän matkan päässä rannasta. Oletan myös arvoisan jäsenen tietävän, että kyseisen päätöksen liitteen I mukaisesti Pohjois-Euroopan kaasuputki luokitellaan "Euroopan etua koskevaksi hankkeeksi" eli se kuuluu kaikkein tärkeimpien ensisijaisten hankkeiden luokkaan. Tällaisen luokituksen omaavia hankkeita koskevien erityissäännösten osalta neuvosto haluaa kiinnittää huomiota edellä mainitun päätöksen operatiiviseen osaan, jonka Euroopan parlamentti ja neuvosto hyväksyivät yhteispäätösmenettelyssä.
+<P>
+Haluan pyytää jäsen Lundgrenia tutustumaan uudestaan erityisesti päätöksen 13 artiklaan, joka kuuluu seuraavasti: "Tällä päätöksellä ei ole vaikutusta hankkeiden ympäristövaikutusten arvioinnin tuloksiin eikä suunnitelmiin tai ohjelmiin, joissa määritellään kyseisiä hankkeita koskeva lupamenettely tulevaisuudessa. Jos ympäristövaikutusten arviointia on pyydetty asiaa koskevan yhteisön lainsäädännön mukaisesti, tällaisen arvioinnin tulokset on otettava huomioon ennen kuin hankkeiden toteuttamisesta päätetään yhteisön asiaa koskevan lainsäädännön mukaisesti."
+<P>
+Mitä tulee kysymyksen toiseen osaan, perustamissopimuksessa määrätään, että komission tehtävänä on varmistaa yhteisön lainsäädännön moitteeton soveltaminen ja ryhtyä tarkoituksenmukaisiksi katsomiinsa toimiin, jos lainsäädäntöä rikotaan. Tämä periaate koskee tietenkin myös ympäristövaikutusten arvioinnista annettua yhteisön nykylainsäädäntöä.
+<SPEAKER ID="289" NAME="Nils Lundgren" AFFILIATION="IND/DEM">
+(SV) Arvoisa puhemies, EU:n jäsenvaltio ja neuvoston tämänhetkinen puheenjohtajamaa Saksa on pyytänyt EU:lle yhteistä energiapolitiikkaa. Tästä huolimatta se on tekemässä Venäjän kanssa kahdenvälistä sopimusta, joka koskee merkittävää infrastruktuuri-investointia juuri tähän kaasuputkeen, eikä kysy muiden Itämeren rannalla sijaitsevien EU:n jäsenvaltioiden mielipidettä. Mikä on kommenttinne asiaan?
+<SPEAKER ID="290" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Tätä asiaa on kysytty myös edellisellä kyselytunnilla. Voin ainoastaan toistaa, että kyseessä on yksityinen eikä valtiollinen hanke, ja hankkeen toteuttamisesta vastaavien yritysten on toimitettava kaikki asiaa koskevat asiakirjat myös niissä maissa, joihin putki lopulta asennetaan, ja tehtävä selvitys asiaa koskevien säännösten mukaisesti.
+<SPEAKER ID="291" NAME="Justas Vincas Paleckis" AFFILIATION="PSE">
+(DE) Arvoisa puheenjohtaja, kuten tiedämme, kaasuputki on saanut osakseen ankaraa arvostelua useilta politiikoilta, asiantuntijoilta ja tutkijoilta varsinkin Pohjoismaissa ja Baltian maissa sekä Puolassa. Ehkä neuvosto voisi auttaa tuomaan asiaan perehtyneet asiantuntijat ja poliitikot yhteen keskustelemaan ongelmasta, jolloin ehkä päästäisiin toimivaan sovitteluratkaisuun?
+<SPEAKER ID="292" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Jäsen Paleckis, asianmukainen tiedottaminen kyseisille maille on lähinnä hanketta suunnittelevien ja sen toteuttamista toivovien osapuolten tehtävä. Tiedotus tapahtuu täyttämällä asiaankuuluva hakemus. Hakemuksen jälkeen tehdään tietenkin tutkimus kaikista mahdollisista näkökohdista ja varsinkin ympäristö- ja turvallisuusnäkökohdista. Otaksun, että asiasta käydään myös sen vaatimat neuvottelut. Aloitteen tekeminen on kuitenkin ensisijaisesti täysin hankkeen osapuolten tehtävä - ja osapuolet ovat yksityisyrityksiä eivätkä valtionyrityksiä.
+<SPEAKER ID="293" NAME="DanutBudreikait" AFFILIATION="ALDE">
+(LT) Arvoisa puhemies, arvoisa ministeri, tämä ei ole ensimmäinen kerta, kun keskustelemme tästä asiasta. Ekologisista seurauksista puhuminen herättää kaikenlaisia huolenaiheita ja pelkoja. Hanketta toteuttava Venäjä tekee parhaillaan omaa ympäristövaikutusten arviointiaan ja kertoo, että merenpohjassa olevat aseet eivät ole vaarallisia. Eikö mielestänne ole järjetöntä, että ympäristövaikutusten arvioinnin tekee yksityinen projektipäällikkö?
+<SPEAKER ID="294" NAME="Günter Gloser">
+neuvoston puheenjohtaja. - (DE) Jäsen Budreikaitė, on noudatettava sekä kansainvälistä että eurooppalaista lainsäädäntöä. Oletan, että kansainvälinen lainsäädäntö sitoo myös Venäjää. Ei ole vain Venäjän asia tehdä oma tutkimus ja kertoa tulosten valmistuttua, että putki on kaiken kaikkiaan ympäristön kannalta kestävä; myös muut osapuolet on otettava huomioon. Haluan toistaa sen, mitä sanoin jo edellisellä kyselytunnilla eli että hankkeen osalta varmistetaan täysi avoimuus kansalaisten pelkojen hälventämiseksi, ja samalla huolehditaan myös siitä, etteivät merenpohjaan jääneet miinat ja pommit aiheuta vaaraa putken lähistöllä asuville ihmisille. Tämä on myös putkea käyttävien yritysten etujen mukaista. Tutkimuksesta tulee perinpohjainen, ja se on pakollinen kaikille osapuolille, varsinkin yrityksille; ei siis riitä, että yksin Venäjä hyväksyy hankkeen ja näyttää sille vihreää valoa.
+<SPEAKER ID="295" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: Merentakaiset alueet
+<P>
+Keskusteleeko neuvosto koskaan poikkeustilasta, jossa joitakin kirjaimellisesti toisella puolella maailmaa olevia merentakaisia alueita pidetään osana EU:ta samaan aikaan, kun toisia EU:n rajojen sisällä olevia alueita pidetään EU:n ulkopuolisina alueina?
+<P>
+Eikö näiden poikkeustilojen vaikutusten vuoksi ole oikea aika mukauttaa tämä tilanne nykyaikaan tai saada se järjestykseen?
+<SPEAKER ID="296" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Neuvosto ei ole keskustellut tästä asiasta arvoisan jäsenen mainitseman näkökohdan kannalta. Se, sijaitseeko jokin alue fyysisesti etäällä tai lähellä 27:ää jäsenvaltiota, ei ole sinänsä ratkaisevaa Euroopan unionin yksittäisten maiden ja alueiden välisissä suhteissa. Suhteista merentakaisiin maihin ja alueisiin määrätään Euroopan yhteisön perustamissopimuksen neljännessä osassa sekä neuvoston päätöksissä. Tällä hetkellä voimassa olevaa neuvoston päätöstä, joka tehtiin 27. marraskuuta 2001 ja jota muutettiin 19. maaliskuuta 2007, sovelletaan 31. joulukuuta 2013 saakka. Neuvosto tekee ennen sitä uuden tilannearvioinnin.
+<SPEAKER ID="297" NAME="Robert Evans" AFFILIATION="PSE">
+(EN) Halusin itse asiassa sanoa, että parlamentissa tekemämme päätökset - kuten totesitte vastauksessanne edelliseen kysymykseen, kun mainitsitte EU:n lait, joita on noudatettava - koskevat muun muassa Martiniquea tai Guadeloupea tai Ranskan Guayanaa Etelä-Amerikan rannikolla, tuhansien kilometrien päässä, kaukana tästä paikasta, mutta ne eivät koske esimerkiksi Kanaalisaaria, jotka ovat Ranskan ja Britannian välissä, tai Mansaarta, Liechtensteinia tai Andorraa - mainitakseni vain muutaman. Meillä on koko joukko omituisia pieniä veroparatiiseja ja vapaa-alueita, joiden olemassaolon ilmeisesti hyväksymme ja joilla EU:n lainsäädäntöä ei sovelleta.
+<P>
+Eikö tämä ole neuvoston mielestä niin erikoista, että meidän pitäisi ottaa asia uudelleen tarkasteltavaksi ja miettiä nykyaikaisempaa tapaa edetä asiassa sen sijaan, että yritämme säätää lakeja tuhansien kilometrien päähän mutta emme omille lähialueillemme?
+<SPEAKER ID="298" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Minun ei ehkä tarvitse mainita erikseen sitä seikkaa, että kysymykseenne liittyvät alueet ovat Euroopan ulkopuolella mutta osa Euroopan unionia. Ne ovat Euroopan unionin jäseniä, koska ne ovat yhteydessä emämaahansa. Olette tietenkin tietoinen siitä, että esimerkiksi Andorra tai Liechtenstein ei ole Euroopan unionin jäsen, vaikka ne sijaitsevatkin Euroopassa. Merentakaisista maista laaditaan neuvostossa selvitys, jossa arvioidaan, kuuluvatko ne jatkossakin EU:hun ja siirretäänkö lainsäädäntöä jatkossakin kyseisille alueille.
+<SPEAKER ID="299" NAME="Tobias Pflüger , -" AFFILIATION="GUE/NGL">
+(DE) Monilla merentakaisilla alueilla sijaitsee EU:n jäsenvaltioiden sotilastukikohtia. Haluan mainita yhden erikoistapauksen: Kypros on nimennyt itsenäisiä sotilastukikohtia, jotka kuuluvat Isoon-Britanniaan mutta jotka eivät ole osa Euroopan unionia. Kysymykseni kuuluu seuraavasti: onko hyväksyttävää, että EU:n jäsenvaltiolla on toiseen EU:n jäsenvaltioon kuuluvia alueita, jotka eivät ole osa Euroopan unionia?
+<SPEAKER ID="300" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Voin vain kertoa teille asian, jonka te kaikki jo tiedättekin eli että Kyproksen saarella vallitsee erikoistilanne, ja saarella on yhä erikoisasema. Tältä osin vanhat säännöt ovat siellä yhä voimassa, mutta uskoisin, että niitä tullaan varmasti muuttamaan, jos Kyproksen konfliktiin löydetään kokonaisratkaisu.
+<SPEAKER ID="301" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: Ranskan yli lentävien pilottien mahdollinen ikäsyrjintä
+<P>
+Rikkooko Ranska 27. marraskuuta 2000 yhdenvertaisesta kohtelusta työssä annettua neuvoston direktiiviä 2000/78/EY kieltäessään yli 60-vuotiaita pilotteja lentämästä Ranskan yli myös silloin, kun kyseiset pilotit ovat Kansainvälisen siviili-ilmailujärjestön ohjeiden mukaisia yhteispilotteja?
+<SPEAKER ID="302" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Jäsen Bushill-Matthews, olette tietenkin tietoinen siitä, että on ensi kädessä Euroopan komission vastuulla valvoa, että EU:n lainsäädäntö saatetaan moitteettomasti osaksi kansallista lainsäädäntöä jäsenvaltioissa. Neuvosto ei näin ollen halua kommentoida mainitsemaanne tapausta.
+<SPEAKER ID="303" NAME="Philip Bushill-Matthews" AFFILIATION="PPE-DE">
+(EN) No tuo oli lyhyt mutta ei kovinkaan sydämellinen vastaus. Olen tietoinen siitä, että komissiolla on tiettyjä velvollisuuksia, mutta tarkoitatteko, että neuvosto ei ole vähääkään kiinnostunut eikä huolissaan ikäsyrjinnästä? Se käy nimittäin vastauksestanne selvästi ilmi.
+<SPEAKER ID="304" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Sanoitte juuri, että komissio on perustamissopimusten valvoja. Se arvioi tilanteen tämän mukaisesti. Asianomaiset osapuolet voivat lisäksi tehdä syrjintätapauksista vastaavanlaisen arvion.
+<SPEAKER ID="305" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Minun mielestäni koko lentomatkustaminen vaatii uudelleenjärjestelyä. Neuvostolle esitetty kysymys on siis oikeutettu: aiotaanko tässä asiassa edetä vastedes syrjintätapausten osalta hallitustenvälisen yhteistyön puitteissa vai kahdenvälisellä tasolla, vai onko mielestänne aiheellista, että komissio tekee aloitteen tällä alalla?
+<SPEAKER ID="306" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Jäsen Rübig, asiaa koskevien direktiivien saattamisesta osaksi kansallista lainsäädäntöä on todellakin käyty Euroopan unionissa ja jäsenvaltioissa pitkällisiä neuvotteluja. Tältä osin säädettiin myös, että osaksi kansallista lainsäädäntöä saattamisen on tapahduttava kaikissa jäsenvaltioissa. Tämä on lähtökohta, ja kuten muussakin lainsäädännössä, kun on kyse EU:n lainsäädännöstä, kansalaiset, jotka tuntevat joutuneensa kärsimään tai kokevat itseään syrjityn, voivat toimia sen mukaisesti jopa nostamalla kanteen Euroopan yhteisöjen tuomioistuimessa.
+<SPEAKER ID="307" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: Kosovon työttömyys
+<P>
+Mitä mieltä neuvoston puheenjohtajavaltio on nykytilanteesta Kosovossa, missä sen itsenäisyyden tunnustamisen viivyttely on myös viime kuukausina myötävaikuttanut äärimmäisen korkeaan työttömyyteen? Mitä taloudellisia ja poliittisia toimenpiteitä EU toteuttaa vielä tänä vuonna Kosovossa?
+<SPEAKER ID="308" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Jäsen Posselt, koko Kosovon poliittinen tilanne määräytyy edelleen sen aseman määrittelyä koskevan prosessin perusteella. Kun YK:n erityislähettiläs Martti Ahtisaari toimitti Kosovon aseman ratkaisua koskevan kokonaisehdotuksen YK:n turvallisuusneuvostolle, prosessi siirtyi lopullisesti turvallisuusneuvoston vastuulle. EU:n ulkoministerit ovat useaan otteeseen antaneet selkeän tukensa erityislähettiläs Ahtisaarelle ja ilmoittaneet olevansa vakuuttuneita siitä, että Ahtisaaren laatima kokonaisratkaisu luo merkittävän perustan Kosovon kestävälle taloudelliselle ja poliittiselle kehitykselle ja voi osaltaan myös vahvistaa koko alueen vakautta.
+<P>
+Valtion- tai hallitusten päämiesten G8-kokouksessa ei päästy Kosovon osalta sopimukseen, mutta kokouksen jälkeen EU:n puheenjohtajavaltio kehotti kokouksen osapuolia tehostamaan toimiaan, jotta asiasta voitaisiin antaa uusi YK:n turvallisuusneuvoston päätöslauselma mahdollisimman pian. Euroopan unioni seuraa myös jatkossa tiiviisti aseman määrittelyprosessin etenemistä.
+<P>
+Euroopan unioni on yleisesti ottaen edistynyt valmisteluissa, jotka koskevat sen osallistumista tuleviin kansainvälisiin siviilijoukkoihin Kosovossa sen jälkeen, kun aseman määrittelyä koskeva kysymys on saatu ratkaistua. Euroopan unioni on valmis ottamaan merkittävän roolin mahdollisissa uusissa kansainvälisissä siviilijoukoissa ja tekemään tiivistä yhteistyötä muiden kansainvälisten toimijoiden kanssa. Tätä varten paikalle on lähetetty suunnitteluryhmiä, jotka valmistelevat EU:n erikoislähettilään mahdollista tulevaa työtä sekä EU:n turvallisuus- ja puolustuspoliittista operaatiota, joka koskee poliisivoimia ja oikeusjärjestelmää. Näiden valmistelujen valmistuminen riippuu siitä, miten itse aseman määrittelyprosessissa ja varsinaisessa asemaa koskevassa ratkaisussa edistytään.
+<P>
+Kosovon taloudellisten perusedellytysten ja yhteiskunnallisen tilanteen parantaminen on vaatinut ja vaatii vastedeskin merkittävää tukea kansainväliseltä yhteisöltä ja erityisesti Euroopan unionilta. Tämä voidaan toteuttaa ainoastaan tiiviissä yhteistyössä kansainvälisten rahoituslaitosten ja paikalla toimivien yhteistyökumppanien kanssa. Heti tarkan kustannusarvion valmistuttua - arvion valmistuminen riippuu tietenkin myös asemaa koskevasta ratkaisusta - komissio laatii rahoitusta koskevan kokonaispaketin, jota käsitellään myös avunantajien konferenssissa. Konferenssi järjestetään vasta sitten, kun Kosovon asema on selkiytynyt.
+<SPEAKER ID="309" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Lisäkysymykseni teille kuuluu seuraavasti: eikö Kosovon asemaa koskevaa kysymystä voida ratkaista Euroopan parlamentin hyväksymällä tavalla? Onko neuvosto tietoinen siitä, että 75 prosenttia Euroopan parlamentista ilmoitti kannattavansa Ahtisaaren suunnitelmaa, kansainvälistä riippumattomuutta sekä järjestelmää, joka varoittaa välittömästi lisäviivytyksistä? Pitäisikö neuvoston mielestä myös muiden toimielinten suhtautua asiaan samalla tavalla? Mitä neuvosto tarkoittaa ilmoittamalla yhtäkkiä kannattavansa koko asian käsittelyn lykkäämistä puolella vuodella, kun Euroopan parlamentin suuri enemmistö varta vasten varoitti niin tekemästä, ja mitä tarkoittaa lausunnoillaan del Ponte, jolla ei ole mitään toimivaltaa näissä kysymyksissä?
+<SPEAKER ID="310" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Olemme tietenkin tietoisia Euroopan parlamentissa käydyistä keskusteluista ja parlamentin antamista päätöslauselmista. Haluan kuitenkin jälleen kerran mainita sen yksityiskohtaisen keskustelun, jota käytiin viime maanantaina ulkoministerien neuvostossa ja joka jatkuu huomisiltana Brysselissä. Sen kuluessa tehtiin taas yksiselitteisen selväksi, että vaikka Ahtisaaren ehdotukset muodostavatkin lähtökohdan, tarvitsemme kuitenkin YK:n päätöksen avuksemme hyväksyttävän ratkaisun löytämisessä.
+<P>
+Yksipuolisen päätöksen tekeminen olisikin suuri virhe, ja tästä on myös keskusteltu naapurialueiden hallitusten kanssa. Minun mielestäni meidän pitäisi myös kyetä vakuuttamaan kumppanimme Yhdysvallat siitä, että asia vaatii kansainvälisen lainsäädännön mukaisen monenvälisen päätöksen. Siksi asiasta käydään lisäneuvotteluja Putinin ja Bushin kahdenvälisessä tapaamisessa. Neuvotteluissa käsitellään myös varmasti Kosovoa. Varoitan nyt kuitenkin jo etukäteen, että yksipuolinen päätös ei olisi hyvä perusta muille päätöksille, joita juuri valmistellaan.
+<P>
+Olen tietoinen siitä, että alueella ollaan myös kärsimättömiä. Olemme esimerkiksi esittäneet erityiskiitokset Albanian hallitukselle, joka on käyttänyt vaikutusvaltaansa viime viikkojen ja kuukausien aikana ja ilmoittanut, että tarvitaan kansainvälisen lainsäädännön mukainen päätös eikä vain yksittäisten maiden antama yksipuolinen hyväksyntä.
+<SPEAKER ID="311" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Arvoisa neuvoston puheenjohtaja, millaisia aloitteita neuvoston puheenjohtajamaa aikoo toteuttaa talouspolitiikan alalla ja ennen kaikkea myös energiapolitiikassa? Voisitteko kuvitella, että pk-yrityksiä koskevaa peruskirjaa tai energiaperuskirjaa käytettäisiin lähtökohtana myös työttömyyden torjunnassa talousprosessissa sekä Lissabonin ohjelman täytäntöönpanemiseksi maata kiinnostavalla tavalla?
+<SPEAKER ID="312" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Jäsen Rübig, olemme tietenkin tietoisia siitä, että poliittisen vakauden ohella on tärkeää luoda myös taloudellista vakautta. Tämä edellyttää nyt peruspäätöksen tekemistä. Tilanne on kaikkien tiedossa. Vastaisuudessa (mainitsittekin jo energiayhteisön, joka alueella on jo olemassa) on tehtävä muita päätöksiä, jos niitä ennen on tehty poliittinen päätös. Olette kuitenkin myös tietoinen muiden - myös naapurialueista käytyjen - keskustelujen perusteella niistä mahdollisuuksista, joita Euroopan unioni tarjoaa näille maille edistämällä alueellista yhteistyötä. Mainitsemallanne seikalla on varmasti kauaskantoisia seurauksia.
+<SPEAKER ID="313" NAME="Puhemies">
+Seuraavat kysymykset käsitellään yhdessä, koska niiden aiheet ovat samankaltaiset.
+<P>
+
+<P>
+Aihe: Athena-järjestely
+<P>
+Kun EU:n perussopimukset kieltävät EU:n budjettivarojen käytön sotilaallisten operaatioiden rahoittamiseen, jäsenmaat ovat sopineet erityisestä Athena-järjestelystä. Kuinka paljon jäsenmaiden varoja on käytetty erilaisten operaatioiden rahoittamiseen tämän järjestelyn kautta?
+<P>
+
+<P>
+Aihe: Sotilaallisten operaatioiden rahoittamiseen tarkoitettu Athena-järjestely
+<P>
+Saksan liittohallituksen kesällä 2006 antamien tietojen mukaan EU hankkii Natolta operaatio Althean täytäntöönpanoa varten tiettyjä viestintäpalveluja (kustannukset jaetaan EU:n ja Naton kesken) ja neuvottelee alun perin Natolle laadittujen Bosnian ja Hertsegovinan karttojen hankkimisesta tai vuokraa, Berlin Plus -järjestelyyn kuulumattoman tavanomaisen sopimuksen mukaisesti, tietyn infrastruktuurin (säiliöitä) yhteisessä päämajassa Camp Butmirissa.
+<P>
+Katsooko neuvosto, että Athena-rahoituksen demokraattinen valvonta on taattu viimeisimmän Athena-mekanismia koskevan neuvoston päätöksen jälkeen? Miksi tähän mennessä ei ole ollut mahdollista ilmoittaa Natolle Athena-varoista maksettuja maksuja eikä julkistaa tarkkoja tietoja Athena-varojen käytöstä ja tiedottaa siitä Euroopan parlamentille?
+<SPEAKER ID="314" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Euroopan unionista tehdyn sopimuksen 28 artiklassa esitetään siviili- ja sotilaskriisien hallintatoimien rahoitusta koskevat periaatteet. Sota- tai puolustuspoliittisia operaatioita ei voida rahoittaa Euroopan yhteisön varoilla.
+<P>
+Athena on neuvoston vuonna 2004 luoma järjestely, jolla hoidetaan tällaisista operaatioista aiheutuvien yhteisten kustannusten rahoitus. Yhteisten kustannusten osuus on alle 10 prosenttia, joka lisätään operaation lisäkustannusten kokonaismäärään. Jäljelle jääneiden kustannusten rahoituksesta vastaavat jäsenvaltiot itse noudattaen periaatetta, jonka mukaan kustannukset maksetaan siellä, missä ne ovat syntyneet.
+<P>
+Athenaa hallinnoidaan jäsenvaltioiden edustajista koostuvan erityiskomitean valvonnassa, ja edustajat ovat tilivelvollisia omille kansallisille parlamenteilleen asianomaisten ministerien välityksellä. Althea-operaatiossa sekä Euroopan unioni että Nato maksavat oman osuutensa yhteisesti käytetyistä tiloista, henkilöstöstä ja niin edelleen. Nato ei saa tarjoamistaan palveluista korvausta Athena-järjestelystä.
+<SPEAKER ID="315" NAME="Esko Seppänen" AFFILIATION="GUE/NGL">
+(FI) Arvoisa puhemies, arvoisa valtiosihteeri, tämä on kummallinen järjestelmä, jolla ei ole demokraattista valvontaa. Demokraattisella valvonnalla tarkoitan parlamentin harjoittamaa valvontaa, ei europarlamentin eikä kansallisten parlamenttien valvontaa. Tällä tavoin kierretään perussopimusten määräyksiä, kuten äsken kerroitte. Kysyn nyt, tullaanko uudessa perustuslaissa, josta puheenjohtajavaltio on valmistellut ehdotuksen, muuttamaan perussopimuksia niin, että tämä rahoitus voitaisiin myöntää EU:n budjetista ilman Athena-järjestelmää?
+<SPEAKER ID="316" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Jäsen Seppänen, en halua tänään Eurooppa-neuvoston kokouksen aattona spekuloida Euroopan perustuslaillisen sopimuksen tulevaisuutta. Näemme sitten, millaisia neuvotteluja käydään ja mitkä ovat niiden vaikutukset sopimusmääräyksiin.
+<P>
+Toisen asian osalta haluan todeta, että jäsenvaltioiden asianomaiset ministerit ovat edustettuina komiteassa, ja nämä ministerit ovat puolestaan viime kädessä tilivelvollisia omille parlamenteilleen, koska rahoitusosuudet ovat peräisin jäsenvaltioilta. Tietääkseni parlamenteilla on joko asiaa käsitteleviä erityisvaliokuntia, jotka voivat arvostella asianomaisen ministerin toimintaa ja esittää hänelle kysymyksiä varojen käytöstä, tai talousarvion valvontavaliokuntia, jotka tutkivat, miten nämä varat on käytetty.
+<SPEAKER ID="317" NAME="Tobias Pflüger , -" AFFILIATION="GUE/NGL">
+(DE) Todellisuus on valitettavasti toisenlainen. Minulle on turvallisuus- ja puolustuspolitiikan alivaliokunnassa kerrottu, että EU on maksanut rahaa Natolle. Nyt te kerrotte, ettei mitään rahaa ole maksettu. Tämä on erittäin mielenkiintoista. Ongelmana on se, ettemme saa pyytäessämme mitään numerotietoja yksittäisiltä kansallisilta parlamenteilta emmekä saa myöskään numerotietoja budjettivaliokunnan kautta tai turvallisuus- ja puolustuspolitiikan alivaliokunnassa.
+<P>
+Voisiko neuvoston puheenjohtajamaa laatia yhteenvedon Athena-järjestelyn yhteydessä tähän mennessä maksetuista kuluista?
+<SPEAKER ID="318" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Voin vastata kysymyksen ensimmäiseen osaan seuraavasti: otan mainitsemanne asian varmasti tarkasteluun arvioidakseni, esiintyykö sen osalta mainitsemanne kaltaisia ristiriitaisuuksia. Koska olen toisaalta neuvoston edustaja, en voi arvostella jäsenvaltioiden tapoja ja lainsäädäntöä voidakseni esittää kyseisen arvion täällä. Se jää jäsenvaltioiden tehtäväksi.
+<SPEAKER ID="319" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: Euroopan unionin ja Georgian väliset neuvottelut viisumijärjestelmän helpottamisesta ja takaisinottosopimuksesta
+<P>
+Georgia on Euroopan unionin naapuruuspolitiikan piiriin kuuluva tärkeä kumppanimaa. Sen nykyinen hallitus on osoittanut selvästi suuntautuvansa Eurooppaan ja sitoutuvansa vahvasti eurooppalaisten arvojen kanssa yksiin käyviin uudistuksiin sekä osoittanut kykyä panna uudistuksia täytäntöön.
+<P>
+Euroopan unionin haluttomuus käydä neuvotteluja Georgian kanssa viisumijärjestelmän helpottamisesta ja takaisinottosopimuksesta on merkille pantavaa. Tämä on selvästi ristiriidassa sen kanssa, että unioni on saanut menestyksekkäästi päätökseen Venäjän kanssa käymänsä neuvottelut viisumijärjestelmän helpottamisesta ja takaisinottosopimuksesta, jotka tulevat voimaan 1. kesäkuuta 2007. Euroopan unioni päätti vastaavat neuvottelut Ukrainan kanssa vuonna 2006, ja lisäksi neuvottelut Moldovan kanssa käynnistettiin vuoden 2007 alussa.
+<P>
+Euroopan unionin ja Georgian välisen nykyisen viisumijärjestelmän yksinkertaistaminen ei ole koskaan ollut unionin asialistalla, ja nyt vaikuttaa yhtäkkiä siltä, kuin Georgiaa rankaistaisiin siitä, että se kannattaa eurooppalaisia arvoja ja niiden kanssa yksiin käyviä uudistuksia.
+<P>
+Mihin toimiin neuvosto on ryhtynyt jouduttaakseen viisumijärjestelmän helpottamista ja takaisinottosopimusta koskevaa neuvotteluprosessia Georgian kanssa, ja mitä suunnitelmia neuvostolla on kyseisten neuvottelujen suhteen?
+<SPEAKER ID="320" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Neuvoston puheenjohtajana voin ilmoittaa teille, ettei neuvostossa ole tehty aloitteita, joiden tarkoituksena olisi antaa komissiolle valtuudet aloittaa Georgian kanssa neuvottelut vastaavanlaisista sopimuksista. EU:n ja Georgian välisessä toimintasuunnitelmassa on kuitenkin varauduttu aloittamaan milloin tahansa EU:n naapuruuspolitiikan yhteydessä vuoropuhelu henkilöiden kauttakulkuun liittyvistä kysymyksistä, joita ovat muun muassa takaisinottoa ja viisumin myöntämistä koskevat kysymykset.
+<P>
+Haluan lisätä, että tässä keskustelussa, jota käydään Abhasiassa asuvien kansalaisten mahdollisesta eriarvoisesta kohtelusta - he saavat viisumeita uusien sopimusten perusteella - sekä siitä, ovatko Abhasiassa asuvat ihmiset eriarvoisessa asemassa oikeuksien osalta verrattuna itse Georgiassa asuviin ihmisiin, on käyty myös toisella tasolla Euroopan parlamentissa, ja siinä päästään jatkossa ratkaisuun.
+<SPEAKER ID="321" NAME="Inese Vaidere" AFFILIATION="UEN">
+(LV) Arvoisa puheenjohtaja Gloser, mainitsitte juuri Abhasian ja Etelä-Ossetian. On hyvin tiedossa, että Venäjä myöntää nykyään mittavia määriä venäläisiä passeja Abhasian ja Etelä-Ossetian asukkaille ja vähentää siten keinotekoisesti kyseisillä alueilla asuvien georgialaisten osuutta. Euroopan unioni, joka epäröi viisumihelpotusten myöntämisessä Georgialle, on luomassa välillisesti lisäkannustinta venäläisten passien hankkimiselle, koska Venäjän kansalaisilla on nykyisin paremmat mahdollisuudet matkustaa Euroopan unioniin kuin Georgian kansalaisilla. Haluan esittää vielä toisen kysymyksen: miksi näitä neuvotteluja Georgialle myönnettävistä viisumihelpotuksista ei aloitettu neuvostossa? Millaisilla ratkaisuilla voidaan mielestänne selvittää tämä tilanne, joka on minun mielestäni kestämätön?
+<SPEAKER ID="322" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Euroopan unioni on tehnyt Venäjän kanssa viisumien myöntämisen helpottamista koskevan sopimuksen sekä vastaavat takaisinottoa koskevat sopimukset. Viime viikkojen aikana on käynyt ilmi, että Georgian kansalaiset ovat - ja tässä yhteydessä uskallan käyttää samaa ilmausta kuin jäsen Vaidere - eriarvoisessa asemassa Abhasiassa tai Etelä-Ossetiassa asuviin ihmisiin nähden, jotka pystyvät nyt yhtäkkiä matkustamaan Venäjän viisumilla. Juuri tämä seikka sai Euroopan unionin harkitsemaan asiaa koskevien neuvottelujen aloittamista Georgian kanssa naapuruuspolitiikan yhteydessä. Tarkoituksena on lopettaa tämä eriarvoinen tilanne - mikäli se jatkuu - jossa Venäjän puolella asuvat ihmiset voivat saada viisumin mutta Georgian puolella asuvat eivät.
+<SPEAKER ID="323" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: Verkkovierailudirektiivin hyväksyminen
+<P>
+Mitä toimia neuvosto aikoo toteuttaa vauhdittaakseen Euroopan kansalaisille hyvin tärkeän eurooppalaisen verkkovierailudirektiivin hyväksymistä?
+<SPEAKER ID="324" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Jäsen Rutowicz, tiedustelitte verkkovierailudirektiivin tilannetta jo helmikuun istuntojaksolla, joten olenkin iloinen voidessani antaa lisäkyselyynne seuraavan vastauksen - vaikka asian pitäisikin jo olla tiedossanne, koska verkkovierailu koskee meitä kaikkia, jotka emme enää voi tulla toimeen ilman matkapuhelimia.
+<P>
+Olette varmaankin tietoinen siitä, että verkkovierailudirektiivi, joka perustuu EY:n perustamissopimuksen 95 artiklaan, on alistettu EY:n perustamissopimuksen 251 artiklan nojalla yhteispäätösmenettelyyn. Voin vakuuttaa teille, että kaikki kolme toimielintä ovat asettaneet tavoitteekseen hyväksyä verkkovierailudirektiivin mahdollisimman pian. Neuvosto pääsi 6.-8. kesäkuuta pidetyssä Eurooppa-neuvoston kokouksessa ehdotuksesta poliittiseen yksimielisyyteen ja hyväksyi siis Euroopan parlamentin lausunnon ensimmäisessä käsittelyssä. Teksti on jo oikeus- ja kieliasiantuntijoiden lopullisessa tarkistuksessa, joten se voidaan hyväksyä nopeutetussa menettelyssä. Säädös vahvistetaan todennäköisesti kesäkuun lopulla. Se julkaistaan virallisessa lehdessä välittömästi tämän jälkeen.
+<SPEAKER ID="325" NAME="Leopold Józef Rutowicz" AFFILIATION="UEN">
+(PL) Arvoisa puhemies, kysymys esitettiin valitettavasti täysin eri tilanteessa. Meidän pitäisikin mielestäni osoittaa tässä vaiheessa suosiota sille, että direktiivit hyväksyttiin niin nopeasti ja että eurooppalainen yhteiskunta hyötyy tästä työstä.
+<P>
+Tämä on muuten koko Euroopan parlamentille, neuvostolle ja komissiolle suuri menestys. Direktiivissä asetetut hinnat eivät kuitenkaan ole niinkään onnistuneita. Sisämarkkina- ja kuluttajansuojavaliokunnan asiantuntijoiden mukaan hinnat olivat aiemmin alhaisemmat. Esittelijä korotti niitä neuvotteluprosessissa, ja niitä korotettiin lopulta myös itse direktiivissä.
+<P>
+Haluaisin kuitenkin esittää yhden lisäkysymyksen. Verkkovierailu on ilmiö, jota ei voida hyväksyä EU:ssa. Kysymykseni kuuluukin: milloin verkkovierailu voidaan poistaa kokonaan Euroopan unionin jäsenvaltioista?
+<SPEAKER ID="326" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Me kaikki tiedämme, että tavoitteidemme ja saavutustemme välillä on usein kuilu, mutta meidän pitäisi olla iloisia siitä, että ensimmäinen merkittävä askel on otettu. Tämän asian voimaansaattaminen kesäkuun loppuun mennessä vaatii meiltä kaikilta aktiivisuutta. Tämä on myös yksi esimerkki siitä, miksi perustuslailliseen sopimukseen liittyvistä asioista käytävä keskustelu on järkevää ja välttämätöntä.
+<P>
+Puheenjohtajamaa Saksa on aina halunnut varmistaa, että EU:n hankkeet, EU:n tulokset ovat myös kansalaisten tiedossa. Verkkovierailudirektiivi, jonka on määrä tulla voimaan piakkoin, on yksi esimerkki EU:n toimintavalmiuksista ja EU:n kansalaisia hyödyttävästä hankkeesta. Kaikki tiedämme, että lisämuutoksista käydään vielä keskusteluja - uskoakseni Euroopan parlamentin aloitteesta.
+<SPEAKER ID="327" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: EU:n naapuruuspolitiikan toteutus
+<P>
+Euroopan unionin naapuruuspolitiikka käsittää 16 naapurimaata, jotka ovat Välimeren maat Egypti, Algeria, Israel, Jordania, Libanon, Libya, Marokko, palestiinalaishallinto, Syyria ja Tunisia sekä uudet itsenäiset valtiot Ukraina, Moldova, Valko-Venäjä, Armenia, Azerbaidžan ja Georgia.
+<P>
+Naapuruuspolitiikan toteuttamista varten kullakin naapurimaalla on oma toimintaohjelmansa. Naapuruuspolitiikkaa varten on varattava 16 prosenttia ulkosuhteiden budjetista.
+<P>
+Voiko neuvoston puheenjohtajavaltio kertoa, minkä naapurimaiden kanssa on allekirjoitettu sopimuksia naapuruuspolitiikan välineen mukaisesti? Millaisia varoja ja millaiselle ajalle kyseisille maille on varattu?
+<SPEAKER ID="328" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) EU:n naapuruuspolitiikkaa koskevat toimintasuunnitelmat koostuvat poliittisista asiakirjoista, jotka ilmentävät Euroopan unionin ja yksittäisten kumppanimaiden välistä poliittista yksimielisyyttä poliittisia, taloudellisia ja alakohtaisia uudistuksia sisältävästä ohjelmasta ja joihin sisältyy sekä lyhyen että pitkän aikavälin toimintaa koskevia keskeisiä tavoitteita. Ne hyväksytään EU:n ja asianomaisen kumppanin välillä assosiaatio- tai yhteistyöneuvostossa.
+<P>
+Naapuruuspoliittisia toimintasuunnitelmia on tehty Itä-Euroopan kuudesta kumppanuusmaasta viiden kanssa. Ensimmäiset tehtiin Ukrainan kanssa 21. helmikuuta 2005 ja Moldovan kanssa 22. helmikuuta 2005. Näiden jälkeen laadittiin erilliset naapuruuspoliittiset toimintasuunnitelmat Armenian, Azerbaidžanin ja Georgian kanssa 14. marraskuuta 2006. Valko-Venäjän kanssa ei ole vielä tehty toimintasuunnitelmaa, sillä EU:lla ei ole maahan sopimussuhteita. Valko-Venäjä pääsee hyötymään EU:n naapuruuspolitiikan tarjoamista mittavista eduista vasta sitten, kun se ottaa käyttöön demokraattisen järjestelmän, joka perustuu vapaisiin ja oikeudenmukaisiin vaaleihin.
+<P>
+Eteläisten kumppanimaiden kanssa on tehty seuraavat naapuruuspoliittiset toimintasuunnitelmat: Israelin kanssa 11. huhtikuuta 2005, palestiinalaishallinnon kanssa 4. toukokuuta 2005, Jordanian kanssa 2. kesäkuuta 2005, Marokon kanssa 22. kesäkuuta 2005, Tunisian kanssa 4. heinäkuuta 2005, Libanonin kanssa 19. tammikuuta 2007 ja Egyptin kanssa 6. maaliskuuta 2007. Algerian kanssa ei ole vielä tehty toimintasuunnitelmaa eikä myöskään Libyan ja Syyrian kanssa, koska EU:lla ei ole sopimussuhteita kyseisiin maihin.
+<P>
+EU tarjoaa naapuruuspolitiikan täytäntöönpanoon yhteisörahoitusta yhteensä 12 miljardia euroa vuosina 2007-2013, mikä merkitsee reaalisesti 32 prosentin korotusta. Komissio teki EU:n jäsenvaltioiden kanssa käymiensä neuvottelujen ja eurooppalaista naapuruuden ja kumppanuuden välinettä koskevista yleisistä määräyksistä 24 päivänä lokakuuta 2006 annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1638/2006 perusteella päätöksen rahoituksen jakautumisesta ja hyväksyi strategia-asiakirjat sekä alustavat ohjelmat, jotka koskevat vuosina 2007-2013 rahoitusta saavia maita, alueita ja rajatylittäviä ohjelmia.
+<P>
+Eurooppalaisen naapuruuden ja kumppanuuden välineen monivuotiset määrärahat vuosiksi 2007-2010 jakautuvat alustavien ohjelmien kesken seuraavasti: 220 miljoonaa euroa Algerialle, 98,4 miljoonaa euroa Armenialle, 92 miljoonaa euroa Azerbaidžanille, 20 miljoonaa euroa Valko-Venäjälle, 558 miljoonaa euroa Egyptille, 120,4 miljoonaa euroa Georgialle, 8 miljoonaa euroa Israelille, 265 miljoonaa euroa Jordanialle, 187 miljoonaa euroa Libanonille, 8 miljoonaa euroa Libyalle, 209,7 miljoonaa euroa Moldovalle, 654 miljoonaa euroa Marokolle, 632 miljoonaa euroa palestiinalaishallinnolle, 130 miljoonaa euroa Syyrialle, 300 miljoonaa euroa Tunisialle ja lopuksi 494 miljoonaa euroa Ukrainalle. Huomatkaa, että Libyan ja palestiinalaishallinnon osalta ei ole hyväksytty strategia-asiakirjoja tai alustavia ohjelmia, koska niiden kanssa ei voida laatia keskipitkän aikavälin ohjelmasuunnitelmia. Niinpä mainitsemani määrärahat ovat ainoastaan alustavia lukuja.
+<SPEAKER ID="329" NAME="DanutBudreikait" AFFILIATION="ALDE">
+(LT) Arvoisa puheenjohtaja, kiitos tyhjentävästä vastauksestanne. Haluaisin selvitystä yhteen asiaan. Tämän politiikan täytäntöönpanossa tehdään sopimuksia ja toimintasuunnitelmia tiettyjen maiden kanssa: Euroopan unionin ja Ukrainan välillä, Euroopan unionin ja Georgian välillä. Ovatko näiden maiden naapurina sijaitsevat jäsenvaltiot mukana toimintasuunnitelmien laadinnassa?
+<SPEAKER ID="330" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Kävimme tänä iltapäivänä keskustelua Välimerikumppanuudesta ja EU:n naapuruuspolitiikasta, mutta pikemminkin etelän osalta. Haluan korostaa sitä toteamalla, että EU:lla on nykyään ulkoraja mutta sillä on myös naapureita, ja se, että se on kiinnostunut kyseisten maiden poliittisesta, taloudellisesta ja yhteiskunnallisesta vakaudesta, on antanut pontta Euroopan unioniin 1. toukokuuta 2004 liittyneille jäsenvaltioille.
+<P>
+Naapuruuspolitiikkaa kehittäessämme asetimme siis myös ensisijaisen tavoitteen, jossa on tärkeää erityisesti se, että jokaiselle naapurille voidaan laatia ohjelma, mikäli sillä on asianmukaiset suhteet unioniin ja mikäli yksittäistapauksessa on saavutettu edistymistä. Näin ollen meillä on räätälöidyt ohjelmat esimerkiksi Ukrainan ja Moldovan osalta. Hyvä jäsen Budreikaitė, voin siis vain todeta, että mainitsemanne maat laativat tällaisia toimintasuunnitelmia yhteistyössä kanssamme, ja se on täysin niiden etujen mukaista. Kyseisten suunnitelmien ja naapuruuspolitiikan sisältö voi olla tärkeässä asemassa tietyillä osa-alueilla, kuten sisämarkkinoille pääsyssä. Eurooppa-neuvoston on määrä antaa huomenna ja perjantaina päätelmissään siunauksensa tälle uudelle naapuruuspolitiikan lähtökohdalle. Tämä tarkoittaa, että seuraavat neuvoston puheenjohtajamaat voivat toivottavasti hyödyntää tätä ohjelmaa tulevan työnsä lähtökohtana.
+<SPEAKER ID="331" NAME="Esko Seppänen" AFFILIATION="GUE/NGL">
+(FI) Arvoisa puhemies, sanoitte, että Valko-Venäjän kanssa ei ole käytössä naapuruuspolitiikan ohjelmia johtuen siitä, että maassa ei ole järjestetty vapaita vaaleja. Tällainen ohjelma on kuitenkin hyväksytty Azerbaidžanin kanssa. Olivatko Azerbaidžanin vaalit mielestänne vapaat ja rehelliset ja onko teidän mielestänne loogista, että tällainen ohjelma on hyväksytty Azerbaidžanin kanssa, mutta sitä ei ole hyväksytty Valko-Venäjän kanssa?
+<SPEAKER ID="332" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Jäsen Seppänen, myös Etelä-Kaukasian maiden kanssa on käyty tiiviitä keskusteluja. Kussakin tapauksessa saavutetusta edistymisestä on laadittu raportteja, ja Euroopan unioni on tehnyt valmisteluja, joiden perusteella on viime vuoden aikana laadittu toimintasuunnitelmia. Tämä tarkoittaa - kyse ei siis ole vain oletuksesta - tutkimusten osoittaneen, että maan vaalit mahdollistavat toimintasuunnitelman tekemisen Azerbaidžanin kanssa.
+<SPEAKER ID="333" NAME="Puhemies">
+Seuraavana on
+<P>
+Aihe: Brasilialainen naudanliha
+<P>
+Jotta voidaan varmistaa, että eurooppalaiset kuluttajat voivat täysin luottaa tarjolla olevaan naudanlihaan, aikooko neuvosto harkita välitöntä kieltoa Brasiliasta Euroopan unioniin tuotavalle naudanlihalle sen sijasta, että odotetaan tämän vuoden loppuun?
+<SPEAKER ID="334" NAME="Günter Gloser" AFFILIATION="neuvoston puheenjohtaja" LANGUAGE="DE">
+Jäsen Nicholson, yhteisön lainsäädännön mukaan vastuu suojalausekkeen soveltamisesta on komissiolla, joten neuvosto ei pysty suoraan vaikuttamaan päätökseen, jonka komissio on tehnyt brasilialaisesta naudanlihasta.
+<SPEAKER ID="335" NAME="James Nicholson" AFFILIATION="PPE-DE">
+(EN) Arvoisa puheenjohtaja, kiitos, mutta vastauksenne on hieman turhauttava. Esitin eilen illalla kysymyksen myös komissiolle, eikä siitäkään ollut juuri apua. Haluan kertoa puheenjohtajalle, että Irlannin maanviljelijöiden sanomalehden ja Irlannin maanviljelijäjärjestön vieraillessa Brasiliassa kävi selvästi ilmi, ettei Brasiliassa noudateta sääntöjä. Jäljitettävyys on olematonta. Aluerajoilla ei tehdä mitään tarkastuksia. Brasilian suu- ja sorkkatautialueilta kuljetetaan eläimiä päivittäin. Brasiliassa käytetään todistettavasti Euroopan unionissa kiellettyjä aineita.
+<P>
+Eikö EU:n ole jo korkea aika puuttua tähän ongelmaan - koska siitä saattaa aiheutua haittaa kuluttajillemme - ja asettaa kielto brasilialaiselle naudanlihalle, mitä kaikki Euroopan unionissa haluavat ja mikä on tuottajien ja kuluttajien edun mukaista?
+<SPEAKER ID="336" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Ei ole mukavaa joutua kertomaan, ettei neuvostolla ole toimivaltaa tällä osa-alueella, mutta sanoitte itse, että olette käyttänyt hyväksenne tilaisuutta käsitellä tätä ongelmaa myös komission kanssa. Neuvosto on tietenkin myös tietoinen ongelmasta, mutta kyseisten tietojen tutkiminen on nyt komission tehtävä. Komissio on näin ollen myös vastuussa asiaankuuluvien ehdotusten laatimisesta ja varotoimenpiteisiin ryhtymisestä. Tämä asia ei todellakaan kuulu neuvoston toimivallan piiriin.
+<SPEAKER ID="337" NAME="Jim Allister" AFFILIATION="NI">
+(EN) Arvoisa puheenjohtaja, teidän mukaanne asia kuuluu komissiolle, mutta EU:n kansalaisten terveys on varmaankin asia, jota neuvostokaan ei voi ohittaa olankohautuksella. Amerikan yhdysvallat on asettanut täydellisen tuontikiellon kaikelle Brasiliasta tuotavalle tuoreelle naudanlihalle, koska sen mukaan lihan alkuperää ei voida jäljittää, laittomia kasvuhormoneja käytetään laajalti ja tarkastukset ovat ylipäätään hälyttävän heikolla tasolla. Onko EU:n kansalaisten terveys vähäpätöisempää kuin Yhdysvaltain kansalaisten terveys, ja jos ei, miksei brasilialaiselle naudanlihalle ole jo asetettu kieltoa?
+<SPEAKER ID="338" NAME="Marian Harkin" AFFILIATION="ALDE">
+(EN) Kuulin neuvoston kommentin, mutta olen sitä mieltä, että se väistää kysymyksen.
+<P>
+Käymme parhaillaan neuvotteluja G4-maiden kanssa Potsdamissa, ja haluaisinkin tietää, voimmeko jättää huomiotta maatalouden ja maaseudun kehittämisen valiokunnan puheenjohtajan suositukset, joiden mukaan brasilialainen naudanliha on asetettava tuontikieltoon. Voimmeko olla piittaamatta Brasiliaan tehdyn Euroopan elintarvike- ja eläinlääkintätoimiston matkasta laaditusta loppuraportista, jossa päädyttiin selkein sanakääntein toteamaan, että jäämien ja eläinlääkinnän nykyinen valvonta on riittämätöntä?
+<P>
+Kansallisen jäämävalvontaohjelman suunnittelussa, soveltamisalassa ja täytäntöönpanossa on suuria puutteita. Haluan esittää saman kysymyksen kuin muutkin. Eikö teidän mielestänne ole jo aika ryhtyä toimenpiteisiin ja suojella EU:n kansalaisia?
+<SPEAKER ID="339" NAME="Günter Gloser">
+neuvoston puheenjohtaja. (DE) Olen kanssanne samaa mieltä siitä, että Euroopan unionin on ryhdyttävä toimiin silloin, kun kuvailemianne tietoja ilmenee, mutta olemme asettaneet tällä osa-alueella itsellemme sääntöjä. Voin ainoastaan ottaa vastaan vaatimuksenne kansalaisten etujen nimissä ja kannustaa komissiota tiedottamaan asianomaisille elimille tutkimustensa laajuudesta ja toimista, joihin se voi ryhtyä, mutta valitettavasti emme voi jatkuvasti vaihtaa vastuualueitamme. Olemme jo määritelleet selkeästi vastuualueemme, ja tämä kuuluu komissiolle. En voi esittää arveluja komission vastauksesta, sillä sen ei tarvitse olla edustettuna tämänpäiväisellä kyselytunnilla. Voin ainoastaan tarjoutua tekemään uuden tiedustelun, jotta te kansalaisten edustajina saisitte asianmukaisen ja selkeän vastauksen komissiolta.
+<SPEAKER ID="340" NAME="Puhemies">
+Arvoisa puheenjohtaja, haluan käyttää tilaisuutta hyväkseni esittääkseni teille lämpimät kiitokset yhteistyöstänne ja huomaavaisuudestanne kyselytuntiemme aikana maanne toimiessa neuvoston puheenjohtajana.
+<P>
+Kysymyksiin, joihin ei ajanpuutteen vuoksi voitu vastata, vastataan kirjallisesti (ks. liite).
+<P>
+Kyselytunti on päättynyt.
+<P>
+(Istunto keskeytettiin klo 19.05 ja sitä jatkettiin klo 21.00.)

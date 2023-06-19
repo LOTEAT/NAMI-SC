@@ -1,0 +1,6 @@
+<CHAPTER ID="001">
+Otwarcie posiedzenia
+<SPEAKER ID="004" NAME="Przewodniczący">
+Witam Panią Wiceprzewodniczącą Komisji, Wysoką Przedstawiciel Unii ds. Zagranicznych i Polityki Bezpieczeństwa.
+<P>
+Proszę Państwa! Dzisiaj zaczynamy wcześniej. Mamy ważną debatę.

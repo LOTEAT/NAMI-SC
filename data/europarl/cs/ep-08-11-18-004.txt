@@ -1,0 +1,622 @@
+<CHAPTER ID="004">
+Režimy podpor pro zemědělce v rámci SZP - Úprava společné zemědělské politiky - Podpora pro rozvoj venkova z Evropského zemědělského fondu pro rozvoj venkova (EZFRV) - Strategické směry Společenství pro rozvoj venkova (programové období 2007-2013) (rozprava) 
+<SPEAKER ID="011" NAME="Předsedající">
+Dalším bodem je společná rozprava o
+<P>
+zprávě, kterou předkládá Luis Manuel Capoulas Santos jménem Výboru pro zemědělství a rozvoj venkova o návrhu nařízení Rady, kterým se stanoví společná pravidla pro režimy přímých podpor pro zemědělce v rámci společné zemědělské politiky a kterým se zavádějí některé režimy podpor pro zemědělce - C6-0240/2008 -;
+<P>
+zprávě, kterou předkládá Luis Manuel Capoulas Santos jménem Výboru pro zemědělství a rozvoj venkova o návrhu nařízení Rady o úpravách ve společné zemědělské politice prostřednictvím změn nařízení (ES) č. 320/2006, (ES) č. 1234/2007, (ES) č. 3/2008 a (ES) č [...]/2008 - C6-0241/2008 -;
+<P>
+zprávě, kterou předkládá Luis Manuel Capoulas Santos jménem Výboru pro zemědělství a rozvoj venkova o návrhu nařízení Rady, kterým se mění nařízení (ES) č. 1698/2005 o podpoře pro rozvoj venkova z Evropského zemědělského fondu pro rozvoj venkova (EZFRV) - C6-0242/2008 -;
+<P>
+zprávě, kterou předkládá Luis Manuel Capoulas Santos jménem Výboru pro zemědělství a rozvoj venkova o návrhu rozhodnutí Rady, kterým se mění rozhodnutí 2006/144/ES o strategických směrech Společenství pro rozvoj venkova (programové období 2007-2013 - C6-0239/2008 -.
+<SPEAKER ID="012" NAME="Luis Manuel Capoulas Santos">
+zpravodaj. - (PT) Paní předsedající, paní komisařko, pane úřadující předsedo Rady, dámy a pánové, je pro mne velkou ctí, že vás mohu přivítat na počátku této rozpravy. Je to závěrečný akt dlouhého a participativního procesu diskusí a úvah o současnosti a budoucnosti společné zemědělské politiky (SZP).
+<P>
+Podařila se velmi namáhavá práce, která po řadu měsíců, ve skutečnosti více než rok, zahrnovala značnou míru spolupráce Parlamentu, Rady, Komise a celé oblasti zemědělství a venkova v Evropské unii. Měl jsem během té doby možnost vyslechnout řadu stanovisek organizací zastupujících odvětví zemědělství a oblast venkova v různých členských státech a vést dialog s poslanci parlamentů a institucionálními zástupci vlastně téměř všech členských států a rovněž členy orgánů Společenství, samozřejmě především poslanci Evropského parlamentu.
+<P>
+Zúčastnil jsem se nejrůznějších seminářů a konferencí a pozorně jsem naslouchal všem argumentům, i těm prostřednictvím médií, v hledání co možná nejlepší syntézy. Musím proto poděkovat všem svým kolegům, kteří se s nadšením účastnili této debaty, a dále rovněž celé politické skupině koordinátorů. Chci zejména zdůraznit úlohu, kterou sehrál pan Goepel, a to nejen jako koordinátor skupiny PPE-DE, ale i jako zpravodaj pro zprávu z vlastního podnětu, jež předcházela zprávám, které zde dnes projednáváme.
+<P>
+Musím také poděkovat předsedovi Parishovi za to, jak řídil práci našeho výboru, a za vynikající spolupráci sekretariátu Výboru pro zemědělství a rozvoj venkova, neboť na nich spočívala nejtěžší a technicky nejnáročnější část práce.
+<P>
+A konečně musím poděkovat Komisi, zastoupené paní komisařkou, za její ochotu ke spolupráci, kterou projevily i útvary Komise, a také panu Barnierovi za to, jak průběžně korespondoval s Parlamentem, a to i dříve, než oficiálně začalo francouzské předsednictví.
+<P>
+Toto úsilí v rámci posílené spolupráce bylo dobrým příkladem toho, jak by mohl fungovat proces spolurozhodování, který, jak doufám, že může vstoupit v platnost po úplné ratifikaci Lisabonské smlouvy, což bude, věřme, co nejdříve.
+<P>
+Tato debata i se všemi projevy souhlasu i nesouhlasu, které k ní nedomyslitelně patří, jasně ukazuje na složitost evropského zemědělství v celé jeho mnohotvárnosti. Přesvědčivě se také ukázalo, že je nezbytné, aby se v této otázce angažovala Evropa, její orgány, a zejména Parlament. Celkem 1 170 pozměňovacích návrhů, které byly předloženy k návrhům Komise, dokresluje - obzvláště s přihlédnutím k tomu, že doba, kterou jsme měli k dispozici, byla přerušena letními prázdninami - širokou účast poslanců v této debatě.
+<P>
+Dosažené kompromisy mezi čtyřmi hlavními politickými skupinami v Parlamentu, kdy bylo podáno téměř 400 pozměňovacích návrhů k nejdůležitějším otázkám a nakonec byly tyto pozměňovací návrhy soustředěny do šesti kompromisních pozměňovacích návrhů, svědčí rovněž o tom, že poslanci prokázali smysl pro odpovědnost, ochotu dosáhnout kompromisu a připravenost ustoupit.
+<P>
+Co se týče obsahu zprávy, kterou považuji za vyváženou a připravenou reagovat na aktuální výzvy a jež také poskytuje dobré vodítko pro budoucnost, musím říci, že Parlament kladně hodnotí a přijímá řadu návrhů Komise.
+<P>
+Zdůraznil bych tyto: potvrzení potřeby společné politiky jako předpokladu pro konkurenceschopné a environmentálně udržitelné zemědělství v Evropě; příspěvky Komise, jejichž cílem je zajistit, aby SZP byla spravedlivější a přijatelnější pro společnost; důraz na zjednodušení postupů a na skoncování s byrokracií; potvrzení návrhu poskytnout zemědělcům více volnosti ve volbě produktivních možností; finanční posílení rozvoje venkova a rozšíření jeho orientace o nové úkoly (energii, klima, vodu, biologickou rozmanitost); zavedení zásady progresivního odlišení; poskytnutí větší míry flexibility členským státům, pokud jde o řízení SZP (hovořím o článku 68); vytvoření systému pro řízení rizik a řešení krizí, kde bude uplatněno spolufinancování Společenství, a přijatý pozitivní obecný směr při projednávání modelu po roce 2013 a pokud jde o odpověď Evropské unie na jednání Světové obchodní organizace, jejichž cílem je dosáhnout spravedlivé a vzájemné dohody o regulovaném mezinárodním obchodu se zemědělskými produkty.
+<P>
+Návrhy Komise však obsahují rovněž aspekty, které jsou Parlamentem i mnou jako zpravodajem považovány za méně pozitivní. Jak jsem již uvedl při jiných příležitostech, vyznačují se návrhy Komise z určitého hlediska, například pokud jde o nástroje řízení trhu a o odvětví mléka, příliš liberálním tónem, který se může ukázat jako nebezpečný v období, kdy existuje mimořádná nestabilita a značná proměnlivost trhu. Návrhy dále postrádají sociální citlivost, což je patrné obzvláště v návrhu vyloučit malé zemědělce.
+<P>
+Myslím si rovněž, že návrh Komise týkající se sociální a územní soudržnosti schází ze správné cesty, neboť se v něm v rámci nového odlišení navrhuje ukončení plateb přerozdělovacího mechanismu. Domnívám se dále, že nebyla ze strany Komise věnována náležitá pozornost některým odvětvím, která jsou nejvíce zranitelná vůči současné krizi trhu a jimž hrozí vážné nebezpečí, že budou opuštěny vzhledem k navrhovanému harmonogramu a míře oddělení podpory od produkce do roku 2013. Platí to o odvětví chovu ovcí, a proto jsme se dohodli, že svoláme tyto malé společné organizace trhu, které i když jsou malé, jsou pro některé regiony Evropy, kde lze jen obtížně nalézt alternativní řešení, velmi významné a politicky, hospodářsky a sociálně důležité.
+<P>
+Tato zpráva a hlasování ve Výboru pro zemědělství se do značné míry soustředily na to, aby byly některé tyto méně pozitivní aspekty napraveny.
+<P>
+K významným návrhům ze strany Parlamentu patří pět kompromisních návrhů, které byly přijaty v souvislosti s klíčovými prvky odlišení. Jednalo se o: procentuální výši podpory pro malé zemědělce a progresivní povahu této podpory, kde bude současně dána větší volnost členským státům, aby stanovily minimální hranice; podíl udržení nároku podle článku 68 a rozšíření oblasti působnosti tohoto článku; širší dosah systému pojištění, který se rozšiřuje na odvětví rybolovu; otázku spolufinancování rozvoje venkova a konečně rozšíření o nové úkoly. Rovněž mnohé další návrhy Parlamentu představují pozitivní příspěvky. Zdůraznil bych například ocenění faktoru zaměstnanosti při výpočtu podpory a dále dodržování požadavků na zdraví a bezpečnost na pracovišti v souvislosti s podmínkami, za nichž je možné tuto podporu obdržet.
+<P>
+Výbor pro zemědělství přijal i velmi jasný postoj, pokud jde o nejkomplikovanější stránku tohoto problému, a tou je odvětví mléka. Jedná se o velmi důležitou otázku, kterou je zapotřebí pozorně řešit vzhledem k současné situaci na trhu.
+<P>
+Navzdory hlubokému respektu, který zastávám vůči všem těmto názorům, z nichž některé jsou v určitých oblastech zcela v rozporu s mými, ale přesto je nezbytné je respektovat, mám pocit, že je přijatý postoj ve Výboru pro zemědělství dosti citlivý. Byl bych rád, kdyby byl přijat v plénu a potvrzen Radou a současně měl oporu v Komisi. Obezřetné zvýšení výroby během dvou let navíc k původním 2 %, k nimž jsme dospěli pro rok 2008, a konečné rozhodnutí na počátku roku 2010 o budoucnosti tohoto odvětví na základě vývoje trhu a současně 4% zvýšení během tří let se mi zdá jako dostatečně citlivý postoj a mohl by snad být konečným kompromisem.
+<P>
+Závěrem bych, paní předsedající, rád vyjádřil naději, že tato rozprava poslouží k vyjasnění postojů a že budeme schopni dosáhnout konsensu, který od nás zemědělství a zemědělci očekávají. Doufám, že my všichni - Parlament, Rada a Komise, jsme schopni tento úkol splnit.
+<SPEAKER ID="013" NAME="Michel Barnier">
+úřadující předseda Rady. - (FR) Paní předsedající, dámy a pánové, je mi velkou ctí, že mohu opět navštívit toto shromáždění, a to v mimořádně důležité chvíli, kdy Parlament a Rada usilují o konečný postoj k této otázce kontroly stavu společné zemědělské politiky.
+<P>
+Velmi dobře si uvědomujeme, že tato kontrola stavu není zásadní změnou v přístupu, jak tomu bylo v případě reformy v roce 2003, ale že je významnou úpravou této reformy s ohledem na vysoce proměnlivou situaci.
+<P>
+Umožní zejména reagovat na vývoj, jaký jsme si před několika lety skutečně neuměli představit. Opravdu, kdo by si mohl představit tržní trendy od roku 2008, které vedly k drastickému zvýšení cen zemědělských produktů a způsobily, jak dobře víme, nepokoje vyvolané nedostatkem potravin?
+<P>
+Tato situace ukázala, do jaké míry zůstává zemědělství pro náš evropský kontinent strategickým nástrojem a nakolik má koncepce potravinové soběstačnosti za této zvýšené nestálosti cen zemědělských produktů smysl.
+<P>
+Avšak i když se kontrola stavu týká jen změn, není těchto změn mnoho a jsou to změny komplexní, a pro nás pro všechny tvoří balíček, který je obtížné naplnit.
+<P>
+Rada už udělala mnoho práce na všech úrovních, aby vyřešila řadu úkolů. Rád bych v této souvislosti vyjádřil upřímné poděkování za přínosnou práci slovinskému předsednictví, díky níž jsme mohli začít s pracemi velmi konstruktivně, mám na mysli zejména sdělení Komise. Za Parlament, dámy a pánové, odvedli kromě toho tuto práci na sdělení týkajícím se legislativních návrhů zpravodajové Lutz Goepel a Luis Manuel Capoulas Santos. Rád bych oběma vyjádřil upřímné poděkování za jejich kvalitní a velmi konkrétní zprávy, které obsahovaly velké množství návrhů.
+<P>
+Chtěl jsem, jak víte, spolupracovat s Evropským parlamentem od počátku. Měl jsem možnost s ním spolupracovat i v době, kdy jsem měl tu čest být po dobu pěti let evropským komisařem odpovědným za regionální politiku a instituce, a jak jsem řekl, chtěl jsem na této otázce pracovat v duchu budoucího postupu spolurozhodování.
+<P>
+Velice jsem se zajímal o navazující činnosti vykonávané Parlamentem souběžně s prací Rady, a nakonec jsme společně dospěli k něčemu, co bychom mohli nazvat posíleným dialogem mezi námi.
+<P>
+Vedl jsem v této souvislosti hodně plodných a pravidelných diskusí o stavu probíhajících jednání, a to se členy Výboru pro zemědělství a rozvoj venkova a v Parlamentu - téměř 50 hodin setkání s Evropským parlamentem nebo mezi kolegy poslanci. V každé rozhodující fázi jednání jsme se setkali s Radou - bylo to 27. září a 22. října, po hlasování ve Výboru pro zemědělství, a 4. listopadu, abychom projednali závěrečnou fázi jednání a postupy při jednání na říjnové Radě.
+<P>
+Chtěl bych, dámy a pánové, na tomto místě vyjádřit zvláštní poděkování předsedovi výboru Neilu Parishovi za aktivní spolupráci v rámci tohoto procesu. Chtěl bych také poděkovat předsedům skupin Lutzi Goepelovi, Luisi Manuelu Capoulas Santosovi, Nielsu Buskovi, Friedrichu-Wilhelmu Graefe zu Baringdorf, Vincenzo Aitovi a Sergio Berlatovi.
+<P>
+Vzhledem k tomu, že v současnosti má země předsedá Radě Evropské unie, pravidelně jsme na ministerské i technické úrovni Radu informovali o práci Parlamentu. Na našem posledním zasedání Rady ministrů v Lucemburku jsem například písemně osobně informoval každého ministra o postoji Parlamentu ke každému z témat, která jsme měli projednávat v Radě.
+<P>
+Až vydáte zítra stanovisko Parlamentu, budeme společně s Mariann Fischer Boelovou moci usilovat o politickou dohodu v této Radě. Před zahájením - a zdůrazňuji před zahájením - této poslední fáze jednání budu informovat ministry o výsledku vašeho hlasování o kontrole stavu.
+<P>
+Jako vždy, dámy a pánové, není snadné najít kompromis, neboť řada významných bodů zde zůstává nevyřešena. Jedná se o otázky, které nás rozdělují, ale jsme odhodláni - předsednictví je odhodláno - najít společně s Komisí a s ohledem na hlasování zde v Parlamentu nejlepší možný dynamický kompromis.
+<P>
+Práce v Radě ukázala, že jako ministři sdílíme v řadě oblastí obdobné obavy, jaké má Parlament. Uvedu dva příklady: zaprvé je to hledání vyšší pružnosti, pokud jde o článek 68, zadruhé ponechání výjimečných tržních opatření v případě rozsáhlého ohrožení veřejného zdraví, článek 44 jediného nařízení o společné organizaci trhu, přičemž obě tyto otázky budou zahrnuty do závěrečného kompromisu.
+<P>
+Mohu vás, paní předsedající, dámy a pánové, ujistit, že mezi těmi nejcitlivějšími otázkami existují nejméně dvě témata, která jsou mimořádně citlivá: otázka mléka a otázka odlišení. V Radě jsme vedli diskuse právě tak do hloubky, zaníceně a živě, jak jsem to slyšel nebo sledoval zde v Parlamentu. Na obou těchto fórech byly vyjádřeny stejné obavy.
+<P>
+Tato dnešní rozprava a zítřejší hlasování o kontrole stavu jsou proto velmi důležitými kroky, které znovu dokládají nezastupitelnou úlohu Parlamentu, jež Parlament musí dál plnit. Je to v každém případě kvůli tomuto duchu, konkrétně duchu posíleného dialogu, duchu spolurozhodování, proč jsem po dobu několika měsíců chtěl pracovat jménem předsednictví.
+<P>
+Proto mne, stejně jako bezpochyby i paní komisařku, velmi těší, že vás mohu dnes dopoledne vyslyšet, zodpovědět některé vaše otázky a vést s vámi tuto závěrečnou diskusi.
+<SPEAKER ID="014" NAME="Mariann Fischer Boel">
+členka Komise. - Paní předsedající, dříve než přejdu k podrobnějšímu obsahu této diskuse, chci poděkovat panu Capoulas Santosovi za práci, která byla odvedena na této zprávě. Zcela jistě tuto těžkou práci nepodceňuji a jak se již pan Capoulas Santos sám zmínil, počet pozměňovacích návrhů samozřejmě daný úkol spočívající v hledání terénu pro "měkké přistání" nijak neusnadnil.
+<P>
+Strávili jsme více než rok společnou diskusí o kontrole stavu, někdy skutečně velmi důkladnou, nejprve na základě Goepelovy zprávy a dnes konečně na základě Capoulas Santosovy zprávy. Nemyslím si, že je třeba, abych zdůrazňovala svou vděčnost za konstruktivní spolupráci, se kterou jsem se setkávala ze strany Parlamentu, a to, že jsme se vždy snažili naslouchat a nalézt kompromisní řešení, které nebude oběma stranám příliš vzdálené.
+<P>
+Vzhledem k omezenému času bude pro mě zcela nemožné, abych zacházela do podrobností, proto se zaměřím na některá z nejdůležitějších témat této zprávy, přičemž začnu odvětvím mléka.
+<P>
+Rok 2007 byl možná velmi zvláštním, ale dozajista poučným rokem. Dospěli jsme v tomto roce k jednomu zjištění, a to že náš režim kvót neumožňuje produkovat dostatek potravin pro uspokojení poptávky. Proto jsme zaznamenali takové ceny mléčných výrobků, které jednoduše převyšují strop. Znám názor poměrně velkého množství zemědělců, že dokud to trvalo, bylo to pěkné, ale najednou tu máme prudký pokles cen, který je způsoben vyšší produkcí reagující každopádně na vyšší ceny.
+<P>
+Mám za to, že v současnosti toto odvětví opravdu bojuje o to, aby získalo zpět některé ze zákazníků, kteří se od odvětví mléka a mléčných výrobků odklonili, neboť považovali ceny za příliš vysoké. Vidím tedy, že Parlament navrhuje navýšení o 1 %, ale jen na dva roky, takže se jedná o navýšení o 2 % do roku 2010.
+<P>
+Domnívám se, že je nutné, abychom přezkoumávali důsledky rozhodnutí, která budou přijímána v odvětví mléka, ale rok 2010 bude na to příliš brzy a myslím si, že bychom měli trvat na roce 2011, a současně jasně ukázat, že budeme v roce 2011 připraveni o všem jednat. Je ovšem pravda, že systém kvót skončí v roce 2015.
+<P>
+Na základě proběhlých diskusí jsem si rovněž uvědomila, že existuje silný tlak na to, aby bylo dosaženo tohoto fondu pro mléko. Souhlasím s tím, že by měla být upravena, případně přijata, některá doprovodná opatření, a jsem přesvědčena, že lze mnohé udělat v rámci nového článku 68.
+<P>
+Uznávám, že současný článek 69 je příliš úzký a příliš restriktivní na to, aby byl použit s výhledem do budoucna, takže v současnosti otvíráme možnosti v novém článku 68. Jestliže dokážeme dobře propojit článek 68 s novými příležitostmi v rozvoji venkova, jsem si poměrně jistá, že najdeme řešení specifických problémů, se kterými se v některých regionech setkáváme.
+<P>
+Pokud jde o režim jednotné platby, o oddělení plateb od produkce, Komise navrhuje, abychom zachovali možnost oddělit platby ve dvou nebo třech oblastech - chovu kojných krav, ovcí a koz - neboť uznáváme, že se setkáváte v těchto třech oblastech se specifickými problémy. Vaším cílem je zachovat i oddělené prémie na chov skotu samičího pohlaví, bílkovinné plodiny a sušená krmiva. Můj zásadní názor je, že je důležité režim oddělit - to je skutečně principiální prvek veškerých reforem, které jsme uskutečnili - a je nezbytné znovu přezkoumat možnosti zjednodušení a využít každé příležitosti k tomu, abychom náš režim zjednodušili. Jsem ovšem otevřena hledání řešení, které by bylo méně komplikované než to, které jsme navrhli.
+<P>
+Navrhli jsme postup oddělení ve dvou fázích a byla bych ochotna, spolu s předsednictvím, provést jej v jedné fázi, ale odložit jej na rok 2012 - poslední rok, ve kterém je možné podat žádost - takže se účinek projeví v rozpočtovém roce 2013. Máte pravdu v tom, že by věci měly být co nejjednodušší. Jak jsem již řekla, článek 68 bude použit jako pružnější nástroj, ale s určitým omezením, neboť chcete takový stav, kde můžete oddělit 10 %. Myslím si, že bychom měli být obezřetní a nedospět ke stavu, kde dojde k oddělení "zadními vrátky", prostřednictvím článku 68.
+<P>
+V neposlední řadě si myslím, že pokud jde o odlišení, o rozvoj venkova a nové úkoly, shodneme se na tom, že potřebujeme více peněz k tomu, abychom mohli řešit tyto nové úkoly. Změna klimatu je na předním místě. Musíme také nalézt nové způsoby hospodaření s vodou. Voda je omezený zdroj, ovšem zdroj nesmírně důležitý pro zemědělství, zejména v některých jižních oblastech, a proto je třeba hledat nové technologie co možná nejinteligentnějšího využívání vody, které by mohly zamezit jejímu plýtvání. Dá se to provést, ale samozřejmě to vyžaduje peníze.
+<P>
+Navrhla jsem proto tento převod z prvního do druhého pilíře: 8 % postupně během tří let. Vím, že se možná zítra při hledání kompromisu k této otázce vrátíme, zdůraznila bych však, že peněz bude rozhodně zapotřebí, stejně jako jich bude zapotřebí na zachování biologické rozmanitosti a na opatření v odvětví mléka, která jsme do režimu zavedli.
+<P>
+Nebudu zacházet do podrobností co se týče progresivního odlišení. Znám vaše názory a vím, že teď říkáte "1, 2, 3". Jsem přesvědčena, že v této otázce opět nalezneme důstojný kompromis.
+<P>
+Dotkla jsem se jen nejdůležitějších otázek a jsem si jista, že budu mít příležitost reagovat po rozpravě, jsem však odhodlána, společně s předsednictvím, nalézt důstojný kompromis. Všichni víme, že nikdy nedosáhneme všeho, co si přejeme, takže si myslím, že bude na nás všech, abychom přijali myšlenku, že musíme "udělat nemožné", abychom nalezli kompromis, ze kterého bude čerpat výhody odvětví zemědělství v Evropě v globalizovanějším světě.
+<SPEAKER ID="015" NAME="Kathalijne Maria Buitenweg">
+navrhovatelka stanoviska Výboru pro životní prostředí, veřejné zdraví a bezpečnost potravin. - (NL) Paní předsedající, Výbor pro životní prostředí, veřejné zdraví a bezpečnost potravin si sice značně cení toho, že je orgánem, kterému je přikládán velký význam, neznamená to však, že Parlament nemůže zavádět významnější změny; pak ovšem platí, že o tom musí být výbor v náležitém předstihu informován a že lidem by mělo být nabídnuto také alternativní řešení.
+<P>
+Evropská komise předložila v loňském roce sdělení o stavu společné zemědělské politiky, která vyžaduje radikální reformu. Záměrem bylo učinit dramatické škrty v přímých dotacích a zlepšit výstupy ve smyslu ochrany životního prostředí a zaměstnanosti. Byli jsme skutečně zklamáni tím, jak byly návrhy zformulovány, a zejména řadou nevýznamných škrtů v přímých dotacích, jež tyto návrhy obsahovaly. Zemědělci by neměli být dotováni podle minulých výnosů nebo podle vlastnictví půdy. Výbor pro životní prostředí by uvítal, kdyby se dotace uskutečňovaly na základě veřejné služby, kterou zemědělci poskytují, jako je například vyšší biologická rozmanitost a hospodaření s vodou, a na základě činností, kterými tito zemědělci přispívají k ochraně životního prostředí, dobrým životním podmínkám zvířat a zabezpečení dodávek potravin nad rámec závazných požadavků. Chtěli bychom, aby tento systém fungoval od roku 2020.
+<P>
+Hovoříme zde dnes o úbytku včelstev. Aby se situace v této oblasti zlepšila, bude nutné omezit používání rozprašovačů, a bude nezbytné podpořit biologickou rozmanitost zavedením nárazníkových zón. Problémem jsou v této souvislosti genové inženýrství a jednostranné intenzivní zemědělství. Doufám, že se dnes večer, tak jako dnes dopoledne, zavážeme k zemědělství, kde se pěstování plodin na orné půdě a příroda navzájem posilují.
+<SPEAKER ID="016" NAME="Markus Pieper">
+navrhovatel stanoviska Výboru pro regionální rozvoj. - (DE) Paní předsedající, paní komisařko, dámy a pánové, dosáhli jsme určitého pokroku na cestě k volnému zemědělskému trhu, a to z hlediska pravidel otevírání trhu i ve smyslu sociálního a hospodářského polštáře v evropských politikách.
+<P>
+Vítám skutečnost, že už Komise přijala pozitivní postoj ohledně několika návrhů Parlamentu. Chtěl bych dále poděkovat zpravodaji, který začlenil řadu návrhů Výboru pro regionální rozvoj týkajících se odlišení a rozvoje venkova. Nadále nás však jedna otázka znepokojuje: chceme více malých zemědělských podniků vyjmout z dodatečného krácení zdrojů. Výbor pro regionální rozvoj a mnoho dalších kolegů se domnívá, že by se měl tento limit pro vyjmutí zvýšit na maximálně 10 000 EUR.
+<P>
+Není to, paní komisařko, navzdory tomu, co řekli jiní a co je nám všem dobře známo, absurdní návrh. Náš návrh je velice seriózní, protože jeho cílem je umožnit zemědělcům, aby mohli plánovat s jistotou, že se stanou součástí tržního hospodářství, a současně zachovává přísliby dané v zemědělských reformách z roku 2003. Malé zemědělské podniky byly zejména postiženy turbulencemi na trhu, k nimž došlo v uplynulých měsících. To je důvod, proč bychom jim měli nabídnout politickou podporu. Ovšemže by tento program mohl omezit zvláštní programy v konkrétních odvětvích. Musíme si však být vědomi nedostatků v našem režimu. Nemůžeme na jedné straně škrtnout prémie pro zemědělce vyrábějící mléko a mléčné výrobky a na druhé straně zmiňovat jako záchranné řešení fond pro mléko financovaný tímto způsobem.
+<P>
+Jsou-li pro tyto strukturální změny potřeba peníze, musíme je najít v nevyužitých zemědělských a strukturálních fondech. Zemědělská politika zůstane protichůdná a nevypočitatelná, dokud si s ní budeme takto zahrávat. Proto jako Výbor pro regionální rozvoj požadujeme jistotu plánování, pokud jde o programy rozvoje venkova a také příjmy zemědělců. Obojí bude možné, pouze pokud v budoucnu důsledně oddělíme operativní přístup vyrovnávacích plateb od regionálních programů. Uvítali bychom návrhy Komise v tomto směru.
+<SPEAKER ID="017" NAME="Lutz Goepel">
+, jménem skupiny PPE-DE. - (DE) Paní předsedající, bůhví že dvě minuty jsou velmi krátká doba na to, aby mohla být zhodnocena roční svědomitá práce, jež byla odvedena na této kontrole stavu. Mám jen několik poznámek. Rád bych připomenul toto: V listopadu 2007 doporučovala Komise 8% odlišení plus 45% snižování. V Goepelově zprávě se mluvilo o 4% progresivním odlišení, tedy odlišení v závislosti na velikosti zemědělského podniku. Slyšeli jsme potom o 8% základním odlišení a 9% progresivním odlišení v celkové výši 17 %, jak je navrhovala Komise, a nedávno jsme dosáhli výše 5 % při hlasování ve výboru. Pro nás bylo důležité to, že by veškeré zdroje odlišení měly zůstávat v regionu a měly by být použity nezávisle na velikosti podniku nebo jeho právní formě.
+<P>
+Paní komisařko, požadovala jste větší flexibilitu pro členské státy po dobu přechodu na nový režim. Bylo by tak lépe možné zavést další oddělení a opustit tradiční referenční hodnoty. S tím v zásadě souhlasím. Rozprava ve výboru ukázala, že to není vhodné ve všech odvětvích, a je třeba mít na paměti zejména odvětví pěstování užitkových rostlin, neboť se odkláníme od menších organizací trhu. Nové úkoly a rostoucí globální mobilita na trzích si žádají nový, pružný mechanismus. Pokud jde o odvětví mléka, podařilo se nám dále nově formulovat článek 68, abychom podpořili znevýhodněné regiony.
+<P>
+Nakonec se dostáváme k mléku, nejkomplikovanějšímu problému v tomto hodnocení. Protože je odvětví mléka a mléčných výrobků opravdu hodně složité, dal bych přednost tomu, abychom se zabývali tímto souborem otázek v rámci variant a doplňkových opatření, jež budou součástí zprávy, která o tomto tématu pojedná komplexně ve chvíli, kdy budou v roce 2010 nebo 2011 zrušeny kvóty. Přesto je fond pro mléko poměrně velký a zemědělcům v odvětví mléka, především ve znevýhodněných oblastech, poskytne dodatečnou podporu. Podporu investic do zemědělských podniků v odvětví mléka bez vázaných kvót v celé Evropské unii bychom měli brát vážně, neboť může snížit nákupní tlak, se kterým se podniky potýkají.
+<P>
+Mám ještě jednu osobní poznámku: chtěl bych poděkovat celému týmu, že tento balíček úspěšně dokončili v době mého aktivního působení jako poslance Evropského parlamentu za francouzského předsednictví.
+<P>
+(Potlesk)
+<SPEAKER ID="018" NAME="Stéphane Le Foll">
+jménem skupiny PSE. - (FR) Paní komisařko, pane ministře, pane Capoulas Santosi, chci také promluvit, a jak před okamžikem řekl pan Goebbels, dvě minuty na takovou významnou zprávu není dostatečně dlouhá doba.
+<P>
+To, co se chystám říci, je docela prosté. Nejprve bych chtěl hájit vyváženost této zprávy, kterou dnes předkládá pan Capoulas Santos. Bylo nutné aktualizovat společnou zemědělskou politiku, což je cílem kontroly stavu, ale na druhé straně bylo třeba udržet jednotu této politiky na evropské úrovni a zároveň umožnit, aby byla i nadále politikou, která určuje hlavní směry v zemědělství v celé Evropě. To je vyváženost, kterou chci obhajovat, a dovolte mi, abych k tomu použil čtyři příklady.
+<P>
+Prvním příkladem jsou kvóty pro mléko, které vyvolaly řadu diskusí, a říkám upřímně, že podle mého názoru je postoj, který byl nalezen, správný. Musíme zachovat v této věci obezřetnost. Všichni ti, kdo chtějí jednat rychle, aby zvýšili vyrobené množství a skoncovali s tržními mechanismy, podstupují významné riziko, že ceny mléka výrazně klesnou, a říkají si o mimořádně obtížnou práci, která bude souviset s restrukturalizací.
+<P>
+Oddělení podpory: zde jsme opět nalezli postoj, který je podle mého názoru vyvážený. Úplné oddělení ohrožuje mnoho oblastí produkce. Musíme chránit rozličné typy produkce v Evropě: chov ovcí, skotu, koz, a malovýrobu zeleniny.
+<P>
+Pokud jde o mechanismy regulace, můžeme se de facto vydat cestou pojištění, ale musíme rovněž ponechat veřejné mechanismy, které umožňují prevenci a regulaci; a právě to je v této zprávě velmi důležité, a tak by to mělo zůstat.
+<P>
+A konečně pokud jde o celkový vývoj podpory a způsob, jakým v tomto případě postupujeme, chci říci, že úpravami a omezeními článku 68 byla přijata významná opatření; jsou to správná opatření na cestě k udržitelnosti našeho modelu globální zemědělské produkce. Musíme mít na paměti zachování takového provozního modelu, který stojí na jednotlivcích a skupinách a který zohledňuje tři cíle, totiž cíl hospodářský, environmentální a sociální.
+<SPEAKER ID="019" NAME="Niels Busk">
+jménem skupiny ALDE. - (DA) Paní předsedající, kontrola stavu byla prezentována jako způsob, jak dosáhnout zjednodušení a odstranit byrokracii. To byla klíčová témata na počátku naší diskuse. Dále jsme slyšeli, že bychom měli připravit zemědělství v EU na nárůst volného obchodu - a zejména na nové období po roce 2013, kdy má skončit platnost stávající dohody. Současně bylo pro nás v Evropě velmi důležité přijmout náš díl odpovědnosti za produkci kvalitních potravin - nikoli jen pro evropské spotřebitele, ale pro celý svět, zejména pro stále početnější část světové populace, kde vzniká poptávka po potravinách.
+<P>
+Odvětví mléka bylo oblastí, kde jsme plánovali vyzkoušet, zda jsme v Evropě připraveni vyřešit problém vyšší produkce. V této souvislosti si myslím, že je zklamáním podílet se na diskusi o tom, zda bychom měli začít s tzv. měkkým přistáním a dát výrobcům mléka, kteří chtějí vyrábět, příležitost, aby svou produkci mléka zvyšovali. Pro mě je to signálem, že v Evropě nejsme připraveni na změnu, která zítra, a zejména po roce 2013, bude nutná.
+<P>
+Pokud jde o zjednodušení a o snížení byrokracie - odstranění překážek pro zemědělce - musíme konstatovat, že není právě snadné nalézt jednoznačné či hojné příklady toho, jak jsme zjednodušili postupy nebo snížili byrokracii. Celý problém vzájemné podmíněnosti, kde existují obrovské rozdíly mezi členskými státy, je oblastí, kde podle mne potřebujeme jednoznačně dosáhnout zlepšení. Nejdůležitější poznámkou je to, že by tento přezkum zemědělské politiky měl podle mého názoru mnohem jasněji určit směr, kterým by se mělo zemědělství vydat po roce 2013, kdy skončí platnost dohody.
+<P>
+Pozitivním prvkem je politika venkovských oblastí a zde je přirozeně nezbytné, aby zdroje pocházející z oddělení zůstávaly v těchto venkovských oblastech, a skutečně tak mohly sloužit k jejich rozvoji. Nakonec bych ještě přivítal - a myslím si rovněž, že by to prospělo evropskému zemědělství - kdybychom se zde v Parlamentu více drželi návrhu, který Komise před nedávnem předložila.
+<SPEAKER ID="020" NAME="Janusz Wojciechowski">
+jménem skupiny UEN. - (PL) Paní předsedající, dva bratři dostali od rodičů sáček bonbónů. Rozdělme se spravedlivě, řekl starší z nich, a mladší mu na to odpověděl: raději bych se rozdělil stejným dílem. Tento příběh popisuje vztahy mezi starými a novými členskými státy v oblasti zemědělství. Staré státy dostávají více a nové několikanásobně méně.
+<P>
+Chápeme, že se jedná o přechodné období, ale proč by měl tento stav přetrvávat po roce 2013? Proč by nové státy měly i nadále dostávat řádově dvakrát až třikrát nižší podporu než staré státy? Stále slyšíme, že je to spravdlivé a že jsou k tomu historické důvody. Ale my nechceme tento druh spravedlnosti, chceme rovnost. Existovala určitá zdůvodnění pro tyto nerovnosti v rámci režimu podnikových prémií, který zvýhodňoval zemědělce, kteří vyráběli více. V současnosti, kdy jsme se posunuli k subvencím, však již neexistuje žádné ospravedlnění pro tuto diskriminaci. Ta musí po roce 2013 skončit a nesmíme dopustit žádné dělení na staré a nové členy. My, noví členové, chceme být také starými!
+<P>
+(Potlesk)
+<SPEAKER ID="021" NAME="Friedrich-Wilhelm Graefe zu Baringdorf">
+jménem skupiny Verts/ALE. - (DE) Paní předsedající, paní komisařko, tyto diskuse se konají za nevýhodných okolností. Kdyby Irsko hlasovalo rozumně, měli bychom příležitost mluvit o zemědělských otázkách a o financování v zemědělství od 1. ledna 2009.
+<P>
+V současnosti probíhají naše diskuse podle staré výjimky, i když úřadující předseda Rady pan Barnier vyslovil souhlas s naší účastí. Je to laskavá nabídka, zůstává však jen zbožným přáním, neboť jsou věci takové, jaké jsou. Ukazuje se to také v návrhu dokumentů Komise. První návrh, jehož byl pan Goepel zpravodajem - před okamžikem nám poskytl příslušné hodnoty - ustanovil významné snižování: 10, 25, 45. Parlament tato čísla strávil a doplnil je o náklady na jednotku pracovní síly podléhající zvláštním příspěvkům na pojištění. To mělo postihovat přerozdělení, které by bylo příkladem, co se týče roku 2013.
+<P>
+Nyní je naší obavou, že budeme v roce 2013 čelit lineárnímu snížení. Co se týče hodnot, které byly před okamžikem zmíněny Komisí, je třeba říci, že původní představy se rozplynuly. Tento návrh je přinejmenším vlažný a nemá nic společného s diagnózou, kterou Parlament správně předložil a s níž souhlasím. Byla zde připomenuta klíčová témata: voda, klima, genetická rozmanitost, obnovitelné energie a produkce mléka. Všechny tyto oblasti musí být brány v úvahu, ale akce, kterou Parlament navrhuje, je jednoduše absurdní.
+<P>
+Dovolte mi, abych se krátce vyjádřil k odvětví mléka. Asi si uvědomujete situaci v mlékárenském průmyslu. Existuje nadprodukce mléka a ceny klesly na katastrofální úroveň. Parlament navrhuje záležitosti urychlit a zvýšit výrobní příležitosti. Tržní hospodářství však znamená výrobu v souladu s poptávkou. Navrhujete něco, co se podobá automobilovému průmyslu, který krátí nebo ruší vánoční odstávku, aby zorganizoval směny navíc a zvýšil výrobu automobilů uložených ve skladech. Tento přístup je naprosto mylný a podporuji to, co řekl před okamžikem pan Goepel, totiž že by bylo rozumné neregulovat teď produkci mléka v souvislosti s kontrolou stavu, ale spíše tehdy, až budeme mít konečně analýzy trhu, které jsou již tak dlouho slibované, ale stále ještě nebyly zrealizovány, a že bychom pak v mlékárenském odvětví měli dojít k rozumnému závěru, který bude vyhovovat trhu a požadavkům zemědělců.
+<SPEAKER ID="022" NAME="Vincenzo Aita">
+jménem skupiny GUE/NGL. - (IT) Paní předsedající, dámy a pánové, myslím si, že dnešní rozprava a hlasování, které bude zítra následovat, představují významnou fázi politiky Společenství v oblasti zemědělství.
+<P>
+Myslím si, že v Evropě potřebujeme, kvůli tomu, co se stalo v minulých, a hlavně posledních dvou letech, ještě silnější společnou zemědělskou politiku. Namísto toho jsme touto zdlouhavou prací a prací, kterou odvedl pan Capoulas Santos, některé otázky řešili, činili jsme tak ovšem v rámci starého režimu. Dvě otázky, které se během těchto dvou uplynulých let staly ústředními, bych teď rád zdůraznil. Začali jsme s kontrolou stavu společné zemědělské politiky z roku 2003.
+<P>
+Některé údaje nás vedly k tomu, abychom se zamysleli nad tím, zda jsme na správné cestě, i když za ten rok a půl byla odvedena skvělá práce. Přicházíme o velké množství pracovních míst v zaměstnaneckém poměru, jedná se přibližně - podle údajů Eurostatu do roku 2005, a tak nevíme, co se zde událo v roce 2007 a 2008 - o dva miliony zaměstnanců, které jsme ztratili v tomto stabilním, sezonním a rodinném zaměstnaneckém sektoru. Počet podniků, které jsme ztratili od roku 2003 do roku 2005 - opět podle údajů Eurostatu - je 611 000. V době, jako je tato, v hospodářské krizi, dochází k tomu, že členské státy mohutně zasahují u bank a v průmyslu, ale v žádné zemi se nehovoří o stavu zemědělství, neboť se očekává, že vše bude dosaženo v rámci politiky Společenství a společné zemědělské politiky.
+<P>
+Myslím si, že tím, co děláme, jdeme proti skutečným potřebám zemědělců a tomu, co tito zemědělci skutečně chtějí: je to pomoc těmto podnikům, aby se vymanily z podřízeného postavení vůči zpracovatelům a vůči obchodníkům, neboť další skutečnost je ta - a tím končím -, že za poslední dva nebo tři roky ztratily zemědělské společnosti podíl na příjmech, a těží z toho transformace v odvětví obchodu.
+<P>
+To byla témata, kterými jsme se měli zabývat, a z tohoto hlediska je hodnocení velmi negativní, pokud jde o to, o čem budeme pozítří v této sněmovně hlasovat.
+<SPEAKER ID="023" NAME="Witold Tomczak">
+jménem skupiny IND/DEM. - (PL) Paní předsedající, finanční diskriminace vůči rodinným zemědělským podnikům a vůči novým členským státům, to jsou dva základní mechanismy společné zemědělské politiky, které oslabují EU a jdou proti jejím hlavním cílům. Navržené změny se od těchto mechanismů nijak neodklánějí. Jak můžeme spravedlivě reformovat evropské zemědělství, když ignorujeme 95 % všech zemědělských podniků? Těchto 95 % jsou rodinné zemědělské podniky, s výměrou do 50 ha. Dostává se jim však pouze zlomku zemědělských dotací EU. Nejbohatší zemědělské podniky, kterých je jen 1 %, obdrží více než 9 miliard EUR, jinak řečeno, více než 90 % dotace určené všem zemědělským podnikům. Tato politika postihuje rodinné zemědělské podniky, jež jsou páteří evropského zemědělství. Současná a navrhovaná zemědělská politika povede k úbytku obyvatel na venkově, zhoršení stavu životního prostředí a problémům se zabezpečením potravin pro regiony, státy a EU jako celek.
+<SPEAKER ID="024" NAME="Peter Baco" AFFILIATION="NI">
+- (SK) Návrhy Komise na kontrolu stavu SZP byly formulovány ve zcela odlišných podmínkách, než v jakých se nacházíme dnes. Dnes je třeba věnovat více pozornosti zejména zmírnění rostoucí nestability zemědělských trhů, rychlejšímu přibližování se ke světovým cenám, zdůrazňování nenahraditelného postavení zemědělství ve společnosti, posilování systémové stránky SZP a především lepšímu využití potenciálu diskriminovaného zemědělství v nových členských státech.
+<P>
+Pozměňující návrhy výboru AGRI bohužel už jen částečně korigují nedostatečnou reakci Komise na tyto akutní potřeby dneška. Komise například prosadila uplatnění progresivního odlišení jako snahu ukázat obyvatelům EU svou schopnost eliminovat vysokou úroveň podpory zemědělství.
+<P>
+To je v rozporu s rostoucí potřebou koncentrace výrobních faktorů. Co je však úplně nesmyslné, je neochota akceptovat návrhy, aby se na takový podnik nenahlíželo jako na majetek vlastníka půdy, ale jako na racionální a perspektivní sdružení malých samostatných nekonkurenceschopných vlastníků půdy. Tedy jediného podílníka je třeba akceptovat jako jednoho zemědělce.
+<P>
+Chci proto poprosit pana Barniera, předsedu Rady, aby dal prostor návrhům řešícím tento problém i na jednání Rady.
+<SPEAKER ID="025" NAME="Neil Parish" AFFILIATION="PPE-DE">
+Paní předsedající, dovolte mi začít poděkováním - komisařce Mariann Fischer Boelové, panu Barnierovi - úřadujícímu předsedovi Rady, panu Capoulas Santosovi - zpravodaji, a také Lutzu Goepelovi za spolupráci, a rovněž všem členům výboru za jejich těžkou práci, neboť je nás 27 členských států, a třebaže nemáme 27 postojů k této zprávě, máme jich poměrně dost, a ve výboru jsme se sjednotili, abychom dosáhli toho, co já považuji za citlivý kompromis. Chtěl bych také poděkovat paní komisařce za její spolupráci a pomoc, a zejména panu Michelu Barnierovi, neboť jsme vedli posílenou spolupráci, pokud ne přímo spolurozhodování.
+<P>
+Musíme se teď pohnout kupředu a přijmout zprávu a dosáhnout kompromisu a postoje, aby zemědělci v Evropě přesně věděli, kam všichni směřujeme.
+<P>
+Je třeba vyrábět potraviny - viděli jsme to jasně minulý rok - a je třeba sejmout ze zemědělců byrokracii, je třeba zjednodušit postupy. Je také třeba, aby zemědělci činili podnikatelská rozhodnutí, sami za sebe. Proto se musíme pohnout kupředu. Ano, potřebujeme určité krizové řízení, nesmíme se však vrátit do časů zásahů - rovnováha musí být zaručena.
+<P>
+Mnozí z nás létají po celé Evropě, a když přistáváme, máme rádi hladké přistání, a kvóty pro mléko také potřebují hladké přistání. Potřebujeme uvolnit trh. Paní komisařka uvedla, že v loňském roce existovala poptávka po mléčných výrobcích, tento rok již ani tak ne - ale příští rok by mohla být opět větší poptávka a my potřebujeme být pružní v tom, abychom tuto poptávku uspokojili.
+<P>
+Zemědělství a venkovské prostředí je jedno a totéž, a my se musíme posunout, abychom zajistili, že budeme schopni řešit změnu klimatu a hospodaření s vodou, že se budeme zabývat biopalivy a bioplynem a že skutečně zajistíme Evropě silnou pozici. Nesmíme udělat krok zpět, neboť jsme v silné pozici, i co se týče WTO. Pohněme se, a zemědělskou politiku skutečně reformujme.
+<SPEAKER ID="026" NAME="Brian Simpson" AFFILIATION="PSE">
+Paní předsedající, chci nejprve připojit své poděkování našemu zpravodaji za všechnu obtížnou práci, kterou odvedl na tomto citlivém tématu.
+<P>
+Navzdory tomuto velkému úsilí se však obávám, že já a moje národní delegace nemůžeme tuto zprávu podpořit. Myslím si, že SZP potřebuje radikální reformu. Je třeba opustit starý režim přímých dotací do zemědělství a posunout se k režimu orientovanému na trh a zdůrazňujícímu udržitelnost venkova a životní prostředí, uznávajícímu účinný systém hospodaření namísto toho, aby udržoval při životě neúčinné zemědělství. Tato zpráva sama o sobě sice není hlavním reformním dokumentem, ale přesto určuje tón budoucím reformám po roce 2013. Proto jsem zklamán výsledkem hlasování ve Výboru pro zemědělství, které opět - zdá se - vedlo k tomu, že se tento výbor obrátil zády k zásadní reformě tohoto problematického režimu.
+<P>
+Zdůraznil bych zejména povinné odlišení. Nemohu podporovat postoj, který bude znamenat méně peněz do rozvoje venkova a kde jsou navíc členské státy zbaveny nutnosti spolufinancovat prostředky plynoucí z nového odlišení. Nemohu podporovat ani názor výboru, že bychom měli ustoupit také od úplného oddělení, své největší obavy si však vyhrazuji pro Komisi. Je správný váš postoj, paní komisařko, pokud jde o povinné odlišení. Je správný váš postoj ohledně oddělení. V tomto ohledu máme Komisi, která skutečně chce reformovat SZP, tato Komise však čelí Parlamentu, který neplní své závazky a věří, že nové úkoly, které před námi stojí, by mohly být vyřešeny lpěním na tomto starém problematickém režimu. Držte se, paní komisařko, máte pravdu, a já mám bohužel obavy, že tato sněmovna se bude mýlit.
+<SPEAKER ID="027" NAME="Jan Mulder" AFFILIATION="ALDE">
+(NL) Paní předsedající, já, jak víte, nejsem nadšený ze žádného z návrhů kontroly stavu. Kdybych byl zemědělcem a v roce 2005 počítal, co mohu očekávat do roku 2013, bylo by to - budete-li mít se mnou strpení - 8% snížení vlivem odlišení, 10% snížení kvůli vnitrostátním rezervám a je možné, že 9% snížení v důsledku limitu vysokých bonusů, tedy celkové snížení o 27 %. Jak se v budoucnosti může průměrný zemědělec spoléhat na to, že evropská vláda splní, co slíbila? Paní Buitenwegová uvedla, že 27 % nic neznamená, myslím si ale, že je to hodně daleko od toho, co bylo slíbeno. Rovněž nesouhlasím s odlišením a upřednostnil bych také, aby byl mnohem více omezen limit celkových bonusů.
+<P>
+Pokud jde o vnitrostátní rezervy, o kterých jsem hovořil, domnívám se, že bychom měli využít příležitost, kterou máme, totiž že bychom měli co nejdříve a po celé Evropě vytvořit systém pojištění proti chorobám, které postihují zvířata nebo rostliny. Dříve nebo později bude Evropa v důsledku toho, že lidé více cestují, řešit další nakažlivé nemoci zvířat, a naše rozpočty na to nejsou připraveny. V případě, že by se to znovu stalo, nevím, kde by na to Komise získala peníze. V takové situaci se dostává ke slovu systém pojištění.
+<P>
+Co se týče kvót pro mléko, lze jen konstatovat, že se stále více trhů vyvíjí celosvětově. To není podle mého názoru pro Evropu dobře, jestliže musíme říci například Američanům nebo Brazilcům, že daný trh bude jejich, pokud si to budou přát. Měli bychom se takového trhu rovněž účastnit, a to je důvod, proč jsou nutné kvóty pro mléko.
+<P>
+Mohli jsme přijmout tři opatření: snížit superdaň, postupně zvyšovat kvóty a každoročně vyrovnávat to, co nebylo dosaženo na úrovni plné mlékárenské kapacity zemědělci, kteří dojili mléko na plnou kapacitu, a dokonce tuto kapacitu překročili.
+<SPEAKER ID="028" NAME="Gintaras Didžiokas" AFFILIATION="UEN">
+(LT) Nejprve bych chtěl poděkovat všem, kteří svědomitě pracovali na těchto složitých, významných a podle mého názoru nejdůležitějších projektech v tomto roce, zejména zpravodaji Capoulas Santosovi. Nemám moc času, mohu se tedy vyjádřit jen k nejdůležitějším otázkám, které zneklidňují zemědělce v mé zemi.
+<P>
+V prvé řadě dochází po třinácti letech k zrovnoprávnění přímých plateb. To je velice důležité a hovoříme-li o solidaritě, spravedlivé hospodářské soutěži a jednotném trhu, musíme se podle toho chovat. Musíme zajistit, aby byla podpora rozdělována spravedlivě.
+<P>
+Druhou velice důležitou věcí je nutnost zrušit omezení na plochu půdy v souladu s podmínkou ze dne 30. června 2003. Pokud hovoříme o nedostatku potravin, světovém hladomoru a konečně i o biopalivech, pak nechme zemědělce, aby využili možností existujících zdrojů.
+<P>
+A co je nejdůležitější, musíme chránit financování společné zemědělské politiky Evropské unie a nedovolit, aby se zemědělský rozpočet roztříštil na financování všech možných pochybných nápadů.
+<SPEAKER ID="029" NAME="Alyn Smith" AFFILIATION="Verts/ALE">
+Paní předsedající, děkuji všem kolegům a blahopřeji jim k tomu, že nás dovedli k dnešnímu úspěšnému závěru. Rád bych však zopakoval zklamání kolegů nad tím, že jsme mohli jít dál a být poněkud ambicióznější, mějme však na paměti, že kontrola stavu nebyla nikdy ničím jiným než jen kontrolou stavu: zásadní reforma přijde později, a na to se musíme dnes soustředit.
+<P>
+Když přemýšlíme o roku 2013, je určitě třeba udělat ještě mnoho práce, neboť máme společnou zemědělskou politiku, která - jako každý jiný dobrý kompromis - nenechává za sebou nikoho obzvláště spokojeného. Zaměřím se tedy na poznámky Neila Parishe a také pana Piepera, že se musíme zamyslet nad budoucností a nad tím, čeho chceme společnou zemědělskou politikou dosáhnout. Zejména musíme v rámci této diskuse hovořit o reformě strukturálních fondů, neboť současná SZP je příliš složitá, komplikovaná a obtížně získává podporu veřejnosti, zatímco strukturální fondy by byly mnohem levnějším, účinnějším způsobem, jak poskytnout environmentální veřejné zboží. Musíme mít na paměti, že v SZP jde o poskytování přímé podpory výrobcům kvalitních potravin v místním zemědělství. Jestliže to budeme mít na paměti, půjdeme správným směrem. Je to velký cíl a dnešek je krokem na cestě k němu.
+<SPEAKER ID="030" NAME="Ilda Figueiredo" AFFILIATION="GUE/NGL">
+(PT) Této rozpravy o dalších úpravách společné zemědělské politiky se účastníme s jistými obavami, neboť jejich cílem je v podstatě zajistit větší liberalizaci a podřízenost mezinárodním trhům bez přihlédnutí k tomu, že zemědělství je strategickým odvětvím a že zabezpečení potravin a suverenita mají zásadní význam pro zajištění kvalitních potravin pro obyvatelstvo v našich zemích.
+<P>
+Stejně tak je nepřijatelná nedostatečná sociální citlivost, s níž je celá reforma prováděna, bez přihlédnutí k současnému závažnému problému nezaměstnanosti. Hrozí tak, že bude zničeno tradiční rodinné zemědělství, kde mimořádně závažný dopad bude mít snížení podpory pro malé zemědělce, oznámení o ukončení režimu kvót pro mléko, vrácení zemědělské politiky na vnitrostátní úroveň a trvalá nespravedlnost v přidělování podpory.
+<P>
+Trváme proto na návrzích, které jsme předložili, abychom zajistili podporu pro vyrábějící zemědělce, s cílem bojovat proti nestabilitě ve výrobních odvětvích kvůli rozdílům v cenách a zabránit úpadku venkova a poklesu počtu obyvatel v mnoha regionech.
+<SPEAKER ID="031" NAME="Georgios Georgiou" AFFILIATION="IND/DEM">
+(EL) Paní předsedající, zaprvé dlužíme poděkování našemu kolegovi Luisi Manuelu Capoulas Santosovi a všem ostatním, kteří se podíleli na tomto chvályhodném dokumentu.
+<P>
+Řecké venkovské oblasti, kde žijí lidé pěstující tabák, jsou nejchudší v Řecku; obávám se, že z absolutního hlediska jsou rovněž nejchudší v Evropě. Lidé, kteří tam žijí, nemají jinou práci než tabák a žádají jen o to, aby byl režim pro tabák prodloužen nejméně do roku 2013. Dále žádají, aby v zájmu podpory jejich příjmů byla napravena křivda z roku 2004, je-li to vůbec možné, a aby 50 % tabákových subvencí pokračovalo podle prvního pilíře, ale až od roku 2010. Tento požadavek je humanitární spíše než technický.
+<SPEAKER ID="032" NAME="Jim Allister" AFFILIATION="NI">
+Paní předsedající, v čase, který mám k dispozici, se zaměřím na odvětví mléka, neboť - jak paní komisařka z našeho setkání minulý týden ví - má v mém volebním obvodu potíže v souvislosti s pádem cen. Pokles cen posiluje můj názor, že zrušení kvót pro mléko je předčasné a nerozumné a že ke stabilizaci trhu nijak nepřispěje.
+<P>
+Stejně tak se mi zdá být zbytečné a pošetilé, s ohledem na nestabilitu, která v současnosti na trhu panuje, omezení rozsahu dostupných opatření pro řízení trhu. Potřebujeme smysluplné nástroje řízení trhu, jestliže máme dosáhnout a udržet na tomto trhu dno. Pokud tak neučiníme, hladkého přistání v mlékárenském odvětví nedosáhneme.
+<P>
+Vyjadřuji proto politování nad tím, že se v době, kdy některé členské státy projevují pružnost - a například Francie se odklání od nižších výdajů do odvětví chovu ovcí a Německo hovoří o fondu pro mléko -, chce Komise omezením své působnosti zavázat k tomu, že bude rušit opatření pro řízení trhu.
+<SPEAKER ID="034" NAME="Agnes Schierhuber" AFFILIATION="PPE-DE">
+(DE) Pane předsedající, paní komisařko, pane úřadující předsedo Rady, dovolte mi nejprve poděkovat zpravodajům za legislativní návrh a za zprávu z vlastního podnětu. Reformy v letech 2003 a 2004 byly významnými prvky celkového přetvoření společné zemědělské politiky. Důkladné prozkoumání společné zemědělské politiky není samo o sobě základní reformou, ale spíše dalším důležitým krokem na cestě k zajištění moderní, multifunkční a konkurenceschopné společné zemědělské politiky. Co se týče priorit, nedošlo k žádné změně. První je ochrana potravin, následuje výroba krmiv a zabezpečení dodávek energie.
+<P>
+O významu výroby mléka, zejména v horských oblastech, kde je pastevectví často jedinou možností, se tu již hovořilo. Chráníme v tomto případě pracovní místa, nejen životní prostředí, a to je podle mne stejně důležité. Důležitým bodem je podle mne příprava na hladké přistání po roce 2015. Jsem v současnosti proti obecnému zvyšování kvót pro mléko. Domnívám se, že v době, kdy máme vysoký přebytek ve výrobě mléka, bychom měli být opatrní. Každý, kdo podotýká, že důvodem ke zvyšování kvót jsou ceny potravin, zapomíná na to, že zemědělci zabývající se chovem mléčného skotu dostávají méně než 30 % prodejní ceny, zatímco prodejní cena v supermarketech - a to i v členském státě, odkud pocházím - je v současnosti stejná jako před dvaceti pěti lety.
+<P>
+Je třeba, aby byl druhý pilíř stabilizovaný, a nebyl přitom narušen pilíř první. Vítáme přehodnocení článku 68, za něž vděčíme rozhodovací samostatnosti členských států. Těší mne i to, že byla dosažena dohoda o fondu pro mléko, mimo jiné v souvislosti s výrobou v horských oblastech a znevýhodněných regionech.
+<P>
+Nakonec si dovolím říci, že pevně věřím, že v nejbližších dnech dosáhnou Rada a Komise kompromisu. Jsem si jistá, že společná zemědělská politika bude rozvíjena tak, aby bylo zajištěno, abychom také v budoucnosti měli multifunkční, udržitelnou zemědělskou výrobu ve všech regionech EU.
+<SPEAKER ID="035" NAME="Rosa Miguélez Ramos" AFFILIATION="PSE">
+(ES) Pane předsedající, paní komisařko, souhlasíme s cíli této kontroly stavu, nikoli však s navrhovanými opatřeními.
+<P>
+Hrozby, které představují současná klimatická, finanční, zdravotní a jiná rizika, znamenají, že společná zemědělská politika, která zdaleka není překonaná, musí hrát základní úlohu v zabezpečení potravin na světě a v ochraně našich venkovských společenství.
+<P>
+Naivně jsme se v době MacSharryho reformy z roku 1992 domnívali, že je plně zajištěna potravinová soběstačnost a že postavení každého subjektu bude určeno trhem. Uvědomili jsme si však, že stále globalizovanější trh nereaguje na sen trvalé zemědělské výroby, která by se vyznačovala bezpečnými potravinami a rozumnými cenami po celé Evropě.
+<P>
+Nárůst cen surovin - které teď opět klesají - byl pro nás užitečnou lekcí, neboť byl provázen růstem nákladů ve výrobě krmiv a hnojiv a řadu odvětví, například odvětví chovu ovcí a odvětví hovězího masa, zavlekl do hluboké krize.
+<P>
+Tento účinek, paní komisařko, bude pravděpodobně nadále trvat. Chci zmínit zejména odvětví chovu ovcí a odvětví mléka. Odvětví chovu ovcí upadá. Potřebuje podporu Společenství, jak žádal Parlament v červnu loňského roku, a článek 68 nebude dostačovat.
+<P>
+Co se týče odvětví mléka, je pro měkké přistání nutné přechodné období, které tomuto odvětví umožní přizpůsobit se a uskutečnit změny, bez zkostnatělosti, která je v současné době zapřičiněná omezeným množstvím kvót. Navíc, paní komisařko, není situace podobná nebo stejná ve všech členských státech.
+<SPEAKER ID="036" NAME="Donato Tommaso Veraldi" AFFILIATION="ALDE">
+(IT) Pane předsedající, dámy a pánové, rád bych poděkoval zpravodaji za jeho skvělou, přínosnou a inteligentní zprávu. Předmět kontroly stavu společné zemědělské politiky je skutečně velice důležitý, neboť se snaží zlepšit konkurenceschopnost evropského zemědělství.
+<P>
+Domnívám se, že je vhodné vyzdvihnout dvě témata: zvýšení kvót pro mléko, které umožní větší růst v zemích s deficitem a zemích, kde jsou překračovány vnitrostátní kvóty, a dále prodloužení vázané podpory pěstování tabáku.
+<P>
+Co se týče podpory pěstování tabáku, navzdory silnému odporu k přezkoumání dohody z roku 2004, který vyplývá z toho, že velká skupina zemí považuje za morálně nepřijatelné podporovat tabák kvůli jeho dopadům na veřejné zdraví, bych rád zdůraznil, že produkce surového tabáku v Evropě nepřekračuje 4 % světové produkce a že Evropská unie je vedoucím světovým dovozcem surového tabáku ze zemí mimo EU, aby pokryla více než 70 % své potřeby.
+<P>
+Proto si myslím, že naší povinností je nalézt spravedlivé řešení tak, abychom zabránili dalším následkům z hlediska hospodářství a zaměstnanosti, abychom zabránili tomu, že dojde k hromadnému opuštění pěstování tabáku.
+<SPEAKER ID="037" NAME="Andrzej Tomasz Zapałowski" AFFILIATION="UEN">
+(PL) Pane předsedající, jedním z nejdůležitějších úkolů společné zemědělské politiky bylo a je zajistit soběstačnost jednotlivých států Evropské unie v otázce zemědělství. Při čtení závěrů z přezkumu vidím, že navrhované změny zahrnují většinu z mechanismů, které jsou určeny ke zlepšení situace ve výrobě na jednotlivých vnitrostátních trzích. To je dobře. Jsem však znepokojen tím, že dosud neexistuje shoda o celkové změně v přístupu, která by vedla k vyrovnání dotace u všech států EU na stejnou úroveň, což by podpořilo zdravou hospodářskou soutěž v rámci Společenství a mimo ně.
+<P>
+Současný přezkum potvrdil, že ochranářské postoje vůči jednotlivým národním zemědělstvím ze strany tzv. starých členských států ve vztahu k nově přistoupivším státům v Evropské unii stále přetrvávají. Skutečnost, že jsem tu dalším řečníkem poukazujícím na tento problém, vypovídá o jeho závažnosti, a Komise jej přesto i nadále přehlíží. Je velice důležité, aby Parlament vzal na vědomí i nespravedlivé původní přidělení kvót pro mléko. To, že se dnes, i když pomalu, pokoušíme tento problém řešit, je dobře.
+<SPEAKER ID="038" NAME="Marie-Hélène Aubert" AFFILIATION="Verts/ALE">
+- (FR) Pane předsedající, paní komisařko, pane Barniere, v minulých třech dnech se konaly Evropské rozvojové dny, kde byla často zmiňována potravinová krize, která má závažný dopad na nejchudší země. Ve všech vystoupeních bylo zdůrazněno, že rozvojové země musí především rozvíjet vlastní zemědělství co nejlepším využitím své půdy a přírodních zdrojů.
+<P>
+Všechny ty nadšené výkřiky těch, kdo dnes a znovu požadují snížení státních zásahů a veřejných výdajů, totální liberalizaci, privatizaci a degradování zemědělství téměř na jakousi prehistorickou aktivitu, a proto tento obrat o 180 stupňů směrem k obrovským veřejným investicím do zemědělské výroby a potravinové soběstačnosti, se mimochodem jeví jako směšné a skandální zároveň.
+<P>
+Mezi budoucností zemědělství v rozvojových zemích a naší dnešní rozpravou existuje přímá souvislost. Nemám bohužel pocit, že by tato kontrola stavu společné zemědělské politiky, která byla zahájena dříve, než začaly nepokoje vyvolané cenou potravin a než katastrofální narušení trhů dospělo ke svému vrcholu, zohledňovala situaci, v níž se nachází zemědělská komunita na Jihu, či vyvozovala řádné závěry z vážné krize, které v současnosti čelíme z hlediska ekologického, sociálního, hospodářského a finančního.
+<P>
+Proto mne velice mrzí, že je v návrzích Komise i ve zprávě Parlamentu věnováno tak málo pozornosti robustním vztahům mezi zemědělstvím na Severu a na Jihu, a skutečnost, že je ohrožena přislíbená 1 miliarda EUR, ukazuje na to, že máme před sebou ještě dlouhou cestu.
+<SPEAKER ID="039" NAME="Sylwester Chruszcz" AFFILIATION="NI">
+(PL) Pane předsedající, s polskými zemědělci a zemědělci ze zemí střední a východní Evropy, které se připojily k Evropské unii, se zachází jako s druhořadými občany, a platí to mimo jiné pro dotace a pro kvóty pro mléko. Jsme dnes svědky rostoucí tendence směrem k zachování této diskriminace a nerovného zacházení i po roce 2013. Mějte prosím na paměti, že značný podíl zemědělských podniků ve východní části EU tvoří rodinné zemědělské podniky. Na tyto rodiny dopadají rozhodnutí přijatá v Bruselu a ve Štrasburku. Tito zemědělci hlasovali pro připojení k EU poté, kdy jim bylo přislíbeno rovné zacházení od roku 2013. Měli bychom jim nyní snad říci, že byli klamáni?
+<P>
+Apeluji na své kolegy poslance, abychom zajistili, aby naše společná zemědělská politika nebyla společná jen v názvu. Projevy ušlechtilých pocitů doprovázejí akce, které by mohly narušovat polské a evropské zemědělství, a s tím nemůžeme souhlasit.
+<P>
+Zemědělci z odborového hnutí Solidarita dnes protestují v Bruselu. Chtějí orgány EU upozornit na obtížnou situaci producentů mléka a pěstitelů obilnin. Podporuji je a myslím si, že protesty v Bruselu jsou nejlepším důkazem toho, že se zemědělstvím není vše v pořádku. Je nutno skoncovat s nerovným zacházením vůči starým a vůči novým členským státům.
+<SPEAKER ID="040" NAME="Esther Herranz García" AFFILIATION="PPE-DE">
+(ES) Pane předsedající, drtivá většina pěstitelů a chovatelů čeká na rozhodnutí a dohody, které od dnešního dne až do čtvrtka přijme k této kontrole stavu společné zemědělské politiky Rada ve složení pro zemědělství a rybolov. Čekají na to, neboť se nejedná o snadný přezkum vzhledem k tomu, že povede k hlubokým změnám, například k mizení řady hospodářství, pokud škrty v přímé pomoci navržené Evropskou komisí budou pokračovat.
+<P>
+Ústředním bodem této parlamentní zprávy je odlišení, a mohlo by být i jedním z mála prvků ve stanovisku Parlamentu, které budou mít určitý dopad na jednání, která jsou vedena ministry zemědělství ze zemí EU.
+<P>
+Po celá léta jsme byli proti jakémukoli posílení toho, co teď eufemisticky nazýváme "odlišením", neboť nemá-li politika rozvoje venkova dostatek finančních prostředků, není to kvůli nedostatku zdrojů v rozpočtu na společnou zemědělskou politiku, ale spíše tím, že neexistuje celková politická vůle k tomu, aby byl v odpovídající výši poskytnut rozpočet Společenství na tento základní pilíř.
+<P>
+Chceme trhy liberalizovat? Ovšemže chceme, ale jen za podmínky, že budou stejné povinnosti a podmínky platit pro všechny výrobce, a to v rámci Unie i mimo ni.
+<P>
+V současné době se v Evropské unii rozhoduje o budoucnosti mnoha pěstitelů a chovatelů. Musím zmínit křehká odvětví, například odvětví chovu ovcí, odvětví chovu skotu a odvětví tabáku, pro jejichž přežití v řadě produkčních oblastí je tato kontrola stavu obzvláště rozhodující.
+<P>
+Někteří výrobci, například chovatelé ovcí, o pomoc nežádají. Chtějí jen mít možnost stáhnout se z trhu důstojně, neboť se zadlužili a přežít mohou jedině tak, že budou snižovat objem produkce. Opuštění produkce je proto jediné řešení, které zbylo mnoha výrobcům, jejichž místo nepochybně zaujmou dovozci ze třetích zemí, neboť spotřebitelé nepřestanou konzumovat a světu se nepodaří radikálně zastavit nárůst počtu spotřebitelů.
+<P>
+Parlament by měl vydat obezřetné stanovisko, které musí Rada ctít. Musím poděkovat předsedovi Výboru pro zemědělství a rozvoj venkova panu Parishovi za přijatá opatření, jejichž cílem je zajistit, aby byl Parlament vyslyšen a nikoli ignorován, jak doposud Rada a Komise činily, v rozporu se závěry Parlamentu.
+<SPEAKER ID="041" NAME="Csaba Sándor Tabajdi" AFFILIATION="PSE">
+- (FR) Pane Barniere, paní Fischer Boelová, věřím, že tato vynikající zpráva pana Capoulas Santose může tvořit dobrý základ pro kompromis v Radě za francouzského předsednictví a doufám, že Evropský parlament a Rada společně usměrní Komisi.
+<P>
+Podobně jako si Malý princ ze Saint-Exupéryho, kterého jsem již citoval, ochočí lišku. Doufám, že v tom zítra budeme úspěšní. Celkové zrušení mechanismů intervence je vysoce nebezpečné pro Evropu a pro zabezpečení potravin v Evropě.
+<P>
+Poškozování velkých zemědělců bude mít mimořádně škodlivý dopad na evropskou konkurenceschopnost, a co se týče zemědělců zabývajících se živočišnou výrobou, musíme pomoci těm z nich, kteří nemají žádnou půdu.
+<SPEAKER ID="042" NAME="Anne Laperrouze" AFFILIATION="ALDE">
+- (FR) Pane předsedající, na počátku roku 2000 jsme stanovili finanční rámec společné zemědělské politiky (SZP) do roku 2013. Zemědělci na základě těchto údajů investovali. Nyní, v polovině cesty, se rozhodneme snížit platby, které oprávněně očekávají? To je nespravedlivé.
+<P>
+Jsem proti odlišení, jak je doporučováno Evropskou komisí nebo v Capoulas Santosově zprávě. Společná zemědělská politika má podpořit zemědělství a dát mu určitou strukturu. Pozorujeme kupříkladu obecný pokles v chovu dobytka, který je nahrazován dovozy ovcí ze třetích zemí. Zemědělci zabývající se chovem dobytka potřebují takovou společnou zemědělskou politiku, která je podpoří. Potřebujeme bonifikace na ovci a rovněž ekologické bonusy za zachování pastvin a vnitrostátní rezervy k řešení zničujících dopadů způsobených případy vzplanutí nákazy, zejména katarální horečky ovcí.
+<P>
+Pane ministře, paní komisařko, dámy a pánové, zemědělci na nás spoléhají!
+<SPEAKER ID="043" NAME="Liam Aylward" AFFILIATION="UEN">
+Pane předsedající, jsem si jistý, že by ode mne paní komisařka a úřadující předseda Rady čekali, že budu požadovat zavedení klíčových doporučení obsažených ve zprávě o odvětví chovu ovcí, která byla zde v Parlamentu drtivou většinou schválena.
+<P>
+Co se týče odlišení, budu proti hodnotě 13 % do roku 2012, a myslím si, že by neměla být závazná a že by jednotlivé členské státy měly mít možnost pružně se rozhodovat. U kvót pro mléko bych byl rád, kdyby došlo k nárůstu spíše o 2 procenta než o navrhované 1 procento, a země, které mají kapacity pro produkci mléka, by tuto možnost měly mít, aby tak dosáhly hladkého přistání v roce 2015.
+<P>
+Ze všeho nejdůležitější je však to, že nám bylo v poslední reformě společné zemědělské politiky příslíbeno zjednodušení, a pokud je tu něco, co zemědělcům opravdu vadí, pak je to byrokracie a přílišná administrativa. V současnosti existuje více úředníků Komise, ministerstev zemědělství v členských státech a místních orgánů, které dozírají na zemědělce, než je policistů v ulicích v boji proti zločinu. To je směšné: zemědělcům by mělo být umožněno, aby prospívali a pěstovali a vyráběli nezbytné potraviny pro stále rostoucí počet obyvatel.
+<P>
+Dovolte mi z mého osobního pohledu říci, že v mé zemi nebude existovat žádný Lisabon II, dokud nebude tento problém vyřešen.
+<SPEAKER ID="044" NAME="Véronique Mathieu" AFFILIATION="PPE-DE">
+- (FR) Pane předsedající, zpráva, o které budeme zítra hlasovat, představuje závěry roční práce a jednání, které se věnovaly budoucnosti společné zemědělské politiky a našich zemědělců. Bylo to konkrétně 20. listopadu minulého roku, kdy paní Fischer Boelová přišla se svými návrhy ohledně kontroly stavu.
+<P>
+V návaznosti na Lutz Goepelovu zprávu o pokroku máme teď Capoulas Santosovu zprávu o návrhu Komise. Oběma našim kolegům bychom měli poblahopřát k jejich skvělé práci. Výboru pro zemědělství a rozvoj venkova Evropského parlamentu se podařilo obhájit své stanovisko tváří v tvář původním návrhům Komise, protože jsme cítili, že jsou příliš liberální.
+<P>
+Budu nadále pozorně sledovat opatření, pokud jde o odvětví mléka, a zejména opatření předcházející zrušení kvót. Mám na mysli zejména producenty mléka z horských oblastí, kteří nesmí být chudými příbuznými v této reformě, a my budeme muset zajistit, aby nebyli opomíjeni, neboť budou potřebovat podporuvíce než ostatní.
+<P>
+Nechci pro ně hrát úlohu posla konce světa, ale jak si můžeme představit francouzské mlékárenské odvětví sloučené do jediného regionu? Vítám proto plně návrh vytvořit fond pro mléko a návrh směřující k hodnocení zvýšení kvót pro mléko v souladu s tržními trendy od roku 2010.
+<P>
+Výpočet progresivního odlišení, který předložil Výbor pro zemědělství, je podle mého názoru spravedlivý a umožní nám posílit regionální rozvoj a rozvoj venkova a chránit udržitelným způsobem biologickou rozmanitost.
+<P>
+Vítám také objasnění podmíněnosti, jejíž zavedení bylo až dosud pro zemědělce skutečnou noční můrou.
+<P>
+Doufám také, že bude zachován Tabákový fond, který nám dovolí udržet malé zemědělské podniky v Evropě a rovněž významnou zaměstnanost v oblastech, kde nelze nic jiného pěstovat, a který nám umožní vyhnout se dováženým výrobkům.
+<P>
+A nakonec, pane Barniere, velmi oceňujeme, jak jste se během těchto jednání angažoval. Podařilo se vám projevit značnou trpělivost a odhodlanost a nespěchali jste na věci, ani zdaleka ne. Práce s vámi byla pro mě potěšením. Spolupráce z vaší strany měla pro nás neocenitelnou hodnotu. Víme, že se na vás budeme moci spolehnout.
+<SPEAKER ID="045" NAME="Lily Jacobs" AFFILIATION="PSE">
+(NL) Pane předsedající, v šedesátých letech Sicco Mansholt, významný člen mé strany v Nizozemsku, vytvořil evropskou zemědělskou politiku, a my jsme na to hrdí. Jeho vizí bylo zajistit, abychom měli dostatek bezpečných potravin pro všechny Evropany a důstojné příjmy pro zemědělce. Jsou to ideály, které zde znovu z celého srdce podporuji. Za posledních padesát let se mnohé změnilo. Dochází k nárůstu světové populace, změně klimatu, globalizaci, existuje nespravedlivý obchod a spekulace v souvislosti s cenami potravin, a nakonec došlo v tomto ohledu i k nedávné potravinové krizi.
+<P>
+Diskuse o kontrole stavu je především o zdrojích, nástrojích a inteligentních výjimkách. Mrzí mě, že v přípravě na rok 2013 ustupují do pozadí širší souvislosti Je čas na skutečně rozumnou aktualizaci naší zemědělské politiky, kdy se budeme držet Mansholtových ideálů, ale zamítneme překonané prvky, jako jsou například vývozní subvence a dotace pro zemědělské produkty. Je nejvyšší čas uplatňovat spravedlivý obchod a na to, aby se větší pozornost věnovala udržitelnosti, zdraví a inovačním řešením výzev, kterým v současnosti čelíme. Jsme tím povinni zbytku světa, budoucím generacím a evropským daňovým poplatníkům.
+<SPEAKER ID="046" NAME="Kyösti Virrankoski" AFFILIATION="ALDE">
+(FI) Pane předsedající, podle Smlouvy jsou cíli zemědělské politiky rozvíjet zemědělství, zajistit úroveň příjmů zemědělců a rozumné spotřebitelské ceny, stabilizovat trhy a zaručit dodávky.
+<P>
+Kontrola stavu v zemědělství je nade vše ostatní v rozporu s prvním cílem, a proto by znamenala změnu ve Smlouvě. Pomoc pro zemědělce by byla zastavena, a tedy porušeny předchozí sliby. Spotřebitelské ceny by mohly stoupnout. Omezení intervenčních nákupů a zrušení kvót pro mléko by posílily výkyvy na trzích. V loňském roce jsme vydali více než 500 milionů EUR na vývozní subvence pro mléko. Oddělení pomoci od produkce by produkci sice snížilo, byla by však méně jistá její přijatelnost.
+<P>
+Kontrole stavu chybí solidarita, a to více než cokoli jiného. Návrh Komise nikterak nezohledňuje zásadu, díky které musí mít lidé možnost zapojovat se do udržitelného zemědělství v oblastech s nejhorší úrovní ve smyslu přírodních podmínek, i když ji Evropská rada třikrát potvrdila. Rodinné zemědělské podniky jsou příliš slabou jednací stranou vůči nadnárodním potravinářským gigantům a globálním tržním silám. Právě proto potřebujeme zemědělskou politiku.
+<SPEAKER ID="047" NAME="Sergio Berlato" AFFILIATION="UEN">
+(IT) Pane předsedající, paní komisařko, dámy a pánové, naším prvotním cílem je zajistit, aby měla Evropa společnou zemědělskou politiku po roce 2013. Myslíme si, že je to zásadní bod, nikoli jen s cílem chránit zemědělské odvětví a společensko-hospodářské poměry v našich členských státech, ale také proto, že na úsvitu třetího tisíciletí je strategicky mnohem důležitější než kdykoli předtím zajistit potravinovou bezpečnost v Evropě.
+<P>
+Paní komisařko, rádi bychom zdůraznili, že je třeba, abychom v případě potřeby pokračovali v zavádění politik podpory pro každou dílčí společnou organizaci zemědělských trhů, a konkrétně si myslíme toto:
+<P>
+a) v odvětví tabáku musí oddělení pomoci zajistit možnost částečně zachovat vázanou podporu až do roku 2013, aby nedošlo k úplnému opuštění produkce, které by ohrozilo celá odvětví, s důsledky pro nezaměstnanost a rovněž různými hospodářskými a ekologickými problémy v oblastech, které jsou obzvláště znevýhodněné. Rád bych paní komisařce a panu předsedajícímu připomenul, že Evropský parlament již v této věci velkou většinou svou podporu vyjádřil;
+<P>
+b) v odvětví mléka by k tomu, aby bylo dosaženo vyvážení trhu z krátkodobého hlediska a aby bylo umožněno hladké přistání při ukončení systému kvót z dlouhodobého hlediska, bylo vhodné zvýšit kvóty o 2 % v každém hospodářském roce v obdobích 2009-2010 a 2014-2015.
+<SPEAKER ID="048" NAME="Sebastiano Sanzarello" AFFILIATION="PPE-DE">
+(IT) Pane předsedající, dámy a pánové, i já bych rád blahopřál zpravodaji panu Capoulas Santosovi" a panu Goepelovi za vynikající práci.
+<P>
+Projednáváme zde společnou zemědělskou politiku, jejíž počátky sahají do druhé poloviny devadesátých let a která sama o sobě vznikla v roce 2003, v globalizovaném světě, kde existoval nadbytek produkce, kde jsme pěli chválu na přehnanou pomoc poskytovanou zemědělství. Přišli jsme s oddělením, odlišením, podmíněností a přílišným množstvím byrokracie v rámci tohoto systému pro poskytování pomoci a během několika let jsme dosáhli rozvoje, který jsme si představovali, jak řekl pan Barnier. Rozvoj, který jsme si představovali, vypadal tedy takto: zaznamenali jsme schodek v produkci, měli jsme problémy s dodávkami, zejména u obilovin, propadli jsme se v Evropě do deficitu v produkci masa a potýkáme se s nepředstavitelným úbytkem pracovních míst.
+<P>
+Proto si myslím, že by přístup, který Komise přijala při úpravě postoje z roku 2003, měl skončit v příštích několika dnech společně s francouzským předsednictvím a že bychom měli přezkoumat postoj přijatý k těmto otázkám a rovněž k otázce odlišení, jež se zdá být přehnané. Tím, že vezmeme prostředky od výrobců a poté je převedeme do druhého pilíře, bereme prostředky těm, kdo denně investují a vyrábějí v zemědělství, těm, které žádáme, aby brali ohled na půdu a zdravé potravinářské výrobky, po kterých požadujeme bezpečnost na pracovišti, dobré životní podmínky zvířat, vysokou výživovou hodnotu a bezpečnost potravin; odebíráme jim podporu ve stále více konkurenčním a globalizovaném světě.
+<P>
+Musíme se proto znovu zamyslet, zejména co se týče kvót pro mléko, v zemích, jako je Itálie, která již dvacet let trpí touto tragédií deficitu ve výrobě, přestože má významný potenciál. Vázanou pomoc je třeba zachovat. Zdůrazňuji, co řekli kolegové poslanci v tomto ohledu o tabáku, neboť v Evropě existuje 500 000 rodin, které se živí v tomto odvětví, a odejmutí vázané pomoci by nepochybně odsoudilo tyto rodiny k chudobě, bez přínosu, jedná-li se o to, ke snížení počtu kuřáků.
+<SPEAKER ID="049" NAME="Vincenzo Lavarra" AFFILIATION="PSE">
+(IT) Pane předsedající, paní komisařko, dámy a pánové, jsem velice potěšen tím, že vidím důkaz velmi pozitivního postupu spolurozhodování v oblasti zemědělství, který byl možný díky posílené spolupráci Rady, Komise a Evropského parlamentu. Je to dobré znamení a jsem si jistý, že mi dovolíte, abych poblahopřál panu Capoulas Santosovi k jeho vyvážené zprávě o odlišení, o mladých zemědělcích a o bezpečnosti na pracovišti, která se týká také nových výzev.
+<P>
+Procházíme složitou transformací: víme o hladkém přistání a o oddělení, a také o dalších inovativních opatřeních. V rámci této transformace musíme chránit zemědělce, kteří budou vystaveni zrušení kvót pro mléko, a také znevýhodněné oblasti, například oblasti zabývající se pěstováním tabáku, přičemž bychom měli využít této příležitosti a na základě uvedeného posunu začít vážně přemýšlet o době po roce 2013 tak, abychom aktualizovali cíle a nová poslání společné zemědělské politiky a zahájili diskusi o tom, jak překonat tento rozpor mezi prvním a druhým pilířem.
+<SPEAKER ID="050" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+Pane předsedající, děkuji Radě, Komisi a zpravodajovi za jejich práci na této zprávě. Jeden "malý" problém týkající se společné zemědělské politiky, který byl při této rozpravě přehlédnut, je to, že rozpočet je pevný a klesající, a přesto jsou požadavky, které na tuto politiku máme, stále větší, včetně změny klimatu, biologické rozmanitosti a hospodaření s vodou. Inteligentní hospodaření s vodou je velice dobrá myšlenka, a místní orgány přitom musí zamezit únikům. Skutečně velmi inteligentní!
+<P>
+A teď k mléku. Co je špatného na tom, bude-li ustanoveno 2% zvýšení kvót a ponecháno na zemědělcích, kteří mohou vyrábět pro trh, aby tak činili na základě své vůle? Nejde o povinnost. Nechme rozhodovat zemědělce. Co se týče chovu ovcí, Aylwardova zpráva nastínila velká očekávání, která mají podporu zde v Parlamentu. Nelze je zradit, až bude Rada přijímat svá konečná rozhodnutí.
+<P>
+Co se týče odlišení a článku 68, hovoříme o opětovném použití prostředků ze zemědělství na tyto nové výzvy. To není možné, a i kdyby, lze tak učinit jen s méně, a nikoli více pravidly, což se obvykle děje.
+<P>
+Největší hrozbu pro společnou zemědělskou politiku a evropské zemědělce lze spatřovat v přezkumu rozpočtu, odkazu Tonyho Blaira této instituci, kdy je v ohrožení financování zemědělství. V reakci na komentář k Lisabonské smlouvě mého kolegy Liama Aylwarda mohu říci, že kontroly skutečně způsobily problém. Odhaduji, že zemědělci v Irsku budou nyní více podporovat Lisabonskou smlouvu, neboť se obávají rozšíření pravomoci členských států v oblasti zemědělské politiky, což se ukázalo jako nebezpečné při sestavování našeho rozpočtu na rok 2009, kdy irská vláda radikálně snížila podporu zemědělství: věří Evropě více než svému členskému státu. Na to nesmíme zapomínat.
+<P>
+Největším problémem pro zemědělce v Evropě jsou nestálé příjmy a nestablita cen. Potřebujeme opatření na podporu trhu. Tato opatření musí být pružnější a chytřejší a musí být použita v době, kdy jsou zapotřebí, jinak bychom zrušili rodinné zemědělské podniky a zničili to, co jsme v Evropě vytvořili, tedy dodávky kvalitních a bezpečných potravin. Přeji hodně štěstí vaší rozpravě.
+<SPEAKER ID="051" NAME="Bogdan Golik" AFFILIATION="PSE">
+(PL) Pane předsedající, paní komisařko, rád bych vyjádřil poděkování zpravodaji Luisi Manuelu Capoulas Santosovi za obrovské množství práce, které za posledních několik měsíců odvedl, a za jeho schopnost najít kompromisní řešení.
+<P>
+Společná zemědělská politika si musí zachovat povahu Společenství tím, že zajistí, aby celá rozšířená Evropská unie mohla soutěžit za stejných podmínek. K nutným podmínkám k dosažení tohoto cíle patří usilování o jednotné sazby podpory po celé Evropské unii. Věřím, že se tak stane v roce 2013 a že nikdo nebude vymýšlet, jak to odložit.
+<P>
+Čas je krátký, a tak se omezím pouze na jednu věc. Nové členské státy se budou stále více zapojovat do ochrany životního prostředí, zabezpečení potravin a do požadavků na dobré životní podmínky zvířat. Dosahování souladu s těmito požadavky představuje obrovské výdaje, které vznikají za krátkou dobu, a pro tyto státy to bude znamenat významně sníženou ziskovost zemědělské výroby. Proto je třeba synchronizaci úplného zavedení těchto zásad odložit, dokud se nebudou všechny platby a dotace rovnat.
+<SPEAKER ID="052" NAME="Ioannis Gklavakis" AFFILIATION="PPE-DE">
+(EL) Pane předsedající, paní komisařko, rád bych poblahopřál panu Capoulas Santosovi k jeho velmi pěkné zprávě a poděkuji také koordinátorovi a stínovému zpravodaji panu Goepelovi.
+<P>
+Rád bych se ve stručnosti vyjádřil ke třem věcem: zaprvé a především, co se nás týká, by měl být stávající režim podpory pro tabák zachován až do roku 2013 a 50 % financování by mělo zůstat v prvním pilíři bez převádění do druhého pilíře. Myslím si, že je to nespravedlivé a zároveň neodůvodněné. A proč si to myslím? Protože to chcete uplatnit jen na tabák. Zadruhé se domnívám, že to bude mít katastrofální důsledky pro více než půl milionu rodin, zejména v mé zemi, kde se nacházejí většinou chudí zemědělci zabývající se malovýrobou tabáku, až opustí své farmy a přestěhují se do velkých měst, což je mimořádně nebezpečné pro životní prostředí a venkov.
+<P>
+Rád bych zde ujasnil ještě něco. Jsme všichni proti kouření, ale nesmíme zaměňovat dvě věci: dokud budou lidé v Evropě kouřit cigarety a evropský průmysl potřebovat tabák, má větší smysl jej vyrábět než dovážet.
+<P>
+Zadruhé má také smysl zachovat stávající režim zvláštních nároků, zejména pokud jde o zvláštní práva u krmiv.
+<P>
+Zatřetí jsem proti minimálním hranicím pro poskytování přímé podpory navrhovaným Komisí, kdy Komise říká, že ten, kdo ročně získá méně než 250 EUR nebo obdělává méně než jeden hektar, by neměl být financován. Evropská unie chce přece podporovat velké i malé výrobce. Potřebujeme všechny zemědělce, ale ty malé především. Proto požaduji, aby byla tato otázka přezkoumána, a dále to, aby byla podpora poskytována malým i velkým zemědělcům.
+<SPEAKER ID="053" NAME="Katerina Batzeli" AFFILIATION="PSE">
+(EL) Pane předsedající, nejprve bych ráda poblahopřála panu Capoulas Santosovi k jeho zprávě. Pane Barniere, paní Fischer Boelová, bez ohledu na názorové proudy, které naznačují, že každý z vás má ke společné zemědělské politice a její úloze v rozvoji Evropské unie jiný přístup, jsme dosáhli něčeho, co není proveditelné, jinými slovy zaséváte nedůvěru a zklamání mezi malými i velkými výrobci. Paušálními škrty včetně návrhu dalších snížení co se týče hodnot nároků, v době, kdy vzrostly výrobní náklady, jsme zklamali velké chovatele mléčného skotu, stejně jako malé producenty v malých a horských oblastech.
+<P>
+Návrh týkající se tabáku, kdy Komise navrhuje skandální 50% snížení bez jakéhokoli odůvodnění na základě Smlouvy či snad dokonce horizontálních politik společné zemědělské politiky, nevzbuzuje důvěru. Další rozlišení se týká malých zemědělců do 10 hektarů, kteří mají být vyloučeni, což konkrétně pro Řecko znamená to, že budou vyloučeny ostrovní oblasti.
+<P>
+Paní komisařko, znám vaši komunikační politiku a cítím k vám velký respekt. Hovoříte o hladkém přistání. Měli bychom být však obezřetní, abychom zvolili správné letiště. Letiště je totiž i v Guantánamu.
+<SPEAKER ID="054" NAME="Esther de Lange" AFFILIATION="PPE-DE">
+(NL) Pane předsedající, slyšeli jsme při dnešní dlouhé dopolední rozpravě již mnohé. Podařilo se mi naštěstí dát paní komisařce před začátkem porci školního ovoce, a tak doufám, že díky této svačině budeme schopni v diskusi na toto důležité téma ještě chvíli pokračovat.
+<P>
+Nechci se však v tuto chvíli věnovat školnímu ovoci, ale otázce mléka. Zcela stranou všech diskusí o různých technických nástrojích je podle mne nemožné vysvětlit evropskému občanovi to, že jsme zaplatili 340 milionů EUR ve formě superdaně, aby zůstávalo stále skoro 1 % na evropskou kvótu. Touto nelogičností se bude muset v každém případě Rada zabývat.
+<P>
+Kromě toho, jak jsem již dříve uvedla, je podle mne návrh Komise na zvýšení roční kvóty o 1 % velmi "odtučněný", a mohl by být později v Radě ministrů snadno povýšen na "polotučný". Uplatněním 1 % koneckonců ponecháváme stranou nevyužívané možnosti v rámci EU a světového trhu. Argument, který jsem zde před okamžikem slyšela, totiž že by nám náš režim kvót měl automaticky poskytovat dobrou cenu, je příliš krátkozraký. To je také jasně vidět z vývoje cen po roce 1984. Netřeba říkat, že obrovské obchodní domy, jaké mají ve Spojených státech, jsou nemyslitelné v našem regionu. Budeme muset natáhnout bezpečnostní sítě pro krizové stavy, jako jsou mimořádně hubené roky či neočekávané situace, jako jsou například choroby zvířat.
+<P>
+Dále, a to je myslím stejně důležité, naléhavě žádám Komisi, aby se zaměřila na to, jak jsou v rámci potravinářské výroby rozděleny výnosy. Zatímco supermarkety v současnosti obchodují s marží přibližně 20 % a distribuční síť téměř s 10 %, řada primárních výrobců - zemědělců - bez nichž by neexistovaly žádné potraviny - vykonává svou činnost v tuto chvíli se ztrátou.
+<P>
+Nyní však zpět k hlavnímu tématu. Mluvíme zde dnes, jak jsem již řekla, o našem každodenním chlebu. V této rozpravě, ale především také v rozpravě o zemědělské politice po roce 2013, by proto mělo být prvořadou otázkou zabezpečení potravin, protože si myslím, že to poslední, co potřebujeme, je muset v příslušný čas vytvářet něco, co by nás zavedlo do stejné závislosti na dalekých zemích, jak se to stalo u jiného našeho každodenního chleba, totiž energie.
+<SPEAKER ID="055" NAME="Giovanna Corda" AFFILIATION="PSE">
+- (FR) Pane předsedající, paní komisařko, pane Barniere, dámy a pánové, jsem nesmírně vděčná našemu kolegovi panu Capoulas Santosovi za úžasnou práci, kterou odvedl, a je třeba říci, že vždy v dobré náladě.
+<P>
+Úkolem společné zemědělské politiky vždy bylo zajistit dodávky potravin pro všechny. Tento cíl je v současnosti ještě oprávněnější, neboť v krizi, které čelíme, se stávají spotřebitelé i zemědělci zranitelnými. Je důležité zajistit přístup k potravinářským výrobkům pro spotřebitele, ale i důstojné příjmy pro zemědělce. Musíme proto povzbudit mladé zemědělce a pomoci jim, aby se etablovali a vyvíjeli činnost, neboť právě oni pomohou v budoucnosti nakrmit naši planetu.
+<P>
+Chtěla bych upozornit na obtíže, kterým je vystaveno odvětví chovu ovcí a odvětví chovu koz, tedy na otázku, na kterou reagoval velmi citlivě i pan Capoulas Santos. Těmto odvětvím je třeba poskytnout podporu nejen v souvislosti s masem, ale také pokud jde o mléko, což je oblast, kterou velmi dobře znám ze Sardinie.
+<SPEAKER ID="056" NAME="Jean-Paul Denanot" AFFILIATION="PSE">
+- (FR) Pane předsedající, děkuji za práci, která byla odvedena, a za závěry a náměty, které vyplynuly z kontroly stavu společné zemědělské politiky a ze zprávy pana Capoulas Santose.
+<P>
+V zemědělství nejde reagovat jen na tržní signály. Není pochyb o tom, že zemědělská činnost má vliv na potravinovou soběstačnost, ale také, jak se s tím až příliš často setkáváme, na regiony a zaměstnanost.
+<P>
+Odstranění tržních nástrojů by bylo pro naše zemědělství těžkou ránou. Například oddělení je pro některé oblasti chovu dobytka, konkrétně pro chov kojných krav a ovcí, skutečný problém a velmi rád jsem teď slyšel paní Fischer Boelovou o této otázce hovořit.
+<P>
+Kromě toho je jasné, že by velkou překážkou jakékoli případné reformy bylo přísné respektování historických odkazů. Stále však věřím, že otázka druhého pilíře společné zemědělské politiky je zcela zásadní, neboť zemědělská činnost je potřebná pro venkovská území k tomu, aby se mohla ve venkovských oblastech rozvíjet zaměstnanost. Musíme proto o této otázce druhého pilíře pochopitelně přemýšlet, aniž bychom však odbourali první pilíř.
+<SPEAKER ID="057" NAME="María Isabel Salinas García" AFFILIATION="PSE">
+(ES) Pane předsedající, nejprve bych ráda poblahopřála zpravodaji panu Capoulas Santosovi k jeho vynikající zprávě. Myslím si, že ve své zprávě dosáhl rovnováhy a umírněnosti.
+<P>
+Mám pocit, že je teď nezbytné ukázat našim zemědělcům stabilitu. Evropští zemědělci potřebují více než kdykoli předtím stabilitu a společná řešení. Potřebují dostatečně dlouhá přechodná období a také pokračování zvláštních opatření pro odvětví, která mají potíže.
+<P>
+Paní komisařko, nelze použít stejná řešení pro všechna odvětví. Mějte prosím na paměti, že máme odvětví, která čelí skutečným problémům. Společná zemědělská politika nesmí být problém, ale řešení, a to je důvod, proč potřebujeme mít silný první pilíř.
+<P>
+Domníváme se a pevně doufáme, že se venkov bude rozvíjet, ale odlišení, které navrhuje Komise, není podle nás odpovědí. Rozvoj venkova by neměl být posílen na úkor prvního pilíře. Souhlasíme s tím, že režim jednotných plateb musí být zjednodušen prostřednictvím revize tržních nástrojů. Neznamená to ovšem, že budou tyto nástroje zrušeny.
+<P>
+Uděláme-li to správně, položíme základy správnému vývoji společné zemědělské politiky po roce 2013. Uděláme-li to špatně, přivedeme mnoho evropských zemědělců ke krachu.
+<SPEAKER ID="058" NAME="Alessandro Battilocchio" AFFILIATION="PSE">
+(IT) Pane předsedající, dámy a pánové, vítám obrovské úsilí, které náš zpravodaj pan Capoulas Santos vyvinul k zajištění toho, aby byla společná zemědělská politika i nadále spíše blíže zemědělcům a evropským občanům než potřebám trhu, a také aby skloubil různé ambice, které se objevují v případě, že je ve hře tolik výzev.
+<P>
+Je proto důležité, aby byl 27 členskými státy přijat společný přístup k tomuto odvětví, ale na druhou stranu je zapotřebí zachovat nástroje na podporu a řízení trhu pro klíčové produkty. Mám na mysli například odvětví mléka nebo podporu pro tabák, kde by zrušení dotace bezpochyby nepomohlo snížit počet kuřáků, ale namísto toho by to vedlo k opuštění významného evropského produktu a k sociální struktuře, která je s tím spojena.
+<P>
+Takové nástroje však musí vždy zohledňovat enormní množství různých podmínek pro zemědělství v Evropě. Systém kvót pro mléko, který v současnosti platí, je například odpovědí na kritéria, jež jsou v současnosti zastaralá. Zvýšení o 1 %, jak je navrženo v kompromisu, není dostačující k tomu, aby byla uspokojena tuzemská poptávka ve většině členských států. Potřebujme proto pružnější systém, který umožní, aby si jednotlivé členské státy samy zvolily odpověď na vlastní potřeby, a tímto opatřením bychom také podpořili evropskou konkurenceschopnost v tomto odvětví na mezinárodním trhu.
+<SPEAKER ID="059" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+Pane předsedající, plně souhlasím s panem Barnierem, v tom, co říká o potravinové soběstačnosti a jejím významu, a s paní Fischer Boelovou, když hovoří o vlivu změny klimatu na zemědělský program dneška. Můžeme prosím tyto dvě koncepce vzájemně propojit?
+<P>
+Očekává se, že růst světové poptávky po mléčných produktech - což může do roku 2020 činit až 35 % - povede k určitému zintenzivňování irské mlékárenské produkce, což bude s největší pravděpobností znamenat, že bude dotčeno naše stádo pro produkci mléka, když musíme zvažovat snížení počtu našich krav, aby byly splněny cíle EU v oblasti změny klimatu v rámci návrhu na společné úsilí. Irský systém potravinářské výroby je přijímán jako jeden z nejúčinnějších na světě z hlediska emisí na jednotku potravin. Každý schodek na světových trzích s potravinami - jestliže Irsko sníží počty hospodářských zvířat - bude s největší pravděpodobností zaplněn produkcí ze zemí s méně udržitelnými systémy hospodářství a systémy, které vedou k vyšším úrovním emisí, jež jsou způsobeny méně účinným způsobem řízení jejich stád či věkovým profilem jejich stád a odlesňováním.
+<SPEAKER ID="060" NAME="Paulo Casaca" AFFILIATION="PSE">
+(PT) Pane předsedající, paní komisařko Fischer Boelová, pane Barniere, kontrola stavu by měla sloužit k úpravě těch aspektů, které nejsou zcela v pořádku. V právních předpisech týkajících se zemědělství v nejvzdálenějších regionech existuje jeden aspekt, který není správný. Je to nařízení o cukru v autonomní oblasti Azory.
+<P>
+Chci naléhavě požádat paní komisařku a pana ministra a také všechny členské státy, aby za účelem posouzení toho, co je v sázce, prostudovali pozměňovací návrhy, které jsem předložil, neboť je snadné a jednoduché tento problém řešit. Pokud však řešen nebude, povede to k nezaměstnanosti a úpadku tohoto odvětví, včetně mimořádně závažných důsledků pro autonomní oblast Azory.
+<P>
+Ještě jednou apeluji na to, abyste věnovali této otázce maximální pozornost.
+<SPEAKER ID="061" NAME="Francesco Ferrari" AFFILIATION="ALDE">
+(IT) Pane předsedající, dámy a pánové, myslím si, že nedávná situace si zaslouží naše poděkování, a to Komisi i zpravodaji. Rád bych poděkoval zpravodaji za jeho práci, neboť když jednáme o zemědělství, jednáme o potravinách, a proto je tato otázka mimořádně citlivá.
+<P>
+Chci hovořit o dvou klíčových věcech: zaprvé je to otázka kvót pro mléko. Vítám dosažený konsenzus o úrovni 1 % - což by se mohlo zvýšit i na 2 % - ale větší problém se objeví po roce 2014, kdy v případě, že přistání nebude právě hladké, nastanou v tomto odvětví obrovské problémy těm, kteří v posledních letech investovali, a dojde k obrovským ztrátám na straně zemědělských společností. Další aspekt či problém se týká kontroly cen v zemědělství. Před rokem existoval problém s potravinami, který se týkal obilovin, a v současnosti ceny kukuřice a pšenice klesly oproti loňskému roku na polovinu, zatímco spotřebitelské ceny těstovin, chleba a krmiv jsou stále vysoké. Možná byla chyba v plánování nebo nedostatečná kontrola...
+<SPEAKER ID="062" NAME="Zbigniew Krzysztof Kuźmiuk" AFFILIATION="UEN">
+(PL) Pane předsedající, Evropská komise navrhuje limity výdajů společné zemědělské politiky pro různé členské státy až do roku 2013 a ještě dál po tomto roce. Kdybychom převedli tyto částky na počet hektarů orné půdy, viděli bychom obrovské rozdíly ve výši podpory na hektar mezi jednotlivými státy: v Belgii činí podpora přibližně 490, v Dánsku pak 390, v Německu 340 a ve Francii 260 EUR, zatímco v nových členských státech je to mnohem méně. V České republice je to 210, na Slovensku 200 a v Polsku jen 190 EUR.
+<P>
+V situaci, kdy se výrobní náklady starých a nových členských států rychle přibližují a Evropská komise navrhuje oddělení finanční pomoci od produkce, zachování těchto rozdílů nejenže již nemá žádné odůvodnění, ale také diskriminuje zemědělce v nových členských státech. Pokud se postoj Komise a Rady v této věci nezmění, budeme mít navždy dvě společné zemědělské politiky: bohatší, zacílenou na staré členské státy, a chudší, která zasáhne řadu nových členských států.
+<SPEAKER ID="063" NAME="Elisabeth Jeggle" AFFILIATION="PPE-DE">
+(DE) Pane předsedající, paní komisařko, pane ministře, chci mít svůj příspěvek krátký a ráda bych se zaměřila na to, že jsme odpovědní v prvé řadě za 500 milionů spotřebitelů v Evropské unii a poté za zemědělce v Evropské unii, kteří vyrábějí potraviny pro tyto spotřebitele. Dále jsme rovným dílem odpovědní za velké i za malé zemědělské podniky. Jsme odpovědní za zemědělské podniky ve znevýhodněných oblastech, v pastvinářských oblastech, a zejména ve všech oblastech, které souvisejí s mlékem a s produkcí masa.
+<P>
+Paní komisařko, chtěla bych vám poděkovat za vaše pozitivní smýšlení o fondu pro mléko, o který jsme usilovali po dva roky konkrétně od doby, kdy proběhla rozprava o minibalíčku pro mléko a o zrušení podpůrných opatření v této oblasti. Jsem přesvědčena, že nám tento mechanismus umožní, abychom poskytli pomoc i pokud dříve nevybereme peníze od jiných zemědělců, ale použijeme namísto toho prostředky, které byly uvolněny v důsledku zrušení opatření na podporu trhu.
+<SPEAKER ID="064" NAME="Marian Harkin" AFFILIATION="ALDE">
+Pane předsedající, v této rozpravě musíme hovořit o zabezpečení potravin, jejich dohledatelnosti, a především o jejich bezpečnosti. Nemůžeme oddělit tato témata od naší dnešní rozpravy zde v Parlamentu, a nemůžeme přehlížet skutečnost, že počet zemědělců rok od roku výrazně klesá.
+<P>
+Nárůst povinného odlišení je jednoduše rukou v kapsách evropských zemědělců. V důsledku inflace a dalších vlivů klesla od roku 2005 hodnota jednotných plateb na zemědělský provoz přibližně o 15 %, přesto se navrhuje ještě více tuto hodnotu snížit.
+<P>
+Zjednodušení se zdá být novým pojmem. Alespoň v Irsku však počet úředníků dohlížejících na zemědělce eskaloval. V posledních týdnech jsme zaznamenali množství vrtulníků, které souvisely s místní kontrolou prováděnou 61 inspektory počítajícími ovce na kopcích v Connemaře, malé oblasti, kde cena ovcí nestačí ani na splacení investic zemědělců. Připomínalo to spíše invazi v Iráku, než laskavou ruku Evropy. Bylo to zbytečné a vytváří to obraz přebyrokratizované Evropy, která jedná zcela nepřiměřeně.
+<SPEAKER ID="065" NAME="Astrid Lulling" AFFILIATION="PPE-DE">
+(DE) Pane předsedající, jsem sice zklamaná z kompromisu, ale smířím se s tím, neboť pokud nesnížíme přímé platby, jak to Komise tak nešťastně navrhuje, mohli bychom možná zabránit největším škodám způsobeným našim zemědělcům.
+<P>
+Jestli půjdou tyto peníze do fondu pro mléko, tak bude snížení bolet ještě méně. Bohužel jsem dnes ráno četla, že paní komisařka opět zaujímá místo na barikádách, když se staví proti fondu pro mléko. Lucemburským zemědělcům nebude vadit, pokud nesnížíme přímé platby až na 10 000 EUR, neboť všichni zemědělci na plný úvazek jsou nad touto hranicí. Prioritou tedy musí být zamezit snížením nebo tato snížení udržet na minimální úrovni. Jinak nemají zemědělci na plný úvazek v Lucembursku žádnou budoucnost.
+<SPEAKER ID="066" NAME="Giovanni Robusti" AFFILIATION="UEN">
+(IT) Pane předsedající, paní komisařko, dámy a pánové, myslím si, že není čas ani prostor na zásadní rozpravu. Evropský parlament má jen pravomoc zaujmout stanovisko k jediné otázce, která je v moci EU zároveň otázkou života a smrti a na níž se vydává polovina rozpočtu.
+<P>
+Domnívám se, že kontrola stavu je příliš konzervativní; a na globalizaci, která je rovněž cílem EU, doplácejí zemědělci: oběť nekonečného hledání nesmyslné úlohy prostředníka. Moje úloha jako poslance Evropského parlamentu však ukazuje na nedostatečnou transparentnost v uplatňování společné zemědělské politiky. Paní komisařka podepsala v roce 2008 nařízení č. 250, členské státy jej však opomíjejí a bude tomu tak i nadále po 30. červnu 2009.
+<P>
+Přimlouval bych se, aby jediným možným způsobem v budoucnu bylo obracet se na pověřené kontrolní orgány, musíme ovšem mít na paměti, že bychom se měli v debatě o zemědělské politice více přiblížit občanům, kterým by měly být poskytovány informace, chceme-li se ubírat správnou cestou. Pokud to neuděláme, budeme i nadále ohrožovat zemědělskou komunitu, která je obětí pokračující izolace.
+<SPEAKER ID="067" NAME="James Nicholson" AFFILIATION="PPE-DE">
+Pane předsedající, rád bych se nejprve vyjádřil k mléku. Osobně nejsem zastáncem 2% zvýšení. Podporoval bych 1% zvýšení, protože přestože bylo mnohé řečeno o měkkých přistáních, já tomu nevěřím. Myslím si, že jak tady sedíme, svět se neustále mění. Odvětví mléka, které jistě patřilo k oporám naší produkce před rokem, je takové i v posledních měsících z toho důvodu, že se změnily světové trhy.
+<P>
+Chtěl bych říci paní komisařce, že jsem poněkud zneklidněn články 68 a 69. Myslím si, že byste měli vzít slovo "společná" a odstranit je navždy z názvu společné zemědělské politiky. Já bych zde byl velmi obezřetný - aby bylo zajištěno, že neudělíme příliš mnoho pravomocí, aby se peníze jednoduše vrátily členským státům, které si na jejich základě mohou vytvořit podmínky, jež nebudou rovné pro všechny.
+<P>
+Co se týče odlišení, domnívám se, že bychom se měli držet jednotných čísel, ale nechat vše, co se týká odlišení, povinné. Ať všichni v celé Evropě platí stejnou výši odlišení z druhého pilíře.
+<SPEAKER ID="068" NAME="Katerina Batzeli" AFFILIATION="PSE">
+(EL) Pane předsedající, chci doplnit několik bodů: zaprvé potřebujeme, aby v rámci společné zemědělské politiky byl posílen první pilíř, aby výrobci mohli uspokojovat současné potřeby a čelit existujícím problémům na trhu. Zadruhé jakákoli další diferenciace povede mezi výrobci k nejistotě ohledně příjmů. Zatřetí nemůže být doporučení nových podpůrných mechanismů, jako je vzájemný fond na podporu bezpečnosti produkce, financováno v rámci dodatečných výdajů a začtvrté otvírá spolufinancování prvního pilíře společné zemědělské politiky příležitosti k budoucímu spolufinancování společné zemědělské politiky.
+<SPEAKER ID="069" NAME="Colm Burke" AFFILIATION="PPE-DE">
+Pane předsedající, rád bych poblahopřál zpravodajům k jejich práci na kontrole stavu společné zemědělské politiky, myslím si, že je důležité zmínit zintenzivnění práce Parlamentu v tomto procesu, a vítám také přístup Rady a Komise během těchto jednání. Mám pocit, že je to dobré znamení pro budoucí jednání, kdy se Parlament bude podílet v rámci řádného spolurozhodování s Radou ve věci zemědělských předpisů.
+<P>
+Pocházím ze zemědělské oblasti v Irsku a je smutné vidět, že v poslední době se zemědělci postavili proti projektu EU, a to z nejrůznějších příčin, především proto, že si povšimli nedostatečné transparentnosti jednání v Radě. Avšak v okamžiku, až bude případně přijata Lisabonská smlouva, Parlament bude principiálně zapojen a bude zde tak větší prostor pro otevřenou a transparentní diskusi o otázkách spojených se společnou zemědělskou politikou, což povede k větší legitimitě u zemědělské komunity.
+<P>
+Cesta kupředu pro Evropu spočívá v tom, že se Parlament plně zapojí do rozhodovacího procesu, čehož bude v plné míře dosaženo prostřednictvím institutu spolurozhodování.
+<SPEAKER ID="070" NAME="Czesław Adam Siekierski" AFFILIATION="PPE-DE">
+(PL) Jedná se o dobrou zprávu. Co nám chybí, co je třeba změnit? Přezkum společné zemědělské politiky nebere dostatečně v úvahu novou situaci, která v celém světě a potažmo v Evropě nastala v důsledku potravinové krize. Stalo se toho příliš mnoho na to, aby to nebylo významně zohledněno.
+<P>
+Řada bodů, které jsou zahrnuty v návrzích Evropské komise, nesplnila očekávání nových členských států, které požadují spravedlivější systém přímých dotací. Jsem přesvědčen, že vyrovnání výše dotací mezi členskými státy je nevyhnutelné. Paní komisařko, při zasedání Rady ministrů proběhne demonstrace, které se zúčastní osm tisíc pěstitelů tabáku. Doufám, že jejich požadavky budou vyslyšeny.
+<P>
+Pokud jde o další témata, musíme zaujmout obezřetný přístup v otázce zrušení systému kvót pro mléko v roce 2015. Musíme nalézt způsob, jak celou věc pojmout. Trh s mlékem je nestabilní, a je proto nutné, aby byl monitorován. Zadruhé bychom měli ponechat nástroje tržních intervencí, například skladování ...
+<P>
+(Předsedající řečníka přerušil)
+<SPEAKER ID="071" NAME="Michel Barnier">
+úřadující předseda Rady. - (FR) Pane předsedající, dámy a pánové, mnohokrát vám děkuji za vaši pozornost a za otázky, které jste nám položili. Rád bych se postupně zabýval několika věcmi.
+<P>
+Zaprvé bych rád hovořil o odlišení, o němž před okamžikem mluvil pan Goepel a pan Baco, pan Sanzarello i paní Lullingová. Mohu vám potvrdit, že otázka míry odlišení bude klíčovým prvkem každého kompromisu. Všiml jsem si, že by byl Parlament rád, kdyby byl nalezen kompromis. Chtěl bych dodat, že přílišné progresivní odlišení by zcela jistě mohlo některým členským státům způsobit problémy, musíme si však být dobře vědomi toho, že celý princip progesivního odlišení odpovídá často uváděné společenské potřebě. My, společně s Mariann Fischer Boelovou, proto musíme nalézt kompromis, a s ohledem na to se domnívám, že stanovisko navržené vaším zpravodajem takový kompromis objasní. Pokud jde o odlišení, je dalším prvkem, který musí být součástí balíčku, otázka míry spolufinancování u doplňkového odlišení. Navrhli jste 100 % - tedy žádné vnitrostátní spolufinancování. To je velmi ambiciózní, podle mne je to však krok správným směrem.
+<P>
+Dále bych se rád zabýval otázkou nových výzev. Plně chápu stanovisko Výboru pro zemědělství a rozvoj venkova, co se týče de facto podpory odvětví mléka, pokud budeme financovat tuto výzvu, která je jednou z nových výzev financovaných z odlišení. Domnívám se, že to je jedna z cest, na které budeme s Mariann Fischer Boelovou pracovat.
+<P>
+Dalším velmi širokým a velmi problematickým klíčovým bodem je, dámy a pánové, bod, který uvedl pan Capoulas Santos, totiž že by upřednostnil opatrný a umírněný přístup; stejný pocit sdílel také pan Goepel a paní Mathieuová a před okamžikem i pan Le Foll. Připomněl jsem jen několik jmen, řada z vás by však o tomto tématu mohla hovořit - jedná se o téma kvót pro mléko. Je třeba řešit dva problémy: zvýšení kvót a míru tohoto zvýšení a dále podpůrná opatření.
+<P>
+Pokud jde o zvyšování kvót, všiml jsem si během rozprav v Parlamentu, že se názory na tuto otázku značně liší. Abych byl upřímný, stejná situace panuje i v Radě ministrů. Řešení, které navrhujete - 1 % ročně v letech 2009 a 2010 - a o dalším postupu rozhodnout na základě zprávy o pokračování zvyšování, je obezřetný přístup, v souladu s přáním vašeho zpravodaje pana Capoulas Santose. Zároveň je zde otázka střednědobého výhledu pro zemědělské podniky a pro podniky obecně. To vyžaduje nasměrovat kurz až do roku 2015 a já mám nakonec pocit, že návrh Komise inklinuje k rovnováze. Budeme na tom, a zejména na podpůrných opatřeních, pracovat, neboť všichni souhlasí s tím, abychom podporovali citlivé regiony. Doporučené řešení za použití článku 68, tedy zavést více strukturálních opatření, by nám myslím poskytlo užitečnou škálu nástrojů pro podporu tohoto odvětví. Pokud jde o to, jak by finanční nástroje, které mají být zavedeny, fungovaly, považuji za nezbytné vést diskusi k nalezení všeobecně přijatelného řešení. Ovšemže přemýšlím o fondu pro mléko.
+<P>
+Pane předsedající, rád bych se zmínil o nástrojích regulace trhu. Zaznamenal jsem žádosti o ponechání nástrojů regulace trhu a účinných nástrojů. Podobně jako vy se v tomto novém celosvětovém kontextu, o němž řada z nás hovořila, domnívám, že pro zemědělství a pro potraviny, toto výrobní odvětví, tuto skutečnou ekonomiku, která má dopad na zabezpečení potravin pro lidi, jsou zapotřebí intervenční nástroje pro případ závažné nestability na trhu, a z tohoto hlediska je intervence významným aspektem jednání.
+<P>
+Řada členských států, podobně jako mnoho poslanců Evropského parlamentu, usiluje o revizi původních návrhů Komise a jejich opětovné projednání. Směřujeme také k nalezení kompromisu, který by nám umožnil zachovat skutečnou a účinnou bezpečnostní síť.
+<P>
+A nakonec bych rád hovořil o článku 68. Zde v Parlamentu i v Radě proběhla řada diskusí a existuje silná poptávka po zpřístupnění možností uplatňovat tento článek, který vzbuzuje velký zájem, zatímco bude zachována jeho jednota. Zpřístupnění možností pro uplatnění tohoto článku by možná - alespoň dle mého názoru - umožnilo posunout se například k podpoře pro odvětví chovu ovcí, které zde bylo zmíněno a které podporu potřebuje.
+<P>
+I zde s paní komisařkou v tomto směru pracujeme, právě se snažíme nalézt řešení, která mají za cíl zlepšit podmínky financování. Mám na mysli zejména požadavky, které vznesla řada zástupců členských států na téma větší spravedlnosti a rovnosti.
+<P>
+Pane předsedající, dámy a pánové, velmi pozorně a s velkým zájmem jsem naslouchal všem těm velmi konkrétním vystoupením, které zde zazněly. Bude mým úkolem, abych na základě stanoviska, které hodláte vydat, a já bych rád znovu poděkoval panu předsedajícímu Parishovi, celému výboru i panu zpravodaji za odvedenou práci, zajistil dynamický politický kompromis, který nám umožní společnou zemědělskou politiku přizpůsobit a zárověň ji ochránit v novém celosvětovém kontextu, v němž se nacházíme. To je úkol, na kterém budeme pracovat s paní Mariann Fischer Boelovou a jejími kolegy, a já jim děkuji za atmosféru spolupráce, kterou jsme mezi sebou vytvořili v posledních měsících.
+<P>
+Rád bych také možná řekl poslední poznámku k tomu, co před okamžikem uvedla paní Aubertová, která připomenula situaci v zabezpečení potravin. Předsednictví si plně uvědomuje, že nemůžeme diskutovat o zemědělské politice s klapkami na očích, zahleděni do Evropy. Právě to nás vedlo k tomu, abychom 3. července zorganizovali na půdě Evropského parlamentu za účasti generálního ředitele Světové obchodní organizace, generálního ředitele Světové banky, generálního ředitele Organizace OSN pro výživu a zemědělství, řady poslanců Evropského parlamentu a komisaře Louise Michela konferenci o tomto tématu s názvem Kdo nakrmí svět? V tomtéž duchu zorganizujeme dne 28. listopadu pracovní setkání, rovněž s panem Louisem Michelem, o vztahu mezi zemědělstvím a rozvojem.
+<P>
+Věnuji tedy, podobně jako předsednictví, zvýšenou pozornost tomu, co se říká o zemědělství, aby byl zachován zemědělský model a model regionální výroby potravin v EU, který byl oporou společné zemědělské politiky po padesát let, neustále si však udržuji jasný a vnímavý pohled na to, co se děje v jiných částech světa.
+<SPEAKER ID="072" NAME="Mariann Fischer Boel">
+členka Komise. - Pane předsedající, pozorně jsem poslouchala a myslím, že zápis "catch-the-eye" jasně ukazuje, že v Parlamentu panuje velký zájem o oblast zemědělství a o důsledky rozhodnutí, která budou přijata.
+<P>
+Ráda bych upozornila na několik věcí, o nichž byla řeč. Zaprvé bych ráda zdůraznila, že se domnívám, že jste špatně porozuměli nebo něco přeslechli, když jste se mne pokoušeli přesvědčit, že odlišení znamená obírat zemědělce o peníze - tak tomu skutečně není. Potřebujeme odlišení, neboť jsou zde nové úkoly a my musíme posílit možnosti zemědělců investovat s cílem tyto nové úkoly vyřešit. Proto se naopak domnívám, že můžete dokonce říci, že při odlišení ve skutečnosti navýšíme dostupné finanční prostředky pro odvětví zemědělství, neboť zde funguje spolufinancování. Takový je náš přístup. Budete-li dále tvrdit, že obíráme zemědělce o peníze, pak mi ti, kdo tento argument uvádějí, zcela jistě nerozuměli.
+<P>
+Zjevně velkým problémem je v dnešní době mléko. Neil Parish ve svém prvním příspěvku řekl, že ve vašem výboru je 27 členských států - 27 spotřebitelů, po vyslechnutí dnešní rozpravy mám však pocit, že jich je mnohem více; pokud jste ji poslouchali, bylo možné si vybrat cokoli - od 0 až po 10% navýšení. Předsednictví a Komise jsou povinny usilovat o nalezení vhodné rovnováhy.
+<P>
+Nyní pro ty, kdo hovořili o fondu pro mléko: je to zvláštní, neboť stále připomínám jednání z roku 2003, kdy jsme odškodnili producenty mléka v celé Evropě. Vezměme si za příklad třeba Německo: němečtí chovatelé mléčného skotu byli odškodněni částkou 1 miliardy EUR ročně - tyto peníze byly převedeny z jejich plateb za mléko do režimu jednotné platby. Tehdy jsem však neslyšela, že by někdo mluvil o fondu pro mléko, a to je důvod, proč jsme v současnosti doplnili do nových výzev položku týkající se mléka, protože víme, že odvětví mléka čelí obtížím. Jsem si jista, že budeme schopni navrhnout velmi pěkný balíček pro producenty mléka v oblastech, které se ocitly v nesnázích.
+<P>
+Musím říci, že jsem překvapena, že se tolik poslanců staví proti zvýšení kvót pro mléko, neboť vím, že jsme během loňského roku vybrali od evropských producentů mléka 338 milionů EUR ve formě superdaně. Toto je cesta, kterou skutečně jít nechci. Chci dát zemědělcům možnost, aby reagovali na trhy. Zvýšení kvót neznamená povinnost vyrábět - jde o pouhou možnost pro ty, kdo mají silné postavení na vnitřním nebo vnějším trhu. Nesmíme zapomínat na to, že část z těch, kdo na trhu soutěží, musí každoročně zaplatit dohromady 338 milionů EUR za to, aby mohli pokračovat v podnikání.
+<P>
+Pokud jde o přerozdělování, je zřejmé, že panovala široká shoda co se týče toho, že tato kontrola stavu nebude novou reformou, a že tedy stavíme na reformě provedené v roce 2003. Myslím, že předsednictví i Komise mohou uznat, že existuje silný tlak nových členských států na to, aby dostávaly rovnější platby, a vím, že to bude diskuse, která bude silně obhajována v reformě v roce 2013. I teď už obsahuje kompromis některá řešení pro nové členské státy a já věřím, že budete příjemně překvapeni.
+<P>
+A konečně k otázce tabáku, která byla vznesena, mohu poznamenat jen to, že na mne učinil dojem pan Gklavakis, který se nás vždy snaží přesvědčit, že tabák je důležitý, a my věříme, že v jeho regionu tomu tak skutečně je. Tabák však není součástí kontroly stavu. Tabáková reforma proběhla v roce 2004 a byla podpořena všemi členskými státy, včetně těch, které jsou producenty tabáku. Jak už jsem mnohokrát řekla, nehodlám znovu otevírat reformu tabáku. Jsem ale připravena jednat o každé pomoci těmto členským státům, celým těmto oblastem, které čelí problémům, neboť pro to v zemědělské politice existuje řada možností. Jsem si jista, že můžeme dojít k takovým řešením, která změkčí dopady již přijatých rozhodnutí, pokud jde o producenty tabáku.
+<P>
+Musím být ve svých poznámkách stručná, můj závěr k dnešní rozpravě je však jednoznačný - společnou zemědělskou politiku potřebujeme více než kdy předtím. Souhlasím s paní McGuinnessovou, že situace, kdy by jedinou odpovědí bylo vrácení politiky na vnitrostátní úroveň, by určitě ohrozila odvětví zemědělství v Evropě.
+<P>
+Ponechme naší zemědělské politice pružnost, kterou jsme poskytli v možnostech volby v rámci politiky rozvoje venkova. Společnou zemědělskou politiku však potřebujeme. Takový je můj závěr z dnešní rozpravy. Ráda bych vám všem poděkovala za aktivní přístup.
+<SPEAKER ID="074" NAME="Luis Manuel Capoulas Santos">
+zpravodaj. - (PT) Dlouhý seznam řečníků a rozhodnost a zanícenost jejich vystoupení znovu potvrzují, jak moc je pro Evropský parlament toto téma důležité, a také význam, který by měl být přiznán evropskému zemědělství, zemědělcům a venkovu.
+<P>
+Tato rozprava nepřinesla žádná překvapení, neboť hlavně potvrdila stanoviska, která byla opakovaně zdůrazňována v různých diskusích během této dlouhé debaty, která trvala déle než rok a v mé politické skupině dokonce ještě šest měsíců před tím.
+<P>
+Přesto mám pocit, že se také jasně ukázalo, že neexistují žádná alternativní řešení k postojům představujícím střední proud a umožňujícím rozumný kompromis, který by většina v Parlamentu podpořila.
+<P>
+Také Komise a Rada zopakovaly svá stanoviska, potěšilo mne však, že jsem mohl v jejich vystoupeních zaznamenat jisté známky pružného a otevřeného přístupu.
+<P>
+Pevně proto doufám, vážená Mariann a vážený Micheli, ve váš politický realismus a v kompromisní přístup při hledání konečného řešení, které je velmi blízké tomu, jak vám jej v těchto zásadních otázkách navrhl Parlament.
+<P>
+Rád bych znovu poukázal na symbolický význam tohoto přístupu v předvečer udělení spolurozhodovací pravomoci Evropskému parlamentu, neboť věřím, že problém s ratifikací Lisabonské smlouvy bude brzy vyřešen, protože Evropa Lisabonskou smlouvu potřebuje.
+<P>
+Pane Barniere, jak jsem opakovaně řekl, dosud institut spolurozhodování nepoužíváme, již však cítíme jeho atmosféru. Věřím proto, že se náročná jednání, která jsou očekávaná dnes i zítra, ukážou jako velmi úspěšná. Jsem si jist, že budeme schopni nalézt konsenzuální řešení odpovídající potřebám evropských zemědělců a evropského zemědělství, kteří naše kroky pozorně sledují. Jsme všichni přesvědčeni o tom - a to bude nejlepší závěr této rozpravy - že Evropa potřebuje společnou zemědělskou politiku proto, aby evropské zemědělství mohlo být konkurenceschopné a udržitelné z hlediska životního prostředí.
+<SPEAKER ID="075" NAME="Předsedající">
+Rozprava je ukončena.
+<P>
+Hlasování se bude konat ve středu 19. listopadu 2008.
+<P>
+Písemná prohlášení (článek 142)
+<SPEAKER ID="076" NAME="Gerard Batten  " AFFILIATION="IND/DEM">
+písemně. - Společná zemědělská politika nutí britské spotřebitele k tomu, aby nakupovali jídlo za přehnané ceny od pevninských zemědělců spíše než za nižší ceny, které umožňuje světový trh. Odhaduje se, že kvůli SZP jsou ceny oproti těm, které převládají na světovém trhu, alespoň o 23 % vyšší.
+<P>
+Ekonomové také odhadují, že náklady na SZP pro britské spotřebitele odpovídají nejméně 1,2 % HDP, v současné době tedy tvoří neuvěřitelných 16,8 miliard liber ročně.
+<P>
+Zastupuji mnoho lidí z Londýna, kteří mají problémy s placením svých účtů. Čelí stále rostoucím daním a stále rostoucím cenám. Nejsou povinni živit pevninské zemědělce. Pokud země chtějí podporovat vlastní zemědělský průmysl, je to jejich věc, ale měli by to zaplatit jejich vlastní daňoví poplatníci.
+<P>
+Společnou zemědělskou politiku platí ti, kteří si to mohou nejméně dovolit: důchodci a lidé s nízkými příjmy, ti, kteří utratí větší část svého použitelného příjmu na jídlo. SZP je jen jedním z mnoha důvodů, proč by Británie měla vystoupit z Evropské unie.
+<SPEAKER ID="077" NAME="Constantin Dumitriu  " AFFILIATION="PPE-DE">
+písemně. - (RO) Těší mne, že rok poté, co Evropská komise zahájila konzultační proces pro přijetí společné zemědělské politiky o současných potřebách zemědělců a zemědělských výrobců, dosáhli jsme shody na některých konkrétních návrzích.
+<P>
+Myslím, že kompromis, na kterém jsme se shodli o článku 68, je rozumný, obzvláště zvýšení stropu pro vytvoření fondů vyžadovaných pro jakékoli nové veřejné politické strategické opatření v členských státech z 10 na 15 % a zavedení jasného stropu pro použití prostředků fondu ve formě konkrétní pomoci.
+<P>
+Rád bych se vyjádřil k otázce lhůty pro plné používání balíčku podmíněnosti co se týče Rumunska a Bulharska. Obě tyto země dosáhnou 1. ledna 2016 100 % maximální úrovně přímých plateb. Proto je správné, aby lhůta pro plné používání balíčku podmíněnosti byla v obou zemích až do té doby. S údivem konstatuji, že pozměňovací návrh za tímto účelem, který podporujeme, nebyl přijat. Vzhledem k tomu, že se jedná o velmi důležitou otázku pro nové členské státy, naléhám na své kolegy poslance, aby to při následných diskusích vzali v úvahu, abychom mohli dospět k řešení, které bude nejen výhodné pro členské státy, ale současně odsouhlasené zástupci všech členských států EU.
+<SPEAKER ID="078" NAME="Béla Glattfelder  " AFFILIATION="PPE-DE">
+písemně. - (HU) Zhodnocení stavu neznamená jen prosté přezkoumání společné zemědělské politiky (SZP). Ve skutečnosti hovoříme o reformě SZP a významném omezení podpory zemědělství. To je z pohledu Maďarska a maďarských zemědělců nepřijatelné.
+<P>
+Reformy doposud dokázaly jen poškodit maďarské zemědělství.
+<P>
+V Maďarsku by odlišení postihlo i menší dvacetihektarové farmy. Tyto menší farmy nepotřebují snížení, ale naopak zvýšení přímé podpory. Uplatnění odlišení v nových členských státech před rokem 2013 by navíc bylo v rozporu s dohodou o přistoupení.
+<P>
+V zájmu zabezpečení potravin musíme pokračovat v podpoře poskytování pomoci výrobě a uspořádání trhu, včetně zásahů týkajících se obilí. Považujeme za nepřijatelné, že intervenční cena by měla být svázána s cenou v přístavu v Rouenu, protože ve vzdálenějších, a především nových členských státech jsou nižší střední ceny nákladů na dopravu, což znamená diskriminaci.
+<P>
+Nesouhlasíme se zvýšením kvót pro mléko. Jarní zvýšení kvót pro mléko se ukázalo být špatným rozhodnutím, které vedlo k pádu cen mléka v několika členských státech. Zvyšování kvót pro mléko je především v rozporu se zájmy Maďarska, jelikož u nás velká část kvót pro mléko zůstává nevyužita. Takovýto krok by maďarské výrobce odradil od zvyšování jejich výroby.
+<P>
+Souhlasíme se zachováním podpory výrobců tabáku. Především v nejvíce znevýhodněných severozápadních oblastech země znamená výroba tabáku živobytí pro několik tisíc rodin.
+<SPEAKER ID="079" NAME="Roselyne Lefrançois  " AFFILIATION="PSE">
+písemně. - (FR) Ráda bych na úvod pochválila mimořádnou práci, kterou odvedl náš zpravodaj pan Capoulas Santos, který nepřetržitě hledal vyvážený a stabilní kompromis, aby umožnil Evropskému parlamentu hovořit jedním hlasem vůči roztříštěné a nejisté Radě.
+<P>
+Kontrola stavu, o které budeme dnes hlasovat, je výjimečná příležitost k tomu, abychom přemýšleli, jak můžeme společnou zemědělskou politiku (SZP) zbavit nespokojenosti, která ji podrývá, a pohlédnout kupředu na obrovský kus práce na plánované reformě této politiky po roce 2013.
+<P>
+Společné zemědělské politice nesporně potřebujeme vdechnout čerstvý vítr, především ze sociálního a environmentálního hlediska. V tomto ohledu mne těší, že se nám podařilo pozměnit znění Evropské komise v zájmu sociální citlivosti, a to především navržením vyšší podpory malých zemědělců a zavedením hledisek "práce" a "zaměstnání" do pravidel pro přidělování pomoci. Mrzí mne však, a to je má jediná výhrada, že nejsou hospodářské a sociální ohledy více doprovázeny i úvahami o ochraně životního prostředí, neboť principem naší zemědělské politiky se musí stát "udržitelnost".
+<SPEAKER ID="999" NAME="Lasse Lehtinen  " AFFILIATION="PSE">
+písemně. - (FI) Pane předsedající, je třeba učinit mnohem více pro to, aby bylo možné zaručit, že je zemědělská pomoc přidělována tak, aby posouvala zemědělství směrem k udržitelnému rozvoji. Stávající dotace jsou obecně chápány jen jako zvyšování příjmů zemědělců.
+<P>
+Zemědělství v zemích na břehu Baltského moře je v této oblasti největším původcem znečištění. Pokud takové zemědělství dostane dotaci, zvýšíme tím v podstatě emise do podzemních vod, a tím i do moře.
+<P>
+Každé podnikání, i zemědělství, se musí podílet na dobrovolné environmentální činnosti a souvisejících projektech. Jedině tak může zemědělství v budoucnosti žádat o právo na svou existenci. Proč by měli daňoví poplatníci i nadále podporovat zaměstnání, které poškozuje okolní prostředí, když se lze znečištění vyhnout nakupováním dovážených potravin?
+<P>
+Pitná voda se stala vzácnou surovinou. Proto je jedině správné, aby lidé platili za její znečišťování a aby peníze na to nepocházely z veřejných zdrojů.
+<P>
+Zemědělství musí řádně využívat nespočet existujících opatření na ochranu životního prostředí. Opětovné získávání fosforu a dusíku je technologicky možné a bude také brzy lukrativní. Tyto vzácné přírodní zdroje a suroviny musí být recyklovány, jak je to požadováno i u jiných přírodních zdrojů.
+<SPEAKER ID="080" NAME="Janusz Lewandowski" AFFILIATION="PPE-DE">
+písemně. - (PL) Podle očekávání se kontrola stavu stala příležitostí k hlubšímu zkoumání zásad společné zemědělské politiky (SZP), než jak tomu bylo v jiných oblastech politiky Evropské unie a jejího rozpočtu.
+<P>
+Zemědělská politika, která pohltila většinu rozpočtových výdajů a bude představovat třetinu rozpočtu na konci roku 2013, byla předmětem silné kritiky. Korunoval v ní argument, který se týkal nepoměru mezi úlohou, kterou zemědělství hraje v hospodářství a zaměstnanosti, a jejím podílem v rozpočtu EU. Jedná se o nedorozumění.
+<P>
+SZP je politikou celého Společenství a její podíl na souhrnu veřejných výdajů EU, vnitrostátních i společných, nepřesahuje 0,3 % HDP. Mimoto se změnily mezinárodní skutečnosti a kvůli tragickému hladomoru v rozvojových zemích se musíme znovu zamyslet nad zásadami podpory zemědělství v Evropě.
+<P>
+Evropský parlament tento problém důkladně projednával, jak o tom svědčí množství pozměňovacích návrhů. Z úhlu pohledu státu, kde zemědělství poměrně významnou měrou přispívá k zaměstnanosti, což je případ Polska, by bylo opodstatněné zvednout kvóty pro mléko a poskytnout vnitrostátní pomoc odvětvím, které jsou nejvíce znevýhodněné. Co se týče odlišení, které se ukázalo jako nejspornější otázka, je dobré si uvědomit, že "nové" členské státy dosáhnou 100% míry přímé podpory jen až v roce 2013 a že odlišení by mohlo být vnímáno jako předvoj návratu zemědělské politiky na vnitrostátní úroveň, což by bylo nevýhodné.
+<SPEAKER ID="998" NAME="Cătălin-Ioan Nechifor  " AFFILIATION="PSE">
+písemně. - (RO) Jako zástupce oblasti, kde má zemědělství významnou úlohu, v Rumunsku, jednom z nových členských států, si nemyslím, že by nerovnosti v zacházení se zemědělci ze starých a nových člesnských států Evropské unie byly díky posouzením provedeným v rámci kontroly stavu společné zemědělské politiky umenšovány. Přesto je užitečné, že pro Rumunsko nebyly změněny národní kvóty pro mléko, spolu s tím, že členské státy mají možnost na jistou dobu své kvóty pro mléko navýšit, pokud nejsou v jiných členských státech plně využívány. S ohledem na současnou krizi, která ovlivňuje i toto odvětví, je důležité navrhnout vytvoření fondu pro mléko, který by podpořil restrukturalizaci tohoto odvětví.
+<P>
+Navíc si myslím, že před uplatněním nových úprav mléčných kvót v roce 2015 musí mít výrobci možnost přizpůsobit se změnám trhu a investovat v souladu s poptávkou trhu, zejména s ohledem na to, že lhůty pro podávání žádostí o investiční podporu jsou poměrně dlouhé. Aby mohli výrobci investovat v souladu s poptávkou trhu, musí být navíc odstraněna hranice, pokud jde o stanovení kvót.
+<SPEAKER ID="081" NAME="Maria Petre  " LANGUAGE="RO">
+Slyšela jsem jednoho kolegu poslance hovořit o tom, jak rozdělit sladkosti mezi dvě děti. Pokud bych měla pokračovat v tomto příměru, ráda bych vás upozornila na skutečnost, že pokud by tím dítětem měl být rumunský nebo bulharský zemědělec v budoucnosti, řekla bych, že to, co si zasloužil, by dostal po osmi letech. Ptám se tedy, zda by zůstal dítětem i po osmi letech.
+<P>
+Když jsem se jako rumunská poslankyně připojila k Výboru pro zemědělství a rozvoj venkova, zaujala mne fráze "hladké přistání", která je často používána například v souvislosti s kvótami pro mléko. Ptala jsem se tehdy a ptám se i teď: jak mohou rumunští a bulharští zemědělci skloubit proces "vzletu" s procesem "hladkého přistání"? Když Rumunsko čerstvě zahájilo proces přistoupení, řekl mi dánský partner, že při tomto procesu bude nejobtížnější kapitolou zemědělství. Dnes, dva roky po přistoupení, doufám, že poskytne rumunské zemědělství Evropě příležitost k tomu, aby byla jednotná.
+<SPEAKER ID="082" NAME="Dushana Zdravkova  " AFFILIATION="PPE-DE">
+písemně. - (BG) Pokračovat v reformě společné zemědělské politiky (SZP) je nezbytné k tomu, aby si Evropa mohla udržet vedoucí úlohu v tomto odvětví. Nemělo by se tak ovšem samozřejmě dít na úkor výrobců nebo konečných spotřebitelů. Je všeobecně známo, že Evropská unie se z vývozce zemědělské výroby stala jejím dovozcem. Z toho je vidět, že výsledek dnešní rozpravy musí být vyvážený, a my si tak mohli být jistí, že jsou ochráněny zájmy všech občanů.
+<P>
+Věřím, že velká část návrhů Komise je pro bulharské zemědělce užitečná, zejména když špatné řízení na straně bulharské vlády v tomto odvětví a spáchané podvody vyústily v neúspěch při dosahování předpokládaných výsledků v rámci předvstupních mechanismů. To je důvod, proč jsme byli v posledních měsících svědky protestů zemědělských výrobců, hlavně z oblasti výroby mléka a obilovin. Ve výsledku je důležité, aniž by tím bylo ohroženo úplné uvolnění trhu mlékárenských výrobků, aby bylo poskytnuto zabezpečení těm regionům, jejichž živobytí je na mléčné výrobě závislé.
+<P>
+V Bulharsku je mnoho zemědělců zabývajících se výrobou mléka ve vysokohorských a jinak znevýhodněných oblastech. Z toho důvodu podporuji myšlenku, aby byly na jejich rozvoj přiděleny vyšší prostředky a vytvořen zvláštní fond pro výrobce mléka.

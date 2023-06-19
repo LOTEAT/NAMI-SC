@@ -1,0 +1,6 @@
+<CHAPTER ID="005">
+Szavazások órája
+<SPEAKER ID="013" NAME="Elnök">
+A következő napirendi pont a szavazások órája.
+<P>
+(A szavazások eredménye és további részletek: lásd a jegyzőkönyvet)

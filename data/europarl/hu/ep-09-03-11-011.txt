@@ -1,0 +1,166 @@
+<CHAPTER ID="011">
+A SIS II rendszerrel kapcsolatos jelenlegi helyzet (vita) 
+<SPEAKER ID="310" NAME="Elnök">
+A következő napirendi pont a következők együttes tárgyalása:
+<P>
+az Európai Néppárt (Kereszténydemokraták) és az Európai Demokraták Képviselőcsoportja nevében Carlos Coelho, az Európai Parlament Szocialista Képviselőcsoportja nevében Martine Roure és a Liberálisok és Demokraták Szövetsége Európáért Képviselőcsoport nevében Henrik Lax által a Tanácshoz intézett szóbeli választ igénylő kérdés a SIS II. projekt alakulásáról - B6-0010/2009), és
+<P>
+az Európai Néppárt (Kereszténydemokraták) és az Európai Demokraták Képviselőcsoportja nevében Carlos Coelho, az Európai Parlament Szocialista Képviselőcsoportja nevében Martine Roure és a Liberálisok és Demokraták Szövetsége Európáért Képviselőcsoport nevében Henrik Lax által a Bizottsághoz intézett szóbeli választ igénylő kérdés a SIS II. projekt alakulásáról - B6-0011/2009).
+<SPEAKER ID="311" NAME="Carlos Coelho" LANGUAGE="PT">
+Elnök úr! Soros tanácsi elnök úr! Bizottsági elnök-helyettes úr! Hölgyeim és uraim! Az Európai Parlamentben egyértelműen támogatjuk a SIS II. (Schengeni Információs Rendszer) gyors üzembe helyezését, aminek 2007-ben meg kellett volna történnie. A SIS második generációja közösségi megközelítést képvisel a tekintetben, hogy szükség van a külső határokon a biztonság növelésére és olyan fontos újítások megosztására, mint a biometrikus adatok és a figyelmeztető jelzések összekapcsolása. Elfogadjuk, hogy ez a rendszer csak akkor helyezhető üzembe, ha stabil és napi 24 órában működőképes. Véleményem szerint eljött az ideje, hogy kiderítsük, ki a felelős ezért a késedelemért, hogy mélységében megvizsgáljuk a helyzetet, és hogy olyan megoldásokat találjunk, amelyek műszakilag megbízhatóvá teszik a projektet és helyreállítják már meggyengült hitelességét.
+<P>
+Tudjuk, hogy a múlt évben különböző teszteket végeztek, amelyek negatív eredménnyel zárultak, ilyen volt különösen az operációs rendszerre vonatkozó teszt. A Tanács és a Bizottság úgy határozott, hogy a fennálló problémák megoldása érdekében négyhónapos időszakot állapít meg meg, jóllehet nagyobb siker nélkül, amelyről a 2008 decemberében megismételt tesztek eredményei is tanúskodnak. Amennyire tudjuk, az elvégzett javítások ellenére a rendszer teljesítménye, valamint hatékony és hibatűrő működése, az üzenetvesztések, az adatminőség és a nemzeti másolatok központi rendszerrel való szinkronizálási folyamata tekintetében még mindig komoly problémák vannak. A SIS II. természetesen nem indulhat addig, amíg ezek a problémák meg nem oldódtak. Szeretném kifejezni kétségeimet afelől, hogy a szerződött társaság képes-e ilyen rövid idő alatt megoldani ezeket a problémákat, amelyeket jóval hosszabb ideig korábban nem oldottak meg. Remélem, hogy a projekt független ellenőrzése elindítható annak kiderítésére, hogy ki a felelős. Nincs kifogásom a "SIS I mindenkinek” rendszer SIS II. projektté fejlesztésére vonatkozó alternatív technikai forgatókönyvvel szemben, feltéve, hogy a SIS II. projektre vonatkozó jóváhagyott jogi keretrendszert teljes mértékben tiszteletben tartják. Március végén fogják bemutatni a két forgatókönyv vizsgálatára és összehasonlítására vonatkozó jelentést. A Parlament szeretne hozzáférni ehhez a tanulmányhoz, és tájékoztatást szeretne kapni a projektre vonatkozó új irányról - a technikai oldalon a megbízhatósági szint és a jogi következmények tekintetében is -, az új ütemtervről és a költségvetési hatásról. Szeretném emlékeztetni a Tanácsot és a Bizottságot, hogy különösen ebben az időszakban az egész folyamat nagyobb átláthatósága különösen ajánlatos.
+<SPEAKER ID="312" NAME="Martine Roure" LANGUAGE="FR">
+Elnök úr! A SIS II., amint tudjuk, igen fontos eszköz a schengeni térség biztonságának megteremtéséhez, különösen a 10 új országgal való bővülés után.
+<P>
+A jogalapok 2007-es elfogadása óta egyetlen alkalommal sem láthattunk részletes jelentést a fejleményekről, illetve a technikai vagy politikai problémákról, amelyekről azt állítják, hogy hátráltatják a rendszer indítását.
+<P>
+A sajtón keresztül értesültünk arról, hogy a központi rendszer teljes biztonságban történő indításához szükséges valamennyi teszt 2008 decemberében sikertelenül befejeződött.
+<P>
+Tudjuk, hogy a Bizottság a főbb problémák megoldása érdekében megpróbált egy javítást célzó tervet kidolgozni, és tudjuk, hogy a Tanácson belül számos tagállam már egy olyan alternatíván gondolkozik, amely a jelenleg működő SIS rendszer egyszerű frissítését jelentené.
+<P>
+A probléma ezért nem technikai, hanem politikai jellegű. Ezt a Parlamentet arra kérték, hogy együttdöntéssel határozza meg a SIS II. felépítését, amely önmagában biztosítaná a szabadságon, a biztonságon és a jog érvényesülésén alapuló térségünkhöz szükséges biztonságot. Ezen dolgoztunk anélkül, hogy szem elől tévesztettük volna polgáraink biztonságát és alapvető jogaiknak védelmét.
+<P>
+Jelen esetben az európai intézmények - különösen a Tanács és a Bizottság - politikai felelőssége forog kockán, mivel úgy véljük, hogy a Parlament a polgárokkal szemben megfelelően töltötte be szerepét.
+<P>
+Ma és a jövőben is várjuk e radikális irányváltás politikai indokait. Ez bizonyára komoly következményekkel járhat az ez ideig e projektre előirányzott költségvetésre, kezdve a szükség esetén elérhető források tartalékba helyezésével, egészen a projekt jövőjének és jogalapjának megfelelő meghatározásáig.
+<SPEAKER ID="313" NAME="Henrik Lax">
+szerző. - (SV) Elnök úr! Soros tanácsi elnök úr! Biztos úr! Nekünk az Európai Parlamentben tudnunk kell, hogy a Tanács és a Bizottság még mindig hisz-e abban, hogy a SIS II. valaha elindul és működni fog. A Bizottság ki fog tartani amellett, hogy megtalálja a jelenlegi problémákra vonatkozó technikai megoldást? Mi az előre vezető út? Amint a két korábbi hozzászólásból is kitűnt, mi az Európai Parlamentben szeretnénk naprakész tájékoztatást kapni a problémákról és ez eddig nem történt meg.
+<P>
+Ha a SIS II. jelenlegi formájában nem indítható el sikeresen, létezik-e egy B-terv és ezt a B-tervet bemutatják-e? Ahogy Roure asszony említette, a SIS II. kérdése végül is az Unió hitelességének kérdése, ha az EU-n belüli belső biztonság garantálásáról van szó. Nem szabad azonban elfelejtenünk, hogy ugyanazt az infrastruktúrát kell használni a vízuminformációs rendszer (VIS) esetében is. Hosszú távon tehát az Unió vízumpolitikájának hitelessége is felmerül, azaz arra vonatkozó képessége, hogy hogyan kezeli méltó módon a külvilághoz fűződő kapcsolatait.
+<P>
+Végül szeretném megkérdezni a Bizottságot, hogy e projekt vonatkozásában még mindig élvezi-e a tagállamok teljes támogatását. Készek-e viselni egy olyan projekt költségeit, amely úgy tűnik, mintha soha nem akarna elindulni?
+<SPEAKER ID="314" NAME="Alexandr Vondra">
+a Tanács soros elnöke. - Elnök úr! Mielőtt mai vitánk témájával kapcsolatban szólnék, kérem, engedjék meg, hogy azzal kezdjem, hogy legmélyebb együttérzésemet fejezzem ki a mai baden-württembergi tragikus esemény áldozatainak hozzátartozói felé.
+<P>
+Most pedig engedjék meg, hogy rátérjek mai vitánk témájára. Először is hálásak vagyunk azért a lehetőségért, amelynek köszönhetően megtarthatjuk ezt a vitát. Amint azt mindannyian pontosan tudják, ez egy fontos kérdés. Számos működési probléma vezetett a SIS II. elindítása és működése területén felmerülő konkrét problémákhoz.
+<P>
+Az elnökség, kérésüknek megfelelően arra törekszik, hogy teljesen átláthatóvá tegye az Önök számára az e kérdéssel kapcsolatos korábbi történéseket és azok hátterét. A rendszerre vonatkozó eredeti tesztek negatív eredményei miatt 2008 novemberében és decemberében további tesztekre került sor. Az operációs rendszer e tesztjeinek végső eredménye csak 2009 januárjának második felében vált ismertté.
+<P>
+A Bizottság a bel- és igazságügyi minisztereket 2009. január 15-i prágai, nem hivatalos találkozójukon tájékoztatta arról, hogy e tesztek eredménye nem volt kielégítő. A miniszterek azonnal megállapodtak abban, hogy egy új átfogó SIS II. irányítási szemlélet bevezetésére van szükség, amely a tagállamokat bevonja a Bizottsággal való együttműködésbe. Az új irányítási személet biztosítani fogja a projekt szorosabb ellenőrzését, amely ezáltal lehetővé teszi a lehetséges nehézségek korai előrejelzését. Megállapodás született továbbá arról, hogy a következő IB-Tanácson, amelyre 2009. február 26-27-én került sor, intézkedéseket hoznak. Ezen a találkozón a Tanács végső következtetésében úgy határozott, hogy felhívja a Bizottságot, hogy a Parlamentet és a Tanács elnökségét folyamatosan, teljes körűen tájékoztassa a SIS II.-vel kapcsolatos problémákról és a további lépésekről.
+<P>
+E Parlament azt kérdezte, hogy a mai napig azonosított problémák megkívánják-e a rendszer újraépítését. A Tanácshoz beérkezett, a SIS II. projekt helyzetéről kapott információk szerint számos probléma továbbra is fennáll. Úgy értesültünk azonban, hogy a Bizottság véleménye szerint valamennyi rendezetlen kérdés a SIS II. alkalmazás nagyobb áttervezése nélkül megoldható.
+<P>
+Februári ülésén a Tanács hozzájárult a SIS II. elemzési és javítási tervének végrehajtásához, amely lehetővé fogja tenni valamennyi probléma azonosítását és azok azonnali megoldását, a technikai felépítés értékelését, valamint egy stabil és hibátlan SIS II. rendszer biztosítását. A Tanács arról is megállapodott, hogy a készenléti tervet kell követni abban az esetben, ha olyan komoly problémák merülnek fel, amelyeket nem lehet megoldani. A SIS II.-vel szembeni alternatív megoldás tekintetében a februári IB-Tanács üdvözölte a megvalósíthatósági tanulmány befejeződését, amely a készenléti terv részeként a SIS I+ fejlesztésén alapuló SIS II. kialakítására vonatkozó megvalósítható, alternatív technikai forgatókönyv létrehozásának alapjául szolgál.
+<P>
+A Tanács azt is kérte, hogy a lehető leghamarabb, de legkésőbb 2009 májusáig az elnökség és a Bizottság nyújtsa be a Tanácsnak a két forgatókönyv mélyreható elemzését és összehasonlítását tartalmazó jelentést. A Tanács e jelentés alapján meg fogja vizsgálni a SIS II. alakulásában elért előrehaladást, valamint az alternatív forgatókönyv vonatkozásában meg fogja vizsgálni a SIS II. célkitűzése elérésének esélyét, amint a SIS II. létrehozására, működésére és használatára vonatkozó jogi keretrendszerben meghatározásra került, a SIS I+ fejlesztés technikai alapján. Ezt a vizsgálatot a lehető leghamarabb, de legkésőbb a 2009. június 4-5-i tanácsi ülésen fogják elvégezni.
+<P>
+A rendezetlen problémák megoldására és különösen a pénzügyi vonatkozásokkal kapcsolatos, a Parlament által kért részletek tekintetében a Tanács arra kérte a Bizottságot, hogy ne csak a SIS II.-vel kapcsolatos problémákról tájékoztassa az Európai Parlamentet, hanem rendszeresen teljes körűen tájékoztassa a Parlamentet és a Tanácsot a központi SIS II. projekttel kapcsolatos kiadási adatokról, valamint a teljes pénzügyi átláthatóság biztosítása érdekében tett intézkedésekről.
+<P>
+Az elnökségtől és a Bizottságtól kért jelentés alapján a Tanács legkésőbb 2009. júniusi üléséig megvitatja a SIS II. elindítására vonatkozó ütemtervet. Ez figyelembe fogja venni a Schengeni Információs Rendszerről - SIS I+ - a Schengeni Információs Rendszer második generációjára - SIS II. - történő áttérésre vonatkozó tanácsi rendelet tervezetéről szóló, 2008. szeptember 24-i parlamenti állásfoglalásban meghatározott ütemtervre vonatkozó rendelkezéseket. Ez bekerült az október 24-i tanácsi rendelet 19. cikkébe.
+<P>
+Biztos vagyok abban, hogy a Bizottság a felvetett kérdésekkel kapcsolatban további tájékoztatással tud szolgálni. Csak biztosítani szeretném Önöket, e Parlament tagjait arról, hogy az elnökség szorosan nyomon fogja követni e kérdést és biztosítani fogja az IB-miniszterek által az előző hónapban elfogadott útirány szigorú betartását.
+<SPEAKER ID="315" NAME="Jacques Barrot" LANGUAGE="FR">
+Elnök úr! Szeretném megerősíteni a Vondra úr által elmondottakat. Hozzá kell tennem továbbá, hogy Langer úrral, a belügyminiszterek tanácsának elnökével együtt ennek a SIS II.-vel kapcsolatos problémának teljes prioritást biztosítottunk.
+<P>
+Megpróbálok néhány pontosítással szolgálni. A SIS II. fejlesztése tekintetében a Bizottsággal kapcsolatban álló fővállalkozó az egyes nemzeti rendszerekkel interaktív működésben álló központi rendszeren elvégzett egy sor működési tesztet. 2008 novembere és decembere között e tesztek eredménye alapján azt a következtetést vontuk le, hogy a központi rendszer nem érte el a szerződésben kikötött szintet.
+<P>
+November közepén a Bizottság kezdeményezte a SIS II.-megoldás részletes elemzését, amelyet jelenleg a Hewlett-Packard/Steria végez a tagállamok szakértőivel együttműködésben, valamint két neves informatikai tanácsadócég segítségével és támogatásával.
+<P>
+A működési tesztek eredménytelensége után egy körülbelül négy hónapig tartó elemzési és javítási tervet vezettünk be. E terv célkitűzése, hogy a SIS II. alkalmazását kielégítő stabilitási és teljesítményszintre hozza.
+<P>
+A terv célja először is, hogy kijavítsa a központi rendszerhez kapcsolódó ismert programhibákat - a programhibák egy részét már ki is javították - másodszor, hogy ellenőrizze, hogy a SIS II. bevezetését ne érintsék leküzdhetetlen strukturális gyengeségek.
+<P>
+A kitűzött teszteket számos, prioritást élvező területen végzik annak érdekében, hogy megszüntessék a jelenlegi megoldás felépítését övező bizonytalanságokat. Ez a tevékenység az alapvető problémák technikai elemzésének véglegesítésével párhuzamosan folyik.
+<P>
+A Bizottság ezen kívül bevezette a projektirányítás átfogó megközelítését is annak érdekében, hogy a SIS II. központi és nemzeti elemei jobban integrálhatók legyenek, a Bizottság és a tagállamok által jogilag meghatározott hatáskörökkel összhangban.
+<P>
+Konkrétan a Bizottság a projektre vonatkozóan közös irányítási struktúrát koordinál. Ez a közös irányítási struktúra hozza össze a nemzeti projektirányítókat, a központi projektirányítókat és a Bizottság fővállalkozóit. Ez a struktúra fogja kísérni a projektet az elemzési és javítási szakaszban, majd a minősítési tesztek alatt, később az áttérési szakaszban, egészen a SIS II. elindításáig.
+<P>
+Az elemzési és javítási szakasz végén pontos képünk lesz arról, hogy milyen forrásokra van még szükség a SIS II. elindításáig, és hogy milyen az ehhez kapcsolódó ütemterv, amint azt éppen Vondra úr is említette. Természetesen nem kétséges, hogy a SIS II. 2009. szeptemberi üzembe helyezése késedelmet szenved majd.
+<P>
+A SIS II.-vel kapcsolatos jelenlegi nehézségeket a miniszterek január 15-i nem hivatalos találkozóján és a bel- és igazságügyi tanács február 26-27-i ülésén is megvitatták. A Bizottság által, a SIS II. folytatására vonatkozóan javasolt megközelítés főbb vonalait elfogadták.
+<P>
+Először is a Tanács támogatta, hogy folytatni kell a jelenlegi SIS I+ alapján álló alternatív technikai megoldásra vonatkozó megvalósíthatósági tanulmányt. Tehát folytatni tudjuk az alternatív megoldásra vonatkozó megvalósíthatósági tanulmányt.
+<P>
+Minden alternatív megoldásnak azonban természetesen meg kell felelnie a SIS II.-re vonatkozó, a Parlament és a Tanács által elfogadott jogi keretrendszernek. Nyilvánvalóan nagy figyelmet kell szentelni a beruházások maximális újbóli felhasználásának, valamint a tagállamok és azon társult országok helyzetének, amelyek az elkövetkezendő években a schengeni térség részévé kívánnak válni.
+<P>
+A miniszterek elhatározták, hogy amint az épp említésre került, legkésőbb júniusban - június elején -ismét összeülnek, hogy felmérjék az elért haladást, és szükség esetén meghatározzák az új irányokat és esetlegesen az alternatív megoldásra való áttérést. Ennek figyelembevételével a Tanács arra kérte az elnökséget és a Bizottságot, hogy a SIS II. munkacsoporttal szoros együttműködésben és a megfelelő szervekkel konzultálva nyújtson be a Tanácsnak egy, a két forgatókönyv részletes elemzését és összehasonlítását tartalmazó jelentést. A jelentést a lehető leghamarabb, de legkésőbb 2009 májusáig kell elkészíteni.
+<P>
+E célból az egyes megoldások előnyeinek és hátrányainak értékeléséhez közös összehasonlítási szempontokban állapodtak meg. Konkrétan ez azt jelenti, hogy június elejéig tanácsi határozat születik, amelyet az elvégzett tesztek figyelembevételével hoznak meg, és amely véleményünk szerint lehetővé teszi a SIS II. folytatását, vagy egy alternatív megoldás felé való elmozdulást, amelynek azonban természetesen meg kell felelnie az Önök által meghatározott célkitűzéseknek.
+<P>
+Természetesen nagyon figyeltem arra, amit Coelho úr és Roure asszony a magas átláthatósági szint szükségességéről mondott. Azt szeretném mondani, hogy rendszeresen küldjük és a jövőben is küldeni fogjuk a SIS II.-vel foglalkozó bizottság jegyzőkönyveit. Azt is meg kell mondanom, hogy írtam Deprez úrnak, az Állampolgári Jogi, Bel- és Igazságügyi Bizottság elnökének, és részletesen tájékozattam a SIS II. helyzetéről. Ennek a levelezésnek egy példányát Coelho úr is megkapta.
+<P>
+Szeretném Lax úrral továbbá azt is közölni, hogy a SIS II.-vel kapcsolatos problémák nem érintik a VIS-t. A SIS II.-vel kapcsolatos problémák nem érintik a VIS-szel megosztott infrastruktúrát. Elmondható, hogy a VIS a tagállamokkal megállapodott terv szerint nagyon jól halad.
+<P>
+Amit mondani akarok Önöknek az az, hogy a munkacsoporttal és a Bizottságon belül is valóban szervezett, rendkívül rendszeres megbeszéléseket tartunk a társvállalkozóval és a két társvállalkozóval, különösen a Steriával. Igazán remélhetjük, elnök úr, hölgyeim és uraim, hogy ez a kérdés megoldódik az elkövetkezendő hónapokban, ezzel a végső, június elejeként megjelölt időpontban hozandó határozattal, amikor a Tanácsnak tényleg meg kell hoznia határozatát.
+<P>
+Itt és most kötelezettséget vállalok arra, hogy a Parlament tájékoztatást kap ezekről a fejleményekről.
+<SPEAKER ID="316" NAME="Marian-Jean Marinescu" LANGUAGE="RO">
+A SIS II.-vel kapcsolatos működési problémákat a közelmúltban a Tanács 2009 februári ülésén vitatták meg. Ismételten kiemelték, hogy azonnali megoldás szükséges a SIS II.-t érintő patthelyzetre.
+<P>
+Az a benyomásom azonban, hogy válaszok helyett a SIS II.-ről szóló vita után még több kérdés merült fel. A Tanács a SIS II. technikai felépítésével kapcsolatos problémák azonosítása érdekében támogatja egy elemzési és javító terv létrehozását, amelynek célja a rendszer stabillá és megbízhatóvá tétele. Másrészt a Tanács nem zárja ki annak lehetőségét, hogy egy olyan alternatív technikai megoldás elfogadásáról határoz, amely képes a SIS II. által megjelölt célkitűzések elérésére.
+<P>
+Bármely lehetőségre is essen a választás, ez nem befolyásolhatja azoknak az országoknak a bevonására vonatkozó ütemtervet, amelyek még ki vannak zárva a schengeni térségből. Szeretném megtudni, hogy a Bizottság milyen intézkedéseket fogad majd el a lehetséges késedelem elkerülése érdekében, és hogyan fogják fedezni az e változásokkal összefüggő pótlólagos költségeket. Románia példája önmagáért beszél. Románia külső határa 2 000 km hosszú. A schengeni térségbe 2011 márciusára történő bevonása fő prioritás. Mindez a határozatlanság befolyásolhatja e határidő betartását.
+<P>
+Egy másik dolgot is meg szeretnék említeni. Egy olyan időszakban, amikor a Bizottság a határigazgatásban a következő szakaszokra vonatkozó új jogalkotási javaslat tervezetét készíti elő, meg szeretném kérni a Bizottságot, hogy az e rendszerek közötti legjobb szinergia elérése érdekében mindenekelőtt értékelje a határigazgatáshoz használt jelenlegi rendszerek hatékonyságát, majd ezt követően vizsgálja meg a határlogisztikába történő beruházások lehetőségét.
+<P>
+Az EU stratégiai célkitűzéseinek elérése érdekében a Bizottság nem kezdheti a semmiből új eszközök kialakítását mindaddig, amíg a meglévők, mint például a SIS II. vagy a VIS teljes egészében működnek és megbízhatóak.
+<SPEAKER ID="317" NAME="Genowefa Grabowska" LANGUAGE="PL">
+Elnök úr! Az általunk vitatott helyzet önmagáért beszélő példa, amely azt mutatja, hogy a határok megnyitása terén néha könnyebb konszenzust elérni és politikai megállapodást kötni, mint felülkerekedni a technikai problémákon.
+<P>
+A tagállamok Schengenhez történő 2007. december 23-i csatlakozása nagy esemény volt e tagállamok polgárai számára. Tudom, mert én lengyel vagyok. Hazám maga is részesült ebben az áldásban és nagyra értékeli a határok megnyitását, mert ez az utolsó hátrányos megkülönböztetést jelentő körülmény eltűnését jelenti, amely elválasztott bennünket a régi Európai Unió tagállamaitól.
+<P>
+A Frontex ügynökség székhelye szintén hazámban található. Tudom, hogy Barrot úr Lengyelországban járt, ahol megbeszéléseket folytatott a Frontexnél és látogatást tett az EU külső határának egy részénél, amelyért Lengyelország felel. Tudom, hogy a gyakorlatban nincsenek komoly problémák ennek a határnak az őrzésével, és hogy a határ biztonságos. Vannak azonban technikai jellegű problémáink, amelyek megoldása politikai problémává alakul, amint azt kollégám, Roure asszony említette. Teljesen egyetértek vele.
+<P>
+Ha azonban vannak technikai problémák, ha vannak nehézségek, akkor feltételezem, hogy minden uniós intézmény felelős azért, hogy felszólítsa azt a szervet, amelynek ilyen sokáig tart a SIS II. bevezetése. Sajnálatos, hogy ez nem történt meg, és hogy e témakörben az átláthatóságot kevéssé kényszerítették ki.
+<P>
+Úgy gondolom, hogy a polgárok számára fontos problémák megoldása tekintetében az Európai Parlament nem érthet egyet azzal, hogy bármely intézkedést tőle függetlenül hozzanak meg, vagy figyelmen kívül hagyják, különösen a biztonság területét érintő témában.
+<P>
+Egy nagyon apró megjegyzéssel szeretném zárni. Ha problémák voltak, ha a Hewlett-Packardnak nem sikerült megoldania a technikai problémákat, nem szabad elfelejteni, hogy Lengyelországban kiváló szakemberek, fiatal emberek vannak, akik remek informatikai mérnökök, és akik az egész világon híresek. Úgy gondolom, hogy hasznosak lehetnek, és a kívánt eredményt jóval olcsóbban, gyorsabban és megfelelőbben érnék el.
+<SPEAKER ID="318" NAME="Hubert Pirker" AFFILIATION="PPE-DE">
+(DE) Soros tanácsi elnök úr! Biztos úr! Schengen egyrészt a biztonság, másrészt a szabadság és a nagyvonalúság közötti kapcsolat szinonimája ma is, és mindig is az volt. Európa polgárai és mi mindannyian ebben az Európai Unió által nyújtott hozzáadott érték egy részét láttuk. Ez mindig kiválóan működött, és eközben az "egy mindenkiért” alapon hatékonyan alkalmazták.
+<P>
+Ami ma történik, bosszantó. Bosszantó továbbá az is, hogy a Parlament, amely mindig nagyon együttműködő volt, nem kapta meg a szükséges tájékoztatást. Mi mindig tájékoztattuk Európa polgárait. A II. Schengeni Információs Rendszer tökéletesen és határidőben fog működni, és most azt kellett megtudnunk, hogy problémák adódtak, és úgy tűnik, hogy a dilemma megoldása nem látszik.
+<P>
+Szeretném megtudni, hogy helyesek-e a médiában megjelent számadatok, amelyek szerint eddig a II. Schengeni Információs Rendszer kifejlesztésére 100 millió eurót költöttek. A társaságra nézve milyen következmények várhatók? A Bizottság, a Tanács vagy más szerv miért nem vezetett be időben egy ellenőrzési rendszert?
+<SPEAKER ID="319" NAME="Mihael Brejc" AFFILIATION="PPE-DE">
+(SL) Valójában furcsa, hogy a rendszer működtetésére vonatkozó problémák merülnek fel újra és újra, ha ilyen fontos és súlyos technikai kérdéseket vetünk fel. Eddig már foglalkoztunk az adatfeldolgozással kapcsolatos technikai kérdésekkel. Ezért a nagyközönség jogosan kérdezi, hogy miért van az, hogy uniós szinten nincsenek olyan szakértő intézményeink, amelyek kellő szakértelemmel rendelkeznek bármely technikai probléma megoldására, amely a kivételesen nagy és átfogó adatbázisok kezeléséből adódhat.
+<P>
+A kezdetektől részt vettem e vitákban. Együtt dolgoztam továbbá az előadóval, Coelho úrral, és ismerek néhány technikai nehézséget és hiányosságot, amely továbbra is fennáll, beleértve a rendelkezésre álló szakértelmi szintet érintő problémákat is. Ezért az az érzésem, hogy el kell végeznünk a rendszer valódi technikai és pénzügyi felülvizsgálatát, és felelősségre kell vonnunk azokat, akik ezt a projektet irányították. Valójában ez nem csak az én érzésem; ez a nagyközönség érzése is.
+<SPEAKER ID="320" NAME="Bernd Posselt" AFFILIATION="PPE-DE">
+(DE) Elnök úr! Biztos úr! Személyesen nagyra értékelem Önöket, de ami itt történik, az valójában tűrhetetlen kontár munka, amely elfogadhatatlan mértékű pazarlást és hozzá nem értést is magában foglal. Ezért nem csak a Bizottságot, hanem az Állampolgári Jogi, Bel- és Igazságügyi Bizottságot és a Költségvetési Ellenőrző Bizottságot is felszólítom, hogy részletesen vizsgálja meg ezt a kérdést.
+<P>
+Örülök, hogy a Cseh Köztársaság tölti be a Tanács Elnökségének tisztét, mivel Bajorország és a Cseh Köztársaság biztonsági érdekei pontosan megegyeznek. Tudjuk, hogy a határok megnyitásával kapcsolatos valamennyi félelem ellenére a biztonsági helyzet a kiváló rendőrségi együttműködésnek köszönhetően a határok megnyitása óta jelentősen és alapvetően javult. Ez Európa más részei számára is mintaként szolgálhat, és ezt Bajorország nevében szeretném megköszönni a Cseh Köztársaságnak. Elvárjuk, hogy a Schengeni Információs Rendszer végre valamennyi területet lefedjen, és ne korlátozódjon egyedi, példamutató kétoldalú megállapodásokra.
+<SPEAKER ID="321" NAME="Alexandr Vondra">
+a Tanács soros elnöke. - Elnök úr! Szeretném megköszönni Önöknek ezt a vitát. Úgy gondolom, hogy ez azt mutatja, hogy van egy megoldandó probléma. A Tanács, vezetésünk alatt januárban megtette, amit tudott. Komolyan vette azt a kezdeményezést, hogy ki kell dolgozni egy készenléti vagy alternatív tervet, és a határidők meghatározásával sürgetni kell a megoldást.
+<P>
+Ez az, amit tenni tudunk. A pénzügyi kérdések tekintetében a Bizottságra hagyom a nyilatkozás lehetőségét. Langer miniszter úr és Barrot biztos úr között kiváló az együttműködés, úgy gondoljuk tehát, hogy képesek leszünk kezelni ezt a helyzetet.
+<P>
+Annak a kérdésnek a tekintetében, hogy ez egy politikai vagy technikai probléma, úgy gondoljuk, hogy ez mindössze technikai probléma. Nem bizonyos politikai problémák eltakarására szolgáló ködösítés, amint azt sugallták. Nem - a rendszernek a lehető leghamarabb működnie kell.
+<P>
+Grabowska asszony megjegyzéseivel kapcsolatban: igen, nem felejtettük el, hogy mit jelent a váróteremben lenni. Ezt egy évvel ezelőtt megvitattuk. Valamennyi ország, amely e tekintetben bizonyos előrehaladást kíván látni, hirtelen a mi tapasztalatainkhoz hasonló tapasztalatokat él át. Elkötelezettek vagyunk a technikai megoldás kidolgozása iránt, amely további országok iparágainak részvételét teszi lehetővé, az adott ütemtervnek megfelelően.
+<P>
+Ezzel a néhány záró megjegyzéssel fejezem be. Sok mindent említettem az elején. Most tovább kell lépnünk.
+<SPEAKER ID="322" NAME="Jacques Barrot" LANGUAGE="FR">
+Elnök úr! Vondra úr! Köszönöm a cseh elnökség e kérdés iránti elkötelezettségét. Támogatásukat nagyra becsüljük.
+<P>
+Először is Marinescu úrnak szeretnék válaszolni azzal, hogy nincs különös probléma, tekintettel arra, hogy azok a tagállamok, amelyek még nem tagjai a schengeni rendszernek, azok is csatlakozhatnak a SIS II. rendszerhez. Számos olyan "résidő” vagy időpont lesz, amikor azok az új tagállamok, amelyek nem tagjai a schengeni rendszernek, csatlakozhatnak a SIS II.-höz, és így, ha minden jól megy, nem lehetnek különös problémák.
+<P>
+Grabowska asszony, szeretném továbbá megköszönni mindazt, amit a Lengyel Köztársaság a külső határok őrzése terén tesz. Lehetőségem volt arra, hogy ténylegesen megállapítsam a Frontex lengyel munkacsoportokkal együtt végzett munkájának minőségét az ukrán határon.
+<P>
+Roure asszonynak és Grabowska asszonynak válaszul mindössze azt szeretném mondani, hogy a probléma alapvetően technikai jellegű. Ahogy Vondra úr is mondta, nem politikai probléma. Az igazság egyszerűen az, hogy a tagállamok, vagy bizonyos tagállamok, egyre nagyobb igényekkel léptek fel. Ezért meg kell mondani, hogy a SIS II.-nek egyre bonyolultabb célkitűzéseknek kellett megfelelnie. Következésképpen a rendszer összetettebbé vált és az informatikával szemben Önök által tanúsított minden tisztelet ellenére a végrehajtás a vártnál nehezebbnek tűnik. Igaz azonban, hogy a probléma alapvetően továbbra is technikai jellegű, következésképpen megoldhatónak kell lennie.
+<P>
+Pirker úrnak szeretném mondani, hogy a Parlament meg fogja kapni a megfelelő tájékoztatást, és erre itt kötelezettséget vállalok. Ezt személyesen is megtettem a projekt folyamán, és úgy gondolom, hogy elmondhatom, hogy ezt valóban abszolút prioritásnak tartom. Szeretném Brejc urat is biztosítani arról, hogy pontosan meghatároztuk a felelősöket. A Bizottsággal együttműködésben felállítottuk ezt a munkacsoportot, amelybe a tagállamok szorosan bekapcsolódnak. Úgy gondolom, hogy most van egy biztos irányítócsoportunk, de társszerződőnknek is képesnek kell lennie arra, hogy megfeleljen az általunk felállított követelményeknek.
+<P>
+Szeretnék azonnal válaszolni a Pirker úr és Posselt úr által feltett pénzügyi kérdésre is. A SIS II. projekt vonatkozásában a Bizottság teljes költségvetési kötelezettségvállalása körülbelül 68 millió euró. A vonatkozó szerződések magukban foglalják a megvalósíthatósági tanulmányokat, magának a központi rendszernek a kialakítását, a rendszertámogatást és a minőségellenőrzést, az s-Testa hálózatot, a strasbourgi operatív irányítás előkészítését, a biztonságot, a biometrikus területtel kapcsolatos előkészítő munkákat és a kommunikációt. Tehát a kötelezettségvállalás: 68 millió euró.
+<P>
+Ami a kifizetéseket illeti, eddig technikai fejlesztésre ténylegesen 27 millió eurót költöttek: 20 millió eurót a rendszer kifejlesztésére; 7 millió eurót a műszaki fejlődés élvonalát jelentő hálózat biztosítására; és 4 500 000 eurót a minőségbiztosításra.
+<P>
+Meg kell mondani, hogyha a Tanács a SIS II. megbízhatóságáról vagy a megbízhatóság hiányáról való meggyőződést követően úgy dönt, hogy a SIS I+R megoldásra tér át, akkor megfontolhatjuk, hogy SIS II.-re kialakított kommunikációs hálózatot használjuk-e, amely azt jelenti, hogy a kapcsolódó beruházások nagy része változatlanul maradhat.
+<P>
+Valódi problémánk, hölgyeim és uraim, Schengen, a szabad mozgást biztosító schengeni térség valóban hatékony eszközzel való ellátása. Igaz, hogyha sikerrel járunk a Schengen II. esetében, akkor az általa biztosított eredmények lehetővé tételével ez lesz a világ leghatékonyabb rendszere. Az informatikának azonban rendben kell lennie.
+<P>
+Mindenesetre, amit szeretnék mondani Önöknek, a cseh elnökség után - és még egyszer szeretném megköszönni Vondra úrnak a cseh elnökség e nehéz kérdésben tanúsított kötelezettségvállalását - az az, hogy valóban úgy gondolom, hogy a jelenlegi elnökséggel minden erőfeszítést megtettünk annak érdekében, hogy elkerüljünk minden további késedelmet és valóban lehetővé tegyük társszerződőnk számára, hogy megfeleljen elvárásainknak. Mindenképpen lesz egy meghatározott végleges találkozónk, amely lehetővé teszi, hogy a Tanács meghozza a szükséges döntéseket. Természetesen ismételten kötelezettséget vállalok arra, hogy a Parlament megkapja a tájékoztatást.
+<SPEAKER ID="323" NAME="Elnök">
+A vitát lezárom.
+<P>
+Írásbeli nyilatkozatok (az eljárási szabályzat 142. cikke)
+<SPEAKER ID="324" NAME="Alin Lucian Antochi  " LANGUAGE="RO">
+Úgy gondolom, hogy ez a projekt, amelynek célja, hogy javuljon az Európai Unió külső határai igazgatására vonatkozó rendszer, nem tekinthető úgy, mint a migráció mint folyamat megállítására irányuló próbálkozás. Az EU határainak biztonságosabbá tételére irányuló intézkedések valódi céljának semmi köze a bevándorlók beáramlásának meggátolásához, hanem azok szigorú ellenőrzése a célja. A migráció megfelelő kezelése hasznos az Európai Unió tagállamai társadalmai és gazdaságai számára is.
+<P>
+Hangsúlyoznom kell, hogy az Európai Uniónak nagyobb figyelmet kell szentelnie a konfliktusokkal terhelt területek melletti külső határai igazgatásának. Például az Európai Unió moldovai és ukrajnai határőrizeti segítségnyújtó missziója (EUBAM) által eddig végzett tevékenység különös elismerést érdemel. Ezek között szerepel a határon az egységes vámeljárás bevezetése, a csempészet elleni korlátozások bevezetése és a bűnöző csoportok tevékenységének csökkentése.
+<P>
+Másrészt az a tény, hogy mindeddig nem sikerült megoldani a transznisztriai konfliktust, a moldovai hatóságok számára alaposan megnehezíti a határ e szakaszának igazgatását, ahol folytatódik a nagy mértékű illegális migráció.
+<P>
+Szeretném kifejezni határozott meggyőződésemet arra vonatkozóan, hogy az Európai Unió kellő politikai, gazdasági és biztonsági befolyással rendelkezik a fent említett illegális tevékenységek megállításához, amely aktívabb részvételt is jelent a külső keleti határain fennálló megoldatlan konfliktusok rendezésében.

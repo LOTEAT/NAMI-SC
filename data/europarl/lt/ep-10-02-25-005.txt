@@ -1,0 +1,230 @@
+<CHAPTER ID="005">
+Geležinkelių sauga, įskaitant Europos signalizacijos sistemą (diskusijos) 
+<SPEAKER ID="065" NAME="Pirmininkas">
+Kitas klausimas - Komisijos pareiškimas dėl geležinkelių saugos, įskaitant Europos signalizacijos sistemą.
+<SPEAKER ID="066" NAME="Siim Kallas">
+Komisijos pirmininko pavaduotojas. - Pone pirmininke, 2010 m. vasario 15 d., pirmadienį, Buicingene įvykusi traukinio avarija yra sukrečianti tragedija. Suprantu, kad po šios rimtos avarijos galima kelti keletą techninių ir politinių klausimų dėl geležinkelių saugos.
+<P>
+Pirmiausia prisimenu šios tragedijos aukas ir jų artimuosius. Tokiomis liūdnomis progomis visada sunku rasti paguodos žodžių ir tyla kartais daug iškalbingesnė. Avarijos priežastys dar nėra išsamiai žinomos ir remiantis ES saugos direktyvos nuostatomis pradėtas techninis tyrimas.
+<P>
+Jį privalo atlikti Belgijos tyrimo įstaiga. Tyrimas turėtų būti atliktas nepriklausomai nuo teisminio tyrimo. Techninio tyrimo tikslas - ne paskirstyti kaltę ir atsakomybę, o nustatyti priežastis siekiant gerinti geležinkelių saugą ir tobulinti avarijų prevenciją.
+<P>
+Belgijos tyrimo įstaiga paprašė, kad jai šį tyrimą atlikti padėtų Europos geležinkelių agentūra. Du agentūros tyrėjai jau po kelių valandų nuo avarijos prisijungprie tyrimą atliekančios Belgijos grupės.
+<P>
+Norėčiau pabrėžti, kad nederėtų daryti išvadų, nes avarijos priežastys dar neišaiškintos. Žinoma, aš pasirengęs išaiškinti kai kuriuos po šios tragedijos kilusius klausimus ir papasakosiu, kaip suvokiu padėtį.
+<P>
+Kaip dažnai būna įvykus avarijoms, Europos taisykles ar reglamentavimo nuostatas bandoma susieti su avarija. Pirmiausia norėčiau labai aiškiai patikintidėl rinkos atvėrimo. Geležinkeliais vežamų krovinių sektorius ne tik atvertas konkurencijai ir nustatyti reikalavimai infrastruktūros valdytojų ir geležinkelio įmonių veiklai atskirti, bet ir nustatyta griežta geležinkelių saugos ir sąveikos reglamentavimo sistema. Norime užtikrinti, kad būtų išlaikyta aukšto lygio geležinkelių sauga ir kartu šioje srityje pripažįstami kiekvienos valstybės narės taikomi konkrečios procedūros ir metodai.
+<P>
+Europos geležinkelių agentūra reguliariai rengia ataskaitas dėl Europos tinklo saugos ir stebi padėties valstybėse narėse raidą.
+<P>
+Iš rodiklių matyti, kad geležinkelių sektoriaus atvėrimas konkurencijai neturėjo jokio neigiamo poveikio geležinkelių saugai. Leiskite aiškiai pasakyti, kad bet koks teiginys, kuriuo geležinkelių saugos lygis siejamas su geležinkelių rinkos atvėrimu, mano nuomone, yra tik pasiteisinimas norint diskusijas nukreipti nuo tikrųjų avarijos priežasčių.
+<P>
+Nacionalinių ir europinių traukinių kontrolės sistemų bendros veiklos klausimas gali būti išdėstytas taip. Europoje saugiam traukinių eismui užtikrinti šiandien naudojama daugiau kaip dvidešimt skirtingų nacionalinių sistemų. Šios nacionaliniu lygmeniu parengtos sistemos sudarytos iš bėgių dedamosios ir traukinio dedamosios. Bėgių dedamoji siunčia informaciją traukinio kompiuteriui ir nustačius pavojingą atvejį kompiuteris jungia stabdžius.
+<P>
+Kad sistemos veiktų, traukiniuose ir linijose turi būti įrengta suderinama sistema. Įvairių nacionalinių automatinių traukinių apsaugos sistemų saugos lygis ir rezultatyvumas skiriasi, taip pat skirtingos šių nacionalinių sistemų linijų ir lokomotyvų įrangos taisyklės.
+<P>
+Įvairių nacionalinių sistemų nesuderinamumas tarptautiniams traukiniams kelia didelių problemų, nes arba prie kiekvienos sienos turi būti keičiami lokomotyvai, arba juose turi būti įrengta tiek borto sistemų, kiek sistemų veikia linijose, kuriomis jie važiuoja. Netgi esama atvejų, kai vienoje šalyje kartu veikia skirtingos nacionalinės sistemos. Pvz., Thalys traukiniuose turi būti įrengtos septynios skirtingos nacionalinės sistemos, kad jie galėtų važinėti keturiose šalyse.
+<P>
+Dėl šios priežasties suprojektuota ir parengta viena bendra Europos lygmens sistema, dabar įrengiama svarbiausiose tarptautinėse Europos linijose ir traukiniuose. Ši sistema žinoma kaip ERTMS - Europos geležinkelių eismo valdymo sistema.
+<P>
+Laiko požiūriu galime sakyti, kad dauguma nacionalinių sistemų sukurtos devintojo dešimtmečio pradžioje, bet jų panaudojimas yra ilgas ir brangus procesas. Šios sistemos dabar įrengtos tik dalyje daugumos šalių nacionalinių tinklų ir lokomotyvų ir šis dalinis įrengimas truko maždaug dvidešimt metų.
+<P>
+ERTMS specifikacijomis buvo galima naudotis nuo 2000 m. 2000-2005 m. atliktas ne vienas bandomasis projektas. Nuo 2005 m. pradėtos eksploatuoti kelios linijos, kuriose įrengta ERTMS. Šiuo metu linijas su ERTMS turi dešimt valstybių narių, o projektai įgyvendinami beveik visose valstybėse narėse. Pvz., Belgijoje ši sistema įrengta linijoje Achenas-Liežas ir joje važinėjančiuose ICT traukiniuose.
+<P>
+ERTMS pirmiausia sukurta siekiant skatinti sistemų sąveiką. Tai reiškia, kad lokomotyvai gali kirsti sienas, tačiau pripažįstama, kad ši sistema yra pranešesnsaugos požiūriu. Šiandien sistema visapusiškai veikia, bet kadangi įrengti ją traukiniuose ir ilgose linijose trunka ilgai, esamos nacionalinės sistemos linijose toliau veiks kartu su ERTMS.
+<P>
+Trečiosios šalys, pvz., Taivanas - ir tai tik vienas pavyzdys - irgi pasirinko ERTMS, ir ne vien dėl sąveikos. Taivanas į ERTMS investavo todėl, kad tai tiesiog geriausia šiandien rinkoje esanti sistema.
+<P>
+Buvo pateikta keletas klausimų apie padėties įvairiose valstybėse narėse palyginimą. Gana sunku ir nelabai naudinga sudarinėti valstybių narių reitingų lentelę ir teikti prasmingus palyginimus. Viskas priklauso nuo to, kokie pasirenkami rodikliai, atskaitos laikotarpis ir kokia pateikiamų duomenų kokybė. Viena ar dvi didelės avarijos taip pat gali turėti didelį poveikį bet kokiam reitingui, kurį galėtume sudaryti.
+<P>
+Iš bendrų duomenų matyti, kad Belgijos rezultatai vidutiniški. Vis dėlto tiesa, kad Belgija atsilieka nuo Europos vidurkio pagal bėgius, kuriuose įrengta automatintraukinių apsaugos sistema, ar ji būtų nacionalinė, ar europinė.
+<SPEAKER ID="067" NAME="Mathieu Grosch" LANGUAGE="DE">
+Pone pirmininke, pone S. Kallasai, norėčiau padėkoti už paaiškinimus. Avarijos Buicingene aplinkybėmis, žinoma, svarbu parodyti pagarbą aukoms ir tyrėjams. Todėl neturime pradėti daryti išvadų apie avariją ir, dar svarbiau, neturime pradėti ko nors kaltinti.
+<P>
+Manau, kad Komisija tinkamai pasielgtvirtai atmesdama bendrovės Belgian National Railways kaltinimą, kad Europos geležinkelių eismo valdymo sistemą sukurti užtruko per ilgai. Žinome, kad sauga tebėra valstybės narės prioritetas ir kad taip bus ir toliau. Europos lygmeniu mes - ir Komisija, ir Parlamentas - visada apgailestavome, kad geležinkelių bendrovės neteikia didesnės pirmenybės saugai ir įvairių Europos sistemų sąveikai.
+<P>
+Po avarijų nauji pasiūlymai dažnai teikiami su politiniu atspalviu. Turiu pasakyti, kad šiuo atveju turėjome viską - ir teisės aktus, ir technologiją. Vienintelis dalykas, kurio galbūt trūko - noras technologijai teikti didelę pirmenybę. Nuo dešimtojo dešimtmečio vidurio galima naudotis technologija, kurią taikant užtikrinamas saugus perėjimas tarp europinės sistemos ir pažangios Belgijos sistemos, kitaip tariant, vadinamosios TBL 1+ sistemos. Netrūko nei laiko, nei techninės infrastruktūros.
+<P>
+Man svarbi ateitis ir norėčiau pabrėžti toliau aptariamus aspektus. Pirmiausia jokiomis aplinkybėmis neturime mažinti geležinkelininkų mokymo. ES niekada neįsipareigojo ir neįsipareigos skatinti siaurinti šį mokymą. Geležinkelių darbuotojai yra labai kvalifikuoti, taip turi būti ir ateityje.
+<P>
+Antra, reikia, kad geležinkelių bendrovės ir šalys pateiktų galutinius, privalomus perėjimo iš vienos sistemos į kitą planus. Nebepakanka viską palikti gerai valiai. Mums reikia tikslaus tvarkaraščio ir greitai turėsime galimybę Parlamente išsiaiškinti konkrečius tikslus.
+<P>
+Trečiasis mano pasiūlymas - keleiviai irgi turėtų turėti teisę žinoti, ar bėgių atkarpa bei riedmenys, kuriais jie važiuoja, atitinka aukščiausius saugos standartus. Tai būtiniausia informacija, kuri turi būti teikiama keleiviams ateityje. Be to, turime išsiaiškinti, kaip nustatyti privalomą reikalavimą tai daryti.
+<SPEAKER ID="068" NAME="Saïd El Khadraoui" LANGUAGE="NL">
+Pirmiausia Europos Parlamento socialistų ir demokratų pažangiojo aljanso frakcijos vardu irgi norėčiau pareikšti nuoširdžią užuojautą Buicingeno geležinkelio katastrofos aukoms, jų šeimoms ir draugams.
+<P>
+Prieš darydami tikras, išsamias išvadas, žinoma, turime sulaukti tyrimo rezultatų, bet, nepaisant to, geležinkelių saugai visais lygmenimis, taip pat Europos lygmeniu, turi būti skiriama dėmesio ir todėl turime saugos politiką nuolat vertinti, tobulinti, papildyti ir tikslinti. Prisijungdamas prie savo kolegos nario ir jūsų, Komisijos nary, norėčiau labai aiškiai pareikšti, jog apgailestaujame, kad tam tikri asmenys, kuriems Belgijoje tenka didelatsakomybė, siekatsakomybę už avariją perkelti Europai arba bent jau sudartokį įspūdį. Kaip svarbiausia priežastis, kodėl dabar, 2010 m., Belgijoje tik kai kuriuose lokomotyvuose įrengta automatinio stabdymo sistema, nurodytas vėlavimas kuriant Europos geležinkelių eismo valdymo sistemą (angl. ERTMS).
+<P>
+Vis dėlto, ponios ir ponai, aiškiai ir nuoširdžiai pasakykime vieną dalyką: šios geros idėjos - vienos bendros signalizacijos sistemos, pakeisiančios dvidešimt atskirų sistemų - plėtotužtruko ilgiau negu buvo tikimasi ar laukiama. Šio vėlavimo priežastys, žinoma, yra techninis sudėtingumas ir tai, kad reikėjo pasiekti labai didelio skaičiaus šalių - dvidešimt septynių - susitarimą dėl standarto, nors tada šių šalių buvo pora mažiau. Žinoma, su tuo susiję ir padariniai biudžetui. Vis dėlto, kaip jūs teisingai sakėte, tai neužkirto kelio nvienai valstybei narei kurti nuosavą sistemą arba pradėti naudoti tam tikrą ERTMS sistemos ankstyvojo laikotarpio užuomazgos variantą.
+<P>
+Manau, kad vis dėlto turime žiūrėti į priekį ir galvoti, kaip galime prisidėti prie saugesnių geležinkelių. Esu įsitikinęs, kad šį įnašą galime daryti ir Europos lygmeniu, keliomis veiklos kryptimis. Pirmiausia tai galime daryti toliau plėtodami ERTMS. Toks plėtojimo planas jau yra. Siekdami padėti valstybėms narėms tai padaryti, 2009 m. 240 mln. EUR iš biudžeto skyrėme transeuropiniams transporto tinklams (TEN-T).
+<P>
+Antra - ir manau, kad tai yra svarbus uždavinys Komisijai ir Europos geležinkelių agentūrai - taip pat turime stebėti, ar šioje srityje praktiškai įgyvendinami esami Europos saugos teisės aktai. Kaip pavyzdį paminėčiau Direktyvą 2004/49/EB dėl saugos Bendrijos geležinkeliuose. Joje, be kitų dalykų, nustatyta, kad kiekviena valstybnarturi įsteigti saugos instituciją, kuri turi būti nepriklausoma nuo geležinkelių įmonių ir infrastruktūros valdytojo ir kurios funkcijos būtų stebėti, skatinti ir įgyvendinti geležinkelių saugą, plėtoti reglamentavimo sistemą. Nujaučiu, ponios ir ponai, kad tai Belgijoje veikia ne itin gerai, ir manau, kad jūs turėtumėte surengti kokį nors auditą - patikrinti, ar valstybės narės tikrai sugeba konkrečiomis priemonėmis užtikrinti šią saugą savo vidaus geležinkelių sistemose. Tai uždavinys, kurį norėčiau jums pavesti.
+<SPEAKER ID="069" NAME="Dirk Sterckx" LANGUAGE="NL">
+Aš irgi savo frakcijos vardu noriu pareikšti užuojautą avarijos aukoms ir taip pat, žinoma, noriu sulaukti tyrimo rezultatų. Tikiuosi, tyrimas bus atliktas ne tik kuo greičiau, bet ir kuo išsamiau.
+<P>
+Mano šalyje buvo iškeltas ne vienas klausimas apie Europos požiūrį į geležinkelius. Turiu jums būti sąžiningas: Esu sukrėstas, kad kai kurie žmonės mus apkaltino saugos nepaisymu. Aš buvau Parlamento pranešėjas, rengęs pranešimą dėl Geležinkelių saugos direktyvos, kurią S. El Khadraoui ką tik minėjo, ir didžiuojuosi mūsų tada atliktu darbu. Mes nusprendėme būti labai reiklūs saugai visose valstybėse narėse ir šiam tikslui įgyvendinti turėjome sukurti europinę sistemą ir nustatyti reikalavimus. Buvo labai sunku pasiekti, kad šiai sistemai pritartų valstybės narės. Pažymiu - tai teisingai paminėjo ir S. El Khadraoui - kad kai kuriose šalyse, deja, įskaitant ir manąją, ši direktyva nacionaliniu lygmeniu įgyvendinama prastai. Tikiuosi, jūs tai atidžiai įvertinsite, Komisijos nary. Šis Parlamentas turbūt irgi turėtų dar kartą peržvelgti direktyvą ir sugriežtinti sistemą, kaip sakM. Grosch. Todėl netiesa, kad mes nepaisome saugos; yra priešingai.
+<P>
+Antra, Keleivių teisių reglamente įtvirtinta nuostata, kurios, tikėjomės, niekada neprireiks: ji susijusi su avansinėmis išmokomis geležinkelio avarijose žuvusiems ar sužeistiems žmonėms. Teigiamai vertinu nacionalinės Belgijos geležinkelių bendrovės (SNCB) teiginį, kad ji šia sistema naudosis ir mokės avansines išmokas. Iš tikrųjų buvo laikas, kai taip nebūtų buvę.
+<P>
+Kai kurie žmonės sakė, kad atvėrus rinką geležinkeliai tapo nesaugūs. Noriu kuo tvirčiau tai paneigti. Tai netiesa, kaip matyti iš naujausių 2008 m. Europos geležinkelių agentūros duomenų. Geriausių rezultatų 2008 m. pasiekusios šalys buvo JungtinKaralystir Nyderlandai, dvi šalys, kurios atvėrsavo rinkas.
+<P>
+Taip pat manau, kad reikėtų atkreipti dėmesį į žmones, į geležinkelių darbuotojus, dirbančius konkretų darbą: traukinių mašinistus, stočių darbuotojus, administratorius. Turėtume dar kartą įvertinti jų padėtį ir užtikrinti, kad sauga būtų svarbiausias argumentas ne tik jų mokyme, bet ir organizuojant jų darbą, taip pat visoje įmonių kultūroje. Pone pirmininke, apibendrindamas norėčiau pasakyti, jog neturime pamiršti, kad geležinkeliai vis tiek yra viena iš saugiausių transporto priemonių.
+<SPEAKER ID="070" NAME="Isabelle Durant" LANGUAGE="FR">
+Pone pirmininke, Komisijos nary, aš irgi manau, kad tragiška praėjusios savaitės geležinkelio avarija yra baisiausia Belgiją ištikusi avarija nuo 2001 m., kai aš pati buvau susisiekimo ir transporto ministrė. Dar kartą, žinoma, noriu prisiminti mūsų kolegę Claudią Candeago ir visas kitas šios tragedijos aukas, jų artimuosius ir visus gedinčius geležinkelio darbuotojus.
+<P>
+Susilaikysiu nuo išvadų, kaip susilaikir prieš mane kalbėjusieji. Vyksta tyrimas ir neturime spekuliuoti jo rezultatais. Vis dėlto aišku, jog Belgijos atveju reikia apgailestauti, kad taip ilgai užtruko geležinkeliuose įrengti automatinę traukinių apsaugos sistemą, kaip kai kurie jau minėjo. Kai iš karto po avarijos išgirdau, kad, nors ir nesugebėta nurodyti su biudžetu susijusių priežasčių, buvo keliamas klausimas dėl vėlavimo kurti europinius sąveikos standartus ir tuo buvo aiškinama ši avarija, aš tai laikiau nepriimtina ir iš karto jaučiau, kad Europa atsidūrnepagrįstų kaltinimų taikinyje.
+<P>
+Europos geležinkelių eismo valdymo sistema (angl. ERTMS) praktiškai teikia įmonėms galimybę investuoti į saugą koordinuotai ir užtikrinant sąveiką. Turime atsikratyti nesuskaičiuojamų nacionalinių standartų, mažinančių vystymąsi ir konkurencingumą, kai plėtojama Europos traukinių kontrolės sistema (angl. ETCS). Ji, žinoma, plėtojama ir bus plėtojama toliau. Tai reikalinga, kad būtų išlaikytas labai aukštas technologijos lygis. Be to, neabejoju, kad per ateinančius penkerius ar dešimt metų bus dar daug raidos sprendimų.
+<P>
+Reikia pasakyti, kad šios avarijos, kad ir kokios retos jos būtų, primena, kad visada yra galimybių tobulinti saugos aspektus, ir šia tema norėčiau pateikti keletą pasiūlymų.
+<P>
+Pirmiausia, Komisijos nary, kaip žinote, dabar aptariame transeuropinius transporto tinklus, jų sąlygas ir kriterijus. Manau, kad ERTMS panaudojimas visos Europos tinkluose galėtų tikrai tapti prioritetu. Be to, manau, kad šiomis aplinkybėmis turėtume nustatyti terminus, per kuriuos kiekviena konkreti šalis ir tinklas turės būti aprūpinti tam tikrais ištekliais.
+<P>
+Galiausiai manau, kad turime pirmenybę teikti saugai, o ne rinkų liberalizavimui - įpareigoti naujus operatorius, eksploatuojančius traukinius įvairiuose valstybių narių tinkluose, dar kurį laiką prisitaikyti prie šiuose tinkluose veikiančios automatinės apsaugos sistemos, t. y. savo traukiniuose įrengti atitinkamus imtuvus ir salono įrangą.
+<P>
+Baigdama noriu pasakyti, kad Europos geležinkelių agentūra galėtų savo ruožtu suteikti neįkainojamą paramą veiksmingesnei valstybių narių saugos institucijų integracijai pasiekti. Ši integracija teiktų galimybių, pvz., tvirtinti įrangos tipus.
+<P>
+(Pirmininkas nutraukkalbėtoją)
+<SPEAKER ID="071" NAME="Derk Jan Eppink" LANGUAGE="NL">
+Geležinkelio avarijos Buicingene priežasčių tyrimas dar nebaigtas, tad negaliu jo komentuoti, bet padariau tokią išvadą. Kai geležinkelio avarija įvyksta Jungtinėje Karalystėje, žmonės greiti ją priskirti geležinkelių privatizavimui. Belgijos geležinkeliai (SNCB) gauna santykinai didžiausią subsidiją visoje Europos Sąjungoje. Belgija savo geležinkeliams moka 32 euro centus už vieną kilometrą, tenkantį vienam keleiviui. Antroje vietoje Prancūzija, kuri moka 24 euro centus. Nyderlandai moka 15 euro centų, o JungtinKaralyst- 4 euro centus. Nepaisant visų šių subsidijų, SNCB vis tiek turi 10 mlrd. EUR vertės skolų. Kur išleidžiami pinigai?
+<P>
+Kai pasižiūriu į SNCB infrastruktūrą, aplaidumas stulbinantis. Viskas sena ir nusidėvėję. Ar gali būti, kad kartais apleidžiama ir saugos sistema? Galbūt per daug pinigų skiriama darbuotojų užmokesčiui, nes profsąjungos turi daug galios. Belgijoje geležinkeliai yra socialistinsritis ir yra blogai administruojami. Būtent šiuos klausimus reikėtų kelti, nes SNCB vargu ar gali pasiteisinti pinigų trūkumu!
+<SPEAKER ID="072" NAME="Jacky Hénin">
+GUE/NGL frakcijos vardu. - (FR) Pone pirmininke, kai lapkričio mėn. B. Simpson šiame Parlamente pareiškė: "nors Europos geležinkelių sistema labai saugi ir per pastaruosius keletą metų padaryta pažanga dėl rinkos liberalizavimo", aš beveik netekau žado. Vis dėlto tada jis tęsė: "mirtinos pastarojo laikotarpio avarijos kelia klausimų dėl saugos".
+<P>
+Nuo to laiko, kai įvyko Buicingeno avarija, jos sukeltos baisios žmonių žūtys ir didelis fizinis ir psichologinis skausmas nuolat primena, kad pats laikas pradėti rimtas diskusijas apie geležinkelių saugą. Iš karto atsisakykime minties, kad visų avarijų jau savaime negalima numatyti. Svarbiausias veiksnys - saugos visuose Europos geležinkelių tinkluose trūkumas - yra tiesioginis mūsų geležinkelių infrastruktūros valdymo ir riedmenų valdymo atskyrimo padarinys. Šį atskyrimą - tai turi būti tvirtai pasakyta - primetKomisija, nepaisydama geriau tai išmanančių geležinkelio darbuotojų vertinimo ir siekdama, kad geležinkelių sektorių būtų galima atverti konkurencijai. Tai gerokai padidina avarijų tikimybę. Dėl šio atskyrimo Europos geležinkelių tinklo priežiūra aukojama didžiausio pelno labui. Galite bandyti laimėti laiko siūlydami naudoti geriausius modernius metodus kaip vienintelę galimybę išspręsti problemas. Vis dėlto galiausiai mums Europoje reikės kitokios geležinkelių politikos. Jeigu kasmet vis mažės geležinkelio darbuotojų, bus vykdoma mažiau priežiūros darbų, bus mažiau investuojama ir mažiau mokoma, neišvengiamai dar kartą turėsime spręsti avarijų klausimą ir atiduoti gedulo duokles. Norėdama užtikrinti tikrą geležinkelių saugą, ES turi užversti konkurencijos puslapį, kad galėtų atversti bendradarbiavimo puslapį.
+<P>
+Baigdamas, ponios ir ponai, pasakysiu, kad po šių diskusijų niekas iš mūsų nebegalės nepaisyti savo pareigų. Aš savo ruožtu atsisakau dalyvauti tyčinėse užmačiose. Nepakeitus ...
+<P>
+(Pirmininkas nutraukkalbėtoją)
+<SPEAKER ID="073" NAME="Philip Claeys" AFFILIATION="NI">
+(NL) Pirmiausia norėčiau tiesiog pažymėti, kad Belgijos mokesčių našta yra viena iš didžiausių pasaulyje, tačiau šioje sunkiai valdomoje šalyje mokesčių mokėtojai, ypač Flandrijos mokesčių mokėtojai, už savo pinigus gauna labai mažai naudos. Geležinkelių sistema yra puikus šio dalyko pavyzdys. Ji beviltiškai pasenusi, jai būdingi dažni ir ilgi vėlavimai, o piko valandomis vagonai perkrauti.
+<P>
+Belgijos geležinkelių (SNCB) valdymas labai politizuotas ir nenašus, o tipiškas Belgijos politikos bruožas tas, kad jeigu kas nors atsitinka, niekas už nieką niekada neatsako. 2001 m. Pécrot įvykusi traukinio avarija panaši į praėjusią savaitę Buicingene įvykusią avariją. Prieš devynerius metus visi manė, kad saugos sistemai pagerinti bus imtasi rimtų veiksmų; tačiau jų imtasi nebuvo. Kol neveikia Europos traukinių kontrolės sistema (angl. ETCS), Belgija sukūrsavo sistemą, tačiau tai padaryta gerokai per vėlai ir šios sistemos anaiptol nepakanka.
+<P>
+Iš šios istorijos turime pasimokyti, kad reikia daugiau investuoti į saugą ir kad įvairios esamos sistemos turi būti geriau integruojamos viena į kitą. Tada, jeigu veiksmingos sąveikos pasirodys neįmanoma pasiekti, turi būti kuo labiau skatinama pereiti prie Europos ETCS, nes nenaudinga maršrutu Paryžius-Amsterdamas važinėjančiame Thalys traukinyje turėti ne mažiau kaip septynias skirtingas saugos sistemas.
+<SPEAKER ID="074" NAME="Werner Kuhn" AFFILIATION="PPE">
+(DE) Pone pirmininke, ponios ir ponai, dviejų priemiestinių traukinių susidūrimas Briuselyje, virtęs šiurpia avarija, mus visus giliai sukrėtė. Užjaučiame aukų šeimas ir draugus.
+<P>
+Po tokių avarijų pirmoji žmonių reakcija dažnai būna noras rasti ką nors, ką būtų galima apkaltinti. Vis dėlto Europos Sąjunga, Komisija ir saugos nuostatos, kurias įtvirtinome Direktyvoje 2004/49/EB, šiuo atveju neturi virsti atpirkimo ožiu. Nepaisant to, žinoma, kyla svarbus klausimas, ar turėtume griežtinti saugos nuostatas. Šios geležinkelio avarijos tyrimai dar nebaigti ir todėl dar negalime tikėtis jokių aiškių rezultatų. Svarbiausias klausimas, į kurį turime atsakyti - ar šios avarijos būtų buvę įmanoma išvengti. Negalime atmesti žmogaus klaidų ar techninių gedimų, todėl abu šie dalykai atlieka tam tikrą vaidmenį užtikrinant geležinkelių saugą. Visi geležinkelių operatoriai, ir valstybiniai, ir privatūs, privalo užtikrinti būtinojo lygio saugą. Nacionalinės geležinkelių bendrovės turi užtikrinti, kad jose būtų laikomasi reikiamų saugos standartų.
+<P>
+Nenoriu šiuo atveju pradėti mokyti Vokietijos požiūrio. Tiesiog noriu pasakyti, kad Vokietijoje mes stengėmės šią direktyvą įgyvendinti visapusiškai. Visais atvejais, kai įmanoma, kad žmogus padarys klaidą, turi būti numatyta, kad suveiktų techninės sistemos. Prisimenu "lavono rankeną", kuri automatiškai įjungia stabdžius, jeigu vieną minutę rankenos niekas nespaudė. Jeigu traukinys pravažiuoja raudoną ženklą stop, stabdžiai irgi automatiškai suveikia. Turime turėti tokias sistemas. Turi būti įgyvendinta Europos traukinių kontrolės sistema, kad galėtume šiems dalykams daryti išorinę įtaką.
+<P>
+Transporto ir turizmo komiteto nariai bendradarbiaudami atliks reikiamus šių saugos nuostatų įvertinimus ir parengs reikiamas išvadas.
+<SPEAKER ID="075" NAME="Marc Tarabella" AFFILIATION="S&amp;D">
+(FR) Pone pirmininke, geležinkelio avarija Buicingene, netoli Briuselio, pareikalavo 18 aukų, o daugiau kaip 160 buvo sužeista. Žinoma, pirmiausia užjaučiame šeimas. Avarijos priežastys vis dar nežinomos, vyksta tyrimas ir turime rengtis įvertinti geležinkelio saugą Europoje - kiekvienoje konkrečioje valstybėje narėje.
+<P>
+Žinoma, atliekant šį įvertinimą daugiausia dėmesio turi būti skiriama saugos sistemoms, jų taikymo būklei, jų sąveikai ir veiksmingumui. Vis dėlto šį Europos geležinkelio tinklų saugos lygio įvertinimą reikia suprasti plačiai ir į jį pirmiausia turi būti įtrauktas geležinkelio darbuotojų darbo sąlygų įvertinimas, nes pastarieji yra geriausia saugos garantija.
+<P>
+Todėl raginu Komisiją Europos geležinkelio tinklų saugą vertinti visapusiškai, pradedant nuo geležinkelių sistemos liberalizavimo proceso. Vienas dalykas aiškus: atėjo laikas atlikti įvairiais tabu neribojamą šių viešosioms paslaugoms liberalizuoti ir išardyti skirtų politikos priemonių praktinių rezultatų įvertinimą. Kokios papildomos vertės šios politikos priemonės davė? Kam jos buvo naudingos? Kas nuo jų nukentėjo?
+<P>
+Tikslas - palyginti Europos saugos ir signalizacijos standartų diegimą su darbo sąlygomis nuo to laiko, kai kiekvienoje valstybėje narėje įsigaliojo geležinkelių sektoriaus liberalizavimo nuostatos. Todėl Komisija turi plačiau svarstyti viešųjų paslaugų vaidmenį. Parti Socialiste - partija, kuriai aš priklausau - seniai ragina Europos Sąjungą imtis konkrečių veiksmų viešosioms paslaugoms apsaugoti ir plėtoti. Juk būtent tokia pagrindų direktyvos dėl visuotinės svarbos paslaugų esmė. Pastarąja direktyva būtų užtikrinta stabili teisinviešųjų paslaugų reglamentavimo sistema ir deramas finansavimas, atitinkantis visuotinumo ir vienodų galimybių šiomis paslaugomis naudotis principus.
+<SPEAKER ID="077" NAME="Derk Jan Eppink" AFFILIATION="ECR">
+(NL) Norėčiau M. Tarabellai, kurį šiaip labai gerbiu, pateikti klausimą. Juk jis negali nepaisyti fakto, kad Belgijos geležinkeliai (SNCB) gauna didžiausią subsidiją Europoje. Todėl jis negali kaltinti liberalizavimo, nes keleivinis transportas neliberalizuotas, jis negali pateikti ir visokių kitokių pasiteisinimų.
+<P>
+Taip pat turėčiau pažymėti, kad jis kalba Belgijos prancūziškosios socialistų partijos (pranc. PS) vardu, o ši partija per profesines sąjungas turi daug galių kontroliuoti SNCB. Jeigu politizuota geležinkelių sistema geriau administruotų geležinkelius, tokių dalykų nebūtų.
+<SPEAKER ID="078" NAME="Marc Tarabella" AFFILIATION="S&amp;D">
+(FR) Pone pirmininke, viskas, ką atsakyčiau D. J. Eppinkui - tai nėra rinkimų kampanijos platforma. Įvyko avarija ir pareikalavo aukų - praeityje įvyko ir daugiau avarijų - ir visiškai natūralu, kad tiriamos jos priežastys. Vyksta tyrimai; reikia leisti jiems vykti sava vaga;
+<P>
+Vis dėlto vieno veiksnio niekada negalima nepaisyti - žmogiškojo veiksnio. Kad ir koks liberalizavimas būtų vykdomas - žinau, kad jūs remiate liberalizavimą, aš jį remiu daug mažiau ir visiškai neremiu viešųjų paslaugų liberalizavimo - pamirštamas žmogiškasis veiksnys. Darbuotojai, dirbantys valandų valandas ar bet kuriuo atveju ilgesnį laiką be poilsio, patiria baisų spaudimą. Traukinio mašinistas atsako už keleivių saugą. Todėl manau, kad svarbu kelti klausimą apie darbo sąlygas ir jų pokyčius. Manau, kad tai - svarbus aspektas.
+<SPEAKER ID="079" NAME="Joe Higgins" AFFILIATION="GUE/NGL">
+Pone pirmininke, baisi traukinio avarija prie Halės buvo siaubinga tragedija aukoms, jų šeimoms, darbo kolegoms ir draugams. Dabar svarbu iš šios tragedijos deramai pasimokyti, kad išvengtume būsimų aukų. Šiomis aplinkybėmis itin svarbu aiškiai išgirsti geležinkelių darbuotojų balsą ir į jį atsižvelgti, kad kelionės geležinkeliais taptų saugesnės ir darbuotojams, ir keleiviams.
+<P>
+Tikrai įžūlu girdėti, kaip suprantu, Didžiosios Britanijos konservatorių, šio Parlamento narį, savo kalboje šmeižiant ir įžeidinėjant Belgijos geležinkelio darbuotojus, kai visiškai aišku, kad neoliberalizavimo ir reguliavimo mažinimo politikos priemonės mūsų geležinkelių, kaip viešųjų paslaugų srities, sistemai padarmilžinišką žalą. Beje, Belgijos geležinkelių darbuotojai patiria didžiulį stresą. Tai buvo aišku iš šių darbuotojų spontaniškų streikų, kaip atsakas vykusių kelias dienas po šios tragedijos. Tai trečias rimtas incidentas Belgijoje per devynis mėnesius.
+<P>
+Po ankstesnės 2001 m. Belgijoje įvykusios tragedijos buvo žadama imtis visapusiškų saugos priemonių, bet jos neįgyvendintos. Tikrovta, kad Belgijos geležinkelių darbuotojams nuolat daromas spaudimas dirbti ilgiau, ilginamos kelionės ir daroma mažiau pertraukų - tai reiškia, kad mažesnir sauga. Žinoma, klastinga ES Komisijos vykdoma liberalizavimo ir privatizavimo politika toliau kels grėsmę saugai. Tai reiškia, kad didžiųjų transporto bendrovių pelnas svarbiau. Aišku, kad geriausia sistema saugai užtikrinti yra išlaikyti geležinkelių infrastruktūros valstybinę nuosavybę, demokratinę kontrolę ir daryti reikiamas investicijas.
+<SPEAKER ID="080" NAME="Georges Bach" AFFILIATION="PPE">
+(DE) Pone pirmininke, norėčiau irgi pareikšti užuojautą su avarija susijusioms šeimoms. Vis dėlto jeigu nuolat pabrėšime, kad geležinkeliai yra saugiausia transporto rūšis ir kad avarijų skaičius, palyginti su avarijų keliuose skaičiumi, labai mažas, tai bus menka paguoda nukentėjusiesiems - gedinčioms šeimoms ir sunkiai sužalotiesiems.
+<P>
+Žinoma, kyla aplinkybių klausimas. Kaip tokia avarija galėjo įvykti? Vis dėlto, kaip jau sakyta, šį klausimą turi išspręsti techniniai ekspertai, o vėliau - teismai. Turime atsakyti į klausimą: kas nepavyko kuriant Europos geležinkelių rinką? Antra, kaip, pasinaudodami visomis turimomis priemonėmis, galime užkirsti kelią tolesnėms avarijoms? Kiekviena avarija - viena avarija per daug.
+<P>
+Anksčiau dirbau geležinkeliuose, tad pats patyriau šiuos pokyčius. Norėčiau paminėti kai kurias problemas, turinčias tam tikrą poveikį saugai. Dešimtojo dešimtmečio pradžioje, užuot leidę geležinkeliuose atsirasti konkurencijai, pirmiausia geriau būtume pradėję techninio derinimo procesą. Visas problemas, kurias minėjo S. Kallas, turėjome įveikti dešimtajame dešimtmetyje. Rinką konkurencijai turėjome atverti tik suderinę techninius dalykus. Įmonių susiskaidymo rezultatas buvo tas, kad geležinkelio sistemoje pradėjo veikti daug dalyvių, o ši sistema tinkamai veikia tik tada, kai administruojama kaip vienas vienetas. Todėl, mano nuomone, už pastarojo laikotarpio avarijas bendrai atsakingos valstybės narės, geležinkelių bendrovės, infrastruktūros operatoriai ir Komisija, kuri, kaip jau sakyta, neatlikusi tarpinio įvertinimo priėmdirektyvas ir reglamentus. Įvertinimas baigtas tik visai neseniai. Geležinkelių bendrovės padarklaidą pasirinkdamos klaidingą strategiją ir per ilgai laukdamos europinės sistemos. Jos nuolat stengėsi mažinti išlaidas, kaip jau minėta, įdarbino reikiamų įgūdžių neturinčius darbuotojus ir per mažai investavo.
+<P>
+Norėčiau pabrėžti tris aspektus. Siekiant pagreitinti planuotą modernizavimo programą turi būti nedelsiant padidintas finansavimas.
+<P>
+(Pirmininkas nutraukkalbėtoją)
+<SPEAKER ID="081" NAME="Silvia-Adriana Ţicău" AFFILIATION="S&amp;D">
+(RO) Apskritai geležinkelių transportas yra saugesnis, greitesnis ir kelia mažiau taršos nei kelių transportas. Vis dėlto 2007 m. geležinkelių avarijose nukentėjo maždaug 2 600 žmonių, o praėjusiais metais įvyko daugiau keleivinių ir krovininių traukinių avarijų.
+<P>
+Pastaroji geležinkelio avarija Belgijoje, per kurią 20 žmonių žuvo ir daugiau kaip 120 sužeista, sukrečia ir verčia mus prisiminti, kokia svarbi geležinkelių transporto sauga. Deja, dėl ekonomikos ir finansų krizės geležinkelių transporto infrastruktūros srityje dirbančių operatorių ir administratorių finansiniai sunkumai tik padidėjo. Didelį rūpestį kelia tai, kad ERTMS įgyvendinti reikalingų specialistų ir finansinių išteklių trūkumas yra viena iš galimų avarijos priežasčių, o tūkstančiai geležinkelių darbuotojų netenka darbo. Raginu valstybes nares ir Komisiją imtis reikiamų priemonių siekiant:
+<P>
+1. modernizuoti geležinkelio infrastruktūrą ir esamus riedmenis, kad būtų užtikrintas našus ir saugus geležinkelių transportas,
+<P>
+2. pirmenybę teikti geležinkelių transporto saugai ir saugumui reikalingoms investicijoms, ir
+<P>
+3. kurti naują geležinkelių transporto infrastruktūrą ir diegti ERTMS.
+<SPEAKER ID="082" NAME="Antonio Cancian" AFFILIATION="PPE">
+(IT) Pone pirmininke, ponios ir ponai, Europą sukrėtusios pastarojo laikotarpio geležinkelių katastrofos - Belgijoje šiandien, Italijoje vakar - verčia mus svarstyti sistemos trūkumus ir priemones, tinkamas paslaugų saugai pagerinti.
+<P>
+Pvz., stebėtina, kad Europos Sąjunga pradėjo eksploatuoti tinkamą geležinkelių eismo kontrolės sistemą - ERTMS - dar 2000 m., bet nepaisant to, praėjus dešimčiai metų šią sistemą įsidiegusios tik kelios valstybės narės.
+<P>
+Net ir šiandien ES teritorijoje veikia daugiau kaip dvidešimt skirtingų geležinkelių saugos sistemų ir aišku, kad tai gali kelti problemų, pirmiausia tarptautiniuose linijų ruožuose.
+<P>
+Tiesa, kad europinės sistemos geležinkelio infrastruktūrai ir riedmenims pritaikyti reikės atlikti techninius ir ekonominius įvertinimus bei uždavinius ir visa tai neišvengiamai turės administruoti sektoriuje veikiančios bendrovės. Vis dėlto negalime nepastebėti, kad Europos teisės aktuose nenustatyta data, iki kurios valstybių narių linijos turi būti pritaikytos prie ERTMS sistemos, ir taip valstybėms narėms suteikiama teisspręsti, kokios įrangos reikia jų riedmenims.
+<P>
+Būtų geriau įpareigoti laikytis konkrečių terminų ir juos nustatyti, investicijomis skatinti jų laikytis arba, dar geriau, neskirti investicijų tiems, kurie neprisitaiko prie infrastruktūros projektų arba įsigyja riedmenis, kuriuose nenaudojamos šios sistemos.
+<P>
+Kitas argumentas - neturėtų būti lėtinami sąveikos projektai ir neturėtų būti delsiama baigti kurti vidaus rinką. Šiandien turime nepriklausomą nacionalinę saugos agentūrą, kuri turėtų tikrinti, ar įdiegtos deramos saugos sistemos. Na, reikėtų numatyti, kad prieš gaunant veiklos licenciją būtų privaloma gauti saugos sertifikatus.
+<P>
+Be to, pabrėžčiau, kad žvelgiant į laisvosios geležinkelių rinkos perspektyvą turi būti centriniu lygmeniu sustiprintos Europos geležinkelių agentūros galios atlikti patikras.
+<SPEAKER ID="083" NAME="Debora Serracchiani" AFFILIATION="S&amp;D">
+(IT) Pone pirmininke, ponios ir ponai, po pastarosios geležinkelio avarijos Briuselyje, kurią minėjo daugelis narių, dėmesio centre vėl atsidūrgeležinkelių sauga.
+<P>
+Direktyvoje 2004/49/EB dėl geležinkelių saugos apskritai numatyta, kad geležinkelių bendrovės ir infrastruktūros valdytojai kiekvienas savo veiklos srityje turėtų prisiimti visą atsakomybę už sistemos saugą.
+<P>
+Atrodo, kad konkrečios Belgijoje įvykusios avarijos priežastis yra žmogaus klaida. Žinoma, turime laukti, kol bus atlikti tyrimai. Vis dėlto atrodytų, kad traukinyje nebuvo įrengta automatinstabdymo sistema.
+<P>
+Ar Komisija žino, kuriuose valstybių narių tinkluose ir kuriuose traukiniuose neįrengta ši saugos priemonė? Be to, ar ji ketina parengti teisės akto, kuriuo būtų užtikrinta, kad ši sistema būtų įrengta visame ES geležinkelių tinkle, pasiūlymą?
+<SPEAKER ID="084" NAME="Sławomir Witold Nitras" AFFILIATION="PPE">
+(PL) Pone pirmininke, pirmiausia norėčiau pareikšti užuojautą avarijos aukų šeimoms. Norėčiau aptarti tai, kas man atrodo labai svarbu, tačiau dar nepasakyta. Čia vyksta diskusijos, kurios daugeliu atžvilgių pagrįstos. Aš irgi turiu labai aiškią nuomonę šiuo klausimu. Manau, kad nereguliuojama rinka daug geriau negu valstybės nuosavybei priklausančių įmonių dominuojama rinka, bet norėčiau aptarti tai, kas svarbu šiose diskusijose.
+<P>
+Ginčijamasi ne tik dėl to, ar įmonpriklauso valstybei, ar privatiems subjektams; kalbama ir apie tai, ar rinka yra laisva, ar ribota, reguliuojama rinka, o tai dažnai reiškia, kad daugelyje valstybių narių veikia vienos valstybinės įmonės monopolija. Veikia tiek daug geležinkelių sistemų ir jos skirtingos ne tik kiekvienoje valstybėje narėje - daugeliu atvejų vienoje valstybėje narėje naudojamos skirtingos sistemos, o sistemos, apie kurias kalbame, dažnai yra protekcionistinadministracinkliūtis, iškelta vien siekiant apsaugoti valstybės narės rinkos monopolinę įmonę. Daugeliu atvejų tam tikros įrangos ir lokomotyvų neleidžiama naudoti vien siekiant apriboti konkurento iš kitos šalies arba privataus konkurento galimybę patekti į rinką. Šios praktikos padarinys - sukurta tiek daug skirtingų sistemų ir kyla saugos problemų.
+<P>
+Jeigu įvertinsite struktūrinių fondų lėšų paskirstymą infrastruktūros projektams naujosiose valstybėse narėse, pamatysite, kad tose šalyse praktiškai neskiriama lėšų geležinkelių infrastruktūrai. Administratoriai, kurie turėtų pildyti paraiškas ir prašyti lėšų, tuo nkiek nesuinteresuoti. Turime modelį, kai daugelis valstybių narių nenori savo geležinkeliuose nieko keisti, kad konkurentai iš kitų šalių arba, pvz., iš privačios rinkos neturėtų gerų sąlygų. Dėl to nukenčia sauga ir konkurencingumas.
+<SPEAKER ID="085" NAME="Ivo Belet" AFFILIATION="PPE">
+(NL) Tragiška avarija Buicingene visus mus, įskaitant Europą, verčia pradėti tyrimą. Ši tragedija kainavo aštuoniolikos žmonių gyvybę ir mes šioms aukoms skolingi - privalome nedelsdami pasimokyti iš nelaimės ir užtikrinti, kad Belgijos ir Europos geležinkelių linijose būtų garantuojama sauga.
+<P>
+Kaip žinome ir kaip jūs jau sakėte, ne Europos kaltė, kad Belgijoje dar nevisiškai įdiegta automatinio stabdymo sistema. Vis dėlto tai nereiškia, kad Europa dabar neprivalo imtis veiksmų; visiškai priešingai. Tiesiogiai raginame Europos Komisiją dabar irgi atlikti tyrimą, kuriuo turi būti atsakyta į keletą labai konkrečių klausimų. Pvz., kaip žinote, mes įpareigojome geležinkelių bendroves, įskaitant privačias, iki 2013 m. visuose savo traukiniuose įrengti naująją Europos traukinių kontrolės sistemą (ETCS), tačiau jau dabar žinome, kad Europos geležinkelio linijose ši sistema iki to laiko nebus įrengta.
+<P>
+Noriu paminėti du skaičius. Šiuo metu, Komisijos nary, ši naujoji europinsaugos sistema visoje Europoje įrengta tik 2 800 kilometrų geležinkelių. Vien Belgijos geležinkelių tinklas, kurio ilgis - 3 400 kilometrų, yra didesnis. Todėl aišku, kad mes Europoje nebūsime tam pasirengę ir todėl mūsų traukiniai negalės palaikyti ryšio su šiais naujais signalizavimo įrenginiais arba šis ryšys bus nevisavertis. Todėl reikia atlikti išsamų vertinimą.
+<P>
+Komisijos nary, turime išdrįsti ištirti, galbūt dėl būsimos geležinkelių bendrovių konkurencijos padidėjo spaudimas darbuotojams. Galbūt turėtume traukinio mašinistams Europos lygmeniu nustatyti vairavimo valandas ir poilsio laikotarpius, kaip nustatėme sunkvežimių vairuotojams? Trumpai tariant, ši avarija verčia Europos Sąjungą šiek tiek pasitikrinti sąžinę ir atlikti vertinimą, taip pat reikia pasirengimo ir politinės valios prireikus koreguoti padėtį.
+<SPEAKER ID="086" NAME="Michael Cramer" AFFILIATION="Verts/ALE">
+(DE) Pone pirmininke, Komisijos nary, šioje šiurpioje avarijoje dalyvavo du lokomotyvai, kuriuos Belgijos nacionalingeležinkelių bendrovSNCB eksploatavo valstybiniame geležinkelių tinkle. Belgijos keleivinių traukinių transporto rinkoje konkurencijos nėra. Todėl tai neturi nieko bendra su konkurencija ar tinklo atvėrimu konkurencijai. Visa esm- netinkami saugos standartai. M. Grosch jau aiškino, kad technologija traukiniui automatiškai sustabdyti, kai jis kerta raudoną ženklą, sukurta jau daugiau kaip dvidešimt metų. Klausimas: kodėl ji neįrengta?
+<P>
+Be to, tai neturi nieko bendra su Europos geležinkelių eismo valdymo sistema (angl. ERTMS). Aš buvau pranešėjas, rengęs pranešimą apie ERTMS. Tai yra ateities vizija, tačiau valstybės narės neatleidžiamos nuo pareigos įdiegti nacionaliniu lygmeniu jau turimas saugos priemones. Tai - konkrečių šalių uždavinys.
+<P>
+Todėl turime kelti klausimą, kodėl Belgija per pastaruosius dvidešimt metų neinvestavo į šią saugos sistemą. Jeigu jie būtų nutiesę vienu ar dviem kilometrais trumpesnį greitkelį, jie būtų turėję du ar tris kartus daugiau pinigų negu reikia šioms saugos sistemoms įrengti ir tokių avarijų kaip ši išvengti. Tai ne pirmas kartas, kai traukinys kirto raudoną ženklą. Tai tiesiog pirmas kartas, kai dėl to įvyko tokia šiurpi avarija.
+<SPEAKER ID="087" NAME="Siim Kallas">
+Komisijos pirmininko pavaduotojas. - Pone pirmininke, žinoma, šios diskusijos, kurias dabar įkvėptragiška avarija Belgijoje, bus mūsų bendrų diskusijų apie geležinkelių saugą ir transporto plėtrą Europoje dalis. Komisija rengia baltąją knygą dėl transporto ateities, kurioje rimtai atsižvelgiama į visus visų rūšių transporto, įskaitant geležinkelius, kurie, kaip daug kartų minėta, vis tiek yra viena iš saugiausių transporto rūšių, saugos ir saugumo aspektus.
+<P>
+Taip pat svarbu, kad dabar aptariame geležinkelių paketą - pirmąją geležinkelių paketo "naująją redakciją" - ir neabejotinai jį tobulinsime ir svarstysime.
+<P>
+Tiesiog norėčiau pateikti keletą faktinių pastabų. Europos geležinkelių eismo valdymo sistema (ERTMS) sukurta ketinant įtvirtinti geležinkelių tarpusavio sąveiką. Tai neabejotinai gera sistema, turinti rimtų saugos elementų. Vis dėlto, kad ir kokia sistema būtų naudojama, sauga ir toliau priklauso valstybių narių kompetencijai. Bet ERTMS diegiama labai gerai.
+<P>
+Transporto TEN-T tinklai: juos aptarsime irgi jau greitai. Šiuo konkrečiu projektu sprendžiamas eismo valdymo sistemos eksploatacijos pradžios klausimas. 2020 m. ši sistema bus naudojama jau 20 000 kilometrų Europos, įskaitant Belgiją, geležinkelių.
+<P>
+Šie darbai atliekami; bet geležinkeliuose viskas užtrunka, investicijos didelės ir 85 proc. TEN-T tinklo lėšų naudojama būtent geležinkeliams, įskaitant ERTMS, tobulinti. Žinoma, būčiau labai patenkintas, jeigu remiant Europos Parlamentui galėtume padidinti investicijų į transporto tinklus finansavimą. Tai bus labai svarbu.
+<P>
+Bet vis tiek, žinoma, žmogiškasis veiksnys visada aktualus. O kai kalbame apie saugos standartus, yra vienas standartas - raudona šviesa - kuris reiškia, kad reikia sustoti. Tas standartas egzistuoja jau nuo XIX amžiaus. Taigi jeigu dabar sakome, kad bus įdiegta šimtu procentų saugi stabdymo sistema, kurioje bus išvengta žmogaus klaidų - tai netiesa. Visada yra tam tikra maža žmogaus klaidos galimybė. Labai svarbi žmogaus atsakomybė.
+<P>
+Norėčiau pateikti dar vieną pastabą apie liberalizavimą ir viešąsias paslaugas: tai du skirtingi dalykai. Niekas valstybėms narėms netrukdo teikti gerų viešųjų paslaugų, net ir liberalizavus rinką. Europos taisyklėmis leidžiama teikti paramą - tai leidžia ir valstybės - ir šiuo liberalizavimu neužkertama kelio teikti geras viešąsias paslaugas.
+<SPEAKER ID="088" NAME="Pirmininkas">
+Diskusijos baigtos.
+<P>
+Raštiški pareiškimai (Darbo tvarkos taisyklių 149 straipsnis)
+<SPEAKER ID="089" NAME="Herbert Dorfmann  " LANGUAGE="DE">
+Tragiška traukinio avarija Belgijoje privertvisuomenę atkreipti dėmesį į geležinkelių saugą. Turi būti gerinama riedmenų sauga ir signalizacijos sistemų sauga. Europos geležinkeliuose yra itin daug visiškai pasenusių prekinių vagonų. Praėjusių metų avarija Italijoje parodė, kokie gali būti tokios vagonų būklės padariniai. Deja, ES iki šiol labai mažai nuveikė, kad įpareigotų operatorius užtikrinti priimtiną jų riedmenų saugos standartą. Svarbu prisiminti, kad pavojingos prekės irgi gabenamos geležinkeliu ir įvykus avarijai padariniai gali būti pražūtingi. Šiomis aplinkybėmis raginu įtvirtinti aukštesnius geležinkelių saugos standartus.
+<SPEAKER ID="090" NAME="Bruno Gollnisch  " LANGUAGE="FR">
+Tragedija, Belgijoje lėmusi dabartinį gedulą, neabejotinai įvyko dėl priežasčių, susijusių su ypatingais tos šalies bruožais, kaip šiandien pabrėždaugelis mūsų kolegų narių flamandų. Atliekant tyrimą turės būti nustatyta, kiek šie bruožai prisidėjo prie tragedijos.
+<P>
+Vis dėlto ši avarija turėjo vieną ypatingą, esminę priežastį: geležinkelio transporto liberalizavimą ir tinklo valdymo atskyrimą nuo paties geležinkelio transporto valdymo. Todėl tinklas, jo kokybir sauga paaukota transporto operatorių pelno labui, - jie mano, kad jiems nustatyti per dideli mokesčiai, - taip pat taupoma traukinių keitimo ir modernizavimo sąskaita. Šiandien teikiamų paslaugų tvarkaraščiai ir dažnumas atitinka pelno siekimo logiką, o naudotojų poreikių nebeatitinka. Nors kai kuriomis linijomis naudojamasi nuolat, jos naikinamos, nes nėra pakankamai pelningos. Kitos linijos vis dar eksploatuojamos, nors remiantis sveiku protu taip neturėtų būti. Vėlavimas tampa norma, net ir teikiant TGV paslaugas.
+<P>
+Jūsų liberalioje sistemoje traukiniu važinėjantys piliečiai netapo labai vertinamais klientais; jie vis tiek yra naudotojo mokesčių mokėtojai, su kuriais galima elgtis kaip su gyvuliais. Taip atsitiko su kiekviena jūsų liberalizuota veikla, šiandien mes vis daugiau mokame už paslaugas, kurios tampa vis blogesnės arba netgi, deja, pavojingos.
+<SPEAKER ID="091" NAME="Marian-Jean Marinescu  " LANGUAGE="RO">
+Atsižvelgdami į tragišką avariją Briuselyje, dar kartą susiduriame su tuo, kad valstybės narės dar nevisapusiškai suderino savo geležinkelių saugos sistemas, nors Direktyvoje 2004/49/EB aiškiai nustatyti bendri saugos rodiklių standartai ir ši direktyva visiškai atitinka bendrus saugos reikalavimus, įskaitant infrastruktūros ir eismo valdymo saugos reikalavimus. Didžiausia problema iš tikrųjų tik finansinė: geležinkelio infrastruktūros ir riedmenų, įskaitant signalizacijos sistemas, eksploatacijos laikas labai ilgas. Šiomis aplinkybėmis pageidautina, kad valstybės narės, nepaisydamos krizės, nagrinėtų ne vien finansinį klausimą, o apsvarstytų ir galimybę paspartinti sąveikių sistemų diegimą, taip pat daugiau investuoti į geležinkelio infrastruktūrą ir infrastruktūros bei riedmenų signalizacijos sistemas.
+<P>
+Kai taupoma vilkinant riedmenų ir geležinkelio infrastruktūros atnaujinimą ir modernizavimą, deja, kaip ir šiuo atveju, gali įvykti tragiškų avarijų, per kurias patirta ne tik didžiulių ekonominių ir finansinių nuostolių, bet ir žuvo žmonės, o tai nepriimtina. Norėčiau šiuo sunkiu metu pareikšti kuo giliausią užuojautą nuo avarijos nukentėjusioms šeimoms ir tikiuosi, kad tokia tragedija daugiau nepasikartos.
+<P>
+(Posėdis nutrauktas 11.25 val. ir pratęstas 11.30 val.)

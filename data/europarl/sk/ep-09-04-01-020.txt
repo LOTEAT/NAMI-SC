@@ -1,0 +1,82 @@
+<CHAPTER ID="020">
+Stanovenie limitov rezíduí farmakologicky účinných látok v potravinách živočíšneho pôvodu (rozprava) 
+<SPEAKER ID="253" NAME="Predsedajúci">
+Ďalším bodom programu je odporúčanie do druhého čítania, ktoré predkladá Výbor pre životné prostredie, verejné zdravie a bezpečnosť potravín k spoločnej pozícii Rady na účely prijatia nariadenia Európskeho parlamentu a Rady, ktorým sa ustanovujú postupy Spoločenstva na stanovenie limitov rezíduí farmakologicky účinných látok v potravinách živočíšneho pôvodu a zrušuje nariadenie (EHS) č. 2377/90 a mení a dopĺňa smernica Európskeho parlamentu a Rady 2001/82/ES a nariadenie Európskeho parlamentu a Rady (ES) č. 726/2004 (15079.2.2008 - C6-0005/0009 - (Spravodajkyňa: Avril Doyle).
+<SPEAKER ID="254" NAME="Avril Doyle">
+spravodajkyňa. - Vážený pán predsedajúci, mohla by som na úvod poďakovať všetkým svojim tieňovým spravodajcom a samozrejme aj francúzskemu predsedníctvu za to, že napomohli skorej dohode o druhom čítaní?
+<P>
+Toto je skôr technický návrh, keďže sa snaží aktualizovať už existujúci systém EÚ. Jeho hlavným zámerom je chrániť verejné zdravie takým spôsobom, že chce obmedziť vystavenie spotrebiteľov, ktorí konzumujú potraviny živočíšneho pôvodu, rezíduám farmakologicky účinných látok, ktoré sa nachádzajú vo veterinárnych liekoch a biocídnych výrobkoch. To sa dosahuje stanovením bezpečnostných prahov alebo maximálnych úrovní rezíduí (maximum residue levels, MRLs) pre schválené látky, ako aj zakázaním látok, pri ktorých sa zistilo, že sú nebezpečné alebo ktorých bezpečnostný profil nemôže byť vedecky podložený.
+<P>
+Samotné MRL spotrebiteľov neochránia. Spotrebitelia sú priamo chránení vďaka stanoveniu primeranej ochrannej lehoty pred porážkou zvierat a kontrolám, ktoré ju na mieste monitorujú. V praxi sa ochranné lehoty stanovujú za použitia vysokého ochranného faktora, ktorý bude odrážať množstvo údajov, ktoré sú dostupné v terajšom štádiu vývoja výrobku.
+<P>
+Dosiahli sme dohodu týkajúcu sa určitých kľúčových otázok. Ide predovšetkým o extrapoláciu MRL, stanovených pre jeden živočíšny druh, na iný živočíšny druh; po druhé, o prijatie MRL, ktoré boli stanovené na medzinárodnej úrovni v rámci kódexu Codex Alimentarius v EÚ; a po tretie, o vytvorenie rámca, ktorý by určoval MRL pre potraviny dovážané z tretích krajín.
+<P>
+Podarilo sa nám ozrejmiť opatrenia, ktoré treba prijať, keď sa nájdu nepovolené látky či už v potravinách vyrábaných v EÚ, alebo v potravinách dovážaných z tretích krajín, ako aj objasniť základ na posúdenie týchto referenčných hodnôt pre prijatie opatrení (reference points for action, RPAs). Je ním maximálna úroveň rezíduí, stanovená na účely kontroly pre akúkoľvek nepovolenú látku na základe akýchkoľvek nových údajov.
+<P>
+Zhodli sme sa taktiež na otázke stanovenia MRL pre niektoré biocídne výrobky, akými sú napríklad dezinfekčné prostriedky používané v okolí zvierat, predovšetkým pokiaľ ide o finančné aspekty ich schválenia a ich dokumenty.
+<P>
+Stanovenie MRL pre farmakologicky účinnú látku si vyžaduje finančne nákladný súbor údajov zo štúdií o toxikológii a metabolizme. To je pre niektoré menej bežné druhy určené na výrobu potravín, takzvané "menej významné druhy", príliš nákladné, keďže trh pre veterinárne lieky týchto druhov je malý - ide o takzvané menej významné použitia. Stanovenie MRL je prvým krokom, ktorý treba prijať predtým, ako je možné podať regulačným orgánom žiadosť o povolenie veterinárnych liekov pre živočíšne druhy určené na výrobu potravín, ktoré obsahujú farmakologicky účinnú látku.
+<P>
+Táto otázka menej významných použití/menej významných živočíšnych druhov (MUMS) si teda naliehavo vyžaduje nejaké nariadenie, keďže so sebou prináša potenciálne problémy súvisiace so životnými podmienkami zvierat a potravinovou bezpečnosťou. Veterinári sú povinní poskytnúť starostlivosť a vždy sa budú snažiť ošetriť choré zviera. Podľa súčasných právnych predpisov sú často nútení uchýliť sa k liekom bez licencie.
+<P>
+Chýbajúca MRL taktiež orgánom zabraňuje v tom, aby boli schopné stanoviť správnu lehotu na stiahnutie určitého lieku. Súčasné nariadenie o MRL nevyžaduje, aby bola MRL stanovená pre jednotlivé živočíšne druhy. Výbor pre lieky na veterinárne použitie (CVMP) Európskej agentúry pre lieky stanovuje MRL pre jednotlivé živočíšne druhy, a to na základe prístupu úvodných varovaní. V roku 1997 a na základe päťročnej skúsenosti preskúmal CVMP všetky MRL, ktoré boli stanovené, a dospel k záveru, že nebolo nutné stanoviť MRL pre jednotlivé živočíšne druhy, keďže MRL pre konkrétnu látku sú takmer vždy podobné alebo rovnaké. V tom istom roku vydal CVMP usmernenie o stanovení MRLs pre menej významné živočíšne druhy. Definovalo všetky menej významné živočíšne druhy určené na výrobu potravín, okrem hovädzieho dobytka, ošípaných a hydiny, vrátane lososovitých druhov rýb.
+<P>
+Usmernenie umožnilo extrapoláciu z hlavného druhu na menej významný druh tej istej čeľade, z prežúvavca na prežúvavca, z ryby na rybu, z kurčaťa na inú hydinu. V roku 2008, po osemročnej skúsenosti, vydal výbor CVMP nové usmernenie. Prístup analýzy rizík pre rezíduá veterinárnych liekov v potravinách živočíšneho pôvodu. Opisuje rizikový prístup extrapolácie MRL pre nejakú látku z jedného alebo viacerých druhov na ďalšie druhy. Toto usmernenie umožňuje extrapoláciu MRL z údajov o troch hlavných živočíšnych druhoch na všetky druhy za predpokladu, že MRL stanovené pre tri hlavné druhy sú podobné alebo rovnaké.
+<P>
+Text tohto posudku, ktorý máme pred sebou, jednoducho poskytuje právny základ pre súčasnú prax extrapolácie v záujme dostupnosti veterinárnych liekov a životných podmienok zvierat.
+<P>
+Dva pozmeňujúce a doplňujúce návrhy sa v rámci celej škály potrieb v oblasti liečby a životných podmienok zameriavajú osobitne na nedostatočnú dostupnosť špecifických liekov pre čeľaď koňovitých (musím deklarovať určitý záujem) vrátane koncepcie "klinického prínosu" a nielen požiadavky, že je "nutné" lekársky výrobok pridať na zoznam pozitívnych látok pre čeľaď koňovitých, ktorý sa spomína v smernici o veterinárnych liekoch. Za jasne zadefinovaných okolností niektoré výrobky, ktoré sa používajú pre čeľaď koňovitých, nebudú musieť mať stanovené MRL, ale budú musieť rešpektovať šesťmesačnú ochrannú lehotu.
+<P>
+Možno je k dispozícii nejaké vyjadrenie - smiem poprosiť prostredníctvom pána predsedajúceho, aby pán komisár zapol nahrávku: spomínam si na diskusiu spred niekoľkých mesiacov, ktorá súvisela s touto problematikou a týkala sa smernice o veterinárnych liekoch.
+<SPEAKER ID="255" NAME="Günter Verheugen" LANGUAGE="DE">
+Vážený pán predsedajúci, vážení poslanci, vážené poslankyne, revízia právnych predpisov o limitoch rezíduí farmakologicky účinných látok v potravinách rastlinného pôvodu je významnou iniciatívou Európskej komisie. Jej cieľom je ochrana spotrebiteľov pred rezíduami medicínskych prípravkov v potravinách a zároveň zlepšenie dostupnosti veterinárnych liekov v Spoločenstve. Je to taktiež významná súčasť programu Komisie na zjednodušenie právnych predpisov.
+<P>
+21. októbra minulého roka uzavreli Rada a Parlament dohodu, ktorá sa odráža v dnešnej spoločnej pozícii. Preto máme teraz spoločnú pozíciu nielen Rady a Parlamentu, ale aj Komisie. Som veľmi rád, že Komisia dokázala zakomponovať pozmeňujúce a doplňujúce návrhy Európskeho parlamentu a Rady, keďže zachovávajú zmysel aj základné náležitosti pôvodného návrhu Komisie.
+<P>
+Komisia teda vo svojom oznámení adresovanom Európskemu parlamentu 8. januára tohto roka vyjadrila spoločnej pozícii plnú podporu. Prijatie spoločnej pozície teraz umožní priviesť tento prípad do úspešného konca ešte pred koncom tohto parlamentného obdobia.
+<P>
+Jeho ukončenie na základe terajšej spoločnej pozície umožní tým, ktorí sa denne podieľajú na kontrolách potravín a veterinárnych medicínskych prípravkov, vykonávať svoju prácu lepšie v záujme zdravia zvierat a ochrany spotrebiteľa v Spoločenstve. Títo ľudia už dlho veľmi netrpezlivo čakali na revíziu právnych predpisov o limitoch rezíduí a myslím si, že už čakali naozaj dosť dlho a teraz sa môžu tešiť, že sa našlo riešenie.
+<P>
+Som si naozaj vedomý, ako veľmi dôležitá je dostupnosť veterinárnych liekov. Preto, bez ohľadu na pokrok, ktorý v tejto veci predstavuje už súčasné nariadenie o limitoch rezíduí farmakologicky účinných látok, Komisia v roku 2010 predloží hodnotenie problémov vzniknutých pri uplatňovaní smernice o veterinárnych liekoch a v prípade potreby k nemu predloží nové legislatívne návrhy.
+<P>
+Rád by som využil túto príležitosť, aby som osobitne poďakoval pani spravodajkyni Doylovej, ktorej naozaj vytrvalé úsilie nám umožnilo dospieť k dohode o tejto dôležitej otázke. Ešte raz úprimná vďaka, pani Doylová, za vašu výbornú prácu.
+<P>
+Správa pani Doylovej
+<P>
+Komisia berie na vedomie obavy, ktoré vyjadrili občania, veterinári, členské štáty a výrobcovia medicínskych prípravkov pre zvieratá, pokiaľ ide o smernicu, ktorá stanovuje pravidlá na povoľovanie veterinárnych liekov, hlavne dôležitosť riešenia existujúcich problémov v spojitosti s dostupnosťou veterinárnych liekov a použitím medicínskych prípravkov pre tie druhy zvierat, pre ktoré nie sú schválené, a neprimeranej regulačnej záťaže, ktorá bráni inováciám, a súčasne sa snaží o zabezpečenie vysokej úrovne bezpečnosti spotrebiteľa vzhľadom na potraviny živočíšneho pôvodu. Komisia zdôrazňuje, že sa v tomto smere robia pozitívne kroky, ako napríklad zjednodušovanie pravidiel o obmenách veterinárnych liekov a táto revízia právnych predpisov o maximálnych limitoch rezíduí v potravinách.
+<P>
+Navyše, na účely plnenia cieľov pre bezpečnosť spotrebiteľa a ochranu zdravia zvierat, konkurencieschopnosť veterinárneho priemyslu vrátane malých a stredných podnikov a zníženie administratívneho zaťaženia Komisia v roku 2010 predloží hodnotenie problémov spojených s uplatňovaním smernice o veterinárnych liekoch s cieľom prípadnej prípravy právnych návrhov.
+<SPEAKER ID="257" NAME="Avril Doyle">
+spravodajkyňa. - Vážený pán predsedajúci, chcela by som povedať, že existuje jeden pozmeňujúci a doplňujúci návrh, ktorý nemôžem podporiť, keďže v skutočnosti by vytvoril právne bezvýchodiskovú situáciu. Ak nemôžete podať zvieratám liek, ktorý sa práve testuje, v prípade, že ešte nemá stanovený MRL, potom nemôžete vykonávať testy, ktoré sú nevyhnutné na získanie údajov na stanovenie limitov a v prvom rade lehoty na odstúpenie.
+<P>
+Chcela by som sa poďakovať pánovi komisárovi za spoluprácu v tejto oblasti a poznamenať, že revízia smernice o veterinárnych liekoch je súrne potrebná. V určitom zmysle slova používame revíziu MRL ako kúsok záplaty na veľký problém, ktorý sa snažíme ututlať, no všetci o ňom dobre vieme. Problém s dostupnosťou primeraného sortimentu veterinárnych liekov na liečbu mnohých druhov zvierat v Európskom spoločenstve v uplynulých dvoch desaťročiach narastal. Počas tohto obdobia mnohí akcionári, tvorcovia právnych predpisov, priemyselné podniky a veterinári vynaložili značné úsilie na riešenie problémov s dostupnosťou liekov.
+<P>
+Napriek týmto snahám sa situácia naďalej zhoršovala. Nedostatok povolených liekov predstavuje skutočnú hrozbu pre zdravie zvierat a zdravie a bezpečnosť spotrebiteľov. Majiteľom zvierat, poľnohospodárom, veterinárom a vládam spôsobuje problémy aj to, ak zvieratá nie sú liečené, alebo sú liečené nepovolenými alebo nevhodnými liekmi - vrátane rizika dôsledkov zoonotických chorôb z neliečených alebo nevhodne liečených zvierat pre majiteľov zvierat, spotrebiteľov a občanov.
+<P>
+Existujú aj finančné, právne a obchodné dôsledky pre zainteresované osoby, lebo nedostatok liekov môže mať negatívny vplyv na vidiecke hospodárstvo a celé poľnohospodárstvo. Príkladom - a najdôležitejším hľadiskom - je vplyv na opeľovanie ako dôsledok zníženého počtu včelstiev. Včely sú veľmi dôležitou témou tzv. iniciatívy MUMS (Minor Use/Minor Species) - menej významné použitie/menej významné živočíšne druhy.
+<P>
+Súčasný problém s dostupnosťou v EÚ však nielenže vplýva na celkové zdravie a životné podmienky zvierat, bezpečnosť dodávok potravín a verejné zdravie v Spoločenstve, ale taktiež oslabuje schopnosť EÚ plniť lisabonskú agendu a využiť obrovský potenciál európskeho poľnohospodárstva a akvakultúry v zahraničí a pritiahnuť výskum a vývoj do veterinárnej farmácie.
+<P>
+Ešte raz ďakujem všetkým kolegom a pánovi komisárovi za spoluprácu na tejto správe.
+<SPEAKER ID="258" NAME="Predsedajúci">
+Rozprava sa skončila.
+<P>
+Hlasovanie sa uskutoční zajtra.
+<P>
+Písomné vyhlásenia (článok 142)
+<SPEAKER ID="259" NAME="Péter Olajos  " AFFILIATION="PPE-DE">
+písomne. (HU) Často počúvame ponosovanie, že EÚ sa snaží všetko regulovať, a súčasne nedokáže riešiť dôležité otázky.
+<P>
+Viacerí z nás si môžu myslieť, že aj táto správa je takej povahy. To by však bolo chybou. V tomto prípade totiž hovoríme o potravinách konzumovaných ľudskými bytosťami - a to je to, čo by sme chceli urobiť bezpečnejším v záujme našich občanov.
+<P>
+Existujúce právne predpisy sú zastarané a veterinárom komplikujú dopĺňanie zásob liekov. Preto je potrebná vhodná regulácia charakteristických znakov tohto odvetvia.
+<P>
+Stále viac farmaceutických spoločností má divíziu zameranú na prípravky pre zvieratá, ktoré prinášajú úctyhodný príjem. Dopyt stále rastie, keďže aj zvieratá chorľavejú, a teraz, keď hodnota potravín rastie, sa tomu oplatí predchádzať.
+<P>
+Len nedávno sa nám do pozornosti dostalo niekoľko informácií v tom zmysle, že určité spoločnosti pracujú na tom, ako na zvieratách "zarobiť" viac. Rýchlo rastúce kurčatá, prasatá, ktoré sú vykrmované do obrovských rozmerov za niekoľko mesiacov. Na to všetko sa používajú liečivé prípravky, ktoré sú pre ľudí často škodlivé.
+<P>
+Preto sa musí otestovať každý jeden prípravok, ktorý sa podáva zvieratám, v spolupráci s Európskou agentúrou pre lieky (EMEA), aby sa stanovilo, či rezíduá takých prípravkov, ktoré zostávajú v zvieratách a ktoré neskôr konzumujú ľudia, sú alebo nie sú nebezpečné.
+<P>
+Náklady na testy hradia spoločnosti. Musíme taktiež zdôrazniť možnosť rýchleho postupu, ktorý skracuje čas potrebný na administratívne spracovanie, a je takisto dôležité, aby veterinári mali k liečivám rýchlejší prístup.
+<P>
+Nič nie je dôležitejšie ako ľudské zdravie, a preto musíme zastaviť "doping zvierat", ktorý je motivovaný peňažným ziskom.

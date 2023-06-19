@@ -1,0 +1,50 @@
+<CHAPTER ID="025">
+Mobilizácia informačných a komunikačných technológií na uľahčenie prechodu na energeticky účinné nízkouhlíkové hospodárstvo (rozprava)
+<SPEAKER ID="622" NAME="Predsedajúci">
+Ďalším bodom programu je správa pani Toiaovej v mene Výboru pre priemysel, výskum a energetiku o mobilizácii informačných a komunikačných technológií na uľahčenie prechodu na energeticky účinné nízkouhlíkové hospodárstvo -.
+<SPEAKER ID="623" NAME="Patrizia Toia" LANGUAGE="IT">
+Vážený pán predsedajúci, dámy a páni, správa, o ktorej dnes večer diskutujeme a o ktorej budeme zajtra hlasovať, je súčasťou veľkého úsilia o zavedenie balíka 20/20/20, ktorý je podľa môjho názoru stále jedným z najprezieravejších a najvýznamnejších prínosov ostatného volebného obdobia Európskeho parlamentu. Ak by som sa mala rozhodnúť, čo by som ponechala z predchádzajúcich piatich rokov, balík 20/20/20 by som nepochybne zaradila na začiatok zoznamu.
+<P>
+Podľa môjho názoru je nutné podotknúť, že na tejto správe intenzívne pracovala Európska komisia, ktorá pred jej vypracovaním predložila oznámenie a odporúčanie, ako aj Výbor pre priemysel, výskum a energetiku a iní. Pôvodnú správu, ako aj našu činnosť obohatili mnohými návrhmi, dodatkami a zmenami.
+<P>
+Domnievam sa, že názor Parlamentu v súvislosti s jednou otázkou ešte stále nie je jednotný a dúfam, že sa to zajtrajším hlasovaním zmení. Ide o viac či menej záväzný charakter, ktorý chceme pripísať obsahu tejto správy, ktorá bola z veľkej časti pripravená s rovnakým cieľom a jednomyseľne.
+<P>
+Informačné a komunikačné technológie (IKT) predstavujú v neposlednom rade veľmi dôležité odvetvie, pretože v rámci európskeho hospodárstva nesú veľké bremeno: predstavujú 7 % pracovnej sily - európskej pracovnej sily - a 6 % HDP, t. j. značný podiel európskeho hospodárstva a európskej produktívnej, ako aj pracovnej sily.
+<P>
+Sú tiež veľmi dôležité nielen pre to, čo predstavujú, ale aj pre ich možný prínos a pre podstatnú, významnú úlohu, ktorú môžu zohrávať pri úsilí o dosiahnutie prechodu z nášho hospodárstva na stav, v ktorom rozvinuté hospodárstvo produkuje menej emisií, vykazuje nižší obsah uhlíka a nebude mať teda natoľko negatívny vplyv na našu budúcnosť a budúcnosť ďalších generácií. Inak povedané, pokiaľ ide o konkrétne činy a nie slová, môžu predstavovať zmeny, ktoré môžu viesť k takému spôsobu výroby, života, cestovania a spotrebného správania v rámci našej spoločnosti a k takej priemyselnej revolúcii, ktorá bude pre mnohých v skutočnosti predstavovať budúcnosť spoločenského a hospodárskeho života, a to nielen na našom kontinente, ale na celom svete.
+<P>
+Ako môžu IKT v takejto miere prispieť k zmene nášho hospodárstva? Po prvé, zmenou samotného odvetvia: cieľom správy je preukázať, ako sa toto odvetvie môže v prvom rade zamerať samo na seba a nájsť spôsob výroby komunikačných, mikroelektronických a iných nástrojov, ktoré by mali nižšiu spotrebu energie a vo svojej podstate by teda boli výkonnejšie.
+<P>
+Po druhé, môžu predstavovať nesmierny prínos pre hlavné odvetvia, pre odvetvie bývania a dopravy. Z údajov Komisie vyplýva, že v súlade s európskymi predpismi a cieľmi, ktoré sú stanovené aj v balíku 20/20/20, môže vyššia účinnosť v týchto dvoch odvetviach viesť k značnému zníženiu týchto emisií, keďže v súčasnosti sa v odvetví dopravy spotrebuje 26 % energie v Európe a 40 % sa v závislosti od ročného obdobia spotrebuje v domácnostiach na vykurovanie a chladenie, pričom je tu možné dosiahnuť veľmi vysoké úrovne účinnosti.
+<P>
+Nepochybne ide o mieru, ktorá v prípade hlavných odvetví ovplyvňuje naše životy vo významných oblastiach. Myslím tým celý bankový sektor, vzťahy vo verejnej správe, celý sektor elektronickej štátnej správy a v podstate všetky služby, ktoré na základe uplatnenia týchto technológií budú schopné nielen znížiť emisie uhlíka, ale aj šetriť čas a neustále zvyšovať životný štandard Európanov a kvalitu spoločenského života.
+<P>
+Má to preto nesmierny význam. Myslím si však, že táto správa bude mať ešte väčší význam, ak Parlament zajtra schváli jej záväzný charakter. Vážený pán predsedajúci, chcela by som uviesť len dva príklady: inteligentné merače s inteligentnou rozvodnou sieťou a inteligentné mestá. Len včera 700 európskych primátorov uzatvorilo v tomto Parlamente pred pánom predsedajúcim a európskym komisárom novú dohodu zameranú práve na zvýšenie účinnosti miest, ktoré sú domovom pre viac ako 70 % európskych občanov a ktoré teda môžu v značnej miere prispieť k zvýšeniu účinnosti a k hospodárskemu a sociálnemu rozvoju.
+<SPEAKER ID="626" NAME="Silvia-Adriana Ţicău" AFFILIATION="S&amp;D">
+(RO) Vítam závery zasadnutia Európskej rady v dňoch 25. a 26. marca, ktoré po prvýkrát stanovujú zvýšenie energetickej účinnosti o 20 % ako cieľ Európskej únie. Energetickú účinnosť budov možno zvýšiť využívaním informačných a komunikačných technológií a účinných meracích systémov a účinnosť v odvetví dopravy prostredníctvom zavedenia inteligentných dopravných systémov na európskej úrovni. Systémy založené na IKT môžu znížiť spotrebu energie v budovách až o 17 % a emisie z odvetvia dopravy až o 27 %.
+<P>
+Domnievam sa, že s cieľom znížiť spotrebu energie o 20 % do roku 2020 by elektrické siete mali byť inteligentné, mali by umožňovať flexibilný tok energie a mali by byť riadené a založené na IKT. EÚ musí prioritne podporovať európske hospodárstvo prostredníctvom investícií do rozvoja online služieb, nových technológií a predovšetkým prostredníctvom rozvoja širokopásmovej komunikácie vo všetkých členských štátoch.
+<SPEAKER ID="628" NAME="John Dalli">
+člen Komisie. - Vážený pán predsedajúci, Komisia veľmi oceňuje váš záujem, podporu a cenné odporúčania v súvislosti s mobilizáciou IKT na uľahčenie prechodu na energeticky účinné nízkouhlíkové hospodárstvo, pričom si pozorne preštudovala správu pani Toiaovej.
+<P>
+Je nevyhnutné, aby sme si uvedomili, akú významnú úlohu môže zohrávať sektor IKT ako aktivátor s cieľom znížiť emisie skleníkových plynov, a musíme zabezpečiť využitie tohto potenciálu a jeho premenu na skutočnosť.
+<P>
+Komisia plánuje k tejto otázke v rámci európskej digitálnej agendy, ktorú čoskoro prijme, pristupovať ako k priorite.
+<P>
+Ako uvádzate v správe, IKT môže prispieť k značnému zvýšeniu energetickej účinnosti v ostatných oblastiach, predovšetkým v prípade budov a odvetvia dopravy. Súhlasíme s vami aj v tom, že inteligentné rozvodné siete a zavedenie inteligentných meračov v členských štátoch je kľúčom k dosiahnutiu tohto potenciálu. Členské štáty musia proces zavedenia poháňať vpred, aby zabezpečili aktívnejších spotrebiteľov, ktorí budú môcť využívať výrobu obnoviteľnej energie a energeticky účinné technológie.
+<P>
+Nevyhnutný je taktiež spoločný rámec merania emisií odvetvia IKT. Prijatie prísneho rámca merania emisií s rozsiahlou podporou v tomto odvetví je nevyhnutným predpokladom na znásobenie skutočných prínosov informačných a komunikačných technológií. Toto je nutné brať do úvahy pri zohľadňovaní pozitívneho vplyvu využívaných IKT.
+<P>
+Od prijatia odporúčania v tejto súvislosti v októbri roku 2009 Komisia v spolupráci so zainteresovanými stranami prijala množstvo opatrení v záujme rozvoja tohto programu. Chcel by som spomenúť niektoré z nich, ktoré sú reakciou na otázky vyplývajúce z vašej správy.
+<P>
+Vo februári roku 2010 bolo založené fórum IKT pre energetickú účinnosť. Toto fórum spája vedúce priemyselné združenia pre špičkové technológie v EÚ, Japonsku a USA. Tieto združenia budú udávať ciele na základe spoločného rámca merania energetickej a uhlíkovej stopy odvetvia IKT, ktorý má byť vyvinutý do konca roku 2010.
+<P>
+Fórum sa tiež zameriava na možný prínos odvetvia IKT k zvýšeniu účinnosti ostatných odvetví, napríklad budov a dopravy. Veľké európske mestá sa podpísali pod zelenú digitálnu chartu. Tieto mestá sa zaviazali znížiť vlastnú uhlíkovú stopu IKT o 30 % do roku 2020 a uplatniť päť rozsiahlych pilotných IKT projektov na jedno mesto do roku 2015. Celkový počet miest, ktoré sa podpísali pod zelenú digitálnu chartu, sa zvýšil zo 14 na 21.
+<P>
+Otázky maloobchodného trhu s energiou majú čoraz väčší význam pre zavedenie novej technológie a systémov v podobe inteligentných meračov a rozvodných sietí, keďže trhy sa približujú k spotrebiteľom. Spolupráca s pracovnou skupinou Komisie pre inteligentné siete tiež napreduje. Cieľom je poskytnúť Komisii poradenstvo v súvislosti s politikou, regulačným rámcom, ako aj koordinovať prvé kroky smerujúce k zavedeniu inteligentných rozvodných sietí v zmysle ustanovení tretieho energetického balíka. Súbor odporúčaní sa očakáva do konca roku 2011.
+<P>
+Na záver by som chcel zdôrazniť, že Komisia je odhodlaná prispievať k dosiahnutiu cieľov 20-20-20, ktoré stanovili vedúci predstavitelia štátov a vlád, do roku 2020, pričom IKT zohráva v tejto súvislosti veľmi dôležitú úlohu. Ďakujeme vám za hodnotný prínos vašej správy a tešíme sa na spoluprácu, ktorej cieľom je prijať dobrú politiku na dosiahnutie týchto cieľov.
+<SPEAKER ID="629" NAME="Predsedajúci">
+Rozprava sa skončila.
+<P>
+Hlasovanie sa uskutoční zajtra.

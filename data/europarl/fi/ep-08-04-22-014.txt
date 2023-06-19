@@ -1,0 +1,464 @@
+<CHAPTER ID="014">
+Kyselytunti (kysymykset komissiolle)
+<SPEAKER ID="922" NAME="Puhemies">
+(PT) Esityslistalla on seuraavana kyselytunti (B6-0019/2008).
+<P>
+Käsittelemme komissiolle esitettyjä kysymyksiä.
+<P>
+Ensimmäinen osa
+<SPEAKER ID="334" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Pankkitilejä koskevien tietojen vaihto
+<P>
+Äskettäin tietoon tullut Liechtensteinin veroskandaali kosketti monia Euroopan unionin jäsenvaltioita. Toimivaltaisten viranomaisten tekemien tutkimusten mukaan jäsenvaltioiden kansalaisia näyttää olevan mukana veronkiertoa koskevissa menettelyissä. Saamieni tietojen mukaan 27 jäsenvaltion valtiovarainministerit ovat suositelleet komission asiasta vastaavalle pääosastolle erittäin pikaista tutkimusta sekä lainsäädännöllisen kehyksen uudistamisehdotusta, jonka perusteella sallittaisiin kansalaisten pankkitilejä koskevien tietojen vaihto.
+<P>
+Miten kyseisen kehyksen puitteissa voidaan samanaikaisesti turvata toisaalta kansalaisten henkilötietosuoja ja toisaalta avoimuus siten, että samalla estetään pimeän rahan siirtäminen ja peseminen? Mitä menettelyä komissio aikoo ehdottaa, jotta pankkitilien ”avaaminen” voitaisiin toteuttaa mahdollisimman laillisesti? Miten jäsenvaltioiden verotuksen yhdenmukaistaminen aiotaan toteuttaa siten, että edellä kuvaillun kaltaisilta tapauksilta, jossa pimeää rahaa on siirretty pankkitileiltä toisille, vältyttäisiin tulevaisuudessa?
+<SPEAKER ID="335" NAME="Günter Verheugen">
+komission varapuheenjohtaja. - (DE) Arvoisa puhemies, hyvät naiset ja herrat, meidän on torjuttava veronkiertoa. Jos emme tee niin, demokraattisen yhteiskuntamme perusta voi murentua.
+<P>
+Jokaisella valtiolla on oikeus säätää asetuksia, joilla varmistetaan se, että veroista säädetään tehokkaasti kansalaisten edustajien suostumuksella. Yksittäisillä toimenpiteillä ei kuitenkaan tällä alalla ole usein toivottua kansallista vaikutusta. Siksi tarvitaan kansainvälistä yhteistyötä veroviranomaisten välillä, mukaan luettuna pankkitilejä koskevien tietojen vaihtoa. EU:n 27 jäsenvaltion valtiovarainministerit työskentelevät tämän parissa yhdessä EU:n tasolla. Joitakin toimenpiteitä on jo otettu käyttöön EU:n tasolla. Säästöjen tuottamien korkotulojen verotuksesta annettu neuvoston direktiivi 2003/48/EY on pantava erityisesti merkille.
+<P>
+Euroopan unioni on lisäksi tehnyt kolmansien maiden, muun muassa Liechtensteinin kanssa sopimuksia, joilla on sama tavoite kuin tällä direktiivillä. Näillä sopimuksilla taataan, että kyseisissä kolmansissa maissa EU:n kansalaisten saamiin ja heille maksettuihin korkotuloihin sovelletaan joko heidän oman jäsenvaltionsa tuloveroa tai lähdeveroa. Lähdevero voidaan maksaa takaisin henkilölle, johon sovelletaan pysyvänä oleskelupaikkana olevan jäsenvaltion verotusta, jos vastaava tulo ilmoitetaan verotusta varten.
+<P>
+Talous- ja rahoitusasioiden neuvostossa keskusteltiin 4. maaliskuuta 2008 säästöjen tuottamien korkotulojen verotuksesta annetun direktiivin soveltamisesta. Keskustelun tuloksena ministerit kehottivat komissiota jatkamaan työtään kertomuksesta, joka käsittelee direktiivin täytäntöönpanoa sen 1. heinäkuuta 2005 tapahtuneen voimaantulon jälkeen. Kertomuksessa pitäisi käsitellä käsitteiden ”korkojen maksaminen” ja ”edunsaajat” määrittelyä.
+<P>
+Juuri esitetyssä kysymyksessä tiedusteltiin, ovatko tietojenvaihtojärjestelmät yhdenmukaisia henkilötietojen suojelun kanssa. Tässä yhteydessä voidaan huomauttaa, että tietosuojaa koskevilla yhteisön määräyksillä, joita sovelletaan myös Euroopan talousalueella, jäsenvaltioille annetaan mahdollisuus lainsäädännöllisten toimien toteuttamiseen. Näillä toimilla voidaan rajoittaa asianosaisten joitakin oikeuksia, kuten tietojen luovuttamista tai tiedonsaantia koskevaa oikeutta, jos se on välttämätöntä Euroopan unionin tai jäsenvaltion rahoitukseen tai talouteen liittyvien tärkeiden etujen suojaamiseksi. Tätä sovelletaan myös rahoituksen, talousarvion ja verotuksen aloilla.
+<P>
+Vastaavia rajoituksia sovelletaan myös kolmannen rahanpesudirektiivin täytäntöönpanoon. Jäsenvaltioiden on aina varmistettava asianmukaisesti, että niiden toimivaltaiset elimet ovat asiaankuuluvien EU:n asetusten ja kansallisten tietosuoja-asetusten mukaisia, kun ne vastaanottavat ja käsittelevät henkilötietoja.
+<P>
+Veropolitiikan tavoitteiden lainmukaisen tavoittelun ja yksityisyyden suojan välille on saatava tasapaino.
+<SPEAKER ID="337" NAME="Manolis Mavrommatis" AFFILIATION="PPE-DE">
+(EL) Arvoisat puhemies ja komission jäsen, verotuksen historia on täynnä vääriä pankkitilejä, jotka ovat vielä haitallisempia silloin, kun tällaiset skandaalit paljastuvat Euroopan maissa. Kun näin käy, me tuskin huomaamme asiaa, mutta aina kun sellaista tapahtuu uudelleen, muistot tulvahtavat mieleemme.
+<P>
+Arvoisa komission jäsen, katsotteko yleisesti, että järjestelmä on todellakin pettämätön?
+<SPEAKER ID="338" NAME="Günter Verheugen">
+komission varapuheenjohtaja. - (DE) Voin vastata arvoisan parlamentin jäsenen kysymykseen yksinkertaisesti, että en. Nykyiset järjestelmämme eivät ole vedenpitäviä, sen me tiedämme. Siksi pyrimme parantamaan niitä. Rahanpesun torjumista koskeviin erityisiin asetuksiin voi ehdottomasti tehdä parannuksia. Pyrimme näihin parannuksiin myös Euroopan unioniin kuulumattomien Euroopan talousalueen jäsenmaiden kanssa yhteistyössä.
+<P>
+Komissio on pyytänyt neuvostolta neuvotteluvaltuudet ja myös saanut valtuudet neuvotella erityisesti Liechtensteinin kanssa siitä, miten rahanpesun ja veropetoksen torjuntaa koskevien järjestelmien nykyiset heikot kohdat voitaisiin poistaa. Toivon, että Euroopan unionissa tällä hetkellä vallalla oleva yleinen mielipide auttaa meitä tarvittavien sopimusten tekemisessä. Me teemme ankarasti töitä tämän puolesta, mutta kuten tiedätte, veroasiat ovat äärimmäisen herkkiä. Parantamisen varaa on ehdottomasti jopa jäsenvaltioissa.
+<SPEAKER ID="339" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Arvoisa puhemies, arvoisa komission jäsen, te olette aivan oikein huomauttanut, että meidän on torjuttava veronkiertoa ja veropetoksia, se on selvää. Te olette huomauttanut, että tätä varten tarvitsemme oikeudellisia resursseja Euroopan unionin oikeusjärjestyksen nojalla.
+<P>
+Tiedotusvälineiden mukaan rahoitusviranomaiset ovat nyt saamassa joitakin tietoja tästä Liechtensteinin skandaalista, koska Saksan viranomaiset ovat maksaneet rikollisesti hankituista tiedoista. Onko tämä oikea tapa?
+<SPEAKER ID="340" NAME="Jörg Leichtfried" AFFILIATION="PSE">
+(DE) Arvoisa puhemies, olipa tämä sitten oikea tapa tai ei, on hyvä, että se on vuodettu julkisuuteen. Arvoisa komission jäsen, tällä hetkellä on kehittynyt järjestelmä, josta hyötyvät ne, jotka jo ovat varmistaneet, että suuret yritykset maksavat yhä vähemmän veroja, ja jotka ilmeisesti ovat nyt luopumassa kokonaan verojen maksusta. Minun mielestäni tällaista kehitystä ei voida hyväksyä. Olisin kiinnostunut kuulemaan, mistä te tarkalleen neuvottelette Liechtensteinin kanssa ja mitä te tarkalleen aiotte tehdä estääksenne tulevaisuudessa nämä rikokset - sanon ”rikokset” aivan tietoisesti.
+<SPEAKER ID="341" NAME="Günter Verheugen">
+komission varapuheenjohtaja. - (DE) Ensimmäiseen kysymykseen haluaisin vastata, että ei varmastikaan ole komission tehtävä arvostella sitä, mitä menetelmiä jäsenvaltio käyttää torjuakseen kansalaistensa veronkiertoa.
+<P>
+Olen huomauttanut, että myös verotukseen liittyvissä asioissa henkilötietoihin sovelletaan yleisiä sääntöjä ja että jäsenvaltiot voivat rajoittaa näitä sääntöjä, mikäli se suojelee niiden taloudellisia etuja.
+<P>
+Minun mielestäni teidän pitäisi esittää kysymyksenne Saksan hallitukselle. Minun tietääkseni se on ennen päätöstä tutkinut kuvaamanne tapauksen oikeudenkäyntien lainmukaisuutta koskevaa asiaa yksityiskohtaisesti ja on tehnyt johtopäätöksen, jonka mukaan Saksan viranomaisilla oli oikeus suojata asiaankuuluvat tiedot.
+<P>
+Toisen, hyvin yleisen kysymyksen osalta olen kanssanne samaa mieltä siitä, että on hyvin turhauttavaa, ettemme ole nykyisessä EU:n perustamissopimuksessa taanneet sitä mahdollisuutta, että verojen välttämistä ja veronkiertoa käsiteltäisiin samalla tavalla koko Euroopassa, ja että vieläkään ei voida taata, ettei kukaan auta tai edistä veronkiertoa tai verojen välttelyä.
+<P>
+Olemme viime vuosina saavuttaneet hyvin paljon, erityisesti rahanpesun ja kansainvälisen rikollisuuden ja terrorismin kaikkien muotojen torjunnassa. Olen kuitenkin jo huomauttanut komission katsovan, että parantamisen varaa on ja että se, mitä haluamme saavuttaa Liechtensteinin ja muiden maiden kanssa, on täysin selvää. Meidän pitäisi jatkaa Liechtensteinin osalta samanlaista yhteistyötä ja samanlaista tietojenvaihtoa kuin EU:n jäsenvaltioiden välillä jo on.
+<SPEAKER ID="342" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Mopojen pienhiukkaspäästöt
+<P>
+Utrechtin yliopiston tekemän tutkimuksen mukaan mopot ja skootterit päästävät suuria määriä pien- ja ultrapienhiukkasia. Tutkijat selvittivät 12:ssa keskisuuressa kaupungissa, kuinka paljon päästöjä polkupyöräilijät ja autoilijat joutuivat kestämään. Tutkimuksen tuloksista kävi ilmi, että polkupyöräilijät joutuivat hengittämään eniten pienhiukkasia ollessaan mopojen läheisyydessä. Vaikuttaa siltä, että mopot päästävät sekuntia kohti enemmän pienhiukkasia kuin kuorma-autot. Direktiivissä 2002/51/EY säädetään kyseisten ajoneuvojen päästönormeista. Pienhiukkasia säädöksessä ei kuitenkaan mainita.
+<P>
+Onko komissio tietoinen skoottereiden aiheuttamasta saasteongelmasta? Mihin toimiin komissio aikoo ryhtyä tarttuakseen kyseiseen ongelmaan asianmukaisella tavalla?
+<SPEAKER ID="343" NAME="Günter Verheugen">
+komission varapuheenjohtaja. - (DE) Arvoisa puhemies, hyvät naiset ja herrat, Euroopan komissio on jo vuosia kannattanut pien- ja ultrapienhiukkasten vähentämistä. Vuodesta 2005 lähtien komissio on esittänyt joukoittain lainsäädännöllisiä toimenpiteitä ilmanlaadun parantamiseksi, mistä te olette tietoisia. Seitsemännen tutkimuksen puiteohjelman osana on kuitenkin tutkittu ympäristöystävällisen liikennepolitiikan merkittäviä näkökohtia.
+<P>
+Ajoneuvojen hiukkaspäästöjä koskevia standardeja laatiessaan komissio keskittyi ensin dieselautoihin ja hyötyajoneuvoihin, koska näiden ajoneuvojen tarjonta oli huomattavasti laajempaa kuin kaksipyöräisten moottoriajoneuvojen tarjonta. Siksi me päätimme aloittaa puuttumalla ongelmaan siellä, missä se on laajin. Tässä me olemmekin saavuttaneet joitakin merkittäviä virstanpylväitä.
+<P>
+Parlamentti ja neuvosto antoivat vuonna 2007 asetuksen kevyiden ajoneuvojen ja hyötyajoneuvojen päästöistä. Tämä tarkoittaa Euro 5- ja Euro 6 -päästönormeja. Ne on jo hyväksytty ja ne ovat tulossa voimaan. Näiden dieselajoneuvojen ylimääräiset hiukkaspäästöt on nyt näiden Euro 5- ja Euro 6 -päästönormien avulla vähennetty nykyisestä 25 milligrammasta kilometriä kohti viiteen milligrammaan kilometriä kohti.
+<P>
+Komissio teki lisäksi 21. joulukuuta 2007 ehdotuksen raskaiden hyötyajoneuvojen päästöistä, ja tämä on Euro 6 -päästönormi. Sillä vähennetään typpioksidipäästöjä 80 prosentilla ja hiukkaspäästöjä 66 prosentilla tällä hetkellä voimassa olevaan Euro 5 -päästönormiin verrattuna.
+<P>
+Kaksipyöräisten ajoneuvojen hiukkaspäästöongelma johtuu pääasiassa kaksitahtimoottoreista. Nelitahtimoottoreiden hiukkaspäästöt ovat niihin verrattuna hyvin alhaisia jopa silloin, kun moottorit ovat Euro 5 -normin mukaisia.
+<P>
+Komissio tilasi vuonna 2004 tutkimuksen, jossa pyrittiin selvittämään, tarvitaanko kaksitahtimoottorien hiukkaspäästöjen rajoittamiseksi oikeudellisia säännöksiä. Tutkimuksen tuloksena oli, että näistä moottoreista päässeet hiukkaset ovat pääosin hiilivetyjä. Moottoripyörien ja mopojen, siis kaksipyöräisten ajoneuvojen hiilivetypäästöjen rajoja tiukennettiin jo huomattavasti vuosina 2004 ja 2007, ja tilanne on jo parantunut huomattavasti uusien ajoneuvojen osalta. Valmistajat ovat lisäksi siirtymässä kaksitahtimoottoreista nelitahtimoottoreihin, joten hiilivetypäästöjen rajat voidaan yleisesti säilyttää. Tämän takia komissio ei ole ryhtynyt erityisiin toimenpiteisiin kaksipyöräisten ajoneuvojen hiukkaspäästöjen rajoittamiseksi. Minun on kuitenkin sanottava, että tilanne on selvästi kriittisempi niiden vanhojen ajoneuvojen osalta, joissa on kaksitahtimoottori ja jotka päästävät paljon hiilivetyjä ja hiukkasia. Näitä päästöjä voidaan kuitenkin vähentää huomattavasti, jos mineraaliöljyn sijasta moottorin voiteluun käytetään synteettistä öljyä. Komissio tukee siksi Euroopan moottoripyörävalmistajien liiton ja moottoripyöräilijöiden liiton vastaavaa kampanjaa. Komissio tutkii joka tapauksessa, pitäisikö kaksi- ja kolmipyöräisiä moottoriajoneuvoja koskevia oikeudellisia säännöksiä tarkistaa.
+<P>
+Tämän vuoden alussa tilattiin tutkimus, jossa tutkitaan vuoden 2004 tutkimuksen tuloksia ja otetaan huomioon viimeisin tekninen kehitys. Tutkimuksen tulokset saadaan tämän vuoden loppuun mennessä. Mikäli käy ilmi, että komission on tehtävä lainsäädäntöehdotus - ja minä olen sen valmis tarvittaessa tekemään - se tapahtuisi vuonna 2009.
+<P>
+PM10-hiukkasten ja bentseenin päästörajat määrittävien ilmanlaadun arvioinnista ja hallinnasta annetun puitedirektiivin ja muiden vastaavien yksittäisten direktiivien mukaisesti jäsenvaltioiden on asianmukaisin toimenpitein taattava, että rajoja noudatetaan sovittuna päivämääränä. Jäsenvaltioiden on säädettävä myös hätätoimenpiteistä, mikäli rajat väliaikaisesti ylitetään. Niillä aloilla, joilla todennäköisyys kaksitahtisten moottorien rajojen ylittämiseen on huomattavasti suurempi, jäsenvaltioiden on tätä tilannetta varten otettava huomioon ilmanlaatusuunnitelmansa ja hätätoimenpiteensä komission tekemän arvioinnin jälkeen.
+<SPEAKER ID="344" NAME="Saïd El Khadraoui" AFFILIATION="PSE">
+(NL) Arvoisa puhemies, arvoisa komission jäsen, kiitos seikkaperäisestä vastauksestanne. Viittasitte aivan oikein ponnisteluihin, joita komissio on jo tehnyt kuorma- ja pakettiautojen päästöjen suhteen, mutta mopojen osalta ei ole vielä kehitetty lainsäädäntöä. Viittaatte teollisuuden ponnisteluihin korvata kaksitahtimoottorit nelitahtimoottoreilla, millä olisi myönteinen vaikutus.
+<P>
+Ennen kaikkea mietin, missä määrin tämä on vain epämääräinen sopimus. Onko se todellinen sopimus? Toiseksi meidän on tiedostettava se, että saaste on hyvin paikallista ja että sillä on esimerkiksi suuret vaikutukset polkupyöräilijöihin mopojen välittömässä läheisyydessä, mikä on ongelma kansanterveydelle.
+<SPEAKER ID="345" NAME="Günter Verheugen">
+komission varapuheenjohtaja. - (DE) Ymmärrän oikein hyvin arvoisan parlamentin jäsenen kysymyksen. Me emme nyt käsittele sopimusta, jonka komissio on saanut teollisuuden kanssa aikaan esimerkiksi moottoriajoneuvojen hiilidioksidipäästöjen vähentämisestä, vaan pikemminkin eräänlaista luonnollista kehitystä. Kuten sanoin, kaksipyöräisten ajoneuvojen valmistajat eivät voi noudattaa hiilivetypäästöistä jo voimassa olevia tiukkoja rajoituksia perinteisten kaksitahtimoottorien takia. Ne eivät vain pysty siihen. Tämän takia ne ovat siirtymässä nelitahtimoottoreihin, mistä seuraa erilainen ongelma.
+<P>
+Mainitsemassani tutkimuksessa kerrotaan tämän teknisen kehityksen tulokset, ja toistan vielä kerran: jos käy ilmi, että ongelmaa, josta juuri olen puhunut, ei voida ratkaista niin sanoakseni automaattisesti, on todella välttämätöntä tehdä lainsäädäntöehdotus. Toistan vielä kerran: olen valmis tekemään sen.
+<SPEAKER ID="346" NAME="Puhemies">
+(PT)
+<P>
+Aihe: 2,2 miljardia hädänalaista lasta
+<P>
+Maailmassa on 2,2 miljardia lasta, jotka kärsivät köyhyydestä, lukutaidottomuudesta, seksuaalisesta hyväksikäytöstä ja sotilaallisista konflikteista. Afrikassa Saharan eteläpuolella syntyneistä lapsista joka kuudes kuolee ennen viidettä ikävuottaan. YK:n lastenrahasto Unicefin mukaan kuolee joka päivä 27 000 lasta, useimmiten ehkäistävissä oleviin tauteihin. Unicefin julkistamien tuoreimpien tietojen mukaan maailmassa on 93 miljoonaa peruskouluikäistä lasta, jotka eivät käy koulua, ja heistä 41 miljoonaa asuu Afrikassa Saharan eteläpuolisessa osassa, 31,5 miljoonaa Etelä-Aasiassa ja 6,9 miljoonaa Lähi-idässä ja Pohjois-Afrikassa.
+<P>
+Kun pidetään mielessä, että lasten oikeuksien yleissopimus täyttää ensi vuonna 20 vuotta, antavat edellä mainitut luvut aiheen suureen suruun. Aikooko komissio ryhtyä konkreettisiin toimiin lasten hyväksikäytön torjumiseksi, oli kyse sitten seksiteollisuudesta tai tilanteista, joissa heistä tulee lapsisotilaita? Lisääntyykö komission iskukyky tällä alalla kun Lissabonin sopimus, johon lasten oikeudet on sisällytetty, tulee voimaan?
+<SPEAKER ID="347" NAME="Vladimír Špidla">
+komission jäsen. - (CS) Arvoisa puhemies, hyvät naiset ja herrat, komissio on samaa mieltä Johan Van Hecken tekemästä analyysistä, ja haluaisin vakuuttaa hänelle, että komissio on hyvin aktiivinen ponnisteluissaan lasten hyväksikäytön torjumiseksi. Lasten oikeudet ovat komission kauden 2005-2009 strategisten tavoitteiden tärkeimpien painopistealueiden joukossa. Tämä painopistealue tuotiin julki komission vuonna 2006 antamassa tiedonannossa ”Tavoitteena lapsen oikeuksia koskeva strategia” ja äskettäin 5. helmikuuta 2008 annetussa tiedonannossa ”Lapsille erikoisasema EU:n ulkoisissa toimissa”. Äskettäin annetun tiedonannon tavoitteena on kehysten luominen lapsen oikeuksien suojelemista ja edistämistä kolmansissa maissa koskevalle EU:n yhteiselle lähestymistavalle, joka näkyisi ulkosuhteidemme kaikilla aloilla mukaan luettuna kehitysapu, humanitaarinen apu ja kauppapolitiikka.
+<P>
+Tähän tiedonantoon sisällytetyssä toimintasuunnitelmassa lasten oikeuksista EU:n ulkoisten toimien yhteydessä määritellään tärkeimmät painopistealueet, joilla edellytetään toimia alueellisella ja maailmanlaajuisella tasolla: lapsityövoima, lapsikauppa, lapsiin kohdistuva väkivalta mukaan luettuna seksuaalinen väkivalta ja aseellisista konflikteista kärsivät lapset. Tämän politiikan täytäntöönpanemiseksi komissio käyttää 25 miljoonaa euroa temaattisesta ohjelmasta ”Investoiminen ihmisiin” tukeakseen aloitteita seuraavilla aloilla: lapsikauppa, aseellisista konflikteista kärsivät lapset, seksuaali- ja lisääntymisterveys ja nuorten ihmisten oikeudet. Komissio jatkaa demokratiaa ja ihmisoikeuksia koskevan eurooppalaisen aloitteen puitteissa tuen antamista hankkeille, joissa pannaan täytäntöön EU:n perusperiaatteita lasten oikeuksien tukemisesta ja suojelusta ja periaatteita, jotka koskevat aseellisista konflikteista kärsiviä lapsia. Vaikka Lissabonin sopimusta ei vielä ole ratifioitu, on syytä mainita, että siinä säädetään, että unionin on suhteissaan muun maailman kanssa edistettävä ihmisoikeuksien ja erityisesti lapsen oikeuksien suojelua. Niin tekemällä unioni antaa ulkopolitiikassaan etusijan yhteiskunnassa luultavasti heikoimmassa asemassa olevan ryhmän ihmisoikeuksille.
+<SPEAKER ID="348" NAME="Johan Van Hecke" AFFILIATION="ALDE">
+(NL) Arvoisa puhemies, haluaisin kiittää komission jäsentä ja myös komissiota siitä, että komissio on todella ponnistellut suojellakseen lapsen oikeuksia mahdollisimman paljon. Haluaisin kuitenkin päivittää kysymykseni. Unicef on hiljattain julkaissut raportin, jonka mukaan sotilaalliset joukot kaappasivat viime viikolla Itä-Kongossa 2 000-3 000 lasta ja että lapsia käytetään häpeämättömästi hyväksi sotilaallisessa konfliktissa. Mitä muuta komissio katsoo voivansa tehdä välttääkseen tämän kaltaiset tilanteet? Arvostan kaikkia ponnistuksia ja arvostan toimintasuunnitelman sisältöä. Kentällä työskentelevien ihmisten lausuntojen mukaan näyttää kuitenkin siltä, että lasten suojelemiseksi aseellisissa konflikteissa ei ole osoitettu tarpeeksi ihmisiä eikä varoja.
+<SPEAKER ID="349" NAME="Vladimír Špidla">
+komission jäsen. - (CS) Arvoisa puhemies, arvoisa parlamentin jäsen Van Hecke, tietysti tällainen järkyttävä ja julma toiminta saa meidät pohtimaan, voimmeko tehdä jotakin muuta. Minun mielestäni Euroopan komission strategia on johdonmukainen ja yhdenmukainen komission käytettävissä olevien valmiuksien ja oikeusperustan rajoissa. Paikallisesti ilmenevien tapausten osalta olen sitä mieltä, että on tärkeää tehdä päätökset sinä aikana ja siinä paikassa, jossa riski on olemassa, komission käytettävissä olevien rakenteiden perusteella ja poliittisten ja organisatoristen vaihtoehtojen mukaisesti. Näin ollen te olette oikeassa: on välttämätöntä hyödyntää rakenteita ja toimia, jotka ovat jo olemassa tapahtumien paikoilla, jotta voidaan tehostaa lasten suojelua vastaavalta väkivallalta.
+<SPEAKER ID="350" NAME="Christopher Heaton-Harris" AFFILIATION="PPE-DE">
+(EN) Arvoisa puhemies, komission jäsen on epäilemättä tietoinen siitä, että vaalipiiriini kuuluva McCannin perhe kävi muutama viikko sitten Euroopan parlamentissa. He olivat olleet etukäteen kirjeenvaihdossa komission jäsenen Frattinin kanssa lapsikaappauksia koskevasta ”Amber Alert” -hälytysjärjestelmästä. Missähän vaiheessa hanke on nyt komissiossa, kun komission jäsen Frattini on lähtenyt ja parlamentti on allekirjoittamassa kirjallista kannanottoa, jolla edistetään tätä ajatusta. Pohdimme, ottaako komissio sen käsiteltäväksi, edistetäänkö sitä ja kuka komission jäsen vastaa siitä tässä vaiheessa.
+<SPEAKER ID="351" NAME="Andreas Mölzer" AFFILIATION="NI">
+(DE) Kuulemme tiedotusvälineistä jatkuvasti eurooppalaisten tai jopa yhdysvaltalaisten järjestöjen harjoittamasta ihmiskaupasta. Adoptiojärjestöjä Itävallassa, Ranskassa ja muissa maissa epäillään lapsikaupasta. Jo kauan on raportoitu arveluttavista tapauksista adoptiomenettelyissä sekä vauvojen elinten myyntiin ja lasten prostituutioon liittyvistä tapauksista. Mihin toimenpiteisiin komissio aikoo ryhtyä estääkseen tällaiset tapaukset?
+<SPEAKER ID="352" NAME="Vladimír Špidla">
+komission jäsen. - (CS) Ensimmäinen kysymys oli osoitettu komission jäsenelle Frattinille, joka on päättänyt palata kotimaansa politiikkaan. Tällä hetkellä kyseinen salkku on kollegani komission jäsenen Barrot'n vastuulla. Hän voi vastata tähän kysymykseen ja kertoa viimeisimmät yksityiskohtaiset tiedot mainitsemanne hankkeen valmistelusta.
+<P>
+Toinen hyvin tärkeä kysymys, kansainvälinen adoptio, on erittäin herkkä aihe: emme voi missään olosuhteissa hyväksyä sellaista ajatusta, että kansainvälinen adoptio itsessään on väärin, koska sen avulla monet lapset saavat sopivan perheen ja sopivan kodin. On tietysti myös totta, että kansainvälisen adoption puitteissa käytetään vaarallisia ja halpamaisia menetelmiä ja toimenpiteitä. Euroopan komission toimivallan osalta on joka tapauksessa sanottava, että on jäsenvaltioiden vastuulla hyväksyä toimenpiteitä, joilla estetään kansainvälisen adoption väärinkäyttö. Tämä koskee tietysti myös Itävallan tasavaltaa. Haluaisin huomauttaa, että kansainvälistä adoptiota koskevat säännöt eivät ole täysin yhdenmukaisia koko Euroopan unionissa ja että jokainen valtio hyväksyy omat kansalliset sääntönsä lapsensuojelua koskevien kansainvälisten yleissopimusten puitteissa. Näitä kansallisia sääntöjä voitaisiin muuttaa ja parantaa eri tavoin. Hyvät naiset ja herrat, haluaisin toistaa, että periaatteessa kansainvälisen adoption avulla monet lapset saavat mahdollisuuden saada perheen ja tavallisen elämän, ja toisaalta kuitenkin aihe on hyvin herkkä, ja se kuuluu jäsenvaltioiden toimivaltaan.
+<P>
+Toinen osa II
+<SPEAKER ID="354" NAME="Puhemies">
+
+<P>
+Aihe: Kreikan sosiaalivakuutusjärjestelmän uudistukset
+<P>
+Neuvoston päätöksissä ja komission asiakirjoissa mainitaan toistuvasti tarve nykyaikaistaa ja saneerata jäsenvaltioiden sosiaaliturvajärjestelmiä, eläkeikärajojen mukauttaminen ja varhaisen eläkkeelle jäämisen kielteiset vaikutukset talouteen ja yhteiskuntaan.
+<P>
+Osallistuuko Euroopan komissio neuvoa-antavassa ominaisuudessa mukautusmenettelyyn ja arvioiko se jäsenvaltioiden uusia lainsäädäntötoimia?
+<P>
+Viimeaikaiset Kreikan sosiaalivakuutusjärjestelmän uudistukset kuuluvat kansalliseen toimivaltaan. Laatiiko Euroopan komissio kuitenkin niitä koskevan arvion?
+<SPEAKER ID="355" NAME="Vladimír Špidla">
+komission jäsen. - (CS) Arvoisa puhemies, hyvät naiset ja herrat, komissio on tietoinen eläkejärjestelmiin liittyvistä väestökysymyksistä. Koska syntyvyys on laskenut 1970-luvulta lähtien ja koska ihmiset elävät pidempään, yhä harvempien työikäisten ihmisten on tuettava yhä useampia työiän ylittäneitä ihmisiä. Kuten tiedätte, Euroopan yhteisön perustamissopimuksen mukaisesti sosiaaliturva kuuluu jäsenvaltioiden toimivaltaan. Komissio ei siksi puutu jäsenvaltioiden eläkejärjestelmiin eikä sillä ole edes neuvoa-antavaa roolia kansallisten mukautusten osalta. Siksi jäsenvaltiot ja komissio ovat sopineet tekevänsä yhteistyötä sosiaalisen suojelun ja sosiaalisen osallisuuden alalla avoimen koordinointimenetelmän perusteella. Tämä tarkoittaa sitä, että komissio ja neuvosto laativat yhteiset tavoitteet, jäsenvaltiot raportoivat näistä tavoitteista ja komissio tekee yhteenvedon tuloksista raportissa, jonka neuvosto myöhemmin hyväksyy.
+<P>
+Jäsenvaltiot toimittivat ensimmäisen osan kansallisista strategisista selvityksistään vuonna 2002 ja toisen osan vuonna 2005. Komissio teki yhteenvedon tästä toisesta osasta sosiaalista suojelua ja sosiaalista osallisuutta koskevassa yhteisessä raportissaan, jonka Euroopan neuvosto hyväksyi vuonna 2006. Arviointi osoittaa, että vaikka viimeisimmät uudistukset ovat johtaneet siihen, että ihmisille tarjotaan voimakkaampia kannusteita työskennellä pidempään, korkeamman työllisyystason saavuttamiseksi tarvitaan silti lisätoimenpiteitä erityisesti naisten ja vanhempien työntekijöiden osalta. Korkeamman työllisyystason saavuttaminen on paras keino varmistaa eläkejärjestelmien säilyminen riittävinä ja kestävinä. Kreikassa vanhuusiän köyhyyttä koskeva riski on huomattavasti keskimääräistä suurempi: vuonna 2005 luvut olivat 26 prosenttia yli 65-vuotiaiden osalta verrattuna 19 prosenttiin 64-vuotiaiden osalta. Kreikan eläkejärjestelmää on uudistettava, jotta siitä tulee asianmukaisempi ja kestävämpi.
+<P>
+Uudistuksia tarvitaan, jotta ikääntyneitä ja naisia voidaan kannustaa työskentelemään enemmän ja pidempään. Kun otetaan huomioon naisten alhainen osuus, meidän on pantava täytäntöön politiikkaa, jolla pyritään saavuttamaan naisten korkeampi työllisyystaso eläkejärjestelmien pitkäaikaisen riittävyyden ja kestävyyden varmistamiseksi. Koska eläkejärjestelmillä on jo nyt taloudellisia vaikeuksia, iäkkäämpien ihmisten köyhyys on tulevaisuudessakin ongelma, kunnes peruseläkejärjestelmään kuulumattomat saavat oikeuden vaatia eläkettä pidemmän ajan jälkeen.
+<P>
+Kansallisten strategisten raporttien seuraavan osan valmistelua odotetaan vuonna 2008. Komissio laatii yhteenvedon jäsenvaltioiden tärkeimmistä kehitysvaiheista. Tämä muodostaa perustan vuonna 2009 esitettävälle sosiaalista suojelua ja sosiaalista osallisuutta koskevalle yhteiselle raportille.
+<SPEAKER ID="356" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Arvoisa puhemies, arvoisa komission jäsen, kiitos valaisevasta vastauksestanne. Nyt haluaisin sivuta aihetta, joka koskee äitien varhaiseläkettä, joka perustuu siihen, että heidän lapsensa ovat edelleen alaikäisiä heidän jäädessään eläkkeelle. Varhaiseläkkeen raja oli Kreikassa 50 vuotta. Sitä on tulevien sukupolvien osalta nostettu 55 vuoteen, mutta ei alaikäisten lasten äitien osalta. Miten te arvioitte tätä rajaa komission näkökulmasta ja verrattaessa sitä tietoihin, joita teillä on muista jäsenvaltioista?
+<SPEAKER ID="357" NAME="Vladimír Špidla">
+komission jäsen. - (CS) Kuten alussa mainitsin, Euroopan yhteisön perustamissopimuksen nojalla eläkejärjestelmien yleisrakenne on kunkin jäsenvaltion vastuulla, ja se kuuluu niiden toimivaltaan. Jäsenvaltioilla on eri tapoja eläkeiän määrittämiseksi. Yleisin ikä on 65 vuotta, mutta joissakin maissa eläkeikä on korkeampi ja joissakin matalampi. Sama koskee naisten eläkkeitä: erilaiset eläkeiät määrätään kunkin jäsenvaltion päätösten ja poliittisten keskustelujen perusteella. Komission edistämä ja perustamissopimuksessa vahvistettu perusperiaate on se, että näiden järjestelmien ei pitäisi olla millään lailla syrjiviä. Kun tämä ehto on täytetty, eläkeiän määrääminen on täysimääräisesti jäsenvaltioiden vastuulla. Siksi en halua kommentoida yksityiskohtaisesti yksittäisten jäsenvaltioiden erilaisia eläkeikiä.
+<SPEAKER ID="358" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Nuoriso- ja pitkäaikaistyöttömyyden torjuminen Euroopassa
+<P>
+Voisiko Euroopan komissio antaa yksityiskohtaisen lausunnon siitä, mitä uusia aloitteita se toteuttaa tänä vuonna torjuakseen nuoriso- ja pitkäaikaistyöttömyyttä Euroopassa ja erityisesti siitä, mitä suunnitelmia edistetään sen varmistamiseksi, että työttömät voivat oppia uusia tietotekniikkataitoja?
+<SPEAKER ID="359" NAME="Vladimír Špidla">
+komission jäsen. - (CS) Arvoisa puhemies, hyvät naiset ja herrat, komissio on huolissaan nuorten ihmisten korkeasta työttömyysasteesta jäsenvaltioissa. Se oli vuoden 2007 lopussa 15,2 prosenttia eli melkein kaksi kertaa enemmän kuin yleinen työttömyysaste. Komissio on myös huolissaan sitkeästä pitkäaikaistyöttömyydestä, josta kärsii noin puolet (45 prosenttia) työttömistä, vaikka minun onkin korostettava, että viime aikoina olemme havainneet pitkäaikaistyöttömyyden tason laskeneen huomattavasti. Tämä lasku vaihtelee jäsenvaltioista toiseen, mutta suuntaus koko EU:ssa on selvästi alaspäin.
+<P>
+Tilanne on kuitenkin edelleen huolestuttava. Monet nuoret valmistuvat ilman työmarkkinoille pääsyyn tarvittavia taitoja. Tämä johtuu siitä, että noin kuudesosa Euroopan unionin nuorista jättää koulun kesken ja neljäsosa ei saata toisen asteen opintojaan loppuun.
+<P>
+Huolimatta jäsenvaltioiden huomattavista ponnisteluista nuorten työllisyysasteen parantamiseksi noin puolet valtioista ei ole vielä saavuttanut tavoitetta, jonka mukaan nuorille työttömille annetaan mahdollisuus ”uuteen alkuun” kuuden kuukauden sisällä, mikä oli vaatimus vuodelle 2007, tai neljän kuukauden sisällä, mikä on tavoitteena vuodelle 2010.
+<P>
+Jäsenvaltiot vastaavat ensisijaisesti nuorten työttömyysasteen ja pitkäaikaistyöttömyyden vähentämistä koskevista täytäntöönpanotoimenpiteistä. Euroopan unionilla on täydentävä tehtävä, sillä se koordinoi jäsenvaltioiden kansallista työllisyyspolitiikkaa ja osoittaa taloudellista tukea Euroopan sosiaalirahastosta.
+<P>
+Kuten tiedätte, komissio hyväksyy joka vuosi työllisyysstrategiaa koskevan vuotuisen edistymiskertomuksensa. Maaliskuussa 2008 pidetyssä kokouksessaan Eurooppa-neuvosto hyväksyi monia jäsenvaltiolle annettavia suosituksia. Niistä 17 oli opetukseen ja ammattikoulutukseen liittyviä suosituksia ja 15 työllisyyteen liittyviä suosituksia.
+<P>
+Katson, että nuorten ihmisten työmarkkinoille integroimisen parantamiselle ovat olennaisia seuraavat kolme toimintalinjaa:
+<P>
+1. Opetuksen ja koulutuksen parantaminen: on tärkeää keskittää ponnistelut tärkeimpien taitojen kehittämiseen lapsuudessa ja sellaisen tukimekanismin luomiseen, jolla estetään nuoria keskeyttämästä koulua. Vuodesta 2007 lähtien käynnissä ollut elinikäisen oppimisen ohjelma edistää Euroopan unionin kehittymistä edistyneenä tietoon perustuvana yhteiskuntana antamalla tukea jäsenvaltioiden opetusjärjestelmien ja ammattikoulutuksen modernisoinnille ja mukauttamiselle.
+<P>
+2. Sosiaalisen osallisuuden tukeminen: tässä yhteydessä on kiinnitettävä erityistä huomiota heikoimmassa asemassa olevien nuorten tilanteen parantamiseen ja lasten köyhyyden poistamiseen.
+<P>
+3. Maantieteellisen liikkuvuuden parantaminen: tällä hetkellä työttömyyttä esiintyy yhtä aikaa työmarkkinoiden työvoimapulan kanssa. Tämä on kannustanut komissiota tukemaan jäsenvaltioiden välistä yhteistyötä ja erityisesti kannustamaan nuorten ihmisten suurempaan liikkuvuuteen Euroopan unionissa.
+<P>
+Työmarkkinapolitiikkaansa täytäntöön pannessaan jäsenvaltiot saavat myös taloudellista tukea rakennerahastoista ja erityisesti Euroopan sosiaalirahastosta.
+<P>
+Jäsenvaltioilla on 75 miljardia euroa käytössään kaudeksi 2007-2013. Euroopan sosiaalirahasto on äärimmäisen tärkeä. Noin 25 prosenttia Euroopan unionin työttömistä ihmisistä oli jollain tavalla mukana ESR:n hankkeissa vuonna 2007. Tämä tarkoittaa sitä, että joka vuosi annetaan tukea noin miljoonalle syrjäytymisestä kärsivälle ihmiselle, nuoret mukaan luettuna. Joka vuosi työmarkkinoille tulee noin kaksi miljoonaa ihmistä, jotka ovat saaneet tukea Euroopan sosiaalirahastosta.
+<P>
+Vaikka Euroopan aluekehitysrahastossa ei keskitytäkään pelkästään nuoriin ihmisiin sinänsä, rahastosta osallistutaan sellaisten hankkeiden rahoitukseen, jotka vaikuttavat suoraan nuoriin, muun muassa opetuksen ja ammattikoulutuksen infrastruktuureja, yliopistotutkimusta ja liikeyritysten, erityisesti pienten ja keskisuurten yritysten tukea koskevien hankkeiden rahoitukseen. Alueet talouden muutosten edistäjinä -aloitteen puitteissa komissio tukee parhaiden käytäntöjen vaihtoa ”Syrjäytyneen nuorison integroiminen” -alueverkoston avulla.
+<P>
+Hyvät naiset ja herrat, nuorten työttömyyden ja pitkäaikaistyöttömyyden torjunta on Euroopan unionin ja jäsenvaltioiden ensisijainen tavoite. Nuorten integroiminen työelämään ja yhteiskuntaan ja heidän kykyjensä hyödyntäminen paremmin ovat edellytyksiä Euroopan vahvan ja kestävän kasvun palauttamiselle.
+<SPEAKER ID="360" NAME="Eoin Ryan" AFFILIATION="UEN">
+(EN) Kiitän teitä erittäin kattavasta vastauksestanne.
+<P>
+Kannustatteko vai painostatteko jäsenvaltioita vaihtamaan parhaita käytäntöjä tai esimerkkejä parhaista käytännöistä yhdestä valtiosta toiseen nuorten ihmisten pitkäaikaistyöttömyyden määrän käsittelemiseksi ja rajoittamiseksi? Olen varma, että jotkin valtiot ovat niin sanoaksemme onnistuneet paremmin kuin toiset, ja ihmettelenkin, onko olemassa keinoja, joiden avulla valtiot voisivat toimia keskenään yhteistyössä oppiakseen esimerkin kautta, miten toisissa valtioissa toimitaan.
+<P>
+Olen aiemmin arvostellut kysymyksiin annettuja vastauksia ja haluaisinkin nyt onnitella teitä hyvin kattavasta vastauksestanne.
+<SPEAKER ID="361" NAME="Vladimír Špidla">
+komission jäsen. - (CS) Arvoisa parlamentin jäsen Ryan, tietojen ja hyvien käytäntöjen vaihto on yksi Euroopan unionin valtavista eduista. Se on pysyvä osa avointa koordinointimenetelmää ja meidän työtämme, ja haluaisin korostaa, että esimerkiksi puheenjohtajavaltio Slovenia on omistanut yhden puheenjohtajakautensa konferensseista nuorten työttömyydelle. Tämä on tyypillinen ja ihanteellinen tilaisuus verrata yksittäisten jäsenvaltioiden erilaisia lähestymistapoja. Te olette oikeassa: jotkin jäsenvaltiot löytävät muita tehokkaammin ja nopeammin vastauksia joihinkin kysymyksiin. Siksi kokemusten ja käytännön tietojen jatkuva vaihto ja vertailu ovat hyvin tehokkaita tapoja saavuttaa edistystä.
+<SPEAKER ID="362" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Uudet taidot, Internet, teknologia ja niin edelleen ovat tietenkin hyvin tärkeitä työmarkkinoilla. Me olemme kuitenkin kaikki oppineet, että perustaitojen, luku-, kirjoitus- ja laskutaidon puuttuminen on jopa nuorten työttömyydessä todellinen syy siihen, miksi nuoret eivät pääse työmarkkinoille ensimmäistä kertaa ja varhain elämässään. Onko tällä alalla mitään erityisiä keskeisiä kohtia?
+<SPEAKER ID="363" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+(EL) Arvoisa puhemies, arvoisa komission jäsen, te puhuitte nuorten työttömyydestä ja edellisessä kysymyksessä naisten vajaatyöllisyydestä.
+<P>
+Aikooko komissio tehdä ehdotuksia perhe- ja työelämän yhdistämisestä ja erityisesti äitiys- ja vanhempainvapaasta?
+<SPEAKER ID="364" NAME="Vladimír Špidla">
+komission jäsen. - (CS) Haluaisin palata lyhyesti siihen, mitä alussa sanoin. Tällä hetkellä komissio keskittyy erityisesti kollegani komission jäsen Figelin tekemän työn nojalla koulun keskeyttämisasteeseen ja perustaitojen hankkimiseen. Te olette oikeassa: on olennaista, että ihmiset saavat perustaidot ja oppimisvalmiudet ollessaan lapsia ja nuoria, koska silloin uralla eteneminen on myöhemmin helpompaa ja menestyksekkäämpää. Ohjelmissamme, esimerkiksi Euroopan sosiaalirahastosta rahoitetuissa ohjelmissa, me keskitymme asiaan, jota minä kutsuisin ”toiseksi tilaisuudeksi”. Toisin sanoen annamme silloin lapsille, joille on ongelmia - ja heitä on sangen paljon - tilaisuuden palata viralliseen koulutukseen ja saattaa koulutuksensa loppuun. Tämä on yksi komission keskeisistä kohdista, koska kuten on jo mainittu, se on ratkaiseva asia.
+<SPEAKER ID="365" NAME="Puhemies">
+
+<P>
+Aihe: Syrjinnän vastainen EU:n lainsäädäntö
+<P>
+EU:n nykyisen lainsäädännön mukaan EU:n kansalaisia suojellaan ikään, uskontoon, vakaumukseen, vammaan ja seksuaaliseen suuntautumiseen liittyvältä syrjinnältä vain työn ja ammatillisen koulutuksen yhteydessä. Samalla syrjintää koskevaa lainsäädäntöä sovelletaan koulutuksen, sosiaaliturvan sekä tavaroiden ja palveluiden saannin yhteydessä vain rotuun ja etniseen alkuperään liittyen.
+<P>
+Lainsäädäntöä laajennetaan niin, että se käsittää yhä useampia luokkia tavaroiden ja palveluiden alalla. Miten komissio on ottanut tässä yhteydessä huomioon näin mahdollisesti aiheutuvat tahattomat seuraukset?
+<P>
+Millaisia takeita komissio on esimerkiksi harkinnut kaikessa uudessa lainsäädännössä sen takaamiseksi, että vanhuksia ja erityisryhmiä koskeviin alennuksiin ei kohdistu kielteisiä vaikutuksia?
+<SPEAKER ID="366" NAME="Vladimír Špidla">
+komission jäsen. - (CS) Arvoisa puhemies, hyvät naiset ja herrat, kuten tiedätte, Euroopan unioni on laatinut laajat kehykset syrjinnän torjuntaa varten ja se voi olla ylpeä saavutetuista tuloksista. Joidenkin ryhmien suojelun taso on kuitenkin korkeampi kuin toisten. Täsmällisesti sanottuna tämä tarkoittaa sitä, että ihmisiä suojellaan ikään, vammaisuuteen, seksuaaliseen suuntautumiseen ja uskontoon perustuvalta syrjinnältä, mutta että heitä suojellaan tällä monitahoisella tavalla vain työpaikalla. Ainoastaan rotuun tai etniseen alkuperään perustuvalta syrjinnältä suojelun soveltamisala on laajempi.
+<P>
+Kuten komission lainsäädäntö- ja työohjelmassa vuodeksi 2008 ilmoitettiin, komissio suunnittelee Euroopan yhteisön perustamissopimuksen 13 artiklaan perustuvaa direktiiviehdotusta, jonka nojalla yhdenvertaisen kohtelun periaate pantaisiin täytäntöön työpaikan ulkopuolella ja jolla laajennettaisiin nykyisiä EU:n oikeudellisia kehyksiä. Yksityiskohdista on vielä tehtävä päätökset: odotamme esimerkiksi parhaillaan käynnissä olevan vaikutusten arvioinnin tuloksia, jotka ovat saatavilla pian. Komissio kuitenkin ymmärtää, että syrjimättömyyden periaatteiden ja erityiskohtelun välille on saatava aikaan tasapaino. Tietyissä olosuhteissa jälkimmäinen voi olla perusteltu.
+<P>
+Jäsenvaltioissa on monia erityiskohtelun tyyppejä, ja niiden nojalla tietyt ryhmät saavat erityiskohtelua erityisistä syistä kohtelun olematta syrjivää. Yksi esimerkki erityiskohtelusta ovat iäkkäiden ihmisten ilmaiset matkat julkisessa liikenteessä: tämä edistää liikkuvuutta. Komission mielestä nämä käytännöt eivät ole laittomia, jos ne voidaan oikeuttaa yhteiskuntaa, koulutusta tai kulttuuria koskevan lainsäädännön perusteella tai muista syistä.
+<SPEAKER ID="367" NAME="Robert Evans" AFFILIATION="PSE">
+(EN) Arvoisa puhemies, haluaisin kiittää komission jäsentä hänen lausuntonsa lopuksi esittämästään vakuutuksesta, joka koskee komission pyrkimystä siihen, että hänen ”erityiskohteluksi” kuvailemallaan kohtelulla ei ole haitallisia vaikutuksia. Pidän tätä myönteisenä. Jos työ jatkuu hänen kuvailemallaan tavalla ja jos hän pystyy saavuttamaan oikean tasapainon, uskon, että sitä pidetään myönteisenä kaikissa Euroopan unionin jäsenvaltioissa. Kiitän häntä kyseisestä vakuutuksesta.
+<P>
+Kun minulla nyt on puheenvuoro, haluaisin kysyä aiheeseen liittyvästä asiasta. Onko komission jäsenellä mitään käsitystä siitä, milloin hän odottaa julkaisevansa ehdotuksensa päätöksestä liittyä vammaisten henkilöiden oikeuksia koskevaan YK:n yleissopimukseen, joka tietysti kuuluu tähän samaan luokkaan?
+<SPEAKER ID="368" NAME="Vladimír Špidla">
+komission jäsen. - (CS) YK:n yleissopimus vammaisten henkilöiden oikeuksista saatiin valmiiksi Luxemburgin puheenjohtajakauden aikana myös Euroopan unionin koordinoitujen ponnistelujen ansiosta. Olen varma, että tätä yleissopimusta ei olisi saatu aikaan ilman meidän ponnistelujamme. Yleissopimuksen ratifiointi on tietysti jäsenvaltioiden vastuulla, ja Euroopan unioni pyrkii tukemaan ja nopeuttamaan ratifiointia jäsenvaltioiden kanssa käytävillä keskusteluilla.
+<P>
+Kysymykseenne siitä, milloin odotan julkaisevani ehdotuksen, voin vastata, että alustava määräaika on tämän vuoden kesäkuun loppu mutta että se todella on vain alustava päivämäärä.
+<SPEAKER ID="369" NAME="Jim Allister" AFFILIATION="NI">
+(EN) Arvoisa puhemies, haluaisin kiinnittää komission jäsenen huomion uskontoon perustuvaan syrjintään ja siihen hämmästyttävään tosiasiaan, että EU:ssa on yksi paikka, jossa uskontoon perustuva syrjintä sallitaan huolimatta EU:n suojelusta sitä vastaan. Surullista kyllä, kyseessä on minun vaalipiirini, Pohjois-Irlanti. Siellä on EU:n sallimalla poikkeuksella EU:n lainsäädännöstä erityisesti julistettu, että protestanttien syrjiminen Pohjois-Irlannin poliisivoimien rekrytoinnissa on lainmukaista. Voiko komission jäsen kertoa, milloin tämä naurettava tilanne päättyy ja minun vaalipiirini asukkaat saavat samat oikeudet kuin muutkin?
+<SPEAKER ID="370" NAME="Philip Bushill-Matthews" AFFILIATION="PPE-DE">
+(EN) Hyvin lyhyesti sanottuna olen kysymyksen esittäjän Robert Evansin tavoin tyytyväinen siihen, mitä komission jäsen aikoo tehdä kaiken tulevan lainsäädännön osalta. Mutta kysymyksessä tarkoitettiin erityisesti tahattomien seurausten mahdollisia vaaroja.
+<P>
+Koska ala on hyvin herkkä, voisiko komission jäsen vahvistaa ennen kuin mitään tämän alan tulevaa lainsäädäntöä kehitetään lopullisesti, että kaikki vaikutusten arvioinnit ovat erityisen tiukkoja ja että ne tehdään etukäteen?
+<SPEAKER ID="371" NAME="Vladimír Špidla">
+komission jäsen. - (CS) Nykyisillä direktiiveillä säädetään uskonnollisia yhteisöjä ja uskonnollisia vakaumuksia koskevista erityisistä säännöksistä. Tässä yhteydessä komissio valvoo myös säännösten täytäntöönpanoa valvoessaan toimenpiteitä. Tämä on monitahoinen ja äärimmäisen herkkä aihe, mutta sitä säännellään yleisesti ottaen EU:n direktiiveillä, ja komissio voi päättää, paneeko yksittäinen jäsenvaltio lainsäädäntöä asianmukaisesti täytäntöön vai rikkooko se syrjimättömyyden periaatetta.
+<P>
+Voin antaa yksinkertaisen esimerkin vastauksena toiseen kysymykseen. Yhdenvertaisen kohtelun ja syrjimättömyyden periaate on Euroopan unionin perusarvo, joka on pantava täytäntöön, ja silloin on käytettävä kaikkia Euroopan unionissa käytössä olevia välineitä. Toisaalta on selvää, että kun tehdään päätöksiä, jotka ovat niin merkittäviä niin monelle, seurauksia on tutkittava ja vaikutustenarvioinnit tehtävä. Euroopan komissio soveltaa tätä menetelmää tiukasti kaikilla aloilla, mukaan luettuna yhdenvertaiset mahdollisuudet, perusoikeudet ja syrjimättömyys.
+<SPEAKER ID="372" NAME="Mario Mantovani" AFFILIATION="PPE-DE">
+(IT) Kiitos, arvoisa puhemies, en esitä uusia kysymyksiä. Marie Panayotopoulos-Cassiotou kuitenkin kysyi erityisen kysymyksen äitiys- ja vanhempainvapaasta. Antaisitteko komission jäsenen vastata siihen?
+<SPEAKER ID="373" NAME="Puhemies">
+(PT) Arvoisa parlamentin jäsen Mantovani, aika kyseisiin kysymyksiin vastaamiselle, on jo päättynyt emmekä siis voi tehdä niin. Komission jäsen kuuli kysymyksen, ja jos hän katsoo, että on asianmukaista vastata siihen kirjallisesti, hän voi tehdä niin. Marie Panayotopoulos-Cassiotou olisi voinut mainita tämän puhuessaan hetki sitten.
+<P>
+Kysymyksiin numero 51 ja 61 vastataan kirjallisesti. Kysymyksiä numero 62 ja 63 ei käsitellä, koska niiden aihetta käsitellään myöhemmin tässä täysistunnossa.
+<SPEAKER ID="374" NAME="Puhemies">
+
+<P>
+Aihe: Marokon kanssa tehty kalastussopimus
+<P>
+Onko komissio arvioinut mitenkään tuloksia, joita Euroopan unionin alukset ovat saavuttaneet kalastusvuosien aikana, jolloin ne ovat kalastaneet Marokon kanssa viimeksi tehdyn kalastussopimuksen nojalla?
+<SPEAKER ID="375" NAME="Joe Borg">
+komission jäsen. - (EN) Arvoisa puhemies, arvoisat parlamentin jäsenet, haluaisin kiittää arvoisaa parlamentin jäsentä Manuel Medina Ortegaa hänen kysymyksestään, sillä sen ansiosta minulla on tilaisuus esittää komission kanta Marokon kanssa tehtyä kalastussopimusta koskevasta merkittävästä aiheesta.
+<P>
+Komissio valvoo EY:n ja Marokon välistä kalastussopimusta. Sopimuksen ensimmäistä täytäntöönpanovuotta koskevat luvat eivät ole vielä valmiita, koska ensimmäinen vuosi päättyi vasta 28. helmikuuta 2008, ja kalastustoiminnan ja tietojen siirtämisen ja analysoinnin välillä on kuuden kuukauden viive. Tästä viiveestä huolimatta meillä jo olevista luvuista käy ilmi kalastusmahdollisuuksien myönteiset näkymät, sillä niistä näkyy, että kalastusmahdollisuuksien kokonaiskäyttöaste on noin 80 prosenttia.
+<SPEAKER ID="376" NAME="Manuel Medina Ortega" AFFILIATION="PSE">
+(ES) Kiitän komission jäsentä vastauksesta ja tunnustan että tietojen saaminen niin nopeasti on vaikeaa, mutta koska minä satun asumaan lähellä kalastusaluetta, kalastajat ovat kertoneet minulle, että kalastusalueella on joitakin rakenteellisia ongelmia, koska alueella on kohtuuttomasti verkkoja ja muita hylättyjä kalastusvälineitä, minkä takia kalastus on erittäin vaikeaa.
+<P>
+En tiedä, onko komission jäsen tietoinen rakenteellisista vaikeuksista, jotka ovat ilmenneet viimeisen sopimuksen tekemisen jälkeen Saharan kalastusalueella. EU:n kalastuslaivasto ei ollut silloin paikalla, mutta ilmeisesti tämä on johtanut kalastusedellytysten huononemiseen alueen suojelun puutteen takia.
+<SPEAKER ID="377" NAME="Joe Borg">
+komission jäsen. - (EN) Jos olen hieman täsmällisempi, pääluokkia koskevan ensimmäisen täytäntöönpanovuoden aikana on kalastettu yli 90 prosenttia pienimuotoiseen kalastukseen kuuluvista luokista ja tonnikalasta ja noin 80 prosenttia pelagisista lajeista.
+<P>
+Pohjakalojen käyttöaste on kuitenkin huomattavasti huonompi. Käyttö on tässä yhteydessä vain noin 23 prosenttia. Tämä johtuu pääasiassa tietyistä mainitsemistanne ongelmista, erityisesti Marokon vaatimista pakollisista saaliin purkamisista, jotka sisällytettiin kalastuskumppanuussopimukseen, ja ongelmasta, joka koskee marokkolaisten merimiesten palkkaamista yhteisön aluksiin.
+<P>
+Olin itse Marokossa noin kaksi viikkoa sitten, ja minulla oli tilaisuus keskustella Marokon ministerin kanssa näistä lastentaudeista, joiksi niitä voi kutsua, Marokon kanssa tehdyn kalastuskumppanuussopimuksen täytäntöönpanon osalta. Minun mielestäni ollaan yleisesti yhtä mieltä siitä, että meidän on käsiteltävä uudelleen kysymystä saaliin pakollisesta purkamisesta, koska kalastuskumppanuussopimuksissa tarkoituksena oli, että näitä purkamisia edellytetään jälleenvientiä varten. Yhteisön aluksilta vaadittaisiin Marokossa saadun saaliin purkamista, ja se jälleenvietäisiin käsittelyn jälkeen.
+<P>
+Tosiasiassa saaliin purkamista käytetään nyt paikallista kulutusta varten. Tämä tarkoittaa sitä, että koska saalis on saatu aluerajan ulkopuolella, katsotaan, että se on tuotu Marokkoon, jolloin siitä veloitetaan suuret tullimaksut.
+<P>
+Nostin tämän kysymyksen esiin, ja siitä ollaan nyt yhteisymmärryksessä. Toivonkin, että löydämme siihen hyvin pian ratkaisun. Olemme samalla tavalla ottaneet Marokon viranomaisten ja ministerin itsensä kanssa esiin kysymyksen marokkolaisten merimiesten palkkaamisesta. Luetteloa henkilöistä, jotka on sisällytetty sopimukseen ja joista Euroopan yhteisön alusten omistajat voivat valita, on laajennettu.
+<P>
+Yritämme laajentaa tätä luetteloa edelleen, jotta voimme siten yrittää vähentää mahdollisimman paljon hankaluuksia, jotka johtuvat siitä, että luettelo henkilöistä, joista alusten omistajat voivat valita kalastajia työskentelemään aluksillaan, on hyvin rajattu.
+<SPEAKER ID="378" NAME="Rosa Miguélez Ramos" AFFILIATION="PSE">
+(ES) Arvoisa puhemies, kalatalouden vaarallisessa maailmassa haluaisin tiedustella, mitä on tapahtunut pakastettua tonnikalaa kuljettaneelle Playa de Bakio -alukselle, joka kaapattiin sunnuntaina Somalian rannikolla, ja siinä työskennelleille 26 merimiehelle, joista kahdeksan on Galiciasta, viisi Baskimaasta ja 13 Afrikasta.
+<P>
+Arvoisa komission jäsen, haluaisin kysyä teiltä, mitä komissio tekee tämän asian suhteen, onko komissio ryhtynyt toimiin tai aikooko se ryhtyä toimiin, koska me olemme hyvin huolissamme siitä, mitä voi tapahtua niille ihmisille, jotka ovat edelleen tällä tonnikala-aluksella.
+<SPEAKER ID="379" NAME="Joe Borg">
+komission jäsen. - (EN) Rosa Miguélez Ramosin esille ottaman erityistapauksen osalta haluaisin sanoa, että komissio antoi tänään lausunnon, jonka mukaan olemme huolissamme kuultuamme, että espanjalainen kalastusalus kaapattiin kansainvälisillä vesillä Somalian rannikolla.
+<P>
+Komission suurin huolenaihe on aluksella olevien espanjalaisten kalastajien turvallisuus. On sanomattakin selvää, että komissio tuomitsee kaikki merirosvoukseen ja aseellisiin ryöstöihin liittyvät toimet. Somalian viranomaiset eivät voi asianmukaisesti taata Somalian rannikon vesien turvallisuutta. Tuloksena on vakava merirosvoutta koskeva ongelma
+<P>
+Lausunto päättyy komission näkemykseen siitä, että turvattomilla merialueilla liikkuvien EU:n kauppa- ja kalastusalusten suojelua koskeva koordinoitu lähestymistapa voisi perustellusti olla osa EU:n meripolitiikkaa, mutta että se liittyy myös EU:n turvallisuus- ja puolustuspolitiikkaan. Joka tapauksessa tämä on neuvoston päätettävä asia.
+<SPEAKER ID="380" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Pienkalastajat
+<P>
+Onko komissio tietoinen, että tämänvuotisten kalastuskiintiöiden vahvistamisen jälkeen Yhdistyneessä kuningaskunnassa on perustettu pienkalastajien yhdistys (Small Boat Fishermen's Association)? Onko komissio tietoinen, että uudet kiintiöt ovat eräillä Ison-Britannian alueilla johtaneet siihen, että jotkut pienet kalastuslaivastot voivat pyytää vain yhden turskan alusta kohti päivässä? Vaikka kiintiöiden jakamisesta suurille ja pienille aluksille päättääkin Yhdistyneen kuningaskunnan hallitus, tunnustaako komissio kestävyyspalkintojakin saaneiden pienten kalastuslaivastojen paikallisen ja perinteisen merkityksen? Katsooko komissio, että niitä olisi suojeltava paremmin, ja miten?
+<SPEAKER ID="381" NAME="Joe Borg">
+komission jäsen. - (EN) Haluaisin kiittää arvoisaa parlamentin jäsentä Sharon Bowlesia hänen kysymyksestään, jonka ansiosta saan tilaisuuden esittää komission kannan pieniä aluksia koskevasta tärkeästä asiasta.
+<P>
+Olen tietoinen siitä, että on luotu yhdistys, joka yhdistää Yhdistyneen kuningaskunnan kalastuslaivastoon kuuluvien alle kymmenmetristen alusten omistajat. Olen myös tietoinen siitä, että turskakiintiöiden vähäinen jakaminen on suurin syy yhdistyksen perustamiselle, koska Yhdistyneen kuningaskunnan turskakiintiö on laivaston tämän osan osalta vain noin kolme prosenttia kokonaiskiintiöstä huolimatta siitä, että sen suhteelliset mahdollisuudet saada saalista voivat olla huomattavasti isommat.
+<P>
+Kuten te aivan oikein huomautitte kysymyksessänne, jäsenvaltiot, tässä tapauksessa Yhdistynyt kuningaskunta, vastaavat kalastusmahdollisuuksien jakamisesta aluksilleen. Haluaisin vielä lisätä, että jäsenvaltiot vastaavat myös laivaston koon mukauttamisesta kalastusmahdollisuuksiin riippumatta siitä, koostuuko se pienistä vai suurista aluksista.
+<P>
+Haluaisin korostaa, että komissio todellakin on tietoinen pienten alusten erityisestä tilanteesta, täsmällisemmin niiden alle 12 metriä pitkien alusten tilanteesta, joilla ei käytetä hinattavia pyydyksiä. Laivaston tälle osalle Euroopan kalatalousrahasto tarjoaa erittäin edulliset taloudelliset puitteet, joiden avulla jäsenvaltiot voivat hyväksyä toimenpiteitä suojellakseen sitä.
+<P>
+Haluaisin kuitenkin huomauttaa, että niiden tietojen perusteella, joita minulla on Yhdistyneen kuningaskunnan alle 10-metrisistä aluksista, on merkkejä siitä, että tällä laivastosektorilla on viime aikoina kehitetty pyyntitehoja, jotka ylittävät huomattavasti sille perinteisesti osoitetut kalastusmahdollisuudet. Ongelman ratkaisu on Yhdistyneen kuningaskunnan viranomaisten käsissä.
+<SPEAKER ID="382" NAME="Sharon Bowles" AFFILIATION="ALDE">
+(EN) Arvelen, että moni asia voi olla niin kuin epäilinkin. Mutta ehkä te voitte ratkaista toisen mieltäni askarruttavan pienen ongelman. Minulle itse asiassa kerrotaan ajoittain, että virallisesti ei ole tunnustettu, että Englannin kanaalissa on kotoperäinen kanta.
+<P>
+Mikäli näin on, Englannin kaakkoisrannikon kalastajat ärsyyntyvät vielä enemmän, kun heille kerrotaan, että he eivät voi pyytää turskaa, jota teoriassa ei esiinny, vaikka tarjonta on itse asiassa sangen runsasta.
+<P>
+Voisitteko ratkaista tämän minun puolestani ja kertoa minulle, missä määrin kanaalin turska on otettu huomioon EU:n viimeisimmissä tilastoissa? Ymmärrän, että teillä ei saata olla kaikkea tätä valmiina, joten hyväksyn tarvittaessa kirjallisen vastauksen.
+<SPEAKER ID="383" NAME="Joe Borg">
+komission jäsen. - (EN) Minulla ei ole lukuja esitettävänä, mutta tutkin niitä ehdottomasti ja toimitan teille tiedot kirjallisesti.
+<P>
+Turskan osalta haluaisin korostaa, että käsittelemme parhaillaan uudelleen turskakannan elvytyssuunnitelmaa, joka kattaa sangen suuren osan Yhdistynyttä kuningaskuntaa ympäröivistä merialueista.
+<P>
+Esitin viime viikon maanantaina neuvostolle ehdotuksen uudesta turskakannan elvytyssuunnitelmasta, kun kävimme alustavan keskustelun suunnitelmasta, jonka on tarkoitus kattaa myös Irlanninmeri.
+<P>
+Laajennamme siis turskakannan elvytyssuunnitelman soveltamisalaa edelleen. Me yritämme kuitenkin hienosäätää sitä, jotta siinä otettaisiin paremmin huomioon eri vesialueiden erityispiirteet, joten jos yhteisön vesillä on tietty alue, joissa turskakannat ovat runsaampia, voidaan ryhtyä tiettyihin toimenpiteisiin. Muilla alueilla, joilla turskakannat ovat paljon huonommassa kunnossa, tarvitaan luonnollisesti tiukempia toimenpiteitä, jotta kannoilla olisi mahdollisuus elpyä.
+<P>
+Turskakannat ovat yleisesti hyvin huonossa kunnossa. Minun mielestäni niissä kuolleisuus on pahimmillaan, ja siksi tarvitaan hyvin ankaria toimenpiteitä, jotta nämä hyvin arvokkaat kannat saadaan elvytettyä.
+<SPEAKER ID="384" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Ohjelma, jonka tavoitteena on sulkea kolmasosa valkolihaista kalaa käsittelevistä laitoksista Irlannissa.
+<P>
+Irlannissa on käynnistetty ohjelma, jonka tavoitteena on sulkea kolmasosa valkolihaista kalaa käsittelevistä laitoksista. Ohjelman kustannukset ovat 60 miljoonaa euroa. Voiko Euroopan komissio antaa kattavan selvityksen ohjelman etenemisestä?
+<SPEAKER ID="385" NAME="Joe Borg">
+komission jäsen. - (EN) Arvoisa puhemies, haluaisin kiittää arvoisaa parlamentin jäsentä Seán Ó Neachtainia hänen esittämästään kysymyksestä, jonka ansiosta minulla on tilaisuus käsitellä kysymystä kalastusalusten käytöstä poistamisesta.
+<P>
+Irlannin viranomaiset ilmoittivat komissiolle 6. elokuuta 2007 päivätyllä kirjeellä kalastuksen mukauttamiseksi nimetyn tukisuunnitelman tilasta. Suunnitelma koskee Irlannin kalastuslaivaston monikäyttöisiksi tai puomitroolia käyttäviksi aluksiksi rekisteröityjen, pääasiassa valkolihaisen kalan pyytämiseen keskittyvien alusten käytöstä poistamista, vaikka pelagisia kaloja ja äyriäisiä pyytävät alukset ovat myös mukana. Suunnitelman yleinen kansallinen talousarvio on 66 miljoonaa euroa. Komissio hyväksyi suunnitelman valtiontukea koskevien sääntöjen nojalla 13. marraskuuta 2007. Irlannin suunnitelman mukaan tukea voidaan myöntää 1. lokakuuta 2009 asti. Hakemusten jättämisen määräaika on Irlannin viranomaisten mukaan kuitenkin 30. huhtikuuta 2008, minkä jälkeen suunnitelman soveltamisala on selvempi.
+<P>
+Komissio pitää myönteisenä Irlannin tekemää aloitetta kalastuslaivastonsa kapasiteetin vähentämiseksi, jotta nykyisiin kalakantoihin kohdistuvaa painetta voitaisiin vähentää. Kalastuskapasiteetin ja kalastusmahdollisuuksien yhteensopiminen on yhteisen kalastuspolitiikan keskeinen pilari. Irlannin suunnitelmassa annetaan lisäksi etusija valkolihaisten kalojen herkkien kantojen kalastukseen keskittyvien alusten käytöstä poistamiselle, ja niiden alusten omistajille, joihin pienemmät kiintiöt, suuremmat polttoainekustannukset ja niin edelleen ovat jo vaikuttaneet, annetaan mahdollisuus poistua alalta. Jäljellä olevien toimijoiden pitäisi voida saada suurempia tuloja.
+<SPEAKER ID="386" NAME="Seán Ó Neachtain" AFFILIATION="UEN">
+(GA) Arvoisa puhemies, haluaisin kiittää komission jäsentä hänen vastauksestaan. Olen myös samaa mieltä siitä, että aluksia piti ja pitää edelleen poistaa käytöstä riittämättömien kalakantojen vuoksi.
+<P>
+Haluaisin kuitenkin kysyä komission jäseneltä, onko komissiolla mitään suunnitelmia tai ehdotuksia, joilla kalatalousalalla työnsä menettäneille tarjotaan tilaisuus löytää uusi ura ja mahdollisesti pysyä samankaltaisessa työssä. Näillä koko elämänsä merellä viettäneillä ihmisillä on vain vähän toivoa toisen työn saamisesta.
+<SPEAKER ID="387" NAME="Joe Borg">
+komission jäsen. - (EN) Käytöstä poistettavien alusten miehistön jäsenistä haluaisin ensinnäkin sanoa, että Euroopan kalatalousrahasto osoittaa tukea käytöstä poistamiseen liittyvälle pysyvälle kalastuksesta luopumiselle. On kuitenkin kyseessä olevan jäsenvaltion tehtävänä päättää, sisällytetäänkö tämä menoerä sen Euroopan kalatalousrahastoa koskevaan toimintaohjelmaan. Ymmärrän Irlannin katsovan, että valtionavustuksia koskevalla kansallisella suunnitelmalla tarjotaan korvauksia miehistöille.
+<P>
+Euroopan kalatalousrahastosta tarjotaan käytöstä poistamiseen liittyvän pysyvän kalastuksesta luopumisen lisäksi mahdollisuus sosioekonomiseen korvaukseen, toiminnan monipuolistamiseen, uudelleenkoulutukseen ja varhaiseläkkeeseen. Euroopan kalatalousrahastosta on siis mahdollista saada tukea myös miehistön uudelleenkoulutukseen eri aloille, jotka tosin liittyvät kalastukseen, sekä tukea toiminnan monipuolistamiseen ja vaihtoehtoisen työn etsimiseen muilta sektoreilta. Haluaisin jälleen korostaa, että jäsenvaltion tehtävänä on laatia toimintaohjelma.
+<P>
+Komissio hyväksyy toimintaohjelman, mikäli se vastaa Euroopan kalatalousrahaston määräyksiä, mutta todellisista painopistealoista ja todellisista määritellyistä aloista kyseessä olevan jäsenvaltion on päätettävä itse. Komissiolla ei ole oikeutta vaatia jäsenvaltioita valitsemaan tietyn vaihtoehdon jonkin toisen sijasta. Meille riittää, että ne kuuluvat Euroopan kalatalousrahaston tavoitteisiin tai päämääriin.
+<SPEAKER ID="388" NAME="Puhemies">
+(PT) Kysymys numero 67 raukeaa laatijan poissaolon vuoksi.
+<SPEAKER ID="389" NAME="Puhemies">
+(PT)
+<P>
+Aihe: YKP 2005 -sääntöjä koskevat vakavat rikkomukset
+<P>
+Asetuksen (EY) N:o 1447/1999 mukaan jäsenvaltiot ovat velvollisia raportoimaan komissiolle vuosittain yhteisen kalastuspolitiikan (YKP) sääntöjen rikkomisista ja määrätyistä seuraamuksista. Euroopan komissio julkaisi äskettäin kuudennen kertomuksen ”havaituista käyttäytymistavoista, joilla rikottiin vakavasti yhteisen kalastuspolitiikan sääntöjä”.
+<P>
+Kertomuksen tiedoista voidaan tehdä päätelmä, jonka mukaan rikkomuksien määrä kasvaa vuosittain samalla, kun rikkomuksista määrätyt sakot vähenevät koko Euroopan unionin alueella. Tarkemmin sanottuna vuonna 2005 kirjattiin 8, 1 prosenttia enemmän rikkomuksia samalla, kun määrättyjen rangaistusten suuruus väheni 45 prosenttia verrattuna vuoteen 2004. Ratkaisematta on myös se, että jäsenvaltioiden välillä on äärimmäisen suuria eroja, jotka koskevat sitä, missä tapauksissa määrätään sakkoja ja kuinka suuria ne ovat.
+<P>
+Voiko komissio ilmoittaa, takaavatko seuraamusten määräämistä koskevat erilaiset kansalliset järjestelmät eurooppalaisten kalastajien tasavertaisen kilpailun? Pitääkö komissio tarkoituksenmukaisena yhdenmukaistetun järjestelmän luomista seuraamusten määräämiseksi tapauksissa, joissa YKP:n sääntöjä rikotaan vakavasti? Miten voitaisiin vahvistaa kalastajien luottamusta YKP:n sääntöjen tasavertaiseen soveltamiseen, jotta varmistettaisiin, että kalavarojen säilyttämistä koskevia sääntöjä noudatetaan?
+<SPEAKER ID="390" NAME="Joe Borg">
+komission jäsen. - (EN) Haluaisin kiittää arvoisaa parlamentin jäsentä Ioannis Gklavakisia hänen esittämästään tärkeästä kysymyksestä, jonka ansiosta minulla on tilaisuus ilmaista kantani tästä olennaisen tärkeästä asiasta ja myös käsitellä alalla valmisteilla olevaa uudistusta.
+<P>
+Olen tietoinen huomattavista eroista, joita on jäsenvaltioiden vakavista rikkomuksista määräämissä seuraamuksissa ja jotka johtavat jatkuviin puutteisiin nykyisessä valvontajärjestelmässä.
+<P>
+Kuten te aivan oikein huomautitte kysymyksessänne, jäsenvaltioiden määräämät rangaistukset eivät ole riittävän varoittavia eivätkä ne todella kannusta sääntöjen noudattamiseen. Esimerkiksi vuonna 2005 keskimääräinen sakko Euroopan unionissa oli alle 2 000 euroa vaihdellen joidenkin jäsenvaltioiden 98 eurosta toisten 8 876 euroon.
+<P>
+Haluaisin korostaa, että yhteisön lainsäädännön mukaan jäsenvaltioiden on varmistettava, että kaikkiin yhteisen kalastuspolitiikan vakaviin rikkomuksiin sovelletaan asianmukaisia seurantamenettelyjä ja tarvittaessa rangaistustoimenpiteitä. Jäsenvaltioiden pääasialliseen vastuualueeseen ja harkintavaltaan kuuluu seuraamusten määrääminen yhteisen kalastuspolitiikan vakavista rikkomuksista ja seuraamusten suuruuden määrittäminen. Komissio voi vain valvoa ja arvioida tätä prosessia.
+<P>
+Tämän sanottuani haluaisin kuitenkin ilmoittaa teille, että jäsenvaltioiden viime vuosina toimittamien vakavia rikkomuksia koskevien vuotuisten raporttien analyysin ja erityisesti tilintarkastustuomioistuimen kertomuksen nro 7/2007 perusteella komissio on päättänyt käynnistää yhteisen kalastuspolitiikan valvontajärjestelmän uudistuksen, jolla pyritään yhdenmukaistamaan seuraamuksia yhteisön tasolla ja määrittelemään selkeämmin vakavat rikkomukset yhdenmukaisuuden ja avoimuuden varmistamiseksi.
+<P>
+Luotan siihen, että tällä uudella, yksinkertaisemmalla ja tehokkaammalla valvontajärjestelmällä taataan tasapuoliset toimintaedellytykset yhteisön kalastajille vahvistamalla yhteisön kalastuspolitiikan sääntöjen noudattamista ja levittämällä sääntöjen noudattamisen kulttuuria.
+<SPEAKER ID="391" NAME="Ioannis Gklavakis" AFFILIATION="PPE-DE">
+(EL) Arvoisa puhemies, arvoisa komission jäsen, olen erityisen tyytyväinen vastaukseenne. Olen iloinen, että kaikkiin EU:n jäsenvaltioihin saadaan yhdenmukainen toimintatapa. Toivon vain, että tätä sovelletaan kaikkiin aloihin. Toivon, että jatkatte tämän periaatteen mukaisesti. Haluaisin korostaa vielä yhtä asiaa: mitä pienemmiksi meren kalakannat käyvät, sitä tiukempia meidän on oltava, tai tulevaisuutemme on hyvin synkkä.
+<SPEAKER ID="392" NAME="Joe Borg">
+komission jäsen. - (EN) Haluaisin kiittää Ioannis Gklavakisia hänen huomioistaan.
+<P>
+Haluaisin kehottaa parlamentin jäseniä tukemaan komissiota pyrkimyksessä yhdenmukaistaa seuraamusjärjestelmä.
+<P>
+Minulla oli vasta viime viikolla ensimmäinen keskustelu neuvoston kanssa asiaan liittyvästä alasta eli laittoman, ilmoittamattoman ja sääntelemättömän kalastuksen torjunnasta. Ehdotuksessa EU:n aloitteeksi yritämme yhdenmukaistaa säännöksiä, niin sanoakseni seuraamusjärjestelmää. Kaikki jäsenvaltiot ovat yksimielisiä siitä, että laitonta kalastusta on torjuttava tehokkaasti. kun oli aika keskustella ehdotuksen tekemisen yksityiskohdista, seuraamusten yhdenmukaistamisesta ja siitä, miten se auttaa valvomaan laittomasti käsiteltyjen kalatuotteiden tuontia. Minun mielestäni vallitsi miltei yksimielisyys ongelmien etsimisestä ehdotuksestamme.
+<P>
+Otan tämän tietysti esille jäsenvaltioiden kanssa tulevina kuukausina. Luulen, että kun alamme käsitellä kaikkia valvontasäännöksiä - jotka käsittävät myös EU:n aloitteen - siitä tulee huomattavasti kovempi yhteenotto. Toivon, että parlamentti antaa täyden tukensa mietinnössä, jonka se aikoo laatia uudesta valvontaehdotuksesta, jota minä toivottavasti esitän kollegion hyväksyttäväksi myöhemmin tänä vuonna.
+<SPEAKER ID="393" NAME="Puhemies">
+(PT) Kysymykseen numero 69 vastataan kirjallisesti.
+<P>
+Aihe: Sinikielitaudin leviäminen Pohjois-Euroopassa
+<P>
+Kahden belgialaisen yliopiston hiljattain tekemässä tutkimuksessa on osoitettu, että sinikielitauti saattaa muuttua endeemiseksi Pohjois-Euroopassa. Koska taudin leviäminen liittyy taudinlevittäjän siirtymiseen paikasta toiseen ja viruskantojen vahvistumiseen, onko nyt syytä aloittaa kiireelliset toimet taudin leviämisen ehkäisemiseksi?
+<P>
+Tautitartunnan saaneiden nauta- ja lammastilojen määrä on noussut 695:stä vuonna 2006 6857:ään vuonna 2007 yksinomaan Belgiassa. Voiko komissio ilmoittaa, mitä toimia se aikoo toteuttaa virusten torjuntaa koskevan tutkimuksen, rokotuskampanjojen ja niiden rahoittamisen suhteen?
+<SPEAKER ID="394" NAME="Androula Vassiliou">
+komission jäsen. - (EN) Kiitän arvoisaa parlamentin jäsentä kysymyksestä. Sanoisin, että komissio on hyvin tietoinen odottamattomasta tilanteesta, jonka sinikielitaudin leviäminen viime vuosina monissa jäsenvaltioissa on aiheuttanut, ja että se ponnistelee ankarasti torjuakseen tämän taudin.
+<P>
+Komission viime tammikuussa järjestämässä konferenssissa sinikielitaudin rokotteesta kävi selvästi ilmi, että rokote on pääasiallinen ja tehokkain eläinlääketieteellinen keino sinikielitaudin torjumiseksi. EU:n yhdenmukaisen toimintatavan luomiseksi komissio antoi ripeästi suuntaviivat ja määräsi kriteerit rokotusohjelmille, mutta jätti samalla jäsenvaltioille riittävästi liikkumavaraa rokotusstrategian mukauttamiseksi niiden omaan erityiseen tilanteeseen.
+<P>
+Sitten komissio arvioi jäsenvaltioiden toimittamat suunnitelmat, hyväksyi ne ja varmisti ensimmäisen rahoituksen, joka on enintään 64 miljoonaa euroa koko toimenpiteelle varatusta 130 miljoonasta eurosta. Kaikki nämä toimenpiteet osoittavat, miten tärkeänä pitää komissio pitää rokotetta.
+<P>
+Yhteisö myös tukee monia sinikielitaudin tutkimusta koskevia ohjelmia. Viidennessä ja kuudennessa puiteohjelmassa omistettiin kaksi erityishanketta sinikieliviruksen turvallisen ja tehokkaan rokotusstrategian kehittämiselle. EU:n osuus oli toisessa hankkeessa 1,7 miljoonaa euroa ja toisessa 804 000 euroa. Tämä toiminta jatkuu seitsemännessä puiteohjelmassa. Tällä hetkellä tiedemiehet eivät kuitenkaan katso, että viruslääkehoitojen kehittäminen vähentäisi tehokkaasti tämän taudin aiheuttamia tappiota.
+<SPEAKER ID="395" NAME="Giovanna Corda" AFFILIATION="PSE">
+(FR) Arvoisa komission jäsen, ensinnäkin tiedän, että minä olen ensimmäinen henkilö, joka esittää teille tänään suullisen kysymyksen. Toivon, että te olette yhtä iloinen kuin minä tässä salissa olosta tänään. Halusin vain tehdä pienen sivuhuomautuksen.
+<P>
+Te olette jo antaneet meille paljon tietoa, vaikka äskettäin Benelux-maissa ja Saksassa kerättyjen tietojen mukaan kuumeen tartuttamien lehmien määrä on vuodessa 25-kertaistunut, mikä on huomattavaa.
+<P>
+Haluaisin ottaa esiin Belgian tapauksen, sillä työskentelen siellä. Lähes 7 000 lehmää on saanut tartunnan. Tällä on siis huomattava taloudellinen vaikutus viljelijöihin.
+<SPEAKER ID="396" NAME="Androula Vassiliou">
+komission jäsen. - (EN) Taudin uskotaan leviävän koko Eurooppaan vuonna 2008. Siksi komissio toteuttaa hyvin ankaria toimenpiteitä taudin hillitsemiseksi ja, kuten sanoin, paras keino torjua sitä on rokotus. Olemme käyttäneet ja käytämme edelleen sangen paljon rahaa jäsenvaltioiden tukemiseksi rokotteiden ja rokotusten osalta.
+<SPEAKER ID="397" NAME="James Nicholson" AFFILIATION="PPE-DE">
+(EN) Arvoisa puhemies, haluaisin sanoa komissiolle seuraavaa: sinikielitauti on levinnyt nopeasti koko Euroopan unioniin, ja te olette sanonut, että rokotus on paras keino, mutta katsooko komissio edes tässä vaiheessa, että alueella, johon tauti ei ole vielä tähän mennessä levinnyt, voitaisiin kieltää eläinten tuonti sinne sellaisissa tapauksissa, joissa voidaan todistaa, että lehmillä on todistettavasti tämä tauti? Tämä olisi epäilemättä järkevää, jotta ihmiset eivät edes epähuomiossa toisi eläimiä alueelta, jossa on tartunta, alueelle, jossa tartuntaa ei ole, koska tauti leviää nopeasti. Te sanotte, että leviäminen on väistämätöntä, mutta minusta meidän olisi toimittava näin.
+<SPEAKER ID="398" NAME="Androula Vassiliou">
+komission jäsen. - (EN) Kuten tiedätte, olemme ryhtyneet toimenpiteisiin. Meillä on esimerkkejä Italiasta ja Ranskasta - ja Portugalista - joissa on ryhdytty yksipuolisin toimenpiteisiin tartunnan saaneiden eläinten tuonnin estämiseksi. Toteutettujen täydentävien toimenpiteiden tuloksena molemmat maat peruvat nyt aiemmin toteuttamiaan yksipuolisia toimenpiteitä. Seuraamme tilannetta tiiviisti ja ryhdymme jatkotoimenpiteisiin, jos katsomme sen tarpeelliseksi.
+<SPEAKER ID="399" NAME="Puhemies">
+(PT) Koska seuraavat kysymykset koskevat samaa aihetta, niitä käsitellään yhdessä:
+<P>
+Aihe: Brasilialainen naudanliha
+<P>
+Mitkä ovat nykyiset vaatimukset, joiden mukaan brasilialaisen naudanlihan tuonti EU:hun on sallittu?
+<P>
+Aihe: Brasilialainen naudanliha
+<P>
+Voisiko Euroopan komissio määritellä yksityiskohtaisesti nykyisen kantansa niihin huomattaviin rajoituksiin, joita on asetettu Brasilian naudanlihan tuonnille Euroopan unioniin?
+<SPEAKER ID="400" NAME="Androula Vassiliou">
+komission jäsen. - (EN) Kuten tiedätte, EU:lla on ollut useiden vuosien ajan käytössä hyvin tehokas Brasiliasta peräisin olevan naudanlihan tuontia koskeva politiikka.
+<P>
+Brasiliasta voidaan tuoda EU:hun naudanlihaa ainoastaan alueilta, joiden katsotaan olevan vapaita suu- ja sorkkataudista. Tällä hetkellä kyseiset alueet sijaitsevat kuudessa seuraavassa Brasilian osavaltiossa: Espírito Santo, Goiás, Mato Grosso, Minas Gerais, Rio Grande do Sul ja Santa Catarina.
+<P>
+Niiden nautaeläinten, joiden liha on tarkoitettu EU:n markkinoille, on täytynyt olla luvan saaneella alueella vähintään 90 päivän ajan. Lisäksi eläinten on ennen maatilalla tapahtuvaa teurastamista pitänyt olla alueella vähintään 40 päivän ajan.
+<P>
+Teurastamossa nautaeläimet eivät saa päästä kosketuksiin sellaisten muiden eläinten kanssa, jotka eivät vastaa edellä mainittuja ehtoja, niille on tehtävä ante mortem -tarkastus ja niissä ei saa olla taudin kliinisiä oireita 24 tuntia ennen teurastusta.
+<P>
+EU:hun voidaan tuoda vain tuoretta naudanlihaa, ja lihasta itsestään on pitänyt poistaa luut, ja se on pitänyt kypsentää, jotta voidaan varmistaa suu- ja sorkkatautiviruksen inaktivointi, mikäli sitä vielä esiintyisi kaikista edellä mainituista toimenpiteistä huolimatta.
+<P>
+Komission marraskuussa 2007 tekemässä tarkastuksessa kävi kuitenkin ilmi vakavia esimerkkejä siitä, että maatilojen rekisteröintiä, eläinten tunnistusta ja liikkumisen valvontaa koskevia sääntöjä ei noudatettu. Kävi myös ilmi, että Brasilia löi laimin asianmukaisten korjaustoimenpiteiden toteuttamista koskevien aiempien sitoumusten noudattamisen.
+<P>
+Komissio hyväksyi siksi tämän vuoden tammikuussa toimenpiteitä, joilla rajoitettiin brasilialaisen naudanlihan tuontia maatiloille, joiden piti täyttää monia täydentäviä vaatimuksia. Kyseisiin täydentäviin vaatimuksiin kuuluu kaikkien eläinten tunnistaminen ja rekisteröinti Brasilian nautaeläimiä koskevaan kansalliseen järjestelmään. Brasilian eläinlääkintäpalvelujen on lisäksi valvottava tehokkaasti maatiloja ja Brasilian viranomaisten on tarkastettava ne säännöllisesti.
+<SPEAKER ID="401" NAME="Marian Harkin" AFFILIATION="ALDE">
+(EN) Minä toivotan myös komission jäsenen tervetulleeksi.
+<P>
+Ehkä kysymykseni on hieman epäoikeudenmukainen, koska siinä on historiallinen näkökulma. Mutta sain edeltäjältänne, komission jäseneltä Kyprianoulta, noin kuusi kuukautta sitten vastauksen elintarvikkeita ja eläinlääkintää koskevan raportin osalta. Hänen vastauksensa oli, että raportin alustavilla päätelmillä ei voida perustella välitöntä muutosta EU:n Brasiliaa koskevassa politiikassa. Valehtelematta vain kaksi tai kolme kuukautta ennen kiellon määräämistä elintarvike- ja eläinlääkintäviranomaiset väittivät maatalouden ja maaseudun kehittämisen valiokunnassa ja muualla, että ongelmat eivät itse asiassa olleet merkittäviä. Kuitenkin vain kaksi tai kolme kuukautta sen jälkeen määrättiin kielto, ja nyt tuontia on vain yhdeltä prosentilta tilojen alkuperäisestä määrästä.
+<P>
+Kysymykseni on seuraava: tarvittiinko Irlannin maanviljelijöiden yhdistyksen raporttia, jotta elintarvike- ja eläinlääkintäviranomaiset tutkivat tilannetta tarkemmin, ja tarvittiinko sitä, jotta komissio ryhtyi toimenpiteisiin?
+<SPEAKER ID="402" NAME="Brian Crowley" AFFILIATION="UEN">
+(EN) Haluaisin kiittää komission jäsentä vastauksesta ja toivottaa hänet tervetulleeksi hänen ensimmäiselle kyselytunnilleen Euroopan parlamentissa. Olette varmasti hyvin kiinnostunut ja iloinen saamastanne vastaanotosta.
+<P>
+Lisäkysymykseni koskee sitä, että parlamentin kuulemisessa ympäristön, kansanterveyden ja elintarvikkeiden turvallisuuden valiokunnassa te totesitte, että elintarvikkeiden turvallisuus on yksi tärkeimmistä huolenaiheistamme mutta että meidän on myös oltava oikeudenmukaisia kauppakumppaneidemme suhteen.
+<P>
+Minä uskon kuitenkin, että meidän olisi oltava oikeudenmukaisia eurooppalaisiin viljelijöihin ja elintarvikkeiden tuottajiin sovellettavien säännösten lisäksi myös niiden säännösten osalta, joita sovelletaan Euroopan unioniin elintarvikkeita tuoviin ja että niihin olisi sovellettava samoja säännöksiä. Miten me aiomme erityisesti brasilialaisen naudanlihan osalta varmistaa, että elintarvikehuolto on varmaa ja turvallista ja että siinä täytetään samat normit, jotka eurooppalaisten tuottajien on täytettävä?
+<SPEAKER ID="403" NAME="Androula Vassiliou">
+komission jäsen. - (EN) EU:n terveysvaatimuksia koskevat puutteet määriteltiin komission Brasiliaan tekemien valtuuskuntamatkojen aikana. Brasilian viranomaiset ovat käsitelleet itse joitakin näistä puutteista.
+<P>
+Marraskuun 2007 valtuuskuntamatkan aikana huomattiin kuitenkin tapauksia sääntöjen noudattamatta jättämisestä, erityisesti maatilojen rekisteröinnissä, eläinten tunnistamisessa ja liikkumisen valvonnassa sekä asianmukaisten korjaustoimenpiteiden toteuttamista koskevien aiempien sitoumusten laiminlyöntejä.
+<P>
+Kuten sanoin, siksi annettiin täydentäviä vaatimuksia, ja tällä hetkellä varmistamme, että Brasilia todella pitää kiinni sitoumuksestaan. Komission asiantuntijat antavat tällä hetkellä käytännön koulutusta tarkastajille ja varmistavat samalla, että koulutetut tarkastajat kouluttavat ihmisiä maatiloilla, joten kaikilla brasilialaista naudanlihaa tuovilla jäsenvaltioilla on takuu siitä, että vaatimuksiemme ja säännöksiemme noudattamista valvovat hyvin koulutetut ihmiset.
+<SPEAKER ID="404" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+(EN) Arvoisa komission jäsen, tervetuloa. Viimeinen lausuntonne huolestuttaa minua hieman, koska irlantilaisilla viljelijöillä, eurooppalaisilla viljelijöillä, on komission tarkastajien vierailuista sellainen kokemus, että se ei ole niinkään suurta tukea vaan tarkastamista ja valvomista. Sain sen vaikutelman, että viranomaisemme komission tasolla eivät puutu asioihin vaan tukevat brasilialaisia normien täyttämisessä. Toivoisin, että omien tuottajiemme kohdalla toimittaisiin samoin.
+<P>
+Toinen kysymykseni on seuraava: mitä Brasilia tekee parantaakseen suoritustaan, ja voitteko te ennakoida, palaako brasilialainen naudanliha Eurooppaan aiemmin lähetetyn naudanlihan tasolle, kuten uskon brasilialaisten toivovan, ja milloin tämä tapahtuisi? Tiedän, että olette uusi tässä työssä, mutta uskotteko, että heidän norminsa, jos he ikinä saavuttavat niitä, vastaavat omiamme, ottaen huomioon, että niissä vaaditaan vain 90 päivää ja 40 päivää? Me merkitsemme eläimet syntymästä teurastukseen asti.
+<SPEAKER ID="405" NAME="Elspeth Attwooll" AFFILIATION="ALDE">
+(EN) Arvoisa komission jäsen, tervetuloa minunkin puolestani. Ottaen huomioon sen, mitä sanoitte viimeisimmästä elintarvike- ja eläinlääkintäviraston raportista ja ilmoittamattomiin sairauden puhkeamisiin liittyvistä ongelmista, jäljitettävyydessä ja tunnistamisessa määritellyistä huomattavista puutteista - itse asiassa järjestelmällisistä puutteista - ja siitä, että Brasilian viranomaiset eivät voineet tarjota takuita huolimatta toteuttamistanne uusista toimenpiteistä, näyttää epäilemättä hyvin epätodennäköiseltä, että Brasilian suu- ja sorkkataudin alueellistamispolitiikka toimisi ja että sitä ikinä edes saataisiin toimimaan. Onko tämä epätodennäköistä, arvoisa komission jäsen?
+<SPEAKER ID="406" NAME="Androula Vassiliou">
+komission jäsen. - (EN) Haluaisin ennen kaikkea vakuuttaa teille, että säätämämme vaatimukset vastaavat vietyjä tuotteita ja että komission virkamiehet saattavat nyt olla kouluttamassa ihmisiä heidän omasta pyynnöstään valvonnan ja säännösten täytäntöönpanossa, mutta olen varma, että he eivät kieltäytyisi avustamasta omia kansalaisiamme. Yritämme olla oikeudenmukaisia, ja olen varma, että tärkein vaatimus on tuotteidemme turvallisuus. Alueellistamista sovelletaan samalla tavoin Brasiliassa ja EU:ssa.
+<SPEAKER ID="407" NAME="Puhemies">
+(PT)
+<P>
+Aihe: Terveysalan ehdotus
+<P>
+Voisiko komissio selittää, miksi rajatylittävää terveydenhuoltoa koskevan ehdotusluonnoksen julkaiseminen on viivästynyt, vaikka yhteisöjen tuomioistuimen asiasta antamien tuomioiden jälkeen säädöksen antamiseen on poliittinen velvoite ja asiasta annettiin lupaus, kun terveydenhuolto jätettiin palveludirektiivin ulkopuolelle (2006/123/EY)?
+<SPEAKER ID="408" NAME="Androula Vassiliou">
+komission jäsen. - (EN) Arvoisat parlamentin jäsenet, komissiolla on vankka aikomus vastata parlamentin ja neuvoston päätökseen terveydenhuollon jättämisestä palveludirektiivin ulkopuolelle vuonna 2006 ja käsitellä sitä erikseen.
+<P>
+Komissio aikoo tehdä ehdotuksen, jossa kodifioidaan Euroopan yhteisöjen tuomioistuimen tällä alalla antamat tuomiot ja selvennetään siten potilaiden oikeuksia rajatylittävässä terveydenhuollossa ja esitetään suojalauseketoimenpiteitä korkealaatuisen rajatylittävän terveydenhuollon saatavuuden varmistamiseksi.
+<P>
+Muutaman viime kuukauden aikana tämän asian eri puolista esitettyjen tiettyjen huolenaiheiden johdosta sitä käsitellään ja siitä neuvotellaan enemmän. Ehdotusluonnos direktiiviksi potilaiden oikeuksien soveltamisesta rajatylittävässä terveydenhuollossa on nyt kuitenkin käsiteltävänä, jotta kollegio voisi hyväksyä sen ennen kesäkuun 2008 loppua.
+<P>
+Tavoitteenamme on tehdä ehdotus, jonka perimmäinen päämäärä on kansalaisten tukeminen Euroopan yhteisöjen tuomioistuimen tuomioilla heille annettujen oikeuksien käyttämisessä eikä uusien ongelmien luominen. Tässä ehdotuksessa keskitytään potilaiden oikeuksiin ja terveydenhuollon parempaan saatavuuteen. Se on osa komission jäsenen Špidlan kanssa yhteistyössä käynnistettävää sosiaalipakettia, jolla edistetään saatavuutta, mahdollisuuksia ja yhteisvastuuta kaikkien EU:n kansalaisten osalta.
+<P>
+Potilaat ovat tämän aloitteen keskipisteessä, ja se on yhdenmukainen komission kaikenkattavan kansalaisiin keskittyvän lähestymistavan kanssa.
+<P>
+Ehdotuksessa ei luoda uusia taloudellisia etuuksia potilaille. Tuomioistuimen vakiinnuttamat potilaiden oikeudet liittyvät jäsenvaltioiden jo määrittämiin taloudellisiin etuuksiin. Tällä ehdotuksella yksinkertaisesti luodaan potilaille puitteet, jotta näiden oikeuksien käyttäminen olisi oikeudellisesti varmempaa, avoimempaa ja ennustettavampaa.
+<P>
+Ehdotuksella luodaan lopuksi oikeudellinen ja hallinnollinen perusta jäsenvaltioiden väliselle paremmalle ja uudistetulle yhteistyölle joillakin tulevaisuuteen suuntautuneilla terveyteen liittyvillä aloilla, joilla EU:n tuoman lisäarvon ja yhteisvaikutuksen odotetaan olevan ratkaisevia.
+<SPEAKER ID="409" NAME="Avril Doyle" AFFILIATION="PPE-DE">
+(EN) Minäkin haluan toivottaa komission jäsenen Vassilioun tervetulleeksi tänne hänen ensimmäiselle kyselytunnilleen. On miellyttävää, että hän on täällä kanssamme. Kiitos vastauksestanne.
+<P>
+Terveydenhuolto jätettiin palveludirektiivin ulkopuolelle alun perin erittäin hyvistä syistä, koska halusimme terveyspalveludirektiivin. Olemme jo odottaneet aivan liian kauan. En ole täysin varma siitä, minkälaisen viestin komissio haluaa antaa meille pyörittelemällä asiaa eri työpöydillä. Onko kyse liiallisesta yksityistämisestä? Onko kyse siitä, että saatamme ajaa terveydenhuollon alas jäsenvaltioissa? Tämän alan valmiuksissa on jo suuria ristiriitaisuuksia ja normeissa on eroja. Yhtenäismarkkinoiden nojalla potilaat voivat Euroopan yhteisöjen tuomioistuimen päätöksen mukaisesti matkustaa saamaan hoitoa, jos he eivät saa kohtuuhintaista hoitoa omassa jäsenvaltiossaan. Mikä on tarkalleen ottaen aiheuttanut viivästyksen tähän asti, arvoisa komission jäsen?
+<SPEAKER ID="410" NAME="Mairead McGuinness" AFFILIATION="PPE-DE">
+(EN) Te ette ehkä voi vastata tähän välittömästi, mutta ehkä voitte tehdä sen myöhemmin.
+<P>
+Minulla on Lissabonin sopimuksesta muutamia huomautuksia, jotka koskevat Irlannin ei-kampanjassa esitettyjä väitteitä siitä, että sopimuksella edistetään terveydenhuollon yksityistämistä ja palvelujen kauppaa. Olisin kiitollinen, jos voisitte myöhemmin vastata minulle ja selventää tätä seikkaa.
+<SPEAKER ID="411" NAME="Androula Vassiliou">
+komission jäsen. - (EN) Tällä hetkellä voin sanoa vain, että haluan korostaa täydellistä päättäväisyyttämme edistyä asiassa. Ei puhuta menneistä. Päätös on olemassa, ja vakuutan teille, että kesäkuussa meillä on ehdotus kollegion käsiteltävänä. Uskokaa pois, kesäkuussa etenemme.
+<P>
+Yksityistämisestä ollaan hyvin huolestuneita, mutta minun vastaukseni on, että tämä huoli on perusteeton. Ehdotuksessa keskitytään potilaiden tarpeisiin. Siinä varmistetaan, että jos potilaiden on matkustettava saamaan hoitoa, se on turvallista ja laadukasta. Siinä myös tehdään selväksi se, milloin kansalaiset voivat saada rajatylittävästä terveydenhoidosta korvauksia kansallisesta terveydenhuoltojärjestelmästään tai terveyspalvelujen tarjoajaltaan ja milloin eivät. Nämä korvausehdot eivät ole uusia, ne ovat kodifiointi Euroopan yhteisöjen tuomioistuimen tuomioista.
+<P>
+Ehdotuksella ei luoda sellaisia uusia mahdollisuuksia saada terveydenhuoltoa ulkomailla, joita ei olisi jo vakiinnutettu tuomioistuimen tuomioilla. Ehdotuksella pyritään varmistamaan, että rajatylittävää terveydenhoitoa annetaan selkeissä puitteissa turvallisen, korkealaatuisen ja tehokkaan terveydenhuollon tarjoamiseksi koko unionissa. Tavoitteena on selkeiden puitteiden tarjoaminen.
+<SPEAKER ID="412" NAME="Puhemies">
+(PT) Kysymyksiin, joihin ei ajanpuutteen vuoksi voitu vastata, vastataan kirjallisesti (ks. liite).
+<SPEAKER ID="413" NAME="Puhemies">
+(PT) Kyselytunti on päättynyt.
+<P>
+(Istunto keskeytettiin klo 20.00 ja sitä jatkettiin klo 21.00.)

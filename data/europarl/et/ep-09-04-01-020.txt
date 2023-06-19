@@ -1,0 +1,84 @@
+<CHAPTER ID="020">
+Farmakoloogiliste toimeainete jääkide piirnormide kehtestamine loomsetes toiduainetes (arutelu)
+<SPEAKER ID="253" NAME="Juhataja">
+Järgmine päevakorrapunkt on keskkonna-, rahvatervise- ja toiduohutuse komisjoni esitatud soovitus teisele lugemisele nõukogu ühise seisukoha kohta eesmärgiga võtta vastu Euroopa Parlamendi ja nõukogu määrus, milles sätestatakse ühenduse menetlused farmakoloogiliste toimeainete jääkide piirnormide kehtestamiseks loomsetes toiduainetes ning millega tunnistatakse kehtetuks nõukogu määrus (EMÜ) nr 2377/90 ning muudetakse Euroopa Parlamendi ja nõukogu direktiivi 2001/82/EÜ ja Euroopa Parlamendi ja nõukogu määrust (EÜ) nr 726/2004 (15079/2/2008 - C6-0005/0009 - (raportöör Avril Doyle).
+<SPEAKER ID="254" NAME="Avril Doyle">
+raportöör. - Härra juhataja, lubage mul alustuseks tänada kõiki variraportööre ja ka eesistujariiki Prantsusmaad, kes aitas varakult teiseks lugemiseks kokkuleppe saavutada.
+<P>
+Tegemist on üsna tehnilise ettepanekuga, sest sellega soovitakse ajakohastada kehtivat ELi korda ja selle põhieesmärk on kaitsta rahvatervist, piirates loomsete toiduainete tarbijate kokkupuudet veterinaarravimites või biotsiidides leiduvate farmakoloogiliste toimeainete jääkidega. See saavutatakse kinnitatud ainete ohutusnormide või jääkide piirnormide kindlaksmääramisega ja selliste ainete keelustamisega, mida peetakse ohtlikuks või mille täielikku ohutust ei suudeta teaduslikult tõestada.
+<P>
+Jääkide piirnormid üksi tarbijaid ei kaitse. Tarbijaid kaitseb otseselt see, et kehtestatakse piisav tapaeelne keeluaeg ja tehakse selle jälgimiseks kontrolle. Tegelikkuses rakendatakse keeluaja kehtestamisel rangeid ohutusnõudeid, milles kajastub tootearenduse vastavas etapis olemasolevate andmete hulk.
+<P>
+Me saavutasime kokkuleppe põhipunktides. Esimene neist on ühele liigile kehtestatud jääkide piirnormide ekstrapoleerimine teisele liigile, teine on rahvusvaheliselt Codex Alimentariuse raames kehtestatud jääkide piirnormide vastuvõtmine ELi piires ja kolmas on kolmandatest riikidest sissetoodud toiduainetele jääkide piirnormide kehtestamise raamistiku loomine.
+<P>
+Meil õnnestus muuta selgemaks meetmed, mida on vaja võtta siis, kui ELis toodetud või kolmandatest riikidest sissetoodud toiduainetest leitakse lubamatuid aineid, ning selgitada, mille alusel vaadatakse läbi nende meetmete võtmise kontrollväärtusi - s.o kontrollimise eesmärgil kehtestatud maksimaalset taset igasuguse lubamatu aine puhul uute andmete ilmnemisel.
+<P>
+Lepiti kokku ka teatud biotsiidide, näiteks loomi ümbritsevas keskkonnas kasutatavate desinfektsioonivahendite jääkide piirnormide kehtestamises, eriti seoses neid käsitlevate lubade andmise ja dokumentide esitamisega seotud rahastamisküsimustega.
+<P>
+Farmakoloogilise toimeaine jääkide piirnormi kindlaksmääramine eeldab ulatuslikke andmeid toksikoloogilisuse ja omastatavuse uuringute kohta. See on teatavate harvem toiduks kasutatavate ehk nn vähemtähtsate liikide puhul liiga kallis, sest nende veterinaarravimite turg on väike - kuulub nn vähemtähtsa kasutusviisi alla. Jääkide piirnormi kindlaksmääramine on esimene asi, mis tuleb lõpule viia, enne kui reguleerivale asutusele esitatakse farmakoloogilist toimeainet sisaldava toiduloomaliikide veterinaarravimi loa taotlus.
+<P>
+Seega vajab see vähemtähtsa liigi/kasutusviisi küsimus kiiresti lahendust, sest see toob kaasa võimalikke loomade heaolu ja toiduohutust puudutavaid küsimusi. Veterinaararstidel on kohustus haigete loomade eest hoolitseda ja nad püüavad neid alati ravida. Praeguste õigusaktide kohaselt on nad sageli sunnitud kasutama lubamatuid ravimeid.
+<P>
+Jääkide piirnormi puudumise tõttu ei saa ka ametiasutused ravimitele sobivat keeluaega kehtestada. Kehtiva jääkide piirnorme käsitleva määruse kohaselt ei pea üksikute liikide jaoks jääkide piirnormi kehtestama. Üksikute liikide puhul määrab esialgse ettevaatliku lähenemisviisi alusel jääkide piirnormi kindlaks Euroopa Ravimiameti veterinaarravimite komitee. Pärast viit aastat kogemusi, 1997. aastal vaatas veterinaarravimite komitee kõik kehtestatud jääkide piirnormid läbi ja tegi järelduse, et üksikutele liikidele ei ole vaja jääkide piirnormi kehtestada, sest need on konkreetse aine puhul peaaegu alati kas sarnased või täpselt samasugused. Samal aastal andis veterinaarravimite komitee välja suunised vähemtähtsatele liikidele jääkide piirnormide kehtestamise kohta. Selles määratleti vähemtähtsate toiduloomaliikidena kõik liigid, välja arvatud veised, sead ja kodulinnud, samuti lõhelised.
+<P>
+See võimaldas samasse perekonda kuuluvate põhiliikide piirnorme ekstrapoleerida vähemtähtsatele liikidele - mäletsejalt mäletsejale, kalalt kalale ja kanalt teistele kodulindudele. Pärast kaheksat aastat kogemusi, 2008. aastal andis veterinaarravimite komitee välja uued suunised. Nende pealkiri on "Loomsetes toiduainetes sisalduvate veterinaarravimijääkide riskianalüüs”. Selles on kirjeldatud riskipõhist lähenemisviisi aine jääkide piirnormi ekstrapolatsioonile ühelt või mitmelt liigilt muudele liikidele. Need suunised võimaldavad jääkide piirnorme ekstrapoleerida kolme põhiliigi andmete alusel kõikidele liikidele, kui kolmele põhiliigile kehtestatud jääkide piirnormid on sarnased või täpselt samasugused.
+<P>
+Meie ees olev läbivaatamist käsitlev dokument annab meile õigusliku aluse veterinaarravimite kättesaadavuse ja loomade heaolu huvides tehtud ekstrapolatsiooni praeguste kasutusviiside jaoks.
+<P>
+Kaks muudatusettepanekut käsitlevad konkreetselt hobuslaste raviks ja heaoluks vajalike spetsiifiliste ravimite kättesaamatust (siinjuures pean tunnistama isiklikku huvi) ning hõlmavad ka kliinilise kasu mõistet, mitte üksnes nõuet, et ravim on vaja lisada hobuslastele lubatud ainete loetellu, millele viidatakse veterinaarravimite direktiivis. Täpselt kindlaks määratud tingimustes ei pea teatavate hobuslastele mõeldud toodete puhul olema jääkide piirnorme kehtestatud, vaid tuleb järgida kuue kuu pikkust keeluaega.
+<P>
+Ehk on siin tegemist avaldusega - ma paluksin juhataja kaudu, et volinik paneks selle kirja: ma tuletan meelde, et mõni kuu tagasi toimus arutelu selle küsimuse üle seoses veterinaarravimite direktiivi läbivaatamisega.
+<SPEAKER ID="255" NAME="Günter Verheugen" LANGUAGE="DE">
+Härra juhataja, austatud parlamendiliikmed, loomsetes toiduainetes sisalduvate farmakoloogiliste toimeainete jääkide piirnorme käsitlevate õigusaktide läbivaatamine on Euroopa Komisjoni jaoks oluline algatus. Sellega soovitakse kaitsta tarbijaid toiduainetes leiduvate ravimijääkide eest ja soodustada samal ajal veterinaarravimite kättesaadavust ühenduses. See on ka komisjoni õigusaktide lihtsustamise programmi oluline osa.
+<P>
+Möödunud aasta 21. oktoobril saavutasid nõukogu ja Euroopa Parlament kokkuleppe, mis kajastub kõnealuses ühises seisukohas. Seega ei ole meil praegu mitte ainult nõukogu ja parlamendi, vaid ka komisjoni ühine seisukoht. Mul on hea meel, et komisjon sai kaasata nii Euroopa Parlamendi kui ka nõukogu muudatusettepanekud, sest nendega säilitati komisjoni esialgse ettepaneku mõte ja sisu.
+<P>
+Seepärast väljendas komisjon oma käesoleva aasta 8. jaanuari teatises Euroopa Parlamendile täielikku toetust ühisele seisukohale. Ühise seisukoha vastuvõtmine võimaldab sellele teemale nüüd enne käesoleva parlamendikoosseisu ametiaja lõppu edukalt punkti panna.
+<P>
+Lõpuleviimine kõnealuse ühise seisukoha alusel võimaldab neil, kes tegelevad igapäevaselt toiduainete kontrolli ja veterinaarravimitega, teha seda ühenduse loomade tervise ja tarbijate kaitse huvides paremini. Need inimesed on oodanud jääkide piirnorme käsitlevate õigusaktide läbivaatamist pikka aega ja kannatamatult ning ma arvan, et nüüdseks on nad oodanud tõesti piisavalt kaua ja võivad tunda heameelt selle üle, et lahendus on leitud.
+<P>
+Ma olen täiesti teadlik veterinaarravimite kättesaadavuse tähtsusest. Seepärast esitab komisjon 2010. aastal hoolimata edust, mida kehtiv määrus farmakoloogiliste toimeainete jääkide piirnormide kohta selles valdkonnas juba praegu toob, hinnangu veterinaarravimite direktiivi rakendamisel esinenud probleemide kohta ja esitab vajaduse korral sellel teemal ka uusi õigusaktide ettepanekuid.
+<P>
+Ma kasutan võimalust ja avaldan tänu eeskätt raportöör Avril Doyle'ile, kelle tõepoolest väsimatud jõupingutused võimaldasid meil sel tähtsal teemal kokkuleppe saavutada. Veel kord siiras tänu teile suurepärase töö eest, proua Doyle.
+<P>
+komisjoni asepresident. - Komisjoni deklaratsioon
+<P>
+Doyle'i raport
+<P>
+Komisjon on teadlik kodanike, veterinaararstide, liikmesriikide ja loomatervishoiu organite kirjeldatud probleemidest seoses määrusega, milles sätestatakse veterinaarravimite müügiloa andmise eeskirjad, eriti aga vajalikkusest lahendada olemasolevad probleemid, mis on seotud veterinaarravimite kättesaadavusega ja ravimite kasutamisega selliste liikide puhul, kelle kohta ei ole selleks luba antud, ning ükskõik millise ebaproportsionaalselt suure uuendustegevust takistava regulatiivse koormusega, tagades samas aga tarbijaohutuse kõrge taseme seoses loomse toiduga. Komisjon juhib tähelepanu kõnealuses valdkonnas tehtud sellistele edusammudele nagu veterinaarravimite erinevate variantide alaste eeskirjade lihtsustamine ning kõnealuse toidus leiduvate jääkide piirnorme käsitleva õigusakti läbivaatamine.
+<P>
+Et saavutada lisaks ka püstitatud eesmärgid tarbijaohutuse ja loomade tervisekaitse vallas, veterinaarvaldkonna, sh väikeste ja keskmise suurusega ettevõtete konkurentsivõime ning halduskoormuse vähendamise osas, esitab komisjon 2010. aastal hinnangu, mis käsitleb veterinaarravimeid käsitleva direktiivi rakendamisel esinenud probleeme eesmärgiga teha vajaduse korral õigusaktide ettepanekuid.
+<SPEAKER ID="257" NAME="Avril Doyle">
+raportöör. - Härra juhataja, ma soovin lisada, et on üks muudatus, mida ma ei saa toetada, sest sellega luuakse tegelikult juriidiline ummikseis. Kui loomale ei saa manustada katsetatavat ravimit, sest selle kohta ei ole kehtestatud jääkide piirnormi, siis ei saa läbi viia ka katseid, mis on vajalikud jääkide piirnormi ja keeluaja kindlaksmääramiseks.
+<P>
+Ma tänan volinikku koostöö eest kõnealusel teemal ja soovin rõhutada, et veterinaarravimite direktiiv on vaja kiiresti läbi vaadata. Mõnes mõttes kasutame me jääkide piirnormi läbivaatamist selleks, et lappida suuremat probleemi, mida küll praegu ei käsitleta, kuid millest me kõik oleme teadlikud. Euroopa Ühenduses on mitmesuguste loomaliikide ravimiseks vajaliku piisava hulga eri veterinaarravimite kättesaadavus olnud viimase kahekümne aasta jooksul järjest suurenev probleem. Eri huvirühmad, sealhulgas reguleerivad asutused, sektori esindajad ja veterinaararstid on selle aja jooksul teinud palju jõupingutusi, et ravimite kättesaadavuse probleemi lahendada.
+<P>
+Hoolimata nendest jõupingutustest on aga olukord muutunud järjest halvemaks. Heakskiidetud ravimite puudumine kujutab endast reaalset ohtu loomade tervisele ja heaolule ning tarbijate ohutusele. Kui loomi ei ravita või ravitakse heakskiitmata või sobimatu ravimiga, kaasnevad sellega märkimisväärsed probleemid loomaomanikele, põllumajandustootjatele, veterinaararstidele ja valitsustele, need probleemid hõlmavad ravimata või sobimatult ravitud loomadel tekkivate zoonootiliste haiguste mõju loomaomanikele, tarbijatele ja kodanikele.
+<P>
+See hõlmab ka finants-, juriidilist ja kaubanduslikku mõju eri huvirühmadele, sest ravimite puudumine või avaldada negatiivset mõju maapiirkondade majandusele ja põllumajandusele üldiselt. Üks näide - ja kõige olulisem punkt - on mesilasperede arvu vähenemise tagajärjel avalduv mõju tolmeldamisele. Mesilased kuuluvad väga olulise vähemtähtsa liigi/kasutusviisi alla.
+<P>
+Kuid praegune kättesaadavuse probleem ELis ei mõjuta valdkonnaüleselt mitte üksnes loomade tervist ja heaolu, ühenduse toiduainetega varustatust ja rahvatervist, vaid see vähendab ka ELi võimet täita Lissaboni tegevuskava eesmärke ning kasutada ära Euroopa põllumajanduse ja avamere vesiviljeluse tohutuid võimalusi meelitada ligi veterinaarravimite valdkonna teadus- ja arendustegevust.
+<P>
+Suur tänu veel kord kõikidele kolleegidele ja volinikule koostöö eest seoses selle raportiga.
+<SPEAKER ID="258" NAME="Juhataja">
+Arutelu on lõppenud.
+<P>
+Hääletus toimub homme.
+<P>
+Kirjalikud avaldused (kodukorra artikkel 142)
+<SPEAKER ID="259" NAME="Péter Olajos  " AFFILIATION="PPE-DE">
+kirjalikult. (HU) Sageli kuuleme kaebusi, et Euroopa Liit püüab kõike reguleerida, kuid samal ajal ei õnnestu tal lahendada olulisi küsimusi.
+<P>
+Paljud meist arvavad, et ka sellel raportil on samasugune eesmärk. See ei ole aga nii. Antud juhul räägime me toiduainetest, mida tarbivad inimesed ja mille ohutust me soovime inimeste huvides suurendada.
+<P>
+Kehtivad õigusaktid ei ole ajakohased ning tekitavad veterinaararstidele probleeme ravimivarude täiendamisel. Seetõttu on vaja sobivat õigusakti, mis käsitleks veterinaarravimite valdkonna eripära.
+<P>
+Tänapäeval on järjest enamatel ravimitootjatel veterinaarravimite osakond, sest nendest saadav tulu on märkimisväärne. Nõudlus kasvab pidevalt, sest ka loomad haigestuvad ja nüüd, kui toiduainete väärtus aina suureneb, tasub loomade haigestumist ära hoida.
+<P>
+Viimasel ajal on aga meie tähelepanu tõmmanud teave, et mõningad ettevõtted püüavad välja selgitada, kuidas loomadest aina rohkem kasu saada. Kiiresti kasvavad kanad, sead, kes nuumatakse mõne kuu jooksul tohutu suureks. Seda kõike tehakse ravimitega, mis on sageli inimestele kahjulikud.
+<P>
+Seetõttu tuleb igat loomadele manustatavat valmistist katsetada koostöös Euroopa Ravimihindamisametiga, et teha kindlaks, kas selliste ainete jäägid, mis jäävad loomadesse ja mida inimesed hiljem tarbivad, kujutavad mingisugust ohtu.
+<P>
+Katsete tegemise eest maksab ettevõte. Me peame rõhutama ka kiirmenetluse võimalust, mis vähendab loa saamise aega ja on oluline sellepärast, et veterinaararstid saavad siis ravimit kiiremini kasutama hakata.
+<P>
+Miski pole olulisem kui inimeste tervis ja seetõttu peame rajama tõkke loomade dopingule, mis on ajendatud rahalisest kasust.

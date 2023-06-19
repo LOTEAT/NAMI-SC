@@ -1,0 +1,14 @@
+<CHAPTER ID="001">
+Apertura della seduta
+<P>
+(La seduta è aperta alle 09.00.)
+<SPEAKER ID="005" NAME="Daniel Cohn-Bendit" AFFILIATION="Verts/ALE">
+- (FR) Signora Presidente, desidero verificare qualcosa con lei. Sembra che sia stato stabilito, alla richiesta della Presidenza francese, di controllare la ripresa delle immagini durante il discorso del Presidente Sarkozy.
+<P>
+Vorrei sapere chi ha preso tale decisione, chi lo ha chiesto, e chi ha la responsabilità delle riprese al Parlamento europeo. E' lo stesso Parlamento o la Presidenza francese? Gradirei una risposta prima dell'inizio della seduta.
+<SPEAKER ID="006" NAME="Presidente">
+Onorevole Cohn-Bendit, avrà una risposta prima dell'inizio della seduta, ma per il momento, se non le dispiace, procederemo con la votazione.
+<SPEAKER ID="007" NAME="Astrid Lulling" AFFILIATION="PPE-DE">
+- (FR) Signora Presidente, in quanto questore del Parlamento europeo, vorrei richiamare la sua attenzione sul fatto che le vie di accesso al Parlamento sono bloccate da un lato da una gran quantità di forze di polizia, che non consentono l'entrata delle automobili ufficiali. Se alcuni deputati arrivano in ritardo poiché devono fare un altro giro, non dovrebbero essere penalizzati se non possono partecipare alla votazione.
+<SPEAKER ID="008" NAME="Presidente">
+Onorevole Lulling, si terrà chiaramente conto di questo, poiché alcuni deputati stanno incontrando difficoltà nell'essere ammessi in Parlamento.

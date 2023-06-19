@@ -1,0 +1,6 @@
+<CHAPTER ID="020">
+Interrupción del periodo de sesiones
+<SPEAKER ID="287" NAME="El Presidente">
+Declaro interrumpido el periodo de sesiones.
+<P>
+(Se levanta la sesión a las 16.20 horas)

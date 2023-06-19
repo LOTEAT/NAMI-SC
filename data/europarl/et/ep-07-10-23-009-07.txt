@@ -1,0 +1,8 @@
+<CHAPTER ID="009-07">
+7. Schengeni infosüsteemi (SIS) keskkonna andmeside infrastruktuur (otsus) (hääletus) 
+<P>
+- Raport: Carlos Coelho (A6-0357-2007)
+<P>
+- Enne hääletust:
+<SPEAKER ID="125" NAME="Carlos Coelho  " LANGUAGE="PT">
+Härra juhataja, kuna oleme graafikust maas, teen kolm lühikest märkust. Esiteks avaldab parlament kahetsust viivituse pärast seoses SIS II-ga; teiseks seisab parlament silmitsi hädaolukorraga, sest kui me ei otsusta praegu, võivad liikmesriigid taastada sisepiirid, mis on lubamatu; kolmandaks eelistab parlament SISNETi kokkuleppe laiendamise tehnilist lahendust ning peab alternatiivset lahendust - kokkulepet s-Testaga - rahaliselt kahjulikuks lahenduseks, kuid kahjuks peame säilitama mõlemad, et ennetada piiride tekkimist, mida mitte keegi ei soovi.

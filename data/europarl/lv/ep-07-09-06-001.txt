@@ -1,0 +1,8 @@
+<CHAPTER ID="001">
+Sēdes atklāšana
+<P>
+(Sēde tika atklāta plkst. 10:00)
+<P>
+
+<SPEAKER ID="005" NAME="Antonio Tajani" AFFILIATION="PPE-DE">
+(IT) Priekšsēdētāja kungs, dāmas un kungi, Eiropa šodien ir zaudējusi vienu no lieliskākajiem māksliniekiem. Lučiano Pavaroti šorīt mira Modenā, un es uzskatu par pareizu izrādīt cieņu šim lieliskajam mākslas un kultūras cilvēkam, kas Eiropas mūziku nesa pasaulē. Viņa aiziešana Eiropas Savienībai kopumā ir milzīgs zaudējums, un es uzskatu par pareizu Lučiano Pavaroti šajā Parlamentā pieminēt.

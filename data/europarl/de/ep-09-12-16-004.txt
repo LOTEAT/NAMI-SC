@@ -1,0 +1,6 @@
+<CHAPTER ID="004">
+Abstimmungsstunde
+<SPEAKER ID="085" NAME="Der Präsident">
+Als nächster Punkt folgt die Abstimmungsstunde.
+<P>
+(Abstimmungsergebnisse und sonstige Einzelheiten der Abstimmung: siehe Sitzungsprotokolle)

@@ -1,0 +1,270 @@
+<CHAPTER ID="011">
+A biztonság és az alapvető szabadságjogok Interneten történő megerősítése (vita) 
+<SPEAKER ID="415" NAME="Elnök">
+- A következő napirendi pont a Stavros Lambrinidis által, az Állampolgári Jogi, Bel- és Igazságügyi Bizottság nevében benyújtott jelentés, az interneten a biztonság és az alapvető szabadságjogok megerősítéséről szóló európai parlamenti ajánlási javaslatról a Tanácsnak.
+<SPEAKER ID="416" NAME="Stavros Lambrinidis">
+előadó. - (EL) Elnök úr, olyan korban élünk, amelyben mindenki - kormányok, magánvállalkozások, sőt bűnözők is - a lehető legszélesebb hozzáférést keresik elektronikus adatainkhoz, magánéletünkhöz.
+<P>
+Különösen az internet részletes adatokat nyújt magánéletünkről, ami néhány évvel ezelőtt elképzelhetetlen volt. Ugyanakkor világos, hogy ez megkönnyíti számunkra alapvető jogaink, például a szólásszabadság, a politikai cselekvés szabadsága, a tudás és az oktatás szabadsága, valamint az egyesülési szabadság gyakorlását.
+<P>
+Kevésbé világos, hogy az internet használatával az a veszély fenyeget bennünket, hogy a kormányok, magánvállalkozások, sőt bűnözők azzal hogy titokban felügyelik, hogy mit teszünk vagy mit nézünk az interneten, megsértik ezeket a szabadságjogokat. Ezért talán még kevésbé világos, hogy hogyan tudjuk megtalálni az egyensúlyt, hogyan tudjuk szabályozni az internetet úgy, hogy annak hasznát vegyük, miközben korlátozzuk annak nyilvánvaló veszélyeit.
+<P>
+Jelentésem megpróbál válaszolni ezekre a kérdésekre. Többek között:
+<P>
+először, egy európai kezdeményezés, egy globális internetes "alkotmánylevél” (Bill of Rights) létrehozására szólít fel;
+<P>
+másodszor, jelzi, hogy a számítógépes bűnözés régi és új formái, például a személyazonosság eltulajdonítása elleni hatékony, ugyanakkor arányos küzdelemre és a szellemi tulajdonjogok védelmére van szükség, miközben hangsúlyozza, hogy a jogszabályalkotás nem eredményezheti valamennyi polgár, gyanúsított és nem gyanúsított, jó és rossz rendszeres felügyeletét, mert ez természetesen nyilvánvaló behatolás lenne magánéletükbe;
+<P>
+harmadszor, a polgárok internethez való hozzáférési joga tekintetében felszólítja a kormányokat, hogy e hozzáférési jogot biztosítsák a legtávolabbi régiók legszegényebb polgárai számára;
+<P>
+negyedszer, hangsúlyozza, hogy az e-analfabétizmus a XXI. század analfabétizmusa lesz, éppúgy, mint ahogy a XX. században az írni-olvasni nem tudás volt, és hogy az internethez való hozzáférés ezért alapvető jog, amely éppolyan jog, mint az iskolába járáshoz való jog;
+<P>
+ötödször, a felhasználók hozzájárulását korlátozó intézkedésekre szólít fel, amely egy lényeges kérdés, és amelyet most szeretnék megvitatni.
+<P>
+A hozzájárulás kérdése rendkívül bonyolult, és ha ezt most nem oldjuk meg, újra és újra fel fog merülni. Engedjék meg, hogy mondjak egy példát: néhány évtizeddel ezelőtt senki sem tudta, hogy milyen újságot olvasok; csak a családom és talán néhány barátom. Ezért - és ez különösen diktatúrák idején igaz - a titkosszolgálat próbálta megtudni, hogy bekerüljek a nyilvántartásba. Így azt tudták mondani, Lambrinidis úr ilyen és ilyen újságot olvas, tehát bizonyára kommunista vagy amerikabarát. Ma, amikor újságot olvasok, nyomot hagyok. Ez azt jelenti, hogy magánvállalkozások hasonló "nyilvántartásokat” készíthetnek, létre tudnak hozni egy profilt a politikákról, amelyekben hiszek, az evési szokásaimról, sőt az egészségemről is. Az, hogy ellátogatok ezekre a weboldalakra, azt jelenti, hogy egyetértek azzal, hogy társadalom visszatérjen a 40 évvel ezelőtti időkhöz?
+<P>
+Sürgősen szükség van arra, hogy ésszerű jogszabályokat hozzunk, amelyek az elektronika korában megtalálják az egyensúlyt a bűnüldözés és a jogok védelme között. Ez az egyensúly nehéznek tűnik, de nem az. Megvalósítható. Nem szabad tovább úgy foglalkoznunk a kibertérrel, mintha az valami mindennapi életünkön kívüli, valami külön dolog lenne. Életünk része. Ez azt jelenti, hogy minden jog vagy korlát, amely a rendőrségre és a magánvállalkozásokra az interneten belül érvényes, annak azon kívül is érvényesnek kell lennie, különben az a veszély fenyeget bennünket, hogy a biztonság kedvéért szabadságokat törlünk el, és végül sem szabadságunk, sem valódi biztonságunk nem lesz.
+<P>
+Végezetül, hálás köszönetem azért a jelentős támogatásért, amelyet e Ház képviselőcsoportjainak árnyékelőadóitól kaptam. Köszönöm az Állampolgári Jogi, Bel- és Igazságügyi Bizottságban helyet foglaló minden parlamenti képviselőnek az egyhangú támogatást, amelyet e jelentés kapott minden párttól. Örömmel várom, hogy a plenáris ülés elfogadja azt.
+<SPEAKER ID="417" NAME="Ján Figeľ">
+a Bizottság tagja. - Elnök úr, szeretnék köszönetet mondani nemcsak a Parlamentnek általánosságban, hanem különösen Stavros Lambrinidis úrnak e fontos jelentésért, amely igen időszerűen járul hozzá az alapvető szabadságjogok és az internetes biztonság előmozdításához.
+<P>
+Miközben az internet egyre nagyobb súlyra tett szert a modern társadalmakban és gazdaságokban, és hatást gyakorol életünk számos területére, a technológia óriási sebességgel fejlődik, ugyanakkor jelentős kihívásokat kell megfelelően kezelnünk, ha az internet által nyújtott valamennyi lehetőséget ki akarjuk használni, és meg akarjuk fejteni az információs társadalmat.
+<P>
+Különösen osztjuk Lambrinidis úrnak a személyes adatok védelmével kapcsolatos aggályait, amely az internet-felhasználók szempontjából rendkívül jelentős kérdés. Biztosíthatom Önöket, hogy a Bizottság továbbra is elkötelezett abban, hogy erősítse a polgárok alapvető jogait és alapvető szabadságait, és abban, hogy biztosítsa a magánélet és a személyes adatok magas szintű védelmét, mind az interneten, mind pedig más összefüggésekben.
+<P>
+Határozott meggyőződésem, hogy a magánélet megfelelő védelme nem áll ellentétben azzal, hogy nagyobb biztonságra van szükség. Valójában ezt a két célt egymást kiegészítve kell elérni.
+<P>
+Az internet stabilitása és biztonsága 2005-ben az információs társadalomról szóló világcsúcstalálkozón prioritásaink voltak, és ezek a célkitűzések továbbra is érvényesek. E kérdéseket hamarosan a létfontosságú internetes infrastruktúrák védelmére vonatkozó új stratégián keresztül mutatják be, amelynek célja, hogy fokozza Európa felkészülését a széleskörű számítógépes támadások és zavarok elleni védelemre. E stratégia tartalmaz egy cselekvési tervet, amely az internet stabilitására és rugalmasságára vonatkozó elvek és iránymutatások menetrendjét határozza meg.
+<P>
+A stratégián belül harmadik országokkal stratégiai együttműködést dolgoznak ki, különösen az információs társadalmi párbeszédben, amely ezen a területen a globális konszenzus eszköze. Ugyanakkor a Bizottság meggyőződése, hogy szükség van az alapvető szabadságjogok, például az interneten történő szólásszabadság tiszteletben tartásának biztosítására.
+<P>
+Ismétlem, ezek a célok nem zárják ki egymást. Az Önök jelentése tartalmazza továbbá, hogy milyen lehetőségei vannak a globális szabványok, az adatvédelem és a szólásszabadság kidolgozásának. A Bizottság részt vesz az adatvédelmi biztosok éves nemzetközi konferenciáján és követi a magánélet és a személyes adatok védelmére vonatkozó lehetséges jövőbeni szabványok folyamatban lévő kidolgozását. Erősen elkötelezettek vagyunk azon szigorú védelmi szabványok ösztönzése iránt, amelyek jelenleg védik az EU polgárait.
+<P>
+A szólásszabadság vonatkozásában a Bizottság nemzetközi fórumokon továbbra is támogatja ezt az alapvető jogot. Jelenleg új jogszabályok bevezetését ezen a területen nem tekintenék előrevivő megoldásnak. Ebben a kérdésben már számos kötelező nemzetközi eszközzel rendelkezünk. Úgy gondolom, most hasznos lenne, ha a meglévő jogszabályok erősítésének megfelelő módjáról valóban elgondolkodnánk. Ugyanez érvényes a végrehajtásra. Arról is gondolkodni kell, hogy a globális kereskedelem szereplőit hogyan lehet támogatni abban, hogy az internet globális online környezetében, az alapvető szólásszabadság előmozdításában és erősítésében játszott szerepüket és felelősségüket jobban meg tudják határozni.
+<P>
+Engedjék meg, hogy egy általános megjegyzéssel zárjam. Úgy gondolom, meg kell küzdenünk azokkal a komoly kihívásokkal, amelyekre e jelentés rávilágít, és biztosítanunk kell, hogy a jogok és szabadságok tényleges gyakorlása az interneten ne legyen túlzottan korlátozott.
+<P>
+Például, a biztonságos információs társadalomra vonatkozó bizottsági stratégia egy lényeges eleme 2006 óta az volt, hogy holisztikus megközelítésre van szükség, amely biztosítja az érdekelt felek közötti koordinációt, ugyanakkor elismeri, hogy mindegyiküknek meghatározott szerepet kell betölteni és meghatározott felelősséget kell viselni. Mindannyian felelősek vagyunk annak biztosításáért, hogy intézkedéseink az interneten ne korlátozzák túlzottan - és, ha lehetséges mozdítsák elő - ezen a kommunikációs eszközön mások biztonságát.
+<P>
+Ezért az együttműködés szellemében a Bizottság üdvözli és támogatja ezt a jelentést.
+<SPEAKER ID="418" NAME="Manolis Mavrommatis">
+a Kulturális és Oktatási Bizottság véleményének előadója. - (EL) Elnök úr, biztos úr, hölgyeim és uraim, először is szeretném megköszönni az előadónak, Stavros Lambrinidis úrnak az általa készített fontos jelentést és azt a törekvését, amely a személyes adatok védelmét célozza, egy olyan elvet, amelyet többségünk tiszteletben tart, személy szerint én is.
+<P>
+A Kulturális és Oktatási Bizottság véleményének előadójaként úgy ítélem meg, hogy az internet a kultúra és az ismeretek terjesztésének rendkívüli platformja; ezt azért hangsúlyozom, hogy gratuláljak, és köszönetet mondjak valamennyi képviselőtársamnak, aki a Kulturális Bizottságban véleményem mellett szavazott.
+<P>
+Az emberek a világ minden részén például digitális múzeumi archívumokhoz, elektronikus könyvekhez, zenei és audiovizuális anyagokhoz tudnak hozzáférni. Sajnos azonban a kibertér hatalmas világában a kulturális anyagokat nem védik megfelelően. A kalózkodás inkább általánosságnak, mint kivételnek tekinthető, és a szerzők veszteséget szenvednek szellemi tulajdonuk jogellenes terjesztése miatt. Más szóval, költők, dalszerzők, zeneszerzők, producerek és általában mindenki, aki kreatív munkával foglalkozik.
+<P>
+Három dolog segíti a kalózkodás terjedését: a technológiai eszközök és az olcsó másolás, a kedvezőtlen gazdasági feltételek és az internet-lefedettség.
+<P>
+A 4. számú módosítás visszaállítja a Kulturális Bizottság ajánlását, amely szerint valamennyi érintett fél joga és szabadsága között megfelelő egyensúlyt kell teremteni, és a személyek valamennyi alapvető jogát, amelyek az Európai Unió alapjogi chartáján alapulnak, az internet széles körű használatának keretében meg kell őrizni, és védeni kell.
+<P>
+Ezért támogatom ezt a módosítást, amely megismétli, hogy valamennyi alapvető jog egyformán értékes, és valamennyit ugyanolyan módon kell védeni.
+<SPEAKER ID="419" NAME="Nicolae Vlad Popa" LANGUAGE="RO">
+Ez a jelentés e Ház képviselői közötti együttműködés eredménye. Ezért szeretnék köszönetet mondani képviselőtársaimnak, különösen Lambrinidis úrnak, valamint Gacek asszonynak, Alvaro úrnak, Segelström asszonynak és Mavrommatis úrnak, akikkel együtt dolgozhattam, úgy is mint árnyékelőadó.
+<P>
+Úgy gondolom, hogy a jelentés a biztonság és az alapvető emberi jogok interneten történő megerősítése terén tartalmazza az érdeklődésre számot tartó fő témaköröket, és hivatkozik a hatályban lévő konkrét rendelkezések által előírt jogok védelmére, beleértve azok digitális aspektusait is, valamint az internet ellenőrzésére vonatkozó új elvek elismerésére és fejlődésére.
+<P>
+A szöveg megfelelő egyensúlyt tart fenn a szólásszabadság és a magánélet szabadsága, valamint a számítógépes bűnözés elleni küzdelem folytatásának szükségessége között, az internetes tevékenység túlzott ellenőrzésének fő problémáját is hangsúlyozva, amely a cenzúra egy új formájává válhat.
+<P>
+A jelentés foglalkozik továbbá az internet oktatási aspektusaival, az e-tanulással, a digitális személyazonosítás meghatározásával és a felhasználók által az interneten elhelyezett tartalmak feletti felhasználói jogok elismerésével, valamint a személyes jellegű adatok védelmével, annak tudatában, hogy a felhasználóknak megvan a lehetőségük arra, hogy az általuk elhelyezett tartalmat véglegesen törölhetik.
+<P>
+Ezek kényes témák a mai körülmények között, amikor a társadalmi hálózatokat növekvő mértékben fiatalok népesítik be, de nem kizárólag ők. Ezért ösztönöztem arra képviselőtársaimat, hogy teljes meggyőződéssel szavazzák meg ezt a jelentést.
+<SPEAKER ID="420" NAME="Inger Segelström" LANGUAGE="SV">
+Elnök úr, azzal szeretném kezdeni, hogy köszönetet mondjak Lambrinidis úrnak és mindenki másnak az Állampolgári Jogi, Bel- és Igazságügyi Bizottságban, aki ezt a konstruktív és jól átgondolt jelentést készítette. Köszönetemet szeretném kifejezni továbbá a módosításaimhoz nyújtott támogatásért is. Ez a támogatás pontosan a felhasználók és a fogyasztók jogai erősítésének szól.
+<P>
+A technológia-alkalmazásokról szóló szakasz - az internetes forgalom ellenőrzése például - nagyon fontos. Jó, hogy az Európai Parlament most határozottan kijelenti, hogy a polgárok magánélete és emberi jogai prioritást élveznek.
+<P>
+A jelentés világossá teszi, hogy az internetes forgalom csak abban az esetben ellenőrizhető, ha bűncselekmény gyanúja áll fenn, valamint ha bírósági határozatot követően ez a jogi folyamat részét képezi. Ez a polgári jogok ellenőrzésének fontos alapja lesz. A jelentés még egy pillanattal sem hozza meg korábban a szükséges intézkedéseket.
+<P>
+Meglepnek az Európai Néppárt (Kereszténydemokraták) és az Európai Demokraták Képviselőcsoportjához, valamint a Liberálisok és Demokraták Szövetsége Európáért Képviselőcsoportjához tartozó képviselők által előterjesztett módosítások. Javaslataik gyengítik a polgári jogokat és a polgárok magánéletét. Nem vizsgálták meg kritikus szemmel, hogy a műszaki haladás mit hozhat, ha nem figyelnünk oda.
+<P>
+Természetesen harcolni kell az internetes bűncselekmények és azok ellen a bűncselekmények ellen, amelyek gyermekeket és fiatalokat használnak ki. Ebben az összefüggésben azonban kulcsfontosságú kérdés például az a tény, hogy a svéd konzervatív kormány elfogadta az úgynevezett FRA-törvényt, amely azoknak a polgároknak az ellenőrzésével foglalkozik, akik nem bűnözők és nem követtek el bűncselekményt, holott a polgároknak kellene bennünket ellenőrizni. A jelentés erősen bírálja a svéd konzervatív kormányt, amely visszautasított minden bírálatot, és bevezette az FRA-törvényt Svédországban. A svédországi hatóságoknak most joguk van az internetes forgalom ellenőrzésére, anélkül, hogy felmerülne a bűncselekmény gyanúja, vagy fennállna az egyének vagy a társadalom biztonságának kockázata.
+<P>
+A holnapi döntést követően, feltételezem, hogy a svéd kormány újbóli mérlegelés után biztosítani fogja a törvény megváltoztatását. Ellenkező esetben szemben fognak állni az Európai Parlamenttel és az EU 27 országának választott képviselőivel.
+<SPEAKER ID="421" NAME="Alexander Alvaro">
+az ALDE képviselőcsoport nevében. - (DE) Elnök úr, azzal szeretném kezdeni, hogy gratuláljak Lambrinidis úrnak a jól végzett munkához. E jelentés elkészítése során teljes mértékben bevont valamennyi árnyékelőadót, és mindent megtett a kompromisszumok elérése érdekében.
+<P>
+Ez a jelentés, amely az információs társadalom fontos kérdéseivel foglalkozik, fontos lépés egy olyan internet létrehozása felé, amely mind polgáraink biztonságát, mind pedig alapvető szabadságjogaikat biztosítja. A szabadság és a biztonság közötti határok nem érnek véget a virtuális világ határainál. Jelentésében figyelembe vette a számítógépes bűnözés, a gyermekpornográfia, a személyazonosság eltulajdonítása és a csalás elleni küzdelmet, valamint a szerzői jog megsértését. Megpróbálta bevonni az Europolt, és világossá teszi, hogy a fizikai világ jelenlegi jogszabályait a virtuális világra is alkalmazni kell.
+<P>
+Ugyanakkor sikerült megtalálnia az egyensúlyt a polgári jogok védelme, a szólásszabadság, az adatvédelem és az interneten szereplő adatok teljes törléséhez való jog között. Ugyanis az internet a mai napig nem felejt. Egyesek közülünk örülhetnek annak, hogy az internet még nem létezett, amikor 13, 14, 15 vagy 16 évesek voltunk, és fiatalkori csínyeket követtünk el, amelyeket most nem szeretnénk megtalálni a YouTube-on vagy a Facebook-on.
+<P>
+A jelentés készítője kiemelte, hogy szükség van az információhoz való hozzáférésre, és ami fontosabb, az internethez való hozzáférésre és a szellemi tulajdon tiszteletben tartására. Jól tudom, hogy számos képviselő szerint a jelentés nem megy elég messze a szellemi tulajdon és a szerzői jog védelmének tiszteletben tartása terén. Dolgozzunk ezen, az internetprotokoll-végrehajtásáról szóló irányelvvel együtt, és ezeket a kérdéseket emeljük ki abban az irányelvben!
+<P>
+E jelentés tisztázza, hogy az interneten a cenzúra vagy a hálózathoz való hozzáférés blokkolása, amint azt egyes európai tagállamokban tervezték vagy már meg is valósították, olyan intézkedések, amelyek nem méltók felvilágosult társadalmunkhoz, és azt is világossá teszi, hogy az Európai Unió nem követi a totalitárius államok példáját, és nem zárja el polgárait az információtól, vagy nem írja elő számukra, hogy mit kell tudniuk.
+<P>
+Örülök, hogy egy kiegyensúlyozott jelentés fekszik előttünk, amely figyelembe veszi az információs társadalom követelményeit, és örülnék, ha holnap saját képviselőcsoportom és más képviselőcsoportok is a lehető legnagyobb mértékben támogatnák ezt a jelentést, hogy így a társadalom érdekeit szolgáló internetet alakíthassunk ki.
+<SPEAKER ID="422" NAME="Roberta Angelilli" LANGUAGE="IT">
+Elnök úr, hölgyeim és uraim, más képviselők már említettek, de meg szeretném ismételni, hogy az internetet nem szabad kriminalizálni vagy cenzúrázni, mert lehetőséget nyújt a kommunikációra, a szocializációra, a tájékozódásra és az ismeretszerzésre, ugyanakkor szükség van a számítógépes bűnözés elleni küzdelem globális stratégiájának kifejlesztésére.
+<P>
+Különösen védenünk kell a gyermekeket, valamint oktatni és tájékoztatni a szüléket és a tanárokat a web lehetséges új veszélyeiről. Ezek azok a célkitűzések, amelyek érdekében Európának hatékonyan kell cselekednie, és szeretnék gratulálni az előadónak a jól végzett munkához.
+<P>
+A gyermekek interneten történő bántalmazása és szexuális kizsákmányolása, valamint az online gyermekpornográfia elleni tagállami jogszabályok által meghatározott büntetések és meglehetősen magas szintű védelem ellenére a gyermekvédelmi előírásokat tovább kell szigorítani, nem utolsósorban az új technológiák, különösen az internet folyamatos fejlődése, valamint a pedofilok által az online gyermekcsábítás új formáinak használata miatt.
+<P>
+Pontosan ebből az okból döntöttem a jelentésre vonatkozó módosítás előterjesztése mellett, amely nyíltan felhívja a tagállamokat, hogy az internet kiskorúak általi használatára vonatkozóan tegyék naprakésszé jogszabályaikat, különösen azzal, hogy a gyermekcsábítást bűncselekménynek nyilvánítják, amint azt az Európa Tanács gyermekek szexuális kizsákmányolás és szexuális zaklatás elleni védeleméről szóló, 2007. októberi egyezménye meghatározta.
+<SPEAKER ID="423" NAME="Eva-Britt Svensson" LANGUAGE="SV">
+Elnök úr, szeretném megköszönni Lambrinidis úrnak, hogy sikerrel járt az internetes biztonság tiszteletben tartása, ugyanakkor az értékes alapvető jogok védelme és tiszteletben tartása terén. Feltételezem, hogy alapvető jogaink tiszteletben tartása e jelentéshez hasonlóan támogatást kap, ha a távközlési csomagról határozunk. Egyértelmű kapcsolat van e jelentés és a távközlési csomag között. Remélem, hogy akkor szintén egyet fogunk érteni abban, hogy fontos a polgári szabadságok védelme.
+<P>
+Amint számos képviselő már említette, az internet óriási ütemben növekedő lehetőségeket teremtett a szólásszabadságra. Azok a polgárok, akik általában nem férnek hozzá a széleskörű média vitafórumaihoz, véleményt nyilváníthatnak és követhetik a kérdéseket. Az internet a véleménycsere új színterévé vált, amely égetően szükséges volt a politikai mobilizáláshoz. Nagyobb lehetőségeket nyújt a polgárok számára a döntéshozók ellenőrzéséhez. Fontos, hogy a polgároknak maguknak is joguk van a jogalkotók és a hatalom birtokosainak ellenőrzésére. Megnövekedett ismereteket hozott magával. Leginkább lehetőségünk van arra is, hogy eszmét cseréljünk, és kapcsolatot teremtsünk eltérő kultúrájú és a világ más részében élő emberekkel.
+<P>
+Ha erről a kérdésről beszélünk, fontos annak biztosítása is, hogy valódi szólásszabadsággal, valamint a cenzúra és a véleményellenőrzés elleni biztosítékokkal, információval és véleményformálással rendelkezzünk. Az alapvető emberi jogok, a szólásszabadság és a magánélethez való jog a demokrácia fontos alkotóelemei, amelyeket mindig védeni kell, és tiszteletben kell tartani. Az internet ezért napjainkban demokratikus társadalmunk fontos tényezője, és annak is kell maradnia.
+<P>
+Ezért az 5. számú módosítás ellen kívánok szavazni, amelynek célja a következő szöveg törlése: "biztosítja, hogy a vitatott politikai meggyőződés interneten keresztül történő kifejezése miatt ne lehessen büntetőeljárást indítani”. Ha ezt a módosítást elfogadják, az a demokrácia szempontjából visszalépést jelent. Ki határozza meg, hogy mit jelent a vitatott politikai meggyőződés? Az eltérő politikai nézetek kifejezése demokratikus jog.
+<P>
+Szintén fontos az internet-felhasználók arra vonatkozó joga, hogy véglegesen töröljék a weboldalakon található személyes adatokat. Természetesen harcolnunk kell az internetes bűnözés ellen, de ezt törvényes módon, a büntetőjoggal összhangban kell megtenni, mint ahogy más típusú bűncselekmények esetében is történik.
+<P>
+A gyermekek ellen elkövetett internetes bűncselekmények kérdése különösen komoly kérdés. E tekintetben követjük az Európa Tanácsnak a gyermekek szexuális kizsákmányolása és szexuális zaklatása elleni védeleméről szóló egyezményét. Más csoportok szintén érintettek. Különösen gondolok itt azokra a nőkre, akik a szexrabszolga-kereskedelem áldozatai lettek. Manapság a szexipar használja az internetet és a szexuális erőszakot, amely sok nőt és gyermeket érint. Ebben az összefüggésben szeretném képviselőtársaimat emlékeztetni arra, hogy támogathatnak egy írásos nyilatkozatot, amelynek célja ezen erőszak megállítása, ez pedig a 94. számú nyilatkozat.
+<P>
+Végül szeretném megemlíteni azt a veszélyt is, amelyet az úgynevezett terror elleni háborúval összefüggésben tapasztaltunk. Ez alkalmanként a szólásszabadságot és az egyének magánéletét érintő ésszerűtlen kormányzati korlátozásokhoz vezetett. Ezek a korlátozások a polgároknak biztonsági kockázatokat okoztak. Különböző országok biztonsági szolgálatai az internet ellenőrzésével szerzett személyes adatokkal kereskedtek. Ez emberéleteket sodort veszélybe, például volt olyan személy, akinek politikai elnyomás miatt el kellett menekülnie saját hazájából. Arra buzdítom Önöket, hogy holnap nagy mértékben támogassák ezt a jelentést!
+<SPEAKER ID="424" NAME="Hélène Goudin" LANGUAGE="SV">
+Elnök úr, naponta elkápráztat, hogy az internet milyen fantasztikus eszköz, de az EU bármennyire is vitatja, a globális számítógépes hálózat nem európai hálózat. Azt hinni, hogy egy brüsszeli vagy strasbourgi rendelet ezt megváltoztathatja, eléggé hihetetlen, és igen távol áll a valóságtól. Indokolhatóan lehet érvelni amellett, hogy az EU nem megfelelő fórum az ebben a jelentésben kiemelt problémák megoldására. Engedjék meg, hogy néhány példát említsek! A jelentés az internethez való jogot összehasonlítja az iskolába járáshoz való joggal. Ez egy kissé túlzott, ha tudjuk, hogy az iskolába járáshoz való jog vagy lehetőség számos EU-országban nem eldöntött kérdés.
+<P>
+Az egyének jogainak védelme és támogatása az interneten, valamint a magánélet és a biztonság között kialakítandó egyensúly rendkívül fontos, de ezek nem olyan kérdések, amelyeket uniós szinten kell megoldani. Ez nemzetközi probléma, amellyel nemzetközi szinten kell foglalkozni.
+<P>
+Egy másik kérdés, amely közel áll a szívemhez, a fájlmegosztás. Ebben a vonatkozásban a szellemi tulajdonjogok védelmében közös büntetőintézkedések alkalmazását sürgettük. Határozott meggyőződésem, hogy a tagállamoknak kell dönteniük arról, hogy mi számít bűncselekménynek, és milyen következményei vannak, ha vannak egyáltalán. Az, hogy az EU teljes mértékben kövesse a zenei és a filmipar vonalát, teljesen elfogadhatatlan, különösen annak a ténynek a figyelembevételével, hogy egy teljes generáció kriminalizálásával próbálkozunk.
+<P>
+Végül, azt szeretném mondani, hogy e területen minden jogi szabályozás nehéz lesz, mivel a technológia jóval gyorsabban változik, mint a politikák.
+<SPEAKER ID="425" NAME="Urszula Gacek" AFFILIATION="PPE-DE">
+- Elnök úr, szeretném megköszönni az előadónak, hogy figyelembe vette javaslatomat, amely a szoftvergyártókat arra ösztönzi, hogy hozzanak további intézkedéseket a pornográf és erőszakos weboldalak blokkolása érdekében.
+<P>
+Ez a kérdés különösen a szülőket foglalkoztatja. Tény, hogy gyermekeink gyakran nálunk jobban értenek a számítógéphez. A szülők talán valamennyire tudják, hogy az internetes böngészőkön szűrőket aktiválhatnak, de ez a böngészőszoftver valamiféle ismeretét, valamint azt igényli, hogy tudatosan döntsenek a rendszer aktiválásáról.
+<P>
+Ha alapértelmezésként a szűrő "bekapcsolt” állapotban előzetesen telepítve lenne, valószínű, hogy jóval több gyermeket - köztük a legfiatalabbak is, akik egyre növekvő számban felügyelet nélkül használják az internetet, - lehetne megvédeni attól, hogy akaratlanul olyan weboldalakra bukkanjanak, amelyek károsan hatnak rájuk. Arra szólítom fel a gyártókat, hogy reagáljanak javaslatunkra! Ezt nem teherként vagy korlátozásként, hanem inkább marketinglehetőségként kell tekinteniük. Ha számítógép-vásárláskor meglenne a lehetőségem arra, hogy két egymással összehasonlítható számítógép közül látnám, hogy az egyiken található egy gyermekbarát címke, amely tanúsítja, hogy a szűrők előzetesen telepítve vannak, szülőként azt a terméket választanám. Idővel, ha a szülők ezt választanák, az biztosítaná, hogy ez legyen az iparági szabvány. Őszintén remélem, hogy az iparággal való együttműködéssel ezt elérhetjük.
+<SPEAKER ID="426" NAME="Alin Lucian Antochi" AFFILIATION="PSE">
+- (RO) Az internet mára új szakaszba ért, amely nemcsak elengedhetetlen üzleti eszköznek, hanem a különböző vélemények globális fórumának is tekinthető.
+<P>
+Ez a fejlődés azonban ambivalens magatartást eredményezett. Egyrészt az internet az oktatási, kulturális, gazdasági és társadalmi fejlődés katalizátoraként továbbra is fantasztikus lehetőségeket kínál, miközben másrészt olyan platformnak tekintető, amely erőszakos magatartás ösztönzésére használható, amely hatással van az emberek szabadságára és biztonságára.
+<P>
+Ezenkívül globális jellegéből adódóan az internet a magánéletet is veszélyezteti, mivel a polgárok internetes tevékenységét gyakran kormányok, rendőrhatóságok, vállalkozások, sőt bűnözők és terroristák ellenőrzik, amely még a személyazonosság eltulajdonításával is járhat.
+<P>
+Ebben a helyzetben meg kell határozni azt a legális határvonalat, amely megkülönbözteti a polgárok biztonságát és alapvető szabadságjogaikat az interneten, valamint tevékenységeik különböző hatóságok általi, korlátozás nélküli ellenőrzését annak érdekében, hogy a jogszabályok hatékonyak, és ne túlzottak legyenek, amikor a bűnözés elleni küzdelem érdekében hoznak intézkedéseket. Ezért az internet-üzemeltetők és az internet-felhasználók közötti folyamatos együttműködésen keresztül az adatvédelemre, a biztonságra és a szólásszabadságra vonatkozó, általános előírásokat kell meghatározni.
+<P>
+Fontos továbbá, és ebben a vonatkozásban teljes mértékben támogatom az előadót, a felhasználóktól, akár a kormányok, akár magánvállalkozások által kért hozzájárulások korlátainak vizsgálata és meghatározása, abban az értelemben, hogy bizonyos internetes szolgáltatások vagy előjogok fejében feladják magánéletük egy részét.
+<P>
+Végül, de nem utolsósorban, úgy gondolom, elnök úr, hogy a tagállamoknak erőfeszítéseket kell tenniük annak érdekében, hogy nemzeti jogszabályaikat összhangba hozzák az alapvető jogok interneten történő védelmével, mivel ez is segíthet a számítógépes bűnözés, illetve terrorizmus elleni küzdelem közös stratégiájának kidolgozásában.
+<P>
+Szeretnék gratulálni Lambrinidis úrnak és az egész csapatnak is, akik hozzájárultak e jelentés elkészítéséhez.
+<SPEAKER ID="427" NAME="Sophia in 't Veld" AFFILIATION="ALDE">
+- (NL) Elnök úr, szeretnék én is csatlakozni azokhoz, akik már gratuláltak az előadónak, aki fantasztikus jelentést készített. Néhány kérdésre szeretnék röviden kitérni.
+<P>
+Mindenekelőtt, az elmúlt években azt tapasztalhattuk, hogy a vállalkozások és kormányok egyre könnyebben tárolták a személyes adatokat. A kormányok vállalati adatbázisokat használnak, de még mindig különféle védelmi szintek alkalmazását láthatjuk az első pillérre és a harmadik pillére vonatkozóan - amit rendkívül aggasztónak találok.
+<P>
+A második pont - és örülök, hogy erre vonatkozó módosításomat elfogadták -, hogy természetesen a bűnözők is mindenféle módon a maguk hasznára fordítják az internetet. A személyazonosság eltulajdonítása ijesztően emelkedik, ezért meg kell kérnünk az Európai Bizottságot, hogy hozzon létre egy kapcsolattartó pontot az ilyen jellegű eltulajdonítások esetére -, amely nemcsak információcserére adna módot, hanem az áldozatok javát is szolgálná.
+<P>
+Harmadszor, valóban szükség van globális előírásokra. Ezzel kapcsolatban folyik a munka, de ezen előírásokat nyílt, demokratikus folyamatban kell kidolgozni, és nem az Európai Bizottság tisztviselői és az Egyesült Államok tisztviselői közötti tárgyalással kell ezekről dönteni.
+<P>
+Végül, miközben az Európai Bizottság gyakran szép szavakkal beszél a szabadságról és a polgári jogokról, megállapítottam, hogy Frattini biztos úr vezetésével és a Tanács segítségével számtalan intézkedést hoztak az elmúlt években, amelyek lehetővé teszik a polgárok utáni folyamatos kémkedést és szabadságaik korlátozását. Legfőbb ideje volt, hogy elemeztük, hogy mi történt, és ennek milyen következményei vannak. Ezért egy, a Bizottságnak szóló javaslattal szeretném befejezni: arra ösztönözném a Bizottságot, hogy a következő hivatali időszakra jelöljön ki külön biztost, aki a polgári jogokkal és szabadságokkal foglalkozik.
+<SPEAKER ID="428" NAME="Elnök">
+-?Egy kicsit több időt adtam in't Veld asszonynak, mert 400 ismerőse van a Twitteren. Nekem csak kilenc volt. Most négyszázötven van.
+<SPEAKER ID="429" NAME="Jean-Paul Gauzès" AFFILIATION="PPE-DE">
+- (FR) Elnök úr, biztos úr, hölgyeim és uraim, képviselőtársaim, Toubon úr nevében beszélek.
+<P>
+Először is köszönetet kell mondanom Popa úrnak, aki kiváló munkát végzett annak érdekében, hogy számunkra elfogadható kompromisszumot találjon, annak ellenére, hogy ebben a kérdésben az Európai Parlament Szocialista Képviselőcsoportjához és a Zöldek/az Európai Szabad Szövetség Képviselőcsoportjához tartozó egyes képviselők szélsőséges álláspontot képviselnek ebben a kérdésben.
+<P>
+A jelentés azt a fontos kérdést veti fel, hogy egyensúlyt kell találni a biztonság és az alapvető szabadságjogok között az interneten. Valójában, miközben ez az új technológia sokak számára a fejlődést és a lehetőségeket jelenti, nem veszélytelen. Például, ezen az új médiumon elengedhetetlen a szólásszabadság és az információ szabadságának biztosítása, miközben biztosítani kell a többi alapvető szabadságjog, például az emberek magánélete és személyes adatai védelmének tiszteletben tartását, valamint a szellemi tulajdonjog tiszteletben tartását.
+<P>
+Az előadó, Lambrinidis úr, aki kiváló munkát végzett, így figyelembe vette az internetes bűnözés új formáit és az általuk hordozott, különösen a gyermekeket érintő veszélyeket. Sajnos a jelentés más pontokon félreérthetőbb, sőt veszélyes is.
+<P>
+A Hieronymi asszony, Mavrommatis úr és Toubon úr által előterjesztett módosítások célja annak egyértelművé tétele, hogy az alapvető szabadságjogokat érintő támadásokat nem szabad támogatni a szólásszabadság és az információ szabadsága nevében.
+<P>
+A tagállamok és az internet-felhasználók számára biztosítani kell valamennyi mozgásteret, hogy megtalálják a legjobb megoldást arra, hogy hogyan lehet biztosítani egyesek jogait úgy, hogy másokat ne akadályozzon meg teljesen abban, hogy ők is gyakorolják jogaikat. A jogszabályoknak az internetre éppúgy vonatkozniuk kell, mint minden más területre. Az internet nem lehet olyan virtuális tér, ahol egy olyan tettet, amely a való világban jogsértésnek számít, megengedhetőnek tekintsenek, sőt a technológia és annak használati módja eredményeként egyszerűen még védelmet is kapjon. Demokratikus társadalmainkban a jogállamiság forog kockán.
+<SPEAKER ID="430" NAME="Manuel Medina Ortega" AFFILIATION="PSE">
+- (ES) Elnök úr, szeretnék gratulálni képviselőtársamnak, Lambrinidis úrnak az általa készített jelentéshez, és ezenkívül ahhoz a megfelelően kiegyensúlyozott szóbeli magyarázathoz, hogy mi is a célja ezzel a jelentéssel.
+<P>
+Magammal hoztam egy könyvet, amely az Európai Alkotmány létrehozásáról szóló szerződés. Ezt a könyvet a spanyol választók 90%-a és azon országok nemzeti parlamentjeinek többsége, amelyekhez mi európai parlamenti képviselők tartozunk, jóváhagyta.
+<P>
+Bizonyos politikai jellegű problémák miatt nem lépett hatályba, de ez a szöveg kulcsfontosságú, mivel tartalmazza - és én személy szerint ezt választóim megbízásaként fogom fel - az Európai Unió alapjogi chartáját. Úgy gondolom, hogy a charta tartalmazza a Lambrinidis úr által ebben a jelentésben meghatározott elveket.
+<P>
+Először is, az internet a szabadságon, a modernitáson és az egyenlő esélyeken alapuló térség, ahol az emberek gondolataik cseréjével és ismereteik megosztásával kommunikálnak egymással, érintkeznek egymással és információt nyújtanak egymásnak. Ezt a jogot az Európai Alkotmány létrehozásáról szóló szerződés II-71. cikke elismeri.
+<P>
+Másodszor, az internetnek olyan módon kellene védenie a szabadságot és az információs társadalmat, amely összeegyeztethető a szellemi tulajdon tiszteletben tartásával és a felhasználók magánéletének védelmével. A szellemi tulajdonjogot és a felhasználók magánéletének védelmét is különösen az európai alkotmánytervezet II-77. cikke ismeri el.
+<P>
+Harmadszor, megfelelő egyensúlyt kell találnunk a jogok védelme, a felajánlott tartalmak támogatása és az internetes digitális tartalmak legális piaca, valamint a fejlődés között, amely nyitott a neten megjelenő új társasági modellek iránt. Foglalkoznunk kell továbbá a személyes adatok védelmével, amelyet az alkotmánytervezet II-68. cikke elismer.
+<P>
+Ezért úgy gondolom, hogy Lambrinidis úr jelentése tartalmazza ezeket a kérdéseket. Az a helyzet, hogy nem foglalkozik hosszasan a feltételek, követelmények, az internet rendeltetésellenes használatából adódó következmények és a szankciók részleteivel, de úgy gondolom, hogy ez egy jogalkotási dokumentum feladata lenne, és most nem erről vitázunk.
+<SPEAKER ID="431" NAME="Claire Gibault" AFFILIATION="ALDE">
+- (FR) Elnök úr, biztos úr, hölgyeim és uraim, művészként elszomorít és nagyon megdöbbent, hogy Lambrinidis úr jelentéséből hiányzik a kulturális ágazat iránti érdeklődés.
+<P>
+Hangsúlyozom, hogy mindig az egyének jogait mint egészet kell megőriznünk és védenünk, az Európai Unió alapjogi chartájának megfelelően, és biztosítanunk kell valamennyi érintett fél jogait és szabadságát. Az információs társadalom egyre fontosabb gazdasági ágazattá válik, de az innováció és a kreativitás fő forrása is, amely megerősíti a modern kori gazdaságot.
+<P>
+Ez többek között azt jelenti, hogy a különféle kultúrához és oktatáshoz való hozzáférést mindenki számára a közösségi jog tiszteletben tartása mellett kell biztosítani, valamint hogy a szerzők és előadók kreatív munkájának értékét, beleértve a digitális gazdaságban végzett munkát is, megfelelően el kell ismerni. Az ilyen elismerés azonban azt jelenti, hogy kreatív hozzájárulásukat valamennyi felhasználási mód esetében meg kell fizetni annak érdekében, hogy szakmájukból meg tudjanak élni, és teljesen szabadon szakmájuknak szentelhessék magukat.
+<P>
+Ebben az összefüggésben a szellemi tulajdonjogot nem akadályként, hanem a kreatív tevékenységek hajtóerejeként kell tekinteni, különösen az új online szolgáltatások fejlesztésével összefüggésben.
+<P>
+Másrészt, úgy gondolom, hogy a rasszista, gyűlölettel teli vagy revizionista tartalmak interneten történő megjelenése esetén is büntetőeljárást kell indítani. A szólásszabadságot felelősen kell gyakorolni. Megfelelő egyensúlyt kell létrehozni az internethez való szabad hozzáférés, a magánélet tiszteletben tartása és a szellemi tulajdon védelme között. Ezért azt kérem Önöktől, hölgyeim és uraim, hogy támogassák 2-6. számú módosításaimat.
+<SPEAKER ID="432" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+- (EL) Elnök úr, már szinte szokássá vált, hogy minden plenáris ülésen az interneten vizsgáljunk meg egy jelentést. Ez jó dolog, mivel lehetőséget nyújt a tagállamoknak és az Európai Uniónak arra, hogy végül hatékonyan foglalkozzanak ezekkel az internethasználathoz kapcsolódó, időszerű kérdésekkel. Gratulálok képviselőtársamnak, Lambrinidis úrnak, hogy egyetértett azzal, hogy a képviselők módosításai bekerüljenek ebbe az átfogó jelentésbe, ily módon számos új aspektussal bővült a vitatott téma.
+<P>
+Legutóbb a Parlament az internetes videojátékokkal és a kiskorúakra leselkedő veszélyekkel, valamint a kiskorúak számára biztonságos internethez szükséges uniós finanszírozási mechanizmusokkal kapcsolatos kérdéseket vizsgálta. A mai vita egyre inkább arról győz meg, hogy végül is minden a jogi megközelítés kérdése köré összpontosul.
+<P>
+Ezért úgy gondolom, hogy az egyetlen dolog, amire fel kell szólítanunk, az egy jogi szintű tanulmány elkészítése, amely az internethasználatból eredő számos problémával foglalkozik. A jelentés ezért katalógusként hasznos anyag lesz, amelyet a jogi szakértőknek részletesen meg kell vizsgálniuk, akik azután kutatói munkát végeznek, amely a jelentésben említett különböző érdekelt felek számára eszközt biztosít ahhoz, hogy megfogalmazzanak egy olyan jogszabályt, amely az internet demokratikus módon történő használata vonatkozásában megőrzi a jogállamiság elvét. Természetesen nem beszélhetünk demokráciáról, ha pénzügyi helyzetétől függetlenül nem mindenki rendelkezik az internethasználathoz való joggal. Ma nem így állnak a dolgok, de reméljük, hogy egy napon így lesz.
+<SPEAKER ID="433" NAME="Katrin Saks" AFFILIATION="PSE">
+- (ET) Hölgyeim és uraim, el tudják képzelni az életet internet nélkül? Én már nem. Észtországból származom, amely az internethez való hozzáférés terén világelső. Valószínűleg azért is van nagyobb tapasztalatunk az internet veszélyeiről, mert két évvel ezelőtt országunk a számítógépes háború célpontjává vált, amelynek következtében, nemzetközi kutatások szerint gyermekeink számos más országokban élő gyermekekhez képest nagyobb számban váltak számítógépes zaklatás áldozataivá.
+<P>
+Az Európai Parlament az elmúlt években számos, általa elfogadott jelentésben ténylegesen próbálta megválaszolni a "Mi az internet?” kérdést. Ma ennél érvényesebb kérdés lenne, hogy az internet egy elkülönülő tér-e, egy olyan - virtuális - világ, amely nem való életünk része, vagy a közszféra része-e. Ezzel a kérdéssel Lambrinidis úr is foglalkozik jelentésében, amelyben kijelenti, hogy fő feladatunk, hogy megtaláljuk a magánélet és a biztonság közötti kívánatos egyensúlyt.
+<P>
+A szólásszabadság azonnal felmerül, ha megemlítik az internetes szabadság korlátozását - a szólásszabadság a gondolatok, vélemények, meggyőződések és más információk terjesztéséhez való jog, de felelősséget is jelent. Szeretnék köszönetet mondani az előadónak, és remélem, hogy mindannyiunkban meglesz a kitartás ahhoz, hogy megtaláljuk a választ a következő kérdésre: mi az internet; lehet-e szabályozni, és ha igen, hogyan történjen ez? Mivel az internet a globalizáció egyik legegyértelműbb jele, a kérdés megközelítésének is nemzetközinek kell lennie.
+<SPEAKER ID="434" NAME="Filiz Hakaeva Hyusmenova" AFFILIATION="ALDE">
+- (BG) Hölgyeim és uraim, e jelentés tartalma teljes egészében illeszkedik annak címéhez. Lefedi az Európai Unió alapjogi chartájában és a gyermek jogairól szóló ENSZ-egyezményben szereplő jogokat, és célja a gyermekek bűncselekményekkel szembeni védelme. Gratulálok az előadónak.
+<P>
+Az internet olyan világ, ahol tények jelennek meg, amelyeket nem határoznak meg kifejezetten úgy, mint jogok és szabadságok megsértését, vagy az ezek ellen elkövetett bűncselekményeket. A véleménynyilvánítás, információkeresés és társadalmi kapcsolatok lehetősége helyébe gyakran ezek szöges ellentéte lép. Az internet a szabályok megkerüléséhez és a korlátozások nélküli véleménynyilvánításhoz termékeny talajt nyújt.
+<P>
+A névtelenséget és mindenféle ellenőrzéstől való mentességet biztosító feltételek a felelősség el nem ismerését eredményezik, ha a nyelvi kifejezések megválasztására és használatára kerül a sor. Ezeket a kifejezéseket gyakran szleng, cinizmus, sőt vulgaritás hatja át. Bizalmatlanságot és gyűlöletet árasztó nyelvezetté alakul, amely átkerül a mindennapi használatba, olyan mintává válik, amit utánozni kezdenek, és amely egy bizonyos magatartást mintáz.
+<P>
+Ez a nyelvezet nem járul hozzá egy gyermek társadalmi, szellemi és erkölcsi jólétéhez, és nem vezet kultúrához és értékekhez. Ezért figyelmemet arra összpontosítom, hogy szükség van az interneten használt nyelvezet, és annak a hatásnak a külön elemzésére, amelyet ez a nyelvezet a gyermek személyes fejlődésére gyakorol.
+<SPEAKER ID="435" NAME="Csaba Sógor" AFFILIATION="PPE-DE">
+- Elnök úr, én azok közé tartozom, akik biztosítani szeretnék az internetes szabadság folyamatosságát. Az internet kitalálói bíztak az emberiség alapvető jóságában, és én hajlok arra, hogy osszam ezt a hitet. Sajnos az internet esetében nagyon gyakran, éppúgy, mint minden emberi társadalomban azzal a szomorú ténnyel kell szembesülnünk, hogy szabályozásokra van szükség annak biztosítására, hogy azok is védelmet élvezzenek, akik nem tudják megvédeni magukat. Az egyén biztonsága alapvető jog, éppúgy, mint a szólásszabadság és az önkifejezés.
+<P>
+Az olyan irtózatokat, mint a gyermekpornográfia és a pedofília, éppúgy, mint az internetes csalást, meg kell állítani. Semmiféle internetes ragadozót nem tűrhetünk, és miközben ezt a nagy érdeklődésre számot tartó témát vitatjuk, szeretném felhívni a figyelmüket egy jóval kevésbé tárgyalt témára: az internet tele van olyan weboldalakkal is, amelyek gyűlöletre, erőszakra és intoleranciára szítanak mindenféle kisebbséggel, többek között etnikai kisebbségekkel szemben. Ez az internet egy olyan aspektusa, amelyre figyelmet kell fordítanunk. Biztosítanunk kell, hogy a kisebbségek is védve érezzék magukat. Elfogadhatatlan, hogy számos szélsőséges csoport arra használja az internetet, hogy gyűlöletet és idegengyűlöletet szítson.
+<SPEAKER ID="436" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
+- (PL) Elnök úr, az internettel összefüggő több problémára szeretném ráirányítani a figyelmet.
+<P>
+Először is, a személyes adatok védelmére és a titkosság védelmére szeretnék hivatkozni az e-szavazással összefüggésben, amely lehetővé teszi, hogy a fogyatékkal élők mint polgárok gyakorolják jogaikat. Másodszor, meg kell említenem a szellemi tulajdon védelmét a művészeti anyagokkal összefüggésben, amelyek könnyen továbbadhatók az interneten keresztül. Egy másik kérdés a gyermekek ártalmas tartalmaktól, például brutális jelenetektől és pornográfiától való, megfelelő szűrőkön és a szülők oktatásán keresztül történő védelmét érinti. A negyedik kérdés a gyermekek pedofiloktól és gyermekrablóktól való védelmének problémája, valamint az a lehetőség, hogy a bűnözőket fel lehet kutatni azon nyomok alapján, amelyeket az interneten hagytak, például egy pedofil címe, vagy mobiltelefonok használatával rögzített, majd az internetre feltett bűncselekmények alapján. Ha egy németországi fiatalember interneten tett kijelentéseit nem hagyták volna figyelmen kívül, áldozatai, nevezetesen az általa lelőtt tanulók és tanárok, ma is életben lennének. A következő kérdés, amely valójában a legfontosabb, a szólásszabadság tiszteletben tartására vonatkozik, és ebben az esetben a jogszabályokat éppúgy tiszteletben kell tartani mint minden más területen. E problémák némelyike új műszaki megoldásokat igényel. Gratulálok az előadónak!
+<SPEAKER ID="437" NAME="Ján Figeľ">
+a Bizottság tagja. - Elnök úr, szeretnék köszönetet mondani minden felszólalónak elkötelezett és érdekes hozzászólásaikért. Mindössze két kiegészítést szeretnék tenni ahhoz, amit az elején mondtam. Közös például az aggodalmunk a szellemi tulajdonjog és az ebben az esetben szükséges kiegyensúlyozott megközelítés vonatkozásában. Ez az információs társadalom általános fejlődése vagy alakulása szempontjából fontos. E tulajdonjogok érvényesítését megfelelő egyensúlyban kell tartani a jelentésben felsorolt alapvető szabadságokkal vagy jogokkal, beleértve a magánélethez való jogot, a személyes adatok védelmét és az információs társadalomban való részvétel jogát.
+<P>
+Önök közül sokan említették a gyermekeket - kiskorúakat -, azoknak a védelmét, akiket valószínűleg a leginkább érintenek ezek a kihívások, és ők naponta a számítógépek előtt ülnek. Ebben az esetben nemcsak ajánlom a partnereknek, a tagállamoknak és az intézményeknek, hanem határozottan felszólítom őket arra, hogy működjenek együtt a 2009-2013-as biztonságosabb internet programmal. Ehhez meglehetősen komoly költségvetés áll rendelkezésre. Már hoztak intézkedéseket a nem kívánatos vagy jogellenes tartalmakra vonatkozóan, de az ártalmas magatartás vagy viselkedés, például a már említett gyermekcsábítás vagy a durva bánásmód ellen is.
+<P>
+Számos kérdés van, de támogatom a kötelezettségvállaláson alapuló szigorú politikák végrehajtását, legyen az nemzeti vagy nemzetközi. Van a magánéletről és az elektronikus hírközlésről szóló irányelvünk, számos konkrét intézkedésünk vagy cselekvési tervünk, a létfontosságú infrastruktúrák védelmére vonatkozó európai programunk. Ezért mondtam, hogy nincs szükségünk több jogszabályra, hanem inkább a szükséges és megfelelő végrehajtásra, és azután természetesen további fejlődésre és javulásra. Valaki helyesen megemlítette a távközlési csomagot. A tegnapi háromoldalú megbeszélés a végső megállapodásra nagy reményt nyújt.
+<P>
+Azzal szeretném befejezni, hogy ezt az évet a kreativitás és az innováció európai évének nyilvánították, amelynek jelmondata: képzeld el, alkosd meg, újítsd meg! Tehát, lehet, hogy nem tudjuk elképzelni a világot internet nélkül, de fontos elképzelni és megalkotni és megújítani, hogy biztonságosabbá tegyük és közelebb hozzuk az emberiséghez és az emberi felelősséghez.
+<SPEAKER ID="438" NAME="Stavros Lambrinidis">
+, előadó. - Elnök úr, szeretnék köszönetet mondani a Bizottságnak. A tolmácsok életének megkönnyítése érdekében - mivel leírt szöveg nélkül beszélek - kivételesen angolul beszélek.
+<P>
+Tiszteletben tartom azok érzékenységét, akik aggódnak a szellemi tulajdon védelme miatt. Az a benyomásom azonban, hogy nem jó jelentés ellen vívnak harcot. Az én jelentésem nem egy egyetlen kérdésre irányuló jelentés; ez egy olyan jelentés, amely általánosságban beszél az alapvető jogok és a biztonság interneten történő védelméről, és valójában ezért kapott egyhangú támogatást.
+<P>
+Bár a jelentés hivatkozik a szellemi tulajdonjogokra, egyes felszólalásokat hallgatva azt gondolhatnánk, hogy teljesen figyelmen kívül hagyja azt. Engedjék meg, hogy felolvassak egy példát arra, hogy a jelentésben mennyire törekedtünk a kiegyensúlyozottságra. Az (1) bekezdés k) pontjában arra ösztönözzük a Tanácsot, hogy "folytassa a szellemi tulajdonjogok érvényesítését célzó büntetőjogi intézkedésekről szóló irányelv elfogadását, egy vizsgálatot követően, a jelenkori innovációs kutatás figyelembevételével, a szükséges és arányos mértékig”. Ezt tartalmazza a jelentés.
+<P>
+A módosításokról azonban minden elmondható, csak az nem, hogy kiegyensúlyozottak. Azokról a módosításokról, amelyek törlik azt, amit a jelentés követel - azaz függetlenül attól, hogy gyanúsított-e vagy sem, vétkes-e vagy sem, valamennyi felhasználó rendszeres felügyeletének tilalma - minden elmondható, csak az nem, hogy kiegyensúlyozottak. Arra szólítanak fel bennünket, hogy teljesen hagyjuk el az alapvető jogokat, hogy valami mást védjünk.
+<P>
+Másodszor, azok a módosítások, amelyek törlik vagy felhígítják a jelentés egy igen precíz és konkrét hivatkozását - hogy a vitatott politikai beszédet nem kell kriminalizálni - olyan módosítások, amelyeket ellenzek, és örülök, hogy e teremben sokan mások is így tesznek.
+<P>
+A politikai beszédet védeni kell, különösen akkor, ha vitatott. Ha ebben a teremben mindenki mindenkivel egyetértene, nem lenne szükségünk szólásszabadságról szóló jogszabályra. Ha ez nem így van - és különösen azoknak a beszédeknek a védelmében, amelyek különösen bosszanthatják a hozzám hasonlókat -, ezért vannak azok a jogszabályok. A jelentésnek ez a hivatkozása nem említ "bűnös” beszédet. "Vitatott politikai” beszédet említ. Ezért mindenkit arra ösztönzök, hogy különösen támogassa a jelentésnek ezt a bekezdését, és általánosságban támogassa a jelentést.
+<P>
+Nagyon hálás vagyok mindenkinek - még azoknak is, akik nem értenek velem egyet -, akik itt voltak ma éjszaka. Tudom, nem könnyű. Köszönöm a jelentés elkészítéséhez az ezekben a hónapokban nyújtott támogatást. Várom, hogy a jövőben együtt dolgozhassak Önökkel az Önök jelentésein, és azt, hogy hasonló megértést és támogatást nyújthassak.
+<SPEAKER ID="439" NAME="Elnök">
+- Köszönöm, képviselőtársaim. Köszönöm Mavrommatis úr véleményét, és külön köszönöm az előadónak, Lambrinidis úrnak a sikeres, fontos és érdekes jelentést.
+<P>
+A vitát lezárom.
+<P>
+A szavazásra 2009. március 26-án, csütörtökön kerül sor.
+<P>
+Írásbeli nyilatkozatok (az eljárási szabályzat 142. cikke)
+<SPEAKER ID="440" NAME="Neena Gill" AFFILIATION="PSE">
+írásban. - Gratulálok az előadónak jelentéséhez. Úgy gondolom, az internet számtalan módon befolyásolta az európaiak életét. Növelte az ismeretekhez való hozzáférésünket, segítette a bennünket körülvevő világ megértését, és erősítette a többi emberhez fűződő társadalmi kapcsolatainkat.
+<P>
+A választópolgárok azonban azt mondják, hogy aggódnak az internet veszélyei miatt. Figyelemreméltó technológia van a kezünkben, de a szabadság, amelyet biztosít számunkra, a bűnözőknek is meghagyta a szabadságot, hogy visszaéljenek a technológiával. E jelentés, az alapvető jogokra való összpontosítás terén mindent meg akar tenni annak érdekében, hogy biztonságossá tegye az internetet. A legutóbbi ülésen beszéltünk arról, hogy szükség van a gyermekpornográfia elleni küzdelemre. A szabadság és a biztonság közötti egyensúly megteremtésén keresztül azok a javaslatok, amelyekről ma szavaztunk, további elengedhetetlen eszközt jelentenek e fenyegetés elleni küzdelemben.
+<P>
+A jelentés az e-műveltség kérdést is felveti. Nem haladhatunk előre együtt mint társadalom, ha egyesek új szabadságainak támogatásával korlátozzuk azoknak a jogait, akik kevésbé jártasak az internet ismeretében. Örömmel vettük azokat az alapvető változásokat, amelyeket az internet dolgozott ki. Ahhoz, hogy még ennél is továbblépjünk, most éppen olyan készségesen a fókuszt át kell helyeznünk, és e forradalom negatív hatásaival kell foglalkoznunk.
+<SPEAKER ID="983" NAME="Daciana Octavia Sârbu" AFFILIATION="PSE">
+írásban. - (RO) Jól ismert, hogy az internetet egyre nehezebb ellenőrizni, de a tagállamok kormányainak prioritásai között kell szerepeltetni a magánélethez való alapvető jog interneten történő védelmét és annak biztosítását, hogy az internet biztonságosabb legyen.
+<P>
+Az internet használata számtalan előnnyel jár, de nem szabad elfelejtenünk a visszaélés veszélyét, amelynek egyes internet-felhasználók ki vannak téve.
+<P>
+E visszaélések korlátozása érdekében ezért az a feladatunk, hogy európai és tagállami szinten is meghatározzuk az adatvédelemre, a biztonságra és a szólásszabadságra vonatkozó előírásokat.
+<P>
+Másrészt, sürgős intézkedéseket kell hozni a számítógépes bűnözés leküzdése érdekében, és e kérdés esetében szeretném hangsúlyozni egy globális stratégia kidolgozásának jelentőségét.
+<P>
+Véleményem szerint a számítógépes bűnözés elleni küzdelemben a rendőrhatóságoknak, internetszolgáltatóknak, felhasználóknak és más érintett szereplőknek aktívan együtt kell működniük.
+<P>
+Végül el kell még mondanom, hogy biztosítani kell az oktatáshoz és az internet-hozzáféréshez való jogot, valamint az internetes szolgáltatásokat használók biztonságát és jogainak védelmét.

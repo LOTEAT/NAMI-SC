@@ -1,0 +1,6 @@
+<CHAPTER ID="005">
+Stemmingen
+<SPEAKER ID="093" NAME="De Voorzitter">
+Aan de orde zijn de stemmingen.
+<P>
+(Voor de uitslagen en andere bijzonderheden van de stemmingen: zie notulen)

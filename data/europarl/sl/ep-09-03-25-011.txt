@@ -1,0 +1,270 @@
+<CHAPTER ID="011">
+Okrepitev varnosti in temeljnih svoboščin na internetu (razprava) 
+<SPEAKER ID="415" NAME="Predsednik">
+- Naslednja točka je poročilo Stavrosa Lambrinidisa, v imenu Odbora za državljanske svoboščine, pravosodje in notranje zadeve, s predlogom priporočila Evropskega parlamenta Svetu o okrepitvi varnosti in temeljnih svoboščin na internetu.
+<SPEAKER ID="416" NAME="Stavros Lambrinidis">
+poročevalec. - (EL) Gospod predsednik, živimo v času, ko vsakdo - vlade, zasebna podjetja, celo kriminalci - skuša pridobiti čim večji dostop do naših elektronskih podatkov, do našega zasebnega življenja.
+<P>
+Zlasti internet omogoča dostop do podatkov o našem zasebnem življenju, kakršnega si pred leti ne bi mogli niti predstavljati. Ob tem pa je očitno tudi, da nam širi možnosti uveljavljanja temeljnih pravic, na primer svobode govora, svobode političnega delovanja, svobode informiranja in izobraževanja ter svobode združevanja.
+<P>
+Manj očitno pa je, da smo prav zaradi uporabe interneta izpostavljeni nevarnosti kršenja prav teh svoboščin, saj lahko vlade, zasebna podjetja ali celo kriminalci tajno nadzorujejo, kaj počnemo ali kaj iščemo na internetu. Zato je še manj jasno, kako lahko dosežemo ravnovesje, kako lahko uredimo internet, da nam bo ureditev omogočala izkoristiti prednosti interneta, obenem pa nas bo ščitila pred očitnimi nevarnostmi.
+<P>
+Moje poročilo poskuša odgovoriti na ta vprašanja. Med drugim:
+<P>
+prvič, poziva k evropski pobudi za oblikovanje svetovne listine temeljnih pravic na internetu,
+<P>
+drugič, opozarja na potrebo po učinkovitem, a sorazmernem boju proti starim in novim oblikam kibernetskega kriminala, kakršna je kraja identitete, in za zaščito intelektualne lastnine, ob tem pa poudarja, da zakonodaja ne sme uvesti sistematičnega nadzora vseh državljanov, sumljivih ali nesumljivih, nedolžnih in krivih, saj bi to seveda pomenilo grob vdor v njihovo zasebnost,
+<P>
+tretjič, glede pravice državljanov do dostopa do interneta poziva vlade, naj zagotovijo dostop najrevnejšim državljanom v najbolj oddaljenih regijah,
+<P>
+četrtič, poudarja, da bo računalniška nepismenost nova oblika nepismenosti 21. stoletja, tako kot je bilo v 20. stoletju neobvladanje branja in pisanja, zato je dostop do interneta temeljna pravica, enakovredna pravici do šolanja,
+<P>
+petič, poziva k ukrepom za omejevanje soglasja uporabnika, ki je pomembno vprašanje, ki bi ga rad podrobneje obdelal.
+<P>
+Vprašanje soglasja je izredno zapleteno in če ga ne bomo razrešili zdaj, nam bo povzročalo hude težave. Naj vam navedem primer: pred nekaj desetletji ni nihče vedel, kateri časopis berem, razen moje družine in morda nekaj prijateljev. Prav zato so se tajne službe - in to je veljalo še zlasti v diktaturah - trudile ta podatek odkriti in so ga vodile v kartotekah. Tako si je lahko tajna služba rekla, gospod Lambrinidis bere ta in ta časopis, torej mora biti komunist, oziroma mora biti privrženec Amerike. Danes ob vsakem branju časopisa pustim sled za seboj. To pomeni, da lahko zasebna podjetja sestavljajo enake "kartoteke", lahko sestavijo moj profil, ugotovijo, v katere politike verjamem, moje prehrambene navade ali celo moje zdravstveno stanje. Ali moji obiski takih spletnih strani pomenijo, da se strinjam s tem, da se družba vrne za 40 let nazaj?
+<P>
+Nujno moramo sprejeti razumne zakone, ki bodo zagotovili ravnovesje med bojem proti kriminalu in zaščito pravic v elektronski dobi. Ravnovesje je videti težavno, v resnici pa ni. Je dosegljivo. Prenehati moramo ravnati s kibernetskim prostorom, kot da je nekaj izven našega vsakdanjega življenja, nekaj ločenega. Kibernetski prostor je del našega življenja. To pomeni, da morajo vse pravice in omejitve, ki veljajo za policijo in zasebna podjetja v okviru interneta, veljati tudi zunaj njega, drugače tvegamo, da se bomo odrekli pravicam v korist varnosti, na koncu pa ostali brez pravic in brez prave varnosti.
+<P>
+Za zaključek bi rad izrazil svojo iskreno hvaležnost poročevalcem v senci iz vseh političnih skupin, ki jih vidim tu v dvorani, za njihovo precejšnjo pomoč. Moja zahvala tudi vsem poslancem iz Odbora za državljanske svoboščine, pravosodje in notranje zadeve za soglasno podporo, ki so jo poročilu naklonile vse stranke. Veselim se sprejema poročila na plenarnem zasedanju.
+<SPEAKER ID="417" NAME="Ján Figeľ">
+član Komisije. - Gospod predsednik, rad bi se zahvalil Parlamentu v celoti, še posebej pa gospodu Stavrosu Lambrinidisu, za koristno poročilo, ki pomeni prispevek k spodbujanju temeljnih svoboščin in varnosti na internetu ob pravem času.
+<P>
+Ob tem, ko ima internet vedno večjo težo v sodobni družbi in gospodarstvu in vpliv na vedno več področij našega življenja, razvoj tehnologije pa je vedno hitrejši, se soočamo z resnimi izzivi, na katere se moramo pravilno odzvati, da bomo lahko v celoti izkoristili priložnosti, ki jih odpirata internet in informacijska družba.
+<P>
+Zlasti se strinjamo s skrbjo gospoda Lambrinidisa glede zaščite osebnih podatkov, ki je za uporabnike interneta temeljnega pomena. Naj vam zagotovim, da si Komisija ves čas prizadeva krepiti temeljne pravice in svoboščine državljanov, zlasti pa zagotoviti visoko raven zaščite zasebnosti in osebnih podatkov, na internetu in v drugih okoljih.
+<P>
+Trdno sem prepričan, da se zagotavljanje ustrezne zaščite zasebnosti in potreba po večji varnosti ne izključujeta. To sta v resnici cilja, ki ju je mogoče in treba uresničevati v sinergiji.
+<P>
+Stabilnost in varnost interneta smo kot prednostni nalogi opredelili na vrhu o informacijski družbi leta 2005 in to sta še vedno naša cilja. Ta vprašanja bomo v kratkem obravnavali v novi strategiji za zaščito kritične informacijske infrastrukture in za okrepitev priprave Evrope na obrambo pred kibernetskimi napadi ter vdori velikega obsega. Strategija vključuje tudi akcijski načrt, v katerem je opredeljen časovni načrt spodbujanja načel in smernic za stabilnost in odpornost interneta.
+<P>
+V okviru strategije bomo oblikovali strateško sodelovanje s tretjimi državami, zlasti v obliki dialogov o informacijski družbi, s katerimi bomo utrjevali svetovno soglasje na tem področju. Ob tem pa je Komisija tudi prepričana, da je treba zagotoviti spoštovanje temeljnih svoboščin, kakršna je svoboda izražanja prek interneta.
+<P>
+Še enkrat, ta dva cilja se ne izključujeta. Vaše poročilo nadalje razpravlja o možnostih oblikovanja globalnih standardov, o zaščiti podatkov in svobodi govora. Komisija se udeležuje mednarodnih letnih konferenc komisarjev za zaščito podatkov in spremlja tekoče delo na možnih mednarodnih standardih o zasebnosti in zaščiti osebnih podatkov. Trdno smo zavezani uveljavljati visoke standarde zaščite, ki jih državljani EU uživajo sedaj.
+<P>
+Kar se tiče svobode govora, bo Komisija to temeljno pravico zagovarjala v mednarodnih forumih tudi v prihodnje. Zaenkrat ne razmišljamo o novi zakonodaji na tem področju. Glede teh vprašanj imamo že sedaj vrsto zavezujočih mednarodnih instrumentov. Menim, da bi bilo v tem trenutku koristno aktivno premisliti o pravilnih načinih izvrševanja obstoječe zakonodaje. Gre torej za izvajanje. Ta premislek bi moral zajeti tudi globalne akterje in jim pomagal bolje opredeliti vloge in odgovornosti pri spodbujanju in krepitvi temeljne pravice do izražanja prek globalnega spletnega okolja interneta.
+<P>
+Naj zaključim s splošno pripombo. Verjamem, da se moramo spopasti z resnimi izzivi, ki jih osvetljuje poročilo, in poskrbeti, da konkretno uveljavljanje pravic in svoboščin na internetu ne bo prekomerno omejeno.
+<P>
+Na primer, bistveni element strategije Komisije o varni informacijski družbi je od leta 2006 celovit pristop, ki zagotavlja koordinacijo med deležniki, a ob upoštevanju raznolikosti njihovih vlog in odgovornosti. Vsak od nas odgovarja za to, da njegova dejanja na internetu ne ogrožajo varnosti drugih uporabnikov medija - oziroma, da jo po možnosti celo krepijo.
+<P>
+Zato Komisija v duhu sodelovanja pozdravlja in podpira poročilo.
+<SPEAKER ID="418" NAME="Manolis Mavrommatis">
+pripravljavec mnenja Odbora za kulturo in izobraževanje. - (EL) Gospod predsednik, gospe in gospodje, najprej bi se rad zahvalil poročevalcu Stavrosu Lambrinidisu za koristno poročilo in za njegova prizadevanja za zaščito osebnih podatkov, to je za načelo, ki ga spoštuje večina od nas, vključno z menoj.
+<P>
+Kot pripravljavec mnenja Odbora za kulturo in izobraževanje menim, da je internet izjemno orodje za razširjanje kulture in znanja; na to opozarjam, da bi lahko čestital in se zahvalil svojim spoštovanim prijateljem v Odboru za kulturo in izobraževanje, ki so glasovali za moje mnenje.
+<P>
+Viri, kakršni so na primer digitalni muzejski arhivi, elektronske knjige, glasbena in avdiovizualna gradiva, so lahko dostopni ljudem na vseh koncih sveta. Na žalost pa v prostranem svetu kibernetskega prostora kulturna gradiva niso ustrezno zaščitena. Piratstvo je bolj pravilo kot izjema, avtorji pa so na izgubi zaradi nezakonite distribucije njihove intelektualne lastnine. Z drugimi besedami, pesniki, pisci besedil in skladatelji, producenti in vsi drugi ustvarjalci na splošno.
+<P>
+Tri stvari prispevajo k širjenju piratstva: tehnološka oprema in nizki stroški kopiranja, neugodne gospodarske razmere in razširjenost interneta.
+<P>
+Sprememba 4 obnavlja priporočilo Odbora za kulturo, naj se vzpostavi primerno ravnovesje med pravicami in svoboščinami vseh udeležencev ter temeljnimi pravicami posameznikov, na podlagi Listine Evropske unije o temeljnih pravicah, ki jih je treba varovati in zaščititi v okviru široke rabe interneta.
+<P>
+Zato podpiramo to spremembo, ki nas ponovno opozarja, da so temeljne pravice enako dragocene za vse in da morajo biti tudi zaščitene na enak način za vse.
+<SPEAKER ID="419" NAME="Nicolae Vlad Popa">
+v imenu skupine PPE-DE. - (RO) Poročilo je plod sodelovanja med člani naše zbornice. Zato bi se rad zahvalil kolegom poslancem, zlasti gospodu Lambrinidisu, pa tudi gospe Gacek, gospodu Alvaru, gospe Segelström in gospodu Mavrommatisu, s katerimi sem imel veselje sodelovati, tudi kot poročevalec v senci.
+<P>
+Menim, da poročilo zajema glavna vprašanja, ki zadevajo krepitev varnosti in temeljnih človekovih pravic na internetu, ob navedbi ureditve zaščite pravic v različnih veljavnih področnih uredbah, tudi njihove digitalne razsežnosti, in navedbi novih načel upravljanja interneta ter njihovega razvoja.
+<P>
+Besedilo ohranja primerno ravnovesje med zaščito svobode izražanja ter zaščito zasebnosti in nadaljnjo borbo proti kibernetskem kriminalu, opozarja pa tudi na glavni problem, pretirani nadzor dogajanj na internetu, ki se lahko izrodi v novo obliko cenzure.
+<P>
+Poročilo obravnava tudi vprašanja, povezana z izobraževalnim vidikom interneta, e-učenjem, opredelitvijo digitalne identitete in spoštovanjem uporabnikovih pravic v zvezi z vsebinami, ki jih je objavil na internetu, pa tudi z zaščito podatkov osebne narave v smislu možnosti uporabnikov, da lahko trajno izbrišejo vsebine, ki so jih objavili.
+<P>
+To so v trenutnem ozračju, ko mladi, a ne le mladi, vedno bolj množično uporabljajo družbena omrežja, občutljiva vprašanja. Zato sem tudi pozval kolege poslance, naj s polnim prepričanjem glasujejo za to poročilo.
+<SPEAKER ID="420" NAME="Inger Segelström" LANGUAGE="SV">
+Gospod predsednik, rada bi začela z zahvalo gospodu Lambrinidisu in vsem drugim v Odboru za državljanske svoboščine, pravosodje in notranje zadeve, ki imajo zasluge, da je poročilo tako konstruktivno in premišljeno. Prav tako bi se rada zahvalila za podporo spremembam, ki sem jih predložila. To je podpora krepitvi pravic uporabnikov in potrošnikov.
+<P>
+Poglavje o uporabi tehnologije - na primer za nadzor prometa na internetu - je zelo pomembno. Prav je, da Parlament odločno poudarja, da imajo zasebnost in človekove pravice državljanov prednost.
+<P>
+Poročilo jasno ugotavlja, da je promet na internetu dovoljeno nadzorovati le ob sumu zločina ali v okviru sodnega postopka, na podlagi odločbe sodišča. To bo pomembna podlaga za nadzor spoštovanja državljanskih pravic. Ukrepi, ki jih predlaga poročilo, niso niti za trenutek prezgodnji.
+<P>
+Presenečena sem nad spremembami, ki so jih predložili člani Skupine Evropske ljudske stranke (Krščanskih demokratov) in Evropskih demokratov ter Skupine zavezništva liberalcev in demokratov za Evropo. Njihovi predlogi posegajo v državljanske svoboščine in zasebnost državljanov. Niso dovolj kritično pretehtali, kaj nam lahko prinese tehnični napredek, če ne bomo pazljivi.
+<P>
+Seveda se je treba boriti proti kriminalu na internetu in kriminalu, ki zlorablja otroke in mladino. Pri tem pa je ključno na primer dejstvo, da je konzervativna švedska vlada sprejela tako imenovani "zakon FRA", to je zakon, ki predvideva nadzor državljanov, ki niso kriminalci in niso zagrešili nobenega zločina; moralo pa bi biti obratno - državljani bi morali nadzorovati nas. Poročilo pomeni ostro kritiko konzervativne švedske vlade, ki je zakon FRA sprejela navkljub vsem domačim kritikam. Švedski organi imajo zdaj pravico nadzorovati promet na internetu tudi v primerih, kjer ni nikakršnega suma zločina ali groženj varnosti posameznika ali družbe.
+<P>
+Predvidevam, da bo po našem jutrišnjem sklepu švedska vlada zakon še enkrat pretehtala in poskrbela za njegovo spremembo. Drugače bo delovala v nasprotju z Evropskim parlamentom in izvoljenimi predstavniki 27 držav članic EU.
+<SPEAKER ID="421" NAME="Alexander Alvaro">
+v imenu skupine ALDE. - (DE) Gospod predsednik, rad bi začel s čestitko gospodu Lambrinidisu za dobro opravljeno delo. V sestavljanje poročila je polno vključil vse poročevalce v senci in dal vse od sebe, da je dosegel potrebne kompromise.
+<P>
+Poročilo, ki obravnava pomembna vprašanja informacijske družbe, je pomemben korak naprej pri ustvarjanju interneta, ki bo našim državljanom jamčil tako varnost kot temeljne svoboščine. Meje med svobodo in varnostjo se ne nehajo na mejah virtualnega sveta. V svojem poročilu je zajel boj proti kibernetskem kriminalu, otroško pornografijo, krajo identitete in goljufije, pa tudi kršenje avtorskih pravic. Poskusil je vključiti Europol, jasno pa trdi tudi, da morajo zakoni, veljavni v fizičnem svetu, veljati tudi v virtualnem svetu.
+<P>
+Obenem pa mu je uspelo zagotoviti ravnovesje med zaščito državljanskih pravic, svobodo izražanja, zaščito podatkov in pravico do popolnega brisanja podatkov z interneta. Zaenkrat internet še ne pozablja. Nekateri med nami smo lahko veseli, da interneta še ni bilo, ko smo bili stari 13, 14, 15 ali 16 let, ko smo se vdajali grehom mladosti, ki jih danes ne bi želeli imeti dokumentiranih na YouTube ali Facebooku.
+<P>
+Poročilo poudarja potrebo po dostopu do podatkov in še bolj pomembno potrebo po dostopu do interneta, pa tudi zaščito intelektualne lastnine. Zavedam se, da po mnenju številnih poslancev poročilo ne gre dovolj daleč pri zaščiti intelektualne lastnine in avtorskih pravic. S tem se ukvarjajmo in ta stališča izrazimo v okviru direktive o uveljavljanju pravic intelektualne lastnine.
+<P>
+Poročilo jasno pove, da sta cenzura interneta ali omejevanje dostopa do omrežja, ki ju načrtujejo ali so ju že uvedle nekatere države članice, ukrepa, ki ne spadata v našo razsvetljeno družbo, jasno pa pove tudi, da Evropska unija ne namerava slediti zgledom totalitarnih držav in odrezati svojih državljanov od informacij ali jih informirati selektivno, po lastni presoji.
+<P>
+Vesel sem tega uravnoteženega poročila, ki upošteva potrebe informacijske družbe, in vesel bom, če bodo moja in vse druge skupine jutri poročilu naklonile čim širšo podporo, da bomo lahko razvijali internet v korist družbe.
+<SPEAKER ID="422" NAME="Roberta Angelilli">
+v imenu skupine UEN. - (IT) Gospod predsednik, gospe in gospodje, to so povedali že drugi poslanci, ampak rada bi ponovila, da interneta ne bi smeli kriminalizirati ali cenzurirati, saj omogoča komunikacijo, socializacijo, informiranje in pridobivanje znanja, seveda pa moramo oblikovati globalno strategijo za boj proti kibernetskemu kriminalu.
+<P>
+Zlasti moramo zaščititi otroke in poučiti ter informirati starše in učitelje o novih možnih nevarnostih na spletu. To so cilji, ki jih mora učinkovito uresničiti Evropa in rada bi čestitala poročevalcu za dobro opravljeno delo.
+<P>
+Kljub vsem kaznim in precej visoki ravni zaščite proti spletni zlorabi in spolnemu izkoriščanju otrok ter otroški pornografiji, ki jo zagotavlja zakonodaja držav članic, moramo merila zaščite otrok še zaostriti, navsezadnje tudi zaradi neprestanega razvoja novih tehnologij, zlasti interneta, ter vedno novih oblik spletne psihološke manipulacije otrok za spolne namene, ki jih uporabljajo pedofili.
+<P>
+Prav zato sem se odločila predložiti spremembo, ki izrecno poziva države članice, naj posodobijo svoje zakonodaje o uporabi interneta med mladoletniki, zlasti naj opredelijo kot kaznivo dejanje psihološko manipulacijo otrok za spolne namene, kot ga opredeljuje Konvencija Evropskega sveta o zaščiti otrok pred spolnim izkoriščanjem in spolno zlorabo iz leta 2007.
+<SPEAKER ID="423" NAME="Eva-Britt Svensson" LANGUAGE="SV">
+Gospod predsednik, rada bi se najlepše zahvalila gospodu Lambrinidisu, saj mu je uspelo združiti spoštovanje varnosti na internetu s spoštovanjem in zaščito neprecenljivih temeljnih pravic. Menim, da bo spoštovanje temeljnih pravic, kot ga opredeljuje to poročilo, naletelo na podporo tudi pri našem sklepanju o svežnju telekomunikacij. Povezava med tem poročilom in svežnjem telekomunikacij je jasna. Upam, da se bomo tudi takrat strinjali glede pomena zaščite državljanskih svoboščin.
+<P>
+Kot je reklo že nekaj poslancev, nam je internet zelo razširil možnosti za uveljavljanje svobode izražanja. Državljani, ki običajno nimajo dostopa do forumov za razprave v velikih medijih, lahko prek interneta pretresajo vprašanja in izražajo mnenja. Internet je nov prostor za izmenjavo mnenj, in tak prostor nujno rabimo tudi za politično mobilizacijo. Državljanom odpira boljše možnosti nadzora nosilcev odločanja. Pomembno je, da imajo državljani možnost nadzirati zakonodajalce in druge nosilce oblasti. Internet omogoča širjenje znanja. Predvsem pa nam odpira možnosti izmenjave in stikov med ljudmi iz različnih kultur in delov sveta.
+<P>
+Ko razpravljamo o tem vprašanju, moramo poskrbeti za resnično svobodo izražanja in za jamstva proti cenzuri ter npr. nadzoru nad mnenji, informacijami in oblikovanjem mnenj. Temeljne človekove pravice, svoboda izražanja in zasebnost so pomembni gradniki demokracije in jih moramo neprestano ščititi in spoštovati. Internet je zato pomemben dejavnik naše sodobne demokratične družbe in tak mora ostati tudi v prihodnje.
+<P>
+Zato vas prosim, da glasujete proti 5. spremembi, ki zahteva umik besedila "zagotovi naj, da se ne bo kazensko preganjalo izražanja spornih političnih prepričanj prek interneta". Sprejem te spremembe bi pomenil nazadovanje za demokracijo. Kdo odloča, katera politična prepričanja so sporna? Izražanje različnih političnih stališč spada med demokratične pravice.
+<P>
+Pravica uporabnikov interneta do trajnega brisanja osebnih podatkov na spletnih straneh je prav tako pomembna. Seveda se moramo boriti proti kriminalu na internetu, tako kot proti vsem drugim oblikam kriminala, ampak ta boj mora potekati na pravno nesporen način v skladu s kazensko zakonodajo, tako kot pri vseh oblikah kriminala.
+<P>
+Zlasti huda oblika kriminala na internetu je kriminal nad otroki. Glede tega se ravnamo po Konvenciji Evropskega sveta o zaščiti otrok pred spolnim izkoriščanjem in spolno zlorabo. Kriminal pa zadeva tudi druge skupine. V mislih imam zlasti ženske, žrtve trgovine s spolnimi sužnjami. Sodobna spolna industrija uporablja internet in spolno nasilje nad množico žensk in otrok. Ob tem bi rada kolege poslance spomnila na to, da lahko podprejo pisno deklaracijo o odpravi tega nasilja, to je deklaracijo št. 94.
+<P>
+Na koncu bi rada omenila še nevarnost, ki jo opažamo v zvezi s tako imenovano vojno proti terorizmu. V tej vojni se vlade občasno zatekajo k nesorazmernim omejitvam svobode izražanja in zasebnosti posameznika. Take omenitve pomenijo za državljane varnostno tveganje. Varnostne službe raznih držav si izmenjujejo osebne podatke, ki jih pridobijo z nadzorom interneta. To pa lahko ogrozi tudi življenja ljudi, na primer, kadar mora človek zbežati iz domovine zaradi političnega zatiranja. Pozivam vas, da jutri podprete poročilo v čim večjem številu.
+<SPEAKER ID="424" NAME="Hélène Goudin">
+v imenu skupine IND/DEM. - (SV) Gospod predsednik, vsak dan znova me prevzame, kako sijajno orodje je internet, vendar moramo upoštevati, ne glede na morebitno drugačno mnenje EU, da je internet svetovno omrežje računalnikov, ne evropsko. Verjeti, da lahko to spremenimo z odredbo iz Bruslja ali Strasbourga, je nezaslišano in precejšen odmik od resničnosti. Utemeljeno bi lahko trdili, da EU ni pravi forum za reševanje problemov, kakršne obravnava poročilo. Naj vam navedem nekaj primerov. Poročilo primerja pravico dostopa do interneta s pravico do šolanja. To je rahlo krepka trditev, saj vemo, da pravica do šolanja oziroma možnost šolanja v vrsti držav EU ni samoumevna.
+<P>
+Zaščita in spodbujanje pravic posameznikov na internetu in ravnovesje med zasebnostjo in varnostjo so izredno pomembna vprašanja, ampak tudi ta vprašanja niso take vrste, ki se rešujejo na ravni EU. To je mednarodni problem, ki ga je treba reševati predvsem na mednarodni ravni.
+<P>
+Druga zadeva, ki mi je blizu, je izmenjava datotek. Glede tega poročilo nujno poziva k uporabi običajnih kazenskih ukrepov za zaščito pravic intelektualne lastnine. Trdno sem prepričana, da je odločanje, kaj je kaznivo dejanje in kakšne posledice, če sploh kakšne, naj ima, stvar držav članic. Da bi se EU zgledovala po glasbeni in filmski industriji, se mi zdi nesprejemljivo, zlasti zato, ker bi bil to poskus kriminalizacije celotne generacije.
+<P>
+Na koncu bi rada še rekla, da bo vsak poskus zakonske ureditve teh področij zelo težaven, saj se tehnologija spreminja mnogo hitreje kot politika.
+<SPEAKER ID="425" NAME="Urszula Gacek" AFFILIATION="PPE-DE">
+Gospod predsednik, rada bi se zahvalila poročevalcu, ker je upošteval moj predlog, da bi bilo treba proizvajalce računalniške programske opreme spodbujati k dodatnim ukrepom za omejevanje dostopa do spletnih strani s pornografijo in nasiljem.
+<P>
+Ta zadeva je izredno pomembna za starše. Dejstvo je, da so naši otroci običajno bolj računalniško pismeni od nas. Starši se morda megleno zavedajo, da lahko aktivirajo filtre v spletnih brskalnikih, aktiviranje pa zahteva vsaj določeno raven poznavanja brskalnika, pa tudi zavestno odločitev za aktiviranje.
+<P>
+Če pa bi bil filter že tovarniško nameščen v aktiviranem stanju, bi bilo verjetno mnogo več otrok - tudi najmlajših, ki vedno bolj množično uporabljajo internet brez nadzora - zaščitenih pred naključnimi obiski spletnih strani, ki imajo lahko škodljiv vpliv nanje. Apeliram na proizvajalce, naj upoštevajo naš predlog. Tega ne bi smeli smatrati za vmešavanje ali omejevanje, pač pa za tržno priložnost. Če bi imela v trgovini na izbiro dva primerljiva računalnika, na enem od njiju pa bi bila nalepka, da je prijazen do otrok, ki bi potrjevala, da ima že tovarniško nameščen filter, bi kot mati izbrala ta računalnik. Sčasoma bi starši s tako izbiro poskrbeli, da bi nameščeni filtri postali industrijski standard. Iskreno upam, da nam bo to uspelo v sodelovanju z industrijo.
+<SPEAKER ID="426" NAME="Alin Lucian Antochi" LANGUAGE="RO">
+Internet je zdaj vstopil v novo fazo, saj ne velja več le za nujno orodje v poslovnem življenju, pač pa tudi za svetovni forum za izražanje mnenj.
+<P>
+Mnenja o tem razvoju pa so deljena. Na eni strani internet odpira neverjetne možnosti in deluje kot katalizator napredka v izobraževanju, kulturi, gospodarstvu in družbi, na drugi strani pa gledamo nanj kot na okolje, ki ga je mogoče zlorabiti za spodbujanje nasilnega vedenja, kar lahko škoduje svobodi in varnosti ljudi.
+<P>
+Poleg tega je zaradi svoje globalne narave internet postal tudi grožnja zasebnosti, saj dejavnosti državljana na internetu pogosto nadzirajo vladne službe, policija, podjetja in celo kriminalci in teroristi, včasih pa je posledica takega nadzora tudi kraja identitete.
+<P>
+V takih razmerah moramo opredeliti pravno ločnico med zaščito varnosti državljana in temeljnih svoboščin na internetu ter pravico do neomejenega nadzora s strani različnih pooblaščenih organov, da bo zakonodaja v zvezi z bojem proti kriminalu učinkovita, ne pa nesorazmerna. Zato moramo v sodelovanju z internetnimi ponudniki in uporabniki interneta opredeliti globalne standarde zaščite podatkov, varnosti in svobode izražanja.
+<P>
+Nujno je tudi, in glede tega v celoti podpiram poročevalca, preučiti in ugotoviti omejitev soglasja, ki ga lahko od uporabnika zahtevajo vladni organi ali podjetja, glede tega, kolikšen del svoje zasebnosti naj razkrije, da bi lahko uporabljal določene internetne storitve ali druge ugodnosti.
+<P>
+Nenazadnje, gospod predsednik, pa sem prepričan, da morajo države članice poskrbeti za uskladitev svojih zakonodaj z zahtevami zaščite temeljnih pravic na internetu, saj nam bo to lahko pomagalo tudi pri oblikovanju skupne strategije za boj proti kibernetskemu kriminalu in terorizmu.
+<P>
+Čestital bi rad gospodu Lambrinidisu in celotni skupini, ki je sodelovala pri sestavljanju tega poročila.
+<SPEAKER ID="427" NAME="Sophia in 't Veld" AFFILIATION="ALDE">
+- (NL) Gospod predsednik, rada bi se pridružila čestitkam poročevalcu, ki je sestavil sijajno poročilo. Naj na kratko poudarim nekaj točk.
+<P>
+Prvič, v zadnjih letih smo priče skokovitemu naraščanju obsega zbiranja osebnih podatkov v podjetjih in v organih oblasti. Vlade uporabljajo baze podatkov podjetij, še vedno pa se ravni zaščite, predpisane za prvi in za tretji steber, razlikujejo - kar se mi zdi izredno zaskrbljujoče.
+<P>
+Druga točka - in vesela sem, da je bila moja sprememba sprejeta - pa je, da tudi kriminalci na vse možne načine izrabljajo prednosti interneta. Skrajno zaskrbljujoče je širjenje kraj identitete, zato moramo od Evropske komisije zahtevati, naj vzpostavi kontaktno točko za te kraje - ne le za izmenjavo informacij, pač pa tudi v korist žrtvam.
+<P>
+Tretjič, resnično potrebujemo globalne standarde. Njihov razvoj teče, vendar je treba take standarde sestaviti v odprtem demokratičnem postopku, ne pa s pogajanji med uradniki Evropske komisije in uradniki vlade združenih držav.
+<P>
+Na koncu, ob tem, ko ima Evropska komisija pogosto na jeziku lepe besede o svoboščinah in državljanskih pravicah, sem opazila, da je v zadnjih letih pod vodstvom komisarja Frattinija, pa tudi ob pomoči Sveta, sprejela nešteto ukrepov, ki omogočajo neprekinjeno vohunjenje za državljani in omejevanje njihovih svoboščin. Skrajni čas je, da ocenimo, kaj se dogaja in kakšne bodo posledice. Zato bi rada zaključila s predlogom Komisiji: nujno jo pozivam, naj v naslednjem mandatu imenuje posebnega komisarja za državljanske pravice in svoboščine.
+<SPEAKER ID="428" NAME="Predsednik">
+- Gospe in't Veld sem dovolil govoriti nekoliko dlje, ker ima na Twitterju 400 privržencev. Jaz jih imam samo devet. Zdaj že štiristo petdeset.
+<SPEAKER ID="429" NAME="Jean-Paul Gauzès" AFFILIATION="PPE-DE">
+- (FR) Gospod predsednik, komisar, gospe in gospodje, govorim v imenu našega kolega gospoda Toubona.
+<P>
+Najprej bi se rad zahvalil gospodu Popi, ki se je sijajno potrudil pri iskanju kompromisa, sprejemljivega za nas vse, ob skrajnih stališčih, ki jih imajo o tem vprašanju nekateri člani Skupine socialdemokratov v Evropskem parlamentu in Skupine Zelenih/Evropske svobodne zveze.
+<P>
+Poročilo odpira pomembno vprašanje vzpostavitve ravnovesja med varnostjo in temeljnimi svoboščinami na internetu. Res je, večina med nami to novo tehnologijo enači z napredkom in novimi možnostmi, prinaša pa tudi tveganja. Na primer, nujno je zagotoviti svobodo izražanja in pretoka informacij v tem novem mediju, ob tem pa moramo zagotoviti tudi spoštovanje drugih temeljnih svoboščin, na primer zaščite zasebnega življenja in osebnih podatkov ter zaščite intelektualne lastnine.
+<P>
+Poročevalec, gospod Lambrinidis, ki je opravil sijajno delo, je upošteval nove vrste kriminala na internetu in nevarnosti, ki jih pomenijo, zlasti za otroke. Na žalost je poročilo bolj nedorečeno in celo nevarno na drugih področjih.
+<P>
+Namen sprememb, ki so jih predložili gospa Hieronymi, gospod Mavrommatis in gospod Toubon, je jasno povedati, da v imenu svobode izražanja in pravice do informacij ne bi smeli podpirati napadov na temeljne svoboščine.
+<P>
+Državam članicam in ponudnikom interneta bi morali pustiti nekaj manevrskega prostora, da bi lahko sami poiskali najboljše rešitve, ki bi poskrbele, da pravice nekaterih ne bi mogle popolnoma onemogočiti uveljavljanja pravic drugim. Na internetu morajo veljati zakoni prav tako kot na vseh drugih področjih. Internet ne more biti virtualen prostor, kjer dejanje, ki pomeni kršitev v stvarnem svetu, velja za sprejemljivo ali pa celo uživa zaščito preprosto zaradi uporabljene tehnologije ali načina njene uporabe. Na kocki je vladavina prava v naših demokratičnih družbah.
+<SPEAKER ID="430" NAME="Manuel Medina Ortega" AFFILIATION="PSE">
+- (ES) Gospod predsednik, rad bi čestital svojemu kolegu poslancu in prijatelju gospodu Lambrinidisu za njegovo poročilo, pa tudi za zelo uravnoteženo ustno razlago ciljev, ki jih skuša doseči s poročilom.
+<P>
+S seboj imam knjigo z naslovom Pogodba o Ustavi za Evropo. To knjigo je odobrilo 90 % španskih volivcev in večina parlamentov držav, iz katerih prihajamo poslanci Evropskega parlamenta.
+<P>
+Ni še v veljavi zaradi nekaterih težav politične narave, vendar gre za ključno besedilo, saj vključuje - in osebno smatram to za mandat, ki so mi ga zaupali moji volivci - Listino Evropske unije o temeljnih pravicah. Prepričan sem, da ta listina združuje načela, ki jih je predstavil gospod Lambrinidis v svojem poročilu.
+<P>
+Prvič, internet je prostor svobode, sodobnosti in enakih možnosti, kjer ljudje komunicirajo med seboj, se družijo in informirajo eden drugega, izmenjujejo ideje in znanje. To pravico zagotavlja člen II-71 Pogodbe o Ustavi za Evropo.
+<P>
+Drugič, internet naj ščiti svobodo in razvoj informacijske družbe na način, ki je združljiv s spoštovanjem intelektualne lastnine in zaščito zasebnosti uporabnika. Pravice zasebne lastnine in uporabnikovo pravico do zasebnosti zagotavlja člen II-77 osnutka evropske ustave.
+<P>
+Tretjič, zagotoviti moramo ustrezno ravnotežje med zaščito pravic, spodbujanjem ponudbe vsebin in zakonitim trgom vsebin interneta ter razvojem, odprtim za nove modele poslovanja na internetu. Opraviti imamo tudi z zaščito osebnih podatkov, ki jo zagotavlja člen II-68 osnutka ustave.
+<P>
+Zato sem prepričan, da poročilo gospoda Lambrinidisa ustrezno zajema ta vprašanja. Seveda se ne ukvarja podrobno s pogoji, zahtevami, posledicami in kaznimi za neustrezno uporabo interneta, prepričan pa sem, da je to tematika za zakonodajni dokument, ki pa ni predmet trenutne razprave.
+<SPEAKER ID="431" NAME="Claire Gibault" AFFILIATION="ALDE">
+- (FR) Gospod predsednik, komisar, gospe in gospodje, kot umetnico me žalosti, hudo šokira, šibko zanimanje kulturne srenje za poročilo gospoda Lambrinidisa.
+<P>
+Poudarila bi rada, da bi morali neprenehoma varovati in ščititi posameznikove pravice kot celoto, v skladu z Listino Evropske unije o temeljnih pravicah, in jamčiti pravice in svoboščine vsem udeležencem. Informacijska družba je vedno bolj pomembna gospodarska panoga, pa tudi glavni vir inovacij in ustvarjalnosti, na katerih temelji sodobno gospodarstvo.
+<P>
+To med drugim pomeni, da je treba dostop vseh do kulture in izobraževanja zagotoviti ob spoštovanju pravnega reda Skupnosti in da je treba ustrezno vrednotiti ustvarjalno delo avtorjev in izvajalcev tudi v digitalnem gospodarstvu. To vrednotenje pa pomeni tudi plačilo za vse vrste uporabe njihovega ustvarjalnega prispevka, da se bodo lahko s svojim delom preživljali in da se mu bodo lahko v celoti posvetili.
+<P>
+V tem smislu pravic intelektualne lastnine ne smemo smatrati za oviro, pač pa za gonilo ustvarjalnih dejavnosti, zlasti pri razvoju novih spletnih storitev.
+<P>
+Na drugi strani pa sem prepričana, da je treba tudi na internetu preganjati rasistični, sovražni ali revizionistični govor. Svobodo izražanja je treba uveljavljati odgovorno. Doseči moramo pravo ravnovesje med svobodo dostopa do interneta, spoštovanjem zasebnosti in zaščito intelektualne lastnine. Zato vas, gospe in gospodje, pozivam, da podprete moje spremembe 2 do 6.
+<SPEAKER ID="432" NAME="Marie Panayotopoulos-Cassiotou" AFFILIATION="PPE-DE">
+- (EL) Gospod predsednik, skoraj v navado nam je že prišlo, da na vsakem plenarnem zasedanju obravnavamo poročilo o internetu. To je dobro, saj nudi državam članicam in Evropski uniji priložnost, da se končno lahko učinkovito lotijo vprašanj v zvezi z uporabo interneta. Čestitam spoštovanemu prijatelju Lambrinidisu za njegovo odločitev za sprejem sprememb poslancev v svoje zelo obsežno poročilo in s tem razširitev razprave še na nekatere nove razsežnosti.
+<P>
+Nazadnje je Parlament obravnaval vprašanja v zvezi z video igrami na internetu in nevarnostmi za mladoletnike ter o finančnih mehanizmih Evropske unije za internet, varen za mladoletnike. Po današnji razpravi sem še bolj prepričana, da gre navsezadnje pri vsem skupaj predvsem za pravni pristop.
+<P>
+Zato menim, da je vse, kar lahko zahtevamo, zgolj pravna študija različnih vprašanj, povezanih z uporabo interneta. Poročilo bo lahko zato služilo kot katalog, ki ga morajo podrobno preučiti pravni strokovnjaki, ki bodo nato s svojo raziskavo zagotovili različnim deležnikom, omenjenim v poročilu, orodja za oblikovanje zakonodaje za demokratično zaščito načela pravne države na področju uporabe interneta. Seveda ne moremo govoriti o demokraciji v razmerah, kjer vsak državljan nima pravice do uporabe interneta ne glede na svoje gmotne razmere. Danes še ni tako, upamo pa, da nekega dne bo.
+<SPEAKER ID="433" NAME="Katrin Saks" AFFILIATION="PSE">
+- (ET) Gospe in gospodje, ali si lahko predstavljate življenje brez interneta? Jaz osebno si ga ne morem več. Prihajam iz Estonije, ki je glede dostopnosti interneta vodilna država na svetu. Verjetno imamo prav zato tudi več izkušenj z nevarnostmi interneta, od kibernetske vojne, katere tarča je bila naša država pred dvema letoma, do tega, da so po mednarodni raziskavi naši otroci bolj izpostavljeni kibernetskemu preganjanju kot otroci v mnogih drugih državah.
+<P>
+Z vrsto poročil, ki jih je sprejel v zadnjih letih, Evropski parlament pravzaprav išče odgovor na vprašanje:"Kaj je internet?" Danes bi bilo bolj na mestu vprašanje, ali je svet interneta poseben svet - virtualni svet - ki ni del stvarnega življenja, ali pa je del javne sfere. Tudi o tem razpravlja gospod Lambrinidis v svojem poročilu in pravi, da je naša glavna naloga poiskati primerno ravnovesje med zasebnostjo in varnostjo.
+<P>
+Ob vsaki omembi omejitev svoboščin na internetu se takoj spomnimo na svobodo izražanja - svoboda izražanja je pravica do širjenja idej, mnenj, prepričanj in drugih informacij, povezana pa je tudi z odgovornostjo. Rada bi se zahvalila poročevalcu in upam, da bomo vsi zbrali dovolj moči za odgovor na vprašanje: kaj je internet, ali ga je mogoče zakonsko urediti, in če je to mogoče, kako naj se tega lotimo? Ker je internet eden od najočitnejših simbolov globalizacije, se moramo te tematike lotevati tudi na mednarodni ravni.
+<SPEAKER ID="434" NAME="Filiz Hakaeva Hjusmenova" AFFILIATION="ALDE">
+- (BG) Gospe in gospodje, vsebina poročila v celoti ustreza njegovemu naslovu. Poročilo zajema pravice iz Listine Evropske unije o temeljnih pravicah in Konvencije ZN o pravicah otrok, cilj poročila pa je zaščita otrok pred kriminalom. Čestitke poročevalcu.
+<P>
+Internet je svet, v katerem najdemo tudi stvari, ki niso izrecno opredeljene kot kršitve pravic in svoboščin ali zločini proti njim. Namesto možnosti izražanja, pridobivanja informacij in družbenih stikov pogosto srečamo popolna nasprotja takih možnosti. Internet nudi plodna tla za izigravanje predpisov in neprimerno izražanje brez vseh zadržkov.
+<P>
+V razmerah, ki omogočajo anonimno in nenadzorovano delovanje, pogosto naletimo na neodgovorno izbiro in uporabo jezikovnih pojmov in izrazov. Ti izrazi so pogosto prežeti z žargonom, cinizmom ali celo prostaštvom. Počasi se razvijajo v jezik nezaupanja in sovraštva in prehajajo v dnevno rabo, služijo kot zgled za posnemanje in ustvarjajo določen pogled na svet.
+<P>
+Tak jezik ne prispeva k socialnemu, duhovnemu in moralnemu razvoju otroka in ga ne usmerja h kulturi in vrednotam. Zato bi rada posebej opozorila, da potrebujemo posebno analizo jezika, ki se uporablja na internetu, in njegovega vpliva na osebni razvoj otroka.
+<SPEAKER ID="435" NAME="Csaba Sógor" AFFILIATION="PPE-DE">
+Gospod predsednik, spadam med zagovornike svobode interneta. Ustvarjalci interneta so trdno verjeli v dobro človeštva, in to vero delim z njimi. Na žalost tudi pri internetu, tako kot v vseh drugih razsežnostih človeške družbe, pogosto ugotovimo, da je treba z zakonsko ureditvijo zaščititi tiste, ki se ne morejo zaščititi sami. Varnost posameznika je temeljna pravica, podobno kot svoboda govora in svoboda izražanja.
+<P>
+Sramotne pojave, kakršne so otroška pornografija in pedofilija, pa tudi goljufije prek interneta, moramo ustaviti. Ne smemo mirno prenašati internetnih roparjev kakršne koli vrste, ob razpravi o tej zelo pomembni temi pa bi vas rad opozoril še na en pojav, o katerem razpravljamo mnogo manj: internet je prav tako poln spletnih strani, ki spodbujajo k sovraštvu, nasilju in nestrpnosti do manjšin vseh vrst, tudi etničnih manjšin. Tudi tej razsežnosti interneta moramo posvetiti svojo pozornost. Poskrbeti moramo, da se bodo tudi manjšine počutile zaščitene. Nedopustno je, da številne skupine skrajnežev zlorabljajo internet za netenje sovraštva in ksenofobije.
+<SPEAKER ID="436" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
+- (PL) Gospod predsednik, rada bi opozorila na nekaj problemov, povezanih z internetom.
+<P>
+Prvič, omenila bi rada zaščito osebnih podatkov in zaščito zaupnosti v zvezi z e-volitvami, ki tudi invalidom omogočajo uveljavljanje državljanskih pravic. Drugič, rada bi omenila zaščito intelektualne lastnine v zvezi z umetniškimi gradivi, ki se lahko brez težav posredujejo po internetu. Naslednja točka zadeva zaščito otrok pred škodljivimi vsebinami, na primer prizori krutosti in pornografijo, z ustreznimi filtri in izobraževanjem staršev. Četrta točka zadeva problem zaščite otrok pred pedofili in ugrabitelji, pa tudi možnosti odkrivanja kriminalcev po sledeh, ki jih puščajo na internetu, na primer naslovov pedofilov, ali dokumentiranje zločinov z mobilnimi telefoni in objava na internetu. Če izjave nemškega mladeniča prek interneta ne bi prezrli, bi bile njegove žrtve, otroci in učitelji, ki jih je postrelil, danes še žive. Naslednje vprašanje, in sicer najpomembnejše, zadeva spoštovanje svobode govora, glede tega pa bi morali spoštovati zakon enako kot na vseh drugih področjih. Nekateri od teh problemov zahtevajo nove tehnične rešitve. Čestitam poročevalcu.
+<SPEAKER ID="437" NAME="Ján Figeľ">
+član Komisije. - Gospod predsednik, rad bi se zahvalil govornikom za njihove zavzete in zanimive prispevke. K mojim besedam ob začetku razprave bi rad dodal samo še dve misli. Smo enakega mnenja na primer glede pravic intelektualne lastnine in uravnoteženega pristopa k temu področju. Te pravice so pomembne za napredek oziroma razvoj informacijske družbe. Uveljavljanje pravic intelektualne lastnine pa moramo ustrezno uravnovesiti s temeljnimi svoboščinami in pravicami, ki so naštete v poročilu, tudi s pravico do zasebnosti, zaščito osebnih podatkov in pravico sodelovanja v informacijski družbi.
+<P>
+Mnogi med vami ste omenili otroke - mladoletnike - zaščito tistih, ki so verjetno najbolj izpostavljeni izzivom in vsak dan sedijo pred računalniki. Glede tega bi rad ne le priporočil, ampak nujno pozval partnerje, države članice in institucije, k sodelovanju v programu Varnejši internet 2009-2013. Za ta program so voljo znatna sredstva. Ukrepamo že glede neprimernih in nezakonitih vsebin, pa tudi glede škodljivega obnašanja in ravnanja, na primer glede psihološke manipulacije ali ustrahovanja otrok za spolne namene, ki sta bila omenjena.
+<P>
+Vprašanj je veliko, sam pa zagovarjam resno politiko z zavezami na državni ali mednarodni ravni. Imamo direktivo o zasebnosti in elektronskih komunikacijah, vrsto konkretnih dejavnosti in akcijskih načrtov, evropski program zaščite kritične infrastrukture. Zato sem rekel, da ne potrebujemo dodatne zakonodaje, pač pa njeno vestno in ustrezno izvajanje, ob tem pa seveda nadaljnji razvoj in izboljšave. Eden od govornikov je upravičeno omenil sveženj telekomunikacij. Včerajšnji trialog nam vliva veliko upanja glede končnega dogovora.
+<P>
+Za sklep bi rad povedal, da smo letošnje leto razglasili za evropsko leto ustvarjalnosti in inovativnosti, pod motom: domišljija, ustvarjanje, inovacije. Morda si res ne moremo predstavljati sveta brez interneta, pomembno pa je, da ga lahko z domišljijo, ustvarjanjem in inovacijami napravimo varnejšega in bližjega človeštvu in človekovi odgovornosti.
+<SPEAKER ID="438" NAME="Stavros Lambrinidis">
+poročevalec. - Gospod predsednik, rad bi se zahvalil Komisiji. Da bodo imeli tolmači nekaj lažje delo - saj govorim brez predloge - bom izjemoma govoril v angleščini.
+<P>
+Spoštujem občutke tistih, ki jih skrbi zaščita intelektualne lastnine. Imam pa vtis, da so se v svoj boj podali ob nepravem poročilu. Moje poročilo ni poročilo o eni sami temi, pač pa na splošno obravnava zaščito temeljnih pravic in varnost na internetu; prav zato je tudi doživelo soglasno podporo.
+<P>
+Kar pa se tiče obravnave pravic intelektualne lastnine v poročilu, bi lahko človek iz nekaterih govorov sklepal, da jih je poročilo prezrlo. Naj z branjem pokažem, kako smo se potrudili za uravnoteženost poročila. V točki 1(k) nujno zahtevamo od Sveta, naj sprejme "direktivo o kazenskih ukrepih za uveljavljanje pravic intelektualne lastnine, na podlagi ocene, izvedene v luči raziskav sodobnih inovacij, področja uporabe, v katerem je potrebna in sorazmerna". Tako piše v poročilu.
+<P>
+Spremembe pa so vse kaj drugega kot uravnotežene. Spremembe, ki zahtevajo brisanje zahteve iz poročila - to je prepoved sistematičnega nadzora vseh uporabnikov, ne glede na to, ali so ali niso osumljenci ali krivci, za zaščito pravice do varnosti - so vse kaj drugega kot uravnotežene. Pozivajo nas, naj se popolnoma odpovemo temeljni pravici do zaščite nečesa drugega.
+<P>
+Drugič, spremembam, ki zahtevajo brisanje ali zameglitev zelo natančne in konkretne zahteve v poročilu - da spornega političnega govora na internetu ne bi smeli kazensko preganjati - nasprotujem in vesel sem, ko slišim, da jim nasprotujete tudi mnogi drugi v tej dvorani.
+<P>
+Politični govor moramo zaščititi, zlasti kadar je sporen. Če bi se vsi v tej dvorani med seboj strinjali, ne bi potrebovali zakonodaje o svobodi govora. Le zato, ker se ne strinjamo - in zlasti za zaščito govora, ki navadno hudo razjezi mene ali meni podobne - potrebujemo take zakone. Misel v poročilu ne govori o "kriminalnem" govoru. Uporabljen je pojem "sporen politični" govor. Zato pozivam vse k podpori te točke v poročilu in podpori celotnega poročila.
+<P>
+Globoko sem hvaležen vsem - tudi tistim, ki se ne strinjate z menoj -, ki ste bili nocoj v dvorani. Vem, da ni lahko. Hvala vam za podporo vse te mesece, ko smo pripravljali poročilo. Veselim se sodelovanja z vami pri vaših poročilih v prihodnosti, zagotavljam vam prav tako razumevanje in podporo z moje strani.
+<SPEAKER ID="439" NAME="Predsednik">
+- Hvala, kolegi. Hvala vam, gospod Mavrommatis, za vaše mnenje, in najlepša hvala poročevalcu, gospodu Lambrinidisu, za njegovo uspešno delo in za koristno ter zanimivo poročilo.
+<P>
+Razprava je zaključena.
+<P>
+Glasovanje bo potekalo v četrtek, 26. marca 2009.
+<P>
+Pisne izjave (člen 142)
+<SPEAKER ID="440" NAME="Neena Gill  " AFFILIATION="PSE">
+v pisni obliki. - Čestitam poročevalcu za poročilo. Prepričana sem, da je internet na nešteto načinov obogatil življenja Evropejcev. Omogočil nam je lažji dostop do znanja, prispeval k našemu boljšemu razumevanju sveta okoli nas in okrepil družbene vezi z drugimi ljudmi.
+<P>
+Moji volivci pa mi sporočajo svoje skrbi glede nevarnosti interneta. V rokah imamo neverjetno tehnologijo, svoboda, ki jo nudi nam, pa omogoča tudi kriminalcem, da to tehnologijo zlorabljajo. Poročilo bo s svojim poudarkom na temeljnih pravicah mnogo prispevalo k večji varnosti interneta. Na zadnjem delnem zasedanju smo govorili o tem, da se je treba spopasti z otroško pornografijo. Z uravnovešenjem svoboščin in varnosti bodo predlogi, o katerih glasujemo danes, tudi ključno dodatno orožje v boju proti tej grožnji.
+<P>
+Poročilo odpira tudi vprašanja e-pismenosti. Ne moremo napredovati kot družba, če s podporo svoboščin nekaterih hkrati omejujemo pravice tistim, ki jim je internet manj domač. Z veseljem smo sprejeli globoke spremembe, ki jih prinesel internet. Če želimo naprej po naši poti, se moramo zdaj s prav tako voljo obrniti k odpravi negativnih plati te revolucije.
+<SPEAKER ID="983" NAME="Daciana Octavia Sârbu  " AFFILIATION="PSE">
+v pisni obliki. - (RO) Znano je, da je internet vedno teže obvladovati, vseeno pa morajo vlade držav članic zaščito temeljne pravice do zasebnosti na internetu in skrb za večjo varnost interneta uvrstiti med svoje prednostne naloge.
+<P>
+Uporaba interneta nudi vrsto koristi, ne smemo pa pozabiti niti na nevarnosti zlorab, ki so jim izpostavljeni nekateri uporabniki interneta.
+<P>
+Da bi bilo takih zlorab čim manj, je naša dolžnost opredeliti standarde zaščite podatkov, varnosti in svobode izražanja na ravni Evrope in na ravni držav članic.
+<P>
+Na drugi strani moramo nujno ukrepati proti kibernetskemu kriminalu, glede tega pa bi rada poudarila pomen oblikovanja globalne strategije.
+<P>
+Trdim, da moramo pri boju proti kibernetskemu kriminalu vzpostaviti aktivno sodelovanje med policijo, ponudniki interneta, uporabniki in drugimi deležniki.
+<P>
+Za sklep moram povedati, da moramo zagotoviti pravico izobraževanja in dostopa do interneta, na drugi strani pa tudi varnost in zaščito pravic uporabnikov storitev interneta.

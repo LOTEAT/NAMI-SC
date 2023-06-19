@@ -1,0 +1,12 @@
+<CHAPTER ID="004">
+Composição das comissões e delegações
+<SPEAKER ID="008" NAME="Presidente">
+Recebi do Grupo Independência e Democracia uma proposta no sentido de nomear o senhor deputado Farage para substituir o senhor deputado Colman como membro da Comissão do Comércio Internacional. Haverá objecções a que assim seja?
+<SPEAKER ID="009" NAME="Hannes Swoboda" AFFILIATION="PSE">
+(DE) Senhor Presidente, haverá um período mínimo de serviço numa comissão, ou essa nomeação é apenas para hoje?
+<SPEAKER ID="010" NAME="Presidente">
+Terá de apresentar essa pergunta ao Grupo Independência e Democracia, evidentemente, mas posso assegurar que o Presidente do Parlamento apoiará uma transparência total nesta matéria.
+<SPEAKER ID="011" NAME="Nigel Farage" AFFILIATION="IND/DEM">
+(EN) Senhor Presidente, só para tranquilizar o meu colega austríaco, eu era de facto membro da Comissão do Comércio Internacional nos dois primeiros anos e meio desta legislatura. A seguir, passei o lugar a um colega que deixou definitivamente o Parlamento há duas semanas atrás. Portanto, contrariamente ao que se possa recear, este não é um arranjo planeado à última da hora.
+<SPEAKER ID="012" NAME="Presidente">
+Não respondeu à pergunta, indicando quanto tempo tenciona servir nesta comissão, mas infiro dos seus comentários que prosseguirá essas funções até ao final desta legislatura.

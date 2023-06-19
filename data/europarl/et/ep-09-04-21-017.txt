@@ -1,0 +1,420 @@
+<CHAPTER ID="017">
+Elektrienergia siseturu ühiseeskirjad - Energeetikasektorit reguleerivate asutuste koostööamet - Võrkudele juurdepääsu tingimused piiriüleses elektrikaubanduses - Maagaasi siseturg - Maagaasi ülekandevõrkudele juurdepääsu tingimused - Rehvide märgistamine seoses kütusesäästlikkusega - Ehitiste energiatõhusus (uuesti sõnastatud versioon) (arutelu)
+<SPEAKER ID="075" NAME="Juhataja">
+Järgmine päevakorrapunkt on ühisarutelu järgmistel teemadel:
+<P>
+tööstuse, teadusuuringute ja energeetikakomisjoni nimel Eluned Morgani esitatud soovitus teisele lugemisele nõukogu ühise seisukoha kohta eesmärgiga võtta vastu Euroopa Parlamendi ja nõukogu direktiiv, mis käsitleb elektrienergia siseturu ühiseeskirju ning millega tunnistatakse kehtetuks direktiiv 2003/54/EÜ (14539/2/2008 - C6-0024/2009 -;
+<P>
+tööstuse, teadusuuringute ja energeetikakomisjoni nimel Giles Chichesteri esitatud soovitus teisele lugemisele nõukogu ühise seisukoha kohta eesmärgiga võtta vastu Euroopa Parlamendi ja nõukogu määrus, millega luuakse energeetikasektorit reguleerivate asutuste koostööamet (14541/1/2008 - C6-0020/2009 -;
+<P>
+tööstuse, teadusuuringute ja energeetikakomisjoni nimel Alejo Vidal-Quadrase esitatud soovitus teisele lugemisele nõukogu ühise seisukoha kohta eesmärgiga võtta vastu Euroopa Parlamendi ja nõukogu määrus võrkudele juurdepääsu tingimuste kohta piiriüleses elektrikaubanduses ning millega tunnistatakse kehtetuks määrus (EÜ) nr 1228/2003 (14546/2/2008 - C6-0022/2009 -;
+<P>
+tööstuse, teadusuuringute ja energeetikakomisjoni nimel Antonio Mussa esitatud soovitus teisele lugemisele nõukogu ühise seisukoha kohta eesmärgiga võtta vastu Euroopa Parlamendi ja nõukogu direktiiv, mis käsitleb maagaasi siseturu ühiseeskirju ning millega tunnistatakse kehtetuks direktiiv 2003/55/EÜ (14540/2/2008 - C6-0021/2009 -;
+<P>
+tööstuse, teadusuuringute ja energeetikakomisjoni nimel Atanas Paparizovi esitatud soovitus teisele lugemisele nõukogu ühise seisukoha kohta eesmärgiga võtta vastu Euroopa Parlamendi ja nõukogu määrus maagaasi ülekandevõrkudele juurdepääsu tingimuste kohta ning millega tunnistatakse kehtetuks määrus (EÜ) nr 1775/2005 (14548/2/2008 - C6-0023/2009 -;
+<P>
+tööstuse, teadusuuringute ja energeetikakomisjoni nimel Ivo Beleti koostatud raport ettepaneku kohta võtta vastu Euroopa Parlamendi ja nõukogu direktiiv rehvide kütusesäästlikkuse ja muude oluliste parameetrite märgistamise kohta - C6-0411/2008 -;
+<P>
+tööstuse, teadusuuringute ja energeetikakomisjoni nimel Silvia-Adriana Ţicău koostatud raport ettepaneku kohta võtta vastu Euroopa Parlamendi ja nõukogu direktiiv ehitiste energiatõhususe kohta (uuestisõnastamine) (KOM(2008) 0780 - C6-0413/2008 -.
+<SPEAKER ID="076" NAME="Eluned Morgan">
+raportöör. - Proua juhataja, see energiapakett on aastatepikkuse raske töö lõpptulemus, mille puhul Euroopa Parlament võib olla väga uhke muudatuste üle, mis nüüd ellu viiakse. Me peaksime olema eelkõige uhked asjaolu üle, et ELi energiatarbijad on praegu esimest korda asetatud täpselt energiaarutelu keskmesse ning Euroopa tasandil on tunnistatud energiavaesust. Kaasnev huvide konflikt, kui ettevõtte käes on nii elektri edastamise kui ka tootmise valdkond, on lahendatud ning energiaturge reguleerivaid õigusnorme on tugevdatud.
+<P>
+Elektridirektiiv, mille raportöör ma olin, kuulub viie meetme paketti, mille eesmärk on parandada elektri- ja gaasiturgude toimimist kogu meie maailmajaos, tagada turgude parem lõimumine ning tegutseda õiglasemal ja vähem diskrimineerival viisil.
+<P>
+Soovin öelda, et olen tänulik väga ulatusliku koostöö eest teiste selle paketi raportööridega, samuti variraportööride, komisjoni ja eesistujariigi Tšehhiga, kes on aidanud meil jõuda järeldusele selles, mis on kohati olnud väga tulise arutelu teemaks.
+<P>
+Õigusnormidesse on lisatud suur hulk uusi tarbijakaitsemeetmeid, sealhulgas on tagatud, et kliendid saaksid vahetada tarnijat kolme nädala jooksul, igas liikmesriigis on nähtud ette sõltumatu ja range kaebuste esitamise süsteem ning õigus saada hüvitist, kui teenus ei vasta ettenähtud tasemele. Need õigusnormid tagavad ka selle, et iga ELi majapidamine oleks 2022. aastaks varustatud niinimetatud arukate arvestitega. Need arukad arvestid võimaldavad tarbijatel oma energiakasutust paremini kontrollida ning suurendada energiatõhusust, aidates vähendada energiakulusid ja alandada süsiniku heitkoguseid.
+<P>
+Euroopa Parlamendi algatusel sisaldavad uued õigusnormid ka erikaitsemeetmeid kaitsetumate energiatarbijate jaoks ning energiavaesuse küsimust tuleb nüüd esimest korda tõsiselt võtta.
+<P>
+Tahaksin küsida volinik Piebalgsilt, kas ta annab nüüd lubaduse, et edaspidi lisatakse ELi energiaraamistikus peale varustuskindluse, säästvuse ja konkurentsivõime ka neljas punkt - taskukohasus - kõigile tulevastele energiapoliitika ettepanekutele. ELi toetatud aruandes jõuti hiljuti järeldusele, et kuni 125 miljonit kodanikku puudutab energiavaesuses. Liikmesriigid peavad võtma praegu asjakohaseid meetmeid, mis aitaksid ära hoida sadu - kui mitte tuhandeid - surmajuhtumeid meie maailmajao vaeseimates majapidamistes. Lõpetatakse ka diskrimineeriv hinnakujundus ettemaksu arvestite puhul.
+<P>
+Paketi kõige vastuolulisem osa keskendus sellele, kas energiaturgudel on vaja omandisuhete täielikku eraldamist - teisisõnu edastussüsteemide täielikku eraldamist tootmisest. Mõnes liikmesriigis tähendab turu struktuur, et selliste põhivõrguettevõtjate monopoolne seisund, kellele kuuluvad ka elektritootmisvahendid, ei julgusta kuidagi teisi osalisi turule tulema, vähendades seega konkurentsi. Euroopa Parlament on nüüd võtnud vastu kompromissi, mis lubab nii edastuse kui ka tootmise omamist tingimusel, et toimub suurem kontroll ja tasakaalustamine, mis tagaks paratamatult tekkiva huvide konflikti kõrvaldamise. Paljud meist ei olnud varmad kompromissiga nõustuma, sest me usume, et tuuled puhuvad hulgimüügi eraldumise suunas, ning need integreeritud ettevõtted jagunevad sellest direktiivist olenemata.
+<P>
+Komisjoni püüdlused paljastada mõne ettevõtte kuritarvitused hakkavad vilja kandma, näiteks on sellised ettevõtted nagu E.ON ja RWE nõustunud pärast monopolivastast uurimist oma ülekandevõrgud müüma. Samuti tugevnevad riikide reguleerivad asutused.
+<P>
+Sooviksin tänada kõiki nende koostöö eest ning arvan, et me peaksime olema uhked selle üle, mida oleme ELi tarbijate heaks teinud.
+<SPEAKER ID="077" NAME="Giles Chichester">
+raportöör. - Proua juhataja, loodan, et selle paketi puhul on pigem tegemist lõpuks valminud ja mitte poolelioleva tööga. Ma pean energeetikasektorit reguleerivate asutuste koostööameti tulevast rolli väga tähtsaks, et saavutada ammu soovitud gaasi ja elektrienergia siseturg.
+<P>
+Kolmepoolsete läbirääkimiste käigus mõistsin, et minu poolt Euroopa Parlamendi nimel esitatud parandused on vajalikud õiglaste ja tõhusate energiaturgude jaoks. Minu eesmärk on olnud luua amet, millel on suurem sõltumatus ja otsustusõigus. Eriti kui see amet peab aitama tõhusalt kaasa ühtse ja konkurentsivõimelise energiaturu arendamisele, siis peab sellel olema rohkem õigusi, et lahendada piiriüleseid küsimusi ning toetada tõhusat koostööd põhivõrguettevõtjate või ülekandesüsteemi haldurite ja riiklike reguleerivate asutuste vahel.
+<P>
+Ent suuremate õigustega peaks kaasnema suurem aruandekohustus ja läbipaistvus. Ma pean silmas üldist põhimõtet, mille kohaselt me peaksime suurendama ameti sõltumatust, et muuta see nii tõhusamaks kui ka usaldusväärsemaks, muutes ameti suuremal määral aruandekohustuslikuks, eelkõige Euroopa Parlamendi ees. Ma usun, et see läheb nii.
+<P>
+Pean ütlema, et mitu ülesannet, mille oleme ametile andnud, kõlab pigem nõuandva kui konkreetsena, aga oleme üritanud luua võimalusi uuenduslikuks reguleerimiseks, juhtides tähelepanu valdkondadele, kus on vaja võtta meetmeid, aga kus ametil ei ole vajalikke õigusi tegutsemiseks.
+<P>
+Sooviksin kõigepealt tõsta esile suuremat aruandekohustust, mille oleme läbi rääkinud. Direktor ilmub Euroopa Parlamendi asjaomase komisjoni ette nii enne tema ametisse nimetamist kui ka ametiajal, et esineda ja vastata küsimustele. Samuti võib reguleerivate asutuste nõukogu esimees osaleda asjaomases komisjonis ja anda aru oma tööst. Euroopa Parlament on saanud õiguse nimetada ametisse kaks haldusnõukogu liiget. Kõik see annab ametile võimaluse teavitada üldsust enda valitud teemadel.
+<P>
+Kui räägime ülesannetest, mida nimetasin, siis arvan, et gaasi ja elektrienergia siseturgude järelevalve, osalemine võrgueeskirjade väljatöötamisel, üleeuroopaliste energiavõrkude suuniste rakendamisele kaasa aitamine, võrkudevahelise ühenduse võimsuse suurendamise projektide rakendamise edusammude järelevalve, õigus otsustada infrastruktuuri investeeringute nõuete erandite üle, kümneaastaste võrgu investeerimiskavade rakendamise järelevalve ning õigus avaldada arvamusi ja soovitusi põhivõrguettevõtjatele või ülekandesüsteemi halduritele - lisaks muudele aspektidele, mida mul ei ole aega loetleda - annavad kõik ametile palju võimalusi muudatusi ellu viia.
+<P>
+Lisaks oleme kehtestanud ühtlustatud otsustusprotsessi nõuded. Loodan, et amet suudab tegutseda meie seatud ülesannete kõrgusel. Oleme taganud komisjonile võimaluse esitada oma aruanne ameti töö kohta ning anda kogemustele tuginedes soovitusi lisaülesannete ja rollide kohta, mida amet võiks täita.
+<P>
+Sooviksin tänada meie kaasraportööre, ülejäänud kahte institutsiooni ja volinikku eelkõige nende raske ja konstruktiivse töö eest lõpliku kompromisspaketini jõudmisel. Loodetavasti asjaolu, et mul paluti kõnelda teisena ja mitte viiendana, kinnitab selgelt selle ettepaneku tegelikku mõjukust ja tähtsust.
+<SPEAKER ID="078" NAME="Alejo Vidal-Quadras">
+raportöör. - Proua juhataja, sooviksin alustuseks tänada siiralt raportööre, variraportööre, volinik Piebalgsi ja saadik Reinišovát suurepärase koostöö eest selle aasta esimese kolme kuu jooksul. See koostöö on olnud peamine tegur selle eduka tulemuse saavutamisel, mida sel nädalal hääletame. Läbirääkimised on olnud pikad, keerulised ja vahel rasked, aga arvan, et oleme suutnud jõuda kõiki pooli rahuldavale kokkuleppele.
+<P>
+Mis puutub kogu paketti sellisena, nagu see läbi räägiti, siis võib Euroopa Parlament olla uhke lõpliku teksti üle. Meie väga tugev esimesel lugemisel saavutatud kokkuleppe omandisuhete eraldamise kohta andis läbirääkimismeeskonnale arutelu ajal palju tuge. See võimaldas meil saavutada palju rangema õigusliku raamistiku, eriti riikides, kus on kehtestatud sõltumatu ülekandesüsteemi halduri (ITO) mudel ning kus suurendatakse riiklike reguleerivate asustuste pädevust nii valitsusest kui ka tööstusharust sõltumata. See uus ülesanne vähendab konkurentsivastase käitumise ohtu, eriti olukorras, kus vertikaalselt integreeritud ettevõtjad kuritarvitavad oma seisundit, et peatada võimsuse suurendamise investeeringud.
+<P>
+Lisaks on saavutatud kokkulepe läbivaatamisklausli kohta, mis võimaldab meil mõne aasta pärast kontrollida, kas kõik mudelid vastavad meie eesmärgile saavutada täiesti konkurentsivõimeline ja legaliseeritud turg. Peale selle oleme tunduvalt tugevdanud tarbijakaitse sätteid, muu hulgas seoses arvetes esitatud teabega ja paremate tarnija vahetamise tingimustega.
+<P>
+Lõpetuseks ütlen, et veel üks suur edusamm on olnud kolmanda riigi klauslisse uue sätte lisamine, mille kohaselt võib kolmanda riigi põhivõrguettevõtjast või ülekandesüsteemi haldurist keelduda ka siis, kui on ohustatud liidu varustuskindlus tervikuna või mõne liikmesriigi oma, välja arvatud sellise liikmesriigi, kus nõutakse sertifitseerimist.
+<P>
+Seoses elektrimäärusega sooviksin öelda, et sellel määrusel on väga tähtis roll, kuna see annab liikmesriikidele vahendid, mida on vaja selleks, et suurendada märkimisväärselt võrkudevahelise ühenduse võimsust liidus, töötades välja ja kehtestades kohustuslikud võrgueeskirjad, mida peavad kaubanduses kohaldama kõik põhivõrguettevõtjad või ülekandesüsteemi haldurid, kõrvaldades seega ühe peamise tegeliku takistuse elektrienergia siseturu väljakujunemisel.
+<P>
+Kokkulepitud tekst suurendab ka Euroopa reguleerivate asutuste koostööameti rolli selles protsessis kooskõlas esimese lugemisega Euroopa Parlamendis. Pean tunnistama, et parlament lootis palju suuremate eesmärkidega ametit. Ent me mõistame, et see on alles esimene samm õiguslike raamistike pikas lõimimisprotsessis.
+<P>
+Meil õnnestus lisada uus säte, mille kohaselt võib amet teha ettepanekuid lisada põhikriteeriume uute võrkudevaheliste ühenduste puhul erandite lubamisel. See on eriti oluline, kuna see on üks peamisi takistusi, millega investorid võimsuse suurendamisel eri liikmesriikides tegutsedes kokku puutuvad. Vajadus järgida mitut erinevat õiguslikku menetlust võib mõnikord tuua kaasa segadusseajavad tulemused ning peletada investorid eemale - nagu juhtus näiteks Nabuccoga.
+<P>
+Selles määruses luuakse ka Euroopa elektri põhivõrguettevõtjate võrgustik - ja määratakse kindlaks selle roll - , kes vastutab ametile esitatavate võrgueeskirjade eelnõu koostamise eest ning kes peab töötama välja kooskõlastatud mehhanismid eriolukordadeks, nagu hiljuti kogu Euroopa Liidus esinenud katkestused.
+<P>
+Tahaksin lõpetuseks tänada kõiki tehnilisi töötajaid, kelle töö aitas meil saavutada kokkulepet, millele jõudmise suhtes me päris läbirääkimiste alguses kohati lootuse kaotasime.
+<SPEAKER ID="079" NAME="Antonio Mussa" LANGUAGE="IT">
+Proua juhataja, daamid ja härrad, sooviksin tänada eesistujariiki Tšehhit, komisjoni, proua Nieblerit, tööstuse, teadusuuringute ja energeetikakomisjoni esimeest, oma kaasraportööre selle energiapaketi puhul, variraportööre ja parlamendikomisjoni sekretariaati, sealhulgas kõiki selle ametnikke, nende koostöö eest ja nende oskuste eest, mida nad selle teema kallal töötades üles on näidanud.
+<P>
+Me kõik võime olla ja peaksime olema uhked enda saavutatud tulemuse üle; mina igal juhul olen, mõeldes tööle, mida tegin, kui pidin hakkama tegelema gaasi siseturu teemalise direktiiviga ja probleemidega, millele ei leidunud lihtsaid lahendusi. Mul on hea meel, et see - minu teine ametiaeg Euroopa Parlamendi liikmena - on langenud kokku selle paketi lõppetapiga, mis minu arvates on üks kõige tähtsamaid küsimusi, millega selle ametiaja jooksul on tegeldud ja mis toob kasu meie valijaskonnale, Euroopa kodanikele.
+<P>
+Gaasidirektiiv, mis jõustub 2011. aastal, toob sektorisse märkimisväärseid uuendusi: üks oluline tulemus, mida tuleks toonitada, on see, et on saavutatud sõltumatu ülekandesüsteemi halduri võimalus. See avab turud ning tagab, et tehakse tegelikke edusamme süsteemi suunas, mis võimaldab Euroopa Liidul kõnelda energiaküsimustes ühel häälel. Sõltumatu ülekandesüsteemi halduri süsteem on tõeline uuendus selles paketis ning see on valdkond, kus saab öelda, et Euroopa Parlament on saavutanud parima tulemuse.
+<P>
+Uues gaasidirektiivis pööratakse palju tähelepanu gaasiga seotud asutustele ja ametile. Direktiiviga antakse asutustele nende ülesannete täitmisel õiguspärasus, eriti sellistes riikides, kus nad peavad alustama oma tegevust nullist. Seetõttu on äärmiselt oluline, et oleme määranud kindlaks nende asutuste rolli ja kohustused ning andnud neile ulatuslikud õigused, kuna asutustel on keeruline ülesanne kontrollida ühist energiaturgu.
+<P>
+Veel üks asjaolu, mis lisati kolmepoolse arutelu etapis, on ühistest eeskirjadest erandi lubamine nii-öelda suletud süsteemidele, nagu lennujaamad, haiglad, jaamad, tööstusrajatised ja nii edasi, mis oma erijoonte tõttu peavad saama kasutada soodsamat süsteemi. See on näide sellest, kuidas uues direktiivis pööratakse tähelepanu Euroopa kodanikele.
+<P>
+Minu arvates on tegelikult Euroopa kodanikud need, kes saavad sellest direktiivist kasu, sest arukate arvestite kasutamisega on neil juurdepääs kogu oma arveid puudutavale teabele ning nad saavad hinnata, milline on parim pakkumine turul ja valida oma tarnija parima hinna põhjal; kuigi on tõsi, et selle liberaliseerimise tulemusi saab näha mõne aasta pärast, ei saa siiski eitada, et uute ettevõtjate sisenemine turule toob kaasa hindade languse ja soodsamad turutingimused ELi kodanike jaoks.
+<P>
+Teine tähtis osa on Euroopa ülekandevõrkude süsteemi tunnustamine, mis tagab gaasitarnete kindluse Euroopa kodanike jaoks. See kõik sõltub ka uue infrastruktuuri, näiteks taasgaasistamisrajatiste ja hoidlate edendamisest ja rajamisest, mis on oluline tugi kolmanda paketi puhul. Seega on vaja konkurentsivõimelise turu avamist, mis tagab pikaajalised investeeringud ja lepingud selle sektori ettevõtjatega, eriti uutes liikmesriikides, kus uue infrastruktuuri rajamine aitaks lahendada ka pikaajalisi probleeme seoses energiasõltuvusega.
+<P>
+Kaitsetumate tarbijate kaitsmist on võetud arvesse, andes riigi ja piirkondlikele asutustele võimaluse tagada oma gaasitarned kõige kriitilisematel aegadel. Selle gaasidirektiivi ja kogu energiapaketi edukas tulemus rõhutab veel kord Euroopa ja tema institutsioonide rolli Euroopa kodanike heaks tegutsemisel.
+<SPEAKER ID="080" NAME="Atanas Paparizov" LANGUAGE="BG">
+Proua juhataja, lugupeetud volinik, kõigepealt sooviksin väljendada oma heameelt selle üle, et Euroopa Parlament ja nõukogu jõudsid kokkuleppele kolmandas energiapaketis, sealhulgas gaasi ülekandevõrkudele juurdepääsu tingimuste alases määruses, mille raportöör ma olen. Sooviksin märkida ära eesistujariigi Tšehhi panust ja Euroopa Komisjoni aktiivset toetust ühiste lahenduste leidmisel.
+<P>
+Mis puudutab gaasi ülekandevõrkudele juurdepääsu, siis on kolmanda energiapaketi eesmärgid saavutatud. On pandud alus Euroopa ühtse energiaturu loomiseks, mis põhineb kohustuslikes võrgueeskirjades sätestatud normidel. On suurendatud võimalusi arendada piirkondlikku koostööd, kus koos Euroopa elektri põhivõrguettevõtjate võrgustikuga ja riiklike reguleerivate asutustega on oluliseks innustajaks ka energeetikasektorit reguleerivate asutuste koostööamet.
+<P>
+See suurendab märkimisväärselt tarnete kindlust ning julgustab uue infrastruktuuri rajamist, kui Euroopa ettevõtjate võrgustik koostab võrgu kümneaastase investeerimiskava, mille rakendamist kontrollivad riiklikud reguleerivad asutused ja mille üle teostab järelevalvet koostööamet. See annab kõigile turuosalistele võimaluse osaleda selgelt kindlaks määratud töökorra põhjal, koostades võrgueeskirjad ning pakkudes välja nende muudatused, kui praktikas kohaldamine näitab, et see on vajalik. Tarnijatevahelist konkurentsi reguleerivaid tingimusi karmistatakse, kasutades rangemaid eeskirju teavitamise ja ülekandesüsteemi haldurite tegevuse läbipaistvuse kohta.
+<P>
+Eelkõige sooviksin tänada neid, kes osalesid läbirääkimistes, et toetada ettepanekuid, mille ma koostasin kümneaastase investeerimiskava kohta, ning piirkondlike koostööalgatuste arendamisel. Peale selle on mul hea meel, et peetud läbirääkimiste tulemusena saavutati parem tasakaal Euroopa elektri põhivõrguettevõtjate võrgustiku, energeetikasektorit reguleerivate asutuste koostööameti ja Euroopa Komisjoni õiguste vahel eesmärgiga tagada sujuvalt toimiv, tõhus ja konkurentsivõimeline turg.
+<P>
+Iseäranis sooviksin rõhutada, et tehti tihedat koostööd kolmanda energiapaketi viie õigusakti kallal töötades. Loodi ka üldraamistik, mille eri osad täiendavad ja toetavad üksteist. Sooviksin tuua esile silmapaistvat tulemust, mille saavutasime aktiivses koostöös oma kaasraportööridega: proua Morgani, härra Mussa, härra Vidal-Quadrase ja härra Chichesteriga. Samuti tänan variraportööre, kes aitasid igas läbirääkimiste etapis kaasa konstruktiivsete ja väga kasulike soovitustega. Pean erilist tänu avaldama ka tööstuse, teadusuuringute ja energeetikakomisjoni esimehele ja tema sekretariaadile.
+<P>
+Proua juhataja, 2009. aasta algas Bulgaaria ja Sloveenia gaasitarnete katkestusega ning järsu mahtude vähenemisega teiste Kesk- ja Ida-Euroopa riikide jaoks. Ma usun, kolmanda energiapaketi põhjal, Euroopa Komisjoni ootamatute ettepanekute põhjal gaasitarnete kindluse direktiivi uue sisu sätestamise kohta ning gaasi ülekandevõrkude ühendamise kavade põhjal, mida toetab majanduse taastamiskava, et Euroopa Liit on 2009. aasta lõpuks valmis seisma silmitsi võimalike tarnekatkestustega tänu suuremale hulgale materiaalsetele vahenditele ja suuremale solidaarsusele. Minu arvates on õigustatud, tuginedes saavutatud tulemustele, kutsuda kõiki oma kolleege üles toetama teisel lugemisel nõukoguga kokku lepitud ühist teksti, mis teile on esitatud.
+<SPEAKER ID="081" NAME="Ivo Belet">
+raportöör. - (NL) Kuigi rehvide kütusesäästlikkuse märgistamine on täna päevakorras asetatud kummalisel kombel elektrienergia ja gaasi teemade vahele, arutame väga olulisi ja konkreetseid meetmeid, mis toovad otsest kasu igale tarbijale, igale autojuhile ja tegelikult enamikule meist Euroopas.
+<P>
+See on konkreetne meede, mis maksab vähe või ei maksa midagi ning mis aitab arvestataval määral kaasa meie kõrgete kliimaeesmärkide saavutamisele. Autorehv - ma pole kindel, kas te seda teate - mõjutab sõiduki kütuse kogukulu 20-30% ulatuses. Seetõttu on loogiline, et just siin on suur potentsiaal energiatõhususeks ja säästmiseks.
+<P>
+Milliseid konkreetseid samme kavatseme astuda? Me püüame õhutada kõiki autojuhte, mis tähendab seega peaaegu kõiki, jälgima nüüdsest peale rehvide energiatõhusust ja müraemissiooni. Me ei kohusta kedagi; me vaid teavitame inimesi, nagu teeme praegu näiteks külmikute puhul, selge märgistuse või kleebise abil. Kes tahab sõita ringi B või C klassi rehvidega, kui ta saab kasutada ka keskkonnasäästlikku A klassi rehvi? Lisaks on A klassi rehv pikaajaliselt kulutõhusam. See on tegelikult puhas kasu, kasu tarbijale ja eelkõige kasu keskkonnale.
+<P>
+Sooviksin teile öelda ühe näitaja: ühes mõjuhinnangus kinnitati, et on võimalik säästa kuni poolteist miljonit tonni süsinikdioksiidi. See vastab ligi ühe miljoni sõiduauto süsinikdioksiidi heitest vabanemisele Euroopa teedel. Kui see meede toimib täiel määral, siis kaob ühe miljoni sõiduauto tekitatud süsinikdioksiidi heide, mis on üsna muljetavaldav!
+<P>
+Loomulikult soovivad ka rehvitootjad kasu saada. Ma ei pea lisama - ning see on täiesti loogiline -, et me pidasime nõu selle sektoriga, kui selle meetme välja pakkusime. Muidugi ei oleks mõtet kehtestada uusi õigusnorme sektoris, millele on eriti halba mõju avaldanud autosektori kriis, kui see tooks kaasa lisakulutusi ja bürokraatiat. Need on vettpidavad argumendid ja neid ei saa lihtsalt eirata. See märgistamisdirektiiv toob kasu ka kvaliteetsete rehvide tootjatele, mistõttu me üritamegi pöörata nii palju tähelepanu selle rakendamise kontrollimisele, mis on vajalik, et luua võrdsed tingimused, aga seda kõrgel tasemel.
+<P>
+Pole vaja öelda, et keskkonnasäästlikkus ei peaks kunagi tulema ohutuse arvelt ning seetõttu oleme esitanud selle kohta muudatusettepanekud. Ohutus jääb meie kõige tähtsamaks prioriteediks seoses autorehvidega.
+<P>
+Sooviksin lisada väikese märkuse müraemissiooni kriteeriumi kohta. See on samuti hõlmatud, sest nagu te teate, on mürasaaste üks meie aja tülikaid nähtusi. Seega väljendan seoses sellega suurt heameelt asjaolu üle, et me oleme lisanud kaalutleva ja rakendatava kriteeriumi, et vähendada veelgi mürasaastet, aga nagu ma juba ütlesin, mitte kunagi auto ja rehvi ohutuse arvelt.
+<P>
+Sooviksin lõpetuseks öelda paar sõna ajakava kohta. Minu arvates oleme jõudnud kaugeleulatuvale ja samas mõistlikule kompromissile. Me loodame muidugi rehvitootjatele, nagu autode endi süsinikdioksiidi heidete puhul, et nad toovad palju varem turule tooted, mis vastavad kõige keskkonnasäästlikumatele standarditele.
+<SPEAKER ID="082" NAME="Silvia-Adriana Ţicău" LANGUAGE="RO">
+Lugupeetud volinik, daamid ja härrad, ehitised tarbivad 40% primaarenergiast ning tekitavad 40% kasvuhoonegaaside heitkogustest. Seetõttu on ehitiste energiatõhususe parandamise meetmete viivitamatu rakendamine kõige usaldusväärsem, kiirem ja odavam viis vähendada kasvuhoonegaaside heitkoguseid. Ent ehitiste energiatõhususe suurendamine annab hea võimaluse ka ELi majanduslikuks taastumiseks rohkem kui 250 000 uue töökoha loomise, taastuvate energiaallikate ja energiatõhusate ehitiste edendamiseks nõutavate investeeringute ning sama olulisena ka Euroopa kodanike elukvaliteedi parandamise kaudu, vähendades nende kommunaalkulusid.
+<P>
+Uus komisjoni ettepanek kehtiva direktiivi muutmiseks näeb ette 1000 m2 suuruse künnise, ehitiste suhtes teatavate energiatõhususe miinimumnõuete kehtestamise ja riiklikul tasandil kehtestatud miinimumnõuete koondamise protsessi kehtestamise, selliste ehitiste edendamise, mis lokaalselt toodavad tarbitud primaarenergiaga samaväärse koguse taastuvenergiat, ja riigi vahenditest ainult selliste ehitiste ehitamise rahastamise, mis vastavad energiatõhususe miinimumnõuetele.
+<P>
+Euroopa Parlament on lisanud järgmised olulised muudatusettepanekud: laiendada direktiivi kohaldamisala, et hõlmata keskkütte- ja -jahutussüsteemid, suurendada ehitiste energiatõhususe sertifikaatide tähtsust ja ühtlustada nende vormi, kavandada ühtne metoodika energiatõhususe miinimumnõuete kindlaksmääramiseks, rakendada avalik-õiguslike institutsioonide puhul energiatõhususe sertifikaadis esitatud soovitusi selle kehtivusajal, näha ette uued sätted tarbijatele teabe andmise ning audiitorite ja ekspertide koolitamise kohta, lisaks anda alates 2019. aastast ehituslubasid ehitistele, mis toodavad lokaalselt taastuvenergiat vähemalt tavapärastest allikatest saadud energiaga samaväärses koguses, ning kehtestada uued sätted kütte- või jahutussüsteemide kontrollimiseks.
+<P>
+Kutsun oma kolleege üles külastama sellistele ehitistele pühendatud näitust - ehitised, mille energia netotarve võrdub nulliga -, mis on üleval Euroopa Parlamendis ja mis on korraldatud koos Maailma Looduse Fondiga.
+<P>
+Kuigi ehitiste energiatõhususe direktiiv on olnud jõus alates 2002. aastast, ei ole selle rakendamine eri liikmesriikides olnud rahuldav. Liikmesriigid on pidanud vähest rahastamist peamiseks tõkkeks, mis takistab selle direktiivi nõuetekohast rakendamist. Seetõttu tegi Euroopa Parlament ettepaneku rahastada ehitiste energiatõhususe meetmeid Euroopa Regionaalarengu Fondist, luua ehitiste energiatõhususe Euroopa fond ja edendada taastuvenergiaallikaid EIP, Euroopa Komisjoni ja liikmesriikide osaluse kaudu, pakkuda võimalust kasutada madalat käibemaksumäära ehitiste energiatõhususega seotud teenuste ja toodete puhul, töötada välja riiklikud programmid, et toetada ehitiste energiatõhusust, võttes vastu finantsvahendid ja teatavad maksumeetmed.
+<P>
+Lõpetuseks sooviksin tänada kaasraportööre, tööstuse, teadusuuringute ja energeetikakomisjoni tehnilist personali ja selle komisjoni ÜVJP personali, kellega mul on olnud väga hea koostöö. Ootan huviga oma kolleegide märkusi.
+<SPEAKER ID="083" NAME="Andris Piebalgs">
+komisjoni liige. - Proua juhataja, ei ole lihtne esitada viie minutiga komisjoni vastust seitsmele suurepärasele raportile, aga ma tahaksin kasutada võimalust tänada kõik raportööre - proua Morganit, proua Ţicăud, härra Chichesteri, härra Vidal-Quadrast, härra Mussat, härra Paparizovi ja härra Beletit - ja kõiki variraportööre. Samuti sooviksin tänada proua Nieblerit, kes nägi tõesti kõvasti vaeva, et see raport valmis väga piiratud aja jooksul.
+<P>
+Ma alustan energia siseturust, kuna kaks aastat tagasi alustasime ambitsioonika eesmärgiga luua täiesti konkurentsivõimeline ja tõeline Euroopa energiaturg Euroopa Liidu kodanike heaks. Selle eesmärgi saavutamise vahend on kolmas energia siseturu pakett gaasi ja elektrienergia jaoks.
+<P>
+Praegu oleme selle paketi vastuvõtmisele ning seega selle eesmärgi saavutamisele lähedal. Kolmepoolsel arutelul on nüüd õnnestunud kompromissini jõuda. Komisjon toetab täielikult seda kompromissi. Kui täiskogu selle homme vastu võtab, siis annab see Euroopa Liidule selge õigusliku raamistiku, mida on vaja nõuetekohaselt toimiva siseturu tagamiseks ja väga vajalike investeeringute edendamiseks.
+<P>
+Esiteks hõlbustab see piiriülest energiakaubandust, rajades riiklike energeetikasektorit reguleerivate asutuste koostööameti, millel on kohustuslike otsuste tegemise õigus, et täiendada riiklikke reguleerivad asutusi. See tagab piiriüleste juhtumite nõuetekohase käsitlemise ja annab Euroopa Liidule võimaluse luua tõeline Euroopa võrgustik.
+<P>
+Teiseks edendavad uued õigusnormid piiriülest ja piirkondlikku koostööd ning investeeringuid uue Euroopa elektri põhivõrguettevõtjate võrgustikuga. ELi võrguettevõtjad teevad koostööd ja töötavad välja võrgueeskirjad ja varustuskindluse standardid ning kavandavad ja kooskõlastavad ELi tasandil vajalikke investeeringuid.
+<P>
+Kolmandaks tagab see palju tõhusama õigusnormide järelevalve riiklike reguleerivate asutuste poolt, kes on palju sõltumatumad ja kellel on kõik vajalikud vahendid.
+<P>
+Neljandaks tagab see energia tootmise ja edastamise tõhusa eraldamise, et kõrvaldada võimalikud huvide konfliktid, edendada võrguinvesteeringuid ja hoida ära diskrimineerivat käitumist.
+<P>
+Need õigusnormid tagavad ka suurema läbipaistvuse, garanteerides seega võrdse juurdepääsu teabele, muutes hinnakujunduse läbipaistvamaks, suurendades usaldust turu vastu ning aidates ära hoida võimalikke manipuleerimisi või igasugust turuga manipuleerimist.
+<P>
+Siin ei ole tegemist vaid nõuetekohaselt toimiva siseturuga, vaid üldisemalt sellega, et tagada ELi suutlikkus lahendada energiavaldkonnas meie ees seisvad ülesanded: kliimamuutus, suurem sõltuvus impordist, varustuskindlus, üleilmne konkurentsivõime.
+<P>
+Eelkõige on toimiv siseturg põhiline vahend ELi püüdlustes tulla toime kliimamuutusega. Ilma konkurentsivõimelise elektrituruta ei hakka heitkogustega kauplemise süsteem kunagi korralikult tööle ning me ei saavuta oma eesmärke seoses taastuvenergiaga.
+<P>
+Saavutatud kompromiss loob hea tasakaalu ka Euroopa Parlamendi ja nõukogu seisukohtade vahel. Raportöörid on juba tutvustanud teile põhiküsimusi, mille puhul saavutatud poliitiline kompromiss tugevdab ühist seisukohta, mille nõukogu võttis vastu 2009. aasta jaanuaris.
+<P>
+Sooviksin tuua esile mõned olulisemad teemad.
+<P>
+Euroopa Parlamendi üleskutse tagada tugevam tarbijakaitse ja võidelda energiavaesuse vastu on nüüd õigustekstidesse sisse kirjutatud. Arukate arvestite puhul, mis võimaldavad tarbijatel saada täpset teavet oma tarbimise kohta ja mis edendavad energiatõhusust, on seatud eesmärgiks see, et 2020. aastaks on need olemas 80%-l tarbijatest. Riiklike reguleerivate asutuste õigusi ja sõltumatust ning kooskõlastusameti õigusi on suurendatud ning tõhusa omandisuhete eraldamise eeskirjad on muudetud mõjusamaks.
+<P>
+Kõige tähtsam on see, et me oleme näinud arengut ka ettevõtjate hulgas. Paljud ettevõtted on korraldanud ümber oma tegevuse ja selle, kuidas nad tegelevad võrkude ja tarbijatega. Nägin täna Hannoveri messil, et arukate arvestite kasutamisel tehakse suuri edusamme ning ettevõtted võtavad neid otsuseid arvesse.
+<P>
+Energiatõhusus on kindlasti üks Euroopa energiapoliitika tähtsamaid suundi. Ehitussektoril on siiani märkimisväärne potentsiaal oma energiatõhusust veelgi parandada, luues samal ajal uusi töökohti ja edendades majanduskasvu.
+<P>
+Ma tänan väga Euroopa Parlamenti tema toetuse eest komisjoni ettepanekule sõnastada uuesti ehitiste energiatõhususe direktiiv. Arutelud ja ettepanekud näitavad, et Euroopa Parlamendil on samad poliitikaeesmärgid ja ta soovib praegusi tulemusi tunduvalt parandada. See ei ole lihtne valdkond, kuna siin kehtib laialdaselt lähimuspõhimõte, seega peame leidma hea tasakaalu. Direktiiviga nähakse ette raamistik ELi ehitiste energiatõhususe suurendamiseks.
+<P>
+Selles on palju selgitusi ning see tugevdab direktiivi mõju, näiteks kulutõhusa meetodi põhimõtted, kontrollimehhanismide nõuded ja määratlused.
+<P>
+Siin on tegemist ka rahastamisvahenditega, mis on väga olulised energiatõhususe meetmete edendamiseks, aga neid tuleb käsitleda asjakohastes õigusaktides ja algatustes. Seega on ehitiste direktiivis piirdutud sellega, mida on võimalik saavutada seoses finants- ja maksuküsimustega.
+<P>
+Väga tõhusad ehitised, kutsutakse neid siis kas madala või nullenergiatarbega ehitisteks või uue põlvkonna ehitisteks, on uus teema, mille komisjon on direktiivi lisanud.
+<P>
+Oluline on muuta see säte kaugeleulatuvaks, aga realistlikuks ning pakkuda ELi erinevaid kliima- ja majandustingimusi arvestades mõningat paindlikkust. Ühtlustatud nõuded, nagu ehitised, mille energia netotarve võrdub nulliga, ei vasta päris täpselt sellele nõudele ning oleksid seega ülemäärased.
+<P>
+Siseturu jaoks on väga tähtis ühtlustamine. Toetan täielikult Euroopa Parlamendi soovi kehtestada ühtne metoodika nõuete kulutõhusate tasemete arvutamiseks. Samas võib energiatõhususe arvutamise ühtse metoodika kehtestamine avaldada iseenesest vastupidist mõju, põhjustades mitmeaastaseid viivitusi direktiivi rakendamisel tulenevalt liikmesriikide ehitusseadustike keerukusest.
+<P>
+See on seega väga keeruline ja vaevanõudev õigusakt, aga loodan väga, et Euroopa Parlament tugevdab seda õigusakti.
+<P>
+Raportöör kõneles ka rehvidest, millel võib olla suur tähtsus sõidukite energiakulu ja heitkoguste vähendamisel. Selle ettepaneku ja rehvide tüübikinnituse õigusaktide ühine mõju peaks tooma kaasa 5% kütusesäästu kogu ELi autopargilt aastaks 2020. See ettepanek annab tarbijatele ühtlustatud teavet kütusetõhususe kohta. See annab teavet ka märghaardumise kohta, mis on veel üks rehvide oluline näitaja, ning välise veeremismüra kohta. Niiviisi aitab märgistus tuua turule paremate näitajatega rehvid, hoides samal ajal ära ühtede parenduste saavutamise teiste arvelt.
+<P>
+Sel nädalal hääletusele pandav raport lisab esialgsele ettepanekule mõne märkimisväärse paranduse, näiteks direktiivi muutmine määruseks, mis vähendab ülevõtmise kulusid ning tagab, et kõik hakkavad kohaldama märgistust samast kuupäevast alates. Talverehvide lisamine märgistuse kohaldamisalasse, võttes esimesel võimalusel vastu spetsiaalsed klassifikatsioonid, toob kasu ka neile, kes sõidavad jää- ja lumeoludes.
+<P>
+Oluline on, et me leiame parima viisi märgistuse näitamiseks. Selle üle käib mõnetine arutelu. Sooviksime väga, et te toetaksite meie ettepanekut asetada märgistus kleebistele, mida praegu kasutatakse rehvidel nende mõõtude, kandevõime indeksi ja muu näitamiseks.
+<P>
+Minu arvates oleme teinud selle õigusloome protsessi jooksul tõesti märkimisväärseid edusamme energiateemal ning kõige tähtsam on see, et seda toetavad meie kodanikud ja tööstusharu. Hannoveri messi külastades nägime, et tööstuses on astutud suur samm energiatõhususe suunas, mitte ainult valdkondades, mida oleme siiani reguleerinud, vaid ka muudes tööstusvaldkondades, näiteks erinevad seadmed, mida kasutatakse lõpptarbimisel ning eri tööstusharudele vahendite tootmiseks.
+<P>
+Energiatõhusus, energia ja Euroopa: need on märksõnad, mis tähistavad seda, mida oleme selle õigusloome protsessi jooksul saavutanud. Sooviksin tänada kõiki osalenuid ja eelkõige kõiki Euroopa Parlamendi liikmeid, kes seda toetasid.
+<P>
+Lõpetuseks vabandan, et mul võiks kuluda veel viis minutit, aga kasutan vaid ühte minutit, kui mulle teist korda sõna antakse. Tänan teid, et lubasite mul lõpuni kõnelda.
+<SPEAKER ID="084" NAME="Rebecca Harms">
+keskkonna-, rahvatervise ja toiduohutuse komisjoni arvamuse koostaja. - (DE) Proua juhataja, tänan teid, härra Piebalgs, tabava sõnavõtu eest. Ma usun, et saame oma edusamme kõige paremini mõõta sellega, mille seadsime eesmärgiks arutelu alguses. Minu mäletamist mööda oli alguses olukord selline, et proua Kroes esitas analüüsi, mille kohaselt kuulub mitmest Euroopa tasandil liberaliseerimispaketist hoolimata aina rohkemates ELi liikmesriikides turuvõim üha vähematele ja vähematele osalistele - suurtele energiaettevõtetele; see tähendab, et koondumine suureneb energiasektoris nii elektrienergia kui ka gaasi puhul. Seetõttu oli mul arutelu alguses hea meel näha, et nii komisjon kui ka hiljem Euroopa Parlament ütlesid, et kõige tõhusam vahend selle koondumisega võidelda - eriti elektrisektoris - on eraldada tootmine ja jaotusvõrk.
+<P>
+Ma võin teiega täna kihla vedada, et ilma selle eraldamiseta - nagu te esialgu pooldasite - ei suuda me tagada tarbijate tegelikku kaitset suvaliste hindade eest energiaturul. Samuti tahaksin vedada kihla, et Euroopa Parlament arutab seda õigusakti lähemas tulevikus uuesti, kuna see, mida siin praegu otsustame, ei ole piisav, et kaotada see võim ja mõne suure energiaettevõtte domineeriv seisund. Sellest ei piisa, et hoida ära elektri- ja gaasihindade aina suuremat tõusu, olenemata aina ulatuslikumatest kasumitest energiasektoris. Sellest ei piisa tegelikult, et tagada läbipaistvus ja tarbijakaitse, mida heade kavatsustega parlamendiliikmed on siin lubanud.
+<P>
+Ma pean tunnistama, et need parlamendiliikmed on selles vallas väga kõvasti võidelnud. Ent pean ütlema ka seda, et suured ettevõtted ja mõned liikmesriigid on olnud selles vallas edukad ja mitte ettenägelikud Euroopa poliitikud. Loodan, et võtate kihlveo vastu, ning nelja aasta pärast arutame siis järgmist liberaliseerimise sammu ning räägime tegelikult omandisuhete eraldamisest.
+<SPEAKER ID="085" NAME="Gunnar Hökmark">
+fraktsiooni PPE-DE nimel. - Proua juhataja, sooviksin tänada proua Morganit elektriturgude teemalise raporti eest. Variraportöörina oli meeldiv temaga koostööd teha ning minu arvates võime öelda, et oleme suutnud saavutada energiaturgude liberaliseerimise. Vähemalt oleme astunud mõne olulise sammu ning sellega oleme turu avanud. Minu arvates võime öelda, et elektrienergia raport oli samuti juhtival kohal selles protsessis, mida siin täna arutame.
+<P>
+Leian, et on oluline märkida ka selle vastuolu nende isikutega eri riikides, kes sooviksid seoses energiaturgudega rohkem kaitstud piire. Meil käib Rootsis arutelu, kus osaleb isikuid, kes sooviksid mingil määral protektsionismi seoses elektri ekspordiga. Ent see tõkestaks ja kahjustaks kõike, mida me suudame saavutada avatud elektrituruga.
+<P>
+Turgude avamisega suudame teha midagi ära seoses kliimamuutusega ning kasutada kõige paremini taastuvenergiat ja tuumaenergiat. Me suudame tagada ka selle, et meil on kogu liidus head energiatarned, ühendades riike ja turge. Ma arvan, et selle energiaturu paketiga tehtavaid samme tuleks pidada oluliseks. Kuigi tuleb astuda veel samme, oleme aidanud kaasa Euroopa energia varustuskindlusele ja kliimamuutuse vastasele võitlusele.
+<SPEAKER ID="086" NAME="Edit Herczog">
+fraktsiooni PSE nimel. - Proua juhataja, kolmanda energiapaketi puhul on sektorile seatud eesmärk tagada suurem kindlus ja läbipaistvus, samuti säästev ja taskukohane energia kõigi Euroopa kodanike ja ettevõtete jaoks. Siin on tegemist meie ees seisvate energiaturu probleemide lahendamisega. Siin on tegu liikmesriikide sõltuvuse vähendamisega ainsast allhankivast riigist. Siin on tegemist pigem tarbijaga ja tema rahuloluga. Siin on tegemist turumoonutuste ärahoidmisega, eriti nende riikide hulgas, kes toodavad odavalt, ja riikide seas, kes soovivad osta odavalt, mis ei ole tingimata samad. Siin on tegemist investorite ligimeelitamisega energiavaldkonnas.
+<P>
+Euroopa ametil hakkab olema võtmeroll ja nagu minu kolleeg raportöör härra Chichester ütles, oleme saavutanud tugeva ja sõltumatu ameti ning saanud suurendada Euroopa Parlamendi rolli, et täita neid eesmärke, mida eespool nimetasin. Ma arvan, et meie koostöö oli väga hea. Mõnevõrra on isegi kahju, et selle energiapaketiga jõuame lõpule.
+<SPEAKER ID="087" NAME="Anne Laperrouze" LANGUAGE="FR">
+Proua juhataja, lugupeetud volinik, daamid ja härrad, 2007. aasta septembris esitas Euroopa Komisjon oma kolmanda energiapaketi seoses siseturu toimimisega. Väga kiiresti hakati aruteludes keskenduma olulisele, kuigi mitte ainsale teemale seoses energia tootmise ja edastamise eraldamisega.
+<P>
+Võrkude omandiõiguse küsimust, millega minu arvates esimesel lugemisel ebapiisavalt tegeldi, tundub olevat tõsisemalt võetud. Erinevate valikute üheaegne olemasolu, sealhulgas kurikuulus kolmas viis, mida on nüüd parandatud ja selgitatud, tundub mulle hea asjana - muidugi ütlen nii, arvestades, et ma olin selle muudatusettepaneku kaasautor.
+<P>
+Muidugi oleks selle kolmanda paketi puhul vaid omandiõiguste eraldamisest rääkimine viga. Saavutatud on tegelik edu: rohkem õigusi tarbijatele, rohkem võimu reguleerivatele asutustele, suurem koostöö reguleerivate asutuste vahel, kümneaastased investeerimiskavad, suurem läbipaistvus, et võimaldada taastuvenergia arengut, suurem tehniline koostöö võrguettevõtjate vahel ning lisaks vahendid tarbimise parandamiseks, näiteks arukad arvestid.
+<P>
+See on veel üks samm Euroopa solidaarsuse suunas. Niinimetatud kolmanda riigi klausel, kuigi see on vähem kõmutekitav, kui esialgu komisjoni poolt kavandatud, kinnitab selgelt, et liikmesriigil on õigus keelduda ettevõtjat sertifitseerimast, kui sertifitseerimine seaks ohtu selle või mõne teise liikmesriigi energia varustuskindluse.
+<P>
+Mul on kahju võib-olla ühest asjast seoses energeetikasektorit reguleerivate asutuste koostööametiga: me oleksime soovinud luua tugeva ja sõltumatu asutuse, mis suudab teha otsuseid ilma meie organi toetuseta. Me hakkasime vastu kurikuulsale Meroni kohtuotsusele. Ärgem laskem end eksitada: et töötada välja tõeline Euroopa energiapoliitika, on vaja veelgi suuremaid edusamme ja eelkõige institutsioonilisi edusamme.
+<P>
+Varustuskindlus, võitlus kliimamuutusega, turgude reguleerimine - kõik need eesmärgid tuleks saavutada pragmaatilise ja mitte dogmaatilise lähenemisviisiga. See, mida Euroopa kodanikud ootavad, ei ole majandusteooriate kohaldamine, vaid konkreetsed tõendid, et turgude avamine toob neile kasu, andes neile võimaluse valida oma tarnijaid ning tagades mõistlikud, stabiilsed ja ennustatavad hinnad.
+<P>
+Olen tänulik oma kolleegidele, meie volinikule ja nõukogule selliste konstruktiivsete pingutuste eest.
+<SPEAKER ID="088" NAME="Zbigniew Krzysztof Kuźmiuk" LANGUAGE="PL">
+Proua juhataja, lugupeetud volinik, kõneldes selles arutelus fraktsiooni Liit Rahvusriikide Euroopa eest nimel, sooviksin juhtida tähelepanu neljale asjaolule.
+<P>
+Esiteks peaksime pidama positiivseks lahendusi, mille eesmärk on eraldada elektri ja gaasi tootmine ning müük nende edastamisest. See peaks võimaldama konkurentsi energiaallikate tootjate vahel ning seega langetama teenuste hinda.
+<P>
+Teiseks on oluline, et teatud liikmesriigid, kes on kohustatud viima sisse energia tootmise ja edastamise eraldamise, võivad kasutada selleks üht kolmest mudelist: võimalikult suurel määral omandiõiguste eraldamine, võrguhalduse üleandmine sõltumatule ettevõtjale ning võimalus säilitada energia tootmise ja edastamise integreeritus, aga vaid juhul, kui on täidetud tingimused, mis tagavad, et need kaks tegevusvaldkonda toimivad praktikas sõltumatult.
+<P>
+Kolmandaks väärivad äramärkimist lahendused seoses tarbija positsiooni tugevdamisega elektri- ja gaasiturul ning eelkõige võimalus vahetada energiatarnijat maksimaalselt kolme nädala jooksul ilma mingite lisatasudeta.
+<P>
+Neljandaks ja lõpetuseks tuleks eraldi mainida ka lahendusi, millel on sotsiaalne mõõde ja millega nõutakse liikmesriikidelt, et nad abistavad elektri- ja gaasitarbijaid, kes ei suuda oma arveid maksta.
+<SPEAKER ID="089" NAME="Claude Turmes">
+fraktsiooni Verts/ALE nimel. - Proua juhataja, esiteks ütlen, et rohelised hääletavad Žicću raporti poolt: see on keskkonnahoidlik; ja ma tänan kogu läbirääkimismeeskonda.
+<P>
+Soovin kulutada mõne sekundi, mida saan kasutada, siseturgudele. Täna õhtul on juba selge, et me vajame liberaliseerimise kohta neljandat paketti viie teemaga: esiteks torujuhtmete ja jaotusvõrkude omandisuhete eraldamine; teiseks juurdepääs elektri ja gaasi hoidlatele; kolmandaks rohkem õigusi ELi energeetikasektorit reguleerivate asutuste koostööametile; neljandaks elektribörsi kuulumine riigile, kuna vastasel korral ei hakka see toimima; ning viiendaks vajame eraldi kartelliseadust infrastruktuuril põhinevate majandusharude jaoks.
+<P>
+Kuigi Eluned Morgan on tarbijate eest kõvasti võidelnud, saavad tarbijad kasu vaid siis, kui hulgimüügiturg toimib. Enel võtab üle Endesa, RWE võtab üle Nuoni ja Vattenfall võtab üle Essenti. Lõpuks on meil kümme ülisuurt ettevõtet, kes ei tunne mingit huvi ei keskkonna- ega tarbijaküsimuste vastu. See oleks kartell ning selle kartelli vastu võitlemiseks vajame karmimaid seadusi. Seoses sellega oleme täna õhtul lüüa saanud härra Reuli, proua Niebleri ja teiste nendesarnaste juhtimisel. See on suur võit energia oligopolidele ning lüüasaamine Euroopa tarbijatele.
+<SPEAKER ID="090" NAME="Vladimír Remek" LANGUAGE="CS">
+Daamid ja härrad, ei ole võimalik käsitleda tervet energiapaketti nii lühikese ajaga. Sellele vaatamata sooviksin esiteks tänada kõiki, kes osalesid meie ees olevate dokumentide koostamisel. Kuid olgem realistlikud. Tulemus on endiselt täiuslikkusest kaugel. Siiski arvan, et praegusel hetkel oli võimatu rohkem saavutada. Asjaolu, et praeguse Euroopa Parlamendi ametiaeg hakkab lõppema, on kahtlemata oma osa mänginud. Mina isiklikult sooviksin kõnelda peamiselt härra Chichesteri esitatud dokumendist energeetikasektorit reguleerivate asutuste koostööameti loomise kohta. Variraportöörina olen muu hulgas toetanud seda, et amet aitaks kaasa piirkondlike turgude loomisele. Vahepeal ei ole olnud võimalik saavutada tulusamaid kavu, nagu riikideülese üleeuroopalise reguleeriva asutuse loomine.
+<P>
+Samuti olen nõudnud kinnitust esialgsele komisjoni ettepanekule säilitada Euroopa energeetikasektorit reguleerivate asutuste nõukogu otsuste tegemisel põhimõte "üks liige, üks hääl”. See on väga tähtis väikeste ELi liikmesriikide jaoks. Eelkõige suurte riikide, nagu Prantsusmaa ja Saksamaa katse suruda läbi nii-öelda häälte kaalutud määr seaks väikesed riigid kehvemasse olukorda. Näiteks põhimõte "üks liige, üks hääl” annab Tšehhi Vabariigile ja teistele riikidele suurema võimaluse seista vastu mõnede suurte võrguettevõtjate püüdlustele turul domineerida. Seoses sellega olen rahul, et minu pingutused ei ole olnud asjatud, ning ma pean seda eesistujariigi Tšehhi eduks.
+<P>
+Kõiki küsimusi seoses energeetikasektorit reguleerivate asutuste koostööametiga ei ole lõpuni lahendatud. Näiteks jääb lahti selle peakontori küsimus. Mina isiklikult tunneksin heameelt, kui amet asuks Slovakkias, kes on sellest huvitatud. Ent kõige vähem vastuvõetav lahendus oleks niinimetatud ajutine võimalus, mille kohaselt jääks amet Brüsselisse, kus on juba rohkelt ameteid - sealhulgas mõni, mis esialgu pidi seal vaid ajutiselt olema.
+<SPEAKER ID="091" NAME="Jim Allister" AFFILIATION="NI">
+Proua juhataja, olen aeg-ajalt kuulnud, et Iirimaa saare ühtne elektriturg tuuakse näiteks selliste põhimõtete kasutamisest. Otsustades selle järgi, mis on enamikule tarbijatele oluline - nimelt hind -, pean ütlema, et see ei ole edukas. Kui minister Dodds selle käivitas, siis ta lubas tõhususelt saavutatavat kokkuhoidu ja suuremat konkurentsi, et aidata minimeerida elektrienergia hulgimüügi kulusid, kusjuures valdava osa kasust pidi saama tarbija. See tundub nüüd üsna vale, eriti Põhja-Iirimaa tarbijate jaoks, kes külastajate rõdul seda arutelu kuulavad.
+<P>
+Minu arvates on osa probleemist ebatõhus reguleerimisprotsess, mis on liigselt tööstuse järgi kohandunud ning mis lubab liiga kergelt jätkata kõrgete hindadega, isegi kui nafta hind on märgatavalt langenud. Turu tipphetkel etteostmise kohta, mis põhjustab praegu ülikõrged hinnad, ei tule reguleerivalt asutuselt sõnagi, jättes suure surve all tarbijad abita, mida ta peaks pakkuma.
+<SPEAKER ID="092" NAME="Herbert Reul" AFFILIATION="PPE-DE">
+(DE) Proua juhataja, lugupeetud volinik, daamid ja härrad, me leppisime kokku, et soovime tagada kodanikele suuremat energia varustuskindlust, et nad saavad piisavalt energiat ja et nad saavad osta energiat mõistlike hindadega. Me ei leppinud kokku vahendites, millega saame seda kõige paremini saavutada.
+<P>
+Ent täna on meil tulemus, mille üle võime uhked olla ning mis on konstruktiivne ja diskrimineeriv, kuna teema on keeruline ja sellele ei ole lihtsat vastust. Lahendus on see, et me peame tagama suuremal hulgal raha investeerimise energiasektorisse, võrkudesse, võrkudevahelistesse ühendustesse ja uutesse elektrijaamadesse. See on väga oluline kaalutlus ja selle jaoks tuleb muuta kättesaadavaks vajalik kapital.
+<P>
+Teisest küljest peame tagama, et neid ettevõtteid, kes pakuvad energiat, jälgitakse ning et luuakse tõeline konkurents. Ma usun, et see oli õige lahendus kiita heaks erinevad mudelid ettevõtjate töö korraldamiseks, tagades samal ajal selle, et meil on tõhus kontroll, tugev amet ja kindel koostöö reguleerivate asutuste vahel, ning tagades selle, et ettevõtjad ei saaks teha seda, mis pähe tuleb. Asjaolu, et saab kehtestada täiesti erinevaid sätteid, sealhulgas riikide erioludele vastavaid, on tark lahendus. Kui seda õigesti kasutada, võib see ka edaspidi toimida ja aidata meid suure sammu edasi. Lisaks sellele - ning see on tõsi - võisime oma protsessi ja liikmesriikides peetud arutelude käigus näha juba muutusi toimumas. Olukord ei ole enam selline, nagu see oli komisjoni teostatud uurimise alguses. Andmed ja faktid on nüüd juba palju mitmekesisemad ning me oleme teinud märkimisväärseid edusamme, aga see, mille nüüd vastu võtame, viib meid veel sammu edasi.
+<SPEAKER ID="093" NAME="Norbert Glante" AFFILIATION="PSE">
+(DE) Proua juhataja, lugupeetud volinik, daamid ja härrad, ütlesin juba kitsamas ringis, et see arutelu energiapaketi teemal ei ole tingimata valik musta või valge, vasaku või parema vahel. Siiski on see täis ideoloogiat. Nägime seda taas täna. Tahaksin võtta vastu oma Saksamaa kolleegi proua Harmsi kihlveo ja öelda, et nelja aasta pärast me ei esita neljandat paketti, vaid tuleme toime olemasolevate õigusaktidega: turu reguleerimine, võrkude kättesaadavamaks muutmine - teemad, millega oleme Saksamaa Liitvabariigis juba edu saavutanud. Meil on positiivseid näiteid. Olen selle poolt, et jätame asjad lihtsalt nii, nagu nad on ning kasutame meile antud õigusakte, tagades nende rakendamise.
+<P>
+Teiseks sooviksin võtta sõna selle poolt, et äsja asutatud energeetikasektorit reguleerivate asutuste koostööamet saaks kindlad õigused ja kasutaks neid ning kohaldaks parimat tava liikmesriikides. Kui see nii läheb, siis ma ei kahtle, et me saavutame hea tulemuse.
+<SPEAKER ID="094" NAME="Leopold Józef Rutowicz" AFFILIATION="UEN">
+(PL) Proua juhataja, elektrienergia ja gaasi siseturu jaoks mõeldud energiapaketi arutelu on väga vaja. Et hästi toimida, peaksid määrused andma vastuse mitmele küsimusele, sealhulgas järgmisele. Kas edaspidi on ELis üks ühtne energiaturg või peame kooskõlastama riikide turge? Milline energialiik tagab meile järgmise 30 aasta jooksul stabiilsed ja piisavad energiatarned suhteliselt madalate hindadega, kuna just see on oluline ELi majanduse ja tema kodanike jaoks? Millised energiaallikad piiravad kõige paremini kasvuhoonegaaside efekti ja alandavad selle vähendamise kulusid?
+<P>
+Kahjuks ei ole selles valdkonnas siiani võetud meetmed olnud läbipaistvad ega veenvad, mis võib tuua kaasa ebasoodsad tagajärjed kodanike ja majanduse jaoks järgmise 15 aasta jooksul.
+<SPEAKER ID="095" NAME="Jerzy Buzek" AFFILIATION="PPE-DE">
+(PL) Proua juhataja, kolmanda energiapaketi eesmärk oli eelkõige tuua kasu tarbijatele meie maailmajaos ning see on saavutatud - tarbija on kõige tähtsam. Ent tuli võtta arvesse ka energiatootjate põhilisi huve. Me olime silmitsi kahe tähtsa probleemiga.
+<P>
+Esiteks varustuskindlus - ja see on saavutatud. Minu arvates on võrreldes esimese ja teise paketiga toimunud väga suur edasiminek. Ühise energiaturu loomine hakkab tõeks saama ning solidaarsuspõhimõte on praegu nähtav. Me võime investeerida ka väljapoole ELi piire, kui seda nõuavad meie turvalisusvajadused.
+<P>
+Teiseks Euroopa energiaturu avatud konkurentsi põhimõte. Seda ei ole täielikult saavutatud ning võib-olla tuleb mõelda edasistest ja täpsematest lahendustest. Ent praegusest alates peame tagama, et Euroopa turul kehtiksid kolmandate riikide investoritele samad ja mitte paremad tingimused kui liikmesriikide investoritele ning et meie energiakontsernid saaksid omavahel konkureerida ja väljaspool Euroopa Liitu vabalt investeerida.
+<P>
+Tahaksin rõhutada, et kolmas pakett on tähtis poliitiline, mitte vaid tehniline ja majanduslik sündmus ning me peaksime tõesti tunnustama seda kui suurt edu Euroopa Liidu jaoks.
+<SPEAKER ID="096" NAME="Hannes Swoboda" AFFILIATION="PSE">
+(DE) Proua juhataja, ma usun, et käesoleval juhul - ma olin oma fraktsiooni nimel gaasisektoris variraportöör - on saavutatud kompromiss, millega saame nõustuda ka teiste sektorite puhul, sest me ei vaadanud turgu ideoloogiliselt, vaid mõtlesime praktiliselt. Ühtne Euroopa turg tähendab eelkõige seda, et me anname riikide reguleerivatele asutustele rohkem võimalusi, rohkem õigusi ja kehtestame ühtsed Euroopa kriteeriumid, nii et ükski reguleeriv asutus ei teeks teistest täiesti erinevaid otsuseid ja meil ei oleks olukorda, kus üks sõltub valitsusest ja teised mitte, ja et meil on Euroopa amet, mis koostöös komisjoniga saab tegelikult töötada Euroopa turu loomise nimel.
+<P>
+Teine väga tähtis aspekt on asjaolu, et tarbija rolli tugevdatakse; seda kajastab põhimõtteliselt mitu sätet, kuigi ma oleksin soovinud seda veelgi suuremal hulgal sätetes näha. Siin on tegemist sellega, et tarbijatel oleks võimalused ja õigused ning et saavutataks läbipaistvus selles väga olulises tarnesektoris. Mõlemad need tingimused on täidetud ning seetõttu hääletan selle paketi poolt.
+<SPEAKER ID="097" NAME="Inese Vaidere" AFFILIATION="UEN">
+(LV) Lugupeetud volinik, daamid ja härrad, eelmine talv näitas hästi seda, kui suures ulatuses me sõltume gaasi impordist ning kuidas seda sõltuvust kasutatakse välispoliitika vahendina. Seetõttu sooviksin rõhutada eelkõige vajadust töötada võimalikult kiiresti välja ühtne, avatud ja tõhus maagaasi siseturg Euroopa Liidus, kehtestada võrgu jaoks määruste seadustik, et tagada läbipaistev piiriülene juurdepääs tarnevõrkudele, võimaldamaks pikaajalist kavandamist ja arengut. Pikaajalises kavas peaks võetama arvesse nii gaasitarnevõrke kui ka piirkondlikke võrkudevahelisi ühendusi. Määrusi tuleb parandada, et tagada mittediskrimineeriv juurdepääs infrastruktuurile. Samal ajal sooviksin eriti rõhutada vajadust energiaallikate mitmekesistamise järele, töötades taastuvenergia laiaulatuslikumaks kasutuselevõtuks välja tegelikud stimuleerivad meetmed. Et ehitiste energiatarbimine moodustab 40% Euroopa Liidu energia kogutarbimisest, siis on ehitistes taastuvenergia kasutamine esmatähtis nende energiatõhususe, ökonoomsuse ja soojustuse puhul. Euroopa Liidu, riikide ja kohalike omavalitsuste meetmed, samuti finantsstiimulid, peavad olema ühtsesse süsteemi liidetud. Aitäh.
+<SPEAKER ID="098" NAME="Ján Hudacký" AFFILIATION="PPE-DE">
+(SK) Enne kui läheme selle raporti mitme aspekti juurde, sooviksin tänada raportööri proua Ţicăud ja teisi variraportööre nende koostöö eest raporti koostamisel.
+<P>
+Minu ja minu fraktsiooni huvi oli see, et raport tagaks head eeltingimused komisjoni, nõukogu ja Euroopa Parlamendi vahel kiire lõpliku kokkuleppe sõlmimiseks praktiliste meetmete kohta, edendamaks ehitiste energiatõhusust eri liikmesriikides.
+<P>
+Seoses sellega pean ütlema, et ma olin kriitiline mõne ettepaneku suhtes, mis tooksid kaasa mõttetud bürokraatlikud meetmed ja ülemääraselt ambitsioonikad kohustuslikud eesmärgid eri liikmesriikidele ning mis lõplikus analüüsis takistaksid suuresti väga vajalike projektide praktilist rakendamist. Üks selle raporti tähtis aspekt on kõige tasuvama energiatõhususe arvutamiseks ühtse ühtlustatud meetodi kokkuleppimine, mis oleks liikmesriikidele aluseks oma miinimumstandardite kindlaksmääramisel ja mis võtaks arvesse ka piirkondlikke kliimaerinevusi.
+<P>
+Lõpetuseks sooviksin nimetada ka finantsabi küsimust, mis on vajalik, et rakendada energiatõhususe parandamise meetmeid eri liikmesriikides. Nõustun ettepanekuga asutada koostöös Euroopa Investeerimispangaga Euroopa fond, mis looks tingimused finantsvahendite tekitamiseks, et rajada riiklikud ja piirkondlikud fondid niinimetatud finantsvõimenduse efekti kaudu. Avaldan tunnustust ka ettepanekule julgustada tõukefondide paremat kasutamist eesmärgiga parandada energianäitajaid eri liikmesriikides.
+<P>
+Kokkuvõtteks sooviksin rõhutada väga tähtsat asjaolu, mis seondub energiatõhususe parandamise meetmete kiire ja põhjaliku läbivaatamisega eri liikmesriikides. Ehitussektoris energiatõhususe teema taastõstatamine, välja arvatud väga suur vähenemine...
+<P>
+(Juhataja katkestas kõneleja.)
+<SPEAKER ID="099" NAME="Reino Paasilinna" AFFILIATION="PSE">
+(FI) Proua juhataja, sooviksin eelkõige tänada raportööre, kes sel teemal arutlevad. Oleme jõudnud olulisse etappi. Oleme õigel teel, kuigi nagu öeldi, tänapäeval ei ole miski piisav. Meil on veel palju tööd ees.
+<P>
+Arukad arvestid, vajadus luua toimiv ja avatud energiasüsteem, vajadus tõelise konkurentsi järele - need on märksõnad, mis meie arvates on tähtsad, ning see on nii ka tarbijaõiguste puhul. Energiavaesus on muutunud tõsiseks küsimuseks. Energiahind tõuseb; see on kallis kaup ning seetõttu tuleb tagada inimeste õigused. Seetõttu muudame energiaga varustamise selle õigusaktide paketiga avalikuks teenuseks. Mis puutub minu fraktsiooni, see tähendab Euroopa Parlamendi Sotsiaaldemokraatide fraktsiooni, siis näitab see, et me kaitseme tarbijate huve ning muudame seega turu võimalikult läbipaistvaks. Astugem seda teed mööda edasi. Aitäh.
+<P>
+(Aplaus)
+<SPEAKER ID="100" NAME="Neena Gill" AFFILIATION="PSE">
+Proua juhataja, alates meie läbirääkimistest Beleti raporti teemal avastasime, et kõik sidusrühmad - rehvitootjatest kuni keskkonnaküsimustes lobitöö tegijateni - olid üldjoontes üksmeelel selle õigusakti vajaduses. Sooviksin avaldada raportöörile tunnustust selle eest, kuidas ta on selle raportiga tegelenud ja variraportööridega koostööd teinud.
+<P>
+Usun, et seda õigusakti vajatakse kohe. See pakub tuge autotööstusele, kus on praegu väga rasked ajad. Külastasin hiljuti Stoke'is Michelini ja Jaguar Land Roveri tehaseid oma valimisringkonnas, kus nägin, kuidas rohelise tehnoloogia alane teadus- ja arendustegevus on juba täielikult käimas. Igasugune toetus, mida tööstusharu saab majanduslanguse ajal, peab keskenduma nõuetele kohaneda keskkonnaeesmärkidega.
+<P>
+Sellised õigusaktid tagavad, et meie tootjad muutuvad tehnoloogia valdkonnas maailmas juhtivaks, mida me väga kiirelt vajame. Sellest ettepanekust võidavad kõik, see aitab ka tarbijaid, pakkudes väga vajalikku selgust. Rehvid ei ole odavad, ent siiski on enamik ostjaid sunnitud tegema ühesuguseid oste. See teave aitab liikuda kaupade poole, mis vähendavad nii heitkoguseid kui ka mürasaastet. Selle ettepaneku kaudu saame edendada tõeliselt konkurentsivõimelist keskkonnasäästlikumate kaupade turgu.
+<SPEAKER ID="101" NAME="Dragoş Florin David" AFFILIATION="PPE-DE">
+(RO) Lugupeetud volinik, esimene kasutegur, mida kodanikud saavad uuest vabast turustruktuurist, tuleneb demokraatia mõiste põhiolemusest. Ma räägin vabadusest. Tõhusalt toimivad turud, mis annavad uustulnukatele võimaluse pakkuda kodanikele energiateenuseid, on tulutoov alternatiiv tarbijate jaoks. Tegelikult muutub nende roll passiivse teenusesaaja omast aktiivse turuosalise omaks. Näiteks saavad nad tarnijat vahetada, kui teenuste kvaliteet on halb, elektritarne katkeb või hinnad on liiga kõrged. Valikuvabadus võimaldab tarbijatel osaleda aktiivsemalt kliimamuutuse vastasel võitlusel, kuna nad saavad valida tarnijad, kes pakuvad väikese süsiniku heitkogusega taastuvenergiat. Uus meetmepakett toob kaasa madalamad hinnad, uuenduslikud tooted ja teenuste kvaliteedi paranemise. Teine viis, kuidas kodanikud saavad kasu energiasektori dereguleerimisest, on energia varustuskindluse kaudu. Ma tunnen heameelt selle üle, et uude erimeetmete õigusakti on lisatud kaitsetute tarbijate kaitsmine.
+<SPEAKER ID="102" NAME="Romana Jordan Cizelj" AFFILIATION="PPE-DE">
+(SL) Euroopa Parlament on teinud õigesti, kui on asetanud tarbija oma läbirääkimiste keskmesse, kuna see, mida siseturg vajab, on suuremate õigustega ja selgele teabele juurdepääsu omav tarbija. Tarbija peab saama valida oma teenusepakkujat ning seetõttu vajab ta ka arukat arvestit.
+<P>
+Mul on hea meel, et me oleme jõudnud kokkuleppele selle ulatusliku ja ametialaselt nõudliku toimiku üle. Ent minu arvates võimaldab omandiõiguste eraldamise kohta saavutatud kompromiss suuremaid organisatoorseid erinevusi elektri- ja gaasiturgude vahel eri liikmesriikides. Samuti loodan, et koos selles paketis sisalduvate mehhanismide ja sätetega, nagu suurem sõltumatus riiklike reguleerivate asutuste jaoks, suudame need erinevused ületada ning taasluua elektrienergia ja gaasi ühtse turu.
+<SPEAKER ID="103" NAME="Czesław Adam Siekierski" AFFILIATION="PPE-DE">
+(PL) Proua juhataja, sellise ettevõtmise edukuseks nagu ühtse energiaruumi rajamine on vajalikud ühised ja kooskõlastatud investeeringud energiainfrastruktuuri. Oluline ülesanne on suurendada Euroopa elektrijaamade tootmisvõimsust ja töötada välja piiriülene võrgustik. Samal ajal tuleks pidada silmas keskkonna heaolu ning kliima- ja energiapaketi suuniseid. Teine proovikivi, mis ilmneb ELi energiaturu ühtlustamisel, on väljastpoolt ELi pärit energiaallikate varustuskindluse tagamise küsimus.
+<P>
+Majanduslikel põhjustel ja ka varustuskindluse põhjustel tuleb püüelda tarnete mitmekesisuse poole ning teha rohkem pingutusi, et töötada välja Euroopa energiasüsteem. Lisaks esineb hirm, et energiaturu täielik konkurentsile avamine võib seada ohtu ELi vaeseimad elanikud, kes ei suuda tihtipeale oma arveid korrapäraselt maksta. Siinkohal võiks kaaluda võimalikke vahendeid, mis tagaksid, et nendelt inimestelt ei võetaks ära elektrit.
+<SPEAKER ID="104" NAME="Iliana Malinova Iotova" AFFILIATION="PSE">
+(BG) Proua juhataja, mina olin siseturu- ja tarbijakaitsekomisjoni nimel gaasituru teema variraportöör. Arvatavasti olete kõik nõus sellega, et kolmanda energiapaketi suurim saavutus on kaitse, mida pakutakse Euroopa tarbijatele ja kodanikele. Esimest korda on sellised tekstid selgelt koostatud. Sooviksin pöörata erilist tähelepanu kütusevaesuse määratlusele ja sellele, et muuta võimatuks tarnete katkestamine, samuti võimalusele vahetada tarnijat tasuta ning lihtsalt arusaadavatel läbipaistvatel tingimustel. Ent selle õigusakti tulevik seisneb tarbijatele veelgi suuremate tagatiste, kaitsetutele inimestele kaitsemeetmete ning lepinguliste suhete puhul tingimuste suurema läbipaistvuse ja võrreldavuse pakkumises. Järgmine põhiküsimus meie kui parlamendiliikmete jaoks on hinnad ja nende reguleerimise meetmed ajal, mil hinnad pidevalt tõusevad. Ma usun, et selle õigusaktiga jätkatakse edaspidi samas suunas.
+<SPEAKER ID="105" NAME="Paul Rübig" AFFILIATION="PPE-DE">
+(DE) Proua juhataja, lugupeetud volinik, sooviksin avaldada teile tunnustust just selle paketi puhul. See on suur edusamm meie kodanike heaks Euroopas. Te kõik tunnete mõju enda rahakotile ja pangakontole. See on tähtis edusamm ka väikeste ja keskmise suurusega ettevõtete jaoks, kuna nad peavad muutuma konkurentsivõimelisemaks, eriti praegusel majandus- ja finantskriisi ajal, ning sellist laadi energiapakett on õige lähenemisviis sellega tegelemiseks.
+<P>
+Asjaolu, et meil hakkab tegutsema Euroopa reguleeriv asutus, kes aitab kaasa sellele, et iga liikmesriigi ettevõtteid koheldakse ülejäänud 26 liikmesriigis võrdsetel alustel, ning et energiatarnijad ülejäänud 26 turul saavad uusi võimalusi, on selle määruse tähtis aspekt, mis loob täiesti uue tee.
+<P>
+Seoses õigusnormidega passiiv- ja aktiivmajade kohta sooviksin öelda ka seda, et meie suur tähelepanu ehitiste tõhususele toob loodetavasti edaspidi kaasa uusi töökohti selles valdkonnas.
+<SPEAKER ID="106" NAME="Juhataja">
+Härra Stolojan, kuna te olete nii palju selles arutelus osalenud, kuigi ma ütlesin teile, et aeg on ületatud, siis ma arvan, et teie vastutustundlikku lähenemist ja teie kohalolekut tuleks tunnustada ning seega annan erandina teile üheks minutiks sõna.
+<SPEAKER ID="107" NAME="Theodor Dumitru Stolojan" AFFILIATION="PPE-DE">
+(RO) Proua juhataja, sooviksin avaldada tunnustust kõigile raportööridele nende suurepärase töö eest. Olen kindel, et me kõik mõtleme, miks meil ei ole veel elektrienergia või maagaasi ühtset turgu. Just siinkohal arvan, et iga liikmesriik, kes ei ole veel Euroopa direktiivi sätteid täitnud, peaks seda tegema.
+<P>
+Teiseks avaldan heameelt otsuse üle luua energeetikasektorit reguleerivate asutuste koostööamet ning sooviksin teatada Euroopa Parlamendile, et Rumeenia on taotlenud selle ameti asukohaks oma riiki.
+<SPEAKER ID="108" NAME="Andris Piebalgs">
+komisjoni liige. - Proua juhataja, luban, et teen väga lühidalt. Olen rahul paketiga, mis vastu võetakse. Ei ole olemas ideaalset õigusakti. Need on õigusaktid, mis on võetud vastu arutelu ja kompromisside kaudu. Me alustasime väga suurte lahkarvamustega, aga lõpuks võttis nõukogu ettepaneku peaaegu ühel häälel vastu.
+<P>
+Euroopa Parlamendi tööstuse, energeetika ja teadusuuringute komisjonis oli enamus selle kompromissi poolt. See tähendab, et oleme toiminud õigesti.
+<P>
+Ma tean, et nüüd on palju tööd teha seoses rakendamise, jälgimise ja ameti vajadustega, aga me oleme tõesti taganud põhilised õigusaktid oma kodanikele.
+<P>
+Suur aitäh teile tehtud töö eest. Me võime selle üle tõeliselt uhked olla.
+<SPEAKER ID="109" NAME="Eluned Morgan">
+raportöör. - Proua juhataja, tahaksin veel kord tänada kolleege koostöö eest. Samuti sooviksin tänada Bethan Robertsit ja Rene Tammistit, kes on aidanud palju selle raporti ettevalmistamisel.
+<P>
+See on minu viimaseid sõnavõtte pärast viitteist aastat Euroopa Parlamendis ning olen rahul, et oleme Euroopa üldsuse nimel teinud niivõrd suure edasimineku energiaturgudel. See pole kaugeltki täiuslik, aga see on kindlasti samm edasi.
+<P>
+Ma arvan, et energiakriis muutub eelolevatel aastatel teravamaks, seega õige tururaamistiku loomine ja õigete stimuleerimisvahendite tagamine õiget liiki investeeringuteks on väga tähtis. Me vajame hinnangute kohaselt ühe triljoni euro väärtuses investeeringuid turgudel, et peatada edaspidine energiakitsikus.
+<P>
+Aga teha on veel väga palju. Kas teate, et Euroopa Liidus on kaskteist riiki, kus ühele ettevõttele kuulub valdav osa ehk 70% elektriturust. Meie praegune olukord on võimalikest halvim. Me arvame, et meil on konkurents, aga tegelikult on meil teatud turgudel valitsevatel väga suurtel ettevõtetel ulatuslik võim. See nõuab meetmeid riiklikelt reguleerivatelt asutustelt ja konkurentsiametitelt, tagamaks, et me ei jätkaks sel viisil.
+<P>
+Tegelik eesseisev katsumus on rakendamine. Ärgem unustagem, et on olemas ELi õigusnormid, mis energiaturgudel juba kehtivad, ning just seetõttu, et neid õigusakte ei täidetud, pidime selle õigusakti läbi vaatama. See, kas me vajame neljandat paketti või mitte, sõltub sellest, kas komisjon tagab nende uute õigusnormide rakendamise ning hea poliitikakujunduse riiklike reguleerivate asutuste ja konkurentsiametite poolt. Seega oodakem komisjoni ja ka riiklike reguleerivate asutuste tegevust.
+<SPEAKER ID="110" NAME="Giles Chichester">
+raportöör. - Proua juhataja, tahaksin esmalt öelda kõigile edasi oma kolleegi härra Vidal-Quadrase vabanduse. Ta ei saa oma sõnavõtuvõimalust kasutada. Tal on kiireloomulised asjaajamised mujal, aga ta palus mul öelda - mis on temast väga kena -, et me leppisime kokku minu sõnavõtus meie fraktsiooni nimel.
+<P>
+Sooviksin peatuda ühel või kahel punktil, mis on arutelus esile kerkinud. Esimene on seotud kolleegiga, kes väljendas muret selle üle, et lõpuks koondub võim väga väheste kommunaalettevõtete kätte. Kui see peaks juhtuma, siis on komisjonil konkurentsieeskirjade alusel volitused sellega tegelda ning meil on pretsedent teistest maailmajagudest, sealhulgas Ameerika Ühendriikidest, kus on tegeldud kinnistunud monopoli või domineeriva turujõuga. Seega on see viimane väljapääs, kui nendest õigusnormidest ei piisa.
+<P>
+Kas peaksime hakkama arutama ka neljandat paketti? Pean tuletama volinikule meelde, et ma kutsusin teda üles ettevaatlikkusele kolmanda paketiga tegelema hakkamisel: parem on oodata ja vaadata, mida teise paketiga pärast selle rakendamist saavutati. Ma arvan, et me peame praegu andma aega selle paketi ülevõtmiseks: seda tuleb rakendada ja jälgida selle toimimist, enne kui otsustada, kas midagi on vaja.
+<P>
+Pean ütlema, et minu pettumuse omandisuhete eraldamise ebaõnnestumise pärast on heastanud minu optimism seoses võimalusega, et koostööamet võib kasutada talle antud õigusi olukorraga tegelemiseks; ning ma tahaksin tänada oma teist kolleegi, kes nõuab energeetikasektorit reguleerivatele asutustele suuremaid õigusi.
+<P>
+Turujõud juba liiguvad selles suunas. Kaks Saksmaa kommunaalettevõtet võõrandavad enda ülekandesüsteeme, kuna nad on saanud aru, et sellel on ka suurem kasulikkus.
+<P>
+Kas võiksin lõpetuseks mainida uuesti konkurentsi? See tähendab suuremat kasu ja paremat teenust tarbijatele ning see tähendab tõhusamat ressursside kasutamist. Seetõttu on see hea otsus.
+<SPEAKER ID="111" NAME="Antonio Mussa" LANGUAGE="IT">
+Proua juhataja, daamid ja härrad, sellest ühisest arutelust on tekkinud väga tugev tunne: suur rahulolu, et oleme suutnud tööstuse, teadusuuringute ja energeetikakomisjoni esitatud kolmanda paketi näol luua paketi, mis on Euroopa kodanikele oluline. Loomulikult ei ole see viimane pakett, sest - nagu te teate - on väga tugev ajend hakata kasutama alternatiivseid energiaallikaid, nagu taastuv- ja tuumaenergia. Ent järgmise kümne, viieteistkümne või kahekümne aasta pärast sätestatakse selles kindlasti energia nõudlus ja vajadus ning nähakse ette sätted tarbijatele ja muidugi kaitstakse neid ja eriti kõige kaitsetumaid tarbijaid.
+<P>
+Ma usun, et proua Morganil, minul ja kõikidel teistel asjaomastel parlamendiliikmetel on olnud märkimisväärne roll kaitsetute tarbijate kaitsmisel, andes arvestatavad õigused nii riiklikele kui ka piirkondlikele ametiasutustele, kes võivad kriisi ajal teha muudatusi; ma ei ütle, et nad võivad anda energiat tasuta, aga nad saavad kindlasti teha muudatusi ja tagada katkematu energiatarne.
+<P>
+Teine tähtis punkt on see, et Euroopa elanikkond ei ole teadlik sellest, mida me oleme komisjonis, nõukogus ja parlamendis teinud selle paketi puhul, mis on äärmiselt tähtis energiatarbijate jaoks - te nägite, mis juhtus eelmisel talvel. Ma arvan, et ei ole midagi hullemat kui jätta teavitamata need, kes olulisest projektist kasu saavad. Ma arvan, et komisjoni, nõukogu ja parlamendi õlul peaks olema ülesanne, isegi enne, kui me hakkame muretsema selle paketi kohaldamise pärast, anda tarbijatele teada, et pakett on olemas, teatada neile, mida nende heaks, nende nimel ja veel kord nende jaoks on tehtud.
+<SPEAKER ID="112" NAME="Atanas Paparizov">
+raportöör. - Proua juhataja, soovin öelda nagu mu kolleegid, et kuigi kolmas energiapakett ei ole täiuslik, siis on see väga hea alus meie ühise turu arendamiseks, eriti gaasi puhul, ning gaasi varustuskindluse suurendamiseks.
+<P>
+Selliste riikide jaoks nagu minu kodumaa, mis on väike Euroopa Liidu riik, on väga tähtis omandisuhete eraldamise teemal kompromissi saavutamine, sest see annab meile kinnitust, et me suudame siiski tagada oma energia varustuskindluse terve paketi abil, mis hõlmab tõhustatud eeskirju, läbipaistvust, kolmanda riigi klauslit, ja kõigi muude paketi osade abil, mis annavad meile võimaluse asetada energia varustuskindluse teema tähtsale kohale.
+<P>
+Pakett annab ka tarbijatele kindluse, et nad saavad kasutada oma õigusi, ning loob parema konkurentsiraamistiku energiaturgude arendamiseks ja nende tõhusaks toimimiseks. See pakett sõltub rakendamisest, nagu minu kolleeg Eluned Morgan just ütles ning ma ei usu, et neljas pakett on lahendus. Pigem on lahenduseks täpne rakendamine ja liikmesriikide vaheline solidaarsus turu kujundamisel, töötades eelkõige välja uusi algatusi piirkondlikuks koostööks, eriti energiatarnete puhul kõige kaitsetumate riikide jaoks ja riikide jaoks, mis on praegu energiasaared.
+<SPEAKER ID="113" NAME="Ivo Belet">
+raportöör. - (NL) Seoses energiatõhusate rehvide märgistamisega - meede, mis jõudis lõpuks sellesse paketti - sooviksin lisada paar sõna kulude kohta. See on meede, mis rehvitööstuse jaoks ning seega ka tarbija jaoks ei lähe peaaegu midagi maksma. Kulud tootja jaoks on hinnangute kohaselt alla 0,01 euro rehvi kohta, mis on tähtsusetu, juhuks kui keegi tundis soovi teha mingit kriitikat. Igasugune lisakulu, mis tuleneb energiatõhusate rehvide ostmisest, tasub arvutuste järgi kaheksa kuu jooksul ennast ära. See on siis, kui nii autojuht kui ka keskkond hakkavad osa saama tegelikest kasuteguritest.
+<P>
+Veel sooviksin rõhutada asjaolu, et seda meedet tuleb kohaldada võrdselt nii kõikides liikmesriikides kui ka kõigi ELis ja väljaspool asuvate tootjate suhtes. Seetõttu eelistame direktiivi asemel määrust.
+<P>
+Seega me mõistame, et mitme aspekti kohta on erinevaid arvamusi mõnes Euroopa Parlamendi fraktsioonis, loodame siiski, et homme kiidab suur enamus selle meetme heaks. Selle meetme täielikul kohaldamisel saame ära hoida sellises koguses süsinikdioksiidi heiteid, mis on samaväärne ühe miljoni sõiduauto kõrvaldamisega. Seega ei pea lisama, et me peaksime selle meetme võtma kasutusele pigem varem kui hiljem.
+<P>
+Sooviksin lõpetuseks öelda aitäh variraportööridele, proua Chambris'le Euroopa Komisjonist ja härra Sousa de Jesusele Euroopa Rahvapartei (Kristlike Demokraatide) ja Euroopa Demokraatide fraktsioonist meie suurepärase koostöösuhte eest.
+<SPEAKER ID="114" NAME="Silvia-Adriana Ţicău" LANGUAGE="RO">
+Daamid ja härrad, ettepanek, millega muudetakse ehitiste energiatõhususe direktiivi, on üks tähtsamaid meetmeid, mille Euroopa Parlament on vastu võtnud, seda nii Euroopa kodanike elukvaliteedi parandamise kui ka ELi majandusliku taastumise edendamise puhul. Euroopa kodanikud ootavad tegusid ning tegelikke lahendusi probleemidele ja oma väga konkreetsetele vajadustele.
+<P>
+Mina isiklikult usun, et Euroopa Regionaalarengu Fondi vahendite määra tõstmine kuni 15%-ni, mille ulatuses liikmesriigid võiks kasutada vahendeid elamute energiatõhususe rahastamiseks, on möödapääsmatu. See pakuks liikmesriikidele suuremat paindlikkust ja võimalust kasutada järgmisel aastal vahekokkuvõtet selle kohta, kuidas tõukefonde rakendatakse, nii et nad saaksid rakenduskavad vastavalt ümber teha eesmärgiga saavutada tõukefondide parem kasutus.
+<P>
+Tahaksin toonitada, et sellel direktiivil on väga suur potentsiaal luua uusi töökohti: Euroopa tasandil saaks luua ligikaudu 500 000 töökohta, mis avaldaks suurt mõju piirkonna või riigi tööturule.
+<P>
+Lugupeetud volinik, ma loodan, et te toetate seda, sealhulgas Euroopa Regionaalarengu Fondilt saadava toetuse miinimummäära kehtestamist ehitiste energiatõhususeks ka edaspidi. Tahan veel kord tänada variraportööre, tööstuse, teadusuuringute ja energeetikakomisjoni töötajaid ning teisi raportööre, kes on meid toetanud ja kellega oleme teinud väga head koostööd.
+<SPEAKER ID="115" NAME="Juhataja">
+Arutelu on lõppenud.
+<P>
+Hääletus toimub kolmapäeval, 22. aprillil 2009.
+<P>
+Proua Ţicău raporti hääletus toimub neljapäeval, 23. aprillil 2009.
+<P>
+Kirjalikud avaldused (kodukorra artikkel 142)
+<SPEAKER ID="116" NAME="Adam Gierek  " LANGUAGE="PL">
+Mitte väga palju aega tagasi pidasid miljonid inimesed paneelelamusse kolimist tõusuks sotsiaalsel redelil ja elustandardi paranemiseks. Odav energia tähendas, et keegi ei muretsenud küttekulude pärast.
+<P>
+Praegu elab ligikaudu sada miljonit inimest paneelmajas. Tahaksin paluda Euroopa Komisjonilt, et ta annaks ulatuslikku abi Euroopa Liidu fondidest nende ehitiste ja tervete elurajoonide ajakohastamiseks, eriti Kesk- ja Ida-Euroopas. Raha tuleks selleks leida 2007.-2013. finantsraamistiku vahekokkuvõtte osana. Praegune eluasemekulude 3% piirang Euroopa Regionaalarengu Fondi eraldise puhul on kahtlemata liiga väike.
+<P>
+Ulatuslik paneelmajade ja elurajoonide ajakohastamine ja taastamine ELis vähendab küttekulusid, tõstab elatustaset, loob kümneid tuhandeid töökohti ning vähendab energiatarbimist. See toob otseselt kaasa sellises mahus kasvuhoonegaaside heitkoguste vähenemise, mis viib meid lähemale nii-öelda 3 x 20 eesmärkidele.
+<P>
+Olemasolevate paneelmajade ajakohastamise toetamine peaks olema Euroopa Parlamendi uue koosseisu ülesanne. Nõudlus seda laadi teenuse järele võib mängida suurt rolli praegusest majanduskriisist ja tööpuudusest ülesaamisel, samuti vaesusevastastel võitlusel.
+<SPEAKER ID="999" NAME="Louis Grech  " AFFILIATION="PSE">
+kirjalikult. - Energiakulud suurenevad ähvardaval kiirusel, põhjustades energiaga seotud vaesuse olulise kasvu kogu ELis. Ent energia turuhind on vaid üks probleemi tahk. Tarbijatele tekitatakse märkimisväärne täiendav finantskoormus energiaturu ebatõhususe ja moonutuste tõttu. Näiteks Maltal said tarbijad ja ettevõtted tunda oma energiakulude pööraselt suurt tõusu, kui naftahind oli kõrgeimal tasemel, aga need kulud ei langenud siis, kui naftahind alanes üle poole võrra. Me vajame kogu Euroopa Liitu hõlmavat poliitikat, et kaitsta tarbijaid ja VKEsid halbade hinnakujundustavade eest, mida osa kommunaalteenuste ettevõtteid kasutab. Üks lahendus võib olla riiklik sõltumatu reguleeriv asutus, kes korraldaks vajalikke kontrollimisi ja vastumeetmeid igasuguse kuritahtliku ja läbipaistmatu käitumise korral erasektori ettevõtjate ja/või valitsusele kuuluvate ettevõtete poolt seoses kommunaalteenuste, nagu gaasi, elektri, vee, lennujaamamaksude ja muude hindade tõusudega.
+<P>
+Seda tuleks rakendada kehtivate, tarbijakaitset hõlmavate ELi õigusnormide ja direktiivide parandamise kaudu eelkõige selleks, et tagada:
+<P>
+suurem läbipaistvus ja mõistuspärasus, mis reguleerivad hinnatõuse, samuti parem juurdepääs ja teavitamine seoses tarbijate õigustega;
+<P>
+väiksemad kulud ja vähem bürokraatiat tarbija jaoks, kellel on tegelikult põhjust taotleda hüvitamist.
+<SPEAKER ID="117" NAME="András Gyürk" AFFILIATION="PPE-DE">
+, kirjalikult. - (HU) Meie arvates on väga tähtis, et Euroopa Parlament võib kolmanda energiapaketi juba teisel lugemisel heaks kiita. Uus määrus võib toetada konkurentsi ELi elektri- ja gaasiturul. Ent me ei saa minna ettepaneku vastuvõtmise juurde, mainimata seda, et lõplik määrus on kaotanud suure osa oma eesmärkidest võrreldes komisjoni esialgse ettepanekuga.
+<P>
+Paketi läbirääkimise jooksul tekitas tootmise ja võrgukasutuse eraldamise teema kõige tulisemaid vaidlusi. Selle lõpptulemus avaldab väga suurt mõju ELi energiaturu struktuurile. Minu arvates ei too liikmesriikide kokku lepitud kompromiss kaasa selle valdkonna läbipaistvat reguleerimist, arvestades seda, et liikmesriigid saavad kohaldada ka kolme erinevat eraldamise mudelit. See toob kaasa ka olulised erinevused, mis lõhestavad ELi energiaturu.
+<P>
+Samal ajal on mul heameel selle üle, et nõukogu kompromiss kajastab Euroopa Parlamendi arvukaid tarbijakaitse ettepanekuid. Sellised meetmed nagu võimalus vahetada tarnijat kolme nädala jooksul, üksikasjalikumad andmed arvel ja hüvitamise korra lihtsustamine muudavad turu dereguleerimise kasutegurid suurema hulga kodanike jaoks tajutavaks. Teine tähtis muudatus on see, et uus määrus muudab keerulisemaks kolmandate riikide katsed energiat osta. Ka tänu sellele asjaolule tähendab energiapaketi eelseisev vastuvõtmine tähtsat sammu ELi ühise energiapoliitika loomisel.
+<SPEAKER ID="118" NAME="Zita Pleštinská  " LANGUAGE="SK">
+Energiatarnete maksumus ja usaldusväärsus on kõige olulisemad tegurid mitte ainult ELi konkurentsivõime jaoks, vaid eelkõige selle kodanike heaoluks. Sel põhjusel asetas Euroopa Parlament tarbija oma kolmanda energiapaketi keskmesse. Et tarbijad saaksid neist olulistest õigusnormidest osa, on Euroopa Parlament vaadanud üle ja parandanud ehitiste energiatõhususe direktiivi, kuna ehitiste energiatarbimine moodustab ligikaudu 40% ELi energiatarbimisest.
+<P>
+Projekteerijad ja ehitusjärelevalvajad saavad sellest direktiivist asjakohaseid suuniseid. Ma pean väga tähtsaks meetodit, mille kohaselt arvutatakse optimaalne kulu ning määratakse kindlaks minimaalsed ehitise soojusisolatsiooni struktuuri osade ja teenuste majandusliku tõhususe nõuded, samuti nende arvutuste kohaldamist nii uute kui ka olemasolevate ehitiste suhtes. Selliste ehitistega seotud eesmärgid, mille energia netotarve võrdub nulliga, on oluline osa muudetud direktiivist.
+<P>
+Ma väljendan heameelt Euroopa energiatõhususe ja taastuvenergia fondi loomise üle, et toetada selle direktiivi rakendamist. Siiani on tõukefonde lubatud piiratud määral kasutada ehitiste energiatõhususeks vaid kaheteistkümnes uues liikmesriigis. Nüüd laiendatakse seda võimalust kõikidele liikmesriikidele. Samal ajal suurendatakse Euroopa Regionaalarengu Fondi vahendite maksimaalset osakaalu neis projektides 3%-lt 15%-le.
+<P>
+Direktiivi eduka rakendamise tagamiseks on oluline, et liikmesriigid konsulteeriksid kohalike ja piirkondlike ametiasutustega kõigi direktiivist tulenevate aspektide teemal ning ka tarbijakaitserühmadega.
+<SPEAKER ID="998" NAME="Katrin Saks  " LANGUAGE="ET">
+Tahaksin tänada raportööre, kes tegelesid energia paketi eelnõudega, ja erilist tänu avaldada raportöör Morganile, kes tegi palju olulist tööd tarbijakaitse teemadega. Mul on eriti hea meel, et uus pakett pöörab tähelepanu ka energiavaesuse küsimusele. Liikmesriigid, kes seda ei ole veel teinud, sealhulgas minu koduriik Eesti, peaksid koostama energiavaesusega võitlemiseks riikliku tegevuskava, et vähendada energiavaesuse all kannatavate inimeste arvu. Eriti praegustes majandustingimustes on see väga vajalik. Eestis on tõsine vajadus selle küsimusega tegeleda, sest viimastel aastatel on küttearved oluliselt tõusnud. Otsetoetused vähemkindlustatud tarbijatele, nagu seda tehakse Suurbritannias, on üks oluline meede, kuid võiks ka parandada elamute energiatõhusust, mis oleks eriti efektiivne just Eestis.
+<SPEAKER ID="997" NAME="Andrzej Jan Szejna  " LANGUAGE="PL">
+Euroopa ees on palju ülesandeid, mis on seotud lühiajalise, keskmise tähtajaga ja pikaajalise energiapakkumise ja -nõudlusega. Meie kui Euroopa Ühendus oleme võtnud endale väga suurte eesmärkidega ülesande. 2020. aastaks kavatseme vähendada kasvuhoonegaaside heitkoguseid 20% ja energiatarbimist 20%.
+<P>
+Seoses sellega arvan, et me peaksime pöörama erilist tähelepanu ehitiste energiatõhususe küsimusele, kuna nende energiatarbimine moodustab tervelt 40% meie koguenergiatarbimisest.
+<P>
+Sellega sooviksin väljendada oma toetust raportöörile. Ma arvan, et me peaksime korraldama teabekampaania eesmärgiga teavitada kodanikke võimalusest ehitisi soojustades säästa raha ning me peaksime paluma ka kõigi ühenduse riikide valitsustel teha selle algatuse jaoks toetused kättesaadavaks. Me peaksime koostama kogu ELi jaoks ehitiste ühtsete minimaalsete soojustusnormide loetelu.
+<P>
+Samuti toetan tõukefondide kasutamise laiendamist, et hõlmata ehitiste energiatõhususega seotud töö kõigis ühenduse liikmesriikides, ning selle summa suurendamist 3%-lt 15%-le, mille saab eraldada Euroopa Regionaalarengu Fondist selle valdkonna projektidele.

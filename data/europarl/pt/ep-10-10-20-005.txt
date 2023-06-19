@@ -1,0 +1,10 @@
+<CHAPTER ID="005">
+Sessão solene - Discurso intercalar do mandato de Jerzy Buzek, Presidente do Parlamento Europeu
+<SPEAKER ID="121" NAME="Presidente">
+Colegas, o meu discurso é curto, como prometi há um ano.
+<P>
+Estamos a meio da minha Presidência. Precisamente no início, prometi que iria informá-los das minhas actividades.
+<P>
+Como Presidente do Parlamento Europeu, represento todos vós. Onde quer que vá, o que quer que faça, sempre senti a honra e a responsabilidade de actuar em nome desta prestigiada Assembleia.
+<P>
+Todavia, este discurso não é sobre mim: este discurso é sobre vós e a vossa actividade. Trata-se de todos nós, do que alcançámos em conjunto no Parlamento Europeu, nos últimos 15 meses, e do que temos pela frente.

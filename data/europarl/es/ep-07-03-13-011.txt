@@ -1,0 +1,12 @@
+<CHAPTER ID="011">
+Aprobación del Acta de la sesión anterior
+<SPEAKER ID="146" NAME="La Presidenta">
+Se ha distribuido el acta de ayer.
+<P>
+¿Hay alguna observación?
+<SPEAKER ID="147" NAME="Richard Corbett" AFFILIATION="PSE">
+(EN) Señor Presidente, en el punto 13 del acta se indica que un diputado ha cambiado de Grupo político para integrarse en el Grupo ITS. No indica que el señor Wise ha abandonado el Grupo IND/DEM y me pregunto si se trata de un error. Tengo entendido que su partido, el Partido por la Independencia del Reino Unido, lo ha suspendido de militancia a la espera de los resultados de la investigación de un supuesto fraude. ¿No significa esto que su Grupo también lo ha suspendido o bien la campaña de prensa era deliberadamente engañosa?
+<SPEAKER ID="148" NAME="El Presidente">
+Creo que hemos entendido, señor Corbett. Estudiaremos la cuestión.
+<P>
+(El Acta de la sesión anterior queda aprobada)

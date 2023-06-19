@@ -1,0 +1,4 @@
+<CHAPTER ID="024">
+Az ülés berekesztése
+<SPEAKER ID="219" NAME="Le Président">
+La séance est levée à 23h45.

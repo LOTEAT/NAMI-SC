@@ -1,0 +1,10 @@
+<CHAPTER ID="007-30">
+30. Kaitstud paindlikkuse ühised põhimõtted (hääletus) 
+<P>
+- Raport: Ole Christensen
+<P>
+- Enne hääletust
+<SPEAKER ID="150" NAME="Stavros Lambrinidis" AFFILIATION="PSE">
+(EL) Härra juhataja, ma sooviksin lihtsalt rõhutada, et käesoleva teksti kreekakeelse tõlkega on mõningaid tõsiseid probleeme, eriti mis puutub põhjendusi 4, 5, 6, 8, artiklit 20, jne, mille puhul inglisekeelset versiooni peetakse usaldusväärseks.
+<SPEAKER ID="151" NAME="Juhataja">
+Teil on õigus, härra Lambrinidis, paindlikkus ei tohiks ulatuda keeleliste vigadeni.

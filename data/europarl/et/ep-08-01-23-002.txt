@@ -1,0 +1,6 @@
+<CHAPTER ID="002">
+Tervitus
+<SPEAKER ID="998" NAME="President">
+Me tervitame AKV-ELi parlamentaarse ühisassamblee eesistujariigi AKV liikmeid ja nende delegatsioone.
+<P>
+Sellel erakordsel istungil arutame me globaalse tähtsusega asja, kuna kliimamuutused ja nendega seotud energiaküsimused on nii Euroopa Liidule kui kõigile maailma rahvastele ühiseks väljakutseks.

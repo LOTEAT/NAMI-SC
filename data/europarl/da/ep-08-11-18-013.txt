@@ -1,0 +1,162 @@
+<CHAPTER ID="013">
+Krav til visse selskaber om offentliggørelse og oversættelse (forhandling) 
+<SPEAKER ID="392" NAME="Formanden">
+Næste punkt på dagsordenen er betænkning af Piia-Noora Kauppi for Retsudvalget om forslag til Europa-Parlamentets og Rådets direktiv om ændring af Rådets direktiv 68/151/EØF og 89/666/EØF for så vidt angår krav til visse typer selskaber om offentliggørelse og oversættelse - C6-0171/2008 -.
+<SPEAKER ID="393" NAME="Piia-Noora Kauppi" LANGUAGE="EN">
+Hr. formand! Denne betænkning er en del af forenklingsprogrammet for selskabslovgivningen. Det er meget vigtigt, at vi i EU forsøger at forenkle miljøet for selskaber, så de kan blomstre og skabe vækst for den europæiske økonomi. Formålet er at reducere de administrative byrder, for så vidt angår krav til visse typer selskaber om offentliggørelse og oversættelse. Forslaget indgår i et vidtrækkende program for reduktion af administrative byrder, der skal frigøre og omkanalisere erhvervslivets ressourcer og forbedre medlemsstaternes økonomiske konkurrenceevne.
+<P>
+I henhold til det første selskabsdirektiv skal selskaber i nationale offentlige tidender i dag offentliggøre bestemte oplysninger, der skal indføres i medlemsstaternes selskabs- eller handelsregistre. I de fleste tilfælde medfører offentliggørelsen i den nationale offentlige tidende ekstra omkostninger for selskaberne uden at bibringe nogen reel merværdi. Formålet med forslaget er derfor at fjerne alle supplerende krav om offentliggørelse i national ret, som medfører yderligere omkostninger for selskaberne.
+<P>
+Kommissionen giver medlemsstaterne fleksibilitet, hvad angår disse supplerende krav om offentliggørelse. Medlemsstaterne kan stadig fastsætte yderligere krav, men de skal være omfattet af et enkelt gebyr, som foreslås for den nye elektroniske platform.
+<P>
+Medlemsstaterne bør indføre en elektronisk platform, der indeholder samtlige oplysninger eller giver adgang til disse oplysninger i selskabernes elektroniske aktmappe i registret. Dette vil være en omkostningseffektiv og lettilgængelig måde at give adgang til alle de nødvendige oplysninger om selskaberne. Nogle medlemsstater har allerede sådanne elektroniske registre og databaser, mens andre ikke har denne form for digital database.
+<P>
+Det vigtigste er at indføre et samlet gebyr, der fastsættes af medlemsstaterne, som dækker alle de omkostninger, der er forbundet med offentliggørelse og administration. Dette gebyr bør også dække eventuelle nationale krav om offentliggørelse af oplysninger i lokale eller regionale aviser.
+<P>
+Retsudvalget ønskede dog også at indføre en vis fleksibilitet med hensyn til disse omkostninger, og vi siger nu, at medlemsstaterne kan have yderligere gebyrer, hvis de er velbegrundede.
+<P>
+Med hensyn til det ellevte selskabsdirektiv tager forslaget sigte på kravene om oversættelse af de dokumenter, der skal indgå i det register, hvor en given filial er registreret. I forbindelse med registreringen af en filial skal selskaber videregive bestemte oplysninger fra deres egen aktmappe til registret for filialen. Det medfører ofte betydelige ekstra omkostninger for selskaber, fordi de ikke blot skal lade visse dokumenter oversætte til sproget i den medlemsstat, hvor filialen er oprettet, men også skal opfylde - i nogle tilfælde ganske vidtgående - krav om attestering og/eller notariel bekræftelse af oversættelsen. Vi forsøger derfor nu at lempe kravene om oversættelse ved at afskaffe dette krav om attestering og notariel bekræftelse af oversættelsen.
+<P>
+Formålet er at nedbringe udgifterne til oversættelse og attestering mest muligt. Dette er også til fordel for selskaberne, fordi der kan opnås en vis reduktion af omkostningerne, mens oversættelsernes troværdighed sikres.
+<P>
+Jeg er enig med Kommissionen og har så vidt muligt forsøgt at holde min ordlyd så tæt på Kommissionens forslag som muligt. Det var dog ikke muligt at nå til enighed her i Parlamentet på grundlag af Kommissionens forslag.
+<P>
+I betænkningen stiller vi en række ændringsforslag for at præcisere den praktiske gennemførelse af bestemmelserne om offentliggørelsesomkostninger og oversættelse, og vi har endvidere tilføjet et teknisk ændringsforslag for at sikre en korrekt krydshenvisning til det andet selskabsdirektiv.
+<P>
+Retsudvalget har indført tre kompromisændringsforslag, som er fremsat af en række kolleger, som betyder, at disse yderligere krav om offentliggørelse kan tillades, hvis de er velbegrundede, men de er anført i betragtningerne, dvs. de findes ikke i artiklerne. Det er efter min meget vigtigt, at medlemsstaterne i betragtningerne anbefales at bruge denne fleksibilitet, men vi opfordrer dem ikke til det. Hvis en medlemsstat mener, at dens selskaber virkelig har brug for denne offentliggørelse i den nationale offentlige tidende - og dette virkelig er noget, som medlemsstaten ønsker - kan medlemsstaten gøre dette, men vi ønsker ikke at indsætte en opfordring hertil i artiklerne.
+<P>
+Det andet punkt er, at jeg personligt forsøgte at indføre en overgangsperiode. Jeg mener stadig, at det ville være en god vej frem. I overgangsperioden ville disse krav om offentliggørelse være gældende, men efter overgangsperioden ville vi kun have den elektroniske database. Et sådant forslag om en overgangsperiode ville efter min mening også bidrage til at løse problemet med internetudbredelse, fordi nogle medlemsstater har større internetudbredelse end andre. Måske vi efter overgangsperioden kunne sikre, at informationer udbredes tilstrækkeligt i alle medlemsstater. På den måde kunne vi tage højde for, at internettet ikke er lige udbredt i alle medlemsstater.
+<SPEAKER ID="394" NAME="Charlie McCreevy">
+medlem af Kommissionen. - (EN) Hr. formand! Jeg takker ordføreren for hendes arbejde med dette forslag, som har vist sig at være mere kompliceret end forventet. Vi tager vores forpligtelse til at reducere den administrative byrde for selskaberne meget alvorligt og er taknemmelige for Parlamentets fortsatte opmuntring i denne henseende.
+<P>
+Det er dog svært ikke at være skuffet over nogle af ændringsforslagene til det første selskabsdirektiv. Lad mig minde om, at Parlamentet i sin beslutning af 12. december 2007 om Kommissionens arbejdsprogram for 2008 glædede sig over, at Kommissionen var fast besluttet på at nå målet om at reducere de administrative byrder på erhvervslivet, der opstår på EU- og medlemsstatsniveau, med 25 % inden udgangen af 2012. Parlamentet anførte at, det anså dette for at være et af de højest prioriterede områder i de kommende måneder og for at udgøre et væsentligt bidrag til at nå Lissabonmålene. Parlamentet understregede derfor, at det ville gennemgå lovgivningsmæssige forslag i lyset af dette.
+<P>
+I sin beslutning af 21. maj 2008 om enklere erhvervsbetingelser støttede Parlamentet dette specifikke forslag til ændring af det første selskabsdirektiv og erklærede sig enig i enig i, at det bør være lettere for selskaberne at offentliggøre lovpligtige oplysninger. Parlamentet støttede navnlig brugen af ny teknologi.
+<P>
+Retsudvalgets betænkning, som vi nu drøfter, underminerer fuldstændig formålet med Kommissionens forslag. I henhold til Kommissionens konsekvensanalyse anslås reduktionen at beløbe sig til ca. 600 mio. EUR om året. I henhold til betænkningsforslaget kan medlemsstaterne ikke blot fortsætte med at pålægge selskaberne alle de nuværende administrative byrder, de kan også tilføje nye. Så mens Kommissionens forslag er baseret på idéen om, at det nye redskab til offentliggørelse på en elektronisk platform skal erstatte de nuværende besværlige offentliggørelsesmetoder, vil betænkningsforslaget i stedet for at reducere de administrative byrder pålægge nye.
+<P>
+Formålet med Kommissionens forslag støttes af langt de fleste berørte parter. Det blev også støttet af et meget stort flertal af medlemsstaterne i de drøftelser, der indtil videre har fundet sted i Rådet. Ved at vedtaget direktivet i den form, som Retsudvalget her foreslår, risikerer vi at bringe troværdigheden af hele indsatsen for at reducere den administrative byrde i fare.
+<P>
+For så vidt formålet med Retsudvalgets ændringsforslag er at sikre finansieringen af aviser, der i øjeblikket er afhængige af gebyrer for selskabsoffentliggørelser, er Kommissionen i princippet enig i dette formål. Der skal dog findes andre måder at finansiere aviserne på. Vi kan ikke lægge denne byrde på selskaberne ved at forpligte dem til at overholde krav om offentliggørelse, som ikke skaber nævneværdig merværdi i det moderne teknologiske miljø.
+<SPEAKER ID="395" NAME="Margaritis Schinas">
+ordfører for udtalelsen fra Økonomi- og Valutaudvalget. - (EL) Hr. formand! På vegne af Økonomi- og Valutaudvalget vil jeg gerne formidle vores mening til Dem. Vi tilslutter os i vid udstrækning selve formålet med Kommissionens forslag, som er velstruktureret, og som naturligvis er udformet med henblik på at minimere de administrative byrder.
+<P>
+Vi mener, at sammen med oversættelse er forenklingen af procedurer og bekræftelsen af oversættelser af autoriserede oversættere fra en anden medlemsstat fuldt ud begrundet, og vi tilslutter os denne tilgang.
+<P>
+Nu kommer jeg til spørgsmålet om offentliggørelse. Vores udvalg mener - ligesom Retsudvalget - at, der ud over selskaber også er borgere, der har ret til at blive informeret. Borgerne har desværre ikke den samme adgang til elektroniske medier, som Deres oprindelige forslag forudsætter.
+<P>
+Vi lever i et pluralistisk Europa med forskellige modeller og forskellige værdier. Som kommissær fra Irland ved De, at resultatet af folkeafstemningen i Deres land, deres landsmænds opfattelse af én model for hele Europa, kostede os dyrt. Vi ønsker derfor ikke at indføre denne model i Europa i erkendelse af, at i mit land, i min region, er adgangen til internettet begrænset. Hvorfor skal vi derfor fratage disse mennesker, disse europæiske borgere, retten til at få oplysninger om forhold, der angår dem, via andre traditionelle kanaler?
+<P>
+Jeg mener derfor ligesom Økonomi- og Valutaudvalget og Retsudvalget, at den elektroniske platform med rette skal være obligatorisk. Det må dog ikke være den eneste platform. Vi skal give alle europæiske borgere adgang til information. Vi ønsker ikke en situation, hvor en borger i en region af Europa kun kan finde ud af, hvad der sker i den pågældendes region, på en BlackBerry, fordi mange mennesker ikke har en BlackBerry der, hvor jeg bor.
+<P>
+Jeg mener derfor, at De som repræsentant for Kommissionen, og vi bør sende det samme budskab til Rådet, skal tage fuld højde for den holdning, vi enstemmigt har givet udtryk for i Retsudvalget og med et stort flertal i Økonomi- og Valutaudvalget. Hvis De overvejer at ignorere den, vil jeg råde Dem til at tænke over det igen, fordi det er kun gennem produktiv demokratisk dialog, at vi kan finde gensidigt acceptable løsninger til gavn for de mange og ikke kun de få.
+<SPEAKER ID="396" NAME="Georgios Papastamkos">
+for PPE-DE-Gruppen. - (EL) Hr. formand! På sit møde i marts 2008 anmodede Rådet om nye, hurtige lovgivningsinitiativer med henblik på at forbedre erhvervsmiljøet for selskaber i EU ved at reducere de administrative forpligtelser og omkostninger. Efter min mening bidrager Kommissionens forslag til et direktiv, som vi drøfter, kun i ringe grad til den fastsatte målsætning.
+<P>
+Kerneproblemet for selskaber, navnlig små og mellemstore virksomheder, er, at der kræves objektive betingelser for at forbedre det bureaukratiske, lovgivningsmæssige og skattemæssige miljø generelt, og vi forventer et endnu mere væsentligt bidrag fra Kommissionen i den retning.
+<P>
+I dette særlige tilfælde er hovedformålet med at offentliggøre selskabers årsregnskaber mv. at anvende princippet om gennemsigtighed og offentlighed i kommercielle aktiviteter. Den begrænsede udbredelse af internettet i et betydeligt antal medlemsstater i EU udgør dog ikke en tilstrækkelig garanti.
+<P>
+Bortset fra det vil der gå tusinder af specialiserede arbejdspladser tabt inden for de traditionelle trykte medier, hvis obligatoriske registre kun skal føres elektronisk. Pressen er desuden en afgørende del af princippet om gennemsigtighed og det demokratiske liv i EU, hvis bidrag til EU's flersprogethed og diversitet ikke kan drages i tvivl.
+<P>
+Jeg mener, at sikkerhedsventilen i form af vedtagelsen af et samlet gebyr og fastholdelsen af den parallelle facilitet vedrørende offentliggørelse i de trykte medier sammen med indførelsen af et elektronisk register, som formuleret i den aftale, alle - jeg gentager alle - fløje i Retsudvalget er nået til enighed om og har stemt for, er den afbalancerede og rationelle løsning, vi har brug for.
+<P>
+Til sidst vil jeg understrege, at Parlamentet skal og har pligt til at give sit produktive samtykke til Fællesskabets lovgivning, samtidig med at det fastholder uafhængigheden af sin lovgivningsmæssige vilje. Det er Retsudvalgets ønske, som det allerede er formuleret, at Parlamentet vedtager betænkningen af Piia-Noora Kauppi, som jeg lykønsker med arbejdet.
+<P>
+Endelig vil jeg sige til kommissæren, at jeg ikke ved om De er blevet skuffet over konsensusforslaget fra Retsudvalget, men samarbejdskulturen mellem Kommissionen og Parlamentet vil - og skal - forandres, så snart Lissabontraktaten træder i kraft, og det håber jeg inderligt. Det er, hvad vi venter på nu, det er, hvad dette demokratisk valgte Parlament venter på.
+<SPEAKER ID="397" NAME="Ieke van den Burg">
+for PSE-Gruppen. - (EN) Hr. formand! Jeg vil først sige noget om proceduren. Det er en skam, at vi ikke drøftede det i morges, hvor vi sad sammen, hr. kommissær, fordi jeg er lidt overrasket over, at De er så skarp i Deres tale til Parlamentet. Med hensyn til proceduren er jeg især skarp over for den måde, som det franske formandskab har håndteret vores forslag på, idet det ikke har opfyldt kravene om forhandling eller har forsøgt at føre en dialog om et muligt kompromis.
+<P>
+Det samme gælder Kommissionen. Med problemer af denne type er det normalt, at man forsøger at mødes og finde en løsning, der tager hensyn til begge parters bekymringer. Jeg beklager, at dette er sket, og jeg håber, at vi i perioden mellem plenarmødet og afstemningen i udvalget vil få mulighed for at gøre det.
+<P>
+Med hensyn til indhold er der efter min mening ikke meget, der skiller os. Jeg er også ihærdig fortaler for lempelse af administrative byrder. Jeg søger altid at få indført XBRL-systemet inden for regnskab og denne form for elektronisk platform. Jeg tror, vi alle er enige om, at det er nødvendigt, netop fordi det elektroniske samfund endnu ikke er helt på plads i nogle medlemsstater. Det er nødvendigt med denne midlertidige overgangsløsning, så medlemsstaterne stadig kan bruge denne form for papirregistrering.
+<P>
+Dette er reelt et midlertidigt problem, og der bør kunne findes en pragmatisk løsning. Jeg hørte i denne uge, at det kun er 20 år siden, den første e-mail blev sendt, og den første internetforbindelse blev oprettet, så om 10-20 år vil det være helt normalt, at alt behandles elektronisk. Det er kun et meget midlertidigt problem, vi står med, og vi bør ikke overdrive det. Vi bør forsøge at finde en rimelig, pragmatisk løsning i den ånd, som De altid siger, at De også ønsker.
+<SPEAKER ID="398" NAME="Jean-Paul Gauzès" AFFILIATION="PPE-DE">
+- (FR) Hr. formand, fru kommissær, mine damer og herrer! Jeg vil først takke vores kollega, fru Piia-Noora Kauppi, for hendes fremragende betænkning og for hendes indsats for at finde en rimelig løsning på de forskellige problemer, især problemet med platformen.
+<P>
+Direktivforslaget er en del af den bredere indsats for at reducere selskabernes administrative byrde, reducere begrænsningerne for dem og øge deres konkurrenceevne. Vi støtter naturligvis aktivt denne målsætning, som vil gavne de små og mellemstore virksomheder. Vi godkender etableringen af en elektronisk platform med alle oplysninger om princippet om et samlet gebyr, der skal dække alle omkostninger i forbindelse med de nødvendige offentliggørelser.
+<P>
+Det er dog bedst at fremlægge de bedst mulige oplysninger og tillade fortsat anvendelse af de sædvanlige offentliggørelsesmetoder, fordi der stadig er behov for dem, navnlig den trykte presse. Den tekst, som ordføreren har fremlagt efter forhandlinger, og som er vedtaget enstemmigt i Retsudvalget, vil give medlemsstaterne mulighed for at beholde de sædvanlige offentliggørelsesmetoder, da deres omkostninger er omfattet af det samlede offentliggørelsesgebyr.
+<P>
+Vi har derfor overholdt ånden i forslaget ved at gøre platformen til et krav og ved at fastholde princippet om et samlet gebyr. Vi har dog taget højde for virkeligheden i forskellige lande uden den it-infrastruktur, som visse andre lande har, og som har informationsvaner, der ikke bør ignoreres.
+<P>
+Kommissionen er bekendt med, at der skal tages hensyn til borgernes synspunkter, og at Europa ikke må fremstå som en kilde til nye begrænsninger eller vanskeligheder. Derfor vil vi indføre en fleksibilitet, som tager højde for virkeligheden i de forskellige medlemsstater, samtidig med at der indføres et økonomisk system.
+<P>
+De sagde skarpt, hr. kommissær, at Retsudvalgets forslag underminerer Kommissionens holdning. Jeg mener ikke, det er korrekt, og det er heller ikke korrekt at sige, at Retsudvalget indfører nye krav. Tværtimod er der enighed om, at disse er eksisterende krav, som vil blive bevaret, og at vi naturligvis forkaster indførelsen af nye krav.
+<P>
+Det er efter min mening nødvendigt, at Europa viser, at det kan reducere bureaukratiet og de administrative byrder, samtidig med at de nationale identiteter respekteres.
+<SPEAKER ID="399" NAME="Manuel Medina Ortega" AFFILIATION="PSE">
+- (ES) Hr. formand! Jeg takker Kommissionen for fremlæggelsen af dette forslag. Det er efter min mening positivt og vil hjælpe os med at reducere unødvendige administrative byrder.
+<P>
+Som tidligere talere har sagt, har Parlamentet en pligt til at bringe Kommissionens meget generøse og meget uegennyttige forslag ned på jorden. Virkeligheden er, at vi har 27 lande med forskellige retlige systemer og meget forskellige sprog, hvilket betyder, at vi i hvert land skal tilpasses os til virkeligheden i det pågældende land, herunder spørgsmålet om sprog.
+<P>
+Som Jean-Paul Gauzès og de tidligere talere har sagt, er det vigtigt, at anerkendelsen af disse særlige nationale forhold ikke fører til øgede omkostninger, at gebyrer er ensartede, og at regeringer om nødvendigt bærer de yderligere omkostninger.
+<P>
+Der er dog også et andet spørgsmål: spørgsmålet om oversættelser. I EU har vi ikke et fælles sprog. Der tales forskellige sprog i alle de 27 lande og i nogle tilfælde også inden for disse lande, f.eks. kommissærens hjemland. Det må vi leve med.
+<P>
+Retligt står vi over for en virkelighed, hvor retlige dokumenter er forskellige. Retsudvalget har f.eks. foreslået ændringer af reglerne for bekræftelse af dokumenter og bekræftelse af oversættelser. Retsudvalget er i gang med at udarbejde en betænkning om anerkendelsen af bekræftede dokumenter i forskellige EU-lande, som skal supplere denne betænkning.
+<P>
+Endelig mener jeg, at Kommissionen har gjort det godt i forbindelse med fremlæggelsen af dette forslag. Ordføreren har gjort et fremragende stykke arbejde, og vi har alle forsøgt at udforme et forslag til en retsakt, der kan opnå anerkendelse i hele EU, så rettighederne garanteres, og som er baseret på virkeligheden i et EU, der stadig er under opførelse, som har forskellige nationale retssystemer, og som har forskellige niveauer af adgang til elektronisk kommunikation.
+<SPEAKER ID="400" NAME="Françoise Grossetête" AFFILIATION="PPE-DE">
+- (FR) Hr. formand! Jeg vil først lykønske fru Kauppi, ordføreren, med hendes fremragende arbejde, idet Retsudvalget takket være hende har fundet et kompromis, der blev vedtaget enstemmigt, så vidt jeg husker, hr. kommissær. Det er dermed et klart signal. Det vil forene selskabernes, især de små og mellemstore virksomheders, behov for administrativ enkelhed og borgernes ret til information, samtidig med at medlemsstaterne har mulighed for at beholde deres krav til offentliggørelse, hvis de ønsker det.
+<P>
+Jeg er overbevist om, at Parlamentet vil følge Retsudvalgets henstilling. De 27 medlemsstater har hver deres traditioner. Nogle går ind for internettet alene. Andre bruger stadig mere traditionelle papirbaserede kommunikationsmetoder. Disse traditioner skal respekteres. Vi må ikke glemme, at 50 % af Europas befolkning ikke har adgang til internettet. Hvis informationerne kun er tilgængelige på én elektronisk platform, vil de borgere, der ikke har adgang til internettet, eller som foretrækker at bruge papir, ikke kunne få information om selskaber i deres region.
+<P>
+Parlamentet er efter min mening klar over, at det ville have katastrofale følger, hvis offentliggørelsen af juridiske og retlige bekendtgørelser i f.eks. regionale aviser blot blev afskaffet. Medlemsstaterne skal derfor kunne tilrettelægge udbredelsen af information via supplerende kanaler på bestemte betingelser.
+<P>
+Hr. kommissær! Dette er ikke en ideologisk forhandling. Mener De ikke, at De under de nuværende omstændigheder har andet at gøre end at hindre noget, som fungerer godt i medlemsstaterne?
+<P>
+Når man altid forsøger at forenkle, risikerer man nogle gange at gøre tingene mere komplicerede. Reduktion af omkostninger? Ja, men til hvilken pris? Lempelse af begrænsningerne for at forbedre konkurrenceevnen? Ja, men hvad sker der med konkurrenceevnen, når forenklingen i alvorlig grad truer med at skade en hel sektors økonomi? Der er et stærkt ønske om, at Kommissionen begynder at tage til efterretning, at vi støtter løsninger, som vil sætte den trykte presse i stand til at overvinde de problemer, den aktuelt står overfor.
+<P>
+De bør ikke være uimodtagelig over for medlemsstaternes traditioner. Ved at handle på denne måde er De ansvarlig for, at en række journalister risikerer afskedigelse, og en stor del af befolkningen kommer til at mangle information.
+<P>
+Vi ønsker et afbalanceret direktiv, der omfatter den elektroniske platform og det samlede gebyr. Vi er overbeviste om, at vi har opnået denne løsning, og De skal respektere Parlamentets afstemning.
+<SPEAKER ID="401" NAME="Lidia Joanna Geringer de Oedenberg" AFFILIATION="PSE">
+- (PL) Hr. formand! Parlamentet har længe talt om problemet med de unødvendige og høje administrationsomkostninger, som europæiske selskaber skal bære. Disse omkostninger gør det ikke kun vanskeligt at drive virksomhed, de repræsenterer også en hindring for at møde udfordringerne i den moderne og særdeles konkurrenceprægede globale økonomi.
+<P>
+Det er derfor glædeligt, at Kommissionen endelig har rettet opmærksomheden mod dette spørgsmål med et forslag om at anvende den hurtige procedure med henblik på at ændre det første og det ellevte selskabsdirektiv, hvilket vil bidrage til en hurtigere forbedring af erhvervsmiljøet for de europæiske selskaber. Hvad angår det første selskabsdirektiv, forekommer afskaffelsen af alle yderligere krav om offentliggørelse i den nationale lovgivning, som forøger selskabernes omkostninger, bestemt relevant. Den foreslåede elektroniske platform med alle informationer om selskaber er en økonomisk og lettilgængelig løsning, og det samme gælder det samlede gebyr, der skal dække alle omkostninger, dvs. både administrative omkostninger og omkostninger i forbindelse med kravene om offentliggørelse.
+<P>
+Forslaget vedrørende det ellevte selskabsdirektiv omhandler oversættelse og bekræftelse af dokumenter, der skal registreres i handelsregistret for en filial tilhørende et selskab, der er etableret i en anden medlemsstat. Den gensidige anerkendelse af oversættelser, som Kommissionen foreslår som en metode til at reducere den administrative byrde, vil bidrage til at reducere selskabernes omkostninger, samtidig med at oversættelsernes pålidelighed sikres. Endelig vil jeg lykønske ordføreren, fru Kauppi, med den fremragende betænkning.
+<SPEAKER ID="402" NAME="Costas Botopoulos" AFFILIATION="PSE">
+- (EL) Hr. formand, hr. kommissær! Jeg vil benytte mit privilegium som den sidste taler til at fremsætte en politisk bemærkning og to tekniske bemærkninger til det direktiv, vi drøfter.
+<P>
+Min politiske bemærkning er, at vi er vidne til et sjældent øjeblik i Parlamentet: fuldstændig enighed mellem alle fløje i Parlamentet fra højre til venstre om den retning, Parlamentet ønsker at føre bestemt lovgivningsinitiativ i. Flere medlemmer har understreget, og det vil jeg også gøre, den kendsgerning, at dette er en sjælden begivenhed, og at det nødvendigvis skal indgå i Kommissionens endelige beslutning.
+<P>
+Vi underminerer ikke Kommissionens forslag. Vi forsøger at modernisere det og gøre det mere menneskeligt, logisk og praktisk. Det var min politiske bemærkning.
+<P>
+Jeg har to korte tekniske bemærkninger: Med hensyn til spørgsmålet om offentliggørelse har flere medlemmer, herunder undertegnede, sagt, at det er absolut retfærdigt og rigtigt, at medlemsstaterne med meget begrænset adgang til internettet af sociale og finansielle årsager får mulighed for offentliggørelse i den trykte presse side om side med den generelle regel om elektronisk offentliggørelse.
+<P>
+Jeg vil kort kommentere spørgsmålet om oversættelse, som vi ikke har haft problemer med overhovedet. Muligheden for, at der kun skal være én bekræftet oversættelse, giver os en praktisk løsning. Spørgsmålet om oversættelse, som er rejst her, er ikke et spørgsmål om sprog. Det er et spørgsmål om gennemsigtighed. Det er ikke et spørgsmål om stil. Det er et praktisk spørgsmål, som kan løses meget enkelt ved at bekræfte oversættelsen.
+<P>
+Vi skal derfor skelne mellem politiske spørgsmål og tekniske spørgsmål. Vi underminerer ikke Kommissionens forslag, vi forbedrer det.
+<SPEAKER ID="403" NAME="Charlie McCreevy">
+medlem af Kommissionen. - (EN) Hr. formand! Jeg vil først sige, at, hvis Ieke van den Burg havde rejst dette spørgsmål i morges, ville jeg med glæde have drøftet det. Jeg spurgte Dem, om der var andre spørgsmål, De ville rejse, og hvis De havde det, ville jeg have drøftet disse spørgsmål med Dem. Hvis De havde rejst et hvilket som helst spørgsmål - herunder vejret i Irland - ville jeg også have drøftet det med Dem. Det har jeg ingen problemer med.
+<P>
+Jeg har slet ingen problemer med, hvad Parlamentet beslutter, fordi det er Parlamentets opgave og det, som De skal gøre. Men vi skal huske baggrunden for netop dette forslag, og jeg vil bede Dem forstå min holdning, ligesom jeg forstår Deres.
+<P>
+Dette særlige forslag blev fremsat i forbindelse med indsatsen for at reducere de administrative byrder for små selskaber. Det var en del af forenklingen af erhvervsmiljøet. Det er beregnet, hvad dette forslag vil opnå: en årlig reduktion af omkostningerne på 600 mio. EUR. Begrundelsen for at fremsætte dette forslag var derfor at reducere de administrative omkostninger for små virksomheder. Som jeg påpegede i mine tidligere bemærkninger, har Parlamentet hilst hele projektet om reduktion af omkostningerne velkommen i en række beslutninger.
+<P>
+Det var i den sammenhæng, at det blev fremsat. Ønsket om at sænke de administrative omkostninger og sikre forenkling for små virksomheder fik os til at fremsætte netop dette forslag.
+<P>
+De kan næppe forvente, at jeg accepterer ændringsforslag fra Parlamentet, som går i den fuldstændig modsatte retning, og som ikke reducerer de administrative omkostninger, men øger dem. Hvis Parlamentet mener, at fordelene ved at bevare tingene, som det ønsker det, vejer tungest i dette særlige tilfælde, så må det være sådan. Det er et fuldstændig legitimt synspunkt. Men det kan ikke forenes med den oprindelige målsætning, som De fremhævede, som var at reducere omkostningerne. Hvis Parlamentet og andre af alle de årsager, De har nævnt, mener, at det skal forblive sådan, kan De næppe forvente, at jeg erklærer mig enig med Dem i, at dette vil reducere de administrative omkostninger, når det modsatte er tilfældet - det vil faktisk øge omkostningerne i stedet for at reducere dem.
+<P>
+De ændringsforslag, som Parlamentets to udvalg har fremsat, betyder, at den eneste ændring, som medlemsstaterne skal indføre efter vedtagelsen af dette direktiv, er at gøre det obligatorisk at bruge en elektronisk platform. Vi vil ikke opnå en reduktion af den nuværende administrative byrde gennem de besparelser, vi forventede i vores oprindelige forslag, som i konsekvensanalysen vurderes til at beløbe sig til omkring 600 mio. EUR om året, som jeg sagde tidligere. Vedtagelse af et direktiv, som ikke fører til en reduktion, men kun til kosmetiske ændringer, vil bestemt sende et dårligt signal med hensyn til den overordnede reduktion af den administrative byrde, som vi har talt om.
+<P>
+Jeg vil derfor bede medlemmerne af Parlamentet om også at respektere min holdning. Hvis Parlamentets synspunkt følger den særlige linje - og der afholdes en afstemning i morgen - så er det Deres synspunkt, og det har De helt ret til at have. Det har jeg ingen problemer med. Men De må respektere min holdning, idet jeg næppe kan acceptere ændringsforslag, der går i den modsatte retning af det oprindelige formål med at fremsætte dette forslag. Vi skal ikke komme på kant med hinanden på grund af det, men jeg kan ikke vende tingene på hovedet og sige, at det, som Parlamentet gør, er helt fint, fordi det øger de administrative omkostninger i stedet for at sænke dem.
+<P>
+Jeg kan lytte til Deres begrundelser for at bevare tingene, som de er, og måske der er en vis validitet i dem, men det er ikke det, som vi begyndte med at gøre. Det er ikke derfor, vi fremsatte netop dette forslag. Så derfor vil jeg sige: C'est la vie!
+<SPEAKER ID="404" NAME="Piia-Noora Kauppi">
+ordfører. - (EN) Hr. formand! Jeg har en bemærkning til proceduren. Ieke van den Burg har allerede sagt, at det franske formandskab ikke har behandlet denne sag særlig godt. Vi har forsøgt at foreslå flere muligheder for trepartsmøder for at drøfte mulige kompromiser. Det franske formandskab ønsker desværre ikke at komme til disse møder. De ønsker ikke at organisere møder i Rådets arbejdsgruppe for at drøfte vejen frem. De er heller ikke til stede i dag for at drøfte dette meget vigtige spørgsmål.
+<P>
+Retsudvalgets synspunkt sikrer medlemsstaterne stor fleksibilitet. Det sikrer meget større fleksibilitet end min personlige holdning. Retsudvalgets holdning går dog så vidt, som vi overhovedet kan. Der er det eneste forslag, der i øjeblikket er fremsat i Parlamentet. Hvis Rådet ikke kan acceptere Parlamentets synspunkt, dvs. Retsudvalgets synspunkt - som vi skal stemme om i morgen - som vi har anmodet det om, så skal vi have en andenbehandling.
+<P>
+Vi kan ikke tillade, at Rådet leger med os. Hvis forslaget ikke vedtages i den fremlagte form af Parlamentet i morgen, vil processen helt sikkert blive forsinket. Så vil projektet måske ikke være parat inden valget, og der er risiko for, at Kommissionen trækker forslaget tilbage. Det ville efter min mening være skuffende, hvis Rådet ikke har et kvalificeret flertal bag sig og ikke fremsætter forslag til et kompromis.
+<P>
+Vi er villige til at drøfte kompromiser. Jeg ville personligt blive meget glad, hvis Rådet ville komme med et forslag på trepartsmødet, som vi derefter kunne basere kompromiset på, men det gemmer sig, kommer ikke til møder og organiserer ikke trepartsmøder. Det sætter os i en meget vanskelig situation.
+<P>
+Derfor er jeg oprørt over diskussionerne om proceduren. Jeg håber, at Kommissionen ikke trækker forslaget tilbage. Jeg håber, vi stadig kan opnå et kompromis, der er acceptabelt for alle medlemsstater og for Parlamentet.
+<SPEAKER ID="405" NAME="Formanden">
+Forhandlingen er afsluttet.
+<P>
+Afstemningen finder sted i morgen.

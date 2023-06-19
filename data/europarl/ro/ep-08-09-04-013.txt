@@ -1,0 +1,4 @@
+<CHAPTER ID="013">
+Votare
+<SPEAKER ID="246" NAME="Presidente">
+Passamos agora à votação.

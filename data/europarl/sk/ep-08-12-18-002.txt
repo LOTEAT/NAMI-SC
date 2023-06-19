@@ -1,0 +1,122 @@
+<CHAPTER ID="002">
+Požiadavky na zverejnenie pre stredné podniky a povinnosť zostavovať konsolidovanú účtovnú závierku - Povinnosti týkajúce sa účtovníctva stredných podnikov (rozprava) 
+<SPEAKER ID="006" NAME="Predsedajúci">
+Ďalším bodom programu je spoločná rozprava o správe pani Ieke van den Burgovej v mene Výboru pre právne veci o návrhu smernice Európskeho parlamentu a Rady, ktorou sa menia a dopĺňajú smernice Rady 78/660/EHS a 83/349/EHS, pokiaľ ide o určité požiadavky na zverejnenie pre stredné podniky a povinnosť zostavovať konsolidovanú účtovnú závierku - C6-0173/2008 -, ako aj vyhlásenie Komisie o povinnostiach týkajúcich sa účtovníctva stredných podnikov.
+<SPEAKER ID="007" NAME="Ieke van den Burg" LANGUAGE="NL">
+Vážený pán predsedajúci, ospravedlňujem sa za meškanie. Pre malé a stredné podniky nastali ťažké časy. Kríza nepostihla len banky a kótované spoločnosti, ale zasahuje celé hospodárstvo a spôsobuje úbytok pracovných miest v MSP. Preto by sme v Európe urobili dobre, keby sme tomuto odvetviu pomohli.
+<P>
+Tak vznikol aj súbor opatrení, ktoré boli predstavené minulé leto ako iniciatíva Small Business Act. Tvrdo pracujem na množstve návrhov z tohto súboru vrátane štatútu európskej verejnej obchodnej spoločnosti, väčšieho dôrazu na mikroúvery a rozvíjania možnosti nízkej sadzby DPH pre poskytovateľov služieb, ktorí slúžia súkromným osobám v rámci miestneho trhu.
+<P>
+Dôležitým problémom malých podnikov je administratívna záťaž, ktorú prinášajú prevažne národné a decentralizované vlády. V oblastiach, na ktoré majú vplyv európske právne predpisy, sme však začali aktívne konať a znižovať túto záťaž. Platí to v podstate aj pre tento dokument. Povinnosť informovať, a týka sa to oboch smerníc, ktoré majú už 25 a 30 rokov a boli mnohokrát zmenené a doplnené, sa teraz upravuje a zjednodušuje prostredníctvom takzvaného zrýchleného postupu.
+<P>
+Tieto opatrenia sú však iba malým krokom smerom k zníženiu záťaže. Treba urobiť omnoho viac. V tejto súvislosti sme výslovne vyjadrili našu netrpezlivosť vo Výbore Parlamentu pre právne veci. Z tohto dôvodu sme spolu s legislatívnym dokumentom predložili uznesenie, v ktorom naliehame na výbor, aby urýchlil začatie omnoho podrobnejšej revízie právnych predpisov týkajúcich sa malých a stredných podnikov. Ukázalo sa, že výbor sa tým už zaoberá. Zámerom je dosiahnuť väčšiu harmonizáciu, pokiaľ ide o európske pravidlá pre malé a stredné podniky.
+<P>
+Keď sme pred časom preberali túto tému a správu pána Radwana vo Výbore pre hospodárske a menové veci, osobitne sme zdôrazňovali, že to nie je Rada pre medzinárodné účtovné štandardy, ktorá sa podieľala na príprave Medzinárodných štandardov pre finančné vykazovanie (IFRS) pre malé a stredné podniky, kto by mal ukazovať cestu vpred, ale že ďalšiu harmonizáciu v rámci Európy by sme mali dosiahnuť na základe existujúcich právnych predpisov.
+<P>
+Počas tejto diskusie to bol najmä pán Lehne, tieňový spravodajca tejto správy, kto navrhoval, že členské štáty by mali mať v tomto štádiu možnosť vyčleniť mikropodniky, teda veľmi malé podniky, z týchto európskych právnych predpisov. Podľa môjho názoru to je núdzové opatrenie, ktoré napriek tomu, že ho navrhla skupina pána Stoibera, nebude viesť k základnému zjednodušeniu z dlhodobého hľadiska, pretože keďže ide o nepovinné opatrenie, spôsobí veľké rozdiely medzi jednotlivými členskými štátmi.
+<P>
+Hlavným cieľom a možnosťou by malo byť dosiahnuť rozsiahlu harmonizáciu v takom rozsahu, že aj spoločnosti, ktoré nespĺňajú kritériá na mikropodniky, by mohli využívať podobný, veľmi jednoduchý systém. Pokiaľ ide o tento jednoduchý systém, chcela by som vám pripomenúť možnosti, ktoré ponúka rozšíriteľný jazyk podnikových správ (XBRL), čo je systém umožňujúci rôznym subjektom veľmi jednoduchým spôsobom zadávať údaje a využívať ich. Výrazne by sa tým zjednodušilo poskytovanie takéhoto typu údajov spoločnosťami a tieto údaje by sa dali využiť na mnohé účely.
+<P>
+Jednoducho povedané, čoskoro musíme začať primeranú diskusiu o odpore, ktorý prevláda vo svete účtovníctva voči vyčleneniu týchto mikropodnikov. Výbor by mal prísť s návrhmi. Následne by sme mali preskúmať najlepšie riešenie pre stredné podniky, ale aj pre tieto najmenšie podniky, aby sme zabezpečili transparentnosť a dobrý účtovný systém, čo im pomôže v určitých veciach bez toho, aby boli zavalené nadmernou administratívnou záťažou.
+<SPEAKER ID="008" NAME="Jacques Barrot" LANGUAGE="FR">
+Vážený pán predsedajúci, pani van den Burgová, dámy a páni, Európsky parlament dnes rozhodne o návrhu na zjednodušenie. Tento návrh je prvým z troch návrhov právnych predpisov v oblasti účtovníctva. Jeho cieľom je zjednodušiť hospodárske prostredie na úrovni Spoločenstva, najmä pokiaľ ide o malé a stredné podniky.
+<P>
+Tento prvý návrh je dobrým východiskovým bodom. Je dobrou príležitosťou pre zákonodarcov, zainteresované strany a Komisiu na výmenu stanovísk a na diskusiu o prvkoch, ktoré by mali byť súčasťou ďalších dvoch návrhov.
+<P>
+Ako bolo ohlásené v pláne hospodárskej obnovy Európy pred niekoľkými týždňami, ďalší návrh bude zameraný na zníženie administratívnej záťaže najmenších podnikov, ktoré sú zároveň najčastejším typom podnikov v Európe.
+<P>
+V priebehu prvého štvrťroka roku 2009 predloží Komisia návrh, ktorý umožní členským štátom vyňať tieto mikropodniky spod povinnosti vypracovávať ročné účtovné závierky. Chcel by som zdôrazniť, že návrh Komisie úspešne zníži administratívnu záťaž, len ak budú členské štáty ochotné túto novú možnosť využívať, keďže ide len o možnosť.
+<P>
+Externí konzultanti odhadujú, že toto opatrenie by mohlo ušetriť až 5,8 miliardy EUR ročne. K takémuto šetreniu však dôjde len vtedy, ak všetky členské štáty uplatnia túto možnosť výnimky a nezavedú nové a nepotrebné reštriktívne opatrenia.
+<P>
+Druhou iniciatívou, ktorú som ohlásil na konci septembra, bola revízia a aktualizácia štvrtej a siedmej smernice o účtovníctve. Prvé technické prípravy na túto revíziu sa už začali. Verejná konzultácia o smere, ktorým sa bude uberať, bude zverejnená v priebehu prvého štvrťroka roku 2009.
+<P>
+Mnohých z vás poteší, že sa do čo možno najväčšej miery zohľadnia odporúčania skupiny na vysokej úrovni, ktorej predsedá pán Stoiber.
+<P>
+Vrátim sa k tomuto návrhu, ktorý bol nedávno predmetom zrýchleného postupu - veľmi nás teší, že spolupráca medzi inštitúciami umožnila také rýchle riešenie otázky tejto iniciatívy.
+<P>
+Dnes vás preto vyzývam, aby ste hlasovali v prospech záverov tohto postupu. Ďakujem vám za pozornosť.
+<SPEAKER ID="009" NAME="Kristian Vigenin" LANGUAGE="BG">
+Vážený pán komisár, podľa nášho hodnotenia nie sú návrhy spojené s touto legislatívnou iniciatívou dostatočne ambiciózne. Hospodársky výbor preto nalieha na Komisiu a na vás osobne, aby ste v tejto súvislosti prijali aktívnejšiu politiku.
+<P>
+Chápem, že to, o čom ste hovorili, je dôležitým krokom, my však od Komisie očakávame ešte aktívnejšie opatrenia, samozrejme, s plnou podporou Európskeho parlamentu, pretože táto záležitosť je pre malé a stredné podniky mimoriadne dôležitá, najmä v súvislosti so súčasnou finančnou krízou.
+<P>
+Ako spravodajca Výboru pre hospodárske a menové veci chcem povedať, že plne podporujeme iniciatívu Komisie znížiť množstvo byrokracie pre stredné podniky. Je to náš spoločný cieľ a podporili sme zrýchlený postup. Dnes podporíme tento návrh. Veríme, že odteraz budeme môcť plne podporiť všetky opatrenia, ktoré pripravíte na prijatie.
+<SPEAKER ID="010" NAME="Jean-Paul Gauzès" LANGUAGE="FR">
+Vážený pán predsedajúci, pán podpredseda Komisie, pán komisár, dámy a páni, naša skupina bude, samozrejme, hlasovať za správu, ktorú predložila pani van den Burgová. Blahoželám jej k práci, ktorá je, ako vieme, vždy veľmi kvalitná.
+<P>
+Chcem však upozorniť na skutočnosť, že malé a stredné podniky nie sú nevyhnutne za zrušenie povinností týkajúcich sa účtovníctva. Dostávame v tejto súvislosti množstvo listov, ktoré nás upozorňujú, aby sme boli opatrní, že zjednodušenie je užitočné, ale môže mať aj nepriaznivé dôsledky. Vysvetlím vám, čo tým myslím. Účtovníctvo sa musí zjednodušiť, a to je zmyslom uznesenia, v ktorom sa hovorí, že Komisia nám musí čo najskôr, konkrétne do konca roka 2009, predložiť účtovný rámec vhodný pre malé a stredné podniky. To však neznamená úplnú výnimku.
+<P>
+Prečo? Po prvé preto, lebo účtovníctvo je príležitosťou pre riaditeľov zhodnotiť aspoň raz za rok situáciu podniku. Účtovníctvo je tiež dôležitým prvkom z hľadiska požičiavania medzi podnikmi. Žiadajú oň aj banky, aby mohli poskytnúť úvery. Sú tu daňové povinnosti. Neklamme teda riaditeľov malých podnikov, že ušetria obrovské množstvo času a peňazí, keď si nebudú musieť viesť žiadne účtovníctvo. Povedie to ku katastrofe.
+<P>
+Čo potrebujeme, je realizácia účtovného rámca vhodného pre malé podniky, pre ktoré sa musí znížiť objem nadmerných a zbytočných povinností. Pán komisár, podľa môjho názoru by najlepším zjednodušením bolo, keby sme raz a navždy prijali pravidlo, že v každom členskom štáte sa informácie budú žiadať len raz a že sa od podnikov nebude vyžadovať, aby pravidelne vypracovávali tie isté vyhlásenia, tie isté formuláre, a to len preto, aby úradom poskytli informácie, ktoré už majú.
+<P>
+Takýmto spôsobom môžeme pomôcť riaditeľom spoločností - vytvorením účtovných pravidiel, ktoré im umožnia mať prehľad o situácii svojich podnikov, a odstránením absolútne nezmyselných administratívnych povinností.
+<SPEAKER ID="011" NAME="Sharon Bowles">
+v mene skupiny ALDE. - Vážený pán predsedajúci, vítam zníženie záťaže MSP v súvislosti s finančným výkazníctvom. Menšie spoločnosti nie sú len malými verziami veľkých korporácií, takže niektoré výkazy potrebné pre veľké spoločnosti sa ich vôbec netýkajú. Iné spôsobujú nadmerné odčerpávanie zdrojov, nezodpovedajú realite veľkého počtu rozličných menších spoločností, ktoré máme v Európe, a následne tak neslúžia verejnému záujmu. Zbytočné výkazy spôsobujú oveľa viac škôd ako úžitku, takže som rada, že sa niektorých zbavíme. Pokračujme v dobrej práci.
+<P>
+Naša skupina spolu s niektorými ďalšími však nesúhlasí s časťou konečného textu správy, ktorá sa týka tabuliek zhody. Komisia chcela, aby boli tabuľky zhody pri transpozícii povinné, a to aj v prípade tejto malej smernice, a to je aj naša pozícia. Rada nebude súhlasiť, pretože tvrdí, že to je zbytočná záťaž. Moja odpoveď je, že by nemala byť. Musíme nájsť spôsob, ako transpozíciu právnych predpisov EÚ sprístupniť. V tomto ohľade je tu obrovský demokratický deficit. Zodpovedné sú členské štáty, obviňuje sa však Európa.
+<P>
+Sú tu isté podobnosti s kritikou Lisabonskej zmluvy, pretože ako samostatný dokument je nečitateľná. Verejnosť by však mala protestovať ešte viac, pretože práve toto robia deň čo deň vlády mnohých členských štátov svojim občanom a podnikom pri transpozícii. Povedzme to na rovinu. Toto nie je problémom EÚ. Je to problémom vlád členských štátov a musí sa to skončiť.
+<SPEAKER ID="012" NAME="Patrick Louis" LANGUAGE="FR">
+Vážený pán predsedajúci, dámy a páni, Komisia má v úmysle znížiť administratívnu záťaž podnikov, čo je v princípe dobrým úmyslom. Snaha o šetrenie času za každú cenu však situáciu od základu nezmení - Komisia aj naďalej vytvára nadmernú štandardizáciu, nespočetné úrovne rozhodovania a systematické obmedzenia a zaťažuje nimi európske podniky bez ohľadu na ich veľkosť.
+<P>
+Dnes už len tri štáty neuznávajú potrebu zverejňovania informácií o podnikoch - od ich založenia až po ich zrušenie - a samotná Komisia priznáva, že časť informácií sa stráca. Táto strata zasahuje tých, ktorí informácie najviac potrebujú, teda jednotlivcov a MSP, mikropodniky a osoby priamo prepojené s takýmito podnikmi.
+<P>
+Tento návrh mení prenosné informácie, teda také, ku ktorým sa môže veľmi ľahko dostať každý, na sporné informácie, ku ktorým sa z dlhodobého hľadiska dostanú iba odborníci s presnými vedomosťami o tom, čo hľadajú. Tento návrh naozaj nemôžeme prijať, pretože ak chceme konať ako zodpovedný zákonodarca, musí nám ísť o to, aby príjemcami hospodárskych informácií boli všetci občania, spotrebitelia a investori, ktorí o ne majú záujem, a to bez toho, aby museli vykonať nejaký špecifický úkon.
+<P>
+Zároveň tento návrh môže a určite aj bude mať škodlivé dôsledky na regionálnu tlač, ktorá je už teraz v ťažkostiach, pretože jej úlohou je zverejňovať súdne a právne oznámenia, ktoré predstavujú 25 - 50 % jej príjmov z reklamy. Tieto periodiká zohrávajú dôležitú ekonomickú a spoločenskú úlohu. Musia sa chrániť, pretože ich ochrana znamená aj ochranu ich spoločenskej úlohy v miestnej komunite. Možno by sme urobili dobre, keby sme sa pokúšali šetriť a sústredili sa na prácu v iných oblastiach. Pokiaľ ide o nás, zastávame názor, že dnes táto konkrétna záležitosť ešte nie je pripravená.
+<SPEAKER ID="013" NAME="Tadeusz Zwiefka" AFFILIATION="PPE-DE">
+(PL) Vážený pán predsedajúci, hlavným cieľom našej podnikateľskej politiky je vytvárať vhodné prostredie na zakladanie a expanziu nových podnikov. Zlepšovanie hospodárskeho prostredia zahŕňa zjednodušovanie administratívnych a právnych postupov a činnosť v oblasti financovania, daní a sociálneho i životného prostredia, pretože všetko toto má vplyv na fungovanie podnikov.
+<P>
+Jednotné právne predpisy by celej medzinárodnej podnikateľskej komunite veľmi prospeli. Predovšetkým, nadnárodné štandardy pre finančné vykazovanie by uľahčili hodnotenie a porovnávanie finančnej situácie spoločností v rôznych krajinách, čo by následne uľahčilo rozhodovací proces z hľadiska investícií. Po druhé, vďaka finančnému vykazovaniu založenému na všeobecne uznávaných a schválených účtovných princípoch by mali spoločnosti lepší prístup ku kapitálu.
+<P>
+Malé a stredné podniky musia často spĺňať rovnaké právne predpisy ako veľké podniky, pričom sa zriedka skúmajú ich osobitné potreby, pokiaľ ide o účtovníctvo. Je dôležité, aby sa diskusie sústredili nielen na zjednodušenie, ale aj na vplyv účtovných štandardov na malé a stredné podniky, ktorý je iný ako v prípade veľkých kótovaných spoločností. Diskusia o zjednodušení sa väčšinou sústreďuje na náklady. Avšak diskusia o dôsledkoch požiadaviek týkajúcich sa účtovníctva sa týka aj výhod finančného vykazovania a potrieb jednotlivých používateľov.
+<P>
+Zavedenie zjednodušených nariadení pre malé a stredné podniky prináša množstvo výhod. Predovšetkým, uplatňovanie všeobecných štandardov rozhodne prináša menej úžitku malým a stredným súkromným podnikom ako veľkým verejným spoločnostiam. To vedie k nerovnováhe pomeru vynaložených prostriedkov a výsledného zisku v súvislosti s uplatňovaním štandardov. Na to, aby bolo možné vytvoriť primeranú rovnováhu medzi vynaloženými prostriedkami a výsledným ziskom, je nutné znížiť náklady. Po druhé, finančné vykazovanie nehrá podstatnú úlohu z hľadiska plnenia informačných požiadaviek vlastníkov malých a stredných podnikov, pretože títo majú priamy prístup k informáciám. Po tretie, používatelia finančných výkazov vytvorených MSP majú menšie vedomosti o finančnom vykazovaní, preto by sa malo prispôsobiť ich schopnostiam.
+<SPEAKER ID="014" NAME="Lidia Joanna Geringer de Oedenberg" AFFILIATION="PSE">
+(PL) Vážený pán predsedajúci, Európsky parlament už dlhé roky upozorňuje na problémy týkajúce sa zbytočných a neúmerne vysokých administratívnych nákladov, ktorými sú zaťažené európske podniky. Preto vítame správu, že Komisia konečne začala túto vec riešiť a prostredníctvom zrýchleného postupu navrhla pozmeňujúce a doplňujúce návrhy k 4. a 7. smernici o práve obchodných spoločností týkajúce sa požiadaviek na zverejnenie pre stredné podniky a povinnosti zostavovať konsolidované finančné výkazy.
+<P>
+Podporujem prístup Komisie, ktorý má za cieľ zjednodušiť podmienky fungovania európskych podnikov. Moja podpora je však podmienená tým, aby tieto zmeny neobmedzili transparentnosť ani neviedli k obmedzenému prístupu používateľov účtovných závierok k informáciám. Oprávneným sa zdá byť aj návrh na zrušenie požiadavky na zverejnenie zriaďovacích výdavkov. Rozšírenie výnimiek, ktoré využívajú malé podniky a ktoré už výrazne využíva aj väčšina členských štátov, aj na stredné podniky môže prispieť k zníženiu ich záťaže, pokiaľ ide o finančné vykazovanie.
+<P>
+Čo sa týka navrhovaných pozmeňujúcich a doplňujúcich návrhov k 7. smernici o práve obchodných spoločností, povinnosť zostavovať konsolidované účtovné závierky nemá žiadne reálne odôvodnenie, pretože konsolidované účtovné závierky by v tomto prípade boli takmer totožné s nepovinnými samostatnými finančnými výkazmi.
+<P>
+Európska komisia by sa mala aj naďalej snažiť o revíziu 4. a 7. smernice o práve obchodných spoločností, aby mohla predstaviť európsky rámec pre účtovníctvo pred koncom roka 2009. Jednotné štandardy znížia administratívnu záťaž MSP a zvýšia transparentnosť pre dobro všetkých zúčastnených.
+<SPEAKER ID="015" NAME="Jacques Toubon" AFFILIATION="PPE-DE">
+- (FR) Vážený pán predsedajúci, najskôr chcem poďakovať našej spravodajkyni pani van den Burgovej, nášmu koordinátorovi pánovi Lehnemu a tieňovému spravodajcovi pánovi Gauzèsovi za snahu dostať sa do pozície, ktorú považujem za mimoriadne efektívnu a rozumnú.
+<P>
+Všetci sme si naozaj veľmi dobre vedomí, že musíme prispôsobiť naše pravidlá osobitným podmienkam malých a stredných podnikov, a preto veľmi dôrazne podporujeme plán pre malé a stredné podniky, ktorý navrhla Komisia a podporila Rada. Chcem však dodať, že to musíme urobiť bez toho, aby sme sa pozerali na malé a stredné podniky ako na druhoradé podniky, teda že ich odsunieme do akéhosi geta, kde bude toľko zjednodušení a tak málo pravidiel, že už nebudú existovať žiadne záruky, ktoré by im umožnili získať úvery potrebné na fungovanie a rast - a to platí najmä v súčasnej kríze.
+<P>
+Z tohto dôvodu, podobne ako pán Gauzès, veľmi dôrazne podporujem uznesenie navrhnuté pani van den Burgovou a prijaté naším výborom. Uznesenie žiada Komisiu o predloženie návrhu, ktorý by umožnil členským štátom oslobodiť podniky s veľmi malou veľkosťou - so súvahou menej ako 500 000 EUR, s obratom nižším ako 1 milión EUR a počtom pracovných miest nižším ako 10 - ktoré pôsobia len na miestnej alebo regionálnej úrovni v jednom členskom štáte, od povinnosti spĺňať požiadavky tejto smernice.
+<P>
+To následne umožní členským štátom prispôsobiť svoje právne predpisy, ako to urobilo Nemecko, a zároveň zaobchádzať s malými a strednými podnikmi ako s ostatnými - a to je veľmi dôležité. Malé a stredné podniky sa nevyvíjajú oddelene. Európa musí vykonať potrebné kroky s cieľom zaistiť, aby neboli znevýhodňované v porovnaní s ostatnými.
+<SPEAKER ID="016" NAME="Ewa Tomaszewska" AFFILIATION="UEN">
+(PL) Vážený pán predsedajúci, malé a stredné podniky zamestnávajú v Európskej únii približne 60 % všetkých pracovníkov. Preto je ich hospodárska situácia mimoriadne dôležitá. V čase hospodárskej krízy je dôležité vyhnúť sa najmä komplikovaniu ich právnych povinností s cieľom uľahčiť ich činnosti. Toto je príležitosť pre tieto spoločnosti a ich pracovníkov.
+<P>
+Zjednodušenie právnych predpisov v oblasti finančného vykazovania, ktoré zavádza pozmeňujúca a doplňujúca smernica, je krokom správnym smerom. Súhlasím však aj s naším kolegom, ktorý zdôraznil potrebu zaistiť prístup miestnych novinárov k informáciám.
+<SPEAKER ID="017" NAME="Rachida Dati">
+úradujúca predsedníčka Rady. - (FR) Vážený pán predsedajúci, dámy a páni, najprv sa chcem ospravedlniť za meškanie. Mali sme meškanie pri odlete z Paríža. Nepočula som síce všetky príspevky, ale aj tak sa chcem poďakovať za dnešnú rozpravu.
+<P>
+Rada berie a naďalej bude brať na vedomie všetky vaše pripomienky a odporúčania a záujem, ktorý o tieto záležitosti prejavujete, najmä v oblasti prijímaných záväzkov v súvislosti so znížením záťaže podnikov.
+<P>
+Ide o záležitosť, ktorá je v súčasnej dobe veľmi citlivá, vzhľadom na súčasnú krízu však bezpodmienečne musíme zjednodušovať, ale nie deregulovať, a vytvoriť tak prostredie oveľa väčšej istoty v Európe v záujme zabezpečenia rozvoja malých a stredných podnikov.
+<SPEAKER ID="018" NAME="Jacques Barrot" LANGUAGE="FR">
+Vážený pán predsedajúci, rád by som privítal pani Datiovú a tiež by som sa chcel pripojiť k tým, ktorí ďakovali Parlamentu, pani van den Burgovej, pánovi Lehnemu a pánovi Gauzèsovi za ich prácu, ktorá nám dnes umožní prijať záver k tomuto prvému ustanoveniu.
+<P>
+Pozorne som počúval, čo sa hovorilo o malých podnikoch. V skutočnosti je cieľom prijatie pravidiel pre malé podniky v čase plánovanej revízie, rád by som však opäť zopakoval, že členské štáty si budú môcť vybrať. Buď použijú tieto pravidlá, alebo vytvoria alternatívne pravidlá prispôsobené miestnym podmienkam.
+<P>
+Na mňa osobne veľmi zapôsobil argument, že malé podniky by nemali byť dotlačené do situácií, v ktorých by napokon pod zámienkou zjednodušenia boli nechané akosi bokom od hospodárskeho života. To je všetko, čo som chcel povedať, a dúfam, že táto rozprava poskytne dostatok informácií môjmu kolegovi pánovi McCreevymu, ktorý je zodpovedný za vnútorný trh, a že nám umožní pracovať na znížení administratívnej záťaže pre všetky, ale najmä najmenšie podniky.
+<P>
+Som vďačný Parlamentu za pretrvávajúcu podporu a dúfame, že táto konštruktívna spolupráca bude pokračovať aj v budúcom roku.
+<SPEAKER ID="019" NAME="Ieke van den Burg">
+spravodajkyňa. - (NL) Odkaz, ktorý vyslal tento Parlament, je podľa mňa jasný a zreteľný. Dočasné riešenie, ktoré členským štátom umožňuje vyčlenenie mikropodnikov z európskych právnych predpisov, je riešením z krátkodobého hľadiska. Nie je to definitívne riešenie. Dúfam, že tento odkaz padol aj v Komisii na úrodnú pôdu.
+<P>
+Pre mikropodniky a aj pre malé a stredné podniky vo všeobecnosti by sme chceli zaviesť jednotné právne predpisy na úrovni EÚ, ktoré im umožnia činnosť na vnútornom trhu. Ako sa vyjadril pán Gauzès, tieto právne predpisy majú byť zároveň jednoduché, iba s jediným kontaktným miestom a jedným súborom pravidiel tak, ako to je v prípade rozšíriteľného jazyka podnikových správ (XBRL). Nekládla by sa na ne teda taká obrovská administratívna záťaž ako v súčasnosti. Veď napokon, aj keď umožníte členským štátom udeľovať výnimky, neznamená to, že môžu uplatňovať vlastné pravidlá, ktoré sú navyše v každom členskom štáte iné. Zo strednodobého hľadiska to nič nerieši.
+<P>
+Zo strednodobého hľadiska veľmi chceme vytvoriť návrh, ktorý by poskytol jednoduché a harmonizované právne predpisy využiteľné na celom vnútornom trhu, ktoré by neuvalili obrovskú záťaž na malé a stredné podniky a najmä na mikropodniky, iba jednoduchý systém na poskytovanie informácií o ročných účtovných závierkach podnikov. Toto je zámer Parlamentu a ja dúfam, že odkaz padol na úrodnú pôdu.
+<SPEAKER ID="020" NAME="Predsedajúci">
+Dostal som návrh uznesenia predložený v súlade s článkom 103 ods. 2 rokovacieho poriadku.
+<P>
+Rozprava sa skončila.
+<P>
+Hlasovanie sa uskutoční vo štvrtok 18. decembra 2008.

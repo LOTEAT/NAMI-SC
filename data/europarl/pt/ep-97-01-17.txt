@@ -1,0 +1,467 @@
+<CHAPTER ID=1>
+Aprovação da acta
+<SPEAKER ID=1 NAME="Presidente">
+A acta da sessão de ontem foi distribuída.
+<P>
+Há alguma observação?
+
+<SPEAKER ID=2 LANGUAGE="EN" NAME="Hallam">
+Senhor Presidente, esta semana tivemos alguns problemas com as votações na assembleia. Na acta, no que se refere ao nº 39 da proposta de resolução sobre a revisão dos tratados, o meu nome aparece incluído no grupo dos que votaram a favor desse número. Não sei se foram os meus dedos que funcionaram mal ou se foi a máquina, mas eu pretendia votar contra.
+
+<SPEAKER ID=3 NAME="Presidente">
+Senhor Deputado Hallam, não se preocupe, vamos atribuir o erro à máquina e constará da acta que votou correctamente.
+
+<SPEAKER ID=4 LANGUAGE="FR" NAME="Hory">
+Senhor Presidente, na acta de ontem, não figuro na lista de presenças. De facto, talvez me tenha esquecido de assinar a referida lista, mas estive aqui, como é atestado pela minha participação nas diversas votações nominais.
+<P>
+Por isso, agradeço as instruções que possa dar no sentido de que a acta seja rectificada neste sentido.
+
+<SPEAKER ID=5 NAME="Presidente">
+Senhor Deputado Hory, a acta será corrigida, mas a sua palavra vale mais do que qualquer comprovação. Por conseguinte, a sua palavra é suficiente para se corrigir a acta.
+
+<SPEAKER ID=6 LANGUAGE="FR" NAME="Bourlanges">
+Senhor Presidente, encontro-me na mesma situação do senhor deputado Hory. Não sei se a minha palavra vale tanto como a dele, mas tal como ele participei em várias votações nominais que atestam a minha presença aqui, embora me tenha esquecido de assinar a lista de presenças.
+
+<SPEAKER ID=7 NAME="Presidente">
+Senhor Deputado Bourlanges, não sei se com a sua vastíssima cultura conhece uma expressão castelhana que diz «Tanto monta, monta tanto, Isabel como Fernando». Por conseguinte, a sua palavra vale tanto como a do senhor deputado Hory.
+
+<SPEAKER ID=8 LANGUAGE="EN" NAME="Kerr">
+Senhor Presidente, uso da palavra por causa de um assunto que eu gostaria de fazer chegar ao conhecimento do senhor presidente do Parlamento. Acabámos de receber convites, que foram enviados ontem, para um serão musical comemorativo da eleição do senhor presidente; o serão vai realizar-se no domingo à noite, altura em que a maior parte dos deputados não se encontra em Bruxelas. Todos nós gostaríamos de lá estar presentes, e na minha qualidade de presidente da «Associação dos Amigos da Música» do Parlamento, gostaria de ter sido avisado mais cedo. Peço que transmita ao senhor presidente o pesar e as desculpas dos deputados que não poderão estar presentes.
+
+<SPEAKER ID=9 NAME="Presidente">
+Senhor Deputado Kerr, pode estar certo de que transmitirei as suas palavras ao senhor presidente e que as farei também minhas, porque lamento que também eu não possa asistir ao recital.
+
+<SPEAKER ID=10 LANGUAGE="EN" NAME="Tomlinson">
+Senhor Presidente, uso da palavra sobre o mesmo assunto. Recebemos este convite, em cujo topo se lê: Recital Exclusivo. É claro que vai ser exclusivo enquanto convite dirigido aos deputados, se se realiza num dia em que os deputados não se encontram no seu local de trabalho.
+<P>
+No entanto, a minha pergunta é um pouco mais fundamental do que a do senhor deputado Kerr. O convite que recebemos para comemorar a tomada de posse do novo presidente do Parlamento Europeu vem assinado por Luigi Mormino, presidente do comité artístico do Parlamento Europeu. Eu sei que o senhor Mormino tem qualidades de toda a espécie mas nunca o tinha associado directamente a um grande talento artístico.
+<P>
+Gostaria de saber se esta grande responsabilidade de ser presidente do comité artístico é atribuída por meio de qualquer tipo de método de Hondt administrativo entre os funcionários.
+<P>
+Esta semana tivemos de decidir como é que vamos distribuir talento entre os senhores deputados. Talvez numa altura qualquer nos possam dizer como é que o senhor Mormino alcançou esta grande categoria e honra e como é que lhe foi conferida autoridade para realizar o concerto em honra do senhor presidente numa altura em que os deputados não podem estar presentes, e para o fazer em associação com uma sociedade privada. Talvez o senhor presidente queira analisar esta questão.
+
+<SPEAKER ID=11 NAME="Presidente">
+Por cortesia parlamentar, não quero interromper o senhor deputado Kerr nem o senhor deputado Tomlinson, mas recordo-lhes que estamos ainda pendentes da aprovação da acta. Por conseguinte, essas questões devem ser examinadas posteriormente. De qualquer modo, já tomei boa nota da intervenção do senhor deputado Kerr e do senhor deputado Tomlinson. Vou abrir as necessárias averiguações sobre as qualidades musicais de quem se atribuiu a referida responsabilidade. Mas agora, Senhores Deputados, se não há nenhuma questão mais sobre a acta, damo-la por aprovada.
+<P>
+(A acta é aprovada)
+
+<CHAPTER ID=2>
+Votações
+<SPEAKER ID=12 NAME="Díez de Rivera Icaza">
+Não restam dúvidas sobre a importância de que se reveste a prorrogação dos regulamentos sobre poluição atmosférica e sobre protecção das florestas contra os incêndios, como já tive ocasião de dizer no debate de há anos. Hoje, apenas me interessa sublinhar que uma das grandes dificuldades para implantar o conceito de desenvolvimento sustentado nas zonas de desenvolvimento rural do sul da União se deve principalmente às graves consequências dos incêndios florestais, praga estival desta região da União.
+<P>
+Por isso, as alterações apresentadas em que se solicita a actualização das dotações financeiras para as referidas acções com um aumento de setenta a cem milhões de ecus são indispensáveis para a adequada conservação e regeneração do património florestal da União. Por isso, o meu voto será positivo.
+<P>
+Concluo, Senhor Presidente, apelando, de novo, para a necessidade de estabelecer uma política florestal comum para toda a União. Com isso, além do mais, dar-se-ia resposta ao V Programa de Acção em matéria de meio ambiente e à declaração do Rio sobre esta questão.
+<P>
+Relatório Cornelissen (A4-0381/96)
+<SPEAKER ID=13 NAME="Donnay">
+Desejo saudar o senhor deputado Pam Cornelissen, autor do relatório relativo à «gestão do tráfego aéreo» e a grande qualidade do seu trabalho, cujo conteúdo é muito satisfatório. Por essa razão, o meu voto é, naturalmente, favorável.
+<P>
+Permita-me que dê uma ênfase especial a dois elementos importantes. O primeiro é o da eficácia financeira do controlo aéreo. Embora devamos, legitimamente, optimizá-lo, não devemos deixar de tomar em consideração as limitações que se prendem com a manutenção do serviço público de controlo aéreo, a fim de garantir a qualidade do serviço prestado, em todo o território abrangido.
+<P>
+O segundo elemento que desejo realçar visa reforçar a segurança. É necessário agir prioritariamente no sentido da harmonização dos métodos de trabalho dos controladores aéreos, e estou a referir-me, nomeadamente, às terminologias utilizadas.
+<P>
+Estes dois pontos foram objecto de alterações, amplamente aprovadas pelos membros da Comissão dos Transportes e do Turismo, que vêm completar proveitosamente este excelente relatório, pelo que me congratulo.
+
+<SPEAKER ID=14 NAME="Lindqvist">
+É preciso melhorar a segurança e introduzir sistemas operativos mais eficientes, de modo a acompanhar o aumento do tráfego aéreo cuja duplicação se prevê até ao ano 2000. Não é um dado adquirido que deva ser a UE a negociar e a regulamentar estas questões. Isso deve competir aos Estados-membros num processo inter-estatal, a nível internacional, em que o maior número possível de Estados possa participar. Uma «autoridade para o tráfego aéreo», com funções coordenadoras a nível europeu, deverá abranger todos os países da Europa, devendo, pois, ser instituída a um nível mais amplo do que a UE.
+
+<SPEAKER ID=15 NAME="Titley">
+Votei hoje a favor deste relatório porque partilho da preocupação de que não se esteja a fazer tudo o que é necessário para acabar com a frustração e o desperdício dos atrasos nos aeroportos.
+<P>
+A frustração que esses atrasos causam a quem viaja não é aceitável. As pessoas que têm reuniões de negócios com hora marcada deviam poder confiar em que o sistema de controlo europeu do tráfego aéreo lhes permitiria chegar a horas ao seu destino. O mesmo se aplica aos inúmeros turistas que perdem uma parte das suas férias bem merecidas por causa dos atrasos nos voos.
+<P>
+Como tenho o aeroporto de Manchester perto do meu círculo eleitoral, também sei que o aeroporto, as companhias aéreas que o utilizam e o pessoal beneficiariam das enormes economias em tempo e dinheiro decorrentes de um melhor sistema de controlo do tráfego aéreo. Muito embora me congratule com a decisão tomada ontem a favor de uma segunda pista de aterragem e descolagem para o aeroporto de Manchester, isso pode traduzir-se num caos para os passageiros se não houver um melhor controlo do tráfego aéreo no futuro.
+<P>
+Tal como o sector de actividade e os milhões de passageiros interessados, espero que os nossos governos e a Comissão melhorem os sistemas de tráfego aéreo na Europa. No fim de contas, a liberdade de circulação em toda a Europa é fulcral para o nosso futuro em termos económicos.
+<P>
+Relatório Castricum (A4-0419/96)
+<SPEAKER ID=16 NAME="Ahlqvist, Theorin e Wibe">
+O relatório em apreço é de um modo geral positivo e, por isso, seguiremos a orientação do Grupo do Partido Socialista no sentido de votar a favor. Temos, porém, sérias reservas em relação a dois pontos. Refiro-me ao ponto 13, em que se afirma que o melhor método de fomentar a eficiência e eficácia do transporte público é a sua adjudicação (a entidades privadas), e ao ponto 24, em que se afirma que a exploração dos transportes públicos «deve ser financiada na medida do possível a partir das contribuições dos passageiros».
+<P>
+O ponto 13 constitui uma discriminação directa das empresas públicas. Com efeito, no meu país de origem, a Suécia, não existem quaisquer provas de que a gestão pública do transporte colectivo seja menos eficaz do que a privada. No tocante ao ponto 24, é feita uma generalização que nem sempre é válida. Por vezes (talvez mesmo frequentemente) razões socioeconómicas justificam que se subsidie de forma significativa os custos de exploração do transporte público. Por vezes, pode inclusivamente justificar-se a aplicação da taxa 0 de IVA. Na Suécia, o financiamento dos custos de exploração a partir das contribuições dos passageiros significaria o desaparecimento total do transporte público das zonas de fraca densidade populacional. Uma evolução neste sentido é totalmente inaceitável.
+
+<SPEAKER ID=17 NAME="Eriksson, Sjöstedt e Svensson">
+Para muita gente o transporte público é decisivo para que possam levar uma vida normal. Do ponto de vista ambiental, constitui um componente importante para uma sociedade sustentável.
+<P>
+O transporte público deve, naturalmente, ser gerido da forma mais eficaz possível em termos de custos, mas, tendo em conta o seu papel decisivo e a responsabilidade geral da sociedade em satisfazer as necessidades de todos os cidadãos. A eficácia em termos de custos não pode ser a única orientação na gestão do transporte público.
+<P>
+Para que o transporte público possa funcionar eficazmente, a responsabilidade deve residir aos níveis local, regional ou nacional, devendo as autoridades a esses mesmos níveis poder decidir as formas de ajuda financeira a atribuir. Votamos, pois, contra o relatório.
+
+<SPEAKER ID=18 NAME="Gahrton, Holm e Schörling">
+No relatório em apreço existem muitos pontos que apoiamos sem hesitações e envidaremos esforços no sentido de que tenham um peso cada vez maior nos Estados-membros, por exemplo, com vista a reduzir a utilização do automóvel privado e a melhorar o transporte público, bem como a tornar o transporte público compatível com o ambiente. Consideramos, pois, que o transporte público deve ser apoiado e fomentado de várias formas.
+<P>
+Por outro lado, não compreendemos que o Parlamento Europeu queira que a questão do serviço público seja tratada no contexto da Conferência Intergovernamental. Pensamos também que a União não deve interferir no modo como os Estados-membros apoiam o transporte público. Cada Estado-membro deve decidir nessa matéria tendo em conta as condições existentes. Os Estados-membros diferem entre si, nomeadamente no que se refere à densidade populacional. É o caso da Suécia, em que o transporte público exige um maior envolvimento público tendo em consideração a baixa densidade populacional de muitas regiões, nomeadamente no Norte do país. Não seria, pois, desejável que a UE estabelecesse critérios e orientações rígidas sobre as formas como o Estado deve apoiar o transporte público.
+
+<SPEAKER ID=19 NAME="Lindqvist">
+O transporte público é um assunto de natureza nacional e regional. Não se justifica, portanto, a regulamentação do transporte público no Tratado da União. As várias formas de ajuda e de financiamento são também da competência regional ou nacional. Também a liberdade de concorrência deve ser analisada numa perspectiva nacional e não através de decreto da UE.
+<P>
+Relatório Menrad (A4-0411/96)
+<SPEAKER ID=20 NAME="Malone">
+A actividade empresarial europeia tem sido prejudicada pelo facto de não se chegar a acordo sobre o Estatuto da Sociedade Europeia e medidas afins. Ter de levar em conta o direito das sociedades em 15 Estados-membros diferentes implica custos suplementares e, por consequência, afecta os postos de trabalho.
+<P>
+Aplaudo os esforços desenvolvidos pela Comissão para conseguir que estas medidas sejam aprovadas. Contudo, se elas forem adoptadas, têm de ser acompanhadas por normas correspondentes relativas aos direitos de participação dos trabalhadores. Se assim não for, a legislação actual sobre informação e participação dos trabalhadores existente em alguns Estados-membros será ignorada por algumas empresas.
+<P>
+Conceder aos trabalhadores uma participação efectiva nas empresas só pode ser uma medida positiva tanto para eles como para as empresas onde trabalham. O consenso nacional que há 10 anos existe na Irlanda em matéria de salários e condições de trabalho é um factor que tem contribuído para a boa saúde que actualmente caracteriza a economia irlandesa e, como tal, é apoiado pela Federação dos Empregadores, a IBEC.
+<P>
+Reconheço que o alargamento dos procedimentos de informação e participação a mais empresas acarretará alguns custos. Por esse motivo, apoio a abordagem cautelosa adoptada pela Comissão, em especial a criação de um Grupo de Peritos de Alto Nível, constituído por representantes dos parceiros sociais, para estudar este assunto em pormenor, e também a ênfase colocada no respeito pelos modelos nacionais.
+
+<CHAPTER ID=3>
+Estratégia da União Europeia no que se refere às relações com  as Repúblicas Transcaucasianas
+<SPEAKER ID=21 NAME="Presidente">
+Segue-se na ordem do dia o relatório (A4-0279/96) elaborado pela deputada Carrère d'Encausse, em nome da Comissão dos Assuntos Externos, da Segurança e da Política de Defesa, sobre a comunicação da Comissão intitulada «Para uma estratégia da União Europeia quanto às relações com as Repúblicas Transcaucasianas» (COM(95)0205 - C4-0242/96).
+
+<SPEAKER ID=22 NAME="Carrère d'Encausse">
+Senhor Presidente, caros colegas, a Transcaucásia, que, do Mar Negro ao Mar Cáspio engloba três Estados - Geórgia, Arménia e Azerbaijão - é uma das regiões mais complexas e trágicas do mundo, cujo futuro não pode deixar a União Europeia indiferente.
+<P>
+Como esquecer, em primeiro lugar, que todas as grandes invasões atravessaram a Transcaucásia? Mais perto de nós, e até à data, três grandes Estados, outrora três grandes impérios - Rússia, Irão e Turquia - que confinam com a Transcaucásia, nela se confrontaram, e ainda se confrontam, e as suas ambições são um dado permanente da história.
+<P>
+Essa região é caracterizada pela diversidade. Diversidade de grupos étnicos - contam-se nela mais de cem. Diversidade de línguas, igualmente numerosas. Diversidade de religiões, visto que, além das três grandes religiões monoteístas - cristianismo, islão e judaísmo - numerosas formas heterodoxas destas religiões estão aqui representadas e complicam ainda mais as relações entre os homens, as relações destes com o poder e com os Estados vizinhos.
+<P>
+Assim, os habitantes do Azerbaijão são, na sua maioria, xiitas e, por isso, próximos do Irão, mas a sua língua é de origem turca, o que os aproxima de Ancara, possuem ainda um forte sentimento de solidariedade com os seus irmãos do Azerbaijão iraniano. Podem evocar-se igualmente os laços entre os ossetas cristãos da Geórgia, os ossetas muçulmanos da Rússia, os curdos do Azerbaijão ou da Arménia e os curdos da Turquia ou do Iraque, etc.. Neste domínio, as fronteiras nada significam, e contudo os três Estados da região possuem uma identidade própria e uma feroz vontade de existência independente.
+<P>
+No seio desses Estados, os confrontos conduziram a tragédias que se perpetuam. A paz regressou à Geórgia depois de uma guerra civil de três anos, mas a Abcásia ainda se recusa a aceitar a autoridade de Tbilissi. No Azerbaijão, as armas calaram-se em 1994, mas isso não pode dissimular a amplitude do problema. O Alto Karabakh, habitado por arménios, sonha com um destino independente e, entretanto, os seus combatentes ocupam uma parte importante do território do Azerbaijão que conquistaram.
+<P>
+Mais de um milhão de refugiados azeris, cerca de 400 000 refugiados arménios, milhares de mortos, tal é o preço deste conflito entre o Azerbaijão e os arménios que vivem no seu território.
+<P>
+Há ainda que acrescentar a oposição entre a Arménia, solidária com os seus irmãos do Karabakh, e o Azerbaijão. O bloqueio sofrido pela Arménia, tanto mais catastrófico porquanto esse Estado não tem qualquer saída para o mar, é consequência disto.
+<P>
+Estes conflitos resultam frequentemente da política do império soviético nascente que, em 1922, criou estes problemas para impedir a existência de uma federação transcaucasiana que se opusesse ao domínio bolchevique sobre os jovens Estados independentes da região. Se o poderio soviético os dissimulou, o fim da URSS pô-los a nu e deu lugar aos confrontos sangrentos que se desenrolam há cinco anos.
+<P>
+A verdade é que ali se opõem agora dois princípios fundamentais do direito internacional: a vontade de emancipação dos povos, arménios do Karabakh, abcases e ossetas da Geórgia, e o respeito da integridade territorial dos Estados, Geórgia e Azerbaijão. Numa região tão complexa, onde a mistura de povos em territórios restritos é total, como optar entre estas duas exigências do direito? Na verdade, é fácil dizer que os refugiados devem voltar para casa. É fácil dizer que é preciso restituir os territórios ocupados ao Azerbaijão. É fácil dizer que é necessário levantar o bloqueio que paralisa a Arménia. No entanto, a contradição entre o direito das minorias e o direito dos Estados a preservar a sua integridade não será facilmente resolvida.
+<P>
+É aqui que o papel da União Europeia pode ser decisivo, porque a Transcaucásia fica às portas da Europa, porque a Europa, o Irão, a Turquia, e mais além, o Médio Oriente, comunicam com ela; porque, no rico subsolo do Azerbaijão, e para além do Cazaquistão, se encontram os recursos petrolíferos de que a Europa necessita. A Europa é parte interessada na região. O Mar Negro, em que os três Estados da Transcaucásia se pretendem actores privilegiados, liga essa região à Europa e mostra bem a imbricação dos interesses.
+<P>
+A União Europeia decidiu ter uma presença activa na Transcaucásia. Pode contribuir para lhe devolver a paz e para consolidar a esperança democrática, mas só poderá fazê-lo se tiver em conta a extrema complexidade dessa região e fizer dela o elemento central da sua estratégia. Deve, para isso, dirigir-se a cada país em particular, ajudá-lo a reforçar a sua independência ameaçada, que é o quadro natural do progresso democrático. Ao mesmo tempo, deve auxiliar o desenvolvimento do quadro regional comum, ou seja, a Transcaucásia.
+<P>
+É no quadro comunitário, para o qual a União pode servir de modelo, que as tendências centrífugas dos povos e os confrontos étnicos sangrentos se extinguirão pouco a pouco. É o desenvolvimento desse sentimento de pertença a uma comunidade regional que protegerá os Estados da Transcaucásia contra a avidez dos Estados vizinhos. Será esse o quadro mais favorável ao progresso económico de todos os povos da região e ao enraizamento da democracia.
+<P>
+O desafio para a União Europeia é evidente. As suas responsabilidades são imensas. Cabe-lhe ajudar povos, civilizações muito antigas, que uma geografia incómoda e uma história trágica maltrataram, a reencontrar o seu lugar: o de nações democráticas e desenvolvidas.
+
+<SPEAKER ID=23 NAME="Schwaiger">
+Senhor Presidente, caros colegas! Infelizmente o relator de parecer da Comissão das Relações Económicas Externas, deputado Dimitrakopoulos, não pode apresentar pessoalmente o seu relatório por ter de participar numa imprevista reunião importante fora de Estrasburgo. Assim, gostaria de agradecer em seu nome à deputada Carrère d'Encausse o seu notável e profundo relatório e lembrar que ela adoptou todas as propostas da Comissão das Relações Económicas Externas o que, como é natural, nos enche de satisfação.
+<P>
+Também a Comissão das Relações Externas saúda o desejo de reforçar a cooperação regional entre a Arménia, a Geórgia e o Azerbeijão, que percorre todo o relatório como tema central. Sem esta cooperação, o desenvolvimento da economia e o bem-estar nestes três países são praticamente impossíveis. Os acordos de parceria bilaterais da UE com as três repúblicas transcaucasianas partem desta necessidade. Não se trata nem mais nem menos que de uma abordagem política global, que reúne os aspectos económicos, políticos e financeiros e inclui a ajuda humanitária. Para desenvolver os recursos económicos destes países impõe-se modernizar e melhorar decisivamente as infra-estruturas transfronteiriças nos sectores da energia e dos transportes. Reforçando a cooperação entre o Azerbeijão e a Geórgia, mas também com a Arménia, os incomensuráveis recursos de petróleo do Mar Cáspio - são superiores aos da Arábia Saudita - podem ser aproveitados para exportação para a Europa e o resto do Mundo, bem como para preparação no local. A cooperação regional pode contribuir simultaneamente para atenuar as tensões políticas nesta região.
+<P>
+Com a ligação às redes transeuropeias e às restantes vias de comunicação mundiais em vista, esta é apenas uma porta que se abre para uma cooperação intensiva com a Europa. Em termos políticos, está em causa a estabilização de três das antigas repúblicas dependentes da União Soviética, com as reconversões muito profundas na economia e na sociedade que ela acarreta. A Europa, como parceiro de paz, pode conseguir alguns resultados em cooperação com a Turquia e com a Rússia. Nesse sentido, deveríamos assegurar-nos, através da correspondente coordenação dos relatórios bilaterais, que os nossos parceiros da Transcaucásia levam a sério o nosso desejo de cooperação; propostas comuns mais alargadas ainda, no quadro dos relatórios bilaterais, ou seja, em relação ao Azerbeijão, à Arménia e à Geórgia, podem ser sugestões a adoptar nas futuras negociações.
+<P>
+Permitam-me, enquanto relator da Comissão das Relações Externas para o Azerbeijão, recordar algumas perspectivas que talvez sejam decisivas para compreender o problema na Transcaucásia. O Azerbeijão é um país potencialmente rico. As suas reservas de petróleo no Mar Cáspio são - como já disse - maiores que as da Arábia Saudita. Também a indústria, a economia e o sector de serviços oferecem boas hipóteses de desenvolvimento. Mas agora é um país pobre, fortemente carente de desenvolvimento económico. Suporta com grandes dificuldades o ónus decorrente de ter perdido a guerra com a Arménia. Está no limiar da União Europeia que se alarga a Leste, e daqui a alguns anos talvez apenas o Mar Negro e o Cáucaso a separem da UE. Os investidores europeus são muito bem-vindos, sendo procurados em particular no âmbito da indústria petrolífera, dos equipamentos inerentes, dos transportes e da construção civil em desenvolvimento. Já neste momento o país concede as necessárias condições de enquadramento para investir. As condições decisivas para ultrapassar a crise económica são o planeamento e o desenvolvimento das vias de transporte através da Geórgia para o petróleo e seus derivados. Nesse sentido, deveríamos analisar todas as possíveis vias e ligações quanto à sua rendibilidade e compatibilidade ambiental e incluí-las nas nossas reflexões futuras.
+
+<SPEAKER ID=24 LANGUAGE="DE" NAME="Jöns">
+ Senhor Presidente, caros colegas! Gostaria de começar por felicitar a deputada Carrère d'Encausse pelo seu relatório que, em nossa opinião, representa mais um contributo verdadeiramente importante para encontrarmos uma estratégia para a União Europeia no seu relacionamento com os países transcaucasianos. O relatório procura sobretudo respeitar a independência de cada um desses países e apoiá-los no seu desenvolvimento.
+<P>
+A Europa precisa de uma política comunitária para a Transcaucásia. Uma política comunitária que tome em consideração, global e plenamente, a difícil situação política destes países. Como é evidente, nós sabemos que essa tarefa não é simples, ainda por cima à luz das pesadas heranças que ainda hoje ameaçam as suas fronteiras e o seu desenvolvimento democrático.
+<P>
+Também nós estamos preocupados com as violações dos direitos humanos que ainda subsistem. O mesmo se pode dizer do problema dos refugiados nesta região, que continua por resolver. No entanto, o reforço do empenhamento da União Europeia irá contribuir para aplanar este moroso e difícil processo de democratização. Os conflitos bélicos, que ameaçam as fronteiras dos países transcaucasianos e lançaram um sofrimento terrível sobre a população civil, só podem ser resolvidos em consonância com os tratados internacionais e através de esforços internacionais. Instamos todas as forças envolvidas a dar o seu contributo. Neste contexto saudamos, também, o papel responsável da OSCE.
+<P>
+Caros Colegas! Temos acordos de parceria com a Geórgia, o Azerbeijão e a Arménia Desde 22 de Abril de 1996 e esperamos que eles possam entrar brevemente em vigor, pois eles são mais um passo importante para aprofundar as nossas relações com estes países.
+<P>
+Mas claro, os acordos por si só não chegam. Precisamos ainda de uma cooperação multilateral que corporize uma estratégia global e que, para além da melhoria da cooperação entre a União Europeia e os três países, melhore sobretudo o relacionamento entre eles. Temos de fazer tudo quanto for possível para incentivar e impulsionar a cooperação interregional destes países.
+<P>
+Além do mais, não só temos de continuar a apoiar, como exigir uma política de energia compatível com o ambiente. Um desastre ecológico na Transcaucásia afectar-nos-ia também a nós. Portanto, a nossa estratégia global tem de atribuir especial importância ao desenvolvimento e expansão de suportes energéticos mais compatíveis com o ambiente. É preciso desactivar a central nuclear de Metsamor. Exigimos ainda instantemente o levantamento dos bloqueios económicos existentes e a livre circulação de mercadorias e serviços através da Transcaucásia e no seu território. Com o desenvolvimento de uma estratégia global para a Transcaucásia, a União Europeia contribui activamente para ajudar os países desta região e apoiá-los na consolidação das suas estruturas políticas. A União Europeia deve dar sinais claros da grande importância que damos a esta região. Mas também os países transcaucasianos têm de se empenhar activamente em alcançar novos progressos na construção da democracia e no respeito pelos direitos humanos. Só juntos avançaremos.
+<P>
+Assim, o meu grupo político subscreve o relatório e a proposta de resolução da deputada Carrère d'Encausse, bem como as alterações nºs 2 e 3.
+
+<SPEAKER ID=25 LANGUAGE="NL" NAME="Tindemans">
+Senhor Presidente, Senhores Deputados, há cinco aspectos que gostaria de focar de forma breve. Em primeiro lugar, presto a minha homenagem à relatora, a senhora deputada Carrère d'Encausse. O seu relatório não é apenas excelente do ponto de vista técnico; ao lê-lo, sente-se todo o peso da personalidade da relatora por trás dos aspectos que defende no relatório. Felicito-a por isso.
+<P>
+Em segundo lugar, a relatora afirma com toda a razão que esta é uma região que já testemunhou muitas tragédias. Pois bem, quando se faz uma análise dos problemas que afectam estas três jovens repúblicas, fica claro que nunca é de mais sublinhar a sua importância geopolítica e geo-estratégica e que a Europa tem, acima de tudo, um dever político para com estes países. Eram países independentes em 1917, foram seguidamente absorvidos pela União Soviética, e agora são de novo independentes. Podemos dar aqui uma grande ajuda: garantir que a independência destes países fica definitivamente estabelecida, que há um desenvolvimento da democracia - um conceito muito novo nesta região -, que os princípios constitucionais se tornam a regra, que os direitos humanos são defendidos e que se torna possível a existência de uma sociedade civil.
+<P>
+Em terceiro lugar, gostaria de dizer algumas palavras sobre cada uma das três repúblicas, que se debatem, todas elas, com graves problemas. Primeiro a Geórgia: temos de fazer tudo o que estiver ao nosso alcance para garantir a manutenção da paz, para encontrar uma solução duradoura para as tensões que se fazem sentir.
+<P>
+No que diz respeito à Arménia e ao conflito que é do conhecimento de todos, Karabakh, temos de fazer tudo o que estiver ao nosso alcance para assegurar o êxito das conversações ali realizadas com o «Grupo de Minsk». No dia 16 de Dezembro, o Conselho de Segurança afirmou que os dois presidentes do Grupo de Minsk deveriam prosseguir os seus esforços, continuar a negociar e chegar a acordo. Portanto, vamos assumir hoje uma atitude positiva e não negativa relativamente a essas conversações e fazer tudo o que pudermos para que elas sejam bem sucedidas. Temos depois o Azerbaijão: temos de fazer tudo o que estiver ao nosso alcance para assegurar um estatuto jurídico geralmente reconhecido para o mar Cáspio; caso contrário, a questão do petróleo naquela zona será uma perigosa fonte de tensões para o futuro.
+<P>
+Em quarto lugar, gostaria de chamar a atenção para o facto de que a nossa tarefa na região pode ser difícil, muito difícil mesmo. O senhor deputado Schwaiger já abordou os aspectos económicos. Permitam-me que lhes recorde o seguinte: os transportes terão uma enorme importância na abertura destas regiões. É necessário que a rede viária europeia esteja ligada a tudo o que ali aconteça. É perfeitamente possível aquelas regiões integrarem-se na economia europeia. O seu petróleo e os seus oleodutos são extremamente importantes e esperamos, sem dúvida, que esta questão se resolva de uma forma que faça sentido em termos económicos. E um sistema bancário moderno com bancos centrais que funcionem devidamente irá melhorar imenso as relações económicas.
+<P>
+E o quinto aspecto que gostaria de focar, Senhor Presidente, é que esta assembleia deveria aprovar as propostas da senhora deputada Carrère por larga maioria. São propostas muitíssimo louváveis, e desta forma podemos contribuir para abrir o caminho que vai ligar a Ásia, o Médio Oriente e a Europa.
+
+<SPEAKER ID=26 LANGUAGE="EL" NAME="Kaklamanis">
+Senhor Presidente, caros colegas, pedi a palavra, não para fazer observações acerca do relatório da senhora deputada Carrère d'Encausse, mas para a felicitar pelo seu excelente trabalho. A região da Transcaucásia é uma região com muitos problemas: problemas políticos, económicos, sociais, ambientais e, principalmente, problemas de estabilidade, de paz e de democracia.
+<P>
+O relatório da senhora deputada Carrère d'Encausse aborda todos esses problemas com muita sensibilidade, com ternura política, diria eu, mas também com realismo. Dá respostas e propõe soluções que a União Europeia no seu conjunto - primeiro o Parlamento Europeu e depois a Comissão e o Conselho - deverá adoptar, mas sobretudo aplicar, aproveitando o facto, entre outros, de um Estado-membro da União - a Grécia - desempenhar um papel substancial e muito útil na região.
+<P>
+A União Europeia deverá procurar, juntamente com a Rússia e a Turquia, ajudar de diversas formas aqueles três países da região. Mas também os próprios países deverão colaborar com a União Europeia e dar soluções, sobretudo a nível da sua democracia interna e dos direitos humanos. Mas em caso algum deverá a União Europeia ficar inactiva. Deverá - mesmo sozinha - pôr em prática todas essas coisas bonitas que estão contempladas no relatório e que todos os colegas disseram hoje nesta sala, se por acaso a Rússia ou a Turquia se recusarem a colaborar connosco na prestação de uma ajuda substancial aos três países da região.
+<P>
+Para terminar, quero felicitar uma vez mais a nossa colega, deputada Carrère d'Encausse, pelo seu excelente trabalho, coisa que não surpreende ninguém aqui nesta sala, já que a nossa colega possui uma vasta experiência e conhecimento da região. Também quero esperar, com todos vós, que todas as palavras bonitas e os votos hoje ouvidos nesta sala não se fiquem por isso e se transformem em acções, para que tenhamos resultados importantes e seja prestada uma ajuda substancial aos povos dos três países da região transcaucasiana.
+
+<SPEAKER ID=27 LANGUAGE="NL" NAME="Bertens">
+Senhor Presidente, temos sorte, uma vez mais, de poder beneficiar dos conhecimentos especializados da senhora deputada Hélène Carrère d'Encausse. Tanto na Comissão dos Assuntos Externos como no plenário tivemos ensejo de admirar em diversas ocasiões os seus conhecimentos acerca da ex-União Soviética.
+<P>
+A Transcaucásia é um barril de pólvora que merece, e está a receber, a atenção da Europa. Saudamos a iniciativa da Comissão Europeia de fazer uma comunicação delineando quais as opções para uma política europeia comum, e o relatório que neste momento estamos a debater é uma resposta condigna do Parlamento a essa comunicação. Espero que de agora em diante a Comissão apresente sempre uma comunicação sobre as relações futuras com uma determinada região antes da negociação de novos acordos. O mandato de negociação com vista à conclusão de acordos com países terceiros pode, assim, ser formulado de acordo com as necessidades dos países em causa e com o consenso a que as instituições chegaram sobre o caminho a seguir relativamente a esses países terceiros. Isto irá aumentar a probabilidade de se seguir uma política coerente.
+<P>
+O desmoronamento da União Soviética anunciou o início de um período difícil para a região transcaucasiana. Houve tensões latentes que vieram à superfície, e os problemas existentes em Nagorno-Karabakh, na Abcásia, na Ossétia, o bloqueio imposto à Arménia pelos seus vizinhos são exemplos disso. O papel de países vizinhos que reincidem num comportamento que é reflexo de uma política de poder multicentenária não conduz, como é natural, à estabilidade. A União tem todo o interesse em que haja estabilidade na CEI. E há que dar prioridade neste caso ao flanco meridional, que faz fronteira com o Médio Oriente.
+<P>
+A política da União tem de ser mais do que apenas uma política de auxílio no âmbito do programa TACIS. Os Estadosmembros têm de compreender que a estabilidade a mais longo prazo é mais produtiva do que o comércio ou os fornecimentos de petróleo no curto prazo. A União Europeia deve, portanto, encontrar uma estratégia global e coerente que abranja o comércio e a economia, a política externa e a ajuda. Esta estratégia deve assentar no reconhecimento da diversidade que existe na região.
+<P>
+Na sua política externa, a União deve agir concertadamente com organizações especializadas como o Conselho da Europa e a OSCE, a fim de garantir o estabelecimento de uma paz duradoura na região. E felicito a OSCE pelos esforços desenvolvidos no que respeita a Nagorno-Karabakh, e espero também que possa ser restabelecida a integridade territorial da Geórgia.
+<P>
+A eficácia da acção colectiva europeia aumentaria também com o estabelecimento de embaixadas comuns dos países da União.
+<P>
+Em termos económicos, temos de contribuir para reforçar as infra-estruturas económicas e promover a cooperação económica entre estes países. Isto significa, como é evidente, que tem de ser levantado o bloqueio imposto à Arménia pela Turquia e pelo Azerbaijão. O Parlamento Europeu vê com bons olhos os estabelecimento de acordos de parceria. Esta atitude favorável por parte do Parlamento Europeu está, como é óbvio, dependente do facto de os países em causa demonstrarem respeito pela democracia, pela sociedade civil e pelos direitos humanos. Por muito difícil que a situação seja presentemente nestes países, as violações grosseiras destes princípios nunca contribuirão para o progresso da causa da paz e da estabilidade.
+<P>
+A relatora apresenta algumas ideias positivas e frutuosas sobre ajuda e cooperação.
+<P>
+Tendo em conta todos os aspectos, o Grupo Liberal conclui que é boa ideia proceder a uma abordagem colectiva das nossas relações com a Transcaucásia e que as ideias da relatora merecem sem sombra de dúvida o apoio da assembleia.
+
+<SPEAKER ID=28 LANGUAGE="DE" NAME="Schroedter">
+Senhor Presidente, verifico que a relatora sustentou num vasto trabalho as ideias da União Europeia para uma estratégia de cooperação com esta região. Nessa medida, são insignificantes os desvios em relação ao documento da Comissão. Nós sabemos que a Transcaucásia é importante sob vários aspectos. É uma placa giratória política, mas também a diversidade de povos, a história instável e a tradição marcada por muitos conflitos continuam a marcar a Caucásia, o que em si poderia ser ultrapassado nos tempos modernos que correm. Por outro lado, a região encerra fontes incalculáveis de matérias-primas como a reserva de petróleo do Mar Cáspio.
+<P>
+Importa, não entrar em competição com a Rússia, mas encontrar, numa estratégia comum dentro do quadro da OSCE, uma forma de levar a paz à região. Mas no meio de tantos interesses egoístas, noto uma falta de responsabilidade da União Europeia por estas regiões. Em primeira linha a Europa defende interesses económicos, que passam por cima dos problemas de uma paz duradoura e de um desenvolvimento democrático no respeito pelos direitos humanos.
+<P>
+Tanto na Arménia como no Azerbeijão a democracia ainda não está consolidada. Existe, é verdade, nos dois países o desejo de uma rápida ligação à Europa, e desenvolvem-se esforços formais nesse sentido, mas é largo o fosso que divide o desejo da realidade. Não há verdadeiramente liberdade de imprensa nos dois países e a oposição política oscila entre a sujeição e a proibição. Além do mais, a vida política no Azerbeijão ainda é ainda por estruturas de clã. O melhor exemplo é o facto de as posições-chave no Estado e na economia estarem ocupadas por pessoas de confiança do presidente Alijev. Quer na Arménia, quer no Azerbeijão, o nepotismo está na ordem do dia. Há tendências nacionalistas presentes em todas as camadas da população e não foram tomadas quaisquer medidas para desmantelar a imagem tradicional do inimigo.
+<P>
+Na Geórgia estão a ser desenvolvidos esforços no sentido de construir uma estrutura democrática sobre esta nova constituição mas, é impossível não notar a sua ausência, foi excluído o estatuto das duas regiões de conflito, a Ossétia do Sul e a Abcásia. As sequelas da guerra civil ainda estão longe de ter sido superadas na legislação. Por todos estes motivos, a ratificação dos ACP deveria ser vinculada a uma série de exigências relativas ao respeito pelos direitos humanos e pelos princípios da democracia e em particular à vontade de pré-adesão à Convenção do Conselho da Europa.
+<P>
+O capítulo 71º dos ACP sobre a imigração ilegal foi igualmente ignorado. Creio que isso não traduz correctamente a verdadeira situação nestes países. Nestes países, que com esta ratificação automática são declarados países terceiros seguros, continua a imperar uma situação próxima da guerra. O Azerbeijão e a Arménia continuam em guerra. O que existe agora não passa de um cessar-fogo. Não há a menor dúvida nesta altura, em que as torturas ainda são uma constante, que irá haver refugiados, e que então esta cláusula de regulamentação de país terceiro vai ser uma catástrofe. Os direitos civis de milhões de refugiados continuam por clarificar e, ao contrário do que se afirma no acordo, não se pode dizer de modo algum que a norma exigida pela regulamentação de país terceiro pode ser cumprida.
+<P>
+As conversações de paz não avançam, tal como vimos na última cimeira da OSCE. O êxito da missão de longo prazo da OSCE depende da forma como a comunidade internacional a apoiar, e embora localmente os mediadores gozem de boa reputação, eles também dependem desse apoio. Não há sinais de um apoio local por parte da União Europeia. Falta uma estratégia coerente no seio de uma política externa e de segurança comum. Por isso devíamos associar a ratificação dos acordos de parceria e de cooperação a uma solução de paz. Assim, o problema do bloqueio resolverse-ia por si próprio, porque ele depende directamente da situação de guerra e seria passível de levantamento perante uma solução de paz. Pelo contrário, a tentativa das partes em conflito para manter o status quo significa viver anos em campos para milhares de refugiados. Gerações inteiras crescem em campos, e penso que uma ajuda, uma melhoria, uma ponte dourada entre o programa ECHO e o programa TACIS já é possível nos termos actuais do Tratado.
+<P>
+Devido a problemas técnicos, a primeira parte da nossa alteração é muito confusa. Apresentámos uma alteração redaccional e peço que ela seja posta à votação. A sua formulação assenta fundamentalmente sobre a declaração do chairman in office da cimeira da OSCE de Lisboa.
+
+<SPEAKER ID=29 NAME="Presidente">
+Muito obrigado, Senhora deputada Schroedter. No momento oportuno - que será o da votação -, examinaremos a questão da alteração que o senhor deputado apresentou.
+
+<SPEAKER ID=30 LANGUAGE="FR" NAME="Lalumière">
+Senhor Presidente, o relatório da senhora deputada Carrère d'Encausse aprova, com razão, a política que a Comissão executiva começa a elaborar no que se refere às três Repúblicas Transcaucasianas saídas da antiga União Soviética. Ninguém melhor do que a senhora relatora, especialista nessa região do mundo, poderia ter explicado e justificado mais claramente as razões dessa política.
+<P>
+É certo que esses três países se situam longe da União Europeia, mas a sua história aproxima-os de nós. Além disso, a sua posição geográfica confere-lhes uma grande importância geo-estratégica, nomeadamente entre a Rússia, a Turquia e o Irão, posição estratégica essa que nós não podemos menosprezar.
+<P>
+Por último, no domínio económico, esses países devem desenvolver-se e tornar-se, a pouco e pouco, parceiros não desprezíveis para o nosso comércio, o nosso abastecimento, nomeadamente de petróleo, etc.
+<P>
+Aprovo, nomeadamente, neste relatório, a ênfase dada à necessidade de uma verdadeira estratégia europeia, cujos primeiros instrumentos assumem actualmente a forma de acordos de parceria. Isso significa, por um lado, que a União Europeia não deve deixar que as intervenções dispersas dos seus países membros se desenvolvam sozinhas, isoladas umas das outras. Uma estratégia verdadeiramente própria da União Europeia deverá evitar rivalidades entre os nossos Estados que poderiam ser perigosas nessa região ultra-sensível. O caso do Alto Karabakh é disso um triste exemplo, felizmente, segundo se espera, em vias de solução.
+<P>
+Por outro lado, uma verdadeira estratégia europeia significa que se tomem em consideração tanto os pontos que esses três países têm em comum, como a especificidade de cada um deles. Com efeito, esses países vizinhos têm características próprias muito acentuadas e os conflitos entre eles são quase permanentes.
+<P>
+A União Europeia, através da sua presença constante, dos seus programas de auxílio, e de um diálogo político que pode tornar-se uma verdadeira cooperação política, deve desempenhar um papel benéfico no desenvolvimento económico, democrático e político dessa região.
+
+<SPEAKER ID=31 LANGUAGE="FR" NAME="Fabre-Aubrespy">
+Senhor Presidente, o relatório da senhora deputada Carrère d'Encausse é um relatório muito rico, apaixonante, eu diria mesmo, magistral! Na sua base está uma análise histórica pormenorizada com cujas grandes linhas eu concordo.
+<P>
+Sim, a Transcaucásia é uma região estratégica cujos laços com os países europeus são estreitos e antigos, como prova, por exemplo, a presença de uma população muito numerosa de origem arménia em alguns países europeus, sobretudo em França. Os países da Transcaucásia têm uma história e uma cultura ricas, uma forte identidade nacional. A Europa deve desenvolver neles uma presença activa.
+<P>
+O êxito da nossa acção impõe, todavia, três condições. A primeira é respeitar as nações a que nos dirigimos. Se a Europa deve ser um modelo para os países da Transcaucásia, é sem dúvida, a Europa das Nações, e não, certamente, uma Europa federal. Devemos, na verdade, respeitar as opções fundamentais feitas por esses países, como por exemplo a opção da Arménia pela energia nuclear, visto que a segurança da central de Mezzamor está assegurada: os membros da delegação à Transcaucásia que aí se deslocaram puderam constatá-lo.
+<P>
+A segunda condição é que a Europa assuma as suas responsabilidades para com esses países reconhecendo o genocídio arménio - esse reconhecimento permitirá que o povo desse país viva a sua própria história - e apoiando muito fortemente a resolução do conflito do Alto Karabakh, porque os países em causa têm essa expectativa. É incontestável que o princípio da inviolabilidade das fronteiras deve subordinar-se, neste caso, tendo em conta as condições em que Estaline procedeu, na época, ao seu traçado, ao direito dos povos a dispor de si mesmos. Trata-se de garantir a segurança da população arménia do Alto Karabakh e de pôr fim ao bloqueio imposto à Arménia pela Turquia e o Azerbaijão. É necessário, neste aspecto, como já foi salientado, que se exerça uma vigilância sobre os progressos realizados em matéria de direitos do Homem, nomeadamente no Azerbaijão.
+<P>
+A terceira condição, Senhor Presidente, é evitar os passos em falso e as inconveniências. Não se pode falar de embaixadas da Comunidade. Existem delegações e o seu papel deve ser precisado: elas não podem substituir-se às embaixadas dos Estados-membros. Em Tbilissi, o «embaixador» da Comunidade proclama-se como tal, expondo-se ao ridículo ao passear-se de viatura blindada com guarda-costas, e exigindo ter precedência no protocolo sobre os representantes dos Estados-membros. Ao fazê-lo, não presta qualquer serviço ao bom relacionamento entre a Europa e a Transcaucásia. Não encorajemos este género de desvio.
+
+<SPEAKER ID=32 LANGUAGE="FR" NAME="Blot">
+Senhor Presidente, caros colegas, este relatório é muito interessante, mas o seu próprio título talvez traia o excesso de uma abordagem deliberadamente muito global. A história demonstra que qualquer tentativa artificial de querer fazer da Transcaucásia uma unidade política e cultural está condenada ao malogro. O mínimo que se pode dizer é que o Azerbaijão não tem a mesma identidade cultural que a Arménia e a Geórgia. As políticas nacionais, por essa razão, são absolutamente insubstituíveis, dado serem muito mais flexíveis do que uma política europeia única. Por exemplo, os laços especiais que unem a França à Arménia não poderão ser esquecidos.
+<P>
+Outra globalização, outra amálgama abusiva, a do ponto 12, que é inutilmente descortês para com a Rússia e a Turquia. De qualquer modo, é a Turquia, e não a Rússia, que impõe um bloqueio à Arménia. É preciso reconhecê-lo. Aliás, o ponto 17 presta justiça a essa realidade, solicitando, com muita razão, o levantamento do bloqueio imposto à Arménia.
+<P>
+Não obstante estas reservas, é excelente que a União Europeia tenha boas relações com essas três nações tão diversas, cujos interesses comuns com a Europa são evidentes. É por isso que apoiamos este relatório.
+
+<SPEAKER ID=33 LANGUAGE="NL" NAME="Van Bladel">
+Senhor Presidente, há dez anos trabalhei na redacção de um jornal e nessa altura nunca ninguém tinha ouvido falar no Nagorno-Karabakh, na Ingúchia ou no Daguestão. Esta semana, passados todos estes anos, o jornal francês Le Figaro fala do Azerbaijão como o Kuwait do Cáucaso. Como os tempos mudam! Por que é que eu, deputada europeia holandesa, estou interessada nesta região? Porque penso que no subsolo do Cáucaso existe um produto que interessa a todo o mundo, e isso é importante para a estabilidade.
+<P>
+O relatório da senhora deputada Carrère d'Encausse parece um romance histórico. Uma coisa resulta clara. Os problemas são muitos e variados e as soluções também serão. A Europa pode desempenhar aqui um papel da maior importância, em primeiro lugar elaborando uma lista das necessidades económicas da região, e sobretudo procurando, através de uma presença activa, apoiar politicamente a independência destes países, o desenvolvimento da democracia e os direitos das minorias. A OSCE, por exemplo, também pode desempenhar aqui um papel muito importante.
+<P>
+Existe um convénio que se chama Zona de Cooperação Económica do Mar Negro. Este convénio oferece uma útil via de acesso à região, sendo o Danúbio e o Reno vias de regresso que conduzem finalmente ao mar do Norte. A Grécia é signatária e a Áustria e a Itália são países observadores. Seria muito importante que estes países tivessem uma participação activa na região.
+<P>
+A senhora deputada Carrère d'Encausse preparou os alicerces. A Comissão e o Conselho podem agora começar a trabalhar. Apoio entusiasticamente este relatório.
+
+<SPEAKER ID=34 LANGUAGE="FR" NAME="Féret">
+Senhor Presidente, gostaria se salientar, primeiramente, a grande qualidade da lição magistral que nos é dada, mais uma vez, pela senhora deputada Carrère d'Encausse.
+<P>
+Por outro lado, fiquei inteiramente convencido pelos argumentos desenvolvidos a favor de uma estreita cooperação entre a União Europeia e as três Repúblicas Transcaucasianas. A riqueza petrolífera do subsolo do Azerbaijão é, evidentemente, um elemento de peso.
+<P>
+A questão que se coloca é a de saber se a necessidade que a Europa tem de não deixar o terreno livre às empresas americanas, já muito presentes em Baku, deve levar a melhor sobre o risco em que ela incorre ao ir espicaçar o gigante russo na sua própria fronteira. A minha resposta a esta pergunta é afirmativa. Em compensação, não considero que devamos ter em conta o desejo dos povos transcaucasianos de se integrarem nas estruturas europeias. As Repúblicas Transcaucasianas não são mais europeias do que a Turquia, Marrocos ou a Coreia do Sul. O argumento do regresso da Europa a uma das fontes da sua cultura não é aceitável, a menos que aceitemos considerar a integração da antiga Mesopotâmia, do Irão e do Iraque na União Europeia e, porque não, fazer de Bagdade a capital da futura grande Europa.
+
+<SPEAKER ID=35 LANGUAGE="DE" NAME="Habsburg-Lothringen">
+Senhor Presidente! Gostaria de começar por agradecer à deputada Carrère d'Encausse o seu pormenorizado e notável relatório sobre a à estratégia relativa aos países transcaucasianos.
+<P>
+Mas gostaria de agradecer em particular a retrospectiva histórica por si compilada, que considero muito valiosa, porque é um bom exemplo de como só podemos compreender muitos problemas de inúmeras regiões e encontrar soluções quando as analisamos no seu contexto histórico e religioso.
+<P>
+Gostaria de referir, no entanto, que noto uma certa coloração política nesta perspectiva histórica, em particular na descrição da marioneta russa Schvardnase que em meu entender é ainda demasiado positiva.
+<P>
+Gostaria, porém, de aproveitar o curto tempo de uso da palavra de que disponho para lembrar mais uma vez a importância do território transcaucasiano - em particular na sua associação com os vizinhos e em particular com a Turquia - em termos de abastecimento de energia para o futuro. Temos de apostar todo o nosso esforço numa estabilização deste território, não só no interesse da população da Transcaucásia, como no nosso próprio interesse europeu.
+
+<SPEAKER ID=36 NAME="Oreja Aguirre">
+Senhor Presidente, Senhores Deputados, devo confessar que lamento que o rigor implacável da limitação do tempo nos tenha impedido de ouvir mais longamente a intervenção da senhora deputada Carrère d'Encausse, autoridade indiscutível nas questões da região. Quero felicitá-la por este relatório tão exaustivo e profundo. Prestou um grande serviço à União ao salientar a importância estratégica desta região e ao sublinhar os nossos interesses nela. O primeiro desses interesses é a necessária ajuda a esses países. Ajudá-los a evoluir para democracias independentes, estreitando os seus vínculos com a Europa e pondo fim aos conflitos em que estão envolvidos.
+<P>
+Apesar do tempo decorrido desde que foi elaborada a comunicação da Comissão sobre uma possível estratégia da União Europeia na região, a situação no Cáucaso, infelizmente, não registou mudanças substanciais. Não poderá verificar-se um restabelecimento duradouro se os três países em questão não puderem encontrar um modus vivendi entre si e com os seus vizinhos, e não dará os seus frutos todo o investimento que fizemos em forma de ajuda humanitária e alimentar, de assistência técnica e de empréstimos, que perfaz mais de 800 milhões de ecus desde a independência. Esperamos aproveitar a nossa condição de primeiro doador na região para apoiarmos os esforços internacionais com vista à solução dos conflitos, especialmente em Nagorno-Karabach.
+<P>
+Embora o Conselho não tenha chegado a uma posição comum, como era nossa proposta, chegou-se a algumas conclusões que nos permitiram fomentar a cooperação regional no Cáucaso, tanto através dos acordos de colaboração e de cooperação como do nosso programa TACIS, especialmente nos âmbitos da energia e dos transportes. Graças a isso, continuamos a contar com os meios para prosseguir a nossa cooperação económica com cada uma das repúblicas em consonância com os nossos objectivos políticos. Também graças a isso dispomos do quadro que nos permite afirmar a presença económica da Europa, equilibrando, desta forma, as questões de segurança que dominam a política, especialmente na Arménia e no Azerbaijão.
+<P>
+Por todas estas razões, considero essencial a rápida ratificação dos três acordos, elaborados com o propósito de serem os mais parecidos possível. Se aspiramos a desempenhar um papel importante na região, as nossas relações com cada um destes países exigem uma atenção especial e, neste momento, a Comissão não só é tida como um doador importante, mas também é respeitada - como aqui foi evidenciado em algumas intervenções - pela sua imparcialidade. É essencial que continuemos a demonstrar que compreendemos os problemas com que todas as partes têm de confrontar-se. E relativamente à necessidade de abrir as fronteiras entre a Turquia, o Azerbaijão e a Arménia de que fala o relatório, devemos recordar que, enquanto a preocupação da Arménia é o bloqueio, a do Azerbaijão é o final da ocupação dos seus territórios, incluindo os que se situam fora de Nagorno-Karabach, e o regresso, com garantias, de mais de um milhão de refugiados.
+<P>
+No que respeita ao desenvolvimento da democracia na região, a Comissão acompanhará de perto a situação e fará pressão para que se continue a avançar. E o relatório da OSCE sobre as eleições presidenciais na Arménia revela que os problemas de democracia não se limitam apenas ao Arzebaijão. O mais importante é que os dois países compreendam que devem registar-se-se melhorias na situação e, para tanto, podemos utilizar os nossos programas de assistência técnica como meio de apoio, e devemos insistir em que quanto mais fortes forem as nossas relações bilaterais mais oportunidades teremos de conseguir progressos reais.
+
+<SPEAKER ID=37 NAME="Presidente">
+Está encerrado o debate.
+<P>
+Passamos agora à votação.
+<P>
+(O Parlamento aprova a resolução)
+
+<SPEAKER ID=38 LANGUAGE="DE" NAME="Schroedter">
+Senhor Presidente, caros colegas! Infelizmente sou forçada a chamar novamente a vossa atenção para a posição do grupo dos Verdes. Não pudemos dar o nosso voto favorável ao relatório, na forma em que foi aprovado agora, com as alterações, porque ele apresenta uma estratégia muito unilateral, marcada sobretudo pela vontade dos vários países europeus de chegar relativamente depressa aos recursos de petróleo do Mar Cáspio e de vedar a entrada aos outros correntes. Quem já lá esteve e viu estes campos de petróleo verdadeiramente contaminados, sabe que há uma outra responsabilidade para com a região, para além de chegar tão rapidamente quanto possível a essas fontes de petróleo. Há a responsabilidade de levar paz à região. Com uma ratificação rápida dos acordos de cooperação e de parceria, sem os vincular a uma solução de paz, nem exigir globalmente o levantamento do embargo, torna-se claro que, em primeiro lugar, a Europa compreende muito pouco esta região e, em segundo lugar, que precisamente esse facto não permite dar andamento à solução do conflito.
+<P>
+Quando os ACP tiverem sido ratificados e entrado em vigor, isso significa que grande parte da população que deixou de aí viver - são vários milhões - não beneficiará dos auxílios. Isso significa que Berg-Karabakh não vai poder participar. Ou será que pretendem auxiliar Berg-Karabakh através do corredor de Latchin, o que seria ilegal do ponto de vista do direito internacional? Tal não é possível sem pôr em vigor uma solução de paz através dos ACP. Isso não significa que não apliquemos todo o nosso dinheiro e todas as nossas energias para ajudar onde é necessário. Mas nada se mexe na União Europeia. Nada se mexe quando está em causa alargar o mandato do programa ECHO para construir a ponte dourada. Nada se mexe quando está em causa modificar o programa TACIS para ajudar com medidas sociais e nada se mexe em termos de verdadeiro apoio a uma solução de paz. Dizem-se muitas palavras bonitas, mas falta a compreensão pelos verdadeiros problemas da região. Não podemos concordar com uma estratégia que, embora bem- intencionada, passa completamente ao lado dos factos.
+
+<SPEAKER ID=39 LANGUAGE="FR" NAME="Fabre-Aubrespy">
+Senhor Presidente, desejo, com efeito, explicar a razão por que, apesar do que disse há pouco, votei contra o relatório que nos era proposto na sua redacção final, sendo aliás o único deputado a fazê-lo.
+<P>
+Concordo com o conteúdo do relatório, excepto quanto a uma palavra, que é, para mim, fundamental, nomeadamente quando se diz que instamos a Comissão e o Conselho a abrir embaixadas da Comunidade. A Comunidade não pode ter embaixadas num país. Fazê-lo, e querer fazê-lo, a despeito das realidades, é prestar um mau serviço à União Europeia.
+<P>
+Actualmente, ao contrário do que há pouco foi dito pelos oradores, existem lá embaixadas dos diversos países. Há quatro ou cinco em cada um dos três países da Transcaucásia. Ao contrário daquilo que foi dito, os embaixadores têm uma verdadeira coordenação; existe até uma presidência assegurada pelos embaixadores, mesmo que a presidência da União não seja de um dos países representados por embaixada. Em contrapartida, a delegação da Comunidade deve ser uma delegação e não uma embaixada. Constatei, no local, até que ponto podia ser perigoso, na Geórgia, chamar-se embaixada àquilo que devia permanecer uma delegação. Foi por isso que votei contra o relatório, embora concorde com ele, desejo frisá-lo, quanto ao essencial.
+
+<SPEAKER ID=40 NAME="Eriksson e Sjöstedt">
+Votámos a favor do relatório, porque consideramos importante que os Estados-membros desenvolvam relações, formas de apoio, de comércio e de cooperação com as Repúblicas Transcaucasianas. Dado que nos opomos à tendência da UE no sentido de desenvolver uma política externa comum, reprovamos a ênfase que é dada no relatório à PESC, em especial no que respeita à instituição de embaixadas especiais da UE.
+
+<SPEAKER ID=41 NAME="Lindqvist">
+Na minha opinião, a UE não deve abrir embaixadas próprias, devendo escolher outras formas de estabelecer relações com o mundo exterior.
+
+<SPEAKER ID=42 NAME="Wibe">
+Estou totalmente de acordo com o relatório no sentido de que é importante auxiliar as Repúblicas Transcaucasianas. Tenho, porém, reservas no tocante aos pontos 1 e 36, onde se refere a necessidade de a União abrir embaixadas comuns. Considero que a UE não é uma entidade jurídica com poderes para instituir embaixadas. Esta deve ser uma prerrogativa de cada nação.
+
+<CHAPTER ID=4>
+Protecção das indicações geográficas e
+denominações de origem
+<SPEAKER ID=43 NAME="Presidente">
+Segue-se na ordem do dia o relatório (A4-0412/96) do deputado Fantuzzi, em nome da Comissão da Agricultura e do Desenvolvimento Rural, sobre a proposta de regulamento (CE) do Conselho (COM(96)0266 - C40439/96-96/0159(CNS)) que altera o Regulamento (CEE) nº 2081/92, relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios.
+
+<SPEAKER ID=44 NAME="Fantuzzi">
+Senhor Presidente, não sei se todos os colegas leram a exposição de motivos deste relatório. Penso que ele exprime uma certa preocupação e também alguma amargura pela forma como se está a gerir a aplicação do Regulamento (CEE) nº 2081/92, relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios. E, inclusivamente, podemos dizer que a etapa de hoje marca um confronto entre o Parlamento Europeu, a Comissão e o Conselho acerca de um dossier em meu entender muito sensível e delicado.
+<P>
+Os antecedentes são conhecidos: a partir da decisão sobre o queijo feta, que foi registado como produto típico de origem europeia a partir de 1 de Junho de 1996, a Comissão avançou a proposta de hoje, nomeadamente de estabelecer um período de transição durante o qual pode ser autorizado um produto que usurpe, evoque ou imite a verdadeira origem de um produto registado - que neste momento é de cinco anos a partir da data de publicação do regulamento e válido para todos - em cinco anos a partir da data de registo de cada produto, ou seja, em termos práticos, daqui em diante.
+<P>
+Poderão dizer que se trata de uma simples e modesta alteração de carácter técnico causada simplesmente pelo atraso objectivo que se registou na aplicação do regulamento. Eu penso que não, e por isso manifesto a minha preocupação. E - que fique claro - até a nossa Comissão da Agricultura e do Desenvolvimento Rural reconhece esse atraso; dele fizemos várias vezes motivo de denúncia e, inclusivamente, dissemos que foi um atraso culpado. Quero lembrar que em 26 de Outubro de 1995 houve uma pergunta oral feita nesta assembleia e que na resolução final se instava a Comissão a pôr fim a esse atraso, que comportava graves consequências para os produtores e para os consumidores.
+<P>
+Penso que se tem subestimado este dossier e confirmado também um uso impróprio do processo simplificado. Devo dizer que só em 1996, em meados do ano, é que tivemos os dois primeiros pacotes de produtos registados. Portanto, se o atraso é a razão verdadeira e objectiva destas alterações de carácter técnico, julgo que a Comissão e o Conselho fariam bem em aceitar as ideias contidas no meu relatório, ou seja, em aumentar para sete os cinco anos previstos no Regulamento (CEE) nº 2081/92, que se contam a partir da data de publicação do regulamento, e prever uma nova possibilidade de prorrogação para produtos específicos, segundo o processo do artigo 15º, sempre dentro do espírito e da filosofia do Regulamento (CEE) nº 2081/92.
+<P>
+No entanto, receio que, tal como está, esta proposta se baseie mais no atraso do que no motivo real para fazer dele um álibi e encorajar os inimigos deste regulamento, e bem sabemos que eles eram e continuam a ser muitos. Não creio que se dê um bom sinal político anulando totalmente o período de transição, até porque uma das vantagens da nova Organização Mundial do Comércio é a existência do acordo TRIP'S sobre a propriedade intelectual, que no artigo 22º prevê precisamente a possibilidade de proteger nos mercados mundiais os produtos agrícolas e alimentares com denominação de origem geográfica. E então, com essas alterações, como poderemos nós ser dignos de crédito aos olhos dos nossos parceiros extra-europeus ao querer exigir deles esse mesmo respeito?
+<P>
+Penso que também renunciamos a valorizar um filão afirmado de produtos de qualidade. Se depois da crise das vacas loucas todos reconhecemos que se quebrou um laço que existia automaticamente entre a confiança dos consumidores e a boa qualidade do trabalho agrícola, pois então, mantenhamos vivos os fios que restam. E penso que esta ideia dos produtos típicos é uma ideia que ainda causa uma boa impressão, em termos objectivos, na confiança do consumidor.
+<P>
+Penso que os produtos típicos não devem ser uma griffe a usar apenas nos congressos, mas exprimem um vasto património de conhecimentos e de profissionalismo de toda a agricultura europeia. Renunciar a isso significa, na minha opinião, dar um enorme presente aos americanos.
+<P>
+Para terminar, penso que a Comissão nos deve dizer quando irá completar as listas previstas, pondo em prática os novos pacotes que irão concluir - faço votos de que isso aconteça finalmente - o processo simplificado previsto no artigo 17º do Regulamento (CEE) nº 2081/92. Em meu entender, essa resposta é muito importante, uma vez que temos de passar a uma nova fase de aplicação dos regulamentos, isto é, fazer avançar o processo corrente para pôr fim a esta gestão, que tem tido muitos problemas e um grande atraso e que deve ser rapidamente ultrapassada.
+
+<SPEAKER ID=45 LANGUAGE="EN" NAME="Wilson">
+Senhor Presidente, a minha intervenção tem a ver com a proposta de regulamento do Conselho que altera um regulamento. Há sempre motivos que justificam excepções, como vimos no regulamento original. O processo simplificado que foi autorizado constituiu uma excepção. No entanto, não devemos permitir que a excepção passe a ser a regra, excepto em circunstâncias excepcionais.
+<P>
+O motivo da nossa discussão são dois anos. A Comissão quer a data de 1996 mais cinco anos. O nosso relator propõe a data original de 1992 mais sete anos. Nós dizemos 1999, eles dizem 2001. A protecção das indicações geográficas é uma boa ideia. Pode acrescentar valor a produtos de regiões rurais mais pobres. Pode garantir qualidade. Pode ser utilizada por interesses de âmbito menor para neutralizar o poder dos interesses das empresas internacionais. Mas se passarmos a ser menos rigorosos nos prazos, se formos menos exigentes relativamente à agenda de trabalhos, se não formos claros e precisos poder-se-á pensar que ou não estamos a levar as coisas a sério ou não somos eficientes. A Comissão tem razão em querer melhorar a situação. Mas o texto do senhor deputado Fantuzzi com as alterações que lhe foram introduzidas é melhor e solicito à assembleia que o apoie.
+
+<SPEAKER ID=46 LANGUAGE="DE" NAME="Schierhuber">
+Senhor Presidente, caros colegas! É indiscutível que a agricultura se encontra numa fase de reorientação. A liberalização decorrente da OMC, métodos de produção novos e cada vez melhores e, finalmente, também a concorrência internacional provocaram fortes mudanças nos últimos anos. É claro que não podemos meter tudo aleatoriamente dentro do mesmo saco, mas penso que de certa maneira a BSE se enquadra neste contexto. Temos de cuidar no sentido de evitar que a agricultura se movimente numa direcção completamente estranha ao Homem. Os próximos anos obrigarão a bastantes reformas. Há que prestar especial atenção aos desejos dos consumidores. Também é claro que largos sectores dos consumidores desejam produtos naturais e saudáveis, e que métodos de produção próximos da natureza e uma agricultura estruturada ruralmente contribuem para os alicerces do território rural.
+<P>
+Um dos aspectos mais importantes desta reorientação tem de residir no facto de a origem e o teor do produto agrícola poderem ser claramente comprovados. Neste conceito global inserem-se as designações de origem nos termos do Regulamento 2081/92 aqui debatido, bem como a rotulagem de bovinos e de carne de bovino nos termos em que se prevê finalmente a sua introdução na sequência da catástrofe da BSE. Só assim o consumidor conseguirá finalmente reencontrar a confiança nos produtos e só assim poderemos ter uma concorrência leal entre os produtores e o mercado livre. Claro que as tradições e as diferenças culturais das regiões europeias têm de ser respeitadas.
+<P>
+Creio poder afirmar que cada região da União Europeia tem as suas especificidades e - estou certa - as suas vantagens. Todas as posições - disse um dia um sábio - são boas posições. Só temos de saber para quê. Então teremos também a oportunidade de ver os nossos produtos tornar-se afamados e protegidos contra imitações indesejadas. Mas que as fronteiras naturais nesta questão são fluidas, é ponto assente.
+<P>
+Muitos produtos que originalmente provêm de determinada região são muitas vezes produzidos noutras regiões há décadas, com toda a naturalidade. Por isso gostaria de apelar no sentido de se amenizar as consequências negativas para os produtores afectados com prazos de transição em conformidade. Precisamente do ponto de vista do meu país natal, a Áustria, peço a devida consideração, uma vez que temos grandes produções em sectores problemáticos.
+<P>
+O relatório do deputado Fantuzzi faz juz a esta exigência, sugerindo prorrogar o prazo de transição. Penso que a via escolhida é a correcta.
+
+<SPEAKER ID=47 LANGUAGE="IT" NAME="Santini">
+Senhor Presidente, esta proposta de regulamento assume um pouco o sabor de um acto de regularização, de uma resposta algo tardia a um problema de importância vital para a relação de confiança entre produtor e consumidor.
+<P>
+Aquilo que podemos desejar neste momento, depois de tanto tempo perdido, é que a burocracia acelere o passo e permita o funcionamento dos processos em prazos mais rápidos do que aqueles que foram necessários para se chegar à parte de instrução.
+<P>
+O artigo 13º prevê um período máximo de transição de cinco anos a partir da data de publicação do regulamento, a fim de permitir que os Estados-membros possam manter as medidas nacionais que autorizam as expressões indicadas na alínea b) do parágrafo 1, mas com determinadas condições: primeiro, que os produtos tenham sido legalmente lançados no mercado, com essas denominações, pelo menos cinco anos antes da data de publicação do regulamento; segundo, que as etiquetas mostrem claramente a verdadeira origem dos produtos.
+<P>
+Concordo com a proposta do relator de se chegar a um período de transição de sete anos, reivindicando o direito de gozar de uma nova prorrogação em caso de comprovadas dificuldades. Mas sete anos levar-nos-iam, fazendo um pouco as contas, desde 1992, ou seja, desde a data de nascimento deste regulamento, até 1999, e não como pretende sugerir a Comissão. Cinco anos, mas a partir de quando? Da data de publicação do regulamento, por conseguinte a partir deste ano - pelo menos assim esperamos - e isso levar-nos-ia até ao ano 2002 com a actual situação problemática. Isso significaria que, entretanto, os dinamarqueses continuariam a produzir a famosa »feta» grega - enganando assim o consumidor - e que os senhores alemães continuariam também a produzir queijo »grana» típico italiano com uma marca alemã.
+<P>
+Isso, Senhor Presidente, não é sintoma de liberdade: é um indecente plágio comercial. A Europa não é isso! Ontem li uma entrevista a um sociólogo que dizia: »Recuso a ideia de uma integração europeia baseada no nivelamento da identidade; recuso a ideia de uma cerveja idêntica desde Hamburgo até Palermo; recuso a ideia de um vinho com as mesmas características organolépticas desde a Grécia até à Bretanha.» Bom, penso que não é um problema de unidade europeia: trata-se simplesmente de uma confusão de produção.
+<P>
+Ora bem, as indicações, as denominações geográficas protegidas podem constituir o documento notarial da conservação das identidades de produção, sem comprometer a livre circulação num mercado que deve conservar - isto é verdade - o seu fôlego europeu. Para os produtores da agricultura e da indústria a homologação também é apenas política, tal como acontece com os cidadãos que nascem e continuam a ser alemães, portugueses ou italianos mas vivem como cidadãos europeus. Pois bem, o mesmo deve acontecer também com os produtos da terra.
+
+<SPEAKER ID=48 LANGUAGE="SV" NAME="Olsson">
+Senhor Presidente, a Europa é de facto um continente fantástico e a UE uma região fantástica, com a sua diversidade linguística e cultural. Podemos também referir a nossa diversidade gastronómica. Temos culturas gastronómicas muito diversas nas diferentes partes da União. Isto implica que, frequentemente, tenhamos diferentes designações para a mesma coisa, o que é natural dado que usamos línguas diferentes. Por outro lado, acontece, por vezes, que designamos coisas diferentes com a mesma designação, o que, convenhamos, não é inteiramente correcto.
+<P>
+Tudo isto faz parte de um contexto muito complicado que é importante procurarmos esclarecer. É também importante notar que, devido à integração europeia, cada vez concentramos mais as actividades em grandes unidades centrais. Não é evidente que os consumidores dos alimentos considerem esta tendência positiva. Talvez os consumidores de bens alimentares desejem a característica local, talvez queiram saber onde e como é produzido um determinado alimento. Neste contexto, as denominações de origem e as indicações geográficas são importantes, desde que não sejam mal utilizadas.
+<P>
+Participei nas negociações de adesão da Suécia à UE e sei que esta questão foi bastante discutida. Pode dizer-se que as denominações que utilizamos nos produtos, na Suécia, talvez sejam inadequadas no contexto da UE, mas queremos, por enquanto, conservá-las. Por este motivo, creio que é importante regulamentar esta matéria, de modo que, a prazo, não fiquemos sujeitos a informações enganosas. Ao mesmo tempo, deve existir flexibilidade e, por isso podemos admitir que um Estado-membro possa utilizar uma determinada denominação tradicional no seu próprio país, provisoriamente ou até a questão ter sido resolvida de outra forma. Considero, pois, que tem interesse prever um determinado prazo de aplicação, e considero que o prazo da Comissão é preferível. Penso também que deveria ser possível prorrogar o prazo do período transitório no caso de existirem dificuldades com determinado produto. Penso que não é adequado limitar a possibilidade de prorrogação.
+<P>
+Senhor Presidente, penso que podemos passar à votação do relatório em apreço e espero que possamos reunir a unanimidade quanto à matéria de fundo. Estou de acordo com a maior parte do relatório do senhor deputado Fantuzzi, mas é preciso reconhecer que existem alguns problemas, nomeadamente nos novos Estados-membros.
+
+<SPEAKER ID=49 LANGUAGE="FR" NAME="Barthet-Mayer">
+Senhor Presidente, as regiões demarcadas e as produções agrícolas regionais de qualidade exigem um sistema europeu de protecção forte no âmbito do mercado único. A criação das Indicações Geográficas Protegidas e das Denominações de Origem Protegidas vai nesse sentido. A Comissão permaneceu fechada ao pedido feito por alguns Estados-membros de que houvesse uma protecção nacional transitória, enquanto se aguarda o registo comunitário definitivo dessas novas denominações.
+<P>
+Inicialmente, o regulamento previa a possibilidade de os Estados-membros manterem as suas denominações nacionais durante um período de cinco anos após a publicação do regulamento, neste caso, até 1997. A Comissão propôs que se alterasse a data de início do período transitório substituindo a data de entrada em vigor do regulamento pela data de registo de cada um dos produtos em causa. Podeis imaginar de imediato a dificuldade de controlo que isso implica.
+<P>
+O nosso colega, senhor deputado Fantuzzi, considera, com razão, que a Comissão errou ao atrasar o tratamento dos dossiers , penalizando assim os produtores e os transformadores das nossas regiões demarcadas, quando estes esperavam legitimamente, desde a instauração do mercado único, a exclusividade das suas denominações em todo o território comunitário. A proposta do relator é simples: aumentar a duração do período transitório para sete anos, a contar da data de entrada em vigor do regulamento. É uma boa proposta, que tem o mérito de facilitar o controlo.
+<P>
+De modo mais geral, no domínio da protecção e da circulação intracomunitárias dos produtos agrícolas e de regiões demarcadas, ainda nos falta fazer muitos progressos para criarmos a Europa que desejamos. Tenho discutido recentemente este problema com produtores alsacianos. Quotidianamente, os produtores agrícolas ou vitícolas, os artesãos que transformam as nossas regiões europeias continuam a esbarrar com entraves jurídicos, fiscais e administrativos em alguns Estados-membros, o que constitui agora e sempre, nem mais nem menos do que formas disfarçadas de proteccionismo. Em matéria de produtos com denominação de origem, parece, portanto, que o grande mercado único nada trouxe de novo.
+<P>
+Caros colegas, será necessário que as nossas comissões se debrucem sobre estas disfunções, a fim de permitir que os nossos excelentes produtos de qualidade circulem, por fim, livremente, em toda a União, com regras uniformizadas, em benefício da transparência e da satisfação dos nossos consumidores e cidadãos europeus.
+
+<SPEAKER ID=50 LANGUAGE="IT" NAME="Baldarelli">
+Senhor Presidente, estou de acordo com a proposta do relator, porque ela reflecte o sinal de uma opinião já consolidada junto dos produtores agrícolas e, sobretudo, faz referência às oportunidades que se encontram organizadas no mercado.
+<P>
+São vários os quadrantes que se apressam a pensar no mercado como um ponto de referência fundamental para a organização da produção, assim como em termos de um elemento de garantia do rendimento. Convem saber que as denominações de origem da produção, bem como as indicações geográficas, podem ser uma resposta significativa para manter o rendimento, para incentivar a agricultura e, naturalmente, para ultrapassar também uma política de subsídios que, até esta fase, se tem mantido também em virtude das manifestas dificuldades de rendimento registadas em muitas realidades agrícolas da nossa União Europeia.
+<P>
+Portanto, deste ponto de vista, devemos proceder por forma a que a acção da Comissão seja uma acção mais pontual, mais concreta, não podendo ser aceites novas derrogações. É claro que este não deve ser o ponto de referência exclusivo, o ponto de referência regulamentar, já que o mercado também pode ser abordado mediante uma acção concreta e pontual das associações de produtores, através dos consórcios de defesa da qualidade, que anteciparam também a mesma posição regulamentar e fizeram com que se tomasse consciência, na própria União Europeia, de que existia uma acção de mercado e uma parte do produto que devia ser protegida.
+<P>
+Por conseguinte, deste ponto de vista pensamos que essa acção, inclusivamente por parte das associações de produtores, deve ser mais incentivada e que é, evidentemente, necessário antecipar também o percurso, demasiado confuso e burocrático, que actualmente está a cargo da produção para a definição das IGP e das DOP.
+
+<SPEAKER ID=51 LANGUAGE="DE" NAME="Funk">
+Senhor Presidente! Em termos gerais estou de acordo com o relatório do deputado Fantuzzi, embora deva dizer que precisamos dos prazos de transição, porque estão igualmente em causa os postos de trabalho nas empresas. Temos de considerar também este aspecto. Se uma empresa tem de se restruturar, é preciso prever que podem verificar-se casos difíceis que deveria ser possível equilibrar. Em geral sou a favor de um maior protagonismo das nossas especialidades europeias. Onde quer que chegue, em todos os países há McDonalds, Burger King, Coca Cola, já lá chegaram todos, mesmo fora da Europa. É na verdade um atestado de pobreza da nossa indústria alimentar que ela não tenha sido capaz de criar pontos de distribuição semelhantes para a produção em massa, permitindo que nos escapem grandes quotas de mercado. Nessa medida, nós Europeus devíamos cuidar melhor das nossas especialidades, que têm grande tradição e aceitação junto das populações, e avançar neste domínio.
+<P>
+No entanto, durante a análise deparei com coisas muito estranhas. Ainda recentemente nos ocupámos durante muito tempo com a BSE e todos disseram que queriam uma rotulagem para saberem que não contrairiam a doença. Os Suíços tiveram que cumprir uma proibição de exportação e verificámos então que eles produzem a sua famosa carne com carne argentina. Esta carne não provém de vacas suíças! Devo dizer francamente que se formos tão rigorosos como o colega Baldarelli disse, vamos ver também que em Itália, como pude verificar durante a minha visita, se produz com sucesso Parmesão com leite bávaro e do Estado Federado do Baden-Württemberg. Não devemos culpar-nos mutuamente disto e daquilo, porque no fundo não é bem assim, pois o queijo tem um sabor óptimo; aliás, ele acaba por regressar depois à Alemanha. Sou aliás um fã do queijo parmesão, já agora conto-vos este pequeno segredo, que acompanho com vinho de Württemberg. Também não é mau, porque sabe bem.
+<P>
+Devíamos por isso definir os nossos padrões de protecção num nível muito mais elevado, embora eu concorde com a proposta da Comissão, de darmos cinco anos a partir da data de publicação para que tenhamos tempo suficiente de proceder à restruturação. Aparte isso, concordo com aquilo que V. Exa. disse. Devíamos esforçar-nos por dar maior protagonismo às nossas especialidades europeias e transmitir aos nossos consumidores uma consciência de qualidade na qual podem confiar. Sofremos agora, com a utilização ilegal de hormonas, a BSE, etc., uma perda tão grande de reputação ao nível da carne, que devemos aproveitar a ocasião para, com estas especialidades, melhorarmos um pouco o nosso relacionamento com os consumidores. Mas para tal precisamos de um certo prazo de transição. Se for possível concordar nesse ponto, então damos o nosso voto favorável ao relatório Fantuzzi.
+
+<SPEAKER ID=52 NAME="Rosado Fernandes">
+Senhor Presidente, Senhor Comissário, há alguma realidade histórica de cada país da Europa que deve ser defendida. Não há dúvida nenhuma de que a uniformização e a globalização que nos faz a todos Duponts e Duponts sucessivos da História da Europa, cada vez mais Duponts , deve ser evitada. Pelo menos que haja alguma coisa que não seja Dupont . E o que não é Dupont é, naturalmente, o produto de origem, é a noção geográfica, é o «Porto» que é «Porto», o «Madeira» que é «Madeira», e que não é feito nem na Califórnia nem na Austrália.
+<P>
+Se de facto a Europa quer defender alguma da sua História, alguma da sua individualidade e não quer ficar igual a todo o resto do Mundo - não é que sejamos superiores, somos diferentes - tem que defender os seus produtos, tem que defender as suas indicações de origem, tem que defender as suas indicações geográficas. Para isso, é necessário que a Comissão não arraste os pés como arrastou neste caso. Para isso é preciso que a Comissão não espere que outros se inscrevam para proteger outros, e não aqueles que já se inscreveram. É preciso que respeite já os valores instalados, e não foi isso que ela fez e é isso que censuro.
+
+<SPEAKER ID=53 LANGUAGE="EN" NAME="Hardstaff">
+Senhor Presidente, desejo agradecer ao nosso relator, o senhor deputado Fantuzzi, o óptimo trabalho que realizou no seu relatório, analisando e revendo a legislação relativa à protecção das indicações geográficas e da denominação de origem dos produtos agrícolas e dos géneros alimentícios.
+<P>
+Esta é uma questão de grande importância tanto para produtores como para consumidores. Os produtores de especialidades regionais de qualidade particularmente elevada precisam de garantias de que os seus produtos não serão copiados e em seguida comercializados a preços bonificados ou reduzidos como se fossem o artigo genuíno. Os consumidores precisam de saber exactamente o que é que estão a comprar, se é champanhe genuíno ou queijo Wensleydale ou se são produtos similares, possivelmente também de excelente qualidade, mas de outra região.
+<P>
+Como o senhor deputado Fantuzzi sublinhou, a Comissão estava preocupada pelo facto de o período transitório de cinco anos se estar a revelar insuficiente para o registo de todos os produtos que pretendem obter a denominação de produtos ou géneros alimentícios regionais protegidos. A Comissão propôs um novo período transitório de cinco anos a partir de 1996 para cada produto ainda não registado, com início na data de apresentação do pedido e não na data originalmente acordada.
+<P>
+Como sublinhou o nosso relator, isto significaria que todo o processo se poderia arrastar por muitos anos, tornando a situação confusa e minando a eficácia da legislação. A alteração que apresentou no sentido de alargar o período de transição num número fixo de anos, designadamente, de cinco para sete anos - oito, em circunstâncias muito excepcionais - a partir da data original de referência, deverá concentrar as atenções tanto dos produtores que apresentam pedidos como dos funcionários que processam esses pedidos, a fim de garantir o efectivo cumprimento do prazo.
+<P>
+O relator propõe igualmente que esses produtos possam ser protegidos por medidas nacionais até que seja tomada uma decisão comunitária. As propostas do senhor deputado Fantuzzi revelam bom senso e visam uma maior transparência e clareza na implementação dos regulamentos que irão beneficiar tanto os produtores como os consumidores. Convido a assembleia a dar-lhes o seu apoio.
+
+<SPEAKER ID=54 LANGUAGE="IT" NAME="Filippi">
+Senhor Presidente, estou plenamente de acordo com as coisas ditas pelo relator, senhor deputado Fantuzzi, e bem assim com os argumentos apresentados pelo colega Santini, pelo que não vou repetir aquilo que já foi dito. Gostaria de utilizar o tempo de que disponho para relembrar e salientar o significado da discussão de hoje, que pode parecer específica, mas que evoca afinal algumas filosofias e perspectivas diferentes acerca dos problemas da agricultura europeia.
+<P>
+Contudo, antes de fazer isso, gostava de tranquilizar o colega e caro amigo Funk, informando-o de que o queijo parmesão reggiano - o »grana» parmigiano reggiano - é impossível fazer-se com leite da Baviera, que os critérios de controlo do queijo parmesão reggiano podem servir de exemplo, precisamente em termos de qualidade, para outros produtos. Eu sou filho de produtores de leite que sempre fizeram queijo parmesão reggiano, e sei do que estamos a falar.
+<P>
+Falei há pouco de filosofias diferentes. Todos falamos de qualidade, mas - que os colegas me perdoem o esquematismo - há duas perspectivas sobre a qualidade que aparecem sempre e, em meu entender, já surgiram no debate desta manhã. Sempre que se fala de qualidade, há entre nós quem pense nos pequenos e médios produtores e na necessidade de os premiar se fizerem produtos de qualidade; há quem pense ao mesmo tempo no consumidor, que tem o direito de saber exactamente o que está a comprar e o que está a consumir; e há também quem fale de consumidores mas tendo sempre em mente as grandes empresas que fazem uma produção extensiva na agricultura e na indústria, ou seja, as grandes multinacionais da distribuição, e se servem da questão da qualidade, tentando manipulá-la de acordo com interesses que nada têm a ver com os dos pequenos e médios produtores e consumidores.
+<P>
+Ora bem, é preciso esclarecer um pouco as coisas. Penso que devemos tomar medidas que nos permitam superar os limites ainda presentes na normativa, que deve ser uma normativa clara e definitiva e ter em vista a aplicação do Regulamento (CEE) nº 2081/92 e não uma alteração desse mesmo regulamento. É necessário que haja menos burocracia e mais transparência na distribuição das competências entre a União Europeia e os países-membros.
+<P>
+Para obter esses resultados, penso que as alterações nºs 4, 9, 10, 11 e 12 devem ser rejeitadas. Por conseguinte, convido todos os colegas do Parlamento, se forem coerentes, a rejeitar essas alterações - nºs 4, 9, 10, 11 e 12 - senão... estamos a falar bem mas a agir mal.
+
+<SPEAKER ID=55 NAME="Oreja Aguirre">
+Senhor Presidente, Senhores Deputados, gostaria de começar por expressar os meus agradecimentos à Comissão da Agricultura e do Desenvolvimento Rural e ao seu relator, o senhor deputado Fantuzzi, pela sua construtiva perspectivação da questão que foi objecto de um animado debate no Parlamento Europeu no passado mês de Outubro.
+<P>
+O Regulamento nº 2081/92 sobre a protecção das indicações geográficas e denominações de origem proíbe a utilização de denominações registadas e protegidas, embora se utilizem com determinadas expressões, excepto durante o período transitório já estabelecido no referido regulamento. O objectivo da proposta da Comissão é permitir aos produtores que já não podem utilizar as denominações registadas a adaptação à situação legal. Por conseguinte, esse período deve ser suficiente e efectivamente considerado, para que os produtores possam adoptar as medidas necessárias relativas à comercialização, à etiquetagem, etc..
+<P>
+Tendo em conta que a primeira proposta do registo das indicações geográficas e denominações de origem apresentada no âmbito do processo simplificado não foi apresentada até ao mês de Março de 1996, e que o período transitório actualmente aplicável expira em 25 de Julho de 1997, devem tomar-se medidas para que o referido período não seja encurtado, devendo começar a partir da data do registo das denominações e não a partir da data da publicação do regulamento.
+<P>
+Por essa razão, através da proposta de modificação do nº 2 do artigo 13º do Regulamento nº 2081/92 pretende-se o seguinte: primeiro, o período transitório de cinco anos aplicar-se-á a partir da data do registo das denominações. Contudo, isso afecta apenas as denominações existentes registadas segundo o processo simplificado estabelecido no artigo 17º e não as novas, registadas no âmbito do processo normal, estabelecido nos artigos 5º, 6º e 7º.
+<P>
+Segundo, o período transitório será aplicável também à alínea a) do nº 1 do artigo 13º do regulamento e não apenas à alínea b) do nº 1 do artigo 13º. O objectivo desta disposição é que, por exemplo, durante o período transitório o termo «feta» possa ser utilizado tal e qual, enquanto, de acordo com as normas existentes, se podem utilizar, de forma transitória unicamente, expressões como «estilo feta», »tipo feta», »método feta», etc..
+<P>
+Terceiro, dado que as denominações já existentes e, por conseguinte, utilizadas nos Estados-membros são as notificadas nos termos do artigo 17º - ou seja, o processo simplificado -, deve aplicar-se o período transitório unicamente às denominações registadas em virtude dessa disposição, para evitar causar prejuízos aos produtores ao conceder este período de adaptação para as novas denominações.
+<P>
+No que se refere às alterações, a Comissão não pode aceitar as alterações 1 e 5, pois, na opinião da Comissão, esta proposta não é suficiente para permitir aos produtores afectados que se adaptem à nova situação legal, ou seja, à proibição de utilizar as denominações registadas. As alterações 2 e 8 não podem ser aceites porque a Comissão, nos termos do nº 3 do artigo 17º, deve tomar uma decisão positiva ou negativa sobre cada denominação que se apresente para ser registada. Contudo, a alteração 4 e a alteração 11, primeira parte, podem ser úteis e examinar-se-ão.
+<P>
+O que vamos fazer é procurar a formulação mais adequada relativamente a estas questões. A alteração 7 parece-nos supérflua dado que a proposta da Comissão é prevista para um período de cinco anos, e o objectivo da alteração 6 já existe no texto, pelo que não a consideramos necessária.
+<P>
+A alteração 11, segunda parte, não pode aceitar-se porque um Estado-membro não pode estabelecer um período transitório. E consideramos que a alteração 12 não seria útil porque é mais restritiva do que a proposta da Comissão. Estamos de acordo em aceitar as alterações 3 e 9.
+
+<SPEAKER ID=56 NAME="Presidente">
+Está encerrado o debate.
+<P>
+Passamos agora à votação.
+<P>
+(O Parlamento aprova a resolução legislativa)
+
+<CHAPTER ID=5>
+Interrupção da sessão
+<SPEAKER ID=57 NAME="Presidente">
+Dou por interrompida a sessão do Parlamento Europeu.
+<P>
+(A sessão é suspensa às 11H20)
+

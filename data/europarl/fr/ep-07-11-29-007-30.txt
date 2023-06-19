@@ -1,0 +1,10 @@
+<CHAPTER ID="007-30">
+30. Principes communs de flexicurité (vote) 
+<P>
+- Rapport Ole Christensen
+<P>
+- Avant le vote
+<SPEAKER ID="150" NAME="Stavros Lambrinidis" AFFILIATION="PSE">
+(EL) Monsieur le Président, je voudrais simplement signaler qu'il y a de sérieux problèmes avec la traduction grecque de ce texte, en particulier concernant les considérants 4, 5, 6, 8, l'article 20, etc., pour lesquels la version anglaise fait foi.
+<SPEAKER ID="151" NAME="Le Président">
+(FR) Vous avez raison, cher collègue, la flexibilité ne doit pas aller jusqu'au dérapage linguistique.

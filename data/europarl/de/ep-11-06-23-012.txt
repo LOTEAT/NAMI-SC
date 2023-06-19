@@ -1,0 +1,4 @@
+<CHAPTER ID="012">
+Abstimmungsstunde
+<SPEAKER ID="145" NAME="Die Präsidentin">
+Der nächste Punkt ist die Abstimmung.

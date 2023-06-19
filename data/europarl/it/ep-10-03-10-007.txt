@@ -1,0 +1,20 @@
+<CHAPTER ID="007">
+Turno di votazioni
+<SPEAKER ID="087" NAME="Presidente">
+L'ordine del giorno reca le votazioni.
+<P>
+(Per i risultati e ulteriori dettagli sulla votazione: vedasi processo verbale)
+<SPEAKER ID="088" NAME="Robert Atkins" AFFILIATION="ECR">
+(EN) Signor Presidente, un richiamo al regolamento: penso che sarebbe meglio se la prima votazione si svolgesse alle ore 12.00; i deputati quindi potrebbero prendere posto e partecipare, anziché costringerci ad aspettare che si siedano, partecipino e soltanto allora tenere la votazione.
+<P>
+(Applausi)
+<SPEAKER ID="089" NAME="Presidente">
+Ne terrò conto.
+<SPEAKER ID="090" NAME="Sergio Paolo Francesco Silvestris" AFFILIATION="PPE">
+Signor Presidente, Le chiedo scusa per questo intervento ma ritenevo doveroso, quale parlamentare europeo eletto in Italia, indirizzare da quest'Aula il mio saluto rispettoso e deferente verso il Presidente della Repubblica del mio paese, on. Giorgio Napolitano, garante dei valori costituzionali e dell'unità nazionale del nostro paese.
+<P>
+Rispetto e deferenza sono gli unici atteggiamenti con cui ci si dovrebbe riferire da quest'Aula al Presidente della Repubblica dell'Italia.
+<P>
+(Applausi)
+<SPEAKER ID="091" NAME="Presidente">
+Ora procederemo alla votazione.

@@ -1,0 +1,70 @@
+<CHAPTER ID="019">
+Uso dell'informatica nel settore doganale (discussione)
+<SPEAKER ID="135" NAME="Presidente">
+L'ordine del giorno reca la relazione, presentata dall'onorevole Alvaro, a nome della commissione per le libertà civili, la giustizia e gli affari interni, sull'iniziativa della Repubblica francese in vista dell'adozione della decisione del Consiglio sull'uso dell'informatica nel settore doganale [17483/2008 - C6-0037/2009 -.
+<SPEAKER ID="136" NAME="Alexander Alvaro" LANGUAGE="DE">
+Signor Presidente, porgo il benvenuto al commissario Kallas e ai colleghi. Fondamentalmente la questione che ci apprestiamo a dibattere non è affatto controversa e verte sull'adattamento della tecnologia informatica nel settore doganale. Per molti si tratta di un tema tremendamente tecnico. Nell'ambito della lotta contro le frodi ed altri reati, esso però riveste un aspetto importante della cooperazione nel settore doganale e nello scambio di informazioni.
+<P>
+Siamo riusciti a lavorare proficuamente con la Presidenza svedese e quindi ringrazio tutti coloro che ci hanno sostenuto e che ci hanno accompagnato nel corso del processo, visto che questo fascicolo non è proprio nuovo. Abbiamo dato prova di cooperazione per mezzo dei significativi emendamenti che il Consiglio aveva già proposto nel corso del proprio lavoro e che il Parlamento ha accolto in commissione. Presumo quindi che il voto previsto per questa settimana abbia esito positivo.
+<P>
+L'unica misura su cui il Parlamento non è d'accordo è l'estensione dei poteri di Europol in questo campo. Non tutti i gruppi politici però la pensano allo stesso modo. In ogni caso è questo l'esito del voto finale sulla relazione in materia di informatica nel settore doganale. Per certi versi la questione si ricollega al dibattito che si era svolto prima, in cui il nostro intento era diverso, ossia volevamo segnalare che i poteri di Europol in una serie di aree circoscritte e specifiche erano stati estesi o ampliati nell'ambito della recente ridefinizione del mandato che lo trasformava in agenzia.
+<P>
+In linea generale è altresì opportuno, in ragione dell'importanza e del ruolo di Europol, che le sue competenze siano definite in un mandato come quello che in effetti abbiamo definito. In questo modo si favorisce anche la trasparenza affinché, non solo noi, ma in particolare i cittadini - che in definitiva sono i destinatari delle nostre politiche - sappiano cosa Europol può e cosa non può fare. La trasparenza costituisce una parte fondamentale di qualsiasi struttura che opera nel settore giudiziario e di polizia negli Stati membri e questo assunto si applica anche a livello europeo.
+<P>
+A parte questo non c'è molto da dire. Anche se in genere si tende ad andare oltre il tempo di parola, stavolta riesco a finire prima. Ringrazio la Presidenza del Consiglio e i colleghi per l'eccellente cooperazione e sono certo che la votazione che si terrà su questa relazione in settimana avrà esito positivo.
+<SPEAKER ID="137" NAME="Siim Kallas" LANGUAGE="EN">
+Signor Presidente, la Commissione in linea di principio sostiene il testo sulla proposta di decisione del Consiglio, poiché è necessario garantire che le disposizioni sull'assistenza reciproca e sulla cooperazione amministrativa evolvano quanto più possibile in parallelo ed è necessario varare disposizioni affinché i costi connessi all'uso del sistema informativo doganale da parte degli Stati membri gravino sul bilancio generale delle Comunità europee.
+<P>
+Questa correzione di stampo giuridico non implica alcun aumento nel bilancio. Bisogna garantire una maggiore complementarietà con le azioni nel contesto della cooperazione con Europol ed Eurjust, conferendo lo stesso grado di accesso a queste agenzie al sistema informativo doganale (SID), compresi gli archivi di identificazione dei fascicoli (FIDE). pertanto la Commissione non può sostenere l'emendamento del Parlamento volto a concedere un grado diverso di accesso ad Europol ed Eurojust per i sistemi SID/FIDE.
+<P>
+In linea generale la Commissione accoglie la maggior parte degli emendamenti presentati dal Parlamento. Sullo sfondo di tali premesse tengo a formulare le seguenti osservazioni.
+<P>
+La Commissione condivide l'opinione del relatore, onorevole Alvaro. E' deprecabile che gli Stati membri debbano decidere in merito alla proposta con tutta questa fretta alla vigilia dell'entrata in vigore del trattato di Lisbona. In realtà, il trattato prevede una nuova base giuridica; pertanto l'attuale convenzione SID potrebbe essere sostituita da un nuovo regolamento da applicare direttamente negli Stati membri senza passare per il recepimento nel diritto nazionale, come il regolamento (CE) n. 766/2008 sulla parte amministrativa del SID.
+<P>
+La Commissione condivide altresì l'opinione del Parlamento europeo secondo cui, per la vigilanza sulla protezione dei dati dell'applicazione informativa, la soluzione che punta a sostituire l'autorità comune di controllo con il Garante europeo della protezione dei dati (EDPS) è la più opportuna. La vigilanza combinata dell'autorità comune e dell'EDPS presenterebbe infatti dei rischi di sovrapposizione e di duplicazione del lavoro. In ogni caso dovrebbe essere attivato un meccanismo di coordinamento, anche per la pubblicazione di raccomandazioni in questo ambito.
+<SPEAKER ID="139" NAME="Petru Constantin Luhan" LANGUAGE="EN">
+Signora Presidente, porgo le mie congratulazioni e i miei ringraziamenti al collega, onorevole Alvaro, per il lavoro che ha svolto e per la cooperazione positiva che abbiamo avuto nel corso della stesura della relazione. E' stata una relazione su cui mi sono trovato d'accordo con il relatore sui punti principali: deve essere garantito l'accesso ai dati immessi nel sistema informativo doganale solo ad organismi e al personale specificatamente autorizzati, come gli Stati membri, Europol ed Eurojust.
+<P>
+Un altro punto che è emerso in uno dei miei emendamenti che il relatore ha recepito verte sul fatto che gli Stati membri, Europol ed Eurojust non possono comunicare i dati a paesi non membri o a paesi terzi a causa dell'assenza o dell'insufficienza della protezione dei dati in tali paesi. A mio parere, la revisione del sistema informativo doganale, come indicato nella relazione, è necessario al fine di adattarlo meglio alle esigenze dei servizi di controllo e per consentire ad un numero limitato di utenti di compiere delle analisi sulle informazioni contenute nel sistema.
+<P>
+La revisione è inoltre destinata ad incrementare l'efficacia delle procedure di cooperazione e di controllo delle amministrazioni doganali, in quanto il sistema informativo automatizzato e congiunto è destinato a favorire la prevenzione, l'attività di indagine e l'azione di contrasto alle violazioni gravi delle leggi nazionali.
+<SPEAKER ID="140" NAME="Marie-Christine Vergiat" LANGUAGE="FR">
+Signora Presidente, prima di tutto desidero apportare una correzione alle informazioni che sono state affisse in bacheca. Io non ho aderito al gruppo PPE, faccio ancora parte del gruppo GUE/NGL.
+<P>
+Su richiesta del governo francese ci è stato sottoposto un testo che prevede una cooperazione tra le amministrazioni doganali, Europol ed Eurojust.
+<P>
+Ancora una volta si tratta di un'area che certamente rientrerà nella codecisione a seguito dell'entrata in vigore del trattato di Lisbona. Pertanto ci rammarichiamo, in quanto, come è accaduto con Europol, la fretta ha preso il sopravvento sul desiderio di salvaguardare le libertà fondamentali.
+<P>
+In tutti questi testi deploriamo il fatto che il cruciale equilibrio tra sicurezza e rispetto dei diritti fondamentali sia sempre più minacciato a discapito delle libertà e con risultati complessivi che i cittadini trovano alquanto opinabili.
+<P>
+Ci dispiace che, per quanto concerne questo testo volto ad instaurare dei collegamenti tra gli archivi delle dogane, della polizia e di Eurojust, la posizione che il Parlamento ci propone di assumere sia più timorosa della posizione che abbiamo preso su Europol, poiché i pericoli sono gli stessi, mentre le salvaguardie previste nei testi che ci sono stati presentati sono ancora più fragili. Ad esempio, è scandaloso che non vi sia un limite chiaro ai periodi di conservazione dei dati.
+<P>
+In un'era in cui in tutti i nostri paesi le libertà fondamentali vengono sempre più minate dalle politiche in materia di sicurezza, ci dispiace che il Parlamento europeo non stia debitamente assolvendo al proprio ruolo di salvaguardia dei diritti e delle libertà fondamentali.
+<P>
+Alcuni miglioramenti che ho proposto sono stati adottati in questo ambito, soprattutto in relazione ad Europol. Ne sono molto lieta e ringrazio i colleghi, ma questi cambiamenti sono insufficienti, in particolare per quanto concerne i principi di proporzionalità e di necessità che devono sempre prevalere quando sono in gioco i diritti e le libertà.
+<P>
+Per tali ragioni, se gli altri emendamenti atti a conferire una maggiore protezione ai cittadini non saranno adottati, il gruppo GUE/NGL si asterrà su questo testo.
+<SPEAKER ID="141" NAME="Carlos Coelho" AFFILIATION="PPE">
+(PT) Signor Presidente, questa iniziativa è volta ad allestire un sistema automatizzato e condiviso per le informazioni che afferiscono alle amministrazioni doganali degli Stati membri. Il sistema è destinato a favorire la prevenzione, l'attività di indagine e l'azione di contrasto alle violazioni delle normative comunitarie e nazionali.
+<P>
+Accolgo con favore il desiderio di agevolare lo scambio di informazioni, di migliorare e consolidare la cooperazione tra le autorità doganali e di instaurare procedure per azioni comuni. Sono certo che uno scambio di informazioni rapido ed efficiente renderà un servizio fondamentale nella lotta contro i traffici illeciti.
+<P>
+Quando si parla di sistemi informativi, però, non si deve dimenticare che essi contengono dati personali e che le tematiche connesse alla protezione di tali dati e della privacy rivestono un'importanza capitale.
+<P>
+Convengo con il relatore, onorevole Alvaro, in quanto dobbiamo rimanere vigili per scongiurare qualsiasi possibile violazione dei diritti umani elementari, soprattutto il diritto alla privacy. Infatti le informazioni di natura personale che vengono immesse nel sistema devono limitarsi allo stretto necessario senza contravvenire al diritto alla vita privata. Dobbiamo garantire che questi dati siano usati solamente per fini chiaramente definiti e unicamente nell'ambito della legislazione applicabile. Inoltre i dati devono essere conservati solamente per il tempo necessario rispetto ai fini per i quali sono stati raccolti.
+<P>
+E' parimenti importante garantire che l'accesso alle informazioni sia trasparente e che sia in linea con le normative applicabili a sistemi informatici analoghi, come il sistema informatico Schengen II o il sistema informatico sui visti. Per tale motivo non sostegno gli emendamenti presentati dal gruppo GUE/NGL.
+<P>
+Per quanto concerne la vigilanza sulla protezione dei dati, invece di cercare di creare soluzioni ad hoc, sarebbe preferibile e opportuno mantenere e attuare lo stesso sistema di vigilanza scelto per altri sistemi simili, non solo per assicurare una certa coerenza, ma anche per scongiurare discrepanze nella protezione dei dati.
+<P>
+Infine, signora Presidente, sono d'accordo con il commissario Kallas e con il relatore, onorevole Alvaro, mi dispiace che il Consiglio abbia avuto così fretta di chiudere questo fascicolo prima dell'entrata in vigore del trattato di Lisbona.
+<SPEAKER ID="142" NAME="Alexander Alvaro" LANGUAGE="DE">
+Signora Presidente, come testimonia il gran numero di persone che vogliono intervenire, questa materia legislativa è appassionante. Ad ogni modo, desidero approfittare dell'occasione per rispondere al commissario Kallas in merito alla bocciatura da parte della Commissione degli emendamenti proposti su Europol. Capisco molto bene le motivazioni dell'Esecutivo e anche il desiderio di garantire coerenza.
+<P>
+Proprio ora l'onorevole Coelho ha fatto riferimento ad un problema che era già stato menzionato da altri, come l'onorevole Vergiat, e che ci dà molto da pensare. Trovandoci davanti al compito di conseguire standard quanto più elevati possibile in relazione ai dati sui cittadini, non è certo opportuno - e forse la Commissione dovrebbe tenerlo presente in futuro, anche se ha respinto le proposte - che le disposizioni sulle competenze di Europol, ossia l'indicazione dei dati da trattare, dell'autorità incaricata e dei destinatari, siano disperse tra numerosi fascicoli. In questo modo si arriva ad un punto in cui non si capisce bene quali siano i dati che possono essere usati da Europol e le relative modalità e quali dati non possono invece essere usati. Per quanto concerne il mandato di Europol, sarebbe stato più opportuno se le disposizioni fossero state generiche invece di norme che vengono sempre stilate sulla base di casi concreti. La regolamentazione sarebbe più trasparente per i cittadini e sicuramente favorirebbe il lavoro di Europol.
+<P>
+A parte questo non ho altro da aggiungere. Forse potrei fare un breve commento su un punto cui è stato fatto accenno prima, ossia i diversi diritti di accesso concessi ad Europol ed Eurojust. In questo ambito ovviamente si deve tener conto del fatto che gli organismi esecutivi operano in maniera diversa rispetto alle autorità giudiziarie e quindi devono avere competenze diverse. Tuttavia, se in futuro avremo un commissario per la giustizia, potremmo affrontare il tema anche a livello europeo.
+<SPEAKER ID="143" NAME="Presidente">
+La discussione è chiusa.
+<P>
+La votazione si svolgerà domani alle 12.00.

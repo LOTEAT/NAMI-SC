@@ -1,0 +1,6 @@
+<CHAPTER ID="008">
+Hääletused
+<SPEAKER ID="062" NAME="President">
+Järgmine päevakorrapunkt on hääletus.
+<P>
+(Tulemused ja muud hääletusega seonduvad üksikasjad (vt protokoll))

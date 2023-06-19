@@ -1,0 +1,6 @@
+<CHAPTER ID="022">
+A következő ülés napirendje: lásd Jegyzőkönyv
+<SPEAKER ID="444" NAME="Zuzana Roithová" AFFILIATION="PPE-DE">
+(CS) Elnök úr! Mindössze azt szeretném kérdezni, hogy a ma alkalmazott különleges rendszer megismétlésre kerül-e, vagy esetleg ezt kizárólag a mai nap egyediségének tudhatjuk-e be? Tudna válaszolni kérdésemre?
+<SPEAKER ID="445" NAME="Elnök">
+Amint látom, rendkívüli helyzettel kerültünk szembe a felszólalások nagy száma miatt. Remélem, hogy ez a helyzet nem ismétlődik meg.

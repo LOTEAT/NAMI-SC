@@ -1,0 +1,18 @@
+<CHAPTER ID="009">
+Varapuhemiesten vaali (ensimmäinen, toinen ja kolmas äänestyskierros) 
+<SPEAKER ID="033" NAME="József Szájer" AFFILIATION="PPE">
+(EN) Arvoisa puhemies, haluaisin tiedustella, onko äänestystä varten minimivaatimuksia?
+<SPEAKER ID="034" NAME="Puhemies">
+(EN) Arvoisa jäsen Szájer, lukumäärälle ei ole asetettu vähimmäisvaatimuksia: voitte äänestää yhtä tai kahta henkilöä, sillä ei ole merkitystä.
+<SPEAKER ID="036" NAME="Puhemies">
+(EN) Hyvät kollegat, saanen sanoa aluksi muutaman sanan. Sain istuntotauon aikana kuulla, että italialainen sotilas on saanut tänään surmansa Afganistanissa Nato-johtoisessa operaatiossa. Hänen lisäkseen viisitoista brittisotilasta on saanut surmassa tuossa maassa viime kuukauden aikana. Minusta meidän on aina syytä muistaa eri asevoimissa ulkomailla usein vaarallisia tehtäviä suorittavia miehiämme ja naisiamme, jotta he tietäisivät, ettemme ole unohtaneet heitä.
+<P>
+(Suosionosoituksia)
+<SPEAKER ID="039" NAME="Véronique De Keyser" AFFILIATION="S&amp;D">
+(FR) Arvoisa puhemies, olen todella pahoillani, mutta voisitteko äänestyksen selkeyden vuoksi lukea uudelleen ääneen nimet ja äänet hieman hitaammin? Meillä ei ole näyttöä ja olemme yrittäneet pysyä mukana nopeassa tahdissanne.
+<SPEAKER ID="040" NAME="Daniel Cohn-Bendit" AFFILIATION="Verts/ALE">
+(EN) Arvoisa puhemies, voisitteko laittaa nimet näytölle, jotta me kaikki näkisimme ne? Se ei voi olla kovin vaikeaa.
+<P>
+(Suosionosoituksia)
+<SPEAKER ID="041" NAME="Bernd Posselt" AFFILIATION="PPE">
+(DE) Arvoisa puhemies, kehotan teitä voimakkaasti soittamaan kelloa, sillä huomaan, että paikalta puuttuu monia jäseniä kaikista eri ryhmistä. Moni jäsen on siinä uskossa, ettei äänestys ala ennen klo 19.30. Pyytäisin teitä siis soittamaan kelloa vielä kerran.

@@ -1,0 +1,22 @@
+<CHAPTER ID="007">
+Turno de votaciones
+<SPEAKER ID="078" NAME="Presidente">
+El siguiente punto es el turno de votaciones.
+<P>
+(Para ver el resultado y otros detalles sobre el voto: véase el Acta)
+<P>
+
+<SPEAKER ID="079" NAME="Alain Hutchinson" AFFILIATION="PSE">
+(FR) Señor Presidente, perdóneme, no estoy seguro de bajo qué artículo debo que dirigirme a la Cámara, pero me gustaría hacer una declaración a la Presidencia sobre la actual situación en el Parlamento. Se está convirtiendo en un circo permanente, lo que hace que resulte muy difícil trabajar con calma cuando aquí se están intentando hacer cosas serias.
+<P>
+(Aplauso)
+<P>
+Considero que esta situación alcanzó ayer por la noche su límite y me gustaría solicitar a la Presidencia que tome medidas para restablecer la calma y la atmósfera de seriedad que debe reinar en la Cámara, que debería ser un ejemplo para el mundo entero y una Cámara seria, no un circo.
+<P>
+(Aplauso)
+<SPEAKER ID="080" NAME="Presidente">
+Me imagino, señor Hutchinson, que se refiere usted a las diferentes exposiciones que se muestran en las entradas y los pasillos. Usted sabe que los responsables en esta materia son los Cuestores. No obstante, transmitiré sus comentarios.
+<SPEAKER ID="081" NAME="Pervenche Berès" AFFILIATION="PSE">
+(FR) Señor Presidente, también me gustaría hacer un comentario sobre la calma y el orden de nuestro trabajo. Nuestra reunión de ayer por la tarde estuvo marcada por un movimiento continuo extremo, que hizo que se pospusiera el orden de los discursos sobre temas tan importantes como la crisis financiera durante más de dos horas, perjudicando totalmente al orden de los oradores. Esto no ayuda a que las cosas funcionen bien en esta Cámara.
+<SPEAKER ID="082" NAME="Presidente">
+En ese caso, trasladaré sus comentarios no a los Cuestores, sino a la Conferencia de Presidentes, pues es éste el órgano responsable de dichas cuestiones.

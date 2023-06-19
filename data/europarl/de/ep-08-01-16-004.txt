@@ -1,0 +1,6 @@
+<CHAPTER ID="004">
+Abstimmungsstunde
+<SPEAKER ID="093" NAME="Die Präsidentin">
+Als nächster Punkt folgt die Abstimmung.
+<P>
+(Abstimmungsergebnisse und sonstige Einzelheiten der Abstimmung: siehe Protokoll)

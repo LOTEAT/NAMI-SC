@@ -1,0 +1,370 @@
+<CHAPTER ID="003">
+Európska verejná listina - Elektronická justícia - Právna ochrana dospelých osôb: cezhraničné dôsledky (rozprava) 
+<SPEAKER ID="022" NAME="Predsedajúci">
+Ďalším bodom programu je spoločná rozprava na tieto témy:
+<P>
+správa, ktorú predkladá Manuel Medina Ortega v mene Výboru pre právne veci s odporúčaniami pre Komisiu o európskej verejnej listine,
+<P>
+správa, ktorú predkladá Diana Wallisová v mene Výboru pre právne veci s odporúčaniami pre Komisiu o elektronickej justícii, a
+<P>
+správa, ktorú predkladá Antonio López-Istúriz White v mene Výboru pre právne veci s odporúčaniami pre Komisiu o právnej ochrane dospelých osôb: cezhraničné dôsledky.
+<SPEAKER ID="023" NAME="Manuel Medina Ortega" LANGUAGE="ES">
+Vážený pán predsedajúci, táto iniciatíva parlamentného Výboru pre právne veci má za cieľ uznanie európskych verejných listín.
+<P>
+Táto iniciatíva Parlamentu vyzýva Komisiu na prijatie opatrení, ktoré bude považovať za vhodné. Je založená na Haagskom programe, konkrétne na uznaní nielen súdnych rozhodnutí, ale aj verejných listín.
+<P>
+Cieľom tejto iniciatívy je zlepšenie postavenia spotrebiteľov v Európskej únii.
+<P>
+Formality, ktoré sa pri uznávaní takýchto listín vyžadujú, sú nákladné a aj časovo náročné.
+<P>
+Preto sa zdá, že by sme mali uľahčiť obeh alebo uznávanie verejných listín, aby v prípadoch, keď sa vyžadujú cezhraničné formality, napríklad pri uzavretí manželstva, pri zmluvách alebo v podobných prípadoch, nebolo treba absolvovať zdĺhavé procesy.
+<P>
+Ťažkosti, na ktoré táto správa upozorňuje, spočívajú v charaktere verejných listín alebo verejných písomností, ktoré sa uznávajú vo väčšine členských štátov Európskej únie, v niektorých však nie.
+<P>
+V niektorých krajinách neexistuje systém vydávania európskych verejných listín verejnými úradníkmi. Namiesto toho sa jednoduché súkromné dokumenty úradne overujú u notárov, aj keď sa charakter dokumentov nemení.
+<P>
+Precedens pre tento návrh predstavuje rozsudok Európskeho súdneho dvora v prípade Unibank, ktorý stanovil množstvo podmienok na uznávanie verejných listín. Konkrétne prvou podmienkou bolo, aby ich vystavovali verejní úradníci. Inak povedané musí byť osoba overujúca listinu určitým spôsobom verejným úradníkom, čo je pozícia, ktorá v niektorých členských štátoch EÚ neexistuje, a preto túto schopnosť nemajú.
+<P>
+Po druhé musí listina zaručiť, že strany majú dostatočnú vôľu na dosiahnutie určitého právneho účelu. Notárska listina má, aspoň podľa kontinentálneho práva, určitý ustanovujúci charakter v tom, že strany v nej vyjadrujú svoju vôľu, ale samotný úkon vykonáva notársky úradník.
+<P>
+Po tretie by účinok listiny nemal presahovať účinok uznávaný v krajine jej pôvodu. Znamená to, že ak má listina v krajine pôvodu iba dôkaznú hodnotu, nemôže sa považovať za vykonávaciu listinu.
+<P>
+Povedal by som, že nasledujúce tri faktory sú základné: po prvé musí osoba overujúca listinu mať postavenie verejného úradníka, po druhé musí listina mať ustanovujúci charakter a nie iba overovať podpis a po tretie nesmie mať listina iný účinok, než má v krajine pôvodu.
+<P>
+Oblasťou, ktorú treba veľmi jasne odčleniť, sú všetky záležitosti týkajúce sa práva nehnuteľností. Právo nehnuteľností sa zdá byť úzko späté s pôdou, s miestom, na ktorom sa nehnuteľnosť nachádza. Možnosť prevodov v tejto oblasti je preto obmedzená existenciou verejných registrov a skutočnosťou, že každá krajina má prísne právne predpisy, ktoré v tejto oblasti ukladajú zvláštne požiadavky.
+<P>
+Dúfam, že Komisia zváži tento návrh a bude schopná predložiť iniciatívu. Príslušný právny základ poskytujú konkrétne článok 65 písm. a) a článok 67 ods. 5 druhá zarážka Zmluvy o ES.
+<P>
+Myslím, že tento právny základ je primeraný a že takáto iniciatíva by uľahčila právne vzťahy medzi občanmi a najmä zlepšila ich životy.
+<P>
+Problémom, na ktorý Komisia môže upozorniť a aj naň upozorní, je rozdielnosť našich právnych systémov, ale to je podľa mňa záležitosť, o ktorej budeme mať príležitosť diskutovať v neskoršej fáze, keď Komisia predloží svoj návrh.
+<SPEAKER ID="024" NAME="Diana Wallis">
+spravodajkyňa. - Vážený pán predsedajúci, zdá sa, že elektronická justícia bola stredobodom záujmu predchádzajúceho slovinského aj francúzskeho predsedníctva, a vieme, že české predsedníctvo si želá pokračovať v dobrej práci na elektronickej justícii.
+<P>
+V tomto Parlamente a jednoznačne aj vo Výbore pre právne veci je elektronická justícia v súlade s témou, ktorá nám je už dlho blízka: s témou prístupu k spravodlivosti a spôsobu poskytovania cezhraničného prístupu k spravodlivosti. Prístup k spravodlivosti je už aj na národnej úrovni dosť ťažký - vezmime si len prístup k právnikom, finančnú náročnosť, schopnosť porozumieť právnemu systému a pochopiť ho. Ak to ešte zasadíte do cezhraničného kontextu v rámci Európy s rôznymi právnymi systémami a jazykmi, je záležitosť ešte komplexnejšia a prístup našich občanov sa ešte viac sťaží.
+<P>
+Mali by sme však byť schopní zvládnuť tie ťažkosti a spojiť ich s rôznorodými možnosťami, ktoré ponúkajú moderné technológie. Ak je Európa bez hraníc, tak internet takisto. Ak sú jazyky ťažké, technologické nástroje nám poskytujú možnosť okamžitých prekladov. Mali by sme byť schopní rozvinúť technologické možnosti tak, aby poskytovali lepší cezhraničný prístup k spravodlivosti.
+<P>
+Viaceré členské štáty si, samozrejme, všimli možnosti v rámci svojich hraníc a vyvíjajú vlastné systémy. To je dobré. Členské štáty spolupracujú na mnohých projektoch, z ktorých niektoré poskytujú prepojené registre spoločností a pozemkov - aj to je dobré.
+<P>
+My poslanci však chceme vidieť konkrétny priamy prínos pre našich občanov a ich obavy týkajúce sa justície v každodennom živote. Chceme, aby občania Európy cítili rozdiel po spustení projektu elektronickej justície na európskej úrovni.
+<P>
+Zdá sa, že práca na portáli elektronickej justície by to mohla splniť: portál by mohol poskytovať informácie o tom, kto, čo, kde, ktorí právnici, ktorí tlmočníci, kde hľadať právnu pomoc - rôzne druhy informácií. Tento projekt je a bude musieť byť ambiciózny.
+<P>
+Nechceme však, aby zostalo iba pri informáciách. Radi by sme videli skutočnú možnosť prístupu k cezhraničnej justícii online, európske nástroje platobných príkazov a vecí s nízkou hodnotou sporu pre našich občanov online. Niektoré členské štáty samozrejme pracujú na spoločných projektoch a, ako som už vravela, je dobré, že využívame ich zanietenie a ambície. Rovnako však potrebujeme, aby Komisia zachovala európsky kontext, aby to udržala na úrovni celoeurópskej ambície, aby sme napredovali spoločne a koordinovane. Preto je k správe Parlamentu pripojený akčný plán, ktorý sa venuje mnohým z týchto tém. Toto by mohlo splniť náš sen o skutočnej Európe s justíciou bez hraníc. Zabezpečme, aby sa stal skutočnosťou.
+<SPEAKER ID="025" NAME="Antonio López-Istúriz White" LANGUAGE="ES">
+Vážený pán predsedajúci, pani ministerka, pán podpredseda Komisie, správa, ktorú vám dnes predkladám, sa zaoberá ochranou dospelých v Európskej únii. Vzhľadom na krátkosť času a najmä na široké a prierezové ciele bola práca na tejto správe ťažká.
+<P>
+Názory na smer, ktorým by sa správa mala uberať, sa vo Výbore pre právne veci navyše rôznili.
+<P>
+Dnes sa touto správou zaoberáme v spoločnej rozprave o dvoch ďalších správach Výboru pre právne veci - o správe o európskej verejnej listine, ktorú vypracoval pán Medina Ortega, a o správe o elektronickej justícii, ktorú vypracovala pani Wallisová.
+<P>
+Zlepšená koordinácia medzi týmito samostatnými nástrojmi, ktoré náš výbor vytvoril, bezpochyby zvýšila účinnosť našich návrhov a istotne poskytne občanom EÚ lepšie služby.
+<P>
+Najprv by som chcel zablahoželať francúzskemu predsedníctvu k vynikajúcej práci počas posledných šiestich mesiacov, ktorú vykonalo pri vedení Európskej únie. V tejto súvislosti musím poďakovať najmä francúzskej ministerke spravodlivosti pani Datiovej za záujem, ktorý prejavila pri presadzovaní tejto veci a ktorý presiahol platné ustanovenia s cieľom dosiahnuť nové, praktické a účinné riešenia pre všetky členské štáty.
+<P>
+Keď už hovorím o Francúzoch, rád by som zvlášť spomenul sudkyňu a poradkyňu ministerky spravodlivosti Amélie Durandovú a mojich francúzskych kolegov vrátane pánov Gauzèsa a Toubona, ktorí zohrali aktívnu úlohu.
+<P>
+Náš Výbor pre právne veci má rovnako ako predsedníctvo obavy v súvislosti s témou, ktorá nás sem dnes priviedla - a to vo veci ochrany zraniteľných dospelých. Preto sa rozhodol vypracovať legislatívnu správu z vlastnej iniciatívy s cieľom dosiahnuť pokrok a nové riešenia, z ktorých by naši dospelí občania mali čo najväčší úžitok.
+<P>
+Náš výbor sa nedávno intenzívne podieľal na schválení balíka opatrení v oblasti občianskeho práva vrátane sprostredkovania, servisu dokumentov a práva vzťahujúceho sa na delikty.
+<P>
+Dôkazom toho bolo vypočutie na Fóre pre súdnu spoluprácu v občianskych veciach, ktoré sa konalo 2. decembra vo Výbore pre právne veci v spolupráci s Výborom pre občianske slobody, spravodlivosť a vnútorné veci. Jedným z bodov programu bola potreba ochrany dospelých v našej spoločnosti.
+<P>
+Dámy a páni, táto téma sa týka všetkých členských štátov, keďže Európska únia čelí narastajúcemu starnutiu obyvateľstva. Do roku 2050 prekročí 37 % občanov vek 60 rokov a 10 % vek 80 rokov.
+<P>
+Je dôležité si uvedomiť, že táto situácia nemá vplyv iba na hospodárstvo, ale aj na rozpočet a zdravotníctvo, a zasiahne nás všetkých. Musíme začať hľadať riešenia týchto problémov čo najskôr.
+<P>
+Táto správa sa snaží o vytvorenie priestoru spravodlivosti, slobody a bezpečnosti dvoma spôsobmi: presadzovaním práva a spoluprácou kompetentných orgánov rôznych členských štátov.
+<P>
+Ako som už spomenul, správa prešla dlhú cestu pred jednohlasným prijatím vo Výbore pre právne veci dňa 17. decembra.
+<P>
+Dosiahli sme kompromisný pozmeňujúci a doplňujúci návrh, ktorý zjednotil rozdielne hľadiská členov nášho výboru. Tento pozmeňujúci a doplňujúci návrh, ktorý sa stal článkom 2 záverečnej správy, v nej zohráva zásadnú úlohu, pretože zjednocuje možnosti členských štátov na zapracovanie Haagskeho dohovoru z 13. januára 2000 do ich právnych predpisov.
+<P>
+Správa okrem toho zabezpečuje, aby v budúcnosti, po nadobudnutí dostatočných skúseností v tejto oblasti, bola Komisia vyzvaná na predloženie legislatívneho návrhu s cieľom posilniť spoluprácu medzi členskými štátmi a zlepšiť uznávanie a vykonávanie rozhodnutí o ochrane dospelých a mandátov o nespôsobilosti.
+<P>
+Rád by som Parlament upozornil na to, že doteraz podpísali Haagsky dohovor iba štyri štáty a iba osem štátov ho ratifikovalo. Vyzývame členské štáty k ratifikácii dohovoru, aby sme v tejto veci, ktorá sa dotýka nás všetkých, mohli postupovať jednotnejšie a účinnejšie.
+<P>
+Nemali by sme zabúdať na to, že podľa Zmluvy o založení Európskeho spoločenstva má zákonodarnú moc Európska komisia. Ale ako všetci vieme, článok 192 Zmluvy obsahuje drobné ustanovenie, ktoré dáva Parlamentu právo požiadať Komisiu o vypracovanie legislatívneho návrhu.
+<P>
+Dámy a páni, radi by sme tento článok využili. Na záver chcem povedať, že v zmysle správy by Komisia v budúcnosti mala sledovať skúsenosti nadobudnuté na základe Haagskeho dohovoru s cieľom navrhnúť Spoločenstvu ustanovenia na jeho doplnenie a na navrhnutie možných dodatočných nástrojov do budúcnosti.
+<SPEAKER ID="026" NAME="Rachida Dati">
+úradujúca predsedníčka Rady. - (FR) Vážený pán predsedajúci, pán Barrot, dámy a páni, som rada, že mám opäť príležitosť prehovoriť pred Parlamentom, a preto by som vám v mene predsedníctva chcela poďakovať za dosiahnutý pokrok v oblasti justície.
+<P>
+Po predchádzajúcej rozprave o živote podnikov sa správy, o ktorých diskutujeme teraz, týkajú každodenného života európskych občanov. Francúzske predsedníctvo sa týmto veciam venovalo pri mnohých príležitostiach, najmä počas kolokvií o obehu verejných listín a o právnej ochrane dospelých.
+<P>
+Ako viete, francúzske predsedníctvo sa veľmi snažilo o dosiahnutie pokroku v oblasti európskej justície prostredníctvom praktických projektov s cieľom priblížiť európske inštitúcie občanom, a ako pred chvíľou povedala pani Wallisová, aj slovinské predsedníctvo v tejto súvislosti veľa vykonalo a my sme v jeho práci pokračovali.
+<P>
+Tri správy, ktoré máme dnes ráno na programe, to potvrdzujú: správa pána Medinu Ortegu o európskej verejnej listine, správa pani Wallisovej o elektronickej justícii a správa pána Lópeza-Istúriza Whitea o právnej ochrane dospelých. Tieto správy zodpovedajú želaniu predsedníctva podporovať nové iniciatívy s cieľom prijímať nové nástroje, ale aj vymieňať si metódy, porovnávať postupy a pozerať sa do budúcnosti.
+<P>
+Na správe o verejných listinách predsedníctvo oceňuje v prvom rade iniciatívu pána Medinu Ortegu a kvalitu správy. Záujem, ktorý tento Parlament prejavil o uznávanie a obeh verejných listín v Európe, ukazuje, že ide o dôležitú záležitosť v oblasti súdnej spolupráce v občianskych záležitostiach. Táto práca je súčasťou našej túžby o uľahčenie každodenného života našim občanom a podnikom a zákony sa prijímajú najmä s cieľom uvoľniť spoločenské vzťahy, pričom využitie súdov zostáva potrebnou výnimkou.
+<P>
+Dôležité je aj to, aby Európska únia v tomto zmysle prijala záväzok. Verejná listina je kľúčovým prvkom v životoch rodín a podnikov, či už ide o predmanželskú zmluvu, vyrovnanie, závet, kúpnu zmluvu alebo zmluvu medzi podnikmi. Umožňuje ľudom, aby ako súčasť nezmluvného záväzku zverili uznanému orgánu úlohu overenia záväzkov, ktoré chcú prijať, a prijatia všetkých dôsledkov tohto konania už vopred tým, že bude listina vykonateľná. Vaša práca však ukazuje aj to, že musíme zvážiť, ktoré podmienky treba stanoviť pre umožnenie voľného obehu verejných listín po Európe nezávisle od oblasti, na ktorú sa vzťahujú.
+<P>
+Európska komisia bezpochyby začlení túto myšlienku do svojho budúceho legislatívneho programu. Napriek diskusii o verejných listinách sa budeme naďalej snažiť o hľadanie spôsobov zlepšovania obehu iných druhov listín. Postupne musíme napredovať, ale musíme aj stanoviť mimoriadne jasný rámec. Môžeme zjednodušiť podmienky a procesy vzájomného uznávania verejných listín, lebo poskytujú rozšírené záruky.
+<P>
+Ak by niekto chcel do systému predložiť listiny poskytujúce nerovnaké záruky, budeme musieť náš cieľ zredukovať, čo bude zjavne problematické. Ako vyplýva z tejto správy, Parlament sa prikláňa najmä k dodržiavaniu usmernení vypracovaných a navrhnutých predsedníctvom. Vaša správa, pán Medina Ortega, bude slúžiť ako dôležitý základ budúcej práce, pretože predsedníctvo bude pozorne sledovať dnešnú rozpravu.
+<P>
+Podstatou projektu elektronickej justície je zlepšenie a posilnenie európskeho justičného priestoru, čo znamená zlepšovanie a modernizovanie spôsobu fungovania spravodlivosti, čo zase závisí od toho, ako budeme používať nové metódy komunikácie. Cieľom projektu je rozvoj využitia nových informačných a komunikačných technológií v cezhraničnom kontexte v Európe. Malo by nám to umožniť posilniť vzťahy medzi našimi súdnymi systémami a podporiť výmenu. Dôležitú úlohu zohráva aj prijaté rámcové rozhodnutie o prepojení registrov trestov. Akčný plán o európskej elektronickej justícii, ktorý bol predložený na poslednom zasadnutí Rady pre spravodlivosť a vnútorné veci dňa 28. novembra, je v súlade s prácou, ktorú vykonali všetky predsedníctva počnúc nemeckým.
+<P>
+Počas posledných šiestich mesiacov sme sa pokúsili vypracovať čo najvyváženejší akčný plán o európskej elektronickej justícii, pričom sme zohľadnili členské štáty podieľajúce sa na projekte, stanovisko Parlamentu a úlohu, ktorú bude musieť zohrávať Komisia. Máme rovnaké ciele ako Parlament, a preto by predsedníctvo rado opäť poďakovalo pani spravodajkyni Wallisovej za jej nasadenie v tejto záležitosti a za vysokokvalitnú správu. Intenzívna rozprava v Európskom parlamente obohatila návrh predsedníctva a napokon znamená, že máme návrh, ktorý všetci podporujú.
+<P>
+Uľahčenie prístupu a zabezpečenie voľného pohybu osôb a obehu súdnych rozhodnutí sú ciele, ktoré možno plne dosiahnuť iba vtedy, ak zohľadnia najzraniteľnejšie osoby v spoločnosti. Toto je jeden z dôvodov, prečo francúzske predsedníctvo chcelo zlepšiť situáciu dospelých osôb podliehajúcich opatreniam právnej ochrany.
+<P>
+Chránené dospelé osoby musia mať, samozrejme, rovnaké právo na voľný pohyb ako ostatní občania nezávisle od toho, akú ochranu požívajú. Predsedníctvo má radosť, že sa Parlament zaoberal touto vecou, a ďakuje spravodajcovi pánovi Lópezovi-Istúrizovi Whiteovi za návrhy právnej ochrany dospelých osôb. Toto je jasným znakom nášho spoločného záujmu.
+<P>
+Haagsky dohovor z 13. januára 2000 uzavretý medzi Francúzskom, Nemeckom a Spojeným kráľovstvom nadobudne účinnosť 1. januára. Ďalšie členské štáty EÚ - Fínsko, Grécko, Írsko, Luxembursko a Poľsko - ho podpísali počas posledných šiestich mesiacov. Je dôležité, aby sa na tomto nástroji mohli podieľať všetky členské štáty. Viem, že budúce české predsedníctvo a švédske predsedníctvo prijmú v tejto oblasti záväzky, ako naznačili počas francúzskeho predsedníctva. Širšie povedané musí byť obeh súdnych rozhodnutí v súvislosti s ochranou dospelých osôb jedným z našich cieľov.
+<P>
+Pod touto podmienkou môžeme prezentovať obraz Európy schopnej reagovať na potreby svojich občanov vrátane tých najzraniteľnejších. Vaša správa k tomu prispieva významným spôsobom. V tejto súvislosti dúfa aj francúzske predsedníctvo, že tento bod bude môcť byť začlenený do budúceho legislatívneho programu Komisie, pán Barrot. Toto je vážna spoločenská záležitosť. Viem, že ide o vec, ktorej sa pridelila priorita a ktorá je veľmi dôležitá pre Komisiu a zvlášť pre vás, pán Barrot. Je to aj dôkaz, že vytvorením istejšieho právneho prostredia Európa ochraňuje aj svojich najzraniteľnejších občanov.
+<P>
+Predsedníctvo vám chce poďakovať za tieto príspevky a ja si, samozrejme, budem pozorne všímať všetky pripomienky, ktoré odznejú počas tejto rozpravy.
+<SPEAKER ID="027" NAME="Jacques Barrot">
+podpredseda Komisie. - (FR) Vážený pán predsedajúci, dámy a páni, som veľmi rád, že môžem vystúpiť a zablahoželať autorom týchto troch správ, a pani Datiovej by som chcel povedať, že tieto správy sú skutočne dokonale v súlade so snahami francúzskeho predsedníctva, ktoré sme zjavne plne zvažovali. Myslím, že sme skutočne položili základy tohto európskeho právneho a súdneho priestoru, ktorému som osobne veľmi oddaný a ktorý spolu vytvoríme najmä prostredníctvom Štokholmského programu.
+<P>
+Preto dnešná rozprava skutočne prichádza v pravý čas. Pani Datiová nám už poskytla veľmi podrobný prehľad všetkých troch správ, napriek tomu však stručne zopakujem, čo povedala, aby som potvrdil zámery Komisie.
+<P>
+Po prvé, prosím, prijmite moju vďaku, pán Medina Ortega. Pán Medina Ortega nám predložil vynikajúcu správu o európskej verejnej listine. Samozrejme, ide o každodenný život spotrebiteľov a občanov a vaše odporúčania Komisii skutočne ovplyvňujú životy našich občanov, a to tak jednotlivcov, ako aj podnikov.
+<P>
+Jednotliví občania aj podniky skutočne často prijímajú rozhodnutia o rodinných záležitostiach alebo v oblasti obchodných transakcií iba formou dobrovoľnej dohody overenej verejným orgánom a je dosť jasné, že v tomto priestore voľného pohybu musí byť zabezpečený aj obeh verejných listín.
+<P>
+Voľný pohyb sa však v súčasnosti uplatňuje iba čiastočne a, ako viete, okrem existujúcich nástrojov plánujeme nové opatrenia. Momentálne pracujem na tých, ktoré sme práve prijali, a ďakujem vám, pani Datiová, za predpisy o vyživovacej povinnosti. Pán Ortega, pripravujem aj opatrenie o dedičstve na marec 2009. Som si však vedomý toho, že treba vykonať ešte viac, a preto Komisia pripraví zelenú knihu o verejnej listine a možno aj o iných verejných dokumentoch, aby sme mali príležitosť na skutočne širokú konzultáciu o tejto téme.
+<P>
+Je však jasné, že v tomto kontexte budú vaša správa a štúdia vypracovaná Európskym parlamentom veľmi užitočné. Ako ste zdôraznili, okrem toho podľa mňa - pretože s vami súhlasím - potrebujeme právny základ, ktorý nám umožní prijať iniciatívu, pričom zároveň uzná, že rôznorodosť našich právnych systémov si aj tak vyžiada dôslednú prácu, aby sme takéto opatrenia umožnili. Ešte raz vám ďakujem za výbornú prácu.
+<P>
+Teraz sa obrátim na pani Wallisovú, ktorá veľmi zdôrazňovala potrebu modernizácie spôsobu fungovania justície. Akčný plán, ktorý bol práve prijatý počas francúzskeho predsedníctva, vzbudil veľký záujem českého predsedníctva. Preto by sme diskusiou o vašej správe mali dospieť k tomu, ako plne využiť tento prístup k elektronickej justícii, pani Wallisová.
+<P>
+Spomenuli ste najmä prípady, v ktorých by prístup k elektronickej justícii bol mimoriadne nápomocný, napríklad pri vyrovnaní vecí s nízkou hodnotou sporu. Vaše odporúčania nám bezpochyby pomôžu zlepšiť opatrenia, ktoré Komisia už prijala, a obohatia diskusie a rozhodnutia prijaté Európskou radou.
+<P>
+Budeme pracovať spolu, aby sme zabezpečili, že európska elektronická justícia povolí ľahší prístup k informáciám o európskych právnych predpisoch, právnych systémoch jednotlivých členských štátov a o európskych postupoch. Rád by som tiež pripomenul, že plánovaný portál bude vytvorený najneskôr koncom decembra 2009. Určite na ňom budeme úzko spolupracovať s Parlamentom. Európsky portál elektronickej justície bude preto bezpodmienečne uvedený do prevádzky do konca decembra 2009. Portál bude určený európskym občanom, ale postaráme sa aj o to, ako riešiť veci, ktoré sa priamejšie dotýkajú súdnych orgánov.
+<P>
+Opakujem, že sa veľmi teším spolupráci našich európskych inštitúcií - Rady, Parlamentu a Komisie - v tejto veci. Myslím, pani Wallisová, že v súlade s vaším želaním, aby sme boli opatrní a neobmedzovali svoje ambície, ale uplatnili ich na elektronickú justíciu, francúzske predsedníctvo a pani Datiová už prejavili takúto ambíciu. Ubezpečujem vás, že ako komisár budem v tejto oblasti postupovať veľmi odhodlane.
+<P>
+Napokon správa pána Lópeza-Istúriza Whitea. Som veľmi vďačný, že sa chopil vynikajúcej iniciatívy pani Datiovej a doviedol nás k tomu, že sme v Lille pracovali na tejto záležitosti, ktorá je pre našu spoločnosť veľmi dôležitá. Pravdaže vieme, že v našej spoločnosti bude čoraz viac ľudí nad 65 rokov, pričom táto skupina už teraz tvorí 16 % celkovej populácie v Európe, a preto sme presvedčení o dôležitosti ochrany zraniteľných dospelých osôb. Preto sme veľmi silne podporili francúzsku iniciatívu tým, že sme vyzvali členské štáty na ratifikáciu Haagskeho dohovoru z 13. januára 2000. Vďaka vytrvalému odhodlaniu pani Datiovej nadobudne tento dohovor platnosť dňa 1. januára 2009.
+<P>
+Pani Datiová uviedla štáty, ktoré už sú členmi dohovoru. Dúfam, že ich členstvo bude príkladom a umožní nám presvedčiť všetky ostatné členské štáty, aby dohovor ratifikovali.
+<P>
+V súčasnosti skutočne nemáme nástroje na úrovni Spoločenstva. Ešte sme nespomenuli rozvoj súčasného nástroja. Budeme podrobne sledovať uplatňovanie tohto dohovoru a potom určite zapracujeme tento návrh do rámca Štokholmského programu. Preskúmame všetky opatrenia, ktoré umožnia členským štátom intenzívnejšiu vzájomnú spoluprácu, a potom budeme vedieť v tejto súvislosti začleniť aj možnú iniciatívu Spoločenstva.
+<P>
+Toto je všetko, čo môžem povedať k tejto téme, ktorú osobne považujem za veľmi dôležitú. V každom prípade vám ďakujem, dnešná rozprava za prítomnosti pani Datiovej nám už umožnila identifikovať spôsob, akým navrhneme ambiciózny Štokholmský program. Program splní očakávania občanov Európy, ktorí chcú európsky súdny priestor. Ďakujem vám, poslanci Parlamentu.
+<SPEAKER ID="029" NAME="Panayiotis Demetriou" LANGUAGE="EL">
+Vážený pán predsedajúci, dovoľte mi najprv zablahoželať francúzskemu predsedníctvu ku všetkému, čo doteraz dosiahlo, a to najmä v oblasti spravodlivosti. Rád by som zablahoželal aj pánovi komisárovi. Výbor pre občianske slobody, spravodlivosť a vnútorné veci podporuje postoje spravodajcu Antonia Lópeza-Istúriza Whitea vyjadrené v správe. Našich starších spoluobčanov, ktorí majú obmedzené možnosti, nemôžeme - rovnako ako iných ľudí, ktorí majú problémy - nechať bez právnej ochrany, nemôžeme ich nechať napospas osudu a často v rukách oportunistických ochrancov, ktorí ich niekedy ponižujú a využívajú. Každá spoločnosť a každý právny štát má povinnosť prijímať súdne a správne rozhodnutia a zákony na zabezpečenie dôstojnosti a majetku starších osôb a Európska únia má cezhraničnú zodpovednosť. Vyzývam Komisiu, aby nám pomohla vyvíjaním tlaku na členské štáty, aby podpísali a ratifikovali Haagsky dohovor, ktorý poskytuje rámec pre takúto ochranu. Vyzývam všetkých kolegov z členských štátov, ktoré tak ešte neučinili, aby sa zasadzovali o podpísanie a ratifikáciu dohovoru.
+<SPEAKER ID="030" NAME="Luca Romagnoli" LANGUAGE="IT">
+Vážený pán predsedajúci, dámy a páni, rád by som zablahoželal francúzskemu predsedníctvu, komisárovi Barrotovi a všetkým spravodajcom, pretože technologický vývoj nezadržateľne napreduje a justičný systém sa nemôže tejto skutočnosti vyhnúť.
+<P>
+Myslím, že zavedenie informačných a komunikačných technológií do správy súdov ponúka mnohé možnosti riešenia, a to zlepšením spôsobu fungovania súdnictva a v dôsledku toho podporou racionalizácie a procesov, čím sa dosiahne zníženie nákladov. Elektronická justícia by mohla priniesť nespochybniteľné výhody a splniť rôzne potreby, pričom najdôležitejšie zo všetkých sú poskytnutie prístupu k spravodlivosti a zlepšenie účinnosti a úspora času a nákladov. Preto je veľmi dôležité, že elektronická justícia má za cieľ rozvoj používania informačných technológií v súdnictve, najmä vzhľadom na to, že v súčasnosti sa cezhraničné občianske procesy týkajú takmer desiatich miliónov európskych občanov, pričom ich počet v budúcnosti pravdepodobne vzrastie.
+<P>
+Okrem výhod pre občanov musíme brať do úvahy aj výhody pre osoby pracujúce v právnom sektore a nezabúdať na postupy v oblasti súdnej spolupráce v trestných veciach. Ako som videl počas svojej práce ako spravodajca pre Európsky informačný systém registrov trestov - okrem práce na tomto stanovisku - je oblasť možného uplatnenia elektronickej justície obrovská a predurčená na rozvoj v súlade s vývojom európskeho súdneho priestoru a technologickým rozvojom. Preto vítam oznámenie pána komisára Barrota o sprevádzkovaní portálu do konca roka 2009.
+<P>
+Na záver by som chcel vyjadriť nádej, že naša Európa napokon dospeje k spravodlivému justičnému systému a že sa napokon bude podieľať na zodpovednosti účastníkov procesu. Napríklad v mojej krajine sa veľmi často stáva, že vyšetrujúca strana platí mimoriadne vysokú sumu a utrápený súdny prípad končí oslobodením. Talianski sudcovia nenesú občiansku zodpovednosť za pochybenie justície, čo predstavuje vážnu spoločenskú nespravodlivosť, ktorú treba odstrániť. Dúfam, že európsky súdny priestor túto veľkú nespravodlivosť skôr či neskôr odstráni.
+<P>
+Ešte raz ďakujem francúzskemu predsedníctvu aj pani Wallisovej za úsilie vynaložené v tejto oblasti.
+<SPEAKER ID="031" NAME="Jean-Paul Gauzès" LANGUAGE="FR">
+Vážený pán predsedajúci, pani Datiová, pán Barrot, najprv by som rád ocenil snahy francúzskeho predsedníctva a vaše osobné úsilie, pani Datiová, o podporu lepšieho priestoru právnej slobody a účinnosti v prospech našich spoluobčanov.
+<P>
+Naši spravodajcovia urobili vynikajúcu prácu. Preto Skupina Európskej ľudovej strany (kresťanských demokratov) a európskych demokratov podporí tieto tri správy: správu pani Wallisovej, správu pána Lópeza-Istúriza Whitea a správu pána Medinu Ortegu. Za seba by som rád objasnil zopár vecí v súvislosti s postojom našej skupiny k správe pána Medinu Ortegu, s ktorým som úzko spolupracoval.
+<P>
+Ako ste povedali, pani Datiová a pán Barrot, táto správa nám vnukla myšlienku, že by sme mali vyvinúť značné úsilie na vzájomné uznávanie verejných listín. Po predložení správy vznikla diskusia o možnosti jej otvorenia v oblasti terminológie.
+<P>
+Naša skupina si myslí, že táto správa sa týka verejnej listiny, ktorú definuje judikatúra, a že by sme sa v tomto štádiu mali pridržiavať verejných listín a nevytvárať právny zmätok používaním nevhodných výrazov a detailným rozoberaním čŕt verejnej listiny.
+<P>
+Pani Datiová a pán Barrot, už ste vymenovali hlavné črty verejnej listiny a ja sa k nim už nebudem vracať. Poviem iba, že ak by sa otvárali diskusie o iných záležitostiach, o listinách iného druhu, ktoré sú vlastne súkromnými dohodami, nie je to úloha pre túto správu z vlastnej iniciatívy, ktorá dnes kladie otázky o možnostiach vzájomného uznávania listín, ktoré judikatúra pozná ako verejné listiny. Rád by som sa opäť poďakoval pánovi Medinovi Ortegovi za vynikajúcu prácu v tejto oblasti.
+<SPEAKER ID="032" NAME="Manuel Medina Ortega">
+v mene skupiny PSE. - (ES) Vážený pán predsedajúci, ocitám sa v novej role. Teraz nevystupujem ako spravodajca mojej správy, ale v mene Socialistickej skupiny v Európskom parlamente vo vzťahu ku všetkým trom správam.
+<P>
+Podľa mňa majú tieto správy spoločné jedno: všetky tri sa snažia o zlepšenie situácie občanov. V oblasti spravodlivosti platí, že situáciu občana možno zlepšiť iba v súlade s určitými zásadami vyváženosti a po zvážení určitých faktorov. V oblasti elektronickej justície by sme sa napríklad nemali nechať uniesť nadmerným nadšením pre nové technológie, pretože môžu ohroziť záruky pre občanov. Inak povedané môže snaha o pridelenie emailovej adresy každému človeku vyústiť do vylúčenia ľudí, ktorí nemajú prístup k pripojeniu na internet, z prístupu k spravodlivosti.
+<P>
+Vo veľmi špecifickej oblasti mojej správy o verejnej listine myslím pani úradujúca predsedníčka Rady pani Datiová aj pán Barrot zdôraznili skutočnosť, že aj právne záruky sú dôležité. Ide o pohyb dokumentov s právnou hodnotou z jednej krajiny do druhej, ale nie o uznávanie dokumentov so spornou účinnosťou. Znamená to, že aj keď je súkromný dokument notársky overený v krajine, v ktorej neexistujú verejné listiny, nemôže mať takú vykonateľnú hodnotu, akú majú notárske listiny podľa kontinentálneho práva, ktoré majú úplne inú záväznú vykonateľnú hodnotu.
+<P>
+Rovnováha medzi potrebou účinného fungovania trhov a potrebou účinného pohybu v rámci Európskej únie by nás nemala viesť k odklonu od základných právnych záruk. Ak neexistujú právne záruky, záruky občanom, neexistuje ani právo. Preto keď pristúpime k hlasovaniu o týchto správach, bude Skupina socialistov dolaďovať svoje postoje s cieľom ochraňovať najmä záujmy bežných radových občanov a nie iba záujmy tých najmocnejších.
+<SPEAKER ID="033" NAME="Diana Wallis">
+v mene skupiny ALDE. - Vážený pán predsedajúci, myslím, dúfam, že naša skupina nebude mať problém podporiť moju správu a určite ani správu pána Lópeza-Istúriza Whitea.
+<P>
+Správa, ktorej sa chcem venovať, keďže s ňou majú poslanci tohto Parlamentu problémy, je správa pána Medinu Ortegu. Všetci máme rovnakú myšlienku: máme voľný obeh rozsudkov. Chceli by sme voľný obeh verejných listín a ja dodávam "alebo obdobných dokumentov". Veľa sa povedalo o uľahčení života našich obyvateľov. Pre mňa to znamená život všetkých obyvateľov Európy a nebolo by pre nás dobrou vizitkou, ak by z tohto priestoru spravodlivosti bolo vyčlenených niekoľko krajín a niekoľko právnych tradícií. Presne to sa totiž stane, ak nebudeme mať širší pohľad a dostatok trpezlivosti a tolerancie pre právne systémy, ktoré sa na prvý pohľad môžu javiť odlišné, ale v zásade riešia veci veľmi podobným spôsobom.
+<P>
+Podarilo sa nám uznať si navzájom dokumenty. Neexistuje žiaden dôvod, prečo my sme si pomocou tolerancie a opatrnosti nemohli navzájom uznať verejné listiny, ak ich tvorí zmluva alebo notárska listina, avšak trochu iným spôsobom a inou formou.
+<P>
+Preto vás žiadam o rešpektovanie pozmeňujúcich a doplňujúcich návrhov, ktoré boli dnes predložené. Možno nebudú prijaté, ich podstatou však je, že toto je Európa spravodlivosti pre všetkých občanov a pre všetky právne kultúry a žiadne by nemala vyčleňovať.
+<SPEAKER ID="034" NAME="Ryszard Czarnecki" LANGUAGE="PL">
+Vážený pán predsedajúci, diskutujeme o troch veľmi dôležitých správach. Chcel by som poďakovať najmä pani Wallisovej za mimoriadne podrobnú, obsažnú, profesionálnu a vynikajúcu správu, ktorá sa venuje všetkým aspektom problému. Parlament súhlasí s pani Wallisovou, keď zdôrazňuje závažnosť problému dotýkajúceho sa aspoň 2 % občanov členských štátov Európskej únie. Až 10 miliónov z 500 miliónov občanov Európskej únie sa podieľa na cezhraničných súdnych sporoch. Pre nich by implementácia najmodernejších systémov IT v oblasti spravodlivosti mohla mať rozhodujúci vplyv, keďže by sa tým zefektívnilo, zjednodušilo a skrátilo súdne konanie.
+<P>
+Naše návrhy - ak ich Európska komisia schváli - môžu uľahčiť prístup k spravodlivosti a zároveň znížiť náklady na súdne konanie, čo je pre našich občanov dôležité. Podpora myšlienky vytvorenia dvoch internetových portálov elektronickej justície sa javí oprávnená. Prvý portál by bol prínosom pre občanov a zaručil by, aby mali obchodníci prístup k právnemu poradenstvu vo viacerých jazykoch. Druhý portál by bol určený odborníkom v oblasti práva a slúžil by ako nástroj na pomoc právnikom, sudcom, prokurátorom, obhajcom a verejným úradníkom pracujúcim v oblasti správy justície.
+<P>
+Nové technológie môžu pomôcť aj v boji proti medzinárodnému zločinu a v oblasti prevencie kriminality, nehovoriac o rozšírenom využívaní videokonferencií ako samozrejmého prostriedku získavania a zhromažďovania dôkazov v súdnych konaniach.
+<SPEAKER ID="035" NAME="Rareş-Lucian Niculescu" AFFILIATION="PPE-DE">
+(RO) Zavedenie a čo najväčšie využívanie nových technológií v súdnych konaniach je veľmi dôležité. Nemôžeme dovoliť, aby justičný systém v tomto ohľade tak zaostával za inými oblasťami. Nemusím ani spomínať, že všetky stratégie týkajúce sa tejto veci treba brať veľmi vážne. Ak sa však pozrieme na súčasnú situáciu, musíme zostať stáť pevne na zemi.
+<P>
+V Európskej únii v 21. storočí ešte stále existujú súdy, ktoré nemajú počítač alebo prístup k internetu, čo je skutočnosť, ktorá sa v správe tiež zdôrazňuje. Nezávisle od použitého spôsobu vyhľadávania je prístup k právnym informáciám mimoriadne ťažký, a to pre profesionálov v oblasti práva a rovnako aj pre občanov, ktorí sa snažia o ochranu svojich práv. Som presvedčený, že v budúcnosti bude v európskych finančných schémach v záujme odstránenia týchto nedostatkov k dispozícii viac financií v oblasti občianskeho a trestného súdnictva. Dodatočné snahy sa požadujú aj od členských štátov v záujme efektívneho využitia momentálne dostupných finančných prostriedkov.
+<P>
+Správa vyzdvihuje aj veľmi podobné problémy v súvislosti s Európskou súdnou sieťou v občianskych a obchodných veciach, o ktorej sme hlasovali pred dvoma dňami. Mrzí ma, že sme nemali rozpravu k tejto správe. Zlepšenie spôsobu prevádzkovania siete je bezpochyby dôležité a európskym občanom poskytne pridanú hodnotu. Problémy, na ktoré som už poukázal, však naďalej existujú aj v tejto oblasti a zahŕňajú nedostatok informácií a prekladov do všetkých úradných jazykov a ťažkosti pri prístupe k cezhraničným justičným systémom.
+<P>
+Ďakujem vám za pozornosť. Dúfam, že tieto problémy, ktoré sú stredobodom záujmu Parlamentu, dostanú väčší priestor aj v programe Komisie a Rady, najmä vzhľadom na to, že bežní občania očakávajú od Európskej únie konkrétne opatrenia, ktoré im zjednodušia každodenný život.
+<SPEAKER ID="036" NAME="Neena Gill" AFFILIATION="PSE">
+Vážený pán predsedajúci, vítam všetky tri správy, ale najprv sa chcem vyjadriť k poručníctvu. Ochrana najzraniteľnejších občanov je záležitosť, ktorá ma veľmi zaujíma. Vieme, že populácia Európy starne: priemerná dĺžka života predstavuje v súčasnosti 80 rokov a do roku 2050 presiahne 37 % obyvateľov vek 60 rokov. Občania sú aj mobilnejší. Minulý rok emigrovalo z našej krajiny 400 000 ľudí, ktorí budú tráviť dôchodok v zahraničí, preto je dôležité zabezpečiť, aby dostali rovnakú ochranu ako doma.
+<P>
+Ako sme už počuli, takéto demografické zmeny stavajú európsku spoločnosť pred mnohé problémy, napríklad v oblasti zdravotnej a sociálnej starostlivosti. Myslím, že je veľmi dôležité, aby sme staršej generácii umožnili žiť nezávisle a dôstojne.
+<P>
+Minulý rok som bola spravodajkyňou správy, ktorá mala zabezpečiť, aby starší občania boli zdravší a aby žili dlhšie a nezávisle. Myslím, že správa, o ktorej dnes diskutujeme, sa mimoriadne dobre hodí k návrhom na zabezpečenie toho, aby sa starší ľudia naďalej mohli starať o svoj majetok a riadiť svoj život kdekoľvek, a to bez toho, aby boli vykorisťovaní a zneužívaní. Robím si však starosti aj o Haagsky dohovor. Vítam konanie pani ministerky v tomto smere, mali by sme však urobiť viac než len zabezpečiť ratifikáciu existujúcich právnych predpisov. Mali by sme zabezpečiť, aby boli účinné.
+<P>
+Rada by som povedala pár slov k verejnej listine. Vítam iniciatívy na zníženie administratívnej záťaže našich občanov, ale zároveň sa obávam, že táto správa nezohľadňuje rôzne právne tradície existujúce v rámci Spoločenstva vrátane rôznych právnych nástrojov ako anglické prevodné listiny alebo rôzne formy notárskeho povolania existujúce v Anglicku. Správa by vo svojej súčasnej podobe podľa mňa mohla podkopať vnútroštátne právo určitých členských štátov, najmä nášho, v oblasti správy pozostalosti. Myslím, že ignorovanie takýchto rozdielov sa prieči zásade vzájomného uznávania a cieľu zabezpečenia rovnakého prístupu k spravodlivosti pre všetkých občanov. Z uvedených dôvodov ja a naša delegácia podporujeme pozmeňujúce a doplňujúce návrhy pani Wallisovej.
+<P>
+Veľmi vítam správu pani Wallisovej o elektronickej justícii. Myslím, že niektoré veci, o ktorých hovoríme v iných správach, sú navzájom prepojené, takže to znamená, že ľudia kdekoľvek v Európskej únii budú mať rovnaký prístup k spravodlivosti.
+<SPEAKER ID="037" NAME="Cristian Silviu Buşoi" AFFILIATION="ALDE">
+(RO) Rád by som zablahoželal spravodajcom Diane Wallisovej, Manuelovi Medinovi Ortegovi a Antoniovi Lópezovi-Istúrizovi Whiteovi k vynikajúcim správam. V čase, keď sa cezhraničné konania v Európe podľa odhadov týkajú 10 miliónov ľudí, je elektronická justícia potrebná. Využívanie informačných technológií v systéme justície by skutočne mohlo výrazne prispieť k zlepšeniu prístupnosti a účinnosti právneho a justičného systému v Európe. Preto si správa a úsilie pani Wallisovej zaslúžia našu plnú pozornosť.
+<P>
+Tiež si myslím, že toto uznesenie o verejnej listine je mimoriadne dôležité. Ako právnik z Rumunska môžem iba zdôrazniť skutočnosť, že prínos verejnej listiny a ústretového justičného systému bez rozporov je obrovský. Najdôležitejším spôsobom prejavu predbežného konania v Rumunsku a aj v iných európskych štátoch so systémom občianskeho práva je notárska verejná listina. Viem, že pán Medina Ortega by sa rád zaoberal výhradne verejnými listinami a rozlišoval medzi verejnými listinami vydanými výlučne špecializovanými profesionálmi, listinami vytvorenými subjektmi splnomocnenými verejnými orgánmi a listinami osvedčenými súkromnými podpismi.
+<P>
+Nezávisle od výsledku diskusií a toho, či sa obdobné listiny zahrnú alebo či sa nimi bude zaoberať iná iniciatíva, táto správa potrebuje zabezpečiť, aby jej cieľom bolo zaručiť ochranu občanov a ich právnej bezpečnosti a cezhraničných rodinných a majetkových vzťahov navrhnutím vzájomného uznávania verejných listín.
+<SPEAKER ID="038" NAME="Bogusław Rogalski" AFFILIATION="UEN">
+(PL) Vážený pán predsedajúci, Európska únia sa musí zaoberať problémom výrazného starnutia obyvateľstva členských štátov, súvisiaceho s výrazným nárastom priemernej dĺžky života. Výsledkom toho bude mať okolo roku 2050 približne 40 % obyvateľov Európy vyše 60 rokov a 10 % z nich bude starších než 80 rokov.
+<P>
+Tieto demografické zmeny významným spôsobom ovplyvnia naše hospodárstvo, našu spoločnosť, zdravie a náš rozpočet. Musíme teda zaviesť vhodné a konkrétne ochranné mechanizmy, ktoré zaručia rovnaké práva a povinnosti pre všetkých. Chránené osoby trávia čoraz viac času mimo krajiny, v ktorej majú trvalý pobyt, alebo sú v nemocničnej starostlivosti v zahraničí, teda nie v krajine, v ktorej sa nachádza ich majetok. Preto musí systém právnej ochrany zabezpečiť kontinuitu súdnych rozhodnutí, správnych rozhodnutí a rozhodnutí, ktoré prijímajú osoby samotné. Vzťahuje sa to najmä na plnú moc vo vzťahu k budúcej právnej ochrane, ktorú treba uplatniť v členských štátoch EÚ.
+<P>
+Musíme preto vytvoriť mechanizmy na účinný prenos dokumentov, najmä v núdzových prípadoch, napríklad keď chránená osoba potrebuje nemocničnú starostlivosť a dočasne sa nachádza mimo krajiny, z ktorej pochádza. Takto by sa Európania mohli bez prekážok zdržiavať alebo bývať v členskom štáte EÚ, ktorý nie je krajinou ich pôvodu, a to bez straty účinného a rýchleho prístupu k zdravotnej starostlivosti.
+<SPEAKER ID="039" NAME="Dushana Zdravkova" AFFILIATION="PPE-DE">
+(BG) Vážená pani ministerka, pán komisár, dámy a páni, rada by som vás ubezpečila, že dnešná rozprava o týchto troch správach veľmi zaujíma občanov Európskej únie a mojich kolegov právnikov. Preto by som rada zablahoželala spravodajcom týchto troch správ.
+<P>
+Doteraz som pracovala výlučne v systéme súdnictva ako predsedníčka jedného z najväčších súdov v Bulharsku, ktorý ako prvý zaviedol technológiu spracúvania prípadov online, a do roku 2000 ako predsedníčka výboru expertov Rady Európy pre informačné technológie a právo. Preto témy súvisiace s elektronickou justíciou veľmi dobre poznám. Keď sme v roku 1995 zavádzali informačné technológie, nebolo by mi ani napadlo, že táto téma vyvolá v Európskom parlamente taký rozruch. Preto som veľmi rada, že o nej dnes môžem hovoriť.
+<P>
+Rada by som zablahoželala najmä pani Wallisovej k správe o elektronickej justícii, lebo si myslím, že využitie informačných technológií a nových komunikačných technológií v oblasti spravodlivosti ešte viac podporí rozvoj cezhraničnej súdnej spolupráce a zároveň uľahčí obyvateľom Európskej únie prístup k systému justície.
+<P>
+Rada by som však zdôraznila, že pre dosiahnutie účinného európskeho systému v tejto oblasti je veľmi dôležité vytvoriť všeobecnú stratégiu na inštitucionálnej úrovni a vypracovať všeobecné normy na podporu účinnejšej komunikácie medzi národnými systémami, pričom treba myslieť aj na potrebu mnohých kvalitne vzdelaných odborníkov.
+<P>
+Až po splnení týchto podmienok budeme vedieť využiť potenciál nových technológií v boji proti cezhraničnému zločinu a zabezpečiť občanom lepšiu prístupnosť k justičnému systému v občianskoprávnych a obchodných záležitostiach.
+<P>
+Vzhľadom na to nalieham, aby sa podporili všetky relevantné projekty, či už ide o sieť registrov trestov online, register neplatičov alebo Európsku súdnu sieť v občianskoprávnych a obchodných veciach. Toto je jediný spôsob, ako môžeme dosiahnuť jeden zo základných cieľov Európskej únie, ktorým je väčšia interakcia s jej občanmi.
+<SPEAKER ID="040" NAME="Lidia Joanna Geringer de Oedenberg" AFFILIATION="PSE">
+(PL) Vážený pán predsedajúci, v oznámení z 10. mája 2005 o Haagskom programe, ktoré bolo určené Parlamentu a Rade, Komisia ako jednu zo svojich konkrétnych priorít uviedla, že do roku 2011 chce zaručiť účinný európsky priestor spravodlivosti pre občianske právo, najmä v oblasti uznávania a vykonávania rozhodnutí súdu a zásady vzájomného uznávania, keďže tieto opatrenia zabezpečujú občanom Európskej únie cezhraničnú právnu ochranu.
+<P>
+Európska únia sa rozširuje a podporuje sa čoraz väčšia mobilita jej občanov. Pohyb osôb v rámci Spoločenstva zatiaľ spôsobuje problémy v súvislosti s prenosom verejných listín. Množstvo riešení, ktoré členské štáty uplatňujú na problém vzájomného uznávania verejných listín, znamená, že v súčasnosti je obeh týchto dokumentov komplikovanou záležitosťou, pričom existujú obmedzenia počtu a druhu dokumentov, ktoré možno prenášať.
+<P>
+Komisia musí podniknúť konkrétne kroky na okamžité zavedenie jedného a jednotného systému vytvoreného na mieru, ktorý bude platiť pre vykonávanie a vzájomné uznávanie verejných listín vo všetkých členských štátoch. Tento systém výrazne uľahčí občanom aj podnikom ich každodenný život.
+<P>
+Z tohto nástroja Spoločenstva by zároveň vzhľadom na rozdiely v štruktúre a organizácii systémov verejných registrov v oblasti vlastníctva nehnuteľností mali byť vylúčené zápisy do verejných registrov pozemkov a nehnuteľností. Okrem tejto výnimky sa uznanie pravosti, dôkaznej hodnoty a vykonateľnosti verejnej listiny za účelom jej použitia v členskom štáte, ktorý ju vyžaduje, môže odmietnuť iba v prípade, že existujú vážne a odôvodnené pochybnosti o jej pravosti, alebo ak je jej uznanie v rozpore s právnym poriadkom členského štátu, ktorý ju vyžaduje.
+<P>
+Na záver by som rada poďakovala spravodajcovi pánovi Medinovi Ortegovi za veľmi dobre pripravený dokument.
+<SPEAKER ID="041" NAME="Toomas Savi" AFFILIATION="ALDE">
+Vážený pán predsedajúci, s potešením vítam myšlienku, že Komisia pripraví akčný plán o elektronickej justícii. Bol som dosť prekvapený, keď som sa dozvedel, že taká iniciatíva ešte nebola zavedená. Chcel by som poďakovať kolegyni Diane Wallisovej, že si s touto naliehavou záležitosťou poradila mimoriadne vhodným spôsobom. Rýchly technologický rozvoj nám poskytuje nové efektívne nástroje, s využitím ktorých by sme nemali váhať.
+<P>
+Priniesol nám však aj nové problémy vrátane počítačovej kriminality ako nepovolené sledovanie, podvod, kybernetické súboje a mnohé iné. Je najvyšší čas, aby Európska únia zaviedla právne predpisy týkajúce sa definovania, vyšetrovania a trestania počítačovej kriminality. Počítačová kriminalita presahuje štátne hranice, a preto by sme na ňu mali reagovať na nadnárodnej úrovni. Očakávam, že Komisia urýchlene prijme legislatívnu iniciatívu v tejto oblasti.
+<SPEAKER ID="042" NAME="Costas Botopoulos" AFFILIATION="PSE">
+Vážený pán predsedajúci, môžeme povedať, že niečo ako elektronická justícia je možné v činnostiach podmienených ľudskou slabosťou a ľudskými cnosťami, ktoré predstavujú základné črty ľudstva? Nie! Môže existovať spravodlivosť bez hraníc? Nie, ako ste povedali! Ide totiž o ľudskú činnosť, ktorá je v každej časti sveta iná.
+<P>
+Znamenajú tieto dve "nie", že sa máme obrátiť chrbtom k technologickým inováciám? Samozrejme, odpoveď je opäť "nie"! Musíme sa pokúsiť využiť ľudské inovácie. Informačný portál? Áno! Výmena údajov? Áno! Uvedomenie si vzájomného prepojenia justičných systémov? Áno! Príspevok k vytvoreniu európskeho dema? Áno! Ale spoločná bezmenná justícia, pričom nehovorím, že to požadujete v správe? Nie!
+<P>
+Môj otec, ktorý bol sudcom, by sa veľmi netešil, keby som v Európskom parlamente obhajoval elektronickú justíciu. Ak sa mám z Európskeho parlamentu prihovoriť svojmu otcovi v nebi, môžem mu povedať, že viem, že justícia, to bude vždy iba človek, jeho obhajca a sudca - nie pred Bohom, ale pred vlastným svedomím.
+<SPEAKER ID="043" NAME="Nicolae Vlad Popa" AFFILIATION="PPE-DE">
+(RO) Rád by som zablahoželal k iniciatíve o obehu verejných listín v Európe, pretože rozvinie voľný pohyb osôb a obchodných podnikov v Európskej únii. Štátne hranice boli odstránené, právne hranice však zostali. Dôkazom toho sú komplexné postupy pri uplatňovaní zmlúv podpisovaných za prítomnosti verejných orgánov, ktoré sú v každej krajine iné.
+<P>
+Našou povinnosťou je ponúknuť každému občanovi možnosť uplatnenia ustanovení európskej verejnej listiny bez dodatočných postupov v členskom štáte Európskej únie, aj keď bola verejná listina vyhotovená v inom členskom štáte.
+<P>
+Vítam iniciatívu a správu pani Wallisovej o elektronickej justícii, pretože si myslím, že prijatím tejto správy sa zabezpečí, aby mali európski občania prostredníctvom informačných a komunikačných technológií prístup k právnemu a justičnému systému Európy. Urýchlená správa dôkazov za minimálne náklady a zjednodušenie súdnych konaní pomocou využitia jednoduchých a praktických nástrojov uľahčí občanom v prípade cezhraničných súdnych sporov prístup k súdnemu systému. V záujme dosiahnutia týchto...
+<SPEAKER ID="044" NAME="Armando França" AFFILIATION="PSE">
+(PT) Vážený pán predsedajúci, pán komisár, pani Datiová, elektronická justícia je dôležitým krokom v zabezpečení prístupu k právu, spravodlivosti a súdom. Vítam túto iniciatívu a blahoželám pani spravodajkyni a francúzskemu predsedníctvu. Elektronická justícia bola jedným z projektov, o ktorých sa diskutovalo počas portugalského predsedníctva, a preto pripadla Portugalsku úloha viesť vývoj a realizáciu pilotného projektu, ktorý umožní všetkým občanom prístup k službám v iných členských štátoch jednoduchším, lacnejším a pohodlnejším spôsobom a v ich jazyku.
+<P>
+Tento mnohojazyčný portál by mal byť navrhnutý tak, aby pomohol občanom a podnikom hľadajúcim právnu pomoc a počiatočné právne poradenstvo o cezhraničných právnych problémoch. Portál elektronickej justície by mal koordinovať a riadiť útvar, ktorý bude zodpovedný aj za koordináciu príspevkov rôznych členských štátov a zabezpečenie ich vzájomného prepojenia. Projekt elektronickej justície bude slúžiť občanom a posilní našu demokraciu. Vítam spustenie portálu, ktoré sa uskutoční v decembri 2009.
+<SPEAKER ID="045" NAME="Marcin Libicki" AFFILIATION="UEN">
+(PL) Vážený pán predsedajúci, v prvom rade chcem zablahoželať pani Wallisovej k jej skvelej správe a upozorniť vás na dve veci. Ako predseda Výboru pre petície viem, ako často si občania Európskej únie nie sú vedomí svojich práv a naopak, niekedy sa snažia zasahovať do vecí, do ktorých nemajú právo zasahovať. Preto tento internetový portál, nazývaný aj portál elektronickej justície, nepochybne pomôže občanom Európskej únie pri kontaktovaní Európskeho parlamentu a jeho Výboru pre petície.
+<P>
+Rád by som vás upozornil aj na inú vec, ktorú pani Wallisová počas svojho vystúpenia spomenula, a to na skutočnosť, že musíme rešpektovať miestne právo. Touto vecou sa pred 250 rokmi začal zaoberať známy francúzsky filozof Charles de Montesqieu, ktorý povedal, že pri tvorbe právnych predpisov na vyššej územnej úrovni vždy treba pamätať na to, že menšie regióny a územia, v tomto prípade členské štáty Európskej únie, majú svoje tradície, ktoré sa musia rešpektovať.
+<SPEAKER ID="046" NAME="Predsedajúci">
+Dámy a páni, počas nedávnej diskusie predsedníctva Parlamentu bolo povedané, že by sa slovo v rozprave nemalo udeľovať poslancom, ktorí už raz prehovorili. Ale v rámci toho, čo v Španielsku nazývame vianočnou náladou, urobíme výnimku a opäť udelíme slovo pánovi Romagnolimu.
+<SPEAKER ID="047" NAME="Luca Romagnoli" AFFILIATION="NI">
+(IT) Vážený pán predsedajúci, dámy a páni, nemôžem hovoriť za všetkých, ale dúfam, že nezávislí poslanci súhlasia, že spoločný priestor spravodlivosti predstavuje pre občanov Únie jednoznačnú výhodu, a preto podporia príslušnú iniciatívu.
+<P>
+Dámy a páni, viac-menej sme tu boli pred chvíľou všetci prítomní, takže nebudem zbytočne opakovať, čo už bolo povedané. Namiesto toho by som vám a najmä Európe a mnohým jej občanom, ktorí cítia, že je ohrozená kvalita ich života, chcel zaželať nový rok plný prosperity a samozrejme aj spravodlivosti.
+<SPEAKER ID="048" NAME="Reinhard Rack" AFFILIATION="PPE-DE">
+(DE) Vážený pán predsedajúci, je dobre, že sa v integrácii v oblasti justície, ktorá bola doteraz výlučne vecou jednotlivých štátov, dejú určité pokroky. Je to v súlade so zmenami životných podmienok našich občanov v Únii. Avšak, ako už naši kolegovia viackrát poznamenali, táto integrácia nesmie príliš zasiahnuť do tradične vyvinutých a hlavne fungujúcich štruktúr. Nemožno na všetko použiť rovnaký meter.
+<P>
+Organizácia verejných nástrojov a miest, ktoré ich vystavujú, je v mnohých členských štátoch úplne rozdielna. V Rakúsku, avšak nie iba u nás, majú notárske kancelárie dlhoročnú tradíciu a ako úrady vystavujúce listiny sa tešia veľkej bezpečnosti a dôvere. Toto nemožno bezdôvodne ohroziť iba preto, že takéto povolania inde neexistujú. Preto súhlasím s integráciou a vzájomným otváraním, ale vyváženým spôsobom.
+<SPEAKER ID="049" NAME="Czesław Adam Siekierski" AFFILIATION="PPE-DE">
+(PL) Vážený pán predsedajúci, každý členský štát má iný právny systém a iné zásady uznávania správnych dokumentov. Preto by sme sa mali snažiť o to, aby bol cezhraničný obeh verejných listín čo najjednoduchší. Musíme však pamätať na to, že uľahčeniu obehu dokumentov predchádza zabezpečenie istoty bezpečnosti právnych úkonov a situácií.
+<P>
+V záujme uľahčenia každodenného života našich občanov a zjednodušenia prevádzky podnikov musíme zharmonizovať zásady uznávania správnych dokumentov. Toto od nás totiž očakávajú. Takéto pravidlá im bezpochyby ušetria čas a peniaze. Musíme pracovať na vytvorení harmonizovaného základu pre vzájomné uznávanie verejných listín v jednotlivých členských štátoch, ale určite by sme nemali rozšíriť rozsah tejto schémy na dokumenty, ktoré nespĺňajú základné kritériá.
+<SPEAKER ID="050" NAME="Rachida Dati">
+úradujúca predsedníčka Rady. - (FR) Vážený pán predsedajúci, pán komisár, dámy a páni, predsedníctvo venovalo veľkú pozornosť vašej práci v týchto troch záležitostiach.
+<P>
+Vaše správy svedčia najmä o vašom záujme o tieto veci a viem, že v budúcnosti opäť budeme mať príležitosť o nich diskutovať. Rada by som sa opäť poďakovala pánovi Medinovi Ortegovi za jeho pripomienky a za jeho prínos. V oblasti obehu a uznávania verejných listín musíme urobiť pokrok.
+<P>
+Správne ste povedali, že rozsudok Unibank poskytuje rámec pre úkony a definíciu verejných listín. Ako pán Gauzès pred chvíľou zdôraznil, je to vynikajúca správa, ktorá pomôže zlepšiť súdnu spoluprácu. Rada by som pani Wallisovej objasnila, že by sa to malo týkať všetkých európskych občanov, ale mali by sme zabezpečiť vytvorenie podmienok pre skutočnú vzájomnú dôveru. Kvôli právnej istote to je nevyhnutné.
+<P>
+Rada by som vyzdvihla zanietenie pani Wallisovej v oblasti elektronickej justície. Máte pravdu, je to spôsob zlepšenia prístupu k spravodlivosti. Nezabúdajme, že podľa odhadov je do cezhraničných súdnych sporov zapojených 10 miliónov občanov, preto potrebujeme efektívne spôsoby komunikácie. Zopakujem slová pána Barrota: "zostaneme verní tejto tradícii". Príspevok pani Zdravkovej bol v súlade s touto ambíciou, pretože prepojenie justičných systémov nám otvára množstvo vyhliadok.
+<P>
+Pán López-Istúriz White, súhlasím s vašimi slovami, skutočne musíme viac chrániť zraniteľné osoby a najmä starších ľudí a vítam prijatie tejto správy, ktorá sa plne zhoduje s našimi odporúčaniami a ambíciami. Som vďačná pani Gillovej za jej poznámky, lebo vďaka jej príspevku je táto správa nesmierne praktická.
+<P>
+Vážený pán komisár, aj vy ste prejavili záujem o tieto témy a dúfam, že naša dnešná rozprava obohatí konzultácie, ktoré, myslím, práve pripravujete.
+<P>
+Vážený pán predsedajúci, pán komisár, dámy a páni, v mene predsedníctva chcem poďakovať všetkým rečníkom, ktorí sa zúčastnili rozpravy. Vaše poznámky boli veľmi profesionálne a veľmi praktické. Navyše nám umožňujú dôverovať budúcnosti a odzrkadľujú záujem EÚ o záležitosti týkajúce sa ochrany európskych občanov.
+<P>
+Prácu francúzskeho predsedníctva v oblasti justície hodnotím tak, že témy boli praktické, rozhodnutia boli praktické a naše ambície boli ešte praktickejšie. Pre mňa to bola ďalšia zvláštna príležitosť zúčastniť sa dialógu s Parlamentom, ktorý prebieha súbežne s vašou prácou v pléne a vo výboroch a aj so všetkými tematickými konferenciami, ktoré sa k tejto téme organizujú vo Francúzsku.
+<P>
+Ďakujem vám za vynikajúcu spoluprácu, ktorá vznikla medzi Radou a Parlamentom a ktorá nám umožnila vykonať aj veľmi rýchly pokrok. Spomínam si na počiatočné obdobie tohto predsedníctva, keď sme diskutovali o cieľoch a prioritách. Môžem vám povedať, že naše ciele sme dosiahli a priority sme posilnili a verím, že predsedníctva, ktoré budú nasledovať po francúzskom predsedníctve, budú v našej práci jednoznačne pokračovať.
+<SPEAKER ID="051" NAME="Predsedajúci">
+Pani Datiová, z pozície predsedajúceho chcem poďakovať vám a predsedníctvu Rady za vykonanú prácu a vyvinuté úsilie, aj vaše osobné, počas posledných šiestich mesiacov.
+<SPEAKER ID="052" NAME="Jacques Barrot" LANGUAGE="FR">
+Vážený pán predsedajúci, pani Datiová, dámy a páni, rád by som najprv zdôraznil, že v súvislosti so správou pána Medinu Ortegu budeme mať stretnutia o uznávaní verejných listín v rámci nariadenia Brusel I. Začiatkom roka 2009 prijmeme správu týkajúcu sa uplatňovania nariadenia Brusel I a budeme hľadať spôsoby jeho revízie v roku 2009.
+<P>
+Po druhé, ako som vám teraz povedal, budeme mať ďalšie stretnutie v súvislosti s nástrojom o dedičstve a majetkových právach vyplývajúcich z manželského zväzku. Verejnou listinou sa budeme zaoberať aj v kontexte zelenej knihy, ktorá pokryje všetky verejné listiny v širšej miere. Zelená kniha je naplánovaná na koniec roka 2009.
+<P>
+Voľný obeh listín a dokumentov sa bezpochyby musí zlepšiť, ale ako správne povedala pani Datiová, musíme ešte zaručiť právnu istotu, ktorej predpokladom je skutočná vzájomná dôvera. Toto je všetko, čo som chcel povedať k stretnutiam o verejných listinách, ktorým budeme v nasledujúcich mesiacoch roku 2009 venovať veľkú pozornosť.
+<P>
+K téme elektronickej justície môžem potvrdiť, že Komisia v súčasnosti uplatňuje zmluvy, ktoré umožnia vývoj počiatočnej verzie európskeho portálu elektronickej justície v rámci dohodnutých časových harmonogramov. Ako už bolo zdôraznené, prepojenie registrov trestov sa mi zdá byť veľmi sľubným znamením budúceho úspechu tejto iniciatívy o elektronickej justícii.
+<P>
+Ako som už naznačil, veľmi podrobne budeme sledovať vykonávanie Haagskeho dohovoru o ochrane zraniteľných osôb. V roku 2009 budeme zisťovať, ktoré opatrenia presne možno predpokladať a či budeme potrebovať iniciatívu Spoločenstva v tejto oblasti, aby sa uľahčilo formálne vykonávanie ustanovení Haagskeho dohovoru. Mám na mysli prenos súborov a informácií poskytnutých zraniteľným ľuďom a týkajúcich sa ich práv. Toto je odpoveď Komisie.
+<P>
+Ak dovolíte, pán predsedajúci, dovolil by som si súkromnú poznámku, chcel by som skutočne zablahoželať pani Datiovej, pretože francúzske predsedníctvo bolo v oblasti justície mimoriadne aktívne a organizovalo aj semináre, na ktoré pozvalo aj Parlament a Komisiu. Tieto semináre výrazne obohatili diskusiu a povedal by som, že položili základy nového Štokholmského programu.
+<P>
+Som vám nesmierne vďačný za vaše osobné zanietenie, za schopnosť francúzskeho predsedníctva počúvať, skrátka, za spôsob, akým ste aj vy pracovali v oblasti vyživovacej povinnosti, oznámenia o registroch trestov a v oblasti posilnenia jednotky Eurojust. Máte skutočne výborný záznam v pracovnom registri! Dobrá práca!
+<SPEAKER ID="053" NAME="Manuel Medina Ortega" LANGUAGE="ES">
+Aj keď tento Parlament vo svojej podstate nie je veľmi štedrý na čas, mali sme za takmer jednu hodinu, ktorú sme venovali téme justície, príležitosť do určitej miery diskutovať o niektorých nevyriešených záležitostiach. Najmä pri verejnej listine si podľa mňa musíme vyjasniť jeden bod. Verejná listina je jedna vec a súkromná listina druhá, aj keď sa na nej podieľa notár.
+<P>
+Súkromnú listinu, na ktorej sa podieľa aj notár, možno považovať za dokument vyjadrujúci vôľu strán, ktoré ho uzatvárajú. V niektorých právnych systémoch je úloha notára obmedzená na potvrdenie, že dokument vyjadruje vôľu strán, ktorá sa potom na základe zásady nezávislosti vôle a uznania jej existencie všeobecne uznáva.
+<P>
+Teraz však hovoríme o úplne inom nástroji. Hovoríme o verejnej listine, listine obsahujúcej aj zásah verejného úradníka, ktorým je vo väčšine štátov s kontinentálnym právom notár, ktorý je nositeľom verejnej moci. Tým sa listina dostáva na úroveň, ktorá je veľmi podobná rozsudku.
+<P>
+Teraz nediskriminujeme na základe práva v jednotlivých štátoch. Ak by sme prijali predpisy o európskej verejnej listine, mohol by ju mať každý štát v Európe a mohol by získať jej uznanie, predtým by však bolo potrebné, aby listina bola rovnako uznaná v predmetnom právnom systéme ako v iných systémoch.
+<P>
+Inak povedané, treťou podmienkou uznania verejnej listiny je, že v inom štáte nemôže mať iný účinok než v krajine svojho vzniku. Takže konkrétne anglická notárska listina je na kontinente uznávaná, avšak v rovnakej miere, v akej ju uznáva anglické právo. Túto mieru nemožno prekročiť. Napríklad anglický právny dokument nemôže byť uznaný vo Francúzsku tak, ako keby to bol francúzsky právny dokument, pretože nemá rovnaké vlastnosti. Ide totiž o úplne iný druh dokumentu.
+<P>
+Preto nejde o diskrimináciu, ale o pokus o zavedenie spoločného systému v celej Európskej únii, a myslím, že je možné, že niektoré štáty, v ktorých doteraz neexistoval tento druh dokumentu, ho prijmú. Preto by bolo prijatie jednotnej európskej listiny dôležitým nástrojom.
+<SPEAKER ID="054" NAME="Diana Wallis">
+spravodajkyňa. - Vážený pán predsedajúci, myslím, že nedokážem odolať. Pán Medina hovorí, že verejná listina - presne pre toto hovorím, že musíme starostlivo zvažovať a ísť do hĺbky - musí byť verejným dokumentom. Ak si vezmete anglické zvykové právo a anglického právnika, ktorý vyhotovuje dokumenty, anglický právnik je súdny úradník poverený súdom, a preto môže vyhotovovať verejné dokumenty. Pozrite sa na to, prosím, a pochopte to. Sú veci, ktoré máme spoločné a ktoré si zasluhujú viac analýzy a úvah v iných jurisdikciách a v iných právnych kultúrach.
+<P>
+Ukončím teda moju škriepnu náladu a chcem povedať francúzskemu predsedníctvu: pani ministerka, veľmi pekne vám ďakujeme za spoluprácu a za prácu, ktorú ste vy a vaši zamestnanci počas mesiacov trvania vášho predsedníctva vykonali. Bolo to úžasné. Mnohé veci sa nám podarilo presadiť a veľmi si ceníme vaše odhodlanie a snahu zmeniť životy našich občanov v oblasti justície. Ďakujem. Budete nám chýbať.
+<SPEAKER ID="055" NAME="Predsedajúci">
+Teraz som mal dať slovo svojmu krajanovi pánovi Lópezovi-Istúrizovi Whiteovi, poprosil ma však, aby som minútu jeho času dal pánovi Toubonovi.
+<SPEAKER ID="056" NAME="Jacques Toubon" AFFILIATION="PPE-DE">
+(FR) Vážený pán predsedajúci, dámy a páni, pani ministerka spravodlivosti, rád by som vás v rámci možností na konci rozpravy oslovil. Skutočne si myslím, že s portugalským predsedníctvom, slovinským predsedníctvom a súčasným francúzskym predsedníctvom, teda pani Rachidou Datiovou ako strážkyňou pečatí sme - a toto hovorím vzhľadom na svoje skúsenosti ako bývalý minister spravodlivosti - skutočne dosiahli určitý medzník a už sa nevrátime späť.
+<P>
+Dnes sa pokúšame o zblíženie právneho systému a systému súdnictva, ktoré si však vo svojej podstate navzájom nedôverujú, o ich vzájomné uznanie a harmonizáciu. V určitých bodoch sú dokonca snahy o právne predpisy, ktoré by boli úplne alebo čiastočne založené na Spoločenstve, ako napríklad právne predpisy o vyživovacej povinnosti. Následne dokonca aj keď sme urobili viac, než si vyžiadala potreba, napríklad vo vzťahu k bezpečnosti, trestnému právu a boju proti terorizmu, teraz sa obraciame na tých, ktorí potrebujú predpisy, a diskutujeme o dohodách, ktoré sa uplatňujú v celej Európe, pretože žijú vo svojej krajine a aj inde, pretože pracujú a udržiavajú vzťahy s každým v celej Európe.
+<P>
+Pán predsedajúci, tento bod musíme zdôrazniť. Bezpochyby je to charakteristická črta francúzskeho predsedníctva. Už to povedali všetci naši kolegovia, musím však zdôrazniť, že sme bezpochyby dosiahli historický medzník v spolupráci a právnych predpisoch v oblasti justície. Myslím, že Európa už nebude tým, čím bývala, keď jej občania skutočne pocítia, že európsky súdny priestor je viac než len pekné slová.
+<SPEAKER ID="057" NAME="Antonio López-Istúriz White" LANGUAGE="ES">
+Vážený pán predsedajúci, myslím, že toto bolo veľmi dobré riešenie a ďakujem vám za ústretovosť voči mne a môjmu kolegovi.
+<P>
+Cením si všetky príspevky a slová vďaky, najmä príspevky, ktoré pozitívne hodnotili správu, a spoluprácu Výboru pre občianske slobody, spravodlivosť a vnútorné veci na mojej správe.
+<P>
+Rád by som spomenul najmä príspevok pána Rogalského. Ako poslanec zastupujúci Baleárske ostrovy a ako španielsky poslanec vás môžem ubezpečiť, že dôvodom, prečo som prijal túto správu, je pomoc ľuďom, starším ľuďom, ktorí teraz žijú na našich ostrovoch v Španielsku ako obyvatelia alebo ako turisti. Podľa mňa je nevyhnutné, aby mali ochranu.
+<P>
+Preto si určite každý musel všimnúť, že som do snahy o skorú ratifikáciu a podpísanie Haagskeho dohovoru zahrnul aj svoju krajinu.
+<P>
+Iba na jednu vec mám iný názor než pani ministerka. Ako ste videli, nespomenul som žiadne iné predsedníctvo. Pripájam sa k tým, ktorí by boli radi, keby francúzske predsedníctvo trvalo oveľa dlhšie. Pre mnohých z nás trvalo prikrátko.
+<P>
+To je jediný rozdiel v našich názoroch.
+<SPEAKER ID="058" NAME="Predsedajúci">
+Rozprava sa skončila.
+<P>
+Hlasovanie sa uskutoční dnes o 11.30 hod.
+<P>
+(Rokovanie bolo prerušené o 11.00 hod. a pokračovalo o 11.35 hod.)
+<P>
+Písomné vyhlásenia (článok 142)
+<SPEAKER ID="059" NAME="Louis Grech  " AFFILIATION="PSE">
+písomne. - Cieľom tejto iniciatívy je vytvoriť jasný a podrobný právny rámec na ďalšie zovšeobecnenie uznávania a zjednodušenie vykonávania verejných listín.
+<P>
+Doposiaľ bolo uznávanie verejných listín medzi členskými štátmi riešené nejednotne, čo malo za následok právnu neistotu a nepredvídateľnosť pre občanov a podniky.
+<P>
+Vytvorenie spoločného systému vzájomného uznávania a vykonávania verejných listín bude pre Európsku úniu znamenať prínos v podobe úspory času, zníženia nákladov a čo je ešte dôležitejšie, zavedenia zjednodušených postupov. Zvýši sa aj bezpečnosť verejných listín, čím sa podporí ich obeh.
+<P>
+Vykonateľnosť verejných listín a ich vyššia dôkazná hodnota budú znamenať zjednodušenie pohybu tovarov a služieb, čím prispejú k hospodárskemu rozvoju a integrácii v Únii. V období hospodárskej krízy je to zvlášť dôležité, preto by som bol rád, keby sa tento právny predpis uplatnil čo najskôr.
+<P>
+Vítam aj skutočnosť, že táto správa sa vzťahuje len na verejné listiny a rešpektuje špecifiká súkromných zmlúv a ďalších prechodných kategórií listín.

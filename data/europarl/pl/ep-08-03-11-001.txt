@@ -1,0 +1,4 @@
+<CHAPTER ID="001">
+Otwarcie sesji
+<SPEAKER ID="004" NAME="Przewodniczący">
+Oświadczam, że sesja Parlamentu Europejskiego 2008-2009 została otwarta.

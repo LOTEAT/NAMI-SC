@@ -1,0 +1,6 @@
+<CHAPTER ID="001">
+Az ülés megnyitása
+<SPEAKER ID="007" NAME="Daniel Hannan" AFFILIATION="NI">
+Elnök úr, a legutóbbi találkozásunk óta jelentések kerültek napvilágra a képviselőcsoportok vezetői és a Cseh Köztársaság elnöke között lezajlott találkozóról, amelynek alkalmával a képviselőcsoportok vezetői közül néhányan olyan udvariatlanul és durván fejezték ki magukat, hogy az szerintem mindnyájunkra nézve szégyen. Azt szeretném kérdezni, hogy Ön esetleg helyettes szóvivőként megtenné-e, hogy ezt a mai alkalmat megragadva megerősíti, hogy e Ház értékel minden véleményt, függetlenül attól, hogy a Lisszaboni Szerződés mellett vagy ellene szól, továbbá hogy tiszteletben tartjuk a Cseh Köztársaság említett hivatalának méltóságát.
+<SPEAKER ID="008" NAME="Elnök">
+Nem az én feladatom, Hannan úr, hogy bármit is megerősítsek, és arra is szeretném emlékeztetni, hogy a Parlament pillanatnyilag nem tárgyalja ezt a kérdést. Abban azonban biztos vagyok, hogy Ön a megfelelő időpontban szóhoz fog jutni, és felhívja az illetékes szerveket, hogy adjanak magyarázatot ez ügyben.

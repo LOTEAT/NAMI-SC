@@ -1,0 +1,813 @@
+<CHAPTER ID=1>
+Pöytäkirjan hyväksyminen
+<SPEAKER ID=1 NAME="Puhemies">
+Eilisen istunnon pöytäkirja on jaettu.
+<P>
+Onko huomautettavaa?
+
+<SPEAKER ID=2 LANGUAGE="FR" NAME="Janssen van Raay">
+Arvoisa rouva puhemies, voin pitää puheenvuoroni 30 sekunnin ajan ranskaksi, enkä sen pidempään.
+<P>
+Neuvosto ei vastaa 15. elokuuta tekemiini kysymyksiin, sen enempää kuin rouva van Bladelin kysymyksiin. Auttakaa meitä siis, olkaa hyvä, saamaan neuvostolta vastauksia kysymyksiimme.
+
+<SPEAKER ID=3 NAME="Puhemies">
+Herra Janssen van Raay, olen kanssanne aivan samaa mieltä tästä pyynnöstä. Valitettavasti neuvosto ei ole paikalla kuullakseen teitä. Välitämme sille tietysti pyyntönne, tämän ja muidenkin kertojen osalta.
+
+<SPEAKER ID=4 LANGUAGE="DE" NAME="Hager">
+Arvoisa rouva puhemies, haluaisin vain tietynlaisen tasapainon saavuttamiseksi sanoa, että te olette suosikkipuhemieheni.
+
+<SPEAKER ID=5 NAME="Puhemies">
+Luulen, että kyse ei ole aivan menettelyä koskevasta esityksestä. Kyse ei myöskään ole pöytäkirjasta, mutta puheenvuoronne ilahduttaa minua kovasti.
+<P>
+Onko muuta huomautettavaa?
+<P>
+(Pöytäkirja hyväksyttiin.)
+
+<CHAPTER ID=2>
+Äänestys
+<SPEAKER ID=6 LANGUAGE="FR" NAME="Rosado Fernandes">
+Arvoisa rouva puhemies, luulen, että tämä tulee hiukan myöhässä, mutta ryhmäni pyysi minua ehdottamaan teille, että ehdottaisitte parlamentille, että äänestys siirrettäisiin seuraavalle istuntokaudelle. Luulen, että monet jäsenistä ovat eri mieltä asiasta, ja näissä oloissa tästä tärkeästä mietinnöstä äänestetään rajoitetun jäsenmäärän läsnäollessa.
+
+<SPEAKER ID=7 NAME="Puhemies">
+Herra Rosado Fernandes, tästä kysymyksestä on jo keskusteltu. Olosuhteiden pakosta olemme nyt äänestämässä. Huomaan sitä paitsi erittäin tyytyväisenä, että meitä on kuitenkin monta äänestämässä tästä tosiaan hyvin tärkeästä mietinnöstä.
+<P>
+Tarkistus 2
+
+<SPEAKER ID=8 NAME="Bontempi">
+Arvoisa rouva puhemies, haluaisin esittää suullisen tarkistuksen, jossa otetaan huomioon asiasta käyty keskustelu ja esitetyt näkemykset. Ehdotan, että sanan "yhdistämistä" jälkeen lisätään "mukaan lukien eräänlaisen eurooppalaisen yleisen syyttäjän viran perustaminen" . Se lieventää ehdotusta, jota on ehkä vielä tutkittava ja pohdittava, kuten monet ovat aiheellisesti huomauttaneet. Haluaisin siis lisätä sanan "yhdistämistä" jälkeen sanat " mukaan lukien eräänlaisen eurooppalaisen yleisen syyttäjän viran perustaminen" . Tämä suullinen tarkistus on myös käymämme keskustelun tulosta.
+
+<SPEAKER ID=9 NAME="Puhemies">
+Onko tästä pienestä tarkistuksesta huomautettavaa?
+<P>
+(Parlamentti hyväksyi tarkistuksen.)
+<P>
+(Parlamentti hyväksyi päätöslauselman.) Onnittelen herra Bontempia ja kiitän häntä ymmärtäväisyydestä tämän keskustelun ja tämän äänestyksen suhteen, joista tuli valitettavasti hiukan katkonaisia. Takaan teille, että pidämme huolta siitä, ettei tämä enää toistu.
+
+<SPEAKER ID=10 LANGUAGE="DE" NAME="Tillich">
+Arvoisa rouva puhemies, meillä oli eilen iltapäivällä ja tänä aamuna useita nimenhuutoäänestyksiä. Puhemiehistöhän on antanut uuden määräyksen, jonka mukaan laskuihin otetaan mukaan ainoastaan torstaihin keskipäivään mennessä pidetyt nimenhuutoäänestykset. Voinko olettaa, että kollegat, jotka eilen iltapäivällä ja tänä aamuna osallistuivat nimenhuutoäänestyksiin, saavat myös vastaavan lisähyvityksen?
+
+<SPEAKER ID=11 NAME="Puhemies">
+Puhemiehistö tutkii ehdotuksenne hyvin tarkasti, herra Tillich. Mutta voin sanoa, että poliittiset ryhmät pitävät hyvin tarkasti kirjaa läsnäoloista. On sitä paitsi tärkeää tehdäkin se tarkasti, erityisesti tulevissa vaaleissa.
+
+<SPEAKER ID=12 LANGUAGE="EN" NAME="Falconer">
+Haluan huomauttaa herra Tillichille, että hän on väärässä: puhemiehistön ohjeet koskivat tiistaita, keskiviikkoa ja torstaita, eikä torstaille ollut määrätty aikarajaa. Siksi eilisillan äänestykset otetaan huomioon.
+
+<SPEAKER ID=13 NAME="Puhemies">
+Herra Tillich ymmärsi asian aivan oikein. Juuri siitä syystä hän tekeekin tämän lisäehdotuksen.
+
+<SPEAKER ID=14 LANGUAGE="NL" NAME="Martens">
+Halusin vain teidän tähdentävän, että sitä järjestelyä ei sovelleta tänään.
+
+<SPEAKER ID=15 NAME="Puhemies">
+Kyllä, aivan niin.
+
+<SPEAKER ID=16 LANGUAGE="EN" NAME="Falconer">
+Arvoisa puhemies, pidän työjärjestyksen noudattamista koskevaa puheenvuoroa. Mietin juuri herra Tillichin erinomaista näkökohtaa. Ehkä puhemiehistö voisi tutkia, voisivatko ne meistä, jotka ovat olleet paikalla maanantaista perjantaihin, saada ne bonukset, jotka poistetaan niiltä, jotka eivät ole osallistuneet äänestyksiin tiistain, keskiviikon ja torstain aikana. Se olisi erinomainen tapa kannustaa jäseniä tulemaan tänne perjantaisin.
+
+<SPEAKER ID=17 NAME="Andersson">
+Haluan kiittää esittelijää asiantuntevasta mietinnöstä. Mielestäni taistelu rajat ylittävän rikollisuuden torjumiseksi on tärkeä asia, johon EU: ssa olisi kiinnitettävä enemmän huomiota. Haluan kuitenkin korostaa sen merkitystä, että oikeudellisen alueen yhdenmukaistamista koskevissa arvioinneissa kunnioitetaan suuresti niitä vallitsevia eroja, joita on olemassa eri jäsenvaltioiden ja oikeusjärjestelmien oikeudellisista kulttuureista ja perinteistä johtuen. Tästä syystä minun on vaikea tukea ehdotusta, joka koskee eurooppalaisen syyttäjänviraston perustamista niin kutsutun Corpus Juris -tutkimuksen mukaisesti.
+
+<SPEAKER ID=18 NAME="Van Bladel">
+Jäsenvaltioiden lakikirjat eroavat rikosoikeuden ja syytteen nostamisen alueella huomattavasti toisistaan, mikä muodostaa ensisijaisen esteen syytteen nostamiselle kansallisten rajojen ulkopuolella. Toisen esteen, joka haittaa rikosoikeuden ja syytteen nostamisen yhdenmukaistamista, muodostavat jäsenvaltioiden oikeuslaitoksissa tehdyt sisäiset uudistukset. Niinpä kesti kauan ennen kuin Hollannissa annettiin kansainvälinen pidätysmääräys Surinamin entisestä sotilasjohtajasta Desi Boutersesta, jota epäillään suuren luokan kokaiinikaupasta. Boutersen on onnistunut rakentaa Hollannissa verkosto ja hän saa tiedustelijoiden avulla tietää, mitä oikeusministeriö aikoo tehdä ja näin hän on aina askeleen edellä oikeusministeriötä. Tällaiset rikollisjärjestöt rajat ylittävine toimintoineen muodostavat uhkan oikeusvaltiollemme.
+<P>
+Jäsenvaltioiden oikeuslaitosten yhteistyön tiivistämiseksi tapahtuu virkamiesten vaihtoa. Tämän vaihdon avulla saadaan vain vaivoin aikaan edistystä yhteistyössä. Toinen hidastava tekijä yhteistyön kehityksessä on se, että oikeusministeriöiden virkamiesten koulutus on joissakin jäsenvaltioissa puutteellista.
+<P>
+Lopuksi haluaisin muistuttaa tämän mietinnön kohdalla siitä, että EU: n ulkopuolisten maiden suhteiden tiivistämisen kannalta on tärkeää allekirjoittaa sekä monen- että kahdenvälisiä sopimuksia, kuten WOTS-sopimus, jotta oikeudellista yhteistyötä unionin ulkopuolisten maiden kanssa voitaisiin parantaa.
+
+<SPEAKER ID=19 NAME="Caudron">
+Joudumme säännöllisesti ilmaisemaan mielipiteemme oikeuteen ja poliisiin liittyvissä ongelmissa. Tähän asti kaikki nämä mietinnöt ovat olleet laadukkaita. Tämä viimeinen ei muodosta poikkeusta sääntöön, mutta kuinka muuten voisi ollakaan, kun laatijana on kollegamme Bontempi.
+<P>
+Hyväksyn meille ehdotetut suuntaviivat. Haluan vain täydentää tekstin sisältöä sillä tosiasialla, että sopeuttaaksemme oikeusviranomaiset uusiin rikollisuuden muotoihin on välttämätöntä mukauttaa varat sen mukaan, mitä nämä toimielimet, jotka ovat välttämättömiä oikeuden hyvälle toiminnalle, tulevat maksamaan.
+<P>
+Kannatan voimakkaasti Rinaldo Bontempin toivomusta Euroopan unionin sisällä tapahtuvien yleissopimusten ratifiointimenettelyjen nopeuttamisesta.
+<P>
+Toisaalta olen sitä mieltä, että meidän on syvennettävä näitä samoja suhteita, tai solmittava niitä, unionin ulkopuolisten maiden kanssa. Rikollisuus kaikissa muodoissaan maailmanlaajuistuu. Oikeus ei voi jäädä sitä vastaan taistellakseen takaalalle.
+<P>
+Lopulta korruptio, joka liittyy julkisen viran hoitamiseen, on samalla kertaa sekä vitsaus että uhka, koska se saa tuomitsemaan voimakkaasti samanlaisessa vastuuasemassa olevan suuren enemmistön, joka hoitaa tehtävänsä innokkaasti ja rehellisesti.
+<P>
+Hyvät kollegat, korruptiota vastaan taistelemalla poistamme keskuudestamme äärioikeiston, joka on yhteiskuntiemme toinen mätäpaise.
+
+<SPEAKER ID=20 NAME="Cushnahan">
+Olemme nähneet viime vuosikymmenellä rajojemme EU: ssa avautuvan merkittävästi ja Schengenin sopimus on avannut rajoja mantereella. Kun tähän lisätään Internetin rajoja ylittävät ominaisuudet, näemme, kuinka helposti ihmiset, tavarat ja tieto voivat liikkua unionissa. Vaikka tämä onkin helpottanut Euroopan unionin kansalaisten elämää, se on myös tehnyt rikoksille ja rikollisille helpommaksi rajojemme vapaan ylittämisen.
+<P>
+Valitettavasti unionin mahdollisuudet nostaa syyte kansainvälisistä rikoksista eivät ole pysyneet samassa tahdissa. Vaikka Amsterdamin sopimus, kuten herra Bontempi osoittaa mietinnössään, antaa unionille vahvempia keinoja, meidän on varmistettava, että rikosten torjunnasta vastaavat viranomaisemme pysyvät rikosten tasalla.
+<P>
+Kannatan esittelijän ehdotusta yhteistyön lisäämisestä jäsenvaltioiden rikosten torjunnasta vastaavien viranomaisten välillä. Pidän hyvänä hänen ehdotustaan oikeusviranomaisten oikeudesta puhua toisilleen ilman diplomaattista etikettiä.
+<P>
+Olemme poistaneet byrokratian, joka estäisi rikollisuutta ylittämästä rajojamme. Nyt on aika poistaa byrokratia niiden tieltä, jotka yrittävät estää nuo rikokset.
+
+<SPEAKER ID=21 NAME="Lindqvist (ELDR), Eriksson (GUE/NGL), Gahrton, Holm, Lindholm ja Schörling (V), Sandbæk">
+(I-EDN), kirjallinen. (SV) Haluamme todeta, että suhtaudumme myönteisesti kaikkiin yhteistyömuotoihin, jopa tällä oikeudellisella alalla, mikäli ne tehdään valtioiden välisellä tasolla eivätkä ne loukkaa tai rajoita kansallista itsenäisyyttä tai kansallista demokratiaa.
+<P>
+Mietinnön yleistavoitteena on perustaa yhteinen eurooppalainen oikeudellinen alue. Se edellyttää muun muassa rikosoikeuden yhdenmukaistamista, mikä merkitsisi kansallisen itsemääräämisoikeuden lakkauttamista.
+<P>
+Tavoitteen toteuttamiseksi ehdotetaan myös esimerkiksi rikoksille yhdenmukaisia määritelmiä, mahdollisuutta kehittyneeseen teknologiseen valvontaan, esimerkiksi satelliittiviestinnän kuuntelun ja etäkuulemisen avulla, tuomioistuinten aseman tunnustamista sekä eurooppalaisen syyttäjänviraston perustamisen harkitsemista, mitä vastustamme voimakkaasti.
+<P>
+Ensimmäinen oikeudellinen perusta on tulkinta Amsterdamin sopimuksesta, jota ei ole vielä ratifioitu ja joka ei vielä ole astunut voimaan, mutta jota voidaan hyvinkin pitää jokseenkin merkillisenä oikeusperustana.
+<P>
+Kansainvälistä järjestäytynyttä rikollisuutta vastaan taistellaan parhaiten valtioiden välisen kansainvälisen yhteistyön ja Interpolin kanssa kehittyneen yhteistyön avulla.
+<P>
+Viitaten edellä mainittuun olemme äänestäneet mietintöä vastaan.
+
+<SPEAKER ID=22 NAME="Sindal">
+Tanskan sosiaalidemokraatit ovat tänään äänestäneet rikosasioihin liittyvän oikeudellisen yhteistyön tehostamisesta EU: ssa. Meidän täytyy parantaa yhteistyötä, jotta pääsemme EU: ssa eroon rajojen yli toimivasta ja järjestäytyneestä rikollisuudesta. Olemme kuitenkin sitä mieltä, että lähtökohtana on pidettävä jo olemassa olevia välineitä, jotka kuuluvat kolmanteen pilariin. Se on hyvä lähtökohta tulevalle yhteistyölle. Amsterdamin sopimuksen avulla olemme saaneet tarkennettua ja parannettua oikeudellista yhteistyötä, eikä ole tarvetta lisätä yhdenmukaistamista. Vastustamme yhtenäistämistä yhtenäistämisen vuoksi. Yksittäisten valtioiden kulttuureja, perinteitä ja järjestelmiä on kunnioitettava, eivätkä jäsenvaltioiden erot seuraamuksissa ja todisteiden esittämisessä ole välttämättä pahasta.
+<P>
+Meidän on huolehdittava siitä, että rikolliset eivät pääse karkuun, ja se toteutuu parhaiten parantamalla valtioiden välistä käytännön yhteistyötä. Meillä on EU: ssa jo loistavaa rikosasioihin liittyvää oikeudellista yhteistyötä, jota voimme hyödyntää taistelussa rajat ylittävää rikollisuutta vastaan.
+
+<SPEAKER ID=23 NAME="Ribeiro">
+Olemme samaa mieltä esittelijän huolenaiheista, kuten myös siitä, että rikollisuus pahenee etenkin sen järjestyneimmillä osa-alueilla.
+<P>
+Laiton ihmiskauppa, radioaktiivisten aineiden kauppa sekä huumekaupassa usein vallitseva paheneva korruptio, petokset ja talousrikollisuus saavat yhä vakavampia mittasuhteita niin Euroopan unionissa kuin muuallakin maailmassa.
+<P>
+Ennen uusien esittelijän ehdottamien toimenpiteiden käyttöönottoa olisi ymmärtääksemme ennen kaikkea saatava toimimaan tehokkaasti ja käytännöllisesti jo olemassa olevien lainsäädäntöjen valvontamenetelmät ja -mekanismit yhdessä muiden ajateltavissa olevien esittelijän ehdottamien jäsenvaltioiden välisten menetelmien kanssa.
+<P>
+Jäsenvaltioiden on sovellettava jo olemassa olevia keinoja ja niiden täydentämiseksi tarvittavia toimenpiteitä - kuten sellaisia, jotka johtuvat todennäköisesti lähestyvästä euron käyttöönotosta, joka, kuten eräs OECD: n toimielin äskettäin korosti, " avaa uusia ovia rahanpesulle" . Jäsenvaltioiden on muiden maiden kannustamana sovellettava näitä keinoja, koska vain tehokkaiden ja rohkeiden toimenpiteiden avulla voidaan poistaa veroparatiisit ja muut etuudet, joista järjestäytynyt rikollisuus pääsee nauttimaan.
+<P>
+Kuitenkin mitä näiden hankkeiden toteutumiseen tulee, olemme eri mieltä mietinnön kanssa. Ne on toteutettava tehokkaassa oikeudellisen yhteistyön hengessä Euroopan unionin jäsenvaltioiden välillä. Asiaa voidaan ja sitä täytyy syventää ja rohkaista hallitusten välisen yhteistyön tasolla erityisesti yksinkertaistamalla menettelytapoja ja jopa yhdenmukaistamalla rikoslainsäädäntöjärjestelmiä, ilman että se välttämättä johtaa lainsäädännölliseen yhtenäistymiseen.
+<P>
+Koska oikeus mielipiteen ilmaisuun takaa viime kädessä jokaisen maan oikeuden turvata erityispiirteidensä säilyminen ja puolustaa riippumattomuuttaan, emme voi olla samaa mieltä joidenkin maiden kansainvälisiä sopimuksia koskevien julkilausumien ja varausten kumoamisesta.
+<P>
+Robles Piquerin mietintö (A4-0080/98)
+<SPEAKER ID=24 NAME="Gillis">
+Kannatan täysin Robles Piquerin mietintöä ja erityisesti siinä esitettyä vaatimusta niiden kehitysmaiden rankaisemisesta, jotka tuhlaavat avustuksista saatavat varat käyttämällä valtavia summia sotilaallisiin kuluihin.
+<P>
+Ensimmäisenä askeleena meidän on varmistettava, että Euroopan kehitysrahaston tukea, joka on monien kehitysmaiden päätulonlähde ja tärkeä, innostava kannustin, ei suunnata toisaalle eikä käytetä väärin sotilaallisiin tarkoituksiin.
+<P>
+Lisäksi meidän on vähennettävä eurooppalaista tukea tai lakkautettava se kokonaan niiden maiden osalta, jotka kieltäytyvät vähentämästä sotilaallisia kuluja ja jotka käyttävät edelleen enemmän kuin 1 %: n vuosituloistaan aseisiin ja asevoimiin.
+<P>
+Monessa osassa Afrikkaa käytävät sisällissodat, joita ylläpidetään valtavilla aseisiin käytettävillä summilla, tuhoavat kehitysavun vaikutukset, saattavat miljoonat ihmiset puutteenalaisiksi ja aiheuttavat laajan pakolaisongelman.
+<P>
+Nyt on käsittääkseni tullut aika ilmoittaa kehitysapuamme saaville, että liialliset sotilaalliset kulut näkyvät suoraan kehitysavun vähentymisenä.
+<P>
+Ruoka-apua ei tietenkään pidä vähentää siellä, missä on nälänhätä tai missä se uhkaa.
+
+<SPEAKER ID=25 NAME="Schörling">
+Euroopan parlamentin vihreät tukevat Robles Piquerin mietintöä, jossa käsitellään vuonna 1997 pidetyn AKT: n ja EU: n yhteisen edustajakokouksen tuloksia. Olemme jopa kannattaneet ehdotusta, jossa käsitellään sellaisen säädöksen laatimista, joka sallisi Euroopan ulkopuolisten maiden ja alueiden parlamenttien edustajien osallistumisen AKT: n ja EU: n yhteisiin edustajakokouksiin pysyvinä tarkkailijoina.
+<P>
+Olemme erittäin tyytyväisiä siitä, että niin AKT: n kuin EU: nkin kansalaisjärjestöille on myönnetty tarkkailijan rooli. Luulemme, että erityisesti AKT: n kansalaisjärjestöillä on tärkeä asema pyrkimyksissä demokratian, perusihmisoikeuksien ja kansalaisten kehitysyhteistyön osallistumisen lisäämiseksi.
+
+<CHAPTER ID=3>
+Luoteis-Atlantin kalastusjärjestö (NAFO) - Yhteisen kalastuspolitiikan valvonta
+<SPEAKER ID=26 NAME="Puhemies">
+Esityslistalla on seuraavana yhteiskeskustelu seuraavista mietinnöistä:
+<P>
+Varela Suanzes-Carpegnan laatima kalatalousvaliokunnan mietintö (A4-0086/98) ehdotuksesta neuvoston asetukseksi (EY) satelliittiseurantaa koskevan kokeiluhankkeen perustamisesta NAFO-sääntelyalueella 21 päivänä joulukuuta 1995 annetun asetuksen (EY) N: o 3070/95 muuttamisesta (KOM(97)0671 - C4-0666/97-97/0346(CNS)), -Teversonin laatima kalatalousvaliokunnan mietintö (A4-0019/98) komission kertomuksesta yhteisen kalastuspolitiikan valvonnasta 1995(KOM(97)0226 - C4-0334/97).
+<SPEAKER ID=27 NAME="Varela Suanzes-Carpegna">
+Arvoisa rouva puhemies, arvoisa rouva komissaari, arvoisat parlamentin jäsenet, Luoteis-Atlantin kalastusjärjestössä (NAFO) tehdyn yhteistyön kehyksessä hyväksyttiin syyskuussa 1995 kokeiluhanke kyseisen järjestön sääntelyalueella toimivien kalastusalusten satelliittivalvonnasta. Alunperin hanke oli tarkoitus toteuttaa 1. tammikuuta 1996 ja 31. syyskuuta 1997 välisenä aikana. Kuitenkin joulukuussa 1997 kokeiluhanketta päätettiin jatkaa vuodella.
+<P>
+Komissio kuulee parlamenttia tämän jatkoajan suhteen, jolle ei periaatteessa ole kuitenkaan enää vaihtoehtoja, koska se on jo hyväksytty NAFOssa ja koska määräaika päätöksestä valittamiseen on kulunut umpeen.
+<P>
+Meidän kantamme on siis myönteinen. Pidämme kuitenkin myös tarkoituksenmukaisena käyttää tätä tilaisuutta hyväksemme ja pohtia NAFON sääntelyalueen nykyisten eri valvonta- ja tarkkailuohjelmien ylläpitämistä, joista monet on pantu alulle kokeiluluonteisesti ja joiden todelliset toimintamuodot alueella, joka on tunnetusti muuttunut yhdeksi planeettamme eniten valvotuista ja tarkkailluista alueista, parlamentin on tunnettava perinpohjaisesti.
+<P>
+Jotta Euroopan unionilla voisi NAFOn vuosikokoukseen osallistuessaan olla luja parlamentin tukema kanta ja jotta olisi mahdollista luoda yksi yhtenäinen NAFO-alueen kalastusalusten valvontajärjestelmä, on parlamentin tiedettävä myös miten NAFOn muut sopimuspuolet soveltavat näitä eri valvontatoimenpiteitä käytäntöön ja soveltavatko ne niitä samassa määrin kuin Euroopan unioni.
+<P>
+Parlamentin kalatalousvaliokunnan hyväksymän tarkistuksen tavoite on liittää tämä parlamentti kurinalaisuuden ja avoimuuden politiikkaan.
+<P>
+Ei liene turhaa muistuttaa, että NAFO sääntelee kalastusta kansainvälisellä ulkomerellä, vaikkakin Kanadan yksinoikeutetun talousvyöhykkeen rajalla, jonka läheisyys on aina leimannut tällä alueella syntyneitä suhteita, jännitteitä ja konflikteja.
+<P>
+Niin kutsutun pallassodan jälkeen, joka syntyi siitä, kun Kanada valtasi laittomasti yhteisön Estai-aluksen kansainvälisillä vesialueilla, Euroopan unioni ja Kanada solmivat vaikeuksien jälkeen useita kahdenvälisiä sopimuksia - jotka muutettiin NAFOssa myöhemmin monenvälisiksi - ja ne sopivat jälkeenpäin myös siitä, että Kanadan ekstraterritoriaalista kalastuslainsäädäntöä ei sovelleta yhteisön kalastusaluksiin.
+<P>
+Konfliktin seurauksena lisättiin kanadalaisten pyynnöstä myös valvontatoimia, ja nykyisin on olemassa myös tarkkailujärjestelmä, joka velvoittaa satama-alueelle tulevien alusten tarkkailun lisäksi ne osapuolet, joilla on vähintään kymmenen NAFO-alueella toimivaa alusta, sijoittamaan alueelle vähintään yhden tarkkailualuksen.
+<P>
+Pakollinen on myös niin kutsuttu Hail -tunnistusjärjestelmä, jonka lisäksi kaikissa kalastusaluksissa on oltava tarkkailija. Samoin aluksilta vaaditaan, että niillä on oltava riittävät satelliittiseurantaan tarvittavat laitteet - kokeiluhanke, jonka määräaikaa nyt jatketaan ja joka komission kertomusten mukaan on edellyttänyt suuria ponnisteluja komissiolta ja jäsenvaltioilta, jotka maksavat osittain kustannukset, jotka olivat nousseet 50 000 ecuun sen jälkeen kun 21 alusta oli varustettu tarvittavalla tekniikalla.
+<P>
+Kuten sanoimme, nyt näyttää tulleen aika harkita tilannetta uudelleen ja pyrkiä löytämään sellainen järjestelmä, joka ei syrji minkäänlaisia aluksia, joka kohtelee kaikkia samanarvoisina, joka olisi toimiva, joka ei aiheuttaisi tarpeettomasti järjestelmien päällekkäisyyttä, joka olisi yhdenmukainen ja joka osoittautuisi ajan mittaan riittävän vakaaksi.
+<P>
+Tässä tilanteessa ja ottaen huomioon, että Euroopan unioni on täyttänyt sopimusten vaatimukset, on aiheellista kysyä, ovatko myös toiset sopimuspuolet, etenkin Kanada, täyttäneet kahden- ja monenväliset sekä kansainväliset velvoitteet. Yhteistyö ja vilpittömyys törmäävät pahoin ekstraterritoriaalisten lakiluonnosten tukemiseen, joka on aiheuttanut lähimenneisyydessä paljon vahinkoa.
+<P>
+Suurimman uhan NAFO-alueen kalastukselle ja rauhalle muodostavat, te tiedätte sen hyvin, rouva komissaari, sellaiset asenteet, joita on ollut esimerkiksi Kanadalla, sekä sellaiset lakialoitteet kuin nykyinen C-27, jotka loukkaavat edelleen kansainvälistä oikeutta yleensä sekä erityisesti merioikeutta, sillä se tulkitsee vääristellen New Yorkin vaeltavia kalalajeja koskevaa sopimusta, pitää jopa NAFO-sopimuksen sääntöjä ja toimivuutta epäluotettavana sekä uhmaa varomattomasti ja tarpeettomasti sitä vilpittömyyttä, josta Euroopan unioni on kaiken aikaa ollut ylpeä.
+<P>
+Tämän vuoksi pyydän komissiota osallistumaan tämän asian hoitamiseen.
+
+<SPEAKER ID=28 NAME="Teverson">
+Arvoisa rouva puhemies, yhteinen kalastuspolitiikka on epäilemättä tärkein väline, jolla voidaan varmistaa, että kaikilla Euroopan unionin vesillä on kestävät kalakannat. Kuten kaikki tiedämme, kalastuksen valvonta on yksi vaikeimmista tehtävistä. Osa ongelmaa on vakava epäluottamus eri kansallisten viranomaisten välillä - jopa, rohkenenko sanoa, täällä parlamentin jäsenten välillä - eikä vähiten tämän teollisuuden alan sisällä siitä, mitä mikäkin laivasto tekee ja kuinka hyvin ja kuinka yleistä kalastuspolitiikkaa ja sen valvontajärjestelmää sovelletaan.
+<P>
+Näiden vuosittaisten kertomusten antaminen parlamentille - tämä on toinen - on hyvä ajatus. Kun kuulin ensimmäistä kertaa, että niitä alettaisiin laatia, toivoin, että pystyisimme raivaamaan tiemme väärinkäsitysten ja huhujen läpi ja saamaan todella selville, kuinka hyvin yhteinen kalastuspolitiikka oli saatu toteutettua. Saisimme selville, kuinka hyvin valvonta toimii, ei vain unionissa kokonaisuutena, vaan jäsenvaltioiden välillä.
+<P>
+Tämän sijasta meillä on toista kertaa käsiteltävänä kertomus, joka on täynnä taulukoita ja tilastoja, jotka tekevät siitä hyvin kuivan. Nämä tilastot eivät ole vertailukelpoisia eri maiden välillä ja niitä on vaikea tulkita. Tämä tarkoittaa sitä, että jäsenvaltioiden välinen tai teollisuuden sisäinen luottamus siihen tai ymmärrys siitä, kuinka hyvin teollisuutta valvotaan, ei kasva. Tosiasiassa kertomuksessa selitetään pitkään virheitä ja ongelmia, ja kahdessa vuosittaisessa kertomuksessa on tähän asti ollut vain vähän jos minkäänlaisia merkkejä edistyksestä tai parannuksesta siltä ajalta.
+<P>
+Eikä siinä kaikki, kertomus on todella myöhässä. Tämä on kertomus vuodeksi 1995, mikä tarkoittaa, että olemme jääneet pahasti jälkeen. Kertomuksen pääongelmia on se, etteivät tilastot ole vertailukelpoisia, siinä ei ole esitetty mitään toimintasuunnitelmaa ongelmien ratkaisemiseksi eikä mitään moitteita siitä, miksi yhteinen kalastuspolitiikka on sellaisessa tilassa kuin se on. Kun siinä luodaan katsaus kyseiseen vuoteen, ongelmia ei ole korjattu eikä arvioitu. Tiedämme kaikki, että laitonta kalastusta esiintyy ja että kalaa tuodaan laittomasti maihin. Kuitenkaan tämän ongelman laajuutta ei ole mitenkään yritetty määritellä. Niinpä meillä on jälleen kerran käsiteltävänämme hampaaton kertomus.
+<P>
+Yksi meidän kaikkien kalastusteollisuudesta kiinnostuneiden, erityisesti täällä olevien edustajien, todellisista huolenaiheista on taas kerran jäsenvaltioiden täydellinen poliittisen tahdon puute saada tämä politiikka toimimaan. Jos emme saa sitä toimimaan, tulevaisuudessa ei tule olemaan kestävää politiikkaa tai kestävää kalatalousalaa. Parlamentin pitäisi olla tästä hyvin huolestunut. Itse asiassa asetuksessa määrätään, että jäsenvaltioiden olisi annettava selonteko tällaisen kertomuksen jälkeen siitä, mitä ne ovat tehneet asioiden edistämiseksi. Ei ole tiedossa, että yksikään jäsenvaltio olisi antanut selontekoa edellisen kertomuksen jälkeen. Yksikään jäsenvaltio ei ole välittänyt tehdä sitä, ja se on merkittävä huolenaihe.
+<P>
+Sanoisin komissiolle: olkaa rohkeita, nimetkää syylliset. Nimetkäämme jäsenvaltiot, joissa politiikka ei toimi. Älkäämme olko ujoja. Tämän kertomuksen tarkoituksena on julkistaa yhteisen kalastuspolitiikan ongelmat. Meidän pitäisi puhua niistä. Komissiolla on omat tarkastajansa, ammattilaiset, jotka ymmärtävät, mitä tapahtuu. Meidän pitäisi saada heiltä tietoa siitä, mitä todella tapahtuu. Älkäämme teeskennelkö, että nämä tilastot kertovat meille jotain. Totuus on, että ongelmia on paljon.
+<P>
+Toivon, että tulevat kertomukset tehdään ajallaan, että ne osoittavat selvästi, missä ongelmat ovat ja että niissä katsotaan tulevaisuuteen. Halusin nähdä kertomuksen poikivan toimintasuunnitelman ja voin tyytyväisenä sanoa, että tämän kertomuksen jälkeen komissio on laatinut sellaisen. Se julkaistiin helmikuussa ja se tulee aikanaan parlamentin käsiteltäväksi. Kuitenkin, vaikka tässä kertomuksessa käydään läpi kaikki tietämämme ongelmat ilmaisematta niitä määrällisesti, toivon, että se edustaa uutta katsantokantaa. Kertomus oli menetetty tilaisuus, mutta toivon, että toimintasuunnitelmassa, josta parlamentin on vielä keskusteltava, aloitetaan todelliset muutokset.
+
+<SPEAKER ID=29 LANGUAGE="DE" NAME="Kindermann">
+Arvoisa rouva puhemies, puhun Teversonin mietinnöstä. Jos katsoo komission kertomusta, voi vain olla samaa mieltä esittelijän kanssa. Meidän on toki oltava huolestuneita siitä, ettei valvonta ole parantunut vuosi sitten annetun ensimmäisen kertomuksen jälkeen ja että sen osalta ilmeisesti puuttuu jäsenvaltioiden poliittista tahtoa. On kuitenkin valitettavaa, että komission kertomus on niin niukka ja vähäsisältöinen. Siitä saa melkein sen vaikutelman, että komissio haluaa sillä päästä eroon kiusallisesta velvollisuudesta. Se on passiivinen ja liian epäröivä, kun tarvittaisiin ehdotonta toimintaa.
+<P>
+Olisi esimerkiksi ehdottoman välttämätöntä, että komissio antaisi jäsenvaltioille selvempiä ohjeita siitä, minkälaista tietoa niiden pitäisi luovuttaa, jotta saataisiin yhtenäistä tietoa, sillä vain niin tietoja voidaan ylipäänsä verrata ja vain niin voidaan sitten laatia mietintö, joka ei jätä suuremmassa määrin kysymyksiä lopussa avoimeksi vaan antaa vastauksia.
+<P>
+Lisäksi tarvittaisiin ehdottomasti toimintasuunnitelma jäsenvaltioiden suorittaman valvonnan parantamiseksi, toimintasuunnitelma, joka käsittää yhteisön kalastuspolitiikan kaikki alueet, siis myös esimerkiksi markkinointikanavat. Tämän toimintasuunnitelman olennaisena tavoitteena olisi oltava jäsenvaltioiden keskinäisen ja niiden ja komission välisen yhteistyön edistäminen.
+<P>
+Komissio ei voi kuitenkaan välttyä vakavasti miettimästä pakotteiden yhtenäistämistä, sillä vain pelottelu suojaa rikkomuksilta ja vain pakotteiden yhtenäisyys voi auttaa eri jäsenvaltioiden kalastajien valvontatoimia saavuttamaan uskottavuuden.
+<P>
+Se on myös viimeisen huomautukseni avainsana. Haluaisin erityisesti korostaa herra Teversonin mietinnön yhtä lausetta: " Komission kertomus on tämän vuoksi ratkaiseva osa YKP: n (yhteisen kalastuspolitiikan) uskottavuuden ylläpitoa." Pelkään, että tämä komission kertomus ei ole täysin täyttänyt tehtäväänsä siltä osin.
+
+<SPEAKER ID=30 LANGUAGE="DE" NAME="Langenhagen">
+Arvoisa rouva puhemies, voimme sovittaa selkkaukset vain yhdessä. Samaa sanotaan myös Varelan mietinnössä. EU: n ja Kanadan välisten erimielisyyksien taustaa vasten, jotka huipussaan maaliskuussa 1995 johtivat kansainvälisen oikeuden rikkomiseen, tätä NAFOn päätöstä on pidettävä erityisen ilahduttavana. NAFON sääntelyalueella toimivien kalastusalusten satelliittiseurannan kokeiluhankkeen jatkaminen asettaa suuntaviivat kansainvälisen kalastuspolitiikan rauhalliselle kehitykselle. Se oli todennäköisesti myös projektin jatkamisen syy. Näin on hyvä, sillä nykyinen rauhallinen tilanne voi lujittua sen ansiosta. Meidän tavoitteenammehan voi olla vain tiettyjen kalastusalusten sitovan satelliittivalvonnan käyttöönotto NAFON sääntelyalueella. Se on ilman muuta välttämätöntä kalakannan säilytystoimien valvomiseksi.
+<P>
+Liikenne- ja matkailuvaliokunnassa äänestetään ensi viikolla komission ensimmäisestä tiedonannosta eurooppalaisen satelliittinavigointijärjestelmän käyttöönottamiseksi lentoliikenteessä. Tämä uusi teknologia on välttämätöntä Euroopalle ja vakuuttavaa, eikä pelkästään minun mielestäni. Kolme vuotta NAFO-alueella riittää päätöslauselman aikaansaamiseksi satelliittivalvonnasta. Päätöslauselmalla on kiire, sillä jo NAFOn vuosikokouksessa ensi syyskuussa pitäisi saada aikaan EU: n yhtenäinen linja kalastusalueen valvonta- ja toteuttamistoimista. Kalastusvaliokunta tukee sen vuoksi tarkistusta 1, sillä NAFO-alueen valvontajärjestelmien yhtenäistäminen on lisäaskel selkkauksettomaan tulevaisuuteen. Komission siellä toteutettua valvontaa koskevan kertomuksen pitäisi viimeinkin antaa meille kaikille tilaisuus tehdä johtopäätöksiä. Parlamentilta ja komissiolta pyydetään sen vuoksi vastaavia toimia.
+<P>
+Teversonin mietinnöstä: on totta, että on aika onnistua saamaan aikaan ymmärrettäviä valvontamenetelmiä yhteisen kalastuspolitiikan noudattamiseksi. Mitä hyödyttävät lait ja sopimukset, jos ne eivät vaikuta yhteiskunnallisesti? Monet vierailijoistani ihmettelevät, että täällä parlamentissa poltetaan kaikkialla, vaikka monet kyltit kieltävät sen. Ja miltä näyttää Euroopan merillä? Siellä ei ole kylttejä, ja yhteisen kalastuspolitiikan periaatteet ovat jokaiselle tuttuja. Niistä ei kuitenkaan usein piitata, niitä ei saada riittävästi läpi tai valvota. Kokonaisen järjestelmän uskottavuus joutuu kyseenalaiseksi tällaisen käyttäytymisen johdosta. Liikakalastus voidaan estää vain, jos kalastuksen valvonta on tiukkaa ja käyttöön otetaan tehokkaita pakotetoimia tai paremminkin, kuten komissio sanoo, vastuullisesti toimiville jäsenvaltioille, joiden lukumäärä lisääntyy luojan kiitos, myönnetään tukea - taloudellistakin.
+<P>
+Tämän kiitosta rangaistusten sijaan -periaatteen lisäksi tilanteen paranemiseen voi vaikuttaa myös komission seikkaperäinen toimintasuunnitelma. Sen laatimista odotamme.
+<P>
+Komissio kiittää tosin kertomuksessaan jäsenvaltioiden välistä yhteistyötä tehokkaan valvonnan mahdollistamiseksi. Joiltakin jäsenvaltioilta puuttuu - ja tämähän on julkinen salaisuus - kuitenkin valitettavasti vielä oikea asenne kalastuspolitiikkaan. Ilman sitä meidän työmme jää kuitenkin hyväksynnättä ja huomiotta, kuten tupakointikieltokyltit täällä parlamentissa.
+
+<SPEAKER ID=31 NAME="Virrankoski">
+Arvoisa rouva puhemies, komission kertomus yhteisen kalastuspolitiikan valvonnasta vuonna 1995 ei ole kovin miellyttävää luettavaa. Yhteisten kalavarojen käyttö on itsekästä. Useat jäsenmaat eivät kunnioita yhteisesti hyväksyttyjä sääntöjä, vaan sallivat jatkuvasti kiintiöiden ylityksiä ja muita rikkomuksia. Herra Teverson on ottanut mietinnössään nämä ongelmat suorasukaisesti esille ja vaatinut tiukkoja toimenpiteitä. Haluan kiittää herra Teversonia rohkeasta ja puolueettomasta mietinnöstä sekä ennakkoluulottomasta aiheen käsittelystä.
+<P>
+Kalastuselinkeino poikkeaa muista elinkeinoista siinä, että kalavaroja ei voi lisätä. Toimenpiteet kohdistuvat vain olemassa olevien varojen hoitamiseen ja niiden hyväksikäytön valvontaan. Yhteisen kalastuspolitiikan keinot ovat siis vain lähinnä rajoittavia, eikä niillä voi juurikaan lisätä olemassa olevia resursseja.
+<P>
+Koska kalastus tapahtuu usein merellä ja pienissä yksiköissä, valvonta on yleensäkin vaikea toteuttaa. Mutta sitä vaikeammaksi se muuttuu, jos jäsenmaa ei halua sitä toteuttaa. EU: n omat mahdollisuudet ovat vähäiset. Voimassa olevat säädökset ovat monimutkaisia ja teknisesti vaikeita valvoa. Vaikka eri menetelmiä on kehitetty ja kehitetään, tulokset eivät ole kovinkaan hyviä.
+<P>
+Kalastusalaa leimaa erityisesti suurten kalastusmaiden välinen epäluulo. Jo tähänastinen kehitys on osoittanut, että monimutkaiset säännöt uhkaavat johtaa umpikujaan. Siksi liberaalien näkemys on, että sääntöjen tulisi olla yksinkertaisia ja valvonnan helppoa, halpaa ja tehokasta.
+<P>
+Yhteinen kalastuspolitiikka voi menestyä tulevaisuudessa vain, jos sillä on jäsenmaiden tosiasiallinen tuki. Lisääntyvät säännöt, kasvava byrokratia ja tehostuva valvonta ei sinänsä voi koskaan turvata menestyksellistä politiikkaa. Siksi kalastuspolitiikan tulevaisuus riippuu siitä, haluammeko me todella kehittää sitä vai emme.
+<P>
+Kalavarat ovat tärkeä ja ravintoarvoltaan arvokas ravinnon lähde. Siksi niitä on varjeltava ryöstökalastukselta, jotta ne voisivat säilyä vahvoina myös tuleville sukupolville.
+
+<SPEAKER ID=32 NAME="Seppänen">
+Arvoisa rouva puhemies, yhteisen kalastuspolitiikan perustavoitteena on kestävä kalavarojen hoitojärjestelmä. Välimerellä tunnetaan ne ongelmat, jotka aiheutuvat tonnikalojen ajoverkkopyynnistä. Se on luonnon riistämistä.
+<P>
+Meillä pohjoisessa on erityinen ongelma, joka on taloudellinen, ekologinen, mutta myös kielipoliittinen. Kysymys on lohen kalastamisesta. Niin sanottu luonnonlohi syntyy tietyillä jokialueilla, elää Itämeressä ja sen lahdissa ja palaa kutemaan kotijokeen. Geenien omaleimaisuuden takia näitä lohia kutsutaan luonnonlohiksi. Ne ovat EU: n luokituksen mukaan uhanalainen laji.
+<P>
+Luonnonlohen ohella Itämeressä elää istutettuja lajeja, joilla ei ole luonnonlohien arvokkaita alkuperäisiä geenejä. Niiden pääsaalis pyydetään ajoverkoilla Itämeren eteläisillä merialueilla, mutta sivusaaliina näihin samoihin verkkoihin ui lisääntymään menossa olevia luonnonlohia, joiden osuus Itämeren lohipopulaatiosta on noin kymmenen prosenttia.
+<P>
+Suomen hallitus vaatii Itämerta koskevaa poikkeusta EU: n komission ajamaan yleiseen ajoverkkokieltoon. Sillä tavalla halutaan suomalainen lohisaalis ohjata kolmelle- tai neljällekymmenelle pääosin ahvenanmaalaiselle venekunnalle sillä hinnalla, että näin menetetään luonnonlohien geenikanta ja tuhotaan tuottoisamman kalastuksen edellytykset lohien kotijoissa. Kun ne pääsevät kotijokiin lisääntymään, ne ovat painoltaan kaksinkertaisia verrattuna niihin lohiin, joita kalastetaan istutuslohien sivusaaliina merialueella.
+<P>
+Puheenjohtajamaa Yhdistyneen kuningaskunnan on kuun lopulla määrätietoisesti kalastusministereiden kokouksessa ajettava läpi linjaa, jolla ajoverkkokalastus kielletään. Siitä on sitten raportoitava kertomuksissa yhteisen kalastuspolitiikan valvonnasta. Koska kalastuspolitiikka on yhteisöasia, komission on pidettävä kiinni yhteisestä periaatteesta myös silloin, kun hallitukset, tässä tapauksessa oman maani Suomen hallitus, ovat väärässä.
+
+<SPEAKER ID=33 LANGUAGE="EN" NAME="McKenna">
+Arvoisa rouva puhemies, kannatamme herra Teversonin mietintöä ja hänen tekemiään johtopäätöksiä. Hyväksymme päätöslauselman, erityisesti huomautukset yleisen analyysin puutteesta ja komission kritiikin jäsenvaltioille siitä, etteivät ne ole edistyneet markkinointikanavien valvonnassa. Kuten sain selville, kun olin samaa alaa käsittelevän vuoden 1994 kertomuksen esittelijänä, EU: n alusten tarkkailun ja valvonnan taso vaihtelee laajasti maasta toiseen, mutta missään se ei ole tyydyttävä. Jäsenvaltioilta puuttuu ilmeisesti poliittinen tahto täyttää velvollisuutensa. Tämä on suuri ongelma. Jos jäsenvaltiot eivät voi tehdä sitä, mitä niiltä odotetaan, komission on pantava ne koville ja harkittava oikeudellisia keinoja, joilla saada ne toimimaan. Ehkä meidän pitäisi päivän päätteeksi harkita, pitäisikö valvonnan olla yhteisön vastuulla, koska tällä hetkellä jäsenvaltiot eivät täytä velvollisuuksiaan. On aivan selvää, että puuttuu poliittista tahtoa, ja asialle on tehtävä jotain.
+
+<SPEAKER ID=34 LANGUAGE="EN" NAME="Weber">
+Arvoisa rouva puhemies, käsittelemme taas tänään tärkeää kysymystä luonnonvarojen hallinnasta. Riita Kanadan ja EU: n välille syntyi 1995, kun kalakannat siirtyivät Kanadan 200 merimailin aluevesirajan ulkopuolelle ja kanadalaiset päättivät suojella kalakantoja aluevesirajansa ulkopuolella. Toisin kuin enemmistö silloisista kollegoista parlamentissa, kannatin täysin toimia, joihin kanadalaiset olivat ryhtyneet. Olen edelleen sitä mieltä, että kanadalaiset olivat oikeassa, koska kalat eivät ymmärrä, missä 200 merimailin raja päättyy ja kansainväliset vedet alkavat.
+<P>
+Olenkin nyt tyytyväinen siitä, että tämä selkkaus ratkaistiin neuvottelemalla. Kanada hyväksyi sen, ettei ekstraterritoriaalista kalastuslainsäädäntöä sovelleta kalastukseen NAFOn kansainvälisillä vesialueilla. Sovittiin myös useista valvontatoimista, joista mainittakoon sopimus, jonka mukaan jokainen alus on varustettava satelliittiseurantajärjestelmällä. Tästä keskustelemme tänään.
+<P>
+Ryhmäni kannattaa täysin satelliittiseurantaa koskevaa kokeiluhanketta. Mielestämme satelliittiseuranta on tärkeä valvontatoimi, jolla liikakalastus estetään. Siksi hyväksymme täysin herra Varela Suanzes-Carpegnan ja herra Teversonin suositukset ja onnittelemme heitä siitä, että niiden avulla kalatalousvaliokunnassa saavutettiin yksimielisyys.
+
+<SPEAKER ID=35 LANGUAGE="NL" NAME="Van Dam">
+Arvoisa rouva puhemies, eurooppalaisen kalastuspolitiikan uskottavuus riippuu kaikkien jäsenvaltioiden hyvästä valvontapolitiikasta. Komission vuosittainen kertomus valvontatoimista jäsenvaltioissa täyttääkin hyödyllisen tehtävän. Mutta hyvän kuvan saamiseksi valvonnan tehokkuudesta jokaisessa jäsenvaltiossa kertomusten pitäisi olla tasoltaan huomattavasti parempia. Vuoden 1995 kertomus ei ole itse asiassa muuta kuin mielenkiintoinen katsaus erilaisista tarkastustoimista jäsenvaltioissa.
+<P>
+On mahdotonta verrata tehokkuutta eri jäsenvaltioissa tämän kertomuksen pohjalta. Valvontajärjestelmät ovat siihen liian erilaiset ja tulosten esittely komission kertomuksessa liian rajoitettu.
+<P>
+Todettujen rikkomusten selvitys kertomuksessa on jopa erittäin vähäistä. Tällaiset tiedot ovat erittäin olennaisia kelvollisen kuvan saamiseksi tämän ongelman suuruudesta. Jotkin jäsenvaltiot eivät edes anna mitään tietoja rikkomuksista, kun taas toiset tyytyvät ilmoittamaan rikkomusten määrän, ilmoittamatta niiden laatua. Useimmat jäsenvaltiot jättävät tiedot annetuista rangaistuksista ja sakoista kokonaan pois.
+<P>
+Vaatimatta eurooppalaista rikosoikeutta haluan muistuttaa, että on välttämätöntä, että rangaistukset ovat jäsenvaltioissa mahdollisimman yhdenmukaisia. Ehkäisevän vaikutuksen pitää olla koko unionissa samanlainen.
+<P>
+Lopuksi maihin laittomasti tuodun kalan ongelma. On asiallista kartoittaa sitä paremmin. On olemassa vakavia epäilyjä siitä, että joissakin jäsenvaltioissa tuodaan suuria määriä kalaa laittomasti maihin, jolloin kierretään kiintiöt. BBC ilmoitti vuoden 1996 lopulla, että Yhdistyneessä kuningaskunnassa neljäsosa kalasta tuodaan maihin laittomasti. Tähän asti komissio ei ole kieltänyt eikä vahvistanut tätä. Mutta myös monissa muissa maissa järjestelmälliset tarkastukset kalan maihin tuomisen yhteydessä yhdistettynä ilmoitusvelvollisuuteen ovat välttämättömiä. Tämä aiheuttaa varmasti järjestelyyn liittyviä ongelmia niissä jäsenvaltioissa, joissa on monia satamia. Ongelmat ovat kuitenkin riittävän vakavia, joten valvonnan huomattava parantaminen on tarpeellista.
+
+<SPEAKER ID=36 LANGUAGE="ES" NAME="Medina Ortega">
+Arvoisa rouva puhemies, haluaisin mainita rouva komissaarille viisi kohtaa, jotka koskevat Teversonin mietintöä komission kertomuksesta yhteisen kalastuspolitiikan valvonnasta.
+<P>
+Ensinnäkin aika: kertomus käsittelee vuotta 1995 ja nyt on vuoden 1998 maaliskuu. Kysynkin komissiolta, eikö voitaisi laatia kertomusta esimerkiksi vuodeksi 1999 ja yhdistää vuodet 1996, 1997 ja 1998 yhteen ainoaan kertomukseen, jotta voisimme nähdä asiat nopeammin.
+<P>
+Toiseksi, rouva komissaari, kertomuksesta jäi vähän penseä vaikutelma, sillä itse asiassa komission tai komission yksiköiden työ - mikä näkyy sivuilla 10-59 - rajoittuu siihen, että ne ovat keränneet kansalliset raportit, laittaneet ne kansioon ja tuoneet tänne. Komissio on laatinut itse vain sivut 3-8 - mikä on 5 sivua - ja muutaman hyvin yksinkertaisen taulukon. Ne ovat niin yksinkertaisia, että toivon, etten aiheuta pahennusta, jos annan siitä esimerkin: yhdessä niistä sanotaan, että espanjalaisten tarkastajien lukumäärä on 30. Neljännessä alaviitteessä lisätään, että tähän lukuun, joka vastaa Madridissa työskenteleviä kansallisia tarkastajia, on lisättävä 232 itsehallintoalueiden viranomaisten palveluksessa toimivaa tarkastajaa - toisin sanoen, tarkastajia ei ole 30 vaan 252. Toisaalta Italiaa koskien todetaan, että teoriassa noin 5 200 henkilöä harjoittaa kalastuksen tarkastusta jossain muodossa. Ottaen huomioon, että italialaiset eivät harjoita kalastusta kovinkaan merkittävästi, tästä saa sellaisen kuvan, että jokaista kalaa tarkkailee yksi italialainen - minkä en usko olevan totta. Sen vuoksi pyytäisin komissiolta että seuraava kertomus olisi yhtenäisempi tai että ainakin tietoja muokattaisiin vähän huolellisemmin.
+<P>
+Kolmanneksi yhteisön valvontajärjestelmän puute. Mikä minua huolestuttaa, ei ole se, ettei yhteisöllä ole omaa valvontajärjestelmää, vaan se, että kaikki ne johtopäätökset, jotka luetellaan kertomuksen viimeisellä sivulla, on suunnattu jäsenvaltioiden väliseen yhteistyöhön; toisin sanoen, kaikki perustuu jäsenvaltioiden suorittamaan valvontaan. Jos kalastusta harjoittaville valtioille annetaan tehtäväksi omien kalastajiensa valvominen, on se sama kuin jos pyydettäisiin metsästäjäjärjestöjä valvomaan metsästäjiä. Tämä ei ole mahdollista. Siinä emme anna periksi.
+<P>
+Neljänneksi vähäinen rahoitus. Tämä myönnetään rohkeasti itse komission kertomuksessa sanomalla, että petosten seurauksena menetetään vuosittain 7-8 miljardia ecua, ja me käytämme valvontaan 300 miljoonaa, toisin sanoen, jos käyttäisimme enemmän, säästäisimme rahaa. Kysynkin, onko rahoitustoimia tämän valvonnan ylläpitämiseksi mahdollista lisätä - tiedän, että rouva komissaari sanoo minulle, että talousarviota koskeva toimivalta kuuluu parlamentille.
+<P>
+Lopuksi esitän myönteisen huomion, rouva puhemies, myönteistä ovat uudet järjestelmät: satelliittivalvontajärjestelmät ja lisäksi NAFOn valvontajärjestelmä, josta herra Varela meille puhui. Yhdessä asiassa en ole samaa mieltä herra Varelan kanssa, sillä hän pyytää, että NAFOsta laadittaisiin toinen mietintö. Kysymys kuuluu: eikö olisi mahdollista esittää meille piakkoin yhteinen mietintö siten, että erilaisten mietintöjen sijaan meillä olisi yksi ainoa, joka sisältäisi NAFOn sekä muut järjestelmät?
+
+<SPEAKER ID=37 LANGUAGE="EN" NAME="McCartin">
+Arvoisa rouva puhemies, hyväksyn herra Teversonin mietinnön hyvin rehellisenä yrityksenä esittää selkeästi kalatalousvaliokunnan mielipide. Kuuntelin rouva McKennaa hyvin tarkkaavaisesti. Huomasin kiinnostuneena, että vaikka hän jatkuvasti vastustaa Euroopan unionin olemassaoloa, tänä aamuna hän halusi antaa sille lisää valtuuksia merien valvonnan alalla. Olen taatusti samaa mieltä.
+<P>
+Koska olen kiinnostunut Euroopan unionin imagosta, toivon joskus, ettei meillä olisi vastuuta yhteisestä kalastuspolitiikasta. Olisimme voineet tehdä siitä jotain, josta Euroopan unioni olisi hyötynyt. Se olisi voinut olla pieni saavutuksen helmi. Luullakseni kaikki, mitä voimme sanoa, on, että Euroopan unionin kalastajat eivät ole upotelleet toistensa laivoja tai tappaneet toisiaan taistellessaan kaloista, kuten joissakin maailman kolkissa on käynyt. Tätä lukuun ottamatta yhteinen kalastuspolitiikka on laajasti katsoen epäonnistunut.
+<P>
+On kaksi näkökohtaa. Yksi liittyy ympäristöön: merien kuntoon. Toinen liittyy talouteen. Olisimme voineet parantaa merellistä ympäristöä huomattavasti ja samalla voisimme, ainakin tulevaisuudessa, auttaa kalastajia saamaan paremman toimeentulon ja suurempia voittoja. Mutta näyttää siltä, että olemme sivuuttaneet kaikki varoitukset. Kun tulemme tänne ja valitamme petoksista yhteisön alueella, saamme tyydytystä, lukuja ja toimintaa, mutta emme koskaan kalastusalalla. En syytä komissiota. Syy on täysin jäsenvaltioiden poliittisen tahdon puutteessa ja kalastajien ja hallitusten välisessä luottamuspulassa. Meidän on yritettävä paljon kovemmin Euroopan unionin tasolla, jos haluamme saada kaikki vakuuttuneiksi. Jos kuollut kala löytyy virrasta, järvestä tai sisämaan vesistöstä missä tahansa Euroopan unionin alueella, syttyy sota; joku haastetaan oikeuteen ja ihmisiä tuodaan oikeuteen. Tuhansia tonneja pikkukalaa heitetään vuosittain mereen. Kukaan ei piittaa vähääkään.
+<P>
+Haluan tehdä erityisvalituksen. Minun on käsiteltävä näitä asioita omassa vaalipiirissäni: Irlannin länsirannikon kalastajat valittavat Hollannissa rekisteröityjen alusten harjoittavan törkeää liikakalastusta. He väittävät, että kalat viedään Las Palmasiin ja ettei tätä tarkkailla tai valvota. En halua olla kansallismielinen. Uskon, että kaikki kalastajat ovat osasyyllisiä. Mutta haluaisin, että erityisvalituksista laadittaisiin ainakin selonteko ja että niitä kommentoitaisiin.
+
+<SPEAKER ID=38 LANGUAGE="EN" NAME="Hardstaff">
+Arvoisa rouva puhemies, myös minä haluan onnitella esittelijöitä heidän mietinnöistään. Sekä Varela Suanzes-Carpegnan että Teversonin mietinnön yhteisenä huolenaiheena on kansainvälisten ja yhteisön kalastussopimusten tehokkaan valvonnan ja toimeenpanon tarve. Kuten sanottu, meidän on varmistettava, että kaikkia noiden sopimusten määräyksiä noudatetaan, jos kalakannat aiotaan pitää kestävällä tasolla.
+<P>
+Kuten kaikki tiedämme, Euroopan kalastusyhteisöt suhtautuvat hyvin epäluuloisesti siihen, että muiden maiden kalastajat pääsevät pälkähästä, vaikka he uhmaavat sääntöjä, eivätkä siksi ymmärräkään, miksi heidän pitäisi noudattaa niitä. Tämä on pääsyy yhteistä kalastuspolitiikkaa kohtaan tunnettuun vihaan ja kaunaan. Se, että keskustelemme vuoden 1995 komission kertomuksesta YKP: n valvonnasta maaliskuussa 1998, todistaa siitä hitaudesta, jolla toimeenpanoon on ryhdytty.
+<P>
+Suhtaudun siksi myönteisesti komission ehdotukseen alusten satelliittiseurantaa koskevan kokeiluhankkeen jatkamisesta NAFO-sääntelyalueella 31. joulukuuta 1998 asti. Toivon tosiaankin, ettei se jää pelkäksi kokeiluhankkeeksi, joka päättyy vuoden lopussa, vaan että siitä tulee perusta monipuoliselle satelliittiseurantajärjestelmälle, jota voidaan käyttää paljon laajemmalla alueella, myös Välimerellä, jossa yhteisön alukset ovat kiintiö- ja valvontajärjestelmän alaisia.
+<P>
+Meidän on annettava selonteko kokeiluhankkeen tehokkuudesta ennen vuoden loppua, niin että tarvittavat tarkistukset ja laajennukset voidaan tehdä suunnitelmaan, jos se osoittautuu arvokkaaksi lisätekijäksi kalakantojen suojelemisessa, jonka me kaikki haluamme saada aikaan.
+
+<SPEAKER ID=39 LANGUAGE="ES" NAME="Imaz San Miguel">
+Arvoisa puhemies, haluaisin aloittaa onnittelemalla esittelijä Varelaa ja Teversonia.
+<P>
+Totuus on se, että kalastuksen valvonnassa, olemme kaikki siitä samaa mieltä, on monia puutteita - ja tämä mietintö tuo sen esiin. Toisaalta, kuten rouva Medina jo sanoi, koska komissiolla itsellään ei ole riittävästi toimintamahdollisuuksia tällä alalla, jolla meillä parlamenttina ja budjettivallan käyttäjänä on myös jonkin verran vastuuta ja toisaalta, koska monilta jäsenvaltioilta puuttuu poliittista tahtoa. Tämä on väärin, sillä jos kalastusta ei valvota riittävästi, harjoitamme sikäli heikkoa politiikkaa, että vaarannamme ne kalavarat, joista kalastuksen olemassaolo tulevaisuudessa riippuu.
+<P>
+Mutta tämän lisäksi on myös laillisia kalastusaluksia. On kalastusaluksia, jotka toimivat toteuttaen kaikkia teknisiä toimenpiteitä. Sen vuoksi, mikäli valvonta on puutteellista, vähennämme sääntöjä noudattavien alusten kilpailukykyä. Mikäli lisäämme teknisten toimenpiteiden vaatimuksia, heikennämme entisestään kaikkien niiden alusten kilpailukykyä, jotka niitä toteuttavat. Sen vuoksi tämä ongelma vaatii ratkaisua. Mietinnössä mainitaan joitakin tällaisia toimenpiteitä, minkä vuoksi haluan onnitella esittelijöitä.
+<P>
+Tässä mietinnössä todetaan kuitenkin toinenkin tärkeä asia: että valvontaa ei pidä soveltaa ainoastaan kalastusvaiheessa; sitä on painotettava myös markkinoiden ja kaupallistamisen valvonnassa. Komissiota pyydetään myös tutkimaan tiettyjä mahdollisesti esiin tulevia petoksia. Esimerkiksi petoksia, joita tehdään lääkkeitä valmistavien maiden yleisessä tullietuusjärjestelmässä tapahtuvassa tonnikalan seläkkeiden tuonnissa.
+<P>
+Rouva komissaari, te kirjoititte eilen hyvin kauniin artikkelin, joka käsitteli lääkkeitä ja silloin tällöin tapahtuvia törkeyksiä. Mielestäni kalastus on myös petosten lähde, ja lisäksi... se ei johdu solidaarisuuden puutteesta tämän asian suhteen, mutta kaikkien Euroopan unionin talouden alojen on tuettava sen solidaarisuutta, ei ainoastaan kalastusalan.
+<P>
+Tässä mietinnössä todetaan myös eräs toinen petoksiin liittyvä asia, jota haluaisin korostaa. Se koskee mahdollisesti vilpillistä muista maista peräisin olevaa turskan tuontia Norjan kautta. Toisin sanoen, on vahvoja epäilyksiä siitä, että osa Jäämeren 800 000 turskatonnista, joista 50 % kuuluu käytännöllisesti katsoen Venäjän kiintiöön, saattaa tulla yhteisön markkinoille Norjan kautta. Sen vuoksi tämä mietintökin korostaa sitä, että valvontatoimenpiteitä on tiukennettava, ja minä kannustan komissaaria, että hän luonteelleen ominaisella rohkeudella ja tämän mietinnön johtopäätösten pohjalta, sekä tietenkin komission harjoittaman politiikan avulla perehtyisi tarkkaan yhteisen kalastuspolitiikan valvontaan, sillä tämä vaikuttaa epäilemättä kestävän kalastuspolitiikan mahdollisuuksiin tulevaisuudessa.
+
+<SPEAKER ID=40 LANGUAGE="DE" NAME="Von Habsburg">
+Arvoisa rouva puhemies, Teversonin mietintö, josta haluaisin puhua, on yksi masentavimmista, joita milloinkaan olemme saaneet lukea. Sillä jos muistaa kuten minä, että meille sanottiin, että meressä on tulevaisuus, siellä on rajoittamattomasti elintarvikkeita, siellä meillä on käytössämme kaikkea, ja joutuu nyt vain joitakin vuosia sen jälkeen lukemaan, mitä herra Teverson sanoo, päätyy tulokseen, että hän välittää surullisen kuvan. Toisaalta meidän on sanottava itsellemme, että on vielä monia syitä olla optimistisia, ennen kaikkea sen vuoksi, että meillä on erinomainen kalastuskomissaari, joka on energisesti saanut tahtonsa läpi monessa asiassa. On kuitenkin myös totta, että me olemme vieläkin riippuvaisia kansallisista hallituksista, joilla ei ole aina tahtoa. Ne ovat aivan liian heikkoja, olkoon kysymyksessä politiikka tai turvallisuus. Hallitustemme heikkous on Euroopan heikkoutta, ja sen vuoksi se surullinen osa, joka maanosallamme tällä alueella on, liikuttaa siitä huolimatta, että puhumme aina vain Euroopasta. Todellisia rikollisia merellä ovat venäläiset, amerikkalaiset ja japanilaiset suurine teollisuuksineen, jotka hävittävät tosiasiallisesti kokonaisia seutuja. Tarvitsee vain katsoa Etelä-Amerikan rannikoita, jotta tietää, mitä siellä tapahtuu.
+<P>
+Uskon, että Teversonin mietintö on meille merkki siitä, että meidän olisi taas mahdollisimman pian vaadittava hallituksiltamme, että ne vihdoinkin ryhtyvät tarmokkaiksi, sillä muuten ne upottavat Euroopan vielä syvemmälle.
+
+<SPEAKER ID=41 NAME="Bonino">
+Arvoisa rouva puhemies, arvoisat naiset ja herrat, olen tyytyväinen näihin kahteen mietintöön, koska ne eivät anna ainoastaan hyvin tarkkoja vastauksia eri kysymyksiin, vaan koska ne tarjoavat lisäksi mahdollisuuden aloittaa hyvin tärkeä keskustelu valvontatoimista ja vastuun jakamisesta. Niinpä onkin sopivaa selvittää jokaisen vastuu yhteisessä politiikassa, olipa kyse sitten kalastuksesta tai maanviljelystä, sillä ei ole väliä, koska oikeudellisessa mielessä kuulumme kaikki samaan järjestelmään.
+<P>
+Haluaisin ensin esittää kaksi ajatusta. Kuten tiedätte, kannatan hyvin voimakkaasti eurooppalaisuusaatetta, ja odotan paljon monilta tänään kuulemiltani puheenvuoroilta, koska jopa varautuneimpienkin parlamentin jäsenien joukossa useimmat pyysivät kalastuksen valvonnan suhteen komissiolle lisää oikeuksia. Olen siitä iloinen, koska se on juuri yksi niistä tekijöistä, joiden vuoksi valvontatilanne, niin kalastusalalla kuin muillakaan poliittisilla aloilla, ei ole tyydyttävä.
+<P>
+Toinen ajatus koskee kahta mietintöä, joista keskustelemme yhdessä. Ensimmäisessä, Varelan mietinnössä, ehdotetaan pääpiirteissään - jos herra Varela sallii tämän minulle - että komissio suostuu liian tiukkaan valvontaan. Näin olin ymmärtävinäni. Korostan sitä paitsi, että komissio suostuisi harkitsemaan ja jopa haluaisi harkita yhdessä parlamentin kanssa, kuten herra Varela ehdotti, kaikkien valvontajärjestelmien ja -toimien monitahoisemman analyysin tekemistä. Olisimme vähemmän taipuvaisia panemaan tämän kaiken paperille ilmeisistä luottamuksellisuuden syistä, jotka herra Varela voi ymmärtää, ei ainoastaan sopimuspuolien, vaan myös kolmansien osapuolien vuoksi.
+<P>
+Toisessa, Teversonin mietinnössä annetaan aivan ilmeisesti ymmärtää, että komissio ei ole tarpeeksi ankara valvonnan suhteen. Olkoon niin, mutta olen sitä mieltä, että on tärkeää arvioida eri näkökohtia. Tässä tarkoituksessa nojaudun ehkä herra Medinan hahmottelemaan luonnokseen, jonka hän teki esittämällä minulle viisi kysymystään.
+<P>
+Kyseessä ovat ensinnäkin määräajat. Olemme maaliskuussa 1998, ja tarkastelemme kertomusta, joka liittyy vuoteen 1995. Tiedätte, miten näitä kertomuksia laaditaan, tunnette hyvin menetelmän. Jäsenvaltiot laativat kansalliset, väliaikaiset kertomukset. Sen jälkeen komissio, herra Medina, ei tyydy asettamaan sanoja peräkkäin; sen on järjestettävä kahdenvälisiä keskusteluja väliaikaisista kertomuksista, koska jäsenvaltioilla on täysi oikeus keskustella asiasta uudelleen komission yksiköiden kanssa ennen minkä tahansa asiakirjan julkaisemista ja vastata kaikkiin kysymyksiin. Ja tätä varten komissiossa on 22 tarkastajaa; ehkä pitäisi merkitä pöytäkirjaan se, että yhteisen kalastuspolitiikan osalta komissiolla on "kaksikymmentäkaksi tarkastajaa" , ja että loppujen lopuksi valvonta kuuluu jäsenvaltioiden ensisijaiseen vastuuseen. Näin perustamissopimuksessa ja työjärjestyksessä määrätään. Ettekö pidä laillani tällaista Euroopan rakentamistapaa turhauttavana? Edelleen kuitenkin on niin, että tällä hetkellä valvonta kuuluu jäsenvaltioiden ensisijaiseen vastuuseen, mistä johtuvat tietyt heikkoudet oikeudellisella tasolla ja inhimillisten resurssien ja taloudellisten varojen tasolla. On siis vaikeaa, herra Medina, edes tietää kuinka monta tarkastajaa meillä on käytössämme. Käytämme siis jäsenvaltioiden meille antamia tietoja.
+<P>
+Ja ehkä tämä on oikea ja aika paikka lukea teille valvonta-asetuksen 32 artiklan 2 kohdan sisältö, jossa määrätään, että kun komission virkamiehet - joita on kaksikymmentäkaksi viittätoista jäsenvaltiota kohden, avomerta, markkinoita, satamia varten - osallistuvat tutkimukseen tai tarkastukseen, tutkimusta johtavat aina kyseisen jäsenvaltion virkamiehet. Komission virkamiehet eivät voi, omasta aloitteestaan, harjoittaa kansallisille virkamiehille myönnettyä tarkastusvaltaa. Voisin jatkaa. Kaikki tarkistukset on uskottava kansallisille tarkastajille, joita on teoriassa, esimerkiksi Italiassa, x-määrä yhtä kalaa kohden; mutta olisi kiinnostavaa tietää, kuinka monta heitä on, esimerkiksi Espanjassa, jos tämä jäsenvaltio voisi, kuten muutkin, antaa meille ei ainoastaan pääkaupungin, vaan myös autonomisten maakuntien tarkastajien määrän.
+<P>
+Komissiolla ei siis ole salaista poliisia, vaan sen tehtävänä on ainoastaan jäsenvaltioiden etuoikeuksiin kuuluvan valvonnan koordinointi. Näin ollen on valitettava tietojen yhdenmukaisuuden puutetta. Kyllä, näin on, ja joka neuvostossa komissio muistuttaa jäsenvaltioita niiden myöhästymisistä ja sitoumuksista. Tilanne on tällainen. Ehkä voitaisi, kuten rouva McCartin sanoi, tehdä jotain; pitäisi enää tietää, mitä. Mikä siis on lyhyesti sanottuna kyseessä oleva ongelma? Jo vuodesta 1995 alkaen komissiossa ja parlamentissa on äänestetty uusista valvontamääräyksistä, erityisesti satelliittivalvonnan alalla, jotka tulevatkin piakkoin voimaan. Olen sitä mieltä, että uusien lainsäädännöllisien määräyksien avulla voimme taata tyydyttävämmän valvonnan, mutta myös, että ehkä on taattava jonkinlainen synergia komission, Euroopan parlamentin ja, jos mahdollista, kansallisten parlamenttien välille, jotta voitaisi kohdistaa halutut paineet tarkalleen sinne, missä niitä tarvitaan. Tämä on melkoinen urakka, herra Teverson, ja lopetan tähän; sanoitte komissiolle "Olkaa rohkeita, älkää olko ujoja, nimetkää jäsenvaltiot." Olen pahoillani, se ei ole mahdollista.
+<P>
+Tosiaankin, lakiosasto ei salli oikeutetusti jäsenvaltioiden nimeämistä oikeudellisesti pätevien todisteiden puuttuessa. Ottaen huomioon tutkinta-alalla puuttuvan itsemääräämisoikeuden, on mahdotonta löytää oikeudellisesti päteviä todisteita.
+<P>
+Tästä syystä on yksinkertaisesti mahdotonta löytää oikeudellisesti päteviä todisteita siitä, mistä kaikki ovat tietoisia, black landing -ilmiöstä, ja niin edelleen, ja niin edelleen, vastuun nykyisessä jakautumistilanteessa valvonnan ja jonkinlaisen yhteisen politiikan välille. Se on lähes mahdotonta.
+<P>
+Hyvät naiset ja herrat, komissio hyötyy varmasti Ison-Britannian puheenjohtajakauden tahdosta parantaa valvontajärjestelmää. Ajattelemme erityisesti valvonta-asetuksen 1993 tarkistamista ja toivomme, että uuden tekniikan, satelliittien ja muun, käyttöönotolla pystymme parantamaan tilannetta. Mutta on varmaa, että ilman jäsenvaltioiden painostusta ja omaa tahtoa, joudumme, joudutte, kuten komissiokin, aika turhauttaviin tilanteisiin määräaikojen, tietojen yhdenmukaistamisen, valvonnan ja suoran soveltamisen osalta.
+
+<SPEAKER ID=42 NAME="Puhemies">
+Keskustelu on päättynyt.
+<P>
+Siirrymme äänestykseen.
+<P>
+Ensin äänestys Varela Suansez-Carpegnan mietinnöstä (A4-0086/98).
+<P>
+(Parlamentti hyväksyi lainsäädäntöpäätöslauselman.) Siirrymme äänestykseen Teversonin mietinnöstä (A4-0019/98).
+<P>
+(Parlamentti hyväksyi päätöslauselman.)
+<CHAPTER ID=4>
+Kalastuslaivastojen monivuotiset ohjausohjelmat
+<SPEAKER ID=43 NAME="Puhemies">
+Esityslistalla on seuraavana Cunhan laatima kalatalousvaliokunnan mietintö (A4-0046/98) vuosikertomuksesta neuvostolle ja Euroopan parlamentille kalastuslaivastojen monivuotisten ohjausohjelmien kehityksestä vuoden 1996 lopussa (KOM(97)0352 - C4-0393/97).
+
+<SPEAKER ID=44 NAME="Cunha">
+Arvoisa rouva puhemies, 80-luvun alussa yhteisön ylisuuren kalastuslaivaston harjoittama kalavarojen ryöstökalastus alkoi saada hälyttäviä mittasuhteita. Tilanteen vakavuuden johdosta komissio esitti vuonna 1983 ensimmäisen monivuotisen ohjausohjelman (MOO), jonka tarkoituksena oli vähentää kalastusponnistuksia ja jonka perusmuuttujiksi otettiin vetoisuus ja alusten moottoriteho.
+<P>
+MOO I: tä seurasivat MOO II ja MOO III, jotka kattoivat vuodet 1992-1996 ja joiden perusteella määriteltiin eritellyt tavoitteet kalastusponnistusten vähentämiseksi: 20 % pohjakalalajien ja 15 % meren pinnassa elävien lajien osalta. Maailmanlaajuinen kalastuslaivaston pienentäminen on näin ollen riippuvainen laivaston rakenteesta, kalastettavista lajeista ja käytetyistä menetelmistä. MOO III: n tuloksena, jota olemme analysoimassa, laivaston kapasiteettia vähennettiin 15 %: lla vetoisuuden ja 9, 25 %: lla moottoritehon osalta.
+<P>
+Kuten mietinnöstä käy ilmi, maailmanlaajuisella tasolla asetetut tavoitteet saavutettiin yhdenmukaisesti kaikissa maissa. Näin ollen Tanska, Saksa ja erityisesti Espanja sekä Portugali vähensivät sekä laivastojensa kapasiteettia että moottoritehoa jopa asetettuja tavoitteita enemmän. Muissa tapauksissa tavoitteita ei kuitenkaan saavutettu, ja lisäksi eräät jäsenvaltiot nostivat jo olemassa olevaa kapasiteettiaan.
+<P>
+Tässä tilanteessa on tehtävä joitakin huomioita. Komission kertomus osoittaa, että lähes kaikilla jäsenvaltioilla on ollut teknisiä vaikeuksia täyttää alusten vetoisuuden mittayksiköiden yhdenmukaistamiseksi asetetut aikarajat. On odotettavissa, että nämä tekniset ongelmat ratkaistaan MOO IV: n ensimmäisen voimassaolovuoden aikana.
+<P>
+Tilanne on huolestuttavin moottoritehon osalta, koska jokainen jäsenvaltio käyttää omaa laskutapaansa. Komission on välittömästi tehtävä ehdotuksia, jotka helpottavat tehonmittausta koskevien kriteerien yhdenmukaistamista. Se on ainoa keino, jonka avulla voidaan tehdä vertailevaa analyysia eri jäsenvaltioissa ja arvioida asetettujen tavoitteiden saavuttamista.
+<P>
+Vielä vakavampaa on komission kertomuksesta saatava käsitys siitä, että joillakin kansallisilla hallintoelimillä on vähäinen halu antaa komissiolle luotettavia tietoja laivojensa tilasta, sekä käsitys siitä vähäisestä kiinnostuksesta, joka niillä näyttää olevan toteuttaa asianmukaisia toimenpiteitä kapasiteetin vähentämiseksi MOO: ssa asetettujen tavoitteiden mukaisesti.
+<P>
+Näin aikaisempien ohjelmien laiminlyönnit siirretään seuraaviin ja menneet unohdetaan. Itse asiassa on huolestuttavaa, että monivuotisissa ohjausohjelmissa asetetut tavoitteet jätetään jäsenvaltioiden toteutettaviksi niiden hyvään tahtoon luottaen. Ne välineet, jotka komissiolla on käytettävissään määräysten noudattamiseksi, ovat tehokkuudeltaan kyseenalaisia, eivätkä ne kannusta jäsenvaltioita ryhtymään asianmukaisiin toimiin laivastojen pyyntiponnistusten vähentämiseksi asetettujen tavoitteiden mukaisesti.
+<P>
+Tässä tilanteessa ja sen takia, että kansallisten laivastojen tasapainotettu muutos on välttämätön keino taata varojen säilyminen sekä kannattavan ja kilpailukykyisen unionin alueella tapahtuvan yhteisön kalastuksen tulevaisuus, on välttämätöntä, että neuvosto ja jäsenvaltiot omaksuvat vastuunsa ja siten säätävät rankaisutoimenpiteitä, jotka ovat aidosti tehokkaita siinä tapauksessa, että monivuotisissa ohjausohjelmissa asetettuja tavoitteita ei saavuteta.
+<P>
+Nykyisessä tilanteessa olisi tarkoituksenmukaista analysoida mahdollisuutta laatia jäsenvaltioiden kiintiöiden kvasiautomaattisia vähennyksiä, mikäli valtiot eivät saavuta asetettuja tavoitteita.
+<P>
+Lopuksi haluan onnitella valiokuntaa onnistuneesta mietinnöstä ja kiirehtiä neuvostoa ottamaan käyttöön tehokkaan rangaistusjärjestelmän, mikäli asetetut tavoitteet jätetään tarkoituksella täyttämättä. Mikäli näin ei tehdä, petymme toinen toiseemme, ja siinä tapauksessa on parasta rikkoa se valheellinen julkisivu, joksi monivuotisten ohjausohjelmien suunnitelmat muuttuvat.
+
+<SPEAKER ID=45 LANGUAGE="DE" NAME="Kindermann">
+Arvoisa rouva puhemies, rouva komissaari, monivuotiset ohjausohjelmat I, II ja III vuodesta 1983 vuoden 1996 loppuun eivät ole kyenneet poistamaan Euroopan unionin ylimitoitettujen kalastuslaivastojen ja kalavarojen kriittisen tilanteen välistä epäsuhtaa. Tähän on monia syitä. Esittelijän mukaan niitä ovat ensinnäkin jäsenvaltioiden erilaiset mitoitusperusteet monivuotisia ohjausohjelmia toteutettaessa ja toiseksi jäsenvaltioiden pidättyvä suhtautumistapa tavoitteiden täytäntöönpanoon.
+<P>
+On ilmeistä, että jäsenvaltioissa oli erittäin suuria eroja juuri täytäntöönpanossa. Komission hyvästä tahdosta huolimatta - ja syytän tästä myös jäsenvaltioita - tavoitteiden täytäntöönpanossa on vielä huomattavasti parannettavaa. On tosin ilahduttavaa, että vuodesta 1992 vuoteen 1996 on edistytty. EU: n kalastuslaivasto pieneni tonnimäärältään ja koneteholtaan. Kalastettujen kantojen kriittistä tilaa se ei ole kuitenkaan juuri muuttanut. Sen vuoksi on epävarmaa, saako MOO IV aikaan perustavaa parannusta.
+<P>
+Tämän osoitti jo MOO IV: n ensimmäisten tavoitteiden vastustaminen joissakin jäsenvaltioissa. Päätetyt tavoitteet ovatkin mielestäni loppujen lopuksi horjuvia. Jos MOO IV: n on tarkoitus tuoda toivottua tulosta, komission on - tässä olen samaa mieltä esittelijän kanssa - käytettävä välineitä, joilla on myös vaikutusta ja jotka eivät ole riippuvaisia jäsenvaltioiden hyvästä tahdosta.
+<P>
+Yhtä tärkeää kohtaa en haluaisi jättää huomiotta: sosioekonomiset vaikutukset ensinnäkin itse kalastajiin mutta myös koko rannikkoalueeseen. Siinä näen jäsenvaltioiden suurimmat vaikeudet tulevaisuudessa ja toivon, ettei kalastuksesta puhuta rakennerahastokeskusteluissa vain sivulauseissa.
+
+<SPEAKER ID=46 NAME="Fraga Estévez">
+Arvoisa rouva puhemies, mielenkiintoisinta herra Cunhan - jota onnittelen - mietinnössä on se, että nyt kun kolme monivuotista ohjausohjelmaa on saatettu päätökseen, on meidän edelleenkin tuotava julki se, että eräät jäsenvaltiot eivät täytä ohjelmien tavoitteita. Tämä itsekäs suhtautuminen on suurin syy siihen, ettei säilyttämistavoitteita pystytä täyttämään, ja lisäksi se synnyttää kilpailua, joka on epälojaalia tavoitteet täyttäviä jäsenvaltioita kohtaan.
+<P>
+Kuten herra Cunha sanoo mietintönsä C kohdassa, monivuotisten ohjausohjelmien tavoitteiden saavuttaminen on ehdoton edellytys alan kestävän kehityksen varmistamiseksi. Tämän toteamuksen kannattaminen - kuten minun tapauksessani - merkitsee sen turhautunutta myöntämistä, että tavoitteiden laiminlyönti joidenkin jäsenvaltioiden osalta estää koko yhteisön laivastolta kestävän kehityksen. Tämä osoittaa epäsolidaarisuutta, jota ei voida hyväksyä.
+<P>
+Hyväksymällä MOO IV: n pystyimme vahvistamaan sen, että tiettyä kehitystä on tapahtunut. Erityisesti komissio näyttää selvästi sitoutuneen enemmän siihen, että tämä uusi monivuotisten ohjausohjelmien sukupolvi toteutetaan tasavertaisemmissa olosuhteissa, jotka eivät erottele eri jäsenvaltioiden laivastoja.
+<P>
+Haluaisin kuitenkin mennä pitemmälle ja pyytää päättäväistä toimintaa. Tämän vuoksi herra Cunhan pyyntö tehokkaamman rangaistusjärjestelmän käyttöönottamisesta, jolla voidaan jopa pienentää kalastuskiintiöitä, on mielestämme asianmukainen, ja se on yksi niistä syistä, miksi kannatamme hänen mietintöään.
+<P>
+Mietintö kiinnittää toisaalta huomiota myös mittausjärjestelmien epäyhdenmukaisuuteen, minkä vuoksi haluaisin korostaa tarvetta keskittää voimavaroja vertailun mahdollistavan yhdenmukaisen järjestelmän sekä sellaisen järjestelmän luomisessa, joka velvoittaa kaikki jäsenvaltiot antamaan tietoja, ja totuudenmukaisia tietoja.
+<P>
+Rouva puhemies, vain tällä tavoin saamme selville mihin toimiin meidän on ryhdyttävä saavuttaaksemme mainitun yhteisön laivastojen, tai kuten mieluummin sanoisin, yhteisön laivaston kestävän kehityksen.
+
+<SPEAKER ID=47 LANGUAGE="FR" NAME="D'Aboville">
+Tervehdykseni, arvoisa rouva puhemies.
+<P>
+Kolmannen ohjausohjelman tuloksien arvioinnissaan esittelijä on huolestunut joidenkin jäsenvaltioiden ilmaisemasta vähäisestä mielenkiinnosta ryhtyä toimiin, joiden avulla niiden laivastoa voitaisiin pienentää. Vähäistä innokkuutta voi pahoitella, sitä ei voi juuri hämmästellä. On tiedettävä, että jotkut satamat on kirjaimellisesti saatettu todella kurjaan tilaan. Jos tasapainopiste on ohitettu, kokonainen sosioekonominen verkosto on uhattuna, huutokauppoineen, telakoineen, marayage käytäntöineen, laivan varustajineen. Ei pitäisi myöskään aliarvioida äärimmäisen paljon suurempia vaikeuksia, joita ilmenee moottoritehon vähentämisen osalta joissakin maissa, joissa harjoitetaan pikemminkin laahaavia kuin uinuvia taiteita.
+<P>
+Lopulta pitäisi voida ottaa huomioon laskelmissa nämä jotenkin isänmaattomat tai lainakansallisuudella purjehtivat laivat, jotka esiintyvät jonkin maan lipun alla, kun taas tiedetään hyvin, että ne pitäisi merkitä kirjanpitoon toisen maan lipun alla, niin kiintiöiden kuin kilowattienkin tasolla.
+<P>
+Esittelijä korostaa sitä tosiasiaa, että pelkkä tehokas rangaistusjärjestelmä riittää pakottamaan kansalliset toimielimet noudattamaan asetettuja tavoitteita. Näistä toimista mainittakoon hänen ehdottamansa kiintiöiden automaattinen vähentäminen. En pidä tätä henkilökohtaisesti hyvänä ratkaisuna, koska tätä ajatusta ei voida soveltaa kuin silloin, jos tietty laivasto kalastaisi vain yhtä kalalajia. Mitä tehdä monitahoisissa tapauksissa ja mitä tehdä erityisesti niille laivoille, joiden saaliista yli 50 % koostuu kiintiöiden ulkopuolisista lajeista?
+<P>
+Luulen sitä paitsi, että jo rakentamiselle annettujen tukien lakkauttaminen on äärimmäisen sitova toimi, joskus jopa liiallinen, heti kun se voi haitata turvallisuutta tai työolojen parantamista. Kiitän sitä paitsi esittelijää siitä, että hän on ottanut huomioon tämän näkökohdan liittämällä sen mietintönsä perusteluihin.
+
+<SPEAKER ID=48 LANGUAGE="PT" NAME="Novo">
+Arvoisa rouva puhemies, hyvät kollegat, arvoisa rouva komissaari, komission vuosikertomus MOO III: n lopputuloksista on asiakirja, jolla on ratkaiseva merkitys selvitettäessä yhteisön laivaston kehittymistä ja kansallisten parlamenttien roolia tässä kehityksessä.
+<P>
+Mietinnöstä ilmenee selvästi esimerkiksi se, että minun maani meni kaikkein pisimmälle MOO III: n soveltamisessa kalastuslaivaston eri osa-alueiden kapasiteetin vähentämisen osalta ja jopa alitti asetetut rajat - mitä en voi mietinnön antamien tietojen valossa kuin ihmetellä. En voi olla kummastelematta tätä " hyvän oppilaan" asennetta, koska Portugalin menetellessä näin muut jäsenvaltiot nostivat julkeasti - niin voidaan sanoa - kalastuslaivastonsa vetoisuutta ja moottoritehoa.
+<P>
+Tämän mietinnön tietojen yksityiskohtainen tunteminen on varmasti vaikuttanut erityisesti ajanjaksolle 1997-2001 tarkoitetun MOO IV: n rajoituksiin ja strategioihin. Komission ja neuvoston olisi otettava tällaiset tiedot enemmän huomioon sekä muotoillessaan ehdotuksia MOO IV: ä varten että tehdessään päätöksiä olla vaatimatta uusia kapasiteetin vähennyksiä niiltä jäsenvaltioilta, jotka täyttävät MOO III: ssa asetetut tavoitteet ja tietyssä määrin jopa ylittävät ne.
+<P>
+Komissiolla on joitakin velvollisuuksia tämän asian suhteen, koska se ei ole vielä osoittanut kykenevänsä toteuttamaan käytännössä päätöksiä eri kalastuslaivastojen vetoisuuden mittayksiköiden yhdenmukaistamisesta. Samoin se on osoittanut olevansa kykenemätön yhdenmukaistamaan moottoritehoa koskevia mittauskeinoja sääntöjen rajoissa ja myös laivastojen tuottavuutta.
+<P>
+Ilman näitä luotettavan vertailun ja valvonnan luomiseksi tarvittavia perusasioita ja elleivät ne maat, joilla on hallussaan Euroopan unionin kapasiteetiltaan ja tuotannoltaan suurimmat laivastot, noudata MOO-ohjelmia, on vaikeaa saada kalastajat vakuuttuneiksi siitä oikeudenmukaisuudesta, avoimuudesta ja tasapuolisuudesta, jota komissio ja tietyt jäsenvaltiot ajavat ja ehdottavat teoriassa strategioita, jotka luonnollisesti ovat tarpeen kalastuslaivaston kapasiteetin sovittamiseksi olemassa oleviin kalavaroihin.
+<P>
+Sopimusten rikkojia vastaan käytettävien keinojen, kuten esittelijän - käytän tilaisuutta hyväkseni ja onnittelen häntä - ehdottamien kiintiöiden poistaminen tai vähentäminen, täydellinen puuttuminen sekä niiden arvostelukyvyn puute, jotka ovat ottaneet kyseiset asiat jopa liioitellusti vastuulleen, eivät voi jatkua lähitulevaisuudessa.
+<P>
+Sallikaa minun, hyvät kollegat, niiden portugalilaisten kalastajien ja tuottajien puolesta, joita on viime vuosina kovasti rangaistu, esittää tässä yhteydessä vetoomus ja vaatimus lähitulevaisuuden puolesta.
+
+<SPEAKER ID=49 LANGUAGE="EN" NAME="McKenna">
+Komissio ja herra Cunha ovat molemmat tehneet oikein hyvää työtä analysoidessaan kolmannen monivuotisen ohjausohjelman viimeisen vuoden tuloksia. Teversonin ja Cunhan mietinnöt liittyvät molemmat asioihin, jotka ovat ensisijaisesti jäsenvaltioiden vastuulla, toisin sanoen toisaalta tarkkailuun ja valvontaan, toisaalta kansallisten kalastuslaivastojen kokoon. Molemmat mietinnöt osoittavat selkeästi, etteivät jäsenvaltiot ota velvollisuuksiaan vakavasti. Vain neljä maata viidestätoista on saavuttanut kaikki MOO III: n tavoitteensa. Kaikki muut ylittävät rajat, joko vetoisuuden tai moottoritehon osalta, ja vähintään yhdessä laivaston osista. Neljä tavoitteet saavuttanutta maata ovat Espanja, Portugali, Tanska ja Suomi.
+<P>
+Komission kertomuksesta saa varsin monipuolisen kuvan siitä, missä määrin eri jäsenvaltiot ovat saavuttaneet tavoitteensa, mutta tekisin ehdotuksen kertomuksen laadun parantamiseksi; olisi annettava jonkinlainen kuva siitä, kuinka esimerkiksi Espanja ja Portugali saavuttivat tavoitteensa, mitä tapahtui rekisteristä poistetuille aluksille, kuinka moni alus riisuttiin, kuinka moni romutettiin, kuinka moni upotettiin ja niin edelleen. Myös, kuinka moni siirrettiin yksinkertaisesti toisen lipun alle: kuinka moni alus kalastaa edelleen joko täällä yhteisön alueella tai muualla, useimmissa tapauksissa mukavuuslipun alla.
+<P>
+Kalastussopimus Argentiinan kanssa tukee siirtoja Argentiinan lipun alle. Kuinka paljon jäsenvaltioiden vähennetyistä aluksista on siirtynyt sinne ja mikä vaikutus tällä on ollut alueen varoille? Emme voi vain puhua lukujen järjestelemisestä ja alusten siirtämisestä kansallisesta rekisteristä ja niiden siirtämisestä jonnekin muualle, meidän on nähtävä minne ne menevät, mitä niille tapahtuu. Yksikään jäsenvaltio ei todellakaan voi onnitella itseään, jos emme tiedä tarkasti niiden toiminnan lopputulosta. Tarvitsemme tätä tietoa voidaksemme täysin analysoida, mitä tapahtuu.
+
+<SPEAKER ID=50 LANGUAGE="EN" NAME="Macartney">
+Arvoisa rouva puhemies, tämä on hyödyllinen keskustelu, ja moni asia on selvinnyt sen kuluessa, miten ei aina ole asian laita.
+<P>
+On tietysti historiallisia syitä - ei vähiten Yhdistyneen kuningaskunnan viimeisen konservatiivihallituksen asenne - siihen, miksi hallitus ei esittänyt alusten riisumisvaroja, mutta sovelsi toissijaisuusperiaatetta ja merelläolopäivien periaatetta. Niinpä kohtaamme heti todellisen ongelman historiallisessa mielessä: jotkut hallitukset aivan laillisesti toimivat eri lailla, mikä on mielestäni ristiriitaista, mutta niin ne kuitenkin tekivät. Tätä ei voi vain lakaista maton alle ja unohtaa kokonaan. Tämä on yksi perustavista ongelmista. Niitä on muitakin, joihin rouva McKenna on viitannut, jotka liittyvät siihen, mitä tarkkaan ottaen on mitattu, kun on puhuttu laivastojen vähentämisestä.
+<P>
+Sanon esittelijälle ja muille, jotka puhuvat lipevästi kiintiöiden poistamisesta, että he tosiaankin leikkivät tulella tältä osin. Pelästyin huomatessani, että Euroopan kansanpuolueen ryhmän ja Euroopan yhtyneen vasemmiston konfederaatioryhmän ja Pohjoismaiden vihreän vasemmiston antama tuki vaikuttaa olevan riippuvainen kiintiöiden automaattisesta poistamisesta. Tällainen puhe pelästyttää kalastajat ja sen pitäisi pelästyttää Euroopan hallitukset, jos ihmiset ajattelevat, että he voivat yksinkertaisesti toimia näin ja sanoa, että Euroopan parlamentti kannattaa sitä. Meidän on oltava hiukan diplomaattisempia ja vastuuntuntoisia. Olen hyvin iloinen, että komissaari on täällä kuuntelemassa tätä keskustelua.
+<P>
+Huomasin maanantaina hämmästyneenä olevani osa pientä vähemmistöä, kun esitin, ettei meidän pitäisi äänestää tästä hyvin tärkeästä ja arkaluonteisesta asiasta perjantaina. Suuret ryhmät eivät pitäneet asiaa ristiriitaisena. Voin kuvitella harvoja ristiriitaisempia asioita kuin yhteisen kalastuspolitiikan suhteellisen vakauden perusperiaatteen uhkaaminen.
+<P>
+Meidän on suhtauduttava tähän eri tavalla, ja jatkan vetoomustani, että meidän pitäisi omaksua järkiperäisempi lähestymistapa asiaan. Olen vain helpottunut siitä, että tämä on valiokunta-aloitteinen mietintö, jolla ei ole lainsäädännöllistä voimaa, koska jos niin olisi, se aiheuttaisi kaikenlaista hävitystä teollisuudessa.
+
+<SPEAKER ID=51 NAME="Puhemies">
+Kiitoksia, herra Mcartney.
+<P>
+Herra van Damilla on nyt kahden ja puolen minuutin pituinen puheenvuoro Riippumattomat kansakuntien Euroopan puolesta -ryhmän puolesta.
+
+<SPEAKER ID=52 LANGUAGE="NL" NAME="Van Dam">
+Arvoisa puhemies, ei tarvitse todistella sitä, että kaikkien jäsenvaltioiden pitää noudattaa yhteisön kalastuspolitiikan säännöksiä. Mikäli jäsenvaltiot eivät välitä näistä säännöksistä, niitä on rangaistava tehokkaalla tavalla. Olen tästä samaa mieltä esittelijän kanssa. Mielestäni ei kuitenkaan ole oikea tapa yhdistää rangaistusten antamista vain kalastuslaivaston kokoon. Tiedot laivojen määristä ja moottoreiden tehosta antavat hyvin epätäydellistä tietoa todellisesta kalastustehosta, etenkin jos tiedot perustuvat jäsenvaltioiden epäluotettaviin ja epäyhtenäisiin mittauksiin, kuten asia on vuoden 1996 kertomuksessa. Jotta saataisiin oikea kuva siitä, missä määrin jäsenvaltiot ovat noudattaneet yhteisön kalastuspolitiikan tavoitteita, on lisäksi tarkkailtava useampia seikkoja. Tarkoitan tässä unionin kiintiöpolitiikkaa, joka on itse asiassa eurooppalaisten kalakantojen säilyttämiseksi harjoitetun politiikan selkäranka. Monivuotiset ohjausohjelmat liittyvät kiinteästi siihen. Tämän välineen avulla jäsenvaltioita innostetaan saattamaan laivastonsa koko vastaamaan paremmin käytössä olevaa kiintiöitä. Tähän liittyen olisi ollut hyödyllistä, jos esittelijä olisi eri jäsenvaltioiden laivastojen vetoisuuden ja moottoritehon lisäksi laatinut katsauksen siitä, missä määrin kiintiöitä noudatettiin. Arvoisat kollegat ja myös esittelijä olisivat silloin voineet nähdä esimerkiksi sen, että Alankomaissa on noudatettu täysin kiintiöitä huolimatta siitä, että kalastuslaivaston kokoa ei ole juurikaan pienennetty.
+<P>
+Tällä haluan sanoa, kollega Cunha, että kalastuslaivaston koon pienentäminen ei ole ainoa mahdollisuus vähentää kalastusta. Kuningaskunta Alankomaat on voinut pitäytyä kiintiöissä rajoittamalla kalastuslaivaston käyttöä ja niitä päiviä, jolloin se kalastaa. Vastaavanlaiset järjestelyt kalastustoiminnan hallinnaksi on otettava huomioon monivuotisten ohjausohjelmien tuloksissa.
+<P>
+Myös kalastusmenetelmät vaikuttavat kalastuksen määrään. Niinpä laahusnuotan pituutta on vähennetty Alankomaissa 14 metristä 12 metriin. Asiantuntijoiden mukaan kalastuksen määrä on vähentynyt sen vuoksi 10 %. Vuoden 1996 kertomuksessa tätä ei ole otettu huomioon.
+<P>
+Yhteenvetona voin sanoa, että kannatan esittelijän vaatimusta rangaistusten tiukentamisesta, kuten kiintiöiden pienentämistä rikkomusten seurauksena. Mutta tällöin jäsenvaltioita ei pidä tuomita yhteisön kalastuspolitiikan yhden tekijän suhteen vaan kokonaispolitiikan suhteen. Se merkitsee sitä, että on otettava huomioon kalastuslaivaston käyttö ja kiintiöiden noudattaminen tai noudattamatta jättäminen. Olen esittänyt kaksi tarkistusta, 7 ja 8, tästä asiasta ja toivon, että esittelijä hyväksyy ne.
+
+<SPEAKER ID=53 LANGUAGE="ES" NAME="Medina Ortega">
+Arvoisa puhemies, olen pahoillani, ettei komissaari ole paikalla, sillä ilman hänen läsnäoloaan tämä keskustelu ei ole aivan yhtä mielenkiintoinen, sillä minä haluaisin ensinnäkin onnitella komissiota tekemästään kertomuksesta, ja koska rouva komissaari ei ole paikalla, en voi tuottaa hänelle tätä mielihyvää. Paikalla on sentään kuitenkin esittelijä, joka on laatinut loistavan mietinnön ja jota haluan myös onnitella. Esittelijä tuntee tilanteen erittäin hyvin, ja haluaisin painottaa sitä, että herra Cunhan mietintö on selkeä ja moitteeton ja että sen vuoksi, jos ei oteta huomioon kalatalousvaliokunnan hyväksymiä tarkistuksia, olisi vaikea hyväksyä muita tarkistuksia, jotka voisivat pilata tämän mietinnön sisällön.
+<P>
+Haluaisin korostaa sitä, mitä rouva McKenna aiemmin korosti, korjaten sitä kuitenkin hiukan. Rouva McKenna sanoi, että vain neljä maata oli täyttänyt MOO III: n tavoitteet, ja niitä on vain kolme eikä neljä, sillä jos luette tarkkaan komission kertomuksen sivun 49, huomaatte, että komissio suhtautuu Suomeen tietyin varauksin. Näin ollen itse asiassa vain Espanja, Portugali ja Tanska täyttävät kokonaan MOO III: n tavoitteet. Tämä tarkoittaa sitä, että ne maat, jotka ovat suhteessa enemmän riippuvaisia kalastuksesta, ovat kiinnostuneempia täyttämään tavoitteet.
+<P>
+Herra Cunhan mietinnössä on useita kohtia, joista olemme samaa mieltä: tarve määrätä edelleen yhdenmukaisia kriteereitä, laivaston kapasiteetti, alusten moottoriteho, jne., ja ennen kaikkea, tarve ottaa käyttöön rangaistujärjestelmä. Yhteisö on alkanut ottaa käyttöön rangaistuksia kilpailun ja viime aikoina myös yhdentymisen alueilla.
+<P>
+Herra Cunha ehdottaa jotain aivan järkeenkäypää: että yhteisön vaatimuksia laiminlyövien valtioiden pyyntikapasiteettia pienennettäisiin.
+<P>
+Myös se on kuitenkin tärkeää, mitä herra Cunha toteaa B kohdassa: yhteisen kalastuspolitiikan tavoitteena ei välttämättä ole kalastuksen vähentäminen. Yhteisen kalastuspolitiikan tavoitteena on luoda tasapainoinen kalastusjärjestelmä, sillä merellä yleinen sääntö on se, että isompi syö pienemmän ja on syntynyt tietty biologinen tasapaino, jonka nojalla inhimillinen tekijä (kalastustoiminta) on osa tätä biologista tasapainoa. Jos sovelletaan ainoastaan kalastusponnistusten vähentämiseen tähtääviä toimia eikä oteta huomioon tätä biologista tasapainoa, saattaa siitä, omituista kyllä, aiheutua kielteisiä seurauksia, koska jos esimerkiksi emme jatkaisi petokalojen pyydystämistä, näiden petokalojen saalistamien kalojen määrä pienenisi.
+<P>
+Olen todellakin sitä mieltä, että komissio on oikealla tiellä, että herra Cunhan mietintö on loistava ja että voimme onnitella komissiota ja herra Cunhaa laatimiensa asiakirjojen johdosta.
+
+<SPEAKER ID=54 LANGUAGE="DE" NAME="Langenhagen">
+Arvoisa puhemies, 80-luvun alusta alkaen olemme tienneet EU: n merien liikakalastuksen haitallisista vaikutuksista. Vastatoimina otettiin käyttöön tänään keskusteltavana olevat monivuotiset ohjelmat, niin sanotut MOO: t; tänä vuonna on esimerkiksi kyse MOO IV: stä, neljännestä sukupolvesta. Järjetöntä on yhtenäisten arviointiperusteiden puuttuminen. Jarrutetaanko yhtenäistämistä tietoisesti vai minkä vuoksi emme pääse tonnistojen emmekä konetehojen osalta Euroopan laajuisesti kelpaaviin tuloksiin? Tämä tehtävä olisi pitänyt voida ratkaista jo kauan sitten. Yhteisön kalastusalusten kortistossa on puutteita, jotka heikentävät sen tehokkuutta. Tämäkin ongelma pitäisi todella olla ratkaistavissa. Edellytyksenä on siis voimakkaampi tahto direktiivien toteuttamiseksi. Kansallisia etuja ei saa asettaa niitä tärkeämmän eurooppalaisen kalastuspolitiikan edelle. Tavoitteiden noudattamatta jättäminen johtaa tosin väistämättä myös monien kalastusyritysten tuhoon maissa, viimeistään silloin kun kalavarat ovat rappeutuneet liikaa.
+<P>
+Erityisen velvollisuudentuntoisten valtioiden ansiosta tapahtuva kokonaiskapasiteetin tasoitus ei saa tuudittaa meitä unohtamaan tämän alueen puutteita muiden valtioiden kohdalla. Velvoitteet täyttävien valtioiden alistumista tähän ei voida sallia. Niiden saavutuksen on pikemminkin oltava mattimyöhäisten kannustimena, muuten tulevaisuudessa ei saavuteta edistystä.
+<P>
+Näyttää siltä, että tavoitteiden saavuttamiseen ei ole riittävästi kiihokkeita. Tähänastisten MOO-ohjelmien tavoitteiden toteutumattomuus ei todellakaan vaikuta motivoivasti. Raja-arvojen noudattamisen on oltava pakollista, vaikka nyt ei olekaan vielä olemassa tehokkaita pakotteita toimeenpanovälineinä, kuten kuvasin.
+<P>
+Tehokasta voisi olla myös määrien leikkaaminen, kuten esittelijä ajattelee. Vielä tärkeämpää olisi tosin - korostan sitä vielä kerran - jäsenvaltioiden ymmärrys. Jäsenvaltiot ovat nimittäin vastuussa. Tämän tilaisuuden tullen haluaisin kiittää teitä, rouva Bonino, ja pääosastoa XIV tämänviikkoisesta tärkeästä Agenda 2000: ta ja kalastusaluetta koskevia sitä seuraavia lakihankkeita koskevasta keskustelusta. Keskustelu oli hyvä, ja iloitsen tulevasta yhteistyöstä.
+
+<SPEAKER ID=55 NAME="Puhemies">
+Kiitoksia, rouva Langenhagen.
+<P>
+Hyvät parlamentin jäsenet, rouva Langenhagenin puheenvuoro oli viimeinen parlamentin jäsenien puheenvuoroista, ja ennen kuin annan puheenvuoron rouva Boninolle, haluan ilmoittaa hänelle, että hänen lyhyen ja oikeutetun poissaolonsa aikana herra Medina Ortega halusi onnitella häntä komission hyvästä työstä. Näin ollen haluan yhtyä herra Medina Ortegan sanoihin ja ymmärrän täysin, että komissaarin oli poistuttava hetkeksi istuntosalista ja, kuten aina, annan hänelle puheenvuoron erittäin mielelläni.
+<P>
+Rouva Bonino, teillä on puheenvuoro.
+
+<SPEAKER ID=56 NAME="Bonino">
+Arvoisa puhemies, arvoisat parlamentin jäsenet, haluaisin aluksi onnitella Cunhaa hänen mietinnöstään, jossa analysoidaan mielestäni oivallisesti käsiteltävänä olevia asioita. Komission mielestä monivuotiset ohjausohjelmat ovat todella tärkeitä välineitä, ja siksi niiden tavoitteiden noudattaminen on oleellinen tekijä alan tulevaisuuden kannalta. Tältä osin haluaisin muistuttaa parlamentille, että komission yksiköt tutkivat mahdollisuutta käynnistää oikeustoimet niitä jäsenvaltioita kohtaan, jotka eivät ole täyttäneet MOO III: een liittyviä velvoitteitaan - jotka siis eivät ole päässeet ohjelmien tavoitteisiin tai jotka eivät ole pitäneet ajan tasalla laivastotietojaan yhteisön laivastosuunnitelman mukaisesti - tämä myös vastauksena joihinkin McKennan huomioihin - tai jotka ovat laiminlyöneet laivastojensa vetoisuuden muuntamisen bruttotonneiksi. Näiden näkökohtien osalta siis komission virkamiehet tutkivat mahdollisuutta käynnistää oikeustoimet tapauksissa, joissa jäsenvaltiot eivät ole noudattaneet määräyksiä.
+<P>
+Esitän nyt ainoastaan kaksi huomautusta joistakin esitetyistä tarkistuksista ja täsmennän edelleen alusten vetoisuuden uudelleenmittausta. Viimeksi mainittu liittyy, kuten parlamentti hyvin tietää, siihen, että komissio on vaatinut yhtenäisen mittaustavan käyttöönottoa laivastojen kapasiteetin arvioimiseksi. Se on ollut suuri ongelma. Komissio on hankkinut ulkopuolisia asiantuntijoita selvittämään, miten kukin jäsenvaltio mittaa alustensa vetoisuuden. Asiantuntijat arvioivat jäsenvaltioiden itsensä antamia tietoja ja esittävät sitten komissiolle suosituksia siitä, miten uudelleenmittausta voitaisiin nopeuttaa. Komissio pyrkii lisäksi löytämään sopivia keinoja alusten kapasiteetin määrittelemiseksi ja mittaamiseksi koko yhteisössä ja kerää saatavissa olevia tietoja asian lähempää tarkastelua varten.
+<P>
+Viime joulukuussa tehtyjen MOO IV: ttä koskevien päätösten osalta komissio pohtii, miten laivaston uudelleenjärjestämiseen voitaisiin vaikuttaa rahoitussäännöksillä tai kannustimilla, kuten arvoisa Langenhagen niitä nimitti, ja näitä säännöksiä sovellettaisiin yhdessä sekä uusien että käytöstä poistettavien kalastusalusten prosenttimäärien kanssa.
+<P>
+Haluaisin lisäksi muistuttaa, että kuten parlamentti tietää, niiden valtioiden osalta, jotka eivät ole päässeet MOO III: n tavoitteisiin, tämä viivästys on otettu huomioon laadittaessa MOO IV: ttä, koska komissio ei hyväksynyt tilanteen nollaamista. Niiden valtioiden osalta, jotka eivät ole täyttäneet velvoitteitaan, menneisyyden taakka on mahdollisia oikeustoimia lukuun ottamatta otettu huomioon MOO IV: n laatimisen yhteydessä.
+<P>
+Kaksi lisähuomautusta. Rangaistusten osalta, siinä muodossa kuin niitä ehdotetaan eräässä tarkistuksessa, minun on sanottava, että komissio ei hyväksy tätä ehdotusta, ja se johtuu useammastakin syystä: ensinnäkin siitä, että kiintiöiden automaattinen vähentäminen mailta, jotka eivät ole täyttäneet velvoitteitaan, vaarantaa vakavalla tavalla yhteisen kalastuspolitiikan perusperiaatteen, joka on suhteellinen vakaus; toiseksi siitä, että jos me menettelemme tällä tavalla, jäsenvaltiot vaativat varmasti samantyyppisiä rangaistuksia esimerkiksi kiintiöiden ylittämisestä, riittämättömästä valvonnasta, alimittaisten kalojen pyydystämisestä jne. Tästä syystä haluaisin pyytää parlamenttia olemaan varovaisempi, kun se toivoo, että kiintiöiden vähentäminen otettaisiin käyttöön rangaistustoimenpiteenä, koska sillä saattaisi olla tällaiset seuraukset.
+<P>
+Rahoitustuen myöntämättä jättäminen kalastusalusten uudistamiseen ja rakentamiseen on sen sijaan jo käytettävissä oleva toimenpide. Tuotantokyvyn huomioon ottamisesta kapasiteetin mittauksen yhteydessä parlamentti sallinee minun sen sijaan sanoa, että se ei ole todellakaan realistinen ajatus. Miten tuotantokykyä voidaan mitata, sitä me emme suoraan sanoen ymmärrä ja se ei vaikuta meistä hyväksyttävältä toimenpiteeltä, koska sitä ei voida soveltaa käytäntöön.
+<P>
+Vetoisuuden ja tehon mittaamisen osalta olen jo tavallaan pitkittänytkin puheenvuoroani. Haluaisin lisätä ainoastaan ilmoituksenomaisesti, että komissio laatii parhaillaan Yhdistyneen kuningaskunnan Seafish Industry Authorityn kanssa sopimusta, jonka yhteydessä, kuten jo mainitsin, ulkopuoliselle asiantuntijaryhmälle annetaan tehtäväksi tutkia jäsenvaltioiden käyttämiä menettelyjä ja menetelmiä alusten vetoisuuden mittaamisessa. Tehon suhteen tilanne on sitä vastoin hieman monimutkaisempi. Komissio myöntää kuitenkin, että tehon mittausta on yhdenmukaistettava, koska se on keskeinen tekijä MOO IV: n määrittelyn kannalta.
+
+<SPEAKER ID=57 NAME="Puhemies">
+Julistan keskustelun päättyneeksi.
+<P>
+Siirrymme äänestykseen.
+<P>
+3 kohta
+
+<SPEAKER ID=58 NAME="Cunha">
+Arvoisa puhemies, mikäli kollegat ovat samaa mieltä kanssani, haluaisin ehdottaa suullista tarkistusta 3 kohdan viimeiselle riville kohtaan "mahdollinen kiintiöiden automaattinen pienentäminen" . Suullisen tarkistukseni mukaan sana "automaattinen" poistettaisiin.
+
+<SPEAKER ID=59 NAME="Puhemies">
+Vastustaako joku herra Cunhan tekemää sanan " automaattinen" poistamista koskevaa suullista tarkistusta?
+<P>
+Herra Macartneylla on puheenvuoro.
+
+<SPEAKER ID=60 LANGUAGE="EN" NAME="Macartney">
+Myönnän tyytyväisenä, että tämä on parannus, mutta se ei poista ongelmaa, joten ei, meidän on pidettävä kiinni tämän osan nimenhuutoäänestyksestä, olkaa hyvä.
+<P>
+(Parlamentti hyväksyi päätöslauselman.)
+
+<SPEAKER ID=61 NAME="Puhemies">
+Onnittelemme herra Cunhaa.
+
+<SPEAKER ID=62 NAME="Andersson">
+Tämä on tärkeä mietintö merkittävästä asiasta, joka liittyy kalavarojen säilyttämistoimenpiteisiin. MOO on tylsyydestään huolimatta tärkein väline kalavarojen johdonmukaisen säilyttämistoimenpiteiden saavuttamiseksi. Samanaikaisesti on olennaista painottaa, että kalavarojen säilyttämistoimenpiteitä on tarkasteltava koko kalastuspolitiikan alueella.
+<P>
+Kalavarojen säilyttämistoimenpiteiden yhteydessä on otettava huomioon kansallisten kalastuslaivastojen todellinen pyyntikapasiteetti, vakavan toiminnan tarve, jossa otetaan huomioon tiettyjä lajikantoja koskevat uhat sekä niiden kolmansien maiden kanssa solmittujen sopimusten vaikutukset, joita unioni tekee yhteisön ulkopuolisten maiden kanssa. Mitä tulee kolmansien maiden kanssa solmittaviin sopimuksiin, jotka liittyvät unionin politiikkaan on syytä tarkastella hyvin kriittisesti. Nykyisessä tilanteessa EU ei ota tarpeeksi huomioon tarvetta kehittää kalastuksen merkitystä maailmanlaajuiselle elintarvikehuollolle, eikä tarvetta vahvistaa ennen kaikkea kehitysmaiden omaa taloudellista suorituskykyä tällä alueella eikä sitä tosiasiaa, että EU: n tuki niille sopimuksille, joita kolmansien maiden kanssa tehdään tiettyjen jäsenvaltioiden kalastustoiminnan hyväksi, merkitsee kansallisten kalastuskapasiteettien ylläpitämistä tilanteessa, jossa koko Euroopan kalastus tarvitsee merkittäviä rajoituksia. MOO III: n arviointi osoittaa, että yhteisen kalastuspolitiikan suuntaa on syytä tarkistaa perinpohjaisesti.
+
+<SPEAKER ID=63 NAME="Macartney">
+Suhtaudun hyvin myönteisesti komissaari Boninon vakuutukseen siitä, että Euroopan komissio ei kannata kiintiörangaistusten liittämistä MOO: n täytäntöönpanoon.
+<P>
+Olen myös suuresti innostunut siitä, että komissaari toisti yhteisen kalastuspolitiikan suhteellisen vakauden perusperiaatteen olevan perustavan tärkeä.
+
+<CHAPTER ID=5>
+Välimeren kalavarojen säilyttäminen
+<SPEAKER ID=64 NAME="Puhemies">
+Esityslistalla on seuraavana McMahonin laatima kalatalousvaliokunnan mietintö (A4-0045/98) ehdotuksesta neuvoston asetukseksi (EY) tietyistä Välimeren kalavarojen teknisistä säilyttämistoimenpiteistä annetun asetuksen (EY) N: o 1626/94 muuttamisesta (KOM(97) 459 - C4-0510/97-97/0237(CNS)).
+<P>
+Herra McMahonilla on kuuden minuutin pituinen puheenvuoro.
+
+<SPEAKER ID=65 NAME="McMahon">
+Arvoisa puhemies, tunnen suurta iloa esitellessäni kalatalousvaliokunnan puolesta tämän mietinnön Välimeren kalavarojen säilyttämisestä.
+<P>
+Välimerellä on erittäin vakava ongelma. Se ei koske ainoastaan tonnikalaa, jota mietinnössä käsitellään. Mietintö käsittelee sitä, miten me sovitamme yhteisön lainsäädännön ICCATin, kansainvälisen Atlantin tonnikalojen suojelukomission kanssa. Ongelmana ovat muut Välimeren lajit. Koska Välimerellä käytetään ajoverkkoja, eri maista kotoisin olevien kalastajien toiminta tappaa Välimeren alueella vuosittain niinkin paljon kuin 8 000 valasta ja delfiiniä.
+<P>
+Käsiteltävänä olevassa ehdotuksessa edistetään osaltaan tämän Välimeren merenelävien hyvin vakavan ongelman käsittelemistä. Ehdotuksessa suositellaan helikoptereiden käytön ja kalastuksen kieltämistä kesä- ja elokuussa, erityisesti tonnikalan kutuaikaan.
+<P>
+Ongelmia aiheuttavat myös kolmansien maiden toimet. Meitä kalatalousvaliokunnassa huolestuttavat suuresti sellaisista maista kuin Guatemalasta ja Hondurasista peräisin olevat laivat, jotka käyttävät ajoverkkoja Välimerellä ja pyydystävät tonnikalaa, pyöriäisiä, delfiinejä ja valaita. Ne tuhoavat Välimeren meriekosysteemin. Mitä perinteiseen kalastukseen ja Italian miekkakalaa pyytävään laivastoon tulee, sovimme Baldarellin mietinnöstä käydyn keskustelun aikana, että ajoverkot poistettaisiin vaiheittain käytöstä. Komissio suostui silloin, vuonna 1994, antamaan 100 miljoonaa ecua italialaisille kalastajille jonkinlaisena korvauksena heidän kalastustoimintansa päättymisestä. Noin 2 700 italialaiselle kalastajalle tarjottiin korvausta. Joudun valitettavasti kertomaan parlamentille, että vain 42 käytti tarjousta hyväkseen eli myi lupansa ja vaihtoi toimialaa.
+<P>
+On selvää, että nykyinen politiikka, jossa ajoverkoille asetetaan 2, 5 kilometrin raja, ei toimi. On tärkeää varautua vaiheittaiseen ajoverkkojen poistamiseen Välimerellä tietyn ajanjakson aikana. Olen iloinen voidessani kertoa, että puheenjohtajamaa Yhdistynyt kuningaskunta ja erityisesti kalastusasiainministeri, herra Elliott, ovat hyvin kiinnostuneita tästä asiakirjasta. Meillä on ollut herra Elliottin kanssa monta syvällistä keskustelua siitä, kuinka asiaa voitaisiin edistää. Hän otti tehtäväkseen saada asiakirjan esityslistalle seuraavassa kalatalousasioiden neuvostossa.
+<P>
+Parlamentin jäseninä haluamme säilyttää kaupallisen kalastuksen ja suojella sitä. Haluamme turvata ne yhteisöt, jotka saavat elantonsa kalastuksesta. Mutta meidän on yritettävä samanaikaisesti suojella meriekosysteemiä. Meidän on yritettävä suojella delfiinejä, valaita ja hylkeitä, turvattava niiden elämä ja säilytettävä ne. Jos tämä merellinen elämä tuhoutuu, se vaikuttaa ravintoketjuihin. Se tarkoittaa sitä, että tulevat sukupolvet joutuvat kokemaan ei ainoastaan sen, että delfiinejä ja valaita ei enää ole, vaan myös sen, että tonnikalaa ei enää ole, sen enempää kuin juuri muutakaan kalaa. Ongelmana on, että kulutamme kaikki maailman resurssit loppuun. Parlamenttina, eurooppalaisina Euroopan unionissa, meillä on velvollisuus aloittaessamme uuden vuosituhannen ryhtyä toimiin oikean tasapainon löytämiseksi kalastuksen kaupallisen hyväksikäytön, kantojen säilyttämisen ja merellisen elämän säilyttämisen välille.
+<P>
+Juuri tätä mietinnössä käsitellään. Se on hyvin rajoitettu mietintö. Siinä käsitellään toimia vain Välimerellä. Mutta meidän on parlamenttina omaksuttava tämä yleiseksi tulevaisuuden periaatteeksemme.
+
+<SPEAKER ID=66 LANGUAGE="EN" NAME="Provan">
+Arvoisa puhemies, tämä on hyvin tekninen mietintö, eikä ole tarpeen mennä tarkempiin yksityiskohtiin, koska kyse on siitä, että parlamentin on hyväksyttävä jotain, jotta komissio voi ryhtyä tiettyihin toimiin, mitä minä ja poliittinen ryhmäni kannatamme täysin.
+<P>
+Kuten esittelijä Hugh McMahon osoitti, tämä on tosiaankin säilyttämistoimenpide ja parlamentti haluaa kannattaa kaikkea, mitä komissio esittää säilyttämistoimenpiteiden osalta.
+<P>
+Välimerta sinänsä tarkasteltaessa tulee esiin pari suurta ongelmaa. Meidän on myönnettävä se tosiasia, että Välimeren kalakannat eivät ehkä ole sellaisia kuin niiden pitäisi. Niitä riistetään nykyisin jokseenkin samalla lailla kuin Pohjanmerellä ja Atlantin alueella on tehty.
+<P>
+Näin ollen ottaisin esiin herra McMahonin ja ehkä komissionkin kanssa kysymyksen tarkistuksesta 1, koska minusta näyttää siltä, että esittelijä yrittää lausua kohteliaisuuksia omalle hallitukselleen Yhdistyneessä kuningaskunnassa. Tällaista ei tarvitsisi välttämättä tapahtua Euroopan parlamentin mietinnössä. Hyväksyn täysin sen, että Britannian hallitus on kannattaa asiaa ja on tehnyt ensisijaisen tavoitteen siitä, että yritetään poistaa ajoverkot vaiheittain käytöstä, mutta haluaisin kysyä komissiolta näkeekö komissaari neuvoston aseman samanlaisena, koska ministerineuvoston mielipiteet ajoverkkojen vaiheittaisesta poistamisesta käytöstä ovat jakautuneet laajalti, mikä ei välttämättä heijasta Britannian hallituksen kantaa. Haluaisin sanoa esittelijälle, että tarkistuksessa 1 pyritään onnittelemaan yhtä hallitusta neuvostossa, kun meidän pitäisi tarkastella pikemminkin neuvoston kokonaiskantaa kuin yksittäistä hallitusta.
+<P>
+Herra puhemies, olen päässyt huomautusteni loppuun, mutta sanoisin vain, että kannatamme täysin komission ponnisteluja tällä alalla.
+
+<SPEAKER ID=67 NAME="Seppänen">
+Arvoisa puhemies, Välimeren alueella tonnikalaa suojataan erityisillä kielloilla ja määräyksillä. Se osoittaa, että komissiolla on käytettävissään hallinnollisia keinoja kalakantojen turvaamiseksi. Mutta aivan niin kuin komissaari Bonino sanoi, jäsenmailla on suuri vastuu valvonnasta.
+<P>
+Komission käytössä oleviin hallinnollisiin keinoihin kuuluu myös se mahdollisuus, että kielletään riistokalastus ajoverkoilla yhdessä eri maiden hallitusten kanssa. Tähän esittelijä McMahonkin viittasi. Sillä tavalla voidaan ottaa kantaa siihen faktaan, että moderni kalastustekniikka on uhka kalakantojen säilymiselle kaikissa merissä.
+<P>
+Välimerellä ongelma on tonnikala. Pohjoisessa taloudellinen ja ekologinen ongelma on norjalainen lohi. Välimeren lisäksi EU: ssa olisi kiinnitettävä huomiota myös pohjoisten alueiden kalastusongelmiin.
+<P>
+Norjalaiset kasvattavat lohia niiden jokien suissa, joissa on luonnonlohikantoja. Niin he saastuttavat meriä ja saattavat levittää kalatauteja erityisesti Tenojoen suussa. Norjalaisen lohen dumppaushinta pakottaa myös muiden maiden kalastajat tehostamaan kalastusta ryöstömenetelmin. Käsillä olevan mietinnön tapaisia raportteja tarvitsemme myös pohjoisilta vesialueilta.
+
+<SPEAKER ID=68 LANGUAGE="IT" NAME="Ripa di Meana">
+Arvoisa puhemies, ainoastaan ICCATin suositusten hyväksyminen Välimeren tonnikalojen hoitamiseksi, kuten komissio ehdottaa, ei missään nimessä riitä. Pelkästään kolmen vuoden aikana saaliit ovat kaksinkertaistuneet vuoden1992 aikaisesta 20 miljoonasta tonnista 40 miljoonaan tonniin vuonna 1995, ja me kaikki tiedämme, että nämä viralliset tiedot ovat paljon todellisia lukuja alhaisempia. Jos tätä kiihtyvää kehitystä jatketaan, Välimeressä ei pian ole tonnikaloja.
+<P>
+Me vaadimme komissiolta paljon tiukempia sääntöjä. ICCAT on saatava esittämään tonnikalakantoja todella uudistava ja suojeleva suunnitelma, jossa asetetaan ehdottomaan kalastuskieltoon, ilman mitään poikkeuksia, alle seitsemän kilon painoiset yksilöt ja kielletään samalla kaikki nykyiset kalanpoikasten pyyntiin tarkoitetut kalastusmenetelmät.
+<P>
+Me olemme sitä mieltä, että komission on tässä vaiheessa ehdotettava kauppasaartoa tonnikalan tuonnille Panamasta, Hondurasista ja Belizestä, jotka tarjoavat mukavuuslippuja kalastuslaivastoille, jotka välttyvät siten kaikilta säännöiltä, koska nämä maat eivät kuulu ICCATiin. Monissa tapauksissa mukavuuslippujen taustalla on valitettavasti eurooppalaisia omistajia, laivanvarustajia ja taloudellisia toimijoita. Tällainen sääntöjen kiertäminen ja tällainen kalakantojen todellinen ryöväys yhdessä valitettavasti pitkittyneen ajoverkkojen käytön ja miekkakalan pyynnin kanssa, joita harjoittavat erityisesti italialaiset kalastusalukset, edellyttää meiltä vastuun ottamista ja Euroopan unionilta hyvin paljon tiukempaa politiikkaa ja uusia rajoitustoimenpiteitä.
+
+<SPEAKER ID=69 LANGUAGE="ES" NAME="Fraga Estévez">
+Arvoisa puhemies, onnittelen herra McMahonia hänen mietintönsä johdosta, sillä se tukee komission ehdotusta sisällyttää yhteisön säännöstöön Atlantin tonnikalojen suojelukomission (ICCAT) jo vuonna 1996 suosittelemat tonnikalavarojen hoitoa koskevat toimenpiteet, mikä kalavarojen tilanteen huomioon ottaen on kieltämättä erittäin tärkeää - ja haluaisin, että keskittyisimme puhumaan pääasiallisesti näistä toimenpiteistä, emmekä niistä, jotka eivät suoranaisesti liity tämän keskustelun aiheeseen.
+<P>
+Mietintö ansaitsee kuitenkin tukemme myös sen vuoksi, että se kiinnittää huomiota muihinkin tuossa kokouksessa tehtyihin päätöksiin joita komissio ei ole vielä sisällyttänyt yhteisön säännöstöön. Viittaan tonnikalan tuontikieltoon Hondurasista ja Belizestä, koska näiden maiden laivastot kieltäytyvät kokonaan täyttämästä vastuullisen kalastuksen vähimmäisvaatimuksia.
+<P>
+Rouva komissaari, tiedämme, että 113-komitea on aloittanut kirjallisen menettelyn asian tutkimiseksi, mutta pelkäämme tämän keskustelun pitkittyvän liikaa, ennen kuin asia menee neuvoston käsiteltäväksi, ja koska useiden kuultujen mielipiteiden mukaan tämä saarto ei hyökkäisi GATTin eikä Maailmankauppajärjestön sääntöjä vastaan, on meidän pyydettävä komissiota kiirehtimään ja auttamaan, että tämä komitea antaisi lausuntonsa mahdollisimman pian, jotta saarto voitaisiin panna täytäntöön.
+<P>
+Toisaalta, kuten hyvin tiedätte, ICCAT on suositellut tämän vuoden 1. tammikuuta lähtien samanlaista kauppasaartoa myös Panaman lipun alla purjehtiville aluksille. Komissiolla ei ole suunnitteilla minkäänlaista ehdotusta ja hanke menettää tehonsa sen vuoksi, että Japani ja Yhdysvallat eivät ole käynnistäneet tätä saartoa - tätä esimerkkiä ei tietenkään kannata seurata.
+<P>
+Komissio on ICCATin jäsen, me Euroopan unioniin kuuluvat maat haluamme täyttää kaikki tämän järjestön määräämät suositukset. Sen vuoksi pyydän komissiota vielä kerran, että se näyttäisi vihreää valoa näille saartotoimenpiteille, sillä niiden avulla pystytään taistelemaan sitä vastaan, että sopimuspuolet eivät noudata ICCATin laatimia suosituksia.
+
+<SPEAKER ID=70 NAME="Piha">
+Arvoisa puhemies, tonnikalojen pyyntimäärät ovat viime vuosina nousseet huikeasti. Pyynnin rajoittamiseen tuleekin ryhtyä välittömästi, jos tonnikalojen elinkykyisyys halutaan taata tulevaisuudessa.
+<P>
+Kansainvälisellä tasolla on olemassa Atlantin tonnikalojen suojelukomission hyväksymät suositukset tonnikalavarojen hoidosta ja suojelutoimenpiteistä Välimerellä. Vika ei olekaan niinkään ollut toimenpiteissä vaan niiden laiminlyönneissä. Ajoverkkokalastus aiheuttaa myös jatkuvasti muun ekosysteemin, muun muassa delfiinien ja hylkeiden osalta, epätoivottavan tilanteen.
+<P>
+Komission ehdotukset vastaavat suojelukomission ehdotuksia ja parlamentin tulee ne hyväksyä. On kuitenkin välttämätöntä, että kaikki kyseisellä alueella tonnikalaa pyytävät valtiot saadaan toimenpiteisiin mukaan ja että valvonta pelaa tehokkaasti. Jos pyyntirajoitukset koskevat ainoastaan yhteisön lipun alla kalastavia aluksia, mitään todellista muutosta tilanteeseen ei saada ja tilanne on kalastajille epäreilu. Unionin on käytettävä myös painostusta, jotta tulokseen päästään.
+
+<SPEAKER ID=71 NAME="Bonino">
+Arvoisa puhemies, parlamentti muistanee, että yhteisöstä tuli ICCATin kansainvälisen komission jäsen viime marraskuussa, ja se kuuluu nyt myös Välimeren yleiseen kalastusneuvostoon. Yhteisö teki jo aiemminkin yhteistyötä näiden järjestöjen kanssa kansainvälisen oikeuden perusteella, mutta nyt kun siitä on tullut niiden jäsen, sen on tietysti ryhdyttävä nopeasti noudattamaan kaikkia näiden järjestöjen antamia suosituksia kalavarojen hoidosta.
+<P>
+Haluan selventää parlamentille, että tänään käsiteltävänä oleva ehdotus liittyy tähän yhteyteen ainoastaan kahden suosituksen osalta; muut ICCATin suositukset ovat asianmukaisissa lainsäädäntökansioissa eli ne on liitetty muihin lainsäädäntöehdotuksiin, jotka annetaan myöhemmin parlamentin käsiteltäväksi. Esimerkiksi kalatalousvaliokunta näyttää ehdottavan, että tähän ehdotukseen lisättäisiin kielto siirtää saaliita kalastusaluksiin/kalastusaluksista, jotka kuuluvat ICCATin ulkopuolella oleviin maihin. Suoraan sanottuna en ole sitä mieltä, että käsiteltävänämme oleva asetus 1626 olisi sopiva viitekehys tämäntyyppiselle tarkistukselle ja ehdotukselle, koska asetus koskee ainoastaan kalavarojen teknisiä säilyttämistoimenpiteitä. Komissio aikoo sen sijaan tehdä ehdotuksen neuvoston asetukseksi saaliiden siirron ja purkamisen valvonnasta: ehdotus on jo valmisteltavana, ja se on komission mielestä sopivampi kehys tähän tarkoitukseen.
+<P>
+Samat huomiot voidaan esittää tarkistuksista 3-5. Ilmoitan parlamentille, että komissio toimitti jo 30. tammikuuta neuvostolle Belizestä ja Hondurasista tuotavien tonnikalojen kauppasaartoa koskevan ehdotuksen. Komissio teki siis ehdotuksen kauppasaarrosta jo 30. tammikuuta, ja se on nyt neuvoston käsiteltävänä. Panaman osalta, joka muodostaa lainsäädännön kannalta monimutkaisemman tapauksen, komission yksiköt tutkivat asiaa ja valmistelevat jo sitä koskevaa ehdotusta.
+<P>
+Lopuksi kaksi hyvin lyhyttä kommenttia ajoverkkoja koskevista tarkistuksista. Me tiedämme tilanteen ja Euroopan parlamentin kannan komission ehdotukseen. Ajoverkot liittyvät teknisiä toimenpiteitä koskevan asetuksen soveltamisalaan laajemmassa yhteydessä, joka ei koske ainoastaan Välimerta, kuten kaikki tietävät. Näin ollen en halua puuttua tarkistusten sisältöön, koska olen sitä mieltä, että ajoverkkoja koskevat tarkistukset ovat tämän asetusehdotuksen oikeudellisen kehyksen ulkopuolella, ja komissio ei siis voi hyväksyä niitä, koska ajoverkkojen käyttö ei koske ainoastaan Välimerta. Sitä paitsi, kuten täällä on muistutettukin ajoverkkojen osalta, neuvosto käsittelee tätä aihetta 24. maaliskuuta pidettävässä ministerineuvoston kokouksessa puheenjohtajavaltion esittämän kompromissiehdotuksen pohjalta.
+
+<SPEAKER ID=72 NAME="Puhemies">
+Paljon kiitoksia, rouva Bonino.
+<P>
+Julistan keskustelun päättyneeksi.
+<P>
+Siirrymme äänestykseen.
+<P>
+Tarkistus 1
+
+<SPEAKER ID=73 LANGUAGE="EN" NAME="Provan">
+Arvoisa puhemies, luulen, että voisin hyväksyä tämän tarkistuksen, mutta olen sitä mieltä, että sitä pitäisi hiukan muotoilla eli muotoon: "neuvoston ensisijaisen tavoitteen poistaa" .
+
+<SPEAKER ID=74 NAME="Puhemies">
+Esittelijä McMahonilla on puheenvuoro.
+
+<SPEAKER ID=75 NAME="McMahon">
+Arvoisa puhemies, esittelijänä minun on puolustettava valiokunnan kantaa, mutta jätän parlamentin harkinnan varaan päätöksen siitä, kuinka pitäisi menetellä. Tiedän, että herra Provan puhui tästä keskustelussa ja hänen ryhmänsä äänesti itse asiassa tarkistuksen puolesta valiokunnassa, kun suosittelimme sitä. Ehkä viittaus neuvostoon voisi olla onnistuneempi kuin viittaus Yhdistyneen kuningaskunnan puheenjohtajuuteen. Jätän asian parlamentin päätettäväksi ennemmin kuin mainitsen yhden jäsenvaltion neuvostossa.
+
+<SPEAKER ID=76 NAME="Puhemies">
+Herra Medina Ortega pyytää minulta nyt puheenvuoroa.
+
+<SPEAKER ID=77 LANGUAGE="ES" NAME="Medina Ortega">
+Arvoisa puhemies, koska osaatte espanjaa ja jos luette espanjankielisen tekstin huomaatte, ettei siinä ole aihetta herra Provanin esittämään kysymykseen, sillä espanjankielisessä tekstissä sanotaan: " ottaa huomioon neuvoston ensisijaisen tavoitteen poistaa ajoverkot vähitellen käytöstä" . Siinä ei sanota " on" eikä " pitäisi" .
+<P>
+Ehdotan, että äänestämme espanjankielisen version puolesta ja poistamme " puheenjohtajana toimivan Yhdistyneen kuningaskunnan" . Luen sen: " ottaa huomioon neuvoston ensisijaisen tavoitteen poistaa ajoverkot vähitellen käytöstä" . Näin poistetaan se ongelma pitäisikö kirjoittaa "on" vai "pitäisi" .
+
+<SPEAKER ID=78 NAME="Puhemies">
+Näin teemme.
+<P>
+(Parlamentti hyväksyi lainsäädäntöpäätöslauselman.)
+
+<SPEAKER ID=79 NAME="Andersson">
+Haluan kiittää esittelijää mietinnön parissa tehdystä hyvästä työstä. Kysymys kalavarojen säilyttämistoimenpiteistä on erittäin merkityksellinen. Sen vuoksi on tärkeää tukea toimia, joita komissio ehdottaa tonnikalan suhteen. Haluan kuitenkin korostaa, että kysymystä mahdollisesta kauppasaarrosta Hondurasia, Belizeä ja Panamaa vastaan on tarkasteltava laajemmassa, maailmanlaajuisten kalavarojen säilyttämistoimenpiteiden yhteydessä. Tuontikieltoa näitä maita vastaan ei voida yksinomaan pitää yksipuolisena kilpailusuojana tietyille Euroopan unionin kalastajille.
+
+<CHAPTER ID=6>
+Direktiivin 85/384/ETY uudelleentarkastelu (arkkitehtuurin alan tutkintotodistukset)
+<SPEAKER ID=80 NAME="Puhemies">
+Esityslistalla on seuraavana Bergerin laatima oikeusasioita ja kansalaisten oikeuksia käsittelevän valiokunnan mietintö (A4-0079) komission kertomuksesta 10. päivänä kesäkuuta 1985 annetun neuvoston direktiivin 85/384/ETY uudelleentarkastelusta saatujen kokemusten perusteella kyseisen direktiivin 30 artiklan mukaisesti (KOM(97)0350 - C40487/97).
+<P>
+Rouva Bergerillä on puheenvuoro.
+
+<SPEAKER ID=81 NAME="Berger">
+Arvoisa puhemies, arvoisat kollegat, direktiivi arkkitehtuurin alan tutkintotodistusten vastavuoroisesta tunnustamisesta kuuluu varmaankin niihin harvoihin EU-direktiiveihin, joihin kaikki osalliset ovat lähes täysin tyytyväisiä. Sekä itse asianomainen ammattiryhmä että myös toimivaltaiset kansalliset viranomaiset ja komissio ovat todenneet käsiteltävänä olevan uudelleentarkasteltavan mietinnön johdosta, että direktiivi on osoittautunut käytännössä erittäin hyväksi. Tätä laajaa tyytyväisyyttä ja siihen liittyvää tarkistusten puutetta - komissio ehdottaa vain kahta aivan pientä tarkistusta - on joka tapauksessa korostettava ja tuettava, myös vaikka se ei kenties ole kiitollinen tai arvostusta lisäävä tehtävä Euroopan parlamentin esittelijälle.
+<P>
+Yksi tämän direktiivin hyvän käytännön toimivuuden pääasiallisista syistä on se, että tämä alakohtainen direktiivi edellyttää ensimmäisestä yleisestä tutkintotodistusten tunnustamisjärjestelmästä poiketen automaattista tunnustamista ja mahdollistaa näin sijoittautumisoikeuden ja palvelujen tarjoamisen vapauden nopean ja epäbyrokraattisen käytön. Tämä ratkaiseva etu olisi säilytettävä myös tulevaisuudessa, eikä sitä pitäisi uhrata väärälle yhtenäistämis- ja yksinkertaistamiskäsitykselle.
+<P>
+Sen vuoksi olen iloinen, että sekä oikeusasioita ja kansalaisten oikeuksia käsittelevä valiokunta että lausunnon antanut kulttuuri-, nuoriso- ja koulutusasioita sekä tiedotusvälineitä käsittelevä valiokunta ovat sitä vastaan, että arkkitehtuuridirektiivi yhdistettäisiin SLIM-aloitteen puitteissa yleiseen järjestelmään, joka ei tunne tätä automaattista tunnustamista ja joka ennen kaikkea sen vuoksi ei myöskään vielä toimi niin hyvin käytännössä.
+<P>
+Toisessa kohdassa mainitut parlamentin valiokunnat eivät tosin olleet yksimielisiä. Se koskee vaadittua opintojen vähimmäiskestoa. Direktiivi vaatii nyt neljää vuotta täysipäiväistä opiskelua. Kulttuurivaliokunta ehdottaa ajan pidentämistä viiteen vuoteen. Asiasta vastaava oikeusasioita ja kansalaisten oikeuksia käsittelevä valiokunta ei suosituksestani noudattanut tätä ehdotusta, ja suositan sen vuoksi myös tämän parlamentin täysistunnolle tarkistuksen 1 hylkäämistä sellaisena kuin se on esitetty, koska se on samansuuntainen.
+<P>
+Tiedän, että arkkitehtuuriopintojen keskimääräinen opiskeluaika on monissa jäsenvaltioissa reilusti yli säädetyn neljän vuoden vähimmäisajan. Sillä ei ole kuitenkaan mitään tekemistä sen kanssa, että vaadittavia taitoja ei voisi oppia ja hankkia lyhyemmässä ajassa, vaan ennen kaikkea sen kanssa, että yliopistoilla on usein huonot varusteet, opettajapula ja huono opintoorganisaatio. Meidän ei pitäisi laillistaa eikä ymmärtää näitä puutteita tunnustamisdirektiivissä. Vähimmäisajan pidennys viiteen vuoteen riistäisi lisäksi automaattisesti ammattikorkeakoulun suorittaneilta heidän tutkintotodistuksensa tunnustuksen.
+<P>
+Usein aivan liian pitkä opiskeluaika ja myöhäinen ammattiin astuminen kuuluvat nykyään varmasti arkkitehtien vaikeisiin ongelmiin Euroopassa. Toisena ongelmana on kuitenkin se, että yhä useammat julkiset tilaajat kiertävät Euroopan laajuisen kilpailun vaivannäön ja käyttävät urakoiden antamista koskevien direktiivien vielä juuri sallimia rajoittuneempia tarjouskilpailuja.
+<P>
+Tämä syrjii useimpia uusia arkkitehtitoimistoja vakiintuneisiin nähden ja voi vaikuttaa haitallisesti myös eurooppalaisen arkkitehtuurin laatuun. Ratkaisuna ei voi kuitenkaan olla, kuten monissa arkkitehtien kammioissa on keskusteltu, kilpailun rajoittaminen paikalliseksi. Pikemminkin olisi harkittava urakoiden antamista koskevien direktiivien uudistamisen yhteydessä, kuinka tarjouskilpailut voisivat tosin olla edelleen Euroopan laajuisia mutta toteutukseltaan yksinkertaisempia.
+<P>
+Haluaisin lopettaa pyytämällä tätä parlamenttia tukemaan mietintöäni ja pyytämällä samalla anteeksi, että joudun mahdollisesti lähtemään vielä ennen äänestystä. Junani lähtee klo 12.00. Sen jälkeen ei lähde kymmeneen tuntiin junia Itävaltaan, ja pyydän sen vuoksi ymmärtämään lähtöäni. Kollegani Evelyne Gebhardt oikeusasioita ja kansalaisten oikeuksia käsittelevästä valiokunnasta edustaa minua siinä tapauksessa.
+<P>
+
+<SPEAKER ID=82 NAME="Puhemies">
+Kiitoksia, rouva Berger. Ymmärrämme täysin, että junasta myöhästyminen on asia, jota ei elämässä pidä joutua kokemaan, ja varsinkaan, jos on menossa niin kauniiseen kaupunkiin kuin Wien on. Niinpä toivotan teille hyvää matkaa, jos joudutte jättämään meidät ennen äänestystä.
+<P>
+Rouva Baldilla on nyt lausunnon valmistelijana viiden minuutin pituinen puheenvuoro.
+
+<SPEAKER ID=83 NAME="Baldi">
+Arvoisa puhemies, arvoisat jäsenet, arkkitehtidirektiivi on mielestämme todella huolestuttava, myös joidenkin jäsenvaltioiden asennoitumisen vuoksi. Haluaisin muistuttaa mieliinne kulttuuri-, nuoriso- ja koulutusasioita sekä tiedotusvälineitä käsittelevän valiokunnan kannan, joka on melko selkeä tästä asiasta. Ennen sitä haluaisin kuitenkin vielä kiittää esittelijää siitä, että hän otti huomioon seuraavat valiokuntamme esille tuomat asiat: ensinnäkin sen, että komission on käytettävä hyväkseen tätä tilaisuutta tarkastella uudelleen arkkitehdin ammatin harjoittamiseen oikeuttavien tutkintojen tunnustamista sääntelevää direktiiviä korostaakseen asiantuntijaneuvostojen merkitystä tutkintojen välittömässä tunnustamisessa ja keventääkseen siten tiettyjä byrokraattisia muodollisuuksia; toiseksi sen vaatimuksen, että vastaanottajamaan toimivaltainen viranomainen nimitetään selvästi ja että asiasta ilmoitetaan säännönmukaisesti komissiolle; ja kolmanneksi sen, että myös oikeusasioita ja kansalaisten oikeuksia käsittelevä valiokunta on hämmästynyt siitä, että komissio hahmottelee arkkitehtuurin mahdollista yhdistämistä direktiivin 89/48/ETY yleiseen järjestelmään, koska komissio itse tunnustaa, että toisin kuin yleistä järjestelmää koskevissa direktiiveissä, direktiivissä 85/384/ETY säädetään ainoastaan palvelujen tarjoamista koskevasta järjestelmästä, joka on suotuisampi arkkitehdeille, ja että automaattisen tunnustamisen myönteiset vaikutukset arkkitehtien liikkuvuuteen saattaisivat tällöin joutua uhatuiksi.
+<P>
+Me olemme kuitenkin ilman muuta hieman huolestuneita siitä, että mietinnössä ei ole otettu huomioon meidän ensisijaisina pitämiämme johtopäätöksiä, kuten esimerkiksi neuvoa-antavan komitean vahvistamista sen sijaan, että sitä heikennetään komitologiamenettelyllä. Komitean kokoonpano - kolme asiantuntijaa kustakin jäsenvaltiosta, eli yksi arkkitehti, opettaja ja toimivaltaisten viranomaisten edustaja - ja sen asema tutkintotodistusten arvioijana tuovat nimittäin esille sen, että lähentyminen on ehdottoman välttämätöntä. Komitean tehtäviä olisi näin ollen laajennettava siten, että sille annetaan pelkän lausuntojen antamisoikeuden ohella pysyvä suositus- ja tutkintavalta uusien koulutusmuotojen arvioinnin yhteydessä.
+<P>
+Siitä pääsemmekin kipeään kohtaan: opintojen kestoon. Me olemme todella hämmästyneitä siitä, mitä on tapahtumassa. Neuvoa-antava komitea antoi vuonna 1992 lausunnon, jossa se ilmaisi selvästi, että opintojen kesto olisi nostettava viiteen vuoteen, minkä lisäksi tulisi kahden vuoden käytännön harjoittelu. Kuten tiedämme, tästä asiasta on keskusteltu yli 18 vuotta. Me olemme sitä mieltä, että Euroopan tasolla arkkitehdin ammatin perustana on oltava tällainen koulutus, muuten me emme voi puhua arkkitehdeistä vaan teknikoista, ja kulttuuri-, nuoriso- ja koulutusasioita sekä tiedotusvälineitä käsittelevän valiokunnan edustajina me olemme aiheellisesti korostaneet tätä. Me pidämme koulutusta erittäin tärkeänä, ja sen merkitys korostuu erityisesti silloin, kun kyseessä ovat ammatit, joita antavat meille tietyn roolin suhteessa muuhun maailmaan.
+<P>
+Unohdamme ehkä kulttuuri- ja arkkitehtuuriperintömme - joka on hyvin merkittävä - ja unohdamme myös, että jotta meillä olisi tilanteen tasalla olevia ammatinharjoittajia, heille on annettava asianmukainen koulutus; tämä on se syy, miksi meidän mielestämme opintojen kesto ei saa jäädä muutamaan vuoteen. Jos loppututkinto suoritetaan muutamassa vuodessa, se ei anna valmiuksia arkkitehdin ammatin harjoittamiseen kilpailukykyisellä tavalla, mitä meidän kannattamamme valmistumisaika tukisi. Kulttuuri-, nuoriso- ja koulutusasioita sekä tiedotusvälineitä käsittelevä valiokunta on ilmaissut hyvin selvästi kantansa tästä asiasta. Me emme ymmärrä, miksi oikeusasioita ja kansalaisten oikeuksia käsittelevä valiokunta kannattaa sen sijaan koulutusta, joka soveltuisi muuntyyppisille ammateille.
+<P>
+Me olemme huolestuneita, koska jos tämä kanta jää voitolle, voimme puhua varmastikin vain teknikoista tai rakennusmestareista, vaikka jotkut Euroopan unionin jäsenvaltiot, kuten Kreikka, Ranska ja Italia, ovat jo nostaneet opintojen keston useampaan vuoteen. Me haluamme määritellä tässä yhteydessä oikean kannan, me emme halua tyytyä yhden ainoan jäsenvaltion kantaan, jolla on aivan erilaiset tarpeet.
+<P>
+Näin ollen me pidämme ehdottoman tärkeänä sitä, että arkkitehdin ammatti todella tunnustetaan ja että arkkitehdeillä olisi sen myötä oma roolinsa unionissa. Kun puhutaan liikkuvuudesta, puhutaan mahdollisuudesta toteuttaa tavoitteita, mutta koulutuksessa puhutaan myös hyvin selvistä säännöistä, deontologiasta, ja asianmukaisista opinnoista. Tällä asialla on minulle arkkitehtinä erityistä merkitystä, ja siinä ominaisuudessa haluaisin sanoa, että kun valiokunnassa puhutaan joistakin erityisaloista, siellä ei pystytä määräämään niihin tarvittavasta koulutuksesta. Kun puhutaan kaupunkisuunnittelusta, kunnostamisesta tai muista arkkitehtuurin pääaloista, niin on selvää, että niihin ei riitä muutaman vuoden koulutus, kuten oikeusasioita ja kansalaisten oikeuksia käsittelevä valiokunta ehdottaa.
+<P>
+Pyydän pohtimaan tätä asiaa ja pyydän myös komissiota olemaan varovainen siinä vaiheessa, kun se esittää tietyn lausunnon.
+
+<SPEAKER ID=84 LANGUAGE="DE" NAME="Gebhardt">
+Arvoisa puhemies, oikeusasioita ja kansalaisten oikeuksia käsittelevä valiokunta on harkinnut erittäin tarkkaan, mitä tekee. Hyvät kollegat, Maria Berger luovutti laajan mietinnön, joka koskee vuonna 1985 laaditusta niin sanotusta arkkitehtidirektiivistä saatuja kokemuksia, ja on sanonut tarvittavat asiat siitä. Minun ei tarvitse lisätä mitään tämän perusteellisen työn asiasisältöön. Meillä on hyvä syy hyväksyä mietintö ja sen johtopäätökset.
+<P>
+Meidän on kuitenkin myös kysyttävä itseltämme, miksi meillä on vasta kahdeksan vuoden viiveen jälkeen tämä asia esityslistalla? Vastauksessa törmäämme harmilliseen asiaan, josta Euroopan kansalaiset kotona usein ja oikeutetusti läksyttävät yhdessä lauseessa: tästä Euroopasta olen saanut tarpeekseni. Se on haluttoman ja hitaan byrokratian Eurooppa. Tunnustamisdirektiivi, jonka on tarkoitus suoda arkkitehdeille vapaa ammatillinen liikkuvuus unionissa, tarjoaa vaivoin voitettavissa olevan esimerkin pöyristyttävästä haluttomuudesta ja hitaudesta. Tämän murhenäytelmän mukanaolijat ovat neuvosto, hallitukset ja komissio.
+<P>
+Ensimmäisessä näytöksessä lykkäämistragedia: kahdeksantoista vuotta kului, kunnes direktiivi lopulta kesäkuussa 1985 oli valmis. Tuona aikana oli, koulutusajan pituuden mukaan mitattuna, rajoitettu neljän arkkitehtisukupolven ajan kansalaisoikeutta vapaaseen ammatilliseen liikkuvuuteen Euroopassa. Samanaikaisesti Euroopan yhteisö kasvoi nopeammin kuin arkkitehtidirektiivi. Lopulta kymmensivuisessa laissa piti sen vuoksi vuosien 1973 ja 1981 laajentumisten jälkeen ottaa huomioon neljä uutta oikeudellista kehystä.
+<P>
+Toinen näytös: direktiivin täydellinen täytäntöönpano vaati neuvotellun 24 kuukauden sijasta täydet kymmenen vuotta! Euroopan valtioiden yhteisö kasvoi sillä välin Saksan yhdistymisen ansiosta ja sen jälkeen vielä kolmella uudella jäsenellä. Tänä vaikeana aikana voimme kiittää vain Saksan liittohallituksen hullunrohkeaa työskentelyvauhtia, että komission yksinkertaiseen kirjeeseen vastattiin jo kahden vuoden kuluttua.
+<P>
+Kolmas näytös, mutta ei vielä loppu: sen sijaan, että esittelisi saaduista kokemuksista kertovan kertomuksen viimeistään vuonna 1990, komissio esittää sen noin kahdeksan vuotta myöhemmin jäsenvaltioiden hyväksymänä. Herra puhemies, hyvät kollegat, olen vakuuttunut siitä, etteivät kansalaiset osoita vähääkään ymmärrystä tällaista vitkastelua kohtaan.
+<P>
+Neljäs näytös ja kiusallisen kappaleen väliaikainen kohokohta: vielä ennen kuin saimme esitettyä kantamme vanhan direktiivin kokemuksista, komissio esitti tarkistetun version. Se ei näin piitannut vapailla ja suorilla vaaleilla valitusta Euroopan parlamentista ja tallasi jalkoihinsa sen demokraattiset oikeudet.
+<P>
+Saan vielä ehkä sanoa lopuksi: periaate, jonka mukaan Euroopan unioni on kansalaisia varten eikä päinvastoin, pitäisi todella ottaa paremmin huomioon.
+<P>
+
+<SPEAKER ID=85 LANGUAGE="FR" NAME="Fontaine">
+Arvoisa puhemies, arvoisat kollegat, kyseessä on yksi niistä direktiiveistä, joiden tarkoituksena on ammattilaisten sijoittautumisvapauden takaaminen, ja joka koskettaa siis kansalaisten Eurooppaa, konkreettista Eurooppaa, ja tänään käsittelemämme ammattikunta, arkkitehdit, on se asia, joka ilmentää varmasti arkaluontoisimpia ongelmia.
+<P>
+Tosiaan, neljässä jäsenvaltiossa arkkitehtuurin alaa ei ole säädelty; muissa jäsenvaltioissa alat ovat erityisen kirjavia; lopuksi, jotkut jäsenmaat eivät 1985 pyytäneet poikkeuksia, joista ne olisivat voineet hyötyä. Näin kävi erityisesti Irlannille ja Alankomaille, vaikka niissä molemmissa harjoitetaan edelleen erityisen vanhojen alojen ammatteja.
+<P>
+Tähän tuli lisäksi huomattava viivästyminen direktiivin saattamisessa osaksi jäsenvaltioiden kansallista lainsäädäntöä, ja ehkä kaikista näistä syistä havaitsemme, että lopultakin hyvin pieni määrä ammattilaisia on hyötynyt tähän päivään mennessä direktiivistä. Vain 1500 kahdeksan vuoden aikana. Kuten huomaatte, hyvät kollegat, se on hyvin vähän.
+<P>
+On siis tarkasteltava direktiiviä uudelleen saatujen kokemuksien valossa ja haluaisin onnitella rouva Bergeriä hyvin lämpimästi hänen erinomaisesta mietinnöstään. Pahoittelemme kuten esittelijämme, ettei Euroopan parlamenttia pyydetty antamaan lausuntoaan komission suunnittelemista uudelleenjärjestelyistä ja kannatamme tässä tarkoituksessa kaikkia esittelijämme ehdotuksia, erityisesti "Vlassopouloun tapauksen" oikeuskäytännön yleistämisen tarpeellisuudesta, jotta todistukset tunnustettaisiin automaattisesti.
+<P>
+Niiden maiden osalta, jotka eivät pyytäneet poikkeuksia, toimeenpaneva valiokunta suostui kertomaan meille, että ongelma hoidettaisiin 2. joulukuuta tehdyllä direktiiviehdotuksella, jossa tarkistetaan yleinen direktiivi, ja otamme tämän sitoumuksen myönteisesti huomioon, rouva komissaari.
+<P>
+Suhtaudumme sanalla sanoen hyvin varauksellisesti komission suunnittelemaan ajatukseen liittää arkkitehtien ammattikunta yleiseen järjestelmään. Olemme, hyvät kollegat, aina nimittäin olleet sitä mieltä, että nämä valinnat kuuluvat pääasiallisesti asianosaisille ammattilaisille, eikä meistä ehdottomasti nytkään tunnu siltä, että tällainen liittäminen vastaisi eurooppalaisten arkkitehtien toiveita.
+<P>
+
+<SPEAKER ID=86 LANGUAGE="DE" NAME="Voggenhuber">
+Arvoisa puhemies, hyvät kollegat, kun aina vannomme täällä parlamentissa vapaan liikkuvuuden Euroopan puolesta ja samanaikaisesti monimuotoisen Euroopan puolesta, tämä tunnustus merkitsee käytännössä useimmiten mahdotonta tehtävää, mutta ainakin vähintään taidonnäytettä, jonka tapauksen mukaan muodostaa erittäin vaikeasti ratkaistavissa oleva tehtävä. Näiden kahden ideaalin lähentyminen voisi kai tapahtua vain siten, että sisämarkkinoiden Eurooppa, yhtenäisyyden Eurooppa, ottaisi yhteisen oikeuden perustaksi jonkin maan korkeimman saavutuksen kulttuurin alalla, korkeimman kehitystason kulttuurin ja sosiaalisen elämän alalla. Tällöin Euroopan rikkaus muuttuisi yhteiseksi rikkaudeksi.
+<P>
+Tehtävä muuttuu ratkaisemattomaksi, jos sitä käytetään väärin sääntöjen poistamiseen, ja tämä on nyt sellainen tapaus. Tässä ei ole kyse arkkitehtuurin tilanteesta. Kulttuuri-, nuoriso- ja koulutusasioita sekä tiedotusvälineitä käsittelevän valiokunnan vaatimuksia ei oteta huomioon. Ei ole kyse koulutuksesta ja huonosti varustetuista yliopistoista, on kyse siitä, tunnustammeko arkkitehtuurin taiteeksi, kulttuuriksi ja tieteeksi vai annammeko periksi rakennusteollisuuden ja kiinteistökauppojen hyödyntämispaineelle. Sen vuoksi pyydän tätä parlamenttia hyväksymään italialaisten kollegojemme erittäin huolellisesti laaditun sovitteluehdotuksen, joka haluaa säilyttää ainakin jotain arkkitehtuurin kulttuurisesta ja sosiaalisesta oikeutuksesta.
+<P>
+
+<SPEAKER ID=87 LANGUAGE="EN" NAME="Malone">
+Arvoisa puhemies, myös minä haluan onnitella esittelijää, koska hän on mietinnössään keksinyt ratkaisun ongelmaan, jonka komissio on itse aiheuttanut.
+<P>
+Komission kertomuksen piti valmistua 1990, mutta monista syistä sitä siirrettiin viime kesään. Olivatpa nämä viivästymisen syyt mitkä tahansa, varmaa on, että vuoden 1997 kertomuksessaan komissio piti viivästymistä syynä siihen, että Irlannin ongelmia vuoden 1985 direktiivin kanssa ei otettu huomioon, huolimatta siitä tosiasiasta, että - kuten sanoin - komissio oli ainoa syyllinen viivästymiseen.
+<P>
+Vuonna 1985 Irlannin hallitus ei saanut poikkeusta, kuten rouva Fontaine on sanonut, arkkitehtien todistusten tunnustamista koskevan direktiivin tiukimmista määräyksistä. Tätä poikkeusta olisi sovellettu sellaisten kokeneiden, pystyvien arkkitehtien osalta, joilla on ns. saavutetut oikeudet harjoittaa ammattiaan. Muut maat, kuten Alankomaat, saivat poikkeuksen samanlaisessa asemassa olevien arkkitehtien osalta.
+<P>
+Lopputulos oli, että hyvin lahjakkaista irlantilaisista arkkitehdeista koostuvaa ryhmää syrjittiin ja heidän liikkumistaan sisämarkkinoilla rajoitettiin. Komission on nyt myönnettävä, että näitä arkkitehteja on kohdeltava samoin kuin heidän eurooppalaisia virkaveljiään ja niitä muiden ammattien harjoittajia, joilla on ns. saavutettu oikeus harjoittaa ammattiaan. Toimivaltaiset viranomaiset, kuten Irlannin opetusministeriö, ovat tunnustaneet näiden arkkitehtien pätevyyden.
+<P>
+Haluan onnitella esittelijää komission painostamisesta tarkastelemaan uudelleen kantaansa. Toivon, että näille arkkitehdeille annetaan nyt myöhästyneesti heille kuuluvat oikeudet.
+
+<SPEAKER ID=88 LANGUAGE="DE" NAME="Heinisch">
+Arvoisa puhemies, direktiivi tutkintotodistusten vastavuoroisesta tunnustamisesta arkkitehtuurin alalla on yksi välttämättömistä määräyksistä yhteisten eurooppalaisten markkinoidemme valmiiksi saattamisessa. Palvelusten tarjoamisen vapaus ja sijoittautumisvapaus ovat edellytyksiä yhteisille markkinoille, jotka voivat luonnollisesti toteutua vain, jos jossakin jäsenvaltiossa hankitut ammattitutkinnot tunnustetaan muissakin jäsenvaltioissa. Vetoomusvaliokunnassa työni ansiosta olen jatkuvasti tekemisissä EU: n kansalaisten anomusten kanssa, joissa pyydetään tutkintojen tunnustamista. Nyt puhun kulttuurivaliokunnan jäsenenä, ja harkitsimme asiat siellä todella erittäin hyvin. Meille kaikille on selvää, että meiltä vaaditaan suuria ponnistuksia, jos haluamme luoda määräyksiä tutkintotodistusten vastavuoroisesta tunnustamisesta.
+<P>
+Kaikissa ponnisteluissamme on kuitenkin tärkeää, että otamme huomioon yksittäisten jäsenvaltioiden itsenäisyyden kulttuurin alalla ja muistutamme itsellemme, etteivät säännöt tutkintotodistusten vastavuoroisesta tunnustamisesta saa johtaa koulutuksen sisältöjen yhtenäistämiseen.
+<P>
+Esimerkiksi Saksassa tunnetaan perinteisten yliopistossa suoritettavien arkkitehtuuriopintojen ohella myös opiskelu niin sanotuissa ammattikorkeakouluissa. Opintojen lyhyemmästä kestosta huolimatta ei kuitenkaan voida puhua valmistuneiden huonommasta ammattipätevyydestä. Koulutusta suunniteltaessa painotettiin juuri erityisesti tehokkuutta ja käytännönläheisyyttä sekä kulttuuriin liittyviä vaatimuksia. Jäsenvaltioiden itsenäisyyden kulttuurin alalla on tarkoitus säilyttää eurooppalaisen kulttuurin monimuotoisuus. Tähän kuuluu myös EU: n jäsenvaltioiden koulutusjärjestelmien monipuolisuuden takaaminen.
+<P>
+Meidän on keskityttävä ennen kaikkea siihen, että saataisiin aikaan koulutusjärjestelmiemme vertailtavuus. Jos onnistumme kulkemaan tätä kuningastietä, löydämme myös jatkossa tutkintotodistusten vastavuoroisen tunnustamisen järkeviä sääntöjä, jotka auttavat meitä eteenpäin tiellämme Euroopan yhtenäisyyteen.
+<P>
+(Suosionosoituksia)
+<SPEAKER ID=89 LANGUAGE="DE" NAME="Elchlepp">
+Arvoisa puhemies, hyvät kollegat, hyväksyn rouva Bergerin selvitykset ja onnittelen häntä mietinnöstä. Haluaisin tehdä siitä vielä joitakin lyhyitä huomautuksia. Kaikkien tunnustamisdirektiivien suurena ansiona on se, että ne tekevät Euroopan näkemisen helpommaksi yksittäisille ihmisille - sitähän me aina vaadimme - toteuttavat vihdoin todellisuudessa sijoittautumisvapauden ja luovat ennen kaikkea myös uusia työllistymismahdollisuuksia. Haluaisin kiinnittää tässä yhteydessä huomiota siihen, että tutkintotodistusten vastavuoroinen EU: ssa tunnustaminen on myös johdonmukainen seuraus EU: n koulutusohjelmista, jotka taloudellisesti tukevat toimia muissa maissa suoritettujen opintosuoritusten ottamiseksi mukaan tutkintoihin, ja jo sen vuoksi vetoan sen puolesta, että ERASMUS- ja ECTS-ohjelmien puitteissa käytettäviä varoja lisättäisiin tulevaisuudessa huomattavasti.
+<P>
+Lisäksi meidän olisi vastustettava kaikkia houkutuksia huonontaa tunnustamisdirektiivejä, kuten esimerkiksi opettajat itsekkäistä kansallisista syistä aika ajoin tekevät. Se vahingoittaa Eurooppa-ajatusta oleellisesti paikan päällä ja leimaa EU: ta kielteisesti lehdistössä. Arkkitehtidirektiivi on osoittautunut kokonaisuudessaan hyväksi, vaikka pitkin harjoitteluajoin jatketut vanhemmat koulutukset pitäisi kyllä rinnastaa nykyisiin tutkintoihin, mitä pitäisi myös korostaa täällä kerran.
+<P>
+Lopuksi puhun vielä tärkeästä kohdasta: rouva Baldin vaatimus, joka muuten syntyi kulttuurivaliokunnassa ryhmäni ääniä vastaan, pidentää vastavuoroisen tunnustamisen edellytyksenä olevaa vähimmäisopiskeluaikaa viideksi vuodeksi, on Euroopan laajuista politiikkaa ajatellen erittäin arveluttava, koska, kuten jo sanottiin, niin estettäisiin yhdellä iskulla tuhansien ammattikorkeakouluissa arkkitehtuuria opiskelevien liikkuvuus. Se olisi Euroopan laajuisen politiikan suuri taka-askel, josta emme voisi ottaa täällä vastuuta.
+<P>
+Ehdotus ei ole oikeutettu asiallisestikaan ja on hätiköity, sillä koulutuksen laatua eivät takaa pelkät muodolliset vähimmäisopiskeluajat vaan maasta toiseen vaihtelevat ja todelliset opiskeluajat ja keskimääräinen lukukausien tuntimäärä. En haluaisi enää puida tätä asiaa tarkemmin, haluaisin vain sanoa, että tarkistus 1 ja sen ehdotus erilaisten opiskeluaikojen tasoittamistoimien käyttöönotosta on arveluttava ja sen vuoksi kyllä torjuttava.
+
+<SPEAKER ID=90 NAME="Bonino">
+Arvoisa puhemies, komissio suhtautuu myönteisesti oikeusasioiden valiokunnan laatimaan tasapainoiseen päätöslauselmaesitykseen, ja siksi haluaisinkin onnitella esittelijä Bergeriä hänen työstään. Komission mielestä direktiivi on osoittanut toimivuutensa ja se ansaitsee sijansa alakohtaisten direktiivien joukossa. Esille tuotuun viivästymiseen ja hitauteen direktiivin soveltamisessa löytyy mielestäni perusteluja mietinnön alusta; turhautuminen on sen sijaan asia, jonka me yhdessä jaamme.
+<P>
+Direktiiviin ehdotetaan siis vain joitakin vähemmän tärkeitä muutoksia, jotka eivät vaikuta oleellisesti direktiivin sisältöön. Komissio voi näin todeta, että päätöslauselmaesityksen perusteella direktiivin keskeinen sisältö voidaan säilyttää sellaisenaan. Tulevaisuuden suhteen kaikki vaihtoehdot ovat avoinna, ja siinä mielessä katsoisin, että tilaa löytyy myös lisäpohdinnoille.
+<P>
+Edellä sanotusta voidaankin jo päätellä, että komissio ei voi hyväksyä esitettyä tarkistusta, koska se asettaisi kyseenalaiseksi direktiivin perustana olevan tasapainon. Komissio ottaa tietenkin huomioon parlamentin äänestystuloksen, mutta tänään meidän on varmasti todettava, että parlamentin oikeusasioiden valiokunta on tehnyt - ilmeisesti syvällisen pohdinnan tuloksena - sen johtopäätöksen, että koulutuksen keston muuttaminen ei ole perusteltua. Arvoisat parlamentin jäsenet, näiden lyhyiden kommenttien lisäksi voin sanoa ainoastaan sen, että komissio ottaa luonnollisesti huomioon parlamentin äänestystuloksen, ja minä en voi mitenkään ottaa kantaa asiaan sitä ennen.
+
+<SPEAKER ID=91 NAME="Puhemies">
+Paljon kiitoksia, rouva Bonino.
+<P>
+Julistan keskustelun päättyneeksi.
+<P>
+Siirrymme äänestykseen.
+<P>
+(Parlamentti hyväksyi päätöslauselman.)
+
+<SPEAKER ID=92 LANGUAGE="DE" NAME="Rübig">
+Arvoisa puhemies, hylkäsin kohdan kahdeksan, koska minusta koulutuksen laatu on ehdottomasti ensisijainen. Koko elämän jatkuvat koulutus- ja jatkokoulutustoimet ovat menestyksellisen ammatissa toimimisen perusta. Nämä ammattiin pääsyyn pätevöittävät edellytykset vastaavat myös maailmanlaajuista, USA: n ajamaa suuntausta korkean tason luomiseksi ammattiinpääsyyn.
+
+<SPEAKER ID=93 LANGUAGE="DE" NAME="Habsburg-Lothringen">
+Arvoisa puhemies, haluaisin ensinnäkin täysin yhtyä sisällöllisesti siihen, mitä kollegani Rübig sanoi aiemmin, mutta haluaisin vielä lisätä siihen, että hylkäsin tarkistuksen, koska uskon, että se on Euroopan unionin perusperiaatteen toissijaisuuden vastainen, ja koska tämä periaate menee minun mielestäni oikeastaan kaikkien muiden edelle, minun oli hylättävä tarkistus.
+
+<SPEAKER ID=94 NAME="Puhemies">
+Herra Hallam pyytää minulta työjärjestyspuheenvuoroa.
+
+<SPEAKER ID=95 LANGUAGE="EN" NAME="Hallam">
+Arvoisa puhemies, työjärjestystä koskeva puheenvuoro. Tänään on käyty uskomattoman hieno keskustelu, joka on ollut hyvin kiinnostava. Ongelmana on, että perjantaiaamut ovat sellainen osa työtämme täysistunnossa, joita ei televisioida huoneisiimme eikä arkistoja varten. On aika sanoa, että jos otamme perjantaiaamut vakavasti - ja tänään keskustelu on ollut vakavaa - nekin pitäisi televisioida. Pyytäisin teitä ottamaan asian esiin puhemiehistössä.
+
+<SPEAKER ID=96 NAME="Puhemies">
+Paljon kiitoksia, herra Hallam. Annan asianne puhemiehistön käsiteltäväksi.
+<P>
+Herra Fordilla on nyt puheenvuoro.
+
+<SPEAKER ID=97 LANGUAGE="EN" NAME="Ford">
+Arvoisa puhemies, työjärjestystä koskeva puheenvuoro. Suhtaudun herra Hallamin puheenvuoroon hyvin myönteisesti, vaikka minun on sanottava, että tästä voisi päätellä, ettemme ota perjantaiaamuja vakavasti. Eilen äänestämässä oli yli 500 ihmistä, tänä aamuna heitä on noin 60. Olisi vaikea väittää, että parlamentti ottaa perjantain vakavasti, mutta ehkä asenne muuttuisi, jos televisioisimme perjantain istunnon.
+
+<SPEAKER ID=98 NAME="Puhemies">
+Herra Ford, minun on sanottava, että täällä olevat jäsenet ottavat kyllä perjantaiaamupäivät vakavasti.
+<P>
+Herra Habsburg-Lothringenilla on työjärjestyspuheenvuoro.
+
+<SPEAKER ID=99 LANGUAGE="DE" NAME="Habsburg-Lothringen">
+Arvoisa puhemies, minun on sanottava rehellisesti, että on luonnollisesti herra Fordin ongelma, suhtautuuko hän tähän vakavasti vai ei. Tosiasia on, että perjantaiaamun keskustelut eivät koske koko Euroopan väestöä vaan tiettyä kohderyhmää. Ne ovat kuitenkin aivan yhtä tärkeitä kuin kaikki muutkin keskustelut. Sen vuoksi haluaisin painokkaasti olla samaa mieltä herra Hallamin kanssa siitä, että olisi epäilemättä aika televisioida tämäkin päivä. Samoin olisi tärkeää, että yöistunnoista tiedotettaisiin paremmin. Kertomukset, jotka saamme yöistuntojen kulusta, eivät vastaa kertomuksia, joita saamme tavallisista päiväistunnoista. Sekin on sietämätöntä! Pyytäisin teitä oikein sydämellisesti, koska tiedän, että suhtaudutte perjantaihin samoin kuin jokaiseen yöistuntoon erittäin vakavasti, tekemään puhemiehistössä aloitteen ja huolehtimaan siitä, että niitä käsitellään tasavertaisesti muiden kanssa.
+<P>
+
+<SPEAKER ID=100 LANGUAGE="DE" NAME="Posselt">
+Arvoisa puhemies, pyysin puheenvuoroa saman kohdan vuoksi ja haluaisin sanoa seuraavaa: yli kahdeksantoista vuotta - ensimmäisistä Euroopan parlamentin vaaleista alkaen - täällä parlamentissa on ollut niin, että tiedotuspalvelumme ovat tehneet yöistunnoista ja perjantain istunnoista samanlaiset selostukset kuin muistakin istunnoista. Viime aikoina on tapahtunut selostusten järjestelmällistä supistamista. Tällöin olisi järkevää tehdä selostuksia juuri ajankohdista, jolloin ehkä on vähemmän selostusten tekijöitä paikalla, eli tietyllä tavalla tasoittaa vajausta tiedotuspalvelujemme vastaavilla toimilla. Meidän pitäisi antaa erittäin suuri arvo tässä parlamentissa pidettävien keskustelujen täydelliselle tasa-arvoisuudelle, yhdentekevää, milloin ne käydään!
+
+<SPEAKER ID=101 LANGUAGE="DE" NAME="Wieland">
+Arvoisa puhemies, haluaisin vielä kiinnittää huomionne työjärjestysongelmaan. En pyytänyt puheenvuoroa tänä aamuna pöytäkirjaa hyväksyttäessä, koska minusta eilinen istunto näytti oikein esitetyltä. Äänestimme eilen Fontainen mietinnöstä, ja nimenhuutoäänestyksessä äänestettiin yhtenä ryhmänä kymmenestä oikeusasioita ja kansalaisten oikeuksia käsittelevän valiokunnan tarkistuksesta. Pöytäkirjassa puhutaan oikein useasta nimenhuutoäänestyksestä. Minulla on tällä välin ollut tilaisuus katsoa nimenhuutoäänestysten tuloksia. Siellä näitä kymmentä tarkistusta koskevat äänestykset on merkitty yhdeksi nimenhuutoäänestykseksi. Puhemieskonferenssin päätösten taustaa vasten tarkastellen tarvitaan nähdäkseni selvitys, pidetäänkö eilistä äänestystä kymmenenä nimenhuutoäänestyksenä vai ainoastaan yhtenä. Minun käsitykseni mukaan ensin mainittu vaihtoehto on oikein.
+
+<SPEAKER ID=102 NAME="Puhemies">
+Kiitos, herra Wieland. Panen huomautuksenne muistiin ja pyydän puhemiehistöä harkitsemaan asiaa.
+
+<CHAPTER ID=7>
+Istuntokauden keskeyttäminen
+<SPEAKER ID=103 NAME="Puhemies">
+Arvoisat parlamentin jäsenet, nyt olemme todellakin saaneet työmme päätökseen. Ilmoitan, että tämän istunnon pöytäkirja annetaan parlamentin hyväksyttäväksi seuraavan istuntojakson alussa. Jos vastalauseita ei esitetä, toimitan juuri hyväksytyt päätöslauselmat asianomaisille tahoille.
+<P>
+Hyvät jäsenet, jälleen minulla on tämä mieluinen tehtävä, joka lankeaa osakseni joka perjantai ennen valojen sammuttamista, eli kiitän parlamentin yksiköitä heidän yhteistyöstään. Kuten tiedätte, hyvät jäsenet, ilman näiden yksiköiden tukea meidän olisi mahdotonta tehdä työtämme, mutta tällä viikolla haluan erityisesti painottaa sanatarkoista istuntoselostuksista vastaavan yksikön työntekijöiden tekemää hyvää työtä, sillä minulla oli mahdollisuus todeta henkilökohtaisesti heidän uutteruutensa ja erinomainen tarkkaavaisuutensa.
+<P>
+Kun aloitimme työmme tänä aamuna, eräs jäsen käytti 126 artiklaa jalomielisesti, kuten meillä on tapana, ja antoi rouva Fontainesta myönteisen arvion. Hyvät jäsenet, luulen, että monet meistä kadehtivat - myös minä - rouva Fontainen tekemää hyvää työtä, samoin kuin hänen kykyjään, mutta minä haluan myös sanoa, 19 artiklaa jalomielisesti hyväksikäyttäen, että teidän ansiostanne perjantaiaamupäivät ovat hedelmällisiä, rauhallisia, levollisia ja myönteisiä työpäiviä. Sen vuoksi haluan sanoa, että te olette minun mielestäni kaikkein parhaita parlamentin jäseniä.
+<P>
+Julistan Euroopan parlamentin istuntokauden keskeytetyksi.
+<P>
+(Istunto päättyi klo 12.00.)

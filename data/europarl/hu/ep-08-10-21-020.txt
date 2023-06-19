@@ -1,0 +1,4 @@
+<CHAPTER ID="020">
+Az ülés berekesztése
+<P>
+(Az ülést 0.14-kor berekesztik.)

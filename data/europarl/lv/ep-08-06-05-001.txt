@@ -1,0 +1,12 @@
+<CHAPTER ID="001">
+Sēdes atklāšana
+<P>
+(Sēde tika atklāta plkst. 9.00)
+<P>
+°
+<P>
+° °
+<SPEAKER ID="005" NAME="Monica Frassoni" AFFILIATION="Verts/ALE">
+(IT) Priekšsēdētājas kundze, dāmas un kungi, kā jūs zināt, ECURIE sistēmā (Eiropas Kopienas drošības sistēma) vakar atskanēja trauksme pēc nenoskaidrota incidenta Slovēnijas atomelektrostacijā. Trauksmi vēlāk atcēla, taču pastāv bažas par incidenta patieso raksturu un šīs ārkārtīgi neparastās trauksmes cēloņiem. Tādēļ mēs vēlamies izmantot iespēju, ka Komisija piedalīsies šodienas sēdē un ka pašlaik Slovēnija ir prezidējošā valsts, un aicināt prezidentūru un Komisiju informēt Eiropas Parlamentu un tātad arī sabiedrību par patiesajiem iemesliem, kuri iedarbināja šo anormālo procedūru. Es būtu pateicīga, priekšsēdētājas kundze, ja jūs ņemtu vērā šo pieprasījumu.
+<SPEAKER ID="006" NAME="Priekšsēdētāja">
+Es domāju, ka Slovēnijas prezidentūra, kas būs šeit vēlāk, atbildēs uz šo pieprasījumu.

@@ -1,0 +1,8 @@
+<CHAPTER ID="001">
+Eröffnung der Sitzung
+<P>
+(Die Sitzung wird um 10.00 Uhr eröffnet.)
+<SPEAKER ID="005" NAME="Die Präsidentin">
+Ich erkläre die Sitzung für eröffnet.
+<P>
+Ich freue mich sehr über die Wahl. Dies ist das erste Mal, dass ich als Präsidentin dieses Parlaments fungiere. Ich betrachte es als absolut wichtig und höchst symbolisch, dass ich diese Sitzung mit einer Aussprache über die Gleichstellung der Geschlechter eröffnen kann. Fest steht, dass unser Parlament doch recht große Fortschritte gemacht hat, und hoffentlich ist das auch weiterhin der Fall.

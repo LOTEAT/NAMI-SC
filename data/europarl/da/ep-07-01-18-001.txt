@@ -1,0 +1,8 @@
+<CHAPTER ID="001">
+Åbning af mødet
+<P>
+(Mødet åbnet kl. 10.00)
+<SPEAKER ID="005" NAME="Formanden">
+Jeg erklærer mødet for åbnet.
+<P>
+Jeg er meget glad for, at jeg blev valgt. Det er første gang, at jeg har forsædet i Europa-Parlamentet. Efter min mening er det helt grundlæggende og stærkt symbolsk, at jeg åbner dette møde med en forhandling om ligestilling mellem kønnene og om lighed. Det skal siges, at Parlamentet har gjort betydelige fremskridt i den retning, og det håber jeg, at vi bliver ved med at gøre.

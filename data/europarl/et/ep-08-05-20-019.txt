@@ -1,0 +1,114 @@
+<CHAPTER ID="019">
+Liikuva kosmoseside teenused (LKT) (arutelu) 
+<SPEAKER ID="452" NAME="Juhataja">
+Järgmine päevakorrapunkt on tööstuse, teadusuuringute ja energeetikakomisjoni nimel pr Halli esitatav raport liikuva kosmoseside teenuseid pakkuvate süsteemide valiku ja nendega seotud lubade andmise kohta - C6-0257/2007 -.
+<SPEAKER ID="453" NAME="Viviane Reding">
+komisjoni liige. - Hr juhataja, esiteks sooviksin tänada parlamenti komisjoni ettepaneku kiiremas korras käsitlemise eest ja ma tean, et see ei ole üldsegi lihtne. Parlament on selleni jõudmiseks teinud rohkem kui võimatut ja teinud seda hästi.
+<P>
+Liikuva kosmoseside teenused on valdkond, millel on Euroopa jaoks suur potentsiaal ja mille rakendused ulatuvad kiirest Interneti-sidest mobiilse ringhäälingu ja hädaabiteenusteni.
+<P>
+Liikuva kosmoseside teenuste konkurentsivõimelise siseturu areng tagab märkimisväärse mastaabisäästu ja spektri tõhusama kasutamise ning seda kõik ettevõtete ja tarbijate hüvanguks kogu Euroopas. Siiski on ajastus esmatähtis, kui me ei taha maha magada praegust võimalust liikuvate kosmoseside süsteemide osas.
+<P>
+Selle algatusega seatakse sisse satelliidioperaatorite üleeuroopaline kohustuslik valikuprotsess, mis on mitmeski mõttes tõepoolest väga uuenduslik. Seetõttu olen väga tänulik raportööri, pr Halli ja kõikide muude Euroopa Parlamendis olevate kolleegide tehtud jõupingutuste eest üksmeele edendamisel parlamendis ja nõukogus väga lühikese aja jooksul.
+<P>
+Raportis on palju muudatusi, mille eesmärk on haarata seadusandlikku otsusesse üksikasju, mida oli algselt mõeldud käsitleda valikuprotsessi rakendamise ajal. Nende hulka kuuluvad valikukriteeriumite üksikasjalik kirjeldus, nende kriteeriumite vastavad kaalud, pädevate riigiasutuste antavate lubade kehtivusaeg ja nii edasi ja nii edasi.
+<P>
+Harilikult ei ole õigusaktid sedavõrd üksikasjalikud. Kuid komisjon on valmis parlamendi tehtud muudatusi aktsepteerima. Need muudatused aitavad loomulikult saavutada läbipaistvust, mis on isegi suurem kui ettepanekus sisalduv, ja lisaks sellele on ettepaneku põhiosad, eeskätt valikumehhanismi konkurentsilaadne olemus, valikuprotsessi põhistruktuur ning peamised teetähised ja valikukriteeriumid, jäänud suuresti samaks.
+<P>
+Hoolimata nendest üksikasjadest on parlament ja nõukogu nõudnud teatavaid komiteemenetlusi valikuprogrammi mitme rakendusjärgu puhul.
+<P>
+Need menetlused, mis võivad olla kas regulatiivsed või sisaldada kontrolli, on, pean ütlema, vähem paindlikud ja aeganõudvamad kui komisjoni väljapakutu. Kuigi komisjon on valmis näitama selles suhtes üles paindlikkust ja neid muudatusi aktsepteerima, peaks olema ka selge, et see võib mõjutada valikuprotsessi üleüldist ajastust. See on esmatähtis ja seepärast ma tõesti kutsun kõiki rakendamises osalejaid üles olema satelliidioperaatorite valiku edukaks ja võimalikult kiireks lõpuleviimiseks vajaliku praktilise korralduse osas paindlikud.
+<P>
+Selles suhtes kutsun ka nõukogu üles võtma kõik vajalikud meetmed, et kokkulepe vormistataks lõplikult enne juunis toimuvat telekommunikatsiooninõukogu kohtumist, et saaks otsuse vastu võtta. Seega ma tean, et meie õigusspetsialistid komisjonis, parlamendis ja ennekõike nõukogus peavad nüüd palju tööd tegema.
+<P>
+Lõpetuseks, komisjon saab toetada pr Halli esitatud muudatusettepanekuid. Need vastavad eesistujariigi Sloveenia kompromisstekstile ning sillutavad teed kokkuleppele esimesel lugemisel.
+<P>
+Olen äärmiselt kindel, et see mõistlik kompromiss saab parlamendi laialdase toetuse osaliseks.
+<SPEAKER ID="454" NAME="Fiona Hall">
+raportöör. - Hr juhataja, tahaksin alustuseks tänada kõiki, kes töötasid LKT-otsuse kallal. Ma ei ütle seda tavapärasest viisakusest, vaid seepärast, et otsus peab jõudma sel nädalal täiskogusse kokkuleppena esimesel lugemisel tänu minu kolleegidest parlamendiliikmete suurele toetusele ja komisjoni abile lisateksti koostamisel. Sooviksin samuti edasi anda soojad tänusõnad eesistujariik Sloveeniale, kes jagas parlamendi otsusekindlust varajase kokkuleppe saavutamisel Euroopa konkurentsivõime huvides.
+<P>
+2007. aasta veebruaris nõustusid liikmesriigid allutama raadiosagedusribad 2 GHz sagedusalas liikuva kosmoseside teenuste ühtlustatud lähenemisviisile, et vältida häiringuid ja siseturu killustamist ning luua Euroopa LKT-tehnoloogia jaoks võimalus muutuda ülemaailmselt konkurentsivõimeliseks. Tänase LKT-otsuse mõte on valida ja litsentseerida nende üleeuroopaliste liikuva kosmoseside teenuste pakkujaid.
+<P>
+Selle otsuse üle peetud arutelul ja läbirääkimistel on ületatavad raskused olnud pigem institutsionaalsed ja geograafilised kui parteipoliitilised. Esiteks, parlamendiliikmed olid mures, et komisjoni ettepaneku projekt sisaldas valiku- ja litsentseerimisprotsessi elemente, mis olid pigem poliitilist kui puhttehnilist laadi, ja et seetõttu ei olnud komiteemenetluse kasutamine üksikasjade otsustamiseks sobiv. Eelkõige olid ELi äärealade liikmesriikidest pärit parlamendiliikmed ja ministrid äärmiselt mures, et valikukriteeriumid võivad soodustada operaatoreid, kes suudavad pakkuda vaid Euroopa keskosa hõlmavat teenust.
+<P>
+Parlamendiliikmed olid ka mures, et valikukriteeriumid ei pruugi peegeldada parlamendi sageli väljendatud huvi üldist huvi pakkuvate teenuste ning maapiirkondade ja vähemarenenud piirkondade kaasamise vastu. Need kitsaskohad lahendati nii, et teksti lisati üksikasjalikku ja läbipaistvat sõnastust geograafilisele katvusele, avalikule julgeolekule ja kaitseteenustele antava kaalu ning tarbijatele maapiirkondades ja kaugelasuvates piirkondades osutatavate teenuste sortimendi kohta.
+<P>
+Eriti tähtis oli kompromiss, milleni jõuti enne hääletamist tööstuse, teadusuuringute ja energeetikakomisjonis ja mille kohaselt kõik taotlejad kohustuvad osutama teenuseid, mis katavad vähemalt 50% elanikkonnast ja vähemalt 60% kogu maismaaterritooriumist igas liikmesriigis. Olgugi, et see on vähem kui 100% katvus, mida minu teada mõned kolleegid oleksid eelistanud, on see minu arvates elulähedaseks kompromissiks, arvestades tööstuse tehnilisi ja majanduslikke piiranguid. Pealegi jääb liikmesriikidele õigus kasutada spektrit muudel otstarvetel seal, kui see jääb väljapoole liikuva kosmoseside teenuste katvuspiirkonda, ning liikmesriigid võivad ette näha, et suurte katastroofide ajal kasutatakse liikuva kosmoseside süsteeme hädaabiteenuste osutamiseks.
+<P>
+Lõpetuseks, minu arvates oleme saavutanud väga hea ja kiire kokkuleppe, millest saavad kasu nii kodanikud kui ka tööstus. Ma usun, et lõplikud allkirjad saab kokkuleppele panna juunis, et esimese taotluste esitamise kutse saaks avaldada enne suve, ja ma loodan, et järgmine kord, kui liikmesriigid ja komisjon otsustavad, et nad vajavad üleeuroopalist teenuste teatavas sagedusribas, võtavad nad LKT-otsuse eeskujuks sellest, kuidas saavutada kiire kokkulepe, kaasates parlamendi teksti üksikasjadesse.
+<SPEAKER ID="455" NAME="Ruth Hieronymi">
+kultuuri- ja hariduskomisjoni arvamuse koostaja. - (DE) Hr juhataja, ka mina sooviksin esmalt tänada pr Halli äärmiselt kõrge sihiga jõupingutuste eest selle keeruka raporti puhul õigeaegse tulemuse saavutamisel. Ta sai hakkama!
+<P>
+Raport oli keerukas, kuna sellega tuli kehtestada eeskirjad üleeuroopaliste liikuva kosmoseside teenuste erijuhu kohta enne telekommunikatsioonipaketi läbivaatamist. See on parlamendi teene ja eriti parlamendi raportööri teene, et meil on õnnestunud leida võimalus teha selline eelotsus, mis sellegipoolest võimaldab piisavat läbipaistvust ja tegelikult seostab erakordsed otsused erakordsete asjaoludega.
+<P>
+Seetõttu on mul selle üle väga hea meel ja ma võin kultuuri- ja hariduskomisjoni nimel öelda, et me toetame saavutatud tulemust, kuna see sisaldab kolme punkti, mis on meie komisjoni arvates tähtsad: esiteks, otsus ei riiva liikmesriikide pädevust otsustada, kuidas sagedusi jaotada, teiseks, otsus seostub ka audiovisuaalsete meediateenuste direktiiviga, ning kolmandaks, see tugevdab ka meedia pluralismi ja kultuurilist mitmekesisust nende teenuste raames.
+<P>
+Nüüd saame vaid loota - ja see on meie soov - et see töö tasub ennast ära ja et meil tõesti saavad olema üleeuroopalised liikuva kosmoside teenused, nagu see otsus annab meile alust eeldada.
+<SPEAKER ID="456" NAME="Jean-Pierre Audy" LANGUAGE="FR">
+Hr juhataja, volinik, daamid ja härrad, esiteks soovin tänada oma kaasliiget, pr Halli, kes oli raportöör selles keerukas küsimuses, valmiduse eest teha koostööd fraktsioonide raportööridega. Minu tänusõnad ka suurepärasele kolleegile pr Nieblerile, kes on esmaklassilist tööd teinud vastutava parlamendikomisjoni - tööstuse, teadusuuringute ja energeetikakomisjoni - esimees.
+<P>
+Väljapakutud kompromiss on rahuldav. See on eesistujariik Sloveeniaga, keda ma õnnitlen kvaliteetse töö puhul, peetud pikkade arutelude vili, mis peaks võimaldama meil jõuda kokkuleppele esimesel lugemisel, et liikuva kosmoseside teenuseid saaks peagi osutada.
+<P>
+See asi on Euroopa suur saavutus - hästi tehtud, volinik, sest tulevikus valitakse liikuva kosmoseside teenuseid osutavad süsteemid, nagu kiire andmeedastus või mobiiltelevisioon, Euroopa tasandil. See on tõestus tõhususest, suuremast säästlikkusest ja ühenduse eelistamisest.
+<P>
+Me oleme kompromissist teadlikud. Me oleme tulnud pika tee ja ma tervitan tõika, et komisjon on nõustunud kodanikele osutatavate teenuste kasvuga, sest iga süsteem peab algusest peale katma 60% liidu territooriumist ning hiljemalt seitsme aasta möödudes käivitamisest kogu territooriumi. Mul on hea meel, et nõutava katvuse põhikriteeriumiks oli territoorium, mitte ainult elanikkond, mis tähendab, et teenindada saab meie maapiirkondi ja kaugelasuvaid piirkondi. See on mulle südamelähedane, sest ma olen pärit maapiirkonnast, kus läks palju aega ja ikka veel läheb aega, et osa saada tehnoloogilisest infrastruktuurist, mis on olemas suurtes linnapiirkondades, kusjuures küsimus on kodanike võrdsetes võimalustes, asugu nad siis Euroopa Liidu territooriumil kus tahes.
+<P>
+Kui tekst saab parlamendis vastu võetud ja nõukogus heaks kiidetud, palun ma komisjonil kiiresti tegutseda, et käivitada liikuva kosmoseside teenused, mida pakutakse mõistliku hinnaga, mida tuleb jälgida. Need teenused kujutavad endast suuri majanduslikke ja tehnoloogilisi väljakutseid, kuid need tähendavad, et Euroopal on võimalik kujundada endale kosmoseside teenuste osas kõrgeltarenenud sektor.
+<P>
+Lõpetuseks, ma loodan, et Euroopa tootjate julgus ja esmaklassilisus võimaldavad neil järgida seda poliitilist kompromissi, tõestades taas kord oma tohutut võimet tehnoloogiliselt kohaneda.
+<SPEAKER ID="457" NAME="Catherine Trautmann" LANGUAGE="FR">
+Hr juhataja, volinik, daamid ja härrad, lõpuks oleme me jõudnud parlamendis sagedusala S üle hääletamise eelõhtuni, mida operaatorid ja enamik liikmesriike on niiväga oodanud. Me juhime tähelepanu nende seni kasutamata sagedusalade tähtsusele, mille võimet vahendada mobiiltelevisiooni, andmeid või hädaabiteenuseid nüüd tunnustatakse ja mille suhtes parlament on väljendanud oma erilist huvi.
+<P>
+On tõsi, et meetod ei saa olla optimaalne. Sellel mõnevõrra "impressionistlikul” lähenemisviisil, mis on seisnenud sagedustekava kehtestamises väikeste pintslitõmmetega, on ilmnenud mõned piirangud. Me püüame neid seadusandliku telekommunikatsioonipaketi ülevaatamisel kõrvaldada. Mis puutub liikuva kosmoseside teenustesse, siis sisuliselt loob lõpptulemus tasakaalu poliitiliste ambitsioonide ja majandusliku teostatavuse vahel. Täpsemalt öeldes nõudis parlament teatavat geograafilise katvuse määra, et vältida digitaalse lõhe tekkimist nii liikmesriikide vahel kui ka nende sees. "Iludusvõistluse" kriteeriumide üleskaalumine on tõeline peegeldus parlamendi ja Euroopa kodanike kaalutluste vastavast kaalust, eeskätt avalike teenuste osas.
+<P>
+Lõppude lõpuks, võimalus katastroofi korral teatavas ulatuses rekvireerida eraldatud sagedused on kooskõlas ITUs peetavate praeguste aruteludega, kus telekommunikatsiooni panust inimelu kaitseks uuriti eelmisel aastal ülemaailmsel konverentsil.
+<P>
+Sotsialistide fraktsiooni variraportöörina peab rõhutama, kui meeldiv oli töötada koos meie raportööri pr Halliga, kelle äärmine otsusekindlus oli ilmselge. Kiidan ka eesistujariik Sloveeniat tõhusa panuse eest. Too sai tuleristsete osaliseks, seistes silmitsi tõeliselt raske küsimusega.
+<P>
+Lõpetuseks, tahaksin tunnustavalt ära mainida meie voliniku pr Redingi abivalmidust, komisjoni teenistuste tehnilist koostööd, tööstuse, teadusuuringute ja energeetikakomisjoni sekretariaati ning kahe ühise seadusandja õigus- ja keeleeksperte, kes võimaldasid meil koostada heatasemelise teksti. Mul on ka hea meel selle üle, et juhatasin kahte trialoogi, mis aitasid selgitada arutatavaid ja lahendatavaid küsimusi.
+<P>
+Parlament oli nõukoguga sõlmitud kokkuleppe lõppvormistamisel leplik, pidades silmas lühikest ajavahemikku seoses satelliitide programmeerimisega ning majanduslikke ja tööstuslikke huve. Vajalikud rahalised investeeringud on märkimisväärsed ja riskantsed ning me kõik tahame, et need oleksid edukad. Seepärast lõpetan praeguse kõne üleskutsega eesistujariigile ja komisjonile, et nad võtaksid endale selgesõnaliselt ülesande tagada, et ajakavast, mille kohaselt tekst võetakse vastu ja taotluste esitamise kutse avaldatakse enne suve, peetakse kinni.
+<SPEAKER ID="458" NAME="Jaromír Kohlíček">
+fraktsiooni GUE/NGL nimel. - (CS) Hr juhataja, daamid ja härrad, Euroopa Liit on hetkel üks võtmepartnereid kosmoseasjades. Ambitsioonikas plaan käivitada satelliitsüsteem Galileo satelliitnavigatsioonisüsteemi jaoks on piisavaks tõestuseks sellest. Kõik satelliidipõhised süsteemid peaksid sideks kasutama sama raadiospektrit vahemikus 1980-2010 MHz ja 2170-2200 MHz. On mõistlik, et selle resolutsiooniga püütakse ühtsesse raamistikku valada riikide killustatud eeskirjad ning kehtestada ühtne tegutsemismetoodika sidesageduste eraldamiseks. Teatava satelliidi puhul peaksid sagedused kõikide liikmesriikide jaoks olema samad. See peaks kõrvaldama kahjulikud häiringud ja samas võimaldama ühtselt arendada sektori seda osa, nimelt satelliitsidet. Võttes arvesse, et satelliitside vallas katab Euroopa Liit hetkel 40% maailmaturust, on selgelt näha, et ühine mittediskrimineeriv poliitika võib oluliselt tugevdada liidu tähtsat rolli selles sektoris.
+<P>
+Meie arvates võimaldab väljapakutud lahendus palju paremini arendada side tehnilisi ja majanduslikke külgi. Vaid kõiki 27 riiki hõlmavas ühtse lahenduse abil suudetakse üle saada olemasolevatest riiklikest haldustõketest. See sektor pakub võimalusi oskustööjõule, mistõttu on soovitatav seda sektorit toetada. Kogu fraktsioon GUE/NGL toetab seda resolutsiooni.
+<SPEAKER ID="459" NAME="Nikolaos Vakalis" AFFILIATION="PPE-DE">
+(EL) Hr juhataja, daamid ja härrad, lubage mul alustuseks öelda, kui uhke ma olen töö üle, mida me Euroopa Parlamendis teeme arutlusel oleva raportiga.
+<P>
+Küsimus ei ole ainult uues tehnoloogias. Küsimus on tähtsas rollis, mida terve hulk uusi tehnoloogilisi rakendusi etendab nii ELi sotsiaalse, majandusliku ja territoriaalse ühtekuuluvuse tugevdamisel kui ka ELi tavapärase majanduse muutmisel teadmistepõhiseks majanduseks.
+<P>
+Täpsemalt öeldes on sõnum, mida me Euroopa kodanikele täna edastame, daamid ja härrad, see, et LKT-süsteemide seitsme rakendusaasta möödudes saab ka liidu kaugeimal asuva küla iga elanik tarbida satelliidipõhiste või maapealsete mobiilvõrkude teenuseid. See tähendab väga kiiret Interneti-ühendust, mobiiltelevisiooni, satelliittelefonisidet ning ennekõike riiklikku kaitset ja leevendust loodusõnnetuste korral.
+<P>
+Me oleme tööstuse, teadusuuringute ja energeetikakomisjonis kõvasti võidelnud, tagamaks, et ühtegi piirkonda ei jäeta nendest teenustest ilma. Kui see peaks juhtuma, laieneb digitaalne lõhe iga liikmesriigi suurlinnakeskuste ja kaugelasuvate piirkondade vahel ning üldisemalt ELi erinevate piirkondade vahel.
+<P>
+Lõpetuseks, õnnitlen ja tänan siiralt raportööri, pr Halli ning variraportööre kampaania eest, mille nimel nad on parlamendis ja nõukogus võidelnud, tagamaks, et need väga tähtsad nõuded lisatakse lõplikku õigusloometeksti, mille üle me homme hääletame.
+<SPEAKER ID="460" NAME="Atanas Paparizov" AFFILIATION="PSE">
+(BG) Hr juhataja, ma sooviksin õnnitleda raportööri pr Halli jõupingutuste eest kõikidele ELi kodanikele kõikides liikmesriikides liikuva kosmoseside teenustele juurdepääsu tagamisel.
+<P>
+Tänu selle parlamendi jõupingutustele on üleeuroopalise katvuse kriteeriumil suurim kaal. Muudeks kriteeriumiteks on ka näiteks see, kas operaatorite pakutavad süsteemid osutavad teenuseid kaugeimal asuvates ja väikese asustustihedusega piirkondades või muid üldistes avalikes huvides olevaid teenuseid, nagu tsiviilkaitse ja katastroofijärgne taaste.
+<P>
+Resolutsiooni põhjal saab üksikisikust ja juriidilisest isikust teenusekasutajatele sellistes riikides, nagu minu oma, Bulgaaria Vabariik, mis ei asu ELi territooriumi keskel, luua tõelised võimalused pääseda ligi üleeuroopalistele liikuva kosmoseside teenustele, sealhulgas lairiba-Internetile, mobiilsetele multimeediarakendustele, tsiviilkaitsega seotud teenustele loodus- ja tööstusõnnetuste korral, ning loomulikult aitab see kaasa Euroopa Liidu äärealadel asuvate riikide konkurentsivõime suurendamisele.
+<SPEAKER ID="461" NAME="Anni Podimata" AFFILIATION="PSE">
+(EL) Hr juhataja, volinik, kuna raadiosagedusspekter on avalik hüve, ei saa turujõud üksinda tagada sidemaailma kõigile. Vaja on kahest lähenemisviisi, mis hõlmab poliitikat ja tarbijapõhist majandust. Spektri jaotamisel tuleb keskenduda pigem selle sotsiaalsele, kultuurilisele ja majanduslikule väärtusele kui LKT-osutajate või riigi tulude suurendamisele.
+<P>
+Volinik, ma möönan, et esmalt olin ma pettunud LKT-osutajate valimise kriteeriumides, eelkõige armetus geograafilises katvuses - 60% liidust - pidades silmas üleeuroopalist geograafilist katvust ja liikuva kosmoseside teenuste üleeuroopalist osutamist. Sellistes riikides nagu Kreeka, kus on palju mägesid ja saari, on raske investeerida kõikjal kiudoptilistesse võrkudesse, mistõttu omandab LKT osutamine suure tähtsuse. LKT abil on võimalik tagada täielik katvus kõikides liikmesriikides. See aitab kaasa elujõulise majanduse arengule kooskõlas muudetud Lissaboni strateegi eesmärkidega.
+<P>
+Tahaksin tänada raportööri pr Halli ning oma fraktsiooni variraportööri pr Trautmanni. Tänu nende panusele ja tõhusale koostööle nõukoguga oleme jõudnud märgatavalt täiustatud resolutsiooni ettepanekuni.
+<SPEAKER ID="462" NAME="Zdzisław Kazimierz Chmielewski" AFFILIATION="PPE-DE">
+(PL) Hr juhataja, Euroopa Komisjoni otsuse eesmärk, millele parlament on hinnangut andmas, on esitada ühtlustatud põhimõtted juurdepääsuks liikuva kosmoseside teenustele kõikides liikmesriikides. Vajadus ühenduse lahenduste järele on ilmselgelt põhjendatud satelliitside piiriülese olemusega. Me ei tohi siiski unustada selle lahenduse erilist tähtsust, mis eeldab, et me tegeleksime nõuetekohaselt järgneva menetlusega. Me peame eeskätt hoolitsema selle eest, et kõnealused sagedusalad oleksid tajutavaks täienduseks maapealsetele mobiilsidevõrkudele, peamiselt piirkondades, mida ohustab nähtus nimetusega digitaalne lõhe. Me ei tohi lihtsalt lubada spektri selle lõigu ülemäärast killustamist või, mis veelgi hullem, oodava majandusliku kasu laristamist.
+<SPEAKER ID="463" NAME="Viviane Reding">
+komisjoni liige. - (FR) Hr juhataja, vaid tänusõnad teile, tänusõnad parlamendile ja tänusõnad raportöörile pr Hallile. Minu arvates on nad olnud satelliitsidesektori - mis on majandussektor - väärilised, kuid ennekõike on nad olnud Euroopa kodanike väärilised, kes saavad kasu liikuva kosmoseside teenustest: telefonside, Internet, televisioon, samuti turvateenused, eriti katastroofi korral. Seega on meil tegu teenusega, mis saab olema meie suure Euroopa jaoks väga tähtis.
+<P>
+Vahepeal kavatseb komisjon anda oma parima, et avaldada taotluste esitamise kutsed võimalikult kiiresti, mis tähendab enne suve lõppu.
+<P>
+Seetõttu palun nõukogul tegutseda kiiresti, väga kiiresti, et ministrid saaksid juuniks otsustada, et seejärel saaksime me kõik paika panna, et otsuseid, mis langetatakse homme Euroopa Parlamendis tempos, mis, ma pean ütlema, on hingemattev, saaks kasutada meie tööstuse ja meie kodanike huvides.
+<P>
+Tänan teid eeskujuliku töö eest!
+<SPEAKER ID="464" NAME="Fiona Hall">
+raportöör. - Hr juhataja, tõepoolest oli väga hea kuulda volinikku ütlemas, et komisjon kavatseb igal juhul liikuda sellega edasi enne suve. See oleks väga teretulnud uudis nii kodanikele kui ka tööstusele.
+<P>
+Muidu aga sooviksin lihtsalt kõiki tänada selle arutelu käigus esitatud kommentaaride eest ja veel kord öelda, et see ei oleks saanud võimalikuks ilma äärmiselt hea koostööta kõigi vahel, kes on selle otsuse arutamisel osalenud.
+<SPEAKER ID="465" NAME="Juhataja">
+Arutelu on lõppenud.
+<P>
+Hääletus toimub homme kell 12.00.

@@ -1,0 +1,4 @@
+<CHAPTER ID="010">
+Eelmise istungi protokolli kinnitamine (vt protokoll)
+<P>
+ET(Eelmise istungi protokoll kinnitati.)

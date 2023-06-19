@@ -1,0 +1,8 @@
+<CHAPTER ID="012">
+Período de votação
+<SPEAKER ID="315" NAME="Presidente">
+Está encerrado o debate.
+<P>
+A votação terá lugar no final do debate.
+<P>
+Declarações escritas (Artigo 149.º do Regimento)

@@ -1,0 +1,8 @@
+<CHAPTER ID="001">
+Apertura della seduta
+<P>
+(La seduta è aperta alle 10.00)
+<SPEAKER ID="005" NAME="Presidente">
+Dichiaro aperta la seduta.
+<P>
+Sono molto felice di essere stata eletta: questa è la mia prima volta in qualità di Presidente dell'Aula. Ritengo assolutamente fondamentale e fortemente simbolico il fatto che io apra questa seduta con una discussione che verte sulla parità di genere e sull'eguaglianza. Va detto che questo nostro Parlamento ha compiuto notevoli passi avanti e mi auguro che continueremo a farne.
