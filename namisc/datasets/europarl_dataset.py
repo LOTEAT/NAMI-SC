@@ -6,28 +6,16 @@ Date: 2023-05-31 16:34:26
 # This is a temporary version, there may be a more elegant solution
 # I will modify these codes soon later
 import pickle
-import torch
 from .base import BaseDataset
 from .builder import DATASETS
 # from .load_data import load_data, load_rays
 
 @DATASETS.register_module()
-class EuroparlDataset(BaseDataset):
-    def __init__(self, path, length=-1):
-        data = pickle.load(open(path, 'rb'))
-        data = data[:length]
-        self.data = torch.nn.utils.rnn.pad_sequence([torch.LongTensor(seq) for seq in data], batch_first=True)
-        
-
-    def __getitem__(self, index):
-        return torch.tensor(self.data[index]), torch.tensor(self.data[index])
-
-    def __len__(self):
-        return len(self.data)
-    
+class EuroparlDataset(BaseDataset):    
     def __init__(self, cfg, pipeline):
         super().__init__()
         self.iter_n = 0
+        self.mode = cfg.mode
         self.cfg = cfg
         self.data = pickle.load(open(cfg.path, 'rb'))
         # self.data = torch.nn.utils.rnn.pad_sequence([torch.LongTensor(seq) for seq in data], batch_first=True)

@@ -12,7 +12,7 @@ from ..builder import SD
 
 
 @SD.register_module()
-class BaseSE(nn.Module, metaclass=ABCMeta):
+class BaseSD(nn.Module, metaclass=ABCMeta):
     def __init__(self, **kwarg):
         super().__init__()
 

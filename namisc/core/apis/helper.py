@@ -22,14 +22,24 @@ def parse_args():
     parser = argparse.ArgumentParser(description='train a nerf')
     parser.add_argument('--config',
                         help='train config file path',
-                        default='configs/deepsc/deepsc.py')
+                        default='configs/deepsc/deepsc.py',
+                        type=str)
     parser.add_argument('--dataname',
                         help='data name in dataset',
-                        default='europarl')
+                        default='europarl',
+                        type=str)
     parser.add_argument('--test_only',
                         help='set to influence on testset once',
                         action='store_true')
-    parser.add_argument('--load_from', help='reset load_from', default='')
+    parser.add_argument('--num_threads',
+                        help='the number of threads for training or testing',
+                        default=3,
+                        type=int
+                        )
+    parser.add_argument('--load_from', 
+                        help='reset load_from', 
+                        default='',
+                        type=str)
     args = parser.parse_args()
     return args
 

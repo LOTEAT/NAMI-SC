@@ -6,9 +6,7 @@ from mmcv.runner import EpochBasedRunner
 
 class DeepSCTrainRunner(EpochBasedRunner):
     """DeepSCTrainRunner."""
-    pass
 
 
 class DeepSCTestRunner(EpochBasedRunner):
     """DeepSCTestRunner."""
-    pass

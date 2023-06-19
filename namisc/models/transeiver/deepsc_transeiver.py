@@ -28,3 +28,34 @@ class DeepSCTranseiver(BaseTranseiver):
 
     def forward(self, data, is_test=False):
         pass
+    
+    def train_step(self, data, optimizer, **kwargs):
+        print(data)
+        # for k in data:
+        #     data[k] = unfold_batching(data[k])
+        # ret = self.forward(data, is_test=False)
+
+        # # rgb: fine network's out, coarse_rgb: coarse's
+        # img_loss = img2mse(ret['rgb'], data['target_s'])
+        # psnr = mse2psnr(img_loss)
+        # loss = img_loss
+
+        # if 'coarse_rgb' in ret:
+        #     coarse_img_loss = img2mse(ret['coarse_rgb'], data['target_s'])
+        #     loss = loss + coarse_img_loss
+        #     coarse_psnr = mse2psnr(coarse_img_loss)
+
+        # log_vars = {'loss': loss.item(), 'psnr': psnr.item()}
+        # outputs = {
+        #     'loss': loss,
+        #     'log_vars': log_vars,
+        #     'num_samples': ret['rgb'].shape[0]
+        # }
+        # return outputs
+        return super().train_step(data, optimizer, **kwargs)
+    
+    def val_step(self, data, **kwargs):
+        return super().val_step(data, **kwargs)
+    
+    def test_step(self, data, **kwargs):
+        pass

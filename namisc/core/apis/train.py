@@ -12,7 +12,7 @@ Date: 2023-06-19 11:55:41
 # from xrnerf.models.builder import build_network
 # from xrnerf.utils import get_root_logger
 
-# from .helper import build_dataloader, get_optimizer, get_runner, register_hooks
+from .helper import build_dataloader, get_optimizer, get_runner, register_hooks
 
 
 def train_sc(cfg):
@@ -22,7 +22,7 @@ def train_sc(cfg):
         cfg (dict): The config dict for training.
     """
     pass 
-    # train_loader, trainset = build_dataloader(cfg, mode='train')
+    train_loader, trainset = build_dataloader(cfg, mode='train')
     # val_loader, valset = build_dataloader(cfg, mode='val')
     # dataloaders = [train_loader, val_loader]
 

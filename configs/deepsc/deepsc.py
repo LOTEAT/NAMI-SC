@@ -54,37 +54,38 @@ model = dict(
     cfg=dict(
         phase='train',  # 'train' or 'test'
     ),
-    mlp=dict(  # coarse model
-        type='NerfMLP',
+    se=dict(  
+        type='DeepSCSemanticEncoder',
     ),
-    mlp_fine=dict(  # fine model
-        type='NerfMLP',
+    ce=dict(
+        type='DeepSCChannelEncoder'
     ),
-    render=dict(  # render model
-        type='NerfRender',
+    channel=dict(
+        type='Awgn',
+    ),
+    cd=dict( 
+        type='DeepSCChannelDecoder',
+    ),
+    sd=dict( 
+        type='DeepSCSemanticDecoder',
     ),
 )
 
-basedata_cfg = dict(
-    dataset_type=dataset_type,
-    datadir='data/nerf_llff_data/#DATANAME#',
-    half_res=False,  # load blender synthetic data at 400x400 instead of 800x800
-    testskip=
-    8,  # will load 1/N images from test/val sets, useful for large datasets like deepvoxels
-    N_rand_per_sampler=N_rand_per_sampler,
-    llffhold=8,  # will take every 1/N images as LLFF test set, paper uses 8
-    no_ndc=no_ndc,
-    white_bkgd=white_bkgd,
-    spherify=False,  # set for spherical 360 scenes
-    shape='greek',  # options : armchair / cube / greek / vase
-    factor=8,  # downsample factor for LLFF images
-    is_batching=True,  # True for blender, False for llff
+traindata_cfg = dict(
+    datadir='data/#DATANAME#',
     mode='train',
+    path='data/#DATANAME#/train_data.pkl',
 )
-
-traindata_cfg = basedata_cfg.copy()
-valdata_cfg = basedata_cfg.copy()
-testdata_cfg = basedata_cfg.copy()
+valdata_cfg = dict(
+    datadir='data/#DATANAME#',
+    mode='val',
+    path='data/#DATANAME#/test_data.pkl',
+)
+testdata_cfg = dict(
+    datadir='data/#DATANAME#',
+    mode='test',
+    path='data/#DATANAME#/test_data.pkl',
+)
 
 traindata_cfg.update(dict())
 valdata_cfg.update(dict(mode='val'))
@@ -92,76 +93,31 @@ testdata_cfg.update(dict(mode='test', testskip=0))
 
 train_pipeline = [
     dict(
-        type='BatchSample',
-        enable=True,
-        N_rand=N_rand_per_sampler,
-    ),
-    dict(type='DeleteUseless', keys=['rays_rgb', 'idx']),
-    dict(
         type='ToTensor',
         enable=True,
         keys=['rays_o', 'rays_d', 'target_s'],
     ),
-    dict(
-        type='GetViewdirs',
-        enable=use_viewdirs,
-    ),
-    dict(
-        type='ToNDC',
-        enable=(not no_ndc),
-    ),
-    dict(type='GetBounds', enable=True),
-    dict(type='GetZvals', enable=True, lindisp=lindisp, N_samples=N_samples),
-    dict(type='PerturbZvals', enable=is_perturb),
-    dict(type='GetPts', enable=True),
-    dict(type='DeleteUseless', enable=True, keys=['iter_n']),  # iter_n
 ]
 
 test_pipeline = [
-    dict(
-        type='ToTensor',
-        enable=True,
-        keys=['pose'],
-    ),
-    dict(
-        type='GetRays',
-        enable=True,
-    ),
-    dict(type='FlattenRays',
-         enable=True),  # 原来是(H, W, ..) 变成(H*W, ...) 记录下原来的尺寸
-    dict(
-        type='GetViewdirs',
-        enable=use_viewdirs,
-    ),
-    dict(
-        type='ToNDC',
-        enable=(not no_ndc),
-    ),
-    dict(type='GetBounds', enable=True),
-    dict(type='GetZvals', enable=True, lindisp=lindisp,
-         N_samples=N_samples),  # 同上train_pipeline
-    dict(type='PerturbZvals', enable=False),  # 测试集不扰动
-    dict(type='GetPts', enable=True),
-    dict(type='DeleteUseless', enable=True,
-         keys=['pose']),  # 删除pose 其实求完ray就不再需要了
 ]
 
 data = dict(
-    train_loader=dict(batch_size=4, num_workers=4),
+    train_loader=dict(batch_size=64, num_workers=4),
     train=dict(
-        type='SceneBaseDataset',
+        type='EuroparlDataset',
         cfg=traindata_cfg,
         pipeline=train_pipeline,
     ),
-    val_loader=dict(batch_size=1, num_workers=0),
+    val_loader=dict(batch_size=64, num_workers=0),
     val=dict(
-        type='SceneBaseDataset',
+        type='EuroparlDataset',
         cfg=valdata_cfg,
         pipeline=test_pipeline,
     ),
-    test_loader=dict(batch_size=1, num_workers=0),
+    test_loader=dict(batch_size=64, num_workers=0),
     test=dict(
-        type='SceneBaseDataset',
+        type='EuroparlDataset',
         cfg=testdata_cfg,
         pipeline=test_pipeline,  # same pipeline as validation
     ),

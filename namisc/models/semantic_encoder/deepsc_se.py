@@ -1,5 +1,4 @@
 import torch.nn as nn
-import math
 from ..builder import SE
 from .base import BaseSE
 from ..transformer.base.encoder import TransformerEncoder
