@@ -1,6 +1,0 @@
-<CHAPTER ID="022">
-Pořad jednání příštího zasedání: 
-<SPEAKER ID="444" NAME="Zuzana Roithová" AFFILIATION="PPE-DE">
-Pane předsedající, já bych se jenom chtěla zeptat, zda ten zvláštní dnešní režim se bude opakovat, nebo zda byl opravdu jenom výstřelkem dnešního dne. Můžete mi na to odpovědět?
-<SPEAKER ID="445" NAME="Předsedající">
-Pokud to dobře chápu, šlo o výjimečnou situaci s ohledem na počet přihlášek. Doufám, že se tato situace nebude opakovat.

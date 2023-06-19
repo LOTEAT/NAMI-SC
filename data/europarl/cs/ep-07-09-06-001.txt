@@ -1,8 +1,0 @@
-<CHAPTER ID="001">
-Zahájení zasedání
-<P>
-(Zasedání bylo zahájeno v 10:00)
-<P>
-
-<SPEAKER ID="005" NAME="Antonio Tajani" AFFILIATION="PPE-DE">
-(IT) Pane předsedající, dámy a pánové, Evropa dnes ztratila jednoho ze svých největších umělců. Maestro Luciano Pavarotti zemřel dnes ráno v Modeně. Myslím si, že je správné vzdát hold tomuto velkému muži umění a kultury, který přinesl evropskou hudbu celému světu. Jeho odchod je obrovskou ztrátou pro celou Evropskou unii. Považuji za vhodné, že jsme si na pana Luciana Pavarottiho vzpomněli v tomto Parlamentu.

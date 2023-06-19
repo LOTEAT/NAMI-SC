@@ -1,8 +1,0 @@
-<CHAPTER ID="004">
-Hlasování
-<SPEAKER ID="097" NAME="Předsedající">
-Dalším bodem je hlasování.
-<P>
-Rád bych informoval sněmovnu, že v průběhu hlasování, na výslovnou žádost sdružení parlamentních novinářů, u každého souboru výsledků musíme také výslovně uvést počet hlasů pro a proti a počet těch, kdo se zdrželi hlasování. Přáli jsme si věci pro vás zjednodušit, ale není to možné.
-<P>
-(Podrobnosti hlasování: viz zápis)

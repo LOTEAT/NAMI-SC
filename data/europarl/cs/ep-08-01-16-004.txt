@@ -1,6 +1,0 @@
-<CHAPTER ID="004">
-Hlasování
-<SPEAKER ID="093" NAME="Předsedající">
-Dalším bodem na pořadu jednání je hlasování.
-<P>
-(Výsledky a další podrobnosti o hlasování: viz zápis z jednání)
