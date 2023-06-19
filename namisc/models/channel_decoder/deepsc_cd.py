@@ -16,7 +16,7 @@ class DeepSCChannelDecoder(BaseCD):
         self.dense2 = nn.Linear(d_model, 512)
         self.ac_fun2 = nn.ReLU()
         self.dense3 = nn.Linear(512, d_model)
-        self.layernorm1 = PowerNorm(128)
+        self.layernorm1 = PowerNorm()
 
     def forward(self, data):
         x1 = self.dense1(data)
