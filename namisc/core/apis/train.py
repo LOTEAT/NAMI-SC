@@ -9,7 +9,7 @@ Date: 2023-06-19 11:55:41
 # from mmcv.parallel import MMDataParallel, MMDistributedDataParallel, collate
 # from mmcv.runner import IterBasedRunner, get_dist_info, init_dist
 
-# from xrnerf.models.builder import build_network
+from namisc.models.builder import build_transceiver
 # from xrnerf.utils import get_root_logger
 
 from .helper import build_dataloader, get_optimizer, get_runner, register_hooks
@@ -24,9 +24,9 @@ def train_sc(cfg):
     pass 
     train_loader, trainset = build_dataloader(cfg, mode='train')
     val_loader, valset = build_dataloader(cfg, mode='val')
-    # dataloaders = [train_loader, val_loader]
+    dataloaders = [train_loader, val_loader]
 
-    # network = build_network(cfg.model)
+    tranceiver = build_transceiver(cfg.model)
 
     # optimizer = get_optimizer(network, cfg)
 
