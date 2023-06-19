@@ -13,6 +13,7 @@ CE = MODELS
 SD = MODELS
 CD = MODELS
 TRANSCEIVER = MODELS
+CHANNEL = MODELS
 
 def build_se(cfg):
     """Build semantic encoder."""
@@ -31,6 +32,10 @@ def build_sd(cfg):
 def build_cd(cfg):
     """Build channel decoder."""
     return CD.build(cfg)
+
+def build_channel(cfg):
+    """Build channel decoder."""
+    return CHANNEL.build(cfg)
 
 
 def build_transceiver(cfg):
