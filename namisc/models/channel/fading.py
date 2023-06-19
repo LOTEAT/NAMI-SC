@@ -1,0 +1,16 @@
+'''
+Author: LOTEAT
+Date: 2023-06-19 13:24:39
+'''
+from .base import BaseChannel
+import torch
+from ..builder import CHANNEL
+
+@CHANNEL.register_module()
+class Awgn(BaseChannel):
+    def __init__(self):
+        pass
+
+    def forward(self, **kwargs):
+        # TODO
+        raise NotImplementedError
