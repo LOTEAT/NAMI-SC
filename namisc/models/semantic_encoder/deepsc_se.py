@@ -1,3 +1,7 @@
+'''
+Author: LOTEAT
+Date: 2023-06-18 20:48:31
+'''
 import torch.nn as nn
 from ..builder import SE
 from .base import BaseSE
@@ -31,14 +35,15 @@ class DeepSCSemanticEncoder(BaseSE):
             for _ in range(num_layers)
         ])
         
-    def forward(self, x, mask):
+    def forward(self, data):
         # Embedding
-        x = self.embedding(x)
+        x = self.embedding(data['data'])
         # positional Encoding
         x = self.pos_encoding(x)
         # Dropout
         x = self.dropout(x)
         # Encoder
         for i in range(self.num_layers):
-            x = self.encoder[i](x, mask)
-        return x
+            x = self.encoder[i](x, data['enc_padding_mask'])
+        data['data'] = x
+        return data

@@ -17,8 +17,9 @@ class DeepSCChannelEncoder(BaseCE):
         self.powernorm = PowerNorm()
 
     def forward(self, data):
-        out = self.dense0(data)
+        out = self.dense0(data['data'])
         out = self.ac_fun1(out)
         out = self.dense1(out)
         out = self.powernorm(out)
-        return out
+        data['data'] = out
+        return data

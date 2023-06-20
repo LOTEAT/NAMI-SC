@@ -26,7 +26,8 @@ class TorchCall:
             params = self.kwargs
             for map_key, param_key in self.mappings.items():
                 params[param_key] = results[map_key]
-            results['torch_call_res'] = torch_fun(params)
+                results[map_key] = torch_fun(params)
+                del params[param_key]
         return results
     
 

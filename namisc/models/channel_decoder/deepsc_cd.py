@@ -19,10 +19,11 @@ class DeepSCChannelDecoder(BaseCD):
         self.layernorm1 = PowerNorm()
 
     def forward(self, data):
-        x1 = self.dense1(data)
+        x1 = self.dense1(data['data'])
         x1 = self.ac_fun1(x1)
         x2 = self.dense2(x1)
         x2 = self.ac_fun2(x2)
         x3 = self.dense3(x2)
         output = self.layernorm1(x1 + x3)
-        return output
+        data['enc_output'] = output
+        return data

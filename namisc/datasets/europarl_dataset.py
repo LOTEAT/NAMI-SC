@@ -8,6 +8,7 @@ Date: 2023-05-31 16:34:26
 import pickle
 from .base import BaseDataset
 from .builder import DATASETS
+import torch
 # from .load_data import load_data, load_rays
 
 @DATASETS.register_module()
@@ -17,8 +18,8 @@ class EuroparlDataset(BaseDataset):
         self.iter_n = 0
         self.mode = cfg.mode
         self.cfg = cfg
-        self.data = pickle.load(open(cfg.path, 'rb'))
-        # self.data = torch.nn.utils.rnn.pad_sequence([torch.LongTensor(seq) for seq in data], batch_first=True)
+        data = pickle.load(open(cfg.path, 'rb'))
+        self.data = torch.nn.utils.rnn.pad_sequence([torch.LongTensor(seq) for seq in data], batch_first=True)
         self._init_pipeline(pipeline)
 
     def get_info(self):

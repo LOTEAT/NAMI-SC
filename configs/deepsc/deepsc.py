@@ -103,13 +103,13 @@ testdata_cfg.update(dict(mode='test', testskip=0))
 
 train_pipeline = [
     dict(
-        type='Sample',
-        enable=True,
-    ),
-    dict(
         type='ToTensor',
         enable=True,
         keys=['data'],
+    ),
+    dict(
+        type='Sample',
+        enable=True,
     ),
 ]
 
