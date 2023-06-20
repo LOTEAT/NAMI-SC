@@ -59,3 +59,7 @@ class DeepSCTranseiver(BaseTranseiver):
     
     def test_step(self, data, **kwargs):
         pass
+    
+    def set_val_pipeline(self, func):
+        self.val_pipeline = func
+        return

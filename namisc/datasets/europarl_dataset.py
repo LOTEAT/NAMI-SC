@@ -28,6 +28,7 @@ class EuroparlDataset(BaseDataset):
     def _fetch_train_data(self, idx):
         data = {
             'data': self.data,
+            'target': self.data,
             'idx': idx
         }
         return data

@@ -103,9 +103,13 @@ testdata_cfg.update(dict(mode='test', testskip=0))
 
 train_pipeline = [
     dict(
+        type='Sample',
+        enable=True,
+    ),
+    dict(
         type='ToTensor',
         enable=True,
-        keys=['rays_o', 'rays_d', 'target_s'],
+        keys=['data'],
     ),
 ]
 
@@ -113,7 +117,7 @@ test_pipeline = [
 ]
 
 data = dict(
-    train_loader=dict(batch_size=64, num_workers=4),
+    train_loader=dict(batch_size=64, num_workers=0),
     train=dict(
         type='EuroparlDataset',
         cfg=traindata_cfg,

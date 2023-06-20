@@ -65,4 +65,4 @@ def train_sc(cfg):
     runner_kwargs = dict()
 
     print('start train...', flush=True)
-    runner.run(dataloaders, cfg.workflow, cfg.max_iters, **runner_kwargs)
+    runner.run(dataloaders, cfg.workflow, cfg.max_epochs, **runner_kwargs)
