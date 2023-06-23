@@ -67,6 +67,7 @@ model = dict(
     ),
     channel=dict(
         type='Awgn',
+        n_std=0.1,
     ),
     cd=dict( 
         type='DeepSCChannelDecoder',

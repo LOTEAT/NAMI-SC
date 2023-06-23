@@ -45,14 +45,14 @@ class DeepSCSemanticDecoder(BaseSD):
         self.final_layer = nn.Linear(d_model, vocab_size)
 
     def forward(self, data):
-        x = self.embedding(data['data']) 
+        x = self.embedding(data['target_input']) 
         x = self.pos_encoding(x)
 
         x = self.dropout(x)
 
         for i in range(self.num_layers):
             x, _, _ = self.dec_layers[i](
-                x, data['enc_output'], data['look_ahead_mask'], data['padding_mask']
+                x, data['data'], data['combined_mask'], data['dec_padding_mask']
             )
         x = self.final_layer(x)
         data['data'] = x

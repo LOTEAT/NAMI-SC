@@ -9,9 +9,10 @@ from ..builder import CHANNEL
 
 @CHANNEL.register_module()
 class Awgn(BaseChannel):
-    def __init__(self):
+    def __init__(self, n_std):
         super(Awgn, self).__init__()
+        self.n_std = n_std
 
-    def forward(self, data, n_std):
-        y = data + torch.randn_like(data) * n_std
-        return y
+    def forward(self, data):
+        data['data'] = data['data'] + torch.randn_like(data['data']) * self.n_std
+        return data

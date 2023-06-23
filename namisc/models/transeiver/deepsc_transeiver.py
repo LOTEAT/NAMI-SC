@@ -29,7 +29,7 @@ class DeepSCTranseiver(BaseTranseiver):
         self.channel = builder.build_channel(channel)
 
     def forward(self, data, is_test=False):
-        data = self.se(data['data'], data['enc_padding_mask'])
+        data = self.se(data)
         data = self.ce(data)
         data = self.channel(data)
         data = self.cd(data)
@@ -41,72 +41,16 @@ class DeepSCTranseiver(BaseTranseiver):
         device = data['data'].device
         target_input = data['target'][:, :-1]
         target_real = data['target'][:, 1:]
+        data['target_input'] = target_input
+        data['target_real'] = target_real
         
-        data['enc_padding_mask'] = create_padding_mask(data).to(device)
-        data['dec_padding_mask'] = create_padding_mask(data).to(device)
-        data['look_ahead_mask'] = create_look_ahead_mask(data['target'].size(1)).to(device)
-        data['dec_target_padding_mask'] = create_padding_mask(data['target'])
+        data['enc_padding_mask'] = create_padding_mask(data['data']).to(device)
+        data['dec_padding_mask'] = create_padding_mask(data['data']).to(device)
+        data['look_ahead_mask'] = create_look_ahead_mask(target_input.size(1)).to(device)
+        data['dec_target_padding_mask'] = create_padding_mask(target_input)
         data['combined_mask'] = torch.max(data['dec_target_padding_mask'], data['look_ahead_mask'])
         ret = self.forward(data, is_test=False)
-
-        # # rgb: fine network's out, coarse_rgb: coarse's
-        # img_loss = img2mse(ret['rgb'], data['target_s'])
-        # psnr = mse2psnr(img_loss)
-        # loss = img_loss
-
-        # if 'coarse_rgb' in ret:
-        #     coarse_img_loss = img2mse(ret['coarse_rgb'], data['target_s'])
-        #     loss = loss + coarse_img_loss
-        #     coarse_psnr = mse2psnr(coarse_img_loss)
-
-        # log_vars = {'loss': loss.item(), 'psnr': psnr.item()}
-        # outputs = {
-        #     'loss': loss,
-        #     'log_vars': log_vars,
-        #     'num_samples': ret['rgb'].shape[0]
-        # }
-        # return outputs
-        
-        
-    # tar_inp = target[:, :-1]  # exclude the last one
-    # tar_real = target[:, 1:]  # exclude the first one
-
-    # enc_padding_mask, combined_mask, dec_padding_mask = create_masks(data, tar_inp)
-
-    # optim_net.zero_grad()
-    # optim_mi.zero_grad()
-
-    # # Forward pass
-    # predictions, channel_enc_output, received_channel_enc_output = transceiver(
-    #     data, tar_inp, channel=channel, n_std=n_std,
-    #     enc_padding_mask=enc_padding_mask,
-    #     combined_mask=combined_mask, dec_padding_mask=dec_padding_mask
-    # )
-    # # Compute loss
-    # loss_error = criterion(tar_real, predictions)
-    # loss = loss_error
-    
-    # if use_mine:
-    #     joint, marginal = sample_batch(channel_enc_output, received_channel_enc_output)
-    #     mi_lb, _, _ = mutual_information(joint, marginal, mine_net)
-    #     loss_mine = -mi_lb
-    #     loss += 0.05 * loss_mine
-
-    # # Compute gradients and update network parameters
-    # loss.backward()
-    # optim_net.step()
-
-    # if use_mine:
-    #     # Compute gradients and update MI estimator parameters
-    #     optim_mi.zero_grad()
-    #     loss_mine.backward()
-    #     optim_mi.step()
-
-    # mi_numerical = 2.20  # Placeholder value, update with actual value
-
-    # return loss, None, mi_numerical
-
-        return super().train_step(data, optimizer, **kwargs)
+        return {}
     
     def val_step(self, data, **kwargs):
         return super().val_step(data, **kwargs)

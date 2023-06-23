@@ -25,5 +25,5 @@ class DeepSCChannelDecoder(BaseCD):
         x2 = self.ac_fun2(x2)
         x3 = self.dense3(x2)
         output = self.layernorm1(x1 + x3)
-        data['enc_output'] = output
+        data['data'] = output
         return data
