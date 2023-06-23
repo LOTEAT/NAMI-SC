@@ -39,14 +39,14 @@ class DeepSCTranseiver(BaseTranseiver):
     
     def train_step(self, data, optimizer, **kwargs):
         device = data['data'].device
-        target_input = data['target'][:, :-1]
-        target_real = data['target'][:, 1:]
+        target_input = data['target']
+        target_real = data['target_y']
         data['target_input'] = target_input
         data['target_real'] = target_real
         
         data['enc_padding_mask'] = create_padding_mask(data['data']).to(device)
         data['dec_padding_mask'] = create_padding_mask(data['data']).to(device)
-        data['look_ahead_mask'] = create_look_ahead_mask(target_input.size(1)).to(device)
+        data['look_ahead_mask'] = create_look_ahead_mask(data['target'].size(1)).to(device)
         data['dec_target_padding_mask'] = create_padding_mask(target_input)
         data['combined_mask'] = torch.max(data['dec_target_padding_mask'], data['look_ahead_mask'])
         ret = self.forward(data, is_test=False)

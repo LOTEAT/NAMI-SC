@@ -109,9 +109,13 @@ train_pipeline = [
         keys=['data'],
     ),
     dict(
-        type='Sample',
+        type='SampleData',
         enable=True,
     ),
+    dict(
+        type='GetDecoderData',
+        enable=True
+    )
 ]
 
 test_pipeline = [
