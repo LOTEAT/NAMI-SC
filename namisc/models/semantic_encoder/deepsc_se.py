@@ -44,6 +44,6 @@ class DeepSCSemanticEncoder(BaseSE):
         x = self.dropout(x)
         # Encoder
         for i in range(self.num_layers):
-            x = self.encoder[i](x, data['enc_padding_mask'])
+            x = self.encoder[i](x, data['data_padding_mask'])
         data['data'] = x
         return data

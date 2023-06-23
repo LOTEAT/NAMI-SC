@@ -115,7 +115,12 @@ train_pipeline = [
     dict(
         type='GetDecoderData',
         enable=True
-    )
+    ),
+    dict(
+        type='CreatePaddingMask',
+        enable=True,
+        keys=['data', 'target']
+    ),
 ]
 
 test_pipeline = [

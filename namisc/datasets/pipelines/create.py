@@ -2,6 +2,7 @@
 Author: LOTEAT
 Date: 2023-06-18 22:13:47
 '''
+import torch
 from ..builder import PIPELINES
 
 @PIPELINES.register_module()
@@ -73,7 +74,6 @@ class GetDecoderData:
                 to the next transform in pipeline.
         """
         if self.enable:
-            idx = results['idx']
             results['target'] = results['data'][:-1] # remove last one
             results['target_y'] = results['data'][1:] # remove first one
         return results
@@ -82,3 +82,30 @@ class GetDecoderData:
         return '{}:one data'.format(
             self.__class__.__name__)
         
+
+@PIPELINES.register_module()
+class CreatePaddingMask:
+    """sample image from dataset
+    Args:
+        keys (Sequence[str]): Required keys to be converted.
+    """
+    def __init__(self, enable=True, keys=[], **kwargs):
+        self.enable = enable
+        self.keys = keys
+        self.kwargs = kwargs
+
+    def __call__(self, results):
+        """BatchSlice
+        Args:
+            results (dict): The resulting dict to be modified and passed
+                to the next transform in pipeline.
+        """
+        if self.enable:
+            for key in self.keys:
+                mask = torch.eq(results[key], 0).float()
+                results['%s_padding_mask' % key] = mask.unsqueeze(0).unsqueeze(1) 
+        return results
+
+    def __repr__(self):
+        return '{}:one data'.format(
+            self.__class__.__name__)

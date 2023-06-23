@@ -7,8 +7,7 @@ import torch
 from .base import BaseTranseiver
 from .. import builder
 from ..builder import TRANSCEIVER
-from ..utils import SparseCategoricalCrossentropyLoss, create_look_ahead_mask, create_padding_mask
-
+from ..utils import SparseCategoricalCrossentropyLoss
 
 @TRANSCEIVER.register_module()
 class DeepSCTranseiver(BaseTranseiver):
@@ -39,18 +38,20 @@ class DeepSCTranseiver(BaseTranseiver):
     
     def train_step(self, data, optimizer, **kwargs):
         device = data['data'].device
-        target_input = data['target']
         target_real = data['target_y']
-        data['target_input'] = target_input
-        data['target_real'] = target_real
-        
-        data['enc_padding_mask'] = create_padding_mask(data['data']).to(device)
-        data['dec_padding_mask'] = create_padding_mask(data['data']).to(device)
-        data['look_ahead_mask'] = create_look_ahead_mask(data['target'].size(1)).to(device)
-        data['dec_target_padding_mask'] = create_padding_mask(target_input)
-        data['combined_mask'] = torch.max(data['dec_target_padding_mask'], data['look_ahead_mask'])
+        tgt_size = data['target'].size(1)
+        look_ahead_mask = 1 - torch.tril(torch.ones(tgt_size, tgt_size))
+        look_ahead_mask = look_ahead_mask.to(device)
+        data['combined_mask'] = torch.max(data['target_padding_mask'], look_ahead_mask)
         ret = self.forward(data, is_test=False)
-        return {}
+        loss = SparseCategoricalCrossentropyLoss(target_real, ret['data'])
+        log_vars = {'loss': loss.item()}
+        outputs = {
+            'loss': loss,
+            'log_vars': log_vars,
+            'num_samples': data['data'].shape[0]
+        }
+        return outputs
     
     def val_step(self, data, **kwargs):
         return super().val_step(data, **kwargs)
