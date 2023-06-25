@@ -67,7 +67,7 @@ model = dict(
     ),
     channel=dict(
         type='Awgn',
-        n_std=0.1,
+        snr=6,
     ),
     cd=dict( 
         type='DeepSCChannelDecoder',
@@ -86,21 +86,24 @@ traindata_cfg = dict(
     datadir='data/#DATANAME#',
     mode='train',
     path='data/#DATANAME#/train_data.pkl',
+    vocab_path='data/#DATANAME#/vocab.json'
 )
 valdata_cfg = dict(
     datadir='data/#DATANAME#',
     mode='val',
     path='data/#DATANAME#/test_data.pkl',
+    vocab_path='data/#DATANAME#/vocab.json'
 )
 testdata_cfg = dict(
     datadir='data/#DATANAME#',
     mode='test',
     path='data/#DATANAME#/test_data.pkl',
+    vocab_path='data/#DATANAME#/vocab.json'
 )
 
 traindata_cfg.update(dict())
 valdata_cfg.update(dict(mode='val'))
-testdata_cfg.update(dict(mode='test', testskip=0))
+testdata_cfg.update(dict(mode='test'))
 
 train_pipeline = [
     dict(
@@ -124,6 +127,25 @@ train_pipeline = [
 ]
 
 test_pipeline = [
+    dict(
+        type='ToTensor',
+        enable=True,
+        keys=['data'],
+    ),
+    dict(
+        type='SampleData',
+        enable=True,
+    ),
+    dict(
+        type='GetDecoderData',
+        enable=True,
+        is_test=True
+    ),
+    dict(
+        type='CreatePaddingMask',
+        enable=True,
+        keys=['data', 'target']
+    ),
 ]
 
 data = dict(

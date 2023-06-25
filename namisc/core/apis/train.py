@@ -20,11 +20,17 @@ def train_sc(cfg):
     train_loader, trainset = build_dataloader(cfg, mode='train')
     val_loader, valset = build_dataloader(cfg, mode='val')
     dataloaders = [train_loader, val_loader]
+    
+    extra_info = {}
+    extra_info['extra_func'] = trainset.extra_func()
+    extra_info['extra_data'] = trainset.extra_data()
 
     tranceiver = build_transceiver(cfg.model)
 
     optimizer = get_optimizer(tranceiver, cfg)
 
+    # TODO
+    # DDP
     # if cfg.distributed:
     #     print('init_dist...', flush=True)
     #     init_dist('slurm', **cfg.get('dist_param', {}))
@@ -62,7 +68,7 @@ def train_sc(cfg):
         runner.resume(cfg.resume_from)
     elif cfg.get('load_from', None) and os.path.exists(cfg.load_from):
         runner.load_checkpoint(cfg.load_from)
-    runner_kwargs = dict()
+    runner_kwargs = extra_info
 
     print('start train...', flush=True)
     runner.run(dataloaders, cfg.workflow, cfg.max_epochs, **runner_kwargs)

@@ -2,16 +2,10 @@
 Author: LOTEAT
 Date: 2023-06-19 11:55:41
 '''
-# import warnings
-
-# import torch
-# from mmcv.parallel import MMDataParallel, MMDistributedDataParallel, collate
-# from mmcv.runner import EpochBasedRunner, get_dist_info, init_dist
-
-# from xrnerf.models.builder import build_network
-# from xrnerf.utils import get_root_logger
-
-# from .helper import build_dataloader, get_optimizer, get_runner, register_hooks
+from mmcv.parallel import MMDataParallel
+from namisc.models.builder import build_transceiver
+from namisc.utils import get_root_logger
+from .helper import build_dataloader, get_runner, register_hooks
 
 
 def test_sc(cfg):
@@ -23,14 +17,20 @@ def test_sc(cfg):
                     in test phase, use 'EpochBasedRunner' to influence all testset, in one iter
                     in val phase, use 'IterBasedRunner' to influence 1/N testset, in one epoch (several iters)
     """
-    pass
-    # cfg.workflow = [('val', 1)]  # only run val_step one epoch
+    cfg.workflow = [('val', 1)]  # only run val_step one epoch
 
-    # test_loader, testset = build_dataloader(cfg, mode='test')
-    # dataloaders = [test_loader]
+    extra_info = {}
+    test_loader, testset = build_dataloader(cfg, mode='test')
+    
+    extra_info['extra_func'] = testset.extra_func()
+    extra_info['extra_data'] = testset.extra_data()
+    
+    dataloaders = [test_loader]
 
-    # network = build_network(cfg.model)
+    network = build_transceiver(cfg.model)
 
+    # TODO
+    # DDP
     # if cfg.distributed:
     #     print('init_dist...', flush=True)
     #     init_dist('slurm', **cfg.get('dist_param', {}))
@@ -41,17 +41,20 @@ def test_sc(cfg):
     #         broadcast_buffers=False,
     #         find_unused_parameters=find_unused_parameters)
     # else:
-    #     network = MMDataParallel(network.cuda(), device_ids=[0])
+    network = MMDataParallel(network.cuda(), device_ids=[1])
 
-    # Runner = get_runner(cfg.test_runner)
-    # runner = Runner(network,
-    #                 work_dir=cfg.work_dir,
-    #                 logger=get_root_logger(log_level=cfg.log_level),
-    #                 meta=None)
-    # runner.timestamp = cfg.get('timestamp', None)
-    # register_hooks(cfg.test_hooks, **locals())
+    Runner = get_runner(cfg.test_runner)
+    runner = Runner(network,
+                    work_dir=cfg.work_dir,
+                    logger=get_root_logger(log_level=cfg.log_level),
+                    meta=None)
+    runner.timestamp = cfg.get('timestamp', None)
+    register_hooks(cfg.test_hooks, **locals())
 
-    # runner.load_checkpoint(cfg.load_from)
+    runner.load_checkpoint(cfg.load_from)
 
-    # print('start test...', flush=True)
-    # runner.run(data_loaders=dataloaders, workflow=cfg.workflow, max_epochs=1)
+    print('start test...', flush=True)
+    
+    runner_kwargs = extra_info
+    
+    runner.run(data_loaders=dataloaders, workflow=cfg.workflow, max_epochs=1, **runner_kwargs)

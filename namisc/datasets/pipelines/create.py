@@ -63,8 +63,9 @@ class GetDecoderData:
     Args:
         keys (Sequence[str]): Required keys to be converted.
     """
-    def __init__(self, enable=True, **kwargs):
+    def __init__(self, enable=True, is_test=False, **kwargs):
         self.enable = enable
+        self.is_test = is_test
         self.kwargs = kwargs
 
     def __call__(self, results):
@@ -74,8 +75,13 @@ class GetDecoderData:
                 to the next transform in pipeline.
         """
         if self.enable:
-            results['target'] = results['data'][:-1] # remove last one
-            results['target_y'] = results['data'][1:] # remove first one
+            if self.is_test:
+                device = results['data'].device
+                results['target'] = self.kwargs['start_idx'] * torch.ones([1], dtype=torch.long).to(device)
+                results['target_y'] = results['data']
+            else:
+                results['target'] = results['data'][:-1] # remove last one
+                results['target_y'] = results['data'][1:] # remove first one
         return results
 
     def __repr__(self):

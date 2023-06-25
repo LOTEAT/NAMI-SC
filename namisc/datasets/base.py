@@ -38,3 +38,10 @@ class BaseDataset(Dataset, metaclass=ABCMeta):
 
     def set_iter(self, iter_n):
         self.iter_n = iter_n  # see PassIterHook
+        
+        
+    def extra_func(self):
+        return None
+    
+    def extra_data(self):
+        return None

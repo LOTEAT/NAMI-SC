@@ -10,7 +10,8 @@
             "request": "launch",
             "program": "run_sc.py",
             "console": "integratedTerminal",
-            "justMyCode": true
+            "justMyCode": false,
+            "args": ["--test_only"]
         }
     ]
 }
