@@ -37,7 +37,6 @@ class DeepSCTestRunner(EpochBasedRunner):
             self._inner_iter = i
             self.call_hook('before_val_iter')
             self.run_iter(data_batch, train_mode=False, **kwargs)
-        # print(self.outputs)
             self.call_hook('after_val_iter')
             self._iter += 1
 
