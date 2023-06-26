@@ -21,6 +21,7 @@ class DeepSCTranseiver(BaseTranseiver):
     def __init__(self, cfg, se=None, sd=None, channel=None, cd=None, ce=None):
         super().__init__()
         self.phase = cfg.get('phase', 'train')
+        self.max_length = cfg.get('max_length', 35)
         self.se = builder.build_se(se)
         self.sd = builder.build_sd(sd)
         self.ce = builder.build_ce(ce)
@@ -59,15 +60,13 @@ class DeepSCTranseiver(BaseTranseiver):
     def test_step(self, data, optimizer, **kwargs):
         device = data['data'].device
         tgt_size = data['target'].size(1)    
-            
         look_ahead_mask = get_look_ahead_mask(tgt_size).to(device)
         data['target_padding_mask'] = torch.max(data['target_padding_mask'], look_ahead_mask)
-        
         ret = self.cd(self.channel(self.ce(self.se(data))))
         
         cd_output = ret['data'].clone()
         predictions = []
-        for _ in range(35):
+        for _ in range(self.max_length):
             ret['data'] = cd_output.clone()
             ret = self.sd(ret)
             prediction = ret['data'][:, -1:, :]  # (batch_size, 1, vocab_size)

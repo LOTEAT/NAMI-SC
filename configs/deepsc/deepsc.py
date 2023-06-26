@@ -9,7 +9,7 @@ method = 'deepsc'
 # optimizer
 optimizer = dict(type='Adam', lr=5e-4, betas=(0.9, 0.999))
 optimizer_config = dict(grad_clip=None)
-
+max_length = 35
 max_epochs = 100
 test_epochs = 10
 lr_config = dict(policy='step', step=500 * 1000, gamma=0.1, by_epoch=False)
