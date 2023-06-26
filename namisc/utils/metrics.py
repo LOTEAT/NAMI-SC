@@ -8,20 +8,17 @@ from nltk.translate.bleu_score import sentence_bleu
 from w3lib.html import remove_tags
 from transformers import BertModel, BertTokenizer
 
-import torch.nn.functional as F
 
-
-def SparseCategoricalCrossentropyLoss(real, pred, ignore_index=0):
+def SparseCategoricalCrossentropyLoss(targets, predicts, ignore_index=0):
     loss_object = nn.CrossEntropyLoss(reduction='none')
-    mask = real != ignore_index
-    bs = pred.shape[0]
-    loss_ = loss_object(pred.view(-1, 22234), real.contiguous().view(-1))
+    mask = targets != ignore_index
+    bs, pred_dims = predicts.size(0), predicts.size(-1)
+    loss_ = loss_object(predicts.contiguous().view(-1, pred_dims), targets.contiguous().view(-1))
     loss_ = loss_.view(bs, -1)
     loss_ *= mask.float()
-    return torch.mean(loss_)
-    
-    
+    return loss_.mean()
 
+    
 
 
 def bleu_score(targets, predicts, weights=(1, 0, 0, 0)):
