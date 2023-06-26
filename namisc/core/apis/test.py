@@ -57,4 +57,4 @@ def test_sc(cfg):
     
     runner_kwargs = extra_info
     
-    runner.run(data_loaders=dataloaders, workflow=cfg.workflow, max_epochs=1, **runner_kwargs)
+    runner.run(data_loaders=dataloaders, workflow=cfg.workflow, max_epochs=cfg.test_epochs, **runner_kwargs)

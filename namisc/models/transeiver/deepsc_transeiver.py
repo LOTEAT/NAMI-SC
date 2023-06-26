@@ -7,7 +7,7 @@ import torch
 from .base import BaseTranseiver
 from .. import builder
 from ..builder import TRANSCEIVER
-from ..utils import SparseCategoricalCrossentropyLoss
+from ...utils import SparseCategoricalCrossentropyLoss
 
 
 def create_padding_mask(seq):
@@ -74,40 +74,31 @@ class DeepSCTranseiver(BaseTranseiver):
         ret = self.cd(self.channel(self.ce(self.se(data))))
         
         cd_output = ret['data'].clone()
-        
+        predictions = []
         for _ in range(35):
             ret['data'] = cd_output.clone()
             ret = self.sd(ret)
-            predictions = ret['data'][:, -1:, :]  # (batch_size, 1, vocab_size)
-            predicted_idx = torch.argmax(predictions, dim=-1).long()
+            prediction = ret['data'][:, -1:, :]  # (batch_size, 1, vocab_size)
+            predictions.append(prediction)
+            predicted_idx = torch.argmax(prediction, dim=-1).long()
             outputs = torch.cat([data['target'], predicted_idx], dim=-1)
             look_ahead_mask = create_look_ahead_mask(outputs.size(1)).to(device)
             data['target_padding_mask'] = create_padding_mask(outputs).to(device)
             data['combined_mask']= torch.max(data['target_padding_mask'], look_ahead_mask)
             data['target'] = outputs
 
-        
+        predictions = torch.cat(predictions, dim=1)
         sentences = outputs.cpu().numpy().tolist()
-        result_string = list(map(kwargs.get('extra_func'), sentences))
-        self.words.extend(result_string)
+        words = list(map(kwargs.get('extra_func'), sentences))
 
         target_sent = data['target'].cpu().numpy().tolist()
-        result_string = list(map(kwargs.get('extra_func'), target_sent))
-        self.targets.extend(result_string)
-
-        print(self.words)
-        print(self.targets)
+        targets = list(map(kwargs.get('extra_func'), target_sent))
         
-        
-        
-        # loss = SparseCategoricalCrossentropyLoss(data['target_y'], ret['data'])
-        # log_vars = {'loss': loss.item()}
-        # outputs = {
-        #     'loss': loss,
-        #     'log_vars': log_vars,
-        #     'num_samples': data['data'].shape[0]
-        # }
-        return {'loss': 0.1}
+        outputs = {
+            'words': words,
+            'targets': targets, 
+        }
+        return outputs
     
     def set_val_pipeline(self, func):
         self.val_pipeline = func

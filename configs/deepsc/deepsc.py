@@ -11,6 +11,7 @@ optimizer = dict(type='Adam', lr=5e-4, betas=(0.9, 0.999))
 optimizer_config = dict(grad_clip=None)
 
 max_epochs = 100
+test_epochs = 10
 lr_config = dict(policy='step', step=500 * 1000, gamma=0.1, by_epoch=False)
 checkpoint_config = dict(interval=5, by_epoch=False)
 log_level = 'INFO'
@@ -33,7 +34,8 @@ test_hooks = [
     dict(type='SetValPipelineHook',
          params=dict(),
          variables=dict(valset='testset')),
-    dict(type='TestHook', params=dict()),
+    dict(type='TextTestHook', 
+         params=dict(metric_names=['bleu_score'])),
 ]
 
 # runner
