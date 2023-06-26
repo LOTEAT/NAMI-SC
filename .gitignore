@@ -154,4 +154,3 @@ cython_debug/
 data/
 work_dirs/
 .vscode/
-.vscode
