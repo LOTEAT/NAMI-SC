@@ -19,7 +19,7 @@ class EuroparlDataset(BaseDataset):
         self.iter_n = 0
         self.mode = cfg.mode
         self.cfg = cfg
-        data = pickle.load(open(cfg.path, 'rb'))[:1000]
+        data = pickle.load(open(cfg.path, 'rb'))
         self.vocab = json.load(open(cfg.vocab_path, 'rb'))
         token_to_idx = self.vocab['token_to_idx']
         self.vocab = token_to_idx

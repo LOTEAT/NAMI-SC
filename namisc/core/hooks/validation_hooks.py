@@ -33,56 +33,7 @@ class ValidateHook(Hook):
 
     def after_val_iter(self, runner):
         """ValidateHook."""
-        rank, _ = get_dist_info()
-        if rank == 0:
-            cur_iter = runner.iter
-            rgbs = runner.outputs['rgbs']
-            gt_imgs = runner.outputs['gt_imgs']
-            if len(rgbs) == 0:
-                return
-            if rgbs[0].shape != gt_imgs[0].shape:
-                return
-
-            ########### calculate metrics ###########
-            mse_list, psnr_list, ssim_list = [], [], []
-            for i, rgb in enumerate(rgbs):
-                gt_img = gt_imgs[i]
-                if isinstance(gt_img, torch.Tensor):
-                    gt_img = gt_img.cpu().numpy()
-
-                mse = img2mse(rgb, gt_img)
-                psnr = mse2psnr(mse)
-                ssim = calculate_ssim(rgb,
-                                      gt_img,
-                                      data_range=gt_img.max() - gt_img.min(),
-                                      multichannel=True)
-                mse_list.append(mse.item())
-                psnr_list.append(psnr.item())
-                ssim_list.append(ssim)
-
-            average_mse = sum(mse_list) / len(mse_list)
-            average_psnr = sum(psnr_list) / len(psnr_list)
-            average_ssim = sum(ssim_list) / len(ssim_list)
-            ########### calculate metrics ###########
-
-            ########### save test images ###########
-            testset_dir = os.path.join(runner.work_dir, self.save_folder,
-                                       str(cur_iter))
-            os.makedirs(testset_dir, exist_ok=True)
-            for i, rgb in enumerate(rgbs):
-                filename = os.path.join(testset_dir, '{:03d}.png'.format(i))
-                final_img, gt_img = rgb, gt_imgs[i]
-                final_img = np.hstack((final_img, gt_img))
-                imageio.imwrite(filename, to8b(final_img))
-            ########### save test images ###########
-
-            # metrics = {'test_mse':average_mse, 'test_psnr':average_psnr, 'test_ssim':average_ssim}
-            # runner.log_buffer.update(metrics) # 不合适，没法做到每次val_step后输出当前值，他会跟之前的求一个滑动平均
-
-            metrics = 'On testset, mse is {:.5f}, psnr is {:.5f}, ssim is {:.5f}'.format(
-                average_mse, average_psnr, average_ssim)
-            runner.logger.info(metrics)
-
+        pass
 
 @HOOKS.register_module()
 class CalElapsedTimeHook(Hook):

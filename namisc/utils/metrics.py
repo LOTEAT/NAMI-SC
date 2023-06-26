@@ -9,7 +9,7 @@ from w3lib.html import remove_tags
 from transformers import BertModel, BertTokenizer
 
 
-def SparseCategoricalCrossentropyLoss(targets, predicts, ignore_index=0):
+def sparse_categorical_cross_entropy(targets, predicts, ignore_index=0):
     loss_object = nn.CrossEntropyLoss(reduction='none')
     mask = targets != ignore_index
     bs, pred_dims = predicts.size(0), predicts.size(-1)
@@ -17,9 +17,6 @@ def SparseCategoricalCrossentropyLoss(targets, predicts, ignore_index=0):
     loss_ = loss_.view(bs, -1)
     loss_ *= mask.float()
     return loss_.mean()
-
-    
-
 
 def bleu_score(targets, predicts, weights=(1, 0, 0, 0)):
     get_score = lambda target, predict: sentence_bleu(target, predict, weights=weights)

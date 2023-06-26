@@ -7,16 +7,8 @@ import torch
 from .base import BaseTranseiver
 from .. import builder
 from ..builder import TRANSCEIVER
-from ...utils import SparseCategoricalCrossentropyLoss
-
-
-def create_padding_mask(seq):
-    seq = torch.eq(seq, 0).float()
-    return seq.unsqueeze(1).unsqueeze(2) 
-
-def create_look_ahead_mask(size):
-    mask = 1 - torch.tril(torch.ones(size, size))
-    return mask 
+from ...utils import sparse_categorical_cross_entropy
+from ..utils import get_look_ahead_mask, get_padding_mask
 
 @TRANSCEIVER.register_module()
 class DeepSCTranseiver(BaseTranseiver):
@@ -49,11 +41,10 @@ class DeepSCTranseiver(BaseTranseiver):
     def train_step(self, data, optimizer, **kwargs):
         device = data['data'].device
         tgt_size = data['target'].size(1)
-        look_ahead_mask = 1 - torch.tril(torch.ones(tgt_size, tgt_size))
-        look_ahead_mask = look_ahead_mask.to(device)
-        data['combined_mask'] = torch.max(data['target_padding_mask'], look_ahead_mask)
+        look_ahead_mask = get_look_ahead_mask(tgt_size).to(device)
+        data['target_padding_mask'] = torch.max(data['target_padding_mask'], look_ahead_mask)
         ret = self.forward(data, is_test=False)
-        loss = SparseCategoricalCrossentropyLoss(data['target_y'], ret['data'])
+        loss = sparse_categorical_cross_entropy(data['target_y'], ret['data'])
         log_vars = {'loss': loss.item()}
         outputs = {
             'loss': loss,
@@ -67,10 +58,11 @@ class DeepSCTranseiver(BaseTranseiver):
     
     def test_step(self, data, optimizer, **kwargs):
         device = data['data'].device
-        tgt_size = data['target'].size(1)
-        look_ahead_mask = 1 - torch.tril(torch.ones(tgt_size, tgt_size))
-        look_ahead_mask = look_ahead_mask.to(device)
-        data['combined_mask'] = torch.max(data['target_padding_mask'], look_ahead_mask)
+        tgt_size = data['target'].size(1)    
+            
+        look_ahead_mask = get_look_ahead_mask(tgt_size).to(device)
+        data['target_padding_mask'] = torch.max(data['target_padding_mask'], look_ahead_mask)
+        
         ret = self.cd(self.channel(self.ce(self.se(data))))
         
         cd_output = ret['data'].clone()
@@ -82,8 +74,8 @@ class DeepSCTranseiver(BaseTranseiver):
             predictions.append(prediction)
             predicted_idx = torch.argmax(prediction, dim=-1).long()
             outputs = torch.cat([data['target'], predicted_idx], dim=-1)
-            look_ahead_mask = create_look_ahead_mask(outputs.size(1)).to(device)
-            data['target_padding_mask'] = create_padding_mask(outputs).to(device)
+            look_ahead_mask = get_look_ahead_mask(outputs.size(1)).to(device)
+            data['target_padding_mask'] = get_padding_mask(outputs).to(device)
             data['combined_mask']= torch.max(data['target_padding_mask'], look_ahead_mask)
             data['target'] = outputs
 
