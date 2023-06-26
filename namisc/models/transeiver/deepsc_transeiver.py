@@ -62,28 +62,25 @@ class DeepSCTranseiver(BaseTranseiver):
         tgt_size = data['target'].size(1)    
         look_ahead_mask = get_look_ahead_mask(tgt_size).to(device)
         data['target_padding_mask'] = torch.max(data['target_padding_mask'], look_ahead_mask)
-        ret = self.cd(self.channel(self.ce(self.se(data))))
-        
-        cd_output = ret['data'].clone()
-        predictions = []
+        data = self.cd(self.channel(self.ce(self.se(data))))
+        cd_output = data['data'].clone()
         for _ in range(self.max_length):
-            ret['data'] = cd_output.clone()
-            ret = self.sd(ret)
+            data['data'] = cd_output.clone()
+            ret = self.sd(data)
             prediction = ret['data'][:, -1:, :]  # (batch_size, 1, vocab_size)
-            predictions.append(prediction)
             predicted_idx = torch.argmax(prediction, dim=-1).long()
             outputs = torch.cat([data['target'], predicted_idx], dim=-1)
             look_ahead_mask = get_look_ahead_mask(outputs.size(1)).to(device)
             data['target_padding_mask'] = get_padding_mask(outputs).to(device)
-            data['combined_mask']= torch.max(data['target_padding_mask'], look_ahead_mask)
+            data['target_padding_mask']= torch.max(data['target_padding_mask'], look_ahead_mask)
             data['target'] = outputs
 
-        predictions = torch.cat(predictions, dim=1)
+    
         sentences = outputs.cpu().numpy().tolist()
         words = list(map(kwargs.get('extra_func'), sentences))
 
-        target_sent = data['target'].cpu().numpy().tolist()
-        targets = list(map(kwargs.get('extra_func'), target_sent))
+        target_sentences = data['target'].cpu().numpy().tolist()
+        targets = list(map(kwargs.get('extra_func'), target_sentences))
         
         outputs = {
             'words': words,
