@@ -25,6 +25,7 @@ data_info = {
 }
 
 
+
 def extract(filepath, target_dir, format):
     if format == 'tgz':
         with tarfile.open(filepath, 'r:gz') as tar:
