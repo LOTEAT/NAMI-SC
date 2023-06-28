@@ -52,7 +52,7 @@ class DeepSCSemanticDecoder(BaseSD):
 
         for i in range(self.num_layers):
             x, _, _ = self.dec_layers[i](
-                x, data['data'], data['target_padding_mask'], data['data_padding_mask']
+                x, data['data'], data['target_padding_mask'], data['dec_padding_mask']
             )
         x = self.final_layer(x)
         data['data'] = x

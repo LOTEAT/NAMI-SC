@@ -69,7 +69,7 @@ model = dict(
     ),
     channel=dict(
         type='Awgn',
-        snr=6,
+        snr=3,
     ),
     cd=dict( 
         type='DeepSCChannelDecoder',
@@ -121,11 +121,6 @@ train_pipeline = [
         type='GetDecoderData',
         enable=True
     ),
-    dict(
-        type='CreatePaddingMask',
-        enable=True,
-        keys=['data', 'target']
-    ),
 ]
 
 test_pipeline = [
@@ -142,11 +137,6 @@ test_pipeline = [
         type='GetDecoderData',
         enable=True,
         is_test=True
-    ),
-    dict(
-        type='CreatePaddingMask',
-        enable=True,
-        keys=['data', 'target']
     ),
 ]
 

@@ -4,7 +4,7 @@ Date: 2023-06-18 22:13:47
 '''
 # Copyright (c) OpenMMLab. All rights reserved.
 from .compose import ToTensor, Compose
-from .create import (DeleteUseless, SampleData, CreatePaddingMask)
+from .create import (DeleteUseless, SampleData)
 from .torch_call import TorchCall
 
 __all__ = [
@@ -13,5 +13,4 @@ __all__ = [
     'Compose',
     'SampleData',
     'TorchCall',
-    'CreatePaddingMask'
 ]

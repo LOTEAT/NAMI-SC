@@ -42,8 +42,15 @@ class DeepSCTranseiver(BaseTranseiver):
     def train_step(self, data, optimizer, **kwargs):
         device = data['data'].device
         tgt_size = data['target'].size(1)
-        look_ahead_mask = get_look_ahead_mask(tgt_size).to(device)
-        data['target_padding_mask'] = torch.max(data['target_padding_mask'], look_ahead_mask)
+        
+        data['enc_padding_mask'] = get_padding_mask(data['data'])
+        data['dec_padding_mask'] = get_padding_mask(data['data'])
+        
+        data['target_padding_mask'] = torch.max(
+            get_padding_mask(data['target']), 
+            get_look_ahead_mask(tgt_size).to(device)
+        )
+        
         ret = self.forward(data, is_test=False)
         loss = sparse_categorical_cross_entropy(data['target_y'], ret['data'])
         log_vars = {'loss': loss.item()}
@@ -59,27 +66,40 @@ class DeepSCTranseiver(BaseTranseiver):
     
     def test_step(self, data, optimizer, **kwargs):
         device = data['data'].device
+
+        data['enc_padding_mask'] = get_padding_mask(data['data'])
+        data['dec_padding_mask'] = get_padding_mask(data['data'])
+        
         tgt_size = data['target'].size(1)    
-        look_ahead_mask = get_look_ahead_mask(tgt_size).to(device)
-        data['target_padding_mask'] = torch.max(data['target_padding_mask'], look_ahead_mask)
+        
+        data['target_padding_mask'] = torch.max(
+            get_padding_mask(data['target']), 
+            get_look_ahead_mask(tgt_size).to(device)
+        )
+        
         data = self.cd(self.channel(self.ce(self.se(data))))
+        
         cd_output = data['data'].clone()
+        
         for _ in range(self.max_length):
             data['data'] = cd_output.clone()
             ret = self.sd(data)
             prediction = ret['data'][:, -1:, :]  # (batch_size, 1, vocab_size)
             predicted_idx = torch.argmax(prediction, dim=-1).long()
             outputs = torch.cat([data['target'], predicted_idx], dim=-1)
-            look_ahead_mask = get_look_ahead_mask(outputs.size(1)).to(device)
-            data['target_padding_mask'] = get_padding_mask(outputs).to(device)
-            data['target_padding_mask']= torch.max(data['target_padding_mask'], look_ahead_mask)
+         
+            data['target_padding_mask'] = torch.max(
+                get_padding_mask(outputs).to(device), 
+                get_look_ahead_mask(outputs.size(1)).to(device)
+            )
+            
             data['target'] = outputs
 
     
         sentences = outputs.cpu().numpy().tolist()
         words = list(map(kwargs.get('extra_func'), sentences))
 
-        target_sentences = data['target'].cpu().numpy().tolist()
+        target_sentences = data['target_y'].cpu().numpy().tolist()
         targets = list(map(kwargs.get('extra_func'), target_sentences))
         
         outputs = {

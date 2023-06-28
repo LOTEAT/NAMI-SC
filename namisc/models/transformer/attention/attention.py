@@ -1,17 +1,17 @@
 '''
 Author: LOTEAT
-Date: 2023-06-18 00:05:01
+Date: 2023-06-06 19:28:31
 '''
 import math
 import torch
-from torch import nn
+import torch.nn as nn
 
 def attention(query, key, value, mask=None, dropout=None):
     "Compute 'Scaled Dot Product Attention'"
     d_k = query.size(-1)
     scores = torch.matmul(query, key.transpose(-2, -1)) / math.sqrt(d_k)
     if mask is not None:
-        scores = scores.masked_fill(mask == 0, -1e9)
+        scores += (mask * -1e9) 
     p_attn = scores.softmax(dim=-1)
     if dropout is not None:
         p_attn = dropout(p_attn)
