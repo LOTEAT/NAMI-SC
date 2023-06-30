@@ -41,7 +41,7 @@ def train_sc(cfg):
     #         broadcast_buffers=False,
     #         find_unused_parameters=find_unused_parameters)
     # else:
-    tranceiver = MMDataParallel(tranceiver.cuda(), device_ids=[1])
+    tranceiver = MMDataParallel(tranceiver.cuda(), device_ids=[cfg.get('gpu_id')])
 
     Runner = get_runner(cfg.train_runner)
     runner = Runner(tranceiver,

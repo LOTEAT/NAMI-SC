@@ -41,7 +41,7 @@ def test_sc(cfg):
     #         broadcast_buffers=False,
     #         find_unused_parameters=find_unused_parameters)
     # else:
-    network = MMDataParallel(network.cuda(), device_ids=[])
+    network = MMDataParallel(network.cuda(), device_ids=[cfg.get('gpu_id')])
 
     Runner = get_runner(cfg.test_runner)
     runner = Runner(network,
