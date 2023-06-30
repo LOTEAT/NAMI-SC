@@ -6,7 +6,7 @@ from datetime import datetime
 
 method = 'deepsc' 
 use_mine = False
-snr = 18
+snr = 15
 # optimizer
 optimizer = dict(type='Adam', lr=5e-4, betas=(0.9, 0.999))
 optimizer_config = dict(grad_clip=None)
