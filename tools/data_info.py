@@ -2,8 +2,8 @@
 Author: LOTEAT
 Date: 2023-06-28 19:31:19
 '''
-data_root = 'data'
-data_info = {
+
+data_infos = {
     'europarl': {
         'url': 'http://www.statmt.org/europarl/v7/europarl.tgz',
         'filename': 'europarl.tgz',
@@ -16,12 +16,12 @@ data_info = {
     },
     'DataShare_clean_trainset_28spk': {
         'url': 'https://datashare.ed.ac.uk/bitstream/handle/10283/2791/clean_trainset_28spk_wav.zip?sequence=2&isAllowed=y',
-        'filename': 'clean_testset_wav.zip',
+        'filename': 'clean_trainset_28spk_wav.zip',
         'format': 'zip'
     },
     'DataShare_clean_trainset_56spk': {
         'url': 'https://datashare.ed.ac.uk/bitstream/handle/10283/2791/clean_trainset_56spk_wav.zip?sequence=3&isAllowed=y',
-        'filename': 'clean_testset_wav.zip',
+        'filename': 'clean_trainset_56spk_wav.zip',
         'format': 'zip'
     },
 }

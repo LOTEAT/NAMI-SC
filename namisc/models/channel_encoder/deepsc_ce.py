@@ -11,15 +11,15 @@ from .base import BaseCE
 class DeepSCChannelEncoder(BaseCE):
     def __init__(self, d_model=128):
         super(DeepSCChannelEncoder, self).__init__()
-        self.dense0 = nn.Linear(d_model, 256)
-        self.ac_fun1 = nn.ReLU()
-        self.dense1 = nn.Linear(256, 16)
-        self.powernorm = PowerNorm()
+        
+        self.layers = nn.Sequential(
+            nn.Linear(d_model, 256),
+            nn.ReLU(),
+            nn.Linear(256, 16),
+            PowerNorm()
+        )
 
     def forward(self, data):
-        out = self.dense0(data['data'])
-        out = self.ac_fun1(out)
-        out = self.dense1(out)
-        out = self.powernorm(out)
+        out = self.layers(data['data'])
         data['data'] = out
         return data

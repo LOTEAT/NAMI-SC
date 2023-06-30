@@ -5,11 +5,15 @@ import os
 from datetime import datetime
 
 method = 'deepsc' 
-use_mine = False
-snr = 18
+use_mine = True
 # optimizer
-optimizer = dict(type='Adam', lr=5e-4, betas=(0.9, 0.999))
+optimizer_model = dict(type='Adam', lr=5e-4, betas=(0.9, 0.999))
 optimizer_config = dict(grad_clip=None)
+
+optimizer_mine = dict(type='Adam', lr=5e-4, betas=(0.9, 0.999))
+optimizer_config = dict(grad_clip=None)
+
+
 max_length = 35
 max_epochs = 100
 test_epochs = 10
@@ -46,17 +50,20 @@ test_runner = dict(type='DeepSCTestRunner')
 # runtime settings
 num_gpus = 1
 distributed = (num_gpus > 1)  
-work_dir = './work_dirs/deepsc/deepsc_#DATANAME#/snr_#SNR#/'
+work_dir = './work_dirs/deepsc/deepsc_#DATANAME#/'
 timestamp = datetime.now().strftime('%d-%b-%H-%M')
 
 # resume_from = os.path.join(work_dir, 'latest.pth')
 load_from = os.path.join(work_dir, 'latest.pth')
 
+mine_model = dict(
+    type='DeepSCMine',
+)
+
 model = dict(
     type='DeepSCTranseiver',
     cfg=dict(
         phase='train',  # 'train' or 'test'
-        use_mine=use_mine,
     ),
     se=dict(  
         type='DeepSCSemanticEncoder',
@@ -71,7 +78,7 @@ model = dict(
     ),
     channel=dict(
         type='Awgn',
-        snr=snr,
+        snr=3,
     ),
     cd=dict( 
         type='DeepSCChannelDecoder',

@@ -18,7 +18,7 @@ class DeepSCTranseiver(BaseTranseiver):
     2. 'val': phase=='train' and 'val_step()' to forward, input all testset's poses&images in one 'val_step()'
     3. 'test': phase=='test' and 'test_step()' to forward, input all testset one by one
     """
-    def __init__(self, cfg, se=None, sd=None, channel=None, cd=None, ce=None):
+    def __init__(self, cfg, se=None, sd=None, channel=None, cd=None, ce=None, mine=None):
         super().__init__()
         self.phase = cfg.get('phase', 'train')
         self.max_length = cfg.get('max_length', 35)
@@ -26,6 +26,8 @@ class DeepSCTranseiver(BaseTranseiver):
         self.sd = builder.build_sd(sd)
         self.ce = builder.build_ce(ce)
         self.cd = builder.build_cd(cd)
+        if cfg.use_mine:
+            self.mine = builder.build_mine(mine)
         self.channel = builder.build_channel(channel)
         self.words = [] 
         self.targets = []

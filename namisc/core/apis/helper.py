@@ -31,6 +31,10 @@ def parse_args():
     parser.add_argument('--test_only',
                         help='set to influence on testset once',
                         action='store_true')
+    parser.add_argument('--gpu_id', 
+                        default=0,
+                        type=int,
+                        help='set gpu device')
     parser.add_argument('--num_threads',
                         help='the number of threads for training or testing',
                         default=3,
@@ -43,6 +47,13 @@ def parse_args():
     args = parser.parse_args()
     return args
 
+def replate_snr(snr, cfg):
+    if isinstance(cfg, str):
+        cfg = cfg.replace('#SNR#', str(snr))
+    elif isinstance(cfg, Config) or isinstance(cfg, dict):
+        for k in cfg:
+            cfg[k] = replate_snr(snr, cfg[k])
+    return cfg
 
 def replace_dataname(dataname, cfg):
     """Recursively replace all '#DATANAME#' to dataname, dataname is specified
@@ -57,12 +68,18 @@ def replace_dataname(dataname, cfg):
 def update_config(dataname, cfg):
     """update_config."""
     cfg = replace_dataname(dataname, cfg)
+    cfg = replate_snr(cfg.snr, cfg)
     return cfg
 
 def update_loadfrom(load_from, cfg):
     """update_loadfrom."""
     if len(load_from) > 0:
         cfg.load_from = os.path.join(cfg.work_dir, load_from)
+    return cfg
+
+def update_gpuid(gpu_id, cfg):
+    """update_loadfrom."""
+    cfg.gpu_id = gpu_id
     return cfg
 
 
@@ -93,7 +110,10 @@ def build_dataloader(cfg, mode='train'):
 
 def get_optimizer(model, cfg):
     """get_optimizer."""
-    optimizer = build_optimizer(model, cfg.optimizer)
+    if cfg.use_mine:
+        pass
+    else:
+        optimizer = build_optimizer(model, cfg.optimizer)
     return optimizer
 
 
