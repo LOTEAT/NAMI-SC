@@ -3,12 +3,10 @@ Author: LOTEAT
 Date: 2023-06-18 20:48:31
 '''
 import torch.nn as nn
+import torch
 from ..builder import SE
 from .base import BaseSE
-from ..utils import normalize_data
-from ..transformer.base.encoder import TransformerEncoder
-from ..transformer.attention.position import PositionalEncoding
-from ..transformer.attention.embedding import Embeddings
+from ..utils import normalize_data, enframe, deframe
 
 @SE.register_module()
 class DeepSCSSemanticEncoder(BaseSE):
@@ -19,9 +17,16 @@ class DeepSCSSemanticEncoder(BaseSE):
         self.stride_length = stride_length
         self.sem_enc_outdims = sem_enc_outdims
 
-        # Define layers
-        self.conv1 = nn.Conv2d(1, self.sem_enc_outdims[0], kernel_size=(3, 3), stride=(2, 2))
-        self.conv2 = nn.Conv2d(self.sem_enc_outdims[0], self.sem_enc_outdims[1], kernel_size=(3, 3), stride=(2, 2))
+        self.layers = nn.ModuleList([
+            nn.Conv2d(3, self.outdims[0], kernel_size=(5, 5), stride=(2, 2), padding=2, bias=False),
+            nn.BatchNorm2d(self.outdims[0]),
+            nn.ReLU(),
+            nn.Conv2d(self.outdims[0], self.outdims[1], kernel_size=(5, 5), padding=2, stride=(2, 2), bias=False),
+            nn.BatchNorm2d(self.outdims[1]),
+            nn.ReLU(),
+        ])
+
+
         self.resnet_modules = nn.ModuleList()
         for module_count, outdim in enumerate(self.sem_enc_outdims[2:]):
             self.resnet_modules.append(SEResNet(outdim))
@@ -29,19 +34,13 @@ class DeepSCSSemanticEncoder(BaseSE):
     def forward(self, data):
         # Preprocessing _input
         normalized_data, mean, var = normalize_data(data)  # Assuming wav_norm is defined separately
-        _input = enframe(_input, self.num_frame, self.frame_length, self.stride_length)
-        _input = torch.unsqueeze(_input, dim=1)
+        normalized_data = enframe(normalized_data, self.num_frame, self.frame_length, self.stride_length)
+        normalized_data = torch.unsqueeze(normalized_data, dim=1)
 
         ###################### Semantic Encoder ######################
-        _output = self.conv1(_input)
-        _output = F.relu(_output)
-        _output = self.conv2(_output)
-        _output = F.relu(_output)
-        for module_count, resnet_module in enumerate(self.resnet_modules):
-            _output = resnet_module(_output)
-            _output = F.relu(_output)
+        output = self.layers(normalized_data)
 
-        return _output, batch_mean, batch_var
+        return output, mean, var
 
 
 class SEResNet(nn.Module):
